@@ -80,3 +80,6 @@ services and processes.
 
 That´s the new mindset for the new Companies and our CITSmart ESP - Enterprise
 Services Platform will help changes those corporates perspective.
+
+!!! tip "About"
+    <b>Updated:</b>12/31/2018 - Andre Luiz de Oliveira Fernandes
