@@ -1,5 +1,7 @@
 title: ESP Overview  
+
 Description: CITSmart ESP is an intelligent corporate governance platform, created to facilitate the unification of information. It enables the management of Information of services and their processes in the organizational environment providing governance.CITSmart ESP is an intelligent concept of unity and practicality in corporate management. 
+
 CITSmart ESP
 ============
 
@@ -182,11 +184,11 @@ consistency in movement.
 The future vision of CITSmart is based on 4 pillars: **People, Processes,
 Experiences and Results.**
 
-| INTEGRATED | **People**      | It's the source of everything. It's the motivation for everything. However, it may also be the fault.                                                                                                                                                                                                                                 |
-|------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|            | **Processes**   | It's the way to guide people's experiences (work experiences and experiences for clients). It's the way to move people towards the right direction.                                                                                                                                                                                   |
-|            | **Experiences** | Experiences move people. They release good feelings. It's transformative. It's motivating. It's loyalty. It's future.                                                                                                                                                                                                                 |
-|            | **Results**     | That's what everyone is after. Represents delivering value to someone. At the end of every cycle, everything that involves the previous pillars must converge to results for the department and the organization. Here are the goals and challenges to be achieved. This pillar guides all of the previous ones on the way to pursue. |
+| **People**      | It's the source of everything. It's the motivation for everything. However, it may also be the fault.                                                                                                                                                                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Processes**   | It's the way to guide people's experiences (work experiences and experiences for clients). It's the way to move people towards the right direction.                                                                                                                                                                                   |
+| **Experiences** | Experiences move people. They release good feelings. It's transformative. It's motivating. It's loyalty. It's future.                                                                                                                                                                                                                 |
+| **Results**     | That's what everyone is after. Represents delivering value to someone. At the end of every cycle, everything that involves the previous pillars must converge to results for the department and the organization. Here are the goals and challenges to be achieved. This pillar guides all of the previous ones on the way to pursue. |
 
 Processes link people to one another. Have processes from the perspective of
 generating positive experiences and people will be more connected, produce more,
