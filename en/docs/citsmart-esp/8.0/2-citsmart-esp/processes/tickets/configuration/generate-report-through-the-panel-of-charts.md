@@ -1,10 +1,8 @@
-title: **Generate report through the panel of charts and reports - request and
-incident**
+title: Generate report through the panel of charts and reports - request and incident
 
 Description: Generate report through the panel
 
-\#**Generate report through the panel of charts and reports - request and
-incident**
+#Generate report through the panel of charts and reports - request and incident
 
 The following topics will be addressed to understand how to generate charts and
 reports for incidents and requests.
@@ -13,8 +11,7 @@ In all cases, there are several ways to view reports through four icons:
 
 -   To generate a table with information, click on the icon ;
 
--   To display the chart options, click on the icon  and select the shape of the
-    chart;
+-   To display the chart options, click on the icon  and select the shape of the chart;
 
 -   To generate a report in PDF, click on the icon ;
 
@@ -28,11 +25,9 @@ charts.
 
 ### **Procedure**
 
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
+1.  Access the functionality through the main menu Reports \> Incident/Request Management \> Charts and Reports (Panel);
 
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
+2.  In the field "Information Group", select the option "Incidents and Requests";
 
 3.  Click on the report "Incident Monitoring";
 
@@ -40,13 +35,11 @@ charts.
 
 5.  It will be presented the charts of incidents according to the filters set.
 
-**Generate reports of requests monitoring**
--------------------------------------------
-
+##Generate reports of requests monitoring
 This report allows to view the information about service request monitoring in
 form of charts.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incidents/Request
     Management \> Charts and Reports (Panel);
