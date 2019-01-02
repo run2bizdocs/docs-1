@@ -33,7 +33,7 @@ connection, besides of install and configure the monitoring tool.
     filters, and the number of occurrences of events on that particular date.
     Therefore, to generate the chart for trend analysis of the events by
     classification, CI, technical service and/or business service, click on
-    "Generate Chart".
+    "Generate Chart".  
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
 !!! tip "About"
