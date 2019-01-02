@@ -54,4 +54,6 @@ each employee and/or group.
     "Generate XLS" to create report in Excel.
 
 !!! Abstract "Colocar Título"
-NOTE: when a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person captures that request.  
+    when a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
+    date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person   
+    captures that request.  
