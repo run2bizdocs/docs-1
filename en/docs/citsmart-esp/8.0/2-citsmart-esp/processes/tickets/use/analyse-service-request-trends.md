@@ -28,17 +28,17 @@ Procedure
     for Create Problem, where the problem registration screen will be
     displayed to save the necessary information of the problem:
 
--   When you choose to register a problem from the **Service**, the problem
-    registration screen will be displayed with the "Description" field completed
-    with the name of the corresponding service;
+When you choose to register a problem from the **Service**, the problem
+registration screen will be displayed with the "Description" field completed
+with the name of the corresponding service;
 
--   When you choose to register a problem from the **Cause**, the problem
-    registration screen will be displayed with the fields "Description" and
-    "Cause" completed with the description of the corresponding cause;
+When you choose to register a problem from the **Cause**, the problem
+registration screen will be displayed with the fields "Description" and
+"Cause" completed with the description of the corresponding cause;
 
--   When you choose to register a problem from the **Configuration Item**, the
-    problem registration screen will be displayed with the "Description" field
-    completed with information from the corresponding configuration item.  
+When you choose to register a problem from the **Configuration Item**, the
+problem registration screen will be displayed with the "Description" field
+completed with information from the corresponding configuration item.  
  
 Related
 -----------
