@@ -34,7 +34,7 @@ deleting the subject of a knowledge.
     <b>Updated:</b>01/02/2019 – Anna Martins 
 
 
-| Andre | Analista | Dezembro |
+|       |          |          |
 |-------|----------|----------|
 | Andre | Analista | Dezembro |
 | Andre | Analista | Dezembro |
