@@ -2,8 +2,8 @@ title: Generate reports - Request and Incident management
 Description: Generate reports – Ticket management
 
 #Generate reports - Request and Incident management
-Generate reports of causes and solutions ANDRE
-----------------------------------------
+Generate reports of causes and solutions
+
 
 This report has the objective to present the causes and solution of the service
 requests.
@@ -23,7 +23,7 @@ requests.
     Analytical Report XLS" to create the detailed report in Excel.
 
 Generate report Gantt
----------------------
+
 
 This report has the objective of present the service incidents and requests in
 Gantt chart.
@@ -38,7 +38,7 @@ Gantt chart.
 3.  Click on "Filter" to generate the Gantt chart.
 
 Generate workload report
-------------------------
+
 
 This report has the objective of present the calculation of hours worked for
 each employee and/or group.
@@ -59,7 +59,7 @@ each employee and/or group.
     captures that request.
 
 Generate quantitative report
-----------------------------
+
 
 This report has the objective of present the amount of service requests
 according to the status entered.
@@ -75,7 +75,7 @@ according to the status entered.
     "Generate XLS" to create the report in Excel.
 
 Generate report quantitative by services completed (synthetic)
---------------------------------------------------------------
+
 
 This report has the objective of present the report of requests/incidents
 (services) completed.
@@ -91,7 +91,7 @@ This report has the objective of present the report of requests/incidents
     to create the report in Excel.
 
 Generate report of services completed (analytical)
---------------------------------------------------
+
 
 This report has the objective of present the report of request/incident
 (services) completed.
@@ -107,7 +107,7 @@ This report has the objective of present the report of request/incident
     to create a report in Excel.
 
 Generate report of satisfaction survey
---------------------------------------
+
 
 This report has the objective of present the information about the satisfaction
 survey in relation to the attendance of the service requests.
@@ -128,7 +128,7 @@ linked.
     or "Export CSV".
 
 Generate service requests
--------------------------
+
 
 This report has the objective of present the registration history of the service
 request.
@@ -161,7 +161,7 @@ request.
     Detailed Report" button to generate the detailed Excel report .
 
 Generate request execution report
----------------------------------
+
 
 This report has the objective of present the service request per executor.
 
@@ -176,7 +176,7 @@ This report has the objective of present the service request per executor.
     to create the report in Excel.
 
 Generate request approval
--------------------------
+
 
 This report has the objective of present the service requests that were and were
 not approved.
@@ -192,7 +192,7 @@ not approved.
     XLS” to create report in Excel.
 
 Generate request execution report
----------------------------------
+
 
 This report has the objective of present the responsible for executing the
 service request.
@@ -208,7 +208,7 @@ service request.
     create the report in Excel.
 
 Generate report of reopened request
------------------------------------
+
 
 This report has the objective of present all request that were reopened in a
 period.
@@ -224,7 +224,7 @@ period.
     create the report in Excel.
 
 Generate top 10 report of incidents/requests
---------------------------------------------
+
 
 This report has the objective of present the top 10 incidents/requests according
 to the filters choose by the user.
@@ -255,7 +255,7 @@ to the filters choose by the user.
     create the report in Excel.
 
 Generate report of incident/request by service
-----------------------------------------------
+
 
 This report has the objective of present the amount of request and incident that
 were requested, regarding the service catalog and portfolio.
