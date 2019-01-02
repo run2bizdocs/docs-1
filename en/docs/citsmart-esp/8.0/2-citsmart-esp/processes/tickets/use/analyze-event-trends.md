@@ -13,10 +13,10 @@ Procedure
 5.	Each result tab will contain a button for generating the trend analysis chart, which displays the dates that comprise the period reported in the filters, and the number of occurrences of events on that particular date. Therefore, to generate the chart for trend analysis of the events by classification, CI, technical service and/or business service, click on "Generate Chart".
 
 Related
- [Register a contract]( https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load#/knowledge/7424)
-Create ticket
-Register Event Monitor Connection
-Register Nagios/Zabbix connection
+ -[Register a contract]( https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load#/knowledge/7424)
+-Create ticket
+-Register Event Monitor Connection
+-Register Nagios/Zabbix connection
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list= akMzvEEehr4&list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz )'
