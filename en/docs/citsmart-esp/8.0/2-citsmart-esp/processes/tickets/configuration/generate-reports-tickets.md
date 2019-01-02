@@ -270,12 +270,9 @@ were requested, regarding the service catalog and portfolio.
 3.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
 
-\<i class='fa fa-youtube-play fa-2x' style='color:\#97ce17;vertical-align:
-middle;'\> \</i\> [Video
-Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
 
-\<b\>Product/Verssion:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
-
-\<b\>Updated:\</b\>01/02/2019 -
+    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/02/2019 - ANNA PAULLA NEVES MARTINS
