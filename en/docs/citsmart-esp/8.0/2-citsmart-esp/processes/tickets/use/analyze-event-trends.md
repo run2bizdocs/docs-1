@@ -35,16 +35,18 @@ connection, besides of install and configure the monitoring tool.
     classification, CI, technical service and/or business service, click on
     "Generate Chart".  
     
-**Related**
+Related
 -------
 
-Register a contract
+[Register a contract](
+https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load\#/knowledge/7424)
 
 Create ticket
 
 Register Event Monitor Connection
 
 Register Nagios/Zabbix connection
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
