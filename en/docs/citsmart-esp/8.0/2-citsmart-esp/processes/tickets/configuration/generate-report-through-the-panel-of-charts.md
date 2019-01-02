@@ -83,7 +83,7 @@ incidents in form of list.
     period.
 
 Generate reports about the amount of attendance and SLA
------------------------------------------------------------
+
 
 This report allows to verify the number of attendance and SLA of incidents and
 requests.
