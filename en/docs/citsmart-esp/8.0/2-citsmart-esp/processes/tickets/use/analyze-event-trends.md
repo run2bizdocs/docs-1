@@ -3,7 +3,8 @@ title: Analyze event trends
 Description: Generate Events Trend Analysis charts by Business Service in a given period, in order to analysis the events. Trend analysis consists of using data to forecast future results.
 #Analyze event trends
 This function aims to generate Events Trend Analysis charts by Business Service in a given period, in order to analysis the events. Trend analysis consists of using data to forecast future results.
-This functionality can only be used in instances where the client also deployed the Events module.
+This functionality can only be used in instances where the client also deployed the Events module.  
+
 **Before getting started**
 --------------------------
 
