@@ -20,7 +20,7 @@ It's necessary to previously register a profile and a group.
 create-folder
 
 ##Related
-- Register group  
+- [Register group]: https://www.mozilla.org
 - Create knowledge  
 - Create profile access  
 - Configure external access to the knowledge portal  
