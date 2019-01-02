@@ -275,4 +275,4 @@ were requested, regarding the service catalog and portfolio.
 !!! tip "About"
 
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 - ANNA PAULLA NEVES MARTINS
+    <b>Updated:</b>01/02/2019 - Anna Martins
