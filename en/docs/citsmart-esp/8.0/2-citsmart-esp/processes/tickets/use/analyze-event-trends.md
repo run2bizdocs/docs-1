@@ -6,14 +6,14 @@ This function aims to generate Events Trend Analysis charts by Business Service 
 This functionality can only be used in instances where the client also deployed the Events module.  
 
 
-**Before getting started**
+Before getting started
 --------------------------
 
 To make the event trend analysis, it's necessary to previously register a
 contract, a service request (ticket), configure the CITSmart Event Monitor
 connection, besides of install and configure the monitoring tool.
 
-**Procedure**
+Procedure
 -------------
 
 1.  Access the functionality event trend analysis through the main menu
