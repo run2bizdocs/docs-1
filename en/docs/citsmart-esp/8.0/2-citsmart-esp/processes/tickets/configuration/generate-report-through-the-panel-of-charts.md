@@ -11,23 +11,26 @@ In all cases, there are several ways to view reports through four icons:
 
 -   To generate a table with information, click on the icon ;
 
--   To display the chart options, click on the icon  and select the shape of the chart;
+-   To display the chart options, click on the icon  and select the shape of the
+    chart;
 
 -   To generate a report in PDF, click on the icon ;
 
 -   To generate a report in Excel, click on the icon .
 
 Generate reports of incidents monitoring
-
+--------------------------------------------
 
 This report allows to view the information about incident monitoring in for of
 charts.
 
-### Procedure
 
-1.  Access the functionality through the main menu Reports \> Incident/Request Management \> Charts and Reports (Panel);
 
-2.  In the field "Information Group", select the option "Incidents and Requests";
+1.  Access the functionality through the main menu Reports \> Incident/Request
+    Management \> Charts and Reports (Panel);
+
+2.  In the field "Information Group", select the option "Incidents and
+    Requests";
 
 3.  Click on the report "Incident Monitoring";
 
@@ -35,11 +38,13 @@ charts.
 
 5.  It will be presented the charts of incidents according to the filters set.
 
-##Generate reports of requests monitoring
+Generate reports of requests monitoring
+-------------------------------------------
+
 This report allows to view the information about service request monitoring in
 form of charts.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incidents/Request
     Management \> Charts and Reports (Panel);
@@ -54,12 +59,12 @@ form of charts.
 5.  It will be presented the charts of requests according to the filters set.
 
 Generate reports about the design in the capture of incidents and requests (closed)
-
+---------------------------------------------------------------------------------------
 
 This report allows to view the information about the execution performance of
 incidents in form of list.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -83,12 +88,12 @@ incidents in form of list.
     period.
 
 Generate reports about the amount of attendance and SLA
-
+-----------------------------------------------------------
 
 This report allows to verify the number of attendance and SLA of incidents and
 requests.
 
-### Procedure
+
 
 1.  Access the functionality though the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -103,12 +108,12 @@ requests.
 5.  It will be presented the report according to the filters set.
 
 Generate reports about the SLA control
-
+------------------------------------------
 
 This report allows to verify the SLA information of incidents and requests in
 form of chart.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -123,12 +128,12 @@ form of chart.
 5.  It will be presented the report of SLA control according to the filters set.
 
 Generate quantitative reports by time of opening
-
+----------------------------------------------------
 
 This report allows to verify the amount of requests registered by the time of
 its opening.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -143,11 +148,11 @@ its opening.
 5.  It will be presented the chart of report according to the filters set.
 
 Generate reports about satisfaction surveys of attendances (incidents and requests)
-
+---------------------------------------------------------------------------------------
 
 This report allows to verify the information of satisfaction survey.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -164,11 +169,11 @@ This report allows to verify the information of satisfaction survey.
     filters set.
 
 Generate reports about the products and services requests
-
+-------------------------------------------------------------
 
 This report allows to verify the information of service products and requests.
 
-### Procedure
+
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -182,6 +187,7 @@ This report allows to verify the information of service products and requests.
 
 5.  It will be presented the report of products and services requests according
     to the filters set.
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
