@@ -145,7 +145,7 @@ request.
 
         The amount of requests listed, by page, is regarding the amount set
         in the parameter "261 - amount of registers returned in the advanced
-        search".**
+        search".
 
 1.  In the requests presented in the list, it is possible to perform the
     following actions: consult ticket history, view request/incident, view
@@ -242,14 +242,14 @@ to the filters choose by the user.
         “All” for the filter “Top List”, it can exists difference between the number
         of requests of the “Top 10 report of locations that opened more
         requests/incidents”, with the number that was found in other reports, due
-        the no obligation of a request being linked to a location.**
+        the no obligation of a request being linked to a location.
 
         The field “finish date” will be used to filter the period of the
         “Top 10 report of execution groups that solved more requests/incidents”, so,
-        it can vary in the number of requests opened in the period.**
+        it can vary in the number of requests opened in the period.
 
         The system will present all unities and services actives, regarding
-        the contract selected.**
+        the contract selected.
 
 1.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
