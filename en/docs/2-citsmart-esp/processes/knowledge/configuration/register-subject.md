@@ -1,6 +1,7 @@
 title: Register subject
 
-Description: register the subject of a knowledge, that will be used in the search of Reports of Topics or Subjects available or not in the knowledge base. This feature provides various actions, such as including, changing and deleting the subject of a knowledge.
+Description: register the subject of a knowledge, that will be used in the search of Reports of Topics or Subjects available or not in the knowledge base.  
+This feature provides various actions, such as including, changing and deleting the subject of a knowledge.
 
 #Register subject
 
