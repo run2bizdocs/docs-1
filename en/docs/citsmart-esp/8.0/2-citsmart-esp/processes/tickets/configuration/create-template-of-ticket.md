@@ -4,7 +4,7 @@ Description: Provides a variety of actions, such as including, changing, and del
 This feature provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.
 
 Before getting started
-----------------------
+
 
 In order to register a ticket template, it's necessary to pre-register the
 contract and being linked to the service; the group and being linked to the
@@ -16,7 +16,7 @@ included in the group that is linked to the contract so that it's possible to
 register the and configure parameter 9.
 
 Procedure
----------
+
 
 1.  Access the functionality Incidents/Requests/Procedures Template through the
     main menu Processes \> Request and Incident Management \> Ticket model;
