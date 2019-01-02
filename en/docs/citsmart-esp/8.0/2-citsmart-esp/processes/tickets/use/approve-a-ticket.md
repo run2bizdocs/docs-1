@@ -35,7 +35,7 @@ Procedure
     approved, it will be directed to the execution phase, that is, to its
     attendance. However, if the ticket is not approved, it will be closed.  
     
-    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list= PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+   <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
 !!! tip "About"
 
