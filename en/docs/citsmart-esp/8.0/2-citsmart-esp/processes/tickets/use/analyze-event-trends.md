@@ -38,8 +38,7 @@ Procedure
 Related
 -------
 
-[Register a contract](
-https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load\#/knowledge/7424)
+Register a contract
 
 Create ticket
 
