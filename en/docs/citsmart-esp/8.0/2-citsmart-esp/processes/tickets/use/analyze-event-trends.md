@@ -34,8 +34,8 @@ connection, besides of install and configure the monitoring tool.
     Therefore, to generate the chart for trend analysis of the events by
     classification, CI, technical service and/or business service, click on
     "Generate Chart".  
-    **Related**
------------
+**Related** 
+------------
 
 \-Register a contract
 
