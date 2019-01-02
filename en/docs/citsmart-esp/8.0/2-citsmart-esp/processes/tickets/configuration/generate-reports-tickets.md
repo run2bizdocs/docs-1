@@ -56,4 +56,4 @@ each employee and/or group.
 !!! Abstract "Colocar Título"
     when a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
     date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person   
-    captures that request.  
+    captures that request.
