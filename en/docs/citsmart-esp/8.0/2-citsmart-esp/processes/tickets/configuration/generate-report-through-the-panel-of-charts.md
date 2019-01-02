@@ -17,13 +17,13 @@ In all cases, there are several ways to view reports through four icons:
 
 -   To generate a report in Excel, click on the icon .
 
-**Generate reports of incidents monitoring**
---------------------------------------------
+Generate reports of incidents monitoring
+
 
 This report allows to view the information about incident monitoring in for of
 charts.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request Management \> Charts and Reports (Panel);
 
@@ -53,13 +53,13 @@ form of charts.
 
 5.  It will be presented the charts of requests according to the filters set.
 
-**Generate reports about the design in the capture of incidents and requests (closed)**
----------------------------------------------------------------------------------------
+Generate reports about the design in the capture of incidents and requests (closed)
+
 
 This report allows to view the information about the execution performance of
 incidents in form of list.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -82,13 +82,13 @@ incidents in form of list.
     summary table with the percentage of requests captured in the priority
     period.
 
-**Generate reports about the amount of attendance and SLA**
+Generate reports about the amount of attendance and SLA
 -----------------------------------------------------------
 
 This report allows to verify the number of attendance and SLA of incidents and
 requests.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality though the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -102,13 +102,13 @@ requests.
 
 5.  It will be presented the report according to the filters set.
 
-**Generate reports about the SLA control**
-------------------------------------------
+Generate reports about the SLA control
+
 
 This report allows to verify the SLA information of incidents and requests in
 form of chart.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -122,13 +122,13 @@ form of chart.
 
 5.  It will be presented the report of SLA control according to the filters set.
 
-**Generate quantitative reports by time of opening**
-----------------------------------------------------
+Generate quantitative reports by time of opening
+
 
 This report allows to verify the amount of requests registered by the time of
 its opening.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -142,12 +142,12 @@ its opening.
 
 5.  It will be presented the chart of report according to the filters set.
 
-**Generate reports about satisfaction surveys of attendances (incidents and requests)**
----------------------------------------------------------------------------------------
+Generate reports about satisfaction surveys of attendances (incidents and requests)
+
 
 This report allows to verify the information of satisfaction survey.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -163,12 +163,12 @@ This report allows to verify the information of satisfaction survey.
 5.  It will be presented the chart of satisfaction survey according to the
     filters set.
 
-**Generate reports about the products and services requests**
--------------------------------------------------------------
+Generate reports about the products and services requests
+
 
 This report allows to verify the information of service products and requests.
 
-### **Procedure**
+### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
