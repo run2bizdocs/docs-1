@@ -21,7 +21,7 @@ Procedure
     of capture or view;
 
 3.  To view the information abouth the specific fields, click on the
-    tabs: **Requester, Request, Execution and **Closure**;
+    tabs: **Requester, Request, Execution and Closure**;
 
 4.  To link **Sub-requests**, click on its area and then on "Create subrequest"
     to create a new request, or click on "Create subrequest by copy" to register
