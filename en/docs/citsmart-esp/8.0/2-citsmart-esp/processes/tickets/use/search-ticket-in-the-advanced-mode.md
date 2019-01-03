@@ -23,7 +23,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the menu button  and then on "Advanced Search";
+2. Click the menu button located in the upper left corner of the screen and then on "Advanced Search";
 
 3.  Complete the fields with the information you want. Remembering that the
     effectiveness of the search depends on following some rules of permission by
