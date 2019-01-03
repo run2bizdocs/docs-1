@@ -25,22 +25,30 @@ Procedure
 4.  On the left side, it's presented the different attributes that can be
     configured.
 
-\| \*\*Field\*\* \| \*\*Objective\*\* \|
-
-\|:---------:\|:----------------------------------------------------------------------------------------------------------:\|
-
-\| Time \| Enter the deadline for the escalation/notification of the ticket \|
-
-\| Format \| Enter if the rule is regarding to minutes (time of the rule) or
-percentage (regarding the time o SLA) \|
-
-\| Condition \| Select the mark of escalation/notification (if it will happen
-before or after the rupture of the deadline) \|
-
-\| Date \| Select the date of reference rule (the date of its creation, date of
-last occurrence or its limit date) \|
-
-\| Action \| Link the type of automatic action to the new rule \|
+|          **Name**          |  **Type** |                                                                                           **Objective**                                                                                           |
+|:--------------------------:|:---------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|           Details          | Attribute |                                                                            It allows to change/update the service data                                                                            |
+| Service Level Requirements | Attribute |                                                                        It allows to register the service level requirements                                                                       |
+|    Financial Attributes    | Attribute |                                                                       It allows to register the service financial attributes                                                                      |
+|       Business Cases       | Attribute |                                         It allows to register the business case of the service. This business case is a summary of all service information                                        |
+|         Service Map        | Attribute | It allows to set the design of service map related to the enabling services and configuration items. In this design, it's defined which enabling service will be used to perform the main service |
+|     Business Processes     | Attribute |                                                           It allows to link the business processes that are not supported by the service                                                          |
+|      Support Services      | Attribute |                                                     It allows to link the support/technical services. Those services support the main service                                                     |
+|       Business Owner       | Attribute |                                                       It allows to link the business owner to the service, which can be employees or groups                                                       |
+|        Business User       | Attribute |                                                                          It allows to link business users to the service                                                                          |
+|          Requests          | Attribute |                                                                       It allows to register the service activities requests                                                                       |
+|        Applications        | Attribute |                                                              It allows to link the applications that will be used to run the service                                                              |
+|         Data Schema        | Attribute |                                                                        It allows to register the data schema of the service                                                                       |
+|          Incidents         | Attribute |                                                                       It allows to register the service incident activities                                                                       |
+|         Procedures         | Attribute |                  It allows to register the procedures for the service, which will be used by the continuity management to trigger and control the service restoration activities                  |
+|          Contracts         | Attribute |                                                                      It allows to link the contract that provides the service                                                                     |
+|          IT Owners         | Attribute |                                                        It allows to link the IT service owners to the service, which can be users or groups                                                       |
+|       Knowledge Base       | Attribute |                                   It allows to link the knowledge to the service. The knowledge is an information of the service provider to deliver the service                                  |
+|       Skill/Resource       | Attribute |                                                                       It allows to link the skills/resources to the service                                                                       |
+|    Capacity/Performance    | Attribute |                                                                It allows to link indicators of capacity/performance to the service                                                                |
+|     Attribute of Demand    | Attribute |                                                                         It allows to link demand attributes to the service                                                                        |
+|     Service Evaluations    | Attribute |                                                         It allows to manage the service evaluations that were registered via Smart Portal                                                         |
+|        Service Audit       | Attribute |                                                                       It allows to verify the history of service to audit it                                                                      |
 
 Related
 -----------
