@@ -9,14 +9,14 @@ reports for incidents and requests.
 
 In all cases, there are several ways to view reports through four icons:
 
--   To generate a table with information, click on the icon ;
+-   To generate a table with information, click on the icon "table" ;
 
--   To display the chart options, click on the icon  and select the shape of the
+-   To display the chart options, click on the icon "charts" and select the shape of the
     chart;
 
--   To generate a report in PDF, click on the icon ;
+-   To generate a report in PDF, click on the icon "download PDF document";
 
--   To generate a report in Excel, click on the icon .
+-   To generate a report in Excel, click on the icon "download document XLS" .
 
 Generate reports of incidents monitoring
 --------------------------------------------
