@@ -1,5 +1,5 @@
-title: Create template of incident, request and procedure
-Description: Provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request. 
+title: Create template of incident, request and procedure  
+Description: Provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.  
 #Create template of incident, request and procedure
 This feature provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.
 
