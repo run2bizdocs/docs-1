@@ -2,13 +2,11 @@ title: Generate reports - Request and Incident management
 Description: Generate reports – Ticket management
 
 #Generate reports - Request and Incident management
-Generate reports of causes and solutions
 
+##Generate reports of causes and solutions
 
 This report has the objective to present the causes and solution of the service
-requests.
-
-### Procedure
+requests.  
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Managment \> Causes and Solutions Control;
@@ -22,13 +20,10 @@ requests.
     Report PDF" to create the detailed report in PDF and/or on "Generate
     Analytical Report XLS" to create the detailed report in Excel.
 
-Generate report Gantt
-
+##Generate report Gantt
 
 This report has the objective of present the service incidents and requests in
 Gantt chart.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Gantt;
@@ -37,13 +32,10 @@ Gantt chart.
 
 3.  Click on "Filter" to generate the Gantt chart.
 
-Generate workload report
-
+##Generate workload report
 
 This report has the objective of present the calculation of hours worked for
 each employee and/or group.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Workload Report;
@@ -58,13 +50,10 @@ each employee and/or group.
     date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person   
     captures that request.
 
-Generate quantitative report
-
+##Generate quantitative report
 
 This report has the objective of present the amount of service requests
 according to the status entered.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Quantitative;
@@ -74,13 +63,10 @@ according to the status entered.
 3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create the report in Excel.
 
-Generate report quantitative by services completed (synthetic)
-
+##Generate report quantitative by services completed (synthetic)
 
 This report has the objective of present the report of requests/incidents
 (services) completed.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Quantitative by Services Completed (Synthetic);
@@ -90,13 +76,10 @@ This report has the objective of present the report of requests/incidents
 3.  Click on "Generate PDF" to create the report in PDF and/or on "Generate XLS"
     to create the report in Excel.
 
-Generate report of services completed (analytical)
-
+##Generate report of services completed (analytical)
 
 This report has the objective of present the report of request/incident
 (services) completed.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Quantitative of Services Completed (Analytical);
@@ -106,8 +89,7 @@ This report has the objective of present the report of request/incident
 3.  Click on "Generate PDF" to create the report in PDF and/or on "Generate XLS"
     to create a report in Excel.
 
-Generate report of satisfaction survey
-
+##Generate report of satisfaction survey
 
 This report has the objective of present the information about the satisfaction
 survey in relation to the attendance of the service requests.
@@ -115,9 +97,7 @@ survey in relation to the attendance of the service requests.
 ### Before getting started
 
 It's necessary to have opened and closed call that have the satisfaction survey
-linked.
-
-### Procedure
+linked.  
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Satisfaction;
@@ -127,13 +107,10 @@ linked.
 3.  Select how to create the report when click on "Generate PDF", "Generate XLS"
     or "Export CSV".
 
-Generate service requests
-
+##Generate service requests
 
 This report has the objective of present the registration history of the service
 request.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Incident/Request;
@@ -160,12 +137,9 @@ request.
     to generate the detailed report in PDF format and / or the "Generate XLS
     Detailed Report" button to generate the detailed Excel report .
 
-Generate request execution report
-
+##Generate request execution report
 
 This report has the objective of present the service request per executor.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Request per executor;
@@ -175,13 +149,10 @@ This report has the objective of present the service request per executor.
 3.  Click on “Generate PDF” to create the report in PDF and/or on “Generate XLS”
     to create the report in Excel.
 
-Generate request approval
-
+##Generate request approval
 
 This report has the objective of present the service requests that were and were
 not approved.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Approval Requests;
@@ -191,13 +162,10 @@ not approved.
 3.  Click on “Generate PDF” to create report in PDF and/or click on “Generate
     XLS” to create report in Excel.
 
-Generate request execution report
-
+##Generate request execution report
 
 This report has the objective of present the responsible for executing the
 service request.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Request Execution Report;
