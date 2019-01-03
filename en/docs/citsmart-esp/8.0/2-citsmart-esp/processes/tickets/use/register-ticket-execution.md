@@ -29,12 +29,12 @@ Procedure
     requester when you select the "Visible to Applicant" field. Therefore, click
     on "Save".
 
-4.  !!! Abstract "NOTE"
+ !!! Abstract "NOTE"
 
-        The registration of occurrences related to the ticket is done through the
-        button "Add note". The history of all ticket instances can be viewed by
-        clicking the icon “History”, located in the upper right corner of the
-        screen.
+     The registration of occurrences related to the ticket is done through the
+     button "Add note". The history of all ticket instances can be viewed by
+     clicking the icon “History”, located in the upper right corner of the
+     screen.
 
 1.  If you have completed the ticket service, in the "Closure" area, change the
     status of the ticket to "Solved", just click on the situation to change.
@@ -55,3 +55,11 @@ Related
 -   Register solution category
 
 -   Register cause of incidents
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+
