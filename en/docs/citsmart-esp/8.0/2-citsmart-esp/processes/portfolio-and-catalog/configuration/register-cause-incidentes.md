@@ -3,17 +3,17 @@ Description: Provides the cause of incidents registration
 #Register cause of incidents
 This feature provides a variety of actions, such as including, changing, and deleting the causes of occurrence of incidents.
 
-Procedure
+**Procedure**
 -------------
 
-1.  Access the functionality Cause Incidents through the main menu Processes \>
+1-  Access the functionality Cause Incidents through the main menu Processes \>
     Portfolio and Catalog Management \> Cause Incidents;
 
-2.  Click on "New";
+2-  Click on "New";
 
-3.  Complete all mandatory fields;
+3-  Complete all mandatory fields;
 
-Click on "Save".
+4-  Click on "Save".
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
