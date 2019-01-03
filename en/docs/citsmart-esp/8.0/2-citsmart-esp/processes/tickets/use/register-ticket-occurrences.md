@@ -45,10 +45,10 @@ Procedure
     communications between the requester and executor made by "Chat" mode in the
     tab of the same name.
 
->   !!! Abstract "NOTE"  
+>  !!! Abstract "NOTE"  
 
-        To present the communications made by the "Chat", in the occurrence
-        history, it must be enabled.  
+       To present the communications made by the "Chat", in the occurrence
+       history, it must be enabled.  
  
 5-  It's possible to send a message from the executor of the ticket to the
     requester of the ticket, just click on the icon “Message to the requester” ,
