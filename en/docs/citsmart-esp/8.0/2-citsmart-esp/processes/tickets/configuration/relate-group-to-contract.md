@@ -1,18 +1,18 @@
-title: How to relate group to contract?
+title: **How to relate group to contract?**
 -------------------------------------------
 
 Description: Relate group to contract
 
-#How to relate group to contract?
+\#How to relate group to contract?
 
 1.  Access the functionality CITSmart Parameters through the main menu.
     Place the mouse on the option Parametrization and click on CITSmart
-    Parameters. It'll appear the screen of CITSmart Parameters, click on
+    Parameters**. It'll appear the screen of CITSmart Parameters, click on
     the tab CITSmart Parameters, then click on the tab Search CITSmart
     Parameters;
 
 2.  Search for the parameter "41 - Controls employee link to contracts
-    (Y/N)?" and select it;
+    (Y/N)?"and select it;
 
 3.  In the field **value**, enter the value "Y" to be presented the contracts in
     the group registration screen. Next, click on "Save";
