@@ -1,4 +1,4 @@
-title:  Suspend ticket
+title: Suspend ticket
  
 Description: It's possible to manage its steps, including suspending the attendance, making the process more efficient.
 #Suspend ticket
