@@ -6,7 +6,7 @@ Description:Relate group to contract
 
 1.  Access the functionality CITSmart Parameters through the main menu.
     Place the mouse on the option Parametrization and click on CITSmart
-    Parameters**. It'll appear the screen of CITSmart Parameters, click on
+    Parameters. It'll appear the screen of CITSmart Parameters, click on
     the tab CITSmart Parameters, then click on the tab Search CITSmart
     Parameters;
 
