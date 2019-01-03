@@ -36,7 +36,7 @@ Procedure
     clicking the icon  “History” , located in the upper right corner of the
     screen.  
 
-4.  If you have completed the ticket service, in the "Closure" area, change the
+4-  If you have completed the ticket service, in the "Closure" area, change the
     status of the ticket to "Solved", just click on the situation to change.
     Also inform the data on the solution performed:
 
@@ -47,7 +47,7 @@ Procedure
         Base", when you save the ticket, the knowledge is created and linked to
         the ticket;
 
-5.  Click on the options button and then "Save" to complete the operation.
+5-  Click on the options button and then "Save" to complete the operation.
 
 
 Related
