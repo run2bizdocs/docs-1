@@ -16,7 +16,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want and then on the icon ;
+2.  Click on the ticket you want and then on the icon "Open" ;
 
 3.  Confirm the capture of the ticket.
 
