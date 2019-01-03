@@ -1,4 +1,4 @@
-title: How to create, and then, close the ticket
+title: How to create, and then, close the ticket  
 Description: configure for the creation and closing of the ticket at the same time. 
 #How to create, and then, close the ticket
 
@@ -10,7 +10,7 @@ for the creation and closing of the ticket at the same time.
 Procedure
 -------------
 
-1.  It's possible to define the creation and close flow in two different ways:
+1 - It's possible to define the creation and close flow in two different ways:
 
 1st Way - Import flow: it's possible to import the flow with script already
 registered. Download the attachment "JSON Flow" and access the flow
