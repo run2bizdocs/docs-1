@@ -20,10 +20,10 @@ Procedure
 
 !!! Abstract "ATTENTION"
 
->   **The auto update button “Auto will default to not selected. In order for
->   the automatic update to be uninterrupted, it is necessary to change
->   parameter 418 to the "YES" option. This will activate the button
->   automatically and the system will update the listing every 25 seconds.**
+    The auto update button “Auto will default to not selected. In order for
+    the automatic update to be uninterrupted, it is necessary to change
+    parameter 418 to the "YES" option. This will activate the button
+    automatically and the system will update the listing every 25 seconds.
 
 Related
 -----------
