@@ -30,7 +30,7 @@ Procedure
     considered a vital function. Vital role is an important consideration in
     managing service continuity.  
 
-1.  Click on "Save".
+3-  Click on "Save".
 
 Related
 -------
