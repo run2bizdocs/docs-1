@@ -14,10 +14,10 @@ client, group, unit and have workflows defined.
 Procedure
 -------------
 
-1.  Access the functionality Business Process through the main menu Processes \>
+1-  Access the functionality Business Process through the main menu Processes \>
     Portfolio and Catalog Management \> Business Process;
 
-2.  Complete all mandatory field;
+2-  Complete all mandatory field;
 
 !!! Abstract "NOTE"
 
