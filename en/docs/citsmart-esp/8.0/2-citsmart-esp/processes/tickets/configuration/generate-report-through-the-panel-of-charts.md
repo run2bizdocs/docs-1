@@ -193,6 +193,6 @@ This report allows to verify the information of service products and requests.
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 – Anna Martins
 
