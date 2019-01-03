@@ -17,7 +17,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket view in the Attendant mode, through the button ;
+2.  Click on the ticket view in the Attendant mode, through the button "Per attendant";
 
 3.  Filter the cards view;
 
