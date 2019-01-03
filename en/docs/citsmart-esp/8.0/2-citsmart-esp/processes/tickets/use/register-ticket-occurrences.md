@@ -56,7 +56,7 @@ Procedure
     the requester's email. This message will be available in the area of the
     request of the requester in the Smart portal.
     
-    Related
+**Related**
 -----------
 
 -   Register group
