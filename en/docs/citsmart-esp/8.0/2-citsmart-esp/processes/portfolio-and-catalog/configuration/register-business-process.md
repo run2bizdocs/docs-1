@@ -1,5 +1,6 @@
 title: Register business process
-Description: Will help to the delivery of a product or a service to the clients.
+
+Description: Register business process in the system.
 #Register business process
 The Business Process will help to the delivery of a product or a service to the clients. For example: a trader may have a buying process that helps him/her deliver services to their clients. Many business processes rely on IT services.
 This feature provides a variety of actions, such as including, changing, and deleting a business process.
@@ -18,17 +19,16 @@ Procedure
 
 2.  Complete all mandatory field;
 
-   !!! Abstract "NOTE"
+!!! Abstract "NOTE"
 
-      Vital function is a part of a business process that is critical to
-      business success, ie it is the part of running the business that can not
-      stop. Imagine, for example, software that takes care of the process of an
-      automatic teller machine for cash withdrawals: the function of issuing
-      banknotes for the customer will probably have a greater criticality than the
-      function of issuing extracts. Therefore, the former is more likely to be
-      considered a vital function. Vital role is an important consideration in
-      managing service continuity.  
-
+    Vital function is a part of a business process that is critical to
+    business success, ie it is the part of running the business that can not
+    stop. Imagine, for example, software that takes care of the process of an
+    automatic teller machine for cash withdrawals: the function of issuing
+    banknotes for the customer will probably have a greater criticality than the
+    function of issuing extracts. Therefore, the former is more likely to be
+    considered a vital function. Vital role is an important consideration in
+    managing service continuity.  
 
 1.  Click on "Save".
 
