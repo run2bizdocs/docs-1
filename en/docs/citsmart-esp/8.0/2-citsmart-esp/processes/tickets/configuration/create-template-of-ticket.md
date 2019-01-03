@@ -56,7 +56,7 @@ Configure access permission of request/incident management
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 - Anna Martins
 
 
