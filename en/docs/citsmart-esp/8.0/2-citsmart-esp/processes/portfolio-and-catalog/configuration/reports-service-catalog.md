@@ -3,7 +3,7 @@ Description: Allows to verify the information about the service catalog register
 #Generate reports - service catalog
 This report allows to verify the information about the service catalog registered.
 
-**Procedure**
+Procedure
 -------------
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
