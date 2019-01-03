@@ -60,6 +60,7 @@ activities \|
 
 \| Contract Attachments \| Link \| It allows to attach files to the contract \|
 
+
 ## Related
 
 Register operating condition
