@@ -3,8 +3,7 @@ Description: Provides a variety of actions, such as including, changing, and del
 #Create template of incident, request and procedure
 This feature provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.
 
-Before getting started
-
+##Before getting started
 
 In order to register a ticket template, it's necessary to pre-register the
 contract and being linked to the service; the group and being linked to the
