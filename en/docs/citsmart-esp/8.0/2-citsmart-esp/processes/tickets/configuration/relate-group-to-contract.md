@@ -1,12 +1,12 @@
 title: How to relate group to contract
 
-Description: Relate group to contract
+Description:Relate group to contract
 
 #How to relate group to contract
 
 1.  Access the functionality CITSmart Parameters through the main menu.
     Place the mouse on the option Parametrization and click on CITSmart
-    Parameters**. It'll appear the screen of CITSmart Parameters, click on
+    Parameters. It'll appear the screen of CITSmart Parameters, click on
     the tab CITSmart Parameters, then click on the tab Search CITSmart
     Parameters;
 
@@ -27,12 +27,17 @@ Description: Relate group to contract
 
 7.  Select the contract, which will be linked. Then, click on "Save".
 
-<i class='fa fa-youtube-play fa-2x' style='color:\#97ce17;vertical-align:
-middle;'\> \</i\> [Video
-Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+Related
+-------
+
+Register group
+
+Configure parametrization - ticket
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
 
-<b\>Product/Verssion:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
-
-<b\>Updated:\</b\>01/03/2019 – Anna Martins
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/03/2019 – Anna Martins

@@ -1,14 +1,12 @@
-title: Capture ticket
-
-Description: Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
-
-#Capture ticket
-Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
+title: Reactivate a ticket suspended
+Description: This functionality allows to reactivate a ticket suspended. 
+#Reactivate a ticket suspended
+This functionality allows to reactivate a ticket suspended.
 
 Before getting started
 --------------------------
 
-It's necessary to have permission to execute the ticket.
+It's necessary to have permission to reactivate a ticket suspended.
 
 Procedure
 -------------
@@ -16,19 +14,12 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want and then on the icon "Open" ;
+2.  Click on the ticket and select "Reactivate" in the options menu;
 
-3.  Confirm the capture of the ticket.
-
-What to do next
---------------------
-
-Execute the ticket.
+3.  Confirm the reactivation of the ticket.
 
 Related
-------------
-
--   The desktop of Service Desk
+-----------
 
 -   Configure access permission of request/incident management
 
@@ -38,3 +29,4 @@ Related
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
+

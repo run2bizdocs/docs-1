@@ -9,14 +9,14 @@ reports for incidents and requests.
 
 In all cases, there are several ways to view reports through four icons:
 
--   To generate a table with information, click on the icon ;
+-   To generate a table with information, click on the icon "table" ;
 
--   To display the chart options, click on the icon  and select the shape of the
+-   To display the chart options, click on the icon "charts" and select the shape of the
     chart;
 
--   To generate a report in PDF, click on the icon ;
+-   To generate a report in PDF, click on the icon "download PDF document";
 
--   To generate a report in Excel, click on the icon .
+-   To generate a report in Excel, click on the icon "download document XLS" .
 
 Generate reports of incidents monitoring
 --------------------------------------------
@@ -193,6 +193,6 @@ This report allows to verify the information of service products and requests.
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 – Anna Martins
 

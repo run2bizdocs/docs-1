@@ -175,7 +175,7 @@ service request.
 3.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
 
-Generate report of reopened request
+##Generate report of reopened request
 
 
 This report has the objective of present all request that were reopened in a
@@ -191,13 +191,11 @@ period.
 3.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
 
-Generate top 10 report of incidents/requests
+##Generate top 10 report of incidents/requests
 
 
 This report has the objective of present the top 10 incidents/requests according
-to the filters choose by the user.
-
-### Procedure
+to the filters choose by the user.  
 
 1.  Access the functionality through the main menu Reports \> Incidents/Requests
     Management \> Top 10 Report of Incidents/Requests;
@@ -222,13 +220,11 @@ to the filters choose by the user.
 1.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
 
-Generate report of incident/request by service
+##Generate report of incident/request by service
 
 
 This report has the objective of present the amount of request and incident that
 were requested, regarding the service catalog and portfolio.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Quantitative
     Report of Incidents/Requests by Portfolio and Service Request;
@@ -242,5 +238,5 @@ were requested, regarding the service catalog and portfolio.
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 - Anna Martins
