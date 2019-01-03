@@ -1,6 +1,6 @@
 title: How to relate group to contract
 
-Description: Relate group to contract
+Description:Relate group to contract
 
 #How to relate group to contract
 
