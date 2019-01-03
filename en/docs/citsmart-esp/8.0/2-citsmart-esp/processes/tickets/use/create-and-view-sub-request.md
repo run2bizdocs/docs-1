@@ -11,8 +11,8 @@ Before getting started
 It's necessary to previously register the ticket, employee and unit, in addition
 to have permission to register the ticket.
 
-Procedure
--------------
+##Procedure
+
 
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
