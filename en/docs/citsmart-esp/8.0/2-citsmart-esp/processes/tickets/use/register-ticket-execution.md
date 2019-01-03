@@ -18,12 +18,12 @@ occurrence and the notification e-mail template ID in parameter 251.
 Procedure
 -------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
+1-  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want and then on the icon “Open”;
+2-  Click on the ticket you want and then on the icon “Open”;
 
-3.  In "Execution", click on the "Add note" icon and complete the necessary
+3-  In "Execution", click on the "Add note" icon and complete the necessary
     fields (make a pertinent comment, register the date and time spent in the
     execution of the ticket). You can allow this information to be viewed by the
     requester when you select the "Visible to Applicant" field. Therefore, click
