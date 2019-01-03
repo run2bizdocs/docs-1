@@ -3,14 +3,34 @@ Description:
 #Register satisfaction survey
 This feature provides a variety of actions, such as including, changing, and deleting satisfaction surveys according to the needs.
 The search form is created as a questionnaire.
+
 The types of searches can be:
-•	Public: it allows the participation of all users with no restrictions, they don't even need to be authenticated in the system. In this type, the System URL (parametrized) is given to the target public to participate in the survey. It's only an outfit field (without typing). After the survey is created (saved), in this field, appears the full link, based on the System URL properly parametrized;
-•	Global: it restricts the participation of user authenticated in the system. It can be accessed in two ways:
-o	when they identify themself, they will receive an automatic notification (including steps to respond);
-o	in the Smart Portal (menu on the left side) the option "Active Campaigns".
-•	Catalog: it's intended for the evaluation, with the client, about the effectiveness of the catalog deployed;
-•	Service: it's intended for evaluation, with the client, about the effectiveness of a service deployed;
-•	Activity/Satisfaction: is another option of satisfaction survey, with the client (beside the system default), about the resolution of an attendance of a request or incident.
+
+-   Public: it allows the participation of all users with no restrictions,
+    they don't even need to be authenticated in the system. In this type, the
+    System URL (parametrized) is given to the target public to participate in
+    the survey. It's only an outfit field (without typing). After the survey is
+    created (saved), in this field, appears the full link, based on the System
+    URL properly parametrized;
+
+-   Global: it restricts the participation of user authenticated in the
+    system. It can be accessed in two ways:
+
+    -   when they identify themself, they will receive an automatic notification
+        (including steps to respond);
+
+    -   in the Smart Portal (menu on the left side) the option "Active
+        Campaigns".
+
+-   Catalog: it's intended for the evaluation, with the client, about the
+    effectiveness of the catalog deployed;
+
+-   Service: it's intended for evaluation, with the client, about the
+    effectiveness of a service deployed;
+
+-   Activity/Satisfaction: is another option of satisfaction survey, with
+    the client (beside the system default), about the resolution of an
+    attendance of a request or incident.
 
 
 Before getting started
