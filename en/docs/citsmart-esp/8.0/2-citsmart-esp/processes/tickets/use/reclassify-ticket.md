@@ -27,6 +27,12 @@ Procedure
 
 4.  Make the changes.
 
+What to do next
+-----------
+
+Verify in the page of related tickets if it has the reclassification.
+
+
 Related
 -----------
 
