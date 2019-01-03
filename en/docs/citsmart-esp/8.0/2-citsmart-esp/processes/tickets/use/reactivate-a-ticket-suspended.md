@@ -4,10 +4,12 @@ Description: This functionality allows to reactivate a ticket suspended.
 This functionality allows to reactivate a ticket suspended.
 
 Before getting started
+--------------------------
 
 It's necessary to have permission to reactivate a ticket suspended.
 
 Procedure
+-------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
@@ -17,6 +19,7 @@ Procedure
 3.  Confirm the reactivation of the ticket.
 
 Related
+-----------
 
 -   Configure access permission of request/incident management
 
