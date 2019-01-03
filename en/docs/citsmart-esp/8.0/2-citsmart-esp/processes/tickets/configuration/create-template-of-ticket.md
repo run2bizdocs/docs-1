@@ -31,14 +31,23 @@ Related
 -------
 
 Register a contract
+
 Register a service
+
 Configure service attributes
+
 Configure service contract attributes
+
 Create the portfolio
+
 Register group
+
 Create time of attendance
+
 Register unit
+
 Configure parametrization - ticket
+
 Configure access permission of request/incident management
 
 
