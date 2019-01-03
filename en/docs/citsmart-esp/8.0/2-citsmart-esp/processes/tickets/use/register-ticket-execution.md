@@ -41,11 +41,11 @@ Procedure
     Also inform the data on the solution performed:
 
     -   If the ticket type is Incident or Incident, complete the required fields
-        (Cause, Solution Category, Cause Detail, Response Solution, Set whether
-        the "Answer Solution" in the Knowledge Base and whether the solution is
-        temporary). If you chose to "Save the Solution/Response in the Knowledge
-        Base", when you save the ticket, the knowledge is created and linked to
-        the ticket;
+    (Cause, Solution Category, Cause Detail, Response Solution, Set whether the
+    "Answer Solution" in the Knowledge Base and whether the solution is
+    temporary). If you chose to "Save the Solution/Response in the Knowledge
+    Base", when you save the ticket, the knowledge is created and linked to the
+    ticket;
 
 5-  Click on the options button and then "Save" to complete the operation.
 
