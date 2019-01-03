@@ -32,7 +32,5 @@ middle;'\> \</i\> [Video
 Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
-
-<b\>Product/Verssion:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
-
-<b\>Updated:\</b\>01/03/2019 – Anna Martins
+    <b\>Product/Verssion:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
+    <b\>Updated:\</b\>01/03/2019 – Anna Martins
