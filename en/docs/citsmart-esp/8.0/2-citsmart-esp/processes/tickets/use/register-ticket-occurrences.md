@@ -34,6 +34,13 @@ Procedure
     There is another way to register some occurrence related to the
     ticket. Just click on the icon  “Add note”, located in the upper right
     corner of the screen and complete the fields as the guidance above.  
+    
+>  !!! Abstract "NOTE"  
+
+       Occurrences registrations and their possible solution will be available
+       for review by the requester (only if the executor marks the "Visible to the
+       requester" option) on the occurrence history tab within the Smart Portal "My
+       Requests" functionality.
 
 4-  Occurrence history is available by clicking the icon “History”. All
     occurrences of the request will be presented in the "Ticket" tab and all the
