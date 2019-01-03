@@ -18,15 +18,17 @@ Procedure
 
 2.  Complete all mandatory field;
 
-   !!! note "NOTE"
+   !!! Abstract "NOTE"
 
-       Vital function is a part of a business process that is critical to business
-       success, ie it is the part of running the business that can not stop. Imagine,
-       for example, software that takes care of the process of an automatic teller
-       machine for cash withdrawals: the function of issuing banknotes for the customer
-       will probably have a greater criticality than the function of issuing extracts.
-       Therefore, the former is more likely to be considered a vital function. Vital
-       role is an important consideration in managing service continuity.
+      Vital function is a part of a business process that is critical to
+      business success, ie it is the part of running the business that can not
+      stop. Imagine, for example, software that takes care of the process of an
+      automatic teller machine for cash withdrawals: the function of issuing
+      banknotes for the customer will probably have a greater criticality than the
+      function of issuing extracts. Therefore, the former is more likely to be
+      considered a vital function. Vital role is an important consideration in
+      managing service continuity.  
+
 
 1.  Click on "Save".
 
