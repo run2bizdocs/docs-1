@@ -4,7 +4,7 @@ Description:
 The provider is an organization or an individual responsible for providing products or services to someone. It can be of types service provider, internal and/or external.
 This feature provides a variety of actions, such as including, changing, and deleting a provider.
 
-**Before getting started**
+Before getting started
 --------------------------
 
 To register an application, it is necessary loading the countries.
