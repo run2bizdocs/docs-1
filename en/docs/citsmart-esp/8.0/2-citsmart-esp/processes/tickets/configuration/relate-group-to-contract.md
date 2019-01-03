@@ -1,5 +1,4 @@
-title: **How to relate group to contract?**
--------------------------------------------
+title: How to relate group to contract?
 
 Description: Relate group to contract
 
