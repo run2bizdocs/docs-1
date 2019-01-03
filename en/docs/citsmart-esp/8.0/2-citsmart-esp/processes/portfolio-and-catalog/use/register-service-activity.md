@@ -19,7 +19,7 @@ Procedure
 
 2.  Choose the Service Portfolio and click on "Advance";
 
-3.  In the **Service Catalog **tab, choose a service and click on "Advance";
+3.  In the Service Catalog tab, choose a service and click on "Advance";
 
 4.  To create an activity of Request, click on the tab **Requests**;
 
