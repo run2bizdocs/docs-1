@@ -29,28 +29,28 @@ Procedure
     report by the requester and the sending of the same to his/her email by
     selecting the options "Visible to the requester" and "Send to e-mail".
 
->   !!! Abstract " NOTE "
+   !!! Abstract "NOTE"
 
-        There is another way to register some occurrence related to the ticket.
-        Just click on the icon “Add note”, located in the upper right corner of the
-        screen and complete the fields as the guidance above.**
+       There is another way to register some occurrence related to the ticket.
+       Just click on the icon “Add note”, located in the upper right corner of the
+       screen and complete the fields as the guidance above.**
 
->   !!! Abstract " NOTE "
+   !!! Abstract " NOTE "
 
-        Occurrences registrations and their possible solution will be available
-        for review by the requester (only if the executor marks the "Visible to the
-        requester" option) on the occurrence history tab within the Smart Portal "My
-        Requests" functionality.**
+       Occurrences registrations and their possible solution will be available
+       for review by the requester (only if the executor marks the "Visible to the
+       requester" option) on the occurrence history tab within the Smart Portal "My
+       Requests" functionality.**
 
 4-  Occurrence history is available by clicking the icon “History”. All
     occurrences of the request will be presented in the "Ticket" tab and all the
     communications between the requester and executor made by "Chat" mode in the
     tab of the same name.
 
->   !!! Abstract " NOTE"
+  !!! Abstract " NOTE"
 
-        To present the communications made by the "Chat", in the occurrence
-        history, it must be enabled.
+      To present the communications made by the "Chat", in the occurrence
+      history, it must be enabled.
 
 5-  It's possible to send a message from the executor of the ticket to the
     requester of the ticket, just click on the icon “Message to the requester” ,
