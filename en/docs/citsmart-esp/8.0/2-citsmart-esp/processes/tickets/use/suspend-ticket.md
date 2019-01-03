@@ -21,7 +21,7 @@ Procedure
 3.  Click on the ticket, select the button “More Options” and choose the option
     "Suspend".
 
-*What to do next
+What to do next
 -------------------
 
 Verify in page the tickets related if it has the status "suspended".
