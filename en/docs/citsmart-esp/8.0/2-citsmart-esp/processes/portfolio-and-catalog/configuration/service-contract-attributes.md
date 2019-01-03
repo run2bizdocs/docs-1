@@ -30,17 +30,17 @@ Procedure
 5.  It will be presented the tabs to configure the service contract attributes,
     complete all mandatory fields within each tab.
 
-| Name                             | Type | Objective                                                                                                                              |
-|----------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Contract Service Level Agreement | Link | It allows to specify what was agreed in the contract between the service provider and the client                                       |
-| View complexity by contract      | Link | It allows to identify the complesity values of the contract operating costs                                                            |
-| Contract Profiles                | Link | It allows to define the professional profile that will be fundamental to develop a project related to a contract                       |
-| User Groups                      | Link | It allows to link groups to the contract                                                                                               |
-| Contract Products                | Link | It allows to specify the project deliverable related to the contract                                                                   |
-| Communication Matrix             | Link | It allows to define which documents will be communicated, to which stakeholders, how often (when) and by which means (how)             |
-| Contract Formula                 | Link | It allows to link formulas to the contract. Those formulas will be used to get the total cost value of the contract service activities |
-| Business Units                   | Link | It allows to link business units to the contract                                                                                       |
-| Contract Attachments             | Link | It allows to attach files to the contract                                                                                              |
+  Name               | Type |                                                                Objective                                                               |
+|:--------------------------------:|:----:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| Contract Service Level Agreement | Link |                    It allows to specify what was agreed in the contract between the service provider and the client                    |
+|    View complexity by contract   | Link |                               It allows to identify the complesity values of the contract operating costs                              |
+|         Contract Profiles        | Link |            It allows to define the professional profile that will be fundamental to develop a project related to a contract            |
+|            User Groups           | Link |                                                It allows to link groups to the contract                                                |
+|         Contract Products        | Link |                                  It allows to specify the project deliverable related to the contract                                  |
+|       Communication Matrix       | Link |       It allows to define which documents will be communicated, to which stakeholders, how often (when) and by which means (how)       |
+|         Contract Formula         | Link | It allows to link formulas to the contract. Those formulas will be used to get the total cost value of the contract service activities |
+|          Business Units          | Link |                                            It allows to link business units to the contract                                            |
+|       Contract Attachments       | Link |                                                It allows to attach files to the contract                                               |
 
 
 ## Related
