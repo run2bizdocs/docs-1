@@ -1,9 +1,5 @@
 title: Create template of incident, request and procedure
--------------------------------------------------------------
-
-Description: provides a variety of actions, such as including, changing, and
-deleting a template to facilitate the opening of a new request.
-
+Description: provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.
 #Create template of incident, request and procedure
 
 This feature provides a variety of actions, such as including, changing, and
@@ -35,23 +31,14 @@ Related
 -------
 
 Register a contract
-
 Register a service
-
 Configure service attributes
-
 Configure service contract attributes
-
 Create the portfolio
-
 Register group
-
 Create time of attendance
-
 Register unit
-
 Configure parametrization - ticket
-
 Configure access permission of request/incident management
 
 
