@@ -1,4 +1,4 @@
-title:  Suspend and reactivate multiple tickets
+title: Suspend and reactivate multiple tickets
  
 Description: Allows the suspension or reactivation of multiple tickets at the same time.
 
