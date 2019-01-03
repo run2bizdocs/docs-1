@@ -9,7 +9,7 @@ Procedure
 1-  Access the functionality Request Justification through the main menu
     Processes \> Portfolio and Catalog Management \> Request Justification;
 
-2-  Click on "New" and complete all mandatory fields;
+2-  Click on "New" and complete all mandatory fields:
 
   -Suspension: it defines if the justification will be used when suspending the request;
 
