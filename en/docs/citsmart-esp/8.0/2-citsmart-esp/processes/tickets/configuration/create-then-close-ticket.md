@@ -1,3 +1,8 @@
+title: How to create, and then, close the ticket
+Description: configure for the creation and closing of the ticket at the same time. 
+#How to create, and then, close the ticket
+
+
 For activities that do not require an SLA, where the attendant only wishes to
 formalize the request and execution of the activity, it's possible to configure
 for the creation and closing of the ticket at the same time.
