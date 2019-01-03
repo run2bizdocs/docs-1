@@ -34,7 +34,7 @@ Procedure
     The registration of occurrences related to the ticket is done through the
     button "Add note". The history of all ticket instances can be viewed by
     clicking the icon  “History” , located in the upper right corner of the
-    screen.
+    screen.  
 
 4.  If you have completed the ticket service, in the "Closure" area, change the
     status of the ticket to "Solved", just click on the situation to change.
