@@ -29,11 +29,12 @@ Procedure
     report by the requester and the sending of the same to his/her email by
     selecting the options "Visible to the requester" and "Send to e-mail".
 
-   !!! Abstract "NOTE"
+ >   !!! Abstract "NOTE"
 
-       There is another way to register some occurrence related to the ticket.
-       Just click on the icon “Add note”, located in the upper right corner of the
-       screen and complete the fields as the guidance above.**
+         There is another way to register some occurrence related to the ticket.
+         Just click on the icon “Add note”, located in the upper right corner of the
+         screen and complete the fields as the guidance above.
+
 
    !!! Abstract " NOTE "
 
