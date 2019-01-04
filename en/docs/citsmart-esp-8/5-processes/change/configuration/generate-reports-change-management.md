@@ -33,3 +33,8 @@ This report aims to present the request for change registered.
 
 4.  Click on “Generate PDF” to create the report in PDF and/or click on
     “Generate XLS” to create the report in Excel.
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/04/2019 – Anna Martins
