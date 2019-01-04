@@ -25,7 +25,7 @@ Procedure
 Related
 -----------
 
-Register configuration item
+- Register configuration item
 
 !!! tip "About"
 
