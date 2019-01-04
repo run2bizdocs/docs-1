@@ -28,9 +28,9 @@ Procedure
 
 3.  On the Notification on Screen area:
 
-   -click on "Link user" to link the user to the notification on screen;
+    -click on "Link user" to link the user to the notification on screen;
 
-   -click on "Link group" to link group to the notification on screen.
+    -click on "Link group" to link group to the notification on screen.
 
 1.  Click on "Save".
 
