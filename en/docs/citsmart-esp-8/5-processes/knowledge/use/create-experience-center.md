@@ -30,7 +30,7 @@ Procedure
 
 6.  Save the EC;
 
- - Note: Widgets Available  
+ Note: Widgets Available  
 
 | **Name**               | **Type**       | **Objective**                                                                    |
 |--------------------|------------|------------------------------------------------------------------------------|
