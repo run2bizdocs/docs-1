@@ -16,8 +16,6 @@ It's necessary to previously register a profile and a group.
 5.  In the field **Group**, click on "Add" and select the group;
 6.  Click on "Save".
 
-##Tags
-create-folder
 
 ##Related
 - [Register group](https://www.mozilla.org)  
