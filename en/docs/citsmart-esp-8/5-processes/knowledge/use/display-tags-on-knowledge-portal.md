@@ -14,25 +14,26 @@ It's necessary to observe if the SOLR is correctly configured.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu System \> Settings \>
+1-  Access the functionality through the main menu System \> Settings \>
     Knowledge Portal \> Configuration of Knowledge Portal Filters;
 
-2.  It's necessary to make available the filter of knowledge Portal, to be made
+2-  It's necessary to make available the filter of knowledge Portal, to be made
     through tags, being able to order in which critical position the tag will
     have in the providing of search results;
 
-3.  To create a tag and link it to a knowledge, it's necessary to access the
+3-  To create a tag and link it to a knowledge, it's necessary to access the
     functionality through the main menu Processes \> Knowledge Management \>
     Knowledge Management, and then, when registering the knowledge, define and
     register the tags in the field "Tags" to help in the search success of this
     article;
 
- !!! Abstract "NOTE"  
+!!! Abstract "NOTE"  
 
-     All knowledge registered that has the same tag will be displayed in the
-     same search.
+    All knowledge registered that has the same tag will be displayed in the
+    same search.
 
-1.  To search knowledge through its tags, just access the Knowledge Portal or
+
+4-  To search knowledge through its tags, just access the Knowledge Portal or
     User Guide and search for the article by the keyword that express the
     concept of what is intended to find. The system informs the documents that
     have registered the tag searched.
