@@ -1,4 +1,4 @@
-title:  Register Image Category
+title:  Register image category
 Description: provides a variety of actions, such as including, changing, and deleting the images categories to organize the images inside the gallery that the system manages and uses.
 
 #Register Image Category
