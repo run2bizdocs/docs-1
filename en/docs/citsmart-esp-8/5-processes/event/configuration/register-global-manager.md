@@ -33,23 +33,23 @@ Procedure
 
 2.  Complete the fields available in each area:
 
--   Enter the data of **Action to Information**:
+    -Enter the data of **Action to Information**:
 
-    -   Select the action that will be triggered when there is an event of type
+        -Select the action that will be triggered when there is an event of type
         information, the degree of urgency and impact. The rules for this action
         are defined using the Event Processing Language (EPL). Click
         the *Validate EPL Information* button to validate the informed EPL.
 
--   Enter the data of **Action to Warning**:
+    -Enter the data of **Action to Warning**:
 
-    -   Select the action that will be triggered when there is an event of type
+        -Select the action that will be triggered when there is an event of type
         warning, the degree of urgency and impact. The rules for this action are
         defined using the Event Processing Language (EPL). Click on
         the *Validate EPL from Warning* button to validate the informed EPL.
 
--   Enter the data of **Action to Exception**:
+    -Enter the data of **Action to Exception**:
 
-    -   Select the action that will be triggered when there is an event
+       -Select the action that will be triggered when there is an event
         occurrence of type exception, the degree of urgency and impact. The
         rules for this action are defined using the Event Processing Language
         (EPL). Click the *Validate EPL of Exception* button to validate the EPL
