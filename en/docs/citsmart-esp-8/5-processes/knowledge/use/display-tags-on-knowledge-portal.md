@@ -27,10 +27,10 @@ Procedure
     register the tags in the field "Tags" to help in the search success of this
     article;
 
-   !!! Abstract "NOTE"  
+ !!! Abstract "NOTE"  
 
-       All knowledge registered that has the same tag will be displayed in the
-       same search.
+     All knowledge registered that has the same tag will be displayed in the
+     same search.
 
 1.  To search knowledge through its tags, just access the Knowledge Portal or
     User Guide and search for the article by the keyword that express the
