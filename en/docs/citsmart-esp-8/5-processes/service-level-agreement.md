@@ -1,0 +1,51 @@
+title: Service level agreement
+Description: Allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources
+#Service level agreement
+This functionality allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources.
+After N minutes (informing the time of action) and in case there is no action performed in the linked service request to this SLA, the system will attribute the priority and will escalate the group to execute the service request.
+This feature provides a variety of actions, such as including, changing, and deleting a service level agreement.
+
+Before getting started
+--------------------------
+
+The functionality registration need a previously registration of priority,
+group, unit, user, in addition to have defined e-mail templates and service
+level requirements.
+
+Procedure
+-------------
+
+1.  Access the functionality Service Level Management through the main menu
+    Processes \> Service Level Management \> Service Level Agreement;
+
+2.  Complete all mandatory field;
+
+3.  If the type of agreement entered is Time (by phases), set the SLA deadlines
+    (service level agreement), takin into consideration the priority. The
+    priority goes from 1 to 5, being 1 the highest level and 5 the lowest.
+
+4.  Click on "Save".
+
+Related
+-----------
+
+-   Register priority
+
+-   Register group
+
+-   Create template of incident, request and procedure
+
+-   Service level requirement
+
+-   Register user
+
+-   Register unit
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+
+!!! tip "About"
+
+    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/04/2019 – Larissa Lourenço
+
