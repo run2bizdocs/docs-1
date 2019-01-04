@@ -14,7 +14,7 @@ Service Level Agreement (General) of type "Availability", a location, employee,
 group, contract, type of configuration item and at least one main configuration
 item if it's necessary to create other related configuration item.
 
-Procedure*
+Procedure
 ---------
 
 1.  Access the functionality of Configuration Item Management through the main
