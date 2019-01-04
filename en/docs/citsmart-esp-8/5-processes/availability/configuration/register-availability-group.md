@@ -21,3 +21,7 @@ Procedure
 
 4.  Click on "Save".
 
+Related
+-------
+
+Create calendar
