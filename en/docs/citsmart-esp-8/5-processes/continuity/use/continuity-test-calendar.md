@@ -4,7 +4,7 @@ Description: Allows to view the events of service continuity tests.
 #Continuity test calendar
 The Continuity Registration is a process that pass through several phases. The forth phase of this is called Continuous Operation, where it'll be defined the continuity Awareness (education and training), Review and continuity audit, the Tests about the continuity and its Invocation. This functionality allows to view the events of service continuity tests.
 
-**Before getting started**
+Before getting started
 --------------------------
 
 Assumes the existence of a defined service in a Portfolio and Catalog Management
@@ -24,7 +24,7 @@ category.
 It's equally essential to have register the automatic actions to incident,
 request and procedure about the Event Management.
 
-**Procedure**
+Procedure
 -------------
 
 1.  Access the functionality through the main menu Processes \> Continuity
@@ -58,7 +58,7 @@ request and procedure about the Event Management.
 
 6.  Click on "Save" of the test calendar to apply the changes made.
 
-**What to do next**
+What to do next
 -------------------
 
 After verify the continuity test calendar, it's possible to execute the
