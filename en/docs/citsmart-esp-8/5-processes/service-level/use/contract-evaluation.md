@@ -35,5 +35,5 @@ Register service activity
 !!! tip "About"
 
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>1/2/2019 – Larissa Lourenço
+    <b>Updated:</b>01/04/2019 – Larissa Lourenço
 
