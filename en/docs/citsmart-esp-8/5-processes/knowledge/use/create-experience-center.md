@@ -32,57 +32,31 @@ Procedure
 
   Note: Widgets Available  
 
-\| \*\*Name\*\* \| \*\*Type\*\* \| \*\*Objective\*\* \|
+| **Name**               | **Type**       | **Objective**                                                                    |
+|--------------------|------------|------------------------------------------------------------------------------|
+| Knowledge Portal   | Shortcut   | Shortcut to the Knowledge Portal.                                            |
+| Contact us         | Shortcut   | Shortcut to our attendance center.                                           |
+| Anuva              | Shortcut   | Shortcut to talk with our virtual assistant Anuva.                           |
+| News               | General    | It presents the knowledge of type "News".                                    |
+| Notifications      | General    | It presents the System notifications.                                        |
+| Searches (Surveys) | General    | It makes available the surveys built in CITSmart HSM.                        |
+| Youtube            | General    | It presents Youtube videos (embed)                                           |
+| Image              | General    | Enter the image                                                              |
+| Slideshow          | General    | It presents Slideshow of type carrossel.                                     |
+| Divider            | General    | Enter horizontal line in the page.                                           |
+| Space              | General    | Enter space in the page.                                                     |
+| Text               | General    | Enter the Text with several formatting.                                      |
+| List               | General    | Enter the links list.                                                        |
+| Menu               | General    | Enter the CITSmart HSM menu.                                                 |
+| My Tickets         | Tickets    | Load tickets opened by the user.                                             |
+| My Approvals       | Tickets    | It presents the requests that need approval (depends on the flow).           |
+| My Portfolios      | Portfolios | Enter the service Portfolio (depending on the service access configuration). |
+| My Workplace       | Workplace  | Enter the Workplace (dashboards, smart reports, etc)                         |
+| Knowledge          | Knowledge  | Load the content of a knowledge.                                             |
+| Favorite           | Knowledge  | It presents the list of favorite knowledge.                                  |
+| Indicated          | Knowledge  | It presents the list of knowledge indicated.                                 |
+| Liked              | Knowledge  | It presents the list of knowledge liked.                                     |
 
-\|--------------------\|------------\|------------------------------------------------------------------------------\|
-
-\| Knowledge Portal \| Shortcut \| Shortcut to the Knowledge Portal. \|
-
-\| Contact us \| Shortcut \| Shortcut to our attendance center. \|
-
-\| Anuva \| Shortcut \| Shortcut to talk with our virtual assistant Anuva. \|
-
-\| News \| General \| It presents the knowledge of type "News". \|
-
-\| Notifications \| General \| It presents the System notifications. \|
-
-\| Searches (Surveys) \| General \| It makes available the surveys built in
-CITSmart HSM. \|
-
-\| Youtube \| General \| It presents Youtube videos (embed) \|
-
-\| Image \| General \| Enter the image \|
-
-\| Slideshow \| General \| It presents Slideshow of type carrossel. \|
-
-\| Divider \| General \| Enter horizontal line in the page. \|
-
-\| Space \| General \| Enter space in the page. \|
-
-\| Text \| General \| Enter the Text with several formatting. \|
-
-\| List \| General \| Enter the links list. \|
-
-\| Menu \| General \| Enter the CITSmart HSM menu. \|
-
-\| My Tickets \| Tickets \| Load tickets opened by the user. \|
-
-\| My Approvals \| Tickets \| It presents the requests that need approval
-(depends on the flow). \|
-
-\| My Portfolios \| Portfolios \| Enter the service Portfolio (depending on the
-service access configuration). \|
-
-\| My Workplace \| Workplace \| Enter the Workplace (dashboards, smart reports,
-etc) \|
-
-\| Knowledge \| Knowledge \| Load the content of a knowledge. \|
-
-\| Favorite \| Knowledge \| It presents the list of favorite knowledge. \|
-
-\| Indicated \| Knowledge \| It presents the list of knowledge indicated. \|
-
-\| Liked \| Knowledge \| It presents the list of knowledge liked. \|
 
 
 What to do next
