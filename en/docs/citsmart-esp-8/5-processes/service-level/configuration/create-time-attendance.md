@@ -25,10 +25,10 @@ Procedure
     1 the highest priority and 5 the lowest. Select the priority to define the
     time:
 
--   **Capture**: set the time of capture of the service request, according to
+    -**Capture**: set the time of capture of the service request, according to
     the priority selected;
 
--   **Resolution**: set the time of service resolution according to the priority
+    -**Resolution**: set the time of service resolution according to the priority
     selected.
 
 1.  Before complete the fields in **Automation**, it should be properly
