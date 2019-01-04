@@ -27,7 +27,7 @@ Procedure
     register the tags in the field "Tags" to help in the search success of this
     article;
 
-   !!! Abstract "NOTE"
+   !!! Abstract "NOTE"  
 
        All knowledge registered that has the same tag will be displayed in the
        same search.
