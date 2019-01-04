@@ -44,7 +44,7 @@ Procedure
 3.  To edit an existed knowledge, search for the knowledge through the filters
     available and the click on "Edit";
 
-4.  Complete the fields available and pay attention to the **Privacy **field,
+4.  Complete the fields available and pay attention to the **Privacy** field,
     that should be *Public* and **Access** should be *External*;
 
 5.  In the **Publish** field, enable the key to the option *YES*.
