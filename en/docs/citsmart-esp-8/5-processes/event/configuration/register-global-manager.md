@@ -40,20 +40,20 @@ Procedure
            are defined using the Event Processing Language (EPL). Click
            the *Validate EPL Information* button to validate the informed EPL.
 
--   Enter the data of **Action to Warning**:
+       - Enter the data of **Action to Warning**:
 
-    -   Select the action that will be triggered when there is an event of type
-        warning, the degree of urgency and impact. The rules for this action are
-        defined using the Event Processing Language (EPL). Click on
-        the *Validate EPL from Warning* button to validate the informed EPL.
+         - Select the action that will be triggered when there is an event of type
+           warning, the degree of urgency and impact. The rules for this action are
+           defined using the Event Processing Language (EPL). Click on
+           the *Validate EPL from Warning* button to validate the informed EPL.
 
--   Enter the data of **Action to Exception**:
+       - Enter the data of **Action to Exception**:
 
-    -   Select the action that will be triggered when there is an event
-        occurrence of type exception, the degree of urgency and impact. The
-        rules for this action are defined using the Event Processing Language
-        (EPL). Click the *Validate EPL of Exception* button to validate the EPL
-        entered.
+         - Select the action that will be triggered when there is an event
+           occurrence of type exception, the degree of urgency and impact. The
+           rules for this action are defined using the Event Processing Language
+           (EPL). Click the *Validate EPL of Exception* button to validate the EPL
+           entered.
 
 
 1.  Click on "Save".
@@ -76,3 +76,4 @@ Register automatic action
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins
+ 
