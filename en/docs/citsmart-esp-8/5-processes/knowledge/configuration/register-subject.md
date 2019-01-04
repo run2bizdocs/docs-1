@@ -1,5 +1,4 @@
 title: Register subject knowledge
-
 Description: register the subject of a knowledge, that will be used in the search of Reports of Topics or Subjects available or not in the knowledge base.  
 This feature provides various actions, such as including, changing and deleting the subject of a knowledge.
 
@@ -33,12 +32,3 @@ deleting the subject of a knowledge.
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 – Anna Martins 
 
-
-|       |          |          |
-|-------|----------|----------|
-| Andre | Analista | Dezembro |
-| Andre | Analista | Dezembro |
-| Andre | Analista | Dezembro |
-| Andre | Analista | Dezembro |
-| Andre | Analista | Dezembro |
-|       |          |          |
