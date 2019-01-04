@@ -5,30 +5,30 @@ This knowledge aims to guide and suggest the best ways of search in the Knowledg
 
 1.  Connectors between terms (Boolean logical operator):
 
--   AND (+): it's possible to search with more than one word, prioritizing one
+    -AND (+): it's possible to search with more than one word, prioritizing one
     of them in the result. Adding the positive sign "+" in front of the word,
     it'll be prioritized, for example: ticket +delegate;
 
--   NOT (-): it's possible to refine (reduce) the result, including words to be
+    -NOT (-): it's possible to refine (reduce) the result, including words to be
     excluded of the list. E.g.: Request -Incident.
 
 1.  Vary how to write a word, for example:
 
--   Request
+    -Request
 
--   Requesting
+    -Requesting
 
--   It's possible to search for a part of the word: Reque
+    -It's possible to search for a part of the word: Reque
 
 1.  Use synonyms:
 
--   Generate
+    -Generate
 
--   Create
+    -Create
 
 1.  Search for the exactly phrase:
 
--   Put the phrase you want with commas, e.g.: "How to delegate a ticket"
+    -Put the phrase you want with commas, e.g.: "How to delegate a ticket"
 
 1.  Navigate through the folders and click in one with the subject you want.
 
