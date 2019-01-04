@@ -1,4 +1,4 @@
-title: Service level agreement
+title:Service level agreement
 Description: Allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources
 #Service level agreement
 This functionality allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources.
