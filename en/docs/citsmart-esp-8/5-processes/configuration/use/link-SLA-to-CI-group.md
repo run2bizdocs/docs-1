@@ -16,7 +16,7 @@ Procedure
 
 2.  Search for the desired configuration item group;
 
-3.  Click the button ;
+3.  Click the button "Edit";
 
 4.  In the **Service level agreement** field make the choice;
 
