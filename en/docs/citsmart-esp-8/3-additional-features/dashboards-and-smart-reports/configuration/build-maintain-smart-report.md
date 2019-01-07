@@ -45,7 +45,9 @@ Neuro: create a report of type "Neuro", simply link a previously registered
     "or" Bar Chart ".  
 
 •	N/A: select this option if you want the report not to be displayed in any module;
+
 •	General: select this option to display the report in one or more modules, where you want the report to be displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart), Release, Change, Problem);
+
 •	Specific: select a single module where you want the report to be displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart), Release, Change, Problem).
 
 
