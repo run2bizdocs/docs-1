@@ -101,23 +101,23 @@ Procedure to link specific SLA to the contract service
 
 4-  Complete the fields necessary with the following recommendations:
 
-    -   If you enter the type of agreement as **Availability**, in addition to
-        the general fields, you should enter the availability index, that is,
-        define the percentage of availability of the service;
+  -   If you enter the type of agreement as **Availability**, in addition to the
+    general fields, you should enter the availability index, that is, define the
+    percentage of availability of the service;
 
-    -   If you indicate the type of agreement such as **repetitive Failures**,
-        in addition to the general fields, you must enter the number of glosses
-        and the discount percentage. Remember that other service agreement data
-        can be reported for repetitive failures by clicking on the icon “+”;
+-   If you indicate the type of agreement such as **repetitive Failures**, in
+    addition to the general fields, you must enter the number of glosses and the
+    discount percentage. Remember that other service agreement data can be
+    reported for repetitive failures by clicking on the icon “+”;
 
-    -   If you inform the type of agreement as **WO - Expected results**, in
-        addition to the general fields, it'll be necessary to inform the data of
-        expected results and the quality levels required (expected results,
-        limits, gloss and gloss limit);
+-   If you inform the type of agreement as **WO - Expected results**, in
+    addition to the general fields, it'll be necessary to inform the data of
+    expected results and the quality levels required (expected results, limits,
+    gloss and gloss limit);
 
-    -   If you inform the type of agreement as **Time (phases)**, in addition to
-        the general fields, it'll be necessary to define SLA (service level
-        agreement) deadlines, taking into account the priority.
+-   If you inform the type of agreement as **Time (phases)**, in addition to the
+    general fields, it'll be necessary to define SLA (service level agreement)
+    deadlines, taking into account the priority.
 
 !!! Abstract "NOTE"  
 
@@ -125,18 +125,19 @@ Procedure to link specific SLA to the contract service
     the service request, the system will assign Priority and escalate the Group
     that have been configured to execute the service request.
     
-   -  If you inform the type of agreement according to diverse Information
-      captured from other sources, it'll be necessary to inform the service
-      agreement data (limit value, unit, gloss and gloss limit). To copy, edit or
-      delete the registered service level agreement, follow the steps:
+-   If you inform the type of agreement according to diverse Information
+    captured from other sources, it'll be necessary to inform the service
+    agreement data (limit value, unit, gloss and gloss limit). To copy, edit or
+    delete the registered service level agreement, follow the steps:
 
-   a.  To edit or delete a service level agreement that was added to the
-       contract service, simply click the icon “Edit Service” next to the
-       agreement;
+    a.  To edit or delete a service level agreement that was added to the
+        contract service, simply click the icon “Edit Service” next to the
+        agreement;
 
-   b.  To copy a service level agreement that has been added to the contract
-       service, simply click the icon “Copy agreement to other service” next to
-       the agreement;
+    b.  To copy a service level agreement that has been added to the contract
+        service, simply click the icon “Copy agreement to other service” next to
+        the agreement;
+
 
 5-  Click on "Save".
 
