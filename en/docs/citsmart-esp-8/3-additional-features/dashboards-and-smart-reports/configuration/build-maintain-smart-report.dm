@@ -68,7 +68,7 @@ Procedure
 Related
 -------
 
-Create Smart Report
+Create Smart Report 
 
 
 !!! tip "About"
