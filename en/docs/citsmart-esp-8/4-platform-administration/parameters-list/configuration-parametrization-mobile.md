@@ -32,7 +32,7 @@ Procedure
 | 350 |                                          Enable sending notifications to mobile devices                                         | Y or N (Default: N) |                                                                                   It allows to control whether system notifications will be sent to mobile devices (general).                                                                                   |    Not applicable   |
 | 352 |                              Enables sending notifications to mobile devices when creating requests                             | Y or N (Default: N) |                                                                                   It allows to control whether system notifications will be sent to mobile devices (general).                                                                                   |    Not applicable   |
 | 353 |                        Enables sending mobile notifications while updating requests reporting close calls                       | Y or N (Default: N) |                                                                                   It allows to control whether system notifications will be sent to mobile devices (general).                                                                                   |    Not applicable   |
-c
+
 
 !!! tip "About"
 
