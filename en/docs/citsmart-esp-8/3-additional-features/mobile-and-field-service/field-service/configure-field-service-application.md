@@ -19,10 +19,10 @@ Before getting started
 2.  In the environment - CITSmart instance - , configure the following
     functionalities:
 
-   * Webservice: indicate in the item "permissions" the attendance groups that
+    * Webservice: indicate in the item "permissions" the attendance groups that
     can view the tickets;
 
-   * Unit: get the coordinates of the registered unit.
+    * Unit: get the coordinates of the registered unit.
 
 Procedure
 -------------
