@@ -4,6 +4,7 @@ Description:Provides a variety of actions, such as including, changing, and dele
 This feature provides a variety of actions, such as including, changing, and deleting the group of periodic activities, which are responsible for execute periodic activities.
 
 Procedure
+-----------
 
 1.  Access the functionality Periodic Activity Group through the main menu
     Integrated Management \> Automation of Operations \> Periodic Activity
