@@ -24,8 +24,7 @@ Procedure
 
 3.  Click on the **Diagram** tab;
 
-4.  In the request approval flow, click on the icon  and then on the icon  to
-    configure it;
+4.  In the request approval flow, click on the connector "Send Message - email" icon and then on the small gray box next to the connector to configure it;
 
 5.  Register, in the **Identification** tab, the name and email template to be
     used;
@@ -42,18 +41,18 @@ Procedure
 2.  Paste the email template available in HTML in attachment, in the Text field
     and verify the following guidelines:
 
--   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+    - href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
--   serviceRequestIncident = Interface directing: this field cannot be changed
+    - serviceRequestIncident = Interface directing: this field cannot be changed
     by the user;
 
--   \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
+   - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
     request: this field cannot be changed by the user;
 
--   VIEW - calls the command to open the request: this field cannot be changed
+   - VIEW - calls the command to open the request: this field cannot be changed
     by the user;
 
--   MM (50) - Token expiration time in Minutes: this field can be changed by the
+   - MM (50) - Token expiration time in Minutes: this field can be changed by the
     user;
 
 1.  Click on "Save".
