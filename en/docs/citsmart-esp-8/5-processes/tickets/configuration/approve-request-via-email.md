@@ -46,13 +46,13 @@ Procedure
     - serviceRequestIncident = Interface directing: this field cannot be changed
     by the user;
 
-   - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
+    - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
     request: this field cannot be changed by the user;
 
-   - VIEW - calls the command to open the request: this field cannot be changed
+    - VIEW - calls the command to open the request: this field cannot be changed
     by the user;
 
-   - MM (50) - Token expiration time in Minutes: this field can be changed by the
+    - MM (50) - Token expiration time in Minutes: this field can be changed by the
     user;
 
 1.  Click on "Save".
