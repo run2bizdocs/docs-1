@@ -5,7 +5,7 @@ Description: This functionality invokes the service continuity.
 The Continuity Registration is a process that pass through several phases. The fourth phase is the Continuous Operation, where it'll be defined the continuity Awareness (education and training), Review and continuity audit, the continuity tests and its Invocation. This functionality invokes the service continuity.
 The trigger to have an invocation is the opening of an incident of critical type. The incident have to be approved to be presented in the Invocation screen.
 
-**Before getting started**
+Before getting started
 --------------------------
 
 It assumes the existence of a defined service in a Portfolio and Catalog
@@ -24,7 +24,7 @@ each other. It is also essential to have registered the risk and risk category.
 It's equally essential to have previously registered the automatic actions of
 incident, request and procedure about the Event Management.
 
-**Procedure**
+Procedure
 -------------
 
 1.  Access the functionality through the main menu Processes \> Continuity
@@ -56,7 +56,7 @@ incident, request and procedure about the Event Management.
 10. To execute the continuity procedure request, click on "Execute", it'll be
     presented the request attendance screen.
 
-**Related**
+Related
 -----------
 
 -   Register impact analysis in the continuity business
