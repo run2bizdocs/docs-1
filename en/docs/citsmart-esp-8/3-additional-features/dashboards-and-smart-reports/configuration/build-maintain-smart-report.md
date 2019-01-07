@@ -12,12 +12,12 @@ It's necessary to have registered sub-reports.
 
 Procedure
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
+1-  Access the functionality through the main menu Reports \> Smart Reports \>
     Smart Report Creator;
 
-2.  Click on "New";
+2-  Click on "New";
 
-3.  Complete the necessary fields. Define the type:
+3-  Complete the necessary fields. Define the type:
 
      *  SQL: create a Sub Report "SQL" (this type allows you to create reports
         that return the database information through a Query). When selecting
@@ -41,7 +41,7 @@ Procedure
     To create a Sub Report (Drill) the "Report Type" should be " Pie Chart
     "or" Bar Chart ".  
 
-4.  Define the module (functionality) where the report being created will be
+4-  Define the module (functionality) where the report being created will be
     displayed:
 
     - **N/A**: select this option if you want the report not to be displayed in
@@ -55,9 +55,9 @@ Procedure
     displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart),
     Release, Change, Problem).
 
-5.  Click on "Save";
+5-  Click on "Save";
 
-6.  There is the possibility to also import a "Report". Therefore, click on
+6-  There is the possibility to also import a "Report". Therefore, click on
     "Import" and link the file containing the information you want.
 
 !!! Abstract "ATTENTION"
