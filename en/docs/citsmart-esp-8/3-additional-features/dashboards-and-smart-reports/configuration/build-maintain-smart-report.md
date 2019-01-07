@@ -19,21 +19,21 @@ Procedure
 
 3-  Complete the necessary fields. Define the type:
 
-     *  SQL: create a Sub Report "SQL" (this type allows you to create reports
+     * SQL: create a Sub Report "SQL" (this type allows you to create reports
         that return the database information through a Query). When selecting
         this option, it's necessary to also inform the type of report to be
         created, the business rule concerning it, the report designer, the
         parameter and the script;
 
-    *  RhinoScript: to create a report that returns the information of the
+    * RhinoScript: to create a report that returns the information of the
         Database through a "Script", it's necessary to select the type
         "RhinoScript". It'll be necessary to choose the report type, define the
         parameters and describe the script;
 
-    *  JPS: create a report with dynamic content. When opting for this type,
+    * JPS: create a report with dynamic content. When opting for this type,
         you must inform the parameters and the "JSP" script;
 
-    *  Neuro: create a report of type "Neuro", simply link a previously
+    * Neuro: create a report of type "Neuro", simply link a previously
         registered "Neuro" form.
 
 !!! Abstract "Note"
@@ -44,14 +44,14 @@ Procedure
 4-  Define the module (functionality) where the report being created will be
     displayed:
 
-    - **N/A**: select this option if you want the report not to be displayed in
+    + **N/A**: select this option if you want the report not to be displayed in
     any module;
 
-    - **General**: select this option to display the report in one or more
+    + **General**: select this option to display the report in one or more
     modules, where you want the report to be displayed (Configuration,
     Incidentes/Requestes, Incidents/Requests (chart), Release, Change, Problem);
 
-    - **Specific**: select a single module where you want the report to be
+    + **Specific**: select a single module where you want the report to be
     displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart),
     Release, Change, Problem).
 
