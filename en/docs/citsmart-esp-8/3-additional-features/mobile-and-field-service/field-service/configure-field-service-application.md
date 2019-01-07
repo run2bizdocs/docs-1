@@ -19,10 +19,10 @@ Before getting started
 2.  In the environment - CITSmart instance - , configure the following
     functionalities:
 
-  - Webservice: indicate in the item "permissions" the attendance groups that
+  * Webservice: indicate in the item "permissions" the attendance groups that
     can view the tickets;
 
-  - Unit: get the coordinates of the registered unit.
+  * Unit: get the coordinates of the registered unit.
 
 Procedure
 -------------
@@ -36,17 +36,17 @@ Procedure
     then click on "Add Group" and include the group (s) that the attendant (s)
     are linked to:
 
-  - request_add_attachments
+    * request_add_attachments
 
-  - request_updateRequestList
+    * request_updateRequestList
 
-  - request_userLocation
+    * request_userLocation
 
-  - request_saveRequest
+    * request_saveRequest
 
-  - request_uploadAttachment
+    * request_uploadAttachment
 
-  - request_getByUser
+    * request_getByUser
 
 1.  Click on "Save" after configure the groups in each webservice.
 
