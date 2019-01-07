@@ -41,7 +41,7 @@ Procedure
     To create a Sub Report (Drill) the "Report Type" should be " Pie Chart
     "or" Bar Chart ".  
 
-1.  Define the module (functionality) where the report being created will be
+4.  Define the module (functionality) where the report being created will be
     displayed:
 
     - **N/A**: select this option if you want the report not to be displayed in
@@ -55,9 +55,9 @@ Procedure
     displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart),
     Release, Change, Problem).
 
-1.  Click on "Save";
+5.  Click on "Save";
 
-2.  There is the possibility to also import a "Report". Therefore, click on
+6.  There is the possibility to also import a "Report". Therefore, click on
     "Import" and link the file containing the information you want.
 
 !!! Abstract "ATTENTION"
