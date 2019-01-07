@@ -20,23 +20,19 @@ Procedure
 2-  Click on "New";
 
 3-  Complete the necessary fields. Define the type:
-
-    - SQL: create a Sub Report "SQL" (this type allows you to create reports
-        that return the database information through a Query). When selecting
-        this option, it's necessary to also inform the type of report to be
-        created, the business rule concerning it, the report designer, the
-        parameter and the script;
-
-    - RhinoScript: to create a report that returns the information of the
-        Database through a "Script", it's necessary to select the type
-        "RhinoScript". It'll be necessary to choose the report type, define the
-        parameters and describe the script;
-
-    - JPS: create a report with dynamic content. When opting for this type,
-        you must inform the parameters and the "JSP" script;
-
-    - Neuro: create a report of type "Neuro", simply link a previously
-        registered "Neuro" form.
+          - SQL: create a Sub Report "SQL" (this type allows you to create reports
+          that return the database information through a Query). When selecting
+          this option, it's necessary to also inform the type of report to be
+          created, the business rule concerning it, the report designer, the
+          parameter and the script;
+         - RhinoScript: to create a report that returns the information of the
+         Database through a "Script", it's necessary to select the type
+         "RhinoScript". It'll be necessary to choose the report type, define the
+         parameters and describe the script;
+         - JPS: create a report with dynamic content. When opting for this type,
+         you must inform the parameters and the "JSP" script;
+         -Neuro: create a report of type "Neuro", simply link a previously
+         registered "Neuro" form.
 
 !!! Abstract "NOTE"
 
