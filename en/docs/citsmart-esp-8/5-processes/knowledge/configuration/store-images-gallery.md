@@ -21,7 +21,7 @@ Procedure
 
 4.  Click on "Drop files here or click to upload";
 
-5.  Click on "Save".
+5.  Click on "Save".  
 
 Related
 -------
