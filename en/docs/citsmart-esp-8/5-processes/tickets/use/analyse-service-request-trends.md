@@ -54,5 +54,6 @@ Related
 
 !!! tip "About"
 
-<b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-<b>Updated:</b>01/02/2019 – Larissa Lourenço
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/02/2019 – Larissa Lourenço
+
