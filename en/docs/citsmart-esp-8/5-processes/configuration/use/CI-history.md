@@ -23,7 +23,7 @@ Procedure
 
     The configuration item may have one or more restore points (baselines)
     generated. To restore the Configuration Item, click on the "Create point of
-    restore" button.**
+    restore" button.
 
 
 Related
