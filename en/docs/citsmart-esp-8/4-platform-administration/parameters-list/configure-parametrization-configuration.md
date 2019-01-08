@@ -61,3 +61,9 @@ each one of them:
 
 
 Table 1 - Parameters list
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/08/2019 – Anna Martins
