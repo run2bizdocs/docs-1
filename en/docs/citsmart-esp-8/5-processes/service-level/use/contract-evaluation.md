@@ -26,9 +26,9 @@ Procedure
 Related
 -----------
 
-Register a contract
+- Register a contract
 
-Register service activity
+- Register service activity
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
 
