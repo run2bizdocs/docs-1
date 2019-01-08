@@ -23,8 +23,9 @@ Procedure
 
 3.  Click on "Save";
 
-The list below presents the "Knowledge" parameters and the purpose of each one
-of them:
+4.  The list below presents the "Knowledge" parameters and the purpose of each
+    one of them:
+
 
 
 |  #  |                                                                        Name                                                                        |                  Possible Values                  |                                                                                                                                                                                                                                                                                         Purpose                                                                                                                                                                                                                                                                                         |                                               Additional Guidance                                               |
