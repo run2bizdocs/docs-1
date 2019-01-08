@@ -1,4 +1,4 @@
-title:  Verify service audit
+title: Verify service audit
  
 Description: Allows to verify the service history to its audit
 #Create escalation rule 
