@@ -74,12 +74,12 @@ Figure 8 - Business rule registration / editing screen - Flow Type (continued)
 
   1. To create a business rule using Script, go to the New option, enter the Name, Description, Type (complete with Script), and the respective Application that has been registered:  
 
-![Screenshot](images/business-rule-business-rule-script.png)  
+![Screenshot](images/business-rule-script.png)  
 Figure 9 - Business rule registration / editing screen - Script type  
 
   2. Code your business rule script in the Script field, and add variables in the variables tab, if necessary. Scripts are accepted in the Rhino language.  
 
-![Screenshot](images/business-rule-business-rule-script2.png)  
+![Screenshot](images/business-rule-script2.png)  
 Figure 10 - Business rule registration / editing screen - Script type (continued)  
 
   3. Click Save to run the changes.  
