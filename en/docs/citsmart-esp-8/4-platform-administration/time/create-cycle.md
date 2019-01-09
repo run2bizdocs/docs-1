@@ -24,10 +24,10 @@ Procedure
 
 4.  Note that:
 
-   - each date range must be unique, even with different titles, and the system
+   * each date range must be unique, even with different titles, and the system
     takes care to prevent this type of redundancy and inconsistency;
 
-   - it is not allowed to exclude the cycle, if it is linked to some income or
+   * it is not allowed to exclude the cycle, if it is linked to some income or
     expense of the financial control.
 
 1.  Click on "Save".
