@@ -41,4 +41,55 @@ Figure 2 - Business rules listing screen
 4. In addition, variables that complement business rules may be inserted.  
 
 ![Screenshot](images/business-rule-drools.png)  
-Figure 3 - Drools business rule registration / editing screen - Basic data tab
+Figure 3 - Drools business rule registration / editing screen - Basic data tab  
+
+5. In the Variables tab click Add and fill in the following fields as shown below:
+
+![Screenshot](images/business-rule-variables.png)  
+Figure 4 - Drools business rule registration / editing screen - Basic data tab (continued)  
+
+##CREATING BUSINESS RULES USING FLOW TYPE  
+1. To create a business rule using Flow, a diagram should be drawn using the components provided in the tool. To learn more about the components, visit the documentation for the components provided by Neuro;  
+2. In the Basic Data tab, fill in all the fields (as shown in the figure below), when selecting the Flow Type, two new tabs will appear (Actions and Diagram);  
+
+![Screenshot](images/business-rule-flow.png)  
+Figure 5 - Business rule registration / editing screen - Flow Type  
+
+3. In the Variables tab click Add and fill in the following fields as shown below:  
+
+![Screenshot](images/business-rule-flowType.png) 
+Figure 6 - Business rule registration / editing screen - Flow Type (continued)  
+
+4. On the Actions tab click Add and fill in the following fields as shown below:  
+
+![Screenshot](images/business-rule-flowType2.png) 
+Figure 7 - Business rule registration / editing screen - Flow type (continued)  
+
+5. On the Diagram tab, draw the flow and click Save, as shown below:  
+
+![Screenshot](images/business-rule-flowType3.png)  
+Figure 8 - Business rule registration / editing screen - Flow Type (continued)  
+
+##CREATING BUSINESS RULES USING SCRIPT TYPE  
+
+1. To create a business rule using Script, go to the New option, enter the Name, Description, Type (complete with Script), and the respective Application that has been registered:  
+
+![Screenshot](images/business-rule-business-rule-script.png.png)  
+Figure 9 - Business rule registration / editing screen - Script type  
+
+2. Code your business rule script in the Script field, and add variables in the variables tab, if necessary. Scripts are accepted in the Rhino language.  
+
+![Screenshot](images/business-rule-business-rule-script2.png.png)  
+Figure 10 - Business rule registration / editing screen - Script type (continued)  
+
+3. Click Save to run the changes.  
+
+
+
+
+
+
+
+
+
+
