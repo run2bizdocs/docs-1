@@ -1,6 +1,6 @@
 Title: Perform installation
 
-# Install
+# Presentation
 
 # Software and Download
 
@@ -36,7 +36,7 @@ Figure 1 - Java table
 To find the download as its distribution: https://www.mongodb.com/download-center#community
 To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-# PostgreSQL/Oracle/MSSQL Database Server
+## PostgreSQL/Oracle/MSSQL Database Server
 
 !!! warning
     In the knowledge, we'll use the PostgreSQL with download of official repository.
