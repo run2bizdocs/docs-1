@@ -1,4 +1,4 @@
-title: Customize the knowledge portal
+title: Customize the Knowledge Portal
 Description: Intended to change images in the Knowledge Portal.
 #Customize the knowledge portal
 
