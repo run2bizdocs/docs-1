@@ -57,12 +57,12 @@ Figure 5 - Business rule registration / editing screen - Flow Type
 
   3- In the Variables tab click Add and fill in the following fields as shown below:  
 
-![Screenshot](images/business-rule-flowType.png) 
+![Screenshot](images/business-rule-flowType.png)   
 Figure 6 - Business rule registration / editing screen - Flow Type (continued)  
 
   4- On the Actions tab click Add and fill in the following fields as shown below:  
 
-![Screenshot](images/business-rule-flowType2.png) 
+![Screenshot](images/business-rule-flowType2.png)  
 Figure 7 - Business rule registration / editing screen - Flow type (continued)  
 
   5- On the Diagram tab, draw the flow and click Save, as shown below:  
