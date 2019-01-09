@@ -238,7 +238,7 @@ Creating new core 'base_conhecimento' using command: http://localhost:8983/solr/
 "QTime":3223},
 "core":"base_conhecimento"}
 
-## Wildfly Application Installation Server
+# Wildfly Application Installation Server
 
 1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll 'not be necessary the command execution of the JAVA JDK installation below).
 
