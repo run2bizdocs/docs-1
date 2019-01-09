@@ -17,7 +17,7 @@ Procedure
 
 5-  Click on "New model" and complete the fields available.
 
-!!! Abstract "NOTE
+!!! Abstract "NOTE"  
 
     This new version of the functionality supports the link to flows created
     by the user, modified to represent their scenario.i**
