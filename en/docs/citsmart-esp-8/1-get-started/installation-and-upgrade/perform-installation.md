@@ -9,7 +9,7 @@ Title: Perform installation
 
 To execute the CITSmart Enterprise, we'll download the necessary package, as the procedure about the product.
 
-## Wildfly Application Server
+# Wildfly Application Server
 
 !!! warning
     In this knowledge we'll use PostgreSQL.
@@ -24,7 +24,7 @@ Figure 1 - Java table
 
 3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
-## MongoDB Database Server
+# MongoDB Database Server
 
 !!! warning
     In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
@@ -34,7 +34,7 @@ Figure 1 - Java table
 To find the download as its distribution: https://www.mongodb.com/download-center#community
 To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-## PostgreSQL/Oracle/MSSQL Database Server
+# PostgreSQL/Oracle/MSSQL Database Server
 
 !!! warning
     In the knowledge, we'll use the PostgreSQL with download of official repository.
@@ -46,7 +46,7 @@ It's recommended that the Oracle or MSSQL Installation to be done as the informa
     Oracle: https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
     MSSQL: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
 
-## Apache Solr Indexing Server
+# Apache Solr Indexing Server
 
 !!! warning
     The version homologate of the Apache Solr is 6.4.2.
@@ -699,7 +699,7 @@ First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 1. Send the files of deployment provided to the server and move them to the directory "deployments".
 
 ```sh
-# cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
+cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
 
 <continue conforme os deploys disponíveis para sua subscrição>
