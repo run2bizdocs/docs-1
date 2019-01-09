@@ -1,6 +1,6 @@
 title: Customize the Knowledge Portal
 Description: Intended to change images in the Knowledge Portal.
-#Customize the knowledge portal
+#Customize the Knowledge Portal
 
 This functionality is intended to change images in the Knowledge Portal.
 
