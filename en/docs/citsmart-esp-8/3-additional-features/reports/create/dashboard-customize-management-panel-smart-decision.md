@@ -39,16 +39,16 @@ Procedure
 
     - *Quick Access*:
 
-     -   Click on *Links;*
+         -   Click on *Links;*
 
-         -   Click on the “Edit widget configuration” icon about the *Links* box;
+               -   Click on the “Edit widget configuration” icon about the *Links* box;
 
-         -   Complete the fields available and click on "Add" to set the *Type*,
-             if "Internal", select the system Menu (e.g.: Processes \> Portfolio
-             and Catalog Management \> Smart Portal), if "External" define the
-             Title/Key and add the URL;
+               -   Complete the fields available and click on "Add" to set the *Type*,
+                    if "Internal", select the system Menu (e.g.: Processes \> Portfolio
+                    and Catalog Management \> Smart Portal), if "External" define the
+                    Title/Key and add the URL;
 
-         -   Click on "Apply".
+               -   Click on "Apply".
 
 
      - *Smart Report*:
