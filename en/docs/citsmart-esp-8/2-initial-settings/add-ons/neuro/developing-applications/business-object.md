@@ -41,7 +41,5 @@ This tab should be fed as a way of identifying the business object created.
 2.	Clicking the Edit Form button in the screen header will generate a form for this business object. If there is no form for this business object, the Fields sidebar will be displayed. If there is already a previously registered form linked to this form, the Screen Drawing tab for this form will be opened.  
 3.	Further information regarding Neuro's form creation can be found in the technical documentation.  
 
-!!! tip "About"
 
-<b\>Product/Version:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
 
