@@ -19,7 +19,7 @@ Procedure
     capture or view the request;
 
 3.  To view the information about specific field, click on the
-    tabs: **Requester**,** Request** and **Closure**;
+    tabs: **Requester**,**Request** and **Closure**;
 
 4.  To link **Changes**, click on the are with the same name, then on the search
     field, select the change you want. If you want to register a new change
@@ -37,7 +37,7 @@ Procedure
     field and select the problem you want. If you want to register a problem,
     click on "Register" and complete the necessary data;
 
-8.  To link** Knowledge**, click on the corresponding area, click on the search
+8.  To link **Knowledge**, click on the corresponding area, click on the search
     field and select the knowledge you want. If you want to register a new
     article, click on "Register" and complete the data;
 
