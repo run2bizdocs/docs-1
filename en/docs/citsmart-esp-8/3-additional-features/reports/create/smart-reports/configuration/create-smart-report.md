@@ -17,10 +17,6 @@ Procedure
 
 4.  It's allowed to print the report by clicking on the “Printer” icon.
 
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
 
 Related
 -------
