@@ -19,6 +19,7 @@ Procedure
 3.  Click on "Save".
 
 Related
+-------
 
 Register automatic actions of incident/request/procedure
 
