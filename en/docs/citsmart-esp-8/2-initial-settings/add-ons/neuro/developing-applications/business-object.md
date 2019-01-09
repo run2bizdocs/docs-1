@@ -4,8 +4,8 @@ Description: Through this screen, it is possible to keep the business objects of
 
 #Business object  
 
-Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.
-Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.
+Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.  
+Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.  
 Each business object created represents a table in the database.
 
 ##HOW TO ACCESS
