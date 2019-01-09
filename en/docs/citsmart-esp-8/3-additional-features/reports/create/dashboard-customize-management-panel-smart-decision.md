@@ -50,13 +50,14 @@ Procedure
 
         -   Click on "Apply".
 
+
 -   *Smart Report*:
 
-    -   choose the type of report that will be in the management panel.
+         -choose the type of report that will be in the management panel.
 
 -   *Widgets*:
 
-    -   choose the type widget that will be in the management panel.
+         -choose the type widget that will be in the management panel.
 
 1.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
