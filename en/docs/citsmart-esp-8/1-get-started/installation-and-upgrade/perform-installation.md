@@ -696,7 +696,7 @@ First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 
  3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart Enterprise.
 
-### CITSmart Neuro Deployment
+## CITSmart Neuro Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments".
 
