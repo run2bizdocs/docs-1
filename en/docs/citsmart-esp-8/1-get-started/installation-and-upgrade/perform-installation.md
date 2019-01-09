@@ -358,7 +358,7 @@ fi
 chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
 ```
 
-# Wildfly Application Configuration Server
+## Wildfly Application Configuration Server
 
 All configurations done in this document will be done through jboss-cli. For that, start the Wildfly in standalone, connect with jboss-cli and execute the following commands.
 
