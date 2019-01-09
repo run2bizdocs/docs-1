@@ -16,7 +16,9 @@ Each business object created represents a table in the database.
 
 ##FILTERS
 1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
-•	Keyword or enter.   
+•	Keyword or enter.  
+
+![Screenshot](images/business-object-filter.png)
 
 ##ITEMS LIST
 1.	The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Application, Name, Description, Database connection and Version.  
