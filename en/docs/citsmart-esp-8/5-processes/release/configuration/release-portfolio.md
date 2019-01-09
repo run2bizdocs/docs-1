@@ -20,7 +20,7 @@ Procedure
 !!! Abstract "NOTE"  
 
     This new version of the functionality supports the link to flows created
-    by the user, modified to represent their scenario.i**
+    by the user, modified to represent their scenario.
 
     It's necessary to select the "Active" status to make use of the portfolio
     created.
