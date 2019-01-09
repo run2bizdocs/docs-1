@@ -43,5 +43,5 @@ This tab should be fed as a way of identifying the business object created.
 
 !!! tip "About"
 
-\<b\>Product/Version:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
+<b\>Product/Version:\</b\> CITSmart ESP \| 8.00 \&nbsp;&nbsp;
 
