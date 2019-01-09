@@ -371,7 +371,7 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```
 [standalone@localhost:9990 /]
 
-### Configure system properties
+## Configure system properties
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
@@ -393,7 +393,7 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=rhino.scripts.directory:add(value="")
 ```
 
-### Datasources configuration
+## Datasources configuration
 
 Before creating the datasources, we have to add to the Wildfly the module JDBC of PostgreSQL. For that, exit the mode jboss-cli and execute the commands below.
 
@@ -528,7 +528,7 @@ Datasource citsmart-neuro-app3
 }
 ```
 
-### Configure subsytems
+## Configure subsytems
 
 ```sh
 /subsystem=logging/root-logger=ROOT:write-attribute(name=level,value=INFO)
@@ -556,7 +556,7 @@ Datasource citsmart-neuro-app3
 [standalone@localhost:9990 /] :reload
 ```
 
-### Create citsmart.cfg file
+## Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
@@ -576,7 +576,7 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 !!! warning
     Don't forget to change the owner of files and directories to the citsmart user
 
-### Create directories to installation
+## Create directories to installation
 
 !!! warning
     Don't forget to change the owner of directory /opt/citsmart
@@ -591,7 +591,7 @@ For Attachments of Knowledge Base: mkdir /opt/citsmart/attachkb
 For Upload: mkdir /opt/citsmart/upload
 ```
 
-### Generate certification SSL Self-Signed
+## Generate certification SSL Self-Signed
 
 !!! warning
     To the Wildfly, it'll be generated a self-signed certificate.
