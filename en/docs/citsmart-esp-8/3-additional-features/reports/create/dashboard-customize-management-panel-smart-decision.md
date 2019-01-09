@@ -37,7 +37,7 @@ Procedure
 1.  To add elements with links, smart reports or widgets, click on the “Enable
     edit mode” icon and then on “Add new widget” icon:
 
--   *Quick Access*:
+  - *Quick Access*:
 
     -   Click on *Links;*
 
@@ -51,11 +51,11 @@ Procedure
         -   Click on "Apply".
 
 
- -  *Smart Report*:
+   - *Smart Report*:
 
        - choose the type of report that will be in the management panel.
 
- -  *Widgets*:
+   - *Widgets*:
 
        - choose the type widget that will be in the management panel.
 
