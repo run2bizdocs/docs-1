@@ -33,9 +33,9 @@ Figure 2 - Listing screen of registered business objects
 
 ##IDENTIFICATION
 This tab should be fed as a way of identifying the business object created.  
-1.	Enter the Application for which the business object is created (registered in menu Neuro   Management   Application);  
+1.	Enter the Application for which the business object is created (registered in menu Neuro →  Management →  Application);  
 2.	 The business object identification name, description, purpose must be inform and mark whether the system should generate the form upon saving.  
-3.	As you click Generate Form when saving, Neuro will generate a form based on the information entered in the database tab. This form can be edited later through menu Neuro  Management  Form.  
+3.	As you click Generate Form when saving, Neuro will generate a form based on the information entered in the database tab. This form can be edited later through menu Neuro → Management → Form.  
 
 ![Screenshot](images/business-object-identification.png)  
 Figure 3 - Register/edit business object screen
