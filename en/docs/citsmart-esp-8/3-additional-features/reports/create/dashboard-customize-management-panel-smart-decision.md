@@ -11,12 +11,14 @@ In the default management panel, it's available only the resources of
 type *Quick Access* (links).
 
 Before getting started
+--------------------------
 
 To create shortcuts (links), it's not necessary any special permission, however,
 the elements use of type widget and smart reports need permissions defined by
 the tool manager.
 
 Procedure
+-------------
 
 *Use a template to customize the user panel*
 
