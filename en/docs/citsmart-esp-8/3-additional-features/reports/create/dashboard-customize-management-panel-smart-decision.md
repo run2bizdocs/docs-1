@@ -50,7 +50,7 @@ Procedure
 
         -   Click on "Apply".
 
--   *Smart Report:*
+-   *Smart Report*:
 
     -   choose the type of report that will be in the management panel.
 
