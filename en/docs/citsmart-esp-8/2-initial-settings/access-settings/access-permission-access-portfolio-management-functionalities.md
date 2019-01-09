@@ -32,10 +32,10 @@ Procedure
 
 4.  Note that:
 
-   - the profiles access will be disabled (the checkbox of all pre-existing
-     profiles accesses will be disabled), by default, when it's created new
-     functionalities, therefore, the administrators should enable to the profiles
-     they want, turn it available to those profiles.
+       - the profiles access will be disabled (the checkbox of all pre-existing
+         profiles accesses will be disabled), by default, when it's created new
+         functionalities, therefore, the administrators should enable to the profiles
+         they want, turn it available to those profiles.
 
 1.  Click on "Save".
 
