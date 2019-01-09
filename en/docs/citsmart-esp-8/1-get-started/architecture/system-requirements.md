@@ -19,6 +19,7 @@ The execution environment of the database server PostgreSQL/Oracle/SQL must have
 | Memory | 4 GB RAM |
 | Processors | 2 CPU |
 | Disk | 120 GB Disk |
+
 Table 2 - Minimum requirements
 
 The execution environment of the database server MongoDB must have the following minimum requirements:
@@ -28,6 +29,7 @@ The execution environment of the database server MongoDB must have the following
 | Memory | 4 GB RAM |
 | Processors | 2 CPU |
 | Disk | 120 GB Disk |
+
 Table 3 - Minimum requirements
 
 The execution environment of the indexing server Apache Solr must have the following minimum requirements:
@@ -37,4 +39,5 @@ The execution environment of the indexing server Apache Solr must have the follo
 | Memory | 4 GB RAM | 
 | Processors | 2 CPU |
 | Disk | 120 GB Disk |
+
 Table 4 - Minimum requirements 
