@@ -1,4 +1,5 @@
-title: Business object.dotm
+title: Business object  
+
 Description: Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms
 
 #Business object.dotm  
