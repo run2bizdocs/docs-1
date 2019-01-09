@@ -1,10 +1,5 @@
 title: Business rules
--------------------------
-
-Description: Business rules define how your business works, and can cover a
-variety of issues such as your policies, interests, objectives, ethical and
-social commitments, contractual obligations, strategic decisions, laws and
-regulations, among others  
+Description: Business rules define how your business works, and can cover a variety of issues such as your policies, interests, objectives, ethical and social commitments, contractual obligations, strategic decisions, laws and regulations, among others
 
 #Business rules
 --------------------
