@@ -1,4 +1,4 @@
-title: Register position
+title:Register position
 Description: This feature provides a variety of actions, such as including, changing, and deleting the job positions in the organization.
 #Register position
 This feature provides a variety of actions, such as including, changing, and deleting the job positions in the organization.
