@@ -48,9 +48,9 @@ Related
 
 [Register Event Monitor Connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-evente-monitor-connection.html)
 
-[Register time](
+[Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
 
-[Set Inventory connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
+[Set Inventory connection](https//docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
