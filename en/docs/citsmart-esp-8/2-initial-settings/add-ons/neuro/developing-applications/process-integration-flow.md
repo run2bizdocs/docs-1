@@ -40,20 +40,20 @@ Figure 4 – Register/edit workflow, Flow data tab.
 
 3- Fill in the fields: 
  
-1.  Enter a name for the flow, a description, the flow application, what form
+-  Enter a name for the flow, a description, the flow application, what form
     will start to flow (if applicable)
 
-2.  The field version is incremented automatically by the system whenever a new
+-  The field version is incremented automatically by the system whenever a new
     version of the workflow is created.
 
-3.  Time management can take place in the following ways:
+-  Time management can take place in the following ways:
 
--   No management: when the time is not managed in the registered flow.
+	-   No management: when the time is not managed in the registered flow.
 
--   Defined in the flow: the time recorded in the flow will be used, but only if
+	-   Defined in the flow: the time recorded in the flow will be used, but only if
     there is no execution time registered in the business process.
 
--   Defined in execution: the time registered in the business process will be
+	-   Defined in execution: the time registered in the business process will be
     used.
 
 ##VARIABLES  
