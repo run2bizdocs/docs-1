@@ -22,13 +22,13 @@ Procedure
 
 3.  The type of template selected will define the fields to completion:
 
--   **JSP: **this functionality allows to customize the services screen with
+-   **JSP**: this functionality allows to customize the services screen with
     reference mainly to the management of purchases and travel. Within the JSP
     type there are sub-types previously registered. The utility of this type of
     template is only observed in versions previous to 7.2.3.9. This template
     class should be handled by an analyst who has knowledge of JAVA programming;
 
--   **Questionnaire: **even if the "Enable edit questionnaire" option is
+-   **Questionnaire**: even if the "Enable edit questionnaire" option is
     disabled, this edition will be possible when the ticket registration occurs.
     There are two approval functions that can be configured in the service
     request template or flow maintenance screen. As a rule, for the system, only
