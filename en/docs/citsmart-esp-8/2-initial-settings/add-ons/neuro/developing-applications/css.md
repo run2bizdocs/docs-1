@@ -8,18 +8,18 @@ Description: The Neuro allows the maintenance of CSS files within the tool. Thes
 
 ##HOW TO ACCESS  
 
-1.  Access the feature by navigating the menu **Neuro → Resources → CSS**.  
+1-  Access the feature by navigating the menu **Neuro → Resources → CSS**.  
 
 ##PRECONDITIONS  
 
-1.  Not applicable
+1-  Not applicable
 
 ##FILTERS  
 
-1.  The following filter enables the user to restrict the participation of items
+1-  The following filter enables the user to restrict the participation of items
     in the standard feature listing, making it easier to find the desired items:  
 
--   Keyword   
+ - Keyword   
 
 ![Screenshot](images/CSS-Filters.png)  
 
