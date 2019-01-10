@@ -2,6 +2,11 @@ title: Configure parametrization - ticket
 Description: Allow ticket management actions, such as the standard flow, the phase in which the service request to be registered will be forwarded, and others.
 #Configure parametrization - ticket
 
+To delivery the service, it's necessary some parameter settings that allow
+ticket management actions, such as the standard flow, the phase in which the
+service request to be registered will be forwarded, and others.
+
+
 Procedure
 -------------
 
