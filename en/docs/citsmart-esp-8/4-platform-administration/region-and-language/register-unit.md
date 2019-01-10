@@ -1,8 +1,9 @@
-Register unitstar_border question_answerprint
-CITSmart - 8.0  English  Configuration and Customization  General Version 1.0 
+title: Register unit
+Description: This functionality is intended to register the unities where the employees are placed. 
+#Register unit
 This functionality is intended to register the unities where the employees are placed.
-
 This feature provides a variety of actions, such as including, changing, and deleting an unit.
+
 
 Before getting started
 --------------------------
