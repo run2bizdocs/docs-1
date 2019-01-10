@@ -2,6 +2,8 @@ Title: Database connection
 Description: All database connections that are required for the applications created through Neuro are registered here.  
 #Database connection  
 
+All database connections that are required for the applications created through Neuro are registered here.  
+
 ##HOW TO ACCESS  
 Access the functionality through navigation in the main menu Neuro → Configuration → Database Connection.  
 
