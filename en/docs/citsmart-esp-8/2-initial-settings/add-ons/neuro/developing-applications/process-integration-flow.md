@@ -40,13 +40,21 @@ Figure 4 – Register/edit workflow, Flow data tab.
 
 3- Fill in the fields: 
  
-- Enter a name for the flow, a description, the flow application, what form will start to flow (if applicable)  
-- The field version is incremented automatically by the system whenever a new version of the workflow is created.  
-- Time management can take place in the following ways:  
+-  Enter a name for the flow, a description, the flow application, what form
+    will start to flow (if applicable)
 
-No management: when the time is not managed in the registered flow.  
-Defined in the flow: the time recorded in the flow will be used, but only if there is no execution time registered in the business process.  
-Defined in execution: the time registered in the business process will be used.  
+-  The field version is incremented automatically by the system whenever a new
+    version of the workflow is created.
+
+-  Time management can take place in the following ways:
+
+	-   No management: when the time is not managed in the registered flow.
+
+	-   Defined in the flow: the time recorded in the flow will be used, but only if
+    there is no execution time registered in the business process.
+
+	-   Defined in execution: the time registered in the business process will be
+    used.
 
 ##VARIABLES  
 
@@ -165,10 +173,10 @@ Figure 8 - Register/edit workflow, Diagram tab
 **- For tasks:**  
 
 - Identification tab  
-- Name;  
-- Description;  
-- Identification;  
-- Instance type.  
+	- Name;  
+	- Description;  
+	- Identification;  
+	- Instance type.  
 
 3- Variables  
 - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
