@@ -1,6 +1,6 @@
 Title: Prepare environment
 
-# Prepare environment
+# 1. Prepare environment
 
 
 ## Software and Download

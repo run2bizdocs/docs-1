@@ -1,6 +1,6 @@
 Title: Perform installation
 
-# Perform installation
+# 2. Perform installation
 
 ## Wildfly Installation Server
 
