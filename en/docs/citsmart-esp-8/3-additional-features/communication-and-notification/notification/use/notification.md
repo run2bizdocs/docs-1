@@ -33,16 +33,16 @@ What to do next
 3.  To see all notifications, click on "See all", it will be presented the
     screen to verify the notifications;
 
--   The notification with the icon symbolizing the open envelope, indicates that
+ -   The notification with the icon symbolizing the open envelope, indicates that
     the message was viewed;
 
--   The notification with the icon symbolizing the closed envelope, indicates
+ -   The notification with the icon symbolizing the closed envelope, indicates
     that the message wasn't viewed;
 
--   The notification with the icon symbolizing an attention, indicates that the
+ -   The notification with the icon symbolizing an attention, indicates that the
     message demands reading confirmation;
 
--   The notification with the icon symbolizes a visa/check, indicates that its
+ -   The notification with the icon symbolizes a visa/check, indicates that its
     reading was confirmed.
     
     !!! tip "About"
