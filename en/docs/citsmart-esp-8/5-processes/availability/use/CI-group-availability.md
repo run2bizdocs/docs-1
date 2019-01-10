@@ -35,19 +35,19 @@ Procedure
 Related
 -----------
 
--   Register a contract
+   [Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
--   Register configuration item
+   Register configuration item
 
--   Create calendar
+   Create calendar
 
--   Service level agreement
+   Service level agreement
 
--   Register configuration item group
+   Register configuration item group
 
--   Register cost per hour of unavailability
+   Register cost per hour of unavailability
 
--   Register availability group
+   Register availability group
 
 !!! tip "About"
 
