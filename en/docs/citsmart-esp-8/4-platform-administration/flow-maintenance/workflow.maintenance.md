@@ -20,12 +20,12 @@ Procedure
 4.  In the tab Diagram, it'll be made the flow design. There are 6 group of
     connectors:
 
-   + Events: it presents the events elements to be used in the flow design;
+    + Events: it presents the events elements to be used in the flow design;
 
-   + Activities: it presents the tasks elements to be used in the flow
+    + Activities: it presents the tasks elements to be used in the flow
     design;
 
-   + Gateways: it presents the conditions elements to be used in the flow
+    + Gateways: it presents the conditions elements to be used in the flow
     design.
 
 1.  To insert the elements, simply click on the element you want and drag it to
