@@ -24,7 +24,7 @@ Figure 1 - Search screen
 
 1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description, Flow Application, Version**, and **Block date**.  
 
-![Screenshot](images/Service-Integration-Flow-fig02.png) 
+![Screenshot](images/Service-Integration-Flow-fig02.png)   
 Figure 2 - Listing screen   
 
 ##FILLING IN THE REGISTRATION FIELDS - FLOW DATA  
@@ -39,7 +39,7 @@ Figure 3 - Registration screen
 2- To add a new flow data, click Add.  
 3- The following screen will be displayed:  
 
-![Screenshot](images/Service-Integration-Flow-fig04.png) 
+![Screenshot](images/Service-Integration-Flow-fig04.png)   
 Figure 4 - Workflow registration / editing screen, Flow Data tab   
 
 4- Enter a **name** for the flow, a **description**, which **form** will start the flow (if applicable), and whether or not flow execution will persist. If the field **"Keep running the stream"** is checked, Neuro will persist in the database on every instance of the execution of this flow.  
@@ -53,7 +53,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 1- To add a new variables, choose the tab for the same and then click Add.  
 2- The following screen will be displayed:  
 
-![Screenshot](images/Service-Integration-Flow-fig05.png) 
+![Screenshot](images/Service-Integration-Flow-fig05.png)   
 Figure 5 - Workflow registration / editing screen, Variables tab   
 
 3- Fill in the fields:  
@@ -92,7 +92,7 @@ The actions are based on scripts programmed in Rhino language.
 	1- To include an action, choose the tab for the same and then click go to Add.  
 	2- The following screen will be displayed:  
 
-![Screenshot](images/Service-Integration-Flow-fig06.png) 
+![Screenshot](images/Service-Integration-Flow-fig06.png)   
 Figure 6 - Register/edit workflow, actions tab 
 
 3- Fill in the fields:  
