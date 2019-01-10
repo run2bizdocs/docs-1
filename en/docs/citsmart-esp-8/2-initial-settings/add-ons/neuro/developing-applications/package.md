@@ -30,14 +30,14 @@ Figure 2 - Package listing screen
 ![Screenshot](images/Package-Registration.png)  
 Figure 3 - Package registration / edit screen  
 
-3- You can select Applications, Parameters, Labels, Images, CSS, Java Scripts, HTML Pages,  Reports, Business rules, Flows, Business object, Components, Form pages, Forms, Business Processes, Notifications and User Groups to compose the package;  
+3- You can select **Applications, Parameters, Labels, Images, CSS, Java Scripts, HTML Pages,  Reports, Business rules, Flows, Business object, Components, Form pages, Forms, Business Processes, Notifications** and **User Groups** to compose the package;  
 4- Click Save to create the package. Click Search to go back to the previous screen;  
 5- To export a saved package, select it and then click Export. Packages are exported in .json format;  
 6- To import a package into a Neuro, click Import, select whether this version of the package should override elements that have the same identifier, whether the DDL should be run, and select the .json import file;  
 
 !!! Abstract "ATTENTION"  
 
-    To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.  
+    **To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.**  
 
 7- To view an item, select the item and click View.  
 
