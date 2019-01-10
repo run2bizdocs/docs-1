@@ -17,7 +17,8 @@ By using this screen the user can register the databases used by Neuro.
 
 1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
- - Keyword  
+ - Keyword    
+ 
  ![Screenshot](images/Data-Search.png)    
  Figure 1 - Database search screen    
  
@@ -35,9 +36,9 @@ By using this screen the user can register the databases used by Neuro.
  Figure 3 - Database home screen  
 
 2- On this screen the user is also allowed other actions. They are:  
- - To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
- - To view an item, select the item and click View.  
- - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+  - To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
+  - To view an item, select the item and click View.  
+  - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 3- When you click Next, the following screen will appear:  
 
  ![Screenshot](images/Data-register.png)   
