@@ -40,7 +40,7 @@ Procedure
     + the rules configured in the flow will have priority over the service request
     template markings, as this is a complement to the flow;
 
-    + to use the component  the organization should have the IBM BlueMIX
+    + to use the component "Watson Conversation" the organization should have the IBM BlueMIX
     architecture, allowing the access to the Watson API Conversation;
 
     + to delete an element that was entered in the flow design, click on it and
