@@ -50,7 +50,7 @@ Procedure
     reclassification rule, where the questionnaire or Neuro service template has
     to be presented for the user response, it's necessary that the template or
     form is linked to the service request template concomitantly with the flow
-    maintenance screen and the portfolio activity;
+    maintenance screen and the portfolio activity;  
 
 -   **Neuro**: when you select this option, the Neuro form link field and Neuro
     page are made available. You can also elect the **version** of the form by
