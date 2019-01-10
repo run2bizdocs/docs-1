@@ -87,7 +87,7 @@ Figure 5 - Workflow registration / editing screen, Variables tab
 
 Through this menu, it is possible to register the actions that will be run in the workflow.  
 
-The actions are based on scripts programmed in Rhino language.  
+The actions are based on scripts programmed in **Rhino** language.  
 
 	1- To include an action, choose the tab for the same and then click go to Add.  
 	2- The following screen will be displayed:  
@@ -97,9 +97,9 @@ Figure 6 - Register/edit workflow, actions tab
 
 3- Fill in the fields:  
 
-- an identifier for the action;  
-- the literal name for the action;  
-- and the script that will be run when the action is triggered.  
+- an **identifier** for the action;  
+- the literal **name** for the action;  
+- and the **script** that will be run when the action is triggered.  
 
 4- To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
 
@@ -111,15 +111,16 @@ Figure 6 - Register/edit workflow, actions tab
 
 ##DIAGRAM  
 
-The diagram of a service flow does not have the same "Task" components as a process flow. I.e., you cannot use the "Human Task" components for "Sub Process Workflow".  
+The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process Workflow"**.  
 
 For a business process, we have, in addition, these components sections:  
 
-- Connectors: components used to perform operations related to the database.  
-- Components: varied components for performing various tasks.  
-- Transformers: components for converting variable types.  
-- CITSmart: components used for integration with an external Citsmart system.  
-- The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
+- **Connectors**: components used to perform operations related to the database.  
+- **Components**: varied components for performing various tasks.  
+- **Transformers**: components for converting variable types.  
+- **CITSmart**: components used for integration with an external Citsmart system.  
+
+The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
 
 1- To design a diagram, choose the tab for the same  
 2- The following screen will be displayed:  
