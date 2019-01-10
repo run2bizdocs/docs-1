@@ -18,7 +18,7 @@ Procedure
     the information of all active employees of the respective unit, regarding
     the contract informed.  
 
-1.  Click on "Generate PDF" to create the report in PDF and/or click on
+3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create the report in Excel.
 
 !!! tip "About"
