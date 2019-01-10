@@ -21,9 +21,9 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 1. Download the package directly of the official repository through the link: http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
 2. Download directly the Java JDK8u172 of the official repository jdk-8u172-linux-x64.tar.gz:
 
-![Java Download](images/java-download.png)
+    ![Java Download](images/java-download.png)
 
-Figure 1 - Java table
+Figure 1 - Java download list
 
 3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
@@ -34,8 +34,11 @@ Figure 1 - Java table
     Download the MongoDB as its distribution.
     The version of MongoDB should be 3.4.
 
-To find the download as its distribution: https://www.mongodb.com/download-center#community
-To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
+To find the download as its distribution:
+https://www.mongodb.com/download-center#community
+
+To download the MongoDB for CentOS 7.5:
+https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 ### PostgreSQL/Oracle/MSSQL Database Server
 
@@ -62,7 +65,7 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
 
 Download of assets files to CITSmart
 
-    http://files.citsmart.com/assets.tar.gz
+http://files.citsmart.com/assets.tar.gz
 
 ## Package Configuration
 
@@ -76,21 +79,21 @@ After all the necessary download, we can start the installation of the solution 
 
 1. After download the MongoDB version 3.4.15, for its correct distribution, it's necessary the decompression to the directory /opt;
 
-``` sh
-tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/
-```
+    ``` sh
+    tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/
+    ```
 
-``` sh
-mkdir -p /data /db
-```
+    ``` sh
+    mkdir -p /data /db
+    ```
 
-``` sh
-cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
-```
+    ``` sh
+    cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
+    ```
 
-``` sh
-./mongod
-```
+    ``` sh
+    ./mongod
+    ```
 
 <message of unrestricted access >
 
@@ -99,13 +102,13 @@ cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
 4. It will appear the message "Sucessfully added user";
 5. Type exit to leave the MongoDB console;
 
-``` sh
-cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
-```
+    ``` sh
+    cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
+    ```
 
-``` sh
-./mongo
-```
+    ``` sh
+    ./mongo
+    ```
 
 
 < message of unrestricted access >
@@ -129,43 +132,43 @@ roles:[
 
 1. After install the PostgreSQL we can create the database, user and password;
 
-``` sh
-systemctl start postgresql
-```
+    ``` sh
+    systemctl start postgresql
+    ```
 
-``` sh
-su – postgres
-```
+    ``` sh
+    su – postgres
+    ```
 
-``` sh
-psql
-```
+    ``` sh
+    psql
+    ```
 
-```sh
-create user citsmartdbuser with password 'exemple123';
-```
+    ```sh
+    create user citsmartdbuser with password 'exemple123';
+    ```
 
 <message CREATE ROLE>
 
-``` sh
-create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
-```
+    ``` sh
+    create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
+    ```
 
 <mensagem CREATE DATABASE>
 
-``` sh
-alter role citsmartdbuser superuser;
-```
+    ``` sh
+    alter role citsmartdbuser superuser;
+    ```
 
 <mensagem ALTER ROLE>
 
-``` sh
-\q
-```
+    ``` sh
+    \q
+    ```
 
-``` sh
-exit
-```
+    ``` sh
+    exit
+    ```
 
 2. Note the command return analyzing the correct execution;
 3. Now we'll configure the /var/lib/pgsql/9.5/data/pg_hba.conf to allow the Wildfly connection to the database and user of citsmart. At the end of the file change the lines:
@@ -177,14 +180,14 @@ Changed: host citsmart_db citsmartdbuser IP_Wildfly/32 md5
 
 Default is commented:
 
-``` sh
-listen_addresses = 'localhost'
-```
+    ``` sh
+    listen_addresses = 'localhost'
+    ```
 Changed: 
 
-``` sh
-listen_addresses = ‘0.0.0.0'
-```
+    ``` sh
+    listen_addresses = ‘0.0.0.0'
+    ```
 
 5. After the configuration, restart in the postgresql;
 
@@ -197,48 +200,75 @@ systemctl restart postgresql-9.5.service
 1. Install the pacjages unzip and Isof;
 2. Decompress the JAVA and Solr to the /opt;
 
-``` sh
-yum install unzip lsof
-tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
-ln -s /opt/jdk1.8.0_172 /opt/jdk
-unzip solr-6.4.2.zip -d /opt/
-ln -s /opt/solr-6.4.2 /opt/solr
-```
+    ``` sh
+    yum install unzip lsof
+    ```
+	
+	```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+	```
+	
+	```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+	```
+	
+	```sh
+    unzip solr-6.4.2.zip -d /opt/
+	```
+	
+	```sh
+    ln -s /opt/solr-6.4.2 /opt/solr
+    ```
 
-``` sh
-vim /etc/profile
-```
-export JAVA_HOME="/opt/jdk"
-export PATH="$JAVA_HOME/bin:$PATH"
+    ``` sh
+    vim /etc/profile
+    ```
+    export JAVA_HOME="/opt/jdk"
+    export PATH="$JAVA_HOME/bin:$PATH"
 
-``` sh
-:wq
-```
+    ``` sh
+    :wq
+    ```
 
-``` sh
-source /etc/profile
-```
+    ``` sh
+    source /etc/profile
+    ```
 
 3. Create a user to execute the Solr with fake shell and permission in the directory Solr, then, start it;
-
-``` sh
-groupadd -r solr
-useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
-chown -R solr:solr /opt/solr-6.4.2/
-su - solr -s /bin/bash
-bin/solr start
-```
+    
+    ``` sh
+    groupadd -r solr
+	```
+	
+	```sh
+    useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
+	```
+	
+	```sh
+    chown -R solr:solr /opt/solr-6.4.2/
+	```
+	
+	```sh
+    su - solr -s /bin/bash
+	```
+	
+	```sh
+    bin/solr start
+    ```
 
 4. Decompress the file to the knowledge base configuration and execute the collection creation;
 
-``` sh
-unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
-su - solr -s /bin/bash
-```
+    ``` sh
+    unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
+	```
+	
+	```sh
+    su - solr -s /bin/bash
+    ```
 
-``` sh
-bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
-```
+    ``` sh
+    bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
+    ```
 
 5. Note that the command return should be something like the example bellow:
 
