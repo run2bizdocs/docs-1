@@ -1,19 +1,15 @@
 title: Verify service audit
- 
-Description: Allows to verify the service history to its audit
-#Create escalation rule 
-Verify service audit
+Description: This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
+#Verify service audit
 This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
 
 Before getting started
---------------------------
-
+-------------------------
 To verify the service audit history, it's necessary to have the portfolio
 defined.
 
 Procedure
 -------------
-
 1.  Access the functionality through the main menu Processes \> Portfolio and
     Catalog Management \> Portfolio;
 
@@ -35,8 +31,7 @@ Procedure
 9.  Click on "Save".
 
 Related
------------
-
+------------
 -   Create the portfolio
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'

@@ -1,244 +1,8 @@
 Title: Perform installation
 
-# Presentation
+# Perform installation
 
-# Software and Download
-
-!!! warning
-    From this point, it will be necessary a subscription.
-    The CITSmart Enterprise installation requires an operating system GNU/Linux with kernel equal or higher than 3.10.
-    We recommend Red Hat, CentOS, Debian or Ubuntu.
-
-To execute the CITSmart Enterprise, we'll download the necessary package, as the procedure about the product.
-
-## Wildfly Application Server
-
-!!! warning
-    In this knowledge we'll use PostgreSQL.
-    You can download the package of Oracle or MSSQL and make the changes as described for the PostgreSQL.
-
-1. Download the package directly of the official repository through the link: http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
-2. Download directly the Java JDK8u172 of the official repository jdk-8u172-linux-x64.tar.gz:
-
-![Screenshot](images/java-download.png)
-
-Figure 1 - Java table
-
-3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
-
-## MongoDB Database Server
-
-!!! warning
-    In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
-    Download the MongoDB as its distribution.
-    The version of MongoDB should be 3.4.
-
-To find the download as its distribution: https://www.mongodb.com/download-center#community
-To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
-
-## PostgreSQL/Oracle/MSSQL Database Server
-
-!!! warning
-    In the knowledge, we'll use the PostgreSQL with download of official repository.
-
-The CITSmart Enterprise is consistent with PostgreSQL 9.2 or higher and the download will be done when configure the packages.
-
-It's recommended that the Oracle or MSSQL Installation to be done as the information and best practices of each manufacturer:
-
-    Oracle: https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
-    MSSQL: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
-
-## Apache Solr Indexing Server
-
-!!! warning
-    The version homologate of the Apache Solr is 6.4.2.
-
-    Solr 6.4.2: http://files.citsmart.com/solr-6.4.2.zip
-    Configurations to the knowledge base: http://files.citsmart.com/base_conhecimento_configs.zip
-
-Download of assets files to CItsmart
-
-    http://files.citsmart.com/assets.tar.gz
-
-# Package Configuration
-
-!!! warning
-    We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured in the 4 machines.
-    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the package management.
-
-After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
-
-## MongoDB Database Server
-
-1. After download the MongoDB version 3.4.15, for its correct distribution, it's necessary the decompression to the directory /opt;
-
-``` sh
-tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/
-```
-
-``` sh
-mkdir -p /data /db
-```
-
-``` sh
-cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
-```
-
-``` sh
-./mongod
-```
-
-<message of unrestricted access >
-
-2. We should create a directory to the base and start the MongoDB. Note that it will upload with access unrestricted permission;
-3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, settingg its user ande password;
-4. It will appear the message "Sucessfully added user";
-5. Type exit to leave the MongoDB console;
-
-``` sh
-cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
-```
-
-``` sh
-./mongo
-```
-
-
-< message of unrestricted access >
-use admin
-db.createUser({
-user: "admin",
-pwd: "yourpassword",
-roles:[
-{ role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
-]
-})
-
-6. Return to the previous terminal and finish the mongodb process with CTRL+C.
-
-## PostgreSQL Database Server
-
-!!! warning
-    To this knowledge we'll use the version 9.5 of the PostgreSQL.
-    We can install PostgreSQL with the steps in this official manual: https://www.postgresql.org/download/linux/redhat/
-
-1. After install the PostgreSQL we can create the database, user and password;
-
-``` sh
-systemctl start postgresql
-```
-
-``` sh
-su – postgres
-```
-
-``` sh
-psql
-```
-
-```sh
-create user citsmartdbuser with password 'exemple123';
-```
-
-<message CREATE ROLE>
-
-``` sh
-create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
-```
-
-<mensagem CREATE DATABASE>
-
-``` sh
-alter role citsmartdbuser superuser;
-```
-
-<mensagem ALTER ROLE>
-
-``` sh
-\q
-```
-
-``` sh
-exit
-```
-
-2. Note the command return analyzing the correct execution;
-3. Now we'll configure the /var/lib/pgsql/9.5/data/pg_hba.conf to allow the Wildfly connection to the database and user of citsmart. At the end of the file change the lines:
-
-Default: host all all 127.0.0.1/32 md5
-Changed: host citsmart_db citsmartdbuser IP_Wildfly/32 md5
-
-4. Time to open the listening in the file /var/lib/pgsql/9.5/data/postgresql.conf;
-
-Default is commented: #listen_addresses = 'localhost'
-Changed: listen_addresses = ‘0.0.0.0'
-
-5. After the configuration, restart in the postgresql;
-
-``` sh
-systemctl restart postgresql-9.5.service
-```
-
-## Apache Solr Indexing Server
-
-1. Install the pacjages unzip and Isof;
-2. Decompress the JAVA and Solr to the /opt;
-
-``` sh
-yum install unzip lsof
-tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
-ln -s /opt/jdk1.8.0_172 /opt/jdk
-unzip solr-6.4.2.zip -d /opt/
-ln -s /opt/solr-6.4.2 /opt/solr
-```
-
-``` sh
-vim /etc/profile
-```
-export JAVA_HOME="/opt/jdk"
-export PATH="$JAVA_HOME/bin:$PATH"
-
-``` sh
-:wq
-```
-
-``` sh
-source /etc/profile
-```
-
-3. Create a user to execute the Solr with fake shell and permission in the directory Solr, then, start it;
-
-``` sh
-groupadd -r solr
-useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
-chown -R solr:solr /opt/solr-6.4.2/
-su - solr -s /bin/bash
-bin/solr start
-```
-
-4. Decompress the file to the knowledge base configuration and execute the collection creation;
-
-``` sh
-unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
-su - solr -s /bin/bash
-```
-
-``` sh
-bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
-```
-
-5. Note that the command return should be something like the example bellow:
-
-Copying configuration to new core instance directory: /opt/solr/server/solr/base_conhecimento
-Creating new core 'base_conhecimento' using command: http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento
-{
-"responseHeader":{
-"status":0,
-"QTime":3223},
-"core":"base_conhecimento"}
-
-# Wildfly Application Installation Server
+## Wildfly Installation Server
 
 1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll 'not be necessary the command execution of the JAVA JDK installation below).
 
@@ -358,7 +122,7 @@ fi
 chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
 ```
 
-## Wildfly Application Configuration Server
+### Wildfly Application Configuration Server
 
 All configurations done in this document will be done through jboss-cli. For that, start the Wildfly in standalone, connect with jboss-cli and execute the following commands.
 
@@ -371,7 +135,7 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```
 [standalone@localhost:9990 /]
 
-## Configure system properties
+### Configure system properties
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
@@ -393,7 +157,7 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=rhino.scripts.directory:add(value="")
 ```
 
-## Datasources configuration
+### Datasources configuration
 
 Before creating the datasources, we have to add to the Wildfly the module JDBC of PostgreSQL. For that, exit the mode jboss-cli and execute the commands below.
 
@@ -528,7 +292,7 @@ Datasource citsmart-neuro-app3
 }
 ```
 
-## Configure subsytems
+### Configure subsytems
 
 ```sh
 /subsystem=logging/root-logger=ROOT:write-attribute(name=level,value=INFO)
@@ -556,7 +320,7 @@ Datasource citsmart-neuro-app3
 [standalone@localhost:9990 /] :reload
 ```
 
-## Create citsmart.cfg file
+### Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
@@ -576,7 +340,7 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 !!! warning
     Don't forget to change the owner of files and directories to the citsmart user
 
-## Create directories to installation
+### Create directories to installation
 
 !!! warning
     Don't forget to change the owner of directory /opt/citsmart
@@ -591,7 +355,7 @@ For Attachments of Knowledge Base: mkdir /opt/citsmart/attachkb
 For Upload: mkdir /opt/citsmart/upload
 ```
 
-## Generate certification SSL Self-Signed
+### Generate certification SSL Self-Signed
 
 !!! warning
     To the Wildfly, it'll be generated a self-signed certificate.
@@ -646,35 +410,35 @@ Adding certificate in the cacerts of Java:
 [standalone@localhost:9990 /] :reload
 ```
 
-## Starting solutions following dependecies
+### Starting solutions following dependecies
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-### PostgreSQL Database Server
+PostgreSQL Database Server
 
 ```sh
 systemctl postgresql start
 ```
 
-### MongoDB Database Server
+MongoDB Database Server
 
 ```sh
 /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
 ```
 
-### Apache Solr Indexing Server
+Apache Solr Indexing Server
 
 ```sh
 su solr /opt/solr/bin/solr start -s /bin/bash
 ```
 
-### Wildfly Application Server
+Wildfly Application Server
 
 ```sh
 su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```
 
-### CITSmart Enterprise Deployment
+CITSmart Enterprise Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments";
 
@@ -704,4 +468,4 @@ First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
 
-<continue conforme os deploys disponíveis para sua subscrição>
+<continue as the deployment available to its subscription >
