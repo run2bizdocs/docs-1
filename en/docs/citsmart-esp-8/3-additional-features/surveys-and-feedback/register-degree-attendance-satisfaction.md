@@ -9,6 +9,7 @@ This feature provides various actions, such as including, changing and deleting
 the satisfaction degree of service attendance.
 
 Procedure
+---------
 
 1.  Access the functionality through the main menu System \> Degree of
     attendance satisfaction;
