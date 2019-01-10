@@ -25,11 +25,11 @@ Procedure
 Related
 -------
 
-[Register configuration item group] (https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html)
+[Register configuration item group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html)
 
-[Register time] (https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
+[Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
 
-[Configure parametrization – system] (https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-system.html)
+[Configure parametrization – system](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-system.html)
 
 !!! tip "About"
 
