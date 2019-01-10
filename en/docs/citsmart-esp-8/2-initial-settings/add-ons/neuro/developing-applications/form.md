@@ -51,12 +51,12 @@ Figure 3 - Register/edit business form, basic data tab
 Figure 4 - Register/edit Business form, default page tab  
 
 ##DESIGNING THE SCREEN  
-1- To create the screen designing, click Edit Screen or navigate to the system tab Screen Designing that opens automatically.  
+1- To create the screen designing, click Edit Screen or navigate to the system tab **Screen Designing** that opens automatically.  
 2- Drag the components located on the left side palette to the center of the screen according to the shape you want to build the form. The components are arranged in rows and columns, and the rows have a width of 12 columns. This means that in each line you can insert up to 2 components with width 6, or up to 3 components with width 4, for example. It is not mandatory to fill the entire row.  
-3- You can also create tabs on the forms. To do this, go to the tabs menu, and choose tabs horizontally or vertically. The tabs will be added on the screen, and you can design the screen with the components on each tab.  
-4- In addition, Neuro provides a mechanism for adding actions to the application's top toolbar. To do this, click on the button  located on the top bar.  
-5- To learn more about the components of the forms, go to the Developing Applications documentation.  
-6- To view the result of your form, go to the Display screen located on the top bar.  
+3- You can also create tabs on the forms. To do this, go to the **tabs** menu, and choose tabs **horizontally** or **vertically**. The tabs will be added on the screen, and you can design the screen with the components on each tab.  
+4- In addition, Neuro provides a mechanism for adding **actions** to the application's top toolbar. To do this, click on the button  located on the top bar.  
+5- To learn more about the components of the forms, go to the **Developing Applications** documentation.  
+6- To view the result of your form, go to the **Display screen** located on the top bar.  
 7- Click Save to run the changes. You can save it in the original version (current version), or in a new version.  
 
 ![Screenshot](images/Form-screen-design.png)   
