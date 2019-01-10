@@ -35,8 +35,9 @@ Figure 3 - Package registration / edit screen
 5- To export a saved package, select it and then click Export. Packages are exported in .json format;  
 6- To import a package into a Neuro, click Import, select whether this version of the package should override elements that have the same identifier, whether the DDL should be run, and select the .json import file;  
 
-!!! Abstract "ATTENTION"
- To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.  
+!!! Abstract "ATTENTION"  
+
+    To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.  
 
 7- To view an item, select the item and click View.  
 
