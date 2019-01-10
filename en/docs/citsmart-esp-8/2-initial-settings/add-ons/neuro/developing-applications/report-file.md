@@ -14,13 +14,13 @@ No applicable
 
 - Keyword or enter  
 
-![Screenshot](images/Report-file-fig01)   
+![Screenshot](images/Report-file-fig01.png)   
 Figure 1 - Report file search screen  
 
 ##ITEMS LIST  
 1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description, and Version.  
 
-![Screenshot](images/Report-file-fig02)   
+![Screenshot](images/Report-file-fig02.png)   
 Figure 2 - Report file listing screen  
 
 ##FILLING IN THE REGISTRATION FIELDS  
@@ -33,7 +33,7 @@ Figure 2 - Report file listing screen
 3- When you include a report file, the system automatically generates a record in the report configuration screen.
 4- Click Save to store the image. Click Search to return to the previous screen.
 
-![Screenshot](images/Report-file-fig03)
+![Screenshot](images/Report-file-fig03.png)
 Figure 3- Report file master screen
 
 5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.
