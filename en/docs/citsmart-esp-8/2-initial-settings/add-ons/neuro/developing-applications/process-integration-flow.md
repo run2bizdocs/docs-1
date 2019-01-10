@@ -86,6 +86,7 @@ Figure 6 - Register/edit workflow, actions tab
 3- Fill in the fields, informing:  
 
 An identifier for the action,  
+
 - The literal name for the action,  
 - The final state that will be established after executing the action (previously registered in the States tab),  
 - Whether or not the action requires a reason.  
@@ -140,6 +141,7 @@ Figure 7 - Workflow registration / editing screen, Actors tab
 The workflow drawing is done in the Diagram tab. The entire business process can be drawn here by using BPMN notation.  
 
 1- The elements that can be added to the workflow are in the palette in the left corner of the screen. These elements are subdivided into:  
+
 - Events: "They trigger, interrupt, change or terminate the process. These events are classified as start, intermediate or end events, depending on when they occur in the process. "  
 - Tasks: "It's the smallest part of a process. It is an action, not a function, nor the state of a product or service. It is "what" to do, so it must be written with the verb in the infinitive. "  
 - Gateways: "They direct the process, dividing or converging activities in the flow, usually representing a point of control in the process. "  
@@ -150,6 +152,7 @@ Figure 8 - Register/edit workflow, Diagram tab
 2- To include an element in the flow, select it and drag it to the drawing page. A modal with element properties will be displayed on the screen (according to the chosen element). The information displayed for modal fill depends on the selected element, which can be:  
 
 **- For events:**  
+
 - Name;  
 - Description;  
 - CRON expression (for timer events);  
@@ -157,6 +160,7 @@ Figure 8 - Register/edit workflow, Diagram tab
 - Target identifier (for signal sending events).  
 
 **- For tasks:**  
+
 - Identification tab  
 - Name;  
 - Description;  
