@@ -1,8 +1,8 @@
 Title: Perform installation
 
-# Presentation
+# Perform installation
 
-# Wildfly Application Installation Server
+## Wildfly Application Installation Server
 
 1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll 'not be necessary the command execution of the JAVA JDK installation below).
 
@@ -122,7 +122,7 @@ fi
 chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
 ```
 
-## Wildfly Application Configuration Server
+### Wildfly Application Configuration Server
 
 All configurations done in this document will be done through jboss-cli. For that, start the Wildfly in standalone, connect with jboss-cli and execute the following commands.
 
@@ -135,7 +135,7 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```
 [standalone@localhost:9990 /]
 
-## Configure system properties
+### Configure system properties
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
@@ -157,7 +157,7 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=rhino.scripts.directory:add(value="")
 ```
 
-## Datasources configuration
+### Datasources configuration
 
 Before creating the datasources, we have to add to the Wildfly the module JDBC of PostgreSQL. For that, exit the mode jboss-cli and execute the commands below.
 
@@ -292,7 +292,7 @@ Datasource citsmart-neuro-app3
 }
 ```
 
-## Configure subsytems
+### Configure subsytems
 
 ```sh
 /subsystem=logging/root-logger=ROOT:write-attribute(name=level,value=INFO)
@@ -320,7 +320,7 @@ Datasource citsmart-neuro-app3
 [standalone@localhost:9990 /] :reload
 ```
 
-## Create citsmart.cfg file
+### Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
@@ -340,7 +340,7 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 !!! warning
     Don't forget to change the owner of files and directories to the citsmart user
 
-## Create directories to installation
+### Create directories to installation
 
 !!! warning
     Don't forget to change the owner of directory /opt/citsmart
@@ -355,7 +355,7 @@ For Attachments of Knowledge Base: mkdir /opt/citsmart/attachkb
 For Upload: mkdir /opt/citsmart/upload
 ```
 
-## Generate certification SSL Self-Signed
+### Generate certification SSL Self-Signed
 
 !!! warning
     To the Wildfly, it'll be generated a self-signed certificate.
@@ -410,35 +410,35 @@ Adding certificate in the cacerts of Java:
 [standalone@localhost:9990 /] :reload
 ```
 
-## Starting solutions following dependecies
+### Starting solutions following dependecies
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-### PostgreSQL Database Server
+PostgreSQL Database Server
 
 ```sh
 systemctl postgresql start
 ```
 
-### MongoDB Database Server
+MongoDB Database Server
 
 ```sh
 /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
 ```
 
-### Apache Solr Indexing Server
+Apache Solr Indexing Server
 
 ```sh
 su solr /opt/solr/bin/solr start -s /bin/bash
 ```
 
-### Wildfly Application Server
+Wildfly Application Server
 
 ```sh
 su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```
 
-### CITSmart Enterprise Deployment
+CITSmart Enterprise Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments";
 
