@@ -67,7 +67,7 @@ Related
 
 [Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
 
-[Set Inventory connection](
+[Set Inventory connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/set-inventory-connection.html)
 
 [Register automatic action](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
