@@ -26,7 +26,7 @@ Procedure
 Related
 -------
 
-Register characteristics
+[Register characteristics](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-characteristics.html)
 
 !!! tip "About"
 
