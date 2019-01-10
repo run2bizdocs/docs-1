@@ -115,11 +115,11 @@ The diagram of a service flow does not have the same "Task" components as a proc
 
 For a business process, we have, in addition, these components sections:  
 
-	- Connectors: components used to perform operations related to the database.  
-	- Components: varied components for performing various tasks.  
-	- Transformers: components for converting variable types.  
-	- CITSmart: components used for integration with an external Citsmart system.  
-	- The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
+- Connectors: components used to perform operations related to the database.  
+- Components: varied components for performing various tasks.  
+- Transformers: components for converting variable types.  
+- CITSmart: components used for integration with an external Citsmart system.  
+- The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
 
 1- To design a diagram, choose the tab for the same  
 2- The following screen will be displayed:  
