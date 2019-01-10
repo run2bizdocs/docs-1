@@ -13,6 +13,7 @@ The process integration flows are workflows that have tasks performed by users a
 
 ##FILTERS  
 1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+
  - Keyword  
 
 ![Screenshot](images/Process-fig01.png)   
@@ -37,10 +38,12 @@ Figure 3 - Service integration flow register screen
 ![Screenshot](images/Process-fig04.png)   
 Figure 4 – Register/edit workflow, Flow data tab.  
 
-3- Fill in the fields:  
+3- Fill in the fields: 
+ 
 - Enter a name for the flow, a description, the flow application, what form will start to flow (if applicable)  
 - The field version is incremented automatically by the system whenever a new version of the workflow is created.  
 - Time management can take place in the following ways:  
+
   -  No management: when the time is not managed in the registered flow.  
   -  Defined in the flow: the time recorded in the flow will be used, but only if there is no execution time registered in the business process.  
   -  Defined in execution: the time registered in the business process will be used.  
