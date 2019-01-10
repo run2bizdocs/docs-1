@@ -44,9 +44,9 @@ Figure 4 – Register/edit workflow, Flow data tab.
 - The field version is incremented automatically by the system whenever a new version of the workflow is created.  
 - Time management can take place in the following ways:  
 
-1. No management: when the time is not managed in the registered flow.  
-2. Defined in the flow: the time recorded in the flow will be used, but only if there is no execution time registered in the business process.  
-3. Defined in execution: the time registered in the business process will be used.  
+* No management: when the time is not managed in the registered flow.  
+* Defined in the flow: the time recorded in the flow will be used, but only if there is no execution time registered in the business process.  
+* Defined in execution: the time registered in the business process will be used.  
 
 ##VARIABLES  
 
