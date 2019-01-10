@@ -28,7 +28,7 @@ Procedure
 Related
 -------
 
-Register Event Monitor Connection
+[Register Event Monitor Connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-evente-monitor-connection.html)
 
 
 !!! tip "About"
