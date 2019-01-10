@@ -12,7 +12,7 @@ Title: Prepare environment
 
 To execute the CITSmart Enterprise, we'll download the necessary package, as the procedure about the product.
 
-Wildfly Application Server
+### Wildfly Application Server
 
 !!! warning
     In this knowledge we'll use PostgreSQL.
@@ -27,7 +27,7 @@ Figure 1 - Java table
 
 3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
-MongoDB Database Server
+### MongoDB Database Server
 
 !!! warning
     In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
@@ -37,7 +37,7 @@ MongoDB Database Server
 To find the download as its distribution: https://www.mongodb.com/download-center#community
 To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-PostgreSQL/Oracle/MSSQL Database Server
+### PostgreSQL/Oracle/MSSQL Database Server
 
 !!! warning
     In the knowledge, we'll use the PostgreSQL with download of official repository.
@@ -64,7 +64,7 @@ Download of assets files to CITSmart
 
     http://files.citsmart.com/assets.tar.gz
 
-Package Configuration
+## Package Configuration
 
 !!! warning
     We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured in the 4 machines.
@@ -72,7 +72,7 @@ Package Configuration
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
 
-MongoDB Database Server
+### MongoDB Database Server
 
 1. After download the MongoDB version 3.4.15, for its correct distribution, it's necessary the decompression to the directory /opt;
 
@@ -121,7 +121,7 @@ roles:[
 
 6. Return to the previous terminal and finish the mongodb process with CTRL+C.
 
-PostgreSQL Database Server
+### PostgreSQL Database Server
 
 !!! warning
     To this knowledge we'll use the version 9.5 of the PostgreSQL.
@@ -192,7 +192,7 @@ listen_addresses = ‘0.0.0.0'
 systemctl restart postgresql-9.5.service
 ```
 
-Apache Solr Indexing Server
+### Apache Solr Indexing Server
 
 1. Install the pacjages unzip and Isof;
 2. Decompress the JAVA and Solr to the /opt;
