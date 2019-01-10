@@ -2,7 +2,7 @@ Title: Perform installation
 
 # Perform installation
 
-## Wildfly Application Installation Server
+## Wildfly Installation Server
 
 1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll 'not be necessary the command execution of the JAVA JDK installation below).
 
@@ -468,4 +468,4 @@ First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
 
-<continue conforme os deploys disponíveis para sua subscrição>
+<continue as the deployment available to its subscription >

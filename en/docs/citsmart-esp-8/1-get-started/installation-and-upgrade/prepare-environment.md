@@ -52,7 +52,7 @@ https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
 MSSQL:
 https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
 
-Apache Solr Indexing Server
+### Apache Solr Indexing Server
 
 !!! warning
     The version homologate of the Apache Solr is 6.4.2.
