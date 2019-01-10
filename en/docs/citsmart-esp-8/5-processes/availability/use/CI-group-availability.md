@@ -37,17 +37,17 @@ Related
 
    [Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
-   Register configuration item
+   [Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
 
-   Create calendar
+   [Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html) 
 
-   Service level agreement
+   [Service level agreement](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/use/service-level-agreement.html)
 
-   Register configuration item group
+  [Register configuration item group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html) 
 
-   Register cost per hour of unavailability
+   [Register cost per hour of unavailability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/cost-per-hour-unavailability.html)
 
-   Register availability group
+  [Register availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/configuration/register-availability-group.html) 
 
 !!! tip "About"
 
