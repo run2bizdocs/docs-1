@@ -36,23 +36,23 @@ Procedure
 
 ##### Figure 2 -CITSmart inventory integration - OCS inventory
 
-    + After installing OCS Inventory, it does not default to any type of
-    integration with another system, so in the Inventory files menu you need to
-    assign GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML and specify the path
-    where the XML files will be stored in OCS_FILES_PATH
+   + After installing OCS Inventory, it does not default to any type of
+     integration with another system, so in the Inventory files menu you need to
+     assign GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML and specify the path
+     where the XML files will be stored in OCS_FILES_PATH
 
-    + The location specified for generating XML files is very strategic:
+   + The location specified for generating XML files is very strategic:
 
        + If the OCS server is the same as Inventory Server, this is the least
-        risk because the folder is likely to be readable;
+         risk because the folder is likely to be readable;
 
        + If the OCS server is **NOT** the same Inventory server, you must choose
-        one of these two options:
+         one of these two options:
 
-           + the OCS Inventory must be allowed to save to the Inventory server;
+            + the OCS Inventory must be allowed to save to the Inventory server;
 
-           + the Inventory must have permission (share) on the OCS Inventory
-            server.
+            + the Inventory must have permission (share) on the OCS Inventory
+              server.
 
 1.  The Inventory application captures the data through the SNMP Agent (161)
     port and/or the Capture Agent (port 7103 developed by CITSmart Corporation,
