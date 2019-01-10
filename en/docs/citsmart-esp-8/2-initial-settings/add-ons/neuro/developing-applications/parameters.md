@@ -39,5 +39,5 @@ Figure 3 - Parameter home screen
 Figure 4 - Parameter register screen  
 
 4- To register a parameter, enter the name, type, and description. The system will display a "Value" field according to the selected type.  
-4- Click Save to save your changes.  
+5- Click Save to save your changes.  
 
