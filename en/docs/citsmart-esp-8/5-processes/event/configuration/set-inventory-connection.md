@@ -36,6 +36,7 @@ Procedure
     repository, as shown below. In addition, there are some very
     relevant **prerequisites** that should be observed:
 
+![inventory integration](images/inventory-connection-two.png)
 
  Figure 2 -CITSmart inventory integration - OCS inventory
 
