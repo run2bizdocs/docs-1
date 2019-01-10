@@ -27,14 +27,14 @@ Procedure
     parameterized) two boxes will open that refer to Period and Period format,
     select the option that best fits and save the settings;
 
-##### Figure 1 -CITSmart inventory integration
+ Figure 1 -CITSmart inventory integration
 
 4-  If the connection type chosen is the *OCS Inventory*, the configuration
     field of the OCS Inventory will be displayed to be informed of the XML
     repository, as shown below. In addition, there are some very
     relevant **prerequisites** that should be observed:
 
-##### Figure 2 -CITSmart inventory integration - OCS inventory
+ Figure 2 -CITSmart inventory integration - OCS inventory
 
    + After installing OCS Inventory, it does not default to any type of
      integration with another system, so in the Inventory files menu you need to
