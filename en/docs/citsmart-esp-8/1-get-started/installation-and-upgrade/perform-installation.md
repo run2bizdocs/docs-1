@@ -1,4 +1,4 @@
-Title: Perform installation
+Title: 2. Perform installation
 
 # 2. Perform installation
 
