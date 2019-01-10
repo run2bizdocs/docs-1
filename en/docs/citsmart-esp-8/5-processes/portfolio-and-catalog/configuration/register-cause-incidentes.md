@@ -3,7 +3,7 @@ Description: Provides the cause of incidents registration
 #Register cause of incidents
 This feature provides a variety of actions, such as including, changing, and deleting the causes of occurrence of incidents.
 
-**Procedure**
+Procedure
 -------------
 
 1-  Access the functionality Cause Incidents through the main menu Processes \>
