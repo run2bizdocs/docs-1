@@ -8,7 +8,7 @@ The purpose of this functionality is to optimize the creation of various service
     When generating spreadsheets regardless of the format, the user will find
     hyperlinked fields. These fields retrieve the enumerated reference with the
     field description. In these cases the user will use the enumerated one to
-    fill the correct list.**
+    fill the correct list.
 
 Before getting started
 --------------------------
