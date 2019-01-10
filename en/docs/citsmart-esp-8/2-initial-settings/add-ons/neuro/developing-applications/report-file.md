@@ -28,15 +28,15 @@ Figure 2 - Report file listing screen
 !!! Abstract "ATTENTION"
     **You can not create a report itself in Neuro. This functionality only refers to uploading a report file.**  
 	
-1- The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.
+1- The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.  
 2- Finally, upload the report file.
-3- When you include a report file, the system automatically generates a record in the report configuration screen.
-4- Click Save to store the image. Click Search to return to the previous screen.
+3- When you include a report file, the system automatically generates a record in the report configuration screen.  
+4- Click Save to store the image. Click Search to return to the previous screen.  
 
-![Screenshot](images/Report-file-fig03.png)
-Figure 3- Report file master screen
+![Screenshot](images/Report-file-fig03.png)  
+Figure 3- Report file master screen  
 
-5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.
-6- To view an item, select the item and click View.
-7- To remove a created item, select the item you want, click Remove, and confirm the deletion.
+5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
+6- To view an item, select the item and click View.  
+7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
