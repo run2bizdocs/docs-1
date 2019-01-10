@@ -14,7 +14,7 @@ When you produce a set of application items through the Neuro, it is possible th
 1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
  - Keyword or enter.  
 
-![Screenshot](images/Package-Search)  
+![Screenshot](images/Package-Search.png)  
 Figure 1 - Package search screen  
 
 ##ITEMS LIST  
@@ -36,8 +36,7 @@ Figure 3 - Package registration / edit screen
 6- To import a package into a Neuro, click Import, select whether this version of the package should override elements that have the same identifier, whether the DDL should be run, and select the .json import file;  
 
 !!! Abstract "ATTENTION"
-
-To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.  
+ To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.  
 
 7- To view an item, select the item and click View.  
 
