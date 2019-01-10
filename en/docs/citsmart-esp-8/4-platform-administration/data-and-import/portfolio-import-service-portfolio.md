@@ -9,7 +9,8 @@ Before getting started
 
 To import, it's necessary to generate the import spreadsheet template.
 
-**Procedure**
+Procedure
+---------
 
 1.  Access the fucntionality through the main menu System \> Data Importing and
     Loading \> Service Portfolio Load;
