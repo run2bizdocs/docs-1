@@ -1,9 +1,9 @@
 Title: Prepare environment
 
-# Presentation
+Presentation
 
 
-# Software and Download
+Software and Download
 
 !!! warning
     From this point, it will be necessary a subscription.
@@ -12,7 +12,7 @@ Title: Prepare environment
 
 To execute the CITSmart Enterprise, we'll download the necessary package, as the procedure about the product.
 
-## Wildfly Application Server
+Wildfly Application Server
 
 !!! warning
     In this knowledge we'll use PostgreSQL.
@@ -27,7 +27,7 @@ Figure 1 - Java table
 
 3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
-## MongoDB Database Server
+MongoDB Database Server
 
 !!! warning
     In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
@@ -37,7 +37,7 @@ Figure 1 - Java table
 To find the download as its distribution: https://www.mongodb.com/download-center#community
 To download the MongoDB for CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-## PostgreSQL/Oracle/MSSQL Database Server
+PostgreSQL/Oracle/MSSQL Database Server
 
 !!! warning
     In the knowledge, we'll use the PostgreSQL with download of official repository.
@@ -46,11 +46,13 @@ The CITSmart Enterprise is consistent with PostgreSQL 9.2 or higher and the down
 
 It's recommended that the Oracle or MSSQL Installation to be done as the information and best practices of each manufacturer:
 
-    Oracle: https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
+Oracle:
+https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
 	
-    MSSQL: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
+MSSQL:
+https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
 
-## Apache Solr Indexing Server
+Apache Solr Indexing Server
 
 !!! warning
     The version homologate of the Apache Solr is 6.4.2.
@@ -58,11 +60,11 @@ It's recommended that the Oracle or MSSQL Installation to be done as the informa
     Solr 6.4.2: http://files.citsmart.com/solr-6.4.2.zip
     Configurations to the knowledge base: http://files.citsmart.com/base_conhecimento_configs.zip
 
-Download of assets files to CItsmart
+Download of assets files to CITSmart
 
     http://files.citsmart.com/assets.tar.gz
 
-# Package Configuration
+Package Configuration
 
 !!! warning
     We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured in the 4 machines.
@@ -70,7 +72,7 @@ Download of assets files to CItsmart
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
 
-## MongoDB Database Server
+MongoDB Database Server
 
 1. After download the MongoDB version 3.4.15, for its correct distribution, it's necessary the decompression to the directory /opt;
 
@@ -119,7 +121,7 @@ roles:[
 
 6. Return to the previous terminal and finish the mongodb process with CTRL+C.
 
-## PostgreSQL Database Server
+PostgreSQL Database Server
 
 !!! warning
     To this knowledge we'll use the version 9.5 of the PostgreSQL.
@@ -182,7 +184,7 @@ Changed: listen_addresses = ‘0.0.0.0'
 systemctl restart postgresql-9.5.service
 ```
 
-## Apache Solr Indexing Server
+Apache Solr Indexing Server
 
 1. Install the pacjages unzip and Isof;
 2. Decompress the JAVA and Solr to the /opt;
