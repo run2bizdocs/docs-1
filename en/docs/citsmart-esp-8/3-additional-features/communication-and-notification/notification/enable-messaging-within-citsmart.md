@@ -16,17 +16,17 @@ Procedure
 
 2.  Below are the keys for sending email:
 
--   \${IDSERVICEREQUEST} - Number of the ticket (public key);
+    - \${IDSERVICEREQUEST} - Number of the ticket (public key);
 
--   \${COMMENTTEXT} - Description of the comment made on the messaging;
+    - \${COMMENTTEXT} - Description of the comment made on the messaging;
 
--   \${DATETIMECREATED} - Date the comment was registered;
+    - \${DATETIMECREATED} - Date the comment was registered;
 
--   \${USERNAME} - Name of user that made the comment;
+    - \${USERNAME} - Name of user that made the comment;
 
--   \${REQUESTERNAME} - Name of the requester;
+    - \${REQUESTERNAME} - Name of the requester;
 
--   \${REQUESTRESPONSIBLENAME} - Name of the technician responsible for the
+    - \${REQUESTRESPONSIBLENAME} - Name of the technician responsible for the
     ticket attendance.
 
 Related
