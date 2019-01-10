@@ -27,7 +27,7 @@ Procedure
     parameterized) two boxes will open that refer to Period and Period format,
     select the option that best fits and save the settings;
 
-![inventory integration] (images/inventory-connection-one.png)
+![inventory integration](images/inventory-connection-one.png)
 
  Figure 1 -CITSmart inventory integration
 
