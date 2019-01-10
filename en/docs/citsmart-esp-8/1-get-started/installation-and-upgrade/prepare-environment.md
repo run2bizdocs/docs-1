@@ -1,6 +1,6 @@
 Title: Prepare environment
 
-Presentation
+#Presentation
 
 
 Software and Download
@@ -175,8 +175,16 @@ Changed: host citsmart_db citsmartdbuser IP_Wildfly/32 md5
 
 4. Time to open the listening in the file /var/lib/pgsql/9.5/data/postgresql.conf;
 
-Default is commented: #listen_addresses = 'localhost'
-Changed: listen_addresses = ‘0.0.0.0'
+Default is commented:
+
+``` sh
+listen_addresses = 'localhost'
+```
+Changed: 
+
+``` sh
+listen_addresses = ‘0.0.0.0'
+```
 
 5. After the configuration, restart in the postgresql;
 
