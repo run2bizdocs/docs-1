@@ -36,7 +36,7 @@ Figure 2 - Report file listing screen
 ![Screenshot](images/Report-file-fig03.png)  
 Figure 3- Report file master screen  
 
-5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
+5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.   
 6- To view an item, select the item and click View.  
 7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
