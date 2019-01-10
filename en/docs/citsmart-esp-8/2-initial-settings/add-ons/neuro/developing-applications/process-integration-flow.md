@@ -173,10 +173,10 @@ Figure 8 - Register/edit workflow, Diagram tab
 **- For tasks:**  
 
 - Identification tab  
-- Name;  
-- Description;  
-- Identification;  
-- Instance type.  
+	- Name;  
+	- Description;  
+	- Identification;  
+	- Instance type.  
 
 3- Variables  
 - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
