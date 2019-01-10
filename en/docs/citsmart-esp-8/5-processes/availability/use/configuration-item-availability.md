@@ -45,7 +45,7 @@ Related
 
 [Register configuration item group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html)
 
-[Register cost per hour of unavailability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/cost-per-hour-unavailability.html 
+[Register cost per hour of unavailability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/cost-per-hour-unavailability.html) 
 
 [Register availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/configuration/register-availability-group.htmlm)
   
