@@ -34,7 +34,7 @@ Figure 2 - CSS listing screen
 ##FILLING IN THE REGISTRATION FIELDS  
 1- To register a new CSS file, click New as shown in the figure below:  
 
-![Screenshot](images/Filling.png)  
+![Screenshot](images/CSS-Filling.png)  
 Figure 3 - CSS home screen  
 
 2- On this screen the user is also allowed other actions. They are:  
