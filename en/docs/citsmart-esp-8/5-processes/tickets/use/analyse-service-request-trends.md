@@ -44,11 +44,11 @@ Procedure
 Related
 -----------
 
--   Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
--   Create ticket
+[Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
 
--   Register problem  
+[Register problem]
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
