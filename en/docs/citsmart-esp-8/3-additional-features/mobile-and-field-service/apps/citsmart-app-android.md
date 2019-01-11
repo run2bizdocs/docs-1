@@ -82,19 +82,19 @@ Figure 3 - Connection log screen
 
 1.  Enter the relevant data:
 
-    -   **Connection name: **Enter the name of the connection you want to
+    -   **Connection name**: Enter the name of the connection you want to
         connect to;
 
-    -   **Server URL: **Enter the server address for the connection. The
+    -   **Server URL**: Enter the server address for the connection. The
         protocol (http) must be placed in the URL;
 
-    -   **User:** enter the username;
+    -   **User**: enter the username;
 
-    -   **Password: **enter the access password.
+    -   **Password**: enter the access password.
 
 !!! Abstract "ATTENTION"
 
-   If the device is changed, this connection must be deleted.  
+    If the device is changed, this connection must be deleted.  
 
 1.  After entering the desired connection data, press the Add button;
 
@@ -156,7 +156,9 @@ Figure 8 - Group request list
     list of requests resulting from the query performed, according to the
     example illustrated in the figure below:
 
-Figure 12 - List of requests
+![List of request](images/android-app-9.png)
+
+Figure 9 - List of requests
 
 !!! Abstract "RULE"
 
@@ -186,30 +188,36 @@ Figure 12 - List of requests
 2.  When pulling down the screen, the existing requests will be updated, and new
     requests will be displayed;
 
-Figure 13 - Updating the list with new requests
+![Updating the list](images/android-app-10.png)
+
+Figure 10 - Updating the list with new requests
 
 1.  Pulling up on the screen will update existing requests and display old
     requests;
 
-Figure 14 - Updating the list with old requests
+![Updating the list](images/android-app-11.png)
+
+Figure 11 - Updating the list with old requests
 
 1.  To sort the requests, click the sort “”Sort requests list” icon. You will be
     presented with a list of options for sorting (as shown in the figure below),
     select a desired option and click Ok;
 
-Figure 15 - Ordering of requests
+![Ordering](images/android-app-12.png)
 
-    + **Request number:** Sorts the requests by the number, in descending order;
+Figure 12 - Ordering of requests
 
-    + **Responsible (without first responsible):** Order the requests, first,
+   + **Request number:** Sorts the requests by the number, in descending order;
+
+   + **Responsible (without first responsible):** Order the requests, first,
     without the current responsible. Then follows the ordering criteria by the
     request number, in descending order;
 
-    + **Creation Date:** Sorts the requests, first, by the creation date, in
+   + **Creation Date:** Sorts the requests, first, by the creation date, in
     ascending order. Then it follows the ordering criteria by the request
     number, in descending order;
 
-    + **Expiration:** Orders the requests for applications due, close to maturity,
+   + **Expiration:** Orders the requests for applications due, close to maturity,
     on time and suspended. Then it follows the ordering criteria by the request
     number, in ascending order.
 
@@ -220,14 +228,20 @@ Figure 15 - Ordering of requests
     depending on the screen resolution, the “New incident/request” icon , just
     press the same one to create the request, as illustrated below:
 
-Figure 16 - Creating a service request
+![Creating a service](images/android-app-13.png)
 
-Figure 17 - Create service request icon
+Figure 13 - Creating a service request
+
+![Create service](images/android-app-14.png)
+
+Figure 14 - Create service request icon
 
 1.  The screen for creating the request will be displayed, as shown in the
     figure below:
 
-Figure 18 - New request creation screen
+![New request](images/android-app-15.png)
+
+Figure 15 - New request creation screen
 
 !!! Abstract "ATTENTION"
 
@@ -240,7 +254,9 @@ Figure 18 - New request creation screen
 2.  After performing the operation, the request registration message will be
     displayed.
 
-Figure 19 - Created request
+![Created request](images/android-app-16.png)
+
+Figure 16 - Created request
 
 ##### Approving/rejecting service request
 
@@ -251,7 +267,9 @@ Some requests need approval, so to meet them you need to approve them.
 2.  The "Details" screen will be displayed displaying the description of the
     request for approval/rejection of the request;
 
-Figure 20 - Request approval/reject screen
+![approval/reject](images/android-app-17.png)
+
+Figure 17 - Request approval/reject screen
 
 1.  To approve the request, just press the Approve button;
 
@@ -259,9 +277,11 @@ Figure 20 - Request approval/reject screen
     to choose the justification for this rejection, as shown in the figure
     below:
 
-Figure 21 - Request rejection screen justified
+![request rejection](images/android-app-18.png)
 
--   Choose the justification for rejecting the request and press the Ok button.
+Figure 18 - Request rejection screen justified
+
+  + Choose the justification for rejecting the request and press the "Ok" button.
 
 Advanced use of mobile app (smartphone) - with maps
 ---------------------------------------------------
@@ -275,20 +295,28 @@ the unit
     then press the “Map” icon . The map will be displayed showing the location
     of the requests;
 
-Figure 22 - Request on map
+![Request on map](images/android-app-19.png)
+
+Figure 19 - Request on map
 
 1.  To update the coordinates, press the icon located in the upper right corner
     of the screen and press the "Get Coordinates" option, depending on the
     screen resolution, the icon with the shape of a flag “Get coordinate”, just
     press it to update the coordinates;
 
-Figure 23 - Get coordinates
+![Get coordinates](images/android-app-20.png)
 
-Figure 24 - Icon for get coordinates
+Figure 20 - Get coordinates
+
+![Icon for get](images/android-app-21.png)
+
+Figure 21 - Icon for get coordinates
 
 1.  The "Get Coordinates" screen will appear:
 
-Figure 25 - Get coordinates screen
+![coordinates screen](images/android-app-22.png)
+
+Figure 22 - Get coordinates screen
 
      + Select the contract and drive. Once this is done, press the Get Coordinates
        button to perform the operation;
