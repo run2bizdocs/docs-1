@@ -26,7 +26,7 @@ Procedure
 Related
 -----------
 
--   Register configuration item
+[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
