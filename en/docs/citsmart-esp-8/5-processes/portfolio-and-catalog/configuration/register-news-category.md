@@ -4,7 +4,7 @@ Description:
 This functionality is intended to register the categories to the news organization that will be published in the Smart Portal.
 This feature provides various actions, such as including, changing and deleting news category.
 
-**Procedure**
+Procedure
 -------------
 
 1.  Access the functionality through the main menu Processes \> Portfolio and
