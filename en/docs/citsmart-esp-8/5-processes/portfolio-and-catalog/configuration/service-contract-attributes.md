@@ -45,29 +45,29 @@ Procedure
 
 ## Related
 
-Register operating condition
+[Register operating condition](htts://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-Register provider
+[Register provider](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-provider.html)
 
-Register satisfaction survey
+[Register satisfaction survey](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-Register a client
+[Register a client](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-client.html)
 
-Register a service
+[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
 
-Create the portfolio
+[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Define the permission to access Portfolio Management functionalities
+[Define the permission to access Portfolio Management functionalities](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/profile/portfolio-management.html)
 
-Create calendar
+[Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html)
 
-Create template of incident, request and procedure
+[Create template of incident, request and procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/create-template-of-ticket.html)
 
-Create time of attendance
+[Create time of attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/configuration/create-time-attendance.html)
 
-Workflow maintenance
+[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
 
-Register currency
+[Register currency](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/configuration/register-currency.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
