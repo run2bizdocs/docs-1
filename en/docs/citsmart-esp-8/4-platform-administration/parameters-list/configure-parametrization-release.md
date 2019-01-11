@@ -12,6 +12,7 @@ define whether notifications will be sent to the requester for the execution of
 the services/incidents request flows, for example.
 
 Procedure
+---------
 
 1.  Access the functionality through the main menu Parametrization \> Release
     Management;
