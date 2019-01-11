@@ -100,10 +100,6 @@ Figure 2 - Connection log screen
 
 Figure 3 - Connection
 
-![Login screen](images/ios-app-4.png)
-
-Figure 4 - Login screen
-
 
 Using the app on the mobile
 ---------------------------
@@ -113,26 +109,29 @@ Using the app on the mobile
 1-  After the connection is made, the menu screen will be displayed, where you
     can click on the Service Ticket:
 
+![Login screen](images/ios-app-4.png)
+
+Figure 4 - Login screen
+
+
+2-  To choose the type of request you want to view, click on the icon  located
+    in the upper left corner;
+
 ![Menu screen](images/ios-app-5.png)
 
 Figure 5 - Menu screen
 
-2-  To choose the type of request you want to view, click on the icon  located
-    in the upper left corner;
+
+3-  Will be presented filters:
 
 ![Request search](images/ios-app-6.png)
 
 Figure 6 - Request search screen
 
-3-  Will be presented filters:
-
 ![Filters](images/ios-app-7.png)
 
 Figure 7 - Filters
 
-![continuation](images/ios-app-8.png)
-
-Figure 8 - Filters (continuation)
 
 4-  Select the filter of request you want and click on the “Search” icon, in the
     lower left corner;
@@ -140,9 +139,10 @@ Figure 8 - Filters (continuation)
 5-  The list of service requests will be displayed, depending on the filter
     chosen:
 
-![Ticket list](images/ios-app-9.png)
+![continuation](images/ios-app-8.png)
 
-Figure 9 - Ticket list
+Figure 8 - Filters (continuation)
+
 
 !!! Abstract "RULE"
 
@@ -153,9 +153,10 @@ Figure 9 - Ticket list
 6-  In each request, when you click on it, a list of options is displayed,
     being:
 
-![Ticket lists](images/ios-app-10.png)
+![Ticket list](images/ios-app-9.png)
 
-Figure 10 - Ticket list
+Figure 9 - Ticket list
+
 
 -  “Open” icon - capture the request to the logged in user or just view the
     ticket without capturing;
@@ -178,9 +179,9 @@ Figure 10 - Ticket list
     lower right corner of the screen and select the "New ticket" option, as
     illustrated below:
 
-![Creating a service](images/ios-app-11.png)
+![Ticket lists](images/ios-app-10.png)
 
-Figure 11 - Creating a service request
+Figure 10 - Ticket list
 
 !!! Abstract "ATTENTION"
 
@@ -190,6 +191,9 @@ Figure 11 - Creating a service request
 2-  After performing the operation, the request registration message will be
     displayed.
 
+![Creating a service](images/ios-app-11.png)
+
+Figure 11 - Creating a service request
 ![Creating request](images/ios-app-12.png)
 
 Figure 12 - Create request
@@ -197,10 +201,6 @@ Figure 12 - Create request
 ![Create reques](images/ios-app-13.png)
 
 Figure 13 - Create request (continuation)
-
-![request continuation](images/ios-app-14.png)
-
-Figure 14 - Create request (continuation)
 
 3-  Fill in the fields as described below:
 
@@ -323,9 +323,9 @@ Some requests need approval, so to meet them you need to approve them.
 2-  The "Details" screen will be displayed displaying the description of the
     request for approval / rejection of the request;
 
-![Create requ](images/ios-app-15.png)
+![request continuation](images/ios-app-14.png)
 
-Figure 15 - Create request (continuation)
+Figure 14 - Create request (continuation)
 
 
 3-  To approve the request, just press the Approve button;
@@ -333,6 +333,11 @@ Figure 15 - Create request (continuation)
 4-  To reject the request, press the Reject button. A screen will be displayed
     to choose the justification for this rejection, as shown in the figure
     below:
+
+
+![Create requ](images/ios-app-15.png)
+
+Figure 15 - Create request (continuation)
 
 ![approval](images/ios-app-16.png)
 
