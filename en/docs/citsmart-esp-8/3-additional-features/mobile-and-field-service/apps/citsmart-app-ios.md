@@ -56,15 +56,15 @@ Figure 2 - Connection log screen
 
 5-  Enter the relevant data:
 
-     +  Connection name: enter the name of the connection you want to
+   +  Connection name: enter the name of the connection you want to
         connect to;
 
-     +  Server URL: enter the server address for the connection. The
+   +  Server URL: enter the server address for the connection. The
         protocol (https) must be placed in the URL;
 
-     +  Main connection?: inform if the chosen URL will be the primary ;
+   +  Main connection?: inform if the chosen URL will be the primary ;
 
-     +  Domain \\ User: From this version the user will have to inform the
+   +  Domain \\ User: From this version the user will have to inform the
         use LDAP domain and its user;
 
 +  The format is citsmart.local\\user.consultor (example), where the first part
@@ -238,18 +238,18 @@ Figure 15 - Create request (continuation)
 
 4-  Record service request information:
 
-    -   Catalog: select the catalog of services;
+   -  Catalog: select the catalog of services;
 
-    -   Service: enter the service for the selected service catalog. If the
+   -   Service: enter the service for the selected service catalog. If the
         service catalog is "**Business**", the business services for selection
         will be available in this field, but if the service catalog is
         "**Technical**", the support / technical services for selection will be
         available in this field;
 
-    -   Type: select the type of request, whether it is an incident opening
+   -   Type: select the type of request, whether it is an incident opening
         or service request;
 
-        -   Incident: if the situation presented is an unplanned outage, a
+       -   Incident: if the situation presented is an unplanned outage, a
             reduction in the quality of the service or failure of any
             configuration item that has not yet impacted an IT service. Eg: The
             network link is out, the network is slow, the server is
@@ -339,7 +339,7 @@ Figure 16 - Request approval/reject screen
 
 ![rejection screen](images/ios-app-17.png)
 
-Figure 18 - Request rejection screen justified
+Figure 17 - Request rejection screen justified
 
 -  Choose the justification for rejecting/approve the request and press the
     “Save and forward the Flow” button.
