@@ -28,25 +28,25 @@ Procedure
 Related
 -----------
 
--   Change SLA of a ticket
+[Change SLA of a ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/change-SLA-of-a-ticket.html)
 
--   Capture ticket
+[Capture ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/capture-ticket.html)
 
--   Create ticket
+Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
 
--   Delegate ticket
+[Delegate ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/delegate-ticket.html)
 
--   Hierarchical escalation in the attendance
+[Hierarchical escalation in the attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
--   Print ticket
+[Print ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/print-ticket.html)
 
--   Locate a ticket
+[Locate a ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/locate-a-ticket.html)
 
--   Reclassify ticket
+[Reclassify ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/reclassify-ticket.html)
 
--   Suspend ticket
+[Suspend ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/suspend-ticket.html)
 
--   Attend with remote support
+[Attend with remote support](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/attend-with-remote-support.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
