@@ -318,10 +318,10 @@ Figure 21 - Icon for get coordinates
 
 Figure 22 - Get coordinates screen
 
-     + Select the contract and drive. Once this is done, press the Get Coordinates
+   + Select the contract and drive. Once this is done, press the Get Coordinates
        button to perform the operation;
 
-     + Your latitude and longitude will be sent to the server (CITSmart Enterprise
+   + Your latitude and longitude will be sent to the server (CITSmart Enterprise
        Web).
 
 ##### Serving service request
@@ -339,24 +339,32 @@ Figure 22 - Get coordinates screen
     more than one service request, pressing the location location of the request
     will be directed to the personal or group request list.
 
-Figure 26 - Request for service via map
+![service via map](images/android-app-23.png)
+
+Figure 23 - Request for service via map
 
 1.  After selecting the request, the "Details" screen will be displayed,
     according to the example shown in the figure below:
 
-Figure 27 - Answer service request
+![Answer service](images/android-app-24.png)
+
+Figure 24 - Answer service request
 
 1.  Press the Answer button. You will be directed to the screen of the request,
     on-you will be able to check in;
 
-Figure 28 - Service request
+![Service request](images/android-app-25.png)
+
+Figure 25 - Service request
 
 1.  To view the route from which to perform the service, simply press the View
     Route button;
 
-    + A screen will appear to choose the route visualization application;
+  + A screen will appear to choose the route visualization application;
 
-Figure 29 - Application to view the route
+![view the route](images/android-app-26.png)
+
+Figure 26 - Application to view the route
 
    + Selecione o aplicativo que irá utilizar para visualizar a rota;
 
@@ -377,9 +385,11 @@ Figure 29 - Application to view the route
 
     + The "Check-in" screen will be displayed;
 
-Figure 30 - Check-in screen
+![Check-in](images/android-app-27.png)
 
-    + Press the Check-in button to perform the operation;
+Figure 27 - Check-in screen
+
+   + Press the Check-in button to perform the operation;
 
 !!! Abstract "RULE"
 
@@ -388,23 +398,31 @@ Figure 30 - Check-in screen
 
 1.  After checking in, the check-out screen will be displayed;
 
-Figure 31 - Check-out screen
+![Check-out](images/android-app-28.png)
 
-    + Enter request fulfillment status;
+Figure 28 - Check-out screen
 
-Figure 32 - Check-out - Service request status
+   + Enter request fulfillment status;
 
-    +   Select the status and press OK;
+![status](images/android-app-29.png)
 
-    + If you select the status "Suspended", a window will appear to record the
+Figure 29 - Check-out - Service request status
+
+   + Select the status and press OK;
+
+   + If you select the status "Suspended", a window will appear to record the
       reason for the suspension, as shown in the example shown in the figure
       below:
 
-Figure 33 - Check-out - Reason request suspend registration
+![request suspend](images/android-app-30.png)
 
-    + If you have selected the status "Solved", a window will be displayed to
+Figure 30 - Check-out - Reason request suspend registration
+
+   + If you have selected the status "Solved", a window will be displayed to
     register the request termination, as shown in the example shown in the
     figure below:
+
+![closing record](images/android-app-31.png)
 
 Figure 34 - Check-out - Request closing record
 
@@ -416,40 +434,52 @@ so you automatically receive notifications that are actionable.
 1.  Whenever you are close to the place of service of a service request, you
     will receive a notification, as shown in the illustration below:
 
-Figure 35 - Notification of proximity to the request location
+![Notification](images/android-app-32.png)
+
+Figure 32 - Notification of proximity to the request location
 
     + Select the notification, where you will see a screen asking if you want to
     check in, as shown in the illustration below:
 
-Figure 36 - Request rejection justification screen
+![rejection](images/android-app-33.png)
 
-    + Please reply if you want to check in;
+Figure 33 - Request rejection justification screen
 
-    + Pressing the Yes button will take you to the Check-in screen;
+   + Please reply if you want to check in;
 
-    + When you press the No button, you will be directed to the check-in negation
+   + Pressing the Yes button will take you to the Check-in screen;
+
+   + When you press the No button, you will be directed to the check-in negation
     screen, as shown in the figure below:
 
-Figure 37 - Check denial screen
+![Check denial](images/android-app-34.png)
 
-    + Please state the reason for denial of Request Check-In.
+Figure 34 - Check denial screen
+
+   + Please state the reason for denial of Request Check-In.
 
 1.  When you are near the place of service of more than one service request, you
     will receive a notification containing the number of requests, according to
     the example shown in the figure below:
 
-Figure 38 - Notification of proximity to the multiple requests service
+![proximity](images/android-app-36.png)
+
+Figure 36 - Notification of proximity to the multiple requests service
 location
 
-    + When you select the notification, you will see a list of requests near your
+   + When you select the notification, you will see a list of requests near your
     location, as shown in the figure below:
 
-Figure 39 - Upcoming requests
+![Upcoming](images/android-app-37.png)
+
+Figure 37 - Upcoming requests
 
 1.  When a requestor delegates a service request, you will receive a
     notification, as shown in the figure below:
 
-Figure 40 - Incoming request notification
+![Incoming request](images/android-app-38.png)
+
+Figure 38 - Incoming request notification
 
    + Select the notification to be directed to your personal request list.
 
