@@ -26,9 +26,9 @@ Procedure
 Related
 -----------
 
-- Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
-- Register service activity
+[Register service activity](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-service-activity.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
 
