@@ -37,6 +37,8 @@ Procedure
     relevant **prerequisites** that should be observed:
 
    ![inventory integration](images/inventory-connection-two.png)
+   
+   [![inventory integration](images/inventory-connection-two.png)](images/inventory-connection-two.png)
 
    Figure 2 -CITSmart inventory integration - OCS inventory
 
