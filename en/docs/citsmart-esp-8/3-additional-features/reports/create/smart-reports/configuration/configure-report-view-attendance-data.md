@@ -100,7 +100,7 @@ sum of the times executed by each technician.*
 Related
 -------
 
-Customize management panel (Smart Decision)
+[Customize management panel (Smart Decision)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
 !!! tip "About"
