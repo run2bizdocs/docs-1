@@ -1,6 +1,6 @@
-Title: Faq-1 
+Title: FAQ 
 Description: Frequently Asked Questions  
-#FAQ-1 (Neuro)  
+#FAQ (Neuro)  
 
 ##What is the difference between creating a form using the Form menu and via the Business Object?  
 
