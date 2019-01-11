@@ -36,7 +36,7 @@ Installing and configuring the app on the mobile
 To install CITSmart ITSM Enterprise, the app must be searched in the online
 store (App Store).
 
-1-  Search for **CITSmart ITSM Enterprise** on App Store, select and download
+1-  Search for CITSmart ITSM Enterprise on App Store, select and download
     the app;
 
 2-  After installation, the CITSmart ITSM Enterprise icon will appear;
@@ -98,7 +98,7 @@ Figure 2 - Connection log screen
 
 ![Connection](images/ios-app-3.png)
 
-Figure 3 - Connection
+Figure 3 - Login screen
 
 
 Using the app on the mobile
@@ -111,7 +111,7 @@ Using the app on the mobile
 
 ![Login screen](images/ios-app-4.png)
 
-Figure 4 - Login screen
+Figure 4 - Menu screen
 
 
 2-  To choose the type of request you want to view, click on the icon  located
@@ -119,18 +119,18 @@ Figure 4 - Login screen
 
 ![Menu screen](images/ios-app-5.png)
 
-Figure 5 - Menu screen
+Figure 5 - Request search screen
 
 
 3-  Will be presented filters:
 
 ![Request search](images/ios-app-6.png)
 
-Figure 6 - Request search screen
+Figure 6 - Filters
 
 ![Filters](images/ios-app-7.png)
 
-Figure 7 - Filters
+Figure 7 - Filters (continuation)
 
 
 4-  Select the filter of request you want and click on the “Search” icon, in the
@@ -141,7 +141,7 @@ Figure 7 - Filters
 
 ![continuation](images/ios-app-8.png)
 
-Figure 8 - Filters (continuation)
+Figure 8 - Ticket list
 
 
 !!! Abstract "RULE"
@@ -181,7 +181,7 @@ Figure 9 - Ticket list
 
 ![Ticket lists](images/ios-app-10.png)
 
-Figure 10 - Ticket list
+Figure 10 - Creating a service request
 
 !!! Abstract "ATTENTION"
 
@@ -193,20 +193,24 @@ Figure 10 - Ticket list
 
 ![Creating a service](images/ios-app-11.png)
 
-Figure 11 - Creating a service request
+Figure 11 - Create request
 
 ![Creating request](images/ios-app-12.png)
 
-Figure 12 - Create request
+Figure 12 - Create request(continuation)
 
 ![Create reques](images/ios-app-13.png)
 
 Figure 13 - Create request (continuation)
 
+![request continuation](images/ios-app-14.png)
+
+Figure 14 - Create request (continuation)
+
 3-  Fill in the fields as described below:
 
 -  Applicant: enter the name of the applicant, that is, the name of the
-    person requesting the opening of an incident or service request.
+   person requesting the opening of an incident or service request.
 
 !!! Abstract "ATTENTION"
 
@@ -324,9 +328,9 @@ Some requests need approval, so to meet them you need to approve them.
 2-  The "Details" screen will be displayed displaying the description of the
     request for approval / rejection of the request;
 
-![request continuation](images/ios-app-14.png)
+![Create requ](images/ios-app-15.png)
 
-Figure 14 - Create request (continuation)
+Figure 15 - Request approval/reject screen
 
 
 3-  To approve the request, just press the Approve button;
@@ -336,13 +340,9 @@ Figure 14 - Create request (continuation)
     below:
 
 
-![Create requ](images/ios-app-15.png)
-
-Figure 15 - Create request (continuation)
-
 ![approval](images/ios-app-16.png)
 
-Figure 16 - Request approval/reject screen
+Figure 16 - Request rejection screen justified
 
 -  Choose the justification for rejecting/approve the request and press the
     “Save and forward the Flow” button.
