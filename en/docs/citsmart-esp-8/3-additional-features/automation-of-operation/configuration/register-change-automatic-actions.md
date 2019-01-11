@@ -32,19 +32,19 @@ Procedure
 Related
 -------
 
-Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-contract.html)
 
-Register group
+[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
 
-Register employee
+[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
 
 Register type of change
 
-Register unit
+[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
 
-Workflow maintenance
+[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
 
-Configure parametrization - change
+[Configure parametrization - change](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-change.html)
 
 !!! tip "About"
 
