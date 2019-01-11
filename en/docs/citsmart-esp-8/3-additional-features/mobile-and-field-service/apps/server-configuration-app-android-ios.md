@@ -54,10 +54,10 @@ Certification Issuer), it must be installed. Follow the procedures below:
 
 Figure 1 - GlobalSign intermediate certificate
 
-  +  **On mobile: **you will be asked to install the certificate, just enter the
+  +  **On mobile**: you will be asked to install the certificate, just enter the
     generic name (suggestion: GlobalSign) and click on forward.
 
-  +  **In desktop: **right-click the downloaded certificate (as shown below),
+  +  **In desktop**: right-click the downloaded certificate (as shown below),
     click on install certificate, and proceed to finish.
 
 ![desktop](images/config-app-android-ios-2.png)
@@ -108,7 +108,7 @@ Figure 4 - Project creation screen
     project.
 
 5-  After creating the project, click APIs and Services. To create the API Key,
-    click APIs and Services → Credentials → Create Credentials → API Key, as
+    click APIs and Services > Credentials > Create Credentials > API Key, as
     shown in the figure below:
 
 ![API Key](images/config-app-android-ios-5.png)
@@ -181,7 +181,7 @@ To enable an API for use, proceed as described below:
 1-  After performing the steps described in the section 'Creating key for use
     and consumption of Google APIs';
 
-2-  Click APIs and Services → Enable APIs and Services, as shown in the figure
+2-  Click APIs and Services > Enable APIs and Services, as shown in the figure
     below:
 
 ![Google APIs](images/config-app-android-ios-8.png)
