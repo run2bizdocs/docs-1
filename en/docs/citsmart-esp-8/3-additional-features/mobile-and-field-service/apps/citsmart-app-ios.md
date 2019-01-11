@@ -67,19 +67,19 @@ Figure 2 - Connection log screen
    +  Domain \\ User: From this version the user will have to inform the
         use LDAP domain and its user;
 
-+  The format is citsmart.local\\user.consultor (example), where the first part
-    is the domain information and the second part is the user;
+      +  The format is citsmart.local\\user.consultor (example), where the first part
+         is the domain information and the second part is the user;
 
-    +  Password: The user will enter the password to access the system;
+   +  Password: The user will enter the password to access the system;
 
-    +  Available:
+   +  Available:
 
-+  Enabled: When enabled, the connection will be provided in the URL field,
-    and in addition, to get the position of the attendant this field must be
-    enabled;
+      +  Enabled: When enabled, the connection will be provided in the URL field,
+         and in addition, to get the position of the attendant this field must be
+         enabled;
 
-+  Disabled: When disabled the system will not allow connection to the
-    server nor will it pick up the position of the attendant.
+      +  Disabled: When disabled the system will not allow connection to the
+         server nor will it pick up the position of the attendant.
 
 !!! Abstract "ATTENTION"
 
@@ -110,21 +110,21 @@ Using the app on the mobile
 
 ### Viewing service requests
 
-1.  After the connection is made, the menu screen will be displayed, where you
+1-  After the connection is made, the menu screen will be displayed, where you
     can click on the Service Ticket:
 
 ![Menu screen](images/ios-app-5.png)
 
 Figure 5 - Menu screen
 
-1.  To choose the type of request you want to view, click on the icon  located
+2-  To choose the type of request you want to view, click on the icon  located
     in the upper left corner;
 
 ![Request search](images/ios-app-6.png)
 
 Figure 6 - Request search screen
 
-1.  Will be presented filters:
+3-  Will be presented filters:
 
 ![Filters](images/ios-app-7.png)
 
@@ -134,10 +134,10 @@ Figure 7 - Filters
 
 Figure 8 - Filters (continuation)
 
-1.  Select the filter of request you want and click on the “Search” icon, in the
+4-  Select the filter of request you want and click on the “Search” icon, in the
     lower left corner;
 
-2.  The list of service requests will be displayed, depending on the filter
+5-  The list of service requests will be displayed, depending on the filter
     chosen:
 
 ![Ticket list](images/ios-app-9.png)
@@ -150,7 +150,7 @@ Figure 9 - Ticket list
     configure the corresponding web service (notices) in the "Web Service
     Operation Register" screen in CITSmart Enterprise Web.  
 
-1.  In each request, when you click on it, a list of options is displayed,
+6-  In each request, when you click on it, a list of options is displayed,
     being:
 
 ![Ticket lists](images/ios-app-10.png)
@@ -202,10 +202,6 @@ Figure 13 - Create request (continuation)
 
 Figure 14 - Create request (continuation)
 
-![Create requ](images/ios-app-15.png)
-
-Figure 15 - Create request (continuation)
-
 3-  Fill in the fields as described below:
 
 -  Applicant: enter the name of the applicant, that is, the name of the
@@ -238,51 +234,51 @@ Figure 15 - Create request (continuation)
 
 4-  Record service request information:
 
-   -  Catalog: select the catalog of services;
+   +  Catalog: select the catalog of services;
 
-   -   Service: enter the service for the selected service catalog. If the
-        service catalog is "**Business**", the business services for selection
-        will be available in this field, but if the service catalog is
-        "**Technical**", the support / technical services for selection will be
-        available in this field;
+   +  Service: enter the service for the selected service catalog. If the
+      service catalog is "**Business**", the business services for selection
+      will be available in this field, but if the service catalog is
+      "**Technical**", the support / technical services for selection will be
+      available in this field;
 
-   -   Type: select the type of request, whether it is an incident opening
-        or service request;
+   +  Type: select the type of request, whether it is an incident opening
+       or service request;
 
-       -   Incident: if the situation presented is an unplanned outage, a
-            reduction in the quality of the service or failure of any
-            configuration item that has not yet impacted an IT service. Eg: The
-            network link is out, the network is slow, the server is
-            inaccessible, etc.
+       +  Incident: if the situation presented is an unplanned outage, a
+          reduction in the quality of the service or failure of any
+          configuration item that has not yet impacted an IT service. Eg: The
+          network link is out, the network is slow, the server is
+          inaccessible, etc.
 
-        -   Request:refers to requests for demands made by users within the
-            Information Technology environment. They can range from access
-            requests to suggestions for improvement at low cost. Ex .: request
-            of access to the network for a new user, request of configuration of
-            some equipment, request to add some software in the workstation,
-            etc.
+        +  Request:refers to requests for demands made by users within the
+           Information Technology environment. They can range from access
+           requests to suggestions for improvement at low cost. Ex .: request
+           of access to the network for a new user, request of configuration of
+           some equipment, request to add some software in the workstation,
+           etc.
 
--   Category: enter the category of service to facilitate the search of the
-    activity (Request / incident). The category will identify the nature of the
-    activity, positioning it within similar groups of action, placing it in the
-    hierarchy of its category;
+   +   Category: enter the category of service to facilitate the search of the
+       activity (Request / incident). The category will identify the nature of the
+       activity, positioning it within similar groups of action, placing it in the
+       hierarchy of its category;
 
--   Activity (Request / Incident): inform the activity that will be
-    performed referring to the type of request. If the reported activity has a
-    "Guidance Script" associated with it, it will be displayed in the "Scripts"
-    tab represented by the icon  located in the upper right corner of the
-    screen;
+   +   Activity (Request / Incident): inform the activity that will be
+       performed referring to the type of request. If the reported activity has a
+       "Guidance Script" associated with it, it will be displayed in the "Scripts"
+       tab represented by the icon  located in the upper right corner of the
+       screen;
 
--   Contract: after informing the activity (Request / incident), the
-    contract will be displayed for which the opening of an incident or service
-    request will be made;
+   +   Contract: after informing the activity (Request / incident), the
+       contract will be displayed for which the opening of an incident or service
+       request will be made;
 
--   Urgency: after informing the activity (request / incident), the urgency
-    information will be displayed which indicates the speed at which the service
-    needs to be performed;
+   +   Urgency: after informing the activity (request / incident), the urgency
+       information will be displayed which indicates the speed at which the service
+       needs to be performed;
 
--   Impact: after informing the activity (Request / incident), the impact
-    information of the service to the business will be displayed;
+   +   Impact: after informing the activity (Request / incident), the impact
+       information of the service to the business will be displayed;
 
 !!! Abstract "RULE"
 
@@ -294,52 +290,53 @@ Figure 15 - Create request (continuation)
     calendar linked to the service. However, when closing the expected time of
     attendance is counted the delay in time, being disregarded the calendar.  
 
--   Title: enter the title of the service request;
+   +   Title: enter the title of the service request;
 
--   Description: enter the description of the service request. The
-    description must be objective, including all the information necessary to
-    attend to it;
+   +   Description: enter the description of the service request. The
+       description must be objective, including all the information necessary to
+       attend to it;
 
--   Head to group: enter the group to which the service request will be
-    directed. If you do not inform the group, the request will be directed to
-    the executor group defined in the record of the link of the Request /
-    incident activity to the contract. But if the executor group is not defined
-    in the record of the link of the Request / incident activity to the
-    contract, the request will be directed to the executor group defined in
-    parameter "9 - Group ID Level 1";
+   +   Head to group: enter the group to which the service request will be
+       directed. If you do not inform the group, the request will be directed to
+       the executor group defined in the record of the link of the Request /
+       incident activity to the contract. But if the executor group is not defined
+       in the record of the link of the Request / incident activity to the
+       contract, the request will be directed to the executor group defined in
+       parameter "9 - Group ID Level 1";
 
--   Notifications: check the options for sending notification of the request
-    to be sent to the requestor;
+   +   Notifications: check the options for sending notification of the request
+       to be sent to the requestor;
 
--   Execution Record: it is not necessary to fill in this field, as it is
-    indicated for the technician who will attend the request, to describe the
-    execution of his activity.
+   +   Execution Record: it is not necessary to fill in this field, as it is
+       indicated for the technician who will attend the request, to describe the
+       execution of his activity.
 
--   Situation: select the option that fits with the current status of the
-    request: Registered / In progress.
+   +   Situation: select the option that fits with the current status of the
+       request: Registered / In progress.
 
 ### Approving/rejecting service request
 
 Some requests need approval, so to meet them you need to approve them.
 
-1.  Select the request that is eligible for approval;
+1-  Select the request that is eligible for approval;
 
-2.  The "Details" screen will be displayed displaying the description of the
+2-  The "Details" screen will be displayed displaying the description of the
     request for approval / rejection of the request;
+
+![Create requ](images/ios-app-15.png)
+
+Figure 15 - Create request (continuation)
+
+
+3-  To approve the request, just press the Approve button;
+
+4-  To reject the request, press the Reject button. A screen will be displayed
+    to choose the justification for this rejection, as shown in the figure
+    below:
 
 ![approval](images/ios-app-16.png)
 
 Figure 16 - Request approval/reject screen
-
-1.  To approve the request, just press the Approve button;
-
-2.  To reject the request, press the Reject button. A screen will be displayed
-    to choose the justification for this rejection, as shown in the figure
-    below:
-
-![rejection screen](images/ios-app-17.png)
-
-Figure 17 - Request rejection screen justified
 
 -  Choose the justification for rejecting/approve the request and press the
     “Save and forward the Flow” button.
