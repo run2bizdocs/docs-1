@@ -66,19 +66,19 @@ Procedure
 Related
 -----------
 
--   Register configuration item
+[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
 
--   Create knowledge
+[Create knowledge](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/use/create-knowledge.html)
 
--   Register request of change
+Register request of change
 
--   Register release request
+[Register release request](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/register-release-request.html)
 
--   Register problem
+Register problem
 
--   Configure parametrization - ticket
+[Configure parametrization - ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
 
--   Register project
+[Register project](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/project-management/project-management/use/register-project.htmlm)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
