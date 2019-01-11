@@ -41,9 +41,9 @@ It's necessary to register the information about "release implementation".
 Related
 -----------
 
--   Activities of the deployment release phase
+[Activities of the deployment release phase](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/deployment-release-activities.html)
 
--   Register release request
+[Register release request](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
