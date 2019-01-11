@@ -62,7 +62,7 @@ searched in the Google online store.
 4.  To create a connection, press the key-shaped “My connections” icon, located
     in the upper right corner of the screen;
 
-![create conecction](android-app-1.png)
+![create conecction](images/android-app-1.png)
 
 Figure 1 - CITSmart Enterprise (Android mobile from Play Store) screen -
 Create connection
@@ -70,7 +70,7 @@ Create connection
 1.  The connections screen will be displayed, press the “New connection” icon ,
     located in the upper right corner of the screen;
 
-![conecctions screen](android-app-2.png)
+![conecctions screen](images/android-app-2.png)
 
 Figure 2 - Connections screen
 
