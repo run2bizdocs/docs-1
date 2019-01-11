@@ -59,31 +59,31 @@ phase of the complete registration of continuity, called Implementation.
 Related
 -----------
 
--   Register impact analysis in the continuity business
+[Register impact analysis in the continuity business](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/impact-analysis-continuity-business.html)
 
--   Register continuity risk evaluation
+[Register continuity risk evaluation](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-risk-evaluation.html)
 
--   Register service continuity
+[Register service continuity](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-service-continuity.html)
 
--   Register threat
+[Register threat](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-threat.html)
 
--   Register service continuity vital functions
+[Register service continuity vital functions](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-vital-functions.html)
 
--   Register threat category
+[Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.htmlm)
 
--   Register risk category
+[Register risk category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/risk-category.html)
 
--   Register service continuity scope
+[Register service continuity scope](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-scope.html)
 
--   Register continuity plan
+[Register continuity plan](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-plan.html)
 
--   Register continuity risk
+[Register continuity risk](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-continuity-risk.html)
 
--   Define service continuity policy
+[Define service continuity policy](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-policy.html)
 
--   Define service continuity project
+[Define service continuity project](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-project.html)
 
--   Register automatic actions of incident/request/procedure
+[Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
 
