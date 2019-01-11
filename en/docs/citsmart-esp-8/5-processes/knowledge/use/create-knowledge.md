@@ -33,9 +33,9 @@ Procedure
 Related
 -----------
 
--   Create folder
+[Create folder](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/configuration/create-folder.html)
 
--   Configure external access to the knowledge portal
+[Configure external access to the knowledge portal](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
 
