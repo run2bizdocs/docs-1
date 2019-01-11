@@ -462,24 +462,24 @@ Figure 34 - Check denial screen
     will receive a notification containing the number of requests, according to
     the example shown in the figure below:
 
-![proximity](images/android-app-36.png)
+![proximity](images/android-app-35.png)
 
-Figure 36 - Notification of proximity to the multiple requests service
+Figure 35 - Notification of proximity to the multiple requests service
 location
 
    + When you select the notification, you will see a list of requests near your
     location, as shown in the figure below:
 
-![Upcoming](images/android-app-37.png)
+![Upcoming](images/android-app-36.png)
 
-Figure 37 - Upcoming requests
+Figure 36 - Upcoming requests
 
 1.  When a requestor delegates a service request, you will receive a
     notification, as shown in the figure below:
 
-![Incoming request](images/android-app-38.png)
+![Incoming request](images/android-app-37.png)
 
-Figure 38 - Incoming request notification
+Figure 37 - Incoming request notification
 
    + Select the notification to be directed to your personal request list.
 
