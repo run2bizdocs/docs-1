@@ -194,6 +194,7 @@ Figure 10 - Ticket list
 ![Creating a service](images/ios-app-11.png)
 
 Figure 11 - Creating a service request
+
 ![Creating request](images/ios-app-12.png)
 
 Figure 12 - Create request
