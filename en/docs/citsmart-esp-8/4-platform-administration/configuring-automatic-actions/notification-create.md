@@ -28,11 +28,12 @@ Procedure
 
 6.  Click on "Save".
 
-[](https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load#/knowledge/7424)**Related**
+Related
+-------
 
--   Register group
+[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
 
--   Register user
+[Register user](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 
