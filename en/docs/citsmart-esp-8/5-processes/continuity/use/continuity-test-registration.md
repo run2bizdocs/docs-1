@@ -81,7 +81,7 @@ Related
 
 [Register threat](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-threat.html)
 
-[Register service continuity vital functions](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-vital-functions.htmlm)
+[Register service continuity vital functions](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-vital-functions.html)
 
 [Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.html)
 
