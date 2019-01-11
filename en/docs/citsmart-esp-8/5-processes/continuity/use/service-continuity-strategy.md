@@ -69,7 +69,7 @@ Related
 
 [Register service continuity vital functions](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-vital-functions.html)
 
-[Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.htmlm)
+[Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.html)
 
 [Register risk category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/risk-category.html)
 
