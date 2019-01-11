@@ -15,7 +15,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Search for the release request and the actions you want.
+2.  Search for the release request and the actions you want.  
 
 Related
 -----------
