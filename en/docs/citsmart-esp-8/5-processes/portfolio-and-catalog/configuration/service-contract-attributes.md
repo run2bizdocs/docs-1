@@ -45,7 +45,7 @@ Procedure
 
 ## Related
 
-[Register operating condition](htts://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Register operating condition](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
 [Register provider](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-provider.html)
 
