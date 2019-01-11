@@ -42,7 +42,7 @@ Procedure
 Related
 -------
 
-Create profile access
+[Create profile access](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
