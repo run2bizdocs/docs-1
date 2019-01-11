@@ -102,7 +102,7 @@ Figure 3 - Connection log screen
     To change a connection, simply select the desired connection and make the
     change;
 
-10  To connect, just select the connection, in the initial screen of the
+10-  To connect, just select the connection, in the initial screen of the
     application;
 
 ![login screen](images/android-app-4.png)
@@ -271,9 +271,9 @@ Some requests need approval, so to meet them you need to approve them.
 
 Figure 17 - Request approval/reject screen
 
-3-  To approve the request, just press the Approve button;
+3-  To approve the request, just press the "Approve" button;
 
-4-  To reject the request, press the Reject button. A tea- la will be displayed
+4-  To reject the request, press the "Reject" button. A tea- la will be displayed
     to choose the justification for this rejection, as shown in the figure
     below:
 
@@ -438,8 +438,8 @@ so you automatically receive notifications that are actionable.
 
 Figure 32 - Notification of proximity to the request location
 
-    + Select the notification, where you will see a screen asking if you want to
-    check in, as shown in the illustration below:
+   + Select the notification, where you will see a screen asking if you want to
+     check in, as shown in the illustration below:
 
 ![rejection](images/android-app-33.png)
 
