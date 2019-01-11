@@ -60,9 +60,9 @@ Procedure
 Related
 -----------
 
--   Workflow maintenance
+[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
 
--   Register questionnaire
+[Register questionnaire](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
