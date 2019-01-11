@@ -3,7 +3,7 @@ Description:Is intended to provide the list of key fields available for the Serv
 #Request e-mail key fields
 This document is intended to provide the list of key fields available for the Service Request e-mail template registration.
 
-LIST OF KEY FIELDS
+List of key fields
 ----------------------
 
 The key fields available for insertion in the e-mail template file related to
