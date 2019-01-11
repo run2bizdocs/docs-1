@@ -76,7 +76,9 @@ Figure 2 - Connections screen
 
 1.  The "New connection" screen for connection registration will be displayed.;
 
-Figure 6 - Connection log screen
+![Connection log screen](images/android-app-3.png)
+
+Figure 3 - Connection log screen
 
 1.  Enter the relevant data:
 
@@ -92,7 +94,7 @@ Figure 6 - Connection log screen
 
 !!! Abstract "ATTENTION"
 
-    If the device is changed, this connection must be deleted.  
+   If the device is changed, this connection must be deleted.  
 
 1.  After entering the desired connection data, press the Add button;
 
@@ -103,7 +105,9 @@ Figure 6 - Connection log screen
 3.  To connect, just select the connection, in the initial screen of the
     application;
 
-Figure 7 - CITSmart Enterprise (Android mobile from Play Store) login screen
+![login screen](images/android-app-4.png)
+
+Figure 4 - CITSmart Enterprise (Android mobile from Play Store) login screen
 
 Using the app on the mobile (smartphone)
 ----------------------------------------
@@ -117,12 +121,16 @@ actions, which will be explained later.
 1.  To choose the type of request you want to view, click the bar-shaped “Menu”
     icon located in the upper left corner;
 
-Figure 8 - Service requests screen
+![Service requests](images/android-app-5.png)
+
+Figure 5 - Service requests screen
 
 1.  A list with the types and quantities of requests of each type is presented,
     as shown in the figure below:
 
-Figure 9 - Request types filte
+![types filter](images/android-app-6.png)
+
+Figure 6 - Request types filter
 
 1.  Select the type of request you want;
 
@@ -133,9 +141,13 @@ Figure 9 - Request types filte
 3.  The list of service requests will be displayed, depending on the filter
     chosen:
 
-Figure 10 - Personal request list
+![request list](images/android-app-7.png)
 
-Figure 11 - Group request list
+Figure 7 - Personal request list
+
+![Group request list](images/android-app-8.png)
+
+Figure 8 - Group request list
 
 1.  To view specific requests, click the search “Search” icon. A field will be
     displayed to inform the desired request data (request number, contract name,
