@@ -35,11 +35,11 @@ Procedure
 Related
 -----------
 
--   Register operating condition
+[Register operating condition](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
--   Register a client
+[Register a client](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-client.html)
 
--   Register currency
+[Register currency](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/configuration/register-currency.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
 
