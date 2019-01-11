@@ -23,9 +23,9 @@ Procedure
 Related
 -----------
 
--   Register employee
+[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
 
--   Create profile access
+[Create profile access](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
