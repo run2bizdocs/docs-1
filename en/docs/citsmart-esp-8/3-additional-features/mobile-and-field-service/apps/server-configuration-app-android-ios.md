@@ -207,7 +207,7 @@ Related
 
 [CITSmart Enterprise ITSM Mobile application user guide (Android)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (IOS)]
+[CITSmart Enterprise ITSM Mobile application user guide (IOS)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 
 !!! tip "About"
