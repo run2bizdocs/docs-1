@@ -90,21 +90,21 @@ The report can also be viewed in Smart Reports.
 Related
 -----------
 
--   Register a service
+[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
 
--   Configure service attributes
+[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
--   Configure service contract attributes
+[Configure service contract attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
--   Create the portfolio
+[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
--   Service level requirement
+[Service level requirement](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/use/service-level-requirement.html)
 
--   Customize management panel (Smart Decision)
+[Customize management panel (Smart Decision)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
--   Create smart report
+[Create smart report](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
--   Build and maintain smart reports - V. 8.0
+[Build and maintain smart reports - V 8](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 !!! tip "About"
 
