@@ -348,6 +348,7 @@ Figure 16 - Request rejection screen justified
     “Save and forward the Flow” button.
 
 Related
+-------
 
 [CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and
 Android)](https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load#/knowledge/4342)
