@@ -32,7 +32,7 @@ Related
 
 [Capture ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/capture-ticket.html)
 
-Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
+[Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
 
 [Delegate ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/delegate-ticket.html)
 
