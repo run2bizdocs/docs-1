@@ -25,10 +25,10 @@ Procedure
     1 the highest priority and 5 the lowest. Select the priority to define the
     time:
 
-    -**Capture**: set the time of capture of the service request, according to
+    -Capture: set the time of capture of the service request, according to
     the priority selected;
 
-    -**Resolution**: set the time of service resolution according to the priority
+    -Resolution: set the time of service resolution according to the priority
     selected.
 
 1.  Before complete the fields in **Automation**, it should be properly
@@ -51,15 +51,15 @@ Procedure
 Related
 -------
 
-Register a service
+[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
 
-Configure service attributes
+[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-Create the portfolio
+[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Configure parametrization – ticket
+[Configure parametrization – ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-Create escalation rule
+[Create escalation rule](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-escalation-rule.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMDKjZH8augISpB17EQqrrc)'

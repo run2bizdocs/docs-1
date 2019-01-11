@@ -2,6 +2,9 @@ title: Batch Processing
 Description: Intended to register the batch processing, that can be used in other system routines.
 #Batch Processing
 
+This functionality is intended to register the batch processing, that can be
+used in other system routines.
+
 Procedure
 -------------
 

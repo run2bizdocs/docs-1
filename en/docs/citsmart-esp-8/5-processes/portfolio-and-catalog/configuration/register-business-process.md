@@ -35,13 +35,13 @@ Procedure
 Related
 -------
 
-Register a client
+[Register a client](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-client.html)
 
-Register group
+[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
 
-Register unit
+[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
 
-Workflow maintenance
+[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'

@@ -71,7 +71,7 @@ environment password. Verify the ticket and make the attendance.
 Related
 -------
 
-CITSmart Field Service manual
+[CITSmart Field Service manual](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
 
 
 !!! tip "About"

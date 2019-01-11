@@ -22,7 +22,7 @@ Procedure
 Related
 -------
 
-Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
 
 !!! tip "About"

@@ -57,13 +57,13 @@ Access the knowledge Portal and search for some knowledge without login it.
 Related
 -------
 
-Create folder
+[Create folder](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/configuration/create-folder.html)
 
-Create knowledge
+[Create knowledge](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/use/create-knowledge.html)
 
-Customize the knowledge portal
+[Customize the knowledge portal](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-Index knowledge
+[Index knowledge](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/configuration/index-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'

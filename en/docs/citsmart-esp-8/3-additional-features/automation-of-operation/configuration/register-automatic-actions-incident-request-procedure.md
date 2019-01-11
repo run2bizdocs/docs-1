@@ -38,19 +38,19 @@ Procedure
 Related
 -------
 
-Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
-Create the portfolio
+[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Register group
+[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
 
-Create time of attendance
+[Create time of attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/configuration/create-time-attendance.html)
 
-Register employee
+[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
 
-Register periodic activity group
+[Register periodic activity group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-Register unit
+[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
 
 
 !!! tip "About"

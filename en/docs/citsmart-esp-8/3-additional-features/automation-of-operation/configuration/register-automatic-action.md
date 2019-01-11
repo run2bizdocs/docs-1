@@ -10,6 +10,7 @@ This feature provides a variety of actions, such as including, changing, and
 deleting automatic actions.
 
 Procedure
+---------
 
 1.  Access the functionality through the main menu System \> Automatic Actions
     \> Automatic Actions;

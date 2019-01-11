@@ -49,7 +49,7 @@ Related
 
 [Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
 
-[Set Inventory connection](
+[Set Inventory connection](https//docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"

@@ -26,9 +26,10 @@ Procedure
 Related
 -----------
 
--   Create calendar
+[Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html)
 
--   Register configuration item group
+[Register configuration item group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html)
+
 
 !!! tip "About"
 

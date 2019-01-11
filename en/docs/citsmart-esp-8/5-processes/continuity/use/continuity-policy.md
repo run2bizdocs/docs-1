@@ -47,19 +47,19 @@ Initiation phase of the complete registration of continuity.
 Related
 -----------
 
--   Register employee
+[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
 
--   Register threat
+[Register threat](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-threat.html)
 
--   Register threat category
+[Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.html)
 
--   Register risk category
+[Register risk category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/risk-category.html)
 
--   Register service continuity scope
+[Register service continuity scope](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-scope.html)
 
--   Register continuity risk
+[Register continuity risk](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-continuity-risk.html)
 
--   Register automatic actions of incident/request/procedure
+[Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'

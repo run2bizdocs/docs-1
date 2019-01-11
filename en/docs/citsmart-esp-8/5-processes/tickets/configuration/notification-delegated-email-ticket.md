@@ -48,9 +48,9 @@ Access a ticket and delegate it.
 Related
 -------
 
-Delegate ticket
+[Delegate ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/delegate-ticket.html)
 
-Configure Email Template
+[Configure email template](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/email-settings/email-templates-configure-email-template.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 

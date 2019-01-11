@@ -2,6 +2,9 @@ title: Create automatic action via email
 Description: Intended to program the automatic opening of a service request through email.
 #Create automatic action via email
 
+This functionality is intended to program the automatic opening of a service
+request through email.
+
 Before getting started
 --------------------------
 
@@ -21,7 +24,7 @@ Procedure
 Related
 -------
 
-Register automatic actions of incident/request/procedure
+[Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 !!! tip "About"
 
