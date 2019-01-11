@@ -2,28 +2,23 @@ title: Neuro Overview
 
 description: connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. NEURO is also CODELESS!
 
-NEURO 
-------
+#NEURO 
+
+##Overview 
 
 CITSmart Neuro connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. **NEURO is also CODELESS!**
 
-With Neuro we can create automated workflows in minutes eliminating errors due
-manual inputs while operating in a secure environment.
+With Neuro we can create automated workflows in minutes eliminating errors due manual inputs while operating in a secure environment.
 
 -   Quick Customization
-
 -   Interchangeable
-
 -   Intelligent Integration
-
 -   Create and Design Automated Workflows
-
 -   Reduce Risks
-
 -   Eliminate Incorrect Data
 
-Why adopt it? 
---------------
+##Why adopt it? 
+
 
 Application development can often be time-consuming and expensive, as well as
 exposing a high risk to the business. CITSmart Neuro presents intelligent
