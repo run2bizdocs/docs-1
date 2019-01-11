@@ -21,7 +21,7 @@ Procedure
 Related
 -------
 
-Build and maintain smart reports - V. 8.0
+[Build and maintain smart reports - V. 8.0](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 !!! tip "About"
