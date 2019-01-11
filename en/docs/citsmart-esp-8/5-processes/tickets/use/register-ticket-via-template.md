@@ -36,26 +36,25 @@ Procedure
 Related
 -----------
 
--   How to relate group to contract?
+[How to relate group to contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/relate-group-to-contract.html)
 
--   How to relate unit to contract?
+[How to relate unit to contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/relate-unit-to-contract.html)
 
--   Register a contract
+[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
 
--   Register a service
+[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
 
--   Configure service attributes
+[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
--   Create the portfolio
+[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
--   Register group
+[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
 
--   Create template of incident, request and procedure
+[Create template of incident, request and procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/create-template-of-ticket.html)
 
--   Create time of attendance
+[Create time of attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/configuration/create-time-attendance.html)
 
--   Register unit
-
+[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
