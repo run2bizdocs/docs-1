@@ -5,7 +5,7 @@ Description: Intended to provide the list of key fields available for the change
 This document is intended to provide the list of key fields available for the
 change template-related e-mail template.
 
-Key fieds list
+Key fields list
 -------------------
 
 The following key fields are listed below for insertion into the change
