@@ -118,7 +118,7 @@ request.
 2.  Set the filters as needed and click on "Search". It will appear the
     requests;
 
-3.  !!! Abstract "NOTE"
+!!! Abstract "NOTE"
 
         The amount of requests listed, by page, is regarding the amount set
         in the parameter "261 - amount of registers returned in the advanced
@@ -202,7 +202,7 @@ to the filters choose by the user.
 
 2.  Set the filters as needed;
 
-3.  !!! Abstract "NOTE"
+!!! Abstract "NOTE"
 
         When the user wants to analysis all requests, setting the value to
         “All” for the filter “Top List”, it can exists difference between the number
