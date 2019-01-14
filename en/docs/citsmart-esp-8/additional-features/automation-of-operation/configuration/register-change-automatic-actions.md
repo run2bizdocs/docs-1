@@ -32,19 +32,19 @@ Procedure
 Related
 -------
 
-[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-contract.html)
+[Register a contract](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
 Register type of change
 
-[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Configure parametrization - change](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-change.html)
+[Configure parametrization - change](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
 !!! tip "About"
 
