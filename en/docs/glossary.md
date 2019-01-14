@@ -1,3 +1,8 @@
+Title: Glossary
+Description: Glossary CITsmart
+
+# Glossary
+
 •	Activity
 Set of actions designed to achieve a particular result. Activities are usually defined as part of processes or plans, and are documented in procedures.
 
