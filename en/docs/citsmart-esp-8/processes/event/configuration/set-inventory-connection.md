@@ -72,7 +72,7 @@ Procedure
 Related
 -------
 
-[Register Inventory manager](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register.inventory.manager.html)
+[Register Inventory manager](/en-us/citsmart-esp-8/processes/event/configuration/register.inventory.manager.html)
 
 
 
