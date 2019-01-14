@@ -20,18 +20,18 @@ appropriate for the agreed service level targets for availability".
 Use
 -------
 
--  [Verify configuration item availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
+- [Verify configuration item availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
--   [Verify CI group availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/use/CI-group-availability.html)
+- [Verify CI group availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
 
--   [Verify availability of availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/use/availability-group.html)
+- [Verify availability of availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/availability-group.html)
 
--   [Verify service availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/use/service-availability.html)
+- [Verify service availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/service-availability.html)
 
 Configuration
 -----------------
 
--   [Register availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/configuration/register-availability-group.html)
+- [Register availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
