@@ -6,5 +6,4 @@ The notion of "Chat" is used to allude to the exchange of written messages of in
 
 Access [this document][1] for more information. 
 
-[1]:(/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-chat.html
-
+[1]:/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-chat.html
