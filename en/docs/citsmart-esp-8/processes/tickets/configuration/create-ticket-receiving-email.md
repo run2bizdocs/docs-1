@@ -43,7 +43,7 @@ Procedure
 Related
 -------
 
-Batch Processing
+[Batch Processing] (../citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.md)
 
 [Register automatic actions of incident/request/procedure](register-automatic-actions-incident-request-procedure.md)
 
