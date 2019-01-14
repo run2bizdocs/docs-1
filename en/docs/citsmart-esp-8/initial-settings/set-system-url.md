@@ -7,7 +7,8 @@ This functionality is intended to configure the system URL.
 
 1. Access the functionality through the main menu Parameterization > CITSmart parameter;  
 2. Search parameter id 33;
-    :::html
+    ``` sh
     https://127.0.0.1:8080
+	```
 
-3. Save  
+3. Save
