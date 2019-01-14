@@ -11,7 +11,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 ##Related
 
-[Store images in the gallery](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/configuration/store-images-gallery.html)
+[Store images in the gallery](/en-us/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
 
