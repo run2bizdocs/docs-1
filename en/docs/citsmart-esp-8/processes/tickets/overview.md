@@ -76,7 +76,7 @@ Use
 
 - [Attend with remote support](/en-us/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
 
-- [Print ticket](en-us/citsmart-esp-8/processes/tickets/use/print-ticket.html)
+- [Print ticket](/en-us/citsmart-esp-8/processes/tickets/use/print-ticket.html)
 
 - [Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
