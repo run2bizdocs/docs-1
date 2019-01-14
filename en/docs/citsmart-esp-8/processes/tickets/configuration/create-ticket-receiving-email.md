@@ -56,7 +56,9 @@ Attachment
 ------------
 
 [Download](images/verify-email.txt)
+
 <a href="images/verify-email.txt" Download>
+
 
 !!! tip "About"
 
