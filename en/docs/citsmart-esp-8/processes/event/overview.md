@@ -1,4 +1,4 @@
-title: Event management
+title: Overview of event management
 Description: This functionality is intended to present some functionalities to the even management.
 #Event management
 
