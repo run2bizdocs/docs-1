@@ -54,7 +54,7 @@ Related
 
 Attachment
 ------------
-![verify email](images/verify-email.txt)
+![verifyemail](images/verify-email.txt)
 
 [Download](images/verify-email.txt)
 
