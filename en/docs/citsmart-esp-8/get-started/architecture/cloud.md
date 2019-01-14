@@ -131,4 +131,3 @@ A – Data backup is automatically replicated in 2 availability zones (different
 Q – CITSmart ® is audit compliant?
 
 A – He have an audit trail in CITSmart ®, this is one of Pink Verify certification requirements and for information monitoring and application usage, we use Dynatrace and it brings absolutely all the information needed to diagnose the application.
-
