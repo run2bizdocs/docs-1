@@ -22,10 +22,9 @@ Procedure
     service request fulfillment.
 
 Related
------------
+-------
 
--   CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and
-    Android)
+[CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and Android)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
     
     <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
 
