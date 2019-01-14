@@ -43,13 +43,13 @@ Procedure
 Related
 -------
 
-[Register occurence category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-occurence-category.html)
+[Register occurence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-event-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
+[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](https//docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
