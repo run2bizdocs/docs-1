@@ -1,5 +1,5 @@
-Title: Set Language  
-#Set Language  
+Title: Set Default Language  
+#Set Default Language
 
 This functionality is intended to  setup the default language of the system.  
 
