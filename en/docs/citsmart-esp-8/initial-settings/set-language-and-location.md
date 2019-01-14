@@ -5,13 +5,13 @@ This functionality is intended to  setup the default language of the system.
 
 ## Procedure
 
-1- Access the functionality through the main menu Parameterization > CITSmart parameter;   
-2- Search and edit parameter 66;
+1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
+2. Search and edit parameter 66;
     
     PARAM - Description - Value
     66 - Default system language - EN
     
-3- Save  
+3. Save  
 
 !!! info "Always keep the system in english"  
 
