@@ -45,29 +45,29 @@ Procedure
 
 ## Related
 
-[Register operating condition](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Register operating condition](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-[Register provider](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-provider.html)
+[Register provider](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
 
-[Register satisfaction survey](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Register satisfaction survey](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-[Register a client](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-client.html)
+[Register a client](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Define the permission to access Portfolio Management functionalities](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/profile/portfolio-management.html)
+[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
 
-[Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-[Create template of incident, request and procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/create-template-of-ticket.html)
+[Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
 
-[Create time of attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/configuration/create-time-attendance.html)
+[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Register currency](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/configuration/register-currency.html)
+[Register currency](/en-us/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'

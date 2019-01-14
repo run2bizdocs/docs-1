@@ -2,7 +2,7 @@ Title: Cloud
 
 # CITSmart Cloud Plataform
 
-![Screenshot](images/cirsmart-cloud-plataform.png)
+![Screenshot](images/citsmart-cloud-plataform.png)
 
 ##1. Route 53
 

@@ -30,25 +30,25 @@ Procedure
 Related
 -------
 
-[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configure service contract attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Create time of attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/configuration/create-time-attendance.html)
+[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Configure parametrization - ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configure access permission of request/incident management](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 
 

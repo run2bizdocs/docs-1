@@ -60,9 +60,9 @@ Procedure
 Related
 -----------
 
-[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Register type of configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-type-ic.html)
+[Register type of configuration item](/en-us/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
 
 !!! tip "About"
