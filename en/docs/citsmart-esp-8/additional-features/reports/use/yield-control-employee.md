@@ -23,9 +23,9 @@ Procedure
 Related
 -----------
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
 !!! tip "About"
 
