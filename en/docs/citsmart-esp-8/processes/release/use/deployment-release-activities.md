@@ -35,9 +35,9 @@ It's possible to link other functionalities to the release request.
 Related
 -----------
 
-[Activities of the release planning phase](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/release-planning-activities.html)
+[Activities of the release planning phase](/en-us/citsmart-esp-8/processes/release/use/release-planning-activities.html)
 
-[Register release request](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/register-release-request.html)
+[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
