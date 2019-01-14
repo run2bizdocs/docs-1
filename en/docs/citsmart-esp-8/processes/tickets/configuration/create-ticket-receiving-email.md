@@ -43,6 +43,8 @@ Procedure
 Related
 -------
 
+Register automatic actions of incident/request/procedure
+
 [Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 [Create automatic action via email](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
