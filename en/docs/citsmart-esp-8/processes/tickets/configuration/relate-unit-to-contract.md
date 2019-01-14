@@ -4,7 +4,7 @@ Description: Relate unit to the contract
 
 #How to relate unit to the contract
 
-1.  Access the functionality CITSmart Parameters through the main menu. Place the mouse in the option** Parametrization and click on CITSmart Parameters. Next, it'll be presented the screen of CITSmart Parameters, click on the tab Search CITSmart Parameters;
+1.  Access the functionality CITSmart Parameters through the main menu. Place the mouse in the option **Parametrization** and click on CITSmart Parameters. Next, it'll be presented the screen of CITSmart Parameters, click on the tab Search CITSmart Parameters;
 
 2.  Search for the parameter "61 - Link contract to unit"and select it. It'll be presented the screen to register the parameter with contend about the register selected;
 
