@@ -20,7 +20,7 @@ appropriate for the agreed service level targets for availability".
 Use
 -------
 
--  [Verify configuration item availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/use/configuration-item-availability.html)
+-  [Verify configuration item availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
 -   [Verify CI group availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/availability/use/CI-group-availability.html)
 
