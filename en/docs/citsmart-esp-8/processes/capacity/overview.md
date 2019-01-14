@@ -1,4 +1,4 @@
-title Capacity management
+title: Capacity management
 Description: Capacity management considers all the resources needed to deliver an IT service
 #Capacity management
 
