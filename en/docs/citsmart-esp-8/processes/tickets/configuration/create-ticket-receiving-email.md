@@ -57,7 +57,8 @@ Attachment
 
 [Download](images/verify-email.txt)
 
-![Download](images/verify-email.txt "Download")
+path: images
+source: verify-email.txt
 
 !!! tip "About"
 
