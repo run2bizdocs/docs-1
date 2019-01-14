@@ -51,15 +51,15 @@ Procedure
 Related
 -------
 
-[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Configure parametrization – ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization – ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Create escalation rule](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-escalation-rule.html)
+[Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMDKjZH8augISpB17EQqrrc)'
