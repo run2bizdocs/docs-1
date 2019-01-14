@@ -29,9 +29,9 @@ Procedure
 Related
 -----------
 
-[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Register demand attribute](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/demand/use/register-demand-attribute.html)
+[Register demand attribute](/en-us/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
 !!! tip "About"
 
