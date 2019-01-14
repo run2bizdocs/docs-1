@@ -10,13 +10,13 @@ Default
     1. Access the functionality through the main menu **Parameterization > CITSmart parameter**;   
     2. Search and edit parameter 66;   
 	
-!!!Abstract "EXAMPLE"  	 
+!!! tip "EXAMPLE"  	 
 	
-    Eg.	EN, ES, PT  
+    Eg.EN, ES, PT  
 	
     3. Save  
 
-!!!Abstract "Always keep the system in english"  
+!!! tip "Always keep the system in english"  
 
     1. Access the functionality through the main menu **Parameterization > CITSmart parameter**;   
     2. Search and edit parameter 275;  
