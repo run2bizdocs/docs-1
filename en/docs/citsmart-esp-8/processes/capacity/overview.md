@@ -19,9 +19,9 @@ needs of the business".
 Use
 -------
 
--   [Register capacity indicators](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/capacity/use/register-capacity-indicators.html)
+- [Register capacity indicators](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
 
--   [Import capacity indicators data](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/capacity/use/capacity-indicators-data.html)
+- [Import capacity indicators data](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
 
 !!! tip "About"
 
