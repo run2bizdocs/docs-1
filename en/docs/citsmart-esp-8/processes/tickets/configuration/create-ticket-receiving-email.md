@@ -43,6 +43,8 @@ Procedure
 Related
 -------
 
+Batch Processing
+
 [Register automatic actions of incident/request/procedure](register-automatic-actions-incident-request-procedure.md)
 
 [Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
@@ -57,7 +59,7 @@ Related
 Attachment
 ------------
 
-[Download](images/verify-email.rtf)
+[Download](images/verify-email.txt)
 
 !!! tip "About"
 
