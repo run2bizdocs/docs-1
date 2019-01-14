@@ -32,7 +32,7 @@ Procedure
 Related
 -------
 
-[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 
 !!! tip "About"
