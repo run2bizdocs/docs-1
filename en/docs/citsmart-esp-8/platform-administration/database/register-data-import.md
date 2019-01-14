@@ -30,7 +30,7 @@ Procedure
 Related
 -------
 
-[Register external connections](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/database/register-external-connections.html)
+[Register external connections](/en-us/citsmart-esp-8/platform-administration/database/register-external-connections.html)
 
 
 !!! tip "About"
