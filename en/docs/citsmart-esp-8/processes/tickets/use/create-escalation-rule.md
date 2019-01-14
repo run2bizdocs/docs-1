@@ -13,7 +13,7 @@ value **Y**, and previously register the contracts, employees, groups, services
 portfolios and the automatic action of escalation type.
 
 In the file **citsmart.cg**, it's necessary configure the
-properties **START**\_**MONITORA**\_**INCIDENTES **informing the parameter TRUE
+properties **START\_MONITORA\_INCIDENTES** informing the parameter TRUE
 (only the operating system administrator of the application server makes this
 adjustment).
 
