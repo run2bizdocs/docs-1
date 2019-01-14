@@ -19,9 +19,9 @@ This document is structured in three major sections:
 
 1-  Before getting started
 
-2-  Installing and Configuring the App on the Mobile;
+2-  Installing and Configuring the app on the Mobile;
 
-3-  Using the App on Mobile.
+3-  Using the app on Mobile.
 
 Before getting started
 ----------------------
@@ -34,7 +34,7 @@ Installing and configuring the app on the mobile
 ------------------------------------------------
 
 To install CITSmart ITSM Enterprise, the app must be searched in the online
-store (App Store).
+store (app store).
 
 1-  Search for CITSmart ITSM Enterprise on App Store, select and download
     the app;
