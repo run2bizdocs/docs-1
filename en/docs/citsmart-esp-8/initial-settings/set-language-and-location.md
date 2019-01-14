@@ -1,25 +1,29 @@
-Title: Set Language
-#Set Language
+Title: Set Language  
+#Set Language  
 
-Alterar a liguage padrao do sistema e informação de localização.
+This functionality is intended to  setup the default language of the system.  
 
-## Procedure
+## Procedure  
 
-Default
+Default  
 
-1. Access the functionality through the main menu Parametrização > Parametros CITSmart;
-2. Procurar e editar o parametro 66;
-Eg.	EN, ES, PT
-3. Salvar
+    1. Access the functionality through the main menu **Parameterization > CITSmart parameter**;   
+    2. Search and edit parameter 66;   
+	
+!!!Abstract "EXAMPLE"  	 
+	
+    Eg.	EN, ES, PT  
+	
+    3. Save  
 
-Keep system sempre em inglês
+!!!Abstract "Always keep the system in english"  
 
-1. Access the functionality through the main menu Parametrização > Parametros CITSmart;
-2. Procurar e editar o parametro 275;
-3. Selecionar "Sim"
-4. Salvar
+    1. Access the functionality through the main menu **Parameterization > CITSmart parameter**;   
+    2. Search and edit parameter 275;  
+    3. Select "Yes"  
+    4. Save  
 
-- Localização
+
 
 
 
