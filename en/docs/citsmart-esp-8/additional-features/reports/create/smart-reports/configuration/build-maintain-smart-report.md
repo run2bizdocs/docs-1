@@ -62,7 +62,7 @@ Procedure
 Related
 -------
 
-[Create Smart Report](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Create Smart Report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 
