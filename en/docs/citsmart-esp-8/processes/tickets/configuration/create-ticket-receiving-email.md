@@ -57,8 +57,6 @@ Attachment
 
 [Download](images/verify-email.txt)
 
-[Download](download/verify-email.txt)
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
