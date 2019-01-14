@@ -57,8 +57,10 @@ Attachment
 
 [Download](images/verify-email.txt)
 
+``` markdown
 path: images
 source: verify-email.txt
+```
 
 !!! tip "About"
 
