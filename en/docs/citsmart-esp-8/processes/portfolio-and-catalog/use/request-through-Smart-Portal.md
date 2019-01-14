@@ -41,7 +41,7 @@ Procedure
 Related
 -----------
 
-[Configure parametrization - Smart Portal](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-smart-portal.html)
+[Configure parametrization - Smart Portal](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
