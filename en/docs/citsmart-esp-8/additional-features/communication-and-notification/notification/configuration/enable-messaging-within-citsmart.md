@@ -32,13 +32,13 @@ Procedure
 Related
 -------
 
-[The desktop of Service Desk](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/desktop-of-service-desk.html)
+[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Configure parametrization – ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization – ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configure email template](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Manage my requests through Smart Portal](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+[Manage my requests through Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 
 !!! tip "About"
