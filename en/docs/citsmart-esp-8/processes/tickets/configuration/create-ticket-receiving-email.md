@@ -43,11 +43,11 @@ Procedure
 Related
 -------
 
-[Register automatic actions of incident/request/procedure](/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.md)
+[Register automatic actions of incident/request/procedure](/en/site/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.md)
 
-[Create automatic action via email](/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.md)
+[Create automatic action via email](/en/site/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.md)
 
-[Batch Processing](/platform-administration/configuring-automatic-actions/batch-batch-processing.md)
+[Batch Processing](/en/site/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.md)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
