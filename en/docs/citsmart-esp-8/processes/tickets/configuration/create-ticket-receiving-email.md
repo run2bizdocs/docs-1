@@ -57,6 +57,7 @@ Attachment
 
 [Download](images/verify-email.txt)
 
+[Download](download/verify-email.txt)
 
 !!! tip "About"
 
