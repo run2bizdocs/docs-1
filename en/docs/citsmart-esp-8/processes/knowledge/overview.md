@@ -1,4 +1,4 @@
-title: Knowledge management
+title: Overview of knowledge management
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
 #Knowledge management
 
