@@ -54,6 +54,8 @@ Related
 
 Attachment
 ------------
+\annex
+\chapter{verify-email.txt}
 
 [Download](images/verify-email.txt)
 
