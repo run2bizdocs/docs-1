@@ -1,56 +1,55 @@
-title: Verify CI group availability
+title: Verificar disponibilidade de grupo de IC
+Description: Tem por objetivo verificar a disponibilidade de grupo de ICs.
+#Verificar disponibilidade de grupo de IC
+Esta funcionalidade tem por objetivo verificar a disponibilidade de grupo de ICs.
 
-Description: This functionality is intended to verify the CIs availability group.
+Antes de começar
+--------------------
 
-#Verify CI group availability
-This functionality is intended to verify the CIs availability group.
+A verificação dessa disponibilidade requer o cadastro prévio do grupo de
+disponibilidade. Faz-se necessário também vincular o calendário, o acordo de
+nível de serviço do tipo "disponibilidade" e o custo por hora de
+indisponibilidade ao: item de configuração, ao grupo de item de configuração e
+ao contrato do serviço.
 
-Before getting started
---------------------------
+Procedimento
+----------------
 
-The verification of this availability requires the previous registration of the
-availability group. It is also necessary to link the calendar, the service level
-agreement of type "availability" and the cost per hour of unavailability to the:
-configuration item, the configuration item group and the service contract.
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Disponibilidade \> Disponibilidade;
 
-Procedure
--------------
+2.  Clicar na guia Grupo Item de Configuração;
 
-1.  Access the functionality through the main menu Processes \> Availability
-    Management \> Availability;
+3.  Clicar no símbolo “+” localizado na área Filtros, para buscar o grupo de IC
+    desejado;
 
-2.  Click on Configuration Item Group;
+4.  Podem ser adicionados vários itens, quantos desejar, para verificação;
 
-3.  Click on “+” symbol located on the Filters area, to search for the CI group
-    you want;
+5.  Verificar as informações nas áreas Disponibilidade por período,
+    Disponibilidade total e Ocorrências de indisponibilidade, através dos
+    filtros de período;
 
-4.  It can be added several items, the amount you want, to the verification;
+6.  Para download da tabela de disponibilidade total e/ou ocorrências de
+    indisponibilidade, clicar no botão "Salvar tabela" disponibilizado em cada
+    área.
 
-5.  Verify the information in Availability per period, total availability and
-    unavailability occurrence, through the period filters;
+Relacionados
 
-6.  To download the total availability table and/or the unavailability
-    occurrence, click on "Save table" available in each area.
+Acordo de Nível de Serviço
 
-Related
------------
+Cadastrar um contrato
 
-   [Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar item de configuração
 
-   [Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Criar calendário
 
-   [Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html) 
+Cadastrar grupo de item de configuração
 
-   [Service level agreement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+Registrar custo por hora de indisponibilidade
 
-  [Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html) 
-
-   [Register cost per hour of unavailability](/en-us/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html)
-
-  [Register availability group](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.html) 
+Cadastrar grupo de disponibilidade
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
