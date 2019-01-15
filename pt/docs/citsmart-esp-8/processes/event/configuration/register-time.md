@@ -1,30 +1,31 @@
-title: Register time
-Description: Intended to shcedule tasks.
-#Register time
+title: Cadastrar horário
+Description: Tem como objetivo agendar tarefas.
+#Cadastrar horário
 
-This functionality is intended to shcedule tasks. It will choose the filters of
-date and time, and it will be created a Creon Expression to create triggers
-schedule to be periodically used in the time and date established. For example,
-to make an inventory in the network, it's necessary to previously select a
-schedule, so the system will execute this inventory as the time chosen.
+Esta funcionalidade tem como objetivo agendar tarefas. São escolhidos filtros de
+horário e data e é gerada uma Expressão Cron que tem como objetivo criar agendas
+de disparo para serem executadas periodicamente nesses horários e datas
+estabelecidos. Por exemplo, para realizar um inventário da rede, deve ser
+selecionado um agendamento previamente cadastrado para o sistema executar esse
+inventário de acordo com o horário escolhido.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a time.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um horário.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Time;
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Processos \> Gerência de Evento \> Horário;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
