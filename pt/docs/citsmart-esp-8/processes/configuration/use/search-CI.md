@@ -1,72 +1,76 @@
-title: Search configuration item
-Description: It is allowed to perform IC queries in various ways in the search field.
-#Search configuration item
-In the Configuration Item Management screen, it is allowed to perform IC queries in various ways in the search field.
+title: Pesquisar item de configuração
+Description: É permitido realizar consultas de ICs de diversas formas no campo de busca.
+#Pesquisar item de configuração
+Na tela de Gerenciamento de Itens de Configuração, é permitido realizar consultas de ICs de diversas formas no campo de busca.
 
-!!! Abstract "NOTE"  
+!!! Abstract "NOTA"  
 
-    The first key on the screen when triggered, activates the search to bring
-    results with child configuration items. If the key is not activated, only
-    the parent configuration items will be shown.
+    A primeira chave na tela ao ser acionada, ativa a pesquisa para trazer
+    resultados com itens de configuração filhos. Caso a chave não esteja
+    acionada serão mostrados apenas os itens de configuração pai.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To search for the configuration items, it's necessary to previously register a
-configuration item and the type of configuration item.
+Para pesquisar itens de configuração são necessários o cadastro prévio de um
+item de configuração e o tipo de item de configuração.
 
-Procedure
--------------
+*Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB ;
 
-2.  Click on the search field and the search can be by specific name of the
-    configuration item or type of configuration item;
+2.  Clicar no campo de pesquisa e a busca poderá ser por nome específico do item
+    de configuração ou do tipo de item de configuração;
 
-3.  For more specific filters, click on the icon  “Down arrow” symbol:
+3.  Para filtros específicos, clicar no ícone simbolizado por uma “seta para
+    baixo”:
 
-*By group*
+*Por Grupo*
 
-1.  It allows to view the configuration item of a certain group;
+1.  Permite visualizar os itens de configuração de um determinado grupo;
 
-2.  Click on the button "Group" and choose the group;
+2.  Clicar no botão "Grupo" e escolher o grupo a ser pesquisado;
 
-3.  Click on the “Search” icon ;
+3.  Clicar no ícone “Pesquisar”;
 
-4.  To return to the home screen, click the “Left arrow” symbol icon .
+4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
+    esquerda”.
 
-*By type*
+*Por tipo*
 
-1.  It allows to view the type of configuration item;
+1.  Permite visualizar o tipo de item de configuração;
 
-2.  Click on the button "Type" e choose the type of configuration item;
+2.  Clicar no botão "Tipo" e escolher o tipo de item de configuração a ser
+    pesquisado;
 
-3.  Click on the “Search” icon ;
+3.  Clicar no ícone “Pesquisar”;
 
-4.  To return to the home screen, click the “Left arrow” symbol icon .
+4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
+    esquerda”.
 
-*By alert*
+*Por alerta*
 
-1.  It allows to view the configuration item related to the process of: Request,
-    Incident, Problem, Change and Release;
+1.  Permite visualizar os itens de configuração relacionados com os processos:
+    Requisição, Incidente, Problema, Mudança e Liberação;
 
-2.  Click on the button "Alert" e choose the type of processes;
+2.  Clicar no botão "Alerta" e escolher o tipo de processo a ser pesquisado;
 
-3.  Click on the “Search” icon ;
+3.  Clicar no ícone “Pesquisar”;
 
-4.  To return to the home screen, click the “Left arrow” symbol icon .
+4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
+    esquerda”.
 
-Related
------------
+Relacionados
+----------------
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
-[Register type of configuration item](/en-us/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
+Cadastrar tipo de item de configuração
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
