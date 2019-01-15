@@ -1,23 +1,24 @@
-title: Register software blacklist
-Description: Provides a variety of actions, such as including, changing, and deleting a Black List of Software.
-#Register software blacklist
+title: Cadastrar lista negra de software
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma Lista Negra de Softwares para que seja notificado os responsáveis sempre que detectada a instalação em alguma máquina da rede, onde esta será detectada no momento em que gerar o inventário.
+#Cadastrar lista negra de software
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a Black List of Software, so that the responsible ones are notified
-whenever the installation is detected in some machine of the network, where it
-will be detected at the moment of generating the inventory.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir uma Lista Negra de Softwares para que seja notificado os responsáveis
+sempre que detectada a instalação em alguma máquina da rede, onde esta será
+detectada no momento em que gerar o inventário.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> Blacklist Softwares;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> Softwares Lista Negra;
 
-2.  Complete the fields available;
+2.  Preencher o campo disponibilizado;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
