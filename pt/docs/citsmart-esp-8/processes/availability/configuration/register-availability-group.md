@@ -1,31 +1,35 @@
-title: Register availability group
-Description: Provides a variety of actions, such as including, changing, and deleting the group configuration items to generate availability index.
-#Register availability group
-This feature provides a variety of actions, such as including, changing, and deleting the group configuration items to generate availability index.
+title: Cadastrar grupo de disponibilidade
+Description: Agrupar itens de configuração para gerar índice de disponibilidades. 
+#Cadastrar grupo de disponibilidade
 
-Before getting started
---------------------------
+Esta funcionalidade tem por objetivo agrupar itens de configuração para gerar
+índice de disponibilidades.
 
-To register the group availability, it's necessary to previously register the
-calendar.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um grupo de disponibilidade.
 
-Procedure
--------------
+Antes de começar
+--------------------
 
-1.  Access the functionality through the main menu Processes \> Availability
-    Management \> Availability Group;
+Pra realizar o cadastro do grupo de disponibilidade é necessário registrar o
+calendário previamente.
 
-2.  Complete the fields available;
+Procedimento
+----------------
 
-3.  To link a configuration item, click on "Search Configuration Item";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Disponibilidade \> Grupo de Disponibilidade;
 
-4.  Click on "Save".
+2.  Preencher os campos disponibilizados;
 
-Related
--------
+3.  Para vincular um item de configuração, clicar no botão "Pesquisar Item de
+    Configuração";
 
-[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
+4.  Clicar no botão "Gravar".
 
+Relacionado
+
+Criar calendário
 
 !!! tip "About"
 
