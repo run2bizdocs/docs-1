@@ -43,7 +43,7 @@ Related
 
 [Register type of configuration item](/en-us/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
-[Register location](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/platform-administration/region-and-language/register-locations.html)
+[Register location](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-locations.html)
 
 !!! tip "About"
 
