@@ -103,7 +103,7 @@ Configuration
 
 - [How to relate unit to the contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-- [Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+- [Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 - [Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
