@@ -3,7 +3,7 @@ Description: Esta funcionalidade permite visualizar os eventos de teste da conti
 #Calendário de testes da continuidade
 O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma.Esta funcionalidade permite visualizar os eventos de teste da continuidade do serviço.
 
-**Antes de começar**
+Antes de começar
 --------------------
 
 Pressupõe a existência de um serviço definido num processo de Gerenciamento de
@@ -23,7 +23,7 @@ anteriormente, o risco e a categoria de risco.
 Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
 procedimentos referente ao Gerenciamento de Eventos.
 
-**Procedimento**
+Procedimento
 ----------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
@@ -61,14 +61,14 @@ procedimentos referente ao Gerenciamento de Eventos.
 6.  Clicar no botão "Gravar" do calendário de testes para aplicar as alterações
     realizadas.
 
-**O que fazer a seguir**
+O que fazer a seguir
 ------------------------
 
 Após de verificar o calendário de testes da continuidade é possível executar a
 seguinte ação, se necessário: invocar a continuidade, ação parte da quarta fase
 do registro completo da continuidade, chamada de Operação Contínua.
 
-**Relacionados**
+Relacionados
 ----------------
 
 Cadastrar ameaça
