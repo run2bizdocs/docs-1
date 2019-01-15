@@ -1,6 +1,7 @@
 title: Verificar a disponibilidade de serviço
-Description: Tem por objetivo verificar a disponibilidade de grupo de ICs. 
-#Analyze service request trends
+Description: Tem por objetivo verificar a disponibilidade de grupo de ICs.
+#Verificar a disponibilidade de serviço
+Esta funcionalidade tem por objetivo verificar a disponibilidade de grupo de ICs.
 
 Antes de começar
 --------------------
