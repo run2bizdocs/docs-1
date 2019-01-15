@@ -13,7 +13,7 @@ Procedimento
 
 3.  Preencher os campos disponibilizados;
 
-4.  Clicar em "Gravar".
+4.  Clicar em "Gravar".  
 
 !!! tip "About"
 
