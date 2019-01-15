@@ -2,9 +2,10 @@ Title: Enable Inventory
 
 # Enable Inventory 
 
-O CITSmart Inventory - Inventory - é um componente do CITSmart ESP que permite cadastrar e gerenciar rotinas de invetário. Com ele é possível trazer as informações dos iten de configuração de sua organização e gerenciá-las através do processo de Gerenciamento da Configuração.
+CITSmart Inventory - Inventory is a component of CITSmart ESP that allows you to register and manage inventory routines. It lets you bring information about your organization's configuration items and manage them through the Configuration Management process.  
 
-O Inventory funciona em conjunto com o [CITSmart Event Monitor - EVM][1] - de modo que o Inventory funciona como coletor de dados (ex. pacotes XML) e o EVM funciona como reposítório para essas informações. Deste modo, para habilitar o Inventory é necessário, antes, configurar o EVM.
+Inventory works in conjunction with [CITSmart Event Monitor - EVM] [1]. Inventory works as a data collector (eg XML packages) and EVM serves as a repositories for this information. Therefore, to enable Inventory, you must first configure EVM.  
+
 
 ## Procedure  
 
