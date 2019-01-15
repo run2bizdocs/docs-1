@@ -1,40 +1,40 @@
-title: Link demand attributes to CI
+title: Vincular atributos de demanda ao IC
+Description: Permite vincular um atributo de demanda ao item de configuração.
+#Vincular atributos de demanda ao IC
+Esta funcionalidade permite vincular um atributo de demanda ao item de configuração.
 
-Description: Allows to link an demand attribute to the configuration item.
-#Link demand attributes to CI
-This functionality allows to link an demand attribute to the configuration item.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Para realizar a vinculação é necessário o cadastro prévio do atributo de demanda
+e do item de configuração.
 
-To link, it's necessary to previously register the demand attribute and the
-configuration item.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+2.  Realizar a consulta do item de configuração, clicar sobre o item;
 
-2.  Search for the configuration item and click on it;
+3.  Na tela de informações do determinado item de configuração localizar a guia
+    Demanda;
 
-3.  In the information screen of the configuration item, find the tab Demand;
+4.  Clicar no botão "Vincular atributos de demanda";
 
-4.  Click on "Link demand attributes";
+5.  Selecionar ou realizar a busca pelo atributo específico;
 
-5.  Select or search for the specific attribute;
+6.  Clicar em "Adicionar".
 
-6.  Click on "Add".
+Relacionados
+----------------
 
-Related
------------
+Cadastrar item de configuração
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
-
-[Register demand attribute](/en-us/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
+Cadastrar atributo de demanda
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
 
