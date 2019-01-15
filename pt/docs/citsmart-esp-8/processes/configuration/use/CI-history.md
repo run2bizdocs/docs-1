@@ -1,38 +1,38 @@
-title: Verify configuration item history
-Description:Allows to obtain an audit report of the configuration item.
-#Verify configuration item history
-This functionality allows to obtain an audit report of the configuration item.
+title: Verificar histórico de item de configuração
+Description: Permite obter relatório de auditoria do item de configuração.
+#Verificar histórico de item de configuração
+Esta funcionalidade permite obter relatório de auditoria do item de configuração.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To have access to the report, it's necessary to previously register the
-configuration item.
+Para ter acesso ao relatório é necessário ter registrado o item de configuração
+previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-2.  Search for the configuration item and click on it;
+2.  Pesquisar o item de configuração e clicar sobre ele;
 
-3.  Search the configuration item, click on the tab **History.**
+3.  Realizar a consulta do item de configuração, clicar sobre a
+    guia **Histórico**.
 
-!!! Abstract "NOTE"  
+!!! Abstract "NOTA"  
 
-    The configuration item may have one or more restore points (baselines)
-    generated. To restore the Configuration Item, click on the "Create point of
-    restore" button.
+    O item de configuração poderá ter um ou mais pontos de restauração
+    (baselines) gerado. E para gerar um, clicar no botão "Gerar Ponto de
+    Restauração".
 
+Relacionados
+----------------
 
-Related
------------
-
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
 
