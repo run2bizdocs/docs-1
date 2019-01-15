@@ -82,10 +82,10 @@ Figure 3 - Connection log screen
 
 7-  Enter the relevant data:
 
-   - **Connection name**: Enter the name of the connection you want to
+   - **Connection name**: enter the name of the connection you want to
         connect to;
 
-   - **Server URL**: Enter the server address for the connection. The
+   - **Server URL**: enter the server address for the connection. The
         protocol (http) must be placed in the URL;
 
    - **User**: enter the username;
@@ -96,7 +96,7 @@ Figure 3 - Connection log screen
 
     If the device is changed, this connection must be deleted.  
 
-8-  After entering the desired connection data, press the Add button;
+8-  After entering the desired connection data, press the "Add" button;
 
 9-  After the connection is added, the list of created connections will appear.
     To change a connection, simply select the desired connection and make the
@@ -248,7 +248,7 @@ Figure 15 - New request creation screen
     The request registered by CITSmart Enterprise (Android mobile from Play
     Store) uses services that are configured in CITSmart Enterprise Web.  
 
-3-  Enter the description of the service request and press the Send button to
+3-  Enter the description of the service request and press the "Send" button to
     perform the operation;
 
 4-  After performing the operation, the request registration message will be
@@ -318,7 +318,7 @@ Figure 21 - Icon for get coordinates
 
 Figure 22 - Get coordinates screen
 
-   + Select the contract and drive. Once this is done, press the Get Coordinates
+   + Select the contract and drive. Once this is done, press the "Get Coordinates"
        button to perform the operation;
 
    + Your latitude and longitude will be sent to the server (CITSmart Enterprise
@@ -350,15 +350,15 @@ Figure 23 - Request for service via map
 
 Figure 24 - Answer service request
 
-4-  Press the Answer button. You will be directed to the screen of the request,
+4-  Press the "Answer" button. You will be directed to the screen of the request,
     on-you will be able to check in;
 
 ![Service request](images/android-app-25.png)
 
 Figure 25 - Service request
 
-5-  To view the route from which to perform the service, simply press the View
-    Route button;
+5-  To view the route from which to perform the service, simply press the "View
+    Route" button;
 
   + A screen will appear to choose the route visualization application;
 
@@ -366,12 +366,11 @@ Figure 25 - Service request
 
 Figure 26 - Application to view the route
 
-   + Selecione o aplicativo que irá utilizar para visualizar a rota;
+   + Select the app that will use to view the route;
 
-   + Será exibida a tela de visualização da rota;
+   + The route preview screen will be displayed;
 
-   + O caminho será mostrado a partir da sua localização até o local da
-    solicitação.
+   + The path will be shown from your location to the place of the request.
 
 !!! Abstract "RULE"
 
@@ -389,7 +388,7 @@ Figure 26 - Application to view the route
 
 Figure 27 - Check-in screen
 
-   + Press the Check-in button to perform the operation;
+   + Press the "Check-in" button to perform the operation;
 
 !!! Abstract "RULE"
 
@@ -424,7 +423,7 @@ Figure 30 - Check-out - Reason request suspend registration
 
 ![closing record](images/android-app-31.png)
 
-Figure 34 - Check-out - Request closing record
+Figure 31 - Check-out - Request closing record
 
 ##### Notifications
 
@@ -447,9 +446,9 @@ Figure 33 - Request rejection justification screen
 
    + Please reply if you want to check in;
 
-   + Pressing the Yes button will take you to the Check-in screen;
+   + Pressing the "Yes" button will take you to the Check-in screen;
 
-   + When you press the No button, you will be directed to the check-in negation
+   + When you press the "No" button, you will be directed to the check-in negation
     screen, as shown in the figure below:
 
 ![Check denial](images/android-app-34.png)
