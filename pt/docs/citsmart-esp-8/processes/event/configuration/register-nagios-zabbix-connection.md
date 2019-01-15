@@ -1,34 +1,35 @@
-title: Register Nagios/Zabbix connection
-Description: Register the Nagios/Zabbix tools that will be linked to the Event Management to monitor the various configuration items.
-#Register Nagios/Zabbix connection
+title: Cadastrar conexão Nagios/Zabbix
+Description: Cadastrar as ferramentas Nagios/Zabbix que serão vinculadas ao Gerenciamento de Eventos para realizar a monitoração dos diversos itens de configuração.
+#Cadastrar conexão Nagios/Zabbix
 
-This functionality is intended to register the Nagios/Zabbix tools that will be
-linked to the Event Management to monitor the various configuration items.
+Esta funcionalidade tem como objetivo cadastrar as ferramentas Nagios/Zabbix que
+serão vinculadas ao Gerenciamento de Eventos para realizar a monitoração dos
+diversos itens de configuração.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the Nagios/Zabbix tools.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as ferramentas Nagios/Zabbix.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously make the Event Monitor connection.
+O cadastro requer que a conexão Event Monitor seja realizada previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Connections \> Monitoring Tools;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Conexões \> Nagios/Zabbix;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponíveis;
 
-3.  Click on "Test Connection";
+3.  Clicar em "Testar Conexão";
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
-Related
--------
+Relacionado
+-----------
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
+Cadastrar Conexão Event Monitor
 
 
 !!! tip "About"

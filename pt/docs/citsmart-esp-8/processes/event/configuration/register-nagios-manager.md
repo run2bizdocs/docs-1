@@ -1,63 +1,65 @@
-title: Register Nagios manager
-Description: Register and maintain the managers that will be responsible for monitor the configuration items and event occurrences captured from the Nagios.
-#Register Nagios manager
+title: Cadastrar gerente Nagios
+Description: Cadastrar e manter os gerentes que serão responsáveis por monitorar os itens de configuração e ocorrência de eventos capturadas a partir do Nagios.
+#Cadastrar gerente Nagios
 
-Nagios is a network monitoring tool. It can monitor both hosts and services,
-warning when happening the problems and also when the problems are solved. The
-Hosts are equipment and Services are resources offered by the equipment.
+Nagios é uma ferramenta de monitoramento de rede. Ele pode monitorar tanto hosts
+quanto serviços, alertando quando ocorrerem problemas e também quando os
+problemas são resolvidos. Os Hosts são os equipamentos e os Serviços são os
+recursos oferecidos pelos equipamentos.
 
-The objective of this functionality is register and maintain the managers that
-will be responsible for monitor the configuration items and event occurrences
-captured from the Nagios. It allows the user to inform when the Manager will be
-processed, which configuration items it will manage and the actions to be taken
-automatically.
+O objetivo desta funcionalidade é cadastrar e manter os gerentes que serão
+responsáveis por monitorar os itens de configuração e ocorrência de eventos
+capturadas a partir do Nagios. Permite ao usuário informar de quanto em quanto
+tempo o Gerente será processado, quais os itens de configuração que ele irá
+gerenciar e as ações a serem tomadas automaticamente.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a Nagios manager.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um gerente Nagios.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To register Nagios manager, it's necessary to previously register the CITSmart
-Event Monitor connection, time, occurrence category, automatic action and the
-CITSmart Inventory connection.
+Para cadastrar o gerente Nagios é necessário cadastrar previamente a conexão do
+CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação automática
+e a conexão do CITSmart Inventory.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Nagios \> Nagios Manager;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Monitor Nagios \> Gerente Nagios;
 
-2.  Complete the fields available in each area;
+2.  Preencher os campos disponibilizados em cada área;
 
-3.  In the parent configuration item area, it's possible to register the CI in
-    CITSmart with the data of the Host selected. Click on "Create CI". Remember
-    that this registry can only be made if there is no CI with the same Host
-    identification:
+3.  Na área Item de configuração pai é possível cadastrar o IC no CITSmart com
+    os dados do Host selecionado. Clicar no botão "Criar IC". Vale lembrar que
+    esse registro só poderá ser realizado caso não haja um IC com a mesma
+    identificação do Host:
 
-    - Enter the data of the child configuration item;
+    -   Informar os dados do item de configuração filho;
 
-    - Conduct a relationship between the Host service and the child configuration
-    item. Each host service must be related to its respective child
-    configuration item.
+    -   Conduzir uma relação entre o serviço Host e o item de configuração filho.
+        Cada serviço host deve estar relacionado ao seu respectivo item de
+        configuração filho;
 
-1.  Click on "Save".
+1.  Clicar no botão "Gravar".
 
-Related
--------
 
-[Register occurrence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+Relacionado
+-----------
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
+Cadastrar categoria de ocorrência
 
-[Register Nagios/Zabbix connection](/en/site/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+Cadastrar Conexão Event Monitor
 
-[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
+Cadastrar conexão Nagios/Zabbix
 
-[Register automatic action](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
+Cadastrar horário
+
+Cadastrar ação automática
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
