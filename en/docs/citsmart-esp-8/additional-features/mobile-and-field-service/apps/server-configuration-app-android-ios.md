@@ -189,7 +189,7 @@ To enable an API for use, proceed as described below:
 Figure 8 - Google APIs
 
 3-  The API library will be displayed. Select the API you want to enable (the
-    figure below represents an example of API) and click the Activate API button
+    figure below represents an example of API) and click the "Activate API" button
     as indicated in the figure below:
 
 ![Google APIs](images/config-app-android-ios-9.png)
