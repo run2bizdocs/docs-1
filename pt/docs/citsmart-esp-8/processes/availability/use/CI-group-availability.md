@@ -34,6 +34,7 @@ Procedimento
     área.
 
 Relacionados
+----------------
 
 Acordo de Nível de Serviço
 
@@ -48,6 +49,7 @@ Cadastrar grupo de item de configuração
 Registrar custo por hora de indisponibilidade
 
 Cadastrar grupo de disponibilidade
+
 
 !!! tip "About"
 
