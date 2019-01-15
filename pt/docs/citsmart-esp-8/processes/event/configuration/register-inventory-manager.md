@@ -29,13 +29,13 @@ Procedimento
 3.  Os campos de preenchimento serão alterados conforme o *tipo de
     configuração* escolhida:
 
--   **Configuração Específica** permite criar regras específicas para um único
-    item de configuração. Essas regras serão aplicadas no momento em que o item
-    de configuração estiver sendo inventariado;
+    -   **Configuração Específica** permite criar regras específicas para um único
+        item de configuração. Essas regras serão aplicadas no momento em que o item
+        de configuração estiver sendo inventariado;
 
--   **Configuração Geral:** permite criar regras para todos os itens de
-    configuração. Essas regras serão aplicadas no momento em que os itens de
-    configuração estiverem sendo inventariados.
+    -   **Configuração Geral:** permite criar regras para todos os itens de
+        configuração. Essas regras serão aplicadas no momento em que os itens de
+        configuração estiverem sendo inventariados.
 
 1.  Informar os dados necessários e clicar em "Adicionar";
 
