@@ -63,7 +63,7 @@ Procedure
 
 2.  Select a contract and click on "Advance";
 
-3.  Click on the attribute** Incidents** of the contract and then on "Link
+3.  Click on the attribute **Incidents** of the contract and then on "Link
     Incident";
 
 4.  Complete the fields available adding the incident created previously;
@@ -90,21 +90,21 @@ The report can also be viewed in Smart Reports.
 Related
 -----------
 
-[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configure service attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configure service contract attributes](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Service level requirement](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/use/service-level-requirement.html)
+[Service level requirement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
-[Customize management panel (Smart Decision)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Customize management panel (Smart Decision)](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-[Create smart report](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Create smart report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
-[Build and maintain smart reports - V 8](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Build and maintain smart reports - V 8](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 !!! tip "About"
 

@@ -24,7 +24,7 @@ Procedure
 Related
 -------
 
-[Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 
 !!! tip "About"

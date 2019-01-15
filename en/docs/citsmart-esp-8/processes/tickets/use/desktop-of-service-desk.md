@@ -28,25 +28,25 @@ Procedure
 Related
 -----------
 
-[Change SLA of a ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/change-SLA-of-a-ticket.html)
+[Change SLA of a ticket](/en-us/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
 
-[Capture ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/capture-ticket.html)
+[Capture ticket](/en-us/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
 
-[Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
+[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Delegate ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/delegate-ticket.html)
+[Delegate ticket](/en-us/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
-[Hierarchical escalation in the attendance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
+[Hierarchical escalation in the attendance](/en-us/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-[Print ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/print-ticket.html)
+[Print ticket](/en-us/citsmart-esp-8/processes/tickets/use/print-ticket.html)
 
-[Locate a ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/locate-a-ticket.html)
+[Locate a ticket](/en-us/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
 
-[Reclassify ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/reclassify-ticket.html)
+[Reclassify ticket](/en-us/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-[Suspend ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/suspend-ticket.html)
+[Suspend ticket](/en-us/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
 
-[Attend with remote support](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/attend-with-remote-support.html)
+[Attend with remote support](/en-us/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

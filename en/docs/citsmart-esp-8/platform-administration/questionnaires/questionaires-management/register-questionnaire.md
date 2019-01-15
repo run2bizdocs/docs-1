@@ -28,7 +28,7 @@ Procedure
 Related
 --------------------------
 
-[Register questionnaire category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
+[Register questionnaire category](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
 
 !!! tip "About"
 

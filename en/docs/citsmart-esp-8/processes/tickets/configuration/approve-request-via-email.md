@@ -60,15 +60,15 @@ Procedure
 Related
 -------
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register user](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/users.html)
+[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Configure parametrization – email](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-email.html)
+[Configure parametrization – email](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
-[Configure parametrization - system](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-system.html)
+[Configure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'

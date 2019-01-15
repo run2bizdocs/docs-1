@@ -22,7 +22,7 @@ Procedure
 Related
 -----------
 
-[Register subscription](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/configuration/register-subscription.html)
+[Register subscription](/en-us/citsmart-esp-8/additional-features/contract-management/configuration/register-subscription.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
 

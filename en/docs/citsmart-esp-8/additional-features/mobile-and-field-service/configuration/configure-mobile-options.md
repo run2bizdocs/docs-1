@@ -26,9 +26,9 @@ Procedure
 Related
 -------
 
-CITSmart Enterprise ITSM Mobile application user guide (Android)
+[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-CITSmart Enterprise ITSM Mobile Application user guide (iOS)
+[CITSmart Enterprise ITSM Mobile Application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 
 !!! tip "About"

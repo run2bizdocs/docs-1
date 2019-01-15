@@ -20,7 +20,7 @@ Procedure
 Related
 -------
 
-[Register user](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/users.html)
+[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 
 !!! tip "About"

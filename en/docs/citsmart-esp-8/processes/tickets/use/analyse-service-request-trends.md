@@ -44,9 +44,9 @@ Procedure
 Related
 -----------
 
-[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Create ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-ticket.html)
+[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
 Register problem
 

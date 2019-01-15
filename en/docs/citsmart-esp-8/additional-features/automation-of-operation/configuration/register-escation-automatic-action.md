@@ -23,7 +23,7 @@ Procedure
 Related
 -------
 
-[Create escalation rule](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/create-escalation-rule.html)
+[Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
 !!! tip "About"

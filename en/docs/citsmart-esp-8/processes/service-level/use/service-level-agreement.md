@@ -29,17 +29,17 @@ Procedure
 Related
 -----------
 
-[Register priority](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-priority.html)
+[Register priority](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Create template of incident, request and procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/configuration/create-template-of-ticket.html)
+[Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
 
-[Service level requirement](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/use/service-level-requirement.html)
+[Service level requirement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
-[Register user](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/users.html)
+[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'

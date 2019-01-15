@@ -67,11 +67,11 @@ Access the EC home page and verify the information.
 Related
 -----------
 
-[Register satisfaction survey](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Register satisfaction survey](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-[Register a service](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Create knowledge](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/use/create-knowledge.html)
+[Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
 

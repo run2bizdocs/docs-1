@@ -32,17 +32,17 @@ Procedure
 Related
 -----------
 
-[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Relate information to the release request](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/relate-information-to-release.html)
+[Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
-[Register periodic activity group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 

@@ -41,9 +41,9 @@ Access the ticket you want and make the reclassification.
 Related
 -------
 
-[Reclassify ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/tickets/use/reclassify-ticket.html)
+[Reclassify ticket](/en-us/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-[Configure email template](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'

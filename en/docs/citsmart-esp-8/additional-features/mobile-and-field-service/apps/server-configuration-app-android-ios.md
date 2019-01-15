@@ -189,7 +189,7 @@ To enable an API for use, proceed as described below:
 Figure 8 - Google APIs
 
 3-  The API library will be displayed. Select the API you want to enable (the
-    figure below represents an example of API) and click the Activate API button
+    figure below represents an example of API) and click the "Activate API" button
     as indicated in the figure below:
 
 ![Google APIs](images/config-app-android-ios-9.png)
@@ -201,13 +201,13 @@ Figure 9 - Google APIs activation
 Related
 -------
 
-[Configure parametrization - mobile](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configure parametrization - mobile](/en-us/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
-[Cofigure parametrization - system](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-system.html)
+[Cofigure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (IOS)](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[CITSmart Enterprise ITSM Mobile application user guide (IOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 
 !!! tip "About"

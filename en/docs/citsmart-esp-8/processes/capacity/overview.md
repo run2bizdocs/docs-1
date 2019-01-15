@@ -1,4 +1,4 @@
-title: Capacity management
+title: Overview of capacity management
 Description: Capacity management considers all the resources needed to deliver an IT service
 #Capacity management
 
@@ -19,9 +19,9 @@ needs of the business".
 Use
 -------
 
-- [Register capacity indicators](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
+- [Register capacity indicators](/en-us/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
 
-- [Import capacity indicators data](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
+- [Import capacity indicators data](/en-us/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
 
 !!! tip "About"
 

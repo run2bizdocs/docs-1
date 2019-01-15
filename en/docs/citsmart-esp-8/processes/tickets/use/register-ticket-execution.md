@@ -53,9 +53,9 @@ Procedure
 Related
 -----------
 
-[Register solution category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-solution-category.html)
+[Register solution category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-[Register cause of incidents](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+[Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

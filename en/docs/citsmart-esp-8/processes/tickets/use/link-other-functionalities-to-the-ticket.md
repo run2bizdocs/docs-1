@@ -66,19 +66,19 @@ Procedure
 Related
 -----------
 
-[Register configuration item](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Create knowledge](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/knowledge/use/create-knowledge.html)
+[Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 Register request of change
 
-[Register release request](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/release/use/register-release-request.html)
+[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 Register problem
 
-[Configure parametrization - ticket](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Register project](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/project-management/project-management/use/register-project.html)
+[Register project](/en-us/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

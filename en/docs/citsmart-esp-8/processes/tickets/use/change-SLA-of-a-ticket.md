@@ -27,9 +27,9 @@ Procedure
 Related
 -----------
 
-[Register request justification](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/configuration/register-request-justification.html)
+[Register request justification](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-[Create calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

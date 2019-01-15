@@ -42,15 +42,15 @@ Procedure
 Related
 -----------
 
-[Register a contract](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Create the portfolio](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Register escalation automatic action](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
+[Register escalation automatic action](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

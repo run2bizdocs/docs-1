@@ -1,4 +1,4 @@
-title: Availability management
+title: Overview of Availability management
 Description: Availability management defines, analyses, plans, measures and improves all aspects of the availability of IT services
 #Availability management
 
@@ -20,18 +20,18 @@ appropriate for the agreed service level targets for availability".
 Use
 -------
 
-- [Verify configuration item availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
+- [Verify configuration item availability](/en-us/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
-- [Verify CI group availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
+- [Verify CI group availability](/en-us/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
 
-- [Verify availability of availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/availability-group.html)
+- [Verify availability of availability group](/en-us/citsmart-esp-8/processes/availability/use/availability-group.html)
 
-- [Verify service availability](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/use/service-availability.html)
+- [Verify service availability](/en-us/citsmart-esp-8/processes/availability/use/service-availability.html)
 
 Configuration
 -----------------
 
-- [Register availability group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
+- [Register availability group](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 

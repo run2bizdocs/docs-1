@@ -12,7 +12,7 @@ Procedure
 1.  Access the functionality through the main menu Access and Permission \>
     SmartDecisions;
 
-2.  Select the item you want to set the permission and click on Edit;
+2.  Select the item you want to set the permission and click on "Edit";
 
 3.  Click on "Link group";
 

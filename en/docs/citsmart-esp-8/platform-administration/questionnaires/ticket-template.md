@@ -54,15 +54,15 @@ Procedure
 
 -   **Neuro**: when you select this option, the Neuro form link field and Neuro
     page are made available. You can also elect the **version** of the form by
-    clicking the *Specific Version* button on the form. The template rules of
+    clicking the "Specific Version" button on the form. The template rules of
     the Questionnaire type are valid for the Neuro type template.
 
 Related
 -----------
 
-[Workflow maintenance](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Register questionnaire](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Register questionnaire](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"

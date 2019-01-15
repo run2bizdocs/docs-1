@@ -27,9 +27,9 @@ Procedure
 Related
 -------
 
-[Register unit](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Register position](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/position.html)
+[Register position](/en-us/citsmart-esp-8/initial-settings/access-settings/user/position.html)
 
 !!! tip "About"
 

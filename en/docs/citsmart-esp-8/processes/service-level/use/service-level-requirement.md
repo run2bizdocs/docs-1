@@ -29,7 +29,7 @@ Click on "Search" to check the requirement.
 Related
 -----------
 
-[Register employee](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/2-initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
 

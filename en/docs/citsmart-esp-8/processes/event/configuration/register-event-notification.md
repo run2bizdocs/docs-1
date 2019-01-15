@@ -37,13 +37,13 @@ Procedure
 Related
 -------
 
-[Configure email templates](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/4-platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email templates](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Register notification recipient](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-notification-recipient.html)
+[Register notification recipient](/en-us/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
-[Register EPL template](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-epl-template.html)
+[Register EPL template](/en-us/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 
-[Register notification template](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/communication-and-notification/notification/configuration/template-create.html)
+[Register notification template](/en-us/citsmart-esp-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
 
 
 !!! tip "About"

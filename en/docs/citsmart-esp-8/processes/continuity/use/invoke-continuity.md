@@ -59,43 +59,43 @@ Procedure
 Related
 -----------
 
-[Register impact analysis in the continuity business](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/impact-analysis-continuity-business.html)
+[Register impact analysis in the continuity business](/en-us/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Register continuity risk evaluation](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-risk-evaluation.html)
+[Register continuity risk evaluation](/en-us/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[Register continuity awareness](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-awareness.html)
+[Register continuity awareness](/en-us/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
 
-[Register service continuity](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-service-continuity.html)
+[Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Register service continuity strategy](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-strategy.html)
+[Register service continuity strategy](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Register continuity test registration](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-test-registration.html)
+[Register continuity test registration](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-[Register threat](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-threat.html)
+[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Register service continuity vital functions](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-vital-functions.html)
+[Register service continuity vital functions](/en-us/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Register threat category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/threat-category.html)
+[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Register risk category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/risk-category.html)
+[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Register service continuity scope](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-scope.html)
+[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Register continuity organizational planning](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-organizational-planning.html)
+[Register continuity organizational planning](/en-us/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Register continuity plan](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-plan.html)
+[Register continuity plan](/en-us/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-[Register continuity risk](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/register-continuity-risk.html)
+[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Continuity test calendar](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-test-calendar.html)
+[Continuity test calendar](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-calendar.html)
 
-[Define service continuity policy](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/continuity-policy.html)
+[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Define service continuity project](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/service-continuity-project.html)
+[Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Review and audit service continuity](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/continuity/use/review-and-audit-continuity.html)
+[Review and audit service continuity](/en-us/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
 
-[Register automatic actions of incident/request/procedure](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
 

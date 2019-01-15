@@ -61,15 +61,15 @@ Procedure
 Related
 -------
 
-[Register occurrence category](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-occurence-category.html)
+[Register occurrence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-evente-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
 
-[Register time](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/register-time.html)
+[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
-[Register automatic action](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/3-additional-features/automation-of-operation/configuration/register-automatic-action.html)
+[Register automatic action](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
 
 !!! tip "About"

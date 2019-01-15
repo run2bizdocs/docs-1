@@ -25,9 +25,9 @@ Procedure
 Related
 -----------
 
-[Service level agreement](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/service-level/use/service-level-agreement.html)
+[Service level agreement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-[Register configuration item group](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/5-processes/configuration/configuration/register-configuration-item-group.html)
+[Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
