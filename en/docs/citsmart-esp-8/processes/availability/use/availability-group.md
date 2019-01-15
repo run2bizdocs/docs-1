@@ -4,7 +4,8 @@ Description: Is intended to verify the availability group.
 #Verify availability of availability group
 This functionality is intended to verify the availability group.
 
-### Before getting started
+Before getting started
+----------------------
 
 The verification of this availability requires the previous registration of the
 availability group. It is also necessary to link the calendar, the service level
