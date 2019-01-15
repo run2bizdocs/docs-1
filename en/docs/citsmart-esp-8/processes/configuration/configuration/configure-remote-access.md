@@ -27,7 +27,7 @@ Related
 
 [Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Register time](/en/site/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
 
 [Configure parametrization – system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
