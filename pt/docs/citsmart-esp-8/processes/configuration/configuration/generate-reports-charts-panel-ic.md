@@ -1,36 +1,40 @@
-title: Generate reports through the charts and reports panel - configuration items
-Description: This report allows to verify the information on the configuration items.
-#Generate reports through the charts and reports panel - configuration items
+title: Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração
+Description: Permite verificar as informações dos itens de configuração.
+#Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração
 
-This report allows to verify the information on the configuration items.
+Este relatório permite verificar as informações dos itens de configuração.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  In the field "Information Group", select the option "Configuration Items";
+2.  No campo "Grupo de Informações" selecionar a opção "Itens de Configuração";
 
-3.  Click on the report "Inventory";
+3.  Clicar sobre o relatório "Inventário";
 
-4.  Set the filters as necessary and click on "Generate";
+4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  It will be presented the inventory report according to the filters set;
+5.  Será apresentado o relatório de inventário de acordo com os filtros
+    definidos;
 
-6.  There are several ways to view the reports through four icons:
+6.  Existem diversas formas de visualizar os relatórios através de quatro
+    ícones:
 
-    -   To generate table with information, click on the “Table” icon;
+    -   Para gerar uma tabela com informações, clicar no ícone “Tabela”;
 
-    -   To present the option of charts, click on the “Charts” icon and select
-        the form of the chart;
+    -   Para exibir as opções de gráficos, clicar no ícone “Gráficos” e
+        selecionar a forma do gráfico desejada;
 
-    -   To generate a report in PDF, click on the “Download PDF document“ icon;
+    -   Para gerar um relatório no formato PDF, clicar no ícone “Download
+        documento PDF”;
 
-    -   To generate a report in Excel, click on the “Download document XLS”
-        icon.
+    -   Para gerar um relatório no formato Excel, clicar no ícone “Download
+        documento XLS”.
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins

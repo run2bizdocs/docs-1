@@ -1,28 +1,30 @@
-title: Register definitive media
-Description: Register the authorized and definitive versions of all Configuration Items (CI) of Software in a safe way.
-#Register definitive media
+title: Cadastrar mídia definitiva
+Description: Registrar as versões definitivas e autorizadas de todos os Itens de Configuração (ICs) de Software de maneira segura.
+#Cadastrar mídia definitiva
 
-This functionality has the objective to register the authorized and definitive
-versions of all Configuration Items (CI) of Software in a safe way.
+Esta funcionalidade tem por objetivo registrar as versões definitivas e
+autorizadas de todos os Itens de Configuração (ICs) de Software de maneira
+segura.
 
-It can have configuration items associated with licenses and documentation.
+Pode conter itens de configuração associados com licenças e documentação.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a definitive media.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir uma mídia definitiva.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> Configuration Item \> Media Software;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> Item de Configuração \> Mídia Software;
 
-2.  Complete the fields available in three fields: Basic Data, Licenses and
-    Knowledge;
+2.  Preencher os campos disponibilizados nos três campos: Dados Básicos,
+    Licenças e Conhecimento;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins

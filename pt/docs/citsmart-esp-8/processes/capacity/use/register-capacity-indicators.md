@@ -1,23 +1,21 @@
-title: Register capacity indicators
+title: Cadastrar indicadores de capacidade
+Description: Esta funcionalidade disponibiliza ações diversas.
+#Cadastrar indicadores de capacidade
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os indicadores de capacidade/performance que serão vinculados aos Serviços e aos Itens de Configuração (IC).
 
-Description: Provides a variety of actions.
-#Register capacity indicators
+Procedimento
+----------------
 
-This feature provides a variety of actions, such as including, changing, and deleting the capacity/performance indicators that will be linked to Services and Configuration Items (CI).
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Capacidade \> Indicadores de Capacidade/Performance;
 
-Procedure
--------------
+2.  Clicar na aba **Registrar**;
 
-1.  Access the functionality through the main menu Processes \> Capacity
-    Management \> Capacity/Performance Indicators;
+3.  Preencher os campos disponibilizados;
 
-2.  Click on the **Register** tab;
-
-3.  Complete the fields available;
-
-4.  Click on "Save".
+4.  Clicar em "Gravar".  
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço

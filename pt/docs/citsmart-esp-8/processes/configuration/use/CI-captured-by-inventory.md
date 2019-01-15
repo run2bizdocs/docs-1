@@ -1,20 +1,19 @@
-title: Verify configuration item captured by Inventory (agent)
-Description: Is intended to present the details about the Configuration Items collected by the inventory routine.
-#Verify configuration item captured by Inventory (agent)
-This functionality is intended to present the details about the Configuration Items collected by the inventory routine.
+title:  Verificar itens de configuração capturados pelo Inventory (agente)
+Description: Tem por objetivo apresentar os detalhes dos Itens de Configuração coletados pela rotina de inventário. 
+#Verificar itens de configuração capturados pelo Inventory (agente)
+Esta funcionalidade tem por objetivo apresentar os detalhes dos Itens de Configuração coletados pela rotina de inventário.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> View Assets;
+1.  Acesse a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> Visualização de Ativos;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Search"
-
+3.  Clicar no botão "Pesquisar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço

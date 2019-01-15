@@ -1,36 +1,39 @@
-title: Create configuration item related to a CI
-Description: Register a configuration item to other CI.
-#Create configuration item related to a CI
-This functionality allows to register a configuration item to other CI.
+title: Criar item de configuração relacionado a um I
+Description: Permite registrar um item de configuração a outro IC.
+#Criar item de configuração relacionado a um IC
 
-Before getting started
---------------------------
+Esta funcionalidade permite registrar um item de configuração a outro IC.
 
-It's necessary to previously register a configuration item.
+Antes de começar
+--------------------
 
-Procedure
--------------
+É necessário ter registrado previamente um item de configuração.
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+Procedimento
+----------------
 
-2.  Search the configuration item;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-3.  Click on the configuration item;
+2.  Realizar a busca do item de configuração;
 
-4.  Click on the “Create related configuration item” button;
+3.  Clicar sobre o item de configuração;
 
-5.  Complete the mandatory data of each tab presented;
+4.  Clicar no botão “Criar item de configuração relacionado”;
 
-6.  Click on the “Save” button.
+5.  Preencher os dados obrigatórios referentes a cada uma das guias
+    apresentadas;
 
-Related
--------
+6.  Clicar no botão “Gravar”.
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+
+Relacionado
+-----------
+
+Cadastrar item de configuração
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins

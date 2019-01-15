@@ -15,7 +15,7 @@ Pra realizar o cadastro do grupo de disponibilidade é necessário registrar o
 calendário previamente.
 
 Procedimento
-----------------
+------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Disponibilidade \> Grupo de Disponibilidade;
@@ -28,10 +28,11 @@ Procedimento
 4.  Clicar no botão "Gravar".
 
 Relacionado
+-----------
 
 Criar calendário
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
