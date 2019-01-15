@@ -1,43 +1,46 @@
-title: Register notification recipient
-Description: Set the recipients that will receive the notifications.
-#Register notification recipient
+title: Cadastrar destinatário da notificação
+Description: Configurar os destinatários que receberão as notificações. O destinatário pode ser um ou mais colaboradores e/ou grupos.
+#Cadastrar destinatário da notificação
 
-This functionality is intended to set the recipients that will receive the
-notifications. The recipient can be one or more employee and/or group.
+Esta funcionalidade tem como objetivo de configurar os destinatários que
+receberão as notificações.O destinatário pode ser um ou mais colaboradores
+e/ou grupos.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a recipient.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um destinatário.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To register the notifical recipient, it's necessary to previously register the
-employee and group.
+Para cadastrar o destinatário da notificação é necessário registrar o
+colaborador e o grupo previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Process \> Event Management
-    \> Business Monitor \> Recipient Configuration;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Monitor Negócio \> Destinatário;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on the tab Recipients - Employee and then on "Add" to link the
-    employee;
+3.  Clicar na aba Destinatários-Colaboradores e em seguida no botão "Adicionar"
+    para vincular colaboradores;
 
-4.  Click on the tab Recipients - Groups and then on "Add" to link groups;
+4.  Clicar na aba Destinatários-Grupos e em seguida no botão "Adicionar" para
+    vincular grupos;
 
-5.  Click on "Save".
+5.  Clicar em "Gravar".
 
-Related
--------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Relacionado
+-----------
 
-[Register employee](/en-us/citsmart-esp-8/platform-administration/data-and-import/employee-import.html)
+Cadastrar um grupo
+
+Cadastrar um colaborador
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
