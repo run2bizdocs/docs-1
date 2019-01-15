@@ -1,0 +1,42 @@
+<p>&nbsp;</p>
+
+<p>Dear Mr/Ms&nbsp;Approvers,</p>
+
+<p>We inform that the request number ${IDSOLICITACAOSERVICO} is waiting for its approval, according to the data below:</p>
+
+<p>Number: ${IDSOLICITACAOSERVICO}<br />
+Type: $ {DEMANDA}<br />
+Service: $ {SERVICO}</p>
+
+<p>Description:<br />
+$ {DESCRICAO}</p>
+
+<div><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, VIEW, 50)}" style="height:30px;v-text-anchor:middle;width:150px;float:left;" arcsize="14%" strokecolor="#1e3650" fillcolor="#337ab7">
+<w:anchorlock/>
+<center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">VISUALIZAR</center>
+</v:roundrect>
+<![endif]--><a href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, VIEW, 50)}" style="background-color:#337ab7;border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:30px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;">VISUALIZAR</a><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, APROBAR, 50)}" style="height:30px;v-text-anchor:middle;width:150px;float:left;" arcsize="14%" strokecolor="#1e3650" fillcolor="#7cb546">
+<w:anchorlock/>
+<center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">APROBAR</center>
+</v:roundrect>
+<![endif]--><a href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, APROBAR, 50)}" style="background-color:#7cb546;border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:30px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;">APROBAR</a><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, REJECT, 50)}" style="height:30px;v-text-anchor:middle;width:150px;float:right;" arcsize="14%" strokecolor="#1e3650" fillcolor="#d9534f">
+<w:anchorlock/>
+<center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">REJECT</center>
+</v:roundrect>
+<![endif]--><a href="{TOKEN(serviceRequestIncident, ${IDSOLICITACAOSERVICO}, REJECT, 50)}" style="background-color:#d9534f;border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:30px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;">RECHAZAR</a></div>
+
+<p>&nbsp;Best regards,<br />
+Single Point of Contact - HelpDesk<br />
+Information Technology Superintendence - STI<br />
+Phone: 0800 777 7714<br />
+E-mail: portaldeservicos@citsmart.com<br />
+www.citsmart.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
