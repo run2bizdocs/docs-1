@@ -27,15 +27,14 @@ Procedimento
     abertas duas caixas que se referem a Período e Formato do período, marcar a
     opção que melhor se encaixe e gravar as configurações;
 
-![inventory integration](images/conexao-inventory.png)
+![inventory integracao](images/conexao-inventory.png)
 
    Figura 1 -Integração CITSmart inventory
 
 
 4-  Se o tipo de conexão escolhida for o OCS Inventory será apresentado o campo de configuração do mesmo para ser informado o repositório de XML, conforme ilustrado abaixo. Além disso, existem alguns *pré-requisitos* muito relevantes que devem ser observados:
 
-
-![inventory integration](images/conexao-inventory-2.png)
+![ocs](images/conexao-inventory-2.png)
    
 Figura 2 -Integração CITSmart inventory - OCS inventory
 
