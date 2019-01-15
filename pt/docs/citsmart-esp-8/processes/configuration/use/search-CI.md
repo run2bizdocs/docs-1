@@ -15,7 +15,7 @@ Antes de começar
 Para pesquisar itens de configuração são necessários o cadastro prévio de um
 item de configuração e o tipo de item de configuração.
 
-*Procedimento
+Procedimento
 ----------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
