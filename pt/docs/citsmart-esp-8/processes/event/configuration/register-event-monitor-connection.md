@@ -1,35 +1,35 @@
-title: Register Event Monitor Connection
-Description: Register all priorities about the CITSmart Event Monitor connection.
-#Register Event Monitor Connection
+title: Cadastrar Conexão Event Monitor
+Description: Cadastrar todas as propriedades referentes à conexão do CITSmart Event Monitor, de acordo com o IP e porta onde está instalado o Jboss do CITSmart Event Monitor (EVM).
+#Cadastrar Conexão Event Monitor
 
-This functionatilty has the objective of register all priorities about the
-CITSmart Event Monitor connection, according to the IP and the port where the
-Jboss of CITSmart Event Monitor (EVM) is installed.
+Esta funcionalidade tem como objetivo cadastrar todas as propriedades referentes
+à conexão do CITSmart Event Monitor, de acordo com o IP e porta onde está
+instalado o Jboss do CITSmart Event Monitor (EVM).
 
-This feature provides a variety of actions, such as including, changing, and
-deleting all priorities about the CITSmart Event Monitor connection.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as propriedades referentes à conexão do CITSmart Event Monitor.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-The functionality configuration requires a server with EVM and Mongo application
-functional and communicable with ITSM.
+A configuração da funcionalidade requer um servidor com aplicação EVM e Mongo
+funcional e comunicável com o ITSM.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Connections \> Event Monitor Connections;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Conexões \> Event Monitor;
 
-2.  In the tab CITSmart Event Monitor Connection Registration, complete the
-    fields available;
+2.  Na aba Cadastro de Conexão do CITSmart Event Monitor, preencher os campos
+    disponibilizados;
 
-3.  Click on "Test Connection";
+3.  Clicar no botão "Testar Conexão";
 
-4.  Click on "Save".
+4.  Clicar no botão "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
