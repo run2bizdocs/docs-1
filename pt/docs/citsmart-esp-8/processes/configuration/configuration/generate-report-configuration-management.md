@@ -1,36 +1,37 @@
-title: Generate report - configuration management
-Description: Generate reports of configuration managament. 
-#Generate report - configuration management
+title: Gerar relatórios - Gerência de configuração
+Description: Objetivo de apresentar as chaves(licenças) válidas, inválidas e duplicadas das mídias.
+#Gerar relatórios - Gerência de configuração
 
-Generate report of configuration item - Office package
-----------------------------------------------------------
+Gerar relatório de Item de configuração - Pacote Office
+-----------------------------------------------------------
 
-This report has the objective or present the validated, invalidated and
-duplicated keys (licenses) of medias.
+Este relatório tem o objetivo de apresentar as chaves(licenças) válidas,
+inválidas e duplicadas das mídias.
 
-1.  Access the functionality through the main menu Reports \> Configuration
-    Management \> Office Package Configuration Item Report;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Configurações \> Relatório Item Configuração Pacote Office;
 
-2.  Click on the field "Media" to search and select the media you want to
-    generate the report. It will be presented the fields to filter the
-    validated, invalidated and duplicated keys (licenses).
+2.  Clicar sobre o campo "Mídia" para pesquisar e selecionar a mídia desejada
+    para gerar o relatório. Será, então, exibido os campos para filtrar as
+    chaves (licenças) válidas, inválidas e duplicadas;
 
-!!! Abstract "ATTENTION"
+!!! Abstract "ATENÇÃO"
 
-    The licenses (valid) keys will be considered those that are registered in
-    the media registration.  
+    As chaves licenciadas (válidas) serão consideradas as que estiverem
+    registradas no cadastro de mídia.  
 
-Generate report of change/configuration item
-------------------------------------------------
+Gerar relatório de Mudança/Item de configuração
+---------------------------------------------------
 
-This report has the objective of provide the information of the different
-request for change related to the same configuration item.
+Este relatório tem o objetivo de fornecer as informações das diferentes
+requisições de mudança relacionadas ao mesmo item de configuração.
 
-1.  Access the functionality through the main menu Reports \> Configuration
-    Management \> Change/Configuration Item;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Configurações \> Mudança/Item Configuração;
 
-2.  Set the filters (opening period, number of chage and contract item,
-    contract) as necessary.
+2.  Definir os filtros (período de abertura, número da mudança e item de
+    contrato, contrato) conforme a necessidade.
+
 
 !!! tip "About"
 
