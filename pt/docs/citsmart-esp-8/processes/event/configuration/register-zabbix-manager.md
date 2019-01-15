@@ -35,13 +35,13 @@ Procedimento
     esse registro só poderá ser realizado caso não haja um IC com a mesma
     identificação do Host:
 
--   Informe os dados do item de configuração filho;
+    -   Informe os dados do item de configuração filho;
 
--   Conduzir uma relação entre o serviço Host e o item de configuração filho.
-    Cada serviço host deve estar relacionado ao seu respectivo item de
-    configuração filho.
+    -   Conduzir uma relação entre o serviço Host e o item de configuração filho.
+        Cada serviço host deve estar relacionado ao seu respectivo item de
+        configuração filho.
 
-Clicar no botão "Gravar".
+1.  Clicar no botão "Gravar".
 
 
 Relacionado
