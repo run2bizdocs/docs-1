@@ -41,7 +41,7 @@ Related
 
 [Register notification recipient](/en-us/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
-[Register EPL template](/en/site/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
+[Register EPL template](/en-us/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 
 [Register notification template](/en-us/citsmart-esp-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
 
