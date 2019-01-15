@@ -30,7 +30,7 @@ cadastradas.
 3.  Ao lado de cada registro de requisição de mudança da lista, há ícones que
     permite realizar as seguintes realizar as seguintes ações: visualizar as
     informações ao clicar no botão "Visualizar" e visualizar os anexos da
-    requisição de mudança ao clicar no ícone “Anexo”;
+    requisição de mudança ao clicar no ícone “Ver Anexo”;
 
 4.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
     clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
