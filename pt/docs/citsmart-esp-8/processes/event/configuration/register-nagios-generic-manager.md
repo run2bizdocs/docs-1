@@ -1,50 +1,52 @@
-title: Register Nagios generic manager
-Description: To register and maintain the generic managers, who will be responsible for monitoring the hosts and/or services of the Nagios monitoring tool.
-#Register Nagios generic manager
+title: Cadastrar gerente genérico Nagios
+Description: Cadastrar e manter os gerentes genéricos que serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de monitoramento Nagios.
+#Cadastrar gerente genérico Nagios
 
-The purpose of this functionlaity is to register and maintain the generic
-managers, who will be responsible for monitoring the hosts and/or services of
-the Nagios monitoring tool.
+O objetivo desta funcionalidade é cadastrar e manter os gerentes genéricos que
+serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de
+monitoramento Nagios.
 
-The managers allow the monitoring of all hosts or all services in a generic way,
-that is, without the need to choose a specific host for monitoring.
+Os gerentes permitem o monitoramento de todos os hosts ou todos os serviços de
+forma genérica, ou seja, sem a necessidade de escolher um host específico para
+monitoramento.
 
-The purpose is to simplify the monitoring of an entire network in search of the
-relevant events for the business.
+A finalidade é simplificar o monitoramento de uma rede inteira em busca dos
+eventos relevantes para o negócio.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a Nagios generic manager.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um gerente genérico Nagios.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To register the Nagios generic manager, it's necessary to previously register
-the CITSmart Event Monitor connection, the time, occurrence category, automati
-action and the CITSmart Inventory connection.
+Para cadastrar o gerente genérico Nagios é necessário cadastrar previamente a
+conexão do CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação
+automática e a conexão do CITSmart Inventory.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Nagios \> Nagios Generic Manager;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Monitor Nagios \> Gerente Genérico Nagios** **;
 
-2.  Complete all fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-Related
--------
 
-[Register occurrence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+Relacionado
+-----------
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
+Cadastrar categoria de ocorrência
 
-[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
+Cadastrar Conexão Event Monitor
 
-[Set Inventory connection](/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+Cadastrar horário
+
+Configurar conexão Inventory
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
