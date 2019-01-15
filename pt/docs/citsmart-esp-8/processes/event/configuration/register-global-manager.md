@@ -39,7 +39,7 @@ Procedimento
          -   Selecionar a ação que será disparada quando houver uma ocorrência de
              evento do tipo information, o grau de urgência e impacto. As regras para
              essa ação, são definidas utilizando a Linguagem de Processamento de
-             Eventos - EPL. Clicar no botão*Validar EPL de Information* para validar
+             Eventos - EPL. Clicar no botão "Validar EPL de Information" para validar
              a EPL informada.
 
     -   Informe os dados da **Ação para Warning**:
@@ -47,7 +47,7 @@ Procedimento
         -   Selecionar a ação que será disparada quando houver uma ocorrência de
             evento do tipo warning, o grau de urgência e impacto. As regras para
             essa ação, são definidas utilizando a Linguagem de Processamento de
-            Eventos - EPL. Clicar no botão *Validar EPL de Warning* para validar a
+            Eventos - EPL. Clicar no botão "Validar EPL de Warning" para validar a
             EPL informada.
 
     -   Informe os dados da **Ação para Exception**:
@@ -55,7 +55,7 @@ Procedimento
         -   Selecionar a ação que será disparada quando houver uma ocorrência de
             evento do tipo exception, o grau de urgência e impacto. As regras para
             essa ação, são definidas utilizando a Linguagem de Processamento de
-            Eventos - EPL. Clicar no botão *Validar EPL de Exception* para validar a
+            Eventos - EPL. Clicar no botão "Validar EPL de Exception" para validar a
             EPL informada.
 
 1.  Clicar no botão "Gravar".
