@@ -1,36 +1,35 @@
-title: Run script of the configuration item
+title: Executar script referente ao item de configuração
+Description: Permite executar script de um item de configuração. 
+#Executar script referente ao item de configuração
+Esta funcionalidade permite executar script de um item de configuração.
 
-Description: Allows to run the script of a configuration item.
-#Run script of the configuration item
-This functionality allows to run the script of a configuration item.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+É necessário ter registrado previamente um item de configuração.
 
-It's necessary to previously register a configuration item.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+2.  Realizar a busca do item de configuração;
 
-2.  Search the configuration item;
+3.  Clicar sobre o item de configuração;
 
-3.  Click on the configuration item;
+4.  Clicar no botão “Executar script”;
 
-4.  Click on the button “Run script” ;
+5.  Descrever os scripts;
 
-5.  Describe the scripts;
+6.  Clicar em "Executar Script".
 
-6.  Click on "Run Script".
+Relacionados
+----------------
 
-Related
------------
-
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
