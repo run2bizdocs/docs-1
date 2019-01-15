@@ -1,42 +1,39 @@
-title: Analyze configuration item impact
+title: Realizar análise de impacto do item de configuração
+Description: Permite realizar a análise de impacto de um item de configuração.
+#Realizar análise de impacto do item de configuração
+Esta funcionalidade permite realizar a análise de impacto de um item de configuração.
 
-Description: Allows to make an impact analysis of a configuration item.
+Antes de começar
+--------------------
 
-#Analyze configuration item impact
-This functionality allows to make an impact analysis of a configuration item.
+Para verificar a análise de impacto é necessário ter registrado o item de
+configuração previamente.
 
-Before getting started
---------------------------
+Procedimento
+----------------
 
-To verify the impact analysis, it's necessary to previously register the
-configuration item.
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-Procedure
--------------
+2.  Realizar a consulta do item de configuração, clicar sobre o item;
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+3.  Na tela de informações do determinado item de configuração localizar a
+    guia **Serviços Impactados**;
 
-2.  Search for the configuration item and click on it;
+4.  Clicar sobre a guia para visualizar informações;
 
-3.  In the information screen of the configuration item, find the **Impacted
-    Services**;
+5.  Para visualizar a hierarquia dos serviços relacionados ao IC, clicar no
+    botão" Serviço Impactados";
 
-4.  Click on the tab to view the information;
+6.  Para visualizar o mapa de fluxo do item de configuração, clicar no
+    botão “Visualizar mapa de relacionamentos (automático).
 
-5.  To view the hierarchic of services related to the CI, click on "Impacted
-    Service";
+Relacionados
+----------------
 
-6.  To view the flow map of configuration item, click on “View relationship map
-    (automatic)” button.
-
-Related
------------
-
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
