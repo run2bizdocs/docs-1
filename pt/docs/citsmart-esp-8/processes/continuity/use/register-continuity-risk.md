@@ -1,39 +1,39 @@
-title: Register continuity risk
-Description: This functionality is intended to register the risks that will be used during the Continuity registration.
-#Register continuity risk
-This functionality is intended to register the risks that will be used during the Continuity registration.
+title: Cadastrar o risco de continuidade
+Description: Tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade. 
+#Cadastrar o risco de continuidade
+Esta funcionalidade tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register the threat and risk category.
+É necessário o cadastro prévio da ameaça e da categoria de risco.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Risk Registration;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Cadastro de Risco;
 
-2.  In the **Risk registration** tab, complete the necessary fields (risk name,
-    select the name, category, risk level, and provide a description for the
-    risk);
+2.  Na aba **Cadastro de risco**, preencher os campos necessários (o nome do
+    risco, selecionar o nome a categoria e o nível do risco, fornecer uma
+    descrição do risco);
 
-3.  To link threats to the risk, click on "Link Threat" to search and link the
-    threat. If you want to create a new threat from this screen, click on "New
-    Threat" and complete the fields necessary;
+3.  Para vincular ameaças ao risco, clicar no botão "Vincular Ameaça" para
+    pesquisar e vincular a ameaça. Se desejar criar uma nova ameça a partir
+    desta tela, clicar no botão "Nova Ameaça" e preencher os campos necessários;
 
-4.  Click on "Save".
+4.  Clicar no botão "Gravar" para efetuar operação.
 
-Related
------------
+Relacionados
+----------------
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar ameaça
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar categoria de risco
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
