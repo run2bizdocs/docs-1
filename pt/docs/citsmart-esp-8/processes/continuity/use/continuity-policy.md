@@ -1,72 +1,71 @@
-title: Define service continuity policy
+title: Definir a política de continuidade do serviço
+Description: Esta funcionalidade permite definir a política.
+#Definir a política de continuidade do serviço
+O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir a política.
+A política deve ser definida e comunicada o mais cedo possível para que todos os membros da organização envolvidos ou afetados pela continuidade de negócio sejam conscientizados sobre suas responsabilidades para suportar o Gerenciamento de Continuidade do Serviço de TI (GCSTI) de acordo com os objetivos da política.
 
-Description: Allows to set the policy. 
-#Define service continuity policy
-The Continuity Registration is a process that pass through several phases. The first phase of this process, called Initiation, is where it's set the policy, scope and IT service continuity project. This functionality allows to set the policy.
-The policy should define and communicate, as soon as possible, to all members of the organization involved or affected by the business continuity, to be aware about its responsibilities to support the IT Service Continuity Management (ITSCM) according to the objectives of the policy.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-It assumes the existence of a defined service in a Portfolio and Catalog
-Management process.
+É fundamental primeiramente ter o Registro de Continuidade já cadastrado.
 
-It's necessary to firstly have registered the Continuity Registration.
+É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
+categoria de ameaça à ameaça cadastrada.Também é essencial cadastrar,
+anteriormente, o risco e a categoria de risco
 
-It's necessary to have registered the threat and threat category, both linked to
-each other. It's also necessary to register the risk and risk category.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-It's equally essential to have registered the automatic actions of incident,
-request and procedure about the Event Management.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+2.  Localizar a continuidade do qual deseja vincular a política e clicar no
+    botão "Avançar";
 
-2.  Find the continuity you want to link the policy and click on "Advance";
+3.  Na área **Iniciação**, clicar em "Política" e em seguida na aba "Cadastrar
+    Política";
 
-3.  In **Initiation**, click on "Policy" and then on "Policy Registration";
+4.  Preencher os campos necessários (título da política, a versão, data de
+    validade, descrição e vincular o responsável pela política);
 
-4.  Complete the fields necessary (policy title, version, deadline, description
-    and link the responsible for the policy);
+5.  Para anexar algum arquivo, clicar na aba "Anexar" e sem seguida "Adicionar o
+    arquivo" para vincular o arquivo;
 
-5.  To attach some file, click on the tab "Attach" and then on "Add file" to
-    link the file;
+6.  Clicar no botão "Gravar" para efetuar a operação.
 
-6.  Click on "Save".
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Depois de definir a política de continuidade do serviço é necessário executar a
+seguinte ação: cadastrar o escopo da continuidade, sendo esta ação parte da fase
+de Iniciação do registro completo da continuidade.
 
-After define the service continuity policy, it's necessary to execute the
-following action: register the continuity scope, being this action part of the
-Initiation phase of the complete registration of continuity.
+Relacionados
+----------------
 
-Related
------------
+Cadastrar ameaça
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar categoria de ameaça
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar categoria de risco
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar o risco de continuidade
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar a continuidade de serviço
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
