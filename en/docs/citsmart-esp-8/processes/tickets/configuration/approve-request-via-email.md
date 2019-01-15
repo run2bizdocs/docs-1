@@ -35,18 +35,18 @@ Procedure
 
 *Configure the email approval notification*
 
-1.  Access the functionality through the menu** **System \> Settings \> Email
+1.  Access the functionality through the menu System \> Settings \> Email
     template;
 
 2.  Paste the email template available in HTML in attachment, in the Text field
     and verify the following guidelines:
 
-    - href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+    - href="{TOKEN(serviceRequestIncident, \${IDSERVICEREQUEST}, VIEW, 50)};
 
     - serviceRequestIncident = Interface directing: this field cannot be changed
     by the user;
 
-    - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
+    - \${IDSERVICEREQUEST} = Key to increment the number of the service
     request: this field cannot be changed by the user;
 
     - VIEW - calls the command to open the request: this field cannot be changed
