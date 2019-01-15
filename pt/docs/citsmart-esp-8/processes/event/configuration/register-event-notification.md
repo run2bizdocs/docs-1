@@ -28,10 +28,10 @@ Procedimento
 
 3.  Na área Notificação em Tela:
 
--   clicar em " Vincular usuário", para vincular usuário(s) à notificação em
-    tela;
+    -   clicar em " Vincular usuário", para vincular usuário(s) à notificação em
+        tela;
 
--   clicar em " Vincular grupo", para vincular grupo(s) à notificação em tela.
+    -   clicar em " Vincular grupo", para vincular grupo(s) à notificação em tela.
 
 1.  Clicar em "Gravar".
 
