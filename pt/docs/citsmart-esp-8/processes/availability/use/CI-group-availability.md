@@ -20,7 +20,7 @@ Procedimento
 
 2.  Clicar na guia Grupo Item de Configuração;
 
-3.  Clicar no símbolo “+” localizado na área Filtros, para buscar o grupo de IC
+3.  Clicar no símbolo “+” localizado na área "Filtros", para buscar o grupo de IC
     desejado;
 
 4.  Podem ser adicionados vários itens, quantos desejar, para verificação;
