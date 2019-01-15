@@ -35,7 +35,7 @@ Procedimento
 
 3.  Na área **Operação Continua**, clicar em "Invocação".
 
-4.  Para iniciar** **o procedimento de continuidade, os dados básicos dos
+4.  Para iniciar o procedimento de continuidade, os dados básicos dos
     procedimentos já devem estar registrados nas
     Iniciativas/Solicitações/Procedimentos Ação Automática.
 
