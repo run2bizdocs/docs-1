@@ -12,7 +12,7 @@ ter relacionado os mesmos previamente.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade** **através da navegação no menu principal
+1.  Acessar a funcionalidade através da navegação no menu principal
     Processos \> Gerência de Configuração \> CMDB;
 
 2.  Realizar a consulta do item de configuração, clicar sobre o item;
