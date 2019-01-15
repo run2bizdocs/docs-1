@@ -1,79 +1,80 @@
-title: Register service continuity vital functions
-Description:Allows to register the vital function.
-#Register service continuity vital functions
-The Continuity Registration is a process that pass through several phase. The second phase of this process is the Requirements and Strategy, where it'll be defined the vital functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the vital function.
-The vital function is part of a business process that is critical to the business success.
+title: Cadastrar as funções vitais da continuidade do serviço
+Description: Esta funcionalidade permite cadastrar a função vital.
+#Cadastrar as funções vitais da continuidade do serviço
+O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a função vital.
+A Função vital é a parte de um processo de negócio que é crítico para o sucesso do negócio.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-Assumes the existence of a defined service in a Portfolio and Catalog Management
-process.
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-It's necessary to firstly register the Continuity Registration, and defined the
-policy and continuity project, in addition to have registered the continuity
-scope.
+É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
+política e o projeto de continuidade do serviço já definido, além de ter o
+escopo da continuidade já registrado.
 
-It's fundamental to have registered the threat and threat category, both linked
-to each other. In addition to previously register the risk and risk category.
+É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
+categoria de ameaça a ameaça cadastrada.Também é essencial cadastrar,
+anteriormente, o risco e a categoria de risco.
 
-It's equally necessary to previously register the automatic actions of Incident,
-Request and Procedures about the Event Management.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-2.  Find the continuity you want to link the vital function and click on
-    "Advance";
+2.  Localizar a continuidade do qual deseja vincular a função vital e clicar no
+    botão "Avançar";
 
-3.  In **Requirements and Strategy**, click on "Vital Functions";
+3.  Na área **Requisitos e Estratégia**, clicar em "Funções Vitais";
 
-4.  Click on "Add Vital Function" to select a process and click on "Send" to
-    complete the link;
+4.  Clicar em "Adicionar Função Vital" para selecionar um processo e apertar
+    "Enviar" para completar a viculação;
 
-5.  To attach some file, click on "Attach" and then on "Add file" to link the
-    file;
+5.  Para anexar algum arquivo, clicar no botão "Anexar" e sem seguida "Adicionar
+    o arquivo" para vincular o arquivo;
 
-6.  Click on "Save".
+6.  Clicar no botão "Gravar" para efetuar a operação.
 
-What to do next
--------------------
+O que fazer a seguir
+------------------------
 
-After register the service continuity vital functions, it's necessary to execute
-the following action: register the continuity business impact analysis, being
-this action part of the second phase of the complete registration of continuity,
-called Requirements and Strategy.
+Após de cadastrar as funções vitais da continuidade do serviço é necessário
+executar a seguinte ação: cadastrar a análise de impacto no negócio da
+continuidade, sendo esta ação parte da segunda fase do registro completo da
+continuidade, chamada de Requisitos e Estratégia.
 
-Related
------------
+Relacionados
+----------------
 
-[Register impact analysis in the continuity business](/en-us/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+Cadastrar ameaça
 
-[Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+Cadastrar categoria de ameaça
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar categoria de risco
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar o risco de continuidade
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar a continuidade de serviço
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Definir a política de continuidade do serviço
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+Definir o projeto da continuidade do serviço
 
-[Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+Cadastrar a análise de impacto no negócio da continuidade
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
 
