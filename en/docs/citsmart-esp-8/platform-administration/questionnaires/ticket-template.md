@@ -54,7 +54,7 @@ Procedure
 
 -   **Neuro**: when you select this option, the Neuro form link field and Neuro
     page are made available. You can also elect the **version** of the form by
-    clicking the *Specific Version* button on the form. The template rules of
+    clicking the "Specific Version" button on the form. The template rules of
     the Questionnaire type are valid for the Neuro type template.
 
 Related
