@@ -1,34 +1,33 @@
-title: Verify processes related to the configuration item
+title: Verificar processos relacionados a um item de configuração
+Description: Permite verificar processos relacionados ao IC, além de informações gerais.
+#Verificar processos relacionados a um item de configuração
+Esta funcionalidade permite verificar processos relacionados ao IC, além de informações gerais.
 
-Description: Allows to verify the processes related to the CI
-#Verify processes related to the configuration item
-This functionality allows to verify the processes related to the CI, in addition to the general information.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Para verificar os processos é necessário ter registrado o item de configuração e
+ter relacionado os mesmos previamente.
 
-To verify the processes, it's necessary to previously register the configuration
-item and have related it.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade** **através da navegação no menu principal
+    Processos \> Gerência de Configuração \> CMDB;
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+2.  Realizar a consulta do item de configuração, clicar sobre o item;
 
-2.  Search for the configuration item and click on it;
+3.  Na tela de informações do determinado item de configuração localizar a guia
+    referente ao processo que se pesquisa informação;
 
-3.  In the information screen of the CI, find the tab about the process you are
-    searching the information;
+4.  Clicar sobre a guia para visualizar informações.
 
-4.  Click on the tab to view the information.
+Relacionados
+----------------
 
-Related
------------
-
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
