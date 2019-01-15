@@ -17,9 +17,9 @@ unexpected demand or failure of a configuration item".
 Use
 -------
 
-- [Register demand attribute](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
+- [Register demand attribute](/en-us/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
-- [Import demand attribute data](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
+- [Import demand attribute data](/en-us/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
 
 !!! tip "About"
 
