@@ -24,7 +24,7 @@ Use
 
 - [Configure service contract attributes](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-- [Register service activity](https://docs-dev.citsmart.com/en/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+- [Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 Configuration
 -----------------
