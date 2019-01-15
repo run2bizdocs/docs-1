@@ -48,6 +48,8 @@ the Service Request are listed below:
 |        ${CONTACTPHONE}        |             Applicant's Telephone for Contact. Please provide the contact's telephone number for contact.            |
 |           ${URGENCY}          |               Urgency of the Request. Informs the identification of the urgency of the service request.              |
 
+Table 1 - List os key fields
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
