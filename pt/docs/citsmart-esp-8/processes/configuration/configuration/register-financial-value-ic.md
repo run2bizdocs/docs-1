@@ -1,41 +1,40 @@
-title: Register financial value of CI
-Description: Provides a variety of actions, such as including, changing, and deleting the financial value of CI.
-#Register financial value of CI
+title: Registrar o valor financeiro do IC
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o valor financeiro do IC.
+#Registrar o valor financeiro do IC
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the financial value of CI.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir o valor financeiro do IC.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To register, it's necessary to previously register the configuration item.
+Para realizar o registro é necessário ter cadastrado o item de configuração
+previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através do menu Processos \> Gerência de
+    Configuração \> CMDB;
 
-2.  To query the configuration item, click on the item;
+2.  Realizar a consulta do item de configuração, clicar sobre o item;
 
-3.  In the information screen of the configuration item, locate the tab
-    Financial;
+3.  Na tela de informações do determinado item de configuração localizar a guia
+    Financeiro;
 
-4.  Click on the tab **Financial** to view the information;
+4.  Clicar sobre a guia **Financeiro** para visualizar informações;
 
-5.  Click on the button "Add financial value";
+5.  Preencher os campos disponibilizados;
 
-6.  Complete the fields available;
+6.  Clicar em "Gravar".
 
-7.  Click on "Save".
 
-Related
--------
+Relacionado
+-----------
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
-
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
