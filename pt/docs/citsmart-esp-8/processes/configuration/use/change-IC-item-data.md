@@ -1,37 +1,35 @@
-title: Change the configuration item data
-Description: Allows to edit the configuration item data 
-#Change the configuration item data
-This functionality allows to edit the configuration item data. The changes of configuration items will be saved in a history. Every time the item is changed, a new version inserted with the changes.
+title: Alterar dados do item de configuração
+Description: Permite editar dados de um item de configuração
+#Alterar dados do item de configuração
+Esta funcionalidade permite editar dados de um item de configuração. As alterações de itens de configuração são gravadas em um histórico. Todas as vezes que o item é modificado, uma nova versão é inserida com as mudanças.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register a configuration item.
+É necessário ter registrado previamente um item de configuração.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-2.  Search for the configuration item;
+2.  Realizar a busca do item de configuração;
 
-3.  Click on the configuration item;
+3.  Clicar sobre o item de configuração;
 
-4.  Click on the button “Edit” ;
+4.  Clicar no botão “Editar” ;
 
-5.  Edit the configuration item;
+5.  Realizar a edição do item de configuração;
 
-6.  Click on the button “Save”.
+6.  Clicar no botão “Salvar”.
 
-Related
------------
+Relacionados
+----------------
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
-
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
