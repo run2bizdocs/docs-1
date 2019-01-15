@@ -1,19 +1,20 @@
-title: Register characteristics
-Description: Provides a variety of actions, such as including, changing, and deleting the characteristics of the Configuration Item
-#Register characteristics
+title: Cadastrar característica
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as características do Item de Configuração (IC).
+#Cadastrar característica
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the characteristics of the Configuration Item (CI).
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as características do Item de Configuração (IC).
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> Configuration Item \> Characteristic;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> Item de Configuração \> Característica;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
+
 
 
 !!! tip "About"
