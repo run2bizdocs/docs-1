@@ -1,27 +1,29 @@
-title: Register EPL template
-Description: Allows to create and maintain the EPL templates, to be used in the EPL creation.
-#Register EPL template
+title: Cadastrar modelo de EPL
+Description: Permite criar e manter modelos de EPL a serem usados na criação de uma EPL.
+#Cadastrar modelo de EPL
 
-This functionality allows to create and maintain the EPL templates, to be used
-in the EPL creation.
+Esta funcionalidade permite criar e manter modelos de EPL a serem usados na
+criação de uma EPL.
 
-It's necessary to have knowledge in the event processing language. For further
-information go to: <http://www.espertech.com/esper/esper-documentation/>.
+É necessário ter conhecimento da linguagem de processamento de eventos. Para
+mais informações consultar o
+site:<http://www.espertech.com/esper/esper-documentation/> .
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the EPL templates.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir modelos de EPL.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Business Monitor \> Model of EPL;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Monitor Negócio \> Modelo de EPL;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar no botão "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
