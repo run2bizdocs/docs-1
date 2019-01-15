@@ -85,7 +85,7 @@ Figure 2 - Connection log screen
 
     If the device is changed, this connection must be deleted.  
 
-6-  After entering the desired connection data, press the *Create* button;
+6-  After entering the desired connection data, press the "Create" button;
 
 7-  After the connection is added, the list of created connections will appear.
     To change a connection, simply select the desired connection and make the
@@ -333,9 +333,9 @@ Some requests need approval, so to meet them you need to approve them.
 Figure 15 - Request approval/reject screen
 
 
-3-  To approve the request, just press the Approve button;
+3-  To approve the request, just press the "Approve" button;
 
-4-  To reject the request, press the Reject button. A screen will be displayed
+4-  To reject the request, press the "Reject" button. A screen will be displayed
     to choose the justification for this rejection, as shown in the figure
     below:
 
