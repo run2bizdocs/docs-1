@@ -1,35 +1,33 @@
-title: Change group of configuration item
+title: Alterar grupo de item de configuração
+Description: Tem por objetivo modificar informações no grupo de item de configuração
+#Alterar grupo de item de configuração
+Esta funcionalidade tem por objetivo modificar informações no grupo de item de configuração. Este campo somente estará ativo se for criado grupo dentro da tela de CMDB.
 
-Description: Has the objective of modify the information in the configuration item group
-#Change group of configuration item
-This functionality has the objective of modify the information in the configuration item group. This field only will be active if it's created a group in the CMDB screen.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+É necessário ter cadastrado um grupo de item de configuração previamente.
 
-It's necessary to previously register a group of configuration item.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+2.  Selecionar o item de configuração desejado;
 
-2.  Select the desired configuration item;
+3.  Clicar no botão “Editar”;
 
-3.  Click the button “Edit”;
+4.  Realizar as modificações nos campos disponilizados;
 
-4.  Make the modifications in the fields available;
+5.  Clicar em "Gravar".
 
-5.  Click "Save".
+Relacionados
+----------------
 
-Related
------------
-
-[Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
-
+Cadastrar grupo de item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
