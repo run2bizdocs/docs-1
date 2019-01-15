@@ -1,4 +1,4 @@
-Title: Welcome to CITSmart Docs
+Title: Home
 
 # We are here to help you!
 
