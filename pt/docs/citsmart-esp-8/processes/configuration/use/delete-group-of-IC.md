@@ -1,31 +1,31 @@
-title: Delete group of configuration item
-Description: Only can be deleted the group that does not have item related
-#Delete group of configuration item
-Only can be deleted the group that does not have item related (groups and/or configuration item).
+title: Excluir grupo de item de configuração
+Description: Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
+#Excluir grupo de item de configuração
+Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register the group of configuration item.
+É necessário ter um grupo de item de configuração previamente registrado.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-2.  Search for the desired group, click on the icon “Access” of the same;
+2.  Pesquisar pelo grupo pretendido, clicar sobre o ícone “Acessar” do mesmo;
 
-3.  Click on the last icon on the same line as the group name;
+3.  Clicar no ultimo ícone localizado na mesma linha do nome do grupo;
 
-4.  Click "Delete".
+4.  Clicar em "Excluir".
 
-Related
------------
+Relacionados
+----------------
 
-[Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+Cadastrar grupo de item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
