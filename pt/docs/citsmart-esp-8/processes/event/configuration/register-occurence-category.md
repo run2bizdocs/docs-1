@@ -1,30 +1,29 @@
-title: Register occurrence category
-Description: Provides a variety of actions, such as including, changing, and deleting the occurrence category
-#Register occurrence category
+title: Cadastrar categoria de ocorrência
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir de categoria de ocorrência.
+#Cadastrar categoria de ocorrência
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the occurrence category, that is, through it, it is possible to group
-occurrences of events of the same type. This registration will be associated
-with each item in the CITSmart Inventory, Nagios, or Zabbix event manager
-registry.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir de categoria de ocorrência, ou seja, através dela é permitido agrupar
+ocorrências de eventos de um mesmo tipo. Este cadastro será associado a cada
+item do cadastro de gerente de eventos do CITSmart Inventory, Nagios ou Zabbix.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Category of occurrence;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Categoria de ocorrência;
 
-2.  Click on the tab **Occurrence category registration**;
+2.  Clicar na aba **Cadastro de categoria de ocorrência**;
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  Click on "Create/Edit group" to register, edit and delete the event group
-    registration;
+4.  Clicar no botão "Criar/Editar Grupo" para cadastrar, editar e excluir
+    registros de grupos de eventos;
 
-5.  Click on "Save".
+5.  Clicar no botão "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
