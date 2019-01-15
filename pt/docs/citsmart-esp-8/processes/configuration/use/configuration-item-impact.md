@@ -26,7 +26,7 @@ Procedimento
     botão" Serviço Impactados";
 
 6.  Para visualizar o mapa de fluxo do item de configuração, clicar no
-    botão “Visualizar mapa de relacionamentos (automático).
+    botão “Visualizar mapa de relacionamentos (automático)".
 
 Relacionados
 ----------------
