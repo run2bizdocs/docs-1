@@ -1,35 +1,36 @@
-title: Link service level agreement to CI group
-Description: Is intended to link an SLA to the configuration item group.
-#Link service level agreement to CI group
-This functionality is intended to link an SLA to the configuration item group.
+title: Vincular acordo de nível de serviço ao grupo de IC
+Description: Tem por objetivo vincular um SLA ao grupo de item de configuração. 
+#Vincular acordo de nível de serviço ao grupo de IC
+Esta funcionalidade tem por objetivo vincular um SLA ao grupo de item de configuração.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register the group of configuration item and SLA.
+É necessário ter cadastrado um grupo de item de configuração e o SLA,
+previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-2.  Search for the desired configuration item group;
+2.  Buscar pelo grupo de item de configuração desejado;
 
-3.  Click the button "Edit";
+3.  Clicar no botão “Editar”;
 
-4.  In the **Service level agreement** field make the choice;
+4.  No campo **Acordo de nível de serviço** fazer a escolha;
 
-5.  Click "Save".
+5.  Clicar em "Gravar".
 
-Related
------------
+Relacionados
+----------------
 
-[Service level agreement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+Acordo de Nível de Serviço
 
-[Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+Cadastrar grupo de item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
