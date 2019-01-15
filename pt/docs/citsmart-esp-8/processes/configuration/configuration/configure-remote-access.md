@@ -1,35 +1,38 @@
-title: Configure remote access
-Description: Allows to configure the option of remote access, present in the CMDB screen and ITSM.
-#Configure remote access
-This functionality allows to configure the option of remote access, present in the CMDB screen and ITSM.
+title: Configurar acesso remoto
+Description: permite realizar a configuração da opção de acesso remoto, presente dentro da tela de CMDB (Gerenciamento de Configuração), no ITSM.
+#Configurar acesso remoto
 
-Before getting started
---------------------------
+Esta funcionalidade permite realizar a configuração da opção de acesso remoto,
+presente dentro da tela de CMDB (Gerenciamento de Configuração), no ITSM.
 
-To this configuration, the user should have configured the instance GUACD and
-making it communicable, besides of previously register the time, configuration
-item group and parameter 319 being in the option "YES".
+Antes de começar
+----------------
 
-Procedure
--------------
+Para esta configuração o usuário deverá ter configurado a instância GUACD e
+torná-la comunicável, além de realizar o cadastro prévio do horário, do grupo de
+item de configuração e o parâmetro 319 estar na opção "SIM".
 
-1.  Access the functionality through the main menu System \> Remote Access \>
-    Remote Access Settings;
+Procedimento
+------------
 
-2.  Click on "New";
+1.  Acessar a funcionalidade através do menu Sistema \> Acesso Remoto \>
+    Configurações do acesso remoto;
 
-3.  Complete the fields available;
+2.  Clicar no botão "Novo";
 
-4.  Click on "Save".
+3.  Preencher os campos disponibilizados;
 
-Related
--------
+4.  Clicar no botão "Gravar".
 
-[Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
+Relacionado
+-----------
 
-[Configure parametrization – system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+Cadastrar grupo de item de configuração
+
+Cadastrar horário
+
+Configurar parametrização - sistema
 
 !!! tip "About"
 
