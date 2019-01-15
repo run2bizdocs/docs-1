@@ -15,7 +15,7 @@ Pra realizar o cadastro do grupo de disponibilidade é necessário registrar o
 calendário previamente.
 
 Procedimento
-
+------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Disponibilidade \> Grupo de Disponibilidade;
