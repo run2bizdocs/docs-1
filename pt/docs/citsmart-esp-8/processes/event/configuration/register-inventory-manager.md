@@ -1,58 +1,60 @@
-title: Register Inventory manager
-Description: Register and maintain the managers who will be responsible for the occurrences of events captured from CITSmart Inventory.
-#Register Inventory manager
+title: Cadastrar gerente Inventory
+Description: Cadastrar e manter os gerentes que serão responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart Inventory
+#Cadastrar gerente Inventory
 
-The purpose of this functionality is to register and maintain the managers who
-will be responsible for the occurrences of events captured from CITSmart
-Inventory. It allows the user to indicate how much time the Manager will be
-processed, what configuration items it will manage, the checks that will be
-applied and the actions to be taken automatically.
+O objetivo desta funcionalidade é cadastrar e manter os gerentes que serão
+responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart
+Inventory. Permite ao usuário informar de quanto em quanto tempo o Gerente será
+processado, quais os itens de configuração que ele irá gerenciar, os checks que
+serão aplicados e as ações a serem tomadas automaticamente.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting Inventory manager.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um gerente Inventory.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-To register the Inventory manager, it's necessary to previously register the
-CITSmart Event Monitor connection, time, occurrence category, automatic action
-and the CITSmart Inventory connection.
+Para cadastrar o gerente Inventory é necessário cadastrar previamente a conexão
+do CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação
+automática e a conexão do CITSmart Inventory.
 
-Procedure
+Procedimento
 -------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Inventory Management \> Inventory Manager;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Monitor Inventory \> Gerente Inventory;
 
-2.  Complete the fields available in each area;
+2.  Preencher os campos disponibilizados em cada área;
 
-3.  The completion fields will be changed as the *type of configuration* chosen:
+3.  Os campos de preenchimento serão alterados conforme o *tipo de
+    configuração* escolhida:
 
-    - **Specific Configuration:** it allows to create specific rules to a single
-    configuration item. Those rules will be applied when the configuration item
-    is being inventoried;
+-   **Configuração Específica** permite criar regras específicas para um único
+    item de configuração. Essas regras serão aplicadas no momento em que o item
+    de configuração estiver sendo inventariado;
 
-    - **General Settings:** it allows to create rules to all configuration items.
-    Those rules will be applied when the configuration item is being
-    inventoried.
+-   **Configuração Geral:** permite criar regras para todos os itens de
+    configuração. Essas regras serão aplicadas no momento em que os itens de
+    configuração estiverem sendo inventariados.
 
-1.  Ente the data necessary and click on "Add";
+1.  Informar os dados necessários e clicar em "Adicionar";
 
-2.  Click on "Save".
+2.  Clicar no botão "Gravar".
 
-Related
--------
 
-[Register occurence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+Relacionado
+-----------
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+Cadastrar categoria de cocorrência
 
-[Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
+Cadastrar Conexão Event Monitor
 
-[Set Inventory connection](/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+Cadastrar horário
+
+Configurar Conexão Inventory
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
