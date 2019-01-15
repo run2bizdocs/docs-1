@@ -1,22 +1,24 @@
-title: Generate reports - event management
-Description: Intended to present the event occurrences that were stored in the events database (MongoDB).
-#Generate reports - event management
-This report is intended to present the event occurrences that were stored in the events database (MongoDB).
+title: Gerar relatórios - Gerência de eventos
+Description: Objetivo de apresentar as ocorrências de eventos que foram armazenadas no Banco de dados de eventos (MongoDB).
+#Gerar relatórios - Gerência de eventos
 
-Procedure
--------------
+Este relatório tem o objetivo de apresentar as ocorrências de eventos que foram
+armazenadas no Banco de dados de eventos (MongoDB).
 
-1.  Access the functionality through the main menu Reports \> Event Management
-    \> Event Occurrence;
+Procedimento
+----------------
 
-2.  Set the filters as needed;
+1.  Acessar a funcionalidade através da navegação no Relatórios \> Gerência de
+    Eventos \> Ocorrência de Eventos;
 
-3.  Click on "Create PDF" to generate the report in PDF and/or click on "Create
-    XLS" to generate the report in Excel.
+2.  Definir os filtros conforme a necessidade;
+
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
