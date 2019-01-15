@@ -1,34 +1,33 @@
-title: Register cost per hour of unavailability
-Description: Is intended to establish the cost per hour of unavailability of a configuration item.
-#Register cost per hour of unavailability
-This functionality is intended to establish the cost per hour of unavailability of a configuration item.
+title: Registrar custo por hora de indisponibilidade
+Description: Tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
+#Registrar custo por hora de indisponibilidade
+Esta funcionalidade tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register the configuration item.
+É necessário ter cadastrado um item de configuração previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> CMDB;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> CMDB;
 
-2.  Search for the desired configuration item group;
+2.  Buscar pelo grupo de item de configuração desejado;
 
-3.  Click the button “Edit”;
+3.  Clicar no botão “Editar”;
 
-4.  In the **Cost per hour of unavailability** field record the value;
+4.  No campo **Custo por hora de indisponibilidade** registrar o valor;
 
-5.  Click "Save".
+5.  Clicar em "Gravar".
 
-Related
------------
+Relacionados
+----------------
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Cadastrar item de configuração
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
