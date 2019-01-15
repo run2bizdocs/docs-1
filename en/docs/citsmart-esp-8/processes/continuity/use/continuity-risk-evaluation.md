@@ -44,13 +44,13 @@ Procedure
     and/or "Add Threat" to complete the necessary fields to link the threat. To
     enter the threat treatment plan:
 
--   Open the tab "Treatment Plans", then on "Add Treatment" and enter the name
+    1.Open the tab "Treatment Plans", then on "Add Treatment" and enter the name
     of the plan. Then, click on the icon “+” to complete the others fields;
 
--   After register the data of the treatment plan, click on the icon “Risk
+    2.After register the data of the treatment plan, click on the icon “Risk
     evaluation chart” if you want to verify the risk evaluation chart.
 
-1.  Click on "Save".
+8.  Click on "Save".
 
 What to do next
 -------------------
