@@ -63,7 +63,7 @@ Procedure
 
 2.  Select a contract and click on "Advance";
 
-3.  Click on the attribute** Incidents** of the contract and then on "Link
+3.  Click on the attribute **Incidents** of the contract and then on "Link
     Incident";
 
 4.  Complete the fields available adding the incident created previously;
