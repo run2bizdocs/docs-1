@@ -1,4 +1,7 @@
-#
+Title: Welcome to CITSmart Docs
 
-!!! tip "What´s CITSmart" 
-    **CITSmart** is an intelligent corporate governance platform that was created to facilitate the unification of information and standardization in the management of Information Technology in the organizational environment. It provides governance in an intelligent concept of unity and practicality in corporate management. <br>    **CITSmart** is an integrated solution designed to manage any ticket or workflow. With a focus on providing governance through Information Technology, it was designed to accelerate and improve business management through the use of best practices, corporate strategies and innovative methodologies developed by highly trained professionals.  It has been designed to meet the most stringent criteria required by PinkVERIFY, a label that endorses software tools based on the fifteen Service Management processes proposed by ITIL, which is the only one in Latin America to have nine certifications.<br>The **ITIL** processes certified by the PinkVerify are certified ITIL processes are: Incident Management, Request Fulfilment, Portfolio Management, Knowledge Management, Service Catalog Management, Service Level Management, Service Asset and Configuration Management, Change Management, Problem Management, Release Management, Availability Management, Continuity Management.    
+# We are here to help you!
+
+Welcome to the CITSmart Documentation Center. Here you will find useful information about our product, installation guides, platform configuration and process deployment. See also our developer site: https://developers.citsmart.com.
+
+Click the menu above to enter the documentation tree for our products.
