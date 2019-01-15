@@ -29,7 +29,7 @@ This report aims to present the request for change registered.
 3.  On the side of each request for change registration in the list, there are
     icons to perform the following actions: view the information when clicking
     on “View” and view the attachments of the request for change when click on
-    the icon;
+    the "View attachments" icon;
 
 4.  Click on “Generate PDF” to create the report in PDF and/or click on
     “Generate XLS” to create the report in Excel.

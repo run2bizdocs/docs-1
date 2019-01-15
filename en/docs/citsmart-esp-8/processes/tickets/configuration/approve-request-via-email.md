@@ -35,18 +35,18 @@ Procedure
 
 *Configure the email approval notification*
 
-1.  Access the functionality through the menu** **System \> Settings \> Email
+1.  Access the functionality through the menu System \> Settings \> Email
     template;
 
 2.  Paste the email template available in HTML in attachment, in the Text field
     and verify the following guidelines:
 
-    - href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+    - href="{TOKEN(serviceRequestIncident, \${IDSERVICEREQUEST}, VIEW, 50)};
 
     - serviceRequestIncident = Interface directing: this field cannot be changed
     by the user;
 
-    - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
+    - \${IDSERVICEREQUEST} = Key to increment the number of the service
     request: this field cannot be changed by the user;
 
     - VIEW - calls the command to open the request: this field cannot be changed
@@ -70,6 +70,10 @@ Related
 
 [Configure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
+Attachment
+----------
+[Download](images/Approval.txt)
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
@@ -77,3 +81,5 @@ Related
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
+
+
