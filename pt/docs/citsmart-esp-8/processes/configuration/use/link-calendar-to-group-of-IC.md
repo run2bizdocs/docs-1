@@ -19,7 +19,7 @@ Procedimento
 
 3.  Clicar no botão “Editar”;
 
-4.  No campo **Calendário **fazer a escolha;
+4.  No campo **Calendário** fazer a escolha;
 
 5.  Clicar em "Gravar".
 
