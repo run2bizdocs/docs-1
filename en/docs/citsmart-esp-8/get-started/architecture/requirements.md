@@ -43,5 +43,5 @@ For installation of Apache SOLR, we recommend the following configurations:
 | **Disk**   | 80 GB   |
 
 !!! tip
-     The ** SOLR ** and ** MongoDB ** services can be installed on the same server as the CITSmart application. We recommend for production environments that you separate the database server from the application server.
+     The **SOLR** and **MongoDB** services can be installed on the same server as the CITSmart application. We recommend for production environments that you separate the database server from the application server.
 
