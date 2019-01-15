@@ -1,88 +1,88 @@
-title: Register continuity organizational planning
+title: Cadastrar o planejamento organizacional da continuidade
+Description: Esta funcionalidade permite cadastrar o Planejamento Organizacional.
+#Cadastrar o planejamento organizacional da continuidade
+O Registro de Continuidade é um processo que passa por várias fases. A terceira fase deste processo, chamado de Implementação onde será definido o Plano de Continuidade, o Planejamento e a Estratégia de Testes. Esta funcionalidade permite cadastrar o Planejamento Organizacional.
 
-Description: Allows to register the Organizational Planning. 
-#Register continuity organizational planning
-The Continuity Registration is a process that pass through several phases. The third phase of this process is called Implementation, where it'll be defined the Continuity Plan, Planning and Test Strategy. This functionality allows to register the Organizational Planning.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-Assumes the existence of a defined service in a Portfolio and Catalog Management
-process.
+É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
+política e o projeto de continuidade do serviço já definidos, além de ter o
+escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
+riscos, a estratégia e o plano de continuidade já registrados.
 
-It's necessary to firstly register the Continuity Registration, the policy and
-service continuity project defined, besides, have registered the scope, vital
-functions and business impact analysis , risk evaluation, strategy and
-continuity plan.
+É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
+categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
+anteriormente, o risco e a categoria de risco.
 
-It's also necessary to previously register the threat and threat category linked
-to each other. In addition, have registered the risk and risk category.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-It's equally essential to have registered the automatic actions for incident,
-request and procedure about the Event Management.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+2.  Localizar a continuidade do qual deseja vincular o planejamento
+    organizacional e clicar no botão "Avançar";
 
-2.  Find the continuity you want to link the organizational planning and click
-    on "Advance";
+3.  Na área **Implementação**, clicar em "Planejamento";
 
-3.  In **Implementation**, click on "Planning";
+4.  Preencher os campos necessários;
 
-4.  Complete the fields available;
+5.  Clicar em "Adicionar Grupo" para pesquisar e vincular o grupo desejado e
+    atribuir uma responsabilidade ao mesmo para comporem o grupo de coordenação
+    do planejamento organizacional e à equipe de recuperação;
 
-5.  Click on "Add Group" to search and link the group you want and attribute it
-    a responsibility to compose the coordination group of the organizational
-    planning and the recovery team;
+6.  Clicar em "Gravar" para efetuar a operação.
 
-6.  Click on "Save".
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Após de cadastrar o planejamento organizacional da continuidade é necessário
+executar a seguinte ação: cadastrar a estratégia de testes da continuidade sendo
+esta ação parte da terceira fase do registro completo da continuidade, chamada
+de Implementação.
 
-After register the continuity organizational planning, it's necessary execute
-the following action: register the continuity test strategy, being this action
-part of the third phase of the continuity complete registration, called
-Implementation.
+Relacionados
+----------------
 
-Related
------------
+Cadastrar ameaça
 
-[Register impact analysis in the continuity business](/en-us/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+Cadastrar categoria de ameaça
 
-[Register continuity risk evaluation](/en-us/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+Cadastrar categoria de risco
 
-[Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+Cadastrar o risco de continuidade
 
-[Register service continuity strategy](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+Cadastrar a continuidade de serviço
 
-[Register continuity test registration](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
+Definir a política de continuidade do serviço
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Register service continuity vital functions](/en-us/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+Definir o projeto da continuidade do serviço
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar as funções vitais da continuidade do serviço
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar a análise de impacto no negócio da continuidade
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Cadastrar a avaliação de riscos da continuidade
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar a estratégia de continuidade de serviços
 
-[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+Cadastrar a estratégia de testes da continuidade
 
-[Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
 
