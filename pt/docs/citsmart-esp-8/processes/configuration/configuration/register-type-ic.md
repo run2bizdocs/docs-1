@@ -1,34 +1,37 @@
-title: Register type of configuration item
-Description: Provides a variety of actions, such as including, changing, and deleting the types of Configuration Item
-#Register type of configuration item
-This feature provides a variety of actions, such as including, changing, and deleting the types of Configuration Item (CI).
+title: Cadastrar tipo de item de configuração
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de Item de Configuração (IC).
+#Cadastrar tipo de item de configuração
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir os tipos de Item de Configuração (IC).
 
-To register the type of configuration item, it's necessary to previously
-register the characteristic.
+Antes de começar
+----------------
 
-Procedure
--------------
+Para o cadastro do tipo de item de configuração é necessário registrar
+previamente a característica.
 
-1.  Access the functionality through the main menu Processes \> Configuration
-    Management \> Configuration Item \> Type of Configuration Item;
+Procedimento
+------------
 
-2.  Click on "New" button;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Configuração \> Item de Configuração \> Tipo Item Configuração;
 
-3.  Complete the fields available;
+2.  Clicar no botão "Novo";
 
-4.  Choose whether to insert a characteristic;
+3.  Preencher os campos disponibilizados;
 
-5.  Click on "Save".
+4.  Escolher se insere uma característica;
 
-Related
--------
+5.  Clicar em "Gravar".
 
-[Register characteristics](/en-us/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
+
+Relacionado
+----------
+
+Cadastrar característica
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/15/2019 – Anna Martins
