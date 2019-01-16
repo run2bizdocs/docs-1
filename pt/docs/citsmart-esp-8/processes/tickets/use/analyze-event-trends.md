@@ -1,55 +1,53 @@
-title: Analyze event trends
+title:  Analisar tendência de eventos 
+Description: Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
+#Analisar tendência de eventos
+Esta funcionalidade tem por objetivo gerar gráfico de Análise de Tendência de Eventos por Serviço de Negócio em determinado período, a fim de realizar uma análise dos eventos. A análise de tendências consiste na utilização de dados para projeção de resultados futuros.
+Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
 
-Description: Generate Events Trend Analysis charts by Business Service in a given period, in order to analysis the events. Trend analysis consists of using data to forecast future results.  
-#Analyze event trends
-This function aims to generate Events Trend Analysis charts by Business Service in a given period, in order to analysis the events. Trend analysis consists of using data to forecast future results.  
-This functionality can only be used in instances where the client also deployed the Events module.  
+Antes de começar
+----------------
 
+Para realizar a análise de tendência de eventos é necessário registrar
+previamente um contrato, uma solicitação de serviço (ticket), configurar a
+conexão do CITSmart Event Monitor, além de instalar e configurar a ferramenta de
+monitoração.
 
-Before getting started
---------------------------
+Procedimento
+------------
 
-To make the event trend analysis, it's necessary to previously register a
-contract, a service request (ticket), configure the CITSmart Event Monitor
-connection, besides of install and configure the monitoring tool.
+1.  Acessar a funcionalidade através da navegação no menu
+    principal Processos \> Gerência de Requisição e Incidente \> Análise de
+    Tendências, aba **Eventos**;
 
-Procedure
--------------
+2.  Preencher os campos disponibilizados;
 
-1.  Access the functionality event trend analysis through the main menu
-    Processes \> Request and Incident Management \> Trend Analysis,
-    tab Events;
+3.  Clicar em "Pesquisar";
 
-2.  Complete all mandatory fields;
+4.  O sistema irá filtrar e totalizar os eventos que atendem aos filtros
+    selecionados e gerará quatro guias de resultados, sendo: Classificação, Item
+    de Configuração, Serviço Técnico e Catálogo de Negócio;
 
-3.  Click on "Search";
+5.  Em cada guia de resultado conterá um botão para geração do gráfico de
+    análise de tendências, o qual apresenta as datas que compreendem o período
+    informado nos filtros e o número quantitativo de ocorrências de eventos
+    naquela determinada data. Portanto, para gerar o gráfico para análise de
+    tendência dos eventos por classificação, IC, serviço técnico e/ou serviço de
+    negócio, clicar no botão "Gerar Gráfico".
 
-4.  The system will filter and total the events that meet the selected filters,
-    and will generate four results tabs, for example: Classification,
-    Configuration Item, Technical Service and Business Catalog;
+Relacionado
+-----------
 
-5.  Each result tab will contain a button for generating the trend analysis
-    chart, which displays the dates that comprise the period reported in the
-    filters, and the number of occurrences of events on that particular date.
-    Therefore, to generate the chart for trend analysis of the events by
-    classification, CI, technical service and/or business service, click on
-    "Generate Chart".  
-    
-Related
--------
+Criar um ticket
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Cadastrar Conexão Event Monitor
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+Cadastrar conexão Nagios/Zabbix
 
-[Register Nagios/Zabbix connection](/en-us/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

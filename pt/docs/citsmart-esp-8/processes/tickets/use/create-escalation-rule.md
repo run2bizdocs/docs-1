@@ -1,61 +1,60 @@
-title: Create escalation rule
+title:  Criar regra de escalonamento 
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
+#Criar regra de escalonamento
+Esta funcionalidade permite criar regras de escalonamento a fim de fornecer uma perspectiva de impacto à empresa ao gerir os atendimentos dos tickets (e suas eventuais requisições e incidentes) dentro de um tempo hábil pré estabelecido. Ao criar regras para a notificação do responsável quando o ticket está em nível critico de ruptura de seu SLA é possível evitar esta através de ações preventivas e escalonar este atendimento a outros grupos executores e respeitar assim seu tempo de atendimento.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
 
-Description: Allows to create escalation rules in order provide a perspective of impact to the company by managing the attendance of tickets (and its requests and incidents) within a pre-established adequate time
-#Create escalation rule
-This functionality allows to create escalation rules in order provide a perspective of impact to the company by managing the attendance of tickets (and its requests and incidents) within a pre-established adequate time. When creating rules for the notification of the responsible when the ticket is at critical level of rupture of its SLA, is possible to avoid this through preventive actions and escalate this service to other executor groups and thus respect their time of attendance.
-This feature provides a variety of actions, such as including, changing, and deleting the escalation rule.
+Antes de Começar 
+-----------------
 
-Before getting started
---------------------------
+Para criar as regras de escalonamento, é necessário configurar o parâmetro
+**190 **o valor **S** e cadastrar previamente os contratos, colaborados,
+grupos, os portfólios de serviços e a ação automática do tipo escalonamento.
 
-To create escalation rules, it's necessary to set the parameter **190** with
-value **Y**, and previously register the contracts, employees, groups, services
-portfolios and the automatic action of escalation type.
+Já no arquivo **citsmart.cg**, é preciso configurar a propriedade
+**START**\_**MONITORA**\_**INCIDENTES** informando o parâmetro TRUE (somente o
+administrador do sistema operacional do servidor da aplicação realiza este
+ajuste).
 
-In the file **citsmart.cg**, it's necessary configure the
-properties **START\_MONITORA\_INCIDENTES** informing the parameter TRUE
-(only the operating system administrator of the application server makes this
-adjustment).
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade Regras de Escalonamento navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Regras de
+    escalonamento;
 
-1.  Access the functionality Escalation Rules through the main menu Processes \>
-    Request and Incident Management \> Escalation rules;
+2.  Clicar em "Novo";
 
-2.  Click on "New";
+3.  Informar os dados gerais da Regra de escalonamento (Título, situação, o
+    solicitante, o grupo executor do atendimento, o portfólio e contrato a ser
+    vinculado à regra e o impacto e urgência do atendimento do ticket);
 
-3.  Enter the general data of the Escalation Rule (Title, Status, Requester, the
-    attendance Executor Group, Portfolio and Contract to be linked to rule, and
-    impact and urgency of ticket attendance);
+4.  Informar os dados específicos da Regra de Escalonamento:
 
-4.  Enter the specific data about the Escalation Rule:  
+| **Campo** |                                                   **Objetivo**                                                   |
+|:---------:|:----------------------------------------------------------------------------------------------------------------:|
+|   Tempo   |                              Informar o prazo de escalonamento/notificação do ticket                             |
+|  Formato  |        Informar se a regra se refere a minutos (tempo da regra) ou percentual (referente ao tempo do SLA)        |
+|  Condição | Selecionar o marco do escalonamento/notificação (se esta ocorrerá antes ou depois da ruptura do prazo escolhido) |
+|    Data   | Selecionar a data de referência da regra (a data de sua criação, a data da última ocorrência ou sua data limite) |
+|    Ação   |                                  Vincular o tipo de ação automática a nova regra                                 |
 
-| **Field** |                                                **Objective**                                               |
-|:---------:|:----------------------------------------------------------------------------------------------------------:|
-|    Time   |                      Enter the deadline for the escalation/notification of the ticket                      |
-|   Format  |    Enter if the rule is regarding to minutes (time of the rule) or percentage (regarding the time o SLA)   |
-| Condition | Select the mark of escalation/notification (if it will happen before or after the rupture of the deadline) |
-|    Date   |   Select the date of reference rule (the date of its creation, date of last occurrence or its limit date)  |
-|   Action  |                              Link the type of automatic action to the new rule                             |
-
-Related
+Relacionado
 -----------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Criar portfólio
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Cadastrar um grupo
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um colaborador
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um contrato
 
-[Register escalation automatic action](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
+Cadastrar ação automática de escalonamento
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

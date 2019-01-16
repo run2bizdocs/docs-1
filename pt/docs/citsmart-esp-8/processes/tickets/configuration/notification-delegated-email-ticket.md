@@ -1,60 +1,64 @@
-title: Notification through delegated email ticket
-Description: Implement the way of sending email from a delegated ticket, so the delegated tickets will have an email template to send to the technician. 
-#Notification through delegated email ticket
-This document allows to implement the way of sending email from a delegated ticket, so the delegated tickets will have an email template to send to the technician.
+title: Notificar via email ticket delegado
+Description: Permite implementar a forma de envio de email de um ticket delegado, assim os tickets delegados terão um modelo de email próprio a ser enviado ao técnico.
+#Notificar via email ticket delegado
 
-Before getting started
---------------------------
+Este documento permite implementar a forma de envio de email de um ticket
+delegado, assim os tickets delegados terão um modelo de email próprio a ser
+enviado ao técnico.
 
-An email template must have been previously registered and, the keys to be used
-in your body of text, should be the following:
+Antes de começar
+--------------------
 
--   \${IDSERVICEREQUEST}
+Um modelo de email deverá ter sido cadastrado previamente e que as chaves a
+serem usadas em seu corpo de texto deverão ser as seguintes:
 
--   \${SERVICENAME}
+   -   \${IDSOLICITACAOSERVICO}
 
--   \${REQUESTERNAME}
+   -   \${SERVICO}
 
--   \${DESCRIPTION}
+   -   \${SOLICITANTE}
 
-Procedure
--------------
+   -   \${DESCRICAO}
 
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+Procedimento
+----------------
 
-2.  Choose a portfolio and click on "Advance";
+1.  Acessar a funcionalidade através do menu Processos \> Gerência de Portfólio
+    e Catálogo \> Portfólio;
 
-3.  Choose a service and click on "Advance";
+2.  Escolher o portfólio, clicar em "Avançar";
 
-4.  Click on *Contracts*;
+3.  Escolher o serviço e clicar em "Avançar";
 
-5.  Select the contract and click on "Advance";
+4.  Clicar na guia *Contratos*;
 
-6.  Click on the tab *Requests* and click on "Edit";
+5.  Selecionar o contrato e clicar em "Avançar";
 
-7.  Choose the activity;
+6.  Clicar na guia *Requisições* e clicar em "Editar";
 
-8.  In the field** Email Template Delegation** choose by the previously
-    registered e-mail template;
+7.  Escolher a atividade;
 
-9.  Click on "Save".
+8.  No campo **Modelo de e-mail Delegação** escolher pelo modelo de e-mail
+    cadastrado previamente;
 
-What to do next
----------------
+9.  Clicar no botão "Gravar".
 
-Access a ticket and delegate it.
+O que fazer a seguir
+--------------------
 
-Related
+Acessar o ticket desejado e efetuar a delegação.
+
+
+Relacionado
 -------
 
-[Delegate ticket](/en-us/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
+Delegar um ticket
 
-[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+Configurar modelo de email
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins

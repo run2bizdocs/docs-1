@@ -1,40 +1,38 @@
-title: Capture ticket
+title: Capturar um ticket
+Description: Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado. 
+#Capturar um ticket
+Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
 
-Description: Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
+Antes de começar
+----------------
 
-#Capture ticket
-Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
+Ter permissão para executar o ticket.
 
-Before getting started
---------------------------
-
-It's necessary to have permission to execute the ticket.
-
-Procedure
--------------
-
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
-
-2.  Click on the ticket you want and then on the icon "Open" ;
-
-3.  Confirm the capture of the ticket.
-
-What to do next
---------------------
-
-Execute the ticket.
-
-Related
+Procedimento
 ------------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone
+    “Abrir” ;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+3.  Confirmar a captura do ticket.
+
+O que fazer a seguir
+------------------------
+
+Executar o ticket.
+
+Relacionado
+-----------
+
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+

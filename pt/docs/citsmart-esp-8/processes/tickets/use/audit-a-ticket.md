@@ -1,37 +1,39 @@
-title: Audit a ticket
-Description: Allows to audit the tickets created. 
-#Audit a ticket
-This functionality allows to audit the tickets created.
+title: Auditar um ticket
+Description: A funcionalidade permite a auditoria dos tickets criados. 
+#Auditar um ticket
+A funcionalidade permite a auditoria dos tickets criados.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to previously register the tickets.
+É necessário o cadastro prévio dos tickets.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2.  Click on the first button located in the upper left corner and then
-    on *Audit;*
+2.  Clicar no primeiro botão localizado no canto superior esquerdo e logo após
+    clicar no item de "Auditoria";
 
-3.  Complete the filters to audit the tickets you want;
+3.  Preencher os filtros para auditar os tickets desejados;
 
-4.  Click on the icon symbolized by a magnifying glass to define the filters
-    necessary to verify the ticket instances history to audit.
+4.  Clicar no ícone simbolizado por uma lupa para definir os filtros necessários
+    para verificar o histórico das instâncias do ticket para a auditoria.
 
-Related
+Relacionado
 -----------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+A área de trabalho da Central de Serviços
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Criar um ticket
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+Sistema exibe mensagem de data inválida ao auditar o ticket
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
