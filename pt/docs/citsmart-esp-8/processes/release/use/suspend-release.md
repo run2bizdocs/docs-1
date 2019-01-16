@@ -1,47 +1,45 @@
-title: Suspend release registration
-Description: Allows to suspend the execution of the release request.
-#Suspend release registration
-This functionality allows to suspend the execution of the release request.
+title:  Suspender registro de liberação 
+Description: Permite suspender a execução da requisição de liberação. 
+#Suspender registro de liberação
 
-Before getting started
---------------------------
+Esta funcionalidade permite suspender a execução da requisição de liberação.
 
-In order to suspend the execution of the release request, it's necessary to
-register the request, the justification of the request for release and
-permission to suspend.
+Antes de começar
+----------------
 
-Procedure
+Para suspender a execução da requisição de liberação é necessário o cadastro
+prévio da mesma, da justificativa de requisição de liberação e permissão para
+suspensão.
+
+Procedimento 
 -------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Liberação;
 
-2.  Find the release request you want to suspend, click on it and then on the
-    button “More Options”. Select the option "Suspend";
+2.  Localiza a requisição de liberação a suspender, clicar sobre a mesma e em
+    seguida no botão “Mais Opções”. Selecionar a opção "Suspender";
 
-3.  Complete the justification of the suspension and its complement;
+3.  Preencher a justificativa de suspensão e o complemento desta justificativa;
 
-4.  Click on "Save";
+4.  Clicar no botão "Gravar" para efetuar a operação;
 
-What to do next
--------------------
+O que fazer depois
+------------------
 
-Verify if the status of the release request is "Suspended" in the release
-request list.
+Verificar se a situação da requisição de liberação desejada se encontra com a
+situação "Suspensa" na lista de requisição de liberação.
 
-Related
+Relacionado
 -----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Register release justification](/en-us/citsmart-esp-8/processes/release/use/release-justification.html)
+Cadastrar uma requisição de liberação
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
