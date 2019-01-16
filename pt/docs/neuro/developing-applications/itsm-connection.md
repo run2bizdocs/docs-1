@@ -1,44 +1,45 @@
-Title: ITSM connection
-Description: This functionality is able to provide a configuration screen to establish conection with CITSmart.  
-#ITSM connection  
+Title: Conexão de ITSM  
+Description: Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
+#Conexão de ITSM    
 
-This functionality is able to provide a configuration screen to establish conection with CITSmart.  
+Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
 
-##HOW TO ACCESS  
-1- Access the feature by navigating the menu Builder → Configuration → ITSM Connection.  
+##COMO ACESSAR  
+1- Acesse a funcionalidade através da navegação no menu Builder → Configuração → Conexão ITSM.   
 
-##PRE-CONDITIONS  
-1- Not applicable.  
+##PRÉ-CONDIÇÕES    
+1- Não se aplica.   
 
-##FILTERS
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:
-  - Keyword.
+##FILTROS  
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:  
+  - Palavra chave.  
 
 ![Screenshot](images/ITSM-Search.png)   
-Figure 1 - Search screen  
+Figura 1 - Tela de pesquisa     
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the default listing of the functionality: Name and Description.  
+##LISTAGEM DE ITENS    
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome e Descrição.   
   
 ![Screenshot](images/ITSM-Listing.png)  
-Figure 2 - Listing screen  
+Figura 2 - Tela de listagem     
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To register an ITSM connection, click New as shown in the figure below:  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+1- Para cadastrar uma conexão ITSM, clique em Cadastrar, conforme ilustrado na figura abaixo:    
 
 ![Screenshot](images/ITSM-Filling.png)  
-Figure 3 - ITSM connection home screen  
+Figura 3 - Tela inicial de conexão ITSM   
 
-2- On this screen the user is also allowed other actions. They are:  
-- To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
-- To view an item, select the item and click View.  
-- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
-3- When you click Next, the following screen will appear:  
+2- Nesta tela também é permitido ao usuário outras ações. São elas:     
+- Para editar um item criado, selecione o item desejado, clique em Editar, faça as alterações, e acione Salvar.    
+- Para visualizar um item, selecione o mesmo e clique em Visualizar.   
+- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
+
+3- Ao clicar em Cadastrar, será apresentada a seguinte tela:   
 
 ![Screenshot](images/ITSM-Registration.png)  
-Figure 4 - Registration screen  
+Figura 4 - Tela de cadastro    
 
-4- Fill the name, description, URL, user and password to save the connection.  
-5- Click Save to create the ITSM connection. Click Search to return to the previous screen.  
-6- The connection can be attached to an existent business process.  
+4- Informe o nome, descrição, URL, usuário e senha para salvar a conexão.    
+5- Clique em Salvar para criar a conexão ITSM. Clique em Pesquisar para voltar para a tela anterior.  
+6- A conexão pode ser vinculada a um processo de negócio cadastrado.    
 
