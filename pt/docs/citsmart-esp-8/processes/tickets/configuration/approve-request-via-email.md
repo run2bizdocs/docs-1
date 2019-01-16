@@ -43,19 +43,19 @@ Procedimento
 2.  Colar o modelo de e-mail disponibilizado em HTML em anexo, no campo Texto e
     verificar as seguintes diretrizes:
 
--   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+    -   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
--   serviceRequestIncident = Direcionamento da interface : esse campo não pode
-    ser alterado pelo usuário;
+    -   serviceRequestIncident = Direcionamento da interface : esse campo não pode
+        ser alterado pelo usuário;
 
--   \${IDSOLICITACAOSERVICO} = Chave para incrementar o número da solicitação de
-    serviço : esse campo não pode ser alterado pelo usuário;
+    -   \${IDSOLICITACAOSERVICO} = Chave para incrementar o número da solicitação de
+        serviço : esse campo não pode ser alterado pelo usuário;
 
--   VIEW - chama o comando para abrir a solicitação : esse campo não pode ser
-    alterado pelo usuário;
+    -   VIEW - chama o comando para abrir a solicitação : esse campo não pode ser
+        alterado pelo usuário;
 
--   MM (50) - Tempo de expiração do token em Minutos : esse campo pode ser
-    alterado pelo usuário;
+    -   MM (50) - Tempo de expiração do token em Minutos : esse campo pode ser
+        alterado pelo usuário;
 
 1.  Clicar em "Gravar".
 
