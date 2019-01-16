@@ -20,7 +20,7 @@ Procedimento
     opção de captura ou visualização da requisição;
 
 3.  Para visualizar informações sobre campos específicos, clicar nas
-    guias: **Solicitante**, **Requisição ** e **Fechamento**;
+    guias: **Solicitante**, **Requisição** e **Fechamento**;
 
 4.  Para vincular **Mudanças**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar a mudança desejada. Se
