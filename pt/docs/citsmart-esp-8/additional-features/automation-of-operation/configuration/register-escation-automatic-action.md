@@ -1,32 +1,33 @@
-title: Register escalation automatic action
-Description: Provides a variety of actions, such as including, changing, and deleting escalation automatic action.
-#Register escalation automatic action
+title: Cadastrar ação automática de escalonamento
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ação automática de escalonamento.
+#Cadastrar ação automática de escalonamento
 
-This functionality has the objective the action scheduling. It will be the
-complement to create an escalation rule.
+Esta funcionalidade tem por objetivo a ação de agendamento. Ela será o
+complemento para se criar uma regra de escalonamento.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting escalation automatic action.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir ação automática de escalonamento.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  To access click on the main menu System \> Automatic Actions \> Escalation
-    Actions;
+1.  Para ter acesso clicar no menu principal Sistema \> Ações automáticas \>
+    Ações de escalonamento;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
-Related
+
+Relacionado
 -------
 
-[Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
+Criar regra de escalonamento
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

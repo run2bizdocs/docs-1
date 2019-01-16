@@ -1,60 +1,59 @@
-title:  Create ticket
- 
-Description: Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
+title: Criar um ticket
+Description: Criar um ticket significa abrir um chamado dentro do sistema. 
+#Criar um ticket
+Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade de acompanhar seu histórico de atendimento com visualização de todas as ações remetidas a ele.
 
-#Create ticket
-Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Alguns itens no cadastro de um ticket dependem de informações cadastradas no
+CITSmart ITSM, por exemplo um colaborador, um grupo, um contrato, uma unidade,
+tempo de atendimento, um portfólio com atividades e serviços, além de vínculos
+entre alguns e parâmetros configurados e configurar os parâmetros 9, 40, 41, 260
+e 343.
 
-Some items in a ticket's registration depend on the information registered in
-CITSmart ITSM, for example an employee, group, contract, unit, time of
-attendance, portfolio with activities and services, as well as links between
-some configured parameters and set the parameters 9, 40, 41, 260 and 343.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+    Requisição e Incidente \> Ticket;
 
-1.  Access the functionality through the main menu Processes \> Request and
-    Incident Management \> Service Request and Incident;
+2.  Clicar no botão “Opções” e em seguida em "Cadastro";
 
-2.  Click on the options button “Operations” and then on "Register";
+3.  Informar os dados solicitados;
 
-3.  Give the data necessary;
+4.  Preencher os demais dados necessários.
 
-4.  Complete all necessary data.
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Visualizar no painel de tickets listados e verificar as informações cadastradas.
 
-View in the ticket pane listed and check the information registered.
+Relacionado
+---------------
 
-Related
------------
+Criar portfólio
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um grupo
 
-[Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+Cadastrar um colaborador
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar um contrato
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Cadastrar uma unidade
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um serviço
 
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+Cadastrar atividade de serviço
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Criar tempo de atendimento
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Configurar parametrização - ticket
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

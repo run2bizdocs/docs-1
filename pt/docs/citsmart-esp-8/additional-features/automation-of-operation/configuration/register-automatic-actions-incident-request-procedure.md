@@ -1,59 +1,61 @@
-title: Register automatic actions of incident/request/procedure
-Description: This registration will be associated to the automatic actions, where it will be used in the registrations of CITSmart event managers Nagios, Zabbix, Inventory and Events Correlated.
-#Register automatic actions of incident/request/procedure
+title: Cadastrar ação automática de incidentes/requisições/procedimentos
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas do tipo incidente/requisição/procedimento.
+#Cadastrar ação automática de incidentes/requisições/procedimentos
 
-Some events will present a status where the action appropriate will need to be
-treated by the incident management process, that is, this functionality is
-intended to register the automatic actions of incident/request/procedure. This
-registration will be associated to the automatic actions, where it will be used
-in the registrations of CITSmart event managers Nagios, Zabbix, Inventory and
-Events Correlated.
+Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
+tratada pelo processo de gerenciamento de incidentes, ou seja, esta
+funcionalidade tem como objetivo realizar o cadastro de ações automáticas do
+tipo incidente/requisição/procedimento. Este cadastro será associado às ações
+automáticas, onde será usado nos cadastros de gerentes de eventos do CITSmart
+Nagios, Zabbix, Inventory e Eventos Correlacionados.
 
-The event management supports the incident management process, because it's
-possible to detect early failures in the service and quickly work to avoid a
-service unavailability to the en user.
+O gerenciamento de eventos apoia o processo de gerenciamento de incidentes, pois
+a partir dele é possível detectar com antecedência falhas nos serviços e atuar
+rapidamente para evitar uma indisponibilidade do serviço para o usuário final.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting automatic actions of incident/request/procedure.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir ações automáticas do tipo incidente/requisição/procedimento.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To register an automatic action of request/incident/procedure, it's necessary to
-previously register the unit, group, contract, link group to contract,
-associating the requester (employees) already related to this group, to be
-listed the contracts and request related in the request screen, define the
-service portfolio, the time of attendance and periodic activity group.
+Para realizar o cadastro de uma ação automática de
+requisição/incidente/procedimento é necessário registrar previamente a unidade,
+o grupo, o contrato, vincular grupo aos contratos, associando os solicitantes
+(colaboradores) já relacionado a este grupo, para que sejam listados os
+contratos e os solicitantes relacionados na tela de solicitação, definir o
+portfólio de serviços, o tempo de atendimento e o grupo de atividade periódica.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Automatic Actions
-    \> Incident/Request/Procedure Actions;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Ações Automáticas \> Ações de Incidentes/Requisições/Procedimentos;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-Related
+
+Relacionado
 -------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Criar portfólio
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+Criar tempo de atendimento
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cdastrar um colaborador
 
-[Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+Cadastrar grupo de atividade periódica
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Cadastrar uma unidade
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

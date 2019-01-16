@@ -1,130 +1,143 @@
-Title: Service Integration Flow  
-Description:Service integration flows, as the name implies, involve workflows that are executed based on system services, such as integrations and conversions, for example.  
-#Service Integration Flow   
-Service integration flows, as the name implies, involve workflows that are executed based on system services, such as integrations and conversions, for example.  
+Title: Fluxo de integração de serviços  
+Description:Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
-##HOW TO ACCESS  
 
-1- Access the functionality through the menu **Neuro → Management → ESI Flow.**   
+#Fluxo de integração de serviços   
+Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
-##PRECONDITIONS  
+##COMO ACESSAR    
 
-1- Not applicable  
+1- Acesse a funcionalidade através do menu Neuro → Gerenciamento → Fluxo ESI.     
 
-##FILTERS  
+##PRÉ-CONDIÇÕES    
 
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1- Não se aplica.   
 
-- Keyword  
+##FILTROS  
+
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+
+- Palavra chave  
 
 ![Screenshot](images/Service-Integration-Flow-fig01.png) 
-Figure 1 - Search screen   
+Figura 1 - Tela de pesquisa    
 
-##ITEMS LIST  
+##LISTAGEM DE ITENS    
 
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description, Flow Application, Version**, and **Block date**.  
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Service-Integration-Flow-fig02.png)   
-Figure 2 - Listing screen   
+Figura 2 - Tela de listagem     
 
-##FILLING IN THE REGISTRATION FIELDS - FLOW DATA  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO   
 
-Through this tab, all basic information about the flow to be design is defined.  
+Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
-1- To add a new flow, click **New → Integration services flow**, as shown in the figure below:  
+1- Para adicionar um novo fluxo, clique em Cadastrar→ Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/Service-Integration-Flow-fig03.png)   
-Figure 3 - Registration screen  
+Figura 3 - Tela de registro   
 
-2- To add a new flow data, click Add.  
-3- The following screen will be displayed:  
+2- Para cadastrar um novo dados do fluxo, clique em Adicionar.   
+3- Será apresentada a seguinte tela:    
 
 ![Screenshot](images/Service-Integration-Flow-fig04.png)   
-Figure 4 - Workflow registration / editing screen, Flow Data tab   
+Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo    
 
-4- Enter a **name** for the flow, a **description**, which **form** will start the flow (if applicable), and whether or not flow execution will persist. If the field **"Keep running the stream"** is checked, Neuro will persist in the database on every instance of the execution of this flow.  
+4- Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Neuro persistirá no banco de dados de toda instância da execução deste fluxo.    
 
-5- The field **version** is incremented automatically by the system whenever a new version of the workflow is created.  
+5- O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada.    
 
-##VARIABLES  
+##VARIÁVEIS  
 
-In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
+Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.  
 
-1- To add a new variables, choose the tab for the same and then click Add.  
-2- The following screen will be displayed:  
+1- Para adicionar uma variável, selecione a sua aba referente e clique em Adicionar.  
+2- Será apresentada a seguinte tela:    
 
 ![Screenshot](images/Service-Integration-Flow-fig05.png)   
-Figure 5 - Workflow registration / editing screen, Variables tab   
+Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis     
 
-3- Fill in the fields:  
+3- Preencha os campos:    
 
-- Variable's name;  
-- Description;  
-- Whether it will be stored in the database;  
-	- This option will store the value of the variable internally within the **Neuro** data model, so it will retain the value during the execution of the tasks  
-- Whether it is a return variable;  
-	- This option will cause **Neuro** to return the variable at the end of the flow run.  
-- Whether it is a values list;  
-- If it is an input variable in the flow interface;  
-	- This option allows the variable to be "injected" into the business process linked to this flow.  
-- If it is an output variable in the flow interface;  
-	- This option causes the variable to have the value filled when the business process bound to the flow is executed.  
-- The variable type;  
-	- If it is a Java object, enter the corresponding Java class;  
-	- If it is a business object, inform what its respective application is and what the registered name of the business object;  
-- The initial value of the variable, whether constant or script.  
-	- If the value is a constant, it will never be changed during the flow execution, regardless of the operations performed by the user.  
+- Nome da variável;  
+- Descrição;  
+- Se será armazenada no banco de dados;  
 
-4- To edit a variable, select the desired variable, click Edit, make the necessary changes, and click Update to complete the edit.  
+	- Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor durante a execução das tarefas  
 
-5- To remove a variable flow, select the desired variable, click Remove, and confirm the deletion.  
+- Se é uma variável de retorno;  
 
-!!! Abstract "ATTENTION"  
+	- Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
 
-    **To save the changes effectively, click Save on the top bar.**  
+- Se é uma lista de valores;  
+- Se é uma variável de entrada na interface do fluxo;  
 
-##ACTIONS  
+	- Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.  
 
-Through this menu, it is possible to register the actions that will be run in the workflow.  
+- Se é uma variável de saída na interface do fluxo;  
 
-The actions are based on scripts programmed in **Rhino** language.  
+	- Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.  
 
-	1- To include an action, choose the tab for the same and then click go to Add.  
-	2- The following screen will be displayed:  
+- O tipo da variável;  
+
+	- Se for um objeto Java, informe a classe Java correspondente;  
+	- Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
+
+- O valor inicial da variável, se constante ou script.  
+
+	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.  
+
+4- Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
+
+5- Para remover uma variável do fluxo, selecione a variável desejada, clique em Remover e confirme a exclusão.    
+
+!!! Abstract "ATENÇÃO"  
+
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+
+##AÇÕES  
+
+Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.   
+
+As ações são baseadas em scripts programados na linguagem Rhino.   
+
+	1- Para adicionar uma ação, selecione sua aba referente e clique em Adicionar.   
+	2- Será apresentada a seguinte tela:  
 
 ![Screenshot](images/Service-Integration-Flow-fig06.png)   
-Figure 6 - Register/edit workflow, actions tab 
+Figura 6 - Tela de cadastro/edição do workflow, aba de Ações   
 
-3- Fill in the fields:  
+3- Preencha os campos:   
 
-- an **identifier** for the action;  
-- the literal **name** for the action;  
-- and the **script** that will be run when the action is triggered.  
+- Um identificador para a ação;    
+- O nome literal para a mesma;   
+- O script que será executado quando a ação for acionada.    
 
-4- To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
+4- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
 
-5- To remove an action, select the action, click Remove, and confirm the deletion.  
+5- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.   
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To save the changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior**  
 
-##DIAGRAM  
+##DIAGRAMA  
 
-The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process Workflow"**.  
+O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo workflow”.  
 
-For a business process, we have, in addition, these components sections:  
+Para um processo de negócio, possuímos a mais as seções de componentes:   
 
-- **Connectors**: components used to perform operations related to the database.  
-- **Components**: varied components for performing various tasks.  
-- **Transformers**: components for converting variable types.  
-- **CITSmart**: components used for integration with an external Citsmart system.  
+- Conectores: componentes utilizados para a execução de operações relacionadas à banco de dados.  
+- Componentes: componentes variados para a execução de diversas tarefas.  
+- Transformadores: componentes para a conversão de tipos de variáveis.  
+- CITSmart ITSM: componentes utilizados para integração com um sistema CITSmart ITSM externo.   
 
-The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
+Os demais componentes presentes na paleta se assemelham aos componentes de um “Fluxo de Processo”. Mais informações a respeito da funcionalidade e utilização de cada um dos componentes podem ser encontradas no Desenvolvendo Aplicações.    
 
-1- To design a diagram, choose the tab for the same  
-2- The following screen will be displayed:  
+1- Para desenhar o diagrama, escolha a aba refente ao mesmo.  
+2- A seguinte tela será exibida:  
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png) 
-Figure 7 - Register/edit workflow, diagram tab
+Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
 

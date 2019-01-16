@@ -35,8 +35,6 @@ Procedure
 Related
 -----------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
-
 [Configure remote access](/en-us/citsmart-esp-8/processes/configuration/configuration/configure-remote-access.html)
 
 [Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
