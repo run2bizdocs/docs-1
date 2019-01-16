@@ -1,1 +1,3 @@
-Title: Configuration
+Title: Configuring Feature
+
+# Configuring Feature
