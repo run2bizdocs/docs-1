@@ -1,53 +1,52 @@
-title: Register release request
-Description: This functionality makes available several actions, like, include, change and delete a release request. 
-#Register release request
-According to ITIL, release is "one or more changes to an IT service that are built, tested and deployed together. A single release may include changes to hardware, software, documentation, processes and other components".
-This functionality makes available several actions, like, include, change and delete a release request.
+title:  Cadastrar uma requisição de liberação 
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
+#Cadastrar uma requisição de liberação
+Segundo a ITIL, liberação é "Uma ou mais mudanças a um serviço de TI que são construídas, testadas e implantadas ao mesmo tempo. Uma única liberação pode incluir mudanças ao hardware, software, documentação, processos e outros componentes.".
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-The Release Request is part of the Change process, so it is necessary to have a
-registered RFC (request for change). To register a release request, it's
-necessary to have previously registered the release portfolio, the employee,
-contract, unit linked to the contract, executor group linked to the contract,
-type of release and periodic activity group.
+A Requisição de Liberação é parte do processo de Mudança, sendo assim é
+necessário ter uma RDM (requisição de mudança) cadastrada. Além disso, é
+necessário cadastrar previamente o portfólio de liberação, bem como ter definido
+as permissões de acesso à Requisição de Liberação.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Liberação;
 
-2.  Click on the options button “Operations” and then on "Register";
+2.  Clicar no botão “Opções” e em seguida em "cadastro";
 
-3.  Complete the fields available in the areas: requester and request.
+3.  Preencher todos os campos disponibilizados nas áreas: solicitante e
+    requisição.
 
-4.  It's also necessary to indicate the initial release planning and deployment
-    information. In the "Other information" tab of each phase, assign the
-    beginning and end date and time of each one of them;
+4.  Também é necessário indicar as informações iniciais de planejamento e
+    implantação da liberação. Na aba "Outras informações" de cada fase, designar
+    a data e hora iniciais e finais de cada uma;
 
-5.  Click on the options button “Operations” and then on "Save".
+5.  Clicar no botão “Opções” e em seguida "Gravar".
 
-Related
------------
+Relacionado
+---------------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um grupo
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um colaborador
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um contrato
 
-[Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+Cadastrar uma unidade
 
-[Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+Cadastrar grupo de atividade periódica
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Relacionar informações à requisição de liberação
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
