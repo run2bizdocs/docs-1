@@ -1,62 +1,64 @@
-title: Create template of incident, request and procedure
-Description: provides a variety of actions, such as including, changing, and deleting a template to facilitate the opening of a new request.
-#Create template of incident, request and procedure
+title: Criar modelo de template de incidente, requisição e procedimento
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um template para facilitar a abertura de uma nova solicitação.
+#Criar modelo de template de incidente, requisição e procedimento
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a template to facilitate the opening of a new request.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um template para facilitar a abertura de uma nova solicitação.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-In order to register a ticket template, it's necessary to pre-register the
-contract and being linked to the service; the group and being linked to the
-contract; the unit and being linked to the contract; have access to the Ticket
-Template functionality; have the portfolio with the service and request and
-incident activities, being linked to the service contract; have the time of
-attendance of the request and incident activities defined; the requester must be
-included in the group that is linked to the contract so that it's possible to
-register the and configure parameter 9.
+Para cadastrar um modelo/template de ticket é necessário registrar previamente o
+contrato e este estar vinculado ao serviço, o grupo e este estar vinculado ao
+contrato, a unidade e esta estar vinculada ao contrato, ter acesso à
+funcionalidade de Modelo de Ticket, ter o portfólio com o serviço e as
+atividades de requisição e incidente e estarem vinculadas ao contrato de
+serviço, ter o tempo de atendimento das atividades de requisição e incidente
+definidos, o solicitante deve estar incluído no grupo que está vinculado ao
+contrato para que seja possível registrar a solicitação e configurar o parâmetro
+9.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality Incidents/Requests/Procedures Template through the
-    main menu Processes \> Request and Incident Management \> Ticket model;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Requisição e Incidente \> Modelo de Ticket;
 
-2.  Complete all mandatory fields;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-Related
+
+Relacionado
 -------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register a service](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar um serviço
 
-[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+Configurar atributos de serviço
 
-[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+Configurar atributos do contrato do serviço
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Criar portfólio
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+Criar tempo de atendimento
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Cadastrar uma unidade
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Configurar parametrização- ticket
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
 
 

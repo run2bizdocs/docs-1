@@ -1,33 +1,34 @@
-title: SLA Evaluation
+title:  Avaliação de SLA 
+Description: Tem por objetivo gerar informações de acordo de nível de serviço.
+#Avaliação de SLA
+Segundo o ITIL, um Acordo de Nível de Serviço (ANS) ou, em inglês, Sevice Level Agreement (SLA), é um acordo entre o provedor de serviços de TI e um cliente. O ANS descreve o serviço de TI, documenta metas de nível de serviço e especifica as responsabilidades do provedor de serviços de TI e do cliente.
+Esta funcionalidade tem por objetivo gerar informações de acordo de nível de serviço, onde as mesmas auxiliarão na confecção de plano de qualidade.
 
-Description: This functionality has the objective of creating information about the service level agreement.
-#SLA Evaluation
-According to ITIL, a Service Level Agreement (SLA), is an agreement between an IT service provider and a customer. A SLA describes the IT service, documents service level targets, and specifies the responsibilities of the IT service provider and the customer.
-This functionality has the objective of creating information about the service level agreement, which will help in the creation of quality plan.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+As informações geradas nesta funcionalidade dependem de um cadastro prévio de
+SLA.
 
-The information created in this functionality depends of previously registration
-of the SLA.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Processos \> Gerência de Nível de Serviço \> Avaliação \> SLA;
 
-1.  Access the functionality SLA Evaluation through the main menu Processes \>
-    Service Level Management \> Evaluation \> SLA Evaluation;
+2.  Definir intervalo de datas;
 
-2.  Set the date periods;
+3.  Clicar em "Gerar Informações".
 
-3.  Click on "Create Information".
-
-Related
+Relacionado
 -----------
 
-[Service level agreement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+Acordo de Nível de Serviço
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+
