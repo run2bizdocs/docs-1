@@ -159,11 +159,11 @@ Title: Frequently Asked Questions
     4. Select it;
     5. The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
     
-	RULE: if it is determined that notifications will be mandatory, when registering a service request, on the Incident/Request Service entry screen, these options will be selected already, not allowing any changes. But if it has been determined that notifications will not be mandatory, when registering a service request, these options will be available to be determined by the petitioner.
+	    RULE: if it is determined that notifications will be mandatory, when registering a service request, on the Incident/Request Service entry screen, these options will be selected already, not allowing any changes. But if it has been determined that notifications will not be mandatory, when registering a service request, these options will be available to be determined by the petitioner.
     
     6. On the Incident/Request Service Request screen, when registering a service request the rules related to the e-mail notifications will be established, determined in the group entry.
     
-	RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the petitioner.
+	    RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the petitioner.
     
 ??? Question "How to define the obligatoriness of the linking change with IC?"
     The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
