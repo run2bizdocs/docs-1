@@ -146,14 +146,14 @@ Title: Frequently Asked Questions
 	In order for the notification be sent it is necessary to perform the following procedures :
     
     1. Access the Contract Services related to the business service Portfolio Management → Services Portfolio → Business Service → Contract → Services and technical service Portfolio Management → Service Portfolio → Business Service → Support/Technical Service → Contract → Services e and insert the e-mail template in the fields:
-    "Incident/Request Opening E-mail Template"
-    "Incident/Requistion Execution E-mail Template"
-    "Incident/Request Ongoing Activities E-mail Template"
+    - "Incident/Request Opening E-mail Template"
+    - "Incident/Requistion Execution E-mail Template"
+    - "Incident/Request Ongoing Activities E-mail Template"
     
-	RULE: if e-mail templates are not inserted, the notification will not be sent.
+	    RULE: if e-mail templates are not inserted, the notification will not be sent.
 
     2. Access the Group Register feature General Registration → Staff Management → Group.
-
+    
     3. The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
     4. Select it;
     5. The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
@@ -258,11 +258,11 @@ Title: Frequently Asked Questions
     6. Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
     7. Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
     
-	195 - E-mail template id for sending deadline request notification (Eg: 1)
-    197 - User login that will receive e-mail regarding service request scheduling rules that are expiring (eg Consultant)
-    113 - E-mail Template ID for Auto Escalation
-	10 - SMTP SEND - E-mail origin of service request notifications
-    33 - System access URL
+	- 195 - E-mail template id for sending deadline request notification (Eg: 1)
+    - 197 - User login that will receive e-mail regarding service request scheduling rules that are expiring (eg Consultant)
+    - 113 - E-mail Template ID for Auto Escalation
+	- 10 - SMTP SEND - E-mail origin of service request notifications
+    - 33 - System access URL
     
 	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
    
@@ -280,7 +280,7 @@ Title: Frequently Asked Questions
 
     RULE: where $ {value} is replaced by the corresponding values.
 	
-    1 .START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
+    1. START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
     2. START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
     3. START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
     4. QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
@@ -304,6 +304,7 @@ Title: Frequently Asked Questions
     There are two ways to link staff members (users) to groups, being:
 
 	FROM THE GROUP'S REGISTRY
+	
     1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see knowledge Group registration and search);
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
@@ -349,7 +350,7 @@ Title: Frequently Asked Questions
     - System Logo: Image presented when accessing the system;
     - Report Logo: Image presented in all jasper reports.
 	
-    2.Upload (can be different images).
+    2. Upload (can be different images).
     
 	RULE: If you do not choose a new logo, the default logo will be CITSmart logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the CITSmart ITSM.
 
@@ -367,6 +368,7 @@ Title: Frequently Asked Questions
     3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento
 
 	INDEXING EXISTING KNOWLEDGE ENTRIES
+	
     1. To index knowledge entries navigate to the screen “System → Configurations → Knowledge Management (Index)”;
     2. If there are indexed knowledge entries already click on “Remove Knowledge base index”;
     3. Shortly after, click on "Index Knowledge Base";
