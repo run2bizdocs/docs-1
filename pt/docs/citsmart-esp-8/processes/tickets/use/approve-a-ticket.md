@@ -1,10 +1,8 @@
-title: Approve a ticket
+title:  Approve a ticket 
+Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution. That will depend on the ticket workflow, which is linked to the service request activity.
+#Approve a ticket
+In some cases, the tickes of type "Request" will pass through an approval phase to its execution. That will depend on the ticket workflow, which is linked to the service request activity.
 
-Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution.  
-# Approve a ticket  
-
-Approve a ticket
-In some cases, the tickes of type "Request" will pass through an approval phase to its execution. That will depend on the ticket workflow, which is linked to the service request activity.  
 
 Before getting started
 --------------------------

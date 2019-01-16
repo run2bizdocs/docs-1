@@ -1,242 +1,264 @@
-title: Generate reports - Request and Incident management  
-Description: Generate reports – Ticket management
+title: Gerar relatórios - Gerência de incidentes e requisições
+Description: Permite gerar relatórios de dicversão maneiras sobre gerência de requisição e indente.
+#Gerar relatórios - Gerência de incidentes e requisições
 
-#Generate reports - Request and Incident management
+Gerar relatório de causas e soluções
+----------------------------------------
 
-##Generate reports of causes and solutions
+Este relatório tem o objetivo de apresentar as causas e soluções das
+solicitações de serviços.
 
-This report has the objective to present the causes and solution of the service
-requests.  
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Controle de Causas e Soluções;
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Managment \> Causes and Solutions Control;
+2.  Definir os filtros conforme a necessidade;
 
-2-  Set the filters as needed;
+3.  Para gerar relatório gráfico, clicar no botão "Gerar gráfico PDF" para gerar
+    o relatório em formato PDF e/ou no botão "Gerar gráfico XLS" para gerar o
+    relatório em formato Excel;
 
-3-  To generate a graphic report, click on "Generate chart PDF" to create the
-    report in PDF and/or on "Generate XLS chart" to create the report in Excel;
+4.  Para gerar relatório com informações detalhadas, clicar no botão "Gerar
+    relatório analítico PDF" para gerar o relatório detalhado em formato PDF
+    e/ou no botão "Gerar relatório analítico XLS" para gerar o relatório
+    detalhado em formato Excel.
 
-4-  To generate report with detailed information, click on "Generate Analytical
-    Report PDF" to create the detailed report in PDF and/or on "Generate
-    Analytical Report XLS" to create the detailed report in Excel.
+Gerar relatório de gantt
+----------------------------
 
-##Generate report Gantt
+Este relatório tem o objetivo de apresentar os incidentes e requisições de
+serviço em gráfico de Gantt.
 
-This report has the objective of present the service incidents and requests in
-Gantt chart.
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gantt;
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Gantt;
+2.  Definir os filtros conforme a necessidade;
 
-2-  Set the filters as needed;
+3.  Clicar no botão "Filtrar" para gerar o gráfico de Gantt, conforme o filtro
+    escolhido.
 
-3-  Click on "Filter" to generate the Gantt chart.
+Gerar relatório de carga horária trabalhada
+-----------------------------------------------
 
-##Generate workload report
+Este relatório tem o objetivo de apresentar o cálculo da quantidade de horas
+trabalhadas por cada colaborador e/ou por grupo.
 
-This report has the objective of present the calculation of hours worked for
-each employee and/or group.
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Relatório Carga Horária Trabalhada;
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Workload Report;
+2.  Definir os filtros conforme a necessidade;
 
-2-  Set the filters as needed;
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-3-  Click on "Generate PDF" to create the report in PDF and/or click on
-    "Generate XLS" to create report in Excel.
+!!! Abstract "ATENÇÃO"
 
-!!! Abstract "Note"
-    When a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
-    date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person   
-    captures that request.
+    Quando uma pessoa "captura" uma solicitação ou clicar em "gravar e manter
+    tarefa", o tempo começa a ser contabilizado para essa pessoa, pois são
+    armazenadas as informações de data, hora e usuário, parando apenas quando a
+    solicitação é pausada, cancelada, concluída ou quando outra pessoa captura
+    essa solicitação.  
 
-##Generate quantitative report
+Gerar relatório quantitativo
+--------------------------------
 
-This report has the objective of present the amount of service requests
-according to the status entered.
+Este relatório tem o objetivo de apresentar a quantidade de solicitações de
+serviço de acordo com a situação informada.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Quantitative;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Quantitativo;
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme sua necessidade;
 
-3-  Click on "Generate PDF" to create the report in PDF and/or click on
-    "Generate XLS" to create the report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate report quantitative by services completed (synthetic)
+Gerar relatório quantitativo por serviços concluídos (sintético)
+--------------------------------------------------------------------
 
-This report has the objective of present the report of requests/incidents
-(services) completed.
+Este relatório tem o objetivo de apresentar o relatório das
+requisições/incidentes (serviços) concluídos.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Quantitative by Services Completed (Synthetic);
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidente/Requisição \> Quantitativo por Serviços Concluídos
+    (Sintético);
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme a necessidade;
 
-3-  Click on "Generate PDF" to create the report in PDF and/or on "Generate XLS"
-    to create the report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate report of services completed (analytical)
+Gerar relatório quantitativo de serviços concluídos (analítico)
+-------------------------------------------------------------------
 
-This report has the objective of present the report of request/incident
-(services) completed.
+Este relatório tem o objetivo de apresentar o relatório das
+requisições/incidentes (serviços) concluídos.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Quantitative of Services Completed (Analytical);
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Quantitativo por Serviços Concluídos
+    (Analítico);
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme a necessidade;
 
-3-  Click on "Generate PDF" to create the report in PDF and/or on "Generate XLS"
-    to create a report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate report of satisfaction survey
+Gerar relatório de pesquisa de satisfação
+---------------------------------------------
 
-This report has the objective of present the information about the satisfaction
-survey in relation to the attendance of the service requests.
+Este relatório tem o objetivo de apresentar as informações sobre a pesquisa de
+satisfação em relação ao atendimento das solicitações de serviços.
 
-### Before getting started
+### Antes de começar
 
-It's necessary to have opened and closed call that have the satisfaction survey
-linked.  
+É necessário ter chamados abertos e fechados que possuam a pesquisa de
+satisfação vinculada.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Search Satisfaction;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Pesquisa Satisfação;
 
-2-  Set the filters as needed.
+2.  Definir os filtros conforme a necessidade;
 
-3-  Select how to create the report when click on "Generate PDF", "Generate XLS"
-    or "Export CSV".
+3.  Selecionar a forma de elaboração do relatório ao clicar em "Gerar PDF",
+    "Gerar XLS" ou "Exportar CSV".
 
-##Generate service requests
+Gerar relatório de solicitações de serviço
+----------------------------------------------
 
-This report has the objective of present the registration history of the service
-request.
+Este relatório tem o objetivo de apresentar o histórico dos registros de
+solicitações de serviços.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Search Incident/Request;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Pesquisa Solicitações/Incidentes;
 
-2-  Set the filters as needed and click on "Search". It will appear the
-    requests;
+2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar".
+    Será exibidas as solicitações;
 
-!!! Abstract "NOTE"
+!!! Abstract "ATENÇÃO"
 
-        The amount of requests listed, by page, is regarding the amount set
-        in the parameter "261 - amount of registers returned in the advanced
-        search".
+    A quantidade de solicitações listadas, por página, é referente a
+    quantidade configurada no parâmetro "261 - quantidade de registros
+    retornados na pesquisa avançada".  
 
-3-  In the requests presented in the list, it is possible to perform the
-    following actions: consult ticket history, view request/incident, view
-    attachments and reopen the ticket;
+1.  Nas solicitações apresentadas na lista, é possível realizar as seguintes
+    ações: consultar histórico do ticket, visualizar requisição/incidente,
+    visualizar anexos e reabrir o ticket;
 
-4-  If you want to generate the report with summary information of the research
-    that was performed, click the "Generate XLS" button to generate the report
-    in Excel format;
+2.  Caso queria gerar o relatório com informações resumidas da pesquisa que foi
+    realizada, clicar no botão "Gerar XLS" para gerar o relatório em formato
+    Excel;
 
-5-  If you want to generate the report with detailed information about the
-    research that was performed, click the "Generate PDF Detailed Report" button
-    to generate the detailed report in PDF format and / or the "Generate XLS
-    Detailed Report" button to generate the detailed Excel report .
+3.  Caso queira gerar o relatório com informações detalhadas da pesquisa que foi
+    realizada, clicar no botão "Gerar Relatório Detalhado PDF" para gerar o
+    relatório detalhado em formato PDF e/ou no botão "Gerar Relatório Detalhado
+    XLS" para gerar o relatório detalhado em formato Excel.
 
-##Generate request execution report
+Gerar relatório de solicitação por executante
+-------------------------------------------------
 
-This report has the objective of present the service request per executor.
+Este relatório tem o objetivo de apresentar as solicitações de serviço por
+executante.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Request per executor;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Solicitação por executante;
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme a necessidade;
 
-3-  Click on “Generate PDF” to create the report in PDF and/or on “Generate XLS”
-    to create the report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate request approval
+Gerar relatório de aprovação de solicitação
+-----------------------------------------------
 
-This report has the objective of present the service requests that were and were
-not approved.
+Este relatório tem objetivo de apresentar as solicitações de serviços que foram
+aprovadas e as que não foram aprovadas.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Search Approval Requests;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Pesquisa Aprovação solicitações;
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme a necessidade;
 
-3-  Click on “Generate PDF” to create report in PDF and/or click on “Generate
-    XLS” to create report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate request execution report
+Gerar relatório de execução de solicitação
+----------------------------------------------
 
-This report has the objective of present the responsible for executing the
-service request.
+Este relatório tem o objetivo de apresentar os responsáveis por executar as
+solicitações de serviços.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Request Execution Report;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Relatório Execução Solicitação;
 
-2-  Set the filters as needed;
+2.  Definir os filtros conforme a necessidade;
 
-3-  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
-    create the report in Excel.
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-##Generate report of reopened request
+Gerar relatório solicitações reabertas
+------------------------------------------
 
+Este relatório tem o objetivo de apresentar todas solicitações que foram
+reabertas em um determinado período.
 
-This report has the objective of present all request that were reopened in a
-period.
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidente/Requisição \> Solicitação Reaberta;
 
-### Procedure
+2.  Definir os filtros conforme a necessidade;
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Reopened Request;
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-2-  Set the filters as needed;
+Gerar relatório top 10 incidentes/requisições
+-------------------------------------------------
 
-3-  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
-    create the report in Excel.
+Este relatório tem o objetivo de apresentar o top 10 de incidentes/requisições
+de acordo com os filtros escolhidos pelo usuário.
 
-##Generate top 10 report of incidents/requests
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Relatório Top 10
+    Incidentes/Requisições;
 
+2.  Definir os filtros conforme a necessidade;
 
-This report has the objective of present the top 10 incidents/requests according
-to the filters choose by the user.  
+!!! Abstract "ATENÇÃO"
 
-1-  Access the functionality through the main menu Reports \> Incidents/Requests
-    Management \> Top 10 Report of Incidents/Requests;
+    Quando o usuário quiser fazer um análise de todas as solicitações,
+    definindo o valor "Todos" para o filtro "Top List", pode existir diferença
+    entre o número de solicitações do "Relatório Top 10 localidades que mais
+    abriram requisições/incidentes" com o número que foi encontrado nos outros
+    relatórios, devido a não obrigatoriedade de uma solicitação ser vinculada a
+    uma localidade.
 
-2-  Set the filters as needed;
+    O campo "data de finalização" será usado para filtrar o período do
+    "Relatório Top 10 de grupos solucionadores que mais resolveram
+    requisições/incidentes", portanto, poderá ser divergente do número de
+    solicitações abertas no período.
 
-!!! Abstract "NOTE"
+    O sistema irá apresentar todas unidades e serviços ativos referentes ao
+    contrato selecionado.
 
-        When the user wants to analysis all requests, setting the value to
-        “All” for the filter “Top List”, it can exists difference between the number
-        of requests of the “Top 10 report of locations that opened more
-        requests/incidents”, with the number that was found in other reports, due
-        the no obligation of a request being linked to a location.
+1.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-        The field “finish date” will be used to filter the period of the
-        “Top 10 report of execution groups that solved more requests/incidents”, so,
-        it can vary in the number of requests opened in the period.
+Gerar relatório de incidente/requisição por serviço
+-------------------------------------------------------
 
-        The system will present all unities and services actives, regarding
-        the contract selected.
+Este relatório tem o objetivo de apresentar a quantidade de requisição e
+incidente que foram solicitados referente ao serviço do catálogo do portfólio.
 
-3-  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
-    create the report in Excel.
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Relatório Quantitativo de
+    Incidentes/Requisições por Portfólio e Serviço;
 
-##Generate report of incident/request by service
+2.  Definir os filtros conforme a necessidade;
 
+3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-This report has the objective of present the amount of request and incident that
-were requested, regarding the service catalog and portfolio.
 
-1-  Access the functionality through the main menu Reports \> Quantitative
-    Report of Incidents/Requests by Portfolio and Service Request;
-
-2-  Set the filters as needed;
-
-3-  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
-    create the report in Excel.
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
