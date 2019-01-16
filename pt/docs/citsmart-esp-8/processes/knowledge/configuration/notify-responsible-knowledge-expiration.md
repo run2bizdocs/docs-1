@@ -42,7 +42,7 @@ Procedimento
 
 Relacionado
 ----------
-
+Configurar parametrização - conhecimento
 Criar conhecimento
 
 
