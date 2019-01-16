@@ -1,78 +1,84 @@
-title: Configure service contract attributes
-Description: Configure the attributes
-#Configure service contract attributes
-The guidance must be followed to configure the attributes, both IT/Business Service Contract and Business/Technical Service Contract.
+title: Configurar atributos do contrato do serviço
+Description: Configura os atributos tanto do Contrato do Serviço de Negócio/TI quanto do Contrato do Serviço de Apoio/Técnico.
+#Configurar atributos do contrato do serviço
 
-Before getting started
---------------------------
+As orientações devem ser seguidas para configurar os atributos tanto
+do *Contrato do Serviço de Negócio/TI* quanto do *Contrato do Serviço de
+Apoio/Técnico*.
 
-To configure the service contract attributes, it's necessary to previously
-register some functionalities, like: have permission to access the functionality
-Portfolio and Catalog Management, have the service portfolio registered, have
-the contract linked to the service, register the provider, client, currency,
-operating condition, define the calendar, the time of attendance, e-mails
-template, workflow and surveys.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para configurar os atributos do contrato do serviço é preciso antes cadastrar
+algumas funcionalidades, como: ter permissão de acesso às funcionalidades de
+Gerência de Portfólio e Catálogo, ter o portfólio com serviços cadastrados, ter
+o contrato vinculado ao serviço, cadastro de fornecedor, cliente, moeda,
+condição de operação, definir o calendário, o tempo de atendimento, modelos de
+e-mails, fluxo de trabalho e pesquisas.
 
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+Procedimento
+----------------
 
-2.  Access the Service Portfolio you want and click on "Advance";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Portfólio;
 
-3.  Click on "Advance" in the service to access it. Moreover, it will be
-    presented the Service Information screen;
+2.  Acessar o Portfólio de Serviços que deseja, clicar no botão "Avançar' do
+    mesmo;
 
-4.  Click on the Contract tab and then on "Advance" in the service contract to
-    access it;
+3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
+    apresentada a tela de Informações do Serviço;
 
-5.  It will be presented the tabs to configure the service contract attributes,
-    complete all mandatory fields within each tab.
+4.  Clicar na aba Contratos e logo em seguida clicar no botão "Avançar" do
+    contrato do serviço para acessá-lo;
 
-  Name               | Type |                                                                Objective                                                               |
-|:--------------------------------:|:----:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-| Contract Service Level Agreement | Link |                    It allows to specify what was agreed in the contract between the service provider and the client                    |
-|    View complexity by contract   | Link |                               It allows to identify the complesity values of the contract operating costs                              |
-|         Contract Profiles        | Link |            It allows to define the professional profile that will be fundamental to develop a project related to a contract            |
-|            User Groups           | Link |                                                It allows to link groups to the contract                                                |
-|         Contract Products        | Link |                                  It allows to specify the project deliverable related to the contract                                  |
-|       Communication Matrix       | Link |       It allows to define which documents will be communicated, to which stakeholders, how often (when) and by which means (how)       |
-|         Contract Formula         | Link | It allows to link formulas to the contract. Those formulas will be used to get the total cost value of the contract service activities |
-|          Business Units          | Link |                                            It allows to link business units to the contract                                            |
-|       Contract Attachments       | Link |                                                It allows to attach files to the contract                                               |
+5.  Serão apresentadas as abas para configurar os atributos do contrato do
+    serviço, preencher os campos disponibilizados dentro de cada aba.
 
 
-## Related
-
-[Register operating condition](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
-
-[Register provider](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
-
-[Register satisfaction survey](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
-
-[Register a client](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
-
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
-
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
-
-[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
-
-[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
-
-[Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
-
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
-
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
-
-[Register currency](/en-us/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
+|                  Nome                  |    Tipo    |                                                                                          Objetivo                                                                                         |
+|:--------------------------------------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Acordo de Nível de Serviço do Contrato | Vinculação |                                                Permite especificar o que foi acordado no contrato entre o provedor de serviços e o cliente                                                |
+|     Visão complexidade por contrato    | Vinculação | Permite identificar os valores de complexidade referentes aos custos operacionais do contrato. É muito utilizado no caso de gerenciamento das Ordens de Serviços relacionadas à moeda UST |
+|           Perfis do Contrato           | Vinculação |                               Permite definir os perfis dos profissionais que serão fundamentais para desenvolvimento de um projeto relacionado ao contrato                               |
+|           Grupos de Usuários           | Vinculação |                                                                            Permite vincular grupos ao contrato                                                                            |
+|          Produtos do Contrato          | Vinculação |                                                           Permite especificar os entregáveis do projeto relacionado ao contrato                                                           |
+|           Matriz Comunicação           | Vinculação |                               Permite definir quais documentos serão comunicados, para quais stakeholders, em que frequência (quando) e por qual meio (como)                              |
+|           Fórmula do Contrato          | Vinculação |                        Permite vincular fórmulas ao contrato. Essas fórmulas são utilizadas para obter o valor do custo total das atividades do serviço do contrato                       |
+|           Unidades de Negócio          | Vinculação |                                                                      Permite vincular unidades de negócio ao contrato                                                                     |
+|             Anexos Contrato            | Vinculação |                                                                            Permite anexar arquivos ao contrato                                                                            |
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+Relacionado
+---------
+
+Cadastrar condição de operação
+
+Cadastrar fornecedor
+
+Cadastrar pesquisa de satisfação
+
+Cadastrar um cliente
+
+Cadastrar um serviço
+
+Criar portfólio
+
+Definir a permissão de caesso às funcionlalidades do Gerenciamento de Portfólio
+
+Criar calendário
+
+Criar modelo de template d eincidente, requisição e procedimento
+
+Criar tempo de atendimento
+
+Manutenção de fluxo de trabalho
+
+Cadastrar moeda
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
