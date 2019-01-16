@@ -60,84 +60,84 @@ Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis
 
 3- Preencha os campos:    
 
-- Nome da variável;
-- Descrição;
-- Se será armazenada no banco de dados;
+- Nome da variável;  
+- Descrição;  
+- Se será armazenada no banco de dados;  
 
-	- Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor durante a execução das tarefas
+	- Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor durante a execução das tarefas  
 
-- Se é uma variável de retorno;
+- Se é uma variável de retorno;  
 
-	- Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.
+	- Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
 
-- Se é uma lista de valores;
-- Se é uma variável de entrada na interface do fluxo;
+- Se é uma lista de valores;  
+- Se é uma variável de entrada na interface do fluxo;  
 
-	- Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.
+	- Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.  
 
-- Se é uma variável de saída na interface do fluxo;
+- Se é uma variável de saída na interface do fluxo;  
 
-	- Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.
+	- Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.  
 
-- O tipo da variável;
+- O tipo da variável;  
 
-	- Se for um objeto Java, informe a classe Java correspondente;
-	- Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;
+	- Se for um objeto Java, informe a classe Java correspondente;  
+	- Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
 
-- O valor inicial da variável, se constante ou script.
+- O valor inicial da variável, se constante ou script.  
 
-	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.
+	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.  
 
-4- To edit a variable, select the desired variable, click Edit, make the necessary changes, and click Update to complete the edit.  
+4- Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
 
-5- To remove a variable flow, select the desired variable, click Remove, and confirm the deletion.  
+5- Para remover uma variável do fluxo, selecione a variável desejada, clique em Remover e confirme a exclusão.    
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To save the changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
 
-##ACTIONS  
+##AÇÕES  
 
-Through this menu, it is possible to register the actions that will be run in the workflow.  
+Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.   
 
-The actions are based on scripts programmed in **Rhino** language.  
+As ações são baseadas em scripts programados na linguagem Rhino.   
 
-	1- To include an action, choose the tab for the same and then click go to Add.  
-	2- The following screen will be displayed:  
+	1- Para adicionar uma ação, selecione sua aba referente e clique em Adicionar.   
+	2- Será apresentada a seguinte tela:  
 
 ![Screenshot](images/Service-Integration-Flow-fig06.png)   
-Figure 6 - Register/edit workflow, actions tab 
+Figura 6 - Tela de cadastro/edição do workflow, aba de Ações   
 
-3- Fill in the fields:  
+3- Preencha os campos:   
 
-- an **identifier** for the action;  
-- the literal **name** for the action;  
-- and the **script** that will be run when the action is triggered.  
+- Um identificador para a ação;    
+- O nome literal para a mesma;   
+- O script que será executado quando a ação for acionada.    
 
-4- To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
+4- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
 
-5- To remove an action, select the action, click Remove, and confirm the deletion.  
+5- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.   
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To save the changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior**  
 
-##DIAGRAM  
+##DIAGRAMA  
 
-The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process Workflow"**.  
+O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo workflow”.  
 
-For a business process, we have, in addition, these components sections:  
+Para um processo de negócio, possuímos a mais as seções de componentes:   
 
-- **Connectors**: components used to perform operations related to the database.  
-- **Components**: varied components for performing various tasks.  
-- **Transformers**: components for converting variable types.  
-- **CITSmart**: components used for integration with an external Citsmart system.  
+- Conectores: componentes utilizados para a execução de operações relacionadas à banco de dados.  
+- Componentes: componentes variados para a execução de diversas tarefas.  
+- Transformadores: componentes para a conversão de tipos de variáveis.  
+- CITSmart ITSM: componentes utilizados para integração com um sistema CITSmart ITSM externo.   
 
-The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
+Os demais componentes presentes na paleta se assemelham aos componentes de um “Fluxo de Processo”. Mais informações a respeito da funcionalidade e utilização de cada um dos componentes podem ser encontradas no Desenvolvendo Aplicações.    
 
-1- To design a diagram, choose the tab for the same  
-2- The following screen will be displayed:  
+1- Para desenhar o diagrama, escolha a aba refente ao mesmo.  
+2- A seguinte tela será exibida:  
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png) 
-Figure 7 - Register/edit workflow, diagram tab
+Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
 
