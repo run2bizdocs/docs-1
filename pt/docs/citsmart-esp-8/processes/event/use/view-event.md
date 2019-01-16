@@ -1,30 +1,31 @@
-title: View event
-Description: Is intended to view the information in the event registration.
-#View event
-This functionality is intended to view the information in the event registration.
+title: Visualizar um evento
+Description: Tem por objetivo visualizar as informações contidas no registro de um evento. 
+#Visualizar um evento
+Esta funcionalidade tem por objetivo visualizar as informações contidas no registro de um evento.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To view the information, it's necessary to previously register an event
-collected by the monitoring tool.
+Para visualizar as informações é necessário ter o registro de um evento coletado
+pela ferramenta de monitoração.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Event;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Evento;
 
-2.  Click on the event you want and then on the button “Open”.
+2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”.
 
-Related
------------
+Relacionado
+---------------
 
-[Register Nagios/Zabbix connection](/en-us/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+Cadastrar conexão Nagios/Zabbix
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+

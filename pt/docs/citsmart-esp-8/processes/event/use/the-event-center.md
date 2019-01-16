@@ -1,32 +1,29 @@
-title: The event center
-Description:Is intended to present some functionalities for the event management 
-#The event center
-This functionality is intended to present some functionalities for the event management, allowing to view charts, monitor and search event occurrences.
+title: A central de Eventos
+Description: Permitindo visualizar gráficos, acompanhar o monitoramento e pesquisar ocorrência de eventos.
+#A central de Eventos
+Esta funcionalidade tem como objetivo apresentar algumas funcionalidades para o gerenciamento de eventos, permitindo visualizar gráficos, acompanhar o monitoramento e pesquisar ocorrência de eventos.
+•	Gráficos;
+•	Gerenciamento;
+•	Pesquisa.
 
-•	Charts;
+Antes de começar
+--------------------
 
-•	Management;
+Para ter acesso a todas as possibilidades de visualizar as opções de um evento,
+é preciso que ter um servidor com aplicação EVM e Mongo funcional e comunicável
+com o ITSM.
 
-•	Search.
+Procedimento
+----------------
 
-Before getting started
---------------------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Evento;
 
-To have access to all possibilities of view the event options, it's necessary to
-have a server with EVM and Mongo application functional and communicable with
-ITSM.
+2.  Buscar pelo evento e ação desejados.
 
-Procedure
--------------
-
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Event;
-
-2.  Search for the event and action you want.
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
