@@ -1,40 +1,38 @@
-title: Service level requirement
-Description: Provides a variety of actions, such as including, changing, and deleting a service level requirement.
+title:  Requisito de nível de serviço 
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um requisito de nível de serviço. 
+#Requisito de nível de serviço
+O Requisito de Nível de Serviço (RNS) ou, em inglês, Service Level Requirement (SLR) é o requisito do cliente para um serviço de TI com base nos objetivos de negócio e é usado para negociar as metas de nível do serviço.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um requisito de nível de serviço.
 
-#Service level requirement
-The Service Level Requirement (SLR) is the requirement of a client to an IT service, based on the business objectives and it's used to negotiate the service level targets.
-This feature provides a variety of actions, such as including, changing, and deleting a service level requirement.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+O cadastro de um requisito de nível de serviço depende do cadastro do
+colaborador realizado antes do processo.
 
-To register a service level requirement, it's necessary to previously register
-an employee.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Nível de Serviço \> Requisito de Nível de Serviço;
 
-1.  Access the functionality Service Level Requirement through the main menu
-    Processes \> Service Level Management \> Service Level Request;
+2.  Clicar em "Novo";
 
-2.  Click on "New";
+3.  Informar os dados necessários.
 
-3.  Complete all necessary data.
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Clicar no botão "Pesquisar" para checar o requisito criado.
 
-Click on "Search" to check the requirement.
+Relacionado
+---------------
 
-Related
------------
+Cadastrar um colaborador
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
