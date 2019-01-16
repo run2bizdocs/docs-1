@@ -1,198 +1,188 @@
-title: Generate report through the panel of charts and reports - request and incident
+title: Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente
+Description: Diponibiliza diferente tipos de gráficos e relatórios referents a requisição e incidente
+#Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente
 
-Description: Generate report through the panel
+Os seguintes tópicos serão abordados sobre como gerar gráficos e relatórios para
+incidentes e solicitações.
 
-#Generate report through the panel of charts and reports - request and incident
+Em todos os casos existem diversas formas de visualizar os relatórios através de
+quatro ícones:
 
-The following topics will be addressed to understand how to generate charts and
-reports for incidents and requests.
+• Para gerar uma tabela com informações, clicar no ícone "Tabela";
 
-In all cases, there are several ways to view reports through four icons:
+• Para exibir as opções de gráficos, clicar no ícone "Gráficos" e selecionar o
+  formato do gráfico desejado;
 
--   To generate a table with information, click on the icon "table" ;
+• Para gerar um relatório no formato PDF, clicar no ícone "Download documento
+  PDF";
 
--   To display the chart options, click on the icon "charts" and select the shape of the
-    chart;
+• Para gerar um relatório no formato Excel, clicar no ícone Download documento
+  XLS".
 
--   To generate a report in PDF, click on the icon "download PDF document";
+Gerar relatórios de monitoramento de incidentes
+---------------------------------------------------
 
--   To generate a report in Excel, click on the icon "download document XLS" .
+Este relatório permite visualizar as informações sobre o monitoramento de
+incidentes em forma de gráficos.
 
-Generate reports of incidents monitoring
---------------------------------------------
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-This report allows to view the information about incident monitoring in for of
-charts.
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
 
+3.  Clicar sobre o relatório "Monitoramento de incidentes";
 
+4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
+5.  Será apresentado os gráficos de incidentes de acordo com os filtros
+    definidos.
 
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Incident Monitoring";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the charts of incidents according to the filters set.
-
-Generate reports of requests monitoring
--------------------------------------------
-
-This report allows to view the information about service request monitoring in
-form of charts.
-
-
-
-1.  Access the functionality through the main menu Reports \> Incidents/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Request Monitoring";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the charts of requests according to the filters set.
-
-Generate reports about the design in the capture of incidents and requests (closed)
----------------------------------------------------------------------------------------
-
-This report allows to view the information about the execution performance of
-incidents in form of list.
-
-
-
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Performance in the Incident and Request Capture
-    (Closed)";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the charts according to the filters set;
-
-6.  Remember that the report "incidents and requests capture" presents the time
-    of capture of the requests closed. The time of capture is the time between
-    the start of SLA and the execution of the first task counted by the SLA;
-
-7.  The report "Performance in the incident and request capture" presents a
-    summary table with the percentage of requests captured in the priority
-    period.
-
-Generate reports about the amount of attendance and SLA
------------------------------------------------------------
-
-This report allows to verify the number of attendance and SLA of incidents and
-requests.
-
-
-
-1.  Access the functionality though the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Quantity of service and SLA";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the report according to the filters set.
-
-Generate reports about the SLA control
-------------------------------------------
-
-This report allows to verify the SLA information of incidents and requests in
-form of chart.
-
-
-
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "SLA Control";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the report of SLA control according to the filters set.
-
-Generate quantitative reports by time of opening
+Gerar relatórios de monitoramento de requisições
 ----------------------------------------------------
 
-This report allows to verify the amount of requests registered by the time of
-its opening.
+Este relatório permite visualizar as informações sobre o monitoramento de
+requisições de serviço em forma de gráficos.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Monitoramento de Requisições";
+
+4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentados os gráficos de requisições de acordo com filtros
+    definidos.
+
+Gerar relatórios referentes ao desempenho na captura de incidentes e requisições (fechadas)
+-----------------------------------------------------------------------------------------------
+
+Este relatório permite visualizar as informações referentes ao desempenho da
+execução dos incidentes em forma de listagem.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Desempenho na captura de incidentes e requisições
+    (fechadas)";
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado os relatórios de acordo com os filtros definidos;
+
+6.  Lembrar que o relatório de "Captura de incidentes e requisições" mostra o
+    tempo de captura das solicitações encerradas. O tempo de captura é o tempo
+    decorrido entre o início do SLA e a execução da primeira tarefa que
+    contabiliza SLA;
+
+7.  Já o relatório "Desempenho na captura de incidentes e requisições" mostra um
+    quadro resumo com o percentual de solicitações capturados no prazo por
+    prioridade.
+
+Gerar relatórios referentes à qualidade do atendimento e SLA
+----------------------------------------------------------------
+
+Este relatório permite verificar a qualidade do atendimento e SLA dos incidentes
+e requisições.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Qualidade do atendimento e SLA";
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado o relatório de acordo com os filtros definidos.
+
+Gerar relatórios referentes ao controle de SLA
+--------------------------------------------------
+
+Este relatório permite verificar as informações de SLA dos incidentes e
+requisições em forma de gráfico.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Controle SLA";
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado o gráfico de controle de SLA de acordo com os filtros
+    definidos.
+
+Gerar relatórios quantitativos por horário de abertura
+----------------------------------------------------------
+
+Este relatório permite verificar a quantidade de solicitações registras pelo o
+horário de sua abertura.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Quantitativos por Horário de Abertura";
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado o gráfico do relatório de acordo com os filtros definidos.
+
+Gerar relatórios referentes as pesquisas de satisfação sobre atendimentos (incidentes e requisições)
+--------------------------------------------------------------------------------------------------------
+
+Este relatório permite verificar as informações de pesquisa de satisfação.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório " Pesquisa de Satisfação sobre Atendimentos
+    (Incidentes e Requisições);
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado o gráfico de pesquisa de satisfação de acordo com os
+    filtros definidos.
+
+Gerar relatórios referente as requisições de produtos e serviços
+--------------------------------------------------------------------
+
+Este relatório permite verificar as informações de requisições de produtos e
+serviços.
+
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Incidente/Requisição \> Gráficos e Relatórios (Painel);
+
+2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+    Requisições";
+
+3.  Clicar sobre o relatório "Requisições de produtos e serviços";
+
+4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
+
+5.  Será apresentado o relatório de requisições de produtos e serviços de acordo
+    com os filtros definidos.
 
 
-
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Quantitative by Opening Hours";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the chart of report according to the filters set.
-
-Generate reports about satisfaction surveys of attendances (incidents and requests)
----------------------------------------------------------------------------------------
-
-This report allows to verify the information of satisfaction survey.
-
-
-
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Satisfaction survey on attendance (incidents and
-    requisitions)";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the chart of satisfaction survey according to the
-    filters set.
-
-Generate reports about the products and services requests
--------------------------------------------------------------
-
-This report allows to verify the information of service products and requests.
-
-
-
-1.  Access the functionality through the main menu Reports \> Incident/Request
-    Management \> Charts and Reports (Panel);
-
-2.  In the field "Information Group", select the option "Incidents and
-    Requests";
-
-3.  Click on the report "Product and Service Requests";
-
-4.  Set the filters as needed and click on "Create";
-
-5.  It will be presented the report of products and services requests according
-    to the filters set.
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
 
