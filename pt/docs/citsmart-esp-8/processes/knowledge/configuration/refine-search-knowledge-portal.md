@@ -38,7 +38,7 @@ realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
 Relacionado
 -------
 
-Pesquisar conehcimento pelo Guia do Usuário
+Pesquisar conhecimento pelo Guia do Usuário
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
