@@ -1,41 +1,41 @@
-Title: Database connection
-Description: All database connections that are required for the applications created through Neuro are registered here.  
-#Database connection  
+Title: Conexão de banco  
+Description: Todas as conexões de banco de dados que são necessárias para as aplicações criadas através do Neuro são cadastradas aqui.    
+#Conexão de banco    
 
-All database connections that are required for the applications created through Neuro are registered here.  
+Todas as conexões de banco de dados que são necessárias para as aplicações criadas através do Neuro são cadastradas aqui.    
 
-##HOW TO ACCESS  
-Access the functionality through navigation in the main menu Neuro → Configuration → Database Connection.  
+##COMO ACESSAR    
+1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Conexão de Banco de Dados.  
 
-##PRECONDITIONS  
-Both the database connection of the built application and the connection to the databases to which the application integrates should be created.  
+##PRÉ-CONDIÇÕES  
+1- Deverá ser criada tanto a conexão de banco de dados da aplicação construída, quanto a conexão com os bancos de dados aos quais a aplicação se integra.    
 
-##FILTERS
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
-  - Keyword or enter.  
+##FILTROS  
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+  - Palavra chave ou enter.    
 
 ![Screenshot](images/DataConnection-Filters.png)    
-Figure 1 - Connection search screen   
+Figura 1 - Tela de pesquisa de conexão de banco de dados     
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Name and Type.  
+##LISTAGEM DE ITENS    
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome e Tipo.   
 
 ![Screenshot](images/DataConnection-ItemsList.png)   
-Figure 2 - Connection search screen   
+Figura 2 - Tela de listagem de conexão de banco de dados     
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To create a new connection, click New. Enter a Name for the connection, a Description, the Type of connection (JNDI or direct connection), and the type of the Database (access database documentation).  
-2- For JNDI connection, enter the JNDI Context, and the JNDI Name.  
-3- For direct connection, enter JDBC Path, User, and database Password.  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+1- Para criar uma nova conexão, clique em Cadastrar. Informe um Nome para a conexão, uma Descrição, o Tipo de conexão (JNDI ou conexão direta), e o tipo do Banco de dados.    
+2- Para conexão JNDI, informe o Contexto JNDI, e o Nome JNDI.   
+3- Para conexão direta, informe o Path JDBC, o Usuário e a Senha do banco.   
 
 ![Screenshot](images/DataConnection-register.png)   
-Figure 3 - Data connection register screen  
+Figura 3 - Tela de cadastro de conexão de banco   
 
 ![Screenshot](images/DataConnection-JNDI.png)     
-Figure 4 - JNDI connection record screen  
+Figura 4 - Tela de cadastro de conexão tipo JNDI   
 
 ![Screenshot](images/DataConnection-direct.png)   
-Figure 5 - Direct connection record screen
+Figura 5 - Tela de cadastro de conexão tipo direta  
 
 
 
