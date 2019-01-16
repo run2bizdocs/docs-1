@@ -1,37 +1,40 @@
-title: Store images in the gallery
-Description: Provides a variety of actions, such as including, changing, and deleting images to be used in the system.
-#Store images in the gallery
-This feature provides a variety of actions, such as including, changing, and deleting images to be used in the system.
+title: Armazenar imagens na galeria
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir upload de imagens para serem utilizadas posteriormente no sistema.
+#Armazenar imagens na galeria
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir upload de imagens para serem utilizadas posteriormente no sistema.
 
-To add an image in the gallery, it's necessary to previously register the image
-category.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para adição de imagens na galeria é necessário ter realizado o cadastro de
+categoria de imagem previamente.
 
-1.  Access the functionality Image Gallery through the main menu Processes \>
-    Knowledge Management \> Image \> Image Gallery;
+Procedimento
+----------------
 
-2.  Select the category;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Conhecimento \> Imagem \> Galeria de Imagens;
 
-3.  Click on "Add Image";
+2.  Selecionar a categoria;
 
-4.  Click on "Drop files here or click to upload";
+3.  Clicar em "Adicionar Imagem";
 
-5.  Click on "Save".  
+4.  Clicar em "Escolher arquivo";
 
-Related
+5.  Clicar em "Enviar".
+
+
+Relacionado
 -------
 
-[Register image category](/en-us/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
+Cadastrar categoria de imagem
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
