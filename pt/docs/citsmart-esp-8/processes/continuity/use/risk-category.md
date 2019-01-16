@@ -1,22 +1,23 @@
-title: Register risk category
-Description:Is intended to register the risks categories that will be used during the risk registration.
-#Register risk category
-This functionality is intended to register the risks categories that will be used during the risk registration.
+title: Cadastrar categoria de risco
+Description: Esta funcionalidade tem por objetivo cadastrar as categorias de riscos que serão usadas durante o cadastro do risco.
+#Cadastrar categoria de risco
+Esta funcionalidade tem por objetivo cadastrar as categorias de riscos que serão usadas durante o cadastro do risco.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Risk Category Registration;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Cadastro Categoria de Risco;
 
-2.  In the tab "**Register Category**", complete the necessary fields (name, tag
-    and color to risk category, besides of an icon to represent it);
+2.  Na aba "**Cadastrar Categoria**", preencher os campos necessários (nome,
+    definir uma tag e cor para a categoria de risco, além de um ícone para
+    representar a mesma);
 
-3.  Click on "Save".
+3.  Clicar no botão "Gravar" para efetuar a operação.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
