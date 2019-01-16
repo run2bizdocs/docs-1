@@ -1,27 +1,29 @@
-title: Import demand attribute data
-Description:Is intended to import the demand attribute data.
-#Import demand attribute data
-This functionality is intended to import the demand attribute data.
+title: Importar dados de atributo de demanda
 
-Procedure
--------------
+Description: Tem o objetivo de importar dados de atributo da demanda. 
+#Importar dados de atributo de demanda
+Esta funcionalidade tem o objetivo de importar dados de atributo da demanda.
 
-1.  Access the functionality through the main menu Processes \> Demand
-    Management \> Demand Attribute;
+Procedimento
+------------
 
-2.  Click on **Import Data**;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Demanda \> Atributo da Demanda;
 
-3.  It'll be present the file template to guide in the form and order the data
-    should be in the file;
+2.  Clicar na aba **Importar Dados**;
 
-4.  Before select the file, verify if it is in accordance to the template,
-    taking into consideration the format (.xls, .xlsx, .xml or .csv);
+3.  São apresentados os modelos de arquivos para orientar na forma e ordem que
+    os dados devem estar no arquivo;
 
-5.  Click on "Choose file" to attach;
+4.  Antes de selecionar o arquivo, verificar se o mesmo está de acordo com o
+    modelo, levar em consideração o formato (.xls, .xlsx, .xml ou .csv);
 
-6.  Click on "Send".
+5.  Clicar em "Escolher arquivo" para anexar;
+
+6.  Clicar em "Enviar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+
