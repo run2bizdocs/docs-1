@@ -2,6 +2,8 @@ title: Gerar relatórios - gerência de conhecimento
 Description: Apresenta as informações referentes aos conhecimentos contidos na base de conhecimento.
 #Gerar relatórios - gerência de conhecimento
 
+Este documento tem por objetijo apresentar diversos tipos de relatórios referentes aos conhecimentos contidos na base conhecimento.
+
 Gerar relatório de base de conhecimento
 -------------------------------------------
 
