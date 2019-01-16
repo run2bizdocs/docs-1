@@ -4,6 +4,7 @@ Description: Esta funcionalidade permite cadastrar a estratégia de continuidade
 #Cadastrar a estratégia de continuidade de serviços
 O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a estratégia de continuidade de serviços de TI.
 Nesta tela, é apresentado uma tarja verde informando a porcentagem de funções contempladas para o sumário executivo e uma tarja vermelha informando a porcentagem de funções vitais não contempladas para o objetivo.
+
 Antes de começar
 ----------------
 
