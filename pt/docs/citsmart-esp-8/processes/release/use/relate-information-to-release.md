@@ -1,68 +1,74 @@
-title: Relate information to the release request
-Description: It's possible to link the release to other functionalities.
-#Relate information to the release request
-It's possible to link the release to other functionalities, for example: change, projects and others, intended to include further information when executing the release.
+title:  Relacionar informações à requisição de liberação 
+Description: É possível vincular à Liberação uma série de informações.
+#Relacionar informações à requisição de liberação
+É possível vincular à Liberação uma série de informações, tais como: mudança, projeto, IC dentre outros, no intuito de solidificar e embasar a execução do processo.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To link, it's necessary to previously register the change, problem,
-questionnaire, definitive media, knowledge and requests.
+O vínculo de informações pode ocorrer em todo o ciclo de vida da Liberação,
+dessa forma pode - e deve - ser utilizado a qualquer momento, caso necessário,
+no entanto é necessário ter acesso a uma Liberação.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
+    Liberação \> Liberação;
 
-2.  To inform the complementary data of the release request, check the option to
-    capture or view the request;
+2.  Para informar os dados complementares da requisição de liberação, marque a
+    opção de captura ou visualização da requisição;
 
-3.  To view the information about specific field, click on the
-    tabs: **Requester**, **Request** and **Closure**;
+3.  Para visualizar informações sobre campos específicos, clicar nas
+    guias: **Solicitante**, **Requisição ** e **Fechamento**;
 
-4.  To link **Changes**, click on the are with the same name, then on the search
-    field, select the change you want. If you want to register a new change
-    using the release to be created as parameter, click on "Register Change" and
-    complete the necessary data;
+4.  Para vincular **Mudanças**, clicar na área de mesmo nome e em seguida
+    apertar sobre o campo de pesquisa e selecionar a mudança desejada. Se
+    desejar cadastrar uma nova mudança utilizando a liberação a ser criada como
+    parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
+    necessários;
 
-5.  To link **Definitive Media**, click on the corresponding area, then on the
-    search field, select the media you want. If you want to register a new
-    media, click on "Register" and complete the data;
+5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
+    seguida apertar sobre o campo de pesquisa e selecionar a mídia desejada. Se
+    deseja cadastrar uma nova mídia, clicar no botão "Cadastrar " e preencher os
+    dados;
 
-6.  To link **Questionnaires**, click on the corresponding area, choose the type
-    of questionnaire to be linked and click on "Save";
+6.  Para vincular **Questionários**, clicar na área de mesmo nome e escolher o
+    tipo de questionário a ser vinculado, apertar então no botão "Gravar " para
+    efetuar a operação;
 
-7.  To link **Problems**, click on the corresponding area, then on the search
-    field and select the problem you want. If you want to register a problem,
-    click on "Register" and complete the necessary data;
+7.  Para vincular **Problemas**, clicar na área de mesmo nome e e em seguida
+    apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
+    desejar cadastrar um problema, basta clicar no botão "Cadastrar" e preencher
+    os dados necessários;
 
-8.  To link **Knowledge**, click on the corresponding area, click on the search
-    field and select the knowledge you want. If you want to register a new
-    article, click on "Register" and complete the data;
+8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e e em
+    seguida apertar sobre o campo de pesquisa e selecionar o conhecimento
+    desejado. Se desejar cadastrar um novo artigo, clicar no botão "Cadastrar" e
+    preencher os dados;
 
-9.  To link a **Purchase Requisition**, click on the corresponding area, then on
-    the search field and select the request you want. Remembering that all
-    requests already registered will be exposed, therefore, it's necessary to
-    select the purchase request previously registered.
+9.  Para vincular uma **Requisição de compras**, clicar na área de mesmo nome e
+    e em seguida apertar sobre o campo de pesquisa e selecionar a requisição
+    desejada. Lembrando que será exposta todas as requisições já cadastradas,
+    sendo necessário, portanto, selecionar a requisção de compra cadastrada
+    anteriormente.
 
-10. Click on the options button and then "Save" to complete the operation.
+10. Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
 
-Related
------------
+Relacionado
+---------------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
+Manutenção de fluxo de trabalho
 
-[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+Criar calendário
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+Definir modelos de e-mail
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
