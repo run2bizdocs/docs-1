@@ -1,43 +1,53 @@
-title: Register service request priority
-Description: 
-#Register service request priority
-The Service Request Priority functionality allows to set the priority matrix to dynamically calculate the attendance time (SLA) of the service request. The priority will be used to identify the relative importance of the service request and to identify the time required for an appropriate action to be taken.
-This feature provides a variety of actions, such as including, changing, and deleting a service request priority.
+title: Cadastrar prioridade de solicitações de serviço
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir a prioridade de solicitações de serviço.
+#Cadastrar prioridade de solicitações de serviço
 
-Before getting started
---------------------------
+A funcionalidade de prioridade de solicitações de serviço permite definir a
+matriz de prioridade para calcular o tempo de atendimento (SLA) da solicitação
+de serviço dinamicamente. A prioridade será usada para identificar a importância
+relativa da solicitação de serviço e para identificar os tempos requeridos para
+que ações adequadas sejam tomadas.
 
-To register a service request priority, it's necessary to set the parameter 104
-with value "Y".
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir a prioridade de solicitações de serviço.
 
-Procedure
--------------
+Antes de começar
+--------------------
 
-1.  Access the functionality Service Request Priority through the main menu
-    Processes \> Portfolio and Catalog Management \> Service Request Priority;
+Para cadastrar uma prioridade de solicitação de serviço é preciso configurar o
+parâmetro 104 com valor "S".
 
-2.  Complete all mandatory fields to Impact, click on "Save Impact";
+Procedimento
+----------------
 
-3.  Complete all mandatory fields to Emergency, click on "Save Urgency";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Prioridade Solicitações Serviço;
 
-4.  Complete all mandatory fields to the Priority Matrix, click on "Save
-    Priority Matrix".
+2.  Preencher os campos disponibilizados quanto ao Impacto, clicar em "Gravar
+    Impacto";
 
-5.  Note that after register the priority matrix, when registering a service
-    request, the time of attendance (SLA) will be established according to the
-    level of impact and urgency entered, being considered the priority matrix.
-    Remember that for this to happen, the parameter must be enabled.
+3.  Preencher os campos disponibilizados quanto a urgência, clicar em"Gravar
+    Urgência";
+
+4.  Preencher os campos disponibilizados quanto a matriz de prioridade, clicar
+    em "Gravar Matriz de Prioridade".
+
+5.  Vale lembrar que após registro da matriz de prioridade, quando registrar uma
+    solicitação de serviço, o tempo de atendimento (SLA) será estabelecido de
+    acordo com o nível de impacto e nível de urgência informados, sendo
+    considerado a matriz de prioridade. Lembrando que para isso ocorrer o
+    parâmetro deve estar habilitado.
 
 
-Related
+Relacionado
 -----------
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Configurar parametrização - ticket
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
