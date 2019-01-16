@@ -1,25 +1,30 @@
-title: Register synonym
-Description: Intended to maintain the registration of synonyms for searches purpose in the knowledge base.
-#Register synonym
-This functionality is intended to maintain the registration of synonyms for searches purpose in the knowledge base.
-This feature provides various actions, such as including, changing and deleting synonyms.
+title: Cadastrar sinônimo
+Description: Tem por objetivo manter o registro de palavras sinônimas para efeitos de pesquisa na base de conhecimento.
+#Cadastrar sinônimo
 
-Procedure
--------------
+Esta funcionalidade tem por objetivo manter o registro de palavras sinônimas
+para efeitos de pesquisa na base de conhecimento.
 
-1.  Access the functionality through the main menu Processes \> Knowledge
-    Management \> Synonym;
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir palavras sinônimas.
 
-2.  Click on "New";
+Procedimento
+----------------
 
-3.  Complete the fields available;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Conhecimento \> Sinônimo;
 
-4.  Click on "Save".
+2.  Clicar no botão "Novo";
+
+3.  Preencher os campos disponibilizados;
+
+4.  Clicar no botão "Gravar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

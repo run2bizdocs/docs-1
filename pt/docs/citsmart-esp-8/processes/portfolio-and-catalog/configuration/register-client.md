@@ -1,23 +1,27 @@
-title: Register a client
-Description: Register a client in the system.
-#Register a client
-The customer is an organization or person requesting products and/or services. They can be internal and/or external to the organization.
-This feature provides a variety of actions, such as including, changing, and deleting clients.
+title: Cadastrar um cliente
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pesquisas por clientes.
+#Cadastrar um cliente
 
-Procedure
--------------
+O cliente é uma organização ou pessoa que solicita produtos e/ou serviços. Ele
+pode ser interno e/ou externo à organização.
 
-1.  Access the functionality Clients through the main menu Processes \>
-    Portfolio and Catalog Management \> Clients;
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir pesquisas por clientes.
 
-2.  Complete all mandatory fields;
+Procedimento
+----------------
 
-3.  Click on "Save".
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Cliente;
+
+2.  Preencher os campos disponibilizados;
+
+3.  Clicar em "Gravar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

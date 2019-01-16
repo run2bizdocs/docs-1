@@ -1,35 +1,35 @@
-title: Create ticket from an event
-Description:Is intended to create a service request in an event. 
-#Create ticket from an event
-This functionality is intended to create a service request in an event.
+title: Criar ticket a partir de um evento
+Description: Tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
+#Criar ticket a partir de um evento
+Esta funcionalidade tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary to previously register the event.
+A funcionalidade requer o registro de evento previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Event;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Evento;
 
-2.  Click on the event and then on the button “More Options”;
+2.  Clicar sobre o evento escolhido e em seguida no botão “Mais Opções”;
 
-3.  Click on "Create service request";
+3.  Clicar no botão "Criar solicitação de serviço";
 
-4.  Complete the fields available;
+4.  Preencher os campos disponibilizados;
 
-5.  Click on the button “Operations” then "Save".
+5.  Clicar no botão “Opções” em seguida no botão "Salvar".
 
-Related
------------
+Relacionados
+----------------
 
-[Register Nagios/Zabbix connection](/en-us/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+Cadastrar conexão Nagios/Zabbix
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
