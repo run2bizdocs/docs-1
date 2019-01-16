@@ -1,10 +1,23 @@
 title: Cadastrar fórmula
-Description: Elaborar a fórmula que será utilizada no cadastro de um contrato. Para se criar a fórmula o usuário deverá entender de linguagem de programação pois serão usados Scripts RHINO.
+Description: Elaborar a fórmula que será utilizada no cadastro de um contrato.
 #Cadastrar fórmula
 
-title: Cadastrar fórmula
-Description: Elaborar a fórmula que será utilizada no cadastro de um contrato. Para se criar a fórmula o usuário deverá entender de linguagem de programação pois serão usados Scripts RHINO.
-#Cadastrar fórmula
+Esta funcionalidade tem a por finalidade elaborar a fórmula que será utilizada
+no cadastro de um contrato. Para se criar a fórmula o usuário deverá entender de
+linguagem de programação pois serão usados Scripts RHINO.
+
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir fórmulas.
+
+Procedimento
+--------
+
+1.  Acessar a funcionalidade através do menu de navegação Sistema \>
+    Configurações \> Fórmula;
+
+2.  Preencher os campos disponibilizados;
+
+3.  Clicar no botão " Gravar".
 
 
 Relacionado
