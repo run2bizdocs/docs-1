@@ -1,59 +1,58 @@
-title: Register service activity
+title: Cadastrar atividade de serviço
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as atividades de um serviço (requisição e/ou incidente).
+#Cadastrar atividade de serviço
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as atividades de um serviço (requisição e/ou incidente).
 
-Description: Provides a variety of actions, such as including, changing, and deleting the activities of a service (request and/or incident).
+Antes de começar
+--------------------
 
-#Register service activity
-This feature provides a variety of actions, such as including, changing, and deleting the activities of a service (request and/or incident).
+Para cadastrar uma atividade de serviço é necessário registrar previamente o
+portfólio, o grupo, os itens de configuração, o contrato e o calendário.
 
-Before getting started
---------------------------
+Procedimento
+----------------
 
-To register a service activity, it's necessary to previously register the
-portfolio, group, configuration items, contract and calendar.
+1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
+    Portfólio;
 
-Procedure
--------------
+2.  Escolher o Portfólio de Serviços e clicar no botão "Avançar";
 
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Portfolio;
+3.  Na guia **Catalogo de Serviço**, eleger o serviço e clicar em "Avançar";
 
-2.  Choose the Service Portfolio and click on "Advance";
+4.  Para criar uma atividade do tipo Requisição, clicar na guia **Requisições**;
 
-3.  In the Service Catalog tab, choose a service and click on "Advance";
+5.  Clicar em "Novo Serviço de Requisição" e preencher todos os campos
+    disponibilizados;
 
-4.  To create an activity of Request, click on the tab **Requests**;
+6.  Clicar em "Gravar";
 
-5.  Click on "New Service Request" and complete all mandatory fields;
+7.  Clicar em "Vincular Serviço de Requisição";
 
-6.  Click on "Save";
+8.  Para criar uma atividade do tipo Incidente, clicar na guia **Incidentes**;
 
-7.  Click on "Link Service Request";
+9.  Clicar em "Novo Incidente" e preencher todos os campos disponibilizados;
 
-8.  To create an activity of Incident, click on the tab **Incidents**;
+10. Clicar em "Gravar";
 
-9.  Click on "New Incident" and complete all mandatory fields;
+11. Clicar em "Vincular Incidente".
 
-10. Click on "Save";
+Relacionado
+---------------
 
-11. Click on "Link Incident".
+Criar portfólio
 
-Related
------------
+Cadastrar um grupo
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Cadastrar item de configuração
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Criar calendário
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
