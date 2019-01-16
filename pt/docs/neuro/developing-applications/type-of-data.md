@@ -1,52 +1,53 @@
-Title: Type of data
-Description:The data type register has the functionality of linking an abstract type of data to a form component.  
-#Type of data  
+Title: Tipo de dado  
+Description:O cadastro de tipo de dado tem a funcionalidade de vincular um tipo abstrato de dado à um componente de formulário.   
 
-The data type register has the functionality of linking an abstract type of data to a form component.  
-This field is selected when you create a new attribute for a business object. More information can be found in the technical documentation.  
+#Tipo de dado  
 
-##HOW TO ACCESS  
+O cadastro de tipo de dado tem a funcionalidade de vincular um tipo abstrato de dado à um componente de formulário.    
+Este campo é selecionado quando se cria um novo atributo de um objeto de negócio. Mais informações podem ser encontradas no documento de Desenvolvendo Aplicações.   
 
-1- Access the feature by navigating the menu **Neuro → Configuration → Data type.**    
+##COMO ACESSAR   
 
-##PRECONDITIONS
+1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Tipo de dado.    
 
-1- Not applicable  
+##PRÉ-CONDIÇÕES  
+
+1- Não se aplica.    
  
-##FILTERS  
+##FILTROS   
 
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Keyword  
+- Palavra chave   
 
 ![Screenshot](images/Data-type-fig01.png)   
-Figure 1 - Data type search screen  
+Figura 1 - Tela de pesquisa de tipo de dado    
 
-##ITEMS LIST  
+##LISTAGEM DE ITENS  
 
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description** and **Component**.  
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição e Componente.
 
 ![Screenshot](images/Data-type-fig02.png)   
-Figure 2 - Data type list screen  
+Figura 2 - Tela de listagem de tipo de dado    
 
-##FILLING IN THE REGISTRATION FIELDS  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
 
-1- To register a new data type, click New, as shown in the figure bellow:  
+1- Para cadastrar uma propriedade de componente, clique em Cadastrar, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/Data-type-fig03.png)     
-Figure 3 - Data type home screen  
+Figura 3 - Tela inicial de tipo de dado   
 
-2- On this screen the user is also allowed other actions. They are:  
+2- Nesta tela também é permitido ao usuário outras ações. São elas:   
 
-- To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
-- To view an item, select the item and click View.  
-- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+- Para editar um item criado, selecione o item desejado, clique em Editar, faças as alterações, e clique em Salvar.  
+- Para visualizar um item, selecione o mesmo e clique em Visualizar.  
+- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.   
 
-3- When you click Next, the following screen will appear:  
+3- Ao clicar em Cadastrar, será apresentada a seguinte tela:    
 
 ![Screenshot](images/Data-type-fig04.png)  
-Figure 4 - Data type register screen
+Figura 4 - Tela de cadastro de tipo de dado  
 
-4- Fill in the fields;  
-5- Click Save to store the file. Click Search to return to the previous screen.  
+4- Preencha os campos;    
+5- Clique em Salvar para armazenar o arquivo. Clique em Pesquisar para voltar para a tela anterior.  
 
