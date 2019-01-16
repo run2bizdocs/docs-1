@@ -1,51 +1,53 @@
-title: Manage my requests through Smart Portal
+title: Gerenciar minhas solicitações pelo Smart Portal
+Description: Esta funcionalidade permite o controle das solicitações abertas pelo usuário
+#Gerenciar minhas solicitações pelo Smart Portal
+Esta funcionalidade permite o controle das solicitações abertas pelo usuário, onde o mesmo pode verificar o histórico de ocorrência, a descrição da tarefa, trocar mensagens com o executor do ticket, dentre outras ações.
 
-Description: Allows to control the requests opened by the users.
-#Manage my requests through Smart Portal
-This functionality allows to control the requests opened by the users, where they can check the history of occurrence, the description of the task, exchange messages with the executor of the ticket, among other actions.
+Antes de Começar
+--------------------
 
-Before getting started
---------------------------
+É necessário ter a solicitação de serviço registrada pelo usuário previamente.
+Também é fundamental configurar os parâmetros referentes ao Smart Portal.
 
-It's necessary to have registered by the users the service request. It's also
-necessary to configure the parameters about Smart Portal.
+É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
+ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 
-It's necessary to set in the parameter 253, the email ID chose to register the
-occurrence and email template ID of the notification in the parameter 251.
+Procedimento
+----------------
 
-Procedure
--------------
+1-  Acessar a funcionalidade através do menu inicial do Smart Portal, clicar no
+    botão de menu  e logo após clicar em "Minhas Solicitações";
 
-1-  Access the functionality through the Smart Portal main menu, click on the
-    menu button  and then click on "My Requests";
+2-  Para trocar mensagens com o atendente da solicitação, basta clicar no
+    ícone “Mensagem ao atendente” . O Atendente receberá o comunicado na área de
+    trabalho do ticket, onde o mesmo cadastrará a resposta da Nota. Esta
+    resposta estará disponível ao clicar novamente neste mesmo ícone.
 
-2-  To exchange messages with the request attendant, just click on the icon .
-    The attendant will receive the message in the ticket desktop, where he/she
-    can register the answer. This answer will be available when clicking once
-    again in this same icon.
+!!! Abstract "AVISO"  
 
-!!! Abstract "NOTE"  
+    Para o correto funcionamento desta aplicação é necessário que os
+    parâmetros 299 e 300 (referentes ao Smart Portal) estejam setados em "S".
 
-    To the correct performance of this application, it's necessary that the
-    parameters 299 and 300 (about the Smart Portal) to be set on "Y".
+3-  Para tecer algum comentário referente a solicitação ou relatar alguma
+    ocorrência sobre a mesma, apertar no ícone “Adicionar nota”. O Atendente
+    receberá o comunicado na área de trabalho do ticket, onde poderá dirimir
+    qualquer questão relacionado a solicitação.
 
-3-  To comment the request or to report some occurrence about it, click on the
-    icon . The attendant will receive the comment on the ticket desktop, where
-    he/she can solve any question about the request.
+4-  Para visualizar o histórico da solicitação, basta clicar no
+    ícone “Histórico”;
 
-4-  To view the request history, just click on the icon ;
+5-  Por esta interface, também é possível visualizar a descrição, os eventuais
+    arquivos anexados a solicitação, dentre outras ações.
 
-5-  Though this interface, it's also possible to view the description, the files
-    attached to the request, among other actions.
+Relacionado
+---------------
 
-Related
------------
+Configurar parametrização - Smart Portal
 
-[Configure parametrization - Smart Portal](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+
