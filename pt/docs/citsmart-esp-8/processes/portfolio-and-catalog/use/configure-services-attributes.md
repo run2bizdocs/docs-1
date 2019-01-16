@@ -1,77 +1,75 @@
-title:  Configure service attributes
- 
-Description: Configure the attributes of both Business/IT Service and Support/Technical Service
-#Configure service attributes
-The service attributes are service configuration features within the portfolio.
-The guidance described in this knowledge can be followed to configure the attributes of both Business/IT Service and Support/Technical Service, portfolio types within Portfolio and Catalog Management.
+title: Configurar atributos de serviço
+Description: As orientações descritas neste conhecimento poderão ser seguidas para configurar os atributos
+#Configurar atributos de serviço
+Os atributos de serviço são características de configuração do serviço dentro do portfólio.
+As orientações descritas neste conhecimento poderão ser seguidas para configurar os atributos tanto do Serviço de Negócio/TI quanto do Serviço de Apoio/Técnico, tipos de portfólio dentro da Gerência de Portfólio e Catálogo.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-Service attributes are preceded by subscriptions to other features, such as the
-services portfolio, a group, configuration items, a calendar, a contract, and a
-cycle.
+Os atributos de serviço são precedidos de cadastros de outras funcionalidades,
+como o portfólio com serviços, um grupo, itens de configuração, um calendário,
+um contrato e um ciclo.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Portfolio;
+1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
+    Portfólio;
 
-2.  Access the Service Portfolio you want and click on "Advance";
+2.  Acessar o Portfólio de Serviços que deseja, clicando no botão "Avançar" do
+    mesmo;
 
-3.  Click on "Advance" in the service to access it;
+3.  Clicar no botão "Avançar' do serviço para acessá-lo;
 
-4.  On the left side, it's presented the different attributes that can be
-    configured.
+4.  Ao lado esquerdo são apresentados os diferentes atributos que podem ser
+    configurados.
 
-|          **Name**          |  **Type** |                                                                                           **Objective**                                                                                           |
-|:--------------------------:|:---------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|           Details          | Attribute |                                                                            It allows to change/update the service data                                                                            |
-| Service Level Requirements | Attribute |                                                                        It allows to register the service level requirements                                                                       |
-|    Financial Attributes    | Attribute |                                                                       It allows to register the service financial attributes                                                                      |
-|       Business Cases       | Attribute |                                         It allows to register the business case of the service. This business case is a summary of all service information                                        |
-|         Service Map        | Attribute | It allows to set the design of service map related to the enabling services and configuration items. In this design, it's defined which enabling service will be used to perform the main service |
-|     Business Processes     | Attribute |                                                           It allows to link the business processes that are not supported by the service                                                          |
-|      Support Services      | Attribute |                                                     It allows to link the support/technical services. Those services support the main service                                                     |
-|       Business Owner       | Attribute |                                                       It allows to link the business owner to the service, which can be employees or groups                                                       |
-|        Business User       | Attribute |                                                                          It allows to link business users to the service                                                                          |
-|          Requests          | Attribute |                                                                       It allows to register the service activities requests                                                                       |
-|        Applications        | Attribute |                                                              It allows to link the applications that will be used to run the service                                                              |
-|         Data Schema        | Attribute |                                                                        It allows to register the data schema of the service                                                                       |
-|          Incidents         | Attribute |                                                                       It allows to register the service incident activities                                                                       |
-|         Procedures         | Attribute |                  It allows to register the procedures for the service, which will be used by the continuity management to trigger and control the service restoration activities                  |
-|          Contracts         | Attribute |                                                                      It allows to link the contract that provides the service                                                                     |
-|          IT Owners         | Attribute |                                                        It allows to link the IT service owners to the service, which can be users or groups                                                       |
-|       Knowledge Base       | Attribute |                                   It allows to link the knowledge to the service. The knowledge is an information of the service provider to deliver the service                                  |
-|       Skill/Resource       | Attribute |                                                                       It allows to link the skills/resources to the service                                                                       |
-|    Capacity/Performance    | Attribute |                                                                It allows to link indicators of capacity/performance to the service                                                                |
-|     Attribute of Demand    | Attribute |                                                                         It allows to link demand attributes to the service                                                                        |
-|     Service Evaluations    | Attribute |                                                         It allows to manage the service evaluations that were registered via Smart Portal                                                         |
-|        Service Audit       | Attribute |                                                                       It allows to verify the history of service to audit it                                                                      |
+|            **Nome**            | **Tipo** |                                                                                                  **Objetivo**                                                                                                  |
+|:------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|            Detalhes            | Atributo |                                                                                  Permite alterar/atualizar os dados do serviço                                                                                 |
+| Requisitos de Nível de Serviço | Atributo |                                                                               Permite registrar os requisitos de nível de serviço                                                                              |
+|      Atributos Financeiros     | Atributo |                                                                              Permite registrar os atributos financeiros do serviço                                                                             |
+|        Casos de Negócios       | Atributo |                                          Permite registrar o caso de negócio referente ao serviço. Esse caso de negócio é um resumo de todas as informações do serviço                                         |
+|         Mapa de Serviço        | Atributo | Permite definir o desenho do mapa de serviço relacionando os serviços de apoio e itens de configuração. Neste desenho é definido quais serviços de apoio serão utilizados para realização do serviço principal |
+|      Processos de Negócio      | Atributo |                                                                    Permite vincular os processos de negócio que são suportados pelo serviço                                                                    |
+|        Serviços de Apoio       | Atributo |                                                    Permite vincular os serviços de apoio/técnicos. Esses serviços apoiam, dão suporte, ao serviço principal                                                    |
+|         Dono do Negócio        | Atributo |                                                             Permite vincular o dono do negócio ao serviço, o qual podem ser colaboradores ou grupos                                                            |
+|       Usuário do Negócio       | Atributo |                                                                               Permite vincular os usuários do negócio ao serviço                                                                               |
+|           Requisições          | Atributo |                                                                            Permite registrar as atividades de requisição do serviço                                                                            |
+|           Aplicações           | Atributo |                                                                   Permite vincular as aplicações que são utilizadas para execução do serviço                                                                   |
+|        Esquema de Dados        | Atributo |                                                                            Permite registrar o esquema de dados referente ao serviço                                                                           |
+|           Incidentes           | Atributo |                                                                             Permite registrar as atividades de incidente do serviço                                                                            |
+|          Procedimentos         | Atributo |               Permite registrar os procedimentos referentes ao serviço, que serão utilizados pelo gerenciamento de continuidade para disparar e controlar as atividades de restauração do serviço              |
+|            Contratos           | Atributo |                                                                               Permite vincular os contratos que provêm o serviço                                                                               |
+| Proprietários TI               | Atributo | Permite vincular os proprietários de serviços de TI ao serviço, os quais podem ser usuários ou grupos                                                                                                          |
+|      Base de Conhecimento      | Atributo |                                     Permite vincular um conhecimento ao serviço. O conhecimento trata-se de uma informação do provedor de serviços para entregar o serviço                                     |
+|       Habilidade/Recurso       | Atributo |                                                                               Permite vincular as habilidades/recursos ao serviço                                                                              |
+|     Capacidade/Performance     | Atributo |                                                                        Permite vincular indicadores de capacidade/performance ao serviço                                                                       |
+|       Atributo da Demanda      | Atributo |                                                                                Permite vincular atributos da demanda ao serviço                                                                                |
+|      Avaliações do Serviço     | Atributo |                                                                Permite gerenciar as avaliações do serviço que foram registradas via Smart Portal                                                               |
+|      Auditoria do Serviço      | Atributo |                                                                        Permite verificar o histórico do serviço para auditoria do mesmo                                                                        |
 
-Related
------------
+Relacionado
+---------------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Criar portfólio
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar um grupo
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Cadastrar um contrato
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um serviço
 
-[Create cycle](/en-us/citsmart-esp-8/platform-administration/time/create-cycle.html)
+Cadastrar item de configuração
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Criar ciclo
 
-[Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
+Criar calendário
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
