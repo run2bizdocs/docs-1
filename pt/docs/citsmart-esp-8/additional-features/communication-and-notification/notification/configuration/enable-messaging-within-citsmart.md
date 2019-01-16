@@ -1,47 +1,49 @@
-title: Enable messaging within CITSmart
-Description: Gathers information pertinent to the configuration of the messaging service.
-#Enable messaging within CITSmart
+title: Habilitar a mensageria dentro do CITSmart
+Description: Disponibiliza um canal de comunicação entre o solicitante (Smart Portal)) e o técnico (área de solicitação de serviço/ticket) via mensagem (email).
+#Habilitar a mensageria dentro do CITSmart
 
-CITSmart provides a communication channel between the requester (Smart Portal)
-and the technician (service/ticket request area) through message (email). This
-communication aims to facilitate the resolution of a call. This knowledge
-gathers information pertinent to the configuration of the messaging service.
+O CITSmart disponibiliza um canal de comunicação entre o solicitante (Smart
+Portal) e o técnico (área de solicitação de serviço/ticket) via mensagem
+(email). Essa comunicação visa facilitar a resolução de um chamado. Este
+conhecimento reúne informações pertinentes à configuração do serviço de
+mensageria.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  In order for the messaging service to be available within CITSmart, it's
-    necessary to set parameter 417 with the ID number of the e-mail template
-    that contains some variables to send the message;
+1.  Para que o serviço de mensageria esteja disponibilizado dentro do CITSmart é
+    necessário setar o parâmetro 417 com o número do ID do modelo de e-mail que
+    contenha algumas variáveis para poder ser enviado a mensageria;
 
-2.  Below are the keys for sending email:
+2.  Abaixo estão listadas chaves para o envio de e-mail:
 
-    - \${IDSERVICEREQUEST} - Number of the ticket (public key);
+    -   \${IDSOLICITACAOSERVICO} - Número do ticket (chave pública);
 
-    - \${COMMENTTEXT} - Description of the comment made on the messaging;
+    -   \${COMMENTTEXT} - Descrição do Comentário feito na mensageria;
 
-    - \${DATETIMECREATED} - Date the comment was registered;
+    -   \${DATETIMECREATED} - Data em que o comentário foi cadastrado;
 
-    - \${USERNAME} - Name of user that made the comment;
+    -   \${USERNAME} - Nome do usuário que inseriu o comentário;
 
-    - \${REQUESTERNAME} - Name of the requester;
+    -   \${REQUESTERNAME} - Nome do solicitante;
 
-    - \${REQUESTRESPONSIBLENAME} - Name of the technician responsible for the
-    ticket attendance.
+    -   \${REQUESTRESPONSIBLENAME} - Nome do técnico responsável pelo atendimento do
+        ticket.
 
-Related
+
+Relacionado
 -------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+Aárea de trabalho da Central de Serviços
 
-[Configure parametrization – ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Configurar parametrização - ticket
 
-[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+Configurar modelo de email
 
-[Manage my requests through Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+Gerenciar minhas solicitações pelo Smart Portal
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

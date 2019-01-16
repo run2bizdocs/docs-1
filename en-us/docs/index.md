@@ -1,4 +1,4 @@
-Title: Home
+Title: Welcome
 
 # We are here to help you!
 
