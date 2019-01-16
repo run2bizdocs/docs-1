@@ -17,18 +17,18 @@ Procedimento
 
 2.  Abaixo estão listadas chaves para o envio de e-mail:
 
--   \${IDSOLICITACAOSERVICO} - Número do ticket (chave pública);
+    -   \${IDSOLICITACAOSERVICO} - Número do ticket (chave pública);
 
--   \${COMMENTTEXT} - Descrição do Comentário feito na mensageria;
+    -   \${COMMENTTEXT} - Descrição do Comentário feito na mensageria;
 
--   \${DATETIMECREATED} - Data em que o comentário foi cadastrado;
+    -   \${DATETIMECREATED} - Data em que o comentário foi cadastrado;
 
--   \${USERNAME} - Nome do usuário que inseriu o comentário;
+    -   \${USERNAME} - Nome do usuário que inseriu o comentário;
 
--   \${REQUESTERNAME} - Nome do solicitante;
+    -   \${REQUESTERNAME} - Nome do solicitante;
 
--   \${REQUESTRESPONSIBLENAME} - Nome do técnico responsável pelo atendimento do
-    ticket.
+    -   \${REQUESTRESPONSIBLENAME} - Nome do técnico responsável pelo atendimento do
+        ticket.
 
 
 Relacionado
