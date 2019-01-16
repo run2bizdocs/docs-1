@@ -20,14 +20,14 @@ Procedimento
       script, clicar na aba "Diagrama" e no ícone tarefa, e depois, apertar a aba
       "Ação de entrada";
 
-   - **2° Modo - Copiar o script:** já para copiar apenas o script, copiar o conteúdo
-     do anexo " Script" e acessar a funcionalidade do fluxo (Sistema \> Manutenção de
-     Fluxos), clicar no botão "Novo" e preencher os campos necessários. Depois,
-     clicar na aba **Diagrama**, desenhar o fluxo referente a criação e encerramento
-     de uma tarefa, selecionar e clicar sob a esta tarefa (pequena caixa cinza ao
-     lado da tarefa) e na aba "Ação de entrada". É necessário copiar o RhinoScript no
-     construtor de expressões e clicar no botão "Construir expressões" e selecionar a
-     expressão do cadastro.
+    - **2° Modo - Copiar o script:** já para copiar apenas o script, copiar o conteúdo
+      do anexo " Script" e acessar a funcionalidade do fluxo (Sistema \> Manutenção de
+      Fluxos), clicar no botão "Novo" e preencher os campos necessários. Depois,
+      clicar na aba **Diagrama**, desenhar o fluxo referente a criação e encerramento
+      de uma tarefa, selecionar e clicar sob a esta tarefa (pequena caixa cinza ao
+      lado da tarefa) e na aba "Ação de entrada". É necessário copiar o RhinoScript no
+      construtor de expressões e clicar no botão "Construir expressões" e selecionar a
+      expressão do cadastro.
 
 !!! Abstract "ATENÇÃO"
 
