@@ -1,57 +1,52 @@
-title: CSS
-Description: The Neuro allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.
+title: CSS  
+Description: O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.   
 #CSS
 
 The Neuro allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.  
 
-!!! Abstract "ATTENTION"
+!!! Abstract "ATENÇÃO"  
 
-    The folder is a physical grouper of the files on the server, for organization purposes. The configured folder does not interfere  with system operation.
+    A pasta é um agrupador físico dos arquivos no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.  
 
-##HOW TO ACCESS  
+##COMO ACESSAR    
 
-1-  Access the feature by navigating the menu **Neuro → Resources → CSS**.  
+1-  Acesse a funcionalidade através da navegação no menu Neuro → Recursos → CSS.    
 
-##PRECONDITIONS  
+##PRÉ-CONDIÇÕES    
 
-1-  Not applicable
+1-  Não se aplica.  
 
-##FILTERS  
+##FILTROS  
 
-1-  The following filter enables the user to restrict the participation of items
-    in the standard feature listing, making it easier to find the desired items:  
+1-  O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
- - Keyword   
+ - Palavra chave    
 
 ![Screenshot](images/CSS-Filters.png)  
 
-**Figure 1 - CSS Search Screen**  
+Figura 1 - Tela de pesquisa de CSS  
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description and Version.    
+##LISTAGEM DE ITENS  
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Recurso, Nome, Descrição e Versão.      
 
 ![Screenshot](images/CSS-Item-List.png)   
-Figure 2 - CSS listing screen  
+Figura 2 - Tela de listagem de CSS  
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To register a new CSS file, click New as shown in the figure below:  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+1- Para cadastrar um novo arquivo CSS, clique em Cadastrar, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/CSS-Filling.png)  
-Figure 3 - CSS home screen  
+Figura 3 - Tela inicial do CSS    
 
-2- On this screen the user is also allowed other actions. They are:  
- - To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
- - To view an item, select the item and click View.  
- - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+2- Nesta tela também é permitido ao usuário outras ações. São elas:    
+ - Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.    
+ - Para visualizar um item, selecione o mesmo e clique em Visualizar.   
+ - Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
 
- 3- When you click Next, the following screen will appear:  
+3- Ao clicar em Cadastrar, será apresentada a seguinte tela:    
  
 ![Screenshot](images/CSS-registration.png)   
-Figure 4 - CSS registration screen  
+Figura 4 - Tela de cadastro de CSS    
 
-4- Enter a description, the path of the CSS folder and upload the file. The fields name and version are auto-incremented by the system.  
-5- Click Save to store the image. Click Search to return to the previous screen.  
-
-
-
-
+4- Informe uma descrição, o caminho da pasta do CSS e faça o upload do arquivo. Os campos de nome e versão são auto incrementados pelo sistema.   
+5- Clique em Salvar para armazenar o arquivo. Clique em Pesquisar para voltar para a tela anterior.    
