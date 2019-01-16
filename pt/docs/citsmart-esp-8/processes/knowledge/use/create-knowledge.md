@@ -1,47 +1,44 @@
-title: Create knowledge
-Description: It's possible to create, edit and search for knowledge.
-#Create knowledge
-It's possible to create, edit and search for knowledge, ranging from clarification of a functionality, to a technical guidance.
-A knowledge allows to attach images, videos, files, links, among other audiovisual resources, making more interactive the sharing of information.
+title: Criar conhecimento
+Description: É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
+#Criar conhecimento
+É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
+Um conhecimento permite a anexação de imagens, vídeos, anexos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
 
-Before getting started
---------------------------
+Antes de Começar
+--------------------
 
-Before creating a knowledge, it's necessary to create folders to place the
-knowledge and a better organization. Therefore, it makes easier to locate this
-knowledge and make a search.
+Antes de criar um conhecimento é necessário criar pastas para sua inserção e
+melhor organização. Assim fica mais fácil sua localização ao realizar uma busca.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1-  Access the functionality Knowledge Management through the main menu
-    Processes \> Knowledge Management;
+1-  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+    Conhecimento \> Conhecimento;
 
-2-  Click on "Operations" on the right lower side of the screen, and then on
-    "Add new knowledge";
+2-  Clicar no botão "Opções", localizado no canto inferior direito, logo em
+    seguida em Adicionar novo conhecimento;
 
-3-  Enter the registration data;
+3-  Informar os dados de cadastro;
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    Careful when using the privacy "Public", because it takes the risk of
-    improperly make available documents. This scenario considers the profile
-    access configuration and release the document access to all users.
+    Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
+    corre-se o risco de disponibilizar documentos de forma inadequada. Este
+    cenário desconsidera a configuração de perfil de acesso e libera o acesso do
+    documento a todos os usuários.
 
-4-  Save the new knowledge.
+4-  Construir o novo conhecimento.
 
-Related
------------
+Relacionados
+--------------------
+Criar pasta
 
-[Create folder](/en-us/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+Configurar acesso externo ao Portal do Conhecimento
 
-[Configure external access to the knowledge portal](/en-us/citsmart-esp-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
