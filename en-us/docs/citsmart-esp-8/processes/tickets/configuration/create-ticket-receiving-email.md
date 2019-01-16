@@ -55,7 +55,8 @@ Related
 Attachment
 ------------
 
-[Download](images/verify-email.txt)
+[Download- Verify email][1]
+[1]:/en-us/docs/citsmart-esp-8/processes/tickets/images/verify-email.docx
 
 !!! tip "About"
 
