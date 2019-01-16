@@ -1,70 +1,72 @@
-title: Register satisfaction survey
-Description: 
-#Register satisfaction survey
-This feature provides a variety of actions, such as including, changing, and deleting satisfaction surveys according to the needs.
-The search form is created as a questionnaire.
+title: Cadastrar pesquisa de satisfação
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pesquisas de satisfação de acordo com suas necessidades.
+#Cadastrar pesquisa de satisfação
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir pesquisas de satisfação de acordo com suas necessidades.
 
-The types of searches can be:
+O formulário da pesquisa é construído na forma de um questionário.
 
--   Public: it allows the participation of all users with no restrictions,
-    they don't even need to be authenticated in the system. In this type, the
-    System URL (parametrized) is given to the target public to participate in
-    the survey. It's only an outfit field (without typing). After the survey is
-    created (saved), in this field, appears the full link, based on the System
-    URL properly parametrized;
+Os tipos de pesquisa podem ser:
 
--   Global: it restricts the participation of user authenticated in the
-    system. It can be accessed in two ways:
+  -   **público**: permite a participação de todos os usuários sem nenhum tipo de
+      restrição, inclusive eles nem precisam estar autenticados no sistema. Nesta
+      modalidade, a URL do Sistema (parametrizada) é fornecida ao público-alvo
+      para que participem da pesquisa.Trata de um campo somente de saída (sem
+      digitações). Assim que a pesquisa é criada (gravada) neste campo surge o
+      link completo, baseado na URL do Sistema devidamente parametrizada;
 
-    -   when they identify themself, they will receive an automatic notification
-        (including steps to respond);
+  -   **global**: restringe a participação de usuários àqueles que se autenticarem
+      no sistema, podendo ser acessada de duas maneiras:
 
-    -   in the Smart Portal (menu on the left side) the option "Active
-        Campaigns".
+       -   quando se identificam receberão uma notificação automática (incluindo os
+           passos para responder);
 
--   Catalog: it's intended for the evaluation, with the client, about the
-    effectiveness of the catalog deployed;
+       -   no Portal de Serviços (menu na lateral esquerda) na opção "Campanhas
+           ativas".
 
--   Service: it's intended for evaluation, with the client, about the
-    effectiveness of a service deployed;
+  -   **catálogo**: destina à avaliação junto ao cliente sobre a eficácia do
+    catálogo implantado para ele;
 
--   Activity/Satisfaction: is another option of satisfaction survey, with
-    the client (beside the system default), about the resolution of an
-    attendance of a request or incident.
+  -   **serviço**: se destina à avaliação junto ao cliente sobre a eficácia de um
+    serviço implantado para ele;
+
+  -   **atividade/satisfação**: é mais uma opção de pesquisa de satisfação junto
+    ao cliente (além do default do sistema) sobre o desfecho do atendimento de
+    uma requisição ou incidente.
+
+Antes de começar
+--------------------
+
+Para realizar o cadastro de uma pesquisa é necessário registrar previamente um
+questionário e configurar o parâmetro 33.
+
+Procedimento
+----------------
+
+1.  Acessar a funcionalidade Processos \> Gerência de Portfólio e Catálogo \>
+    Cadastro de Pesquisas;
+
+2.  Clicar em "Novo";
+
+3.  Preencher os campos disponibilizados:
+
+4.  Escolher o tipo de pesquisa;
+
+5.  Clicar em "Gravar".
 
 
-Before getting started
---------------------------
-
-To register a new survey, it is necessary to previously register a questionnaire
-and set the parameter 33.
-
-Procedure
--------------
-
-1.  Access the functionality Processes \> Portfolio and Catalog Management \>
-    Search Registration;
-
-2.  Click on "New";
-
-3.  Complete all mandatory fields:
-
-4.  Choose the type of search;
-
-5.  Click on "Save".
-
-Related
+Relacionado
 -------
 
-[Register questionnaire](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+Cadastrar questionário
 
-[Configure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+Configurar parametrização - sistema
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
 

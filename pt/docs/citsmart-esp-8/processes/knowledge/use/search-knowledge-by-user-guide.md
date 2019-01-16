@@ -1,33 +1,31 @@
-title: Search knowledge through the user guide
+title: Pesquisar conhecimento pelo Guia do Usuário
+Description: O Guia do Usuário é um espaço onde são disponibilizadas informações relevantes de modo a orientar os usuários.
+#Pesquisar conhecimento pelo Guia do Usuário
+O Guia do Usuário é um espaço onde são disponibilizadas informações relevantes de modo a orientar os usuários (clientes, analistas, administradores, etc.) no uso de determinada funcionalidade de um produto CITSmart. Os recursos de pesquisa disponíveis facilitam o acesso aos conhecimentos de forma precisa e rápida. A pesquisa pode ser realizada também pelo uso de filtros como pasta, tipo, título, entre outros. Além disso, é possível que qualquer usuário registre um novo conhecimento, de modo a tornar o portal dinâmico e atualizado.
 
-Description:It's possible to any user to register a new knowledge, making the portal dynamic and updated.
-#Search knowledge through the user guide
-The User Guide is a place where it's available the relevant information to guide the users (clients, analysts, managers, etc) in the usage of a given functionality of a CITSmart product. The search resources available make easier, quicker and faster the access to the knowledge. The search can also be done by the use of filters, such as type, title and others. Besides that, it's possible to any user to register a new knowledge, making the portal dynamic and updated.
+Antes de Começar
+--------------------
 
-Before getting started
---------------------------
+A visualização dos conhecimentos depende do perfil de acesso ou grupo que o
+administrador dará aos usuários, sendo necessário então saber estas informações
+para ter ênfase no resultado da busca.
 
-The knowledge view depends on the access profile or group that the manager will
-give to the users, being necessary to know those information to emphasize the
-search result.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade pelo menu localizado no canto superior direito da
+    tela inicial e escolher a opção "Guia";
 
-1.  Access the functionality User Guide through the menu in the upper right side
-    of the home screen and choosing the option "Guide";
+2.  Realizar a busca pelo conhecimento.
 
-2.  Search for the knowledge.
+Relacionado
+---------------
 
-Related
------------
+Principais recursos utilizados na busca
 
-[Refine search in Knowledge Portal](/en-us/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

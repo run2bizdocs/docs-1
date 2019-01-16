@@ -1,29 +1,32 @@
-title: Register request justification
-Description: 
-#Register request justification
-This feature provides a variety of actions, such as including, changing, and deleting the services request justification.
+title: Cadastrar justificativa de solicitação
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as justificativas de solicitação de serviços.
+#Cadastrar justificativa de solicitação
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as justificativas de solicitação de serviços.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1-  Access the functionality Request Justification through the main menu
-    Processes \> Portfolio and Catalog Management \> Request Justification;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Justificativa Solicitação;
 
-2-  Click on "New" and complete all mandatory fields:
+2.  Clicar em "Novo" e preencher os campos disponibilizados;
 
-   + Suspension: it defines if the justification will be used when suspending the request;
+    -   **Suspensão**: define se a justificativa é para ser utilizada na suspensão
+        da solicitação;
 
-   + Travel: it defines if the request justification will be used in the approval of a travel request;
+    -   **Viagem**: define se a justificativa de solicitação é para ser utilizada na
+        aprovação de requisição de viagem;
 
-   + Approval: it defines if the request justification will be used in the phase of service request approval.
+    -   **Aprovação**: define se a justificativa de solicitação é para ser utilizada
+        na fase de aprovação da solicitação de serviço.
+
+1.  Clicar em "Gravar".
 
 
-3-  Click on "Save".
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
