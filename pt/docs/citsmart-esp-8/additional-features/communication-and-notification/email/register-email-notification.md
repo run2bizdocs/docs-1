@@ -1,29 +1,34 @@
-title: Register email notification
-Description: Intended to send messages via email to notify users about events that will happen in the system.
-#Register email notification
+title: Cadastrar notificação via e-mail
+Description: Tem por objetivo enviar mensagens via e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no sistema.
+#Cadastrar notificação via e-mail
 
-The Email Notification functionality is intended to send messages via email to
-notify users about events that will happen in the system.
+A funcionalidade de Notificação via E-mail tem por objetivo enviar mensagens via
+e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no
+sistema.
 
-If the notification through email was not assigned to any group and/or user, all
-users in the system will be notified.
+Se a notificação via e-mail não for atribuída a nenhum grupo e/ou usuário, todos
+os usuários do sistema serão notificados.
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir notificações via e-mail.
 
-1.  Access the functionality through the main menu System \> Notifications \>
-    Email Notification;
+Procedimento
+---------
 
-2.  Click on "New";
+1.  Acessar a funcionalidade pelo menu principal Sistema \> Notificações \>
+    Notificação via e-mail;
 
-3.  Fill in the fields provided;
+2.  Clicar em "Novo";
 
-4.  To link a group, click on "Link group". To link an user, click on "Link
-    user";
+3.  Preencher os campos disponibilizados;
 
-5.  Click on "Save".
+4.  Para vincular um grupo clicar em "Vincular grupo" e para vincular um usuário
+    clicar em "Vincular usuário";
+
+5.  Clicar em "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
