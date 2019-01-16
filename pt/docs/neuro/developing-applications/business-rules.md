@@ -1,95 +1,86 @@
-title: Business rules  
-Description: Business rules define how your business works, and can cover a variety of issues such as your policies, interests, objectives, ethical and social commitments, contractual obligations, strategic decisions, laws and regulations, among others  
+title: Regras de negócio    
+Description: As regras de negócio definem como o seu negócio funciona, e podem abranger diversos assuntos como suas políticas, interesses, objetivos, compromissos éticos e sociais, obrigações contratuais, decisões estratégicas, leis e regulamentações entre outros..    
 
-#Business rules
+#Regras de negócio  
 
-Business rules define how your business works, and can cover a variety of issues such as your policies, interests, objectives, ethical and social commitments, contractual obligations, strategic decisions, laws and regulations, among others.  
-In Neuro, business rules can be built through the Drools language, by drawing a flow, or through a Script.    
+As regras de negócio definem como o seu negócio funciona, e podem abranger diversos assuntos como suas políticas, interesses, objetivos, compromissos éticos e sociais, obrigações contratuais, decisões estratégicas, leis e regulamentações entre outros.    
+No Neuro, as regras de negócio podem ser construídas através do desenho de um fluxo, ou através de Script.      
 
-##HOW TO ACCESS  
-1-	Access the functionality through navigation in the main menu Neuro → Management → Business Rule.    
+##COMO ACESSAR  
+1-	Acesse a funcionalidade através da navegação no menu principal Neuro → Gerenciamento → Regra de Negócio.      
 
-##PRECONDITIONS
-1-	No applicable.  
+##PRÉ-CONDIÇÕES  
+1-	Não se aplica.    
 
-##FILTERS
-1-	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
--    Keyword or enter.  
+##FILTROS  
+1-	O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+-    Palavra chave ou enter    
 
 ![Screenshot](images/business-rule-filter.png)  
-Figure 1 - Business rules search screen  
+Figura 1 - Tela de pesquisa de regras de negócio    
 
-##ITEMS LIST  
-The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Name, Description, Application, Version and Block date.  
+##LISTAGEM DE ITENS    
+Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação, Versão e Data de bloqueio.    
 
 ![Screenshot](images/business-rule-item.png)  
-Figure 2 - Business rules listing screen
+Figura 2 - Tela de listagem de regras de negócio  
 
-##FILLING IN THE REGISTRATION FIELDS  
-  1- To edit a created item, select the item you want, click Edit, make changes, and click Save.  
-  2- To create a new business rule, click the New button;  
-  3- To remove a created item, select the item you want, click  on the Edit → Remove and confirm the deletion.  
-  4- The business rules you enter by default are created locked. This means that the rule will not be used unless you unlock it. To unlock the rule, select the desired item, and click the Unlock option on the top menu. A Business Rule can be used in a form, within a business object, in a business process or in a flow;  
-  5- Further information regarding the use of a business rule can be found in the Developing Applicantions.  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+  1- Para editar um item criado, selecione o item desejado, clique em Editar, faças as alterações, e clique em Salvar;    
+  2- Para criar nova regra de negócio, clique no botão Cadastrar;    
+  3- Para remover um item criado, selecione o item desejado, clique em Editar → Remover e confirme a exclusão;    
+  4- As regras de negócio inseridas, por padrão são criadas bloqueadas. Isso significa que a regra não será utilizada a menos que você a Desbloqueie. Para que o desbloqueio da regra ocorra, selecione o item desejado, e clique na opção Desbloquear, localizada no menu superior.; de negócio, em um processo de negócio ou em um fluxo;    
+  5- Mais informações sobre o uso de uma regra de negócio podem ser encontradas no Desenvolvendo aplicações.    
 
 --------------------  
 
-##CREATING BUSINESS RULES USING DROOLS TYPE  
-  1- Drools is a set of tools that allow us to separate and reason about the logic and data found within business processes. The two important keywords we have to realize are Logic and Data. Go to https://www.drools.org/ for more information;  
-  2- To create a business rule using Drools, you must first create the DSL and DSLR through the Neuro → Configuration→ Domain;  
-  3- After these registrations have been made, access the menu Neuro → Management  → Business rule, Click on the New button. Fill in the fields by entering the  Name, Description, Type (fill in with Drools), and the respective Application that has been registered (Neuro ® Management ®  Application), finally inform Drools DSLR that was registered in the previous step;  
-  4- In addition, variables that complement business rules may be inserted.  
+##CRIANDO REGRAS DE NEGÓCIOS USANDO TIPO DROOLS  
+  1- O Drools é um conjunto de ferramentas que permite separar e raciocinar sobre a lógica e os dados encontrados nos processos de negócios. As duas palavras-chave importantes que tem que executar são lógica e dados. Vá para https://www.drools.org/ para mais informações.    
+  2- Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Neuro → Configuração → Domínio;    
+  3- Após o cadastro de domínio, acesse a o menu Neuro → Gerenciamento → Regra de Negócio, clique em Cadastrar.  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Neuro → Gerenciamento → Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
+  4- Além disso, as variáveis que complementam as regras de negócios podem ser inseridas.    
 
 ![Screenshot](images/business-rule-drools.png)  
-Figure 3 - Drools business rule registration / editing screen - Basic data tab  
+Figura 3 - Tela de cadastro/edição de regras de negócio do tipo Drools - aba Dados básicos    
 
-  5- In the Variables tab click Add and fill in the following fields as shown below:
+  5- Na aba Variáveis clique em Adicionar e preencha os seguintes campos conforme figura abaixo:  
 
-![Screenshot](images/business-rule-variables.png)  
-Figure 4 - Drools business rule registration / editing screen - Basic data tab (continued)  
+![Screenshot](images/business-rule-variables.png)    
+Figura 4 - Tela de cadastro/edição de regras de negócio do tipo Drools - aba Dados básicos (continuação)  
 
-##CREATING BUSINESS RULES USING FLOW TYPE  
-  1- To create a business rule using Flow, a diagram should be drawn using the components provided in the tool. To learn more about the components, visit the documentation for the components provided by Neuro;  
-  2- In the Basic Data tab, fill in all the fields (as shown in the figure below), when selecting the Flow Type, two new tabs will appear (Actions and Diagram);  
+##CRIANDO REGRAS DE NEGÓCIO UTILIZANDO TIPO FLUXO    
+  1- Para criar uma regra de negócio utilizando tipo Fluxo, um diagrama deverá ser desenhado utilizando os componentes previstos na ferramenta. Para conhecer mais sobre os componentes, acesse a documentação dos componentes comportados pelo Neuro;    
+  2- Na aba Dados básicos, preencha todos os campos (conforme mostrado na figura abaixo), ao selecionar o Tipo Fluxo, duas novas abas aparecerão (Ações e Diagrama);  
 
 ![Screenshot](images/business-rule-flow.png)  
-Figure 5 - Business rule registration / editing screen - Flow Type  
+Figura 5 - Tela de cadastro/edição de regra de negócio - Tipo Fluxo  
 
-  3- In the Variables tab click Add and fill in the following fields as shown below:  
+  3- Na aba Variáveis clique em Adicionar e preencha os seguintes campos conforme figura abaixo:    
 
 ![Screenshot](images/business-rule-flowType.png)   
-Figure 6 - Business rule registration / editing screen - Flow Type (continued)  
+Figura 6 - Tela de cadastro/edição de regra de negócio - Tipo Fluxo (continuação)   
 
-  4- On the Actions tab click Add and fill in the following fields as shown below:  
+  4- Na aba Ações clique em Adicionar e preencha os seguintes campos conforme figura abaixo:    
 
 ![Screenshot](images/business-rule-flowType2.png)  
-Figure 7 - Business rule registration / editing screen - Flow type (continued)  
+Figura 7 - Tela de cadastro/edição de regra de negócio - Tipo Fluxo (continuação)    
 
-  5- On the Diagram tab, draw the flow and click Save, as shown below:  
+  5- Na aba Diagrama desenhe o fluxo e clique em Salvar, conforme figura abaixo:  
 
 ![Screenshot](images/business-rule-flowType3.png)  
-Figure 8 - Business rule registration / editing screen - Flow Type (continued)  
+Figura 8 - Tela de cadastro/edição de regra de negócio - Tipo Fluxo (continuação)  
 
-##CREATING BUSINESS RULES USING SCRIPT TYPE  
+##CRIANDO REGRAS DE NEGÓCIO UTILIZANDO TIPO SCRIPT    
 
-  1- To create a business rule using Script, go to the New option, enter the Name, Description, Type (complete with Script), and the respective Application that has been registered:  
+  1- Para criar uma regra de negócio utilizando Script, acesse a opção Cadastrar, informe o Nome, Descrição, Tipo (preencha com Script), e a Aplicação respectiva que foi cadastrada:    
 
 ![Screenshot](images/business-rule-script.png)  
-Figure 9 - Business rule registration / editing screen - Script type  
+Figura 9 - Tela de cadastro/edição de regra de negócio - Tipo Script    
 
-  2- Code your business rule script in the Script field, and add variables in the variables tab, if necessary. Scripts are accepted in the Rhino language.  
+  2- Codifique o script de regra de negócio no campo Script, e adicione variáveis na aba de variáveis, caso necessário. São aceitos scripts na linguagem de programação Rhino:  
 
 ![Screenshot](images/business-rule-script2.png)  
-Figure 10 - Business rule registration / editing screen - Script type (continued)  
+Figura 10 - Tela de cadastro/edição de regra de negócio - Tipo Script (continuação)    
 
-  3- Click Save to run the changes.  
-
-
-
-
-
-
-
-
-
+  3- Clique em Salvar para executar as alterações.    
 
