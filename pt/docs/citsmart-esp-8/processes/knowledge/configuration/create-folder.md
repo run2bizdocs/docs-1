@@ -1,31 +1,44 @@
-title: Create folder 
-Description:  Provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the knowledge registered in the base.
+title: Criar pasta
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pastas que serão utilizadas para armazenamento e organização dos conhecimentos registrados na base.
+#Criar pasta
 
-#Create folder
-This feature provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the knowledge registered in the base.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir pastas que serão utilizadas para armazenamento e organização dos
+conhecimentos registrados na base.
 
-##Before getting started
-It's necessary to previously register a profile and a group.
+Antes de começar
+--------------------
 
-##Procedure
-1.  Access the functionality through the main menu Processes \> Knowledge Management \> Folder;
+É necessário ter registrado previamente um perfil e um grupo.
 
-2.  Click on "New";
-3.  Complete all mandatory field;
-4.  In the field **Access Profile**, click on "Add" and select the profile;
-5.  In the field **Group**, click on "Add" and select the group;
-6.  Click on "Save".
+Procedimento
+----------------
+
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Processos \> Gerência de Conhecimento \> Pasta;
+
+2.  Clicar em "Novo";
+
+3.  Preencher os campos disponibilizados;
+
+4.  No campo **Perfil de Acesso**, clicar em "Adicionar" e selecionar o(s)
+    perfil(is);
+
+5.  No campo **Grupo**, clicar em "Adicionar" e selecionar o(s) grupo(s);
+
+6.  Clicar em "Gravar".
 
 
-##Related
+Relacionado
+-----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)  
+Cadastrar um grupo
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+Criar perfil de acesso
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
 !!! tip "About"
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>12/28/2018 – João Pelles Junior 
+    <b>Updated:</b>01/16/2019 – Anna Martins 

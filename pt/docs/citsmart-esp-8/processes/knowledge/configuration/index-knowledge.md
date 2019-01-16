@@ -1,46 +1,49 @@
-title: Index knowledge
-Description: Intended to create index, that ix, know the content of knowledge published in the knowledge base
-#Index knowledge
+title: Indexar conhecimentos
+Description: Tem por objetivo criar índices, ou seja, conhecer o conteúdo dos conhecimentos publicados na base de conhecimento, identificando termos que representem seu assunto, para referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
+#Indexar conhecimentos
 
-Te Knowledge Index functionality is intended to create index, that is, know the
-content of knowledge published in the knowledge base, identifying terms that
-represents the subject, to reference it and ensure preciser return of the
-knowledge when searched.
+A funcionalidade de Indexação de Conhecimentos tem por objetivo criar índices,
+ou seja, conhecer o conteúdo dos conhecimentos publicados na base de
+conhecimento, identificando termos que representem seu assunto, para
+referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
 
-It'll be indexed the amount of knowledge, as configured in the parameter "Total
-items to be imported at a time when indexing documents in Solr (E.g.: 1000)".
+Será indexado a quantidade de conhecimentos conforme configurado no parâmetro
+“Total de itens a serem importados por vez ao indexar documentos no Solr (Ex:
+1000)".
 
-When publishing new knowledge, it's not necessary to remove the current index
-and index it once again, the procedure is automatic.
+Ao publicar novos conhecimentos, não é necessário remover a indexação atual e
+indexar novamente, o procedimento é automático.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To index the knowledge, it's necessary to previously configure the parameters
-304, 308 and 332, about the knowledge.
+Para realizar a indexação de conhecimentos é preciso configurar previamente os
+parâmetros 304, 308 e 332, referentes ao conhecimento.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the main menu System \> Settings \> Knowledge Management (Indexing);
+1.  Acessar o menu principal Sistema \> Configurações \> Gerência do
+    Conhecimento [Indexação];
 
-2.  Click on "Index knowledge Base" and confirm the operation to index the
-    knowledge published in the Knowledge Base. Next, it'll be presented the
-    knowledge that were indexed;
+2.  Clicar no botão "Indexar Base de Conhecimento" e confirmar a operação para
+    realizar a indexação dos conhecimentos publicados na Base de Conhecimento.
+    Após isso, serão exibidos os conhecimentos que foram indexados;
 
-3.  To remove the knowledge index, click on "Remove knowledge base indexing" and
-    confirm it.
-
-Related
--------
-
-[Configure parametrization - knowledge](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+3.  Para remover a indexação dos conhecimentos, clicar no botão "Remover
+    Indexação de Base de Conhecimento" e confirmar a operação.
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+Relacionado
+----------
+
+Configurar parametrização - conhecimento
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
 

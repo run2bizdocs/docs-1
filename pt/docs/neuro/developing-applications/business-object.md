@@ -1,8 +1,8 @@
-title: Business object  
+title: Objeto de negócio  
 
-Description: Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms
+Description: Através dessa tela, é possível manter os objetos de negócio das aplicações. Objetos de negócio são os objetos armazenados no banco de dados da aplicação. Representam o modelo de dados e podem dar origem a um ou mais formulários.  
 
-#Business object  
+#Objeto de negócio   
 
 Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.  
 Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.  
