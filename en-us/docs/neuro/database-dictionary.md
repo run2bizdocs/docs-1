@@ -13,4 +13,4 @@ As we can see on the Wikipedia site, a data dictionary is a collection of metada
 In the link below you can have access to the data dictionary of the tool CITSmart Neuro.
 [Download - Dictionary Database][1]
 
-[1]:/en/site/neuro/images/database-dictionary.rtf
+[1]:/en-us/neuro/images/database-dictionary.rtf
