@@ -1,41 +1,45 @@
-title: How to create, and then, close the ticket  
-Description: configure for the creation and closing of the ticket at the same time. 
-#How to create, and then, close the ticket
+title: Como criar e, em seguida, encerrar um ticket
+Description: Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar a requisição e execução da atividade, é possível configurar para que ocorra a criação e encerramento do ticket ao mesmo tempo.
+#Como criar e, em seguida, encerrar um ticket
+
+Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar
+a requisição e execução da atividade, é possível configurar para que ocorra a
+criação e encerramento do ticket ao mesmo tempo.
+
+Procedimento
+----------------
+
+1.  É possível definir o fluxo de criação e encerramento do ticket de duas
+    formas distintas:
+
+**1° Modo - Importar o fluxo**: é possível importar o fluxo com o script já
+cadastrado. Basta realizar download do anexo "Fluxo JSON" e acessar a
+funcionalidade do fluxo (Sistema \> Manutenção de Fluxos), clicar no botão
+"Novo", logo em seguida apertar o botão "Importar" e selecionar a opção "JSON".
+Realizar o upload do anexo e clicar em "Importar". Em seguida, para verificar o
+script, clicar na aba "Diagrama" e no ícone tarefa, e depois, apertar a aba
+"Ação de entrada";
+
+**2° Modo - Copiar o script:** já para copiar apenas o script, copiar o conteúdo
+do anexo " Script" e acessar a funcionalidade do fluxo (Sistema \> Manutenção de
+Fluxos), clicar no botão "Novo" e preencher os campos necessários. Depois,
+clicar na aba **Diagrama**, desenhar o fluxo referente a criação e encerramento
+de uma tarefa, selecionar e clicar sob a esta tarefa (pequena caixa cinza ao
+lado da tarefa) e na aba "Ação de entrada". É necessário copiar o RhinoScript no
+construtor de expressões e clicar no botão "Construir expressões" e selecionar a
+expressão do cadastro.
+
+!!! Abstract "ATENÇÃO"
+
+    Não foram implementados controles para informações de captura pois o tempo
+    de atendimento e fechamento do ticket é muito curto, caso seja necessário
+    fazer o mesmo, será preciso implementar o registro das informações nas
+    tabelas de captura.
 
 
-For activities that do not require an SLA, where the attendant only wishes to
-formalize the request and execution of the activity, it's possible to configure
-for the creation and closing of the ticket at the same time.
-
-Procedure
--------------
-
-1 - It's possible to define the creation and close flow in two different ways:
-
-1st Way - Import flow: it's possible to import the flow with script already
-registered. Download the attachment "JSON Flow" and access the flow
-functionality (System \> Flow Maintenance), click on "New", then click on
-"Import" and select the option "JSON". Upload the attachment and click on
-"Import". Then, to verify the script, click on the tab "Diagram" and on the task
-icon, next, click on "Input Action";
-
-2nd Way - Copy the script: to copy only the script, copy the attachment
-"Script" content and access the functionality flow (System \> Flow Maintenance),
-click on "New" and complete the field necessary. Then, click on the tab
-"Diagram", design the flow about the creation and closure of a task, select and
-click on this task (small gray box next to the task) and in the tab "Input
-Action". It's necessary to copy the RhinoScript in the expressions builder and
-click on "Build expressions" and select the register expression.
-
-!!! Abstract "NOTE"
-    No controls have been implemented for catch information, because the time
-    of attendance and closing of the ticket is very short, if it's necessary to
-    do the same, it'll be necessary to implement the registration of the
-    information in the capture tables.
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
