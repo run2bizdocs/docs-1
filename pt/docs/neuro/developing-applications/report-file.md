@@ -1,42 +1,44 @@
-Title: Report file  
-Description:At this point, it is not possible to create a report in the Neuro itself. This functionality only refers to uploading a report file.  
-#Report file  
-At this point, it is not possible to create a report in the Neuro itself. This functionality only refers to uploading a report file.  
+Title: Arquivo de relatório  
+Description:Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.  
 
-##HOW TO ACCESS  
-Access the feature by navigating the menu **Neuro → Resources →  Report upload.**  
+#Arquivo de relatório   
+ 
+Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.    
 
-##PRECONDITIONS  
-No applicable  
+##COMO ACESSAR  
+1- Acesse a funcionalidade através da navegação no menu Neuro → Recursos → Upload de relatório.   
 
-##FILTERS
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+##PRÉ-CONDIÇÕES    
+1- Não se aplica.    
 
-- Keyword or enter  
+##FILTROS  
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+
+- Palavra chave ou enter   
 
 ![Screenshot](images/Report-file-fig01.png)   
-Figure 1 - Report file search screen  
+Figura 1 - Tela de pesquisa de arquivos de relatório     
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description, and Version.  
+##LISTAGEM DE ITENS  
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Recurso, Nome, Descrição e Versão.  
 
 ![Screenshot](images/Report-file-fig02.png)   
-Figure 2 - Report file listing screen  
+Figura 2 - Tela de listagem de arquivos de relatório    
 
-##FILLING IN THE REGISTRATION FIELDS  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
 
-!!! Abstract "ATTENTION"
-    **You can not create a report itself in Neuro. This functionality only refers to uploading a report file.**  
+!!! Abstract "ATENÇÃO"  
+    **Não é possível criar um relatório propriamente dito no Neuro. Essa funcionalidade refere-se apenas ao upload de um arquivo de relatório.**  
 	
-1- The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.  
-2- Finally, upload the report file.
-3- When you include a report file, the system automatically generates a record in the report configuration screen.  
-4- Click Save to store the image. Click Search to return to the previous screen.  
+1- TO campo versão é auto incrementado pelo sistema. Informe o nome do relatório, uma descrição, e a pasta agrupadora do projeto no servidor. O campo engine é preenchido automaticamente de acordo com o formato do arquivo. Atualmente, é aceito apenas o formato jrxml do Jasper.    
+2- Faça o upload do arquivo do relatório.  
+3- Ao incluir um arquivo de relatório, o sistema gera automaticamente um registro na tela de configuração de relatório.    
+4- Clique em Salvar para executar as alterações. Clique em Pesquisar para voltar para a tela anterior.   
 
 ![Screenshot](images/Report-file-fig03.png)  
-Figure 3- Report file master screen  
+Figura 3 - Tela de cadastro do arquivo de relatório    
 
-5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.   
-6- To view an item, select the item and click View.  
-7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+5- Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.   
+6- Para visualizar um item, selecione o mesmo e clique em Visualizar.  
+7- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
 

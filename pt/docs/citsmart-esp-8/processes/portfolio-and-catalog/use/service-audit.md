@@ -1,44 +1,45 @@
-title: Verify service audit
-Description: This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
-#Verify service audit
-This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
+title: Verificar auditoria de serviços
+Description: Permite verificar o histórico do serviço para auditoria do mesmo.
+#Verificar auditoria de serviços
+Esta funcionalidade permite verificar o histórico do serviço para auditoria do mesmo. As orientações descritas neste conhecimento poderão ser seguidas para verificar o histórico do Serviço de Negócio/TI e do Serviço de Apoio/Técnico.
 
-Before getting started
--------------------------
-To verify the service audit history, it's necessary to have the portfolio
-defined.
+Antes de começar
+--------------------
 
-Procedure
--------------
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+Para verificar o histórico de auditoria de serviços é necessário ter o portfólio
+definido.
 
-2.  Access the Service Portfolio and click on "Advance";
+Procedimento
+----------------
 
-3.  Click on "Advance" in the service;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Portfólio;
 
-4.  Click on **Service Audit**;
+2.  Acessar o Portfólio de Serviços e clicar no botão "Avançar";
 
-5.  Enter the date range you're looking for or select the category;
+3.  Clicar no botão "Avançar" do serviço;
 
-6.  Click on "Search";
+4.  Clicar na guia **Auditoria do Serviço**;
 
-7.  If is necessary to register the details of the audit, click on the
-    tab **Register Occurrences**;
+5.  Colocar o intervalo de datas que se procura ou selecionar a categoria;
 
-8.  Complete all mandatory fields;
+6.  Clicar em "Buscar";
 
-9.  Click on "Save".
+7.  Caso tenha a necessidade de registrar os detalhes da auditoria realizada,
+    clique na aba **Cadastrar Ocorrências**;
 
-Related
-------------
+8.  Preencher os campos disponibilizados;
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+9.  Clicar em "Gravar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+Relacionado
+---------------
+
+Criar portfólio
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

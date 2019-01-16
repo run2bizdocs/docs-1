@@ -1,48 +1,53 @@
-title: Activities of the deployment release phase
-Description: This functionality is intended to plan the activities to be deployed to the release request. 
-#Activities of the deployment release phase
-This functionality is intended to plan the activities to be deployed to the release request.
+title:  Atividades da fase de implantação da liberação 
+Description: Permite planejar as atividades a serem implementadas junto a requisição de liberação 
+#Atividades da fase de implantação da liberação
+Esta funcionalidade permite planejar as atividades a serem implementadas junto a requisição de liberação semelhantemente ao que ocorre na fase de Planejamento da Liberação.
 
-Procedure
--------------
+Antes de começar
+--------------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+Antes realizar as atividades inerentes à Implantação da liberação é necessário
+que haja uma Liberação com a fase de planejamento concluída.
 
-2.  Find the release request you want to Plan the activity, click on the
-    button “Open” and then on the area "Deployment Release";
+Procedimento
+----------------
 
-3.  We can create a Kaban to manage the activities registered. Click on "+
-    Workspace" (available in the area called "Activities") and complete the data
-    available, for example, the title, its phase (to be done, in progress,
-    etc.), select the user or group responsible for the execution of tasks and
-    others;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Liberação;
 
-4.  You can link the roles and responsibilities, projects, documents, notes and
-    notifications of system to the release request. To do so, it's necessary to
-    click on the available frame, select the item to link it to the release;
+2.  Localizar a requisição de liberação da qual deseja Planejar a atividade,
+    clicar no botão “Abrir” e em seguida na área "Implantação da liberação";
 
-5.  In addition to allowing the link of responsibilities, projects, and
-    notification of systems, it's possible to create from scratch to fit the
-    release in thesis, by clicking on the "Register" button and complete the
-    required fields.
+3.  Podemos criar um quadro Kaban para gerenciar as atividades cadastradas.
+    Basta apertar no botão "+ Novo work" (disponibilizado na área chamada
+    "Atividades") e preencher os dados disponibilizados, tais como o título, sua
+    fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
+    responsáveis para a execução das tarefas, dentre outros;
 
-What to do next
--------------------
+4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
+    notas, documentos e notificações do sistema à requisição de liberação. Para
+    tanto, é necessário clicar sobre o quadro disponibilizados, selecionar o
+    item desejado para vincula-lo à liberação;
 
-It's possible to link other functionalities to the release request.
+5.  Além de permitir o vínculo das responsabilidades, projetos, e notificação de
+    sistemas, é possível criar os mesmos do zero para adequar-se a liberação em
+    tese, ao clicar no botão "Cadastrar" e preencher os campos necessários
 
-Related
------------
+O que fazer a seguir
+------------------------
 
-[Activities of the release planning phase](/en-us/citsmart-esp-8/processes/release/use/release-planning-activities.html)
+É possível vincular outras funcionalidades à requisição de liberação.
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+Relacionado
+---------------
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+Cadastrar uma requisição de liberação
 
-!!! tip "About"  
+Atividades da fase de planejamento da liberação
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

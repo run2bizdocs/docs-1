@@ -1,25 +1,25 @@
-title: Register release justification
-Description: This functionality registers the release request justification that will be used in other system routines. 
-#Register release justification
-This functionality registers the release request justification that will be used in other system routines.
+title:  Cadastrar a justificativa de liberação 
+Description: Tem por objetivo registrar a justificativa de requisição de liberação
+#Cadastrar a justificativa de liberação
+Esta funcionalidade tem por objetivo registrar a justificativa de requisição de liberação que será utilizada em outras rotinas do sistema, como por exemplo na suspensão de uma Liberação.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release Request Justification;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Justificativa Requisição Liberação;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the necessary data (description, justification status and inform if
-    it will be the same for the suspension of the release request).
+3.  Preencher os campos necessários (a descrição, situação da justificativa e
+    informar se a mesma será para a suspensão da requisição de liberação);
 
-4.  Click on "Save".
+4.  Clicar no botão "Gravar" para efetuar a operação.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

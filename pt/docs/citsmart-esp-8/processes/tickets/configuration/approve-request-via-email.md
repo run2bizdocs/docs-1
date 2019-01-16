@@ -1,85 +1,88 @@
-title: Approve request via email
-Description: Intended to approve or reject the ticket request through email, without the need of the manager being logged.
-#Approve request via email
-This functionality is intended to approve or reject the ticket request through email, without the need of the manager being logged.
+title: Aprovar solicitação via e-mail
+Description: Tem por objetivo aprovar ou rejeitar a solicitação de um ticket por meio do e-mail, sem a necessidade do administrador estar logado.
+#Aprovar solicitação via e-mail
 
-Before getting started
---------------------------
+Esta funcionalidade tem por objetivo aprovar ou rejeitar a solicitação de um
+ticket por meio do e-mail, sem a necessidade do administrador estar logado.
 
-In order to configure the email in the ticket, it's necessary to pre-register
-the user, the group and configure parameters 33 and 370 according to the
-guidelines of the system-related parametrization rules. It's also necessary to
-know how to design the request approval flow via email registered. In this flow,
-there should be the "Approval" task and the design for sending the email,
-registering the template with the "Waiting Approval" template attached, and
-thee-mail server must be configured with all the parameters for email
-parameterization rules.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para realizar a configuração do e-mail no ticket é necessário registrar
+previamente o usuário, o grupo e configurar os parâmetros 33 e 370 conforme
+orientações das regras de parametrização referente a sistema. Também é preciso
+saber desenhar fluxo de aprovação de solicitação via e-mail cadastrado. Neste
+fluxo deverá existir a tarefa "Aprovação" e o desenho para envio de e-mail,
+cadastrar o modelo de e-mail com o modelo "Aguardando Aprovação" que se encontra
+em anexo e o servidor de e-mail deverá ser configurado com todos os parâmetros
+referentes a regras de parametrização de e-mail.
 
-1.  Access the functionality through the main menu System \> Flow Maintenance;
+Procedimento
+----------------
 
-2.  Select the request approval flow and click on "Edit";
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Manutenção de fluxos;
 
-3.  Click on the **Diagram** tab;
+2.  Selecionar o fluxo de aprovação de solicitação e clicar em "Editar";
 
-4.  In the request approval flow, click on the connector "Send Message - email" icon and then on the small gray box next to the connector to configure it;
+3.  Na aba **Diagrama**;
 
-5.  Register, in the **Identification** tab, the name and email template to be
-    used;
+4.  No fluxo de aprovação de solicitação clicar no ícone "Envio de mensagem - email" e em seguida na pequena caixa cinza próxima ao conector configurado;
 
-6.  Configure, in the **Recipient** tab, the type of recipients (group/user) of
-    the email to be sent (the system don't search the recipients via
-    "Expression").
+5.  Cadastrar, na aba **Identificação**, o nome e o modelo de e-mail a ser
+    utilizado;
 
-*Configure the email approval notification*
+6.  Configurar, na aba **Destinatários**, os tipos destinatários (grupo/usuário)
+    do e-mail a ser enviado (o sistema não busca destinatários via "Expressão").
 
-1.  Access the functionality through the menu** **System \> Settings \> Email
-    template;
+*Configurar a notificação de aprovação do e-mail*
 
-2.  Paste the email template available in HTML in attachment, in the Text field
-    and verify the following guidelines:
+1.  Acessar a funcionalidade através do menu Sistema \> Configurações \>
+    Modelo de e-mail;
 
-    - href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+2.  Colar o modelo de e-mail disponibilizado em HTML em anexo, no campo Texto e
+    verificar as seguintes diretrizes:
 
-    - serviceRequestIncident = Interface directing: this field cannot be changed
-    by the user;
+    -   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
-    - \${IDSOLICITACAOSERVICO} = Key to increment the number of the service
-    request: this field cannot be changed by the user;
+    -   serviceRequestIncident = Direcionamento da interface : esse campo não pode
+        ser alterado pelo usuário;
 
-    - VIEW - calls the command to open the request: this field cannot be changed
-    by the user;
+    -   \${IDSOLICITACAOSERVICO} = Chave para incrementar o número da solicitação de
+        serviço : esse campo não pode ser alterado pelo usuário;
 
-    - MM (50) - Token expiration time in Minutes: this field can be changed by the
-    user;
+    -   VIEW - chama o comando para abrir a solicitação : esse campo não pode ser
+        alterado pelo usuário;
 
-1.  Click on "Save".
+    -   MM (50) - Tempo de expiração do token em Minutos : esse campo pode ser
+        alterado pelo usuário;
 
-Related
+1.  Clicar em "Gravar".
+
+
+Relacionado
 -------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+Cadastrar usuário
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+Manutenção de fluxo de trabalho
 
-[Configure parametrization – email](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
+Configurar parametrização - email
 
-[Configure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+Configurar parametrização -sistema
 
-Attachment
+Anexo
 ----------
-[Download](images/Approval.txt)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
 
 

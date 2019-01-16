@@ -1,73 +1,74 @@
-Title: Report setup  
-Description:The information is automatically populated from the report file. The name, description, and grouper folder on the server can be edited.  
-#Report setup  
-The information is automatically populated from the report file. The **name, description**, and grouper **folder** on the server can be edited.  
+Title: Configuração de relatório    
+Description:Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
 
-##HOW TO ACCESS  
-Access the functionality through the menu **Neuro → Management → Report.**  
+#Configuração de relatório   
+Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
 
-##PRECONDITIONS  
-The form must be previously registered in the Form.  
+##COMO ACESSAR 
+1- Acesse a funcionalidade através do menu Neuro → Gerenciamento → Relatório.
 
-##FILTERS  
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+##PRÉ-CONDIÇÕES 
+1- O formulário deve ser previamente cadastrado no Formulário. 
 
-- Keyword or enter.  
+##FILTROS 
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+
+- Palavra chave ou enter.    
 
 ![Screenshot](images/Report-setup-fig01.png)     
-Figure 1 - Report configuration search screen   
+Figura 1 -Tela de pesquisa de relatórios     
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
+##LISTAGEM DE ITENS    
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
 
 ![Screenshot](images/Report-setup-fig02.png) 
-Figure 2 - Report configuration lisitng screen  
+Figura 2 -Tela de listagem de relatórios    
 
-##FILLING IN THE REGISTRATION FIELDS  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
 
-REPORT DATA  
-1- This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
+DADOS DO RELATÓRIO    
+1- Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
 ![Screenshot](images/Report-setup-fig03.png) 
-Figure 3 - Register/edit report configuration, Report tab  
+Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
 
 ##DATA SOURCE  
-1- Refers to the data source of the report. Enter the **type** of the data source, which can be:  
+1- Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
 
-- **None**: if the file does not search the database.  
-- **Data connection**: if the information source is a database connection, also inform the respective database connection (register in the Database connection menu).  
-- **Data object**: if the information source is a database object registered in the application. Enter the **data object** that will be the data source (registerable in the Business Object menu).  
-- **ESI flow**: if the source of information is an ESI flow registered in the application. Enter the **flow** that will be the data source (registered in the Workflow/ESI Design menu).  
-- **Script**: if the data source is a script, code the script using the Rhino language.  
+- Nenhum: caso o arquivo não realize uma busca no banco de dados.    
+- Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva (cadastrável no menu Conexão de banco).   
+- Objeto de dados: caso a fonte de informações seja um objeto de banco de dados cadastrado na aplicação. Informe o objeto de negócio que será a fonte de dados (cadastrável no menu Objeto de negócio).    
+- Fluxo ESI: caso a fonte de informações seja um fluxo ESI cadastrado na aplicação. Informe o fluxo que será a fonte de dados (cadastrável no menu Design Workflow/ESI).    
+- Script: caso a fonte de dados seja um script, codifique o script utilizando a linguagem Rhino.    
 
 ![Screenshot](images/Report-setup-fig04.png)   
-Figure 4 - Register/edit report configuration, Data source tab  
+Figura 4 - Cadastro/edição de configuração de relatório, aba Data source    
 
-##PARAMETERS  
-1- This tab refers to the registration of fixed parameters for the report. You can enter an image as a parameter to define the report logo, for example.  
+##PARÂMETROS    
+1- Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
 
-- Click Add to add a new parameter.  
-- Enter the parameter **name, type**, and parameter **object**.  
-- Click Save to add the parameter to the list.  
-- To edit a parameter in the list, click Edit.  
-- To remove a parameter from the list, click Remove.  
+- Clique em Adicionar para incluir um novo parâmetro;    
+- Informe o nome do parâmetro, o tipo, e o objeto do parâmetro;   
+- Clique em Salvar para incluir o parâmetro na lista;  
+- Para editar um parâmetro da lista, clique em Editar;   
+- Para remover um parâmetro da lista, clique em Remover.  
 
 ![Screenshot](images/Report-setup-fig05.png) 
-Figure 5 - Register/edit Report configuration, Parameters tab  
+Figura 5 - Cadastro/edição de configuração de relatório, aba Parâmetros    
 
-##FORM  
-This tab represents the form to be displayed when the user generates the report.  
+##FORMULÁRIO   
+Esta aba representa o formulário a ser exibido quando o usuário for gerar o relatório.    
 
-1- Enter the **name** of the registered form, state whether tabs should be displayed, the **title** of the form, and the **menu** associated with to it.  
-2- In the selected form, by default, options will be added to generate the report in PDF, Excel and HTML.  
-3- To change the default, edit the source code displayed on the screen.  
-4- Click Save to run the changes. Click Search to return to the previous screen.  
-5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
-6- To view an item, select the item and click View.  
-7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+1- Informe o nome do formulário cadastrado, informe se deverão ser exibidas abas, o título do formulário, e o menu associado ao mesmo;    
+2- No formulário selecionado, por padrão, serão acrescentadas opções para gerar o relatório em PDF, Excel e HTML.    
+3- Para alterar o padrão, edite o código fonte apresentado na tela.  
+4- Clique em Salvar para executar as alterações. Clique em Pesquisar para voltar para a tela anterior.   
+5- Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.   
+6- Para visualizar um item, selecione o mesmo e clique em Visualizar.   
+7- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.    
 
 ![Screenshot](images/Report-setup-fig06.png)   
-Figure 6 - Register/edit report configuration, Form tab  
+Figura 6 - Cadastro/edição de configuração de relatório, aba Formulário  
 
 
 

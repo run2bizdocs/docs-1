@@ -1,52 +1,54 @@
-title: Execute release
-Description:Allows to register the information about the execution of the change's release request. 
-#Execute release
-This functionality allows to register the information about the execution of the change's release request.
+title: Executar uma liberação
+Description: Permite registrar as informações referente a execução da requisição de liberação das mudanças. 
+#Executar uma liberação
+Esta funcionalidade permite registrar as informações referente a execução da requisição de liberação das mudanças.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To execute a release request, it's necessary to previously register a request
-and the permission to execute this request.
+Para executar uma requisição de liberação é necessário o cadastro prévio da
+mesma e a permissão de execução desta requisição.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1- Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Liberação;
 
-2-  Find the release request to be executed, click on the button “Open” and
-    confirm the task attribution;
+2-  Localizar a requisição de liberação a executar, clicar no botão “Abrir” e
+    confirmar a atribuição da tarefa;
 
-3-  In the **Closure** area, click on "Solved", select the solution category of
-    the execution and also inform the useful information to the execution of the
-    release request;
+3-  Na área **Fechamento**, clicar no botão "Resolvida", selecionar a categoria
+    de solução da execução e informar também as informações úteis a execução da
+    requisição de liberação
 
-4-  It's also possible to link some functionality to the request, for
-    example: **Problems, Knowledge, Definitive Media, Roles/Responsibilities**.
+4-  Também é possível vincular algumas funcionalidades á requisição, tais
+    como: **Problemas**, **Conhecimento**, **Mídia
+    definitiva**,**Papéis/Responsabilidades**.
 
-!!! Abstract "NOTE"  
+!!! Abstract "ATENÇÃO"  
 
-    For further information on how to link these functionalities, read the
-    knowledge about it in the "Related" area, located right bellow.
-    
-5-  We can view the history of occurrences of the release by pressing the
-    icon “Execution Registration” and the flow about it when clicking on the
-    icon “View flow”;
+    Para maiores informações sobre como vincular estas funcionalidades, ler o
+    conhecimento referente ao mesmo na aba " Relacionados", localizado no canto
+    direito da tela.
 
-6-  Click on “Operations” and then on "Save and advance flow" or "Save and keep
-    current task" to execute the release request.
+5-  Podemos visualizar o histórico de ocorrências da liberação ao apertar no
+    ícone “Registro de Execução”e o fluxo referente a mesma ao clicar no
+    ícone “Visualizar fluxo”;
 
-Related
------------
+6-  Clicar em “Opções” e em seguida em "Gravar e avançar o fluxo" ou "Gravar e
+    manter a tarefa atual" para executar a requisição de liberação.
 
-[Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+Relacionado
+---------------
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+Cadastrar uma requisição de liberação
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+Relacionar informações à requisição de liberação
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

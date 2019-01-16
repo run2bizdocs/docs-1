@@ -1,52 +1,52 @@
-title: Create the portfolio
+title: Criar portfólio
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
+#Criar portfólio
+O gerenciamento de portfólio e catálogo de serviços considera serviços coativos em termos do valor ao negócio fornecido por eles e isso garante que a composição correta de serviços para atender aos resultados esperados do negócio em um nível adequado de investimento.
+Portfólio é um conjunto completo de serviços que serão entregues, agrupados por critérios como tamanho, disciplina ou valor estratégico. Assim, todos os serviços entregues pela empresa podem e devem compor o Portfólio.
+A gestão do portfólio é estratégica, pois administra os serviços durante todo o seu ciclo de vida, focando no valor que entregam para a área de negócio.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
 
-Description: This feature provides a variety of actions, such as including, changing, and deleting a portfolio.
+Antes de começar
+--------------------
 
-#Create the portfolio
-The service portfolio and catalog management consider services coative in terms of the business value provided by them, and this ensures that the correct composition of services to meet the expected results of the business at an appropriate level of investment.
-Portfolio is a complete set of services that will be delivered, grouped by criteria such as size, discipline or strategic value. Thus, all services delivered by the company can and should be part of the Portfolio.
-The portfolio management is strategic as it manages services throughout its lifecycle, focusing on the value they deliver to the business area.
-This feature provides a variety of actions, such as including, changing, and deleting a portfolio.
+Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
+Portfólio.
 
-Before getting started
---------------------------
+O portfólio permite vínculo com pesquisas que precisam estar cadastradas
+previamente.
 
-It's necessary to have defined the access permission to the functionalities of
-the Portfolio Management.
+Procedimento
+----------------
 
-The portfolio allows the linkage with searches that need to be previously
-registered.
+1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+    Portfólio e Catálogo \> Portfólio;
 
-Set parameter 293 to "YES" to enable access permission for user groups in the
-Portal.
+2.  Clicar em "Novo Portfólio";
 
-Procedure
--------------
+3.  Definir se o portfólio será do tipo "Negócio" ou "Apoio";
 
-1.  Access the functionality Service Portfolio Management through the main menu
-    Processes \> Portfolio and Catalog Management \> Portfolio;
+4.  Informar os dados do Portfólio;
 
-2.  Click on "New Portfolio";
+5.  Preencher os dados conforme o formato a ser definido.
 
-3.  Define if the portfolio is "Business" or "Technical";
+O que fazer a seguir
+------------------------
 
-4.  Enter the Portfolio data;
+Acessar a página inicial e verificar o portfólio criado.
 
-5.  Complete the data according to the format to be defined.
+Relacionado
+---------------
 
-Related
------------
+Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
 
-[Register satisfaction survey](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+Cadastrar pesquisa de satisfação
 
-[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+Configurar parametrização - Smart Portal
 
-[Configure parametrization - Smart Portal](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
 

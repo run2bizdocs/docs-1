@@ -1,55 +1,58 @@
-title: Generate reports - problem management
-Description:  Generate problems reports
-#Generate reports - problem management
+title: Gerar relatórios - Gerência de problemas
+Description: São apresentados diversos tipos de relatórios referents ao gerenciamento de problemas.
+#Gerar relatórios - Gerência de problemas
 
-In the following topics, it'll be presented the reports about the problem
-management:
+Nos tópicos a seguir são apresentados os relatórios referentes ao gerenciamento
+de problemas:
 
--   Problem/Incident Report;
+  -   Relatório de Problemas/Incidentes;
 
--   Problem Quantitative Report;
+  -   Relatório Quantitativo de Problema;
 
--   Report about Quantitative of Request/Problem by Service.
+  -   Relatório Quantitativo de Solicitação/Problema por Serviço.
 
-In all cases, there are options of exportation:
+Em todos os casos existem opções de exportação:
 
--   Click on "Generate PDF" to create the report of problem/incident in PDF;
+  -   Clicar no botão "Gerar PDF" para gerar o relatório de problemas/incidentes
+      no formato PDF;
 
--   Click on "Generate XLS" to create the report of problem/incident in Excel.
+  -   Clicar no botão "Gerar XLS" para gerar o relatório problema/incidentes no
+      formato Excel.
 
-Generate problem/incident report
-------------------------------------
+Gerar relatório de problema/incidentes
+---------------
 
-This report is intended to present the incidents related to the problem.
+Este relatório tem o objetivo de apresentar os incidentes relacionados ao
+problema.
 
-1.  Access the functionality through the main menu Reports \> Problem Management
-    \> Problem/Incident;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Problemas \> Problema/Incidentes;
 
-2.  Set the filters as needed.
+2.  Definir os filtros conforme a necessidade.
 
-Generate quantitative report of problem
--------------------------------------------
+Gerar relatório quantitativo de problema
+--------
 
-This report is intended to present the amount of problems happened.
+Este relatório tem o objetivo de apresentar a quantidade de problemas ocorridos.
 
-1.  Access the functionality through the main menu Reports \> Problem Management
-    \> Problem Quantitative;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Problemas \> Quantitativo de Problema;
 
-2.  Set the filters as needed.
+2.  Definir os filtros conforme a necessidade.
 
-Generate the quantitative report of request/problem by service
-------------------------------------------------------------------
+Gerar relatório quantitativo de solicitação/problema por serviço
+---------
 
-This report is intended to present the amount of requests and problems that were
-registered, by service.
+Este relatório tem o objetivo de apresentar a quantidade de solicitações e
+problemas que foram registrados, por serviço.
 
-1.  Access the functionality through the main menu Reports \> Problem Management
-    \> Service Request/Problem;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Problemas \> Solicitação/Problema Por Serviço;
 
-2.  Set the filters as needed.
+2.  Definir os filtros conforme a necessidade.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
