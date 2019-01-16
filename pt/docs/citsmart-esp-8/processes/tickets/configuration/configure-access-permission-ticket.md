@@ -1,40 +1,42 @@
-title: Configure access permission of request/incident management
-Description: Allows to define who will have access to the functionalities of the Request and Incident Management screen, and what type of access is allowed (reading, saving and/or deleting).
-#Configure access permission of request/incident management
+title: Configurar permissão de acesso do gerenciamento de requisições/incidentes
+Description: Permite definir quem terá acesso às funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
+#Configurar permissão de acesso do gerenciamento de requisições/incidentes
+
+A funcionalidade de Permissão de Acesso permite definir quem terá acesso às
+funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo
+de acesso é permitido (leitura, gravação e/ou exclusão).
+
+Antes de começar
+--------------------
+
+Para definir a permissão de acesso às funcionalidades do ticket é necessário
+registrar previamente o perfil.
+
+Procedimento
+----------------
+
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Gerência de Requisições/Incidentes;
+
+2.  Escolher o perfil de acesso:
+
+3.  Clicar em "Editar";
+
+4.  Para cada funcionalidade do Gerenciamento de Requisições e Incidentes,
+    selecionar as ações (visualizar, gravar e/ou deletar) que o Perfil poderá
+    realizar;
+
+5.  Clicar em "Gravar".
 
 
-The Access and Permission functionality allows to define who will have access to
-the functionalities of the Request and Incident Management screen, and what type
-of access is allowed (reading, saving and/or deleting).
 
-Before getting started
---------------------------
-
-To define the access permissions to the ticket functionalities, it's necessary
-to previously register the profile.
-
-Procedure
--------------
-
-1.  Access the functionality through the main menu Access and Permission \>
-    Incident/Request Management;
-
-2.  Choose the profile access:
-
-3.  Click on "Edit";
-
-4.  To each functionality of the Request/Incident Management, select the actions
-    (view, save and/or delete) that the Profile will be able to make;
-
-5.  Click on "Save".
-
-Related
+Relacionado
 -------
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+Criar perfil de acesso
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins
