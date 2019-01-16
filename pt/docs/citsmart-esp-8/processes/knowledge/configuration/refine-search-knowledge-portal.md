@@ -1,46 +1,49 @@
-title: Refine search in Knowledge Portal
-Description: Guide and suggest the best ways of search in the Knowledge Portal and in the User Guide. 
-#Refine search in Knowledge Portal
-This knowledge aims to guide and suggest the best ways of search in the Knowledge Portal and in the User Guide.
+title: Principais recursos utilizados na busca
+Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
+#Principais recursos utilizados na busca
 
-1.  Connectors between terms (Boolean logical operator):
+Este conhecimento tem por objetivo orientar e sugerir as melhores maneiras de se
+realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
 
-    -AND (+): it's possible to search with more than one word, prioritizing one
-    of them in the result. Adding the positive sign "+" in front of the word,
-    it'll be prioritized, for example: ticket +delegate;
+1.  Conectores entre termos (operador lógico booleano):
 
-    -NOT (-): it's possible to refine (reduce) the result, including words to be
-    excluded of the list. E.g.: Request -Incident.
+-   AND (+): é possível realizar busca com mais de uma palavra priorizando uma
+    delas no resultado. Acrescente o sinal positivo "+" na frente da palavra que
+    será priorizada, exemplo: ticket +delegar;
 
-1.  Vary how to write a word, for example:
+-   NOT (-): é possível refinar (reduzir) o resultado incluindo palavras a serem
+    retiradas da lista resultante. Ex.: Requisição -Incidente
 
-    -Request
+1.  Variar a forma de escrever a palavra, exemplo:
 
-    -Requesting
+-   Requisitar
 
-    -It's possible to search for a part of the word: Reque
+-   Requisição
 
-1.  Use synonyms:
+-   É possível pesquisar por uma parte da palavra: Requisi
 
-    -Generate
+1.  Utilizar sinônimos:
 
-    -Create
+-   Buscar
 
-1.  Search for the exactly phrase:
+-   Pesquisar
 
-    -Put the phrase you want with commas, e.g.: "How to delegate a ticket"
+1.  Pesquisar por frase exata:
 
-1.  Navigate through the folders and click in one with the subject you want.
+-   Colocar a frase desejada entre aspas duplas, ex. "Como delegar um ticket"
 
-Related
+1.  Navegar pelas pastas e clicar na pasta do assunto desejado.
+
+
+Relacionado
 -------
 
-[Search knowledge through the user guide](/en-us/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
+Pesquisar conehcimento pelo Guia do Usuário
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
