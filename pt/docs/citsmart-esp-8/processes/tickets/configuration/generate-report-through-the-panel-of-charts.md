@@ -8,16 +8,16 @@ incidentes e solicitações.
 Em todos os casos existem diversas formas de visualizar os relatórios através de
 quatro ícones:
 
-• Para gerar uma tabela com informações, clicar no ícone "Tabela";
+   • Para gerar uma tabela com informações, clicar no ícone "Tabela";
 
-• Para exibir as opções de gráficos, clicar no ícone "Gráficos" e selecionar o
-  formato do gráfico desejado;
+   • Para exibir as opções de gráficos, clicar no ícone "Gráficos" e selecionar o
+     formato do gráfico desejado;
 
-• Para gerar um relatório no formato PDF, clicar no ícone "Download documento
-  PDF";
+   • Para gerar um relatório no formato PDF, clicar no ícone "Download documento
+     PDF";
 
-• Para gerar um relatório no formato Excel, clicar no ícone Download documento
-  XLS".
+   • Para gerar um relatório no formato Excel, clicar no ícone Download documento
+     XLS".
 
 Gerar relatórios de monitoramento de incidentes
 ---------------------------------------------------
