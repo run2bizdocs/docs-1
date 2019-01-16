@@ -2,7 +2,7 @@ title: CSS
 Description: O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.   
 #CSS
 
-The Neuro allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.  
+O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.     
 
 !!! Abstract "ATENÇÃO"  
 
