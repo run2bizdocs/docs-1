@@ -37,7 +37,7 @@ Procedimento
 
 *Configurar a notificação de aprovação do e-mail*
 
-1.  Acessar a funcionalidade através do menu** **Sistema \> Configurações \>
+1.  Acessar a funcionalidade através do menu Sistema \> Configurações \>
     Modelo de e-mail;
 
 2.  Colar o modelo de e-mail disponibilizado em HTML em anexo, no campo Texto e
