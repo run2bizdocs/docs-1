@@ -1,76 +1,76 @@
-title: Define service continuity project
+title: Definir o projeto da continuidade do serviço
+Description: Permite definir o projeto. 
+#Definir o projeto da continuidade do serviço
+O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir o projeto.
 
-Description: Allows to set the policy. 
-#Define service continuity project
-The Continuity Registration is a process that pass through several phases. The first phase of this process, called Initiation, is where it's set the policy, scope and IT service continuity project. This functionality allows to set the policy.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-It assumes the existence of a defined service in a Portfolio and Catalog
-Management process.
+É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
+política de continuidade do serviço já definida e o escopo da continuidade já
+registrado.
 
-It's necessary to firstly have registered the Continuity Registration.
+É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
+categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
+anteriormente, o risco e a categoria de risco.
 
-It's necessary to have registered the threat and threat category, both linked to
-each other. It's also necessary to register the risk and risk category.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-It's equally essential to have registered the automatic actions of incident,
-request and procedure about the Event Management.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+2.  Localizar a continuidade do qual deseja vincular o projeto e clicar no botão
+    "Avançar";
 
-2.  Find the continuity you want to link the project and click on "Advance";
+3.  Na área **Iniciação**, clicar em "Projeto"*;*
 
-3.  In **Initiation**, click on "Project"*;*
+4.  Clicar no botão "Vincular Projeto", para relacionar um projeto já existente
+    à continuidade;
 
-4.  Click on "Link Project" to relate a project already existed in the
-    continuity;
+5.  Para cadastrar um projeto a partir desta tela, clicar no botão "Criar Novo
+    Projeto" e preencher os campos necessários;
 
-5.  To register a project form this screen, click on "Create New Project" and
-    complete the fields necessary;
+6.  Clicar no botão "Gravar" para efetuara a operação.
 
-6.  Click on "Save".
+O que fazer a seguir
+--------------------
 
-What to do next
--------------------
+Depois de definir o projeto da continuidade do serviço é necessário executar a
+seguinte ação: cadastrar as funções vitais da continuidade do serviço, sendo
+esta ação parte da segunda fase do registro completo da continuidade, chamada de
+Requisitos e Estratégia.
 
-After set the service continuity project, it's necessary to execute the
-following action: register the service continuity vital functions, being this
-action part of the second phase of the complete registration of the continuity,
-called Requirements and Strategy.
+Relacionados
+------------
 
-Related
------------
+Cadastrar ameaça
 
-[Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+Cadastrar categoria de ameaça
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar categoria de risco
 
-[Register service continuity vital functions](/en-us/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+Cadastrar o risco de continuidade
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar a continuidade de serviço
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Definir a política de continuidade do serviço
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar as funções vitais da continuidade do serviço
 
-[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
