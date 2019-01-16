@@ -1,25 +1,26 @@
-title: Register company
-Description: Provides a variety of actions, such as including, changing, and deleting the company's information.
+title: Cadastrar empresa
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir informações da empresa.
+#Cadastrar empresa
 
-#Register company
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir informações da empresa.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the company's information.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
+    Gerais \> Empresa;
 
-1.  Access the functionality through the main menu General Registration \>
-    Company;
+2.  Preencher os campos disponibilizados;
 
-2.  Complete the fields available;
+3.  Clicar em "Gravar".
 
-3.  Click on "Save".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
 
