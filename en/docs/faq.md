@@ -10,8 +10,8 @@ Title: Frequently Asked Questions
 	Solr's boosters can be used in two moments at the time of indexing or query, and their use in search is more common.
     Some boosters that may change the calculation of the score at the time of the survey are:
     
-    *term^num: where "num" is the importance of the search term, example: incident^2;
-    *And the field boosters and dismax and edismax functions can also be used to boost search.
+    - term^num: where "num" is the importance of the search term, example: incident^2;
+    - And the field boosters and dismax and edismax functions can also be used to boost search.
     
 	At ITSM, no booster is used, so far, only Solr's standard score calculation is used, and at the end of the search the ranking is done by the score and by the number of times the knowledge was voted / liked.
     
@@ -25,8 +25,8 @@ Title: Frequently Asked Questions
     
     Example "Payroll":
     
-    *Let's say it's the rule that one company does not hire more than 5 employees per industry.
-    *The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring "Could be fired.
+    - Let's say it's the rule that one company does not hire more than 5 employees per industry.
+    - The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring "Could be fired.
     
 ??? Question "How do I access the service request from the e-mail notification?"
     To access the service request from the e-mail notification, proceed as follows:
@@ -394,7 +394,7 @@ Title: Frequently Asked Questions
     [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
     
 ??? Question "What is the attachment upload features file size limit?"
-   The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
+    The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
    
 ??? Question "What is the Fato table of the service request module and how to insert data?"
     The service request fact table is intended to receive consolidated information regarding the service request.
@@ -402,102 +402,199 @@ Title: Frequently Asked Questions
     Such as:
     
     IDSOLICITACAOSERVICO
+	
     DATAHORASOLICITACAO
+	
     DIAABERTURA
+	
     MESABERTURA
+	
     ANOABERTURA
+	
     DATAHORAFIM
+	
     DIAFECHAMENTO
+	
     MESFECHAMENTO
+	
     ANOFECHAMENTO
+	
     IDGRUPOATUAL
+	
     GRUPOATUAL
+	
     IDPRIORIDADE
+	
     NOMEPRIORIDADE
+	
     IDSERVICOCONTRATO
+	
     IDCONTRATO
+	
     NUMEROCONTRATO
+	
     IDTIPOSERVICO
+	
     NOMETIPOSERVICO
+	
     IDPORTFOLIOSERVICO
+	
     DESCPORTFOLIOSERVICO
+	
     IDSOLICITANTE
+	
     SOLICITANTE
+	
     IDUSUARIORESPONSAVELATUAL
+	
     TECNICORESPONSAVEL
+	
     IDTIPODEMANDASERVICO
+	
     TIPOSOLICITACAO
+	
     IDCAUSAINCIDENTE
+	
     CAUSA
+	
     IDCATEGORIASOLUCAO
+	
     CATEGORIASOLUCAO
+	
     IDSTATUS
+	
     STATUS
+	
     IDACORDONIVELSERVICO
+	
     PRAZOSLA_HH
+	
     PRAZOSLA_MM
+	
     IDCALENDARIO
+	
     CALENDARIO
+	
     DATAHORALIMITE
+	
     DIALIMITESLA
+	
     MESLIMITESLA
+	
     ANOLIMITESLA
+	
     TAREFAATUAL
+	
     IDCLIENTE
+	
     CLIENTE
+	
     IDFORNECEDOR
+	
     FORNECEDOR
+	
     IDCATEGORIASERVICO
+	
     CATEGORIASERVICO
+	
     IDCONDICAOOPERACAO
+	
     NOMECONDICAOOPERACAO
+	
     IDORIGEM
+	
     ORIGEMDASOLICITACAO
+	
     IDMOEDA
+	
     MOEDA
+	
     IDTIPOFLUXO
+	
     FLUXO
+	
     IDIMPORTANCIANEGOCIO
+	
     IMPORTANCIASERVICOAONEGOCIO
+	
     IDLOCALIDADE
+	
     LOCALIDADE
+	
     IDUNIDADE
+	
     UNIDADE
+	
     URGENCIA
+	
     IMPACTO
+	
     RUPTURASLA
+	
     QTDEREABERTURAS
+	
     HOUVERECLASSIFICACAO
+	
     TEMPOATENDIMENTOHH
+	
     TEMPOATENDIMENTOMM
+	
     TEMPOATRASOHH
+	
     TEMPOATRASOMM
+	
     MAJOR
+	
     NOTAPESQUISASATISFACAO
+	
     QTDESOLICITACOESFILHAS
+	
     QTDESUBSOLICITACOES
+	
     QTDEBASECONHECIMENTO
+	
     QTDEPROBLEMAS
+	
     QTDELIBERACAO
+	
     QTDEMUDANCAS
+	
     QTDEICS
+	
     QTDEAPLICACOES
+	
     QTDEPROJETOS
+	
     QTDEANEXOS
+	
     QTDEAGENDAMENTOATIVIDADES
+	
     QTDEAGENDAMENTATIVFINALIZADAS
+	
     CONTRATOAPOIO
+	
     SERVICOAPOIO
+	
     CUSTOSERVICO
+	
     SERVICOINDISPONIVEL
+	
     QTDEELOGIOS
+	
     QTDEQUEIXAS
+	
     PROCEDIMENTOCONTINUIDADE
+	
     CUSTOINDISPONIBILIDADE
+	
     IDSERVICO
+	
     NOMESERVICO
+	
     IDATIVIDADE
+	
     NOMEATIVIDADE
+	
     DATAHORACARGA
     
 	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
