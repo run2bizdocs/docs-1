@@ -26,7 +26,7 @@ Procedimento
 2.  Preencher os campos disponibilizados quanto ao Impacto, clicar em "Gravar
     Impacto";
 
-3.  Preencher os campos disponibilizados quanto a urgência, clicar em"Gravar
+3.  Preencher os campos disponibilizados quanto a urgência, clicar em "Gravar
     Urgência";
 
 4.  Preencher os campos disponibilizados quanto a matriz de prioridade, clicar
