@@ -4,7 +4,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 O contrato é um acordo entre duas partes, que se obrigam a cumprir o que foi
 entre elas combinado sob determinadas condições. O contrato pode ser do
-tipo *contrato *(contrato entre o fornecedor do tipo provedor de serviços e
+tipo *contrato* (contrato entre o fornecedor do tipo provedor de serviços e
 cliente externo), *acordo de nível operacional* (acordo interno entre os
 departamentos da mesma organização, fornecedor interno com cliente interno)
 ou *contrato de apoio* (contrato entre o fornecedor externo e cliente interno).
