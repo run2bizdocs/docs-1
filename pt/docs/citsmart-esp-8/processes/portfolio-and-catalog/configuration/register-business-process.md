@@ -19,10 +19,10 @@ cliente, o grupo, a unidade e ter fluxos de trabalho definidos.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Portfólio e Catálogo \> Processo de Negócio;
 
-2.  Preencher os campos disponibilizados;
+2-  Preencher os campos disponibilizados;
 
 !!! Abstract "NOTA"
 
@@ -35,7 +35,7 @@ Procedimento
     considerada uma função vital. A função vital é uma consideração importante
     no gerenciamento de continuidade de serviço.  
 
-1.  Clicar em "Gravar".
+3-  Clicar em "Gravar".
 
 
 Relacionado
