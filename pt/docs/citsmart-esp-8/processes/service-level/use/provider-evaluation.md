@@ -1,36 +1,34 @@
-title: Provider evaluation
+title: Avaliação de fornecedor
+Description: Com o gerenciamento de nível de serviço é possível verificar graficamente o desempenho do fornecedor por serviço cadastrado.
+#Avaliação de fornecedor
+Com o gerenciamento de nível de serviço é possível verificar graficamente o desempenho do fornecedor por serviço cadastrado.
 
-Description: It's possible to graphically verify the provider performance by service registered.
-#Provider evaluation
-With the service level management, it's possible to graphically verify the provider performance by service registered.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Para se obter gráficos completos é necessário cadastrar previamente pelo menos
+um fornecedor e serviços.
 
-To get complete charts, it's necessary to previously register at least one
-service provider.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Nível de Serviço \> Avaliação \> Fornecedor;
 
-1.  Access the functionality Provider Evaluation through the main menu Processes
-    \> Service Level Management \> Evaluation \> Evaluation by provider;
+2.  Selecionar um fornecedor;
 
-2.  Select one provider;
+3.  Clicar em "Pesquisa".
 
-3.  Click on "Search".
-
-Related
+Relacionado
 -----------
 
-[Register provider](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
+Cadastrar um serviço
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar fornecedor
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
