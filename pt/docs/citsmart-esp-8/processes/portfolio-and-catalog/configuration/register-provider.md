@@ -1,33 +1,37 @@
-title: Register provider
-Description: 
-#Register provider
-The provider is an organization or an individual responsible for providing products or services to someone. It can be of types service provider, internal and/or external.
-This feature provides a variety of actions, such as including, changing, and deleting a provider.
+title: Cadastrar fornecedor
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um fornecedor.
+#Cadastrar fornecedor
+O fornecedor é uma organização ou uma pessoa física, responsável por prover
+produtos ou serviços a alguém. Ele pode ser do tipo *provedor de
+serviços*,*interno* e/ou *externo*.
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um fornecedor.
 
-To register an application, it is necessary loading the countries.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para cadastrar uma aplicação é preciso realizar a carga de países.
 
-1.  Access the functionality Provider through the main menu Processes \>
-    Portfolio and Catalog Management \> Provider.
+Procedimento
+----------------
 
-2.  Complete all mandatory fields;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Fornecedor.
 
-3.  Click on "Save".
+2.  Preencher os campos disponibilizados;
 
-Related
+3.  Clicar em "Gravar".
+
+Relacionado
 -------
 
-[Load countries](/en-us/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
+Carregar países
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
