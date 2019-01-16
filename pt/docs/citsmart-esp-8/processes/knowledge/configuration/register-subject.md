@@ -1,33 +1,33 @@
-title: Register subject
-Description: This feature provides various actions, such as including, changing and deleting the subject of a knowledge.
-#Register subject
+title: Cadastrar assunto
+Description: Tem por objetivo registrar o assunto de um conhecimento que será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não na base de conhecimento.
+#Cadastrar assunto
 
-This functionality is intended to register the subject of a knowledge, that will
-be used in the search of Reports of Topics or Subjects available or not in the
-knowledge base.
+Esta funcionalidade tem por objetivo registrar o assunto de um conhecimento que
+será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não
+na base de conhecimento.
 
-This feature provides various actions, such as including, changing and deleting
-the subject of a knowledge.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir o assunto de um conhecimento.
 
-Procedure
--------------
+Procedimento
+----------
 
-1.  Access the functionality through the main menu Processes \> Knowledge
-    Management \> Subject;
+1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
+    Conhecimento \> Assunto;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher o campo disponibilizado;
 
-4.  To relate the subject to a topic, complete the fields available and click on
-    "Add";
+4.  Para relacionar o assunto a um tópico, preencher o campo disponibilizado e
+    clicar em "Adicionar";
 
-5.  Click on "Save".
+5.  Clicar em "Gravar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

@@ -1,52 +1,55 @@
-title: Notify responsible for the knowledge expiration
-Description: Configure the e-mail notification to notify the responsible (creator and publisher) about the expiration of knowledge.
-#Notify responsible for the knowledge expiration
+title: Notificar responsável da expiração de conhecimento
+Description: Tem por objetivo configurar a notificação por e-mail para avisar o responsável (criador e publicador) acerca da expiração de conhecimentos.
+#Notificar responsável da expiração de conhecimento
 
-This knowledge is intended to configure the e-mail notification to notify the
-responsible (creator and publisher) about the expiration of knowledge.
+Este conhecimento tem por objetivo configurar a notificação por e-mail para
+avisar o responsável (criador e publicador) acerca da expiração de
+conhecimentos.
 
-Before getting started
---------------------------
+Antes de Começar
+--------------------
 
-It's necessary to have at least one knowledge registered in the knowledge base.
+É necessário ter ao menos um conhecimento cadastrado na base de conhecimento.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Configure the parameter 78 with the amount of the days previous to the
-    knowledge expiration, which is intended to notify the responsible for the
-    knowledge;
+1.  Configurar o parâmetro 78 com a quantidade de dias anteriores a expiração do
+    conhecimento do qual deseja notificar o responsável pelo conhecimento;
 
-2.  Create a routine for the batch processing notification:
+2.  Criar um rotina de processamento batch de notificação:
 
-    -   Access the functionality through the main menu System \> Batch
-        Processing and click on "New";
+    -   Acessar a funcionalidade através do menu principal Sistema \>
+        Processamento Batch e clicar no botão "Novo";
 
-    -   Define the routine description, select the type "Java Class" and put the
-        situation as "Active";
+    -   Definir a descrição da rotina, selecionar o tipo "Classe Java" e
+        estabelecer a situação como "Ativo";
 
-    -   Select the appointment as "Daily" and indicate the time in with will be
-        processed the routine;
+    -   Selecionar o agendamento como "Diário" e indicar o horário em que será
+        processado a rotina;
 
-    -   In the area "Content", copy the script below:
+    -   Na área "Conteúdo" copiar o script abaixo:
 
         -   br.com.centralit.citcorpore.quartz.job.VerificaValidadeBaseConhecimento
 
-    -   Click on "Save".
+    -   Clicar no botão "Gravar" para efetuar a operação.
 
-3.  If you want, it's possible to customize the email template. Just access the
-    functionality through the main menu System \> Settings \> Email template,
-    select the email template with ID = "7" and make the change.
-
-Related
--------
-
-[Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+3.  Se desejar, é possível personalizar o modelo de e-mail. Basta acessar a
+    funcionalidade através do menu principal Sistema \> Configuração \> Modelo
+    de e-mail, selecionar o modelo de e-mail com ID = "7" e realizar a mudança
+    pretendida.
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
+Relacionado
+----------
+Configurar parametrização - conhecimento
+
+Criar conhecimento
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

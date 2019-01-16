@@ -1,21 +1,22 @@
-title: Register threat category
-Description:Is intended to register the threat categories that will be used during the threat registration.
-#Register threat category
-This functionality is intended to register the threat categories that will be used during the threat registration.
+title: Cadastrar categoria de ameaça
+Description: Tem por objetivo cadastrar as categorias de ameaças que serão usadas durante os registros das ameaças. 
+#Cadastrar categoria de ameaça
+Esta funcionalidade tem por objetivo cadastrar as categorias de ameaças que serão usadas durante os registros das ameaças.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Threats Category Registration;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Cadastro Categoria de Ameaças;
 
-2.  In "**Threat Category Registration**", define the title of this category;
+2.  Na aba "**Cadastrar Categoria de Ameaça**" e definir o título desta
+    categoria;
 
-3.  Click on "Save".
+3.  Clicar no botão "Gravar" para efetuar a operação.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
