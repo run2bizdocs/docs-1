@@ -28,8 +28,6 @@ Execute the ticket.
 Related
 ------------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
-
 [Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
