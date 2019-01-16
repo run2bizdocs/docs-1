@@ -25,7 +25,7 @@ Procedimento
 5.  Clicar no botão de “Opções” e logo em seguida clicar no botão “Gravar e
     avançar o fluxo”, onde o ticket será cancelado. Mas, caso queira gravar
     somente as informações registradas sobre o cancelamento do ticket e manter a
-    tarefa atual, clique no botão “Gravar e manter a tarefa atual.
+    tarefa atual, clique no botão “Gravar e manter a tarefa atual".
 
 Relacionado
 -----------
