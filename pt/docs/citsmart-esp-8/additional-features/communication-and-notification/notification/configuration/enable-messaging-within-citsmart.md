@@ -3,7 +3,7 @@ Description: Disponibiliza um canal de comunicação entre o solicitante (Smart 
 #Habilitar a mensageria dentro do CITSmart
 
 O CITSmart disponibiliza um canal de comunicação entre o solicitante (Smart
-Portal)) e o técnico (área de solicitação de serviço/ticket) via mensagem
+Portal) e o técnico (área de solicitação de serviço/ticket) via mensagem
 (email). Essa comunicação visa facilitar a resolução de um chamado. Este
 conhecimento reúne informações pertinentes à configuração do serviço de
 mensageria.
