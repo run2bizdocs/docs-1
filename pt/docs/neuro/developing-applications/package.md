@@ -1,45 +1,45 @@
-Title: Package
-Description: When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
-#Package  
+Title: Pacote
+Description: Quando se produz um conjunto de itens de aplicação através do Neuro, é possível que esse conjunto seja aglomerado em um pacote que pode ser importado/exportado entre ambientes do Neuro.    
+#Pacote  
 
-When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
+Quando se produz um conjunto de itens de aplicação através do Neuro, é possível que esse conjunto seja aglomerado em um pacote que pode ser importado/exportado entre ambientes do Neuro.    
 
-##HOW TO ACCESS  
-1- Access the functionality through navigation in the main menu Neuro → Management  → Package.  
+##COMO ACESSAR  
+1- Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Pacote.    
 
-##PRECONDITIONS  
-1- No applicable.  
+##PRÉ-CONDIÇÕES    
+1- Não se aplica.    
 
-##FILTERS  
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
- - Keyword or enter.  
+##FILTROS  
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+ - Palavra chave ou enter.      
 
 ![Screenshot](images/Package-Search.png)  
-Figure 1 - Package search screen  
+Figura 1 - Tela de pesquisa de pacotes    
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Name, Description and Version.  
+##LISTAGEM DE ITENS   
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição e Versão.    
 
 ![Screenshot](images/Package-listing.png)  
-Figure 2 - Package listing screen  
+Figura 2 - Tela de listagem de pacotes   
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To change a package already registered, click Edit, make the modifications and then click Save;  
-2- To create a package, click New. Enter the Package Name and Description. Then select the elements that will be part of the package. All these elements must have been previously registered in Neuro;  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+1- Para alterar um pacote já cadastrado, clique em Editar, faça as modificações e depois clique em Salvar;   
+2- Para criar um pacote, clique em Cadastrar. Informe o Nome e a Descrição do pacote. Em seguida, selecione os elementos que farão parte do pacote. Todos estes elementos foram cadastrados previamente no Neuro;    
 
 ![Screenshot](images/Package-Registration.png)  
-Figure 3 - Package registration / edit screen  
+Figura 3 - Tela de cadastro/edição de pacotes   
 
-3- You can select **Applications, Parameters, Labels, Images, CSS, Java Scripts, HTML Pages,  Reports, Business rules, Flows, Business object, Components, Form pages, Forms, Business Processes, Notifications** and **User Groups** to compose the package;  
-4- Click Save to create the package. Click Search to go back to the previous screen;  
-5- To export a saved package, select it and then click Export. Packages are exported in .json format;  
-6- To import a package into a Neuro, click Import, select whether this version of the package should override elements that have the same identifier, whether the DDL should be run, and select the .json import file;  
+3- Poderão ser selecionadas Aplicações, Parâmetros, Labels, Imagens, CSS, Java Scripts, Páginas HTML, Relatórios, Regras de negócio, Fluxos, Objetos de negócio, Componentes, Páginas de formulário, Formulários, Processos de negócio, Notificações e Grupos de usuário para compor o pacote;    
+4- Clique em Salvar para criar o pacote. Clique em Pesquisar para voltar para a tela anterior;   
+5- Para exportar um pacote salvo, selecione o pacote, e clique em Exportar. Os pacotes são exportados em formato .json;    
+6- Para importar um pacote para um Neuro, clique em Importar, selecione se esta versão do pacote deverá substituir os elementos que possuírem o mesmo identificador, se a DDL deverá ser executada, e selecione o arquivo de importação .json.    
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the Neuro that will import it.**  
+    **Para garantir a compatibilidade, é altamente recomendável que a versão do Neuro que realizou a exportação de um pacote seja a mesma do Neuro que realizará a importação do mesmo pacote.**    
 
-7- To view an item, select the item and click View.  
+7- Para visualizar um item, selecione o mesmo e clique em Visualizar.    
 
 
 
