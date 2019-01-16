@@ -30,7 +30,7 @@ Procedimento
 
 4-  Construir o novo conhecimento.
 
-Relacionados
+Relacionado
 --------------------
 Criar pasta
 
