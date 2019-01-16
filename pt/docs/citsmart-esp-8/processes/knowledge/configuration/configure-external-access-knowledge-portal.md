@@ -65,7 +65,7 @@ Relacionado
 
 Criar pasta
 
-Criar conmhecimento
+Criar conhecimento
 
 Customizar o Portal do Conhecimento
 
