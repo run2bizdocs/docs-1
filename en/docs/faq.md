@@ -224,101 +224,348 @@ Title: Frequently Asked Questions
     4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
 ??? Question "How to enable the satisfaction survey?"
-
-
+    The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
+    
+    To enable the satisfaction survey, proceed as instructed below:
+    
+    1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO})
+    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization → CITSmart Parameters.
+    3. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
+    4. Search for the parameter "Send e-mail when running requests/incidents flows";
+    5. Select it.
+    6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests.
+    7. Click on the Save button to confirm the procedure.
+    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and technical service Portfolio Management and Catalog → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
+    9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
+    
 ??? Question "How to enable the scheduling rule of the problems module?"
-
-
+    The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
+    
+    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
+    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
+    3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
+    4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
+    5. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    
 ??? Question "How to enable the service requests escalation rule?"
+    The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
-
+    1. In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
+    2. Access the CITSmart Parameters feature by navigating in the main menu System → CITSmart Parameters;
+    3. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
+    4. Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
+    5. Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
+    6. Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
+    7. Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
+    
+	195 - E-mail template id for sending deadline request notification (Eg: 1)
+    197 - User login that will receive e-mail regarding service request scheduling rules that are expiring (eg Consultant)
+    113 - E-mail Template ID for Auto Escalation
+	10 - SMTP SEND - E-mail origin of service request notifications
+    33 - System access URL
+    
+	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+   
 ??? Question "How to improve the performance of CITSmart Enterprise ITSM?"
+    System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
+    
+    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (citsmart.cfg), where you can activate or inactivate routines.
+    
+    To use this capability, the citsmart.cfg file must exist in the directory:
+    ```sh
+    \jboss\standalone\configuration\ (When Jboss rises as a single instance)
+    \jboss\domain\configuration\ (When using cluster, has domains and hosts)
+    ```
+	Here are the guidelines you need to complete the configuration:
 
-
+    RULE: where $ {value} is replaced by the corresponding values.
+	
+    1 .START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
+    2. START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
+    3. START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
+    4. QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
+    5. The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation.
+    6. START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
+    7. START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
+    8. Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
+    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
+    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
+    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
+    9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
+    - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).
+    
 ??? Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
-
+    Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
+    
+	1. On-demand environments: Administrator must connect to the client's directory server.
+    2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
 
 ??? Question "How to link staff members (users) to a group?"
+    There are two ways to link staff members (users) to groups, being:
 
-
-??? Question "How to navegate the screens using the CITSmart Enterprise ITSM controls?"
-
+	FROM THE GROUP'S REGISTRY
+    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see knowledge Group registration and search);
+    2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
+    3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
+    4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
+    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
+    
+	FROM THE USER'S REGISTRY
+    
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see knowledge Staff registration and search);
+    2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
+    3. Click on the add icon of the Group field, the group search screen will be displayed;
+    4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
+    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit
 
 ??? Question "How to relate group to contract?"
-
-
+    To relate the group to the contract, proceed as follows:
+    
+    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
+    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the Save button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files → Personnel Management → Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
+    5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same.
+    6. Once this is done, the registration screen of the selected group will be displayed;
+    7. Select the contracts to which the group will be linked. After that, click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
+    
 ??? Question "How to relate unit to contract?"
-
-
+    To relate the unit to the contract, proceed as follows:
+    
+    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
+    3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the Save button to perform the operation;
+    4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files → Personnel Management → Unit.The unit registration screen will be displayed, displaying the contracts;
+    5. If the unit you wish to link to the contract is already registered in the system, perform the unit search and select it. Once this is done, the registration screen of the particular unit will be displayed;
+    6. Select the contracts to which the unit will be linked.
+    7. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    
 ??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
+    Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
+    
+	1. Access path: System → Settings → Environment settings; Three frames will appear for image upload:
+    - Initial Logo: Image displayed on the initial login screen of the system;
+    - Portal Logo: Image presented in the System Services Portal;
+    - System Logo: Image presented when accessing the system;
+    - Report Logo: Image presented in all jasper reports.
+	
+    2.Upload (can be different images).
+    
+	RULE: If you do not choose a new logo, the default logo will be CITSmart logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the CITSmart ITSM.
 
+    MOST PRECISE IMAGE CONFIGURATION FOR JASPER REPORTS
+	
+    The user has access to the properties of the image that will appear in the reports,
 
+	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.
+    
 ??? Question "How to setup the SOLR feature?"
+    PARAMETER CONFIGURATION
+    
+	1. To configure a parameter navigate to the screen “Parametrization → Knowledge Management”;
+    2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”
+    3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento
 
-
+	INDEXING EXISTING KNOWLEDGE ENTRIES
+    1. To index knowledge entries navigate to the screen “System → Configurations → Knowledge Management (Index)”;
+    2. If there are indexed knowledge entries already click on “Remove Knowledge base index”;
+    3. Shortly after, click on "Index Knowledge Base";
+    4. If any errors occur click on “Refresh the Index Server”;
+    5. Shortly after, click again on ”Index Knowledge Base";
+    6. If any errors occur contact the ITSM Support.
+    
 ??? Question "To which recipient will be sent notifications of ICs?"
-
-
+    IC notifications will be sent to the recipient defined in the Citsmart Parameter screen.
+    
+	To set the recipient, proceed as follows:
+    
+    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
+    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
+    3. It will display the screen for parameter search;
+    4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)"
+    5. Select the same.
+    6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All)
+    7. Click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
+    8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
+    
 ??? Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
-
-
+    [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
+    
+    [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
+    
 ??? Question "What is the attachment upload features file size limit?"
-
-
+   The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
+   
 ??? Question "What is the Fato table of the service request module and how to insert data?"
-
-
+    The service request fact table is intended to receive consolidated information regarding the service request.
+    
+    Such as:
+    
+    IDSOLICITACAOSERVICO
+    DATAHORASOLICITACAO
+    DIAABERTURA
+    MESABERTURA
+    ANOABERTURA
+    DATAHORAFIM
+    DIAFECHAMENTO
+    MESFECHAMENTO
+    ANOFECHAMENTO
+    IDGRUPOATUAL
+    GRUPOATUAL
+    IDPRIORIDADE
+    NOMEPRIORIDADE
+    IDSERVICOCONTRATO
+    IDCONTRATO
+    NUMEROCONTRATO
+    IDTIPOSERVICO
+    NOMETIPOSERVICO
+    IDPORTFOLIOSERVICO
+    DESCPORTFOLIOSERVICO
+    IDSOLICITANTE
+    SOLICITANTE
+    IDUSUARIORESPONSAVELATUAL
+    TECNICORESPONSAVEL
+    IDTIPODEMANDASERVICO
+    TIPOSOLICITACAO
+    IDCAUSAINCIDENTE
+    CAUSA
+    IDCATEGORIASOLUCAO
+    CATEGORIASOLUCAO
+    IDSTATUS
+    STATUS
+    IDACORDONIVELSERVICO
+    PRAZOSLA_HH
+    PRAZOSLA_MM
+    IDCALENDARIO
+    CALENDARIO
+    DATAHORALIMITE
+    DIALIMITESLA
+    MESLIMITESLA
+    ANOLIMITESLA
+    TAREFAATUAL
+    IDCLIENTE
+    CLIENTE
+    IDFORNECEDOR
+    FORNECEDOR
+    IDCATEGORIASERVICO
+    CATEGORIASERVICO
+    IDCONDICAOOPERACAO
+    NOMECONDICAOOPERACAO
+    IDORIGEM
+    ORIGEMDASOLICITACAO
+    IDMOEDA
+    MOEDA
+    IDTIPOFLUXO
+    FLUXO
+    IDIMPORTANCIANEGOCIO
+    IMPORTANCIASERVICOAONEGOCIO
+    IDLOCALIDADE
+    LOCALIDADE
+    IDUNIDADE
+    UNIDADE
+    URGENCIA
+    IMPACTO
+    RUPTURASLA
+    QTDEREABERTURAS
+    HOUVERECLASSIFICACAO
+    TEMPOATENDIMENTOHH
+    TEMPOATENDIMENTOMM
+    TEMPOATRASOHH
+    TEMPOATRASOMM
+    MAJOR
+    NOTAPESQUISASATISFACAO
+    QTDESOLICITACOESFILHAS
+    QTDESUBSOLICITACOES
+    QTDEBASECONHECIMENTO
+    QTDEPROBLEMAS
+    QTDELIBERACAO
+    QTDEMUDANCAS
+    QTDEICS
+    QTDEAPLICACOES
+    QTDEPROJETOS
+    QTDEANEXOS
+    QTDEAGENDAMENTOATIVIDADES
+    QTDEAGENDAMENTATIVFINALIZADAS
+    CONTRATOAPOIO
+    SERVICOAPOIO
+    CUSTOSERVICO
+    SERVICOINDISPONIVEL
+    QTDEELOGIOS
+    QTDEQUEIXAS
+    PROCEDIMENTOCONTINUIDADE
+    CUSTOINDISPONIBILIDADE
+    IDSERVICO
+    NOMESERVICO
+    IDATIVIDADE
+    NOMEATIVIDADE
+    DATAHORACARGA
+    
+	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
+    
 ??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
-
-
+    When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.
+    
+	Let's look at a generic example:
+    - For example, service A has a linked quality flow, after solving a service A request and advancing the flow, the responsible group will be the quality group and this will terminate the life cycle of the request in question, but this group is not The group that solved this request, it only approved the solution and terminated the request, so it will not appear in the report generated by the Inquiries and Incidents search screen when the "Solver Group" filter is marked with a specific group.
+    - However, when the "Solver Group" filter is not active, the group presented in the report or search will be the group referring to the current request task, ie if the request is closed and has a quality flow, the group will be presented Of quality as the current group responsible for closing the life cycle of this request, if the request is in progress, will be presented the current group responsible for the execution of this request.
+    
 ??? Question "What is the meaning of each inventory status of CIs?"
-
-
+    - Inventory - the inventory was able to read the CI information and ended successfully
+    - Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
+    - Unreachable - When the server encounters the IC but can not bring the information,
+    - Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
+    - Running - While reading the inventory, the IC is in this status.
+    
 ??? Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
-
-
-??? Question "What is the set of scripts indicated for the complete exclusion of a portfolio?"
-
-
-??? Question "What is the set of scripts set to clear all inventory data and configuration items?"
-
-
+    - Public: all users with access to the Knowledge Portal have access, regardless of whether they have access to the knowledge folder.
+    - Confidential: only author and approver can view knowledge.
+    - Internal: only people with permission in the knowledge folder can view.
+    
 ??? Question "What is the type of permission for the Logdados table backup folder?"
-
-
+    The folder permissions must be to read and write for the JBoss user.
+    
 ??? Question "When does data synchronization occur with LDAP?"
-
-
+    The system synchronizes the credential data of its users with LDAP in three different situations:
+    
+	1. On application activation, usually in sequence to the product version update procedure;
+    2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's authentication and permission;
+    3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.
+    
 ??? Question "When is removed the data from the Logdata table?"
-
-
+    The backup routine of the LogData table removes the data from the table and saves it to a file, that is, the table becomes clean after processing.
+    
 ??? Question "When is the Logdata table Information deleted?"
-
-
+    The LogData tab daily backup routine clear the tab's data and saves as a file, that is, the tab is cleared after the processing.
+    
 ??? Question "Why are the schedules created by the tool different from the current time?"
+    SCENARIO
+    1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
 
-
+	WHAT TO CHECK
+    1. Postgresql database configuration file:
+    Postgresql.conf
+    timezone = 'BRAZIL/EAST'
+    2. On the container cloud:
+    Setting timezone on the operating system.
+    3.Setting up the TimeZone on the JRE:
+    https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+    
 ??? Question "Why in some reports does the same request appear more than once?"
-
-
-??? Question "Why is the result "Empty Report" when generating the reportQuantitativeControlPercentual when selecting in the filter the situation "in progress" and the "solver group"?"
-
-
+    In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repeats" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
+    
+    In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not shown more than once.
+    
+??? Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
+    This is not an error, the solver group field is populated only when the request is terminated, this causes to only brings results to situations such as "Closed", incompatible with what is being requested / reported in the filters.
+    
 ??? Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
-
-
+    Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
+    
+    1. The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
+    2. When the feature called Sequence Block is impacted by an external factor, this occurs if:
+    - There is an application stop for version upgrade, or environment maintenance and later return.
+    - The environment is clustered.
+    
 ??? Question "Will the backup be overwritten or will there be a file for every day?"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    If your routine has a daily backup, a file will be created every day, containing the name and date of the file.
+	
