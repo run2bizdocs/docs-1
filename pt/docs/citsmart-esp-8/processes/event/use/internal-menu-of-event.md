@@ -1,41 +1,43 @@
-title: Internal menu of event management
-Description:Is intended to demonstrate the other functionalities and the information in an event registration.
-#Internal menu of event management
-This functionality is intended to demonstrate the other functionalities and the information in an event registration.
+title: Menu interno do gerenciamento de eventos
+Description: Tem por objetivo demonstrar as demais funcionalidades as informações contidas no registro de um evento. 
+#Menu interno do gerenciamento de eventos
 
-Before getting started
---------------------------
+Esta funcionalidade tem por objetivo demonstrar as demais funcionalidades as informações contidas no registro de um evento.
 
-To view the information, it's necessary to previously register the event.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para visualizar as informações é necessário ter o evento cadastrado.
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Event;
+Procedimento
+----------------
 
-2.  Click on the event you want and then on the button “Open”;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Evento;
 
-3.  Click on the menu icon located in the upper left corner of the screen;
+2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”;
 
-4.  Click on "Actions";
+3.  Clicar no ícone do menu localizado no canto superior esquerdo da tela;
 
-5.  Click on "Execute", it'll appear a new screen that presents and provides the
-    request/incident to normally execute it (close, capture, etc);
+4.  Clicar no botão Ações";
 
-6.  Click on "Related Occurrences" so they can appear;
+5.  Clicar no botão "Executar" e uma nova tela é apresentada que mostra e
+    disponibiliza a requisição/incidente para executá-lo normalmente (encerrar,
+    capturar, etc.);
 
-7.  Click on "Related Knowledge" to relate an existing knowledge or create a new
-    one.
+6.  Clicar no botão "Ocorrências relacionadas" e serão exibidas;
 
-Related
------------
+7.  Clicar no botão "Conhecimentos relacionados" para relacionar um conhecimento
+    existente ou criar um novo.
 
-[Register Nagios/Zabbix connection](/en-us/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+Relacionados
+----------------
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
+Cadastrar conexão Nagios/Zabbix
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

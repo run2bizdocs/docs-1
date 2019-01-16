@@ -1,35 +1,34 @@
-title: Register threat
-Description:Provides a variety of actions, such as including, changing, and deleting the threat. 
-#Register threat
-This functionality is intended to register the threats that will be used during the Continuity registration.
-This feature provides a variety of actions, such as including, changing, and deleting the threat.
+title: Cadastrar ameaça
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça. 
+#Cadastrar ameaça
+Esta funcionalidade tem por objetivo cadastrar as ameaças que serão usadas durante o registro de Continuidade.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça.
 
-Before getting started
---------------------------
+Antes de Começar
+----------------------
 
-It's necessary to previously register the threat category.
+É necessário o cadastro prévio da categoria de ameaça.
 
-Procedure
--------------
+Procedimento
+------------------
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Register Threat;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Cadastro de Ameaça;
 
-2.  Click on the tab "**Threat Registration**";
+2.  Clicar na aba "**Cadastrar Ameaça**";
 
-3.  Complete the fields necessary (name and category);
+3.  Preencher os campos necessários (Nome da ameaça e categoria da ameaça);
 
-4.  Click on "Save".
+4.  Clicar no botão "Gravar" para efetuar a operação.
 
-Related
------------
+Relacionados
+------------------
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar categoria de ameaça
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

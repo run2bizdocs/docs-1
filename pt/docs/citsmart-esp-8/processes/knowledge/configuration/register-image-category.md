@@ -1,22 +1,32 @@
-title:  Register image category
-Description: provides a variety of actions, such as including, changing, and deleting the images categories to organize the images inside the gallery that the system manages and uses.
+title: Cadastrar categoria de imagem
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as categorias de imagens para organização das imagens dentro da galeria que o sistema administra e usa.
+#Cadastrar categoria de imagem
 
-#Register Image Category
-This feature provides a variety of actions, such as including, changing, and deleting the images categories to organize the images inside the gallery that the system manages and uses.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as categorias de imagens para organização das imagens dentro da galeria
+que o sistema administra e usa.
 
-##Procedure
-1.	Access the functionality Picture Gallery through the main menu Processes > Knowledge Management > Image > Image Gallery Category;
-2.	Complete all mandatory field;
-3.	Click on "Save".
+Procedimento
+----------------
 
-##Related
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Processos \> Gerência de Conhecimentos \> Imagem \> Categoria Galerias de
+    Imagens.
 
-[Store images in the gallery](/en-us/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
+2.  Preencher o campo obrigatório;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
+3.  Clicar em "Gravar".
+
+
+Relacionado
+--------
+
+Armazenar imagens na galeria
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
 !!! tip "About"
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>12/28/2018 – João Pelles Junior 
+    <b>Updated:</b>01/16/2019 – Anna Martins 
 
 

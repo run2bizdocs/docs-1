@@ -1,50 +1,44 @@
-title: Attend with remote support
- 
-Description: The ticket attendance, sometimes, can be with the user that cannot solve only with the attendance guidance, so, the product makes available the remote support, helping to find some question.
+title: Atender com suporte remoto
+Description: O produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
+#Atender com suporte remoto
+O atendimento de um ticket muitas vezes pode ser com usuários que não consegue resolver somente com orientações do atendente, por isso o produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
+Com o atendimento remoto é possível ver o histórico de atendimentos deste tipo, contribuindo assim com informações para um possível processo de auditoria.
 
-#Attend with remote support  
+Antes de começar
+----------------
 
-The ticket attendance, sometimes, can be with the user that cannot solve only with the attendance guidance, so, the product makes available the remote support, helping to find some question.
-With the remote attendance, it's possible to see the attendance history of this type, helping with the information to a possible audit process.
+O atendente deverá ter acesso ao Item de Configuração do solicitante e realizar
+a configuração de acesso remoto.
 
-Before getting started
---------------------------
+Procedimento
+------------
 
-The attendant should have access to the Configuration Item of the requester and
-configure the remote access.
+1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+    Requisição e Incidente \> Ticket;
 
-Procedure  
--------------
+2.  Selecionar o ticket, clicar sobre o mesmo e em seguida no botão “Abrir” para
+    capturar;
 
-1.  Access the functionality through the main menu Processes \> Request and
-    Incident Management \> Service Request and Incident;
+3.  Clicar na guia IC Relacionado;
 
-2.  Select the ticket and click on it, then click on the button “Open” to
-    capture it;
+4.  Pesquisar pelo item de configuração e clicar no botão "Selecionar";
 
-3.  Click on the tab CI Related;
+5.  Clicar no botão “Info”;
 
-4.  Search for the configuration item and click on "Select";
+6.  Clicar no ícone “Acesso Remoto”;
 
-5.  Click on the information button “Info”;
+7.  Iniciar o atendimento remoto.
 
-6.  Click on the icon “Remote access”;
-
-7.  Start the remote attendance.
-
-Related
+Relacionado
 -----------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-[Configure remote access](/en-us/citsmart-esp-8/processes/configuration/configuration/configure-remote-access.html)
+Configurar acesso remoto
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

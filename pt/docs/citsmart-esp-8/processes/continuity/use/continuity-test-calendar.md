@@ -1,116 +1,117 @@
-title: Continuity test calendar
+title: Calendário de testes da continuidade
+Description: Esta funcionalidade permite visualizar os eventos de teste da continuidade do serviço. 
+#Calendário de testes da continuidade
+O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma.Esta funcionalidade permite visualizar os eventos de teste da continuidade do serviço.
 
-Description: Allows to view the events of service continuity tests. 
-#Continuity test calendar
-The Continuity Registration is a process that pass through several phases. The forth phase of this is called Continuous Operation, where it'll be defined the continuity Awareness (education and training), Review and continuity audit, the Tests about the continuity and its Invocation. This functionality allows to view the events of service continuity tests.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-Assumes the existence of a defined service in a Portfolio and Catalog Management
-process.
+É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
+política e o projeto de continuidade do serviço já definidos, além de ter o
+escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
+riscos, a estratégia, o plano, o planejamento organizacional, a estratégia de
+testes conscientização de continuidade já registrados e a auditoria e revisão da
+continuidade já realizada.
 
-It is fundamental to firstly have registered the Continuity Registration, the
-policy and the project of continuity of service already defined, in addition to
-having the scope, vital functions, business impact analysis, risk evaluation,
-strategy, plan , organizational planning, the strategy of tests of continuity
-awareness already registered and the audit and review of the continuity already
-done.
+É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
+categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
+anteriormente, o risco e a categoria de risco.
 
-It is necessary to previously register the threat and threat category both
-linked to each other. It's also essential to have registered the risk and risk
-category.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-It's equally essential to have register the automatic actions to incident,
-request and procedure about the Event Management.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+2.  Localizar a continuidade do qual deseja visualizar os eventos de testes e
+    clicar no botão "Avançar";
 
-2.  Find the continuity you want to view the tests event and click on "Advance";
+3.  Na área **Operação Continua**, clicar em "Testes";
 
-3.  In **Continuous Operation**, click on "Test";
+4.  É apresentado, então um calendário contendo os eventos de testes traçados
+    durante a implementação, o que chamamos de estratégia de testes. Estes
+    eventos podem ser visualizados por mês, semana ou dia. Para definir o tipo
+    de visualização, clicar em um dos botões localizados acima do calendário:
+    "Mês", "Semana" ou "Dia";
 
-4.  It'll be presented a calendar with events of tests, created during the
-    implementation, which we'll call it tests. These events ca be viewed by
-    month, seek or day. To set the type of view, click on one of the buttons
-    above the calendar: "Month", "Week" or "Day";
+5.  Clicar no evento de teste e:
 
-5.  Click on the test event and:
+    1.  Preencher os campos referentes às informações principais do evento;
 
-    1.  Complete the fields abou the main information of event;
+    2.  Clicar na aba "Grupo" e em seguida no botão "Adicionar Grupo" para
+        pesquisar e vincular o grupo desejado;
 
-    2.  Click on the tab "Group" and then on "Add Group" to search and link the
-        group you want;
+    3.  Clicar na aba "Colaborador' e em seguida no botão "Adicionar
+        Colaborador" para pesquisar e vincular o colaborador desejado;
 
-    3.  Click on the tab "Employee" and then on "Add Employee" to search and
-        link the employee you want;
+    4.  Clicar na aba "Evidência de teste" e em seguida no botão "Adicionar
+        Evidência de teste" para pesquisar e vincular uma evidência de teste já
+        existente ou clicar no botão "Criar Evidência de teste" para criar um
+        novo conhecimento detalhando esta evidência;
 
-    4.  Click on the tab "Test Evidence" and then on "Add test evidence" to
-        search and link a test evidence already existed or click on "Create test
-        evidence" to create a new knowledge, detailing the evidence;
+    5.  Clicar na aba "Planos de teste" e em seguida no botão "Adicionar Plano
+        de teste" para pesquisar e vincular um plano de teste.
 
-    5.  Click on the tab "Test Plan" and then on "Add test plan" to search and
-        link a test plan.
+6.  Clicar no botão "Gravar" do calendário de testes para aplicar as alterações
+    realizadas.
 
-6.  Click on "Save" of the test calendar to apply the changes made.
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Após de verificar o calendário de testes da continuidade é possível executar a
+seguinte ação, se necessário: invocar a continuidade, ação parte da quarta fase
+do registro completo da continuidade, chamada de Operação Contínua.
 
-After verify the continuity test calendar, it's possible to execute the
-following action, if necessary: invocate the continuity, action of the forth
-phase of the complete registration of continuity, called Continuous Operation.
+Relacionados
+----------------
 
-Related
--------
+Cadastrar ameaça
 
-[Register impact analysis in the continuity business](/en-us/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+Cadastrar categoria de ameaça
 
-[Register continuity risk evaluation](/en-us/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+Cadastrar categoria de risco
 
-[Register continuity awareness](/en-us/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
+Cadastrar o risco de continuidade
 
-[Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+Cadastrar a continuidade de serviço
 
-[Register service continuity strategy](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+Definir a política de continuidade do serviço
 
-[Register continuity test registration](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Definir o projeto da continuidade do serviço
 
-[Register service continuity vital functions](/en-us/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+Cadastrar as funções vitais da continuidade do serviço
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar a análise de impacto no negócio da continuidade
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar a avaliação de riscos da continuidade
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Cadastrar a estratégia de continuidade de serviços
 
-[Register continuity organizational planning](/en-us/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+Cadastrar o plano de continuidade
 
-[Register continuity plan](/en-us/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+Cadastrar o planejamento organizacional da continuidade
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar a estratégia de testes da continuidade
 
-[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+Cadastrar a conscientização da continuidade
 
-[Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+Revisar e auditar a continuidade do serviço
 
-[Invoke continuity](/en-us/citsmart-esp-8/processes/continuity/use/invoke-continuity.html)
+Invocar a continuidade
 
-[Review and audit service continuity](/en-us/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço

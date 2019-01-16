@@ -1,203 +1,198 @@
-Title: Process Integration Flow  
-Description:The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.
+Title: Fluxo de integração de processos  
+Description:Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.  
 
-#Process Integration Flow  
+#Fluxo de integração de processos  
 
-The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.  
+Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
-##HOW TO ACCESS
-1- Access the functionality through the menu **Workflow/ESI  → Administration → Workflow/ ESI design.**  
+##COMO ACESSAR  
+1- Acesse a funcionalidade através do menu Workflow/ESI → Administração → Design workflow/ESI.  
 
-##PRECONDITIONS
-1- Not applicable  
+##PRÉ-CONDIÇÕES  
+1- Não se aplica.   
 
-##FILTERS  
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+##FILTROS   
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
- - Keyword  
+ - Palavra chave   
 
 ![Screenshot](images/Process-fig01.png)   
-Figure 1 - Workflow / ESI design search screen  
+Figura 1 - Tela de pesquisa de design workflow/ESI   
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Name, Description, Flow application, Version and Block date.  
+##LISTAGEM DE ITENS   
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Process-fig02.png) 
-Figure 2 - Workflow / ESI design listing screen  
+Figura 2 - Tela de listagem de design workflow/ESI   
 
-##FILLING IN THE REGISTRATION FIELDS - FLOW DATA  
-Through this tab, basic information about the flow to be design is defined.  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO  
+Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
-1- Click on New → Process integration flow, as shown in the figure below:  
+1- Clique em Cadastrar → Fluxo de integração de processos, conforme ilustrado na figura abaixo:    
 
 ![Screenshot](images/Process-fig03.png)   
-Figure 3 - Service integration flow register screen  
+Figura 3 - Tela de cadastro de fluxo de integração de serviços    
 
-2- The Design Workflow / ESI registration screen will be displayed, precisely on the Flow Data tab, as shown in the figure below:   
+2- Será apresentada a tela de cadastro de Design Workflow/ESI, precisamente na aba Dados de Fluxo, conforme ilustrada na figura abaixo:     
 
 ![Screenshot](images/Process-fig04.png)   
-Figure 4 – Register/edit workflow, Flow data tab.  
+Figura 4 - Tela de cadastro de fluxo de integração de serviços - aba dados de fluxo    
 
-3- Fill in the fields: 
+3- Preencha os campos:  
  
--  Enter a name for the flow, a description, the flow application, what form
-    will start to flow (if applicable)
+-  Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se aplique);  
 
--  The field version is incremented automatically by the system whenever a new
-    version of the workflow is created.
+-  O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
 
--  Time management can take place in the following ways:
+-  O gerenciamento de tempo poderá ocorrer das seguintes formas:  
 
-	-   No management: when the time is not managed in the registered flow.
+	-   Não gerencia: quando o tempo não é gerenciado no fluxo cadastrado.  
 
-	-   Defined in the flow: the time recorded in the flow will be used, but only if
-    there is no execution time registered in the business process.
+	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução cadastrado no processo de negócio  
 
-	-   Defined in execution: the time registered in the business process will be
-    used.
+	-   Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
 
-##VARIABLES  
+##VARIÁVEIS    
 
-See knowledge Variables.   
+Verificar documentação de Variáveis.    
 
-##STATES  
-Flow states represent the situations in which a flow can found, according to its life cycle.  
+##ESTADOS    
+Os estados do fluxo representam as situações nas quais um fluxo pode se encontrar, de acordo com o seu ciclo de vida.    
 
-1- To add a state to the workflow, select the States tab and click Add,  
-2- The following status register screen will be displayed, as shown in the figure below:  
+1- Para adicionar um estado para o workflow, selecione a aba Estados e clique em Adicionar.   
+2- Será apresentado a seguinte tela de cadastro de estado:    
 
 ![Screenshot](images/Process-fig05.png)   
-Figure 5 - Register/edit workflow, states tab  
+Figura 5 - Tela de cadastro de fluxo de integração de serviços - aba estado   
 
-3- Fill in the fields, informing:  
+3- Preencha os campos, informando:    
 
-- An identifier for the state;  
-- The literal name of the state;  
-- A background color that will be displayed when the flow in this state;  
-- The color of text that is displayed when the flow in this state;  
-- Whether it is the initial state of the flow;  
-- The state of the flow instance, i.e. whether the workflow is open, closed, suspended, or canceled in this state.  
+- Um identificador para o estado;    
+- O nome literal do estado;   
+- Uma cor de fundo que será exibida quando o fluxo estiver nesse estado;  
+- A cor do texto que será exibida quando o fluxo estiver nesse estado;   
+- Se é o estado inicial do fluxo;    
+- A situação da instância do fluxo, ou seja, se nesse estado o workflow estará aberto, encerrado, suspenso ou cancelado.   
 
-4- To edit a state, select the state you want, click Edit, make the necessary changes, and click Update to complete the edit.  
-5- To remove a state, select the desired state, click Remove, and confirm the deletion.  
+4- Para editar um estado, selecione o estado desejado, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.   
+5- Para remover um estado, selecione a estado desejado, clique em Remover e confirme a exclusão.   
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To save your changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
 	
-##ACTIONS  
-Through this menu, it is possible to register the actions that will be executed in the workflow.  
+##AÇÕES  
+Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
 
-1- To include an action, select the Actions tab and click  the Add option,  
-2- The action register screen will be displayed, as shown in the figure below:  
+1- Para incluir uma ação, selecione a aba Ações e clique na opção Adicionar.  
+2- Será apresentado a tela de cadastro de ação, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/Process-fig06.png)  
-Figure 6 - Register/edit workflow, actions tab  
+Figura 6 - Tela de cadastro/edição do workflow, aba de ações   
 
-3- Fill in the fields, informing:  
+3- Preencha os campos, informando:    
 
-An identifier for the action,  
+- Um identificador para a ação;  
+- O nome literal para a mesma;  
+- O estado final que será estabelecido após a execução da ação (previamente cadastrado na aba Estados);   
+- Se a ação exige ou não um motivo.   
 
-- The literal name for the action,  
-- The final state that will be established after executing the action (previously registered in the States tab),  
-- Whether or not the action requires a reason.  
+4- Adicionalmente, poderá ser definido um Script para ser executado quando a ação for acionada.    
+5- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
+6- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
 
-4- In addition, a script can be defined to be executed when the action is triggered.  
-5- To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
-6- To remove an action, select the action, click Remove, and confirm the deletion.  
+!!! Abstract "ATENÇÃO"  
 
-!!! Abstract "ATTENTION"  
-
-    **To save your changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
 	
-##ACTORS  
-Flow actors are the users or groups of users who participate in the task (s) of the workflow designed.  
+##ATORES    
+Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
 
-Example: Suppose you want to order a pizza from your house. In your pizza delivery order flow, you'll probably have actors like the customer, the attendant, the pizzaiolo, and the delivery man. All these roles are considered actors in the flow, as they all participate in the process of delivering pizzas.  
+Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de pedido de delivery de pizza, você provavelmente contará com atores como o cliente, o atendente, o pizzaiolo, e o entregador. Todos esses papéis são considerados atores no fluxo, pois todos eles participam do processo de entrega de pizzas.    
 
-1- To include an actor in the flow, select the Actors tab and click  the Add option.  
-2- The action register screen will be displayed, as shown in the figure below:  
+1- Para incluir uma ação, selecione a aba Atores e clique na opção Adicionar.    
+2- Será apresentado a tela de cadastro de ação, conforme ilustrado na figura abaixo:    
 	
 ![Screenshot](images/Process-fig07.png) 
-Figure 7 - Workflow registration / editing screen, Actors tab  
+Figura 7 - Tela de cadastro/edição do workflow, aba de Atores    
 	
-3- Fill in the fields, informing:  
+3- Preencha os campos, informando:    
 
-- A name for the actor,  
-- The type of actor,  
-- Whether group or user,  
-- The starting value of the actor, if applicable.  
+- Um nome para o ator;   
+- O tipo do ator;    
+- Se é grupo ou usuário;  
+- O valor inicial do ator, caso se aplique.  
 
-4- The initial values ​​of the actors can be of the type:  
+4- Os valores iniciais dos atores podem ser do tipo:  
 
-- Constant;  
+- Constante;  
 - Script;  
-- Flow variable.  
+- Variável do fluxo.  
 
-5- Regardless of the initial value type, the defined value must be a text, where:  
+5- Independente do tipo de valor inicial, todo o valor definido terá de ser um texto, aonde:    
 
-- If the type of actor is "User", the "login" of the user registered in the GRP must be informed.  
-- If the type of actor is "Group", the "acronym" of the group registered in the GRP must be informed.  
+- Caso o tipo de ator seja “Usuário”, deverá ser informado o “login” do usuário cadastrado no GRP.   
+- Caso o tipo de ator seja “Grupo”, deverá ser informado a “sigla” do grupo cadastrado no GRP.    
 
-6- To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
+6- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição. 
 
-!!! Abstract "ATTENTION"  
+!!! Abstract "ATENÇÃO"  
 
-    **To save your changes effectively, click Save on the top bar.**  
+    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
 	
-7- To remove an action, select the action, click Remove, and confirm the deletion.  
+7- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
 	
-##DIAGRAM  
+##DIAGRAMA  
 
-The workflow drawing is done in the Diagram tab. The entire business process can be drawn here by using BPMN notation.  
+O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode ser desenhado por aqui, por meio da utilização da notação BPMN.    
 
-1- The elements that can be added to the workflow are in the palette in the left corner of the screen. These elements are subdivided into:  
+1- Os elementos que podem ser adicionados ao workflow, se encontram na paleta no canto esquerdo da tela. Estes elementos são subdivididos em:   
 
-- Events: "They trigger, interrupt, change or terminate the process. These events are classified as start, intermediate or end events, depending on when they occur in the process. "  
-- Tasks: "It's the smallest part of a process. It is an action, not a function, nor the state of a product or service. It is "what" to do, so it must be written with the verb in the infinitive. "  
-- Gateways: "They direct the process, dividing or converging activities in the flow, usually representing a point of control in the process. "  
+- Eventos: “São ocorrências que disparam, interrompem, mudam ou finalizam o processo. São classificados como eventos de início, intermediários ou de fim, dependendo do momento em que ocorrem no processo”.   
+- Tarefas: “É a menor parte de um processo. Ela é uma ação, não é uma função, nem o estado de um produto ou serviço. É “o que” fazer, por isto deve ser escrita com o verbo no infinitivo”.   
+- Gateways: “Direcionam o processo, dividindo ou convergindo as atividades no fluxo. Normalmente representam um ponto de controle no processo”.  
 
 ![Screenshot](images/Process-fig08.png) 
-Figure 8 - Register/edit workflow, Diagram tab  
+Figura 8 - Tela de cadastro/edição do workflow, aba de Diagrama   
 
-2- To include an element in the flow, select it and drag it to the drawing page. A modal with element properties will be displayed on the screen (according to the chosen element). The information displayed for modal fill depends on the selected element, which can be:  
+2- Para incluir um elemento no fluxo, selecione-o e arraste-o para a página de desenho. Um modal com as propriedades do elemento será exibido na tela (de acordo com o elemento escolhido). As informações exibidas para preenchimento no modal dependem de acordo com o elemento selecionado, que podem ser:    
 
-**- For events:**  
+**- Para eventos:**  
 
-- Name;  
-- Description;  
-- CRON expression (for timer events);  
-- Target (for signal sending events);  
-- Target identifier (for signal sending events).  
+- Nome  
+- Descrição  
+- Expressão CRON (para eventos de temporizador)   
+- Alvo (para eventos de envio de sinal)   
+- Identificador do alvo (para eventos de envio de sinal)  
 
-**- For tasks:**  
+**- Para tarefas:**  
 
-- Identification tab  
-	- Name;  
-	- Description;  
-	- Identification;  
-	- Instance type.  
+- Identificação   
+	- Nome    
+	- Descrição    
+	- Identificação  
+	- Identificação  
 
-3- Variables  
-- In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
+3- Variáveis  
+- Nesta aba deverão ser selecionadas as variáveis cadastradas que fazem parte da execução dessa tarefa. Poderão ser selecionadas várias variáveis, sendo que uma variável poderá ser de entrada e/ou saída. As variáveis que são apresentadas nessa lista são as mesmas que foram cadastradas na aba “Variáveis” do cadastro do workflow.    
 
-4- User Actions  
-- The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action** selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the same ones that were registered in the "Actions" tab of the workflow register.  
+4- Ações do usuário   
+- A aba de ações de usuário representa as ações que o usuário poderá acionar quando estiver executando a tarefa em questão. Dependendo da ação selecionada, o fluxo poderá seguir um fluxo alternativo, ou não. Tudo depende da modelagem. As ações que são apresentadas nessa lista são as mesmas que foram cadastradas na aba “Ações” do cadastro do workflow.    
 
 5- Interface  
-- This tab defines how the graphical user interface will be shown when performing this task, that is, how it will be the screen that the user it will operate. You can choose two ways:  
+- Esta aba define como será mostrada a interface gráfica para o usuário ao executar essa tarefa, ou seja, como será a tela que o mesmo irá operar. Poderão ser escolhidos dois caminhos:    
 
-- Construct the HTML screen inside this tab; or  
-- Search for a pre-registered form in the project repository (**Builder → Application management → Form**).  
+- Construir a tela em HTML dentro desta aba; ou   
+- Buscar um formulário pré-cadastrado no repositório do projeto (Builder → Gerenciamento da aplicação →  Formulário).    
 
-6- To use a form already created in the repository, check the **Repository Form** option as **Yes**, and enter the **Form Name**.  
-7- When choosing to use a repository form, the user will have the option to add HTML with additional information for that particular task, which is very useful for generic form reuse, adding task-specific information.  
+6- Para utilizar um formulário já criado no repositório, marque a opção Formulário do repositório como “Sim”, e informe o Nome do formulário.   
+7- Se optar por utilizar um formulário do repositório, terá a opção de adicionar um HTML com informações adicionais para essa tarefa em específico. É muito útil para reutilização de formulário genéricos, acrescendo informações específicas da tarefa.    
 	
 ![Screenshot](images/Process-fig09.png) 
-Figure 9 - Button to edit a component property  
+Figura 9 - Botão para editar as propriedades de um componente  
 	
 ![Screenshot](images/Process-fig10.png) 
-Figure 10 - Modal with element properties on edition screen  	
+Figura 10 - Modal com as propriedades do elemento será exibido para edição   	
 	
 	
 	

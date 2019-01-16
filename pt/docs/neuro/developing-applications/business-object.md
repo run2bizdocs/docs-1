@@ -1,57 +1,59 @@
-title: Business object  
+title: Objeto de negócio  
 
-Description: Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms
+Description: Através dessa tela, é possível manter os objetos de negócio das aplicações. Objetos de negócio são os objetos armazenados no banco de dados da aplicação. Representam o modelo de dados e podem dar origem a um ou mais formulários.  
 
-#Business object  
+#Objeto de negócio   
 
-Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.  
-Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.  
-Each business object created represents a table in the database.
+Através dessa tela, é possível manter os objetos de negócio das aplicações. Objetos de negócio são os objetos armazenados no banco de dados da aplicação. Representam o modelo de dados e podem dar origem a um ou mais formulários.  
 
-##HOW TO ACCESS
-1.	Access the functionality through navigation in the main menu Neuro → Management → Business Object.  
+Todo objeto de negócio precisa possuir uma chave primária, no entanto, nem sempre a chave primária será criada no banco de dados. Os objetos de negócio são criados em nível de aplicação.  
 
-##PRECONDITIONS
-1.	No applicable.  
+Cada objeto de negócio criado representa uma tabela do banco de dados.  
 
-##FILTERS
-1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
-•	Keyword or enter.  
+##COMO ACESSAR  
+1.	Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Objeto de Negócio.  
+
+##PRÉ-CONDIÇÕES  
+1.	Não se aplica.  
+
+##FILTROS
+1.	O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+•	Palavra chave ou enter.    
 
 ![Screenshot](images/business-object-filter.png)  
-Figure 1 - Search screen of registered business objects
+Figura 1 - Tela de pesquisa de objetos de negócio cadastrados  
 
-##ITEMS LIST
-1.	The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Application, Name, Description, Database connection and Version.  
+##LISTAGEM DE ITENS  
+1.	Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome, Descrição, Conexão de Banco e Versão.    
 
 ![Screenshot](images/business-object-listing.png)  
-Figure 2 - Listing screen of registered business objects
+Figura 2 - Tela de listagem de objetos de negócio cadastrados  
 
-##FILLING IN THE REGISTRATION FIELDS
-1.	To change a business object, click Edit;  
-2.	To create a new business object, click New.  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+1.	Para alterar um objeto de negócio, clique em Editar;    
+2.	Para criar um novo objeto de negócio, clique em Cadastrar.    
 
-##IDENTIFICATION
-This tab should be fed as a way of identifying the business object created.  
-1.	Enter the Application for which the business object is created (registered in menu Neuro →  Management →  Application);  
-2.	 The business object identification name, description, purpose must be inform and mark whether the system should generate the form upon saving.  
-3.	As you click Generate Form when saving, Neuro will generate a form based on the information entered in the database tab. This form can be edited later through menu Neuro → Management → Form.  
+##IDENTIFICAÇÃO  
+Esta aba deve ser alimentada como forma de identificação do objeto de negócio criado.    
+1.	Informe a Aplicação para a qual está sendo criado o objeto de negócio (cadastrada no menu Neuro → Gerenciamento → Aplicação.    
+2.	Informe o nome de identificação do objeto de negócio, a descrição, o propósito e marque se o sistema deverá gerar o formulário ao salvar;    
+3.	Ao clicar em Gerar formulário ao salvar, o Neuro se encarregará de gerar um formulário baseando-se nas informações inseridas na aba banco de dados. Este formulário poderá ser editado posteriormente através do menu Neuro → Gerenciamento → Formulário.    
 
 ![Screenshot](images/business-object-identification.png)  
-Figure 3 - Register/edit business object screen
+Figura 3 - Tela de cadastro/edição de objetos de negócio  
 
-##DATABASE
-1.	This tab refers to the database structure of the application. Since each business object represents a database table, this tab defines the database columns as well as their relationships, business rules, and SQL commands (if necessary).  
-2.	First, enter the database connection created, the database schema name, type, whether view or table, and the name of the business object in the database.  
+##BANCO DE DADOS
+1.	Esta aba se refere a estrutura do banco de dados da aplicação. Como cada objeto de negócio representa uma tabela do banco de dados, nesta aba são definidas as colunas do banco de dados, assim como seus relacionamentos, regras de negócio e comandos SQL (caso necessário).    
+2.	Primeiramente, informe a conexão de banco de dados criada, o nome do esquema do banco, o tipo, se view ou tabela, e o nome do objeto de negócio no banco de dados.    
 
 ![Screenshot](images/business-object-database.png)  
-Figure 4 - Register/edit business object, database tab
+Figura 4 - Tela de criação/edição de objeto de negócio - Aba de "Banco de dados"  
 
-##FORM
-1.	You can change the attribute labels through the Labels tab, and you can edit the grid fields using the Grid tab.  
-2.	Clicking the Edit Form button in the screen header will generate a form for this business object. If there is no form for this business object, the Fields sidebar will be displayed. If there is already a previously registered form linked to this form, the Screen Drawing tab for this form will be opened.  
-3.	Further information regarding Neuro's form creation can be found in the technical documentation.  
+##FORMULÁRIO
+1.	Pode se alterar as labels dos atributos através da aba Labels, e poderá editar os campos da grid, através da aba de Grid.    
+2.	Ao clicar no botão Editar formulário presente no cabeçalho da tela, será gerado um formulário para este objeto de negócio. Se não houver nenhum formulário para este objeto de negócio, será apresentado a aba lateral Campos. Se já existir um formulário previamente cadastrado vinculado a este formulário, será aberta a aba de Desenho da tela para este formulário.    
+3.	Mais informações a respeito da criação de formulário pelo Neuro podem ser encontradas na documentação técnica.     
 
 ![Screenshot](images/business-object-form.png)  
-Figure 5 - Register/edit business object, form tab
+Figura 5 - Tela de criação/edição de objeto de negócio - Aba de "Formulários"  
 

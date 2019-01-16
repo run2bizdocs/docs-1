@@ -1,59 +1,57 @@
-title: Analyze service request trends
+title: Analisar tendências de solicitações de serviço
+Description: Esta funcionalidade tem por objetivo realizar uma análise das solicitações.
+#Analisar tendências de solicitações de serviço
+Esta funcionalidade tem por objetivo realizar uma análise das solicitações, baseada na quantidade crítica, para identificar quais itens vão influenciar em um lançamento de uma nova solicitação.
 
-Description: Aims to make an analysis of the requests, based on the critical amount, to identify which items will influence on the launch of a new request.  
+Antes de começar
+----------------
 
-#Analyze service request trends  
-This functionality aims to make an analysis of the requests, based on the critical amount, to identify which items will influence on the launch of a new request.  
+Para realizar a análise de tendências é necessário registrar anteriormente uma
+solicitação de serviço (ticket) e esta estar vinculada ao contrato, além de um
+contrato e o mesmo estar ativo.
 
-Before getting started
---------------------------
+Procedimento
+------------
 
-To make the trend analysis, it's necessary to previously register a service
-request (ticket) linked to a contract, in addition to an active contract.
+1.  Acessar o menu principal Processos \> Gerência de Requisição e Incidente \>
+    Análise de Tendências, aba **Solicitações de Serviço**;
 
-Procedure
--------------
+2.  Preencher os campos disponibilizados;
 
-1.  Access the main menu Processes \> Request and Incident Management \> Trend
-    Analysis, the tab Service Requests;
+3.  Clicar em "Pesquisar";
 
-2.  Complete all mandatory fields;
+4.  Em cada guia serão apresentados os resultados referentes a cada tipo
+    (Serviço, Causa e Item de Configuração) e em cada item serão exibidos dois
+    botões, um para **Gerar Gráfico** de Análise de Tendências (conforme
+    ilustrado na figura anterior) o qual apresenta as datas que compreendem o
+    período informado e o número de ocorrências naquela data, e outro para
+    **Criar Problema**, onde será exibida a tela de cadastro de problema para
+    registro das informações necessárias do problema:
 
-3.  Click on "Search";
+-   Ao optar por registrar um problema a partir do **Serviço**, será exibida a
+    tela de cadastro de problema com o campo "Descrição" alimentado com o nome
+    do serviço correspondente;
 
-4.  Each tab will display the results for each type (Service, Cause and
-    Configuration Item) and in each item two buttons will be displayed; one
-    to Create Chart of Trend Analysis, which shows the dates that comprise
-    the reported period and the number of occurrences on that date; and another
-    for Create Problem, where the problem registration screen will be
-    displayed to save the necessary information of the problem:
+-   Ao optar por registrar um problema a partir da **Causa**, será exibida a
+    tela de cadastro de problema com os campos "Descrição" e "Causa" alimentados
+    com a descrição da causa correspondente;
 
--   When you choose to register a problem from the **Service**, the problem
-    registration screen will be displayed with the "Description" field completed
-    with the name of the corresponding service;
+-   Ao optar por registrar um problema a partir do **Item de Configuração**,
+    será exibida a tela de cadastro de problema com o campo "Descrição"
+    alimentado com informação do item de configuração correspondente.
 
--   When you choose to register a problem from the **Cause**, the problem
-    registration screen will be displayed with the fields "Description" and
-    "Cause" completed with the description of the corresponding cause;
-
--   When you choose to register a problem from the **Configuration Item**, the
-    problem registration screen will be displayed with the "Description" field
-    completed with information from the corresponding configuration item.
-
- 
-Related
+Relacionado
 -----------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Criar um ticket
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Cadastrar um contrato
 
-Register problem
+Cadastrar um problema
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/02/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

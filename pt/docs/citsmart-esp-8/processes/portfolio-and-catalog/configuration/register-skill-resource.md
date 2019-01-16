@@ -1,37 +1,40 @@
-title: Register skill/resource
-Description: 
-#Register skill/resource
-This feature provides a variety of actions, such as including, changing, and deleting the capabilities of employees.
+title: Cadastrar habilidade/recurso
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as habilidades dos colaboradores.
+#Cadastrar habilidade/recurso
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as habilidades dos colaboradores.
 
-1.  Access the functionality Resources/Capabilities through the main menu
-    Processes \> Portfolio and Catalog Management \> Resources/Capabilities;
+Procedimento
+----------------
 
-2.  Choose the portfolio, click "Advance";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Recursos/Habilidades;
 
-3.  Choose the service, click "Advance";
+2.  Escolher o portfólio, clicar em "Avançar";
 
-4.  Click the **Skill/Resource** tab;
+3.  Escolher o serviço, clicar em "Avançar";
 
-5.  Click the "New Capability";
+4.  Clicar na guia **Habilidade/Recurso**;
 
-6.  Complete all mandatory fields;
+5.  Clicar em "Nova habilidade";
 
-7.  Link Contributors;
+6.  Preencher os campos disponibilizados;
 
-8.  Click on "Save";
+7.  Vincular colaborador;
 
-9.  Click on "Link Capability", select the registered skill;
+8.  Clicar em 'Gravar";
 
-10. Click “Submit”.
+9.  Clicar em "Vincular Habilidade", selecionar a habilidade cadastrada;
+
+10. Clicar em Enviar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
 

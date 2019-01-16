@@ -1,68 +1,66 @@
-title: Register service continuity
-Description: Allows to register the continuity of a certain service.
+title: Cadastrar a continuidade de serviço
+Description: Esta funcionalidade permite registrar a continuidade de determinado serviço.
+#Cadastrar a continuidade de serviço
+O Gerenciamento de Continuidade foca em recuperar os serviços de TI e seus componentes diante de um evento de desastre.
+Esta funcionalidade permite registrar a continuidade de determinado serviço.
 
-#Register service continuity
-The Continuity Management focuses on the recovery of IT services and its components in face of an event of disaster.
-This functionality allows to register the continuity of a certain service.
+Antes de começar
+--------------------
 
-Before getting started
---------------------------
+Pressupõe a existência de um serviço definido num processo de Gerenciamento de
+Portfólio e Catálogo.
 
-Assumes the existence of a defined service in a Portfolio and Catalog Management
-process.
+É necessário o cadastro prévio da ameaça e da categoria e vincular a categoria
+de ameaça a ameaça cadastrada. Também é essencial cadastrar, anteriormente, o
+risco e a categoria de risco.
 
-It's necessary to previously register the threat and threat category, both
-linked to each other, in addition to previously register the risk and risk
-category.
+Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
+procedimentos referente ao Gerenciamento de Eventos.
 
-It's equally necessary to have registered the automatic actions of Incident,
-Request and Procedures about the Event Management.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Continuidade \> Continuidade;
 
-1.  Access the functionality through the main menu Processes \> Continuity
-    Management \> Continuity;
+2.  Clicar no botão "Registro de Continuidade";
 
-2.  Click on "Continuity Registration";
+3.  Preencher os campos necessários (nome e selecionar o cliente para
+    vincula-lo);
 
-3.  Complete the field necessary (name and select the client to link);
+4.  Clicar em "Gravar" para efetuar a operação
 
-4.  Click on "Save".
+O que fazer a seguir
+------------------------
 
-What to do next
--------------------
+Após o registro da continuidade é necessário executar as seguintes ações:
+definir a política de continuidade, cadastrar o escopo da continuidade e definir
+o projeto da continuidade, sendo estas ações parte da fase de Iniciação do
+registro completo da continuidade.
 
-After register the continuity, it's necessary to execute the following actions:
-set the continuity policy, register the continuity scope and define the
-continuity project, being those actions part of the Initiation phase of the
-complete registration of continuity
+Relacionados
+----------------
 
-Related
------------
+Cadastrar ameaça
 
-[Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+Cadastrar categoria de ameaça
 
-[Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+Cadastrar categoria de risco
 
-[Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+Cadastrar o risco de continuidade
 
-[Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+Definir a política de continuidade do serviço
 
-[Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+Cadastrar o escopo da continuidade do serviço
 
-[Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+Definir o projeto da continuidade do serviço
 
-[Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/15/2019 – Larissa Lourenço
 

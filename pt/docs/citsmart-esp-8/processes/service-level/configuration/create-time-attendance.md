@@ -1,70 +1,74 @@
-title: Create time of attendance
-Description: Provides a variety of actions, such as including, changing, and deleting the time of attendance 
-#Create time of attendance
-This feature provides a variety of actions, such as including, changing, and deleting the time of attendance of type Global (applicable to all services), Client (applicable to the contract services) and Incident/Request/Procedure (applicable to a specific service).
+title: Criar tempo de atendimento
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o tempo de atendimento do tipo Global (aplica-se a todos os serviços), Cliente (aplica-se aos serviços de um contrato) e Incidente/Requisição/Procedimento (aplica-se a um serviço específico).
+#Criar tempo de atendimento
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir o tempo de atendimento do tipo *Global* (aplica-se a todos os serviços),
+*Cliente* (aplica-se aos serviços de um contrato)
+e *Incidente/Requisição/Procedimento* (aplica-se a um serviço específico).
 
-To register a time of attendance, it's necessary to previously register the
-service portfolio.
+**Antes de começar**
+--------------------
 
-Procedure
--------------
+Para cadastrar o tempo de atendimento é necessário registrar previamente o
+portfólio de serviços.
 
-1.  Access the functionality Time of Attendance through the main menu Processes
-    \> Service Level Management \> Attendance Time;
+Procedimento
+----------------
 
-2.  Set the type of attendance time and click on the corresponding tab:
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Nível de Serviço \> Tempo de Atendimento;
 
-3.  Complete all mandatory field in **Basic Data**;
+2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente:
 
-4.  In **Time of Attendance per Priority**, set the service time of attendance,
-    taking into consideration the priority. The priority is used to identify the
-    time required to an action to be taken. The priority goes from 1 to 5, being
-    1 the highest priority and 5 the lowest. Select the priority to define the
-    time:
+3.  Preencher os campos disponibilizados no quadro **Dados Básicos**;
 
-    -Capture: set the time of capture of the service request, according to
-    the priority selected;
+4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
+    atendimento dos serviços, levando em consideração a prioridade. A prioridade
+    é usada para identificar os tempos requeridos para que ações adequadas sejam
+    tomadas. A prioridade vai de 1 a 5, sendo que o 1 é a prioridade mais alta e
+    5 é a mais baixa. Selecione a prioridade para definição do tempo:
 
-    -Resolution: set the time of service resolution according to the priority
-    selected.
+    -   **Captura**: defina o tempo de captura da solicitação do serviço, conforme a
+        prioridade selecionada;
 
-1.  Before complete the fields in **Automation**, it should be properly
-    parametrized, it must be properly parameterized, so it is necessary to
-    execute the steps in the knowledge Creation escalation rule, except for
-    parameter 190 that must be equal to 'N' in this context;
+    -   **Resolução**: defina o tempo de resolução do serviço, conforme a prioridade
+        selecionada.
 
-2.  Before the N minutes (informed in the time of action) and in case it doesn't
-    have performed any action in the service request linked to this time of
-    attendance, the system will attribute the priority and will escalate the
-    execution group to the service request;
+1.  Antes de preencher os campos do quadro **Automação** ela deve estar
+    adequadamente parametrizada, para isso se faz necessário executar os passos
+    contidos no conhecimento Criar Regra de Escalonamento, com exceção do
+    parâmetro 190 que deverá estar igual a ‘N’ neste contexto;
 
-3.  In the fields of **Incident/Request/Procedure**, it will be selected the
-    services to apply the configurations, taking into consideration the type of
-    attendance time selected;
+2.  Após os N minutos (informado no tempo de ação) e caso não tenha realizado
+    nenhuma ação na solicitação do serviço vinculado a este tempo de
+    atendimento, o sistema atribuirá a prioridade e escalará o grupo para
+    execução da solicitação do serviço;
 
-4.  Click on "Save".
+3.  No quadro de **Incidente/Requisição/Procedimento**, selecione os serviços
+    para aplicar as configurações, levando em consideração o tipo de tempo de
+    atendimento selecionado;
+
+4.  Clicar em "Gravar".
 
 
-Related
+Relacionado
 -------
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar um serviço
 
-[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+Configurar atributos de serviço
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Criar portfólio
 
-[Configure parametrization – ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Configurar parametrização - ticket
 
-[Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
+Criar regra de escalonamento
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMDKjZH8augISpB17EQqrrc)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

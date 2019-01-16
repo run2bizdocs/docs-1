@@ -1,51 +1,48 @@
-title: Service level agreement
-Description: Allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources
-#Service level agreement
-This functionality allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources.
-After N minutes (informing the time of action) and in case there is no action performed in the linked service request to this SLA, the system will attribute the priority and will escalate the group to execute the service request.
-This feature provides a variety of actions, such as including, changing, and deleting a service level agreement.
+title:  Acordo de Nível de Serviço 
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
+#Acordo de Nível de Serviço
+Essa funcionalidade permite registrar o acordo de nível de serviço do tipo disponibilidade, tempo (por fases) e informações diversas capturadas de outras fontes.
+Após os N minutos (informado no tempo de ação) e caso não tenha realizado nenhuma ação na solicitação do serviço vinculado a este SLA, o sistema atribuirá a prioridade e escalará o grupo para execução da solicitação do serviço.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-The functionality registration need a previously registration of priority,
-group, unit, user, in addition to have defined e-mail templates and service
-level requirements.
+O cadastro da funcionalidade requer a definição prévia da prioridade, do grupo,
+da unidade, do usuário, além de ter definido os modelos de e-mail e requisitos
+de acordo de nível de serviço.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality Service Level Management through the main menu
-    Processes \> Service Level Management \> Service Level Agreement;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos
+    \> Gerência de Nível de Serviço \> Acordo de Nível de Serviço;
 
-2.  Complete all mandatory field;
+2.  Preencher os campos disponibilizados;
 
-3.  If the type of agreement entered is Time (by phases), set the SLA deadlines
-    (service level agreement), takin into consideration the priority. The
-    priority goes from 1 to 5, being 1 the highest level and 5 the lowest.
+3.  Se o tipo de acordo informado for Tempo (por fase), defina os prazos de SLA
+    (acordo de nível de serviço), levando em consideração a prioridade. A
+    prioridade vai de 1 a 5, sendo que o 1 é a prioridade mais alta e 5 é a mais
+    baixa;
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
-Related
+Relacionado
 -----------
 
-[Register priority](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+Requisito de nível de serviço
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
+Cadastrar uma unidade
 
-[Service level requirement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
+Cadastrar usuário
 
-[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+Cadastrar prioridade
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

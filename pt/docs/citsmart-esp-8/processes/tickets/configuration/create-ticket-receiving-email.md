@@ -1,63 +1,66 @@
-title: Automatically create a ticket from the receiving of an email
-Description: Allows to automatic create ticket when an email message is sent to a a certain address.
-#Automatically create a ticket from the receiving of an email
+title: Criar um ticket automaticamente a partir do recebimento de um e-mail
+Description: Permite a criação automática de um ticket quando uma mensagem de e-mail é enviada para um determinado endereço.
+#Criar um ticket automaticamente a partir do recebimento de um e-mail
 
-This functionality allows to automatic create ticket when an email message is
-sent to a a certain address. In this context, the solution constantly monitors
-the presence of messages in the mailbox, and if some message has the status of
-not read, this will be used to register a new ticket.
+Esta funcionalidade permite a criação automática de um ticket quando uma
+mensagem de e-mail é enviada para um determinado endereço. Neste contexto, a
+solução monitora constantemente a presença de mensagens na caixa de e-mail, e
+caso alguma mensagem tenha o status não lida, esta será utilizada para registro
+de um novo ticket.
 
-For example, an user should request a service by sending a message to
-service\@company.com, after receiving the email, the functionality, after check
-the existence of a message, automatically registers the ticket. It's important
-to highlight that after the ticket registration, the email is marked as read.
+Por exemplo, um usuário poderia solicitar determinado serviço enviando uma
+mensagem para servico\@empresa.com, após o recebimento do e-mail, a
+funcionalidade, após checar que existe uma mensagem, registra um ticket
+automaticamente. É importante destacar que após o registro do ticket, o e-mail é
+marcado como lido.
 
-Before getting started
---------------------------
+O que fazer antes
+---------
 
-To create a ticket through email receiving, it's necessary to configure an email
-account to allow the access through IMAP.
+Para criar um ticket através de um recebimento de e-mail é necessário configurar
+uma conta de e-mail para permitir o acesso via IMAP previamente.
 
-Procedure
--------------
+Procedimento
+----------
 
-*Step 1*
+*Passo 1*
 
-1.  Access the functionality through the main menu System \> Automatic actions
-    \> Incident/Request/Procedure Actions (see knowledge Register automatic
-    actions of incident/request/procedure).
+1.  Acessar a funcionalidade através da navegação do menu principal Sistema \>
+    Ações automáticas \> Ações Incidentes/Requisições (ver conhecimento
+    Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
-*Step 2*
+*Passo 2*
 
-1.  Create the email automatic action by accessing the main menu System \>
-    Settings \> Automatic Action Setting Via Email (see knowledge Create
-    automatic action via email).
+1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
+    Configurações \> Configuração de Ação automática via e-mail (ver
+    conhecimento Criar ação automática de e-mail).
 
-*Step 3*
+*Passo 3*
 
-1.  Create batch routine, by accessing the main menu System \> Batch Processing
-    (see knowledge Batch Processing):
+1.  Criar Rotina batch, acessando o menu principal Sistema \> Processamento
+    Batch (ver conhecimento Processamento Batch):
 
-    -   Download script attached.
+    -   Baixar script em anexo.
 
-Related
+
+Relacionado
 -------
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+Cdastrar ação automática de incidentes/requisições/procedimentos
 
-[Create automatic action via email](/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
+Criar ação automática via email
 
-[Batch Processing](/en-us/site/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
+Processamento Batch
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
-Attachment
+Anexo
 ------------
 
-[Download](images/verify-email.txt)
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/16/2019 – Anna Martins

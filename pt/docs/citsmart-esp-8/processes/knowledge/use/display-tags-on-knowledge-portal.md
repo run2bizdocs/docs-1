@@ -1,52 +1,48 @@
-title: Display and search for the tags in the knowledge portal
+title: Exibir e pesquisar pelas tags no Portal do Conhecimento
+Description: Este documento tem por objetivo informar como criar e pesquisar conhecimentos pelo o uso de tags.
+#Exibir e pesquisar pelas tags no Portal do Conhecimento
+Tags são palavras-chave (relevantes) ou termos associados a uma informação, tópico ou discussão que se deseja indexar de forma explícita no sistema afim de facilitar a pesquisa de conteúdo desejados.
+Este documento tem por objetivo informar como criar e pesquisar conhecimentos pelo o uso de tags.
 
-Description: This document is intended to inform how to create and search knowledge with tags.
+Antes de Começar
+--------------------
 
-#Display and search for the tags in the knowledge portal
-Tags are keywords (relevant) or terms associated to an information, topic or discussion that you want to index explicitly in the system in order to facilitate the search of the content you want.
-This document is intended to inform how to create and search knowledge with tags.
+É necessário observar se o SOLR está configurado corretamente.
 
-Before getting started
---------------------------
+Procedimento
+----------------
 
-It's necessary to observe if the SOLR is correctly configured.
+1-  Acessar a funcionalidade através do menu Sistema \> Configurações \> Portal
+    do Conhecimento \> Configurações de Filtro do Portal do Conhecimento;
 
-Procedure
--------------
+2-  É necessário disponibilizar que o filtro do Portal do conhecimento seja
+    realizado por tags, podendo também ordenar em que posição de importância a
+    tag terá no fornecimento dos resultados da pesquisa;
 
-1-  Access the functionality through the main menu System \> Settings \>
-    Knowledge Portal \> Configuration of Knowledge Portal Filters;
+3-  Para criar um tag e vinculá-la a um conhecimento, é necessário acessar a
+    funcionalidade através do menu Processos \> Gerência de Conhecimento \>
+    Gerenciamento de Conhecimento e em seguida, ao cadastrar o conhecimento,
+    definir e registrar as tags no campo "Tags" para auxiliar no sucesso da
+    busca deste artigo;
 
-2-  It's necessary to make available the filter of knowledge Portal, to be made
-    through tags, being able to order in which critical position the tag will
-    have in the providing of search results;
+!!! Abstract "ATENÇÃO"  
 
-3-  To create a tag and link it to a knowledge, it's necessary to access the
-    functionality through the main menu Processes \> Knowledge Management \>
-    Knowledge Management, and then, when registering the knowledge, define and
-    register the tags in the field "Tags" to help in the search success of this
-    article;
+    Todos os conhecimentos cadastrados que possuem as mesmas tags serão
+    expostos na mesma pesquisa.
 
-!!! Abstract "NOTE"  
+4-  Para pesquisar conhecimentos por suas tags, basta acessar o Portal de
+    Conhecimento ou Guia do Usuário e pesquisar o artigo pela palavra chave que
+    expresse o conceito daquilo que pretende encontrar. O sistema informá os
+    documentos que tenham registrados a tag procurada.
 
-    All knowledge registered that has the same tag will be displayed in the
-    same search.
+Relacionado
+---------------
 
+Criar conhecimento
 
-4-  To search knowledge through its tags, just access the Knowledge Portal or
-    User Guide and search for the article by the keyword that express the
-    concept of what is intended to find. The system informs the documents that
-    have registered the tag searched.
-
-Related
------------
-
-[Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

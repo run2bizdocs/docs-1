@@ -1,34 +1,48 @@
-title: How to relate unit to the contract
+title: Como relacionar unidade ao contrato?
+Description: Permite relacionar uma unidade ao contrato.
+#Como relacionar unidade ao contrato?
 
-Description: Relate unit to the contract
+Para relacionar unidade ao contrato, proceder conforme as orientações abaixo:
 
-#How to relate unit to the contract
+1.  Acessar a funcionalidade de Parâmetros do CITSmart através da navegação
+    no menu principal Parametrização \> Parâmetros CITSmart. Após isso, será
+    apresentada a tela de Parâmetros do CITSmart, clicar na aba **Pesquisa
+    de Parâmetros do CITSmart**;
 
-1.  Access the functionality CITSmart Parameters through the main menu. Place the mouse in the option **Parametrization** and click on CITSmart Parameters. Next, it'll be presented the screen of CITSmart Parameters, click on the tab Search CITSmart Parameters;
+2.  Pesquisar parâmetro "61 - Vincula contratos a unidade" e selecionar
+    o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o
+    conteúdo referente ao registro selecionado;
 
-2.  Search for the parameter "61 - Link contract to unit"and select it. It'll be presented the screen to register the parameter with contend about the register selected;
+3.  No campo **valor**, informar o valor "S" para que seja exibido os contratos
+    na tela de cadastro de unidade. Feito isso, clicar no botão "Gravar" para
+    efetuar a operação;
 
-3.  In the field **value**, enter the value "Y" to presente the contracts in the unit registration screen. Then, click on "Save";
+4.  Após configurar o parâmetro, acessar a funcionalidade de Cadastro de
+    Unidade através da navegação no menu principal Cadastros
+    Gerais \>Gerência de Pessoal \> Unidade. Será apresentada a tela
+    de cadastro de unidade, exibindo os contratos;
 
-4.  After configure the parameter, access the functionality Unit Registration through the main menu General Registration \> Personnel Management \> Unit. It'll be presented the unit registration screen, presenting the contracts;
+5.  Caso a unidade que deseja vincular ao contrato já esteja registrada no
+    sistema, realizar a pesquisa da unidade e selecionar a mesma. Feito isso,
+    será exibida a tela de registro da determinada unidade;
 
-5.  If the unit you want to link to the contract is already registered in the system, search for the unit and select it. Then, it'll be presented the screen of unit registration;
+6.  Selecionar os contratos, os quais a unidade será vinculada.
 
-6.  Select the contract, which will be linked;
+7.  Clicar no botão "Gravar" para efetuar a operação, neste caso a data, hora e
+    usuário serão armazenados automaticamente para uma futura auditoria.
 
-7.  Click on "Save".
 
-Related
+Relacionado
 -------
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Cadastrar uma unidade
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Coonfigurar parametrização - ticket
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

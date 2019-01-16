@@ -1,37 +1,38 @@
-title: Cancel release registration
-Description: Allows to register the release request.
-#Cancel release registration
-This functionality allows to register the release request.
+title: Cancelar o registro de liberação
+Description: Permite cadastrar a requisição de liberação. 
+#Cancelar o registro de liberação
+Esta funcionalidade permite cadastrar a requisição de liberação.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-It's necessary the previously registration of the release request and the
-permission to cancel it.
+É necessário o cadastro prévio da requisição de liberação e a permissão para o
+cancelamento da mesma.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Liberação;
 
-2.  Find the release request you want to cancel, click on the button “Open”;
+2.  Localizar a requisição de liberação que deseja cancelar, clicar no
+    botão “Abrir”;
 
-3.  In the **Closure** area, change the status of the release request to
-    "**Canceled**";
+3.  Na área de **Fechamento**, alterar a situação da requisição de liberação
+    para "**Cancelada**";
 
-4.  Click on the icon “Operations” and then on "Save and advance flow" or "Save
-    and keep current task".
+4.  Apertar o ícone “Opções” e em seguida, clicar no botão "Gravar e avançar o
+    fluxo" ou "Gravar e manter a tarefa atual" para efetuar a operação.
 
-Related
------------
+Relacionado
+---------------
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+Cadastrar uma requisição de liberação
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

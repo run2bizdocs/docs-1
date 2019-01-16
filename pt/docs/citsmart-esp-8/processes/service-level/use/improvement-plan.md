@@ -1,44 +1,42 @@
-title: Improvement Plan
+title: Plano de melhoria
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um plano de melhoria. 
+#Plano de melhoria
+Segundo o ITIL, um Plano de Melhoria de Serviço (PMS) ou, em inglês, Service Improvement Plan (SIP), é um plano formal para implementar melhorias a um processo ou serviço de TI, cadastrando a necessidade ou oportunidade identificada.
+Nesta funcionalidade é possível cadastrar todos os benefícios esperados com a melhoria e gerar relatórios também, possibilitando sua impressão.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um plano de melhoria.
 
-Description: It's possible to register all expected benefits with the improvement and also create reports, allowing its print.
-#Improvement Plan
-According to ITIL, a Service Improvement Plan (SIP), it's a formal plan to implement improvements in a process or IT service, registering the needs or opportunities identified.
-In this functionality, it's possible to register all expected benefits with the improvement and also create reports, allowing its print.
-This feature provides a variety of actions, such as including, changing, and deleting an improvement plan.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Para definir um plano de melhoria é necessário ter cadastrado previamente o
+fornecedor e o contrato.
 
-To set an improvement plan, it's necessary to previously register the provider
-and contract.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Nível de Serviço \> Plano Melhoria;
 
-1.  Access the functionality Improvement Plan through the main menu Processes \>
-    Service Level Management \> Improvement Plan;
+2.  Preencher os campos disponibilizados e escolher o fornecedor e contrato;
 
-2.  Complete all mandatory field and choose the provider of the contract;
+3.  Clicar em "Gravar".
 
-3.  Click on "Save";
+4.  Após o cadastro da melhoria, clicar em "Cadastrar Objetivo";
 
-4.  After register the improvement, click on "Objective Registration"
+5.  Preencher os campos disponibilizados e os demais caso necessários;
 
-5.  Complete all mandatory field and the others if necessary;
+6.  Clicar em "Gravar".
 
-6.  Click on "Save".
-
-Related
+Relacionado
 -----------
 
-[Register provider](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
+Cadastrar um contrato
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar fornecedor
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço

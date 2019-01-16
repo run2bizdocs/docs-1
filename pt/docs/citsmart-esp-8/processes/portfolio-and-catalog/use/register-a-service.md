@@ -1,61 +1,59 @@
-title:  Register a service
- 
-Description: This feature provides a variety of actions, such as including, changing, and deleting a service.
- 
-#Register a service
-The service registration is divided in two types:
-•	Business: provides business / IT services;
-•	Technical: provides the support/technical services.
-The choice of Business/Technical type should be in line with the type of contract that pretends to be linked to the Portfolio. Only contracts of the type "Contract" are linked to the type "Business" and only contracts of the type "Underpinning Contract" and "Operational Level Agreement" are linked to the type "Technical".
-This feature provides a variety of actions, such as including, changing, and deleting a service.
+title: Cadastrar um serviço
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
+#Cadastrar um serviço
+O cadastro de serviços é dividido em dois tipos:
+•	Negócio: provê os serviços de negócios/TI;
+•	Apoio: provê os serviços de apoio/técnico.
+A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato” são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-The service registration must be preceded by the registration of a service
-portfolio, the service category, a group, and permission to access the Portfolio
-Management functionality.
+O cadastro do serviço deverá ser precedido do cadastro de um portfólio de
+serviços, da categoria de serviço, de um grupo e ter a permissão de acesso às
+funcionalidades do Gerenciamento de Portfólio.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Portfólio;
 
-2.  Choose the type of portfolio (Business or Technical);
+2.  Escolher o tipo de portfólio (Negócio ou Apoio);
 
-3.  Select a portfolio and click on "Advance";
+3.  Selecionar um portfólio e clicar em "Avançar";
 
-4.  Click on "New Service";
+4.  Clicar em "Novo Serviço";
 
-5.  It will be presented tabs to set the service to be registered;
+5.  Serão apresentadas guias para a configuração do serviço a ser cadastrado;
 
-6.  Complete all mandatory fields that each tab will present;
+6.  Preencher os campos disponibilizados que cada guia apresentar;
 
-7.  Complete the other fields if necessary;
+7.  Preencher os demais campos conforme a necessidade;
 
-8.  Click on "Save".
+8.  Clicar em "Gravar".
 
-What to do next
--------------------
+O que fazer a seguir
+------------------------
 
-Access the Smart Portal and verify the information of the service registered in
-the portfolio.
+Acessar o Smart Portal e verificar as informações do serviço cadastrado no
+portfólio escolhido.
 
-Related
------------
+Relacionado
+---------------
 
-[Create service category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+Criar portfólio
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Cadastrar um grupo
 
-[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Criar categoria de serviço
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço

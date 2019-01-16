@@ -1,43 +1,44 @@
-Title: Parameters  
-Description: In this screen the parameters to be used in applications created through Neuro are configured.  
+Title: Parâmetros   
+Description: Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.    
 
-#Parameters  
+#Parâmetros  
 
-In this screen the parameters to be used in applications created through Neuro are configured. 
+Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.   
 
-##HOW TO ACCESS  
-1- Access the functionality by navigating the menu **Neuro → Configuration → Parameters.**  
+##COMO ACESSAR   
+1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Parâmetros.   
 
-##PRECONDITIONS  
-1- Not applicable  
+##PRÉ-CONDIÇÕES    
+1- Não se aplica.    
 
-##FILTERS  
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
- - Keyword  
+##FILTROS    
+1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+ - Palavra chave    
 
 ![Screenshot](images/Parameters-search.png)    
-Figure 1 - Parameter search screen  
+Figura 1 - Tela de pesquisa de parâmetros    
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Name, Type and Description.  
+##LISTAGEM DE ITENS    
+1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Tipo e Descrição.    
 
 ![Screenshot](images/Parameters-Listing.png)   
-Figure 2 - Parameter listing screen  
+Figura 2 - Tela de listagem de parâmetros    
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To register a new parameter, click New, as shown in the figure bellow:  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+1- Para cadastrar um novo parâmetro, clique em Cadastrar, conforme ilustrado na figura abaixo:  
 
 ![Screenshot](images/Parameters-home.png)  
-Figure 3 - Parameter home screen  
+Figura 3 - Tela inicial de parâmetros  
 
-2- On this screen the user is also allowed other actions. They are:  
-- Edit: Changes an existing parameter. To edit, select an item in the table and click Edit.  
-- View: Displays a registered parameter. No editing allowed. To view, select an item in the table and click View.  
-3- When you click Next, the following screen will appear:  
+2- Nesta tela também é permitido ao usuário outras ações. São elas:    
+- Editar: muda um parâmetro existente. Para editar, selecione um item na tabela e clique em Editar.   
+- Visualização: exibe um parâmetro registrado. Não permite edição. Para visualizar, selecione um item na tabela e clique em Exibir.  
+
+3- Ao clicar em Cadastrar, será apresentada a seguinte tela:   
 
 ![Screenshot](images/Parameters-register.png)   
-Figure 4 - Parameter register screen  
+Figura 4 - Tela de cadastro de parâmetro    
 
-4- To register a parameter, enter the name, type, and description. The system will display a "Value" field according to the selected type.  
-5- Click Save to save your changes.  
+4- Para registrar um parâmetro, insira o nome, o tipo e a descrição. O sistema exibirá um campo "Valor" de acordo com o tipo selecionado.    
+5- Clique em Salvar para salvar suas alterações.    
 
