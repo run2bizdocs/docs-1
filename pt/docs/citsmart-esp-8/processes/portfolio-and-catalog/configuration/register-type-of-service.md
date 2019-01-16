@@ -1,21 +1,24 @@
-title: Register type of service
-Description: 
-#Register type of service
-This feature provides a variety of actions, such as including, changing, and deleting the types of service that will be used in other system routines.
+title: Cadastrar tipo de serviço
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
+#Cadastrar tipo de serviço
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
 
-1.  Access the functionality Type of Service through the main menu Processes \>
-    Portfolio and Catalog Management \> Type of Service;
+Procedimento
+----------------
 
-2.  Complete all mandatory fields;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Tipo Serviço;
 
-3.  Click on "Save".
+2.  Preencher o campo obrigatório;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+3.  Clicar em "Gravar".
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
