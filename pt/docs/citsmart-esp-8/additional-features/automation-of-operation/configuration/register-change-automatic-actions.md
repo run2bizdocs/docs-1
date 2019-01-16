@@ -1,53 +1,57 @@
-title: Register change automatic actions
-Description: This registration will be associated with the automatic actions, where it will be used in the CITSmart Nagios, Zabbix, Inventory and Correlated Events event managers' registers.
-#Register change automatic actions
+title: Cadastrar ação automática de mudança
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas do tipo mudança.
+#Cadastrar ação automática de mudança
 
-Some events will present a situation where the appropriate action will need to
-be addressed by the change management process, that is, this functionality is
-intended to register automatic actions of the type change. This registration
-will be associated with the automatic actions, where it will be used in the
-CITSmart Nagios, Zabbix, Inventory and Correlated Events event managers'
-registers.
+Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
+tratada pelo processo de gerenciamento de mudança, ou seja, esta funcionalidade
+tem como objetivo realizar o cadastro de ações automáticas do tipo mudança. Este
+cadastro será associado às ações automáticas, onde será usado nos cadastros de
+gerentes de eventos do CITSmart Nagios, Zabbix, Inventory e Eventos
+Correlacionados.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting automatic actions of the type change.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir ações automáticas do tipo mudança.
 
-Before getting started
-----------------------
-To register the change automatic actions, it's necessary to previously register
-the unit, requester (employee), contract linked to the employee and unit; the
-Change Advisory Board (group), type of change being linked to the flow about the
-request for change; configure the parameters 47, 279 and 280 about the change.
+Antes de começar
+--------------------
 
-Procedure
----------
+Para cadastrar uma ação automática de mudança é preciso registrar previamente a
+unidade, o solicitante (colaborador), o contrato e o mesmo estar vinculado ao
+colaborador e a unidade; o Comitê Consultivo de Mudanças (grupo), o tipo de
+mudança e a mesma estar vinculada ao fluxo referente a requisição de mudança;
+configurar os parâmetros 47, 279 e 280 referentes a mudança.
 
-1.  Access the functionality through the main menu System \> Automatic Actions
-    \> Automatic Actions;
+Procedimento
+----------------
 
-2.  Complete the fields available;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Ações Automáticas \> Ações de Mudança;
 
-3.  Click on "Save".
+2.  Preencher os campos disponibilizados;
 
-Related
+3.  Clicar em "Gravar".
+
+
+
+Relacionado
 -------
 
-[Register a contract](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+Cadastrar um contrato
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um colaborador
 
 Register type of change
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Cadastrar uma unidade
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+Manutenção de fluxo de trabalho
 
-[Configure parametrization - change](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
+Configure parametrização - mudança
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins
 

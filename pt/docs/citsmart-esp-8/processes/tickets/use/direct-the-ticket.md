@@ -1,48 +1,46 @@
-title: Direct the ticket
+title:  Direcionar o ticket
+Description: A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
+#Direcionar o ticket
+A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
 
-Description: This functionality allows to direct the request/incident attendance to a group you want.
+Antes de Começar
+----------------
 
-#Direct the ticket
-This functionality allows to direct the request/incident attendance to a group you want.
+Pra direcionar o atendimento do ticket é necessário o cadastro prévio deste e
+possuir permissão para executar o mesmo.
 
-Before getting started
---------------------------
-
-To direct the attendance of the ticket, it's necessary to previously register of
-a ticket and have permission to execute it.
-
-Procedure
--------------
-
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
-
-2.  Click on the ticket you want and then on the icon “Open”;
-
-3.  In the field **Direct to group**, select the group to which the ticket will
-    be directed to be attended;
-
-4.  Click on button “Operations” and then on “Save and Forward Flow” to save and
-    advance the flow, where the ticket will be directed to the attendance phase.
-    However, if you want to save only the information registered about the
-    validation of the ticket and keep the current task, click on “Save and Keep
-    the Current Task”.
-
-Related
+Procedimento
 ------------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+    ícone “Abrir”;
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+3.  No campo **Direcionar para grupo**, selecionar o grupo para o qual será
+    direcionado o ticket para realizar o atendimento do mesmo;
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+4.  Clicar no botão de “Opções” e logo em seguida clique no botão “Gravar e
+    avançar fluxo”, onde o ticket será encaminhado para fase de atendimento.
+    Mas, caso queira gravar somente as informações registradas sobre a validação
+    do ticket e manter a tarefa atual, clique no botão “Gravar e manter tarefa
+    atual”.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+Relacionado
+-----------
+
+A área de trabalho da Central de Serviços
+
+Criar um ticket
+
+Cadastrar um grupo
+
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
