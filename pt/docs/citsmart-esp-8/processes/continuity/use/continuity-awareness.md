@@ -23,6 +23,7 @@ Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisiç
 procedimentos referente ao Gerenciamento de Eventos.
 
 Procedimento
+----------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Continuidade \> Continuidade;
