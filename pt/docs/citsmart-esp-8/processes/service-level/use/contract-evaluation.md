@@ -1,39 +1,37 @@
-title: Contract evaluation
+title: Avaliação de contrato
+Description: O CITSmart disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço. 
+#Avaliação de contrato
+O CITSmart disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço.
 
-Description: CITSmart makes available the opportunity of verify and evaluate the performance of service contracts.
+Antes de começar
+----------------
 
-#Contract evaluation
-CITSmart makes available the opportunity of verify and evaluate the performance of service contracts.
+Para a visualização de relatórios mais completos é necessário realizar o
+cadastro previamente de contratos e atividades.
 
-Before getting started
---------------------------
+Procedimento
+------------
 
-To view more complex reports, it's necessary to previously register contracts
-and activities.
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Nível de Serviço \> Avaliação \> Avaliação de Contrato;
 
-Procedure
--------------
+2.  Selecionar o contrato;
 
-1.  Access the functionality Contract Evaluation through the main menu Processes
-    \> Service Level Management \> Evaluation \> Contract Evaluation;
+3.  Definir um intervalo de tempo para busca de informações;
 
-2.  Select the contract;
+4.  Clicar em "Gerar Informações".
 
-3.  Set a period of time to search for the information;
-
-4.  Click on "Create Information".
-
-Related
+Relacionado
 -----------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+Cadastrar atividade de serviço
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 - Larissa Lourenço
 
