@@ -1,34 +1,41 @@
-title: Create a release portfolio
-Description: This functionality is intended to create a release portfolio to speed the creation of a new release when grouping it by specific criteria.
-#Create a release portfolio
-This functionality is intended to create a release portfolio to speed the creation of a new release when grouping it by specific criteria.
+title: Criar um portfólio de liberação
+Description: Cria um portfólio de liberações a fim de agilizar a criação de uma nova liberação ao agrupar as mesma por critérios específicos.
+#Criar um portfólio de liberação
 
-Procedure
--------------
+Esta funcionalidade criar um portfólio de liberações a fim de agilizar a criação
+de uma nova liberação ao agrupar as mesma por critérios específicos.
 
-1-  Access the functionality through the main menu Processes \> Release
-    Management \> Release Portfolio;
+Procedimento
+----------------
 
-2-  Click on "New portfolio";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Liberação \> Portfólio de Liberação;
 
-3-  Complete the data necessary and add an image to represent the portfolio;
+2.  Clicar no botão "Novo portfólio";
 
-4-  Select the portfolio you just created and click on "Advance";
+3.  Preencher os campos necessários e adicionar uma imagem para representar o
+    portfólio, se conveniente for;
 
-5-  Click on "New model" and complete the fields available.
+4.  Selecionar o portfólio recém-criado e clicar no botão "Avançar" do mesmo;
 
-!!! Abstract "NOTE"  
+5.  Apertar o botão "Novo modelo" e preencher os campos disponibilizados, tais
+    como por exemplo: vincular o fluxo desejado ao portfólio, selecionar o grupo
+    a executar a liberação, vincular o contrato, definir o impacto e a urgência,
+    dentre outros.
 
-    This new version of the functionality supports the link to flows created
-    by the user, modified to represent their scenario.
+!!! Abstract "ATENÇÃO"
 
-    It's necessary to select the "Active" status to make use of the portfolio
-    created.
+    Esta nova versão da funcionalidade suporta o vínculo a fluxos criados pelo
+    próprio usuário, modificados para representar o seu cenário.  
 
-6-  Click on "Save".
+    É necessário selecionar o status "Ativo" para disponibilizar o uso do
+     portfólio criado.  
+
+1.  Clicar no botão "Gravar" para efetuar a operação.
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Anna Martins
 
