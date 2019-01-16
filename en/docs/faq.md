@@ -1,6 +1,6 @@
-Title: Frequently Asked Questions
+Title: Frequently Asked Questions - FAQ
 
-# Frequently Asked Questions
+# Frequently Asked Questions - FAQ
 
 ??? Question "How are documents ranked at the time of SOLR knowledge base search?"
     To rank the documents at the time of the search, Solr generates a score for each document.
