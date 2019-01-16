@@ -1,24 +1,26 @@
-title: Register cause of incidents 
-Description: Provides the cause of incidents registration
-#Register cause of incidents
-This feature provides a variety of actions, such as including, changing, and deleting the causes of occurrence of incidents.
+title: Cadastrar causa de incidentes
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as causas da ocorrência de incidentes.
+#Cadastrar causa de incidentes
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir as causas da ocorrência de incidentes.
 
-1-  Access the functionality Cause Incidents through the main menu Processes \>
-    Portfolio and Catalog Management \> Cause Incidents;
+Procedimento
+----------------
 
-2-  Click on "New";
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Portfólio e Catálogo \> Causa Incidentes;
 
-3-  Complete all mandatory fields;
+2.  Clicar no botão "Novo";
 
-4-  Click on "Save".
+3.  Preencher os campos disponibilizados;
+
+4.  Clicar em "Gravar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

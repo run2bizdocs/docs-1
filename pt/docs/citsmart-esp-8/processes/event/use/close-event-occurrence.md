@@ -1,31 +1,32 @@
-title: Close event occurrence
-Description:Is intended to close the event occurrence.
-#Close event occurrence
-This functionality is intended to close the event occurrence.
+title: Encerrar ocorrência de um evento
+Description: Tem por objetivo encerrar a ocorrência de um evento. 
+#Encerrar ocorrência de um evento
+Esta funcionalidade tem por objetivo encerrar a ocorrência de um evento.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to previously register the event.
+A funcionalidade requer o registro de evento previamente.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
-    \> Event;
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Evento \> Evento;
 
-2.  Click on the event and then on the button “Close occurrence”;
+2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”;
 
-3.  Click on "Yes" for the closing confirmation question.
+3.  Clicar em "Sim" para a pergunta de confirmação de encerramento.
 
-Related
------------
+Relacionados
+------------
 
-[Register Nagios/Zabbix connection](/en-us/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+Cadastrar conexão Nagios/Zabbix
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+
