@@ -19,7 +19,7 @@ Procedimento
 
 5.  Será apresentado o relatório de serviços de acordo com os filtros definidos;
 
-6.  Existem diversas formas de visualizar os relatórios através de quatro
+6.  Existem diversas formas de visualizar os relatórios através de três
     ícones:
 
        -   Para gerar uma tabela com informações, clicar no ícone “Tabela”;

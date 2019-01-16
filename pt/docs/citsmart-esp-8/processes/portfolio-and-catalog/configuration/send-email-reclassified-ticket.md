@@ -1,54 +1,59 @@
-title: Implement the way of sending email to reclassified ticket
-Description: Implement the way of sending e-mails to reclassified ticket.
-#Implement the way of sending email to reclassified ticket
-This knowledge allows to implement the way of sending e-mails to reclassified ticket, thus the reclassified tickets will have an own template of email to be sent to the requester. Therefore, the reclassification can be done in the portfolio and not only in the flow.
-In the portfolio is informed the reclassification e-mail template of an incident or request.
+title: Implementar forma de envio de e-mail para ticket reclassificado
+Description: Permite implementar a forma de envio de e-mail para ticket reclassificado, assim os tickets reclassificados terão um modelo de e-mail próprio a ser enviado ao solicitante.
+#Implementar forma de envio de e-mail para ticket reclassificado
+Este conhecimento permite implementar a forma de envio de e-mail para ticket
+reclassificado, assim os tickets reclassificados terão um modelo de e-mail
+próprio a ser enviado ao solicitante. A reclassificação poderá ser realizada no
+portfólio, não somente no fluxo.
 
-Before getting started
---------------------------
+No portfólio é informado o modelo de e-mail de reclassificação de um incidente
+ou requisição.
 
-It's necessary to have registered the reclassification email template and have
-to be of type incident or request.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para que se escolha o modelo de e-mail de reclassificação o mesmo deverá ser
+cadastrado previamente e ser do tipo incidente ou requisição.
 
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+Procedimento
+----------------
 
-2.  Choose the portfolio and click on "Advance";
+1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
+    Portfólio e Catálogo \> Portfólio;
 
-3.  Choose the service and click on "Advance";
+2.  Escolher o portfólio, clicar em "Avançar";
 
-4.  Click on the tab *Contracts*;
+3.  Escolher o serviço e clicar em "Avançar";
 
-5.  Choose the contract and click on "Advance";
+4.  Clicar na guia *Contratos*;
 
-6.  Choose the tab *Requests* or *Incidents*;
+5.  Escolher o contrato e clicar em "Avançar";
 
-7.  Choose the activity and click on "Edit";
+6.  Escolher a guia *Requisições* ou *Incidentes*;
 
-8.  In the field **Template of Email Reclassification**, choose the template
-    previously registered;
+7.  Escolher a atividade e clicar em "Editar";
 
-9.  Click on "Save".
+8.  No campo **Modelo de e-mail Reclassificação**, escolher o modelo cadastrado
+    previamente;
 
-What to do next
----------------
+9.  Clicar em "Gravar".
 
-Access the ticket you want and make the reclassification.
+O que fazer a seguir
+--------------------
 
-Related
+Acessar o ticket desejado e efetuar a reclassificação.
+
+
+Relacionado
 -------
 
-[Reclassify ticket](/en-us/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
+Reclassificar um ticket
 
-[Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+Configurar modelo de email
 
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 - Anna Martins
+    <b>Updated:</b>01/16/2019 - Anna Martins

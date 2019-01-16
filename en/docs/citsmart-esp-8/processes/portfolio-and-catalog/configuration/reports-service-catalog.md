@@ -17,7 +17,7 @@ Procedure
 
 5.  It'll be presented the service report according to the filters defined;
 
-6.  There are several ways to view the reports through four icons:
+6.  There are several ways to view the reports through three icons:
 
     -   To generate a table with information, click on the icon “table“;
 
