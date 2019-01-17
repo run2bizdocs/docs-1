@@ -1,50 +1,49 @@
-title: Register a contract
-Description: This feature provides a variety of actions, such as including, changing, and deleting a contract. 
-#Register a contract
-The contract is an agreement between two parties, which undertake to comply with what was agreed between them, under certain conditions. The contract may be of type contract (contract between the provider of type service provider and external customer), operational level agreement(internal agreement between departments of the same organization, internal provider with internal client) or underpinning contract (contract between external provider and internal client).
-This feature provides a variety of actions, such as including, changing, and deleting a contract.
+title: Cadastrar um contrato
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um contrato. 
+#Cadastrar um contrato
+O contrato é um acordo entre duas partes, que se obrigam a cumprir o que foi entre elas combinado sob determinadas condições. O contrato pode ser do tipo contrato (contrato entre o fornecedor do tipo provedor de serviços e cliente externo), acordo de nível operacional (acordo interno entre os departamentos da mesma organização, fornecedor interno com cliente interno) ou contrato de apoio (contrato entre o fornecedor externo e cliente interno).
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um contrato.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-Before register a contract, it's necessary to previously register the provider,
-client, currency and the operating condition.
+Antes de iniciar o cadastro de um contrato é preciso ter cadastrado previamente
+o fornecedor, o cliente, a moeda e a condição de operação.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Contract Registration;
+1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo
+    \> Contrato;
 
-2.  Complete all mandatory fields;
+2.  Preencher os campos disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-|             **Name**             | **Type** |                                                               **Objective**                                                              |
-|:--------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-| Contract Service Level Agreement |   Link   |                     It allows to specify what was agreed in the contract between the service provider and the client                     |
-|    View complexity by contract   |   Link   |                       It allows to identify the complexity values related to the operational costs of the contract                       |
-|         Contract Profiles        |   Link   |   It allows to define the profiles of professionals that will be fundamental for the development of a project related to the contract.   |
-|            User groups           |   Link   |                                                 It allows to link groups to the contract                                                 |
-|         Contract Products        |   Link   |                                   It allows to specify the project deliverables related to the contract                                  |
-|       Communication Matrix       |   Link   |     It allows to define which documents will be communicated, to which stakeholders, at what frequency (when) and by what means (how)    |
-|         Contract Formula         |   Link   | It allows to link formulas to the contract. These formulas are used to obtain the value of total cost of the contract service activities |
-|          Business units          |   Link   |                                             It allows to link business unites to the contract                                            |
-|       Contract Attachments       |   Link   |                                                 It allows to attach files to the contract                                                
+|                **Nome**                | **Tipo** |                                                                                        **Objetivo**                                                                                        |
+|:--------------------------------------:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Acordo de Nível de Serviço do Contrato |  Vínculo |                                                 Permite especificar o que foi acordado no contrato entre o provedor de serviços e o cliente                                                |
+|     Visão complexidade por contrato    |  Vínculo | Permite identificar os valores de complexidade referentes aos custos operacionais do contrato. É muito utilizado no caso de gerenciamento das Ordens de Serviços relacionadas à moeda UST. |
+|           Perfis de Contrato           |  Vínculo |                               Permite definir os perfis dos profissionais que serão fundamentais para desenvolvimento de um projeto relacionado ao contrato.                               |
+|           Grupos de Usuários           |  Vínculo |                                                                             Permite vincular grupos ao contrato                                                                            |
+|          Produtos do Contrato          |  Vínculo |                                                            Permite especificar os entregáveis do projeto relacionado ao contrato                                                           |
+|           Matriz comunicação           |  Vínculo |                               Permite definir quais documentos serão comunicados, para quais stakeholders, em que frequência (quando) e por qual meio (como)                               |
+|           Fórmula do Contrato          |  Vínculo |                        Permite vincular fórmulas ao contrato. Essas fórmulas são utilizadas para obter o valor do custo total das atividades do serviço do contrato                        |
+|           Unidades de Negócio          |  Vínculo |                                                                      Permite vincular unidades de negócio ao contrato                                                                      |
+|             Anexos Contrato            |  Vínculo |                                                                             Permite anexar arquivos ao contrato                                                                            
 
-Related
+Relacionado
 -----------
 
-[Register operating condition](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+Cadastrar um cliente
 
-[Register a client](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
+Cadastrar condição de operação
 
-[Register currency](/en-us/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
+Cadastrar moeda
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
