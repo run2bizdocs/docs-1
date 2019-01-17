@@ -43,23 +43,26 @@ Procedure
 Related
 -------
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-[Create automatic action via email](/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
-
-[Batch Processing](/en-us/site/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
+[Register automatic actions of incident/request/procedure][1]
+[Create automatic action via email][2]
+[Batch Processing][3]
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle; > </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 Attachment
 ------------
 
-[Download - Verify email][1]
+[Download - Verify email][4]
 
-[1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/17/2019 – Anna Martins
+
+
+[1]:/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html
+[2]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html
+[3]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html
+[4]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
