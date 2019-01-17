@@ -1,40 +1,42 @@
-title: Register work order (WO) formula
-Description:Is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
-#Register work order (WO) formula
-This functionality is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
+title: Cadastrar a fórmula de ordem de serviços (OS)
+Description: Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato. 
+#Cadastrar a fórmula de ordem de serviços (OS)
+Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato.
 
-Procedure
--------------
+Procedimento
+------------
 
-1-  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> WO Formula;
+1-  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Contratos \> Fórmula OS;
 
-2-  In the tab "**Formula Registration**", it's necessary to complete the field
-    necessary. When informing the formula options, remember that the purpose of
-    each variable available to describe the formula:
+2-  Na guia "**Cadastro de Fórmula**" é necessário preencher os campos
+    necessários. Ao informar as opções da fórmula é preciso lembrar a finalidade
+    de cada variável disponível para descrever a fórmula:
 
-|   **Variable**  | **Description** |                                                                  **Purpose**                                                                  |
-|:---------------:|:---------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-|      vValor     |      Value      |                           Allows the user to enter a value that will be used to calculate the value of the activity                           |
-|    vDiasUteis   |   Working days  | Allows the return of the number of business days between the start date and the end date of the service order based on the contract schedule. |
-|  vDiasCorridos  |   Running days  |                                  Amount of days between the start date and the end date of the service order.                                 |
-| vNumeroUsuarios | Number of users |                                         Allows you to return the number of active users on the system.                                        |
-|  vComplexidade  |    Complexity   |       Based on the complexity chosen by the user, the system will return its corresponding value entered on the contract record screen.       |
+|  **Variavéis**  |    **Descrição**   |                                                                  **Propósito**                                                                  |
+|:---------------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|      vValor     |        Valor       |                            Permite que o usuário informe um valor que será utilizado no cálculo do valor da atividade                           |
+|    vDiasUteis   |     Dias úteis     |    Permite o retorno da quantidade de dias úteis entre a data inicial e a data final da ordem de serviço com base no calendário do contrato.    |
+|  vDiasCorridos  |    Dias corridos   |                                    Quantidade de dias entre a data inicial a data final da ordem de serviço.                                    |
+| vNumeroUsuarios | Número de usuários |                                             Permite retornar o número de usuários ativos no Sistema.                                            |
+|  vComplexidade  |    Complexidade    | Com base na complexidade escolhida pelo usuário, o Sistema irá retornar o seu valor correspondente informado na tela de cadastro do contrato  . |
 
-3-  After describe the formula, click on "View Formula". This button represents
-    the validation of the formula and where the calculation process is
-    presented, transforming the formula text into a mathematical expression and
-    returning its calculated result, after clicking on "Simulate". Remember that
-    it's possible to use the "{}" keys to delimit a text that you wish to
-    include in the formula, where it will not influence the calculation of the
-    value of the activity;
+3-  Após descrever a fórmula, clicar no botão "Visualizar Fórmula". Este botão
+    representa a validação da fórmula e onde é apresentado o processo do
+    cálculo, transformando o texto da fórmula numa expressão matemática e
+    retornando o seu resultado calculado, depois de clicar em "Simular". Lembrar
+    que é possível utilizar as chaves "{}" para delimitar um texto que deseje
+    incluir na fórmula, onde o mesmo não influenciará o cálculo do valor da
+    atividade;
 
-4-  Click on "Save". But, before save the formula, the system should validate
-    the syntax and only allow the saving if is correct.
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+4-  Clicar no botão "Gravar" para efetuar a operação. Porém antes de gravar a
+    fórmula, o sistema deve validar a sintaxe e só permitir a gravação se
+    estivar correta.
+    
+    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+
