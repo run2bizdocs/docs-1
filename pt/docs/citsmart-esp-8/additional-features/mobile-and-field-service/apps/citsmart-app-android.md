@@ -199,7 +199,7 @@ Figura 10 - Atualização da lista com novas solicitações
 
 Figura 11 - Atualização da lista com solicitações antigas
 
-11-  Para ordenar as solicitações, clique no ícone de ordenação . Será exibida
+11-  Para ordenar as solicitações, clique no ícone de "Ordenar lista de solicitações". Será exibida
     uma lista de opções para ordenação (conforme ilustrada na figura abaixo),
     selecione uma opção desejada e clique em "Ok";
 
@@ -224,10 +224,10 @@ Figura 12 - Ordenação de solicitações
 
 ##### Criando solicitação de serviço
 
-1-  Para criar uma solicitação de serviço, pressione o ícone  localizado no
+1-  Para criar uma solicitação de serviço, pressione o ícone localizado no
     canto direito superior da tela e selecione a opção “Novo
     incidente/requisição”, dependendo da resolução da tela, será exibido o ícone
-    com formato de sinal de mais  , basta pressionar o mesmo para criação da
+    com formato de sinal de mais , basta pressionar o mesmo para criação da
     solicitação, conforme ilustrado abaixo:
 
 ![criação](images/app-android-pt-13.jpg)
@@ -295,14 +295,14 @@ Atualize as coordenadas de uma unidade para que o sistema possa identificar a
 localização da mesma.
 
 1-  Para visualizar as solicitações de trabalho pelo mapa, pressione a opção
-    Pessoal ou Grupo e logo em seguida pressione o ícone  . Será apresentado o
+    Pessoal ou Grupo e logo em seguida pressione o ícone "Obter coordenadas". Será apresentado o
     mapa exibindo a localização das solicitações;
 
 ![em mapa](images/app-android-pt-19.jpg)
 
 Figura 19 - Solicitação em mapa
 
-2-  Para atualizar as coordenadas, pressione o ícone  localizado no canto
+2-  Para atualizar as coordenadas, pressione o ícone localizado no canto
     direito superior da tela e pressione a opção “Obter Coordenadas”, dependendo
     da resolução da tela, será exibido o ícone com formato de uma bandeira,
     basta pressionar o mesmo para atualização das coordenadas;
@@ -385,7 +385,7 @@ Figura 26 - Aplicativo para visualizar a rota
 6-  Após verificar a rota e chegar no local para atendimento da solicitação de
     serviço, realize o check-in da solicitação;
 
-7-  Para realizar o check-in, pressione o ícone  localizado na barra superior da
+7-  Para realizar o check-in, pressione o ícone localizado na barra superior da
     tela;
 
    +  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
