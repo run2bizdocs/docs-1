@@ -1,66 +1,65 @@
-title:  Register ticket execution
- 
-Description: This functionality allows to register the ticket execution.
+title: Cadastrar a execução do ticket
+Description: A funcionalidade permite registrar a execução do ticket.
+#Cadastrar a execução do ticket
 
-#Register ticket execution
-This functionality allows to register the ticket execution.
+A funcionalidade permite registrar a execução do ticket.
 
-Before getting started
---------------------------
+Antes de Começar
+----------------
 
-To execute the ticket, it's necessary to have permission to perform the
-operation and previously register the cause of incident and the solution
-category. It's necessary to first enable parameter 298 (set to "S").
+Para executar o ticket além da permissão para efetuar a operação e o cadastro
+prévio da causa de incidente e da categoria de solução. É necessário
+anteriormente, habilitar o parâmetro 298 (setar para o "S").
 
-IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
-occurrence and the notification e-mail template ID in parameter 251.
+É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
+ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 
-Procedure
+Procedimento 
 -------------
 
-1-  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1-  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2-  Click on the ticket you want and then on the icon “Open”;
+2-  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+    ícone “Abrir”;
 
-3-  In "Execution", click on the "Add note" icon and complete the necessary
-    fields (make a pertinent comment, register the date and time spent in the
-    execution of the ticket). You can allow this information to be viewed by the
-    requester when you select the "Visible to Applicant" field. Therefore, click
-    on "Save".
+3-  Na área intitulado "Execução", clicar no ícone "Adicionar nota" e preencher
+    os campos necessários (tecer o comentário pertinente, registrar a data e
+    tempo gasto na execução do ticket). É possível permitir a visualização
+    destas informações ao solicitante quando selecionar o campo " Visível ao
+    solicitante". Posteriormente, clicar em "Salvar" para efetuar a operação.
 
-!!! Abstract "NOTE"
+!!! Abstract "ATENÇÃO"
 
-    The registration of occurrences related to the ticket is done through the
-    button "Add note". The history of all ticket instances can be viewed by
-    clicking the icon  “History” , located in the upper right corner of the
-    screen.  
+    O registro de ocorrências referentes ao ticket é realizado através do
+    botão "Adicionar nota". O histórico de todas as ocorrências do ticket pode
+    ser visualizado ao clicar no ícone “Histórico”, localizado no canto superior
+    direito da tela.
 
-4-  If you have completed the ticket service, in the "Closure" area, change the
-    status of the ticket to "Solved", just click on the situation to change.
-    Also inform the data on the solution performed:
-    
--   If the ticket type is Incident or Incident, complete the required fields
-    (Cause, Solution Category, Cause Detail, Response Solution, Set whether the
-    "Answer Solution" in the Knowledge Base and whether the solution is
-    temporary). If you chose to "Save the Solution/Response in the Knowledge
-    Base", when you save the ticket, the knowledge is created and linked to the
-    ticket;
+4-  Caso tenha concluído o atendimento do ticket, na área "Fechamento", alterar
+    a situação do mesmo para "Resolvida", basta clicar na situação para alterar.
+    Informar também os dados sobre a solução realizada:
 
-5-  Click on the options button and then "Save" to complete the operation.
+   -   Se o tipo de ticket for Incidente ou Incidente, preencher os campos
+       necessários (Causa, categoria de solução, detalhamento da causa, solução
+       resposta, definir se a "solução resposta" na Base de conhecimento e se a
+       solução é temporária). Caso tenha optado por "Gravar a Solução/Resposta
+       na base de Conhecimento", ao gravar o ticket, o conhecimento é criado e
+       vinculado ao ticket;
 
+5-  Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
 
-Related
+Relacionado
 -----------
 
-[Register solution category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+Cadastrar causa de incidentes
 
-[Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
+Cadastrar categoria de solução
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
 

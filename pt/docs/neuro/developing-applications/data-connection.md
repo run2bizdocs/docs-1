@@ -38,9 +38,5 @@ Figura 4 - Tela de cadastro de conexão tipo JNDI
 Figura 5 - Tela de cadastro de conexão tipo direta  
 
 
-
-
-
-
-
-
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

@@ -42,3 +42,6 @@ Figura 3 - Tela de cadastro do arquivo de relatório
 6- Para visualizar um item, selecione o mesmo e clique em Visualizar.  
 7- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
 
+
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

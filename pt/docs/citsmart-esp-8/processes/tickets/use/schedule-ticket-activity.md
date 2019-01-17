@@ -1,39 +1,38 @@
-title:  Schedule ticket activity
- 
-Description: This functionality schedules the activities from the ticket.
- 
-#Schedule ticket activity
-This functionality schedules the activities from the ticket.
+title: Agendar atividade de ticket
+Description: Permite agendar atividades a partir do ticket.
+#Agendar atividade de ticket
+A funcionalidade permite agendar atividades a partir do ticket.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to have previously registered the periodic activities groups to
-schedule the ticket activities.
+É necessário ter os grupos de atividade periódica cadastrados para agendar as
+atividades do ticket.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2.  Click on the ticket you want and select the option "Schedule activity" in
-    the options menu;
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Agendar
+    atividade" no menu opções;
 
-3.  Click on the tab **Create Schedule** and complete the data necessary;
+3.  Clicar na aba **Criar Agendamento** e preencher os campos necessários;
 
-4.  Click on "Save'. Note that the activities scheduled can be viewed
-    in **Agenda**, placed in the internal menu of the ticket.
+4.  Clicar no botão "Gravar" para efetuar a operação. Lembrando que as
+    atividades agendadas poderão ser visualizadas na **Agenda de Atividades**,
+    localizada no menu interno do ticket.
 
-Related
+Relacionado
 -----------
 
-[Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+Cadastrar grupo de atividade periódica
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
 

@@ -42,3 +42,6 @@ Figura 4 - Tela de cadastro de parâmetro
 4- Para registrar um parâmetro, insira o nome, o tipo e a descrição. O sistema exibirá um campo "Valor" de acordo com o tipo selecionado.    
 5- Clique em Salvar para salvar suas alterações.    
 
+
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

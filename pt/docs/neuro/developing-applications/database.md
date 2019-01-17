@@ -49,3 +49,5 @@ Figura 4 - Tela de cadastro de banco de dados
 5- Os tipos de banco de dados são pré-cadastrados na aplicação. 
 6- Clique em Salvar para criar o banco de dados. Clique em Pesquisar para voltar para a tela anterior.    
 
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

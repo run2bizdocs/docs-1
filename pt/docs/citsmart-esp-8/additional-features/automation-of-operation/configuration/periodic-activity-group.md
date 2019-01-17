@@ -1,22 +1,24 @@
-title: Register periodic activity group
-Description:Provides a variety of actions, such as including, changing, and deleting the group of periodic activities, which are responsible for execute periodic activities.
-#Register periodic activity group
-This feature provides a variety of actions, such as including, changing, and deleting the group of periodic activities, which are responsible for execute periodic activities.
+title: Cadastrar grupo de atividade periódica
 
-Procedure
------------
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os grupos de atividades periódica, os quais são responsáveis por executar as atividades periódicas. 
+#Cadastrar grupo de atividade periódica
 
-1.  Access the functionality Periodic Activity Group through the main menu
-    Integrated Management \> Automation of Operations \> Periodic Activity
-    Group;
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os grupos de atividades periódica, os quais são responsáveis por executar as atividades periódicas.
 
-2.  Complete the fields available;
+Procedimento
+------------
 
-3.  Click on "Save".
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Automação de Operações \> Grupo de Atividades Periódica;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+2.  Preencher os campos disponibilizados;
+
+3.  Clicar no botão "Gravar".
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

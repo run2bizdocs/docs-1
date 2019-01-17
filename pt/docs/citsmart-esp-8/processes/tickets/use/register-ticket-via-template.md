@@ -1,65 +1,66 @@
-title: Register ticket via template
+title: Cadastrar ticket via template
+Description: Permite o cadastro do ticket via template. 
+#Cadastrar ticket via template
+Esta funcionalidade permite o cadastro do ticket via template.
 
-Description: Allows to register a ticket via template.
-#Register ticket via template
-This functionality allows to register a ticket via template.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+É necessário o cadastro prévio do grupo, unidade, contrato e o portfólio com o
+serviço e as atividades de requisição e incidente registradas.
 
-It's necessary to previously register the group, unit, contract and portfolio
-with service and activities of request and incident.
+Vincular o contrato ao serviço, o grupo ao contrato, a unidade ao contrato, o
+usuário à unidade e o usuário ao grupo. É preciso também ter as atividades de
+requisição e incidentes vinculadas ao contrato de serviço. Definir o tempo de
+atendimento das atividades de requisição e incidente.
 
-Link contract to the service, group to the contract, unit to the contract, user
-to the unity and user to the group. It's also necessary to have the requests and
-incidents linked to the service contract. Set the time of attendance of the
-activities of request and incident.
+Cadastrar os templates para registro de uma solicitação utilizando esta
+funcionalidade.
 
-Register the templates to register a request using this functionality.
-
-Procedure
+Procedimento 
 -------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2.  Click on the button “Operations”  located in the bottom right side of the
-    screen, then click on the button “Register via template”. It will appear the
-    screen of templates with a list of templates;
+2.  Clicar no botão “Opções” localizado no canto inferior direito da tela, logo
+    em seguida clicar no botão “Cadastro via template”. Será exibida a tela de
+    templates contendo os templates listados;
 
-3.  Select the template you want and you'll be directed to the Ticket
-    Registration screen with the fields completed as the template you have
-    choose. Complete the complementary information necessary;
+3.  Selecionar o template desejado e então será direcionado à tela de Cadastro
+    de Ticket com os campos preenchidos de acordo com o template escolhido.
+    Preencher as informações complementares necessárias;
 
-4.  Click on the button “Operations” and then on “Save” button.
+4.  Clicar no botão de “Opções” e logo em seguida clicar no botão “Gravar” para
+    efetuar o registro, onde a data, hora e usuário serão gravados
+    automaticamente para uma futura auditoria.
 
-Related
+Relacionado
 -----------
 
-[How to relate group to contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+Criar portfólio
 
-[How to relate unit to contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+Cadastrar um grupo
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar uma unidade
 
-[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+Cadastrar um serviço
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Configurar atributos de serviço
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Criar modelo de template de incidente, requisição e procedimento
 
-[Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
+Criar tempo de atendimento
 
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+Como relacionar unidade ao contrato
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Como relacionar grupo ao contrato
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

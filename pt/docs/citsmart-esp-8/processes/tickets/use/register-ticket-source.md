@@ -1,24 +1,21 @@
-title:  Register ticket source
- 
-Description: Provides a variety of actions, such as including, changing, and deleting several types of teams or areas that can create a ticket
+title: Cadastrar origem de ticket
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir diversos tipos de equipes ou áreas que podem gerar um ticket. 
+#Cadastrar origem de ticket
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir diversos tipos de equipes ou áreas que podem gerar um ticket.
 
-#Register ticket source
-This feature provides a variety of actions, such as including, changing, and deleting several types of teams or areas that can create a ticket
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+    Gerência de Requisição e Incidente \> Origem de Solicitações;
 
-1.  Access the functionality Ticket Source through the main menu Processes \>
-    Request and Incident Management \> Source of Requests;
+2.  Preencher o campo disponibilizado;
 
-2.  Complete the mandatory field;
+3.  Clicar em "Gravar".
 
-3.  Click on "Save".
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
