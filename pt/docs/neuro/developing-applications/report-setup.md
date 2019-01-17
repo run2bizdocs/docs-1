@@ -71,18 +71,5 @@ Esta aba representa o formulário a ser exibido quando o usuário for gerar o re
 Figura 6 - Cadastro/edição de configuração de relatório, aba Formulário  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

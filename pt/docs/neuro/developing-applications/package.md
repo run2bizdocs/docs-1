@@ -42,4 +42,5 @@ Figura 3 - Tela de cadastro/edição de pacotes
 7- Para visualizar um item, selecione o mesmo e clique em Visualizar.    
 
 
-
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

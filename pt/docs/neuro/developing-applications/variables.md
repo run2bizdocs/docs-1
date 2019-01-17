@@ -64,14 +64,5 @@ Figura 3- Tela de cadastro/edição do workflow, aba de Variáveis
 5- Para remover uma variável do fluxo, selecione a variável desejada, clique em Remover e confirme a exclusão.  
 	
 
-
-
-
-
-
-
-
-
-
-
-
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

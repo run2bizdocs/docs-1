@@ -1,40 +1,40 @@
-title: Register periodic activity
-Description: Allows to register and verify periodic activities about the contract.
-#Register periodic activity
-This functionality allows to register and verify periodic activities about the contract.
+title: Cadastrar a atividade periódica
+Description: Permite registrar e verificar as atividades periódicas relacionadas aos contratos.
+#Cadastrar a atividade periódica
 
-Before getting started
---------------------------
+Esta funcionalidade permite registrar e verificar as atividades periódicas relacionadas aos contratos.
 
-It's necessary to previously register the contract and periodic activity group.
+Antes de começar
+----------------
 
-Procedure
--------------
+É necessário o cadastrado prévio do contrato e do grupo de atividade periódica.
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Automation of Operations \> Periodic Activity;
+Procedimento
+------------
 
-2.  Complete the fields necessary;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Automação de Operações \> Atividade Periódica;
 
-3.  To link a work order to the activity, click on "Link WO" to search and link
-    the one you want;
+2.   Preencher os campos necessários;
 
-4.  Click on "New Schedule" to define the activity periodicity when complete the
-    necessary data and click on "Save";
+3.  Para vincular uma ordem de serviço à atividade, basta clicar no botão
+    "Vincular O.S" para pesquisar e vincular a ordem de serviço desejada;
 
-5.  Click on "Save".
+4.  Clicar no botão "Novo Agendamento" para definir a periodicidade da atividade
+    ao preencher os dados essenciais e apertar o botão "Gravar";
 
-Related
+5.  Clicar no botão "Gravar" para efetuar a operação.
+
+Relacionado
 -----------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+Cadastrar grupo de atividade periódica
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

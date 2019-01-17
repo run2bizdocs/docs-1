@@ -1,76 +1,77 @@
-Title: Neuro FAQ
+Title: FAQ (Neuro)
 Description: CITSmart - FAQ
 
-#Neuro Frequently Asked Questions (FAQ)
+#FAQ (Neuro)
 
-??? Question "What is the difference between creating a form using the Form menu and via the Business Object?"
-    The creation using the Form menu is 100% manual. If you use the business object menu, you can generate the form from the database. The generated form can be edited in the menu register form.
+??? Question "Qual a diferença entre criar um formulário através do menu Formulário e através do menu Objeto de negócio?"
+    A criação através do menu de Formulário ocorre de forma 100% manual. Através do menu de objeto de negócio, é possível gerar o formulário a partir do modelo do banco de dados. O formulário gerado poderá ser editado no menu de cadastro de formulário.
 
-	How do I create a menu to access my business process?
+	Como eu crio um menu para acessar o meu processo de negócio?
 
-	The creation the menu for business process, is made in the registration of the business process itself by setting the field "menu".
+	A criação do menu para processo de negócio é feita no próprio cadastro de processo de negócio, definindo o campo "Menu associado".
 
-	It is necessary a previously registered menu with two levels, so it can be linked to this process.
+	É necessário que esteja previamente cadastrado um menu com dois níveis para que ele possa ser vinculado à este processo de negócio.
 
-	It is also necessary that after saving the business process with the associated menu, the permissions to the new menu item must be assigned. The assignment of this permission can be accomplished through the menu or the access profile screen.
+	Também é necessário que, após salvo o processo de negócio com menu associado, seja atribuído permissão para o item de menu novo. A atribuição de permissão pode ser realizada através da tela de Menu ou da tela de Perfil de Acesso.
 
-??? Question "How do I create "many-to-many" relationships in the business object?"
-	To create a "many-to-many" relationship, it is necessary to create a third business object to relate the two objects of the desired business.
+??? Question "Como eu crio relacionamentos "muitos para muitos" no objeto de negócio?"
+	Para criar um relacionamento "Muitos para muitos", é necessário criar um objeto de negócio terceiro para relacionar os dois objetos de negócio desejados.
 
-	E.g.: Let's create a many-to-many relationship between two objects, **A** and **B**. We will need an object **C** that will relate with **A** and **B**.
+	Ex: Vamos criar um relacionamento muitos para muitos entre dois objetos, A e B. Para isso, iremos necessitar de um objeto C que irá relacionar os dois.
 
-	The object **A** will have a one-to-many "relationship" with the object **C**, and object **B** will also have a one-to-many "relationship" with the object **C**.
+	O objeto A terá um relacionamento "um para muitos" com o objeto C, e o objeto B também terá um relacionamento "um para muitos" com o objeto C.
 
-	The object **C** we will need to have two relationships, one of them "many-to-one," with the object **A** and the other "many-to-one," with the object **B**.
+	Dentro de nosso objeto C teremos de ter dois relacionamentos, um deles "muitos para um" com o objeto A e o outro "muitos para um" com o objeto B.
 
-	We can relate a data from object **A** to a lot of data of the object **B**, and the object **B** can do the same with object **A**, through the business object **C**.
+	Assim, podemos relacionar um dado do objeto A à vários dados do objeto B, e um dado do objeto B à vários dados do objeto A, através do objeto de negócio C, tendo efetivamente um relacionamento "muitos para muitos"
 
-??? Question "I would like to know if every workflow must have a business process?"
-	Not every workflow must have or needs a business process. Every Main Workflow needs a business process, however the sub-processes don't require other business processes.
+??? Question "Todo workflow precisa ter um processo de negócio relacionado?"
+	Nem todo workflow precisa ter um processo de negócio relacionado. Pode-se dizer que todo workflow principal precisa de um processo de negócio, porém os subprocessos não necessitam de outros processos de negócio para eles.   
+	
+	Além disso, essa regra se aplica apenas a fluxos de integração de processos, visto que os fluxos de integração de serviço não precisam de processo de negócio relacionado.
 
-	In addition, this this rule only applies to process integration flows. The service integration flows do not require a related business process.
+??? Question "Existe alguma alternativa para que eu acesse as minhas tarefas do workflow abertas em um menu customizado, ou seja, fora do Gerenciamento de tarefas?"
+	É possível fazer sua própria listagem de tarefas para acessar as tarefas do workflow. Para um tutorial completo, vide a documentação técnica.  
 
-??? Question "Is there any alternative to access my workflow tasks opened in a customized menu? I mean, out of task management?"
-	You can make your own task list to access the workflow tasks. For a complete tutorial, please check the technical documentation.
+??? Question "É possível criar componentes customizados que possam ser utilizados na criação de formulários?"
+	É possível criar seus próprios componentes para serem utilizados no formulário. Para um tutorial completo, vide a documentação técnica.
 
-??? Question "Is it possible to create customized components that can be used in the forms creation?"
-	You can create your own components that will be used in the form. For a complete tutorial, please check the technical documentation.
+??? Question "Por onde devo começar a construção de uma aplicação utilizando o Neuro?"
+	Recomenda-se que o primeiro passo a ser executado no Neuro seja o cadastro da aplicação ou o cadastro de uma conexão de banco de dados, de acordo com a necessidade da aplicação.  
 
-??? Question "Where should I start building an application using the Neuro?"
-	It is recommended that the first step to be executed on the Neuro, is to register the application or register a connection to the DB (database), according to the needs of the application.
+??? Question "Como funciona a injeção de dependências próprias dentro de um formulário no Neuro? Quais passos devem ser executados?"
+	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Neuro são somente do tipo CSS e Javascript.
 
-??? Question "How does it work the dependency injection in a Neuro form? Which steps must be performed?"
-	To inject a dependency , you must register it before. Only CSS and Javascript dependencies types can be injected in a Neuro form.
+	Crie um cadastro novo de acordo com o tipo da sua dependência através do menu "Neuro → Recursos" e faça o upload da dependência.
 
-	Create a new register according to the dependency type. It can be done via menu "Neuro → resources" and upload the dependency.
+	Para importá-la no formulário, selecione a aba do tipo da página que deseja importar e escolha a aba "Dependências". 
 
-	To import it on the form, select the tab “page type” that you would like to import and choose the tab "Dependencies".
+	Clique no ícone de "+ Adicionar" para incluir uma dependência nova, no campo "Nome" digite o nome cadastrado do recurso da sua dependência e selecione a opção correspondente. Para mais informações à respeito de dependências de formulário, vide a documentação técnica.
 
-	Click on the "+ add" icon to add a new dependency, in the field "name" enter the name of your resource dependency and select the corresponding option. For more information about form dependencies, please check the technical documentation.
+??? Question "Como defino as ações que devem estar disponíveis em cada tarefa do workflow?"
+	As ações são cadastradas nas abas principais do cadastro do fluxo. Para associar uma ação a uma tarefa específica, vá para o desenho do workflow, abra as propriedades daquele elemento, e selecione as ações desejadas e salve as alterações.
 
-??? Question "How do I define the actions that should be available in each workflow task?"
-	The actions are registered in the main register flow tabs. To associate an action to a specific task, go to the workflow design, open the element properties, and select the desired actions. After all that is done, save your changes.
+??? Question "Como deleto um elemento do workflow?"
+	Para deletar um elemento do workflow, selecione o elemento que deseja deletar e pressione Ctrl + Del.
 
-??? Question "How do I delete an element from the workflow?"
-	To delete a workflow element, select the element you want to delete, and then press Ctrl + Del.
+??? Question "O que faço quando ocorrer o erro "Processo de negócio não informado"?"
+	Este erro ocorre porque o processo de negócio não está referenciado no controller do formulário que inicia o processo de negócio. Para corrigir este problema, acesse o formulário referente ao processo de negócio, e insira o seguinte comando no controller da "Página p/ processo": $scope.businessProcessName = 'nome_do_processo_de_negocio';
 
-??? Question "What do I do when I get this error message "business process not informed"?"
-	This error occurs because the business process is not referenced in the controller of the form that starts the business process. To fix this problem, access the business process form, and then insert the following command on the controller "p/process Page": $scope. businessProcessName = ' name_of_the_business_process';
+??? Question "Quando eu cadastro um subprocesso, as informações do processo principal são herdadas pelo subprocesso?"
+	Não. Ao incluir um novo subprocesso, seja do tipo ESI ou do tipo BPE em um workflow principal, você deverá, informar na aba "Atributos", o nome exato do subprocesso que deverá ser criado manualmente no cadastro do workflow.
 
-??? Question "I would like to know, when I register a sub-process, the information in the main process is inherited by the sub-process?"
-	No, it doesn´t inherit. When you include a new sub-process, BPE or ESI in the main workflow, you must inform the "attributes", the exact name of the sub-process that must be created on the workflow registration.
+	Todas as informações, como ações e estados do fluxo principal deverão ser replicados no cadastro do subprocesso.
 
-	All information, such as actions and main workflow status should be replicated in the sub-process registration.
+	Resumindo em passos, recomenda-se seguir a seguinte ordem:
 
-	In short steps, it is recommended to follow the following order:
+			1. Cadastro do fluxo principal;
+			2. Cadastro do subprocesso;
+			3. Inclusão do elemento de subprocesso, referenciando o subprocesso já criado.
 
-			1. Register the main workflow;
-			2. Register the sub-process;
-			3. Include the element of sub-process, making a reference to the sub-process already created.
+??? Question "Qual a diferença entre um fluxo de integração de processos e um fluxo de integração de serviços?"
+	Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.
 
-??? Question "What is the difference between a process integration workflow and a service integration workflow?"
-	The process integration workflow has tasks performed by users, and may also have automated tasks performed by the system.
+	Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.
 
-	The service integration workflow has workflows that were executed, based on system services, such as integrations and conversions, for example.
-
-	There is no problem if a process integration workflow uses a sub-process of the service integration workflow.
+	Nada impede que um fluxo de integração de processos utilize um subprocesso de integração de serviços, por exemplo.
+	
