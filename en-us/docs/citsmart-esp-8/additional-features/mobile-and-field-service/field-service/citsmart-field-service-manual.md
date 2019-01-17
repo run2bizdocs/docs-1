@@ -44,10 +44,6 @@ Procedure
 7.  There are filters that make easier to find the required ticket, access it
     through the search box, or click on the icon "Filters";.
 
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=<<<Process Playlist>>>)'
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
