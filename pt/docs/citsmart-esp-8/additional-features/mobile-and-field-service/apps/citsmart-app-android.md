@@ -41,11 +41,11 @@ Este documento foi estruturado em quatro grandes seções:
 Antes de começar
 ----------------
 
-1.  É necessário Implantar a versão 7.2.2.0 (ou superior) do **CITSmart
-    Enterprise Mobile e também** Configurar o servidor para uso do aplicativo
-    mobile **CITSmart Enterprise Mobile **(ver documento [Manual de configuração
+1.  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
+    Enterprise Mobile e também Configurar o servidor para uso do aplicativo
+    mobile CITSmart Enterprise Mobile (ver documento Manual de configuração
     do servidor para uso do CITSmart ITSM Enterprise (iOS e
-    Android)](https://itsm.citsmartcloud.com/citsmart/pages/knowledgeBasePortal/knowledgeBasePortal.load#/knowledge/4341) ).
+    Android).
 
 Instalação e configuração do app no celular (smartphone)
 ---------------------------------------------------------
@@ -60,33 +60,36 @@ aplicativo na loja on-line (Google Play).
 3-  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart
     Enterprise Mobile;
 
-4-  Para criar uma conexão, pressione o ícone com formato de chave  , localizado
+4-  Para criar uma conexão, pressione o ícone com formato de chave, localizado
     no canto direito superior da tela;
 
 ![Criar conexão](images/app-android-pt-1.jpg)
+
 Figura 1 - Criar conexão
 
 5-  Será apresentada a tela de conexões, pressione o ícone "Nova conexão" , localizado no
     canto direito superior da tela, conforme indicado na figura abaixo:
 
 ![Tela de conexões](images/app-android-pt-2.jpg)
+
 Figura 2 - Tela de conexões
 
 6-  Será apresentada a tela “Nova conexão” para registro da conexão;
 
 ![Registro de conexão](images/app-android-pt-3.jpg)
+
 Figura 3 - Registro de conexão
 
 7-  Informe os dados:
 
-     -   **Nome**: informe o nome da conexão que deseja conectar;
+     *  **Nome**: informe o nome da conexão que deseja conectar;
 
-     -   **URL do servidor**: informe o endereço do servidor para conexão. Deve
+     *  **URL do servidor**: informe o endereço do servidor para conexão. Deve
         ser colocado o protocolo (http) na URL;
 
-     -   **Usuário**: informe o nome de usuário;
+     *  **Usuário**: informe o nome de usuário;
 
-     -   **Senha**: informe a senha de acesso.
+     *  **Senha**: informe a senha de acesso.
 
 !!! Abstract "ATENÇÃO"
 
@@ -100,7 +103,9 @@ Figura 3 - Registro de conexão
 
 10-  Para se conectar, basta selecionar a conexão, na tela inicial do aplicativo;
 
+
 ![Registro](images/app-android-pt-4.jpg)
+
 Figura 4 - Login
 
 
@@ -117,12 +122,14 @@ realizar demais ações, que serão explicadas adiante.
     com formato de barras localizado no canto esquerdo superior;
 
 ![Solicitações de serviço](images/app-android-pt-5.jpg)
+
 Figura 5 - Solicitações de serviço
 
 2-  É apresentado uma lista com os tipos e as quantidades de solicitações de
     cada tipo, conforme apresentada na figura abaixo:
 
 ![Filtros](images/app-android-pt-6.jpg)
+
 Figura 6 - Filtros
 
 3-  Selecione o tipo de solicitação desejado;
@@ -135,9 +142,11 @@ Figura 6 - Filtros
     escolhido:
 
 ![Lista](images/app-android-pt-7.jpg)
+
 Figura 7 - Lista de solicitação pessoal
 
 ![Lista de solicitação grupo](images/app-android-pt-8.jpg)
+
 Figura 8 - Lista de solicitação do grupo
 
 6-  Para visualizar solicitações específicas, clique no ícone de pesquisa.
@@ -160,15 +169,15 @@ Figura 9 - Lista de solicitações
 7-  Em cada solicitação é apresentado um símbolo com a cor que representa sua
     situação, sendo:
 
-    -   Verde (normal/em andamento): indica que a solicitação está em
+    +  Verde (normal/em andamento): indica que a solicitação está em
         atendimento, dentro do prazo estabelecido;
 
-    -   Amarelo (a vencer): indica que o prazo limite para atendimento da
+    +  Amarelo (a vencer): indica que o prazo limite para atendimento da
         solicitação está perto de ser ultrapassado;
 
-    -   Cinza (suspensa): indica que a solicitação foi suspensa;
+    +  Cinza (suspensa): indica que a solicitação foi suspensa;
 
-    -   Vermelho (vencida): indica que o prazo limite para atendimento da
+    +  Vermelho (vencida): indica que o prazo limite para atendimento da
         solicitação foi ultrapassado.
 
 8-  Para visualizar os detalhes da solicitação de serviço, clique na solicitação
@@ -180,12 +189,14 @@ Figura 9 - Lista de solicitações
     existentes e exibidas novas solicitações;
 
 ![novas solicitações](images/app-android-pt-10.jpg)
+
 Figura 10 - Atualização da lista com novas solicitações
 
 10-  Ao realizar o pull up na tela, serão atualizadas as solicitações existentes
     e exibidas as solicitações antigas;
 
 ![solicitações antigas](images/app-android-pt-11.jpg)
+
 Figura 11 - Atualização da lista com solicitações antigas
 
 11-  Para ordenar as solicitações, clique no ícone de ordenação . Será exibida
@@ -193,20 +204,21 @@ Figura 11 - Atualização da lista com solicitações antigas
     selecione uma opção desejada e clique em "Ok";
 
 ![Ordenação](images/app-android-pt-12.jpg)
+
 Figura 12 - Ordenação de solicitações
 
-    -   **Número da solicitação**: ordena as solicitações pelo número, em ordem
+    +  **Número da solicitação**: ordena as solicitações pelo número, em ordem
         decrescente;
 
-    -   **Responsável (sem responsável primeiro)**: ordena as solicitações,
+    +  **Responsável (sem responsável primeiro)**: ordena as solicitações,
         primeiramente, sem o responsável atual. Depois segue o critério de ordenação
         pelo número da solicitação, em ordem decrescente;
 
-    -   **Data de criação**: ordena as solicitações, primeiramente, pela data de
+    +  **Data de criação**: ordena as solicitações, primeiramente, pela data de
         criação, em ordem crescente. Depois segue o critério de ordenação pelo
         número da solicitação, em ordem decrescente;
 
-    -   **Vencimento**: ordena as solicitações por solicitações vencidas, próximas
+    +  **Vencimento**: ordena as solicitações por solicitações vencidas, próximas
         do vencimento, dentro do prazo e suspensas. Depois segue o critério de
         ordenação pelo número da solicitação, em ordem decrescente.
 
@@ -219,15 +231,18 @@ Figura 12 - Ordenação de solicitações
     solicitação, conforme ilustrado abaixo:
 
 ![criação](images/app-android-pt-13.jpg)
+
 Figura 13 -Criação de solicitação de serviço
 
 ![Ícone](images/app-android-pt-14.jpg)
+
 Figura 14 - Ícone para criar solicitação de serviço
 
 2-  Será exibida a tela para criação da solicitação, conforme apresentada na
     figura abaixo:
 
 ![criação](images/app-android-pt-15.jpg)
+
 Figura 15 -Tela de criação de nova solicitação
 
 !!! Abstract "ATENÇÃO"
@@ -242,6 +257,7 @@ Figura 15 -Tela de criação de nova solicitação
     apresentada.
 
 ![criada](images/app-android-pt-16.jpg)
+
 Figura 16 - Solicitação criada
 
 ##### Aprovando/rejeitando solicitação de serviço
@@ -255,6 +271,7 @@ necessário aprová-las.
     para aprovação/rejeição da mesma;
 
 ![rejeição](images/app-android-pt-17.jpg)
+
 Figura 17 - Tela de aprovação/rejeição de solicitação
 
 3-  Para aprovar a solicitação, basta pressionar o botão "Aprovar";
@@ -264,9 +281,10 @@ Figura 17 - Tela de aprovação/rejeição de solicitação
     figura abaixo:
 
 ![justificava](images/app-android-pt-18.jpg)
+
 Figura 18 - Tela justificava de rejeição da solicitação
 
-    -  Escolha a justificava da rejeição da solicitação e pressione o botão "Ok".
+    +  Escolha a justificava da rejeição da solicitação e pressione o botão "Ok".
 
 Utilização avançada da aplicação no celular (smartphone) – com mapas
 -----------
@@ -281,6 +299,7 @@ localização da mesma.
     mapa exibindo a localização das solicitações;
 
 ![em mapa](images/app-android-pt-19.jpg)
+
 Figura 19 - Solicitação em mapa
 
 2-  Para atualizar as coordenadas, pressione o ícone  localizado no canto
@@ -289,14 +308,17 @@ Figura 19 - Solicitação em mapa
     basta pressionar o mesmo para atualização das coordenadas;
 
 ![coordenadas](images/app-android-pt-20.jpg)
+
 Figura 20 - Obter coordenadas
 
 ![obter coordenadas](images/app-android-pt-21.jpg)
+
 Figura 21 - Ícone para obter coordenadas
 
 3-  Será apresentada a tela “Obter Coordenadas”:
 
 ![Tela de obter](images/app-android-pt-22.jpg)
+
 Figura 22 -Tela de obter coordenadas
 
    -   Selecione o contrato e a unidade. Feito isso, pressione o botão "Obter
@@ -322,33 +344,37 @@ Figura 22 -Tela de obter coordenadas
     será direcionado para lista de solicitação pessoal ou do grupo.
 
 ![Atendimento](images/app-android-pt-23.jpg)
+
 Figura 23 - Atendimento de solicitação via mapa
 
 3-  Após selecionar a solicitação, será apresentada a tela de “Detalhes” da
     mesma, conforme o exemplo apresentado na figura abaixo:
 
 ![serviço](images/app-android-pt-24.jpg)
+
 Figura 24 - Atender solicitação de serviço
 
 4-  Pressione o botão "Atender". Será direcionada para tela da solicitação, onde
     será possível realizar o check-in;
 
 ![Solicitação serviço](images/app-android-pt-25.jpg)
+
 Figura 25 -Solicitação de serviço
 
 5-  Para visualizar a rota de onde realizará o atendimento, basta pressionar o
     botão "Ver Rota";
 
-    -  Será exibida uma tela para escolher o aplicativo de visualização da rota;
+    +  Será exibida uma tela para escolher o aplicativo de visualização da rota;
 
 ![visualizar a rota](images/app-android-pt-26.jpg)
+
 Figura 26 - Aplicativo para visualizar a rota
 
-    -  Selecione o aplicativo que irá utilizar para visualizar a rota;
+    +  Selecione o aplicativo que irá utilizar para visualizar a rota;
 
-    -  Será exibida a tela de visualização da rota;
+    +  Será exibida a tela de visualização da rota;
 
-    -  O caminho será mostrado a partir da sua localização até o local da
+    +  O caminho será mostrado a partir da sua localização até o local da
        solicitação.
 
 !!! Abstract "REGRA"
@@ -362,10 +388,11 @@ Figura 26 - Aplicativo para visualizar a rota
 7-  Para realizar o check-in, pressione o ícone  localizado na barra superior da
     tela;
 
-    -  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
+    +  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
         abaixo:
 
 ![check-in](images/app-android-pt-27.jpg)
+
 Figura 27 - Tela de check-in
 
     -  Pressione o botão "Check-in" para efetuar a operação;
@@ -379,27 +406,31 @@ Figura 27 - Tela de check-in
 
 
 ![check-out](images/app-android-pt-28.jpg)
+
 Figura 28 - Tela de check-out
 
-    -  Informe o status do atendimento da solicitação;
+    +  Informe o status do atendimento da solicitação;
 
 ![check-out](images/app-android-pt-29.jpg)
+
 Figura 29 - Check-out - Status da solicitação de serviço
 
-    -   Selecione o status e pressione "OK";
+    +   Selecione o status e pressione "OK";
 
-    -   Caso tenha selecione o status “Suspensa”, será exibida uma janela para
+    +   Caso tenha selecione o status “Suspensa”, será exibida uma janela para
         registrar o motivo da suspensão, conforme apresentada no exemplo ilustrado
         na figura abaixo:
 
 ![motivo](images/app-android-pt-30.jpg)
+
 Figura 30 -  Check-out - Registro do motivo da suspensão da solicitação
 
-    -   Caso tenha selecionado o status “Resolvida”, será exibida uma janela para
+    +   Caso tenha selecionado o status “Resolvida”, será exibida uma janela para
         registrar o encerramento da solicitação, conforme apresentada no exemplo
         ilustrado na figura abaixo:
 
 ![encerramento](images/app-android-pt-31.jpg)
+
 Figura 31 -  Check-out - Registro de encerramento da solicitação
 
 ##### Notificações
@@ -413,48 +444,54 @@ ação.
     abaixo:
 
 ![proximidade](images/app-android-pt-32.jpg)
+
 Figura 32 - Notificação de proximidade do local de atendimento da
 solicitação
 
-    -   Selecione a notificação, onde será exibida uma tela questionando se deseja
+    +   Selecione a notificação, onde será exibida uma tela questionando se deseja
         realizar o Check-in, conforme exemplo ilustrado na figura abaixo:
 
 ![justificava de rejeição](images/app-android-pt-33.jpg)
+
 Figura 33 - Tela de justificava de rejeição da solicitação
 
-    -  Responda se deseja realizar o Check-in;
+    +  Responda se deseja realizar o Check-in;
 
-    -  Ao pressionar o botão "Sim", será direcionado para tela de Check-in;
+    +  Ao pressionar o botão "Sim", será direcionado para tela de Check-in;
 
-    -  Ao pressionar o botão "Não", será direcionada para tela de registro da
+    +  Ao pressionar o botão "Não", será direcionada para tela de registro da
        negação do Check-in, conforme o exemplo ilustrado na figura abaixo:
 
 ![negação do check-in](images/app-android-pt-34.jpg)
+
 Figura 34 - Tela de negação do check-in
 
-    -  Informe o motivo da negação do Check-in da solicitação.
+    +  Informe o motivo da negação do Check-in da solicitação.
 
 2-  Quando estiver próximo ao local de atendimento de mais de uma solicitação de
     serviço, receberá uma notificação contendo a quantidade de solicitações,
     conforme o exemplo ilustrado na figura abaixo:
 
 ![atendimento de várias](images/app-android-pt-35.jpg)
+
 Figura 35 - Notificação de proximidade do local de atendimento de várias
 solicitações
 
-    -  Ao selecionar a notificação, será exibida uma lista de solicitações próximas
+    +  Ao selecionar a notificação, será exibida uma lista de solicitações próximas
        de sua localização, conforme exemplo ilustrado na figura abaixo:
 
 ![Solicitações próximas](images/app-android-pt-36.jpg)
+
 Figura 36 -Solicitações próximas
 
 3-  Quando um solicitante delegar uma solicitação de serviço, receberá uma
     notificação, conforme o exemplo ilustrado na figura abaixo:
 
 ![solicitação recebida](images/app-android-pt-37.jpg)
+
 Figura 37 -Notificação de solicitação recebida
 
-    -  Selecione a notificação para ser direcionado à sua lista de solicitação
+    +  Selecione a notificação para ser direcionado à sua lista de solicitação
        pessoal.
 
 
