@@ -1,37 +1,36 @@
-title: Configure mobile options
-Description: Intended to configure the Menu options to the use through mobile.
-#Configure mobile options
+title: Configurar as opções de mobile
+Description: Tem por objetivo configurar as opções de Menu para o uso via mobile. 
+#Configurar as opções de mobile
+Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso via mobile.
 
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+É necessário instalar, previamente, o aplicativo CITSmart Enterprise ITSM no
+dispositivo mobile.
 
-It's necessary to previously install the CITSmart Enterprise ITSM application in
-the mobile.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    permissão \> Configuração das opções de mobile;
 
-1.  Access the functionality through the main menu Access and Permission \>
-    Setting up mobile options;
+2.  Clicar no botão "Novo";
 
-2.  Click on "New";
+3.  Preencher os campos necessários (título, a situação, a descrição nas três
+    línguas do CITSmart [português, inglês e espanhol] e selecionar o menu que
+    melhor se ajusta à funcionalidade desejada);
 
-3.  Complete the fields necessary (title, status, description in the three
-    languages of CITSmart [English, Portuguese and Spanish], and select the menu
-    that best fits to your needs);
+4.  Clicar em "Gravar" para efetuar a operação;
 
-4.  Click on "Save".
+Relacionado
+-----------
 
-Related
--------
+Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[CITSmart Enterprise ITSM Mobile Application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
-
+Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Anna Martins
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
