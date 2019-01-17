@@ -45,13 +45,13 @@ aplicativo na loja on-line (App Store).
 3-  Para criar uma conexão, pressione o ícone com "Criar conexão", conforme
     indicado na figura abaixo:
 
-![Criar conexão](images/ios-app-pt-1.png)
+![Criar conexão](images/ios-app-pt-1.jpg)
 
 Figura 1 - Criar conexão
 
 4-  Será apresentada a tela “Nova conexão” para registro da conexão;
 
-![Registro conexão](images/ios-app-pt-2.png)
+![Registro conexão](images/ios-app-pt-2.jpg)
 
 Figura 2 - Registro de conexão
 
@@ -67,8 +67,8 @@ Figura 2 - Registro de conexão
    -   **Domínio\\Usuário:** A partir dessa versão o usuário terá que informar
         o domínio LDAP de uso e seu usuário;
 
-        -  O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
-           primeira parte é a informação do domínio e a segunda parte é o usuário;
+          - O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
+            primeira parte é a informação do domínio e a segunda parte é o usuário;
 
    -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
 
@@ -95,7 +95,7 @@ Figura 2 - Registro de conexão
 
 9-  Digite usuário e senha:
 
-![login](images/ios-app-pt-3.png)
+![login](images/ios-app-pt-3.jpg)
 
 Figura 3 - login
 
@@ -108,24 +108,24 @@ Utilização do app no mobile
 1-  Após realizar a conexão, será apresentada a tela menu, onde clicará na opção
     Tickets de Serviços.
 
-![Tela de login](images/ios-app-pt-4.png)
+![Tela de login](images/ios-app-pt-4.jpg)
 
 Figura 4 - Tela de login
 
 2-  Para escolher o tipo de solicitação que deseja visualizar, clique no
     ícone localizado no canto esquerdo superior;
 
-![Localizar](images/ios-app-pt-5.png)
+![Localizar](images/ios-app-pt-5.jpg)
 
 Figura 5 - Localizar solicitação
 
 3-  São apresentados filtros:
 
-![Filtros](images/ios-app-pt-6.png)
+![Filtros](images/ios-app-pt-6.jpg)
 
 Figura 6 - Filtros
 
-![Filtros continuação](images/ios-app-pt-7.png)
+![Filtros continuação](images/ios-app-pt-7.jpg)
 
 Figura 7 - Filtros (continuação)
 
@@ -134,7 +134,7 @@ Figura 7 - Filtros (continuação)
 5-  Será apresentada a lista de solicitações de serviço, conforme o filtro
     escolhido:
 
-![Lista de ticket](images/ios-app-pt-8.png)
+![Lista de ticket](images/ios-app-pt-8.jpg)
 
 Figura 8 - Lista de ticket
 
@@ -147,7 +147,7 @@ Figura 8 - Lista de ticket
 6-  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
     opções, sendo:
 
-![Lista de](images/ios-app-pt-9.png)
+![Lista de](images/ios-app-pt-9.jpg)
 
 Figura 9-Lista de ticket
 
@@ -172,7 +172,7 @@ Figura 9-Lista de ticket
     canto direito inferior da tela e selecione o ícone  “Novo ticket”, conforme
     ilustrado abaixo:
 
-![Criação de solicitação](images/ios-app-pt-10.png)
+![Criação de solicitação](images/ios-app-pt-10.jpg)
 
 Figura 10 – Criação de solicitação de serviço
 
@@ -211,7 +211,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
     tipo de resposta) dos serviços já solicitados por ele. Por uma questão de
     desempenho e de preservação do layout da tela, esses dois resumos são
     paginados, ou seja, é possível avançar/retroceder para visualizar todas as
-   informações.
+    informações.
 
 -   **Telefone**: informe o número de telefone do solicitante;
 
