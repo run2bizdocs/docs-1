@@ -1,32 +1,32 @@
-title: Verify attendance history
-Description: Is intended to verify the attendance history of service requests made by the field technician. 
-#Verify attendance history
-This functionality is intended to verify the attendance history of service requests made by the field technician.
-In this screen, you can view the service request attendance history made by the field technicians, according to the filters provided.
+title: Verificar o histórico de atendimento
+Description: Tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
+#Verificar o histórico de atendimento
+Esta funcionalidade tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
+Nesta tela, poderá visualizar o histórico de atendimento de solicitação de serviço feito pelos técnicos de campo, de acordo com os filtros informados.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to previously configure the system connection with Google APIs.
+Para verificar o histórico de atendimento é necessário, anteriormente,
+configurar a conexão do sistema com as API's do Google.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Service Force Management \> Attendance History;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Força de Atendimento \> Histórico de Atendimento;
 
-2.  Define the filters as needed. Remember that when selecting the technician,
-    will appear the requests for services that the same attended and that refers
-    to the contracts that he belongs;
+2.  Definir os filtros de acordo com a necessidade. Lembrar que ao selecionar o
+    técnico, serão apresentadas as solicitações de serviços que o mesmo atendeu
+    e que faz referência aos contratos que ele pertence;
 
-3.  After the filters have been defined, click on "Search". The history of
-    service requests for the attendance will be displayed on the map by the
-    field technician.
-    
-    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+3.  Após os filtros definidos, clicar no botão "Pesquisar". Será exibido no mapa
+    o histórico de atendimento das solicitações de serviço pelo técnico de
+    campo.
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
