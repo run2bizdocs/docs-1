@@ -47,7 +47,7 @@ Procedure
 Related
 -------------  
 
-[Configure CITSmart field service application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Configure CITSmart field service application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
 
 !!! tip "About"
 
