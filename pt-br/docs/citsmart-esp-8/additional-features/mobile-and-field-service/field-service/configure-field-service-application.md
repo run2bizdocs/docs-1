@@ -1,80 +1,72 @@
-title: Configure CITSmart field service application
-Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-#Configure CITSmart field service application
+title: Configurar aplicativo CITSmart Field Service
+Description: O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline
+#Configurar aplicativo CITSmart Field Service
+O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
+ O atendente visualizará apenas solicitações que foram delegadas a ele.
 
+Antes de começar
+----------------
 
-The CITSmart FS application makes possible make attendance in offline mode - in
-which the attendant does not have an internet. After the application connects to
-the internet, the application will automatically send the information to the
-production environment. Remember that the delegation of the request to an
-attendant must be carried out manually by the responsible.
+1.  Instalar o aplicativo CITSmart FS;
 
-The attendant will only see requests that have been delegated to he/she.
+2.  No ambiente - instância do CITSmart -, configurar as seguintes
+    funcionalidades:
 
-Before getting started
---------------------------
+-   Webservice: indicar no item "permissões" os grupos de atendimento que
+    poderão visualizar os tickets;
 
-1.  Install the application CITSmart FS;
+-   Unidade: obter as coordenadas da unidade cadastrada.
 
-2.  In the environment - CITSmart instance - , configure the following
-    functionalities:
-
-    * Webservice: indicate in the item "permissions" the attendance groups that
-    can view the tickets;
-
-    * Unit: get the coordinates of the registered unit.
-
-Procedure
--------------
+Procedimento
+------------
 
 *Webservice*
 
-1.  Access the functionality through the main menu System \> Webservice \>
-    Webservice Operation;
+1.  Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
+    Operação Webservice;
 
-2.  On the **Operations Search** tab, search for each of the webservices below,
-    then click on "Add Group" and include the group (s) that the attendant (s)
-    are linked to:
+2.  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
+    abaixo, em seguida em cada um clicar no botão "Adicionar grupo" e incluir
+    o(s) grupo(s) que o(s) atendente(s) estão vinculados:
 
-    * request_add_attachments
+-   request_add_attachments
 
-    * request_updateRequestList
+-   request_updateRequestList
 
-    * request_userLocation
+-   request_userLocation
 
-    * request_saveRequest
+-   request_saveRequest
 
-    * request_uploadAttachment
+-   request_uploadAttachment
 
-    * request_getByUser
+-   request_getByUser
 
-1.  Click on "Save" after configure the groups in each webservice.
+1.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
-*Unit*
+*Unidade*
 
-1.  Access the functionality through the main menu General Registration \>
-    Personnel Management \> Unit:
+1.  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
+    Gerência de Pessoal \> Unidade:
 
-2.  Search for the unit in the tab Search Unit and select the choose:
+2.  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida:
 
-3.  In the tab Unit Registration with the unit already chosen, click on "Get
-    Coordinates"
+3.  Na aba Cadastro de Unidade com a unidade já escolhida, clicar no botão
+    "Obter Coordenadas"
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
-What to do next
--------------------
+O que fazer a seguir
+--------------------
 
-Log the CITSmart FS application already installed, entering the URL, user and
-environment password. Verify the ticket and make the attendance.
+Logar no aplicativo CITSmart FS já instalado, inserindo a URL, usuário e a senha
+do ambiente. Verificar os tickets e realizar atendimento.
 
-Related
--------
+Relacionado
+-----------
 
-[CITSmart Field Service manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
-
+Manual de utilização do CITSmart Field Service
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
