@@ -75,5 +75,3 @@ Description: CITSmart - FAQ
 
 	Nada impede que um fluxo de integração de processos utilize um subprocesso de integração de serviços, por exemplo.
 	
-	!!! tip "About"
-    <b>Updated:</b>17/01/2019 - João Pelles Junior
