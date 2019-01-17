@@ -348,6 +348,7 @@ Manual de confguração do servidor CITSmart Enterprise para uso de APPs (iOS e 
 Configurar as opções de mobile
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
