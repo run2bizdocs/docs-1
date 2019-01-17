@@ -1,32 +1,39 @@
-title: Register service work order (WO)
-Description: Is intended to register the service work orders (WO).
-#Register service work order (WO)
-This functionality is intended to register the service work orders (WO).
+title: Cadastrar os serviços de ordens de serviço (OS)
+Description: Tem o objetivo de cadastrar os serviços de ordens de serviço (OS).
+#Cadastrar os serviços de ordens de serviço (OS)
+Esta funcionalidade tem o objetivo de cadastrar os serviços de ordens de serviço (OS).
 
-Procedure
--------------
+Antes de começar
+----------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> WO Service Registration;
+É necessário o cadastro prévio do tipo de serviço e da categoria de serviço.
 
-2.  Click on "New";
+Procedimento
+------------
 
-3.  Complete the fields necessary (service name, abbreviation, status, date of
-    deployment, category of service, service detail, service objective, type of
-    event, service importance for the business and service execution location);
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Contratos \> Cadastro de Serviços OS;
 
-4.  Click on "Save".
+2.  Clicar no botão "Novo";
 
-Related
+3.  Preencher os campos necessários (nome do serviço, sigla/abreviação,
+    situação, data de implantação, categoria do serviço, detalhamento do
+    serviço, objetivo do serviço, tipo de evento, importância do serviço ao
+    negócio e local de execução dos serviços);
+
+4.  Clicar no botão "Gravar" para efetuar a operação.
+
+Relacionado
 -----------
 
-[Register type of service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
+Criar categoria de serviço
 
-[Create service category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+Cadastrar tipo de serviço
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
