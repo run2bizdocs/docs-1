@@ -42,14 +42,16 @@ Procedure
     your finger or click on the icon "Update list";
 
 7.  There are filters that make easier to find the required ticket, access it
-    through the search box, or click on the icon "Filters";.
+    through the search box, or click on the icon "Filters".
+
+Related
+-------------  
+
+[Configure CITSmart field service application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
     
-Related
--------------  
 
-[Configure CITSmart field service application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
