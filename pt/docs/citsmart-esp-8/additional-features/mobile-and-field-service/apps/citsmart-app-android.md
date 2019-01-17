@@ -82,14 +82,14 @@ Figura 3 - Registro de conexão
 
 7-  Informe os dados:
 
-     *  **Nome**: informe o nome da conexão que deseja conectar;
+   +  **Nome**: informe o nome da conexão que deseja conectar;
 
-     *  **URL do servidor**: informe o endereço do servidor para conexão. Deve
+   +  **URL do servidor**: informe o endereço do servidor para conexão. Deve
         ser colocado o protocolo (http) na URL;
 
-     *  **Usuário**: informe o nome de usuário;
+   +  **Usuário**: informe o nome de usuário;
 
-     *  **Senha**: informe a senha de acesso.
+   +  **Senha**: informe a senha de acesso.
 
 !!! Abstract "ATENÇÃO"
 
@@ -169,15 +169,15 @@ Figura 9 - Lista de solicitações
 7-  Em cada solicitação é apresentado um símbolo com a cor que representa sua
     situação, sendo:
 
-    +  Verde (normal/em andamento): indica que a solicitação está em
+   +  Verde (normal/em andamento): indica que a solicitação está em
         atendimento, dentro do prazo estabelecido;
 
-    +  Amarelo (a vencer): indica que o prazo limite para atendimento da
+   +  Amarelo (a vencer): indica que o prazo limite para atendimento da
         solicitação está perto de ser ultrapassado;
 
-    +  Cinza (suspensa): indica que a solicitação foi suspensa;
+   +  Cinza (suspensa): indica que a solicitação foi suspensa;
 
-    +  Vermelho (vencida): indica que o prazo limite para atendimento da
+   +  Vermelho (vencida): indica que o prazo limite para atendimento da
         solicitação foi ultrapassado.
 
 8-  Para visualizar os detalhes da solicitação de serviço, clique na solicitação
@@ -207,18 +207,18 @@ Figura 11 - Atualização da lista com solicitações antigas
 
 Figura 12 - Ordenação de solicitações
 
-    +  **Número da solicitação**: ordena as solicitações pelo número, em ordem
+   +  **Número da solicitação**: ordena as solicitações pelo número, em ordem
         decrescente;
 
-    +  **Responsável (sem responsável primeiro)**: ordena as solicitações,
+   +  **Responsável (sem responsável primeiro)**: ordena as solicitações,
         primeiramente, sem o responsável atual. Depois segue o critério de ordenação
         pelo número da solicitação, em ordem decrescente;
 
-    +  **Data de criação**: ordena as solicitações, primeiramente, pela data de
+   +  **Data de criação**: ordena as solicitações, primeiramente, pela data de
         criação, em ordem crescente. Depois segue o critério de ordenação pelo
         número da solicitação, em ordem decrescente;
 
-    +  **Vencimento**: ordena as solicitações por solicitações vencidas, próximas
+   +  **Vencimento**: ordena as solicitações por solicitações vencidas, próximas
         do vencimento, dentro do prazo e suspensas. Depois segue o critério de
         ordenação pelo número da solicitação, em ordem decrescente.
 
@@ -284,7 +284,7 @@ Figura 17 - Tela de aprovação/rejeição de solicitação
 
 Figura 18 - Tela justificava de rejeição da solicitação
 
-    +  Escolha a justificava da rejeição da solicitação e pressione o botão "Ok".
+   +  Escolha a justificava da rejeição da solicitação e pressione o botão "Ok".
 
 Utilização avançada da aplicação no celular (smartphone) – com mapas
 -----------
@@ -364,18 +364,18 @@ Figura 25 -Solicitação de serviço
 5-  Para visualizar a rota de onde realizará o atendimento, basta pressionar o
     botão "Ver Rota";
 
-    +  Será exibida uma tela para escolher o aplicativo de visualização da rota;
+   +  Será exibida uma tela para escolher o aplicativo de visualização da rota;
 
 ![visualizar a rota](images/app-android-pt-26.jpg)
 
 Figura 26 - Aplicativo para visualizar a rota
 
-    +  Selecione o aplicativo que irá utilizar para visualizar a rota;
+   +  Selecione o aplicativo que irá utilizar para visualizar a rota;
 
-    +  Será exibida a tela de visualização da rota;
+   +  Será exibida a tela de visualização da rota;
 
-    +  O caminho será mostrado a partir da sua localização até o local da
-       solicitação.
+   +  O caminho será mostrado a partir da sua localização até o local da
+      solicitação.
 
 !!! Abstract "REGRA"
 
@@ -388,14 +388,14 @@ Figura 26 - Aplicativo para visualizar a rota
 7-  Para realizar o check-in, pressione o ícone  localizado na barra superior da
     tela;
 
-    +  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
-        abaixo:
+   +  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
+      abaixo:
 
 ![check-in](images/app-android-pt-27.jpg)
 
 Figura 27 - Tela de check-in
 
-    -  Pressione o botão "Check-in" para efetuar a operação;
+   -  Pressione o botão "Check-in" para efetuar a operação;
 
 !!! Abstract "REGRA"
 
@@ -409,25 +409,25 @@ Figura 27 - Tela de check-in
 
 Figura 28 - Tela de check-out
 
-    +  Informe o status do atendimento da solicitação;
+   +  Informe o status do atendimento da solicitação;
 
 ![check-out](images/app-android-pt-29.jpg)
 
 Figura 29 - Check-out - Status da solicitação de serviço
 
-    +   Selecione o status e pressione "OK";
+   +   Selecione o status e pressione "OK";
 
-    +   Caso tenha selecione o status “Suspensa”, será exibida uma janela para
-        registrar o motivo da suspensão, conforme apresentada no exemplo ilustrado
-        na figura abaixo:
+   +   Caso tenha selecione o status “Suspensa”, será exibida uma janela para
+       registrar o motivo da suspensão, conforme apresentada no exemplo ilustrado
+       na figura abaixo:
 
 ![motivo](images/app-android-pt-30.jpg)
 
 Figura 30 -  Check-out - Registro do motivo da suspensão da solicitação
 
-    +   Caso tenha selecionado o status “Resolvida”, será exibida uma janela para
-        registrar o encerramento da solicitação, conforme apresentada no exemplo
-        ilustrado na figura abaixo:
+   +   Caso tenha selecionado o status “Resolvida”, será exibida uma janela para
+       registrar o encerramento da solicitação, conforme apresentada no exemplo
+       ilustrado na figura abaixo:
 
 ![encerramento](images/app-android-pt-31.jpg)
 
@@ -448,25 +448,25 @@ ação.
 Figura 32 - Notificação de proximidade do local de atendimento da
 solicitação
 
-    +   Selecione a notificação, onde será exibida uma tela questionando se deseja
-        realizar o Check-in, conforme exemplo ilustrado na figura abaixo:
+   +   Selecione a notificação, onde será exibida uma tela questionando se deseja
+       realizar o Check-in, conforme exemplo ilustrado na figura abaixo:
 
 ![justificava de rejeição](images/app-android-pt-33.jpg)
 
 Figura 33 - Tela de justificava de rejeição da solicitação
 
-    +  Responda se deseja realizar o Check-in;
+   +  Responda se deseja realizar o Check-in;
 
-    +  Ao pressionar o botão "Sim", será direcionado para tela de Check-in;
+   +  Ao pressionar o botão "Sim", será direcionado para tela de Check-in;
 
-    +  Ao pressionar o botão "Não", será direcionada para tela de registro da
-       negação do Check-in, conforme o exemplo ilustrado na figura abaixo:
+   +  Ao pressionar o botão "Não", será direcionada para tela de registro da
+      negação do Check-in, conforme o exemplo ilustrado na figura abaixo:
 
 ![negação do check-in](images/app-android-pt-34.jpg)
 
 Figura 34 - Tela de negação do check-in
 
-    +  Informe o motivo da negação do Check-in da solicitação.
+   +  Informe o motivo da negação do Check-in da solicitação.
 
 2-  Quando estiver próximo ao local de atendimento de mais de uma solicitação de
     serviço, receberá uma notificação contendo a quantidade de solicitações,
@@ -477,8 +477,8 @@ Figura 34 - Tela de negação do check-in
 Figura 35 - Notificação de proximidade do local de atendimento de várias
 solicitações
 
-    +  Ao selecionar a notificação, será exibida uma lista de solicitações próximas
-       de sua localização, conforme exemplo ilustrado na figura abaixo:
+   +  Ao selecionar a notificação, será exibida uma lista de solicitações próximas
+      de sua localização, conforme exemplo ilustrado na figura abaixo:
 
 ![Solicitações próximas](images/app-android-pt-36.jpg)
 
@@ -491,8 +491,8 @@ Figura 36 -Solicitações próximas
 
 Figura 37 -Notificação de solicitação recebida
 
-    +  Selecione a notificação para ser direcionado à sua lista de solicitação
-       pessoal.
+   +  Selecione a notificação para ser direcionado à sua lista de solicitação
+      pessoal.
 
 
 !!! tip "About"
