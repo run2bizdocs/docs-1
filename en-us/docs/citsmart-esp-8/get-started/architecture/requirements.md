@@ -1,8 +1,9 @@
-Title: System Requirements
+Title: 2. System requirements
 
-# System Requirements
+# 1. System requirements
 
-##	Application Server
+
+## Application Server
 
 CITSmart runs on the Wildfly version 12 application server. The minimum system requirements required for the application server are:
 
@@ -44,4 +45,3 @@ For installation of Apache SOLR, we recommend the following configurations:
 
 !!! tip
      The **SOLR** and **MongoDB** services can be installed on the same server as the CITSmart application. We recommend for production environments that you separate the database server from the application server.
-

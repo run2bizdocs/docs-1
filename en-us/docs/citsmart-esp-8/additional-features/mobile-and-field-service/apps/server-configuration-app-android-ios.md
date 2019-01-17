@@ -8,8 +8,8 @@ using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
 Before getting starded
 ----------------------
 
-It’s necessary to have the Deploy **CITSmart Enterprise Web** in version 7.2.2.0
-or higher, setup the parameter 257 and 272 must be:
+It’s necessary to have the Deploy CITSmart Enterprise Web in version 7.2.2.0
+or higher, setup the parameters 257 and 272 must be:
 
   + Values: "Y" or "N" Default: "N";
 

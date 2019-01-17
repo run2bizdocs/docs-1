@@ -1,32 +1,33 @@
-title: Register subscription group
-Description: Allows to register groups of subscriptions that will be printed in reports.
-#Register subscription group
-This functionality allows to register groups of subscriptions that will be printed in reports.
+title: Cadastrar um grupo de assinaturas
+Description: Permite registrar os grupos de assinatura que serão impressos em relatórios.
+#Cadastrar um grupo de assinaturas
+Esta funcionalidade permite registrar os grupos de assinatura que serão impressos em relatórios.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to have registered the employee subscription.
+É necessário cadastrar, anteriormente, a assinatura do colaborador.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Subscription Group;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Contratos \> Grupos de Contratos;
 
-2.  In the tab "**Subscription Group Registration**", complete the field
-    necessary;
+2.  Na guia "**Cadastro de Grupos de Assinaturas**", preencher os campos
+    necessários (título, selecionar a assinatura, informar a ordem em que a
+    assinatura aparecerá no quadro de assinaturas do relatório);
 
-3.  Click on "Add" and then on "Save".
+3.  Clicar no botão "Adicionar" e em seguida "Gravar" para efetuar a operação.
 
-Related
+Relacionado
 -----------
 
-[Register subscription](/en-us/citsmart-esp-8/additional-features/contract-management/configuration/register-subscription.html)
+Cadastrar uma assinatura
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

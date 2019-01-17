@@ -35,3 +35,8 @@ and allows to build new functionalities, applications and integrations. It is ve
 Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others).
 In addition, we understand that the concepts of Service Management is very powerful and can go beyond
 IT, allowing interesting gains to the business units.
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/17/2019 - Anna Martins

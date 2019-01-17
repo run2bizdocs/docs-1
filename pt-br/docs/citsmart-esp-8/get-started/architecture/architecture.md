@@ -2,32 +2,66 @@ Title: Cloud Architecture
 
 # CITSmart Cloud Architecture
 
-Focused on a global expansion, and a technological infrastructure that meets the requirements of our customers and partners, CITSmart opted for the SaaS (Software As a Service) model to ensure agility in delivering solutions to our customers and partners, and provide a resilient, reliable and secure infrastructure. In the cloud we have a computational infrastructure and a network architecture designed to meet the highest technological and security requirements of the world market.
+Arquitetura do CITSmart Cloud
+-----------------------------
 
-Following the example of large companies offering their services based on cloud-based solutions, CITSmart uses the technology and security features provided by Amazon Web Services (AWS). Using the AWS cloud, we, our partners and customers can enjoy:
+Com foco em uma expansão global e uma infra-estrutura tecnológica que atende aos
+requisitos de nossos clientes e parceiros, o CITSmart optou pelo modelo SaaS
+(Software como Serviço) para garantir agilidade no fornecimento de soluções para
+nossos clientes e parceiros e fornecer uma solução confiável e resiliente. e
+infra-estrutura segura. Na nuvem, temos uma infraestrutura computacional e uma
+arquitetura de rede projetada para atender aos mais altos requisitos
+tecnológicos e de segurança do mercado mundial.
 
-* A highly scalable computing platform with high reliability and availability and physical security designed for large scales.
+Seguindo o exemplo de grandes empresas que oferecem seus serviços com base em
+soluções baseadas em nuvem, o CITSmart usa os recursos de tecnologia e segurança
+fornecidos pela Amazon Web Services (AWS). Usando a nuvem da AWS, nós, nossos
+parceiros e clientes podemos desfrutar de:
 
-* A legacy of managing various compliance programs and certifications. This means that we automatically inherit compliance with various infrastructure requirements and standards.
+Uma plataforma de computação altamente escalável com alta confiabilidade e
+disponibilidade e segurança física projetada para grandes escalas.
 
-In addition to the capabilities provided by the cloud, Citsmart seeks to maintain the security and privacy of its customers' data through internal policies and adoption of standards to ensure compliance with international regulatory requirements.
+Um legado de gerenciamento de vários programas e certificações de conformidade.
+Isso significa que herdamos automaticamente a conformidade com vários requisitos
+e padrões de infraestrutura.
 
-# Cloud Architecture Overview
+Além dos recursos oferecidos pela nuvem, o Citsmart busca manter a segurança e a
+privacidade dos dados de seus clientes por meio de políticas internas e adoção
+de padrões para garantir a conformidade com os requisitos regulamentares
+internacionais.
 
-A basic overview of how the CITSmart cloud works can be seen in the diagram below:
+Visão geral da arquitetura de nuvem
+-----------------------------------
+
+Uma visão geral básica de como funciona a nuvem do CITSmart pode ser vista no
+diagrama abaixo:
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
-# CITSmart Cloud Security
+CITSmart Cloud Security
+-----------------------
 
-CITSmart has security compliance based on the following areas in which it is responsible within the cloud environment:
+O CITSmart tem conformidade de segurança com base nas seguintes áreas nas quais
+é responsável no ambiente de nuvem:
 
-* Customer Data
-* Platform, Applications, Identity & Access Management
-* Operating System, Network & Firewall
-* Client-side data encryption
-* Data integrity authentication
-* Server-side encryption (File system and data)
-* Network traffic protection (encryption, integrity, identity)
+Dados do cliente
+----------------
 
-For each area above, we have technical security processes and measures that ensure security compliance based on best market practices.
+- Plataforma, Aplicativos, Gerenciamento de Identidade e Acesso
+
+- Sistema Operacional, Rede e Firewall
+
+- Criptografia de dados do lado do cliente
+
+- Autenticação de integridade de dados
+
+- Criptografia do lado do servidor (sistema de arquivos e dados)
+
+- Proteção de tráfego de rede (criptografia, integridade, identidade)
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/17/2019 - Anna Martins
+

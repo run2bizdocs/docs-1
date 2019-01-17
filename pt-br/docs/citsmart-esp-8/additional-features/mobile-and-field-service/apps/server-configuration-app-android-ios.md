@@ -25,7 +25,7 @@ A configuração dos Web services são fundamentais para o acesso a todas as
 funcionalidades do aplicativo. Siga os passos para melhor configurá-lo:
 
 1-  No CITSmart Enterprise (Web), acesse a funcionalidade de Web Services
-    referente ao mobile (Sistema → Configurações → Web Services Citsmart
+    referente ao mobile (Sistema > Configurações > Web Services Citsmart
     Mobile);
 
 2-  Clique na aba “Vincular Grupos” e vincule o grupo executor de atividades aos
@@ -49,17 +49,17 @@ abaixo:
 2-  Realize o download do primeiro certificado, conforme indicado na figura
     abaixo:
 
-[global sign](images/android-ios-1.jpg)
+![global sign](images/android-ios-1.jpg)
 
 Figura 1 - Certificado intermediário da GlobalSign
 
 3-  No mobile: informar o nome genérico (sugestão: GlobalSign) e clicar em
-    avançar.
+    "avançar".
 
 4-  No desktop: clicar com botão direito no certificado baixado (conforme figura
-    abaixo), clicar em instalar certificado e avançar até concluir.
+    abaixo), clicar em "instalar certificado" e avançar até concluir.
 
-[Windows](images/android-ios-2.jpg)
+![Windows](images/android-ios-2.jpg)
 
 Figura 2 - Instalação do certificado no Windows
 
@@ -89,32 +89,32 @@ Key seja criada. Para isso, os seguintes passos devem ser seguidos:
 4-  Acesse o console do desenvolvedor
     Google [https://console.developers.google.com](https://console.developers.google.com/);
 
-5-  Clique em Criar um projeto, conforme indicado na figura abaixo:
+5-  Clique em "Criar um projeto", conforme indicado na figura abaixo:
 
-[Google](images/android-ios-3.jpg)
+![Google](images/android-ios-3.jpg)
 
 Figura 3 - Console do desenvolvedor Google
 
 6-  Será apresentada uma janela, conforme ilustrada na figura abaixo, para
     informar os dados do novo projeto;
 
-[projeto](images/android-ios-4.jpg)
+![projeto](images/android-ios-4.jpg)
 
 Figura 4 - Tela de criação de projeto
 
-7-  Informe o nome do projeto e clique no botão Criar para criação do projeto.
+7-  Informe o nome do projeto e clique no botão "Criar" para criação do projeto.
 
 8-  Após criar o projeto, clique em APIs e serviços. Para criar a API Key,
-    clique em APIs e serviços → Credenciais → Criar credenciais → Chave de API,
+    clique em APIs e serviços > Credenciais > Criar credenciais > Chave de API,
     conforme indicado na figura abaixo:
 
-[API Key](images/android-ios-5.jpg)
+![API Key](images/android-ios-5.jpg)
 
 Figura 5 - Tela de criação de API Key
 
 9-  Feito isso, a chave de API será apresentada:
 
-[opções de API](images/android-ios-6.jpg)
+![opções de API](images/android-ios-6.jpg)
 
 Figura 6 - Tela de opções de API Key para criação
 
@@ -128,7 +128,7 @@ Figura 6 - Tela de opções de API Key para criação
 
 Segue abaixo as APIs do Google a serem consideradas nas soluções:
 
-[APIs](images/android-ios-7.jpg)
+![APIs](images/android-ios-7.jpg)
 
 Figura 7 - APIs
 
@@ -171,18 +171,18 @@ Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
 1-  Após de executar os passos descritos na seção 'Criando chave para uso e
     consumo das APIs Google";
 
-2-  Clique em APIs e serviços → Ativar APIs e serviços , conforme indicado na
+2-  Clique em APIs e serviços > Ativar APIs e serviços , conforme indicado na
     figura abaixo:
 
-[APIs Google](images/android-ios-8.jpg)
+![APIs Google](images/android-ios-8.jpg)
 
 Figura 8 - APIs Google
 
 3-  Será apresentada a biblioteca de APIs. Selecione a API que deseja ativar ( a
-    figura abaixo representa um exemplo de API) e clique no botão Ativar API
+    figura abaixo representa um exemplo de API) e clique no botão "Ativar"
     conforme indicado na figura abaixo:
 
-[Ativação](images/android-ios-9.jpg)
+![Ativação](images/android-ios-9.jpg)
 
 Figura 9 - Ativação da APIs Google
 
@@ -199,7 +199,6 @@ Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
 
 Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM
 (iOS)
-
 
 
 

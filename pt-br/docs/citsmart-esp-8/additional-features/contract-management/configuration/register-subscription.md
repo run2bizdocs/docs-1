@@ -1,33 +1,34 @@
-title: Register subscription
-Description: This feature provides a variety of actions, such as including, changing, and deleting the signature.
-#Register subscription
-This functionality is intended to register subscription fields to be associated with a subscription group, in order to customize the subscriptions present in the Work Orders report. These Work Order reports are used to register, prove, and charge for services rendered to the client.
-This feature provides a variety of actions, such as including, changing, and deleting the signature.
+title: Cadastrar uma assinatura
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
+#Cadastrar uma assinatura
+Esta funcionalidade tem o objetivo de registrar campos de assinatura para serem associados a um grupo de assinatura, a fim da personalização de assinaturas presentes no relatório de Ordens de Serviço. Estes relatórios de Ordem de Serviço são utilizados para registrar, comprovar e cobrar pelos serviços prestados ao cliente.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to have registered the employee.
+Antes de cadastrar a assinatura é necessário registrar, anteriormente, o
+colaborador.
 
-Procedure
+Procedimento 
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Subscriptions;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerências de Contratos \> Assinaturas;
 
-2.  In the tab "**Subscription Registration**", complete the fields necessary
-    (responsible, phase and paper);
+2.  Na guia "**Cadastro de Assinaturas**", preencher os campos necessários
+    (responsável, fase e papel);
 
-3.  Click on "Save".
+3.  Clicar em "Gravar" para efetuar a operação.
 
-Related
+Relacionado
 -----------
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um colaborador
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
