@@ -57,3 +57,5 @@ Figura 4 - Tela de criação/edição de objeto de negócio - Aba de "Banco de d
 ![Screenshot](images/business-object-form.png)  
 Figura 5 - Tela de criação/edição de objeto de negócio - Aba de "Formulários"  
 
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior

@@ -195,22 +195,6 @@ Figura 9 - Botão para editar as propriedades de um componente
 Figura 10 - Modal com as propriedades do elemento será exibido para edição   	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior	
 	
