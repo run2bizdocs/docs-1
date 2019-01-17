@@ -1,31 +1,31 @@
-title: Import contract data
-Description:Is intended to import the contract data. 
-#Import contract data
-This functionality is intended to import the contract data.
+title: Importar os dados de contratos
+Description: Tem o objetivo de realizar a importação dos dados de contratos.
+#Importar os dados de contratos
+Esta funcionalidade tem o objetivo de realizar a importação dos dados de contratos.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Import;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Contrato \> Importar;
 
-2.  Select the contract if necessary. Remember that if the file doesn't
-    reference a contract, you shouldn't select a contract, just add the file to
-    import the data;
+2.  Selecionar o contrato, se necessário. Lembrar que se o arquivo não fizer
+    referência a um contrato, não se deve selecionar o contrato, basta adicionar
+    o arquivo para importação dos dados;
 
-3.  Click on "Choose file" to select the file;
+3.  Clicar no botão "Escolher arquivo", para selecionar e anexar o arquivo;
 
-4.  Enter a brief description about the file and click on "Add";
+4.  Informar uma breve descrição do arquivo e apertar no botão "Adicionar";
 
-5.  After add the file, click on "Import";
+5.  Após a adição do arquivo, clicar no botão "Importar";
 
-6.  To confirm the import, click on "OK" . Remember that when importing the
-    data, the system will keep the existing data and add only the non existing
-    data.
+6.  Para confirmar a importação, clicar em "OK" para efetuar a operação. Lembrar
+    que ao fazer a importação dos dados, o sistema irá manter os dados
+    existentes e adicionar somente os dados não existentes.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
