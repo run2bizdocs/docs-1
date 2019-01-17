@@ -105,23 +105,24 @@ Procedimento para vincular SLA específico ao serviço do contrato
 
 4-  Preencher os campos necessários com as seguintes recomendações:
 
-    -   Se informar o tipo de acordo como **Disponibilidade**, além dos campos
-        gerais, será necessário informar o índice de disponibilidade, isto é,
-        definir o percentual de disponibilidade do serviço;
+-   Se informar o tipo de acordo como **Disponibilidade**, além dos campos
+    gerais, será necessário informar o índice de disponibilidade, isto é,
+    definir o percentual de disponibilidade do serviço;
 
-    -   Se informar o tipo de acordo como **Falhas repetitivas**, além dos
-        campos gerais, será necessário informar a quantidade de glosas e o
-        percentual de desconto. Lembrar que é possível informar outros dados do
-        acordo de serviço por falhas repetitivas, ao clicar no ícone “+”;
+-   Se informar o tipo de acordo como **Falhas repetitivas**, além dos campos
+    gerais, será necessário informar a quantidade de glosas e o percentual de
+    desconto. Lembrar que é possível informar outros dados do acordo de serviço
+    por falhas repetitivas, ao clicar no ícone “+”;
 
-    -   Se informar o tipo de acordo como **OS -Resultados esperados**, além dos
-        campos gerais, será necessário informar os dados de resultados esperados
-        e os níveis de qualidade exigidos (resultados esperados, limites, glosa
-        e limite glosa);
+-   Se informar o tipo de acordo como **OS -Resultados esperados**, além dos
+    campos gerais, será necessário informar os dados de resultados esperados e
+    os níveis de qualidade exigidos (resultados esperados, limites, glosa e
+    limite glosa);
 
-    -   Se informar o tipo de acordo como **Tempo (fases)**, além dos campos
-        gerais, será necessário definir os prazos de SLA (acordo de nível de
-        serviço), levando em consideração a prioridade.
+-   Se informar o tipo de acordo como **Tempo (fases)**, além dos campos gerais,
+    será necessário definir os prazos de SLA (acordo de nível de serviço),
+    levando em consideração a prioridade.
+
 
 !!! Abstract "ATENÇÃO"
 
