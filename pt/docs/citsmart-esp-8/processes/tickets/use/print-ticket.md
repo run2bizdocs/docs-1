@@ -1,27 +1,28 @@
-title: Print ticket
+title: Imprimir um Ticket
+Description: Visa permitir imprimir o resumo dos dados principais do ticket desejado.  
+#Imprimir um Ticket
+Esta funcionalidade visa permitir imprimir o resumo dos dados principais do ticket desejado. 
 
-Description: Aims to print the summary the main data of a ticket.
-#Print ticket
-This functionality aims to print the summary the main data of a ticket.
+Antes de Começar
+----------------
 
-Before getting started
---------------------------
+Para visualizar e gerar a impressão é necessário desabilitar o pop-up do
+navegador para o produto.
 
-To view and print a ticket, it's necessary to disable the pop-up of the browser
-to the product.
+ Procedimento 
+--------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Imprimir
+    Solicitação" no menu opções;
 
-2.  Click on the ticket you want and select "Print Request" in the options menu.
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+
 
