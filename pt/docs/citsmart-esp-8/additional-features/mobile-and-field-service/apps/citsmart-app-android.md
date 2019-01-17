@@ -402,7 +402,7 @@ Figura 27 - Tela de check-in
     Ao realizar o check-in, caso a solicitação esteja suspensa, a mesma será
     reativada e capturada.
 
-8-  Após realizar o check-in, será exibida a tela para realizar o check-out;
+8-  Após realizar o check-in será exibida a tela para realizar o check-out;
 
 
 ![check-out](images/app-android-pt-28.jpg)
