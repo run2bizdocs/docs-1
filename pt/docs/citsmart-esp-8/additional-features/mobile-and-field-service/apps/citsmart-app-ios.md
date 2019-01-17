@@ -301,7 +301,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
     atividade ao contrato, a solicitação será direcionada para o grupo definido
     no parâmetro "**ID Grupo Nível 1**";
 
--   **Notificações**:** **marque as opções de envio de notificação sobre a
+-   **Notificações**:marque as opções de envio de notificação sobre a
     solicitação para serem enviadas ao solicitante;
 
 -   **Registro de Execução**: não é necessário o preenchimento deste campo, pois
@@ -311,7 +311,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
 -   **Situação**: selecione a opção que se encaixa com o atual estado da
     solicitação: **Registrada/Em andamento**.
 
-##### **Aprovando/rejeitando solicitação de serviço**
+##### Aprovando/rejeitando solicitação de serviço
 
 Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
 necessário aprová-las.
