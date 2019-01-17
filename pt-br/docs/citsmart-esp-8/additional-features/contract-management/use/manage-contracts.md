@@ -462,6 +462,18 @@ Procedimento para adicionar notificação
 
 5-  Pressionar o botão "Gravar" para efetuar a operação.
 
+Relacionado
+----------------------------------------------
+Acordo de Nível de Serviço	
+
+Cadastrar um grupo	
+
+Cadastrar um contrato	
+
+Definir modelos de e-mail	
+
+Cadastrar serviços
+
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
