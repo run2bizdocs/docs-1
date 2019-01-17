@@ -1,22 +1,22 @@
-title: Register currency
-Description:This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
-#Register currency
-This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
+title: Cadastrar moeda
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as moedas que serão utilizadas em outras rotinas do sistema.
+#Cadastrar moeda
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as moedas que serão utilizadas em outras rotinas do sistema.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Currency;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Contratos \> Moeda;
 
-2.  Complete the fields available;
+2.  Preencher o campo disponibilizado;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
 
