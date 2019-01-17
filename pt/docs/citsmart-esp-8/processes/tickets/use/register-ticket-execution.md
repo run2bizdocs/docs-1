@@ -40,12 +40,12 @@ Procedimento 
     a situação do mesmo para "Resolvida", basta clicar na situação para alterar.
     Informar também os dados sobre a solução realizada:
 
-    -   Se o tipo de ticket for Incidente ou Incidente, preencher os campos
-        necessários (Causa, categoria de solução, detalhamento da causa, solução
-        resposta, definir se a "solução resposta" na Base de conhecimento e se a
-        solução é temporária). Caso tenha optado por "Gravar a Solução/Resposta
-        na base de Conhecimento", ao gravar o ticket, o conhecimento é criado e
-        vinculado ao ticket;
+   -   Se o tipo de ticket for Incidente ou Incidente, preencher os campos
+       necessários (Causa, categoria de solução, detalhamento da causa, solução
+       resposta, definir se a "solução resposta" na Base de conhecimento e se a
+       solução é temporária). Caso tenha optado por "Gravar a Solução/Resposta
+       na base de Conhecimento", ao gravar o ticket, o conhecimento é criado e
+       vinculado ao ticket;
 
 5-  Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
 
