@@ -1,29 +1,29 @@
-Title: Neuro FAQ
+Title: FAQ (Neuro)
 Description: CITSmart - FAQ
 
-#Neuro Frequently Asked Questions (FAQ)
+#FAQ (Neuro)
 
-??? Question "What is the difference between creating a form using the Form menu and via the Business Object?"
-    The creation using the Form menu is 100% manual. If you use the business object menu, you can generate the form from the database. The generated form can be edited in the menu register form.
+??? Question "Qual a diferença entre criar um formulário através do menu Formulário e através do menu Objeto de negócio?"
+    A criação através do menu de Formulário ocorre de forma 100% manual. Através do menu de objeto de negócio, é possível gerar o formulário a partir do modelo do banco de dados. O formulário gerado poderá ser editado no menu de cadastro de formulário.
 
-	How do I create a menu to access my business process?
+	Como eu crio um menu para acessar o meu processo de negócio?
 
-	The creation the menu for business process, is made in the registration of the business process itself by setting the field "menu".
+	A criação do menu para processo de negócio é feita no próprio cadastro de processo de negócio, definindo o campo "Menu associado".
 
-	It is necessary a previously registered menu with two levels, so it can be linked to this process.
+	É necessário que esteja previamente cadastrado um menu com dois níveis para que ele possa ser vinculado à este processo de negócio.
 
-	It is also necessary that after saving the business process with the associated menu, the permissions to the new menu item must be assigned. The assignment of this permission can be accomplished through the menu or the access profile screen.
+	Também é necessário que, após salvo o processo de negócio com menu associado, seja atribuído permissão para o item de menu novo. A atribuição de permissão pode ser realizada através da tela de Menu ou da tela de Perfil de Acesso.
 
-??? Question "How do I create "many-to-many" relationships in the business object?"
-	To create a "many-to-many" relationship, it is necessary to create a third business object to relate the two objects of the desired business.
+??? Question "Como eu crio relacionamentos "muitos para muitos" no objeto de negócio?"
+	Para criar um relacionamento "Muitos para muitos", é necessário criar um objeto de negócio terceiro para relacionar os dois objetos de negócio desejados.
 
-	E.g.: Let's create a many-to-many relationship between two objects, **A** and **B**. We will need an object **C** that will relate with **A** and **B**.
+	Ex: Vamos criar um relacionamento muitos para muitos entre dois objetos, A e B. Para isso, iremos necessitar de um objeto C que irá relacionar os dois.
 
-	The object **A** will have a one-to-many "relationship" with the object **C**, and object **B** will also have a one-to-many "relationship" with the object **C**.
+	O objeto A terá um relacionamento "um para muitos" com o objeto C, e o objeto B também terá um relacionamento "um para muitos" com o objeto C.
 
-	The object **C** we will need to have two relationships, one of them "many-to-one," with the object **A** and the other "many-to-one," with the object **B**.
+	Dentro de nosso objeto C teremos de ter dois relacionamentos, um deles "muitos para um" com o objeto A e o outro "muitos para um" com o objeto B.
 
-	We can relate a data from object **A** to a lot of data of the object **B**, and the object **B** can do the same with object **A**, through the business object **C**.
+	Assim, podemos relacionar um dado do objeto A à vários dados do objeto B, e um dado do objeto B à vários dados do objeto A, através do objeto de negócio C, tendo efetivamente um relacionamento "muitos para muitos"
 
 ??? Question "I would like to know if every workflow must have a business process?"
 	Not every workflow must have or needs a business process. Every Main Workflow needs a business process, however the sub-processes don't require other business processes.
@@ -74,3 +74,6 @@ Description: CITSmart - FAQ
 	The service integration workflow has workflows that were executed, based on system services, such as integrations and conversions, for example.
 
 	There is no problem if a process integration workflow uses a sub-process of the service integration workflow.
+	
+	!!! tip "About"
+    <b>Updated:</b>17/01/2019 - João Pelles Junior
