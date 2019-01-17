@@ -33,16 +33,16 @@ O que fazer depois
 3.  Para ver todas as notificações, clicar na opção "Ver todos", será
     apresentada a tela para verificação das notificações;
 
- -   A notificação com o ícone simbolizado por um envelope aberto, indica que a
+-   A notificação com o ícone simbolizado por um envelope aberto, indica que a
     mesma foi visualizada;
 
- -   A notificação com o ícone simbolizado por um envelope fechado, indica que a
+-   A notificação com o ícone simbolizado por um envelope fechado, indica que a
     mesma não foi visualizada;
 
- -   A notificação com o ícone simbolizando uma atenção, indica que a mesma exija
+-   A notificação com o ícone simbolizando uma atenção, indica que a mesma exija
     confirmação de leitura;
 
- -   A notificação com o ícone simbolizado por um “visto/check”, indica que a
+-   A notificação com o ícone simbolizado por um “visto/check”, indica que a
     leitura da mesma foi confirmada.
 
 !!! tip "About"
