@@ -1,22 +1,23 @@
-title: Register reason for denial of check in
-Description: This functionality allows to register the navigation reasons of the check in. 
-#Register reason for denial of check in
-This functionality allows to register the navigation reasons of the check in, which will be used when make the check in through the CITSmart Enterprise ITSM Mobile application.
+title: Cadastrar o motivo de negação do check in
+Description: Permite registrar o motivo de negação do check in.
+#Cadastrar o motivo de negação do check in
+Esta funcionalidade permite registrar o motivo de negação do check in, o qual será utilizado ao realizar o check in através do aplicativo CITSmart Enterprise ITSM Mobile.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Service Force Management \> Register Reason for Denial of Checkin;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Força de Atendimento \> Cadastro de Motivo de
+    Negação;
 
-2.  Go to the tab "Register Reason for Denial of Checkin" and describe the
-    reason;
+2.  Na aba "Cadastrar Motivo de Negação de Checkin" e descrever o motivo
+    desejado;
 
-3.  Click on "Save".
+3.  Clicar no botão "Gravar" para efetuar a operação.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
