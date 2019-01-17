@@ -1,50 +1,40 @@
-Title: O que é CITSmart?
-Description: Introdução ao produto CITSmart
+Title: What is CITSmart?
+Description: Introduction to the CITSmart product
 
-#O que é CITSmart ?
+#Whats is CITSmart ?
 
-História do CITSmart
---------------------
+## CITSmart History
 
-O CITSmart é um produto que teve sua construção inicial para atender as
-necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o
-cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant,
-através da certificação PinkVerify. Atualmente, o CITSmart atende 13 processos
-dos 16 possíveis. As principais funcionalidades são Gerenciamento de Ticket
-(incidentes e solicitações), Carteira de Serviços e Catálogo, Base de
-Conhecimento, SLA, Mudanças e CMDB. O público-alvo atual do CITSmart são
-empresas que possuem departamentos de TI, bem como a necessidade de soluções de
-ITSM para gerenciar suas TIs.
+CITSmart is a product that had its initial construction to meet the needs of ITSM (IT Service Management),
+mainly for the fulfillment of the ITIL requirements, preached by the institution Pink Elephant, through
+PinkVerify certification. Nowadays, CITSmart meets 13 processes out of the 16 possible. The main
+functionalities are Ticket Management (incidents and requests), Service Portfolio and Catalog, Knowledge
+Base, SLA, Changes and CMDB.
+The current CITSmart target audience are companies that have IT departments, as well as the need of
+ITSM solutions to manage their ITs.
 
-Evolução
-------------
+##Evolution
 
-A principal mudança introduzida no ano passado foi o foco nos processos de
-negócios para além da TI, ou seja, Corporate Service Management, prova disso é a
-adaptação da declaração de serviço que se tornou Conexão de processos.
-Entregando experiências. Esta decisão foi baseada na capacidade do nosso
-Workflow de se adaptar às várias necessidades do negócio, e no Neuro, permitindo
-a construção de novas entradas de dados e possibilidades de integração. Também
-criamos no ano de 2018 os produtos CX - Centro de Experiências. Este produto é
-uma iniciativa para criar um construtor de espaço de trabalho digital.
+The main change introduced in the last year was the focus on business processes beyond IT, that is,
+Corporate Service Management, a proof of this is the adaptation of the service statement that became
+Connecting processes. Delivering experiences.
+This decision was based on the capacity of our Workflow to adapt to various business needs, and Neuro,
+by allowing the construction of new data inputs and integration possibilities.
+We also created in the year 2018 the products CX - Center of Experiences. This product is an initiative to
+create a digital workspace builder. 
 
-Anuva
------
+## Anuva
 
-A ANUVA também foi iniciada e representa a Inteligência Artificial do CITSmart,
-onde promove integração e aprendizado de máquina com conhecimento
+ANUVA was also initiated and represents the Artificial Intelligence of CITSmart, where it promotes
+integration and machine learning with knowledge
 
-Neuro
------
+## Neuro
 
-O NEURO é um produto 100% pronto e adequado no CITSmart, este produto é muito
-poderoso e permite construir novas funcionalidades, aplicações e integrações. É
-muito próximo dos produtos RPA (automação de processos de robótica), mas traz
-diferentes possibilidades, como a integração natural com a estrutura de Service
-Management (SLAs, conhecimento, portfólio, tickets, portal de serviços, entre
-outros). Além disso, entendemos que os conceitos de Service Management são muito
-poderosos e podem ir além da TI, permitindo ganhos interessantes para as
-unidades de negócio.
+NEURO is a product that has been 100% ready and adequate within CITSmart, this product is very powerful
+and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the
+Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others).
+In addition, we understand that the concepts of Service Management is very powerful and can go beyond
+IT, allowing interesting gains to the business units.
 
 !!! tip "About"
 
