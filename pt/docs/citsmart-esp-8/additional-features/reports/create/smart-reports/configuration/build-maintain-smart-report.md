@@ -1,6 +1,6 @@
-title: Build and maintain smart reports - V 8
+title: Build and maintain smart reports
 Description: Intended to provide the ease of custom reporting with the required functionality data, without the need for new updates or additional software.
-#Build and maintain smart reports - V 8
+#Build and maintain smart reports
 
 This functionality is intended to provide the ease of custom reporting with the
 required functionality data, without the need for new updates or additional

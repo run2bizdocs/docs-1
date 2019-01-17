@@ -1,1 +1,3 @@
-Title: Use
+Title: Use Smart Reports
+
+# Use Smart Reports
