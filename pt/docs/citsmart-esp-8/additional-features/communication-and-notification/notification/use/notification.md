@@ -1,4 +1,4 @@
-title: Register notification
+title: Register notification automatic action
 Description: This feature provides a variety of actions, such as including, changing, and deleting a warning message.
 #Register notification
 The Notification functionality is intended to create a warning message to notify users about the information of the organization.

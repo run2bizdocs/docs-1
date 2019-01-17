@@ -27,8 +27,7 @@ Este documento foi estruturado em três seções:
 
 Antes de começar
 ----------------
-É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise e também Configurar o servidor para uso do aplicativo mobile CITSmart Enterprise (ver documentos: Manual de configuração do servidor para uso do CITSmart ITSM Enterprise (iOS e
-Android) e Cadastro e Pesquisa das Configurações das Opções de Mobile
+É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise e também Configurar o servidor para uso do aplicativo mobile CITSmart Enterprise (ver documentos relacionados)
 
 Instalação e configuração do app no mobile
 ------------------------------------------
@@ -45,13 +44,13 @@ aplicativo na loja on-line (App Store).
 3-  Para criar uma conexão, pressione o ícone com "Criar conexão", conforme
     indicado na figura abaixo:
 
-![Criar conexão](images/ios-app-pt-1.png)
+![Criar conexão](images/ios-app-pt-1.jpg)
 
 Figura 1 - Criar conexão
 
 4-  Será apresentada a tela “Nova conexão” para registro da conexão;
 
-![Registro conexão](images/ios-app-pt-2.png)
+![Registro conexão](images/ios-app-pt-2.jpg)
 
 Figura 2 - Registro de conexão
 
@@ -67,7 +66,7 @@ Figura 2 - Registro de conexão
    -   **Domínio\\Usuário:** A partir dessa versão o usuário terá que informar
         o domínio LDAP de uso e seu usuário;
 
-        -  O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
+         + O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
            primeira parte é a informação do domínio e a segunda parte é o usuário;
 
    -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
@@ -85,7 +84,7 @@ Figura 2 - Registro de conexão
 
     Caso o aparelho seja trocado, esta conexão deve ser deletada. 
 
-6-  Após informar os dados da conexão desejada, pressione no botão *Criar*;
+6-  Após informar os dados da conexão desejada, pressione no botão "Criar";
 
 7-  Depois de adicionada a conexão, aparecerá a listagem das conexões criadas.
     Para alterar uma conexão, basta selecionar a conexão desejada e fazer a
@@ -95,7 +94,7 @@ Figura 2 - Registro de conexão
 
 9-  Digite usuário e senha:
 
-![login](images/ios-app-pt-3.png)
+![login](images/ios-app-pt-3.jpg)
 
 Figura 3 - login
 
@@ -108,24 +107,24 @@ Utilização do app no mobile
 1-  Após realizar a conexão, será apresentada a tela menu, onde clicará na opção
     Tickets de Serviços.
 
-![Tela de login](images/ios-app-pt-4.png)
+![Tela de login](images/ios-app-pt-4.jpg)
 
 Figura 4 - Tela de login
 
 2-  Para escolher o tipo de solicitação que deseja visualizar, clique no
     ícone localizado no canto esquerdo superior;
 
-![Localizar](images/ios-app-pt-5.png)
+![Localizar](images/ios-app-pt-5.jpg)
 
 Figura 5 - Localizar solicitação
 
 3-  São apresentados filtros:
 
-![Filtros](images/ios-app-pt-6.png)
+![Filtros](images/ios-app-pt-6.jpg)
 
 Figura 6 - Filtros
 
-![Filtros continuação](images/ios-app-pt-7.png)
+![Filtros continuação](images/ios-app-pt-7.jpg)
 
 Figura 7 - Filtros (continuação)
 
@@ -134,7 +133,7 @@ Figura 7 - Filtros (continuação)
 5-  Será apresentada a lista de solicitações de serviço, conforme o filtro
     escolhido:
 
-![Lista de ticket](images/ios-app-pt-8.png)
+![Lista de ticket](images/ios-app-pt-8.jpg)
 
 Figura 8 - Lista de ticket
 
@@ -147,7 +146,7 @@ Figura 8 - Lista de ticket
 6-  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
     opções, sendo:
 
-![Lista de](images/ios-app-pt-9.png)
+![Lista de](images/ios-app-pt-9.jpg)
 
 Figura 9-Lista de ticket
 
@@ -172,7 +171,7 @@ Figura 9-Lista de ticket
     canto direito inferior da tela e selecione o ícone  “Novo ticket”, conforme
     ilustrado abaixo:
 
-![Criação de solicitação](images/ios-app-pt-10.png)
+![Criação de solicitação](images/ios-app-pt-10.jpg)
 
 Figura 10 – Criação de solicitação de serviço
 
@@ -211,7 +210,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
     tipo de resposta) dos serviços já solicitados por ele. Por uma questão de
     desempenho e de preservação do layout da tela, esses dois resumos são
     paginados, ou seja, é possível avançar/retroceder para visualizar todas as
-   informações.
+    informações.
 
 -   **Telefone**: informe o número de telefone do solicitante;
 
@@ -242,7 +241,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
 -   **Tipo**: selecione o tipo da solicitação, se é uma abertura de incidente ou
     requisição de serviço:
 
-    -   **Incidente**:** **caso a situação apresentada seja uma interrupção não
+    -   **Incidente**:caso a situação apresentada seja uma interrupção não
         planejada, uma redução na qualidade do serviço ou falha de algum item de
         configuração que ainda não tenha impactado um serviço de TI. Ex.: O link
         de rede está fora, a rede está lenta, o servidor inacessível, etc.;
@@ -301,7 +300,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
     atividade ao contrato, a solicitação será direcionada para o grupo definido
     no parâmetro "**ID Grupo Nível 1**";
 
--   **Notificações**:** **marque as opções de envio de notificação sobre a
+-   **Notificações**:marque as opções de envio de notificação sobre a
     solicitação para serem enviadas ao solicitante;
 
 -   **Registro de Execução**: não é necessário o preenchimento deste campo, pois
@@ -311,7 +310,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
 -   **Situação**: selecione a opção que se encaixa com o atual estado da
     solicitação: **Registrada/Em andamento**.
 
-##### **Aprovando/rejeitando solicitação de serviço**
+##### Aprovando/rejeitando solicitação de serviço
 
 Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
 necessário aprová-las.
@@ -346,6 +345,7 @@ Relacionado
 Manual de confguração do servidor CITSmart Enterprise para uso de APPs (iOS e Android)
 
 Configurar as opções de mobile
+
 
 
 !!! tip "About"

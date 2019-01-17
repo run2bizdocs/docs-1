@@ -1,32 +1,32 @@
-title: Verify scheduled periodic activities
-Description:Allows to view the activities scheduled.
-#Verify scheduled periodic activities
-This functionality is intended to verify the scheduled activities related to request and incident management, problem management, change management and release management to execute them.
-In this screen, in a calendar format, allows to view the activities scheduled.
+title: Verificar as atividades periódicas agendadas
+Description: Esta tela, em formato de calendário, permite visualizar as atividades programadas. 
+#Verificar as atividades periódicas agendadas
+Esta funcionalidade tem por objetivo verificar as atividades agendadas referentes ao gerenciamento de requisição e incidente, gerenciamento de problema, gerenciamento de mudança e gerenciamento de liberação para execução das mesmas.
+Esta tela, em formato de calendário, permite visualizar as atividades programadas.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Automation on Operations \> Schedule Periodic Activities;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Automação de Operações \> Agenda de Atividades Periódicas;
 
-2.  Configure the filters to find the periodic activity you want;
+2.  Configurar os filtros para encontrar a atividade periódica desejada;
 
-3.  Click on the activity and it'll be presented the screen to register its
-    execution;
+3.  Clicar sobre a atividade escolhida e será, então, apresentada a tela para
+    registrar a execução da mesma;
 
-4.  Complete the fields available, even inform the status of the activity
-    execution (if it was executed, in execution or suspended);
+4.  Preencher os campos necessários, inclusive informar a situação da execução
+    da atividade (se a mesma foi executada, está em execução ou foi suspensa);
 
-5.  Click on "Save";
+5.  Clicar no botão "Gravar" para efetuar a operação;
 
-6.  Remember that if the activity is in execution, it'll be presented in blue.
-    However, if the activity was already executed, it'll be presented in green
-    and if the activity is suspended, it'll be presented in grey.
+6.  Lembrar que se a atividade estiver em execução, será exibida com a cor azul.
+    Porém, se a atividade já foi executada, será exibida com a cor verde e se a
+    atividade estiver suspensa, será exibida com a cor cinza.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
