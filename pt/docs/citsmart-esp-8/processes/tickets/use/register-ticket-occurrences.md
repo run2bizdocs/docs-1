@@ -1,77 +1,76 @@
-title:  Register ticket occurrences
- 
-Description: This functionality allows to register eventual occurrences of the execution of a ticket.
+title: Cadastrar ocorrências referentes ao ticket
+Description: Permite registrar eventuais ocorrências referente a execução do ticket. 
+#Cadastrar ocorrências referentes ao ticket
+A funcionalidade permite registrar eventuais ocorrências referente a execução do ticket.
 
-#Register ticket occurrences
-This functionality allows to register eventual occurrences of the execution of a ticket.
+Antes de Começar
+----------------
 
-Before getting started
---------------------------
+Para registrar ocorrências referente ao ticket é necessário o cadastro prévio
+deste e possuir permissão para executar o mesmo. É necessário anteriormente,
+habilitar o parâmetro 298 (setar para o "S").
 
-To register occurences of a ticket, it's necessary to previously register a
-ticket and have permission to execute it. It's necessary to first enable
-parameter 298 (set to "S").
+É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
+ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 
-IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
-occurrence and the notification e-mail template ID in parameter 251.
+Procedimento
+------------
 
-Procedure
--------------
+1-  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-1-  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+2-  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+    ícone “Abrir”;
 
-2-  Click on the ticket you want and then on the icon “Open”;
+3-  Na área intitulada "Execução", clicar no botão "Adicionar nota" e relatar a
+    ocorrência referente ao ticket e a data que a mesma sucedeu. É possível,
+    também registrar o tempo gasto para a solução da ocorrência. É
+    disponibilizado a visualização deste relato pelo solicitante e o envio do
+    mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e
+    "Enviar ao e-mail".
 
-3-  In "Execution", click on "Add note" and report the occurrence referring to
-    the ticket and the date that it happened. It's also possible to save the
-    time taken to solve the problem. It's available the visualization of this
-    report by the requester and the sending of the same to his/her email by
-    selecting the options "Visible to the requester" and "Send to e-mail".
+!!! Abstract "ATENÇÃO"  
 
-!!! Abstract "NOTE"  
+    Existe outro caminho para cadastrar alguma ocorrência referente ao ticket.
+    Basta clicar no ícone “Adicionar nota”, localizado no canto direito superior
+    da tela e preencher os campos conforme as orientações acima.
 
-    There is another way to register some occurrence related to the
-    ticket. Just click on the icon  “Add note”, located in the upper right
-    corner of the screen and complete the fields as the guidance above.  
-    Occurrences registrations and their possible solution will be available
-    for review by the requester (only if the executor marks the "Visible to the
-    requester" option) on the occurrence history tab within the Smart Portal "My
-    Requests" functionality.
- 
+    Os registros das ocorrências e sua eventual solução estarão disponíveis
+    para análise do solicitante (somente se o executor marcar a opção "Visível
+    ao solicitante") na aba de histórico de ocorrências, dentro da
+    funcionalidade "Minhas Solicitações" do Smart Portal.
 
-4-  Occurrence history is available by clicking the icon “History”. All
-    occurrences of the request will be presented in the "Ticket" tab and all the
-    communications between the requester and executor made by "Chat" mode in the
-    tab of the same name.
+4-  O histórico de ocorrência está disponível ao clicar no ícone “Histórico”.
+    Será apresentado todas as ocorrências da solicitação na aba "Ticket" e toda
+    as comunicações entre solicitante e executor feita pelo modo "Chat" na aba
+    de mesmo nome.
 
-!!! Abstract "NOTE"  
+!!! Abstract "ATENÇÃO"
 
-    To present the communications made by the "Chat", in the occurrence
-    history, it must be enabled.  
- 
-5-  It's possible to send a message from the executor of the ticket to the
-    requester of the ticket, just click on the icon “Message to the requester” ,
-    describe the communication and mark if you want this content to be sent to
-    the requester's email. This message will be available in the area of the
-    request of the requester in the Smart portal.
-    
-Related
+    Para apresentar as comunicações feita pelo "Chat" no histórico de
+    ocorrência, o mesmo deve estar habilitado.
+
+5-  É possível o envio de mensagem do executor do ticket para o solicitante do
+    mesmo, basta clicar no ícone “Mensagem ao solicitante”, descrever o
+    comunicado e marcar se deseja que este conteúdo seja enviado para o e-mail
+    do solicitante. Esta mensagem ficará disponível na área das solicitações do
+    requerente no Smart portal.
+
+Relacionado
 -----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+A área de trabalho da Central de Serviços
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+Criar um ticket
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Cadastrar um grupo
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
 

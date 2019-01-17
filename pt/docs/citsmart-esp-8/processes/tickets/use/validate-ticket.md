@@ -1,43 +1,48 @@
-title: Validate and close the ticket
-Description: After attend the ticket, its execution should be validated and the ticket closed.
-#Validate and close the ticket
-After attend the ticket, its execution should be validated and the ticket closed.
+itle: Validar e encerrar o ticket
 
-Before getting started
---------------------------
+Description: Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
-It's necessary to previously register the ticket and have permission to validate
-it.
+#Validar e encerrar o ticket
+Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
-Procedure
--------------
+Antes de começar
+----------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+É necessário o cadastro prévio do ticket e possuir permissão para validar o
+mesmo.
 
-2.  Click on the ticket and then in the icon “Open”;
+Procedimento
+------------
 
-3.  Certify the ticket attendance was done according to the demand;
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-4.  In the field **Execution Registration**, describe if the information about
-    the activity execution;
+2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+    ícone “Abrir”;
 
-5.  Click on the option button and then on "Save".
+3.  Certificar se o atendimento do ticket foi realizado de acordo com o que foi
+    solicitado;
 
-Related
+4.  No campo **Registro de Execução**, descrever as informações sobre a execução
+    da atividade;
+
+5.  Clicar no botão opções e em seguida gravar para efetuar a operação.
+
+Relacionado
 -----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+A área de trabalho da Central de Serviços
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+Criar um ticket
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Cadastrar um grupo
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

@@ -1,42 +1,41 @@
-title: Hierarchical escalation in the attendance
+title: Escalonamento hierárquico no atendimento
+Description: É possível escalonar o atendimento a outro nível hierárquico.
+#Escalonamento hierárquico no atendimento
+O atendente ao tentar resolver o problema do usuário, identifica que sua demanda foge de sua política e todas as ações que ele pode executar, assim é possível escalonar o atendimento a outro nível hierárquico.
 
-Description: It's possible to escalate the attendance to another hierarchical level.
-#Hierarchical escalation in the attendance
-The attendant, when solving a user problem, identifies that its demand is out of his/her policy and all the action possible to execute it, so, it's possible to escalate the attendance to another hierarchical level.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Para fazer o escalonamento hierárquico de um ticket é necessário ter permissão
+no grupo a qual o atendente pertença, para executar tal ação.
 
-To the hierarchical escalation of a ticket, it's necessary to have permission in
-the group to which the attendant belongs to.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+    Requisição e Incidente \> Ticket;
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+2.  Clicar duas vezes sobre um ticket;
 
-2.  Double click on the ticket;
+3.  Escolher para qual grupo será direcionado o ticket no campo "Direcionar para
+    grupo".
 
-3.  Choose to which group the ticket will be directed in the field "Direct to
-    group".
+O que fazer a seguir
+--------------------
 
-What to do next
--------------------
+Checar na página inicial de listagem de tickets, se na coluna "Grupo Atual" o
+ticket foi escalonado para grupo correto.
 
-Verify in the home page of ticket list, if in the column "Current Group" the
-ticket was escalated to the right group.
-
-Related
+Relacionado
 -----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

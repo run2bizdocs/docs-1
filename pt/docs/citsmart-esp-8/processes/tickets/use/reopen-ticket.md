@@ -1,37 +1,37 @@
-title: Reopen ticket
+title: Reabrir um ticket
+Description: Permite reabrir o ticket finalizado.
+#Reabrir um ticket
+A funcionalidade permite reabrir o ticket finalizado.
 
-Description: Allows to reopen a closed ticket.
-#Reopen ticket
-This functionality allows to reopen a closed ticket.
+Antes de começar 
+-----------------
 
-Before getting started
---------------------------
+É necessário o cadastro prévio dos tickets.
 
-It's necessary to previously register tickets.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+2.  Clicar no botão de menu localizado no canto superior esquerdo da tela e
+    depois clicar no item de "Pesquisa Avançada"*;*
 
-2.  Click the menu button located in the upper left corner of the screen and
-    then on the item "Advanced Search"*;*
+3.  Localizar o ticket desejado e logo clicar no botão "Ação" e em seguida
+    "Reabrir ticket';
 
-3.  Click on the ticket you want and then on "Action" and "Reopen Ticket/Task";
+4.  Confirmar a reabertura do ticket.
 
-4.  Confirm the ticket reopen.
-
-Related
+Relacionado
 -----------
 
-[The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+A área de trabalho da Central de Serviços
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Criar um ticket
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

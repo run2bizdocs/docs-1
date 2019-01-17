@@ -1,19 +1,18 @@
-title: Register reason for activity suspension
-Description: This feature provides a variety of actions, such as including, changing, and deleting the reasons for the periodic activity suspension.
-#Register reason for activity suspension
-This feature provides a variety of actions, such as including, changing, and deleting the reasons for the periodic activity suspension.
+title: Cadastrar motivo de suspensão de atividade
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
+#Cadastrar motivo de suspensão de atividade
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu General Registration \>
-    Reason of Activity Suspension;
+1.  Acessar o menu principal Cadastros Gerais \> Motivo Suspensão de Atividade;
 
-2.  Complete the fields available;
+2.  Preencher o campo disponibilizado;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

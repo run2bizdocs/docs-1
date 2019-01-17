@@ -1,32 +1,32 @@
-title: Reactivate a ticket suspended
-Description: This functionality allows to reactivate a ticket suspended. 
-#Reactivate a ticket suspended
-This functionality allows to reactivate a ticket suspended.
+title: Reativar um ticket suspenso
+Description: Permite reativar um ticket suspenso. 
+#Reativar um ticket suspenso
+A funcionalidade permite reativar um ticket suspenso.
 
-Before getting started
---------------------------
+Antes de Começar
+----------------
 
-It's necessary to have permission to reactivate a ticket suspended.
+É necessário possuir permissão para reativar o ticket suspenso.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2.  Click on the ticket and select "Reactivate" in the options menu;
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Reativar" no menu
+    opções;
 
-3.  Confirm the reactivation of the ticket.
+3.  Confirmar a reativação do ticket.
 
-Related
+Relacionado
 -----------
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço

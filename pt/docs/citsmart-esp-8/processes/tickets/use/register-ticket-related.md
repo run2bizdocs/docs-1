@@ -1,67 +1,63 @@
-title: Register ticket related
+title: Cadastrar ticket relacionado
+Description: Permite cadastrar um ticket com atividades relacionada ao ticket original.
+#Cadastrar ticket relacionado
+A funcionalidade permite cadastrar um ticket com atividades relacionada ao ticket original.
 
-Description: This functionality allows to register a ticket with activities related to the original ticket.
+Antes de começar
+----------------
 
-#Register ticket related
-This functionality allows to register a ticket with activities related to the original ticket.
+É necessário o cadastro prévio do colaborador, contrato e unidade. Também é
+preciso vincular o grupo ao contrato, a unidade ao contrato e o contrato ao
+serviço.
 
-Before getting started
---------------------------
+Cadastrar o portfólio com os serviços e as atividades de requisição e incidente.
+Definir o tempo de atendimento das atividades de requisição e incidente.
 
-It's necessary to previously register the employee, contract and unity. It's
-also necessary to link the group to the contract, unit to the contract and
-contract to the service.
+Vincular as atividades de requisição e incidente ao contrato do serviço.
+Configurar o parâmetro 385 com o valor 'S'.
 
-Register the portfolio with services and activities of request and incident. Set
-the time of attendance for the activities of request and incident.
+Procedimento
+------------
 
-Link the activities of request and incident to the service contract. Set the
-parameter 385 with value 'Y'.
+1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-Procedure
--------------
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar Solicitação
+    Relacionada" no menu opções;
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+3.  Preencher os campos necessários e clicar no botão "Gravar e manter tarefa
+    atual". O ticket relacionado será direcionado para o grupo executor definido
+    no registro do vínculo da atividade, o mesmo será direcionado para o grupo
+    executor definido no parâmetro 9;
 
-2.  Click on the ticket you want and select "Create Related Request" in the
-    options menu;
+4.  Lembre-se que o sistema enviará e-mails de notificação a respeito de
+    criação, escalonamento, captura, encerramento e demais alterações dos
+    tickets relacionados para o grupo executor do ticket principal.
 
-3.  Complete all mandatory fields and click on "Save'. The ticket related will
-    be directed to the executor group defined in the activity link registration,
-    to the executor group defined in the parameter 9;
-
-4.  Note that the system will send notification e-mail about the creation,
-    escalation, capture, close and other changes in the related tickets to the
-    executor group of the main ticket.
-
-Related
+Relacionado
 -----------
 
-[How to relate group to contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+Criar portfólio
 
-[How to relate unit to contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+Cadastrar um colaborador
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar uma unidade
 
-[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+Cadastrar um serviço
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Configurar atributos de serviço
 
-[Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+Criar tempo de atendimento
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Configurar parametrização - sistema
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Como relacionar unidade ao contrato
 
-[Configure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
