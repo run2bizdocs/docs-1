@@ -31,7 +31,7 @@ Para instalar MongoDB, recomenda-se seguir a seguinte configuração:
 | **CPU**     | 2 CPU's |
 | **Disco**   | 80 GB   |
 
-## Indexing system
+## Indexação do sistema
 
 Para instalar Apache SOLR, recomenda-se seguir a seguinte configuração:
 
