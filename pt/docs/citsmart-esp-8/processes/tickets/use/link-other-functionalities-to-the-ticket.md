@@ -1,88 +1,86 @@
-title: Link other functionalities to the ticket
+title: Vincular outras funcionalidades ao ticket
+Description: É possível vincular ao ticket a outras funcionalidades. 
+#Vincular outras funcionalidades ao ticket
+É possível vincular ao ticket a outras funcionalidades, tais como: problemas, mudança, projeto, dentre outros com o intuito de incluir maiores informações ao atender a solicitação/requisição.
 
-Description: It's possible to link other functionalities to the ticket.
-#Link other functionalities to the ticket
-It's possible to link other functionalities to the ticket, such as: problems, change, project, and others to include more information when attending the request.
+Antes de Começar
+----------------
 
-Before getting started
---------------------------
+Para realizar o vínculo é necessário o cadastro prévio de problemas, mudanças,
+liberações, itens de configuração, projetos, conhecimentos além de configurar os
+parâmetros 9, 23, 24, 25, 26, 27, 28, 72 e 385.
 
-To link, it's necessary to previously register the problem, change, release,
-configuration item, projects, knowledge, in addition to the configuration of
-parameters 9, 23, 24, 25, 26, 27, 28, 72 and 385.
-
-Procedure
+Procedimento 
 -------------
 
-1.  Access the functionality by the main menu Processes \> Request and Incident
-    Management \> Service Request and Incident;
+1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
+    Requisição e Incidente \> Ticket;
 
-2.  To inform the ticket (request/incident) complementary data, check the option
-    of capture or view;
+2.  Para informar os dados complementares do ticket (requisição ou incidente),
+    marque a opção de captura ou visualização deste;
 
-3.  To view the information abouth the specific fields, click on the
-    tabs: **Requester, Request, Execution and Closure**;
+3.  Para visualizar informações sobre campos específicos, clicar nas guias:
+    **Solicitante**, **Requisição**, **Execução** e **Fechamento**;
 
-4.  To link **Sub-requests**, click on its area and then on "Create subrequest"
-    to create a new request, or click on "Create subrequest by copy" to register
-    a new request with the same data of the original request;
+4.  Para vincular **Sub-solicitações**, clicar na área de mesmo nome e apertar
+    em "Criar sub-solicitação" para criar uma nova solicitação ou clicar "Criar
+    sub-solicitação por cópia" para cadastrar uma nova solicitação com os mesmos
+    dados da solicitação original;
 
-5.  To link **Related Requests**, click on the area of same name, and then on
-    "Search Request", press the request you want and then on "Link Requests".
+5.  Para vincular **Solicitações relacionadas**, clicar na área de mesmo nome e
+    em seguida "Pesquisar Solicitações", apertar na solicitação desejada e em
+    seguida no botão "Vincular Solicitações";
 
-6.  To link a configuration item of the requester, click on **Requester CI** and
-    then on the icon “Link configuration item” to perform the operation;
+6.  Para vincular um item de configuração do solicitante, clicar em **IC do
+    Solicitante** e em seguida clicar em “Vincular item de configuração” para
+    realizar a operação;
 
-7.  To link a **Related Configuration Item**, click on "Related CI" and then on
-    "Search Configuration Item". Search for the item you want and then click on
-    "Select";
+7.  Para vincular um **Item de Configuração Relacionado**, clicar "IC
+    Relacionado" e em seguida "Pesquisa Item de Configuração". Pesquisar pelo
+    item desejado e apertar no botão "Selecionar";
 
-8.  To link a **Project**, click on the area with same name and then in the
-    field project. Link the item you want;
+8.  Para vincular um **Projeto**, clicar na área de mesmo nome e seguida no
+    campo projeto e vincule o item desejado;
 
-9.  To view the periodic activities, click on **Agenda**;
+9.  Para visualizar as atividades periódicas, clicar em **Agenda**;
 
-10. To verify the e-mails received about the request, click on the area **E-mail
-    Reading** and then "Verify e-mails". Note that the e-mail reading will be
-    only used if the parameters are correctly configured;
+10. Para verificar os e-mails recebidos sobre a solicitação, clicar na área
+    **Leitura de e-mails** e em seguida "Verificar e-mails". Lembrando que a
+    leitura de e-mail só será realizada se os parâmetros estiverem configurados
+    corretamente;
 
-11. To view the physical position of the attendant, click on "Monitoring";
+11. Para visualizar o posicionamento físico do atendente, clicar em
+    **Acompanhamento**;
 
-12. To link a **Knowledge**, click on the corresponding tab, in the button
-    "Search Knowledge", search and click on the knowledge you want to link it;
+12. Para vincular um **Conhecimento**, clicar na guia correspondente, no botão
+    "Pesquisa de Conhecimentos" e realizar a busca e apertar sobre o
+    conhecimento desejado para realizar o vínculo;
 
-13. To link a **Problem**, click on the corresponding tab and link the item with
-    the functionality you want. If you want to register a new item, click on
-    "Problem Registration";
+13. Para vincular um **Problema**, clicar na guia correspondente e vincular o
+    item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
+    no botão "Cadastrar Problema";
 
-14. To link a **Change**, click on the corresponding tab and link the item with
-    the functionality you want. If you want to register a new item, click on
-    "Change Registration";
+14. Para vincular uma **Mudança**, clicar na guia correspondente e vincular o
+    item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
+    no botão "Cadastrar Mudança";
 
-15. To link a **Release**, click on the corresponding tab and link the item with
-    the functionality you want. If you want to register a new item, click on
-    "Release Registration".
+15. Para vincular uma **Liberação**, clicar na guia correspondente e vincular o
+    item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
+    no botão "Cadastrar nova liberação".
 
-Related
+Relacionado
 -----------
 
-[Register configuration item](/en-us/citsmart-esp-8/processes/configuration/use/register-CI.html)
+Criar conhecimento
 
-[Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+Cadastrar um problema
 
-Register request of change
+Cadastrar item de configuração
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+Cadastrar um projeto
 
-Register problem
+Cadastrar uma requisição de mudança
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+Cadastrar uma requisição de liberação
 
-[Register project](/en-us/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
-
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+Configurar parametrização - ticket
