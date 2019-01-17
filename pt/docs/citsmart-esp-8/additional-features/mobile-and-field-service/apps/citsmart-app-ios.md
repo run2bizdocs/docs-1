@@ -242,7 +242,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
 -   **Tipo**: selecione o tipo da solicitação, se é uma abertura de incidente ou
     requisição de serviço:
 
-    -   **Incidente**:** **caso a situação apresentada seja uma interrupção não
+    -   **Incidente**:caso a situação apresentada seja uma interrupção não
         planejada, uma redução na qualidade do serviço ou falha de algum item de
         configuração que ainda não tenha impactado um serviço de TI. Ex.: O link
         de rede está fora, a rede está lenta, o servidor inacessível, etc.;
