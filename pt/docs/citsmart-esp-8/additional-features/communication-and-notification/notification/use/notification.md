@@ -1,54 +1,51 @@
-title: Register notification automatic action
-Description: This feature provides a variety of actions, such as including, changing, and deleting a warning message.
-#Register notification
-The Notification functionality is intended to create a warning message to notify users about the information of the organization.
-The notifications registered will be presented during the period established in this register. After the period, the system will inactivate the notifications.
-The system present the increased notification counter only when there is the notification that demands reading confirmation.
-This feature provides a variety of actions, such as including, changing, and deleting a warning message.
+title: Cadastrar notificação 
+Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir mensagens de alerta.
+#Cadastrar notificação
+A funcionalidade de Notificação tem por objetivo criar mensagens de alerta no intuito de notificar os usuários sobre informações acerca da organização.
+As notificações registradas, serão exibidas durante o período estabelecido neste registro. Após passar o período, o sistema irá inativar as notificações.
+O sistema mostra o contador de notificação incrementado somente quando existir notificação que exige confirmação de leitura.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir mensagens de alerta.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu System \> Notifications \>
-    Notification;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Notificações \> Notificação;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  If the notification is to an user, click on "link user" or if it's to an
-    user group, click on "Link Group";
+4.  Se a notificação é destinada a um usuário, clicar em "vincular usuário" ou
+    caso seja direcionada a um grupo de usuários, clicar em "Vincular Grupo"
 
-5.  Click on "Save".
+5.  Clicar em "Gravar".
 
-What to do next
--------------------
+O que fazer depois
+------------------
 
-1.  The messages can be viewed in the home screen, in the Smart Portal, internal
-    area or in the Experience Portal;
+1.  As mensagens poderão ser visualizadas na tela inicial, na no Smart Portal,
+    área interna ou no Portal de Experiência;
 
-2.  Click on the Notifications tab “Notifications” and then on "View" to check
-    the message;
+2.  Clicar na guia “Notificações” e depois em "Visualizar" para checar a
+    mensagem;
 
-3.  To see all notifications, click on "See all", it will be presented the
-    screen to verify the notifications;
+3.  Para ver todas as notificações, clicar na opção "Ver todos", será
+    apresentada a tela para verificação das notificações;
 
--   The notification with the icon symbolizing the open envelope, indicates that
-    the message was viewed;
+-   A notificação com o ícone simbolizado por um envelope aberto, indica que a
+    mesma foi visualizada;
 
--   The notification with the icon symbolizing the closed envelope, indicates
-    that the message wasn't viewed;
+-   A notificação com o ícone simbolizado por um envelope fechado, indica que a
+    mesma não foi visualizada;
 
--   The notification with the icon symbolizing an attention, indicates that the
-    message demands reading confirmation;
+-   A notificação com o ícone simbolizando uma atenção, indica que a mesma exija
+    confirmação de leitura;
 
--   The notification with the icon symbolizes a visa/check, indicates that its
-    reading was confirmed.
+-   A notificação com o ícone simbolizado por um “visto/check”, indica que a
+    leitura da mesma foi confirmada.
 
-    
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
