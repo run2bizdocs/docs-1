@@ -43,7 +43,7 @@ e esse conceito é a nova maneira de se conectar com a nova geração de cliente
 
 Um conceito de serviços:
 
-*"é um produto da atividade humana que satisfaz uma necessidade. Representa
+*"É um produto da atividade humana que satisfaz uma necessidade. Representa
 valor para alguém".*
 
 Serviços definem metas. Representa em sua essência "resultados" e "realização de
