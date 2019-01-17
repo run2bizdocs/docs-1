@@ -1,45 +1,47 @@
-title: Configure daily route
-Description: Is intended to configure the daily schedule fields technicians
-#Configure daily route
-This functionality is intended to configure the daily schedule fields technicians. After configure it, the technical will have a list of requests that will be attended via Mobile.
-This screen allows the search for requests according to the filters informed, that is, according to their needs, in order to direct the open requests to be answered by the field technician.
+title: Configurar as rotas diárias
+Description: Tem por objetivo configurar a agenda diárias dos técnicos de campo
+#Configurar as rotas diárias
+Esta funcionalidade tem por objetivo configurar a agenda diárias dos técnicos de campo. Após a configuração, o técnico terá uma lista de solicitações que serão atendidas por via Mobile.
+Esta tela permite realizar a pesquisa de solicitações de acordo com os filtros informados, ou seja, de acordo com sua necessidade, a fim de direcionar as solicitações abertas para serem atendidas pelo técnico de campo.
 
-Before getting started
---------------------------
+Antes de começar
+----------------
 
-It's necessary to previously configure the system connection with Google APIs.
+Antes de configurar a agenda diárias dos técnicos de campo é necessário
+configurar a conexão do sistema com as API's do Google.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Service Force Management \> Daily Routes Management;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Força de Atendimento \> Gerência de Rotas Diárias;
 
-2.  Define the filters as needed and click on Search. It'll be presented the
-    requests to which the technician is allowed to execute with the following
-    situations (not attended, in attendance, attended with pending);
+2.  Definir os filtros conforme a necessidade e clicar no botão Pesquisar. Será
+    apresentado as solicitações as quais o técnico tem permissão de execução com
+    as seguintes situações (não atendida, em atendimento, atendida com
+    pendência);
 
-3.  Direct the available service requests to the technician to perform the
-    service through these steps:
+3.  Direcionar as solicitações de serviços disponíveis para o técnico realizar o
+    atendimento através destes passos:
 
-    -   Select the requests that will be attended by the technician and inform
-        the priority of the attendance of the requests;
+    -   Selecionar as solicitações que serão atendidas pelo técnico e informar a
+        prioridade do atendimento das solicitações;
 
-        -   In the field "**Execution Date**", enter the expected date to
-            execute the requests;
+    -   No campo** **"**Data de execução**", informar a data prevista para
+        execução das solicitações;
 
-    -   After select the requests, the route markers that the technician should
-        follow are displayed on the map. Remember that when you click on the
-        route marker, the service request information will be displayed.
+    -   Após selecionar as solicitações, será apresentado no mapa os marcadores
+        da rota que o técnico deverá seguir. Lembrar que ao clicar no marcador
+        da rota, serão apresentadas as informações da solicitação de serviço.
 
-4.  Click on "Save". After saving, a notification will be sent to the
-    technician, where he/she can check the CITSmart Enterprise ITSM Mobile
-    application for the requests that will be attended by him/her.
-    
-    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+4.  Clicar no botão "Gravar" para efetuar a operação. Após a gravação, será
+    enviada uma notificação para o técnico, onde o mesmo poderá verificar pelo
+    aplicativo CITSmart Enterprise ITSM Mobile as solicitações que serão
+    atendidas por ele.
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
