@@ -1,25 +1,26 @@
-title: Export contract data
-Description:Is intended to export the data to facilitate the initial load of data related to the contracts.
-#Export contract data
-This functionality is intended to export the data to facilitate the initial load of data related to the contracts.
+title: Exportar os dados dos contratos
+Description: Tem por objetivo de exportar os dados para facilitar a carga inicial dos dados relacionados aos contratos. 
+#Exportar os dados dos contratos
+Esta funcionalidade tem por objetivo de exportar os dados para facilitar a carga inicial dos dados relacionados aos contratos.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Export;
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada\> Gerência de Contratos \> Exportação;
 
-2.  Enter the data that will be imported (contract, group, export unit, export
-    service level agreement, export service catalog);
+2.  Informar os dados que serão importados (contratos, grupos, exportar
+    unidades, exportar acordo de nível de serviço, exportar catálogo de
+    serviço);
 
-3.  Click on "Export";
+3.  Clicar no botão "Exportar";
 
-4.  To confirm the export execution, click on "OK".
+4.  Para confirmar a execução da exportação, clicar em "OK".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
 
