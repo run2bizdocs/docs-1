@@ -1,54 +1,54 @@
-title: CITSmart Field Service Manual
-Description: Make offline technical attendance.
-#CITSmart Field Service Manual
-The purpose of the CITSmart FS application is to make offline technical attendance.
+title: Manual de utilização do CITSmart Field Service
+Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
+#Manual de utilização do CITSmart Field Service
 
-Before getting started
---------------------------
+Antes de começar 
+-----------------
 
-1.  Have configured the application in the ITSM instance;
+1.  Ter configurado o aplicativo na instância ITSM;
 
-2.  Install the CITSmart FS application in the mobile;
+2.  Instalar o aplicativo CITSmart FS no mobile;
 
-3.  It's necessary to delegate technical tasks in the CITSmart website so it'll
-    be possible to field attendance in offline.
+3.  É necessário delegar tarefas ao técnico no site CITSmart para que o mesmo as
+    possa atender em campo no modo offline.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Enter the login data of the application;
+1.  Informar os dados para login do aplicativo;
 
-2.  Select and click on the ticket you want. It'll be presented a screen with
-    the request data, including the location map where it'll make the
-    attendance;
+2.  Selecionar o ticket desejado e clicar sobre o mesmo. Será apresentado uma
+    tela com os dados da solicitação, inclusive um mapa do local onde será
+    realizado o atendimento;
 
-3.  Click on "Execute request" and then on "Other information" (this option will
-    be only available if exists a questionnaire linked to the ticket activity).
-    Complete the data about the request execution, and if you want to add some
-    file, click on the tab "Attachments";
+3.  Clicar no botão "Executar solicitação" e em seguida "Outras informações"
+    (está opção só estará disponível se existir um questionário vinculado a
+    atividade do ticket). Preencher os dados referentes a execução da
+    solicitação, se se desejar adicionar algum arquivo clicar na aba "Anexos";
 
-4.  Click on "Finish" and complete the data about the attendance conclusion.
-    Select the attendance status (in progress, solved or canceled) and detail
-    it;
+4.  Clicar em "Finalizar" e completar os dados sobre a conclusão do atendimento.
+    Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
+    e o detalhar da mesma;
 
-5.  Click on "Save and Advance Flow" or "Save and keep current task" to complete
-    the operation. It'll be automatically synchronized the changes. If the
-    application does not find network to complete the synchronization, it'll be
-    presented the icon "Automatic update" to wait for a connection and complete the
-    synchronization;
+5.  Clicar em "Gravar e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
+    completar a operação. Serão então automaticamente sincronizadas as
+    alterações. Se o aplicativo não encontrar a rede para completar a
+    sincronização, será apresentado o ícone “Atualização automática” para
+    aguardar o encontro de rede para e então completar a sincronização;
 
-6.  Manual synchronization of requests is available as soon as the application
-    finds an accessible network. To do so, simply slide the screen down with
-    your finger or click on the icon "Update list";
+6.  Está disponível a sincronização manual das solicitações assim que o
+    aplicativo encontrar uma rede acessível. Para tanto, basta deslizar a tela
+    para baixo com o dedo ou clicar no ícone “Atualizar lista”;
 
-7.  There are filters that make easier to find the required ticket, access it
-    through the search box, or click on the icon "Filters";.
+7.  Existem filtros que facilitam a localização do ticket necessário, acesse o
+    mesmo pela caixa de pesquisa ou clique no ícone “Filtros”.
 
+Relacionado
+-----------
 
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=<<<Process Playlist>>>)'
+Configurar aplicativo CITSmart Field Service
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
