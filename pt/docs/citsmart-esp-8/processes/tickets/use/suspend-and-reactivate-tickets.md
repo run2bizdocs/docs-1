@@ -1,58 +1,56 @@
-title: Suspend and reactivate multiple tickets
- 
-Description: Allows the suspension or reactivation of multiple tickets at the same time.
+title: Suspender e reativar múltiplos tickets
+Description: Permite a suspensão ou reativação de múltiplos tickets ao mesmo tempo. 
+#Suspender e reativar múltiplos tickets
+A funcionalidade permite a suspensão ou reativação de múltiplos tickets ao mesmo tempo.
 
-#Suspend and reactivate multiple tickets
-This functionality allows the suspension or reactivation of multiple tickets at the same time.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Para suspender/reativar múltiplos tickets é necessário possuir cadastros prévios
+do mesmo e permissão para suspender e reativar múltiplos tickets e cadastrar
+previamente o contrato, colaborador, grupo e a justificativa de ticket.
 
-To suspend/reactivate multiple tickets, it's necessary to previously register
-the ticket and have permission to suspend or reactivate multiple tickets, in
-addition to previously register the contract, employee, group and ticket
-justification.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+2.  Clicar no ícone “Opções” localizado no canto superior direito da tela e em
+    "Suspensão/Reativação":
 
-2.  Click on the icon “Options” located in the top right corner of the screen
-    and in "Suspension/Reactivation":
+    -   Para suspender múltiplos ticket, selecione esta opção no primeiro campo
+        da janela aberta e preencha os filtros com as solicitações que serão
+        suspensas em massa, tais como: contrato, solicitante da solicitação (o
+        responsável por solicitar a suspensão - este campo filtra os tickets
+        cujo o solicitante está), grupo, a justificativa e o complemento desta.
+        Após os dados informados, clicar no botão "Suspender" para efetuar a
+        operação;
 
-    -   To suspend multiples ticket, select this option in the first field of
-        the window opened, and complete the filters with the requests that will
-        be suspended, such as: contract, requester (the responsible for request
-        the suspension - this field filters the ticket that the requester is),
-        group, justification and its complement. After give the information,
-        click on "Suspend" to perform the operation;
+    -   Para reativar múltiplos tickets, selecionar a opção "**Reativar
+        Solicitação**" preencher os campos necessários, tais como: contrato,
+        solicitante e o grupo responsável pelo atendimento dos tickets que serão
+        suspensos e em seguida clicar no botão "Reativar" para efetuar a
+        operação.
 
-    -   To reactivate multiple tickets, select the option "**Reactivate
-        Request**", complete the fields necessary, such as: contract, requester
-        and the group responsible for the attendance of tickets that will be
-        suspended, and then click on "Reactivate" to perform the operation.
-
-Related
+Relacionado
 -----------
 
-[Register request justification](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+Criar um ticket
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um grupo
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um colaborador
 
-[Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+Cadastrar um contrato
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar justificativa de solicitação
 
-[Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
+    <b>Updated:</b>01/17/2019 – Larissa Lourenço
