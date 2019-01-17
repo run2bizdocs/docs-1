@@ -16,7 +16,7 @@ Conhecimento, SLA, Mudanças e CMDB. O público-alvo atual do CITSmart são
 empresas que possuem departamentos de TI, bem como a necessidade de soluções de
 ITSM para gerenciar suas TIs.
 
-\#\#Evolução
+Evolução
 ------------
 
 A principal mudança introduzida no ano passado foi o foco nos processos de
