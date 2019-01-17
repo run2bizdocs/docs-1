@@ -1,50 +1,47 @@
-Title: Requisitos do Sistema
+Title: 2. System requirements
 
-# Requisitos do Sistema
+# 1. System requirements
 
-##	Servidor de Aplicação
 
-O CITSmart é executado no servidor de aplicativos Wildfly versão 12. Os requisitos mínimos do sistema requeridos para o servidor de aplicativos são:
+## Application Server
 
-| Recurso | Valor   |
+CITSmart runs on the Wildfly version 12 application server. The minimum system requirements required for the application server are:
+
+| Resource | Value   |
 |---------|---------|
-| **Memória** | 8 GB   |
+| **Memory** | 8 GB   |
 | **CPU**     | 4 CPU's |
-| **Disco**   | 80 GB   |
+| **Disk**   | 80 GB   |
 
-## Servidor de Banco de Dados Relacional
-O CITSmart é compatível com bancos de dados PostgreSQL, Oracle e Microsoft SQL Server. Se você já tiver um sistema de gerenciamento de banco de dados corporativo, ele poderá ser usado para hospedar o banco de dados do CITSmart. Se você não possui e deseja instalar um novo SGDB apenas para o aplicativo, recomendamos o uso do PostgreSQL 9.2 ou posterior, com as seguintes configurações:
+## Relational Database Server
 
-| Recurso | Valor   |
+CITSmart is compatible with PostgreSQL, Oracle, and Microsoft SQL Server databases. If you already have an enterprise database management system, it can be used to host the CITSmart database. If you do not have and you want to install a new SGDB only for the application, we recommend using PostgreSQL 9.2 or later, with the following configurations:
+
+| Resource | Value   |
 |---------|---------|
-| **Memória** | 4 GB   |
+| **Memory** | 4 GB   |
 | **CPU**     | 2 CPU's |
-| **Disco**   | 80 GB   |
+| **Disk**   | 80 GB   |
 
-## Servidor de Banco de Dados NoSQL
+## NoSQL Database Server
 
-Para instalar MongoDB, recomenda-se seguir a seguinte configuração:
+To install MongoDB, we recommend the following configuration:
 
-| Recurso | Valor   |
+| Resource | Value   |
 |---------|---------|
-| **Memória** | 4 GB   |
+| **Memory** | 4 GB   |
 | **CPU**     | 2 CPU's |
-| **Disco**   | 80 GB   |
+| **Disk**   | 80 GB   |
 
-## Indexação do sistema
+## Indexing system
 
-Para instalar Apache SOLR, recomenda-se seguir a seguinte configuração:
+For installation of Apache SOLR, we recommend the following configurations:
 
-| Recurso | Valor   |
+| Resource | Value   |
 |---------|---------|
-| **Memória** | 4 GB   |
+| **Memory** | 4 GB   |
 | **CPU**     | 2 CPU's |
-| **Disco**   | 80 GB   |
+| **Disk**   | 80 GB   |
 
 !!! tip
-     Os serviços **SOLR** e **MongoDB** podem ser instalados no mesmo servidor que o aplicativo CITSmart. Recomendamos para ambientes de produção que você separe o servidor de banco de dados do servidor de aplicativos.
-
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 - Anna Martins
+     The **SOLR** and **MongoDB** services can be installed on the same server as the CITSmart application. We recommend for production environments that you separate the database server from the application server.
