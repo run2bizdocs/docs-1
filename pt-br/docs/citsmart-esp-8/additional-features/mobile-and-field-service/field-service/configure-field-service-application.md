@@ -12,9 +12,7 @@ Antes de começar
 2.  No ambiente - instância do CITSmart -, configurar as seguintes
     funcionalidades:
 
--   Webservice: indicar no item "permissões" os grupos de atendimento que
-
-poderão visualizar os tickets;
+-   Webservice: indicar no item "permissões" os grupos de atendimento que poderão visualizar os tickets;
 
 -   Unidade: obter as coordenadas da unidade cadastrada.
 
