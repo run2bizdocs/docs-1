@@ -1,362 +1,354 @@
-title: CITSmart Enterprise ITSM Mobile Application user guide (iOS)
-Description: Intended to provide guidance for installing, configuring, and using the CITSmart ITSM Enterprise mobile application (iOS plataform).
-#CITSmart Enterprise ITSM Mobile Application user guide (iOS)
+title: Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
+Description: Tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM Enterprise na plataforma iOS.
+#Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
 
-This document is intended to provide guidance for installing, configuring, and
-using the CITSmart ITSM Enterprise mobile application (iOS plataform).
+Este documento tem o propósito de fornecer orientações necessárias para
+instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM
+Enterprise na plataforma iOS.
 
-It offers several features, such as:
+Ele oferece vários recursos, tais como:
 
-1-  Facility in service and have a direction of where the request is located;
+1.  Facilidade no atendimento e ter um direcionamento de onde a solicitação está
+    localizada;
 
-2-  Filter personal and work group requests;
+2.  Filtrar solicitações pessoais e por grupo de trabalho;
 
-3-  Viewing the details of a service request;
+3.  Visualização dos detalhes de uma solicitação de serviço;
 
-4-  Receipt of notifications.
+4.  Recebimento de notificações.
 
-This document is structured in three major sections:
+Este documento foi estruturado em três seções:
 
-1-  Before getting started
+1.  Antes de começar;
 
-2-  Installing and Configuring the app on the Mobile;
+2.  Instalação e Configuração do App no mobile;
 
-3-  Using the app on Mobile.
+3.  Utilização do App no mobile.
 
-Before getting started
-----------------------
+Antes de começar
+----------------
+É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise e também Configurar o servidor para uso do aplicativo mobile CITSmart Enterprise (ver documentos: Manual de configuração do servidor para uso do CITSmart ITSM Enterprise (iOS e
+Android) e Cadastro e Pesquisa das Configurações das Opções de Mobile
 
-It´s necessary to use CITSmart Enterprise ITSM solution in version 7.2.2.0
-or higher, setup the server for using CITSmart Enterprise mobile
-application.
+Instalação e configuração do app no mobile
+------------------------------------------
 
-Installing and configuring the app on the mobile
-------------------------------------------------
+Para instalar o CITSmart Enterprise, deve ser realizada a busca do
+aplicativo na loja on-line (App Store).
 
-To install CITSmart ITSM Enterprise, the app must be searched in the online
-store (app store).
+1-  Pesquise por CITSmart Enterprise na App Store, selecione e baixe o
+    aplicativo;
 
-1-  Search for CITSmart ITSM Enterprise on App Store, select and download
-    the app;
+2-  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart ITSM
+    Enterprise;
 
-2-  After installation, the CITSmart ITSM Enterprise icon will appear;
+3-  Para criar uma conexão, pressione o ícone com "Criar conexão", conforme
+    indicado na figura abaixo:
 
-3-  The connections screen will be displayed, press the “Create connection”, as
-    shown in the figure below:
+![Criar conexão](images/ios-app-pt-1.png)
 
-![Connection screen](images/ios-app-1.png)
+Figura 1 - Criar conexão
 
-Figure 1 - Connection screen
+4-  Será apresentada a tela “Nova conexão” para registro da conexão;
 
-4-  The "New connection" screen for connection registration will be displayed:
+![Registro conexão](images/ios-app-pt-2.png)
 
-![Connection log screen](images/ios-app-2.png)
+Figura 2 - Registro de conexão
 
-Figure 2 - Connection log screen
+5-  Informe os dados:
 
-5-  Enter the relevant data:
+   -   **Nome da conexão**: informe o nome da conexão que deseja conectar;
 
-   +  Connection name: enter the name of the connection you want to
-        connect to;
+   -   **URL do servidor**: informe o endereço do servidor para conexão. Deve
+        ser colocado o protocolo (https) na URL;
 
-   +  Server URL: enter the server address for the connection. The
-        protocol (https) must be placed in the URL;
+   -   **Conexão principal?**: informe se a URL escolhida será a principal;
 
-   +  Main connection?: inform if the chosen URL will be the primary ;
+   -   **Domínio\\Usuário:** A partir dessa versão o usuário terá que informar
+        o domínio LDAP de uso e seu usuário;
 
-   +  Domain \\ User: From this version the user will have to inform the
-        use LDAP domain and its user;
+        -  O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
+           primeira parte é a informação do domínio e a segunda parte é o usuário;
 
-      +  The format is citsmart.local\\user.consultor (example), where the first part
-         is the domain information and the second part is the user;
+   -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
 
-   +  Password: The user will enter the password to access the system;
+   -   **Disponível:**
 
-   +  Available:
+       -   Habilitado: Quando está habilitado, a conexão será a fornecida no campo
+           URL, e além disso, para pegar a posição do atendente esse campo deve
+           estar habilitado;
 
-      +  Enabled: When enabled, the connection will be provided in the URL field,
-         and in addition, to get the position of the attendant this field must be
-         enabled;
+       -   Desabilitado: Quando está desabilitado o sistema não permitirá conexão
+          ao servidor nem irá pegar a posição do atendente.
 
-      +  Disabled: When disabled the system will not allow connection to the
-         server nor will it pick up the position of the attendant.
+!!! Abstract "ATENÇÃO"
 
-!!! Abstract "ATTENTION"
+    Caso o aparelho seja trocado, esta conexão deve ser deletada. 
 
-    If the device is changed, this connection must be deleted.  
+6-  Após informar os dados da conexão desejada, pressione no botão *Criar*;
 
-6-  After entering the desired connection data, press the "Create" button;
+7-  Depois de adicionada a conexão, aparecerá a listagem das conexões criadas.
+    Para alterar uma conexão, basta selecionar a conexão desejada e fazer a
+    alteração;
 
-7-  After the connection is added, the list of created connections will appear.
-    To change a connection, simply select the desired connection and make the
-    change;
+8-  Para se conectar, basta selecionar a conexão, na tela inicial do aplicativo;
 
-8-  To connect, just select the connection, in the initial screen of the
-    application;
+9-  Digite usuário e senha:
 
-9-  Enter the username and password:
+![login](images/ios-app-pt-3.png)
 
-![Connection](images/ios-app-3.png)
-
-Figure 3 - Login screen
+Figura 3 - login
 
 
-Using the app on the mobile
+Utilização do app no mobile
 ---------------------------
 
-### Viewing service requests
+##### Visualizando solicitações de serviço
 
-1-  After the connection is made, the menu screen will be displayed, where you
-    can click on the Service Ticket:
+1-  Após realizar a conexão, será apresentada a tela menu, onde clicará na opção
+    Tickets de Serviços.
 
-![Login screen](images/ios-app-4.png)
+![Tela de login](images/ios-app-pt-4.png)
 
-Figure 4 - Menu screen
+Figura 4 - Tela de login
 
+2-  Para escolher o tipo de solicitação que deseja visualizar, clique no
+    ícone localizado no canto esquerdo superior;
 
-2-  To choose the type of request you want to view, click on the icon  located
-    in the upper left corner;
+![Localizar](images/ios-app-pt-5.png)
 
-![Menu screen](images/ios-app-5.png)
+Figura 5 - Localizar solicitação
 
-Figure 5 - Request search screen
+3-  São apresentados filtros:
 
+![Filtros](images/ios-app-pt-6.png)
 
-3-  Will be presented filters:
+Figura 6 - Filtros
 
-![Request search](images/ios-app-6.png)
+![Filtros continuação](images/ios-app-pt-7.png)
 
-Figure 6 - Filters
+Figura 7 - Filtros (continuação)
 
-![Filters](images/ios-app-7.png)
+4-  Selecione o filtro desejado e clique no ícone de pesquisa, no canto superior esquerdo;
 
-Figure 7 - Filters (continuation)
+5-  Será apresentada a lista de solicitações de serviço, conforme o filtro
+    escolhido:
 
+![Lista de ticket](images/ios-app-pt-8.png)
 
-4-  Select the filter of request you want and click on the “Search” icon, in the
-    lower left corner;
+Figura 8 - Lista de ticket
 
-5-  The list of service requests will be displayed, depending on the filter
-    chosen:
+!!! Abstract "REGRA"
 
-![continuation](images/ios-app-8.png)
+    Para que a funcionalidade de busca funcione, é necessário configurar o web
+    service (notification_buscaNotificacao) correspondente na tela de “Cadastro
+    de Operação Web Service” no CITSmart Enterprise Web.**
 
-Figure 8 - Ticket list
+6-  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
+    opções, sendo:
 
+![Lista de](images/ios-app-pt-9.png)
 
-!!! Abstract "RULE"
+Figura 9-Lista de ticket
 
-    In order for the search functionality to work, it is necessary to
-    configure the corresponding web service (notices) in the "Web Service
-    Operation Register" screen in CITSmart Enterprise Web.  
+  -ícone Abrir - captura a solicitação para o usuário logado ou apenas visualiza o ticket
+    sem capturar;
 
-6-  In each request, when you click on it, a list of options is displayed,
-    being:
+  - ícone Visualizar - visualiza o ticket;
 
-![Ticket list](images/ios-app-9.png)
+  - ícone Descrição - mostra o resumo da solicitação;
 
-Figure 9 - Ticket list
+  - ícone Mensagem  - visualiza mensagens;
 
+  - ícone Relatórios - mostra relatórios do ticket;
 
--  “Open” icon - capture the request to the logged in user or just view the
-    ticket without capturing;
+  - ícone Mais opções - menu de opções de ações para a solicitação (Delegar, Suspender, Alterar
+    SLA, Reclassificar, Criar sub-solicitações, Exibir sub-solicitações, Agendar
+    atividade, Criar solicitação relacionada e Imprimir Solicitação).
 
--  “View” icon - view the ticket;
+##### Criando solicitação de serviço
 
--  “Description” icon - shows the summary of the request;
+1-  Para criar uma solicitação de serviço, pressione o ícone  localizado no
+    canto direito inferior da tela e selecione o ícone  “Novo ticket”, conforme
+    ilustrado abaixo:
 
--  “Message” icon - view messages;
+![Criação de solicitação](images/ios-app-pt-10.png)
 
--   “Reports” icon- show ticket reports;
+Figura 10 – Criação de solicitação de serviço
 
--  “More options” icon - options menu for the request (Delegate, Suspend,
-    Change SLA, Reclassify, Create sub-requests, Show sub-requests, Schedule
-    activity, Create related request and Print Request).
+!!! Abstract "ATENÇÃO"
 
-### Creating service request
+    A solicitação registrada pelo CITSmart ITSM Enterprise utiliza serviços
+    que são configurados no CITSmart Enterprise Web.**
 
-1-  To create a service request, press the “Operations” icon located in the
-    lower right corner of the screen and select the "New ticket" option, as
-    illustrated below:
+2-  Será apresentada a tela com campos cadastrais, conforme figuras abaixo:
 
-![Ticket lists](images/ios-app-10.png)
+![nova solicitação](images/ios-app-pt-11.jpg)
 
-Figure 10 - Creating a service request
+Figura 11 - Tela de cadastro de nova solicitação
 
-!!! Abstract "ATTENTION"
+![cadastro de nova continuação](images/ios-app-pt-12.jpg)
 
-    The request registered by CITSmart ITSM Enterprise uses services that are
-    configured in CITSmart Enterprise Web.  
+Figura 12 - Tela de cadastro de nova solicitação (continuação)
 
-2-  After performing the operation, the request registration message will be
-    displayed.
+![cadastro de nova continuação](images/ios-app-pt-13.jpg)
 
-![Creating a service](images/ios-app-11.png)
+Figura 13 - Tela de cadastro de nova solicitação (continuação)
 
-Figure 11 - Create request
+![nova continuação](images/ios-app-pt-14.jpg)
 
-![Creating request](images/ios-app-12.png)
+Figura 14 - Tela de cadastro de nova solicitação (continuação)
 
-Figure 12 - Create request(continuation)
+3-  Preencha os campos conforme orientações abaixo:
 
-![Create reques](images/ios-app-13.png)
+-   **Solicitante**: informe o nome do solicitante, ou seja, o nome da pessoa
+    que está solicitando a abertura de incidente ou requisição de serviço;
 
-Figure 13 - Create request (continuation)
+!!! Abstract "ATENÇÃO"
 
-![request continuation](images/ios-app-14.png)
+    Ao informar o solicitante é mostrado um resumo estatístico dos chamados
+    dele (por situação), bem como um outro resumo estatístico de satisfação (por
+    tipo de resposta) dos serviços já solicitados por ele. Por uma questão de
+    desempenho e de preservação do layout da tela, esses dois resumos são
+    paginados, ou seja, é possível avançar/retroceder para visualizar todas as
+   informações.
 
-Figure 14 - Create request (continuation)
+-   **Telefone**: informe o número de telefone do solicitante;
 
-3-  Fill in the fields as described below:
+-   **Ramal**: informe o número do ramal do solicitante, caso o tenha;
 
--  Applicant: enter the name of the applicant, that is, the name of the
-   person requesting the opening of an incident or service request.
+-   **E-mail**: informe o e-mail do solicitante;
 
-!!! Abstract "ATTENTION"
+-   **Origem do contato**: informe a origem do contato para registro da
+    solicitação do serviço;
 
-    After reporting the requester a statistical summary of the calls of him is
-    shown (per situation), as well as another statistical summary of
-    satisfaction (per type of response) about the services already requested by
-    him. These two summaries are paginated, thus it is possible to move
-    forward/backward to view all the information preserving performance and
-    screen lay-out.  
+-   **Unidade**: selecione a unidade na qual o solicitante está lotado;
 
--   Phone: enter the telephone number of the applicant;
+-   **Localidade Física**: informe a localização do solicitante;
 
--   Extension: enter the extension number of the applicant, if applicable;
+-   **Outras Informações**: descreva as observações sobre o solicitante, se
+    achar necessário.
 
--   E-mail: inform the requestor's e-mail;
+4-  Registre as informações da solicitação de serviço:
 
--   Contact Origin: enter the origin of the contact to register the service
-    request;
+-   **Catálogo**: selecione o catálogo de serviços;
 
--   Unit:select the unit on which the applicant is full;
+-   **Serviço**: informe o serviço referente ao catálogo de serviços
+    selecionado. Se o catálogo de serviços for "**Negócio**", serão
+    disponibilizados neste campo os serviços de negócio para seleção, mas se o
+    catálogo de serviços for "**Técnico**", serão disponibilizados neste campo
+    os serviços de apoio/técnico para seleção;
 
--   Physical Location:state the location of the applicant;
+-   **Tipo**: selecione o tipo da solicitação, se é uma abertura de incidente ou
+    requisição de serviço:
 
--   Other Information: describe the observations about the applicant, if
-    necessary.
+    -   **Incidente**:** **caso a situação apresentada seja uma interrupção não
+        planejada, uma redução na qualidade do serviço ou falha de algum item de
+        configuração que ainda não tenha impactado um serviço de TI. Ex.: O link
+        de rede está fora, a rede está lenta, o servidor inacessível, etc.;
 
-4-  Record service request information:
+    -   **Requisição**: refere-se aos pedidos de demandas realizados pelos
+        usuários dentro do ambiente da Tecnologia da Informação. Podem ser desde
+        pedidos de acesso até sugestões de melhoria a baixo custo. Ex.: pedido
+        de acesso à rede para um novo usuário, solicitação de configuração de
+        algum equipamento, requisição para adicionar algum software na estação
+        de trabalho, etc.
 
-   +  Catalog: select the catalog of services;
+-   **Categoria**: informe a categoria de serviço para facilitar a busca da
+    atividade (requisição/incidente). A categoria irá identificar a natureza da
+    atividade, posicionando-o dentro de grupos semelhantes de atuação,
+    situando-o na hierarquia de sua categoria;
 
-   +  Service: enter the service for the selected service catalog. If the
-      service catalog is "**Business**", the business services for selection
-      will be available in this field, but if the service catalog is
-      "**Technical**", the support / technical services for selection will be
-      available in this field;
+-   **Atividade (Requisição/Incidente)**: informe a atividade que será realizada
+    referente ao tipo de solicitação. Caso a atividade informada tenha um
+    “Script de Orientação” associado, o mesmo será exibido na guia de "Scripts"
+    representada pelo ícone  localizado no canto superior direito da tela;
 
-   +  Type: select the type of request, whether it is an incident opening
-       or service request;
+-   **Contrato**: após informar a atividade (requisição/incidente), será exibido
+    o contrato para o qual será feita a abertura de incidente ou requisição de
+    serviço;
 
-       +  Incident: if the situation presented is an unplanned outage, a
-          reduction in the quality of the service or failure of any
-          configuration item that has not yet impacted an IT service. Eg: The
-          network link is out, the network is slow, the server is
-          inaccessible, etc.
+-   **Urgência**: após informar a atividade (requisição/incidente), será exibida
+    a informação da urgência a qual indica a velocidade na qual o serviço
+    precisa ser realizado;
 
-        +  Request:refers to requests for demands made by users within the
-           Information Technology environment. They can range from access
-           requests to suggestions for improvement at low cost. Ex .: request
-           of access to the network for a new user, request of configuration of
-           some equipment, request to add some software in the workstation,
-           etc.
+-   **Impacto**: após informar a atividade (requisição/incidente), será exibida
+    a informação de impacto do serviço ao negócio;
 
-   +   Category: enter the category of service to facilitate the search of the
-       activity (Request / incident). The category will identify the nature of the
-       activity, positioning it within similar groups of action, placing it in the
-       hierarchy of its category;
+!!! Abstract "REGRA"
 
-   +   Activity (Request / Incident): inform the activity that will be
-       performed referring to the type of request. If the reported activity has a
-       "Guidance Script" associated with it, it will be displayed in the "Scripts"
-       tab represented by the icon  located in the upper right corner of the
-       screen;
+    Após informar a atividade de requisição/incidente, será estabelecido o
+    tempo previsto para atendimento da solicitação, conforme configurado no
+    registro do tempo de atendimento vinculado à atividade. O tempo de
+    atendimento será contabilizado de acordo com o que foi definido no
+    calendário vinculado à unidade, mas caso a unidade não tenha um calendário
+    vinculado, será contabilizado de acordo com o calendário vinculado ao
+    serviço. Porém, ao encerrar o tempo previsto de atendimento é contabilizado
+    o atraso em tempo corrido, sendo desconsiderado o calendário.**
 
-   +   Contract: after informing the activity (Request / incident), the
-       contract will be displayed for which the opening of an incident or service
-       request will be made;
+-   **Título**: informe o título da solicitação de serviço;
 
-   +   Urgency: after informing the activity (request / incident), the urgency
-       information will be displayed which indicates the speed at which the service
-       needs to be performed;
+-   **Descrição**: informe a descrição da solicitação de serviço. A descrição
+    deve ser objetiva, incluindo toda informação necessária para o atendimento
+    da mesma;
 
-   +   Impact: after informing the activity (Request / incident), the impact
-       information of the service to the business will be displayed;
+-   **Direcionar para grupo**: informe o grupo para o qual será direcionada a
+    solicitação de serviço. Caso não informe o grupo, a solicitação será
+    direcionada para o grupo definido no fluxo de requisição/incidente. Se não
+    estiver definido o grupo no fluxo, a solicitação será direcionada para o
+    grupo definido no registro do vínculo da atividade de requisição/incidente
+    ao contrato. Mas se o grupo não estiver definido no registro do vínculo da
+    atividade ao contrato, a solicitação será direcionada para o grupo definido
+    no parâmetro "**ID Grupo Nível 1**";
 
-!!! Abstract "RULE"
+-   **Notificações**:** **marque as opções de envio de notificação sobre a
+    solicitação para serem enviadas ao solicitante;
 
-    After informing the Request / incident activity, the expected time to
-    fulfill the request will be established, as configured in the record of the
-    time of service related to the activity. The service time will be counted
-    according to what was defined in the calendar linked to the unit, but if the
-    unit does not have a linked calendar, it will be accounted according to the
-    calendar linked to the service. However, when closing the expected time of
-    attendance is counted the delay in time, being disregarded the calendar.  
+-   **Registro de Execução**: não é necessário o preenchimento deste campo, pois
+    o mesmo é indicado para o técnico que irá atender à solicitação, descrever
+    sobre a execução de sua atividade.
 
-   +   Title: enter the title of the service request;
+-   **Situação**: selecione a opção que se encaixa com o atual estado da
+    solicitação: **Registrada/Em andamento**.
 
-   +   Description: enter the description of the service request. The
-       description must be objective, including all the information necessary to
-       attend to it;
+##### **Aprovando/rejeitando solicitação de serviço**
 
-   +   Head to group: enter the group to which the service request will be
-       directed. If you do not inform the group, the request will be directed to
-       the executor group defined in the record of the link of the Request /
-       incident activity to the contract. But if the executor group is not defined
-       in the record of the link of the Request / incident activity to the
-       contract, the request will be directed to the executor group defined in
-       parameter "9 - Group ID Level 1";
+Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
+necessário aprová-las.
 
-   +   Notifications: check the options for sending notification of the request
-       to be sent to the requestor;
+1-  Selecione a solicitação que é passível de aprovação;
 
-   +   Execution Record: it is not necessary to fill in this field, as it is
-       indicated for the technician who will attend the request, to describe the
-       execution of his activity.
+2-  Será apresentada a tela de “Detalhes” exibindo a descrição da solicitação
+    para aprovação/rejeição da mesma;
 
-   +   Situation: select the option that fits with the current status of the
-       request: Registered / In progress.
+![Rejeição](images/ios-app-pt-15.jpg)
 
-### Approving/rejecting service request
+Figura 15 - Tela de Aprovação/Rejeição de Solicitação
 
-Some requests need approval, so to meet them you need to approve them.
+3-  Para aprovar a solicitação, basta pressionar o botão "Aprovada";
 
-1-  Select the request that is eligible for approval;
+4-  Para rejeitar a solicitação, pressione o botão "Não aprovada". Será exibida
+    uma tela para escolha da justificativa desta rejeição, conforme apresentada
+    na figura abaixo:
 
-2-  The "Details" screen will be displayed displaying the description of the
-    request for approval / rejection of the request;
 
-![Create requ](images/ios-app-15.png)
+![Rejeição da solicitação](images/ios-app-pt-16.jpg)
 
-Figure 15 - Request approval/reject screen
+Figura 16 - Tela justificava de rejeição da solicitação
 
+-   Escolha a justificava da rejeição/aprovação da solicitação e pressione o
+    botão "Gravar e avançar o fluxo".
 
-3-  To approve the request, just press the "Approve" button;
 
-4-  To reject the request, press the "Reject" button. A screen will be displayed
-    to choose the justification for this rejection, as shown in the figure
-    below:
-
-
-![approval](images/ios-app-16.png)
-
-Figure 16 - Request rejection screen justified
-
--  Choose the justification for rejecting/approve the request and press the
-    “Save and forward the Flow” button.
-
-Related
+Relacionado
 -------
 
-[CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and
-Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+Manual de confguração do servidor CITSmart Enterprise para uso de APPs (iOS e Android)
 
-[Configure mobile options](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+Configurar as opções de mobile
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/11/2019 - Anna Martins
+    <b>Updated:</b>01/17/2019 - Anna Martins
