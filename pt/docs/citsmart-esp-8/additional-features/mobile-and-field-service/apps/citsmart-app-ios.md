@@ -84,7 +84,7 @@ Figura 2 - Registro de conexão
 
     Caso o aparelho seja trocado, esta conexão deve ser deletada. 
 
-6-  Após informar os dados da conexão desejada, pressione no botão *Criar*;
+6-  Após informar os dados da conexão desejada, pressione no botão "Criar";
 
 7-  Depois de adicionada a conexão, aparecerá a listagem das conexões criadas.
     Para alterar uma conexão, basta selecionar a conexão desejada e fazer a
