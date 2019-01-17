@@ -135,13 +135,14 @@ Procedimento para vincular SLA específico ao serviço do contrato
     valor limite, a unidade, a glosa e o limite glosa). Para copiar, editar ou
     excluir o acordo de nível de serviço cadastrado, seguir os passos:
 
-    1-  Para editar ou excluir um acordo de nível de serviço que foi adicionado
-        ao serviço de contrato, basta clicar no ícone “Editar o serviço” ao lado
-        do acordo;
+1.  Para editar ou excluir um acordo de nível de serviço que foi adicionado ao
+    serviço de contrato, basta clicar no ícone “Editar o serviço” ao lado do
+    acordo;
 
-    2-  Para copiar um acordo de nível de serviço que foi adicionado ao serviço
-        de contrato, basta clicar no ícone “Copiar Acordo para outro serviço” ao
-        lado do acordo;
+2.  Para copiar um acordo de nível de serviço que foi adicionado ao serviço de
+    contrato, basta clicar no ícone “Copiar Acordo para outro serviço” ao lado
+    do acordo;
+
 
 5-  Clicar no botão "Gravar" para efetuar a operação.
 
