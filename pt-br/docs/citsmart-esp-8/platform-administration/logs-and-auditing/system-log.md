@@ -1,26 +1,32 @@
-title: Verify system log
-Description: Is intended to verify the system log to trail the audit. 
-#Verify system log
-This functionality is intended to verify the system log to trail the audit.
+title: Verificar log do sistema
+Description: Verificar o log do sistema para trilha de auditoria.
+#Verificar log do sistema
 
-!!! Abstract "NOTE"
+Esta funcionalidade tem por objetivo verificar o log do sistema para trilha de
+auditoria.
 
-    If the names of the tables are not updated, access the CITSmart Parameters
-    feature and define the name of the database used in the parameter 'DB - name
-    of the database SHEMA'. After that, access the Load Metadata functionality
-    and update all tables.
-    
-Procedure
--------------
+!!! Abstract "NOTA"
 
-1.  Access the functionality through the main menu System \> Audit Trail \>
-    System Logs;
+    Caso os nomes das tabelas não estejam atualizados, acessar a
+    funcionalidade Parâmetros CITSmart e defina o nome do banco de dados
+    utilizado no parâmetro ' DB - nome do SHEMA do banco de dados '. Após isto,
+    acessar funcionalidade Carrega Meta Dados e atualize todas as tabelas.
 
-2.  Complete the fields available;
+Procedimento
+-----------
 
-3.  Click on "Search" to display the system log as the data informed;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Trilha de Auditoria \> Logs do Sistema;
+
+2.  Preencher os filtros disponibilizados;
+
+3.  Clicar no botão "Pesquisar" para exibir o log do sistema conforme os dados
+    informados;
+
+4.  Para gerar o relatório do log do sistema, clicar no botão "Gerar Relatório".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
