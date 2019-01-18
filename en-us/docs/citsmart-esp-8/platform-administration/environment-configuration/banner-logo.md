@@ -1,6 +1,6 @@
-Title: Configure logo
+Title: Configure Banner logo
 
-# Configure logo
+# Configure Banner logo
 
 É posível alterar a logomarca em seu ambiente para que o CITSmart tenha a indentidade de sua empresa.
 
@@ -13,4 +13,5 @@ Title: Configure logo
 
 !!! info "Alterar ícone de carregamento"
     Para alterar o ícone de carregamento, altere o valor do parametro 387 para "YES".
+	
 	Path: Parametrization > CITSmart Parameters > 387.
