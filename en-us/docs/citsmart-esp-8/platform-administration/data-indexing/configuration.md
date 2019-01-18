@@ -7,7 +7,7 @@ CITSmart ESP uses Apache SOLR to index information in the search functionality o
 
 ## What to do before
 
-Install the SOLR component, as shown in the [manual de instalação][1].
+Install the SOLR component, as shown in the [installation manual][1].
 
 ## Procedure
 
