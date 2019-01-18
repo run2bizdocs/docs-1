@@ -1,30 +1,31 @@
-title: Configure Environment
-Description: Intended to facilitate an intervention (correction) in the environment (server) and to change the logos of the system.
-#Configure Environment
+title: Configurar ambiente
+Description: Facilitar uma eventual intervenção (correção) direto no ambiente (servidor) e alterar os logos do sistema.
+#Configurar ambiente
 
-The Environment Configuration functionality is intended to facilitate an
-intervention (correction) in the environment (server) and to change the logos of
-the system.
+A funcionalidade de Configuração de Ambiente tem por objetivo facilitar uma
+eventual intervenção (correção) direto no ambiente (servidor) e alterar os logos
+do sistema.
 
-You can change the system logo, check the environment information and download
-the Jboss Log.
+Poderá alterar o logo do sistema, verificar as informações do ambiente e
+realizar o download do Log do Jboss.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the main menu System \> Settings \> Environment Configuration;
+1.  Acessar o menu principal Sistema \> Configurações \> Configurações de
+    Ambiente;
 
-2.  To change one of the images (start logo, portal logo, system logo and report
-    logo), click on "Select an image";
+2.  Para alterar umas das imagens (logo início, logo portal, logo sistema e logo
+    relatório), clicar no botão "Selecionar uma imagem";
 
-3.  Click on the pointed box to drag a file or make the upload;
+3.  Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
 
-4.  Click on "Save";
+4.  Clicar em "Gravar";
 
-5.  To download the Jboss Log or, click on "Download".
+5.  Para realizar o download do Log do Jboss ou, clicar no botão "Download".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
