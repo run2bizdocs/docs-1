@@ -2,7 +2,7 @@ Title: Expressions
 
 # Expressions
 
-Expressions are resources used in system flows to allow the construction of several scenarios, in addition, expressions can also be used to configure different states of an attendance flow.
+Expressions are resources used in system flows to allow the construction of several scenarios, in addition, expressions can also be used to configure different status of an attendance flow.
 
 ## Related:
 
