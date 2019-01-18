@@ -1,6 +1,6 @@
-title: Register spreadsheet template to import employee
+title: Employee: Generate CSV Template
 Description: This functionality was implemented to allow the direct loading in the employees table 
-#Register spreadsheet template to import employee
+# Employee: Generate CSV Template
 This functionality was implemented to allow the direct loading in the employees table. The system warns in case some mandatory field is not completed and doesn't read the file till its maintenance.
 
 Procedure

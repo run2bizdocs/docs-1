@@ -1,6 +1,6 @@
-title: Register spreadsheet template to import service portfolio
+title: Service Catalog: Generate CSV Template
 Description: The purpose of this functionality is to optimize the creation of various services.
-#Register spreadsheet template to import service portfolio
+#Service Catalog: Generate CSV Template
 The purpose of this functionality is to optimize the creation of various services and, consequently, their activities within one or more service portfolios.
 
 !!! Abstract "NOTE"
