@@ -1,36 +1,41 @@
-title: Configure views
-Description: Intended to allow the diverse vision (screens) creation of the system, with the possibility to associate with linked visions (sub-screens).
-#Configure views
+title: Configurar visões
+Description: Permitir a criação de visões (telas) diversas do sistema, com possibilidades de associação com visões vinculadas (subtelas).
+#Configurar visões
 
-This functionality is intended to allow the diverse vision (screens) creation of
-the system, with the possibility to associate with linked visions (sub-screens).
+Esta funcionalidade tem por objetivo permitir a criação de visões (telas)
+diversas do sistema, com possibilidades de associação com visões vinculadas
+(subtelas).
 
-This feature provides various actions, such as including, changing and deleting
-vision (screens) creation of the system.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir visões (telas) diversas do sistema.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Visions and
-    Metadata \> View Maintenance;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Visões e Meta dados \> Manutenção de Visões;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  To add fields in the vision (screen) that is being created, click on "Add
-    Field";
+3.  Para adicionar campos na visão (tela) que está sendo criada clicar no botão
+    "Adicionar Campo";
 
-4.  To add a sub-screen in the vision, click on "Add Linked View";
+4.  Para adicionar uma subtela na visão clicar no botão "Adicionar Visão
+    Vinculada";
 
-5.  To add buttons in the view that is being created, click on "Action Buttons".
+5.  Para adicionar botões na visão que está sendo criada clicar no botão "Botões
+    de Ação".
 
-6.  To include JavaScript instructions/codes, click on "Script";
+6.  Para incluir instruções/códigos JavaScript clicar no botão "Script";
 
-7.  To include HTML instructions/codes, click on "HTML Code (additional)";
+7.  Para incluir instruções/códigos HTML clicar no botão "HTML Code
+    (adicional)";
 
-8.  Click on "Save".
+8.  Clicar no botão "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
