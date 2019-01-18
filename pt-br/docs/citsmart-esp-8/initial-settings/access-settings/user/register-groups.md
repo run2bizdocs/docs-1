@@ -1,43 +1,54 @@
-title: Register group
-Description: This functionality registers the groups and links with users, profile, contracts and notification e-mails.
-#Register group
-A group is a set of one or more employees with the same related objectives and its functions.
-The two most common usages for the groups created are:
-1.	Automatic notification scheduling based on some specific event/situation;
-2.	Security/secrecy management of access to various types of registries (e.g.: knowledge base folders, service portfolios, etc.).
-This functionality registers the groups and links with users, profile, contracts and notification e-mails.
-This feature provides a variety of actions, such as including, changing, and deleting a group.
+title: Cadastrar um grupo
+Description: Permite o cadastro de grupos e o vínculo deles com usuários, um perfil, contratos e e-mails para notificação.
+#Cadastrar um grupo
 
-Before getting started
---------------------------
+Um grupo é um conjunto de um ou mais colaboradores que tem os mesmos objetivos
+relacionados as suas funções.
 
-To register a group, it's necessary to previously register the employee profile
-access.
+Os dois usos mais comuns para os grupos criados são:
 
-Procedure
--------------
+1.  Programação de notificação automática com base em alguma situação/evento
+    específico;
 
-1.  Access the functionality Group through the main menu Access and Permission
-    \> Group;
+2.  Gestão da segurança/sigilo de acessos a vários tipos de cadastros (ex.:
+    pastas da base de conhecimento, portfólios de serviços, etc.).
 
-2.  Click on "New";
+Esta funcionalidade permite o cadastro de grupos e o vínculo deles com usuários,
+um perfil, contratos e e-mails para notificação.
 
-3.  Complete all mandatory fields;
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um grupo.
 
-4.  Set the configuration needed;
+Antes de começar
+--------------------
 
-5.  Click on "Save".
+Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e do
+colaborador.
 
-Related
+Procedimento
+----------------
+
+1-  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Grupo;
+
+2-  Clicar em "Novo";
+
+3-  Preencher os campos disponibilizados;
+
+4-  Definir as configurações que sejam necessárias;
+
+5-  Clicar em "Gravar".
+
+
+Relacionado
 -----------
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um colaborador
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+Criar perfil de acesso
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROVt1SUUxco2tWF8E99_eva)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
