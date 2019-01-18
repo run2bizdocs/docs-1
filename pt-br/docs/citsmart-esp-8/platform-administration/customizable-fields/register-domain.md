@@ -1,27 +1,28 @@
-title: Register domain
-Description: Intended to register the domain to insert new domain items, that is, new options in the field of a certain system screen.
-#Register domain
+title: Cadastrar domínio
+Description: Permitir o cadastro de domínios para inserção de novos itens de domínio, ou seja, novas opções no campo de uma determinada tela do sistema.
+#Cadastrar domínio
 
-The Domain functionality is intended to register the domain to insert new domain
-items, that is, new options in the field of a certain system screen. To use it,
-it should have the knowledge about the system codification.
+A funcionalidade de Domínio tem por objetivo permitir o cadastro de domínios
+para inserção de novos itens de domínio, ou seja, novas opções no campo de uma
+determinada tela do sistema. Para utilizar a mesma, deverá ter conhecimento
+sobre a codificação do sistema.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a domain.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir o domínio.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the main menu System \> Domain Settings \> Domains;
+1.  Acessar o menu principal Sistema \> Domínios \> Domínios;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins
