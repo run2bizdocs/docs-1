@@ -41,7 +41,7 @@ Procedimento
 7.  Vincular a caixa de e-mail a um fluxo. Para tanto:
 
     -   Acessar a funcionalidade Sistema \> Manutenção de fluxos e ao
-        cadastrar/editar um fluxo, localizar na aba "Diagrama" a figura  no
+        cadastrar/editar um fluxo, localizar na aba "Diagrama" a conector "Envio de mensagem - email"  no
         fluxo e clicar para editar;
 
     -   Na opção "Configuração da caixa de saída de e-mail, aberta ao clicar
