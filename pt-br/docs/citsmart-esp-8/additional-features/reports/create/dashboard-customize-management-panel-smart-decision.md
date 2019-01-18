@@ -1,73 +1,74 @@
-title: Customize management panel (Smart Decision)
-Description: It's possible to add dashboards from a template or selecting manually.
-#Customize management panel (Smart Decision)
+title: Personalizar o painel gerencial (Smart Decision)
+Description: Adicionar dashboards a partir de um template ou selecionando manualmente.
+#Personalizar o painel gerencial (Smart Decision)
 
-The management panel in the system main screen. In this panel, it's possible to
-add dashboards from a template or selecting manually. In this area, it's also
-available resources to create shortcuts (links), view reports and dashboards. It
-has relevant information.
+O painel gerencial é exibido na tela principal do sistema. Neste painel é
+possível adicionar dashboards a partir de um template ou selecionando
+manualmente. Nesta área também estão disponíveis recursos para criação de
+atalhos (links), visualização de relatórios e dashboads. Contém informações
+relevantes.
 
-In the default management panel, it's available only the resources of
-type *Quick Access* (links).
+No painel gerencial default é disponibilizado apenas o recurso do tipo *Acesso
+Rápido* (links).
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-To create shortcuts (links), it's not necessary any special permission, however,
-the elements use of type widget and smart reports need permissions defined by
-the tool manager.
+Para a criação de atalhos (links) não é necessária nenhuma permissão especial,
+contudo a utilização de elementos do tipo widget e smart reports carece de
+permissões definidas por um administrador da ferramenta.
 
-Procedure
--------------
+Procedimento
+----------------
 
-*Use a template to customize the user panel*
+*Utilizar um template para personalizar o painel do usuário*
 
-1.  To view the templates available, click on the “Show/Hide menu” icon;
+1.  Para visualizar os templates disponíveis clicar no ícone "Exibir/esconder menu";
 
-2.  To add a dashboard to a template, click on the “Add new dashboard”
-    icon (left side of the screen), complete the fields available, select a
-    template and click on "Save";
+2.  Para adicionar um dashboard a um template, clicar no ícone "Adicionar novo dashboard" (lado esquerdo
+    da tela), preencher os campos disponibilizados, selecionar um template e
+    clicar em "Gravar";
 
-3.  To edit the dashboard, click on the “Edit dashboard” icon;
+3.  Para editar dashboard clicar no ícone "Editar dashobard";
 
-4.  To delete a dashboard, click on the “Remove dashboard” icon.
+4.  Para excluir um dashboard clicar no ícone "Excluir dashboard" .
 
-*Enter elements manually*
+*Inserir elementos manualmente*
 
-1.  To add elements with links, smart reports or widgets, click on the “Enable
-    edit mode” icon and then on “Add new widget” icon:
+1.  Para adicionar elementos como links, smart reports ou widgets, clicar no
+    ícone "Habiliar modo de edição" e em seguida em "Adicionar novo widget" :
 
-    - *Quick Access*:
+-   *Acesso Rápido* :
 
-         -   Click on *Links;*
+    -   Clicar em *Links;*
 
-               -   Click on the “Edit widget configuration” icon about the *Links* box;
+        -   Clicar no ícone "Editar configurações do widget" referente a caixa de *Links*;
 
-               -   Complete the fields available and click on "Add" to set the *Type*,
-                    if "Internal", select the system Menu (e.g.: Processes \> Portfolio
-                    and Catalog Management \> Smart Portal), if "External" define the
-                    Title/Key and add the URL;
+        -   Preencher o campo disponibilizado e clicar em "Adicionar" para
+            definir o *Tipo*, se "Interno" selecionar o Menu do sistema (ex:
+            Processos \> Gerência de Portfólio e Catálogo \> Smart Portal), se
+            "Externo" definir o Título/Chave e acrescentar a URL;
 
-               -   Click on "Apply".
+        -   Clicar em "Aplicar".
+
+-   *Relatórios Smart:*
+
+    -   escolher o tipo de relatório que ficará no painel gerencial.
+
+-   *Widgets*:
+
+    -   escolher o tipo de widget que ficará no painel gerencial.
+
+1.  Para salvar as alterações no painel gerencial com os widgets, clicar no
+    ícone "Salvar alterações" ;
+
+2.  Para desfazer alterações clicar no ícone "Desfazer alterações".
 
 
-     - *Smart Report*:
-
-         - choose the type of report that will be in the management panel.
-
-     - *Widgets*:
-
-         - choose the type widget that will be in the management panel.
-
-1.  To save the changes in the management panel with widgets, click on the “Save
-    changes” icon;
-
-2.  To undo the changes, click on the “Undo changes” icon.
-
-Related
+Relacionado
 -------
 
-[Configure Smart Decision template](/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
+Configurar template para Smart Decision
 
 
 !!! tip "About"
