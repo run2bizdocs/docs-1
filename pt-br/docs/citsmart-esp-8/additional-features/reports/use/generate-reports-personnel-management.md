@@ -1,27 +1,29 @@
-title: Generate reports - personnel management
-Description: Intended to present the information of employees by unit.
-#Generate reports - personnel management
+title: Gerar relatórios - Gerência de pessoal
+Description: Tem o objetivo de apresentar as informações dos colaboradores por unidade.
+#Gerar relatórios - Gerência de pessoal
 
-This report is intended to present the information of employees by unit.
+Este relatório tem o objetivo de apresentar as informações dos colaboradores por
+unidade.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1-  Access the functionality through the main menu Reports \> Personnel
-    Management \> Employee Unit Report;
+1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Gerência de Pessoal \> Relatório Unidade Colaborador;
 
-2-  Define the filters as needed;
+2-  Definir os filtros conforme sua necessidade;
 
-!!! Abstract "NOTE"
+!!! Abstract "ATENÇÃO"
 
-    If an employee is not informed, the report will be generated containing
-    the information of all active employees of the respective unit, regarding
-    the contract informed.  
+    Caso não seja informado um colaborador, será gerado o relatório contendo
+    as informações de todos os colaboradores ativos da(s) respectivas(s)
+    unidades(s), referente ao contrato informado.
 
-3-  Click on "Generate PDF" to create the report in PDF and/or click on
-    "Generate XLS" to create the report in Excel.
+3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins

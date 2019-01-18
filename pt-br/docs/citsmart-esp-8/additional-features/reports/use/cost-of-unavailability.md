@@ -1,113 +1,127 @@
-title: Report about cost of unavailability of a service
-Description: Is intended to verify the report that demonstrates the cost per hour of unavailability of a service
-#Report about cost of unavailability of a service
-This knowledge is intended to verify the report that demonstrates the cost per hour of unavailability of a service, where:
-•	Time Available: time (within the working day) that incidents of the service became available in the period;
-•	Time of Unavailability: time in hours (within the working day) that service incidents became unavailable during the period;
-•	Number of breakdowns: number of service incidents;
-•	MTBSI = Time available / Nº of breakdowns;
-•	MTBF = (Time available - Time of unavailability) / Nº of Breakdowns;
-•	MTRS = Time of Unavailability / Nº of breakdowns.
+title: Relatório do custo de indisponibilidade do serviço
+Description: Verificar o relatório que demonstra o custo por hora de indisponibilidade de um serviço.
+#Relatório do custo de indisponibilidade do serviço
 
-Before getting started
---------------------------
+Este conhecimento tem por objetivo verificar o relatório que demonstra o custo
+por hora de indisponibilidade de um serviço, onde:
 
-In a service portfolio, a service must have the attribute **Incident** with the
-field "Cause of unavailability" set as "YES".
+ +   Tempo Disponível: tempo (dentro da jornada de trabalho) que os incidentes do
+    serviço ficaram disponíveis no período;
 
-In the attribute **Contract** of a service chose, the incident must be linked,
-as well as define the Cost of Unavailability, Availability Agreement and also
-link the Calendar.
+ +   Tempo Indisponibilidade: tempo em horas (dentro da jornada de trabalho) que
+    os incidentes do serviço ficaram indisponíveis no período;
 
-The report available in the attachment should be imported in the Smart Report
-Creator.
+ +   Número de quedas: quantidade de incidentes do serviço;
 
-Procedure
--------------
+ +   MTBSI = Tempo disponivel / Nºde quedas;
 
-*Step 1*
+ +   MTBF = (Tempo disponivel - Tempo Indisponibilidade) / Nº de Quedas;
 
-1.  Access Reports \> Smart Reports \> Smart Report Creator;
+ +   MTRS = Tempo Indisponibilidade / Nº de quedas.
 
-2.  Click on "Import";
+Antes de começar
+--------------------
 
-3.  Select the file available (attachment) and click on "Open";
+No porfólio de serviços um serviço deverá ter o atributo **Incidente** com o
+campo "Causa indisponibilidade" setado igual a "SIM".
 
-4.  In the reports list page, click on "Edit" of the report imported;
+No atributo **Contrato** do serviço escolhido, o incidente deverá está
+vinculado, assim como definir o Custo de Indisponibilidade, o Acordo de
+Disponibilidade e também vincular o Calendário.
 
-5.  Select the option *None* in the field **Module(s) where it will be
-    displayed **and define the group(s);
+O relatório disponibilizado via anexo deverá ser importado no Gerador de
+Relatório Smart.
 
-6.  Click on "Save".
+Procedimento
+----------------
 
-*Step 2*
+*Passo 1*
 
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Portfolio;
+1.  Acessar Relatórios \> Relatórios Smart \> Gerador de Relatórios Smart;
 
-2.  Choose the portfolio you want and click on "Advance";
+2.  Clicar em no botão "Importar";
 
-3.  Choose the service you want and click on "Advance";
+3.  Selecionar o arquivo disponibilizado (anexo) e clicar em "Abrir";
 
-4.  Click on the attribut **Incidents**, then on "New Incident" (the field "Type
-    of Demand" must be Incident, as well as the field "Cause Unavailability"
-    must be "YES");
+4.  Na página de listagem de relatórios, clicar no botão "Editar" do relatório
+    importado;
 
-5.  Click on "Save";
+5.  Selecionar a opção *N/A* no campo **Módulo(s) onde será exibido** e definir
+    o(s) grupo(s);
 
-6.  Click on "Link Incident" and link the incident previously created.
+6.  Clicar no botão "Gravar".
 
-*Step 3*
+*Passo 2*
 
-1.  Click on the attribute **Contracts** of the service;
+1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
+    Porfólio;
 
-2.  Select a contract and click on "Advance";
+2.  Escolher o portfólio desejado e clicar em "Avançar";
 
-3.  Click on the attribute **Incidents** of the contract and then on "Link
-    Incident";
+3.  Escolher o serviço desejado e clicar em "Avançar";
 
-4.  Complete the fields available adding the incident created previously;
+4.  Clicar no atributo **Incidentes**, em seguida no botão "Novo Incidente" (o
+    campo "Tipo de Demanda" deverá ser Incidente, assim como o campo "Causa
+    Indisponibilidade" deverá ser "SIM");
 
-5.  Click on "Save";
+5.  Clicar em "Gravar";
 
-6.  Click on the attribute **Cost of Unavailability**, define the value and
-    click on "Save";
+6.  Clicar no botão "Vincular Incidente" e vincular o incidente criado
+    anteriormente.
 
-7.  Click on the attribute **Availability Agreement**, click on "Link
-    Availability Agreement" and define a SLA;
+*Passo 3*
 
-8.  Click on the attribute **Calendar**, click on "Link Calendar" and define a
-    calendar.
+1.  Clicar no atributo **Contratos** do serviço;
 
-What to do next
--------------------
+2.  Selecionar o contrato desejado e clicar em "Avançar";
 
-Access the management panel in Smart Portal, add the previously imported report,
-define the dates and check the report.
+3.  Clicar no atributo **Incidentes** do contrato e em seguida no botão
+    "Vincular Incidente";
 
-The report can also be viewed in Smart Reports.
+4.  Preencher os campos disponibilizados adicionando também o incidente criado
+    anteriormente;
 
-Related
+5.  Clicar em "Gravar";
+
+6.  Clicar no atributo **Custo de Indisponibilidade**, definir o valor e clicar
+    em "Gravar";
+
+7.  Clicar no atributo **Acordo de Disponibilidade**, clicar no botão "Vincular
+    Acordo de Disponibilidade e definir um SLA;
+
+8.  Clicar no atributo **Calendário**, clicar no botão "Vincular Calendário" e
+    definir um calendário.
+
+O que fazer a seguir
+--------------------
+
+Acessar o painel gerencial no Smart Portal, adicionar o relatório importado
+previamente, definir as datas e checar o relatório.
+
+O relatório também poderá ser visualizado em Relatórios Smart.
+
+
+Relacionado
 -----------
 
-[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+Cadastrar um serviço
 
-[Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+Configurar atributos do serviço
 
-[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+Configurar atributos do contrato do serviço
 
-[Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+Criar portfólio
 
-[Service level requirement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
+Acordo de nível de serviço
 
-[Customize management panel (Smart Decision)](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+Personalizar o painel gerencial (Smart Decision)
 
-[Create smart report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+Gerar relatórios Smart
 
-[Build and maintain smart reports - V 8](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+Construir e manter relatórios Smart
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
