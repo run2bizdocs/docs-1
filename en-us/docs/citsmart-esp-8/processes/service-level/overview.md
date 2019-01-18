@@ -16,29 +16,29 @@ action to correct and improve the service level delivered.
 Use
 -------
 
-- [Create time of attendance](/en-us/site/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+- [Create time of attendance](/en-us/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-- [Service level agreement](/en-us/site/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+- [Service level agreement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-- [Contract evaluation](/en-us/site/citsmart-esp-8/processes/service-level/use/contract-evaluation.html)
+- [Contract evaluation](/en-us/citsmart-esp-8/processes/service-level/use/contract-evaluation.html)
 
-- [Provider evaluation](/en-us/site/citsmart-esp-8/processes/service-level/use/provider-evaluation.html)
+- [Provider evaluation](/en-us/citsmart-esp-8/processes/service-level/use/provider-evaluation.html)
 
-- [SLA evaluation](/en-us/site/citsmart-esp-8/processes/service-level/use/SLA-evaluation.html)
+- [SLA evaluation](/en-us/citsmart-esp-8/processes/service-level/use/SLA-evaluation.html)
 
-- [Improvement plan](/en-us/site/citsmart-esp-8/processes/service-level/use/improvement-plan.html)
+- [Improvement plan](/en-us/citsmart-esp-8/processes/service-level/use/improvement-plan.html)
 
-- [Service level requirement](/en-us/site/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
+- [Service level requirement](/en-us/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
 Configuration
 -----------------
 
-- [Register priority](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+- [Register priority](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
 Report
 ----------
 
-- [Generate reports - service level management](/en-us/site/citsmart-esp-8/processes/service-level/configuration/reports-service-level-management.html)
+- [Generate reports - service level management](/en-us/citsmart-esp-8/processes/service-level/configuration/reports-service-level-management.html)
 
 !!! tip "About"
 

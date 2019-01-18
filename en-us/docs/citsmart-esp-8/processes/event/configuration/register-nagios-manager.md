@@ -50,7 +50,7 @@ Related
 
 [Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
 
-[Register Nagios/Zabbix connection](/en/site/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Register Nagios/Zabbix connection](/en/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
 [Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
 
