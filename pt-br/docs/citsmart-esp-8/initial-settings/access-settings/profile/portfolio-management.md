@@ -23,23 +23,23 @@ acesso previamente.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+1-  Acessar a funcionalidade através da navegação no menu principal Acesso e
     Permissão \> Gerência de Portfólio;
 
-2.  Escolher o perfil a ser gerenciado e clicar em "Editar";
+2-  Escolher o perfil a ser gerenciado e clicar em "Editar";
 
-3.  Selecionar as ações (visualizar, gravar e/ou deletar) que o perfil poderá
+3-  Selecionar as ações (visualizar, gravar e/ou deletar) que o perfil poderá
     realizar;
 
-4.  Vale lembrar que:
+4-  Vale lembrar que:
 
-+   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
-    acessos pré-existentes ficarão desmarcados), por default, quando for criadas
-    novas funcionalidades, exigindo, portanto, que o administrador
-    explicitamente habilite esta para os perfis que desejar, tornando-a
-    disponível para os perfis pretendidos.
+  +   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
+      acessos pré-existentes ficarão desmarcados), por default, quando for criadas
+      novas funcionalidades, exigindo, portanto, que o administrador
+      explicitamente habilite esta para os perfis que desejar, tornando-a
+      disponível para os perfis pretendidos.
 
-1.  Clicar em "Gravar".
+5-  Clicar em "Gravar".
 
 
 Relacionado
