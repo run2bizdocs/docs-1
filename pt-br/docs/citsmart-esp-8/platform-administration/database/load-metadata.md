@@ -1,19 +1,22 @@
-title: Load Metadata
-Description: Intended to register the table information of database.
-#Load Metadata
+title: Carregar metadados
+Description: Carregar as informações de tabelas do banco de dados.
+#Carregar metadados
 
-This functionality is intended to register the table information of database.
+Esta funcionalidade tem o objetivo de carregar as informações de tabelas do
+banco de dados.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Visions and
-    Metadata \> Load Metadata;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Visões e Meta dados \> Carrega Metadados;
 
-2.  Enter the table name or to display the complete list of all, click on
-    "Load".
+2.  Informar o nome da tabela ou para exibir a lista completa de todas, clicar
+    no botão "Carregar".
+
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>1/10/2019 - Anna Martins
+    <b>Updated:</b>1/18/2019 - Anna Martins
