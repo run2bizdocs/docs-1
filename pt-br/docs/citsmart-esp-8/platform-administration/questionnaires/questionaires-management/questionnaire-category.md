@@ -1,22 +1,26 @@
-title: Register questionnaire category
-Description: Provides a variety of actions, such as including, changing, and deleting questionnaire categories that will be used to filter and organize the register in the base.
-#Register questionnaire category
-This feature provides a variety of actions, such as including, changing, and deleting questionnaire categories that will be used to filter and organize the register in the base.
+title: Cadastrar categoria de questionário
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir categorias de questionários que serão utilizadas para filtragem e organização dos mesmos registrados na base.
+#Cadastrar categoria de questionário
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir categorias de questionários que serão utilizadas para filtragem e
+organização dos mesmos registrados na base.
 
-1.  Access the functionality through the main menu System \> Visions and
-    Metadata \> Questionnaire \> Questionnaire Category;
+Procedimento
+----------------
 
-2.  Click on "New";
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema
+    \> Visões e Metadados \> Questionário \> Categoria Questionário;
 
-3.  Complete the field available;
+2.  Clicar no botão "Novo";
 
-4.  Click on "Save".
+3.  Preencher o campo disponibilizado;
+
+4.  Clicar em "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 

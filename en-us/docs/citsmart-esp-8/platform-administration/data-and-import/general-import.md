@@ -2,9 +2,9 @@ Title: General Import
 
 # General Import
 
-É possível importar uma gama de dados para o CITSmart ESP, isto pode ajudar no processo de configuração da ferramenta ou no desenho dos processos.
+It's possible to import a range of data to the CITSmart ESP, this can help in the process of tool configuration or process design.
 
-## Related
+# Related
 
 [Import employee][1]
 

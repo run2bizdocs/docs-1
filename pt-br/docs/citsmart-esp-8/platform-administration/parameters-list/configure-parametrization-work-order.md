@@ -1,35 +1,39 @@
-title: Configure parametrization - work order
-Description: Allows to define the calculation formula of the work order gloss, enable custom signatures in the Work Orders report, within other viable actions.
-#Configure parametrization - work order
+title: Configurar parametrização - ordem de serviço
+Description: Permite definir a fórmula de cálculo da glosa de ordem de serviço, habilitar assinaturas personalizadas no relatório de Ordens de Serviço, dentro de outras ações viáveis.
+#Configurar parametrização - ordem de serviço
 
-Work order is a document that will give the permission to the relative execution
-of a service. The "Work order" parametrization allows to define the calculation
-formula of the work order gloss, enable custom signatures in the Work Orders
-report, within other viable actions.
+Ordem de serviço é um documento que irá fornecer a permissão de execução
+relativa a algum serviço. A parametrização de "Ordem de serviço" permite definir
+a fórmula de cálculo da glosa de ordem de serviço, habilitar assinaturas
+personalizadas no relatório de Ordens de Serviço, dentro de outras ações
+viáveis.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Parametrization \> Work Order
-    (WO);
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Parametrização \> Ordem de Serviço (OS);
 
-2.  Define the parameters value (attributes);
+2.  Definir os valores dos parâmetros (atributos);
 
-3.  Click on "Save";
+3.  Clicar no botão "Gravar" para efetuar a operação;
 
-4.  The list below presents the "Work order" parameters and the purpose of each
-    one of them:
+4.  A lista abaixo representa os parâmetros da "Ordem de serviço" e a finalidade
+    de cada um deles:
 
-|  #  |                                      Name                                      |   Possible Values   |                                                                                                                                                                              Purpose                                                                                                                                                                             |                                                                Additional Guidance                                                               |
-|:---:|:------------------------------------------------------------------------------:|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  51 |                         WO GLOSS FORMULA - Default Code                        |                     |                                                                                                                                 Define the Work Order Calculation formula. By default the formula is already defined in the tool.                                                                                                                                |                                                                  Not applicable                                                                  |
-| 130 | It allows Work Order listing with retroactive date (Eg: Y or N - Default: 'N') | Y or N (Default: N) |                                                                                                                                           Define whether to allow the listing of a Work Order with a retroactive date.                                                                                                                                           |                               If you do not enter the parameter value, the system default value will be used: "N".                               |
-| 229 |               Reset Activity Formulas (Eg: Y or N - Default: 'Y')              | Y or N (Default: Y) | Change the formula structure of the activities already registered to the new structure that is configurable from the WO Formula screen. When reporting the default value of "Y", the system will execute the activity formula reset routine at the time JBoss restarts on a CITSmart system update, and assigns "N" to this parameter at the time it's finished. | Once the "Y" value has been entered, the contract activity formula, not yet configured, will be in accordance with the new WO Formula structure. |
-| 243 |              Allow custom subscriptions in the Work Orders report              |                     |                                                    Enable signatures to be used for printing the Work Order reports. When the parameter is enabled (value = Y), the system displays a field in the Work Order form, and you can choose which signature frame configuration to use when printing your reports.                                                    |                        When enabled, it forces the user to define and configure one more field before saving a Work Order.                       |
+|  #  |                                           Nome                                           |  Valores possíveis  |                                                                                                                                                                                         Finalidade                                                                                                                                                                                         |                                                            Orientações complementares                                                            |
+|:---:|:----------------------------------------------------------------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  51 |                             FORMULA GLOSA OS - Código Padrão                             |                     |                                                                                                                                       Definir a fórmula de Cálculo da Glosa de Ordem de Serviço. Por padrão a fórmula já está definida na ferramenta.                                                                                                                                      |                                                                   Não se aplica                                                                  |
+| 130 | Permitir a listagem de Ordem de Serviços com data retroativa (Ex: S ou N - Default: 'N') | S ou N (Default: N) |                                                                                                                                                       Definir se será permitida a listagem de Ordem de Serviços com data retroativa.                                                                                                                                                       |                            Caso não informe o valor do parâmetro, será utilizado o valor padrão do sistema: “N” (Não).                           |
+| 229 |               Re-configurar Fórmulas das Atividades (S ou N - Default: 'S')              | S ou N (Default: S) | Modificar a estrutura da fórmula das atividades já cadastradas para a nova estrutura que é configurável de na tela de Fórmula OS. Ao informar o valor padrão “S”, o sistema irá executar a rotina de reconfiguração da fórmula das atividades no momento que o JBoss for reiniciado numa atualização do sistema CITSmart e atribuir “N” para este parâmetro no momento de sua finalização. | Uma vez informado o valor “S”, a fórmula das atividades do contrato, ainda não configurada, ficará de acordo com a nova estrutura de Fórmula OS. |
+| 243 |            Ativar assinaturas personalizadas no relatório de Ordens de Serviço           |                     |                             Habilitar assinaturas para serem utilizadas na impressão dos relatórios de Ordem de Serviço. Quando o parâmetro estiver ativado (valor = S) o sistema exibirá um campo na tela de cadastro de Ordem de Serviço e o usuário poderá escolher qual configuração dos quadros de assinaturas será usada na impressão de seus relatórios.                            |             Quando habilitado o parâmetro, obriga o usuário definir e configurar mais um campo antes de gravar uma Ordem de Serviço.             |
 
-Table 1 - Parameters list
+
+
+
+Tabela 1 - Lista de parâmetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins

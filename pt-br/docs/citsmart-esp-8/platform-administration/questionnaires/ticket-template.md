@@ -1,72 +1,83 @@
-title: Register ticket template
-Description: This feature provides a variety of actions, such as including, changing, and deleting ticket template. 
-#Register ticket template
-This functionality is intended to enable some functionalities in the service request screen (ticket).
-This feature provides a variety of actions, such as including, changing, and deleting ticket template.
+title: Cadastrar template de ticket
+Description: habilitar algumas funcionalidades na tela de solicitação de serviço (ticket).
+#Cadastrar template de ticket
 
-Before getting started
---------------------------
+Esta funcionalidade tem o objetivo de habilitar algumas funcionalidades na tela
+de solicitação de serviço (ticket).
 
-The ticket template of type Questionnaire, requires the previous registration of
-a questionnaire.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir template de ticket.
 
-The ticket template of type Neuro, requires the previous registration
-of **Neuro** form.
+Antes de começar
+--------------------
 
-Procedure
--------------
+O template de ticket do tipo Questionário requer o registro de um questionário
+previamente.
 
-1.  Access the functionality through the main menu System \> Ticket Template;
+O template de ticket do tipo Neuro requer o registro prévio de um formulário do
+tipo **Neuro** previamente.
 
-2.  Click on "New";
+Procedimento
+----------------
 
-3.  The type of template selected will define the fields to completion:
+1.  Acessar a funcionalidade de Template de Solicitação de Serviço através da
+    navegação no menu principal Sistema \> Template de Ticket;
 
--   **JSP**: this functionality allows to customize the services screen with
-    reference mainly to the management of purchases and travel. Within the JSP
-    type there are sub-types previously registered. The utility of this type of
-    template is only observed in versions previous to 7.2.3.9. This template
-    class should be handled by an analyst who has knowledge of JAVA programming;
+2.  Clicar no botão " Novo";
 
--   **Questionnaire**: even if the "Enable edit questionnaire" option is
-    disabled, this edition will be possible when the ticket registration occurs.
-    There are two approval functions that can be configured in the service
-    request template or flow maintenance screen. As a rule, for the system, only
-    the settings made on the flow screen will be valid. The approval function on
-    the service request template screen is valid only if linked to the
-    registration of a JSP form in the older models of the system. Enabling
-    fields, although selected by default, will have their view unavailable at
-    the time of ticket creation, this visualization will occur with the
-    completion of the registration. At the time of registration of the ticket
-    that has a form of the standard type, will be available on the first button
-    in the upper left corner, the functionalities: Requester CI, Attachments,
-    Agenda, Release, Project, Knowledge and email Reading. All enabling
-    functionalities that will be presented both in the service request template
-    screen and flow maintenance will be only valid as marks configured in the
-    flow screen, because the first one is mentioned is a complement of the
-    second one. If the service request template is only linked to the portfolio
-    activities, the system will assume that the form is standard, so it will not
-    meet the template's enabling (or not enabling) rules. For the
-    reclassification rule, where the questionnaire or Neuro service template has
-    to be presented for the user response, it's necessary that the template or
-    form is linked to the service request template concomitantly with the flow
-    maintenance screen and the portfolio activity;  
+3.  O Tipo de Template selecionado irá definir os campos para preenchimento:
 
--   **Neuro**: when you select this option, the Neuro form link field and Neuro
-    page are made available. You can also elect the **version** of the form by
-    clicking the "Specific Version" button on the form. The template rules of
-    the Questionnaire type are valid for the Neuro type template.
+    -   **JSP**: esta funcionalidade permite personalizar a tela de serviços com
+        referência, principalmente, na gerência de compras e viagens. Dentro do tipo
+        JSP existem sub-tipos previamente cadastrados. A utilidade deste tipo de
+        template só é observada nas versões anteriores à 7.2.3.9. Esta classe de
+        template deverá ser manipulada por analista que possua conhecimento de
+        programação JAVA
 
-Related
+    -   **Questionário**: mesmo que desabilitada a opção de "Habilita editar
+    questionário", essa edição será possível quando ocorrer o cadastro do
+    ticket. Existem duas funções de aprovação que podem ser configuradas, na
+    tela de template de solicitação de serviço ou na de manutenção de fluxo. Via
+    de regra, para o sistema, somente as configurações realizadas na tela de
+    fluxo terão validade. A função de aprovação existente na tela de template de
+    solicitação de serviço só terá validade se vinculada ao cadastro de um
+    formulário JSP nos modelos mais antigos do sistema. Os campos de habilitação
+    apesar de selecionados por default, terão sua visualização não disponível no
+    momento de criação de ticket , esta visualização ocorrerá com a efetivação
+    do cadastro. No momento de cadastro do ticket que tenha um formulário do
+    tipo padrão, estarão disponíveis no botão "Menu", localizado no canto superior
+    esquerdo, apenas as funcionalidades: IC do Solicitante, Anexos, Agenda,
+    Liberação, Projeto, Conhecimento e Leitura de e-mails. todas as
+    funcionalidades de habilitação que são apresentadas tanto na tela de
+    template de solicitação de serviço quanto na de manutenção de fluxo, só
+    terão validade as marcações configuradas na tela de fluxo, pois a primeira
+    mencionada é um complemento da segunda. Se o template de solicitação de
+    serviço estiver vinculado somente a atividades do portfólio o sistema vai
+    subentender que o formulário é padrão, por isso ele não vai atender as
+    normativas (habilitação ou não da funcionalidade) do template. Para a regra
+    de reclassificação onde o template de serviço do tipo Questionário ou Neuro
+    tiver que ser apresentado para a resposta do usuário, é preciso que o
+    template ou formulário esteja vinculado ao template de solicitação de
+    serviço concomitantemente com a tela de manutenção de fluxo e a atividade do
+    portfólio.
+
+    -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
+    Neuro e página Neuro são disponibilizados. Também é possível eleger
+    a versão do formulário ao clicar no botão "Versão específica do
+    formulário". As regras do template do tipo *Questionário* são válidas para o
+    template do tipo Neuro.
+
+
+Relacionado
 -----------
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Manutenção do fluxo do trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Register questionnaire](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 

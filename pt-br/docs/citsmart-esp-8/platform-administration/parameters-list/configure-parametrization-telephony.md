@@ -1,33 +1,35 @@
-title: Configure parametrization - telephony
-Description: Allows to define whether to enable the integration of webservices with telephony, to inform the identification number of the request service, among other possible actions in order to configure the use of telephony in CITSmart.
-#Configure parametrization - telephony
+title: Configurar parametrização - telefonia
+Description: Permite definir se ativa a integração dos webservices com a telefonia.
+#Configurar parametrização - telefonia
 
-The "Telephony" parametrization allows to define whether to enable the
-integration of webservices with telephony, to inform the identification number
-of the request service, among other possible actions in order to configure the
-use of telephony in CITSmart.
+A parametrização da "Telefonia permite definir se ativa a integração dos
+webservices com a telefonia, informar o número de identificação do serviço de
+requisição, dentre outras ações possíveis afim de configurar o uso da telefonia
+no CITSmart.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu Parametrization \> Telephony;
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Parametrização \> Telefonia;
 
-2.  Define the parameters values (attributes);
+2.  Definir os valores dos parâmetros (atributos);
 
-3.  Click on "Save";
+3.  Clicar no botão "Gravar" para efetuar a operação;
 
-4.  The list below presents the "Telephony" parameters and the purpose of each
-    one of them:
+4.  A lista abaixo representa os parâmetros da "Telefonia" e a finalidade de
+    cada um deles:
 
-|  #  |                                                               Name                                                               |   Possible Values   |                                                                                     Purpose                                                                                     |                                        Additional Guidance                                        |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-| 281 |                        Enable Webservice for integration with Telephony - Values: "Y" or "N" Default: "N"                        | Y or N (Default: N) |                                                         Define whether to enable webservices integration with telephony.                                                        | If the value for the parameter is not set, the value "N" will be automatically set by the system. |
-| 282 | Should telephony launch a child request regarding viewing information for an existing request? - Values: "Y" or "N" Default: "N" | Y or N (Default: N) |                   Set whether to enable the automatic launch of a child service request, which is being viewed or executed, by the webservice "view Request".                   | If the value for the parameter is not set, the value "N" will be automatically set by the system. |
-| 283 |                                   Service ID of information request about an existing request.                                   |        Y or N       | Enter the identification number (ID) of the service request, which will be used to launch the child request about the information visualization of an already existing request. |                                           Not applicable                                          |
+|  #  |                                                                            Nome                                                                            |  Valores possíveis  |                                                                                            Finalidade                                                                                            |                                            Orientações complementares                                           |
+|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+| 281 |                                     Ativar WebService de integração com a Telefonia - Valores: "S" ou "N" Default: "N"                                     | S ou N (Default: N) |                                                                  Definir se ativa a integração dos webservices com a telefonia.                                                                  | Caso não seja definido o valor para o parâmetro, será definido pelo sistema automaticamente o valor: “N” (Não). |
+| 282 | A telefonia deve lançar uma solicitação filha, referente à visualização de informações de uma solicitação já existente? - Valores: "S" ou "N" Default: "N" | S ou N (Default: N) |                Definir se ativa o lançamento automático de uma solicitação de serviço filha, da que está sendo visualizada ou executada, pelo webservice “visualizarSolicitacao”.                | Caso não seja definido o valor para o parâmetro, será definido pelo sistema automaticamente o valor: “N” (Não). |
+| 283 |                                       ID do serviço de requisição de informações sobre uma solicitação já existente.                                       |        S ou N       | Informar o número de identificação (ID) do serviço de requisição, o qual será utilizado para lançar a solicitação filha referente à visualização de informações de uma solicitação já existente. |                                                  Não se aplica                                                  |
 
-Table 1 - Parameters list
+Tabela 1 - Lista de parâmetros
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
