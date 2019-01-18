@@ -1,28 +1,28 @@
-title: Cadastrar um colaborador
-Description: Permite cadastrar cada pessoa que possui algum tipo de vínculo com a organização, tais como: um funcionário, um parceiro, etc.
-#Cadastrar um colaborador
+title: Importar colaborador
+Description: permite realizar a importação da planilha de colaborador.
+#Importar colaborador
 
-Esta funcionalidade permite cadastrar cada pessoa que possui algum tipo de
-vínculo com a organização, tais como: um funcionário, um parceiro, etc.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um colaborador.
+Esta funcionalidade permite realizar a importação da planilha de colaborador.
 
 Antes de começar
 --------------------
 
-Para se criar o registro de um colaborador é necessário cadastrar previamente
-uma unidade e um cargo.
+A importação requer o cadastro da planilha para importação do colaborador.
 
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastro
-    Gerais \> Gerência de Pessoal \> Colaborador;
+1.  Acessar a funcionalidade através do menu Sistema \> Importação e Carga de
+    Dados \> Carga Colaborador;
 
-2.  Preencher os campos disponibilizados;
+2.  Clicar na aba **Importação**;
 
-3.  Clicar em "Gravar".
+3.  Clicar em "Escolher arquivo" e selecionar o arquivo o qual deve estar em
+    formato ".xls" ou ".xlsx";
+
+4.  Clicar em "Importar".
+
 
 
 
