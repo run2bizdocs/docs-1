@@ -1,24 +1,25 @@
-title: Configure email template
-Description: Intended to create email templates for system notifications.
-#Configure email template
+title: Configurar modelo de email
+Description: Criar modelos de e-mail para notificações do sistema.
+#Configurar modelo de e-mail
 
-This functionality is intended to create email templates for system
-notifications.
+Esta funcionalidade tem por objetivo criar modelos de e-mail para notificações
+do sistema.
 
-A knowledge allows the attachment of images, links, among other visual
-resources, making the sharing of emails more interactive.
+Um conhecimento permite a anexação de imagens, links, entre outros recursos
+visuais, tornando assim o compartilhamento de e-mails mais interativo.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Settings \> Email
-    Template;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Configurações \> Modelo de E-mail;
 
-2.  Complete the fields available;
+2.  Preencher os campos cadastrais disponibilizados;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
