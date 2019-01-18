@@ -1,27 +1,31 @@
-title: Customize the Knowledge Portal
-Description: Intended to change images in the Knowledge Portal.
-#Customize the Knowledge Portal
+title: Customizar o Portal do Conhecimento
+Description: Alterar imagens que estão no Portal do Conhecimento.
+#Customizar o Portal do Conhecimento
 
-This functionality is intended to change images in the Knowledge Portal.
+Esta funcionalidade tem por objetivo alterar imagens que estão no Portal do
+Conhecimento.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Settings \>
-    Knowledge Portal \> Customize;
+1.  Acessar a funcionalidade através do menu principal Sistema \> Configurações
+    \> Portal do Conhecimento \> Customizar;
 
-2.  Choose the item that will be changed/customized;
+2.  Escolher um o(s) item(ns) que será(ão) modificado/customizado(s);
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-!!! Abstract "ATTENTION"
+!!! Abstract "ATENÇÃO"
 
-    To display the title on the Knowledge Portal screen, set parameter 410 to
-    value "Y" and also select the "Show title" button on the Knowledge Portal
-    Management screen. 
+    Para exibir o título na tela de Portal do Conhecimento, configurar o
+    parâmetro 410 para valor "S" e também selecionar o botão "Exibir título" na
+    tela de Gerenciamento do Portal do Conhecimento.
 
+Relacionado
+
+Configurar parametrização - conhecimento
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
