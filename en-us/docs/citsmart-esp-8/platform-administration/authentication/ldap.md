@@ -1,36 +1,36 @@
 Title: LDAP Configure
 
-# LDAP Configure
+# LDAP Configuration
 
-O LDAP (Lightweight Directory Access Protocol - Protocolo de acesso aos diretórios leves) é um protocolo padrão que permite gerenciar diretórios, ou seja, acessar bancos de informações sobre os usuários de uma rede por meio de protocolos TCP/IP.
+LDAP (Lightweight Directory Access Protocol) is a standard protocol that allows managing directories, that is, accessing information banks about the users of a network through TCP/IP protocols.
 
-Essa funcionalidade permite cadastrar múltiplas conexões LDAP e definir as configurações para cada uma delas.
+This functionality allows to register multiple LDAP connections and configure each one of them.
 
-## Antes de começar
+## Before getting started
 
-É preciso ter cadastrado o horário para agendamento da sincronização automática.
+It's necessary to have registered the time for scheduling automatic synchronization.
 
-## Procedimento
+## Procedure
 
-1. Acessar o menu principal Parametrization > DAP Configuration;
-2. Clicar no botão "New";
+1. Access the main menu Parametrization > LDAP Configuration;
+2. Click on "New";
 
-    REGRA: todos os campos são igualmente relevantes para viabilizar a conexão com o LDAP, enquanto o teste não for bem-sucedido o procedimento de configuração não pode ser considerado completado.
+    RULE: all fields are equally relevant to enable the connection to the LDAP, while the test is not successful, the configuration procedure cannot be considered complete.
 
-3. Preencher os campos disponibilizados;
+3. Complete the fields available;
     
-	REGRA: caso não exista grupos LDAP, preencher o campo “DN Grupo” apenas com um asterisco. Isto fará com que o sistema verifique todo o domínio.
+	RULE: if there are no LDAP groups, complete field "DN Group" with an asterisk only. This will cause the system to verify the entire domain.
 
-4. É possível vincular novos grupos, para isso clicar no botão "Adicionar" na área Grupos LDAP;
+4. It's possible to link new groups by clicking on "Add" in the LDAP Groups area;
 
-    REGRA: antes de pedir para testar DEVE ser clicado o botão "Gravar" para salvar a configuração, caso contrário o teste usará os dados anteriores às alterações feitas na tela.
+    RULE: before asking to test, it MUST click on "Save" to register the configuration, otherwise the test will use the data prior to the changes made on the screen.
     
-    REGRA: quando há um pedido de autenticação na tela de identificação do sistema (login e senha) é executado um ciclo de busca da conexão correta com base nesta configuração, ou seja, há uma tentativa de autenticação para cada domínio aqui cadastrado (isso se houver mais de um).
+    RULE: when an authentication request is made on the system identification screen (login and password), a correct connection search cycle is executed based on this configuration, that is, there's an authentication attempt for each domain registered here (if there is more than one).
     
-5. É possível vincular mapas de campos, para isso clicar no botão "Adicionar" na área Mapeamento de campos;
-6. Clicar no botão "Gravar".
+5. It's possible to link field maps by clicking on "Add" in the Field Mapping area;
+6. Click on "Save".
 
-    REGRA: o sistema não permite excluir um usuário que tem origem no LDAP.
+    RULE: the system does not allow to delete a user that originates in LDAP.
 	
 ## Related
 
