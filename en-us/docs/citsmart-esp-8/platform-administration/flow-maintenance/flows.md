@@ -2,7 +2,7 @@ Title: Flows
 
 # Flows
 
-Fluxos são representações visuais de algo que se movimenta continuamente. No CITSmart ESP, a ferramenta de fluxo possibilita construir os caminhos dos processos, como por exemplo um fluxo de trabalho para determinado serviço, entre outros.
+Flows are visual representations of something that moves continuously. In CITSmart ESP, the flow tool makes possible to construct process paths, for example, a workflow for a given service, among others.
 
 ## Related
 
