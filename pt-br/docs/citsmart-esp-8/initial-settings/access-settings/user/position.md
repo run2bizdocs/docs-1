@@ -1,20 +1,21 @@
-title: Register position
-Description: This feature provides a variety of actions, such as including, changing, and deleting the job positions in the organization.
-#Register position
-This feature provides a variety of actions, such as including, changing, and deleting the job positions in the organization.
+title: Cadastrar cargo
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os cargos existentes na organização.
+# Cadastrar cargo
 
-Procedure
--------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir os cargos existentes na organização.
 
-1.  Access the functionality through the main menu General Registration \>
-    Personnel Management \> Positions;
+Procedimento
+----------------
 
-2.  Complete the fields available;
+1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
+    Gerais \> Gerência de Pessoal \> Cargos;
 
-3.  Click on "Save".
+2.  Preencher o campo disponibilizado;
 
-!!! tip "About"
+3.  Clicar em "Gravar".
+
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
