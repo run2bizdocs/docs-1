@@ -1,38 +1,38 @@
-title: Knowledge base e-mail key fields
-Description: Intended to provide the list of key fields available for the knowledge base-related e-mail template.
-#Knowledge base e-mail key fields
+title: Campos chave dos e-mails de base de conhecimento
+Description: Fornecer a relação dos campos chave disponíveis para o cadastro de modelo de e-mail relacionado à base de conhecimento.
+#Campos chave dos e-mails de base de conhecimento
 
-This document is intended to provide the list of key fields available for the
-knowledge base-related e-mail template.
 
-List of key fields
-----------------------
+Este documento tem o objetivo de fornecer a relação dos campos chave disponíveis
+para o cadastro de modelo de e-mail relacionado à base de conhecimento.
 
-The key fields available for insertion in the knowledge base-related e-mail
-template are listed below:
+Relação dos Campos Chave
+----------------------------
 
-|     KEY FIELDS     |                                              DESCRIPTION                                             |
-|:------------------:|:----------------------------------------------------------------------------------------------------:|
-|   ${APPROVEDNAME}  |               Approver of Knowledge.Informs the name of the approver of the knowledge.               |
-|      ${AUTHOR}     |                  Author of Knowledge.Inform the name of the author of the knowledge.                 |
-|     ${CONTENT}     |               Content of Knowledge.Informs the description of the content of knowledge.              |
-|  ${EXPIRATIONDATE} |                     Expiration date.Informs the expiration date of the knowledge.                    |
-|   ${INITIALDATE}   |                 Date of Creation of Knowledge.Informs the date of knowledge creation.                |
-| ${PUBLICATIONDATE} |                  Publication date.Informs the date of publication of the knowledge.                  |
-| ${SOURCEREFERENCE} |          Source/Knowledge Reference.Informs the description of the source of the knowledge.          |
-|   ${OBSERVATION}   | Justification / Observation.Informs the description of the justification / observation of knowledge. |
-|    ${ORIGINNAME}   |             Origin of Knowledge.It informs the identification of the origin of knowledge.            |
-|      ${ORIGIN}     |                        Origin of knowledge.It informs the origin of knowledge.                       |
-|     ${PRIVACY}     |             Privacy of Knowledge.Informs the identification of the privacy of knowledge.             |
-|    ${SITUATION}    |           Situation of Knowledge.It informs the identification of the knowledge situation.           |
-|      ${TITLE}      |                 Title of Knowledge.Informs the description of the title of knowledge.                |
-|     ${VERSION}     |                        Version of Knowledge.Informs the version of knowledge.                        |
-| ${IDKNOWLEDGEBASE} |               Knowledge base identification.Informs the knowledge base identification.               |
+São relacionados abaixo os campos chave disponíveis para inserção no cadastro de
+modelo de e-mail relacionado à base de conhecimento:
 
-Table 1 - List of key fields
+|         CAMPO-CHAVE        |                                         DESCRIÇÃO                                         |
+|:--------------------------:|:-----------------------------------------------------------------------------------------:|
+|        ${APROVADOR}        |           Aprovador do Conhecimento.Informa o nome do aprovador do conhecimento.          |
+|          ${AUTOR}          |               Autor do Conhecimento.Informa o nome do autor do conhecimento.              |
+|         ${CONTEUDO}        |         Conteúdo do Conhecimento.Informa a descrição do conteúdo do conhecimento.         |
+|      ${DATAEXPIRACAO}      |               Data de Expiração.Informa a data de expiração do conhecimento.              |
+|        ${DATAINICIO}       |         Data de Criação do Conhecimento.Informa a data de criação do conhecimento.        |
+|      ${DATAPUBLICACAO}     |              Data de Publicação.Informa a data de publicação do conhecimento.             |
+|     ${FONTEREFERENCIA}     |       Fonte/Referência do Conhecimento.Informa a descrição da fonte do conhecimento.      |
+| ${JUSTIFICATIVAOBSERVACAO} | Justificativa/Observação.Informa a descrição da justificativa/observação do conhecimento. |
+|        ${NOMEORIGEM}       |           Nome origem do conhecimento.Informa a origem do nome do conhecimento.           |
+|          ${ORIGEM}         |         Origem do Conhecimento.Informa a identificação da origem do conhecimento.         |
+|       ${PRIVACIDADE}       |    Privacidade do Conhecimento.Informa a identificação da privacidade do conhecimento.    |
+|         ${SITUACAO}        |       Situação do Conhecimento.Informa a identificação da situação do conhecimento.       |
+|          ${TITULO}         |           Título do Conhecimento.Informa a descrição do título do conhecimento.           |
+|          ${VERSAO}         |                  Versão do Conhecimento.Informa a versão do conhecimento.                 |
+|    ${IDBASECONHECIMENTO}   |       Identificação do conhecimento.Informa a identificação do conhecimento na base       |
 
+Tabela 1 - Lista de campos chave
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins
