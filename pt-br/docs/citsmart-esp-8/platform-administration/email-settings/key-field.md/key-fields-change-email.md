@@ -1,48 +1,52 @@
-title: Change e-mail key fields
-Description: Intended to provide the list of key fields available for the change template-related e-mail template.
-#Change e-mail key fields
+title: Campos chave de e-mails de mudança
+Description: Fornecer a relação dos campos chave, disponíveis para o cadastro de modelo de e-mail relacionado a mudanças.
+#Campos chave de e-mails de mudança
 
-This document is intended to provide the list of key fields available for the
-change template-related e-mail template.
+Este documento tem o objetivo de fornecer a relação dos campos chave,
+disponíveis para o cadastro de modelo de e-mail relacionado a mudanças.
 
-Key fields list
--------------------
+Relação de Campos Chaves
+----------------------------
 
-The following key fields are listed below for insertion into the change
-template-related e-mail template:
+São relacionados abaixo os campos chave disponíveis para inserção no cadastro de
+modelo de e-mail relacionados a mudanças:
 
-| Key Field             | Description                                                                                      |
-|-----------------------|--------------------------------------------------------------------------------------------------|
-| ${DELAYSTR}           | Delay time.Reports the delay time of the request for change request.                             |
-| ${ACCEPTANCEDATE}     | Date of Acceptance.Informs the date of acceptance of the change request.                         |
-| ${COMPLETIONDATESTR}  | Date of the conclusion.Informs the date of completion of the request for change request.         |
-| ${CAPTUREDATETIME}    | Date and Time of request Capture.Informs the date and time of the capture of the change request. |
-| ${STARTDATETIMESTR}   | Start date.Reports the start date of the change request.                                         |
-| ${REQUESTDATETIMESTR} | Request Record Date and Time.Reports the date and time the change request was recorded.          |
-| ${ENDDATETIMESTR}     | Limit date.Informs the deadline to meet the request for change.                                  |
-| ${STARTDATE}          | Meeting Start Date.Reports the start date of the scheduled meeting.                              |
-| ${VOTINGDATE}         | Date of Voting.Informs the date of the vote to approve the change request.                       |
-| ${DESCRIPTION}        | Description of Change Request.Reports the description of the change request.                     |
-| ${ESTIMATEDDURATION}  | Estimated duration.Reports the estimated duration of the scheduled meeting.                      |
-| ${REQUESTEREMAIL}     | Applicant's e-mail address.Inform the requestor's e-mail of the change request.                  |
-| ${CLOSURE}            | Closing.Informs the description of the closing of the change request.                            |
-| ${STARTTIME}          | Meeting Start Time.Reports the start time of the scheduled meeting.                              |
-| ${CHANGEREQUESTID}    | Change Request Number.Informs the identification number of the change request.                   |
-| ${IMPACTLEVEL}        | Impact.Reports the impact of the change request.                                                 |
-| ${MEETINGLOCATION}    | Place of the Meeting.Informs the location of the scheduled meeting.                              |
-| ${URGENCYLEVEL}       | Urgency.Informs the urgency of the request for change.                                           |
-| ${NAMECATEGORYCHANGE} | Category of Change.Reports the change request category.                                          |
-| ${CONTACTNAME}        | Contact name.Enter the name of the requester to contact.                                         |
-| ${CURRENTGROUP}       | Current Group.Informs the current group responsible for meeting the request for change.          |
-| ${NAMEGROUPLEVEL1}    | Level 1 Group.Informs the level 1 group configured to meet the change request.                   |
-| ${REQUESTERNAME}      | Name of Applicant.Informs the name of the requestor of the change request.                       |
-| ${TASKNAME}           | Assignment.Reports the current job of the change request.                                        |
-| ${PRIORITY}           | Priority.Informs the priority of the change request.                                             |
-| ${STATUS}             | Status of Change.Reports the status of the change request.                                       |
-| ${TYPE}               | Type of Request for Change.Informs the type of change request that has been registered.          |
-| ${TITLE}              | Title of Change.Informs the title of the change request that has been registered.                |
+|        Campo-Chave        |                                                  Descrição                                                 |
+|:-------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|        ${ATRASOSTR}       |             Tempo de Atraso.Informa o tempo de atraso do atendimento da requisição de mudança.             |
+|      ${DATAACEITACAO}     |                   Data de Aceitação.Informa a data de aceitação da requisição de mudança.                  |
+|    ${DATACONCLUSAOSTR}    |           Data de Conclusão.Informa a data da conclusão do atendimento da requisição de mudança.           |
+|     ${DATAHORACAPTURA}    |       Data e Hora de Captura da Requisição.Informa a data e hora da captura da requisição de mudança.      |
+|    ${DATAHORAINICIOSTR}   | Data e Hora do Registro da Requisição.Informa a data e hora em que a requisição de mudança foi registrada. |
+| ${DATAHORASOLICITACAOSTR} | Data e Hora do Registro da Requisição.Informa a data e hora em que a requisição de mudança foi registrada. |
+|   ${DATAHORATERMINOSTR}   |               Prazo Limite.Informa a prazo limite para atendimento da requisição de mudança.               |
+|       ${DATAINICIO}       |                   Data de Início da Reunião.Informa a data de início da reunião agendada.                  |
+|       ${DATAVOTACAO}      |             Data da Votação.Informa a data da votação para aprovação da requisição de mudança.             |
+|        ${DESCRICAO}       |              Descrição da Requisição de Mudança.Informa a descrição da requisição de mudança.              |
+|     ${DURACAOESTIMADA}    |                      Duração Estimada.Informa a duração estimada da reunião agendada.                      |
+|    ${EMAILSOLICITANTE}    |               E-mail do Solicitante.Informa o e-mail do solicitante da requisição de mudança.              |
+|       ${FECHAMENTO}       |                   Fechamento.Informa a descrição do fechamento da requisição de mudança.                   |
+|       ${HORAINICIO}       |                   Hora de Início da Reunião.Informa a hora de início da reunião agendada.                  |
+|   ${IDREQUISICAOMUDANCA}  |         Número da Requisição de Mudança.Informa o número de identificação da requisição de mudança.        |
+|      ${NIVELIMPACTO}      |                             Impacto.Informa o impacto da requisição de mudança.                            |
+|      ${LOCALREUNIAO}      |                            Local da Reunião.Informa o local da reunião agendada.                           |
+|      ${NIVELURGENCIA}     |                            Urgência.Informa a urgência da requisição de mudança.                           |
+|  ${NOMECATEGORIAMUDANCA}  |                     Categoria da Mudança.Informa da categoria da requisição de mudança.                    |
+|       ${NOMECONTATO}      |                        Nome do Contato.Informar o nome do solicitante para contato.                        |
+|     ${NOMEGRUPOATUAL}     |          Grupo Atual.Informa o grupo atual responsável pelo atendimento da requisição de mudança.          |
+|     ${NOMEGRUPONIVEL1}    |     Grupo de Nível 1.Informa o grupo de nível 1 configurado para atendimento da requisição de mudança.     |
+|     ${NOMESOLICITANTE}    |                 Nome do Solicitante.Informa o nome do solicitante da requisição de mudança.                |
+|       ${NOMETAREFA}       |                           Tarefa.Informa a tarefa atual da requisição de mudança.                          |
+|       ${PRIORIDADE}       |                          Prioridade.Informa a prioridade da requisição de mudança.                         |
+|       ${DESCRSTATUS}      |                        Status da Mudança.Informa o status da requisição da mudança.                        |
+|          ${TIPO}          |          Tipo de Requisição de Mudança.Informa o tipo da requisição de mudança que foi registrada.         |
+|         ${TITULO}         |               Título da Mudança.Informa o título da requisição de mudança que foi registrada.              |
+
+
+Tabela 1 - Lista de campos chave
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
