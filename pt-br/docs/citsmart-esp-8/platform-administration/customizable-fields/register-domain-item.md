@@ -3,7 +3,7 @@ Description: Permitir a customização das opções do campo de uma determinada 
 #Cadastrar item de domínio
 
 A funcionalidade de Itens de Domínio tem por objetivo permitir a customização
-das opções do campo de uma determinada tela do sistema.* *Para utilizar a mesma,
+das opções do campo de uma determinada tela do sistema. Para utilizar a mesma,
 deverá ter conhecimento sobre a codificação do sistema.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
