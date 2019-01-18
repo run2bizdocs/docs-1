@@ -1,30 +1,35 @@
-title: Register spreadsheet template to import employee
-Description: This functionality was implemented to allow the direct loading in the employees table 
-#Register spreadsheet template to import employee
-This functionality was implemented to allow the direct loading in the employees table. The system warns in case some mandatory field is not completed and doesn't read the file till its maintenance.
+title: Cadastrar modelo de planilha para importação de colaborador
+Description: Permitir uma carga direta na tabela de colaboradores.
+#Cadastrar modelo de planilha para importação de colaborador
 
-Procedure
--------------
+Esta funcionalidade foi implementada com o intuito de permitir uma carga direta
+na tabela de colaboradores. O sistema avisa caso algum campo obrigatório não
+seja preenchido e não lê o arquivo até que seja dada manutenção.
 
-1.  Access the functionality through the main menu System \> Data Importing and
-    Loading \> Employee Load;
+Procedimento
+----------------
 
-2.  Click on the tab **Spreadsheet Template to Import**;
+1.  Acessar a funcionalidade através do menu Sistema \> Importação e Carga de
+    Dados \> Carga Colaborador;
 
-3.  Complete the fields available and consider that in the mandatory fields, the
-    system doesn't allows to delete the XLS that will be generated to be imputed
-    the information;
+2.  Clicar na aba **Modelo de planilha para importação**;
 
-4.  The field "Active" allows to be put in XLS all the employees as actives;
+3.  Preencher os campos disponibilizados e considerar que nos campos
+    obrigatórios, o sistema não permite deletar do XLS que será gerado para que
+    sejam imputadas as informações;
 
-5.  To generate the spreadsheet template in ".xls", click on "Generate Template
-    .xls";
+4.  O campo "Active" permite que seja colocado no XLS todos os colaboradores
+    como ativos;
 
-6.  To generate the spreadsheet template in ".xlsx", click on "Generate Template
-    .xlsx".
+5.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
+    Modelo .xls";
+
+6.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
+    Modelo .xlsx".
+
     
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
