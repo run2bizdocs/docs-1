@@ -1,109 +1,113 @@
-title: Configure report to view attendance data
-Description: Intended to demonstrate how to configure Smart Reports to use in the management of service (Ticket management).
-#Configure report to view attendance data
+title: Configurar relatório para visualizar dados de atendimento
+Description: Tem a finalidade de demostrar como configurar Smart Reports para utilizar na gestão de atendimento (Ticket management).
+#Configurar relatório para visualizar dados de atendimento
 
-This document is intended to demonstrate how to configure Smart Reports to use
-in the management of service (Ticket management).
+Este documento tem a finalidade de demostrar como configurar Smart Reports para
+utilizar na gestão de atendimento (Ticket management).
 
-Reports by Ticket/Attendance
---------------------------------
+Relatórios por Ticket/Atendimento
+-------------------------------------
 
-*This report is intended to demonstrate, over a period of time, the tickets
-attended and the time spent on each ticket, as well as help in identifying time
-expiration.*
+*Este relatório tem por objetivo demostrar em um período de tempo, os tickets
+atendidos e o tempo gasto em cada ticket, bem como auxiliar na identificação de
+expiração de tempo.*
 
-### Procedure
+### Procedimento
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Reports;
+1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
+    Smart \> Gerador de Relatórios Smart;
 
-2.  Download the file below, called "Attendance Ticket";
+2.  Realizar o download do arquivo abaixo, chamado "TicketAtendimento";
 
-3.  Click on "Import" and select the file quoted above;
+3.  Clicar no botão "Importar" e selecionar o arquivo citado logo acima;
 
-4.  Select the report "RelatorioPorTicketAtendimento" from the feature listing
-    and click on "Edit";
+4.  Selecionar o relatório chamado "RelatorioPorTicketAtendimento" da listagem
+    da funcionalidade e clicar no seu botão de "Editar";
 
-5.  Choose the "None" title module and define the groups that will be allowed to
-    view the created report.
+5.  Escolher o módulo de título "N/A" e definir os grupos que terão permissão de
+    visualizar o relatório criado.
 
-### Use
+### Uso
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Reports;
+1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
+    Smart \> Relatórios Smart;
 
-2.  Click on "Incidents/Requests" and select the item
+2.  Clicar no botão "Incidentes/Requisições" e selecionar o item
     "RelatórioPorTicketAtendimento";
 
-3.  Define the filters with the period you want (with the start and end dates of
-    the tickets);
+3.  Definir os filtros com período desejado (com as datas de início e
+    encerramento dos tickets);
 
-4.  A list will be presented with the data of the following data: Service
-    request, type, service, activity, status, requester, request date and time,
-    deadline, SLA, attendance time (is the sum of the imputs of the hours
-    registered in the occurrences of the ticket) and date and time of closure
-    (if any), besides of a summary report regarding the chosen contract;
+4.  Será apresentado uma listagem com os dados dos seguintes dados: Solicitação
+    de serviço, tipo, serviço, atividade, status, solicitante, data e hora da
+    solicitação, data hora limite, SLA , tempo de atendimento ( é a soma dos
+    imputs das horas registradas nas ocorrências do ticket) e data e hora do
+    encerramento (se houver) além de um relatório sintético referente ao
+    contrato escolhido;
 
-      - You can click on the service request number to present more details
-        about the technician and the hours spent by the technician to answer the
-        ticket.
+    -   É possível clicar no número da solicitação de serviço para apresentar
+        maiores detalhes sobre o técnico e as horas gastas pelo mesmo para
+        atender o ticket.
 
-5.  It's also available to view these Reports in the dashboard, if you configure
-    them when you customize the same Smart Decisions.
+5.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
+    configurar ao personalizar o mesmo Smart Decisions.
 
-!!! Abstract "NOTE"
+!!! Abstract "ATENÇÃO"
 
-    There's in the tab "Related", in the upper left corner of the screen, a
-    knowledge instructing on the creation of custom dashboards.  
+    Existe na aba "Relacionados" no canto superior esquerdo da tela, um
+    conhecimento instruindo sobre a criação personalizada de dashboards.
 
-Reports by Technician and Time Spent
-----------------------------------------
+Relatório por Técnico e Tempo Gasto
+---------------------------------------
 
-*This report aims to identify the idle time for each technician, since it
-presents the sum of the amount of ticket that each technician performed and the
-sum of the times executed by each technician.*  
+*Este relatório tem por objetivo identificar o tempo de ociosidade por cada
+técnico, uma vez que apresenta a soma da quantidade de ticket que cada técnico
+executou e a soma dos tempos executados por cada técnico.*
 
-### Procedure
+## Procedimento
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Reports;
+1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
+    Smart \> Gerador de Relatórios Smart;
 
-2.  Download the file below "TechnicianTime";
+2.  Realizar o download do arquivo abaixo, chamado "TecnicoTempo";
 
-3.  Click on "Import" and select the file quoted below. Click on "Edit" and
-    rename the report with the title "Ticket - time spent by technician";
+3.  Clicar no botão "Importar" e selecionar o arquivo citado logo acima. Clicar,
+    então, no botão "Editar" e renomear o relatório com o título "Ticket - Tempo
+    gasto por técnico";
 
-4.  Select the report and click on "Edit";
+4.  Selecionar o relatório chamado renomeado e clicar no seu botão de "Editar";
 
-5.  Choose the module "none" and define the groups that will have permission to
-    view the report created.
+5.  Escolher o módulo de título "N/A" e definir os grupos que terão permissão de
+    visualizar o relatório criado.
 
-### Use
+### Uso
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Reports;
+1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
+    Smart \> Relatórios Smart;
 
-2.  Click on "Incidents/Requests" and select the item "Ticket - time spent by
-    technician";
+2.  Clicar no botão "Incidentes/Requisições" e selecionar o item "Ticket - Tempo
+    gasto por técnico";
 
-3.  It'll present a list of the following data: Technician, ticket and time
-    spent.
+3.  Será apresentado uma listagem com os dados dos seguintes dados: Técnico,
+    ticket e tempo gasto.
 
-4.  It's also available to view these Reports in the dashboard, if you configure
-    them when you customize the same Smart Decisions.
+4.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
+    configurar ao personalizar o mesmo Smart Decisions.
 
-!!! Abstract "NOTE"
+!!! Abstract "ATENÇÃO"
 
-    There's in the tab "Related", in the upper left corner of the screen, a
-    knowledge instructing on the creation of custom dashboards.  
+    Existe na aba "Relacionados" no canto superior esquerdo da tela, um
+    conhecimento instruindo sobre a criação personalizada de dashboards.
 
-Related
+
+
+Relacionado
 -------
 
-[Customize management panel (Smart Decision)](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+Personalizar o painel gerencial (Smarti Decision)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
