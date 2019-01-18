@@ -1,6 +1,6 @@
-Title: LDAP
+Title: LDAP Configure
 
-# LDAP
+# LDAP Configure
 
 O LDAP (Lightweight Directory Access Protocol - Protocolo de acesso aos diretórios leves) é um protocolo padrão que permite gerenciar diretórios, ou seja, acessar bancos de informações sobre os usuários de uma rede por meio de protocolos TCP/IP.
 
@@ -31,3 +31,9 @@ Essa funcionalidade permite cadastrar múltiplas conexões LDAP e definir as con
 6. Clicar no botão "Gravar".
 
     REGRA: o sistema não permite excluir um usuário que tem origem no LDAP.
+	
+## Related
+
+[Configure parametrization - LDAP][1]
+
+[1]:/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ldap.html
