@@ -1,34 +1,37 @@
-title: Run script
-Description: The purpose is to maintain the scripts registration to its execution in the system.
-#Run script
-The purpose is to maintain the scripts registration to its execution in the system.
+title: Executar script
+Description: Manter registro de scripts para a execução dos mesmos no sistema.
+#Executar script
 
-Procedure
--------------
+O objetivo é manter registro de scripts para a execução dos mesmos no sistema.
 
-1.  Access the functionality through the main menu System \> Database \> Scripts
-    \> Run Scripts;
+Procedimento
+----------------
 
-2.  Click on **Scripts Registration**;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Banco de Dados \> Scripts \> Execução de Scripts;
 
-3.  Complete the fields to a new script;
+2.  Clicar na guia **Cadastro de Scripts**;
 
-4.  Click on "Save";
+3.  Preencher os campos para um novo script;
 
-5.  To run the script that is being created, click on the tab Search Scripts;
+4.  Clicar em "Gravar";
 
-6.  Complete one of the fields available;
+5.  Para executar o script que está sendo criado, clicar na guia Pesquisa de
+    Scripts;
 
-7.  Click on "Search";
+6.  Preencher algum dos campos disponibilizados;
 
-8.  Select the script you want;
+7.  Clicar em "Pesquisar";
 
-9.  It'll be presented on the tab **Script Registration**;
+8.  Selecionar o script desejado;
 
-10. Click on "Run".
+9.  O mesmo será disponibilizado na guia **Cadastro de Script**;
+
+10. Clicar no botão "Executar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Bárbara
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
