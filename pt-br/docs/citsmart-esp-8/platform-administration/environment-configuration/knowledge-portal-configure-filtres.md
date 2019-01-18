@@ -1,23 +1,24 @@
-title: Configure knowledge portal filters
-Description: Is intended to configure the filters that will be displayed enabled to search for a knowledge in the Knowledge Portal.
-#Configure knowledge portal filters
+title: Configurar filtros do Portal do Conhecimento
+Description: configurar os filtros que irão aparecer habilitados para pesquisa de um conhecimento no Portal do Conhecimento.
+#Configurar filtros do Portal do Conhecimento
 
-This functionality is intended to configure the filters that will be displayed
-enabled to search for a knowledge in the Knowledge Portal.
+Esta funcionalidade tem por objetivo configurar os filtros que irão aparecer
+habilitados para pesquisa de um conhecimento no Portal do Conhecimento.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Settings \>
-    Knowledge Portal \> Configuration of Knowledge Portal Filters;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Configurações \> Portal do Conhecimento \> Configuração de Filtros do Portal
+    do Conhecimento;
 
-2.  Select the filters and the order you want them to be presented in the
-    Knowledge Portal;
+2.  Selecionar os filtros e a ordem que se deseja que sejam apresentados no
+    Portal do Conhecimento;
 
-3.  Click on "Save".
+3.  Clicar no botão "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins

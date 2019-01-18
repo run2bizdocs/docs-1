@@ -20,6 +20,10 @@ Procedure
     value "Y" and also select the "Show title" button on the Knowledge Portal
     Management screen. 
 
+Related
+-------
+
+[Configure parametrization - knowledge](https://docs-dev.citsmart.com/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 !!! tip "About"
 
