@@ -42,9 +42,9 @@ Cadastrar um colaborador
 
 Cadastrar uma unidade
 
-Register problem category
+Cadastrar categoria de problema
 
-Manutençaõ de fluxo de trabalho
+Manutenção de fluxo de trabalho
 
 !!! tip "About"
 
