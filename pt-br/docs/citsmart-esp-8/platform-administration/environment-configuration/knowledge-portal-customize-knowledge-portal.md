@@ -22,6 +22,7 @@ Procedimento
     tela de Gerenciamento do Portal do Conhecimento.
 
 Relacionado
+------------
 
 Configurar parametrização - conhecimento
 
