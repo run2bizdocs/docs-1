@@ -45,7 +45,7 @@ Procedimento
     apesar de selecionados por default, terão sua visualização não disponível no
     momento de criação de ticket , esta visualização ocorrerá com a efetivação
     do cadastro. No momento de cadastro do ticket que tenha um formulário do
-    tipo padrão, estarão disponíveis no botão , localizado no canto superior
+    tipo padrão, estarão disponíveis no botão "Menu", localizado no canto superior
     esquerdo, apenas as funcionalidades: IC do Solicitante, Anexos, Agenda,
     Liberação, Projeto, Conhecimento e Leitura de e-mails. todas as
     funcionalidades de habilitação que são apresentadas tanto na tela de
