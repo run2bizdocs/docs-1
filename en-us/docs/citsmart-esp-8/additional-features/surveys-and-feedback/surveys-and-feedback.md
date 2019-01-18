@@ -6,11 +6,11 @@ The platform has mechanisms to measure the satisfaction of users who use a servi
 
 ## Related
 
--[Register satisfaction survey][1]
+[Register satisfaction survey][1]
 
--[Register notification][2]
+[Register notification][2]
 
--[Register email notification][3]
+[Register email notification][3]
 
 
 [1]:/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html
