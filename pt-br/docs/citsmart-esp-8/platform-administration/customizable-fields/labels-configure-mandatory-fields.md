@@ -1,24 +1,24 @@
-title: Configure mandatory fields
-Description: Intended to configure the fields that can be mandatory.
-#Configure mandatory fields
+title: Configurar campos de obrigatoriedade
+Description: Configurar campos que podem ser obrigatórios.
+#Configurar campos de obrigatoriedade
 
+Esta funcionalidade tem por objetivo configurar campos que podem ser
+obrigatórios.
 
-This functionality is intended to configure the fields that can be mandatory.
+Procedimento
+----------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Configurações \> Páginas - Configuração de campos;
 
-1.  Access the functionality through the main menu System \> Settings \> Pages -
-    Field configuration;
+2.  Escolher a página, clicar em "Editar";
 
-2.  Choose the page and click on "Edit";
+3.  Marcar o(s) campo(s) desejados;
 
-3.  Check the fields you want;
-
-4.  Click on "Save"
+4.  Clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins

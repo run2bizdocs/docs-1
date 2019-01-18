@@ -1,43 +1,53 @@
-title: Register problem automatic action
-Description: This feature provides a variety of actions, such as including, changing, and deleting problem type automatic actions. 
-#Register problem automatic action
-Some events will present a situation where the appropriate action will need to be addressed by the problem management process, that is, this functionality is intended to register the problem type automatic actions. This registration will be associated with the automatic actions, where it will be used in the CITSmart event manager registration of Nagios, Zabbix, Inventory and Correlated Events.
-This feature provides a variety of actions, such as including, changing, and deleting problem type automatic actions.
+title: Cadastrar ação automática de problema
+Description: Objetivo realizar o cadastro de ações automáticas do tipo problema.
+#Cadastrar ação automática de problema
 
-Before getting started
---------------------------
+Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
+tratada pelo processo de gerenciamento de problema, ou seja, esta funcionalidade
+tem como objetivo realizar o cadastro de ações automáticas do tipo problema.
+Este cadastro será associado às ações automáticas, onde será usado nos cadastros
+de gerentes de eventos do CITSmart Nagios, Zabbix, Inventory e Eventos
+Correlacionados.
 
-To register an automatic action of change, it's necessary to previously register
-the group, unit, requester (employee), contract being linked to the employee and
-unit, problem category being linked to the flow about the problem.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir ações automáticas do tipo problema.
 
-Procedure
--------------
+Antes de começar
+--------------------
 
-1.  Access the functionality through the main menu System \> Automatic Actions
-    \> Problem Actions;
+Para cadastrar uma ação automática de mudança é preciso registrar previamente o
+grupo, a unidade, o solicitante(colaborador), o contrato e o mesmo estar
+vinculado ao colaborador e a unidade, a categoria de problema e a mesma estar
+vinculada ao fluxo referente ao problema.
 
-2.  Complete the fields available;
+Procedimento
+----------------
 
-3.  Click on "Save".
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Ações Automáticas \> Ações de Problema;
 
-Related
+2.  Preencher os campos disponibilizados;
+
+3.  Clicar em "Gravar".
+
+
+Relacionado
 -----------
 
-[Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+Cadastrar um contrato
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um colaborador
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+Cadastrar uma unidade
 
-Register problem category
+Cadastrar categoria de problema
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+Manutenção de fluxo de trabalho
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 

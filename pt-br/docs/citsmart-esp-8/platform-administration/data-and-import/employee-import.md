@@ -1,29 +1,32 @@
-title: Import employee
-Description: Allows to import the employees spreadsheet.
-#Import employee
+title: Importar colaborador
+Description: permite realizar a importação da planilha de colaborador.
+#Importar colaborador
 
-This functionality allows to import the employees spreadsheet.
 
-Before getting started
---------------------------
+Esta funcionalidade permite realizar a importação da planilha de colaborador.
 
-The import requires to have registered the spreadsheet to import the employee.
+Antes de começar
+--------------------
 
-Procedure
--------------
+A importação requer o cadastro da planilha para importação do colaborador.
 
-1.  Access the functionality through the main menu System \> Data Importing and
-    Loading \> Employee Load;
+Procedimento
+----------------
 
-2.  Click on the tab **Import**;
+1.  Acessar a funcionalidade através do menu Sistema \> Importação e Carga de
+    Dados \> Carga Colaborador;
 
-3.  Click on "Choose File" and select the file that have to be in the format
-    ".xls" or ".xlsx";
+2.  Clicar na aba **Importação**;
 
-4.  Click on "Import".
+3.  Clicar em "Escolher arquivo" e selecionar o arquivo o qual deve estar em
+    formato ".xls" ou ".xlsx";
+
+4.  Clicar em "Importar".
+
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins

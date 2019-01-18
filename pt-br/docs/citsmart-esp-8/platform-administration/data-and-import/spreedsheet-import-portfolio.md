@@ -1,41 +1,44 @@
-title: Register spreadsheet template to import service portfolio
-Description: The purpose of this functionality is to optimize the creation of various services.
-#Register spreadsheet template to import service portfolio
-The purpose of this functionality is to optimize the creation of various services and, consequently, their activities within one or more service portfolios.
+title: Cadastrar modelo de planilha para importação de portfólio de serviços
+Description: Otimizar a criação de vários serviços e consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
+#Cadastrar modelo de planilha para importação de portfólio de serviços
 
-!!! Abstract "NOTE"
+O objetivo desta funcionalidade é otimizar a criação de vários serviços e
+consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
 
-    When generating spreadsheets regardless of the format, the user will find
-    hyperlinked fields. These fields retrieve the enumerated reference with the
-    field description. In these cases the user will use the enumerated one to
-    fill the correct list.
+!!! Abstract "NOTA"
 
-Before getting started
---------------------------
+    Ao gerar as planilhas independente do formato, o usuário encontrará campos
+    com hiperlink. Esses campos recuperam a referência do enumerado com a
+    descrição do campo. Nesses casos o usuário utilizará o enumerado para
+    preenchimento correto da lista.
 
-To load the service portfolio, it's necessary to previously register the service
-type and service category.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para realizar o carregamento de portfólio de serviços é preciso registrar
+previamente o tipo de serviço e a categoria de serviço.
 
-1.  Access the functionality through the main menu System \> Data Importing and
-    Loading \> Service Portfolio Load;
+Procedimento
+----------------
 
-2.  To register a spreadsheet template to import, click on the tab **Spreadsheet
-    Template for Import**;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Importação e Carga de Dados \> Carga do Portfólio de Serviços;
 
-3.  The spreadsheet to import is structured as the step by step to create a
-    service portfolio with the steps Portfolio, Service and Activity
-    (Incident/Request);
+2.  Para cadastrar um modelo de planilha para importação, clicar na
+    guia **Modelo de planilha para importação**;
 
-4.  To generate the spreadsheet template in ".xls", click on "Generate Template
-    .xls";
+3.  O cadastro de planilha para importação está estruturado conforme o passo a
+    passo para se criar um portfólio de serviços com as etapas Portfólio,
+    Serviço e Atividade (Incidente/Requisição);
 
-5.  To generate the spreadsheet template in ".xlsx", click on "Generate Template
-    .xlsx".
+4.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
+    Modelo .xls";
+
+5.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
+    Modelo .xlsx".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
