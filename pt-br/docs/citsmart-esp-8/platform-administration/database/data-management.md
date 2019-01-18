@@ -1,32 +1,34 @@
-title: Data management
-Description: Generate exportation and importation of data in the system table.
-#Data management
+title: Gerenciar dados
+Description: Gerar exportação e importação de dados das tabelas do sistema.
+#Gerenciar dados
 
-The purpose of this functionality is to generate exportation and importation of
-data in the system table.
+O objetivo desta funcionalidade é gerar exportação e importação de dados das
+tabelas do sistema.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Database \> Data
-    Management;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Banco de Dados \> Gerenciamento de Dados;
 
-2.  Click on "Load Metadata" to update the table list;
+2.  Clicar em "Carregar Metadados" para atualizar a listagem de tabelas;
 
-3.  To generate system exportation table in "XML", click on "Export All", to
-    exporting all system table in the format chosen;
+3.  Para gerar exportação das tabelas do sistema em formato ".XML", clicar no
+    botão "Exportar Tudo", para a exportação de todas as tabelas do sistema no
+    formato referente;
 
-4.  To generate the system table exportation in ".SQL", click on "Export All
-    SQL", to export all system tables with SQL command;
+4.  Para gerar exportação das tabelas do sistema em formato ".SQL", clicar no
+    botão "Exportar Tudo SQL", para a exportação de todas as tabelas do sistema
+    com os comandos SQLs;
 
-5.  To export a table, double click on the table you want;
+5.  Para exportar uma tabela, clicar duas vezes na tabela desejada;
 
-6.  Set the data that will be exported;
+6.  Definir os dados que serão exportados;
 
-7.  Click on "Process".
+7.  Clicar em "Processar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
