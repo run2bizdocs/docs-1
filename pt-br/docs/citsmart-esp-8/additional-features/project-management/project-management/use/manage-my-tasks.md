@@ -1,33 +1,37 @@
-title: Manage my project tasks
-Description: Is intended to manager your task related to the projects.
-#Manage my project tasks
-This functionality is intended to manager your task related to the projects.
+title: Gerenciar minhas tarefas de projeto
+Description: Tem o objetivo de gerenciar suas tarefas relacionadas aos projetos.
+#Gerenciar minhas tarefas de projeto
 
-Before getting started
---------------------------
+Esta funcionalidade tem o objetivo de gerenciar suas tarefas relacionadas aos
+projetos.
 
-It's necessary to have tasks attributed to your user.
-
-Procedure
+Antes de começar
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Project Management \> My Tasks;
+É necessário ter tarefas atribuídas ao seu usuário.
 
-2.  To edit the task, click on the icon “Edit task” , change the data and click
-    on "Add task";
+Procedimento
+----------
 
-3.  To register the hours worked, with the task you have choose, click on the
-    icon “Post hours” of the task and complete the data necessary. Then, click
-    on "Save";
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Projetos \> Minhas Tarefas;
 
-4.  To verify the register about the time spent with the tasks, click on the
-    icon “Timesheet” to view the timesheet.
+2.  Para editar a tarefa, clicar no ícone "Editar tarefa" , alterar os dados conforme a
+    necessidade, clicar no botão "Adicionar tarefa";
+
+3.  Para registrar as horas trabalhadas com a tarefa escolhida, apertar o
+    ícone "Lançar horas" da tarefa e preencher os campos necessários (data, tempo gasto
+    (horas), comentários e atividade). Logo após, clicar no botão "Gravar" para
+    efetuar a operação;
+
+4.  Para verificar o registro de horas gastas com as tarefas, pressionar o
+    ícone "Timesheet" para visualizar o timesheet.
+
     
-    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
+    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
