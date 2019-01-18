@@ -2,9 +2,9 @@ Title: General Import
 
 # General Import
 
-É possível importar uma gama de dados para o CITSmart ESP, isto pode ajudar no processo de configuração da ferramenta ou de desenho dos processos.
+É possível importar uma gama de dados para o CITSmart ESP, isto pode ajudar no processo de configuração da ferramenta ou no desenho dos processos.
 
-# Related
+## Related
 
 [Import employee][1]
 
