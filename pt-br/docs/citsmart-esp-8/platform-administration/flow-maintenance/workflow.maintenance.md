@@ -1,55 +1,58 @@
-title: Workflow maintenance
-Description: Designed to model your business objectives, describing the steps that need to be taken to achieve those goals through a flowchart.
-#Workflow maintenance
+title: Manutenção de fluxo de trabalho
+Description: Modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos, através de um fluxograma.
+#Manutenção de fluxo de trabalho
 
-The Flow Maintenance is designed to model your business objectives, describing
-the steps that need to be taken to achieve those goals through a flowchart.
+A funcionalidade de Manutenção de Fluxos tem a finalidade de modelar seus
+objetivos de negócio, descrevendo os passos que precisam ser executados para
+atingir esses objetivos, através de um fluxograma.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a workflow.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um fluxo de trabalho.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the main menu System \> Flow Maintenance;
+1-  Acessar o menu principal Sistema \> Manutenção de Fluxos;
 
-2.  Click on "New";
+2-  Clicar no botão "Novo";
 
-3.  In the tab Flow Data, complete the fields available and click on "Save";
+3-  Na aba Dados do Fluxo, preencher os campos disponibilizados e clicar em
+    "Gravar";
 
-4.  In the tab Diagram, it'll be made the flow design. There are 6 group of
-    connectors:
+4-  Na aba Diagrama será realizado o desenho do fluxo. Existem 6 grupos de
+    conectores:
 
-    + Events: it presents the events elements to be used in the flow design;
+-   **Eventos:** apresenta os elementos de eventos para ser utilizado no desenho
+    do fluxo;
 
-    + Activities: it presents the tasks elements to be used in the flow
-    design;
+-   **Tarefas:** apresenta os elementos de tarefas para ser utilizado no desenho
+    do fluxo;
 
-    + Gateways: it presents the conditions elements to be used in the flow
-    design.
+-   **Gateways:** apresenta os elementos de condições para ser utilizado no
+    desenho do fluxo.
 
-1.  To insert the elements, simply click on the element you want and drag it to
-    the design area. When dragging and dropping the element into the design
-    area, a screen for setting properties is displayed;
+5-  Para inserir os elementos, basta clicar no elemento desejado e arrastá-lo
+    para a área de desenho. Ao arrastar e soltar o elemento na área de desenho,
+    será exibida uma tela para definição das propriedades;
 
-2.  Each element, when dragged and placed in the design area, will open a window
-    with its configuration guides;
+6-  Cada, elemento quando arrastado e colocado na área de desenho, abrirá uma
+    janela com guias de configuração do mesmo;
 
-3.  Remember that:
+7-  Vale lembrar que:
 
-    + the rules configured in the flow will have priority over the service request
-    template markings, as this is a complement to the flow;
+-   as normativas configuradas no fluxo terão prioridade em relação às marcações
+    do template de solicitação de serviço, pois esta é um complemento do fluxo;
 
-    + to use the component "Watson Conversation" the organization should have the IBM BlueMIX
-    architecture, allowing the access to the Watson API Conversation;
+-   para usar o componente "Conversação Watson" a organização deve possuir a arquitetura IBM
+    BlueMIX, possibilitando assim acesso à API Conversation do Watson;
 
-    + to delete an element that was entered in the flow design, click on it and
-    click the buttons Ctrl+Delete.
+-   para excluir um elemento que foi inserido no desenho do fluxo, clicar no
+    mesmo e pressionar as teclas Ctrl+Delete.
 
-1.  After design the flow and its configuration, click on "Save".
+8- Após o desenho do fluxo e suas configurações, clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins
