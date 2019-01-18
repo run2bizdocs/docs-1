@@ -9,7 +9,7 @@ notificação, informar os modelos de e-mail para escalar a requisição de muda
 informar o nome dos fluxos referentes a aplicação e definir o tipo de votação
 usado no comitê consultivo de mudança, dentre outras ações.
 
-**Procedimento**
+Procedimento
 ----------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal
