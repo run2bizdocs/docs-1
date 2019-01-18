@@ -1,22 +1,23 @@
-title: Data import management
-Description: Intended to import the data.
-#Data import management
+title: Gerenciar importação dados
+Description: Realizar a importação de dados.
+#Gerenciar importação dados
 
-This functionality is intended to import the data.
+Esta funcionalidade tem por objetivo realizar a importação de dados.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Import Management;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Gerência de Importação;
 
-2.  Complete the fields available;
+2.  Preencher os campos disponibilizados;
 
-3.  To execute the importation, double click on "Run";
+3.  Para execução da importação de dados clicar no botão "Executar";
 
-4.  Click on "Save".
+4.  Clicar no botão "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
