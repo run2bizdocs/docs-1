@@ -2,6 +2,7 @@ title: Cadastrar cargo
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os cargos existentes na organização.
 #Cadastrar cargo
 
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir os cargos existentes na organização.
 
