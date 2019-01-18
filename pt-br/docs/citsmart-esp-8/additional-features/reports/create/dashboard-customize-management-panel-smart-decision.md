@@ -38,26 +38,26 @@ Procedimento
 1.  Para adicionar elementos como links, smart reports ou widgets, clicar no
     ícone "Habiliar modo de edição" e em seguida em "Adicionar novo widget" :
 
-  -   *Acesso Rápido* :
+    +   *Acesso Rápido* :
 
-    -   Clicar em *Links;*
+        +   Clicar em *Links;*
 
-        -   Clicar no ícone "Editar configurações do widget" referente a caixa de *Links*;
+            +   Clicar no ícone "Editar configurações do widget" referente a caixa de *Links*;
 
-        -   Preencher o campo disponibilizado e clicar em "Adicionar" para
-            definir o *Tipo*, se "Interno" selecionar o Menu do sistema (ex:
-            Processos \> Gerência de Portfólio e Catálogo \> Smart Portal), se
-            "Externo" definir o Título/Chave e acrescentar a URL;
+            +   Preencher o campo disponibilizado e clicar em "Adicionar" para
+                definir o *Tipo*, se "Interno" selecionar o Menu do sistema (ex:
+                Processos \> Gerência de Portfólio e Catálogo \> Smart Portal), se
+                "Externo" definir o Título/Chave e acrescentar a URL;
 
-        -   Clicar em "Aplicar".
+        +   Clicar em "Aplicar".
 
- -   *Relatórios Smart:*
+    +   *Relatórios Smart:*
 
-    -   escolher o tipo de relatório que ficará no painel gerencial.
+        +   escolher o tipo de relatório que ficará no painel gerencial.
 
- -   *Widgets*:
+    +   *Widgets*:
 
-    -   escolher o tipo de widget que ficará no painel gerencial.
+        +   escolher o tipo de widget que ficará no painel gerencial.
 
 1.  Para salvar as alterações no painel gerencial com os widgets, clicar no
     ícone "Salvar alterações" ;
