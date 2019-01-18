@@ -1,33 +1,37 @@
-title: Verify yield control by employee
-Description: Is intended to obtain a report about the ticket attendance of a group or employee. 
-#Verify yield control by employee
-This functionality is intended to obtain a report about the ticket attendance of a group or employee.
+title: Verificar controle de rendimento por colaborador
+Description: Tem por objetivo obter um relatório quanto ao atendimento de tickets de um grupo ou de um colaborador.
+#Verificar controle de rendimento por colaborador
 
-Before getting started
---------------------------
+Esta funcionalidade tem por objetivo obter um relatório quanto ao atendimento de
+tickets de um grupo ou de um colaborador.
 
-To get the report, it's necessary to previously register the employee and group.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para obter o relatório é necessário registrar previamente o colaborador e o
+grupo.
 
-1.  Access the functionality through the main menu General Registration \>
-    Personnel Management \> Control of Personnel Income;
+Procedimento
+----------------
 
-2.  Click on the tab **Yield Monitoring**;
+1.  Acessar a funcionalidade através do menu de navegação principal Cadastros
+    Gerais \> Gerência de Pessoal \> Controle de rendimento de Pessoal;
 
-3.  Complete the fields available;
+2.  Clicar na aba **Controle de Rendimento**;
 
-4.  Click on "Search".
+3.  Preencher os campos disponibilizados;
 
-Related
+4.  Clicar em "Pesquisar".
+
+
+Relacionado
 -----------
 
-[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+Cadastrar um grupo
 
-[Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+Cadastrar um colaborador
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Bárbara
+    <b>Updated:</b>01/18/2019 – Anna Martins
