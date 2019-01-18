@@ -104,7 +104,7 @@ executou e a soma dos tempos executados por cada técnico.*
 Relacionado
 -------
 
-Personalizar o painel gerencial (Smarti Decision)
+Personalizar o painel gerencial (Smart Decision)
 
 
 !!! tip "About"
