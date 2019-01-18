@@ -8,10 +8,10 @@ unidade.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Pessoal \> Relatório Unidade Colaborador;
 
-2.  Definir os filtros conforme sua necessidade;
+2-  Definir os filtros conforme sua necessidade;
 
 !!! Abstract "ATENÇÃO"
 
@@ -19,7 +19,7 @@ Procedimento
     as informações de todos os colaboradores ativos da(s) respectivas(s)
     unidades(s), referente ao contrato informado.
 
-1.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
+3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
     clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
 
