@@ -12,7 +12,7 @@ Obter as informações da conta de e-mail e configurar permissões de acesso ao 
 
 1. Acessar o menu principal Parametrization > Email
 
-* Configurar o SMTP
+    - Configurar o SMTP
 
 |ID |Descrição | Exemplo |
 |---|----------|---------|
@@ -25,7 +25,7 @@ Obter as informações da conta de e-mail e configurar permissões de acesso ao 
 |269| Porta| 587 |
 
 
-* Configurar o IMAP
+    - Configurar o IMAP
 
 |ID | Descrição | Exemplo |
 |---|-----------|---------|
