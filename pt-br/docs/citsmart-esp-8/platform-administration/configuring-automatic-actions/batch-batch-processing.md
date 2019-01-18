@@ -1,36 +1,38 @@
-title: Batch Processing
-Description: Intended to register the batch processing, that can be used in other system routines.
-#Batch Processing
+title: Processamento Batch
+Description: Tem o objetivo de registrar o processamento batch, que poderá ser utilizado em outras rotinas do sistema.
+#Processamento Batch
 
-This functionality is intended to register the batch processing, that can be
-used in other system routines.
+Esta funcionalidade tem o objetivo de registrar o processamento batch, que
+poderá ser utilizado em outras rotinas do sistema.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Batch Processing;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Processamento Batch;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available (description, type [Java class, RhinoScript,
-    SQL]; status; cron expression that defines the routine execution time and
-    the context of the routine to be executed in the system);
+3.  Preencher os campos disponibilizados (descrição, tipo [classe Java,
+    RhinoScript, SQL]; situação; expressão cron que define o horário de execução
+    da rotina e o conteúdo da rotina, onde será descrito o contexto da rotina a
+    ser executada na ferramenta);
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
 
-Batch Routines
-------------------
+Rotinas Batch
+-----------------
 
--   Return server time (download script attached);
+-   Retornar horário do Servidor (baixar script em anexo);
 
-    -   Type: RhinoScript
+    -   Tipo: RhinoScript
 
--   Perform e-mail reading (download script attached).
+-   Realizar leitura de e-mail (baixar script em anexo).
 
-    -   Type: Java class
+    -   Tipo: Classe Java
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
