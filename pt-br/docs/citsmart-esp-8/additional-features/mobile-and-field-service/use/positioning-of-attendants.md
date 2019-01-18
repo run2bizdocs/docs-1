@@ -1,34 +1,41 @@
-title: Verify positioning of attendants
-Description: Is intended to verify the positioning of the technicians,  
-#Verify positioning of attendants
-This functionality is intended to verify the positioning of the technicians, that is, the current location of the field technicians, responsible for the fulfillment of the service requests.
-In this screen, you can view the location of the technician on the map according to the filters provided.
+title: Verificar o posicionamento dos atendentes
+Description: verificar o posicionamento dos técnicos, ou seja, a localização atual dos técnicos de campo, responsáveis pelo atendimento das solicitações de serviço.
+#Verificar o posicionamento dos atendentes
 
-Before getting started
---------------------------
+Esta funcionalidade tem por objetivo verificar o posicionamento dos técnicos, ou
+seja, a localização atual dos técnicos de campo, responsáveis pelo atendimento
+das solicitações de serviço.
 
-It's necessary to configure the system connection with Google APIs.
+Nesta tela, poderá visualizar a localização do(s) técnicos(s) no mapa de acordo
+com os filtros informados.
 
-Procedure
--------------
+Antes de começar
+--------------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Service Force Management \> Positioning of Attendants;
+É necessário configurar a conexão do sistema com as API's do Google.
 
-2.  Define the filters and click on "Save";
+Procedimento
+----------------
 
-3.  The location of the technicians will be displayed on the map. Then click on
-    the location of the technician to verify the information regarding the
-    service request fulfillment.
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
+    Integrada \> Gerência de Força de Atendimento \> Posicionamento dos
+    Atendentes;
 
-Related
+2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar";
+
+3.  Serão exibidos no mapa os pontos de localização dos técnicos. Clicar, então,
+    no ponto de localização do técnico para verificar as informações referentes
+    ao atendimento da solicitação de serviço.
+
+
+Relacionado
 -------
 
-[CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+Manual de configuração do servidor CITSmart Enterprise ITSM para uso de APPs(iOS e Android)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Larissa Lourenço
+    <b>Updated:</b>01/18/2019 – Anna Martins
 
