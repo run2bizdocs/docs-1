@@ -1,39 +1,37 @@
-title: Create profile access
-Description: Defines which rights and permissions the user have in the system.
-#Create profile access
+title: Criar perfil de acesso
+Description: Define quais direitos e permissões tem o usuário do sistema.
+#Criar perfil de acesso
 
-The profile access defines which rights and permissions the user have in the
-system.
+O perfil de acesso define quais direitos e permissões tem o usuário do sistema.
 
-After authenticate the user, the process definition of certain access determines
-what he/she can do in the system.
+Após o usuário ser autenticado o processo de definição de acesso determina o que
+ele pode fazer no sistema.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a profile access.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um perfil de acesso.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the Profile Access functionality through the main menu Access and
-    Permission \> Access Profile;
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Perfil de Acesso;
 
-2.  Enter the name of the profile you want to search, in the search tab;
+2.  Inserir o nome do perfil ou procurar por um já existente, na aba de
+    pesquisa;
 
-3.  Click and select the action fields (Search, Save and Delete) of each
-    functionality. When determine the type of access profile,
-    selecting/deselecting a checkbox, all checkboxes subordinate to this in the
-    structure are also selected/deselected in cascade;
+3.  Clicar e selecionar os campos de ação (Pesquisar, Gravar e Deletar) de cada
+    funcionalidade. Ao determinar o tipo de perfil de acesso,
+    marcando/desmarcando um checkbox, todos os checkboxs subordinados a este na
+    estrutura são igualmente marcados/desmarcados em cascata;
 
-4.  Configure the System Access actions (define whether the profile will have
-    access to the system from the portal), Access by situation of the Work Order
-    (select the WO status that the profile will have access to) and Access by
-    invoice status (select the invoice status that the profile will have access
-    to);
+4.  Configurar as ações de Acesso ao sistema (definir se o perfil terá acesso ao
+    sistema a partir do portal), *Acesso por situação de Ordem de Serviço*
+    (selecionar as situações de OS que o perfil terá acesso) e *Acesso por situação de fatura* (selecionar as situações da fatura que o perfil terá acesso);
 
-5.  Click on "Save".
+5.  Clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
