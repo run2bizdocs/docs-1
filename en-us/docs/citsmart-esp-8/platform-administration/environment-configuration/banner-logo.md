@@ -2,16 +2,16 @@ Title: Configure Banner logo
 
 # Configure Banner logo
 
-É posível alterar a logomarca em seu ambiente para que o CITSmart tenha a indentidade de sua empresa.
+It's possible to change the banner in your environment so CITSmart will have the identity of your company.
 
 # Procedure
 
-1. Access the main menu System > Settings > Environment Configuration;
+1. Access the main menu System > Settings > Environment Configurations;
 2. To change one of the images (start logo, portal logo, system logo and report logo), click on "Select an image";
 3. Click on the pointed box to drag a file or make the upload;
 4. Click on "Save";
 
-!!! info "Alterar ícone de carregamento"
-    Para alterar o ícone de carregamento, altere o valor do parametro 387 para "YES".
+!!! info "Change the loading icon"
+    To change the loading icon, change the value of the parameter 387 to "YES".
 	
 	Path: Parametrization > CITSmart Parameters > 387.

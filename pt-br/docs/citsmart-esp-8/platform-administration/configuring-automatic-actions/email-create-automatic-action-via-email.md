@@ -1,32 +1,36 @@
-title: Create automatic action via email
-Description: Intended to program the automatic opening of a service request through email.
-#Create automatic action via email
+title: Criar ação automática via e-mail
+Description: Programar a abertura automática de solicitações de serviço via e-mail.
+#Criar ação automática via e-mail
 
-This functionality is intended to program the automatic opening of a service
-request through email.
+A finalidade desta funcionalidade é programar a abertura automática de
+solicitações de serviço via e-mail.
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir ação automática via e-mail.
 
-The automatic creation via email requires the previous registration of the
-automatic action of incident/request/procedure.
+Antes de começar
+--------------------
 
-Procedure
--------------
+A criação automática via e-mail requer o registro prévio da ação automática de
+incidentes/requisições/procedimentos.
 
-1.  Access the functionality through the main menu System \> Settings \>
-    Automatic Action Setting Via Email;
+Procedimento
+----------------
 
-2.  Complete the fields available;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema
+    \> Configurações \> Configuração de ação automática via e-mail;
 
-3.  Click on "Save".
+2.  Preencher os campos disponibilizados;
 
-Related
+3.  Clicar no botão "Gravar".
+
+
+Relacionado
 -------
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+Cadastrar ação automática de incidentes/requisições/procedimentos
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
