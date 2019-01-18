@@ -27,14 +27,14 @@ Procedimento
 
 3.  O Tipo de Template selecionado irá definir os campos para preenchimento:
 
--   **JSP**: esta funcionalidade permite personalizar a tela de serviços com
+ -   **JSP**: esta funcionalidade permite personalizar a tela de serviços com
     referência, principalmente, na gerência de compras e viagens. Dentro do tipo
     JSP existem sub-tipos previamente cadastrados. A utilidade deste tipo de
     template só é observada nas versões anteriores à 7.2.3.9. Esta classe de
     template deverá ser manipulada por analista que possua conhecimento de
     programação JAVA
 
--   **Questionário**: mesmo que desabilitada a opção de "Habilita editar
+ -   **Questionário**: mesmo que desabilitada a opção de "Habilita editar
     questionário", essa edição será possível quando ocorrer o cadastro do
     ticket. Existem duas funções de aprovação que podem ser configuradas, na
     tela de template de solicitação de serviço ou na de manutenção de fluxo. Via
@@ -61,7 +61,7 @@ Procedimento
     serviço concomitantemente com a tela de manutenção de fluxo e a atividade do
     portfólio.
 
--   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
+ -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
     Neuro e página Neuro são disponibilizados. Também é possível eleger
     a versão do formulário ao clicar no botão "Versão específica do
     formulário". As regras do template do tipo *Questionário* são válidas para o
