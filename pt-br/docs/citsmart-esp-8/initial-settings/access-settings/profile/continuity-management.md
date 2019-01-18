@@ -1,38 +1,39 @@
-title: Define access permission to continuity management
-Description: Intended to define who will have access to the continuity management functionalities, and which type of access is allowed (reading, saving and/or deleting).
-#Define access permission to continuity management
+title: Definir a permissão de acesso para o gerenciamento de continuidade
+Description: Tem por objetivo definir quem terá acesso às funcionalidades do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
+#Definir a permissão de acesso para o gerenciamento de continuidade
 
-This functionality is intended to define who will have access to the continuity
-management functionalities, and which type of access is allowed (reading, saving
-and/or deleting).
+Esta funcionalidade tem por objetivo definir quem terá acesso às funcionalidades
+do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura,
+gravação e/ou exclusão).
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-Before define the access permission to the module Continuity Management, it's
-necessary to create a profile access.
+Antes de definir a permissão de acesso ao módulo Gerenciamento de Continuidade é
+necessário criar um perfil de acesso.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Access and Permission \>
-    Continuity Management;
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Gerência de Continuidade;
 
-2.  Click on "Profile access";
+2.  Clicar sobre o campo "Perfil de acesso";
 
-3.  Search and select the profile you want;
+3.  Pesquisar e selecionar o perfil de acesso desejado;
 
-4.  To each functionality of the continuity management, it's necessary to define
-    the actions (search, save and/or delete) the profile will be able to make;
+4.  Para cada funcionalidade do gerenciamento de continuidade é necessário
+    definir as ações (pesquisar, gravar e/ou excluir) que o perfil poderá
+    realizar;
 
-5.  Click on "Save".
+5.  Clicar no botão "Gravar" para efetuar a operação.
 
-Related
+Relacionado
 -------
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+Criar perfil de acesso
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
