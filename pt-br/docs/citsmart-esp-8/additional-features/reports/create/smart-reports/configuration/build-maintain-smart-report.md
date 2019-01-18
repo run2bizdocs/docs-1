@@ -1,73 +1,83 @@
-title: Build and maintain smart reports
-Description: Intended to provide the ease of custom reporting with the required functionality data, without the need for new updates or additional software.
-#Build and maintain smart reports
+title: Construir e manter relatórios Smart - V. 8.0
+Description: Tem o objetivo de prover a facilidade de elaboração de relatórios personalizados com os dados das funcionalidades requeridas, sem necessidade de novas atualizações ou softwares adicionais.
+#Construir e manter relatórios Smart - V. 8.0
 
-This functionality is intended to provide the ease of custom reporting with the
-required functionality data, without the need for new updates or additional
-software.
+Esta funcionalidade tem o objetivo de prover a facilidade de elaboração de
+relatórios personalizados com os dados das funcionalidades requeridas, sem
+necessidade de novas atualizações ou softwares adicionais.
 
-Before getting started
---------------------------
+**Antes de começar**
+--------------------
 
-It's necessary to have registered sub-reports.
+É necessário o cadastro prévio de sub relatórios.
 
-Procedure
--------------
+**Procedimento**
+----------------
 
-1-  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Report Creator;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Relatórios Smart \> Gerador de Relatórios Smart;
 
-2-  Click on "New";
+2.  Clicar no botão "Novo";
 
-3-  Complete the necessary fields. Define the type:
+3.  Preencher os campos necessários. Definir o tipo:
 
-   + SQL: create a Sub Report "SQL" (this type allows you to create reports that return the database information through a Query). When selecting this option, it's necessary to also inform the type of report to be created, the business rule concerning it, the report designer, the parameter and the script;  
+    1.  SQL: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
+        retornam as informações do Banco de dados através de uma Query). Ao
+        selecionar esta opção, será necessário informar também o tipo de
+        relatório a ser criado, a regra de negócio concernente ao mesmo, o
+        designer do relatório, o parâmetro e o script;
 
-  + RhinoScript: to create a report that returns the information of the Database through a "Script", it's necessary to select the type "RhinoScript". It'll be necessary to choose the report type, define the parameters and describe the script;  
+    2.  RhinoScript: para criar um relatório que retorna as informações do Banco
+        de dados através de um "Script" é necessário selecionar o tipo
+        "RhinoScript". Será preciso eleger o tipo de relatório, definir os
+        parâmetros e descrever o script;
 
-  + JPS: create a report with dynamic content. When opting for this type, you must inform the parameters and the "JSP" script;  
+    3.  JSP: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
+        deverá informar os parâmetros e o script "JSP";
 
-  + Neuro: create a report of type "Neuro", simply link a previously registered "Neuro" form.  
+    4.  Neuro: cria um relatório do tipo "Neuro", basta vincular um formulário
+        "Neuro" previamente cadastrado.
 
+!!! Abstract "NOTA"
 
-
-!!! Abstract "NOTE"
-
-    To create a Sub Report (Drill) the "Report Type" should be " Pie Chart
-    "or" Bar Chart ".  
-
-4- Define the module (functionality) where the report being created will be
-    displayed:
-
-   +	N/A: select this option if you want the report not to be displayed in any module;  
-
-   +	General: select this option to display the report in one or more modules, where you want the report to be displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart), Release, Change, Problem);  
-
-   +	Specific: select a single module where you want the report to be displayed (Configuration, Incidentes/Requestes, Incidents/Requests (chart), Release, Change, Problem).  
+    Para se criar um Sub Relatório (Drill) o " Tipo de relatório" deverá ser
+    "Gráfico de pizza" ou " Gráfico de Barra".**
 
 
-4-  Define the module (functionality) where the report being created will be
-    displayed:
+1.  Definir o módulo (funcionalidade) onde será exibido o relatório que está
+    sendo criado:
 
-5-  Click on "Save";
+-   **N/A**: selecionar essa opção, caso queira que o relatório não seja exibido
+    em nenhum módulo;
 
-6-  There is the possibility to also import a "Report". Therefore, click on
-    "Import" and link the file containing the information you want.
+-   **Geral**: selecionar essa opção para exibição do relatório em um ou mais
+    módulos, onde deseja que o relatório seja exibido ( Configuração,
+    Incidentes/Requisições, Incidentes/Requisições (Gráfico), Liberação,
+    Mudanças, Problemas);
 
-!!! Abstract "ATTENTION"
+-   **Específico**: selecione um único módulo onde deseja que o relatório seja
+    exibido (Configuração, Incidentes/Requisições, Incidentes/Requisições
+    (Gráfico), Liberação, Mudanças, Problemas).
 
-    The reports created here will be displayed in the "Smart Reports" screen,
-    where you can view the relevant data for each report.  
+1.  Clicar no botão "Gravar";
 
-Related
+2.  Existe a possibilidade também de importar um "Relatório". Para tanto, clicar
+    no botão "Importar" e vincular o arquivo contendo as informações desejadas;
+
+
+!!! Abstract "ATENÇÃO"
+
+    Os relatórios aqui criados serão exibidos na tela de "Relatórios Smart",
+    onde será possível visualizar os dados pertinentes de cada relatório.
+
+
+Relacionado
 -------
 
-[Create Smart Report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
-
-
+Gerar relatórios Smart
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
