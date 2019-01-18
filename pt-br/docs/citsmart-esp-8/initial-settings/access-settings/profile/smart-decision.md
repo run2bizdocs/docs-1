@@ -1,27 +1,27 @@
-title: Define smart decision access permission
-Description: Is intended to allow the Smart Decision access permission to set who will have access to the widgets to insert in the dashboard.
-#Define smart decision access permission
+title: Definir a permissão de acesso das decisões Smart
+Description: Permite definir quem terá acesso aos widgets para inserção no dashboard o qual é exibido na tela principal do sistema.
+#Definir a permissão de acesso das decisões Smart
 
-This functionality is intended to allow the Smart Decision access permission to
-set who will have access to the widgets to insert in the dashboard, which will
-be presented in the system main screen.
+A funcionalidade de permissão de acesso das Decisões Smart permite definir quem
+terá acesso aos widgets para inserção no dashboard o qual é exibido na tela
+principal do sistema.
 
-Procedure
--------------
+Procedimento
+---------
 
-1.  Access the functionality through the main menu Access and Permission \>
-    SmartDecisions;
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Decisões Smart;
 
-2.  Select the item you want to set the permission and click on "Edit";
+2.  Selecionar o item no qual deseja definir a permissão e clicar em "Editar";
 
-3.  Click on "Link group";
+3.  Clicar no botão "Vincular grupo";
 
-4.  Search and select the group you want and click on "Send" to link it;
+4.  Pesquisar e selecionar o grupo desejado e clicar em "Enviar" para vincular;
 
-5.  Click on "Save".
+5.  Clicar em "Gravar" para efetuar a operação.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
