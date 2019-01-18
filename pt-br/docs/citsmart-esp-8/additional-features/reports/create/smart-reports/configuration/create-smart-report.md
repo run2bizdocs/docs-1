@@ -1,30 +1,30 @@
-title: Create smart report
-Description: allows to issue custom reports created from the "Smart Report Creator".
-#Create smart report
-This functionality allows to issue custom reports created from the "Smart Report Creator".
+title: Gerar relatórios Smart
+Description: Permite emitir os relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
+#Gerar relatórios Smart
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Reports \> Smart Reports \>
-    Smart Reports;
+1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
+    \> Relatórios Smart \> Relatórios Smart;
 
-2.  It's possible to search the report by typing the name of the report in the
-    search box on the left side of the screen;
+2.  É possível buscar o relatório desejado ao digitar o nome do mesmo na caixa
+    de pesquisa situado ao lado esquerdo da tela;
 
-3.  Select the functionality and choose the type of report to be issued. It will
-    open a tab with the filter more detailed to create the report you want.
+3.  Selecionar a funcionalidade e escolher o tipo de relatório a ser emitido.
+    Será então aberto uma aba com um filtro mais detalhado afim de gerar as
+    informações pretendidas.
 
-4.  It's allowed to print the report by clicking on the “Printer” icon.
+4.  É permitido imprimir o relatório ao clicar no ícone “Imprimir”.
 
 
-Related
+Relacionado
 -------
 
-[Build and maintain smart reports](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+Construir e manter relatórios Smart
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
