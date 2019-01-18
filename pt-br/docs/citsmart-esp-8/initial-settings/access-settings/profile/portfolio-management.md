@@ -1,51 +1,54 @@
-title: Define the permission to access Portfolio Management functionalities
-Description: Defines who will have access to the Service Portfolio Management and which type of access is allowed (view, save and/or delete). 
-#Define the permission to access Portfolio Management functionalities
+title: Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
+Description: Definir quem terá acesso às funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso é permitido (visualização, gravação e/ou exclusão).
+#Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
 
-ITIL recommends that an ITSM product should be able to assign specific levels of
-responsibilities to a Portfolio Manager or others, based on this recommendation,
-CITSmart adopts this differentiated form of permissions control, per module. It
-is worth mentioning that the 'Access Profile' functionality continues to exist
-and it controls all types of access without the separation by modules, so that
-the product administrator can intervene more properly whenever necessary.
+A ITIL recomenda que um produto ITSM seja capaz de atribuir níveis de
+responsabilidades específicos para um Gerente de Portfólio ou outros, com base
+nesta recomendação, o CITSmart adota esta forma diferenciada de controle de
+permissões, por módulo. Vale a pena ressaltar que a funcionalidade ‘Perfil de
+Acesso’ continua existindo e controlando todos os tipos de acessos sem separação
+por módulos para que o administrador do produto possa intervir com mais
+propriedade, sempre que necessário.
 
-The functionality Portfolio Management defines who will have access to the
-Service Portfolio Management and which type of access is allowed (view, save
-and/or delete).
+A funcionalidade de Gerência de Portfólio permite definir quem terá acesso às
+funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso
+é permitido (visualização, gravação e/ou exclusão).
 
-Before getting started
---------------------------
+Antes de Começar
+--------------------
 
-Before manage the access permission, it's necessary to previously register the
-access profile.
+Antes de gerenciar a permissão de acesso é preciso ter cadastrado perfil de
+acesso previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the Access Permission functionality of the Portfolio Management
-    though the main menu Access and Permission \> Portfolio Management;
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
+    Permissão \> Gerência de Portfólio;
 
-2.  Choose the profile to manage and click on "Edit";
+2.  Escolher o perfil a ser gerenciado e clicar em "Editar";
 
-3.  Select the actions (view, save and/or delete) that the profile will be able
-    do perform;
+3.  Selecionar as ações (visualizar, gravar e/ou deletar) que o perfil poderá
+    realizar;
 
-4.  Note that:
+4.  Vale lembrar que:
 
-       - the profiles access will be disabled (the checkbox of all pre-existing
-         profiles accesses will be disabled), by default, when it's created new
-         functionalities, therefore, the administrators should enable to the profiles
-         they want, turn it available to those profiles.
++   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
+    acessos pré-existentes ficarão desmarcados), por default, quando for criadas
+    novas funcionalidades, exigindo, portanto, que o administrador
+    explicitamente habilite esta para os perfis que desejar, tornando-a
+    disponível para os perfis pretendidos.
 
-1.  Click on "Save".
+1.  Clicar em "Gravar".
 
-Related
+
+Relacionado
 -------
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+Criar perfil de acesso
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
