@@ -38,7 +38,7 @@ Procedimento
 1.  Para adicionar elementos como links, smart reports ou widgets, clicar no
     ícone "Habiliar modo de edição" e em seguida em "Adicionar novo widget" :
 
--   *Acesso Rápido* :
+  -   *Acesso Rápido* :
 
     -   Clicar em *Links;*
 
@@ -51,11 +51,11 @@ Procedimento
 
         -   Clicar em "Aplicar".
 
--   *Relatórios Smart:*
+ -   *Relatórios Smart:*
 
     -   escolher o tipo de relatório que ficará no painel gerencial.
 
--   *Widgets*:
+ -   *Widgets*:
 
     -   escolher o tipo de widget que ficará no painel gerencial.
 
