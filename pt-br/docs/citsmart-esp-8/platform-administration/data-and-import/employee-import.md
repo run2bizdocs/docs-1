@@ -1,29 +1,32 @@
-title: Import employee
-Description: Allows to import the employees spreadsheet.
-#Import employee
+title: Cadastrar um colaborador
+Description: Permite cadastrar cada pessoa que possui algum tipo de vínculo com a organização, tais como: um funcionário, um parceiro, etc.
+#Cadastrar um colaborador
 
-This functionality allows to import the employees spreadsheet.
+Esta funcionalidade permite cadastrar cada pessoa que possui algum tipo de
+vínculo com a organização, tais como: um funcionário, um parceiro, etc.
 
-Before getting started
---------------------------
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir um colaborador.
 
-The import requires to have registered the spreadsheet to import the employee.
+Antes de começar
+--------------------
 
-Procedure
--------------
+Para se criar o registro de um colaborador é necessário cadastrar previamente
+uma unidade e um cargo.
 
-1.  Access the functionality through the main menu System \> Data Importing and
-    Loading \> Employee Load;
+Procedimento
+----------------
 
-2.  Click on the tab **Import**;
+1.  Acessar a funcionalidade através da navegação no menu principal Cadastro
+    Gerais \> Gerência de Pessoal \> Colaborador;
 
-3.  Click on "Choose File" and select the file that have to be in the format
-    ".xls" or ".xlsx";
+2.  Preencher os campos disponibilizados;
 
-4.  Click on "Import".
+3.  Clicar em "Gravar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins
