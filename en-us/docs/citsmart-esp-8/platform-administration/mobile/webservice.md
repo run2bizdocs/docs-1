@@ -2,7 +2,7 @@ Title: Mobile
 
 # Mobile
 
-A funcionalidade Mobile foi desenvolvida para possibilitar maior autonomia na gestão de serviços, pois permite disponibilizar serviços em diferentes pespectivas, seja um portal de serviços para o usuário final ou uma instafe flexível para que analista façam antendimentoe em campo (Field Service).
+The Mobile functionality was developed to allow greater autonomy in the management of services, since it allows the provision of services in different perspectives, either as an end-user services portal or as a flexible instance for the analyst to do field service.
 
 # Related
 
