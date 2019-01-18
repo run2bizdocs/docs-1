@@ -68,10 +68,10 @@ Procedimento
     template do tipo Neuro.
 
 
-Relacionaod
+Relacionado
 -----------
 
-[Manutençaõ do fluxo do trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Manutenção do fluxo do trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 [Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
