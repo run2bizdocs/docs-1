@@ -2,9 +2,7 @@ Title: Configure logo
 
 # Configure logo
 
-The Environment Configuration functionality is intended to facilitate an intervention (correction) in the environment (server) and to change the logos of the system.
-
-You can change the system logo, check the environment information and download the Jboss Log.
+É posível alterar a logomarca em seu ambiente para que o CITSmart tenha a indentidade de sua empresa.
 
 # Procedure
 
@@ -12,4 +10,7 @@ You can change the system logo, check the environment information and download t
 2. To change one of the images (start logo, portal logo, system logo and report logo), click on "Select an image";
 3. Click on the pointed box to drag a file or make the upload;
 4. Click on "Save";
-5. To download the Jboss Log or, click on "Download".
+
+!!! info "Alterar ícone de carregamento"
+    Para alterar o ícone de carregamento, altere o valor do parametro 387 para "YES".
+	Path: Parametrization > CITSmart Parameters > 387.
