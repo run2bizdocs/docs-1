@@ -2,7 +2,7 @@ Title: System Customization
 
 # System Customization
 
-É possível personaliar diversas informações em seu ambiente, tais como:
+It's possible to customize several information in your environment, as well as:
 
 - [Banner Logo of System][1]
 
