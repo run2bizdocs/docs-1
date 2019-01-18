@@ -1,39 +1,41 @@
-title: Configure parametrization - chat
-Description: Allow to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
-#Configure parametrization - chat
+title: Configurar parametrização - chat
+Description: Permite o usuário ter contato direto ao atendente do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros.
+#Configurar parametrização - chat
 
-The notion of "Chat" is used to allude to the exchange of written messages of
-instantaneous form. In this case, it allows the user to have the right contact
-to the system attendant in order to solve doubts, make requests and others. The
-parameters of this application allow to activate the chat, set the default
-agreement for call opening and adjust the default group, and other actions.
+A noção de "Chat" é usada para fazer alusão à troca de mensagens escritas de
+forma instantânea. Neste caso, permite o usuário ter contato direto ao atendente
+do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros. Os
+parâmetros desta aplicação permitem ativar o chat, definir o contrato padrão
+para abertura de chamado e ajustar o grupo padrão, dentro de outras ações.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu Parametrization \> Chat;
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Parametrização \> Chat;
 
-2.  Set the parameters value (attributes);
+2.  Definir os valores dos parâmetros (atributos);
 
-3.  Click on "Save";
+3.  Clicar no botão "Gravar" para efetuar a operação;
 
-4.  The list below presents the parameter of the functionality "Chat" and the
-    purpose of each one of them.
+4.  A lista abaixo apresenta os parâmetros da funcionalidade "Chat" e a
+    finalidade de cada um deles.
 
-|  #  |                   Name                  | Possible Values |                 Purpose                 | Additional Guidance |
-|:---:|:---------------------------------------:|:---------------:|:---------------------------------------:|:-------------------:|
-| 118 |  Default Contract ID for call opening.  |                 |    Default contract ID to open calls    |    Not applicable   |
-| 315 |  ID of the requests created by the chat |                 |  Source ID of requests created by chat  |    Not applicable   |
-| 316 |              Activate Chat              |      Y or N     |              Activate Chat              |    Not applicable   |
-| 317 | Activity ID of requests created by chat |                 | Activity ID of requests created by chat |    Not applicable   |
-| 388 |    Default user ID (External request)   |                 |    Default user ID (External request)   |    Not applicable   |
-| 389 |   Default group ID (External request)   |                 |   Default group ID (External request)   |    Not applicable   |
-| 390 |             Default unit ID             |                 |             Default unit ID             |    Not applicable   |
+|  #  |                        Nome                        | Valores possíveis |                     Finalidade                     | Orientações complementares |
+|:---:|:--------------------------------------------------:|:-----------------:|:--------------------------------------------------:|:--------------------------:|
+| 118 |   ID do contrato padrão para abertura de chamados  |                   |   ID do contrato padrão para abertura de chamados  |        Não se aplica       |
+| 315 |   ID da origem das solicitações criadas pelo chat  |                   |   ID da origem das solicitações criadas pelo chat  |        Não se aplica       |
+| 316 |                     Ativar Chat                    |       S ou N      |                     Ativar Chat                    |        Não se aplica       |
+| 317 | ID da atividade das solicitações criadas pelo chat |                   | ID da atividade das solicitações criadas pelo chat |        Não se aplica       |
+| 388 |       ID usuário padrão (Requisição externa)       |                   |       ID usuário padrão (Requisição externa)       |        Não se aplica       |
+| 389 |        ID grupo padrão (Requisição externa)        |                   |        ID grupo padrão (Requisição externa)        |        Não se aplica       |
+| 390 |                ID da unidade padrão                |                   |                ID da unidade padrão                |        Não se aplica       |
 
-Table 1 - Parameters list
 
+
+Tabela 1 - Lista de parâmetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/08/2019 – Anna Martins
+    <b>Updated:</b>01/18/2019 – Anna Martins
