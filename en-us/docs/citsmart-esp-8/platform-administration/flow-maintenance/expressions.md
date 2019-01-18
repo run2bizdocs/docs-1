@@ -2,7 +2,7 @@ Title: Expressions
 
 # Expressions
 
-As empressões são recursos utilizados nos fluxos do sistema para permirtir a construção de diversos cenários, além disso, as empressões também podem ser utilizadas para configurar os diretentes estados de um fluxo de atendimento.
+Expressions are resources used in system flows to allow the construction of several scenarios, in addition, expressions can also be used to configure different states of an attendance flow.
 
 ## Related:
 
