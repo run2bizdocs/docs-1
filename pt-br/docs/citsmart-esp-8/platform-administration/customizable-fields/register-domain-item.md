@@ -1,33 +1,34 @@
-title: Register domain item
-Description: Intended to customize the fields options of a certain system screen. To use it, you should have knowledge about the system codification.
-#Register domain item
+title: Cadastrar item de domínio
+Description: Permitir a customização das opções do campo de uma determinada tela do sistema.
+#Cadastrar item de domínio
 
-The Domain Items functionality is intended to customize the fields options of a
-certain system screen. To use it, you should have knowledge about the system
-codification.
+A funcionalidade de Itens de Domínio tem por objetivo permitir a customização
+das opções do campo de uma determinada tela do sistema.* *Para utilizar a mesma,
+deverá ter conhecimento sobre a codificação do sistema.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting a domain item.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
+excluir item de domínio.
 
-Before getting started
---------------------------
+Antes de começar
+--------------------
 
-The domain item registration requires the previously registration of the domain.
+O registro de item de domínio requer o cadastro do domínio previamente.
 
-Procedure
--------------
+Procedimento
+----------------
 
-1.  Access the functionality through the main menu System \> Domain Settings \>
-    Domain Items;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Domínios \> Itens de Domínio;
 
-2.  Click on "New";
+2.  Clicar no botão "Novo";
 
-3.  Complete the fields available;
+3.  Preencher os campos disponibilizados;
 
-4.  Click on "Save".
+4.  Clicar em "Gravar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 - Anna Martins
+    <b>Updated:</b>01/18/2019 - Anna Martins
