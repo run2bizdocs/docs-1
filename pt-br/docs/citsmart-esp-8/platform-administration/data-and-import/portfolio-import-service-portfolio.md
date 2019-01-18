@@ -1,30 +1,38 @@
-title: Import the service portfolio
-Description: The purpose is to import the service portfolio.
-#Import the service portfolio
+title: Realizar a importação de portfólio de serviço
+Description: Realizar a importação de portfólio de serviços. Os dados importados poderão ser visualizados no Portfólio de Serviços.
+#Realizar a importação de portfólio de serviço
 
-The purpose of this functionality is to import the service portfolio. The import
-data can be viewed in the Service Portfolio.
+O objetivo desta funcionalidade é realizar a importação de portfólio de
+serviços. Os dados importados poderão ser visualizados no Portfólio de Serviços.
 
-Before getting started
+Antes de começar
+--------------------
 
-To import, it's necessary to generate the import spreadsheet template.
+Para realizar a importação é necessário gerar o modelo de planilha de
+importação.
 
-Procedure
----------
+Procedimento
+----------------
 
-1.  Access the fucntionality through the main menu System \> Data Importing and
-    Loading \> Service Portfolio Load;
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+    Importação e Carga de Dados \> Carga do Portfólio de Serviços;
 
-2.  To register an import spreadsheet template, click on the tab **Import**;
+2.  Para cadastrar um modelo de planilha para importação, clicar na
+    guia **Importação**;
 
-3.  Click on "Choose file" and select the file that have to be in the format
-    ".xls" or ".xlsx";
+3.  Clicar em "Escolher arquivo" e selecionar o arquivo o qual deve estar em
+    formato ".xls" ou ".xlsx";
 
-4.  Click on "Import".
+4.  Clicar em "Importar".
 
-!!! Abstract "NOTE"
+!!! Abstract "NOTA"
 
-    When importing, if there is any inconsistency between the values adopted
-    in the system and the values entered in the spreadsheet, the system will
-    display an alert.  
+    Ao realizar a importação, caso haja alguma inconsistência entre os valores
+    adotados no sistema e os valores informados na planilha, o sistema exibirá
+    um alerta.
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/18/2019 - Anna Martins
 
