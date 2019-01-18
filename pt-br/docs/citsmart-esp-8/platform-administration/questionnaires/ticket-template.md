@@ -61,7 +61,7 @@ Procedimento
     serviço concomitantemente com a tela de manutenção de fluxo e a atividade do
     portfólio.
 
- -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
+    -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
     Neuro e página Neuro são disponibilizados. Também é possível eleger
     a versão do formulário ao clicar no botão "Versão específica do
     formulário". As regras do template do tipo *Questionário* são válidas para o
