@@ -62,4 +62,4 @@ Attachment
     <b>Updated:</b>01/17/2019 – Anna Martins
 
 
-[1]:/images/verify-email.docx
+[1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
