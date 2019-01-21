@@ -89,7 +89,7 @@ executou e a soma dos tempos executados por cada técnico.*
     gasto por técnico";
 
 3.  Será apresentado uma listagem com os dados dos seguintes dados: Técnico,
-    ticket e tempo gasto.
+    ticket e tempo gasto;
 
 4.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
     configurar ao personalizar o mesmo Smart Decisions.
@@ -106,8 +106,20 @@ Relacionado
 
 [Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
+Anexo
+------
+[Download-Técnico tempo][1]
+
+[Download-Ticket atendimento][2]
+
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
+
+
+[1]:/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/tecnico-tempo.citreport
+
+[2]:/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/ticket-atendimento.citreport
