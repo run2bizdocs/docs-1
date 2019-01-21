@@ -117,4 +117,4 @@ Attachment
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 
-[1]:/en-us/docs/citsmart-esp-8/additional-features/reports/use/images/reliability.citreport
+[1]:/en-us/citsmart-esp-8/additional-features/reports/use/images/reliability.citreport
