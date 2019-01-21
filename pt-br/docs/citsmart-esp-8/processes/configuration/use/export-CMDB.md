@@ -20,10 +20,11 @@ Procedimento
 
 3.  O sistema exportará as informações do banco de dados em formato XML.
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+
 
 !!! tip "About"
 

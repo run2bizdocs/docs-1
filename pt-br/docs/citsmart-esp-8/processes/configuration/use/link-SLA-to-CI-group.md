@@ -23,12 +23,12 @@ Procedimento
 
 5.  Clicar em "Gravar".
 
-Relacionados
+Relacionado
 ----------------
 
-Acordo de Nível de Serviço
+[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
