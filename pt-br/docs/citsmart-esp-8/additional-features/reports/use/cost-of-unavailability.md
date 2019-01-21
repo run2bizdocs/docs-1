@@ -120,8 +120,14 @@ Relacionado
 
 [Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
+
+Anexo
+-----
+[Download-Confiabilidade][1]
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
 
+[1]:/pt-br/citsmart-esp-8/additional-features/reports/use/images/confiabilidade.citreport
