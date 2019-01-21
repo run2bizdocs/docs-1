@@ -1,4 +1,4 @@
-Title: LDAP Configure
+Title: LDAP Configuration
 
 # LDAP Configuration
 
