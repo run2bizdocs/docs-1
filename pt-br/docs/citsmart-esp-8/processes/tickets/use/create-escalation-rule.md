@@ -4,7 +4,7 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 Esta funcionalidade permite criar regras de escalonamento a fim de fornecer uma perspectiva de impacto à empresa ao gerir os atendimentos dos tickets (e suas eventuais requisições e incidentes) dentro de um tempo hábil pré estabelecido. Ao criar regras para a notificação do responsável quando o ticket está em nível critico de ruptura de seu SLA é possível evitar esta através de ações preventivas e escalonar este atendimento a outros grupos executores e respeitar assim seu tempo de atendimento.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
 
-Antes de Começar 
+Antes de começar 
 -----------------
 
 Para criar as regras de escalonamento, é necessário configurar o parâmetro
@@ -42,15 +42,15 @@ Procedimento
 Relacionado
 -----------
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar um colaborador
+[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar ação automática de escalonamento
+[Cadastrar ação automática de escalonamento](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
