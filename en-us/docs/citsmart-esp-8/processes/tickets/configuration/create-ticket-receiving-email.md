@@ -54,7 +54,7 @@ Related
 Attachment
 ------------
 
-[Download - Verify email][4]
+[Download - Verify email][1]
 
 !!! tip "About"
 
