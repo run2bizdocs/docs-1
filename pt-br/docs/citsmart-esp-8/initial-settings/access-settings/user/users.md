@@ -30,9 +30,9 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar um colaborador
+[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Criar perfil de acesso
+[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
