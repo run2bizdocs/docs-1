@@ -46,9 +46,9 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cdastrar usuário
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 
