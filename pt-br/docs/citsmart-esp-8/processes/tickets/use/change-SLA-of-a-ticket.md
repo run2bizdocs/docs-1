@@ -3,7 +3,7 @@ Description: Alterar o SLA do ticket significa modificar o tempo de atendimento 
 #Alterar o SLA de um ticket
 Alterar o SLA do ticket significa modificar o tempo de atendimento do mesmo, estender ou encurtar o prazo de execução deste.
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para alterar o SLA é necessário ter a justificativa de ticket e o
@@ -25,9 +25,9 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar justificativa de solicitação
+[Cadastrar justificativa de solicitação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-Criar calendário
+[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
