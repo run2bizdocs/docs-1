@@ -24,7 +24,7 @@ Procedimento
 Relacionado
 -------
 
-Criar regra de escalonamento
+[Criar regra de escalonamento](/pt-br/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
 !!! tip "About"
