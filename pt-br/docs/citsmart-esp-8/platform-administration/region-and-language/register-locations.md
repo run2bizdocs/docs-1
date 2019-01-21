@@ -1,22 +1,23 @@
-title: Register location
-Description: This feature provides a variety of actions, such as including, changing, and deleting the location in which the services requester are placed, it can be the name of unit, city, organization, etc. 
-#Register location
-This feature provides a variety of actions, such as including, changing, and deleting the location in which the services requester are placed, it can be the name of unit, city, organization, etc.
+title: Cadastrar localidade
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados
+#Cadastrar localidade
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados, podendo ser o nome da unidade, cidade, nome do órgão etc.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu General Registration \>
-    Personnel Management \> Location;
+1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
+    Gerais \> Gerência de Pessoal \> Localidade;
 
-2.  Complete the fields available;
+2.  Preencher o campo disponibilizado;
 
-3.  Click on "Save".
+3.  Clicar em "Gravar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROVt1SUUxco2tWF8E99_eva)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNFxIQxcRXE47dvh_IXv3Jd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/21/2019 - Larissa Lourenço
+
 
