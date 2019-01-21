@@ -24,12 +24,12 @@ Procedimento
 
 4.  Clicar no botão "Gravar" para efetuar operação.
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar ameaça
+[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-Cadastrar categoria de risco
+[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 
