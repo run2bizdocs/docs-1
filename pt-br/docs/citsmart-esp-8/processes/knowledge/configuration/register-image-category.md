@@ -21,7 +21,7 @@ Procedimento
 Relacionado
 --------
 
-Armazenar imagens na galeria
+[Armazenar imagens na galeria](/pt-br/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
