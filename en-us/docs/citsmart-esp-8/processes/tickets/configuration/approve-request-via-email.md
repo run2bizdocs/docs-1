@@ -82,4 +82,5 @@ Attachment
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
 
+
 [1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/approval.docx
