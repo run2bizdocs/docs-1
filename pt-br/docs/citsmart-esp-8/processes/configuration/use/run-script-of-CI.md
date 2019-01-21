@@ -24,10 +24,10 @@ Procedimento
 
 6.  Clicar em "Executar Script".
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
