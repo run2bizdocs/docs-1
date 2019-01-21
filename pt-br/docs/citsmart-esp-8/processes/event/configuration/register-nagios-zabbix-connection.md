@@ -29,7 +29,7 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar Conexão Event Monitor
+[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
 
 !!! tip "About"
