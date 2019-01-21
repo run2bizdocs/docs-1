@@ -7,7 +7,7 @@ excluir o tempo de atendimento do tipo *Global* (aplica-se a todos os serviço
 *Cliente* (aplica-se aos serviços de um contrato)
 e *Incidente/Requisição/Procedimento* (aplica-se a um serviço específico).
 
-**Antes de começar**
+Antes de começar
 --------------------
 
 Para cadastrar o tempo de atendimento é necessário registrar previamente o
@@ -55,15 +55,15 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um serviço
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-Configurar atributos de serviço
+[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Configurar parametrização - ticket
+[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-Criar regra de escalonamento
+[Criar regra de escalonamento](/pt-br/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
