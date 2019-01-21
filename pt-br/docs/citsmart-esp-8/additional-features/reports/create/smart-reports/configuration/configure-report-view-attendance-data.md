@@ -89,7 +89,7 @@ executou e a soma dos tempos executados por cada técnico.*
     gasto por técnico";
 
 3.  Será apresentado uma listagem com os dados dos seguintes dados: Técnico,
-    ticket e tempo gasto.
+    ticket e tempo gasto;
 
 4.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
     configurar ao personalizar o mesmo Smart Decisions.
