@@ -28,11 +28,11 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-Cadastrar horário
+[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-Configurar parametrização - sistema
+[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 !!! tip "About"
 
