@@ -1,6 +1,6 @@
-Title: 2. System requirements
+Title: System requirements
 
-# 2. System requirements
+# System requirements
 
 
 ## Application Server

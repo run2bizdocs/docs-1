@@ -1,6 +1,6 @@
-Title: 4. Perform installation
+Title: Perform installation
 
-# 4. Perform installation
+# Perform installation
 
 ## Wildfly Installation Server
 

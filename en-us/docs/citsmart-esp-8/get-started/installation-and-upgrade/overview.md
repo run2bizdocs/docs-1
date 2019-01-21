@@ -1,6 +1,6 @@
-Title: 1. Installation overview
+Title: Installation overview
 
-# 1. Instalation overview
+# Instalation overview
 
 These steps will help you install Citsmart in on-premises environments. Before starting, it is important to keep in mind the software required for the installation of the platform, as well as its functionality. The Citsmart platform is composed of the following sets of software:
 

@@ -1,3 +1,3 @@
-Title: 6. Run update
+Title: Run update
 
-# 6. Run update
+# Run update

@@ -1,4 +1,4 @@
-Title: 5. Prepare for upgrade
+Title: Prepare for upgrade
 
-# 5. Prepare for upgrade
+# Prepare for upgrade
 
