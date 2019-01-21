@@ -23,7 +23,7 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
 
 !!! tip "About"

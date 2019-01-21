@@ -36,19 +36,19 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar um colaborador
+[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Register type of change
+Cadastrar tipo de mudança
 
-Cadastrar uma unidade
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Manutenção de fluxo de trabalho
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-Configure parametrização - mudança
+[Configure parametrização - mudança](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
 !!! tip "About"
 
