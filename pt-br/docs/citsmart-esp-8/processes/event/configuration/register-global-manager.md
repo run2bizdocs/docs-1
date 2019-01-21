@@ -65,15 +65,15 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar categoria de ocorrência
+[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-Cadastrar Conexão Event Monitor
+[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-Cadastrar horário
+[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-Configurar Conexão Inventory
+[Configurar Conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
-Cadastrar ação automática
+[Cadastrar ação automática](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
 
 !!! tip "About"
