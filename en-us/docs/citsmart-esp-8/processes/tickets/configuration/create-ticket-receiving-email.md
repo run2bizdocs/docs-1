@@ -62,5 +62,4 @@ Attachment
     <b>Updated:</b>1/17/2019 – Anna Martins
 
 
-
 [1]:/images/verify-email.docx
