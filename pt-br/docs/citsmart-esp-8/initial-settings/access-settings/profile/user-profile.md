@@ -24,7 +24,7 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar usuário
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 
 !!! tip "About"
