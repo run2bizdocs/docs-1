@@ -63,15 +63,15 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar usuário
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-Manutenção de fluxo de trabalho
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-Configurar parametrização - email
+[Configurar parametrização - email](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
-Configurar parametrização -sistema
+[Configurar parametrização -sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 Anexo
 ----------

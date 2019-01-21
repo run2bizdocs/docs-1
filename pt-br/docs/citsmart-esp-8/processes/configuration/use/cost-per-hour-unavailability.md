@@ -22,10 +22,10 @@ Procedimento
 
 5.  Clicar em "Gravar".
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 

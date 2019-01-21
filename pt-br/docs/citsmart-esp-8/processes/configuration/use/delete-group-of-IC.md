@@ -23,7 +23,7 @@ Procedimento
 Relacionados
 ----------------
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 

@@ -1,5 +1,7 @@
 title: Configurar parametrização - e-mail
-Description: permite configurar o envio de leitura de e-mail, informar o domínio de e-mail padrão da empresa, dentre outras ações, afim de permitir a utilização do serviço de correio eletrônico para agregar melhor experiência na utilização dos diversos recursos disponíveis nas soluções CITSmart, permitindo o envio de informações para os usuários.
+Description: Permite configurar o envio de leitura de e-mail, informar o domínio de e-mail padrão da empresa, dentre outras ações.
+#Configurar parametrização - e-mail
+
 
 Podemos definir o e-mail (correio eletrônico) como um método que permite compor,
 enviar e receber mensagens através de sistemas eletrônicos de comunicação. A
