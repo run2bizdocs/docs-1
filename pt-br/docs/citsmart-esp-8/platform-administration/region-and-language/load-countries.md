@@ -1,22 +1,22 @@
-title: Load countries
-Description: The purpose is to load the countries in the screens of Provider and Unit.
-#Load countries
-The purpose is to load the countries in the screens of Provider and Unit.
+title:  Carregar países 
+Description: O objetivo é realizar a carga de países nas telas de Fornecedor e Unidade. 
+#Carregar países
+O objetivo é realizar a carga de países nas telas de Fornecedor e Unidade.
 
-Procedure
--------------
+Procedimento
+------------
 
-1.  Access the functionality through the main menu System \> Database \> Country
-    Load;
+1.  Acessar a funcionalidade através da navegação no menu principal
+    Sistema \> Banco de Dados \> Carga Países;
 
-2.  Select a country;
+2.  Selecionar um país;
 
-3.  Click on "Load".
+3.  Clicar em "Carregar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROVt1SUUxco2tWF8E99_eva)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNFxIQxcRXE47dvh_IXv3Jd)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/10/2019 – Larissa Lourenço
+    <b>Updated:</b>01/21/2019 - Larissa Lourenço
 
