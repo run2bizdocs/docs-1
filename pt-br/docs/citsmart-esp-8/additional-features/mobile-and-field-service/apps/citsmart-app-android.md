@@ -41,7 +41,7 @@ Este documento foi estruturado em quatro grandes seções:
 Antes de começar
 ----------------
 
-1.  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
+1-  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
     Enterprise Mobile e também Configurar o servidor para uso do aplicativo
     mobile CITSmart Enterprise Mobile (ver documento Manual de configuração
     do servidor para uso do CITSmart ITSM Enterprise (iOS e
