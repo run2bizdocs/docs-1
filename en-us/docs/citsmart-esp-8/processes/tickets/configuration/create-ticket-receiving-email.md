@@ -62,7 +62,4 @@ Attachment
     <b>Updated:</b>01/17/2019 – Anna Martins
 
 
-[1]:/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html
-[2]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html
-[3]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html
-[4]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
+[1]:/images/verify-email.docx
