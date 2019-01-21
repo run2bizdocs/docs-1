@@ -68,7 +68,7 @@ Procedimento
 Relacionado
 -------
 
-Configurar template para Smart Decision
+[Configurar template para Smart Decision](/pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
 
 
 !!! tip "About"
