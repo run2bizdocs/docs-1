@@ -72,7 +72,7 @@ Figura 2 -Integração CITSmart inventory - OCS inventory
 Relacionado
 -------
 
-Cadastrar gerente Inventory
+[Cadastrar gerente Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
 
 
 
