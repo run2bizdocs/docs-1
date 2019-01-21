@@ -23,12 +23,12 @@ Procedimento
 
 5.  Clicar em "Gravar".
 
-Relacionados
+Relacionado
 ----------------
 
-Criar calendário
+[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
