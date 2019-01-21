@@ -25,9 +25,9 @@ Procedimento
 Relacionado
 -----------
 
-A área de trabalho da Central de Serviços
+[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-Criar um ticket
+[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
 Sistema exibe mensagem de data inválida ao auditar o ticket
 
