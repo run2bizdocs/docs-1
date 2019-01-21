@@ -30,7 +30,18 @@ Batch Routines
     -   Type: Java class
 
 
+Attachment
+----------
+[Download-Verify email][1]
+
+[Download-Return server time][2]
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
+
+
+
+[1]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.docx
+[2]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_return_server_time.docx

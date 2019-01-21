@@ -42,9 +42,9 @@ Procedimento
 Relacionado
 ---------------
 
-Cadastrar uma requisição de liberação
+[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-Relacionar informações à requisição de liberação
+[Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 

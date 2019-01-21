@@ -39,15 +39,15 @@ Procedimento
 Relacionado
 ---------------
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-Criar calendário
+[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'

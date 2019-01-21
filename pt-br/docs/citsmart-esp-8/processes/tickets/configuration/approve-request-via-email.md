@@ -75,7 +75,7 @@ Relacionado
 
 Anexo
 ----------
-
+[Download - Approval][1]
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
@@ -86,3 +86,4 @@ Anexo
     <b>Updated:</b>01/16/2019 – Anna Martins
 
 
+[1]:/pt-br/citsmart-esp-8/processes/tickets/configuration/images/approval.docx

@@ -37,11 +37,11 @@ Acessar a página inicial e verificar o portfólio criado.
 Relacionado
 ---------------
 
-Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
+[Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
 
-Cadastrar pesquisa de satisfação
+[Cadastrar pesquisa de satisfação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-Configurar parametrização - Smart Portal
+[Configurar parametrização - Smart Portal](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
