@@ -45,4 +45,4 @@ Anexo
 
 
 [1]:pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.docx
-[2]:pt-br/docs/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
+[2]:pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
