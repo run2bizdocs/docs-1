@@ -43,5 +43,5 @@ Attachment
 
 
 
-[1]:/en-us/docs/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.docx
-[2]:/en-us/docs/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_return_server_time.docx
+[1]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.docx
+[2]:/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/routine_return_server_time.docx

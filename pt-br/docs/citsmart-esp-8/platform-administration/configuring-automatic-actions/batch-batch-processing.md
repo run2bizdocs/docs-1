@@ -32,7 +32,17 @@ Rotinas Batch
     -   Tipo: Classe Java
 
 
+Anexo
+-----
+[Download - Rotina verificar email][1]
+
+[Download - Rotina retorna hora servidor][2]
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
+
+
+[1]:pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.docx
+[2]:pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
