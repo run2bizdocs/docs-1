@@ -39,7 +39,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 [Cadastrar destinatário da notificação](/pt-br/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
