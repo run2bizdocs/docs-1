@@ -57,7 +57,7 @@ Relacionado
 
 Anexo
 ------------
-[Download - Verify email][1]
+[Download - Verificar email][1]
 
 
 !!! tip "About"
