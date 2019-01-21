@@ -53,36 +53,36 @@ Após de cadastrar o plano de continuidade é necessário executar a seguinte a�
 cadastrar o planejamento organizacional da continuidade sendo esta ação parte da
 terceira fase do registro completo da continuidade, chamada de Implementação.
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar ameaça
+[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-Cadastrar categoria de ameaça
+[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-Cadastrar categoria de risco
+[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-Cadastrar o risco de continuidade
+[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-Cadastrar a continuidade de serviço
+[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-Definir a política de continuidade do serviço
+[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-Cadastrar o escopo da continuidade do serviço
+[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-Definir o projeto da continuidade do serviço
+[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-Cadastrar as funções vitais da continuidade do serviço
+[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-Cadastrar a análise de impacto no negócio da continuidade
+[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-Cadastrar a avaliação de riscos da continuidade
+[Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-Cadastrar a estratégia de continuidade de serviços
+[Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-Cadastrar o planejamento organizacional da continuidade
+[Cadastrar o planejamento organizacional da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-Cadastrar ação automática de incidentes/requisições/procedimentos
+[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
