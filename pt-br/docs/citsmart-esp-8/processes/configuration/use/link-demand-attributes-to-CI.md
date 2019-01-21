@@ -26,12 +26,12 @@ Procedimento
 
 6.  Clicar em "Adicionar".
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-Cadastrar atributo de demanda
+[Cadastrar atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
 !!! tip "About"
 
