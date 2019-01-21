@@ -72,7 +72,7 @@ Related
 
 Attachment
 ----------
-[Download](images/Approval.txt)
+[Download - Approval][1]
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
@@ -83,3 +83,4 @@ Attachment
     <b>Updated:</b>01/07/2019 – Anna Martins
 
 
+[1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/approval.docx
