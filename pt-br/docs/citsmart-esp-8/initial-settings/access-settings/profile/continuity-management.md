@@ -31,7 +31,7 @@ Procedimento
 Relacionado
 -------
 
-Criar perfil de acesso
+[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
