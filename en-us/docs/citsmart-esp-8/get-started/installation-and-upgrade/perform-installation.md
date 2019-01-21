@@ -442,9 +442,9 @@ CITSmart Enterprise Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments";
 
-```sh
-cp CitsmartITSM-Enterprise.war /opt/wildfly/standalone/deployments/
-```
+    ```sh
+    cp CitsmartITSM-Enterprise.war /opt/wildfly/standalone/deployments/
+    ```
 
 2. Do the CITSmart Neuro deployment after finish the steps in section "CITSmart Neuro Deployment".
 
@@ -452,13 +452,13 @@ cp CitsmartITSM-Enterprise.war /opt/wildfly/standalone/deployments/
 
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
-Example of URL: https://itsm.citsmart.com:8443/citsmart
+    Example of URL: https://itsm.citsmart.com:8443/citsmart
 
- 2. The CITSmart context is standard to the CITSmart Enterprise.
+2. The CITSmart context is standard to the CITSmart Enterprise.
 
-First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
+    First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 
- 3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart Enterprise.
+3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart Enterprise.
 
 ## CITSmart Neuro Deployment
 
