@@ -3,7 +3,7 @@ Description: Em alguns casos, os tickets do tipo "Requisição" irão passar por
 #Aprovar um ticket
 Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço.
 
-Antes de Começar
+Antes de começar
 ----------------
 
 É necessário o cadastro prévio do ticket e possuir permissão para aprovar o
