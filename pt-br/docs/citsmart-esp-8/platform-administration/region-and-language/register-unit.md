@@ -23,9 +23,9 @@ Procedimento
 Relacionado
 -----------
 
-Carregar países
+[Carregar países](/pt-br/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
 
-Configurar parametrização - sistema
+[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNFxIQxcRXE47dvh_IXv3Jd)'
 
