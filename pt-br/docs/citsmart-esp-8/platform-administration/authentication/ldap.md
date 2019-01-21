@@ -64,7 +64,7 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar horário
+[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
 
 !!! tip "About"
 
