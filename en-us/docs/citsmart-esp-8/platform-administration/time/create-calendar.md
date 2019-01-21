@@ -29,7 +29,7 @@ Related
 
 [Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Register working day](/en-us/citsmart-esp-8/initial-settings/working-day.html)
+[Register working day](/en-us/citsmart-esp-8/platform-administration/time/create-working-day.html)
 
 
 !!! tip "About"
