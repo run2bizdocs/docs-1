@@ -1,38 +1,31 @@
-title: Create cycle
-Description: Provides a variety of actions, such as including, changing, and deleting the period cycle with start and end date, to be used in the financial control.
-#Create cycle
+title:  Criar ciclo
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
+#Criar ciclo
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
+Cada item cadastrado na opção "Atributos Financeiros" dentro de "Serviço de Negócio" de um Portfólio qualquer tem como um dos seus campos o Ciclo, um ciclo deverá ser selecionado em uma lista naquele formulário.
+O 'Relatório de Lucratividade dos Atendimentos por Contrato' depende do cadastramento de ciclos.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting the period cycle with start and end date, to be used in the financial
-control.
+Procedimento
+------------
 
-Each item registered in the option "Financial Attributes" within the "Business
-Service" of any Portfolio, has as a field the Cycle. A Cycle should be selected
-in a list in that form. 
+1-  Acessar a funcionalidade** **através da navegação no menu principal
+    Cadastros Gerais \> Gerência de Pessoal \> Ciclo;
 
-The 'Profitability Reporting of Contracts' depends on the registration of
-cycles.
+2-  Clicar em "Novo";
 
-Procedure
--------------
+3-  Preencher os campos disponibilizados;
 
-1.  Access the main menu General Registration \> Personnel Management \> Cycle;
+4-  Vale lembrar que:
 
-2.  Click on "New";
+-   cada intervalo de datas deve ser único, mesmo com títulos diferentes e o
+    sistema cuida de impedir este tipo de redundância e inconsistência;
 
-3.  Complete all mandatory field;
+-   não é permitido a exclusão do ciclo, caso este esteja vinculado a alguma
+    receita ou despesa do controle financeiro.
 
-4.  Note that:
-
-    + each date range must be unique, even with different titles, and the system
-    takes care to prevent this type of redundancy and inconsistency;
-
-    + it is not allowed to exclude the cycle, if it is linked to some income or
-    expense of the financial control.
-
-1.  Click on "Save".
+5-  Clicar em "Gravar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/21/2019 - Larissa Lourenço
