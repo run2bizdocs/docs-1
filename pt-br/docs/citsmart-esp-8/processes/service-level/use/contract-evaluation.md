@@ -24,9 +24,9 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar atividade de serviço
+[Cadastrar atividade de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
