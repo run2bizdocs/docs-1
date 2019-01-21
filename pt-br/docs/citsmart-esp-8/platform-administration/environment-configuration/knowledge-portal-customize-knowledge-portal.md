@@ -24,7 +24,7 @@ Procedimento
 Relacionado
 ------------
 
-Configurar parametrização - conhecimento
+[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 !!! tip "About"
 
