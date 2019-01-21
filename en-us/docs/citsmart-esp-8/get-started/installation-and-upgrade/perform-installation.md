@@ -175,7 +175,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     chown citsmart:citsmart /opt/wildfly/modules/system/layers/base/org/postgres/ -R
     ```
 
-2. Connect the jboss-cli once again and execute the command below to add the module to the standalone-full-ha.xml
+2. Connect the jboss-cli once again and execute the command below to add the module to the standalone-full-ha.xml   
    
    ```sh
    [standalone@localhost:9990 /] module add --name=org.postgres --                resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --        dependencies=javax.api,javax.transaction.api
@@ -357,37 +357,37 @@ For Upload: mkdir /opt/citsmart/upload
 
 ### Generate certification SSL Self-Signed
 
-!!! warning
+    !!! warning
     To the Wildfly, it'll be generated a self-signed certificate.
     If you have a certificate, it's possible to use it.
 
 1. Connect in the Wildfly server;
 
-Creating new alias with DNS (example itsm.citsmart.com): 
+    Creating new alias with DNS (example itsm.citsmart.com): 
 
-```sh
-/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
-```
+    ```sh
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
+    ```
 
-Creating alias with IP of Jboss server (example 192.168.0.40): 
+    Creating alias with IP of Jboss server (example 192.168.0.40): 
 
-```sh
-/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
-```
+    ```sh
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
+    ```
 
-Exporting certificate to extension .cer: 
+    Exporting certificate to extension .cer: 
 
-```sh
-/opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-```
+    ```sh
+    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+    ```
 
-Adding certificate in the cacerts of Java: 
+    Adding certificate in the cacerts of Java: 
 
-```sh
-/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-```
+    ```sh
+    /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+    ```
 
-!!! warning
+    !!! warning
     Remember to apply the permissions to the wildfly and java jdk owner
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
     chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
@@ -395,20 +395,20 @@ Adding certificate in the cacerts of Java:
 2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
 
-```sh
-/subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-/subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
-/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
-/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
-/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
-```
+    ```sh
+    /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
+    /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
+    /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
+    /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
+    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
+    ```
 
 3. Before exit the jboss-cli, execute the command reload to apply the changes.
 
-```sh
-[standalone@localhost:9990 /] :reload
-```
+    ```sh
+    [standalone@localhost:9990 /] :reload
+    ```
 
 ### Starting solutions following dependecies
 
