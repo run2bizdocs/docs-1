@@ -32,25 +32,25 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar um serviço
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-Configurar atributos de serviço
+[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-Configurar atributos do contrato do serviço
+[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Criar tempo de atendimento
+[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-Cadastrar uma unidade
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Configurar parametrização- ticket
+[Configurar parametrização- ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-Configurar permissão de acesso do gerenciamento de requisições/incidentes
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes]
 
 
 
