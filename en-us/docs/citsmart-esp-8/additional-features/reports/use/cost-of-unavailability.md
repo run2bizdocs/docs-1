@@ -106,8 +106,15 @@ Related
 
 [Build and maintain smart reports - V 8](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
+
+Attachment
+---------
+
+[Download-Reliability][1]
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 
+[1]:/en-us/docs/citsmart-esp-8/additional-features/reports/use/images/reliability.citreport
