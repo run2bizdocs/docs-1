@@ -86,4 +86,4 @@ Anexo
     <b>Updated:</b>01/16/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-esp-8/processes/tickets/configuration/images/approval.docx
+[1]:/pt-br/citsmart-esp-8/processes/tickets/images/approval.docx
