@@ -33,7 +33,7 @@ Procedimento
     indisponibilidade, clicar no botão "Salvar tabela" disponibilizado em cada
     área.
 
-Relacionados
+Relacionado
 ----------------
 
 [Acordo de Nível de Serviço](/en-pt/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
