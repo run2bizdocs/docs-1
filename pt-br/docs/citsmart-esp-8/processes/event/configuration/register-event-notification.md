@@ -39,13 +39,13 @@ Procedimento
 Relacionado
 -----------
 
-Configurar modelo de e-mail
+[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html
 
-Cadastrar destinatário da notificação
+[Cadastrar destinatário da notificação](/pt-br/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
-Cadastrar modelo de EPL
+[Cadastrar modelo de EPL](/pt-br/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 
-Cadastrar template de notificação
+[Cadastrar template de notificação](/pt-br/citsmart-esp-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
 
 !!! tip "About"
 
