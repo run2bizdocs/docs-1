@@ -30,15 +30,15 @@ Procedimento
 Relacionado
 -----------
 
-Requisito de nível de serviço
+[Requisito de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar uma unidade
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Cadastrar usuário
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-Cadastrar prioridade
+[Cadastrar prioridade](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
