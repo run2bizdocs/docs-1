@@ -33,22 +33,22 @@ Procedimento
     indisponibilidade, clicar no botão "Salvar tabela" disponibilizado em cada
     área.
 
-Relacionados
+Relacionado
 ----------------
 
-Acordo de Nível de Serviço
+[Acordo de Nível de Serviço](/en-pt/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/en-pt/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/en-pt/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-Criar calendário
+[Criar calendário](/en-pt/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-Cadastrar grupo de item de configuração
+[Cadastrar grupo de item de configuração](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-Registrar custo por hora de indisponibilidade
+[Registrar custo por hora de indisponibilidade](/en-us/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
-Cadastrar grupo de disponibilidade
+[Cadastrar grupo de disponibilidade](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
