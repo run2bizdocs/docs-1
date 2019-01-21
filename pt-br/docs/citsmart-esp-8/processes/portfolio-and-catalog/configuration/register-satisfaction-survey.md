@@ -58,9 +58,9 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar questionário
+[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
-Configurar parametrização - sistema
+[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'

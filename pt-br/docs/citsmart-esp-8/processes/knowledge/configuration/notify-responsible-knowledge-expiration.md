@@ -42,9 +42,9 @@ Procedimento
 
 Relacionado
 ----------
-Configurar parametrização - conhecimento
+[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
-Criar conhecimento
+[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'

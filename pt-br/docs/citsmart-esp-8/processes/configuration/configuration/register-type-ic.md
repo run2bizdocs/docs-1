@@ -29,7 +29,7 @@ Procedimento
 Relacionado
 ----------
 
-Cadastrar característica
+[Cadastrar característica](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
 
 !!! tip "About"
 

@@ -63,13 +63,13 @@ Acessar o Portal do conhecimento e fazer busca por algum conhecimento sem logar.
 Relacionado
 ----------
 
-Criar pasta
+[Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-Criar conhecimento
+[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Customizar o Portal do Conhecimento
+[Customizar o Portal do Conhecimento](/pt-br/citsmart-esp-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-Indexar conhecimentos
+[Indexar conhecimentos](/pt-br/citsmart-esp-8/processes/knowledge/configuration/index-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'

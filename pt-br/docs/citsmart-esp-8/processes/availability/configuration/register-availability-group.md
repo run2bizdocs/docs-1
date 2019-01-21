@@ -30,7 +30,7 @@ Procedimento
 Relacionado
 -----------
 
-Criar calendário
+[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 !!! tip "About"
 

@@ -1,38 +1,35 @@
-title: Create calendar
-Description: Provides a variety of actions, such as including, changing, and deleting calendars (scales) of working day.
-#Create calendar
+title:  Criar calendário
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho. 
+#Criar calendário
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho.
 
-This feature provides a variety of actions, such as including, changing, and
-deleting calendars (scales) of working day.
+Antes de começar
+----------------
 
-Before getting started
---------------------------
+Para cadastrar um calendário é necessário o registro prévio do perfil de acesso
+e da jornada de trabalho.
 
-To register a calendar, it's necessary to previously register the profile access
-and the working day.
+Procedimento
+------------
 
-Procedure
--------------
+1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
+    Gerais \> Gerência de Pessoal \> Calendário;
 
-1.  Access the functionality Calendar through the main menu General Registration
-    \> Personnel Management \> Calendar;
+2.  Preencher os campos disponibilizados;
 
-2.  Complete all mandatory fields;
+3.  Ao clicar no ícone de exceções “+”, será aberta uma janela onde poderão ser
+    inseridas as exceções para dias de folga ou trabalho;
 
-3.  When click on the exceptions “Positive” icon , it will appear a window where
-    it's possible to enter the exception for working day or day off;
+4.  Clicar em "Gravar".
 
-4.  Click on "Save".
+Relacionado
+-----------
 
-Related
--------
+Criar perfil de acesso
 
-[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
-
-[Register working day](/en-us/citsmart-esp-8/initial-settings/working-day.html)
-
+Cadastrar jornadas de trabalho
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/21/2019 - Larissa Lourenço
