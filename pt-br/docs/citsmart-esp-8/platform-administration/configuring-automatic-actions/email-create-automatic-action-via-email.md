@@ -28,7 +28,7 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar ação automática de incidentes/requisições/procedimentos
+[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 !!! tip "About"
 
