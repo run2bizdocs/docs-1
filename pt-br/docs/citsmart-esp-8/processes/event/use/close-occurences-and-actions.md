@@ -19,7 +19,7 @@ Procedimento
 
 3.  Clicar em "Sim" para a pergunta de confirmação de encerramento.
 
-Relacionados
+Relacionado
 ------------
 
 [Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
