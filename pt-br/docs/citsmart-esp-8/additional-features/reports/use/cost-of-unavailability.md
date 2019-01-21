@@ -104,21 +104,21 @@ O relatório também poderá ser visualizado em Relatórios Smart.
 Relacionado
 -----------
 
-Cadastrar um serviço
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-Configurar atributos do serviço
+[Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-Configurar atributos do contrato do serviço
+[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Acordo de nível de serviço
+[Acordo de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-Personalizar o painel gerencial (Smart Decision)
+[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-Gerar relatórios Smart
+[Gerar relatórios Smart](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
-Construir e manter relatórios Smart
+[Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 !!! tip "About"
 
