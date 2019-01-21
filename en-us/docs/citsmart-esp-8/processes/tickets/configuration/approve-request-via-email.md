@@ -83,4 +83,4 @@ Attachment
     <b>Updated:</b>01/07/2019 – Anna Martins
 
 
-[1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/approval.docx
+[1]:/en-us/citsmart-esp-8/processes/tickets/images/approval.docx
