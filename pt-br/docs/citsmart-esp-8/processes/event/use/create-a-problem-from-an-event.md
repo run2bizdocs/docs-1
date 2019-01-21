@@ -22,7 +22,7 @@ Procedimento
 
 5.  Clicar no botão "Salvar".
 
-Relacionados
+Relacionado
 ----------------
 
 [Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
