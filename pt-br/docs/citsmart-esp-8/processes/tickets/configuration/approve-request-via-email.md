@@ -69,7 +69,7 @@ Relacionado
 
 [Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Configurar parametrização - email](
+[Configurar parametrização - email](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
 [Configurar parametrização -sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
