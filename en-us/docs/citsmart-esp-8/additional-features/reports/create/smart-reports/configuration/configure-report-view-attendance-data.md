@@ -103,7 +103,18 @@ Related
 [Customize management panel (Smart Decision)](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
+Attachment
+----------
+[Download -Time technician][1]
+
+[Download - Ticket attendance][2]
+
+
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
+
+[1]:/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/time-technician.citreport
+[2]:/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/tickect-attendance.citreport
