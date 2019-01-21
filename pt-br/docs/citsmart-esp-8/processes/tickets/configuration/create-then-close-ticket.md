@@ -36,6 +36,12 @@ Procedimento
     fazer o mesmo, será preciso implementar o registro das informações nas
     tabelas de captura.
 
+Anexo
+------
+[Download-Fluxo JSON][1]
+
+[Download-script][2]
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
@@ -43,3 +49,7 @@ Procedimento
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
+
+
+[1]:/pt-br/citsmart-esp-8/processes/tickets/images/fluxo-JSON.json
+[2]:/pt-br/citsmart-esp-8/processes/tickets/images/script.zip
