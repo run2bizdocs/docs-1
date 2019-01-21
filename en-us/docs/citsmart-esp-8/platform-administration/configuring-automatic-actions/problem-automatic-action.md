@@ -30,10 +30,6 @@ Related
 
 [Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
-
-Register problem category
-
 [Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 !!! tip "About"
