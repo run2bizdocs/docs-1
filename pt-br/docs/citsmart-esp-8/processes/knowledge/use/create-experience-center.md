@@ -64,11 +64,11 @@ Acessar a página inicial do CE e verificar as informações.
 Relacionado
 ---------------
 
-Criar conhecimento 
+[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Cadastrar um serviço 
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-Cadastrar pesquisa de satisfação
+[Cadastrar pesquisa de satisfação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
