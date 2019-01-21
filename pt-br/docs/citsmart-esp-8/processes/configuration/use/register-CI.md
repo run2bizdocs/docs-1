@@ -4,7 +4,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 Segundo a ITIL "Qualquer componente ou outro ativo de serviço que precise ser gerenciado de forma a entregar um serviço de TI.".
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um item de configuração.
 
-Antes de Começar
+Antes de começar
 --------------------
 
 Para registrar itens de configuração é necessário o cadastro prévio de um Acordo
@@ -32,20 +32,20 @@ Procedimento
 
 5.  Clicar em "Gravar" .
 
-Relacionados
+Relacionado
 ----------------
 
-Acordo de Nível de Serviço
+[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar um colaborador
+[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar localidade
+[Cadastrar localidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-locations.html)
 
-Cadastrar tipo de item de configuração
+[Cadastrar tipo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
 !!! tip "About"
 
