@@ -33,9 +33,20 @@ click on "Build expressions" and select the register expression.
     do the same, it'll be necessary to implement the registration of the
     information in the capture tables.
 
+Attachment
+---------
+[Download - Fluxo JSON][1]
+
+[Download - Script][2]
+
+
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Anna Martins
+
+
+[1]:/en-us/citsmart-esp-8/processes/tickets/images/fluxo-JSON.json
+[2]:/en-us/citsmart-esp-8/processes/tickets/images/script.zip

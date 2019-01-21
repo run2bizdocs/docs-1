@@ -43,9 +43,9 @@ Procedimento
 Relacionado
 -----------
 
-Criar um ticket
+[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
 Cadastrar um problema
 
