@@ -62,12 +62,12 @@ Procedimento
 4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
     esquerda”.
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-Cadastrar tipo de item de configuração
+[Cadastrar tipo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
 
 !!! tip "About"
