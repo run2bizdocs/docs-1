@@ -4,7 +4,7 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 O objetivo do Centro de Experiência - CE é criar um portal personalizável para o usuário. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slideshows, dentro de outras aplicabilidades, visando garantir uma experiência do usuário mais interativa e intuitiva.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
 
-Antes de Começar
+Antes de começar
 --------------------
 
 Alguns widgets no Centro de Experiência dependem de informações cadastradas no
