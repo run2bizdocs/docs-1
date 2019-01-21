@@ -191,14 +191,13 @@ Figura 9 - Ativação da APIs Google
 Relacionado
 -----------
 
-Configurar parametrização – mobile
+[Configurar parametrização – mobile](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
-Configurar parametrização - sistema
+[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
+[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM
-(iOS)
+[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 
 
