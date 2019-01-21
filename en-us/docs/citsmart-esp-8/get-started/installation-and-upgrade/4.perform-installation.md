@@ -43,84 +43,84 @@ Title: 4. Perform installation
     groupadd -r citsmart
     ```
 
-```sh
-useradd -r -g citsmart -d /opt/wildfly -s /sbin/nologin citsmart
-```
+    ```sh
+    useradd -r -g citsmart -d /opt/wildfly -s /sbin/nologin citsmart
+    ```
 
-```sh
-chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
-```
+    ```sh
+    chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+    ```
 
-```sh
-chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
-```
+    ```sh
+    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
+    ```
 
 4. Now we have to configure the PATH for the JAVA_HOME and JBOSS_HOME. For that, do as in the example below:
 
-```sh
-vim /opt/wildfly/.bash_profile
-```
+    ```sh
+    vim /opt/wildfly/.bash_profile
+    ```
 
-export JAVA_HOME="/opt/jdk"
-export JBOSS_HOME="/opt/wildfly"
-export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
+    export JAVA_HOME="/opt/jdk"
+    export JBOSS_HOME="/opt/wildfly"
+    export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
 
 5. Make a test to validate if the Wildfly is starting correctly till this point. For that, execute the commands below:
 
-```sh
-su - citsmart -s /bin/bash
-```
+    ```sh
+    su - citsmart -s /bin/bash
+    ```
 
-```sh
-java -version
-```
+    ```sh
+    java -version
+    ```
 
-java version "1.8.0_172"
-Java(TM) SE Runtime Environment (build 1.8.0_172-b11)
-Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode)
+    java version "1.8.0_172"
+    Java(TM) SE Runtime Environment (build 1.8.0_172-b11)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode)
 
-```sh
-bin/standalone.sh
-```
+    ```sh
+    bin/standalone.sh
+    ```
 
 6. Stop the Wildfly (previously started) and configure the standalone.conf in the directory $JBOSS_HOME/bin, as presented below:
 
-```sh
-mv standalone.conf standalone.dist
-```
+    ```sh
+    mv standalone.conf standalone.dist
+    ```
 
-```sh
-vim standalone.conf
-```
+    ```sh
+    vim standalone.conf
+    ```
 
-if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
-JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
-fi
-if [ "x$JAVA_OPTS" = "x" ]; then
-JAVA_OPTS="$JAVA_OPTS -Xms5200m"
-JAVA_OPTS="$JAVA_OPTS -Xmx5200m"
-JAVA_OPTS="$JAVA_OPTS -XX:MinHeapFreeRatio=40"
-JAVA_OPTS="$JAVA_OPTS -XX:MaxHeapFreeRatio=80"
-JAVA_OPTS="$JAVA_OPTS -XX:NewRatio=8"
-JAVA_OPTS="$JAVA_OPTS -XX:SurvivorRatio=32"
-JAVA_OPTS="$JAVA_OPTS -XX:+UseG1GC"
-JAVA_OPTS="$JAVA_OPTS -XX:G1HeapRegionSize=4"
-JAVA_OPTS="$JAVA_OPTS -XX:InitiatingHeapOccupancyPercent=50"
-JAVA_OPTS="$JAVA_OPTS -Djava.net.preferIPv4Stack=true"
-JAVA_OPTS="$JAVA_OPTS -Dorg.jboss.resolver.warning=true"
-JAVA_OPTS="$JAVA_OPTS -Duser.timezone="America/Sao_Paulo""
-JAVA_OPTS="$JAVA_OPTS -Djboss.modules.system.pkgs=$JBOSS_MODULES_SYSTEM_PKGS"
-JAVA_OPTS="$JAVA_OPTS -Djava.awt.headless=true"
-JAVA_OPTS="$JAVA_OPTS -Djboss.server.default.config=standalone-full-ha.xml"
-JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address=0.0.0.0"
-JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address.management=0.0.0.0"
-else
-echo "JAVA_OPTS already set in environment; overriding default settings with values: $JAVA_OPTS"
-fi
+    if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
+    JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
+    fi  
+    if [ "x$JAVA_OPTS" = "x" ]; then
+    JAVA_OPTS="$JAVA_OPTS -Xms5200m"
+    JAVA_OPTS="$JAVA_OPTS -Xmx5200m"
+    JAVA_OPTS="$JAVA_OPTS -XX:MinHeapFreeRatio=40"
+    JAVA_OPTS="$JAVA_OPTS -XX:MaxHeapFreeRatio=80"
+    JAVA_OPTS="$JAVA_OPTS -XX:NewRatio=8"
+    JAVA_OPTS="$JAVA_OPTS -XX:SurvivorRatio=32"
+    JAVA_OPTS="$JAVA_OPTS -XX:+UseG1GC"
+    JAVA_OPTS="$JAVA_OPTS -XX:G1HeapRegionSize=4"
+    JAVA_OPTS="$JAVA_OPTS -XX:InitiatingHeapOccupancyPercent=50"
+    JAVA_OPTS="$JAVA_OPTS -Djava.net.preferIPv4Stack=true"
+    JAVA_OPTS="$JAVA_OPTS -Dorg.jboss.resolver.warning=true"
+    JAVA_OPTS="$JAVA_OPTS -Duser.timezone="America/Sao_Paulo""
+    JAVA_OPTS="$JAVA_OPTS -Djboss.modules.system.pkgs=$JBOSS_MODULES_SYSTEM_PKGS"
+    JAVA_OPTS="$JAVA_OPTS -Djava.awt.headless=true"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.server.default.config=standalone-full-ha.xml"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address=0.0.0.0"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address.management=0.0.0.0"
+    else
+    echo "JAVA_OPTS already set in environment; overriding default settings with values: $JAVA_OPTS"
+    fi
 
-```sh
-chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
-```
+    ```sh
+    chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
+    ```
 
 ### Wildfly Application Configuration Server
 
