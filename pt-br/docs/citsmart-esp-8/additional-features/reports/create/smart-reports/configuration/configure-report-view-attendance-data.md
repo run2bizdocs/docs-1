@@ -104,7 +104,7 @@ executou e a soma dos tempos executados por cada técnico.*
 Relacionado
 -------
 
-Personalizar o painel gerencial (Smart Decision)
+[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
 !!! tip "About"
