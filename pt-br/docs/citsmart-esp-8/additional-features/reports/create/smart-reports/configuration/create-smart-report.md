@@ -21,7 +21,7 @@ Procedimento
 Relacionado
 -------
 
-Construir e manter relatórios Smart
+[Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 !!! tip "About"
