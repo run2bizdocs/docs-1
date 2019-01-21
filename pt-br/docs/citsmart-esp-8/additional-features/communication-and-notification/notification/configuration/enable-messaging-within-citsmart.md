@@ -34,13 +34,13 @@ Procedimento
 Relacionado
 -------
 
-Aárea de trabalho da Central de Serviços
+[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-Configurar parametrização - ticket
+[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-Configurar modelo de email
+[Configurar modelo de email](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-Gerenciar minhas solicitações pelo Smart Portal
+[Gerenciar minhas solicitações pelo Smart Portal](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 
 !!! tip "About"
