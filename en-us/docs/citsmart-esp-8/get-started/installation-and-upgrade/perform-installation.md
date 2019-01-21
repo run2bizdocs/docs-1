@@ -177,12 +177,12 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
 2. Connect the jboss-cli once again and execute the command below to add the module to the standalone-full-ha.xml   
    
-   ```sh
-   [standalone@localhost:9990 /] module add --name=org.postgres --                resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --        dependencies=javax.api,javax.transaction.api
-   /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-     name=org.postgresql.xa.PGXADataSource
-   ```
+    ```sh
+    [standalone@localhost:9990 /] module add --name=org.postgres --                resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --        dependencies=javax.api,javax.transaction.api
+    /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-     name=org.postgresql.xa.PGXADataSource
+    ```
    
-   There are eight inputs of datasource for the citsmart_db, being four for CITSmart and three for CITSmart Neuro. The user and   password is citsmartdbuser and exemplo123 created in the section "PostgreSQL Database Server".
+    There are eight inputs of datasource for the citsmart_db, being four for CITSmart and three for CITSmart Neuro. The user and   password is citsmartdbuser and exemplo123 created in the section "PostgreSQL Database Server".
    
 3. To create datasources, execute the CLI commands below:
 
