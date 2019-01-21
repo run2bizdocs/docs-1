@@ -28,9 +28,9 @@ Procedimento
 Relacionado
 -------
 
-Cadastrar uma unidade
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Cadastrar cargo
+[Cadastrar cargo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/position.html)
 
 !!! tip "About"
 
