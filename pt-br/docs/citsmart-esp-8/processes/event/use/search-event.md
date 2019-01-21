@@ -25,7 +25,7 @@ Procedimento
 4.  Preencher os filtros que necessitar e clicar no botão simbolizado por uma
     lupa.
 
-Relacionados
+Relacionado
 ----------------
 
 [Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
