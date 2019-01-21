@@ -28,10 +28,10 @@ Procedimento
 6.  Para visualizar o mapa de fluxo do item de configuração, clicar no
     botão “Visualizar mapa de relacionamentos (automático)".
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
