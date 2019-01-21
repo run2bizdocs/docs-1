@@ -4,7 +4,7 @@ Description: Este documento tem por objetivo informar como criar e pesquisar con
 Tags são palavras-chave (relevantes) ou termos associados a uma informação, tópico ou discussão que se deseja indexar de forma explícita no sistema afim de facilitar a pesquisa de conteúdo desejados.
 Este documento tem por objetivo informar como criar e pesquisar conhecimentos pelo o uso de tags.
 
-Antes de Começar
+Antes de começar
 --------------------
 
 É necessário observar se o SOLR está configurado corretamente.
@@ -38,7 +38,7 @@ Procedimento
 Relacionado
 ---------------
 
-Criar conhecimento
+[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 

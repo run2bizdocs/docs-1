@@ -57,10 +57,13 @@ Relacionado
 
 Anexo
 ------------
-
+[Download - Verify email][1]
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
+    
+[1]:/pt-br/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
+  

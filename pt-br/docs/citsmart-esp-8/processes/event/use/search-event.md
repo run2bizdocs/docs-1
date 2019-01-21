@@ -25,10 +25,10 @@ Procedimento
 4.  Preencher os filtros que necessitar e clicar no botão simbolizado por uma
     lupa.
 
-Relacionados
+Relacionado
 ----------------
 
-Cadastrar conexão Nagios/Zabbix
+[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
 

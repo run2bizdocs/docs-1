@@ -4,7 +4,7 @@ Description: É possível criar, editar e pesquisar conhecimentos que vão desde
 É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
 Um conhecimento permite a anexação de imagens, vídeos, anexos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
 
-Antes de Começar
+Antes de começar
 --------------------
 
 Antes de criar um conhecimento é necessário criar pastas para sua inserção e
@@ -32,9 +32,10 @@ Procedimento
 
 Relacionado
 --------------------
-Criar pasta
 
-Configurar acesso externo ao Portal do Conhecimento
+[Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+
+[Configurar acesso externo ao Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
