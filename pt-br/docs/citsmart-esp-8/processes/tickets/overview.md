@@ -1,128 +1,120 @@
-title: Overview of ticket management
+title: Gerenciamento de ticket
 Description: According to ITIL "Service Management is a set of specialized organizational skills to provide value to clients in the form of services"
-#Ticket management
+#Gerenciamento de ticket
 
-Presentation
+Apresentação
 ----------------
 
-According to ITIL "Service Management is a set of specialized organizational
-skills to provide value to clients in the form of services"
+Segundo a ITIL, "Gerenciamento de Serviço é um conjunto de competências organizacionais especializadas para prover valor aos clientes na forma de serviços"
 
-To deliver the service, it's necessary the orchestration of some processes:
+Para realizar a entrega de serviços é necessário a orquestração de alguns processos:
 
--   Incident Management: is the process responsible for manage all incident
-    lifecycle. The incidents can be entered by the technical team, event
-    detection tools (monitoring system and alarm) by the users and/or by
-    providers;
+-   Gerenciamento de Incidentes: é o processo responsável por gerenciar todo o ciclo de vida do incidente. Os incidentes podem ser informados pela equipe técnica, por ferramentas de detecção de eventos (sistemas de monitoramento e alarme) pelos usuários e/ou por fornecedores;
 
--   Request Fulfillment: is responsible for managing the lifecycle of all
-    service requests made by users, through a communication channel, in order to
-    maintain satisfaction in the attendance of service requests. These requests
-    may include requests for service components, information, suggestions and/or
-    criticisms.
+-   Cumprimento de Requisição: é responsável por gerenciar o ciclo de vida de todas as requisições de serviço efetuadas pelos usuários, por intermédio de um canal de comunicação, de forma a manter a satisfação no atendimento das requisições de serviço. Estas requisições podem incluir solicitações de componentes de serviços, informações, sugestões e/ou críticas.
 
-Use
+Uso
 -------
 
-- [The desktop of Service Desk](/en-us/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+- [A área de trabalho da central de serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-- [Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+- [Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-- [Capture ticket](/en-us/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
+- [Capturar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
 
-- [Schedule ticket activity](/en-us/citsmart-esp-8/processes/tickets/use/schedule-ticket-activity.html)
+- [Agendar atividade de ticket](/pt-br/citsmart-esp-8/processes/tickets/use/schedule-ticket-activity.html)
 
-- [Delegate ticket](/en-us/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
+- [Delegar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
-- [Direct the ticket](/en-us/citsmart-esp-8/processes/tickets/use/direct-the-ticket.html)
+- [Direcionar o ticket](/pt-br/citsmart-esp-8/processes/tickets/use/direct-the-ticket.html)
 
-- [Suspend ticket](/en-us/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
+- [Suspender ticket](/pt-br/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
 
-- [Suspend and reactivate multiple tickets](/en-us/citsmart-esp-8/processes/tickets/use/suspend-and-reactivate-tickets.html)
+- [Suspender e reativar múltiplos tickets](/pt-br/citsmart-esp-8/processes/tickets/use/suspend-and-reactivate-tickets.html)
 
-- [Reactivate a ticket suspended](/en-us/citsmart-esp-8/processes/tickets/use/reactivate-a-ticket-suspended.html)
+- [Reativar um ticket suspenso](/pt-br/citsmart-esp-8/processes/tickets/use/reactivate-a-ticket-suspended.html)
 
-- [Link other functionalities to the ticket](/en-us/citsmart-esp-8/processes/tickets/use/link-other-functionalities-to-the-ticket.html)
+- [Vincular outras funcionalidade ao ticket](/pt-br/citsmart-esp-8/processes/tickets/use/link-other-functionalities-to-the-ticket.html)
 
-- [Reopen ticket](/en-us/citsmart-esp-8/processes/tickets/use/reopen-ticket.html)
+- [Reabrir um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/reopen-ticket.html)
 
-- [Cancel ticket](/en-us/citsmart-esp-8/processes/tickets/use/cancel-ticket.html)
+- [Cancelar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/cancel-ticket.html)
 
-- [Create and view sub-request](/en-us/citsmart-esp-8/processes/tickets/use/create-and-view-sub-request.html)
+- [Criar e visualizar sub-solicitações](/pt-br/citsmart-esp-8/processes/tickets/use/create-and-view-sub-request.html)
 
-- [Reclassify ticket](/en-us/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
+- [Reclassificar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-- [Locate a ticket](/en-us/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
+- [Localizar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
 
-- [Search ticket in the advanced mode](/en-us/citsmart-esp-8/processes/tickets/use/search-ticket-in-the-advanced-mode.html)
+- [Pesquisar ticket no modo avançado](/pt-br/citsmart-esp-8/processes/tickets/use/search-ticket-in-the-advanced-mode.html)
 
-- [Change SLA of a ticket](/en-us/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
+- [Alterar o SLA de um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
 
-- [Approve a ticket](/en-us/citsmart-esp-8/processes/tickets/use/approve-a-ticket.html)
+- [Aprovar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/approve-a-ticket.html)
 
-- [Audit a ticket](/en-us/citsmart-esp-8/processes/tickets/use/audit-a-ticket.html)
+- [Auditar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/audit-a-ticket.html)
 
-- [Validate and close the ticket](/en-us/citsmart-esp-8/processes/tickets/use/validate-ticket.html)
+- [Validar e encerrar o ticket](/pt-br/citsmart-esp-8/processes/tickets/use/validate-ticket.html)
 
-- [Hierarchical escalation in the attendance](/en-us/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
+- [Escalonamento hierárquico no atendimento](/pt-br/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-- [Register ticket execution](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-execution.html)
+- [Cadastrar a execução do ticket](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-execution.html)
 
-- [Register ticket occurrences](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-occurrences.html)
+- [Cadastrar ocorrências referentes ao tickets](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-occurrences.html)
 
-- [Register ticket related](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-related.html)
+- [Cadastrar ticket relacionado](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-related.html)
 
-- [Register ticket via template](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-via-template.html)
+- [Cadastrar ticket via template](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-via-template.html)
 
-- [Attend with remote support](/en-us/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
+- [Atender com suporte remoto](/pt-br/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
 
-- [Print ticket](/en-us/citsmart-esp-8/processes/tickets/use/print-ticket.html)
+- [Imprimir um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/print-ticket.html)
 
-- [Create escalation rule](/en-us/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
+- [Criar regra de escalonamento](/pt-br/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
-- [Manage team with Kanban](/en-us/citsmart-esp-8/processes/tickets/use/manage-a-ticket-with-Kanban.html)
+- [Gerenciar equipes com Kanban](/pt-br/citsmart-esp-8/processes/tickets/use/manage-a-ticket-with-Kanban.html)
 
-- [Analyze service request trends](/en-us/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
+- [Analisar tendências de solicitações de serviço](/pt-br/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
 
-- [Analyze event trends](/en-us/citsmart-esp-8/processes/tickets/use/analyze-event-trends.html)
+- [Analisar tendência de eventos](/pt-br/citsmart-esp-8/processes/tickets/use/analyze-event-trends.html)
 
-- [Register ticket source](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-source.html)
+- [Cadastrar origem de ticket](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-source.html)
 
-- [Create template of incident, request and procedure](/en-us/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
+- [Criar modelo de template e incidente, requisição e procedimento](/pt-br/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
 
-- [Verify my tickets](/en-us/citsmart-esp-8/processes/tickets/use/verify-my-tickets.html)
+- [Verificar meus tickets](/pt-br/citsmart-esp-8/processes/tickets/use/verify-my-tickets.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Approve request via email](/en-us/citsmart-esp-8/processes/tickets/configuration/approve-request-via-email.html)
+- [Aprovar solicitação via email](/pt-br/citsmart-esp-8/processes/tickets/configuration/approve-request-via-email.html)
 
-- [Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+- [Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-- [How to relate group to contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+- [Como relacionar um grupo a um contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
-- [How to relate unit to the contract](/en-us/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+- [Como relacionar uma unidade a um contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-- [Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
+- [Cadastrar causa de incidentes](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
-- [Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+- [Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-- [Register request justification](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+- [Cadastrar justificativa de solicitação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-- [Register solution category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+- [Cadastrar categoria de solução](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+- [Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-Report
+Relatório
 ----------
 
-- [Analyze service request trends](/en-us/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
+- [Analisar tendências de solicitações de serviço](/pt-br/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
 
-- [Generate report through the panel of charts and reports - request and incident](/en-us/citsmart-esp-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
+- [Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente](/pt-br/citsmart-esp-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
 
-- [Generate reports -  request and incident managemen](/en-us/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
+- [Gerar relatórios- Gerência de incidentes e requisições](/pt-br/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
