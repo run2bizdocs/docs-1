@@ -23,7 +23,7 @@ Uso
  
 - [Cancelar o registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
 
-- [Atividades da fase Implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+- [Atividades da fase de Implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
 - [Executar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
 
