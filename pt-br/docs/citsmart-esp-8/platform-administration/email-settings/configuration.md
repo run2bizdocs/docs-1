@@ -16,10 +16,10 @@ Obtenha as informações de e-mail e configure as permissões de acesso ao servi
 
     |ID |Descrição | Exemplo |
     |---|----------|---------|
-    |10 | Endereço de email da organização	| company@exemple.com |
+    |10 | Endereço de email da organização	| empresa@exemplo.com |
     |11 | Requer autenticação | Sim |
-    |12 | Endereço do e-mail | your.email@gmail.com |
-    |13 | Senha | Your Gmail password |
+    |12 | Endereço do e-mail | seu.email@gmail.com |
+    |13 | Senha | Sua senha do Gmail |
     |14 | Servidor para envio de e-mail (SMTP) | smtp.gmail.com |
     |199| Requer TLS/SSL | Sim |
     |269| Porta| 587 |
@@ -30,8 +30,8 @@ Obtenha as informações de e-mail e configure as permissões de acesso ao servi
     |ID | Descrição | Exemplo |
     |---|-----------|---------|
     |23 | Servidor para receber e-mails (IMAP) | imap.gmail.com |
-    |24 | Endereço do e-mail | your.email@gmail.com |
-    |25 | Senha | Your Gmail password |
+    |24 | Endereço do e-mail | seu.email@gmail.com |
+    |25 | Senha | Sua senha do Gmail |
     |26 | Protocolo (imaps, pop, etc.) | imaps |
     |27 | Porta | 993 |
     |28 | Caixa de e-mail | inbox |
