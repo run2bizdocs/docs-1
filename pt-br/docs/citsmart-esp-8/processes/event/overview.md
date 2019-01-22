@@ -32,7 +32,7 @@ Uso
 
 - [Cadastrar auditoria de evento](/pt-br/site/citsmart-esp-8/processes/event/use/register-event-audit.html)
 
-Configuration
+Configuração
 -----------------
 
 - [Cadastrar modelo de EPL](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
