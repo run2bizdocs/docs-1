@@ -1,14 +1,19 @@
-Title: User data
+Title: Dados do usuário
 #Edit User data
 
-This functionality is intended to edit the information about the user profile.
+Esta funcionalidade tem por objetivo editar as informações sobre o perfil do usuário.
 
-## Before getting started
+## Antes de começar
 
-To edit the profile, it's necessary to previously register the user.
+Para editar o perfil, é necessário cadastrar o usuário previamente.
 
 ## Procedure
 
-1. Access the functionality System > Settings > User Profile;
-2. Choose the option to be edited;
-3. Click on "Save".
+1. Acessar a funcionalidade Sistema > Configurações > Perfil do Usuário;
+2. Escolher a opção a ser edidata;
+3. Clicar em "Salvar".
+
+
+##Relacionado
+
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
