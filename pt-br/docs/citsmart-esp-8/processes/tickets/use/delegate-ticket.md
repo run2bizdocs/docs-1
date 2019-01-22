@@ -3,7 +3,7 @@ Description: A opção de Delegar o Ticket permite encarregar a execução deste
 #Delegar um ticket
 A opção de Delegar o Ticket permite encarregar a execução deste a um usuário ou grupo desejado. Obrigatoriamente, só será possível incumbir a responsabilidade a grupos ao qual pertence também o delegante, o que também ocorre ao optar por um usuário (só serão facultados os membros dos grupos ao qual pertence o incumbente).
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para delegar o ticket é necessário ter permissão para executá-lo e que e
@@ -25,7 +25,7 @@ Procedimento
 Relacionado
 -----------
 
-Configurar permissão de acesso do gerenciamento de requisições/incidentes
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
