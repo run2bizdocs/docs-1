@@ -51,7 +51,7 @@ Configuration
 
 - [Cadastrar conexão Nagios/Zabbix](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-- [cadastrar destinatário da notificação](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
+- [Cadastrar destinatário da notificação](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
 - [Cadastrar categoria de ocorrência](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
