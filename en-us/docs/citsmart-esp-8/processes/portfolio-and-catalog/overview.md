@@ -1,4 +1,4 @@
-title: Overview os portfolio and catalog management
+title: Overview of portfolio and catalog management
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
 #Portfolio and Catalog management
 
@@ -39,7 +39,7 @@ Configuration
 
 - [Create calendar](/en-us/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-- [Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+- [Register cause of incidents](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 - [Register solution category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
@@ -76,7 +76,7 @@ Report
 
 - [Generate reports - service catalog](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
 
-- [Verify service audit](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.htmlm)
+- [Verify service audit](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.html)
 
 !!! tip "About"
 
