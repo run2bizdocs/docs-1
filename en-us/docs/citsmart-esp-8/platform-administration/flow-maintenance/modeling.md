@@ -9,6 +9,7 @@ A funcionalidade de fluxo foi construída trazendo elementos, que por essência,
 ## Related
 
 [Flows][1]
+
 [Workflow maintenance][2]
 
 [1]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/flows.html
