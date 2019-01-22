@@ -17,32 +17,32 @@ the CMDB.
 Use
 -------
 
-- [Advanced search for closed release registration](/en-us/site/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
+- [Advanced search for closed release registration](/en-us/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
  
-- [Cancel release registration](/en-us/site/citsmart-esp-8/processes/release/use/cancel-release.html)
+- [Cancel release registration](/en-us/citsmart-esp-8/processes/release/use/cancel-release.html)
 
-- [Activities of the deployment release phase](/en-us/site/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+- [Activities of the deployment release phase](/en-us/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-- [Execute release](/en-us/site/citsmart-esp-8/processes/release/use/execute-release.html)
+- [Execute release](/en-us/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Register release request](/en-us/site/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relate information to the release request](/en-us/site/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
-- [Release request desktop](/en-us/site/citsmart-esp-8/processes/release/use/release-desktop.html)
+- [Release request desktop](/en-us/citsmart-esp-8/processes/release/use/release-desktop.html)
    
-- [Register release justification](/en-us/site/citsmart-esp-8/processes/release/use/release-justification.html)
+- [Register release justification](/en-us/citsmart-esp-8/processes/release/use/release-justification.html)
 
-- [Activities of the release planning phase](/en-us/site/citsmart-esp-8/processes/release/use/release-planning-activities.html)
+- [Activities of the release planning phase](/en-us/citsmart-esp-8/processes/release/use/release-planning-activities.html)
    
-- [Reopen release registration](/en-us/site/citsmart-esp-8/processes/release/use/reopen-release.html)
+- [Reopen release registration](/en-us/citsmart-esp-8/processes/release/use/reopen-release.html)
 
-- [Suspend release registration](/en-us/site/citsmart-esp-8/processes/release/use/suspend-release.html)
+- [Suspend release registration](/en-us/citsmart-esp-8/processes/release/use/suspend-release.html)
 
 Configuration
 -----------------
 
-- [Create a release portfolio](/en-us/site/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Create a release portfolio](/en-us/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
