@@ -4,7 +4,7 @@ Description: A funcionalidade permite registrar a execução do ticket.
 
 A funcionalidade permite registrar a execução do ticket.
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para executar o ticket além da permissão para efetuar a operação e o cadastro
@@ -52,9 +52,9 @@ Procedimento 
 Relacionado
 -----------
 
-Cadastrar causa de incidentes
+[Cadastrar causa de incidentes](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
-Cadastrar categoria de solução
+[Cadastrar categoria de solução](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
