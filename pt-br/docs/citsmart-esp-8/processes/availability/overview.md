@@ -1,6 +1,6 @@
 title: Gerenciamento de Disponibilidade
 Description: Availability management defines, analyses, plans, measures and improves all aspects of the availability of IT services
-#Availability management
+#Gerenciamento de Disponibilidade
 
 Apresentação
 ----------------
