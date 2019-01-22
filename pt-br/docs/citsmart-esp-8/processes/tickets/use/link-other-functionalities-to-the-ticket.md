@@ -3,7 +3,7 @@ Description: É possível vincular ao ticket a outras funcionalidades.
 #Vincular outras funcionalidades ao ticket
 É possível vincular ao ticket a outras funcionalidades, tais como: problemas, mudança, projeto, dentre outros com o intuito de incluir maiores informações ao atender a solicitação/requisição.
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para realizar o vínculo é necessário o cadastro prévio de problemas, mudanças,
@@ -71,19 +71,19 @@ Procedimento 
 Relacionado
 -----------
 
-Criar conhecimento
+[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 Cadastrar um problema
 
-Cadastrar item de configuração
+[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-Cadastrar um projeto
+[Cadastrar um projeto](/pt-br/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
 
 Cadastrar uma requisição de mudança
 
-Cadastrar uma requisição de liberação
+[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-Configurar parametrização - ticket
+[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
