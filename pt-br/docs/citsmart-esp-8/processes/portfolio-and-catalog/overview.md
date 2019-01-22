@@ -1,84 +1,80 @@
-title: Overview os portfolio and catalog management
+title: Gerenciamento de Portfólio e Catálogo
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
-#Portfolio and Catalog management
+#Gerenciamento de Portfólio e Catálogo
 
-Presentation
+Apresentação
 ----------------
 
-The Service Portfolio Management process is responsible for managing the service
-portfolio throughout the service lifecycle, focusing on the value that services
-deliver to the business.
+O processo de Gerenciamento de Portfólio de Serviço é responsável por gerenciar o portfólio de serviços durante todo o ciclo de vida de um serviço, focando no valor que os serviços entregam ao negócio.
 
-The Portfolio is the representation of all services and their status. Its
-command is a dynamic method for managing investments in service management
-throughout the organization and directing those investments to create value.
+O Portfólio é a representação de todos os serviços e seus status. O comando do mesmo é um método dinâmico para administrar os investimentos em gerenciamento de serviços por toda a organização e dirigir esses investimentos para gerar valor.
 
-Use
+Uso
 -------
 
-- [Create the portfolio](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+- [Criar portfólio](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-- [Register a service](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+- [Cadastrar um serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-- [Configure service attributes](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+- [Configurar atributos de serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-- [Configure service contract attributes](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+- [Configurar atributos do contrato do serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-- [Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+- [Cadastrar atividade de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 Configuration
 -----------------
 
-- [Define the permission to access Portfolio Management functionalities](/en-us/site/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+- [Definir a permissão de acesso às funcionalidades do gerenciamento de portfólio](/pt-br/site/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
 
-- [Create service category](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+- [Criar categoria de serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-- [Register a contract](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+- [Cadastrar um contrato](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-- [Create cycle](/en-us/site/citsmart-esp-8/platform-administration/time/create-cycle.html)
+- [Criar ciclo](/pt-br/site/citsmart-esp-8/platform-administration/time/create-cycle.html)
 
-- [Create calendar](/en-us/site/citsmart-esp-8/platform-administration/time/create-calendar.html)
+- [Criar calendário](/pt-br/site/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-- [Register cause of incidents](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+- [Cadastrar causa de incidentes](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
 
-- [Register solution category](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+- [Cadastrar categoria de solução](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Register request justification](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+- [Cadastrar justificativa de solicitação](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-- [Register priority](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+- [Cadastrar prioridade](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-- [Register a client](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
+- [Cadastrar um cliente](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-- [Register provider](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
+- [Cadastrar fornecedor](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
 
-- [Register operating condition](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+- [Cadastrar condição de operação](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-- [Register business process](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-business-process.html)
+- [Cadastrar processo de negócio](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-business-process.html)
 
-- [Register service template](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-service-template.html)
+- [Cadastrar template de serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-service-template.html)
 
-- [Register service request priority](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-service-request-priority.html)
+- [Cadastrar prioridade de solicitações de serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-service-request-priority.html)
 
-- [Register skill/resource](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-skill-resource.html)
+- [Cadastrar habilidade/recurso](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-skill-resource.html)
 
-- [Register type of service](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
+- [Cadastrar tipo de serviço](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
 
-- [Register news category](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news-category.html)
+- [Cadastrar categoria de notícias](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news-category.html)
 
-- [Register news](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news.html)
+- [Cadastrar notícias](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news.html)
 
-- [Register unit](/en-us/site/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+- [Cadastrar uma unidade](/pt-br/site/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-- [Register satisfaction survey](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+- [Cadastrar pesquisa de satisfação](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-Report
+Relatório
 ----------
 
-- [Generate reports - service catalog](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
+- [Gerar relatórios - catálogo de serviços](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
 
-- [Verify service audit](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.htmlm)
+- [Verificar auditoria de serviços](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.htmlm)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
