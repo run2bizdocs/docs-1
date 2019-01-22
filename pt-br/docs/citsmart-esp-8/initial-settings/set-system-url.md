@@ -1,14 +1,14 @@
-Title: Set system URL  
+Title: Configurar URL do sistema  
 #Set system URL  
 
-This functionality is intended to configure the system URL.  
+Esta funcionalidade tem por objetivo configurar a URL do sistema.  
 
-## Procedure  
+## Procedimento  
 
-1. Access the functionality through the main menu Parameterization > CITSmart parameter;  
-2. Search parameter id 33, set URL for your instance:
+1. Acessar a funcionalidade através do menu principal Parameterização > Parâmetros CITSmart;  
+2. Pesquisar o parâmetro com ID 33, configurar a URL para a instância:
     ``` sh
     https://127.0.0.1:8080
 	```
 
-3. Save
+3. Clicar em " Salvar".
