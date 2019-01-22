@@ -120,7 +120,7 @@ Report
 
 - [Generate report through the panel of charts and reports - request and incident](/en-us/citsmart-esp-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
 
-- [Generate reports -  request and incident managemen](/en-us/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
+- [Generate reports -  request and incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
 
 !!! tip "About"
 
