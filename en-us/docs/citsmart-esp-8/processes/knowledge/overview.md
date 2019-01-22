@@ -22,7 +22,7 @@ Use
 Configuration
 -----------------
 
-- [Create folder](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+- [Create folder](/en-us/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
 - [Register Image Category](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
 
