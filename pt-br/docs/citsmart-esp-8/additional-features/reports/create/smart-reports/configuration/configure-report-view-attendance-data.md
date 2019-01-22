@@ -64,7 +64,7 @@ Relatório por Técnico e Tempo Gasto
 técnico, uma vez que apresenta a soma da quantidade de ticket que cada técnico
 executou e a soma dos tempos executados por cada técnico.*
 
-## Procedimento
+### Procedimento
 
 1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
     Smart \> Gerador de Relatórios Smart;
