@@ -1,10 +1,10 @@
-Title: Initial settings
+Title: Configurações iniciais
 
-# Initial settings
+# Configurações iniciais
 
-In the initial settings menu, you will find the following topics:
+No menu de configurações iniciais, encontrará os seguintes tópicos:
 
-* Access settings
+* Acessar configurações
 
 * Add-ons
 
