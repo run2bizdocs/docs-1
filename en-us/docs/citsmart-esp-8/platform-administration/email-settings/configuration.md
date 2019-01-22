@@ -37,3 +37,10 @@ Get the email information and configure the access permissions to the email serv
     |28 | Email box | inbox |
     |72 | Number of messages loaded | 10 |
     |199| Requires TLS/SSL | Yes |
+
+	
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	

@@ -16,4 +16,11 @@ Procedure
 !!! info "Change the loading icon"
     To change the loading icon, change the value of the parameter 387 to "YES".
 	
-	Path: Parametrization > CITSmart Parameters > 387.
+	Path: Parametrization > CITSmart Parameters > 387.  
+	
+	
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
