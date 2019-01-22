@@ -24,20 +24,20 @@ Configuration
 
 - [Create folder](/en-us/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-- [Register Image Category](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
+- [Register Image Category](/en-us/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
 
-- [Store images in the gallery](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
+- [Store images in the gallery](/en-us/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
-- [Register synonym](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
+- [Register synonym](/en-us/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
 
-- [Register subject](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
+- [Register subject](/en-us/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
 
-- [Configure parametrization - knowledge](/en-us/site/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configure parametrization - knowledge](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 Reports
 -----------
 
-- [Generate reports - knowledge management](/en-us/site/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Generate reports - knowledge management](/en-us/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
