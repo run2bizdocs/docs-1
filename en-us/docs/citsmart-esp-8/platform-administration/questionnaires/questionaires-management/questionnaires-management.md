@@ -9,3 +9,12 @@ Questionnaires are instruments that can be used to collect information. In CITSm
 [Register questionnaire][1]
 
 [1]:/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
+
+	
