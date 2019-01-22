@@ -8,17 +8,17 @@ de uma nova liberação ao agrupar as mesma por critérios específicos.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
+1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Portfólio de Liberação;
 
-2.  Clicar no botão "Novo portfólio";
+2-  Clicar no botão "Novo portfólio";
 
-3.  Preencher os campos necessários e adicionar uma imagem para representar o
+3-  Preencher os campos necessários e adicionar uma imagem para representar o
     portfólio, se conveniente for;
 
-4.  Selecionar o portfólio recém-criado e clicar no botão "Avançar" do mesmo;
+4-  Selecionar o portfólio recém-criado e clicar no botão "Avançar" do mesmo;
 
-5.  Apertar o botão "Novo modelo" e preencher os campos disponibilizados, tais
+5-  Apertar o botão "Novo modelo" e preencher os campos disponibilizados, tais
     como por exemplo: vincular o fluxo desejado ao portfólio, selecionar o grupo
     a executar a liberação, vincular o contrato, definir o impacto e a urgência,
     dentre outros.
@@ -31,7 +31,7 @@ Procedimento
     É necessário selecionar o status "Ativo" para disponibilizar o uso do
      portfólio criado.  
 
-1.  Clicar no botão "Gravar" para efetuar a operação.
+6-  Clicar no botão "Gravar" para efetuar a operação.
 
 
 !!! tip "About"
