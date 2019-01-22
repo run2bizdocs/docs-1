@@ -1,51 +1,53 @@
-title: Overview of release management
-Description: The Release Management process provides the physical management of software and hardware, allowing the planning of the releases to be carried out in the IT infrastructure, based on information about CIs and their relationships stored in the CMDB.
-#Release management
+title: Gerenciamento de Liberação
+Description: Provê o gerenciamento físico de software e hardware, permitindo o planejamento das liberações a serem realizadas na infraestrutura de TI.
+#Gerenciamento de Liberação
 
-Presentation
-----------------
 
-Release is defined as a significant change in the organization's IT
-infrastructure, which may be the introduction of new CIs, or the updating of the
-current ones.
+Apresentação
+------------
 
-The Release Management process provides the physical management of software and
-hardware, allowing the planning of the releases to be carried out in the IT
-infrastructure, based on information about CIs and their relationships stored in
-the CMDB.
+Liberação (release) é definida como uma mudança significativa na infraestrutura
+de TI da organização, a qual pode ser a introdução de novos ICs, ou a
+atualização dos atuais.
 
-Use
+O processo de Gerenciamento de Liberação provê o gerenciamento físico de
+software e hardware, permitindo o planejamento das liberações a serem realizadas
+na infraestrutura de TI, apoiando-se nas informações sobre ICs e seus
+relacionamentos armazenadas na BDGC.
+
+
+Uso
 -------
 
-- [Advanced search for closed release registration](/en-us/site/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
+- [Pesquisa avançada de registros de liberação encerrados](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
  
-- [Cancel release registration](/en-us/site/citsmart-esp-8/processes/release/use/cancel-release.html)
+- [Cancelar o registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
 
-- [Activities of the deployment release phase](/en-us/site/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+- [Atividades da fase Implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-- [Execute release](/en-us/site/citsmart-esp-8/processes/release/use/execute-release.html)
+- [Executar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Register release request](/en-us/site/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relate information to the release request](/en-us/site/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
-- [Release request desktop](/en-us/site/citsmart-esp-8/processes/release/use/release-desktop.html)
+- [A área de trabalho da gerenciamento de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
    
-- [Register release justification](/en-us/site/citsmart-esp-8/processes/release/use/release-justification.html)
+- [Cadastrar a justificativa de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
 
-- [Activities of the release planning phase](/en-us/site/citsmart-esp-8/processes/release/use/release-planning-activities.html)
+- [Atividades da fase de Planejamento da liberação](/pt-br/citsmart-esp-8/processes/release/use/release-planning-activities.html)
    
-- [Reopen release registration](/en-us/site/citsmart-esp-8/processes/release/use/reopen-release.html)
+- [Reabrir um registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
 
-- [Suspend release registration](/en-us/site/citsmart-esp-8/processes/release/use/suspend-release.html)
+- [Suspender registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/suspend-release.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Create a release portfolio](/en-us/site/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Criar um portfólio de liberação](/en-us/site/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Larissa Lourenço
 
