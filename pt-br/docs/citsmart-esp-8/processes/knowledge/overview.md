@@ -10,31 +10,31 @@ A premissa do Gerenciamento do Conhecimento é administrar as informações, sen
 Uso
 -------
 
-- [Criar conhecimento](/pt-br/site/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+- [Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-- [Pesquisar conhecimento pelo Guia do Usuário](/pt-br/site/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
+- [Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
-- [Refinar pesquisas no Portal do Conhecimento](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Refinar pesquisas no Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
 Configuração
 -----------------
 
-- [Criar pasta](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+- [Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-- [Cadastrar categoria de imagem](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
+- [Cadastrar categoria de imagem](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
 
-- [Armazenar imagens na galeria](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
+- [Armazenar imagens na galeria](/pt-br/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
-- [Cadastrar sinônimo](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
+- [Cadastrar sinônimo](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
 
-- [Cadastrar assunto](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
+- [Cadastrar assunto](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
 
-- [Configurar parametrização - conhecimento](/pt-br/site/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 Relatório
 -----------
 
-- [Gerar relatórios - Gerência de conehcimento](/pt-br/site/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Gerar relatórios - Gerência de conehcimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 

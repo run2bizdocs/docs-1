@@ -2,25 +2,25 @@ Title: Configurar Serviço de Indexação
 
 # Configurar Serviço de Indexação
 
-CITSmart ESP uses Apache SOLR to index information in the search functionality of Knowledge Portal.
+O CITSmart ESP usa SOLR para indexar a informação na funcionalidade busca do Portal de Conhecimento.
 
 
-## What to do before
+## O que fazer antes
 
-Install the SOLR component, as shown in the [installation manual][1].
+Instalar o componente SOLR, como apresentado no [manual de instalação][1].
 
-## Procedure
+## Procedimento
 
-1. Access the main menu Parametrization > CITSmart Parameters > 304;
-2. Enter the SOLR server data;
+1. Acessar o menu principal Parametrização > Parâmetros CITSmart > 304;
+2. Informar os dados do servidor SOLR;
     ```sh
     http://localhost:8983/solr/collection_name
     ```
-3. Save;
+3. Salvar;
 
-## Related
+## Relacionado
 
-[Indexing Knowledge Base][2]
+[Indexar Base de Conhecimento][2]
 
 [1]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/overview.html
 [2]:/en-us/citsmart-esp-8/platform-administration/data-indexing/management.html

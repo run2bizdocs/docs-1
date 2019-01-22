@@ -1,42 +1,42 @@
-Title: Configure email account
+Title: Configura conta de e-mail
 
-# Configure email account
+# Configurar conta de e-mail
 
-This document aims to present a step-by-step of the email configuration in CITSmart ESP by reading (IMAP) and sending (SMTP) messages.
+Este documento tem como objetivo apresentar um passo-a-passo da configuração de e-mail no CITSmart ESP, através da leitura (IMAP) e envio (SMTP) de mensagens.
 
-## What to do before
+## O que fazer antes
 
-Get the email information and configure the access permissions to the email server.
+Obtenha as informações de e-mail e configure as permissões de acesso ao servidor de e-mail.
 
-## Procedure
+## Procedimento
 
-1. Access the main menu Parametrization > Email
+1. Acessar o menu principal Parametrização > E-mail
 
-    - Configure the SMTP
+    - Configurar o SMTP
 
-    |ID |Description | Example |
+    |ID |Descrição | Exemplo |
     |---|----------|---------|
-    |10 | Organization Email Address	| company@exemple.com |
-    |11 | Requires authentication | Yes |
-    |12 | Email adress | your.email@gmail.com |
-    |13 | Password | Your Gmail password |
-    |14 | Server for sending email (SMTP) | smtp.gmail.com |
-    |199| Requires TLS/SSL | Yes |
-    |269| Port| 587 |
+    |10 | Endereço de email da organização	| empresa@exemplo.com |
+    |11 | Requer autenticação | Sim |
+    |12 | Endereço do e-mail | seu.email@gmail.com |
+    |13 | Senha | Sua senha do Gmail |
+    |14 | Servidor para envio de e-mail (SMTP) | smtp.gmail.com |
+    |199| Requer TLS/SSL | Sim |
+    |269| Porta| 587 |
 
 
-    - Configure the IMAP
+    - Configurar IMAP
 
-    |ID | Description | Example |
+    |ID | Descrição | Exemplo |
     |---|-----------|---------|
-    |23 | Server for receiving emails (IMAP) | imap.gmail.com |
-    |24 | Email address | your.email@gmail.com |
-    |25 | Password | Your Gmail password |
-    |26 | Protocol (imaps, pop, etc.) | imaps |
-    |27 | Port | 993 |
-    |28 | Email box | inbox |
-    |72 | Number of messages loaded | 10 |
-    |199| Requires TLS/SSL | Yes |
+    |23 | Servidor para receber e-mails (IMAP) | imap.gmail.com |
+    |24 | Endereço do e-mail | seu.email@gmail.com |
+    |25 | Senha | Sua senha do Gmail |
+    |26 | Protocolo (imaps, pop, etc.) | imaps |
+    |27 | Porta | 993 |
+    |28 | Caixa de e-mail | inbox |
+    |72 | Número de mensagens carregadas | 10 |
+    |199| Requer TLS/SSL | Sim |
 
 	
 !!! tip "About"
