@@ -44,7 +44,7 @@ Uso
 Configuração
 -----------------
 
-- [Criar um portfólio de liberação](/en-us/site/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Criar um portfólio de liberação](/en-us/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
