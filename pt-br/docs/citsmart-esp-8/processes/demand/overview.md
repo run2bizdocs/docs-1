@@ -1,28 +1,21 @@
-title: Overview of demand management
+title: Gerenciamento de Demanda
 Description: Demand management can involve analysis of business activity patterns and user profiles
-#Demand management
+#Gerenciamento de Demanda
 
-Presentation
+Apresentação
 ----------------
 
-According to ITIL "The process responsible for understanding, forecasting and
-influencing client demand for services. Demand management works with capacity
-management to ensure that the service provider has sufficient capacity to attend
-the demand. At a strategic level, demand management can involve analysis of
-business activity patterns and user profiles, while at the tactical level, it
-may involve the use of differentiated charges to encourage clients to use IT
-services at less busy schedules or require short-term activities to respond to
-unexpected demand or failure of a configuration item".
+Segundo a ITIL, "O processo responsável pelo entendimento, previsão e influência da demanda do cliente por serviços. O gerenciamento de demanda trabalha com o gerenciamento de capacidade para garantir que o provedor de serviço tenha capacidade suficiente para atender à demanda exigida. Em um nível estratégico, o gerenciamento de demanda pode envolver análise de padrões de atividade de negócio e perfis de usuário, enquanto, em nível tático, pode envolver o uso de cobrança diferenciada para estimular clientes a usar os serviços de TI em horários menos ocupados ou exigir atividades em curto prazo para responder à demanda inesperada ou à falha de um item de configuração.".
 
-Use
+Uso
 -------
 
-- [Register demand attribute](/en-us/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
+- [Cadastrar atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
-- [Import demand attribute data](/en-us/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
+- [Importar dados de atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
 
