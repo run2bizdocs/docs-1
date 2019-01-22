@@ -1,4 +1,4 @@
-Title: Dados do usuário
+Title: Editar dados do usuário
 #Edit User data
 
 Esta funcionalidade tem por objetivo editar as informações sobre o perfil do usuário.
