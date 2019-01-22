@@ -37,23 +37,25 @@ Procedimento
 Relacionado
 -----------
 
-Criar portfólio
+[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-Cadastrar um colaborador
+[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar uma unidade
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Cadastrar um serviço
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-Configurar atributos de serviço
+[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-Criar tempo de atendimento
+[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-Configurar parametrização - sistema
+[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-Como relacionar unidade ao contrato
+[Como relacionar unidade ao contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+
+[Como relacionar grupo ao contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
