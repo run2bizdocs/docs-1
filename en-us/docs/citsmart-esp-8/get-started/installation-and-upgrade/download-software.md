@@ -289,3 +289,11 @@ http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&inst
 "core":"base_conhecimento"}
 
 ```
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
+	

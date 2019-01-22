@@ -469,3 +469,10 @@ cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
 
 <continue as the deployment available to its subscription >
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	

@@ -14,3 +14,9 @@ These steps will help you install Citsmart in on-premises environments. Before s
 
 !!! warning
      Not all platform installations require Guacamole, only those that require remote access to the stations are made from CITSmart. The rest of the tools are required in all facilities for proper platform operation.
+
+	 !!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
