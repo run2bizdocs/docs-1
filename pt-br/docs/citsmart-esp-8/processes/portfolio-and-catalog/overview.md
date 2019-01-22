@@ -22,7 +22,7 @@ Uso
 
 - [Cadastrar atividade de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
-Configuration
+Configuração
 -----------------
 
 - [Definir a permissão de acesso às funcionalidades do gerenciamento de portfólio](/pt-br/site/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
