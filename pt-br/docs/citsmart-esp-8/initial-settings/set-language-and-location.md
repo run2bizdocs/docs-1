@@ -1,20 +1,20 @@
-Title: Set Default Language  
+Title: Configurar o idioma default  
 #Set Default Language
 
-This functionality is intended to  setup the default language of the system.  
+Esta funcionalidade tem por objetivo de configurar o idioma default do sistema.  
 
-## Procedure
+## Procedimento
 
-1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
-2. Search parameter 66, set value EN for English, ES for Spanish or PT for Portuguese.
-3. Save
+1. Acessar a funcionalidade através do menu Parametrização > parâmetros CITSmart;   
+2. Procurar o parâmetro 66, configurar o valor EN para Inglês, ES para Espanhol ou PT para Português;
+3. Clicar em " Salvar".
 
-!!! info "Always keep the system in english"  
+!!! info "Manter o sistema sempre em Inglês"  
 
-    1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
-    2. Search parameter 275; 
-    3. Select "Yes"  
-    4. Save
+    1. Acesse a funcionalidade através do menu principal Parameterização > Paraêmetros CITSmart:   
+    2. Pesquisar pelo parâmetro 275; 
+    3. Selecionar "SIM";
+    4. Clicar em "Salvar".
 
 
 
