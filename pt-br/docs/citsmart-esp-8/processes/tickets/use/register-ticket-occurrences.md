@@ -3,7 +3,7 @@ Description: Permite registrar eventuais ocorrências referente a execução do 
 #Cadastrar ocorrências referentes ao ticket
 A funcionalidade permite registrar eventuais ocorrências referente a execução do ticket.
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para registrar ocorrências referente ao ticket é necessário o cadastro prévio
@@ -59,13 +59,13 @@ Procedimento
 Relacionado
 -----------
 
-A área de trabalho da Central de Serviços
+[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-Criar um ticket
+[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-Cadastrar um grupo
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Configurar permissão de acesso do gerenciamento de requisições/incidentes
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
