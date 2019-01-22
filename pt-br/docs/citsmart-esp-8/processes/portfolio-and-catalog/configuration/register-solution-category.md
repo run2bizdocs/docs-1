@@ -1,4 +1,4 @@
-title: Cadastrar categoria de solução.
+title: Cadastrar categoria de solução
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir categorias de solução de incidentes.
 #Cadastrar categoria de solução.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
