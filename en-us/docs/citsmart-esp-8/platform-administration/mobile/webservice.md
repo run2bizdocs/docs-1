@@ -16,3 +16,12 @@ The Mobile functionality was developed to allow greater autonomy in the manageme
 [1]:/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html
 [2]:/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html
 [3]:/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
+
+	
