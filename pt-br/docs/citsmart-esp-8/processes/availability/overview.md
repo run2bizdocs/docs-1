@@ -1,39 +1,31 @@
-title: Overview of Availability management
+title: Gerenciamento de Disponibilidade
 Description: Availability management defines, analyses, plans, measures and improves all aspects of the availability of IT services
-#Availability management
+#Gerenciamento de Disponibilidade
 
-Presentation
+Apresentação
 ----------------
 
-According to ITIL, availability is defined as "Ability of an IT service or other
-configuration item to perform its agreed function when required. Availability is
-determined by reliability, maintainability, serviceability, performance and
-security".
+Segundo a ITIL, a disponibilidade é definida como "Habilidade de um serviço de TI ou outro item de configuração de desempenhar a sua função acordada quando requerido. A disponibilidade é determinada pela confiabilidade, sustentabilidade, funcionalidade do serviço, desempenho e segurança.".
 
-Availability management is defined as "The process responsible for ensuring that
-IT services meet the current and future availability needs of the business in a
-costeffective and timely manner. Availability management defines, analyses,
-plans, measures and improves all aspects of the availability of IT services, and
-ensures that all IT infrastructures, processes, tools, roles etc. are
-appropriate for the agreed service level targets for availability".
+E seu gerenciamento como "O processo responsável por garantir que os serviços de TI atendam às necessidades atuais e futuras de disponibilidade do negócio de uma maneira mais efetiva em custo e mais oportuna. O gerenciamento de disponibilidade define, analisa, planeja, mede e melhora todos os aspectos da disponibilidade de serviços de TI e garante que todos os processos, infraestruturas, ferramentas, papéis, etc. de TI sejam adequados para as metas de nível de serviço acordadas para disponibilidade.".
 
-Use
+Uso
 -------
 
-- [Verify configuration item availability](/en-us/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
+- [Verificar disponibilidade do item de configuração](/pt-br/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
-- [Verify CI group availability](/en-us/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
+- [Verificar disponibilidade de grupo de IC](/pt-br/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
 
-- [Verify availability of availability group](/en-us/citsmart-esp-8/processes/availability/use/availability-group.html)
+- [Verificar disponibilidade de grupo de disponibilidade](/pt-br/citsmart-esp-8/processes/availability/use/availability-group.html)
 
-- [Verify service availability](/en-us/citsmart-esp-8/processes/availability/use/service-availability.html)
+- [Verificar a disponibilidade de serviço](/pt-br/citsmart-esp-8/processes/availability/use/service-availability.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Register availability group](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
+- [Cadastrar grupo de disponibilidade](/pt-br/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins

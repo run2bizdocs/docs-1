@@ -47,7 +47,7 @@ Related
 
 [Register cost per hour of unavailability](/en-us/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html) 
 
-[Register availability group](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.htmlm)
+[Register availability group](/en-us/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
   
 !!! tip "About"
 

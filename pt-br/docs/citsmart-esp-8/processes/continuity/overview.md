@@ -1,92 +1,88 @@
-title: Overview of Continuity management
+title: Gerenciamento de Continuidade
 Description: The Continuity Management focus on the recovery of IT services and its components before an event of disaster.
-#Continuity management
+#Gerenciamento de Continuidade
 
-Presentation
+Apresentação
 ----------------
 
-The Continuity Management focus on the recovery of IT services and its
-components before an event of disaster.
+O Gerenciamento de Continuidade foca em recuperar os serviços de TI e seus componentes diante de um evento de desastre.
 
-What can be an event of disaster?
+O que pode ser um evento de desastre?
 
-1.  Fire;
+1.  Incêndios;
 
-2.  Flood;
+2.  Enchentes;
 
-3.  Terrorism;
+3.  Terrorismo;
 
-4.  Blackouts;
+4.  Apagões ou Blackouts;
 
-5.  System outage;
+5.  Queda de sistemas;
 
-6.  Vandalism;
+6.  Vandalismo;
 
-7.  Storm.
+7.  Tempestades.
 
-The definition of what can be a disaster varies in organizations according to
-the business impact.
+A definição do que poderá ser um desastre varia nas organizações de acordo com o impacto ao negócio.
 
-The Continuity Management purpose is to support the business continuity process,
-manage the risks that can seriously affect the IT services and ensure the
-provision of these minimum services, according to the service level.
+O propósito do Gerenciamento de Continuidade é apoiar o processo de continuidade do negócio, gerenciar os riscos que podem afetar seriamente os serviços de TI e garantir a provisão desses serviços no mínimo acordo de nível de serviço.
 
-Use
+Uso
 -------
 
-- [Register threat](/en-us/citsmart-esp-8/processes/continuity/use/register-threat.html)
+- [Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
   
-- [Register threat category](/en-us/citsmart-esp-8/processes/continuity/use/threat-category.html)
+- [Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-- [Register continuity risk](/en-us/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+- [Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-- [Register risk category](/en-us/citsmart-esp-8/processes/continuity/use/risk-category.html)
+- [Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-- [Register continuity template](/en-us/citsmart-esp-8/processes/continuity/use/continuity-template.html)
+- [Cadastrar o template de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-template.html)
 
-- [Register service continuity](/en-us/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+- [Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
   
-- [Define service continuity policy](/en-us/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+- [Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
    
-- [Register service continuity scope](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+- [Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-- [Define service continuity project](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+- [Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-- [Register service continuity vital functions](/en-us/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+- [Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-- [Register impact analysis in the continuity business](/en-us/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+- [Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-- [Register continuity risk evaluation](/en-us/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+- [Cadastrar a avaiação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-- [Register service continuity strategy](/en-us/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+- [Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-- [Register continuity plan](/en-us/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+- [Register continuity plan](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-- [Register continuity organizational planning](/en-us/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+- [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-- [Register continuity test registration](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
+- [Cadastrar a estratégia de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-- [Register continuity awareness](/en-us/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
+- [Cadastrar a conscientização da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
 
-- [Review and audit service continuity](/en-us/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
+- [Revisar e auditar a continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
 
-- [Continuity test calendar](/en-us/citsmart-esp-8/processes/continuity/use/continuity-test-calendar.html)
+- [Calendário de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-calendar.html)
 
-- [Invoke continuity](/en-us/citsmart-esp-8/processes/continuity/use/invoke-continuity.html)
+- [Invocar continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/invoke-continuity.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+- [Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-- [Register a client](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
+- [Cadastrar um cliente](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-- [Create folder](/en-us/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+- [Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-- [Register questionnaire](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+- [Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
 
