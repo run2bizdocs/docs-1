@@ -34,4 +34,9 @@ In the platform administration menu, you will find the following topics:
 
 * Time
 
-* Processes
+* Processes  
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  

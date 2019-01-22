@@ -37,3 +37,9 @@ It's necessary to have registered the time for scheduling automatic synchronizat
 [Configure parametrization - LDAP][1]
 
 [1]:/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ldap.html
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	

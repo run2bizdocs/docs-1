@@ -22,5 +22,11 @@ Install the SOLR component, as shown in the [installation manual][1].
 
 [Indexing Knowledge Base][2]
 
-[1]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/1.overview.html
+[1]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/overview.html
 [2]:/en-us/citsmart-esp-8/platform-administration/data-indexing/management.html
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
