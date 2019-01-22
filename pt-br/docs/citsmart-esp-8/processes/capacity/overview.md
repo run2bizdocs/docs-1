@@ -1,29 +1,22 @@
-title: Overview of capacity management
+title: Gerenciamento de Capacidade
 Description: Capacity management considers all the resources needed to deliver an IT service
-#Capacity management
+#Gerenciamento de Capacidade
 
-Presentation
+Apresentação
 ----------------
 
-According to ITIL, the capacity can be defined as "The maximum throughput that a
-configuration item or IT service can deliver. For some types of CIs, the
-capacity may be the size or the volume - for example, a disk drive".
+Segundo a ITIL, a capacidade pode ser definida como "O rendimento máximo que um item de configuração ou serviço de TI pode entregar. Para alguns tipos de IC, a capacidade pode ser o tamanho ou o volume – por exemplo, uma unidade de disco.".
 
-The capacity management can be defined as "The process responsible for ensuring
-that IT service capabilities and IT infrastructure are able to meet agreed
-capacity and performance requirements in a timely and cost effective manner.
-Capacity management considers all the resources needed to deliver an IT service
-and addresses the attendance of current and future capacity and performance
-needs of the business".
+E seu gerenciamento como "O processo responsável por garantir que a capacidade dos serviços de TI e a infraestrutura de TI sejam capazes de atender aos requisitos relacionados à capacidade e ao desempenho acordados de maneira oportuna e eficaz em custo. O gerenciamento de capacidade considera todos os recursos necessários para entregar um serviço de TI e trata do atendimento das necessidades de capacidade e desempenho tanto atuais como futuras do negócio.".
 
-Use
+Uso
 -------
 
-- [Register capacity indicators](/en-us/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
+- [Cadastrar indicadores de capacidade](/pt-br/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
 
-- [Import capacity indicators data](/en-us/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
+- [Importar dados de indicador de capacidade](/pt-br/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
