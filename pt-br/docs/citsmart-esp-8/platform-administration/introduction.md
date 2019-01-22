@@ -1,37 +1,37 @@
-Title: Introduction to platform administration
+Title: Introdução à administração da plataforma
 
-# Introduction to platform administration
+# Introdução à administração de plataforma
 
-In the platform administration menu, you will find the following topics:
+No menu da administração da plataforma, estão disponibilizados os seguintes tópicos:
 
-* Authentication
+* Autenticação
 
-* Configuring automatic actions
+* Configuração ações automáticas
 
-* Customizable fields
+* Personalização campos
 
-* Data and import
+* Dados e importação
 
-* Database
+* Base de dados
 
-* Data indexing
+* Indexação de dados
 
-* E-mail settings
+* Configuração de email
 
-* Environment configuration
+* Configuração de ambiente
 
-* Flow maintenance
+* Manutenção de fluxo
 
-* Logs and auditing
+* Logs e auditoria
 
 * Mobile
 
-* Parameters list
+* Lista de parâmetros
 
-* Questionnaires
+* Questionários
 
-* Region and language
+* Região e linguagem
 
-* Time
+* Horário
 
-* Processes
+* Processos
