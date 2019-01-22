@@ -28,9 +28,9 @@ Procedimento
 Relacionado
 -----------
 
-Cadastrar um contrato
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar grupo de atividade periódica
+[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
