@@ -1,75 +1,72 @@
-title: Overview of configuration management
+title: Gerenciamento de Configuração
 Description: This functionality allows to identify, register and manage the Configuration Items (CI).
-#Configuration management
+#Gerenciamento de Configuração
 
-Presentation
+Apresentação
 ----------------
 
-According to ITIL "Information about each configuration item is registered in a
-configuration registry in the configuration management system and is maintained
-throughout its lifecycle by the configuration management and service asset".
+Segundo a ITIL "As informações sobre cada item de configuração são registradas em um registro de configuração no sistema de gerenciamento de configuração e é mantido por todo o seu ciclo de vida pelo gerenciamento de configuração e ativo de serviço.".
 
-This functionality allows to identify, register and manage the Configuration
-Items (CI).
+Esta funcionalidade permite identificar, registrar e gerenciar os Itens de Configuração (IC).
 
-Use
+Uso
 -------
 
-- [Search configuration item](/en-us/citsmart-esp-8/processes/configuration/use/search-CI.html)
+- [Pesquisar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/search-CI.html)
 
-- [Change group of configuration item](/en-us/citsmart-esp-8/processes/configuration/use/change-group-configuration-item.html)
+- [Alterar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/change-group-configuration-item.html)
 
-- [Delete group of configuration item](/en-us/citsmart-esp-8/processes/configuration/use/delete-group-of-IC.html)
+- [Excluir grupo de item de configuração](/en-us/citsmart-esp-8/processes/configuration/use/delete-group-of-IC.html)
 
-- [Link calendar to group of configuration item](/en-us/citsmart-esp-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
+- [Vincular calendário ao grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
-- [Register cost per hour of unavailability](/en-us/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html)
+- [Registrar custo por hora de indisponibilidade](/pt-br/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
-- [Export CMDB](/en-us/citsmart-esp-8/processes/configuration/use/export-CMDB.html)
+- [Exportar CMDB](/pt-br/citsmart-esp-8/processes/configuration/use/export-CMDB.html)
 
-- [Change the configuration item data](/en-us/citsmart-esp-8/processes/configuration/use/change-IC-item-data.html)
+- [Alterar dados do item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/change-IC-item-data.html)
 
-- [Verify processes related to the configuration item](/en-us/citsmart-esp-8/processes/configuration/use/CI-processes-related.html)
+- [Verificar processos relacionados a um item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/CI-processes-related.html)
 
-- [Link demand attributes to CI](/en-us/citsmart-esp-8/processes/configuration/use/link-demand-attributes-to-CI.html)
+- [Vincular atributos de demanda ao IC](/pt-br/citsmart-esp-8/processes/configuration/use/link-demand-attributes-to-CI.html)
 
-- [Analyze configuration item impact](/en-us/citsmart-esp-8/processes/configuration/use/configuration-item-impact.html)
+- [Realizar análise de impacto do item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/configuration-item-impact.html)
 
-- [Verify configuration item history](/en-us/citsmart-esp-8/processes/configuration/use/CI-history.html)
+- [Verificar histórico de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/CI-history.html)
 
-- Verify execution status of CI inventory
+- Verificar status de execução do inventário de IC
 
-- [Verify configuration item captured by Inventory (agent)](/en-us/citsmart-esp-8/processes/configuration/use/CI-captured-by-inventory.html)
+- [Verificar itens de configuração capturados pelo Inventory(agente)](/pt-br/citsmart-esp-8/processes/configuration/use/CI-captured-by-inventory.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Configure parametrization - configuration](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+- [Configurar parametrização - configuração](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
-- [Create configuration item related to a CI](/en-us/citsmart-esp-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+- [Criar item de configuração relacionado a um IC](/pt-br/citsmart-esp-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
-- [Register characteristics](/en-us/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
+- [Cadastrar características](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
 
-- [Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+- [Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-- [Register definitive media](/en-us/citsmart-esp-8/processes/configuration/configuration/register-definitive-media.html)
+- [Cadastrar mídia definitiva](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-definitive-media.html)
 
-- [Register financial value of CI](/en-us/citsmart-esp-8/processes/configuration/configuration/register-financial-value-ic.html)
+- [Registrar o valor financeiro do IC](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-financial-value-ic.html)
 
-- [Register software blacklist](/en-us/citsmart-esp-8/processes/configuration/configuration/register-software-blacklist.html) 
+- [Cadastrar lista negra de software](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-software-blacklist.html) 
 
-- [Register type of configuration item](/en-us/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
+- [Cadastrar tipo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
-Report
+Relatóro
 ----------
 
-- [Generate report - configuration management](/en-us/citsmart-esp-8/processes/configuration/configuration/generate-report-configuration-management.html)
+- [Gerar relatórios - Gerência de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/generate-report-configuration-management.html)
 
-- [Generate reports through the charts and reports panel - configuration items](/en-us/citsmart-esp-8/processes/configuration/configuration/generate-reports-charts-panel-ic.html)
+- [Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/generate-reports-charts-panel-ic.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>01/22/2019 – Anna Martins
 
 
