@@ -1,10 +1,11 @@
 Title: Configure Banner logo
 
-# Configure Banner logo
+Configure Banner logo
+----------
 
 It's possible to change the banner in your environment so CITSmart will have the identity of your company.
 
-# Procedure
+### Procedure
 
 1. Access the main menu System > Settings > Environment Configurations;
 2. To change one of the images (start logo, portal logo, system logo and report logo), click on "Select an image";
