@@ -28,25 +28,25 @@ Procedimento
 Relacionado
 -----------
 
-Criar um ticket
+[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-Capturar um ticket
+[Capturar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
 
-Delegar um ticket
+[Delegar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
-Suspender um ticket
+[Suspender um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
 
-Reclassificar um ticket
+[Reclassificar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-Localizar um ticket
+[Localizar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
 
-Alterar o SLA de um ticket
+[Alterar o SLA de um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
 
-Escalonamento hierárquico no atendimento
+[Escalonamento hierárquico no atendimento](/pt-br/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-Atender com suporte remoto
+[Atender com suporte remoto](/pt-br/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
 
-Imprimir um Ticket
+[Imprimir um Ticket](/pt-br/citsmart-esp-8/processes/tickets/use/print-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
