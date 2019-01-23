@@ -13,6 +13,7 @@ Relacionado
 -------
 
 [Customizar painel inicial][1]
+
 [Editar Informações da Conta][2]
 
 !!! tip "Sobre"
