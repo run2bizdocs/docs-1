@@ -145,7 +145,7 @@ Atividades ou Processos que comprovadamente obtiveram sucesso quando usado em v�
 Observação repetitiva de um Item de Configuração, Serviço de TI ou Processo para detectar eventos e garantir que o status corrente seja conhecido.
 
 ##Mudança
-O acréscimo, modificação ou remoção de qualquer coisa que possa afetar Ser-viços de TI. O Escopo deve incluir todos os Serviços de TI, Itens de Configuração, Processos, Documentos, etc.
+O acréscimo, modificação ou remoção de qualquer coisa que possa afetar Serviços de TI. O Escopo deve incluir todos os Serviços de TI, Itens de Configuração, Processos, Documentos, etc.
 
 ##Não se aplica
 Indica que determinado item ou sessão não é aplicado ao assunto em questão.
