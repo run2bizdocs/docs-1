@@ -32,4 +32,10 @@ In the developing applications, you will find the following topics:
 
 * Type of data
 
-* Variables
+* Variables  
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

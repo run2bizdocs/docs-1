@@ -85,7 +85,10 @@ Figure 10 - Business rule registration / editing screen - Script type (continued
   3- Click Save to run the changes.  
 
 
+!!! tip "About"
 
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  
 
 
 

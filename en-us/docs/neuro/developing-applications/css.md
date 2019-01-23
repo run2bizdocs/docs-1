@@ -53,5 +53,8 @@ Figure 4 - CSS registration screen
 5- Click Save to store the image. Click Search to return to the previous screen.  
 
 
+!!! tip "About"
 
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  
 
