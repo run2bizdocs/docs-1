@@ -7,15 +7,18 @@ Title: Frequently Asked Questions - FAQ
 
 Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
     
-	Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
-	Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
+Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
+Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
     
-    - term^num: onde o “num” é a importância do termo pesquisado, exemplo: incident^2;
-    - E também pode ser utilizado os impulsionadores de campo e as funções do dismax e edismax para impulsionar a pesquisa.
+-   term\^num: onde o “num” é a importância do termo pesquisado, exemplo:
+    incident\^2;
+
+-   E também pode ser utilizado os impulsionadores de campo e as funções do
+    dismax e edismax para impulsionar a pesquisa.
     
-	No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
+No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
     
-    Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
+ Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
     
 ??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
