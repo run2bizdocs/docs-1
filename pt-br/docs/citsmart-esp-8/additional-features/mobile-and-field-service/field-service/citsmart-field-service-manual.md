@@ -46,7 +46,7 @@ Procedimento
 Relacionado
 -----------
 
-Configurar aplicativo CITSmart Field Service
+[Configurar aplicativo CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
 
 !!! tip "About"
 
