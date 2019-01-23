@@ -1,8 +1,8 @@
 Title: Comparative Versions
 
-# Comparative Versions
+# CITSmart ESP 7 X CITSmart ESP 8
 
-|    Overview                                       |    Enterprise 7    |    Enterprise 8    |
+|    Comparative Versions                                       |    Enterprise 7    |    Enterprise 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Web Application                                |:heavy_check_mark:  |:heavy_check_mark:  |
 |    iPhone app                                     |:heavy_check_mark:  |:heavy_check_mark:  |
