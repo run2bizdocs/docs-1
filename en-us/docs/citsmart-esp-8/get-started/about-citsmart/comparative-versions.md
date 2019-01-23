@@ -18,23 +18,23 @@ Title: Comparative Versions
 |    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Change Management [1]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Release Management [2]                         |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Knowledge Management [3]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Assets and Configuration Management            |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Change Management][1]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Release Management][2]                         |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Knowledge Management][3]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Assets and Configuration Management][4]        |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Event Management                               |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Ticket Management                              |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Ticket Management][5]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Problem Management                             |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Continuity Management                          |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Availability Management                        |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Capacity Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Demand Management                              |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Features                                       |    Enterprise 7    |    Enterprise 8    |
-|    Agile Project Management – Simple              |:heavy_multiplication_x:|:new:           |
+|    [Agile Project Management – Simple][6]          |:heavy_multiplication_x:|:new:           |
 |    Tasks Management with Kanban                   |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Experience Center with Users                   |:heavy_multiplication_x:|:new:           |
-|    Warnings / Escalation                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Chat                                           |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Experience Center with Users][7]               |:heavy_multiplication_x:|:new:           |
+|    [Warnings / Escalation][8]                      |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Chat] [9]                                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Knowledge Portal                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Dashboards and Customized Reports              |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Citsmart Neuro Application                     |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
