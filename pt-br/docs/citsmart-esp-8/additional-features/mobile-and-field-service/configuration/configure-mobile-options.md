@@ -26,9 +26,9 @@ Procedimento
 Relacionado
 -----------
 
-Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
+[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
+[Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 !!! tip "About"
 
