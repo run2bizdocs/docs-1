@@ -14,59 +14,59 @@ Esta funcionalidade tem como objetivo apresentar algumas funcionalidades para o 
 Uso
 -------
 
-- [Pesquisar evento](/pt-br/site/citsmart-esp-8/processes/event/use/search-event.html)
+- [Pesquisar evento](/pt-br/citsmart-esp-8/processes/event/use/search-event.html)
 
-- [Visualizar um evento](/pt-br/site/citsmart-esp-8/processes/event/use/view-event.html)
+- [Visualizar um evento](/pt-br/citsmart-esp-8/processes/event/use/view-event.html)
 
-- [Encerrar ocorrência de um evento](/pt-br/site/citsmart-esp-8/processes/event/use/close-event-occurrence.html)
+- [Encerrar ocorrência de um evento](/pt-br/citsmart-esp-8/processes/event/use/close-event-occurrence.html)
 
-- [Encerrar ocorrência e ações de um evento](/pt-br/site/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
+- [Encerrar ocorrência e ações de um evento](/pt-br/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
 
-- [Criar um ticket a partir de um evento](/pt-br/site/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
+- [Criar um ticket a partir de um evento](/pt-br/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
 
-- [Criar uma requisição de mudança a partir de um evento](/pt-br/site/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
+- [Criar uma requisição de mudança a partir de um evento](/pt-br/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
 
-- [Criar um registo de problema a partir de um evento](/pt-br/site/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
+- [Criar um registo de problema a partir de um evento](/pt-br/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
 
-- [Menu interno do gerenciamento de eventos](/pt-br/site/citsmart-esp-8/processes/event/use/internal-menu-of-event.html)
+- [Menu interno do gerenciamento de eventos](/pt-br/citsmart-esp-8/processes/event/use/internal-menu-of-event.html)
 
-- [Cadastrar auditoria de evento](/pt-br/site/citsmart-esp-8/processes/event/use/register-event-audit.html)
+- [Cadastrar auditoria de evento](/pt-br/citsmart-esp-8/processes/event/use/register-event-audit.html)
 
-Configuration
+Configuração
 -----------------
 
-- [Cadastrar modelo de EPL](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
+- [Cadastrar modelo de EPL](/pt-br/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 
-- [Cadastrar Conexão Event Monitor](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+- [Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-- [Cadastrar evento de notificação](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-event-notification.html)
+- [Cadastrar evento de notificação](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-notification.html)
 
-- [Cadastrar gerente global](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-global-manager.html)
+- [Cadastrar gerente global](/pt-br/citsmart-esp-8/processes/event/configuration/register-global-manager.html)
 
-- [Cadastrar gerente Inventory](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
+- [Cadastrar gerente Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
 
 - [Cadastrar gerente genérico Nagios](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-nagios-generic-manager.html)
 
-- [Cadastrar gerente Nagios](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-nagios-manager.html)
+- [Cadastrar gerente Nagios](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-manager.html)
 
-- [Cadastrar conexão Nagios/Zabbix](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+- [Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-- [Cadastrar destinatário da notificação](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
+- [Cadastrar destinatário da notificação](/pt-br/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
-- [Cadastrar categoria de ocorrência](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+- [Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-- [Cadastrar horário](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-time.html)
+- [Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-- [Cadastrar gerente genérico Zabbix](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-zabbix-generic-manager.html)
+- [Cadastrar gerente genérico Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-zabbix-generic-manager.html)
 
-- [Cadastrar gerente Zabbix](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-zabbix-manager.html)
+- [Cadastrar gerente Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-zabbix-manager.html)
 
-- [Configurar conexão Inventory](/pt-br/site/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+- [Configurar conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 Relatórios
 -----------
 
-- [Gerar relatórios - Gerência de eventos](/pt-br/site/citsmart-esp-8/processes/event/configuration/generate-reports-event-management.html)
+- [Gerar relatórios - Gerência de eventos](/pt-br/citsmart-esp-8/processes/event/configuration/generate-reports-event-management.html)
 
 
 !!! tip "About"

@@ -1,1 +1,3 @@
-Title: Configuration Steps
+Title: Passos da Configuração
+
+# Passos da Configuração

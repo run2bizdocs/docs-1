@@ -1,9 +1,9 @@
 Title: Chat
 #Chat
-The notion of "Chat" is used to allude to the exchange of written messages of instantaneous form. In this case, it allows the user to have the right contact to the system attendant in order to solve doubts, make requests and others. The parameters of this application allow to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
+A noção de "Chat" é usada para aludir à troca de mensagens escritas de forma instantânea. Neste caso, permite que o usuário tenha o contato certo para o atendente do sistema, a fim de esclarecer dúvidas, fazer solicitações e outros. Os parâmetros deste aplicativo permitem ativar o chat, definir o contrato padrão para abertura de chamados e ajustar o grupo padrão, além de outras ações.
 
-## Configuring Chat Service:
+## Configurando o Serviço de Chat:
 
-Access [this document][1] for more information. 
+Acesse [esse documento][1] para mais informações. 
 
 [1]:/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-chat.html

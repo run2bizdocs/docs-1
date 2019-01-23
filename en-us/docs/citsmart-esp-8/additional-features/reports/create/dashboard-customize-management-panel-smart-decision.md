@@ -67,7 +67,7 @@ Procedure
 Related
 -------
 
-[Configure Smart Decision template](/en-us/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
+[Configure Smart Decision template](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard/use/create-template.html)
 
 
 !!! tip "About"

@@ -25,9 +25,9 @@ Procedimento
 Relacionado
 -----------
 
-Criar perfil de acesso
+[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-Cadastrar jornadas de trabalho
+[Cadastrar jornadas de trabalho](/pt-br/citsmart-esp-8/platform-administration/time/create-working-day.html)
 
 !!! tip "About"
 
