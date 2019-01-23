@@ -42,4 +42,7 @@ Figure 3 - Package registration / edit screen
 7- To view an item, select the item and click View.  
 
 
+!!! tip "About"
 
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

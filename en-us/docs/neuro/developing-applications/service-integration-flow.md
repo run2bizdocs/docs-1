@@ -128,3 +128,9 @@ The other components present in the palette resemble the components of a "Proces
 ![Screenshot](images/Service-Integration-Flow-fig07.png) 
 Figure 7 - Register/edit workflow, diagram tab
 
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

@@ -40,3 +40,7 @@ Figure 3- Report file master screen
 6- To view an item, select the item and click View.  
 7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

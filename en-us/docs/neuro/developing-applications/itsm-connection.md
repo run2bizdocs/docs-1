@@ -42,3 +42,7 @@ Figure 4 - Registration screen
 5- Click Save to create the ITSM connection. Click Search to return to the previous screen.  
 6- The connection can be attached to an existent business process.  
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

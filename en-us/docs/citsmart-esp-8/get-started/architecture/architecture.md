@@ -35,5 +35,5 @@ For each area above, we have technical security processes and measures that ensu
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
+    <b>Updated:</b>01/23/2019 - João Pelles  
 	

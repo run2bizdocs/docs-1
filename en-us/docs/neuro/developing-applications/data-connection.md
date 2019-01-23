@@ -37,7 +37,10 @@ Figure 4 - JNDI connection record screen
 ![Screenshot](images/DataConnection-direct.png)   
 Figure 5 - Direct connection record screen
 
+!!! tip "About"
 
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  
 
 
 

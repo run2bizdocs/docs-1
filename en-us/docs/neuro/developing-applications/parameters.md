@@ -41,3 +41,7 @@ Figure 4 - Parameter register screen
 4- To register a parameter, enter the name, type, and description. The system will display a "Value" field according to the selected type.  
 5- Click Save to save your changes.  
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

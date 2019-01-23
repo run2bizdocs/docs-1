@@ -55,3 +55,7 @@ Figure 4 - Register/edit business object, database tab
 ![Screenshot](images/business-object-form.png)  
 Figure 5 - Register/edit business object, form tab
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

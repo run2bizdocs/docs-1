@@ -16,4 +16,9 @@ In the link below you can have access to the data dictionary of the tool CITSmar
 
 [Download - Dictionary Database][1]
 
-[1]:/en-us/neuro/images/database-dictionary.rtf
+[1]:/en-us/neuro/images/database-dictionary.rtf  
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  

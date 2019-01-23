@@ -50,3 +50,9 @@ Figure 4 - Data type register screen
 4- Fill in the fields;  
 5- Click Save to store the file. Click Search to return to the previous screen.  
 
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  
