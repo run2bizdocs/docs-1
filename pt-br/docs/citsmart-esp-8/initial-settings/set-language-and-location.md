@@ -1,7 +1,7 @@
-Title: Configurar o idioma default  
-#Configurar o idioma default
+Title: Configurar o idioma padrão 
+#Configurar o idioma padrão
 
-Esta funcionalidade tem por objetivo de configurar o idioma default do sistema.  
+Esta funcionalidade tem por objetivo de configurar o idioma padrão do sistema.  
 
 ## Procedimento
 
@@ -17,6 +17,10 @@ Esta funcionalidade tem por objetivo de configurar o idioma default do sistema.
     4. Clicar em "Salvar".
 
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - Anna Martins
 
 
 
