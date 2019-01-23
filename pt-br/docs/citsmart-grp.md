@@ -10,4 +10,4 @@ Com o CITSMART GRP, módulo Administração de Materiais, é possível gerir ben
 
 Para mais informações [entre em contato][1] com um de nossos parceiros!
 
-[1]:http://www.citsmart.com
+[1]:http://www.citsmart.com/parceiros/?lang=pt-br
