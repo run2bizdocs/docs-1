@@ -1,19 +1,33 @@
-Title:Editar dados do usuário
-#Editar dados do usuário
+title: Editar Informação da Conta
+Description: Tem por objetivo editar informações sobre o perfil do usuário.
+#Editar Informação da Conta
 
-Esta funcionalidade tem por objetivo editar as informações sobre o perfil do usuário.
+Esta funcionalidade tem por objetivo permitir editar as informações da conta de usuário.
 
-## Antes de começar
+Antes de começar
+--------------------
 
-Para editar o perfil, é necessário cadastrar o usuário previamente.
+Para a editar o perfil é necessário estar autenticado.
 
-## Procedure
+Procedimento
+----------------
 
-1. Acessar a funcionalidade Sistema > Configurações > Perfil do Usuário;
-2. Escolher a opção a ser edidata;
-3. Clicar em "Salvar".
+1. Na barra de navegação, clicar no ícone de usuário;
+
+2. Clicar em Editar perfil;
+
+3. Atualizar as informações;
+
+4. Clicar em "Salvar".
 
 
-## Relacionado
+Relacionado
+-------
 
 [Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/18/2019 - Anna Martins
