@@ -16,6 +16,7 @@ Related
 -------
 
 [Customize management panel][1]
+
 [Edit Account Info][2]
 
 !!! tip "About"
