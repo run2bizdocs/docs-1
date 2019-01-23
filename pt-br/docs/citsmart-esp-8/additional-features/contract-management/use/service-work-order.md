@@ -26,9 +26,9 @@ Procedimento
 Relacionado
 -----------
 
-Criar categoria de serviço
+[Criar categoria de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-Cadastrar tipo de serviço
+[Cadastrar tipo de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
