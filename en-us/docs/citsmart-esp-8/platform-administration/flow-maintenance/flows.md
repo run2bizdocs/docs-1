@@ -10,7 +10,7 @@ Flows are visual representations of something that moves continuously. In CITSma
 
 [Expressions Creator][2]  
 
-[1]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/flows.html
+[1]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
 [2]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
 
 !!! tip "About"
