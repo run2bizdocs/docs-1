@@ -79,7 +79,7 @@ Fase no ciclo de vida de um Serviço de TI. Desenho de Serviço inclui um determ
 É um problema que possui causa e solução de contorno documentado. Erros Conhecidos são criados e gerenciados por todo o seu ciclo de vida pelo Gerenciamento de Problema.
 
 ##Evento
-Mudança de estado a qual possui significado para o gerenciamento de um Item de Configuração ou Serviço de TI. Evento são tipicamente notificações criadas por Serviço de TI, Item de Configuração ou ferramenta de monitoramento.
+Mudança de estado a qual possui significado para o gerenciamento de um Item de Configuração ou Serviço de TI. Eventos são tipicamente notificações criadas por Serviço de TI, Item de Configuração ou ferramenta de monitoramento.
 
 ##Fornecedor
 Um Terceiro responsável por fornecer produtos ou serviços que sejam necessários para a entrega de Serviços de TI.
@@ -88,7 +88,7 @@ Um Terceiro responsável por fornecer produtos ou serviços que sejam necessári
 Gerenciamento de Ativos é o processo de negócio responsável por rastrear e apresentar o valor e a responsabilidade financeira dos Ativos durante o seu ciclo de vida. Gerenciamento de Ativos é de um modo geral, parte do processo de Gerenciamento da Configuração e Ativo de Serviço.
 
 ##Gerenciamento de Configuração
-Processo responsável por manter as informações sobre os Itens de Configura-ção necessários para entrega de Serviços de TI, incluindo seus relacionamentos. Esta informação é gerenciada durante todo o ciclo de vida do IC. O Gerenciamento da Configuração é parte do processo mais abrangente chamado processo de Gerenciamento da Configuração e Ativo de Serviço.
+Processo responsável por manter as informações sobre os Itens de Configuração necessários para entrega de Serviços de TI, incluindo seus relacionamentos. Esta informação é gerenciada durante todo o ciclo de vida do IC. O Gerenciamento da Configuração é parte do processo mais abrangente chamado processo de Gerenciamento da Configuração e Ativo de Serviço.
 
 ##Gerenciamento de Configuração e Ativos de Serviço
 Processo responsável tanto pelo Gerenciamento da Configuração quanto pelo Gerenciamento de Ativos.
@@ -220,7 +220,7 @@ Categoria que é usada para distinguir os pedidos feitos à Central de Serviços
 Uma pessoa que usa o Serviço de TI no dia-a-dia. Usuários são diferentes de clientes, pois alguns clientes não usam o Serviço de TI diretamente.
 
 ##Versão
-Uma Versão é usada para identificar uma Baseline de um Item de Configura-ção. Versões tipicamente usam uma convenção de nomes que permite identificar a sequência ou data de cada Linha de Base. Por exemplo: o aplicativo folha de pagamentos versão 3 contém funcionalidades melhoradas em relação à versão 2.
+Uma Versão é usada para identificar uma Baseline de um Item de Configuração. Versões tipicamente usam uma convenção de nomes que permite identificar a sequência ou data de cada Linha de Base. Por exemplo: o aplicativo folha de pagamentos versão 3 contém funcionalidades melhoradas em relação à versão 2.
 
 
 !!! tip "About"
