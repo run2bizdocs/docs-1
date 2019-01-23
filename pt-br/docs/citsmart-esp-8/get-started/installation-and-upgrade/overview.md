@@ -1,6 +1,6 @@
-Title: 1. Visão geral da instalação
+Title: Visão geral da instalação
 
-# 1. Visão geral da instalação
+# Visão geral da instalação
 
 Estas etapas ajudarão a instalar o CITSmart em ambientes locais. Antes de
 começar, é importante ter em mente o software necessário para a instalação da

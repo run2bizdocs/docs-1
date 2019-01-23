@@ -1,6 +1,6 @@
-Title: 3. Download e software
+Title: Download e software
 
-# 3. Download e software
+# Download e software
 
 
 Software e Download

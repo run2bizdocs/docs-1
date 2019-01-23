@@ -1,6 +1,6 @@
-Title: 2. Requisitos do Sistema
+Title: Requisitos do Sistema
 
-# 1. Requisitos do Sistema
+# Requisitos do Sistema
 
 
 ## Servidor de Aplicação

@@ -1,6 +1,6 @@
-Title: 4. Realizar a instalação
+Title: Realizar a instalação
 
-# 4. Realizar a instalação
+# Realizar a instalação
 
 Instalação do Servidor de Aplicação Wildfly
 -------------------------------------------
