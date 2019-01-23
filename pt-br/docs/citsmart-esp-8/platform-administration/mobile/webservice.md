@@ -6,11 +6,11 @@ A funcionalidade Mobile foi desenvolvida para permitir maior autonomia no gerenc
 
 # Relacionado
 
-[Configurar o aplicativo de serviço de campo do CITSmart][1]
+[Configurar aplicativo CITSmart Field Service][1]
 
-[Manual de Servico de Campo do CITSmart][2]
+[Manual de utilização do CITSmart Field Service][2]
 
-[Configurar opções mobile][3]
+[Configurar as opções de mobile][3]
 
 
 [1]:/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html
