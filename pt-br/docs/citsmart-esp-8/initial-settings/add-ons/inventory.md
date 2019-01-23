@@ -12,19 +12,19 @@ O Inventory trabalha em conjunto com [Monitor de Eventos CITSmart - EVM][1] e co
 1. Fazer download do pacote war do componente EVM;  
 2. Descompactar os arquivos;  
 3. Copiar o pacote para a pasta de implantação do servidor de aplicativos Wildfly;  
-4. Configurar as [Propriedades do Sistema][2] com os dados da instância CITSmart ESP;
+4. Configurar as [Propriedades do Sistema][1] com os dados da instância CITSmart ESP;
 
 ## O que fazer depois  
 
-Para testar o Inventory, [configurar][3] as conexões na instância CITSmart ESP.
+Para testar o Inventory, [configurar][2] as conexões na instância CITSmart ESP.
 
 ## Relacionado
 
-[Habilitar o Monitor de Eventos CITSmart][1]
+[Habilitar o Event Monitor no CITSmart][3]
 
-[1]:/pt-br/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
+[1]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
-[3]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
+[3]:/pt-br/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
 
 !!! tip "About"
 
