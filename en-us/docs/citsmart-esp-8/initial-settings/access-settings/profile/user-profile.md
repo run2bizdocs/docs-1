@@ -1,21 +1,23 @@
-title: Edit user profile
+title: Change user account
 Description: Intended to edit the information about the user profile.
-#Edit user profile
-This functionality is intended to edit the information about the user profile.
+# Change user account
+This functionality is intended to edit the information about the user account.
 
 Before getting started
 --------------------------
 
-To edit the profile, it's necessary to previously register the user.
+To edit the profile you must be authenticated.
 
 Procedure
 -------------
 
-1.  Access the functionality System \> Settings \> User Profile;
+1. In navigation bar, click on user profile icon;
 
-2.  Choose the option to be edited;
+2. Click on Edit Profile;
 
-3.  Click on "Save".
+3. Update info;
+
+4. Click on "Save".
 
 Related
 -------

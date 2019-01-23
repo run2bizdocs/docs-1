@@ -1,24 +1,24 @@
-title: Editar perfil do usuário
+title: Editar Informação da Conta
 Description: Tem por objetivo editar informações sobre o perfil do usuário.
-#Editar perfil do usuário
+#Editar Informação da Conta
 
-Esta funcionalidade tem por objetivo editar informações sobre o perfil do
-usuário.
+Esta funcionalidade tem por objetivo permitir editar as informações da conta de usuário.
 
 Antes de começar
 --------------------
 
-Para a editar o perfil é necessário ter um usuário registrado previamente.
+Para a editar o perfil é necessário estar autenticado.
 
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através do menu principal Sistema \> Configurações
-    \> Perfil do usuário;
+1. Na barra de navegação, clicar no ícone de usuário;
 
-2.  Escolher a(s) opção(ões) a serem editadas;
+2. Clicar em Editar perfil;
 
-3.  Clicar em "Salvar".
+3. Atualizar as informações;
+
+4. Clicar em "Salvar".
 
 
 Relacionado
