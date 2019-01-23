@@ -1,19 +1,19 @@
-Title: Aditional Features
+Title: Funcionalidades Adicionais
 
-# Aditional Features
+# Funcionalidades Adicionais
 
-In the aditional features menu, you will find the following topics:
+No menu de funcionalidades adicionais, você encontrará os seguintes tópicos:
 
-* Automation of operation
+* Automação de operações
 
-* Communication and notification
+* Comunicação e notificação
 
-* Contract management
+* Gerenciamento de contrato
 
-* Mobile and field service
+* Mobile e serviço de campo
 
-* Project management
+* Gerenciamento de projetos
 
-* Provision and logistics
+* Provisão e logísticas
 
-* Report
+* Relatórios
