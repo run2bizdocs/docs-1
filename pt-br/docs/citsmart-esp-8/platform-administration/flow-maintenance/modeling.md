@@ -10,7 +10,7 @@ A funcionalidade de fluxo foi construída trazendo elementos, que por essência,
 
 [Fluxos][1]  
 
-[Manutenção de Fluxo][2]
+[Manutenção de Fluxo de trabalho][2]
 
 [1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/flows.html
 [2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html
