@@ -1,5 +1,5 @@
 Title: Configurar URL do sistema  
-#Set system URL  
+#Configurar URL do sistema  
 
 Esta funcionalidade tem por objetivo configurar a URL do sistema.  
 
