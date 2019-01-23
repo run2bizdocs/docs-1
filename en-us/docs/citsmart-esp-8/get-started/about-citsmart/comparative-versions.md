@@ -18,9 +18,9 @@ Title: Comparative Versions
 |    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Change Management                              |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Release Management                             |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Knowledge Management                           |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    Change Management [1]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    Release Management [2]                         |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    Knowledge Management [3]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Assets and Configuration Management            |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Event Management                               |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Ticket Management                              |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
@@ -129,3 +129,22 @@ This feature has been improved, enabling the collection, through attributes, of 
 Integration of Saiku with CITSmart Analytics.
 
 [1]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#change-management
+[2]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#release-management
+[3]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#knowledge-management
+[4]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#assets-and-configuration-management
+[5]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#ticket-management
+[6]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#agile-project-management-simple
+[7]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#experience-center-with-users
+[8]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#warnings-escalation
+[9]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#chat
+[10]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#knowledge-portal
+[11]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#citsmart-neuro-application
+[12]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#mobile-and-field-service
+[13]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#workflow-management
+[14]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#surveys-and-feedback
+[15]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#customized-forms
+[16]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#anuva-application-artificial-intelligence
+[17]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#smart-analytics
+[18]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#ibm-watson
+[19]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#ldapad
+[20]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#saiku
