@@ -464,15 +464,15 @@ Procedimento para adicionar notificação
 
 Relacionado
 ----------------------------------------------
-Acordo de Nível de Serviço	
+[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-Cadastrar um grupo	
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-Cadastrar um contrato	
+[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-Definir modelos de e-mail	
+[Definir modelos de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-Cadastrar serviços
+[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
