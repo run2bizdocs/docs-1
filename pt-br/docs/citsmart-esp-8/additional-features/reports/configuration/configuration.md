@@ -1,24 +1,24 @@
-Title: Configuration
+Title: Configuração
 
-# Configuration
+# Configuração
 
-Some configurations can be take to change the standard view of reports.
+Algumas configurações podem ser tomadas para alterar a exibição padrão dos relatórios.
 
-## Procedure
+## Procedimento
 
-**Change the header brand of exportable reports**
+**Alterar a marca do cabeçalho dos relatórios exportáveis**
 
-1. Access the main menu Parametrization > CITSmart Parameters > 36;
-2. Change the value indicating the path of the folder with the image;
+1. Acessar o menu principal Parametrização > Parâmetros CITSmart > 36;
+2. Alterar o valor, indicando o caminho da pasta com a imagem;
 
 	```sh
     /citsmart/images/logo/logo-header.png
     ```
 	
-3. Save it;
+3. Salvar;
 
-**Change the depth of Ticket searches (only in the report "Search Incident/Request")**
+**Alterar a profundidade das pesquisas de Ticket (somente no relatório "Pesquisar Incidente/Solicitação")**
     
-1. Access the main menu Parametrization > CITSmart Parameters > 343;
-2. Change the value indicating whether the search is done in the general context (NO) or in the group context (YES);
-3. Save
+1. Acessar o menu Parametrização > Parâmetros CITSmart > 343;
+2. Alterar o valor indicando se a pesquisa é feita no contexto geral (NÃO) ou no contexto de grupo (SIM);
+3. Salvar.
