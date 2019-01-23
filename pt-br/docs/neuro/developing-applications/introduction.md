@@ -1,35 +1,35 @@
-Title: Developing Applications
+Title: Administrar Aplicativos
 
-# Developing Applications
+#  Administrar Aplicativos
 
-In the developing applications, you will find the following topics:
+Na administração de aplicativos, encontrará os seguintes tópicos:
 
-* Business object
+* Objeto de Negócio
 
-* Business rules
+* Regras de Negócio
 
 * CSS
 
-* Database
+* Banco de Dados
 
-* Database connection
+* Conexão de Banco de Dados
 
-* Form
+* Formulário
 
-* ITSM connection
+* Conexão ITSM
 
-* Package
+* Pacote
 
-* Parameters
+* Parâmetros
 
-* Process Integration Flow
+* Fluxo de Integração de Processo
 
-* Report file
+* Relatório de arquivo
 
-* Report setup
+* Relatório de configuração
 
-* Service Integration Flow
+* Fluxo de integração de serviço
 
-* Type of data
+* Tipo de dados
 
-* Variables
+* Variáveis
