@@ -297,10 +297,10 @@ Title: Frequently Asked Questions - FAQ
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informe o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
     
 ??? Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
-   Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
+    Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
     
-   1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
-   2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
+    1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
+    2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
 ??? Question "Como vincular colaboradores (usuários) a um grupo?"
     Há duas formas de vincular os colaboradores (usuários) aos grupos, sendo:
