@@ -2,9 +2,9 @@ Title: Modeling
 
 # Modeling
 
-A modelagem de fluxo de trabalho compreende as atividades de entendimento e desenho dos processos, que pode ser realizado utilizando metodologias e melhores práticas de trabalho, como por exemplo o BPMN. 
+The workflow modeling comprises the activities of understanding and designing the processes, which can be performed using methodologies and best work practices, such as the BPMN. 
 
-A funcionalidade de fluxo foi construída trazendo elementos, que por essência, são semelhantes aos da notação BPMN, isto facilita na contrução e entendimento dos fluxos. Além disso, é possível importar projetos no padrão BPMN.
+The flow functionality was built bringing elements, which by their very essence, are similar to BPMN notation, this facilitates the construction and understanding of the flows. In addition, you can import projects in the BPMN standard.
 
 ## Related
 
