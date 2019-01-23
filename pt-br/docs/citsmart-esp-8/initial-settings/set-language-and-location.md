@@ -1,5 +1,5 @@
 Title: Configurar o idioma default  
-#Set Default Language
+#Configurar o idioma default
 
 Esta funcionalidade tem por objetivo de configurar o idioma default do sistema.  
 
