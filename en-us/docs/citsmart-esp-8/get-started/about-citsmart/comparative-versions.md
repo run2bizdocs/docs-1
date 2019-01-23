@@ -8,13 +8,13 @@ Title: Comparative Versions
 |    iPhone app                                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Android app                                    |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
-|    Support                                        |    Enterprise 7    |    Enterprise 8    |
+|    **Support**                                        |    Enterprise 7    |    Enterprise 8    |
 |    Telephone                                      |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Online Support                                 |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Knowledge Base                                 |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Video Tutorials                                |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
-|    Management Processes                           |    Enterprise 7    |    Enterprise 8    |
+|    **Management Processes**                           |    Enterprise 7    |    Enterprise 8    |
 |    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
@@ -29,7 +29,7 @@ Title: Comparative Versions
 |    Availability Management                        |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Capacity Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Demand Management                              |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Features                                       |    Enterprise 7    |    Enterprise 8    |
+|    **Features**                                       |    Enterprise 7    |    Enterprise 8    |
 |    [Agile Project Management – Simple][6]          |:heavy_multiplication_x:|:new:           |
 |    Tasks Management with Kanban                   |:heavy_check_mark:  |:heavy_check_mark:  |
 |    [Experience Center with Users][7]               |:heavy_multiplication_x:|:new:           |
@@ -52,7 +52,7 @@ Title: Comparative Versions
 |    [Anuva Application - AI][16]                         |:heavy_multiplication_x:|:new:           |
 |    [Smart Analytics][17]                                |:heavy_multiplication_x:|:new:           |
 |                                                   |                    |                    |
-|    *Integrations*                                   |    Enterprise 7    |    Enterprise 8    |
+|    **Integrations**                                   |    Enterprise 7    |    Enterprise 8    |
 |    Nágios                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Zabbix                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |    [IBM Watson][18]                                     |:heavy_multiplication_x:|:new:           |
@@ -61,7 +61,7 @@ Title: Comparative Versions
 |    [Saiku][20]                                          |:heavy_multiplication_x:|:new:           |
 |    E-mail                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
-|    Security                                       |    Enterprise 7    |    Enterprise 8    |
+|    **Security**                                       |    Enterprise 7    |    Enterprise 8    |
 |    HTTPS                                          |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
 
