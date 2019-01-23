@@ -18,7 +18,7 @@ Title: Comparative Versions
 |    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Change Management                              |:heavy_check_mark:  |:heavy_check_mark:  |
+|    Change Management                              |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:`[1]`|
 |    Release Management                             |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Knowledge Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Assets and Configuration Management            |:heavy_check_mark:  |:heavy_check_mark:  |
@@ -128,3 +128,4 @@ This feature has been improved, enabling the collection, through attributes, of 
 ### Saiku
 Integration of Saiku with CITSmart Analytics.
 
+[1]:/en-us/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#change-management
