@@ -30,9 +30,9 @@ Title: Comparative Versions
 |    Capacity Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Demand Management                              |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Features                                       |    Enterprise 7    |    Enterprise 8    |
-|    Agile Project Management – Simple              |:heavy_multiplication_x:|:rocket:        |
+|    Agile Project Management – Simple              |:heavy_multiplication_x:|:new:           |
 |    Tasks Management with Kanban                   |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Experience Center with Users                   |:heavy_multiplication_x:|:rocket:        |
+|    Experience Center with Users                   |:heavy_multiplication_x:|:new:           |
 |    Warnings / Escalation                          |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Chat                                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Knowledge Portal                               |:heavy_check_mark:  |:heavy_check_mark:  |
@@ -49,16 +49,16 @@ Title: Comparative Versions
 |    API                                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Customized Forms                               |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Widgets                                        |:heavy_multiplication_x:|:heavy_check_mark:  |
-|    Anuva Application - AI                         |:heavy_multiplication_x:|:rocket:        |
-|    Smart Analytics                                |:heavy_multiplication_x:|:rocket:        |
+|    Anuva Application - AI                         |:heavy_multiplication_x:|:new:           |
+|    Smart Analytics                                |:heavy_multiplication_x:|:new:           |
 |                                                   |                    |                    |
 |    Integrations                                   |    Enterprise 7    |    Enterprise 8    |
 |    Nágios                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Zabbix                                         |:heavy_check_mark:  |:heavy_check_mark:  |
-|    IBM Watson                                     |:heavy_multiplication_x:|:rocket:        |
+|    IBM Watson                                     |:heavy_multiplication_x:|:new:           |
 |    Asterisk                                       |:heavy_check_mark:  |:heavy_check_mark:  |
 |    LDAP/AD                                        |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Saiku                                          |:heavy_multiplication_x:|:rocket:        |
+|    Saiku                                          |:heavy_multiplication_x:|:new:           |
 |    E-mail                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
 |    Security                                       |    Enterprise 7    |    Enterprise 8    |
