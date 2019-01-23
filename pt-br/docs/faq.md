@@ -2,70 +2,73 @@ Title: Frequently Asked Questions - FAQ
 
 # Frequently Asked Questions - FAQ
 
-??? Question "How are documents ranked at the time of SOLR knowledge base search?"
-    To rank the documents at the time of the search, Solr generates a score for each document.
-    Thus, the document that has the highest score, is presented first and the others, with lower scores, in sequence.
-    To calculate the document score Solr uses a standard algorithm, where the frequency of the searched term is checked. But, it is possible to change the punctuation with the use of the boosts.
+??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
+   Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
+
+Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
     
-	Solr's boosters can be used in two moments at the time of indexing or query, and their use in search is more common.
-    Some boosters that may change the calculation of the score at the time of the survey are:
+Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
+Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
     
-    - term^num: where "num" is the importance of the search term, example: incident^2;
-    - And the field boosters and dismax and edismax functions can also be used to boost search.
+-   term\^num: onde o “num” é a importância do termo pesquisado, exemplo:
+    incident\^2;
+
+-   E também pode ser utilizado os impulsionadores de campo e as funções do
+    dismax e edismax para impulsionar a pesquisa.
     
-	At ITSM, no booster is used, so far, only Solr's standard score calculation is used, and at the end of the search the ranking is done by the score and by the number of times the knowledge was voted / liked.
+No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
     
-    Boosters are open for use, but to use them requires a better analysis of the importance of fields and documents added to Solr, by the knowledge base.
+ Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
     
-??? Question "How can Event Management become a business monitoring tool?"
-    WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
-    You can connect the EVM component to any software, even one other than the one the Event Management module normally integrates (Nagios, Zabbix and Inventory) as long as the data sent via webservice follows a pre-set standard.
+??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
+    ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
+    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido..
     
-    Once the data is sent to the CITSmart Event Monitor, rules can be created (for example, with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
+    Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
     
-    Example "Payroll":
+    Exemplo "Folha de Pagamentos": 
     
-    - Let's say it's the rule that one company does not hire more than 5 employees per industry.
-    - The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring "Could be fired.
+    - Digamos que seja regra de uma empresa não contratar mais de 5 funcionários por setor.
+    - O programa de folha de pagamento poderia enviar os dados mínimos de cada contratação por departamento (definido no plano orçamentário da empresa), de modo que sempre que o número de contração por departamento ultrapassar o limite pré-estabelecido, um evento de “excesso de contratação” poderia ser disparado.
     
-??? Question "How do I access the service request from the e-mail notification?"
-    To access the service request from the e-mail notification, proceed as follows:
+??? Question "Como acessar a solicitação de serviço a partir da notificação de e-mail?"
+    Para acessar a solicitação de serviço a partir da notificação de e-mail, proceda conforme orientações abaixo:
+   
+    1. Certifique-se de que esteja logado no sistema;
+    2. Abra a notificação de e-mail referente a solicitação de serviço;
+    3. A notificação terá o número da solicitação com um hyperlink, basta clicar no número, que logo em seguida será redirecionado para tela de Gerenciamento de Serviços apresentando as informações da solicitação.
     
-    1. Make sure you are logged in to the system.
-    2. Open the e-mail notification for the service request;
-    3. The notification will have the request number with a hyperlink, just click on the number, which will then be redirected to the Service Management screen presenting the request information.
+??? Question "Como faço o desenho de ativos que compõem o meu serviço?"
+    É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
     
-??? Question "How do I design the assets that make up my service?"
-    The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
+    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento Configuração dos atributos do serviço):
     
-    To carry out this design, proceed as follows (see knowledge Service attributes configuration):
+    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;
+    2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
+    3. Realize o desenho;
+    4.  Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Apoio/Técnico: Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;  
+    5. A tela para projetar os ativos que compõem o Serviço de Apoio/Técnico será apresentada;
+    6. Realize o desenho.
     
-    1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service →Service Map;
-    2. The screen for designing the assets that make up the business service will be presented;
-    3. Perform the design
-    4. Access the Service Asset Map Design functionality for the Support / Technical Service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service → Service Map.
-    5. The screen for designing the assets that make up the support / technical service will be presented;
-    6. Perform the design
+??? Question "Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?"
+    Para definir o grupo padrão para atendimento de 1º nível, proceda conforme as orientações abaixo:
+   
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
+    2. Realize o cadastro do grupo de 1º nível, caso não esteja cadastrado, e proceda com o preenchimento dos campos;
+    3. Caso o grupo de 1º nível já esteja cadastrado no sistema, realize a pesquisa do grupo e obtenha o seu número de identificação (ID);
+    4. Após obter o ID do grupo de 1º nível, acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal. Parametrização → Parâmetros Citsmart;
+    5. Será apresentada a tela Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    6. Realize a pesquisa do parâmetro "9 - ID Grupo Nível 1";
+    7. Selecione o mesmo;
+    8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação (ID) do grupo de 1º nível;
+    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How do I set a default group for the first level service request?"
-    To set the default group for 1st level attendance, proceed as follows:
+    REGRA: após a configuração do parâmetro, ao realizar o registro de uma Solicitação de Serviço/Incidente, caso não tenha informado o grupo para atendimento do serviço, será escalado o grupo, o qual foi definido no parâmetro para atendimento de 1º nível.
     
-    1. Access the Group Registration feature by navigating in the main menu Access and Permission → Group. The group registration screen will be displayed, displaying the contracts;
-    2. Make the registration of the group of 1st level, if not registered, and proceed with the completion of the fields;
-    3. If the 1st level group is already registered in the system, carry out the group search and obtain their identification number (ID);
-    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization → Parameters CITSmart.
-    5. The CITSmart Parameters screen appears, click the CITSmart Parameters Search tab
-    6. Perform the search for parameter "9 - Group ID Level 1"
-    7. Select the same.
-    8. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number (ID) of the 1st level group
-    9. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+??? Question "Como configurar a autenticação do Nagios via LDAP?"
+    A configuração de autenticação do Nagios via LDAP passa por:
     
-    RULE: after setting the parameter, when registering a Service Request/Incident, if you have not informed the group to service the service, the group will be scaled, which was defined in the parameter For 1st level service.
-    
-??? Question "How to configure Nagios authentication via LDAP?"
-    The Nagios authentication configuration via LDAP is:
-    
-    1. Change the thruk.conf file as follows:
+    1. Alterar o arquivo thruk.conf da seguinte forma:
     ```sh
     vim /etc/apache2/conf-available/thruk.conf
 	```
@@ -79,7 +82,7 @@ Title: Frequently Asked Questions - FAQ
     Require valid-user
     </Location>
 
-    2. Run:
+    2. Executar:
     ```sh
     /etc/init.d/apache2 restart
 	```
@@ -90,319 +93,317 @@ Title: Frequently Asked Questions - FAQ
     /etc/init.d/nagios reload
 	```
     
-??? Question "How to configure the automatic satisfaction survey response?"
-    The automatic response mechanism, which will answer automatically all service request satisfaction surveys, kicks in when the satisfaction survey is not filled out by the user within the deadline determined by the systems manager.
+??? Question "Como configurar a resposta automática de pesquisas de satisfação?"
+    O mecanismo de resposta automática, que responderá automaticamente as pesquisas de satisfação das solicitações de serviço, acontece quando a pesquisa de satisfação não for respondida pelo usuário, dentro de um prazo definido pelo administrador do sistema.
     
-    To configure the automatic responses, proceed as instructed below:
+    Para realizar a configuração das respostas automáticas, proceda conforme orientações abaixo:
 
-    1. Configure the following system parameters which determine the behavior of the automatic response mechanism (see knowledge Parameterization rules - Provisioning and Logistics):
-    Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically filled out by the system;
-    Parameter 152: Default rating which will be attributed to surveys that have been automatically filled out. Options: EXCELLENT, GOOD, REGULAR, POOR;
-    Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
-    2. Access the Batch Processing feature (System → Batch Processing).
-    3. The batch processing entry screen will be displayed, fill out the fields:
-    Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
-    Situation: the situation determines if this processing will be active or inactive. When it is inactive the requests will not be answered;
-    Type: select the “Java Class” type;
-    Schedule: determines when the activity will be executed, it is up to the administrator to determine the best time and recurrence ;
-    Content: insert the text: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
-    4. Click on the Save button to confirm the entry.
+    1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática ( ver conhecimento Regras de parametrização - Provisionamento e logística):
+    Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
+    Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: OTIMO, BOM, REGULAR E RUIM;
+    Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
+    2. Acesse a funcionalidade de Processamento Batch (Sistema → Processamento Batch).
+    3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
+    Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
+    Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
+    Tipo: selecionar o tipo “Classe Java”;
+    Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
+    Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+    4. Clique no botão Gravar para efetuar o registro.
     
-	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
+	REGRA: a partir do momento da gravação, no horário e dia agendado, as solicitações não respondidas (com prazo superior ao definido no parâmetro 139) serão automaticamente respondidas (com o valor definido no parâmetro 152), caso o parâmetro 151 esteja com valor ‘S’.
 
-??? Question "How to configure the configuration Items lifecycle phases names?"
-    The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below
+??? Question "Como configurar o nome das fases do ciclo de vida dos ICs (itens de configuração)?"
+    A configuração dos nomes das fases do ciclo de vida do IC pode ser realizada a partir da tela de Configuração do GCAS e a partir da tela de Parâmetros do CITSmart. Para realizar essa configuração, proceda conforme orientações abaixo:
+  
+    CONFIGURAÇÃO A PARTIR DA TELA DE CONFIGURAÇÃO DO GCAS
     
-    CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
+    1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL → Gerência de Configuração → Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
+    2. Informe os valores dos parâmetros (atributos):
+    Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
+    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
+    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
+    3. Clique no botão Gravar para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
+    4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
-	1. Access the GCAS Configuration feature navigating through the main menu ITIL Processes → Configuration Management → GCAS Configuration. Afterwards, the service assets and the management parameters (attributes) configuration screen will be displayed;
-    2. Insert the parameters value (attributes):
-    Name of the CIs Group which are in the Development Phase (i.e.: CIs in Development)
-    Name of the CIs Group which are in the Production Phase (i.e.: CIs in Production)
-    Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
-    3. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
-    4. After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
+	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO CITSMART
     
-	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
-    
-	1. Access the Citsmart Parameters feature (Parametrization → Citsmart Parameters).
-    2. Then, the Citsmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
-    3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)"
-    4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed.
-    5. On the Value field, insert the name of the CI group in development.
-    6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
-    7. Search for the parameter "93 - Name of The CIs Group in Production Phase (e.g.: ICs em Produção)"
-    8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
-    9. On the Value field, insert the name of the CI group in production phase;
-    10. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
-    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)"
-    12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
-    13. On the Value field, insert the name of the CI group in confirmation phase;
-    14. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização → Parâmetros Citsmart.
+    2. Após isso, será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Será apresenta a tela para pesquisa de parâmetros;
+    3. Realize a pesquisa do parâmetro "92 - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)"
+    4. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
+    5. No campo valor, informe o nome do grupo de ICs da fase de desenvolvimento;
+    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    7. Realize a pesquisa do parâmetro "93 - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)";
+    8. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
+    9. No campo valor, informe o nome do grupo de ICs da fase de produção
+    10. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    11. Realize a pesquisa do parâmetro "94 - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação)"
+    12. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado
+    13. No campo valor, informe o nome do grupo de ICs da fase de homologação
+    14. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
-??? Question "How to configure the service request notification e-mails?"
-    When registering a service request, perform determined activities and its execution, the petitioner will be notified.
+??? Question "Como configurar as notificações de e-mail de solicitação de serviços?"
+    Ao registrar uma solicitação de serviço, realizar demais ações e encerrar a mesma, o solicitante será notificado..
     
-	In order for the notification be sent it is necessary to perform the following procedures :
+	Para que essa notificação seja enviada é necessário realizar os seguintes procedimentos:
     
-    1. Access the Contract Services related to the business service Portfolio Management → Services Portfolio → Business Service → Contract → Services and technical service Portfolio Management → Service Portfolio → Business Service → Support/Technical Service → Contract → Services e and insert the e-mail template in the fields:
+    1. Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Contrato → Serviços e serviço técnico Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato → Serviços e informe o modelo de e-mail nos campos
         
-		- 'Incident/Request Opening E-mail Template'
-        - 'Incident/Requistion Execution E-mail Template'
-        - 'Incident/Request Ongoing Activities E-mail Template'
+	- "Modelo de E-mail Abertura Incidente/Requisição"
+        - "Modelo de E-mail na finalização de Solicitações/Incidentes"
+        - "Modelo de E-mail nas demais ações de Solicitações/Incidentes" 
         
-	    RULE: if e-mail templates are not inserted, the notification will not be sent.
+	    REGRA: caso não informe os modelos de e-mail, as notificações não serão enviadas.
 
-    2. Access the Group Register feature General Registration → Staff Management → Group.
+    2. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Cadastro Gerais → Gerência de Pessoal → Grupo.    
+    3. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo;
+    4. Selecione o mesmo;
+    5. Será exibida a tela de registro do determinado grupo, defina se as notificações de e-mail (abertura, andamento e encerramento) referentes às solicitações, serão de envio obrigatório;
     
-    3. The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
-    4. Select it;
-    5. The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
+	    REGRA: caso tenha determinado que as notificações serão obrigatórias, ao registrar uma solicitação de serviço, na tela de Registro de Incidente/Requisição de Serviço, essas opções já estarão selecionadas, não permitindo a sua alteração. Mas caso tenha determinado que as notificações não serão obrigatórias, ao registrar uma solicitação de serviço, essas opções poderão ser definidas pelo responsável do registro da solicitação.
     
-	    RULE: if it is determined that notifications will be mandatory, when registering a service request, on the Incident/Request Service entry screen, these options will be selected already, not allowing any changes. But if it has been determined that notifications will not be mandatory, when registering a service request, these options will be available to be determined by the petitioner.
+    6. Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma solicitação de serviço será estabelecida a regra referente a notificação por e-mail, definida no cadastro de grupo.
     
-    6. On the Incident/Request Service Request screen, when registering a service request the rules related to the e-mail notifications will be established, determined in the group entry.
+	    REGRA: quando registrar uma solicitação de serviço, será enviada a notificação somente para o grupo executor, o qual é responsável pelo atendimento da solicitação. Quando realizar a execução das demais ações e encerramento da solicitação de serviço, as notificações serão encaminhadas somente para o solicitante.
     
-	    RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the petitioner.
-    
-??? Question "How to define the obligatoriness of the linking change with IC?"
-    The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
+??? Question "Como definir a obrigatoriedade do vínculo da mudança com IC?"
+    A obrigatoriedade do vínculo da mudança com o IC é definida na tela de Parâmetro do CITSmart. Para definir essa obrigatoriedade, proceda conforme orientações abaixo:
 
-    1. Access the CITSmart Parameter feature navigating through the main menu.
-    2. The CITSmart Parameter screen will be displayed, click on the Search tab.
-    3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)"
-    4. Select it.
-    5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value.
-    6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
-    7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização → Parâmetros CITSmart;
+    2. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart;
+    3. Será apresenta a tela para pesquisa de parâmetros. Realize a pesquisa do parâmetro "85 - Verificação de vínculo de mudança relacionada ao Item de configuração (Default: S)";
+    4. Selecione o mesmo;
+    5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S";
+    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    7. Após configuração do parâmetro, quando for registrar um Item de Configuração, será obrigatório o vínculo da mudança.
     
-??? Question "How to enable automatic e-mail reading routine?"
-    When sending an e-mail to CITSmart support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
+??? Question "Como habilitar a rotina de leitura automática de e-mails?"
+    Ao enviar um e-mail para o suporte do CITSmart será feita a leitura do e-mail automática, caso o e-mail seja referente a uma solicitação, será verificado o título do e-mail, se contém a palavra ‘Solicitação’ e o número da solicitação, caso contenha, será armazenado o e-mail como ocorrência na solicitação referente.
     
-    For this e-mail reading routine to work perfectly, the following procedures must be followed:
+    Para que essa rotina de leitura de e-mails funcione perfeitamente, é necessário realizar os seguintes procedimentos:
     
-    1. Install the java 7 version, if it has lower version the routine will not work;
-    2. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
-    3. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
-    4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
-    5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br)
-    6. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
-    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart)
-    9. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
-    11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
-    12. Click on the Save button to perform the operation, in this case the date, time and user will be stored automatically for a future audit;
-    13. Perform the search of the parameter "26 - SMTP READY - Service Desk e-mail server provider (imaps, pops, imap, pop, etc)" and select it;
-    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the Save button to perform the operation, In this case the date, time and user will be stored automatically for a future audit.
-    15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select the same.
-    16. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the port that will be used to access the mail server (587 for pop server or 995 for imap server);
-    17. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    18. Perform the search for the parameter "28 - SMTP READY - Service Desk E-Mailbox Folder" and select it.
-    19. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the folder of the e-mail account's inbox;
-    20. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    21. Perform the search for the parameter "200 - Enable routine for reading new e-mails automatically (ex: Y or N - Default 'N')" and select the same one;
-    22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
-    23. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    1. Instalar a versão do java 7, caso tenha versão inferior a rotina não funcionará;
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização→ Parâmetros Citsmart;
+    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    4. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "23 - SMTP LEITURA - Servidor de entrada de e-mails do Service Desk" e selecione o mesmo;
+    5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o servidor de entrada de e-mail (ex.: orion.egrupo.com.br);
+    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    7. Realize a pesquisa do parâmetro "24 - SMTP LEITURA - Caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
+    8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o e-mail ou login da conta de e-mail (ex.: suporte.citsmart);
+    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    10. Realize a pesquisa do parâmetro "25 - SMTP LEITURA - Senha da Caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
+    11. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, a senha da conta de e-mail;
+    12. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    13. Realize a pesquisa do parâmetro "26 - SMTP LEITURA - Provider do servidor de e-mails do Service Desk (imaps, pops, imap, pop, etc)" e selecione o mesmo;
+    14. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o protocolo que será utilizado para leitura de e-mails (ex.: imap ou pop) e clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    15. Realize a pesquisa do parâmetro "27 - SMTP LEITURA - Porta do servidor de e-mails do Service Desk" e selecione o mesmo;
+    16. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe a porta que será utilizada para acessar o servidor de e-mails (587 para servidor pop ou 995 para servidor imap);
+    17. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    18. Realize a pesquisa do parâmetro "28 - SMTP LEITURA - Pasta da caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
+    19. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe a pasta da caixa de entrada da conta de e-mail;
+    20. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    21. Realize a pesquisa do parâmetro "200 - Habilitar rotina para leitura de e-mails novos automaticamente ?(ex: S ou N - Default 'N')" e selecione o mesmo;
+    22. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar a rotina de leitura de e-mail automaticamente;
+    23. CClique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How to enable the change module escalation rule?"
-    The changes escalating rule is enacted on the CITSmart Parameter screen.
+??? Question "Como habilitar a regra de escalonamento do módulo de mudanças?"
+    A regra de escalonamento de mudanças é habilitada na tela de Parâmetro do Citsmart.
     
-    To enable this rule, proceed as follows:
+    Para habilitar essa regra, proceda conforme orientações abaixo:
 
-    1. Access the CITSmart Parameters feature navigating through the main menu Parametrization → CITSmart Parameters;
-    2. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
-    3. The CITSmart Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)"
-    4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation.
-    5. Click on the Save button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    3. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "193 - Habilita o escalonamento de mudanças definido nas regras de escalonamento? (Ex: S ou N - Padrão 'N')" e selecione o mesmo;
+    4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar escalonamento de mudanças;
+    5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How to enable the portal?"
-    In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
+??? Question "Como habilitar o Portal de Serviços (Smart Portal)?"
+    Para que os usuários tenham acesso ao Portal ou ao Portal Smart, deve-se habilitar o mesmo da seguinte forma:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed, as shown in the figure below:
-    3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
-    4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    2. Realize a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do Citsmart?" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
+    3. No campo valor, informe o valor "S" para habilitar o portal como tela inicial. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
     
-??? Question "How to enable the satisfaction survey?"
-    The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
+??? Question "Como habilitar a pesquisa de satisfação?"
+    A pesquisa de satisfação é a avaliação do atendimento da solicitação feita através da notificação por e-mail.
     
-    To enable the satisfaction survey, proceed as instructed below:
+    Para habilitar essa pesquisa de satisfação, proceda conforme orientações abaixo:
     
-    1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO})
-    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization → CITSmart Parameters.
-    3. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
-    4. Search for the parameter "Send e-mail when running requests/incidents flows";
-    5. Select it.
-    6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests.
-    7. Click on the Save button to confirm the procedure.
-    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and technical service Portfolio Management and Catalog → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
-    9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
+    1. Crie o modelo de e-mail (o modelo de e-mail deve conter a seguinte palavra-chave: ${LINKPESQUISASATISFACAO})
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    4. Realize a pesquisa do parâmetro "31 - Envia e-mail na execução dos fluxos de solicitações/incidentes";
+    5. Selecione o mesmo;
+    6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para que seja habilitado o envio de e-mail referente as solicitações de serviço;
+    7. Clique no botão Gravar para efetuar a operação;
+    8. Acesse os serviços de requisição, incidente e procedimento do contrato referente ao serviço de negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio → Avançar Portfólio → Catálogo de Serviços → Avançar Serviço e serviço técnico Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio → Avançar Portfólio → Catálogo de Serviços → Avançar Serviço e verifique se o modelo de e-mail que foi criado está informado no campo "Modelo de E-mail na finalização de Solicitações/Incidentes";
+    9. Ao receber uma notificação por e-mail da solicitação de serviço que foi atendida, será exibido um link para realizar a avaliação do atendimento. Ao clicar no link será aberta uma tela para avaliação do atendimento.
     
-??? Question "How to enable the scheduling rule of the problems module?"
-    The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
+??? Question "Como habilitar a regra de escalonamento do módulo de problemas?"
+    Para habilitar essa regra, proceda conforme orientações abaixo:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
-    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
-    3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
-    4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
-    5. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    3. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "194 - Habilita o escalonamento de problema definido nas regras de escalonamento? (Ex: S ou N - Default 'N')" e selecione o mesmo;
+    4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar escalonamento de problemas;
+    5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How to enable the service requests escalation rule?"
-    The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
+??? Question "Como habilitar a regra de escalonamento das solicitações de serviço?"
+    A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
-    1. In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
-    2. Access the CITSmart Parameters feature by navigating in the main menu System → CITSmart Parameters;
-    3. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
-    4. Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
-    5. Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
-    6. Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
-    7. Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
+    1. No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema → Parâmetros Citsmart;
+    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    4. Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
+    5. Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
+    6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
+    7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
-	- 195 - E-mail template id for sending deadline request notification (Eg: 1)
-    - 197 - User login that will receive e-mail regarding service request scheduling rules that are expiring (eg Consultant)
-    - 113 - E-mail Template ID for Auto Escalation
-	- 10 - SMTP SEND - E-mail origin of service request notifications
-    - 33 - System access URL
+    - 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+    - 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+    -113: ID do modelo de e-mail para escalação automática;
+    - 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+    - 33: URL de acesso ao sistema.
     
-	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+	8. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
    
-??? Question "How to improve the performance of CITSmart Enterprise ITSM?"
-    System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
+??? Question "Como melhorar o desempenho do CITSmart Enterprise ITSM?"
+    O desempenho do sistema é definido como o tempo que o software demora para realizar uma determinada tarefa, visto que esse desempenho é um forte atributo de qualidade percebido pelos usuários do software.
     
-    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (citsmart.cfg), where you can activate or inactivate routines.
+    Existe a capacidade de o sistema funcionar com mais de uma instância, para isso, será necessário utilizar o arquivo de configuração (citsmart.cfg), onde é possível ativar ou inativar rotinas.
     
-    To use this capability, the citsmart.cfg file must exist in the directory:
+    Para utilizar essa capacidade, deverá existir o arquivo citsmart.cfg no diretório:
     ```sh
-    \jboss\standalone\configuration\ (When Jboss rises as a single instance)
-    \jboss\domain\configuration\ (When using cluster, has domains and hosts)
+    \jboss\standalone\configuration\ (quando o Jboss sobe como uma única instância)
+    \jboss\domain\configuration\ (quando é utilizado cluster, tem domains e hosts)
     ```
-	Here are the guidelines you need to complete the configuration:
-
+   
     RULE: where $ {value} is replaced by the corresponding values.
 	
-    1. START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
-    2. START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
-    3. START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
-    4. QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
-    5. The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation.
-    6. START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
-    7. START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
-    8. Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
-    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
-    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
-    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
-    9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
-    - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).
+    1. START_MODE_RULES=${valor} (Este parâmetro define se processa as regras de escalonamento. Informe o valor TRUE para ativar ou FALSE para desativar).
+    2. START_MODE_ITSM=${valor} (Este parâmetro define se apresenta a interface do ITSM. Informe o valor TRUE ou FALSE. Se estiver definido com o valor FALSE, não irá permitir abrir as funcionalidades de incidentes, etc. (do ITSM)).
+    3. START_MONITORING_ASSETS=${valor} (Este parâmetro define se o monitoramento de ativos será ativado. Informe o valor TRUE para ativar ou FALSE para desativar).
+    4. QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parâmetro define a quantidade de itens da tabela logdados que serão feitos backup. Informe a quantidade de itens, ex.: 1000).
+    5. Os parâmetros abaixo quando não ativados faz com que o sistema suba com as threads desativadas para melhorar o desempenho do sistema. É necessário configurar esses parâmetros antes da inicialização do Jboss para o funcionamento dos mesmos.
+    6. START_MONITORA_INCIDENTES=${valor} (Este parâmetro define se desativa o monitoramento de incidentes. Informe o valor TRUE ativar ou FALSE desativar).
+    7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar ou FALSE desativar).
+    8. O uso dos parâmetros abaixo é opcional. Os mesmos fazem a separação do pool de conexão principal com o pool de execução do fluxo, inventário e relatório.
+    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do fluxo. Informe o nome do datasource, ex. java:/jdbc/citsmartFluxo).
+    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do inventário. Informe o nome do datasource, ex.: java:/jdbc/citsmart_inventory).
+    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource dos relatórios. Informe o nome do datasource, ex.: java:/jdbc/citsmart_reports).
+    9. O parâmetro abaixo separa o processamento da rotina de eventos BPM em um pool de thread separado do pool de thread principal do sistema, para aliviar no uso de recursos do banco de dados e do servidor.
+    - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informe o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
     
-??? Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
-    Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
+??? Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
+   Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
     
-	1. On-demand environments: Administrator must connect to the client's directory server.
-    2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
+   1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
+   2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
-??? Question "How to link staff members (users) to a group?"
-    There are two ways to link staff members (users) to groups, being:
+??? Question "Como vincular colaboradores (usuários) a um grupo?"
+    Há duas formas de vincular os colaboradores (usuários) aos grupos, sendo:
 
-	FROM THE GROUP'S REGISTRY
+    A PARTIR DO CADASTRO DE GRUPO
 	
-    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see knowledge Group registration and search);
-    2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
-    3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
-    4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
-    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção  Acesso e Permissão e clique na opção Grupo (ver conhecimento Cadastro de grupo);
+    2. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado grupo;
+    3. Clique no ícone de adicionar do campo Colaboradores, será exibida a tela para pesquisa de colaboradores;
+    4. Realize a pesquisa do colaborador que deseja vincular ao grupo e selecione o mesmo. Após isso, o colaborador será vinculado ao grupo;
+    5. Após o vínculo, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-	FROM THE USER'S REGISTRY
+    A PARTIR DO CADASTRO DE USUÁRIO
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see knowledge Staff registration and search);
-    2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
-    3. Click on the add icon of the Group field, the group search screen will be displayed;
-    4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
-    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit
+    1. Acesse a funcionalidade de Cadastro de Usuário através da navegação no menu principal. Posicione o mouse na opção Cadastro Gerais, Gerência de Pessoal e clique na opção Usuário (ver conhecimento Cadastro de usuário);
+    2. Será apresentada a tela de Cadastro de Usuário. Caso o usuário já esteja registrado no sistema, realize a pesquisa do usuário e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado usuário;
+    3. Clique no ícone de adicionar do campo Grupo. Será exibida a tela para pesquisa de grupos;
+    4. Realize a pesquisa do grupo desejado e selecione o mesmo. Após isso, o usuário será vinculado ao grupo;
+    5. Após o vínculo, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
-??? Question "How to relate group to contract?"
-    To relate the group to the contract, proceed as follows:
+??? Question "Como relacionar grupo ao contrato?"
+    Para relacionar grupo ao contrato, proceda conforme as orientações abaixo:
     
-    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
-    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the Save button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files → Personnel Management → Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
-    5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same.
-    6. Once this is done, the registration screen of the selected group will be displayed;
-    7. Select the contracts to which the group will be linked. After that, click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    2. Realize a pesquisa do parâmetro "41 - Faz o controle de vínculo de colaboradores aos contratos (S/N)?" e selecione o mesmo;
+    3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de grupo. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver conhecimento Cadastrar um grupo).
+    5. Caso o grupo que deseja vincular ao contrato já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo;
+    6. Feito isso, será exibida a tela de registro do determinado grupo;
+    7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How to relate unit to contract?"
-    To relate the unit to the contract, proceed as follows:
+??? Question "Como relacionar unidade ao contrato?"
+    Para relacionar unidade ao contrato, proceda conforme as orientações abaixo:
     
-    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
-    3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the Save button to perform the operation;
-    4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files → Personnel Management → Unit.The unit registration screen will be displayed, displaying the contracts;
-    5. If the unit you wish to link to the contract is already registered in the system, perform the unit search and select it. Once this is done, the registration screen of the particular unit will be displayed;
-    6. Select the contracts to which the unit will be linked.
-    7. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Após isso, será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    2. Realize a pesquisa do parâmetro "61 - Vincula contratos a unidade" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado; 
+    3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de unidade. Feito isso, clique no botão Gravar para efetuar a operação;
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Unidade através da navegação no menu principal Cadastros Gerais → Gerência de Pessoal → Unidade. Será apresentada a tela de cadastro de unidade, exibindo os contratos; 
+    5. Caso a unidade que deseja vincular ao contrato já esteja registrada no sistema, realize a pesquisa da unidade e selecione a mesma. Feito isso, será exibida a tela de registro da determinada unidade;
+    6. Selecione os contratos, os quais a unidade será vinculada.
+    7. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
-??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
-    Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
+??? Question "Como substituir cada imagem das logomarcas do CITSmart ITSM Enterprise?"
+    Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
-	1. Access path: System → Settings → Environment settings; Three frames will appear for image upload:
-    - Initial Logo: Image displayed on the initial login screen of the system;
-    - Portal Logo: Image presented in the System Services Portal;
-    - System Logo: Image presented when accessing the system;
-    - Report Logo: Image presented in all jasper reports.
+    1. Acessar o caminho: Sistema → Configurações → Configurações de ambiente; aparecerá três espaços para upload de imagem:
+      - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
+      - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
+      - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
+      - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
 	
-    2. Upload (can be different images).
+    2. Realizar upload (podem ser imagens diferentes).
     
-	RULE: If you do not choose a new logo, the default logo will be CITSmart logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the CITSmart ITSM.
+	REGRA: caso o usuário não escolha uma nova logo, a logo default será a do CITSmart. Por questão de direitos autorais, esta mudança de logo é permitida somente na versão Enterprise do produto CITSmart ITSM.
 
-    MOST PRECISE IMAGE CONFIGURATION FOR JASPER REPORTS
+    CONFIGURAÇÃO MAIS PRECISA DA IMAGEM PARA RELATÓRIOS JASPER
 	
-    The user has access to the properties of the image that will appear in the reports,
+    O usuário tem acesso às propriedades da imagem que aparecerá nos relatórios.
 
-	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.
+	REGRA: caso a imagem personalizada pelo usuário não esteja configurada corretamente nos relatórios, ela deve ser redesenhada com proporções mais adequadas.
     
-??? Question "How to setup the SOLR feature?"
-    PARAMETER CONFIGURATION
+??? Question "Como configurar o recurso SOLR?"
+    CONFIGURAÇÃO DO PARÂMETRO
     
-	1. To configure a parameter navigate to the screen “Parametrization → Knowledge Management”;
-    2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”
-    3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento
+    1. Para configurar o parâmetro vá na tela Parametrização → Gerência de Conhecimento;
+    2. Procure pelo parâmetro “URL do servidor do SOLR (Ex:http://localhost:8983/solr/collection_name)”
+    3. Após informe a URL do servidor Solr, um exemplo de URL seria a seguinte: http://localhost:8983/solr/base_conhecimento
 
-	INDEXING EXISTING KNOWLEDGE ENTRIES
+    INDEXAÇÃO DOS CONHECIMENTOS EXISTENTES
 	
-    1. To index knowledge entries navigate to the screen “System → Configurations → Knowledge Management (Index)”;
-    2. If there are indexed knowledge entries already click on “Remove Knowledge base index”;
-    3. Shortly after, click on "Index Knowledge Base";
-    4. If any errors occur click on “Refresh the Index Server”;
-    5. Shortly after, click again on ”Index Knowledge Base";
-    6. If any errors occur contact the ITSM Support.
+    1. Para indexar os conhecimentos vá em Sistema → Configurações → Gerência de Conhecimento (Indexação);
+    2. Caso tenha conhecimentos indexados clique em “Remover indexação base de conhecimento”;
+    3. Logo após clique em “Indexar base de conhecimento”;
+    4. Caso ocorra algum erro clique em “Atualizar o servidor de indexação”;
+    5. Logo após clique novamente em “Indexar base de conhecimento”;
+    6. Caso ocorra algum erro entre em contato com o Suporte do ITSM.
     
-??? Question "To which recipient will be sent notifications of ICs?"
-    IC notifications will be sent to the recipient defined in the Citsmart Parameter screen.
+??? Question "Para qual destinatário será feito envio de notificações de ICs?"
+    As notificações de ICs serão enviadas para o destinatário definido na tela de Parâmetro do Citsmart.
     
-	To set the recipient, proceed as follows:
+	Para definir o destinatário, proceda conforme orientações abaixo:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
-    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
-    3. It will display the screen for parameter search;
-    4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)"
-    5. Select the same.
-    6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All)
-    7. Click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    3. Será apresenta a tela para pesquisa de parâmetros;
+    4. Realize a pesquisa do parâmetro "90 - Envio de e-mails de Notificação de ICs (1-Grupo, 2-Proprietário, 3-Todos)";
+    5. Selecione o mesmo;
+    6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação do destinatário (1 - Grupo, 2 - Proprietário ou 3 - Todos);
+    7. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    8. Após configuração do parâmetro, será realizado o envio de e-mails de notificações de ICs para o destinatário (grupo, proprietário ou todos), conforme especificado no valor do parâmetro.
     
-??? Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
-    [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
+??? Question "O que é preciso para configurar um IC que está fisicamente na rede da empresa do cliente para ser inventariado pelo CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
+    [Original] Na cloud, o mongodb e evm/inv ficam na estrutura do cliente, devido não ser possível se conectar em um range interno com origem da cloud.
     
-    [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
+    [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
     
-??? Question "What is the attachment upload features file size limit?"
-    The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
+??? Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades com este recurso?"
+    O upload dos anexos especifica o tamanho limite de 15 Mbytes para cada arquivo carregado no sistema. Porém, na tela do Portal continua com o limite de 5 Mbytes para o tamanho do arquivo.
    
-??? Question "What is the Fato table of the service request module and how to insert data?"
-    The service request fact table is intended to receive consolidated information regarding the service request.
+??? Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
+    A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
     
-    Such as:
+    Tais como: 
     
     IDSOLICITACAOSERVICO
 	
@@ -600,72 +601,77 @@ Title: Frequently Asked Questions - FAQ
 	
     DATAHORACARGA
     
-	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
+	Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino, nos anexos.
     
-??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
-    When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.
+??? Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
+    Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
     
-	Let's look at a generic example:
-    - For example, service A has a linked quality flow, after solving a service A request and advancing the flow, the responsible group will be the quality group and this will terminate the life cycle of the request in question, but this group is not The group that solved this request, it only approved the solution and terminated the request, so it will not appear in the report generated by the Inquiries and Incidents search screen when the "Solver Group" filter is marked with a specific group.
-    - However, when the "Solver Group" filter is not active, the group presented in the report or search will be the group referring to the current request task, ie if the request is closed and has a quality flow, the group will be presented Of quality as the current group responsible for closing the life cycle of this request, if the request is in progress, will be presented the current group responsible for the execution of this request.
+	Vejamos um exemplo genérico:
+    - O serviço A possui um fluxo de qualidade vinculado. Após solucionada uma solicitação referente ao serviço A e avançar o fluxo, o grupo responsável será o de qualidade e este encerrará o ciclo de vida da solicitação em questão, porém este grupo não é o grupo que solucionou esta solicitação, ele apenas aprovou a solução e encerrou a solicitação, portanto não será apresentado no relatório gerado pela tela de pesquisa de Requisições e Incidentes quando o filtro "Grupo solucionador" estiver marcado com um grupo específico.
+    - Entretanto, quando o filtro "Grupo Solucionador" não estiver ativo, o grupo apresentado no relatório ou na pesquisa será o grupo referente à tarefa atual da solicitação, ou seja, caso a solicitação esteja fechada e possua um fluxo de qualidade, será apresentado o grupo de qualidade como o grupo atual responsável pelo encerramento do ciclo de vida desta solicitação. E caso a solicitação esteja em andamento, será apresentado o grupo atual responsável pela execução desta solicitação.
     
-??? Question "What is the meaning of each inventory status of CIs?"
-    - Inventory - the inventory was able to read the CI information and ended successfully
-    - Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
-    - Unreachable - When the server encounters the IC but can not bring the information,
-    - Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
-    - Running - While reading the inventory, the IC is in this status.
+??? Question "Quais o significado de cada status do inventário de ICs?"
+    - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
+    - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load temos uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
+    - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
+    - Não inventariado: quando nem encontra o IC na rede, mas tem conhecimento de que ele já existiu;
+    - Em execução: durante a leitura do inventário, o IC fica nesse status.
     
-??? Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
-    - Public: all users with access to the Knowledge Portal have access, regardless of whether they have access to the knowledge folder.
-    - Confidential: only author and approver can view knowledge.
-    - Internal: only people with permission in the knowledge folder can view.
+??? Question "Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?"
+    - Público: todos os usuários com acesso no Portal do Conhecimento possuem acesso, independente se têm acesso à pasta do conhecimento;
+    - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
+    - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
     
-??? Question "What is the type of permission for the Logdados table backup folder?"
-    The folder permissions must be to read and write for the JBoss user.
+??? Question "Quais as permissões necessárias na pasta de destino do backup da tabela Logdados?"
+    A permissões na pasta devem ser de leitura e gravação para o usuário que o JBoss utiliza.
     
-??? Question "When does data synchronization occur with LDAP?"
-    The system synchronizes the credential data of its users with LDAP in three different situations:
+??? Question "Quando ocorre a sincronização dos dados com o LDAP?"
+    O sistema sincroniza os dados das credenciais de seus usuários com o LDAP em três situações distintas:
     
-	1. On application activation, usually in sequence to the product version update procedure;
-    2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's authentication and permission;
-    3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.
+    1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
+    2. Quando o usuário faz o logon (o acesso ao sistema com seu login e senha), nesse momento o sistema automaticamente verifica a autenticação e permissão do usuário;
+    3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
     
-??? Question "When is removed the data from the Logdata table?"
-    The backup routine of the LogData table removes the data from the table and saves it to a file, that is, the table becomes clean after processing.
+??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
+    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
     
-??? Question "When is the Logdata table Information deleted?"
-    The LogData tab daily backup routine clear the tab's data and saves as a file, that is, the tab is cleared after the processing.
+??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
+    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
     
-??? Question "Why are the schedules created by the tool different from the current time?"
-    SCENARIO
-    1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
+??? Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
+    CENÁRIO
+    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
 
-	WHAT TO CHECK
-    1. Postgresql database configuration file:
-    Postgresql.conf
-    timezone = 'BRAZIL/EAST'
-    2. On the container cloud:
-    Setting timezone on the operating system.
-    3.Setting up the TimeZone on the JRE:
-    https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+    O QUE CHECAR
+    1. Arquivo de configuração do Banco Postgresql:
+     - Postgresql.conf
+     - timezone = 'BRAZIL/EAST'
+    2. No container cloud:
+     - Setting timezone on the operating system.
+    3.Configuração do TimeZone no JRE: 
+     - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
-??? Question "Why in some reports does the same request appear more than once?"
-    In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repeats" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
+??? Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
+    Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
     
-    In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not shown more than once.
+    Já em outros relatórios, tais como o "Relatório Incidentes / Solicitações de Serviços" não há detalhamento da solicitação de acordo com as atividades e por isso não é mostrada a solicitação mais de uma vez. 
     
-??? Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
-    This is not an error, the solver group field is populated only when the request is terminated, this causes to only brings results to situations such as "Closed", incompatible with what is being requested / reported in the filters.
+??? Question "Por que o resultado é "Relatório Vazio" ao gerar o relatorioControlePercentualQuantitativoSla selecionando no filtro a situação "em Andamento" e o "grupo solucionador"?"
+    Não se trata de um erro, o campo de grupo solucionador é preenchido somente quando a solicitação é encerrada, isso faz com que só traga resultados para as situações do tipo "Fechada", incompatível com o que se está pedindo/informando nos filtros.
     
-??? Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
-    Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
+??? Question "Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?"
+    Tanto a tela de Solicitação de Serviços quanto em alguns relatórios (tais como "Qualidade de Atendimento - SLA"), a ordenação do número das solicitações segue uma ordem sequencial crescente, exceto quando:
     
-    1. The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
-    2. When the feature called Sequence Block is impacted by an external factor, this occurs if:
-    - There is an application stop for version upgrade, or environment maintenance and later return.
-    - The environment is clustered.
+    1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
+    2. Quando o recurso denominado Sequence Block é impactado por um fator externo, isso ocorre se:
+    - Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
+    - O ambiente é clusterizado.
     
-??? Question "Will the backup be overwritten or will there be a file for every day?"
-    If your routine has a daily backup, a file will be created every day, containing the name and date of the file.
+??? Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
+    Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
+    
+??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
+    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.
+   Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.
+
 	
