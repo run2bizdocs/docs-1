@@ -1,12 +1,12 @@
-Title: System Customization
+Title: Personalização do Sistema
 
-# System Customization
+# Personalização do Sistema
 
-It's possible to customize several information in your environment, as well as:
+É possível personalizar diversas informações no seu ambiante, tais quais:
 
-- [Banner Logo of System][1]
+- [Logotipo do Sistema][1]
 
-- [Knowledge Portal (CSS and banner logo)][2]
+- [Portal de Conhecimento (CSS e logotipo)][2]
 
 [1]:/pt-br/citsmart-esp-8/platform-administration/environment-configuration/banner-logo.html
 [2]:/pt-br/citsmart-esp-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html
