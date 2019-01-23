@@ -73,4 +73,11 @@ Configuration
 Reports
 -----------
 
-- [Generate reports - event management](/en-us/citsmart-esp-8/processes/event/configuration/generate-reports-event-management.html)
+- [Generate reports - event management](/en-us/citsmart-esp-8/processes/event/configuration/generate-reports-event-management.html)  
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
+
