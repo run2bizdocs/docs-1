@@ -1,6 +1,7 @@
-# Bem vindo ao CITSmart
+Title: Bem-vindo
 
-!!! tip "O que é a CITSmart?" 
-    **CITSmart** é uma plataforma de governança corporativa inteligente que foi criada para facilitar a unificação de informações e padronização na gestão de Tecnologia da Informação no ambiente organizacional. Fornece governança em um conceito inteligente de unidade e praticidade na gestão corporativa.
-      O **CITSmart** é uma solução integrada projetada para gerenciar qualquer requisição ou fluxo de trabalho. Com foco em fornecer governança por meio da Tecnologia da Informação, foi projetada para acelerar e aperfeiçoar o gerenciamento de negócios por meio do uso de melhores práticas, estratégias corporativas e metodologias inovadoras desenvolvidas por profissionais altamente qualificados. A plataforma foi projetada para atender aos critérios mais rigorosos exigidos pela PinkVERIFY, uma marca que endossa ferramentas de software baseadas nos quinze processos de Gerenciamento de Serviços propostos pelo ITIL, sendo a CITSmart a única na América Latina a ter nove certificações.
-      Nossos processos **ITIL** certificados pela ITIL são: Gerenciamento de Incidente, Gerenciamento de Requisição, Gerenciamento de Portfólio, Gerenciamento de Conhecimento, Gerenciamento de Catálogo de Serviços, Gerenciamento de Nível de Serviço, Gerenciamento de Ativos e Configuração de Serviço, Gerenciamento de Mudanças, Gerenciamento de Problemas, Gerenciamento de Liberação e Gerenciamento de Continuidade.
+# Estamos aqui para ajudá-lo!
+
+Bem-vindo ao Centro de Documentação do CITSmart. Aqui você encontrará informações úteis sobre nossos produtos, guias de instalação, configuração da plataforma e implantação dos processos. Veja também nosso site para desenvolvedores: https://developers.citsmart.com.
+
+Clique no menu acima para entrar na árvore de documentação dos nossos produtos.
