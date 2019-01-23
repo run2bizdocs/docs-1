@@ -1,5 +1,5 @@
-Title: Simple Agile Management
+Title: Gerenciamento Simple Agile
 
-# Simple Agile Management
+# Gerenciamento Simple Agile
 
-Simple is a feature of CITSmart that allows the easy and agile management of the services existed in the system. It was created to manage the projects in the simplest way, with resources to organize, monitor and delegate the activities between the members of your team or individually.
+Simple é uma funcionalidade do CITSmart que permite o gerenciamento fácil e ágil dos serviços existentes no sistema. Foi criado para gerenciar os projetos da maneira mais simples, com recursos para organizar, monitorar e delegar as atividades entre os membros de sua equipe ou individualmente.
