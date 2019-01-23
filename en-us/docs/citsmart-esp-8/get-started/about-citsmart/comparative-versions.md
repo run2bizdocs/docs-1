@@ -35,30 +35,30 @@ Title: Comparative Versions
 |    [Experience Center with Users][7]               |:heavy_multiplication_x:|:new:           |
 |    [Warnings / Escalation][8]                      |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    [Chat] [9]                                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Knowledge Portal                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Knowledge Portal][10]                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Dashboards and Customized Reports              |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Citsmart Neuro Application                     |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Mobile and Field Service                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Citsmart Neuro Application][11]                     |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Mobile and Field Service][12]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Contract Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Project Management                             |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Workflow Management                            |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Workflow Management][13]                            |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Dynamic builder of reports                     |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Surveys and Feedback                           |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Surveys and Feedback][14]                           |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Management Dashboard                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Portal                                 |:heavy_check_mark:  |:heavy_check_mark:  |
 |    API                                            |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Customized Forms                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
+|    [Customized Forms][15]                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    Widgets                                        |:heavy_multiplication_x:|:heavy_check_mark:  |
-|    Anuva Application - AI                         |:heavy_multiplication_x:|:new:           |
-|    Smart Analytics                                |:heavy_multiplication_x:|:new:           |
+|    [Anuva Application - AI][16]                         |:heavy_multiplication_x:|:new:           |
+|    [Smart Analytics][17]                                |:heavy_multiplication_x:|:new:           |
 |                                                   |                    |                    |
-|    Integrations                                   |    Enterprise 7    |    Enterprise 8    |
+|    *Integrations*                                   |    Enterprise 7    |    Enterprise 8    |
 |    Nágios                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Zabbix                                         |:heavy_check_mark:  |:heavy_check_mark:  |
-|    IBM Watson                                     |:heavy_multiplication_x:|:new:           |
+|    [IBM Watson][18]                                     |:heavy_multiplication_x:|:new:           |
 |    Asterisk                                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    LDAP/AD                                        |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Saiku                                          |:heavy_multiplication_x:|:new:           |
+|    [LDAP/AD][19]                                        |:heavy_check_mark:  |:heavy_check_mark:  |
+|    [Saiku][20]                                          |:heavy_multiplication_x:|:new:           |
 |    E-mail                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
 |    Security                                       |    Enterprise 7    |    Enterprise 8    |
