@@ -49,7 +49,7 @@ Title: Comparative Versions
 |    API                                            |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Customized Forms                               |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Widgets                                        |:heavy_multiplication_x:|:heavy_check_mark:  |
-|    Anuva Application | Artificial Intelligence    |:heavy_multiplication_x:|:heavy_check_mark:  |
+|    Anuva Application - AI                         |:heavy_multiplication_x:|:heavy_check_mark:  |
 |    Smart Analytics                                |:heavy_multiplication_x:|:heavy_check_mark:  |
 |                                                   |                    |                    |
 |    Integrations                                   |    Enterprise 7    |    Enterprise 8    |
@@ -58,8 +58,8 @@ Title: Comparative Versions
 |    IBM Watson                                     |:heavy_multiplication_x:|:heavy_check_mark:  |
 |    Asterisk                                       |:heavy_check_mark:  |:heavy_check_mark:  |
 |    LDAP/AD                                        |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Saiku                                          |:heavy_multiplication_x:|                    |
-|    E-mail                                         |:heavy_check_mark:  |                    |
+|    Saiku                                          |:heavy_multiplication_x:|:heavy_check_mark:  |
+|    E-mail                                         |:heavy_check_mark:  |:heavy_check_mark:  |
 |                                                   |                    |                    |
 |    Security                                       |    Enterprise 7    |    Enterprise 8    |
 |    HTTPS                                          |:heavy_check_mark:  |:heavy_check_mark:  |
