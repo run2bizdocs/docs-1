@@ -2,11 +2,11 @@ title: A central de Eventos
 Description: Permitindo visualizar gráficos, acompanhar o monitoramento e pesquisar ocorrência de eventos.
 #A central de Eventos
 Esta funcionalidade tem como objetivo apresentar algumas funcionalidades para o gerenciamento de eventos, permitindo visualizar gráficos, acompanhar o monitoramento e pesquisar ocorrência de eventos.
--   Gráficos;
+ -   Gráficos;
 
--   Gerenciamento;
+ -   Gerenciamento;
 
--   Pesquisa.
+ -   Pesquisa.
 
 
 Antes de começar
