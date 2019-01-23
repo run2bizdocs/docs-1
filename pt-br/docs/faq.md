@@ -3,22 +3,22 @@ Title: Frequently Asked Questions - FAQ
 # Frequently Asked Questions - FAQ
 
 ??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
-   Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
+    Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
 
-Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
+    Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
     
-Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
-Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
+    Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
+    Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
     
--   term\^num: onde o “num” é a importância do termo pesquisado, exemplo:
+    -   term\^num: onde o “num” é a importância do termo pesquisado, exemplo:
     incident\^2;
 
--   E também pode ser utilizado os impulsionadores de campo e as funções do
+    -   E também pode ser utilizado os impulsionadores de campo e as funções do
     dismax e edismax para impulsionar a pesquisa.
     
-No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
+    No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
     
- Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
+    Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
     
 ??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
@@ -297,10 +297,10 @@ No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utili
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informe o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
     
 ??? Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
-   Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
+    Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
     
-   1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
-   2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
+    1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
+    2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
 ??? Question "Como vincular colaboradores (usuários) a um grupo?"
     Há duas formas de vincular os colaboradores (usuários) aos grupos, sendo:
@@ -671,7 +671,7 @@ No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utili
     Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
     
 ??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
-    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.
-   Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.  
+    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.  
+    Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.  
 
 	
