@@ -8,7 +8,7 @@ O 'Relatório de Lucratividade dos Atendimentos por Contrato' depende do cadastr
 Procedimento
 ------------
 
-1-  Acessar a funcionalidade** **através da navegação no menu principal
+1-  Acessar a funcionalidade através da navegação no menu principal
     Cadastros Gerais \> Gerência de Pessoal \> Ciclo;
 
 2-  Clicar em "Novo";
