@@ -2,9 +2,9 @@ Title: Modeling
 
 # Modeling
 
-The workflow modeling comprises the activities of understanding and designing the processes, which can be performed using methodologies and best work practices, such as the BPMN. 
+The workflow modeling comprises the activities of understanding and designing the processes, which can be performed using methodologies and best work practices, such as BPMN. 
 
-The flow functionality was built bringing elements, which by their very essence, are similar to BPMN notation, this facilitates the construction and understanding of the flows. In addition, you can import projects in the BPMN standard.
+The flow functionality was built bringing elements, which by their very essence, are similar to BPMN notation, this facilitates the construction and understanding of the flows. In addition, you can import projects in BPMN standard.
 
 ## Related
 
