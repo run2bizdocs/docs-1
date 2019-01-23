@@ -1,7 +1,5 @@
 title: Visão Geral ESP  
 
-Descrição: O CITSmart ESP é uma plataforma inteligente de governança corporativa, criada para facilitar a unificação de informações. Permite a gestão da informação dos serviços e seus processos no ambiente organizacional, proporcionando governança.CITSmart ESP é um conceito inteligente de união e praticidade na gestão corporativa. 
-
 CITSmart ESP
 ============
 
