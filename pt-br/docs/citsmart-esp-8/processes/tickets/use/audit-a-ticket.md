@@ -22,6 +22,19 @@ Procedimento
 4.  Clicar no ícone simbolizado por uma lupa para definir os filtros necessários
     para verificar o histórico das instâncias do ticket para a auditoria.
 
+>   !!! warning "ATENÇÃO"
+
+    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria",
+    ao tentar configurar a auditoria de um ticket aberto (definir as datas de
+    início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará
+    a mensagem de "Data Inválida". Isto porque a funcionalidade necessita que o
+    idioma definido no sistema e no navegador utilizado sejam idênticos.
+
+    Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao
+    auditar os tickets o sistema apresentará uma mensagem o que impossibilitará
+    auferir o relatório pretendido.
+
+
 Relacionado
 -----------
 
@@ -29,7 +42,6 @@ Relacionado
 
 [Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-FAQ (Por que o sistema exibe mensagem de data inválida ao auditar o ticket?)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
