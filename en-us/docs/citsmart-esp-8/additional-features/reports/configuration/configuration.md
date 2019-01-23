@@ -22,3 +22,10 @@ Some configurations can be take to change the standard view of reports.
 1. Access the main menu Parametrization > CITSmart Parameters > 343;
 2. Change the value indicating whether the search is done in the general context (NO) or in the group context (YES);
 3. Save
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/22/2019 - João Pelles  
+	
