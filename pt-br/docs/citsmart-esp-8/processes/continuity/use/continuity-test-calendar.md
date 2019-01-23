@@ -85,7 +85,7 @@ Relacionado
 
 [Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
