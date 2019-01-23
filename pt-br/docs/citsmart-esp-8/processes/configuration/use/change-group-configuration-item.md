@@ -22,7 +22,7 @@ Procedimento
 
 5.  Clicar em "Gravar".
 
-Relacionados
+Relacionado
 ----------------
 
 [Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
