@@ -29,7 +29,7 @@ Relacionado
 
 [Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-Sistema exibe mensagem de data inválida ao auditar o ticket
+FAQ (Por que o sistema exibe mensagem de data inválida ao auditar o ticket?)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
