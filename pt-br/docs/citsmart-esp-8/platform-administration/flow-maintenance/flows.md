@@ -2,19 +2,19 @@ Title: Fluxos
 
 # Fluxos
 
-Flows are visual representations of something that moves continuously. In CITSmart ESP, the flow tool makes possible to construct process paths, for example, a workflow for a given service, among others.
+Fluxos são representações visuais de algo que se move continuamente. No CITSmart ESP, a ferramenta de fluxo possibilita a construção de caminhos de processo, por exemplo, um fluxo de trabalho para um determinado serviço, entre outros.
 
-## Related
+## Relacionado
 
-[Flow Maintenance][1]  
+[Manutenção de fluxo de trabalho][1]  
 
-[Expressions Creator][2]  
+[Construir expressões][2]  
 
-[1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/flows.html
+[1]:/pt-br/citsmart-esp-8/platform-administration//flow-maintenance/workflow.maintenance.html
 [2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
 
 !!! tip "Sobre"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
+    <b>Updated:</b>01/23/2019 - Anna Martins  
 	
