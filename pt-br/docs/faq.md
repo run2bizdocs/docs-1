@@ -299,8 +299,8 @@ No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utili
 ??? Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
    Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
     
-    1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
-    2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
+   1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
+   2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
 ??? Question "Como vincular colaboradores (usuários) a um grupo?"
     Há duas formas de vincular os colaboradores (usuários) aos grupos, sendo:
@@ -642,7 +642,7 @@ No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utili
     CENÁRIO
     1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
 
-    WHAT TO CHECK
+    O QUE CHECAR
     1. Arquivo de configuração do Banco Postgresql:
      - Postgresql.conf
      - timezone = 'BRAZIL/EAST'
@@ -670,7 +670,7 @@ No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utili
 ??? Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
     Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
     
-   ??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
+??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
     Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.
    Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.
 
