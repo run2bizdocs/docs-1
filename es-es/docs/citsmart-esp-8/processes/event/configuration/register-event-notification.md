@@ -1,53 +1,56 @@
-title: Cadastrar evento de notificação
-Description: Estabelecer quais as regras que irão definir um evento de notificação, ou seja, realizar a configuração referente à notificação que será disparada quando as condições da EPL forem satisfeitas.
-#Cadastrar evento de notificação
+title: Registrar evento de notificación
+Description: Establecer cuáles son las reglas que definir un evento de notificación.
+#Registrar evento de notificación
 
-Esta funcionalidade tem por objetivo estabelecer quais as regras que irão
-definir um evento de notificação, ou seja, realizar a configuração referente à
-notificação que será disparada quando as condições da EPL forem satisfeitas.
+Esta funcionalidad tiene por objetivo establecer cuáles son las reglas que
+definir un evento de notificación, es decir, configurar la notificación que será
+disparada cuando las condiciones de la EPL sean satisfechas.
 
-É necessário ter conhecimento da linguagem de processamento de eventos. Para
-mais informações consultar o site:* *<http://www.espertech.com/esper>.
+Es necesario tener conocimiento del lenguaje de procesamiento de eventos. Para
+más información consultar el sitio:<http://www.espertech.com/esper> .
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um evento de notificação.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+evento de notificación.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para cadastrar evento de notificação é preciso registrar previamente o
-destinatário, o modelo de e-mail, o template de notificação e o modelo de EPL.
+Para registrar el evento de notificación, es necesario registrar previamente el
+destinatario, modelo de correo electrónico, plantilla de notificación y modelo
+de EPL.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Negócio \> Notificação;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Negocio
+    \> Notificación;
 
-2.  Preencher os campos disponibilizados de cada área;
+2.  Completar los campos diponsibles en cada area;
 
-3.  Na área Notificação em Tela:
+3.  En Notificación en Pantalla:
 
-    -   clicar em " Vincular usuário", para vincular usuário(s) à notificação em
-        tela;
+-   hacer clic en "Vincular usuario" para vincular los usuarios a la
+    notificación en la pantalla;
 
-    -   clicar em " Vincular grupo", para vincular grupo(s) à notificação em tela.
+-   hacer clic en "Vincular grupo" para vincular el grupo a la notificación en
+    la pantalla.
 
-1.  Clicar em "Gravar".
+1.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -----------
 
-[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Definir modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Cadastrar destinatário da notificação](/pt-br/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
+[Cadastrar destinatario da la notificación](/es-es/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
-[Cadastrar modelo de EPL](/pt-br/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
+[Registrar modelo de EPL](/es-es/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 
-[Cadastrar template de notificação](/pt-br/citsmart-esp-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
+[Registrar plantilla de notificación](/es-es/citsmart-esp-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
