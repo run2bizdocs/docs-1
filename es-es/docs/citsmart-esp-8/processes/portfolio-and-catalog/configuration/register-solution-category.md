@@ -1,23 +1,24 @@
-title: Cadastrar categoria de solução
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir categorias de solução de incidentes.
-#Cadastrar categoria de solução
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir categorias de solução de incidentes.
+title: Registrar categoría de solución
+Description: Permite registrar y buscar las categorías de la solución de incidentes.
+#Registrar categoría de solución
 
-Procedimento
-----------
+Esta funcionalidad permite registrar y buscar las categorías de la solución de
+incidentes.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Categoria Solução;
+Procedimiento
+------
 
-2.  Preencher os campos disponibilizados;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catalogo \> Categoría Solución;
 
-3.  Clicar em "Gravar".
+2.  Llenar los campos disponibles;
+
+3.  Haga clic en "Guardar".
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
