@@ -1,33 +1,33 @@
-title: Verificar processos relacionados a um item de configuração
-Description: Permite verificar processos relacionados ao IC, além de informações gerais.
-#Verificar processos relacionados a um item de configuração
-Esta funcionalidade permite verificar processos relacionados ao IC, além de informações gerais.
+title: Comprobar procesos relacionados al elemento de configuración
+Description: Permite verificar procesos relacionados con el EC, además de informaciones generales. 
+#Comprobar procesos relacionados al elemento de configuración
+Esta funcionalidad permite verificar procesos relacionados con el EC, además de informaciones generales.
 
-Antes de começar
---------------------
-
-Para verificar os processos é necessário ter registrado o item de configuração e
-ter relacionado os mesmos previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Processos \> Gerência de Configuração \> CMDB;
+Para verificar los procesos, es necesario haber registrado el elemento de
+configuración y haber relacionadolos previamente.
 
-2.  Realizar a consulta do item de configuração, clicar sobre o item;
+Procedimiento
+-------------
 
-3.  Na tela de informações do determinado item de configuração localizar a guia
-    referente ao processo que se pesquisa informação;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-4.  Clicar sobre a guia para visualizar informações.
+2.  Buscar el elemento de configuración y hacer clic en esto;
+
+3.  En la pantalla de información del determinado elemento de configuración,
+    encontrar la guía referente al proceso que se busca información;
+
+4.  Hacer clic en la guía para ver las informaciones.
+
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
