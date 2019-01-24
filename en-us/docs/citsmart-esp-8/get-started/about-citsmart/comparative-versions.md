@@ -18,7 +18,7 @@ Title: Comparative Versions
 |    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
 |    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Change Management][1]                          |:heavy_check_mark:  |:heavy_check_mark::arrows_counterclockwise:|
+|    [Change Management][1]                          |:heavy_check_mark:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Release Management][2]                         |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    [Knowledge Management][3]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
 |    [Assets and Configuration Management][4]        |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
