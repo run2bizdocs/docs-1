@@ -179,4 +179,4 @@ servicios
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>0124/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
