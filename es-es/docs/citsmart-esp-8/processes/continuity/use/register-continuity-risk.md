@@ -1,39 +1,39 @@
-title: Cadastrar o risco de continuidade
-Description: Tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade. 
-#Cadastrar o risco de continuidade
-Esta funcionalidade tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade.
+title:  Registrar riesgo de la continuidad
+Description: Tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad.
+#Registrar riesgo de la continuidad
+Esta funcionalidad tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad
 
-Antes de começar
---------------------
-
-É necessário o cadastro prévio da ameaça e da categoria de risco.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Cadastro de Risco;
+Es necesario tener registrado la amenaza y la categoría de riesgo.
 
-2.  Na aba **Cadastro de risco**, preencher os campos necessários (o nome do
-    risco, selecionar o nome a categoria e o nível do risco, fornecer uma
-    descrição do risco);
+Procedimiento
+-------------
 
-3.  Para vincular ameaças ao risco, clicar no botão "Vincular Ameaça" para
-    pesquisar e vincular a ameaça. Se desejar criar uma nova ameça a partir
-    desta tela, clicar no botão "Nova Ameaça" e preencher os campos necessários;
+1.  Acceder al menú principal Procesos \> Gestión de Continuidad \> Registro de
+    Riesgos;
 
-4.  Clicar no botão "Gravar" para efetuar operação.
+2.  En la pestaña **Registro de Riesgos**, completar los campos
+    necesarios (nombre del riesgo, seleccionar el nombre de la categoría y
+    el nivel de riesgo, y describir el riesgo);
+
+3.  Para vincular la amenaza al riesgo, hacer clic en "Vincular Amenaza" para
+    buscar y vincular la amenaza.  Si desea crear una nueva amenaza desde esta
+    pantalla, hacer clic en "Nueva Amenaza" y completar los campos necesarios;
+
+4.  Hacer clic en "Guardar".
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
