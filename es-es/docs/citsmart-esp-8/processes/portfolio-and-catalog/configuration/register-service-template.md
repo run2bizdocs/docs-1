@@ -1,37 +1,37 @@
-title: Cadastrar template de serviço
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um template de serviço, o qual será utilizado para personalizar a tela de serviço.
-#Cadastrar template de serviço
+title: Registrar plantilla de servicio
+Description: Ofrece diversas acciones, tales cuales, incluir, cambiar y borrar una platilla de servicio, que se utilizará para personalizar la pantalla de servicio.
+#Registrar plantilla de servicio
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um template de serviço, o qual será utilizado para personalizar a tela
-de serviço.
 
-Antes de começar
--------------
+Esta funcionalidad ofrece diversas acciones, tales cuales, incluir, cambiar y
+borrar una platilla de servicio, que se utilizará para personalizar la pantalla
+de servicio.
 
-Para cadastrar um template de serviço é preciso cadastrar um questionário
-previamente.
+Antes de empezar
+--------------------
+
+Para registrar una plantilla de servicio, es necesario tener registrado el
+cuestionario.
 
 Procedimento
--------
+----------------
 
-1.  Acessar a funcionalidade de Template de Serviço através da navegação no
-    menu principal Processos \> Gerência de Portfólio e Catálogo \> Template de
-    Serviço;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Plantilla de Servicio;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Cadastrar cuestionario](/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
