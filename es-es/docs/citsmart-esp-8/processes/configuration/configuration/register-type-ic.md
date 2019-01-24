@@ -1,37 +1,39 @@
-title: Cadastrar tipo de item de configuração
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de Item de Configuração (IC).
-#Cadastrar tipo de item de configuração
+title: Registrar tipo de elemento de configuración
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de Elemento de Configuración.
+#Registrar tipo de elemento de configuración
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir os tipos de Item de Configuração (IC).
 
-Antes de começar
-----------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los
+tipos de Elemento de Configuración.
 
-Para o cadastro do tipo de item de configuração é necessário registrar
-previamente a característica.
+Antes de empezar
+--------------------
 
-Procedimento
-------------
+Para el registro del tipo de ítem de configuración es necesario registrar
+previamente la característica.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> Item de Configuração \> Tipo Item Configuração;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> Ítem de
+    Configuración \> Tipo elemento de Configuración;
 
-3.  Preencher os campos disponibilizados;
+2.  Haga clic en el botón "Nuevo";
 
-4.  Escolher se insere uma característica;
+3.  Completar los campos disponibles;
 
-5.  Clicar em "Gravar".
+4.  Elegir si inserta una característica;
+
+5.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 ----------
 
-[Cadastrar característica](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
+[Registrar característica](/es-es/citsmart-esp-8/processes/configuration/configuration/register-characteristics.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
