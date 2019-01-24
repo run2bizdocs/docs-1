@@ -1,72 +1,74 @@
-title: Cadastrar pesquisa de satisfação
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pesquisas de satisfação de acordo com suas necessidades.
-#Cadastrar pesquisa de satisfação
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir pesquisas de satisfação de acordo com suas necessidades.
+title: Registrar encuesta de satisfacción
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar encuestas de satisfacción de acuerdo a las necesidades.
+#Registrar encuesta de satisfacción
 
-O formulário da pesquisa é construído na forma de um questionário.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar
+encuestas de satisfacción de acuerdo a las necesidades.
 
-Os tipos de pesquisa podem ser:
+El formulario de la encuesta se construye en forma de un cuestionario.
 
-  -   **público**: permite a participação de todos os usuários sem nenhum tipo de
-      restrição, inclusive eles nem precisam estar autenticados no sistema. Nesta
-      modalidade, a URL do Sistema (parametrizada) é fornecida ao público-alvo
-      para que participem da pesquisa.Trata de um campo somente de saída (sem
-      digitações). Assim que a pesquisa é criada (gravada) neste campo surge o
-      link completo, baseado na URL do Sistema devidamente parametrizada;
+Los tipos de encuesta pueden ser:
 
-  -   **global**: restringe a participação de usuários àqueles que se autenticarem
-      no sistema, podendo ser acessada de duas maneiras:
+-   **Público**: permite la participación de todos los usuarios sin ningún tipo
+    de restricción, incluso, ni necesitan estar autenticados en el sistema. En
+    esta modalidad, la URL del Sistema (parametrizada) es suministrada al
+    público objetivo para que participen de la encuesta. Se trata de un campo
+    sólo de salida (sin digitaciones). Una vez que la encuesta es creada
+    (guardada) en este campo surge el enlace completo, basado en la URL del
+    Sistema, debidamente parametrizada;
 
-       -   quando se identificam receberão uma notificação automática (incluindo os
-           passos para responder);
+-   **Global**: restringe la participación de usuarios a aquellos que se
+    autenticen en el sistema, pudiendo ser accedida de dos maneras:
 
-       -   no Portal de Serviços (menu na lateral esquerda) na opção "Campanhas
-           ativas".
+    -   cuando se identifican, recibirán una notificación automática (con los
+        pasos para responder);
 
-  -   **catálogo**: destina à avaliação junto ao cliente sobre a eficácia do
-    catálogo implantado para ele;
+    -   en el Portal de Servicios (menú en el lateral izquierdo), la opción
+        "Campañas activas".
 
-  -   **serviço**: se destina à avaliação junto ao cliente sobre a eficácia de um
-    serviço implantado para ele;
+-   **Catálogo**: para la evaluación del cliente sobre la eficacia del catálogo
+    implantado para él/ella;
 
-  -   **atividade/satisfação**: é mais uma opção de pesquisa de satisfação junto
-    ao cliente (além do default do sistema) sobre o desfecho do atendimento de
-    uma requisição ou incidente.
+-   **Servicio**: se destina a la evaluación junto al cliente sobre la eficacia
+    de un servicio implantado para él/ella;
 
-Antes de começar
+-   **Actividad/Satisfacción**: es más una opción de encuesta de satisfacción
+    junto al cliente (además del default del sistema) sobre el resultado de la
+    atención de una solicitud o incidente.
+
+Antes de empezar
 --------------------
 
-Para realizar o cadastro de uma pesquisa é necessário registrar previamente um
-questionário e configurar o parâmetro 33.
+Para registrar una encuesta, es necesario tener registrado el cuestionario y
+configurar el parámetro 33.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade Processos \> Gerência de Portfólio e Catálogo \>
-    Cadastro de Pesquisas;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Registro de Encuestas;
 
-2.  Clicar em "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Preencher os campos disponibilizados:
+3.  Completar los campos disponibles:
 
-4.  Escolher o tipo de pesquisa;
+4.  Elegir el tipo de encuesta;
 
-5.  Clicar em "Gravar".
+5.  Hacer clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Registrar cuestionario](/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
-[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
 
