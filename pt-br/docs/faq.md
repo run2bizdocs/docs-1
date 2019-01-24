@@ -148,24 +148,24 @@ Title: Frequently Asked Questions - FAQ
     
 	Para que essa notificação seja enviada é necessário realizar os seguintes procedimentos:
     
-    1- Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Contrato → Serviços e serviço técnico Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato → Serviços e informe o modelo de e-mail nos campos
+    1. Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Contrato → Serviços e serviço técnico Gerenciamento de Portfólio → Portfólio de Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato → Serviços e informe o modelo de e-mail nos campos
         
         - "Modelo de E-mail Abertura Incidente/Requisição"
         - "Modelo de E-mail na finalização de Solicitações/Incidentes"
         - "Modelo de E-mail nas demais ações de Solicitações/Incidentes" 
         
-	  REGRA: caso não informe os modelos de e-mail, as notificações não serão enviadas.
+	REGRA: caso não informe os modelos de e-mail, as notificações não serão enviadas.
 
-    2- Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Cadastro Gerais → Gerência de Pessoal → Grupo.    
-    3- Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo;
-    4- Selecione o mesmo;
-    5- Será exibida a tela de registro do determinado grupo, defina se as notificações de e-mail (abertura, andamento e encerramento) referentes às solicitações, serão de envio obrigatório;
+    2. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Cadastro Gerais → Gerência de Pessoal → Grupo.    
+    3. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo;
+    4. Selecione o mesmo;
+    5. Será exibida a tela de registro do determinado grupo, defina se as notificações de e-mail (abertura, andamento e encerramento) referentes às solicitações, serão de envio obrigatório;
     
-	    REGRA: caso tenha determinado que as notificações serão obrigatórias, ao registrar uma solicitação de serviço, na tela de Registro de Incidente/Requisição de Serviço, essas opções já estarão selecionadas, não permitindo a sua alteração. Mas caso tenha determinado que as notificações não serão obrigatórias, ao registrar uma solicitação de serviço, essas opções poderão ser definidas pelo responsável do registro da solicitação.
+    REGRA: caso tenha determinado que as notificações serão obrigatórias, ao registrar uma solicitação de serviço, na tela de Registro de Incidente/Requisição de Serviço, essas opções já estarão selecionadas, não permitindo a sua alteração. Mas caso tenha determinado que as notificações não serão obrigatórias, ao registrar uma solicitação de serviço, essas opções poderão ser definidas pelo responsável do registro da solicitação.
     
-    6- Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma solicitação de serviço será estabelecida a regra referente a notificação por e-mail, definida no cadastro de grupo.
+    6. Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma solicitação de serviço será estabelecida a regra referente a notificação por e-mail, definida no cadastro de grupo.
     
-	    REGRA: quando registrar uma solicitação de serviço, será enviada a notificação somente para o grupo executor, o qual é responsável pelo atendimento da solicitação. Quando realizar a execução das demais ações e encerramento da solicitação de serviço, as notificações serão encaminhadas somente para o solicitante.
+    REGRA: quando registrar uma solicitação de serviço, será enviada a notificação somente para o grupo executor, o qual é responsável pelo atendimento da solicitação. Quando realizar a execução das demais ações e encerramento da solicitação de serviço, as notificações serão encaminhadas somente para o solicitante.
     
 ??? Question "Como definir a obrigatoriedade do vínculo da mudança com IC?"
     A obrigatoriedade do vínculo da mudança com o IC é definida na tela de Parâmetro do CITSmart. Para definir essa obrigatoriedade, proceda conforme orientações abaixo:
