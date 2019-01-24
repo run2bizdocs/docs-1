@@ -1,40 +1,39 @@
-title: Vincular atributos de demanda ao IC
-Description: Permite vincular um atributo de demanda ao item de configuração.
-#Vincular atributos de demanda ao IC
-Esta funcionalidade permite vincular um atributo de demanda ao item de configuração.
+title:  Vincular atributos de demanda al EC 
+Description: Permite vincular un atributo de demanda al elemento de configuración. 
+#Vincular atributos de demanda al EC
+Esta funcionalidad permite vincular un atributo de demanda al elemento de configuración.
 
-Antes de começar
---------------------
-
-Para realizar a vinculação é necessário o cadastro prévio do atributo de demanda
-e do item de configuração.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Para realizar el vínculo, es necesario tener registrado el atributo de demanda y
+del elemento de configuración.
 
-2.  Realizar a consulta do item de configuração, clicar sobre o item;
+Procedimiento
+-------------
 
-3.  Na tela de informações do determinado item de configuração localizar a guia
-    Demanda;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-4.  Clicar no botão "Vincular atributos de demanda";
+2.  Buscar el elemento de configuración y hacer clic en esto;
 
-5.  Selecionar ou realizar a busca pelo atributo específico;
+3.  En la pantalla de información, del determinado elemento de configuración,
+    busque la guía Demanda;
 
-6.  Clicar em "Adicionar".
+4.  Hacer clic en "Vincular atributos de demanda";
+
+5.  Seleccionar o buscar por el atributo;
+
+6.  Hacer clic en "Agregar".
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Cadastrar atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
+[Registrar atributo de la demanda](/es-es/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/21/2019 – Larissa Lourenço
 

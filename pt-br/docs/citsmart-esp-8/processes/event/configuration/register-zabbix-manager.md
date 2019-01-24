@@ -53,7 +53,7 @@ Relacionado
 
 [Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar conxão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
