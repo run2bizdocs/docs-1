@@ -1,25 +1,26 @@
-title: Cadastrar grupo de item de configuração
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir grupos de item de configuração.
-#Cadastrar grupo de item de configuração
+title: Registrar grupo de elemento de configuración
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar grupos de elementos de configuración.
+#Registrar grupo de elemento de configuración
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir grupos de item de configuração.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
+grupos de elementos de configuración.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Procedimiento
+-----------------
 
-2.  Clicar no último ícone no lado direito da tela e em seguida clicar no botão
-    "Criar novo grupo";
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-3.  Preencher os campos disponibilizados;
+2.  Haga clic en el último icono en el lado derecho de la pantalla y enseguida "Crear nuevo grupo";
 
-4.  Clicar em "Gravar".
+3.  Completar los campos disponibles;
+
+4.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
