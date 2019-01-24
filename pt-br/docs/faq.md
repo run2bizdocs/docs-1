@@ -670,11 +670,11 @@ Title: Frequently Asked Questions - FAQ
 
     O QUE CHECAR  
     1.  Arquivo de configuração do Banco Postgresql:  
-    - Postgresql.conf  
-        - timezone = 'BRAZIL/EAST' 
-        2.  No container cloud:  
+        - Postgresql.conf
+        - timezone = 'BRAZIL/EAST'
+    2.  No container cloud:  
         - Setting timezone on the operating system.  
-        3.  Configuração do TimeZone no JRE: 
+    3.  Configuração do TimeZone no JRE: 
         - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm\#JSTGD362 
 
 ??? Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
