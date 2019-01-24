@@ -1,83 +1,81 @@
-title: Cadastrar gerente Global
-Description: Tem como objetivo criar regras para monitorar vários tipos de eventos.
-#Cadastrar gerente Global
+title: Registrar gerente Global
+Description: Crear reglas para monitorear varios tipos de eventos.
+#Registrar gerente Global
 
-Esta funcionalidade tem como objetivo criar regras para monitorar vários tipos
+Esta funcionalidad tiene como objetivo crear reglas para monitorear varios tipos
 de eventos.
 
-Cada gerente de eventos global contém uma EPL para Information (informação),
-Warning (advertência) e/ou Exception (exceção). EPL é uma linguagem de
-correlação de eventos utilizada pelo Esper (Espertech). Na inicialização do
-CITSmart Event Monitor, estes EPL são importados para a engine do Esper, de modo
-que um novo evento correlacionado será criado toda vez que a condição definida
-na EPL for satisfeita. Exemplo de uma EPL que faz correlação entre os eventos do
-CITSmart Inventory e Nagios: \@Description ('Para qualquer evento do Nagios que
-ocorrer depois de um evento qualquer do Inventory, nos últimos 10 minutos)
-select \* from pattern [every a=EventoCheckInventory-\>b=EventoServicoNagios
-where timer:within(10minutes)].
+Cada gerente de eventos global contiene una EPL para information (información),
+Warning (advertencia) y/o Exception (excepción). EPL es un lenguaje de
+correlación de eventos utilizado por Esper (Espertech). En la inicialización del
+CITSmart Event Monitor, estos EPL se importan al engine del Esper, de modo que
+un nuevo evento correlacionado se creará cada vez que se cumpla la condición
+definida en la EPL. Ejemplo de una EPL que hace correlación entre los eventos de
+CITSmart Inventory y Nagios: \@Description ('Para cualquier evento de Nagios que
+se produzca después de un evento cualquiera de Inventory, en los últimos 10
+minutos) select \* from pattern [every
+a=EventoCheckInventory-\>b=EventoServicoNagios where timer:within(10minutes)].
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um gerente Global.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+gerente Global.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para cadastrar o gerente Global é necessário cadastrar previamente a conexão do
-CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação automática
-e a conexão do CITSmart Inventory.
+Para registrar el gerente Global, es necesario registrar previamente la conexión
+del CITSmart Event Monitor, el horario, categoría de ocurrencia, acción
+automática y la conexión del CITSmart Inventory.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Gerente Global;
+1-  Acceder al menú principal Procesos \> Gestión de Evento \> Gerente Global;
 
-2.  Preencher os campos disponibilizados em cada área:
+2-  Completar los campos disponibles en cada area:
 
-    -   Informe os dados da **Ação para Information**:
+  -  Informe los datos de la **Acción de Information**:
 
-         -   Selecionar a ação que será disparada quando houver uma ocorrência de
-             evento do tipo information, o grau de urgência e impacto. As regras para
-             essa ação, são definidas utilizando a Linguagem de Processamento de
-             Eventos - EPL. Clicar no botão "Validar EPL de Information" para validar
-             a EPL informada.
+       -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
+          evento del tipo information, el grado de urgencia e impacto. Las reglas
+          para esta acción se definen utilizando el Lenguaje de Procesamiento de
+          Eventos - EPL. Haga clic en el botón *Validar EPL de Information* para
+          validar la EPL informada.
 
-    -   Informe os dados da **Ação para Warning**:
+-   Informe los datos de la **Acción de Warning**:
 
-        -   Selecionar a ação que será disparada quando houver uma ocorrência de
-            evento do tipo warning, o grau de urgência e impacto. As regras para
-            essa ação, são definidas utilizando a Linguagem de Processamento de
-            Eventos - EPL. Clicar no botão "Validar EPL de Warning" para validar a
-            EPL informada.
+    -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
+        evento del tipo warning, el grado de urgencia e impacto. Las reglas para
+        esta acción se definen utilizando el Lenguaje de Procesamiento de
+        Eventos - EPL. Haga clic en el botón *Validar EPL de Warning* para
+        validar la EPL informada.
 
-    -   Informe os dados da **Ação para Exception**:
+-   Informe los datos da la **Acción de Exception**:
 
-        -   Selecionar a ação que será disparada quando houver uma ocorrência de
-            evento do tipo exception, o grau de urgência e impacto. As regras para
-            essa ação, são definidas utilizando a Linguagem de Processamento de
-            Eventos - EPL. Clicar no botão "Validar EPL de Exception" para validar a
-            EPL informada.
+    -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
+        evento del tipo exception, el grado de urgencia e impacto. Las reglas
+        para esta acción se definen utilizando el Lenguaje de Procesamiento de
+        Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
+        validar la EPL informada.
 
-1.  Clicar no botão "Gravar".
-
+3-  Hacer clic en "Guardar".
 
 
 Relacionado
 -----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurrencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar Conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar Conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
-[Cadastrar ação automática](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
+[Registrar acción automatica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
  
