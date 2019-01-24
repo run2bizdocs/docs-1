@@ -16,7 +16,7 @@ Title: Comparativo ESP 7 vs 8
 |    Gerenciamento de Portfólio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Catálogo de Serviço                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Nível de Serviço                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Gerenciamento de Mudança][^1]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [^1][Gerenciamento de Mudança]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Liberação][2]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Conhecimento][3]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Configuração e Ativos][4]        |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
