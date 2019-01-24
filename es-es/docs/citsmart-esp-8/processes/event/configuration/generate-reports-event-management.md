@@ -1,24 +1,23 @@
-title: Gerar relatórios - Gerência de eventos
-Description: Objetivo de apresentar as ocorrências de eventos que foram armazenadas no Banco de dados de eventos (MongoDB).
-#Gerar relatórios - Gerência de eventos
+title: Generar informes - gestión de eventos
+Description: Presentar las ocurrencias de eventos que se almacenaron en la base de datos de eventos (MongoDB).
+#Generar informes - gestión de eventos
 
-Este relatório tem o objetivo de apresentar as ocorrências de eventos que foram
-armazenadas no Banco de dados de eventos (MongoDB).
+Este informe tiene el objetivo de presentar las ocurrencias de eventos que se
+almacenaron en la base de datos de eventos (MongoDB).
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no Relatórios \> Gerência de
-    Eventos \> Ocorrência de Eventos;
+1.  Acceder al menú principal Informes \> Gestión de Eventos \> Ocurrencia de
+    Eventos;
 
-2.  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sus necesidades;
 
-3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
+3.  Hacer clic en "Crear PDF" para generar el informe en PDF y/o hacer clic en
+    "Crear XLS" para generar el informe en Excel.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
