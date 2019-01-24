@@ -1,74 +1,75 @@
-title: Criar tempo de atendimento
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o tempo de atendimento do tipo Global (aplica-se a todos os serviços), Cliente (aplica-se aos serviços de um contrato) e Incidente/Requisição/Procedimento (aplica-se a um serviço específico).
-#Criar tempo de atendimento
+title: Crear tiempo de servicio
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el tiempo de respuesta del tipo Global (se aplica a todos los servicios), Cliente (se aplica a los servicios de un contrato) e Incidente/Requerimiento/Procedimiento (se aplica a un servicio específico).
+#Crear tiempo de servicio
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o tempo de atendimento do tipo *Global* (aplica-se a todos os serviços),
-*Cliente* (aplica-se aos serviços de um contrato)
-e *Incidente/Requisição/Procedimento* (aplica-se a um serviço específico).
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el
+tiempo de respuesta del tipo Global (se aplica a todos los servicios), Cliente
+(se aplica a los servicios de un contrato) e
+Incidente/Requerimiento/Procedimiento (se aplica a un servicio específico).
+
+Antes de empezar
 --------------------
 
-Para cadastrar o tempo de atendimento é necessário registrar previamente o
-portfólio de serviços.
+Para registrar el tiempo de servicio, es necesario registrar previamente el
+portafolio de servicios.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Nível de Serviço \> Tempo de Atendimento;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Nivel de Servicio \> Tiempo de Servicio;
 
-2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente:
+2.  Definir el tiempo de servicio y hacer clic en la pestaña correspondiente:
 
-3.  Preencher os campos disponibilizados no quadro **Dados Básicos**;
+3.  Completar los campos disponibles en el cuadro **Datos Básicos**;
 
-4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
-    atendimento dos serviços, levando em consideração a prioridade. A prioridade
-    é usada para identificar os tempos requeridos para que ações adequadas sejam
-    tomadas. A prioridade vai de 1 a 5, sendo que o 1 é a prioridade mais alta e
-    5 é a mais baixa. Selecione a prioridade para definição do tempo:
+4.  En el cuadro **Tiempo de Atención por Prioridad**, definir el tiempo de
+    atención de los servicios, teniendo en cuenta la prioridad. La prioridad se
+    utiliza para identificar los tiempos requeridos para que las acciones
+    adecuadas sean tomadas. La prioridad va de 1 a 5, siendo 1 la prioridad más
+    alta y 5 la más baja. Seleccione la prioridad para la definición del tiempo:
 
-    -   **Captura**: defina o tempo de captura da solicitação do serviço, conforme a
-        prioridade selecionada;
+-   **Captura**: definir el tiempo de captura de la solicitud de servicio, o
+    tempo de captura da solicitação do serviço, según la prioridad seleccionada;
 
-    -   **Resolução**: defina o tempo de resolução do serviço, conforme a prioridade
-        selecionada.
+-   **Resolución**: definir el tiempo de solución del servicio, según la
+    prioridad seleccionada.
 
-1.  Antes de preencher os campos do quadro **Automação** ela deve estar
-    adequadamente parametrizada, para isso se faz necessário executar os passos
-    contidos no conhecimento Criar Regra de Escalonamento, com exceção do
-    parâmetro 190 que deverá estar igual a ‘N’ neste contexto;
+1.  Antes de completar los campos del cuadro **Automatización**, debe estar
+    adecuadamente parametrizada, para ello se hace necesario ejecutar los pasos
+    contenidos en el conocimiento Crear regla de escalonamiento, con excepción
+    del parámetro 190 que deberá ser igual a 'N' en este contexto;
 
-2.  Após os N minutos (informado no tempo de ação) e caso não tenha realizado
-    nenhuma ação na solicitação do serviço vinculado a este tempo de
-    atendimento, o sistema atribuirá a prioridade e escalará o grupo para
-    execução da solicitação do serviço;
+2.  Después de N minutos (informado en el tiempo de acción), y si no ha
+    realizado ninguna acción en la solicitud del servicio vinculado a este
+    tiempo de atención, el sistema asignará la prioridad y escalará el grupo
+    para ejecutar la solicitud del servicio;
 
-3.  No quadro de **Incidente/Requisição/Procedimento**, selecione os serviços
-    para aplicar as configurações, levando em consideração o tipo de tempo de
-    atendimento selecionado;
+3.  En el cuadro de **Incidente/Requerimiento/Procedimiento**, seleccione los
+    servicios para aplicar la configuración, teniendo en cuenta el tipo de
+    tiempo de respuesta seleccionado;
 
-4.  Clicar em "Gravar".
+4.  Hacer clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Criar regra de escalonamento](/pt-br/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
+[Crear regla de escalonamiento](/es-es/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO_W3fA7hiLL0qbrsk6GyV9)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
