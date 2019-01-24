@@ -1,38 +1,39 @@
-title: Cadastrar grupo de disponibilidade
-Description: Agrupar itens de configuração para gerar índice de disponibilidades. 
-#Cadastrar grupo de disponibilidade
+title: Registrar grupo de disponibilidad
+Description: Agrupar elementos de configuración para generar índice de disponibilidad.
+#Registrar grupo de disponibilidad
 
-Esta funcionalidade tem por objetivo agrupar itens de configuração para gerar
-índice de disponibilidades.
+Esta funcionalidad tiene por objetivo agrupar elementos de configuración para
+generar índice de disponibilidad.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um grupo de disponibilidade.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+grupo de disponibilidad.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Pra realizar o cadastro do grupo de disponibilidade é necessário registrar o
-calendário previamente.
+Para realizar el registro del grupo de disponibilidad, es necesario registrar el
+calendario previamente.
 
-Procedimento
-------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Disponibilidade \> Grupo de Disponibilidade;
+1.  Acceder al menú principal Procesos \> Gestión de Disponibilidad \> Grupo de
+    Disponibilidad;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Para vincular um item de configuração, clicar no botão "Pesquisar Item de
-    Configuração";
+3.  Para vincular un elemento de configuración, hacer clic en "Buscar Elemento
+    de Configuración";
 
-4.  Clicar no botão "Gravar".
+4.  Hacer clic en "Guardar".
+
 
 Relacionado
 -----------
 
-[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
