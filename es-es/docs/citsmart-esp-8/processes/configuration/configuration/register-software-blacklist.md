@@ -1,24 +1,25 @@
-title: Cadastrar lista negra de software
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma Lista Negra de Softwares para que seja notificado os responsáveis sempre que detectada a instalação em alguma máquina da rede, onde esta será detectada no momento em que gerar o inventário.
-#Cadastrar lista negra de software
+title: Registrar lista negra de software
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar una Lista Negra de Software
+#Registrar lista negra de software
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir uma Lista Negra de Softwares para que seja notificado os responsáveis
-sempre que detectada a instalação em alguma máquina da rede, onde esta será
-detectada no momento em que gerar o inventário.
 
-Procedimento
-------------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borrar una Lista Negra de Software para que sea notificado a los responsables
+siempre que haya detectado la instalación en alguna máquina de la red, donde
+ésta será detectada en el momento en que generar el inventario.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> Softwares Lista Negra;
+Procedimiento
+-----------------
 
-2.  Preencher o campo disponibilizado;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> Lista
+    Negra de Softwares;
 
-3.  Clicar em "Gravar".
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
