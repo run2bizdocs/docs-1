@@ -16,9 +16,6 @@ inventario funcional y comunicable con el ITSM.
 Procedimiento
 -----------------
 
-**Procedimiento**
------------------
-
 1-  Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
     Inventory;
 
