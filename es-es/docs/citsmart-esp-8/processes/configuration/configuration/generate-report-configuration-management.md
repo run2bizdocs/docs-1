@@ -1,39 +1,40 @@
-title: Gerar relatórios - Gerência de configuração
-Description: Objetivo de apresentar as chaves(licenças) válidas, inválidas e duplicadas das mídias.
-#Gerar relatórios - Gerência de configuração
+title: Generar informes - gestión de configuración
+Description: Este informe tiene el objetivo de presentar las claves (licencias) válidas, inválidas y duplicadas de los medios.
+#Generar informes - gestión de configuración
 
-Gerar relatório de Item de configuração - Pacote Office
------------------------------------------------------------
 
-Este relatório tem o objetivo de apresentar as chaves(licenças) válidas,
-inválidas e duplicadas das mídias.
+Generar informe de elemento de configuración - paquete Office
+-----------------------------------------------------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Configurações \> Relatório Item Configuração Pacote Office;
+Este informe tiene el objetivo de presentar las claves (licencias) válidas,
+inválidas y duplicadas de los medios.
 
-2.  Clicar sobre o campo "Mídia" para pesquisar e selecionar a mídia desejada
-    para gerar o relatório. Será, então, exibido os campos para filtrar as
-    chaves (licenças) válidas, inválidas e duplicadas;
+1.  Acceder al menú principal Informes \> Gestión de la Configuración \> Infomre
+    Ítem Configuración Paquete Office;
 
-!!! Abstract "ATENÇÃO"
+2.  Hacer clic en el campo "Multimedia" para buscar y seleccionar una media para
+    generar el informe. Se mostrarán los campos para filtrar las claves
+    (licencias) válidas, no válidas y duplicadas;
 
-    As chaves licenciadas (válidas) serão consideradas as que estiverem
-    registradas no cadastro de mídia.  
+!!! Abstract "ATENCIÓN "
 
-Gerar relatório de Mudança/Item de configuração
----------------------------------------------------
+    Las claves licenciadas (válidas) serán consideradas las que estén
+    registradas en el registro de medios.
 
-Este relatório tem o objetivo de fornecer as informações das diferentes
-requisições de mudança relacionadas ao mesmo item de configuração.
+Generar informe de cambio/elemento de configuración
+-------------------------------------------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Configurações \> Mudança/Item Configuração;
+Este informe tiene el objetivo de proporcionar la información de las diferentes
+solicitudes de cambio relacionadas con el mismo elemento de configuración.
 
-2.  Definir os filtros (período de abertura, número da mudança e item de
-    contrato, contrato) conforme a necessidade.
+1.  Acceder al menú principal Informes \> Gestión de la Configuración \>
+    Cambio/Elemento Configuración;
+
+2.  Definir los filtros según sus necesidades.
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
