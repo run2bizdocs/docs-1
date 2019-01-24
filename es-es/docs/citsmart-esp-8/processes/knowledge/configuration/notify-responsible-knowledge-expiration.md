@@ -1,55 +1,59 @@
-title: Notificar responsável da expiração de conhecimento
-Description: Tem por objetivo configurar a notificação por e-mail para avisar o responsável (criador e publicador) acerca da expiração de conhecimentos.
-#Notificar responsável da expiração de conhecimento
+title: Notificar responsable por la expiración del conocimiento
+Description: Configurar la notificación por correo electrónico para avisar al responsable (creador y publicador) acerca de la expiración de los conocimientos.
+#Notificar responsable por la expiración del conocimiento
 
-Este conhecimento tem por objetivo configurar a notificação por e-mail para
-avisar o responsável (criador e publicador) acerca da expiração de
-conhecimentos.
 
-Antes de Começar
+Este conocimiento tiene por objetivo configurar la notificación por correo
+electrónico para avisar al responsable (creador y publicador) acerca de la
+expiración de los conocimientos.
+
+Antes de empezar
 --------------------
 
-É necessário ter ao menos um conhecimento cadastrado na base de conhecimento.
+Es necesario tener al menos un conocimiento registrado en la base de
+conocimiento.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Configurar o parâmetro 78 com a quantidade de dias anteriores a expiração do
-    conhecimento do qual deseja notificar o responsável pelo conhecimento;
+1.  Configurar el parámetro 78 con la cantidad de días anteriores a la
+    expiración del conocimiento del cual desea notificar al responsable del
+    conocimiento;
 
-2.  Criar um rotina de processamento batch de notificação:
+2.  Crear una rutina de procesamiento batch de notificación:
 
-    -   Acessar a funcionalidade através do menu principal Sistema \>
-        Processamento Batch e clicar no botão "Novo";
+    -   Acceder al menú principal Sistema \> Procesamiento Batch y hacer clic en
+        "Nuevo";
 
-    -   Definir a descrição da rotina, selecionar o tipo "Classe Java" e
-        estabelecer a situação como "Ativo";
+    -   Definir la descripción de la rutina, seleccionar el tipo "Clase Java" y
+        establecer la situación como "Activo";
 
-    -   Selecionar o agendamento como "Diário" e indicar o horário em que será
-        processado a rotina;
+    -   Seleccionar la programación como "Diario" e indicar el horario en que se
+        procesará la rutina;
 
-    -   Na área "Conteúdo" copiar o script abaixo:
+    -   En la area "Contenido" copiar el guión abajo:
 
         -   br.com.centralit.citcorpore.quartz.job.VerificaValidadeBaseConhecimento
 
-    -   Clicar no botão "Gravar" para efetuar a operação.
+    -   Hacer clic en "Guardar".
 
-3.  Se desejar, é possível personalizar o modelo de e-mail. Basta acessar a
-    funcionalidade através do menu principal Sistema \> Configuração \> Modelo
-    de e-mail, selecionar o modelo de e-mail com ID = "7" e realizar a mudança
-    pretendida.
+3.  Si lo desea, puede personalizar la plantilla de correo electrónico. Sólo
+    tienes que acceder a la funcionalidad a través del menú principal Sistema \>
+    Configuración \> Modelo de e-mail, seleccionar la plantilla de correo
+    electrónico con ID = "7" y realizar el cambio deseado.
+
 
 
 Relacionado
 ----------
-[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
-[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+[Crear conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
