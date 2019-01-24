@@ -64,7 +64,7 @@ Title: Comparativo ESP 7 vs 8
 ## O que há de novo?
 
 ### Gerenciamento de Mudança
-@ellipsis-v Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
+@icon-ellipsis-v Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
 ### Gerenciamento de Liberação
 Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequências das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
