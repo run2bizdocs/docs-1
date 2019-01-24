@@ -1,4 +1,4 @@
-title: Criar item de configuração relacionado a um I
+title: Criar item de configuração relacionado a um IC
 Description: Permite registrar um item de configuração a outro IC.
 #Criar item de configuração relacionado a um IC
 
