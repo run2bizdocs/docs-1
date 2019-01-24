@@ -1,82 +1,83 @@
-title: Configurar conexão Inventory
-Description: Tem como objetivo cadastrar todas as propriedades referentes à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado o Jboss do CITSmart Inventory.
-#Configurar conexão Inventory
+title: Configurar conexión Inventory
+Description: Objetivo registrar todas las propiedades referentes a la conexión del CITSmart Inventory, de acuerdo con el IP y el puerto donde está instalado el Jboss del CITSmart Inventory.
+#Configurar conexión Inventory
 
-Esta funcionalidade tem como objetivo cadastrar todas as propriedades referentes
-à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado
-o Jboss do CITSmart Inventory.
 
-Antes de começar
+Esta funcionalidad tiene como objetivo registrar todas las propiedades
+referentes a la conexión del CITSmart Inventory, de acuerdo con el IP y el
+puerto donde está instalado el Jboss del CITSmart Inventory.
+
+Antes de empezar
 --------------------
 
-A configuração da funcionalidade requer um servidor com aplicação Inventory
-funcional e comunicável com o ITSM.
+La configuración de la funcionalidad requiere un servidor con aplicación de
+inventario funcional y comunicable con el ITSM.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Conexões \> Inventory;
+1-  Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
+    Inventory;
 
-2-  Na área **Dados da Conexão**, preencher os campos;
+2-  En el area **Datods de la Conexión**, completar los campos;
 
-3-  Selecionando o tipo de conexão *Inventory*, no campo "Ignorar máquinas já
-    inventariadas" (no caso de máquinas inventariadas é possível definir quantos
-    dias essa máquina ficará sem novo inventário e por isso seu Status será
-    colocado como Ignorado até que se passe o total de dias parametrizado) serão
-    abertas duas caixas que se referem a Período e Formato do período, marcar a
-    opção que melhor se encaixe e gravar as configurações;
-
-![inventory integracao](images/conexao-inventory.jpg)
-
-   Figura 1 -Integração CITSmart inventory
+3-  Seleccionando el tipo de conexión, en el campo "Ignorar las máquinas ya
+    inventadas" (en el caso de máquinas inventariadas, es posible definir
+    cuántos días esa máquina quedará sin nuevo inventario y, por eso, su Status
+    será colocado como Ignorado hasta que se pase el total de días
+    parametrizado) se abrirán dos cuadros que se refieren a Período y Formato
+    del período, marcar la opción que mejor encaje y guardar la configuración;
 
 
-4-  Se o tipo de conexão escolhida for o OCS Inventory será apresentado o campo de configuração do mesmo para ser informado o repositório de XML, conforme ilustrado abaixo. Além disso, existem alguns *pré-requisitos* muito relevantes que devem ser observados:
+![inventory integración](images/conexao-inventory.jpg)
+
+   Figura 1 -Integración CITSmart inventory
+
+
+4-  Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
+
 
 ![ocs](images/conexao-inventory-2.jpg)
    
-Figura 2 -Integração CITSmart inventory - OCS inventory
+Figura 2 -integración CITSmart inventory - OCS inventory
 
+-   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el menú       Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los archivos     XML en OCS_FILES_PATH
 
- -   Após instalar o OCS Inventory, ele não vem como padrão qualquer tipo de
-    integração com outro sistema, para isso no menu Inventory files precisa
-    atribuir GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML e especificar o
-    caminho onde irão ser guardados os arquivos XML em OCS_FILES_PATH
-
--   O local especificado para a geração dos arquivos XML é algo muito
+-   La ubicación especificada para la generación de archivos XML es algo muy
     estratégico:
 
-    -   Caso o servidor OCS seja o mesmo servidor do Inventory, trata-se do
-        menor risco pois a pasta provavelmente estará acessível para leitura;
+    -   Si el servidor OCS es el mismo servidor del Inventory, se trata del
+        menor riesgo, ya que la carpeta probablemente será accesible para la
+        lectura;
 
-    -   Caso o servidor OCS **NÃO** seja o mesmo servidor do Inventory, deve-se
-        optar por uma dessas duas opções:
+    -   Si el servidor OCS **NO** es el mismo servidor del Inventory, se debe
+        optar por una de estas dos opciones:
 
-        -   o OCS Inventory deve ter permissão para gravar no servidor do
+        -   el OCS Inventory debe tener permiso para escribir en el servidor del
             Inventory;
 
-        -   o Inventory deve ter permissão (compartilhamento) no servidor OCS
+        -   el inventario debe tener permiso (compartir) en el servidor OCS
             Inventory.
 
-5-  A aplicação de Inventário realiza a captura dos dados por meio da porta do
-    Agente SNMP (161) e/ou pelo Agente de Captura (porta 7103 desenvolvido pela
-    CITSmart Corporation, em .Net). Inicialmente, o Inventory realiza um comando
-    "ping" para verificar se a máquina está ativa. Se conseguir realizar o
-    comando, tenta acessar a porta SNMP do item de configuração. Se o acesso à
-    porta não for obtido com sucesso, o Inventory tenta realizar o acesso
-    através do agente de captura clicar no botão "Testar Conexão";
+5-  La aplicación de inventario realiza la captura de los datos a través del
+    puerto del agente SNMP (161) y/o del agente de captura (puerto 7103
+    desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory
+    realiza un comando "ping" para comprobar si la máquina está activa. Si
+    consigue realizar el comando, intenta acceder al puerto SNMP del elemento de
+    configuración. Si el acceso al puerto no se obtiene con éxito, Inventory
+    intenta realizar el acceso a través del agente de captura haciendo clic en
+    el botón "Probar Conexión";
 
-6-  Clicar no botão "Gravar e Aplicar Configurações".
+6-  Hacer clic en "Guardar y Aplicar Configuraciones".
 
 Relacionado
 -------
 
-[Cadastrar gerente Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
+[Registrar gerente Inventory](/es-es/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
