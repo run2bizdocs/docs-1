@@ -1,29 +1,32 @@
-title: Cadastrar categoria de ocorrência
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir de categoria de ocorrência.
-#Cadastrar categoria de ocorrência
+title: Registrar categoría de ocurrencia
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar la categoría de ocurrencia.
+#Registrar categoría de ocurrencia
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir de categoria de ocorrência, ou seja, através dela é permitido agrupar
-ocorrências de eventos de um mesmo tipo. Este cadastro será associado a cada
-item do cadastro de gerente de eventos do CITSmart Inventory, Nagios ou Zabbix.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar la categoría de ocurrencia, es decir, a través de ella se permite agrupar
+ocurrencias de eventos de un mismo tipo. Este registro se asociará a cada
+elemento del registro de gerente de eventos del CITSmart Inventory, Nagios o
+Zabbix.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Categoria de ocorrência;
+Procedimiento
+-----------------
 
-2.  Clicar na aba **Cadastro de categoria de ocorrência**;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Categoría
+    ocurrencia;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en la pestaña **Registro de Cateogria de Ocorrência**;
 
-4.  Clicar no botão "Criar/Editar Grupo" para cadastrar, editar e excluir
-    registros de grupos de eventos;
+3.  Completar los campos disponibles;
 
-5.  Clicar no botão "Gravar".
+4.  Hacer clic en "Crear/Editar Grupo" para registrar, editar y borrar los
+    registros de los grupos de eventos;
+
+5.  Hacer clic en "Guardar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins

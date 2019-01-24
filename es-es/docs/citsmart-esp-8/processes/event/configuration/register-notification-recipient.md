@@ -1,46 +1,47 @@
-title: Cadastrar destinatário da notificação
-Description: Configurar os destinatários que receberão as notificações. O destinatário pode ser um ou mais colaboradores e/ou grupos.
-#Cadastrar destinatário da notificação
+title: Registrar destinatario de la notificación
+Description: Configurar los destinatarios que van recibir las notificaciones. El destinatario puede ser uno o más colaboradores y/o grupos.
+#Registrar destinatario de la notificación
 
-Esta funcionalidade tem como objetivo de configurar os destinatários que
-receberão as notificações.O destinatário pode ser um ou mais colaboradores
-e/ou grupos.
+Esta funcionalidad tiene como objetivo configurar los destinatarios que van
+recibir las notificaciones. El destinatario puede ser uno o más colaboradores
+y/o grupos.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um destinatário.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+destinatario.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para cadastrar o destinatário da notificação é necessário registrar o
-colaborador e o grupo previamente.
+Para registrar el destinatario de la notificación, es necesario registrar el
+colaborador y el grupo previamente.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Negócio \> Destinatário;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Negocio
+    \> Destinatarios;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar na aba Destinatários-Colaboradores e em seguida no botão "Adicionar"
-    para vincular colaboradores;
+3.  Hacer clic en la pestaña Destinatarios - Colaboradores, y despúes en
+    "Agregar" para vincular los colaboradores;
 
-4.  Clicar na aba Destinatários-Grupos e em seguida no botão "Adicionar" para
-    vincular grupos;
+4.  Hacer clic en la pestaña Destinatarios - Grupos, y después en "Agregar" para
+    vincular los grupos;
 
-5.  Clicar em "Gravar".
+5.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins

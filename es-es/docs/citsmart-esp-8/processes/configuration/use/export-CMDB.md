@@ -1,32 +1,29 @@
-title: Exportar CMDB
-Description: Tem por objetivo exportar as informações de um grupo de item de configuração em formato XML.
+title:  Exportar CMDB
+Description: Tiene por objeto exportar la información de un grupo de elementos de configuración en XML. 
 #Exportar CMDB
-Esta funcionalidade tem por objetivo exportar as informações de um grupo de item de configuração em formato XML.
+Esta funcionalidad tiene por objeto exportar la información de un grupo de elementos de configuración en XML.
 
-Antes de começar
---------------------
-
-Para tal processo é necessário ter o grupo de item de configuração registrado
-previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener registrado el grupo de elemento de configuración.
 
-2.  Clicar no último ícone da primeira linha da tela e em seguida clicar no
-    botão "Exportar CMDB";
+Procedimiento
+-------------
 
-3.  O sistema exportará as informações do banco de dados em formato XML.
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB​​​​​​;
+
+2.  Haga clic en el último icono de la primera línea de la pantalla y enseguida
+    hacer clic en "Exportar CMDB";
+
+3.  El sistema exportará la información de la base de datos en XML.
 
 Relacionado
 ----------------
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
-
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço

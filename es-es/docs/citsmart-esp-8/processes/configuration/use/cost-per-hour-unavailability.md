@@ -1,33 +1,32 @@
-title: Registrar custo por hora de indisponibilidade
-Description: Tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
-#Registrar custo por hora de indisponibilidade
-Esta funcionalidade tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
+title:  Registrar costo por hora de indisponibilidad
+Description: Tiene por objetivo establecer el costo por hora de indisponibilidad del elemento de configuración.
+#Registrar costo por hora de indisponibilidad
+Esta funcionalidad tiene por objetivo establecer el costo por hora de indisponibilidad del elemento de configuración.
 
-Antes de começar
---------------------
-
-É necessário ter cadastrado um item de configuração previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener registrado el elemento de configuración.
 
-2.  Buscar pelo grupo de item de configuração desejado;
+Procedimiento
+-------------
 
-3.  Clicar no botão “Editar”;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB;
 
-4.  No campo **Custo por hora de indisponibilidade** registrar o valor;
+2.  Buscar por el grupo de elementos de configuración deseado;
 
-5.  Clicar em "Gravar".
+3.  Haga clic en el botón “Editar”;
+
+4.  En el campo **El coste por hora de inactividad** registrar el valor;
+
+5.  Haga clic en "Grabar".
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço

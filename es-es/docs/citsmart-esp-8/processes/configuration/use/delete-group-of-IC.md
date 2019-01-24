@@ -1,31 +1,30 @@
-title: Excluir grupo de item de configuração
-Description: Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
-#Excluir grupo de item de configuração
-Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
+title:  Borrar grupo de elemento de configuración
+Description: Sólo se puede borrar el grupo que no tiene elemento relacionado (grupos y/o elementos de configuración).
+#Borrar grupo de elemento de configuración
+Sólo se puede borrar el grupo que no tiene elemento relacionado (grupos y/o elementos de configuración).
 
-Antes de começar
---------------------
-
-É necessário ter um grupo de item de configuração previamente registrado.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener el grupo de elemento de configuración registrado.
 
-2.  Pesquisar pelo grupo pretendido, clicar sobre o ícone “Acessar” do mesmo;
+Procedimiento
+-------------
 
-3.  Clicar no ultimo ícone localizado na mesma linha do nome do grupo;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB​​​​​​;
 
-4.  Clicar em "Excluir".
+2.  Buscar por el grupo deseado, hacer clic sobre el icono “Acceso” del mismo;
+
+3.  Haga clic en el último icono ubicado en la misma línea del nombre del grupo;
+
+4.  Haga clic en "Eliminar".
 
 Relacionados
 ----------------
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/21/2019 – Larissa Lourenço

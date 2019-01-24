@@ -1,37 +1,37 @@
-title: Vincular calendário ao grupo de item de configuração
-Description: Tem por objetivo vincular um calendário ao grupo de item de configuração.
-#Vincular calendário ao grupo de item de configuração
-Esta funcionalidade tem por objetivo vincular um calendário ao grupo de item de configuração.
+title:  Vincular calendario al grupo de elemento de configuración
+Description: Tiene por objetivo vincular un calendario al grupo de elementos de configuración. 
+#Vincular calendario al grupo de elemento de configuración
+Esta funcionalidad tiene por objetivo vincular un calendario al grupo de elementos de configuración.
 
-Antes de começar
---------------------
-
-É necessário ter cadastrado um grupo de item de configuração e um calendário,
-previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener registrado un grupo de elemento de configuración y un
+calendario.
 
-2.  Buscar pelo grupo de item de configuração desejado;
+Procedimiento
+-------------
 
-3.  Clicar no botão “Editar”;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB;
 
-4.  No campo **Calendário** fazer a escolha;
+2.  Buscar por el grupo de elementos de configuración deseado;
 
-5.  Clicar em "Gravar".
+3.  Haga clic en el botón “Editar”;
+
+4.  En el campo **Calendario** hacer la elección;
+
+5.  Haga clic en "Grabar".
+
 
 Relacionado
 ----------------
 
-[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

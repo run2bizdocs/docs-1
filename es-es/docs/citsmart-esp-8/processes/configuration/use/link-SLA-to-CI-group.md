@@ -1,36 +1,34 @@
-title: Vincular acordo de nível de serviço ao grupo de IC
-Description: Tem por objetivo vincular um SLA ao grupo de item de configuração. 
-#Vincular acordo de nível de serviço ao grupo de IC
-Esta funcionalidade tem por objetivo vincular um SLA ao grupo de item de configuração.
+title:  Vincular acuerdo de nivel de servicio al grupo de EC 
+Description: Tiene por objetivo vincular un SLA al grupo de elementos de configuración.
+#Vincular acuerdo de nivel de servicio al grupo de EC
+Esta funcionalidad tiene por objetivo vincular un SLA al grupo de elementos de configuración.
 
-Antes de começar
---------------------
-
-É necessário ter cadastrado um grupo de item de configuração e o SLA,
-previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener registrado un grupo de elemento de configuración y el SLA.
 
-2.  Buscar pelo grupo de item de configuração desejado;
+Procedimiento
+-------------
 
-3.  Clicar no botão “Editar”;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB;
 
-4.  No campo **Acordo de nível de serviço** fazer a escolha;
+2.  Buscar por el grupo de elementos de configuración deseado;
 
-5.  Clicar em "Gravar".
+3.  Haga clic en el botón “Editar”;
+
+4.  En el campo **Acuerdo de nivel de servicio** hacer la elección;
+
+5.  Haga clic en "Grabar".
 
 Relacionado
 ----------------
 
-[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço

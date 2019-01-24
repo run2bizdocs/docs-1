@@ -1,52 +1,52 @@
-title: Cadastrar gerente genérico Nagios
-Description: Cadastrar e manter os gerentes genéricos que serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de monitoramento Nagios.
-#Cadastrar gerente genérico Nagios
+title: Registrar gerente genérico Nagios
+Description: Registrar y mantener los gerentes genéricos que serán responsables de monitorear los hosts y/o servicios de la herramienta de monitoreo Nagios.
+#Registrar gerente genérico Nagios
 
-O objetivo desta funcionalidade é cadastrar e manter os gerentes genéricos que
-serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de
-monitoramento Nagios.
+El objetivo de esta funcionalidad es registrar y mantener los gerentes genéricos
+que serán responsables de monitorear los hosts y/o servicios de la herramienta
+de monitoreo Nagios.
 
-Os gerentes permitem o monitoramento de todos os hosts ou todos os serviços de
-forma genérica, ou seja, sem a necessidade de escolher um host específico para
-monitoramento.
+Los gerentes permiten el monitoreo de todos los hosts o todos los servicios de
+forma genérica, es decir, sin la necesidad de elegir un host específico para
+monitoreo.
 
-A finalidade é simplificar o monitoramento de uma rede inteira em busca dos
-eventos relevantes para o negócio.
+El propósito es simplificar el monitoreo de una red entera en busca de los
+eventos relevantes para el negocio.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um gerente genérico Nagios.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+gestor genérico Nagios.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para cadastrar o gerente genérico Nagios é necessário cadastrar previamente a
-conexão do CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação
-automática e a conexão do CITSmart Inventory.
+Para registrar el gerente genérico Nagios, es necesario registrar previamente la
+conexión del CITSmart Event Monitor, horario, categoría de ocurrencia, acción
+automática y la conexión del CITSmart Inventory.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Nagios \> Gerente Genérico Nagios;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Nagios \>
+    Gerente Genérico Nagios** **;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 
 Relacionado
 -----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurrencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins

@@ -1,65 +1,64 @@
-title: Cadastrar gerente genérico Zabbix
-Description: Cadastrar e manter os gerentes genéricos que serão responsáveis por monitorar os hosts e/ou triggers da ferramenta de monitoramento Zabbix.
-#Cadastrar gerente genérico Zabbix
+title: Registrar gerente genérico Zabbix
+Description: Registrar y mantener a los gerentes genéricos que serán responsables de monitorear los hosts y/o triggers de la herramienta de monitoreo Zabbix.
+#Registrar gerente genérico Zabbix
 
-O objetivo desta funcionalidade é cadastrar e manter os gerentes genéricos que
-serão responsáveis por monitorar os hosts e/ou triggers da ferramenta de
-monitoramento Zabbix.
 
-Os gerentes permitem o monitoramento de todos os hosts ou todas as triggers de
-forma genérica, ou seja, sem a obrigatoriedade de escolher um host específico
-para monitoramento.
+El objetivo de esta funcionalidad es registrar y mantener a los gerentes
+genéricos que serán responsables de monitorear los hosts y/o triggers de la
+herramienta de monitoreo Zabbix.
 
-A finalidade é simplificar o monitoramento de uma rede inteira em busca dos
-eventos relevantes para o negócio.
+Los gerentes permiten el monitoreo de todos los hosts o todos los triggers de
+forma genérica, o sea, sin la obligatoriedad de elegir un host específico para
+monitoreo.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um gerente genérico Zabbix.
+El propósito es simplificar el monitoreo de una red entera en busca de los
+eventos relevantes para el negocio.
 
-Antes de começar
---------------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+gerente genérico Zabbix.
 
-Para cadastrar o gerente Global é necessário cadastrar previamente a conexão do
-CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação automática
-e a conexão do CITSmart Inventory.
+**Antes de empezar**
 
-Procedimento
-----------------
+Para registrar el gerente Global, es necesario registrar previamente la conexión
+del CITSmart Event Monitor, horario, categoría de ocurrencia, acción automática
+y la conexión del CITSmart Inventory.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Zabbix \> Gerente Genérico Zabbix;
+**Procedimiento**
 
-2.  Clicar em "Novo";
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Zabbix \>
+    Gerente Genérico Zabbix;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar em "Gravar";
+3.  Completar los campos disponibles;
 
-5.  É possível adicionar novo item de monitoramento vinculado ao gerente
-    genérico recém criado. Na listagem de gerentes, clicar no botão "Editar";
+4.  Hacer clic en "Guardar";
 
-6.  Clicar no botão "Adicionar novo item";
+5.  Es posible agregar un nuevo elemento de monitoreo vinculando el gerente
+    genérico recién creado. En la lista de gerentes, hacer clic en "Editar";
 
-7.  Preencher os campos disponibilizados;
+6.  Hacer clic en "Agregar nuevo elemento";
 
-8.  Clicar em "Adicionar";
+7.  Completar los campos disponibles;
 
-9.  Clicar em "Gravar".
+8.  Hacer clic en "Agregar";
+
+9.  Hacer clic en "Guardar".
 
 
 Relacionado
 ----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurrencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
