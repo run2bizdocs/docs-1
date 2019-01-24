@@ -155,11 +155,11 @@ Title: Frequently Asked Questions - FAQ
     Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato →
     Serviços e informe o modelo de e-mail nos campos
 
-    -   "Modelo de E-mail Abertura Incidente/Requisição"
+        -   "Modelo de E-mail Abertura Incidente/Requisição"
 
-    -   "Modelo de E-mail na finalização de Solicitações/Incidentes"
+        -   "Modelo de E-mail na finalização de Solicitações/Incidentes"
 
-    -   "Modelo de E-mail nas demais ações de Solicitações/Incidentes" 
+        -   "Modelo de E-mail nas demais ações de Solicitações/Incidentes" 
 
     REGRA: caso não informe os modelos de e-mail, as notificações não serão
     enviadas.
