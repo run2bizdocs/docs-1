@@ -39,7 +39,7 @@ realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 Relacionado
 -------
 
-[Buscar conocimiento por la Guía del Uusario](/es-es/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
+[Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
