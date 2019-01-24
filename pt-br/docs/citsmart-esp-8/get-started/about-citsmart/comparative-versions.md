@@ -55,7 +55,7 @@ Title: Comparativo ESP 7 vs 8
 |    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
 |    Asterisk                                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Saiku][20]                                          |:no_entry_sign:|🆕           |
+|    [Saiku][20]                                          |:no_entry_sign:|:new:          |
 |    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Securança**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -63,7 +63,7 @@ Title: Comparativo ESP 7 vs 8
 
 ## O que há de novo?
 
-### Gerenciamento de Mudança
+### Gerenciamento de Mudança @ellipsis-v
 Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
 ### Gerenciamento de Liberação
