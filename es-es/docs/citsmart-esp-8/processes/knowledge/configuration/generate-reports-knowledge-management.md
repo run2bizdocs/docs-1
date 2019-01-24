@@ -1,67 +1,64 @@
-title: Gerar relatórios - gerência de conhecimento
-Description: Apresenta as informações referentes aos conhecimentos contidos na base de conhecimento.
-#Gerar relatórios - gerência de conhecimento
+title: Generar informes - gestión de conocimiento
+Description: Presenta la información referente a los conocimientos contenidos en la base de conocimiento.
+#Generar informes - gestión de conocimiento
 
-Este documento tem por objetivo apresentar diversos tipos de relatórios
-referentes aos conhecimentos contidos na base conhecimento.
-
-
-Gerar relatório de base de conhecimento
+Generar informe de base de conocimiento
 -------------------------------------------
 
-Este relatório tem o objetivo de apresentar as informações referentes aos
-conhecimentos contidos na base de conhecimento.
+Este informe tiene el objetivo de presentar las informaciones referentes a los
+conocimientos contenidos en la base de conocimiento.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerências de Conhecimentos \> Base Conhecimento;
+1.  Acceder al menú principal Informes \> Gestión de Conocimiento \> Base
+    Conocimiento;
 
-2.  Definir os filtros conforme sua necessidade.
+2.  Definir los filtros según sus necesidades.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    É exibido no relatório a quantidade de acessos ao conhecimento, essa
-    quantidade é contabilizada por usuário, sendo contada apenas 1 clique por
-    hora.  
+    Se muestra en el informe la cantidad de accesos al conocimiento, esa
+    cantidad es contabilizada por usuario, siendo contada sólo 1 clic por
+    hora.
 
-Gerar relatório quantitativo de base de conhecimento
---------------------------------------------------------
+Generar informe cuantitativo de la base de conocimiento
+-----------------------------------------------------------
 
-Este relatório tem o objetivo de apresentar a quantidade de conhecimentos, por
-situação, origem, avaliação, autor e aprovador, contidos na base de
-conhecimento.
+Este informe tiene el objetivo de presentar la cantidad de conocimientos, por
+situación, origen, evaluación, autor y aprobador, contenidos en la base de
+conocimiento.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerências de Conhecimentos \> Quantitativo Base Conhecimento;
-
-2.  Definir os filtros conforme a necessidade.
-
-Gerar relatório de documentos acessados na base de conhecimento
--------------------------------------------------------------------
-
-Este relatório tem o objetivo de apresentar a quantidade de acessos nos
-documentos da base de conhecimento.
-
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Conhecimentos \> Documentos Acessados;
+1.  Acceder al menú principal Informes \> Gestión de Conocimiento \>
+    Cuantitativo Base Conocimiento;
 
 2.  Definir os filtros conforme a necessidade.
 
-Gerar relatório de manutenções em base de conhecimento
-----------------------------------------------------------
+Generar informe de documentos accesados en la base de conocimiento
+----------------------------------------------------------------------
 
-Este relatório tem por objetivo de apresentar as informações referente ao
-cadastro e/ou alterações de conhecimentos na base de conhecimentos.
+Este informe tiene el objetivo de presentar la cantidad de accesos en los
+documentos de la base de conocimiento.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Conhecimentos \> Manutenções em Bases de Conhecimento;
+1.  Acceder al menú principal Informes \> Gestión de Conocimiento \> Documentos
+    Accesados;
 
-2.  Definir os filtros conforme a necessidade.
+2.  Definir los filtros segús sus necesidades.
+
+Generar informe de mantenimiento en la base de conocimiento
+---------------------------------------------------------------
+
+Este informe tiene por objeto presentar las informaciones referentes al registro
+y/o cambios de conocimientos en la base de conocimiento.
+
+1.  Acceder al menú principal Informes \> Gestión de Conocimiento \>
+    Mantenimiento en la Base de Conocimiento;
+
+2.  Definir los filtros según sus necesidades.
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
 
