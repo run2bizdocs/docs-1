@@ -1,39 +1,39 @@
-title: Criar item de configuração relacionado a um I
-Description: Permite registrar um item de configuração a outro IC.
-#Criar item de configuração relacionado a um IC
+title: Crear elemento de configuración relacionado a un EC
+Description: Permite registrar un elemento de configuración a otro EC.
+#Crear elemento de configuración relacionado a un EC
 
-Esta funcionalidade permite registrar um item de configuração a outro IC.
 
-Antes de começar
+Esta funcionalidad permite registrar un elemento de configuración a otro EC.
+
+Antes de empezar
 --------------------
 
-É necessário ter registrado previamente um item de configuração.
+Debe haber registrado previamente un elemento de configuración.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB;
 
-2.  Realizar a busca do item de configuração;
+2.  Buscar el elemento de configuración;
 
-3.  Clicar sobre o item de configuração;
+3.  Hacer clic en el elemento de configuración;
 
-4.  Clicar no botão “Criar item de configuração relacionado”;
+4.  Hacer clic en el botón "Crear ítem de configuración relacionado";
 
-5.  Preencher os dados obrigatórios referentes a cada uma das guias
-    apresentadas;
+5.  Completar los campos obligatórios de cada una de las pestañas presentadas;
 
-6.  Clicar no botão “Gravar”.
+6.  Hacer clic en el botón "Guardar" .
+
 
 
 Relacionado
 -----------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
