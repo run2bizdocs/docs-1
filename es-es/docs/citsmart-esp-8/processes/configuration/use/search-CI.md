@@ -1,76 +1,77 @@
-title: Pesquisar item de configuração
-Description: É permitido realizar consultas de ICs de diversas formas no campo de busca.
-#Pesquisar item de configuração
-Na tela de Gerenciamento de Itens de Configuração, é permitido realizar consultas de ICs de diversas formas no campo de busca.
+title:  Buscar elemento de configuración 
+Description: Se permite realizar consultas de IC de diversas formas en el campo de búsqueda.
+#Buscar elemento de configuración
+En la pantalla de Gestión de elementos de configuración, se permite realizar consultas de IC de diversas formas en el campo de búsqueda.
 
-!!! Abstract "NOTA"  
+!!! Abstract "NOTA"
 
-    A primeira chave na tela ao ser acionada, ativa a pesquisa para trazer
-    resultados com itens de configuração filhos. Caso a chave não esteja
-    acionada serão mostrados apenas os itens de configuração pai.
+    La clave cuando se activa, activa la búsqueda para traer resultados con
+    elementos de configuración secundarios. Si la clave no está activada, sólo
+    se muestran los elementos de configuración principal.
 
-Antes de começar
---------------------
-
-Para pesquisar itens de configuração são necessários o cadastro prévio de um
-item de configuração e o tipo de item de configuração.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB ;
+Para buscar elementos de configuración es necesario el registro previo de un
+elemento de configuración y el tipo de elemento de configuración.
 
-2.  Clicar no campo de pesquisa e a busca poderá ser por nome específico do item
-    de configuração ou do tipo de item de configuração;
+Procedimiento
+-------------
 
-3.  Para filtros específicos, clicar no ícone simbolizado por uma “seta para
-    baixo”:
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-*Por Grupo*
+2.  Haga clic en el campo de búsqueda y la búsqueda puede ser por nombre
+    específico del elemento de configuración o del tipo de elemento de
+    configuración;
 
-1.  Permite visualizar os itens de configuração de um determinado grupo;
+3.  Para filtros específicos, haga clic en el icono simbolizado por una "flecha
+    abajo":
 
-2.  Clicar no botão "Grupo" e escolher o grupo a ser pesquisado;
+*Por grupo*
 
-3.  Clicar no ícone “Pesquisar”;
+1.  Permite ver los elementos de configuración de un grupo determinado;
 
-4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
-    esquerda”.
+2.  Haga clic en el botón "Grupo" y elija el grupo que desea buscar;
+
+3.  Haga clic en el icono "Buscar";
+
+4.  Para volver a la pantalla de inicio, haga clic en el icono del símbolo
+    "flecha a la izquierda”.
 
 *Por tipo*
 
-1.  Permite visualizar o tipo de item de configuração;
+1.  Permite ver el tipo de elemento de configuración;
 
-2.  Clicar no botão "Tipo" e escolher o tipo de item de configuração a ser
-    pesquisado;
+2.  Haga clic en el botón "Tipo" y elija el tipo de elemento de configuración;
 
-3.  Clicar no ícone “Pesquisar”;
+3.  Haga clic en el icono “Buscar”;
 
-4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
-    esquerda”.
+4.  Para volver a la pantalla de inicio, haga clic en el icono del símbolo
+    "flecha a la izquierda".
 
 *Por alerta*
 
-1.  Permite visualizar os itens de configuração relacionados com os processos:
-    Requisição, Incidente, Problema, Mudança e Liberação;
+1.  Permite ver los elementos de configuración relacionados con los procesos:
+    Solicitudes, Incidente, Problema, Cambio y Liberación;
 
-2.  Clicar no botão "Alerta" e escolher o tipo de processo a ser pesquisado;
+2.  Haga clic en el botón "Alerta" y elija el tipo de proceso que se va a
+    buscar;
 
-3.  Clicar no ícone “Pesquisar”;
+3.  Haga clic en el icono “Buscar”;
 
-4.  Para retornar a tela inicial clicar no ícone do símbolo “seta para
-    esquerda”.
+4.  Para volver a la pantalla de inicio, , haga clic en el icono del símbolo
+    "flecha a la izquierda".
+
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-[Cadastrar tipo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
+[Registrar tipo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
