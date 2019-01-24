@@ -20,7 +20,7 @@ Procedimiento
 
 2.  Hacer clic en la pestaña Grupo Ítem de Configuración;
 
-3.  Hacer clic en  en Filtros, para buscar el grupo de EC que quieras;
+3.  Haga clic en el símbolo "+" situado en el área "Filtros", para buscar el grupo de EC que quieras;
 
 4.  Se puede agregar vários elementos, para la verificación;
 
