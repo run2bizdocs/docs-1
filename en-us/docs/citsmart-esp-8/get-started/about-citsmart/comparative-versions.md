@@ -30,9 +30,9 @@ Title: Comparative Versions
 |    Capacity Management                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Demand Management                              |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Features**                                       |    Enterprise 7    |    Enterprise 8    |
-|    [Agile Project Management – Simple][6]          |:heavy_multiplication_x:|:new:           |
+|    [Agile Project Management – Simple][6]          |:no_entry_sign:|:new:           |
 |    Tasks Management with Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Experience Center with Users][7]               |:heavy_multiplication_x:|:new:           |
+|    [Experience Center with Users][7]               |:no_entry_sign:|:new:           |
 |    [Warnings / Escalation][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Chat] [9]                                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Knowledge Portal][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -48,17 +48,17 @@ Title: Comparative Versions
 |    Service Portal                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Customized Forms][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Widgets                                        |:heavy_multiplication_x:|:ballot_box_with_check:  |
-|    [Anuva Application - AI][16]                         |:heavy_multiplication_x:|:new:           |
-|    [Smart Analytics][17]                                |:heavy_multiplication_x:|:new:           |
+|    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
+|    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
+|    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
 |                                                   |                    |                    |
 |    **Integrations**                                   |    Enterprise 7    |    Enterprise 8    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Zabbix                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [IBM Watson][18]                                     |:heavy_multiplication_x:|:new:           |
+|    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
 |    Asterisk                                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Saiku][20]                                          |:heavy_multiplication_x:|:new:           |
+|    [Saiku][20]                                          |:no_entry_sign:|:new:           |
 |    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |                                                   |                    |                    |
 |    **Security**                                       |    Enterprise 7    |    Enterprise 8    |
