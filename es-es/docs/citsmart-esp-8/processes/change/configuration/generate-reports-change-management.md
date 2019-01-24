@@ -1,43 +1,43 @@
-title: Gerar relatórios - Gerência de mudanças
-Description: Objetivo de apresentar a quantidade de requisição de mudanças.
-#Gerar relatórios - Gerência de mudanças
+title: Generar informes - gestión de cambios
+Description: Tiene por objetivo presentar los informes referentes a la gestión de las mudanzas.
+#Generar informes - gestión de cambios
 
-Gerar relatório de quantitativo de mudança
-----------------------------------------------
 
-Este relatório tem o objetivo de apresentar a quantidade de requisição de
-mudanças.
+Generar informe cuantitativo de cambio
+------------------------------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerências de Mudanças \> Quantitativo de Mudança;
+Este informe tiene el objetivo de presentar la cantidad de solicitud de cambios.
 
-2.  Definir os filtros conforme a necessidade;
+1.  Acceder al menú principal Informes \> Gestión del Cambio \> Cuantitativo de
+    Cambio;
 
-3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+2.  Definir los filtros según sus necesidades;
 
-Gerar relatório de requisições de mudança
----------------------------------------------
+3.  Hacer clic en "Crear PDF" para general el informe en PDF y/o hacer clic en
+    "Crear XLS" para generar el informe en Excel.
 
-Este relatório tem o objetivo de apresentar as requisições de mudanças
-cadastradas.
+Generar informe de solicitud de cambio
+------------------------------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Mudanças \> Pesquisar Requisição Mudança;
+Este informe tiene el objetivo de presentar las solicitudes de cambios
+registrados.
 
-2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar";
+1.  Acceder al menú principal Informes \> Gestión del Cambio \> Consultar
+    Solicitud de Cambio;
 
-3.  Ao lado de cada registro de requisição de mudança da lista, há ícones que
-    permite realizar as seguintes realizar as seguintes ações: visualizar as
-    informações ao clicar no botão "Visualizar" e visualizar os anexos da
-    requisição de mudança ao clicar no ícone “Ver Anexo”;
+2.  Definir los filtros según sus necesidades y hacer clic en "Búsqueda";
 
-4.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+3.  Al lado de cada registro de solicitud de cambio de la lista, hay iconos que
+    permiten realizar las siguientes acciones: visualizar las informaciones al
+    hacer clic en el botón "Visualizar" y visualizar los adjuntos de la
+    solicitud de cambio al hacer clic en el icono "Ver adjuntos";
+
+4.  Hacer clic en "Crear PDF" para generar el informe en PDF y/o hacer clic en
+    "Crear XLS" para generar el informe en Excel.
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
