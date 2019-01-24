@@ -1,19 +1,19 @@
-title:  Verificar itens de configuração capturados pelo Inventory (agente)
-Description: Tem por objetivo apresentar os detalhes dos Itens de Configuração coletados pela rotina de inventário. 
-#Verificar itens de configuração capturados pelo Inventory (agente)
-Esta funcionalidade tem por objetivo apresentar os detalhes dos Itens de Configuração coletados pela rotina de inventário.
+title:  Ver elementos de configuración capturados por lo Inventory (agente)
+Description: Tiene por objeto presentar los detalles de los elementos de configuración colectados por la rutina de inventario. 
+#Ver elementos de configuración capturados por lo Inventory (agente)
+Esta funcionalidad tiene por objeto presentar los detalles de los elementos de configuración colectados por la rutina de inventario.
 
-Procedimento
-----------------
+Procedimiento
+-------------
 
-1.  Acesse a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> Visualização de Ativos;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> Ver Previa
+    de Activos;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar no botão "Pesquisar".
+3.  Hacer clic en "Búsqueda".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
