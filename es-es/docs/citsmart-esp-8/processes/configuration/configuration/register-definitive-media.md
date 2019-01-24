@@ -1,30 +1,33 @@
-title: Cadastrar mídia definitiva
-Description: Registrar as versões definitivas e autorizadas de todos os Itens de Configuração (ICs) de Software de maneira segura.
-#Cadastrar mídia definitiva
+title: Registrar media definitiva
+Description: Registrar las versiones definitivas y autorizadas de todos los Elementos de Configuración de software de manera segura.
+#Registrar media definitiva
 
-Esta funcionalidade tem por objetivo registrar as versões definitivas e
-autorizadas de todos os Itens de Configuração (ICs) de Software de maneira
+
+Esta funcionalidad tiene por objeto registrar las versiones definitivas y
+autorizadas de todos los Elementos de Configuración de software de manera
 segura.
 
-Pode conter itens de configuração associados com licenças e documentação.
+Puede contener elementos de configuración asociados con licencias y
+documentación.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir uma mídia definitiva.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar un medio definitivo.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> Item de Configuração \> Mídia Software;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> Ítem de
+    Configuración \> Medios Definitivos;
 
-2.  Preencher os campos disponibilizados nos três campos: Dados Básicos,
-    Licenças e Conhecimento;
+2.  Completar los campos disponibles en los tres campos: Datos Básicos,
+    Licencias y Conocimiento;
 
-3.  Clicar em "Gravar".
+3.  Hacer clice en "Guardar".
+
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
