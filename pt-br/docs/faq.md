@@ -149,7 +149,7 @@ Title: Frequently Asked Questions - FAQ
      Para que essa notificação seja enviada é necessário realizar os seguintes
     procedimentos:
 
-    1.  Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento
+     1-  Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento
     de Portfólio → Portfólio de Serviços → Serviço de Negócio → Contrato →
     Serviços e serviço técnico Gerenciamento de Portfólio → Portfólio de
     Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato →
@@ -164,15 +164,15 @@ Title: Frequently Asked Questions - FAQ
     REGRA: caso não informe os modelos de e-mail, as notificações não serão
     enviadas.
 
-    2.  Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu
+       2-  Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu
     principal Cadastro Gerais → Gerência de Pessoal → Grupo.
 
-    3.  Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja
+       3-  Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja
     registrado no sistema, realize a pesquisa do grupo;
 
-    4.  Selecione o mesmo;
+       4-  Selecione o mesmo;
 
-    5.  Será exibida a tela de registro do determinado grupo, defina se as
+       5-  Será exibida a tela de registro do determinado grupo, defina se as
     notificações de e-mail (abertura, andamento e encerramento) referentes às
     solicitações, serão de envio obrigatório;
 
@@ -183,7 +183,7 @@ Title: Frequently Asked Questions - FAQ
     serão obrigatórias, ao registrar uma solicitação de serviço, essas opções
     poderão ser definidas pelo responsável do registro da solicitação.
 
-    6.  Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma
+       6-  Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma
     solicitação de serviço será estabelecida a regra referente a notificação por
     e-mail, definida no cadastro de grupo.
 
