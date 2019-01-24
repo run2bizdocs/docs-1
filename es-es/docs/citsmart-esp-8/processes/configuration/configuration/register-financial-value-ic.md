@@ -1,38 +1,41 @@
-title: Registrar o valor financeiro do IC
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o valor financeiro do IC.
-#Registrar o valor financeiro do IC
+title: Registrar valor financiero del EC
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar el valor financiero del EC.
+#Registrar valor financiero del EC
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o valor financeiro do IC.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borrar el valor financiero del EC.
+
+Antes de empezar
 --------------------
 
-Para realizar o registro é necessário ter cadastrado o item de configuração
+Para registrar, es necesario haber registrado el elemento de configuración
 previamente.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através do menu Processos \> Gerência de
-    Configuração \> CMDB;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-2.  Realizar a consulta do item de configuração, clicar sobre o item;
+2.  Buscar el elemento de configuración, hacer clic en el elemento;
 
-3.  Na tela de informações do determinado item de configuração localizar a guia
-    Financeiro;
+3.  En la pantalla de información de un elemento de configuración, encontrar la
+    pestaña Finianciero;
 
-4.  Clicar sobre a guia **Financeiro** para visualizar informações;
+4.  Hacer clic en la pestaña **Financiera** para ver las informaciones;
 
-5.  Preencher os campos disponibilizados;
+5.  Hacer clic en "Añadir valor finaceiro";
 
-6.  Clicar em "Gravar".
+6.  Completar los campos disponibles;
+
+7.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -----------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
