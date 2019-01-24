@@ -1,24 +1,25 @@
-title: Cadastrar tipo de serviço
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
-#Cadastrar tipo de serviço
+title: Crear categoría de servicio
+Description: Ofrece diversas acciones, tales como, incluir, cambiar y borrar las categorías de servicio para posicionar los servicios de negocioi, apoyo, solicitud, incidente y procedimiento, en los grupos similares de actuación.
+#Crear categoría de servicio
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
+Esta funcionalidad ofrece diversas acciones, tales como, incluir, cambiar y
+borrar las categorías de servicio para posicionar los servicios de negocioi,
+apoyo, solicitud, incidente y procedimiento, en los grupos similares de
+actuación.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Tipo Serviço;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Categoría Servicio;
 
-2.  Preencher o campo obrigatório;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
