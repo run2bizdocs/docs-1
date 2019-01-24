@@ -1,39 +1,38 @@
-title: Realizar análise de impacto do item de configuração
-Description: Permite realizar a análise de impacto de um item de configuração.
-#Realizar análise de impacto do item de configuração
-Esta funcionalidade permite realizar a análise de impacto de um item de configuração.
+title: Hacer análisis de impacto del elemento de configuración
+Description: Permite hacer el análisis de impacto de un elemento de configuración. 
+#Hacer análisis de impacto del elemento de configuración
+Esta funcionalidad permite hacer el análisis de impacto de un elemento de configuración.
 
-Antes de começar
---------------------
-
-Para verificar a análise de impacto é necessário ter registrado o item de
-configuração previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Para verificar el análisis de impacto, es necesario haber registrado el elemento
+de configuración.
 
-2.  Realizar a consulta do item de configuração, clicar sobre o item;
+Procedimiento
+-------------
 
-3.  Na tela de informações do determinado item de configuração localizar a
-    guia **Serviços Impactados**;
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-4.  Clicar sobre a guia para visualizar informações;
+2.  Buscar el elemento de configuración y hacer clic en el elemento;
 
-5.  Para visualizar a hierarquia dos serviços relacionados ao IC, clicar no
-    botão" Serviço Impactados";
+3.  En la pantalla de información del determinado elemento de configuración,
+    busque la guía **Servicios Impactados**;
 
-6.  Para visualizar o mapa de fluxo do item de configuração, clicar no
-    botão “Visualizar mapa de relacionamentos (automático)".
+4.  Hacer clic en la guía para ver las informaciones;
+
+5.  Para ver la jerarquía de los servicios relacionados con el EC, hacer clic en
+    "Servicio Impactado";
+
+6.  Para ver el mapa de flujo del elemento de configuración, hacer clic en
+    “Vista mapa de relaciones (auto)”.
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
