@@ -1,31 +1,31 @@
-title: Cadastrar horário
-Description: Tem como objetivo agendar tarefas.
-#Cadastrar horário
+title: Registrar horario
+Description: Objetivo programar tareas.
+#Registrar horario
 
-Esta funcionalidade tem como objetivo agendar tarefas. São escolhidos filtros de
-horário e data e é gerada uma Expressão Cron que tem como objetivo criar agendas
-de disparo para serem executadas periodicamente nesses horários e datas
-estabelecidos. Por exemplo, para realizar um inventário da rede, deve ser
-selecionado um agendamento previamente cadastrado para o sistema executar esse
-inventário de acordo com o horário escolhido.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um horário.
+Esta funcionalidad tiene como objetivo programar tareas. Se eligen filtros de
+horario y fecha, y se genera una Expresión Cron, que tiene como objetivo crear
+agendas de disparo para ser ejecutadas periódicamente en esos horarios y fechas
+establecidos. Por ejemplo, para hacer un inventario de la red, se debe
+seleccionar una programación previamente registrada para que el sistema ejecute
+ese inventario de acuerdo con el horario elegido.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+horario.
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Processos \> Gerência de Evento \> Horário;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú pirncipal Procesos \> Gestión de Evento \> Horario;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar em "Gravar".
+3.  Completar los campos disponibles;
+
+4.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
