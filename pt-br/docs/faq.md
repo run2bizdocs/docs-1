@@ -671,7 +671,7 @@ Title: Frequently Asked Questions - FAQ
     O QUE CHECAR  
     1.  Arquivo de configuração do Banco Postgresql:  
         - Postgresql.conf
-        - timezone = 'BRAZIL/EAST'
+        - timezone = 'BRAZIL/EAST'  
     2.  No container cloud:  
         - Setting timezone on the operating system.  
     3.  Configuração do TimeZone no JRE: 
