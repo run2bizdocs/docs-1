@@ -1,62 +1,63 @@
-title: Cadastrar gerente Zabbix
-Description: Registrar e manter os gerentes responsáveis pelo monitoramento dos itens de configuração cujo status será consultado no Zabbix.
-#Cadastrar gerente Zabbix
+title: Registrar gerente Zabbix
+Description: Registrar y mantener los gerentes responsables por lo monitoreo de los elementos de configuración, cuyo estado se va buscar en el Zabbix.
+#Registrar gerente Zabbix
 
-O Zabbix é uma ferramenta para monitorar redes, servidores e serviços,
-projetados para monitorar disponibilidade, experiência do usuário e qualidade de
-serviços.
 
-O objetivo desta funcionalidade é registrar e manter os gerentes responsáveis
-pelo monitoramento dos itens de configuração cujo status será consultado no
-Zabbix. Ele permite ao usuário associar os elementos de configuração aos seus
-respectivos disparadores e às ações que devem ser tomadas na ocorrência de
-eventos.
+Zabbix es una herramienta para monitorear red, servidor y servicios, diseñado
+para monitorear la disponibilidad, experiencia del usuario y calidad de los
+servicios.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um gerente Zabbix.
+El objetivo de esta funcionalidad es registrar y mantener los gerentes
+responsables por lo monitoreo de los elementos de configuración, cuyo estado se
+va buscar en el Zabbix. Él permite al usuario relacionar los elementos de
+configuración a sus disparadores y a las acciones que es necesario hacer en la
+ocurrencia de eventos.
 
-Antes de começar
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+gerente Zabbix.
+
+Antes de empezar
 --------------------
 
-Para cadastrar o gerente Zabbix é necessário cadastrar previamente a conexão do
-CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação automática
-e a conexão do CITSmart Inventory.
+Para registrar el gerente Zabbix, es necesario tener registrado la conexión del
+CITSmart Event Monitor, horario, categoría de ocurrencia, accion automática y la
+conexión del CITSmart Inventory.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Zabbix \> Gerente Zabbix;
+1-  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Zabbix \>
+    Gerente Zabbix;
 
-2.  Preencher os campos disponibilizados em cada área;
+2-  Completar los campos disponibles en cada area;
 
-3.  Na área Item de configuração pai é possível cadastrar o IC no CITSmart com
-    os dados do Host selecionado. Clicar no botão "Criar IC". Vale lembrar que
-    esse registro só poderá ser realizado caso não haja um IC com a mesma
-    identificação do Host:
+3-  En el área Ítem de Configuración Padre, es posible registrar el IC en el
+    CITSmart con los datos del Host seleccionado. Hacer clic en "Crear EC". Es
+    importante recordar que este registro sólo puede ser realizado si no hay un
+    EC con la misma identificación del Host:
 
-    -   Informe os dados do item de configuração filho;
+-   Informar los datos del elemento de configuración hijo;
 
-    -   Conduzir uma relação entre o serviço Host e o item de configuração filho.
-        Cada serviço host deve estar relacionado ao seu respectivo item de
-        configuração filho.
+-   Hacer relación entre el servicio Host y el elemento de configuración hijo.
+    Cada servicio del host debe estar relacionado con su elemento de
+    configuración hijo.
 
-1.  Clicar no botão "Gravar".
+4-  Hacer clic en "Guardar".
 
 
 Relacionado
 ----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurrencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar conxão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
