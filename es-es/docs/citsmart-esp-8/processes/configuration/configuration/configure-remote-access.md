@@ -1,40 +1,41 @@
-title: Configurar acesso remoto
-Description: permite realizar a configuração da opção de acesso remoto, presente dentro da tela de CMDB (Gerenciamento de Configuração), no ITSM.
-#Configurar acesso remoto
+title: Configurar acceso remoto
+Description: Configurar la opción de acceso remoto, presente dentro de la pantalla de CMDB (Gestión de la Configuración), en el ITSM.
+#Configurar acceso remoto
 
-Esta funcionalidade permite realizar a configuração da opção de acesso remoto,
-presente dentro da tela de CMDB (Gerenciamento de Configuração), no ITSM.
 
-Antes de começar
-----------------
+Esta funcionalidad permite configurar la opción de acceso remoto, presente
+dentro de la pantalla de CMDB (Gestión de la Configuración), en el ITSM.
 
-Para esta configuração o usuário deverá ter configurado a instância GUACD e
-torná-la comunicável, além de realizar o cadastro prévio do horário, do grupo de
-item de configuração e o parâmetro 319 estar na opção "SIM".
+Antes de empezar
+--------------------
 
-Procedimento
-------------
+Para esta configuración el usuario deberá haber configurado la instancia GUACD y
+hacerla comunicable, además de realizar el registro previo de la hora, del grupo
+de elemento de configuración y el parámetro 319 estar en la opción "SÍ".
 
-1.  Acessar a funcionalidade através do menu Sistema \> Acesso Remoto \>
-    Configurações do acesso remoto;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú principal Sistema \> Acceso Remoto \> Configuración de
+    Acceso Remoto;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar no botão "Gravar".
+3.  Completar los campos disponibles;
+
+4.  Hacer clic en "Guardar".
 
 
 Relacionado
 -----------
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/Ees-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
