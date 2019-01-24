@@ -1,29 +1,30 @@
-title: Cadastrar modelo de EPL
-Description: Permite criar e manter modelos de EPL a serem usados na criação de uma EPL.
-#Cadastrar modelo de EPL
+title: Registrar modelo de EPL
+Description: Permite crear y mantener modelos de EPL que se van usar en la creación de EPL.
+#Registrar modelo de EPL
 
-Esta funcionalidade permite criar e manter modelos de EPL a serem usados na
-criação de uma EPL.
 
-É necessário ter conhecimento da linguagem de processamento de eventos. Para
-mais informações consultar o
-site:<http://www.espertech.com/esper/esper-documentation/> .
+Esta funcionalidad permite crear y mantener modelos de EPL que se van usar en la
+creación de EPL.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir modelos de EPL.
+Es necesario tener conocimento de lenguaje de procesamiento de eventos. Para más
+información, buscar en el
+sitio:<http://www.espertech.com/esper/esper-documentation/> .
 
-Procedimento
-------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
+modelos de EPL.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Negócio \> Modelo de EPL;
+Procedimiento
+-----------------
 
-2.  Preencher os campos disponibilizados;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Negocio
+    \> Modelo de EPL;
 
-3.  Clicar no botão "Gravar".
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
