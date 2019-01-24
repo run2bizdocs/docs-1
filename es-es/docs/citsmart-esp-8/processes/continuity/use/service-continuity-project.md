@@ -1,76 +1,75 @@
-title: Definir o projeto da continuidade do serviço
-Description: Permite definir o projeto. 
-#Definir o projeto da continuidade do serviço
-O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir o projeto.
+title:  Definir el proyecto de la cotinuidad del servicio 
+Description: Permite definir el proyecto. 
+#Definir el proyecto de la cotinuidad del servicio
+El Registro de Continuidad es un proceso que pasa por varias fases. La primera fase de este proceso, Iniciación, es donde se definirá la política, el alcance y el proyecto de esta Continuidad del Servicio de TI. Esta funcionalidad permite definir el proyecto.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política de continuidade do serviço já definida e o escopo da continuidade já
-registrado.
+Es fundamental primero tener el Registro de Continuidad ya registrado, la
+politica de continuidad del servicio ya definida y el alcance de la continuidad
+ya registrado.
 
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-2.  Localizar a continuidade do qual deseja vincular o projeto e clicar no botão
-    "Avançar";
+2.  Buscar la continuidad que desee vincular el proyecto y hacer clic en
+    "Avanzar";
 
-3.  Na área **Iniciação**, clicar em "Projeto"*;*
+3.  En **Iniciación**, hacer clic en "Proyecto"*;*
 
-4.  Clicar no botão "Vincular Projeto", para relacionar um projeto já existente
-    à continuidade;
+4.  Hacer clic en "Vincular Proyecto", para relacionar un proyecto ya existente
+    a la continuidad;
 
-5.  Para cadastrar um projeto a partir desta tela, clicar no botão "Criar Novo
-    Projeto" e preencher os campos necessários;
+5.  Para registrar un proyecto de esta pantalla, hacer clic en "Crear Nuevo
+    Proyecto" y completar los campos necesarios;
 
-6.  Clicar no botão "Gravar" para efetuara a operação.
+6.  Hacer clic en "Grabar".
 
-O que fazer a seguir
+Lo que hacer después
 --------------------
 
-Depois de definir o projeto da continuidade do serviço é necessário executar a
-seguinte ação: cadastrar as funções vitais da continuidade do serviço, sendo
-esta ação parte da segunda fase do registro completo da continuidade, chamada de
-Requisitos e Estratégia.
+Después de definir el proyecto de la continuidad del servicio, es necesario
+realizar la siguiente acción: registrar las funciones vitales de la continuidad
+del servicio, siendo esta acción parte de la segunda fase del registro completo
+de la continuidad, llamada de Requerimientos y Estrategia.
 
 Relacionado
 ------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
