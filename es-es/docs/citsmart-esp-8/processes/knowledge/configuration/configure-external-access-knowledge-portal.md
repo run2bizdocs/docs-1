@@ -1,80 +1,79 @@
-title: Configurar acesso externo ao Portal do Conhecimento
-Description: Tem por finalidade configurar a visualização de conhecimentos no Portal do Conhecimento por usuário que não tenha um login e senha.
-#Configurar acesso externo ao Portal do Conhecimento
+title: Configurar acceso externo al Portal del Conocimiento
+Description: configurar la visualización de conocimientos en el Portal del Conocimiento por usuario que no tiene un login y contraseña.
+#Configurar acceso externo al Portal del Conocimiento
 
-Este conhecimento tem por finalidade configurar a visualização de conhecimentos
-no Portal do Conhecimento por usuário que não tenha um login e senha.
+Este conocimiento tiene por finalidad configurar la visualización de
+conocimientos en el Portal del Conocimiento por usuario que no tiene un login y
+contraseña.
 
-Antes de começar
-------------------
-
-O ambiente precisa estar online e com a funcionalidade de indexação (SOLR)
-ativa. Saber o endereço URL do acesso ao Portal do Conhecimento.
-
-Procedimento
---------------
-
-*Passo 1*:
-
-1.  Acessar o menu principal Sistema \> Configurações \> Gerência de
-    Conhecimento (Indexação);
-
-2.  Clicar no botão "Atualizar o servidor de indexação";
-
-3.  Clicar em "Confirmar".
-
-*Passo 2*:
-
-1.  Acessar o menu principal Sistema \> Configurações \> Portal do Conhecimento
-    \> Customizar;
-
-2.  Para alterar a logo e o fundo do cabeçalho é preciso respeitar os tamanhos
-    que são apresentados na tela;
-
-3.  No campo **Acesso** habilitar o campo de "Habilitar acesso externo" para a
-    opção *SIM*;
-
-4.  Clicar em "Gravar".
-
-*Passo 3*:
-
-1.  Acessar o menu principal Processos \> Gerência de Conhecimento \>
-    Conhecimento;
-
-2.  Para criar um novo conhecimento, clicar no botão "Opções"  e em seguida
-    "Adicionar novo conhecimento";
-
-3.  Para editar conhecimento existente, realizar a busca do mesmo através dos
-    filtros disponibilizados e em seguida clicar no botão "Editar" do
-    conhecimento;
-
-4.  Preencher os campos disponibilizados e se atentar quanto aos
-    campos **Privacidade,** o mesmo deverá ser *Público* e **Acesso** deverá
-    ser *Externo;*
-
-5.  No campo **Publicar** habilitar a chave para a opção *SIM*.
-
-O que fazer a seguir
+Antes de empezar
 --------------------
 
-Acessar o Portal do conhecimento e fazer busca por algum conhecimento sem logar.
+El ambiente debe estar en ambiente en línea y con la funcionalidad de indexación
+(SOLR) activa. Saber la dirección URL del acceso al Portal del Conocimiento.
 
+Procedimiento
+-----------------
+
+*Paso 1*:
+
+1.  Acceder al menú principal Sistema \> Configuración \> Gestión de
+    Conocimiento (Indexación);
+
+2.  Hacer clic en "Actualizar el servidor de índices";
+
+3.  Hacer clic en "Confirmar".
+
+*Paso 2*:
+
+1.  Acceder al menú principal Sistema \> Configuración \> Portal del
+    Conocimiento \> Personalizar;
+
+2.  Para cambiar el logo y el fondo del encabezado, hay que respetar los tamaños
+    que se muestran en la pantalla;
+
+3.  En el campo** Acceso**, habilitar el campo de "Habilitar el acceso externo"
+    a la opción *SÍ*;
+
+4.  Hacer clic en "Guardar".
+
+*Paso 3*:
+
+1.  Acceder al menú principal Procesos \> Gestión de Conocimiento \> Gestión de
+    Conocimiento;
+
+2.  Para crear nuevo conocimiento, hacer clic en el botón de opciones  y después
+    en "Añadir nuevos conocimientos";
+
+3.  Para editar el conocimiento existente, busquelo a través de los filtros
+    disponibles y luego hacer clic en el botón "Editar" del conocimiento;
+
+4.  Completar los campos disponibles y atentarse en cuanto a los
+    campos **Privacidad**, que deberá ser *Público* y **Acceso** deberá
+    ser *Externo;*
+
+5.  En el campo **Publicar**, habilitar la clave para la opción *SÍ*.
+
+Lo que hacer después
+------------------------
+
+Acceder al Portal de conocimiento y buscar por algún conocimiento sin logar.
 
 Relacionado
 ----------
 
-[Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+[Crear carpeta](/es-es/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+[Crear conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-[Customizar o Portal do Conhecimento](/pt-br/citsmart-esp-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
+[Personalizar Portal del Conocimiento](/es-es/citsmart-esp-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-[Indexar conhecimentos](/pt-br/citsmart-esp-8/processes/knowledge/configuration/index-knowledge.html)
+[Indexar conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/index-knowledge.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
