@@ -1,41 +1,40 @@
-title: Gerar relatórios - Catálogo de serviços
-Description: Permite verificar as informações sobre o catálogo dos serviços cadastrados.
-#Gerar relatórios - Catálogo de serviços
+title: Crear informes - Catálogo de servicios
+Description: Permite verificar las informaciones acerca del catálogo de servicios registrados.
+#Crear informes - Catálogo de servicios
 
-Este relatório permite verificar as informações sobre o catálogo dos serviços
-cadastrados.
 
-Procedimento
-----------------
+Este informe permite verificar las informaciones acerca del catálogo de
+servicios registrados.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidente/Requisição \> Gráficos e Relatórios (Painel);
+Procedimiento
+-----------------
 
-2.  No campo "Grupo de Informações" selecionar a opção "Catálogo de Serviços";
+1.  Acceder a la funcionalidad por el menú principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
 
-3.  Clicar sobre o relatório "Relatório por serviço";
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Catálogo de
+    Servicios";
 
-4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
+3.  Hacer clic en el informe "Informe por servicio registrar";
 
-5.  Será apresentado o relatório de serviços de acordo com os filtros definidos;
+4.  Definir los filtros según la necesidad y hacer clic en "Crear";
 
-6.  Existem diversas formas de visualizar os relatórios através de três
-    ícones:
+5.  Se va presentar el informe de servicios según los filtros definidos;
 
-       -   Para gerar uma tabela com informações, clicar no ícone “Tabela”;
+6.  Hay diversas formas de visualizar los informes a través de tres iconos:
 
-       -   Para gerar um relatório no formato PDF, clicar no ícone “Download
-           document PDF”;
+  -   Para crear un tabla con informaciones, hacer clic en el icono "Tabla";
 
-       -   Para gerar um relatório no formato Excel, clicar no ícone “Download
-           document XLS”.
+  -   Para crear un informe en PDF, hacer clic en el icono "Download documento PDF";
 
+  -   Para crear un informe en Excel, hacer clic en el icono "Download documento XLS".
 
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
