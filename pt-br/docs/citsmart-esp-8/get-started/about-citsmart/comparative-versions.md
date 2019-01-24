@@ -1,69 +1,64 @@
-Title: Comparativo de Versões
+Title: Comparativo ESP 7 vs 8
 
-# Comparativo de Versões
+# CITSmart ESP 7 vs 8 gráfico comparativo
 
-|    Comparative Versions                                       |    CITSmart ESP 7    |    CITSmart ESP 8    |
+| Suporte, Gerenciamento de Processos, Recursos, Integrações e Segurança    |    CITSmart ESP 7    |    **CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
-|    Web Application                                |:heavy_check_mark:  |:heavy_check_mark:  |
-|    iPhone app                                     |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Android app                                    |:heavy_check_mark:  |:heavy_check_mark:  |
-|                                                   |                    |                    |
-|    **Support**                                        |    Enterprise 7    |    Enterprise 8    |
-|    Telephone                                      |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Online Support                                 |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Knowledge Base                                 |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Video Tutorials                                |:heavy_check_mark:  |:heavy_check_mark:  |
-|                                                   |                    |                    |
-|    **Management Processes**                           |    Enterprise 7    |    Enterprise 8    |
-|    Portfolio Management                           |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Service Catalog Management                     |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Service Level Management                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Change Management][1]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Release Management][2]                         |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Knowledge Management][3]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Assets and Configuration Management][4]        |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Event Management                               |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Ticket Management][5]                          |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Problem Management                             |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Continuity Management                          |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Availability Management                        |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Capacity Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Demand Management                              |:heavy_check_mark:  |:heavy_check_mark:  |
-|    **Features**                                       |    Enterprise 7    |    Enterprise 8    |
-|    [Agile Project Management – Simple][6]          |:heavy_multiplication_x:|:new:           |
-|    Tasks Management with Kanban                   |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Experience Center with Users][7]               |:heavy_multiplication_x:|:new:           |
-|    [Warnings / Escalation][8]                      |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Chat] [9]                                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Knowledge Portal][10]                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Dashboards and Customized Reports              |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Citsmart Neuro Application][11]                     |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    [Mobile and Field Service][12]                       |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Contract Management                            |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Project Management                             |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Workflow Management][13]                            |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Dynamic builder of reports                     |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Surveys and Feedback][14]                           |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Management Dashboard                           |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Service Portal                                 |:heavy_check_mark:  |:heavy_check_mark:  |
-|    API                                            |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Customized Forms][15]                               |:heavy_check_mark:  |:heavy_check_mark::heavy_plus_sign:|
-|    Widgets                                        |:heavy_multiplication_x:|:heavy_check_mark:  |
-|    [Anuva Application - AI][16]                         |:heavy_multiplication_x:|:new:           |
-|    [Smart Analytics][17]                                |:heavy_multiplication_x:|:new:           |
-|                                                   |                    |                    |
-|    **Integrations**                                   |    Enterprise 7    |    Enterprise 8    |
-|    Nágios                                         |:heavy_check_mark:  |:heavy_check_mark:  |
-|    Zabbix                                         |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [IBM Watson][18]                                     |:heavy_multiplication_x:|:new:           |
-|    Asterisk                                       |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [LDAP/AD][19]                                        |:heavy_check_mark:  |:heavy_check_mark:  |
-|    [Saiku][20]                                          |:heavy_multiplication_x:|:new:           |
-|    E-mail                                         |:heavy_check_mark:  |:heavy_check_mark:  |
-|                                                   |                    |                    |
-|    **Security**                                       |    Enterprise 7    |    Enterprise 8    |
-|    HTTPS                                          |:heavy_check_mark:  |:heavy_check_mark:  |
-|                                                   |                    |                    |
+|    Aplicação Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Android app                                    |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Suporte**                                        |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Telefone                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Suporte online                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Documentação                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Tutoriais em video                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Gerenciamento de Processos**                           |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Gerenciamento de Portfólio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Catálogo de Serviço                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Nível de Serviço                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gerenciamento de Mudança][1]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gerenciamento de Liberação][2]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gerenciamento de Conhecimento][3]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gerenciamento de Configuração e Ativos][4]        |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gerenciamento de Eventos                               |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gerenciamento de Ticket][5]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gerenciamento de Problema                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Continuidade                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Disponibilidade                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Capacidade                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Demanda                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Recursos**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    [Simple - Agile Project Management][6]          |:no_entry_sign:|:new:           |
+|    Gerenciamento de Tarefas com Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Centro de Experiência][7]               |:no_entry_sign:|:new:           |
+|    [Alertas/Escalonamento][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Chat] [9]                                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Portal do Conhecimento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Dashboards e Relatórios Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Apliacação CITSmart][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile e Field Service][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gerenciamento de Contrato                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gerenciamento de Projeto                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gestão de Fluxo de trabalho][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Construção de Relatórios Dinâmicos                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Surveys e Feedback][14]                           |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Dashboards                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Portal de Serviços                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Formulários Customizados][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
+|    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
+|    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
+|    **Integrações**                                   |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Zabbix                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
+|    Asterisk                                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Saiku][20]                                          |:no_entry_sign:|:new:           |
+|    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Securança**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
 
 ## What’s new?
