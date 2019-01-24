@@ -2,7 +2,7 @@ Title: Comparative Versions
 
 # Comparative
 
-|    Comparative Versions                                       |    CITSmart ESP 7    |    CITSmart ESP 8    |
+|  Compare Support, Management Processes, Features, Integrations & Security    |    CITSmart ESP 7    |    CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Web Application                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
