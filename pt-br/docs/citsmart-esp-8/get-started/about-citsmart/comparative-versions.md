@@ -63,10 +63,10 @@ Title: Comparativo ESP 7 vs 8
 
 ## O que há de novo?
 
-### Gerenciamento de Mudança 
+### Gerenciamento de Mudança
 Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
-### Gerenciamento de Liberação 
+### Gerenciamento de Liberação [2]
 Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequências das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
 
 ### Gerenciamento de Conhecimento
@@ -123,24 +123,4 @@ Esta funcionalidade foi aprimorada possibilitando a coleta, por meio de atributo
 ### Integração com Saiku
 Integração do Saiku com o CITSmart Analytics.
 
-
-[1]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[2]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[3]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[4]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[5]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[6]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[7]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[8]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[9]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#chat
-[10]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[11]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[12]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[13]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[14]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[15]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[16]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[17]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[18]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#
-[19]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#ldapad
-[20]:/pt-br/citsmart-esp-8/get-started/about-citsmart/comparative-versions.html#saiku
+[1]:#gerenciamento-de-mudanca
