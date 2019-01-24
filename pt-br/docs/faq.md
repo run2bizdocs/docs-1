@@ -668,14 +668,21 @@ Title: Frequently Asked Questions - FAQ
     CENÁRIO  
     1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
 
-    O QUE CHECAR  
-      1. Arquivo de configuração do Banco Postgresql:  
-         - Postgresql.conf
-         - timezone = 'BRAZIL/EAST'  
-      2. No container cloud:
-         - Setting timezone on the operating system.  
-      3.Configuração do TimeZone no JRE:  
-         - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+    O QUE CHECAR
+
+    1.  Arquivo de configuração do Banco Postgresql:  
+
+        -   Postgresql.conf  
+
+        -   timezone = 'BRAZIL/EAST'  
+
+    2.  No container cloud:  
+
+        -   Setting timezone on the operating system.  
+
+    3.  Configuração do TimeZone no JRE:  
+
+       -   https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm\#JSTGD362  
     
 ??? Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
     Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
