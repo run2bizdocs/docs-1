@@ -1,34 +1,34 @@
-title: Cadastrar ameaça
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça. 
-#Cadastrar ameaça
-Esta funcionalidade tem por objetivo cadastrar as ameaças que serão usadas durante o registro de Continuidade.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça.
+title:  Registrar amenaza 
+Description: Tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad. 
+#Registrar amenaza
+Esta funcionalidad tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar la amenaza.
 
-Antes de Começar
-----------------------
+Antes de empezar
+----------------
 
-É necessário o cadastro prévio da categoria de ameaça.
+Es necesario el registro previo de la categoría de amenaza.
 
-Procedimento
-------------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Cadastro de Ameaça;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \> Registre
+    Amenaza;
 
-2.  Clicar na aba "**Cadastrar Ameaça**";
+2.  Hacer clic en la pestaña "**Registrar Amenaza**";
 
-3.  Preencher os campos necessários (Nome da ameaça e categoria da ameaça);
+3.  Completar los campos necesarios;
 
-4.  Clicar no botão "Gravar" para efetuar a operação.
+4.  Hacer clic en "Guardar".
 
 Relacionados
 ------------------
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
