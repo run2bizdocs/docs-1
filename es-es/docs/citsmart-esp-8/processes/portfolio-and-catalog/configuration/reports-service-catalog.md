@@ -23,11 +23,11 @@ Procedimiento
 
 6.  Hay diversas formas de visualizar los informes a través de tres iconos:
 
-  -   Para crear un tabla con informaciones, hacer clic en el icono "Tabla";
+   -   Para crear un tabla con informaciones, hacer clic en el icono "Tabla";
 
-  -   Para crear un informe en PDF, hacer clic en el icono "Download documento PDF";
+   -   Para crear un informe en PDF, hacer clic en el icono "Download documento PDF";
 
-  -   Para crear un informe en Excel, hacer clic en el icono "Download documento XLS".
+   -   Para crear un informe en Excel, hacer clic en el icono "Download documento XLS".
 
 
 
