@@ -1,71 +1,68 @@
-title: Definir a política de continuidade do serviço
-Description: Esta funcionalidade permite definir a política.
-#Definir a política de continuidade do serviço
-O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir a política.
-A política deve ser definida e comunicada o mais cedo possível para que todos os membros da organização envolvidos ou afetados pela continuidade de negócio sejam conscientizados sobre suas responsabilidades para suportar o Gerenciamento de Continuidade do Serviço de TI (GCSTI) de acordo com os objetivos da política.
+title: Definir política de la continuidad del servicio
+Description: Permite definir la política
+#Definir política de la continuidad del servicio
+El Registro de Continuidad es un proceso que pasa por varias fases. La primera fase de este proceso, Iniciación, es donde se definirá la política, el alcance y el proyecto de esta Continuidad del Servicio de TI. Esta funcionalidad permite definir la política.
+La política debe definirse y comunicarse lo antes posible, para que todos los miembros de la organización involucrados o afectados por la continuidad de negocio, sean conscientes sobre sus responsabilidades para soportar la Gestión de Continuidad del Servicio de TI, de acuerdo con los objetivos de la política.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado.
-
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça à ameaça cadastrada.Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-2.  Localizar a continuidade do qual deseja vincular a política e clicar no
-    botão "Avançar";
+Es fundamental primero tener el Registro de Continuidad ya registrado.
 
-3.  Na área **Iniciação**, clicar em "Política" e em seguida na aba "Cadastrar
-    Política";
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-4.  Preencher os campos necessários (título da política, a versão, data de
-    validade, descrição e vincular o responsável pela política);
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-5.  Para anexar algum arquivo, clicar na aba "Anexar" e sem seguida "Adicionar o
-    arquivo" para vincular o arquivo;
+Procedimiento
+-------------
 
-6.  Clicar no botão "Gravar" para efetuar a operação.
+1.  Acceder al menú principal Procesos \> Gestión de Continuidad \> Continuidad;
 
-O que fazer a seguir
-------------------------
+2.  Buscar la continuidad que desee vincular la política y hacer clic en
+    "Avanzar";
 
-Depois de definir a política de continuidade do serviço é necessário executar a
-seguinte ação: cadastrar o escopo da continuidade, sendo esta ação parte da fase
-de Iniciação do registro completo da continuidade.
+3.  En **Inicio**, hacer clic en "Política" y después en la pestaña "Registrar
+    Políticas";
+
+4.  Completar los campos necesarios;
+
+5.  Para adjuntar un archivo, hacer clic en la pestaña "Adjuntar" y después en
+    "Adicionar Archivo" para vincularlo;
+
+6.  Hacer clic en "Grabar".
+
+Lo que hacer después
+--------------------
+
+Después de definir la política de continuidad del servicio, es necesario
+realizar la siguiente acción: registrar el alcance de la continuidad, siendo
+esta acción parte de la fase de inicio del registro completo de la continuidad.
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço

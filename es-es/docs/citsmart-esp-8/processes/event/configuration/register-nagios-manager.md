@@ -49,7 +49,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar categorís de ocurencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
 [Registar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 

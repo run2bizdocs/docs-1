@@ -1,49 +1,50 @@
-title: Principais recursos utilizados na busca
-Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
-#Principais recursos utilizados na busca
+title: Refinar búsquedas en el Portal del Conocimiento
+Description: Orientar y sugerir las mejores maneras de realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario.
+#Refinar búsquedas en el Portal del Conocimiento
 
-Este conhecimento tem por objetivo orientar e sugerir as melhores maneiras de se
-realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
 
-1.  Conectores entre termos (operador lógico booleano):
+Este conocimiento tiene por objetivo orientar y sugerir las mejores maneras de
+realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 
-    -   AND (+): é possível realizar busca com mais de uma palavra priorizando uma
-        delas no resultado. Acrescente o sinal positivo "+" na frente da palavra que
-        será priorizada, exemplo: ticket +delegar;
+1-  Conectores entre términos (operador lógico booleano):
 
-    -   NOT (-): é possível refinar (reduzir) o resultado incluindo palavras a serem
-        retiradas da lista resultante. Ex.: Requisição -Incidente
+-   AND (+): es posible realizar búsqueda con más de una palabra priorizando una
+    de ellas en el resultado. Añada la señal positiva "+" delante de la palabra
+    que será priorizada, por ejemplo: ticket + delegar;
 
-1.  Variar a forma de escrever a palavra, exemplo:
+-   NOT (-): es posible refinar (reducir) el resultado incluyendo palabras a
+    retirar de la lista resultante. Ej.: Solicitud -Incidente.
 
-    -   Requisitar
+2-  Variar la forma de escribir la palabra, por ejemplo:
 
-    -   Requisição
+-   Solicitar
 
-    -   É possível pesquisar por uma parte da palavra: Requisi
+-   Solicitud
 
-1.  Utilizar sinônimos:
+-   Puede buscar por una parte de la palabra: Solici
 
-    -   Buscar
+3-  Utilizar sinónimos:
 
-    -   Pesquisar
+-   Buscar
 
-1.  Pesquisar por frase exata:
+-   Investigar
 
-    -   Colocar a frase desejada entre aspas duplas, ex. "Como delegar um ticket"
+4-  Buscar por frase exacta:
 
-1.  Navegar pelas pastas e clicar na pasta do assunto desejado.
+-   Colocar la frase deseada entre comillas dobles, ej. "Cómo delegar un ticket"
+
+5-  Navegue por las carpetas y haga clic en la carpeta del asunto deseado.
 
 
 Relacionado
 -------
 
-[Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
+[Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
