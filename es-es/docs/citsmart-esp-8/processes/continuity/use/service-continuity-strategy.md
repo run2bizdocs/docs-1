@@ -1,100 +1,99 @@
-title: Cadastrar a estratégia de continuidade de serviços
-Description: Esta funcionalidade permite cadastrar a estratégia de continuidade de serviços de TI.
- 
-#Cadastrar a estratégia de continuidade de serviços
-O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a estratégia de continuidade de serviços de TI.
-Nesta tela, é apresentado uma tarja verde informando a porcentagem de funções contempladas para o sumário executivo e uma tarja vermelha informando a porcentagem de funções vitais não contempladas para o objetivo.
+title:  Registrar estrategia de la continuidad de servicios 
+Description: Permite registrar la estrategia de continuidad de servicios de TI.
+#Registrar estrategia de la continuidad de servicios
+El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar la estrategia de continuidad de servicios de TI.
+En esta pantalla, se presenta una banda verde que indica el porcentaje de funciones contempladas para el sumario ejecutivo y una banda roja que indica el porcentaje de funciones vitales no contempladas para el objetivo.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política e o projeto de continuidade do serviço já definidos, além de ter o
-escopo, as funções vitais, a análise de impacto no negócio e a avaliação de
-riscos da continuidade já registradas.
+Es fundamental primero tener el Registro de Continuidad ya catastrado, la
+política y el proyecto de continuidad del servicio ya definido, además de tener
+el alcance a las funciones vitales, la análisis de impacto al negócio y la
+evaluación de riesgos de la continuidad ya registrados.
 
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-2.  Localizar a continuidade do qual deseja vincular a estratégia de
-    continuidade e clicar no botão "Avançar";
+2.  Buscar la continuidad de la que desea vincular el análisis de impacto y
+    hacer clic en "Avanzar";
 
-3.  Na área **Requisitos e Estratégia**, clicar em "Estratégia de Continuidade";
+3.  En **Requisitos y Estrategia**, hacer clic en "Estrategia de Continuidad";
 
-4.  Preencher os campos necessários;
+4.  Completar los campos necesarios;
 
-5.  Clicar no botão "Selecionar Função Vital" para pesquisar e vincular as
-    funções vitais desejadas;
+5.  Hacer clic en "Seleccionar Función Vital" para buscar y vincular las
+    funciones vitales que desee;
 
-6.  Clicar no botão "Serviços" da função vital para visualizar os serviços
-    vinculados à mesma;
+6.  Hacer clic en "Servicios" de la functión vital para ver los servicios
+    vinculados;
 
-7.  Clicar no botão "Cenários" para visualizar os cenários vinculados à mesma.
-    Serão apresentados, então, os cenários. Em seguida, clicar no ícone do
-    cenário para visualizar suas informações;
+7.  Hacer clic en "Escenarios" para ver los escenarios vinculados. Se
+    presentarán, entonces, los escenarios. Después, hacer clic en el icono  del
+    escenario para ver sus informaciones;
 
-8.  Ainda na tela dos cenários, clicar na aba "Planos de Tratativa" e em seguida
-    nos botões "Utilizar como medida de recuperação" e/ou "Utilizar como medida
-    de resposta aos riscos". Ao realizar esta operação, será adicionado na tela
-    de Estratégia da continuidade de serviço de TI a medida de recuperação e
-    medida de resposta para definição;
+8.  En la pantalla de escenarios, hacer clic en la pestaña "Planes de
+    Tratamiento" y luego en "Usar como medida de recuperación" y/o "Utilizar
+    como medida de respuesta a los riesgos". Al realizar esta operación, se
+    agregará en la pantalla de estrategia de continuidad de servicio de TI, la
+    medida de recuperación y la medida de respuesta para la definición;
 
-9.  Clicar em "Gravar" para efetuar a operação.
+9.  Hacer clic en "Guardar".
 
-O que fazer a seguir
+Lo que hacer después
 --------------------
 
-Após de cadastrar a estratégia de continuidade de serviços é necessário executar
-a seguinte ação: cadastrar o plano de continuidade, sendo esta ação parte da
-terceira fase do registro completo da continuidade, chamada de Implementação.
+Después de registrar la estrategia de continuidad de servicios, es necesario
+realizar la siguiente acción: registrar el plan de continuidad, siendo esta
+acción parte de la tercera fase del registro completo de la continuidad, llamada
+de Implementación.
 
 Relacionado
 ------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+[Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+[Registrar plan de continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 
 
