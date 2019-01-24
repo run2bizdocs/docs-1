@@ -21,12 +21,12 @@ automática y la conexión del CITSmart Inventory.
 Procedimiento
 -----------------
 
-1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Inventory
+1-  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Inventory
     \> Gerente Inventory;
 
-2.  Completar los campos disponibles en cada área;
+2-  Completar los campos disponibles en cada área;
 
-3.  Los campos para completar se cambiarán según el *tipo de
+3-  Los campos para completar se cambiarán según el *tipo de
     configuración* elegido:
 
 -   **Configuração Específica**: permite crear reglas específicas para un único
@@ -37,9 +37,9 @@ Procedimiento
     configuración. Estas reglas se aplicarán en el momento en que se hayan
     inventado los elementos de configuración.
 
-1.  Informar los datos necesarios y hacer clic en "Agregar";
+4-  Informar los datos necesarios y hacer clic en "Agregar";
 
-2.  Hacer clic en "Guardar".
+5-  Hacer clic en "Guardar".
 
 
 
