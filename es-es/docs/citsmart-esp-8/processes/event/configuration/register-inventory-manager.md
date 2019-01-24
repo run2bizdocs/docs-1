@@ -1,60 +1,62 @@
-title: Cadastrar gerente Inventory
-Description: Cadastrar e manter os gerentes que serão responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart Inventory
-#Cadastrar gerente Inventory
+title: Registrar gerente Inventory
+Description: Registrar y mantener a los gerentes que serán responsables de las ocurrencias de eventos capturados a partir del CITSmart Inventory.
+#Registrar gerente Inventory
 
-O objetivo desta funcionalidade é cadastrar e manter os gerentes que serão
-responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart
-Inventory. Permite ao usuário informar de quanto em quanto tempo o Gerente será
-processado, quais os itens de configuração que ele irá gerenciar, os checks que
-serão aplicados e as ações a serem tomadas automaticamente.
+El objetivo de esta funcionalidad es registrar y mantener a los gerentes que
+serán responsables de las ocurrencias de eventos capturados a partir del
+CITSmart Inventory. Permite al usuario informar de cuánto tiempo se procesará el
+Gerente, qué elementos de configuración va a administrar, los controles que se
+aplicarán y las acciones que se tomarán automáticamente.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um gerente Inventory.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+gerente Inventory.
 
-Antes de começar
-----------------
+Antes de empezar
+--------------------
 
-Para cadastrar o gerente Inventory é necessário cadastrar previamente a conexão
-do CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação
-automática e a conexão do CITSmart Inventory.
+Para registrar el gerente Inventory, es necesario registrar previamente la
+conexión del CITSmart Event Monitor, horario, categoría de ocurrencia, acción
+automática y la conexión del CITSmart Inventory.
 
-Procedimento
--------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Monitor Inventory \> Gerente Inventory;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Inventory
+    \> Gerente Inventory;
 
-2.  Preencher os campos disponibilizados em cada área;
+2.  Completar los campos disponibles en cada área;
 
-3.  Os campos de preenchimento serão alterados conforme o *tipo de
-    configuração* escolhida:
+3.  Los campos para completar se cambiarán según el *tipo de
+    configuración* elegido:
 
-    -   **Configuração Específica** permite criar regras específicas para um único
-        item de configuração. Essas regras serão aplicadas no momento em que o item
-        de configuração estiver sendo inventariado;
+-   **Configuração Específica**: permite crear reglas específicas para un único
+    elemento de configuración. Estas reglas se aplican en el momento en que el
+    elemento de configuración está siendo inventariado;
 
-    -   **Configuração Geral:** permite criar regras para todos os itens de
-        configuração. Essas regras serão aplicadas no momento em que os itens de
-        configuração estiverem sendo inventariados.
+-   **Configuração General**: permite crear reglas para todos los elementos de
+    configuración. Estas reglas se aplicarán en el momento en que se hayan
+    inventado los elementos de configuración.
 
-1.  Informar os dados necessários e clicar em "Adicionar";
+1.  Informar los datos necesarios y hacer clic en "Agregar";
 
-2.  Clicar no botão "Gravar".
+2.  Hacer clic en "Guardar".
+
+
 
 
 Relacionado
 -----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoria de ocurrencia](/es-es/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
-[Configurar Conexão Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
+[Registrar conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
