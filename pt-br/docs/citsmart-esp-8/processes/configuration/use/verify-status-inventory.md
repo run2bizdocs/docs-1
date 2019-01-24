@@ -17,7 +17,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal
     Processos \> Gerência de Configuração \> CMDB;
 
-2.  Clicar no ícone  localizado no canto superior direito da tela de
+2.  Clicar no último ícone localizado no canto superior direito da tela de
     Gerenciamento de Configuração;
 
 3.  Selecionar a opção "Status do inventário".
