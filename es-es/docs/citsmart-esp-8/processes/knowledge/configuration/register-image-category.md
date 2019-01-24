@@ -1,32 +1,33 @@
-title: Cadastrar categoria de imagem
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as categorias de imagens para organização das imagens dentro da galeria que o sistema administra e usa.
-#Cadastrar categoria de imagem
+title: Registrar categoría de imagen
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las categorías de imágenes para organizarlas dentro de la galería que el sistema administra y utiliza.
+#Registrar categoría de imagen
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir as categorias de imagens para organização das imagens dentro da galeria
-que o sistema administra e usa.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
+categorías de imágenes para organizarlas dentro de la galería que el sistema
+administra y utiliza.
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Processos \> Gerência de Conhecimentos \> Imagem \> Categoria Galerias de
-    Imagens.
+Procedimiento
+-----------
 
-2.  Preencher o campo obrigatório;
+1.  Acceder al menú principal Procesos \> Gestión de Conocimiento \> Imagen \>
+    Categoría Galerías de Imágenes.
 
-3.  Clicar em "Gravar".
+2.  Completar los campos obligatórios;
+
+3.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 --------
 
-[Armazenar imagens na galeria](/pt-br/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
+[Almacenar imágenes em la galería](/es-es/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)
 
 !!! tip "About"
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins 
+    <b>Updated:</b>01/24/2019 – Anna Martins 
 
 
