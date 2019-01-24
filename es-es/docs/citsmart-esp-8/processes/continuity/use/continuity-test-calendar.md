@@ -1,117 +1,116 @@
-title: Calendário de testes da continuidade
-Description: Esta funcionalidade permite visualizar os eventos de teste da continuidade do serviço. 
-#Calendário de testes da continuidade
-O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma.Esta funcionalidade permite visualizar os eventos de teste da continuidade do serviço.
+title: Calendario de pruebas de la continuidade
+Description: Permite ver los eventos de prueba de la continuidad del servicio. 
+#Calendario de pruebas de la continuidade
+El Registro de Continuidad es un proceso que pasa por varias fases. La cuarta fase de este proceso es la Operación Continua, donde se va definir la Conciencia (eduación y formación) de la continuidad, Revisión y Auditoría de la continuidad, Pruebas de la continuidad y la Invocación. Esta funcionalidad permite ver los eventos de prueba de la continuidad del servicio.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política e o projeto de continuidade do serviço já definidos, além de ter o
-escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
-riscos, a estratégia, o plano, o planejamento organizacional, a estratégia de
-testes conscientização de continuidade já registrados e a auditoria e revisão da
-continuidade já realizada.
-
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-2.  Localizar a continuidade do qual deseja visualizar os eventos de testes e
-    clicar no botão "Avançar";
+Es necesario tener, en primer lugar, registrado el Registro de la Continuidad;
+política y proyecto de continuidad del servicio ya definidos; tener registrado
+el alcance, funciones vitales, análisis de impacto del negocio, evaluación de
+riesgos, estratagia, plan, planificación organizacional; la estrategia de prueba
+de conciencia de la continuidad ya registradas, además de la auditoría y
+revisión ya realizada. 
 
-3.  Na área **Operação Continua**, clicar em "Testes";
+Es necesario también registro previo de la amenaza, categoría de amenaza y
+vincular la categoría de amenaza a la amenaza registrada. Es preciso registrar,
+anteriormente, el riesgo y la categoría de riesgo.
 
-4.  É apresentado, então um calendário contendo os eventos de testes traçados
-    durante a implementação, o que chamamos de estratégia de testes. Estes
-    eventos podem ser visualizados por mês, semana ou dia. Para definir o tipo
-    de visualização, clicar em um dos botões localizados acima do calendário:
-    "Mês", "Semana" ou "Dia";
+Es fundamental registrar las acciones automáticas del incidente, solicitud y
+procedimento de la Gestión de Eventos.
 
-5.  Clicar no evento de teste e:
+Procedimiento
+-------------
 
-    1.  Preencher os campos referentes às informações principais do evento;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-    2.  Clicar na aba "Grupo" e em seguida no botão "Adicionar Grupo" para
-        pesquisar e vincular o grupo desejado;
+2.  Buscar la continuidad que desee ver los eventos de pruebas y hacer clic en
+    "Avanzar";
 
-    3.  Clicar na aba "Colaborador' e em seguida no botão "Adicionar
-        Colaborador" para pesquisar e vincular o colaborador desejado;
+3.  En **Operación Continua**, hacer clic en "Pruebas";
 
-    4.  Clicar na aba "Evidência de teste" e em seguida no botão "Adicionar
-        Evidência de teste" para pesquisar e vincular uma evidência de teste já
-        existente ou clicar no botão "Criar Evidência de teste" para criar um
-        novo conhecimento detalhando esta evidência;
+4.  Se presenta un calendario con los eventos de prueba trazados durante la
+    implementación, lo que se llama estrategia de pruebas. Estos eventos se
+    pueden ver por mes, semana o día. Para definir el tipo de visualización,
+    hacer clic en uno de los botones ubicados por encima del calendario: "Mes",
+    "Semana" o "Día";
 
-    5.  Clicar na aba "Planos de teste" e em seguida no botão "Adicionar Plano
-        de teste" para pesquisar e vincular um plano de teste.
+5.  Hacer clic en el evento de prueba y:
 
-6.  Clicar no botão "Gravar" do calendário de testes para aplicar as alterações
-    realizadas.
+    1.  Completar los campos de las informaciones principales del evento;
 
-O que fazer a seguir
-------------------------
+    2.  Hacer clic en "Grupo"y después en "Agregar Grupo" para buscar y vincular
+        el grupo que desee;
 
-Após de verificar o calendário de testes da continuidade é possível executar a
-seguinte ação, se necessário: invocar a continuidade, ação parte da quarta fase
-do registro completo da continuidade, chamada de Operação Contínua.
+    3.  Hacer clic en la pestaña "Colaborador" y después en "Agregar
+        Colaborador" para buscar y vincular el colaborador que desee;
+
+    4.  Hacer clic en la pestaña "Evidencia de Prueba" y después en "Agregar
+        Evidencia de Prueba" para buscar y vincular la evidencia que desee o
+        hacer lci en "Crear Evidencia de Prueba" para crear un nuevo;
+
+    5.  Hacer clic en "Planes de Prueba" y después en "Agregar Plan de Pruebas"
+        para buscar y vincular un plan de prueba.
+
+6.  Hacer clic en "Grabar" del calendario de pruebas para aplicar las
+    aplicaciones hechas.
+
+Lo que hacer después
+--------------------
+
+Después de verificar el calendario de pruebas de la continuidad, es posible
+realizar la siguiente acción, si es necesario: invocar la continuidad, acción
+parte de la cuarta fase del registro completo de la continuidad, llamada de
+Operación Continua.
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+[Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[adastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+[Registrar estrategia de la continuidad de servicios](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+[Registrar plan de continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-[Cadastrar o planejamento organizacional da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+[Registra la planificación organizacional de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Cadastrar a estratégia de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
+[Registrar estrategia de pruebas de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-[Cadastrar a conscientização da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
+[Registrar conciencia de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
 
-[Revisar e auditar a continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
+[Revisar y auditar la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
 
-[Invocar a continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/invoke-continuity.html)
+[Invocar la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/invoke-continuity.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
