@@ -1,112 +1,110 @@
-title: Invocar a continuidade
-Description: Esta funcionalidade invocar a continuidade do serviço.
-#Invocar a continuidade
-O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma. Esta funcionalidade invocar a continuidade do serviço.
-O gatilho para haver uma invocação é a abertura de um incidente do tipo crítico. O incidente tem que estar aprovado para exibição na tela de Invocação.
+title: Invocar la continuidad
+Description: Invoca la continuidad del servicio 
+#Invocar la continuidad
+El Registro de Continuidad es un proceso que pasa por varias fases. La cuarta fase de este proceso, Operación Continua, es donde se definirá la Concientización (educación y entrenamiento) de la continuidad, la Revisión y auditoría, Pruebas sobre la continuidad y su Invocación. Esta funcionalidad invoca la continuidad del servicio.
+El gatillo para una invocación es la apertura de un incidente del tipo crítico. El incidente tiene que estar aprobado para mostrar en la pantalla de Invocación.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política e o projeto de continuidade do serviço já definidos, além de ter o
-escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
-riscos, a estratégia, o plano, o planejamento organizacional, a estratégia de
-testes conscientização de continuidade já registrados e a auditoria e revisão da
-continuidade já realizada. Inclusive, é recomendável verificar o calendário de
-testes da continuidade.
-
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-2.  Localizar a continuidade do qual deseja invocar e clicar no botão "Avançar";
+Es fundamental, primero, tener el Registro de Continuidad ya registrado, la
+política y el proyecto de continuidad del servicio ya definidos, además de tener
+el alcance, las funciones vitales, el análisis de impacto en el negocio, la
+evaluación de riesgos, la estrategia, el plan , la planificación organizacional,
+la estrategia de pruebas de concienciación de continuidad ya registrados y la
+auditoría y revisión de la continuidad ya realizada. Incluso se recomienda
+comprobar el calendario de pruebas de continuidad.
 
-3.  Na área **Operação Continua**, clicar em "Invocação".
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-4.  Para iniciar o procedimento de continuidade, os dados básicos dos
-    procedimentos já devem estar registrados nas
-    Iniciativas/Solicitações/Procedimentos Ação Automática.
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-5.  Clicar no botão "Iniciar Plano de Continuidade Principal" para iniciar o
-    procedimento principal de continuidade que deverá estar cadastrado no plano
-    de continuidade da fase de implementação;
+Procedimiento
+-------------
 
-6.  Clicar no botão "Iniciar Plano de Continuidade Auxiliar" para iniciar os
-    procedimentos auxiliares de continuidade;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-7.  Para verificar a descrição da solicitação de procedimento de continuidade,
-    basta clicar no botão "Descrição";
+2.  Buscar la continuidad que desee invocar y hacer clic en "Avanzar";
 
-8.  Para visualizar a solicitação de procedimento de continuidade, basta clicar
-    no botão "Visualizar";
+3.  En **Operación Continua**, hacer clic en "Invocación";
 
-9.  Para capturar a solicitação de procedimento de continuidade para execução da
-    mesma, basta clicar no botão "Capturar tarefa";
+4.  Para empezar el procedimiento de continuidad, los datos básicos de los
+    procedimientos ya deben estar registrados en las
+    Iniciativas/Solicitudes/Procedimientos Acción Automatica;
 
-10. Para executar a solicitação de procedimento de continuidade, clique no botão
-    "Executar", será apresentada a tela para atendimento da solicitação.
+5.  Hacer clic en "Inicio Plan de Continuidad Principal" para empezar el
+    procedimiento principal de continuidad que deberá estar registrado en el
+    plan de continuidad de la fase de implementación;
 
-11. O vídeo abaixo é uma exemplo de invocação de "Plano de Continuidade
-    Auxiliar":
+6.  Hacer clic en "Iniciar Plan de Continuidad Auxiliar" para empezar los
+    procedimientos auxiliares de continuidad;
+
+7.  Para comprobar la descripción de la solicitud de procedimiento de
+    continuidad, hacer clic en "Descripción";
+
+8.  Para ver la solicitud de procedimiento de continuidad, hacer clic en
+    "Visualizar";
+
+9.  Para capturar la solicitud de procedimiento de continuidad para la
+    ejecución, basta hacer clic en "Capturar tarea";
+
+10. Para ejecutar la solicitud de procedimiento de la continuidad, hacer clic en
+    "Ejecutar", aparecerá la pantalla para atender la solicitud;
+
+11. El video abajo es un ejemplo de invocación de "Plan de Continuidad
+    Auxiliar".
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
+[Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+[Registrar estrategia de la continuidad de servicios](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+[Registrar plan de continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-[Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+[Registra la planificación organizacional de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Cadastrar o planejamento organizacional da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+[Registrar estrategia de pruebas de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-[Cadastrar a estratégia de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
+[Registrar conciencia de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
 
-[Cadastrar a conscientização da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
+[Revisar y auditar la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
 
-[Revisar e auditar a continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
+[Calendario de pruebas de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-test-calendar.html)
 
-[Calendário de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-calendar.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 
