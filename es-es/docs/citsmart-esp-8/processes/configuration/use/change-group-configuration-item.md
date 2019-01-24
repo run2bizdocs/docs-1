@@ -1,33 +1,32 @@
-title: Alterar grupo de item de configuração
-Description: Tem por objetivo modificar informações no grupo de item de configuração
-#Alterar grupo de item de configuração
-Esta funcionalidade tem por objetivo modificar informações no grupo de item de configuração. Este campo somente estará ativo se for criado grupo dentro da tela de CMDB.
+title:  Cambiar grupo de elemento de configuración
+Description: Tiene por objeto cambiar la información en el grupo de elementos de configuración.
+#Cambiar grupo de elemento de configuración
+Esta funcionalidad tiene por objeto cambiar la información en el grupo de elementos de configuración. Este campo sólo estará activo si se crea el grupo dentro de la pantalla CMDB.
 
-Antes de começar
---------------------
-
-É necessário ter cadastrado um grupo de item de configuração previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Es necesario tener registrado un grupo de elemento de configuración.
 
-2.  Selecionar o item de configuração desejado;
+Procedimiento
+-------------
 
-3.  Clicar no botão “Editar”;
+1.  Acceder al menú principal Procesos \> Gestión de Configuración \> CMDB;
 
-4.  Realizar as modificações nos campos disponilizados;
+2.  Seleccione el elemento de configuración deseado;
 
-5.  Clicar em "Gravar".
+3.  Haga clic en el botón “Editar”;
+
+4.  Realizar las modificaciones en los campos disponibles;
+
+5.  Haga clic en "Grabar".
 
 Relacionado
 ----------------
 
-[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
