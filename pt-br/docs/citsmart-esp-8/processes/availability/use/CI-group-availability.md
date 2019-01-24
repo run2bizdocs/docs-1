@@ -31,7 +31,7 @@ Procedimento
 
 6.  Para download da tabela de disponibilidade total e/ou ocorrências de
     indisponibilidade, clicar no botão "Salvar tabela" disponibilizado em cada
-    área.
+    área. 
 
 Relacionado
 ----------------
