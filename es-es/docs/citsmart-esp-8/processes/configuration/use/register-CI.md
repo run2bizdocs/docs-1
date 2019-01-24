@@ -1,53 +1,53 @@
-title: Cadastrar item de configuração
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um item de configuração. 
-#Cadastrar item de configuração
-Segundo a ITIL "Qualquer componente ou outro ativo de serviço que precise ser gerenciado de forma a entregar um serviço de TI.".
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um item de configuração.
+title:  Registrar elemento de configuración
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un elemento de configuración. 
+#Registrar elemento de configuración
+Según ITIL "Cualquier componente u otro activo de servicio que necesita ser administrado para entregar un servicio de TI".
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un elemento de configuración.
 
-Antes de começar
---------------------
-
-Para registrar itens de configuração é necessário o cadastro prévio de um Acordo
-de Nível de Serviço (Geral) do tipo "Disponibilidade", uma localidade, um
-colaborador, um grupo, um contrato, um tipo de item de configuração e ao menos
-um item de configuração principal, caso necessite criar outro item de
-configuração relacionado.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um item de configuração.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Para registrar elementos de configuración, es necesario el registro previo de un
+Acuerdo de Nivel de Servicio (General) del tipo "Disponibilidad", localidad,
+colaborador, grupo, contrato, tipo de elemento de configuración y al menos un
+elemento de configuración principal, si necesita crear otro elemento de
+configuración relacionado.
 
-2.  Clicar no ultimo ícone da primeira linha da tela e em seguida clicar em
-    "Criar novo dispositivo";
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+elemento de configuración.
 
-3.  Será apresentada a tela de cadastro com as abas de configuração do item de
-    configuração;
+Procedimiento
+-------------
 
-4.  Preencher os campos disponibilizados em cada aba;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de la
+    Configuración \> CMDB;
 
-5.  Clicar em "Gravar" .
+2.  Haga clic en el último icono de la primera línea de la pantalla y después en
+    "Crear nuevo dispositivo";
+
+3.  Se mostrará la pantalla de registro con las pestañas de configuración del
+    elemento de configuración;
+
+4.  Completar los campos disponibles en cada pestaña;
+
+5.  Hacer clic en "Guardar”.
 
 Relacionado
 ----------------
 
-[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar localidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-locations.html)
+[Registrar localidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-locations.html)
 
-[Cadastrar tipo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
+[Registrar tipo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
