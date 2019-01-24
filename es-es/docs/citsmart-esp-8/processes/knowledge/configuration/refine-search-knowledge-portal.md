@@ -6,7 +6,7 @@ Description: Orientar y sugerir las mejores maneras de realizar búsquedas dentr
 Este conocimiento tiene por objetivo orientar y sugerir las mejores maneras de
 realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 
-1.  Conectores entre términos (operador lógico booleano):
+1-  Conectores entre términos (operador lógico booleano):
 
 -   AND (+): es posible realizar búsqueda con más de una palabra priorizando una
     de ellas en el resultado. Añada la señal positiva "+" delante de la palabra
@@ -15,7 +15,7 @@ realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 -   NOT (-): es posible refinar (reducir) el resultado incluyendo palabras a
     retirar de la lista resultante. Ej.: Solicitud -Incidente.
 
-1.  Variar la forma de escribir la palabra, por ejemplo:
+2-  Variar la forma de escribir la palabra, por ejemplo:
 
 -   Solicitar
 
@@ -23,17 +23,17 @@ realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 
 -   Puede buscar por una parte de la palabra: Solici
 
-1.  Utilizar sinónimos:
+3-  Utilizar sinónimos:
 
 -   Buscar
 
 -   Investigar
 
-1.  Buscar por frase exacta:
+4-  Buscar por frase exacta:
 
 -   Colocar la frase deseada entre comillas dobles, ej. "Cómo delegar un ticket"
 
-1.  Navegue por las carpetas y haga clic en la carpeta del asunto deseado.
+5-  Navegue por las carpetas y haga clic en la carpeta del asunto deseado.
 
 
 Relacionado
