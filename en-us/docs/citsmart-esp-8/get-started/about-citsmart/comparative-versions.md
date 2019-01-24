@@ -1,6 +1,6 @@
-Title: Comparative Versions
+Title: ESP 7 vs 8 Comparison
 
-# Comparative
+# CITSmart ESP 7 vs 8 Comparison
 
 |  Compare Support, Management Processes, Features, Integrations & Security    |    CITSmart ESP 7    |    CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
