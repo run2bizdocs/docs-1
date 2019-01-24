@@ -1,27 +1,27 @@
-title: Importar dados de indicador de capacidade
-Description: Tem o objetivo de importar dados de indicadores de capacidade/performance.
-#Importar dados de indicador de capacidade
-Esta funcionalidade tem o objetivo de importar dados de indicadores de capacidade/performance.
+title: Importar datos de indicador de capacidade
+Description:Ttiene el objetivo de importar datos de indicadores de capacidad/rendimiento. 
+#Importar datos de indicador de capacidade
+Esta funcionalidad tiene el objetivo de importar datos de indicadores de capacidad/rendimiento.
 
-Procedimento
-----------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Capacidade \> Indicadores de Capacidade/Performance;
+1.  Acceder al menú principal Procesos \> Gestión de Capacidad \> Indicadores de
+    Capacidad/Rendimiento;
 
-2.  Clicar na aba **Importar Dados**;
+2.  Hacer clic en la pestaña **Importar Datos**;
 
-3.  São apresentados os modelos de arquivos para orientar na forma e ordem que
-    os dados devem estar no arquivo;
+3.  Se presentan los modelos de archivos para orientar en la forma y orden que
+    los datos deben estar en el archivo;
 
-4.  Antes de selecionar o arquivo, verificar se o mesmo está de acordo com o
-    modelo, levar em consideração o formato (.xls, .xlsx, .xml ou .csv);
+4.  Antes de seleccionar el archivo, comprobar se está de acuerdo con el modelo,
+    tener en cuenta el formato (.xls, .xlsx, .xml ou .csv);
 
-5.  Clicar em "Escolher arquivo" para anexar;
+5.  Hacer clic en "Elegir archivo" para adjuntar;
 
-6.  Clicar em "Enviar".
+6.  Hacer clic en "Enviar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
