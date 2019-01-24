@@ -1,26 +1,26 @@
-title: Cadastrar empresa
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir informações da empresa.
-#Cadastrar empresa
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir informações da empresa.
-
-Procedimento
-----------------
-
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Empresa;
-
-2.  Preencher os campos disponibilizados;
-
-3.  Clicar em "Gravar".
+title: Registrar empresa
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar informaciones de la empresa.
+#Registrar empresa
 
 
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
+informaciones de la empresa.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+Procedimiento
+----------
+
+1.  Acceder al menú principal Registros Generales \> Empresa;
+
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
+
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
 

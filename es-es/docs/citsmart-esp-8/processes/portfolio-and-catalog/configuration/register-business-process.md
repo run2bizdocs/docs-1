@@ -1,58 +1,58 @@
-title: Cadastrar processo de negócio
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um processo de negócio.
-#Cadastrar processo de negócio
+title: Registrar proceso de negocio
+Description: Contribuirá a la entrega de un producto o servicio a los clientes.
+#Registrar proceso de negocio
 
-O Processo de Negócio irá contribuir para a entrega de um produto ou serviço aos
-clientes. Por exemplo: um comerciante pode ter um processo de compra que o ajude
-a entregar serviços a seus clientes. Muitos processos de negócio dependem de
-serviços de TI.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um processo de negócio.
+El proceso de negocio contribuirá a la entrega de un producto o servicio a los
+clientes. Por ejemplo: un comerciante puede tener un proceso de compra que le
+ayude a entregar servicios a sus clientes. Muchos procesos de negocio dependen
+de los servicios de TI.
 
-Antes de começar
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+proceso de negocio.
+
+Antes de empezar
 --------------------
 
-Para cadastrar um processo de negócio é necessário registrar anteriormente o
-cliente, o grupo, a unidade e ter fluxos de trabalho definidos.
+Para registrar un proceso de negocio, es necesario tener registrado el cliente,
+grupo, unidad y flujo de trabajo definido.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Processo de Negócio;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Procesos de Negocio;
 
-2-  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
 !!! Abstract "NOTA"
 
-    A função vital é uma parte de um processo de negócio que é crítico para o
-    sucesso do negócio, ou seja, é a parte do funcionamento do negócio que não
-    pode parar. Imagine, por exemplo, um software que cuida do processo de um
-    caixa automático para saque de dinheiro: provavelmente a função de emitir
-    cédulas para o cliente terá uma criticidade maior do que a função de emitir
-    extratos. Portanto, a primeira tem uma maior probabilidade de ser
-    considerada uma função vital. A função vital é uma consideração importante
-    no gerenciamento de continuidade de serviço.  
+    La función vital es una parte de un proceso de negocio que es crítico para
+    el éxito del negocio, o sea, es la parte del funcionamiento del negocio que
+    no puede parar. Imagine, por ejemplo, un software que cuida el proceso de un
+    cajero automático para la movimentación de dinero: probablemente la función
+    de emitir billetes al cliente tendrá una criticidad mayor que la función de
+    emitir extractos. Por lo tanto, la primera tiene una mayor probabilidad de
+    ser considerada una función vital. Es muy importante tener en cuenta esta
+    función vital en la gestión de continuidad de servicios.
 
-3-  Clicar em "Gravar".
-
+1.  Hacer clic en "Guardar".
 
 Relacionado
 -------
 
-[Cadastrar um cliente](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
+[Registrar cliente](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastra uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
