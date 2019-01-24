@@ -1,31 +1,29 @@
-title: Cadastrar o template de continuidade
-Description: Esta funcionalidade tem por objetivo registrar o template de continuidade.
-#Cadastrar o template de continuidade
-Esta funcionalidade tem por objetivo registrar o template de continuidade, o qual será utilizado para personalizar a tela de registro de testes.
-
-Antes de começar
---------------------
-
-É necessário cadastrar um questionário anteriormente.
-
-Procedimento
+title:  Registrar plantilla de continuidade
+Description: Tiene por objetivo registrar la plantilla de continuidad
+#Registrar plantilla de continuidade
+Esta funcionalidad tiene por objetivo registrar la plantilla de continuidad, que será utilizado para personalizar la pantalla de registro de pruebas.
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Template;
+Es necesario tener registrado un cuestionario.
 
-2.  Na aba **Cadastro**, preencher os campos necessários;
+Procedimiento
+-------------
 
-3.  Clicar no botão "Gravar" para efetuar a operação.
+1.  Acceder al menú principal Procesos \> Gestión de Continuidad \> Plantilla;
+
+2.  En la pestaña **Registro**, completar los campos necesarios;
+
+3.  Hacer clic en "Guardar".
 
 Relacionado
 ----------------
 
-[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Registrar cuestionario](/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
