@@ -44,7 +44,7 @@ Relacionado
 
 [Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-[Cadastrar grupo de item de configuração](https://www.example.com/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 [Registrar custo por hora de indisponibilidade](/pt-br/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
