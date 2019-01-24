@@ -2,6 +2,7 @@ title:  Registrar plantilla de continuidade
 Description: Tiene por objetivo registrar la plantilla de continuidad
 #Registrar plantilla de continuidade
 Esta funcionalidad tiene por objetivo registrar la plantilla de continuidad, que será utilizado para personalizar la pantalla de registro de pruebas.
+
 Antes de empezar
 ----------------
 
