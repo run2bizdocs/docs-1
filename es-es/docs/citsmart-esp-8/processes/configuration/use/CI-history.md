@@ -1,35 +1,33 @@
-title: Verificar histórico de item de configuração
-Description: Permite obter relatório de auditoria do item de configuração.
-#Verificar histórico de item de configuração
-Esta funcionalidade permite obter relatório de auditoria do item de configuração.
+title:  Comprobar el historial de elementos de configuración
+Description: Permite obtener informes de auditoría del elemento de configuración. 
+#Comprobar el historial de elementos de configuración
+Esta funcionalidad permite obtener informes de auditoría del elemento de configuración.
 
-Antes de começar
---------------------
-
-Para ter acesso ao relatório é necessário ter registrado o item de configuração
-previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Configuração \> CMDB;
+Para acceder al informe, es necesario tener registrado el elemento de
+configuración.
 
-2.  Pesquisar o item de configuração e clicar sobre ele;
+Procedimiento
+-------------
 
-3.  Realizar a consulta do item de configuração, clicar sobre a
-    guia **Histórico**.
+1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> CMDB;
 
-!!! Abstract "NOTA"  
+2.  Buscar el elemento de configuración y hacer clic;
 
-    O item de configuração poderá ter um ou mais pontos de restauração
-    (baselines) gerado. E para gerar um, clicar no botão "Gerar Ponto de
-    Restauração".
+3.  Hacer clic en la guía **Historia**;
+
+!!! Abstract "NOTA"
+
+    El ítem de configuración puede tener uno o más puntos de restauración
+    (baselines) generados. Y para generar un, hacer clic en el botón "Generar
+    punto de restauración".
 
 Relacionado
 ----------------
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
