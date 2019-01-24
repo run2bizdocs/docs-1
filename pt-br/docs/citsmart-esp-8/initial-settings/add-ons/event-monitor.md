@@ -18,7 +18,7 @@ Para ativá-lo em uma instância do CITSmart ESP, é necessário fazer o downloa
 Para testar o EVM, [configurar][1] as conexões na instância do CITSmart ESP.  
 
 [1]:/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html  
-[2]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/4.perform-installation.html
+[2]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 
 
 

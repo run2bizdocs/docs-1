@@ -17,12 +17,11 @@ To enable it in a CITSmart ESP instance it is necessary to download the WAR pack
 
 To test the EVM, [configure][1] the connections in the CITSmart ESP instance.  
 
-[1]:/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html  
-[2]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
-
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	
+[1]:/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html  
+[2]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html

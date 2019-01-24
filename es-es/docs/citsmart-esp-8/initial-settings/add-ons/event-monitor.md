@@ -11,14 +11,11 @@ Para ativá-lo em uma instância do CITSmart ESP, é necessário fazer o downloa
 1. Baixar o pacote war do componente EVM;  
 2. Descomprimir os arquivos;  
 3. Copiar o pacote para a pasta de implementação do servidor de aplicação Wildfly;  
-4. Configurar [Propriedades do Sistema][2] com dados de acesso do Mongo e a instância do CITSmart ESP;  
+4. Configurar [Propriedades do Sistema][1] com dados de acesso do Mongo e a instância do CITSmart ESP;  
 
 ## O que fazer a seguir  
 
-Para testar o EVM, [configurar][1] as conexões na instância do CITSmart ESP.  
+Para testar o EVM, [configurar][2] as conexões na instância do CITSmart ESP.  
 
-[1]:/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html  
-[2]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/4.perform-installation.html
-
-
-
+[1]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html
