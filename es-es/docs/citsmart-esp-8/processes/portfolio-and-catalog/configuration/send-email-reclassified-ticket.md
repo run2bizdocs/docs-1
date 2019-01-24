@@ -2,13 +2,6 @@ title: Implementar forma de envío de e-mail a ticket reclasificado
 Description: Conocimiento permite implementar el modo de envío de e-mail a ticket reclasificado, así que los tickets reclasificados tendrán una plantilla de e-mail propio a ser enviado al solicitante.
 #Implementar forma de envío de e-mail a ticket reclasificado
 
-Este conhecimento permite implementar a forma de envio de e-mail para ticket
-reclassificado, assim os tickets reclassificados terão um modelo de e-mail
-próprio a ser enviado ao solicitante. A reclassificação poderá ser realizada no
-portfólio, não somente no fluxo.
-
-No portfólio é informado o modelo de e-mail de reclassificação de um incidente
-ou requisição.
 
 Este conocimiento permite implementar el modo de envío de e-mail a ticket
 reclasificado, así que los tickets reclasificados tendrán una plantilla de
