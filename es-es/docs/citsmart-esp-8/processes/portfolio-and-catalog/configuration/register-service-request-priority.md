@@ -1,53 +1,55 @@
-title: Cadastrar prioridade de solicitações de serviço
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir a prioridade de solicitações de serviço.
-#Cadastrar prioridade de solicitações de serviço
+title: Registrar prioridad de la solicitud de servicio
+Description: Permite definir la matriz de prioridad para calcular el tiempo de atención (SLA) de la solicitud de servicio dinámicamente.
+#Registrar prioridad de la solicitud de servicio
 
-A funcionalidade de prioridade de solicitações de serviço permite definir a
-matriz de prioridade para calcular o tempo de atendimento (SLA) da solicitação
-de serviço dinamicamente. A prioridade será usada para identificar a importância
-relativa da solicitação de serviço e para identificar os tempos requeridos para
-que ações adequadas sejam tomadas.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir a prioridade de solicitações de serviço.
+La función de prioridad de las solicitudes de servicio, permite definir la
+matriz de prioridad para calcular el tiempo de atención (SLA) de la solicitud de
+servicio dinámicamente. La prioridad se utilizará para identificar la
+importancia relativa de la solicitud de servicio y para identificar los tiempos
+requeridos para que las acciones adecuadas sean tomadas.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar la
+prioridad de las solicitudes de servicio.
+
+Antes de empezar
 --------------------
 
-Para cadastrar uma prioridade de solicitação de serviço é preciso configurar o
-parâmetro 104 com valor "S".
+Para registrar una prioridad de solicitud de servicio, es necesario configurar
+el parámetro 104 con el valor "S".
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Prioridade Solicitações Serviço;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Prioridad Solicitudes Servicio;
 
-2.  Preencher os campos disponibilizados quanto ao Impacto, clicar em "Gravar
+2.  Completar los campos disponibles para el Impact, hacer clic en "Guardar
     Impacto";
 
-3.  Preencher os campos disponibilizados quanto a urgência, clicar em "Gravar
-    Urgência";
+3.  Completar los campos disponibles para la Urgencia, hacer clic en "Guardar
+    Urgencia";
 
-4.  Preencher os campos disponibilizados quanto a matriz de prioridade, clicar
-    em "Gravar Matriz de Prioridade".
+4.  Completar los campos dispobiles para la matriz de prioridad, hacer clic en
+    "Guardar Matriz de Prioridad".
 
-5.  Vale lembrar que após registro da matriz de prioridade, quando registrar uma
-    solicitação de serviço, o tempo de atendimento (SLA) será estabelecido de
-    acordo com o nível de impacto e nível de urgência informados, sendo
-    considerado a matriz de prioridade. Lembrando que para isso ocorrer o
-    parâmetro deve estar habilitado.
+5.  Es importante recordar que después de registrar la matriz de prioridad, al
+    registrar una solicitud de servicio, el tiempo de atención (SLA) será
+    establecido de acuerdo con el nivel de impacto y nivel de urgencia
+    informados, siendo considerado la matriz de prioridad. Recordando que para
+    que esto ocurra, el parámetro debe estar habilitado.
+
 
 
 Relacionado
 -----------
 
-[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
