@@ -76,7 +76,7 @@ Relacionado
 
 [Configurar parametrización -sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-Anexo
+Adjunto
 ----------
 [Download - Aprobación][1]
 
