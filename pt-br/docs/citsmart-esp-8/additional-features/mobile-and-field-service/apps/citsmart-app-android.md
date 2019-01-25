@@ -158,6 +158,7 @@ Figura 8 - Lista de solicitação do grupo
     baixo:
 
 ![Lista de solicitações](images/app-android-pt-9.jpg)
+
 Figura 9 - Lista de solicitações
 
 !!! Abstract "REGRA"
