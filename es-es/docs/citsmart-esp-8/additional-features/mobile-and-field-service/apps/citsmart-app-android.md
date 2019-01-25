@@ -88,7 +88,7 @@ Figura 3 - Registro de conexión
 
 7-  Introduzca los datos:
 
-   -  *Nombre*: introducir el nombre de la conexión que desea conectar;
+   -  **Nombre**: introducir el nombre de la conexión que desea conectar;
 
    -  **URL del servidor**: introducir la dirección del servidor para la
         conexión. Se debe colocar el protocolo (http://) en la URL;
