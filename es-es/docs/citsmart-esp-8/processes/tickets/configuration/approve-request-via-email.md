@@ -1,89 +1,93 @@
-title: Aprovar solicitação via e-mail
-Description: Tem por objetivo aprovar ou rejeitar a solicitação de um ticket por meio do e-mail, sem a necessidade do administrador estar logado.
-#Aprovar solicitação via e-mail
+title: Aprobar solicitud por correo electrónic
+Description: Aprobar o rechazar la solicitud de un ticket a través del e-mail, sin la necesidad de que el administrador esté registrado.
+#Aprobar solicitud por correo electrónico
 
-Esta funcionalidade tem por objetivo aprovar ou rejeitar a solicitação de um
-ticket por meio do e-mail, sem a necessidade do administrador estar logado.
 
-Antes de começar
+Esta funcionalidad tiene por objeto aprobar o rechazar la solicitud de un ticket
+a través del e-mail, sin la necesidad de que el administrador esté registrado.
+
+Antes de empezar
 --------------------
 
-Para realizar a configuração do e-mail no ticket é necessário registrar
-previamente o usuário, o grupo e configurar os parâmetros 33 e 370 conforme
-orientações das regras de parametrização referente a sistema. Também é preciso
-saber desenhar fluxo de aprovação de solicitação via e-mail cadastrado. Neste
-fluxo deverá existir a tarefa "Aprovação" e o desenho para envio de e-mail,
-cadastrar o modelo de e-mail com o modelo "Aguardando Aprovação" que se encontra
-em anexo e o servidor de e-mail deverá ser configurado com todos os parâmetros
-referentes a regras de parametrização de e-mail.
+Para hacer la configuración del e-mail en el ticket, es necesario registrar
+previamente el usuario, grupo y configurar los parámetros 33 y 370 conforme
+orientaciones de las reglas de parametrización referente al sistema. También es
+necesario saber dibujar y tener registrado el flujo de aprobación de solicitud
+vía e-mail. En este flujo, deberá existir la tarea "Aprobación" y el diseño para
+envío de e-mail, registrar el modelo de e-mail con el modelo "Aguardando
+Aprobación", y el servidor de correo electrónico deberá ser configurado con
+todos los parámetros referentes a las reglas de parametrización de correo
+electrónico.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Manutenção de fluxos;
+1.  Acceder a la funcionalidad en el menú principal Sistema \> Mantenimiento de
+    flujos;
 
-2.  Selecionar o fluxo de aprovação de solicitação e clicar em "Editar";
+2.  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";
 
-3.  Na aba **Diagrama**;
+3.  Clic en la pestaña **Diagrama**;
 
-4.  No fluxo de aprovação de solicitação clicar no ícone "Envio de mensagem - email" e em seguida na pequena caixa cinza próxima ao conector configurado;
+4.  En el flujo de aprobación de solicitud, haga clic en el icono  y después en
+    el icono  para configurarlo;
 
-5.  Cadastrar, na aba **Identificação**, o nome e o modelo de e-mail a ser
-    utilizado;
+5.  Registrar, en la pestaña **Identificación**, el nombre y modelo de correo
+    electrónico a utilizarse;
 
-6.  Configurar, na aba **Destinatários**, os tipos destinatários (grupo/usuário)
-    do e-mail a ser enviado (o sistema não busca destinatários via "Expressão").
+6.  Configurar, en la pestaña **Destinatarios**, los tipos de destinatarios
+    (grupo/usuario) del correo electrónico que se va enviar (el sistema no hace
+    búsqueda por destinatarios por "Expresión".
 
-*Configurar a notificação de aprovação do e-mail*
+*Configurar la notificación de aprobación del correo electrónico*
 
-1.  Acessar a funcionalidade através do menu Sistema \> Configurações \>
-    Modelo de e-mail;
+1.  Acceder a la funcionalidad en el menú** **Sistema \> Configuración \> Modelo
+    de e-mail;
 
-2.  Colar o modelo de e-mail disponibilizado em HTML em anexo, no campo Texto e
-    verificar as seguintes diretrizes:
+2.  Pegar el modelo de correo electrónico disponible en HTML adjunto en el campo
+    Texto y comprobar las siguientes directrices:
 
-    -   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+-   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
-    -   serviceRequestIncident = Direcionamento da interface : esse campo não pode
-        ser alterado pelo usuário;
+-   serviceRequestIncident = Dirección de la interface : este campo no puede ser
+    cambiado por el usuario;
 
-    -   \${IDSOLICITACAOSERVICO} = Chave para incrementar o número da solicitação de
-        serviço : esse campo não pode ser alterado pelo usuário;
+-   \${IDSOLICITACAOSERVICO} = Clave para incrementar el número de solicitud de
+    servicio: este campo no puede ser cambiado por el usuario;
 
-    -   VIEW - chama o comando para abrir a solicitação : esse campo não pode ser
-        alterado pelo usuário;
+-   VIEW - llama al comando para abrir la solicitud: este campo no puede ser
+    cambiado por el usuario;
 
-    -   MM (50) - Tempo de expiração do token em Minutos : esse campo pode ser
-        alterado pelo usuário;
+-   MM (50) - Tiempo de expiración del token en minutos: este campo puede ser
+    cambiado por el usuario;
 
-1.  Clicar em "Gravar".
+1.  Haga clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Configurar parametrização - email](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
+[Configurar parametrización - correo eletronico](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
-[Configurar parametrização -sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización -sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 Anexo
 ----------
-[Download - Approval][1]
+[Download - Aprobación][1]
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-esp-8/processes/tickets/images/approval.docx
+[1]:/pt-br/citsmart-esp-8/processes/tickets/images/aprobacion.docx
