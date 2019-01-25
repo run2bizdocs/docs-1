@@ -2,6 +2,7 @@ title:  Delegar ticket
 Description: La opción de delegar el Ticket permite encargar su ejecución a un usuario o grupo deseado. 
 #Delegar ticket
 La opción de delegar el Ticket permite encargar su ejecución a un usuario o grupo deseado. De forma obligatoria, sólo será posible asignar la responsabilidad a grupos al que pertenece también el delegante, lo que también ocurre al optar por un usuario (sólo serán facultados los miembros de los grupos al que pertenece el incumbente).
+
 Antes de empezar
 ----------------
 
