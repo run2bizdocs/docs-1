@@ -22,7 +22,7 @@ solicitudes de servicios.
     botón "Generar informe analítico XLS" para generar el informe detallado en
     Excel.
 
-Generar informe gantt
+Generar informe Gantt
 -------------------------
 
 Este informe tiene el objetivo de presentar los incidentes y solicitudes de
