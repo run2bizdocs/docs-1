@@ -30,7 +30,7 @@ Procedimiento
     el mensaje de "fecha no válida". Esto es porque la funcionalidad necesita que el
     el idioma definido en el sistema y en el explorador utilizado son idénticos.
 
-    Si este requisito no se observa y se produce esta diferencia en los idiomas,
+    Si este requisito no se observa y se produce esta diferencia en los idiomas,
     auditar los tickets el sistema presentará un mensaje lo que imposibilitará
     obtener el informe deseado.
 
