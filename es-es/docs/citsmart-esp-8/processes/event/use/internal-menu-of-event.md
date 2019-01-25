@@ -1,43 +1,42 @@
-title: Menu interno do gerenciamento de eventos
-Description: Tem por objetivo demonstrar as demais funcionalidades as informações contidas no registro de um evento. 
-#Menu interno do gerenciamento de eventos
+title:  Menú interno de la gestión de eventos 
+Description: tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
+#Menú interno de la gestión de eventos
+Esta funcionalidad tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
 
-Esta funcionalidade tem por objetivo demonstrar as demais funcionalidades as informações contidas no registro de um evento.
-
-Antes de começar
---------------------
-
-Para visualizar as informações é necessário ter o evento cadastrado.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+Para ver las informaciones, es necesario tener registrado el evento.
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”;
+Procedimiento
+-------------
 
-3.  Clicar no ícone do menu localizado no canto superior esquerdo da tela;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
 
-4.  Clicar no botão Ações";
+2.  Hacer clic en el evento y después en el botón “Abrir”;
 
-5.  Clicar no botão "Executar" e uma nova tela é apresentada que mostra e
-    disponibiliza a requisição/incidente para executá-lo normalmente (encerrar,
-    capturar, etc.);
+3.  Hacer clic en el icono del menú situado en la esquina superior izquierda de
+    la pantalla;;
 
-6.  Clicar no botão "Ocorrências relacionadas" e serão exibidas;
+4.  Hacer clic en "Acciones";
 
-7.  Clicar no botão "Conhecimentos relacionados" para relacionar um conhecimento
-    existente ou criar um novo.
+5.  Hacer clic en "Ejecutar" y se presentará una nueva pantalla que muestra y
+    hace disponible la solicitud/incidente para ejecutarlo normalmente (cerrar,
+    capturar, etc);
+
+6.  Hacer clic en "Ocurrencias relacionadas";
+
+7.  Hacer clic en "Conocimientos relacionados" para relacionar un conocimiento
+    existente o crear un nuevo.
 
 Relacionado
 ----------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
