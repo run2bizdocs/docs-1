@@ -38,14 +38,14 @@ Procedimiento
 
 4-  Si ha finalizado la llamada del ticket, en el área "Cierre", cambie la
     situación del mismo a "Resuelta", simplemente haga clic en la situación para
-    cambiar. Informar también los datos sobre la solución hecha:
+    cambiar. Informar también los datos sobre la solución hecha:  
 
-    -   Si el tipo de ticket es Incidente o Incidente, completar los campos
-        necesarios (Causa, categoría de solución, detalle de la causa, solución
-        de respuesta, definir si la "solución de respuesta" en la base de
-        conocimientos y si la solución es temporal). Si ha optado por "Guardar
-        la solución/respuesta en la base de conocimiento", al guardar el ticket,
-        el conocimiento se crea y se vincula al ticket;
+   -  Si el tipo de ticket es Incidente o Incidente, completar los campos
+      necesarios (Causa, categoría de solución, detalle de la causa, solución
+      de respuesta, definir si la "solución de respuesta" en la base de
+      conocimientos y si la solución es temporal). Si ha optado por "Guardar
+      la solución/respuesta en la base de conocimiento", al guardar el ticket,
+      el conocimiento se crea y se vincula al ticket;  
 
 5-  Hacer clic en el botón de opciones y después en "Guardar".
 
