@@ -1,31 +1,35 @@
-title: Importar os dados de contratos
-Description: Tem o objetivo de realizar a importação dos dados de contratos.
-#Importar os dados de contratos
-Esta funcionalidade tem o objetivo de realizar a importação dos dados de contratos.
+title: Importar los datos de contratos
+Description: Realizar la importación de los datos de contratos.
+#Importar los datos de contratos
 
-Procedimento
-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contrato \> Importar;
+Esta funcionalidad tiene el objetivo de realizar la importación de los datos de
+contratos.
 
-2.  Selecionar o contrato, se necessário. Lembrar que se o arquivo não fizer
-    referência a um contrato, não se deve selecionar o contrato, basta adicionar
-    o arquivo para importação dos dados;
+Procedimiento
+-----------------
 
-3.  Clicar no botão "Escolher arquivo", para selecionar e anexar o arquivo;
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Importación;
 
-4.  Informar uma breve descrição do arquivo e apertar no botão "Adicionar";
+2.  Seleccionar el contrato, si es necesario. Recordar que si el archivo no hace
+    referencia a un contrato, no se debe seleccionar el contrato, basta añadir
+    el archivo para importar los datos;
 
-5.  Após a adição do arquivo, clicar no botão "Importar";
+3.  Hacer clic en "Escolher arquivo", para seleccionar y adjuntar el archivo;
 
-6.  Para confirmar a importação, clicar em "OK" para efetuar a operação. Lembrar
-    que ao fazer a importação dos dados, o sistema irá manter os dados
-    existentes e adicionar somente os dados não existentes.
+4.  Informar una breve descripción del archivo y hacer clic en "Agregar";
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+5.  Después de agregar el archivo, hacer clic en "Importar";
+
+6.  Para confirmar la importación, hacer clic en "Ok". Recordar que al hacer la
+    importación de los datos, el sistema mantendrá los datos existentes y
+    agregará sólo los datos no existentes.
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Anna Martins
