@@ -1,64 +1,67 @@
-title: Criar modelo de template de incidente, requisição e procedimento
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um template para facilitar a abertura de uma nova solicitação.
-#Criar modelo de template de incidente, requisição e procedimento
+title: Crear modelo de plantilla de incidente, solicitud y procedimiento
+Description: Registrar una plantilla para facilitar la apertura de una nueva solicitud.
+#Crear modelo de plantilla de incidente, solicitud y procedimiento
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um template para facilitar a abertura de uma nova solicitação.
 
-Antes de começar
+Esta funcionalidad tiene por objetivo registrar una plantilla para facilitar la
+apertura de una nueva solicitud.
+
+Antes de empezar
 --------------------
 
-Para cadastrar um modelo/template de ticket é necessário registrar previamente o
-contrato e este estar vinculado ao serviço, o grupo e este estar vinculado ao
-contrato, a unidade e esta estar vinculada ao contrato, ter acesso à
-funcionalidade de Modelo de Ticket, ter o portfólio com o serviço e as
-atividades de requisição e incidente e estarem vinculadas ao contrato de
-serviço, ter o tempo de atendimento das atividades de requisição e incidente
-definidos, o solicitante deve estar incluído no grupo que está vinculado ao
-contrato para que seja possível registrar a solicitação e configurar o parâmetro
-9.
+Para registrar una plantilla de ticket, es necesario registrar previamente el
+contrato y hacer enlace con el servicio y grupo, que debe hacer enlace con el
+contrato y la unidad, que debe hacer enlace con el contrato; tener acceso a la
+funcionalidad de Plantilla de Ticket; tener el portafolio con el servicio y las
+actividades de solicitud y incidente, que deben hacer enlace con el contrato de
+servicio; tener el tiempo de atención de las actividades de solicitud e
+incidente definidos; el solicitante debe estar incluso en el grupo que hace
+enlace con el contrato para que sea posible registrar la solicitud; y configurar
+el parámetro 9.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Requisição e Incidente \> Modelo de Ticket;
+1.  Acceder a la funcionalidad Plantilla de
+    Incidentes/Solicitudes/Procedimientos a través del menu principal Procesos
+    \> Gestión de Requirimiento e Incidente \> Modelo de Ticket;
 
-2.  Preencher os campos disponibilizados;
+2.  Llenar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Haga clic en "Guardar".
+
 
 
 Relacionado
 -------
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Registrar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configurar atributos del contrato de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Configurar parametrização- ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización- ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins
 
 
