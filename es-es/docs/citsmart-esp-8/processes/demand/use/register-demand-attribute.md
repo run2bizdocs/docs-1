@@ -1,23 +1,22 @@
-title: Cadastrar atributo de demanda
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir atributos de demanda.
- 
-#Cadastrar atributo de demanda
-Esta funcionalidade tem o objetivo de cadastrar os atributos da demanda que serão vinculados aos Serviços e Itens de Configuração (IC).
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir atributos de demanda.
+title:  Registrar atributo de la demanda 
+Description: Tiene el objetivo de registrar los atributos de la demanda que serán vinculados a los Servicios y Elementos de Configuración (EC). 
+#Registrar atributo de la demanda
+Esta funcionalidad tiene el objetivo de registrar los atributos de la demanda que serán vinculados a los Servicios y Elementos de Configuración (EC).
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un atributos de la demanda.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Demanda \> Atributo da Demanda;
+1.  Acceder al menú principal Procesos \> Gestión de Demanda \> Atributo de
+    la Demanda;
 
-2.  Clicar na aba **Registrar**;
+2.  Hacer clic en la pestaña **Registrar**;
 
-3.  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4.  Clicar em "Gravar".
+4.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
