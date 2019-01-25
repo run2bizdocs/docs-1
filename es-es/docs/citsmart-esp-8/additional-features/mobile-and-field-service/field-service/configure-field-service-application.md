@@ -1,32 +1,39 @@
-title: Configurar aplicativo CITSmart Field Service
-Description: O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline
-#Configurar aplicativo CITSmart Field Service
-O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
- O atendente visualizará apenas solicitações que foram delegadas a ele.
+title: Configurar aplicación CITSmart Field Service
+Description: La aplicación CITSmart FS permite atender en modo offline - en las que el operador no tiene internet.
+#Configurar aplicación CITSmart Field Service
 
-Antes de começar
-----------------
+La aplicación CITSmart FS permite atender en modo offline - en las que el
+operador no tiene internet. Una vez que la aplicación se conecta a Internet,
+enviará automáticamente la información al ambiente en producción. Es importante
+recordar que la delegación de la solicitud a un empleado debe ser hecha
+manualmente por un responsable.
 
-1.  Instalar o aplicativo CITSmart FS;
+Los asistentes visualizará sólo las solicitudes que se los delegaron.
 
-2.  No ambiente - instância do CITSmart -, configurar as seguintes
+Antes de empezar
+--------------------
+
+1-  Instalar la aplicación CITSmart FS;
+
+2-  En el ambiente - instancia del CITSmart - , configurar las siguientes
     funcionalidades:
 
--   Webservice: indicar no item "permissões" os grupos de atendimento que poderão visualizar os tickets;
+  -   Webservice: indicar en el ítem "permisos" los grupos de atención que podrán
+      ver los tickets;
 
--   Unidade: obter as coordenadas da unidade cadastrada.
+  -   Unidad: obtener las coordenadas de la unidad registrada.
 
-Procedimento
-------------
+Procedimiento
+-----------------
 
 *Webservice*
 
-1- Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
-    Operação Webservice;
+1-  Acceder al menú menu principal Sistema \> Web Service \> Operación del Web
+    Service;
 
-2-  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
-    abaixo, em seguida em cada um clicar no botão "Adicionar grupo" e incluir
-    o(s) grupo(s) que o(s) atendente(s) estão vinculados:
+2-  En la pestaña **Consulta de Operaciones**, buscar por cada uno de los
+    webservices abajo, y después, en cada uno de ellos, hacer clic en "Añadir
+    grupo" e incluir el grupo que los atendentes están vinculados:
 
 -   request_add_attachments
 
@@ -40,32 +47,35 @@ Procedimento
 
 -   request_getByUser
 
-3-.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
+3-  Hacer clic en "Guardar" después de configurar los grupos en cada webservice.
 
-*Unidade*
+*Unidad*
 
-1-  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
-    Gerência de Pessoal \> Unidade:
+1-  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Unidad:
 
-2-  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida:
+2-  Buscar por la unidad en la pestaña Búsqueda de Unidades para seleccionar la
+    unidad:
 
-3-  Na aba Cadastro de Unidade com a unidade já escolhida, clicar no botão
-    "Obter Coordenadas"
+3-  En la pestaña Registro de Unidad, con la unidad ya seleccionada, hacer clic
+    en "Obtener Coordenadas"
 
-4-  Clicar em "Gravar".
+4-  Hacer clic en "Guardar".
 
-O que fazer a seguir
---------------------
+Lo que hacer después
+----------
 
-Logar no aplicativo CITSmart FS já instalado, inserindo a URL, usuário e a senha
-do ambiente. Verificar os tickets e realizar atendimento.
+Inicie sesión en la aplicación CITSmart FS ya instalada, insertando la dirección
+URL, el usuario y la contraseña del ambiente. Comprobar los tickets y hacer la
+atención.
+
 
 Relacionado
 -----------
 
-[Manual de utilização do CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilización del CITSmart Field Service](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
