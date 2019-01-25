@@ -1,36 +1,35 @@
-title: Criar uma requisição de mudança a partir de um evento
-Description: Tem por objetivo criar uma requisição de mudança em um evento.
-#Criar uma requisição de mudança a partir de um evento
-Esta funcionalidade tem por objetivo criar uma requisição de mudança em um evento.
+title:  Crear solicitud de cambio desde un evento
+Description: Tiene por objetivo la creación de una solicitud de cambio en el evento.
+#Crear solicitud de cambio desde un evento
+Esta funcionalidad tiene por objetivo la creación de una solicitud de cambio en el evento.
 
-Antes de começar
---------------------
-
-A funcionalidade requer o registro de evento previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+Es necesario tener registrado el evento.
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Mais Opções”;
+Procedimiento
+-------------
 
-3.  Clicar no botão "Criar requisição de mudança";
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
 
-4.  Preencher os campos;
+2.  Hacer clic en el evento y después en el botón “Más Opciones”;
 
-5.  Clicar no botão “Opções” e em seguida no botão "Salvar".
+3.  Hacer clic en "Crear solicitud de cambio";
+
+4.  Completar los campos;
+
+5.  Hacer clic en el botón “Opciones” y después en "Grabar".
 
 Relacionado
 ----------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
