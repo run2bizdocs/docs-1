@@ -54,7 +54,7 @@ Relacionado
 
 [Registrar grupo de actividad periódica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Registrar unidade](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 
 !!! tip "About"
