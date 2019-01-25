@@ -1,127 +1,127 @@
-Title: Comparativo ESP 7 vs 8
+Title: Comparación - ESP 7 vs 8
 
-# CITSmart ESP 7 vs 8 gráfico comparativo
+# Comparación - CITSmart ESP 7 vs 8
 
-| Suporte, Gestão de Processos, Recursos, Integrações e Segurança    |    CITSmart ESP 7    |    CITSmart ESP 8    |
+| Soporte, Procesos Gerenciales, Funcionalidades, Integraciones e Seguridad    |    CITSmart ESP 7    |    CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
-|    Aplicação Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Aplicación Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Android app                                    |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Suporte**                                        |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
-|    Telefone                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Suporte online                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Documentação                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Tutoriais em video                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Gerenciamento de Processos**                           |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
-|    Gerenciamento de Portfólio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Catálogo de Serviço                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Nível de Serviço                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Gerenciamento de Mudança][1]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Gerenciamento de Liberação][2]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Gerenciamento de Conhecimento][3]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Gerenciamento de Configuração e Ativos][4]        |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Gerenciamento de Eventos                               |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Gerenciamento de Ticket][5]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Gerenciamento de Problema                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Continuidade                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Disponibilidade                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Capacidade                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Demanda                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Recursos**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
-|    [Simple - Agile Project Management][6]          |:no_entry_sign:|:new:           |
-|    Gerenciamento de Tarefas com Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Centro de Experiência][7]               |:no_entry_sign:|:new:           |
-|    [Alertas/Escalonamento][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    **Soporte**                                        |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Teléfono                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Soporte en línea                               |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    documentación                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Tutoriales en Vídeo                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Procesos Gerenciales**                           |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Gestión de Portafolio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Catálogo de Servicio                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Nivel de Servicio                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gestión de Cambio][1]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gestión de Liberación][2]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gestión de Conocimiento][3]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gestión de Activos y Configuración][4]        |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gestión de Eventos                              |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gestión de Ticket][5]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gestión de Problema                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Continuidad                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Disponibilidad                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Capacidad                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de Demanda                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Funcionalidades**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    [Simple - Gestión de Proyecto Ágil][6]          |:no_entry_sign:|:new:           |
+|    Gestión de Tareas con Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Centro de Experiencia con los Usuarios][7]               |:no_entry_sign:|:new:           |
+|    [Alertas / Escalonamiento][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Chat] [9]                                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Portal do Conhecimento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Dashboards e Relatórios Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Apliacação CITSmart][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Mobile e Field Service][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Gerenciamento de Contrato                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Gerenciamento de Projeto                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Gestão de Fluxo de trabalho][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Construção de Relatórios Dinâmicos                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Surveys e Feedback][14]                           |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Portal del Conocimiento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Dashboards e Informes Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [CITSmart Neuro aplicación][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile y Field Service][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Gestión de contratos                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Gestión de proyectos                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Gestión de flujo de trabajo][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    Constructor dinámico de informes                    |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    [Surveys y Feedback][14]                           |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    Portal de Serviços                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Portal de Servicios                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Formulários Customizados][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Formularios customizados][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
-|    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
+|    [Anuva aplicación - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
-|    **Integrações**                                   |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Integraciones**                                   |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Zabbix                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
 |    Asterisk                                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Saiku][20]                                          |:no_entry_sign:|:new:          |
-|    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Securança**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    Correo Electrónico                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    **Seguridad**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
+## ¿Qué hay de nuevo?
 
-## O que há de novo?
+### Gestión de Cambio
+En esta versión, el proceso de cambio ha sido renovado, proporcionando un uso más simple de la funcionalidad. Es posible gestionar las fases del cambio de manera comprensible y descomplicado, al concentrarlas en una interfaz de gestión ágil.
 
-### Gerenciamento de Mudança
-Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
+### Gestión de Liberación
+En esta versión, la funcionalidad fue remodelada para permitir una mayor facilidad en su uso, caracterizándose por una interacción más intuitiva. Se la distingue de la versión anterior al presentar una secuencia de fases de la liberación de manera más lógica y sin complicaciones, añadiendo recursos para organizar y mejorar la gestión de actividades, concentrándose en un único lugar, todos los esfuerzos para hacer los cambios.
 
-### Gerenciamento de Liberação
-Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequências das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
+### Gestión de Conocimiento
+En esta actualización se ha mejorado la Gestión del Conocimiento, para que el usuario que no tenga acceso y contraseña, también tenga acceso a la información de la base de conocimiento; además de la búsqueda en el Portal del conocimiento/Guía del usuario, que se ha vuelto más eficaz con el uso de tags.
 
-### Gerenciamento de Conhecimento
-Nesta atualização o Gerenciamento de Conhecimento foi aprimorado para que o usuário que não possua login e senha também tenha acesso às informações da base de conhecimento, além da pesquisa no Portal do conhecimento/Guia do Usuário ter se tornado mais eficaz com o uso de tags.
+### Gestión de Activos y Configuración
+La Gestión de Activos y Configuración, en lo que se refiere al CMDB, hubo una reformulación visual del layout, permitiendo así que el usuario tenga un mejor control de todo el proceso de la gestión de los elementos de configuración.
 
-### Gerenciamento de Ativos e Configuração
-O Gerenciamento de Ativos e Configuração, no que tange ao CMDB houve uma reformulação visual do layout, permitindo assim que o usuário tenha um melhor controle de todo o processo de gestão dos itens de configuração.
+### Gestión de Ticket
+En esta nueva actualización, la Gestión de Ticket, además de las tareas ya realizables en la versión anterior, adquirió un nuevo layout en el registro de un servicio, con nuevos grupos de funcionalidades, trayendo para el usuario mayor agilidad.
 
-### Gerenciamento de Ticket
-Nesta nova atualização o Gerenciamento de Ticket, além das tarefas já realizáveis na versão anterior, adquiriu um novo layout no cadastro de um serviço, com novos grupos de funcionalidades, trazendo para o usuário maior agilidade.
+### Gestión de Proyecto Ágil - Simple
+La nueva herramienta orientadora de tareas del CITSmart trae una idea de simplificar, en un solo lugar, todo el ciclo de vida de una tarea/atención. Como el propio nombre dice, el Simple busca agilizar aún más el cotidiano de una organización, con mayor y mejor visualización de un proceso y control de los involucrados.
 
-### Gestão de Projeto Ágil - Simple
-A nova ferramenta orientadora de tarefas do CITSmart traz uma ideia de simplificar em um só lugar todo o ciclo de vida de uma tarefa/atendimento. Como o próprio nome diz, o Simple busca agilizar mais ainda o cotidiano de uma organização, com maior e melhor visualização de um processo e controle dos envolvidos.
+### Centro de Experiencia con los Usuarios
+En esta versión, CITSmart innova por disponibilizar al usuario la posibilidad de personalizar, con las características propias de su organización, un portal con la información necesaria para el buen funcionamiento de la empresa. Esto se hace de forma sencilla y accesible, permitiendo al cliente una mayor autonomía dentro del sistema.
 
-### Centro de Experiência com o Usuário
-Nesta versão, a CITSmart inova ao disponibilizar ao usuário a possibilidade de personalizar, com as características próprias de sua organização, um portal com as informações necessárias ao bom funcionamento da empresa. Isto é feito de forma simples e acessível, permitindo ao cliente uma maior autonomia dentro do sistema.
-
-### Alertas / Escalonamento
-A funcionalidade de escalonamento foi redirecionada para dentro da funcionalidade Requisição e Incidente, tendo o layout reformulado, trazendo assim maior simplicidade no cadastro de regras de escalonamento e seu gerenciamento.
+### Alertas / Escalonamiento
+La funcionalidad de escalonamiento fue redirigida dentro de la funcionalidad Solicitud e Incidente, teniendo el layout reformulado, trayendo así mayor simplicidad en el registro de reglas de escalonamiento, además de su gestión.
 
 ### Chat
-A nova versão além de passar por uma reformulação, teve incorporado recursos de inteligência artificial (Anuva) para possibilitar atendimentos automáticos sem necessidade de interação humana.
+En esta versión, además de pasar por una reformulación, fue incorporado al recurso de chat, el uso de inteligencia artifical para posibilitar atenciones automáticas, sin la necesidad de interacción humana.
 
-### Portal do Conhecimento
-A versão 8 apresenta um Portal de Conhecimento mais inclusivo e com pesquisas mais eficientes. É possível, doravante, um usuário acessar a funcionalidade sem estar logado no sistema e buscar artigos com filtros mais refinados, tais como as tags (palavras chaves).
+### Portal del Conocimiento
+La versión 8 presenta un Portal de Conocimiento más inclusivo y con búsquedas más eficientes.  Es posible, en adelante, que un usuario acceda a la funcionalidad sin estar conectado al sistema, además de buscar artículos con filtros más refinados, como las etiquetas (palabras clave).
 
-### Aplicação CITSmart Neuro
-Nesta atualização, a engine de aplicativos Neuro foi aprimorada de modo a possibilitar a geração diversos recursos como a criação de formulários complexos, criação de widgets, construção de fluxos avançados, dentre outros.
+### CITSmart Neuro Application
+En esta actualización, el motor de aplicaciones Neuro se ha mejorado para permitir la generación de diversos recursos, como la creación de formularios complejos y widgets, la construcción de flujos avanzados, entre otros.
 
-### Mobile e Field Service
-A CITSmart sempre conectada com as necessidades de seus clientes, lança um novo aplicativo chamado “CITSmart FS” que permite a gestão de atendimentos realizados por técnicos em campo no modo offline, permitindo que cliente realize seus trabalhos de forma ininterrupta.
+### Mobile y Field Service
+CITSmart, siempre conectada a las necesidades de sus clientes, lanza una nueva aplicación llamada "CITSmart FS", que permite la gestión de atenciones hechas por técnicos en campo en modo offline, permitiendo que el cliente realice sus trabajos de forma ininterrumpida.
 
-### Gestão de fluxo de trabalho
-Nesta versão, foram implementadas diversas funcionalidades que possibilitam a criação e manutenção de fluxos mais rápida e versátil. Além disso, agora é possível importar fluxos BPMN e utilizar subprocessos.
+### Gestión de flujo de trabajo
+En esta versión, se implementaron diversas funcionalidades que posibilitan la creación y mantenimiento de flujos de modo más rápido y versátil. Además, ahora es posible importar flujos BPMN y utilizar subprocesos.
 
-### Surveys e Feedback
-Agora é possível criar questionários e aplicar em diferentes cenários (pesquisas internas e externas) e também na avaliação de serviços.
+### Surveys y Feedback
+Ahora es posible crear cuestionarios y aplicarlos en diferentes escenarios (encuestas internas y externas) y también en la evaluación de servicios.
 
-### Formulários customizados
-A Funcionalidade foi totalmente remodelada o que possibilita a criação de formulários rapidamente.
+### Formularios customizados
+La Funcionalidad ha sido totalmente remodelada, lo que posibilita la creación de formularios rápidamente.
 
-### Anuva Application | Inteligência Artificial
-Foi desenvolvida para realizar a análise de dados a partir de inteligência cognitiva de modo a otimizar a gestão de processos como Gestão de Ticket, Gestão de Mudança e Gestão de Conhecimento.
+### Anuva Application | Inteligencia Artificial
+Se la fue desarrollada para hacer el análisis de datos a partir de inteligencia cognitiva, para optimizar la gestión de procesos, como la Gestión de Ticket, Gestión de Cambio y Gestión de Conocimiento.
 
 ### Smart Analytics
-Permite integração com a ferramenta Saiku o que possibilita análises fantásticas nos dados do CITSmart SM permitindo a criação de dashboards, painéis re relatórios.
+Permite la integración con la herramienta Saiku, lo que posibilita análisis fantásticos en los datos del CITSmart SM, permitiendo la creación de dashboards, paneles e informes.
 
 ### IBM Watson
-Integração com a solução IBM Watson o que permite o uso de inteligência cognitiva nos fluxos de trabalho do CITSmart.
+Integración con la solución IBM Watson, que permite el uso de inteligencia cognitiva en los flujos de trabajo de CITSmart.
 
 ### LDAP/AD
-Esta funcionalidade foi aprimorada possibilitando a coleta, por meio de atributos, de diversas informações disponibilizadas no diretório ativo.
+Esta funcionalidad se ha mejorado, posibilitando la recolección, a través de atributos, de diversas informaciones disponibles en el directorio activo.
 
-### Integração com Saiku
-Integração do Saiku com o CITSmart Analytics.
+### Saiku
+Integración del Saiku con CITSmart Analytics.
+
 
 [1]:#gerenciamento-de-mudanca
 [2]:#gerenciamento-de-liberacao
