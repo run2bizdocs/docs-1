@@ -1,40 +1,44 @@
-title: Cadastrar a atividade periódica
-Description: Permite registrar e verificar as atividades periódicas relacionadas aos contratos.
-#Cadastrar a atividade periódica
+title: Registrar actividad periódica
+Description: Registrar y verificar las actividades periódicas relacionadas con los contratos.
+#Registrar actividad periódica
 
-Esta funcionalidade permite registrar e verificar as atividades periódicas relacionadas aos contratos.
 
-Antes de começar
-----------------
+Esta funcionalidad permite registrar y verificar las actividades periódicas
+relacionadas con los contratos.
 
-É necessário o cadastrado prévio do contrato e do grupo de atividade periódica.
+Antes de empezar
+--------------------
 
-Procedimento
-------------
+Es necesario tener registrato el contrato y grupo de actividad periódica.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Automação de Operações \> Atividade Periódica;
+Procedimiento
+-----------------
 
-2.   Preencher os campos necessários;
+1.  Acceder al menú principal Gestión Integrada \> La Automatización de las
+    Operaciones \> Actividad Periódica;
 
-3.  Para vincular uma ordem de serviço à atividade, basta clicar no botão
-    "Vincular O.S" para pesquisar e vincular a ordem de serviço desejada;
+2.  Completar los campos necesarios;
 
-4.  Clicar no botão "Novo Agendamento" para definir a periodicidade da atividade
-    ao preencher os dados essenciais e apertar o botão "Gravar";
+3.  Para vincular una orden de servicio a la actividad, basta hacer clic en
+    "Vincular O.S" para buscar y vincular la orden de servicio;
 
-5.  Clicar no botão "Gravar" para efetuar a operação.
+4.  Hacer clic en "Nuevo Agendamiento" para definirClicar no botão "Novo
+    Agendamento" para definir la periodicidad de la actividad al completar los
+    datos esenciales y hacer clic en "Guardar";
+
+5.  Hacer clic en "Guardar".
+
 
 Relacionado
 -----------
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
