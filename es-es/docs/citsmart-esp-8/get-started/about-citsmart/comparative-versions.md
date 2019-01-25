@@ -46,7 +46,7 @@ Title: Comparación - ESP 7 vs 8
 |    Portal de Servicios                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Formularios customizados][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
+|    Widgets                                        |:ballot_box_with_check:|:ballot_box_with_check:  |
 |    [Anuva aplicación - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
 |    **Integraciones**                                   |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
@@ -92,7 +92,7 @@ En esta versión, además de pasar por una reformulación, fue incorporado al re
 ### Portal del Conocimiento
 La versión 8 presenta un Portal de Conocimiento más inclusivo y con búsquedas más eficientes.  Es posible, en adelante, que un usuario acceda a la funcionalidad sin estar conectado al sistema, además de buscar artículos con filtros más refinados, como las etiquetas (palabras clave).
 
-### CITSmart Neuro Application
+### CITSmart Neuro Aplicación
 En esta actualización, el motor de aplicaciones Neuro se ha mejorado para permitir la generación de diversos recursos, como la creación de formularios complejos y widgets, la construcción de flujos avanzados, entre otros.
 
 ### Mobile y Field Service
@@ -123,23 +123,23 @@ Esta funcionalidad se ha mejorado, posibilitando la recolección, a través de a
 Integración del Saiku con CITSmart Analytics.
 
 
-[1]:#gerenciamento-de-mudanca
-[2]:#gerenciamento-de-liberacao
-[3]:#gerenciamento-de-conhecimento
-[4]:#gerenciamento-de-ativos-e-configuracao
-[5]:#gerenciamento-de-ticket
-[6]:#gestao-de-projeto-agil-simple
-[7]:#centro-de-experiencia-com-o-usuario
-[8]:#alertas-escalonamento
+[1]:#gestion-de-cambio
+[2]:#gestion-de-liberacion
+[3]:#gestion-de-conocimiento
+[4]:#gestion-de-activos-y-configuracion
+[5]:#gestion-de-ticket
+[6]:#gestion-de-proyecto-agil-simple
+[7]:#centro-de-experiencia-con-los-usuarios
+[8]:#alertas-escalonamiento
 [9]:#chat
-[10]:#portal-do-conhecimento
-[11]:#aplicacao-citsmart-neuro
-[12]:#mobile-e-field-service
-[13]:#gestao-de-fluxo-de-trabalho
-[14]:#surveys-e-feedback
+[10]:#portal-del-conocimiento
+[11]:#citsmart-neuro-aplicacion
+[12]:#mobile-y-field-service
+[13]:#gestion-de-flujo-de-trabajo
+[14]:#surveys-y-feedback
 [15]:#formularios-customizados
 [16]:#anuva-application-inteligencia-artificial
 [17]:#smart-analytics
 [18]:#ibm-watson
 [19]:#ldapad
-[20]:#integracao-com-saiku
+[20]:#saiku
