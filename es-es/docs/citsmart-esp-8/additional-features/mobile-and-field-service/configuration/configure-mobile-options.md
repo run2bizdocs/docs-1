@@ -1,36 +1,38 @@
-title: Configurar as opções de mobile
-Description: Tem por objetivo configurar as opções de Menu para o uso via mobile. 
-#Configurar as opções de mobile
-Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso via mobile.
+title: Configurar las opciones del móvil
+Description: Configurar las opciones de Menú para el uso vía móvil.
+#Configurar las opciones del móvil
 
-Antes de começar
-----------------
+Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el
+uso vía móvil.
 
-É necessário instalar, previamente, o aplicativo CITSmart Enterprise ITSM no
-dispositivo mobile.
+Antes de empezar
+--------------------
 
-Procedimento
-------------
+Es necesario instalar previamente la aplicación CITSmart Enterprise ITSM en el
+dispositivo móvil.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    permissão \> Configuração das opções de mobile;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú principal Acceso y Permisos \> Configuración de las opciones
+    de móvil;
 
-3.  Preencher os campos necessários (título, a situação, a descrição nas três
-    línguas do CITSmart [português, inglês e espanhol] e selecionar o menu que
-    melhor se ajusta à funcionalidade desejada);
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar em "Gravar" para efetuar a operação;
+3.  Completar los campos necesarios (título, situación, descripción en los tres
+    idiomas de CITSmart [Portugués, Inglés y Español] y seleccionar el menú que
+    mejor se ajuste a la funcionalidad);
+
+4.  Hacer clic en "Guardar";
 
 Relacionado
 -----------
 
-[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Guía del usuario de la aplicación móvil CITSmart ITSM Enterprise (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
