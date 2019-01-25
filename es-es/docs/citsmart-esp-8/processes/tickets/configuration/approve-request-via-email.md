@@ -40,7 +40,7 @@ Procedimiento
 
 *Configurar la notificación de aprobación del correo electrónico*
 
-1-  Acceder a la funcionalidad en el menú** **Sistema \> Configuración \> Modelo
+1-  Acceder a la funcionalidad en el menú Sistema \> Configuración \> Modelo
     de e-mail;
 
 2-  Pegar el modelo de correo electrónico disponible en HTML adjunto en el campo
