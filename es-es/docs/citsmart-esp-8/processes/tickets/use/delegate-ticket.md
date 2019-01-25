@@ -1,35 +1,34 @@
-title: Delegar um ticket
-Description: A opção de Delegar o Ticket permite encarregar a execução deste a um usuário ou grupo desejado.
-#Delegar um ticket
-A opção de Delegar o Ticket permite encarregar a execução deste a um usuário ou grupo desejado. Obrigatoriamente, só será possível incumbir a responsabilidade a grupos ao qual pertence também o delegante, o que também ocorre ao optar por um usuário (só serão facultados os membros dos grupos ao qual pertence o incumbente).
-
-Antes de começar
+title:  Delegar ticket 
+Description: La opción de delegar el Ticket permite encargar su ejecución a un usuario o grupo deseado. 
+#Delegar ticket
+La opción de delegar el Ticket permite encargar su ejecución a un usuario o grupo deseado. De forma obligatoria, sólo será posible asignar la responsabilidad a grupos al que pertenece también el delegante, lo que también ocurre al optar por un usuario (sólo serán facultados los miembros de los grupos al que pertenece el incumbente).
+Antes de empezar
 ----------------
 
-Para delegar o ticket é necessário ter permissão para executá-lo e que e
-configurar a opção Delegação no fluxo vinculado ao ticket.
+Para delegar el ticket es necesario tener permiso para ejecutarlo y configurar
+la opción Delegación en el flujo vinculado al ticket.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Clicar sobre o ticket desejado, selecionar o botão “Mais Opções” e clicar na
-    alternativa "Delegar";
+2.  Haga clic en el ticket que deseas, seleccionar el botón “Más
+    Opciones” y seleccione la opción "Delegar";
 
-3.  Selecionar o usuário ou grupo;
+3.  Seleccionar el usuario o grupo;
 
-4.  Justificar a escolha.
+4.  Justificar la elección.
 
 Relacionado
 -----------
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
