@@ -39,7 +39,7 @@ Procedimiento
 
 Adjunto
 ------
-[Download-Fluxo JSON][1]
+[Download-Flujo JSON][1]
 
 [Download-script][2]
 
