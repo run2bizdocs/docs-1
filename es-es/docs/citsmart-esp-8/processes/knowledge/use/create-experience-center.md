@@ -1,79 +1,80 @@
-title: Criar Centro de experiência
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
-#Criar Centro de experiência
-O objetivo do Centro de Experiência - CE é criar um portal personalizável para o usuário. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slideshows, dentro de outras aplicabilidades, visando garantir uma experiência do usuário mais interativa e intuitiva.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+title:  Crear centro de experiencia 
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el Centro de Experiencia personalizado.
+#Crear centro de experiencia
+El objetivo del Centro de Experiencia - CE, es crear un portal personalizable para el usuario. Al producir este portal, es posible personalizar el diseño y las preferencias de acceso más adecuadas al cliente (según lo definido por las reglas de la empresa), incluyendo disponibilizando la inclusión de vídeos de Youtube y la generación de Slideshows, dentro de otras aplicabilidad, experiencia del usuario más interactiva e intuitiva.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el Centro de Experiencia personalizado.
 
-Antes de começar
---------------------
-
-Alguns widgets no Centro de Experiência dependem de informações cadastradas no
-CITSmart ITSM, por exemplo, conhecimentos, pesquisas (surveys), serviços,
-notificações e entre outros. Neste sentido, é necessário estruturar estas
-informações antes de iniciar a construção do CE.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade Centro de Experiência navegando pelo menu principal
-    Centro de Experiência \> Configuração de Centros de Experiência;
+Algunos widgets, en el Centro de Experiencia, dependen de la información
+registrada en CITSmart ITSM, por ejemplo, conocimientos, encuestas, servicios,
+notificaciones y otros. En este sentido, es necesario estructurar esta
+información antes de iniciar la construcción del CE.
 
-2.  Clicar em "Novo";
+Procedimiento
+-------------
 
-3.  Informar os dados do CE (Título, situação e descrição);
+1.  Acceder al menú principal Centro de Experiencia \> Configuración de los
+    Centros de Experiencia;
 
-4.  Definir as Permissões de Acesso;
+2.  Hacer clic en "Nuevo";
 
-5.  Escolher o formato do CE ("widgets com navegação", usando menus laterais ou
-    "widgets sem navegação", sem menus laterais);
+3.  Informar los datos del CE (Título, situación y descripción);
 
-6.  Construir o CE;
+4.  Definir los Permisos de Acceso;
 
-### Nota: Widgets Disponíveis
+5.  Elegir el formato del CE ("widgets con navegación", utilizando menús
+    laterales o "widgets sin navegación", sin menús laterales);
 
-|        **Nome**        |    **Tipo**   |                                   **Objetivo**                                  |
-|:----------------------:|:-------------:|:-------------------------------------------------------------------------------:|
-| Portal do Conhecimento |     Atalho    |                      Atalho para o Portal do Conhecimento.                      |
-|      Fale conosco      |     Atalho    |                          Atalho para o teleatendimento.                         |
-|          Anuva         |     Atalho    |                Atalho para falar com a assistente virtual Anuva.                |
-|        Notícias        |     Geral     |                     Exibir conhecimentos do tipo “Notícia”.                     |
-|      Notificações      |     Geral     |                        Exibir as notificações do Sistema.                       |
-|   Pesquisa (Surveys)   |     Geral     |               Disponibilizar Surveys construídos no CITSmart HSM.               |
-|         Youtube        |     Geral     |                         Exibir vídeo do Youtube (embed)                         |
-|         Imagem         |     Geral     |                                  Inserir imagem                                 |
-|        Slideshow       |     Geral     |                       Exibir Slideshow do tipo carrossel.                       |
-|         Divisor        |     Geral     |                       Inserir linha horizontal na página.                       |
-|         Espaço         |     Espaço    |                            Inserir espaço na página.                            |
-|          Texto         |     Geral     |                     Inserir Texto com diversas formatações.                     |
-|          Lista         |     Geral     |                             Inserir lista de links.                             |
-|          Menu          |     Geral     |                          Inserir menu do CITSmart HSM.                          |
-|      Meus Tickets      |    Tickets    |                     Carregar os tickes abertos pelo usuário.                    |
-|    Minhas Aprovações   |    Tickets    |      Mostrar as solicitações que precisam de aprovação (depende do fluxo).      |
-|     Meus Portfólios    |   Portfólios  | Inserir Portfólio de serviços (depende da configuração de acesso aos serviços). |
-|     Meus Workplace     |   Workplace   |               Inserir Workplace (dashboards, smart reports, etc.)               |
-|      Conhecimento      | Conhecimentos |                       Carregar o teor de um conhecimento.                       |
-|        Favorito        | Conhecimentos |                  Mostrar a lista de conhecimentos favoritados.                  |
-|        Indicado        | Conhecimentos |                   Mostrar a lista de conhecimentos indicados.                   |
-|         Curtido        | Conhecimentos |                    Mostrar a lista de conhecimentos curtidos.                   |
+6.  Construir el CE; 
 
-O que fazer a seguir
-------------------------
+**Nota: Widgets Disponibles**
 
-Acessar a página inicial do CE e verificar as informações.
+|        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                         |
+|:-----------------------:|:-------------:|:--------------------------------------------------------------------------------------------:|
+| Portal del Conocimiento |     Atajo     |                            Atajo para el Portal del Conocimiento.                            |
+|       Contáctenos       |     Atajo     |                                     Atajo para atención.                                     |
+|          Anuva          |     Atajo     |                       Atajo para hablar con el asistente virtual Anuva.                      |
+|         Noticias        |    General    |                          Ver los conocimientos del tipo "Noticias".                          |
+|      Notificaciones     |    General    |                            Mostrar las notificaciones del Sistema.                           |
+|    Encuesta (Surveys)   |    General    |                        Ofrecer Surveys construidos en el CITSmart HSM.                       |
+|         Youtube         |    General    |                                 Ver vídeo de Youtube (embed)                                 |
+|          Imagen         |    General    |                                        Insertar imagen                                       |
+|        Slideshow        |    General    |                              Mostrar Slideshow de tipo carrusel.                             |
+|         Divisor         |    General    |                            Insertar línea horizontal en la página.                           |
+|         Espacio         |    General    |                                Insertar espacio en la página.                                |
+|          Texto          |    General    |                              Insertar texto con varios formatos.                             |
+|          Lista          |    General    |                                  Insertar lista de enlaces.                                  |
+|           Menú          |    General    |                                Insertar menú de CITSmart HSM.                                |
+|       Mis Tickets       |    Tickets    |                          Cargar los tickes abiertos por el usuario.                          |
+|     Mis aprobaciones    |    Tickets    |             Mostrar las solicitudes que requieren aprobación (depende del flujo).            |
+|     Mis Portafolios     |  Portafolios  | Insertar el Portafolio de servicios (depende de la configuración de acceso a los servicios). |
+|      Mis Workplace      |   Workplace   |                     Insertar Workplace (dashboards, smart reports, etc).                     |
+|       Conocimiento      | Conocimientos |                            Cargar el contenido de un conocimiento.                           |
+|         Favorito        | Conocimientos |                         Mostrar la lista de conocimientos favoritos.                         |
+|         Indicado        | Conocimientos |                         Mostrar la lista de conocimientos indicados.                         |
+|         Curtido         | Conocimientos |                          Mostrar la lista de conocimientos curtidos.                         |
+
+
+Lo que hacer después
+--------------------
+
+Acceder a la página inicial del CE y comprobar las informaciones.
 
 Relacionado
 ---------------
 
-[Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+[Crear conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Cadastrar pesquisa de satisfação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Registrar encuesta de satisfacción](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPgNa5jacymoUrgZpi7MgdD)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
