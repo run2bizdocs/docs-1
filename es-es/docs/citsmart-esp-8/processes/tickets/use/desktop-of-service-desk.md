@@ -1,57 +1,56 @@
-title: A área de trabalho da Central de Serviços
-Description: A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets. 
-#A área de trabalho da Central de Serviços
-A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets e seu histórico de atendimento, tornando a visualização de cada item com suas principais informações mais fácil. Neste espaço também há a possibilidade de inúmeras ações como a edição, a impressão, a suspensão, incluir, alterar e excluir de um item além de diversas outras.
+title: La área de trabajo del service desk
+Description: La área de trabajo del Service Desk es un espacio donde están disponibles todos los tickets.
+#La área de trabajo del service desk
+La área de trabajo del Service Desk es un espacio donde están disponibles todos los tickets y sus históricos de atención, haciendo que la visualización de cada elemento con sus principales informaciones sea más fácil. En este espacio también hay la posibilidad de innumerables acciones como la edición, la impresión, la suspensión de un ítem y otras.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para ter acesso a todas as possibilidades de visualizar as opções de um
-ticket, é preciso ter pelo menos um já cadastrado anteriormente.
+Para tener acceso a todas las possibilidades de visualizar las opciones del
+ticket, es necesario tener al menos un ya registrado previamente.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade pelo menu Processos \> Gerência de Requisição e
-    Incidente \> Ticket;
+1.  Acceda a la functionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Buscar pelo ticket e ação ação desejados.
+2.  Buscar por lo ticket y acción deseados.
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"
 
-    O botão “Atualização automática” virá por default não selecionado. Para
-    que a atualização automática seja ininterrupta, faz-se necessário mudar o
-    parâmetro 418 para a opção "SIM". Desse modo o botão ficará acionado
-    automaticamente e o sistema fará a  atualização da listagem a cada 25
-    segundos.
+    El botón “Actualización automática” viene por defecto no seleccionado.
+    Para que la actualización automática sea ininterrumpida, es necesario
+    cambiar el parámetro 418 a la opción "Sí". De este modo el botón se activará
+    automáticamente y el sistema actualizará la lista cada 25 segundos.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Capturar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
+[Capturar ticket](/es-es/citsmart-esp-8/processes/tickets/use/capture-ticket.html)
 
-[Delegar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
+[Delegar ticket](/es-es/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
-[Suspender um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
+[Suspender ticket](/es-es/citsmart-esp-8/processes/tickets/use/suspend-ticket.html)
 
-[Reclassificar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
+[Reclasificar ticket](/es-es/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-[Localizar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
+[Buscar ticket](/es-es/citsmart-esp-8/processes/tickets/use/locate-a-ticket.html)
 
-[Alterar o SLA de um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
+[Cambiar SLA del ticket](/es-es/citsmart-esp-8/processes/tickets/use/change-SLA-of-a-ticket.html)
 
-[Escalonamento hierárquico no atendimento](/pt-br/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
+[Escalonamiento jerárquico en la atención](/es-es/citsmart-esp-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-[Atender com suporte remoto](/pt-br/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
+[Atención con soporte remoto](/es-es/citsmart-esp-8/processes/tickets/use/attend-with-remote-support.html)
 
-[Imprimir um Ticket](/pt-br/citsmart-esp-8/processes/tickets/use/print-ticket.html)
+[Imprimir ticket](/es-es/citsmart-esp-8/processes/tickets/use/print-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
 
