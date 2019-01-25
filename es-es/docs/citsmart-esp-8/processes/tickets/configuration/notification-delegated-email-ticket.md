@@ -1,64 +1,65 @@
-title: Notificar via email ticket delegado
-Description: Permite implementar a forma de envio de email de um ticket delegado, assim os tickets delegados terão um modelo de email próprio a ser enviado ao técnico.
-#Notificar via email ticket delegado
+title: Notificar por correo electrónico de ticket delegado
+Description: Permite implementar la forma de envío de correo electrónico de un ticket delegado, así que los tickets delegados tendrán un modelo de correo electrónico propio que se enviará al técnico.
+#Notificar por correo electrónico de ticket delegado
 
-Este documento permite implementar a forma de envio de email de um ticket
-delegado, assim os tickets delegados terão um modelo de email próprio a ser
-enviado ao técnico.
 
-Antes de começar
+Este documento permite implementar la forma de envío de correo electrónico de un
+ticket delegado, así que los tickets delegados tendrán un modelo de correo
+electrónico propio que se enviará al técnico
+
+Antes de empezar
 --------------------
 
-Um modelo de email deverá ter sido cadastrado previamente e que as chaves a
-serem usadas em seu corpo de texto deverão ser as seguintes:
+Un modelo de correo electrónico deberá haber sido registrado previamente y que
+las claves a ser usadas en su cuerpo de texto deberán ser las siguientes:
 
-   -   \${IDSOLICITACAOSERVICO}
+-   \${IDSOLICITACAOSERVICO}
 
-   -   \${SERVICO}
+-   \${SERVICO}
 
-   -   \${SOLICITANTE}
+-   \${SOLICITANTE}
 
-   -   \${DESCRICAO}
+-   \${DESCRICAO}
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através do menu Processos \> Gerência de Portfólio
-    e Catálogo \> Portfólio;
+1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
+    Portafolio;
 
-2.  Escolher o portfólio, clicar em "Avançar";
+2.  Elegir el portafolio y hacer clic en "Avanzar";
 
-3.  Escolher o serviço e clicar em "Avançar";
+3.  Elegir el servicio y hacer clic en "Avanzar";
 
-4.  Clicar na guia *Contratos*;
+4.  Hacer clic en la pestaña *Contratos*;
 
-5.  Selecionar o contrato e clicar em "Avançar";
+5.  Seleccione el contrato y haga clic en "Avanzar";
 
-6.  Clicar na guia *Requisições* e clicar em "Editar";
+6.  Hacer clic en la pestaña *Solicitudes* y haga clic en "Editar";
 
-7.  Escolher a atividade;
+7.  Elegir la actividad;
 
-8.  No campo **Modelo de e-mail Delegação** escolher pelo modelo de e-mail
-    cadastrado previamente;
+8.  En el campo **Modelo de correo electrónico delegación** elegir por el modelo
+    de correo electrónico registrado previamente;
 
-9.  Clicar no botão "Gravar".
+9.  Hacer clic en "Guardar".
 
-O que fazer a seguir
---------------------
+Lo que hacer después
+------------
 
-Acessar o ticket desejado e efetuar a delegação.
+Acceder el ticket que quieras y haga la delegación.
 
 
 Relacionado
 -------
 
-[Delegar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
+[Delegar ticket](/es-es/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
-[Configurar modelo de email](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/25/2019 – Anna Martins
