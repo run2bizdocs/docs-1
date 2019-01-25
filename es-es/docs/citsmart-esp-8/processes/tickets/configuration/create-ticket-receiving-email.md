@@ -49,14 +49,14 @@ Procedimiento
 Relacionado
 -------
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-[Criar ação automática via email](/pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
+[Crear acción automatica via correo eletronicol](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
 
-[Processamento Batch](/pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
+[Procesamiento Batch](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 Adjunto
 ------------
