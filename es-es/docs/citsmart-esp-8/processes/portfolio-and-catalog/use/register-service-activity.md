@@ -2,6 +2,7 @@ title:  Registrar actividad de servicio
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar las actividades de un servicio (solicitud e/o incidente).
 #Registrar actividad de servicio
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las actividades de un servicio (solicitud e/o incidente).
+
 Antes de empezar
 ----------------
 
