@@ -1,45 +1,46 @@
-title: Criar conhecimento
-Description: É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
-#Criar conhecimento
-É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
-Um conhecimento permite a anexação de imagens, vídeos, anexos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
+title: Crear conocimiento
+Description: Es posible crear, editar y buscar conocimientos que van desde la aclaración de una funcionalidad, incluso orientaciones más técnicas.
+#Crear conocimiento
+Es posible crear, editar y buscar conocimientos que van desde la aclaración de una funcionalidad, incluso orientaciones más técnicas.
+Un conocimiento permite la anexión de imágenes, vídeos, archivos adjuntos, enlaces, entre otros recursos audio-visuales, haciendo así el intercambio de información más interactivo.
 
-Antes de começar
---------------------
-
-Antes de criar um conhecimento é necessário criar pastas para sua inserção e
-melhor organização. Assim fica mais fácil sua localização ao realizar uma busca.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1-  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Conhecimento \> Conhecimento;
+Antes de crear un conocimiento, es necesario crear carpetas para su inserción y
+mejor organización. Así es más fácil su ubicación al hacer una búsqueda.
 
-2-  Clicar no botão "Opções", localizado no canto inferior direito, logo em
-    seguida em Adicionar novo conhecimento;
+Procedimiento
+-------------
 
-3-  Informar os dados de cadastro;
+1-  Acceder al menú principal Procesos \> Gestión del Conocimiento \>
+    Conocimiento de Conocimiento;
 
-!!! Abstract "ATENÇÃO"  
+2-  Hacer clic en "Opciones", ubicado en la esquina inferior derecha, y después
+    en "Añadir nuevos conocimientos";
 
-    Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
-    corre-se o risco de disponibilizar documentos de forma inadequada. Este
-    cenário desconsidera a configuração de perfil de acesso e libera o acesso do
-    documento a todos os usuários.
+3-  Introduzca los datos de registro;
 
-4-  Construir o novo conhecimento.
+!!! Abstract "ATENCIÓN"
+
+    Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
+    corre el riesgo de disponibilizar documentos de forma inadecuada. En este
+    escenario, se detiene la configuración de perfil de acceso y libera el
+    acceso del documento a todos los usuarios.
+
+4-  Construir el nuevo conocimiento.
+
 
 Relacionado
 --------------------
 
-[Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+[Crear carpeta](/es-es/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-[Configurar acesso externo ao Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
+[Configurar acceso externo al Portal del Conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPgNa5jacymoUrgZpi7MgdD)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
