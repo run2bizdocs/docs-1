@@ -1,38 +1,37 @@
-title: Verificar meus tickets
+title:  Verificar mis tickets 
+Description: Esta funcionalidad tiene como objetivo proporcionar un resumen de las solicitudes de servicios (tickets) realizadas por el usuario. 
+#Verificar mis tickets
+Esta funcionalidad tiene como objetivo proporcionar un resumen de las solicitudes de servicios (tickets) realizadas por el usuario.
+El acceso a las solicitudes del usuario también puede ser realizado en el Portal de Servicios, haciendo la consulta más rápida, sin tener que entrar en el sistema.
+Esta pantalla tiene un temporizador llamado “Activar/Desactivar temporizador” que, al activarse con un solo clic, muestra un cronómetro sobre el tiempo gastado y el tiempo restante para finalizar la respuesta de la solicitud en el campo Tiempo restante de la lista de elementos.
 
-Description: Tem por objetivo fornecer um resumo das solicitações de serviços (tickets) feitas pelo usuário. 
-#Verificar meus tickets
-Esta funcionalidade tem por objetivo fornecer um resumo das solicitações de serviços (tickets) feitas pelo usuário.
-O acesso às solicitações do usuário também pode ser realizado no Portal de Serviços, tornando a consulta mais rápida sem ter que entrar no sistema.
-Esta tela possui um temporizador chamado “Ativar/Desativar temporizador” que, ao ser ativado com um clique, apresenta um cronômetro sobre o tempo gasto e o tempo restante para finalizar o atendimento da solicitação no campo Tempo restante da listagem de itens.
-
-Antes de começar
+Antes de empezar
 ----------------
 
-Para verificar os tickets pessoais é necessário registrar previamente
-solicitações de serviço e o item de configuração devendo este último estar
-vinculado a solicitação.
+Para verificar los tickets personales, es necesario registrar previamente
+solicitudes de servicio y el elemento de configuración, debiendo este último
+estar vinculado a la solicitud.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Requisição e Incidente \> Minhas Requisições;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimento e Incidente \> Mis Requerimientos;
 
-2.  Digitar o item de configuração específico ou clicar em "Pesquisar" para
-    aparecer a lista de todos os itens cadastrados.
+2.  Introduzca el elemento de configuración específico o haga clic en "Buscar"
+    para que aparezca la lista de todos los elementos registrados.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
