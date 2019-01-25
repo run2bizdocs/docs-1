@@ -1,40 +1,41 @@
-title: Gerenciar equipes com Kanban
-Description: Esta opção tem por objetivo auxiliar gestores no acompanhamento detalhado de suas filas de atendimento de tickets. 
-#Gerenciar equipes com Kanban
-Esta opção tem por objetivo auxiliar gestores no acompanhamento detalhado de suas filas de atendimento de tickets, fazendo uso da técnica de gestão chamada de Kanban. O Kanban é a utilização de cartões (post-it e outros) para indicar o andamento dos fluxos de produção.
-Nesses cartões são colocadas indicações sobre uma determinada tarefa, por exemplo, “para executar” / “em execução”/ “feito”, e sempre que o fluxo avança seu posicionamento muda para a direita no quadro.
+title:  Gestión de equipos con Kanban 
+Description: Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets
+#Gestión de equipos con Kanban
+Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets, haciendo uso de la técnica de gestión llamada de Kanban. Kanban es el uso de tarjetas (post-it y otros) para indicar el progreso de los flujos de producción.
+En estas tarjetas se colocan indicaciones sobre una determinada tarea, por ejemplo, "para ejecutar" / "en ejecución" / "hecho", y siempre que el flujo avanza su posicionamiento cambia a la derecha en el cuadro.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para realizar a movimentação do quadro Kanban é preciso ter ao menos um ticket
-registrado, além de possuir perfil de acesso com permissão para tal movimento.
+Para realizar el movimiento del cuadro Kanban, es necesario tener al menos un
+ticket registrado, además de poseer perfil de acceso con permiso para tal
+movimiento.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú Procesos \> Gestión de Requerimiento
+    e Incidente \> Ticket;
 
-2.  Clicar na visualização de tickets pelo modo Atendente, através do botão “Por
-    atendente”;
+2.  Haga clic en la visualización de tickets por el modo Asistente, a través del
+    botón “Por assistente”;
 
-3.  Filtrar a visualização dos cartões;
+3.  Filtrar la visualización de las tarjetas;
 
-4.  Gerenciar os cartões.
+4.  Gestión de tarjetas.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
