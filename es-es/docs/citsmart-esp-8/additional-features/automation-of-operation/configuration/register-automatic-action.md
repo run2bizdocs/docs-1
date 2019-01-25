@@ -1,26 +1,25 @@
-title: Cadastrar ação automática
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas.
-#Cadastrar ação automática
+title: Registrar acción automatica
+Description: Proporciona acciones diversas, tales como, incluir, cambiar y eliminar acciones automáticas.
+#Registrar acción automatica
 
-As ações automáticas são associadas no cadastro de gerentes de eventos. Estas
-ações serão relacionadas de acordo com o tipo do evento desejado e disparadas
-sempre que for reconhecido um evento significativo.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir ações automáticas.
+Las acciones automáticas se asocian en el registro de gerentes de eventos. Estas
+acciones se relacionan de acuerdo con el tipo de evento deseado y se disparan
+cada vez que se reconoce un evento significativo.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Ações Automáticas \> Ações Automáticas;
+1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones
+    Automaticas;
 
-2.  Preencher o campo disponibilizado;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins
