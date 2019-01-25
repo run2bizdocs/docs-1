@@ -1,59 +1,59 @@
-title: Cadastrar um serviço
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
-#Cadastrar um serviço
-O cadastro de serviços é dividido em dois tipos:
-•	Negócio: provê os serviços de negócios/TI;
-•	Apoio: provê os serviços de apoio/técnico.
-A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato” são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
+title: Registrar servicio
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un servicio.
+#Registrar servicio
+El registro de los servicios se divide en dos tipos:
+•	Negocio: provee los servicios de negocios / TI;
+•	Apoyo: provee los servicios de apoyo/técnico.
+La elección del tipo Negocio/Apoyo debe estar alineada con el tipo del contrato que se pretende vincular al Portafolio. Sólo los contratos del tipo "Contrato" se vinculan al tipo "Negocio", y sólo los contratos del tipo "Contrato de Apoyo" y "Acuerdo de Nivel Operativo" están vinculados al tipo "Apoyo".
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un servicio.
 
-Antes de começar
---------------------
-
-O cadastro do serviço deverá ser precedido do cadastro de um portfólio de
-serviços, da categoria de serviço, de um grupo e ter a permissão de acesso às
-funcionalidades do Gerenciamento de Portfólio.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Portfólio;
+Para registrar el servicio, es necesario registrar perviamente el portafolio de
+servicios, la categoría de servicio, un grupo y tener el permiso para acceder a
+las funcionalidades de la Gestión de Portafolio.
 
-2.  Escolher o tipo de portfólio (Negócio ou Apoio);
+Procedimiento
+-------------
 
-3.  Selecionar um portfólio e clicar em "Avançar";
+1.  Acceder a la funcionalidad a través del menú principal Procesos \> Gestión
+    de Portafolio y Catálogo \> Portafolio;
 
-4.  Clicar em "Novo Serviço";
+2.  Eligir el tipo de portafolio (Negocio o Apoyo);
 
-5.  Serão apresentadas guias para a configuração do serviço a ser cadastrado;
+3.  Seleccionar un portafolio y hacer clic en "Avanzar";
 
-6.  Preencher os campos disponibilizados que cada guia apresentar;
+4.  Hacer clic en "Nuevo Servicio";
 
-7.  Preencher os demais campos conforme a necessidade;
+5.  Se presentarán las guías para configuración del servicio a ser registrado;
 
-8.  Clicar em "Gravar".
+6.  Completar los campos disponibles que cada guía presenta;
 
-O que fazer a seguir
-------------------------
+7.  Completar los demás campos según necesario;
 
-Acessar o Smart Portal e verificar as informações do serviço cadastrado no
-portfólio escolhido.
+8.  Hacer clic en "Guardar".
+
+Lo que hacer después
+--------------------
+
+Acceder al Smart Portal y comprobar las informaciones de registro del servicio
+en el portafolio.
 
 Relacionado
 ---------------
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
 
-[Criar categoria de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+[Crear categoría de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
