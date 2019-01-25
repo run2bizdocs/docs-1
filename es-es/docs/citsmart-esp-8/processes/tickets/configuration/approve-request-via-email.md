@@ -29,8 +29,7 @@ Procedimiento
 
 3.  Clic en la pestaña **Diagrama**;
 
-4.  En el flujo de aprobación de solicitud, haga clic en el icono  y después en
-    el icono  para configurarlo;
+4.  En el flujo de aprobación de solicitud, haga clic en el icono "Envío de Mensaje - e-mail" y después, en el pequeño cuadro gris cerca del conector configurado;
 
 5.  Registrar, en la pestaña **Identificación**, el nombre y modelo de correo
     electrónico a utilizarse;
