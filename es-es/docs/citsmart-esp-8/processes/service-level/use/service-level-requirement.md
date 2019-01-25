@@ -1,38 +1,38 @@
-title:  Requisito de nível de serviço 
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um requisito de nível de serviço. 
-#Requisito de nível de serviço
-O Requisito de Nível de Serviço (RNS) ou, em inglês, Service Level Requirement (SLR) é o requisito do cliente para um serviço de TI com base nos objetivos de negócio e é usado para negociar as metas de nível do serviço.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um requisito de nível de serviço.
+title: Requerimiento de nivel de servicio
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un requerimiento de nivel de servicio. 
+#Requerimiento de nivel de servicio
+El Requerimiento de Nivel de Servicio o, en inglés, Service Level Requirement (SLR) es el requisito del cliente para un servicio de TI basado en los objetivos de negocio, y se utiliza para negociar las metas de nivel de servicio.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un requerimiento de nivel de servicio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O cadastro de um requisito de nível de serviço depende do cadastro do
-colaborador realizado antes do processo.
+El registro de un requerimiento de nivel de servicio depende del registro previo
+del colaborador.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Nível de Serviço \> Requisito de Nível de Serviço;
+1.  Acceder al menú principal Procesos \> Gestión de Nivel de Servicio \>
+    Requisito de Nivel de Servicio;
 
-2.  Clicar em "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Informar os dados necessários.
+3.  Informar los datos necesarios.
 
-O que fazer a seguir
-------------------------
+Lo que hacer después
+--------------------
 
-Clicar no botão "Pesquisar" para checar o requisito criado.
+Hacer clic en "Búsqueda" para comprobar el requerimiento creado.
 
 Relacionado
 ---------------
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMjX0O3lujZJk298ZUVu21l)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
