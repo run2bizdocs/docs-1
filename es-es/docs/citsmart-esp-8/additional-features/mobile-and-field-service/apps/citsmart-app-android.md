@@ -121,7 +121,7 @@ Figura 4 - Login
 Utilización del APP en el celular (smartphone)
 ----------------------------------------------
 
-### Visualización de solicitudes de servicio
+#### Visualización de solicitudes de servicio
 
 Después de realizar la conexión, aparecerá la pantalla de "Solicitudes de
 Servicio" donde podrá visualizar las solicitudes de acuerdo con el filtro
