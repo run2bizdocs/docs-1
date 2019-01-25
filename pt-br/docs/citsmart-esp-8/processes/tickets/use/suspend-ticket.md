@@ -29,7 +29,7 @@ situação "suspensa".
 Relacionado
 -----------
 
-[Cadastrar justificativa de solicitação](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+[Cadastrar justificativa de solicitação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
