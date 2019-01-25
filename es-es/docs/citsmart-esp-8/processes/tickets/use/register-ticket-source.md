@@ -1,21 +1,21 @@
-title: Cadastrar origem de ticket
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir diversos tipos de equipes ou áreas que podem gerar um ticket. 
-#Cadastrar origem de ticket
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir diversos tipos de equipes ou áreas que podem gerar um ticket.
+title:  Registrar origen del ticket 
+Description: Tiene el objetivo de registrar diversos tipos de equipos o áreas que pueden crear un ticket. 
+#Registrar origen del ticket
+Esta funcionalidad tiene el objetivo de registrar diversos tipos de equipos o áreas que pueden crear un ticket.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Requisição e Incidente \> Origem de Solicitações;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Origen de Solicitudes;
 
-2.  Preencher o campo disponibilizado;
+2.  Llenar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
