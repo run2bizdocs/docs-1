@@ -1,31 +1,30 @@
-title: Visualizar um evento
-Description: Tem por objetivo visualizar as informações contidas no registro de um evento. 
-#Visualizar um evento
-Esta funcionalidade tem por objetivo visualizar as informações contidas no registro de um evento.
+title:  Ver un evento 
+Description: Tiene por objetivo visualizar la información contenida en el registro de un evento.
+#Ver un evento
+Esta funcionalidad tiene por objetivo visualizar la información contenida en el registro de un evento.
 
-Antes de começar
---------------------
-
-Para visualizar as informações é necessário ter o registro de um evento coletado
-pela ferramenta de monitoração.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+Para ver las informaciones, es necesario tener registrado un evento colectado
+por la herramienta de monitoreo.
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”.
+Procedimiento
+-------------
+
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
+
+2.  Hacer clic en el evento y después en el botón “Abrir”.
 
 Relacionado
 ---------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
