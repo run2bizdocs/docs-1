@@ -1,503 +1,511 @@
-title: Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
-Description: Fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo CITSmart Enterprise Mobile.
-#Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)
+title: Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)
+Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart Enterprise Mobile.
+#Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)
 
-Este documento tem o propósito de fornecer orientações necessárias para
-instalar, configurar e utilizar o aplicativo CITSmart Enterprise Mobile.
 
-O CITSmart Enterprise Mobile oferece vários recursos, sendo:
 
-1-  Facilidade no atendimento e ter um direcionamento de onde a solicitação está
+Este documento tiene el propósito de proporcionar orientaciones necesarias para
+instalar, configurar y utilizar la aplicación CITSmart Enterprise Mobile.
+
+El CITSmart Enterprise Mobile ofrece varios recursos:
+
+1-  Facilidad en la atención y tener una dirección de donde la solicitud está
     localizada;
 
-2-  Filtrar solicitações pessoais e por grupo de trabalho;
+2-  Filtrar solicitudes personales y por grupo de trabajo;
 
-3-  Visualização dos detalhes de uma solicitação de serviço;
+3-  Visualización de los detalles de una solicitud de servicio;
 
-4-  Visualização de solicitações em mapa;
+4-  Visualización de solicitudes en el mapa;
 
-5-  Visualização da melhor rota para chegar ao local de atendimento da
-    solicitação de serviço;
+5-  Visualización de la mejor ruta para llegar al lugar de atención de la
+    solicitud de servicio;
 
-6-  Atualização da localização da unidade latitude longitude a partir do
-    aparelho mobile;
+6-  Actualización de la ubicación de la unidad de longitud de latitud desde el
+    dispositivo móvil;
 
-7-  Realização de check-out caso o usuário tenha permissão de execução;
+7-  Realización de check-out si el usuario tiene permiso de ejecución;
 
-8-  Negação de um check-in sugerido pelo sistema;
+8-  Negación de un check-in sugerido por el sistema;
 
-9-  Recebimento de notificações.
+9-  Recepción de notificaciones.
 
-Este documento foi estruturado em quatro grandes seções:
+Este documento se ha estructurado en cuatro grandes secciones:
 
-1-  Antes de começar;
+1-  Instalación y configuración de la aplicación en el teléfono (Smartphone);
 
-2-  Instalação e Configuração do App no Celular (Smartphone);
+2-  Uso del App en el Celular (Smartphone);
 
-3-  Utilização do App no Celular (Smartphone);
+3-  Uso Avanzado de la App en el Celular (Smartphone) - con Mapas;
 
-4-  Utilização *Avançada* do App no Celular (Smartphone) - com Mapas.
+4-  Configuración de la aplicación web (servidor).
 
-Antes de começar
-----------------
+Antes de empezar
+----------
 
-1-  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
-    Enterprise Mobile e também Configurar o servidor para uso do aplicativo
-    mobile CITSmart Enterprise Mobile (ver documento Manual de configuração
-    do servidor para uso do CITSmart ITSM Enterprise (iOS e
-    Android).
+  Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
+   Enterprise Mobile y también configurar el servidor para uso de la
+   aplicación móvil CITSmart Enterprise Mobile (ver conocimiento Manual de
+   configuración del servidor CITSmart Enterprise ITSM para uso de APPs (iOS y
+   Android))
 
-Instalação e configuração do app no celular (smartphone)
----------------------------------------------------------
+Instalación y configuración dell APP en el celular (smartphone)
+--------------------------------------------------------------
 
-Para instalar o CITSmart Enterprise Mobile, deve ser realizada a busca do
-aplicativo na loja on-line (Google Play).
+Para instalar el CITSmart Enterprise Mobile, se debe realizar la búsqueda de la
+aplicación en la tienda en línea (Google Play).
 
-1-  Pesquise por CITSmart Enterprise e após a pesquisa, selecione o aplicativo;
+1-  Busque Citsmart Enterprise y después de la búsqueda, seleccione la
+    aplicación, como se indica en la figura siguiente:
 
-2-  Pressione o botão "Instalar" para baixar o aplicativo;
+2-  Presione el botón "Instalar" para descargar la aplicación;
 
-3-  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart
+3-  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
     Enterprise Mobile;
 
-4-  Para criar uma conexão, pressione o ícone com formato de chave, localizado
-    no canto direito superior da tela;
-
-![Criar conexão](images/app-android-pt-1.jpg)
-
-Figura 1 - Criar conexão
-
-5-  Será apresentada a tela de conexões, pressione o ícone "Nova conexão" , localizado no
-    canto direito superior da tela, conforme indicado na figura abaixo:
-
-![Tela de conexões](images/app-android-pt-2.jpg)
-
-Figura 2 - Tela de conexões
-
-6-  Será apresentada a tela “Nova conexão” para registro da conexão;
-
-![Registro de conexão](images/app-android-pt-3.jpg)
-
-Figura 3 - Registro de conexão
-
-7-  Informe os dados:
-
-   +  **Nome**: informe o nome da conexão que deseja conectar;
-
-   +  **URL do servidor**: informe o endereço do servidor para conexão. Deve
-        ser colocado o protocolo (http) na URL;
-
-   +  **Usuário**: informe o nome de usuário;
-
-   +  **Senha**: informe a senha de acesso.
-
-!!! Abstract "ATENÇÃO"
-
-    Caso o aparelho seja trocado, esta conexão deve ser deletada.  
-
-8-  Após informar os dados da conexão desejada, pressione no botão *Adicionar*;
-
-9-  Depois de adicionada a conexão, aparecerá a listagem das conexões criadas.
-    Para alterar uma conexão, basta selecionar a conexão desejada e fazer a
-    alteração;
-
-10-  Para se conectar, basta selecionar a conexão, na tela inicial do aplicativo;
+4-  Para crear una conexión, pulse el icono con formato de llave, situado en
+    la esquina superior derecha de la pantalla, como se indica en la figura
+    siguiente:
 
 
-![Registro](images/app-android-pt-4.jpg)
+![Crear conexión](images/app-android-es-1.jpg)
+
+Figura 1 - Crear conexión
+
+5-  Aparecerá la pantalla de conexiones, pulse el icono "Nueva conexión" , situado en la esquina
+    superior derecha de la pantalla, como se indica en la figura siguiente:
+
+
+![Tela de conexões](images/app-android-es-2.jpg)
+
+Figura 2 - Pantalla de conexiones
+
+6-  Se mostrará la pantalla "Nueva conexión" para el registro de la conexión;
+
+![Registro de conexão](images/app-android-es-3.jpg)
+
+Figura 3 - Registro de conexión
+
+7-  Introduzca los datos:
+
+   -  *Nombre*: introducir el nombre de la conexión que desea conectar;
+
+   -  **URL del servidor**: introducir la dirección del servidor para la
+        conexión. Se debe colocar el protocolo (http://) en la URL;
+
+   -  **Usuario**: introducir el nombre de usuario;
+
+   -  **Contraseña**: introducir la contraseña de acceso.
+
+!!! Abstract "ATENCIÓN"
+
+    Si por si acaso se cambia el dispositivo móvil, esta conexión debe ser
+    borrada.
+
+8-  Después de informar los datos de la conexión deseada, pulse en el
+    botón "Añadir";
+
+9-  Una vez agregada la conexión, aparecerá la lista de conexiones creadas. Para
+    cambiar una conexión, basta con seleccionar la conexión deseada y hacer el
+    cambio;
+
+10-  Para conectarse, basta seleccionar la conexión, en la pantalla inicial de la
+    aplicación;
+
+
+![Registro](images/app-android-es-4.jpg)
 
 Figura 4 - Login
 
 
-Utilização do app no cellular (smartphone)
-------------------------------------------
+Utilización del APP en el celular (smartphone)
+----------------------------------------------
 
-##### Visualizando solicitações de serviço
+### Visualización de solicitudes de servicio
 
-Após realizar a conexão, será apresentada a tela de “Solicitações de Serviço”
-onde poderá visualizar as solicitações de acordo com o filtro escolhido e
-realizar demais ações, que serão explicadas adiante.
+Después de realizar la conexión, aparecerá la pantalla de "Solicitudes de
+Servicio" donde podrá visualizar las solicitudes de acuerdo con el filtro
+elegido y realizar otras acciones, que serán explicadas a continuación.
 
-1-  Para escolher o tipo de solicitação que deseja visualizar, clique no ícone
-    com formato de barras localizado no canto esquerdo superior;
+1-  Para elegir el tipo de solicitud que desea ver, haga clic en el icono con
+    formato de barras situado en la esquina superior izquierda;
 
-![Solicitações de serviço](images/app-android-pt-5.jpg)
 
-Figura 5 - Solicitações de serviço
+![Solicitações de serviço](images/app-android-es-5.jpg)
 
-2-  É apresentado uma lista com os tipos e as quantidades de solicitações de
-    cada tipo, conforme apresentada na figura abaixo:
+Figura 5 - Solicitudes de servicio
 
-![Filtros](images/app-android-pt-6.jpg)
+2-  Se observa una lista con los tipos y las cantidades de solicitudes de cada
+    tipo, como se muestra en la figura siguiente:
+
+
+![Filtros](images/app-android-es-6.jpg)
 
 Figura 6 - Filtros
 
-3-  Selecione o tipo de solicitação desejado;
+3-  Seleccione el tipo de solicitud deseado;
 
-4-  Após escolher o tipo desejado, pressione a opção Pessoal para visualizar as
-    solicitações pessoais ou Grupo para visualizar as solicitações do grupo de
-    trabalho de acordo com o tipo selecionado;
+4-  Después de seleccionar el tipo deseado, pulse la opción "Personal" para ver
+    las solicitudes personales o de "Grupo" para ver las solicitudes del grupo
+    de trabajo según el tipo seleccionado;
 
-5-  Será apresentada a lista de solicitações de serviço, conforme o filtro
-    escolhido:
+5-  Se mostrará la lista de solicitudes de servicio, según el filtro elegido:
 
-![Lista](images/app-android-pt-7.jpg)
+![Lista](images/app-android-es-7.jpg)
 
-Figura 7 - Lista de solicitação pessoal
+Figura 7 - Lista de solicitud personal
 
-![Lista de solicitação grupo](images/app-android-pt-8.jpg)
+![Lista de solicitação grupo](images/app-android-es-8.jpg)
 
-Figura 8 - Lista de solicitação do grupo
+Figura 8 - Lista de solicitud del grupo
 
-6-  Para visualizar solicitações específicas, clique no ícone de pesquisa.
-    Será apresentada um campo para informar o dado da solicitação desejada
-    (número da solicitação, nome do contrato, nome da unidade ou nome do grupo
-    executor). Após informação do dado, pressione “Enter”. Feito isso, será
-    redirecionado para a tela de busca, contendo uma lista de solicitações
-    resultantes da consulta realizada, conforme exemplo ilustrado na figura
-    baixo:
+6-  Para ver solicitudes específicas, haga clic en el icono de búsqueda. Se
+    mostrará un campo para informar el dato de la solicitud deseada (número de
+    la solicitud, nombre del contrato, nombre de la unidad o nombre del grupo
+    ejecutor). Después de la información del dato, presione "Enter". Hecho esto,
+    será redirigido a la pantalla de búsqueda, conteniendo una lista de
+    solicitudes resultantes de la consulta realizada, como ejemplo ilustrado en
+    la figura baja:
 
-![Lista de solicitações](images/app-android-pt-9.jpg)
-Figura 9 - Lista de solicitações
 
-!!! Abstract "REGRA"
+![Lista de solicitações](images/app-android-es-9.jpg)
+Figura 9 - Lista de solicitudes
 
-    Para que a funcionalidade de busca funcione, é necessário configurar o web
-    service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-    de Operação Web Service” no CITSmart Enterprise Web.  
+!!! Abstract "REGLA"
 
-7-  Em cada solicitação é apresentado um símbolo com a cor que representa sua
-    situação, sendo:
+    Para que la funcionalidad de búsqueda funcione, es necesario configurar el
+    web service (notification_buscaNotificación) correspondiente en la pantalla
+    de "Registro de Operación Web Service" en el CITSmart Enterprise Web.
 
-   +  Verde (normal/em andamento): indica que a solicitação está em
-        atendimento, dentro do prazo estabelecido;
 
-   +  Amarelo (a vencer): indica que o prazo limite para atendimento da
-        solicitação está perto de ser ultrapassado;
+7-  En cada solicitud se presenta un símbolo con el color que representa su
+    situación, siendo:
 
-   +  Cinza (suspensa): indica que a solicitação foi suspensa;
+   -  Verde (normal/en curso): indica que la solicitud está en atención,
+        dentro del plazo establecido;
 
-   +  Vermelho (vencida): indica que o prazo limite para atendimento da
-        solicitação foi ultrapassado.
+   -  Amarillo (a vencer): indica que el plazo límite para atender la
+        solicitud está cerca de ser superado;
 
-8-  Para visualizar os detalhes da solicitação de serviço, clique na solicitação
-    desejada que será apresenta a tela de “Detalhes” da mesma. Para as
-    solicitações que são de acompanhamento, apenas é possível visualizar a sua
-    descrição. Nestas, não existem botões no rodapé;
+   -  Gris (suspendida): indica que la solicitud ha sido suspendida;
 
-9-  Ao realizar o pull down na tela, serão atualizadas as solicitações
-    existentes e exibidas novas solicitações;
+   -  Rojo (vencida): indica que el plazo límite para la atención de la
+        solicitud ha sido superado;
 
-![novas solicitações](images/app-android-pt-10.jpg)
+8-  Para ver los detalles de la solicitud de servicio, haga clic en la solicitud
+    deseada que mostrará la pantalla de "Detalles" de la solicitud. Para las
+    solicitudes que son de seguimiento, sólo es posible visualizar su
+    descripción. En estas, no hay botones en el pie de página.
 
-Figura 10 - Atualização da lista com novas solicitações
+9-  Al realizar el pull down en la pantalla, serán actualizadas las solicitudes
+    existentes y exhibidas nuevas solicitudes;
 
-10-  Ao realizar o pull up na tela, serão atualizadas as solicitações existentes
-    e exibidas as solicitações antigas;
 
-![solicitações antigas](images/app-android-pt-11.jpg)
+![novas solicitações](images/app-android-es-10.jpg)
 
-Figura 11 - Atualização da lista com solicitações antigas
+Figura 10 - Actualización de la lista con nuevas solicitudes
 
-11-  Para ordenar as solicitações, clique no ícone de "Ordenar lista de solicitações". Será exibida
-    uma lista de opções para ordenação (conforme ilustrada na figura abaixo),
-    selecione uma opção desejada e clique em "Ok";
+10- Al realizar el pull up en la pantalla, serán actualizadas las solicitudes
+    existentes y exhibidas las solicitudes antiguas;
 
-![Ordenação](images/app-android-pt-12.jpg)
 
-Figura 12 - Ordenação de solicitações
+![solicitações antigas](images/app-android-es-11.jpg)
 
-   +  **Número da solicitação**: ordena as solicitações pelo número, em ordem
-        decrescente;
+Figura 11 - Actualización de la lista con solicitudes antiguas
 
-   +  **Responsável (sem responsável primeiro)**: ordena as solicitações,
-        primeiramente, sem o responsável atual. Depois segue o critério de ordenação
-        pelo número da solicitação, em ordem decrescente;
+11- Para ordenar las solicitudes, haga clic en el icono de ordenación. Se
+    mostrará una lista de opciones de ordenación (como se muestra en la figura
+    siguiente), seleccione una opción deseada y haga clic en "Aceptar";
 
-   +  **Data de criação**: ordena as solicitações, primeiramente, pela data de
-        criação, em ordem crescente. Depois segue o critério de ordenação pelo
-        número da solicitação, em ordem decrescente;
 
-   +  **Vencimento**: ordena as solicitações por solicitações vencidas, próximas
-        do vencimento, dentro do prazo e suspensas. Depois segue o critério de
-        ordenação pelo número da solicitação, em ordem decrescente.
+![Ordenação](images/app-android-es-12.jpg)
 
-##### Criando solicitação de serviço
+Figura 12 - Ordenación de solicitudes
 
-1-  Para criar uma solicitação de serviço, pressione o ícone localizado no
-    canto direito superior da tela e selecione a opção “Novo
-    incidente/requisição”, dependendo da resolução da tela, será exibido o ícone
-    com formato de sinal de mais , basta pressionar o mesmo para criação da
-    solicitação, conforme ilustrado abaixo:
+   +   **Número de solicitud**: ordena las solicitudes por número, en orden
+       decreciente;
 
-![criação](images/app-android-pt-13.jpg)
+   +   **Responsable (sin responsable primero)**: ordena las solicitudes, primero,
+       sin el responsable actual. Después sigue el criterio de ordenación por el
+       número de la solicitud, en orden decreciente;
 
-Figura 13 -Criação de solicitação de serviço
+   +  **Fecha de creación**: ordena las solicitudes, primero, por la fecha de
+      creación, en orden ascendente. Después sigue el criterio de ordenación por
+      el número de la solicitud, en orden decreciente;
 
-![Ícone](images/app-android-pt-14.jpg)
+   +  **Vencimiento**: ordena las solicitudes por solicitudes vencidas, próximas
+      al vencimiento, dentro del plazo y suspendidas. Después sigue el criterio de
+      ordenación por el número de la solicitud, en orden decreciente.
 
-Figura 14 - Ícone para criar solicitação de serviço
 
-2-  Será exibida a tela para criação da solicitação, conforme apresentada na
-    figura abaixo:
+### Creación de solicitud de servicio
 
-![criação](images/app-android-pt-15.jpg)
+1-  Para crear una solicitud de servicio, pulse el icono situado en la esquina
+    superior derecha de la pantalla y seleccione la opción "Nuevo
+    incidente/solicitud", dependiendo de la resolución de la pantalla, aparecerá
+    el icono con formato de señal más, basta con presionar el mismo para crear
+    la solicitud, como se muestra a continuación:
 
-Figura 15 -Tela de criação de nova solicitação
 
-!!! Abstract "ATENÇÃO"
+![criação](images/app-android-es-13.jpg)
 
-    A solicitação registrada pelo CITSmart Enterprise Mobile utiliza serviços
-    que são configurados no CITSmart Enterprise Web.  
+Figura 13 - Creación de solicitud de servicio
 
-3-  Informe a descrição da solicitação de serviço e pressione o
-    botão "Enviar" para efetuar a operação;
+![Ícone](images/app-android-es-14.jpg)
 
-4-  Após efetuar a operação, a mensagem de registro da solicitação será
-    apresentada.
+Figura 14 - Icono para crear solicitud de servicio
 
-![criada](images/app-android-pt-16.jpg)
+2-  Se mostrará la pantalla para la creación de la solicitud, como se muestra en
+    la figura siguiente:
 
-Figura 16 - Solicitação criada
 
-##### Aprovando/rejeitando solicitação de serviço
+![criação](images/app-android-es-15.jpg)
 
-Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
-necessário aprová-las.
+Figura 15 - Pantalla de creación de nueva solicitud
 
-1-  Selecione a solicitação que é passível de aprovação;
+!!! Abstract "ATENCIÓN"
 
-2-  Será apresentada a tela de “Detalhes” exibindo a descrição da solicitação
-    para aprovação/rejeição da mesma;
+    La solicitud registrada por CITSmart Mobile utiliza servicios que se
+    configuran en CITSmart Enterprise Web.
 
-![rejeição](images/app-android-pt-17.jpg)
+3-  Introduzca la descripción de la solicitud de servicio y pulse el
+    botón "Enviar" para realizar la operación;
 
-Figura 17 - Tela de aprovação/rejeição de solicitação
+4-  Después de realizar la operación, se mostrará el mensaje de registro de la
+    solicitud.
 
-3-  Para aprovar a solicitação, basta pressionar o botão "Aprovar";
 
-4-  Para rejeitar a solicitação, pressione o botão "Rejeitar". Será exibida uma
-    tela para escolha da justificativa desta rejeição, conforme apresentada na
-    figura abaixo:
+![criada](images/app-android-es-16.jpg)
 
-![justificava](images/app-android-pt-18.jpg)
+Figura 16 - Solicitud creada
 
-Figura 18 - Tela justificava de rejeição da solicitação
+##### Aprobando/rechazando solicitud de servicio
 
-   +  Escolha a justificava da rejeição da solicitação e pressione o botão "Ok".
+Algunas solicitudes necesitan aprobación, por lo tanto, para atenderlas es
+necesario aprobarlas.
 
-Utilização avançada da aplicação no celular (smartphone) – com mapas
------------
+1-  Seleccione la solicitud que es aprobada;
 
-##### Atualizando as coordenadas de uma unidade
+2-  Se mostrará la pantalla de "Detalles" mostrando la descripción de la
+    solicitud para aprobación/rechazo de la misma;
 
-Atualize as coordenadas de uma unidade para que o sistema possa identificar a
-localização da mesma.
 
-1-  Para visualizar as solicitações de trabalho pelo mapa, pressione a opção
-    Pessoal ou Grupo e logo em seguida pressione o ícone "Obter coordenadas". Será apresentado o
-    mapa exibindo a localização das solicitações;
+![rejeição](images/app-android-es-17.jpg)
 
-![em mapa](images/app-android-pt-19.jpg)
+Figura 17 - Pantalla de aprobación/rechazo de solicitud
 
-Figura 19 - Solicitação em mapa
+3-  Para aprobar la solicitud, basta con presionar el botón "Aprobar";
+
+4-  Para rechazar la solicitud, pulse el botón "Rechazar". Se mostrará una
+    pantalla para elegir la justificación de este rechazo, como se muestra en la
+    figura siguiente:
+
+
+![justificava](images/app-android-es-18.jpg)
+
+Figura 18 - Pantalla justificada de rechazo de la solicitud
+
+   +  Elija la justificación del rechazo de la solicitud y pulse el botón Ok.
+
+
+Utilización avanzada de la aplicación em el celular (smartphone) - con mapas
+----------------------------------------------------------------------------
+
+### Actualizando las coordenadas de una unidad
+
+Actualice las coordenadas de una unidad para que el sistema pueda identificar la
+ubicación de la misma.
+
+1-  Para ver las solicitudes de trabajo a través del mapa, pulse la opción Personal o Grupo y, a continuación, pulse el icono "Obtener coordenadas". Se mostrará el mapa mostrando la ubicación de las solicitudes;
+
+![em mapa](images/app-android-es-19.jpg)
+
+Figura 19 - Solicitud en mapa
 
 2-  Para atualizar as coordenadas, pressione o ícone localizado no canto
     direito superior da tela e pressione a opção “Obter Coordenadas”, dependendo
     da resolução da tela, será exibido o ícone com formato de uma bandeira,
     basta pressionar o mesmo para atualização das coordenadas;
 
-![coordenadas](images/app-android-pt-20.jpg)
+![coordenadas](images/app-android-es-20.jpg)
 
-Figura 20 - Obter coordenadas
+Figura 20 - Obtener coordenadas
 
-![obter coordenadas](images/app-android-pt-21.jpg)
+![obter coordenadas](images/app-android-es-21.jpg)
 
-Figura 21 - Ícone para obter coordenadas
+Figura 21 - Icono para obtener coordenadas
 
-3-  Será apresentada a tela “Obter Coordenadas”:
+3-  Se mostrará la pantalla "Obtener Coordenadas":
 
-![Tela de obter](images/app-android-pt-22.jpg)
+![Tela de obter](images/app-android-es-22.jpg)
 
-Figura 22 -Tela de obter coordenadas
+Figura 22 -Pantalla de obtener coordenadas
 
-   -   Selecione o contrato e a unidade. Feito isso, pressione o botão "Obter
-       Coordenadas" para efetuar a operação;
+  -   Seleccione el contrato y la unidad. Hecho esto, presione el botón "Obtener
+      Coordenadas" para efectuar la operación;
 
-   -   Será enviado sua latitude e longitude ao servidor (CITSmart Enterprise Web).
+  -   Se enviará su latitud y longitud al servidor (CITSmart Enterprise Web).
 
-##### Atendendo solicitação de serviço
+
+### Atendiendo la solicitud de servicio
+
+!!! Abstract "REGLA"
+
+    Si está en la lista de solicitudes de grupo, y responde a la solicitud, la
+    misma pasará a ser personal, que se muestra en la lista de solicitudes
+    personales.
+
+1-  Para detener una solicitud de servicio, seleccione la solicitud deseada;
+
+2-  Si está visualizando las solicitudes vía mapa y si sólo tiene una solicitud
+    de servicio registrada es posible realizar su llamada a través del mapa,
+    basta con presionar el punto de localización de la solicitud y luego
+    seleccionar la solicitud. Si tiene más de una solicitud de servicio, al
+    presionar el punto de localización de la solicitud, se dirigirá a la lista
+    de solicitud personal o del grupo.
+
+
+![Atendimento](images/app-android-es-23.jpg)
+
+Figura 23 - Servicio de solicitud vía mapa
+
+3-  Después de seleccionar la solicitud, aparecerá la pantalla de "Detalles" de
+    la misma, según el ejemplo presentado en la figura abajo:
+
+
+![serviço](images/app-android-es-24.jpg)
+
+Figura 24 - Contestar solicitud de servicio
+
+4-  Pulse el botón "Atender". Se dirigirá a la pantalla de la solicitud, donde
+    será posible realizar el check-in;
+
+
+![Solicitação serviço](images/app-android-es-25.jpg)
+
+Figura 25 - Solicitud de servicio
+
+5-  Para ver la ruta de donde realizará la atención, basta presionar el
+    botón "Vea la Ruta";
+
+
+   +  Se mostrará una pantalla para elegir la aplicación de visualización de la ruta;
+
+![visualizar a rota](images/app-android-es-26.jpg)
+
+Figura 26 - Aplicación para ver la ruta
+
+   +  Seleccione la aplicación que utilizará para ver la ruta;
+
+   +  Se mostrará la pantalla de visualización de la ruta;
+
+   +  La ruta se mostrará desde su ubicación hasta la ubicación de la solicitud.
+
+!!! Abstract "REGLA"
+
+    Para que sea posible visualizar la ruta, es necesario que la unidad tenga
+    las coordenadas configuradas a partir de una longitud y latitud.
+
+
+6-  Después de verificar la ruta y llegar al lugar para atender la solicitud de servicio, realice el check-in de la solicitud;
+
+7-  Para realizar el check-in, presione el icono situado en la barra superior de la pantalla;
+
+   +  Se mostrará la pantalla de "Check-in", como se muestra en la figura siguiente:
+
+![check-in](images/app-android-es-27.jpg)
+
+Figura 27 - Pantalla de check-in
+
+   -  Presione el botón Check-in para efectuar la operación;
 
 !!! Abstract "REGRA"
 
-    Se estiver na lista de solicitações de grupo, e atender à solicitação, a
-    mesma passará a ser pessoal, sendo exibida na lista de solicitações
-    pessoais.  
+    Al realizar el check-in, si la solicitud está suspendida, la misma será reactivada y capturada.
 
-1-  Parar atender uma solicitação de serviço, selecione a solicitação desejada;
+8-  Después de realizar el check-in, se mostrará la pantalla para realizar el check-out;
 
-2-  Se estiver visualizando as solicitações via mapa e caso tenha somente uma
-    solicitação de serviço registrada é possível realizar o seu atendimento
-    através do mapa, basta pressionar o ponto de localização da solicitação e
-    logo em seguinte selecionar a solicitação. Caso tenha mais de uma
-    solicitação de serviço, ao pressionar o ponto de localização da solicitação,
-    será direcionado para lista de solicitação pessoal ou do grupo.
 
-![Atendimento](images/app-android-pt-23.jpg)
+![check-out](images/app-android-es-28.jpg)
 
-Figura 23 - Atendimento de solicitação via mapa
+Figura 28 - Pantalla de check-out
 
-3-  Após selecionar a solicitação, será apresentada a tela de “Detalhes” da
-    mesma, conforme o exemplo apresentado na figura abaixo:
+   +  Informe el estado del atendimiento de la solicitud;
 
-![serviço](images/app-android-pt-24.jpg)
+![check-out](images/app-android-es-29.jpg)
 
-Figura 24 - Atender solicitação de serviço
+Figura 29 - Check-out - Estado de la solicitud de servicio
 
-4-  Pressione o botão "Atender". Será direcionada para tela da solicitação, onde
-    será possível realizar o check-in;
+   +   Seleccione el estado y pulse "OK";
 
-![Solicitação serviço](images/app-android-pt-25.jpg)
+   +   Si selecciona el estado "Suspendido", aparecerá una ventana para registrar el motivo de la suspensión, como se muestra en el ejemplo que se muestra en la figura siguiente:
 
-Figura 25 -Solicitação de serviço
+![motivo](images/app-android-es-30.jpg)
 
-5-  Para visualizar a rota de onde realizará o atendimento, basta pressionar o
-    botão "Ver Rota";
+Figura 30 -  Check-out - Registro del motivo de la suspensión de la solicitud
 
-   +  Será exibida uma tela para escolher o aplicativo de visualização da rota;
+   +   Si ha seleccionado el estado "Resuelto", aparecerá una ventana para registrar el cierre de la solicitud, como se muestra en el          ejemplo que se muestra en la figura siguiente:
 
-![visualizar a rota](images/app-android-pt-26.jpg)
+![encerramento](images/app-android-es-31.jpg)
 
-Figura 26 - Aplicativo para visualizar a rota
+Figura 31 -  Check-out - Registro de Cierre de la Solicitud
 
-   +  Selecione o aplicativo que irá utilizar para visualizar a rota;
+### Notificaciones
 
-   +  Será exibida a tela de visualização da rota;
+La aplicación CITSmart Enterprise Mobile se está ejecutando en segundo plano en
+el teléfono móvil, a través de lo que recibirá automáticamente notificaciones
+que son pasivas de acción.
 
-   +  O caminho será mostrado a partir da sua localização até o local da
-      solicitação.
+1-  Siempre que esté cerca del lugar de respuesta de una solicitud de servicio,
+    recibirá una notificación, como se muestra en la figura siguiente:
 
-!!! Abstract "REGRA"
 
-    Para que seja possível visualizar a rota, é necessário que a unidade tenha
-    as coordenadas configuradas a partir de uma longitude e latitude.  
+![proximidade](images/app-android-es-32.jpg)
 
-6-  Após verificar a rota e chegar no local para atendimento da solicitação de
-    serviço, realize o check-in da solicitação;
+Figura 32 - Notificación de proximidad del lugar de la atención de la solicitud
 
-7-  Para realizar o check-in, pressione o ícone localizado na barra superior da
-    tela;
+   +   Seleccione la notificación, donde aparecerá una pantalla preguntando si desea realizar el Check-in, como ejemplo ilustrado en la figura abajo:
 
-   +  Será exibida a tela de “Check-in”, conforme exemplo apresentado na figura
-      abaixo:
+![justificava de rejeição](images/app-android-es-33.jpg)
 
-![check-in](images/app-android-pt-27.jpg)
+Figura 33 - Pantalla de justificación de rechazo de la solicitud
 
-Figura 27 - Tela de check-in
+   +  Responde si desea realizar el Check-in;
 
-   -  Pressione o botão "Check-in" para efetuar a operação;
+   +  Al presionar el botón "Sí', se dirigirá a la pantalla de Check-in;
 
-!!! Abstract "REGRA"
+   +  Al presionar el botón "No", se dirige a la pantalla de registro de la negación del Check-in, según el ejemplo ilustrado en la figura       siguiente:
 
-    Ao realizar o check-in, caso a solicitação esteja suspensa, a mesma será
-    reativada e capturada.
+![negação do check-in](images/app-android-es-34.jpg)
 
-8-  Após realizar o check-in será exibida a tela para realizar o check-out;
+Figura 34 - Pantalla de negación del check-in
 
+   +  Introduzca el motivo de la denegación del registro de la solicitud.
 
-![check-out](images/app-android-pt-28.jpg)
+2-  Cuando esté cerca del lugar de atención de más de una solicitud de servicio, recibirá una notificación que contenga la cantidad de       solicitudes, según el ejemplo que se muestra en la figura siguiente:
 
-Figura 28 - Tela de check-out
+![atendimento de várias](images/app-android-es-35.jpg)
 
-   +  Informe o status do atendimento da solicitação;
+Figura 35 - Notificación de proximidad del lugar de respuesta de varias solicitudes
 
-![check-out](images/app-android-pt-29.jpg)
+   +  Al seleccionar la notificación, se muestra una lista de solicitudes cercanas a su ubicación, como se muestra en la figura               siguiente:
 
-Figura 29 - Check-out - Status da solicitação de serviço
+![Solicitações próximas](images/app-android-es-36.jpg)
 
-   +   Selecione o status e pressione "OK";
+Figura 36 -Solicitudes próximas
 
-   +   Caso tenha selecione o status “Suspensa”, será exibida uma janela para
-       registrar o motivo da suspensão, conforme apresentada no exemplo ilustrado
-       na figura abaixo:
+3-  Cuando un solicitante delegar una solicitud de servicio, recibirá una notificación, según el ejemplo que se muestra en la figura         siguiente:
 
-![motivo](images/app-android-pt-30.jpg)
+![solicitação recebida](images/app-android-es-37.jpg)
 
-Figura 30 -  Check-out - Registro do motivo da suspensão da solicitação
+Figura 37 - Notificación de solicitud recibida
 
-   +   Caso tenha selecionado o status “Resolvida”, será exibida uma janela para
-       registrar o encerramento da solicitação, conforme apresentada no exemplo
-       ilustrado na figura abaixo:
-
-![encerramento](images/app-android-pt-31.jpg)
-
-Figura 31 -  Check-out - Registro de encerramento da solicitação
-
-##### Notificações
-
-O aplicativo CITSmart Enterprise Mobile fica rodando em background no celular,
-através disso, você recebe automaticamente notificações que são passiveis de
-ação.
-
-1-  Sempre que você estiver próximo ao local de atendimento de uma solicitação
-    de serviço, receberá uma notificação, conforme o exemplo ilustrado na figura
-    abaixo:
-
-![proximidade](images/app-android-pt-32.jpg)
-
-Figura 32 - Notificação de proximidade do local de atendimento da
-solicitação
-
-   +   Selecione a notificação, onde será exibida uma tela questionando se deseja
-       realizar o Check-in, conforme exemplo ilustrado na figura abaixo:
-
-![justificava de rejeição](images/app-android-pt-33.jpg)
-
-Figura 33 - Tela de justificava de rejeição da solicitação
-
-   +  Responda se deseja realizar o Check-in;
-
-   +  Ao pressionar o botão "Sim", será direcionado para tela de Check-in;
-
-   +  Ao pressionar o botão "Não", será direcionada para tela de registro da
-      negação do Check-in, conforme o exemplo ilustrado na figura abaixo:
-
-![negação do check-in](images/app-android-pt-34.jpg)
-
-Figura 34 - Tela de negação do check-in
-
-   +  Informe o motivo da negação do Check-in da solicitação.
-
-2-  Quando estiver próximo ao local de atendimento de mais de uma solicitação de
-    serviço, receberá uma notificação contendo a quantidade de solicitações,
-    conforme o exemplo ilustrado na figura abaixo:
-
-![atendimento de várias](images/app-android-pt-35.jpg)
-
-Figura 35 - Notificação de proximidade do local de atendimento de várias
-solicitações
-
-   +  Ao selecionar a notificação, será exibida uma lista de solicitações próximas
-      de sua localização, conforme exemplo ilustrado na figura abaixo:
-
-![Solicitações próximas](images/app-android-pt-36.jpg)
-
-Figura 36 -Solicitações próximas
-
-3-  Quando um solicitante delegar uma solicitação de serviço, receberá uma
-    notificação, conforme o exemplo ilustrado na figura abaixo:
-
-![solicitação recebida](images/app-android-pt-37.jpg)
-
-Figura 37 -Notificação de solicitação recebida
-
-   +  Selecione a notificação para ser direcionado à sua lista de solicitação
-      pessoal.
+   +  Seleccione la notificación para que se dirija a su lista de solicitud personal.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins
 
 
