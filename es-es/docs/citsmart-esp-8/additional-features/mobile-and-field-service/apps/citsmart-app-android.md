@@ -169,6 +169,7 @@ Figura 8 - Lista de solicitud del grupo
 
 
 ![Lista de solicitações](images/app-android-es-9.jpg)
+
 Figura 9 - Lista de solicitudes
 
 !!! Abstract "REGLA"
