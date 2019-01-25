@@ -1,38 +1,37 @@
-title: Pesquisar evento
-Description: Tem por objetivo a localização de um evento dentro da tela de Gerenciamento de Eventos. 
-#Pesquisar evento
-Esta funcionalidade tem por objetivo a localização de um evento dentro da tela de Gerenciamento de Eventos.
+title: Buscar evento
+Description: tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
+#Buscar evento
+Esta funcionalidad tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
 
-Antes de começar
---------------------
-
-Para realizar a localização das informações é necessário ter o registro de um
-evento coletado pela ferramenta de monitoração.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+Para realizar localizar las informaciones, es necesario tener el registro de un
+evento recolectado por la herramienta de monitoreo.
 
-2.  Clicar no campo descrito "Pesquise aqui" e digite a informação (pode ser o
-    ID da ocorrência, o nome de um host ou nome da ferramenta de monitoração)
-    para uma pesquisa rápida;
+Procedimiento
+-------------
 
-3.  Clicar no ícone simbolizado pela seta para baixo dentro do campo de pesquisa
-    para uma pesquisa avançada e utilizar os filtros disponíveis;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
 
-4.  Preencher os filtros que necessitar e clicar no botão simbolizado por uma
-    lupa.
+2.  Hacer clic en el campo "Buscar aquí" y poner la información (puede ser el
+    identificador de la instancia, el nombre de un host o el nombre de la
+    herramienta de supervisión) para una búsqueda rápida;
+
+3.  Hacer clic en el icono simbolizado por la flecha hacia abajo dentro del
+    campo de búsqueda dentro del campo de búsqueda para la búsqueda avanzada y
+    utilizar los filtros disponibles;
+
+4.  Completar los filtros y hacer clic en el icono simbolizado por una lupa.
 
 Relacionado
 ----------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
