@@ -1,33 +1,33 @@
-title: Cadastrar ação automática de escalonamento
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ação automática de escalonamento.
-#Cadastrar ação automática de escalonamento
+title: Registrar acción automatica de escalonamiento
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acción automatica de escalonamiento.
+#Registrar acción automatica de escalonamiento
 
-Esta funcionalidade tem por objetivo a ação de agendamento. Ela será o
-complemento para se criar uma regra de escalonamento.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir ação automática de escalonamento.
+Esta funcionalidad tiene como objetivo la acción de programación. Es el
+complemento para crear una regla de escalonamiento.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar acción automatica de escalonamiento.
 
-1.  Para ter acesso clicar no menu principal Sistema \> Ações automáticas \>
-    Ações de escalonamento;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones de
+    Escalonamiento;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar em "Gravar".
+3.  Completar los campos disponibles;
 
+4.  Hacer clic en "Guardar".
 
 Relacionado
 -------
 
-[Criar regra de escalonamento](/pt-br/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
+[Crear regLa de escalonamiento](/es-es/citsmart-esp-8/processes/tickets/use/create-escalation-rule.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins
