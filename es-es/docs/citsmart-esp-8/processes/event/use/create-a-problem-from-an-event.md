@@ -2,6 +2,7 @@ title: Crear solicitud de problema desde un evento
 Description: Tiene por objetivo crear una solicitud de problema en un evento.
 #Crear solicitud de problema desde un evento
 Esta funcionalidad tiene por objetivo crear una solicitud de problema en un evento.
+
 Antes de empezar
 ----------------
 
