@@ -5,46 +5,132 @@ Title: Realizar a instalação
 Instalação do Servidor de Aplicação Wildfly
 -------------------------------------------
 
-1- Descompactar o pacote JAVA JDK no diretório /opt e criar um link
+1. Descompactar o pacote JAVA JDK no diretório /opt e criar um link
 simbólico conforme mostrado no exemplo abaixo. *(Caso já tenha feito a
 instalação do item Servidor de Indexação Apache Solr (sessão Configuração dos
 pacotes) no mesmo servidor que ficará o Wildfly, não será necessário a execução
 dos comandos de instalação do Java JDK abaixo)*.
 
-| *\# tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/ \# ln -s /opt/jdk1.8.0_172 /opt/jdk* |
-|---------------------------------------------------------------------------------------|
+    ```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+    ```
+    
+    ```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+    ```
+    
+2. Executar os comandos abaixo para configuração dos pacotes para o CITSmart;
+    
+    ```sh
+    tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/ 
+    ```
+    
+    ```sh
+    ln -s /opt/wildfly-12.0.0.Final /opt/wildfly 
+    ```
+    
+    ```sh
+    cp /etc/skel/.bash_profile /opt/wildfly/
+    ```
+    
+    ```sh
+    tar xzvf assets.tar.gz -C /opt/wildfly/
+    ```
+    
+    ```sh
+    mkdir /opt/wildfly/reports
+    ```
+    
+3. Criar um usuário para administração do Wildfly;
 
+    ```sh
+    groupadd -r citsmart
+    ```
 
-2- Executar os comandos abaixo para configuração dos pacotes para o CITSmart.
+    ```sh
+    useradd -r -g citsmart -d /opt/wildfly -s /sbin/nologin citsmart
+    ```
 
-| *\# tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/ \# ln -s /opt/wildfly-12.0.0.Final /opt/wildfly \# cp /etc/skel/.bash_profile /opt/wildfly/ \# tar xzvf assets.tar.gz -C /opt/wildfly/ \# mkdir /opt/wildfly/reports* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ```sh
+    chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+    ```
 
+    ```sh
+    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
+    ```
 
-3- Criar um usuário para administração do Wildfly.
-
-4- Criar o usuário **citsmart** e aplicar as permissões necessárias
+4. Criar o usuário **citsmart** e aplicar as permissões necessárias
 conforme exemplo abaixo.
 
-| *\# groupadd -r citsmart \# useradd -r -g citsmart -d /opt/wildfly -s /sbin/nologin citsmart \# chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R \# chown citsmart:citsmart /opt/jdk1.8.0_172/ -R* |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ```sh
+    vim /opt/wildfly/.bash_profile
+    ```
+    ```java
+    export JAVA_HOME="/opt/jdk"
+    export JBOSS_HOME="/opt/wildfly"
+    export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
+    ```
 
-
-5- Configurar o **PATH** do para o JAVA_HOME e o JBOSS_HOME. Para
+5. Configurar o **PATH** do para o JAVA_HOME e o JBOSS_HOME. Para
 isso fazer conforme exemplo abaixo.
 
-| *\# vim /opt/wildfly/.bash_profile export JAVA_HOME="/opt/jdk" export JBOSS_HOME="/opt/wildfly" export PATH="\$JAVA_HOME/bin:\$JBOSS_HOME/bin:\$PATH"* |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ```sh
+    su - citsmart -s /bin/bash
+    ```
 
+    ```sh
+    java -version
+    ```
+    ```html
+    java version "1.8.0_172"
+    Java(TM) SE Runtime Environment (build 1.8.0_172-b11)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode)
 
-6- Fazer um teste para validar se o Wildfly está iniciando corretamente até esse
+    ```sh
+    bin/standalone.sh
+    ```
+
+6. Fazer um teste para validar se o Wildfly está iniciando corretamente até esse
 ponto. Para isso executar os comandos abaixo.
 
-| *\# su - citsmart -s /bin/bash \$ java -version java version "1.8.0_172" Java(TM) SE Runtime Environment (build 1.8.0_172-b11) Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode) \$ bin/standalone.sh* |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ```sh
+    mv standalone.conf standalone.dist
+    ```
 
+    ```sh
+    vim standalone.conf
+    ```
+    ```java
+    if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
+    JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
+    fi  
+    if [ "x$JAVA_OPTS" = "x" ]; then
+    JAVA_OPTS="$JAVA_OPTS -Xms5200m"
+    JAVA_OPTS="$JAVA_OPTS -Xmx5200m"
+    JAVA_OPTS="$JAVA_OPTS -XX:MinHeapFreeRatio=40"
+    JAVA_OPTS="$JAVA_OPTS -XX:MaxHeapFreeRatio=80"
+    JAVA_OPTS="$JAVA_OPTS -XX:NewRatio=8"
+    JAVA_OPTS="$JAVA_OPTS -XX:SurvivorRatio=32"
+    JAVA_OPTS="$JAVA_OPTS -XX:+UseG1GC"
+    JAVA_OPTS="$JAVA_OPTS -XX:G1HeapRegionSize=4"
+    JAVA_OPTS="$JAVA_OPTS -XX:InitiatingHeapOccupancyPercent=50"
+    JAVA_OPTS="$JAVA_OPTS -Djava.net.preferIPv4Stack=true"
+    JAVA_OPTS="$JAVA_OPTS -Dorg.jboss.resolver.warning=true"
+    JAVA_OPTS="$JAVA_OPTS -Duser.timezone="America/Sao_Paulo""
+    JAVA_OPTS="$JAVA_OPTS -Djboss.modules.system.pkgs=$JBOSS_MODULES_SYSTEM_PKGS"
+    JAVA_OPTS="$JAVA_OPTS -Djava.awt.headless=true"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.server.default.config=standalone-full-ha.xml"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address=0.0.0.0"
+    JAVA_OPTS="$JAVA_OPTS -Djboss.bind.address.management=0.0.0.0"
+    else
+    echo "JAVA_OPTS already set in environment; overriding default settings with values: $JAVA_OPTS"
+    fi
+    ```
+    ```sh
+    chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
+    ```
 
-7-Parar o Wildfly (Iniciado anteriormente) e configurar o standalone.conf no
+7. Parar o Wildfly (Iniciado anteriormente) e configurar o standalone.conf no
 diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
 
 | *\# mv standalone.conf standalone.dist \# vim standalone.conf* |                                                                                                                                                                                                               
