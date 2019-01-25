@@ -1,22 +1,25 @@
-title: Cadastrar moeda
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as moedas que serão utilizadas em outras rotinas do sistema.
-#Cadastrar moeda
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as moedas que serão utilizadas em outras rotinas do sistema.
+title: Registrar moneda
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar las monedas que se van utilizar en otras rutinas del sistema.
+#Registrar moneda
 
-Procedimento
-------------
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar las
+monedas que se van utilizar en otras rutinas del sistema.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Moeda;
+Procedimiento
+-----------------
 
-2.  Preencher o campo disponibilizado;
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Moneda;
 
-3.  Clicar em "Gravar".
+2.  Completar los campos disponibles;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+3.  Hacer clic en "Guardar".
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
 
