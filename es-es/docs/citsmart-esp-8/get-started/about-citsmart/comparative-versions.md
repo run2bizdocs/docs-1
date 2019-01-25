@@ -2,7 +2,7 @@ Title: Comparación - ESP 7 vs 8
 
 # Comparación - CITSmart ESP 7 vs 8
 
-| Soporte, Procesos Gerenciales, Funcionalidades, Integraciones e Seguridad    |    CITSmart ESP 7    |    CITSmart ESP 8    |
+| Soporte, Procesos Gerenciales, Funcionalidades, Integraciones...    |    CITSmart ESP 7    |    CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Aplicación Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
