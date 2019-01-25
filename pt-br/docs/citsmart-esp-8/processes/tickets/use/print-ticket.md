@@ -3,7 +3,7 @@ Description: Visa permitir imprimir o resumo dos dados principais do ticket dese
 #Imprimir um Ticket
 Esta funcionalidade visa permitir imprimir o resumo dos dados principais do ticket desejado. 
 
-Antes de Começar
+Antes de começar
 ----------------
 
 Para visualizar e gerar a impressão é necessário desabilitar o pop-up do
