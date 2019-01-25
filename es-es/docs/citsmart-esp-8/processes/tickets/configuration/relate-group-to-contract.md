@@ -1,47 +1,52 @@
-title: Como relacionar grupo ao contrato?
-Description: Demonstra como relacionar um grupo a um contrato.
-#Como relacionar grupo ao contrato?
+title: ¿Cómo relacionar el grupo al contrato?
+Description: Demuestra cómo relacionar un grupo a un contrato.
+#¿Cómo relacionar el grupo al contrato?
 
-Para relacionar grupo ao contrato, proceder conforme as orientações abaixo:
 
-1.  Acessar a funcionalidade através da navegação
-    no menu principal Parametrização > Parâmetros CITSmart. Será apresentada a tela de Parâmetros do
-    CITSmart, clicar na aba **Pesquisa de Parâmetros do CITSmart**;
+Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
 
-2.  Realizar a pesquisa do parâmetro "41 - Faz o controle de vínculo de
-    colaboradores aos contratos (S/N)?" e selecionar o mesmo;
+1.  Acceda a la funcionalidad de** Parámetros de CITSmart a través de la
+    navegación en el menú principal Parametrización \> Parámetros CITSmart.
+    Se mostrará la pantalla de **Parámetros de CITSmart**, haga clic en la
+    pestaña de consulta de parámetros de CITSmart;
 
-3.  No campo **valor**, informar o valor "S" para que seja exibido os contratos
-    na tela de cadastro de grupo. Feito isso, clicar no botão "Gravar" para
-    efetuar a operação, neste caso a data, hora e usuário serão armazenados
-    automaticamente para uma futura auditoria;
+2.  Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de
+    colaboradores a los contratos (S/N)?" y seleccione. Después de eso,
+    aparecerá la pantalla de registro del parámetro con el contenido referente
+    al registro seleccionado;
 
-4.  Após configurar o parâmetro, acessar a funcionalidade de Cadastro de
-    Grupo através da navegação no menu principal Acesso e
-    Permissão \>Grupo. Será apresentada a tela de cadastro de grupo,
-    exibindo os contratos;
+3.  En el campo **valor**, introduzca el valor "S" para que se muestren los
+    contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el
+    botón Grabar para efectuar la operación, en este caso la fecha, hora y
+    usuario serán almacenados automáticamente para una futura auditoría;
 
-5.  Caso o grupo que deseja vincular ao contrato já esteja registrado no
-    sistema, realizar a pesquisa do grupo e selecionar o mesmo;
+4.  Después de configurar el parámetro, acceda a la funcionalidad de registro de
+    grupo a través de la navegación en el menú principal Accesso y Permisos \>
+    Grupo. Se mostrará la pantalla de registro de grupo, mostrando los
+    contratos;
 
-6.  Feito isso, será exibida a tela de registro do determinado grupo;
+5.  Si el grupo que desea vincular al contrato ya está registrado en el sistema,
+    realice la búsqueda del grupo y seleccione el mismo;
 
-7.  Selecionar os contratos, os quais o grupo será vinculado. Após isso, clicar
-    no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário
-    serão armazenados automaticamente para uma futura auditoria.
+6.  Hecho esto, se mostrará la pantalla de registro del determinado grupo;
+
+7.  Seleccione los contratos a los que se vinculará el grupo. Haga clic en el
+    botón "Grabar" para efectuar la operación, en este caso la fecha, hora y
+    usuario serán almacenados automáticamente para una futura auditoría.
+
 
 
 Relacionado
 -------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/25/2019 – Anna Martins
