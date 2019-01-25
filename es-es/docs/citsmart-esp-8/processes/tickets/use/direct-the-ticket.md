@@ -1,46 +1,45 @@
-title:  Direcionar o ticket
-Description: A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
-#Direcionar o ticket
-A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
+title:  Dirigir ticket 
+Description: La funcionalidad permite dirigir la atención de la solicitud/incidente para el grupo 
+#Dirigir ticket
+La funcionalidad permite dirigir la atención de la solicitud/incidente para el grupo q o atendimento da solicitação/incidente para el grupo que quieras.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Pra direcionar o atendimento do ticket é necessário o cadastro prévio deste e
-possuir permissão para executar o mesmo.
+Para dirigir la atención del ticket, es necesario registrar anteriormente el
+ticket y tener permiso para ejecutarlo.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceder la funcionalidad por el menú principal Processos \> Gerência de
+    Requisição e Incidente \> Ticket;
 
-2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
-    ícone “Abrir”;
+2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3.  No campo **Direcionar para grupo**, selecionar o grupo para o qual será
-    direcionado o ticket para realizar o atendimento do mesmo;
+3.  En el campo Dirigir para grupo, seleccione el grupo para el cual será
+    direccionado el ticket para realizar su atención;
 
-4.  Clicar no botão de “Opções” e logo em seguida clique no botão “Gravar e
-    avançar fluxo”, onde o ticket será encaminhado para fase de atendimento.
-    Mas, caso queira gravar somente as informações registradas sobre a validação
-    do ticket e manter a tarefa atual, clique no botão “Gravar e manter tarefa
-    atual”.
+4.  Haga clic en el botón de “Opciones” y después en el botón “Grabar y avanzar
+    el flujo” para guardar y avanzar el flujo, el ticket será dirigido para la
+    fase de atención. Pero, si desea guardar sólo la información registrada
+    sobre la validación del ticket y mantener la tarea actual, haga clic en el
+    botón “Guardar y mantener la tarea actual”.
 
 Relacionado
 -----------
 
-[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
