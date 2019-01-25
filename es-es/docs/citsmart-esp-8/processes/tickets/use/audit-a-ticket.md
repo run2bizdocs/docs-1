@@ -25,14 +25,14 @@ Procedimiento
 !!! warning "ATENCIÓN"
 
     En la interfaz de gestión de tickets, específicamente en el apartado "Auditoría",
-    al intentar configurar la auditoría de un ticket abierto (definir las fechas de
-    inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará
-    el mensaje de "fecha no válida". Esto es porque la funcionalidad necesita que el
-    el idioma definido en el sistema y en el explorador utilizado son idénticos.
+    al intentar configurar la auditoría de un ticket abierto (definir las fechas de
+    inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará
+    el mensaje de "fecha no válida". Esto es porque la funcionalidad necesita que el
+    el idioma definido en el sistema y en el explorador utilizado son idénticos.  
 
-    Si este requisito no se observa y se produce esta diferencia en los idiomas,
-    auditar los tickets el sistema presentará un mensaje lo que imposibilitará
-    obtener el informe deseado.
+    Si este requisito no se observa y se produce esta diferencia en los idiomas, 
+    auditar los tickets el sistema presentará un mensaje lo que imposibilitará 
+    obtener el informe deseado.
 
 
 Relacionado
