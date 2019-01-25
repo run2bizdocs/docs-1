@@ -1,32 +1,38 @@
-title: Verificar o histórico de atendimento
-Description: Tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
-#Verificar o histórico de atendimento
-Esta funcionalidade tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
-Nesta tela, poderá visualizar o histórico de atendimento de solicitação de serviço feito pelos técnicos de campo, de acordo com os filtros informados.
+title: Verificar historial de atención
+Description: Verificar el historial de atención de las solicitudes de servicios realizado por los técnicos de campo.
+#Verificar historial de atención
 
-Antes de começar
-----------------
+Esta funcionalidad tiene por objetivo verificar el historial de atención de las
+solicitudes de servicios realizado por los técnicos de campo.
 
-Para verificar o histórico de atendimento é necessário, anteriormente,
-configurar a conexão do sistema com as API's do Google.
+En esta pantalla, podrá visualizar el historial de atención de solicitud de
+servicio realizado por los técnicos de campo, de acuerdo con los filtros
+informados.
 
-Procedimento
-------------
+Antes de empezar
+--------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Força de Atendimento \> Histórico de Atendimento;
+Para comprobar el historial de atención, es necesario, antes, configurar la
+conexión del sistema con las API de Google.
 
-2.  Definir os filtros de acordo com a necessidade. Lembrar que ao selecionar o
-    técnico, serão apresentadas as solicitações de serviços que o mesmo atendeu
-    e que faz referência aos contratos que ele pertence;
+Procedimiento
+-----------------
 
-3.  Após os filtros definidos, clicar no botão "Pesquisar". Será exibido no mapa
-    o histórico de atendimento das solicitações de serviço pelo técnico de
-    campo.
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Fuerza de
+    Tratamiento \> Historial de Tratamiento;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+2.  Definir los filtros de acuerdo con la necesidad. Recordar que al seleccionar
+    el técnico, se presentarán las solicitudes de servicios que el mismo atendió
+    y que hace referencia a los contratos que él/ella pertenece;
+
+3.  Después de definir los filtros, hacer clic en "Buscar". Se mostrará en el
+    mapa, el historial de atención de las solicitudes de servicio por el técnico
+    de campo.
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"  
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
