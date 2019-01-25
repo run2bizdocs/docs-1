@@ -1,26 +1,31 @@
-title: Exportar os dados dos contratos
-Description: Tem por objetivo de exportar os dados para facilitar a carga inicial dos dados relacionados aos contratos. 
-#Exportar os dados dos contratos
-Esta funcionalidade tem por objetivo de exportar os dados para facilitar a carga inicial dos dados relacionados aos contratos.
+title: Exportar datos de los contratos
+Description: Exportar los datos para facilitar la carga inicial de los datos relacionados con los contratos.
+#Exportar datos de los contratos
 
-Procedimento
-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada\> Gerência de Contratos \> Exportação;
+Esta funcionalidad tiene por objeto exportar los datos para facilitar la carga
+inicial de los datos relacionados con los contratos.
 
-2.  Informar os dados que serão importados (contratos, grupos, exportar
-    unidades, exportar acordo de nível de serviço, exportar catálogo de
-    serviço);
+Procedimiento
+-----------------
 
-3.  Clicar no botão "Exportar";
+1.  Acceder al menú principal Gestión Integrada\> Gestión de Contratos \>
+    Exportación;
 
-4.  Para confirmar a execução da exportação, clicar em "OK".
+2.  Informar de los datos que se importarán (contratos, grupos, exportar
+    unidades, exportar acuerdo de nivel de servicio, exportar catálogo de
+    servicio);
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+3.  Hacer clic en "Exportar";
+
+4.  Para confirmar la ejecución de la exportación, hacer clic en "OK".
+
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
 
