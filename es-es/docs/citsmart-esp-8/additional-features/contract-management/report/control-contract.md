@@ -1,22 +1,28 @@
-title: Controlar os contratos
-Description: Permite gravar os registros de uma entrada de um novo contrato. 
-#Controlar os contratos
-Esta funcionalidade permite gravar os registros de uma entrada de um novo contrato.
-A tela grava registros do que foi acordado para o contrato: o registro de ocorrência, quem é o responsável pelo treinamento e qual é a data de treinamento sobre o software.
+title: Controlar los contratos
+Description: Permite guardar los registros de una entrada de un nuevo contrato.
+#Controlar los contratos
 
-Procedimento
-------------
+Esta funcionalidad permite guardar los registros de una entrada de un nuevo
+contrato.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Controle de contrato;
+La pantalla guarda los registros de lo que se acordó para el contrato: el
+registro de ocurrencia, quién es el responsable del entrenamiento y cuál es la
+fecha de entrenamiento acerca del software.
 
-2.  Preencher os campos necessários;
+Procedimiento
+-----------------
 
-3.  Clicar no botão "Gravar" para efetuar a operação.
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Control de contrato;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+2.  Completar los campos necesarios;
+
+3.  Hacer clic en "Guardar".
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
