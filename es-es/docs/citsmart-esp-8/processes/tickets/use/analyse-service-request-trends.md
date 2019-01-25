@@ -1,57 +1,57 @@
-title: Analisar tendências de solicitações de serviço
-Description: Esta funcionalidade tem por objetivo realizar uma análise das solicitações.
-#Analisar tendências de solicitações de serviço
-Esta funcionalidade tem por objetivo realizar uma análise das solicitações, baseada na quantidade crítica, para identificar quais itens vão influenciar em um lançamento de uma nova solicitação.
+title: Análisis de tendencias de solicitudes de servicio
+Description: Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes. 
+#Análisis de tendencias de solicitudes de servicio
+Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes, basado en la cantidad crítica, para identificar qué elementos influencian en el lanzamiento de una nueva solicitud.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para realizar a análise de tendências é necessário registrar anteriormente uma
-solicitação de serviço (ticket) e esta estar vinculada ao contrato, além de um
-contrato e o mesmo estar ativo.
+Para hacer el análisis de tendencias, es necesario registrar previamente una
+solicitud de servicio (ticket) y esta estar vinculada al contrato, además de un
+contrato y estar activo.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar o menu principal Processos \> Gerência de Requisição e Incidente \>
-    Análise de Tendências, aba **Solicitações de Serviço**;
+1.  Acceda el menú principal Procesos \> Gestión de Requerimiento e Incidente \>
+    Análisis de Tendencias, en la pestaña **Solicitudes de Servicio**;
 
-2.  Preencher os campos disponibilizados;
+2.  Llenar los campos disponibles;
 
-3.  Clicar em "Pesquisar";
+3.  Haga clic en "Búsqueda";
 
-4.  Em cada guia serão apresentados os resultados referentes a cada tipo
-    (Serviço, Causa e Item de Configuração) e em cada item serão exibidos dois
-    botões, um para **Gerar Gráfico** de Análise de Tendências (conforme
-    ilustrado na figura anterior) o qual apresenta as datas que compreendem o
-    período informado e o número de ocorrências naquela data, e outro para
-    **Criar Problema**, onde será exibida a tela de cadastro de problema para
-    registro das informações necessárias do problema:
+4.  En cada guía, se mostrarán los resultados referentes a cada tipo (Servicio,
+    Causa y Elemento de Configuración), y en cada elemento, se mostrarán dos
+    botones, uno para **Generar Gráfico** de Análisis de Tendencias (como se
+    muestra en la figura anterior), el cual presenta las fechas que comprende el
+    período informado y el número de ocurrencias en esa fecha, y otro para
+    **Crear Problema**, donde será exhibida la pantalla de registro de problema
+    para registrar la información necesaria del problema:
 
--   Ao optar por registrar um problema a partir do **Serviço**, será exibida a
-    tela de cadastro de problema com o campo "Descrição" alimentado com o nome
-    do serviço correspondente;
+-   Al optar por registrar un problema desde el **Servicio**, se mostrará la
+    pantalla de registro de problema con el campo "Descripción" alimentado con
+    el nombre del servicio correspondiente;
 
--   Ao optar por registrar um problema a partir da **Causa**, será exibida a
-    tela de cadastro de problema com os campos "Descrição" e "Causa" alimentados
-    com a descrição da causa correspondente;
+-   Al optar por registrar un problema desde la **Causa**, se mostrará la
+    pantalla de registro de problema con los campos "Descripción" y "Causa"
+    alimentados con la descripción de la causa correspondiente;
 
--   Ao optar por registrar um problema a partir do **Item de Configuração**,
-    será exibida a tela de cadastro de problema com o campo "Descrição"
-    alimentado com informação do item de configuração correspondente.
+-   Al optar por registrar un problema desde el **Elemento de Configuración**,
+    se mostrará la pantalla de registro de problema con el campo "Descripción"
+    alimentado con información del elemento de configuración correspondiente.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
 Cadastrar um problema
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
