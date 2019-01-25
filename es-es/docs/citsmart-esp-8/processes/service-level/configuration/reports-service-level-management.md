@@ -1,41 +1,41 @@
-title: Gerar relatórios - Gerência de Nível de Serviço
-Description: Gera relatórios de diversos tipos na gerência de Nível de Serviço
-#Gerar relatórios - Gerência de Nível de Serviço
-
-Gerar relatório de controle de SLA
----------------------------------
-
-Este relatório tem o objetivo de apresentar os prazos de atendimento das
-solicitações de serviços.
+title: Generar informes - gestión de nivel de servicio
+Description: Genera informes de diversos tipos en la gerencia de Nivel de servicio
+#Generar informes - gestión de nivel de servicio
 
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Níveis de Serviço \> Controle SLA;
+Generar informe de control de SLA
+-------------------------------------
 
-2.  Definir os filtros conforme a necessidade;
+Este informe tiene el objetivo de presentar los plazos de atención de las
+solicitudes de servicios.
 
-3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+1.  Acceder al menú principal Informes \> Gestión de Niveles de Servicio \>
+    Control SLA;
 
-Gerar relatório de controle de SLA atrasado
---------------
+2.  Definir los filtros según sus necesidades;
 
-Este relatório tem o objetivo de apresentar a quantidade de solicitações de
-serviços, por prioridade, que estão com o SLA fora de prazo e dentro do prazo.
+3.  Hacer clic en "Crear PDF" para crear el informe en PDF y/o hacer clic en
+    "Crear XLS" para crear el informe en Excel.
+
+Generar informe de control de SLA retrasado
+-----------------------------------------------
+
+Este informe tiene el objetivo de presentar la cantidad de solicitudes de
+servicios, por prioridad, que están con el SLA fuera de plazo y dentro del
+plazo.
+
+1.  Acceder al menú principal Informes \> Gestión de Niveles de Servicio \>
+    Informe de Control SLA Atrasado;
+
+2.  Definir los filtros según sus necesidades;
+
+3.  Hacer clic en "Crear PDF" para crear el informe en PDF y/o hacer clic en
+    "Crear XLS" para crear el informe ne Excel.
 
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Níveis de Serviço \> Relatório de Controle SLA Atrasado;
-
-2.  Definir os filtros conforme a necessidade;
-
-3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO_W3fA7hiLL0qbrsk6GyV9)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins

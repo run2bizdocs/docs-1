@@ -1,44 +1,45 @@
-title: Criar pasta
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pastas que serão utilizadas para armazenamento e organização dos conhecimentos registrados na base.
-#Criar pasta
+title: Crear carpeta
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar carpetas que se utilizarán para el almacenamiento y la organización de los conocimientos registrados en la base.
+#Crear carpeta
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir pastas que serão utilizadas para armazenamento e organização dos
-conhecimentos registrados na base.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
+carpetas que se utilizarán para el almacenamiento y la organización de los
+conocimientos registrados en la base.
+
+Antes de empezar
 --------------------
 
-É necessário ter registrado previamente um perfil e um grupo.
+Es necesario tener registrado previamente un perfil y un grupo.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Processos \> Gerência de Conhecimento \> Pasta;
+1.  Acceder al menú principal Procesos \> Gestión de Conocimiento \> Carpeta;
 
-2.  Clicar em "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4.  No campo **Perfil de Acesso**, clicar em "Adicionar" e selecionar o(s)
-    perfil(is);
+4.  En el campo **Perfil de Acceso**, hacer clic "Agregar" y seleccionar el
+    perfil;
 
-5.  No campo **Grupo**, clicar em "Adicionar" e selecionar o(s) grupo(s);
+5.  En el campo **Grupo**, hacer clic en "Agregar" y seleccionar los grupos;
 
-6.  Clicar em "Gravar".
+6.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)
 
 !!! tip "About"
     <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins 
+    <b>Updated:</b>01/24/2019 – Anna Martins 

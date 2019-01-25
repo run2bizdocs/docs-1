@@ -1,33 +1,34 @@
-title: Cadastrar notícias
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as notícias que serão publicadas no Smart Portal.
-#Cadastrar notícias
+title: Registrar noticias
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las noticias que se publicarán en el Smart Portal.
+#Registrar noticias
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir as notícias que serão publicadas no Smart Portal.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
+noticias que se publicarán en el Smart Portal.
+
+Antes de empezar
 --------------------
 
-Para realizar o cadastro de uma notícia é necessário realizar o registro de uma
-categoria de notícias previamente.
+Para hacer el registro de una noticia, es necesario tener registrado una
+categoría de noticias.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Cadastro de Notícias \> Notícias;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Registro de Noticias \> Noticias;
 
-2.  Clicar o botão "Adicionar uma nova notícia";
+2.  Hacer clic en "Agregar nueva noticia";
 
-3.  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4.  Clicar no botão "Opções".
+4.  Hacer clic en "Opciones".
 
 
 Relacionado
 -------
 
-[Cadastrar categoria de notícias](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news-category.html)
+[Registrar categoría de noticias](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-news-category.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
@@ -35,4 +36,4 @@ Relacionado
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins

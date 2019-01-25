@@ -17,13 +17,15 @@ eventos relevantes para el negocio.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
 gerente genérico Zabbix.
 
-**Antes de empezar**
+Antes de empezar
+----------
 
 Para registrar el gerente Global, es necesario registrar previamente la conexión
 del CITSmart Event Monitor, horario, categoría de ocurrencia, acción automática
 y la conexión del CITSmart Inventory.
 
-**Procedimiento**
+Procedimiento
+-----------
 
 1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Zabbix \>
     Gerente Genérico Zabbix;

@@ -23,10 +23,10 @@ Procedimiento
 
 2.  Completar los campos disponibles;
 
-3.  Hacer clic en la pestaña Destinatarios - Colaboradores, y despúes en
+3.  Hacer clic en la pestaña **Destinatarios - Colaboradores**, y despúes en
     "Agregar" para vincular los colaboradores;
 
-4.  Hacer clic en la pestaña Destinatarios - Grupos, y después en "Agregar" para
+4.  Hacer clic en la pestaña **Destinatarios - Grupos**, y después en "Agregar" para
     vincular los grupos;
 
 5.  Hacer clic en "Guardar".

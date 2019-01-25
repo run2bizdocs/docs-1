@@ -1,66 +1,65 @@
-title: Cadastrar a continuidade de serviço
-Description: Esta funcionalidade permite registrar a continuidade de determinado serviço.
-#Cadastrar a continuidade de serviço
-O Gerenciamento de Continuidade foca em recuperar os serviços de TI e seus componentes diante de um evento de desastre.
-Esta funcionalidade permite registrar a continuidade de determinado serviço.
+title: Registrar continuidad del servicio
+Description: Permite registrar la continuidad de determinado servicio. 
+#Registrar continuidad del servicio
+La Gestión de Continuidad se centra en recuperar los servicios de TI y sus componentes ante un evento de desastre.
+Esta funcionalidad permite registrar la continuidad de determinado servicio.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É necessário o cadastro prévio da ameaça e da categoria e vincular a categoria
-de ameaça a ameaça cadastrada. Também é essencial cadastrar, anteriormente, o
-risco e a categoria de risco.
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Presupone la existencia de un servicio definido en un proceso de Gestión de
+Portafolio y Catálogo.
 
-2.  Clicar no botão "Registro de Continuidade";
+Es necesario el registro previo de la amenaza y de la categoría y vincular la
+categoría de amenaza a la amenaza registrada. También es esencial registrar
+anteriormente el riesgo y la categoría de riesgo.
 
-3.  Preencher os campos necessários (nome e selecionar o cliente para
-    vincula-lo);
+Igualmente, es crucial registrar las acciones automáticas de incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-4.  Clicar em "Gravar" para efetuar a operação
+Procedimiento
+-------------
 
-O que fazer a seguir
-------------------------
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-Após o registro da continuidade é necessário executar as seguintes ações:
-definir a política de continuidade, cadastrar o escopo da continuidade e definir
-o projeto da continuidade, sendo estas ações parte da fase de Iniciação do
-registro completo da continuidade.
+2.  Hacer clic en "Registro de la Continuidad";
+
+3.  Completar los campos necesarios;
+
+4.  Hacer clic en "Guardar".
+
+Lo que hacer después
+--------------------
+
+Después del registro de la continuidad, es necesario realizar las siguientes
+acciones: definir la política de continuidad, registrar el alcance de la
+continuidad y definir el proyecto de la continuidad, siendo estas acciones parte
+de la fase de iniciación del registro completo de la continuidad.
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

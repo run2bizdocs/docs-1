@@ -1,100 +1,98 @@
-title: Cadastrar a avaliação de riscos da continuidade
-Description: Esta funcionalidade permite cadastrar a avaliação de risco.
-#Cadastrar a avaliação de riscos da continuidade
-O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a avaliação de risco.
+title: Registrar evaluación de riesgo de la continuidade
+Description: Permite registrar la evaluación de riesgo.
+#Registrar evaluación de riesgo de la continuidade
+El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar la evaluación de riesgo.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política e o projeto de continuidade do serviço já definidos, além de ter o
-escopo, as funções vitais e a análise de impacto no negócio da continuidade já
-registradas.
-
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-2.  Localizar a continuidade do qual deseja vincular a avaliação de riscos e
-    clicar no botão "Avançar";
+Es fundamental primero tener el Registro de Continuidad ya catastrado, la
+política y el proyecto de continuidad del servicio ya definido, además de tener
+el alcance a las funciones vitales de la continuidad ya registradas.
 
-3.  Na área **Requisitos e Estratégia**, clicar em "Avaliação de Riscos";
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-4.  Clicar no botão "Adicionar Cenário" e em seguida no ícone simbolizado pelo
-    “+” para preencher os campos necessários;
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-5.  Para adicionar serviços à avaliação de risco, clicar no botão "Adicionar
-    serviço" para pesquisar e vincular o serviço desejado;
+Procedimiento
+-------------
 
-6.  Para adicionar risco à avaliação de risco, clicar no botão Adicionar risco
-    para pesquisar e vincular o risco desejado;
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-7.  Após de adicionar o risco, clicar no ícone simbolizado pelo “+” do mesmo e
-    clicar em "Selecionar Ameaça" e/ou "Adicionar ameaça" para preencher os
-    campos necessários a fim de vincular a ameaça. Para informar os planos de
-    tratativa da ameaça:
+2.  Buscar la continuidad de la que desea vincular la evaluación de riesgos y
+    hacer clic en "Avanzar";
 
-    1.  Apertar na guia "Planos de Tratativa" e em seguida "Adicionar Tratativa"
-        e informe o nome do plano. Logo após, clicar no ícone simbolizado pelo
-        “+” para preencher os campos adicionais ;
+3.  En **Requisitos y Estrategia**, hacer clic en "Evaluación de Riesgos";
 
-    2.  Depois de registrar os dados do plano de tratativa, clicar no
-        ícone “Gráfico de avaliação de riscos” se quiser verificar o gráfico de
-        avaliação de risco.
+4.  Hacer clic en "Añadir Escenario" y después en el icono simbolizado por el
+    "+" para completar los campos necesarios;
 
-8.  Clicar no botão "Gravar' para efetuar a operação.
+5.  Para agregar servicios a la evaluación de riesgos, hacer clic en "Añadir
+    servicio" para buscar y vincular el servicio que desee;
 
-O que fazer a seguir
+6.  Para añadir riesgo a la evaluación de riesgos, hacer clic en Agregar riesgo
+    para buscar y vincular el riesgo que desee;
+
+7.  Después de agregar el riesgo, hacer clic en el icono simbolizado por el
+    "+" y luego en "Seleccionar Amenaza" y/o "Añadir amenaza" para completar los
+    campos necesarios para vincular la amenaza. Para informar los planes de
+    tratamiento de la amenaza:
+
+    1.  Hacer clic en "Planes de Tratamiento" y después en "Añadir Tratamiento"
+        e informar el nombre del plan. Después, hacer clic en el
+        icono simbolizado por el "+" para completar los campos adicionales ;
+
+    2.  Después de registrar los datos del plan de tratamiento, hacer clic en el
+        icono “Gráfico de evaluación de riesgos” se desee verificar el gráfico
+        de evaluación de riesgo.
+
+8.  Hacer clic en "Grabar".
+
+Lo que hacer después
 ------------------------
 
-Após de cadastrar a avaliação de riscos da continuidade é necessário executar a
-seguinte ação: cadastrar estratégia de continuidade de serviço, sendo esta ação
-parte da segunda fase do registro completo da continuidade, chamada de
-Requisitos e Estratégia.
+Después de registrar la evaluación de riesgos de la continuidad, es necesario
+hacer la siguiente acción: registrar estrategia de continuidad de servicio,
+siendo esta acción parte de la segunda fase del registro completo de la
+continuidad, llamada de Requisitos y Estrategia.
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+[Registrar estrategia de la continuidad de servicios](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

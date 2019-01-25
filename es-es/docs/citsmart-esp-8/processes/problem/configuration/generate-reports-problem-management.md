@@ -1,58 +1,59 @@
-title: Gerar relatórios - Gerência de problemas
-Description: São apresentados diversos tipos de relatórios referents ao gerenciamento de problemas.
-#Gerar relatórios - Gerência de problemas
+title: Generar informes - gestión de problemas
+Description: Presentan los informes de gestión de problemas
+#Generar informes - gestión de problemas
 
-Nos tópicos a seguir são apresentados os relatórios referentes ao gerenciamento
-de problemas:
 
-  -   Relatório de Problemas/Incidentes;
+En los siguientes temas, se presentan los informes de gestión de problemas:
 
-  -   Relatório Quantitativo de Problema;
+-   Informe de Problemas/Incidentes;
 
-  -   Relatório Quantitativo de Solicitação/Problema por Serviço.
+-   Informe Cuantitativo de Problema;
 
-Em todos os casos existem opções de exportação:
+-   Informe Cuantitativo de Solicitud/Problema por Servicio.
 
-  -   Clicar no botão "Gerar PDF" para gerar o relatório de problemas/incidentes
-      no formato PDF;
+En todos los casos hay opciones de exportación:
 
-  -   Clicar no botão "Gerar XLS" para gerar o relatório problema/incidentes no
-      formato Excel.
+-   Hacer clic en "Crear PDF" para generar el informe de problemas/incidentes en
+    PDF;
 
-Gerar relatório de problema/incidentes
----------------
+-   Hacer clic en "Crear XLS" para generar el informe de problemas/incidentes en
+    Excel.
 
-Este relatório tem o objetivo de apresentar os incidentes relacionados ao
+Generar informe de problema/incidentes
+------------------------------------------
+
+Este informe tiene el objetivo de presentar los incidentes relacionados con el
 problema.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Problemas \> Problema/Incidentes;
+1.  Acceder al menú principal Informes \> Gestión de Problemas \>
+    Problema/Incidentes;
 
-2.  Definir os filtros conforme a necessidade.
+2.  Definir los filtros según sus necesidades.
 
-Gerar relatório quantitativo de problema
---------
+Generar informe cuantitativo de problema
+--------------------------------------------
 
-Este relatório tem o objetivo de apresentar a quantidade de problemas ocorridos.
+Este informe tiene el objetivo de presentar la cantidad de problemas ocurridos.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Problemas \> Quantitativo de Problema;
+1.  Acceder al menú principal Informes \> Gestión de Problemas \> Cuantitativo
+    de Problema;
 
-2.  Definir os filtros conforme a necessidade.
+2.  Definir los filtros según sus necesidades.
 
-Gerar relatório quantitativo de solicitação/problema por serviço
----------
+Generar informe cuantitativo de solicitud/problema por servicio
+-------------------------------------------------------------------
 
-Este relatório tem o objetivo de apresentar a quantidade de solicitações e
-problemas que foram registrados, por serviço.
+Este informe tiene el objetivo de presentar la cantidad de solicitudes y
+problemas que se han registrado, por servicio.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Problemas \> Solicitação/Problema Por Serviço;
+1.  Acceder al menú principal Informes \> Gestión de Problemas \>
+    Solicitud/Problema por Servicio;
 
-2.  Definir os filtros conforme a necessidade.
+2.  Definir los filtros según sus necesidades.
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins

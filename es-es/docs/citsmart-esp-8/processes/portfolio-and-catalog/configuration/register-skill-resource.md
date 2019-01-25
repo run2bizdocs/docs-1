@@ -1,40 +1,42 @@
-title: Cadastrar habilidade/recurso
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as habilidades dos colaboradores.
-#Cadastrar habilidade/recurso
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir as habilidades dos colaboradores.
-
-Procedimento
-----------------
-
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Recursos/Habilidades;
-
-2.  Escolher o portfólio, clicar em "Avançar";
-
-3.  Escolher o serviço, clicar em "Avançar";
-
-4.  Clicar na guia **Habilidade/Recurso**;
-
-5.  Clicar em "Nova habilidade";
-
-6.  Preencher os campos disponibilizados;
-
-7.  Vincular colaborador;
-
-8.  Clicar em 'Gravar";
-
-9.  Clicar em "Vincular Habilidade", selecionar a habilidade cadastrada;
-
-10. Clicar em Enviar".
+title: Registrar habilidad/recurso
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borra las habilidades de los colaboradores.
+#Registrar habilidad/recurso
 
 
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borra las habilidades de los colaboradores.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+Procedimiento
+-----------------
+
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Recursos/Habilidades;
+
+2.  Elegir la cartera, hacer clic en "Avanzar";
+
+3.  Elegir el servicio, hacer clic en "Avanzar";
+
+4.  Haga clic en la ficha **Habilidad/Recurso**;
+
+5.  Hacer clic en "Nueva Habilidad";
+
+6.  Completar los campos disponibles;
+
+7.  Vincular el colaborador;
+
+8.  Hacer clic en "Guardar";
+
+9.  Haga clic en "Enlace Habilidad", seleccionar la habilidad registrada;
+
+10. Haga clic en Enviar ".
+
+
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
 

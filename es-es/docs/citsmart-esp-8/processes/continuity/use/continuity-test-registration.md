@@ -1,112 +1,110 @@
-title: Cadastrar a estratégia de testes da continuidade
-Description: Esta funcionalidade permite cadastrar a Estratégia de Testes da Continuidade. 
-#Cadastrar a estratégia de testes da continuidade
-O Registro de Continuidade é um processo que passa por várias fases. A terceira fase deste processo, chamado de Implementação onde será definido o Plano de Continuidade, o Planejamento e a Estratégia de Testes. Esta funcionalidade permite cadastrar a Estratégia de Testes da Continuidade.
+title:  Registrar estrategia de pruebas de la continuidad
+Description: Permite registrar la Estrategia de Pruebas de la Continuidad.
+#Registrar estrategia de pruebas de la continuidad
+El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registrar la Estrategia de Pruebas de la Continuidad.
 
-Antes de começar
---------------------
-
-Pressupõe a existência de um serviço definido num processo de Gerenciamento de
-Portfólio e Catálogo.
-
-É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
-política e o projeto de continuidade do serviço já definidos, além de ter o
-escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
-riscos, a estratégia, o plano e o planejamento organizacional de continuidade já
-registrados.
-
-É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
-anteriormente, o risco e a categoria de risco.
-
-Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
-procedimentos referente ao Gerenciamento de Eventos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Continuidade \> Continuidade;
+Tener un servicio definido en un proceso de Gestión de Portafolio y Catálogo.
 
-2.  Localizar a continuidade do qual deseja vincular a a estratégia de teste e
-    clicar no botão "Avançar";
+Es fundamental primero tener el Registro de Continuidad ya catastrado, la
+política y el proyecto de continuidad del servicio ya definido, además de tener
+el alcance a las funciones vitales de la continuidad ya registradas.
 
-3.  Na área **Implementação**, clicar em "Estratégia de Testes";
+Es necesario el registro previo de la amenaza y de la categoría de amenaza y
+vincular la categoría de amenaza a la amenaza catastrada. También es esencial
+registrar anteriormente el riesgo y la categoría de riesgo.
 
-4.  Preencher os campos necessários;
+Igualmente, es crucial registrar las acciones automáticas de Incidente,
+solicitud y procedimientos referentes a la Gestión de Eventos.
 
-5.  Clicar no botão "Selecionar medida de recuperação" para pesquisar e vincular
-    a medida desejada;
+Procedimiento
+-------------
 
-6.  Será, então apresentado uma tela para definir o plano de teste da medida de
-    recuperação. Seguir estes passos:
+1.  Acceder al menú principal Procesos \> Gestión de la Continuidad \>
+    Continuidad;
 
-    1.  Preencher os campos necessários;
+2.  Buscar la continuidad que desee vincular la estrategia de prueba y hacer
+    clic en "Avanzar";
 
-    2.  Clicar no botão "Selecionar grupo participante" e "Selecionar grupo
-        facilitador" para pesquisar e vincular o grupo desejado ao grupo
-        participante do teste e ao grupo facilitador dos testes,
+3.  En **Implementación**, hacer clic en "Estrategia de Pruebas";
+
+4.  Completar los campos necesarios;
+
+5.  Hacer clic en "Relacionar las Medidas de Recuperación" para buscar y
+    vincular la medida;
+
+6.  Se mostrará una pantalla para definir el plan de prueba de la medida de
+    recuperación. Siga estos pasos:
+
+    -   Completar los campos necesarios;
+
+    -   Hacer clic en "Seleccionar grupo participante" y "Seleccionar grupo
+        facilitador" para buscar y vincular el grupo que desee al grupo
+        participante de la prueba y al grupo facilitador de las pruebas,
         respectivamente;
 
-7.  Selecionar o tipo de teste a realizar;
+7.  Seleccionar el tipo de prueba;
 
-8.  Selecionar o checklist a ser verificado nos testes;
+8.  Seleccionar el checklist a verificarse el las pruebas;
 
-9.  Para anexar um arquivo ao plano de teste, clicar no ícone simbolizado por um
-    “clipe” e em em seguida "Adicionar o arquivo" para vincular o arquivo;
+9.  Para adjuntar un archivo al plan de prueba, hacer clic en el
+    icono simbolizado por un "clip" y después en "Agregar archivo" para vincular
+    el archivo;
 
-10. Se quiser anexar algum arquivo, clicar no botão "Anexar" e em seguida
-    "Adicionar o arquivo" para vincular o arquivo;
+10. Si desea adjuntar algún archivo, hacer clic en "Adjuntar" y luego "Agregar
+    el archivo" para vincular el archivo.;
 
-11. Clicar no botão "Finalizar" para efetuar a operação.
+11. Hacer clic en "Grabar".
 
-O que fazer a seguir
-------------------------
+Lo que hacer después
+--------------------
 
-Após de cadastrar a estratégia de testes da continuidade é necessário executar a
-seguinte ação: cadastrar a conscientização da continuidade sendo esta ação parte
-da quarta fase do registro completo da continuidade, chamada de Operação
-Contínua.
+Después de registrar la estrategia de pruebas de la continuidad, es necesario
+realizar la siguiente acción: registrar la conciencia de la continuidad, siendo
+esta acción parte de la cuarta fase del registro completo de la continuidad,
+llamada de Operación Continua.
 
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-esp-8/processes/continuity/use/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-esp-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-esp-8/processes/continuity/use/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-esp-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
-[Cadastrar a continuidade de serviço](/pt-br/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir a política de continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-policy.html)
 
-[Cadastrar o escopo da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir o projeto da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
+[Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+[Registrar estrategia de la continuidad de servicios](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+[Registrar plan de continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-[Cadastrar o planejamento organizacional da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+[Registra la planificación organizacional de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Cadastrar a conscientização da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
+[Registrar conciencia de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-awareness.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/15/2019 – Larissa Lourenço
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

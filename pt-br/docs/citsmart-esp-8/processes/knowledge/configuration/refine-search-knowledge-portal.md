@@ -1,4 +1,4 @@
-title: Principais recursos utilizados na busca
+title: Refinar pesquisas no Portal do Conhecimento
 Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
 #Principais recursos utilizados na busca
 

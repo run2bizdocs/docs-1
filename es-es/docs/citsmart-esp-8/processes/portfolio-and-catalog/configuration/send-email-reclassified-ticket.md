@@ -1,59 +1,62 @@
-title: Implementar forma de envio de e-mail para ticket reclassificado
-Description: Permite implementar a forma de envio de e-mail para ticket reclassificado, assim os tickets reclassificados terão um modelo de e-mail próprio a ser enviado ao solicitante.
-#Implementar forma de envio de e-mail para ticket reclassificado
-Este conhecimento permite implementar a forma de envio de e-mail para ticket
-reclassificado, assim os tickets reclassificados terão um modelo de e-mail
-próprio a ser enviado ao solicitante. A reclassificação poderá ser realizada no
-portfólio, não somente no fluxo.
+title: Implementar forma de envío de e-mail a ticket reclasificado
+Description: Conocimiento permite implementar el modo de envío de e-mail a ticket reclasificado, así que los tickets reclasificados tendrán una plantilla de e-mail propio a ser enviado al solicitante.
+#Implementar forma de envío de e-mail a ticket reclasificado
 
-No portfólio é informado o modelo de e-mail de reclassificação de um incidente
-ou requisição.
 
-Antes de começar
+Este conocimiento permite implementar el modo de envío de e-mail a ticket
+reclasificado, así que los tickets reclasificados tendrán una plantilla de
+e-mail propio a ser enviado al solicitante. Así, la reclasificación podrá ser
+realizada en el portafolio, no sólo en el flujo.
+
+En el portafolio, se informa el modelo de e-mail de reclasificación de un
+incidente o solicitud.
+
+Antes de empezar
 --------------------
 
-Para que se escolha o modelo de e-mail de reclassificação o mesmo deverá ser
-cadastrado previamente e ser do tipo incidente ou requisição.
+Para que se elija el modelo de e-mail de reclasificación, el deberá ser
+registrado previamente y ser del tipo incidente o solicitud.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Portfólio e Catálogo \> Portfólio;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Portafolio;
 
-2.  Escolher o portfólio, clicar em "Avançar";
+2.  Elegir el portafolio y hacer clic en "Avanzar";
 
-3.  Escolher o serviço e clicar em "Avançar";
+3.  Elegir el servicio y hacer clic en "Avanzar";
 
-4.  Clicar na guia *Contratos*;
+4.  Hacer clic en *Contratos*;
 
-5.  Escolher o contrato e clicar em "Avançar";
+5.  Elegir el contrato y hacer clic en "Avanzar";
 
-6.  Escolher a guia *Requisições* ou *Incidentes*;
+6.  Elegir la pestaña *Solicitudes* o *Incidentes*;
 
-7.  Escolher a atividade e clicar em "Editar";
+7.  Elegir el actividad y hacer clic en "Editar";
 
-8.  No campo **Modelo de e-mail Reclassificação**, escolher o modelo cadastrado
+8.  En el campo Modelo de E-mail Reclasificación, elegir el modelo registrado
     previamente;
 
-9.  Clicar em "Gravar".
+9.  Hacer clic en "Guardar".
 
-O que fazer a seguir
---------------------
+Lo que hacer después
+------------------------
 
-Acessar o ticket desejado e efetuar a reclassificação.
+Acceder al ticket que quieras y hacer la reclasificación.
+
 
 
 Relacionado
 -------
 
-[Reclassificar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
+[Reclasificar ticket](/es-es/citsmart-esp-8/processes/tickets/use/reclassify-ticket.html)
 
-[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins

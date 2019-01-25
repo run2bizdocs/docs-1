@@ -1,33 +1,34 @@
-title: Cadastrar assunto
-Description: Tem por objetivo registrar o assunto de um conhecimento que será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não na base de conhecimento.
-#Cadastrar assunto
-
-Esta funcionalidade tem por objetivo registrar o assunto de um conhecimento que
-será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não
-na base de conhecimento.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o assunto de um conhecimento.
-
-Procedimento
-----------
-
-1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Conhecimento \> Assunto;
-
-2.  Clicar no botão "Novo";
-
-3.  Preencher o campo disponibilizado;
-
-4.  Para relacionar o assunto a um tópico, preencher o campo disponibilizado e
-    clicar em "Adicionar";
-
-5.  Clicar em "Gravar".
+title: Registrar tema
+Description: Registrar el tema de un conocimiento que será utilizado en la búsqueda de Informes de Temas o Temas disponibles o no en la base de conocimiento.
+#Registrar tema
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+Esta funcionalidad tiene por objetivo registrar el tema de un conocimiento que
+será utilizado en la búsqueda de Informes de Temas o Temas disponibles o no en
+la base de conocimiento.
+
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+eliminar el tema de un conocimiento.
+
+Procedimiento
+-----------------
+
+1.  Acceder al menú principal Procesos \> Gestión de Conocimiento \> El Tema;
+
+2.  Hacer clic en "Nuevo";
+
+3.  Completar los campos disponibles;
+
+4.  Para relacionar el tema con un tópico, completar el campo disponible y hacer
+    clic en "Agregar";
+
+5.  Hacer clic en "Guardar".
+
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins

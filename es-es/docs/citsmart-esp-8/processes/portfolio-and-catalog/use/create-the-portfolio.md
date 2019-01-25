@@ -1,52 +1,52 @@
-title: Criar portfólio
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
-#Criar portfólio
-O gerenciamento de portfólio e catálogo de serviços considera serviços coativos em termos do valor ao negócio fornecido por eles e isso garante que a composição correta de serviços para atender aos resultados esperados do negócio em um nível adequado de investimento.
-Portfólio é um conjunto completo de serviços que serão entregues, agrupados por critérios como tamanho, disciplina ou valor estratégico. Assim, todos os serviços entregues pela empresa podem e devem compor o Portfólio.
-A gestão do portfólio é estratégica, pois administra os serviços durante todo o seu ciclo de vida, focando no valor que entregam para a área de negócio.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
+title:  Crear portafolio 
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un portafolio.
+#Crear portafolio
+La gestión de portafolio y catálogo de servicios considera servicios coactivos en términos de valor al negocio proporcionado por ellos, y esto garantiza la composición correcta de servicios para satisfacer los resultados esperados del negocio, en un nivel adecuado de inversión.
+Portafolio es un conjunto completo de servicios que serán entregados, agrupados por criterios como tamaño, disciplina o valor estratégico. Así, todos los servicios entregados por la empresa pueden y deben componer el Portafolio.
+La gestión del portafolio es estratégica, ya que administra los servicios durante todo su ciclo de vida, centrándose en el valor que entregan al área de negocio.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un portafolio.
 
-Antes de começar
---------------------
-
-Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
-Portfólio.
-
-O portfólio permite vínculo com pesquisas que precisam estar cadastradas
-previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Portfólio e Catálogo \> Portfólio;
+Ya tener definido el permiso de acceso a las funcionalidades de la gestión de
+portafolio.
 
-2.  Clicar em "Novo Portfólio";
+El portafolio permite el vínculo con búsquedas que necesitan estar registradas
+previamente.
 
-3.  Definir se o portfólio será do tipo "Negócio" ou "Apoio";
+Procedimiento
+-------------
 
-4.  Informar os dados do Portfólio;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Portafolio;
 
-5.  Preencher os dados conforme o formato a ser definido.
+2.  Haga clic en "Nuevo Portafolio";
 
-O que fazer a seguir
-------------------------
+3.  Definir si el portafolio será del tipo "Negocio" o "Apoyo";
 
-Acessar a página inicial e verificar o portfólio criado.
+4.  Informar los datos del Portafolio;
+
+5.  Completar los datos según el formato que se va a definir.
+
+Lo que hacer después
+--------------------
+
+Acceder a la página inicial y comprobar el portafolio creado.
 
 Relacionado
 ---------------
 
-[Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
 
-[Cadastrar pesquisa de satisfação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Registrar encuesta de satisfacción](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-[Configurar parametrização - Smart Portal](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
+[Configurar parametrización - Smart Portal](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

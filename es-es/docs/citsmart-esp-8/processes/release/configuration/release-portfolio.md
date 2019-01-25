@@ -1,41 +1,39 @@
-title: Criar um portfólio de liberação
-Description: Cria um portfólio de liberações a fim de agilizar a criação de uma nova liberação ao agrupar as mesma por critérios específicos.
-#Criar um portfólio de liberação
+title: Crear portafolio de liberación
+Description: Crea un portafolio de liberaciones para agilizar la creación de una nueva liberación al agruparlas por criterios específicos.
+#Crear portafolio de liberación
 
-Esta funcionalidade criar um portfólio de liberações a fim de agilizar a criação
-de uma nova liberação ao agrupar as mesma por critérios específicos.
 
-Procedimento
-----------------
+Esta funcionalidad crea un portafolio de liberaciones para agilizar la creación
+de una nueva liberación al agruparlas por criterios específicos.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Portfólio de Liberação;
+Procedimiento
+-----------------
 
-2-  Clicar no botão "Novo portfólio";
+1-  Acceder al menú principal Procesos \> Gestión de Liberación \> Portfolio de
+    Liberación;
 
-3-  Preencher os campos necessários e adicionar uma imagem para representar o
-    portfólio, se conveniente for;
+2-  Hacer clic en "Nueva cartera";
 
-4-  Selecionar o portfólio recém-criado e clicar no botão "Avançar" do mesmo;
+3-  Completar los campos necesarios y agregar una imagen para representar el
+    portafolio, si es conveniente;
 
-5-  Apertar o botão "Novo modelo" e preencher os campos disponibilizados, tais
-    como por exemplo: vincular o fluxo desejado ao portfólio, selecionar o grupo
-    a executar a liberação, vincular o contrato, definir o impacto e a urgência,
-    dentre outros.
+4-  Seleccione el portafolio recién creado y hacer clic en "Avanzar";
 
-!!! Abstract "ATENÇÃO"
+5-  Hacer clic en "Nueva plantilla" y completar los campos disponibles.
 
-    Esta nova versão da funcionalidade suporta o vínculo a fluxos criados pelo
-    próprio usuário, modificados para representar o seu cenário.  
+!!! Abstract "ATENCIÓN"
 
-    É necessário selecionar o status "Ativo" para disponibilizar o uso do
-     portfólio criado.  
+    Esta nueva versión de la funcionalidad soporta el vínculo a flujos creados
+    por el propio usuario, modificados para representar su escenario.
 
-6-  Clicar no botão "Gravar" para efetuar a operação.
+    Es necesario seleccionar el estado "Activo" para proporcionar el uso del
+    portafolio creado.
+
+5-  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Anna Martins
 

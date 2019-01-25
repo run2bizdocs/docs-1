@@ -27,7 +27,7 @@ Procedimiento
 -----------------
 
 1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Nagios \>
-    Gerente Genérico Nagios** **;
+    Gerente Genérico Nagios;
 
 2.  Completar los campos disponibles;
 

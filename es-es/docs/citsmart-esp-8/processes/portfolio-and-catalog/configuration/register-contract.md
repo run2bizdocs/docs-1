@@ -1,60 +1,64 @@
-title: Cadastrar um contrato
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um contrato.
-#Cadastrar um contrato
+title: Registrar contrato
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un contrato.
+#Registrar contrato
 
-O contrato é um acordo entre duas partes, que se obrigam a cumprir o que foi
-entre elas combinado sob determinadas condições. O contrato pode ser do
-tipo *contrato* (contrato entre o fornecedor do tipo provedor de serviços e
-cliente externo), *acordo de nível operacional* (acordo interno entre os
-departamentos da mesma organização, fornecedor interno com cliente interno)
-ou *contrato de apoio* (contrato entre o fornecedor externo e cliente interno).
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um contrato.
+El contrato es un acuerdo entre dos partes, que se obligan a cumplir lo
+combinado, bajo determinadas condiciones. El contrato puede ser del tipo
+contrato (contrato entre el proveedor del tipo proveedor de servicios y cliente
+externo), acuerdo de nivel operativo (acuerdo interno entre los departamentos de
+la misma organización, proveedor interno con cliente interno) o contrato de
+apoyo (contrato entre el proveedor externo y cliente interno).
 
-Antes de começar
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+contrato.
+
+Antes de empezar
 --------------------
 
-Antes de iniciar o cadastro de um contrato é preciso ter cadastrado previamente
-o fornecedor, o cliente, a moeda e a condição de operação.
+Antes de empezar el registro de un contrato, es necesario haber registrado
+previamente el proveedor, cliente, moneda y la condición de operación.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
+1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
     Contrato;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Haga clic en "Guardar".
 
-|                  Nome                  |   Tipo  |                                                                                          Objetivo                                                                                          |
-|:--------------------------------------:|:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Acordo de Nível de Serviço do Contrato | Vínculo |                                                 Permite especificar o que foi acordado no contrato entre o provedor de serviços e o cliente                                                |
-|     Visão complexidade por contrato    | Vínculo | Permite identificar os valores de complexidade referentes aos custos operacionais do contrato. É muito utilizado no caso de gerenciamento das Ordens de Serviços relacionadas à moeda UST. |
-|           Perfis de Contrato           | Vínculo |                               Permite definir os perfis dos profissionais que serão fundamentais para desenvolvimento de um projeto relacionado ao contrato.                               |
-|           Grupos de Usuários           | Vínculo |                                                                             Permite vincular grupos ao contrato                                                                            |
-|          Produtos do Contrato          | Vínculo |                                                            Permite especificar os entregáveis do projeto relacionado ao contrato                                                           |
-|           Matriz comunicação           | Vínculo |                               Permite definir quais documentos serão comunicados, para quais stakeholders, em que frequência (quando) e por qual meio (como)                               |
-|           Fórmula do Contrato          | Vínculo |                        Permite vincular fórmulas ao contrato. Essas fórmulas são utilizadas para obter o valor do custo total das atividades do serviço do contrato                        |
-|           Unidades de Negócio          | Vínculo |                                                                      Permite vincular unidades de negócio ao contrato                                                                      |
-|             Anexos Contrato            | Vínculo |                                                                             Permite anexar arquivos ao contrato                                                                            |
+
+
+|               Nombre               |   Tipo  |                                                                       Objetivo                                                                      |
+|:----------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Contrato de Nivel de Servicio   | Vínculo |                           Permite especificar lo qué se acordó en el contrato entre el proveedor de servicios y el cliente                          |
+| Visión de Complejidad por Contrato | Vínculo |                            Permite identificar los valores de complejidad relativos a los costos operativos del contrato.                           |
+|        Perfiles de Contrato        | Vínculo |         Permite definir los perfiles de los profesionales que serán fundamentales para el desarrollo de un proyecto relacionado al contrato.        |
+|         Grupos de Usuarios         | Vínculo |                                                       Permite vincular los grupos al contrato.                                                      |
+|       Productos del Contrato       | Vínculo |                                      Permite especificar los entregables del proyecto relacionado al contrato.                                      |
+|      Matriz de comunicaciones      | Vínculo |            Permite definir qué documentos serán comunicados, para cuales stakeholders, en qué frecuencia (cuando) y por qué medio (cómo).           |
+|         Fórmula do Contrato        | Vínculo | Permite vincular fórmulas al contrato. Estas fórmulas se utilizan para obtener el valor del costo total de las actividades de servicio del contrato |
+|         Unidades de Negocio        | Vínculo |                                                   Permite vincular unidades de negocio al contrato                                                  |
+|          Adjuntos Contrato         | Vínculo |                                                        Permite adjuntar archivos al contrato                                                        |
+
 
 
 
 Relacionado
 -------
 
-[Cadastrar condição de operação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Registrar condición de operación](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-[Cadastrar um cliente](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
+[Registrar cliente](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Cadastrar moeda](/pt-br/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
+[Registrar moneda](/es-es/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins

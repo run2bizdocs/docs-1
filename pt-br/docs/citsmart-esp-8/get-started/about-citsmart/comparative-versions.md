@@ -16,7 +16,7 @@ Title: Comparativo ESP 7 vs 8
 |    Gerenciamento de Portfólio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Catálogo de Serviço                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Nível de Serviço                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Gerenciamento de Mudança][1]                          |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Gerenciamento de Mudança][1]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Liberação][2]                         |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Conhecimento][3]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Gerenciamento de Configuração e Ativos][4]        |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -55,7 +55,7 @@ Title: Comparativo ESP 7 vs 8
 |    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
 |    Asterisk                                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Saiku][20]                                          |:no_entry_sign:|:new:           |
+|    [Saiku][20]                                          |:no_entry_sign:|:new:          |
 |    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Securança**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -66,7 +66,7 @@ Title: Comparativo ESP 7 vs 8
 ### Gerenciamento de Mudança
 Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
-### Gerenciamento de Liberação [2]
+### Gerenciamento de Liberação
 Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequências das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
 
 ### Gerenciamento de Conhecimento
@@ -124,3 +124,22 @@ Esta funcionalidade foi aprimorada possibilitando a coleta, por meio de atributo
 Integração do Saiku com o CITSmart Analytics.
 
 [1]:#gerenciamento-de-mudanca
+[2]:#gerenciamento-de-liberacao
+[3]:#gerenciamento-de-conhecimento
+[4]:#gerenciamento-de-ativos-e-configuracao
+[5]:#gerenciamento-de-ticket
+[6]:#gestao-de-projeto-agil-simple
+[7]:#centro-de-experiencia-com-o-usuario
+[8]:#alertas-escalonamento
+[9]:#chat
+[10]:#portal-do-conhecimento
+[11]:#aplicacao-citsmart-neuro
+[12]:#mobile-e-field-service
+[13]:#gestao-de-fluxo-de-trabalho
+[14]:#surveys-e-feedback
+[15]:#formularios-customizados
+[16]:#anuva-application-inteligencia-artificial
+[17]:#smart-analytics
+[18]:#ibm-watson
+[19]:#ldapad
+[20]:#integracao-com-saiku

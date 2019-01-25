@@ -1,37 +1,39 @@
-title: Cadastrar fornecedor
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um fornecedor.
-#Cadastrar fornecedor
-O fornecedor é uma organização ou uma pessoa física, responsável por prover
-produtos ou serviços a alguém. Ele pode ser do tipo *provedor de
-serviços*,*interno* e/ou *externo*.
+title: Registrar proveedor
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un proveedor.
+#Registrar proveedor
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um fornecedor.
+El proveedor es una organización o una persona física, responsable de proveer
+productos o servicios a alguien. Puede ser del tipo *proveedor de
+servicios*, *interno* y/o *externo*.
 
-Antes de começar
---------------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+proveedor.
 
-Para cadastrar uma aplicação é preciso realizar a carga de países.
+Antes de empezar
+-------
 
-Procedimento
-----------------
+Para registrar una aplicación es necesario tener registrado la carga de países.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Fornecedor.
+Procedimiento
+--------
 
-2.  Preencher os campos disponibilizados;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Proveedor.
 
-3.  Clicar em "Gravar".
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
+
 
 Relacionado
 -------
 
-[Carregar países](/pt-br/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
+[Cargar países](/es-es/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/24/2019 - Anna Martins
