@@ -51,7 +51,7 @@ Relacionado
 
 [Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-[Crear acción automatica via correo eletronicol](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
+[Crear acción automatica via correo eletronico](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
 
 [Procesamiento Batch](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
 
