@@ -1,47 +1,48 @@
-title: Reclassificar um ticket
-Description: Após criar um ticket é possível reclassificar as informações de um ticket depois sua abertura.  
-#Reclassificar um ticket
-Após criar um ticket é possível reclassificar as informações de um ticket depois sua abertura. Essa ação desencadeia um e-mail para o solicitante informando sobre a alteração feita.
-Não é permitido delegar ao ticket a um atendente se a situação dela for “Resolvida”.
+title:  Reclasificar ticket 
+Description: Después de crear un ticket, es posible reclasificar su información 
+#Reclasificar ticket
+Después de crear un ticket, es posible reclasificar su información. Esta acción desencadena un e-mail para el solicitante informando sobre el cambio.
+No se permite delegar el ticket a un empleado si la situación es Resuelta.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para reclassificar um ticket o usuário tem que pertencer a um grupo executor, na
-tela de grupo vincular o Fluxo a opção de "Alterar SLA", além de ter a permissão
-para "criar" no fluxo da atividade destino, isso quando a reclassificação
-incluir troca de atividade e se for um cenário de fluxos diferentes.
+Para reclasificar un ticket, el usuario necesitas pertenecer al grupo ejecutor,
+en la pantalla de grupo, vincular el Flujo a la opción de "Cambiar SLA", además
+de tener permiso para "crear" en el flujo de actividad destino, eso cuando la
+reclasificación incluye el cambio de actividad, y si es un escenario de flujos
+diferentes.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Selecionar ou procurar pelo ticket;
+2.  Seleccionar o buscar el ticket;
 
-3.  Clicar sobre ele, selecionar o botão “Mais Opções” e escolher a opção
-    "Reclassificar";
+3.  Haga clic en el ticket, seleccionar el botón “Más Opciones” y elegir la
+    opción "Reclasificar";
 
-4.  Fazer as modificações.
+4.  Haga los cambios.
 
-O que fazer a seguir
+Lo que hacer después
 --------------------
 
-Verificar na página de tickets relacionados se o mesmo teve a reclassificação.
+Verificar en la pagina de tickets relacionados si tuvo la reclasificación.
 
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
