@@ -1,42 +1,41 @@
-title: Suspender um ticket
-Description: Após criar um ticket é possível gerenciar suas etapas, incluindo suspender seu atendimento tornando mais eficaz o processo.
-#Suspender um ticket
-Após criar um ticket é possível gerenciar suas etapas, incluindo suspender seu atendimento tornando mais eficaz o processo.
+title:  Suspender ticket 
+Description: Después de crear un ticket, es posible gestionar sus etapas, incluyendo suspender su atención.
+#Suspender ticket
+Después de crear un ticket, es posible gestionar sus etapas, incluyendo suspender su atención, haciendo más eficaz el proceso.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para efetivar a suspensão o usuário deverá ter permissão para tal ação, além de
-possuir uma justificativa de suspensão previamente cadastrada.
+Para efectuar la suspensión, el usuario deberá tener permiso para tal acción,
+además de poseer una justificación de suspensión previamente registrada.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Selecionar ou procurar pelo o ticket;
+2.  Seleccionar o buscar el ticket;
 
-3.  Clicar sobre ele, selecionar o botão “Mais Opções” e escolher a opção
-    "Suspender".
+3.  Haga clic en el ticket, seleccionar el botón “Más Opciones” y elegir la
+    opción "Suspender".
 
-O que fazer a seguir
+Lo que hacer despues
 --------------------
 
-Verificar na página de tickets relacionados se o mesmo se encontra com a
-situação "suspensa".
+Verificar en la pagina de tickets relacionados si la situación es "suspensa".
 
 Relacionado
 -----------
 
-[Cadastrar justificativa de solicitação](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+[Registrar justificatión de la solicitud](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
