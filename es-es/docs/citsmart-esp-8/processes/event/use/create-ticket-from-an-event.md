@@ -1,35 +1,34 @@
-title: Criar ticket a partir de um evento
-Description: Tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
-#Criar ticket a partir de um evento
-Esta funcionalidade tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
+title:  Crear ticket desde un evento
+Description: Tiene por objetivo crear una solicitud de servicio dentro del evento.
+#Crear ticket desde un evento
+Esta funcionalidad tiene por objetivo crear una solicitud de servicio dentro del evento.
 
-Antes de começar
---------------------
-
-A funcionalidade requer o registro de evento previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+Es necesario tener registrado el evento.
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Mais Opções”;
+Procedimiento
+-------------
 
-3.  Clicar no botão "Criar solicitação de serviço";
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
 
-4.  Preencher os campos disponibilizados;
+2.  Hacer clic en el evento y después en el botón “Más Opciones”;
 
-5.  Clicar no botão “Opções” em seguida no botão "Salvar".
+3.  Hacer clic en "Crear solicitud de servicio";
+
+4.  Completar los campos disponibles;
+
+5.  Hacer clic en el botón “Opciones” y después en "Grabar".
 
 Relacionado
 ----------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
