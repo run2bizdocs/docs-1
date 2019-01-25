@@ -1,53 +1,54 @@
-title:  Analisar tendência de eventos 
-Description: Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
-#Analisar tendência de eventos
-Esta funcionalidade tem por objetivo gerar gráfico de Análise de Tendência de Eventos por Serviço de Negócio em determinado período, a fim de realizar uma análise dos eventos. A análise de tendências consiste na utilização de dados para projeção de resultados futuros.
-Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
+title: Analizar tendencia de eventos
+Description: Sólo se puede utilizar en instancias en las que el cliente también ha implementado el módulo de Eventos. 
+#Analizar tendencia de eventos
+Esta funcionalidad tiene como objetivo generar gráfico de Análisis de Tendencia de Eventos por Servicio de Negocio en determinado período, a fin de realizar un análisis de los eventos. El análisis de tendencias consiste en la utilización de datos para la proyección de resultados futuros.
+Esta funcionalidad sólo se puede utilizar en instancias en las que el cliente también ha implementado el módulo de Eventos.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para realizar a análise de tendência de eventos é necessário registrar
-previamente um contrato, uma solicitação de serviço (ticket), configurar a
-conexão do CITSmart Event Monitor, além de instalar e configurar a ferramenta de
-monitoração.
+Para hacer el análisis de tendencia de eventos, es necesario registrar
+previamente un contrato, una solicitud de servicio (ticket), configurar la
+conexión del CITSmart Event Monitor, además de instalar y configurar la
+herramienta de monitoreo.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu
-    principal Processos \> Gerência de Requisição e Incidente \> Análise de
-    Tendências, aba **Eventos**;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Análisis de Tendencias, en la
+    pestaña **Eventos**;
 
-2.  Preencher os campos disponibilizados;
+2.  Llenar los campos disponibles;
 
-3.  Clicar em "Pesquisar";
+3.  Haga clic en "Búsqueda";
 
-4.  O sistema irá filtrar e totalizar os eventos que atendem aos filtros
-    selecionados e gerará quatro guias de resultados, sendo: Classificação, Item
-    de Configuração, Serviço Técnico e Catálogo de Negócio;
+4.  El sistema va a filtrar y totalizar los eventos que atienden a los filtros
+    seleccionados, y generará cuatro guías de resultados, siendo: Clasificación,
+    Elemento de Configuración, Servicio Técnico y Catálogo de Negocio;
 
-5.  Em cada guia de resultado conterá um botão para geração do gráfico de
-    análise de tendências, o qual apresenta as datas que compreendem o período
-    informado nos filtros e o número quantitativo de ocorrências de eventos
-    naquela determinada data. Portanto, para gerar o gráfico para análise de
-    tendência dos eventos por classificação, IC, serviço técnico e/ou serviço de
-    negócio, clicar no botão "Gerar Gráfico".
+5.  En cada guía de resultados, contendrá un botón para la generación del
+    gráfico de análisis de tendencias, el cual presenta las fechas que
+    comprenden el período informado en los filtros y el número cuantitativo de
+    ocurrencias de eventos en aquella determinada fecha. Por lo tanto, para
+    generar el gráfico para el análisis de tendencia de los eventos por
+    clasificación, EC, servicio técnico y/o servicio de negocio, haga clic en el
+    botón "Generar gráfico".
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
