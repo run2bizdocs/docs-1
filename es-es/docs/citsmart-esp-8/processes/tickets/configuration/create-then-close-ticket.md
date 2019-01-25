@@ -1,54 +1,55 @@
-title: Como criar e, em seguida, encerrar um ticket
-Description: Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar a requisição e execução da atividade, é possível configurar para que ocorra a criação e encerramento do ticket ao mesmo tempo.
-#Como criar e, em seguida, encerrar um ticket
+title: Cómo crear y, a continuación, cerrar un ticket
+Description: Configurar para que ocurra la creación y cierre del ticket al mismo tiempo.
+#Cómo crear y, a continuación, cerrar un ticket
 
-Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar
-a requisição e execução da atividade, é possível configurar para que ocorra a
-criação e encerramento do ticket ao mesmo tempo.
 
-Procedimento
-----------------
+Para las actividades que no necesitan SLA, donde el asistente deseas sólo
+formalizar la solicitud y ejecución de la actividad, es posible configurar para
+que ocurra la creación y cierre del ticket al mismo tiempo.
 
-1.  É possível definir o fluxo de criação e encerramento do ticket de duas
-    formas distintas:
+Procedimiento
+-----------------
 
-    - **1° Modo - Importar o fluxo**: é possível importar o fluxo com o script já
-      cadastrado. Basta realizar download do anexo "Fluxo JSON" e acessar a
-      funcionalidade do fluxo (Sistema \> Manutenção de Fluxos), clicar no botão
-      "Novo", logo em seguida apertar o botão "Importar" e selecionar a opção "JSON".
-      Realizar o upload do anexo e clicar em "Importar". Em seguida, para verificar o
-      script, clicar na aba "Diagrama" e no ícone tarefa, e depois, apertar a aba
-      "Ação de entrada";
+1.  Definir el flujo de creación y cierre del ticket:
 
-    - **2° Modo - Copiar o script:** já para copiar apenas o script, copiar o conteúdo
-      do anexo " Script" e acessar a funcionalidade do fluxo (Sistema \> Manutenção de
-      Fluxos), clicar no botão "Novo" e preencher os campos necessários. Depois,
-      clicar na aba **Diagrama**, desenhar o fluxo referente a criação e encerramento
-      de uma tarefa, selecionar e clicar sob a esta tarefa (pequena caixa cinza ao
-      lado da tarefa) e na aba "Ação de entrada". É necessário copiar o RhinoScript no
-      construtor de expressões e clicar no botão "Construir expressões" e selecionar a
-      expressão do cadastro.
+    -   Es posible importar el flujo con los script ya registrados. Basta
+        descargar el adjunto "Fluxo JSON" y acceder a la funcionalidad del flujo
+        (Sistema \> Mantenimiento de Flujos), haga clic en "Nuevo", después haga
+        clic en "Importar" y seleccionar la opción "JSON". Descargas el archivo
+        adjunto y haga clic en "Importar". Después, para verificar el script,
+        haga clic en la pestaña "Diagrama" y en el icono de tarea, y después,
+        haga clic en la pestaña "Acción de entrada".
 
-!!! Abstract "ATENÇÃO"
+    -   Para copiar sólo el script, copiar el contenido del adjunto "Script" y
+        acceda la funcionalidad de flujo (Sistema \> Mantenimiento de Flujos),
+        haga clic en "Nuveo" y llena los campos necesarios. Después, haga clic
+        en la pestaña "Diagrama", diseñar el flujo de creación y cierre de una
+        tarea, seleccionar y hacer clic en esa tarea (pequeña caja gris al lado
+        de la tarea) en la pestaña "Acción de entrada" . Es necesario copiar el
+        RhinoScript en el constructor de expresiones, hacer clic en "Construir
+        expresiones" y seleccionar la expresión de registro.
 
-    Não foram implementados controles para informações de captura pois o tempo
-    de atendimento e fechamento do ticket é muito curto, caso seja necessário
-    fazer o mesmo, será preciso implementar o registro das informações nas
-    tabelas de captura.
+!!! Abstract "ATENCIÓN"
 
-Anexo
+    No se han implementado controles para información de captura pues el
+    tiempo de atención y cierre del ticket es muy corto, si es necesario hacer
+    lo mismo, será necesario implementar el registro de las informaciones en las
+    tablas de captura.
+
+
+Adjunto
 ------
 [Download-Fluxo JSON][1]
 
 [Download-script][2]
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/25/2019 – Anna Martins
 
 
 [1]:/pt-br/citsmart-esp-8/processes/tickets/images/fluxo-JSON.json
