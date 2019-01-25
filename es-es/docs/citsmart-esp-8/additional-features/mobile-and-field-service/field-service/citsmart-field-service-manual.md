@@ -1,54 +1,58 @@
-title: Manual de utilização do CITSmart Field Service
-Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
-#Manual de utilização do CITSmart Field Service
+title: Manual de utilización del CITSmart Field Service
+Description: Permitir la realización de llamadas para técnico en campo en modo offline (donde el operador no tiene internet).
+#Manual de utilización del CITSmart Field Service
 
-Antes de começar 
+El objetivo de la aplicación CITSmart FS es permitir la realización de llamadas
+para técnico en campo en modo offline (donde el operador no tiene internet).
+
+Antes de empezar
+--------------------
+
+1.  Tener configurado la aplicación en la instancia ITSM;
+
+2.  Instalar la aplicación CITSmart FS en el móvil;
+
+3.  Es necesario delegar tareas al técnico en el sitio CITSmart para que se
+    pueda atender en campo en el modo offline.
+
+Procedimiento
 -----------------
 
-1.  Ter configurado o aplicativo na instância ITSM;
+1.  Informar los datos para acceder a la aplicación;
 
-2.  Instalar o aplicativo CITSmart FS no mobile;
+2.  Seleccionar y hacer clic en un ticket. Se mostrará una pantalla con los
+    datos de la solicitud, incluyendo un mapa del lugar donde se realizará la
+    atención;
 
-3.  É necessário delegar tarefas ao técnico no site CITSmart para que o mesmo as
-    possa atender em campo no modo offline.
+3.  Hacer clic en "Ejecutar solicitud" y luego "Otras informaciones" (sólo está
+    disponible si existe un cuestionario vinculado a la actividad del ticket).
+    Completar los datos referentes a la ejecución de la solicitud, si se desea
+    añadir algún archivo, hacer clic en la pestaña "Adjuntos";
 
-Procedimento
-------------
+4.  Hacer clic en "Finalizar" y completar los datos sobre la terminación de la
+    atención. Seleccionar la situación de la atención (en curso, resuelta o
+    cancelada) y los detalles;
 
-1.  Informar os dados para login do aplicativo;
+5.  Hacer clic en "Guardar y Avanzar el Flujo" o "Guardar y mantener la tarea
+    actual" para completar la operación. Se sincronizará automáticamente los
+    cambios. Si la aplicación no encuentra la red para completar la
+    sincronización, aparecerá el icono  para esperar acceder a la red y después
+    completar la sincronización;
 
-2.  Selecionar o ticket desejado e clicar sobre o mesmo. Será apresentado uma
-    tela com os dados da solicitação, inclusive um mapa do local onde será
-    realizado o atendimento;
+6.  Está disponible la sincronización manual de las solicitudes tan pronto la
+    aplicación encuentre una red accesible. Para ello, simplemente deslice la
+    pantalla hacia abajo con el dedo o haga clic en el icono ;
 
-3.  Clicar no botão "Executar solicitação" e em seguida "Outras informações"
-    (está opção só estará disponível se existir um questionário vinculado a
-    atividade do ticket). Preencher os dados referentes a execução da
-    solicitação, se se desejar adicionar algum arquivo clicar na aba "Anexos";
+7.  Hay filtros que facilitan la localización del ticket necesario, se lo acceda
+    por el cuadro de búsqueda o haga clic en el icono  .
 
-4.  Clicar em "Finalizar" e completar os dados sobre a conclusão do atendimento.
-    Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
-    e o detalhar da mesma;
-
-5.  Clicar em "Gravar e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
-    completar a operação. Serão então automaticamente sincronizadas as
-    alterações. Se o aplicativo não encontrar a rede para completar a
-    sincronização, será apresentado o ícone “Atualização automática” para
-    aguardar o encontro de rede para e então completar a sincronização;
-
-6.  Está disponível a sincronização manual das solicitações assim que o
-    aplicativo encontrar uma rede acessível. Para tanto, basta deslizar a tela
-    para baixo com o dedo ou clicar no ícone “Atualizar lista”;
-
-7.  Existem filtros que facilitam a localização do ticket necessário, acesse o
-    mesmo pela caixa de pesquisa ou clique no ícone “Filtros”.
 
 Relacionado
 -----------
 
-[Configurar aplicativo CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+[Configurar aplicación CITSmart Field Service](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
