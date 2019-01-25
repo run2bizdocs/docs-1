@@ -22,45 +22,45 @@ electrónico.
 Procedimiento
 -----------------
 
-1.  Acceder a la funcionalidad en el menú principal Sistema \> Mantenimiento de
+1-  Acceder a la funcionalidad en el menú principal Sistema \> Mantenimiento de
     flujos;
 
-2.  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";
+2-  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";
 
-3.  Clic en la pestaña **Diagrama**;
+3-  Clic en la pestaña **Diagrama**;
 
-4.  En el flujo de aprobación de solicitud, haga clic en el icono "Envío de Mensaje - e-mail" y después, en el pequeño cuadro gris cerca del conector configurado;
+4-  En el flujo de aprobación de solicitud, haga clic en el icono "Envío de Mensaje - e-mail" y después, en el pequeño cuadro gris cerca del conector configurado;
 
-5.  Registrar, en la pestaña **Identificación**, el nombre y modelo de correo
+5-  Registrar, en la pestaña **Identificación**, el nombre y modelo de correo
     electrónico a utilizarse;
 
-6.  Configurar, en la pestaña **Destinatarios**, los tipos de destinatarios
+6-  Configurar, en la pestaña **Destinatarios**, los tipos de destinatarios
     (grupo/usuario) del correo electrónico que se va enviar (el sistema no hace
     búsqueda por destinatarios por "Expresión".
 
 *Configurar la notificación de aprobación del correo electrónico*
 
-1.  Acceder a la funcionalidad en el menú** **Sistema \> Configuración \> Modelo
+1-  Acceder a la funcionalidad en el menú** **Sistema \> Configuración \> Modelo
     de e-mail;
 
-2.  Pegar el modelo de correo electrónico disponible en HTML adjunto en el campo
+2-  Pegar el modelo de correo electrónico disponible en HTML adjunto en el campo
     Texto y comprobar las siguientes directrices:
 
--   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+   -   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
--   serviceRequestIncident = Dirección de la interface : este campo no puede ser
-    cambiado por el usuario;
+   -   serviceRequestIncident = Dirección de la interface : este campo no puede ser
+       cambiado por el usuario;
 
--   \${IDSOLICITACAOSERVICO} = Clave para incrementar el número de solicitud de
-    servicio: este campo no puede ser cambiado por el usuario;
+   -   \${IDSOLICITACAOSERVICO} = Clave para incrementar el número de solicitud de
+       servicio: este campo no puede ser cambiado por el usuario;
 
--   VIEW - llama al comando para abrir la solicitud: este campo no puede ser
-    cambiado por el usuario;
+   -   VIEW - llama al comando para abrir la solicitud: este campo no puede ser
+       cambiado por el usuario;
 
--   MM (50) - Tiempo de expiración del token en minutos: este campo puede ser
-    cambiado por el usuario;
+   -   MM (50) - Tiempo de expiración del token en minutos: este campo puede ser
+       cambiado por el usuario;
 
-1.  Haga clic en "Guardar".
+3-  Haga clic en "Guardar".
 
 
 Relacionado
