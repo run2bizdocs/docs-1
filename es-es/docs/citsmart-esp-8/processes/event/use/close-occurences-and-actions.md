@@ -1,32 +1,31 @@
-title: Encerrar ocorrência e ações de um evento
-Description: Tem por objetivo encerrar a ocorrência e todas as ações de um evento.
-#Encerrar ocorrência e ações de um evento
-Esta funcionalidade tem por objetivo encerrar a ocorrência e todas as ações de um evento.
+title: Cerrar ocurrencia y acciones del evento
+Description: Tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
+#Cerrar ocurrencia y acciones del evento
+Esta funcionalidad tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-A funcionalidade requer o registro de evento previamente.
+Es necesario tener registrado el evento.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Evento \> Evento;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Evento;
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Encerrar ocorrência e
-    todas ações”;
+2.  Hacer clic en el evento y después en el botón “Cerrar ocurrencia y todas las
+    acciones”;
 
-3.  Clicar em "Sim" para a pergunta de confirmação de encerramento.
+3.  Hacer clic en "Sí" para la pregunta de confirmación del cierre.
 
 Relacionado
 ------------
 
-[Cadastrar conexão Nagios/Zabbix](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrFw2L_38FJbcLKv44S4fs)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNEIr_hUNAaOjTln3E-3K7n)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
