@@ -1,48 +1,48 @@
-title: Cancelar um ticket
-Description: A funcionalidade permite o cancelamento do ticket. 
-#Cancelar um ticket
-A funcionalidade permite o cancelamento do ticket.
+title:  Cancelar ticket 
+Description: La funcionalidad permite la cancelación del ticket. 
+#Cancelar ticket
+La funcionalidad permite la cancelación del ticket.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio do ticket e possuir permissão para cancelar o
+Es necesario registrar anteriormente el ticket e tener permiso para cancelar el
 ticket.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
-    ícone “Abrir”;
+2.  Buscar por lo ticket y hacer clic en el icono “Abrir”;
 
-3.  Alterar a Situação do ticket para "Cancelada" ao clicar sobre a mesma;
+3.  Cambiar el Status del ticket para "Cancelado";
 
-4.  No campo **Solução Resposta**, descrever o porquê do cancelamento;
+4.  En el campo **Solución Respuesta**, describir el por qué de la cancelación;
 
-5.  Clicar no botão de “Opções” e logo em seguida clicar no botão “Gravar e
-    avançar o fluxo”, onde o ticket será cancelado. Mas, caso queira gravar
-    somente as informações registradas sobre o cancelamento do ticket e manter a
-    tarefa atual, clique no botão “Gravar e manter a tarefa atual".
+5.  Haga clic en el botón de “Opciones” y después en el botón “Grabar y avanzar
+    el flujo” para guardar y avanzar el flujo, donde el ticket será cancelado.
+    Pero, si desea grabar sólo la información registrada sobre la cancelación
+    del ticket y mantener la tarea actual, haga clic en el botón “Guardar y
+    mantener la tarea actual”.
 
 Relacionado
 -----------
 
-[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
 
 
