@@ -1,50 +1,50 @@
-title:  Criar e visualizar sub-solicitação
-Description: É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada. 
-#Criar e visualizar sub-solicitação
-É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada.
+title:  Crear y ver sub-solicitudes 
+Description: Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
+#Crear y ver sub-solicitudes
+Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio do ticket, do colaborador e da unidade além da
-permissão para registrar ticket.
+Es necesario el registro previo del ticket, del empleade y de la unidad, además
+del permiso para registrar ticket.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Para criar a sub-solicitação:
+2.  Para crear la sub-solicitud:
 
-    -   Clicar sobre o ticket desejado e selecionar a alternativa "Criar
-        sub-solicitações" no menu opções;
+    -   Haga clic en el ticket deseado y seleccione la alternativa "Crear
+        sub-solicitudes" en el menú opciones;
 
-    -   Preencher os campos necessários e clicar "Gravar".
+    -   Llenar los campos necesarios y haga clic en "Guardar".
 
-3.  Para visualizar sub-solicitação:
+3.  Para ver la sub-solicitud:
 
-    -   Clicar sobre o ticket desejado e selecionar a alternativa
-        "Exibir sub-solicitações" no menu opções.
+    -   Haga clic en el ticket deseado y seleccione la alternativa "Mostrar
+        sub-solicitudes" en el menú de opciones.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
 
 
