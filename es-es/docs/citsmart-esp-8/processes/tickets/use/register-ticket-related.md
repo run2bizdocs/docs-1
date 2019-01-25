@@ -1,65 +1,66 @@
-title: Cadastrar ticket relacionado
-Description: Permite cadastrar um ticket com atividades relacionada ao ticket original.
-#Cadastrar ticket relacionado
-A funcionalidade permite cadastrar um ticket com atividades relacionada ao ticket original.
+title:  Registrar ticket relacionado 
+Description: Permite registrar un ticket con actividades relacionadas al ticket original.
+#Registrar ticket relacionado
+La funcionalidad permite registrar un ticket con actividades relacionadas al ticket original.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio do colaborador, contrato e unidade. Também é
-preciso vincular o grupo ao contrato, a unidade ao contrato e o contrato ao
-serviço.
+Es necesario el registro previo del colaborador, contrato y unidad. También es
+necesario vincular el grupo al contrato, la unidad al contrato y el contrato al
+servicio.
 
-Cadastrar o portfólio com os serviços e as atividades de requisição e incidente.
-Definir o tempo de atendimento das atividades de requisição e incidente.
+Registrar el portafolio con los servicios y las actividades de solicitud e
+incidente. Definir el tiempo de atención de las actividades de solicitud e
+incidente.
 
-Vincular as atividades de requisição e incidente ao contrato do serviço.
-Configurar o parâmetro 385 com o valor 'S'.
+Vincular las actividades de solicitud e incidente al contrato del servicio.
+Configurar el parámetro 385 con el valor 'S'.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar Solicitação
-    Relacionada" no menu opções;
+2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear solicitud
+    relacionada" en el menú de opciones;
 
-3.  Preencher os campos necessários e clicar no botão "Gravar e manter tarefa
-    atual". O ticket relacionado será direcionado para o grupo executor definido
-    no registro do vínculo da atividade, o mesmo será direcionado para o grupo
-    executor definido no parâmetro 9;
+3.  Llenar los campos necesarios y hacer clic en el botón "Guardar y mantener la
+    tarea actual". El ticket relacionado será dirigido al grupo ejecutor
+    definido en el registro del vínculo de la actividad, el mismo será dirigido
+    al grupo ejecutor definido en el parámetro 9;
 
-4.  Lembre-se que o sistema enviará e-mails de notificação a respeito de
-    criação, escalonamento, captura, encerramento e demais alterações dos
-    tickets relacionados para o grupo executor do ticket principal.
+4.  Recuerde que el sistema enviará correos electrónicos de notificación acerca
+    de la creación, escalonamiento, captura, cierre y demás cambios de los
+    tickets relacionados para el grupo ejecutor del ticket principal.
 
 Relacionado
 -----------
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Como relacionar unidade ao contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+[Cómo relacionar la unidad al contrato](/es-es/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-[Como relacionar grupo ao contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+[Cómo relacionar el grupo al contrato](/es-es/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço

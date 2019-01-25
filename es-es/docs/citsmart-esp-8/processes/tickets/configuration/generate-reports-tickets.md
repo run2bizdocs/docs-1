@@ -1,264 +1,266 @@
-title: Gerar relatórios - Gerência de incidentes e requisições
-Description: Permite gerar relatórios de dicversão maneiras sobre gerência de requisição e indente.
-#Gerar relatórios - Gerência de incidentes e requisições
+title: Generar informes - gestión de Incidentes y Solicitudes
+Description: Permite generar informes de varias maneras sobre la gerencia de petición e indent.
+#Generar informes - gestión de Incidentes y Solicitudes
 
-Gerar relatório de causas e soluções
-----------------------------------------
+Generar informe de causas y soluciones
+------------------------------------------
 
-Este relatório tem o objetivo de apresentar as causas e soluções das
-solicitações de serviços.
+Este informe tiene el objetivo de presentas las causas y soluciones de las
+solicitudes de servicios.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Controle de Causas e Soluções;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Control de Causas y Soluciones;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Para gerar relatório gráfico, clicar no botão "Gerar gráfico PDF" para gerar
-    o relatório em formato PDF e/ou no botão "Gerar gráfico XLS" para gerar o
-    relatório em formato Excel;
+3.  Para generar el informe gráfico, haga clic en "Generar gráfico PDF" para
+    generar el informe en PDF y/o en el botón "Generar gráfico XLS" para generar
+    el informe en Excel;
 
-4-  Para gerar relatório com informações detalhadas, clicar no botão "Gerar
-    relatório analítico PDF" para gerar o relatório detalhado em formato PDF
-    e/ou no botão "Gerar relatório analítico XLS" para gerar o relatório
-    detalhado em formato Excel.
+4.  Para generar el informe con información detallada, haga clic en "Generar
+    informe analítico PDF" para generar el informe detallado en PDF y/o en el
+    botón "Generar informe analítico XLS" para generar el informe detallado en
+    Excel.
 
-Gerar relatório de gantt
-----------------------------
+Generar informe Gantt
+-------------------------
 
-Este relatório tem o objetivo de apresentar os incidentes e requisições de
-serviço em gráfico de Gantt.
+Este informe tiene el objetivo de presentar los incidentes y solicitudes de
+servicio en gráfico de Gantt.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Gantt;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Gantt;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Clicar no botão "Filtrar" para gerar o gráfico de Gantt, conforme o filtro
-    escolhido.
+3.  Haga clic en "Filtrar" para generar el informe de Gantt, según el filtro
+    elegido.
 
-Gerar relatório de carga horária trabalhada
------------------------------------------------
-
-Este relatório tem o objetivo de apresentar o cálculo da quantidade de horas
-trabalhadas por cada colaborador e/ou por grupo.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Relatório Carga Horária Trabalhada;
-
-2-  Definir os filtros conforme a necessidade;
-
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-!!! Abstract "ATENÇÃO"
-
-    Quando uma pessoa "captura" uma solicitação ou clicar em "gravar e manter
-    tarefa", o tempo começa a ser contabilizado para essa pessoa, pois são
-    armazenadas as informações de data, hora e usuário, parando apenas quando a
-    solicitação é pausada, cancelada, concluída ou quando outra pessoa captura
-    essa solicitação.  
-
-Gerar relatório quantitativo
---------------------------------
-
-Este relatório tem o objetivo de apresentar a quantidade de solicitações de
-serviço de acordo com a situação informada.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Quantitativo;
-
-2-  Definir os filtros conforme sua necessidade;
-
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-Gerar relatório quantitativo por serviços concluídos (sintético)
---------------------------------------------------------------------
-
-Este relatório tem o objetivo de apresentar o relatório das
-requisições/incidentes (serviços) concluídos.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidente/Requisição \> Quantitativo por Serviços Concluídos
-    (Sintético);
-
-2-  Definir os filtros conforme a necessidade;
-
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-Gerar relatório quantitativo de serviços concluídos (analítico)
--------------------------------------------------------------------
-
-Este relatório tem o objetivo de apresentar o relatório das
-requisições/incidentes (serviços) concluídos.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Quantitativo por Serviços Concluídos
-    (Analítico);
-
-2-  Definir os filtros conforme a necessidade;
-
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-Gerar relatório de pesquisa de satisfação
----------------------------------------------
-
-Este relatório tem o objetivo de apresentar as informações sobre a pesquisa de
-satisfação em relação ao atendimento das solicitações de serviços.
-
-### Antes de começar
-
-É necessário ter chamados abertos e fechados que possuam a pesquisa de
-satisfação vinculada.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Pesquisa Satisfação;
-
-2-  Definir os filtros conforme a necessidade;
-
-3-  Selecionar a forma de elaboração do relatório ao clicar em "Gerar PDF",
-    "Gerar XLS" ou "Exportar CSV".
-
-Gerar relatório de solicitações de serviço
+Generar informe de carga horaria trabajada
 ----------------------------------------------
 
-Este relatório tem o objetivo de apresentar o histórico dos registros de
-solicitações de serviços.
+Este informe tiene el objetivo de presentar el cálculo de la cuantidad de horas
+trabajadas por cada empleado y/o grupo.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Pesquisa Solicitações/Incidentes;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Informe Carga Horaria Trabajada;
 
-2-  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar".
-    Será exibidas as solicitações;
+2.  Definir los filtros según sea necesario;
 
-!!! Abstract "ATENÇÃO"
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
-    A quantidade de solicitações listadas, por página, é referente a
-    quantidade configurada no parâmetro "261 - quantidade de registros
-    retornados na pesquisa avançada".  
+!!! Abstract "ATENCIÓN"
 
-3-  Nas solicitações apresentadas na lista, é possível realizar as seguintes
-    ações: consultar histórico do ticket, visualizar requisição/incidente,
-    visualizar anexos e reabrir o ticket;
+    Cuando alguien "captura" una solicitud o hace clic en "guardar y mantener
+    tarea", el tiempo empieza a contabilizarse para ese alguien, porque se
+    almacena la información de fecha, hora y usuario, deteniéndose sólo cuando
+    la solicitud se detiene, se cancela, se completa o cuando otra persona
+    captura esta solicitud.
 
-4-  Caso queria gerar o relatório com informações resumidas da pesquisa que foi
-    realizada, clicar no botão "Gerar XLS" para gerar o relatório em formato
-    Excel;
+Generar informe cuantitativo
+--------------------------------
 
-5-  Caso queira gerar o relatório com informações detalhadas da pesquisa que foi
-    realizada, clicar no botão "Gerar Relatório Detalhado PDF" para gerar o
-    relatório detalhado em formato PDF e/ou no botão "Gerar Relatório Detalhado
-    XLS" para gerar o relatório detalhado em formato Excel.
+Este informe tiene el objetivo de presentar la cantidad de solicitud de servicio
+de acuerdo con la situación informada.
 
-Gerar relatório de solicitação por executante
--------------------------------------------------
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Cuantitativo;
+
+2.  Definir los filtros según sea necesario;
+
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
+
+Generar informe cuantitativa completado por servicios (sintético)
+---------------------------------------------------------------------
+
+Este informe tiene el objetivo de presentar el informe de las
+solicitudes/incidentes (servicios) completos.
+
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Cuantitativo Completado por Servicios
+    (Sintético);
+
+2.  Definir los filtros según sea necesario;
+
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
+
+Generar informe cuantitativo completado de servicios (analítico)
+--------------------------------------------------------------------
+
+Este informe tiene el objetivo de presentar el informe de las
+solicitudes/incidentes (sevicios) completos.
+
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Cuantitativo Completado por Servicios
+    (Analítico);
+
+2.  Definir los filtros según sea necesario;
+
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
+
+Generar informe de encuesta de satisfacción
+-----------------------------------------------
+
+Este informe tiene el objetivo de presentar las informaciones sobre la encuesta
+de satisfacción en relación a la atención de las solicitudes de servicios.
+
+### Antes de empezar
+
+Es necesario tener llamados abiertos y cierrados que posean enlace con una
+encuesta de satisfacción.
+
+### Procedimiento
+
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Encuesta de Satisfacción;
+
+2.  Definir los filtros según sea necesario;
+
+3.  Seleccionar el modo de elaboración del informe al hacer clic en "Generar
+    PDF", "Generar XLS" o "Exportar CSV".
+
+Generar informe de solicitudes de servicio
+----------------------------------------------
+
+Este informe tiene el objetivo de presentar el histórico de los registros de
+solicitudes de servicios.
+
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Consulta Solicitudes/Incidencias;
+
+2.  Definir los filtros conforme la necesidad y hacer clic en "Búsqueda". Se
+    mostrarán las solicitudes;
+
+!!! Abstract "ATENCIÓN"
+
+    La cantidad de solicitudes enumeradas por página se refiere a la cantidad
+    configurada en el parámetro "261 - cantidad de registros devueltos en la
+    búsqueda avanzada".
+
+1.  En las solicitudes presentadas en la lista, es posible haces las siguientes
+    acciones: buscar, histórico del ticket, visualizar solicitud/incidente, view
+    los adjuntos y reabrir el ticket;
+
+2.  Si desea generar el informe con información resumida de la búsqueda que se
+    realizó, haga clic en el botón "Generar XLS" para generar el informe en
+    formato Excel;
+
+3.  Si desea generar el informe con información detallada de la búsqueda que se
+    realizó, haga clic en el botón "Generar informe detallado PDF" para generar
+    el informe detallado en formato PDF y/o el botón "Generar informe detallado
+    XLS" para generar el informe detallado en formato Excel.
+
+Generar informe de solicitación por ejecutante
+--------------------------------------------------
 
 Este relatório tem o objetivo de apresentar as solicitações de serviço por
 executante.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Solicitação por executante;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Solicitación por Ejecutante;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
-Gerar relatório de aprovação de solicitação
------------------------------------------------
-
-Este relatório tem objetivo de apresentar as solicitações de serviços que foram
-aprovadas e as que não foram aprovadas.
-
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Pesquisa Aprovação solicitações;
-
-2-  Definir os filtros conforme a necessidade;
-
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
-
-Gerar relatório de execução de solicitação
+Generar informe de aprobación de solicitud
 ----------------------------------------------
 
-Este relatório tem o objetivo de apresentar os responsáveis por executar as
-solicitações de serviços.
+Este informe tiene el objetivo de presentar las solicitudes de servicios que
+fueron y no fueron aprobadas.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Relatório Execução Solicitação;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Consulta Aprobación Solicitaciones;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
-Gerar relatório solicitações reabertas
-------------------------------------------
+Generar informe de ejecución de solicitud
+---------------------------------------------
 
-Este relatório tem o objetivo de apresentar todas solicitações que foram
-reabertas em um determinado período.
+Este informe tiene el objetivo de presentar los responsables por ejecutar las
+solicitudes de servicios.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidente/Requisição \> Solicitação Reaberta;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Informe Solicitación de Ejecución;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
-Gerar relatório top 10 incidentes/requisições
+Generar informe de solicitudes reabertas
+--------------------------------------------
+
+Este informe tiene el objetivo de presentar todas solicitudes que fueron
+reabertas en un determinado período.
+
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Solicitud Reabierta;
+
+2.  Definir los filtros según sea necesario;
+
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
+
+Generar informe top 10 incidentes/solicitudes
 -------------------------------------------------
 
-Este relatório tem o objetivo de apresentar o top 10 de incidentes/requisições
-de acordo com os filtros escolhidos pelo usuário.
+Este informe tiene el objetivo de presentar el top 10 de incidentes/solicitudes
+conforme los filtros elegidos por lo usuario.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Relatório Top 10
-    Incidentes/Requisições;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> El Top 10 Incidentes/Solicitudes;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Quando o usuário quiser fazer um análise de todas as solicitações,
-    definindo o valor "Todos" para o filtro "Top List", pode existir diferença
-    entre o número de solicitações do "Relatório Top 10 localidades que mais
-    abriram requisições/incidentes" com o número que foi encontrado nos outros
-    relatórios, devido a não obrigatoriedade de uma solicitação ser vinculada a
-    uma localidade.
+    Cuando el usuario desea realizar un análisis de todas las solicitudes,
+    estableciendo el valor "Todos" para el filtro "Top List", puede haber
+    diferencia entre el número de solicitudes del "Informe Top 10 ubicaciones
+    que más abrieron solicitudes/incidentes" con el número que fue encontrado en
+    los otros informes, debido a la no obligatoria de una solicitud estar
+    vinculada a una localidad.
 
-    O campo "data de finalização" será usado para filtrar o período do
-    "Relatório Top 10 de grupos solucionadores que mais resolveram
-    requisições/incidentes", portanto, poderá ser divergente do número de
-    solicitações abertas no período.
+    El campo "fecha de finalización" se utilizará para filtrar el período del
+    "Informe Top 10 de grupos solucionadores que más resolvieron
+    solicitudes/incidentes", por lo que podría ser diferente al número de
+    solicitudes abiertas en el período.
 
-    O sistema irá apresentar todas unidades e serviços ativos referentes ao
-    contrato selecionado.
+    El sistema mostrará todas las unidades y servicios activos relacionados
+    con el contrato seleccionado.
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+1.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
-Gerar relatório de incidente/requisição por serviço
--------------------------------------------------------
+Generar informe de incidente/solicitude por servicio
+--------------------------------------------------------
 
-Este relatório tem o objetivo de apresentar a quantidade de requisição e
-incidente que foram solicitados referente ao serviço do catálogo do portfólio.
+Este informe tiene el objetivo de presentar la cantidad de solicitud e incident
+que fueron solicitados a los servicios del catalogo del portafolio.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Incidentes/Requisição \> Relatório Quantitativo de
-    Incidentes/Requisições por Portfólio e Serviço;
+1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Informe de Requerimientos/Incidentes
+    Cuantitativos Para el Portafolio y Servicio;
 
-2-  Definir os filtros conforme a necessidade;
+2.  Definir los filtros según sea necesario;
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+    "Generar XLS" para generar el informe en Excel.
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins

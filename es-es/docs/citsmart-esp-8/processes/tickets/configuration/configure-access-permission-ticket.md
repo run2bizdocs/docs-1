@@ -1,42 +1,43 @@
-title: Configurar permissão de acesso do gerenciamento de requisições/incidentes
-Description: Permite definir quem terá acesso às funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
-#Configurar permissão de acesso do gerenciamento de requisições/incidentes
+title: Configurar permiso de acceso de la gestión de solicitudes/incidentes
+Description: Definir quién tendrá acceso a las funciones de la pantalla de Gestión de Solicitudes e Incidentes, además de qué tipo de acceso está permitido (ver, guardar y/o eliminar).
+#Configurar permiso de acceso de la gestión de solicitudes/incidentes
 
-A funcionalidade de Permissão de Acesso permite definir quem terá acesso às
-funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo
-de acesso é permitido (leitura, gravação e/ou exclusão).
+La funcionalidad de Permiso de Acceso permite definir quién tendrá acceso a las
+funciones de la pantalla de Gestión de Solicitudes e Incidentes, además de qué
+tipo de acceso está permitido (ver, guardar y/o eliminar).
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para definir a permissão de acesso às funcionalidades do ticket é necessário
-registrar previamente o perfil.
+Para definir el permiso de acceso a las funcionalidades del ticket, es necesario
+registrar previamente el perfil.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Gerência de Requisições/Incidentes;
+1.  Acceder al menú principal Acceso y Permisos \> Gestión
+    Solicitudes/Incidentes;
 
-2.  Escolher o perfil de acesso:
+2.  Elegir el perfil de acceso:
 
-3.  Clicar em "Editar";
+3.  Hacer clic en "Editar";
 
-4.  Para cada funcionalidade do Gerenciamento de Requisições e Incidentes,
-    selecionar as ações (visualizar, gravar e/ou deletar) que o Perfil poderá
-    realizar;
+4.  Para cada funcionalidad de la Gestión de Solicitudes e Incidentes,
+    seleccionar las acciones (ver, guardar y/o eliminar) que el perfil puede
+    hacer;
 
-5.  Clicar em "Gravar".
+5.  Hacer clic en "Guardar".
+
 
 
 
 Relacionado
 -------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/25/2019 – Anna Martins

@@ -40,6 +40,8 @@ Relacionado
 
 [Cadastrar prioridade](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
+[Criar modelo de template de incidente, requisição e procedimento](/pt-br/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
+
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"

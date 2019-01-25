@@ -1,18 +1,22 @@
-title: Cadastrar motivo de suspensão de atividade
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
-#Cadastrar motivo de suspensão de atividade
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
+title: Registrar motivo de suspensión de la actividad
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar el motivo de la suspensión de la actividad periódica.
+#Registrar motivo de suspensión de la actividad
 
-Procedimento
-------------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borrar el motivo de la suspensión de la actividad periódica.
 
-1.  Acessar o menu principal Cadastros Gerais \> Motivo Suspensão de Atividade;
+Procedimiento
+-----------------
 
-2.  Preencher o campo disponibilizado;
+1.  Acceder al menú principal Registros Generales \> Motivo Suspensión de la
+    Actividad;
 
-3.  Clicar em "Gravar".
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins

@@ -1,24 +1,29 @@
-title: Cadastrar template de notificação
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um template de notificação.
+title: Registrar plantilla de notificación
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una plantilla de notificación.
+#Registrar plantilla de notificación
 
-#Cadastrar template de notificação
-A funcionalidade Template de Notificação tem por objetivo criar um template de notificação para vincular ao Gerenciamento de Eventos e Base de Conhecimento.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um template de notificação.
 
-Procedimento
-------------
+La funcionalidad de Plantilla de Notificación tiene por objeto crear una
+plantilla de notificación para vincular a la Gestión de Eventos y la Base de
+Conocimientos.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Notificações \> Template de Notificação;
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una
+plantilla de notificación.
 
-2.  Clicar no botão "Novo";
+Procedimiento
+-----------------
 
-3.  Preencher os campos disponibilizados;
+1.  Acceder al menú principal Sistema \> Notificaciones \> Plantilla de
+    Notificación;
 
-4.  Clicar em "Gravar".
+2.  Hacer clic en "Nuevo";
+
+3.  Completar los campos disponibles;
+
+4.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
 

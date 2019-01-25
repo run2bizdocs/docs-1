@@ -1,33 +1,37 @@
-title: Cadastrar um grupo de assinaturas
-Description: Permite registrar os grupos de assinatura que serão impressos em relatórios.
-#Cadastrar um grupo de assinaturas
-Esta funcionalidade permite registrar os grupos de assinatura que serão impressos em relatórios.
+title: Registrar grupos de suscripciones
+Description: Permite registrar los grupos de suscripción que serán impresos en los informes.
+#Registrar grupos de suscripciones
 
-Antes de começar
-----------------
 
-É necessário cadastrar, anteriormente, a assinatura do colaborador.
+Esta funcionalidad permite registrar los grupos de suscripción que serán
+impresos en los informes.
 
-Procedimento
-------------
+**Antes de empezar**
+--------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Grupos de Contratos;
+Es necesario registrar anteriormente la suscripción del colaborador.
 
-2.  Na guia "**Cadastro de Grupos de Assinaturas**", preencher os campos
-    necessários (título, selecionar a assinatura, informar a ordem em que a
-    assinatura aparecerá no quadro de assinaturas do relatório);
+**Procedimiento**
+-----------------
 
-3.  Clicar no botão "Adicionar" e em seguida "Gravar" para efetuar a operação.
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Grupos de Firmas;
+
+2.  En la pestaña "**Registrar Grupos de Firmas**", completar los campos
+    necesarios (título, seleccionar la firma, indicar el orden en que la
+    suscripción aparecerá en el marco de suscripciones del informe);
+
+3.  Hacer clic en "Agregar" y después en "Guardar".
+
 
 Relacionado
 -----------
 
-[Cadastrar uma assinatura](/pt-br/citsmart-esp-8/additional-features/contract-management/configuration/register-subscription.html)
+[Registrar una subscripción](/es-es/citsmart-esp-8/additional-features/contract-management/configuration/register-subscription.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins

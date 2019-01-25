@@ -1,51 +1,61 @@
-title: Cadastrar notificação 
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir mensagens de alerta.
-#Cadastrar notificação
-A funcionalidade de Notificação tem por objetivo criar mensagens de alerta no intuito de notificar os usuários sobre informações acerca da organização.
-As notificações registradas, serão exibidas durante o período estabelecido neste registro. Após passar o período, o sistema irá inativar as notificações.
-O sistema mostra o contador de notificação incrementado somente quando existir notificação que exige confirmação de leitura.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir mensagens de alerta.
+title: Registrar notificación
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar mensajes de alerta.
+#Registrar notificación
 
-Procedimento
-------------
+La funcionalidad de Notificación tiene por objeto crear mensajes de alerta para
+notificar a los usuarios sobre la información a cerca de la organización.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Notificações \> Notificação;
+Las notificaciones registradas se mostrarán durante el período establecido en
+este registro. Después de pasar el período, el sistema va inhabilitar las
+notificaciones.
 
-2.  Clicar no botão "Novo";
+El sistema presenta el contador de notificación incrementado sólo cuando hay
+notificación que requiere confirmación de lectura.
 
-3.  Preencher os campos disponibilizados;
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar mensajes de alerta.
 
-4.  Se a notificação é destinada a um usuário, clicar em "vincular usuário" ou
-    caso seja direcionada a um grupo de usuários, clicar em "Vincular Grupo"
+Procedimiento
+-----------------
 
-5.  Clicar em "Gravar".
+1.  Acceder al menú principal Sistema \> Notificaciones \> Notificación;
 
-O que fazer depois
-------------------
+2.  Hacer clic en "Nuevo";
 
-1.  As mensagens poderão ser visualizadas na tela inicial, na no Smart Portal,
-    área interna ou no Portal de Experiência;
+3.  Completar los campos disponibles;
 
-2.  Clicar na guia “Notificações” e depois em "Visualizar" para checar a
-    mensagem;
+4.  Si la notificación está destinada a un usuario, hacer clic en "vincular
+    usuario" o, si se dirige a un grupo de usuarios, hacer clic en "Vincular
+    Grupo";
 
-3.  Para ver todas as notificações, clicar na opção "Ver todos", será
-    apresentada a tela para verificação das notificações;
+5.  Hacer clic en "Guardar".
 
--   A notificação com o ícone simbolizado por um envelope aberto, indica que a
-    mesma foi visualizada;
+Lo que hacer después
+--------------------
 
--   A notificação com o ícone simbolizado por um envelope fechado, indica que a
-    mesma não foi visualizada;
+1.  Los mensajes se pueden ver en la pantalla de inicio, en el Smart Portal, en
+    el área interna o en el Portal de Experiencia;
 
--   A notificação com o ícone simbolizando uma atenção, indica que a mesma exija
-    confirmação de leitura;
+2.  Hacer clic en la pestaña  Notificaciones y después en "Ver" para ver el
+    mensaje;
 
--   A notificação com o ícone simbolizado por um “visto/check”, indica que a
-    leitura da mesma foi confirmada.
+3.  Para ver todas las notificaciones, hacer clic en la opción "Ver todos",
+    aparecerá la pantalla para verificar las notificaciones;
+
+    -   La notificación con el icono simbolizado por un sobre abierto , indica que
+        se la fue visualizada;
+
+    -   La notificación con el icono simbolizado por un sobre cerrado , indica que
+        no se la visualizó;
+
+    -   La notificación con el icono simbolizando una atención, indica que se
+        necesita confirmación de lectura;
+
+    -   La notificación con el icono simbolizado por un "visado / check", indica que
+        la lectura se confirmó.
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins

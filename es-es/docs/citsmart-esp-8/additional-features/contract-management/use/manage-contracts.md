@@ -1,483 +1,489 @@
-title: Administrar os contratos
-Description: A administração dos contratos é utilizada com o objetivo de gerenciar os contratos já cadastrados no sistema.  
-#Administrar os contratos
-A administração dos contratos é utilizada com o objetivo de gerenciar os contratos já cadastrados no sistema. Este processo permite verificar, adicionar e excluir serviços, além de dispor de vínculos para a criação de OS, de fatura e notificação.
+title: Administrar los contratos
+Description: Gestionar los contratos ya registrados en el sistema.
+#Administrar los contratos
 
-Antes de começar
-----------------
+La administración de los contratos se utiliza con el objetivo de gestionar los
+contratos ya registrados en el sistema. Este proceso permite comprobar, agregar
+y borrar servicios, además de disponer de vínculos para la creación de OS, de
+factura y notificación.
 
-É necessário o cadastro prévio do grupo, dos contratos, dos serviços, do modelo
-de e-mail. Também é imprescindível o cadastro do acordo de nível de serviço
-(geral).
+Antes de empezar
+--------------------
 
-Para criar uma ordem de serviço, é necessário que o usuário tenha permissão para
-abertura de OS e cadastrar o cadastrar o serviço do tipo "Ordem de Serviço",
-vincular o serviço ao contrato, vincular o acordo de nível de serviço do tipo
-"OS - Resultados Esperados" ao serviço. Do mesmo modo, é imperativo registrar as
-atividades, com os seus respectivos valores, sendo um custo total ou calculado
-por fórmula, do serviço do contrato. Todas estas ações serão explanadas ao longo
-deste artigo.
+Es necesario el registro previo del grupo, contratos, servicios y modelo de
+correo electrónico. También es imprescindible el registro del acuerdo de nivel
+de servicio (general).
 
-Procedimento para vincular um serviço ao contrato
--------------------------------------------------
+Para crear una orden de servicio, es necesario que el usuario tenga permiso para
+abrir OS y registrar el servicio del tipo "Orden de servicio", vincular el
+servicio al contrato, vincular el acuerdo de nivel de servicio del tipo "OS -
+Resultados esperados "al servicio. De igual modo, es imperativo registrar las
+actividades, con sus respectivos valores, siendo un costo total o calculado por
+fórmula, del servicio del contrato. Todas estas acciones serán explicadas a lo
+largo de este artículo..
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+Procedimiento para vincular un servicio al contrato
+-------------------------------------------------------
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-3-  Clicar na aba "Serviços do Contrato" e em seguida no botão "Adicionar
-    Serviço ao Contrato";
+2-  Hacer clic en el campo del contrato y seleccionar un contrato. A
+    continuación, hacer clic en "Buscar";
 
-4-  Preencher os campos necessários. Para vincular um fluxo de serviço, clicar
-    no ícone “+” do fluxo e selecionar o fluxo desejado e clicar em "Gravar".
+3-  Hacer clic en la pestaña "Servicios del Contrato" y luego en el botón
+    "Agregar Servicio al Contrato";
 
-!!! Abstract "ATENÇÃO"
+4-  Completar los campos necesarios. Para vincular un flujo de servicio, hacer
+    clic en el icono "+" del flujo y seleccionar un flujo, después, hacer clic en
+    "Guardar".
 
-    Caso seja necessário fazer uso de mais de um fluxo, é importante informar
-    qual é o principal.
+!!! Abstract "ATENCIÓN"
 
-5-  Após preencher os campos, clicar em "Gravar" para efetuar a operação.
+    Si es necesario hacer uso de más de un flujo, es importante informar cuál
+    es el principal.
 
-Procedimento para vincular vários serviços ao contrato
-------------------------------------------------------
+5-  Después de completar los campos, hacer clic en "Guardar".
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Serviços do Contrato" e em seguida no botão "Adicionar
-    VÁRIOS Serviços ao Contrato";
-
-4-  Preencher os campos necessários. Para vincular um fluxo de serviço, clicar
-    no ícone “+” do fluxo e selecionar o fluxo desejado e clicar em "Gravar".
-
-!!! Abstract "ATENÇÃO"
-
-    Caso seja necessário fazer uso de mais de um fluxo, é importante informar
-    qual é o principal.
-
-5-  Após preencher os campos, clicar em "Gravar" para efetuar a operação.
-
-Procedimento para verificar os serviços do contrato
----------------------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Serão apresentados todos os serviços que estão vinculados ao contrato. Caso
-    queira buscar um serviço específico, informar o nome dele no campo
-    **Pesquisa Serviços Contrato** e clicar em "Pesquisar".
-
-Procedimento para editar as informações do vínculo do serviço ao contrato
--------------------------------------------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-   Clicar na aba "Serviços do Contrato", pesquise o serviço desejado e em
-    seguida no ícone “Editar o serviço” do serviço que deseja editar;
-
-4-  Alterar os dados conforme a necessidade e clicar no botão "Gravar" para
-    efetuar a operação.
-
-Procedimento para vincular SLA específico ao serviço do contrato
-----------------------------------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
-    Nível de Serviço” do serviço desejado. Clicar no botão "Criar acordo
-    específico" para este serviço que será apresentado;
-
-4-  Preencher os campos necessários com as seguintes recomendações:
-
--   Se informar o tipo de acordo como **Disponibilidade**, além dos campos
-    gerais, será necessário informar o índice de disponibilidade, isto é,
-    definir o percentual de disponibilidade do serviço;
-
--   Se informar o tipo de acordo como **Falhas repetitivas**, além dos campos
-    gerais, será necessário informar a quantidade de glosas e o percentual de
-    desconto. Lembrar que é possível informar outros dados do acordo de serviço
-    por falhas repetitivas, ao clicar no ícone “+”;
-
--   Se informar o tipo de acordo como **OS -Resultados esperados**, além dos
-    campos gerais, será necessário informar os dados de resultados esperados e
-    os níveis de qualidade exigidos (resultados esperados, limites, glosa e
-    limite glosa);
-
--   Se informar o tipo de acordo como **Tempo (fases)**, além dos campos gerais,
-    será necessário definir os prazos de SLA (acordo de nível de serviço),
-    levando em consideração a prioridade.
-
-
-!!! Abstract "ATENÇÃO"
-
-    Após os "N" minutos configurados e caso não tenha realizado nenhuma ação
-    na solicitação do serviço, o sistema atribuirá Prioridade e escalará o Grupo
-    que foram configurados para execução da solicitação do serviço.
-
--   Se informar o tipo de acordo como **Informações diversas capturadas de
-    outras fontes**, será necessário informar os dados de acordo de serviço (o
-    valor limite, a unidade, a glosa e o limite glosa). Para copiar, editar ou
-    excluir o acordo de nível de serviço cadastrado, seguir os passos:
-
-1.  Para editar ou excluir um acordo de nível de serviço que foi adicionado ao
-    serviço de contrato, basta clicar no ícone “Editar o serviço” ao lado do
-    acordo;
-
-2.  Para copiar um acordo de nível de serviço que foi adicionado ao serviço de
-    contrato, basta clicar no ícone “Copiar Acordo para outro serviço” ao lado
-    do acordo;
-
-
-5-  Clicar no botão "Gravar" para efetuar a operação.
-
-Procedimento para vincular SLA Global ao serviço do contrato
+Procedimiento para vincular varios servicios al contrato
 ------------------------------------------------------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Há duas formas de vincular o SLA global ao Serviço do Contrato, sendo:
+3-  Hacer clic en la pestaña "Servicios del Contrato" y después en "Agregar
+    Servicios al Contrato";
 
-**Primeira forma**:
+4-  Completar los campos necesarios. Para vincular un flujo de servicio, hacer
+    clic en el icono "+" del flujo y seleccionar uno de ellos, después hacer clic
+    en "Guardar".
 
-1-   Clicar na aba "Serviços do Contrato" e em seguida "Gerenciar SLAs Globais";
+!!! Abstract "ATENCIÓN"
 
-2-  Selecionar o acordo de nível de serviço que deseja vincular ao Serviço do
-    Contrato. Ao selecionar este acordo, será exibida uma lista de Serviços do
-    Contrato;
+    Si es necesario hacer uso de más de un flujo, es importante informar cuál
+    es el principal.
 
-3-  Selecionar os serviços desejados e clicar no botão "Gravar" para vincular o
-    SLA com os serviços.
+5-  Después de completar los campos, hacer clic en "Guardar".
 
-**Segunda forma**:
+Procedimiento para verificar los servicios del contrato
+-----------------------------------------------------------
 
-1-   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
-    Nível de Serviço” do serviço desejado. Clicar no botão "Vincular Acordo" e
-    preencher os campos necessários;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar em "Gravar" para efetuar a operação;
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Após de efetuar o vínculo do acordo de nível de serviço ao serviço, clicar
-    no botão "Habilita" para que o SLA seja habilitado.
+3-  Se presentarán todos los servicios que están vinculados al contrato. Si
+    desea buscar un servicio específico, introduzca su nombre en el campo
+    de **Búsqueda Servicios del Contrato** y haga clic en "Búsqueda".
 
-Procedimento para registrar atividades do serviço do contrato
--------------------------------------------------------------
+Procedimiento para editar las informaciones del vínculo de servicio al contrato
+-----------------------------------------------------------------------------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ello. Después, hacer
+    clic en "Búsqueda";
 
-3-   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Atividades do
-    Serviço” do serviço desejado;
+3-  Hacer clic en "Servicios del Contrato", busque por un servicio y luego hacer
+    clic en el icono "Editar el servicio" del servico para editar;
 
-4-  Apertar o botão "Adicionar Nova Atividade";
+4-  Cambiar los datos conforme la necesidad y hacer clic en "Guardar".
 
-5-  Preencher os campos necessários com as seguintes recomendações:
+Procedimiento para vincular SLA específico al servicio del contrato
+-----------------------------------------------------------------------
 
-!!! Abstract "ATENÇÃO"
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-    Ao informar se deseja contabilizar as solicitações, lembrar que a
-    contabilização será feita das solicitações "fechadas", no período da OS
-    (Ordem de Serviço), do serviço do tipo requisição/incidente.**
+2-  Hacer clic en el campo contrato y seleccionar uno de ello. Después, hacer
+    clic en "Buscar";
 
--   Se informar o tipo de custo como **Custo Total**, além dos campos gerais,
-    será necessário indicar o custo total a complexidade da atividade;
+3-  Hacer clic en "Servicios del Contrato" y después en el icono "Acuerdos de Nivel de Servicio" del servicio.
+    Hacer clic en "Crear acuerdo específico" para el servicio que se va
+    presentar;
 
--   Se informar o tipo de como **Fórmula**, além dos campos gerais, será
-    necessário selecionar a fórmula desejada. Feita a escolha, preencher os
-    campos exibidos (horas, complexidade e quantidade).
+4-  Completar los campos necesarios con las siguientes recomendaciones:
 
-6-  Clicar no botão "Gravar" para efetuar a operação.
+    -   Si se informa el tipo de acuerdo como **Disponibilidad**, además de los
+        campos generales, será necesario informar el índice de disponibilidad,
+        es decir, definir el porcentaje de disponibilidad del servicio;
 
-Procedimento para verificar o desempenho do contrato
-----------------------------------------------------
+    -   Si se informa el tipo de acuerdo como** Fallas repetitivas**, además de
+        los campos generales, será necesario informar la cantidad de glosas y el
+        porcentaje de descuento. Recordar que es posible informar otros datos
+        del acuerdo de servicio por fallas repetitivas al hacer clic en el
+        icono "+";
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+    -   Si se informa el tipo de acuerdo como **OS - Resultados esperados**,
+        además de los campos generales, será necesario informar los datos de
+        resultados esperados y los niveles de calidad exigidos (resultados
+        esperados, límites, glosa y límite de la glosa);
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+    -   Si se informa el tipo de acuerdo como** Tiempo (fases)**, además de los
+        campos generales, será necesario definir los plazos de SLA (acuerdo de
+        nivel de servicio), teniendo en cuenta la prioridad.
 
-3-  Clicar na aba "Serviços do Contrato" e em seguida no botão "Desempenho do
+!!! Abstract "ATENCIÓN"
+
+    Después de "N" minutos configurados, y si no ha realizado ninguna acción
+    en la solicitud del servicio, el sistema asignará Prioridad y escalará el
+    Grupo que fueron configurados para ejecutar la solicitud del servicio.
+
+-   Si informa el tipo de acuerdo como** Información diversa capturada de otras
+    fuentes**, será necesario informar los datos de acuerdo de servicio (el
+    valor límite, la unidad, la glosa y el límite de la glosa). Para copiar,
+    editar o borrar el acuerdo de nivel de servicio registrado, siga los pasos:
+
+    +  Para editar o borrar un acuerdo de nivel de servicio que se ha agregado
+        al servicio de contrato, simplemente hacer clic en el icono "Editar el servicio" al lado del
+        acuerdo;
+
+    +  Para copiar un acuerdo de nivel de servicio que se agregó al servicio
+        del contrato, simplemente hacer clic en el icono "Copiar el Acuerdo a otro servicio" al lado del acordo;
+
+5-  Hacer clic en "Guardar".
+
+Procedimiento para vincular SLA Global al servicio del contrato
+-------------------------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hay dos formas de vincular el SLA global al Servicio del Contrato, siendo:
+
+### Primera forma:
+
+1-  Hacer clic en la pestaña "Servicios del Contrato" y después en "Gestionar
+    SLAs Globales";
+
+2-  Seleccionar el acuerdo de nivel de servicio para vincular al Servicio del
+    Contrato. Al seleccionar este acuerdo, se presentará una lista con los
+    Servicios del Contrato;
+
+3-  Seleccionar los servicios y hacer clic en "Guardar" para vincular el SLA con
+    los servicios.
+
+### Segunda forma:
+
+1-  Hacer clic en la pestaña "Servicios del Contrato" y después en el icono "Acuerdos de Nivel de Servicio" del
+    servicio. Hacer clic en "Vincular Acuerdo" y completar los campos
+    necesarios;
+
+2-  Hacer clic en "Guardar";
+
+3-  Después de hacer el vínculo del acuerdo de nivel de servicio al servicio,
+    hacer clic en "Activar" para que se active el SLA.
+
+Procedimiento para registrar actividades de servicio del contrato
+---------------------------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Servicios del Contrato" y después en el icono "Actividades del Servicio" de
+    uno de los servicios;
+
+4-  Hacer clic en "Agregar Nueva Actividad";
+
+5-  Completar los campos necesario con las siguientes recomendaciones:
+
+!!! Abstract "ATENCIÓN"
+
+    Al informar si desea contabilizar las solicitudes, recordar que la
+    contabilización se hará de las solicitudes "cerradas", en el período de la
+    OS (Orden de Servicio), del servicio del tipo solicitud/incidente.
+
+-   Si se informa el tipo de costo como **Costo Total**, además de los campos
+    generales, será necesario indicar el costo total a la complejidad de la
+    actividad;
+
+-   Si se informa el tipo de como **Fórmula**, además de los campos generales,
+    será necesario seleccionar una fórmula. Después de elegir, completar los
+    campos exhibidos (horas, complejidad y cantidad).
+
+6-  Hacer clic en "Guardar".
+
+Procedimiento para verificar el desempeño del contrato
+----------------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Servicio del Contrato" y después en "Desempeño del
     Contrato";
 
-Procedimento para excluir vínculo dos serviços com o contrato
--------------------------------------------------------------
+Procedimiento para borrar el vínculo de los servicios con el contrato
+-------------------------------------------------------------------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Clicar na aba "Serviços do Contrato"*,* selecione o serviço a ser excluído.
-    Depois, apertar no botão "Remover Serviço(s) do Contrato";
+3-  Hacer clic en la pestaña "Servicios del Contrato", seleccionar un servicio
+    para borrar. Después, apertar en "Remover Servicios del Contrato";
 
-4-  Apertar em "OK" para confirmar a exclusão;
+4-  Hacer clic en "OK" para confirmar;
 
-Procedimento para criar as ordens de serviço
---------------------------------------------
+Procedimiento para crear las órdenes de servicio
+----------------------------------------------------
 
-*Ordem de Serviço é um documento que irá fornecer a permissão de execução
-relativa a algum serviço.*
+*Orden de Servicio es un documento que proporcionará el permiso de ejecución
+relativo a algún servicio.*
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Clicar na aba "Ordens de Serviço" e em seguida no botão "Criar ordem de
-    Serviço";
+3-  Hacer clic en la pestaña "Órdenes de Servicio" y después en "Crear Orden de
+    Servicio";
 
-4-  Preencher os campos necessários.
+4-  Completar los campos necesarios.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Lembrar que caso o parâmetro 243 esteja habilitado, será acrescentado o
-    campo Grupo de assinaturas.
+    Recordar que si el parámetro 243 está habilitado, se añadirá el campo
+    Grupo de suscripciones.
 
-    Após o preenchimento dos campos, será realizado o arrendondamento do custo
-    total, após a soma dos custos totais de cada atividade do serviço.
+    Después del completar los campos, se realizará el redondeo del costo
+    total, después de la suma de los costos totales de cada actividad del
+    servicio.
 
-5-  Clicar no botão "Gravar Dados" para efetuar a operação.
+5-  Hacer clic en "Guardar Datos".
 
-Procedimento para verificar as informações de ordem de serviço
---------------------------------------------------------------
+Procedimiento para verificar las informaciones de la orden de servicio
+--------------------------------------------------------------------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Clicar na aba "Ordens de Serviço" e utilizar os botões contidos na barra
-    (todas, em criação, solicitada, autorizada, aprovadas, em execução,
-    executada e canceladas) para verificar as ordens de serviço por situação.
-    Também poderá buscar as ordens de serviço por período;
+3-  Hacer clic en la pestaña "Órdenes de Servicio" y utilizar los botones en la
+    barra (todas, en creación, solicitada, autorizada, aprobada, ejecutada,
+    ejecutada y cancelada) para verificar las órdenes de servicio por situación.
+    También puede buscar las órdenes de servicio por período;
 
-4-  Ao lado de cada registro de Ordem de Serviço, serão exibidos ícones que
-    possibilitarão a edição da OS, impressão da OS e RA (relatório de
-    atividade), geração de RA e execução da OS.
+4-  Al lado de cada registro de orden de servicio, se mostrarán iconos que
+    permitirán la edición de OS, impresión de OS y RA (informe de actividad),
+    generación de RA y ejecución de OS.
 
-Procedimento para editar a ordem de serviço
+Procedimiento para editar el orden de servicio
+--------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Órdenes de Servicio" y buscar por el orden de
+    servicio;
+
+4-  Hacer clic en el icono "Editar a OS" del OS para editar;
+
+5-  Cambiar los datos según sea necesario y hacer clic en "Guardar".
+
+Procedimiento para imprimir el orden de servicio
+----------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Órdenes de Servicio" y buscar por el orden de
+    servicio;
+
+4-  Hacer clic en el icono "Imprimir a OS" para generar el informe del OS en PDF para la
+    impresión;
+
+5-  Hacer clic en el icono "Imprimir a OS" para generar el informe del OS en Excel para la
+    impresión.
+
+!!! Abstract "ATENCIÓN"
+
+    El Informe de Actividad sólo puede generarse a partir de las órdenes de
+    servicio con una situación "Aprobado"
+
+Procedimiento para generar el informe de actividad (RA)
+-----------------------------------------------------------
+
+*El R.A (Informe de Actividades) sirve para comprobar que el servicio fue
+entregado.*
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Órdenes de Servicio" y después en la pestaña
+    Aprobadas;
+
+4-  Hacer clic en el icono "Gerar RA" del OS aprobado y completar los campos necesarios;
+
+5-  Hacer clic en "Guardar".
+
+Procedimiento para ejecutar el orden de servicio
+----------------------------------------------------
+
+*Sólo se pueden ejecutar las Órdenes de Servicio que se generan en el informe de
+actividades.*
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Órdenes de Servicio". Después de generar el
+    informe de las OS, hacer clic en "En ejecución";
+
+4-  Hacer clic en el icono "Expandir OS" del OS para expandir el area y presentar los
+    informes de actividad del OS.
+
+5-  Hacer clic en el icono "Ejecutar OS" de uno OS y cambiar su situación para Ejecutada y
+    hacer clic en "Guardar datos".
+
+6-  Después de ejecutar el OS, se generará una factura.
+
+Procedimiento para crear factura
+------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Facturas" y después en "Crear Factura";
+
+4-  Completar los campos necesarios. Es posible vincular el OS a la factura al
+    hacer clic en "Agregar OS", seleccionar el OS ya ejecutado y, después, hacer
+    clic en "Asociado" para hacer la adición;
+
+5-  Hacer clic en "Guardar".
+
+Procedimiento para verificar las facturas
+---------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Facturas" y utilizar los botones en la barra
+    (todas, en creación, solicitada, autorizada, aguardando aprobación y
+    aprobadas) para verificar las facturas por situación. También puede buscar
+    las facturas por período;
+
+4-  Al lado de cada registro de Orden de Servicio, se mostrarán iconos que van
+    posibilitar la edición de la factura (en creación), impresión de la factura
+    tanto en formato PDF como en formato Excel y apunte de la situación para
+    factura;
+
+Procedimiento para editar las facturas
+------------------------------------------
+
+*Sólo las facturas que están "en creación" pueden ser editadas.*
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Facturas" y después en el icono "Editar factura" de la fatura para
+    editar. Cambiar los datos según la necesidad y hacer clic en "Guardar".
+
+Procedimiento para imprimir la factura
+------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Factura" y buscar por una factura;
+
+4-  Hacer clic en el icono "Imprimir factura" para generar el informe de la factura en PDF para
+    impresión;
+
+5-  Hacer clic en el icono "Imprimir factura" para generar el informe de la factura en Excel para
+    impresión.
+
+Procedimiento para apuntar la situación de la factura
+---------------------------------------------------------
+
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
+
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
+
+3-  Hacer clic en la pestaña "Factura" y buscar por una factura;
+
+4-  Hacer clic en el icono "Apuntar la situación de la factura" de la factura para apuntar una situación.
+
+5-  Cambiar la situación y hacer clic en "Actualizar Situación de la Factura".
+
+Procedimiento para agregar notificación
 -------------------------------------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Administración de Contratos;
 
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
+2-  Hacer clic en el campo contrato y seleccionar uno de ellos. Después, hacer
+    clic en "Buscar";
 
-3-  Clicar na aba "Ordens de Serviço" e pesquisar a ordem de serviço desejada;
+3-  Hacer clic en la pestaña "Notificaciones" y después en "Agregar
+    Notificación";
 
-4-  Apertar no ícone “Editar a OS” da OS que deseja editar;
+4-  Completar los campos necesarios. Recordar que es posible agregar un usuario
+    o grupo al hacer clic en el icono  y buscar y vincular uno elemento;
 
-5-  Alterar os dados conforme a necessidade e clicar no botão "Gravar" para
-    efetuar a operação.
+5-  Hacer clic en "Guardar".
 
-Procedimento para imprimir a ordem de serviço
----------------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Ordens de Serviço" e pesquisar a ordem de serviço desejada;
-
-4-  Apertar no ícone “Imprimir a OS” para gerar o relatório da OS em formato PDF
-    para impressão;
-
-5-  Apertar no ícone “Imprimir a OS” para gerar o relatório da OS em formato
-    Excel para impressão.
-
-!!! Abstract "ATENÇÃO"
-
-    O Relatório de Atividade (R.A) só pode ser gerado a partir das ordens de
-    serviço com uma situação "Aprovado".
-
-Procedimento para gerar o relatório de atividade (R.A)
-------------------------------------------------------
-
-*O R.A (Relatório de Atividades) serve para comprovar que o serviço foi
-entregue.*
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Ordens de Serviço" e em seguida na guia Aprovadas;
-
-4-  Apertar no ícone “Gerar R.A” da OS aprovada e preencher os campos
-    necessários;
-
-5-  Pressionar o botão "Gravar" para efetuar a operação.
-
-Procedimento para executar a ordem de serviço
----------------------------------------------
-
-*Somente as Ordens de Serviço que foram geradas R.A (Relatório de atividades)
-podem ser executadas.*
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Ordens de Serviço". Após gerar o R.A da OS, pressione a guia
-    "Em execução";
-
-4-  Apertar o ícone “Expandir OS” da OS para expandir a área e exibir os
-    relatórios de atividade da OS.
-
-5-  Pressionar o ícone “Executar OS” da OS desejada e mudar a situação da mesma
-    para Executada e clicar no botão "Gravar dados" para efetuar a operação.
-
-6-  Após executar a OS, poderá gerar uma fatura para a mesma.
-
-Procedimento para criar fatura
-------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Faturas" e em seguida no botão "Criar Fatura";
-
-4-  Preencher os campos necessários. É possível vincular a OS à fatura ao clicar
-    no botão "Adicionar OS", selecionar a OS já executada e, depois, clicar em
-    "Associar" para efetuar a adição;
-
-5-  Clicar em "Gravar" para efetuar a operação.
-
-Procedimento para verificar as faturas
---------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Faturas" e utilizar os botões contidos na barra (todas, em
-    criação, solicitada, autorizada, aguardando aprovação e aprovadas) para
-    verificar as faturas por situação. Também poderá buscar as faturas por
-    período;
-
-4-  Ao lado de cada registro de Ordem de Serviço, serão exibidos ícones que
-    possibilitarão a edição da fatura (em criação), impressão da fatura tanto no
-    formato PDF como no formato Excel e apontamento da situação para fatura;
-
-Procedimento para editar as faturas
------------------------------------
-
-*Somente as faturas que estão "na criação" podem ser editadas.*
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Faturas" e em seguida no ícone “Editar a Fatura” da fatura
-    que deseja editar. Alterar os dados conforme a necessidade e apertar o botão
-    "Gravar" para efetuar a operação.
-
-Procedimento para imprimir a fatura
------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Fatura" e pesquisar a fatura desejada;
-
-4-  Apertar no ícone “Imprimir a Fatura” para gerar o relatório da fatura em
-    formato PDF para impressão;
-
-5-  Apertar no ícone “Imprimir a Fatura” para gerar o relatório da fatura em
-    formato Excel para impressão.
-
-Procedimento para apontar a situação da fatura
-----------------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Fatura" e pesquisar a fatura desejada;
-
-4-  Apertar no ícone “Apontar situação para a Fatura” da fatura que deseja
-    apontar uma situação. 
-
-5-  Alterar a situação e clicar em "Atualizar Situação da Fatura" para efetuar a
-    operação.
-
-Procedimento para adicionar notificação
----------------------------------------
-
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Administração de Contratos;
-
-2-  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
-    clicar no botão "Pesquisar";
-
-3-  Clicar na aba "Notificações" e em seguida no botão "Adicionar Notificação";
-
-4-  Preencher os campos necessários. Lembrar que é possível adicionar um usuário
-    ou grupo ao apertar no ícone disponível e pesquisar e vincular o item
-    desejado;
-
-5-  Pressionar o botão "Gravar" para efetuar a operação.
 
 Relacionado
 ----------------------------------------------
-[Acordo de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Definir modelos de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Definir modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
 

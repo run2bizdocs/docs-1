@@ -1,38 +1,38 @@
-title: Capturar um ticket
-Description: Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado. 
-#Capturar um ticket
-Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
+title:  Capturar ticket 
+Description: Capturar el ticket significa asumir la responsabilidad de producir una solución satisfactoria para el llamado.
+#Capturar ticket
+Capturar el ticket significa asumir la responsabilidad de producir una solución satisfactoria para el llamado.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Ter permissão para executar o ticket.
+Tener permiso para ejecutar el ticket.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone
-    “Abrir” ;
+2.  Buscar el ticket que quieras, clic en el ticket y seleccione el
+    icono “Abrir”;
 
-3.  Confirmar a captura do ticket.
+3.  Confirmar la captura del ticket.
 
-O que fazer a seguir
+Qué hacer a continuación
 ------------------------
 
-Executar o ticket.
+Ejecutar el ticket.
 
 Relacionado
 -----------
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço
 

@@ -1,32 +1,41 @@
-title: Verificar as atividades periódicas agendadas
-Description: Esta tela, em formato de calendário, permite visualizar as atividades programadas. 
-#Verificar as atividades periódicas agendadas
-Esta funcionalidade tem por objetivo verificar as atividades agendadas referentes ao gerenciamento de requisição e incidente, gerenciamento de problema, gerenciamento de mudança e gerenciamento de liberação para execução das mesmas.
-Esta tela, em formato de calendário, permite visualizar as atividades programadas.
+title: Verificar acitividades periódicas programadas
+Description: Verificar las actividades programadas referentes a la gestión de solicitudes e incidentes, gestión de problemas, gestión de cambios y gestión de liberación para la ejecución.
+#Verificar acitividades periódicas programadas
 
-Procedimento
-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Automação de Operações \> Agenda de Atividades Periódicas;
+Esta funcionalidad tiene por objetivo verificar las actividades programadas
+referentes a la gestión de solicitudes e incidentes, gestión de problemas,
+gestión de cambios y gestión de liberación para la ejecución.
 
-2.  Configurar os filtros para encontrar a atividade periódica desejada;
+Esta pantalla, en formato de calendario, permite visualizar las actividades
+programadas.
 
-3.  Clicar sobre a atividade escolhida e será, então, apresentada a tela para
-    registrar a execução da mesma;
+Procedimiento
+-----------------
 
-4.  Preencher os campos necessários, inclusive informar a situação da execução
-    da atividade (se a mesma foi executada, está em execução ou foi suspensa);
+1.  Acceder al menú principal Gestión Integrada \> La Automación de las
+    Operaciones \> Agenda Actividades Periódicas;
 
-5.  Clicar no botão "Gravar" para efetuar a operação;
+2.  Configurar los filtros para encontrar una actividad periódica;
 
-6.  Lembrar que se a atividade estiver em execução, será exibida com a cor azul.
-    Porém, se a atividade já foi executada, será exibida com a cor verde e se a
-    atividade estiver suspensa, será exibida com a cor cinza.
+3.  Hacer clic en la actividad elegida y será entonces presentada la pantalla
+    para registrar su ejecución;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+4.  Completar los campos necesarios, incluso informar la situación de la
+    ejecución de la actividad (si la misma fue ejecutada, está en ejecución o
+    fue suspendida);
+
+5.  Hacer clic en "Guardar";
+
+6.  Recordar que si la actividad se está ejecutando, se mostrará con el color
+    azul. Sin embargo, si la actividad ya se ha ejecutado, se mostrará con el
+    color verde y si la actividad está suspendida, se mostrará con el color
+    gris.
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins

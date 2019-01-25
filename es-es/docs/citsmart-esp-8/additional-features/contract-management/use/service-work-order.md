@@ -1,39 +1,42 @@
-title: Cadastrar os serviços de ordens de serviço (OS)
-Description: Tem o objetivo de cadastrar os serviços de ordens de serviço (OS).
-#Cadastrar os serviços de ordens de serviço (OS)
-Esta funcionalidade tem o objetivo de cadastrar os serviços de ordens de serviço (OS).
+title: Registrar los servicios de las órdenes de servicios (OS)
+Description: Registrar los servicios de órdenes de servicio (OS).
+#Registrar los servicios de las órdenes de servicios (OS)
 
-Antes de começar
-----------------
+Esta funcionalidad tiene el objetivo de registrar los servicios de órdenes de
+servicio (OS).
 
-É necessário o cadastro prévio do tipo de serviço e da categoria de serviço.
+Antes de empezar
+--------------------
 
-Procedimento
-------------
+Es necesario tener registrado el tipo de servicio y categoría de servicio.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Cadastro de Serviços OS;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Novo";
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Registro de Servicios OS;
 
-3.  Preencher os campos necessários (nome do serviço, sigla/abreviação,
-    situação, data de implantação, categoria do serviço, detalhamento do
-    serviço, objetivo do serviço, tipo de evento, importância do serviço ao
-    negócio e local de execução dos serviços);
+2.  Hacer clic en "Nuevo";
 
-4.  Clicar no botão "Gravar" para efetuar a operação.
+3.  Completar los campos necesarios (nombre del servicio, sigla/abreviatura,
+    situación, fecha de implantación, categoría del servicio, detalle del
+    servicio, objetivo del servicio, tipo de evento, importancia del servicio al
+    negocio y lugar de ejecución de los servicios);
+
+4.  Hacer clic en "Guardar".
+
 
 Relacionado
 -----------
 
-[Criar categoria de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+[Crear categoría de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-[Cadastrar tipo de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
+[Registrar tipo de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins

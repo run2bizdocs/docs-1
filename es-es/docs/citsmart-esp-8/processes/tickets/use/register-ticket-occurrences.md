@@ -1,76 +1,78 @@
-title: Cadastrar ocorrências referentes ao ticket
-Description: Permite registrar eventuais ocorrências referente a execução do ticket. 
-#Cadastrar ocorrências referentes ao ticket
-A funcionalidade permite registrar eventuais ocorrências referente a execução do ticket.
+title:  Cadastrar ocurrencias del ticket 
+Description: Permite registrar eventuales hechos refente a la ejecución del ticket.
+#Cadastrar ocurrencias del ticket
+La funcionalidad permite registrar eventuales hechos refente a la ejecución del ticket.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para registrar ocorrências referente ao ticket é necessário o cadastro prévio
-deste e possuir permissão para executar o mesmo. É necessário anteriormente,
-habilitar o parâmetro 298 (setar para o "S").
+Para registrar hechos referentes al ticket, es necesario su registro previo y
+poseer permiso para ejecutarlo. Es necesario primero habilitar el parámetro 298
+(configurado en "S").
 
-É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
-ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
+Es necesario también establecer en el parámetro 253, el ID de correo electrónico
+elegido para registrar la instancia y el identificador de la plantilla de correo
+electrónico de notificación en el parámetro 251.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1-  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1-  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2-  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
-    ícone “Abrir”;
+2-  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3-  Na área intitulada "Execução", clicar no botão "Adicionar nota" e relatar a
-    ocorrência referente ao ticket e a data que a mesma sucedeu. É possível,
-    também registrar o tempo gasto para a solução da ocorrência. É
-    disponibilizado a visualização deste relato pelo solicitante e o envio do
-    mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e
-    "Enviar ao e-mail".
+3-  En el área titulada "Ejecución", hacer clic en "Añadir nota" e informe la
+    ocurrencia referente al ticket y la fecha que se la sucedió. Es posible
+    también registrar el tiempo gastado para la solución de la ocurrencia. Se
+    pone a disposición la visualización de este relato por el solicitante y el
+    envío del mismo al correo electrónico al seleccionar las opciones "Vísible
+    al solicitante" y "Enviar al correo electrónico".
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"
 
-    Existe outro caminho para cadastrar alguma ocorrência referente ao ticket.
-    Basta clicar no ícone “Adicionar nota”, localizado no canto direito superior
-    da tela e preencher os campos conforme as orientações acima.
+    Hay otro camino para registrar alguna ocurrencia referente al ticket. Sólo
+    tienes que hacer clic en el icono “Añadir nota”, situado en la esquina
+    superior derecha de la pantalla y completar los campos según las
+     instrucciones arriba.
 
-    Os registros das ocorrências e sua eventual solução estarão disponíveis
-    para análise do solicitante (somente se o executor marcar a opção "Visível
-    ao solicitante") na aba de histórico de ocorrências, dentro da
-    funcionalidade "Minhas Solicitações" do Smart Portal.
+    Los registros de las ocurrencias y su eventual solución estarán disponibles
+    para el análisis del solicitante (sólo si el ejecutor marca la opción
+    "Visible al solicitante") en la pestaña de historial de instancias, dentro
+    de la funcionalidad "Mis Solicitudes" del Smart Portal.
 
-4-  O histórico de ocorrência está disponível ao clicar no ícone “Histórico”.
-    Será apresentado todas as ocorrências da solicitação na aba "Ticket" e toda
-    as comunicações entre solicitante e executor feita pelo modo "Chat" na aba
-    de mesmo nome.
+4-  El historial de instancia está disponible haciendo clic en el
+    icono “Historial”. Se mostrarán todas las ocurrencias de la solicitud en la
+    pestaña "Ticket" y todas las comunicaciones entre solicitante y ejecutor
+    hecha por el modo "Chat" en la pestaña del mismo nombre.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Para apresentar as comunicações feita pelo "Chat" no histórico de
-    ocorrência, o mesmo deve estar habilitado.
+    Para presentar las comunicaciones hechas por el "Chat" en el historial de
+    ocurrencia, el mismo debe estar habilitado.
 
-5-  É possível o envio de mensagem do executor do ticket para o solicitante do
-    mesmo, basta clicar no ícone “Mensagem ao solicitante”, descrever o
-    comunicado e marcar se deseja que este conteúdo seja enviado para o e-mail
-    do solicitante. Esta mensagem ficará disponível na área das solicitações do
-    requerente no Smart portal.
+5-  Es posible el envío de mensaje del ejecutor del ticket al solicitante, basta
+    hacer clic en el icono “Mensaje al solicitante”, describir el comunicado y
+    marcar si desea que este contenido sea enviado al correo electrónico del
+    solicitante. Este mensaje estará disponible en el área de las solicitudes
+    del solicitante, en el Smart portal.
+
 
 Relacionado
 -----------
 
-[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

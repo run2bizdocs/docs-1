@@ -1,43 +1,50 @@
-title: Cadastrar a fórmula de ordem de serviços (OS)
-Description: Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato. 
-#Cadastrar a fórmula de ordem de serviços (OS)
-Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato.
+title: Registrar fórmula de la orden de servicio
+Description: Registrar las fórmulas personalizadas para configurar "cómo" será el cálculo del valor del costo total de la actividad del servicio del contrato.
+#Registrar fórmula de la orden de servicio
 
-Procedimento
-------------
+Esta funcionalidad tiene el objetivo de registrar las fórmulas personalizadas
+para configurar "cómo" será el cálculo del valor del costo total de la actividad
+del servicio del contrato.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Contratos \> Fórmula OS;
+Procedimiento
+-----------------
 
-2-  Na guia "**Cadastro de Fórmula**" é necessário preencher os campos
-    necessários. Ao informar as opções da fórmula é preciso lembrar a finalidade
-    de cada variável disponível para descrever a fórmula:
+1-  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Fórmula OS;
 
-|  **Variavéis**  |    **Descrição**   |                                                                  **Propósito**                                                                  |
-|:---------------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-|      vValor     |        Valor       |                            Permite que o usuário informe um valor que será utilizado no cálculo do valor da atividade                           |
-|    vDiasUteis   |     Dias úteis     |    Permite o retorno da quantidade de dias úteis entre a data inicial e a data final da ordem de serviço com base no calendário do contrato.    |
-|  vDiasCorridos  |    Dias corridos   |                                    Quantidade de dias entre a data inicial a data final da ordem de serviço.                                    |
-| vNumeroUsuarios | Número de usuários |                                             Permite retornar o número de usuários ativos no Sistema.                                            |
-|  vComplexidade  |    Complexidade    | Com base na complexidade escolhida pelo usuário, o Sistema irá retornar o seu valor correspondente informado na tela de cadastro do contrato  . |
+2-  En la pestaña "**Registro de Fórmula**", es necesario completar los campos
+    necesarios. Al informar las opciones de la fórmula, es necesario recordar el
+    propósito de cada variable disponible para describir la fórmula:
 
-3-  Após descrever a fórmula, clicar no botão "Visualizar Fórmula". Este botão
-    representa a validação da fórmula e onde é apresentado o processo do
-    cálculo, transformando o texto da fórmula numa expressão matemática e
-    retornando o seu resultado calculado, depois de clicar em "Simular". Lembrar
-    que é possível utilizar as chaves "{}" para delimitar um texto que deseje
-    incluir na fórmula, onde o mesmo não influenciará o cálculo do valor da
-    atividade;
 
-4-  Clicar no botão "Gravar" para efetuar a operação. Porém antes de gravar a
-    fórmula, o sistema deve validar a sintaxe e só permitir a gravação se
-    estivar correta.
+|     Variable    |     Descripción    |                                                                          Objetivo                                                                         |
+|:---------------:|:------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      vValor     |        Valor       |                              Permite que el usuario informe un valor que se utilizará en el cálculo del valor de la actividad                             |
+|    vDiasUteis   |    Días hábiles    | Permite el retorno de la cantidad de días hábiles entre la fecha inicial y la fecha final de la orden de servicio en función del calendario del contrato. |
+|  vDíasCorridos  |    Días corridos   |                                              Cantidad de días entre la fecha inicial de la orden de servicio.                                             |
+| vNumeroUsuarios | Número de usuarios |                                               Permite devolver el número de usuarios activos en el Sistema.                                               |
+|   vComplejidad  |     Complejidad    |    Con base en la complejidad elegida por el usuario, el Sistema retornará su valor correspondiente informado en la pantalla de registro del contrato.    |
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+
+
+3-  Después de describir la fórmula, hacer clic en "Mostrar Fórmula". Este botón
+    representa la validación de la fórmula y donde se presenta el proceso del
+    cálculo, transformando el texto de la fórmula en una expresión matemática y
+    devolviendo su resultado calculado, después de hacer clic en "Simular".
+    Recordar que es posible utilizar las llaves "{}" para delimitar un texto que
+    desee incluir en la fórmula, donde el mismo no influenciará el cálculo del
+    valor de la actividad;
+
+4-  Haga clic en "Guardar" para hacer la operación. Pero antes de guardar la
+    fórmula, el sistema debe validar la sintaxis y sólo permitir la grabación si
+    es correcta.
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Anna Martins
 
 

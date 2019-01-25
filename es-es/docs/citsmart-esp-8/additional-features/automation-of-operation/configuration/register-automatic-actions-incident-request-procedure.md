@@ -1,61 +1,63 @@
-title: Cadastrar ação automática de incidentes/requisições/procedimentos
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas do tipo incidente/requisição/procedimento.
-#Cadastrar ação automática de incidentes/requisições/procedimentos
+title: Registrar acciones automaticas de incidentes/solicitudes/procedimientos
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar registro de acciones automáticas del tipo incidente/solicitud/procedimiento.
+#Registrar acciones automaticas de incidentes/solicitudes/procedimientos
 
-Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
-tratada pelo processo de gerenciamento de incidentes, ou seja, esta
-funcionalidade tem como objetivo realizar o cadastro de ações automáticas do
-tipo incidente/requisição/procedimento. Este cadastro será associado às ações
-automáticas, onde será usado nos cadastros de gerentes de eventos do CITSmart
-Nagios, Zabbix, Inventory e Eventos Correlacionados.
 
-O gerenciamento de eventos apoia o processo de gerenciamento de incidentes, pois
-a partir dele é possível detectar com antecedência falhas nos serviços e atuar
-rapidamente para evitar uma indisponibilidade do serviço para o usuário final.
+Algunos eventos presentarán una situación donde la acción apropiada necesitará
+ser tratada por el proceso de gestión de incidentes, es decir, esta
+funcionalidad tiene como objetivo realizar el registro de acciones automáticas
+del tipo incidente/solicitud/procedimiento. Este registro será asociado a las
+acciones automáticas, donde será usado en los registros de gerentes de eventos
+del CITSmart Nagios, Zabbix, Inventory y Eventos Correlacionados.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir ações automáticas do tipo incidente/requisição/procedimento.
+La gestión de eventos apoya el proceso de gestión de incidentes, ya que a partir
+de él es posible detectar con antelación fallas en los servicios y actuar
+rápidamente para evitar una indisponibilidad del servicio para el usuario final.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar registro de acciones automáticas del tipo
+incidente/solicitud/procedimiento.
+
+Antes de empezar
 --------------------
 
-Para realizar o cadastro de uma ação automática de
-requisição/incidente/procedimento é necessário registrar previamente a unidade,
-o grupo, o contrato, vincular grupo aos contratos, associando os solicitantes
-(colaboradores) já relacionado a este grupo, para que sejam listados os
-contratos e os solicitantes relacionados na tela de solicitação, definir o
-portfólio de serviços, o tempo de atendimento e o grupo de atividade periódica.
+Para registrar una acción automática de solicitud/incidente/procedimiento, es
+necesario registrar previamente la unidad, grupo, contrato, vincular grupo a los
+contratos, asociando a los solicitantes (colaboradores) ya relacionados a este
+grupo, para que se enumeren los contratos y los solicitantes relacionados en la
+pantalla de solicitud, definir la cartera de servicios, tiempo de servicio y el
+grupo de actividad periódica.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Ações Automáticas \> Ações de Incidentes/Requisições/Procedimentos;
+1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones de
+    Incidentes/Requerimientos/Procedimientos;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins

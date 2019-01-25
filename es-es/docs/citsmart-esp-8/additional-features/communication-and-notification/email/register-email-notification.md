@@ -1,34 +1,36 @@
-title: Cadastrar notificação via e-mail
-Description: Tem por objetivo enviar mensagens via e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no sistema.
-#Cadastrar notificação via e-mail
+title: Registrar notificación por correo electrónico
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar notificación por correo electrónico.
+#Registrar notificación por correo electrónico
 
-A funcionalidade de Notificação via E-mail tem por objetivo enviar mensagens via
-e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no
-sistema.
 
-Se a notificação via e-mail não for atribuída a nenhum grupo e/ou usuário, todos
-os usuários do sistema serão notificados.
+La funcionalidad de Notificación por Correo Electrónico tiene por objetivo
+enviar mensajes vía e-mail, con el propósito de notificar a los usuarios sobre
+eventos que ocurrirá en el sistema.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir notificações via e-mail.
+Si la notificación por correo electrónico no se asigna a ningún grupo y/o
+usuario, se notificará a todos los usuarios del sistema.
 
-Procedimento
----------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
+borrar notificación por correo electrónico.
 
-1.  Acessar a funcionalidade pelo menu principal Sistema \> Notificações \>
-    Notificação via e-mail;
+Procedimiento
+-----------------
 
-2.  Clicar em "Novo";
+1.  Acceder al menú principal Sistema \> Notificaciones \> Notificación por
+    Correo Electrónico;
 
-3.  Preencher os campos disponibilizados;
+2.  Hacer clic en "Nuevo";
 
-4.  Para vincular um grupo clicar em "Vincular grupo" e para vincular um usuário
-    clicar em "Vincular usuário";
+3.  Completar los campos disponibles;
 
-5.  Clicar em "Gravar".
+4.  Para vincular grupo, hacer clic en "Vincular Grupo" y para vincular usuario,
+    hacer clic en "Vincular Usuario";
+
+5.  Hacer clic en "Guardar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins

@@ -1,37 +1,37 @@
-title: Reabrir um ticket
-Description: Permite reabrir o ticket finalizado.
-#Reabrir um ticket
-A funcionalidade permite reabrir o ticket finalizado.
+title:  Reabrir ticket 
+Description: Permite reabrir el ticket finalizado.
+#Reabrir ticket
+La funcionalidad permite reabrir el ticket finalizado.
 
-Antes de começar 
------------------
+Antes de empezar
+----------------
 
-É necessário o cadastro prévio dos tickets.
+Es necesario el registro anteriormente de los tickets.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Clicar no botão de menu localizado no canto superior esquerdo da tela e
-    depois clicar no item de "Pesquisa Avançada"*;*
+2.  Haga clic en el botón de menú situado en la esquina superior izquierda de la
+    pantalla y después haga clic en el elemento "Búsqueda Avanzada"*;*
 
-3.  Localizar o ticket desejado e logo clicar no botão "Ação" e em seguida
-    "Reabrir ticket';
+3.  Buscar el ticket que quieres y después haga clic en el botón "Acción" y
+    después "Reabrir ticket';
 
-4.  Confirmar a reabertura do ticket.
+4.  Confirmar la reabertura del ticket.
 
 Relacionado
 -----------
 
-[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço

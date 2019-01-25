@@ -1,44 +1,44 @@
-title: Atender com suporte remoto
-Description: O produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
-#Atender com suporte remoto
-O atendimento de um ticket muitas vezes pode ser com usuários que não consegue resolver somente com orientações do atendente, por isso o produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
-Com o atendimento remoto é possível ver o histórico de atendimentos deste tipo, contribuindo assim com informações para um possível processo de auditoria.
+title:  Atención con soporte remoto 
+Description: La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
+#Atención con soporte remoto
+La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
+Con la atención remota es posible ver el historial de atenciones de este tipo, contribuyendo así con informaciones para un posible proceso de auditoría.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O atendente deverá ter acesso ao Item de Configuração do solicitante e realizar
-a configuração de acesso remoto.
+El asistente debe tener acceso al Elemento de Configuración del solicitante y
+hacer la configuración de acceso remoto.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Selecionar o ticket, clicar sobre o mesmo e em seguida no botão “Abrir” para
-    capturar;
+2.  Seleccionar el ticket, haga clic y después en el botón “Abrir” para
+    capturarlo;
 
-3.  Clicar na guia IC Relacionado;
+3.  Hacer clic en la guía EC Relacionado;
 
-4.  Pesquisar pelo item de configuração e clicar no botão "Selecionar";
+4.  Buscar por el elemento de configuración y hacer clic en "Seleccionar";
 
-5.  Clicar no botão “Info”;
+5.  Hacer clic en el botón de informaciones llamado “Info”;
 
-6.  Clicar no ícone “Acesso Remoto”;
+6.  Hacer clic en el icono “Acceso Remoto”;
 
-7.  Iniciar o atendimento remoto.
+7.  Empezar la atención remota.
 
 Relacionado
 -----------
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-[Configurar acesso remoto](/pt-br/citsmart-esp-8/processes/configuration/configuration/configure-remote-access.html)
+[Configurar acceso remoto](/es-es/citsmart-esp-8/processes/configuration/configuration/configure-remote-access.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço

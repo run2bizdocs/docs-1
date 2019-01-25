@@ -1,48 +1,49 @@
-title:  Acordo de Nível de Serviço 
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
-#Acordo de Nível de Serviço
-Essa funcionalidade permite registrar o acordo de nível de serviço do tipo disponibilidade, tempo (por fases) e informações diversas capturadas de outras fontes.
-Após os N minutos (informado no tempo de ação) e caso não tenha realizado nenhuma ação na solicitação do serviço vinculado a este SLA, o sistema atribuirá a prioridade e escalará o grupo para execução da solicitação do serviço.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
+title: Acuerdo de Nivel de Servicio
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un acuerdo de nivel de servicio. 
+#Acuerdo de Nivel de Servicio
+Esta funcionalidad permite registrar el acuerdo de nivel de servicio del tipo disponibilidad, tiempo (por fases) e información diversa capturada de otras fuentes. 
+Después de los N minutos (informado en el tiempo de acción), y si no ha realizado ninguna acción en la solicitud del servicio vinculado a este SLA, el sistema asignará la prioridad y escalará el grupo para ejecutar la solicitud del servicio.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un acuerdo de nivel de servicio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O cadastro da funcionalidade requer a definição prévia da prioridade, do grupo,
-da unidade, do usuário, além de ter definido os modelos de e-mail e requisitos
-de acordo de nível de serviço.
+El registro de la funcionalidad requiere la definición previa de la prioridad,
+grupo, unidad, usuario, además de haber definido las plantillas de correo
+electrónico y requisitos de acuerdo de nivel de servicio.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos
-    \> Gerência de Nível de Serviço \> Acordo de Nível de Serviço;
+1.  Acceder al menú principal Procesos \> Gestión de Nivel de Servicio \>
+    Acuerdo de Nivel de Servicio;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Se o tipo de acordo informado for Tempo (por fase), defina os prazos de SLA
-    (acordo de nível de serviço), levando em consideração a prioridade. A
-    prioridade vai de 1 a 5, sendo que o 1 é a prioridade mais alta e 5 é a mais
-    baixa;
+3.  Si el tipo de acuerdo informado es Tiempo (por fase), defina los plazos de
+    SLA (acuerdo de nivel de servicio), teniendo en cuenta la prioridad. La
+    prioridad va de 1 a 5, siendo 1 la prioridad más alta y 5 la más baja;
 
-4.  Clicar em "Gravar".
+4.  Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Requisito de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
+[Requerimiento de nivel de servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-[Cadastrar prioridade](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+[Registrar prioridad](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
+[Crear modelo de plantilla de incidente, solicitud y procedimiento](/es-es/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMjX0O3lujZJk298ZUVu21l)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço

@@ -1,51 +1,51 @@
-title: Auditar um ticket
-Description: A funcionalidade permite a auditoria dos tickets criados. 
-#Auditar um ticket
-A funcionalidade permite a auditoria dos tickets criados.
+title:  Auditar ticket 
+Description: Permite la auditoria de los tickets creados.
+#Auditar ticket
+La funcionalidad permite la auditoria de los tickets creados.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio dos tickets.
+Es necesario registrar anteriormente los tickets.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Clicar no primeiro botão localizado no canto superior esquerdo e logo após
-    clicar no item de "Auditoria";
+2.  Haga clic en el primer botón situado en la esquina superior izquierda y
+    luego haga clic en el elemento de "Auditoría"; Llenar los filtros para
+    auditar los tickets que quiera;
 
-3.  Preencher os filtros para auditar os tickets desejados;
+3.  Haga clic en el icono simbolizado por una lupa para definir los filtros
+    necesarios para verificar el histórico de las instancias del ticket para la
+    auditoria.
 
-4.  Clicar no ícone simbolizado por uma lupa para definir os filtros necessários
-    para verificar o histórico das instâncias do ticket para a auditoria.
+!!! warning "ATENCIÓN"
 
-!!! warning "ATENÇÃO"
+    En la interfaz de gestión de tickets, específicamente en el apartado "Auditoría",
+    al intentar configurar la auditoría de un ticket abierto (definir las fechas de
+    inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará
+    el mensaje de "fecha no válida". Esto es porque la funcionalidad necesita que el
+    el idioma definido en el sistema y en el explorador utilizado son idénticos.  
 
-    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria",
-    ao tentar configurar a auditoria de um ticket aberto (definir as datas de
-    início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará
-    a mensagem de "Data Inválida". Isto porque a funcionalidade necessita que o
-    idioma definido no sistema e no navegador utilizado sejam idênticos.
-
-    Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao
-    auditar os tickets o sistema apresentará uma mensagem o que impossibilitará
-    auferir o relatório pretendido.
+    Si este requisito no se observa y se produce esta diferencia en los idiomas, 
+    auditar los tickets el sistema presentará un mensaje lo que imposibilitará 
+    obtener el informe deseado.
 
 
 Relacionado
 -----------
 
-[A área de trabalho da Central de Serviços](/pt-br/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço

@@ -1,34 +1,34 @@
-title: Avaliação de fornecedor
-Description: Com o gerenciamento de nível de serviço é possível verificar graficamente o desempenho do fornecedor por serviço cadastrado.
-#Avaliação de fornecedor
-Com o gerenciamento de nível de serviço é possível verificar graficamente o desempenho do fornecedor por serviço cadastrado.
+title:  Evaluación del proveedor 
+Description: Es posible verificar gráficamente el desempeño del proveedor por servicio registrado.
+#Evaluación del proveedor
+Con la gestión de nivel de servicio, es posible verificar gráficamente el desempeño del proveedor por servicio registrado.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para se obter gráficos completos é necessário cadastrar previamente pelo menos
-um fornecedor e serviços.
+Para obtener gráficos completos, es necesario registrar previamente al menos un
+proveedor y servicios.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Nível de Serviço \> Avaliação \> Fornecedor;
+1.  Acceder al menú principal Procesos \> Gestión de Nivel de Servicio \>
+    Evaluación \> Proveedor;
 
-2.  Selecionar um fornecedor;
+2.  Seleccionar el proveedor;
 
-3.  Clicar em "Pesquisa".
+3.  Hacer clic en "Búsqueda".
 
 Relacionado
 -----------
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Cadastrar fornecedor](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
+[Registrar proveedor](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMjX0O3lujZJk298ZUVu21l)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço

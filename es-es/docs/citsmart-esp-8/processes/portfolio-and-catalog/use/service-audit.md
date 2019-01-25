@@ -1,45 +1,45 @@
-title: Verificar auditoria de serviços
-Description: Permite verificar o histórico do serviço para auditoria do mesmo.
-#Verificar auditoria de serviços
-Esta funcionalidade permite verificar o histórico do serviço para auditoria do mesmo. As orientações descritas neste conhecimento poderão ser seguidas para verificar o histórico do Serviço de Negócio/TI e do Serviço de Apoio/Técnico.
+title: Comprobar la auditoría de servicios
+Description: Permite comprobar el historial del servicio para su auditoría 
+#Comprobar la auditoría de servicios
+Permite comprobar el historial del servicio para su auditoría. Las orientaciones descritas en este conocimiento podrán ser seguidas para verificar el historial del Servicio de Negocio/TI y del Servicio de Apoyo/Técnico.
 
-Antes de começar
---------------------
-
-Para verificar o histórico de auditoria de serviços é necessário ter o portfólio
-definido.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Portfólio;
+Para comprobar el historial de auditoría de servicios, es necesario tener el
+portafolio definido.
 
-2.  Acessar o Portfólio de Serviços e clicar no botão "Avançar";
+Procedimiento
+-------------
 
-3.  Clicar no botão "Avançar" do serviço;
+1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
+    Portafolio;
 
-4.  Clicar na guia **Auditoria do Serviço**;
+2.  Acceder al Portafolio de Servicios y hacer clic en "Avanzar";
 
-5.  Colocar o intervalo de datas que se procura ou selecionar a categoria;
+3.  En el servicio, hacer clic en "Avanzar";
 
-6.  Clicar em "Buscar";
+4.  Hacer clic en la pestaña **Servicio de Auditoría**;
 
-7.  Caso tenha a necessidade de registrar os detalhes da auditoria realizada,
-    clique na aba **Cadastrar Ocorrências**;
+5.  Colocar el intervalo de fechas que se busca o seleccionar la categoría;
 
-8.  Preencher os campos disponibilizados;
+6.  Hacer clic en "Buscar";
 
-9.  Clicar em "Gravar".
+7.  Si tiene la necesidad de registrar los detalles de la auditoría realizada,
+    haga clic en la pestaña **Registrar Ocurrencias**;
+
+8.  Completar los campos disponibles;
+
+9.  Hacer clic en "Guardar".
 
 Relacionado
 ---------------
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço

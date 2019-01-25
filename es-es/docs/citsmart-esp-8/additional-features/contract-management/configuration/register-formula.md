@@ -1,32 +1,32 @@
-title: Cadastrar fórmula
-Description: Elaborar a fórmula que será utilizada no cadastro de um contrato.
-#Cadastrar fórmula
+title: Registrar fórmula
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar fórmulas.
+#Registrar fórmula
 
-Esta funcionalidade tem a por finalidade elaborar a fórmula que será utilizada
-no cadastro de um contrato. Para se criar a fórmula o usuário deverá entender de
-linguagem de programação pois serão usados Scripts RHINO.
+Esta funcionalidad tiene por finalidad elaborar la fórmula que se utilizará en
+el registro de un contrato. Para crear la fórmula, el usuario deberá entender de
+lenguaje de programación, pues serán usados Scripts RHINO.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir fórmulas.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
+fórmulas.
 
-Procedimento
---------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através do menu de navegação Sistema \>
-    Configurações \> Fórmula;
+1.  Acceder al menú principal Sistema \> Configuración \> Fórmula;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar no botão " Gravar".
+3.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -------
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Anna Martins
+    <b>Updated:</b>01/25/2019 - Anna Martins

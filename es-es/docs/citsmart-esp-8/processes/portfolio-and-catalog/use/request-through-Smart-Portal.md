@@ -1,54 +1,56 @@
-title: Gerenciar minhas solicitações pelo Smart Portal
-Description: Esta funcionalidade permite o controle das solicitações abertas pelo usuário
-#Gerenciar minhas solicitações pelo Smart Portal
-Esta funcionalidade permite o controle das solicitações abertas pelo usuário, onde o mesmo pode verificar o histórico de ocorrência, a descrição da tarefa, trocar mensagens com o executor do ticket, dentre outras ações.
+title:  Gestionar mis solicitudes por el Smart Portal 
+Description: Esta funcionalidad permite el control de las solicitudes abiertas por el usuario. 
+#Gestionar mis solicitudes por el Smart Portal
+Esta funcionalidad permite el control de las solicitudes abiertas por el usuario, donde el mismo puede verificar el historial de ocurrencia, la descripción de la tarea, intercambiar mensaje con el ejecutor del ticket, entre otras acciones.
 
-Antes de Começar
---------------------
-
-É necessário ter a solicitação de serviço registrada pelo usuário previamente.
-Também é fundamental configurar os parâmetros referentes ao Smart Portal.
-
-É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
-ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1-  Acessar a funcionalidade através do menu inicial do Smart Portal, clicar no
-    botão de menu  e logo após clicar em "Minhas Solicitações";
+Es necesario tener la solicitud de servicio registrada por el usuario
+previamente. También es fundamental configurar los parámetros referentes al
+Smart Portal.
 
-2-  Para trocar mensagens com o atendente da solicitação, basta clicar no
-    ícone “Mensagem ao atendente” . O Atendente receberá o comunicado na área de
-    trabalho do ticket, onde o mesmo cadastrará a resposta da Nota. Esta
-    resposta estará disponível ao clicar novamente neste mesmo ícone.
+Es necesario también establecer en el parámetro 253, el ID del correo
+electrónico elegido para registrar la instancia y el ID de la plantilla del
+correo electrónico de notificación en el parámetro 251.
 
-!!! Abstract "AVISO"  
+Procedimiento
+-------------
 
-    Para o correto funcionamento desta aplicação é necessário que os
-    parâmetros 299 e 300 (referentes ao Smart Portal) estejam setados em "S".
+1-  Acceder al menú principal del Smart Portal, hacer clic en el botón “Menu” y
+    luego hacer click en "Mis Solicitudes";
 
-3-  Para tecer algum comentário referente a solicitação ou relatar alguma
-    ocorrência sobre a mesma, apertar no ícone “Adicionar nota”. O Atendente
-    receberá o comunicado na área de trabalho do ticket, onde poderá dirimir
-    qualquer questão relacionado a solicitação.
+2-  Para cambiar mensajes con el asistente de la solicutud, basta hacer clic en
+    el icono “Mensaje al asistente”. El Asistente recibirá el comunicado en el
+    área de trabajo del ticket, donde va registrar la respuesta de la Nota. Esta
+    respuesta estará disponible al hacer clic de nuevo en este mismo icono.
 
-4-  Para visualizar o histórico da solicitação, basta clicar no
-    ícone “Histórico”;
+!!! Abstract "AVISO"
 
-5-  Por esta interface, também é possível visualizar a descrição, os eventuais
-    arquivos anexados a solicitação, dentre outras ações.
+    Para el correcto funcionamiento de esta aplicación, es necesario que los
+    parámetros 299 y 300 (referentes al Smart Portal) estén establecidos en
+    "S".
+
+3-  Para comentar la solicitud o relatar alguna ocurrencia sobre ella, hacer
+    clic en el icono “Añadir nota”. El asistente recibirá el comunicado en el
+    área de trabajo del ticket, donde podrá dirigir cualquier cuestión
+    relacionada con la solicitud.
+
+4-  Para ver el historial de la solicitud, haga clic en el icono “Historial”;
+
+5-  Por esta interfaz, también es posible visualizar la descripción, los
+    eventuales archivos adjuntos a la solicitud, entre otras acciones.
 
 Relacionado
 ---------------
 
-[Configurar parametrização - Smart Portal](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
+[Configurar parametrización - Smart Portal](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

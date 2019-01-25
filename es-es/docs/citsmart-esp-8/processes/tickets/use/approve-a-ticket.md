@@ -1,51 +1,48 @@
-title: Aprovar um ticket
-Description: Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço. 
-#Aprovar um ticket
-Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço.
+title: Aprobar ticket
+Description: En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución 
+#Aprobar ticket
+En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución. Esto dependerá del flujo de trabajo del ticket, que está vinculado a la actividad de solicitud de servicio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio do ticket e possuir permissão para aprovar o
-mesmo.
+Es necesario el registro previo del ticket y tener permiso para aprobarlo.
 
-Procedimento 
+Procedimiento
 -------------
 
-1.  Acessar a funcionalidade Ticket navegando pelo menu principal Processos \>
-    Gerência de Requisição e Incidente \> Ticket;
+1.  Acceda la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
-    ícone “Abrir”;
+2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3.  Verificar o ticket e registrar as informações necessárias referente à
-    aprovação do mesmo;
+3.  Verificar el ticket y registrar la información necesaria referente a su
+    aprobación.;
 
-4.  Marcar umas das opções de aprovação: **Aprovada** ou **Não aprovada**:
+4.  Marcar una de las opciones de aprobación: **Aprobada** o **No aprobada**:
 
-    -   Se marcar "Aprovada", descrever as observações, se achar necessário;
+    -   Si marca "Aprobado", describir las observaciones, si es necesario;
 
-    -   Se marcar "Não aprovada", descrever as observações, informar a
-        justificativa e o complemento da justificativa.
+    -   Si marca "No aprobada", describir las observaciones, informar la
+        justificación y el complemento de la justificación.
 
-5.  Clicar no botão de “Opções” e logo em seguida clique no botão “Gravar e
-    avançar fluxo” para gravar e avançar o fluxo. Feito isso, se o ticket
-    estiver sido aprovado, o mesmo será encaminhado para a fase de execução, ou
-    seja, para o atendimento do mesmo. Mas, caso o ticket não seja aprovado, o
-    mesmo será encerrado.
+5.  Haga clic en el botón de “Opciones” y después en el botón “Grabar y avanzar
+    el flujo” para guardar y avanzar el flujo. Hecho esto, si el ticket ha sido
+    aprobado, el mismo será encaminado a la fase de ejecución, o sea, para la
+    atención. Pero, si el ticket no es aprobado, se lo vá cerrar.
 
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço

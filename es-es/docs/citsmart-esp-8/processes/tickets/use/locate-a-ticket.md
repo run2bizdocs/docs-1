@@ -1,30 +1,30 @@
-title: Localizar um ticket
-Description: O campo de pesquisa proporciona um rápido direcionamento ao item desejado através de seu número ou nome da tarefa. 
-#Localizar um ticket
-A tela de listagem de tickets algumas vezes poderá trazer uma relação extensa de itens, o campo de pesquisa proporciona um rápido direcionamento ao item desejado através de seu número ou nome da tarefa.
+title: Buscar ticket
+Description: La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
+#Buscar ticket
+La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É preciso mais de um ticket registrado para que o campo de pesquisa retorne
+Se necesita más de un ticket registrado para que el campo de búsqueda retorne
 resultados.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade navegando pelo menu principal Processos \> Gerência
-    de Requisição e Incidente \> Ticket;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Requerimiento e Incidente \> Ticket;
 
-2.  Clicar no campo de busca.
+2.  Haga click en el campo de búsqueda.
 
 Relacionado
 -----------
 
-[Criar um ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço

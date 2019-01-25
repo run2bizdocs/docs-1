@@ -1,34 +1,42 @@
-title: Cadastrar uma assinatura
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
-#Cadastrar uma assinatura
-Esta funcionalidade tem o objetivo de registrar campos de assinatura para serem associados a um grupo de assinatura, a fim da personalização de assinaturas presentes no relatório de Ordens de Serviço. Estes relatórios de Ordem de Serviço são utilizados para registrar, comprovar e cobrar pelos serviços prestados ao cliente.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
+title: Registrar una suscripción
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la suscripción.
+#Registrar una suscripción
 
-Antes de começar
-----------------
+Esta funcionalidad tiene el objetivo de registrar campos de suscripción para
+asociarse a un grupo de suscripciones para la personalización de suscripciones
+presentes en el informe de Órdenes de Servicio. Estos informes de Orden de
+Servicio se utilizan para registrar, comprobar y cobrar por los servicios
+prestados al cliente.
 
-Antes de cadastrar a assinatura é necessário registrar, anteriormente, o
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar la
+suscripción.
+
+Antes de empezar
+--------------------
+
+Antes de registrar la sucripción, es necesario registrar, anteriormente, el
 colaborador.
 
-Procedimento 
--------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerências de Contratos \> Assinaturas;
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
+    Firmas;
 
-2.  Na guia "**Cadastro de Assinaturas**", preencher os campos necessários
-    (responsável, fase e papel);
+2.  En la pestaña "**Registro de Suscripciones**", completar los campos
+    necesarios (responsable, fase y papel);
 
-3.  Clicar em "Gravar" para efetuar a operação.
+3.  Hacer clic en "Guardar".
+
 
 Relacionado
 -----------
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Anna Martins
