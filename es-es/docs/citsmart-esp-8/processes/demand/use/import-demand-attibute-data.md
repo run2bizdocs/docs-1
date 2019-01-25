@@ -1,29 +1,28 @@
-title: Importar dados de atributo de demanda
+title: Importar datos de atributo de la demanda
+Description: Tiene el objetivo de importar los datos de atributo de la demanda.
+#Importar datos de atributo de la demanda
+Esta funcionalidad tiene el objetivo de importar los datos de atributo de la demanda.
 
-Description: Tem o objetivo de importar dados de atributo da demanda. 
-#Importar dados de atributo de demanda
-Esta funcionalidade tem o objetivo de importar dados de atributo da demanda.
+Procedimiento
+-------------
 
-Procedimento
-------------
+1.  Acceder al menú principal Procesos \> Gestión de la Demanda \> Atributo de
+    la Demanda;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Demanda \> Atributo da Demanda;
+2.  Hacer clic en la pestaña **Importar Datos**;
 
-2.  Clicar na aba **Importar Dados**;
+3.  Se muestran los modelos de archivos para orientar en la forma y orden que
+    los datos deben estar en el archivo;
 
-3.  São apresentados os modelos de arquivos para orientar na forma e ordem que
-    os dados devem estar no arquivo;
+4.  Antes de seleccionar el archivo, comprobar que está de acuerdo con el
+    modelo, tener en cuenta el formato (.xls, .xlsx, .xml o .csv);
 
-4.  Antes de selecionar o arquivo, verificar se o mesmo está de acordo com o
-    modelo, levar em consideração o formato (.xls, .xlsx, .xml ou .csv);
+5.  Hacer clic en "Elegir archivo" para adjuntar;
 
-5.  Clicar em "Escolher arquivo" para anexar;
-
-6.  Clicar em "Enviar".
+6.  Hacer clic en "Enviar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
