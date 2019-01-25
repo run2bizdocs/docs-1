@@ -216,7 +216,7 @@ Figura 11 - Actualización de la lista con solicitudes antiguas
 
 11- Para ordenar las solicitudes, haga clic en el icono de ordenación. Se
     mostrará una lista de opciones de ordenación (como se muestra en la figura
-    siguiente), seleccione una opción deseada y haga clic en "Aceptar";
+    siguiente), seleccione una opción deseada y haga clic en "OK";
 
 
 ![Ordenação](images/app-android-es-12.jpg)
@@ -239,7 +239,7 @@ Figura 12 - Ordenación de solicitudes
       ordenación por el número de la solicitud, en orden decreciente.
 
 
-### Creación de solicitud de servicio
+#### Creación de solicitud de servicio
 
 1-  Para crear una solicitud de servicio, pulse el icono situado en la esquina
     superior derecha de la pantalla y seleccione la opción "Nuevo
@@ -312,7 +312,7 @@ Figura 18 - Pantalla justificada de rechazo de la solicitud
 Utilización avanzada de la aplicación em el celular (smartphone) - con mapas
 ----------------------------------------------------------------------------
 
-### Actualizando las coordenadas de una unidad
+#### Actualizando las coordenadas de una unidad
 
 Actualice las coordenadas de una unidad para que el sistema pueda identificar la
 ubicación de la misma.
@@ -348,7 +348,7 @@ Figura 22 -Pantalla de obtener coordenadas
   -   Se enviará su latitud y longitud al servidor (CITSmart Enterprise Web).
 
 
-### Atendiendo la solicitud de servicio
+#### Atendiendo la solicitud de servicio
 
 !!! Abstract "REGLA"
 
@@ -451,7 +451,7 @@ Figura 30 -  Check-out - Registro del motivo de la suspensión de la solicitud
 
 Figura 31 -  Check-out - Registro de Cierre de la Solicitud
 
-### Notificaciones
+#### Notificaciones
 
 La aplicación CITSmart Enterprise Mobile se está ejecutando en segundo plano en
 el teléfono móvil, a través de lo que recibirá automáticamente notificaciones
