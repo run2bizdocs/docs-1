@@ -1,46 +1,50 @@
-title: Configurar template para Smart Decision
-Description: Determinar o layout de apresentação do Smart Decision que é apresentado no home do CITSmart.
-#Configurar template para Smart Decision
+title: Configurar plantilla para Smart Decisio
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el diseño de presentación del Smart Decision.
+#Configurar plantilla para Smart Decision
 
-Esta funcionalidade tem por objetivo determinar o layout de apresentação do
-Smart Decision que é apresentado no home do CITSmart. Permitindo colocar acessos
-rápidos como links, relatórios e widgets.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o layout de apresentação do Smart Decision.
+Esta funcionalidad tiene por objetivo determinar el diseño de presentación de la
+Smart Decision que se presenta en el home del CITSmart. Permitiendo colocar
+accesos rápidos como enlaces, informes y widgets.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el
+diseño de presentación del Smart Decision.
 
-1.  Acessar a funcionalidade através do menu principal Sistema \> Configurações
-    \> Decisões Smart \> Decisões Smart;
+Procedimiento
+-----------------
 
-2.  Clicar no botão "Adicionar";
+1.  Acceder a la funcionalidad por el menú principal Sistema \> Configuración \>
+    Decisiones Smart \> Decisiones Smart;
 
-3.  Para ter acesso às opções de widget clicar no botão "Adicionar novo widget" ;
+2.  Hacer clic en "Agregar";
 
-4.  Cada uma das opções possuem formatos de edição e personalização pessoal;
+3.  Para tener acceso a las opciones de widget, haga clic en "Añadir nuevo widget";
 
-5.  Clicar no botão "Salvar alterações" para salvar o novo dashboard;
+4.  Cada una de las opciones tiene formatos de edición y personalización
+    personal;
 
-6.  Clicar no botão "Gravar".
+5.  Hacer clic en el botón "Guardar los cambios" para guardar el nuevo dashboard;
 
-O que fazer a seguir
---------------------
+6.  Hacer clic en "Guardar".
 
-1.  Acessar a home do CITSmart clicando no atalho "Home" , clicar no botão "Adicionar novo dashboard" ;
+Lo que hacer después
+------------------------
 
-2.  Definir o nome, em seguida escolher o template elaborado e um ícone;
+1.  Acceder al inicio del CITSmart haciendo clic en el atajo "Home , hacer clic en el
+    botón "Añadir nuevo dashboard";
 
-3.  Clicar em "Gravar".
+2.  Definir el nombre, después, elegir la plantilla creada y un icono;
+
+3.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -------
 
-[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel gerencial (Smart Decision)](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
