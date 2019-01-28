@@ -32,7 +32,7 @@ La configuración de los web services es fundamental para el acceso a todas las
 características de la aplicación. Siga los pasos para configurarlo:
 
 1.  En el CITSmart Enterprise ITSM (Web), acceda a la funcionalidad de los web
-    services para el móvil (Sistema → Configuración → Web Service Citsmart
+    services para el móvil (Sistema > Configuración > Web Service Citsmart
     Mobile);
 
 2.  Haga clic en la pestaña "Vincular grupos" y vincule el grupo ejecutor de
@@ -77,7 +77,7 @@ Figura 2 - Instalación del certificado en Windows
     ejemplo:“[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
 
-## Instalación del APP Android
+### Instalación del APP Android
 
 
 1.  Accede a Google Play (Play Store) para bajar la aplicación Citsmart
@@ -89,7 +89,7 @@ Figura 2 - Instalación del certificado en Windows
 3.  Presione el botón *Instalar* para descargar la aplicación.
 
 
-## Creando clave para uso y consumo de las API Google
+### Creando clave para uso y consumo de las API Google
 
 Para que sea posible el uso y el consumo de las API de Google es necesario que
 se crea una API de claves. Para ello, se deben seguir los siguientes pasos:
@@ -122,8 +122,8 @@ Figura 4 - Pantalla de creación de proyectos
     el proyecto.
 
 8-  Después de crear el proyecto, haga clic en API y servicios. Para crear la
-    API de claves, haga clic en API y servicios → Credenciales → Crear
-    credenciales → Clave de API, como se indica en la figura siguiente:
+    API de claves, haga clic en API y servicios > Credenciales > Crear
+    credenciales > Clave de API, como se indica en la figura siguiente:
 
 
 ![API Key](images/android-ios-5.jpg)
@@ -192,7 +192,7 @@ Para activar una API para su uso, siga estos pasos:
 1.  Después de realizar los pasos descritos en la sección "Creación de claves
     para el uso y el consumo de las API de Google";
 
-2.  Haga clic en API y servicios → Activar API y servicios, como se muestra en
+2.  Haga clic en API y servicios > Activar API y servicios, como se muestra en
     la siguiente figura:
 
 
