@@ -1,41 +1,42 @@
-title: Cadastrar usuário
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um usuário.
-#Cadastrar usuário
+title: Registrar usuario
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un usuario.
+#Registrar usuario
 
-Para que o colaborador possa acessar o sistema, é necessário criar um usuário
-que irá receber as credenciais para acessar o sistema e determinar o seu perfil
-de acesso.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um usuário.
+Para que el colaborador pueda acceder al sistema, es necesario crear un usuario
+que recibirá las credenciales para acceder al sistema y determinar su perfil de
+acceso.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+usuario.
+
+Antes de empezar
 --------------------
 
-Para cadastrar um usuário é necessário registrar previamente o perfil de acesso
-e o colaborador.
+Para registrar un usuario, es necesario registrar previamente el perfil de
+acceso y el colaborador.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Usuário;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Usuario;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 
 
 Relacionado
 -----------
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
