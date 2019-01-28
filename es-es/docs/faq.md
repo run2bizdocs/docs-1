@@ -54,25 +54,27 @@ Title: Preguntas frecuentes - FAQ
     3. Realice el diseño
    
     
-??? Question "Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?"
-    Para definir o grupo padrão para atendimento de 1º nível, proceda conforme as orientações abaixo:
+??? Question "¿Cómo definir un grupo padrón para el atendimiento del primer nivel de la solicitud de servicio?"
    
-    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
-    2. Realize o cadastro do grupo de 1º nível, caso não esteja cadastrado, e proceda com o preenchimento dos campos;
-    3. Caso o grupo de 1º nível já esteja cadastrado no sistema, realize a pesquisa do grupo e obtenha o seu número de identificação (ID);
-    4. Após obter o ID do grupo de 1º nível, acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal. Parametrização → Parâmetros Citsmart;
-    5. Será apresentada a tela Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
-    6. Realize a pesquisa do parâmetro "9 - ID Grupo Nível 1";
-    7. Selecione o mesmo;
-    8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação (ID) do grupo de 1º nível;
-    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    Para definir el grupo predeterminado para la atención de primer nivel, proceda de acuerdo con las siguientes instrucciones:
+   
+    1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso → Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
+    2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
+    3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
+    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart.
+    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart
+    6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
+    7. Seleccione el mismo.
+    8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
+    9. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
-    REGRA: após a configuração do parâmetro, ao realizar o registro de uma Solicitação de Serviço/Incidente, caso não tenha informado o grupo para atendimento do serviço, será escalado o grupo, o qual foi definido no parâmetro para atendimento de 1º nível.
+    REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
     
-??? Question "Como configurar a autenticação do Nagios via LDAP?"
-    A configuração de autenticação do Nagios via LDAP passa por:
+??? Question "¿Cómo configurar la autenticación del Nagios vía LDAP?"
     
-    1. Alterar o arquivo thruk.conf da seguinte forma:
+    La configuración de autenticación de Nagios a través de LDAP pasa por:
+    
+    1. Cambie el archivo thruk.conf de la siguiente manera:
     ```sh
     vim /etc/apache2/conf-available/thruk.conf
 	```
@@ -86,7 +88,7 @@ Title: Preguntas frecuentes - FAQ
     Require valid-user
     </Location>
 
-    2. Executar:
+    2. Ejecutar:
     ```sh
     /etc/init.d/apache2 restart
 	```
