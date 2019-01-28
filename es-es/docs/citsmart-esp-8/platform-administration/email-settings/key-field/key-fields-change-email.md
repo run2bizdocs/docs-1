@@ -11,7 +11,8 @@ modelo de correo electrónicos relacionados a los cambios:
 
 |      **Campo Clave**      |                                                **Descripción**                                               |
 |:-------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|        ${ATRASOSTR}       |           Tiempo de Retraso.Informa el tiempo de retraso de la atención de la solicitud de cambio.           |
+|        ${ATRASOSTR}       |           Tiempo de Retraso.
+Informa el tiempo de retraso de la atención de la solicitud de cambio.           |
 |      ${DATAACEITACAO}     |                 Fecha de Aceptación.Informa la fecha de aceptación de la solicitud de cambio                 |
 |    ${DATACONCLUSAOSTR}    |       Fecha de Finalizacion.Informa la fecha de finalización de la atención de la solicitud de cambio.       |
 |     ${DATAHORACAPTURA}    |     Fecha y Hora de Captura de Solicitud.Informa la fecha y hora de la captura de la solicitud de cambio.    |
