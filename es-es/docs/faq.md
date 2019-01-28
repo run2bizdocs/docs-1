@@ -1,6 +1,6 @@
-Title: Frequently Asked Questions - FAQ
+Title: Preguntas frecuentes - FAQ
 
-# Frequently Asked Questions - FAQ
+# Preguntas frecuentes - FAQ
 
 ??? Question "¿Cómo son clasificados según el ranking los documentos en el momento de la consulta de SOLR en la base de conocimientos?"
 
