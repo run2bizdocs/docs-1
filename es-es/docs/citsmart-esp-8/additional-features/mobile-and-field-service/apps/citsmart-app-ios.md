@@ -70,7 +70,7 @@ Figura 2 - Registro de conexión
  -  **URL del servidor**: introducir la dirección del servidor para la conexión.
     Colocar el protocolo (https) en la URL;
 
- -  **¿Conexión principal ?: **informe si la URL elegida será la principal;
+ -  **¿Conexión principal ?**: informe si la URL elegida será la principal;
 
  -  **Dominio\\Usuario:** a partir de esta versión el usuario tendrá que
     informar el dominio LDAP de uso y su usuario;
@@ -302,16 +302,16 @@ Figura 14 - Pantalla de registro de nueva solicitud (continuación)
 -   **Impacto**: después de informar la actividad (solicitud/incidente), se
     mostrará la información de impacto del servicio al negocio;
 
-   !!! Abstract "REGLA"
+!!! Abstract "REGLA"
 
-     Después de informar la actividad de solicitud/incidente, se establecerá el
-     tiempo previsto para atender la solicitud, conforme configurado en el
-     registro del tiempo de atención vinculado a la actividad. El tiempo de
-     atención se contabilizará de acuerdo con lo que se definió en el calendario
-     vinculado a la unidad, pero si la unidad no tiene un calendario vinculado,
-     se contabilizará según el calendario vinculado al servicio. Sin embargo, al
-     cerrar el tiempo previsto de atención se contabiliz al retraso en tiempo
-     corrido, siendo desconsiderado el calendario.
+    Después de informar la actividad de solicitud/incidente, se establecerá el
+    tiempo previsto para atender la solicitud, conforme configurado en el
+    registro del tiempo de atención vinculado a la actividad. El tiempo de
+    atención se contabilizará de acuerdo con lo que se definió en el calendario
+    vinculado a la unidad, pero si la unidad no tiene un calendario vinculado,
+    se contabilizará según el calendario vinculado al servicio. Sin embargo, al
+    cerrar el tiempo previsto de atención se contabiliz al retraso en tiempo
+    corrido, siendo desconsiderado el calendario.
 
 
 -   **Título**: informe el título de la solicitud de servicio;
