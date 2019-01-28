@@ -42,7 +42,7 @@ Procedimiento
 
 !!! Abstract "NOTA"
 
-    Para crear un Sub Informe ("Drill) el" Tipo de informe "debe ser"
+    Para crear un Sub Informe (Drill) el" Tipo de informe "debe ser"
     Gráfico de pizza "o" Gráfico de barra".
 
 1.  Definir el módulo (funcionalidad) donde se muestra el informe que se está
