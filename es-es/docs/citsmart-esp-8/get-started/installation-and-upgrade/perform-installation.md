@@ -455,8 +455,6 @@ Criando alias novo com DNS (exemplo itsm.citsmart.com):
     ```sh
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
     ```
-!!! info
-    Continue as the deployment available to its subscription
 
 
 !!! tip "About"
