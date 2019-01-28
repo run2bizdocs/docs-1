@@ -1,47 +1,55 @@
-title: Configurar as rotas diárias
-Description: Tem por objetivo configurar a agenda diárias dos técnicos de campo
-#Configurar as rotas diárias
-Esta funcionalidade tem por objetivo configurar a agenda diárias dos técnicos de campo. Após a configuração, o técnico terá uma lista de solicitações que serão atendidas por via Mobile.
-Esta tela permite realizar a pesquisa de solicitações de acordo com os filtros informados, ou seja, de acordo com sua necessidade, a fim de direcionar as solicitações abertas para serem atendidas pelo técnico de campo.
+title: Configurar rutas diarias
+Description: Configurar la agenda diaria de los técnicos de campo.
+#Configurar rutas diarias
 
-Antes de começar
-----------------
+Esta funcionalidad tiene por objetivo configurar la agenda diaria de los
+técnicos de campo. Después de la configuración, el técnico tendrá una lista de
+solicitudes que serán atendidas por el Mobile.
 
-Antes de configurar a agenda diárias dos técnicos de campo é necessário
-configurar a conexão do sistema com as API's do Google.
+Esta pantalla permite buscar por solicitudes de acuerdo con los filtros
+informados, es decir, de acuerdo con su necesidad, a fin de dirigir las
+solicitudes abiertas para ser atendidas por el técnico de campo.
 
-Procedimento
-------------
+Antes de empezar
+--------------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Força de Atendimento \> Gerência de Rotas Diárias;
+Antes de configurar la agenda diaria de los técnicos de campo, es necesario
+configurar la conexión del sistema con las API del Google.
 
-2.  Definir os filtros conforme a necessidade e clicar no botão Pesquisar. Será
-    apresentado as solicitações as quais o técnico tem permissão de execução com
-    as seguintes situações (não atendida, em atendimento, atendida com
-    pendência);
+Procedimiento
+-----------------
 
-3.  Direcionar as solicitações de serviços disponíveis para o técnico realizar o
-    atendimento através destes passos:
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Fuerza de
+    Tratamiento \> Gestión de Rutas Diarias;
 
-    -   Selecionar as solicitações que serão atendidas pelo técnico e informar a
-        prioridade do atendimento das solicitações;
+2.  Definir los filtros según sea necesario y hacer clic en Buscar. Se
+    presentarán las solicitudes, las que el técnico tiene permiso de ejecución,
+    con las siguientes situaciones (no atendida, en atención, atendida con
+    pendiente);
 
-    -   No campo** **"**Data de execução**", informar a data prevista para
-        execução das solicitações;
+3.  Direccionar las solicitudes de servicios disponibles para el técnico
+    realizar la atención a través de estos pasos:
 
-    -   Após selecionar as solicitações, será apresentado no mapa os marcadores
-        da rota que o técnico deverá seguir. Lembrar que ao clicar no marcador
-        da rota, serão apresentadas as informações da solicitação de serviço.
+    -   Seleccionar las solicitudes que serán atendidas por el técnico e
+        informar la prioridad de atención de las solicitudes;
 
-4.  Clicar no botão "Gravar" para efetuar a operação. Após a gravação, será
-    enviada uma notificação para o técnico, onde o mesmo poderá verificar pelo
-    aplicativo CITSmart Enterprise ITSM Mobile as solicitações que serão
-    atendidas por ele.
+    -   En el campo "Fecha de ejecución", informar la fecha prevista para la
+        ejecución de las solicitudes;
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+    -   Después de seleccionar las solicitudes, se mostrarán en el mapa los
+        marcadores de la ruta que el técnico deberá seguir. Recordar que al
+        hacer clic en el marcador de ruta, se mostrará la información de la
+        solicitud de servicio.
+
+4.  Hacer clic en "Guardar". Después de la grabación, se enviará una
+    notificación al técnico, donde el mismo podrá verificar, por la aplicación
+    CITSmart Enterprise ITSM Mobile, las solicitudes que serán atendidas por el
+    técnico.
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/28/2019 – Anna Martins

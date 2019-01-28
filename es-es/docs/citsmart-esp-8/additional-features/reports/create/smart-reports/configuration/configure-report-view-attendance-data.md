@@ -1,125 +1,127 @@
-title: Configurar relatório para visualizar dados de atendimento
-Description: Tem a finalidade de demostrar como configurar Smart Reports para utilizar na gestão de atendimento (Ticket management).
-#Configurar relatório para visualizar dados de atendimento
+title: Configurar informe para ver datos de la atención
+Description: Demostrar cómo configurar los Smart Reports para utilizarlos en la gestión de la atención (Ticket management).
+#Configurar informe para ver datos de la atención
 
-Este documento tem a finalidade de demostrar como configurar Smart Reports para
-utilizar na gestão de atendimento (Ticket management).
 
-Relatórios por Ticket/Atendimento
--------------------------------------
+Este documento tiene el propósito de demostrar cómo configurar los Smart Reports
+para utilizarlos en la gestión de la atención (Ticket management).
 
-*Este relatório tem por objetivo demostrar em um período de tempo, os tickets
-atendidos e o tempo gasto em cada ticket, bem como auxiliar na identificação de
-expiração de tempo.*
+Informes por Ticket/Atención
+--------------------------------
 
-### Procedimento
+*Este informe tiene por objetivo demostrar en un período de tiempo, los tickets
+atendidos y el tiempo gastado en cada ticket, así como auxiliar en la
+identificación de expiración del tiempo.*
 
-1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
-    Smart \> Gerador de Relatórios Smart;
+### Procedimiento
 
-2.  Realizar o download do arquivo abaixo, chamado "TicketAtendimento";
+1.  Acceder al menú principal Informes \> Informes Smart \> Generador de
+    Informes Smart;
 
-3.  Clicar no botão "Importar" e selecionar o arquivo citado logo acima;
+2.  Descargar el archivo adjunto "TicketAtención";
 
-4.  Selecionar o relatório chamado "RelatorioPorTicketAtendimento" da listagem
-    da funcionalidade e clicar no seu botão de "Editar";
+3.  Hacer clic en "Importar" y seleccionar el archivo que se descargó;
 
-5.  Escolher o módulo de título "N/A" e definir os grupos que terão permissão de
-    visualizar o relatório criado.
+4.  Seleccionar el informe "RelatorioPorTicketAtendimento" de la lista de
+    funcionalidad y hacer clic en "Editar";
+
+5.  Elegir el módulo de título "N/A" y definir los grupos que van a tener
+    permiso de ver el informe creado.
 
 ### Uso
 
-1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
-    Smart \> Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Informes Smart;
 
-2.  Clicar no botão "Incidentes/Requisições" e selecionar o item
+2.  Hacer clic en Incidentes/Solicitudes y seleccionar el elemento
     "RelatórioPorTicketAtendimento";
 
-3.  Definir os filtros com período desejado (com as datas de início e
-    encerramento dos tickets);
+3.  Definir los filtros con um período (con las fechas de início y cierre de los
+    tickets);
 
-4.  Será apresentado uma listagem com os dados dos seguintes dados: Solicitação
-    de serviço, tipo, serviço, atividade, status, solicitante, data e hora da
-    solicitação, data hora limite, SLA , tempo de atendimento ( é a soma dos
-    imputs das horas registradas nas ocorrências do ticket) e data e hora do
-    encerramento (se houver) além de um relatório sintético referente ao
-    contrato escolhido;
+4.  Se presentará una lista con los siguientes datos: Solicitud de servicio,
+    tipo, servicio, actividad, estado, solicitante, fecha y hora de la
+    solicitud, fecha límite de tiempo, SLA, tiempo de atención (es la suma de
+    las entradas de las horas registradas en las ocurrencias del ticket) y fecha
+    y hora del cierre (si existe) además de un informe sintético referente al
+    contrato elegido;
 
-    -   É possível clicar no número da solicitação de serviço para apresentar
-        maiores detalhes sobre o técnico e as horas gastas pelo mesmo para
-        atender o ticket.
+    -   Se puede hacer clic en el número de solicitud del servicio para mostrar
+        más detalles sobre el técnico y las horas gastadas por el mismo para
+        atender el ticket.
 
-5.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
-    configurar ao personalizar o mesmo Smart Decisions.
+5.  Esta disponible también ver estos Informes en el dashboard, si así lo
+    configura al personalizar el mismo Smart Decisions.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Existe na aba "Relacionados" no canto superior esquerdo da tela, um
-    conhecimento instruindo sobre a criação personalizada de dashboards.
+    Existe en la pestaña "Relacionados" en la esquina superior izquierda de la
+    pantalla, un conocimiento que instruye sobre la creación personalizada de
+    dashboards.
 
-Relatório por Técnico e Tempo Gasto
----------------------------------------
+Informe por Técnico y Tiempo Gastado
+----------------------------------------
 
-*Este relatório tem por objetivo identificar o tempo de ociosidade por cada
-técnico, uma vez que apresenta a soma da quantidade de ticket que cada técnico
-executou e a soma dos tempos executados por cada técnico.*
+*Este informe tiene por objetivo identificar el tiempo de ociosidad por cada
+técnico, una vez que presenta la suma de la cantidad de ticket que cada técnico
+ejecutó y la suma de los tiempos ejecutados por cada técnico.*
 
-### Procedimento
+### Procedimiento
 
-1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
-    Smart \> Gerador de Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Generador de
+    Informes Smart;
 
-2.  Realizar o download do arquivo abaixo, chamado "TecnicoTempo";
+2.  Descargar el archivo adjunto "TecnicoTiempo";
 
-3.  Clicar no botão "Importar" e selecionar o arquivo citado logo acima. Clicar,
-    então, no botão "Editar" e renomear o relatório com o título "Ticket - Tempo
-    gasto por técnico";
+3.  Hacer clic en "Importar" y seleccionar el archivo que se descargó. Haga clic
+    en "Editar" y cambiar el nombre del informe con el título "Ticket - Tiempo
+    empleado por técnico";
 
-4.  Selecionar o relatório chamado renomeado e clicar no seu botão de "Editar";
+4.  Seleccionar el inorme renombrado y hacer clic en "Editar";
 
-5.  Escolher o módulo de título "N/A" e definir os grupos que terão permissão de
-    visualizar o relatório criado.
+5.  Elegir el módulo del título "N/A" y definir los grupos que van a tener
+    permiso de ver el informe creado.
 
 ### Uso
 
-1.  Acessar a funcionalidade através do menu principal Relatórios \> Relatórios
-    Smart \> Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Informes Smart;
 
-2.  Clicar no botão "Incidentes/Requisições" e selecionar o item "Ticket - Tempo
-    gasto por técnico";
+2.  Hacer clic en "Incidentes/Solicitudes" y seleccionar el elemento "Ticket -
+    Tempo gasto por técnico";
 
-3.  Será apresentado uma listagem com os dados dos seguintes dados: Técnico,
-    ticket e tempo gasto;
+3.  Se presentará una lista con los siguientes datos: Técnico, ticket y tiempo
+    gastado.
 
-4.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
-    configurar ao personalizar o mesmo Smart Decisions.
+4.  Esta disponible también ver estos Informes en el dashboard, si así lo
+    configura al personalizar el mismo Smart Decisions.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Existe na aba "Relacionados" no canto superior esquerdo da tela, um
-    conhecimento instruindo sobre a criação personalizada de dashboards.
+    Existe en la pestaña "Relacionados" en la esquina superior izquierda de la
+    pantalla, un conocimiento que instruye sobre la creación personalizada de
+    dashboards.
+
 
 
 
 Relacionado
 -------
 
-[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel gerencial (Smart Decision)](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-Anexo
+Adjunto
 ------
-[Download-Técnico tempo][1]
+[Download-Tecnico tiempo][1]
 
-[Download-Ticket atendimento][2]
+[Download-Ticket atención][2]
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/tecnico-tempo.citreport
+[1]:/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/tecnico-tempo.citreport
 
-[2]:/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/ticket-atendimento.citreport
+[2]:/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/images/ticket-atendimento.citreport

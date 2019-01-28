@@ -1,35 +1,29 @@
-title: Configurar parametrização - telefonia
-Description: Permite definir se ativa a integração dos webservices com a telefonia.
-#Configurar parametrização - telefonia
+title: Configurar parametrización – telefonía
+Description: Acciones posibles a fin de configurar el uso de la telefonía en el CITSmart.
+#Configurar parametrización – telefonía
+La parametrización de la "Telefonía", permite definir si activa la integración del webservices con la telefonía, informar el número de identificación del servicio de solicitud, entre otras acciones posibles a fin de configurar el uso de la telefonía en el CITSmart.
 
-A parametrização da "Telefonia permite definir se ativa a integração dos
-webservices com a telefonia, informar o número de identificação do serviço de
-requisição, dentre outras ações possíveis afim de configurar o uso da telefonia
-no CITSmart.
+Procedimiento
+-------------
 
-Procedimento
-------------
+1.  Acceder al menú principal Parametrización \> Telefonía;
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Telefonia;
+2.  Definir los valores de los parámetros (atributos);
 
-2.  Definir os valores dos parâmetros (atributos);
+3.  Hacer clic en "Guardar";
 
-3.  Clicar no botão "Gravar" para efetuar a operação;
+4.  La lista siguiente representa los parámetros de la "Telefonía" y la
+    finalidad de cada uno de ellos:
 
-4.  A lista abaixo representa os parâmetros da "Telefonia" e a finalidade de
-    cada um deles:
-
-|  #  |                                                                            Nome                                                                            |  Valores possíveis  |                                                                                            Finalidade                                                                                            |                                            Orientações complementares                                           |
-|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| 281 |                                     Ativar WebService de integração com a Telefonia - Valores: "S" ou "N" Default: "N"                                     | S ou N (Default: N) |                                                                  Definir se ativa a integração dos webservices com a telefonia.                                                                  | Caso não seja definido o valor para o parâmetro, será definido pelo sistema automaticamente o valor: “N” (Não). |
-| 282 | A telefonia deve lançar uma solicitação filha, referente à visualização de informações de uma solicitação já existente? - Valores: "S" ou "N" Default: "N" | S ou N (Default: N) |                Definir se ativa o lançamento automático de uma solicitação de serviço filha, da que está sendo visualizada ou executada, pelo webservice “visualizarSolicitacao”.                | Caso não seja definido o valor para o parâmetro, será definido pelo sistema automaticamente o valor: “N” (Não). |
-| 283 |                                       ID do serviço de requisição de informações sobre uma solicitação já existente.                                       |        S ou N       | Informar o número de identificação (ID) do serviço de requisição, o qual será utilizado para lançar a solicitação filha referente à visualização de informações de uma solicitação já existente. |                                                  Não se aplica                                                  |
-
-Tabela 1 - Lista de parâmetros
-
+| **#** |                                                                          **Nombre**                                                                          | **Valores posibles** |                                                                                            **Finalidad**                                                                                           |                                    **Orientaciones complementarias**                                   |
+|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|  281  |                                      Activar Servicio Web de integración con Telefonía - Valores: "S" o "N" Default: "N"                                     |  S o N (Default: N)  |                                                                Definir si activa la integración de los webservices con la telefonía.                                                               | Si no se establece el valor para el parámetro, el sistema automáticamente definirá el valor: "N" (No). |
+|  282  | ¿La telefonía debe lanzar una solicitud hija, referente a la visualización de informaciones de una solicitud ya existente? - Valores: "S" o "N" Default: "N" |  S o N (Default: N)  |               Definir si activa el lanzamiento automático de una solicitud de servicio hija, de la que está siendo visualizada o ejecutada, por el webservice "visualizarSolicitud".               | Si no se establece el valor para el parámetro, el sistema automáticamente definirá el valor: "N" (No). |
+|  283  |                                         ID del servicio de solicitud de información sobre una solicitud ya existente.                                        |         S o N        | Informar el número de identificación (ID) del servicio de solicitud, el cual se utilizará para lanzar la solicitud hija referente a la visualización de información de una solicitud ya existente. |                                              No se aplica                                              |
+                                                                                        
+Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço  

@@ -1,37 +1,38 @@
-title: Gerenciar minhas tarefas de projeto
-Description: Tem o objetivo de gerenciar suas tarefas relacionadas aos projetos.
-#Gerenciar minhas tarefas de projeto
+title: Gestionar mis tareas de proyecto
+Description: Administrar sus tareas relacionadas con los proyectos.
+#Gestionar mis tareas de proyecto
 
-Esta funcionalidade tem o objetivo de gerenciar suas tarefas relacionadas aos
-projetos.
 
-Antes de começar
--------------
+Esta funcionalidad tiene el objetivo de administrar sus tareas relacionadas con
+los proyectos.
 
-É necessário ter tarefas atribuídas ao seu usuário.
+Antes de empezar
+--------------------
 
-Procedimento
-----------
+Es necesario tener tareas atribuidas a su usuario.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Projetos \> Minhas Tarefas;
+Procedimiento
+-----------------
 
-2.  Para editar a tarefa, clicar no ícone "Editar tarefa" , alterar os dados conforme a
-    necessidade, clicar no botão "Adicionar tarefa";
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Proyectos \> Mis
+    Tareas;
 
-3.  Para registrar as horas trabalhadas com a tarefa escolhida, apertar o
-    ícone "Lançar horas" da tarefa e preencher os campos necessários (data, tempo gasto
-    (horas), comentários e atividade). Logo após, clicar no botão "Gravar" para
-    efetuar a operação;
+2.  Para editar la tarea, hacer clic en el icono "Editar tarea", cambiar los datos según la
+    necesidad, hacer clic en "Agregar tarea";
 
-4.  Para verificar o registro de horas gastas com as tarefas, pressionar o
-    ícone "Timesheet" para visualizar o timesheet.
+3.  Para registrar las horas trabajadas con la tarea elegida, hacer clic en el
+    icono "Lanzamiento de horas" de la tarea y completar los campos necesarios (fecha, tiempo gastado
+    (horas), comentarios y actividad). Después, hacer clic en "Guardar";
+
+4.  Para verificar el registro de horas gastadas con las tareas, hacer clic en
+    el icono "Timesheet" para ver el timesheet.
+
 
     
-    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 

@@ -1,54 +1,56 @@
-title: Cadastrar um projeto
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um projeto.
-#Cadastrar um projeto
+title: Registrar proyecto
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un proyecto.
+#Registrar proyecto
 
-O Projeto é um processo único, consistindo de um grupo de tarefas coordenadas e
-controladas com datas para início e término, empreendido para alcance de um
-objetivo conforme requisitos específicos, incluindo limitações de tempo, custo e
+
+El Proyecto es un proceso único, consistente en un grupo de tareas coordinadas y
+controladas con fechas para inicio y fin, emprendido para alcanzar un objetivo
+conforme requerimientos específicos, incluyendo limitaciones de tiempo, costo y
 recursos.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um projeto.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+proyecto.
 
-Antes de começar
-------------
+Antes de empezar
+--------------------
 
-Para um cadastro de projeto é necessário ter cadastrado previamente o
-colaborador e o usuário.
+Para un registro de proyecto, es necesario haber registrado previamente el
+colaborador y el usuario.
 
-Procedimento
-------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Projetos \> Projeto;
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Proyectos \>
+    Proyecto;
 
-2.  Clicar no botão "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4.  Clicar em "Gravar";
+4.  Hacer clic en "Guardar";
 
-5.  Após o cadastro inicial no projeto, voltar na listagem inicial e selecionar
-    o projeto para configuração complementar do mesmo. Clicar em "Editar";
+5.  Después del registro inicial en el proyecto, volver en la lista inicial y
+    seleccionar el proyecto para su configuración complementaria. Hacer clic en
+    "Editar";
 
-6.  São apresentas abas de configuração do projeto, preencher os campos
-    disponibilizados em cada aba;
+6.  Se presentan las pestañas de configuración del proyecto, complete los campos
+    disponibles en cada pestaña;
 
-7.  Essa funcionalidade apresenta os incidentes que foram registrados referente
-    ao projeto. No registro do Projeto, clicar na aba **Problemas Técnicos/Administrativos**, será apresentada a tela de administração de problemas técnicos/administrativos.
-
+7.  Esta funcionalidad presenta los incidentes registrados en el proyecto. En el
+    registro del Proyecto, hacer clic en la pestaña **Problemas Técnicos/Administrativos**, se mostrará la pantalla de administración de
+    problemas técnicos/administrativos.
 
 Relacionado
 -----------
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 

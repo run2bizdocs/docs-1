@@ -1,26 +1,29 @@
-title: Cadastrar um papel
-Description: Tem o objetivo de cadastrar os papéis dos colaboradores relacionados aos projetos.
-#Cadastrar um papel
-
-Esta funcionalidade tem o objetivo de cadastrar os papéis dos colaboradores
-relacionados aos projetos.
-
-Procedimento
-----------------
-
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Projetos \> Papel;
-
-2.  Clicar no botão "Novo";
-
-3.  Preencher os campos necessários (nome e selecionar a situação do papel);
-
-4.  Clicar no botão "Gravar" para efetuar a operação.
+title: Registrar papel
+Description: Registrar los papeles de los colaboradores relacionados con los proyectos.
+#Registrar papel
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
+Esta funcionalidad tiene el objetivo de registrar los papeles de los
+colaboradores relacionados con los proyectos.
+
+Procedimiento
+-----------------
+
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Proyectos \>
+    Papel;
+
+2.  Hacer clic en "Nuevo";
+
+3.  Completar los campos necesarios (nombre y seleccionar la situación del
+    papel);
+
+4.  Hacer clic en "Guardar".
+
+
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

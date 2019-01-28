@@ -1,28 +1,30 @@
-title: Definir métricas e KPIs
-Description: Tem por objetivo definir os alvos dos indicadores do processo de Gerenciamento de Incidentes para análise gerencial
-#Definir métricas e KPIs
+title: Definir métricas y KPIs
+Description: Objetivo definir los objetivos de los indicadores del proceso de Gestión de Incidentes para análisis gerencial
+#Definir métricas y KPIs
 
-A funcionalidade de Definição de Métricas e KPIs tem por objetivo definir os
-alvos dos indicadores do processo de Gerenciamento de Incidentes para análise
-gerencial, os quais são exibidos no widget de "Gestão de Incidentes Gerencial -
-KPIs" que pode ser adicionado no dashboard para ser apresentado no painel
-gerencial, na tela principal do sistema.
 
-Procedimento
-----------------
+La funcionalidad de Definición de Métricas y KPI, tiene por objetivo definir los
+objetivos de los indicadores del proceso de Gestión de Incidentes para análisis
+gerencial, los cuales se exhiben en el widget de "Gestión de Incidentes
+Gerencial - KPI" que se puede agregar en el dashboard de instrumentos para ser
+presentado en el panel de administración, en la pantalla principal del sistema.
 
-1.  Acessar o menu principal Sistema \> Configurações \> Decisões Smart \>
-    Definição de Métricas e KPIs;
+Procedimiento
+-----------------
 
-2.  Clicar em "Editar" de uma métrica;
+1.  Acceder al menú principal Sistema \> Configuración \> Decisiones Smart \>
+    Definiciones Métricas y KPIs;
 
-3.  Editar os campos necessários;
+2.  En una métrica, hacer clic en "Editar";
 
-4.  Clicar em "Gravar".
+3.  Editar los campos necesarios;
+
+4.  Hacer clic en "Guardar".
+
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
