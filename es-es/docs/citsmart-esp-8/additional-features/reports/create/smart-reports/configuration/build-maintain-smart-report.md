@@ -22,22 +22,22 @@ Procedimiento
 
 3-  Completar los campos necesarios. Definir el tipo:
 
-    1.  SQL: crea un Sub Informe "SQL" (este tipo permite crear informes que
+   +  SQL: crea un Sub Informe "SQL" (este tipo permite crear informes que
         devuelven la información de la Base de datos a través de una consulta).
         Al seleccionar esta opción, será necesario informar también el tipo de
         informe que se va a crear, la regla de negocio correspondiente, el
         diseñador del informe, el parámetro y el script;
 
-    2.  RhinoScript: crea un informe que devuelve la información de la base de
+   +  RhinoScript: crea un informe que devuelve la información de la base de
         datos a través de un "script" es necesario seleccionar el tipo
         "RhinoScript". Es necesario elegir el tipo de informe, definir los
         parámetros y describir el script;
 
-    3.  JSP: crea un informe con contenido dinámico, el tipo elegido debe ser el
+   +  JSP: crea un informe con contenido dinámico, el tipo elegido debe ser el
         "JSP". Al optar por este tipo, deberá informar los parámetros y el
         script "JSP";
 
-    4.  Neuro: crea un informe del tipo "Neuro", basta enlazar un formulario
+   +  Neuro: crea un informe del tipo "Neuro", basta enlazar un formulario
         "Neuro" previamente registrado.
 
 !!! Abstract "NOTA"
