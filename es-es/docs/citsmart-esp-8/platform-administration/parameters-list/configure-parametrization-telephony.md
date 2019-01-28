@@ -21,10 +21,10 @@ Procedimiento
 |  282  | ¿La telefonía debe lanzar una solicitud hija, referente a la visualización de informaciones de una solicitud ya existente? - Valores: "S" o "N" Default: "N" |  S o N (Default: N)  |               Definir si activa el lanzamiento automático de una solicitud de servicio hija, de la que está siendo visualizada o ejecutada, por el webservice "visualizarSolicitud".               | Si no se establece el valor para el parámetro, el sistema automáticamente definirá el valor: "N" (No). |
 |  283  |                                         ID del servicio de solicitud de información sobre una solicitud ya existente.                                        |         S o N        | Informar el número de identificación (ID) del servicio de solicitud, el cual se utilizará para lanzar la solicitud hija referente a la visualización de información de una solicitud ya existente. |                                              No se aplica                                              |
                                             |
-
+                                            
 Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/28/2019 – Larissa Lourenço
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço  
