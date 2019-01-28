@@ -56,7 +56,7 @@ Uso
 
 - [Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-- [Register continuity plan](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
+- [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
 - [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
