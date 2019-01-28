@@ -380,7 +380,8 @@ Criando alias novo com DNS (exemplo itsm.citsmart.com):
     ```
 
     !!! info
-        Lembre-se de aplicar as permissões para o dono do wildfly e java jdk chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+    Lembre-se de aplicar as permissões para o dono do wildfly e java jdk chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+
 
 2. Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
     
