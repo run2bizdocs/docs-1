@@ -50,10 +50,8 @@ Perguntas Frequentes - FAQ
     
     1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;
     2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
-    3. Realize o desenho;
-    4.  Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Apoio/Técnico: Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;  
-    5. A tela para projetar os ativos que compõem o Serviço de Apoio/Técnico será apresentada;
-    6. Realize o desenho.
+    3. Realize o desenho.
+    
     
 ??? Question "Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?"
     
