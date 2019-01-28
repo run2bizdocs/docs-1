@@ -354,34 +354,23 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 
 **For GED:**
 
-	
-    ```sh
 	mkdir -p /opt/citsmart/ged
-    ```
 	
 **For Knowledge Base:**
 
-    ```sh
     mkdir /opt/citsmart/kb
-    ```
 	
 **For Twin Words:**
 
-    ```sh
     mkdir /opt/citsmart/twinwords
-    ```
-	
+
 **For Attachments of Knowledge Base:**
 
-    ```sh
     mkdir /opt/citsmart/attachkb
-    ```
 
 **For Upload:**
 
-    ```sh
     mkdir /opt/citsmart/upload
-    ```
 
 ## Generate certification SSL Self-Signed
 
