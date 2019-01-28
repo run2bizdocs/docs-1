@@ -396,25 +396,25 @@ Criando alias novo com DNS (exemplo itsm.citsmart.com):
 
 1. Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
 
-**Servidor de Banco de Dados PostgreSQL**:
+    **Servidor de Banco de Dados PostgreSQL**:
 
     ```sh
     systemctl postgresql start
     ```
 
-**Servidor de Banco de Dados MongoDB**
+    **Servidor de Banco de Dados MongoDB**
 
     ```sh
     /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod --auth --port 27017
     ```
 
-**Servidor de Indexação Apache Solr**
+    **Servidor de Indexação Apache Solr**
 
     ```sh
     su solr /opt/solr/bin/solr start -s /bin/bash
     ```
 
-**Servidor de Aplicação Wildfly**
+    **Servidor de Aplicação Wildfly**
 
     ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
@@ -438,8 +438,8 @@ Deploy do CITSmart Enterprise
 
 1. Para acessar o CITSmart Enterprise, devemos acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
 
-    ```html
-    Exemplo de URL: https://itsm.citsmart.com:8443/citsmart
+    ```sh
+    https://itsm.citsmart.com:8443/citsmart
     ```
 !!! info
     O contexto "citsmart" é o padrão do CITSmart Enterprise.
