@@ -1,23 +1,23 @@
-title: Cadastrar localidade
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados
-#Cadastrar localidade
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados, podendo ser o nome da unidade, cidade, nome do órgão etc.
+title:  Registrar localidade 
+Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones 
+#Registrar localidade
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones en los que se asignan los solicitantes de servicios, pudiendo ser el nombre de la unidad, ciudad, nombre del órgano, etc.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Localidade;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Localidad;
 
-2.  Preencher o campo disponibilizado;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNFxIQxcRXE47dvh_IXv3Jd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROwgzOQev5pGYCVesY4iH8v)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Larissa Lourenço
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
 
 
