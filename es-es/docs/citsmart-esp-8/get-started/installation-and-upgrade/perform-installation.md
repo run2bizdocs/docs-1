@@ -305,7 +305,7 @@ PostgreSQL*.
     /subsystem=logging/root-logger=ROOT:write-attribute(name=level,value=INFO) /subsystem=logging/console-handler=CONSOLE:write-attribute(name=level,value=INFO) /subsystem=undertow/server=default-server/http-listener=default:write-attribute(name=max-post-size,value="5000485760") /subsystem=undertow/server=default-server/http-listener=default:write-attribute(name=max-parameters,value="3000") /subsystem=undertow/server=default-server/http-listener=default:write-attribute(name=max-header-size,value="65535") /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-post-size,value="5000485760") /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-header-size,value="65535") /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-parameters,value="3000") /subsystem=undertow/configuration=filter/rewrite=citsmart:add(target="/citsmart") /subsystem=undertow/server=default-server/host=default-host/filter-ref=citsmart:add(predicate="regex('\^/?\$') and equals(/citsmart)") /subsystem=undertow/server=default-server/host=default-host/setting=access-log:add /subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \\"%r\\" %s %b \\"%{i,Referer}\\" \\"%{i,User-Agent}\\"") /subsystem=messaging-activemq/server=default/jms-queue=filaDocumentoQueue:add(entries=["queue/filaDocumento","java:jboss/exported/jms/queue/filaDocumento"]) /subsystem=messaging-activemq/server=default/jms-topic=filaDocumentoTopic:add(entries=["topic/filaDocumento","java:jboss/exported/jms/topic/filaDocumento"]) /subsystem=messaging-activemq/server=default/jms-queue=neuroInputQueue:add(entries=["queue/neuroInputQueue","java:jboss/exported/jms/queue/queue/neuroInputQueue"]) /subsystem=messaging-activemq/server=default/jms-queue=neuroOutputQueue:add(entries=["queue/neuroOutputQueue","java:jboss/exported/jms/queue/queue/neuroOutputQueue"]) /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
     ```
     
-Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+    Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -375,7 +375,7 @@ Caso você possua um certificado é importante utilizá-lo.
 
 Criando alias novo com DNS (exemplo itsm.citsmart.com): 
     
-	```sh
+    ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): \# /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 Exportando certificado para extensão .cer: \# /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer Adicionando certificado no cacerts do Java: \# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
@@ -443,6 +443,7 @@ Criando alias novo com DNS (exemplo itsm.citsmart.com):
     ```sh
     https://itsm.citsmart.com:8443/citsmart
     ```
+	
 !!! info
     O contexto "citsmart" é o padrão do CITSmart Enterprise.
 
