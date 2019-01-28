@@ -1,83 +1,85 @@
-title: Construir e manter relatórios Smart - V. 8.0
-Description: Tem o objetivo de prover a facilidade de elaboração de relatórios personalizados com os dados das funcionalidades requeridas, sem necessidade de novas atualizações ou softwares adicionais.
-#Construir e manter relatórios Smart - V. 8.0
+title: Construir y mantener informes Smart - V. 8.0
+Description: Proveer la facilidad de elaboración de informes personalizados con los datos de las funcionalidades requeridas, sin necesidad de nuevas actualizaciones o software adicional.
+#Construir y mantener informes Smart - V. 8.0
 
-Esta funcionalidade tem o objetivo de prover a facilidade de elaboração de
-relatórios personalizados com os dados das funcionalidades requeridas, sem
-necessidade de novas atualizações ou softwares adicionais.
 
-Antes de começar
+Esta funcionalidad tiene el objetivo de proveer la facilidad de elaboración de
+informes personalizados con los datos de las funcionalidades requeridas, sin
+necesidad de nuevas actualizaciones o software adicional.
+
+Antes de empezar
 --------------------
 
-É necessário o cadastro prévio de sub relatórios.
+Es necesario tener registrado sub informes.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Relatórios Smart \> Gerador de Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Generador de
+    Informes Smart;
 
-2-  Clicar no botão "Novo";
+2.  Hacer clic en "Nuevo";
 
-3-  Preencher os campos necessários. Definir o tipo:
+3.  Completar los campos necesarios. Definir el tipo:
 
-   +  SQL: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
-      retornam as informações do Banco de dados através de uma Query). Ao
-      selecionar esta opção, será necessário informar também o tipo de
-      relatório a ser criado, a regra de negócio concernente ao mesmo, o
-      designer do relatório, o parâmetro e o script;
+    1.  SQL: crea un Sub Informe "SQL" (este tipo permite crear informes que
+        devuelven la información de la Base de datos a través de una consulta).
+        Al seleccionar esta opción, será necesario informar también el tipo de
+        informe que se va a crear, la regla de negocio correspondiente, el
+        diseñador del informe, el parámetro y el script;
 
-   +  RhinoScript: para criar um relatório que retorna as informações do Banco
-      de dados através de um "Script" é necessário selecionar o tipo
-      "RhinoScript". Será preciso eleger o tipo de relatório, definir os
-      parâmetros e descrever o script;
+    2.  RhinoScript: crea un informe que devuelve la información de la base de
+        datos a través de un "script" es necesario seleccionar el tipo
+        "RhinoScript". Es necesario elegir el tipo de informe, definir los
+        parámetros y describir el script;
 
-   +  JSP: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
-      deverá informar os parâmetros e o script "JSP";
+    3.  JSP: crea un informe con contenido dinámico, el tipo elegido debe ser el
+        "JSP". Al optar por este tipo, deberá informar los parámetros y el
+        script "JSP";
 
-   +  Neuro: cria um relatório do tipo "Neuro", basta vincular um formulário
-      "Neuro" previamente cadastrado.
+    4.  Neuro: crea un informe del tipo "Neuro", basta enlazar un formulario
+        "Neuro" previamente registrado.
 
 !!! Abstract "NOTA"
 
-    Para se criar um Sub Relatório (Drill) o " Tipo de relatório" deverá ser
-    "Gráfico de pizza" ou " Gráfico de Barra".**
+    Para crear un Sub Informe ("Drill) el" Tipo de informe "debe ser"
+    Gráfico de pizza "o" Gráfico de barra".
 
+1.  Definir el módulo (funcionalidad) donde se muestra el informe que se está
+    creando:
 
-4-  Definir o módulo (funcionalidade) onde será exibido o relatório que está
-    sendo criado:
+-   **N/A**: seleccionar esta opción si desea que el informe no aparezca en
+    ningún módulo;
 
-  +   **N/A**: selecionar essa opção, caso queira que o relatório não seja exibido
-      em nenhum módulo;
+-   **General**: seleccionar esta opción para ver el informe en uno o más
+    módulos, donde desea que el informe aparezca (Configuración,
+    Incidentes/Solicitudes (gráfico), Incidentes/Solicitudes, Liberación,
+    Cambios, Problemas);
 
-  +   **Geral**: selecionar essa opção para exibição do relatório em um ou mais
-      módulos, onde deseja que o relatório seja exibido ( Configuração,
-      Incidentes/Requisições, Incidentes/Requisições (Gráfico), Liberação,
-      Mudanças, Problemas);
+-   **Específico**: seleccionar un solo módulo donde desea que el informe
+    aparezca (Configuración, Incidentes/Solicitudes (gráfico),
+    Incidentes/Solicitudes, Liberación, Cambios, Problemas).
 
-  +   **Específico**: selecione um único módulo onde deseja que o relatório seja
-      exibido (Configuração, Incidentes/Requisições, Incidentes/Requisições
-      (Gráfico), Liberação, Mudanças, Problemas).
+1.  Hacer clic en "Guardar";
 
-5-  Clicar no botão "Gravar";
+2.  También existe la posibilidad de importar un informe. Para intentar, haga
+    clic en "Importar" y vincular el archivo conteniendo la información que
+    quiera;
 
-6-  Existe a possibilidade também de importar um "Relatório". Para tanto, clicar
-    no botão "Importar" e vincular o arquivo contendo as informações desejadas;
+!!! Abstract "ATENCIÓN"
 
+    Los informes aquí creados aparecerán en la pantalla de "Informes Smart",
+    donde podrá ver los datos pertinentes de cada informe.
 
-!!! Abstract "ATENÇÃO"
-
-    Os relatórios aqui criados serão exibidos na tela de "Relatórios Smart",
-    onde será possível visualizar os dados pertinentes de cada relatório.
 
 
 Relacionado
 -------
 
-[Gerar relatórios Smart](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Gerar relatórios Smart](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/88/2019 – Anna Martins
