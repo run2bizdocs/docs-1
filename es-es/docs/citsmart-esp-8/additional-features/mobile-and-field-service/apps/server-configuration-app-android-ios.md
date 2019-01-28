@@ -61,7 +61,7 @@ abaixo:
 Figura 1 - Certificado intermedio de GlobalSign
 
 3-  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
-    en *Siguiente*.
+    en "Siguiente".
 
 4-  En el escritorio: haga clic con el botón derecho en el certificado
     descargado (como figura abajo), haga clic en instalar certificado y avanzar
@@ -152,33 +152,33 @@ Las siguientes son las API de Google que se deben considerar en las soluciones:
 
 Figura 7 - APIs
 
--   **Direcciones API: **la API de direcciones de Google se consume mediante
+-   **Direcciones API**: la API de direcciones de Google se consume mediante
     solicitudes HTTP. Tal API calcula direcciones entre dos puntos informados,
     el origen y el destino, poseyendo otras diversas opciones. Para más
     información sobre el uso de esta API, acceda
     a: <https://developers.google.com/maps/documentation/directions>.
 
--   **Distance Matrix API:** la API Google Distance Matrix permite la
+-   **Distance Matrix API**: la API Google Distance Matrix permite la
     recuperación de matrices de distancias entre dos puntos, es decir, devuelve
     también un resultado aproximado. La diferencia para la API de Google API es
     que Distance Matrix no devuelve información tan detallada como los pasos a
     realizar. Para más información sobre el uso de esta API, acceda
     a: <https://developers.google.com/maps/documentation/distancematrix>.
 
--   **Geocoding API: **Google Geocoding API es una API que ayuda a recuperar
+-   **Geocoding API**: Google Geocoding API es una API que ayuda a recuperar
     posiciones geográficas enviando como argumento una dirección por extenso. El
     consume de la API es hecho por HTTP y los resultados se pueden obtener en
     XML o JSON. Para más información sobre el uso de esta API, acceda
     a:<https://developers.google.com/maps/documentation/geocoding>.
 
--   **Statics Maps API: **la API para mapas estáticos de Google se utilizará en
+-   **Statics Maps API**: la API para mapas estáticos de Google se utilizará en
     casos que no será necesaria la interacción como mapa, sólo visualización. Es
     interesante su uso ya que es más ligero, ya que no es necesario descargar
     recursos JS e imágenes que no serán utilizadas. Para más información sobre
     el uso de esta API, acceda
     a: <https://developers.google.com/maps/documentation/staticmaps>.
 
--   **Google Maps JavaScript API: **el uso de la API se realiza a través de una
+-   **Google Maps JavaScript API**: el uso de la API se realiza a través de una
     API JS. Para su uso, basta con enlazar el JS en la página que utilizará los
     mapas. Para más información sobre el uso de esta API, acceda
     a:<https://developers.google.com/maps/documentation/javascript>.
@@ -202,7 +202,7 @@ Figura 8 - APIs Google
 
 3-  Se mostrará la biblioteca de API. Seleccione la API que desea activar (la
     siguiente figura representa un ejemplo de API) y haga clic en el
-    botón *Habilitar* API como se indica en la figura siguiente:
+    botón "Habilitar" API como se indica en la figura siguiente:
 
 
 ![Ativação](images/android-ios-9.jpg)
@@ -215,9 +215,9 @@ Figura 9 - Activación de API de Google
 Relacionado
 -----------
 
-[Configurar parametrização – mobile](/es-es/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configurar parametrización – móvil](/es-es/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
-[Configurar parametrização - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
 [Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
