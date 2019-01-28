@@ -1,35 +1,35 @@
-title: Cadastrar uma unidade
-Description: Tem por objetivo registrar as unidades onde os colaboradores estão alocados. 
-#Cadastrar uma unidade
-Esta funcionalidade tem por objetivo registrar as unidades onde os colaboradores estão alocados.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma unidade.
+title: Registrar unidad
+Description: Tiene por objetivo registrar las unidades donde los colaboradores están asignados.
+#Registrar unidad
+Esta funcionalidad tiene por objetivo registrar las unidades donde los colaboradores están asignados.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una unidad.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O cadastro de uma unidade precede da realização da carga de países e da
-configuração dos parâmetros 254 e 331.
+El registro de una unidad precede de la realización de la carga de países y de
+la configuración de los parámetros 254 y 331.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Unidade;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Unidad;
 
-2.  Preencher os campos necessários;
+2.  Completar los campos necesarios;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Carregar países](/pt-br/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
+[Cargar países](/es-es/citsmart-esp-8/platform-administration/region-and-language/load-countries.html)
 
-[Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNFxIQxcRXE47dvh_IXv3Jd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROwgzOQev5pGYCVesY4iH8v)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Larissa Lourenço
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
