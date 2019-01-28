@@ -1,22 +1,20 @@
-title: Cadastrar jornadas de trabalho
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir a jornada de trabalho da organização.
-#Cadastrar jornadas de trabalho
+title: Registrar jornadas de trabajo
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar la jornada de trabajo de la organización.
+#Registrar jornadas de trabajo
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar la jornada de trabajo de la organización.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir a jornada de trabalho da organização.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Jornada de Trabajo;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Jornada de Trabalho;
+2.  Completar los campos disponibles;
 
-2.  Preencher os campos disponibilizados;
-
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
 
