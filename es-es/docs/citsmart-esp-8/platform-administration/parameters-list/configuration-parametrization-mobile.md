@@ -31,7 +31,7 @@ Procedimiento
 |  352  |                     Habilita el envío de notificaciones para móviles durante la creación de solicitudes                    |  S o N (Default: N)  |                                                                                                     Permite controlar si las notificaciones del sistema se envían a dispositivos móviles (generales).                                                                                                    |            No se aplica           |
 |  353  | Habilita el envío de notificaciones para móviles durante la actualización de solicitudes informando atendimientos cercanos |  S o N (Default: N)  |                                                                                                     Permite controlar si las notificaciones del sistema se envían a dispositivos móviles (generales).                                                                                                    |            No se aplica           |
 
-**Tabla 1 - Lista de parámetros**
+Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
