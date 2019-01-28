@@ -1,133 +1,136 @@
-title: Relatório do custo de indisponibilidade do serviço
-Description: Verificar o relatório que demonstra o custo por hora de indisponibilidade de um serviço.
-#Relatório do custo de indisponibilidade do serviço
+title: Informe del custo de indisponibilidad del servicio
+Description: Verificar el informe que demuestra el costo por hora de indisponibilidad de un servicio.
+#Informe del custo de indisponibilidad del servicio
 
-Este conhecimento tem por objetivo verificar o relatório que demonstra o custo
-por hora de indisponibilidade de um serviço, onde:
 
- +   Tempo Disponível: tempo (dentro da jornada de trabalho) que os incidentes do
-    serviço ficaram disponíveis no período;
+Este conocimiento tiene por objetivo verificar el informe que demuestra el costo
+por hora de indisponibilidad de un servicio, donde:
 
- +   Tempo Indisponibilidade: tempo em horas (dentro da jornada de trabalho) que
-    os incidentes do serviço ficaram indisponíveis no período;
+-   Tiempo Disponible: tiempo (dentro de la jornada de trabajo) que los
+    incidentes del servicio quedará disponible en el período;
 
- +   Número de quedas: quantidade de incidentes do serviço;
+-   Tiempo Indisponibilidad: tiempo en horas (dentro de la jornada de trabajo)
+    que los incidentes del servicio quedarán indisponibles en el período;
 
- +   MTBSI = Tempo disponivel / Nºde quedas;
+-   Número de caídas: cantidad de incidentes del servicio;
 
- +   MTBF = (Tempo disponivel - Tempo Indisponibilidade) / Nº de Quedas;
+-   MTBSI = Tiempo disponible / Nºde caídas;
 
- +   MTRS = Tempo Indisponibilidade / Nº de quedas.
+-   MTBF = (Tiempo disponible - Tiempo Indisponibilidad) / Nº de Caídas;
 
-Antes de começar
+-   MTRS = Tiempo Indisponibilidad / Nº de caídas.
+
+Antes de empezar
 --------------------
 
-No porfólio de serviços um serviço deverá ter o atributo **Incidente** com o
-campo "Causa indisponibilidade" setado igual a "SIM".
+En el portafolio de servicios, un servicio deberá tener el
+atributo **Incidente** con el campo "Causa indisponibilidad" establecido igual a
+"SÍ".
 
-No atributo **Contrato** do serviço escolhido, o incidente deverá está
-vinculado, assim como definir o Custo de Indisponibilidade, o Acordo de
-Disponibilidade e também vincular o Calendário.
+En el atributo **Contrato** del servicio elegido, el incidente deberá estar
+vinculado, así como definir el Costo de Indisponibilidad, el Acuerdo de
+Disponibilidad y también vincular el Calendario.
 
-O relatório disponibilizado via anexo deverá ser importado no Gerador de
-Relatório Smart.
+El informe, disponible a través de los datos adjuntos, se debe importar en el
+Generador de informes Smart.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-*Passo 1*
+*Paso 1*
 
-1.  Acessar Relatórios \> Relatórios Smart \> Gerador de Relatórios Smart;
+1.  Acceder el menú Informes \> Informes Smart \> Generador de Informes Smart;
 
-2.  Clicar em no botão "Importar";
+2.  Hacer clic en "Importar";
 
-3.  Selecionar o arquivo disponibilizado (anexo) e clicar em "Abrir";
+3.  Seleccionar el archivo disponible (adjunto) y hacer clic en "Abrir";
 
-4.  Na página de listagem de relatórios, clicar no botão "Editar" do relatório
+4.  En la página de lista de informes, hacer clic en "Editar" del informe
     importado;
 
-5.  Selecionar a opção *N/A* no campo **Módulo(s) onde será exibido** e definir
-    o(s) grupo(s);
+5.  Seleccionar la opción *N/A* en el campo Módulo (s) donde se
+    visualizará y definir el(los) grupo(s);
 
-6.  Clicar no botão "Gravar".
+6.  Hacer clic en "Guardar".
 
-*Passo 2*
+*Paso 2*
 
-1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
-    Porfólio;
+1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
+    Portafolio;
 
-2.  Escolher o portfólio desejado e clicar em "Avançar";
+2.  Elegir un portafolio y hacer clic en "Avanzar";
 
-3.  Escolher o serviço desejado e clicar em "Avançar";
+3.  Elegir un servicio y hacer clic en "Avanzar";
 
-4.  Clicar no atributo **Incidentes**, em seguida no botão "Novo Incidente" (o
-    campo "Tipo de Demanda" deverá ser Incidente, assim como o campo "Causa
-    Indisponibilidade" deverá ser "SIM");
+4.  Hacer clic en el atributo **Incidentes**, después en "Nuevo Incidente" (el
+    campo "Tipo de Demanda" deberá ser Incidente, así como el campo "Causa
+    Indisponibilidad" deberá ser "SI");
 
-5.  Clicar em "Gravar";
+5.  Hacer clic en "Guardar";
 
-6.  Clicar no botão "Vincular Incidente" e vincular o incidente criado
+6.  Hacer clic en "Vincular Incidente" y vincular el incidente creado
     anteriormente.
 
-*Passo 3*
+*Paso 3*
 
-1.  Clicar no atributo **Contratos** do serviço;
+1.  Hacer clic en el atributo **Contratos** del servicio;
 
-2.  Selecionar o contrato desejado e clicar em "Avançar";
+2.  Seleccionar un contrato y hacer clic en "Avanzar";
 
-3.  Clicar no atributo **Incidentes** do contrato e em seguida no botão
-    "Vincular Incidente";
+3.  Hacer clic en el atributo** Incidentes** del contrato y después en "Vincular
+    Incidente";
 
-4.  Preencher os campos disponibilizados adicionando também o incidente criado
+4.  Completar los campos disponibles, agregando también el incidente creado
     anteriormente;
 
-5.  Clicar em "Gravar";
+5.  Hacer clic en "Guardar";
 
-6.  Clicar no atributo **Custo de Indisponibilidade**, definir o valor e clicar
-    em "Gravar";
+6.  Hacer clic en el atributo **Custo de Indisponibilidad**, definir el valor y
+    hacer clic en "Guardar";
 
-7.  Clicar no atributo **Acordo de Disponibilidade**, clicar no botão "Vincular
-    Acordo de Disponibilidade e definir um SLA;
+7.  Hacer clic en el atributo **Acuerdo de Disponibilidad**, hacer clic en
+    "Vincular Acuerdo de Disponibilidad y definir un SLA;
 
-8.  Clicar no atributo **Calendário**, clicar no botão "Vincular Calendário" e
-    definir um calendário.
+8.  Hacer clic en el atributo **Calendario**, hacer clic en "Vincular
+    Calendário" y definir un calendário.
 
-O que fazer a seguir
---------------------
+Lo que hacer después
+------------
 
-Acessar o painel gerencial no Smart Portal, adicionar o relatório importado
-previamente, definir as datas e checar o relatório.
+Acceder al panel de administración en el Smart Portal, agregar el informe
+importado previamente, definir las fechas y comprobar el informe.
 
-O relatório também poderá ser visualizado em Relatórios Smart.
+El informe también se puede ver en Informes Smart.
+
 
 
 Relacionado
 -----------
 
-[Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar serviço](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configurar atributos del contrato de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Acordo de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel gerencial (Smart Decision)](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-[Gerar relatórios Smart](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Visualizar informes Smart](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
-[Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Construir y mantener informes Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 Anexo
 -----
-[Download-Confiabilidade][1]
+[Download-Confiabilidad][1]
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/additional-features/reports/use/images/confiabilidade.citreport
+[1]:/es-es/citsmart-esp-8/additional-features/reports/use/images/confiabilidade.citreport
