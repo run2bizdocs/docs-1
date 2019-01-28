@@ -37,7 +37,7 @@ Use
 
 - [Verify configuration item history](/en-us/citsmart-esp-8/processes/configuration/use/CI-history.html)
 
-- Verify execution status of CI inventory
+- [Verify execution status of CI inventory](/en-us/citsmart-esp-8/processes/configuration/use/verify-status-inventory.html)
 
 - [Verify configuration item captured by Inventory (agent)](/en-us/citsmart-esp-8/processes/configuration/use/CI-captured-by-inventory.html)
 
