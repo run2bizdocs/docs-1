@@ -22,6 +22,8 @@ Uso
 
 - [Cadastrar atividade de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
+- [Gerenciar minhas solicitações pelo Smart Portal](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+
 Configuração
 -----------------
 

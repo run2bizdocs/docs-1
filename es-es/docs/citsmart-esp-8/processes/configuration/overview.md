@@ -63,7 +63,7 @@ Configuración
 
 - [Registrar tipo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-type-ic.html)
 
-Relatóro
+Informe
 ----------
 
 - [Generar informes - Gestión de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/generate-report-configuration-management.html)
