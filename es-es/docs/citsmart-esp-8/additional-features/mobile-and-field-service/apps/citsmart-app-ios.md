@@ -338,7 +338,7 @@ Figura 14 - Pantalla de registro de nueva solicitud (continuación)
     solicitud: **Registrada En curso**.
 
 
-##### Aprobando/rechazando solicitud de servicio
+#### Aprobando/rechazando solicitud de servicio
 
 Algunas solicitudes necesitan aprobación, por lo tanto, para atenderlas es
 necesario aprobarlas.
