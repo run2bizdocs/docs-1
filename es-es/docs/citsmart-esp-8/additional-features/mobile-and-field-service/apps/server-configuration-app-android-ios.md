@@ -221,7 +221,7 @@ Relacionado
 
 [Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 
 
