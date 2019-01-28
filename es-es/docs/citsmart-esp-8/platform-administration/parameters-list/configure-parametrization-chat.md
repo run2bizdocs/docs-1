@@ -1,41 +1,33 @@
-title: Configurar parametrização - chat
-Description: Permite o usuário ter contato direto ao atendente do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros.
-#Configurar parametrização - chat
+title:  Configurar parametrización – chat 
+Description: Los parámetros de esta aplicación permiten activar el chat 
+#Configurar parametrización – chat
+El concepto de "Chat" se utiliza para hacer alusión al intercambio de mensajes escritos de forma instantánea. En este caso, permite al usuario tener contacto directo al asistente del sistema a fin de dirimir dudas, hacer solicitudes, entre otros. Los parámetros de esta aplicación permiten activar el chat, definir el contrato estándar para la apertura de llamados y ajustar el grupo predeterminado, dentro de otras acciones.
 
-A noção de "Chat" é usada para fazer alusão à troca de mensagens escritas de
-forma instantânea. Neste caso, permite o usuário ter contato direto ao atendente
-do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros. Os
-parâmetros desta aplicação permitem ativar o chat, definir o contrato padrão
-para abertura de chamado e ajustar o grupo padrão, dentro de outras ações.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Parametrización \> Chat;
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Chat;
+2.  Definir los valores de los parámetros (atributos);
 
-2.  Definir os valores dos parâmetros (atributos);
+3.  Hacer clic en "Guardar";
 
-3.  Clicar no botão "Gravar" para efetuar a operação;
+4.  La lista siguiente muestra los parámetros de la funcionalidad "Chat" y la
+    finalidad de cada uno de ellos.
 
-4.  A lista abaixo apresenta os parâmetros da funcionalidade "Chat" e a
-    finalidade de cada um deles.
+| **#** |                         **Nombre**                        | **Valores posibles** |                       **Finalidad**                       | **Orientaciones complementarias** |
+|:-----:|:---------------------------------------------------------:|:--------------------:|:---------------------------------------------------------:|:---------------------------------:|
+|  118  |        ID del contrato estandár de apertura llamada       |                      |     ID del contrato estándar para apertura de llamados    |            No se aplica           |
+|  315  |    ID de origen de las solicitudes creadas por el chat    |                      |    ID de origen de las solicitudes creadas por lo chat    |            No se aplica           |
+|  316  |                        Activar Chat                       |         S o N        |                                                           |            No se aplica           |
+|  317  | ID de la actividad de las solicitudes creadas por el chat |                      | ID de la actividad de las solicitudes creadas por lo chat |            No se aplica           |
+|  388  |      ID de usuario predeterminado (solicitud externa)     |                      |        ID del usuario estándar (Solicitud externa)        |            No se aplica           |
+|  389  |       ID de grupo predeterminado (solicitud externa)      |                      |         ID del grupo estándar (Solicitud externa)         |            No se aplica           |
+|  390  |                ID de unidad predeterminada                |                      |                  ID de la unidad estándar                 |            No se aplica           |
 
-|  #  |                        Nome                        | Valores possíveis |                     Finalidade                     | Orientações complementares |
-|:---:|:--------------------------------------------------:|:-----------------:|:--------------------------------------------------:|:--------------------------:|
-| 118 |   ID do contrato padrão para abertura de chamados  |                   |   ID do contrato padrão para abertura de chamados  |        Não se aplica       |
-| 315 |   ID da origem das solicitações criadas pelo chat  |                   |   ID da origem das solicitações criadas pelo chat  |        Não se aplica       |
-| 316 |                     Ativar Chat                    |       S ou N      |                     Ativar Chat                    |        Não se aplica       |
-| 317 | ID da atividade das solicitações criadas pelo chat |                   | ID da atividade das solicitações criadas pelo chat |        Não se aplica       |
-| 388 |       ID usuário padrão (Requisição externa)       |                   |       ID usuário padrão (Requisição externa)       |        Não se aplica       |
-| 389 |        ID grupo padrão (Requisição externa)        |                   |        ID grupo padrão (Requisição externa)        |        Não se aplica       |
-| 390 |                ID da unidade padrão                |                   |                ID da unidade padrão                |        Não se aplica       |
-
-
-
-Tabela 1 - Lista de parâmetros
+Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
