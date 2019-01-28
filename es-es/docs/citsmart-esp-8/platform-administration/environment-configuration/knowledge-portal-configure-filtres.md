@@ -1,24 +1,20 @@
-title: Configurar filtros do Portal do Conhecimento
-Description: configurar os filtros que irão aparecer habilitados para pesquisa de um conhecimento no Portal do Conhecimento.
-#Configurar filtros do Portal do Conhecimento
+title: Configurar filtros del portal del conocimiento
+Description: Tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
+#Configurar filtros del portal del conocimiento
+Esta funcionalidad tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
 
-Esta funcionalidade tem por objetivo configurar os filtros que irão aparecer
-habilitados para pesquisa de um conhecimento no Portal do Conhecimento.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Configuración \> Portal
+    del Conocimiento \> Configuración de los Filtros del Portal de Conocimiento;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Configurações \> Portal do Conhecimento \> Configuração de Filtros do Portal
-    do Conhecimento;
+2.  Seleccionar los filtros y el orden que se desea que se presenten en el
+    Portal del Conocimiento;
 
-2.  Selecionar os filtros e a ordem que se deseja que sejam apresentados no
-    Portal do Conhecimento;
-
-3.  Clicar no botão "Gravar".
-
+3.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
