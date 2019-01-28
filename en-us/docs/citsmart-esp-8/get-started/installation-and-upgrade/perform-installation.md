@@ -441,7 +441,7 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
     [standalone@localhost:9990 /] :reload
     ```
 
-### Starting solutions following dependecies
+## Starting solutions following dependecies
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
@@ -471,7 +471,7 @@ CITSmart Enterprise Deployment
 
 2. Do the CITSmart Neuro deployment after finish the steps in section "CITSmart Neuro Deployment".
 
-### Access CITSmart Enterprise
+## Access CITSmart Enterprise
 
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
