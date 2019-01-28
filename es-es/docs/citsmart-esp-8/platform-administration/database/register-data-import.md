@@ -1,40 +1,35 @@
-title: Cadastrar importação de dados
-Description: Realizar a importação de dados de uma outra base de dados para base de dados do CITSmart.
-#Cadastrar importação de dados
+title: Registrar importación de datos
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar la importación de datos.
+#Registrar importación de datos
+El propósito de esta funcionalidad es realizar la importación de datos desde otra base de datos a la base de datos de CITSmart.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar la importación de datos.
 
-A finalidade desta funcionalidade é realizar a importação de dados de uma outra
-base de dados para base de dados do CITSmart.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir a importação de dados.
-
-Antes de começar
---------------------
-
-Para realizar a importação de dados é necessário ter conhecimento sobre
-programação e banco de dados, além de ter uma conexão externa cadastrada.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Importação e Carga de Dados \> Importação de Dados;
+Para importar los datos, es necesario tener conocimiento acerca de programación
+y base de datos, además de tener la conexión externa registrada.
 
-2-  Dependendo da forma de importação escolhida no campo Importar por, serão
-    disponibilizados campos diferentes;
+Procedimiento
+-------------
 
-3-  Clicar no botão "Executar Rotina" para execução da importação de dados;
+1.  Acceder al menú principal Sistema \> Importación y Carga de Datos \>
+    Importar Datos;
 
-4-  Clicar no botão "Gravar".
+2.  Dependiendo de la forma de importación elegida en el campo Importar por,
+    estarán disponibles campos diferentes;
 
+3.  Hacer clic en "La Rutina de Ejecución" pra importar los datos;
+
+4.  Hacer clic en "Guardar".
 
 Relacionado
 -------
 
-[Cadastrar conexões externas](/pt-br/citsmart-esp-8/platform-administration/database/register-external-connections.html)
+[Registrar conexiones externas](/es-es/citsmart-esp-8/platform-administration/database/register-external-connections.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço

@@ -1,18 +1,18 @@
-title:  Carregar metadados 
-Description: Tem o objetivo de carregar as informações de tabelas do banco de dados.
-#Carregar metadados
-Esta funcionalidade tem o objetivo de carregar as informações de tabelas do banco de dados.
+title:  Cargar metadatos 
+Description: tiene el objetivo de cargar la información de tablas de la base de datos.
+#Cargar metadatos
+Esta funcionalidad tiene el objetivo de cargar la información de tablas de la base de datos.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Visões e Meta dados \> Carrega Metadados;
+1.  Acceder al menú principal Sistema \> Visiones y Meta Datos \> Carga Meta
+    Datos;
 
-2.  Informar o nome da tabela ou para exibir a lista completa de todas, clicar
-    no botão "Carregar".
+2.  Informar el nombre de la tabla o para presentar la lista completa de todas,
+    hacer clic en "Cargar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 -Larissa Lourenço
+    <b>Updated:</b>01/28/2019 -Larissa Lourenço

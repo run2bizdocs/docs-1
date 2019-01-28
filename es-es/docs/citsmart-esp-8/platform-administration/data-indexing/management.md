@@ -1,49 +1,40 @@
-title: Indexar conhecimentos
-Description: Tem por objetivo criar índices, ou seja, conhecer o conteúdo dos conhecimentos publicados na base de conhecimento, identificando termos que representem seu assunto, para referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
-#Indexar conhecimentos
+title:  Indexar conocimientos 
+Description: Al publicar nuevos conocimientos, no es necesario quitar la indexación actual e indizar de nuevo, el procedimiento es automático.
+#Indexar conocimientos
+La funcionalidad de Indexación de Conocimientos tiene por objetivo crear índices, es decir, conocer el contenido de los conocimientos publicados en la base de conocimiento, identificando términos que representen su asunto, para referenciarlos y garantizar un retorno preciso del conocimiento, cuando se lo busca.
+Se indexará la cantidad de conocimientos según se configura en el parámetro "Total de elementos que se importan a la vez al indizar documentos en el Solr (Ej: 1000)".
+Al publicar nuevos conocimientos, no es necesario quitar la indexación actual e indizar de nuevo, el procedimiento es automático.
 
-A funcionalidade de Indexação de Conhecimentos tem por objetivo criar índices,
-ou seja, conhecer o conteúdo dos conhecimentos publicados na base de
-conhecimento, identificando termos que representem seu assunto, para
-referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
-
-Será indexado a quantidade de conhecimentos conforme configurado no parâmetro
-“Total de itens a serem importados por vez ao indexar documentos no Solr (Ex:
-1000)".
-
-Ao publicar novos conhecimentos, não é necessário remover a indexação atual e
-indexar novamente, o procedimento é automático.
-
-Antes de começar
---------------------
-
-Para realizar a indexação de conhecimentos é preciso configurar previamente os
-parâmetros 304, 308 e 332, referentes ao conhecimento.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar o menu principal Sistema \> Configurações \> Gerência do
-    Conhecimento [Indexação];
+Para hacer la indexación de conocimientos, es necesario configurar previamente
+los parámetros 304, 308 y 332, referentes al conocimiento.
 
-2.  Clicar no botão "Indexar Base de Conhecimento" e confirmar a operação para
-    realizar a indexação dos conhecimentos publicados na Base de Conhecimento.
-    Após isso, serão exibidos os conhecimentos que foram indexados;
+Procedimiento
+-------------
 
-3.  Para remover a indexação dos conhecimentos, clicar no botão "Remover
-    Indexação de Base de Conhecimento" e confirmar a operação.
+1.  Acceder al menú Sistema \> Configuración \> Gestión del Conocimiento
+    (Indexación);
 
+2.  Clic en el botón "Indexar Base de Conocimiento" y confirmar la operación
+    para realizar la indexación de los conocimientos publicados en la Base de
+    Conocimientos. Después de eso, se mostrarán los conocimientos que se han
+    indexado;
+
+3.  Para quitar la indexación de los conocimientos, haga clic en el botón
+    "Quitar Indexación de Base de Conocimiento" y confirmar la operación.
 
 Relacionado
 ----------
 
-[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
