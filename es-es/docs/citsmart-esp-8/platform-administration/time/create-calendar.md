@@ -1,35 +1,36 @@
-title:  Criar calendário
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho. 
-#Criar calendário
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho.
+title: Crear calendário
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo. 
+#Crear calendário
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para cadastrar um calendário é necessário o registro prévio do perfil de acesso
-e da jornada de trabalho.
+Para registrar un calendario, es necesario registro previo del perfil de acceso
+y de la jornada de trabajo.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Calendário;
+1.  Acceder al menú principal Registro Generales \> Gestión de Personal \>
+    Calendario;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Ao clicar no ícone de exceções “+”, será aberta uma janela onde poderão ser
-    inseridas as exceções para dias de folga ou trabalho;
+3.  Al hacer clic en el icono de excepciones “+”, se abrirá una ventana donde se
+    pueden insertar excepciones para días de descanso o trabajo;
 
-4.  Clicar em "Gravar".
+4.  Hacer clic en "Guardar".
+
 
 Relacionado
 -----------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Cadastrar jornadas de trabalho](/pt-br/citsmart-esp-8/platform-administration/time/create-working-day.html)
+[Registrar jornadas de trabajo](/es-es/citsmart-esp-8/platform-administration/time/create-working-day.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Larissa Lourenço
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
