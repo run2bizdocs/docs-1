@@ -63,7 +63,7 @@ Configuración
 
 - [Configurar conexión Inventory](/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
-Informes
+Informe
 -----------
 
 - [Generar informes - Gestión de eventos](/es-es/citsmart-esp-8/processes/event/configuration/generate-reports-event-management.html)
