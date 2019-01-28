@@ -12,14 +12,14 @@ El panel inicial se muestra en la pantalla principal del sistema. En este panel,
 Relacionado
 -------
 
-[Personalizar panel inicial][1]
+[Personalizar el panel gerencial (Smart Decision)][1]
 
-[Editar Informaciones de la Cuenta][2]
+[Editar Información de la cuenta][2]
 
 !!! tip "Sobre"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 – Renato Aragao
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html
+[1]:/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
+[2]:/es-es/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html
