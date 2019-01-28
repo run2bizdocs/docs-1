@@ -107,7 +107,7 @@ El informe también se puede ver en Informes Smart.
 Relacionado
 -----------
 
-[Registrar serviço](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
 [Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
