@@ -1,34 +1,26 @@
-title: Cadastrar item de domínio
-Description: Permitir a customização das opções do campo de uma determinada tela do sistema.
-#Cadastrar item de domínio
+title:  Registrar elemento de domínio 
+Description: Permite la personalización de las opciones del campo de una determinada pantalla del sistema
+#Registrar elemento de domínio
+La funcionalidad de Elementos de Dominio tiene por objetivo permitir la personalización de las opciones del campo de una determinada pantalla del sistema. Para utilizarla, deberá tener conocimiento sobre la codificación del sistema.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un elementos de dominio.
 
-A funcionalidade de Itens de Domínio tem por objetivo permitir a customização
-das opções do campo de uma determinada tela do sistema. Para utilizar a mesma,
-deverá ter conhecimento sobre a codificação do sistema.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir item de domínio.
-
-Antes de começar
---------------------
-
-O registro de item de domínio requer o cadastro do domínio previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Domínios \> Itens de Domínio;
+Es necesario tener registrado el dominio.
 
-2.  Clicar no botão "Novo";
+Procedimiento
+-------------
 
-3.  Preencher os campos disponibilizados;
+1.  Acceder al menú principal Sistema \> Dominios \> Ítems de Dominio;
 
-4.  Clicar em "Gravar".
+2.  Hacer clic en "Nuevo";
 
+3.  Completar los campos disponibles;
 
+4.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
