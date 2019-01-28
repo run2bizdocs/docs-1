@@ -1,39 +1,39 @@
-title: Definir a permissão de acesso para o gerenciamento de continuidade
-Description: Tem por objetivo definir quem terá acesso às funcionalidades do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
-#Definir a permissão de acesso para o gerenciamento de continuidade
+title: Definir permiso de acceso para la gestión de continuidad
+Description: Definir quién tendrá acceso a las funcionalidades de la gestión de continuidad y qué tipo de acceso está permitido (leer, guardar y/o borrar).
+#Definir permiso de acceso para la gestión de continuidad
 
-Esta funcionalidade tem por objetivo definir quem terá acesso às funcionalidades
-do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura,
-gravação e/ou exclusão).
 
-Antes de começar
+Esta funcionalidad tiene por objetivo definir quién tendrá acceso a las
+funcionalidades de la gestión de continuidad y qué tipo de acceso está permitido
+(leer, guardar y/o borrar).
+
+Antes de empezar
 --------------------
 
-Antes de definir a permissão de acesso ao módulo Gerenciamento de Continuidade é
-necessário criar um perfil de acesso.
+Antes de establecer el permiso de acceso al módulo de Gestión de Continuidad, es
+necesario crear un perfil de acceso.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Gerência de Continuidade;
+1.  Acceder al menú principal Acceso y Permisos \> Gestión de la Continuidad;
 
-2.  Clicar sobre o campo "Perfil de acesso";
+2.  Hacer clic en el campo "Perfil de Acceso";
 
-3.  Pesquisar e selecionar o perfil de acesso desejado;
+3.  Buscar y seleccionar un perfil de acceso;
 
-4.  Para cada funcionalidade do gerenciamento de continuidade é necessário
-    definir as ações (pesquisar, gravar e/ou excluir) que o perfil poderá
-    realizar;
+4.  Para cada funcionalidad de la gestión de continuidad, es necesario definir
+    las acciones (buscar, guardar y/o borrar) que el perfil podrá hacer;
 
-5.  Clicar no botão "Gravar" para efetuar a operação.
+5.  Hacer clic en "Guardar".
+
 
 Relacionado
 -------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
