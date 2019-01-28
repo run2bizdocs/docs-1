@@ -184,7 +184,7 @@ Figura 9-Lista de ticket
                           Programar actividad, Crear solicitud relacionada e Imprimir solicitud).
 
 
-### Creación de solicitud de servicio
+#### Creación de solicitud de servicio
 
 1-  Para crear una solicitud de servicio, pulse el icono Opciones situado en la esquina
     inferior derecha de la pantalla y seleccione el icono "Nuevo ticket", como
@@ -208,7 +208,7 @@ Figura 10 – Creación de solicitud de servicio
 
 Figura 11 - Pantalla de registro de nueva solicitud
 
-![cadastro de nova continuação](images/ios-app-12.jpg)
+![cadastro de nova continuação](images/ios-app-12.png)
 
 Figura 12 - Pantalla de registro de nueva solicitud (continuación)
 
@@ -338,7 +338,7 @@ Figura 14 - Pantalla de registro de nueva solicitud (continuación)
     solicitud: **Registrada En curso**.
 
 
-##### ##### Aprobando/rechazando solicitud de servicio
+##### Aprobando/rechazando solicitud de servicio
 
 Algunas solicitudes necesitan aprobación, por lo tanto, para atenderlas es
 necesario aprobarlas.
@@ -371,7 +371,7 @@ Figura 16 - Pantalla con justificación del rechazo de la solicitud
 Relacionado
 -------
 
-[Manual de confguração do servidor CITSmart Enterprise para uso de APPs (iOS e Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Manual de configuración del servidor CITSmart Enterprise para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
 [Configurar las opciones del móvil](es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
