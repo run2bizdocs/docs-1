@@ -322,12 +322,11 @@ PostgreSQL*.
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
+Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
 
-    Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
-
-    ```sh
-    [standalone\@localhost:9990 /] :reload
-    ```
+```sh
+[standalone\@localhost:9990 /] :reload
+```
 
 ## Criação do arquivo citsmart.cfg
 
