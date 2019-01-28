@@ -1,32 +1,30 @@
-title: Customizar o Portal do Conhecimento
-Description: Alterar imagens que estão no Portal do Conhecimento.
-#Customizar o Portal do Conhecimento
+title: Personalizar Portal del Conocimiento
+Description: Tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
+#Personalizar Portal del Conocimiento
+Esta funcionalidad tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
 
-Esta funcionalidade tem por objetivo alterar imagens que estão no Portal do
-Conhecimento.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Configuración \> Portal
+    del Conocimiento \> Personalizar;
 
-1.  Acessar a funcionalidade através do menu principal Sistema \> Configurações
-    \> Portal do Conhecimento \> Customizar;
+2.  Elegir el elemento que se va cambiar/personalizar;
 
-2.  Escolher um o(s) item(ns) que será(ão) modificado/customizado(s);
+3.  Hacer clic en "Guardar".
 
-3.  Clicar em "Gravar".
+!!! Abstract "ATENCIÓN"
 
-!!! Abstract "ATENÇÃO"
-
-    Para exibir o título na tela de Portal do Conhecimento, configurar o
-    parâmetro 410 para valor "S" e também selecionar o botão "Exibir título" na
-    tela de Gerenciamento do Portal do Conhecimento.
+    Para mostrar el título en la pantalla del Portal del Conocimiento,
+    configurar el parámetro 410 para valor "S" y también seleccionar el botón
+    "Ver título" en la pantalla de Gestión del Portal del Conocimiento.
 
 Relacionado
 ------------
 
-[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
