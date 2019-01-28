@@ -25,7 +25,7 @@ Perguntas Frequentes - FAQ
 ??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
     
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
-    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido..
+    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido.
     
     Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
     
@@ -46,9 +46,9 @@ Perguntas Frequentes - FAQ
     
     É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
     
-    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento Configuração dos atributos do serviço):
+    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
-    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;
+    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço > Mapa de Serviço;
     2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
     3. Realize o desenho.
     
