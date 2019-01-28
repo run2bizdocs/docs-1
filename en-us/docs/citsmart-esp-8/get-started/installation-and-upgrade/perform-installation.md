@@ -135,7 +135,10 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```sh
 /opt/wildfly/bin/jboss-cli.sh --connect
 ```
+
+```sh
 [standalone@localhost:9990 /]
+```
 
 ### Configure system properties
 
@@ -342,22 +345,41 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 !!! warning
     Don't forget to change the owner of files and directories to the citsmart user
 
-### Create directories to installation
+## Create directories to installation
 
 !!! warning
     Don't forget to change the owner of directory /opt/citsmart
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
 
-```sh
-For GED: mkdir -p /opt/citsmart/ged
-For Knowledge Base: mkdir /opt/citsmart/kb
-For Twin Words: mkdir /opt/citsmart/twinwords
-For Attachments of Knowledge Base: mkdir /opt/citsmart/attachkb
-For Upload: mkdir /opt/citsmart/upload
-```
+For GED:
 
-### Generate certification SSL Self-Signed
+    ```sh
+	mkdir -p /opt/citsmart/ged
+    ```
+For Knowledge Base:
+
+    ```sh
+    mkdir /opt/citsmart/kb
+    ```
+For Twin Words:
+
+    ```sh
+    mkdir /opt/citsmart/twinwords
+    ```
+For Attachments of Knowledge Base:
+
+    ```sh
+    mkdir /opt/citsmart/attachkb
+    ```
+
+For Upload: 
+
+    ```sh
+    mkdir /opt/citsmart/upload
+    ```
+
+## Generate certification SSL Self-Signed
 
 To the Wildfly, it'll be generated a self-signed certificate. If you have a certificate, it's possible to use it.
 
@@ -419,25 +441,25 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-    **PostgreSQL Database Server**
+**PostgreSQL Database Server**
 
     ```sh
     systemctl postgresql start
     ```
 
-    **MongoDB Database Server**
+**MongoDB Database Server**
 
     ```sh
     /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
     ```
 
-    **Apache Solr Indexing Server**
+**Apache Solr Indexing Server**
 
     ```sh
     su solr /opt/solr/bin/solr start -s /bin/bash
     ```
 
-    **Wildfly Application Server**
+**Wildfly Application Server**
 
     ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
