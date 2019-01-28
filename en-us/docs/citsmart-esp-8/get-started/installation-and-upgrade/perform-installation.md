@@ -92,7 +92,8 @@ Title: Perform installation
     ```sh
     vim standalone.conf
     ```
-
+	
+    ```java
     if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
     JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
     fi  
@@ -117,6 +118,7 @@ Title: Perform installation
     else
     echo "JAVA_OPTS already set in environment; overriding default settings with values: $JAVA_OPTS"
     fi
+    ```
 
     ```sh
     chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
@@ -139,7 +141,7 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
-```sh
+```java
 /system-property=mongodb.host:add(value="mongodb.citsmart.com")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
@@ -325,7 +327,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
 
-```sh
+```java
 START_MONITORA_INCIDENTES=FALSE
 JDBC_ALIAS_REPORTS=
 JDBC_ALIAS_BPM=
