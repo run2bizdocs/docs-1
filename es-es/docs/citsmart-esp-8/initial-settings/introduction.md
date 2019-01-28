@@ -1,6 +1,7 @@
 Title: Configuraciones iniciales
 
-# Configuraciones iniciales
+Configuraciones iniciales
+----------
 
 En el menú de configuración inicial, encontrará los siguientes tópicos:
 
