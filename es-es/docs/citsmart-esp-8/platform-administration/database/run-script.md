@@ -1,37 +1,35 @@
-title: Executar script
-Description: Manter registro de scripts para a execução dos mesmos no sistema.
-#Executar script
+title: Ejecutar guión
+Description: El objetivo es mantener registro de scripts para la ejecución en el sistema.
+#Ejecutar guión
+El objetivo es mantener registro de scripts para la ejecución en el sistema.
 
-O objetivo é manter registro de scripts para a execução dos mesmos no sistema.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Banco de Datos \> Scripts \> Ejecución
+    de Scripts;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Banco de Dados \> Scripts \> Execução de Scripts;
+2.  Hacer clic en la pestaña **Registro de Guión**;
 
-2.  Clicar na guia **Cadastro de Scripts**;
+3.  Completar los campos para un nuevo guión;
 
-3.  Preencher os campos para um novo script;
+4.  Hacer clic en "Guardar";
 
-4.  Clicar em "Gravar";
+5.  Para ejecutar el script que se está creando, hacer clic en la pestaña
+    Búsqueda de Guiones;
 
-5.  Para executar o script que está sendo criado, clicar na guia Pesquisa de
-    Scripts;
+6.  Completar alguno de los campos disponibles;
 
-6.  Preencher algum dos campos disponibilizados;
+7.  Hacer clic en "Buscar";
 
-7.  Clicar em "Pesquisar";
+8.  Seleccionar el guión;
 
-8.  Selecionar o script desejado;
+9.  El guión se va aparecer en la pestaña **Registro de Guión**;
 
-9.  O mesmo será disponibilizado na guia **Cadastro de Script**;
-
-10. Clicar no botão "Executar".
-
+10. Hacer clic en "Ejecutar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
