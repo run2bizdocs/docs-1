@@ -2,25 +2,25 @@ Title: Habilitar Inventory
 
 # Habilitar Inventory
 
-CITSmart Inventory - O Inventário é um componente do CITSmart ESP que permite registrar e gerenciar rotinas de inventário. Ele permite que você forneça informações sobre os itens de configuração de sua organização e gerencie-os por meio do processo do Gerenciamento de Configuração.  
+CITSmart Inventory - El inventario es un componente de CITSmart ESP que permite registrar y administrar rutinas de inventario. El le permite proporcionar información sobre los elementos de configuración de su organización y administrarlos a través del proceso de la Gestión de Configuración.  
 
-O Inventory trabalha em conjunto com [Monitor de Eventos CITSmart - EVM][1] e como um coletor de dados (ex.: pacotes XML); o EVM serve como repositórios para esta informação. Portanto, para ativar o Inventory, você deve primeiro configurar o EVM.  
+El Inventory trabaja en conjunto con el [Monitor de Eventos CITSmart - EVM][1] y como un colector de datos (ej.: paquetes XML); el EVM sirve como repositorios para esta información. Por lo tanto, para activar el inventario, primero debe configurar el EVM.  
 
 
-## Procedimento
+## Procedimiento
 
-1. Fazer download do pacote war do componente EVM;  
-2. Descompactar os arquivos;  
-3. Copiar o pacote para a pasta de implantação do servidor de aplicativos Wildfly;  
-4. Configurar as [Propriedades do Sistema][1] com os dados da instância CITSmart ESP;
+1. Descargar el paquete war del componente EVM;  
+2. Descomprimir los archivos;  
+3. Copiar el paquete a la carpeta de implementación del servidor de aplicaciones Wildfly;  
+4. Configurar las [Propriedades del Sistema][1] con los datos de la instancia CITSmart ESP;
 
-## O que fazer depois  
+## Lo que hacer después  
 
-Para testar o Inventory, [configurar][2] as conexões na instância CITSmart ESP.
+Para probar el Inventory, [configurar][2] las conexiones en la instancia CITSmart ESP.
 
 ## Relacionado
 
-[Habilitar o Event Monitor no CITSmart][3]
+[Habilitar el Event Monitor en el CITSmart][3]
 
 [1]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
