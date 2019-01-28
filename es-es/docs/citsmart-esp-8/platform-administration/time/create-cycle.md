@@ -1,31 +1,32 @@
-title:  Criar ciclo
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
-#Criar ciclo
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
-Cada item cadastrado na opção "Atributos Financeiros" dentro de "Serviço de Negócio" de um Portfólio qualquer tem como um dos seus campos o Ciclo, um ciclo deverá ser selecionado em uma lista naquele formulário.
-O 'Relatório de Lucratividade dos Atendimentos por Contrato' depende do cadastramento de ciclos.
+title: Crear ciclo
+Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final.
+#Crear ciclo
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final, que se utilizará en el control financiero.
+Cada elemento registrado en la opción "Atributos Financieros" dentro de "Servicio de Negocio" de cualquier Portafolio, tiene como uno de sus campos el Ciclo, un ciclo deberá ser seleccionado en una lista en ese formulario.
+El "Informe de Lucrabilidad de los Atendimientos por Contrato" depende del registro de ciclos.
 
-Procedimento
-------------
+Procedimiento
+-------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal
-    Cadastros Gerais \> Gerência de Pessoal \> Ciclo;
+1.  Acceder a la funcionalidad por el menú principal Registros Generales \>
+    Gestión de Personal \> Ciclo;
 
-2-  Clicar em "Novo";
+2.  Hacer clic en "Nuevo";
 
-3-  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4-  Vale lembrar que:
+4.  Es importante recordar que:
 
--   cada intervalo de datas deve ser único, mesmo com títulos diferentes e o
-    sistema cuida de impedir este tipo de redundância e inconsistência;
+-   cada intervalo de fechas debe ser único, incluso con títulos diferentes y el
+    sistema se ocupa de impedir este tipo de redundancia e incoherencia;
 
--   não é permitido a exclusão do ciclo, caso este esteja vinculado a alguma
-    receita ou despesa do controle financeiro.
+-   no se permite la exclusión del ciclo, si éste está vinculado a algún ingreso
+    o gasto del control financiero.
 
-5-  Clicar em "Gravar".
+1.  Hacer clic en "Guardar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Larissa Lourenço
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
