@@ -3,7 +3,8 @@ Title: Configurar URL del sistema
 
 Esta funcionalidad tiene por objetivo configurar la URL del sistema.  
 
-## Procedimiento  
+Procedimiento  
+--------
 
 1. Acceder al menú principal Parametrización > Parámetros CITSmart;  
 2. Buscar el parámetro con ID 33 y configurar la dirección URL para la instancia:
