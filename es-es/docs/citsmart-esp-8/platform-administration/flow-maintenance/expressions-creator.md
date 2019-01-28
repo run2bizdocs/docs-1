@@ -1,32 +1,25 @@
-title: Construir expressões
-Description: Criar regras de negócio que serão associadas ao Fluxo.
-#Construir expressões
+title:  Construir expresiones 
+Description: Se puede utilizar para crear reglas de negocio que se asociarán al Flujo.
+#Construir expresiones
+Esta funcionalidad se puede utilizar para crear reglas de negocio que se asociarán al Flujo.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar expresiones.
 
-Esta funcionalidade pode ser utilizada para criar regras de negócio que serão
-associadas ao Fluxo.
+Procedimiento
+-------------
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir expressões.
+1.  Acceder al menú principal Sistema \> Constructor de Expresiones;
 
-Procedimento
-----------------
+2.  Para importar expresiones de otros sistemas, hacer clic en "Importar";
 
-1.  Acessar a funcionalidade através do menu principal Sistema \> Construtor de
-    Expressões;
+3.  Para exportar expresiones de otros sistemas, hacer clic en "Exportar";
 
-2.  Para importar expressões de outros sistemas, clicar no botão "Importar";
+4.  Hacer clic en "Nuevo" y seleccionar el tipo de expresión;
 
-3.  Para exportar expressões de outros sistemas,clicar no botão "Exportar";
+5.  Cada tipo de expresión abre una pantalla con campos diferentes;
 
-4.  Clicar no botão "Novo" e selecionar o tipo de expressão;
-
-5.  Cada tipo de expressão abre uma tela com campos diferentes;
-
-6.  Clicar em "Gravar".
-
-
+6.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
