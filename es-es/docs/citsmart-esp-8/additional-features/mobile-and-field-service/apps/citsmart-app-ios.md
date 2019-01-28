@@ -51,14 +51,14 @@ aplicación en la tienda en línea (App Store).
     indica en la figura siguiente:
 
 
-![Criar conexão](images/ios-app-1.jpg)
+![Criar conexão](images/ios-app-1.png)
 
 Figura 1 - Crear conexión
 
 4-  Se mostrará la pantalla "Nueva conexión" par al registro de la conexión;
 
 
-![Registro conexão](images/ios-app-2.jpg)
+![Registro conexão](images/ios-app-2.png)
 
 Figura 2 - Registro de conexión
 
@@ -107,7 +107,7 @@ Figura 2 - Registro de conexión
 9-  Introduzc al usuario y la contraseña:
 
 
-![login](images/ios-app-3.jpg)
+![login](images/ios-app-3.png)
 
 Figura 3 - Pantalla de inicio de sesión
 
@@ -121,7 +121,7 @@ Utilización del APP en el mobile
     clic en la opción "Tickets de Servicios".
 
 
-![Tela de login](images/ios-app-4.jpg)
+![Tela de login](images/ios-app-4.png)
 
 Figura 4 - Pantalla de menu
 
@@ -129,17 +129,17 @@ Figura 4 - Pantalla de menu
     icono de búsqueda situado en la esquina superior izquierda;
 
 
-![Localizar](images/ios-app-5.jpg)
+![Localizar](images/ios-app-5.png)
 
 Figura 5 - Pantalla de búsqueda de solicitud
 
 3-  Se presentan filtros:
 
-![Filtros](images/ios-app-6.jpg)
+![Filtros](images/ios-app-6.png)
 
 Figura 6 - Filtros
 
-![Filtros continuação](images/ios-app-7.jpg)
+![Filtros continuação](images/ios-app-7.png)
 
 Figura 7 - Filtros (continuación)
 
@@ -149,7 +149,7 @@ Figura 7 - Filtros (continuación)
 5-  Se mostrará la lista de solicitudes de servicio, según el filtro elegido:
 
 
-![Lista de ticket](images/ios-app-8.jpg)
+![Lista de ticket](images/ios-app-8.png)
 
 Figura 8 - Lista de ticket
 
@@ -164,7 +164,7 @@ Figura 8 - Lista de ticket
     opciones, siendo:
 
 
-![Lista de](images/ios-app-9.jpg)
+![Lista de](images/ios-app-9.png)
 
 Figura 9-Lista de ticket
 
@@ -191,7 +191,7 @@ Figura 9-Lista de ticket
     se muestra a continuación:
 
 
-![Criação de solicitação](images/ios-app-10.jpg)
+![Criação de solicitação](images/ios-app-10.png)
 
 Figura 10 – Creación de solicitud de servicio
 
@@ -204,7 +204,7 @@ Figura 10 – Creación de solicitud de servicio
 2-  Se mostrará la pantalla con campos de registro, según las figuras abajo:
 
 
-![nova solicitação](images/ios-app-11.jpg)
+![nova solicitação](images/ios-app-11.png)
 
 Figura 11 - Pantalla de registro de nueva solicitud
 
@@ -212,11 +212,11 @@ Figura 11 - Pantalla de registro de nueva solicitud
 
 Figura 12 - Pantalla de registro de nueva solicitud (continuación)
 
-![cadastro de nova continuação](images/ios-app-13.jpg)
+![cadastro de nova continuação](images/ios-app-13.png)
 
 Figura 13 - Pantalla de registro de nueva solicitud (continuación)
 
-![nova continuação](images/ios-app-14.jpg)
+![nova continuação](images/ios-app-14.png)
 
 Figura 14 - Pantalla de registro de nueva solicitud (continuación)
 
@@ -349,7 +349,7 @@ necesario aprobarlas.
     solicitud para aprobación/rechazo de la misma;
 
 
-![Rejeição](images/ios-app-15.jpg)
+![Rejeição](images/ios-app-15.png)
 
 Figura 15 - Pantalla de aprobación/rechazo de solicitudo
 
@@ -361,7 +361,7 @@ Figura 15 - Pantalla de aprobación/rechazo de solicitudo
 
 
 
-![Rejeição da solicitação](images/ios-app-16.jpg)
+![Rejeição da solicitação](images/ios-app-16.png)
 
 Figura 16 - Pantalla con justificación del rechazo de la solicitud
 
