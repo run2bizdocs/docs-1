@@ -20,7 +20,7 @@ Title: Frequently Asked Questions - FAQ
     
     Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
     
-??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
+??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
     É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido..
     
