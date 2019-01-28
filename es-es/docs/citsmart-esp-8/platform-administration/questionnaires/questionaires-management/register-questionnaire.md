@@ -1,44 +1,37 @@
-title: Cadastrar questionário
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir questionários (formulários).
-#Cadastrar questionário
+title:  Registrar cuestionario 
+Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar cuestionarios (formularios).
+#Registrar cuestionario
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar cuestionarios (formularios) de una manera muy genérica, multi-propósito y fácil de utilizar en otras rutinas del sistema. Es posible la importación de un cuestionario ya elaborado. Para garantizar mayor productividad, el botón "Copiar de otro cuestionario" permite al administrador que importe los cuestionarios construidos tanto en la forma anterior, como en la forma actual.
 
- Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir questionários (formulários) de uma forma muito genérica, multi-propósito
-e fácil para serem utilizados em outras rotinas do sistema. É possível a
-importação de um questionário já elaborado. Para garantir maior produtividade, o
-botão "Copiar de outro questionário" permite ao Administrador que importe
-Questionários construídos tanto na forma anterior, quanto na forma atual.
-
-Antes de começar
---------------------
-
-É necessário ter cadastrado previamente a categoria do questionário.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema
-    \> Visões e Metadados \> Questionário \> Cadastrar;
+Es necesario haber registrado previamente la categoría del cuestionario.
 
-2.  Clicar no botão "Novo";
+Procedimiento
+-------------
 
-3.  Preencher os campos disponibilizados;
+1.  Acceder al menú principal Sistema \> Visiones y meta datos \> Cuestionario
+    \> Registro;
 
-4.  Elaborar as questões;
+2.  Hacer clic en "Nuevo";
 
-5.  Clicar em "Gravar";
+3.  Completar los campos disponibles;
 
-6.  O botão "Exportar" permite gravar em um disco um arquivo eletrônico contendo
-    todas as características do questionário selecionado.
- 
+4.  Hacer las cuestiones;
+
+5.  Hacer clic en "Guardar";
+
+6.  El botón "Exportar" permite guardar en un disco un archivo electrónico que
+    contiene todas las características del cuestionario seleccionado.
   
 Relacionado
 -----------
 
-[Cadastrar categoria de questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
+[Registrar categoría de cuestionario](/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
