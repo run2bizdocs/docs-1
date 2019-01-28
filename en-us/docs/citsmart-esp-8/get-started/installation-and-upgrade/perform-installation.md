@@ -10,7 +10,7 @@ Title: Perform installation
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
     ```
 
-     ``` sh
+    ``` sh
     ln -s /opt/jdk1.8.0_172 /opt/jdk
     ```
 
@@ -357,9 +357,7 @@ For Upload: mkdir /opt/citsmart/upload
 
 ### Generate certification SSL Self-Signed
 
-    !!! warning
-    To the Wildfly, it'll be generated a self-signed certificate.
-    If you have a certificate, it's possible to use it.
+To the Wildfly, it'll be generated a self-signed certificate. If you have a certificate, it's possible to use it.
 
 1. Connect in the Wildfly server;
 
@@ -387,10 +385,15 @@ For Upload: mkdir /opt/citsmart/upload
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
-    !!! warning
-    Remember to apply the permissions to the wildfly and java jdk owner
+    **Remember to apply the permissions to the wildfly and java jdk owner**
+	
+    ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
+    ```
+
+    ```sh
     chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+    ```
 
 2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
@@ -414,25 +417,25 @@ For Upload: mkdir /opt/citsmart/upload
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-PostgreSQL Database Server
+**PostgreSQL Database Server**
 
 ```sh
 systemctl postgresql start
 ```
 
-MongoDB Database Server
+**MongoDB Database Server**
 
 ```sh
 /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
 ```
 
-Apache Solr Indexing Server
+**Apache Solr Indexing Server**
 
 ```sh
 su solr /opt/solr/bin/solr start -s /bin/bash
 ```
 
-Wildfly Application Server
+**Wildfly Application Server**
 
 ```sh
 su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
