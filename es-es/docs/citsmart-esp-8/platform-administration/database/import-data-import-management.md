@@ -1,23 +1,21 @@
-title: Gerenciar importação dados
-Description: Realizar a importação de dados.
-#Gerenciar importação dados
+title: Gestionar importación de datos
+Description: Tiene como objetivo realizar la importación de datos.
+#Gestionar importación de datos
+Esta funcionalidad tiene como objetivo realizar la importación de datos.
 
-Esta funcionalidade tem por objetivo realizar a importação de dados.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Gestión de Importación;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Gerência de Importação;
+2.  Completar los campos disponibles;
 
-2.  Preencher os campos disponibilizados;
+3.  Para la ejecución de la importación de datos, hacer clic en el botón
+    "Ejecutar";
 
-3.  Para execução da importação de dados clicar no botão "Executar";
-
-4.  Clicar no botão "Gravar".
-
+4.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

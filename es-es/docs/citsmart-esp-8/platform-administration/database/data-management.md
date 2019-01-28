@@ -1,34 +1,31 @@
-title: Gerenciar dados
-Description: Gerar exportação e importação de dados das tabelas do sistema.
-#Gerenciar dados
+title:  Gestionar datos 
+Description: Generar la exportación e importación de datos de las tablas del sistema.
+#Gestionar datos
+El objetivo de esta funcionalidad es generar la exportación e importación de datos de las tablas del sistema.
 
-O objetivo desta funcionalidade é gerar exportação e importação de dados das
-tabelas do sistema.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Banco de Datos \> Gerenciamento de
+    Datos;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Banco de Dados \> Gerenciamento de Dados;
+2.  Hacer clic en "Cargar Metadatos" para actualizar el listado de las tablas;
 
-2.  Clicar em "Carregar Metadados" para atualizar a listagem de tabelas;
+3.  Para generar la exportación de las tablas del sistema en formato ".XML",
+    hacer clic en "Exportar Todo" para exportar todas las tablas del sistema en
+    el formato correspondiente;
 
-3.  Para gerar exportação das tabelas do sistema em formato ".XML", clicar no
-    botão "Exportar Tudo", para a exportação de todas as tabelas do sistema no
-    formato referente;
+4.  Para generar exportación de las tablas del sistema en formato ".SQL", haga
+    clic en "Exportar Todo SQL", para la exportación de todas las tablas del
+    sistema con los comandos SQLs;
 
-4.  Para gerar exportação das tabelas do sistema em formato ".SQL", clicar no
-    botão "Exportar Tudo SQL", para a exportação de todas as tabelas do sistema
-    com os comandos SQLs;
+5.  Para exportar una tabla, haga doble clic en una tabla;
 
-5.  Para exportar uma tabela, clicar duas vezes na tabela desejada;
+6.  Definir los datos que se van exportar;
 
-6.  Definir os dados que serão exportados;
-
-7.  Clicar em "Processar".
-
+7.  Hacer clic en "Procesar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
