@@ -1,38 +1,40 @@
-title: Cadastrar um colaborador
-Description: Permite cadastrar cada pessoa que possui algum tipo de vínculo com a organização, tais como: um funcionário, um parceiro, etc.
-#Cadastrar um colaborador
+title: Registrar colaborador
+Description: Permite registrar cada persona que posee algún tipo de vínculo con la organización, tales como: un empleado, un socio, etc.
+#Registrar colaborador
 
-Esta funcionalidade permite cadastrar cada pessoa que possui algum tipo de
-vínculo com a organização, tais como: um funcionário, um parceiro, etc.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um colaborador.
+Esta funcionalidad permite registrar cada persona que posee algún tipo de
+vínculo con la organización, tales como: un empleado, un socio, etc.
 
-Antes de começar
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
+colaborador.
+
+Antes de empezar
 --------------------
 
-Para se criar o registro de um colaborador é necessário cadastrar previamente
-uma unidade e um cargo.
+Para crear el registro de un colaborador, es necesario registrar previamente una
+unidad y un cargo.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastro
-    Gerais \> Gerência de Pessoal \> Colaborador;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Colaborador;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -------
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Rgistrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar cargo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/position.html)
+[Registrar cargo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/position.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins
