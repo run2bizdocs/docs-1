@@ -290,8 +290,7 @@ PostgreSQL*.
 
 
 
-Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e
-faça um teste de conexão com a base de dados.
+    Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
