@@ -1,21 +1,32 @@
-title: Gerenciamento de Demanda
-Description: Demand management can involve analysis of business activity patterns and user profiles
-#Gerenciamento de Demanda
+title: Gestión de Demanda
+Description: La gestión de la demanda puede implicar el análisis de los patrones de actividad empresarial y los perfiles de usuario
+#Gestión de Demanda
 
-Apresentação
+
+Presentación
 ----------------
 
-Segundo a ITIL, "O processo responsável pelo entendimento, previsão e influência da demanda do cliente por serviços. O gerenciamento de demanda trabalha com o gerenciamento de capacidade para garantir que o provedor de serviço tenha capacidade suficiente para atender à demanda exigida. Em um nível estratégico, o gerenciamento de demanda pode envolver análise de padrões de atividade de negócio e perfis de usuário, enquanto, em nível tático, pode envolver o uso de cobrança diferenciada para estimular clientes a usar os serviços de TI em horários menos ocupados ou exigir atividades em curto prazo para responder à demanda inesperada ou à falha de um item de configuração.".
+Según ITIL, "Es el proceso responsable de entender, anticipar e influir en la
+demanda servicios por parte de los clientes. El proceso de gestión de demanda
+trabaja con la gestión de capacidad para asegurar que el proveedor de servicios
+tenga suficiente capacidad para satisfacer la demanda requerida. A nivel
+estratégico, gestión de la demanda puede involucrar efectuar el análisis de los
+patrones de actividad del negocio y los perfiles de usuario, mientras que a
+nivel táctico, puede implicar usar cobros diferenciados para estimular a los
+clientes a utilizar los servicios de TI en horas con menos actividad o requerir
+actividades de corto plazo para responder a la demanda inesperada o a la falla
+de un elemento de configuración".
 
 Uso
 -------
 
-- [Cadastrar atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
 
-- [Importar dados de atributo de demanda](/pt-br/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
+- [Registra atributo de la demanda](/es-es/citsmart-esp-8/processes/demand/use/register-demand-attribute.html)
+
+- [Importar datos de atributo de la demanda](/es-es/citsmart-esp-8/processes/demand/use/import-demand-attibute-data.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
