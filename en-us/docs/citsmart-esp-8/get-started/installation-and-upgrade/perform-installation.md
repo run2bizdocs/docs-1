@@ -352,28 +352,32 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
 
-For GED:
+**For GED:**
 
+	
     ```sh
 	mkdir -p /opt/citsmart/ged
     ```
-For Knowledge Base:
+	
+**For Knowledge Base:**
 
     ```sh
     mkdir /opt/citsmart/kb
     ```
-For Twin Words:
+	
+**For Twin Words:**
 
     ```sh
     mkdir /opt/citsmart/twinwords
     ```
-For Attachments of Knowledge Base:
+	
+**For Attachments of Knowledge Base:**
 
     ```sh
     mkdir /opt/citsmart/attachkb
     ```
 
-For Upload: 
+**For Upload:**
 
     ```sh
     mkdir /opt/citsmart/upload
@@ -443,27 +447,19 @@ You can create daemons as standard of your company or create solutions in the te
 
 **PostgreSQL Database Server**
 
-    ```sh
     systemctl postgresql start
-    ```
 
 **MongoDB Database Server**
 
-    ```sh
     /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
-    ```
 
 **Apache Solr Indexing Server**
 
-    ```sh
     su solr /opt/solr/bin/solr start -s /bin/bash
-    ```
 
 **Wildfly Application Server**
 
-    ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
-    ```
 
 CITSmart Enterprise Deployment
 
