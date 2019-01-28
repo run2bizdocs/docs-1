@@ -1,28 +1,23 @@
-title: Cadastrar domínio
-Description: Permitir o cadastro de domínios para inserção de novos itens de domínio, ou seja, novas opções no campo de uma determinada tela do sistema.
-#Cadastrar domínio
+title: Registrar domínio
+Description: Tiene por objetivo permitir el registro de dominios para inserción de nuevos elementos de dominio
+#Registrar domínio
+La funcionalidad de dominio tiene por objetivo permitir el registro de dominios para inserción de nuevos elementos de dominio, o sea, nuevas opciones en el campo de una determinada pantalla del sistema. Para utilizarla, es necesario tener conocimiento sobre la codificación del sistema.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un dominio.
 
-A funcionalidade de Domínio tem por objetivo permitir o cadastro de domínios
-para inserção de novos itens de domínio, ou seja, novas opções no campo de uma
-determinada tela do sistema. Para utilizar a mesma, deverá ter conhecimento
-sobre a codificação do sistema.
+Procedimiento
+-------------
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o domínio.
+1.  Acceder al menú principal Sistema \> Dominios \> Dominios;
 
-Procedimento
-----------------
+2.  Hacer clic en "Nuevo";
 
-1.  Acessar o menu principal Sistema \> Domínios \> Domínios;
+3.  Completar los campos disponibles;
 
-2.  Clicar no botão "Novo";
+4.  Hacer clic en "Guardar".
 
-3.  Preencher os campos disponibilizados;
-
-4.  Clicar em "Gravar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
