@@ -1,23 +1,24 @@
-title: Cadastrar cargo
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os cargos existentes na organização.
-#Cadastrar cargo
+title: Registrar cargo
+Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar los cargos de la organización.
+#Registrar cargo
 
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir os cargos existentes na organização.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borrar los cargos de la organización.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Cargos;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Cargos;
 
-2.  Preencher o campo disponibilizado;
+2.  Completar los campos disponibles;
 
-3.  Clicar em "Gravar".
+3.  Hacer clic en "Guardar".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 

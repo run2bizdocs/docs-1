@@ -1,38 +1,37 @@
-title: Campos chave dos e-mails de base de conhecimento
-Description: Fornecer a relação dos campos chave disponíveis para o cadastro de modelo de e-mail relacionado à base de conhecimento.
-#Campos chave dos e-mails de base de conhecimento
+title:  Campos claves de los correos electrónicos de la base de conocimiento 
+Description: 
+#Campos claves de los correos electrónicos de la base de conocimiento
 
+Este documento tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro de modelo de correo electrónico relacionado a la base de conocimiento.
 
-Este documento tem o objetivo de fornecer a relação dos campos chave disponíveis
-para o cadastro de modelo de e-mail relacionado à base de conhecimento.
-
-Relação dos Campos Chave
+Relación de los Campos Clave
 ----------------------------
 
-São relacionados abaixo os campos chave disponíveis para inserção no cadastro de
-modelo de e-mail relacionado à base de conhecimento:
+Se incluyen abajo los campos clave disponibles para inserción en el registro de
+modelo de correo electrónico relacionado a la base de conocimiento:
 
-|         CAMPO-CHAVE        |                                         DESCRIÇÃO                                         |
-|:--------------------------:|:-----------------------------------------------------------------------------------------:|
-|        ${APROVADOR}        |           Aprovador do Conhecimento.Informa o nome do aprovador do conhecimento.          |
-|          ${AUTOR}          |               Autor do Conhecimento.Informa o nome do autor do conhecimento.              |
-|         ${CONTEUDO}        |         Conteúdo do Conhecimento.Informa a descrição do conteúdo do conhecimento.         |
-|      ${DATAEXPIRACAO}      |               Data de Expiração.Informa a data de expiração do conhecimento.              |
-|        ${DATAINICIO}       |         Data de Criação do Conhecimento.Informa a data de criação do conhecimento.        |
-|      ${DATAPUBLICACAO}     |              Data de Publicação.Informa a data de publicação do conhecimento.             |
-|     ${FONTEREFERENCIA}     |       Fonte/Referência do Conhecimento.Informa a descrição da fonte do conhecimento.      |
-| ${JUSTIFICATIVAOBSERVACAO} | Justificativa/Observação.Informa a descrição da justificativa/observação do conhecimento. |
-|        ${NOMEORIGEM}       |           Nome origem do conhecimento.Informa a origem do nome do conhecimento.           |
-|          ${ORIGEM}         |         Origem do Conhecimento.Informa a identificação da origem do conhecimento.         |
-|       ${PRIVACIDADE}       |    Privacidade do Conhecimento.Informa a identificação da privacidade do conhecimento.    |
-|         ${SITUACAO}        |       Situação do Conhecimento.Informa a identificação da situação do conhecimento.       |
-|          ${TITULO}         |           Título do Conhecimento.Informa a descrição do título do conhecimento.           |
-|          ${VERSAO}         |                  Versão do Conhecimento.Informa a versão do conhecimento.                 |
-|    ${IDBASECONHECIMENTO}   |       Identificação do conhecimento.Informa a identificação do conhecimento na base       |
+|       **CAMPO CLAVE**      |                                           **DESCRIPCIÓN**                                           |
+|:--------------------------:|:---------------------------------------------------------------------------------------------------:|
+|        ${APROVADOR}        |            Aprobador del Conocimiento. Informa el nombre del aprobador del conocimiento.            |
+|          ${AUTOR}          |                Autor del Conocimiento. Informa el nombre del autor del conocimiento.                |
+|         ${CONTEUDO}        |          Contenido del Conocimiento. Informa la descripción del contenido del conocimiento.         |
+|      ${DATAEXPIRACAO}      |                 Fecha de Expiración. Informa la fecha de expiración del conocimient                 |
+|        ${DATAINICIO}       |          Fecha de Creación del Conocimiento. Informa la fecha de creación del conocimiento.         |
+|      ${DATAPUBLICACAO}     |               Fecha de Publicación. Informa la fecha de publicación del conocimiento.               |
+|     ${FONTEREFERENCIA}     |      Fuente/Referencia del Conocimiento. Informa la descripción de la fuente del conocimiento.      |
+| ${JUSTIFICATIVAOBSERVACAO} | Justificación/Observación. Informa la descripción de la justificación/observación del conocimiento. |
+|        ${NOMEORIGEM}       |            Nombre origen del conocimiento. Informa el origen del nombre del conocimiento.           |
+|          ${ORIGEM}         |          Origen del Conocimiento. Informa la identificación de la origen del conocimiento.          |
+|       ${PRIVACIDADE}       |      Privacidad del Conocimiento. Informa la identificación de la privacidad del conocimiento.      |
+|         ${SITUACAO}        |       Situación del Conocimiento. Informa la identificación de la situación del conocimiento.       |
+|          ${TITULO}         |             Título del Conocimiento. Informa la descripción del título del conocimiento.            |
+|          ${VERSAO}         |                    Versión del Conocimiento. Informa la versión del conocimiento.                   |
+|    ${IDBASECONHECIMENTO}   |       Identificación del conocimiento. Informa la identificación del conocimiento en la base.       |
 
-Tabela 1 - Lista de campos chave
+
+Tabla 1 - Significado de los campos clave
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço

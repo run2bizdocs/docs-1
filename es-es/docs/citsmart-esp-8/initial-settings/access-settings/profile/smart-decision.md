@@ -1,27 +1,29 @@
-title: Definir a permissão de acesso das decisões Smart
-Description: Permite definir quem terá acesso aos widgets para inserção no dashboard o qual é exibido na tela principal do sistema.
-#Definir a permissão de acesso das decisões Smart
+title: Definir el permiso de acceso de las decisiones Smart
+Description: Permite definir quién tendrá acceso a los widgets para inserción en el dashboard que se muestra en la pantalla principal del sistema.
+#Definir el permiso de acceso de las decisiones Smart
 
-A funcionalidade de permissão de acesso das Decisões Smart permite definir quem
-terá acesso aos widgets para inserção no dashboard o qual é exibido na tela
-principal do sistema.
 
-Procedimento
----------
+La funcionalidad de permiso de acceso de las Decisiones Smart, permite definir
+quién tendrá acceso a los widgets para inserción en el dashboard que se muestra
+en la pantalla principal del sistema.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Decisões Smart;
+Procedimiento
+-----------------
 
-2.  Selecionar o item no qual deseja definir a permissão e clicar em "Editar";
+1.  Acceder al menú principal Acceso y Permiso \> Decisiones Smart - Ajustes;
 
-3.  Clicar no botão "Vincular grupo";
+2.  Seleccionar el elemento para definir el permiso y después hacer clic en
+    Editar;
 
-4.  Pesquisar e selecionar o grupo desejado e clicar em "Enviar" para vincular;
+3.  Hacer clic en "Vincular grupo";
 
-5.  Clicar em "Gravar" para efetuar a operação.
+4.  Buscar y seleccionar el grupo y hacer clic en "Enviar" para vincularlo;
+
+5.  Hacer clic en "Guardar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

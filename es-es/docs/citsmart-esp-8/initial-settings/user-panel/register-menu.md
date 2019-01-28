@@ -1,43 +1,42 @@
-title: Cadastrar menu
-Description: Permitir ao usuário a configuração dos itens de menu de acordo com as suas preferências.
-#Cadastrar menu
+title: Registrar menú
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un menú.
+#Registrar menú
 
-Esta funcionalidade tem por objetivo permitir ao usuário a configuração dos
-itens de menu de acordo com as suas preferências. Prover melhor usabilidade no
-acesso aos menus, onde os itens podem ser organizados conforme a sua
-necessidade.
+Esta funcionalidad tiene como objetivo permitir al usuario la configuración de
+los elementos del menú, según sus preferencias. Proporcionar mejor usabilidad en
+el acceso a los menús, donde los elementos pueden ser organizados según su
+necesidad.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um menu.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+menú.
 
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Menu;
+1.  Acceder al menú principal Registros Generales \> Menú;
 
-2.  Preencher os campos disponibilizados;
+2.  Completar los campos disponibles;
 
-3.  O botão "Gerar XML" serve para gerar um arquivo no formato ".xml" dos menus;
+3.  El botón "Generar XML" sirve para generar un archivo en ".xml" de los menús;
 
-4.  O botão "Atualizar Menus" serve para atualizar os menus;
+4.  El botón "Actualizar Menús" sirve para actualizar los menús;
 
-5.  Ter muito cuidado em relação à execução do botão "Atualizar Menus", pois
-    todas as alterações cadastrais dos menus serão perdidas desde a última vez
-    que houve a geração de XML. Recomenda-se, portanto, a seguinte sequência de
-    execução: (1) botão "Gerar XML" e (2) botão "Atualizar Menus".
+5.  Tener mucho cuidado con la ejecución del botón "Actualizar menús", ya que
+    todos los cambios de registro de los menús se perderán desde la última vez
+    que se produjo la generación de XML. Se recomienda, por lo tanto, la
+    siguiente secuencia de ejecución: (1) botón "Generar XML" (2) botón
+    "Actualizar Menús".
 
-6.  Clicar em "Gravar".
+6.  Hacer clic en "Guardar".
 
-O que fazer a seguir
+Lo que hacer después
 ------------------------
 
-Acessar o menu principal para verificar o(s) menu(s) criado(s).
-
+Acceder al menú principal para comprobar los menús creados.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 

@@ -1,37 +1,39 @@
-title: Criar perfil de acesso
-Description: Define quais direitos e permissões tem o usuário do sistema.
-#Criar perfil de acesso
+title: Crear perfil de acceso
+Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un perfil de acceso.
+#Crear perfil de acceso
 
-O perfil de acesso define quais direitos e permissões tem o usuário do sistema.
 
-Após o usuário ser autenticado o processo de definição de acesso determina o que
-ele pode fazer no sistema.
+El perfil de acceso define qué derechos y permisos tiene el usuario del sistema.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um perfil de acesso.
+Una vez que el usuario se ha autenticado, el proceso de definición de acceso
+determina lo que puede hacer en el sistema.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+perfil de acceso.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Perfil de Acesso;
+Procedimiento
+-----------------
 
-2.  Inserir o nome do perfil ou procurar por um já existente, na aba de
-    pesquisa;
+1.  Acceder al menú principal Acceso y Permisos \> Perfil Acceso;
 
-3.  Clicar e selecionar os campos de ação (Pesquisar, Gravar e Deletar) de cada
-    funcionalidade. Ao determinar o tipo de perfil de acesso,
-    marcando/desmarcando um checkbox, todos os checkboxs subordinados a este na
-    estrutura são igualmente marcados/desmarcados em cascata;
+2.  Informar el nombre del perfil o buscar uno existente en la pestaña de
+    búsqueda;
 
-4.  Configurar as ações de Acesso ao sistema (definir se o perfil terá acesso ao
-    sistema a partir do portal), *Acesso por situação de Ordem de Serviço*
-    (selecionar as situações de OS que o perfil terá acesso) e *Acesso por situação de fatura* (selecionar as situações da fatura que o perfil terá acesso);
+3.  Hacer clic y seleccionar los campos de acción (Buscar, Guardar y Borrar) de
+    cada funcionalidad. Al determinar el tipo de perfil de acceso,
+    marcando/desmarcando un checkbox, todos los checkbox subordinados a éste, en
+    la estructura, también serán marcados/desmarcados en cascada;
 
-5.  Clicar em "Gravar".
+4.  Configurar las acciones de Acceso al sistema (defina si el perfil tiene
+    acceso al sistema desde el portal), Acceso por situación de Orden de
+    Servicio (seleccione las situaciones de OS que el perfil tendrá acceso) y
+    Acceso por situación de factura (seleccione las situaciones de la factura
+    que el perfil tendrá acceso);
+
+5.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

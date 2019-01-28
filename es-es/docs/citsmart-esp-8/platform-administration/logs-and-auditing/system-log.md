@@ -1,32 +1,30 @@
-title: Verificar log do sistema
-Description: Verificar o log do sistema para trilha de auditoria.
-#Verificar log do sistema
-
-Esta funcionalidade tem por objetivo verificar o log do sistema para trilha de
-auditoria.
+title: Verificar log del sistema
+Description: Tiene por objeto comprobar el registro del sistema para el camino de auditoría.
+#Verificar log del sistema
+Esta funcionalidad tiene por objeto comprobar el registro del sistema para el camino de auditoría.
 
 !!! Abstract "NOTA"
 
-    Caso os nomes das tabelas não estejam atualizados, acessar a
-    funcionalidade Parâmetros CITSmart e defina o nome do banco de dados
-    utilizado no parâmetro ' DB - nome do SHEMA do banco de dados '. Após isto,
-    acessar funcionalidade Carrega Meta Dados e atualize todas as tabelas.
+    Si los nombres de las tablas no están actualizados, accede a la
+    funcionalidad Parámetros CITSmart y defina el nombre de la base de datos
+    utilizada en el parámetro 'DB - nombre del SHEMA de la base de datos '.
+    Después de esto, accede a la funcionalidad Cargar Meta Datos y actualice
+    todas las tablas.
 
-Procedimento
------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de Auditoria \> Logs do Sistema;
+1.  Acceder al menú Sistema \> Camino de Auditoria \> Logs del Sistema;
 
-2.  Preencher os filtros disponibilizados;
+2.  Completar los filtros disponibles;
 
-3.  Clicar no botão "Pesquisar" para exibir o log do sistema conforme os dados
-    informados;
+3.  Hacer clic en "Búsqueda" para presentar el log del sistema conforme los
+    datos informados;
 
-4.  Para gerar o relatório do log do sistema, clicar no botão "Gerar Relatório".
-
+4.  Para generar el informe del log del sistema, hacer clic en "Generar
+    Informe".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

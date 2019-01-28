@@ -1,31 +1,25 @@
-title: Configurar ambiente
-Description: Facilitar uma eventual intervenção (correção) direto no ambiente (servidor) e alterar os logos do sistema.
+title:  Configurar ambiente 
+Description: La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor)  
 #Configurar ambiente
+La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor) y cambiar los logos del sistema.
+Puede cambiar el logotipo del sistema, comprobar la información del ambiente y descargar el registro de Jboss.
 
-A funcionalidade de Configuração de Ambiente tem por objetivo facilitar uma
-eventual intervenção (correção) direto no ambiente (servidor) e alterar os logos
-do sistema.
+Procedimiento
+-------------
 
-Poderá alterar o logo do sistema, verificar as informações do ambiente e
-realizar o download do Log do Jboss.
-
-Procedimento
-----------------
-
-1.  Acessar o menu principal Sistema \> Configurações \> Configurações de
+1.  Acceder al menú principal Sistema \> Configuración \> Configuración de
     Ambiente;
 
-2.  Para alterar umas das imagens (logo início, logo portal, logo sistema e logo
-    relatório), clicar no botão "Selecionar uma imagem";
+2.  Para cambiar una de las imágenes (al principio, logo del portal, logo del
+    sistema y logo del informe), hacer clic en "Seleccione una imagen";
 
-3.  Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
+3.  Hacer clic en el cuadro punteado para arrastrar un archivo o subirlo;
 
-4.  Clicar em "Gravar";
+4.  Hacer clic en "Guardar";
 
-5.  Para realizar o download do Log do Jboss ou, clicar no botão "Download".
-
+5.  Para descargar el Log del Jboss, hacer clic en "Descarga".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

@@ -1,29 +1,31 @@
-title: Gerar relatórios - Gerência de pessoal
-Description: Tem o objetivo de apresentar as informações dos colaboradores por unidade.
-#Gerar relatórios - Gerência de pessoal
+title: Generar informe - gestión de personal
+Description: Presentar la información de los colaboradores por unidad.
+#Generar informe - gestión de personal
 
-Este relatório tem o objetivo de apresentar as informações dos colaboradores por
-unidade.
 
-Procedimento
-----------------
+Este informe tiene el objetivo de presentar la información de los colaboradores
+por unidad.
 
-1-  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Gerência de Pessoal \> Relatório Unidade Colaborador;
+Procedimiento
+-----------------
 
-2-  Definir os filtros conforme sua necessidade;
+1-  Acceder al menú principal Informes \> Gestión de Personal \> Informe Unidad
+    Contribuyente;
 
-!!! Abstract "ATENÇÃO"
+2-  Definir los según sus necesidades;
 
-    Caso não seja informado um colaborador, será gerado o relatório contendo
-    as informações de todos os colaboradores ativos da(s) respectivas(s)
-    unidades(s), referente ao contrato informado.
+!!! Abstract "ATENCIÓN"
 
-3-  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
-    clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
+    Si no se informa un colaborador, se generará el informe que contenga la
+    información de todos los colaboradores activos de las unidades
+    correspondientes al contrato informado.
+
+3-  Hacer clic en "Crear PDF" para generar el informe en PDF y/o hacer clic en
+    "Crear XLS" para generar el informe en Excel.
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins
