@@ -325,7 +325,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 [standalone@localhost:9990 /] :reload
 ```
 
-### Create citsmart.cfg file
+## Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
