@@ -1,26 +1,22 @@
-title: Cadastrar categoria de questionário
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir categorias de questionários que serão utilizadas para filtragem e organização dos mesmos registrados na base.
-#Cadastrar categoria de questionário
+title: Registrar categoría de cuestionario
+Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las categorías de cuestionarios. 
+#Registrar categoría de cuestionario
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las categorías de cuestionarios, que se van a utilizar para el filtrado y la organización registrados en la base.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir categorias de questionários que serão utilizadas para filtragem e
-organização dos mesmos registrados na base.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Visiones y Meta Datos \>
+    Cuestionario \> Categoría Cuestionario;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema
-    \> Visões e Metadados \> Questionário \> Categoria Questionário;
+2.  Hacer clic en "Nuevo";
 
-2.  Clicar no botão "Novo";
+3.  Completar los campos disponibles;
 
-3.  Preencher o campo disponibilizado;
-
-4.  Clicar em "Gravar".
-
+4.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
