@@ -215,7 +215,7 @@ Figura 9 - Activación de API de Google
 Relacionado
 -----------
 
-[Configurar parametrización – móvil](/es-es/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configurar parametrización - móvil](/es-es/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
 [Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
