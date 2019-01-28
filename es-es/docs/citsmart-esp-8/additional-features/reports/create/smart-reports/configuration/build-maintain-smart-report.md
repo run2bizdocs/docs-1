@@ -15,12 +15,12 @@ Es necesario tener registrado sub informes.
 Procedimiento
 -----------------
 
-1.  Acceder al menú principal Informes \> Informes Smart \> Generador de
+1-  Acceder al menú principal Informes \> Informes Smart \> Generador de
     Informes Smart;
 
-2.  Hacer clic en "Nuevo";
+2-  Hacer clic en "Nuevo";
 
-3.  Completar los campos necesarios. Definir el tipo:
+3-  Completar los campos necesarios. Definir el tipo:
 
     1.  SQL: crea un Sub Informe "SQL" (este tipo permite crear informes que
         devuelven la información de la Base de datos a través de una consulta).
@@ -45,7 +45,7 @@ Procedimiento
     Para crear un Sub Informe (Drill) el" Tipo de informe "debe ser"
     Gráfico de pizza "o" Gráfico de barra".
 
-1.  Definir el módulo (funcionalidad) donde se muestra el informe que se está
+4-  Definir el módulo (funcionalidad) donde se muestra el informe que se está
     creando:
 
 -   **N/A**: seleccionar esta opción si desea que el informe no aparezca en
@@ -60,9 +60,9 @@ Procedimiento
     aparezca (Configuración, Incidentes/Solicitudes (gráfico),
     Incidentes/Solicitudes, Liberación, Cambios, Problemas).
 
-1.  Hacer clic en "Guardar";
+5-  Hacer clic en "Guardar";
 
-2.  También existe la posibilidad de importar un informe. Para intentar, haga
+6-  También existe la posibilidad de importar un informe. Para intentar, haga
     clic en "Importar" y vincular el archivo conteniendo la información que
     quiera;
 
@@ -76,10 +76,10 @@ Procedimiento
 Relacionado
 -------
 
-[Gerar relatórios Smart](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Visualizar informes Smart](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/88/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
