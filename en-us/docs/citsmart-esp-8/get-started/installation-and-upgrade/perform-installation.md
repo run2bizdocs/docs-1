@@ -480,8 +480,6 @@ You can create daemons as standard of your company or create solutions in the te
 cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
 
-<continue as the deployment available to its subscription >
-
 
 !!! tip "About"
 
