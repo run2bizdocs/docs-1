@@ -352,7 +352,7 @@ Antes de sair do jboss-cli execute o comando reload para aplicar as alterações
     CITSmart.
 
 
-### Criação de diretórios para instalação
+## Criação de diretórios para instalação
 
 Não esquecer de alterar o dono do diretório /opt/citsmart
 
@@ -422,7 +422,7 @@ Caso você possua um certificado é importante utilizá-lo.
     [standalone\@localhost:9990 /] :reload
     ```
 
-### Iniciando as soluções seguindo dependências
+## Iniciando as soluções seguindo dependências
 
 1. Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
 

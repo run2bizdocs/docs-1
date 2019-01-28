@@ -450,7 +450,7 @@ You can create daemons as standard of your company or create solutions in the te
 
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
-CITSmart Enterprise Deployment
+## CITSmart Enterprise Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments";
 
@@ -460,7 +460,7 @@ CITSmart Enterprise Deployment
 
 2. Do the CITSmart Neuro deployment after finish the steps in section "CITSmart Neuro Deployment".
 
-## Access CITSmart Enterprise
+### Access CITSmart Enterprise
 
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
