@@ -1,31 +1,45 @@
-title: Gerenciamento de Disponibilidade
-Description: Availability management defines, analyses, plans, measures and improves all aspects of the availability of IT services
-#Gerenciamento de Disponibilidade
+title: Gestión de Disponibilidad
+Description: La gestión de la disponibilidad define, analiza, planifica, mide y mejora todos los aspectos de la disponibilidad de TI.
+#Gestión de Disponibilidad
 
-Apresentação
-----------------
 
-Segundo a ITIL, a disponibilidade é definida como "Habilidade de um serviço de TI ou outro item de configuração de desempenhar a sua função acordada quando requerido. A disponibilidade é determinada pela confiabilidade, sustentabilidade, funcionalidade do serviço, desempenho e segurança.".
+Presentación
+------
 
-E seu gerenciamento como "O processo responsável por garantir que os serviços de TI atendam às necessidades atuais e futuras de disponibilidade do negócio de uma maneira mais efetiva em custo e mais oportuna. O gerenciamento de disponibilidade define, analisa, planeja, mede e melhora todos os aspectos da disponibilidade de serviços de TI e garante que todos os processos, infraestruturas, ferramentas, papéis, etc. de TI sejam adequados para as metas de nível de serviço acordadas para disponibilidade.".
+Según ITIL, la disponibilidad es definida como "Es la habilidad de un servicio
+de TI u otro elemento de configuración para realizar la función acordada cuando
+sea requerido. La disponibilidad está determinada por la confiabilidad,
+capacidad de dar mantenimiento, capacidad de dar servicio, desempeño y
+seguridad".
+
+La gestión de disponibilidad es definida como "Es el proceso responsable de
+asegurar que los servicios de TI cumplan con las necesidades de actuales y
+futuras de disponibilidad del negocio de una manera rentable y oportuna. La
+gestión de disponibilidad define, analiza, planifica, mide y mejora todos los
+aspectos de la disponibilidad de los servicios de TI, y asegura que todas las
+infraestructuras de TI, procesos, herramientas, roles, etc., sean apropiados
+para los objetivos de nivel de servicio acordado para la disponibilidad".
 
 Uso
 -------
 
-- [Verificar disponibilidade do item de configuração](/pt-br/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
-- [Verificar disponibilidade de grupo de IC](/pt-br/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
+- [Comprobar disponibilidad del elemento de configuración](/es-es/citsmart-esp-8/processes/availability/use/configuration-item-availability.html)
 
-- [Verificar disponibilidade de grupo de disponibilidade](/pt-br/citsmart-esp-8/processes/availability/use/availability-group.html)
+- [Comprobar disponibilidad del grupo de EC](/es-es/citsmart-esp-8/processes/availability/use/CI-group-availability.html)
 
-- [Verificar a disponibilidade de serviço](/pt-br/citsmart-esp-8/processes/availability/use/service-availability.html)
+- [Comprobar disponibilidad del grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/use/availability-group.html)
 
-Configuração
+- [Comprobar a disponibilidad del servicio](/es-es/citsmart-esp-8/processes/availability/use/service-availability.html)
+
+
+Configuración
 -----------------
 
-- [Cadastrar grupo de disponibilidade](/pt-br/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
+
+- [Registrar grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

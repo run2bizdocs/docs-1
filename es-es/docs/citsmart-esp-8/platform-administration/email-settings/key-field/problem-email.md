@@ -1,52 +1,50 @@
-title: Campos chave de e-mails de problema
-Description: Fornecer a relação dos campos chave, disponíveis para o cadastro de modelo de e-mail relacionada a problemas.
-#Campos chave de e-mails de problema
+title:  Campos clave de los correos electrónicos del problema 
+Description: Tiene el objetivo de proporcionar la relación de los campos clave 
+#Campos clave de los correos electrónicos del problema
 
-Este documento tem o objetivo de fornecer a relação dos campos chave,
-disponíveis para o cadastro de modelo de e-mail relacionada a problemas.
+Este documento tiene el objetivo de proporcionar la relación de los campos clave, disponibles para el registro de modelo de correo electrónico relacionado a problemas.
 
-Relação dos Campos Chave
-----------------------------
+Relación de los Campos Claves
+-----------------------------
 
-|          CAMPO-CHAVE         |                                                            DESCRIÇÃO                                                           |
-|:----------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-|       ${ACOESCORRETAS}       |   Ações Realizadas Corretamente.Informa a descrição das ações realizadas corretamente referente à revisão de problema grave.   |
-|      ${ACOESINCORRETAS}      | Ações Realizadas Incorretamente.Informa a descrição das ações realizadas incorretamente referente à revisão de problema grave. |
-|          ${CONTRATO}         |                             Contrato.Informa o nome do contrato referente ao registro de problema.                             |
-|      ${DATAHORACAPTURA}      |              Data e Hora de Início do Registro de Problema.Informa a data e hora em que foi registrado o problema.             |
-|        ${DATAHORAFIM}        |                 Data e Hora da Finalização do Problema.Informa a data e hora em que foi finalizado o problema.                 |
-|       ${DATAHORALIMITE}      |          Prazo Limite para Atendimento do Problema.Informa o prazo limite (data e hora) para atendimento do problema.          |
-|  ${DATAHORALIMITESOLUCIONAR} |         Prazo Limite para Solucionar/Contornar o problema.Informa o prazo limite para solucionar/contornar o problema.         |
-|         ${DESCRICAO}         |                                     Descrição do Problema.Informa a descrição do problema.                                     |
-|        ${DIAGNOSTICO}        |                             Diagnóstico do Problema.Informa a descrição do diagnóstico do problema.                            |
-|        ${EMAILCONTATO}       |                                 E-mail do Contato.Informa o e-mail do solicitante para contato.                                |
-|        ${IDFASEATUAL}        |    Situação atual da identificação do Problema.Informa a situação atual da identificação (fase) em que problema se encontra.   |
-|         ${FECHAMENTO}        |                              Fechamento do Problema.Informa a descrição do fechamento do problema.                             |
-|         ${IDPROBLEMA}        |                 Número de Identificação do Problema.Informa o número de identificação do registro de problema.                 |
-|          ${IMPACTO}          |                               Impacto do Problema.Informa a identificação do impacto do problema.                              |
-|   ${LINKPESQUISASATISFACAO}  |               Link para pesquisa de satisfação.Informa o link para fazer a avaliação do atendimento do problema.               |
-|      ${MELHORIASFUTURAS}     |     Possíveis Melhorias Futuras.Informa a descrição das possíveis melhorias futuras referente à revisão de problema grave.     |
-|      ${MSGERROASSOCIADA}     |    Mensagem de Erro Associada.Informa a mensagem de erro associada que foi descrito na avaliação e diagnóstico do problema.    |
-|        ${NOMECONTATO}        |                                   Nome do Contato.Informa o nome do solicitante para contato.                                  |
-|       ${NOMEGRUPOATUAL}      |                                  Grupo Executor.Informa o nome do grupo executor do problema.                                  |
-|          ${PRAZOHH}          |                    Prazo (horas) para Atendimento do Problema.Informa o prazo para atendimento do problema.                    |
-|         ${PRIORIDADE}        |                                          Prioridade.Informa a prioridade do problema.                                          |
-|      ${PROATIVOREATIVO}      |                      Gerenciamento do Problema.Informa o gerenciamento do problema (proativo ou reativo).                      |
-|    ${RECORRENCIAPROBLEMA}    |  Recorrência do Problema.Informa a descrição de como prevenir a recorrência do problema referente à revisão de problema grave. |
-| ${RESPONSABILIDADETERCEIROS} |    Responsabilidade de Terceiros.Informa a descrição da responsabilidade de terceiros referente à revisão de problema grave.   |
-|        ${RESPONSAVEL}        |               Responsável pelo Atendimento do Problema.Informa o responsável atual pelo atendimento do problema.               |
-|         ${SEVERIDADE}        |                              Severidade do problema.Informa a descrição da severidade do problema.                             |
-|        ${SOLICITANTE}        |                           Nome do Solicitante.Informa o nome do solicitante do registro de problema.                           |
-|     ${SOLUCAODEFINITIVA}     |                     Descrição da Solução Definitiva.Informa a descrição da solução definitiva do problema.                     |
-|        ${DESCRSTATUS}        |                               Status do Problema.Informa o status em que o problema se encontra.                               |
-|           ${TITULO}          |                               Título do Problema.Informa o título do problema que foi registrado.                              |
-|          ${URGENCIA}         |                              Urgência do Problema.Informa a identificação da Urgência do Problema.                             |
+|        **CAMPO CLAVE**       |                                                              **DESCRIPCIÓN**                                                              |
+|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|       ${ACOESCORRETAS}       |   Acciones Hechas Correctamente.Informa la descripción de las acciones hechas correctamente referentes a la revisión del problema grave.  |
+|      ${ACOESINCORRETAS}      | Acciones Hechas Incorrectamente.Informa la descripción de las acciones hechas incorrectamente referente a la revisión del problema grave. |
+|          ${CONTRATO}         |                                Contrato.Informa el nombre del contrato referente al registro del problema.                                |
+|      ${DATAHORACAPTURA}      |                    Fecha y Hora de Inicio del Registro de Problema.Informa la fecha y hora que se registró el problema.                   |
+|        ${DATAHORAFIM}        |                       Fecha y Hora da Finalización del Problema.Informa la fecha y hora que se finalizó el problema.                      |
+|       ${DATAHORALIMITE}      |                Plazo Límite para la Atención del Problema.Informa el plazo límite (fecha y hora) para atender el problema.                |
+|  ${DATAHORALIMITESOLUCIONAR} |             Plazo Límite para Solucionar/Contornar el Problema.Informa el plazo límite para solucionar/contornar el problema.             |
+|         ${DESCRICAO}         |                                       Descripción del Problema.Informa la descripción del problema.                                       |
+|        ${DIAGNOSTICO}        |                               Diagnóstico del Problema.Informa la descripción del diagnóstico del problema.                               |
+|        ${EMAILCONTATO}       |                      Correo Electrónico del Contacto.Informa el correo electrónico del solicitante para contactarlo.                      |
+|        ${IDFASEATUAL}        |                                         Estado del Problema.Informa el estado (fase) del problema                                         |
+|         ${FECHAMENTO}        |                                    Cierre del Problema.Informa la descripción del cierre del problema.                                    |
+|         ${IDPROBLEMA}        |                    Número de Identificación del Problema.Informa el número de identificación del registro de problema.                    |
+|          ${IMPACTO}          |                                  Impacto del Problema.Informa la identificación del impacto del problema.                                 |
+|   ${LINKPESQUISASATISFACAO}  |                          Link para buscar la satisfacción.Informa el link para evaluar la atención del problema.                          |
+|      ${MELHORIASFUTURAS}     |             Posibles Mejoras Futuras.Informa la descripción de las posibles mejoras futuras de la revisión del problema grave.            |
+|      ${MSGERROASSOCIADA}     |        Mensaje de Error Asociado.Informa el mensaje de error asociado que se describe en la evaluación y diagnóstico del problema.        |
+|        ${NOMECONTATO}        |                                  Nombre del Contacto.Informa el nombre del solicitante para contactarlo.                                  |
+|       ${NOMEGRUPOATUAL}      |                                     Grupo Exjecutor.Informa el nombre del grupo ejecutor del problema.                                    |
+|          ${PRAZOHH}          |                           Plazo (horas) para Atención del Problema.Informa el plazo para atención del problema.                           |
+|         ${PRIORIDADE}        |                                                Prioridad.Informa la prioridad del problema.                                               |
+|      ${PROATIVOREATIVO}      |                                Gestión del Problema.Informa la gestión del problema (proactivo o reactivo).                               |
+|    ${RECORRENCIAPROBLEMA}    |  Recurrencia del Problema.Informa la descripción de cómo prevenir la recurrencia del problema referente a la revisión de problema grave.  |
+| ${RESPONSABILIDADETERCEIROS} |     Responsabilidad de Terceros.Informa la descripción de la responsabilidad de terceros referente a la revisión de problemas graves.     |
+|        ${RESPONSAVEL}        |                    Responsable por la Atención del Problema.Informa el responsable actual por la atención del problema.                   |
+|         ${SEVERIDADE}        |                                Severidad del problema.Informa la descripción de la severidad del problema.                                |
+|        ${SOLICITANTE}        |                             Nombre del Solicitante.Informa el nombre del solicitante del registro de problema.                            |
+|     ${SOLUCAODEFINITIVA}     |                    Descripción de la Solución Definitiva.Informa la descripción de la solución definitiva del problema.                   |
+|        ${DESCRSTATUS}        |                                            Estado del Problema.Informa el status del problema.                                            |
+|           ${TITULO}          |                                    Título del Problema.Informa el título del problema que se registró.                                    |
+|          ${URGENCIA}         |                                Urgencia del Problema.Informa la identificación de la Urgencia del Problema.                               |
 
-Tabela 1 - Lista de campos chave
-
+Tabla 1 - Significado de los campos clave
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
 
