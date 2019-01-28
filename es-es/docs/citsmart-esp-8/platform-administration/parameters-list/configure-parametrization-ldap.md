@@ -1,37 +1,32 @@
-title: Configurar parametrização - LDAP
-Description: Esta configuração de parâmetros ligados à integração com o LDAP ocorre de uma forma implícita usando a funcionalidade Configuração LDAP ou de forma explícita usando a funcionalidade Parâmetros do CITSmart.
-#Configurar parametrização - LDAP
+title:  Configurar parametrización – LDAP 
+Description: Esta configuración de parámetros conectados a la integración con LDAP 
+#Configurar parametrización – LDAP
 
-Ao contrário dos demais parâmetros do produto, esta configuração de parâmetros
-ligados à integração com o LDAP ocorre de uma forma implícita usando a
-funcionalidade Configuração LDAP ou de forma explícita usando a
-funcionalidade Parâmetros do CITSmart.
+A diferencia de los demás parámetros del producto, esta configuración de parámetros conectados a la integración con LDAP se produce de forma implícita mediante la funcionalidad de configuración LDAP o de forma explícita mediante la funcionalidad Parámetros de CITSmart.
 
-Procedimento
-----------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Parâmetros CITSmart;
+1.  Acceder al menú principal Parametrización \> Parámetros CITSmart;
 
-2.  Definir o valor do parâmetro a ser configurado;
+2.  Definir el valor del parámetro que se va configurar;
 
-3.  Efetuar a mudança;
+3.  Hacer el cambio;
 
-4.  Clicar no botão "Gravar";
+4.  Hacer clic en "Guardar";
 
-5.  A lista abaixo apresenta os parâmetros da funcionalidade e a finalidade de
-    cada um deles:
+5.  La lista siguiente muestra los parámetros de la funcionalidad y el propósito
+    de cada uno de ellos:
 
-|  #  |                                               Nome                                              | Valores possíveis |                                                   Finalidade                                                   |                                                                                                                                             Orientações complementares                                                                                                                                            |
-|:---:|:-----------------------------------------------------------------------------------------------:|:-----------------:|:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  39 | LDAP - ID do perfil de acesso que será setado automaticamente caso o usuário não possua nenhum. |       Ex: 2       |               Informar o número de identificação (ID) do Perfil de Acesso padrão para o usuário.               | Ao cadastrar um usuário e caso não seja informado o perfil de acesso, quando o mesmo realizar login na aplicação, será estabelecido o perfil de acesso (definido no valor do parâmetro). Essa regra vale para os usuários importados do AD. Esse ID do Perfil de Acesso é definido na tela de “Perfil de Acesso”. |
-|  45 |                                      LDAP - ID Grupo Padrão                                     |       Ex:123      |       Informar o número de identificação (ID) do grupo padrão, ao qual os usuários do AD serão associados      |                                                                                                                            Esse ID do grupo é definido na tela de "Cadastro de Grupo".                                                                                                                            |
-| 409 |                  LDAP - Atributo que representa o superior imediato do usuário                  |     Ex: Maria     | Nome do superior imediato do usuário no LDAP para que se consiga recuperar essa informação pelo AD do cliente. |                                                                                                                           Para poder usar em casos de aprovação de um ticket por exemplo                                                                                                                          |
-
+| **#** |                                            **Nombre**                                            | **Valores posibles** |                                                      **Finalidad**                                                     |                                                                                                                                             **Orientaciones complementarias**                                                                                                                                             |
+|:-----:|:------------------------------------------------------------------------------------------------:|:--------------------:|:----------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   39  | LDAP - ID del perfil de acceso que se establecerá automáticamente si el usuario no tiene ninguno |        Ej.: 2        |              Indicar el número de identificación (ID) del perfil de acceso predeterminado para el usuario              | Al registrar un usuario, y si no se informa el perfil de acceso, cuando el/ella accede a la aplicación, se establecerá el perfil de acceso (definido en el valor del parámetro). Esta regla vale para los usuarios importados del AD. Este identificador de perfil de acceso se define en la pantalla "Perfil de acceso". |
+|   45  |                                    LDAP - ID de grupo estándar                                   |        Ej.:123       |        Indicar el número de identificación (ID) del grupo predeterminado al que se asociarán los usuarios del AD       |                                                                                                                             Este ID del grupo se define en la pantalla de "Registro de Grupo".                                                                                                                            |
+|  409  |                 LDAP - Atributo que representa el superior inmediato del usuario                 |      Ej.: Maria      | Nombre del superior inmediato del usuario en el LDAP para que se pueda recuperar esa información por el AD del cliente |                                                                                                                             Para poder usar en casos de aprobación de un ticket, por ejemplo.                                                                                                                             |
 
 Tabela 1 - Tabela de parâmetros
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
