@@ -3,6 +3,7 @@ Title: Frequently Asked Questions - FAQ
 # Frequently Asked Questions - FAQ
 
 ??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
+
     Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
 
     Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
