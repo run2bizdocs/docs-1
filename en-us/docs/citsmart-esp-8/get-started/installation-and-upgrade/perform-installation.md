@@ -417,29 +417,29 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-**PostgreSQL Database Server**
+    **PostgreSQL Database Server**
 
-```sh
-systemctl postgresql start
-```
+    ```sh
+    systemctl postgresql start
+    ```
 
-**MongoDB Database Server**
+    **MongoDB Database Server**
 
-```sh
-/opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
-```
+    ```sh
+    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
+    ```
 
-**Apache Solr Indexing Server**
+    **Apache Solr Indexing Server**
 
-```sh
-su solr /opt/solr/bin/solr start -s /bin/bash
-```
+    ```sh
+    su solr /opt/solr/bin/solr start -s /bin/bash
+    ```
 
-**Wildfly Application Server**
+    **Wildfly Application Server**
 
-```sh
-su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
-```
+    ```sh
+    su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
+    ```
 
 CITSmart Enterprise Deployment
 
