@@ -2,54 +2,57 @@ Title: Frequently Asked Questions - FAQ
 
 # Frequently Asked Questions - FAQ
 
-??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
+??? Question "¿Cómo son clasificados según el ranking los documentos en el momento de la consulta de SOLR en la base de conocimientos?"
 
-    Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
+    Para rankear (colocar) los documentos en el momento de la búsqueda, el Solr genera una puntuación (score) para cada documento.
 
-    Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
-    
-    Os impulsionadores do Solr podem ser utilizados em dois momentos, no momento da indexação ou consulta, sendo mais comum o seu uso na pesquisa.
-    Alguns impulsionadores que podem alterar o cálculo da pontuação, no momento da pesquisa, são:
-    
-    -   term\^num: onde o “num” é a importância do termo pesquisado, exemplo:
-    incident\^2;
+    Así, el documento que posee la mayor puntuación, es presentado en primer lugar y los demás, con menor puntuación, en secuencia.
 
-    -   E também pode ser utilizado os impulsionadores de campo e as funções do
-    dismax e edismax para impulsionar a pesquisa.
+    Para calcular la puntuación de los documentos, Solr utiliza un algoritmo default, donde se comprueba la frecuencia del término (term frequency) investigado. Pero, es posible cambiar la puntuación con la utilización de los impulsores (boosts).
+
+    Los impulsores del Solr pueden ser utilizados en dos momentos, en el momento de la indexación o consulta, siendo más común su uso en la búsqueda.
+
+    Algunos impulsores que pueden cambiar el cálculo de la puntuación, en el momento de la búsqueda, son:
     
-    No ITSM não é utilizado nenhum impulsionador, até o momento, somente é utilizado o cálculo padrão de pontuação do Solr, e no final da pesquisa é realizado a ordenação pela pontuação e pela quantidade de vezes que o conhecimento foi votado/curtido.
+    -  term^num:donde el "num" es la importancia del término búscado, por ejemplo: incid ^ 2;
+
+    -  y también puede ser utilizado los impulsores de campo y las funciones del dismax y edismax para impulsar la búsqueda.
     
-    Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
+    En el ITSM no se utiliza ningún impulsor, hasta el momento, sólo se utiliza el cálculo default de puntuación del Solr, y al final de la investigación se realiza la ordenación por la puntuación por la cantidad de veces que el conocimiento fue votado/gustado.
+
+    Los impulsores están abiertos para el uso, pero para utilizarlos es necesario un análisis mejor de la importancia de los campos y de los documentos añadidos al Solr, por la base de conocimiento.
+
     
-??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
-    ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
-    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido..
+??? Question "¿Cómo puede la Gestión de Eventos convertirse en una herramienta de Monitorización de Negocios?"
     
-    Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
+    ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITOREO DE NEGOCIOS)
+    Es posible conectar el componente EVM con cualquier software, incluso un diferente de los que el módulo de Gestión de eventos normalmente se integra (Nagios, Zabbix e Inventory), siempre y cuando los datos enviados (vía webservice) sigan un padrón preestablecido.
+
+    Una vez que los datos se envían al CITSmart Event Monitor, se pueden crear reglas (por ejemplo, con el EPL de espera) para que determinados eventos se disparen de acuerdo con alguna condición observada en los datos.
+
+    Ejemplo "Hoja/Nómina de pago":
     
-    Exemplo "Folha de Pagamentos": 
+    - Digamos que es una regla de una empresa no contratar a más de 5 empleados por sector.
+    - El programa de nóminas podría enviar los datos mínimos de cada contratación por departamento (definido en el plan presupuestario de la empresa), de modo que cuando el número de contracción por departamento supera el límite preestablecido, un evento de "exceso de contratación " Podría ser disparado.
     
-    - Digamos que seja regra de uma empresa não contratar mais de 5 funcionários por setor.
-    - O programa de folha de pagamento poderia enviar os dados mínimos de cada contratação por departamento (definido no plano orçamentário da empresa), de modo que sempre que o número de contração por departamento ultrapassar o limite pré-estabelecido, um evento de “excesso de contratação” poderia ser disparado.
+??? Question "¿Cómo acceder a la solicitud de servicio a partir de la notificación de e-mail?"
     
-??? Question "Como acessar a solicitação de serviço a partir da notificação de e-mail?"
-    Para acessar a solicitação de serviço a partir da notificação de e-mail, proceda conforme orientações abaixo:
+    Para acceder a la solicitud de servicio desde la notificación de correo electrónico, proceda de la siguiente manera:
    
-    1. Certifique-se de que esteja logado no sistema;
-    2. Abra a notificação de e-mail referente a solicitação de serviço;
-    3. A notificação terá o número da solicitação com um hyperlink, basta clicar no número, que logo em seguida será redirecionado para tela de Gerenciamento de Serviços apresentando as informações da solicitação.
+    1. Asegúrese de que está conectado al sistema.
+    2. Abra la notificación de correo electrónico referente a la solicitud de servicio;
+    3. La notificación tendrá el número de solicitud con un hipervínculo, simplemente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
     
-??? Question "Como faço o desenho de ativos que compõem o meu serviço?"
-    É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
+??? Question "¿Cómo hago el diseño de activos que componen mi servicio?"
+   
+    Se hace el diseño de activos que componen el servicio utilizando la herramienta de Diseño de Mapa de Servicio que proporciona diseños eficientes y eficaces para la gestión del servicio durante su ciclo de vida, demostrando los ítems de configuración relacionados.
+
+    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
-    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento Configuração dos atributos do serviço):
-    
-    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;
-    2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
-    3. Realize o desenho;
-    4.  Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Apoio/Técnico: Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;  
-    5. A tela para projetar os ativos que compõem o Serviço de Apoio/Técnico será apresentada;
-    6. Realize o desenho.
+    1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo → Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
+    2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
+    3. Realice el diseño
+   
     
 ??? Question "Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?"
     Para definir o grupo padrão para atendimento de 1º nível, proceda conforme as orientações abaixo:
