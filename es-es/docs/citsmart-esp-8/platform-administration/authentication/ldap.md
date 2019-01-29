@@ -40,9 +40,6 @@ Procedimiento
     la configuración, de lo contrario, la prueba utilizará los datos anteriores
     a los cambios hechos en la pantalla.  
 
-
-  !!! Abstract "REGLA"
-
     Cuando hay una solicitud de autenticación en la pantalla de identificación
     del sistema (login y contraseña), se ejecuta un ciclo de búsqueda de la
     conexión correcta sobre la base de esta configuración, es decir, hay un
