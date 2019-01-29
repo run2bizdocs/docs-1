@@ -46,7 +46,7 @@ Relacionado
 
 [Registrar costo por hora de indisponibilidad](/es-es/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html) 
 
-[Registrar grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/configuration/register-availability-group.htmlm)
+[Registrar grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
