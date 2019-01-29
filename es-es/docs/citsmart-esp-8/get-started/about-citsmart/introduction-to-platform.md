@@ -1,85 +1,85 @@
-Title: Introdução a Plataforma
-Description: Contextualização de mudanças e Gerenciamento de Serviços
+Title: Introducción a la Plataforma
+Description: Contexto de cambios y Gestión de Servicios
 
-#Introdução a Plataforma
+#Introducción a la Plataforma
 
-Esteja preparado para a mudança
+Esté preparado para el cambio
 -------------------------------
 
-Flexibilidade, adaptabilidade e preparação para a mudança é o que definirá as
-empresas que sobreviverão e as que não existirão mais. Portanto, quem quer que
-vá em frente não é aquele que prevê o futuro, mas quem o segue.
+Flexibilidad, adaptabilidad y preparación para el cambio es lo que definirá las
+empresas que van sobrevivir y las que no existirán más. Por tanto, quienquiera que
+vaya adelante no es el que prevé el futuro, sino quien lo sigue.
 
-Algumas empresas têm dificuldade em se mover rapidamente, não só pelo número de
-pessoas ou processos, mas também principalmente pela sua motivação, a velocidade
-de lançamento de novos produtos e idéias é muito rápida, porque todos estão
-envolvidos principalmente no resultado.
+Algunas empresas tienen dificultades para moverse rápidamente, no sólo por el número de
+personas o procesos, pero también principalmente por su motivación, la velocidad
+de lanzamiento de nuevos productos e ideas es muy rápido, porque todos están
+implicados principalmente en el resultado.
 
-*Estar preparado para o futuro está sendo preparado para mudanças.*
+*Estar preparado para el futuro es estar preparado para cambios.*
 
--   A mudança rápida está ajudando as pessoas a mudar.
+-   El cambio rápido está ayudando a las personas a cambiar.
 
--   Apoiar a mudança nas pessoas está mudando rapidamente os processos.
+-   Apoyar el cambio en las personas está cambiando rápidamente los procesos.
 
-Se este é o trinômio para Mudança rápida e sem dor, qual é a razão para tal
-dificuldade? A principal razão é que não faz sentido pensar em processos se
-esses processos não levarem a resultados e objetivos. Talvez os processos sejam
-os meios, não o fim. O final é sempre os novos resultados. Gestão por processos
-não é suficiente para isso.
+Si este es el trinomio para el Cambio rápido y sin dolor, ¿cuál es la razón de tal
+dificultad? La principal razón es que no tiene sentido pensar en procesos si
+estos procesos no lleven a resultados y objetivos. Tal vez los procesos sean
+los medios, no el final. El final es siempre los nuevos resultados. Gestión por procesos
+no es suficiente para ello.
 
-Serviços… Entregando Valor
+Servicios… Entregando Valor
 --------------------------
 
-Qual conceito seria mais apropriado para agregar valor? Você já pensou sobre o
-conceito de serviços? Você deve estar pensando:
+¿Qué concepto sería más apropiado para agregar valor? Usted ha pensado en el
+concepto de servicios? Usted debe estar pensando:
 
--   O que você quer dizer?
+-   ¿Qué quieres decir?
 
--   Quais serviços tem a ver comigo?
+-   ¿Qué servicios tiene que ver conmigo?
 
-Não importa qual seja seu campo de ação; você precisa entregar valor para
-alguém. Nesta nova economia, muitas pessoas entendem esse valor como experiência
-e esse conceito é a nova maneira de se conectar com a nova geração de clientes.
+No importa cuál sea su campo de acción; usted necesita entregar valor para
+alguien. En esta nueva economía, muchas personas entienden este valor como experiencia
+y este concepto es la nueva manera de conectarse con la nueva generación de clientes.
 
-Um conceito de serviços:
+Un concepto de servicios:
 
-*"É um produto da atividade humana que satisfaz uma necessidade. Representa
-valor para alguém".*
+*"Es un producto de la actividad humana que satisface una necesidad. Representa
+valor para alguien".*
 
-Serviços definem metas. Representa em sua essência "resultados" e "realização de
-objetivos". É o que todo mundo está procurando.
+Servicios definem metas. Representa en su esencia "resultados" y "realización de
+metas". Es lo que todo el mundo está buscando.
 
-É fácil pensar em serviços para clientes finais, toda a experiência dos clientes
-é composta deles; no entanto, você já ouviu falar de serviços corporativos?
-Talvez o termo seja novo, mas é simples, é colocar áreas internas ou
-departamentos para fornecer resultados para o outro. Isso muda tudo.
+Es fácil pensar en servicios para clientes finales, toda la experiencia de los clientes
+se compone de ellos; sin embargo, usted ha oído hablar de servicios corporativos?
+Tal vez el término sea nuevo, pero es simple, es colocar áreas internas o
+departamentos para proporcionar resultados para el otro. Esto cambia todo.
 
-Com esse conceito de "serviços corporativos", uma administração ou organização
-maior pode se adaptar facilmente. Você pensa e adapta os novos resultados que
-terão de ser fornecidos por cada departamento (e geral) e, em seguida, cada
-departamento se adapta internamente em termos de processos. O foco foi
-totalmente adaptado, bem como a capacidade de resposta e motivação.
+Con este concepto de "servicios corporativos", una administración u organización
+más grande puede adaptarse fácilmente. Usted piensa y adapta los nuevos resultados que
+deberán ser suministrados por cada departamento (y general) y, a continuación, cada
+departamento se adapta internamente en términos de procesos. El foco fue
+totalmente adaptado, así como la capacidad de respuesta y motivación.
 
-Serviços Excelência
+Servicios de Excelencia
 -------------------
 
-O gerenciamento de serviços não é mais apenas para a TI. À medida que a
-digitalização se espalha pelas empresas, ela atende às necessidades de todos os
-departamentos. O gerenciamento de serviços expandiu-se para representar novas
-maneiras de dar suporte aos negócios, alinhando departamentos, eliminando silos,
-melhorando a utilização de recursos, automatizando processos e fornecendo melhor
-gerenciamento a toda a empresa, reduzindo assim os custos.
+La gestión de servicios ya no es sólo para TI. A medida que la
+digitalización se extiende por las empresas, atiende a las necesidades de todos los
+departamentos. La administración de servicios se ha expandido para representar nuevas
+maneras de dar soporte a los negocios, alineando los departamentos, eliminando los silos,
+mejorando la utilización de recursos, automatizando procesos y proporcionando mejor
+gestión a toda la empresa, reduciendo así los costos.
 
-O que preocupa a maioria das empresas é definir o que separa uma boa experiência
-de cliente de uma ruim. Hoje, no mundo dos negócios, muitas das necessidades da
-própria empresa tendem a ofuscar as necessidades dos clientes.
+Lo que preocupa a la mayoría de las empresas es definir lo que separa una buena experiencia
+del cliente de una mala. Hoy, en el mundo de los negocios, muchas de las necesidades
+propia de la empresa tienden a ofuscar las necesidades de los clientes.
 
-A CITSmart Corporation acredita que o foco do negócio deve estar na boa
-experiência do cliente e estar um passo à frente depende de como você conecta os
-serviços e processos.
+CITSmart Corporation cree que el foco del negocio debe estar en la buena
+experiencia del cliente, y estar un paso adelante depende de cómo se conecta
+servicios y procesos.
 
-Essa é a nova mentalidade para as novas empresas e nossa CITSmart ESP -
-Enterprise Services Platform ajudará mudanças na perspectiva dessas corporações.
+Esta es la nueva mentalidad para las nuevas empresas y nuestra CITSmart ESP -
+Enterprise Services Platform ayudará a cambiar la perspectiva de estas corporaciones.
 
 !!! tip "About"
     <b>Updated:</b>01/17/2018 - Andre Luiz de Oliveira Fernandes

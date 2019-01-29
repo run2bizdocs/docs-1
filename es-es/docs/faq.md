@@ -707,9 +707,14 @@ Title: Preguntas frecuentes - FAQ
     
     Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
 	
+<<<<<<< HEAD
     [Download - ScriptRhino Tabla fato][1]
     
     [1]:/es-es/images/script-tabla-fato.zip
+=======
+	[Download - ScriptRhino Tabla fato][1]
+	
+>>>>>>> f16164fd179c39e3dac1e44f01a71d2cc21006ce
 	
     
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
@@ -793,3 +798,7 @@ Title: Preguntas frecuentes - FAQ
     Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
 	
+
+
+
+[1]:images/script-tabla-fato.zip

@@ -1,54 +1,54 @@
-title: Executar uma liberação
-Description: Permite registrar as informações referente a execução da requisição de liberação das mudanças. 
-#Executar uma liberação
-Esta funcionalidade permite registrar as informações referente a execução da requisição de liberação das mudanças.
+title:  Ejecutar una liberación 
+Description: Permite registrar la información referente a la ejecución de la solicitud de liberación de los cambios.
+#Ejecutar una liberación
+Esta funcionalidad permite registrar la información referente a la ejecución de la solicitud de liberación de los cambios.
 
-Antes de começar
---------------------
-
-Para executar uma requisição de liberação é necessário o cadastro prévio da
-mesma e a permissão de execução desta requisição.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Liberação;
+Para ejecutar una solicitud de liberación, es necesario su registro previo y el
+permiso de ejecución de esta solicitud.
 
-2-  Localizar a requisição de liberação a executar, clicar no botão “Abrir” e
-    confirmar a atribuição da tarefa;
+Procedimiento
+-------------
 
-3-  Na área **Fechamento**, clicar no botão "Resolvida", selecionar a categoria
-    de solução da execução e informar também as informações úteis a execução da
-    requisição de liberação
+1-  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-4-  Também é possível vincular algumas funcionalidades á requisição, tais
-    como: **Problemas**, **Conhecimento**, **Mídia
-    definitiva**,**Papéis/Responsabilidades**.
+2-  Buscar la solicitud de liberación que se va a ejecutar, hacer clic en el
+    botón “Abrir” y confirmar la asignación de la tarea;
 
-!!! Abstract "ATENÇÃO"  
+3-  En el área **Cierre**, hacer clic en "Resuelto", seleccionar la categoría de
+    solución de la ejecución e informar también la información útil para la
+    ejecución de la solicitud de liberación
 
-    Para maiores informações sobre como vincular estas funcionalidades, ler o
-    conhecimento referente ao mesmo na aba " Relacionados", localizado no canto
-    direito da tela.
+4-  También es posible vincular algunas funcionalidades a la solicitud, tales
+    como: **Problemas, Conocimiento, Media definitiva,
+    Papeles/Responsabilidades**.
 
-5-  Podemos visualizar o histórico de ocorrências da liberação ao apertar no
-    ícone “Registro de Execução”e o fluxo referente a mesma ao clicar no
-    ícone “Visualizar fluxo”;
+!!! Abstract "ATENCIÓN"
 
-6-  Clicar em “Opções” e em seguida em "Gravar e avançar o fluxo" ou "Gravar e
-    manter a tarefa atual" para executar a requisição de liberação.
+    Para mayor información sobre cómo vincular estas funcionalidades, leer el
+    conocimiento referente en la pestaña "Relacionados", ubicado en la esquina
+    derecha de la pantalla.
+
+5-  Podemos ver el historial de ocurrencias de la liberación al apretar el
+    icono “Registro de Ejecución” y el flujo referente misma al hacer clic en el
+    icono “Ver flujo”;
+
+6-  Hacer clic en “Opciones” y después en "Guardar y avanzar flujo" o "Guardar y
+    mantener la tarea actual" para ejecutar la solicitud de liberación.
+
 
 Relacionado
 ---------------
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-[Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço
