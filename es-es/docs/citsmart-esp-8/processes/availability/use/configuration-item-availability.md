@@ -29,7 +29,7 @@ Procedimiento
     total y Ocurrencia de indisponibilidad, a través de los filtros de período;
 
 6.  Para descargar la tabla de disponibilidad total y/o ocurrencias de
-    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área.
+    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área. 
 
 Relacionado
 ----------------
@@ -46,7 +46,7 @@ Relacionado
 
 [Registrar costo por hora de indisponibilidad](/es-es/citsmart-esp-8/processes/configuration/use/cost-per-hour-unavailability.html) 
 
-[Registrar grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/configuration/register-availability-group.htmlm)
+[Registrar grupo de disponibilidad](/es-es/citsmart-esp-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
