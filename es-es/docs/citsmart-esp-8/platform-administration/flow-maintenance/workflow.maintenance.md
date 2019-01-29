@@ -15,17 +15,17 @@ Procedimiento
 
 4-  En Diagrama, se va hacer el diseño del flujo. Hay 6 grupos de conectores:
 
--   \*\*Eventos\*\*: presenta los elementos de eventos para utilizar en el
+-   **Eventos**: presenta los elementos de eventos para utilizar en el
     diseño
 
     del flujo;
 
--   \*\*Actividades\*\*: presenta los elementos de tareas para utilizar en el
+-   **Actividades**: presenta los elementos de tareas para utilizar en el
     diseño
 
    del flujo;
 
--   \*Gateways\*\*: presenta los elementos de condiciones para utilizar en el
+-   **Gateways**: presenta los elementos de condiciones para utilizar en el
 
    diseño del flujo.
 
