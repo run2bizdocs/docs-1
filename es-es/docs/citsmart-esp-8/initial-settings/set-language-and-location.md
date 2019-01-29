@@ -15,9 +15,7 @@ Procedimiento
 
      Acceda a la funcionalidad a través del menú principal Parámetro > Parámetros CITSmart:
         - Busque el parámetro 275;
-
         - Seleccione "SIM";
-
         - Haga clic en "Guardar".
 
 
