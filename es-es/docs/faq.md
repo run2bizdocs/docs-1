@@ -103,7 +103,7 @@ Title: Preguntas frecuentes - FAQ
     
     El mecanismo de respuesta automática, que responderá automáticamente a las encuestas de satisfacción de las solicitudes de servicio, se produce cuando la encuesta de satisfacción no es respondida por el usuario, dentro de un plazo definido por el administrador del sistema.
 
-    Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones (ver conocimiento Reglas de parametrización - Aprovisionamiento y Logistica):
+    Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones:
 
     1. Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
     
@@ -714,73 +714,88 @@ Title: Preguntas frecuentes - FAQ
 	[Download - ScriptRhino Tabla fato PostgreSQL V70][6]
 	[Download - ScriptRhino Tabla fato PostgreSQL V71][7]
 	
+	[1]:/es-es/images/carga-tabla-fato-SQLserver.docx
+	[2]:/es-es/images/carga-tabla-fato-PostgreSQL.docx
+	[3]:/es-es/images/carga-tabla-fato-OracleV71.docx
+	[4]:/es-es/images/carga-tabla-fato-OracleV70.docx
+	[5]:/es-es/images/carga-tabla-fato-SQLserverV71.docx
+	[6]:/es-es/images/carga-tabla-fato-PostgreSQLV70.docx
+	[7]:/es-es/images/carga-tabla-fato-PostgreSQLV71.docx
     
-??? Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
-    Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
+??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
-	Vejamos um exemplo genérico:
-    - O serviço A possui um fluxo de qualidade vinculado. Após solucionada uma solicitação referente ao serviço A e avançar o fluxo, o grupo responsável será o de qualidade e este encerrará o ciclo de vida da solicitação em questão, porém este grupo não é o grupo que solucionou esta solicitação, ele apenas aprovou a solução e encerrou a solicitação, portanto não será apresentado no relatório gerado pela tela de pesquisa de Requisições e Incidentes quando o filtro "Grupo solucionador" estiver marcado com um grupo específico.
-    - Entretanto, quando o filtro "Grupo Solucionador" não estiver ativo, o grupo apresentado no relatório ou na pesquisa será o grupo referente à tarefa atual da solicitação, ou seja, caso a solicitação esteja fechada e possua um fluxo de qualidade, será apresentado o grupo de qualidade como o grupo atual responsável pelo encerramento do ciclo de vida desta solicitação. E caso a solicitação esteja em andamento, será apresentado o grupo atual responsável pela execução desta solicitação.
-    
-??? Question "Quais o significado de cada status do inventário de ICs?"
-    - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
-    - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load temos uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
-    - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
-    - Não inventariado: quando nem encontra o IC na rede, mas tem conhecimento de que ele já existiu;
-    - Em execução: durante a leitura do inventário, o IC fica nesse status.
-    
-??? Question "Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?"
-    - Público: todos os usuários com acesso no Portal do Conhecimento possuem acesso, independente se têm acesso à pasta do conhecimento;
-    - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
-    - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
-    
-??? Question "Quais as permissões necessárias na pasta de destino do backup da tabela Logdados?"
-    A permissões na pasta devem ser de leitura e gravação para o usuário que o JBoss utiliza.
-    
-??? Question "Quando ocorre a sincronização dos dados com o LDAP?"
-    O sistema sincroniza os dados das credenciais de seus usuários com o LDAP em três situações distintas:
-    
-    1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
-    2. Quando o usuário faz o logon (o acesso ao sistema com seu login e senha), nesse momento o sistema automaticamente verifica a autenticação e permissão do usuário;
-    3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
-    
-??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
-    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
-    
-??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
-    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
-    
-??? Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
-    CENÁRIO
-    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
+    Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
 
-    O QUE CHECAR
-    1. Arquivo de configuração do Banco Postgresql:
+    Veamos un ejemplo genérico:
+    - El servicio A tiene un flujo de calidad vinculado. Después de solucionarse una solicitud referente al servicio A y avanzar el flujo, el grupo responsable será el de calidad y éste terminará el ciclo de vida de la solicitud en cuestión, pero este grupo no es el grupo que solucionó esta solicitud, sólo aprobó la solución y, ha finalizado la solicitud, por lo que no se presentará en el informe generado por la pantalla de búsqueda de solicitudes e incidentes cuando el filtro "Grupo de soluciones" esté marcado con un grupo específico.
+    - Sin embargo, cuando el filtro "Grupo Solucionador" no está activo, el grupo presentado en el informe o en la encuesta será el grupo correspondiente a la tarea actual de la solicitud, es decir, si la solicitud está cerrada y tiene un flujo de calidad, de calidad como el grupo actual responsable del cierre del ciclo de vida de esta solicitud. Y si la solicitud está en marcha, se presentará el grupo actual responsable de la ejecución de esta solicitud.
+    
+??? Question "¿Cuál es el significado de cada estado del inventario de ICs?"
+    
+    - Inventariado - El inventario logró leer la información del IC y se cerró con éxito;
+    - Ignorado -En la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
+    - Inaccesible - Cuando el servidor encuentra el IC, pero no puede traer la información;
+    - No inventariado - Cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
+    - En ejecución - Durante la lectura del inventario, el IC queda en ese estado.
+    
+??? Question "¿Cuál es el significado de cada privacidad que un conocimiento puede tener en la base de conocimientos?"
+    
+    - Público: todos los usuarios con acceso en el Portal del Conocimiento poseen acceso, independientemente de si tienen acceso a la carpeta del conocimiento.
+    - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento.
+    - Interno: sólo las personas con permiso en la carpeta del conocimiento pueden visualizar.
+    
+??? Question "¿Cuáles son los permisos necesarios en la carpeta de destino del backup de la tabla Logdados?"
+    
+    Los permisos en la carpeta deben ser de lectura y escritura para el usuario que utiliza JBoss.
+    
+??? Question "¿Cuándo ocurre la sincronización de los datos con el LDAP?"
+    
+    El sistema sincroniza los datos de las credenciales de sus usuarios con LDAP en tres situaciones distintas:
+    
+    1. En la activación de la aplicación, generalmente siguiendo el procedimiento de actualización de la versión del producto;
+    2. Cuando el usuario inicia sesión (el acceso al sistema con su login y contraseña), en ese momento el sistema automáticamente comprueba la autenticación y el permiso del usuario;
+    3. En la función Configuración de LDAP, cuando el usuario hace clic en la opción Sincronizar.
+    
+??? Question "¿Cuándo se produce la limpieza de los datos de la tabla Logdatos?"
+    
+    La rutina de copia de seguridad (backup) de la tabla de registros LogDados elimina los datos de la tabla y se guarda en el archivo, es decir, la tabla se queda limpia después del procesamiento.
+    
+??? Question "¿Por qué los horarios creados por la herramienta son diferentes de la hora actual?"
+    
+    ESCENARIO
+    1. Al crear un ticket, la hora es diferente a la hora real, alternando entre 1 (una) a 3 (tres) horas de retraso o antelación.
+
+    QUÉ VERIFICAR
+    1. Archivo de configuración del Banco Postgresql:
      - Postgresql.conf
      - timezone = 'BRAZIL/EAST'
-    2. No container cloud:
+    2. En el container cloud:
      - Setting timezone on the operating system.
-    3.Configuração do TimeZone no JRE: 
+    3.Configuración de TimeZone en JRE: 
      - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
-??? Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
-    Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
+??? Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
     
-    Já em outros relatórios, tais como o "Relatório Incidentes / Solicitações de Serviços" não há detalhamento da solicitação de acordo com as atividades e por isso não é mostrada a solicitação mais de uma vez. 
+    En algunos informes como por ejemplo el "Informe Incidentes/Solicitudes de Servicios - Detallado", tanto en formato pdf como en el xls, puede existir sí la misma solicitud más de una vez, sin embargo son informaciones distintas porque trata de cada etapa de la solicitud, entonces cada vez que ella "repite" es porque cambia la tarea, o el responsable, o la fase, o la situación, o el grupo solucionador o la fecha hora final de atención.
     
-??? Question "Por que o resultado é "Relatório Vazio" ao gerar o relatorioControlePercentualQuantitativoSla selecionando no filtro a situação "em Andamento" e o "grupo solucionador"?"
-    Não se trata de um erro, o campo de grupo solucionador é preenchido somente quando a solicitação é encerrada, isso faz com que só traga resultados para as situações do tipo "Fechada", incompatível com o que se está pedindo/informando nos filtros.
+    Ya en otros informes, tales como el "Informe Incidentes/Solicitudes de Servicios" no hay detalle de la solicitud de acuerdo con las actividades y por eso no se muestra la solicitud más de una vez.
     
-??? Question "Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?"
-    Tanto a tela de Solicitação de Serviços quanto em alguns relatórios (tais como "Qualidade de Atendimento - SLA"), a ordenação do número das solicitações segue uma ordem sequencial crescente, exceto quando:
+??? Question "¿Por qué el resultado es "Informe Vacío" al generar el informe control porcentual cuantitativo SLA seleccionando en el filtro la situación "en curso" y el "grupo solucionador"?"
     
-    1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
-    2. Quando o recurso denominado Sequence Block é impactado por um fator externo, isso ocorre se:
-    - Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
-    - O ambiente é clusterizado.
+    No se trata de un error, el campo de grupo de solucionador se completa sólo cuando se termina la solicitud, esto hace que sólo traiga resultados para las situaciones del tipo "Cerrada", incompatible con lo que se está pidiendo/informando en los filtros.
     
-??? Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
-    Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
+??? Question "¿Por qué la numeración de la solicitud de servicio no siempre seguirá un orden secuencial riguroso/perfecto en la pantalla de solicitud de servicio o en algunos Informes?"
+    
+    Tanto la pantalla de Solicitud de Servicios como en algunos informes (tales como "Calidad de Atención - SLA"), la ordenación del número de solicitudes sigue un orden secuencial creciente, excepto cuando:
+    
+    1. Los informes agrupan los datos por algún criterio especial (por ejemplo, por el plazo de SLA, que es lo que sucede en el caso del informe "Calidad de Atención - SLA");
+    2. Cuando el recurso denominado Sequence Block es impactado por un factor externo, esto ocurre si:
+    - Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
+    - El entorno se agrupa.
+    
+??? Question "¿El archivo de backup se sobrescribe o tendrá un archivo para cada día?"
+    
+    Si su rutina es una copia de seguridad al día, se creará un archivo por día, que contiene en el nombre la fecha de su archivo.
     
 ??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
     Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.  
