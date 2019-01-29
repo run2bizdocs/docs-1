@@ -2,62 +2,62 @@ Title: Cloud Architecture
 
 # CITSmart Cloud Architecture
 
-Arquitetura do CITSmart Cloud
+Arquitectura del CITSmart Cloud
 -----------------------------
 
-Com foco em uma expansão global e uma infra-estrutura tecnológica que atende aos
-requisitos de nossos clientes e parceiros, o CITSmart optou pelo modelo SaaS
-(Software como Serviço) para garantir agilidade no fornecimento de soluções para
-nossos clientes e parceiros e fornecer uma solução confiável e resiliente. e
-infra-estrutura segura. Na nuvem, temos uma infraestrutura computacional e uma
-arquitetura de rede projetada para atender aos mais altos requisitos
-tecnológicos e de segurança do mercado mundial.
+Con foco en una expansión global y una infraestructura tecnológica que atiende a los
+los requisitos de nuestros clientes y colaboradores, CITSmart optó por el modelo SaaS
+(Software como Servicio) para garantizar la agilidad en el suministro de soluciones para
+nuestros clientes y colaboradores, además de proporcionar una solución confiable, resistente y
+infraestructura segura. En la nube, tenemos una infraestructura computacional y una
+arquitectura de red diseñada para satisfacer las más altas exigencias
+tecnológicos y de seguridad del mercado mundial.
 
-Seguindo o exemplo de grandes empresas que oferecem seus serviços com base em
-soluções baseadas em nuvem, o CITSmart usa os recursos de tecnologia e segurança
-fornecidos pela Amazon Web Services (AWS). Usando a nuvem da AWS, nós, nossos
-parceiros e clientes podemos desfrutar de:
+Siguiendo el ejemplo de grandes empresas que ofrecen sus servicios basados en
+soluciones basadas en nube, CITSmart utiliza las características de tecnología y seguridad
+proporcionados por Amazon Web Services (AWS). Usando la nube de AWS, nosotros, nuestros
+colaboradores y clientes podemos disfrutar de:
 
-Uma plataforma de computação altamente escalável com alta confiabilidade e
-disponibilidade e segurança física projetada para grandes escalas.
+Una plataforma de computación altamente escalable con alta confiabilidad,
+disponibilidad y seguridad física diseñada para grandes escalas.
 
-Um legado de gerenciamento de vários programas e certificações de conformidade.
-Isso significa que herdamos automaticamente a conformidade com vários requisitos
-e padrões de infraestrutura.
+Un legado de gestión de varios programas y certificaciones de conformidad.
+Esto significa que heredamos automáticamente la conformidad de varios requisitos
+y estándares de infraestructura.
 
-Além dos recursos oferecidos pela nuvem, o Citsmart busca manter a segurança e a
-privacidade dos dados de seus clientes por meio de políticas internas e adoção
-de padrões para garantir a conformidade com os requisitos regulamentares
-internacionais.
+Además de los recursos ofrecidos por la nube, Citsmart busca mantener la seguridad y
+privacidad de los datos de sus clientes, a través de políticas internas y adopción
+de normas para garantizar el cumplimiento de los requisitos reglamentarios
+internacional.
 
-Visão geral da arquitetura de nuvem
+Visión general de la arquitectura de nube
 -----------------------------------
 
-Uma visão geral básica de como funciona a nuvem do CITSmart pode ser vista no
-diagrama abaixo:
+Una visión general básica de cómo funciona la nube del CITSmart se puede ver en el
+siguiente diagrama:
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
 CITSmart Cloud Security
 -----------------------
 
-O CITSmart tem conformidade de segurança com base nas seguintes áreas nas quais
-é responsável no ambiente de nuvem:
+CITSmart tiene la conformidad de la seguridad según las siguientes áreas en las que
+es responsable en el ambiente de nube:
 
-Dados do cliente
+Datos del cliente
 ----------------
 
-- Plataforma, Aplicativos, Gerenciamento de Identidade e Acesso
+- Plataforma, Aplicaciones, Gestión de Identidad y Acceso
 
-- Sistema Operacional, Rede e Firewall
+- Sistema Operativo, Red y Firewall
 
-- Criptografia de dados do lado do cliente
+- Criptografía de datos del cliente
 
-- Autenticação de integridade de dados
+- Autenticación de integridad de datos
 
-- Criptografia do lado do servidor (sistema de arquivos e dados)
+- Criptografía del servidor (sistema de archivos y datos)
 
-- Proteção de tráfego de rede (criptografia, integridade, identidade)
+- Protección de tráfico de red (criptografía, integridad, identidad)
 
 
 
