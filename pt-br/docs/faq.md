@@ -688,11 +688,7 @@ Perguntas Frequentes - FAQ
     1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
     2. Quando o usuário faz o logon (o acesso ao sistema com seu login e senha), nesse momento o sistema automaticamente verifica a autenticação e permissão do usuário;
     3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
-    
-??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
-   
-   A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
-    
+        
 ??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
     
     A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
