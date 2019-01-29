@@ -710,8 +710,6 @@ Title: Preguntas frecuentes - FAQ
 	[Download - ScriptRhino Tabla fato][1]
 	
 	
-	[1]:images/script-tabla-fato.zip
-	
     
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
@@ -794,3 +792,7 @@ Title: Preguntas frecuentes - FAQ
     Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
 	
+
+
+
+[1]:images/script-tabla-fato.zip
