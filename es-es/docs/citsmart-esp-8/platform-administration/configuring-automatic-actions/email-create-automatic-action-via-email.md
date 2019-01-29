@@ -1,36 +1,31 @@
-title: Criar ação automática via e-mail
-Description: Programar a abertura automática de solicitações de serviço via e-mail.
-#Criar ação automática via e-mail
+title:  Crear acción automática vía correo electrónico 
+Description: Programar la apertura automática de solicitudes de servicio vía correo electrónico.
+#Crear acción automática vía correo electrónico
 
-A finalidade desta funcionalidade é programar a abertura automática de
-solicitações de serviço via e-mail.
+La finalidad de esta funcionalidad es programar la apertura automática de solicitudes de servicio vía correo electrónico.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir ação automática via e-mail.
-
-Antes de começar
---------------------
-
-A criação automática via e-mail requer o registro prévio da ação automática de
-incidentes/requisições/procedimentos.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema
-    \> Configurações \> Configuração de ação automática via e-mail;
+La creación automática por correo electrónico requiere el registro previo de la
+acción automática de incidentes/solicitudes/procedimientos.
 
-2.  Preencher os campos disponibilizados;
+Procedimiento
+-------------
 
-3.  Clicar no botão "Gravar".
+1.  Acceder al menú principal Sistema \> Configuración \> Configuración de la
+    acción automática a través de correo electrónico;
 
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
 
 Relacionado
 -------
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
