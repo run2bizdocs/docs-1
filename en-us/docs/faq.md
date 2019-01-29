@@ -38,7 +38,7 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How do I design the assets that make up my service?"
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
-    To carry out this design, proceed as follows (see knowledge [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
+    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;
