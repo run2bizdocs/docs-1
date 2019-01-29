@@ -29,7 +29,7 @@ Procedimiento
     total y Ocurrencia de indisponibilidad, a través de los filtros de período;
 
 6.  Para descargar la tabla de disponibilidad total y/o ocurrencias de
-    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área.
+    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área. 
 
 Relacionado
 ----------------
