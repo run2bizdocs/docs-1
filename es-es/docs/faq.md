@@ -714,13 +714,13 @@ Title: Preguntas frecuentes - FAQ
 	[Download - ScriptRhino Tabla fato PostgreSQL V70][6]
 	[Download - ScriptRhino Tabla fato PostgreSQL V71][7]
 	
-	[1]:/es-es/images/carga-tabla-fato-SQLserver.docx
-	[2]:/es-es/images/carga-tabla-fato-PostgreSQL.docx
-	[3]:/es-es/images/carga-tabla-fato-OracleV71.docx
-	[4]:/es-es/images/carga-tabla-fato-OracleV70.docx
-	[5]:/es-es/images/carga-tabla-fato-SQLserverV71.docx
-	[6]:/es-es/images/carga-tabla-fato-PostgreSQLV70.docx
-	[7]:/es-es/images/carga-tabla-fato-PostgreSQLV71.docx
+	[1]:/es-es/images/faq.zip/carga-tabla-fato-SQLserver.docx
+	[2]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQL.docx
+	[3]:/es-es/images/faq.zip/carga-tabla-fato-OracleV71.docx
+	[4]:/es-es/images/faq.zip/carga-tabla-fato-OracleV70.docx
+	[5]:/es-es/images/faq.zip/carga-tabla-fato-SQLserverV71.docx
+	[6]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQLV70.docx
+	[7]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQLV71.docx
     
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
@@ -797,8 +797,9 @@ Title: Preguntas frecuentes - FAQ
     
     Si su rutina es una copia de seguridad al día, se creará un archivo por día, que contiene en el nombre la fecha de su archivo.
     
-??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
-    Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.  
-    Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.  
+??? Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
+    
+    En la interfaz de la Gestión de Tickets, específicamente en el elemento "Auditoría", al intentar configurar la auditoría de un ticket abierto (definir las fechas de inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará el mensaje de "Fecha Inválida ". Esto porque la funcionalidad necesita que el idioma definido en el sistema y en el explorador utilizado sean idénticos.  
+    Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
 	
