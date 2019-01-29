@@ -56,7 +56,7 @@ Relacionado
 
 [Registrar categoría de riesgo](/es-es/citsmart-esp-8/processes/continuity/use/risk-category.html)
 
-[CRegistrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/register-continuity-risk.html)
 
 [Registrar continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/register-service-continuity.html)
 
