@@ -38,9 +38,9 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How do I design the assets that make up my service?"
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
-    To carry out this design, proceed as follows (see knowledge Service attributes configuration):
+    To carry out this design, proceed as follows (see knowledge [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
-    1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service →Service Map;
+    1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;
     3. Perform the design
     4. Access the Service Asset Map Design functionality for the Support / Technical Service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service → Service Map.
@@ -50,7 +50,7 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How do I set a default group for the first level service request?"
     To set the default group for 1st level attendance, proceed as follows:
     
-    1. Access the Group Registration feature by navigating in the main menu Access and Permission → Group. The group registration screen will be displayed, displaying the contracts;
+    1. Access the Group Registration feature by navigating in the main menu Access and Permission > Group. The group registration screen will be displayed, displaying the contracts;
     2. Make the registration of the group of 1st level, if not registered, and proceed with the completion of the fields;
     3. If the 1st level group is already registered in the system, carry out the group search and obtain their identification number (ID);
     4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization → Parameters CITSmart.
@@ -95,11 +95,11 @@ Title: Frequently Asked Questions - FAQ
     
     To configure the automatic responses, proceed as instructed below:
 
-    1. Configure the following system parameters which determine the behavior of the automatic response mechanism (see knowledge Parameterization rules - Provisioning and Logistics):
+    1. Configure the following system parameters which determine the behavior of the automatic response mechanism:
     Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically filled out by the system;
     Parameter 152: Default rating which will be attributed to surveys that have been automatically filled out. Options: EXCELLENT, GOOD, REGULAR, POOR;
     Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
-    2. Access the Batch Processing feature (System → Batch Processing).
+    2. Access the Batch Processing feature (System > Batch Processing).
     3. The batch processing entry screen will be displayed, fill out the fields:
     Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
     Situation: the situation determines if this processing will be active or inactive. When it is inactive the requests will not be answered;
@@ -115,17 +115,17 @@ Title: Frequently Asked Questions - FAQ
     
     CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-	1. Access the GCAS Configuration feature navigating through the main menu ITIL Processes → Configuration Management → GCAS Configuration. Afterwards, the service assets and the management parameters (attributes) configuration screen will be displayed;
+	1. Access the GCAS Configuration feature navigating through the main menu ITIL Processes > Configuration Management > GCAS Configuration. Afterwards, the service assets and the management parameters (attributes) configuration screen will be displayed;
     2. Insert the parameters value (attributes):
     Name of the CIs Group which are in the Development Phase (i.e.: CIs in Development)
     Name of the CIs Group which are in the Production Phase (i.e.: CIs in Production)
     Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
-    3. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
+    3. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
     4. After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-	1. Access the Citsmart Parameters feature (Parametrization → Citsmart Parameters).
+	1. Access the Citsmart Parameters feature (Parametrization > Citsmart Parameters).
     2. Then, the Citsmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
     3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)"
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed.
@@ -145,7 +145,7 @@ Title: Frequently Asked Questions - FAQ
     
 	In order for the notification be sent it is necessary to perform the following procedures :
     
-    1. Access the Contract Services related to the business service Portfolio Management → Services Portfolio → Business Service → Contract → Services and technical service Portfolio Management → Service Portfolio → Business Service → Support/Technical Service → Contract → Services e and insert the e-mail template in the fields:
+    1. Access the Contract Services related to the business service Portfolio Management > Services Portfolio > Business Service > Contract > Services and technical service Portfolio Management > Service Portfolio > Business Service > Support/Technical Service > Contract > Services e and insert the e-mail template in the fields:
         
 		- 'Incident/Request Opening E-mail Template'
         - 'Incident/Requistion Execution E-mail Template'
@@ -153,7 +153,7 @@ Title: Frequently Asked Questions - FAQ
         
 	    RULE: if e-mail templates are not inserted, the notification will not be sent.
 
-    2. Access the Group Register feature General Registration → Staff Management → Group.
+    2. Access the Group Register feature General Registration > Staff Management > Group.
     
     3. The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
     4. Select it;
@@ -182,7 +182,7 @@ Title: Frequently Asked Questions - FAQ
     For this e-mail reading routine to work perfectly, the following procedures must be followed:
     
     1. Install the java 7 version, if it has lower version the routine will not work;
-    2. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
+    2. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
     3. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
     5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br)
@@ -210,19 +210,19 @@ Title: Frequently Asked Questions - FAQ
     
     To enable this rule, proceed as follows:
 
-    1. Access the CITSmart Parameters feature navigating through the main menu Parametrization → CITSmart Parameters;
+    1. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters;
     2. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
     3. The CITSmart Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)"
     4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation.
-    5. Click on the Save button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
+    5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
     
 ??? Question "How to enable the portal?"
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed, as shown in the figure below:
     3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
-    4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
 ??? Question "How to enable the satisfaction survey?"
     The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
@@ -230,19 +230,19 @@ Title: Frequently Asked Questions - FAQ
     To enable the satisfaction survey, proceed as instructed below:
     
     1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO})
-    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization → CITSmart Parameters.
+    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters.
     3. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
     4. Search for the parameter "Send e-mail when running requests/incidents flows";
     5. Select it.
     6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests.
     7. Click on the Save button to confirm the procedure.
-    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and technical service Portfolio Management and Catalog → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
+    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
     
 ??? Question "How to enable the scheduling rule of the problems module?"
     The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
+    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
     2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
     3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
@@ -306,7 +306,7 @@ Title: Frequently Asked Questions - FAQ
 
 	FROM THE GROUP'S REGISTRY
 	
-    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see knowledge Group registration and search);
+    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html));
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
     4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
@@ -314,7 +314,7 @@ Title: Frequently Asked Questions - FAQ
     
 	FROM THE USER'S REGISTRY
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see knowledge Staff registration and search);
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see [Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html));
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
@@ -345,7 +345,7 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
     
-	1. Access path: System → Settings → Environment settings; Three frames will appear for image upload:
+	1. Access path: System > Settings > Environment settings; Three frames will appear for image upload:
     - Initial Logo: Image displayed on the initial login screen of the system;
     - Portal Logo: Image presented in the System Services Portal;
     - System Logo: Image presented when accessing the system;
