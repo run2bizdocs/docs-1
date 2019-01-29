@@ -47,7 +47,7 @@ Relacionado
 
 [Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-Cadastrar um problema
+Registrar problema
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
