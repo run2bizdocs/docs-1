@@ -1,26 +1,27 @@
-Title: Configurar o idioma padrão 
-#Configurar o idioma padrão
+Title: Configurar el idioma predeterminado 
+#Configurar el idioma predeterminado
 
-Esta funcionalidade tem por objetivo de configurar o idioma padrão do sistema.  
+Esta funcionalidad tiene por objeto configurar el idioma predeterminado del sistema.  
 
-## Procedimento
+Procedimiento
+---------
 
-1. Acessar a funcionalidade através do menu Parametrização > parâmetros CITSmart;   
-2. Procurar o parâmetro 66, configurar o valor EN para Inglês, ES para Espanhol ou PT para Português;
-3. Clicar em " Salvar".
+1. Acceder al menú principal Parametrización > parámetros CITSmart;   
+2. Buscar por el parámetro 66, configurar el valor EN para Inglés, ES para Español o PT para Portugués;
+3. Hacer clic en "Guardar".
 
-!!! info "Manter o sistema sempre em Inglês"  
+!!! info "Mantener el sistema siempre en inglés"  
 
-    1. Acesse a funcionalidade através do menu principal Parameterização > Parâmetros CITSmart:   
-    2. Pesquisar pelo parâmetro 275; 
-    3. Selecionar "SIM";
-    4. Clicar em "Salvar".
+    1. Acceda a la funcionalidad a través del menú principal Parámetro > Parámetros CITSmart:
+    2. Busque el parámetro 275;
+    3. Seleccione "SIM";
+    4. Haga clic en "Guardar".
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins
 
 
 

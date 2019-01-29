@@ -1,41 +1,42 @@
-title: Verificar o posicionamento dos atendentes
-Description: verificar o posicionamento dos técnicos, ou seja, a localização atual dos técnicos de campo, responsáveis pelo atendimento das solicitações de serviço.
-#Verificar o posicionamento dos atendentes
+title: Verificar el posicionamiento de los asistentes
+Description: Verificar el posicionamiento de los técnicos
+#Verificar el posicionamiento de los asistentes
 
-Esta funcionalidade tem por objetivo verificar o posicionamento dos técnicos, ou
-seja, a localização atual dos técnicos de campo, responsáveis pelo atendimento
-das solicitações de serviço.
 
-Nesta tela, poderá visualizar a localização do(s) técnicos(s) no mapa de acordo
-com os filtros informados.
+Esta funcionalidad tiene por objetivo verificar el posicionamiento de los
+técnicos, es decir, la ubicación actual de los técnicos de campo, responsables
+por la atención de las solicitudes de servicio.
 
-Antes de começar
+En esta pantalla, podrá ver la ubicación de los técnicos en el mapa de acuerdo
+con los filtros informados.
+
+Antes de empezar
 --------------------
 
-É necessário configurar a conexão do sistema com as API's do Google.
+Es necesario configurar la conexión del sistema con las API del Google.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Gestão
-    Integrada \> Gerência de Força de Atendimento \> Posicionamento dos
-    Atendentes;
+1.  Acceder al menú principal Gestión Integrada \> Gestión de Fuerza de
+    Tratamiento \> Posicionamiento de Técnicos;
 
-2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar";
+2.  Definir los filtros según sea la necesidad y hacer clic en "Buscar";
 
-3.  Serão exibidos no mapa os pontos de localização dos técnicos. Clicar, então,
-    no ponto de localização do técnico para verificar as informações referentes
-    ao atendimento da solicitação de serviço.
+3.  Se mostrarán en el mapa, los puntos de localización de los técnicos. Hacer
+    clic en el punto de localización del técnico para verificar las
+    informaciones referentes a la atención de la solicitud de servicio.
+
 
 
 Relacionado
 -------
 
-[Manual de configuração do servidor CITSmart Enterprise ITSM para uso de APPs(iOS e Android)](https://docs-dev.citsmart.com/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Manual de configuración del servidor CITSmart Enterprise ITSM para uso de APPs (iOS e Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
 

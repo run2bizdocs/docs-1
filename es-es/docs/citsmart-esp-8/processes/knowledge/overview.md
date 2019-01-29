@@ -1,42 +1,42 @@
-title: Gerenciamento de Conhecimento
+title: Gestión de Conocimiento
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
-#Gerenciamento de Conhecimento
+#Gestión de Conocimiento
 
-Apresentação
+Presentación
 ----------------
 
-A premissa do Gerenciamento do Conhecimento é administrar as informações, sendo este um importante ativo da empresa. Compila-os em uma base a fim de que todos os usuários do sistema adquiram um nivelamento de técnicas e uma melhor compreensão sobre o uso e funcionamento do produto.
+La premisa de la Gestión del Conocimiento es administrar las informaciones, siendo éste un importante activo de la empresa. Los compila en una base para que todos los usuarios del sistema adquieran una nivelación de técnicas y mejor comprensión sobre el uso y funcionamiento del producto.
 
 Uso
 -------
 
-- [Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
+- [Crear conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-- [Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
+- [Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
-- [Refinar pesquisas no Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Refinar búsquedas en el Portal do Conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
-Configuração
+Configuración
 -----------------
 
-- [Criar pasta](/pt-br/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
+- [Crear carpeta](/es-es/citsmart-esp-8/processes/knowledge/configuration/create-folder.html)
 
-- [Cadastrar categoria de imagem](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
+- [Registrar categoría de imagen](/es-es/citsmart-esp-8/processes/knowledge/configuration/register-image-category.html)
 
-- [Armazenar imagens na galeria](/pt-br/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
+- [Almacenar imágenes en la galería](/es-es/citsmart-esp-8/processes/knowledge/configuration/store-images-gallery.html)
 
-- [Cadastrar sinônimo](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
+- [Registrar sinónimo](/es-es/citsmart-esp-8/processes/knowledge/configuration/register-synonym.html)
 
-- [Cadastrar assunto](/pt-br/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
+- [Registrar tema](/es-es/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
 
-- [Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
-Relatório
+Informe
 -----------
 
-- [Gerar relatórios - Gerência de conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Generar informes - Gestión de conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

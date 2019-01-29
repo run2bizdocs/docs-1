@@ -1,243 +1,242 @@
-title: Visão Geral ESP  
+title: Visión General ESP  
 
 CITSmart ESP
 ============
 
-O CITSmart ESP é uma plataforma inteligente de governança corporativa, criada para
-facilitar a unificação de informações. Permite a gestão da
-Informação dos serviços e seus processos no ambiente organizacional,
-proporcionando governança.
+CITSmart ESP es una plataforma inteligente de gobierno corporativo, creada para
+facilitar la unificación de la información. Permite la gestión de
+Información de los servicios y sus procesos en el ambiente organizacional,
+proporcionando gobernanza
 
-*CITSmart ESP é um conceito inteligente de união e praticidade na gestão
+*CITSmart ESP es un concepto inteligente de unión y practicidad en la gestión
 corporativa.*
 
-Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
-práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma
-solução integrada, desenhada para gerenciar qualquer Serviço, ticket ou situação de fluxo
-de trabalho.
+Alineado con las técnicas de Gestión de Servicios de Negocios, adoptando las mejores
+prácticas de ITIL (Information Technology Infrastructure Library), CITSmart es una
+solución integrada, diseñada para administrar cualquier servicio, ticket o situación de flujo
+de trabajo.
 
-Com foco no fornecimento de governança por meio da Tecnologia da Informação, foi
-projetada para acelerar e melhorar o gerenciamento do negócio usando as melhores práticas,
-estratégias corporativas e metodologias inovadoras desenvolvidas por profissionais altamente
-treinados.
+Con foco en el suministro de gobernanza a través de la Tecnología de la Información, fue
+diseñada para acelerar y mejorar la gestión del negocio mediante las mejores prácticas,
+estrategias empresariales y metodologías innovadoras desarrolladas por profesionales altamente
+entrenados.
 
-Ele foi projetada para atender aos critérios mais rigorosos exigidos pela PinkVERIFY,
-um rótulo que endossa ferramentas de software baseadas nos processos de Gerenciamento de Serviços
-propostos pela ITIL.
+Está diseñado para cumplir con los criterios más estrictos requeridos por PinkVERIFY,
+una etiqueta que respalda las herramientas de software basadas en los procesos de administración de servicios
+propuestos por ITIL.
 
-Sabe-se que trabalhar com informações em tempo real na tomada de decisões torna as
-empresas mais competitivas e qualificadas para atender suas demandas e
-atividades, com o objetivo de reduzir perdas ou danos corporativos, uma vez que se encontram em
-monitoramento constante. Portanto, se bem aplicada, a tecnologia da informação faz com que
-os gerentes compreendam melhor suas atividades de negócios e como empregar os
-fluxos energéticos dos investimentos na direção mais adequada.
+Se sabe que trabajar con información en tiempo real en la toma de decisiones hace las
+empresas más competitivas y cualificadas para atender sus demandas y
+actividades, con el objetivo de reducir pérdidas o daños corporativos, ya que se encuentran en
+monitoreo constante. Por lo tanto, si se aplica bien, la tecnología de la información hace que
+los gerentes comprendan mejor sus actividades de negocios y cómo emplear los
+flujos energéticos de las inversiones en la dirección más adecuada.
 
-Isso fornece às empresas uma estrutura organizacional e uma implementação de
-serviços que aplicam as melhores práticas ao ambiente organizacional,
-traduzindo objetivos e metas em realidade mensurável.
+Esto proporciona a las empresas una estructura organizativa y una implementación de
+servicios que aplican las mejores prácticas al entorno organizacional,
+que traduce objetivos y metas en realidad mensurable.
 
-Atendendo a essas demandas, a governança do CITSmart ESP fornece os recursos para
-gerenciar o ambiente informacional dentro das melhores práticas para a
-execução, monitoramento e medição, culminando na disponibilidade de
-serviços que atendam às necessidades da organização, alcance de seus escopos corporativos
-e desejos de qualidade.
+A la vista de estas demandas, la gobernanza del CITSmart ESP proporciona los recursos para
+gestionar el entorno informático dentro de las mejores prácticas para
+ejecución, monitoreo y medición, culminando en la disponibilidad de
+servicios que atiendan las necesidades de la organización, alcance de sus ámbitos corporativos
+y deseos de calidad.
 
-Acelerar a transformação digital
+Acelerar la transformación digital
 ---------------------------------
 
-Os serviços vinculados à nossa plataforma dão o suporte necessário ao seu negócio.
-Ao adotar as tecnologias contidas no CITSmart, sua organização pode criar
-as melhores alternativas de aumento, com a garantia do melhor ROI, quando
-comparado às soluções de mercado.
+Los servicios vinculados a nuestra plataforma dan el soporte necesario a su negocio.
+Al adoptar las tecnologías contenidas en CITSmart, su organización puede crear
+las mejores alternativas de aumento, con la garantía del mejor ROI, cuando
+comparado con las soluciones de mercado.
 
-Oferecemos excelência em Gerenciamento de Serviços, baseada em três pilares: Pessoas,
-Processos e Tecnologia. Tudo isso apoiado pela Metodologia Smart, que
-planeja a implantação de processos de Gerenciamento de Serviços para toda a
-organização.
+Ofrecemos excelencia en Gestión de Servicios, basada en tres pilares: Personas,
+Procesos y Tecnología. Todo ello apoyado por la Metodología Smart, que
+planea la implantación de procesos de gestión de servicios para toda la empresa.
 
-Benefícios de adotar a solução 
+Beneficios de adoptar la solución 
 ----------------------------------
 
-Centralizar o gerenciamento de toda a cadeia de serviços disponível para sua
-empresa em um único ponto.
+Centralizar la gestión de toda la cadena de servicios disponible para su
+empresa en un solo punto.
 
--   Gerenciamento do ciclo de vida de um Ticket
+-   Gestión del ciclo de vida de un Ticket
 
--   Gerenciamento de CMDB
+-   Gestión de CMDB
 
 -   Discovery & Inventory
 
--   Medir os níveis de serviço e resultados de todos os fornecedores, subsidiárias e
-    a própria empresa
+-   Medir los niveles de servicio y resultados de todos los proveedores, subsidiarias y
+    la propia empresa
 
--   Criar catálogos de serviço para seus clientes e receber solicitações automáticas
+-   Crear catálogos de servicio para sus clientes y recibir solicitudes automáticas
 
--   Tornar seu gerenciamento proativo, através da integração com "Eventos" e
-    "Internet das Coisas"
+-   Hacer su gestión proactiva, a través de la integración con "Eventos" y
+    "Internet de las Cosas"
 
--   Implantar um ponto único de contato
+-   Implantar un punto de contacto único
 
--   Automatizar processos
+-   Automatizar procesos
 
--   Orquestração e organização
+-   Orquestación y organización
 
--   Plataforma visual para personalização de fluxos de trabalho, permitindo flexibilidade, agilidade
-    e aumento de produtividade com conformidade
+-   Plataforma visual para personalización de flujos de trabajo, permitiendo flexibilidad, agilidad
+    y aumento de productividad con conformidad
 
--   Configurar os processos, níveis de serviço e resultados de acordo com a cultura
-    de cada local e o SLA estabelecido com o cliente
+-   Configurar los procesos, niveles de servicio y resultados de acuerdo con la cultura
+    de cada sitio y el SLA establecido con el cliente
 
--   Fazer gerenciamento de multi-empresa, multi-contrato e catálogos de multi-serviços
+-   Gestión de multi-empresa, multi-contrato y catálogos de multi-servicios
 
--   Gerenciar grupos e clientes VIP
+-   Gestión de grupos y clientes VIP
 
--   Gerenciar planos de continuidade
+-   Gestión de planes de continuidad
 
--   Gerenciar a disponibilidade dos seus negócios
+-   Gestión de la disponibilidad de sus negocios
 
--   Crie fluxos de trabalho no padrão BPM, sem a necessidade de implantação de
-    soluções. Tudo é ágil e dinâmico
+-   Crear flujos de trabajo en el estándar BPM, sin la necesidad de implantación de
+    soluciones. Todo es ágil y dinámico
 
--   Reduzir custos melhorando seus processos. O padrão de BPM irá ajudá-lo na
-    criação de COMO-SE, e com a solução, desenhar o PARA-SER se tornará
-    muito simples
+-   Reducir costos mejorando sus procesos. El estándar de BPM le ayudará en
+    la creación de COMO-SE, y con la solución, el diseño del PARA-SER se convertirá
+    muy simple
+    
+-   Controlar el equipo de profesionales a través de la georeferenciación y responder a las
+    demandas externas más rápidamente (Gestión de Soporte en Campo)
 
--   Controlar a equipe de profissionais através de georreferenciamento e responder às
-    demandas externas mais rapidamente (Gerenciamento de Suporte em Campo)
+-   Generar dashboards personalizados para una visión rápida y fácil de lo que merece más
+    atención
 
--   Gerar dashboards personalizados para uma visão rápida e fácil do que merece mais
-    atenção
+-   Promover la mejora continua
 
--   Promover a melhoria contínua
+-   Cruzar información, definir métricas y monitorear resultados
 
--   Cruzar informações, definir métricas e acompanhar resultados
+-   Definir alertas, notificaciones y flujos para el Plan de Continuidad del Negocio
 
--   Definir alertas, notificações e fluxos para o Plano de Continuidade do Negócio
+-   Crear Centro de Experiencia
 
--   Criar Centro de Experiência
+-   Gestión y rendimiento operacional de todas las áreas internas
 
--   Gestão e desempenho operacional de todas as áreas internas
+-   Definir actividades que se deben realizar en dispositivos móviles y desktop
 
--   Definir atividades a serem executadas em dispositivos móveis e desktop
+-   Pague sólo por lo que usted utiliza y accede a la plataforma desde cualquier lugar con la tecnología
+    de nube
 
--   Pague apenas pelo que você usa e acesse a plataforma de qualquer lugar com a tecnologia
-    de nuvem
+Adecuado para todos los ambientes y escenarios, desde que se desarrolló sobre la base de la
+ITIL, que dicta las mejores prácticas de gestión de TI y
+sigue el concepto integrador de Gobernanza
+Corporativa, tiene el objetivo de ser una fuente de conocimiento que puede entrenarle
+de acuerdo con las necesidades y modelo de negocio de su institución.
 
-Adequado para todos os ambientes e cenários, desde que desenvolvida com base na
-ITIL, que dita as melhores práticas de gestão de TI e
-segue o conceito integrador de Governança
-Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo
-de acordo com as necessidades e modelo de negócio da sua instituição.
+CITSmart ESP fue planeado y escrito con el objetivo de esclarecer el universo de
+gestión inteligente y eficaz de los servicios de TI mediante la unificación de
+informaciones y demandas de los diversos componentes de una empresa, haciendo suyo
+día a día más práctico, inteligente y dinámico.
 
-O CITSmart ESP foi planejado e escrito com o objetivo de esclarecer o universo de
-gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de
-nformações e demandas dos diversos componentes de uma empresa, tornando o seu
-dia-a-dia mais prático, inteligente e dinâmico.
+La solución CITSmart ESP se ha desarrollado con el objetivo de satisfacer las necesidades de Gestión de
+Servicio y de la Central de Servicio. Es posible desarrollar e implementar procesos de gestión de servicios
+con base en los principales procesos de ITIL de su organización,
+apoyados por la certificación internacional de Pink Elephant.
 
-A solução CITSmart ESP foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
-Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços
-com base nos principais processos ITIL da sua organização,
-apoiados pela certificação internacional Pink Elephant.
+La implementación de la solución no sólo permite administrar servicios de TI, pero también
+otros servicios de su organización.
 
-A implantação da solução não apenas permite gerenciar serviços de TI, mas também
-outros serviços da sua organização.
+### Las principales líneas de acción de la plataforma:
 
-### As principais linhas de ação da plataforma:
+-   Atención y Relación: atención a clientes y tickets, gestión de relación
+    y satisfacción de los clientes, central de atención, la audiencia, la integración
+    con telefonía y redes sociales, entre otros.
 
--   Atendimento e Relacionamento: atendimento a clientes e tickets, gestão de
-    relacionamento e satisfação de clientes, central de atendimento, ouvidoria, integração
-    com telefonia e redes sociais, entre outros.
+-   Trabajo Ágil: varias tablas Kanban, checklists, planificación rápida, delegación fácil y
+    ágil, control simple y eficiente.
 
--   Trabalho Ágil: Várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e
-    ágil, controle simples e eficiente.
+-   Operaciones de Negocios: Portal de servicios para clientes y empleados, gestión de
+    diversas demandas, gestión de desempeño de las personas, portal de servicios de RRHH modernos,
+    gestión de campo con móviles, entre otros.
 
--   Operações de Negócios: Portal de serviços para clientes e funcionários, gerenciamento de
-    diversas demandas, gestão de desempenho de pessoas, portal de serviços de RH modernos,
-    gerenciamento de campo com mobile, entre outros.
+-   Operaciones de TI: Tickets y Service Desk, Gestión de Problemas, Conocimiento,
+    Evento, Continuidad, Activos de TI, Cambio, Liberación, Disponibilidad, entre otros (13
+    procesos basados en las mejores prácticas de ITIL)
 
--   Operações de TI: Tickets e Service Desk, Gerenciamento de Problemas, Conhecimento,
-    Evento, Continuidade, Ativos de TI, Mudança, Liberação, Disponibilidade, entre outros (13
-    processos baseados nas melhores práticas de ITIL)
+-   Asistente Virtual y Conocimiento: Integración con los principales sistemas de IA
+    del mercado, asistente virtual, portal de conocimiento por perfil y grupos de usuarios y
+    construcción de ambientes de trabajo digitales (centro de experiencia).
 
--   Assistente Virtual e Conhecimento: Integração com os principais sistemas de IA do
-    mercado, assistente virtual, portal de conhecimento por perfil e grupos de usuários e
-    construção de ambientes de trabalho digitais (centro de experiência).
+-   Automatización e integración: personalización y construcción de formularios web y móviles,
+    flujos de trabajo, constructores de APP, constructores de API, integración con
+    sistemas y bases de datos legados, además de numerosos conectores.
 
--   Automações e integrações: personalização e construção de formulários da Web e móveis,
-    fluxos de trabalho, construtores de APP, construtores de API, integração com 
-    sistemas e bancos de dados legados, além de inúmeros conectores.
-
-Por que adotá-lo?
+¿Por qué adoptarlo?
 --------------
 
-### Nossa visão para o futuro
+### Nuestra visión para el futuro
 
-Ágil é o novo normal. Adaptar-se rapidamente é quase obrigatório.
+Ágil es el nuevo normal. Adaptarse rápidamente es casi obligatorio.
 
-O CITSmart ESP é desenhado para mover departamentos e pessoas em um conceito ágil,
-sem esquecer o fator humano, para as metas estabelecidas por cada
-organização. Acreditamos que mais do que velocidade, o importante é ter
-consistência no movimento.
+El CITSmart ESP está diseñado para mover departamentos y personas en un concepto ágil,
+sin olvidar el factor humano, para las metas establecidas por cada
+organización. Creemos que más que velocidad, lo importante es tener
+consistencia en el movimiento.
 
-A visão futura do CITSmart é baseada em 4 pilares: **Pessoas, Processos,
-Experiências e Resultados.**
+La visión futura del CITSmart se basa en 4 pilares: **Personas, Procesos,
+Experiencias y Resultados.**
 
-| **Pilar**      | Nossa visão                                                                                                                                                                                                                                                                                                                              |
+| **Pilar**      | Nuestra visión                                                                                                                                                                                                                                                                                                                              |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Pessoas**      | É a fonte de tudo. É a motivação para tudo. No entanto, também pode ser o culpado.                                                                                                                                                                                                                                 |
-| **Processos**   | É o caminho para orientar as experiências das pessoas (experiências de trabalho e experiências para os clientes). É o caminho para levar as pessoas para a direção certa.                                                                                                                                                                                   |
-| **Experiências** | Experiências movem pessoas. Eles liberam bons sentimentos. É transformadora. É motivador. É lealdade. É o futuro.                                                                                                                                                                                                                 |
-| **Resultados**     | Isso é o que todo mundo está atrás. Representa a entrega de valor para alguém. No final de cada ciclo, tudo o que envolve os pilares anteriores deve convergir para os resultados do departamento e da organização. Aqui estão os objetivos e desafios a serem alcançados. Este pilar guia todos os anteriores sobre o caminho a seguir. |
+| **Personas**      | Es la fuente de todo. Es la motivación para todo. Sin embargo, también puede ser el culpable.                                                                                                                                                                                                                                 |
+| **Procesos**   | Es el camino para orientar las experiencias de las personas (experiencias de trabajo y experiencias para los clientes). Es el camino para llevar a la gente hacia la dirección correcta.                                                                                                                                                                                   |
+| **Experiencias** | Experiencias mueven a las personas. Ellos liberan buenos sentimientos. Es transformadora. Es motivador. Es lealtad. Es el futuro.                                                                                                                                                                                                                 |
+| **Resultados**     | Eso es lo que todo el mundo está detrás. Representa la entrega de valor para alguien. Al final de cada ciclo, todo lo que implica los pilares anteriores debe converger a los resultados del departamento y de la organización. Aquí están los objetivos y desafíos a alcanzar. Este pilar guía todos los anteriores sobre el camino a seguir. |
 
 
-Processos ligam as pessoas umas às outras. Tenha processos a partir da perspectiva de
-gerar experiências positivas e as pessoas estarão mais conectadas, produzirão mais
-e entregarão mais, isto é, alcançarão os resultados desejados. Experiências no
-trabalho e experiências para os clientes. As dicas se conectam. Experiências positivas
-representam a fonte de confiança. E a confiança é o alicerce de tudo.
+Los procesos vinculan a las personas unas a otras. Tenga procesos desde la perspectiva de
+generar experiencias positivas y las personas estarán más conectadas, producirán más
+y entregarán más, es decir, alcanzarán los resultados deseados. Experiencias en el
+trabajo y experiencias para los clientes. Los consejos se conectan. Experiencias positivas
+representan la fuente de confianza. Y la confianza es el fundamento de todo.
 
 As experiências representam a nova motivação da nova geração, seja para trabalho
 ou compra. Prepare-se para este futuro.
 
 ### Diferencial Competitivo
 
-CITSmart ESP traz os seguintes diferenciais competitivos:
+CITSmart ESP trae los siguientes diferenciales competitivos:
 
--   Pronto para uso (85% das personalizações para TI e RH já estão aplicadas).
-    A transformação digital começa rapidamente.
+-   Listo para uso (85% de las personalizaciones para TI y RRHH ya se aplican).
+    La transformación digital comienza rápidamente
 
--   Cresça gradualmente (começa pequeno, por um departamento e pode crescer ambos em uso
-    pelo departamento e por outros departamentos)
+-   Crezca gradualmente (comienza pequeño, por un departamento y puede crecer ambos en uso
+    por el departamento y otros departamentos)
 
--   ROI aprimorado no investimento em soluções corporativas ITSM, pois ele pode ser usado para
-    ESM
+-   ROI mejorado en la inversión en soluciones corporativas ITSM, ya que se puede utilizar para
+    ESM
 
--   Alta capacidade de adaptação aos negócios do cliente (devido ao Neuro e ao Fluxo de
-    Trabalho) - Personalização online e codeless
+-   Alta capacidad de adaptación a los negocios del cliente (debido al Neuro y al Flujo de
+    Trabajo) - Personalización en línea y codeless
 
--   All-In-One e, ao mesmo tempo, simples de usar, integrando-se facilmente às
-    atividades e operações diárias
+-   All-In-One y, al mismo tiempo, sencillo de usar, integrándose fácilmente a las
+    actividades y operaciones diarias
 
--   Adaptação a vários tamanhos de empresas (pequenas, médias ou grandes). Pode monitorar a
-    empresa em sua jornada de crescimento
+-   Adaptación a varios tamaños de empresas (pequeñas, medianas o grandes). Puede monitorear la
+    empresa en su jornada de crecimiento
 
--   Modelo de marketing simples. Fácil de entender pelo parceiro e cliente
+-   Modelo de marketing simple. Fácil de entender por el colaborador y el cliente
 
--   Plataforma de Centro de Experiência Integrada, BPM e Kanban para gerenciar várias áreas
-    de negócios, fornecendo um espaço de trabalho digital eficiente
+-   Plataforma de Centro de Experiencia Integrada, BPM y Kanban para administrar varias áreas
+    de negocios, proporcionando un espacio de trabajo digital eficiente
 
--   Gestão de serviços terceirizados em uma única plataforma
+-   Gestión de servicios tercerizados en una sola plataforma
 
-Sobre a ITIL
+Sobre ITIL
 ----------
 
-O ITIL (Information Technology Infrastructure Library) é o padrão de referência
-para o gerenciamento de projetos de TI mais aceitos mundialmente. A estrutura da ITIL
-foi proposta pela CCTA (Central Computer and Telecommunications Agency) e
-seu objetivo era desenvolver métodos e padrões dentro dos departamentos do
-governo britânico, com o objetivo de melhorar os processos internos. A ITIL é uma estrutura
-que recomenda as melhores práticas para o gerenciamento de serviços de TI e fornece recursos
-para atender à norma ISO/IEC 20000, incorporando as melhores recomendações contidas no CMMI,
+ITIL (Information Technology Infrastructure Library) es el estándar de referencia
+para la gestión de proyectos de TI más aceptado en todo el mundo. La estructura de ITIL
+fue propuesta por la CCTA (Central Computer and Telecommunications Agency) y
+su objetivo era desarrollar métodos y estándares dentro de los departamentos del
+gobierno británico, con el objetivo de mejorar los procesos internos. ITIL es una estructura
+que recomienda las mejores prácticas para la gestión de servicios de TI y proporciona recursos
+para cumplir con la norma ISO/IEC 20000, incorporando las mejores recomendaciones contenidas en el CMMI,
 PMBOK, COBIT, Six Sigma e ISO 20000.
 
 !!! tip "About"

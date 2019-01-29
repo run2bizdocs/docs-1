@@ -1,8 +1,10 @@
 Title: Frequently Asked Questions - FAQ
 
-# Frequently Asked Questions - FAQ
+Perguntas Frequentes - FAQ
+---------------
 
 ??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
+    
     Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
 
     Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
@@ -20,9 +22,10 @@ Title: Frequently Asked Questions - FAQ
     
     Os impulsionadores estão em aberto para o uso, mas para utilizá-los é necessária uma análise melhor da importância dos campos e dos documentos adicionados ao Solr, pela base de conhecimento.
     
-??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios??"
+??? Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
+    
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
-    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido..
+    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido.
     
     Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
     
@@ -32,6 +35,7 @@ Title: Frequently Asked Questions - FAQ
     - O programa de folha de pagamento poderia enviar os dados mínimos de cada contratação por departamento (definido no plano orçamentário da empresa), de modo que sempre que o número de contração por departamento ultrapassar o limite pré-estabelecido, um evento de “excesso de contratação” poderia ser disparado.
     
 ??? Question "Como acessar a solicitação de serviço a partir da notificação de e-mail?"
+    
     Para acessar a solicitação de serviço a partir da notificação de e-mail, proceda conforme orientações abaixo:
    
     1. Certifique-se de que esteja logado no sistema;
@@ -39,18 +43,18 @@ Title: Frequently Asked Questions - FAQ
     3. A notificação terá o número da solicitação com um hyperlink, basta clicar no número, que logo em seguida será redirecionado para tela de Gerenciamento de Serviços apresentando as informações da solicitação.
     
 ??? Question "Como faço o desenho de ativos que compõem o meu serviço?"
+    
     É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
     
-    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento Configuração dos atributos do serviço):
+    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
-    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;
+    1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço > Mapa de Serviço;
     2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
-    3. Realize o desenho;
-    4.  Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Apoio/Técnico: Gerenciamento de Portfólio e Catálogo → Menu Apoio →  Avançar Portfólio → Catálogo de Serviços → Avançar Serviço → Mapa de Serviço;  
-    5. A tela para projetar os ativos que compõem o Serviço de Apoio/Técnico será apresentada;
-    6. Realize o desenho.
+    3. Realize o desenho.
+    
     
 ??? Question "Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?"
+    
     Para definir o grupo padrão para atendimento de 1º nível, proceda conforme as orientações abaixo:
    
     1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
@@ -66,6 +70,7 @@ Title: Frequently Asked Questions - FAQ
     REGRA: após a configuração do parâmetro, ao realizar o registro de uma Solicitação de Serviço/Incidente, caso não tenha informado o grupo para atendimento do serviço, será escalado o grupo, o qual foi definido no parâmetro para atendimento de 1º nível.
     
 ??? Question "Como configurar a autenticação do Nagios via LDAP?"
+    
     A configuração de autenticação do Nagios via LDAP passa por:
     
     1. Alterar o arquivo thruk.conf da seguinte forma:
@@ -94,6 +99,7 @@ Title: Frequently Asked Questions - FAQ
 	```
     
 ??? Question "Como configurar a resposta automática de pesquisas de satisfação?"
+    
     O mecanismo de resposta automática, que responderá automaticamente as pesquisas de satisfação das solicitações de serviço, acontece quando a pesquisa de satisfação não for respondida pelo usuário, dentro de um prazo definido pelo administrador do sistema.
     
     Para realizar a configuração das respostas automáticas, proceda conforme orientações abaixo:
@@ -114,6 +120,7 @@ Title: Frequently Asked Questions - FAQ
 	REGRA: a partir do momento da gravação, no horário e dia agendado, as solicitações não respondidas (com prazo superior ao definido no parâmetro 139) serão automaticamente respondidas (com o valor definido no parâmetro 152), caso o parâmetro 151 esteja com valor ‘S’.
 
 ??? Question "Como configurar o nome das fases do ciclo de vida dos ICs (itens de configuração)?"
+    
     A configuração dos nomes das fases do ciclo de vida do IC pode ser realizada a partir da tela de Configuração do GCAS e a partir da tela de Parâmetros do CITSmart. Para realizar essa configuração, proceda conforme orientações abaixo:
   
     CONFIGURAÇÃO A PARTIR DA TELA DE CONFIGURAÇÃO DO GCAS
@@ -144,6 +151,7 @@ Title: Frequently Asked Questions - FAQ
     14. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 ??? Question "Como configurar as notificações de e-mail de solicitação de serviços?"
+    
     Ao registrar uma solicitação de serviço, realizar demais ações e encerrar a mesma, o solicitante será notificado..
     
      Para que essa notificação seja enviada é necessário realizar os seguintes
@@ -194,6 +202,7 @@ Title: Frequently Asked Questions - FAQ
     solicitante.
     
 ??? Question "Como definir a obrigatoriedade do vínculo da mudança com IC?"
+    
     A obrigatoriedade do vínculo da mudança com o IC é definida na tela de Parâmetro do CITSmart. Para definir essa obrigatoriedade, proceda conforme orientações abaixo:
 
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização → Parâmetros CITSmart;
@@ -205,6 +214,7 @@ Title: Frequently Asked Questions - FAQ
     7. Após configuração do parâmetro, quando for registrar um Item de Configuração, será obrigatório o vínculo da mudança.
     
 ??? Question "Como habilitar a rotina de leitura automática de e-mails?"
+    
     Ao enviar um e-mail para o suporte do CITSmart será feita a leitura do e-mail automática, caso o e-mail seja referente a uma solicitação, será verificado o título do e-mail, se contém a palavra ‘Solicitação’ e o número da solicitação, caso contenha, será armazenado o e-mail como ocorrência na solicitação referente.
     
     Para que essa rotina de leitura de e-mails funcione perfeitamente, é necessário realizar os seguintes procedimentos:
@@ -234,6 +244,7 @@ Title: Frequently Asked Questions - FAQ
     23. CClique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como habilitar a regra de escalonamento do módulo de mudanças?"
+    
     A regra de escalonamento de mudanças é habilitada na tela de Parâmetro do Citsmart.
     
     Para habilitar essa regra, proceda conforme orientações abaixo:
@@ -245,6 +256,7 @@ Title: Frequently Asked Questions - FAQ
     5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como habilitar o Portal de Serviços (Smart Portal)?"
+    
     Para que os usuários tenham acesso ao Portal ou ao Portal Smart, deve-se habilitar o mesmo da seguinte forma:
     
     1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
@@ -253,6 +265,7 @@ Title: Frequently Asked Questions - FAQ
     4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
     
 ??? Question "Como habilitar a pesquisa de satisfação?"
+    
     A pesquisa de satisfação é a avaliação do atendimento da solicitação feita através da notificação por e-mail.
     
     Para habilitar essa pesquisa de satisfação, proceda conforme orientações abaixo:
@@ -268,6 +281,7 @@ Title: Frequently Asked Questions - FAQ
     9. Ao receber uma notificação por e-mail da solicitação de serviço que foi atendida, será exibido um link para realizar a avaliação do atendimento. Ao clicar no link será aberta uma tela para avaliação do atendimento.
     
 ??? Question "Como habilitar a regra de escalonamento do módulo de problemas?"
+    
     Para habilitar essa regra, proceda conforme orientações abaixo:
     
     1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
@@ -277,6 +291,7 @@ Title: Frequently Asked Questions - FAQ
     5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como habilitar a regra de escalonamento das solicitações de serviço?"
+    
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
     1. No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
@@ -296,6 +311,7 @@ Title: Frequently Asked Questions - FAQ
 	8. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
    
 ??? Question "Como melhorar o desempenho do CITSmart Enterprise ITSM?"
+    
     O desempenho do sistema é definido como o tempo que o software demora para realizar uma determinada tarefa, visto que esse desempenho é um forte atributo de qualidade percebido pelos usuários do software.
     
     Existe a capacidade de o sistema funcionar com mais de uma instância, para isso, será necessário utilizar o arquivo de configuração (citsmart.cfg), onde é possível ativar ou inativar rotinas.
@@ -323,17 +339,19 @@ Title: Frequently Asked Questions - FAQ
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informe o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
     
 ??? Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
+    
     Em relação ao LDAP compliance do CITSmart Enterprise ITSM, existem dois cenários:
     
     1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
     2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
 ??? Question "Como vincular colaboradores (usuários) a um grupo?"
+    
     Há duas formas de vincular os colaboradores (usuários) aos grupos, sendo:
 
     A PARTIR DO CADASTRO DE GRUPO
 	
-    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção  Acesso e Permissão e clique na opção Grupo (ver conhecimento Cadastro de grupo);
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção Acesso e Permissão e clique na opção Grupo (ver conhecimento Cadastro de grupo);
     2. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado grupo;
     3. Clique no ícone de adicionar do campo Colaboradores, será exibida a tela para pesquisa de colaboradores;
     4. Realize a pesquisa do colaborador que deseja vincular ao grupo e selecione o mesmo. Após isso, o colaborador será vinculado ao grupo;
@@ -348,6 +366,7 @@ Title: Frequently Asked Questions - FAQ
     5. Após o vínculo, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 ??? Question "Como relacionar grupo ao contrato?"
+    
     Para relacionar grupo ao contrato, proceda conforme as orientações abaixo:
     
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
@@ -359,17 +378,19 @@ Title: Frequently Asked Questions - FAQ
     7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como relacionar unidade ao contrato?"
+    
     Para relacionar unidade ao contrato, proceda conforme as orientações abaixo:
     
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Após isso, será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "61 - Vincula contratos a unidade" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado; 
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de unidade. Feito isso, clique no botão Gravar para efetuar a operação;
-    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Unidade através da navegação no menu principal Cadastros Gerais → Gerência de Pessoal → Unidade. Será apresentada a tela de cadastro de unidade, exibindo os contratos; 
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Unidade através da navegação no menu principal Cadastros Gerais > Gerência de Pessoal > Unidade. Será apresentada a tela de cadastro de unidade, exibindo os contratos; 
     5. Caso a unidade que deseja vincular ao contrato já esteja registrada no sistema, realize a pesquisa da unidade e selecione a mesma. Feito isso, será exibida a tela de registro da determinada unidade;
     6. Selecione os contratos, os quais a unidade será vinculada.
     7. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como substituir cada imagem das logomarcas do CITSmart ITSM Enterprise?"
+    
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
     1. Acessar o caminho: Sistema → Configurações → Configurações de ambiente; aparecerá três espaços para upload de imagem:
@@ -389,6 +410,7 @@ Title: Frequently Asked Questions - FAQ
 	REGRA: caso a imagem personalizada pelo usuário não esteja configurada corretamente nos relatórios, ela deve ser redesenhada com proporções mais adequadas.
     
 ??? Question "Como configurar o recurso SOLR?"
+    
     CONFIGURAÇÃO DO PARÂMETRO
     
     1. Para configurar o parâmetro vá na tela Parametrização → Gerência de Conhecimento;
@@ -405,6 +427,7 @@ Title: Frequently Asked Questions - FAQ
     6. Caso ocorra algum erro entre em contato com o Suporte do ITSM.
     
 ??? Question "Para qual destinatário será feito envio de notificações de ICs?"
+    
     As notificações de ICs serão enviadas para o destinatário definido na tela de Parâmetro do Citsmart.
     
 	Para definir o destinatário, proceda conforme orientações abaixo:
@@ -419,14 +442,17 @@ Title: Frequently Asked Questions - FAQ
     8. Após configuração do parâmetro, será realizado o envio de e-mails de notificações de ICs para o destinatário (grupo, proprietário ou todos), conforme especificado no valor do parâmetro.
     
 ??? Question "O que é preciso para configurar um IC que está fisicamente na rede da empresa do cliente para ser inventariado pelo CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
+    
     [Original] Na cloud, o mongodb e evm/inv ficam na estrutura do cliente, devido não ser possível se conectar em um range interno com origem da cloud.
     
     [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
     
 ??? Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades com este recurso?"
+    
     O upload dos anexos especifica o tamanho limite de 15 Mbytes para cada arquivo carregado no sistema. Porém, na tela do Portal continua com o limite de 5 Mbytes para o tamanho do arquivo.
    
 ??? Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
+    
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
     
     Tais como: 
@@ -630,6 +656,7 @@ Title: Frequently Asked Questions - FAQ
 	Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino, nos anexos.
     
 ??? Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
+    
     Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
     
 	Vejamos um exemplo genérico:
@@ -637,6 +664,7 @@ Title: Frequently Asked Questions - FAQ
     - Entretanto, quando o filtro "Grupo Solucionador" não estiver ativo, o grupo apresentado no relatório ou na pesquisa será o grupo referente à tarefa atual da solicitação, ou seja, caso a solicitação esteja fechada e possua um fluxo de qualidade, será apresentado o grupo de qualidade como o grupo atual responsável pelo encerramento do ciclo de vida desta solicitação. E caso a solicitação esteja em andamento, será apresentado o grupo atual responsável pela execução desta solicitação.
     
 ??? Question "Quais o significado de cada status do inventário de ICs?"
+    
     - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
     - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load temos uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
     - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
@@ -644,14 +672,17 @@ Title: Frequently Asked Questions - FAQ
     - Em execução: durante a leitura do inventário, o IC fica nesse status.
     
 ??? Question "Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?"
+    
     - Público: todos os usuários com acesso no Portal do Conhecimento possuem acesso, independente se têm acesso à pasta do conhecimento;
     - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
     - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
     
 ??? Question "Quais as permissões necessárias na pasta de destino do backup da tabela Logdados?"
+    
     A permissões na pasta devem ser de leitura e gravação para o usuário que o JBoss utiliza.
     
 ??? Question "Quando ocorre a sincronização dos dados com o LDAP?"
+    
     O sistema sincroniza os dados das credenciais de seus usuários com o LDAP em três situações distintas:
     
     1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
@@ -659,12 +690,15 @@ Title: Frequently Asked Questions - FAQ
     3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
     
 ??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
-    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
+   
+   A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
     
 ??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
+    
     A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
     
 ??? Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
+    
     CENÁRIO  
     1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
 
@@ -678,14 +712,17 @@ Title: Frequently Asked Questions - FAQ
         -  https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
 
 ??? Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
+    
     Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
     
     Já em outros relatórios, tais como o "Relatório Incidentes / Solicitações de Serviços" não há detalhamento da solicitação de acordo com as atividades e por isso não é mostrada a solicitação mais de uma vez. 
     
 ??? Question "Por que o resultado é "Relatório Vazio" ao gerar o relatorioControlePercentualQuantitativoSla selecionando no filtro a situação "em Andamento" e o "grupo solucionador"?"
+   
     Não se trata de um erro, o campo de grupo solucionador é preenchido somente quando a solicitação é encerrada, isso faz com que só traga resultados para as situações do tipo "Fechada", incompatível com o que se está pedindo/informando nos filtros.
     
 ??? Question "Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?"
+   
     Tanto a tela de Solicitação de Serviços quanto em alguns relatórios (tais como "Qualidade de Atendimento - SLA"), a ordenação do número das solicitações segue uma ordem sequencial crescente, exceto quando:
     
     1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
@@ -694,9 +731,11 @@ Title: Frequently Asked Questions - FAQ
     - O ambiente é clusterizado.
     
 ??? Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
+    
     Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
     
 ??? Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
+    
     Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria”, ao tentar configurar a auditoria de um ticket aberto (definir as datas de início e fim no filtro), o seguinte erro pode ocorrer: o sistema apresentará a mensagem de "Data Inválida". Isto ocorre porque a funcionalidade necessita que o idioma definido no sistema e no navegador utilizado sejam idênticos.  
     Se este requisito não for observado e ocorrer esta diferença nos idiomas, ao auditar os tickets o sistema apresentará uma mensagem e impossibilitando auferir o relatório pretendido. Sendo necessário, portanto, igualar os idiomas do sistema e do navegador.  
 

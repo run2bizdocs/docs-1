@@ -1,37 +1,39 @@
-title: Verificar controle de rendimento por colaborador
-Description: Tem por objetivo obter um relatório quanto ao atendimento de tickets de um grupo ou de um colaborador.
-#Verificar controle de rendimento por colaborador
+title: Verificar control de rendimiento por colaborador
+Description: Obtener un informe acerca de la atención de tickets de un grupo o de un colaborador.
+#Verificar control de rendimiento por colaborador
 
-Esta funcionalidade tem por objetivo obter um relatório quanto ao atendimento de
-tickets de um grupo ou de um colaborador.
 
-Antes de começar
+Esta funcionalidad tiene por objeto obtener un informe acerca de la atención de
+tickets de un grupo o de un colaborador.
+
+Antes de empezar
 --------------------
 
-Para obter o relatório é necessário registrar previamente o colaborador e o
+Para obtener el informe, es necesario registrar previamente el colaborador y el
 grupo.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através do menu de navegação principal Cadastros
-    Gerais \> Gerência de Pessoal \> Controle de rendimento de Pessoal;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
+    Control de Rendimiento de Personal;
 
-2.  Clicar na aba **Controle de Rendimento**;
+2.  Hacer clic en la pestaña **Control de Rendimiento**;
 
-3.  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4.  Clicar em "Pesquisar".
+4.  Hacer clic en "Búsqueda".
+
 
 
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

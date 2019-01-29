@@ -1,35 +1,31 @@
-title: Cadastrar modelo de planilha para importação de colaborador
-Description: Permitir uma carga direta na tabela de colaboradores.
-#Cadastrar modelo de planilha para importação de colaborador
+title: Registrar modelo de hoja para importación del colaborador
+Description: Fue implementada con el fin de permitir una carga directa en la tabla de colaboradores.
+#Registrar modelo de hoja para importación del colaborador
+Esta funcionalidad fue implementada con el fin de permitir una carga directa en la tabla de colaboradores. El sistema avisa si algún campo obligatorio no se completa y no lee el archivo hasta que se tenga mantenimiento.
 
-Esta funcionalidade foi implementada com o intuito de permitir uma carga direta
-na tabela de colaboradores. O sistema avisa caso algum campo obrigatório não
-seja preenchido e não lê o arquivo até que seja dada manutenção.
+Procedimiento
+-------------
 
-Procedimento
-----------------
+1.  Acceder al menú principal Sistema \> Importación y Carga de Datos \> Carga
+    Colaborador;
 
-1.  Acessar a funcionalidade através do menu Sistema \> Importação e Carga de
-    Dados \> Carga Colaborador;
+2.  Hacer clic en la penstaña **Modelo de plantilla para importación**;
 
-2.  Clicar na aba **Modelo de planilha para importação**;
+3.  Completar los campos disponibles y considerar que en los campos
+    obligatorios, el sistema no permite borrar del XLS que será generado para
+    que se imputan las informaciones;
 
-3.  Preencher os campos disponibilizados e considerar que nos campos
-    obrigatórios, o sistema não permite deletar do XLS que será gerado para que
-    sejam imputadas as informações;
+4.  El campo "Activo" permite colocar en el XLS todos los colaboradores como
+    activos;
 
-4.  O campo "Active" permite que seja colocado no XLS todos os colaboradores
-    como ativos;
+5.  Para generar plantilla de hoja de cálculo en formato ".xls", hacer clic en
+    el botón "Generar modelo .xls";
 
-5.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
-    Modelo .xls";
-
-6.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
-    Modelo .xlsx".
-
+6.  Para generar plantilla de hoja de cálculo en formato ".xlsx", hacer clic en
+    el botón "Generar modelo.xlsx".
     
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

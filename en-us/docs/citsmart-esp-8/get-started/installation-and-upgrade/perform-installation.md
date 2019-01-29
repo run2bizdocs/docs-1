@@ -10,7 +10,7 @@ Title: Perform installation
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
     ```
 
-     ``` sh
+    ``` sh
     ln -s /opt/jdk1.8.0_172 /opt/jdk
     ```
 
@@ -92,7 +92,8 @@ Title: Perform installation
     ```sh
     vim standalone.conf
     ```
-
+	
+    ```java
     if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
     JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
     fi  
@@ -117,6 +118,7 @@ Title: Perform installation
     else
     echo "JAVA_OPTS already set in environment; overriding default settings with values: $JAVA_OPTS"
     fi
+    ```
 
     ```sh
     chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
@@ -133,13 +135,16 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 ```sh
 /opt/wildfly/bin/jboss-cli.sh --connect
 ```
+
+```sh
 [standalone@localhost:9990 /]
+```
 
 ### Configure system properties
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
-```sh
+```java
 /system-property=mongodb.host:add(value="mongodb.citsmart.com")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
@@ -320,12 +325,12 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 [standalone@localhost:9990 /] :reload
 ```
 
-### Create citsmart.cfg file
+## Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
 
-```sh
+```java
 START_MONITORA_INCIDENTES=FALSE
 JDBC_ALIAS_REPORTS=
 JDBC_ALIAS_BPM=
@@ -340,26 +345,36 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 !!! warning
     Don't forget to change the owner of files and directories to the citsmart user
 
-### Create directories to installation
+## Create directories to installation
 
 !!! warning
     Don't forget to change the owner of directory /opt/citsmart
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
 
-```sh
-For GED: mkdir -p /opt/citsmart/ged
-For Knowledge Base: mkdir /opt/citsmart/kb
-For Twin Words: mkdir /opt/citsmart/twinwords
-For Attachments of Knowledge Base: mkdir /opt/citsmart/attachkb
-For Upload: mkdir /opt/citsmart/upload
-```
+**For GED:**
 
-### Generate certification SSL Self-Signed
+	mkdir -p /opt/citsmart/ged
+	
+**For Knowledge Base:**
 
-    !!! warning
-    To the Wildfly, it'll be generated a self-signed certificate.
-    If you have a certificate, it's possible to use it.
+    mkdir /opt/citsmart/kb
+	
+**For Twin Words:**
+
+    mkdir /opt/citsmart/twinwords
+
+**For Attachments of Knowledge Base:**
+
+    mkdir /opt/citsmart/attachkb
+
+**For Upload:**
+
+    mkdir /opt/citsmart/upload
+
+## Generate certification SSL Self-Signed
+
+To the Wildfly, it'll be generated a self-signed certificate. If you have a certificate, it's possible to use it.
 
 1. Connect in the Wildfly server;
 
@@ -387,10 +402,15 @@ For Upload: mkdir /opt/citsmart/upload
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
-    !!! warning
-    Remember to apply the permissions to the wildfly and java jdk owner
+    **Remember to apply the permissions to the wildfly and java jdk owner**
+	
+    ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
+    ```
+
+    ```sh
     chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+    ```
 
 2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
@@ -410,35 +430,27 @@ For Upload: mkdir /opt/citsmart/upload
     [standalone@localhost:9990 /] :reload
     ```
 
-### Starting solutions following dependecies
+## Starting solutions following dependecies
 
 You can create daemons as standard of your company or create solutions in the terminal.
 
-PostgreSQL Database Server
+**PostgreSQL Database Server**
 
-```sh
-systemctl postgresql start
-```
+    systemctl postgresql start
 
-MongoDB Database Server
+**MongoDB Database Server**
 
-```sh
-/opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
-```
+    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
 
-Apache Solr Indexing Server
+**Apache Solr Indexing Server**
 
-```sh
-su solr /opt/solr/bin/solr start -s /bin/bash
-```
+    su solr /opt/solr/bin/solr start -s /bin/bash
 
-Wildfly Application Server
+**Wildfly Application Server**
 
-```sh
-su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
-```
+    su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
-CITSmart Enterprise Deployment
+## CITSmart Enterprise Deployment
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments";
 
@@ -467,8 +479,6 @@ CITSmart Enterprise Deployment
 ```sh
 cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 ```
-
-<continue as the deployment available to its subscription >
 
 
 !!! tip "About"

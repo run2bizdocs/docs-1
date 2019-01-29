@@ -1,56 +1,43 @@
-title: Cadastrar ação automática de notificação
-Description: Cadastrar ações automáticas de notificação
-#Cadastrar ação automática de notificação
+title:  Registrar acción automatica de notificación 
+Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acciones automáticas de notificación. 
+#Registrar acción automatica de notificación
+Esta funcionalidad tiene como objetivo registrar acciones automáticas de notificación. La notificación formaliza y comunica información sobre el evento y es importante que la información sobre un evento sea descrita y completada para facilitar posteriormente la toma de decisión. Este registro será asociado a las acciones automáticas, y será usado en los registros de gerentes de eventos del CITSmart Nagios, Zabbix, Inventory y Eventos Correlacionados.
+Es conveniente que las notificaciones de eventos se envíen sólo a los responsables del tratamiento de las acciones o decisiones relacionadas. Esto evita notificaciones innecesarias para aquellos que no están directamente involucrados en el proceso de los eventos.
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar acciones automáticas de notificación. 
 
-Esta funcionalidade tem como objetivo cadastrar ações automáticas de
-notificação. A notificação formaliza e comunica informações sobre o evento e é
-importante que as informações sobre um evento sejam descritas e completas para
-facilitar posteriormente a tomada de decisão. Este cadastro será associado às
-ações automáticas, e será usado nos cadastros de gerentes de eventos do CITSmart
-Nagios, Zabbix, Inventory e Eventos Correlacionados.
-
-Convém que as notificações de eventos sejam enviadas somente para os
-responsáveis pelo tratamento das ações ou decisões relacionadas. Isto evita
-notificações desnecessárias para aqueles que não estão diretamente envolvidos no
-processo dos eventos.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir ações automáticas de notificação.
-
-Antes de começar
---------------------
-
-Para cadastrar uma ação automática de notificação é preciso registrar
-previamente o usuário e o grupo.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Ações Automáticas \> Ações Notificação;
+Para registrar una acción automática de notificación, es necesario registrar
+previamente el usuario y el grupo.
 
-2.  Preencher os campos disponibilizados;
+Procedimiento
+-------------
 
-3.  Para vincular um usuário clicar na guia "Adicionar Usuários" e em seguida em
-    "Adicionar";
+1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones de
+    Notificación;
 
-4.  Para vincular um usuário clicar na guia "Adicionar Grupos" e em seguida em
-    "Adicionar";
+2.  Completar los campos disponibles;
 
-5.  Para vincular um usuário clicar na guia "Adicionar E-mails", digitar o
-    e-mail no campo e em seguida em "Adicionar";
+3.  Para vincular un usuario, hacer clic en la pestaña "Agregar Usuarios" y
+    después en "Agregar";
 
-6.  Clicar em "Gravar".
+4.  Para vincular un usuário, hacer clic en la pestaña "Agregar Grupos" y
+    después en "Agregar";
 
+5.  Para vincular un usuario, hacer clic en la pestaña "Agregar E-mails" y
+    después en "Agregar";
+
+6.  Hacer clic en "Guardar".
 
 Relacionado
 -------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

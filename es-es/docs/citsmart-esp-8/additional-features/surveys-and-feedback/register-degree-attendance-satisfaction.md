@@ -1,25 +1,26 @@
-title: Cadastrar grau de satisfação do atendimento
-Description: Permitir a configuração do grau de satisfação do atendimento de serviço.
-#Cadastrar grau de satisfação do atendimento
+title: Registrar grado de satisfacción de la atención
+Description: Permitir la configuración del grado de satisfacción de la atención del servicio.
+#Registrar grado de satisfacción de la atención
 
-A finalidade desta funcionalidade é permitir a configuração do grau de
-satisfação do atendimento de serviço.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir o grau de satisfação do atendimento de serviço.
+La finalidad de esta funcionalidad es permitir la configuración del grado de
+satisfacción de la atención del servicio.
 
-Procedimento
-----------------
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
+borrar el grado de satisfacción de la atención del servicio.
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Grau de satisfação do atendimento;
+Procedimiento
+-----------------
 
-2.  Preencher os campos disponibilizados;
+1.  Acceder al menú principal Sistema \> Grado de Satisfacción de la Atención;
 
-3.  Clicar em "Gravar".
+2.  Completar los campos disponibles;
+
+3.  Hacer clic en "Guardar".
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins

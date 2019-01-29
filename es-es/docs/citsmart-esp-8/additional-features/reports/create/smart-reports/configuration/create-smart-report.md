@@ -1,30 +1,33 @@
-title: Gerar relatórios Smart
-Description: Permite emitir os relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
-#Gerar relatórios Smart
+title: Visualizar informes Smart
+Description: Permite emitir los informes personalizados, creados a partir de la funcionalidad "Generador de informes Smart".
+#Visualizar informes Smart
 
-Procedimento
-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
-    \> Relatórios Smart \> Relatórios Smart;
+Esta funcionalidad permite emitir los informes personalizados, creados a partir
+de la funcionalidad "Generador de informes Smart".
 
-2.  É possível buscar o relatório desejado ao digitar o nome do mesmo na caixa
-    de pesquisa situado ao lado esquerdo da tela;
+Procedimiento
+-----------------
 
-3.  Selecionar a funcionalidade e escolher o tipo de relatório a ser emitido.
-    Será então aberto uma aba com um filtro mais detalhado afim de gerar as
-    informações pretendidas.
+1.  Acceder al menú principal Informes \> Informes Smart \> Informes Smart;
 
-4.  É permitido imprimir o relatório ao clicar no ícone “Imprimir”.
+2.  Es posible buscar el informe, al escribir su nombre, en el cuadro de
+    búsqueda situado al lado izquierdo de la pantalla;
+
+3.  Seleccionar la funcionalidad y elegir el tipo de informe que se va a emitir.
+    Se abrirá una pestaña con un filtro más detallado para generar la
+    información deseada.
+
+4.  Se permite imprimir el informe al hacer clic en el icono con símbolo de impresora.
 
 
 Relacionado
 -------
 
-[Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Construir y mantener relatórios Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

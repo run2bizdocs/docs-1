@@ -1,354 +1,383 @@
-title: Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
-Description: Tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM Enterprise na plataforma iOS.
-#Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)
-
-Este documento tem o propósito de fornecer orientações necessárias para
-instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM
-Enterprise na plataforma iOS.
-
-Ele oferece vários recursos, tais como:
-
-1.  Facilidade no atendimento e ter um direcionamento de onde a solicitação está
-    localizada;
-
-2.  Filtrar solicitações pessoais e por grupo de trabalho;
-
-3.  Visualização dos detalhes de uma solicitação de serviço;
-
-4.  Recebimento de notificações.
-
-Este documento foi estruturado em três seções:
-
-1.  Antes de começar;
-
-2.  Instalação e Configuração do App no mobile;
-
-3.  Utilização do App no mobile.
-
-Antes de começar
-----------------
-É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise e também Configurar o servidor para uso do aplicativo mobile CITSmart Enterprise (ver documentos relacionados)
-
-Instalação e configuração do app no mobile
-------------------------------------------
-
-Para instalar o CITSmart Enterprise, deve ser realizada a busca do
-aplicativo na loja on-line (App Store).
-
-1-  Pesquise por CITSmart Enterprise na App Store, selecione e baixe o
-    aplicativo;
-
-2-  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart ITSM
-    Enterprise;
-
-3-  Para criar uma conexão, pressione o ícone com "Criar conexão", conforme
-    indicado na figura abaixo:
-
-![Criar conexão](images/ios-app-pt-1.jpg)
-
-Figura 1 - Criar conexão
-
-4-  Será apresentada a tela “Nova conexão” para registro da conexão;
-
-![Registro conexão](images/ios-app-pt-2.jpg)
-
-Figura 2 - Registro de conexão
-
-5-  Informe os dados:
-
-   -   **Nome da conexão**: informe o nome da conexão que deseja conectar;
-
-   -   **URL do servidor**: informe o endereço do servidor para conexão. Deve
-        ser colocado o protocolo (https) na URL;
-
-   -   **Conexão principal?**: informe se a URL escolhida será a principal;
-
-   -   **Domínio\\Usuário:** A partir dessa versão o usuário terá que informar
-        o domínio LDAP de uso e seu usuário;
-
-         + O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
-           primeira parte é a informação do domínio e a segunda parte é o usuário;
-
-   -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
-
-   -   **Disponível:**
-
-       -   Habilitado: Quando está habilitado, a conexão será a fornecida no campo
-           URL, e além disso, para pegar a posição do atendente esse campo deve
-           estar habilitado;
-
-       -   Desabilitado: Quando está desabilitado o sistema não permitirá conexão
-          ao servidor nem irá pegar a posição do atendente.
-
-!!! Abstract "ATENÇÃO"
-
-    Caso o aparelho seja trocado, esta conexão deve ser deletada. 
-
-6-  Após informar os dados da conexão desejada, pressione no botão "Criar";
-
-7-  Depois de adicionada a conexão, aparecerá a listagem das conexões criadas.
-    Para alterar uma conexão, basta selecionar a conexão desejada e fazer a
-    alteração;
-
-8-  Para se conectar, basta selecionar a conexão, na tela inicial do aplicativo;
-
-9-  Digite usuário e senha:
-
-![login](images/ios-app-pt-3.jpg)
-
-Figura 3 - login
+title: Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)
+Description: Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil CITSmart ITSM Enterprise en la plataforma iOS.
+#Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)
 
 
-Utilização do app no mobile
----------------------------
+Este documento tiene el propósito de proporcionar orientaciones necesarias para
+instalar, configurar y utilizar la aplicación móvil CITSmart ITSM
+Enterprise en la plataforma iOS.
 
-##### Visualizando solicitações de serviço
+Ofrece varios recursos, tales como:
 
-1-  Após realizar a conexão, será apresentada a tela menu, onde clicará na opção
-    Tickets de Serviços.
+1.  Facilidad en el atendimiento y tener una dirección de donde la solicitud
+    está localizada;
 
-![Tela de login](images/ios-app-pt-4.jpg)
+2.  Filtrar solicitudes personales y por grupo de trabajo;
 
-Figura 4 - Tela de login
+3.  Visualización de los detalles de una solicitud de servicio;
 
-2-  Para escolher o tipo de solicitação que deseja visualizar, clique no
-    ícone localizado no canto esquerdo superior;
+4.  Recepción de notificaciones.
 
-![Localizar](images/ios-app-pt-5.jpg)
+Este documento se ha estructurado en tres grandes secciones:
 
-Figura 5 - Localizar solicitação
+1.  Antes de empezar;
 
-3-  São apresentados filtros:
+2.  Instalación y configuración de la aplicación en el móvil;
 
-![Filtros](images/ios-app-pt-6.jpg)
+3.  Uso de la aplicación en el móvil.
+
+Antes de empezar
+-----------
+
+Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart Enterprise
+ITSM y también Configurar el servidor para uso de la aplicación móvil CITSmart
+ITSM Enterprise (ver conocimientos *Manual de configuración del servidor
+CITSmart Enterprise ITSM para uso de APPs (iOS y Android)* y *Registro y
+consulta de la configuración de las opciones de móvil*).
+
+Instalación y configuración del APP en el mobile
+--------------------
+
+Para instalar el CITSmart ITSM Enterprise, se debe realizar la búsqueda de la
+aplicación en la tienda en línea (App Store).
+
+1-  Puedes buscar CITSmart ITSM Enterprise en la App Store, seleccionar y bajar
+    la aplicación ;
+
+2-  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
+    ITSM Enterprise:
+
+3-  Para crear una conexión, presione el icono con "Agregar conexión", como se
+    indica en la figura siguiente:
+
+
+![Criar conexão](images/ios-app-1.png)
+
+Figura 1 - Crear conexión
+
+4-  Se mostrará la pantalla "Nueva conexión" par al registro de la conexión;
+
+
+![Registro conexão](images/ios-app-2.png)
+
+Figura 2 - Registro de conexión
+
+5-  Introduzca los datos:
+
+ -  **Nombre de la conexión**: introduzc al nombre de la conexión que desea
+    conectar;
+
+ -  **URL del servidor**: introducir la dirección del servidor para la conexión.
+    Colocar el protocolo (https) en la URL;
+
+ -  **¿Conexión principal ?**: informe si la URL elegida será la principal;
+
+ -  **Dominio\\Usuario:** a partir de esta versión el usuario tendrá que
+    informar el dominio LDAP de uso y su usuario;
+
+     - El formato es citsmart.local\\usuario.consultor (ejemplo), siendo que la
+       primera parte es la información del dominio y la segunda parte es el
+       usuario;
+
+-   **Contraseña**: el usuario introducirá la contraseña de acceso al sistema;
+
+-   **Disponible**:
+
+     +  **Habilitado**: cuando está habilitado, la conexión será la proporcionada en
+        el campo URL, y además, para tomar la posición del asistente ese campo debe
+        estar habilitado;
+
+     +  **Deshabilitado**: cuando está deshabilitado el sistema no permitirá
+        conexión al servidor ni tomará la posición del operador.
+
+!!! Abstract "ATENCIÓN"
+
+    Si se cambi al aparato, esta conexión debe se borrada.
+
+6-  Después de informar los datos de la conexión deseada, presione el
+    botón "Crear";
+
+7-  Una vez agregada la conexión, aparecerá la lista de conexiones creadas. Para
+    cambiar una conexión, basta con seleccionar la conexión deseada y hacer el
+    cambio;
+
+8-  Para conectarse, basta seleccionar la conexión, en la pantalla inicial de la
+    aplicación;
+
+9-  Introduzc al usuario y la contraseña:
+
+
+![login](images/ios-app-3.png)
+
+Figura 3 - Pantalla de inicio de sesión
+
+
+Utilización del APP en el mobile
+--------------------------------
+
+#### Visualizando solicitudes de servicio
+
+1-  Después de realizar la conexión, aparecerá la pantalla de menú, donde hará
+    clic en la opción "Tickets de Servicios".
+
+
+![Tela de login](images/ios-app-4.png)
+
+Figura 4 - Pantalla de menu
+
+2-  Para elegir el tipo de solicitud que desea ver, haga clic en el
+    icono de búsqueda situado en la esquina superior izquierda;
+
+
+![Localizar](images/ios-app-5.png)
+
+Figura 5 - Pantalla de búsqueda de solicitud
+
+3-  Se presentan filtros:
+
+![Filtros](images/ios-app-6.png)
 
 Figura 6 - Filtros
 
-![Filtros continuação](images/ios-app-pt-7.jpg)
+![Filtros continuação](images/ios-app-7.png)
 
-Figura 7 - Filtros (continuação)
+Figura 7 - Filtros (continuación)
 
-4-  Selecione o filtro desejado e clique no ícone de pesquisa, no canto superior esquerdo;
+4-  Seleccione el filtro deseado y haga clic en el icono de búsqueda, en la esquina
+    inferior izquierda;
 
-5-  Será apresentada a lista de solicitações de serviço, conforme o filtro
-    escolhido:
+5-  Se mostrará la lista de solicitudes de servicio, según el filtro elegido:
 
-![Lista de ticket](images/ios-app-pt-8.jpg)
+
+![Lista de ticket](images/ios-app-8.png)
 
 Figura 8 - Lista de ticket
 
-!!! Abstract "REGRA"
+!!! Abstract "REGLA"
 
-    Para que a funcionalidade de busca funcione, é necessário configurar o web
-    service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-    de Operação Web Service” no CITSmart Enterprise Web.**
+    Para que la funcionalidad de búsqueda funcione, es necesario configurar el
+    web service (notification_buscaNotificación) correspondiente en la pantalla
+    de "Registro de Operación Web Service" en el CITSmart Enterprise Web.
 
-6-  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
-    opções, sendo:
 
-![Lista de](images/ios-app-pt-9.jpg)
+6-  En cada solicitud, cuando se hace clic encima se muestra una lista de
+    opciones, siendo:
+
+
+![Lista de](images/ios-app-9.png)
 
 Figura 9-Lista de ticket
 
-  -ícone Abrir - captura a solicitação para o usuário logado ou apenas visualiza o ticket
-    sem capturar;
+  - icono Abrir - captura la solicitud par al usuario registrado o sólo visualiz al ticket
+       sin capturar;
 
-  - ícone Visualizar - visualiza o ticket;
+  - icono Ver - visualiz al ticket;
 
-  - ícone Descrição - mostra o resumo da solicitação;
+  - icono Descripción - muestr al resumen de la solicitud;
 
-  - ícone Mensagem  - visualiza mensagens;
+  - icono Mesajes - visualiza mensajes;
 
-  - ícone Relatórios - mostra relatórios do ticket;
+  - icono Informes - muestra informes del ticket ;
 
-  - ícone Mais opções - menu de opções de ações para a solicitação (Delegar, Suspender, Alterar
-    SLA, Reclassificar, Criar sub-solicitações, Exibir sub-solicitações, Agendar
-    atividade, Criar solicitação relacionada e Imprimir Solicitação).
-
-##### Criando solicitação de serviço
-
-1-  Para criar uma solicitação de serviço, pressione o ícone  localizado no
-    canto direito inferior da tela e selecione o ícone  “Novo ticket”, conforme
-    ilustrado abaixo:
-
-![Criação de solicitação](images/ios-app-pt-10.jpg)
-
-Figura 10 – Criação de solicitação de serviço
-
-!!! Abstract "ATENÇÃO"
-
-    A solicitação registrada pelo CITSmart ITSM Enterprise utiliza serviços
-    que são configurados no CITSmart Enterprise Web.**
-
-2-  Será apresentada a tela com campos cadastrais, conforme figuras abaixo:
-
-![nova solicitação](images/ios-app-pt-11.jpg)
-
-Figura 11 - Tela de cadastro de nova solicitação
-
-![cadastro de nova continuação](images/ios-app-pt-12.jpg)
-
-Figura 12 - Tela de cadastro de nova solicitação (continuação)
-
-![cadastro de nova continuação](images/ios-app-pt-13.jpg)
-
-Figura 13 - Tela de cadastro de nova solicitação (continuação)
-
-![nova continuação](images/ios-app-pt-14.jpg)
-
-Figura 14 - Tela de cadastro de nova solicitação (continuação)
-
-3-  Preencha os campos conforme orientações abaixo:
-
--   **Solicitante**: informe o nome do solicitante, ou seja, o nome da pessoa
-    que está solicitando a abertura de incidente ou requisição de serviço;
-
-!!! Abstract "ATENÇÃO"
-
-    Ao informar o solicitante é mostrado um resumo estatístico dos chamados
-    dele (por situação), bem como um outro resumo estatístico de satisfação (por
-    tipo de resposta) dos serviços já solicitados por ele. Por uma questão de
-    desempenho e de preservação do layout da tela, esses dois resumos são
-    paginados, ou seja, é possível avançar/retroceder para visualizar todas as
-    informações.
-
--   **Telefone**: informe o número de telefone do solicitante;
-
--   **Ramal**: informe o número do ramal do solicitante, caso o tenha;
-
--   **E-mail**: informe o e-mail do solicitante;
-
--   **Origem do contato**: informe a origem do contato para registro da
-    solicitação do serviço;
-
--   **Unidade**: selecione a unidade na qual o solicitante está lotado;
-
--   **Localidade Física**: informe a localização do solicitante;
-
--   **Outras Informações**: descreva as observações sobre o solicitante, se
-    achar necessário.
-
-4-  Registre as informações da solicitação de serviço:
-
--   **Catálogo**: selecione o catálogo de serviços;
-
--   **Serviço**: informe o serviço referente ao catálogo de serviços
-    selecionado. Se o catálogo de serviços for "**Negócio**", serão
-    disponibilizados neste campo os serviços de negócio para seleção, mas se o
-    catálogo de serviços for "**Técnico**", serão disponibilizados neste campo
-    os serviços de apoio/técnico para seleção;
-
--   **Tipo**: selecione o tipo da solicitação, se é uma abertura de incidente ou
-    requisição de serviço:
-
-    -   **Incidente**:caso a situação apresentada seja uma interrupção não
-        planejada, uma redução na qualidade do serviço ou falha de algum item de
-        configuração que ainda não tenha impactado um serviço de TI. Ex.: O link
-        de rede está fora, a rede está lenta, o servidor inacessível, etc.;
-
-    -   **Requisição**: refere-se aos pedidos de demandas realizados pelos
-        usuários dentro do ambiente da Tecnologia da Informação. Podem ser desde
-        pedidos de acesso até sugestões de melhoria a baixo custo. Ex.: pedido
-        de acesso à rede para um novo usuário, solicitação de configuração de
-        algum equipamento, requisição para adicionar algum software na estação
-        de trabalho, etc.
-
--   **Categoria**: informe a categoria de serviço para facilitar a busca da
-    atividade (requisição/incidente). A categoria irá identificar a natureza da
-    atividade, posicionando-o dentro de grupos semelhantes de atuação,
-    situando-o na hierarquia de sua categoria;
-
--   **Atividade (Requisição/Incidente)**: informe a atividade que será realizada
-    referente ao tipo de solicitação. Caso a atividade informada tenha um
-    “Script de Orientação” associado, o mesmo será exibido na guia de "Scripts"
-    representada pelo ícone  localizado no canto superior direito da tela;
-
--   **Contrato**: após informar a atividade (requisição/incidente), será exibido
-    o contrato para o qual será feita a abertura de incidente ou requisição de
-    serviço;
-
--   **Urgência**: após informar a atividade (requisição/incidente), será exibida
-    a informação da urgência a qual indica a velocidade na qual o serviço
-    precisa ser realizado;
-
--   **Impacto**: após informar a atividade (requisição/incidente), será exibida
-    a informação de impacto do serviço ao negócio;
-
-!!! Abstract "REGRA"
-
-    Após informar a atividade de requisição/incidente, será estabelecido o
-    tempo previsto para atendimento da solicitação, conforme configurado no
-    registro do tempo de atendimento vinculado à atividade. O tempo de
-    atendimento será contabilizado de acordo com o que foi definido no
-    calendário vinculado à unidade, mas caso a unidade não tenha um calendário
-    vinculado, será contabilizado de acordo com o calendário vinculado ao
-    serviço. Porém, ao encerrar o tempo previsto de atendimento é contabilizado
-    o atraso em tempo corrido, sendo desconsiderado o calendário.**
-
--   **Título**: informe o título da solicitação de serviço;
-
--   **Descrição**: informe a descrição da solicitação de serviço. A descrição
-    deve ser objetiva, incluindo toda informação necessária para o atendimento
-    da mesma;
-
--   **Direcionar para grupo**: informe o grupo para o qual será direcionada a
-    solicitação de serviço. Caso não informe o grupo, a solicitação será
-    direcionada para o grupo definido no fluxo de requisição/incidente. Se não
-    estiver definido o grupo no fluxo, a solicitação será direcionada para o
-    grupo definido no registro do vínculo da atividade de requisição/incidente
-    ao contrato. Mas se o grupo não estiver definido no registro do vínculo da
-    atividade ao contrato, a solicitação será direcionada para o grupo definido
-    no parâmetro "**ID Grupo Nível 1**";
-
--   **Notificações**:marque as opções de envio de notificação sobre a
-    solicitação para serem enviadas ao solicitante;
-
--   **Registro de Execução**: não é necessário o preenchimento deste campo, pois
-    o mesmo é indicado para o técnico que irá atender à solicitação, descrever
-    sobre a execução de sua atividade.
-
--   **Situação**: selecione a opção que se encaixa com o atual estado da
-    solicitação: **Registrada/Em andamento**.
-
-##### Aprovando/rejeitando solicitação de serviço
-
-Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
-necessário aprová-las.
-
-1-  Selecione a solicitação que é passível de aprovação;
-
-2-  Será apresentada a tela de “Detalhes” exibindo a descrição da solicitação
-    para aprovação/rejeição da mesma;
-
-![Rejeição](images/ios-app-pt-15.jpg)
-
-Figura 15 - Tela de Aprovação/Rejeição de Solicitação
-
-3-  Para aprovar a solicitação, basta pressionar o botão "Aprovada";
-
-4-  Para rejeitar a solicitação, pressione o botão "Não aprovada". Será exibida
-    uma tela para escolha da justificativa desta rejeição, conforme apresentada
-    na figura abaixo:
+  - icono Más Opciones  - menú de opciones de acciones para la solicitud (Delegar, Suspender,
+                          Cambiar SLA, Reclasificar, Crear sub-solicitudes, Mostrar sub-solicitudes,
+                          Programar actividad, Crear solicitud relacionada e Imprimir solicitud).
 
 
-![Rejeição da solicitação](images/ios-app-pt-16.jpg)
+#### Creación de solicitud de servicio
 
-Figura 16 - Tela justificava de rejeição da solicitação
+1-  Para crear una solicitud de servicio, pulse el icono Opciones situado en la esquina
+    inferior derecha de la pantalla y seleccione el icono "Nuevo ticket", como
+    se muestra a continuación:
 
--   Escolha a justificava da rejeição/aprovação da solicitação e pressione o
-    botão "Gravar e avançar o fluxo".
+
+![Criação de solicitação](images/ios-app-10.png)
+
+Figura 10 – Creación de solicitud de servicio
+
+!!! Abstract "ATENCIÓN"
+
+    La solicitude registrada por CITSmart ITSM Enterprise utiliza servicios que
+    se configuran em CITSmart Enterprise Web.
+
+
+2-  Se mostrará la pantalla con campos de registro, según las figuras abajo:
+
+
+![nova solicitação](images/ios-app-11.png)
+
+Figura 11 - Pantalla de registro de nueva solicitud
+
+![cadastro de nova continuação](images/ios-app-12.png)
+
+Figura 12 - Pantalla de registro de nueva solicitud (continuación)
+
+![cadastro de nova continuação](images/ios-app-13.png)
+
+Figura 13 - Pantalla de registro de nueva solicitud (continuación)
+
+![nova continuação](images/ios-app-14.png)
+
+Figura 14 - Pantalla de registro de nueva solicitud (continuación)
+
+3-  Complete los campos según las instrucciones a continuación:
+
+-   **Solicitante**: informe el nombre del solicitante, es decir, el nombre de la
+    persona que está solicitando la apertura de incidente o solicitud de servicio;
+
+
+!!! Abstract "ATENCIÓN"
+
+    Al informar al solicitante se muestra un resumen estadístico de las
+    llamadas (por situación), así como otro resumen estadístico de satisfacción
+    (por tipo de respuesta) de los servicios ya solicitados por él. Por una
+    cuestión de rendimiento y de preservación del layout de la pantalla, estos
+    dos resúmenes son paginados, es decir, es posible avanzar / retroceder para
+    visualizar toda la información.
+
+
+-   **Teléfone**: informe al número de teléfono del solicitante;
+
+-   **Extensión**: informe el número del interno del solicitante, si lo tiene;
+
+-   **E-mail**: informe el e-mail del solicitante;
+
+-   **Origen Contacto**: informe el origen del contacto para registro de la
+    solicitud del servicio;
+
+-   **Unidad**: seleccione la unidad en la que el solicitante está asignado;
+
+-   **Ubicación Física**: informe la ubicación del solicitante;
+
+-   **Otras informaciones**: describa las observaciones sobre el solicitante, si
+    es necesario.
+
+4-  Registre la información de la solicitud de servicio:
+
+
+-   **Catálogo**: seleccione el catálogo de servicios;
+
+-   **Servicio**: informe al servicio correspondiente al catálogo de servicios
+    seleccionado. Si el catálogo de servicios es "Negocio", se pondrán a
+    disposición en este campo los servicios de negocio para selección, pero si
+    el catálogo de servicios es "Técnico", estarán disponibles en este campo los
+    servicios de apoyo/técnico para selección;
+
+-   **Tipo**: seleccione el tipo de solicitud, si es una apertura de incidente o
+    solicitud de servicio:
+
+    -   **Incidente**: si la situación presentada es una interrupción no
+        planificada, una reducción en la calidad del servicio o el fallo de
+        algún ítem de configuración que aún no haya impactado en un servicio de
+        TI. Por ejemplo, el vínculo de red está fuera alcance, la red está
+        lenta, el servidor inaccesible, etc;
+
+    -   **Solicitud**: se refiere a las solicitudes de demandas realizadas por
+        los usuarios dentro del ambiente de la Tecnología de la Información.
+        Pueden ser desde solicitudes de acceso hasta sugerencias de mejora a
+        bajo costo. Por ejemplo: solicitud de acceso a la red para un nuevo
+        usuario, solicitud de configuración de algún equipo, solicitud para
+        agregar algún software en la estación de trabajo, etc.
+
+-   **Categoría**: informe la categoría de servicio para facilitar la búsqueda
+    de la actividad (solicitud/incidente). La categoría identificará la
+    naturaleza de la actividad, colocándolo dentro de grupos similares de
+    actuación, situándolo en la jerarquía de su categoría;
+
+
+-   **Actividad (Solicitud/Incidente)**: informe la actividad que se realizará
+    referente al tipo de solicitud. Si la actividad informada tiene un "script
+    de orientación" asociado, el mismo aparecerá en la pestaña "Scripts"
+    representada por el icono situado en la esquina superior derecha de la
+    pantalla;
+
+-   **Contrato**: después de informar la actividad (solicitud/incidente), se
+    exhibirá el contrato par al cual se hará la apertura de incidente o
+    solicitud de servicio;
+
+-   **Urgencia**: después de informar la actividad (solicitud/incidente), se
+    mostrará la información de la urgencia que indica la velocidad en la cual el
+    servicio necesita ser realizado;
+
+-   **Impacto**: después de informar la actividad (solicitud/incidente), se
+    mostrará la información de impacto del servicio al negocio;
+
+!!! Abstract "REGLA"
+
+    Después de informar la actividad de solicitud/incidente, se establecerá el
+    tiempo previsto para atender la solicitud, conforme configurado en el
+    registro del tiempo de atención vinculado a la actividad. El tiempo de
+    atención se contabilizará de acuerdo con lo que se definió en el calendario
+    vinculado a la unidad, pero si la unidad no tiene un calendario vinculado,
+    se contabilizará según el calendario vinculado al servicio. Sin embargo, al
+    cerrar el tiempo previsto de atención se contabiliz al retraso en tiempo
+    corrido, siendo desconsiderado el calendario.
+
+
+-   **Título**: informe el título de la solicitud de servicio;
+
+-   **Descripción**: introduzca la descripción de la solicitud de servicio. La
+    descripción debe ser objetiva, incluyendo toda la información necesaria para
+    la atención de la misma;
+
+-   **Direccionar a grupo**: informe el grupo par al que se dirija la solicitud
+    de servicio. Si no informa al grupo, la solicitud se dirigirá al grupo
+    definido en el flujo de solicitud/incidente. Si no se define el grupo en el
+    flujo, la solicitud se dirigirá al grupo definido en el registro del vínculo
+    de la actividad de solicitud/incidente al contrato. Pero si el grupo no está
+    definido en el registro del vínculo de actividad al contrato, la solicitud
+    se dirigirá al grupo definido en el parámetro **"ID Grupo Nivel 1"**;
+
+-   **Notificaciones**: marque las opciones de envío de notificación sobre la
+    solicitud para ser enviadas al solicitante;  
+    Registro de Ejecución: no es necesario el llenado de este campo, pues el
+    mismo es indicado par al técnico que atender a la solicitud, describir sobre
+    la ejecución de su actividad;
+
+-   **Situación**: seleccione la opción que se ajusta al estado actual de la
+    solicitud: **Registrada En curso**.
+
+
+#### Aprobando/rechazando solicitud de servicio
+
+Algunas solicitudes necesitan aprobación, por lo tanto, para atenderlas es
+necesario aprobarlas.
+
+1-  Seleccione la solicitud que es aprobada;
+
+2-  Se mostrará la pantalla de "Detalles" mostrando la descripción de la
+    solicitud para aprobación/rechazo de la misma;
+
+
+![Rejeição](images/ios-app-15.png)
+
+Figura 15 - Pantalla de aprobación/rechazo de solicitudo
+
+3-  Para aprobar la solicitud, basta presionar el botón "Aprobado";
+
+4-  Para rechazar la solicitud, pulse el botón "No aprobado". Se mostrará una
+    pantalla para elegir la justificación de este rechazo, como se muestra en la
+    figura siguiente:
+
+
+
+![Rejeição da solicitação](images/ios-app-16.png)
+
+Figura 16 - Pantalla con justificación del rechazo de la solicitud
+
+-   Elija la justificación del rechazo/aprobación de la solicitud y pulse el botón "Grabar y avanzar el flujo".
 
 
 Relacionado
 -------
 
-[Manual de confguração do servidor CITSmart Enterprise para uso de APPs (iOS e Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Manual de configuración del servidor CITSmart Enterprise para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
-[Configurar as opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar las opciones del móvil](es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins

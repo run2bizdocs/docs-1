@@ -1,33 +1,33 @@
-title: Editar Informação da Conta
-Description: Tem por objetivo editar informações sobre o perfil do usuário.
-#Editar Informação da Conta
+title: Editar información de la cuenta
+Description: Tiene por objetivo editar información sobre el perfil del usuario.
+#Editar información de la cuenta
 
-Esta funcionalidade tem por objetivo permitir editar as informações da conta de usuário.
+Esta funcionalidad tiene por objeto permitir editar la información de la cuenta de usuario.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para a editar o perfil é necessário estar autenticado.
+Para editar el perfil es necesario estar autenticado.
 
-Procedimento
+Procedimiento
 ----------------
 
-1. Na barra de navegação, clicar no ícone de usuário;
+1. En la barra de navegación, haga clic en el icono de usuario;
 
-2. Clicar em Editar perfil;
+2. Haga clic en Editar perfil;
 
-3. Atualizar as informações;
+3. Actualizar la información;
 
-4. Clicar em "Salvar".
+4. Haga clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Anna Martins

@@ -1,44 +1,42 @@
-title: Cadastrar modelo de planilha para importação de portfólio de serviços
-Description: Otimizar a criação de vários serviços e consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
-#Cadastrar modelo de planilha para importação de portfólio de serviços
+title: Registrar modelo de hoja para importar el portafolio de servicios
+Description: El objetivo de esta funcionalidad es optimizar la creación de varios servicios
+#Registrar modelo de hoja para importar el portafolio de servicios
 
-O objetivo desta funcionalidade é otimizar a criação de vários serviços e
-consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
+El objetivo de esta funcionalidad es optimizar la creación de varios servicios y, consecuentemente, de sus actividades dentro de uno o más portafolios de servicios.
 
 !!! Abstract "NOTA"
 
-    Ao gerar as planilhas independente do formato, o usuário encontrará campos
-    com hiperlink. Esses campos recuperam a referência do enumerado com a
-    descrição do campo. Nesses casos o usuário utilizará o enumerado para
-    preenchimento correto da lista.
+    Al generar las hojas de cálculo independientes del formato, el usuario
+    encontrará campos con hiperlink. Estos campos recuperan la referencia del
+    enumerado con la descripción del campo. En estos casos, el usuario utilizará
+    el enumerado para completar correctamente la lista.
 
-Antes de começar
---------------------
-
-Para realizar o carregamento de portfólio de serviços é preciso registrar
-previamente o tipo de serviço e a categoria de serviço.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Importação e Carga de Dados \> Carga do Portfólio de Serviços;
+Para hacer la carga del portafolio de servicios, es necesario registrar
+previamente el tipo de servicio y la categoría de servicio.
 
-2.  Para cadastrar um modelo de planilha para importação, clicar na
-    guia **Modelo de planilha para importação**;
+Procedimiento
+-------------
 
-3.  O cadastro de planilha para importação está estruturado conforme o passo a
-    passo para se criar um portfólio de serviços com as etapas Portfólio,
-    Serviço e Atividade (Incidente/Requisição);
+1.  Acceder al menú principal Sistema \> Importación y Carga de Datos \> Carga
+    Portafolio Servicio;
 
-4.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
-    Modelo .xls";
+2.  Para registrar una plantilla de hoja de cálculo para importar, hacer clic en
+    la pestaña **Modelo de Plantilla Para Importación**;
 
-5.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
-    Modelo .xlsx".
+3.  El registro de hoja de cálculo para importación está estructurado según el
+    paso a paso para crear un portafolio de servicios con las etapas de
+    Portafolio, Servicio y Actividad (Incidente/Solicitud);
 
+4.  Para generar plantilla de hoja de cálculo en formato ".xls", hacer clic en
+    "Generar Modelo .xls";
+
+5.  Para generar plantilla de hoja de cálculo en formato ".xlsx", hacer clic en
+    "Generar Modelo .xlsx".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

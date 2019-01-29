@@ -1,38 +1,36 @@
-title: Realizar a importação de portfólio de serviço
-Description: Realizar a importação de portfólio de serviços. Os dados importados poderão ser visualizados no Portfólio de Serviços.
-#Realizar a importação de portfólio de serviço
+title: Hacer la importación del portafolio de servicio
+Description: El objetivo de esta funcionalidad es hacer la importación del portafolio de servicios.
+#Hacer la importación del portafolio de servicio
+El objetivo de esta funcionalidad es hacer la importación del portafolio de servicios. Los datos importados se pueden ver en el Portafolio de Servicios.
 
-O objetivo desta funcionalidade é realizar a importação de portfólio de
-serviços. Os dados importados poderão ser visualizados no Portfólio de Serviços.
-
-Antes de começar
---------------------
-
-Para realizar a importação é necessário gerar o modelo de planilha de
-importação.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Importação e Carga de Dados \> Carga do Portfólio de Serviços;
+Para hacer la importación, es necesario generar el modelo de hoja de
+importación.
 
-2.  Para cadastrar um modelo de planilha para importação, clicar na
-    guia **Importação**;
+Procedimiento
+-------------
 
-3.  Clicar em "Escolher arquivo" e selecionar o arquivo o qual deve estar em
-    formato ".xls" ou ".xlsx";
+1.  Acceder al menú principal Sistema \> Importación y Carga de Datos \> Carga
+    Portafolio Servicio;
 
-4.  Clicar em "Importar".
+2.  Para registrar un modelo de hoja para importación, hacer clic en la
+    pestaña **Importación**;
+
+3.  Hacer clic en "Elegir archivo" y seleccionar el archivo que debe estar en el
+    formato ".xls" o ".xlsx";
+
+4.  Hacer clic en "Importar".
 
 !!! Abstract "NOTA"
 
-    Ao realizar a importação, caso haja alguma inconsistência entre os valores
-    adotados no sistema e os valores informados na planilha, o sistema exibirá
-    um alerta.
+    Al hacer la importación, si hay alguna inconsistencia entre los valores
+    adoptados en el sistema, y los valores informados en la hoja de cálculo, el
+    sistema mostrará una alerta.
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
 

@@ -1,58 +1,52 @@
-title: Manutenção de fluxo de trabalho
-Description: Modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos, através de um fluxograma.
-#Manutenção de fluxo de trabalho
+title:  Mantenimiento del flujo de trabajo 
+Description: La funcionalidad de Mantenimiento de Flujos tiene el propósito de modelar sus objetivos de negocio
+#Mantenimiento del flujo de trabajo
+La funcionalidad de Mantenimiento de Flujos tiene el propósito de modelar sus objetivos de negocio, describiendo los pasos que necesitan ser ejecutados para alcanzar esos objetivos, a través de un diagrama de flujo.
 
-A funcionalidade de Manutenção de Fluxos tem a finalidade de modelar seus
-objetivos de negócio, descrevendo os passos que precisam ser executados para
-atingir esses objetivos, através de um fluxograma.
+Procedimiento
+-------------
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um fluxo de trabalho.
+1.  Acceda a la funcionalidad por el menú principal Sistema \> Mantenimiento de
+    Flujos;
 
-Procedimento
-----------------
+2.  Haga clic en "Nuevo";
 
-1-  Acessar o menu principal Sistema \> Manutenção de Fluxos;
+3.  En Datos del Flujo, llenar los campos disponibles y hacer clic en "Guardar";
 
-2-  Clicar no botão "Novo";
+4.  En Diagrama, se va hacer el diseño del flujo. Hay 6 grupos de conectores:
 
-3-  Na aba Dados do Fluxo, preencher os campos disponibilizados e clicar em
-    "Gravar";
+-   **Eventos**: presenta los elementos de eventos para utilizar en el diseño
+    del flujo;
 
-4-  Na aba Diagrama será realizado o desenho do fluxo. Existem 6 grupos de
-    conectores:
+-   **Actividades**: presenta los elementos de tareas para utilizar en el diseño
+    del flujo;
 
--   **Eventos:** apresenta os elementos de eventos para ser utilizado no desenho
-    do fluxo;
+-   **Gateways**: presenta los elementos de condiciones para utilizar en el
+    diseño del flujo.
 
--   **Tarefas:** apresenta os elementos de tarefas para ser utilizado no desenho
-    do fluxo;
+1.  Para insertar los elementos, haga clic en el elemento deseado y arrastrarlo
+    al área de dibujo. Al arrastrar y soltar el elemento, se muestra una
+    pantalla para definir las propiedades;
 
--   **Gateways:** apresenta os elementos de condições para ser utilizado no
-    desenho do fluxo.
+2.  Cada elemento, cuando se arrastra y se coloca en el área de dibujo, abrirá
+    una ventana con guías para su configuración;
 
-5-  Para inserir os elementos, basta clicar no elemento desejado e arrastá-lo
-    para a área de desenho. Ao arrastar e soltar o elemento na área de desenho,
-    será exibida uma tela para definição das propriedades;
+3.  Recuerda que:
 
-6-  Cada, elemento quando arrastado e colocado na área de desenho, abrirá uma
-    janela com guias de configuração do mesmo;
+-   las normativas configuradas en el flujo, tendrán prioridad en relación a las
+    marcas de la plantilla de solicitud de servicio, pues ésta es un complemento
+    del flujo;
 
-7-  Vale lembrar que:
+-   para usar el componente “Conversación Watson” la organización debe poseer la
+    arquitectura IBM BlueMIX, posibilitando así el acceso a la API de
+    Conversación de Watson;
 
--   as normativas configuradas no fluxo terão prioridade em relação às marcações
-    do template de solicitação de serviço, pois esta é um complemento do fluxo;
+-   para borrar un elemento que se ha insertado en el dibujo del flujo, haga
+    clic en el elemento y presiona las teclas Ctrl+Delete.
 
--   para usar o componente "Conversação Watson" a organização deve possuir a arquitetura IBM
-    BlueMIX, possibilitando assim acesso à API Conversation do Watson;
-
--   para excluir um elemento que foi inserido no desenho do fluxo, clicar no
-    mesmo e pressionar as teclas Ctrl+Delete.
-
-8- Após o desenho do fluxo e suas configurações, clicar em "Gravar".
-
+1.  Después del diseño del flujo y sus configuraciones, haga clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço

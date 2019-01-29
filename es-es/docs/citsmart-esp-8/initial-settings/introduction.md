@@ -1,10 +1,11 @@
-Title: Configurações iniciais
+Title: Configuraciones iniciales
 
-# Configurações iniciais
+Configuraciones iniciales
+----------
 
-No menu de configurações iniciais, encontrará os seguintes tópicos:
+En el menú de configuración inicial, encontrará los siguientes tópicos:
 
-* Acessar configurações
+* Acceder a las configuraciones
 
 * Add-ons
 

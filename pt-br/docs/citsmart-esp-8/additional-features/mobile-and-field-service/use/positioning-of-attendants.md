@@ -31,7 +31,7 @@ Procedimento
 Relacionado
 -------
 
-[Manual de configuração do servidor CITSmart Enterprise ITSM para uso de APPs(iOS e Android)](https://docs-dev.citsmart.com/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Manual de configuração do servidor CITSmart Enterprise ITSM para uso de APPs(iOS e Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
 
 !!! tip "About"

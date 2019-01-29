@@ -1,25 +1,25 @@
-title: Painel Inicial
-#Painel Inicial
+title: Panel Inicial
+#Panel Inicial
 
-O painel inicial é exibido na tela principal do sistema. Neste painel é possível adicionar dashboards a partir de um template ou selecionando manualmente. Nesta área também estão disponíveis recursos para criação de atalhos (links), visualização de relatórios e dashboads. Contém informações relevantes.
+El panel inicial se muestra en la pantalla principal del sistema. En este panel, es posible añadir dashboards desde una plantilla o seleccionando manualmente. En esta área también están disponibles recursos para creación de atajos (links), visualización de informes y dashboads. Hay información relevante.
 
-* Alterar Informações da conta
-* Criar atalhos
-* Criar sua dashboad
-* Adicionar widgets à sua dashboad
+* Cambiar las Informaciones de la cuenta
+* Crear atajos
+* Crear su dashboad
+* Añadir widgets en su dashboad
 
 
 Relacionado
 -------
 
-[Customizar painel inicial][1]
+[Personalizar el panel gerencial (Smart Decision)][1]
 
-[Editar Informações da Conta][2]
+[Editar Información de la cuenta][2]
 
 !!! tip "Sobre"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 – Renato Aragao
+    <b>Updated:</b>01/28/2019 – Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html
+[1]:/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
+[2]:/es-es/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html

@@ -1,77 +1,79 @@
-title: Personalizar o painel gerencial (Smart Decision)
-Description: Adicionar dashboards a partir de um template ou selecionando manualmente.
-#Personalizar o painel gerencial (Smart Decision)
+title: Personalizar el panel gerencial (Smart Decision)
+Description: Añadir dashboards desde una plantilla o seleccionando manualmente.
+#Personalizar el panel gerencial (Smart Decision)
 
-O painel gerencial é exibido na tela principal do sistema. Neste painel é
-possível adicionar dashboards a partir de um template ou selecionando
-manualmente. Nesta área também estão disponíveis recursos para criação de
-atalhos (links), visualização de relatórios e dashboads. Contém informações
-relevantes.
 
-No painel gerencial default é disponibilizado apenas o recurso do tipo *Acesso
-Rápido* (links).
+El panel de administración se muestra en la pantalla principal del sistema. En
+este panel es posible añadir dashboards desde una plantilla o seleccionando
+manualmente. En esta área también están disponibles recursos para creación de
+accesos directos (links), visualización de informes y dashboads. Hay información
+relevante.
 
-Antes de começar
+En el panel de administración predeterminado sólo está disponible la función de
+acceso rápido (links).
+
+Antes de empezar
 --------------------
 
-Para a criação de atalhos (links) não é necessária nenhuma permissão especial,
-contudo a utilização de elementos do tipo widget e smart reports carece de
-permissões definidas por um administrador da ferramenta.
+Para la creación de accesos directos (links) no es necesario ningún permiso
+especial, sin embargo, el uso de elementos del tipo widget y smart reports
+carece de permisos definidos por un administrador de la herramienta.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-*Utilizar um template para personalizar o painel do usuário*
+*Utilizar una plantilla para personalizar el panel del usuario*
 
-1.  Para visualizar os templates disponíveis clicar no ícone "Exibir/esconder menu";
+1.  Para ver las plantillas disponibles, haga clic en el icono "Visualizar/ocultar menu";
 
-2.  Para adicionar um dashboard a um template, clicar no ícone "Adicionar novo dashboard" (lado esquerdo
-    da tela), preencher os campos disponibilizados, selecionar um template e
-    clicar em "Gravar";
+2.  Para agregar un dashboard a una plantilla, haga clic en el icono "Añadir nuevo dashboard" (lado
+    izquierdo de la pantalla), completar los campos disponibles, seleccionar una
+    plantilla y hacer clic en "Guardar";
 
-3.  Para editar dashboard clicar no ícone "Editar dashobard";
+3.  Para editar dashboard, haga clic en el icono "Editar dashboard";
 
-4.  Para excluir um dashboard clicar no ícone "Excluir dashboard" .
+4.  Para borrar un dashboard, haga clic en el icono "Eliminar dashboard" .
 
-*Inserir elementos manualmente*
+*Insertar elementos manualment*
 
-1.  Para adicionar elementos como links, smart reports ou widgets, clicar no
-    ícone "Habiliar modo de edição" e em seguida em "Adicionar novo widget" :
+1.  Para agregar elementos como enlaces, informes inteligentes o widgets, haga
+    clic en el icono "Activar el modo de edición" y después en "Añadir nuevo widget":
 
-    +   *Acesso Rápido* :
+-   *Acceso Rápido* :
 
-        +   Clicar em *Links;*
+    -   Haga clic en *Links;*
 
-            +   Clicar no ícone "Editar configurações do widget" referente a caixa de *Links*;
+        -   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
 
-            +   Preencher o campo disponibilizado e clicar em "Adicionar" para
-                definir o *Tipo*, se "Interno" selecionar o Menu do sistema (ex:
-                Processos \> Gerência de Portfólio e Catálogo \> Smart Portal), se
-                "Externo" definir o Título/Chave e acrescentar a URL;
+        -   Completar el campo disponible y hacer clic en "Agregar" para definir
+            el Tipo, si "Interno" selecciona el menú del sistema (por ejemplo:
+            Procesos \> Gestión de Portafolio y Catálogo\> Smart Portal), si
+            "Externo" define el Título/Clave y añadir la URL;
 
-        +   Clicar em "Aplicar".
+        -   Clicar em "Aplicar".
 
-    +   *Relatórios Smart:*
+-   *Informes Smart:*
 
-        +   escolher o tipo de relatório que ficará no painel gerencial.
+    -   elegir el tipo de informe que se quedará en el panel gerencial.
 
-    +   *Widgets*:
+-   *Widgets*:
 
-        +   escolher o tipo de widget que ficará no painel gerencial.
+    -   elegir el tipo de widget que se quedará en el panel gerencial.
 
-1.  Para salvar as alterações no painel gerencial com os widgets, clicar no
-    ícone "Salvar alterações" ;
+4-  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
+    el icono "Guardar los cambios";
 
-2.  Para desfazer alterações clicar no ícone "Desfazer alterações".
+5-  Para deshacer los cambios, haga clic en el icono "Deshacer los cambios".
+
 
 
 Relacionado
 -------
 
-[Configurar template para Smart Decision](/pt-br/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
+[Configurar plantilla para Smart Decision](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

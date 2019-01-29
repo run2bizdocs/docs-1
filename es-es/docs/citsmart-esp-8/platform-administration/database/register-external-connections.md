@@ -1,35 +1,29 @@
-title: Cadastrar conexões externas
-Description: Permitir a criação de conexões com outros bancos de dados seja ele interno ou externo.
-#Cadastrar conexões externas
+title: Registrar conexiones externas
+Description: Tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo. 
+#Registrar conexiones externas
+Esta funcionalidad tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar conexiones externas.
 
-Esta funcionalidade tem por objetivo permitir a criação de conexões com outros
-bancos de dados seja ele interno ou externo.
+Procedimiento
+-------------
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir conexões externas.
+1.  Acceder al menú principal Sistema \> Conexiones Externas;
 
-Procedimento
-----------------
+2.  Completar los campos disponibles;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Conexões Externas;
+3.  Hacer clic en "Prueba de Conexión" para comprobar que la conexión se ha
+    establecido con éxito;
 
-2.  Preencher os campos disponibilizados;
-
-3.  Clicar no botão "Teste Conexão" para verificar se a conexão foi estabelecida
-    com sucesso;
-
-4.  Clicar no botão "Gravar".
+4.  Hacer clic en "Guardar".
 
 !!! Abstract "NOTA"
 
-    É apresentado a seguinte mensagem caso os dados do campo Url, Usuário e
-    Senha não forem válidos: "Dados incorretos e/ou Banco inacessível! Deseja
-    salvar assim mesmo?"
-
+    Se muestra el siguiente mensaje si los datos del campo Url, Usuario y
+    Contraseña no son válidos: "Datos incorrectos y/o banco inaccesible, ¿Desea
+    guardarlo?".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço
 

@@ -16,7 +16,7 @@ Uso
 
 - [Alterar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/change-group-configuration-item.html)
 
-- [Excluir grupo de item de configuração](/en-us/citsmart-esp-8/processes/configuration/use/delete-group-of-IC.html)
+- [Excluir grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/delete-group-of-IC.html)
 
 - [Vincular calendário ao grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
@@ -34,7 +34,7 @@ Uso
 
 - [Verificar histórico de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/CI-history.html)
 
-- Verificar status de execução do inventário de IC
+- [Verificar status de execução do inventário de IC](/pt-br/citsmart-esp-8/processes/configuration/use/verify-status-inventory.html)
 
 - [Verificar itens de configuração capturados pelo Inventory(agente)](/pt-br/citsmart-esp-8/processes/configuration/use/CI-captured-by-inventory.html)
 

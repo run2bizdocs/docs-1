@@ -1,40 +1,40 @@
-title: Gerenciamento de Nível de Serviço
+title: Gestión de nivel de servicio
 Description: The Service Level Management is a process responsible to maintain, improve and deliver the quality expected by the business
-#Gerenciamento de Nível de Serviço
+#Gestión de nivel de servicio
 
-Apresentação
+Presentación
 ----------------
 
-O Gerenciamento de Nível de Serviço é um processo responsável por manter, melhorar e entregar a qualidade esperada pelo negócio, através de acordos, contratos, medindo o desempenho, justificando os custos relacionados ao negócio. O mesmo tem como objetivo assegurar que os serviços de TI atuais e planejados sejam entregues com as metas tangíveis. Isto pode ser feito com um ciclo constante de negociação, acordo, monitoração, reporte e revisão de metas e resultados obtidos e por meio de ações para corrigir e melhorar o nível de serviço entregue.
+La Gestión de Nivel de Servicio es un proceso responsable de mantener, mejorar y entregar la calidad esperada por el negocio, a través de acuerdos, contratos, midiendo el desempeño, justificando los costos relacionados con el negocio. El tiene como objetivo asegurar que los servicios de TI actuales y planificados sean entregados con las metas tangibles. Esto se puede hacer con ciclo constante de negociación, acuerdo, monitoreo, reporte y revisión de metas y resultados obtenidos, además de acciones para corregir y mejorar el nivel de servicio entregado.
 
 Uso
 -------
 
-- [Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
+- [Crear tiempo de servicio](/es-es/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
 
-- [Acordo de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
+- [Acuerdo de Nivel de Serviço](/es-es/citsmart-esp-8/processes/service-level/use/service-level-agreement.html)
 
-- [Avaliação de contrato](/pt-br/citsmart-esp-8/processes/service-level/use/contract-evaluation.html)
+- [Evaluación del contrato](/es-es/citsmart-esp-8/processes/service-level/use/contract-evaluation.html)
 
-- [Avaliação de fornecedor](/pt-br/citsmart-esp-8/processes/service-level/use/provider-evaluation.html)
+- [Evaluación del fornecedor](/es-es/citsmart-esp-8/processes/service-level/use/provider-evaluation.html)
 
-- [Avaliação de SLA](/pt-br/citsmart-esp-8/processes/service-level/use/SLA-evaluation.html)
+- [Evaluación del SLA](/es-es/citsmart-esp-8/processes/service-level/use/SLA-evaluation.html)
 
-- [Plano de melhoria](/pt-br/citsmart-esp-8/processes/service-level/use/improvement-plan.html)
+- [Plan de mejora](/es-es/citsmart-esp-8/processes/service-level/use/improvement-plan.html)
 
-- [Requisito de nível de serviço](/pt-br/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
+- [Requerimiento de nivel de servicio](/es-es/citsmart-esp-8/processes/service-level/use/service-level-requirement.html)
 
-Configuração
+Configuración
 -----------------
 
-- [Cadastrar Prioridade](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+- [Registrar Prioridad](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-Relatório
+Informe
 ----------
 
-- [Gerar relatórios - Gerência de Nível de Serviço](/pt-br/citsmart-esp-8/processes/service-level/configuration/reports-service-level-management.html)
+- [Generar informes - Gestión de Nivel de Servicio](/es-es/citsmart-esp-8/processes/service-level/configuration/reports-service-level-management.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

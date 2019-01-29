@@ -1,72 +1,66 @@
-title: Cadastrar conexões LDAP
-Description: Permite gerenciar diretórios, ou seja, acessar bancos de informações sobre os usuários de uma rede por meio de protocolos TCP/IP.
-#Cadastrar conexões LDAP
+title:  Registrara conexiones LDAP 
+Description: Permite registrar múltiples conexiones LDAP y definir las configuraciones para cada una de ellas.
+#Registrara conexiones LDAP
+El LDAP (Lightweight Directory Access Protocol - Protocolo Ligero/Simplificado de Acceso a Directorios) es un protocolo estándar que permite administrar directorios, es decir, acceder a bancos de información sobre los usuarios de una red a través de protocolos TCP/IP.
+Esta funcionalidad permite registrar múltiples conexiones LDAP y definir las configuraciones para cada una de ellas.
 
-O LDAP (*Lightweight Directory Access Protocol* - Protocolo de acesso aos
-diretórios leves) é um protocolo padrão que permite gerenciar diretórios, ou
-seja, acessar bancos de informações sobre os usuários de uma rede por meio de
-protocolos TCP/IP.
-
-Essa funcionalidade permite cadastrar múltiplas conexões LDAP e definir as
-configurações para cada uma delas.
-
-Antes de começar
---------------------
-
-É preciso ter cadastrado o horário para agendamento da sincronização automática.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1-  Acessar o menu principal Parametrização \> Configuração LDAP;
+Es necesario tener registrado el horario para la programación de la
+sincronización automática.
 
-2-  Clicar no botão "Novo";
+Procedimiento
+-------------
 
-!!! Abstract "REGRA"
+1-  Acceder al menú principal Acessar o menu principal Parametrización \>
+    Configuración LDAP;
 
-    Todos os campos são igualmente relevantes para viabilizar a conexão com o
-    LDAP, enquanto o teste não for bem-sucedido o procedimento de configuração
-    não pode ser considerado completado.
+2-  Hacer clic en "Nuevo";
 
-3-  Preencher os campos disponibilizados;
+!!! Abstract "REGLA"
 
-!!! Abstract "REGRA"
+    Todos los campos son igualmente relevantes para viabilizar la conexión con
+    el LDAP, mientras la prueba no es correcta, el procedimiento de
+    configuración no puede ser considerado completado.
 
-    Caso não exista grupos LDAP, preencher o campo “DN Grupo” apenas com um
-    asterisco. Isto fará com que o sistema verifique todo o domínio.
+3-  Completar los campos disponibles;
 
-4-  É possível vincular novos grupos, para isso clicar no botão "Adicionar" na
-    área **Grupos LDAP**;
+!!! Abstract "REGLA"
 
-!!! Abstract "REGRA"
+    Si no hay grupos LDAP, complete el campo "DN Group" sólo con un asterisco.
+    Esto hará que el sistema compruebe todo el dominio.
 
-    Antes de pedir para testar DEVE ser clicado o botão "Gravar" para salvar a
-    configuração, caso contrário o teste usará os dados anteriores às alterações
-    feitas na tela.
+4-  Es posible vincular nuevos grupos, para ello, haga clic en "Agregar" en el
+    área Grupos LDAP;
 
-!!! Abstract "REGRA"
+!!! Abstract "REGLA"
 
-    Quando há um pedido de autenticação na tela de identificação do sistema
-    (login e senha) é executado um ciclo de busca da conexão correta com base
-    nesta configuração, ou seja, há uma tentativa de autenticação para cada
-    domínio aqui cadastrado (isso se houver mais de um).
+    Antes de solicitar la prueba, se DEBE hacer clic en "Guardar" para guardar
+    la configuración, de lo contrario, la prueba utilizará los datos anteriores
+    a los cambios hechos en la pantalla.  
 
-5-  É possível vincular mapas de campos, para isso clicar no botão "Adicionar"
-    na área **Mapeamento de campos**;
+    Cuando hay una solicitud de autenticación en la pantalla de identificación
+    del sistema (login y contraseña), se ejecuta un ciclo de búsqueda de la
+    conexión correcta sobre la base de esta configuración, es decir, hay un
+    intento de autenticación para cada dominio aquí registrado (esto si hay más
+    de uno).
 
-6-  Clicar no botão "Gravar".
+5-  Es posible vincular mapas de campos, para ello, haga clic en "Agregar" en el
+    área **Mapeo de campos**;
 
-!!! Abstract "REGRA"
+6-  Hacer clic en "Guardar".
 
-    O sistema não permite excluir um usuário que tem origem no LDAP.
+!!! Abstract "REGLA"
 
+    El sistema no permite eliminar un usuario que tiene origen en el LDAP.
 
 Relacionado
 -----------
 
-[Cadastrar horário](/pt-br/citsmart-esp-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+    <b>Updated:</b>01/28/2019 - Larissa Lourenço

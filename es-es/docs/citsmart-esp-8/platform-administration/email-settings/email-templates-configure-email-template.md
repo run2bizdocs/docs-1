@@ -1,25 +1,19 @@
-title: Configurar modelo de email
-Description: Criar modelos de e-mail para notificações do sistema.
-#Configurar modelo de e-mail
+title:  Configurar modelo de e-mail
+Description: Tiene por objetivo crear modelos de e-mail para notificaciones del sistema.
+# Configurar modelo de e-mail
+Esta funcionalidad tiene por objetivo crear modelos de e-mail para notificaciones del sistema.
+Un conocimiento permite la anexión de imágenes, enlaces, entre otros recursos visuales, haciendo así el intercambio de correos electrónico más interactivo.
 
-Esta funcionalidade tem por objetivo criar modelos de e-mail para notificações
-do sistema.
+Procedimiento
+-------------
 
-Um conhecimento permite a anexação de imagens, links, entre outros recursos
-visuais, tornando assim o compartilhamento de e-mails mais interativo.
+1.  Acceder al menú principal Sistema \> Configuración \> Modelo de E-mail;
 
-Procedimento
-----------------
+2.  Completar los campos disponibles;
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Configurações \> Modelo de E-mail;
-
-2.  Preencher os campos cadastrais disponibilizados;
-
-3.  Clicar em "Gravar".
-
+3.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço

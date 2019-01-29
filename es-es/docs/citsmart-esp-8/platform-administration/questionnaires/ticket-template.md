@@ -1,83 +1,78 @@
-title: Cadastrar template de ticket
-Description: habilitar algumas funcionalidades na tela de solicitação de serviço (ticket).
-#Cadastrar template de ticket
+title:  Registrar plantilla de ticket 
+Description: Tiene el objetivo de habilitar algunas funcionalidades en la pantalla de solicitud de servicio (ticket).
+#Registrar plantilla de ticket
+Esta funcionalidad tiene el objetivo de habilitar algunas funcionalidades en la pantalla de solicitud de servicio (ticket).
+Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar plantilla de ticket.
 
-Esta funcionalidade tem o objetivo de habilitar algumas funcionalidades na tela
-de solicitação de serviço (ticket).
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir template de ticket.
-
-Antes de começar
---------------------
-
-O template de ticket do tipo Questionário requer o registro de um questionário
-previamente.
-
-O template de ticket do tipo Neuro requer o registro prévio de um formulário do
-tipo **Neuro** previamente.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade de Template de Solicitação de Serviço através da
-    navegação no menu principal Sistema \> Template de Ticket;
+La plantilla de ticket del tipo Cuestionario requiere el registro de un
+cuestionario previamente.
 
-2.  Clicar no botão " Novo";
+La plantilla de ticket del tipo Neuro requiere el registro previo de un
+formulario del tipo **Neuro** previamente.
 
-3.  O Tipo de Template selecionado irá definir os campos para preenchimento:
+Procedimiento
+-------------
 
-    -   **JSP**: esta funcionalidade permite personalizar a tela de serviços com
-        referência, principalmente, na gerência de compras e viagens. Dentro do tipo
-        JSP existem sub-tipos previamente cadastrados. A utilidade deste tipo de
-        template só é observada nas versões anteriores à 7.2.3.9. Esta classe de
-        template deverá ser manipulada por analista que possua conhecimento de
-        programação JAVA
+1.  Acceder al menú principal Sistema \> Plantilla de Ticket;
 
-    -   **Questionário**: mesmo que desabilitada a opção de "Habilita editar
-    questionário", essa edição será possível quando ocorrer o cadastro do
-    ticket. Existem duas funções de aprovação que podem ser configuradas, na
-    tela de template de solicitação de serviço ou na de manutenção de fluxo. Via
-    de regra, para o sistema, somente as configurações realizadas na tela de
-    fluxo terão validade. A função de aprovação existente na tela de template de
-    solicitação de serviço só terá validade se vinculada ao cadastro de um
-    formulário JSP nos modelos mais antigos do sistema. Os campos de habilitação
-    apesar de selecionados por default, terão sua visualização não disponível no
-    momento de criação de ticket , esta visualização ocorrerá com a efetivação
-    do cadastro. No momento de cadastro do ticket que tenha um formulário do
-    tipo padrão, estarão disponíveis no botão "Menu", localizado no canto superior
-    esquerdo, apenas as funcionalidades: IC do Solicitante, Anexos, Agenda,
-    Liberação, Projeto, Conhecimento e Leitura de e-mails. todas as
-    funcionalidades de habilitação que são apresentadas tanto na tela de
-    template de solicitação de serviço quanto na de manutenção de fluxo, só
-    terão validade as marcações configuradas na tela de fluxo, pois a primeira
-    mencionada é um complemento da segunda. Se o template de solicitação de
-    serviço estiver vinculado somente a atividades do portfólio o sistema vai
-    subentender que o formulário é padrão, por isso ele não vai atender as
-    normativas (habilitação ou não da funcionalidade) do template. Para a regra
-    de reclassificação onde o template de serviço do tipo Questionário ou Neuro
-    tiver que ser apresentado para a resposta do usuário, é preciso que o
-    template ou formulário esteja vinculado ao template de solicitação de
-    serviço concomitantemente com a tela de manutenção de fluxo e a atividade do
-    portfólio.
+2.  Hacer clic en "Nuevo";
 
-    -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
-    Neuro e página Neuro são disponibilizados. Também é possível eleger
-    a versão do formulário ao clicar no botão "Versão específica do
-    formulário". As regras do template do tipo *Questionário* são válidas para o
-    template do tipo Neuro.
+3.  El Tipo de Plantilla seleccionado establecerá los campos para completar:
 
+-   **JSP**:esta funcionalidad permite personalizar la pantalla de servicios con
+    referencia, principalmente, en la gestión de compras y viajes. Dentro del
+    tipo JSP hay sub-tipos previamente registrados. La utilidad de este tipo de
+    plantilla sólo se observa en las versiones anteriores a 7.2.3.9. Esta clase
+    de plantilla deberá ser manipulada por analista que tenga conocimiento de
+    programación JAVA;
+
+-   **Cuestionario**: incluso si deshabilitada la opción de "Habilitar editar
+    cuestionario", esta edición será posible cuando ocurra el registro del
+    ticket. Hay dos funciones de aprobación que se pueden configurar, en la
+    pantalla de la plantilla de solicitud de servicio o en el mantenimiento del
+    flujo. Por regla general, para el sistema, sólo las configuraciones
+    realizadas en la pantalla de flujo tendrán validez. La función de aprobación
+    existente en la pantalla de plantilla de solicitud de servicio, sólo tendrá
+    validez si está vinculada al registro de un formulario JSP en los modelos
+    más antiguos del sistema. Los campos de habilitación, a pesar de
+    seleccionados por defecto, tendrán su visualización no disponible en el
+    momento de creación de ticket, esta visualización ocurrirá con la
+    efectividad del registro. En el momento de registro del ticket que tenga un
+    formulario del tipo estándar, estarán disponibles en el botón “Menú”, en la
+    esquina superior izquierda, sólo las características: EC del Solicitante,
+    Adjuntos, Agenda, Liberación, Proyecto, Conocimiento y Lectura de correos
+    electrónicos. Todas las funcionalidades de habilitación, que se presentan
+    tanto en la pantalla de plantilla de solicitud de servicio, como en la de
+    mantenimiento de flujo, sólo tendrán validez las marcas configuradas en la
+    pantalla de flujo, pues la primera mencionada es un complemento de la
+    segunda. Si la plantilla de solicitud de servicio está vinculada sólo a las
+    actividades del portafolio, el sistema va a subentender que el formulario es
+    estándar, por lo que no va a cumplir las normativas (habilitación o no de la
+    funcionalidad) de la plantilla. Para la regla de reclasificación, donde la
+    plantilla de servicio del tipo Cuestionario o Neuro tiene que ser presentado
+    para la respuesta del usuario, es necesario que la plantilla o formulario
+    esté vinculado a la plantilla de solicitud de servicio concomitantemente con
+    la pantalla de mantenimiento del flujo y la actividad del portafolio;
+
+-   **Neuro**: al seleccionar esta opción, el campo de vinculación de formulario
+    Neuro y la página Neuro están disponibles. También puede elegir la
+    **versión** del formulario haciendo clic en el botón *Versión específica del
+    formulario*. Las reglas del template del tipo Cuestionario son válidas para
+    la plantilla del tipo Neuro.
 
 Relacionado
 -----------
 
-[Manutenção do fluxo do trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Registrar cuestionario](/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

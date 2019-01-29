@@ -1,54 +1,59 @@
-title: Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
-Description: Definir quem terá acesso às funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso é permitido (visualização, gravação e/ou exclusão).
-#Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
+title: Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
+Description: Permite definir quién tendrá acceso a las funcionalidades de la Gestión de Portafolio de Servicios y qué tipo de acceso está permitido (ver, guardar y/o borrar).
+#Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
+
+
+ITIL recomienda que un producto ITSM sea capaz de asignar niveles de
+responsabilidad específicos a un Gerente de Portafolio u otros, sobre la base de
+esta recomendación, CITSmart adopta esta forma diferenciada de control de
+permisos, por módulo
 
 A ITIL recomenda que um produto ITSM seja capaz de atribuir níveis de
 responsabilidades específicos para um Gerente de Portfólio ou outros, com base
 nesta recomendação, o CITSmart adota esta forma diferenciada de controle de
-permissões, por módulo. Vale a pena ressaltar que a funcionalidade ‘Perfil de
-Acesso’ continua existindo e controlando todos os tipos de acessos sem separação
-por módulos para que o administrador do produto possa intervir com mais
-propriedade, sempre que necessário.
+permissões, por módulo. Vale la pena resaltar que la funcionalidad 'Perfil de
+Acceso' sigue existiendo y controlando todos los tipos de accesos sin separación
+por módulos, para que el administrador del producto pueda intervenir con más
+propiedad, siempre que sea necesario.
 
-A funcionalidade de Gerência de Portfólio permite definir quem terá acesso às
-funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso
-é permitido (visualização, gravação e/ou exclusão).
+La funcionalidad de Gestión de Portafolio permite definir quién tendrá acceso a
+las funcionalidades de la Gestión de Portafolio de Servicios y qué tipo de
+acceso está permitido (ver, guardar y/o borrar).
 
-Antes de Começar
+Antes de empezar
 --------------------
 
-Antes de gerenciar a permissão de acesso é preciso ter cadastrado perfil de
-acesso previamente.
+Antes de administrar el permiso de acceso, es necesario tener un perfil de
+acceso previamente registrado.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Gerência de Portfólio;
+1-  Acceder al menú principal Acceso y Permisos \> Gestión del Portafolio;
 
-2-  Escolher o perfil a ser gerenciado e clicar em "Editar";
+2-  Elegir el perfil a administrar y hacer clic en "Editar";
 
-3-  Selecionar as ações (visualizar, gravar e/ou deletar) que o perfil poderá
+3-  Seleccionar las acciones (ver, guardar y/o borrar) que el perfil puede
     realizar;
 
-4-  Vale lembrar que:
+4-  Es importante recordar que:
 
-  +   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
-      acessos pré-existentes ficarão desmarcados), por default, quando for criadas
-      novas funcionalidades, exigindo, portanto, que o administrador
-      explicitamente habilite esta para os perfis que desejar, tornando-a
-      disponível para os perfis pretendidos.
+  -   los perfiles de acceso quedarán deshabilitados (los checkbox de todos los
+      perfiles de accesos preexistentes quedarán desactivados), por defecto,
+      cuando se creen nuevas funcionalidades, exigiendo, por lo tanto, que el
+      administrador explícitamente habilite esta para los perfiles que desee,
+      haciéndola disponible para los perfiles deseados.
 
-5-  Clicar em "Gravar".
+5-  Hacer clic en "Guardar".
 
 
 Relacionado
 -------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins

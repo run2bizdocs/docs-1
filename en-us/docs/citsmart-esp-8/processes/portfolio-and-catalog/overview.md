@@ -26,6 +26,8 @@ Use
 
 - [Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
+- [Manage my requests through Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+
 Configuration
 -----------------
 

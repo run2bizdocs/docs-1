@@ -1,75 +1,72 @@
-title: Configurar uma caixa de e-mail
-Description:Configurar o envio e o recebimento de e-mail a partir de diferentes servidores com vistas a atender contratos distintos, assim um mesmo CITSmart poderá atender diferentes clientes e cada um terá sua própria caixa de e-mail.
-#Configurar uma caixa de e-mail
+title:  Configurar buzón de correo electrónico 
+Description: Esta funcionalidad tiene por objetivo configurar el envío y la recepción de correo electrónico
+#Configurar buzón de correo electrónico
 
-Esta funcionalidade tem por objetivo configurar o envio e o recebimento de
-e-mail a partir de diferentes servidores com vistas a atender contratos
-distintos, assim um mesmo CITSmart poderá atender diferentes clientes e cada um
-terá sua própria caixa de e-mail. Neste caso, é possível utilizar uma conta de
-e-mail de envio/leitura (Ex: email\@empresa.com) em um contrato da empresa XPTO
-e outra conta de e-mail pertencente a um contrato de empresa distinta (Ex:
-email\@empresa2.com).
+Esta funcionalidad tiene por objetivo configurar el envío y la recepción de correo electrónico desde diferentes servidores, para atender contratos distintos, así que un mismo CITSmart podrá atender diferentes clientes y cada uno tendrá su propia caja de correo electrónico. En este caso, puede utilizar una cuenta de correo electrónico de envío/lectura (Ej.: email@empresa.com) en un contrato de la empresa XPTO y otra cuenta de correo electrónico perteneciente a un contrato de empresa distinta (Ej.: email@empresa2.com).
 
-Procedimento
-----------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Caixa de e-mail;
+1.  Acceder al menú principal Parametrización \> Buzón de Correo Electrónico;
 
-2.  Clicar no botão "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Escolher o tipo de caixa. Se optar pelo tipo "Entrada" (significa que o
-    usuário irá parametrizar uma rota por onde os e-mails que precisam ser lidos
-    chegarão), será aberto novos campos cadastrais, tais como: servidor, porta
-    do servidor, usuário (endereço do e-mail), senha , provider e pasta da caixa
-    de entrada, sendo portanto, necessário preencher os campos;
+3.  Elegir el tipo de buzón. Si optar el tipo "Entrada" (significa que el
+    usuario va a parametrizar una ruta por donde los correos electrónicos que
+    necesitan ser leídos llegarán), será abierto nuevos campos catastrales,
+    tales como: servidor, puerto del servidor, usuario (dirección del correo
+    electrónico), contraseña, provider y carpeta de la bandeja de entrada, por
+    lo que es necesario completar los campos;
 
-4.  Se optar pelo tipo "Saída" (significa que o usuário irá parametrizar uma
-    rota por onde os e-mails que precisam ser enviados a partir do sistema
-    sairão), será aberto novos campos cadastrais, tais como: servidor, porta de
-    servidor, usuário, senha, remetente, definir se será necessário a
-    autenticação TSL/SSL (ambos são protocolos de segurança) e a autenticação do
-    usuário sendo portanto, necessário preencher os campos;
+4.  Si optar por el tipo "Salida" (significa que el usuario va a parametrizar
+    una ruta por donde los correos electrónicos que necesitan ser enviados desde
+    el sistema saldrán), se abrirá nuevos campos catastrales, tales como:
+    servidor, puerto de servidor, usuario, contraseña, remitente, definir si
+    será necesario la autenticación de TSL/SSL (ambos son protocolos de
+    seguridad) y la autenticación del usuario, por lo tanto, es necesario
+    completar los campos;
 
-5.  Clicar no botão "Gravar" para efetuar a operação;
+5.  Hacer clic en "Guardar";
 
-6.  Vincular a caixa de e-mail ao contrato. Para tanto: Acessar a funcionalidade
-    Processos \> Gerência de Portfólio e Catálogo \> Contrato e vincular no
-    campo "Caixa de e-mail" a caixa de e-mail previamente cadastrada e clicar no
-    botão "Gravar " para efetuar a operação;
+6.  Vincular buzón de correo electrónico al contrato. Para eso: acceder a la
+    funcionalidad Procesos \> Gestión de Portafolio Y Catálogo \> Contrato,
+    después vincula en el campo "Bandeja de Salida de Correo Electrónico" el
+    buzónn de correo registrado previamente y hacer clic en "Guardar";
 
-7.  Vincular a caixa de e-mail a um fluxo. Para tanto:
+7.  Vincular el buzón de corro electrónico a un flujo. Para eso:
 
-    -   Acessar a funcionalidade Sistema \> Manutenção de fluxos e ao
-        cadastrar/editar um fluxo, localizar na aba "Diagrama" a conector "Envio de mensagem - email"  no
-        fluxo e clicar para editar;
+    -   Acceder a la funcionalidad Sistema \> Mantenimiento de Flujos, después,
+        al registrar/editar un flujo, localizar en la pestaña "Diagrama"
+        la figura llamada “Envio de Mesaje -E_mail” en el flujo, y hacer clic
+        para editar;
 
-    -   Na opção "Configuração da caixa de saída de e-mail, aberta ao clicar
-        sobre a aba "Mensagem", selecionar a opção "Específica" para utilizar a
-        caixa de e-mail configurada no contrato;
+    -   En la opción "Configuración de la bandeja de salida de correo
+        electrónico", abierta al hacer clic en la pestaña" Mensaje ",
+        seleccionar la opción "Específica" para utilizar el cuadro de correo
+        electrónico configurado en el contrato;
 
-    -   Concluir a parametrização do fluxo incluído os "Destinatários"
-        selecionados;
+    -   Concluir la parametrización del flujo incluido en los "Destinatarios"
+        seleccionados;
 
-    -   O uso de diferentes caixas de e-mail de saída poderá ser percebida após
-        aberta uma solicitação de serviço, que possui parametrizado o fluxo que
-        possui a caixa de e-mail selecionada.
+    -   El uso de diferentes cajas de correo electrónico de salida puede ser
+        percibido después de abrir una solicitud de servicio, que posee
+        parametrizado el flujo que posee la caja de correo seleccionada.
 
-    -   Clicar no botão "Gravar" para efetuar a operação.
+    -   Hacer clic en "Guardar".
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Vincular a caixa de e-mail não é um passo obrigatório. Esta funcionalidade
-    somente será necessária ao cadastrar o fluxo, o usuário sentir necessidade
-    de direcionar o e-mail para uma caixa de saída diferente da padrão. O e-mail
-    de saída padrão do sistema continuará funcionado, mesmo que esta
-    parametrização não seja feita.
-
+    Vincular el buzón de correo electrónico no es un paso obligatorio. Esta
+    funcionalidad sólo será necesaria para registrar el flujo, si el usuario
+    siente necesidad de dirigir el correo electrónico a un buzón de salida
+    distinta de la predeterminada. El correo electrónico de salida
+    predeterminado del sistema continuará funcionando, incluso si este parámetro
+    no se realiza.
     
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 
 

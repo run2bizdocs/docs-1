@@ -1,54 +1,56 @@
-title: Cadastrar um grupo
-Description: Permite o cadastro de grupos e o vínculo deles com usuários, um perfil, contratos e e-mails para notificação.
-#Cadastrar um grupo
+title: Registrar grupo
+Description: Permite el registro de grupos y el vínculo con usuarios, perfil, contratos y correos electrónicos para notificación.
+#Registrar grupo
 
-Um grupo é um conjunto de um ou mais colaboradores que tem os mesmos objetivos
-relacionados as suas funções.
 
-Os dois usos mais comuns para os grupos criados são:
+Un grupo es un conjunto de uno o más empleados que tienen los mismos objetivos
+relacionados con sus funciones.
 
-1.  Programação de notificação automática com base em alguma situação/evento
+Los dos usos más comunes para los grupos creados son:
+
+1.  Programación de notificación automática basada en alguna situación/evento
     específico;
 
-2.  Gestão da segurança/sigilo de acessos a vários tipos de cadastros (ex.:
-    pastas da base de conhecimento, portfólios de serviços, etc.).
+2.  Gestión de seguridad/confidencialidad de accesos a varios tipos de registros
+    (por ejemplo, carpetas de la base de conocimiento, portafolios de servicios,
+    etc).
 
-Esta funcionalidade permite o cadastro de grupos e o vínculo deles com usuários,
-um perfil, contratos e e-mails para notificação.
+Esta funcionalidad permite el registro de grupos y el vínculo con usuarios,
+perfil, contratos y correos electrónicos para notificación.
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um grupo.
+Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar un
+grupo.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e do
-colaborador.
+Para registrar un grupo, es necesario registrar previamente el perfil de acceso
+y empleado.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Acesso e
-    Permissão \> Grupo;
+1.  Acceder a la funcionalidad por el menú principal Acceso y Permisos \> Grupo;
 
-2-  Clicar em "Novo";
+2.  Hacer clic en "Nuevo";
 
-3-  Preencher os campos disponibilizados;
+3.  Completar los campos disponibles;
 
-4-  Definir as configurações que sejam necessárias;
+4.  Definir las configuraciones necesarias;
 
-5-  Clicar em "Gravar".
+5.  Hacer clic en "Guardar".
+
 
 
 Relacionado
 -----------
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
+    <b>Updated:</b>01/28/2019 – Anna Martins
