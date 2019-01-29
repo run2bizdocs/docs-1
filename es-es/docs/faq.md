@@ -707,11 +707,17 @@ Title: Preguntas frecuentes - FAQ
     
 	Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
 	[Download - ScriptRhino Tabla fato SQLserver][1]
+	
 	[Download - ScriptRhino Tabla fato PostgreSQL][2]
+	
 	[Download - ScriptRhino Tabla fato Oracle V71][3]
+	
 	[Download - ScriptRhino Tabla fato Oracle V70][4]
+	
 	[Download - ScriptRhino Tabla fato SQLserver V71][5]
+	
 	[Download - ScriptRhino Tabla fato PostgreSQL V70][6]
+	
 	[Download - ScriptRhino Tabla fato PostgreSQL V71][7]
 	
 	[1]:/es-es/images/faq.zip/carga-tabla-fato-SQLserver.docx
