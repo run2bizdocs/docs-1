@@ -66,7 +66,7 @@ Relacionado
 
 [Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
-[Registrar las funciones vitales de la continuidad de servicio](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 
 [Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
@@ -76,7 +76,7 @@ Relacionado
 
 [Registrar estrategia de pruebas de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
