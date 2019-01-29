@@ -493,18 +493,21 @@ Title: Preguntas frecuentes - FAQ
     7. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     8. Después de la configuración del parámetro, se realizará el envío de e-mails de notificaciones de IC para el destinatario (grupo, propietario o todos), según se especifica en el valor del parámetro.
     
-??? Question "O que é preciso para configurar um IC que está fisicamente na rede da empresa do cliente para ser inventariado pelo CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
-    [Original] Na cloud, o mongodb e evm/inv ficam na estrutura do cliente, devido não ser possível se conectar em um range interno com origem da cloud.
+??? Question "¿Qué es necesario para configurar un IC que está físicamente en la red de la empresa del cliente para ser inventariado por el CITSmart Enterprise ITSM que está en la cloud ofrecida por CITSmart Corporation?"
     
-    [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
+    [Original] En la nube, el mongodb y evm / inv quedan en la estructura del cliente, debido a que no es posible conectarse a un rango interno con origen de la nube.
     
-??? Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades com este recurso?"
-    O upload dos anexos especifica o tamanho limite de 15 Mbytes para cada arquivo carregado no sistema. Porém, na tela do Portal continua com o limite de 5 Mbytes para o tamanho do arquivo.
+    [Para validación] En este escenario específico, los componentes MongoDB, CITSmart EVM y CITSmart Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el CITSmart (Cloud) se conecte a un rango interno de un cliente.
+    
+??? Question "¿Cuál es el límite de tamaño de archivo para Upload en las funcionalidades con estas característica?"
+    
+    La carga de los archivos adjuntos especifica el tamaño límite de 15 Mbytes para cada archivo cargado en el sistema. Sin embargo, en la pantalla del Portal continúa con el límite de 5 Mbytes para el tamaño del archivo.
    
-??? Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
-    A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
+??? Question "¿Qué es la tabla Fato del módulo solicitud de servicio y cómo alimentarla?"
     
-    Tais como: 
+    La tabla de FATO solicitud de servicio tiene el propósito de recibir informaciones consolidadas, referentes a la solicitud de servicio.
+
+    Tales como: 
     
     IDSOLICITACAOSERVICO
 	
@@ -702,7 +705,15 @@ Title: Preguntas frecuentes - FAQ
 	
     DATAHORACARGA
     
-	Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino, nos anexos.
+	Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
+	[Download - ScriptRhino Tabla fato SQLserver][1]
+	[Download - ScriptRhino Tabla fato PostgreSQL][2]
+	[Download - ScriptRhino Tabla fato Oracle V71][3]
+	[Download - ScriptRhino Tabla fato Oracle V70][4]
+	[Download - ScriptRhino Tabla fato SQLserver V71][5]
+	[Download - ScriptRhino Tabla fato PostgreSQL V70][6]
+	[Download - ScriptRhino Tabla fato PostgreSQL V71][7]
+	
     
 ??? Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
