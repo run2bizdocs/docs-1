@@ -707,14 +707,11 @@ Title: Preguntas frecuentes - FAQ
     
     Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
 	
-<<<<<<< HEAD
+
     [Download - ScriptRhino Tabla fato][1]
     
-    [1]:/es-es/images/script-tabla-fato.zip
-=======
-	[Download - ScriptRhino Tabla fato][1]
-	
->>>>>>> f16164fd179c39e3dac1e44f01a71d2cc21006ce
+[1]:images/script-tabla-fato.zip
+   
 	
     
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
