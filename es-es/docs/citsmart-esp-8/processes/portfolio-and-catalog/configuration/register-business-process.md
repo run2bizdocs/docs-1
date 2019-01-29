@@ -20,10 +20,10 @@ grupo, unidad y flujo de trabajo definido.
 Procedimiento
 -----------------
 
-1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+1-  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
     Portafolio y Catálogo \> Procesos de Negocio;
 
-2.  Completar los campos disponibles;
+2-  Completar los campos disponibles;
 
 !!! Abstract "NOTA"
 
@@ -36,7 +36,7 @@ Procedimiento
     ser considerada una función vital. Es muy importante tener en cuenta esta
     función vital en la gestión de continuidad de servicios.
 
-1.  Hacer clic en "Guardar".
+3-  Hacer clic en "Guardar".
 
 Relacionado
 -------
