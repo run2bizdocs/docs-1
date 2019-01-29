@@ -83,7 +83,7 @@ Relacionado
 
 [Registrar estrategia de pruebas de la continuidad](/es-es/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 
-[Revisar y auditar la continuidad del servicio](/pt-br/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
+[Revisar y auditar la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/review-and-audit-continuity.html)
 
 [Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
