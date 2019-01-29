@@ -38,7 +38,7 @@ Procedimiento
 
     Antes de solicitar la prueba, se DEBE hacer clic en "Guardar" para guardar
     la configuración, de lo contrario, la prueba utilizará los datos anteriores
-    a los cambios hechos en la pantalla.
+    a los cambios hechos en la pantalla.  
 
   !!! Abstract "REGLA"
 
