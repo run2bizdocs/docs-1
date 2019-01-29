@@ -326,10 +326,10 @@ Title: Frequently Asked Questions - FAQ
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the Save button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files → Personnel Management → Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same.
     6. Once this is done, the registration screen of the selected group will be displayed;
-    7. Select the contracts to which the group will be linked. After that, click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
+    7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
     
 ??? Question "How to relate unit to contract?"
     To relate the unit to the contract, proceed as follows:
@@ -337,10 +337,10 @@ Title: Frequently Asked Questions - FAQ
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the Save button to perform the operation;
-    4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files → Personnel Management → Unit.The unit registration screen will be displayed, displaying the contracts;
+    4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files > Personnel Management > Unit.The unit registration screen will be displayed, displaying the contracts;
     5. If the unit you wish to link to the contract is already registered in the system, perform the unit search and select it. Once this is done, the registration screen of the particular unit will be displayed;
     6. Select the contracts to which the unit will be linked.
-    7. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    7. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
 ??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
@@ -370,7 +370,7 @@ Title: Frequently Asked Questions - FAQ
 
 	INDEXING EXISTING KNOWLEDGE ENTRIES
 	
-    1. To index knowledge entries navigate to the screen “System → Configurations → Knowledge Management (Index)”;
+    1. To index knowledge entries navigate to the screen “System > Configurations > Knowledge Management (Index)”;
     2. If there are indexed knowledge entries already click on “Remove Knowledge base index”;
     3. Shortly after, click on "Index Knowledge Base";
     4. If any errors occur click on “Refresh the Index Server”;
