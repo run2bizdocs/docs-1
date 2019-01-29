@@ -1,47 +1,46 @@
-title:  Suspender registro de liberação 
-Description: Permite suspender a execução da requisição de liberação. 
-#Suspender registro de liberação
+title: Suspender registro de liberación
+Description: Permite suspender la ejecución de la solicitud de liberación.
+#Suspender registro de liberación
+Esta funcionalidad permite suspender la ejecución de la solicitud de liberación.
 
-Esta funcionalidade permite suspender a execução da requisição de liberação.
-
-Antes de começar
+Antes de empezar
 ----------------
 
-Para suspender a execução da requisição de liberação é necessário o cadastro
-prévio da mesma, da justificativa de requisição de liberação e permissão para
-suspensão.
+Para suspender la ejecución de la solicitud de liberación, es necesario su
+registro previo, de la justificación de solicitud de liberación y permiso para
+suspensión.
 
-Procedimento 
+Procedimiento
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Liberação;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Localiza a requisição de liberação a suspender, clicar sobre a mesma e em
-    seguida no botão “Mais Opções”. Selecionar a opção "Suspender";
+2.  Localizar la solicitud de liberación a suspender, hacer clic en ella y
+    después en el botón “Más Opciones”. Seleccionar la opción "Suspender";
 
-3.  Preencher a justificativa de suspensão e o complemento desta justificativa;
+3.  Completar la justificación de suspensión y el complemento de esta
+    justificación;
 
-4.  Clicar no botão "Gravar" para efetuar a operação;
+4.  Hacer clic en "Guardar";
 
-O que fazer depois
-------------------
+Lo que hacer después
+--------------------
 
-Verificar se a situação da requisição de liberação desejada se encontra com a
-situação "Suspensa" na lista de requisição de liberação.
+Verificar si la situación de la solicitud de liberación deseada se encuentra con
+la situación "Suspendida" en la lista de solicitud de liberación.
 
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+[Registrar grupo](/es-es/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-[Cadastrar a justificativa de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
+[Registrar justificación de liberación](/es-es/citsmart-esp-8/processes/release/use/release-justification.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço
