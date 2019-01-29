@@ -13,8 +13,8 @@ Procedimiento
 
 !!! Abstract "Mantener el sistema siempre en inglés"
 
-   Acceda a la funcionalidad a través del menú principal Parámetro \>
-   Parámetros CITSmart:
+     Acceda a la funcionalidad a través del menú principal Parámetro \>
+    Parámetros CITSmart:
 
         - Busque el parámetro 275;
 
