@@ -46,7 +46,7 @@ Perguntas Frequentes - FAQ
     
     É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
     
-    Para realizar esse desenho, proceda conforme as orientações abaixo (ver conhecimento [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
+    Para realizar esse desenho, proceda conforme as orientações abaixo (ver [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
     1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço > Mapa de Serviço;
     2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
@@ -57,7 +57,7 @@ Perguntas Frequentes - FAQ
     
     Para definir o grupo padrão para atendimento de 1º nível, proceda conforme as orientações abaixo:
    
-    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão > Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
     2. Realize o cadastro do grupo de 1º nível, caso não esteja cadastrado, e proceda com o preenchimento dos campos;
     3. Caso o grupo de 1º nível já esteja cadastrado no sistema, realize a pesquisa do grupo e obtenha o seu número de identificação (ID);
     4. Após obter o ID do grupo de 1º nível, acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal. Parametrização → Parâmetros Citsmart;
@@ -104,11 +104,11 @@ Perguntas Frequentes - FAQ
     
     Para realizar a configuração das respostas automáticas, proceda conforme orientações abaixo:
 
-    1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática ( ver conhecimento Regras de parametrização - Provisionamento e logística):
+    1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática:
     Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
     Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: OTIMO, BOM, REGULAR E RUIM;
     Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
-    2. Acesse a funcionalidade de Processamento Batch (Sistema → Processamento Batch).
+    2. Acesse a funcionalidade de Processamento Batch (Sistema > Processamento Batch).
     3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
     Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
     Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
@@ -158,9 +158,9 @@ Perguntas Frequentes - FAQ
     procedimentos:
 
      1-  Acesse os Serviços do Contrato referente ao serviço de negócio Gerenciamento
-    de Portfólio → Portfólio de Serviços → Serviço de Negócio → Contrato →
-    Serviços e serviço técnico Gerenciamento de Portfólio → Portfólio de
-    Serviços → Serviço de Negócio → Serviço de Apoio/Técnico → Contrato →
+    de Portfólio > Portfólio de Serviços > Serviço de Negócio > Contrato >
+    Serviços e serviço técnico Gerenciamento de Portfólio > Portfólio de
+    Serviços > Serviço de Negócio > Serviço de Apoio/Técnico > Contrato >
     Serviços e informe o modelo de e-mail nos campos
 
        -   "Modelo de E-mail Abertura Incidente/Requisição"
@@ -173,7 +173,7 @@ Perguntas Frequentes - FAQ
     enviadas.
 
        2-  Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu
-    principal Cadastro Gerais → Gerência de Pessoal → Grupo.
+    principal Cadastro Gerais > Gerência de Pessoal > Grupo.
 
        3-  Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja
     registrado no sistema, realize a pesquisa do grupo;
@@ -205,7 +205,7 @@ Perguntas Frequentes - FAQ
     
     A obrigatoriedade do vínculo da mudança com o IC é definida na tela de Parâmetro do CITSmart. Para definir essa obrigatoriedade, proceda conforme orientações abaixo:
 
-    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização → Parâmetros CITSmart;
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização > Parâmetros CITSmart;
     2. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart;
     3. Será apresenta a tela para pesquisa de parâmetros. Realize a pesquisa do parâmetro "85 - Verificação de vínculo de mudança relacionada ao Item de configuração (Default: S)";
     4. Selecione o mesmo;
@@ -249,17 +249,17 @@ Perguntas Frequentes - FAQ
     
     Para habilitar essa regra, proceda conforme orientações abaixo:
 
-    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
     2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     3. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "193 - Habilita o escalonamento de mudanças definido nas regras de escalonamento? (Ex: S ou N - Padrão 'N')" e selecione o mesmo;
     4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar escalonamento de mudanças;
-    5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    5. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
 ??? Question "Como habilitar o Portal de Serviços (Smart Portal)?"
     
     Para que os usuários tenham acesso ao Portal ou ao Portal Smart, deve-se habilitar o mesmo da seguinte forma:
     
-    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do Citsmart?" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
     3. No campo valor, informe o valor "S" para habilitar o portal como tela inicial. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
@@ -271,20 +271,20 @@ Perguntas Frequentes - FAQ
     Para habilitar essa pesquisa de satisfação, proceda conforme orientações abaixo:
     
     1. Crie o modelo de e-mail (o modelo de e-mail deve conter a seguinte palavra-chave: ${LINKPESQUISASATISFACAO})
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
     3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     4. Realize a pesquisa do parâmetro "31 - Envia e-mail na execução dos fluxos de solicitações/incidentes";
     5. Selecione o mesmo;
     6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para que seja habilitado o envio de e-mail referente as solicitações de serviço;
     7. Clique no botão Gravar para efetuar a operação;
-    8. Acesse os serviços de requisição, incidente e procedimento do contrato referente ao serviço de negócio Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio → Avançar Portfólio → Catálogo de Serviços → Avançar Serviço e serviço técnico Gerência de Portfólio e Catálogo → Gerenciamento de Portfólio e Catálogo → Menu Apoio → Avançar Portfólio → Catálogo de Serviços → Avançar Serviço e verifique se o modelo de e-mail que foi criado está informado no campo "Modelo de E-mail na finalização de Solicitações/Incidentes";
+    8. Acesse os serviços de requisição, incidente e procedimento do contrato referente ao serviço de negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e serviço técnico Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e verifique se o modelo de e-mail que foi criado está informado no campo "Modelo de E-mail na finalização de Solicitações/Incidentes";
     9. Ao receber uma notificação por e-mail da solicitação de serviço que foi atendida, será exibido um link para realizar a avaliação do atendimento. Ao clicar no link será aberta uma tela para avaliação do atendimento.
     
 ??? Question "Como habilitar a regra de escalonamento do módulo de problemas?"
     
     Para habilitar essa regra, proceda conforme orientações abaixo:
     
-    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
     2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     3. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "194 - Habilita o escalonamento de problema definido nas regras de escalonamento? (Ex: S ou N - Default 'N')" e selecione o mesmo;
     4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar escalonamento de problemas;
@@ -351,7 +351,7 @@ Perguntas Frequentes - FAQ
 
     A PARTIR DO CADASTRO DE GRUPO
 	
-    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção Acesso e Permissão e clique na opção Grupo (ver conhecimento Cadastro de grupo);
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção Acesso e Permissão e clique na opção Grupo (ver conhecimento [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html) );
     2. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado grupo;
     3. Clique no ícone de adicionar do campo Colaboradores, será exibida a tela para pesquisa de colaboradores;
     4. Realize a pesquisa do colaborador que deseja vincular ao grupo e selecione o mesmo. Após isso, o colaborador será vinculado ao grupo;
@@ -359,7 +359,7 @@ Perguntas Frequentes - FAQ
     
     A PARTIR DO CADASTRO DE USUÁRIO
     
-    1. Acesse a funcionalidade de Cadastro de Usuário através da navegação no menu principal. Posicione o mouse na opção Cadastro Gerais, Gerência de Pessoal e clique na opção Usuário (ver conhecimento Cadastro de usuário);
+    1. Acesse a funcionalidade de Cadastro de Usuário através da navegação no menu principal. Posicione o mouse na opção Cadastro Gerais, Gerência de Pessoal e clique na opção Usuário (ver [Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html));
     2. Será apresentada a tela de Cadastro de Usuário. Caso o usuário já esteja registrado no sistema, realize a pesquisa do usuário e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado usuário;
     3. Clique no ícone de adicionar do campo Grupo. Será exibida a tela para pesquisa de grupos;
     4. Realize a pesquisa do grupo desejado e selecione o mesmo. Após isso, o usuário será vinculado ao grupo;
@@ -372,7 +372,7 @@ Perguntas Frequentes - FAQ
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "41 - Faz o controle de vínculo de colaboradores aos contratos (S/N)?" e selecione o mesmo;
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de grupo. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
-    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver conhecimento Cadastrar um grupo).
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)).
     5. Caso o grupo que deseja vincular ao contrato já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo;
     6. Feito isso, será exibida a tela de registro do determinado grupo;
     7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
@@ -381,7 +381,7 @@ Perguntas Frequentes - FAQ
     
     Para relacionar unidade ao contrato, proceda conforme as orientações abaixo:
     
-    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Após isso, será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parâmetros CITSmart > Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "61 - Vincula contratos a unidade" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado; 
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de unidade. Feito isso, clique no botão Gravar para efetuar a operação;
     4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Unidade através da navegação no menu principal Cadastros Gerais > Gerência de Pessoal > Unidade. Será apresentada a tela de cadastro de unidade, exibindo os contratos; 
@@ -393,7 +393,7 @@ Perguntas Frequentes - FAQ
     
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
-    1. Acessar o caminho: Sistema → Configurações → Configurações de ambiente; aparecerá três espaços para upload de imagem:
+    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerá três espaços para upload de imagem:
       - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
       - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
       - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
@@ -419,7 +419,7 @@ Perguntas Frequentes - FAQ
 
     INDEXAÇÃO DOS CONHECIMENTOS EXISTENTES
 	
-    1. Para indexar os conhecimentos vá em Sistema → Configurações → Gerência de Conhecimento (Indexação);
+    1. Para indexar os conhecimentos vá em Sistema > Configurações > Gerência de Conhecimento (Indexação);
     2. Caso tenha conhecimentos indexados clique em “Remover indexação base de conhecimento”;
     3. Logo após clique em “Indexar base de conhecimento”;
     4. Caso ocorra algum erro clique em “Atualizar o servidor de indexação”;
@@ -432,7 +432,7 @@ Perguntas Frequentes - FAQ
     
 	Para definir o destinatário, proceda conforme orientações abaixo:
     
-    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização → Parâmetros Citsmart;
+    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
     2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     3. Será apresenta a tela para pesquisa de parâmetros;
     4. Realize a pesquisa do parâmetro "90 - Envio de e-mails de Notificação de ICs (1-Grupo, 2-Proprietário, 3-Todos)";
@@ -688,11 +688,7 @@ Perguntas Frequentes - FAQ
     1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
     2. Quando o usuário faz o logon (o acesso ao sistema com seu login e senha), nesse momento o sistema automaticamente verifica a autenticação e permissão do usuário;
     3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
-    
-??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
-   
-   A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
-    
+        
 ??? Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
     
     A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.

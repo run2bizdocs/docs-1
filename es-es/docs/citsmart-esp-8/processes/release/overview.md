@@ -1,50 +1,50 @@
-title: Gerenciamento de Liberação
-Description: Provê o gerenciamento físico de software e hardware, permitindo o planejamento das liberações a serem realizadas na infraestrutura de TI.
-#Gerenciamento de Liberação
+title: Gestión de Liberación
+Description: Proporciona la gestión física de software y hardware, permitiendo la planificación de las liberaciones a realizar en la infraestructura de TI.
+#Gestión de Liberación
 
 
-Apresentação
+Presentación
 ------------
 
-Liberação (release) é definida como uma mudança significativa na infraestrutura
-de TI da organização, a qual pode ser a introdução de novos ICs, ou a
-atualização dos atuais.
+La liberación (release) se define como un cambio significativo en la infraestructura
+de TI de la organización, que puede ser la introducción de nuevos EC, o la
+actualización de los actuales.
 
-O processo de Gerenciamento de Liberação provê o gerenciamento físico de
-software e hardware, permitindo o planejamento das liberações a serem realizadas
-na infraestrutura de TI, apoiando-se nas informações sobre ICs e seus
-relacionamentos armazenadas na BDGC.
+El proceso de Gestión de Liberación provee la gestión física de
+software y hardware, permitiendo la planificación de las liberaciones a realizar
+en la infraestructura de TI, apoyándose en la información sobre ECs y sus
+relaciones almacenadas en la BDGC.
 
 
 Uso
 -------
 
-- [Pesquisa avançada de registros de liberação encerrados](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
+- [Búsqueda avanzada de registros de liberación cerradas](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
  
-- [Cancelar o registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
+- [Cancelar el registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
 
-- [Atividades da fase de Implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+- [Actividades de la fase de implantación de la liberación](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-- [Executar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
+- [Ejecutar una liberación](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Registrar solicitud de liberación](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar información a la solicitud de liberación](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
-- [A área de trabalho da gerenciamento de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
+- [El área de trabajo de la Gestión de Liberación](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
    
-- [Cadastrar a justificativa de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
+- [Registrar justificación de liberación](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
 
-- [Atividades da fase de Planejamento da liberação](/pt-br/citsmart-esp-8/processes/release/use/release-planning-activities.html)
+- [Actividades de la fase de planificación de la liberación](/pt-br/citsmart-esp-8/processes/release/use/release-planning-activities.html)
    
-- [Reabrir um registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
+- [Reabrir un registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
 
-- [Suspender registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/suspend-release.html)
+- [Suspender registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/suspend-release.html)
 
-Configuração
+Configuración
 -----------------
 
-- [Criar um portfólio de liberação](/en-us/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Crear portafolio de liberación um portfólio de liberação](/en-us/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 

@@ -1,74 +1,73 @@
-title:  Relacionar informações à requisição de liberação 
-Description: É possível vincular à Liberação uma série de informações.
-#Relacionar informações à requisição de liberação
-É possível vincular à Liberação uma série de informações, tais como: mudança, projeto, IC dentre outros, no intuito de solidificar e embasar a execução do processo.
+title:  Relacionar información a la solicitud de liberación 
+Description: Es posible vincular a la Liberación una serie de informaciones.
+#Relacionar información a la solicitud de liberación
+Es posible vincular a la Liberación una serie de informaciones, tales como: cambio, proyecto, EC, entre otros, con el fin de solidificar y basar la ejecución del proceso.
 
-Antes de começar
---------------------
-
-O vínculo de informações pode ocorrer em todo o ciclo de vida da Liberação,
-dessa forma pode - e deve - ser utilizado a qualquer momento, caso necessário,
-no entanto é necessário ter acesso a uma Liberação.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Liberação \> Liberação;
+El vínculo de información puede ocurrir en todo el ciclo de vida de la
+liberación, de esta forma puede - y debe - ser utilizado en cualquier momento,
+si es necesario, sin embargo, es necesario tener acceso a una liberación.
 
-2.  Para informar os dados complementares da requisição de liberação, marque a
-    opção de captura ou visualização da requisição;
+Procedimiento
+-------------
 
-3.  Para visualizar informações sobre campos específicos, clicar nas
-    guias: **Solicitante**, **Requisição** e **Fechamento**;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-4.  Para vincular **Mudanças**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar a mudança desejada. Se
-    desejar cadastrar uma nova mudança utilizando a liberação a ser criada como
-    parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
-    necessários;
+2.  Para informar los datos complementarios de la solicitud de liberación,
+    marque la opción de captura o visualización de la solicitud;
 
-5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
-    seguida apertar sobre o campo de pesquisa e selecionar a mídia desejada. Se
-    deseja cadastrar uma nova mídia, clicar no botão "Cadastrar " e preencher os
-    dados;
+3.  Para ver información sobre campos específicos, hacer clic en las
+    guías: **Solicitante**, **Solicitud** y **Cierre**;
 
-6.  Para vincular **Questionários**, clicar na área de mesmo nome e escolher o
-    tipo de questionário a ser vinculado, apertar então no botão "Gravar " para
-    efetuar a operação;
+4.  Para vincular **Cambios**, hacer clic en el área del mismo nombre y, a
+    continuación, hacer clic en el campo de búsqueda y seleccionar el cambio
+    deseado. Si desea registrar un nuevo cambio utilizando la liberación que se
+    creará como parámetro, basta hacer clic en "Registrar Cambio" y completar
+    los datos necesarios;
 
-7.  Para vincular **Problemas**, clicar na área de mesmo nome e e em seguida
-    apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
-    desejar cadastrar um problema, basta clicar no botão "Cadastrar" e preencher
-    os dados necessários;
+5.  Para vincular **Media Definitiva**, hacer clic en el área del mismo nombre
+    y, a continuación, hacer clic en el campo de búsqueda y seleccionar el medio
+    deseado. Si desea registrar un nuevo medio, haga clic en el botón
+    "Registrar" y completar los datos;
 
-8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e e em
-    seguida apertar sobre o campo de pesquisa e selecionar o conhecimento
-    desejado. Se desejar cadastrar um novo artigo, clicar no botão "Cadastrar" e
-    preencher os dados;
+6.  Para vincular **Cuestionarios**, hacer clic en el área del mismo nombre y
+    elegir el tipo de cuestionario que se va a vincular, luego presionar el
+    botón "Guardar";
 
-9.  Para vincular uma **Requisição de compras**, clicar na área de mesmo nome e
-    e em seguida apertar sobre o campo de pesquisa e selecionar a requisição
-    desejada. Lembrando que será exposta todas as requisições já cadastradas,
-    sendo necessário, portanto, selecionar a requisção de compra cadastrada
-    anteriormente.
+7.  Para vincular **Problemas**, hacer clic en el área del mismo nombre y, a
+    continuación, hacer clic en el campo de búsqueda y seleccionar el problema
+    deseado. Si desea registrar un problema, simplemente haga clic en el botón
+    "Registrar" ycomplete los datos necesarios;
 
-10. Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
+8.  Para vincular **Conocimiento**, hacer clic en el área del mismo nombre y
+    luego hacer clic en el campo de búsqueda y seleccionar el conocimiento
+    deseado. Si desea registrar un nuevo artículo, hacer clic en el botón
+    "Registrar" y completar los datos;
+
+9.  Para vincular **Solicitud de compras**, hacer clic en el área del mismo
+    nombre y, a continuación, hacer clic en el campo de búsqueda y seleccionar
+    la solicitud deseada. Recordando que se expondrán todas las solicitudes ya
+    registradas, siendo necesario, por lo tanto, seleccionar la solicitud de
+    compra registrada anteriormente.
+
+10. Hacer clic en el botón de opciones y, a continuación, "Guardar".
 
 Relacionado
 ---------------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço

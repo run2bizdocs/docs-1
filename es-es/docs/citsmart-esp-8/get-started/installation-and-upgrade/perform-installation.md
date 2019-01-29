@@ -189,9 +189,9 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o **citsmart_db, **sendo que são
+3. Existem **oito entradas** de datasource para o citsmart_db, sendo que são
 quatro para o Citsmart e três para o Citsmart Neuro. O usuário e senha
-é **citsmartdbuser e exemplo123 **criados no item *Servidor de Banco de Dados
+é citsmartdbuser e exemplo123 criados no item *Servidor de Banco de Dados
 PostgreSQL*.
 
 4. Para criar os datasources, execute os comandos CLI abaixo:
@@ -368,7 +368,7 @@ Não esquecer de alterar o dono do diretório /opt/citsmart
     ```sh
     mkdir /opt/citsmart/kb
     ```
-    Para Palavras Gêmeas:
+    Para Palavras sinônimas:
 	
 	```sh
     mkdir /opt/citsmart/twinwords

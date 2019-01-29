@@ -1,25 +1,26 @@
-title:  Cadastrar a justificativa de liberação 
-Description: Tem por objetivo registrar a justificativa de requisição de liberação
-#Cadastrar a justificativa de liberação
-Esta funcionalidade tem por objetivo registrar a justificativa de requisição de liberação que será utilizada em outras rotinas do sistema, como por exemplo na suspensão de uma Liberação.
+title: Registrar justificación de liberación
+Description: Tiene por objetivo registrar la justificación de solicitud de liberación que será utilizada en otras rutinas del sistema 
+#Registrar justificación de liberación
+Esta funcionalidad tiene por objetivo registrar la justificación de solicitud de liberación que será utilizada en otras rutinas del sistema, como por ejemplo en la suspensión de una Liberación.
 
-Procedimento
-----------------
+Procedimiento
+-------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Justificativa Requisição Liberação;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Justificación
+    Solicitud Liberación;
 
-2.  Clicar no botão "Novo";
+2.  Hacer clic en "Nuevo";
 
-3.  Preencher os campos necessários (a descrição, situação da justificativa e
-    informar se a mesma será para a suspensão da requisição de liberação);
+3.  Completar los campos necesarios (la descripción, situación de la
+    justificación e informar si la misma será para la suspensión de la solicitud
+    de liberación);
 
-4.  Clicar no botão "Gravar" para efetuar a operação.
+4.  Hacer clic en "Guardar".
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço
 

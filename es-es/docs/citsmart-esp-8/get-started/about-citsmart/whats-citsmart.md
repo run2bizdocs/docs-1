@@ -1,50 +1,50 @@
-Title: O que é CITSmart?
-Description: Introdução ao produto CITSmart
+Title: ¿Qué es CITSmart?
+Description: Introducción al producto CITSmart
 
-#O que é CITSmart ?
+#¿Qué es CITSmart?
 
-História do CITSmart
+Historia del CITSmart
 --------------------
 
-O CITSmart é um produto que teve sua construção inicial para atender as
-necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o
-cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant,
-através da certificação PinkVerify. Atualmente, o CITSmart atende 13 processos
-dos 16 possíveis. As principais funcionalidades são Gerenciamento de Ticket
-(incidentes e solicitações), Carteira de Serviços e Catálogo, Base de
-Conhecimento, SLA, Mudanças e CMDB. O público-alvo atual do CITSmart são
-empresas que possuem departamentos de TI, bem como a necessidade de soluções de
-ITSM para gerenciar suas TIs.
+CITSmart es un producto que tuvo su construcción inicial para atender las
+necesidades del ITSM (Gestión de Servicios de TI), principalmente para
+el cumplimiento de los requisitos del ITIL, predicado por la institución Pink Elephant,
+a través de la certificación PinkVerify. Actualmente, CITSmart atiende 13 procesos
+de los 16 posibles. Las principales funcionalidades son Gestión de Ticket
+(incidentes y solicitudes), Portafolio de Servicios y Catálogo, Base de
+Conocimiento, SLA, Cambios y CMDB. El público objetivo actual del CITSmart es
+empresas que poseen departamentos de TI, así como la necesidad de soluciones de
+ITSM para administrar sus TI.
 
-Evolução
+Evolución
 ------------
 
-A principal mudança introduzida no ano passado foi o foco nos processos de
-negócios para além da TI, ou seja, Corporate Service Management, prova disso é a
-adaptação da declaração de serviço que se tornou Conexão de processos.
-Entregando experiências. Esta decisão foi baseada na capacidade do nosso
-Workflow de se adaptar às várias necessidades do negócio, e no Neuro, permitindo
-a construção de novas entradas de dados e possibilidades de integração. Também
-criamos no ano de 2018 os produtos CX - Centro de Experiências. Este produto é
-uma iniciativa para criar um construtor de espaço de trabalho digital.
+El principal cambio introducido el año pasado fue el foco en los procesos de
+los negocios más allá de la TI, es decir, Corporate Service Management, prueba de ello es la
+adaptación de la declaración de servicio que se ha convertido en Conexión de procesos.
+Entregando experiencias. Esta decisión se basó en la capacidad de nuestro Flujo de
+Trabajo de adaptarse a las diversas necesidades del negocio, y en el Neuro, permitiendo
+la construcción de nuevas entradas de datos y posibilidades de integración. También
+creamos en el año 2018 los productos CX - Centro de Experiencias. Este producto es
+una iniciativa para crear un constructor de espacio de trabajo digital.
 
 Anuva
 -----
 
-A ANUVA também foi iniciada e representa a Inteligência Artificial do CITSmart,
-onde promove integração e aprendizado de máquina com conhecimento
+La ANUVA también fue iniciada y representa la Inteligencia Artificial del CITSmart,
+donde promueve integración y aprendizaje de máquina con conocimiento
 
 Neuro
 -----
 
-O NEURO é um produto 100% pronto e adequado no CITSmart, este produto é muito
-poderoso e permite construir novas funcionalidades, aplicações e integrações. É
-muito próximo dos produtos RPA (automação de processos de robótica), mas traz
-diferentes possibilidades, como a integração natural com a estrutura de Service
-Management (SLAs, conhecimento, portfólio, tickets, portal de serviços, entre
-outros). Além disso, entendemos que os conceitos de Service Management são muito
-poderosos e podem ir além da TI, permitindo ganhos interessantes para as
-unidades de negócio.
+NEURO es un producto 100% listo y adecuado en el CITSmart, este producto es muy
+potente y permite construir nuevas funcionalidades, aplicaciones e integraciones. Es muy
+cerca de los productos RPA (automatización de procesos de robótica), pero trae
+diferentes posibilidades, como la integración natural con la estructura de servicio
+(SLA, conocimiento, cartera, tickets, portal de servicios, entre
+otros). Además, entendemos que los conceptos de Service Management son muy
+poderosos y pueden ir más allá de la TI, permitiendo ganancias interesantes para las
+unidades de negocio.
 
 !!! tip "About"
 

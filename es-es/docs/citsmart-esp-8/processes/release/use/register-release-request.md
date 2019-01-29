@@ -1,52 +1,53 @@
-title:  Cadastrar uma requisição de liberação 
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
-#Cadastrar uma requisição de liberação
-Segundo a ITIL, liberação é "Uma ou mais mudanças a um serviço de TI que são construídas, testadas e implantadas ao mesmo tempo. Uma única liberação pode incluir mudanças ao hardware, software, documentação, processos e outros componentes.".
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
+title:  Registrar solicitud de liberación 
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una solicitud de liberación.
+#Registrar solicitud de liberación
+Según ITIL, la liberación es "uno o más cambios en un servicio de TI que se construyen, prueban e implementan de forma conjunta. Una sola liberación puede incluir cambios en el hardware, software, documentación, procesos y otros componentes".
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una solicitud de liberación.
 
-Antes de começar
---------------------
-
-A Requisição de Liberação é parte do processo de Mudança, sendo assim é
-necessário ter uma RDM (requisição de mudança) cadastrada. Além disso, é
-necessário cadastrar previamente o portfólio de liberação, bem como ter definido
-as permissões de acesso à Requisição de Liberação.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Liberação;
+La solicitud de liberación es parte del proceso de cambio, por lo que es
+necesario tener una SDC (solicitud de cambio) registrada. Para registrar una
+solicitud de liberación, es necesario registrar previamente el portafolio de
+liberación, colaborador, contrato, unidad que debe estar vinculada al contrato,
+el grupo ejecutor y este estar vinculado al contrato, el tipo de liberación y el
+grupo de actividad periódica.
 
-2.  Clicar no botão “Opções” e em seguida em "cadastro";
+Procedimiento
+-------------
 
-3.  Preencher todos os campos disponibilizados nas áreas: solicitante e
-    requisição.
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-4.  Também é necessário indicar as informações iniciais de planejamento e
-    implantação da liberação. Na aba "Outras informações" de cada fase, designar
-    a data e hora iniciais e finais de cada uma;
+2.  Hacer clic en el botón de “Opciones” y después en "Registro";
 
-5.  Clicar no botão “Opções” e em seguida "Gravar".
+3.  Completar todos los campos disponibles en los areas: solicitante y
+    solicitud.
+
+4.  También es necesario indicar la información inicial de planificación e
+    implementación de la liberación. En la pestaña "Otras informaciones" de cada
+    fase, designar la fecha y hora iniciales y finales de cada una;
+
+5.  Hacer clic en el botón de “Opciones” y después en "Guardar".
 
 Relacionado
 ---------------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de activiad periódica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço

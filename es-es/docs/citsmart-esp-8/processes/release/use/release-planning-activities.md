@@ -1,55 +1,57 @@
-title:  Atividades da fase de planejamento da liberação 
-Description: Permite planejar as atividades a serem executadas junto a requisição de liberação. 
-#Atividades da fase de planejamento da liberação
-Esta funcionalidade permite planejar as atividades a serem executadas junto a requisição de liberação.
+title: Actividades de la fase de planificación de la liberación
+Description: Permite planificar las actividades a realizarse junto a la solicitud de liberación
+#Actividades de la fase de planificación de la liberación
+Esta funcionalidad permite planificar las actividades a realizarse junto a la solicitud de liberación
 
-Antes de começar
---------------------
-
-As atividades de Planejamento ocorrem após o registro da Requisição da
-Liberação, sendo assim, verifique a existência de uma Liberação e, também, se
-tem permissão para criar/executar atividades.
-
-Procedimento
+Antes de empezar
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Liberação;
+Las actividades de Planificación ocurren después del registro de la Solicitud de
+la Liberación, siendo así, verifique la existencia de una Liberación y, también,
+si tiene permiso para crear/ejecutar actividades.
 
-2.  Localizar a requisição de liberação da qual deseja Planejar a atividade,
-    clicar no botão “Abrir” e em seguida na área "Planejamento da liberação";
+Procedimiento
+-------------
 
-3.  Podemos criar um quadro Kaban para gerenciar as atividades cadastradas.
-    Basta apertar no botão "+ Novo work" (disponibilizado na área chamada
-    "Atividades") e preencher os dados disponibilizados, tais como o título, sua
-    fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
-    notas, documentos e notificações do sistema à requisição de liberação. Para
-    tanto, é necessário clicar sobre o quadro disponibilizados, selecionar o
-    item desejado para vincula-lo à liberação;
+2.  Buscar la solicitud de liberación de la que desea Planear la actividad,
+    hacer clic en el botón “Abrir” y luego en el área "Planificación de la
+    liberación";
 
-5.  Além de permitir o vínculo das responsabilidades, projetos, e notificação de
-    sistemas, é possível criar os mesmos do zero para adequar-se a liberação em
-    tese, ao clicar no botão "Cadastrar" e preencher os campos necessários
+3.  Podemos crear un cuadro Kaban para gestionar las actividades registradas.
+    Sólo hacer clic en "+ Nuevo trabajo" (disponible en el área llamada
+    "Actividades") y completar los datos disponibles, tales como el título, su
+    fase (a hacer, en curso, etc), seleccionar el usuario o grupo responsables
+    de la ejecución de las tareas, entre otros;
 
-O que fazer a seguir
-------------------------
+4.  Es posible vincular los papeles y responsabilidades, proyectos, documentos,
+    notas, documentos y notificaciones del sistema a la solicitud de liberación.
+    Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar
+    el ítem deseado para vincularlo a la liberación;
 
-É necessário cadastrar as informações sobre a "Implementação da liberação".
+5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
+    notificación de sistemas, es posible crear los mismos de cero para adecuarse
+    a la liberación en tesis, al hacer clic en el botón "Registrar" y completar
+    los campos necesarios
+
+Lo que hacer después
+--------------------
+
+Es necesario registrar la información sobre la "Implementación de la
+liberación".
 
 Relacionado
 ---------------
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-[Atividades da fase de implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+[Actividades de la fase de implantación de la liberación](/es-es/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço
 

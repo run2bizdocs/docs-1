@@ -705,28 +705,14 @@ Title: Preguntas frecuentes - FAQ
 	
     DATAHORACARGA
     
-	Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
-	[Download - ScriptRhino Tabla fato SQLserver][1]
+    Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
 	
-	[Download - ScriptRhino Tabla fato PostgreSQL][2]
+
+    [Download - ScriptRhino Tabla fato][1]
+    
+[1]:images/script-tabla-fato.zip
+   
 	
-	[Download - ScriptRhino Tabla fato Oracle V71][3]
-	
-	[Download - ScriptRhino Tabla fato Oracle V70][4]
-	
-	[Download - ScriptRhino Tabla fato SQLserver V71][5]
-	
-	[Download - ScriptRhino Tabla fato PostgreSQL V70][6]
-	
-	[Download - ScriptRhino Tabla fato PostgreSQL V71][7]
-	
-	[1]:/es-es/images/faq.zip/carga-tabla-fato-SQLserver.docx
-	[2]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQL.docx
-	[3]:/es-es/images/faq.zip/carga-tabla-fato-OracleV71.docx
-	[4]:/es-es/images/faq.zip/carga-tabla-fato-OracleV70.docx
-	[5]:/es-es/images/faq.zip/carga-tabla-fato-SQLserverV71.docx
-	[6]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQLV70.docx
-	[7]:/es-es/images/faq.zip/carga-tabla-fato-PostgreSQLV71.docx
     
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
@@ -809,3 +795,7 @@ Title: Preguntas frecuentes - FAQ
     Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
 	
+
+
+
+[1]:images/script-tabla-fato.zip

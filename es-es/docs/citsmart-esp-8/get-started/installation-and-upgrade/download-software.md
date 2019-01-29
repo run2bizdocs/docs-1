@@ -105,7 +105,9 @@ Configuração dos Pacotes
 1- Com os downloads finalizados podemos dar início a instalação da solução CITSmart
 Enterprise.
 
- ### Servidor de Banco de Dados MongoDB
+
+### Servidor de Banco de Dados MongoDB
+ 
  
 1- Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
   efetuar a descompressão para o diretório /opt
@@ -139,7 +141,7 @@ crie a base citsmart definindo seu usuário e senha.
     To this knowledge we'll use the version 9.5 of the PostgreSQL.
     We can install PostgreSQL with the steps in this official manual: https://www.postgresql.org/download/linux/redhat/
 
-1. After install the PostgreSQL we can create the database, user and password;
+1. Depos de intalar o PostgreSQL é possível criar o banco de dados, usuário e senha;
 
     ``` sh
     systemctl start postgresql

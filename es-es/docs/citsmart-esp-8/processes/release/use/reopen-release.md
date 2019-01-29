@@ -1,39 +1,38 @@
-title:  Reabrir um registro de liberação 
-Description: Permite reabrir a requisição de liberação de mudanças.
-#Reabrir um registro de liberação
-Esta funcionalidade permite reabrir a requisição de liberação de mudanças.
+title: Reabrir un registro de liberación
+Description: Permite reabrir la solicitud de liberación de cambios.
+#Reabrir un registro de liberación
+Esta funcionalidad permite reabrir la solicitud de liberación de cambios.
 
-Antes de começar
+Antes de empezar
 --------------------
 
-É necessário ter permissão para reabrir a requisição de liberação.
+Es necesario tener permiso para volver a abrir la solicitud de liberación.
 
-Procedimento
-----------------
+Procedimiento
+-----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Liberação \> Liberação;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Clicar no ícone simbolizado por uma seta para baixo disponível ao lado
-    direito da tela, dentro do campo de pesquisa;
+2.  Hacer clic en el icono disponible al lado derecho de la pantalla, dentro del
+    campo de búsqueda;
 
-3.  Apertar o botão de "Pesquisa avançada";
+3.  Hacer clic en "Búsqueda Avanzada";
 
-4.  Preencher os filtros disponíveis e buscar a requisição de liberação que
-    deseja reabrir;
+4.  Completar los filtros disponibles y buscar la solicitud de liberación que
+    desea reabrir;
 
-5.  Após a pesquisa, clicar no ícone “Reabrir Ticket/Tarefa” e confirmar a
-    operação.
+5.  Después de la búsqueda, hacer clic en el icono “Reabrir Ticket/Tarea” y
+    confirmar la operación.
 
-O que fazer a seguir
+Lo que hacer después
 ------------------------
 
-Verificar se a requisição está com a situação "Reaberta" na lista de requisição
-de liberação.
+Verificar si la solicitud está con la situación "Reabierta" en la lista de
+solicitud de liberación.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>01/29/2019 - Larissa Lourenço
