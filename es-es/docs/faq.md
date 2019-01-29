@@ -398,7 +398,7 @@ Title: Preguntas frecuentes - FAQ
 
 ??? Question "¿Cómo vincular colaboradores (usuarios) a un grupo?"
     
-   Hay dos formas de vincular a los colaboradores (usuarios) a los grupos.
+    Hay dos formas de vincular a los colaboradores (usuarios) a los grupos.
 
     A PARTIR DEL REGISTRO DE GRUPO
 	
