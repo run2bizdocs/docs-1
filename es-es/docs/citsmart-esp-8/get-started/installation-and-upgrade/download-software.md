@@ -1,147 +1,145 @@
-Title: Download e software
+Title: Descarga y software
 
-# Download e software
+# Descarga y software
 
 
-Software e Download
+Software y Descarga
 -----------------------
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
+    La instalación de CITSmart Enterprise requiere el sistema operativo GNU/Linux con kernel igual o superior al 3.10.
 
-    Recomendamos Red Hat, CentOS, Debian ou Ubuntu.
+    Recomendamos Red Hat, CentOS, Debian o Ubuntu.
 
 
-Para execução do CITSmart Enterprise, baixaremos os pacotes necessários conforme
-o procedimento relativo ao produto.
+Para ejecución del CITSmart Enterprise, descargaremos los paquetes necesarios conforme
+el procedimiento relativo al producto.
 
-### Servidor de Aplicação Wildfly
+### Servidor de la Aplicación Wildfly
 
-!!! Abstract "ATENÇÃO"
-    No manual utilizaremos PostgreSQL.
+!!! Abstract "ATENCIÓN"
+    En el manual utilizaremos el PostgreSQL.
 
-    Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
-    igualmente descritas para PostgreSQL.
+    Usted puede descargar el paquete para Oracle o MSSQL y hacer los cambios
+    igualmente descritos para el PostgreSQL.
 
-1- O download do Java JDK8u172 diretamente do repositório oficial
-jdk-8u172-linux-x64.tar.gz  
-2- Download do pacote diretamente do repositório oficial através do link
-abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz>
+1- Descargar el Java JDK8u172 directamente del repositorio oficial jdk-8u172-linux-x64.tar.gz  
+2- Descargar los paquetes directamente del repositorio oficial a través del link siguiente:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz>
 
     
    ![Java Download](images/java-download.png)
     
-   Figura 1 - Tabela Java
+   Figura 1 - Tabla Java
     
-3- Download do módulo jbdc para o postgresql:
+3- Descargar el módulo jdbc para el postgresql:
 
 <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
-### Servidor de Banco de Dados MongoDB
+### Servidor de la Base de Datos MongoDB
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
        
-       No manual utilizaremos a distribuição GNU/Linux CentOS Linux release
+      En el manual utilizaremos la distribución GNU/Linux CentOS Linux release
       7.5.1804.
-      Baixe e MongoDB conforme sua distribuição.
-      A versão do MongoDB deve ser 3.4.
+      Descargue el MongoDB conforme su distribución.
+      La versión del MongoDB debe ser 3.4.
 
-1- Para localizar o download conforme sua
-distribuição: <https://www.mongodb.com/download-center#community>
+1- Para localizar la descarga conforme su
+distribución: <https://www.mongodb.com/download-center#community>
 
-2- Para o download do MongoDB para CentOS 7.5:
+2- Para la descargar el MongoDB para CentOS 7.5:
 https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-### Servidor de Banco de Dados PostgreSQL/Oracle/MSSQL
+### Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
 
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    No manual utilizaremos PostgreSQL com download do repositório oficial.
+    En el manual utilizaremos PostgreSQL con descarga del repositorio oficial.
 
-1- Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
-   informações e melhores práticas de cada fabricante:O CITSmart Enterprise é
-   compatível com o PostgreSQL 9.2 ou superior e o download será feito no
-   momento da configuração dos pacotes.
+1- Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme
+   las informaciones y mejores prácticas de cada fabricante: CITSmart Enterprise es
+   compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha
+   en el momento de configuración de los paquetes.
 
    *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
    *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
-Servidor de Indexação Apache Solr
+Servidor de Indexación Apache Solr
 -------------------------------------
 
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    A versão homologada do Apache Solr é a 6.4.2.
+    La versión homologada del Apache Solr es la 6.4.2.
 
 Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>
 
-Configurações para base de
-conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
+Configuraciones para la base de
+conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>
 
-Download dos arquivos assets para o CITSmart
+Descarga de los archivos assets para CITSmart
 ------------------------------------------------
 
 <http://files.citsmart.com/assets.tar.gz>
 
 
-Configuração dos Pacotes
+Configuración de los Paquetes
 ------------------------
 
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Utilizaremos o diretório /opt para instalação de todos os pacotes para o
+    Utilizaremos el directorio /opt para la instalación de todos los paquetes para
     CITSmart Enterprise.
 
-    O GNU/Linux com instalação mínima deve estar configurado nas 4 máquinas.
+    El GNU/Linux con instalación mínima debe estar configurado en las 4 máquinas.
 
-    Nesse exemplo utilizaremos CentOS Linux release 7.5.1804. Caso deseje utilizar
-    outra distribuição altere os comandos conforme o gerenciamento de pacotes.
+    En este ejemplo, utilizaremos CentOS Linux release 7.5.1804. Se deseas utilizar
+    otra distribución, cambiar los comandos conforme la gestión de paquetes.
 
-1- Com os downloads finalizados podemos dar início a instalação da solução CITSmart
+1- Después de finalizar las descargas, podremos iniciar la instalación de la solución CITSmart
 Enterprise.
 
 
-### Servidor de Banco de Dados MongoDB
+### Servidor de Base de Datos MongoDB
  
  
-1- Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
-  efetuar a descompressão para o diretório /opt
+1- Después de la descarga del MongoDB de la versión 3.4.15, para su correcta distribución, se debe
+  hacer la descompresión para el directori /opt
 
 | *\# tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/*                                                            |
 |--------------------------------------------------------------------------------------------------------------------------|
 | *\# mkdir -p /data/db \# cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/ \#./mongod \<message of unrestricted access \>* |
 
-2- Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá
-subir com permissões irrestritas de acesso.
+2- Debemos crear un directorio para la base e iniciar el MongoDB. Asegúrese que él va
+subir con permisiones sin restricciones de acceso.
 
-3- Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e
-crie a base citsmart definindo seu usuário e senha.
+3- Con el MongoDB iniciado, abra otro terminal, acceda el directorio bin del MongoDB y
+cree la base citsmart definiendo su usuario y contraseña.
 
 | *\# cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/ \# ./mongo \< message of unrestricted access \> use admin db.createUser({ user: "admin", pwd: "yourpassword", roles:[ { role: "root", db: "admin" }, { role: "dbOwner", db: "citsmart" } ] })* |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-4- O retorno *“Successfully added user”* deve ser observado.
+4- Se debe observar el retorno *“Successfully added user”*.
 
-5- Digite **exit** para sair do console do MongoDB.
+5- Digite **exit** para salir de la consola del MongoDB.
 
-6- Retorne ao terminal anterior e finalize o processo do mongodb com um CTRL+C.
+6- Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.
 
 
 ### PostgreSQL Database Server
 
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    To this knowledge we'll use the version 9.5 of the PostgreSQL.
-    We can install PostgreSQL with the steps in this official manual: https://www.postgresql.org/download/linux/redhat/
+    Para este documento vamos a usar la versión 9.5 del PostgreSQL.
+   Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
 
-1. Depos de intalar o PostgreSQL é possível criar o banco de dados, usuário e senha;
+1. Posteriormente la instalación del PostgreSQL precisamos crear la base de datos, usuario y contraseña;
 
     ``` sh
     systemctl start postgresql
@@ -181,54 +179,54 @@ crie a base citsmart definindo seu usuário e senha.
     exit
     ```
 
-2- Observar o retorno dos comandos analisando a correta execução.
+2- Observe el retorno de los comandos analizando la correcta ejecución.
 
-3- Agora iremos configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
-a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
-altere as linhas:
+3- Ahora iremos configurar el **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
+la conexión del Wildfly para la base de datos y usuario del CITSmart. Al final del archivo,
+cambiar las líneas:
 
 | *Padrão: host all all 127.0.0.1/32 md5 Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 |-----------------------------------------------------------------------------------------------------|
 
 
-4-Hora de abrir o listening no arquivo **/var/lib/pgsql/9.5/data/postgresql.conf**
+4-Hora de la apertura del listening en el archivo **/var/lib/pgsql/9.5/data/postgresql.conf**
 
 | *Padrão está comentado: \#listen_addresses = 'localhost' Alterado: listen_addresses = ‘0.0.0.0'* |
 |--------------------------------------------------------------------------------------------------|
 
 
-5-Após as configurações, de um restart no postgresql.
+5-Después de las configuraciones, haga restart en el postgresql.
 
 | *\# systemctl restart postgresql-9.5.service* |
 |-----------------------------------------------|
 
 
 
-### Servidor de Indexação Apache Solr
+### Servidor de Indexación Apache Solr
 
-1-Instalar os pacotes unzip e lsof.
+1-Instalar los paquetes unzip y lsof.
 
-2-Descomprimir o JAVA e Solr para /opt/
+2-Descomprimir el JAVA y Solr para /opt/
 
 | *\# yum install unzip lsof \# tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/ \# ln -s /opt/jdk1.8.0_172 /opt/jdk \# unzip solr-6.4.2.zip -d /opt/ \# ln -s /opt/solr-6.4.2 /opt/solr* |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *\# vim /etc/profile export JAVA_HOME="/opt/jdk" export PATH="\$JAVA_HOME/bin:\$PATH" :wq \# source /etc/profile*                                                                   |
 
-3-Criar um usuário para execução do Solr com shell falso e com permissão no
-diretório do Solr para ele e inicie.
+3-Cree un usuario para ejecución del Solr con shell falso y con permisión en el
+directorio del Solr para el e inicie.
 
 | *\# groupadd -r solr \# useradd -r -g solr -d /opt/solr -s /sbin/nologin solr \# chown -R solr:solr /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr start* |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-4-Descomprimir o arquivo para configurações da base de conhecimento e execute a
-criação da collection.
+4-Descomprima el archivo para configuraciones de la base de conocimiento y ejecute la
+creación de collection.
 
 | *\# unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2* |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-5-Observar que o retorno do comando deve ser algo como no exemplo abaixo.
+5-Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
 
 | *Copying configuration to new core instance directory: /opt/solr/server/solr/base_conhecimento Creating new core 'base_conhecimento' using command: http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento { "responseHeader":{ "status":0, "QTime":3223}, "core":"base_conhecimento"}* |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
