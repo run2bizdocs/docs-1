@@ -3,7 +3,7 @@ Description: Cria um portfólio de liberações a fim de agilizar a criação de
 #Criar um portfólio de liberação
 
 Esta funcionalidade tem por objetivo criar um portfólio de liberações a fim de agilizar a criação
-de uma nova liberação ao agrupar as mesma por critérios específicos.
+de uma nova liberação ao agrupar as mesmas por critérios específicos.
 
 Procedimento
 ----------------
