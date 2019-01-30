@@ -6,7 +6,7 @@ Title: Download e software
 Software e Download
 -----------------------
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
@@ -18,7 +18,7 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
     No manual utilizaremos PostgreSQL.
 
     Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
@@ -34,23 +34,21 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
     
    Figura 1 - Tabela Java
     
-3- Download do módulo jbdc para o postgresql:
-
-<http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
+3- Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
 ### Servidor de Banco de Dados MongoDB
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
        
        No manual utilizaremos a distribuição GNU/Linux CentOS Linux release
       7.5.1804.
       Baixe e MongoDB conforme sua distribuição.
       A versão do MongoDB deve ser 3.4.
 
-1- Para localizar o download conforme sua
+Para localizar o download conforme sua
 distribuição: <https://www.mongodb.com/download-center#community>
 
-2- Para o download do MongoDB para CentOS 7.5:
+Para o download do MongoDB para CentOS 7.5:
 https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 ### Servidor de Banco de Dados PostgreSQL/Oracle/MSSQL
@@ -60,7 +58,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
     No manual utilizaremos PostgreSQL com download do repositório oficial.
 
-1- Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
+   Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
    informações e melhores práticas de cada fabricante:O CITSmart Enterprise é
    compatível com o PostgreSQL 9.2 ou superior e o download será feito no
    momento da configuração dos pacotes.
@@ -73,14 +71,13 @@ Servidor de Indexação Apache Solr
 -------------------------------------
 
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     A versão homologada do Apache Solr é a 6.4.2.
 
-Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>
+    Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>    
 
-Configurações para base de
-conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
+    Configurações para base de conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
 
 Download dos arquivos assets para o CITSmart
 ------------------------------------------------
@@ -92,7 +89,7 @@ Configuração dos Pacotes
 ------------------------
 
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     Utilizaremos o diretório /opt para instalação de todos os pacotes para o
     CITSmart Enterprise.
@@ -102,28 +99,58 @@ Configuração dos Pacotes
     Nesse exemplo utilizaremos CentOS Linux release 7.5.1804. Caso deseje utilizar
     outra distribuição altere os comandos conforme o gerenciamento de pacotes.
 
-1- Com os downloads finalizados podemos dar início a instalação da solução CITSmart
-Enterprise.
+Com os downloads finalizados podemos dar início a instalação da solução CITSmart Enterprise.
 
- ### Servidor de Banco de Dados MongoDB
+
+### Servidor de Banco de Dados MongoDB
  
 1- Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
   efetuar a descompressão para o diretório /opt
 
-| *\# tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/*                                                            |
-|--------------------------------------------------------------------------------------------------------------------------|
-| *\# mkdir -p /data/db \# cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/ \#./mongod \<message of unrestricted access \>* |
+    ``` sh
+    tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/*
+    ```
+	
+    ``` sh	
+    mkdir -p /data/db
+    ```
 
-2- Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá
-subir com permissões irrestritas de acesso.
+    ``` sh	
+	cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
+    ```
 
-3- Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e
-crie a base citsmart definindo seu usuário e senha.
+    ``` sh	
+	./mongod 
+    ```
+	
+	<message of unrestricted access \>  
+	
+2- Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá subir com permissões irrestritas de acesso.
 
-| *\# cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/ \# ./mongo \< message of unrestricted access \> use admin db.createUser({ user: "admin", pwd: "yourpassword", roles:[ { role: "root", db: "admin" }, { role: "dbOwner", db: "citsmart" } ] })* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+3- Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e crie a base citsmart definindo seu usuário e senha.
 
+    ``` sh
+    cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
+    ```
 
+    ``` sh
+    ./mongo
+    ```
+
+    <message of unrestricted access>
+
+    ```sh
+    use admin
+    db.createUser({
+    user: "admin",
+    pwd: "yourpassword",
+    roles:[
+    { role: "root", db: "admin" },
+    { role: "dbOwner", db: "citsmart" }
+    ]
+    })
+    ```  
+	
 4- O retorno *“Successfully added user”* deve ser observado.
 
 5- Digite **exit** para sair do console do MongoDB.
@@ -185,20 +212,28 @@ crie a base citsmart definindo seu usuário e senha.
 a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
 altere as linhas:
 
-| *Padrão: host all all 127.0.0.1/32 md5 Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
-|-----------------------------------------------------------------------------------------------------|
-
+    Padrão: host all all 127.0.0.1/32 md5   
+    Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 
 4-Hora de abrir o listening no arquivo **/var/lib/pgsql/9.5/data/postgresql.conf**
 
-| *Padrão está comentado: \#listen_addresses = 'localhost' Alterado: listen_addresses = ‘0.0.0.0'* |
-|--------------------------------------------------------------------------------------------------|
+    Padrão está comentado: 
+
+    ``` sh
+    listen_addresses = 'localhost' 
+	``` 
+	Alterado: 
+
+    ``` sh
+    listen_addresses = ‘0.0.0.0'
+    ```	
 
 
 5-Após as configurações, de um restart no postgresql.
 
-| *\# systemctl restart postgresql-9.5.service* |
-|-----------------------------------------------|
+``` sh
+systemctl restart postgresql-9.5.service
+```
 
 
 
@@ -208,28 +243,101 @@ altere as linhas:
 
 2-Descomprimir o JAVA e Solr para /opt/
 
-| *\# yum install unzip lsof \# tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/ \# ln -s /opt/jdk1.8.0_172 /opt/jdk \# unzip solr-6.4.2.zip -d /opt/ \# ln -s /opt/solr-6.4.2 /opt/solr* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *\# vim /etc/profile export JAVA_HOME="/opt/jdk" export PATH="\$JAVA_HOME/bin:\$PATH" :wq \# source /etc/profile*                                                                   |
+    ``` sh
+    yum install unzip lsof
+    ```
+	
+	```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+	```
+	
+	```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+	```
+	
+	```sh
+    unzip solr-6.4.2.zip -d /opt/
+	```
+	
+	```sh
+    ln -s /opt/solr-6.4.2 /opt/solr
+    ```
+
+    ``` sh
+    vim /etc/profile
+    ```
+    export JAVA_HOME="/opt/jdk"
+    export PATH="$JAVA_HOME/bin:$PATH"
+
+    ``` sh
+    :wq
+    ```
+
+    ``` sh
+    source /etc/profile
+    ```
 
 3-Criar um usuário para execução do Solr com shell falso e com permissão no
 diretório do Solr para ele e inicie.
-
-| *\# groupadd -r solr \# useradd -r -g solr -d /opt/solr -s /sbin/nologin solr \# chown -R solr:solr /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr start* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+    
+    ``` sh
+    groupadd -r solr
+	```
+	
+	```sh
+    useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
+	```
+	
+	```sh
+    chown -R solr:solr /opt/solr-6.4.2/
+	```
+	
+	```sh
+    su - solr -s /bin/bash
+	```
+	
+	```sh
+    bin/solr start
+    ```    
 
 4-Descomprimir o arquivo para configurações da base de conhecimento e execute a
 criação da collection.
 
-| *\# unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2* |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ``` sh
+    unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
+    ```
+	
+    ```sh
+    su - solr -s /bin/bash
+    ```
 
+    ``` sh
+    bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
+    ```
+  
 
 5-Observar que o retorno do comando deve ser algo como no exemplo abaixo.
 
-| *Copying configuration to new core instance directory: /opt/solr/server/solr/base_conhecimento Creating new core 'base_conhecimento' using command: http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento { "responseHeader":{ "status":0, "QTime":3223}, "core":"base_conhecimento"}* |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Copying configuration to new core instance directory:
+
+```sh
+/opt/solr/server/solr/base_conhecimento
+```
+ 	 
+Creating new core 'base_conhecimento' using command:
+
+```sh
+http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento
+```
+```java
+{
+"responseHeader":{
+"status":0,
+"QTime":3223},
+"core":"base_conhecimento"}
+
+```
+
 
 !!! tip "About"
 
