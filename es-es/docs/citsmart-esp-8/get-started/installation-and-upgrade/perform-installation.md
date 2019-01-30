@@ -1,15 +1,15 @@
-Title: Realizar a instalação
+Title: Hacer la instalación
 
-# Realizar a instalação
+# Hacer la instalación
 
-Instalação do Servidor de Aplicação Wildfly
+Instalación del Servidor de Aplicación Wildfly
 -------------------------------------------
 
-1. Descompactar o pacote JAVA JDK no diretório /opt e criar um link
-simbólico conforme mostrado no exemplo abaixo. *(Caso já tenha feito a
-instalação do item Servidor de Indexação Apache Solr (sessão Configuração dos
-pacotes) no mesmo servidor que ficará o Wildfly, não será necessário a execução
-dos comandos de instalação do Java JDK abaixo)*.
+1.Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
+simbólico conforme mostrado en el ejemplo abajo. *(Caso ya tenga hecho la
+instalación del ítem Servidor de Indexación Apache Solr (sesión Configuración de los
+paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
+de los comandos de instalación del Java JDK abajo)*.
 
     ```sh
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
@@ -19,7 +19,7 @@ dos comandos de instalação do Java JDK abaixo)*.
     ln -s /opt/jdk1.8.0_172 /opt/jdk
     ```
     
-2. Executar os comandos abaixo para configuração dos pacotes para o CITSmart;
+2. Ejecutar los comandos siguientes para configuración de los paquetes para CITSmart;
     
     ```sh
     tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/ 
@@ -41,7 +41,7 @@ dos comandos de instalação do Java JDK abaixo)*.
     mkdir /opt/wildfly/reports
     ```
     
-3. Criar um usuário para administração do Wildfly;
+3. crear un usuario para administrar el Wildfly;
 
     ```sh
     groupadd -r citsmart
@@ -59,8 +59,8 @@ dos comandos de instalação do Java JDK abaixo)*.
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
     ```
 
-4. Configurar o **PATH** do para o JAVA_HOME e o JBOSS_HOME. Para
-isso fazer conforme exemplo abaixo.
+4. Configurar **PATH** para el JAVA_HOME y el JBOSS_HOME. Para
+eso,  haga conforme el ejemplo siguiente.
 
     ```sh
     vim /opt/wildfly/.bash_profile
@@ -75,8 +75,8 @@ isso fazer conforme exemplo abaixo.
     export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
     ```
     
-5. Fazer um teste para validar se o Wildfly está iniciando corretamente até esse
-ponto. Para isso executar os comandos abaixo.
+5. Haga una prueba para validar se el Wildfly está iniciando correctamente hasta ese
+punto. Para eso, ejecute los comandos siguientes.
 
     ```sh
     su - citsmart -s /bin/bash
@@ -94,8 +94,8 @@ ponto. Para isso executar os comandos abaixo.
     bin/standalone.sh
     ```
 
-6. Parar o Wildfly (Iniciado anteriormente) e configurar o standalone.conf no
-diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
+6. Parar el Wildfly (Iniciado anteriormente) y configurar el standalone.conf en el
+directorio \$JBOSS_HOME/bin, conforme presentado abajo.
 
 
     ```sh
@@ -136,9 +136,9 @@ diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
     ```
 
 
-###Configuração do System Properties
+###Configuración del System Properties
 
-No bash do CLI executar os comandos abaixo para criação das propriedades do
+En el bash del CLI ejecute los comandos siguientes para creación de las propiedades del
 CITSmart.
 
 ```java
@@ -159,12 +159,12 @@ CITSmart.
 /system-property=rhino.scripts.directory:add(value="")
 ```
 
-###Configuração dos Datasources
+###Configuración de los Datasources
 
-Antes de criar os datasources, deve-se adicionar ao Wildfly o modulo JDBC do
-PostgreSQL. Para isso, sair do modo jboss-cli e executar os comandos abaixo.
+Antes de crear los datasources, debemos adicionar al Wildfly el modulo JDBC del
+PostgreSQL. Para eso, salga del modo jboss-cli y ejecute los comandos abajo.
 
-1. Adicionar o modulo do banco de dados conforme exemplo abaixo:
+1. Añadir el modulo del banco de datos como en el ejemplo abajo:
 
     ```sh
     mkdir -p /opt/wildfly/modules/system/layers/base/org/postgres/main
@@ -178,8 +178,8 @@ PostgreSQL. Para isso, sair do modo jboss-cli e executar os comandos abaixo.
     chown citsmart:citsmart /opt/wildfly/modules/system/layers/base/org/postgres/ -R
     ```
 
-2. Conectar no jboss-cli novamente e execute o comando abaixo para adicionar o
-modulo ao standalone-full-ha.xml
+2. Conectar en el jboss-cli nuevamente y ejecute el comando siguiente para adicionar el
+módulo al standalone-full-ha.xml
 
    
     ```sh
@@ -189,12 +189,12 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o citsmart_db, sendo que são
-quatro para o Citsmart e três para o Citsmart Neuro. O usuário e senha
-é citsmartdbuser e exemplo123 criados no item *Servidor de Banco de Dados
+3. Hay **ocho entradas** de datasource para citsmart_db, siendo que
+cuatro para Citsmart y tres para Citsmart Neuro. El usuario y contraseña
+e citsmartdbuser y exemplo123 creados en el ítem *Servidor de Base de Datos
 PostgreSQL*.
 
-4. Para criar os datasources, execute os comandos CLI abaixo:
+4. Para crear los datasources, ejecute los comandos CLI abajo:
 
     Datasource citsmart:
 
@@ -299,7 +299,7 @@ PostgreSQL*.
     [standalone\@localhost:9990 /] /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool { "outcome" =\> "success", "result" =\> [true] }
     ```
 
-### Configurando os Subsytems
+### Configurando los Subsytems
 
 
 ```sh
@@ -322,17 +322,17 @@ PostgreSQL*.
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
 ```sh
 [standalone\@localhost:9990 /] :reload
 ```
 
-## Criação do arquivo citsmart.cfg
+## Crear archivo citsmart.cfg
 
-1. No arquivo citsmart.cfg, o valor padrão é TRUE, ou seja, se essa opção não existir no arquivo, o sistema utilizará o valor TRUE para essa propriedade. Definido como TRUE, ativa o Thread que atualiza a tabela de fatos de solicitações de serviço na inicialização do sistema. Definido como FALSE, a atualização ocorrerá somente após a inclusão ou alteração da solicitação de serviço;
+1. En el archivo citsmart.cfg, el valor predeterminado es TRUE, es decir, si esta opción no existe en el archivo, el sistema utilizará el valor TRUE para esa propiedad. Definido como TRUE, activa el Thread que actualiza la tabla fatos de solicitudes de servicio en el inicio del sistema. Definido como FALSE, la actualización sólo se producirá después de la inclusión o modificación de la solicitud de servicio;
 
-2. Deve-se criar um arquivo citsmart.cfg in /opt/wildfly/standalone/configuration/ com as informações abaixo:
+2. Debemos crear un archivo citsmart.cfg en /opt/wildfly/standalone/configuration/ con las informaciones siguientes:
 
 
     ```java
@@ -348,27 +348,27 @@ Antes de sair do jboss-cli execute o comando reload para aplicar as alterações
     ```
 
 !!! warning
-    Não esquecer de alterar o dono dos arquivos e diretórios para o usuário
+    No olvides de cambiar el dueño de los archivos y directorios para el usuario
     CITSmart.
 
 
-## Criação de diretórios para instalação
+## Creación de directorios para instalación
 
-Não esquecer de alterar o dono do diretório /opt/citsmart
+No olvides de cambiar el dueño del directorio /opt/citsmart
 
-1. Criar os diretórios abaixo para serem configurados nos 3 passos de instalação web.
+1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
     Para GED: 
 
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
-    Para Base de Conhecimento:
+    Para Base de Conocimiento:
 	
     ```sh
     mkdir /opt/citsmart/kb
     ```
-    Para Palavras sinônimas:
+    Para Palavras homónimas:
 	
 	```sh
     mkdir /opt/citsmart/twinwords
@@ -385,27 +385,27 @@ Não esquecer de alterar o dono do diretório /opt/citsmart
     ```
 
 
-## Geração de certificado auto assinado SSL
+## Generación del certificado auto-firmado SSL
 
-Para o Wildfly será gerado um certificado auto assinado.
-Caso você possua um certificado é importante utilizá-lo.
+Para el Wildfly se va a generar un certificado auto-firmado.
+Caso usted tenga un certificado, es importante utilizarlo.
 
-1. Conectar no servidor do Wildfly.
+1. Conectar en el servidor del Wildfly.
     
-    Criando alias novo com DNS (exemplo itsm.citsmart.com): 
+    Creando nuevo alias con DNS (ejemplo itsm.citsmart.com): 
     
     
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): \# /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 Exportando certificado para extensão .cer: \# /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer Adicionando certificado no cacerts do Java: \# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
-    **Lembre-se de aplicar as permissões para o dono do wildfly e java jdk**
+    **Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
     
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
-2. Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
+2. Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute los comandos siguientes:
     
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
@@ -416,69 +416,69 @@ Caso você possua um certificado é importante utilizá-lo.
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
     ```
 	
-3. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+3. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
     ```
 
-## Iniciando as soluções seguindo dependências
+## Iniciando las soluciones siguiendo dependencias
 
-1. Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+1. Antes de salir del jboss-cli ejecute el comando reload para aplicar los cambios.
 
-    **Servidor de Banco de Dados PostgreSQL**:
+    **Servidor de Base de Datos PostgreSQL**:
 
     ```sh
     systemctl postgresql start
     ```
 
-    **Servidor de Banco de Dados MongoDB**
+    **Servidor de Base de Datos MongoDB**
 
     ```sh
     /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod --auth --port 27017
     ```
 
-    **Servidor de Indexação Apache Solr**
+    **Servidor de Indexación Apache Solr**
 
     ```sh
     su solr /opt/solr/bin/solr start -s /bin/bash
     ```
 
-    **Servidor de Aplicação Wildfly**
+    **Servidor de Aplicación Wildfly**
 
     ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
     ```
     
 
-## Deploy do CITSmart Enterprise
+## Implementación del CITSmart Enterprise
 
 
-1. Enviar os arquivos de deploy fornecidos para o servidor e mover para o diretório “deployments”.
+1. Enviar los archivos de implementación fornecidos para el servidor y los mueva para el directorio “deployments”.
 
     ```sh
     cp CitsmartITSM-Enterprise.war /opt/wildfly/standalone/deployments/
     ```
 
-2. Fazer o deploy do Citsmart Neuro após finalizar os passos da próxima sessão (Acesso ao CITSmart Enterprise).
+2. Hacer la implementación del Citsmart Neuro después de finalizar los pasos de la próxima sesión (Acceso al CITSmart Enterprise).
 
 
-### Acesso ao CITSmart Enterprise
+### Acesso al CITSmart Enterprise
 
 
-1. Para acessar o CITSmart Enterprise, devemos acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
+1. Para acceder al CITSmart Enterprise, debemos acceder el IP o DNS y después el puerto y contexto.
 
     ```sh
     https://itsm.citsmart.com:8443/citsmart
     ```
 	
 !!! info
-    O contexto "citsmart" é o padrão do CITSmart Enterprise.
+    El contexto CITSmart es estándar del CITSmart Enterprise.
 
 
-## Deploy do CITSmart Neuro
+## Implementación del CITSmart Neuro
 
-1. Enviar os arquivos de deploy fornecidos para o servidor e mover para o diretório “deployments”.
+1. Enviar los archivos de implementación fornecidos para el servidor y los mueva para el directorio “deployments”.
 
     ```sh
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
