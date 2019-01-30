@@ -52,7 +52,7 @@ Relacionado
 
 [Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html
+[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 [Cadastrar categoria de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
 
