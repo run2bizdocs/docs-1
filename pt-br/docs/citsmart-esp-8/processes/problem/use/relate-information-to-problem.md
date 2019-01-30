@@ -38,6 +38,7 @@ Procedimento
     vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
 
     !!! Abstract "ATENÇÃO"  
+    
     Se não houver nenhum serviço relacionado, é possível vincular um novo
     serviço ao problema, basta clicar na área de “Serviços Relacionados” e em
     seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
