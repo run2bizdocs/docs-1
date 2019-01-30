@@ -292,9 +292,9 @@ directorio del Solr para el e inicie.
 
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
-	```
+    ```
 	
-	```sh
+    ```sh
     su - solr -s /bin/bash
     ```
 
