@@ -10,7 +10,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Problema \> Problema;
 
-2.  Localizar o problema do qual deseja incluir o registro de ocorrência, clicar
+2.  Localizar o problema do qual deseja incluir o registro de ocorrência e clicar
     no botão “Abrir”;
 
 3.  Clicar no ícone “Registro de Execução” (último ícone ao lado direito da
