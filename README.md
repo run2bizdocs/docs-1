@@ -1,8 +1,8 @@
 # CITSmart Docs Repository
 
-Aqui você poderá acessar o repositório de documentações dos produtos CITSmart, que estão disponíves em difentes idiomas. Além disso, você poderá acessar o [repositório de feedback][1] para propor ideias e enviar comentários.
+Here you can access the documentation repository of CITSmart's products, which are available in different languages. In addition, you can access the [feedback repository][1] to propose ideas and send feedback.
 
-As documentações podem ser acessadas no site oficial [CITsmart Docs][2]. Veja também o repositório de documentações destinado à [desenvolvedores][3].
+The documentation can be accessed on the official website [CITsmart Docs][2]. See also the documentation repository for [developers][3].
 
 
 ## License
