@@ -123,14 +123,30 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 
 3. Con el MongoDB iniciado, abra otro terminal, acceda el directorio bin del MongoDB y cree la base citsmart definiendo su usuario y contraseña.
 
-    cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/ \# ./mongo \< message of unrestricted access \> use admin db.createUser({ user: "admin", pwd: "yourpassword", roles:[ { role: "root", db: "admin" }, { role: "dbOwner", db: "citsmart" } ] })* |
+    ``` sh
+    cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
+    ```
 
+    ``` sh
+    ./mongo
+    ```
 
-4. Se debe observar el retorno *“Successfully added user”*.
+    <message of unrestricted access>
 
-5. Digite **exit** para salir de la consola del MongoDB.
-
-6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.
+    ```sh
+    use admin
+    db.createUser({
+    user: "admin",
+    pwd: "yourpassword",
+    roles:[
+    { role: "root", db: "admin" },
+    { role: "dbOwner", db: "citsmart" }
+    ]
+    })
+    ```
+4. Se debe observar el retorno *“Successfully added user”*.  
+5. Digite **exit** para salir de la consola del MongoDB.  
+6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.  
 
 
 ### PostgreSQL Database Server
@@ -138,9 +154,9 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 
 !!! warning "ATENCIÓN"
 
-    Para este documento vamos a usar la versión 9.5 del PostgreSQL.
-   Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
+    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
 
+	
 1. Posteriormente la instalación del PostgreSQL precisamos crear la base de datos, usuario y contraseña;
 
     ``` sh
@@ -159,19 +175,19 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
     create user citsmartdbuser with password 'exemple123';
     ```
 
-<message CREATE ROLE>
+    <message CREATE ROLE>
 
     ``` sh
     create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
     ```
 
-<mensagem CREATE DATABASE>
+    <mensagem CREATE DATABASE>
 
     ``` sh
     alter role citsmartdbuser superuser;
     ```
 
-<mensagem ALTER ROLE>
+    <mensagem ALTER ROLE>
 
     ``` sh
     \q
@@ -187,21 +203,27 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 la conexión del Wildfly para la base de datos y usuario del CITSmart. Al final del archivo,
 cambiar las líneas:
 
-| *Padrão: host all all 127.0.0.1/32 md5 Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
-|-----------------------------------------------------------------------------------------------------|
+    Padrão: host all all 127.0.0.1/32 md5   
+    Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 
+4. Hora de la apertura del listening en el archivo /var/lib/pgsql/9.5/data/postgresql.conf
 
-4. Hora de la apertura del listening en el archivo **/var/lib/pgsql/9.5/data/postgresql.conf**
+    Padrão está comentado: 
 
-| *Padrão está comentado: \#listen_addresses = 'localhost' Alterado: listen_addresses = ‘0.0.0.0'* |
-|--------------------------------------------------------------------------------------------------|
+    ``` sh
+    listen_addresses = 'localhost' 
+	``` 
+	Alterado: 
 
+    ``` sh
+    listen_addresses = ‘0.0.0.0'
+    ```	
 
 5. Después de las configuraciones, haga restart en el postgresql.
 
-| *\# systemctl restart postgresql-9.5.service* |
-|-----------------------------------------------|
-
+``` sh
+systemctl restart postgresql-9.5.service
+```
 
 
 ### Servidor de Indexación Apache Solr
@@ -210,30 +232,87 @@ cambiar las líneas:
 
 2. Descomprimir el JAVA y Solr para /opt/
 
-| *\# yum install unzip lsof \# tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/ \# ln -s /opt/jdk1.8.0_172 /opt/jdk \# unzip solr-6.4.2.zip -d /opt/ \# ln -s /opt/solr-6.4.2 /opt/solr* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *\# vim /etc/profile export JAVA_HOME="/opt/jdk" export PATH="\$JAVA_HOME/bin:\$PATH" :wq \# source /etc/profile*                                                                   |
+    ``` sh
+    yum install unzip lsof
+    ```
+	
+	```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+	```
+	
+	```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+	```
+	
+	```sh
+    unzip solr-6.4.2.zip -d /opt/
+	```
+	
+	```sh
+    ln -s /opt/solr-6.4.2 /opt/solr
+    ```
+
+    ``` sh
+    vim /etc/profile
+    ```
+    export JAVA_HOME="/opt/jdk"
+    export PATH="$JAVA_HOME/bin:$PATH"
+
+    ``` sh
+    :wq
+    ```
+
+    ``` sh
+    source /etc/profile
+    ```
 
 3. Cree un usuario para ejecución del Solr con shell falso y con permisión en el
 directorio del Solr para el e inicie.
-
-| *\# groupadd -r solr \# useradd -r -g solr -d /opt/solr -s /sbin/nologin solr \# chown -R solr:solr /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr start* |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
+    
+    ``` sh
+    groupadd -r solr
+	```
+	
+	```sh
+    useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
+	```
+	
+	```sh
+    chown -R solr:solr /opt/solr-6.4.2/
+	```
+	
+	```sh
+    su - solr -s /bin/bash
+	```
+	
+	```sh
+    bin/solr start
+    ```
 4. Descomprima el archivo para configuraciones de la base de conocimiento y ejecute la
 creación de collection.
 
-| *\# unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/ \# su - solr -s /bin/bash \$ bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2* |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    ``` sh
+    unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
+	```
+	
+	```sh
+    su - solr -s /bin/bash
+    ```
 
+    ``` sh
+    bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
+    ```
 
 5. Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
 
-| *Copying configuration to new core instance directory: /opt/solr/server/solr/base_conhecimento Creating new core 'base_conhecimento' using command: http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento { "responseHeader":{ "status":0, "QTime":3223}, "core":"base_conhecimento"}* |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    Copying configuration to new core instance directory:
 
+```sh
+/opt/solr/server/solr/base_conhecimento
+```
+ 	
+	
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Anna Martins
+    <b>Updated:</b>01/30/2019 – Joao Pelles
