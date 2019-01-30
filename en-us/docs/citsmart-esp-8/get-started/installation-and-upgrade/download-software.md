@@ -93,7 +93,7 @@ After all the necessary download, we can start the installation of the solution 
     ./mongod
     ```
 
-    <message of unrestricted access >
+    <message of unrestricted access>
 
 2. We should create a directory to the base and start the MongoDB. Note that it will upload with access unrestricted permission;
 3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, settingg its user ande password;
@@ -110,6 +110,8 @@ After all the necessary download, we can start the installation of the solution 
 
 
 < message of unrestricted access >
+
+```sh
 use admin
 db.createUser({
 user: "admin",
@@ -119,6 +121,7 @@ roles:[
 { role: "dbOwner", db: "citsmart" }
 ]
 })
+```
 
 6. Return to the previous terminal and finish the mongodb process with CTRL+C.
 
