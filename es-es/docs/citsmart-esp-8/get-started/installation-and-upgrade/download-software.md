@@ -311,7 +311,22 @@ Copying configuration to new core instance directory:
 ```sh
 /opt/solr/server/solr/base_conhecimento
 ```
- 	
+ 	 
+Creating new core 'base_conhecimento' using command:
+
+```sh
+http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&instanceDir=base_conhecimento
+```
+```java
+{
+"responseHeader":{
+"status":0,
+"QTime":3223},
+"core":"base_conhecimento"}
+
+```
+
+
 	
 !!! tip "About"
 
