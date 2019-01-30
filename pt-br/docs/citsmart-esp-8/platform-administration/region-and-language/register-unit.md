@@ -20,6 +20,13 @@ Procedimento
 
 3.  Clicar em "Gravar".
 
+
+!!! info "NOVIDADE"
+
+    Nesta versão é possível editar as informações nos campos Latitude e
+    Longitude.
+
+
 Relacionado
 -----------
 
