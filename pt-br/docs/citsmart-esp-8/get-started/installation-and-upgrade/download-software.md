@@ -24,9 +24,9 @@ o procedimento relativo ao produto.
     Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
     igualmente descritas para PostgreSQL.
 
-1- O download do Java JDK8u172 diretamente do repositório oficial
+1. O download do Java JDK8u172 diretamente do repositório oficial
 jdk-8u172-linux-x64.tar.gz  
-2- Download do pacote diretamente do repositório oficial através do link
+2. Download do pacote diretamente do repositório oficial através do link
 abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz>
 
     
@@ -34,7 +34,7 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
     
    Figura 1 - Tabela Java
     
-3- Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
+3. Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
 ### Servidor de Banco de Dados MongoDB
 
@@ -104,7 +104,7 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
 
 ### Servidor de Banco de Dados MongoDB
  
-1- Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
+1. Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
   efetuar a descompressão para o diretório /opt
 
     ``` sh
@@ -125,9 +125,9 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
 	
 	<message of unrestricted access \>  
 	
-2- Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá subir com permissões irrestritas de acesso.
+2. Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá subir com permissões irrestritas de acesso.
 
-3- Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e crie a base citsmart definindo seu usuário e senha.
+3. Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e crie a base citsmart definindo seu usuário e senha.
 
     ``` sh
     cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
@@ -151,11 +151,11 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
     })
     ```  
 	
-4- O retorno *“Successfully added user”* deve ser observado.
+4. O retorno *“Successfully added user”* deve ser observado.
 
-5- Digite **exit** para sair do console do MongoDB.
+5. Digite **exit** para sair do console do MongoDB.
 
-6- Retorne ao terminal anterior e finalize o processo do mongodb com um CTRL+C.
+6. Retorne ao terminal anterior e finalize o processo do mongodb com um CTRL+C.
 
 
 ### PostgreSQL Database Server
@@ -206,16 +206,16 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
     exit
     ```
 
-2- Observar o retorno dos comandos analisando a correta execução.
+2. Observar o retorno dos comandos analisando a correta execução.
 
-3- Agora iremos configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
+3. Agora iremos configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
 a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
 altere as linhas:
 
     Padrão: host all all 127.0.0.1/32 md5   
     Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 
-4-Hora de abrir o listening no arquivo **/var/lib/pgsql/9.5/data/postgresql.conf**
+4. Hora de abrir o listening no arquivo **/var/lib/pgsql/9.5/data/postgresql.conf**
 
     Padrão está comentado: 
 
@@ -229,7 +229,7 @@ altere as linhas:
     ```	
 
 
-5-Após as configurações, de um restart no postgresql.
+5. Após as configurações, de um restart no postgresql.
 
 ``` sh
 systemctl restart postgresql-9.5.service
@@ -239,9 +239,9 @@ systemctl restart postgresql-9.5.service
 
 ### Servidor de Indexação Apache Solr
 
-1-Instalar os pacotes unzip e lsof.
+1. Instalar os pacotes unzip e lsof.
 
-2-Descomprimir o JAVA e Solr para /opt/
+2. Descomprimir o JAVA e Solr para /opt/
 
     ``` sh
     yum install unzip lsof
@@ -277,7 +277,7 @@ systemctl restart postgresql-9.5.service
     source /etc/profile
     ```
 
-3-Criar um usuário para execução do Solr com shell falso e com permissão no
+3. Criar um usuário para execução do Solr com shell falso e com permissão no
 diretório do Solr para ele e inicie.
     
     ``` sh
@@ -300,7 +300,7 @@ diretório do Solr para ele e inicie.
     bin/solr start
     ```    
 
-4-Descomprimir o arquivo para configurações da base de conhecimento e execute a
+4. Descomprimir o arquivo para configurações da base de conhecimento e execute a
 criação da collection.
 
     ``` sh
@@ -316,7 +316,7 @@ criação da collection.
     ```
   
 
-5-Observar que o retorno do comando deve ser algo como no exemplo abaixo.
+5. Observar que o retorno do comando deve ser algo como no exemplo abaixo.
 
 Copying configuration to new core instance directory:
 
