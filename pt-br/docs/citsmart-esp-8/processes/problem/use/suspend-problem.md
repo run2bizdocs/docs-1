@@ -22,6 +22,13 @@ Procedimento
 
 4.  Clicar em “Gravar” para efetuar a operação.
 
+Relacionado 
+------------
+
+[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+
+[Cadastrar justificativa de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;

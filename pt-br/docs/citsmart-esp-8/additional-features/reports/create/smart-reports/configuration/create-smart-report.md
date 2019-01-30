@@ -1,6 +1,6 @@
-title: Gerar relatórios Smart
+title: Emitir relatório utilizando Smart Report
 Description: Permite emitir os relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
-#Gerar relatórios Smart
+#Emitir relatório utilizando Smart Report
 
 Procedimento
 ----------------

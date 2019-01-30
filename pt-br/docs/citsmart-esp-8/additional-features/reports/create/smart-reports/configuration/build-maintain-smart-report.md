@@ -74,7 +74,7 @@ Procedimento
 Relacionado
 -------
 
-[Gerar relatórios Smart](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emitir relatório utilizando Smart Report](/pt-br/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 !!! tip "About"
