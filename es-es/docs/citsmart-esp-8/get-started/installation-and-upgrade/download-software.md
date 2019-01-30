@@ -287,7 +287,8 @@ directorio del Solr para el e inicie.
 	
 	```sh
     bin/solr start
-    ```
+    ```    
+	
 4. Descomprima el archivo para configuraciones de la base de conocimiento y ejecute la creación de collection.
 
     ``` sh
@@ -303,9 +304,7 @@ directorio del Solr para el e inicie.
     ```
     
 5. Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
-	
-	
-Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
+
 
 Copying configuration to new core instance directory:
 
