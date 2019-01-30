@@ -1,14 +1,15 @@
 # CITSmart Docs Repository
 
-Aqui você poderá acessar os repositórios de documentações dos produtos CITSmart, que estão disponíves em inglês, espanhol e português. Além disso, você poderá acessar o repositório de feedback para propor ideias e enviar comentários.
+Aqui você poderá acessar o repositório de documentações dos produtos CITSmart, que estão disponíves em difentes idiomas. Além disso, você poderá acessar o [repositório de feedback][1] para propor ideias e enviar comentários.
 
-As documentações podem ser acessadas no site oficial [CITsmart Docs][1]. Também é possível acessar a [área destinada à desenvolvedores][2].
+As documentações podem ser acessadas no site oficial [CITsmart Docs][2]. Veja também o repositório de documentações destinado à [desenvolvedores][3].
 
 
 ## License
 
-[Read License][3]
+[Read License][4]
 
-[1]:https://docs.citsmart.com
-[2]:https://developers.citsmart.com
-[3]:license.md
+[1]:https://github.com/citsmartdocs/feedback
+[2]:https://docs.citsmart.com
+[3]:https://github.com/citsmartdocs/developers
+[4]:license.md
