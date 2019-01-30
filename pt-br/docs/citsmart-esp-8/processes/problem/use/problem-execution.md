@@ -75,6 +75,11 @@ Procedimento
     tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
     selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
     dirigir para próxima fase do fluxo.
+    
+Relacionado
+------------
+ 
+[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
