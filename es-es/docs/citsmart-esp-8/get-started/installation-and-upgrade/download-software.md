@@ -304,7 +304,7 @@ directorio del Solr para el e inicie.
 
 5. Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
 
-    Copying configuration to new core instance directory:
+Copying configuration to new core instance directory:
 
 ```sh
 /opt/solr/server/solr/base_conhecimento
