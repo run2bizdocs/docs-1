@@ -109,19 +109,19 @@ After all the necessary download, we can start the installation of the solution 
     ```
 
 
-< message of unrestricted access >
+    < message of unrestricted access >
 
-```sh
-use admin
-db.createUser({
-user: "admin",
-pwd: "yourpassword",
-roles:[
-{ role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
-]
-})
-```
+    ```sh
+    use admin
+    db.createUser({
+    user: "admin",
+    pwd: "yourpassword",
+    roles:[
+    { role: "root", db: "admin" },
+    { role: "dbOwner", db: "citsmart" }
+    ]
+    })
+    ```
 
 6. Return to the previous terminal and finish the mongodb process with CTRL+C.
 
