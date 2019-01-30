@@ -1,22 +1,22 @@
-Title: Configurar logotipo do banner
+Title: Configurar logo del banner
 
-#Configurar logotipo do banner
+#Configurar logo del banner
 
 
-É possível alterar o banner no seu ambiente para que o CITSmart tenha a identidade da sua empresa.
+Es posible cambiar el banner de su ambiente para que CITSmart tenga la identidad de su empresa.
 
-Procedimento
+Procedimiento
 -------
 
-1. Acessar o menu principal Sistema > Configurações > Configurações de Ambiente;
-2. Para alterar uma das imagens (logotipo inicial, logotipo do portal, logotipo do sistema e logotipo do relatório), clicar em "Selecione uma imagem";
-3. Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
-4. Clicar em "Gravar";
+1. Acceder al menú principal Sistema > Configuración > Configuración de Ambiente;
+2. Para cambiar una de las imágenes (logotipo inicial, logotipo del portal, logotipo del sistema y logotipo del informe), haga clic en "Seleccione una imagen";
+3. Hacer clic en el cuadro de puntos para arrastrar un archivo o cargarlo;
+4. Hacer clic en "Guardar";
 
-!!! info "Mudar o ícone de carregamento"
-    Para alterar o ícone de carregamento, altere o valor do parâmetro 387 para "SIM".
+!!! info "Cambiar el icono de carga"
+    Para cambiar el icono de carga, cambie el valor del parámetro 387 a "SÍ".
 	
-	Caminho: Parametrização > Parâmetros CITSmart > 387.  
+	Camino: Parametrización > Parámetros CITSmart > 387.  
 	
 	
 !!! tip "Sobre"
