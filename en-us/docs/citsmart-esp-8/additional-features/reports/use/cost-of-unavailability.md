@@ -102,7 +102,7 @@ Related
 
 [Customize management panel (Smart Decision)](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-[Create smart report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emit report using Smart Report](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 [Build and maintain smart reports](/en-us/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
