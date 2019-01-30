@@ -601,6 +601,11 @@ Title: Frequently Asked Questions - FAQ
     DATAHORACARGA
     
 	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
+	
+	[Download - ScriptRhino Fato table][1]
+    
+[1]:images/script-tabla-fato.zip
+
     
 ??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
     When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.

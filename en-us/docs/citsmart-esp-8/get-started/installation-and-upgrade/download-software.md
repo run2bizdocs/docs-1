@@ -23,7 +23,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
     
     Figure 1 - Java download list
     
-3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
+3. Download the jdbc module for the postgresql: http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
 ### MongoDB Database Server
 
@@ -93,12 +93,10 @@ After all the necessary download, we can start the installation of the solution 
     ./mongod
     ```
 
-<message of unrestricted access >
+    <message of unrestricted access>
 
 2. We should create a directory to the base and start the MongoDB. Note that it will upload with access unrestricted permission;
-3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, settingg its user ande password;
-4. It will appear the message "Sucessfully added user";
-5. Type exit to leave the MongoDB console;
+3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, setting its user and password;
 
     ``` sh
     cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
@@ -108,18 +106,22 @@ After all the necessary download, we can start the installation of the solution 
     ./mongo
     ```
 
+    <message of unrestricted access>
 
-< message of unrestricted access >
-use admin
-db.createUser({
-user: "admin",
-pwd: "yourpassword",
-roles:[
-{ role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
-]
-})
+    ```sh
+    use admin
+    db.createUser({
+    user: "admin",
+    pwd: "yourpassword",
+    roles:[
+    { role: "root", db: "admin" },
+    { role: "dbOwner", db: "citsmart" }
+    ]
+    })
+    ```
 
+4. It will appear the message "Successfully added user";
+5. Type exit to leave the MongoDB console;
 6. Return to the previous terminal and finish the mongodb process with CTRL+C.
 
 ### PostgreSQL Database Server
@@ -171,7 +173,7 @@ roles:[
 2. Note the command return analyzing the correct execution;
 3. Now we'll configure the /var/lib/pgsql/9.5/data/pg_hba.conf to allow the Wildfly connection to the database and user of citsmart. At the end of the file change the lines:
 
-    Default: host all all 127.0.0.1/32 md5
+    Default: host all all 127.0.0.1/32 md5  
     Changed: host citsmart_db citsmartdbuser IP_Wildfly/32 md5
 
 4. Time to open the listening in the file /var/lib/pgsql/9.5/data/postgresql.conf;
@@ -195,7 +197,7 @@ systemctl restart postgresql-9.5.service
 
 ### Apache Solr Indexing Server
 
-1. Install the pacjages unzip and Isof;
+1. Install the packages unzip and Isof;
 2. Decompress the JAVA and Solr to the /opt;
 
     ``` sh
@@ -255,7 +257,7 @@ systemctl restart postgresql-9.5.service
     ```
 
 4. Decompress the file to the knowledge base configuration and execute the collection creation;
-
+    
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
 	```
@@ -267,7 +269,7 @@ systemctl restart postgresql-9.5.service
     ``` sh
     bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
     ```
-
+    
 5. Note that the command return should be something like the example bellow:
 
 Copying configuration to new core instance directory:
@@ -294,6 +296,6 @@ http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&inst
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
+    <b>Updated:</b>01/30/2019 - João Pelles  
 	
 	

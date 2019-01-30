@@ -1,19 +1,19 @@
-Title: Funcionalidades Adicionais
+Title: Funcionalidades Adicionales
 
-# Funcionalidades Adicionais
+# Funcionalidades Adicionales
 
-No menu de funcionalidades adicionais, você encontrará os seguintes tópicos:
+En el menú de funcionalidades adicionales, encontrará los siguientes tópicos:
 
-* Automação de operações
+* Automatización de operaciones
 
-* Comunicação e notificação
+* Comunicación y notificación
 
-* Gerenciamento de contrato
+* Gestión de contrato
 
-* Mobile e serviço de campo
+* Mobile y servicio de campo
 
-* Gerenciamento de projetos
+* Gestión de proyectos
 
-* Provisão e logísticas
+* Provisión y logísticas
 
-* Relatórios
+* Informes

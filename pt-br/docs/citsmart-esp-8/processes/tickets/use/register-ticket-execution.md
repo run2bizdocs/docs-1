@@ -14,6 +14,13 @@ anteriormente, habilitar o parâmetro 298 (setar para o "S").
 É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
 ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 
+!!! Abstract "ATENÇÃO"
+
+    Para que a opção “Gravar solução/Resposta na Base de Conhecimento” fique
+    disponível ao marcar a opção “Resolvida” do ticket, é necessário configurar
+    os parâmetros 182 e 192.
+
+
 Procedimento 
 -------------
 
@@ -51,6 +58,10 @@ Procedimento 
 
 Relacionado
 -----------
+
+[Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+
+[Configurar parametrização -ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 [Cadastrar causa de incidentes](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 

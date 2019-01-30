@@ -2,15 +2,15 @@ Title: Mobile
 
 # Mobile
 
-A funcionalidade Mobile foi desenvolvida para permitir maior autonomia no gerenciamento de serviços, pois permite a provisão de serviços em diferentes perspectivas, seja como portal de atendimento ao usuário final, seja como instância flexível para o analista realizar o serviço de campo.
+La funcionalidad Mobile fue desarrollada para permitir mayor autonomía en la gestión de servicios, pues permite la provisión de servicios en diferentes perspectivas, sea como portal de atención al usuario final, sea como instancia flexible para el analista realizar el servicio de campo.
 
 # Relacionado
 
-[Configurar aplicativo CITSmart Field Service][1]
+[Configurar aplicación CITSmart Field Service][1]
 
-[Manual de utilização do CITSmart Field Service][2]
+[Manual de utilización del CITSmart Field Service][2]
 
-[Configurar as opções de mobile][3]
+[Configurar las opciones del mobile][3]
 
 
 [1]:/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html

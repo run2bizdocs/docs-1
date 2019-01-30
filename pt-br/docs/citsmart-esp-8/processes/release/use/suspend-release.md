@@ -33,7 +33,7 @@ situação "Suspensa" na lista de requisição de liberação.
 Relacionado
 -----------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 

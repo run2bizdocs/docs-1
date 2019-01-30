@@ -21,6 +21,13 @@ Procedure
 
 3.  Click on "Save".
 
+
+!!! info "NOVELTY"
+
+    In this version you can edit the information in the Latitude and Longitude
+    fields.
+
+
 Related
 -----------
 

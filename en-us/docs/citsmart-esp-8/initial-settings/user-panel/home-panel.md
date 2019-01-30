@@ -25,4 +25,4 @@ Related
     <b>Updated:</b>01/09/2019 – Anna Martins
 
 [1]:/en-us/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
-[2]:/en-us/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html
+[2]:/en-us/citsmart-esp-8/initial-settings/access-settings/user/user-data.html

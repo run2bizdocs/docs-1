@@ -1,7 +1,6 @@
 title: Registrar causa de incidentes
 Description: Permite registrar y buscar las causas de la ocurrencia de incidentes.
 #Registrar causa de incidentes
-Esta funcionalidad permite registrar y buscar las causas de la ocurrencia de incidentes.
 
 
 Esta funcionalidad permite registrar y buscar las causas de la ocurrencia de

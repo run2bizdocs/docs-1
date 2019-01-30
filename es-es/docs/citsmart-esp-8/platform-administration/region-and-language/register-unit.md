@@ -20,6 +20,12 @@ Procedimiento
 
 3.  Hacer clic en "Guardar".
 
+!!! info "NOVEDAD"
+
+    En esta versión se puede editar la información en los campos Latitud y
+    Longitud.
+
+
 Relacionado
 -----------
 

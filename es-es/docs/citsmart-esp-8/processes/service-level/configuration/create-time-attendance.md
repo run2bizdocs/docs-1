@@ -30,11 +30,11 @@ Procedimiento
     adecuadas sean tomadas. La prioridad va de 1 a 5, siendo 1 la prioridad más
     alta y 5 la más baja. Seleccione la prioridad para la definición del tiempo:
 
--   **Captura**: definir el tiempo de captura de la solicitud de servicio, o
-    tempo de captura da solicitação do serviço, según la prioridad seleccionada;
+    -  **Captura**: definir el tiempo de captura de la solicitud de servicio, o
+        tempo de captura da solicitação do serviço, según la prioridad seleccionada;
 
--   **Resolución**: definir el tiempo de solución del servicio, según la
-    prioridad seleccionada.
+    -  **Resolución**: definir el tiempo de solución del servicio, según la
+        prioridad seleccionada.
 
 1.  Antes de completar los campos del cuadro **Automatización**, debe estar
     adecuadamente parametrizada, para ello se hace necesario ejecutar los pasos

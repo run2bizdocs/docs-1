@@ -119,7 +119,7 @@ Relacionado
 
 [Personalizar el panel gerencial (Smart Decision)](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-[Visualizar informes Smart](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emitir informe utilizando Smart Report](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 [Construir y mantener informes Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 

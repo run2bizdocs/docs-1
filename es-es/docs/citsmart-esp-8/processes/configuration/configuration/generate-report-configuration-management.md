@@ -9,7 +9,7 @@ Generar informe de elemento de configuración - paquete Office
 Este informe tiene el objetivo de presentar las claves (licencias) válidas,
 inválidas y duplicadas de los medios.
 
-1.  Acceder al menú principal Informes \> Gestión de la Configuración \> Infomre
+1.  Acceder al menú principal Informes \> Gestión de la Configuración \> Informe
     Ítem Configuración Paquete Office;
 
 2.  Hacer clic en el campo "Multimedia" para buscar y seleccionar una media para
