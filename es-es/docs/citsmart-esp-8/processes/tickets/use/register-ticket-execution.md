@@ -14,6 +14,13 @@ Es necesario también establecer en el parámetro 253, el ID de correo electrón
 elegido para registrar la instancia y el identificador de la plantilla de correo
 electrónico de notificación en el parámetro 251.
 
+!!! Abstract "ATENCIÓN"
+
+    Para que la opción "Guardar solución / Respuesta en la base de conocimiento"
+    disponible al marcar la opción "Resuelta" del ticket, es necesario
+    configurar los parámetros 182 y 192.
+
+
 Procedimiento
 -------------
 
@@ -51,6 +58,10 @@ Procedimiento
 
 Relacionado
 -----------
+
+[Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+
+[Configurar parametrización -ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 [Registrar causa de incidentes](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
