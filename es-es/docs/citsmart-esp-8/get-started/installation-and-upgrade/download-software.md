@@ -288,8 +288,7 @@ directorio del Solr para el e inicie.
 	```sh
     bin/solr start
     ```
-4. Descomprima el archivo para configuraciones de la base de conocimiento y ejecute la
-creación de collection.
+4. Descomprima el archivo para configuraciones de la base de conocimiento y ejecute la creación de collection.
 
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
