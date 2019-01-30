@@ -37,11 +37,11 @@ Procedimento
     de Configuração” ao clicar no ícone de mesmo nome. Agora, para remover o
     vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
 
-!!! Abstract "ATENÇÃO"
-    Se não houver nenhum serviço relacionado, é possível vincular um novo
-    serviço ao problema, basta clicar na área de “Serviços Relacionados” e em
-    seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
-    serviço desejado e clicar sobre o mesmo.
+    !!! Abstract "ATENÇÃO"
+        Se não houver nenhum serviço relacionado, é possível vincular um novo
+        serviço ao problema, basta clicar na área de “Serviços Relacionados” e em
+        seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
+        serviço desejado e clicar sobre o mesmo.
 
 6.  Para vincular **Liberação**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
