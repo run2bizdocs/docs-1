@@ -26,7 +26,7 @@ Procedimento
 
 6.  Definir o status como “Ativo”;
 
-7.  Clicar no botão “Gravar” para efetuar a operação.
+7.  Clicar no botão “Gravar” para efetuar a operação.  
 
 !!! tip "About"
 
