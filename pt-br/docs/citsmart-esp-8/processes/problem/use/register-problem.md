@@ -20,7 +20,7 @@ Procedimento
 1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Problema \> Problema;
 
-2-  Clicar no botão “Opções” e em seguida no ícone “+”;
+2-  Clicar no botão “Opções” e em seguida no ícone "Cadastro";
 
 3-  Preencher todos os campos disponibilizados para identificar o solicitante;
 
