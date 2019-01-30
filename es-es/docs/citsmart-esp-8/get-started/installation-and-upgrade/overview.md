@@ -1,28 +1,28 @@
-Title: Visão geral da instalação
+Title: Visión general de la instalación
 
-# Visão geral da instalação
+# Visión general de la instalación
 
-Estas etapas ajudarão a instalar o CITSmart em ambientes locais. Antes de
-começar, é importante ter em mente o software necessário para a instalação da
-plataforma, bem como sua funcionalidade. A plataforma CITSmart é composta pelos
-seguintes conjuntos de software:
+Estos pasos ayudarán a instalar el CITSmart en los entornos locales. Antes de
+empezar, es importante tener en cuenta el software necesario para la instalación de
+la plataforma, así como su funcionalidad. L plataforma CITSmart se compone de los
+siguientes conjuntos de software:
 
 
-* **Plataforma CITSmart Enterprise**: pacote de plataforma no formato java WAR (web application ARchive).
-* **Wildfly**: servidor de aplicação Java EE Web.
-* **SOLR**: plataforma escrita em Java mantida pelo Apache usada para pesquisas.
-* **MongoDB**: banco de dados NoSQL para armazenar objetos não relacionais.
-* **Active MQ**: serviço de fila de mensagens Java desenvolvido e mantido pelo Apache.
-* **Guacamole/GUACD**: o Apache Guacamole é um gateway de desktop remoto sem cliente. Suporta
-protocolos padrão como VNC, RDP e SSH.
-* **Tika**: o Apache Tika é um kit de ferramentas que detecta e extrai metadados e texto de
-diferentes tipos de formatos de arquivo (como PPT, XLS e PDF).
+* **Plataforma CITSmart Enterprise**: paquete de plataforma en formato java WAR (web application ARchive).
+* **Wildfly**: servidor de aplicación Java EE Web.
+* **SOLR**: plataforma escrita en Java mantenida por Apache usada para búsquedas.
+* **MongoDB**: base de datos NoSQL para almacenar objetos no relacionales.
+* **Active MQ**: servicio de cola de mensajes Java desarrollado y mantenido por Apache.
+* **Guacamole/GUACD**: el Apache Guacamole es un gateway de escritorio remoto sin cliente. Soporta
+protocolos estándar como VNC, RDP y SSH.
+* **Tika**: Apache Tika es un kit de herramientas que detecta y extrae metadatos y texto de
+diferentes tipos de formatos de archivo (como PPT, XLS e PDF).
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    Nem todas as instalações de plataformas exigem o Guacamole, apenas as que
-    exigem acesso remoto às estações são feitas pela CITSmart. O restante das
-    ferramentas é necessário em todas as instalações para operação adequada da plataforma.
+    No todas las instalaciones de plataformas exigen el Guacamole, sólo las que
+    requieren acceso remoto a las estaciones son hechas por CITSmart. El resto de las
+    herramientas es necesario en todas las instalaciones para la operación adecuada de la plataforma.
 
 
 !!! tip "About"
