@@ -1,37 +1,37 @@
-Title: Introdução à administração da plataforma
+Title: Introducción a la administración de la plataforma
 
-# Introdução à administração de plataforma
+# Introducción a la administración de la plataforma
 
-No menu da administração da plataforma, estão disponibilizados os seguintes tópicos:
+En el menú de administración de la plataforma, están disponibles los siguientes tópicos:
 
-* Autenticação
+* Autenticación
 
-* Configuração ações automáticas
+* Configuración de acciones automáticas
 
-* Personalização campos
+* Personalización de campos
 
-* Dados e importação
+* Datos e importación
 
-* Base de dados
+* Base de datos
 
-* Indexação de dados
+* Indexación de datos
 
-* Configuração de email
+* Configuración de correo electrónico
 
-* Configuração de ambiente
+* Configuración del ambiente
 
-* Manutenção de fluxo
+* Mantenimiento de flujo
 
-* Logs e auditoria
+* Logs y auditoría
 
 * Mobile
 
-* Lista de parâmetros
+* Lista de parámetros
 
-* Questionários
+* Cuestionários
 
-* Região e linguagem
+* Región y lenguaje
 
-* Horário
+* Horario
 
-* Processos
+* Procesos
