@@ -1,4 +1,4 @@
-# CITSmart Documentation Repository
+# CITSmart Docs Repository
 
 Aqui você poderá acessar os repositórios de documentações dos produtos CITSmart, que estão disponíves em inglês, espanhol e português. Além disso, você poderá acessar o repositório de feedback para propor ideias e enviar comentários.
 
