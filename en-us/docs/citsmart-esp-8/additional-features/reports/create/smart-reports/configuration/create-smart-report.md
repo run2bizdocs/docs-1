@@ -1,6 +1,6 @@
-title: Create smart report
+title: Emit report using Smart Report
 Description: allows to issue custom reports created from the "Smart Report Creator".
-#Create smart report
+#Emit report using Smart Report
 This functionality allows to issue custom reports created from the "Smart Report Creator".
 
 Procedure
