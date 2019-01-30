@@ -23,7 +23,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
     
     Figure 1 - Java download list
     
-3. Download the jdbc module for the postgresql:http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
+3. Download the jdbc module for the postgresql: http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
 
 ### MongoDB Database Server
 
@@ -96,8 +96,8 @@ After all the necessary download, we can start the installation of the solution 
     <message of unrestricted access>
 
 2. We should create a directory to the base and start the MongoDB. Note that it will upload with access unrestricted permission;
-3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, settingg its user ande password;
-4. It will appear the message "Sucessfully added user";
+3. With MongoDB started, open another terminal, access the bin directory of MongoDB and create the CITSmart base, setting its user and password;
+4. It will appear the message "Successfully added user";
 5. Type exit to leave the MongoDB console;
 
     ``` sh
@@ -108,8 +108,7 @@ After all the necessary download, we can start the installation of the solution 
     ./mongo
     ```
 
-
-    < message of unrestricted access >
+    <message of unrestricted access>
 
     ```sh
     use admin
