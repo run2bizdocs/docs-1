@@ -32,7 +32,7 @@ la situación "Suspendida" en la lista de solicitud de liberación.
 Relacionado
 -----------
 
-[Registrar grupo](/es-es/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+[Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 [Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
