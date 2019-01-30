@@ -15,6 +15,13 @@ category. It's necessary to first enable parameter 298 (set to "S").
 IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
 occurrence and the notification e-mail template ID in parameter 251.
 
+   !!! Abstract "ATTENTION"
+
+    So that the option "Write Solution / Response in the Knowledge Base" is
+    available by checking the "Resolved" option of the ticket, you must
+    configure parameters 182 and 192
+
+
 Procedure
 -------------
 
@@ -52,6 +59,9 @@ Procedure
 
 Related
 -----------
+[Configure parametrization - knowledge](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+
+[Configure parametrization -ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 [Register solution category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
