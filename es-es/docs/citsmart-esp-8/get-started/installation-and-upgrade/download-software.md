@@ -301,8 +301,11 @@ directorio del Solr para el e inicie.
     ``` sh
     bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
     ```
-
+    
 5. Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
+	
+	
+Observa que el retorno del comando debe ser algo como en el ejemplo siguiente.
 
 Copying configuration to new core instance directory:
 

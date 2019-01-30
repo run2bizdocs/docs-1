@@ -257,7 +257,7 @@ systemctl restart postgresql-9.5.service
     ```
 
 4. Decompress the file to the knowledge base configuration and execute the collection creation;
-
+    
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
 	```
@@ -269,7 +269,7 @@ systemctl restart postgresql-9.5.service
     ``` sh
     bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
     ```
-
+    
 5. Note that the command return should be something like the example bellow:
 
 Copying configuration to new core instance directory:
