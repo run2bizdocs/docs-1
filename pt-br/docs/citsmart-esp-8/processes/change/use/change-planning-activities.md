@@ -34,7 +34,7 @@ Procedimento
 
     !!! Abstract "NOTA"
         É disponível a criação do zero de projeto, ao clicar em “Adicionar” e depois
-        na aba “Cadastro”, registrar o novo item. Partindo do mesmo preceito, é
+        na aba “Cadastro”, e registrar o novo item. Partindo do mesmo preceito, é
         admitido a criação de novas notificações do sistema, ao clicar no botão
         “Cadastrar”, localizado na aba de mesmo nome.
 
@@ -43,7 +43,7 @@ Procedimento
     “Anotações”.
 
 6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento ou selecionar o
+    tarefa atual” para registar as atividades de planejamento e não avançar o fluxo da atividade ou selecionar o
     botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
     próxima fase do fuxo.
 
