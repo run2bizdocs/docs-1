@@ -1,6 +1,6 @@
 title: Cadastrar o plano de reversão da mudança
 Description: Permite cadastrar o plano de reversão 
-#Atividades da fase de planejamento da mudança 
+#Cadastrar o plano de reversão da mudança
 
 Esta funcionalidade propicia cadastrar o plano de reversão da mudança, que permite que os serviços voltem ao seu estado inicial no caso de insucesso na implementação da alteração.
 
