@@ -1,6 +1,6 @@
 title: Relatório de distância percorrida por analista
 Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app SM.
-#Relatório quantitativo de Km por analista
+#Relatório de distância percorrida por analista
 
 Este documento visa mostrar as configurações para visualizar o relatório que
 demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento
