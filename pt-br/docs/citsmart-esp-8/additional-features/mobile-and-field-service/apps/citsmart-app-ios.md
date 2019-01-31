@@ -71,7 +71,7 @@ Figura 2 - Registro de conexão
 
    -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
 
-   -   **Disponível:**
+   -   **Disponível**:
 
        -   Habilitado: Quando está habilitado, a conexão será a fornecida no campo
            URL, e além disso, para pegar a posição do atendente esse campo deve
