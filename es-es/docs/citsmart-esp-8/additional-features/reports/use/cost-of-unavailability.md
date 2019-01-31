@@ -3,7 +3,7 @@ Description: Verificar el informe que demuestra el costo por hora de indisponibi
 #Informe del custo de indisponibilidad del servicio
 
 
-Este conocimiento tiene por objetivo verificar el informe que demuestra el costo
+Este documento tiene por objetivo verificar el informe que demuestra el costo
 por hora de indisponibilidad de un servicio, donde:
 
 -   Tiempo Disponible: tiempo (dentro de la jornada de trabajo) que los
