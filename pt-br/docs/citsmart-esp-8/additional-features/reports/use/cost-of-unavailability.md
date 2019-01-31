@@ -2,7 +2,7 @@ title: Relatório do custo de indisponibilidade do serviço
 Description: Verificar o relatório que demonstra o custo por hora de indisponibilidade de um serviço.
 #Relatório do custo de indisponibilidade do serviço
 
-Este conhecimento tem por objetivo verificar o relatório que demonstra o custo
+Este documento tem por objetivo verificar o relatório que demonstra o custo
 por hora de indisponibilidade de um serviço, onde:
 
  +   Tempo Disponível: tempo (dentro da jornada de trabalho) que os incidentes do
