@@ -12,13 +12,13 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar la
 suscripción.
 
 Antes de empezar
---------------------
+--------------
 
 Antes de registrar la sucripción, es necesario registrar, anteriormente, el
 colaborador.
 
 Procedimiento
------------------
+------------
 
 1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
     Firmas;
