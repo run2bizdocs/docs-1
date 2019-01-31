@@ -29,7 +29,7 @@ Procedimento
 
 4.  Ainda é possível vincular os projetos, ações, notificações, conhecimentos e
     anexos de arquivos para detalhar a execução da mudança. Para tanto, é
-    necessário clicar sobre na aba disponibilizada, selecionar o item desejado
+    necessário clicar sobre cada aba disponibilizada, selecionar o item desejado
     para vincula-lo à mudança
 
     !!! Abstract "NOTA"
