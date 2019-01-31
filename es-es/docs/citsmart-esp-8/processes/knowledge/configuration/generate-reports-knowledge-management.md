@@ -32,7 +32,7 @@ conocimiento.
 2.  Definir os filtros conforme a necessidade.
 
 Generar informe de documentos accesados en la base de conocimiento
-----------------------------------------------------------------------
+-----------------------------------------------------------------
 
 Este informe tiene el objetivo de presentar la cantidad de accesos en los
 documentos de la base de conocimiento.
@@ -43,7 +43,7 @@ documentos de la base de conocimiento.
 2.  Definir los filtros segús sus necesidades.
 
 Generar informe de mantenimiento en la base de conocimiento
----------------------------------------------------------------
+----------------------------------------------------------
 
 Este informe tiene por objeto presentar las informaciones referentes al registro
 y/o cambios de conocimientos en la base de conocimiento.
