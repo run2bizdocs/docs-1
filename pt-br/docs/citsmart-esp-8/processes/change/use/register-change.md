@@ -15,8 +15,8 @@ Procedimento
 3.	Preencher todos os campos disponibilizados nas áreas: solicitante e mudança (inclusive selecionar o portfólio desejado);
 4.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
 
-!!! Abstract "ATENÇÃO"
-É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
+    !!! Abstract "ATENÇÃO"
+        É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
 
 5.	Clicar no botão “Opções” e em seguida “Gravar”;
 
