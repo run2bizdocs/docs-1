@@ -20,13 +20,13 @@ Procedimento
 2.  Para informar os dados complementares da mudança, marque a opção de captura
     ou visualização da mudança;
 
-3.  Para vincular Itens de Configuração, clicar na área “IC Relacionado” e em
+3.  Para vincular **Itens de Configuração**, clicar na área “IC Relacionado” e em
     seguida no botão “pesquisa item de configuração”. Realizar a busca e apertar
     o botão “Selecionar” para completar. Logo após, é possível ao clicar no
     ícone “Serviços”, vincular o mesmo a mudança e ao apertar o ícone “Alterar”,
     modificar o IC já registrado;
 
-4.  Clicar na área “Serviços Relacionados” e em seguida no botão “Adicionar
+4.  Clicar na área **“Serviços Relacionados”** e em seguida no botão “Adicionar
     Serviço” a fim de buscar e selecionar um serviço a ser vinculado a mudança;
 
 5.  A próxima área, diz respeito ao tipo de análise de impacto e risco da
@@ -39,13 +39,13 @@ Procedimento
         da escolha de análise por parte do usuário, que deverá descrever sua
         investigação de acordo com o seu cenário específico.
 
-6.  Para vincular um Questionário, clicar na área de mesmo nome e selecionar o
+6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
     item desejado para vincula-lo a mudança;
 
-7.  Ao clicar em “Papéis e responsabilidades”, será disponibilizado campos para
+7.  Ao clicar em **“Papéis e responsabilidades”**, será disponibilizado campos para
     inserir os colaboradores e suas funções na execução da mudança;
 
-8.  Para vincular uma Liberação, clicar na área de mesmo nome e em seguida
+8.  Para vincular uma **Liberação**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
     preferir cadastrar uma nova liberação, clicar no botão “Cadastrar” e
     preencher os dados;
