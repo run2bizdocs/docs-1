@@ -19,18 +19,18 @@ Procedimiento
 
 2.  A continuación se enumeran las claves para el envío de correo electrónico:
 
--   \${IDSOLICITUDSERVICIO} - Número del ticket (clave pública);
+    -  \${IDSOLICITUDSERVICIO} - Número del ticket (clave pública);
 
--   \${COMMENTTEXT} - Descripción del Comentario hecho en la mensajería;
+    -  \${COMMENTTEXT} - Descripción del Comentario hecho en la mensajería;
 
--   \${DATETIMECREATED} - Fecha en que se registró el comentario;
+    -  \${DATETIMECREATED} - Fecha en que se registró el comentario;
 
--   \${USERNAME} - Nombre de usuario que ha introducido el comentario;
+    -  \${USERNAME} - Nombre de usuario que ha introducido el comentario;
 
--   \${REQUESTERNAME} - Nombre del solicitante;
+    -  \${REQUESTERNAME} - Nombre del solicitante;
 
--   \${REQUESTRESPONSIBLENAME} - Nombre del técnico responsable por el servicio
-    del ticket.
+    -  \${REQUESTRESPONSIBLENAME} - Nombre del técnico responsable por el servicio
+         del ticket.
 
 
 
