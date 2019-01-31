@@ -2,6 +2,8 @@ title: Criar um portfólio de mudança
 Description: Tem por objetivo criar um portfólio de mudanças a fim de agilizar a criação de uma nova mudança
 #Criar um portfólio de mudança
 
+Esta funcionalidade tem por objetivo criar um portfólio de mudanças a fim de agilizar a criaão de uma nova mudança ao agrupar as mesmas por critérios específicos.
+
 Procedimento 
 -------------
 
