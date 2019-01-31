@@ -1,38 +1,38 @@
-title: Pesquisa avançada de problemas
-Description: Permite buscar os problemas ocorridos de acordo com os filtros definidos pelo usuário.
-#Pesquisa avançada de problemas
+title: Problem advanced search
+Description: It allows to search problems that occur according to the filters defined by the user.
+#Problems advanced search
 
-Esta funcionalidade tem por objetivo buscar os problemas ocorridos de acordo com os filtros definidos pelo usuário.
+This fucntionality is intended to search for problems that occur according to the filters defined by the user.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Access the main menu Processes \>
+    Problem Management \> Problem;
 
-2.  Aberta a tela, especificamente no campo de pesquisa, clicar no ícone
-    simbolizado por uma seta voltada para baixo e em seguida apertar o botão
-    “Pesquisa avançada”;
+2.  In the search field, click on the icon symbolized by
+    an arrow poiting downwards and then on
+    “Advanced search”;
 
-3.  Definir os filtros necessários para a pesquisa (Período de Abertura,
-    Solicitante, Categoria Problema, dentre outros);
+3.  Define the filters necessary to the search (Opening Period,
+    Requester, Problem Category, others);
 
-4.  Clicar em “Pesquisar” para efetuar a operação;
+4.  Click on "Search";
 
-5.  Para gerar relatório de problema no formato PDF, clicar no botão “Gerar
+5.  To create the problem report in PDF, click on "Create
     PDF”;
 
-6.  Para gerar relatório de problema no formato Excel, clicar no botão “Gerar
+6.  To create the problem report in Excel, click on "Create
     XLS”;
 
-7.  Para visualizar as informações do problema, após a pesquisa, clicar no botão
-    “Visualizar”, disponível na listagem de itens;
+7.  To view the information of the problem, after the search, click on
+    “View”, available in the items list;
 
-8.  Caso deseje visualizar as ocorrências do problema, após clicar no botão
-    “Visualizar”, apertar no ícone “Registro de Execução” (último ícone do lado
-    direito da tela). Nesta tela, também é possível adicionar novos registros de
-    ocorrências, ao clicar em “Adicionar ocorrências” e preencher os campos
-    obrigatórios.
+8.  If you want to view the problem occurrence, after click on
+    “View”, click on the icon "Execution Registration" (last icon on the right
+    side of the screen). In this screen, it's also possible to add new occurrences
+    registration, when click on "Add occurrences" and complete the mandatory
+    fields.
 
 !!! tip "About"
 
