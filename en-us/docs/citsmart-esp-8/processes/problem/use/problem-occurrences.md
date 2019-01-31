@@ -1,29 +1,29 @@
-title: Cadastrar as ocorrências do problema
-Description: Permite cadastrar eventuais ocorrências referentes ao problema
-#Cadastrar as ocorrências do problema
+title: Register problem occurrences
+Description: It allows to register any occurrences related to the problem
+#Register the occurrences of the problems
 
-Esta funcionalidade permite cadastrar as eventuais ocorrências referentes ao problema
+This functionality allows to register any occurrences related to the problem
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Access the main menu Processes \>
+    Problem Management \> Problem;
 
-2.  Localizar o problema do qual deseja incluir o registro de ocorrência e clicar
-    no botão “Abrir”;
+2.  Find the problem you want to include the occurrence registration and click
+    on "Open”;
 
-3.  Clicar no ícone “Registro de Execução” (último ícone ao lado direito da
-    tela, abaixo do campo de pesquisa) e em seguida apertar em “Adicionar
-    ocorrência”;
+3.  Click on the icon "Execution Registration” (last icon on the right side of
+    the screen, below the search field) and then on "Add
+    occurrence”;
 
-4.  Clicar no botão “Adicionar ocorrência” e preencher os campos obrigatórios;
+4.  Click on "Add occurrence" and complete the mandatory fields;
 
-    !!! Abstract "NOTA"
-        É possível cadastrar novas categorias e origens que melhor se adequam a
-        ocorrência, ao clicar no ícone “+” e preencher os campos necessários.
+    !!! Abstract "NOTE"
+        It's possible to register new categorie and origins that fit the best to the
+        occurrence, when click on the icon “+” and complete the necessary fields.
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Click on "Save".
 
     !!! tip "About"
 
