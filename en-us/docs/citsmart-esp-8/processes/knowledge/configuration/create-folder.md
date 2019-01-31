@@ -1,8 +1,8 @@
 title: Create folder 
-Description:  Provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the knowledge registered in the base.
+Description:  Provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the document registered in the base.
 
 #Create folder
-This feature provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the knowledge registered in the base.
+This feature provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the document registered in the base.
 
 ##Before getting started
 It's necessary to previously register a profile and a group.
