@@ -3,7 +3,7 @@ Description: Conocimiento permite implementar el modo de envío de e-mail a tick
 #Implementar forma de envío de e-mail a ticket reclasificado
 
 
-Este conocimiento permite implementar el modo de envío de e-mail a ticket
+Este documento permite implementar el modo de envío de e-mail a ticket
 reclasificado, así que los tickets reclasificados tendrán una plantilla de
 e-mail propio a ser enviado al solicitante. Así, la reclasificación podrá ser
 realizada en el portafolio, no sólo en el flujo.
