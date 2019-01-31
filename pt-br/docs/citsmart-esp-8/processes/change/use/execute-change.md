@@ -1,8 +1,8 @@
-title: Executar (revisar e fechar) a mudança
+title: Encerrar a mudança
 Description: Permite executar a mudança 
-#Executar (revisar e fechar) a mudança 
+#Encerrar a mudança 
 
-Esta funcionalidade permite executar a mudança, explanando todos os fatos ocorridos no ciclo de vida da mudança, favorecendo assim o reexame e fiscalização da alteração criada a fim de reduzir custos e riscos para a organização.
+Esta funcionalidade permite encerrar a mudança, explanando todos os fatos ocorridos no ciclo de vida da mudança, favorecendo assim o reexame e fiscalização da alteração criada a fim de reduzir custos e riscos para a organização.
 
 Antes de começar
 ----------------
