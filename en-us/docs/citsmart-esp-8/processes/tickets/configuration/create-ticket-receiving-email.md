@@ -24,19 +24,19 @@ Procedure
 *Step 1*
 
 1.  Access the functionality through the main menu System \> Automatic actions
-    \> Incident/Request/Procedure Actions (see knowledge Register automatic
+    \> Incident/Request/Procedure Actions (see Register automatic
     actions of incident/request/procedure).
 
 *Step 2*
 
 1.  Create the email automatic action by accessing the main menu System \>
-    Settings \> Automatic Action Setting Via Email (see knowledge Create
+    Settings \> Automatic Action Setting Via Email (see Create
     automatic action via email).
 
 *Step 3*
 
 1.  Create batch routine, by accessing the main menu System \> Batch Processing
-    (see knowledge Batch Processing):
+    (see Batch Processing):
 
     -   Download script attached.
 
