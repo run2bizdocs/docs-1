@@ -150,8 +150,8 @@ Figura 8 - Lista de ticket
 
 Figura 9-Lista de ticket
 
-  -ícone Abrir - captura a solicitação para o usuário logado ou apenas visualiza o ticket
-    sem capturar;
+   - ícone Abrir - captura a solicitação para o usuário logado ou apenas visualiza o ticket
+     sem capturar;
 
   - ícone Visualizar - visualiza o ticket;
 
@@ -178,7 +178,7 @@ Figura 10 – Criação de solicitação de serviço
 !!! Abstract "ATENÇÃO"
 
     A solicitação registrada pelo CITSmart ITSM Enterprise utiliza serviços
-    que são configurados no CITSmart Enterprise Web.**
+    que são configurados no CITSmart Enterprise Web.
 
 2-  Será apresentada a tela com campos cadastrais, conforme figuras abaixo:
 
@@ -283,7 +283,7 @@ Figura 14 - Tela de cadastro de nova solicitação (continuação)
     calendário vinculado à unidade, mas caso a unidade não tenha um calendário
     vinculado, será contabilizado de acordo com o calendário vinculado ao
     serviço. Porém, ao encerrar o tempo previsto de atendimento é contabilizado
-    o atraso em tempo corrido, sendo desconsiderado o calendário.**
+    o atraso em tempo corrido, sendo desconsiderado o calendário.
 
 -   **Título**: informe o título da solicitação de serviço;
 
