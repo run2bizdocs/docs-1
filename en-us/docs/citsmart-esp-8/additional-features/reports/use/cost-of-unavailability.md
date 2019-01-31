@@ -1,7 +1,8 @@
 title: Report about cost of unavailability of a service
 Description: Is intended to verify the report that demonstrates the cost per hour of unavailability of a service
 #Report about cost of unavailability of a service
-This knowledge is intended to verify the report that demonstrates the cost per hour of unavailability of a service, where:
+
+This document is intended to verify the report that demonstrates the cost per hour of unavailability of a service, where:
 •	Time Available: time (within the working day) that incidents of the service became available in the period;
 •	Time of Unavailability: time in hours (within the working day) that service incidents became unavailable during the period;
 •	Number of breakdowns: number of service incidents;
