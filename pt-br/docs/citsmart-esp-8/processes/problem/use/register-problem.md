@@ -64,8 +64,10 @@ Relacionado
 
 [Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html) 
 
-    !!! tip "About"
+!!! tip "About"
 
-        <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-        <b>Updated:</b>01/30/2019 – Larissa Lourenço
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/30/2019 – Larissa Lourenço
+
+
 
