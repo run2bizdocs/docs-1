@@ -45,9 +45,7 @@ Antes de empezar
 
   Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
    Enterprise Mobile y también configurar el servidor para uso de la
-   aplicación móvil CITSmart Enterprise Mobile (ver conocimiento Manual de
-   configuración del servidor CITSmart Enterprise ITSM para uso de APPs (iOS y
-   Android))
+   aplicación móvil CITSmart Enterprise Mobile (ver Relacionado).
 
 Instalación y configuración dell APP en el celular (smartphone)
 --------------------------------------------------------------
@@ -502,6 +500,13 @@ Figura 36 -Solicitudes próximas
 Figura 37 - Notificación de solicitud recibida
 
    +  Seleccione la notificación para que se dirija a su lista de solicitud personal.
+
+Relacionado
+---------
+
+[Manual de configuración del servidor CITSmart Enterprise ITSM para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+
+[Configurar la opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
