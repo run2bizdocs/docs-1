@@ -60,7 +60,7 @@ Relacionado
 
 [Como relacionar unidade ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-[Como relacionar grupo ao contrato](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+[Como relacionar grupo ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 [Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html) 
 
