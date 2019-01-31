@@ -66,8 +66,8 @@ Figura 2 - Registro de conexão
    -   **Domínio\\Usuário:** A partir dessa versão o usuário terá que informar
         o domínio LDAP de uso e seu usuário;
 
-            - O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
-              primeira parte é a informação do domínio e a segunda parte é o usuário;
+          - O formato é citsmart.local\\usuario.consultor (exemplo), sendo que a
+            primeira parte é a informação do domínio e a segunda parte é o usuário;
 
    -   **Senha:** o usuário irá digitar a senha de acesso ao sistema;
 
