@@ -39,7 +39,7 @@ Procedimiento
 
 ![ocs](images/conexao-inventory-2.jpg)
    
-Figura 2 -integración CITSmart inventory - OCS inventory
+Figura 2 -Integración CITSmart inventory - OCS inventory
 
 -   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el menú       Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los archivos     XML en OCS_FILES_PATH
 
