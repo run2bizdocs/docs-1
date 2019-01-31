@@ -12,13 +12,13 @@ Antes de começar
 Procedimento
 ------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Problema \> Problema;
 
-2-  Localizar o problema que deseja executar, clicar no botão “Abrir” e
+2.  Localizar o problema que deseja executar, clicar no botão “Abrir” e
     confirmar atribuição da tarefa ao seu usuário;
 
-3-  Na área “Diagnóstico”, para um melhor compreensão e investigação do
+3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
     problema, é possível realizar as seguintes atividades:
 
 -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
@@ -27,7 +27,7 @@ Procedimento
     execução do problema, dentre outros. Já, para vincular um Kanban já criado,
     basta apertar no outro ícone referente ao Workspace.
 
--   Registrar eventuais erros conhecidos a fim de realizar uma avaliação pela
+-   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
     equipe responsável e a difusão de sua solução para os interessados. Para
     tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
     Solução de Contorno” e descrever as informações relevantes;
@@ -37,8 +37,8 @@ Procedimento
 -   Na aba “Anotações”, é permitido registrar as informações que identificar
     serem essenciais.
 
-4-  Na área “Solução”, serão disponibilizados campos para a descrição do
-    processo e eventual solução do problema. São eles:
+4.  Na área “Solução”, serão disponibilizados campos para a descrição do
+    processo e a eventual solução do problema. São eles:
 
 -   Criar um quadro Kanban, com as informações supracitadas;
 
@@ -51,7 +51,7 @@ Procedimento
 -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
 
-5-  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
+5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
     solução do problema e as lições aprendidas com o mesmo, através das
     seguintes ações:
 
@@ -71,7 +71,7 @@ Procedimento
 -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
 
-6-  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
+6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
     tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
     selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
     dirigir para próxima fase do fluxo.
