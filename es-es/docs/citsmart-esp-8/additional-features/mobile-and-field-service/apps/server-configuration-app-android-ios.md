@@ -223,7 +223,7 @@ Relacionado
 
 [Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
-
+[Configurar las opciones móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 !!! tip "About"
 
