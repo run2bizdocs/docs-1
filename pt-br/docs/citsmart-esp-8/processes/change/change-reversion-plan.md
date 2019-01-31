@@ -41,7 +41,7 @@ Procedimento
 6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
     tarefa atual” para registar as atividades de planejamento ou selecionar o
     botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fluxo.
+    próxima fase do fluxo.  
 
 Relacionado 
 ------------
