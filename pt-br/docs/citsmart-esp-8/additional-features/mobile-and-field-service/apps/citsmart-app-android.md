@@ -43,9 +43,7 @@ Antes de começar
 
 1-  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
     Enterprise Mobile e também Configurar o servidor para uso do aplicativo
-    mobile CITSmart Enterprise Mobile (ver documento Manual de configuração
-    do servidor para uso do CITSmart ITSM Enterprise (iOS e
-    Android).
+    mobile CITSmart Enterprise Mobile (ver Relacionados).
 
 Instalação e configuração do app no celular (smartphone)
 ---------------------------------------------------------
@@ -494,6 +492,12 @@ Figura 37 -Notificação de solicitação recebida
 
    +  Selecione a notificação para ser direcionado à sua lista de solicitação
       pessoal.
+
+Relacionado
+-----------
+[Manual de configuração do servidor para uso do CITSmart ITSM Enterprise (iOS e Android).](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+
+-[Configurar opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
