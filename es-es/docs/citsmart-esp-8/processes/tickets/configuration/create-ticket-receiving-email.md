@@ -28,20 +28,20 @@ Procedimiento
 *Paso 1*
 
 1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones de
-    Incidentes/Requerimientos/Procedimientos (ver conocimiento Registrar Acción
-    Automatica de Incidentes/Requerimientos/Precedimientos).
+    Incidentes/Requerimientos/Procedimientos (ver Registrar acciones
+    automaticas de incidentes/requerimientos/precedimientos).
 
 *Paso 2*
 
 1.  Crear acción automatica de correo electrónico al acceder al menú principal
     Sistema \> Configuración \> Configuración de la acción automatica a través
-    de correo electrónico (ver conocimiento Crear acción automatica de correo
+    de correo electrónico (ver Crear acción automatica de correo
     electrónico).
 
 *Paso 3*
 
 1.  Crear Rutina Batch al acceder al menú principal Sistema \> Procesamiento
-    Batch (ver conocimiento Procesamiento Batch):
+    Batch (ver Procesamiento Batch):
 
     -   Descargar el guión.
 
