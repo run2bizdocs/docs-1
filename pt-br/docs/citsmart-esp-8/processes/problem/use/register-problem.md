@@ -34,10 +34,10 @@ Procedimento
     a execução dos problemas, tais como: o título e descrição do problema, o
     contrato a qual está vinculado, dentre outros;
     
-       !!! Abstract "ATENÇÃO"
-           É necessário definir se o problema a ser cadastrado é um problema de
-           natureza reativo a um contratempo encontrado ou é uma simples prática
-           proativa a fim de administrar o sistema.
+    !!! Abstract "ATENÇÃO"
+        É necessário definir se o problema a ser cadastrado é um problema de
+        natureza reativo a um contratempo encontrado ou é uma simples prática
+        proativa a fim de administrar o sistema.
 
 6.  Selecionar, se necessário, quando será enviado as notificações sobre
     problema;
