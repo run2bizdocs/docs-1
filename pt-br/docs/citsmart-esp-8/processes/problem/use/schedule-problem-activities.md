@@ -26,6 +26,13 @@ Procedimento
 
 4.  Clicar em “Gravar” para efetuar a operação.
 
+Relacionado
+------------
+
+[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)	
+
+[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
