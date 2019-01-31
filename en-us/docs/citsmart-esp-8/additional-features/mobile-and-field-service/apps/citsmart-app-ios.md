@@ -219,7 +219,7 @@ Figure 14 - Create request (continuation)
     satisfaction (per type of response) about the services already requested by
     him. These two summaries are paginated, thus it is possible to move
     forward/backward to view all the information preserving performance and
-    screen lay-out.  
+    screen layout.  
 
 -   Phone: enter the telephone number of the applicant;
 
