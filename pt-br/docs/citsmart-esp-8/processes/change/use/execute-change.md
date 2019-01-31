@@ -7,8 +7,7 @@ Esta funcionalidade permite executar a mudança, explanando todos os fatos ocorr
 Antes de começar
 ----------------
 
-As atividades de plano de reversão ocorrem após o cadastro da mudança, sendo
-assim, verifique a existência de uma Mudança.
+É imprescindível a pré-existência de uma mudança.
 
 Procedimento 
 -------------
