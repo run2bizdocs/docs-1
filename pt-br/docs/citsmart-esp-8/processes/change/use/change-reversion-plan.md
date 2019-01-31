@@ -46,7 +46,7 @@ Procedimento
 Relacionado 
 ------------
 
-Cadastrar uma mudança
+[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
