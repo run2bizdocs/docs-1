@@ -21,54 +21,54 @@ Procedimento
 3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
     problema, é possível realizar as seguintes atividades:
 
--   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
+    -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
     Kanban, é necessário clicar no botão “+Workspace” e preencher os dados
     disponibilizados, tais como título, selecionar os usuários responsáveis pela
     execução do problema, dentre outros. Já, para vincular um Kanban já criado,
     basta apertar no outro ícone referente ao Workspace.
 
--   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
+    -   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
     equipe responsável e a difusão de sua solução para os interessados. Para
     tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
     Solução de Contorno” e descrever as informações relevantes;
 
--   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
+    -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
 
--   Na aba “Anotações”, é permitido registrar as informações que identificar
+    -   Na aba “Anotações”, é permitido registrar as informações que identificar
     serem essenciais.
 
 4.  Na área “Solução”, serão disponibilizados campos para a descrição do
     processo e a eventual solução do problema. São eles:
 
--   Criar um quadro Kanban, com as informações supracitadas;
+    -   Criar um quadro Kanban, com as informações supracitadas;
 
--   É possível criar uma nova mudança relacionada a solução do problema ao
+    -   É possível criar uma nova mudança relacionada a solução do problema ao
     clicar no botão “Cadastrar Mudança” (disponibilizado na aba “Mudança”) e
     preencher os campos necessários ou ainda vincular ao problema, uma mudança
     já registrada, ao clicar sobre o campo pesquisa e selecionar a mudança
     desejada;
 
--   Também é viável o anexo de arquivos e registro de notas nesta fase de
+    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
 
 5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
     solução do problema e as lições aprendidas com o mesmo, através das
     seguintes ações:
 
--   Na aba “Revisão”, selecionar a opção referente a finalização com sucesso do
+    -   Na aba “Revisão”, selecionar a opção referente a finalização com sucesso do
     problema;
 
--   Em “Revisão de Problema Grave”, é possível preencher os campos com as ações
+    -   Em “Revisão de Problema Grave”, é possível preencher os campos com as ações
     tomadas para corrigir o problema e as melhorias a serem implantadas para
     evitar a ocorrência posterior do mesmo, dentre outros;
 
--   Na aba “Simple”, é liberado a criação do quadro Kanban;
+    -   Na aba “Simple”, é liberado a criação do quadro Kanban;
 
--   Em “Lições aprendidas”, ao clicar no botão “Adicionar”, será possível
+    -   Em “Lições aprendidas”, ao clicar no botão “Adicionar”, será possível
     selecionar e vincular um conhecimento para dizimar as instruções a fim
     facilitar a solução de problemas futuros parecidos.
 
--   Também é viável o anexo de arquivos e registro de notas nesta fase de
+    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
 
 6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
