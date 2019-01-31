@@ -1,7 +1,7 @@
 title: Implement the way of sending email to reclassified ticket
 Description: Implement the way of sending e-mails to reclassified ticket.
 #Implement the way of sending email to reclassified ticket
-This knowledge allows to implement the way of sending e-mails to reclassified ticket, thus the reclassified tickets will have an own template of email to be sent to the requester. Therefore, the reclassification can be done in the portfolio and not only in the flow.
+This document allows to implement the way of sending e-mails to reclassified ticket, thus the reclassified tickets will have an own template of email to be sent to the requester. Therefore, the reclassification can be done in the portfolio and not only in the flow.
 In the portfolio is informed the reclassification e-mail template of an incident or request.
 
 Before getting started
