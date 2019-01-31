@@ -22,7 +22,7 @@ Procedimento
 
 3.  Para vincular **Itens de Configuração**, clicar na área “IC Relacionado” e em
     seguida no botão “pesquisa item de configuração”. Realizar a busca e apertar
-    o botão “Selecionar” para completar. Logo após, é possível ao clicar no
+    o botão “Selecionar” para completar o vínculo. Logo após, é possível ao clicar no
     ícone “Serviços”, vincular o mesmo a mudança e ao apertar o ícone “Alterar”,
     modificar o IC já registrado;
 
