@@ -1,80 +1,79 @@
-title: Executar um problema
-Description: Permite executar o problema.
-#Executar um problema
+title: Execute problem
+Description: It allows to execute problem.
+#Execute problem
 
-Esta funcionalidade permite executar o problema. Nesta etapa, é realizada a classificação do problema e designação a área apropriada para tratar o problema de acordo com o Catálogo de Serviços de TI. É necessário vincular o problema a incidentes existentes e registrar o problema para facilitar a priorização de solução de problemas, avaliar o impacto sobre os negócios e determinar a urgência da solução. Essa avaliação determina a classificação do problema.
+This functionality allows to execute the problem. In this step, it's made the classification of the problem and the designation of the appropriate area to handle the problem according to the IT Service Catalog. It's necessary to link the problem to existing incidents and register the problem to facilitate prioritization of problem solving, evaluate the impact on business, and determining the urgency of the solution. This evaluation determines the classification of the problem.
 
-Antes de começar
+Before getting started
 ----------------
 
-É necessário ter problemas registrados para a execução dos mesmos.
+It's necessary to have problems registered to execute them.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Access the main menu Processes \>
+    Problem Management \> Problem;
 
-2.  Localizar o problema que deseja executar, clicar no botão “Abrir” e
-    confirmar atribuição da tarefa ao seu usuário;
+2.  Find the problem you want to execut, click on "Open" and
+    confirm the assignment of a task to your user;
 
-3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
-    problema, é possível realizar as seguintes atividades:
+3.  In the "Diagnosis" area, for a better understanding and investigation of the
+    problem, you can perform the following activities:
 
-    -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
-    Kanban, é necessário clicar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como título, selecionar os usuários responsáveis pela
-    execução do problema, dentre outros. Já, para vincular um Kanban já criado,
-    basta apertar no outro ícone referente ao Workspace.
+    -   Create a Kanban or link an existing one. To create a new Kanban,
+     you need to click on "+ Workspace" and complete the data available,
+     such as title, select the users responsible for the execution of the
+     problem, and others. To link a Kanban already created, just click on
+     the other icon, related to the Workspace.
 
-    -   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
-    equipe responsável e a difusão de sua solução para os interessados. Para
-    tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
-    Solução de Contorno” e descrever as informações relevantes;
+    -   Register any known error in order to enable the evaluation by the
+    responsible team, and the diffusion of your solution for the ones interested.
+    Therefore, it's necessary in the "Known Error" tab, click on "Add
+    Workaroung” and describe the relevant information;
 
-    -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
+    -   In the "Attachments" tab, it's possible to upload the files you want;
 
-    -   Na aba “Anotações”, é permitido registrar as informações que identificar
-    serem essenciais.
+    -   In the "Notes" tab, it's necessary to register the iforamation
+    necessary.
 
-4.  Na área “Solução”, serão disponibilizados campos para a descrição do
-    processo e a eventual solução do problema. São eles:
+4.  In the "Solution" area, fields will be available to describe the
+    process and a solution of the problem. They are:
 
-    -   Criar um quadro Kanban, com as informações supracitadas;
+    -   Create a Kanban, with the information mentioned above;
 
-    -   É possível criar uma nova mudança relacionada a solução do problema ao
-    clicar no botão “Cadastrar Mudança” (disponibilizado na aba “Mudança”) e
-    preencher os campos necessários ou ainda vincular ao problema, uma mudança
-    já registrada, ao clicar sobre o campo pesquisa e selecionar a mudança
-    desejada;
+    -  It's possible to create a new change relate to the problem solution by
+    click on "Register Change" (available in the tab "Change”) and
+    complete the field necessary, or even link to the problem, a change
+    already registered, when clicking on the search field and selec the change
+    you want;
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
-    execução do problema.
+    -   It's also possible to attach files and register notes in this fase of
+    the problem execution.
 
-5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
-    solução do problema e as lições aprendidas com o mesmo, através das
-    seguintes ações:
+5.  In the "Review and closure" area, it'll be allowed to specify the details of
+    the problem solution and lessons learned with it, through the
+    following actions:
 
-    -   Na aba “Revisão”, selecionar a opção referente a finalização com sucesso do
-    problema;
+    -   In the "Review" tab, select the option about the successful closuer of the
+    problem;
 
-    -   Em “Revisão de Problema Grave”, é possível preencher os campos com as ações
-    tomadas para corrigir o problema e as melhorias a serem implantadas para
-    evitar a ocorrência posterior do mesmo, dentre outros;
+    -   In "Serious Problem Review”, it's possible to complete the fields with the actions
+    taken to correct the problem and the improvements to be deployed to
+    to avoid its subsequent occurrence, among others;
 
-    -   Na aba “Simple”, é liberado a criação do quadro Kanban;
+    -   In the “Simple” tab, it's possible the creation of a Kanban;
 
-    -   Em “Lições aprendidas”, ao clicar no botão “Adicionar”, será possível
-    selecionar e vincular um conhecimento para dizimar as instruções a fim
-    facilitar a solução de problemas futuros parecidos.
+    -   In "Lessons learned", when clic in "Add", it'll be possible
+    to select and link a knowledge to decimate the instructions to
+    facilitate the solution of future problems.
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
-    execução do problema.
+    -   It's also possible to attach files and register notes in this phase of the
+    problem execution.
 
-6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
-    tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
-    selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
-    dirigir para próxima fase do fluxo.
+6.  Click on "Operations" and then on "Save and keep current task" to register
+    the execution and not advance the activiy flow or select "Save and advance
+    flow” to close the task and direct it to the next phase of the flow.
     
 Relacionado
 ------------
