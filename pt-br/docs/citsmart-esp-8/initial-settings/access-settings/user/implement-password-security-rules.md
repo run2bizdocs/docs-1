@@ -63,7 +63,7 @@ Procedimento
 !!! Abstract "NOTA"
 
     Para alterar a senha o usuário pode redefinir a senha por dois caminhos
-    diferentes, ver [Cadastrar usuário][1] e [Editar perfil de usuário][2].
+    diferentes, ver [Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html) e [Editar perfil de usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html).
 
 
 !!! tip "About"
@@ -71,6 +71,3 @@ Procedimento
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
-
-[1](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
-[2](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html)
