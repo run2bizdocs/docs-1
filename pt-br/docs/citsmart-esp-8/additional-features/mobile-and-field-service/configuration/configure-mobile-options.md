@@ -70,7 +70,7 @@ campo, deve-se configurar:
 3.  O ticket não aparecerá mais na listagem do técnico.
 
 4.  O atendente/administrador verá em sua listagem de solicitações, o ticket atendido
-    pelo técnico com o status “Resolvido” e ao abrir poderá a visualizar
+    pelo técnico com o status “Resolvido” e ao abrir poderá visualizar
     assinatura colhida também.
 
 
