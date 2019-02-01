@@ -19,17 +19,17 @@ Procedimento
     data/hora do início e final, a descrição da alteração, a recorrência da
     janela de mudança). Existe dois tipos de janela de mudança:
 
--   Manutenção: usado para estabelecer períodos de tempo em que aas mudanças no
+    -   Manutenção: usado para estabelecer períodos de tempo em que aas mudanças no
     IC ocorrerão;
 
--   Blackout: usado para estabelecer períodos de tempo em que as mudanças no IC
+    -   Blackout: usado para estabelecer períodos de tempo em que as mudanças no IC
     não devem ocorrer.
 
-1.  Lembrar que o campo “Global” só deverá ser marcado para janela de mudança do
+5.  Lembrar que o campo “Global” só deverá ser marcado para janela de mudança do
     tipo “Manutenção” já que este campo só deverá ser usado para uma janela de
     manutenção que não possuem IC’s associados.
 
-2.  Clicar no botão “Adicionar” para efetuar a operação.
+6.  Clicar no botão “Adicionar” para efetuar a operação.
 
 !!! tip "About"
 
