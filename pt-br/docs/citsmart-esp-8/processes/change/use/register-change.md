@@ -27,16 +27,6 @@ Procedimento
 Relacionado 
 ---------------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
-
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
-
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
-
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
-
-[Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
-
 [Criar um portfólio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
