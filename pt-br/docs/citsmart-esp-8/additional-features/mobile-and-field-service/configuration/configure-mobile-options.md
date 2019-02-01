@@ -29,7 +29,7 @@ Procedimento
     em sua listagem de solicitações, o atendente/administrador deverá setar o parâmetro 435 para
     a opção “Sim”.
 
-Obter assinatura de atendimento em campo
+Obter assinatura em atendimento de campo
 ----------------------------------------
 
 A opção para que um técnico possa colher assinatura de um validador em
