@@ -9,7 +9,7 @@ Somente os membros do “Comitê Consultivo de Mudança (CCM) podem realizar a a
 Antes de começar
 ----------------
 
-Para aprovar ou não uma mudança é necessária definir que o grupo ao qual o
+Para aprovar ou não uma mudança é necessário definir que o grupo ao qual o
 usuário está cadastrado terá o valor igual a ‘SIM’ para Comitê Consultivo de
 Mudanças.
 
@@ -31,7 +31,7 @@ Procedimento
 
 4.  Para registrar a aprovação ou rejeição, clicar no ícone “Votação” e
     selecionar a opção mais adequada ao seu cenário e discorrer as informações
-    necessárias;
+    essenciais;
 
 5.  Clicar em “Gravar” para efetuar a operação.
 
