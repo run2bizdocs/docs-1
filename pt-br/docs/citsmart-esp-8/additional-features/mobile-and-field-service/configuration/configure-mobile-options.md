@@ -59,18 +59,18 @@ campo, deve-se configurar:
 
 *No mobile*:
 
-1.  Ao capturer um ticket (usando o mobile), o técnico em deve preencher os
+1.  Ao capturar um ticket (usando o mobile), o técnico em deve preencher os
     campos disponibilizados e ao colocar o ticket com status de “Resolvido”, o
     campo de **Assinaturas** ficará ativo para que se possa colcocar o Número do
-    registro, o Nome e a assinatura do validador em campo. Esta assinatura será
+    registro, o Nome e a Assinatura do validador em campo. Esta assinatura será
     feita com o dedo na tela do mobile;
 
 2.  Clicar no botão “Opções” e em seguida em “Gravar e avançar o fluxo”;
 
 3.  O ticket não aparecerá mais na listagem do técnico.
 
-4.  O atendente/administrador verá em sua listagem de solicitações, o ticket atendido
-    pelo técnico com o status “Resolvido” e ao abrir poderá visualizar
+4.  O atendente/administrador verá em sua listagem de solicitações (no CITSmart), o ticket atendido
+    pelo técnico (via mobile) com o status “Resolvido” e ao abrir poderá visualizar
     assinatura colhida também.
 
 
