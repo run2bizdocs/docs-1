@@ -22,7 +22,7 @@ Procedimento
     grupo executor da mudança, os e-mails de notificação, o impacto e urgência
     das mudanças, dentre outras;
 
-6.  Definir o status como “Ativo”;
+6.  Definir o status como “Ativo”;  
 
 7.  Clicar no botão “Gravar” para efetuar a operação.
 
