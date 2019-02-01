@@ -21,7 +21,8 @@ Procedimento
     línguas do CITSmart [português, inglês e espanhol] e selecionar o menu que
     melhor se ajusta à funcionalidade desejada);
 
-4.  Clicar em "Gravar" para efetuar a operação;
+4.  Clicar em "Gravar" para efetuar a operação.
+
 
 !!! Abstract "ATENÇÃO"
 
