@@ -30,7 +30,7 @@ Procedimiento
 Relacionado
 -------
 
-[Rgistrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 [Registrar cargo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/position.html)
 
