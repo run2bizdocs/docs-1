@@ -26,7 +26,7 @@ Procedimento
 
 !!! Abstract "ATENÇÃO"
 
-    Para que o técnico em campo possa visualizar tickets apenas atribuídos a ele
+    Para que o técnico em campo, possa visualizar tickets apenas atribuídos a ele
     em sua listagem de solicitações, o atendente/administrador deverá setar o parâmetro 435 para
     a opção “Sim”.
 
@@ -34,7 +34,7 @@ Procedimento
 
 
 A opção para que um técnico possa colher assinatura de um validador em
-campo, deve-se configurar:
+campo, seguirá a configuração:
 
 *No CITSmart*:
 
@@ -59,7 +59,7 @@ campo, deve-se configurar:
 
 *No mobile*:
 
-1.  Ao capturar um ticket (usando o mobile), o técnico em deve preencher os
+1.  Ao capturar um ticket (usando o mobile), o técnico deve preencher os
     campos disponibilizados e ao colocar o ticket com status de “Resolvido”, o
     campo de **Assinaturas** ficará ativo para que se possa colcocar o Número do
     registro, o Nome e a Assinatura do validador em campo. Esta assinatura será
