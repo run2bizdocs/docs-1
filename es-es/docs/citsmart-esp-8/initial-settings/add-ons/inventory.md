@@ -14,7 +14,7 @@ Procedimiento
 1. Descargar el paquete war del componente EVM;  
 2. Descomprimir los archivos;  
 3. Copiar el paquete a la carpeta de implementación del servidor de aplicaciones Wildfly;  
-4. Configurar las [Propriedades del Sistema][1] con los datos de la instancia CITSmart ESP;
+4. Configurar las [Propriedades del Sistema][1] con los datos de la instancia CITSmart ESP.
 
 Lo que hacer después 
 -------
