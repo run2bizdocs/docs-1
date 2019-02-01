@@ -55,7 +55,7 @@ campo, deve-se configurar:
 
 8.  Configura para a opção “Sim” o campo **Exige assinatura para Mobile**;
 
-9.  Licar em “Gravar”.
+9.  Clicar em “Gravar”.
 
 *No mobile*:
 
@@ -70,8 +70,8 @@ campo, deve-se configurar:
 3.  O ticket não aparecerá mais na listagem do técnico.
 
 4.  O atendente/administrador verá em sua listagem de solicitações, o ticket atendido
-    pelo técnico com o status “Resolvido” e ao abrir poderá visualizar
-    assinatura do validador também.
+    pelo técnico com o status “Resolvido” e ao abrir poderá a visualizar
+    assinatura colhida também.
 
 
 
