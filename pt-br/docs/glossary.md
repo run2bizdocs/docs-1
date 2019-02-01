@@ -3,7 +3,7 @@ Description: Glossário CITsmart
 
 # Glossário
 
-##AcordoBLA
+##AcordoBLABLA
 Documento que descreve o entendimento formal entre duas ou mais entidades. Um acordo não tem laços legais, a não ser quando faz parte de um Contrato.
 
 ##Acordo de Nível de Serviço (ANS)
