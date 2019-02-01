@@ -2,7 +2,7 @@ title:  Gerenciamento de Mudança
 Description: Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e decidir sobre a realização de mudanças propostas
 #Gerenciamento de Mudança
 
-**Apresentação**
+Apresentação
 ----------------
 
 O Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e
@@ -32,27 +32,27 @@ Normal e Mudança Emergencial.
 Uso
 -------
 
--   [Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+-  [Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
--   [Cadastrar uma mudança via template](/pt-br/citsmart-esp-8/processes/change/use/register-change-via-template.html)
+-  [Cadastrar uma mudança via template](/pt-br/citsmart-esp-8/processes/change/use/register-change-via-template.html)
 
--   [Atividades da fase de planejamento da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-planning-activities.html)
+-  [Atividades da fase de planejamento da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-planning-activities.html)
 
--   [Cadastrar o plano de reversão da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-reversion-plan.html)
+-  [Cadastrar o plano de reversão da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-reversion-plan.html)
 
--   [Encerrar a mudança](/pt-br/citsmart-esp-8/processes/change/use/execute-change.html)
+-  [Encerrar a mudança](/pt-br/citsmart-esp-8/processes/change/use/execute-change.html)
 
--   [Relacionar informações a mudança](/pt-br/citsmart-esp-8/processes/change/use/relate-information-to-change.html)
+-  [Relacionar informações a mudança](/pt-br/citsmart-esp-8/processes/change/use/relate-information-to-change.html)
 
--   [Pesquisa avançada de mudanças encerradas](/pt-br/citsmart-esp-8/processes/change/use/advanced-search-for-change.html)
+-  [Pesquisa avançada de mudanças encerradas](/pt-br/citsmart-esp-8/processes/change/use/advanced-search-for-change.html)
 
 -  [Aprovar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-approval.html)
 
 -  [Cancelar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/cancel-change.html)
 
--   [Suspender uma mudança](/pt-br/citsmart-esp-8/processes/change/use/suspend-change.html)
+-  [Suspender uma mudança](/pt-br/citsmart-esp-8/processes/change/use/suspend-change.html)
 
-**Configuração**
+Configuração
 ----------------
 
 -   [Criar um portfolio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
@@ -63,7 +63,7 @@ Uso
 
 -   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
 
-**Relatório**
+Relatório
 -------------
 
 -   [Gerar relatórios – Gerência de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/generate-reports-change-management.html)
