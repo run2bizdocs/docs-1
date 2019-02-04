@@ -26,7 +26,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar uma requisição de mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Cadastrar uma requisição de mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 [Cadastrar uma justificativa de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-justification.html)
 
