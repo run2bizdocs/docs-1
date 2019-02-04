@@ -1,62 +1,60 @@
-title: Relacionar informações ao problema
-Description: É possível vincular ao problema
-#Relacionar informações ao problema 
+title: Relate information to the problem
+Description: It's possible to link to the problem
+#Relate information to the problem 
 
 
-É possível vincular ao Problema uma série de informações, tais como: liberação, conhecimento, serviços relacionados, dentre outros.
+It's possible to link to the Problem a series of information, such as: release, knowledge, services related, and others.
 
-Antes de começar
+Before getting started
 ----------------
 
-O vínculo de informações pode ocorrer em todo o ciclo de vida do Problema, dessa
-forma pode – e deve – ser utilizado a qualquer momento, caso necessário, no
-entanto é imprescindível ter acesso a um Problema.
+The information link can occur throughout the entire lifecycle of the Problem, this
+way, it can - and should - be used at any time, if necessary, however, it's 
+necessary to have access to a Problem.
 
-Procedimento
+Procedure
 ------------
 
-1. Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1. Access the main menu Process \>
+   Problem Management \> Problem;
 
-2.  Para informar os dados complementares do problema, marque a opção de captura
-    ou visualização do problema;
+2.  To informa additional data, select the capture option
+    or problem view;
 
-3.  Para visualizar informações sobre campos específicos, clicar nas guias:
-    **Solicitante**, **Incidentes** e **Problema**;
+3.  To view the information about specific fields, click on the tabs:
+    **Requester**, **Incidents** and **Problem**;
 
-4.  Para vincular Itens de Configuração, clicar na área “IC Relacionado” e em
-    seguida no botão “Pesquisa item de configuração”. Realizar a busca e apertar
-    o botão “Selecionar” para completar a operação. Logo após, é possível ao
-    clicar no ícone “Serviços”, vincular o mesmo ao problema e ao apertar o
-    ícone “Info” será possível visualizar todas as informações do IC vinculado;
+4.  To link Configuration Items, click on "Related CI" and then on "Search
+    Configuration Item". Search and click on "Select" to complete the operation.
+    Therefore, it's possible to click on the "Services" icon, link it ot the same
+    problem and click on the icon "Info", it'll be possible to view all information
+    to the CI linked;
 
-5.  Ao clicar na área “Serviços Relacionados”, será apresentado o serviço
-    relacionado ao problema (se o mesmo já tiver sido vinculado) com algumas
-    ações disponíveis. É disponibilizado a visualização do “Mapa de Serviço” ao
-    clicar no ícone de mesmo nome, e, além disso, é possível observar os “Itens
-    de Configuração” ao clicar no ícone de mesmo nome. Agora, para remover o
-    vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
+5.  Clicking on the "Related Services" area, it'll be presented the service
+    related to the problem (if it has already been linked) with some
+    available actions. The "Service Map" view is displayed by clicking the
+    icon of same name, besides, it's possible to note the "Configuration Items"
+    when click on the icon of same name. Now, to remove the Service link, just
+    click on the icon "Remove" and confirm the operation;
 
-    !!! Abstract "ATENÇÃO"
-        Se não houver nenhum serviço relacionado, é possível vincular um novo
-        serviço ao problema, basta clicar na área de “Serviços Relacionados” e em
-        seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
-        serviço desejado e clicar sobre o mesmo.
+    !!! Abstract "NOTE"
+        If there's any service related, it's possible to link a new service
+        to the problem, just click on "Related Services" area an then on "Add
+        Service”. Therefore, it's necessary to select the service you want and
+        click on it.
 
-6.  Para vincular **Liberação**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
-    quiser cadastrar uma nova liberação, clicar no botão “Cadastrar” e preencher
-    os dados;
+6.  To link **Release**, click on the area of same name, then click on the
+    search field and select the release you want. If you want to register a
+    new release, click on "Register" and complete the data;
 
-7.  Para vincular outros **Problemas**, clicar na área de mesmo nome e em
-    seguida apertar sobre o campo de pesquisa e selecionar o problema desejado.
-    Se desejar criar um novo problema a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
+7.  To link others **Problems**, click on the area of same name and then on
+    the serach field and select the problem you want. If you want to create
+    a new problem to be relate, just click on "Register" and complete the
+    necessary data;
 
-8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar o conhecimento desejado. Se
-    quiser criar um novo conhecimento, clicar no botão “Cadastrar” e preencher
-    os dados necessários.
+8.  To link a **Knowledge**, click on the area of same name, then on the search
+    field and select the knowledge you want. If you want to create a new knowledge,
+    click on "Register" and complete the necessary data.
     
 !!! tip "About"
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
