@@ -67,7 +67,7 @@ Procedimento
         A data final de um projeto é baseada no conjunto de datas finais de suas
         tarefas/subtarefas, sendo que a data fim de cada item pai (tarefa/atividade)
         é atualizada de acordo com as datas finais de seus filhos (subtarefas) para
-        propociar uma análise completa do projeto.
+        propociar uma análise completa do projeto.  
 
  - **Monitoramento/Controle**: Esta aba permite monitorar/controlar as tarefas
     do projeto. Os responsáveis pela atividade, poderão realizer as seguintes
