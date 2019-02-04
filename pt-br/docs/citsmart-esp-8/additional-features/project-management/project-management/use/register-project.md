@@ -34,20 +34,21 @@ Procedimento
 6.  São apresentas abas de configuração do projeto, preencher os campos
     disponibilizados em cada aba. São elas:
     
-      -   **Ponto de Contato**: Definir os colaboradores que serão o ponto focal de
-    informações sobre o projeto.
+-   **Ponto de Contato**: Definir os colaboradores que serão o ponto focal
+    de informações sobre o projeto.
+
 
     !!! Abstract "ATENÇÃO"
 
         Somente poderá ser escalonado um colaborador que estiver ativo no projeto.
 
-    -   **Papéis/Responsabilidades**: Informar os colaboradores responsáveis pela a
+  -   **Papéis/Responsabilidades**: Informar os colaboradores responsáveis pela a
     execução do projeto, definindo seus papéis e responsabilidades dentro do
     escopo do projeto. É possível vincular atribuições já cadastradas ao clicar
     no botão “+Vincular novo recurso” (é permitido a seleção de vários usuários
     para o vínculo) ou criar um novo papel ao apertar o botão “Papéis”.
 
-    -   **Planejamento/Execução**: Definir as tarefas do projeto a serem realizadas
+ -   **Planejamento/Execução**: Definir as tarefas do projeto a serem realizadas
     durante o período estimado de execução. Ao clicar no botão “Criar modelo
     (Tarefa)” será disponibilizado selecionar um modelo de tarefa já existente
     para vinculação ao projeto ou cadastrar uma nova tarefa ao nomear a
@@ -70,12 +71,12 @@ Procedimento
         é atualizada de acordo com as datas finais de seus filhos (subtarefas) para
         propociar uma análise completa do projeto.
 
-    -   **Monitoramento/Controle**: Esta aba permite monitorar/controlar as tarefas
+ -   **Monitoramento/Controle**: Esta aba permite monitorar/controlar as tarefas
     do projeto. Os responsáveis pela atividade, poderão realizer as seguintes
     ações: “Editar tarefa” com as alterações desejadas, “Lançar horas”
     trabalhadas na tarefa e ainda vizualizar as mesmas ao clicar em “Timesheet”.
 
-    -   **Problemas Tècnicos/Administrativos**: Apresenta os incidentes que foram
+ -   **Problemas Tècnicos/Administrativos**: Apresenta os incidentes que foram
     registrados refente ao projeto.  
 
 Relacionado
