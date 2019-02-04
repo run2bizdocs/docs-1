@@ -33,6 +33,8 @@ Procedimento
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
     
+5. Para pesquisar as solicitações relaionadas, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal da funcionalidade.
+    
 !!! Abstract "ATENÇÃO"
 
     As solicitações relacionadas por não possuírem fluxo próprio, são encerradas
