@@ -40,6 +40,16 @@ Procedure
 
     -   Download script attached.
 
+!!! Abstract "ATTENTION"
+
+    The information contained in the content of the email message, the addresses
+    of the sender, recipient and hidden copy of the email that is read and used
+    to register a service request will be collected.
+
+    For this information to be viewed via the Rhino script, the following
+    example is attached.
+
+
 Related
 -------
 
@@ -56,6 +66,8 @@ Attachment
 
 [Download - Verify email][1]
 
+[Download -Script Rhino email data][2]
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
@@ -63,3 +75,5 @@ Attachment
 
 
 [1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
+
+[2]:/en-us/citsmart-esp-8/processes/tickets/images/script-rhino-dados-email.rtf
