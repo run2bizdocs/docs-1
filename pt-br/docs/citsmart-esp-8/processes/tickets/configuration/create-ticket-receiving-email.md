@@ -26,14 +26,13 @@ Procedimento
 *Passo 1*
 
 1.  Acessar a funcionalidade através da navegação do menu principal Sistema \>
-    Ações automáticas \> Ações Incidentes/Requisições (ver
+    Ações automáticas \> Ações Incidentes/Requisições. (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
 *Passo 2*
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
-    Configurações \> Configuração de Ação automática via e-mail (ver
-     Criar ação automática de e-mail).
+    Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações. (ver Criar ação automática de e-mail).
 
 *Passo 3*
 

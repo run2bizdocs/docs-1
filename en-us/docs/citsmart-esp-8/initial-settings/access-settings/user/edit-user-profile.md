@@ -1,29 +1,29 @@
-title: Editar perfil do usuário
-Description: Editar informações sobre o perfil do usuário.
-#Editar perfil do usuário
+title: Edit user profile
+Description: Edit information about the user profile.
+#Edit user profile
 
-Esta funcionalidade tem por objetivo editar informações sobre o perfil do
-usuário.
+This functionality is intended to edit information about the user
+profile.
 
-Antes de começar
+Before getting started
 --------------------
 
-Para a editar o perfil é necessário ter um usuário registrado previamente.
+To edit the profile, it's necessary to have an user already registered.
 
-Procedimento
+Procedure
 ----------------
 
-1.  Acessar a funcionalidade através do menu principal Sistema \> Configurações
-    \> Perfil do usuário;
+1.  Access the main menu System \> Settings
+    \> User profile;
 
-2.  Escolher a(s) opção(ões) a serem editadas;
+2.  Choose the options to be edited;
 
-3.  Clicar em "Salvar".
+3.  Click on "Save".
 
-Relacionado
+Related
 -----------
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
+[Register user](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 

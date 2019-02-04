@@ -1,69 +1,69 @@
-title: Implementar regras de segurança de senha
-Description: Configuração de senhas de uso do sistema, disponibilizando maior nível de segurança com uso de diferentes caracteres.
-#Implementar regras de segurança de senha
+title: Implement password security rules
+Description: Configure passwords of system usage, providing a greater level of security with the usage of different characters.
+#Implement password security rules
 
-Esta funcionalidade retrata a configuração de senhas de uso do sistema,
-disponibilizando maior nível de segurança com uso de diferentes caracteres.
+This functionality portrays the configuration of system usage passwords,
+providing a higher level of security with the usage of different characters.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "NOTE"
 
-     Esta política de segurança não está disponível para usuários LDAP.
+     This security policy is not available for LDAP users.
      
 
-Regras default ao habilitar a Política de Segurança:
+Default rules when enabling Security Policy:
 
--   Tamanho mínimo de 8 caracteres;
+-   Minimum of 8 characters;
 
--   No mínimo uma letra minúscula;
+-   At least one lower case letter;
 
--   No mínimo uma letra maiúscula;
+-   At least one uppercase letter;
 
--   No mínimo um número;
+-   At least a number;
 
--   No mínimo um caracter especial (símbolo)
+-   At least one special character (symbol);
 
--   A senha não pode ser igual as últimas 3 senhas utilizadas;
+-   The password cannot be the same as the last 3 passwords used;
 
--   A senha expira em 3 meses
+-   The password expires in 3 months.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar o menu principal Sistema \> Configurações \> Política de Segurança;
+1.  Access the main menu System \> Settings \> Policy Settings;
 
-2.  Habilitar a chave “Habilitar política de senha”;
+2.  Enable the key "Enable password security policy”;
 
-3.  No campo **Força da senha** o administrador deverá definir o número mínimo
-    de caracteres da senha (valor mínimo de 8) e se a mesma conterá exigências
-    de:letras maiúsculas, minúsculas, números e símbolos;
+3.  In the field **Passord force** the manager must define the minimum number
+    of password characters (minimum value of 8) and it'll cotain requirements of:
+    uppercase letter, lower case, numbers and symbols;
 
-4.  Definir a quantidade de senhas anteriores na qual a nova não poderá ser
-    igual, no limitador **A nova senha não pode ser igual às anteriores**;
+4.  Define the number of previous passwords in which the new one cannot be equal,
+    in the limiter **The new password cannot be the same as the previous ones**;
 
-5.  Para novos usuários a troca de senha poderá ser definida ao clicar na chave
-    “Exigir a troca de senha no primeiro login”
+5.  For new users, the password change can be defined by clicking on the key
+    “Require password change on first login”
 
-6.  No campo **Duração da senha** definir o tempo de expiração da senha;
+6.  In the field **Password expiration** define the time to expire the password;
 
-7.  Para usuários que já estejam em operação é possível forçar a troca de senha
-    da nova configuração, a partir do próximo login, clicar na chave “Forçar
-    troca de senha no próximo login para todos os usuários”;
+7.  For users who are already in operation, it's possible to force the password
+    change of the new configuration, from the next login, click on the key "Force
+    password change at next login for all users"
 
-8.  Clicar em “Salvar”.
+8.  Click on "Save”.
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
 
-    O Sistema notifica o usuário 3 dias antes da expiração da senha atual,
-    fazendo este alerta através de mensangem em caixa de texto que surgirá uma
-    vez ao dia ao realizer o login no Sistema. Depois que a senha estiver
-    expirada, o usuário é enviado automaticamente para a tela de perfil de
-    usuário com painel de troca de senha aberto (somente poderá utilizar o
-    sistema novamente se realizer a troca de senha).
+    The System notifies the user 3 days before the expiration of the current password,
+    making this alert through a message in a text box that will appear
+    once a day when logging in the System. After the password expires,
+    the user is automatically sent to the user profile screen with open
+    password exchange panel (you can only use the system again if you
+    make a password change).
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
 
-    Para alterar a senha o usuário pode redefinir a senha por dois caminhos
-    diferentes, ver [Cadastrar usuário][1] e [Editar perfil de usuário][2].
+    To change the password, the user can reset the password in two different
+    ways, see [Register user][1] and [Edit profile user][2].
 
 
 !!! tip "About"
