@@ -45,6 +45,11 @@ Procedimiento
 
     -   Descargar el guión.
 
+!!! Abstract "ATENCIÓN"
+
+    Se recopilará la información contenida en el contenido del mensaje de correo electrónico, las direcciones del remitente, el      destinatario y la copia oculta del correo electrónico que se lee y se utiliza para registrar una solicitud de servicio.
+    Para que esta información se vea a través de la secuencia de comandos Rhino, sigue el ejemplo adjunto.
+
 
 Relacionado
 -------
@@ -62,11 +67,14 @@ Adjunto
 ------------
 [Download - Comprobar email][1]
 
+[Download -Script Rhino datos del email][2]
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
     
-[1]:/pt-br/citsmart-esp-8/processes/tickets/images/rotina-verificar-email.docx
+[1]:/es-es/citsmart-esp-8/processes/tickets/images/rotina-verificar-email.docx
   
+[2]:/es-es/citsmart-esp-8/processes/tickets/images/script-rhino-dados-email.rtf
