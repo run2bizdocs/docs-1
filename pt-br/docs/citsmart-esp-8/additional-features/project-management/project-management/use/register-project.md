@@ -60,7 +60,7 @@ Procedimento
     base, os dados em vários campos-chaves de tarefas, são capturados e salvos
     como um conjunto numerado de dados de linha de base, para a medida que o
     projeto avança, esteja disponíveis estes dados capturados afim de
-    compara-los asos dados atuais. Para visulizar a listagem dos itens
+    compara-los aos dados atuais. Para visulizar a listagem dos itens
     registrados, clicar em “Visualizar linha de base”.
 
     !!! Abstract "ATENÇÃO"
