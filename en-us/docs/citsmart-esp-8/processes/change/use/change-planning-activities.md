@@ -1,56 +1,52 @@
-title: Atividades da fase de planejamento da mudança
-Description: Permite planejar as atividades a serem executadas junto a mudança 
-#Atividades da fase de planejamento da mudança 
+title: Activities of the change planning phase
+Description: It allows to plan the activities to be executed with the change
+#Activities of the change planning phase 
 
-Esta funcionalidade permite planejar as atividades a serem executadas junto a mudança.
+This functionality allows to planning the activities to be executed with the change.
 
-Antes de começar
+Before getting started
 ----------------
 
-As atividades de Planejamento ocorrem após o cadastro da mudança, sendo assim,
-verifique a existência de uma Mudança e, também, se tem permissão para
-criar/executar atividades.
+The activities of Planning occur after the change registration, therefore,
+check the existence of a Change and also if you are allowed to create/execute
+activities.
 
-Procedimento 
+Procedure 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Planejamento”;
+2.  Find the change you want to plan the activity, click on "Open" and
+    then on "Planning”;
 
-3.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+3.  It'll be possible to create a Kanban to manage activities registered. 
+    Just click on “+Workspace” and complete the data available, for example:
+    title, select the user or group responsible for the task execution, and others.
+    It's also possible to link a framework already created by clicking on the button
+    related to the “Workspace”.
 
-4.  Ainda é possível vincular os projetos, ações, notificações, conhecimentos e
-    anexos de arquivos para detalhar a execução da mudança. Para tanto, é
-    necessário clicar sobre cada aba disponibilizada, selecionar o item desejado
-    para vincula-lo à mudança
+4.  It's still possible to link projects, actions, notifications, knowledge and
+    file attachments to detail the execution of change. To do so, it's necessary
+    to click on each available tab, select the desired item to link it to the change.
 
-    !!! Abstract "NOTA"
-        É disponível a criação do zero de projeto, ao clicar em “Adicionar” e depois
-        na aba “Cadastro”, e registrar o novo item. Partindo do mesmo preceito, é
-        admitido a criação de novas notificações do sistema, ao clicar no botão
-        “Cadastrar”, localizado na aba de mesmo nome.
+    !!! Abstract "NOTE"
+        It's available to create project from zero, by clicking on "Add" and then
+        on the "Registration" tab, and register the new item. Starting from the same
+        precept, notifications of the system, by clicking on "Register", located in the 
+        tab of the same name.
 
-5.  Na aba “Mais” é liberado agendar estas atividades (na opção “Outras
-    informações”) e apontar todas as informações pertinentes na opção
-    “Anotações”.
+5.  In the tab “More”, you are allowed to schedule these activities (in the "Other
+    Information" option) and point all relevant information in the option "Notes".
 
-6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento e não avançar o fluxo da atividade ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fuxo.
+6.  Click on "Options" and then on "Save and maintain current task" to register
+    activities of planning and not advance the activity flow or select "Save and
+    advance flow" to close the task and send it to the next phase of the flow.
 
-Relacionado 
+Related 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Register change](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
