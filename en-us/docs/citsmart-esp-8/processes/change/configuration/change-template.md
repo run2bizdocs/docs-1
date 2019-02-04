@@ -1,31 +1,31 @@
-title: Cadastrar um template de mudança
-Description: Tem por objetivo cadastrar um template para facilitar a abertura de nova mudança
-#Cadastrar um template de mudança
+title: Register template of change
+Description: It's intended to register a template to facilitate the opening of a new change
+#Register template of change
 
-Esta funcionalidade tem por objetivo cadastrar um template para facilitar a abertura de novas mudanças semelhantes entre si.
+This functionality is intended to register a template to facilitate the opening of similar new changes.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Na aba “Cadastro”, preencher os campos necessários (Nome, contrato,
-    solicitante, título, modelo de mudança, descrição, grupo, comitê consultivo
-    de mudança, urgência, impacto, prioridade e selecionar o item de
-    configuração e conhecimento a vincular ao template). Lembrar que existe
-    diferentes tipos de mudança:
+2.  In the tab "Register", complete the necessary data (Name, contract,
+    requester, title, model of change, description, group, change advisory
+    board, urgency, impact, priority and select the configuration item and
+    knowledge to link to the template). Remember that there are different
+    types of change:
 
-    -   **Mudança padrão**: é uma mudança que é previamente pré-aprovada pelo
-    Gerenciamento de Mudança e já possui procedimentos aceitos e estabelecidos;
+    -   **Defaut change**: it's a change that is previously pre-approved by the
+    Change Management and already has accepted and established procedures;
 
-    -   **Mudança normal**: é uma mudança que segue um fluxo normal de avaliação,
-    aprovação e autorização;
+    -   **Normal Change**: it's a change that follows a normal flow of evaluation,
+    approval and authorization;
 
-    -   **Mudança emergencial**: é uma mudança em um serviço que pretende reparar
-    emergencialmente um erro no serviço de TI.
+    -   **Emergency Change**: it's a change in a service that pretends to emergency
+    repair an error in the IT service.
 
-5.  Clicar no botão “Gravar” para efetuar a operação.
+5.  Click on "Save".
 
 !!! tip "About"
 
