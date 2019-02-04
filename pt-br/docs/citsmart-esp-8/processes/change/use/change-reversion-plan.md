@@ -36,7 +36,7 @@ Procedimento
         É disponível a criação de novas notificações do sistema, ao clicar no botão
         “Cadastrar”, localizado na aba de mesmo nome.
 
-5.  É possível apontar todas as informações pertinentes na aba “Anotações”.
+5.  É possível apontar todas as informações pertinentes na aba “Anotações”. 
 
 6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
     tarefa atual” para registar as atividades de planejamento ou selecionar o
