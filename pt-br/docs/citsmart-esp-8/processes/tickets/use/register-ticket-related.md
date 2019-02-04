@@ -33,17 +33,17 @@ Procedimento
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
     
-5. Para pesquisar as solicitações relacionadas, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal da funcionalidade.
+5. Para pesquisar os tickets relacionados, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal da funcionalidade.
     
 !!! Abstract "ATENÇÃO"
 
-    As solicitações relacionadas por não possuírem fluxo próprio, são encerradas
-    automaticamente juntamente com o fechamento da solicitação de origem.
+    Os tickets relacionados por não possuírem fluxo próprio, são encerrados
+    automaticamente juntamente com o fechamento do ticket de origem.
     
 !!! Abstract "ATENÇÃO"
 
-    Independentemente a solicitação pai ser reaberta ou permanecer encerrada,
-    suas solicitaçães relacionadas não poderão ser reabertas, uma vez que não
+    Independentemente de o ticket pai ser reaberto ou permanecer encerrado,
+    seus tickets relacionados não poderão ser reabertos, uma vez que não
     possuem fluxo próprio.
 
 Relacionado
