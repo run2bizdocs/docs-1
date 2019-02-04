@@ -13,7 +13,7 @@ Procedimiento
 
 !!! info "Mantener el sistema siempre en inglés"  
 
-    1. Acceda a la funcionalidad a través del menú principal Parámetro > Parámetros CITSmart:   
+    1. Acceda a la funcionalidad a través del menú principal Parámetro > Parámetros CITSmart;   
     2. Busque el parámetro 275; 
     3. Seleccione "SIM";
     4. Haga clic en "Guardar".
