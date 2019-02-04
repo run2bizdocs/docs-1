@@ -1,33 +1,33 @@
-title: Cadastrar categoria de problema
-Description: Tem por objetivo registrar a categoria de problema.
-#Cadastrar categoria de problema
+title: Register problem category
+Description: It's intende to register problem category.
+#Register problem category
 
-Esta funcionalidade tem por objetivo registrar a categoria de problema que será utilizado para definir toda a configuração do fluxo de trabalho que o problema irá seguir.
+This functionality is intended to register the problem category that will be used to define the entire workflow configuration that the problem will follow.
 
-Antes de começar
+Before getting started
 ----------------
 
-Antes de registar a categoria de problema é necessário definir o fluxo referente
-ao gerenciamento de problema, criar o template de problema e cadastrar o grupo
-executor.
+Before registering the problem category, it's necessary to define the flow related
+to problem management, create the problem template and register the executor
+group.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Categoria Problema;
+1.  Access the main menu Process\>
+    Problem Management \> Problem Category;
 
-2.  Clicar na aba Cadastro e preencher os campos com as informações necessárias
-    (nome, fluxo, grupo executor, template do problema, impacto e urgência);
+2.  Click on the Registration tab and complete the fields with the information necessary
+    (name, flow, executor group, problem template, impact and urgency);
 
-3.  Clicar em “Gravar” para efetuar a operação.
+3.  Click on "Save".
 
 Relacionado 
 ------------
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 !!! tip "About"
 
