@@ -27,6 +27,18 @@ Procedure
 
 4.  Make the changes.
 
+!!! Abstract "RULE"
+
+    After editing the ticket (incident) information, an e-mail will be sent to
+    the applicant notifying on the changes made. If the description is edited,
+    it will be displayed in the e-mail notification, the changes made to the
+    description. This e-mail will only be sent if the parameter "Activate - Send
+    an e-mail when an incident is edited" is activated. The reclassification
+    process includes an implicit delegation to the target Group or Attendant, in
+    earlier versions the user had to: reclassify, capture the activity and
+    delegate to another group.
+
+
 What to do next
 -----------
 
@@ -41,6 +53,8 @@ Related
 [Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 [Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+
+[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
