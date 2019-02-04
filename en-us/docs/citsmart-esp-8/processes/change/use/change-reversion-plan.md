@@ -1,52 +1,48 @@
-title: Cadastrar o plano de reversão da mudança
-Description: Permite cadastrar o plano de reversão 
-#Cadastrar o plano de reversão da mudança
+title: Register reversion plan of change
+Description: It allows to register the reversion plan 
+#Register reversion plan of change
 
-Esta funcionalidade propicia cadastrar o plano de reversão da mudança, que permite que os serviços voltem ao seu estado inicial no caso de insucesso na implementação da alteração.
+This functionality allows to register the reversion plan of change, which allows the services to return to their initial state in case of failure to implement the change.
 
-Antes de começar
+Before getting started
 ----------------
 
-As atividades de Planejamento ocorrem após o cadastro da mudança, sendo assim,
-verifique a existência de uma Mudança e, também, se tem permissão para
-criar/executar atividades.
+Planning activities occur after the change registration, so check the
+existence of a Change and also if you are allowed to create/execute activities.
 
-Procedimento 
+Procedure 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Plano de reversão”;
+2.  Find the change you want to plan the activity, click on "Open" and
+    then on "Reversion plan”;
 
-3.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+3.  It'll be possible to create a Kaban to manage activities registered.
+    Just click on “+Workspace” and complete the data available, for example:
+    title, select the user or group responsible for the task execution, and others.
+    It's also allowed to link a Kaban already created when clicking on the other
+    button related to the “Workspace”.
 
-4.  Ainda é possível vincular ações, notificações, conhecimentos e anexos de
-    arquivos para detalhar a execução da mudança. Para tanto, é necessário
-    clicar sobre na aba disponibilizada, selecionar o item desejado para
-    vincula-lo à mudança
+4.  It's also possible to link actions, notifications, knowledge, and file attachments
+    to detail the execution of the change. To do so, it's necessary to click on the
+    available tab, select the desired item to link it to the change.
 
-    !!! Abstract "NOTA"
-        É disponível a criação de novas notificações do sistema, ao clicar no botão
-        “Cadastrar”, localizado na aba de mesmo nome.
+    !!! Abstract "NOTE"
+        It's possible to create new system notification, by clicking on
+        “Register”, place in the tab of same name.
 
-5.  É possível apontar todas as informações pertinentes na aba “Anotações”.
+5.  It's possible to point all the relevant information in the "Notes" tab.
 
-6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fluxo.  
+6.  Click on "Options" and then on "Save and keep current task to register the
+    planning activities or select "Save and advance flow" to close the task and
+    send it to the next phase of the flow.  
 
-Relacionado 
+Related 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Register change](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
