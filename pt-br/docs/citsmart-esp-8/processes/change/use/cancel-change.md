@@ -7,7 +7,7 @@ Esta funcionalidade permite cancelar a mudança que se tornou inútil ou obsolet
 Antes de começar
 ----------------
 
-É necessário o cadastro prévio da mudança
+É necessário o cadastro prévio da mudança.
 
 Procedimento 
 -------------
