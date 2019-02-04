@@ -29,11 +29,11 @@ Procedimento
         
 !!! Abstract "ATENÇÃO"
     A sub-solicitação tem um fluxo próprio, portanto, não é encerrada juntamente
-    com o fechamento do ticket de origem. Deverá, ser executada e encerrada de
+    com o fechamento do ticket de origem. Deverá, assim sendo, ser executada e encerrada de
     forma autônoma.  
     
 !!! Abstract "ATENÇÃO"
-    A sub-solicitação poderá ser reaberta a qualquer momento,independemente do status da solicitação pai (se está reaberta ou fechada).  
+    A sub-solicitação poderá ser reaberta a qualquer momento, independemente do status da solicitação pai (se está reaberta ou fechada).  
 Relacionado
 -----------
 
