@@ -34,14 +34,13 @@ Procedimento
 6.  São apresentas abas de configuração do projeto, preencher os campos
     disponibilizados em cada aba. São elas:
     
-  - **Ponto de Contato**: Definir os colaboradores que serão o ponto focal
-    de informações sobre o projeto.
+- **Ponto de Contato**: Definir os colaboradores que serão o ponto focal
+    de informações sobre o projeto.  
 
     !!! Abstract "ATENÇÃO"
-
         Somente poderá ser escalonado um colaborador que estiver ativo no projeto.  
 
-  - **Papéis/Responsabilidades**: Informar os colaboradores responsáveis pela a
+- **Papéis/Responsabilidades**: Informar os colaboradores responsáveis pela a
     execução do projeto, definindo seus papéis e responsabilidades dentro do
     escopo do projeto. É possível vincular atribuições já cadastradas ao clicar
     no botão “+Vincular novo recurso” (é permitido a seleção de vários usuários
@@ -68,14 +67,14 @@ Procedimento
         A data final de um projeto é baseada no conjunto de datas finais de suas
         tarefas/subtarefas, sendo que a data fim de cada item pai (tarefa/atividade)
         é atualizada de acordo com as datas finais de seus filhos (subtarefas) para
-        propociar uma análise completa do projeto.
+        propociar uma análise completa do projeto.  
 
  - **Monitoramento/Controle**: Esta aba permite monitorar/controlar as tarefas
     do projeto. Os responsáveis pela atividade, poderão realizer as seguintes
     ações: “Editar tarefa” com as alterações desejadas, “Lançar horas”
     trabalhadas na tarefa e ainda vizualizar as mesmas ao clicar em “Timesheet”.
 
- - **Problemas Tècnicos/Administrativos**: Apresenta os incidentes que foram
+ - **Problemas Técnicos/Administrativos**: Apresenta os incidentes que foram
     registrados refente ao projeto.  
 
 Relacionado
