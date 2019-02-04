@@ -1,20 +1,20 @@
-title: Cadastrar justificativa de problema
-Description: Tem por objetivo registrar as justificativas de problemas que serão utilizadas em outras rotinas do sistema
-#Cadastrar justificativa de problema
+title: Register problem justification
+Description: It's intended to register problem justifications that will be used in other system routines
+#Register problem justification
 
-Esta funcionalidade tem por objetivo registrar as justificativas de problemas que serão utilizadas em outras rotinas do sistema.
+This functionality is intended to register problem justifications that will be used in other system routines.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Justificativa de Problemas;
+1.  Access the main menu Process \>
+    Problem Management \> Problem Justification;
 
-2.  Clicar no botão “Novo” e preencher os campos com as informações necessárias
-    (a descrição, definir a utilização da justificativa para a suspensão do
-    problema e a situação) da nova justificativa de problema;
+2.  Click on "New" and complete the fields with the necessary data
+    (description, define the use of the justification for the suspension of
+     problem and the situation) of the new problem justification;
 
-3.  Clicar no botão “Gravar” para efetuar a operação.
+3.  Click on "Save".
 
 !!! tip "About"
 
