@@ -61,7 +61,7 @@ Configuração
 
 -   [Calendário de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-schedule.html)
 
--   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
+-   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html) 
 
 Relatório
 -------------
