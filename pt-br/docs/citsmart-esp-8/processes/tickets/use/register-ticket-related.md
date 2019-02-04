@@ -40,8 +40,8 @@ Procedimento
     
 !!! Abstract "ATENÇÃO"
 
-    Independemente da solicitação pai ser reaberta ou permanencer encerrada,
-    suas solicitaçães relacionadas não poderam ser reabertas, uma vez que não
+    Independentemente a solicitação pai ser reaberta ou permanecer encerrada,
+    suas solicitaçães relacionadas não poderão ser reabertas, uma vez que não
     possuem fluxo próprio.
 
 Relacionado
