@@ -47,7 +47,8 @@ Procedimiento
 
 !!! Abstract "ATENCIÓN"
 
-    Se recopilará la información contenida en el contenido del mensaje de correo electrónico, las direcciones del remitente, el      destinatario y la copia oculta del correo electrónico que se lee y se utiliza para registrar una solicitud de servicio.
+    Se recopilará la información contenida en el contenido del mensaje de correo electrónico, las direcciones del remitente, el             destinatario y la copia oculta del correo electrónico que se lee y se utiliza para registrar una solicitud de servicio.
+    
     Para que esta información se vea a través de la secuencia de comandos Rhino, sigue el ejemplo adjunto.
 
 
