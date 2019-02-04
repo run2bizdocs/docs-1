@@ -4,7 +4,7 @@ Description: Permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mu
 
 Esta funcionalidade permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudança.
 
-Somente os membros do “Comitê Consultivo de Mudança (CCM) podem realizar a aprovação da mudança. Para aprovar uma mudança deve se atentar na configuração do parâmetro 303 “Votação da RDM utilizando a regra da maioria absoluta (50% + 1) (Valores: “S” ou “N”, Default: “S”), onde o valor “S” define a aprovação da mudança quando há mais de 50% de aprovação do CCM e o valor “N” define a aprovação da mudança quando há 100% de aprovação do CCM.
+Somente os membros do “Comitê Consultivo de Mudança (CCM) podem realizar a aprovação da mudança. Para aprovar uma mudança deve se atentar na configuração do parâmetro 303 “Votação da RDM utilizando a regra da maioria absoluta (50% + 1) (Valores: “S” ou “N”, Default: “S”), onde o valor “S” define a aprovação da mudança quando há mais de 50% de aprovação do CCM e o valor “N” define a aprovação da mudança quando há 100% de aprovação do CCM.  
 
 Antes de começar
 ----------------
