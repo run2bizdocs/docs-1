@@ -76,7 +76,7 @@ Procedimento
     trabalhadas na tarefa e ainda vizualizar as mesmas ao clicar em “Timesheet”.
 
 -   **Problemas Tècnicos/Administrativos**: Apresenta os incidentes que foram
-    registrados refente ao projeto.
+    registrados refente ao projeto.  
 
 Relacionado
 -----------
