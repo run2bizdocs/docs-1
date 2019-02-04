@@ -1,21 +1,21 @@
-title: Cadastrar uma justificativa de mudança
-Description: Tem por objetivo registrar a justificativa de mudança
-#Cadastrar uma justificativa de mudança
+title: Register change justification
+Description: It's intended to regisater the change justification
+#Register change justification
 
-Esta funcionalidade tem por objetivo registrar a justificativa de mudança que será utilizado em outras rotinas do sistema.
+This functionality is intended to registaer the change justification that will be used in others system routines.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Justificativa Requisição Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change Request Justification;
 
-2.  Clicar no botão “Novo”;
+2.  Click on "New”;
 
-3.  Preencher os campos necessários (Descrição, situação e informar se este
-    cadastro adequasse ao motivo de suspensão da requisição);
+3.  Complete the fields necessary (Description, status and inform if this
+    register suits the reason for suspending the request);
 
-4.  Clicar “Gravar” para efetuar a operação.
+4.  Click on "Save".
 
 !!! tip "About"
 
