@@ -1,6 +1,6 @@
 title:  Gerenciamento de Mudança 
 Description: Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e decidir sobre a realização de mudanças propostas
-#Gerenciamento de Mudança
+#Gerenciamento de Mudança  
 
 Apresentação
 ----------------
