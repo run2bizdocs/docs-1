@@ -70,7 +70,7 @@ Relatório
 
 -   [Gerar relatórios pelo painel de gráficos e relatórios – Mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/generate-reports-charts-panel-change.html)
 
--   [Relatórios adicionais de uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-additional reports.html)
+-   [Relatórios adicionais de uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-additional-reports.html)
 
 !!! tip "About"
 
