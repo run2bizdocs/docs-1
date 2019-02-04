@@ -1,32 +1,31 @@
-title: Criar um portfólio de problema
-Description: Tem por objetivo criar um portfólio de problemas
-#Criar um portfólio de problema
+title: Create problem portfolio
+Description: It's intended to create problem portfolio
+#Create problem portfolio
 
 
-Esta funcionalidade tem por objetivo criar um portfólio de problemas a fim de agilizar a criação
-de um novo problema ao agrupar os mesmos por critérios específicos.
+This functionality is intended to create a portfolio of problems in order to speed up the creation
+of a new problem by grouping them by specific criteria.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Portfólio de problema;
+1.  Access the main menu Processes \>
+    Problem Management \> Problem Portfolio;
 
-2.  Clicar no botão “Novo portfólio”;
+2.  Click on "New Portfolio”;
 
-3.  Preencher os campos necessários e adicionar uma imagem para representar o
-    portfólio, se conveniente for;
+3.  Complete the necessary fields and add an image to represent the
+    portfolio, if it's necessary;
 
-4.  Selecionar o portfólio recém-criado e clicar no botão “Avançar “do mesmo;
+4.  Select the portfolio created and click on "Advance";
 
-5.  Apertar o botão “Novo modelo” e preencher os campos disponibilizados, tais
-    como, por exemplo: vincular o fluxo desejado ao portfólio, selecionar o
-    grupo a executar o problema, vincular o contrato, definir o impacto e a
-    urgência, dentre outros;
+5.  Click on "New model" and complete the fields available, for example: link
+    the flow to the portfolio, select the group that will execute the problem,
+    link the contract, define the impact, urgency, and others;
 
-6.  Definir o status como “Ativo”;
+6.  Define the status as "Active”;
 
-7.  Clicar no botão “Gravar” para efetuar a operação.  
+7.  Click on "Save".  
 
 !!! tip "About"
 
