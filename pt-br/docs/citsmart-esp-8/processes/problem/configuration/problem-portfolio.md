@@ -1,5 +1,5 @@
 title: Criar um portfólio de problema
-Description: Tem por objetivo criar um portfólio de problemass
+Description: Tem por objetivo criar um portfólio de problemas
 #Criar um portfólio de problema
 
 
