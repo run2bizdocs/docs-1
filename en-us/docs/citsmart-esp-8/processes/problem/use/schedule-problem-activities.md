@@ -1,37 +1,37 @@
-title: Agendar atividades de problemas
-Description: Permite criar e visualizar agendamento de atividades referente ao problema
-#Agendar atividades de problemas
+title: Schedule problems activities
+Description: It allows to create and view activities schedule about the problem
+#Schedule problems activities
 
-Esta funcionalidade permite criar e visualizar agendamento de atividades referentes ao problema.
+This functionality allows to create and view activities schedule about the problem.
 
-Antes de começar
+Before getting started
 ----------------
 
-Antes de cadastrar uma atividade de problema é necessário criar um problema para
-controlar a incidência dos mesmos ao implementar medidas de gerência e soluções
-de problemas conhecidos. Também é essencial criar os grupos de atividade
-periódica que irão ser os responsáveis por executar as atividades elaboradas.
+Before register a problem activity, it's necessary to create a problem to
+control their incidence by implementing management measures and solutions
+to known problems. It's also essential to create the groups of periodic activity
+that will be responsible to execute the activities elaborated.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Access the main menu Process \>
+    Problem Management \> Problem;
 
-2.  Localizar o problema que deseja suspender, clicar no botão “Mais Opções” e
-    em seguida no botão “Agendar Atividade”;
+2.  Find the problem you want to suspend, click on "More Options" and then on
+    "Schedule Activity”;
 
-3.  Na aba **Criar Agendamento**, informar os dados de cadastro (Grupo de
-    atividades, Orientação técnica, Agendar e Duração estimada);
+3.  In the tab **Create Schedule**, inform the data registered (Group of activities
+    Technical Guidance, Schedule and Estimated duration);
 
-4.  Clicar em “Gravar” para efetuar a operação.
+4.  Click on "Save".
 
-Relacionado
+Related
 ------------
 
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)	
+[Register problem](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)	
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Register periodic activity group](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 
