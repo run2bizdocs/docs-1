@@ -1,5 +1,5 @@
 title: Cadastrar um problema
-Description: Permite registrar os problemas encontrados.
+Description: Permite registrar os problemas.
 #Cadastrar um problema
 
 
