@@ -1,54 +1,50 @@
-title: Encerrar a mudança
-Description: Permite executar a mudança 
-#Encerrar a mudança 
+title: Close change
+Description: It allows to execute the change 
+#Close change 
 
-Esta funcionalidade permite encerrar a mudança, explanando todos os fatos ocorridos no ciclo de vida da mudança, favorecendo assim o reexame e fiscalização da alteração criada a fim de reduzir custos e riscos para a organização.
+This functionality allows to close the change, explaining all the facts that have occurred in the lifecycle of the change, thus favoring the reexamination and inspection of the change created in order to reduce costs and risks for the organization.
 
-Antes de começar
+Before getting started
 ----------------
 
-É imprescindível a pré-existência de uma mudança.
+It's necessary the pre-existence of a change.
 
-Procedimento 
+Procedure 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Plano de reversão”;
+2.  Find the change you want to plan the activity, click on "Open"
+    and then on "Reversion plan”;
 
-3.  Na aba “Revisão”, é preciso selecionar a opção que define se a mudança foi
-    realizada com sucesso;
+3.  In the tab "Review", it's necessary to select the option that defines if the change
+    was successfully done;
 
-4.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+4.  It'll be possible to create a Kaban to manage the activities registered.
+    Just click on “+Workspace” and complete the data available, for example:
+    title, select the user or group responsible for the task execution, and others.
+    It's also allowed to link a Kaban already created by clickin on the other buton
+    related to the “Workspace”.
 
-5.  Ainda é possível vincular incidentes, problemas, lições aprendidas (que são
-    basicamente conhecimentos que dizem respeito a mudança efetuada) e anexos de
-    arquivos para detalhar a execução da mudança. Para tanto, é necessário
-    clicar sobre na aba disponibilizada, selecionar o item desejado para
-    vincula-lo à mudança.
+5.  It's also possible to link incidents, problems, lessons learned (which are
+    knowledge about the change made) and files attachments to detail the change
+    execution. To do so, it's necessary to click on the tab available, select the
+    item you want to link it to the change.
 
-6.  Clicar na aba “Mais” e em seguida “Fechamento” para registar os dados
-    referente a execução da mudança, tais como a categoria de solução, a
-    situação da mudança, dentre outros. Já na mesma aba, porém na opção
-    “Anotações”, é disponibilizado um campo para apontamento de informações
-    pertinentes a esta fase do fluxo.
+6.  Click on the tab "More" and then on "Closure" to register the data about
+    the change execution, for example: solution category, status of change, and others.
+    In the same tab, in the "Notes" option, it's available a field to point information
+    relevant to this phase of the flow.
 
-7.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fluxo.
+7.  Click on "Options" and the on "Save and keep current task" to register the
+    planning activities or select "Save and advance flow" to facilitate the task
+    and send it to the next phase of the flow.
 
-Relacionado 
+Related 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Register change](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
