@@ -26,11 +26,17 @@ Procedimiento
 
 4.  Haga los cambios.
 
+!!! Abstract "ATENCIÓN"
+
+    Al reclasificar un ticket es necesario el llenado del campo **Justificación
+    de la reclasificación** para que quede registrado para todas las personas
+    involucradas en el proceso, las actualizaciones en cuanto a cambios
+    relacionados al mismo.
+
+
 !!! Abstract "REGLA"
 
-    Después de efectuar la modificación de la información del ticket
-    (incidente), se enviará un e-mail al solicitante notificando el cambio. Si
-    este cambio es en la descripción del ticket, se mostrará en el correo
+    Si cambio es en la descripción del ticket, se mostrará en el correo
     electrónico de notificación (en destaque) el cambio en la descripción.
     Recordar que este correo electrónico de notificación sólo se enviará si ha
     habilitado el envío del mismo en el parámetro "231 - Habilitar el envío de
