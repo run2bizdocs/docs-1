@@ -34,8 +34,6 @@ Uso
 Configuração
 ----------------
 
--   [Cadastrar categoria de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
-
 -   [Cadastrar justificativa de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
 
 -   [Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html)
