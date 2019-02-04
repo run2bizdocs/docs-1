@@ -25,11 +25,17 @@ Procedimento
 
 4.  Fazer as modificações.
 
+!!! Abstract "ATENÇÃO"
+
+    Ao reclassificar um ticket é necessário o preenchimento do campo
+    **Justificativa da reclassificação** para que fique registrado para todas as
+    pessoas envolvidas no processo, as atualizações quanto a mudanças
+    relacionadas ao mesmo.
+
+
 !!! Abstract "REGRA"
 
-    Após efetuar a alteração das informações do ticket (incidente), será
-    enviado um e-mail para o solicitante notificando sobre a alteração feita. Se
-    essa alteração for na descrição do ticket, será apresentado no e-mail de
+    Se a alteração for na descrição do ticket, será apresentado no e-mail de
     notificação (em destaque) a alteração feita na descrição. Lembrando que esse
     e-mail de notificação somente será enviado caso tenha habilitado o envio do
     mesmo no parâmetro "231 - Ativar envio de e-mail quando for editado um
