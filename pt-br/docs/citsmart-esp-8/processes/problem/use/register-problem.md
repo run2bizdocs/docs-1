@@ -46,21 +46,6 @@ Procedimento
 
 Relacionado
 ------------
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
-
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
-
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
-
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
-
-[Cadastrar categoria de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
-
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
-
-[Como relacionar unidade ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
-
-[Como relacionar grupo ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 [Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html) 
 
