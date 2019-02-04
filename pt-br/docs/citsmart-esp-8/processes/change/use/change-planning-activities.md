@@ -9,7 +9,7 @@ Antes de começar
 
 As atividades de Planejamento ocorrem após o cadastro da mudança, sendo assim,
 verifique a existência de uma Mudança e, também, se tem permissão para
-criar/executar atividades.
+criar/executar atividades.  
 
 Procedimento 
 -------------

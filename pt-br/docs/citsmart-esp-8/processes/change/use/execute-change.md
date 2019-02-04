@@ -7,7 +7,7 @@ Esta funcionalidade permite encerrar a mudança, explanando todos os fatos ocorr
 Antes de começar
 ----------------
 
-É imprescindível a pré-existência de uma mudança.
+É imprescindível a pré-existência de uma mudança.  
 
 Procedimento 
 -------------
