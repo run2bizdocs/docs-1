@@ -25,6 +25,20 @@ Procedimento
 
 4.  Fazer as modificações.
 
+!!! Abstract "REGRA"
+
+    Após efetuar a alteração das informações do ticket (incidente), será
+    enviado um e-mail para o solicitante notificando sobre a alteração feita. Se
+    essa alteração for na descrição do ticket, será apresentado no e-mail de
+    notificação (em destaque) a alteração feita na descrição. Lembrando que esse
+    e-mail de notificação somente será enviado caso tenha habilitado o envio do
+    mesmo no parâmetro "231 - Ativar envio de e-mail quando for editado um
+    incidente (S ou N - Default: S)".  A reclassificação inclui uma delegação
+    implícita para o Grupo ou Atendente destino, em versões anteriores, o
+    usuário tinha que: reclassificar, capturar a atividade e delegar a outro
+    grupo.
+
+
 O que fazer a seguir
 --------------------
 
@@ -38,6 +52,8 @@ Relacionado
 [Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+
+[Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
