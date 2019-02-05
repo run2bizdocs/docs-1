@@ -177,19 +177,19 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
     create user citsmartdbuser with password 'exemple123';
     ```
 
-<message CREATE ROLE>
+    <message CREATE ROLE>
 
     ``` sh
     create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
     ```
 
-<mensagem CREATE DATABASE>
+    <mensagem CREATE DATABASE>
 
     ``` sh
     alter role citsmartdbuser superuser;
     ```
 
-<mensagem ALTER ROLE>
+    <mensagem ALTER ROLE>
 
     ``` sh
     \q
