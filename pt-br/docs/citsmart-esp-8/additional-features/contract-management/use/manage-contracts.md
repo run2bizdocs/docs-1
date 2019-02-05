@@ -470,7 +470,7 @@ Relacionado
 
 [Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Definir modelos de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 [Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
