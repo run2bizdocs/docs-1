@@ -13,13 +13,13 @@ Procedimento
     necessários. Ao informar as opções da fórmula é preciso lembrar a finalidade
     de cada variável disponível para descrever a fórmula:
 
-|  **Variavéis**  |    **Descrição**   |                                                                  **Propósito**                                                                  |
-|:---------------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-|      vValor     |        Valor       |                            Permite que o usuário informe um valor que será utilizado no cálculo do valor da atividade                           |
-|    vDiasUteis   |     Dias úteis     |    Permite o retorno da quantidade de dias úteis entre a data inicial e a data final da ordem de serviço com base no calendário do contrato.    |
-|  vDiasCorridos  |    Dias corridos   |                                    Quantidade de dias entre a data inicial a data final da ordem de serviço.                                    |
-| vNumeroUsuarios | Número de usuários |                                             Permite retornar o número de usuários ativos no Sistema.                                            |
-|  vComplexidade  |    Complexidade    | Com base na complexidade escolhida pelo usuário, o Sistema irá retornar o seu valor correspondente informado na tela de cadastro do contrato  . |
+    |  **Variavéis**  |    **Descrição**   |                                                                  **Propósito**                                                                  |
+    |:---------------:|:------------------:|:-------------------------------------------------------------------------------------------     ----------------------------------------------------:|
+    |      vValor     |        Valor       |                            Permite que o usuário informe um valor que será utilizado no     cálculo do valor da atividade                           |
+    |    vDiasUteis   |     Dias úteis     |    Permite o retorno da quantidade de dias úteis entre a data inicial e a data final da   ordem de serviço com base no calendário do contrato.    |
+    |  vDiasCorridos  |    Dias corridos   |                                    Quantidade de dias entre a data inicial a data final da ordem de serviço.                                    |
+    | vNumeroUsuarios | Número de usuários |                                             Permite retornar o número de usuários ativos no Sistema.                                            |
+    |  vComplexidade  |    Complexidade    | Com base na complexidade escolhida pelo usuário, o Sistema irá retornar o seu valor correspondente informado na tela de cadastro do contrato  . |
 
 3.  Após descrever a fórmula, clicar no botão "Visualizar Fórmula". Este botão
     representa a validação da fórmula e onde é apresentado o processo do
