@@ -6,7 +6,7 @@ Algumas configurações podem ser tomadas para alterar a exibição padrão dos 
 
 ## Procedimento
 
-**Alterar a marca do cabeçalho dos relatórios exportáveis**
+*Alterar a marca do cabeçalho dos relatórios exportáveis*
 
 1. Acessar o menu principal Parametrização > Parâmetros CITSmart > 36;
 2. Alterar o valor, indicando o caminho da pasta com a imagem;
@@ -15,9 +15,9 @@ Algumas configurações podem ser tomadas para alterar a exibição padrão dos 
     /citsmart/images/logo/logo-header.png
     ```
 	
-3. Salvar;
+3. Salvar.
 
-**Alterar a profundidade das pesquisas de Ticket (somente no relatório "Pesquisar Incidente/Solicitação")**
+*Alterar a profundidade das pesquisas de Ticket (somente no relatório "Pesquisar Incidente/Solicitação")*
     
 1. Acessar o menu Parametrização > Parâmetros CITSmart > 343;
 2. Alterar o valor indicando se a pesquisa é feita no contexto geral (NÃO) ou no contexto de grupo (SIM);
