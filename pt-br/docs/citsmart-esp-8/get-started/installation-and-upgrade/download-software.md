@@ -1,10 +1,6 @@
 Title: Download e software
 
-# Download e software
-
-
-Software e Download
------------------------
+# Software e Donwload
 
 !!! info "ATENÇÃO"
 
