@@ -110,24 +110,25 @@ Procedimiento para vincular SLA específico al servicio del contrato
 
 4-  Completar los campos necesarios con las siguientes recomendaciones:
 
-    -   Si se informa el tipo de acuerdo como **Disponibilidad**, además de los
-        campos generales, será necesario informar el índice de disponibilidad,
-        es decir, definir el porcentaje de disponibilidad del servicio;
+   -   Si se informa el tipo de acuerdo como **Disponibilidad**, además de los
+       campos generales, será necesario informar el índice de disponibilidad,
+       es decir, definir el porcentaje de disponibilidad del servicio;
 
-    -   Si se informa el tipo de acuerdo como** Fallas repetitivas**, además de
-        los campos generales, será necesario informar la cantidad de glosas y el
-        porcentaje de descuento. Recordar que es posible informar otros datos
-        del acuerdo de servicio por fallas repetitivas al hacer clic en el
-        icono "+";
+   -   Si se informa el tipo de acuerdo como** Fallas repetitivas**, además de
+       los campos generales, será necesario informar la cantidad de glosas y el
+       porcentaje de descuento. Recordar que es posible informar otros datos
+       del acuerdo de servicio por fallas repetitivas al hacer clic en el
+       icono "+";
 
-    -   Si se informa el tipo de acuerdo como **OS - Resultados esperados**,
-        además de los campos generales, será necesario informar los datos de
-        resultados esperados y los niveles de calidad exigidos (resultados
-        esperados, límites, glosa y límite de la glosa);
+   -   Si se informa el tipo de acuerdo como **OS - Resultados esperados**,
+       además de los campos generales, será necesario informar los datos de
+       resultados esperados y los niveles de calidad exigidos (resultados
+       esperados, límites, glosa y límite de la glosa);
 
-    -   Si se informa el tipo de acuerdo como** Tiempo (fases)**, además de los
-        campos generales, será necesario definir los plazos de SLA (acuerdo de
-        nivel de servicio), teniendo en cuenta la prioridad.
+   -   Si se informa el tipo de acuerdo como** Tiempo (fases)**, además de los
+       campos generales, será necesario definir los plazos de SLA (acuerdo de
+       nivel de servicio), teniendo en cuenta la prioridad.
+
 
 !!! Abstract "ATENCIÓN"
 
