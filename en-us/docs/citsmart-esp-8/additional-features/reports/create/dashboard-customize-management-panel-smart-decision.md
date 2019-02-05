@@ -39,7 +39,7 @@ Procedure
 
     + *Quick Access*:
 
-      +   Click on *Links*:
+        +   Click on *Links*:
 
             +   Click on the “Edit widget configuration” icon about the *Links* box;
 
@@ -53,7 +53,7 @@ Procedure
 
     + *Smart Report*:
 
-      + choose the type of report that will be in the management panel.
+        + choose the type of report that will be in the management panel.
 
     + *Widgets*:
 
