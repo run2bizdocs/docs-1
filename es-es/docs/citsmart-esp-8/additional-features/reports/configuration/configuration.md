@@ -6,7 +6,7 @@ Algunas configuraciones se pueden tomar para cambiar la exhibición predetermina
 
 ## Procedimiento
 
-**Cambiar la marca de encabezado de los informes exportables**
+*Cambiar la marca de encabezado de los informes exportables*
 
 1. Acceder al menú principal Parametrización > Parámetros CITSmart > 36;
 2. Cambiar el valor, indicando el camino de la carpeta con la imagen;
@@ -15,9 +15,9 @@ Algunas configuraciones se pueden tomar para cambiar la exhibición predetermina
     /citsmart/images/logo/logo-header.png
     ```
 	
-3. Guardar;
+3. Guardar.
 
-**Cambiar la profundidad de las búsquedas de Ticket (sólo en el informe "Buscar Incidente/Solicitud")**
+*Cambiar la profundidad de las búsquedas de Ticket (sólo en el informe "Buscar Incidente/Solicitud")*
     
 1. Acceder al menú principal Parametrización > Parámetros CITSmart > 343;
 2. Cambiar el valor que indica si la búsqueda se realiza en el contexto general (NO) o en el contexto de grupo (SÍ);
