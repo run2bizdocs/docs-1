@@ -47,7 +47,7 @@ Procedure
     status of the ticket to "Solved", just click on the situation to change.
     Also inform the data on the solution performed:
     
--   If the ticket type is Incident or Incident, complete the required fields
+    -   If the ticket type is Incident or Incident, complete the required fields
     (Cause, Solution Category, Cause Detail, Response Solution, Set whether the
     "Answer Solution" in the Knowledge Base and whether the solution is
     temporary). If you chose to "Save the Solution/Response in the Knowledge
