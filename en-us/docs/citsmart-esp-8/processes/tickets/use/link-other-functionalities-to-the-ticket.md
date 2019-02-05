@@ -70,11 +70,11 @@ Related
 
 [Create knowledge](/en-us/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Register request of change
+[Register change](/en-us/citsmart-esp-8/processes/change/use/register-change.html)
 
 [Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-Register problem
+[Register problem](/en-us/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 [Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
