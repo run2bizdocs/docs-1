@@ -18,39 +18,39 @@ occurrence and the notification e-mail template ID in parameter 251.
 Procedure
 -------------
 
-1-  Access the functionality Ticket Management through the main menu Processes
+1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2-  Click on the ticket you want and then on the icon “Open”;
+2.  Click on the ticket you want and then on the icon “Open”;
 
-3-  In "Execution", click on "Add note" and report the occurrence referring to
+3.  In "Execution", click on "Add note" and report the occurrence referring to
     the ticket and the date that it happened. It's also possible to save the
     time taken to solve the problem. It's available the visualization of this
     report by the requester and the sending of the same to his/her email by
     selecting the options "Visible to the requester" and "Send to e-mail".
 
-!!! Abstract "NOTE"  
+    !!! Abstract "NOTE"  
 
-    There is another way to register some occurrence related to the
-    ticket. Just click on the icon  “Add note”, located in the upper right
-    corner of the screen and complete the fields as the guidance above.  
-    Occurrences registrations and their possible solution will be available
-    for review by the requester (only if the executor marks the "Visible to the
-    requester" option) on the occurrence history tab within the Smart Portal "My
-    Requests" functionality.
+        There is another way to register some occurrence related to the
+        ticket. Just click on the icon  “Add note”, located in the upper right
+        corner of the screen and complete the fields as the guidance above.  
+        
+        Occurrences registrations and their possible solution will be available
+        for review by the requester (only if the executor marks the "Visible to the
+        requester" option) on the occurrence history tab within the Smart Portal "My
+        Requests" functionality.
  
-
-4-  Occurrence history is available by clicking the icon “History”. All
+4.  Occurrence history is available by clicking the icon “History”. All
     occurrences of the request will be presented in the "Ticket" tab and all the
     communications between the requester and executor made by "Chat" mode in the
     tab of the same name.
 
-!!! Abstract "NOTE"  
+    !!! Abstract "NOTE"  
 
-    To present the communications made by the "Chat", in the occurrence
-    history, it must be enabled.  
+        To present the communications made by the "Chat", in the occurrence
+        history, it must be enabled.  
  
-5-  It's possible to send a message from the executor of the ticket to the
+5.  It's possible to send a message from the executor of the ticket to the
     requester of the ticket, just click on the icon “Message to the requester” ,
     describe the communication and mark if you want this content to be sent to
     the requester's email. This message will be available in the area of the
