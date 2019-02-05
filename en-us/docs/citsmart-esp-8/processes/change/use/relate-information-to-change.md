@@ -1,74 +1,67 @@
-title: Relacionar informações a mudança
-Description: Permite vincular a Mudança uma série de informações
-#Relacionar informações a mudança 
+title: Relate information to the change
+Description: It allows to link the Change to a series of information
+#Relate information to the change
 
-É possível vincular a Mudança uma série de informações, tais como: liberação, conhecimento, problema, dentro outros, no intuito de solidificar e embasar a execução do processo.
+It's possible to link the Change to a series of information, such as: release, knowledge, problems and others, in order to solidify and support the execution of the process.
 
-Antes de começar
+Before getting started
 ----------------
 
-O vínculo de informações pode ocorrer em todo o ciclo de vida da Mudança, dessa
-forma pode – e deve – ser utilizado a qualquer momento, caso necessário. No
-entanto, é preciso ter acesso a uma Mudança.
+The information link can occur throughout the entire lifecycle of the Change, so
+it can - and should - be used at any time, if necessary. However,
+you must have access to a Change.
 
-Procedimento 
+Procedure
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Para informar os dados complementares da mudança, marque a opção de captura
-    ou visualização da mudança;
+2.  To inform the additional data of the change, select the option of capture
+    or view the change;
 
-3.  Para vincular **Itens de Configuração**, clicar na área “IC Relacionado” e em
-    seguida no botão “pesquisa item de configuração”. Realizar a busca e apertar
-    o botão “Selecionar” para completar o vínculo. Logo após, é possível ao clicar no
-    ícone “Serviços”, vincular o mesmo a mudança e ao apertar o ícone “Alterar”,
-    modificar o IC já registrado;
+3.  To link **Configuration Items**, click on "CI Related" and then on "search configuration
+    item". Search and click on "Select" to complete the link. Therefore, it's possible to
+    click on the icon "Services", link it to the change and click on the icon "Chonge",
+    modify the CI already registered;
 
-4.  Clicar na área **“Serviços Relacionados”** e em seguida no botão “Adicionar
-    Serviço” a fim de buscar e selecionar um serviço a ser vinculado a mudança;
+4.  Click on the area **“Related Services”** and then on "Add Service" in order to
+    search and select a service to be linked to the change;
 
-5.  A próxima área, diz respeito ao tipo de análise de impacto e risco da
-    mudança. Será necessário apertar sobre a mesma e preencher os campos
-    disponibilizados.
+5.  The next area is about the type oh impact analysis and change risk. It'll be
+    necessary to click on it and complete the fields available.
 
-    !!! Abstract "ATENÇÃO"
-        O tipo de análise de impacto e risco (simplificado ou completa) é definida
-        durante o cadastro do portfólio de mudança, o que permite a flexibilização
-        da escolha de análise por parte do usuário, que deverá descrever sua
-        investigação de acordo com o seu cenário específico.
+    !!! Abstract "NOTE"
+        The type of impact and risk analysis (simplified or complete) is defined
+        during the registration of the portfolio of change, which allows flexibility
+        in the user's choice of analysis, which should describe their
+        investigation according to their specific scenario.
 
-6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
-    item desejado para vincula-lo a mudança;
+6.  To link a **Questionnaire**, click on the area of same name and select the item
+    you want to link it to the change;
 
-7.  Ao clicar em **“Papéis e responsabilidades”**, será disponibilizado campos para
-    inserir os colaboradores e suas funções na execução da mudança;
+7.  When clicking on **“Roles and responsibilities”**, it'll be available the fields to
+    enter the employee and its functions in the change execution;
 
-8.  Para vincular uma **Liberação**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
-    preferir cadastrar uma nova liberação, clicar no botão “Cadastrar” e
-    preencher os dados;
+8.  To link a **Release**, click on the area of same name and then on the search field
+    and select the release you want. If you want to register a new release, click
+    on "Register" and then complete the data;
 
-9.  Para vincular **Problemas**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
-    desejar criar um novo problema a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
+9.  To link **Problems**, click on the area of same name and then on the search field
+    and select the problem you want. If you want to create a new problem to be related,
+    just click on "Register" and complete the necessary data;
 
-10.  Para vincular um **Conhecimento**, clicar na área de “Base de conhecimento”
-    e em seguida apertar sobre o campo de pesquisa e selecionar o conhecimento
-    desejado. Se quiser criar um novo conhecimento, clicar no botão “Cadastrar”
-    e preencher os dados necessários;
+10. To link a **Knowledge**, click on the area "Knowledge Base” and then on the search
+    field and select the knowledge you want. If you want to create a new knowledge,
+    click on "Register" and complete the necessary data;
 
-11.  Para vincular **Incidentes/Requisiões**, clicar na área de mesmo nome e em
-    seguida apertar sobre o campo de pesquisa e selecionar o ticket desejado. Se
-    desejar criar um novo incidente a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
+11. To link **Incidents/Requests**, click on the area of same name and then click on
+    the search field and select the ticket you want. If you want to create a new
+    incident to be related, just click on "Register" and complete the necessary data;
 
-12.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
-    tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
-    selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
-    dirigir para próxima fase do fluxo.
+12. Click on "Options" and then on "Save and keep the current task" to register the execution
+    and not advance the activity flow, or select "Save and advance flow" to close the task
+    and send it to the next phase of the flow.
     
 !!! tip "About"
 
