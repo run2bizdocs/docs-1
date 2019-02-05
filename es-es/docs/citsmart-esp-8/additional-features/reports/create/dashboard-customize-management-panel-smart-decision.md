@@ -36,12 +36,13 @@ Procedimiento
 
 *Insertar elementos manualment*
 
-1-  Para agregar elementos como enlaces, informes inteligentes o widgets, haga
-    clic en el icono "Activar el modo de edición" y después en "Añadir nuevo widget":
+1.  Para agregar elementos como enlaces, informes inteligentes o widgets, haga
+    clic en el icono "Activar el modo de edición" y después en "Añadir nuevo
+    widget":
 
-   +  *Acceso Rápido*:
+    +  *Acceso Rápido*:
 
-      +   Haga clic en *Links*;
+       +   Haga clic en *Links*;
 
              +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
 
@@ -52,18 +53,18 @@ Procedimiento
 
              +   Clicar em "Aplicar".
 
-   +   *Informes Smart*:
+    +   *Informes Smart*:
 
-       +   elegir el tipo de informe que se quedará en el panel gerencial.
+        +   elegir el tipo de informe que se quedará en el panel gerencial.
 
-   +   *Widgets*:
+    +   *Widgets*:
 
-       +   elegir el tipo de widget que se quedará en el panel gerencial.
+        +   elegir el tipo de widget que se quedará en el panel gerencial.
 
-2-  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
+2.  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
     el icono "Guardar los cambios";
 
-3-  Para deshacer los cambios, haga clic en el icono "Deshacer los cambios".
+3.  Para deshacer los cambios, haga clic en el icono "Deshacer los cambios".
 
 
 
