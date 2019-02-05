@@ -15,35 +15,34 @@ ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através do menu inicial do Smart Portal, clicar no
+1.  Acessar a funcionalidade através do menu inicial do Smart Portal, clicar no
     botão de menu  e logo após clicar em "Minhas Solicitações";
 
-2-  Para trocar mensagens com o atendente da solicitação, basta clicar no
+2.  Para trocar mensagens com o atendente da solicitação, basta clicar no
     ícone “Mensagem ao atendente” . O Atendente receberá o comunicado na área de
     trabalho do ticket, onde o mesmo cadastrará a resposta da Nota. Esta
     resposta estará disponível ao clicar novamente neste mesmo ícone.
 
-!!! Abstract "AVISO"  
+    !!! Abstract "AVISO"  
 
-    Para o correto funcionamento desta aplicação é necessário que os
-    parâmetros 299 e 300 (referentes ao Smart Portal) estejam setados em "S".
+        Para o correto funcionamento desta aplicação é necessário que os
+        parâmetros 299 e 300 (referentes ao Smart Portal) estejam setados em "S".
 
-3-  Para tecer algum comentário referente a solicitação ou relatar alguma
+3.  Para tecer algum comentário referente a solicitação ou relatar alguma
     ocorrência sobre a mesma, apertar no ícone “Adicionar nota”. O Atendente
     receberá o comunicado na área de trabalho do ticket, onde poderá dirimir
     qualquer questão relacionado a solicitação.
 
-4-  Para visualizar o histórico da solicitação, basta clicar no
+4.  Para visualizar o histórico da solicitação, basta clicar no
     ícone “Histórico”;
 
-5-  Por esta interface, também é possível visualizar a descrição, os eventuais
+5.  Por esta interface, também é possível visualizar a descrição, os eventuais
     arquivos anexados a solicitação, dentre outras ações.
 
 Relacionado
 ---------------
 
 [Configurar parametrização - Smart Portal](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
-
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
