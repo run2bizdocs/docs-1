@@ -1,25 +1,25 @@
-title: Visão geral (Neuro)  
+title: Visión general (Neuro)  
 
-description: conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!  
+description: conecta datos, soluciones y personas, capacitando departamentos y empresas. Es una plataforma de automatización de procesos de negocio ágil y sin complicaciones. Permite la personalización e integración rápida con otras aplicaciones, ya sean legados o desarrollados internamente. NEURO también es CODELESS!  
 
 #NEURO   
 
-##Visão geral   
+##Visión general   
 
-O CITSmart Neuro conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!
+CITSmart Neuro conecta datos, soluciones y personas, capacitando departamentos y empresas. Es una plataforma de automatización de procesos de negocio ágil y sin complicaciones. Permite la personalización e integración rápida con otras aplicaciones, ya sean legados o desarrollados internamente. NEURO también es CODELESS!
 
-Com o Neuro, podemos criar fluxos de trabalho automatizados em minutos, eliminando erros devido a entradas manuais durante a operação em um ambiente seguro.  
+Con Neuro, podemos crear flujos de trabajo automatizados en minutos, eliminando errores debido a entradas manuales durante la operación en un ambiente seguro.  
 
--   Personalização rápida  
--   Intercambiável
--   Integração inteligente
--   Cria e projeta fluxos de trabalho automatizados
--   Reduz riscos
--   Elimina dados incorretos
+-   Personalización rápida  
+-   Intercambiable
+-   Integración inteligente
+-   Crear y proyectar flujos de trabajo automatizados
+-   Reducir riesgos
+-   Eliminar datos incorrectos
 
-##Por que adotá-lo? 
+##¿Por qué adoptarlo? 
 
-O desenvolvimento de aplicações pode muitas vezes ser lento e caro, além de expor um alto risco ao negócio. O CITSmart Neuro apresenta uma dinâmica inteligente de automação de processos de negócio e construção de telas com recursos de drag and drop, ou seja, pode-se arrastar elementos pré-definidos para criar as telas de forma flexível, segura e ágil. Além disso, possui um altíssimo nível de interoperabilidade, permitindo integrar sua nova aplicação com qualquer outro sistema legado. Como as regras do negócio dessas aplicações mudam constantemente nas organizações/sistemas, a solução está preparada para trabalhar com o dinamismo que o negócio exige, essas regras de negócio são criadas de forma prática e podem ser reutilizadas, evitando desperdícios.  
+El desarrollo de aplicaciones puede ser lento y caro, además de exponer un alto riesgo al negocio. CITSmart Neuro presenta una dinámica inteligente de automatización de procesos de negocio y construcción de pantallas con recursos de drag y drop, o sea, se pueden arrastrar elementos predefinidos para crear las pantallas de forma flexible, segura y ágil. Además, posee un altísimo nivel de interoperabilidad, permitiendo integrar su nueva aplicación con cualquier otro sistema legado. Como las reglas del negocio de estas aplicaciones cambian constantemente en las organizaciones/sistemas, la solución está preparada para trabajar con el dinamismo que el negocio exige, esas reglas de negocio se crean de forma práctica y pueden ser reutilizadas, evitando desperdicios.  
 
 !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior
