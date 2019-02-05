@@ -12,25 +12,25 @@ Antes de começar
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através do menu Sistema \> Configurações \> Portal
+1.  Acessar a funcionalidade através do menu Sistema \> Configurações \> Portal
     do Conhecimento \> Configurações de Filtro do Portal do Conhecimento;
 
-2-  É necessário disponibilizar que o filtro do Portal do conhecimento seja
+2.  É necessário disponibilizar que o filtro do Portal do conhecimento seja
     realizado por tags, podendo também ordenar em que posição de importância a
     tag terá no fornecimento dos resultados da pesquisa;
 
-3-  Para criar um tag e vinculá-la a um conhecimento, é necessário acessar a
+3.  Para criar um tag e vinculá-la a um conhecimento, é necessário acessar a
     funcionalidade através do menu Processos \> Gerência de Conhecimento \>
     Gerenciamento de Conhecimento e em seguida, ao cadastrar o conhecimento,
     definir e registrar as tags no campo "Tags" para auxiliar no sucesso da
     busca deste artigo;
 
-!!! Abstract "ATENÇÃO"  
+    !!! Abstract "ATENÇÃO"  
 
-    Todos os conhecimentos cadastrados que possuem as mesmas tags serão
-    expostos na mesma pesquisa.
+        Todos os conhecimentos cadastrados que possuem as mesmas tags serão
+        expostos na mesma pesquisa.
 
-4-  Para pesquisar conhecimentos por suas tags, basta acessar o Portal de
+4.  Para pesquisar conhecimentos por suas tags, basta acessar o Portal de
     Conhecimento ou Guia do Usuário e pesquisar o artigo pela palavra chave que
     expresse o conceito daquilo que pretende encontrar. O sistema informá os
     documentos que tenham registrados a tag procurada.
