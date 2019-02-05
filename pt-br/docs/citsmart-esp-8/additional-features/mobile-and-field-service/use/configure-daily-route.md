@@ -27,7 +27,7 @@ Procedimento
     -   Selecionar as solicitações que serão atendidas pelo técnico e informar a
         prioridade do atendimento das solicitações;
 
-    -   No campo** **"**Data de execução**", informar a data prevista para
+    -   No campo "**Data de execução**", informar a data prevista para
         execução das solicitações;
 
     -   Após selecionar as solicitações, será apresentado no mapa os marcadores
