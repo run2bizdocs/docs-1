@@ -6,12 +6,12 @@ Description: Permite registrar los grupos de suscripción que serán impresos en
 Esta funcionalidad permite registrar los grupos de suscripción que serán
 impresos en los informes.
 
-**Antes de empezar**
+Antes de empezar
 --------------------
 
 Es necesario registrar anteriormente la suscripción del colaborador.
 
-**Procedimiento**
+Procedimiento
 -----------------
 
 1.  Acceder al menú principal Gestión Integrada \> Gestión de Contratos \>
