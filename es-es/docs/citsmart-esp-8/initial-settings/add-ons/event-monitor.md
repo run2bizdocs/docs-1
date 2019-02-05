@@ -1,7 +1,7 @@
 Title: Habilitar Event Monitor  
 
 Habilitar Event Monitor
----------------
+----------------------
 
 Event Monitor - EVM - es un módulo que pretende ser un intermediario entre CITSmart ESP y soluciones de los clientes (por ejemplo, Nagios, CITSmart Inventory), sirviendo como un repositorio de informaciones de eventos, generado por herramientas de monitoreo o proceso de inventario.
 
