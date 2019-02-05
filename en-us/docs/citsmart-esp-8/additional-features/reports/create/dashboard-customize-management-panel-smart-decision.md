@@ -59,10 +59,10 @@ Procedure
 
         - choose the type widget that will be in the management panel.
 
-1.  To save the changes in the management panel with widgets, click on the “Save
+2.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
 
-2.  To undo the changes, click on the “Undo changes” icon.
+3.  To undo the changes, click on the “Undo changes” icon.
 
 Related
 -------
