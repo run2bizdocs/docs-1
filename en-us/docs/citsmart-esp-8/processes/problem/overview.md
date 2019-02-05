@@ -1,47 +1,47 @@
-title: Gerenciamento de Problema 
-Description: É responsável pela resolução definitiva e prevenção das falhas por trás dos incidentes
-#Gerenciamento de Problema
+title: Problem Management 
+Description: It's responsible for the final solution and prevention of failures behind the incidents
+#Problem Management
 
-Apresentação
+Presentation
 ----------------
 
-O processo de Gerenciamento de Problemas é responsável pela resolução definitiva
-e prevenção das falhas por trás dos incidentes que afetam o funcionamento normal
-dos serviços de TI.
+The Problem Management process is responsible for the definitive solution
+and prevention of failures behind the incidents that affect the normal 
+operation of IT services.
 
-Segundo a ITIL, o principal objetivo do Gerenciamento de Problemas é minimizar o
-impacto adverso de incidentes e problemas causados por erros na infraestrutura
-de TI no negócio e prevenir a reincidência destes erros. Esse processo busca
-encontrar a causa principal dos problemas e iniciar a ação que eliminará o erro.
+According to ITIL, the main goal of Problem Management is to minimize the
+adverse impact of incidents and problems caused by errors in the IT infrastructure
+of business and to prevent recurrence of these errors. This process is intended to find
+the root cause of the problems and initiate the action that will eliminate the error.
 
-Uso
+Usage
 ----------------
 
--   [Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+-   [Register problem](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
--   [Cadastrar as ocorrências do problema](/pt-br/citsmart-esp-8/processes/problem/use/problem-occurrences.html)
+-   [Register problem occurence](/pt-br/citsmart-esp-8/processes/problem/use/problem-occurrences.html)
 
--   [Pesquisa avançada de problemas](/pt-br/citsmart-esp-8/processes/problem/use/advanced-search-for-problem.html)
+-   [Problem advanced search](/pt-br/citsmart-esp-8/processes/problem/use/advanced-search-for-problem.html)
 
--   [Executar um problema](/pt-br/citsmart-esp-8/processes/problem/use/problem-execution.html)
+-   [Execute problem](/pt-br/citsmart-esp-8/processes/problem/use/problem-execution.html)
 
--   [Relacionar informações ao problema](/pt-br/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
+-   [Relato iformation to the problem](/pt-br/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
 
--   [Agendar atividades de problemas](/pt-br/citsmart-esp-8/processes/problem/use/schedule-problem-activities.html)
+-   [Schedule problems activities](/pt-br/citsmart-esp-8/processes/problem/use/schedule-problem-activities.html)
 
--   [Suspender um problema](/pt-br/citsmart-esp-8/processes/problem/use/suspend-problem.html)
+-   [Suspend problem](/pt-br/citsmart-esp-8/processes/problem/use/suspend-problem.html)
 
-Configuração
+Configuration
 ----------------
 
--   [Cadastrar justificativa de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
+-   [Register problem justification](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
 
--   [Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html)
+-   [Create portfolio of problem](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html)
 
-Relatório
+Report
 -------------
 
--   [Gerar relatórios – Gerência de problemas](/pt-br/citsmart-esp-8/processes/problem/configuration/generate-reports-problem-management.html)
+-   [Create reports – Problem management](/pt-br/citsmart-esp-8/processes/problem/configuration/generate-reports-problem-management.html)
 
 !!! tip "About"
 
