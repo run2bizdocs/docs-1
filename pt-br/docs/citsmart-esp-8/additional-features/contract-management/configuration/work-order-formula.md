@@ -6,10 +6,10 @@ Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para
 Procedimento
 ------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Gestão
+1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Fórmula OS;
 
-2-  Na guia "**Cadastro de Fórmula**" é necessário preencher os campos
+2.  Na guia "**Cadastro de Fórmula**" é necessário preencher os campos
     necessários. Ao informar as opções da fórmula é preciso lembrar a finalidade
     de cada variável disponível para descrever a fórmula:
 
@@ -21,7 +21,7 @@ Procedimento
 | vNumeroUsuarios | Número de usuários |                                             Permite retornar o número de usuários ativos no Sistema.                                            |
 |  vComplexidade  |    Complexidade    | Com base na complexidade escolhida pelo usuário, o Sistema irá retornar o seu valor correspondente informado na tela de cadastro do contrato  . |
 
-3-  Após descrever a fórmula, clicar no botão "Visualizar Fórmula". Este botão
+3.  Após descrever a fórmula, clicar no botão "Visualizar Fórmula". Este botão
     representa a validação da fórmula e onde é apresentado o processo do
     cálculo, transformando o texto da fórmula numa expressão matemática e
     retornando o seu resultado calculado, depois de clicar em "Simular". Lembrar
@@ -29,7 +29,7 @@ Procedimento
     incluir na fórmula, onde o mesmo não influenciará o cálculo do valor da
     atividade;
 
-4-  Clicar no botão "Gravar" para efetuar a operação. Porém antes de gravar a
+4.  Clicar no botão "Gravar" para efetuar a operação. Porém antes de gravar a
     fórmula, o sistema deve validar a sintaxe e só permitir a gravação se
     estivar correta.
 
