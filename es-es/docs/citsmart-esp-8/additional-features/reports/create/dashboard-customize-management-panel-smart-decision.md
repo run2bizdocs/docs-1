@@ -42,7 +42,7 @@ Procedimiento
 
     +  *Acceso Rápido*:
 
-       +   Haga clic en *Links*;
+         +   Haga clic en *Links*;
 
              +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
 
@@ -55,11 +55,11 @@ Procedimiento
 
     +   *Informes Smart*:
 
-        +   elegir el tipo de informe que se quedará en el panel gerencial.
+          +   elegir el tipo de informe que se quedará en el panel gerencial.
 
     +   *Widgets*:
 
-        +   elegir el tipo de widget que se quedará en el panel gerencial.
+          +   elegir el tipo de widget que se quedará en el panel gerencial.
 
 2.  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
     el icono "Guardar los cambios";
