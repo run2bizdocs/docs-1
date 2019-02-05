@@ -1,5 +1,5 @@
-Title: Gerenciamento ágil Simple
+Title: Gestión ágil Simple
 
-# Gerenciamento ágil Simple
+# Gestión ágil Simple
 
-Simple é uma funcionalidade do CITSmart que permite o gerenciamento fácil e ágil dos serviços existentes no sistema. Foi criado para gerenciar os projetos da maneira mais simples, com recursos para organizar, monitorar e delegar as atividades entre os membros de sua equipe ou individualmente.
+Simple es una funcionalidad de CITSmart que permite la gestión fácil y ágil de los servicios existentes en el sistema. Fue creado para gestionar los proyectos de la manera más simple, con recursos para organizar, monitorear y delegar las actividades entre los miembros de su equipo o individualmente.

@@ -93,7 +93,7 @@ Relacionado
 
 [Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[adastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
+[Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
 [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 

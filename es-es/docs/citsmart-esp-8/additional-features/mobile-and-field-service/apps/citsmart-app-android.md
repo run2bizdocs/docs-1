@@ -278,7 +278,7 @@ Figura 15 - Pantalla de creación de nueva solicitud
 
 Figura 16 - Solicitud creada
 
-##### Aprobando/rechazando solicitud de servicio
+#### Aprobando/rechazando solicitud de servicio
 
 Algunas solicitudes necesitan aprobación, por lo tanto, para atenderlas es
 necesario aprobarlas.

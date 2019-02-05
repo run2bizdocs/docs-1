@@ -1,29 +1,29 @@
-title: Relatórios adicionais de uma mudança
-Description: Permite realizar atividades complementares da mudança
-#Relatórios adicionais de uma mudança
+title: Additional reports of a change
+Description: It allows to make the additional activities of the change
+#Additional reports of a change
 
-Existem alguns relatórios complementares a mudança, que auxiliam compreender o porque da necessidade da criação da mudança e o entender também como esta foi executada e implementada de forma exitosa.
+There are some additional change reports that help you to understand why you need to create change and also understand how change was successfully executed and implemented.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Localizar a mudança desejada e clicar no ícone “Abrir”;
+2.  Find the change you want and click on "Open”;
 
-3.  Clicar no botão “Opções” e em seguida no “Gerar PDF” para gerar um relatório
-    com as informações essenciais da mudança no formato PDF;
+3.  Click on "Options" and then on "Create PDF" to create a report with
+    the necessary information of a change in PDF;
 
-4.  Clicar no botão “Opções” e em seguida no “Relatório Registro de Execução”
-    para gerar um relatório com o histórico de todos os registros de execução
-    realizados num ciclo de vida de determinada mudança;
+4.  Click on "Options" and then on "Execution Registration Report”
+    to create a report with the history of all execution registration made
+    on the lifecycle of a change;
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
 
-    É possível também só visualizar o histórico dos registros de execução e
-    ocorrências ao clicar no item “Históricos de Mudança” (localizado ao lado
-    esquerdo da tela).
+    It's also possible to only view the history of execution registration
+    and occurrences, by clicking on the item "History of Change" (located on
+    the left side of the screen).
 
 !!! tip "About"
 

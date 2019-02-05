@@ -1,35 +1,35 @@
-title: Calendário de mudanças
-Description: Permite gerenciar os períodos em que a organização passa por uma mudança
-#Calendário de mudanças
+title: Calendar of changes
+Description: It allows to manage the periods in which the organization will pass through changes
+#Calendar of changes
 
-Esta funcionalidade permite gerenciar os períodos em que a organização passa por um momento de manutenção ou blackout e assim auxiliar no planejamento de uma mudança.
+This functionality is intended to manage the periods in which the organization will pass trough a period of maintenance or blackout, then, helping in the change planning.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Calendário de Mudanças;
+1.  Access the main menu Processes \>
+    Change Management \> Window of Change;
 
-2.  Será apresentado a tela de calendário de mudanças, onde poderá visualizar os
-    períodos de manutenção e blackout;
+2.  It'll be presented the screen of calendar of changes, where it's possible to view
+    the periods of maintenance and blackout;
 
-3.  Para cadastrar uma nova janela de mudança, clicar na data que desejar;
+3.  To register a new window of change, click on the date you want;
 
-4.  Preencher os campos necessários (o título da janela de mudança, o tipo, a
-    data/hora do início e final, a descrição da alteração, a recorrência da
-    janela de mudança). Existe dois tipos de janela de mudança:
+4.  Complete the necessary fields (title, type, start and end date/time,
+    description of change, recurrence of window of change).
+    There are two types of change window:
 
-    -   Manutenção: usado para estabelecer períodos de tempo em que aas mudanças no
-    IC ocorrerão;
+    -   Manintenance: used to establish periods of time that changes in the
+    CI will occur;
 
-    -   Blackout: usado para estabelecer períodos de tempo em que as mudanças no IC
-    não devem ocorrer.
+    -   Blackout: used to establish periods of time that changes in the CI
+    won't occur.
 
-5.  Lembrar que o campo “Global” só deverá ser marcado para janela de mudança do
-    tipo “Manutenção” já que este campo só deverá ser usado para uma janela de
-    manutenção que não possuem IC’s associados.
+5.  Remember that the "Global" field should only be selected for "Maintenance" type
+    of window of change, since this field should only be used for a maintenance window
+    that doesn't have associated CI.
 
-6.  Clicar no botão “Adicionar” para efetuar a operação.
+6.  Click on "Add".
 
 !!! tip "About"
 

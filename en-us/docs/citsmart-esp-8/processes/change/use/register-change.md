@@ -1,33 +1,33 @@
-title: Cadastrar uma mudança
-Description: Tem por objetivo registrar uma mudança. 
-#Cadastrar uma mudança 
+title: Register change
+Description: It's intended to register a change. 
+#Register change 
 
-Esta funcionalidade tem por objetivo registrar uma mudança. Segundo a ITIL, é necessário formalizar a solicitação de mudança, para que seja registrado pela equipe responsável todos os procedimentos realizados para a alteração desejada (desde a sua requisição ao impacto de sua implementação) monitorando o mesmo por todo o seu ciclo de vida.
+This functionality is intended to register a change. According to ITIL, it's necessary to formalize the change request, so that the responsible team registers all the procedures performed for the change you want (from its request to the impact of its implementation), monitoring it throughout its lifecycle.
 
-Antes de começar
+Before getting started
 ------------------
 
- Para efetivar o cadastro de uma mudança é preciso previamente cadastrar um contrato, uma unidade e que ela esteja vinculada ao contrato, um colaborador, um questionário, o Comitê Consultivo de Mudanças, ter um grupo vinculado ao contrato associado os Solicitantes (colaboradores) já cadastrados a este grupo. Caso seja preciso criar um novo colaborador, é necessário incluí-lo ao Grupo de Solicitante no qual esteja relacionado ao contrato.
-Ademais, é fundamental o cadastro prévio do portfólio de mudanças.
+In order to register a change, it's necessary to previously register a contract, a unit that it is linked to the contract, an employee, a questionnaire, the Change Advisory Board, have a group linked to the contract associated with the Requesters (employees) already registered to this group. If it's necessary to create a new employee, it's necessary to include it in the Requester Group in which it's related to the contract.
+Moreover, it's necessary to have registered the portfolio of changes.
 
-Procedimento 
+Procedure 
 --------------
 
-1.	Acessar a funcionalidade através da navegação no menu principal Processos > Gerência de Mudança > Mudança;
-2.	Clicar no botão “Opções” e em seguida em “Cadastro”;
-3.	Preencher todos os campos disponibilizados nas áreas: solicitante e mudança (inclusive selecionar o portfólio desejado);
-4.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
+1.	Access the main menu Processes > Change Management > Change;
+2.	Click on "Options" and then on "Register";
+3.	Complete the fields available in the areas of: requester and change (including selecting the portfolio you want);
+4.	It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
 
-    !!! Abstract "ATENÇÃO"
-        É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
+    !!! Abstract "NOTE"
+        It's mandatory to schedule the important phases of the change by clicking on the "Planning" area and then "Other information".
 
-5.	Clicar no botão “Opções” e em seguida “Gravar”;
+5.	Click on "Options" and then on "Save”;
 
 
-Relacionado 
+Related 
 ---------------
 
-[Criar um portfólio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
+[Create portfolio of change](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 

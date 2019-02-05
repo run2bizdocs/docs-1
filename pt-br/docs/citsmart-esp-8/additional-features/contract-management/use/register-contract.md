@@ -18,12 +18,12 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-!!! Abstract "ATENÇÃO"
-    Ao registar os dados necessários, lembrar que o período de vigência do
-    contrato compreende o período entre a data inicial e data final cadastrada
-    (também é preciso que status do contrato esteja configurado como “ativo”),
-    sendo assim não será possível criar e executar tickets fora desse lapso de
-    tempo pré-ordenado.
+    !!! Abstract "ATENÇÃO"
+        Ao registar os dados necessários, lembrar que o período de vigência do
+        contrato compreende o período entre a data inicial e data final cadastrada
+        (também é preciso que status do contrato esteja configurado como “ativo”),
+        sendo assim não será possível criar e executar tickets fora desse lapso de
+        tempo pré-ordenado.
 
 
 3.  Clicar em "Gravar".

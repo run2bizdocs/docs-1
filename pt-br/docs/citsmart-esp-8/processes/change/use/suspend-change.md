@@ -2,7 +2,7 @@ title: Suspender uma mudança
 Description: Permite suspender uma mudança
 #Suspender uma mudança
 
-Esta funcionalidade permite suspender uma mudança.
+Esta funcionalidade permite suspender uma mudança.  
 
 Antes de começar
 ----------------
@@ -26,9 +26,9 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar uma requisição de mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
-Cadastrar uma justificativa de mudança
+[Cadastrar uma justificativa de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-justification.html)
 
 !!! tip "About"
 

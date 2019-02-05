@@ -1,6 +1,6 @@
 title:  Gerenciamento de Mudança 
 Description: Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e decidir sobre a realização de mudanças propostas
-#Gerenciamento de Mudança
+#Gerenciamento de Mudança  
 
 Apresentação
 ----------------
@@ -61,7 +61,7 @@ Configuração
 
 -   [Calendário de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-schedule.html)
 
--   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
+-   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html) 
 
 Relatório
 -------------
@@ -70,7 +70,7 @@ Relatório
 
 -   [Gerar relatórios pelo painel de gráficos e relatórios – Mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/generate-reports-charts-panel-change.html)
 
--   [Relatórios adicionais de uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-additional reports.html)
+-   [Relatórios adicionais de uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-additional-reports.html)
 
 !!! tip "About"
 

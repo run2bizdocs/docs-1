@@ -110,7 +110,7 @@ Informe
 
 - [Generar informes por panel de gráficos e informes - Solicitud e incidente](/es-es/citsmart-esp-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
 
-- [Gerar relatórios- Gerência de incidentes e requisições](/es-es/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
+- [Generar informes - Gestión de incidentes y solicitudes](/es-es/citsmart-esp-8/processes/tickets/configuration/generate-reports-tickets.html)
 
 !!! tip "About"
 

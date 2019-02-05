@@ -26,13 +26,13 @@ Procedimento
 *Passo 1*
 
 1.  Acessar a funcionalidade através da navegação do menu principal Sistema \>
-    Ações automáticas \> Ações Incidentes/Requisições. (ver
+    Ações automáticas \> Ações Incidentes/Requisições (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
 *Passo 2*
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
-    Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações. (ver Criar ação automática de e-mail).
+    Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações (ver Criar ação automática de e-mail).
 
 *Passo 3*
 
@@ -40,6 +40,17 @@ Procedimento
     Batch (ver Processamento Batch):
 
     -   Baixar script em anexo.
+
+
+!!! Abstract "ATENÇÃO"
+
+    Serão coletadas as informações contidas no teor da mensagem do email, os
+    endereços do remetente, destinatário e cópia oculta do email que é lido e 
+    usado para registrar uma solicitação de serviço.
+
+    Para estas informações serem visualizadas via script Rhino,
+    segue exemplo em anexo.
+
 
 
 Relacionado
@@ -58,6 +69,7 @@ Anexo
 ------------
 [Download - Verificar email][1]
 
+[Download -Script Rhino dados do email][2]
 
 !!! tip "About"
 
@@ -66,3 +78,4 @@ Anexo
     
 [1]:/pt-br/citsmart-esp-8/processes/tickets/images/rotina-verificar-email.docx
   
+[2]:/pt-br/citsmart-esp-8/processes/tickets/images/script-rhino-email.rtf

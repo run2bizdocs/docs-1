@@ -73,13 +73,13 @@ Relacionado
 
 [Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Cadastrar um problema
+[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 [Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 [Cadastrar um projeto](/pt-br/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
 
-Cadastrar uma requisição de mudança
+[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 

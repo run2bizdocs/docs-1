@@ -1,35 +1,35 @@
-Title: Administrar Aplicativos
+Title: Administrar Aplicaciones
 
-#  Administrar Aplicativos
+#  Administrar Aplicaciones
 
-Na administração de aplicativos, encontrará os seguintes tópicos:
+En la adminstración de aplicaciones, se va encontrar los siguientes temas:
 
-* Objeto de Negócio
+* Objeto de Negocio
 
-* Regras de Negócio
+* Reglas de Negocio
 
 * CSS
 
-* Banco de Dados
+* Base de Datos
 
-* Conexão de Banco de Dados
+* Conexión de Base de Datos
 
-* Formulário
+* Formulario
 
-* Conexão ITSM
+* Conexión ITSM
 
-* Pacote
+* Paquete
 
-* Parâmetros
+* Parámetros
 
-* Fluxo de Integração de Processo
+* Flujo de Integración de Proceso
 
-* Relatório de arquivo
+* Informe de archivo
 
-* Relatório de configuração
+* Informe de configuración
 
-* Fluxo de integração de serviço
+* Flujo de integración de servicio
 
-* Tipo de dados
+* Tipo de datos
 
-* Variáveis
+* Variables

@@ -228,7 +228,7 @@ CITSmart ESP traz os seguintes diferenciais competitivos:
 
 -   Gestão de serviços terceirizados em uma única plataforma
 
-Sobre a ITIL
+Sobre o ITIL
 ----------
 
 O ITIL (Information Technology Infrastructure Library) é o padrão de referência

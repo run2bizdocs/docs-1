@@ -12,31 +12,31 @@ mesma e a permissão de execução desta requisição.
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2-  Localizar a requisição de liberação a executar, clicar no botão “Abrir” e
+2.  Localizar a requisição de liberação a executar, clicar no botão “Abrir” e
     confirmar a atribuição da tarefa;
 
-3-  Na área **Fechamento**, clicar no botão "Resolvida", selecionar a categoria
+3.  Na área **Fechamento**, clicar no botão "Resolvida", selecionar a categoria
     de solução da execução e informar também as informações úteis a execução da
     requisição de liberação
 
-4-  Também é possível vincular algumas funcionalidades á requisição, tais
+4.  Também é possível vincular algumas funcionalidades á requisição, tais
     como: **Problemas**, **Conhecimento**, **Mídia
     definitiva**,**Papéis/Responsabilidades**.
 
-!!! Abstract "ATENÇÃO"  
+    !!! Abstract "ATENÇÃO"  
 
-    Para maiores informações sobre como vincular estas funcionalidades, ler o
-    conhecimento referente ao mesmo na aba " Relacionados", localizado no canto
-    direito da tela.
+        Para maiores informações sobre como vincular estas funcionalidades, ler o
+        conhecimento referente ao mesmo na aba " Relacionados", localizado no canto
+        direito da tela.
 
-5-  Podemos visualizar o histórico de ocorrências da liberação ao apertar no
+5.  Podemos visualizar o histórico de ocorrências da liberação ao apertar no
     ícone “Registro de Execução”e o fluxo referente a mesma ao clicar no
     ícone “Visualizar fluxo”;
 
-6-  Clicar em “Opções” e em seguida em "Gravar e avançar o fluxo" ou "Gravar e
+6.  Clicar em “Opções” e em seguida em "Gravar e avançar o fluxo" ou "Gravar e
     manter a tarefa atual" para executar a requisição de liberação.
 
 Relacionado

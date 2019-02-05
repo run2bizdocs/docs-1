@@ -1,46 +1,43 @@
-title: Aprovar uma mudança
-Description: Permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudanças
-#Aprovar uma mudança
+title: Approve change
+Description: It allows to the Change Advisory Board approve or reject changes
+#Approve change
 
-Esta funcionalidade permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudança.
+This functionality allows to the Change Advisory Board approve or reject the change.
 
-Somente os membros do “Comitê Consultivo de Mudança (CCM) podem realizar a aprovação da mudança. Para aprovar uma mudança deve se atentar na configuração do parâmetro 303 “Votação da RDM utilizando a regra da maioria absoluta (50% + 1) (Valores: “S” ou “N”, Default: “S”), onde o valor “S” define a aprovação da mudança quando há mais de 50% de aprovação do CCM e o valor “N” define a aprovação da mudança quando há 100% de aprovação do CCM.
+Only members of the "Change Advisory Board" (CAB) can approve the change. To approve a change, pay attention to the configuration of parameter 303 "RFC voting using the absolute majority rule (50% + 1) (Values: “Y” or “N”, Default: “Y”), where the "Y" value defines the change approval when there is more than 50% of the CAB approval and the "N" value defines the change approval when there is 100% of CAB approval.
 
-Antes de começar
+Before getting started
 ----------------
 
-Para aprovar ou não uma mudança é necessário definir que o grupo ao qual o
-usuário está cadastrado terá o valor igual a ‘SIM’ para Comitê Consultivo de
-Mudanças.
+To approve or not a change, it's necessary to define that the group to which
+the user is registered will have the value equal to 'YES' for the Change Advisory
+Board.
 
-Também é essencial que os tipos de fluxo não emergencial nem padrão (Normal) e
-as “permissões nos fluxos de trabalho” do grupo ao qual o usuário faz parte
-estejam ativadas.
+It's also necessary that the non-emergency or standard (Normal) flow types, and
+"workflow permissions" of the group to which the user is part are enabled.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Clicar no primeiro ícone a esquerda da tela (localizada ao lado da palavra
-    “Mudança”) e em seguida em “Requisições para votação”;
+2.  Click on the first icon on the left side of the screen (placed next to the word
+    “Change”) and then on "Requests for voting”;
 
-3.  Clicar sobre a mudança desejada. Para visualizar a mesma, clicar no ícone de
-    mesmo nome.
+3.  Click on the change you want. To view it, click on the icon of same name.
 
-4.  Para registrar a aprovação ou rejeição, clicar no ícone “Votação” e
-    selecionar a opção mais adequada ao seu cenário e discorrer as informações
-    essenciais;
+4.  To register the approval or rejection, click on the icon "Voting" and select
+    the better option for your scenario and provide the necessary information;
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Click on "Save".
 
-Relacionado
+Related
 -----------
 
-[Configurar parametrização – mudança](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configure parametrization - change](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 

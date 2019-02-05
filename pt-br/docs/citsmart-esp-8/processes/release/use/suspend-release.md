@@ -28,7 +28,7 @@ O que fazer depois
 ------------------
 
 Verificar se a situação da requisição de liberação desejada se encontra com a
-situação "Suspensa" na lista de requisição de liberação.
+situação "Suspensa" na lista de requisição de liberação.  
 
 Relacionado
 -----------

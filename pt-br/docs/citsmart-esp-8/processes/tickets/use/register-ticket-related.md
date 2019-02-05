@@ -25,14 +25,26 @@ Procedimento
 2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar Solicitação
     Relacionada" no menu opções;
 
-3.  Preencher os campos necessários e clicar no botão "Gravar e manter tarefa
-    atual". O ticket relacionado será direcionado para o grupo executor definido
+3.  Preencher os campos necessários e clicar no botão "Gravar". O ticket relacionado será direcionado para o grupo executor definido
     no registro do vínculo da atividade, o mesmo será direcionado para o grupo
     executor definido no parâmetro 9;
 
 4.  Lembre-se que o sistema enviará e-mails de notificação a respeito de
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
+    
+5. Para pesquisar os tickets relacionados, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal da funcionalidade.
+    
+!!! Abstract "ATENÇÃO"
+
+    Os tickets relacionados por não possuírem fluxo próprio, são encerrados
+    automaticamente juntamente com o fechamento do ticket de origem.
+    
+!!! Abstract "ATENÇÃO"
+
+    Independentemente de o ticket pai ser reaberto ou permanecer encerrado,
+    seus tickets relacionados não poderão ser reabertos, uma vez que não
+    possuem fluxo próprio.
 
 Relacionado
 -----------

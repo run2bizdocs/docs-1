@@ -32,11 +32,50 @@ Procedimento
     o projeto para configuração complementar do mesmo. Clicar em "Editar";
 
 6.  São apresentas abas de configuração do projeto, preencher os campos
-    disponibilizados em cada aba;
+    disponibilizados em cada aba. São elas:  
+    
+    - **Ponto de Contato**: Definir os colaboradores que serão o ponto focal
+    de informações sobre o projeto.  
 
-7.  Essa funcionalidade apresenta os incidentes que foram registrados referente
-    ao projeto. No registro do Projeto, clicar na aba **Problemas Técnicos/Administrativos**, será apresentada a tela de administração de problemas técnicos/administrativos.
+    !!! Abstract "ATENÇÃO"
+        Somente poderá ser escalonado um colaborador que estiver ativo no projeto.
 
+    - **Papéis/Responsabilidades**: Informar os colaboradores responsáveis pela a
+    execução do projeto, definindo seus papéis e responsabilidades dentro do
+    escopo do projeto. É possível vincular atribuições já cadastradas ao clicar
+    no botão “+Vincular novo recurso” (é permitido a seleção de vários usuários
+    para o vínculo) ou criar um novo papel ao apertar o botão “Papéis”.
+
+    - **Planejamento/Execução**: Definir as tarefas do projeto a serem realizadas
+    durante o período estimado de execução. Ao clicar no botão “Criar modelo
+    (Tarefa)” será disponibilizado selecionar um modelo de tarefa já existente
+    para vinculação ao projeto ou cadastrar uma nova tarefa ao nomear a
+    atividade e apertar o botão “Criar novo modelo” e na linha de base, clicar
+    no íncone “+” e preencher os dados necessários. Também é possível criar uma
+    linha de base de projeto para ser usada a fim de comparar planos de projetos
+    inicias ou ainda comparar o estado de um projeto em certos ponto chave à
+    medida que ele avança, com o seu estado atual ao criar no botão “Criar linha
+    da base” e justificar a alteração no projeto (Quando é definida uma linha de
+    base, os dados em vários campos-chaves de tarefas, são capturados e salvos
+    como um conjunto numerado de dados de linha de base, para a medida que o
+    projeto avança, esteja disponíveis estes dados capturados afim de
+    compara-los aos dados atuais. Para visulizar a listagem dos itens
+    registrados, clicar em “Visualizar linha de base”.  
+
+    !!! Abstract "ATENÇÃO"
+
+        A data final de um projeto é baseada no conjunto de datas finais de suas
+        tarefas/subtarefas, sendo que a data fim de cada item pai (tarefa/atividade)
+        é atualizada de acordo com as datas finais de seus filhos (subtarefas) para
+        propociar uma análise completa do projeto.  
+
+    - **Monitoramento/Controle**: Esta aba permite monitorar/controlar as tarefas
+    do projeto. Os responsáveis pela atividade, poderão realizer as seguintes
+    ações: “Editar tarefa” com as alterações desejadas, “Lançar horas”
+    trabalhadas na tarefa e ainda vizualizar as mesmas ao clicar em “Timesheet”.
+
+    - **Problemas Técnicos/Administrativos**: Apresenta os incidentes que foram
+    registrados refente ao projeto.  
 
 Relacionado
 -----------

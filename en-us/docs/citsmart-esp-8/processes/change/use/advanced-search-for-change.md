@@ -1,28 +1,28 @@
-title: Pesquisa avançada de mudanças encerradas
-Description: Permite realizar a busca de mudanças encerradas
-#Pesquisa avançada de mudanças encerradas
+title: Advanced search of closed changes
+Description: It allows to search for closed searches
+#Advanced search of closed changes
 
-Esta funcionalidade permite realizar a busca de mudanças de acordo com os filtros definidos.
+This functionality allows to  search for changes according to the filters set.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Clicar no ícone simbolizado por uma seta para baixo disponível ao lado
-    direito da tela, dentro do campo de pesquisa;
+2.  Click the icon symbolized by a down arrow, available on the right
+    side of the screen, within the search field;
 
-3.  Apertar o botão “Pesquisa avançada”;
+3.  Click on "Advanced search”;
 
-4.  Preencher os filtros desejados (período de abertura, solicitante, tipo,
-    dentre outros) e clicar em “Pesquisar”;
+4.  Complete the filters you want (opening period, requester, type,
+    and others) and click on "Search”;
 
-5.  Para gerar o relatório de mudanças no formato PDF, clicar no botão “Gerar
-    PDF” e para gerar o relatório no formato Excel, clicar no botão “Gerar XLS”;
+5.  To create changes report in PDF, click on "Create PDF" and to creat the report
+    in Excel, click on "Create XLS”;
 
-6.  Ao lado de cada registro de mudança, há ícones para visualização da
-    requisição e seus anexos.
+6.  Next to each change registration, there are icons for viewing the
+    request and its attachments.
 
 !!! tip "About"
 

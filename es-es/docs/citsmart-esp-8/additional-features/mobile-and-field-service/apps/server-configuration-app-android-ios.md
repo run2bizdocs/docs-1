@@ -40,8 +40,8 @@ características de la aplicación. Siga los pasos para configurarlo:
 
 !!! Abstract "REGLA"
 
-   En el momento en que se selecciona el grupo, se vinculará a todos los web
-   services de CITSmart Enterprise ITSM de forma automatizada.
+    En el momento en que se selecciona el grupo, se vinculará a todos los web
+    services de CITSmart Enterprise ITSM de forma automatizada.
 
 Instalação do certificado intermediário globalsign
 --------------------------------------------------

@@ -32,7 +32,7 @@ Procedimiento
 2.  Para cambiar el logo y el fondo del encabezado, hay que respetar los tamaños
     que se muestran en la pantalla;
 
-3.  En el campo** Acceso**, habilitar el campo de "Habilitar el acceso externo"
+3.  En el campo **Acceso**, habilitar el campo de "Habilitar el acceso externo"
     a la opción *SÍ*;
 
 4.  Hacer clic en "Guardar".

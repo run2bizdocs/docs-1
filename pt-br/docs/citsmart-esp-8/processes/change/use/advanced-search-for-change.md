@@ -2,7 +2,7 @@ title: Pesquisa avançada de mudanças encerradas
 Description: Permite realizar a busca de mudanças encerradas
 #Pesquisa avançada de mudanças encerradas
 
-Esta funcionalidade permite realizar a busca de mudanças de acordo com os filtros definidos.
+Esta funcionalidade permite realizar a busca de mudanças de acordo com os filtros definidos.  
 
 Procedimento
 ------------
