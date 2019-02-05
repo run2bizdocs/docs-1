@@ -2,6 +2,8 @@ Title: Download e software
 
 # Software e Donwload
 
+## Pacotes
+
 !!! info "ATENÇÃO"
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
@@ -63,9 +65,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
    *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
-Servidor de Indexação Apache Solr
--------------------------------------
-
+### Servidor de Indexação Apache Solr
 
 !!! info "ATENÇÃO"
 
@@ -75,15 +75,12 @@ Servidor de Indexação Apache Solr
 
     Configurações para base de conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
 
-Download dos arquivos assets para o CITSmart
-------------------------------------------------
+### Download dos arquivos assets para o CITSmart
 
 <http://files.citsmart.com/assets.tar.gz>
 
 
-Configuração dos Pacotes
-------------------------
-
+## Configuração dos Pacotes
 
 !!! info "ATENÇÃO"
 
