@@ -15,35 +15,35 @@ category. It's necessary to first enable parameter 298 (set to "S").
 IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
 occurrence and the notification e-mail template ID in parameter 251.
 
-   !!! Abstract "ATTENTION"
+    !!! Abstract "ATTENTION"
 
-    So that the option "Write Solution / Response in the Knowledge Base" is
-    available by checking the "Resolved" option of the ticket, you must
-    configure parameters 182 and 192
+        So that the option "Write Solution / Response in the Knowledge Base" is
+        available by checking the "Resolved" option of the ticket, you must
+        configure parameters 182 and 192
 
 
 Procedure
 -------------
 
-1-  Access the functionality Ticket Management through the main menu Processes
+1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2-  Click on the ticket you want and then on the icon “Open”;
+2.  Click on the ticket you want and then on the icon “Open”;
 
-3-  In "Execution", click on the "Add note" icon and complete the necessary
+3.  In "Execution", click on the "Add note" icon and complete the necessary
     fields (make a pertinent comment, register the date and time spent in the
     execution of the ticket). You can allow this information to be viewed by the
     requester when you select the "Visible to Applicant" field. Therefore, click
     on "Save".
 
-!!! Abstract "NOTE"
+    !!! Abstract "NOTE"
 
-    The registration of occurrences related to the ticket is done through the
-    button "Add note". The history of all ticket instances can be viewed by
-    clicking the icon  “History” , located in the upper right corner of the
-    screen.  
+        The registration of occurrences related to the ticket is done through the
+        button "Add note". The history of all ticket instances can be viewed by
+        clicking the icon  “History” , located in the upper right corner of the
+        screen.  
 
-4-  If you have completed the ticket service, in the "Closure" area, change the
+4.  If you have completed the ticket service, in the "Closure" area, change the
     status of the ticket to "Solved", just click on the situation to change.
     Also inform the data on the solution performed:
     
@@ -54,7 +54,7 @@ Procedure
     Base", when you save the ticket, the knowledge is created and linked to the
     ticket;
 
-5-  Click on the options button and then "Save" to complete the operation.
+5.  Click on the options button and then "Save" to complete the operation.
 
 
 Related
