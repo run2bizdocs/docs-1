@@ -2,25 +2,25 @@ Title: Idioma Padrão
 
 # Idioma Padrão
 
-This functionality is intended to  setup the default language of the system.  
+Esta funcionalidade destina-se a configurar o idioma padrão do sistema.
 
-## Procedure
+## Procedimento
 
-1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
-2. Search parameter 66, set value EN for English, ES for Spanish or PT for Portuguese.
-3. Save
+1. Acesse a funcionalidade através do menu principal Parametrização > Parâmetros CITSmart;
+2. Pesquisar o parâmetro 66, setar o valor EN para o idioma Inglês, ES para Espanhol e PT para Português.
+3. Clicar em "Gravar"
 
-!!! info "Always keep the system in english"  
+!!! info "Manter o sistema sempre em Inglês"  
 
-    1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
-    2. Search parameter 275; 
-    3. Select "Yes"  
-    4. Save  
+    1. Acesse a funcionalidade através do menu principal Parametrização > Parâmetros CITSmart;  
+    2. Pesquisar o parâmetro 275; 
+    3. Selecionar "Sim"  
+    4. Clicar em "Gravar"  
 	
 	
 !!! tip "Sobre"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles
+    <b>Updated:</b>02/05/2019 - Larissa Lourenço
 	
 	

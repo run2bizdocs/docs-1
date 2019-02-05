@@ -40,7 +40,7 @@ Procedimento
 
     +   *Acesso Rápido* :
 
-        +   Clicar em *Links;*
+        +   Clicar em *Links*;
 
             +   Clicar no ícone "Editar configurações do widget" referente a caixa de *Links*;
 
@@ -59,10 +59,10 @@ Procedimento
 
         +   escolher o tipo de widget que ficará no painel gerencial.
 
-1.  Para salvar as alterações no painel gerencial com os widgets, clicar no
+2.  Para salvar as alterações no painel gerencial com os widgets, clicar no
     ícone "Salvar alterações" ;
 
-2.  Para desfazer alterações clicar no ícone "Desfazer alterações".
+3.  Para desfazer alterações clicar no ícone "Desfazer alterações".
 
 
 Relacionado

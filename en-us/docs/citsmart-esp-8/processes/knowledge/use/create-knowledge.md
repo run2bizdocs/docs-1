@@ -14,21 +14,21 @@ knowledge and make a search.
 Procedure
 -------------
 
-1-  Access the functionality Knowledge Management through the main menu
+1.  Access the functionality Knowledge Management through the main menu
     Processes \> Knowledge Management;
 
-2-  Click on "Operations" on the right lower side of the screen, and then on
+2.  Click on "Operations" on the right lower side of the screen, and then on
     "Add new knowledge";
 
-3-  Enter the registration data;
+3.  Enter the registration data;
 
-!!! Abstract "ATTENTION"  
+    !!! Abstract "ATTENTION"  
 
-    Careful when using the privacy "Public", because it takes the risk of
-    improperly make available documents. This scenario considers the profile
-    access configuration and release the document access to all users.
+        Careful when using the privacy "Public", because it takes the risk of
+        improperly make available documents. This scenario considers the profile
+        access configuration and release the document access to all users.
 
-4-  Save the new knowledge.
+4.  Save the new knowledge.
 
 Related
 -----------

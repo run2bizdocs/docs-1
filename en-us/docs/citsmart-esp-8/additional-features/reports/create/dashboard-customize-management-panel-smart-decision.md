@@ -37,32 +37,32 @@ Procedure
 1.  To add elements with links, smart reports or widgets, click on the “Enable
     edit mode” icon and then on “Add new widget” icon:
 
-    - *Quick Access*:
+    + *Quick Access*:
 
-         -   Click on *Links;*
+        +   Click on *Links*:
 
-               -   Click on the “Edit widget configuration” icon about the *Links* box;
+            +   Click on the “Edit widget configuration” icon about the *Links* box;
 
-               -   Complete the fields available and click on "Add" to set the *Type*,
-                    if "Internal", select the system Menu (e.g.: Processes \> Portfolio
-                    and Catalog Management \> Smart Portal), if "External" define the
-                    Title/Key and add the URL;
+            +   Complete the fields available and click on "Add" to set the *Type*,
+                if "Internal", select the system Menu (e.g.: Processes \> Portfolio
+                and Catalog Management \> Smart Portal), if "External" define the
+                Title/Key and add the URL;
 
-               -   Click on "Apply".
+            +   Click on "Apply".
 
 
-     - *Smart Report*:
+    + *Smart Report*:
 
-         - choose the type of report that will be in the management panel.
+        + choose the type of report that will be in the management panel.
 
-     - *Widgets*:
+    + *Widgets*:
 
-         - choose the type widget that will be in the management panel.
+       + choose the type widget that will be in the management panel.
 
-1.  To save the changes in the management panel with widgets, click on the “Save
+2.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
 
-2.  To undo the changes, click on the “Undo changes” icon.
+3.  To undo the changes, click on the “Undo changes” icon.
 
 Related
 -------

@@ -12,29 +12,29 @@ and the permission to execute this request.
 Procedure
 -------------
 
-1- Access the functionality through the main menu Processes \> Release
+1. Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2-  Find the release request to be executed, click on the button “Open” and
+2.  Find the release request to be executed, click on the button “Open” and
     confirm the task attribution;
 
-3-  In the **Closure** area, click on "Solved", select the solution category of
+3.  In the **Closure** area, click on "Solved", select the solution category of
     the execution and also inform the useful information to the execution of the
     release request;
 
-4-  It's also possible to link some functionality to the request, for
+4.  It's also possible to link some functionality to the request, for
     example: **Problems, Knowledge, Definitive Media, Roles/Responsibilities**.
 
-!!! Abstract "NOTE"  
+    !!! Abstract "NOTE"  
 
-    For further information on how to link these functionalities, read the
-    knowledge about it in the "Related" area, located right bellow.
+        For further information on how to link these functionalities, read the
+        knowledge about it in the "Related" area, located right bellow.
     
-5-  We can view the history of occurrences of the release by pressing the
+5.  We can view the history of occurrences of the release by pressing the
     icon “Execution Registration” and the flow about it when clicking on the
     icon “View flow”;
 
-6-  Click on “Operations” and then on "Save and advance flow" or "Save and keep
+6.  Click on “Operations” and then on "Save and advance flow" or "Save and keep
     current task" to execute the release request.
 
 Related

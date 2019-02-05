@@ -1,55 +1,53 @@
-title: Relatório de distância percorrida por analista
-Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app SM.
-#Relatório de distância percorrida por analista
+title: Distance report by analyst
+Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the SM app.
+#Distance report by analyst
 
-Este documento visa mostrar as configurações para visualizar o relatório que
-demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento
-que esteja utilizando o app SM.
+This document is intended to present the configuration to view the report that presents
+the mileage (kilometers) traveled by the attendance analyst that is using the SM app.
 
-Antes de começar
+Before getting started
 ----------------
 
-Para o relatório ser visualizado é necessário importar o relatório
-disponibilizado na seção de Anexo.
+To view the report, it's necessary to import the report available in the section Attachment.
 
-No aplicativo mobile Enterprise SM o usuário deverá setar a flag “Disponível”
-(APP CITSMART \> Página Inicial \> [Conexão] \> Editar \> Disponível ) para
-iniciar a contagem de Km.
+In the Enterprise SM mobile app, the user will set the flag "Available"
+(APP CITSMART \> Home page \> [Connection] \> Edit \> Available ) to start
+the km counting.
 
-Ao final dos atendimentos o usuário deverá desabilitar a flag “Disponível”, pois
-o sistema contabiliza todo o período de disponibilidade.
+At the end of the attendance, the user shoud disable the flag "Available", so the system counts
+all periods available.
 
-Procedimento
+Procedure
 ------------
 
-*Passo 1*:
+*Step 1*:
 
-1.  Acessar o menu principal Relatórios \> Relatório Smart \> Gerador de
-    Relatórios Smart;
+1.  Access the main menu Report \> Smart Report \> Smart
+    Report Creator;
 
-2.  Clicar no botão “Importar” e selecionar o arquivo do Anexo.
+2.  Click on "Import" and select the file in the Attachment.
 
-*Passo 2*:
+*Step 2*:
 
-1.  Acessar o menu principal Relatórios \> Relatório Smart \> Relatórios Smart;
+1.  Access the main menu Reports \> Smart Reports \> Smart Reports;
 
-2.  Clicar na aba Incidentes/Requisições e selecionar o relatório importado no
-    passo anterior;
+2.  Click on the tab Incidents/Requests and select the report imported in the previous
+    step;
 
-3.  Selecionar os filtros para visualizar o relatório;
+3.  Select the filters to view the report;
 
-4.  Visualizar o relatório.
+4.  View the report.
 
 
-!!! Abstract "REGRA"
+!!! Abstract "RULE"
 
-    Somente tickets capturados/delegados ao atendente e que estejam fechados serão
-    contabilizados no campo “Solicitações” do relatório.
+    Only tickets captured/delegated to the attendant and that are closed will be
+    counted in the "Requests" field of the report.
 
-Anexo
+Attachment
 -----
 
-[Dowload - Contabilização][1]
+[Dowload - Accounting][1]
 
 
 !!! tip "About"
