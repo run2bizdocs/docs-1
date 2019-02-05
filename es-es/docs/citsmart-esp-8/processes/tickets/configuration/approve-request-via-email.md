@@ -38,7 +38,7 @@ Procedimiento
     (grupo/usuario) del correo electrónico que se va enviar (el sistema no hace
     búsqueda por destinatarios por "Expresión".
 
-*Configurar la notificación de aprobación del correo electrónico*
+###Configurar la notificación de aprobación del correo electrónico
 
 1-  Acceder a la funcionalidad en el menú Sistema \> Configuración \> Modelo
     de e-mail;
