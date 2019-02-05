@@ -105,21 +105,21 @@ Procedimento para vincular SLA específico ao serviço do contrato
 
 4.  Preencher os campos necessários com as seguintes recomendações:
 
--   Se informar o tipo de acordo como **Disponibilidade**, além dos campos
+    -   Se informar o tipo de acordo como **Disponibilidade**, além dos campos
     gerais, será necessário informar o índice de disponibilidade, isto é,
     definir o percentual de disponibilidade do serviço;
 
--   Se informar o tipo de acordo como **Falhas repetitivas**, além dos campos
+    -   Se informar o tipo de acordo como **Falhas repetitivas**, além dos campos
     gerais, será necessário informar a quantidade de glosas e o percentual de
     desconto. Lembrar que é possível informar outros dados do acordo de serviço
     por falhas repetitivas, ao clicar no ícone “+”;
 
--   Se informar o tipo de acordo como **OS -Resultados esperados**, além dos
+    -   Se informar o tipo de acordo como **OS -Resultados esperados**, além dos
     campos gerais, será necessário informar os dados de resultados esperados e
     os níveis de qualidade exigidos (resultados esperados, limites, glosa e
     limite glosa);
 
--   Se informar o tipo de acordo como **Tempo (fases)**, além dos campos gerais,
+    -   Se informar o tipo de acordo como **Tempo (fases)**, além dos campos gerais,
     será necessário definir os prazos de SLA (acordo de nível de serviço),
     levando em consideração a prioridade.
 
@@ -130,16 +130,16 @@ Procedimento para vincular SLA específico ao serviço do contrato
         na solicitação do serviço, o sistema atribuirá Prioridade e escalará o Grupo
         que foram configurados para execução da solicitação do serviço.
 
--   Se informar o tipo de acordo como **Informações diversas capturadas de
+    -   Se informar o tipo de acordo como **Informações diversas capturadas de
     outras fontes**, será necessário informar os dados de acordo de serviço (o
     valor limite, a unidade, a glosa e o limite glosa). Para copiar, editar ou
     excluir o acordo de nível de serviço cadastrado, seguir os passos:
 
--  Para editar ou excluir um acordo de nível de serviço que foi adicionado ao
+    -  Para editar ou excluir um acordo de nível de serviço que foi adicionado ao
     serviço de contrato, basta clicar no ícone “Editar o serviço” ao lado do
     acordo;
 
--  Para copiar um acordo de nível de serviço que foi adicionado ao serviço de
+    -  Para copiar um acordo de nível de serviço que foi adicionado ao serviço de
     contrato, basta clicar no ícone “Copiar Acordo para outro serviço” ao lado
     do acordo;
 
@@ -201,10 +201,10 @@ Procedimento para registrar atividades do serviço do contrato
         contabilização será feita das solicitações "fechadas", no período da OS
         (Ordem de Serviço), do serviço do tipo requisição/incidente.**
 
--   Se informar o tipo de custo como **Custo Total**, além dos campos gerais,
+    -   Se informar o tipo de custo como **Custo Total**, além dos campos gerais,
     será necessário indicar o custo total a complexidade da atividade;
 
--   Se informar o tipo de como **Fórmula**, além dos campos gerais, será
+    -   Se informar o tipo de como **Fórmula**, além dos campos gerais, será
     necessário selecionar a fórmula desejada. Feita a escolha, preencher os
     campos exibidos (horas, complexidade e quantidade).
 
