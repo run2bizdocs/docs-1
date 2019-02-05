@@ -43,18 +43,14 @@ características de la aplicación. Siga los pasos para configurarlo:
     En el momento en que se selecciona el grupo, se vinculará a todos los web
     services de CITSmart Enterprise ITSM de forma automatizada.
 
-Instalação do certificado intermediário globalsign
+Instalación del certificado intermediario Globalsign
 --------------------------------------------------
 
-Para reconhecer o certificado intermediário da GlobalSign (Emissora do
-Certificado Digital) é necessário a instalação do mesmo. Segue os procedimentos
-abaixo:
+Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado Digital) es necesario la instalación del mismo. Sigue los siguientes procedimientos:
 
-1-  Acesso o
-    endereço: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
+1-  Acceso a la dirección: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
 
-2-  Realize o download do primeiro certificado, conforme indicado na figura
-    abaixo:
+2-  Realice la descarga del primer certificado, como se indica en la figura siguiente:
 
 ![global sign](images/android-ios-1.jpg)
 
