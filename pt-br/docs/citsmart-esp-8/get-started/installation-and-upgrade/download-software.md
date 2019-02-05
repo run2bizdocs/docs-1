@@ -6,7 +6,7 @@ Title: Download e software
 Software e Download
 -----------------------
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
@@ -18,7 +18,7 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
     No manual utilizaremos PostgreSQL.
 
     Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
@@ -38,7 +38,7 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
 
 ### Servidor de Banco de Dados MongoDB
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
        
        No manual utilizaremos a distribuição GNU/Linux CentOS Linux release
       7.5.1804.
@@ -71,7 +71,7 @@ Servidor de Indexação Apache Solr
 -------------------------------------
 
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     A versão homologada do Apache Solr é a 6.4.2.
 
@@ -89,7 +89,7 @@ Configuração dos Pacotes
 ------------------------
 
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     Utilizaremos o diretório /opt para instalação de todos os pacotes para o
     CITSmart Enterprise.
