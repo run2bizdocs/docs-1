@@ -15,8 +15,7 @@ category. It's necessary to first enable parameter 298 (set to "S").
 IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
 occurrence and the notification e-mail template ID in parameter 251.
 
-!!! Abstract "ATTENTION"
-
+!!! Abstract "ATTENTION"  
     So that the option "Write Solution / Response in the Knowledge Base" is
     available by checking the "Resolved" option of the ticket, you must
     configure parameters 182 and 192
