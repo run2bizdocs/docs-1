@@ -40,7 +40,7 @@ Procedimento
 
     -   request_getByUser
 
-3..  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
+3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
 *Unidade*
 
