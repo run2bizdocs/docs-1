@@ -58,7 +58,7 @@ Uso
 
 - [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-plan.html)
 
-- [Cadastrar o plano de continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
+- [Cadastrar o planejamento organizacional da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-organizational-planning.html)
 
 - [Cadastrar a estratégia de testes da continuidade](/pt-br/citsmart-esp-8/processes/continuity/use/continuity-test-registration.html)
 

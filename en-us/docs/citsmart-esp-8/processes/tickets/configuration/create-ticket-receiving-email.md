@@ -76,4 +76,4 @@ Attachment
 
 [1]:/en-us/citsmart-esp-8/processes/tickets/configuration/images/verify-email.docx
 
-[2]:/en-us/citsmart-esp-8/processes/tickets/images/script-rhino-dados-email.rtf
+[2]:/en-us/citsmart-esp-8/processes/tickets/images/script-rhino-email.rtf

@@ -1,7 +1,7 @@
-Title: Habilitar Inventory
 
-Habilitar Inventory
------------------
+title: Habilitar Inventory
+Description: permite proporcionar información sobre los elementos de configuración de su organización y administrarlos a través del proceso de la Gestión de Configuración.
+#Habilitar Inventory
 
 CITSmart Inventory - El inventario es un componente del CITSmart ESP que permite registrar y administrar rutinas de inventario. El le permite proporcionar información sobre los elementos de configuración de su organización y administrarlos a través del proceso de la Gestión de Configuración.  
 
