@@ -30,7 +30,7 @@ Related
 
 [Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 !!! tip "About"
 
