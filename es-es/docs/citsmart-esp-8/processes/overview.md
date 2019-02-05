@@ -143,28 +143,17 @@ otros servicios de su organización.
 
 ### Las principales líneas de acción de la plataforma:
 
--   Atención y Relación: atención a clientes y tickets, gestión de relación
-    y satisfacción de los clientes, central de atención, la audiencia, la integración
-    con telefonía y redes sociales, entre otros.
+-   Atención y Relación: atención a clientes y tickets, gestión de relación y satisfacción de los clientes, central de atención, la audiencia, la integración con telefonía y redes sociales, entre otros.
 
--   Trabajo Ágil: varias tablas Kanban, checklists, planificación rápida, delegación fácil y
-    ágil, control simple y eficiente.
+-   Trabajo Ágil: varias tablas Kanban, checklists, planificación rápida, delegación fácil y ágil, control simple y eficiente.
 
--   Operaciones de Negocios: Portal de servicios para clientes y empleados, gestión de
-    diversas demandas, gestión de desempeño de las personas, portal de servicios de RRHH modernos,
-    gestión de campo con móviles, entre otros.
+-   Operaciones de Negocios: Portal de servicios para clientes y empleados, gestión de diversas demandas, gestión de desempeño de las       personas, portal de servicios de RRHH modernos, gestión de campo con móviles, entre otros.
 
--   Operaciones de TI: Tickets y Service Desk, Gestión de Problemas, Conocimiento,
-    Evento, Continuidad, Activos de TI, Cambio, Liberación, Disponibilidad, entre otros (13
-    procesos basados en las mejores prácticas de ITIL)
+-   Operaciones de TI: Tickets y Service Desk, Gestión de Problemas, Conocimiento, Evento, Continuidad, Activos de TI, Cambio, Liberación, Disponibilidad, entre otros (13 procesos basados en las mejores prácticas de ITIL)
 
--   Asistente Virtual y Conocimiento: Integración con los principales sistemas de IA
-    del mercado, asistente virtual, portal de conocimiento por perfil y grupos de usuarios y
-    construcción de ambientes de trabajo digitales (centro de experiencia).
+-   Asistente Virtual y Conocimiento: Integración con los principales sistemas de IA del mercado, asistente virtual, portal de        conocimiento por perfil y grupos de usuarios y construcción de ambientes de trabajo digitales (centro de experiencia).
 
--   Automatización e integración: personalización y construcción de formularios web y móviles,
-    flujos de trabajo, constructores de APP, constructores de API, integración con
-    sistemas y bases de datos legados, además de numerosos conectores.
+-   Automatización e integración: personalización y construcción de formularios web y móviles, flujos de trabajo, constructores de APP,     constructores de API, integración con sistemas y bases de datos legados, además de numerosos conectores.
 
 ¿Por qué adoptarlo?
 --------------
@@ -202,28 +191,21 @@ ou compra. Prepare-se para este futuro.
 
 CITSmart ESP trae los siguientes diferenciales competitivos:
 
--   Listo para uso (85% de las personalizaciones para TI y RRHH ya se aplican).
-    La transformación digital comienza rápidamente
+-   Listo para uso (85% de las personalizaciones para TI y RRHH ya se aplican). La transformación digital comienza rápidamente
 
--   Crezca gradualmente (comienza pequeño, por un departamento y puede crecer ambos en uso
-    por el departamento y otros departamentos)
+-   Crezca gradualmente (comienza pequeño, por un departamento y puede crecer ambos en uso por el departamento y otros departamentos)
 
--   ROI mejorado en la inversión en soluciones corporativas ITSM, ya que se puede utilizar para
-    ESM
+-   ROI mejorado en la inversión en soluciones corporativas ITSM, ya que se puede utilizar para ESM
 
--   Alta capacidad de adaptación a los negocios del cliente (debido al Neuro y al Flujo de
-    Trabajo) - Personalización en línea y codeless
+-   Alta capacidad de adaptación a los negocios del cliente (debido al Neuro y al Flujo de Trabajo) - Personalización en línea y codeless
 
--   All-In-One y, al mismo tiempo, sencillo de usar, integrándose fácilmente a las
-    actividades y operaciones diarias
+-   All-In-One y, al mismo tiempo, sencillo de usar, integrándose fácilmente a las actividades y operaciones diarias
 
--   Adaptación a varios tamaños de empresas (pequeñas, medianas o grandes). Puede monitorear la
-    empresa en su jornada de crecimiento
+-   Adaptación a varios tamaños de empresas (pequeñas, medianas o grandes). Puede monitorear la empresa en su jornada de crecimiento
 
 -   Modelo de marketing simple. Fácil de entender por el colaborador y el cliente
 
--   Plataforma de Centro de Experiencia Integrada, BPM y Kanban para administrar varias áreas
-    de negocios, proporcionando un espacio de trabajo digital eficiente
+-   Plataforma de Centro de Experiencia Integrada, BPM y Kanban para administrar varias áreas de negocios, proporcionando un espacio de trabajo digital eficiente
 
 -   Gestión de servicios tercerizados en una sola plataforma
 
