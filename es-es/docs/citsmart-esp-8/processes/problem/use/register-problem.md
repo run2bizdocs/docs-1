@@ -1,68 +1,66 @@
-title: Cadastrar um problema
-Description: Permite registrar os problemas encontrados.
-#Cadastrar um problema
+title: Registrar problema
+Description: Permite registrar los problemas encontrados.
+#Registrar problema
 
 
-O processo de Gerenciamento de Problemas é responsável pela resolução definitiva e prevenção das falhas por trás dos incidentes que afetam o funcionamento normal dos serviços de TI.
+El proceso de Gestión de Problemas es responsable por la solución definitiva y prevención de las fallas detrás de los incidentes que afectan al funcionamiento normal de los servicios de TI.
 
-Esta funcionalidade permite registrar os problemas encontrados.
+Esta funcionalidad permite registrar los problemas encontrados.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Antes de iniciar o cadastro de um problema é necessário o cadastro prévio do
-portfólio de problema, bem como ter definido as permissões de acesso à
-funcionalidade de “Problema”.
+Antes de iniciar el registro de un problema, es necesario el registro previo del
+portafolio del problema, así como haber definido los permisos de acceso a la
+funcionalidad del “Problema”.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Problema \> Problema;
 
-2.  Clicar no botão “Opções” e em seguida no ícone "Cadastro";
+2.  Hacer clic en "Opciones" y después en el icono "Registro";
 
-3.  Preencher todos os campos disponibilizados para identificar o solicitante;
+3.  Completar todos los campos disponibles para identificar el solicitante;
 
-4. Para cadastrar um novo incidente relacionado ao problema a ser criado, basta
-    clicar no botão “Cadastrar”, disponibilizado na área de “Incidentes”, e
-    preencher os campos necessários. Já para relacionar um incidente já
-    cadastrado ao problema, apenas é necessário clicar no botão “Adicionar” e
-    vincular o incidente desejado;
+4.  Para registra un nuevo incidente relacionado al problema que se va crear, simplemente
+    hacer clic en "Registrar”, disponible en el área de "Incidentes”, y completar
+    los campos necesarios. Para relacionar un incidente ya registrado al problema, sólo
+    es necesario hacer clic en "Agregar" y vincular el incidente que quiera;
 
-5.  Selecionar o portfólio desejado e preencher as informações necessárias para
-    a execução dos problemas, tais como: o título e descrição do problema, o
-    contrato a qual está vinculado, dentre outros;
+5.  Seleccionar un portafolio y completar las informaciones necesarias para ejecutar los
+    problemas, tales como: título y descripción del problema, contrato que está vinculado,
+    y otros;
     
-    !!! Abstract "ATENÇÃO"
-        É necessário definir se o problema a ser cadastrado é um problema de
-        natureza reativo a um contratempo encontrado ou é uma simples prática
-        proativa a fim de administrar o sistema.
+    !!! Abstract "ATENCIÓN"
+        Es necesario definir si el problema que se va registrar es un problema de naturaleza
+        reactiva a un revés encontrado o es una simple práctica proactiva para gestionar
+        el sistema.
 
-6.  Selecionar, se necessário, quando será enviado as notificações sobre
-    problema;
+6.  Seleccionar, si necesario, cuando se va enviar las notificaciones sobre el problema;
 
-7.  Clicar no botão “Opções” e em seguida “Gravar”.
+7.  Hacer clic en "Opciones" y después en "Guardar”.
 
 Relacionado
 ------------
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar categoria de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
+[Registrar categoría de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento de flujo de trabajo](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
-[Como relacionar unidade ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
+[¿Cómo relacionar unidad al contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-[Como relacionar grupo ao contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
+[¿Cómo relacionar grupo al contrato?](/pt-br/citsmart-esp-8/processes/tickets/configuration/relate-group-to-contract.html)
 
-[Criar um portfólio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html) 
+[Crear portafolio de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html) 
 
 !!! tip "About"
 
