@@ -1,33 +1,33 @@
-title: Suspender um problema
-Description: Permite suspender o problema.
-#Suspender um problema 
+title: Suspender problema
+Description: Permite suspender el problema.
+#Suspender problema 
 
-Esta funcionalidade permite suspender o registro de problema.
+Esta funcionalidad permite suspender el registro del problema.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário possuir um problema e uma justificativa de problema já cadastrados.
+Es necesario tener un problema y una justificación ya registrados.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Problema \> Problema;
 
-2.  Localizar o problema que deseja suspender, clicar no botão “Mais Opções” e
-    em seguida no botão “Suspender”;
+2.  Buscar el problema para suspender, hacer clic en "Más Opciones" y después en
+    “Suspender”;
 
-3.  Registrar a justificativa da suspensão e o complemento desta justificativa;
+3.  Registrar la justificación de la suspensión y el complemento de esta justificación;
 
-4.  Clicar em “Gravar” para efetuar a operação.
+4.  Hacer clic en "Guardar".
 
 Relacionado 
 ------------
 
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+[Registrar problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
-[Cadastrar justificativa de problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
+[Registrar justificación del problema](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
 
 !!! tip "About"
 
