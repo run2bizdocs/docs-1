@@ -35,7 +35,7 @@ Relacionado
 
 [Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Registrar categoría del problema
+[Registrar categoría del problema](/es-es/citsmart-esp-8/processes/problem/configuration/problem-category-register.html)
 
 [Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
