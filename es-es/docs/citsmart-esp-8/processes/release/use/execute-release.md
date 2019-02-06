@@ -12,30 +12,30 @@ permiso de ejecución de esta solicitud.
 Procedimiento
 -------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2-  Buscar la solicitud de liberación que se va a ejecutar, hacer clic en el
+2.  Buscar la solicitud de liberación que se va a ejecutar, hacer clic en el
     botón “Abrir” y confirmar la asignación de la tarea;
 
-3-  En el área **Cierre**, hacer clic en "Resuelto", seleccionar la categoría de
+3.  En el área **Cierre**, hacer clic en "Resuelto", seleccionar la categoría de
     solución de la ejecución e informar también la información útil para la
     ejecución de la solicitud de liberación
 
-4-  También es posible vincular algunas funcionalidades a la solicitud, tales
+4.  También es posible vincular algunas funcionalidades a la solicitud, tales
     como: **Problemas, Conocimiento, Media definitiva,
     Papeles/Responsabilidades**.
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Para mayor información sobre cómo vincular estas funcionalidades, leer el
-    conocimiento referente en la pestaña "Relacionados", ubicado en la esquina
-    derecha de la pantalla.
+        Para mayor información sobre cómo vincular estas funcionalidades, leer el
+        conocimiento referente en la pestaña "Relacionados", ubicado en la esquina
+        derecha de la pantalla.
 
-5-  Podemos ver el historial de ocurrencias de la liberación al apretar el
+5.  Podemos ver el historial de ocurrencias de la liberación al apretar el
     icono “Registro de Ejecución” y el flujo referente misma al hacer clic en el
     icono “Ver flujo”;
 
-6-  Hacer clic en “Opciones” y después en "Guardar y avanzar flujo" o "Guardar y
+6.  Hacer clic en “Opciones” y después en "Guardar y avanzar flujo" o "Guardar y
     mantener la tarea actual" para ejecutar la solicitud de liberación.
 
 
