@@ -63,10 +63,10 @@ Procedimento 
     !!! Abstract "NOTA"
 
         Ao vincular um problema ao ticket, as “Soluções contorno” registradas nestes
-        estarão disponíveis na aba a esquerda de mesmo nome. Ao clicar sobre o
+        estarão disponíveis no ticket na aba a esquerda de mesmo nome. Ao clicar sobre o
         mesmo, será possível visualizar cada uma a fim de selecionar a solução mais
         adequada ao incidente em questão, clicar então no botão “Copiar”, o
-        incidente automaticamente mudará o status para “Resolvida” e preencherá os
+        incidente, então, automaticamente mudará o status para “Resolvida” e preencherá os
         dados dos itens “Detalhamento da Causa” e “Solução Resposta” com os dados
         cadastrados no problema vinculado.
 
