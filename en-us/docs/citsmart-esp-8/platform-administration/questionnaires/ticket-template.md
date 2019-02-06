@@ -22,13 +22,13 @@ Procedure
 
 3.  The type of template selected will define the fields to completion:
 
--   **JSP**: this functionality allows to customize the services screen with
+    -   **JSP**: this functionality allows to customize the services screen with
     reference mainly to the management of purchases and travel. Within the JSP
     type there are sub-types previously registered. The utility of this type of
     template is only observed in versions previous to 7.2.3.9. This template
     class should be handled by an analyst who has knowledge of JAVA programming;
 
--   **Questionnaire**: even if the "Enable edit questionnaire" option is
+   -   **Questionnaire**: even if the "Enable edit questionnaire" option is
     disabled, this edition will be possible when the ticket registration occurs.
     There are two approval functions that can be configured in the service
     request template or flow maintenance screen. As a rule, for the system, only
@@ -52,7 +52,7 @@ Procedure
     form is linked to the service request template concomitantly with the flow
     maintenance screen and the portfolio activity;  
 
--   **Neuro**: when you select this option, the Neuro form link field and Neuro
+    -   **Neuro**: when you select this option, the Neuro form link field and Neuro
     page are made available. You can also elect the **version** of the form by
     clicking the "Specific Version" button on the form. The template rules of
     the Questionnaire type are valid for the Neuro type template.
@@ -60,7 +60,7 @@ Procedure
 Related
 -----------
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 [Register questionnaire](/en-us/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
