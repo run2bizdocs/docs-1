@@ -60,6 +60,16 @@ Title: Comparación - ESP 7 vs 8
 |    **Seguridad**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
++ Etiqueta
+
+|Icono     |Descripción      |
+|----------|---------------|
+|:ballot_box_with_check:|Hay|
+|:arrows_counterclockwise:|Mejora|
+|:no_entry_sign:|No hay|
+|:new:|Nuevo funcionalidad|
+
+
 ## ¿Qué hay de nuevo?
 
 ### Gestión de Cambio
