@@ -19,32 +19,32 @@ relaciones almacenadas en la BDGC.
 Uso
 -------
 
-- [Búsqueda avanzada de registros de liberación cerradas](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
+- [Búsqueda avanzada de registros de liberación cerradas](/es-es/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
  
-- [Cancelar el registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
+- [Cancelar el registro de liberación](/es-es/citsmart-esp-8/processes/release/use/cancel-release.html)
 
-- [Actividades de la fase de implantación de la liberación](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
+- [Actividades de la fase de implantación de la liberación](/es-es/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-- [Ejecutar una liberación](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
+- [Ejecutar una liberación](/es-es/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Registrar solicitud de liberación](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relacionar información a la solicitud de liberación](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
-- [El área de trabajo de la Gestión de Liberación](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
+- [El área de trabajo de la Gestión de Liberación](/es-es/citsmart-esp-8/processes/release/use/release-desktop.html)
    
-- [Registrar justificación de liberación](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
+- [Registrar justificación de liberación](/es-es/citsmart-esp-8/processes/release/use/release-justification.html)
 
-- [Actividades de la fase de planificación de la liberación](/pt-br/citsmart-esp-8/processes/release/use/release-planning-activities.html)
+- [Actividades de la fase de planificación de la liberación](/es-es/citsmart-esp-8/processes/release/use/release-planning-activities.html)
    
-- [Reabrir un registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
+- [Reabrir un registro de liberación](/es-es/citsmart-esp-8/processes/release/use/reopen-release.html)
 
-- [Suspender registro de liberación](/pt-br/citsmart-esp-8/processes/release/use/suspend-release.html)
+- [Suspender registro de liberación](/es-es/citsmart-esp-8/processes/release/use/suspend-release.html)
 
 Configuración
 -----------------
 
-- [Crear portafolio de liberación um portfólio de liberação](/en-us/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Crear portafolio de liberación um portfólio de liberação](/es-es/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
