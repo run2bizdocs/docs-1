@@ -101,21 +101,21 @@ Procedure to link specific SLA to the contract service
 
 4.  Complete the fields necessary with the following recommendations:
 
-  -   If you enter the type of agreement as **Availability**, in addition to the
+    -   If you enter the type of agreement as **Availability**, in addition to the
     general fields, you should enter the availability index, that is, define the
     percentage of availability of the service;
 
--   If you indicate the type of agreement such as **repetitive Failures**, in
+    -   If you indicate the type of agreement such as **repetitive Failures**, in
     addition to the general fields, you must enter the number of glosses and the
     discount percentage. Remember that other service agreement data can be
     reported for repetitive failures by clicking on the icon “+”;
 
--   If you inform the type of agreement as **WO - Expected results**, in
+    -   If you inform the type of agreement as **WO - Expected results**, in
     addition to the general fields, it'll be necessary to inform the data of
     expected results and the quality levels required (expected results, limits,
     gloss and gloss limit);
 
--   If you inform the type of agreement as **Time (phases)**, in addition to the
+    -   If you inform the type of agreement as **Time (phases)**, in addition to the
     general fields, it'll be necessary to define SLA (service level agreement)
     deadlines, taking into account the priority.
 
@@ -125,7 +125,7 @@ Procedure to link specific SLA to the contract service
         the service request, the system will assign Priority and escalate the Group
         that have been configured to execute the service request.
     
--   If you inform the type of agreement according to diverse Information
+    -   If you inform the type of agreement according to diverse Information
     captured from other sources, it'll be necessary to inform the service
     agreement data (limit value, unit, gloss and gloss limit). To copy, edit or
     delete the registered service level agreement, follow the steps:
@@ -196,10 +196,10 @@ Procedure to register contract service activities
         accounting will be made of the requests "closed", in the period of WO (Work
         Order), service of the type of request/incident.
     
-   -   If you indicate the cost type as **Total Cost**, in addition to the general
+    -   If you indicate the cost type as **Total Cost**, in addition to the general
        fields, you should indicate the total cost of the activity complexity;
 
-   -   If you enter the type of as **Formula**, in addition to the general fields,
+    -   If you enter the type of as **Formula**, in addition to the general fields,
        you will need to select the desired formula. Having made the choice, fill in
     the displayed fields (hours, complexity and quantity).
 
