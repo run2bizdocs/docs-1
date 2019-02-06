@@ -31,7 +31,7 @@ Procedimiento
         Si no hay grupos LDAP, complete el campo "DN Group" sólo con un asterisco.
         Esto hará que el sistema compruebe todo el dominio.
 
-4-  Es posible vincular nuevos grupos, para ello, haga clic en "Agregar" en el
+4.  Es posible vincular nuevos grupos, para ello, haga clic en "Agregar" en el
     área Grupos LDAP;
 
     !!! Abstract "REGLA"
