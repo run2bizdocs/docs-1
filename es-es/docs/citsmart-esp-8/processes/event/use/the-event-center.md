@@ -1,20 +1,10 @@
-title: La central de eventos
-
-Description: Tiene por objetivo presentar algunas funcionalidades para la
-gestión de eventos, lo que permiter ver gráficos, seguir el monitoreo y buscar
-ocurrencia de eventos.
-
-#La central de eventos
-
-Esta funcionalidad tiene por objetivo presentar algunas funcionalidades para la
-gestión de eventos, lo que permiter ver gráficos, seguir el monitoreo y buscar
-ocurrencia de eventos.
-
- -   Gráficos;
-
- -   Gestión;
-
- -   Búsqueda.
+title:  La central de eventos 
+Description: Tiene por objetivo presentar algunas funcionalidades para la gestión de eventos, lo que permiter ver gráficos, seguir el monitoreo y buscar ocurrencia de eventos.
+# La central de eventos 
+Esta funcionalidad tiene por objetivo presentar algunas funcionalidades para la gestión de eventos, lo que permiter ver gráficos, seguir el monitoreo y buscar ocurrencia de eventos.
+•	Gráficos;
+•	Gestión;
+•	Búsqueda.
 
 Antes de empezar
 ----------------
