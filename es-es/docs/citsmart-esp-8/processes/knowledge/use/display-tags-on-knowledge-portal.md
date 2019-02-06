@@ -12,25 +12,25 @@ Es necesario observar si el SOLR está configurado correctamente.
 Procedimiento
 -------------
 
-1-  Acceder al menú principal Sistema \> Configuración \> Portal
+1.  Acceder al menú principal Sistema \> Configuración \> Portal
     del Conocimiento \> Configuración de los Filtros del Portal de Conocimiento;
 
-2-  Es necesario disponer que el filtro del Portal del conocimiento sea
+2.  Es necesario disponer que el filtro del Portal del conocimiento sea
     realizado por tags, pudiendo también ordenar en qué posición de importancia
     la tag tendrá en el suministro de los resultados de la búsqueda;
 
-3-  Para crear una tag y vincularla a un conocimiento, es necesario acceder a la
+3.  Para crear una tag y vincularla a un conocimiento, es necesario acceder a la
     funcionalidad a través del menú Procesos \> Gestión del Conocimiento \>
     Conocimiento, después, al registrar el conocimiento, definir y registrar las
     tags en el camp "Tags" para ayudar en el éxito de la búsqueda de este
     artículo;
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Todos los conocimientos registrados que poseen las mismas tags serán
-    presentados en la misma búsqueda.
+        Todos los conocimientos registrados que poseen las mismas tags serán
+        presentados en la misma búsqueda.
 
-4-  Para buscar conocimientos por sus tags, basta acceder al Portal de
+4.  Para buscar conocimientos por sus tags, basta acceder al Portal de
     Conocimiento o Guía del Usuario y buscar por el artículo por la palabra
     clave que exprese el concepto de lo que pretende encontrar. El sistema
     informará los documentos que hayan registrado la tag buscada.
