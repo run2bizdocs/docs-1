@@ -1,6 +1,6 @@
-title:  Registrar plan de continuidade
+title:  Registrar plan de continuidad
 Description: Permite registar el Plan de Continuidad.
-#Registrar plan de continuidade
+#Registrar plan de continuidad
 El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registar el Plan de Continuidad.
 
 Antes de empezar
