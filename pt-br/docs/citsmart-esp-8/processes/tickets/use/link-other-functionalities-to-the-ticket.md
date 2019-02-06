@@ -60,6 +60,20 @@ Procedimento 
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
     no botão "Cadastrar Problema";
 
+    !!! Abstract "NOTA"
+
+        Ao vincular um problema ao ticket, as “Soluções contorno” registradas nestes
+        estarão disponíveis na aba a esquerda de mesmo nome. Ao clicar sobre o
+        mesmo, será possível visualizar cada uma a fim de selecionar a solução mais
+        adequada ao incidente em questão, clicar então no botão “Copiar”, o
+        incidente automaticamente mudará o status para “Resolvida” e preencherá os
+        dados dos itens “Detalhamento da Causa” e “Solução Resposta” com os dados
+        cadastrados no problema vinculado.
+
+        O “Detalhamento da Causa” será preenchido com os dados da “Causa Raiz”
+        descrita no problema vinculado e a “Solução Resposta” será complementada
+        pelas informações inscritas na “Solução Contorno” escolhida.
+
 14. Para vincular uma **Mudança**, clicar na guia correspondente e vincular o
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
     no botão "Cadastrar Mudança";
