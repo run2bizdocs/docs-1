@@ -31,6 +31,10 @@ Procedimento
     equipe responsável e a difusão de sua solução para os interessados. Para
     tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
     Solução de Contorno” e descrever as informações relevantes;
+    
+    !!! Abstract "NOTA"
+
+        NOTA: É possível registrar mais de uma resolução ao item “Solução contorno”.
 
     -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
 
