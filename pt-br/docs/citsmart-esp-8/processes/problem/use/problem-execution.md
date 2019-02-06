@@ -34,8 +34,13 @@ Procedimento
     
     !!! Abstract "NOTA"
 
-        NOTA: É possível registrar mais de uma resolução ao item “Solução contorno”.
+        É possível registrar mais de uma resolução ao item “Solução contorno”. 
 
+    !!! Abstract "NOTA"
+
+        As soluções contorno aqui cadastradas poderão ser visualizadas na tela de
+        “Ticktet” ao vincular o problema ao ticket.
+     
     -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
 
     -   Na aba “Anotações”, é permitido registrar as informações que identificar
