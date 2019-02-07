@@ -7,7 +7,7 @@ Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar 
 Antes de começar
 --------------------
 
-A Requisição de Liberação é parte do processo de Mudança, sendo assim é
+A Liberação é parte do processo de Mudança, sendo assim é
 necessário ter uma RDM (requisição de mudança) cadastrada. Além disso, é
 necessário cadastrar previamente o portfólio de liberação, bem como ter definido
 as permissões de acesso à Liberação.
