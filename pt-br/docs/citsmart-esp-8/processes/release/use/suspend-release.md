@@ -1,6 +1,6 @@
-title:  Suspender registro de liberação 
+title:  Suspender a liberação 
 Description: Permite suspender a execução da liberação. 
-#Suspender registro de liberação
+#Suspender a liberação
 
 Esta funcionalidade permite suspender a execução da liberação.
 
@@ -17,7 +17,7 @@ Procedimento 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2.  Localiza a liberação a suspender, clicar sobre a mesma e em
+2.  Localizar a liberação a suspender, clicar sobre a mesma e em
     seguida no botão “Mais Opções”. Selecionar a opção "Suspender";
 
 3.  Preencher a justificativa de suspensão e o complemento desta justificativa;
