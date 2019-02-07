@@ -1,30 +1,30 @@
-title: Criar um portfólio de mudança
-Description: Tem por objetivo criar um portfólio de mudanças a fim de agilizar a criação de uma nova mudança
-#Criar um portfólio de mudança
+title: Crear portafolio de cambio
+Description: Tiene por objetivo crear un portafolio de cambios para agilizar la creación de un nuevo cambio
+#Crear portafolio de cambio
 
-Esta funcionalidade tem por objetivo criar um portfólio de mudanças a fim de agilizar a criaão de uma nova mudança ao agrupar as mesmas por critérios específicos.
+Esta funcionalidad tiene por objetivo crear un portafolio de cambios para agilizar la creación de un nuevo cambio al agruparlas por criterios específicos.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Portfólio de Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Portafolio de Cambio;
 
-2.  Clicar no botão “Novo portfólio”;
+2.  Hacer clic en "Nueva cartera”;
 
-3.  Preencher os campos necessários e adicionar uma imagem para representar o
-    portfólio, se conveniente for;
+3.  Completar los campos necesarios y añadir una imagen para representar el
+    portafolio, si es necesario;
 
-4.  Selecionar o portfólio recém-criado e clicar no botão “Avançar” do mesmo;
+4.  Seleccionar el portafolio creado y hacer clic en "Avanzar";
 
-5.  Apertar o botão “Novo modelo” e preencher os campos disponibilizados, tais
-    como, por exemplo: vincular o fluxo desejado ao portfólio, selecionar o
-    grupo executor da mudança, os e-mails de notificação, o impacto e urgência
-    das mudanças, dentre outras;
+5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles, por
+    ejemplo: vincular un flujo al portafolio, seleccionar el grupo ejecutor del
+    cambio, correos electrónicos de notificación, impacto y urgencia de los cambios,
+    y otras;
 
-6.  Definir o status como “Ativo”;  
+6.  Definir el estado como "Activo”;  
 
-7.  Clicar no botão “Gravar” para efetuar a operação.
+7.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
