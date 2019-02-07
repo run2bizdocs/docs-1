@@ -21,9 +21,7 @@ Procedimiento
     -   **Actividades**: presenta los elementos de tareas para utilizar en el
     diseño del flujo;
 
-    -   **Gateways**: presenta los elementos de condiciones para utilizar en el
-
-   diseño del flujo.
+    -   **Gateways**: presenta los elementos de condiciones para utilizar en el diseño del flujo.
 
 5.  Para insertar los elementos, haga clic en el elemento deseado y arrastrarlo
     al área de dibujo. Al arrastrar y soltar el elemento, se muestra una
