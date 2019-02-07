@@ -48,9 +48,9 @@ Procedimento
     preencher os dados;
 
 9.  Para vincular um **Ticket**, clicar na área de mesmo nome e
-    e em seguida apertar sobre o campo de pesquisa e selecionar a requisição
-    desejada. Lembrando que será exposta todas as requisições já cadastradas,
-    sendo necessário, portanto, selecionar a requisção de compra cadastrada
+    e em seguida apertar sobre o campo de pesquisa e selecionar o ticket
+    desejado. Lembrando que será exposta todos os tickets já cadastrados,
+    sendo necessário, portanto, selecionar o ticket cadastrado
     anteriormente.
 
 10. Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
