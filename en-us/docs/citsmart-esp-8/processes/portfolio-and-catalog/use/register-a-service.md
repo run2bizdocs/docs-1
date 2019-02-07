@@ -1,11 +1,13 @@
 title:  Register a service
- 
 Description: This feature provides a variety of actions, such as including, changing, and deleting a service.
- 
 #Register a service
+
 The service registration is divided in two types:
+
 •	Business: provides business / IT services;
+
 •	Technical: provides the support/technical services.
+
 The choice of Business/Technical type should be in line with the type of contract that pretends to be linked to the Portfolio. Only contracts of the type "Contract" are linked to the type "Business" and only contracts of the type "Underpinning Contract" and "Operational Level Agreement" are linked to the type "Technical".
 This feature provides a variety of actions, such as including, changing, and deleting a service.
 
