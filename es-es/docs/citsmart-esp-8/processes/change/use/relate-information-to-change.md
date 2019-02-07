@@ -1,74 +1,68 @@
-title: Relacionar informações a mudança
-Description: Permite vincular a Mudança uma série de informações
-#Relacionar informações a mudança 
+title: Relacionar informaciones al cambio
+Description: Permite vincular al Cambio una serie de informaciones
+#Relacionar informaciones al cambio 
 
-É possível vincular a Mudança uma série de informações, tais como: liberação, conhecimento, problema, dentro outros, no intuito de solidificar e embasar a execução do processo.  
+Es posible vincular al Cambio una serie de informaciones, tales como: liberación, conocimiento, problema, dentro de otros, con el fin de solidificar y basar la ejecución del proceso.  
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O vínculo de informações pode ocorrer em todo o ciclo de vida da Mudança, dessa
-forma pode – e deve – ser utilizado a qualquer momento, caso necessário. No
-entanto, é preciso ter acesso a uma Mudança.
+El vínculo de información puede ocurrir en todo el ciclo de vida del Cambio,
+forma puede - y debe - ser utilizado en cualquier momento, si es necesario. Sin
+embargo, es necesario tener acceso a un cambio.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Para informar os dados complementares da mudança, marque a opção de captura
-    ou visualização da mudança;
+2.  Para informar los datos complementares del cambio, seleccionar la opción de captura
+    o visualización del cambio;
 
-3.  Para vincular **Itens de Configuração**, clicar na área “IC Relacionado” e em
-    seguida no botão “pesquisa item de configuração”. Realizar a busca e apertar
-    o botão “Selecionar” para completar o vínculo. Logo após, é possível ao clicar no
-    ícone “Serviços”, vincular o mesmo a mudança e ao apertar o ícone “Alterar”,
-    modificar o IC já registrado;
+3.  Para vincular **Elementos de Configuración**, hacer clic en "CIs del Cambio” y
+    después en "buscar elemento de configuración". Buscar y hacer clic en "Seleccionar"
+    para completar el vinculo. Después, es posible, al hacer clic en el icono "Servicio",
+    vincularlo al cambio y hacer clic en el icono "Cambiar", cambiar el EC ya registrado;
 
-4.  Clicar na área **“Serviços Relacionados”** e em seguida no botão “Adicionar
-    Serviço” a fim de buscar e selecionar um serviço a ser vinculado a mudança;
+4.  Hacer clic en **“Servicios del Cambio”** y después en "Añadir Servicio" para buscar
+    y seleccionar un servicio para vincular al cambio;
 
-5.  A próxima área, diz respeito ao tipo de análise de impacto e risco da
-    mudança. Será necessário apertar sobre a mesma e preencher os campos
-    disponibilizados.
+5.  La siguiente área, se refiere al tipo de análisis de impacto y riesgo
+    del cambio. Será necesario hacer clic en el cambio y completar los campos
+    disponibles.
 
-    !!! Abstract "ATENÇÃO"
-        O tipo de análise de impacto e risco (simplificado ou completa) é definida
-        durante o cadastro do portfólio de mudança, o que permite a flexibilização
-        da escolha de análise por parte do usuário, que deverá descrever sua
-        investigação de acordo com o seu cenário específico.
+    !!! Abstract "ATENCIÓN"
+        El tipo de análisis de impacto y riesgo (simplificado o completo) se define
+        durante el registro del portafolio de cambio, lo que permite la flexibilización
+        de la elección de análisis por parte del usuario, que deberá describir su
+        investigación de acuerdo con su escenario específico.
 
-6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
-    item desejado para vincula-lo a mudança;
+6.  Para vincular un **Cuestionario**, hacer clic en el area de mismo nombre y seleccionar un
+    elemento para vincular al cambio;
 
-7.  Ao clicar em **“Papéis e responsabilidades”**, será disponibilizado campos para
-    inserir os colaboradores e suas funções na execução da mudança;
+7.  Al hacer clic en **“Funciones y Responsabilidades”**, será disponible campos para informar
+    los colaboradores y sus funciones de ejecución en el cambio;
 
-8.  Para vincular uma **Liberação**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
-    preferir cadastrar uma nova liberação, clicar no botão “Cadastrar” e
-    preencher os dados;
+8.  Para vincular una **Liberación**, hacer clic en el area de mismo nombre y despuén en
+    el campo de búsqueda y seleccionar una liberación. Si prefiere registrar una nueva
+    liberación, hacer clic en "Registrar" y completar los datos;
 
-9.  Para vincular **Problemas**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
-    desejar criar um novo problema a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
+9.  Para vincular **Problemas**, hacer clic en el area de mismo nombre y después en
+    el campo de búsqueda y seleccionar un problema. Si quiera crear un nuevo problema
+    para relacionar, sólo hacer clic en "Registrar" y completar los datos necesarios;
 
-10.  Para vincular um **Conhecimento**, clicar na área de “Base de conhecimento”
-    e em seguida apertar sobre o campo de pesquisa e selecionar o conhecimento
-    desejado. Se quiser criar um novo conhecimento, clicar no botão “Cadastrar”
-    e preencher os dados necessários;
+10. Para vincular un **Conocimiento**, hacer clic en "Base de conocimiento" y después en
+    el campo búsqueda y seleccionar un conocimiento. Si quiera crear un nuevo conocimiento,
+    hacer clic en "Registrar" y completar los datos necesarios;
 
-11.  Para vincular **Incidentes/Requisiões**, clicar na área de mesmo nome e em
-    seguida apertar sobre o campo de pesquisa e selecionar o ticket desejado. Se
-    desejar criar um novo incidente a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
+11. Para vincular **Incidentes/Solicitudes**, hacer clic en el area de mismo nombre y después
+    en el campo de búsqueda y seleccionar un ticket. Si quiera crear un nuevo incidente para
+    relacionar, sólo hacer clic en "Registrar" y completar los datos necesarios;
 
-12.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
-    tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
-    selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
-    dirigir para próxima fase do fluxo.
+12. Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar la 
+    ejecución y no avanzar el flujo de actividades o seleccionar "Guardar y avanzar flujo" para
+    cerrar la tarea y direccionar para la siguiente fase del flujo.
     
 !!! tip "About"
 
