@@ -7,7 +7,7 @@ definir um evento de notificação, ou seja, realizar a configuração referente
 notificação que será disparada quando as condições da EPL forem satisfeitas.
 
 É necessário ter conhecimento da linguagem de processamento de eventos. Para
-mais informações consultar o site:* *<http://www.espertech.com/esper>.
+mais informações consultar o site: <http://www.espertech.com/esper>.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir um evento de notificação.
