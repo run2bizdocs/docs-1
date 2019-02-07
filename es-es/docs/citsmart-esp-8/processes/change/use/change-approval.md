@@ -1,46 +1,45 @@
-title: Aprovar uma mudança
-Description: Permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudanças
-#Aprovar uma mudança
+title: Aprobar cambio
+Description: Permite al Comité Asesor de Cambios aprobar o rechazar los cambios
+#Aprobar cambio
 
-Esta funcionalidade permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudança.
+Esta funcionalidad permite al Comité Asesor de Cambios aprobar o rechazar el cambio.
 
-Somente os membros do “Comitê Consultivo de Mudança (CCM) podem realizar a aprovação da mudança. Para aprovar uma mudança deve se atentar na configuração do parâmetro 303 “Votação da RDM utilizando a regra da maioria absoluta (50% + 1) (Valores: “S” ou “N”, Default: “S”), onde o valor “S” define a aprovação da mudança quando há mais de 50% de aprovação do CCM e o valor “N” define a aprovação da mudança quando há 100% de aprovação do CCM.  
+Sólo los miembros del "Comité Asesor de Cambio" (CAB) pueden realizar la aprobación del cambio. Para aprobar un cambio debe observarse en la configuración del parámetro 303 "Votación de RDM" utilizando la regla de la mayoría absoluta (50% + 1) (Valores: "S" o "N", Default: "S"), donde el valor "S" define la aprobación del cambio cuando hay más del 50% de aprobación del CAB y el valor "N" define la aprobación del cambio cuando hay un 100% de aprobación del CAB.  
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para aprovar ou não uma mudança é necessário definir que o grupo ao qual o
-usuário está cadastrado terá o valor igual a ‘SIM’ para Comitê Consultivo de
-Mudanças.
+Para aprobar o no un cambio, es necesario definir que el grupo al que el
+usuario está registrado tendrá el valor igual a 'SÍ' para el Comité Asesor de
+Cambio.
 
-Também é essencial que os tipos de fluxo não emergencial nem padrão (Normal) e
-as “permissões nos fluxos de trabalho” do grupo ao qual o usuário faz parte
-estejam ativadas.
+También es esencial que los tipos de flujo no de emergencia ni estándar (Normal), y
+los "permisos en los flujos de trabajo" del grupo al que pertenece el usuario,
+estén activados.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Clicar no primeiro ícone a esquerda da tela (localizada ao lado da palavra
-    “Mudança”) e em seguida em “Requisições para votação”;
+2.  Hacer clic en el primer icono a la izquierda de la pantalla (situada al lado de la palabra
+    "Cambio") y luego en "Solicitudes de votación";
 
-3.  Clicar sobre a mudança desejada. Para visualizar a mesma, clicar no ícone de
-    mesmo nome.
+3.  Hacer clic en un cambio. Para verlo, hacer clic en el icono de mismo nombre.
 
-4.  Para registrar a aprovação ou rejeição, clicar no ícone “Votação” e
-    selecionar a opção mais adequada ao seu cenário e discorrer as informações
-    essenciais;
+4.  Para registrar la aprobación o rechazo, hacer clic en el icono "Votación" y
+    seleccionar la opción más adecuada a su escenario y discurrir la información
+    esencial;
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Configurar parametrização – mudança](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configurar parametrización – cambio](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 
