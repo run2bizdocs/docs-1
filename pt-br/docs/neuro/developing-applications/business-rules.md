@@ -7,7 +7,7 @@ As regras de negócio definem como o seu negócio funciona, e podem abranger div
 No Neuro, as regras de negócio podem ser construídas através do desenho de um fluxo, ou através de Script.      
 
 ##COMO ACESSAR  
-1-	Acesse a funcionalidade através da navegação no menu principal Neuro → Gerenciamento → Regra de Negócio.      
+1-	Acesse a funcionalidade através da navegação no menu principal Neuro > Gerenciamento > Regra de Negócio.      
 
 ##PRÉ-CONDIÇÕES  
 1-	Não se aplica.    
