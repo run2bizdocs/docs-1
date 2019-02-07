@@ -37,7 +37,7 @@ Procedimiento
 Relacionado
 -------
 
-[La área de trabjo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-esp-8/processes/tickets/use/desktop-of-service-desk.html)
 
 [Configurar parametrización - ticket](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
