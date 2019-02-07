@@ -1,35 +1,35 @@
-title: Calendário de mudanças
-Description: Permite gerenciar os períodos em que a organização passa por uma mudança
-#Calendário de mudanças
+title: Calendario de cambios
+Description: Permite administrar los períodos en que la organización pasa por un cambio
+#Calendario de cambios
 
-Esta funcionalidade permite gerenciar os períodos em que a organização passa por um momento de manutenção ou blackout e assim auxiliar no planejamento de uma mudança.
+Esta funcionalidad permite administrar los períodos en que la organización pasa por un momento de mantenimiento o blackout y así ayudar en la planificación de un cambio.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Calendário de Mudanças;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Calendario de Cambios de Cambios;
 
-2.  Será apresentado a tela de calendário de mudanças, onde poderá visualizar os
-    períodos de manutenção e blackout;
+2.  Se mostrará la pantalla de calendario de cambios, donde podrá visualizar los
+    períodos de mantenimiento y blackout;
 
-3.  Para cadastrar uma nova janela de mudança, clicar na data que desejar;
+3.  Para registrar una nueva ventana de cambio, haga clic en la fecha que desee;
 
-4.  Preencher os campos necessários (o título da janela de mudança, o tipo, a
-    data/hora do início e final, a descrição da alteração, a recorrência da
-    janela de mudança). Existe dois tipos de janela de mudança:
+4.  Completar los campos necesarios (título de la ventana de cambio, tipo, fecha/hora
+    inicial y final, descripción del cambio, recurrencia de la ventana de cambio).
+    Hay dos tipos de ventana de cambio:
 
-    -   Manutenção: usado para estabelecer períodos de tempo em que aas mudanças no
-    IC ocorrerão;
+    -   Mantenimiento: utilizado para establecer períodos de tiempo en que los cambios en el
+    EC se producirán;
 
-    -   Blackout: usado para estabelecer períodos de tempo em que as mudanças no IC
-    não devem ocorrer.
+    -   Desactivación: utilizado para establecer períodos de tiempo en que los cambios en el EC
+    no deben producirse.
 
-5.  Lembrar que o campo “Global” só deverá ser marcado para janela de mudança do
-    tipo “Manutenção” já que este campo só deverá ser usado para uma janela de
-    manutenção que não possuem IC’s associados.
+5.  Recordar que el campo "Global" sólo debe ser marcado para ventana de cambio del
+    tipo "Mantenimiento", ya que este campo sólo debe ser usado para una ventana
+    de mantenimiento que no tienen EC asociados.
 
-6.  Clicar no botão “Adicionar” para efetuar a operação.
+6.  Hacer clic en "Agregar".
 
 !!! tip "About"
 
