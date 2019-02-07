@@ -44,8 +44,7 @@ CITSmart Cloud Security
 CITSmart tiene la conformidad de la seguridad según las siguientes áreas en las que
 es responsable en el ambiente de nube:
 
-Datos del cliente
-----------------
+- Datos del cliente
 
 - Plataforma, Aplicaciones, Gestión de Identidad y Acceso
 
