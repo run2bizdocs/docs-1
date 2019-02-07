@@ -1,8 +1,8 @@
-title:  Cadastrar uma requisição de liberação 
-Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
-#Cadastrar uma requisição de liberação
+title:  Cadastrar uma liberação 
+Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma liberação.
+#Cadastrar uma liberação
 Segundo a ITIL, liberação é "Uma ou mais mudanças a um serviço de TI que são construídas, testadas e implantadas ao mesmo tempo. Uma única liberação pode incluir mudanças ao hardware, software, documentação, processos e outros componentes.".
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma requisição de liberação.
+Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma liberação.
 
 Antes de começar
 --------------------
@@ -21,7 +21,7 @@ Procedimento
 2.  Clicar no botão “Opções” e em seguida em "cadastro";
 
 3.  Preencher todos os campos disponibilizados nas áreas: solicitante e
-    requisição.
+    liberação.
 
 4.  Também é necessário indicar as informações iniciais de planejamento e
     implantação da liberação. Na aba "Outras informações" de cada fase, designar
@@ -42,7 +42,7 @@ Relacionado
 
 [Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relacionar informações à liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
