@@ -10,7 +10,7 @@ Antes de começar
 A Requisição de Liberação é parte do processo de Mudança, sendo assim é
 necessário ter uma RDM (requisição de mudança) cadastrada. Além disso, é
 necessário cadastrar previamente o portfólio de liberação, bem como ter definido
-as permissões de acesso à Requisição de Liberação.
+as permissões de acesso à Liberação.
 
 Procedimento
 ----------------
@@ -18,7 +18,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2.  Clicar no botão “Opções” e em seguida em "cadastro";
+2.  Clicar no botão “Opções” e em seguida em "Cadastro";
 
 3.  Preencher todos os campos disponibilizados nas áreas: solicitante e
     liberação.
