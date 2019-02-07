@@ -1,14 +1,14 @@
 title:  Suspender registro de liberação 
-Description: Permite suspender a execução da requisição de liberação. 
+Description: Permite suspender a execução da liberação. 
 #Suspender registro de liberação
 
-Esta funcionalidade permite suspender a execução da requisição de liberação.
+Esta funcionalidade permite suspender a execução da liberação.
 
 Antes de começar
 ----------------
 
-Para suspender a execução da requisição de liberação é necessário o cadastro
-prévio da mesma, da justificativa de requisição de liberação e permissão para
+Para suspender a execução da liberação é necessário o cadastro
+prévio da mesma, da justificativa de liberação e permissão para
 suspensão.
 
 Procedimento 
@@ -17,7 +17,7 @@ Procedimento 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2.  Localiza a requisição de liberação a suspender, clicar sobre a mesma e em
+2.  Localiza a liberação a suspender, clicar sobre a mesma e em
     seguida no botão “Mais Opções”. Selecionar a opção "Suspender";
 
 3.  Preencher a justificativa de suspensão e o complemento desta justificativa;
@@ -27,15 +27,15 @@ Procedimento 
 O que fazer depois
 ------------------
 
-Verificar se a situação da requisição de liberação desejada se encontra com a
-situação "Suspensa" na lista de requisição de liberação.  
+Verificar se a situação da liberação desejada se encontra com a
+situação "Suspensa" na lista de itens de liberação.  
 
 Relacionado
 -----------
 
 [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Cadastrar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 [Cadastrar a justificativa de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
 
