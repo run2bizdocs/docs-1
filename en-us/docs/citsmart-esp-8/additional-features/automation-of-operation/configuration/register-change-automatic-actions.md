@@ -16,8 +16,7 @@ Before getting started
 ----------------------
 To register the change automatic actions, it's necessary to previously register
 the unit, requester (employee), contract linked to the employee and unit; the
-Change Advisory Board (group), type of change being linked to the flow about the
-request for change; configure the parameters 47, 279 and 280 about the change.
+Change Advisory Board (group) and configure the parameters 47, 279 and 280 about the change.
 
 Procedure
 ---------
