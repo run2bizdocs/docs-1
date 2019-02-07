@@ -1,31 +1,29 @@
-title: Cancelar uma mudança
-Description: Permite cancelar a mudança inútil a empresa
-#Cancelar uma mudança 
+title: Cancelar cambio
+Description: Permite cancelar el cambio inútil a la empresa
+#Cancelar cambio 
 
-Esta funcionalidade permite cancelar a mudança que se tornou inútil ou obsoleta à organização.
+Esta funcionalidad permite cancelar el cambio que se ha vuelto inútil o obsoleta a la organización.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio da mudança.
+Es necesario tener registrado el cambio.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança que deseja cancelar, clicar no botão “Abrir” e em
-    seguida na área “Revisão e fechamento”;
+2.  Buscar el cambio para cancelar, hacer clic en "Abrir" y después en "Revisión y cierre”;
 
-3.  Na área supracitada, clicar na aba “Mais” e em seguida “Fechamento”;
+3.  En el area anteriior, hacer clic en la pestaña "Más" y después en "Cierre”;
 
-4.  Selecionar a opção “Cancelada” disponibilizada no campo “Situação”;
+4.  Seleccionar la opción "Cancelada" disponible en "Situación”;
 
-5.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
-    tarefa atual” para registar o cancelamento e não avançar o fluxo da
-    atividade ou selecionar o botão “Gravar e avançar o fluxo” para finalizar a
-    tarefa e dirigir para próxima fase do fluxo.
+5.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para
+    registrar la cancelación y no avanzar el flujo de la actividad o seleccionar
+    "Grabar y avanzar flujo" para cerrar la tarea y direccionar pra próxima fase del flujo.
 
 !!! tip "About"
 
