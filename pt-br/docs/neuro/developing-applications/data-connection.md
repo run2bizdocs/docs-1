@@ -5,7 +5,7 @@ Description: Todas as conexões de banco de dados que são necessárias para as 
 Todas as conexões de banco de dados que são necessárias para as aplicações criadas através do Neuro são cadastradas aqui.    
 
 ##COMO ACESSAR    
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Conexão de Banco de Dados.  
+1- Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Conexão de Banco de Dados.  
 
 ##PRÉ-CONDIÇÕES  
 1- Deverá ser criada tanto a conexão de banco de dados da aplicação construída, quanto a conexão com os bancos de dados aos quais a aplicação se integra.    
