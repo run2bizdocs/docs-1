@@ -1,12 +1,12 @@
 title: Cancelar a liberação
-Description: Permite cadastrar a requisição de liberação. 
+Description: Permite cancelar a liberação. 
 #Cancelar a liberação
-Esta funcionalidade permite cadastrar a requisição de liberação.
+Esta funcionalidade permite cancelar a liberação.
 
 Antes de começar
 --------------------
 
-É necessário o cadastro prévio da requisição de liberação e a permissão para o
+É necessário o cadastro prévio da liberação e a permissão para o
 cancelamento da mesma.
 
 Procedimento
@@ -18,7 +18,7 @@ Procedimento
 2.  Localizar a liberação que deseja cancelar, clicar no
     botão “Abrir”;
 
-3.  Na área de **Fechamento**, alterar a situação da requisição de liberação
+3.  Na área de **Fechamento**, alterar a situação da liberação
     para "**Cancelada**";
 
 4.  Apertar o ícone “Opções” e em seguida, clicar no botão "Gravar e avançar o
