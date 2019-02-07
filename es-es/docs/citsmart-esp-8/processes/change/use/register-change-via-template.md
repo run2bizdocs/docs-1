@@ -1,38 +1,38 @@
-title: Cadastrar uma mudança via template
-Description: Permite cadastrar mudanças via template
-#Cadastrar uma mudança via template
+title: Registrar cambio a través de plantilla
+Description: Permite registrar cambios a través de plantilla
+#Registrar cambio a través de plantilla
 
-Permite o cadastro da mudança via um template previamente registrado. A ideia do template consiste em agilizar o cadastro de novas mudanças ao agrupa-las numa temática similar.
+Permite el registro del cambio a través de una plantilla previamente registrada. La idea de la plantilla consiste en agilizar el registro de nuevos cambios al agruparlas en una temática similar.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É imprescindível o cadastro anterior do template e do portfólio de mudanças
+Es necesario tener registrado la plantilla y el portafolio de cambios
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Clicar no botão “Opções” e em seguida em “Cadastro via template;
+2.  Hacer clic en "Opciones" y después en "Registrarse a través de platnilla";
 
-3.  Selecionar o template desejado;
+3.  Seleccionar una plantilla;
 
-4.  Preencher todos os campos disponibilizados nas áreas: solicitante e mudança
-    (inclusive selecionar o portfólio desejado);
+4.  Completar todos los campos disponibles en: solicitante y cambio (incluso
+    seleccionar un portafolio);
 
-5.  Também é necessário indicar as informações preliminares de “planejamento”,
-    “plano de reversão” e “revisão e fechamento”,
+5.  También es necesario indicar las informaciones preliminares de "planificación",
+    "plan de reversión" y "revisión y cierre”,
 
-6.  Clicar no botão “Opções” e em seguida “Gravar”;
+6.  Hacer clic en "Opciones" y después en "Guardar”;
 
 Relacionado 
 ------------
 
-[Cadastrar um template de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
+[Registrar plantilla de cambio](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
 
-[Criar um portfólio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
+[Crear portafolio de cambio](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
