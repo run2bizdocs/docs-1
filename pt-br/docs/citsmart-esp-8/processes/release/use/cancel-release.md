@@ -15,7 +15,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2.  Localizar a requisição de liberação que deseja cancelar, clicar no
+2.  Localizar a liberação que deseja cancelar, clicar no
     botão “Abrir”;
 
 3.  Na área de **Fechamento**, alterar a situação da requisição de liberação
