@@ -1,28 +1,28 @@
-title: Pesquisa avançada de mudanças encerradas
-Description: Permite realizar a busca de mudanças encerradas
-#Pesquisa avançada de mudanças encerradas
+title: Búsqueda avanzada de cambios cerrados
+Description: Permit buscar cambios cerrados
+#Búsqueda avanzada de cambios cerrados
 
-Esta funcionalidade permite realizar a busca de mudanças de acordo com os filtros definidos.  
+Esta funcionalidad permite buscar cambios de acuerdo con los filtros definidos.  
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Clicar no ícone simbolizado por uma seta para baixo disponível ao lado
-    direito da tela, dentro do campo de pesquisa;
+2.  Hacer clic en el icono simbolizado por una flecha hacia abajo disponible al lado
+    derecho de la pantalla, dentro del campo de búsqueda;
 
-3.  Apertar o botão “Pesquisa avançada”;
+3.  Hacer clic en "Búsqueda avanzada”;
 
-4.  Preencher os filtros desejados (período de abertura, solicitante, tipo,
-    dentre outros) e clicar em “Pesquisar”;
+4.  Completar los filtros que quiera (periodo de apertura, solicitante, tipo,
+    dentre otros) y hacer clic en "Búsqueda”;
 
-5.  Para gerar o relatório de mudanças no formato PDF, clicar no botão “Gerar
-    PDF” e para gerar o relatório no formato Excel, clicar no botão “Gerar XLS”;
+5.  Para crear el informe de cambios en PDF, hacer clic en "Crear PDF" y para crear
+    el informe en Excel, hacer clic en "Crear XLS”;
 
-6.  Ao lado de cada registro de mudança, há ícones para visualização da
-    requisição e seus anexos.
+6.  Al lado derecho de cada registro de cambio, hay iconos para ver la solicitud y sus
+    adjuntos.
 
 !!! tip "About"
 
