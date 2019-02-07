@@ -1,56 +1,53 @@
-title: Atividades da fase de planejamento da mudança
-Description: Permite planejar as atividades a serem executadas junto a mudança 
-#Atividades da fase de planejamento da mudança 
+title: Actividades de la fase de planificación del cambio
+Description: Permite planificar las actividades a realizar junto al cambio 
+#Actividades de la fase de planificación del cambio 
 
-Esta funcionalidade permite planejar as atividades a serem executadas junto a mudança.
+Esta funcionalidad permite planificar las actividades a realizar junto al cambio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-As atividades de Planejamento ocorrem após o cadastro da mudança, sendo assim,
-verifique a existência de uma Mudança e, também, se tem permissão para
-criar/executar atividades.  
+Las actividades de Planificación ocurren después del registro del cambio, siendo así,
+comprobar la existencia de un cambio y, también, si tiene permiso para
+crear/ejecutar actividades.  
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Planejamento”;
+2.  Buscar un cambio para planificar la actividad, hacer clic en "Abrir" y
+    después en el área "Planificación”;
 
-3.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+3.  Es posible crear un cuadro Kaban para gestionar las actividades
+    registradas. Sólo hacer clic en “+Workspace” y completar los datos
+    disponibles, por ejemplo: título, seleccionar el usuario o grupo responsables
+    por la ejecución de las tareas, dentre otros. También es permitido vincular un
+    cuadro ya creado al hacer clic  en otro botón relacionado al “Workspace”.
 
-4.  Ainda é possível vincular os projetos, ações, notificações, conhecimentos e
-    anexos de arquivos para detalhar a execução da mudança. Para tanto, é
-    necessário clicar sobre cada aba disponibilizada, selecionar o item desejado
-    para vincula-lo à mudança
+4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y
+    adjuntos de archivos para detallar la ejecución del cambio. Para ello, es necesario
+    hacer clic en cada pestaña disponible, seleccionar el elemento deseado para 
+    vincularlo al cambio
 
     !!! Abstract "NOTA"
-        É disponível a criação do zero de projeto, ao clicar em “Adicionar” e depois
-        na aba “Cadastro”, e registrar o novo item. Partindo do mesmo preceito, é
-        admitido a criação de novas notificações do sistema, ao clicar no botão
-        “Cadastrar”, localizado na aba de mesmo nome.
+        Se dispone de la creación del cero del proyecto, al hacer clic en "Agregar" y luego
+        en la pestaña "Registro", y registrar el nuevo elemento. A partir del mismo precepto, se
+        admite la creación de nuevas notificaciones del sistema, al hacer clic en el botón
+        "Registrar", ubicado en la pestaña del mismo nombre.
 
-5.  Na aba “Mais” é liberado agendar estas atividades (na opção “Outras
-    informações”) e apontar todas as informações pertinentes na opção
-    “Anotações”.
+5.  En la pestaña "Más" es liberado programar estas actividades (en la opción "Otras informaciones"
+    y apuntar todas las informaciones pertinentes en la opción "Anotaciones”.
 
-6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento e não avançar o fluxo da atividade ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fuxo.
+6.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar
+    las actividades de planificación y no avanzar el flujo de actividad o seleccionar "Guardar
+    y avanzar flujo" para cerrar la tarea y direccionar para lá siguiente fase del flujo.
 
 Relacionado 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Registrar cambio](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
