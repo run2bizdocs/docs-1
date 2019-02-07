@@ -1,21 +1,21 @@
-title: Cadastrar uma justificativa de mudança
-Description: Tem por objetivo registrar a justificativa de mudança
-#Cadastrar uma justificativa de mudança
+title: Registrar justificación de cambio
+Description: Tiene por objetivo registrar la justificación de cambio
+#Registrar justificación de cambio
 
-Esta funcionalidade tem por objetivo registrar a justificativa de mudança que será utilizado em outras rotinas do sistema.
+Esta funcionalidad tiene por objetivo registrar la justificación de cambio que se utilizará en otras rutinas del sistema.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Justificativa Requisição Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Justificación Solicitud Cambio;
 
-2.  Clicar no botão “Novo”;
+2.  Hacer clic en "Nuevo”;
 
-3.  Preencher os campos necessários (Descrição, situação e informar se este
-    cadastro adequasse ao motivo de suspensão da requisição);
+3.  Completar los campos necesarios (Descripción, situación e informar si éste
+    registro se adecua al motivo de suspensión de la solicitud);
 
-4.  Clicar “Gravar” para efetuar a operação.
+4.  Hacer clic in "Guardar".
 
 !!! tip "About"
 
