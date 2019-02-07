@@ -16,7 +16,7 @@ quatro ícones:
    - Para gerar um relatório no formato PDF, clicar no ícone "Download documento
      PDF";
 
-   - Para gerar um relatório no formato Excel, clicar no ícone Download documento
+   - Para gerar um relatório no formato Excel, clicar no ícone "Download documento
      XLS".
 
 Gerar relatórios de monitoramento de incidentes
