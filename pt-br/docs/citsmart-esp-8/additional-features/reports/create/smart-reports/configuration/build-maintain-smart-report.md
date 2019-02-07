@@ -41,7 +41,7 @@ Procedimento
 !!! Abstract "NOTA"
 
     Para se criar um Sub Relatório (Drill) o " Tipo de relatório" deverá ser
-    "Gráfico de pizza" ou " Gráfico de Barra".**
+    "Gráfico de pizza" ou " Gráfico de Barra".
 
 
 4-  Definir o módulo (funcionalidade) onde será exibido o relatório que está
