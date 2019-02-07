@@ -19,25 +19,25 @@ relacionamentos armazenadas na BDGC.
 Uso
 -------
 
-- [Pesquisa avançada de registros de liberação encerrados](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
+- [Pesquisa avançada de liberações encerradas](/pt-br/citsmart-esp-8/processes/release/use/advanced-search-for-release.html)
  
-- [Cancelar o registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
+- [Cancelar a liberação](/pt-br/citsmart-esp-8/processes/release/use/cancel-release.html)
 
 - [Atividades da fase de Implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
 - [Executar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Cadastrar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relacionar informações à requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar informações à liberação](/pt-br/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
-- [A área de trabalho da gerenciamento de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
+- [A área de trabalho do gerenciamento de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-desktop.html)
    
 - [Cadastrar a justificativa de liberação](/pt-br/citsmart-esp-8/processes/release/use/release-justification.html)
 
 - [Atividades da fase de Planejamento da liberação](/pt-br/citsmart-esp-8/processes/release/use/release-planning-activities.html)
    
-- [Reabrir um registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
+- [Reabrir liberação](/pt-br/citsmart-esp-8/processes/release/use/reopen-release.html)
 
 - [Suspender registro de liberação](/pt-br/citsmart-esp-8/processes/release/use/suspend-release.html)
 
