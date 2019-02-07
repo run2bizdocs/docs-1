@@ -1,29 +1,29 @@
-title: Relatórios adicionais de uma mudança
-Description: Permite realizar atividades complementares da mudança
-#Relatórios adicionais de uma mudança
+title: Informes adicionales de un cambio
+Description: Permite hacer actividades complementares del cambio
+#Informes adicionales de un cambio
 
-Existem alguns relatórios complementares a mudança, que auxiliam compreender o porque da necessidade da criação da mudança e o entender também como esta foi executada e implementada de forma exitosa.
+Hay algunos informes complementarios al cambio, que ayudan a comprender por qué la necesidad de la creación del cambio, además de entender cómo ésta fue ejecutada e implementada de forma exitosa.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança desejada e clicar no ícone “Abrir”;
+2.  Buscar un cambio y hacer clic en el icono "Abrir”;
 
-3.  Clicar no botão “Opções” e em seguida no “Gerar PDF” para gerar um relatório
-    com as informações essenciais da mudança no formato PDF;
+3.  Hacer clic en "Opciones" y después en "Crear PDF" para crear informes con informaciones
+    esenciales del cambio en PDF;
 
-4.  Clicar no botão “Opções” e em seguida no “Relatório Registro de Execução”
-    para gerar um relatório com o histórico de todos os registros de execução
-    realizados num ciclo de vida de determinada mudança;
+4.  Hacer clic en "Opciones" y después en "Informe del Registro de Ejecución" para crear
+    un informe con historial de todos los registros de ejecución hechos en un ciclo de vida
+    de un cambio;
 
 !!! Abstract "NOTA"
 
-    É possível também só visualizar o histórico dos registros de execução e
-    ocorrências ao clicar no item “Históricos de Mudança” (localizado ao lado
-    esquerdo da tela).
+    Es posible que también sólo se puede ver el historial de los registros de ejecución
+    y ocurrencias al hacer clic en el elemento "Historial de Cambio" (al lado izquierdo
+    de la pantalla).
 
 !!! tip "About"
 
