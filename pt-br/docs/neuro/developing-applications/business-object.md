@@ -11,7 +11,7 @@ Todo objeto de negócio precisa possuir uma chave primária, no entanto, nem sem
 Cada objeto de negócio criado representa uma tabela do banco de dados.  
 
 ##COMO ACESSAR  
-1.	Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Objeto de Negócio.  
+1.	Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Objeto de Negócio.  
 
 ##PRÉ-CONDIÇÕES  
 1.	Não se aplica.  
