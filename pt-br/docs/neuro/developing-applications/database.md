@@ -7,7 +7,7 @@ Através dessa tela é realizado o cadastro dos bancos de dados que são utiliza
 
 ##COMO ACESSAR    
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Banco de dados.    
+1- Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Banco de dados.    
 
 ##PRÉ-CONDIÇÕES  
 
