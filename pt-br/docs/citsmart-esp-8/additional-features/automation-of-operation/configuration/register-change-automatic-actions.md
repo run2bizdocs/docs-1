@@ -17,8 +17,7 @@ Antes de começar
 
 Para cadastrar uma ação automática de mudança é preciso registrar previamente a
 unidade, o solicitante (colaborador), o contrato e o mesmo estar vinculado ao
-colaborador e a unidade; o Comitê Consultivo de Mudanças (grupo), o tipo de
-mudança e a mesma estar vinculada ao fluxo referente a requisição de mudança;
+colaborador e a unidade; o Comitê Consultivo de Mudanças (grupo) e a mesma estar vinculada ao fluxo referente a mudança;
 configurar os parâmetros 47, 279 e 280 referentes a mudança.
 
 Procedimento
@@ -41,8 +40,6 @@ Relacionado
 [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 [Cadastrar um colaborador](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
-
-Cadastrar tipo de mudança
 
 [Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
