@@ -6,7 +6,7 @@ Description:Os fluxos de integração de processos são workflows que possuem ta
 Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
 ##COMO ACESSAR  
-1- Acesse a funcionalidade através do menu Workflow/ESI → Administração → Design workflow/ESI.  
+1- Acesse a funcionalidade através do menu Workflow/ESI > Administração > Design workflow/ESI.  
 
 ##PRÉ-CONDIÇÕES  
 1- Não se aplica.   
