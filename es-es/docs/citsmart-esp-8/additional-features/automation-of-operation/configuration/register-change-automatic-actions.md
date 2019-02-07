@@ -44,8 +44,6 @@ Relacionado
 
 [Registrar colaborador](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Cadastrar tipo de mudança
-
 [Registrar unidad](/es-es/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
 [Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
