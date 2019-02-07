@@ -2,8 +2,11 @@ title: Registrar servicio
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un servicio.
 #Registrar servicio
 El registro de los servicios se divide en dos tipos:
+
 •	Negocio: provee los servicios de negocios / TI;
+
 •	Apoyo: provee los servicios de apoyo/técnico.
+
 La elección del tipo Negocio/Apoyo debe estar alineada con el tipo del contrato que se pretende vincular al Portafolio. Sólo los contratos del tipo "Contrato" se vinculan al tipo "Negocio", y sólo los contratos del tipo "Contrato de Apoyo" y "Acuerdo de Nivel Operativo" están vinculados al tipo "Apoyo".
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un servicio.
 
