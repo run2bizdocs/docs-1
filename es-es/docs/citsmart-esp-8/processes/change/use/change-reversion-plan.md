@@ -1,52 +1,50 @@
-title: Cadastrar o plano de reversão da mudança
-Description: Permite cadastrar o plano de reversão 
-#Cadastrar o plano de reversão da mudança
+title: Registrar plan de reversión del cambio
+Description: Permite registrar el plan de reversión 
+#Registrar plan de reversión del cambio
 
-Esta funcionalidade propicia cadastrar o plano de reversão da mudança, que permite que os serviços voltem ao seu estado inicial no caso de insucesso na implementação da alteração.
+Esta funcionalidad propicia registrar el plan de reversión del cambio, que permite que los servicios vuelvan a su estado inicial en caso de fracaso en la implementación del cambio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-As atividades de Planejamento ocorrem após o cadastro da mudança, sendo assim,
-verifique a existência de uma Mudança e, também, se tem permissão para
-criar/executar atividades.
+Las actividades de Planificación ocurren después del registro del cambio, siendo así,
+comprobar la existencia de un cambio y, también, si tiene permiso para
+crear/ejecutar actividades.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Plano de reversão”;
+2.  Buscar el cambio para planear la actividad, hacer clic en "Abrir"
+    y después en "Plan de reversión”;
 
-3.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+3.  Será posible crear un cuadro Kaban para gestionar las actividades registradas.
+    Sólo hacer clic en “+Workspace” y completar los datos disponible, por ejemplo:
+    título, seleccionar el usuario o grupo responsable para ejecución de las
+    tareas, y otros. También es permitido vincular un cuadro ya creado al hacer clic 
+    en el otro botón relacionado al “Workspace”.
 
-4.  Ainda é possível vincular ações, notificações, conhecimentos e anexos de
-    arquivos para detalhar a execução da mudança. Para tanto, é necessário
-    clicar sobre na aba disponibilizada, selecionar o item desejado para
-    vincula-lo à mudança
+4.  Aún es posible vincular acciones, notificaciones, conocimientos y anexos de
+    adjuntos para detallar la ejecución del cambio. Para ello, es necesario
+    hacer clic sobre en la pestaña disponible, seleccione el elemento deseado para
+    vincularlo al cambio
 
     !!! Abstract "NOTA"
-        É disponível a criação de novas notificações do sistema, ao clicar no botão
-        “Cadastrar”, localizado na aba de mesmo nome.
+        Es disponible la creación de nuevas notificaciones del sistema, al hacer clic en
+        “Registrar”, ubicado en la pestaña de mismo nombre.
 
-5.  É possível apontar todas as informações pertinentes na aba “Anotações”. 
+5.  Es posible apuntar todas las informaciones pertinentes en la pestaña "Anotaciones”. 
 
-6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fluxo.  
+6.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para
+    registrar las actividades de planificación o seleccionar "Guardar y avanzar
+    flujo" para cerrar la tarea y direccionar pra la siguiente fase del flujo.  
 
 Relacionado 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Registrar cambio](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
