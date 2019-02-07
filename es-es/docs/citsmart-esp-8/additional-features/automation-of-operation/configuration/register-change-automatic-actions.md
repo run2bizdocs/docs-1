@@ -18,8 +18,7 @@ Antes de empezar
 
 Para registrar una acción automática de cambio, es necesario registrar
 previamente la unidad, solicitante (colaborador), contrato vinculado al
-colaborador y la unidad; el Comité Asesor de Cambios (grupo), tipo de cambio
-vinculada al flujo referente a la solicitud de cambio; configurar los parámetros
+colaborador y la unidad; el Comité Asesor de Cambios (grupo) y configurar los parámetros
 47, 279 y 280 referentes al cambio.
 
 Procedimiento
