@@ -1,69 +1,69 @@
-title: Implementar regras de segurança de senha
-Description: Configuração de senhas de uso do sistema, disponibilizando maior nível de segurança com uso de diferentes caracteres.
-#Implementar regras de segurança de senha
+title: Implementar reglas de seguridad de contraseña
+Description: Configuración de contraseñas de uso del sistema, ofreciendo mayor nivel de seguridad con uso de diferentes caracteres.
+#Implementar reglas de seguridad de contraseña
 
-Esta funcionalidade retrata a configuração de senhas de uso do sistema,
-disponibilizando maior nível de segurança com uso de diferentes caracteres.
+Esta funcionalidad retrata la configuración de contraseñas de uso del sistema,
+ofreciendo mayor nivel de seguridad con el uso de diferentes caracteres.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-     Esta política de segurança não está disponível para usuários LDAP.
+     Esta política de seguridad no está disponible para los usuarios LDAP.
      
 
-Regras default ao habilitar a Política de Segurança:
+Reglas por defecto al habilitar la Política de Seguridad:
 
--   Tamanho mínimo de 8 caracteres;
+-   Tamaño mínimo de 8 caracteres;
 
--   No mínimo uma letra minúscula;
+-   Al menos una letra minúscula;
 
--   No mínimo uma letra maiúscula;
+-   Al menos una letra mayúscula;
 
--   No mínimo um número;
+-   Al menos un número;
 
--   No mínimo um caracter especial (símbolo)
+-   Por lo menos un carácter especial (símbolo);
 
--   A senha não pode ser igual as últimas 3 senhas utilizadas;
+-   La contraseña no puede ser igual a las últimas 3 contraseñas utilizadas;
 
--   A senha expira em 3 meses
+-   La contraseña caduca en 3 meses.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar o menu principal Sistema \> Configurações \> Política de Segurança;
+1.  Acceder al menú principal Sistema \> Configuración \> Política de Seguridad;
 
-2.  Habilitar a chave “Habilitar política de senha”;
+2.  Habilitar la clave "Habilitar política de contraseña";
 
-3.  No campo **Força da senha** o administrador deverá definir o número mínimo
-    de caracteres da senha (valor mínimo de 8) e se a mesma conterá exigências
-    de:letras maiúsculas, minúsculas, números e símbolos;
+3.  En el campo **Complejidad de la contraseña** el administrador debe establecer el número mínimo
+    de caracteres de la contraseña (valor mínimo de 8) y si la misma contendrá requisitos
+    de: letras mayúsculas, minúsculas, números y símbolos;
 
-4.  Definir a quantidade de senhas anteriores na qual a nova não poderá ser
-    igual, no limitador **A nova senha não pode ser igual às anteriores**;
+4.  Establecer la cantidad de contraseñas anteriores en la que la nueva no puede ser
+    igual, en el limitador **La nueva contraseña no puede ser igual que las anteriores**;
 
-5.  Para novos usuários a troca de senha poderá ser definida ao clicar na chave
-    “Exigir a troca de senha no primeiro login”
+5.  Para nuevos usuarios, el cambio de contraseña se puede definir al hacer clic en la clave
+    “Forzar el cambio de contraseña la primera vez que se inicie sesión”
 
-6.  No campo **Duração da senha** definir o tempo de expiração da senha;
+6.  En el campo **Duración de la contraseña** definir el tiempo para caducar la contraseña;
 
-7.  Para usuários que já estejam em operação é possível forçar a troca de senha
-    da nova configuração, a partir do próximo login, clicar na chave “Forçar
-    troca de senha no próximo login para todos os usuários”;
+7.  Para usuarios que ya están en operación, es posible forzar el cambio de contraseña
+    de la nueva configuración, desde el siguiente inicio de sesión, haga clic en la clave “Forzar
+    el cambio de contraseña la primera vez que se inicie sesión”;
 
-8.  Clicar em “Salvar”.
-
-!!! Abstract "NOTA"
-
-    O Sistema notifica o usuário 3 dias antes da expiração da senha atual,
-    fazendo este alerta através de mensangem em caixa de texto que surgirá uma
-    vez ao dia ao realizer o login no Sistema. Depois que a senha estiver
-    expirada, o usuário é enviado automaticamente para a tela de perfil de
-    usuário com painel de troca de senha aberto (somente poderá utilizar o
-    sistema novamente se realizer a troca de senha).
+8.  Hacer clic en "Guardar”.
 
 !!! Abstract "NOTA"
 
-    Para alterar a senha o usuário pode redefinir a senha por dois caminhos
-    diferentes, ver [Cadastrar usuário][1] e [Editar perfil de usuário][2].
+    El sistema notifica al usuario 3 días antes de la expiración de la contraseña actual,
+    haciendo esta alerta a través de mensajería en cuadro de texto que surgirá una
+    vez al día al iniciar sesión en el sistema. Después de que la contraseña esté
+     expirado, el usuario se envía automáticamente a la pantalla de perfil de
+     usuario con panel de cambio de contraseña abierto (sólo podrá utilizar el
+     sistema de nuevo si realiza el cambio de contraseña).
+
+!!! Abstract "NOTA"
+
+    Para cambiar la contraseña, el usuario puede redefinir la contraseña por dos caminos
+    diferentes, ver [Registrar usuario][1] y [Editar perfil del usuario][2].
 
 
 !!! tip "About"
