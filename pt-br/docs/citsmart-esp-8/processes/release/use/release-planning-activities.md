@@ -1,12 +1,12 @@
 title:  Atividades da fase de planejamento da liberação 
-Description: Permite planejar as atividades a serem executadas junto a requisição de liberação. 
+Description: Permite planejar as atividades a serem executadas junto a liberação. 
 #Atividades da fase de planejamento da liberação
-Esta funcionalidade permite planejar as atividades a serem executadas junto a requisição de liberação.
+Esta funcionalidade permite planejar as atividades a serem executadas junto a liberação.
 
 Antes de começar
 --------------------
 
-As atividades de Planejamento ocorrem após o registro da Requisição da
+As atividades de Planejamento ocorrem após o registro da 
 Liberação, sendo assim, verifique a existência de uma Liberação e, também, se
 tem permissão para criar/executar atividades.
 
@@ -16,7 +16,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Liberação \> Liberação;
 
-2.  Localizar a requisição de liberação da qual deseja Planejar a atividade,
+2.  Localizar a liberação da qual deseja Planejar a atividade,
     clicar no botão “Abrir” e em seguida na área "Planejamento da liberação";
 
 3.  Podemos criar um quadro Kaban para gerenciar as atividades cadastradas.
@@ -26,7 +26,7 @@ Procedimento
     responsáveis para a execução das tarefas, dentre outros;
 
 4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
-    notas, documentos e notificações do sistema à requisição de liberação. Para
+    notas, documentos e notificações do sistema à liberação. Para
     tanto, é necessário clicar sobre o quadro disponibilizados, selecionar o
     item desejado para vincula-lo à liberação;
 
@@ -42,7 +42,7 @@ O que fazer a seguir
 Relacionado
 ---------------
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Cadastrar uma liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 [Atividades da fase de implantação da liberação](/pt-br/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
