@@ -1,31 +1,30 @@
-title: Cadastrar um template de mudança
-Description: Tem por objetivo cadastrar um template para facilitar a abertura de nova mudança
-#Cadastrar um template de mudança
+title: Registrar plantilla de cambio
+Description: Tiene por objetivo registrar una plantilla para facilitar la apertura de nuevo cambio
+#Registrar plantilla de cambio
 
-Esta funcionalidade tem por objetivo cadastrar um template para facilitar a abertura de novas mudanças semelhantes entre si.
+Esta funcionalidad tiene por objetivo registrar una plantilla para facilitar la apertura de nuevos cambios semejantes entre sí.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Na aba “Cadastro”, preencher os campos necessários (Nome, contrato,
-    solicitante, título, modelo de mudança, descrição, grupo, comitê consultivo
-    de mudança, urgência, impacto, prioridade e selecionar o item de
-    configuração e conhecimento a vincular ao template). Lembrar que existe
-    diferentes tipos de mudança:
+2.  Hacer clic en la pestaña "Registro", completar los campos necesarios (nombre, contrato,
+    solicitante, título, plantilla de cambio, descripción, grupo, comité asesor de cambio,
+    urgencia, impacto, prioridad y seleccionar el elemento de configuración y conocimiento
+    para vincular la plantilla). Recordar que existen diferentes tipos de cambio:
 
-    -   **Mudança padrão**: é uma mudança que é previamente pré-aprovada pelo
-    Gerenciamento de Mudança e já possui procedimentos aceitos e estabelecidos;
+    -   **Cambio estándar**: es un cambio que es previamente pre-aprobado por la
+     Gestión de Cambio y ya tiene procedimientos aceptados y establecidos;
 
-    -   **Mudança normal**: é uma mudança que segue um fluxo normal de avaliação,
-    aprovação e autorização;
+    -   **Cambio normal**: es un cambio que sigue un flujo normal de evaluación,
+     aprobación y autorización;
 
-    -   **Mudança emergencial**: é uma mudança em um serviço que pretende reparar
-    emergencialmente um erro no serviço de TI.
+    -   **Cambio de emergencia**: es un cambio en un servicio que desea reparar
+     un error en el servicio de TI.
 
-5.  Clicar no botão “Gravar” para efetuar a operação.
+5.  Hacer clic en "Guardar".
 
 !!! tip "About"
 
