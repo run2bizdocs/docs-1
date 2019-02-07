@@ -1,54 +1,50 @@
-title: Encerrar a mudança
-Description: Permite executar a mudança 
-#Encerrar a mudança 
+title: Cerrar cambio
+Description: Permite ejecutar el cambio 
+#Cerrar cambio 
 
-Esta funcionalidade permite encerrar a mudança, explanando todos os fatos ocorridos no ciclo de vida da mudança, favorecendo assim o reexame e fiscalização da alteração criada a fim de reduzir custos e riscos para a organização.
+Esta funcionalidad permite cerrar el cambio, explicando todos los hechos ocurridos en el ciclo de vida del cambio, favoreciendo así la reconsideración y fiscalización de la alteración creada a fin de reducir costos y riesgos para la organización.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É imprescindível a pré-existência de uma mudança.  
+Es necesario tener un cambio.  
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
-    “Abrir” e em seguida na área “Plano de reversão”;
+2.  Buscar el cambio para planear la actividad, hacer clic en "Abrir" y después
+    en "Plan de reversión”;
 
-3.  Na aba “Revisão”, é preciso selecionar a opção que define se a mudança foi
-    realizada com sucesso;
+3.  En la pestaña "Revisión", es necesario seleccionar la opción que define si el cambio
+    fue hecho correctamente;
 
-4.  Será possível criar um quadro Kaban para gerenciar as atividades
-    registradas. Basta apertar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como: título, selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros. Também é permitido
-    vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+4.  Será posible crear un cuadro Kaban para gestionar las actividades registradas. Sólo
+    hacer clic en “+Workspace” y completar los datos disponibles, por ejemplo: título,
+    seleccionar el usuario o grupo responsable por la ejecución de las tareas, y otros.
+    También es permitido vincular un cuadro ya creado al hacer clic en el otro botón relacionado
+    al “Workspace”.
 
-5.  Ainda é possível vincular incidentes, problemas, lições aprendidas (que são
-    basicamente conhecimentos que dizem respeito a mudança efetuada) e anexos de
-    arquivos para detalhar a execução da mudança. Para tanto, é necessário
-    clicar sobre na aba disponibilizada, selecionar o item desejado para
-    vincula-lo à mudança.
+5.  Aún es posible vincular incidentes, problemas, lecciones aprendidas (que son
+    básicamente conocimientos que se refieren al cambio efectuado) y adjuntos de
+    archivos para detallar la ejecución del cambio. Para ello, es necesario hacer
+    clicen la pestaña disponible, seleccionar un elemento para vincular al cambio.
 
-6.  Clicar na aba “Mais” e em seguida “Fechamento” para registar os dados
-    referente a execução da mudança, tais como a categoria de solução, a
-    situação da mudança, dentre outros. Já na mesma aba, porém na opção
-    “Anotações”, é disponibilizado um campo para apontamento de informações
-    pertinentes a esta fase do fluxo.
+6.  Hacer cli en la pestaña "Más" y después en "Cierre" para registrar los datos
+    referentes a la ejecución del cambio, por ejemplo: categoría de la solución,
+    situación del cambio, y otros. Ya en la misma pestaña, pero en la opción "Anotaciones",
+    es disponible un campo para apuntamento de informaciones pertinentes a esta fase del flujo.
 
-7.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
-    tarefa atual” para registar as atividades de planejamento ou selecionar o
-    botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
-    próxima fase do fluxo.
+7.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar
+    las actividades de planificación o seleccionar "Guardar y avanzar flujo" para cerrar la tarea
+    y direccionar para la siguiente fase del flujo.
 
 Relacionado 
 ------------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Registrar cambio](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
