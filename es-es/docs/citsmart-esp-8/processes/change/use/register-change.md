@@ -1,33 +1,33 @@
-title: Cadastrar uma mudança
-Description: Tem por objetivo registrar uma mudança. 
-#Cadastrar uma mudança 
+title: Registrar cambio
+Description: Tiene por objeto registrar un cambio. 
+#Registrar cambio 
 
-Esta funcionalidade tem por objetivo registrar uma mudança. Segundo a ITIL, é necessário formalizar a solicitação de mudança, para que seja registrado pela equipe responsável todos os procedimentos realizados para a alteração desejada (desde a sua requisição ao impacto de sua implementação) monitorando o mesmo por todo o seu ciclo de vida.
+Esta funcionalidad tiene por objeto registrar un cambio. Según ITIL, es necesario formalizar la solicitud de cambio, para que sea registrado por el equipo responsable todos los procedimientos realizados para la alteración deseada (desde su solicitud al impacto de su implementación) monitoreando todo su ciclo de vida.
 
-Antes de começar
+Antes de empezar
 ------------------
 
- Para efetivar o cadastro de uma mudança é preciso previamente cadastrar um contrato, uma unidade e que ela esteja vinculada ao contrato, um colaborador, um questionário, o Comitê Consultivo de Mudanças, ter um grupo vinculado ao contrato associado os Solicitantes (colaboradores) já cadastrados a este grupo. Caso seja preciso criar um novo colaborador, é necessário incluí-lo ao Grupo de Solicitante no qual esteja relacionado ao contrato.
-Ademais, é fundamental o cadastro prévio do portfólio de mudanças.
+Para efectuar el registro de un cambio, es necesario tener registrado contrato,unidad y que  esté vinculada al contrato, un colaborador, cuestionario, el Comité Asesor de Cambios, tener un grupo vinculado al contrato asociado a los Solicitantes (colaboradores) ya registrados a este grupo. En caso de que sea necesario crear un nuevo colaborador, es necesario incluirlo al Grupo de Solicitante en el cual esté relacionado al contrato.
+Además, es fundamental el registro previo del portafolio de cambios.
 
-Procedimento 
+Procedimiento 
 --------------
 
-1.	Acessar a funcionalidade através da navegação no menu principal Processos > Gerência de Mudança > Mudança;
-2.	Clicar no botão “Opções” e em seguida em “Cadastro”;
-3.	Preencher todos os campos disponibilizados nas áreas: solicitante e mudança (inclusive selecionar o portfólio desejado);
-4.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
+1.	Acceder al menú principal Procesos > Gestión de Cambio > Cambio;
+2.	Hacer clic en "Opciones" y después en "Registrar”;
+3.	Completar todos los campos disponibles en: solicitante y cambio (incluso seleccionar un portafolio);
+4.	También es necesario indicar las informaciones preliminares de "planificación", "plan de reversión" y "revisión y cierre”.
 
-    !!! Abstract "ATENÇÃO"
-        É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
+    !!! Abstract "ATENCIÓN"
+        Es obligatorio programar las fases importantes del cambio, al hacer clic en "Planificación" y luego "Otras informaciones".
 
-5.	Clicar no botão “Opções” e em seguida “Gravar”;
+5.	Hacer clic en "Opciones" y después en "Guardar”;
 
 
 Relacionado 
 ---------------
 
-[Criar um portfólio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
+[Crear portafolio de cambio](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
