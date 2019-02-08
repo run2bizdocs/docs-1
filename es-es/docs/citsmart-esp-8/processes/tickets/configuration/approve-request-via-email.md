@@ -46,19 +46,19 @@ Procedimiento
 2.  Pegar el modelo de correo electrónico disponible en HTML adjunto en el campo
     Texto y comprobar las siguientes directrices:
 
-   -   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
+    +   href="{TOKEN(serviceRequestIncident, \${IDSOLICITACAOSERVICO}, VIEW, 50)};
 
-   -   serviceRequestIncident = Dirección de la interface : este campo no puede ser
-       cambiado por el usuario;
+    +   serviceRequestIncident = Dirección de la interface : este campo no puede ser
+        cambiado por el usuario;
 
-   -   \${IDSOLICITACAOSERVICO} = Clave para incrementar el número de solicitud de
-       servicio: este campo no puede ser cambiado por el usuario;
+    +   \${IDSOLICITACAOSERVICO} = Clave para incrementar el número de solicitud de
+        servicio: este campo no puede ser cambiado por el usuario;
 
-   -   VIEW - llama al comando para abrir la solicitud: este campo no puede ser
-       cambiado por el usuario;
+    +   VIEW - llama al comando para abrir la solicitud: este campo no puede ser
+        cambiado por el usuario;
 
-   -   MM (50) - Tiempo de expiración del token en minutos: este campo puede ser
-       cambiado por el usuario;
+    +   MM (50) - Tiempo de expiración del token en minutos: este campo puede ser
+        cambiado por el usuario;
 
 3.  Haga clic en "Guardar".
 
