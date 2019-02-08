@@ -5,7 +5,7 @@ Description: This functionality is able to provide a configuration screen to est
 This functionality is able to provide a configuration screen to establish conection with CITSmart.  
 
 ##HOW TO ACCESS  
-1- Access the feature by navigating the menu Builder → Configuration → ITSM Connection.  
+1- Access the feature by navigating the menu Builder > Configuration > ITSM Connection.  
 
 ##PRE-CONDITIONS  
 1- Not applicable.  
@@ -29,10 +29,12 @@ Figure 2 - Listing screen
 ![Screenshot](images/ITSM-Filling.png)  
 Figure 3 - ITSM connection home screen  
 
-2- On this screen the user is also allowed other actions. They are:  
-- To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
-- To view an item, select the item and click View.  
-- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+2- On this screen the user is also allowed other actions. They are:
+
+  + To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
+  + To view an item, select the item and click View.  
+  + To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+ 
 3- When you click Next, the following screen will appear:  
 
 ![Screenshot](images/ITSM-Registration.png)  
