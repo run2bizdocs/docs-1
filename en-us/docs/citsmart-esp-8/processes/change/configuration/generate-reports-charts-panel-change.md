@@ -50,11 +50,11 @@ updated.
 5.  It’ll be presented the update report of unauthorized CI according to the
     filter selected.
 
-Generate impact report of request for change
+Generate impact report of change
 ------------------------------------------------
 
 This report offers to users the possibility of verifying, in charts, the
-requests for change through its impact (high, medium, low).
+changes through its impact (high, medium, low).
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -65,14 +65,14 @@ requests for change through its impact (high, medium, low).
 
 4.  Set the filters as needed and click on “Create”;
 
-5.  It’ll be presented the impact chart of request for change according to the
+5.  It’ll be presented the impact chart of change according to the
     filters selected.
 
-Generate reports of request for change by SLA
+Generate reports of change by SLA
 -------------------------------------------------
 
-This report offers to users the possibility of verifying, in chart, the request
-for change by its service level agreement.
+This report offers to users the possibility of verifying, in chart, the 
+changes by its service level agreement.
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -83,14 +83,14 @@ for change by its service level agreement.
 
 4.  Set the filters as needed and click on “Create”;
 
-5.  It’ll be presented the chart of request for change by SLA, according to the
+5.  It’ll be presented the chart of changes by SLA, according to the
     filters selected;
 
-Generate report of request for change by risk
+Generate report of change by risk
 -------------------------------------------------
 
 This report offers to users the possibility of verifying, in charts, the
-requests for change by risk that it offers to the business.
+changes by risk that it offers to the business.
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -101,14 +101,14 @@ requests for change by risk that it offers to the business.
 
 4.  Set the filters as needed and click on “Create”;
 
-5.  It’ll be presented the chart of request for change by risk according to the
+5.  It’ll be presented the chart of changes by risk according to the
     filters selected.
 
-Generate report of request for change by service
+Generate report of changes by service
 ----------------------------------------------------
 
-This report offers to users the possibility of verifying, in chart, the request
-for change by service.
+This report offers to users the possibility of verifying, in chart, the 
+changes by service.
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Charts and Reports (Panel);
@@ -119,7 +119,7 @@ for change by service.
 
 4.  Set the filters as needed and click on “Create”;
 
-5.  It’ll be presented the chart request for change by service, according to the
+5.  It’ll be presented the chart of changes by service, according to the
     filters selected.
 
 !!! tip "About"
