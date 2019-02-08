@@ -2,19 +2,12 @@ title: Configurar atributos do contrato do serviço
 Description: Configura os atributos tanto do Contrato do Serviço de Negócio/TI quanto do Contrato do Serviço de Apoio/Técnico.
 #Configurar atributos do contrato do serviço
 
-As orientações devem ser seguidas para configurar os atributos tanto
-do *Contrato do Serviço de Negócio/TI* quanto do *Contrato do Serviço de
-Apoio/Técnico*.
+O módulo de gestão de Porfólio permite o gerenciamento flexível de serviços, sendo assim é possível vincular um ou mais contratos a um serviço específico (multicontrato). Esta característica possibilita o atendimento de dinversos requisitos para um mesmo serviço, sendo assim, é possível ter para um mesmo serviço diferenes fluxos de atendiemento, SLAs, condições de operação, etc. 
 
 Antes de começar
 --------------------
 
-Para configurar os atributos do contrato do serviço é preciso antes cadastrar
-algumas funcionalidades, como: ter permissão de acesso às funcionalidades de
-Gerência de Portfólio e Catálogo, ter o portfólio com serviços cadastrados, ter
-o contrato vinculado ao serviço, cadastro de fornecedor, cliente, moeda,
-condição de operação, definir o calendário, o tempo de atendimento, modelos de
-e-mails, fluxo de trabalho e pesquisas.
+Para configurar os atributos do contrato do serviço é preciso antes ter um serviço cadastrado.
 
 Procedimento
 ----------------
@@ -28,24 +21,11 @@ Procedimento
 3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
     apresentada a tela de Informações do Serviço;
 
-4.  Clicar na aba Contratos e logo em seguida clicar no botão "Avançar" do
-    contrato do serviço para acessá-lo;
+4.  Clicar na aba Contratos e vincular um contrato;
 
-5.  Serão apresentadas as abas para configurar os atributos do contrato do
-    serviço, preencher os campos disponibilizados dentro de cada aba.
-
-
-|                  Nome                  |    Tipo    |                                                                                          Objetivo                                                                                         |
-|:--------------------------------------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Acordo de Nível de Serviço do Contrato | Vinculação |                                                Permite especificar o que foi acordado no contrato entre o provedor de serviços e o cliente                                                |
-|     Visão complexidade por contrato    | Vinculação | Permite identificar os valores de complexidade referentes aos custos operacionais do contrato. É muito utilizado no caso de gerenciamento das Ordens de Serviços relacionadas à moeda UST |
-|           Perfis do Contrato           | Vinculação |                               Permite definir os perfis dos profissionais que serão fundamentais para desenvolvimento de um projeto relacionado ao contrato                               |
-|           Grupos de Usuários           | Vinculação |                                                                            Permite vincular grupos ao contrato                                                                            |
-|          Produtos do Contrato          | Vinculação |                                                           Permite especificar os entregáveis do projeto relacionado ao contrato                                                           |
-|           Matriz Comunicação           | Vinculação |                               Permite definir quais documentos serão comunicados, para quais stakeholders, em que frequência (quando) e por qual meio (como)                              |
-|           Fórmula do Contrato          | Vinculação |                        Permite vincular fórmulas ao contrato. Essas fórmulas são utilizadas para obter o valor do custo total das atividades do serviço do contrato                       |
-|           Unidades de Negócio          | Vinculação |                                                                      Permite vincular unidades de negócio ao contrato                                                                     |
-|             Anexos Contrato            | Vinculação |                                                                            Permite anexar arquivos ao contrato                                                                            |
+!!! info "Informação"
+    A gestão de contrato pode ser realizada diretamente clicano no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
+    
 
 O que fazer a seguir
 ----------------------
@@ -55,6 +35,7 @@ ser acessadas no conhecimento "Vincular as atividades ao contrato de serviço".
 
 Relacionado
 ---------
+[Cadastrar um Contrato][1]
 
 [Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
@@ -67,3 +48,5 @@ Relacionado
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
+
+[1]:/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html
