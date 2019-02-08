@@ -28,7 +28,7 @@ Procedure
 4.  Click on the area **“Related Services”** and then on "Add Service" in order to
     search and select a service to be linked to the change;
 
-5.  The next area is about the type oh impact analysis and change risk. It'll be
+5.  The next area is about the type of impact analysis and change risk. It'll be
     necessary to click on it and complete the fields available.
 
     !!! Abstract "NOTE"
