@@ -10,7 +10,7 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
 ##HOW TO ACCESS  
 
-1-  Access the feature by navigating the menu **Neuro → Resources → CSS**.  
+1-  Access the feature by navigating the menu Neuro > Resources > CSS.  
 
 ##PRECONDITIONS  
 
