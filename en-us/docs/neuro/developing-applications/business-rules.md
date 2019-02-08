@@ -7,7 +7,7 @@ Business rules define how your business works, and can cover a variety of issues
 In Neuro, business rules can be built through the Drools language, by drawing a flow, or through a Script.    
 
 ##HOW TO ACCESS  
-1-	Access the functionality through navigation in the main menu Neuro → Management → Business Rule.    
+1-	Access the functionality through navigation in the main menu Neuro > Management > Business Rule.    
 
 ##PRECONDITIONS
 1-	No applicable.  
@@ -36,8 +36,8 @@ Figure 2 - Business rules listing screen
 
 ##CREATING BUSINESS RULES USING DROOLS TYPE  
   1- Drools is a set of tools that allow us to separate and reason about the logic and data found within business processes. The two important keywords we have to realize are Logic and Data. Go to https://www.drools.org/ for more information;  
-  2- To create a business rule using Drools, you must first create the DSL and DSLR through the Neuro → Configuration→ Domain;  
-  3- After these registrations have been made, access the menu Neuro → Management  → Business rule, Click on the New button. Fill in the fields by entering the  Name, Description, Type (fill in with Drools), and the respective Application that has been registered (Neuro ® Management ®  Application), finally inform Drools DSLR that was registered in the previous step;  
+  2- To create a business rule using Drools, you must first create the DSL and DSLR through the Neuro > Configuration > Domain;  
+  3- After these registrations have been made, access the menu Neuro > Management > Business rule, Click on the New button. Fill in the fields by entering the  Name, Description, Type (fill in with Drools), and the respective Application that has been registered (Neuro ® Management ®  Application), finally inform Drools DSLR that was registered in the previous step;  
   4- In addition, variables that complement business rules may be inserted.  
 
 ![Screenshot](images/business-rule-drools.png)  
