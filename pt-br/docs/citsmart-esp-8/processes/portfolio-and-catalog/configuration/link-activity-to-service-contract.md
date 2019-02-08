@@ -43,7 +43,7 @@ Procedimento
         “Requisição”, clicar em “Adicionar” e selecionar a requisição registrada
         no serviço.
 
-   2.  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
+    2.  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
         requisições, para o vínculo de um incidente ao contrato de serviço
         exitoso, basta seguir as orientações descritas no item anterior.
 
@@ -78,17 +78,17 @@ Procedimento
     !!! Abstract "REGRA"
 
        Não é permitido rateios diferentes para o mesmo ciclo no mesmo
-      serviço/negócio/contrato.
+      serviço/negócio/contrato.  
 
     !!! Abstract "REGRA"
 
        Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
-       encerrado.
+       encerrado.  
 
     !!! Abstract "REGRA"
 
        Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
-       configurações cadastradas.
+       configurações cadastradas.  
        
 !!! tip "About"
 
