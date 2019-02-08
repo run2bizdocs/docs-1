@@ -135,11 +135,11 @@ solicitudes de servicios.
 2.  Definir los filtros conforme la necesidad y hacer clic en "Búsqueda". Se
     mostrarán las solicitudes;
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    La cantidad de solicitudes enumeradas por página se refiere a la cantidad
-    configurada en el parámetro "261 - cantidad de registros devueltos en la
-    búsqueda avanzada".
+        La cantidad de solicitudes enumeradas por página se refiere a la cantidad
+        configurada en el parámetro "261 - cantidad de registros devueltos en la
+        búsqueda avanzada".
 
 1.  En las solicitudes presentadas en la lista, es posible haces las siguientes
     acciones: buscar, histórico del ticket, visualizar solicitud/incidente, view
