@@ -76,15 +76,13 @@ Procedimento
     percentual de 1 a 100%) e o seu ciclo de pagamento.
 
     !!! Abstract "REGRA"
-        Não é permitido rateios diferentes para o mesmo ciclo no mesmo
+        - Não é permitido rateios diferentes para o mesmo ciclo no mesmo
         serviço/negócio/contrato.  
 
-    !!! Abstract "REGRA"
-        Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
+        - Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
         encerrado.  
 
-    !!! Abstract "REGRA"
-        Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
+        -  Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
         configurações cadastradas.  
        
 !!! tip "About"
