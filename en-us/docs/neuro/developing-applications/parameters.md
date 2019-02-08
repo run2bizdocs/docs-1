@@ -6,7 +6,7 @@ Description: In this screen the parameters to be used in applications created th
 In this screen the parameters to be used in applications created through Neuro are configured. 
 
 ##HOW TO ACCESS  
-1- Access the functionality by navigating the menu **Neuro → Configuration → Parameters.**  
+1- Access the functionality by navigating the menu Neuro > Configuration > Parameters. 
 
 ##PRECONDITIONS  
 1- Not applicable  
@@ -30,9 +30,11 @@ Figure 2 - Parameter listing screen
 ![Screenshot](images/Parameters-home.png)  
 Figure 3 - Parameter home screen  
 
-2- On this screen the user is also allowed other actions. They are:  
-- Edit: Changes an existing parameter. To edit, select an item in the table and click Edit.  
-- View: Displays a registered parameter. No editing allowed. To view, select an item in the table and click View.  
+2- On this screen the user is also allowed other actions. They are:
+
+   + Edit: Changes an existing parameter. To edit, select an item in the table and click Edit.  
+   + View: Displays a registered parameter. No editing allowed. To view, select an item in the table and click View.
+
 3- When you click Next, the following screen will appear:  
 
 ![Screenshot](images/Parameters-register.png)   
