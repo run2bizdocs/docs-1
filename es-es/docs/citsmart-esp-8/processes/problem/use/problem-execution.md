@@ -1,85 +1,89 @@
-title: Executar um problema
-Description: Permite executar o problema.
-#Executar um problema
+title: Ejecutar problema
+Description: Permite ejecutar el problema.
+#Ejecutar problema
 
-Esta funcionalidade permite executar o problema. Nesta etapa, é realizada a classificação do problema e designação a área apropriada para tratar o problema de acordo com o Catálogo de Serviços de TI. É necessário vincular o problema a incidentes existentes e registrar o problema para facilitar a priorização de solução de problemas, avaliar o impacto sobre os negócios e determinar a urgência da solução. Essa avaliação determina a classificação do problema.
+Esta funcionalidad permite ejecutar el problema. En esta etapa, se realiza la clasificación del problema y la designación del área apropiada para tratar el problema de acuerdo con el Catálogo de Servicios de TI. Es necesario vincular el problema a incidentes existentes y registrar el problema para facilitar la priorización de solución de problemas, evaluar el impacto sobre los negocios y determinar la urgencia de la solución. Esta evaluación determina la clasificación del problema.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário ter problemas registrados para a execução dos mesmos.
+Es necesario tener registrados problemas para ejecutarlos.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Problema \> Problema;
 
-2.  Localizar o problema que deseja executar, clicar no botão “Abrir” e
-    confirmar atribuição da tarefa ao seu usuário;
+2.  Buscar el problema para ejecutar, hacer clic en "Abrir" y confirmar
+    la asignación de la tarea a su usuario;
 
-3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
-    problema, é possível realizar as seguintes atividades:
+3.  En “Diagnóstico”, para mejor comprensión e investigación del problema, es posible
+    hacer las siguientes actividades:
 
-    -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
-    Kanban, é necessário clicar no botão “+Workspace” e preencher os dados
-    disponibilizados, tais como título, selecionar os usuários responsáveis pela
-    execução do problema, dentre outros. Já, para vincular um Kanban já criado,
-    basta apertar no outro ícone referente ao Workspace.
+    -   Crear un Kanban o vincular uno existente. Para crear un nuevo Kanban,
+    debe hacer clic en "+ Workspace" y completar los datos disponibles, como, título
+    título, seleccionar los usuarios responsables de la ejecución del problema, entre otros.
+    Para vincular un Kanban ya creado, basta hacer clic en el otro icono referente al Workspace.
 
-    -   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
-    equipe responsável e a difusão de sua solução para os interessados. Para
-    tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
-    Solução de Contorno” e descrever as informações relevantes;
+    -   Registrar eventuales errores conocidos a fin de posibilitar la realización de una evaluación por el
+    equipo responsable y la difusión de su solución para los interesados. Para ello,
+    es necesario en la pestaña "Errores conocidos", hacer clic en  "Agregar Solución de
+    Contorno" y describir la información relevante.
+    
+    !!! Abstract "NOTA"
 
-    -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
+        Es posible registrar más de una solución al elemento "Solución Contorno”. 
 
-    -   Na aba “Anotações”, é permitido registrar as informações que identificar
-    serem essenciais.
+    !!! Abstract "NOTA"
 
-4.  Na área “Solução”, serão disponibilizados campos para a descrição do
-    processo e a eventual solução do problema. São eles:
+        Las soluciones contorno aquí registradas pueden ser visualizadas en la pantalla de
+        “Ticktet” al vincular el problema al ticket.
+     
+    -   En la pestaña "AdjuntoS", es posible hacer el upload en los archivos que quiera;
 
-    -   Criar um quadro Kanban, com as informações supracitadas;
+    -   En la pestaña "Anotaciones", es permitido registrar las inforaciones que sean esenciales.
 
-    -   É possível criar uma nova mudança relacionada a solução do problema ao
-    clicar no botão “Cadastrar Mudança” (disponibilizado na aba “Mudança”) e
-    preencher os campos necessários ou ainda vincular ao problema, uma mudança
-    já registrada, ao clicar sobre o campo pesquisa e selecionar a mudança
-    desejada;
+4.  En "Solución", se va disponibilizar los campos para la descripción del proceso y la eventual
+    solución del problem, que son:
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
-    execução do problema.
+    -   Crear Kanban, con las informaciones citadas anteriormente;
 
-5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
-    solução do problema e as lições aprendidas com o mesmo, através das
-    seguintes ações:
+    -   Es posible crear un nuevo cambio relacionado con la solución del problema al
+    al hacer clic en "Registrar Cambio" (disponible en la pestaña "Cambio") y completar
+    los campos necesarios o aún vincular al problema, un cambio ya registrado,
+    al hacer clic sobre el campo de búsqueda y seleccionar el cambio deseado;
 
-    -   Na aba “Revisão”, selecionar a opção referente a finalização com sucesso do
-    problema;
+    -   También se puede adjuntar archivos y el registro de notas en esta fase de
+    ejecución del problema.
 
-    -   Em “Revisão de Problema Grave”, é possível preencher os campos com as ações
-    tomadas para corrigir o problema e as melhorias a serem implantadas para
-    evitar a ocorrência posterior do mesmo, dentre outros;
+5.  En “Revisión y cierre”, se permitirá especificar los detalles de la
+    solución del problema y las lecciones aprendidas con el mismo, a través
+    de las siguientes acciones:
 
-    -   Na aba “Simple”, é liberado a criação do quadro Kanban;
+    -   En “Revisión”, seleccionar la opción de cierre con éxito del problema;
 
-    -   Em “Lições aprendidas”, ao clicar no botão “Adicionar”, será possível
-    selecionar e vincular um conhecimento para dizimar as instruções a fim
-    facilitar a solução de problemas futuros parecidos.
+    -   En “Revisión de Problema Grave”, es posible llenar los campos con las acciones
+    tomadas para corregir el problema y las mejoras a ser implantadas para
+    evitar la ocurrencia posterior del mismo, entre otros;
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
-    execução do problema.
+    -   En “Simple”, es liberado la creación del cuadro Kanban;
 
-6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
-    tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
-    selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
-    dirigir para próxima fase do fluxo.
+    -   En “Lecciones aprendidas”, al hacer clic en "Agregar", será posible
+    seleccionar y vincular un conocimiento para diezmar las instrucciones para
+    facilitar la solución de problemas futuros parecidos.
+
+    -   También se puede adjuntar archivos y el registro de notas en esta fase de
+    ejecución del problema.
+
+6.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar
+    la ejecución y no avanzar el flujo de actividad o seleccionar "Guardar y avanzar flujo" para
+    cerrar la tarea y direccionar para siguiente fase del flujo.
     
 Relacionado
 ------------
  
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+[Registrar problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
