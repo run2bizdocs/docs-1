@@ -6,7 +6,7 @@ Description:The process integration flows are workflows that have tasks performe
 The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.  
 
 ##HOW TO ACCESS
-1- Access the functionality through the menu **Workflow/ESI  → Administration → Workflow/ ESI design.**  
+1- Access the functionality through the menu Workflow/ESI > Administration > Workflow/ ESI design.  
 
 ##PRECONDITIONS
 1- Not applicable  
@@ -28,7 +28,7 @@ Figure 2 - Workflow / ESI design listing screen
 ##FILLING IN THE REGISTRATION FIELDS - FLOW DATA  
 Through this tab, basic information about the flow to be design is defined.  
 
-1- Click on New → Process integration flow, as shown in the figure below:  
+1- Click on New > Process integration flow, as shown in the figure below:  
 
 ![Screenshot](images/Process-fig03.png)   
 Figure 3 - Service integration flow register screen  
@@ -188,7 +188,7 @@ Figure 8 - Register/edit workflow, Diagram tab
 - This tab defines how the graphical user interface will be shown when performing this task, that is, how it will be the screen that the user it will operate. You can choose two ways:  
 
 - Construct the HTML screen inside this tab; or  
-- Search for a pre-registered form in the project repository (**Builder → Application management → Form**).  
+- Search for a pre-registered form in the project repository (Builder > Application management > Form).  
 
 6- To use a form already created in the repository, check the **Repository Form** option as **Yes**, and enter the **Form Name**.  
 7- When choosing to use a repository form, the user will have the option to add HTML with additional information for that particular task, which is very useful for generic form reuse, adding task-specific information.  
@@ -201,7 +201,7 @@ Figure 10 - Modal with element properties on edition screen
 	
 	
 	
-	!!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
