@@ -13,14 +13,14 @@ Procedimiento
 
 2.  Haga clic en "Nuevo" y llene los campos disponibles;
 
-  -   **Suspensión**: se define si la justificación es para ser utilizada en la
-      suspensión de la solicitud;
+   -   **Suspensión**: se define si la justificación es para ser utilizada en la
+       suspensión de la solicitud;
 
-  -   **Viajes**: se define si la justificación de solicitud es para ser utilizada
-      en la aprobación de la solicitud de viaje;
+   -   **Viajes**: se define si la justificación de solicitud es para ser utilizada
+       en la aprobación de la solicitud de viaje;
 
-  -   **Aprobación**: se define si la justificación de solicitud es para ser
-      utilizada en la fase de aprobación de la solicitud de servicio.
+   -   **Aprobación**: se define si la justificación de solicitud es para ser
+       utilizada en la fase de aprobación de la solicitud de servicio.
 
 3.  Haga clic en "Guardar".
 
