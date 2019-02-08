@@ -75,12 +75,12 @@ Procedimento
     clicar no botão “Adicionar rateio” e informar o seu percentual (indicar um
     percentual de 1 a 100%) e o seu ciclo de pagamento.
 
-    !!! Abstract "REGRA"
-        - Não é permitido rateios diferentes para o mesmo ciclo no mesmo
+    !!! Abstract "REGRA"  
+        -   Não é permitido rateios diferentes para o mesmo ciclo no mesmo
         serviço/negócio/contrato.  
-        - Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
+        -   Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
         encerrado.  
-        -  Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
+        -   Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
         configurações cadastradas.  
        
 !!! tip "About"
