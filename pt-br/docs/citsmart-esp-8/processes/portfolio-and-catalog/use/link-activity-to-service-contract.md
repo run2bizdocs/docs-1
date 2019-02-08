@@ -78,10 +78,8 @@ Procedimento
     !!! Abstract "REGRA"
         - Não é permitido rateios diferentes para o mesmo ciclo no mesmo
         serviço/negócio/contrato.  
-
         - Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
         encerrado.  
-
         -  Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
         configurações cadastradas.  
        
