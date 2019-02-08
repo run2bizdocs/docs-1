@@ -29,22 +29,22 @@ acceso previamente registrado.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Acceso y Permisos \> Gestión del Portafolio;
+1.  Acceder al menú principal Acceso y Permisos \> Gestión del Portafolio;
 
-2-  Elegir el perfil a administrar y hacer clic en "Editar";
+2.  Elegir el perfil a administrar y hacer clic en "Editar";
 
-3-  Seleccionar las acciones (ver, guardar y/o borrar) que el perfil puede
+3.  Seleccionar las acciones (ver, guardar y/o borrar) que el perfil puede
     realizar;
 
-4-  Es importante recordar que:
+4.  Es importante recordar que:
 
-  -   los perfiles de acceso quedarán deshabilitados (los checkbox de todos los
-      perfiles de accesos preexistentes quedarán desactivados), por defecto,
-      cuando se creen nuevas funcionalidades, exigiendo, por lo tanto, que el
-      administrador explícitamente habilite esta para los perfiles que desee,
-      haciéndola disponible para los perfiles deseados.
+    -   los perfiles de acceso quedarán deshabilitados (los checkbox de todos los
+        perfiles de accesos preexistentes quedarán desactivados), por defecto,
+        cuando se creen nuevas funcionalidades, exigiendo, por lo tanto, que el
+        administrador explícitamente habilite esta para los perfiles que desee,
+        haciéndola disponible para los perfiles deseados.
 
-5-  Hacer clic en "Guardar".
+5.  Hacer clic en "Guardar".
 
 
 Relacionado
