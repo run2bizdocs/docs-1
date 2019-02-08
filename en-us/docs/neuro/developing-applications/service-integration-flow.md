@@ -5,7 +5,7 @@ Service integration flows, as the name implies, involve workflows that are execu
 
 ##HOW TO ACCESS  
 
-1- Access the functionality through the menu **Neuro → Management → ESI Flow.**   
+1- Access the functionality through the menu Neuro > Management > ESI Flow.  
 
 ##PRECONDITIONS  
 
@@ -17,7 +17,8 @@ Service integration flows, as the name implies, involve workflows that are execu
 
 - Keyword  
 
-![Screenshot](images/Service-Integration-Flow-fig01.png) 
+![Screenshot](images/Service-Integration-Flow-fig01.png)
+
 Figure 1 - Search screen   
 
 ##ITEMS LIST  
@@ -31,7 +32,7 @@ Figure 2 - Listing screen
 
 Through this tab, all basic information about the flow to be design is defined.  
 
-1- To add a new flow, click **New → Integration services flow**, as shown in the figure below:  
+1- To add a new flow, click New > Integration services flow, as shown in the figure below:  
 
 ![Screenshot](images/Service-Integration-Flow-fig03.png)   
 Figure 3 - Registration screen  
@@ -81,7 +82,7 @@ Figure 5 - Workflow registration / editing screen, Variables tab
 
 !!! Abstract "ATTENTION"  
 
-    **To save the changes effectively, click Save on the top bar.**  
+    To save the changes effectively, click Save on the top bar. 
 
 ##ACTIONS  
 
@@ -89,8 +90,8 @@ Through this menu, it is possible to register the actions that will be run in th
 
 The actions are based on scripts programmed in **Rhino** language.  
 
-	1- To include an action, choose the tab for the same and then click go to Add.  
-	2- The following screen will be displayed:  
+ 1- To include an action, choose the tab for the same and then click go to Add.  
+ 2- The following screen will be displayed:  
 
 ![Screenshot](images/Service-Integration-Flow-fig06.png)   
 Figure 6 - Register/edit workflow, actions tab 
@@ -107,7 +108,7 @@ Figure 6 - Register/edit workflow, actions tab
 
 !!! Abstract "ATTENTION"  
 
-    **To save the changes effectively, click Save on the top bar.**  
+    To save the changes effectively, click Save on the top bar. 
 
 ##DIAGRAM  
 
@@ -125,7 +126,8 @@ The other components present in the palette resemble the components of a "Proces
 1- To design a diagram, choose the tab for the same  
 2- The following screen will be displayed:  
 
-![Screenshot](images/Service-Integration-Flow-fig07.png) 
+![Screenshot](images/Service-Integration-Flow-fig07.png)
+
 Figure 7 - Register/edit workflow, diagram tab
 
 
