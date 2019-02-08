@@ -58,32 +58,10 @@ Relacionado
 
 [Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
-[Cadastrar condição de operação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
-
-[Cadastrar fornecedor](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-provider.html)
-
-[Cadastrar pesquisa de satisfação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
-
-[Cadastrar um cliente](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-client.html)
-
 [Cadastrar um serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Definir a permissão de caesso às funcionlalidades do Gerenciamento de Portfólio](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
-
-[Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
-
-[Criar modelo de template de incidente, requisição e procedimento](/pt-br/citsmart-esp-8/processes/tickets/configuration/create-template-of-ticket.html)
-
-[Criar tempo de atendimento](/pt-br/citsmart-esp-8/processes/service-level/configuration/create-time-attendance.html)
-
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
-
-[Cadastrar moeda](/pt-br/citsmart-esp-8/additional-features/contract-management/configuration/register-currency.html)
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)
 
 !!! tip "About"
 
