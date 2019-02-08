@@ -47,9 +47,16 @@ Procedimento
 |           Unidades de Negócio          | Vinculação |                                                                      Permite vincular unidades de negócio ao contrato                                                                     |
 |             Anexos Contrato            | Vinculação |                                                                            Permite anexar arquivos ao contrato                                                                            |
 
+O que fazer a seguir
+----------------------
+
+Definir as atividades a serem vinculadas ao contrato cadastrado. Maiores informações podem 
+ser acessadas no conhecimento "Vincular as atividades ao contrato de serviço".
 
 Relacionado
 ---------
+
+[Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/link-activity-to-service-contract.html)
 
 [Cadastrar condição de operação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
