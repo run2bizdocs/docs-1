@@ -49,7 +49,7 @@ Procedimento
 
     -  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
         requisições e incidentes, para o vínculo de um procedimento ao contrato
-        de serviço exitoso, basta seguir as orientações descritas no item “a”.
+        de serviço exitoso, basta seguir as orientações descritas no item “Requisições”.
 
     !!! Abstract "ATENÇÃO"
 
