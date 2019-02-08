@@ -16,10 +16,21 @@ Procedimento
 
 3.  Preencher os campos disponibilizados;
 
-4.  Se a notificação é destinada a um usuário, clicar em "vincular usuário" ou
-    caso seja direcionada a um grupo de usuários, clicar em "Vincular Grupo"
+4.  Para saber se o usuário recebeu/leu a notificação,
+    ativar a chave “Exige confirmação”. Assim o usuário ao receber a
+    notificação, visualizará a mesma com um sinal de exclamação (!) indicando
+    a confirmação de leitura. Para visualizar a relação de leitores daquela notificação clicar no botão “Ver usuários que
+    confirmaram/visualizaram”;
 
-5.  Clicar em "Gravar".
+5.  Para que a notificação seja também por email, ativar a chave “Notificar por
+    email.
+
+6.  Para vincular usuário, clicar em "Adicionar" no campo Usuários;
+
+7.  Para vincular grupos de usuários, clicar em "Adicionar" no campo Grupo;
+
+8.  Clicar em "Gravar".
+
 
 O que fazer depois
 ------------------
@@ -48,4 +59,4 @@ O que fazer depois
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+    <b>Updated:</b>01/17/2019 – Anna Martins
