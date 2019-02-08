@@ -19,14 +19,14 @@ This report has the objective of presenting the amount of request for change.
 Generate request for change report
 --------------------------------------
 
-This report aims to present the request for change registered.
+This report aims to present the changes registered.
 
 1.  Access the functionality through the main menu Report \> Change Management
     \> Search Request for Change;
 
 2.  Set the filters as needed and click on “Search”;
 
-3.  On the side of each request for change registration in the list, there are
+3.  On the side of each change registration in the list, there are
     icons to perform the following actions: view the information when clicking
     on “View” and view the attachments of the request for change when click on
     the "View attachments" icon;
