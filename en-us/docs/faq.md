@@ -43,7 +43,7 @@ Title: Frequently Asked Questions - FAQ
     1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;
     3. Perform the design
-    4. Access the Service Asset Map Design functionality for the Support / Technical Service Portfolio and Catalog Management → Portfolio and Catalog Management → Support Menu → Advanced Portfolio → Service Catalog → Next Service → Service Map.
+    4. Access the Service Asset Map Design functionality for the Support / Technical Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map.
     5. The screen for designing the assets that make up the support / technical service will be presented;
     6. Perform the design
     
@@ -53,7 +53,7 @@ Title: Frequently Asked Questions - FAQ
     1. Access the Group Registration feature by navigating in the main menu Access and Permission > Group. The group registration screen will be displayed, displaying the contracts;
     2. Make the registration of the group of 1st level, if not registered, and proceed with the completion of the fields;
     3. If the 1st level group is already registered in the system, carry out the group search and obtain their identification number (ID);
-    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization → Parameters CITSmart.
+    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization > Parameters CITSmart.
     5. The CITSmart Parameters screen appears, click the CITSmart Parameters Search tab
     6. Perform the search for parameter "9 - Group ID Level 1"
     7. Select the same.
@@ -252,7 +252,7 @@ Title: Frequently Asked Questions - FAQ
     The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
     1. In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
-    2. Access the CITSmart Parameters feature by navigating in the main menu System → CITSmart Parameters;
+    2. Access the CITSmart Parameters feature by navigating in the main menu System > CITSmart Parameters;
     3. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
     4. Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
     5. Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
@@ -364,7 +364,7 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How to setup the SOLR feature?"
     PARAMETER CONFIGURATION
     
-	1. To configure a parameter navigate to the screen “Parametrization → Knowledge Management”;
+	1. To configure a parameter navigate to the screen “Parametrization > Knowledge Management”;
     2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”
     3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento
 
@@ -382,7 +382,7 @@ Title: Frequently Asked Questions - FAQ
     
 	To set the recipient, proceed as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization → Citsmart Parameters.
+    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
     2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
     3. It will display the screen for parameter search;
     4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)"
@@ -650,8 +650,10 @@ Title: Frequently Asked Questions - FAQ
     1. Postgresql database configuration file:
     Postgresql.conf
     timezone = 'BRAZIL/EAST'
+    
     2. On the container cloud:
     Setting timezone on the operating system.
+    
     3.Setting up the TimeZone on the JRE:
     https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
