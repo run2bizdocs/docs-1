@@ -56,7 +56,7 @@ ser acessadas no conhecimento "Vincular as atividades ao contrato de serviço".
 Relacionado
 ---------
 
-[Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/link-activity-to-service-contract.html)
+[Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
 [Cadastrar condição de operação](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
