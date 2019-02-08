@@ -4,7 +4,7 @@ Description:The information is automatically populated from the report file. The
 The information is automatically populated from the report file. The **name, description**, and grouper **folder** on the server can be edited.  
 
 ##HOW TO ACCESS  
-Access the functionality through the menu **Neuro → Management → Report.**  
+Access the functionality through the menu Neuro > Management > Report. 
 
 ##PRECONDITIONS  
 The form must be previously registered in the Form.  
@@ -20,7 +20,8 @@ Figure 1 - Report configuration search screen
 ##ITEMS LIST  
 1- The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
 
-![Screenshot](images/Report-setup-fig02.png) 
+![Screenshot](images/Report-setup-fig02.png)
+
 Figure 2 - Report configuration lisitng screen  
 
 ##FILLING IN THE REGISTRATION FIELDS  
@@ -28,7 +29,8 @@ Figure 2 - Report configuration lisitng screen
 REPORT DATA  
 1- This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
 
-![Screenshot](images/Report-setup-fig03.png) 
+![Screenshot](images/Report-setup-fig03.png)
+
 Figure 3 - Register/edit report configuration, Report tab  
 
 ##DATA SOURCE  
@@ -53,6 +55,7 @@ Figure 4 - Register/edit report configuration, Data source tab
 - To remove a parameter from the list, click Remove.  
 
 ![Screenshot](images/Report-setup-fig05.png) 
+
 Figure 5 - Register/edit Report configuration, Parameters tab  
 
 ##FORM  
