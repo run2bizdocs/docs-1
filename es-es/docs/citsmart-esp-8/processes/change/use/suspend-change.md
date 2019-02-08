@@ -1,34 +1,33 @@
-title: Suspender uma mudança
-Description: Permite suspender uma mudança
-#Suspender uma mudança
+title: Suspender cambio
+Description: Permite suspender un cambio
+#Suspender cambio
 
-Esta funcionalidade permite suspender uma mudança.  
+Esta funcionalidad permite suspender un cambio.  
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro prévio da mudança e da justificativa de mudança.
+Es necesario tener registrado un cabio y la justificación de cambio.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambio \> Cambio;
 
-2.  Localizar a mudança que deseja suspender, clicar no ícone “Mais Opções” e em
-    seguida “Suspender”;
+2.  Buscar un cambio para suspender, hacer clic en el icono "Más opciones" y después en
+    “Suspender”;
 
-3.  Preencher os campos necessários (a justificativa da suspensão e o
-    complemento da mesma);
+3.  Completar los campos necesarios (justificación de la suspensión y su complemento);
 
-4.  Clicar em “Gravar” para efetuar a operação.
+4.  Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+[Registrar cambio](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
-[Cadastrar uma justificativa de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-justification.html)
+[Registrar justificación del cambio](/pt-br/citsmart-esp-8/processes/change/configuration/change-justification.html)
 
 !!! tip "About"
 
