@@ -21,8 +21,8 @@ Procedure
 3.  In the "Diagnosis" area, for a better understanding and investigation of the
 problem, you can perform the following activities:
 
-    -   Create a Kanban or link an existing one. To create a new Kanban,
-     you need to click on "+ Workspace" and complete the data available,
+    -   Create a Kanban or link an existing one. To create a new Kanban, 
+    you need to click on "+ Workspace" and complete the data available,
      such as title, select the users responsible for the execution of the
      problem, and others. To link a Kanban already created, just click on
      the other icon, related to the Workspace.
