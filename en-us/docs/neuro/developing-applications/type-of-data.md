@@ -7,7 +7,7 @@ This field is selected when you create a new attribute for a business object. Mo
 
 ##HOW TO ACCESS  
 
-1- Access the feature by navigating the menu **Neuro → Configuration → Data type.**    
+1- Access the feature by navigating the menu Neuro > Configuration > Data type.    
 
 ##PRECONDITIONS
 
