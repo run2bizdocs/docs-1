@@ -2,7 +2,7 @@ title: Configurar atributos do contrato do serviço
 Description: Configura os atributos tanto do Contrato do Serviço de Negócio/TI quanto do Contrato do Serviço de Apoio/Técnico.
 #Configurar atributos do contrato do serviço
 
-O módulo de gestão de Porfólio permite o gerenciamento flexível de serviços, sendo assim é possível vincular um ou mais contratos a um serviço específico (multicontrato). Esta característica possibilita o atendimento de dinversos requisitos para um mesmo serviço, sendo assim, é possível ter para um mesmo serviço diferenes fluxos de atendiemento, SLAs, condições de operação, etc. 
+O módulo de gestão de Porfólio permite o gerenciamento flexível de serviços, sendo assim é possível vincular um ou mais contratos a um serviço específico (multicontrato). Esta característica possibilita o atendimento de diversos requisitos para um mesmo serviço, sendo assim, é possível ter para um mesmo serviço diferentes fluxos de atendimento, SLAs, condições de operação, etc. 
 
 Antes de começar
 --------------------
