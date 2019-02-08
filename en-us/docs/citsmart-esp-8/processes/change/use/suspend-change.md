@@ -27,7 +27,7 @@ Related
 
 [Configure request for change](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
-Register change justification
+[Register change justification](/en-us/citsmart-esp-8/processes/change/configuration/change-justification.html)
 
 !!! tip "About"
 
