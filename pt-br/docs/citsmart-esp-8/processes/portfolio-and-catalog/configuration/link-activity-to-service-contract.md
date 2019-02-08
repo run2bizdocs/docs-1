@@ -33,7 +33,7 @@ Procedimento
 5.  Ao lado esquerdo da tela é disponibilizado atividades a serem vinculadas ao
     contrato afim de estabelecer seus parâmetros de “atendimento”. São eles:
 
-    1.  **Requisições**: Nesta área é possível realizar o vínculo das atividades
+    -  **Requisições**: Nesta área é possível realizar o vínculo das atividades
         de requisição ao contrato, devendo estas já estarem registradas e
         vinculadas ao serviço. Para tanto, será preciso apertar o botão
         “Vincular Serviço de Requisição” e preencher os dados referentes a esta
@@ -43,11 +43,11 @@ Procedimento
         “Requisição”, clicar em “Adicionar” e selecionar a requisição registrada
         no serviço.
 
-    2.  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
+    -  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
         requisições, para o vínculo de um incidente ao contrato de serviço
         exitoso, basta seguir as orientações descritas no item anterior.
 
-    3.  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
+    -  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
         requisições e incidentes, para o vínculo de um procedimento ao contrato
         de serviço exitoso, basta seguir as orientações descritas no item “a”.
 
@@ -59,18 +59,18 @@ Procedimento
         botão “Adicionar” e selecionar o fluxo de trabalho condizente com o cenário
         e apertar o botão “Gravar”.  
 
-     4.  **Custo de Indisponibilidade**: Informar o custo por hora, o que a
+     -  **Custo de Indisponibilidade**: Informar o custo por hora, o que a
     organização tem a perder caso ocorra a indisponibilidade do serviço;
 
-    5.  **Acordo de disponibilidades**: Ao clicar no botão “Vincular Acordo de
+    -  **Acordo de disponibilidades**: Ao clicar no botão “Vincular Acordo de
     Disponibilidade” é possível buscar e selecionar o SLA acordado entre os
     stakeholders do contrato;
 
-    6.  Calendário: Para vincular um calendário ao contrato, após apertar na área
+    -  Calendário: Para vincular um calendário ao contrato, após apertar na área
     “Calendário”, clicar no botão “Vincular Calendário” e buscar e selecionar o
     item desejado;
 
-    7.  **Rateio**: É o percentual que aquele contrato paga sobre o Serviço de
+    -  **Rateio**: É o percentual que aquele contrato paga sobre o Serviço de
     Negócio contratado. Para informar o rateio do contrato em tese, é necessário
     clicar no botão “Adicionar rateio” e informar o seu percentual (indicar um
     percentual de 1 a 100%) e o seu ciclo de pagamento.
