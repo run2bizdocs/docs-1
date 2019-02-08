@@ -16,7 +16,7 @@ mudanças.
 3.  Clicar no botão "Gerar PDF" para gerar o relatório no formato PDF e/ou
     clicar no botão "Gerar XLS" para gerar o relatório no formato Excel.
 
-Gerar relatório de requisições de mudança
+Gerar relatório de mudança
 ---------------------------------------------
 
 Este relatório tem o objetivo de apresentar as mudanças
