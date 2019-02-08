@@ -43,7 +43,7 @@ Procedure
         parametrization.
 
 5.  To link **Configuration Items**, click on "Related CI" and then on "Search
-    Configuration Item". Search and click on "Select" to complete the operation.
+    Configuration Item". Search and click on "Select" to complete the operation. 
     Therefore, it's possible to click on the "Services" icon, link it ot the same
     problem and click on the icon "Info", it'll be possible to view all information
     to the CI linked;
@@ -56,8 +56,8 @@ Procedure
     click on the icon "Remove" and confirm the operation;
 
     !!! Abstract "NOTE"
-        If there's any service related, it's possible to link a new service
-        to the problem, just click on "Related Services" area an then on "Add
+        If there's any service related, it's possible to link a new service 
+        to the problem, just click on "Related Services" area an then on "Add 
         Service”. Therefore, it's necessary to select the service you want and
         click on it.
 
@@ -67,11 +67,11 @@ Procedure
 
 8.  To link others **Problems**, click on the area of same name and then on
     the serach field and select the problem you want. If you want to create
-    a new problem to be relate, just click on "Register" and complete the
+    a new problem to be relate, just click on "Register" and complete the 
     necessary data;
 
 9.  To link a **Knowledge**, click on the area of same name, then on the search
-    field and select the knowledge you want. If you want to create a new knowledge,
+    field and select the knowledge you want. If you want to create a new knowledge, 
     click on "Register" and complete the necessary data.
     
 10. Click on "Options" and then on "Save and advance flow" or "Save and keep current task", this last option makes possible to no advance to the next phase of the problem.    
