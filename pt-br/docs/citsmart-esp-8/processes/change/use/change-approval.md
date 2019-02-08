@@ -27,7 +27,7 @@ Procedimento
     “Mudança”) e em seguida em “Requisições para votação”;
 
 3.  Clicar sobre a mudança desejada. Para visualizar a mesma, clicar no ícone de
-    mesmo nome.
+    mesmo nome;
 
 4.  Para registrar a aprovação ou rejeição, clicar no ícone “Votação” e
     selecionar a opção mais adequada ao seu cenário e discorrer as informações
