@@ -1,55 +1,54 @@
-title: Relatório de distância percorrida por analista
-Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app SM.
-#Relatório de distância percorrida por analista
+title: Informe de distancia recorrida por analista
+Description: Mostrar las configuraciones para visualizar el informe que demuestra el kilometraje (Kilómetros) recorrido por el analista de atención que está utilizando el app SM.
+#Informe de distancia recorrida por analista
 
-Este documento visa mostrar as configurações para visualizar o relatório que
-demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento
-que esteja utilizando o app SM.
+Este documento tiene por objeto mostrar la configuración para visualizar el informe que
+demuestra el kilometraje (Kilómetros) recorrido por el analista de atención
+que está utilizando la aplicación SM.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para o relatório ser visualizado é necessário importar o relatório
-disponibilizado na seção de Anexo.
+Para que el informe se vea, debe importar el informe
+disponible en la sección de Adjunto.
 
-No aplicativo mobile Enterprise SM o usuário deverá setar a flag “Disponível”
-(APP CITSMART \> Página Inicial \> [Conexão] \> Editar \> Disponível ) para
-iniciar a contagem de Km.
+En la aplicación móvil Enterprise SM, el usuario deberá establecer la flag "Disponible"
+(APP CITSMART \> Página de Inicio \> [Conexión] \> Editar \> Disponible ) para
+iniciar el recuento de Km.
 
-Ao final dos atendimentos o usuário deverá desabilitar a flag “Disponível”, pois
-o sistema contabiliza todo o período de disponibilidade.
+Al final de las atenciones, el usuario deberá deshabilitar la bandera "Disponible", pues
+el sistema contabiliza todo el período de disponibilidad.
 
-Procedimento
+Procedimiento
 ------------
 
-*Passo 1*:
+*Paso 1*:
 
-1.  Acessar o menu principal Relatórios \> Relatório Smart \> Gerador de
-    Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Generador de
+    Informes Smart;
 
-2.  Clicar no botão “Importar” e selecionar o arquivo do Anexo.
+2.  Hacer clic en “Importar” y seleccionar el archivo del Adjunto.
 
-*Passo 2*:
+*Paso 2*:
 
-1.  Acessar o menu principal Relatórios \> Relatório Smart \> Relatórios Smart;
+1.  Acceder al menú principal Informes \> Informes Smart \> Informes Smart;
 
-2.  Clicar na aba Incidentes/Requisições e selecionar o relatório importado no
-    passo anterior;
+2.  Hacer clic en la pestaña Incidentes/Solicitudes y seleccionar el informe importado en el paso anterior;
 
-3.  Selecionar os filtros para visualizar o relatório;
+3.  Seleccionar los filtros para ver el informe;
 
-4.  Visualizar o relatório.
+4.  Ver el informe.
 
 
-!!! Abstract "REGRA"
+!!! Abstract "REGLA"
 
-    Somente tickets capturados/delegados ao atendente e que estejam fechados serão
-    contabilizados no campo “Solicitações” do relatório.
+    Sólo los tickets capturados/delegados al asistente y que estén cerrados serán
+    contabilizados en el campo "Solicitudes" del informe.
 
-Anexo
+Adjunto
 -----
 
-[Dowload - Contabilização][1]
+[Dowload - Contabilidad][1]
 
 
 !!! tip "About"
