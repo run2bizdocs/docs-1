@@ -24,10 +24,10 @@ Procedure
 
 3.  Complete all fields available to identify the requester;
 
-4.  To register a new incident related to the problem to be created,
-    Click on "Register", available in the "Incidents" area, and
-    complete the necessary fields. To relate an incident already
-    registered to a problem, it's only necessary to click on "Add" and
+4.  To register a new incident related to the problem to be created, 
+    click on "Register", available in the "Incidents" area, and
+    complete the necessary fields. To relate an incident already 
+    registered to a problem, it's only necessary to click on "Add" and 
     link the incident you want;
 
 5.  Select the portfolio you want and complete the information necessary to
@@ -35,7 +35,7 @@ Procedure
     the contract that it's linked to, among others;
     
     !!! Abstract "NOTE"
-        It's necessary to set if the problme to be create is a problem of
+        It's necessary to set if the problem to be create is a problem of
         reactive nature to a setback found, or it's justa a simple proactive
         practice to manage the system.
 
