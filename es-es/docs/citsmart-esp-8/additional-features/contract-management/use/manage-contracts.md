@@ -129,11 +129,11 @@ Procedimiento para vincular SLA específico al servicio del contrato
        campos generales, será necesario definir los plazos de SLA (acuerdo de
        nivel de servicio), teniendo en cuenta la prioridad.
 
-       !!! Abstract "ATENCIÓN"
+!!! Abstract "ATENCIÓN"
 
-           Después de "N" minutos configurados, y si no ha realizado ninguna acción
-           en la solicitud del servicio, el sistema asignará Prioridad y escalará el
-           Grupo que fueron configurados para ejecutar la solicitud del servicio.
+    Después de "N" minutos configurados, y si no ha realizado ninguna acción
+    en la solicitud del servicio, el sistema asignará Prioridad y escalará el
+    Grupo que fueron configurados para ejecutar la solicitud del servicio.
 
 -   Si informa el tipo de acuerdo como **Información diversa capturada de otras fuentes**, será necesario informar los datos de acuerdo     de servicio (el valor límite, la unidad, la glosa y el límite de la glosa). Para copiar, editar o borrar el acuerdo de nivel de      servicio registrado, siga los pasos:
 
