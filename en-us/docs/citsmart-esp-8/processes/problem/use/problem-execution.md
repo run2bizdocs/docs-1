@@ -31,6 +31,15 @@ Procedure
     responsible team, and the diffusion of your solution for the ones interested.
     Therefore, it's necessary in the "Known Error" tab, click on "Add
     Workaroung” and describe the relevant information;
+    
+    !!! Abstract "NOTE"
+    
+        It's possible to register more of a solution to the item "Workaround".
+        
+    !!! Abstract "NOTE"
+    
+        The workaround registered here can be viewed in the "Ticket" screen when
+        link the problem to the ticket.
 
     -   In the "Attachments" tab, it's possible to upload the files you want;
 
@@ -78,7 +87,7 @@ Procedure
 Relacionado
 ------------
  
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+[Register problem](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
