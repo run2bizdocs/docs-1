@@ -15,7 +15,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Mudança \> Mudança;
 
-2.  Clicar no botão “Opções” e em seguida em “Cadastro via template;
+2.  Clicar no botão “Opções” e em seguida em “Cadastro via template";
 
 3.  Selecionar o template desejado;
 
