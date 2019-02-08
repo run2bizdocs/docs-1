@@ -2,7 +2,7 @@ title: Register change justification
 Description: It's intended to regisater the change justification
 #Register change justification
 
-This functionality is intended to registaer the change justification that will be used in others system routines.
+This functionality is intended to register the change justification that will be used in others system routines.
 
 Procedure
 ------------
