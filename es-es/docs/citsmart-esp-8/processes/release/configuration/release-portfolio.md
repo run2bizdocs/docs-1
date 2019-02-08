@@ -9,27 +9,27 @@ de una nueva liberación al agruparlas por criterios específicos.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Liberación \> Portfolio de
+1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Portfolio de
     Liberación;
 
-2-  Hacer clic en "Nueva cartera";
+2.  Hacer clic en "Nueva cartera";
 
-3-  Completar los campos necesarios y agregar una imagen para representar el
+3.  Completar los campos necesarios y agregar una imagen para representar el
     portafolio, si es conveniente;
 
-4-  Seleccione el portafolio recién creado y hacer clic en "Avanzar";
+4.  Seleccione el portafolio recién creado y hacer clic en "Avanzar";
 
-5-  Hacer clic en "Nueva plantilla" y completar los campos disponibles.
+5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles.
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Esta nueva versión de la funcionalidad soporta el vínculo a flujos creados
-    por el propio usuario, modificados para representar su escenario.
+        Esta nueva versión de la funcionalidad soporta el vínculo a flujos creados
+        por el propio usuario, modificados para representar su escenario.
 
-    Es necesario seleccionar el estado "Activo" para proporcionar el uso del
-    portafolio creado.
+        Es necesario seleccionar el estado "Activo" para proporcionar el uso del
+        portafolio creado.
 
-5-  Hacer clic en "Guardar".
+5.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
