@@ -1,91 +1,89 @@
-title: Vincular as atividades ao contrato do serviço
-Description: Permite vincular atividades ao contrato anteriormente defino no portfólio
-# Vincular as atividades ao contrato do serviço
+title: Vincular actividades al contrato de servicio
+Description: Permite vincular actividades al contrato anteriormente definido en el portafolio
+# Vincular actividades al contrato de servicio
 
-Após configurar os atributos do contrato de serviço, será necessário definir as atividades liberadas para este contrato, como por exemplo, as requisições e procedimentos disponibilizados para ele, seu custo caso fique indisponível, dentre outras diretrizes especializadas a cada contrato do portfólio.
+Después de configurar los atributos del contrato de servicio, será necesario definir las actividades liberadas para este contrato, por ejemplo, las solicitudes y procedimientos disponibles para él, su costo si no está disponible, entre otras directrices especializadas a cada contrato del portafolio.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Para definir as atividades liberadas ao contrato do serviço é preciso antes
-cadastrar algumas funcionalidades, como: ter permissão de acesso às
-funcionalidades de Gerência de Portfólio e Catálogo, ter o portfólio com
-serviços cadastrados, ter o contrato vinculado ao serviço, cadastro de
-fornecedor, cliente, moeda, condição de operação, definir o calendário, o tempo
-de atendimento, modelos de e-mails, fluxo de trabalho e pesquisas. Além disso, é
-preciso já ter definido os atributos do contrato de serviço.
+Para definir las actividades liberadas al contrato del servicio es necesario antes
+citar algunas funcionalidades, como: tener permiso de acceso a las
+funcionalidades de Gestión de Portafolio y Catálogo, tener el portafolio con
+servicios registrados, tener el contrato vinculado al servicio, registro de
+proveedor, cliente, moneda, condición de operación, establecer el calendario, el tiempo
+de atención, modelos de e-mails, flujo de trabajo e investigaciones. Además, es
+es necesario que haya definido los atributos del contrato de servicio.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Portfólio;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Portafolio y Catálogo \> Portafolio;
 
-2.  Acessar o Portfólio de Serviços que deseja, clicar no botão "Avançar' do
-    mesmo;
+2.  Acceder a un Portafolio de Servicios, hacer clic en "Avanzar";
 
-3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
-    apresentada a tela de Informações do Serviço;
+3.  Hacer clic en "Avanzar" del servicio para accederlo. Después, será
+    presentado la pantalla de Información de Servicios;
 
-4.  Clicar na aba Contratos e logo em seguida clicar no botão "Avançar" do
-    contrato do serviço desejado para acessá-lo;
+4.  Hacer clic en la pestaña Contratos y después en "Avanzar" del contrato de servicio
+    que quiera para accederlo;
 
-5.  Ao lado esquerdo da tela é disponibilizado atividades a serem vinculadas ao
-    contrato afim de estabelecer seus parâmetros de “atendimento”. São eles:
+5.  Al lado izquierdo de la pantalla se dispone de actividades a ser vinculadas al
+    contrato con el fin de establecer sus parámetros de "atención". Son ellos:
 
-    -  **Requisições**: Nesta área é possível realizar o vínculo das atividades
-        de requisição ao contrato, devendo estas já estarem registradas e
-        vinculadas ao serviço. Para tanto, será preciso apertar o botão
-        “Vincular Serviço de Requisição” e preencher os dados referentes a esta
-        requisição a ser vinculada: selecionar seu calendário, sua condição de
-        operação, o grupo executor da requisição, os modelos de notificação de
-        cada fase da requisição, dentre outras. Logo após, na área nomeada
-        “Requisição”, clicar em “Adicionar” e selecionar a requisição registrada
-        no serviço.
+    -  **Solicitudes**: En esta área es posible realizar el vínculo de las actividades
+        de solicitud al contrato, debiendo éstas ya estar registradas y
+        vinculadas al servicio. Para ello, es necesario presionar el botón
+        "Vincular Servicio de Solicitud" y completar los datos relativos a esta
+        solicitud a ser vinculada: seleccionar su calendario, su condición de
+        operación, el grupo ejecutor de la solicitud, los modelos de notificación de
+        cada fase de la solicitud, entre otras. Luego, en el área nombrada
+        "Solicitud", haga clic en "Agregar" y seleccione la solicitud registrada
+        en el servicio.
 
-    -  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
-        requisições, para o vínculo de um incidente ao contrato de serviço
-        exitoso, basta seguir as orientações descritas no item anterior.
+    -  **Incidentes**: Esta actividad sigue el mismo principio de registro de
+        las solicitudes, para el vínculo de un incidente al contrato de servicio
+        con éxito, basta seguir las orientaciones descritas en el elemento anterior.
 
-    -  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
-        requisições e incidentes, para o vínculo de um procedimento ao contrato
-        de serviço exitoso, basta seguir as orientações descritas no item “Requisições”.
+    -  **Procedimiento**: Esta actividad sigue el mismo principio de registro de
+        solicitudes e incidentes, para el vínculo de un procedimiento al contrato
+        de servicio exitoso, basta seguir las orientaciones descritas en el elemento "Solicitudes".
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENCIÓN"
 
-        É imprescindível em todas as atividades acima narradas, vincular um fluxo
-        para esta atividade, do contrário não será possível registrar uma
-        solicitação de serviço. Para tanto, basta na área “Fluxo Serviço”, clicar no
-        botão “Adicionar” e selecionar o fluxo de trabalho condizente com o cenário
-        e apertar o botão “Gravar”.  
+        Es imprescindible en todas las actividades narradas arriba, vincular un flujo
+        para esta actividad, de lo contrario no será posible registrar una
+        solicitud de servicio. Para ello, basta en el área "Flujo Servicio", haga clic en
+        botón "Agregar" y seleccionar el flujo de trabajo que coincide con el escenario
+        y presione el botón "Guardar".  
 
-     -  **Custo de Indisponibilidade**: Informar o custo por hora, o que a
-    organização tem a perder caso ocorra a indisponibilidade do serviço;
+     -  **Costo de Indisponibilidad**: Informar el costo por hora, lo que
+    la organización tiene que perder si se produce la indisponibilidad del servicio;
 
-    -  **Acordo de disponibilidades**: Ao clicar no botão “Vincular Acordo de
-    Disponibilidade” é possível buscar e selecionar o SLA acordado entre os
-    stakeholders do contrato;
+    -  **Acuerdo de disponibilidades**: Al hacer clic en el botón "Vincular Acuerdo de
+    Disponibilidad "es posible buscar y seleccionar el SLA acordado entre los
+    stakeholders del contrato;
 
-    -  **Calendário**: Para vincular um calendário ao contrato, após apertar na área
-    “Calendário”, clicar no botão “Vincular Calendário” e buscar e selecionar o
-    item desejado;
+    -  **Calendario**: Para vincular un calendario al contrato, después de apretar en el área
+    "Calendario", haga clic en el botón "Vincular Calendario" y buscar y seleccionar
+    elemento deseado;
 
-    -  **Rateio**: É o percentual que aquele contrato paga sobre o Serviço de
-    Negócio contratado. Para informar o rateio do contrato em tese, é necessário
-    clicar no botão “Adicionar rateio” e informar o seu percentual (indicar um
-    percentual de 1 a 100%) e o seu ciclo de pagamento.
+    -  **Prorrateo**: Es el porcentaje que ese contrato paga sobre el Servicio de
+    Negocio contratado. Para informar el prorrateo del contrato, es necesario
+    hacer clic en "Agregar prorrateo" e informe su porcentaje (indicar un
+    porcentaje del 1 al 100%) y su ciclo de pago.
 
-    !!! Abstract "REGRA"
-        Não é permitido rateios diferentes para o mesmo ciclo no mesmo
-        serviço/negócio/contrato.  
+    !!! Abstract "REGLA"
+        No se permiten prorrateos diferentes para el mismo ciclo en el mismo
+        servicio/negocio/contrato.  
 
-    !!! Abstract "REGRA"
-        Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
-        encerrado.  
+    !!! Abstract "REGLA"
+        No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
 
-    !!! Abstract "REGRA"
-        Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
-        configurações cadastradas.  
+    !!! Abstract "REGLA"
+        No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
+        configuraciones registradas.  
        
 !!! tip "About"
 
