@@ -34,13 +34,13 @@ Procedimento
 
         Ao vincular ou cadastrar o incidente e salvar o problema, será disparado uma
         notificação na tela e no e-mail do responsável atual pelo incidente. Porém,
-        está notificação somente será enviada se o incidente já tiver sido capturado
+        esta notificação somente será enviada se o incidente já tiver sido capturado
         pelo seu executor, portanto se não houver captura e consequentemente a
         designação do responsável, não existirá a notificação.
 
     !!! Abstract "ATENÇÃO"
 
-        O envio da notificação supracitada é automático, não necessitando,
+        O envio da notificação supracitado é automático, não necessitando,
         portanto, de parametrização.
         
 5.  Para vincular **Itens de Configuração**, clicar na área “IC Relacionado” e em
