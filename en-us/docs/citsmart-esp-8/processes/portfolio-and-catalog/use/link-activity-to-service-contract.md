@@ -1,91 +1,84 @@
-title: Vincular as atividades ao contrato do serviço
-Description: Permite vincular atividades ao contrato anteriormente defino no portfólio
-# Vincular as atividades ao contrato do serviço
+title: Link activities to the service contract
+Description: It allows to to link activities to the contract previously defined in the portfolio
+# Link activities to the service contract
 
-Após configurar os atributos do contrato de serviço, será necessário definir as atividades liberadas para este contrato, como por exemplo, as requisições e procedimentos disponibilizados para ele, seu custo caso fique indisponível, dentre outras diretrizes especializadas a cada contrato do portfólio.
+After setting the attributes of the service contract, it's necessary to define the activities released for this contract, such as the requests and procedures made available to it, its cost if it's unavailable, among other specialized guidelines for each portfolio contract.
 
-Antes de começar
+Before getting started
 ----------------
 
-Para definir as atividades liberadas ao contrato do serviço é preciso antes
-cadastrar algumas funcionalidades, como: ter permissão de acesso às
-funcionalidades de Gerência de Portfólio e Catálogo, ter o portfólio com
-serviços cadastrados, ter o contrato vinculado ao serviço, cadastro de
-fornecedor, cliente, moeda, condição de operação, definir o calendário, o tempo
-de atendimento, modelos de e-mails, fluxo de trabalho e pesquisas. Além disso, é
-preciso já ter definido os atributos do contrato de serviço.
+In order to define the activities released to the service contract, it's necessary to
+have registered certain functionalities, such as: having permission to access the
+Portfolio and Catalog Management functions, having the portfolio with registered services,
+having the contract linked to the service, , currency, condition of operation, set
+the calendar, the time of attendance, email templates, workflow and searches.
+In addition, you must have already defined the service contract attributes.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Portfólio;
+1.  Access the main menu Processes \>
+    Portfolio and Catalog Management \> Portfolio;
 
-2.  Acessar o Portfólio de Serviços que deseja, clicar no botão "Avançar' do
-    mesmo;
+2.  Access the Service Portfolio you want, click on "Advance";
 
-3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
-    apresentada a tela de Informações do Serviço;
+3.  Click on "Advance" of the service to access it. After that, it'll be presented
+    the Service Information screen;
 
-4.  Clicar na aba Contratos e logo em seguida clicar no botão "Avançar" do
-    contrato do serviço desejado para acessá-lo;
+4.  Click on the tab Contracts and then on "Advance" in the service contract to access it;
 
-5.  Ao lado esquerdo da tela é disponibilizado atividades a serem vinculadas ao
-    contrato afim de estabelecer seus parâmetros de “atendimento”. São eles:
+5.  On the left side of the screen, it's available activities to be linked to the
+    contract in order to establish its "service" parameters. They are:
 
-    -  **Requisições**: Nesta área é possível realizar o vínculo das atividades
-        de requisição ao contrato, devendo estas já estarem registradas e
-        vinculadas ao serviço. Para tanto, será preciso apertar o botão
-        “Vincular Serviço de Requisição” e preencher os dados referentes a esta
-        requisição a ser vinculada: selecionar seu calendário, sua condição de
-        operação, o grupo executor da requisição, os modelos de notificação de
-        cada fase da requisição, dentre outras. Logo após, na área nomeada
-        “Requisição”, clicar em “Adicionar” e selecionar a requisição registrada
-        no serviço.
+    -  **Requests**: In this area it is possible to link activities
+        request to the contract, and these must already be registered and
+        linked to the service. To do so, you must press the
+        "Link Service Request" and complete the data for this
+        request to be linked: select your calendar, your
+        operation, the request execution group, the notification template of
+        each phase of the request, among others. Then, in the "Request" area,
+        click on "Add" and select the request registered in the service.
 
-    -  **Incidentes**: Esta atividade segue o mesmo princípio de cadastro de
-        requisições, para o vínculo de um incidente ao contrato de serviço
-        exitoso, basta seguir as orientações descritas no item anterior.
+    -  **Incidents**: This activity follows the same principle of registration of
+        requests, for the link of an incident to the successful service contract,
+        just follow the guidelines described in the previous item.
 
-    -  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
-        requisições e incidentes, para o vínculo de um procedimento ao contrato
-        de serviço exitoso, basta seguir as orientações descritas no item “Requisições”.
+    -  **Procedure**: This activity follows the same principle of registration of 
+        requests and incidents, to link a procedure to the successful service contract,
+        just follow the guidelines described in the item "Requests".
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "NOTE"
 
-        É imprescindível em todas as atividades acima narradas, vincular um fluxo
-        para esta atividade, do contrário não será possível registrar uma
-        solicitação de serviço. Para tanto, basta na área “Fluxo Serviço”, clicar no
-        botão “Adicionar” e selecionar o fluxo de trabalho condizente com o cenário
-        e apertar o botão “Gravar”.  
+        It's necessary in all of the above activities to link a flow to this 
+        activity, otherwise it'll not be possible to register a service request
+        solicitação de serviço. To do so, simply in the "Service Flow" area,
+        click on "Add" and select the workflow that matches the scenario and 
+        click on "Save"  
 
-     -  **Custo de Indisponibilidade**: Informar o custo por hora, o que a
-    organização tem a perder caso ocorra a indisponibilidade do serviço;
+     -  **Unavailability Cost**: Inform the cost per hour, what the organization
+    has to lose in the event of unavailability of the service;
+    
+    -  **Availability Agreement**:By clicking on "Link Availability Agreement", you can
+   search and select the SLA agreed between the contract stakeholders;
+    
+    -  **Calendar**: To link a calendar to the contract, after click on the area "Calendar",
+    click on "Link Calendar" and search and select the item you want;
 
-    -  **Acordo de disponibilidades**: Ao clicar no botão “Vincular Acordo de
-    Disponibilidade” é possível buscar e selecionar o SLA acordado entre os
-    stakeholders do contrato;
+    -  **Assessment**: It's the percentage that the contract pays on the contracted Business
+    Service. To inform the assessment of the contract, it's necessary to click on "Add
+    assessment" and inform its percentage (indicate a percentage from 1 to 100%) and its 
+    payment cycle.
 
-    -  **Calendário**: Para vincular um calendário ao contrato, após apertar na área
-    “Calendário”, clicar no botão “Vincular Calendário” e buscar e selecionar o
-    item desejado;
+    !!! Abstract "RULE"
+        It's not allowed different assessments to the same cycle in the same 
+        service/business/contract.  
 
-    -  **Rateio**: É o percentual que aquele contrato paga sobre o Serviço de
-    Negócio contratado. Para informar o rateio do contrato em tese, é necessário
-    clicar no botão “Adicionar rateio” e informar o seu percentual (indicar um
-    percentual de 1 a 100%) e o seu ciclo de pagamento.
+    !!! Abstract "RULE"
+        It's not allowed to register or change assessments to which cycles are not closed.  
 
-    !!! Abstract "REGRA"
-        Não é permitido rateios diferentes para o mesmo ciclo no mesmo
-        serviço/negócio/contrato.  
-
-    !!! Abstract "REGRA"
-        Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
-        encerrado.  
-
-    !!! Abstract "REGRA"
-        Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
-        configurações cadastradas.  
+    !!! Abstract "RULE"
+        It's not possible to delete an assessment to which cycles are not closed with the
+        configurations registered.  
        
 !!! tip "About"
 
