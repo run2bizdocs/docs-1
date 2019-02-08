@@ -49,7 +49,7 @@ Title: Preguntas frecuentes - FAQ
 
     Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
-    1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo → Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
+    1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
     2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
     3. Realice el diseño
    
@@ -58,7 +58,7 @@ Title: Preguntas frecuentes - FAQ
    
     Para definir el grupo predeterminado para la atención de primer nivel, proceda de acuerdo con las siguientes instrucciones:
    
-    1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso → Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
+    1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
     2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
     3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
     4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart.
@@ -465,7 +465,7 @@ Title: Preguntas frecuentes - FAQ
     
     CONFIGURACIÓN DEL PARÁMETRO
     
-    1. Para configurar el parámetro vaya a la pantalla Parametrización → Gestión de Conocimiento;
+    1. Para configurar el parámetro vaya a la pantalla Parametrización > Gestión de Conocimiento;
     2. Busque el parámetro “URL del servidor de SOLR (Ej: http://localhost:8983/solr/collection_name)” ;
     3. Después de indicar la dirección URL del servidor Solr, un ejemplo de URL sería el siguiente: http://localhost:8983/solr/base_conocimiento .
 
@@ -761,8 +761,10 @@ Title: Preguntas frecuentes - FAQ
     1. Archivo de configuración del Banco Postgresql:
      - Postgresql.conf
      - timezone = 'BRAZIL/EAST'
+     
     2. En el container cloud:
      - Setting timezone on the operating system.
+     
     3.Configuración de TimeZone en JRE: 
      - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
