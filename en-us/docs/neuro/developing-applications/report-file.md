@@ -4,7 +4,7 @@ Description:At this point, it is not possible to create a report in the Neuro it
 At this point, it is not possible to create a report in the Neuro itself. This functionality only refers to uploading a report file.  
 
 ##HOW TO ACCESS  
-Access the feature by navigating the menu **Neuro → Resources →  Report upload.**  
+Access the feature by navigating the menu Neuro > Resources >  Report upload.  
 
 ##PRECONDITIONS  
 No applicable  
@@ -28,9 +28,12 @@ Figure 2 - Report file listing screen
 !!! Abstract "ATTENTION"
     **You can not create a report itself in Neuro. This functionality only refers to uploading a report file.**  
 	
-1- The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.  
+1- The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.
+
 2- Finally, upload the report file.
-3- When you include a report file, the system automatically generates a record in the report configuration screen.  
+
+3- When you include a report file, the system automatically generates a record in the report configuration screen.
+
 4- Click Save to store the image. Click Search to return to the previous screen.  
 
 ![Screenshot](images/Report-file-fig03.png)  
