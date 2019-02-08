@@ -16,7 +16,7 @@ Procedimiento
 
 3.  Seleccionar la funcionalidad y elegir el tipo de informe que se va a emitir.
     Se abrirá una pestaña con un filtro más detallado para generar la
-    información deseada.
+    información deseada;
 
 4.  Se permite imprimir el informe al hacer clic en el icono con símbolo de impresora.
 
