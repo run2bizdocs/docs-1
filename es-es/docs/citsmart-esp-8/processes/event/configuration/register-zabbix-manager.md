@@ -26,12 +26,12 @@ conexión del CITSmart Inventory.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Zabbix \>
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Zabbix \>
     Gerente Zabbix;
 
-2-  Completar los campos disponibles en cada area;
+2.  Completar los campos disponibles en cada area;
 
-3-  En el área Ítem de Configuración Padre, es posible registrar el IC en el
+3.  En el área Ítem de Configuración Padre, es posible registrar el IC en el
     CITSmart con los datos del Host seleccionado. Hacer clic en "Crear EC". Es
     importante recordar que este registro sólo puede ser realizado si no hay un
     EC con la misma identificación del Host:
@@ -42,7 +42,7 @@ Procedimiento
     Cada servicio del host debe estar relacionado con su elemento de
     configuración hijo.
 
-4-  Hacer clic en "Guardar".
+4.  Hacer clic en "Guardar".
 
 
 Relacionado
