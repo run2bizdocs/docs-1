@@ -157,8 +157,8 @@ solicitudes de servicios.
 Generar informe de solicitación por ejecutante
 --------------------------------------------------
 
-Este relatório tem o objetivo de apresentar as solicitações de serviço por
-executante.
+Este informe tiene el objetivo de presentas las solicitudes de servicios por
+ejecutante.
 
 1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
     Incidentes/Requerimientos \> Solicitación por Ejecutante;
