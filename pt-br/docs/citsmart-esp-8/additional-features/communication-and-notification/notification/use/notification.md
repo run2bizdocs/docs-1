@@ -18,12 +18,10 @@ Procedimento
 
 4.  Para saber se o usuário recebeu/leu a notificação,
     ativar a chave “Exige confirmação”. Assim o usuário ao receber a
-    notificação, visualizará a mesma com um sinal de exclamação (!) indicando
-    a confirmação de leitura. Para visualizar a relação de leitores daquela notificação clicar no botão “Ver usuários que
-    confirmaram/visualizaram”;
+    notificação, visualizará a mesma com um sinal de exclamação (!). Para visualizar a relação de leitores daquela notificação clicar no     botão “Ver usuários que confirmaram/visualizaram”;
 
 5.  Para que a notificação seja também por email, ativar a chave “Notificar por
-    email.
+    email".
 
 6.  Para vincular usuário, clicar em "Adicionar" no campo Usuários;
 
@@ -54,7 +52,9 @@ O que fazer depois
     confirmação de leitura;
 
     -   A notificação com o ícone simbolizado por um “visto/check”, indica que a
-    leitura da mesma foi confirmada.
+    leitura da mesma foi confirmada;
+    
+    -  A notificação com ícone simbolizado por um ponto de exclamação, indica confirmação de leitura.
 
 !!! tip "About"
 
