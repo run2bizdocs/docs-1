@@ -7,7 +7,7 @@ By using this screen the user can register the databases used by Neuro.
 
 ##HOW TO ACCESS  
 
-1- Access the feature by navigating the menu Neuro → Configuration → Database.  
+1- Access the feature by navigating the menu Neuro > Configuration > Database.  
 
 ##PRECONDITIONS  
 
