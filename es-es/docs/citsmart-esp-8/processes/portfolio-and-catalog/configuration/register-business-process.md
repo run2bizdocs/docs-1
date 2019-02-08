@@ -20,23 +20,23 @@ grupo, unidad y flujo de trabajo definido.
 Procedimiento
 -----------------
 
-1-  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
     Portafolio y Catálogo \> Procesos de Negocio;
 
-2-  Completar los campos disponibles;
+2.  Completar los campos disponibles;
 
-!!! Abstract "NOTA"
+    !!! Abstract "NOTA"
 
-    La función vital es una parte de un proceso de negocio que es crítico para
-    el éxito del negocio, o sea, es la parte del funcionamiento del negocio que
-    no puede parar. Imagine, por ejemplo, un software que cuida el proceso de un
-    cajero automático para la movimentación de dinero: probablemente la función
-    de emitir billetes al cliente tendrá una criticidad mayor que la función de
-    emitir extractos. Por lo tanto, la primera tiene una mayor probabilidad de
-    ser considerada una función vital. Es muy importante tener en cuenta esta
-    función vital en la gestión de continuidad de servicios.
+        La función vital es una parte de un proceso de negocio que es crítico para
+        el éxito del negocio, o sea, es la parte del funcionamiento del negocio que
+        no puede parar. Imagine, por ejemplo, un software que cuida el proceso de un
+        cajero automático para la movimentación de dinero: probablemente la función
+        de emitir billetes al cliente tendrá una criticidad mayor que la función de
+        emitir extractos. Por lo tanto, la primera tiene una mayor probabilidad de
+        ser considerada una función vital. Es muy importante tener en cuenta esta
+        función vital en la gestión de continuidad de servicios.
 
-3-  Hacer clic en "Guardar".
+3.  Hacer clic en "Guardar".
 
 Relacionado
 -------
