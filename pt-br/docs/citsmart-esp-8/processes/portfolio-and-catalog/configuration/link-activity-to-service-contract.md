@@ -56,8 +56,8 @@ Procedimento
         É imprescindível em todas as atividades acima narradas, vincular um fluxo
         para esta atividade, do contrário não será possível registrar uma
         solicitação de serviço. Para tanto, basta na área “Fluxo Serviço”, clicar no
-       botão “Adicionar” e selecionar o fluxo de trabalho condizente com o cenário
-       e apertar o botão “Gravar”.
+        botão “Adicionar” e selecionar o fluxo de trabalho condizente com o cenário
+        e apertar o botão “Gravar”.  
 
      4.  **Custo de Indisponibilidade**: Informar o custo por hora, o que a
     organização tem a perder caso ocorra a indisponibilidade do serviço;
@@ -76,19 +76,16 @@ Procedimento
     percentual de 1 a 100%) e o seu ciclo de pagamento.
 
     !!! Abstract "REGRA"
-
-       Não é permitido rateios diferentes para o mesmo ciclo no mesmo
-      serviço/negócio/contrato.  
-
-    !!! Abstract "REGRA"
-
-       Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
-       encerrado.  
+        Não é permitido rateios diferentes para o mesmo ciclo no mesmo
+        serviço/negócio/contrato.  
 
     !!! Abstract "REGRA"
+        Não é permitido cadastros ou alterações de rateios cujos ciclos já tenham se
+        encerrado.  
 
-       Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
-       configurações cadastradas.  
+    !!! Abstract "REGRA"
+        Não é possível excluir um rateio cujo ciclo tenha serviços encerrados com as
+        configurações cadastradas.  
        
 !!! tip "About"
 
