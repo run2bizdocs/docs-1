@@ -5,7 +5,7 @@ Description: When you produce a set of application items through the Neuro, it i
 When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
 
 ##HOW TO ACCESS  
-1- Access the functionality through navigation in the main menu Neuro → Management  → Package.  
+1- Access the functionality through navigation in the main menu Neuro > Management > Package.  
 
 ##PRECONDITIONS  
 1- No applicable.  
