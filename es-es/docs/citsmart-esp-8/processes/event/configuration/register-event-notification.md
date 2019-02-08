@@ -22,12 +22,12 @@ de EPL.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Negocio
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Monitor Negocio
     \> Notificación;
 
-2-  Completar los campos diponsibles en cada area;
+2.  Completar los campos diponsibles en cada area;
 
-3-  En Notificación en Pantalla:
+3.  En Notificación en Pantalla:
 
   -   hacer clic en "Vincular usuario" para vincular los usuarios a la
       notificación en la pantalla;
@@ -35,7 +35,7 @@ Procedimiento
   -   hacer clic en "Vincular grupo" para vincular el grupo a la notificación en
       la pantalla.
 
-4-  Hacer clic en "Guardar".
+4.  Hacer clic en "Guardar".
 
 
 
