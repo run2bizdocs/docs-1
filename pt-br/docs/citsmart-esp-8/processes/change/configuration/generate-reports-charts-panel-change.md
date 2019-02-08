@@ -74,7 +74,7 @@ gráfico, as mudanças pelo seu impacto (alta, média e baixa).
 5.  Será apresentado o gráfico de mudança por impacto de acordo
     com os filtros definidos.
 
-Gerar relatórios de requisição de mudança por SLA
+Gerar relatórios de mudança por SLA
 -----------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
