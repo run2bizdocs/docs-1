@@ -85,7 +85,7 @@ de los incidentes, en forma de lista.
     un cuadro resumen con el porcentaje de solicitudes capturadas en el plazo
     por prioridad.
 
-Generar informes acerca de la cualidade de atención y SLA*
+Generar informes acerca de la cualidade de atención y SLA
 -------------------------------------------------------------
 
 Este informe permite verificar la calidad de la atención y SLA de los incidentes
