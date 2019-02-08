@@ -66,7 +66,7 @@ Procedimento
     Disponibilidade” é possível buscar e selecionar o SLA acordado entre os
     stakeholders do contrato;
 
-    -  Calendário: Para vincular um calendário ao contrato, após apertar na área
+    -  **Calendário**: Para vincular um calendário ao contrato, após apertar na área
     “Calendário”, clicar no botão “Vincular Calendário” e buscar e selecionar o
     item desejado;
 
