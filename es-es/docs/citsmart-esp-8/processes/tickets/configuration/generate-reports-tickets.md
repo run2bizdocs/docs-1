@@ -141,15 +141,15 @@ solicitudes de servicios.
         configurada en el parámetro "261 - cantidad de registros devueltos en la
         búsqueda avanzada".
 
-1.  En las solicitudes presentadas en la lista, es posible haces las siguientes
+3.  En las solicitudes presentadas en la lista, es posible haces las siguientes
     acciones: buscar, histórico del ticket, visualizar solicitud/incidente, view
     los adjuntos y reabrir el ticket;
 
-2.  Si desea generar el informe con información resumida de la búsqueda que se
+4.  Si desea generar el informe con información resumida de la búsqueda que se
     realizó, haga clic en el botón "Generar XLS" para generar el informe en
     formato Excel;
 
-3.  Si desea generar el informe con información detallada de la búsqueda que se
+5.  Si desea generar el informe con información detallada de la búsqueda que se
     realizó, haga clic en el botón "Generar informe detallado PDF" para generar
     el informe detallado en formato PDF y/o el botón "Generar informe detallado
     XLS" para generar el informe detallado en formato Excel.
@@ -221,24 +221,24 @@ conforme los filtros elegidos por lo usuario.
 
 2.  Definir los filtros según sea necesario;
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Cuando el usuario desea realizar un análisis de todas las solicitudes,
-    estableciendo el valor "Todos" para el filtro "Top List", puede haber
-    diferencia entre el número de solicitudes del "Informe Top 10 ubicaciones
-    que más abrieron solicitudes/incidentes" con el número que fue encontrado en
-    los otros informes, debido a la no obligatoria de una solicitud estar
-    vinculada a una localidad.
+        Cuando el usuario desea realizar un análisis de todas las solicitudes,
+        estableciendo el valor "Todos" para el filtro "Top List", puede haber
+        diferencia entre el número de solicitudes del "Informe Top 10 ubicaciones
+        que más abrieron solicitudes/incidentes" con el número que fue encontrado en
+        los otros informes, debido a la no obligatoria de una solicitud estar
+        vinculada a una localidad.
 
-    El campo "fecha de finalización" se utilizará para filtrar el período del
-    "Informe Top 10 de grupos solucionadores que más resolvieron
-    solicitudes/incidentes", por lo que podría ser diferente al número de
-    solicitudes abiertas en el período.
+        El campo "fecha de finalización" se utilizará para filtrar el período del
+        "Informe Top 10 de grupos solucionadores que más resolvieron
+        solicitudes/incidentes", por lo que podría ser diferente al número de
+        solicitudes abiertas en el período.
 
-    El sistema mostrará todas las unidades y servicios activos relacionados
-    con el contrato seleccionado.
+        El sistema mostrará todas las unidades y servicios activos relacionados
+        con el contrato seleccionado.
 
-1.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
+3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
     "Generar XLS" para generar el informe en Excel.
 
 Generar informe de incidente/solicitude por servicio
