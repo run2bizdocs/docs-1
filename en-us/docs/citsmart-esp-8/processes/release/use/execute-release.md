@@ -15,7 +15,7 @@ Procedure
 1. Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Find the release request to be executed, click on the button “Open” and
+2.  Find the release to be executed, click on the button “Open” and
     confirm the task attribution;
 
 3.  In the **Closure** area, click on "Solved", select the solution category of
