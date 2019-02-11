@@ -41,7 +41,7 @@ Relación de los Campos Claves
 |           ${TITULO}          |                                    Título del Problema.Informa el título del problema que se registró.                                    |
 |          ${URGENCIA}         |                                Urgencia del Problema.Informa la identificación de la Urgencia del Problema.                               |
 
-Tabla 1 - Significado de los campos clave
+Tabla 1 - Significado de los campos clave 
 
 !!! tip "About"
 
