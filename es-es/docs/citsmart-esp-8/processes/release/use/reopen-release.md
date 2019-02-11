@@ -1,12 +1,12 @@
 title: Reabrir un registro de liberación
-Description: Permite reabrir la solicitud de liberación de cambios.
+Description: Permite reabrir la liberación de cambios.
 #Reabrir un registro de liberación
-Esta funcionalidad permite reabrir la solicitud de liberación de cambios.
+Esta funcionalidad permite reabrir la liberación de cambios.
 
 Antes de empezar
 --------------------
 
-Es necesario tener permiso para volver a abrir la solicitud de liberación.
+Es necesario tener permiso para volver a abrir la liberación.
 
 Procedimiento
 -----------------
@@ -18,17 +18,17 @@ Procedimiento
 
 3.  Hacer clic en "Búsqueda Avanzada";
 
-4.  Completar los filtros disponibles y buscar la solicitud de liberación que
+4.  Completar los filtros disponibles y buscar la liberación que 
     desea reabrir;
 
-5.  Después de la búsqueda, hacer clic en el icono “Reabrir Ticket/Tarea” y
-    confirmar la operación.
+5.  Después de la búsqueda, hacer clic en el icono “Reabrir Ticket/Tarea” y 
+   confirmar la operación.
 
 Lo que hacer después
 ------------------------
 
-Verificar si la solicitud está con la situación "Reabierta" en la lista de
-solicitud de liberación.
+Verificar si la liberación está con la situación "Reabierta" en la lista de
+liberaciones.
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
