@@ -1,13 +1,13 @@
 title: Suspend release registration
-Description: Allows to suspend the execution of the release request.
+Description: Allows to suspend the execution of the release.
 #Suspend release registration
-This functionality allows to suspend the execution of the release request.
+This functionality allows to suspend the execution of the release.
 
 Before getting started
 --------------------------
 
-In order to suspend the execution of the release request, it's necessary to
-register the request, the justification of the request for release and
+In order to suspend the execution of the release, it's necessary to
+register the release, the justification of the request for release and
 permission to suspend.
 
 Procedure
@@ -16,7 +16,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Find the release request you want to suspend, click on it and then on the
+2.  Find the release you want to suspend, click on it and then on the
     button “More Options”. Select the option "Suspend";
 
 3.  Complete the justification of the suspension and its complement;
@@ -26,8 +26,8 @@ Procedure
 What to do next
 -------------------
 
-Verify if the status of the release request is "Suspended" in the release
-request list.
+Verify if the status of the release is "Suspended" in the release 
+list.
 
 Related
 -----------
@@ -36,7 +36,7 @@ Related
 
 [Register release justification](/en-us/citsmart-esp-8/processes/release/use/release-justification.html)
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Register release](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
