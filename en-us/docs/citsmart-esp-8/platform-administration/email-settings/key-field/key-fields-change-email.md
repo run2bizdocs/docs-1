@@ -13,7 +13,7 @@ template-related e-mail template:
 
 | Key Field             | Description                                                                                      |
 |-----------------------|--------------------------------------------------------------------------------------------------|
-| ${DELAYSTR}           | Delay time. Reports the delay time of the change request.                             |
+| ${DELAYSTR}           | Delay time. Reports the delay time of the change.                             |
 | ${ACCEPTANCEDATE}     | Date of Acceptance. Informs the date of acceptance of the change.                         |
 | ${COMPLETIONDATESTR}  | Date of the conclusion. Informs the date of completion of the change.         |
 | ${CAPTUREDATETIME}    | Date and Time of request Capture. Informs the date and time of the capture of the change. |
