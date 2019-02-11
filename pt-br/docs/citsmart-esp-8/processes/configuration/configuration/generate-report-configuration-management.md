@@ -1,5 +1,5 @@
 title: Gerar relatórios - Gerência de configuração
-Description: Objetivo de apresentar as chaves(licenças) válidas, inválidas e duplicadas das mídias.
+Description: Objetivo de apresentar as chaves (licenças) válidas, inválidas e duplicadas das mídias.
 #Gerar relatórios - Gerência de configuração
 
 Gerar relatório de Item de configuração - Pacote Office
@@ -24,7 +24,7 @@ Gerar relatório de Mudança/Item de configuração
 ---------------------------------------------------
 
 Este relatório tem o objetivo de fornecer as informações das diferentes
-requisições de mudança relacionadas ao mesmo item de configuração.
+mudanças relacionadas ao mesmo item de configuração.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Configurações \> Mudança/Item Configuração;
