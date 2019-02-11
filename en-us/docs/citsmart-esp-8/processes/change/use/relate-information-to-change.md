@@ -22,7 +22,7 @@ Procedure
 
 3.  To link **Configuration Items**, click on "CI Related" and then on "search configuration
     item". Search and click on "Select" to complete the link. Therefore, it's possible to
-    click on the icon "Services", link it to the change and click on the icon "Chonge",
+    click on the icon "Services", link it to the change and click on the icon "Change",
     modify the CI already registered;
 
 4.  Click on the area **“Related Services”** and then on "Add Service" in order to
