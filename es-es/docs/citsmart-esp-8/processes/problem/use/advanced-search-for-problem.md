@@ -10,8 +10,8 @@ Procedimiento
 1.  Acceder al menú principal Procesos \>
     Gestión de Problema \> Problema;
 
-2.  Abierta la pantalla, específicamente en el campo de búsqueda, hacer clic en el icono
-    simbolizado por una flecha hacia abajo y después en "Búsqueda avanzada";
+2.  Abierta la pantalla, específicamente en el campo de búsqueda, hacer clic en el icono 
+    simbolizado por una flecha hacia abajo y después en "Búsqueda avanzada";
 
 3.  Definir los filtros necesarios para la búsqueda (Periodo de Apertura,
     Solicitante, Categoría del Problema, y otros);
@@ -25,10 +25,10 @@ Procedimiento
 7.  Para ver las informaciones del problema, después de la búsqueda, hacer clic en
     “Ver”, disponible en la lista de elementos;
 
-8.  Si desea ver las ocurrencias del problema, después de hacer clic en "Ver",
-    hacer clic en “Registro de Ejecución” (último icono del lado derecho de la
-    pantalla). En esta pantalla, también es posible añadir nuevos registros de ocurrencias,
-    al hacer clic en "Añadir ocurrencia" y completar los campos obligatorios.
+8.  Si desea ver las ocurrencias del problema, después de hacer clic en "Ver", 
+     hacer clic en “Registro de Ejecución” (último icono del lado derecho de la 
+     pantalla). En esta pantalla, también es posible añadir nuevos registros de ocurrencias, 
+     al hacer clic en "Añadir ocurrencia" y completar los campos obligatorios.
 
 !!! tip "About"
 
