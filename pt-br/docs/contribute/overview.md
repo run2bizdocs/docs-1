@@ -45,7 +45,7 @@ Para começar:
 
  
 
-![Screenshot](en-us/docs/images/contribution-signin.png)
+![Screenshot](images/contribution-signin.png)
 
  
 
@@ -69,7 +69,7 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-![Screenshot](en-us/docs/images/contribution-repositories.png)
+![Screenshot](images/contribution-repositories.png)
 
  
 
@@ -77,7 +77,7 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-![Screenshot](en-us/docs/images/contribution-edit-files.png)
+![Screenshot](images/contribution-edit-files.png)
 
  
 
