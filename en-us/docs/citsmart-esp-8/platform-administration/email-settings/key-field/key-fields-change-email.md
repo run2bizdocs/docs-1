@@ -25,7 +25,7 @@ template-related e-mail template:
 | ${DESCRIPTION}        | Description of Change. Reports the description of the change.                     |
 | ${ESTIMATEDDURATION}  | Estimated duration. Reports the estimated duration of the scheduled meeting.                      |
 | ${REQUESTEREMAIL}     | Applicant's e-mail address. Inform the requestor's e-mail of the change.                  |
-| ${CLOSURE}            | Closing.Informs the description of the closing of the change.                            |
+| ${CLOSURE}            | Closing. Informs the description of the closing of the change.                            |
 | ${STARTTIME}          | Meeting Start Time. Reports the start time of the scheduled meeting.                              |
 | ${CHANGEREQUESTID}    | Change Number. Informs the identification number of the change.                   |
 | ${IMPACTLEVEL}        | Impact. Reports the impact of the change.                                                 |
