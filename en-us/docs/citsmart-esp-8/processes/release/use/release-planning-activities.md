@@ -1,13 +1,13 @@
 title: Activities of the release planning phase
-Description: This functionality allows to plan the activities to be executed with the release request.
+Description: This functionality allows to plan the activities to be executed with the release.
 #Activities of the release planning phase
-This functionality allows to plan the activities to be executed with the release request.
+This functionality allows to plan the activities to be executed with the release.
 
 Before getting started
 --------------------------
 
 Before schedule a release activity, it's necessary to previously register the
-release request.
+release.
 
 Procedure
 -------------
@@ -15,7 +15,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Find the release request you want to Plan, click on the button “Open” and
+2.  Find the release you want to Plan, click on the button “Open” and
     then on "Release Planning";
 
 3.  We can create a Kaban to manage the activities registered. Click on "+
@@ -24,8 +24,8 @@ Procedure
     etc.), select the user or group responsible for the execution of tasks and
     others;
 
-4.  You can link the roles and responsibilities, projects, documents, notes and
-    notifications of system to the release request. To do so, it's necessary to
+4.  You can link the roles and responsibilities, projects, documents, notes and 
+    notifications of system to the release. To do so, it's necessary to 
     click on the available frame, select the item to link it to the release;
 
 5.  In addition to allowing the link of responsibilities, projects, and
@@ -43,7 +43,7 @@ Related
 
 [Activities of the deployment release phase](/en-us/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Register release](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
