@@ -32,15 +32,15 @@ Procedimiento
     !!! Abstract "ATENCIÓN"
 
         Al vincular o registrar el incidente y guardar el problema, se disparará una notificación
-        en la pantalla y en el e-mail del responsable actual por el incidente. Pero,
-        esta notificación sólo se enviará si el incidente ya se ha capturado
-        por su ejecutor, por lo tanto si no hay captura y consecuentemente la
-        designación del responsable, no existirá la notificación.
+        en la pantalla y en el e-mail del responsable actual por el incidente. Pero, 
+        esta notificación sólo se enviará si el incidente ya se ha capturado 
+        por su ejecutor, por lo tanto si no hay captura y consecuentemente la 
+        designación del responsable, no existirá la notificación.
 
     !!! Abstract "ATENCIÓN"
 
-        El envío de la notificación antes citada es automático, no necesitando,
-        por lo tanto, de parametrización.
+        El envío de la notificación antes citada es automático, no necesitando, 
+        por lo tanto, de parametrización.
         
 5.  Para vincular **Elementos de Configuração**, hacer clic en “CI Relacionado” y después
     en "Búsqueda Ítems Configuración". Buscar y hacer clic en "Selecconar" para
