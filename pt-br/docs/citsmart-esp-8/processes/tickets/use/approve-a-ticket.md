@@ -2,8 +2,8 @@ title: Aprovar um ticket
 Description: Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço. 
 #Aprovar um ticket
 
-Quando um ticket possui uma atividade de aprovação é possível confirmar ou
-rejeitar este pedido utilizando o recurso para esta finalidade. Neste sentido o
+Quando um ticket possuir uma atividade de aprovação é possível confirmar ou
+rejeitar este pedido utilizando o recurso para esta finalidade. Neste sentido, o
 fluxo de trabalho do ticket deve conter uma tarefa de usuário (aba Identificação
 \> Botão   "É uma tarefa de aprovação? = SIM"), o qual está vinculado a
 atividade.
