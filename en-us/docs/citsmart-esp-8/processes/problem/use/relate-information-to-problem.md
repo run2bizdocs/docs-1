@@ -32,7 +32,7 @@ Procedure
     !!! Abstract "NOTE"
     
         When link or register the incident and save the problem, it'll be triggered
-        a notification in the email screen and the current responsible for the incident.
+        a notification in the email and on the screen of the current responsible for the incident.
         However, this notification will be only sent if the incident has already been 
         captured by its executor, moreover, if is not captured and designated to the
         responsible, there will be no  notification.
