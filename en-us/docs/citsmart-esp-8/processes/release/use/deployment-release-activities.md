@@ -1,7 +1,7 @@
 title: Activities of the deployment release phase
-Description: This functionality is intended to plan the activities to be deployed to the release request. 
+Description: This functionality is intended to plan the activities to be deployed to the release. 
 #Activities of the deployment release phase
-This functionality is intended to plan the activities to be deployed to the release request.
+This functionality is intended to plan the activities to be deployed to the release.
 
 Procedure
 -------------
@@ -19,7 +19,7 @@ Procedure
     others;
 
 4.  You can link the roles and responsibilities, projects, documents, notes and
-    notifications of system to the release request. To do so, it's necessary to
+    notifications of system to the release. To do so, it's necessary to
     click on the available frame, select the item to link it to the release;
 
 5.  In addition to allowing the link of responsibilities, projects, and
@@ -30,14 +30,14 @@ Procedure
 What to do next
 -------------------
 
-It's possible to link other functionalities to the release request.
+It's possible to link other functionalities to the release.
 
 Related
 -----------
 
 [Activities of the release planning phase](/en-us/citsmart-esp-8/processes/release/use/release-planning-activities.html)
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Register release](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
