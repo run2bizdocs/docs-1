@@ -24,9 +24,9 @@ Uso
 
 - [Crear ticket a desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
 
-- [Crear solicitud de cambio desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
+- [Crear un cambio desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
 
-- [Crear registo de problema desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
+- [Crear un problema desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
 
 - [Menú interno de la gestión de eventos](/es-es/citsmart-esp-8/processes/event/use/internal-menu-of-event.html)
 
