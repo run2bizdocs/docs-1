@@ -20,7 +20,7 @@ Uso
 
 - [Cerrar ocurrencia de evento](/es-es/citsmart-esp-8/processes/event/use/close-event-occurrence.html)
 
-- [Encerrar ocurrencia y aciones del evento](/es-es/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
+- [Cerrar ocurrencia y aciones del evento](/es-es/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
 
 - [Crear ticket a desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
 
