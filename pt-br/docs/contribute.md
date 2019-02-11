@@ -1,33 +1,12 @@
-Title: Guia do Colaborador do CITSmart Docs
-
-# Guia do Colaborador do CITSmart Docs
-
-A  CITSmart DOcs é um trabalho incessante de documentação de nossos produtos. Entendemos que nossa comunidade é a parte mais valiosa no que tenge ao uso da plataforma. Desse modo, todos os documentos estão disponíves para edição e sugestões de melhoria.
-
-Aqui você encontrará informações que irão te ajudar a contribuir com nossa documentação e, assim, aumentar a qualidade das informações disponíveis.
-
-## Editar documentos
-
-
-
-## Verificar os pedidos de pull em aberto
-
-
-Title: Guia de contribuição do Docs
-
- 
+Title: Guia de contribuição do CITSmart Docs
 
 # Guia de contribuição do CITSmart Docs
 
- 
-
-Obrigado por acessar a página de contribuição do CITSmart Docs. Aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
-
- 
+O CITSmart Docs é um trabalho incessante de documentação de nossos produtos. Entendemos que a experiência de nossa comunidade no uso da plataforma é a parte mais enriquecedora. Por isso, aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
 
 As documentações do CITSmart estão disponíveis publicamente no [GitHub](https://github.com/citsmartdocs/). É através dele que você conseguirá editar os documentos existentes, criar novos documentos ou mesmo sugerir melhorias para nosso portal.
 
- 
+Obrigado por acessar a página de contribuição do CITSmart Docs.
 
 ## Editando documentos existentes
 
