@@ -1,12 +1,12 @@
 title:  Ejecutar una liberación 
-Description: Permite registrar la información referente a la ejecución de la solicitud de liberación de los cambios.
+Description: Permite registrar la información referente a la ejecución de la liberación de los cambios.
 #Ejecutar una liberación
-Esta funcionalidad permite registrar la información referente a la ejecución de la solicitud de liberación de los cambios.
+Esta funcionalidad permite registrar la información referente a la ejecución de la liberación de los cambios.
 
 Antes de empezar
 ----------------
 
-Para ejecutar una solicitud de liberación, es necesario su registro previo y el
+Para ejecutar una liberación, es necesario su registro previo y el 
 permiso de ejecución de esta solicitud.
 
 Procedimiento
@@ -14,22 +14,21 @@ Procedimiento
 
 1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Buscar la solicitud de liberación que se va a ejecutar, hacer clic en el
+2.  Buscar la liberación que se va a ejecutar, hacer clic en el 
     botón “Abrir” y confirmar la asignación de la tarea;
 
-3.  En el área **Cierre**, hacer clic en "Resuelto", seleccionar la categoría de
-    solución de la ejecución e informar también la información útil para la
-    ejecución de la solicitud de liberación
+3.  En el área **Cierre**, hacer clic en "Resuelto", seleccionar la categoría de 
+    solución de la ejecución e informar también la información útil para la 
+    ejecución de la liberación;
 
-4.  También es posible vincular algunas funcionalidades a la solicitud, tales
-    como: **Problemas, Conocimiento, Media definitiva,
+4.  También es posible vincular algunas funcionalidades a la liberación, tales
+    como: **Problemas, Conocimiento, Media definitiva, 
     Papeles/Responsabilidades**.
 
     !!! Abstract "ATENCIÓN"
 
         Para mayor información sobre cómo vincular estas funcionalidades, leer el
-        conocimiento referente en la pestaña "Relacionados", ubicado en la esquina
-        derecha de la pantalla.
+        conocimiento referente en la pestaña "Relacionados", ubicado justo debajo.
 
 5.  Podemos ver el historial de ocurrencias de la liberación al apretar el
     icono “Registro de Ejecución” y el flujo referente misma al hacer clic en el
@@ -42,9 +41,9 @@ Procedimiento
 Relacionado
 ---------------
 
-[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-[Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relacionar información a la liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
