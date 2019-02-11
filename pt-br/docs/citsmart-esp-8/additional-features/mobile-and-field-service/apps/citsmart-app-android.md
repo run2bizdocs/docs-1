@@ -328,10 +328,10 @@ localização da mesma.
 ##### Atendendo solicitação de serviço
 
 
-   !!! Abstract "REGRA"
+    !!! Abstract "REGRA"
 
-       Se estiver na lista de solicitações de grupo, e atender à solicitação, a
-       mesma passará a ser pessoal, sendo exibida na lista de solicitações pessoais
+        Se estiver na lista de solicitações de grupo, e atender à solicitação, a
+        mesma passará a ser pessoal, sendo exibida na lista de solicitações pessoais.  
 
 
 1.  Parar atender uma solicitação de serviço, selecione a solicitação desejada;
