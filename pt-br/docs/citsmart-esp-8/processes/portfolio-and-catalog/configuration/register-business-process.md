@@ -19,23 +19,23 @@ cliente, o grupo, a unidade e ter fluxos de trabalho definidos.
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Processos \>
+1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Portfólio e Catálogo \> Processo de Negócio;
 
-2-  Preencher os campos disponibilizados;
+2.  Preencher os campos disponibilizados;
 
-!!! Abstract "NOTA"
+    !!! Abstract "NOTA"
 
-    A função vital é uma parte de um processo de negócio que é crítico para o
-    sucesso do negócio, ou seja, é a parte do funcionamento do negócio que não
-    pode parar. Imagine, por exemplo, um software que cuida do processo de um
-    caixa automático para saque de dinheiro: provavelmente a função de emitir
-    cédulas para o cliente terá uma criticidade maior do que a função de emitir
-    extratos. Portanto, a primeira tem uma maior probabilidade de ser
-    considerada uma função vital. A função vital é uma consideração importante
-    no gerenciamento de continuidade de serviço.  
+        A função vital é uma parte de um processo de negócio que é crítico para o
+        sucesso do negócio, ou seja, é a parte do funcionamento do negócio que não
+        pode parar. Imagine, por exemplo, um software que cuida do processo de um
+        caixa automático para saque de dinheiro: provavelmente a função de emitir
+        cédulas para o cliente terá uma criticidade maior do que a função de emitir
+        extratos. Portanto, a primeira tem uma maior probabilidade de ser
+        considerada uma função vital. A função vital é uma consideração importante
+        no gerenciamento de continuidade de serviço.  
 
-3-  Clicar em "Gravar".
+3.  Clicar em "Gravar".
 
 
 Relacionado
