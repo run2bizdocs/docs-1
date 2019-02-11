@@ -25,7 +25,7 @@ Usage
 
 -   [Execute problem](/pt-br/citsmart-esp-8/processes/problem/use/problem-execution.html)
 
--   [Relato iformation to the problem](/pt-br/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
+-   [Relate information to the problem](/pt-br/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
 
 -   [Schedule problems activities](/pt-br/citsmart-esp-8/processes/problem/use/schedule-problem-activities.html)
 
