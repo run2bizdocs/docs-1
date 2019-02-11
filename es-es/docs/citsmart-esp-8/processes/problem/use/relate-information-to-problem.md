@@ -56,10 +56,10 @@ Procedimiento
     sólo hacer clic en el icono "Eliminar" y confirmar la operación;
 
     !!! Abstract "ATENCIÓN"
-        Si no hay ningún servicio relacionado, puede vincular un nuevo
-        servicio al problema, simplemente hacer clic en "Servicios del Problema"
-        y depués en "Añadir servicio". Después, es necesario seleccionar el
-        servicio deseado.
+        Si no hay ningún servicio relacionado, puede vincular un nuevo 
+        servicio al problema, simplemente hacer clic en "Servicios del Problema" 
+        y depués en "Añadir servicio". Después, es necesario seleccionar el 
+        servicio deseado.  
 
 7.  Para vincular **Liberación**, hacer clic en el area de mismo nombre, depués
     en el campo de búsquda y seleccionar una liberación. Si quiera registrar una
