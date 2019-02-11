@@ -1,13 +1,13 @@
 title: Actividades de la fase de planificación de la liberación
-Description: Permite planificar las actividades a realizarse junto a la solicitud de liberación
+Description: Permite planificar las actividades a realizarse junto a la liberación
 #Actividades de la fase de planificación de la liberación
-Esta funcionalidad permite planificar las actividades a realizarse junto a la solicitud de liberación
+Esta funcionalidad permite planificar las actividades a realizarse junto a la liberación.
 
 Antes de empezar
 ----------------
 
-Las actividades de Planificación ocurren después del registro de la Solicitud de
-la Liberación, siendo así, verifique la existencia de una Liberación y, también,
+Las actividades de Planificación ocurren después del registro de la Liberación,
+siendo así, verifique la existencia de una Liberación y, también,
 si tiene permiso para crear/ejecutar actividades.
 
 Procedimiento
@@ -15,7 +15,7 @@ Procedimiento
 
 1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Buscar la solicitud de liberación de la que desea Planear la actividad,
+2.  Buscar la liberación de la que desea Planear la actividad,
     hacer clic en el botón “Abrir” y luego en el área "Planificación de la
     liberación";
 
@@ -26,8 +26,8 @@ Procedimiento
     de la ejecución de las tareas, entre otros;
 
 4.  Es posible vincular los papeles y responsabilidades, proyectos, documentos,
-    notas, documentos y notificaciones del sistema a la solicitud de liberación.
-    Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar
+    notas, documentos y notificaciones del sistema a la liberación.
+    Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar 
     el ítem deseado para vincularlo a la liberación;
 
 5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
@@ -44,7 +44,7 @@ liberación".
 Relacionado
 ---------------
 
-[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 [Actividades de la fase de implantación de la liberación](/es-es/citsmart-esp-8/processes/release/use/deployment-release-activities.html)
 
