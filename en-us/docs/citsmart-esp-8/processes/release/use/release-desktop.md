@@ -6,8 +6,8 @@ The desktop of the Release Management is a space where all release requests and 
 Before getting started
 --------------------------
 
-To have access to all the possibilities of viewing the options of a release
-request, it's necessary to have at least one already registered.
+To have access to all the possibilities of viewing the options of a release,
+it's necessary to have at least one already registered.
 
 Procedure
 -------------
@@ -15,12 +15,12 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Search for the release request and the actions you want.  
+2.  Search for the release and the actions you want.  
 
 Related
 -----------
 
-[Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Register release](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
