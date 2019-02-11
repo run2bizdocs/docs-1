@@ -8,7 +8,7 @@ As documentações do CITSmart estão disponíveis publicamente no [GitHub](http
 
 Obrigado por acessar a página de contribuição do CITSmart Docs.
 
-## Editando documentos existentes
+## Editar documentos existentes
 
  
 
@@ -88,4 +88,10 @@ Na próxima etapa irá aparecer o botão "Create pull request". Clique nele para
 
 A equipe irá avaliar sua proposta de mudança, e após a aprovação do conteúdo este estará disponível em nossa documentação.
 
+## Propor novos documentos
+
+Caso você não encontre a documentação de uma funcionalidade, utilize nossa [área de feedback][1] para propor a criação.
+
+
+[1]:https://github.com/citsmartdocs/feedback
  
