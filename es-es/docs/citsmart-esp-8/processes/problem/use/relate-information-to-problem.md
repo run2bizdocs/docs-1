@@ -65,7 +65,7 @@ Procedimiento
     en el campo de búsquda y seleccionar una liberación. Si quiera registrar una
     nueva liberación, hacer clic en "Registrar" y completar los datos;
 
-8.  Para vincular otros **Problemas**, hacer clic en el area de mismo nobmre, después
+8.  Para vincular otros **Problemas**, hacer clic en el area de mismo nombre, después
     en el campo de búsqueda y seleccionar un problema. Si quiera crear un nuevo
     problema para relacionar, sólo hacer clic en "Registrar" y completar los datos necesários;
 
