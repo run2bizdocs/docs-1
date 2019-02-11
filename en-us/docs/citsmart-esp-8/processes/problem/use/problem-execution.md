@@ -52,9 +52,9 @@ problem, you can perform the following activities:
     -   Create a Kanban, with the information mentioned above;
 
     -  It's possible to create a new change relate to the problem solution by
-    click on "Register Change" (available in the tab "Change”) and
-    complete the field necessary, or even link to the problem, a change
-    already registered, when clicking on the search field and selec the change
+    click on "Register Change" (available in the tab "Change”) and 
+    complete the field necessary, or even link to the problem, a change 
+    already registered, when clicking on the search field and select the change
     you want;
 
     -   It's also possible to attach files and register notes in this fase of
