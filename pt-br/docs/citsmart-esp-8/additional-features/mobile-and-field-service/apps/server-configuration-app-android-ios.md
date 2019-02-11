@@ -132,36 +132,36 @@ Segue abaixo as APIs do Google a serem consideradas nas soluções:
 
    Figura 7 - APIs
 
-    -   **Directions API**: a API de direções do Google é consumida através de
-    requisições HTTP. Tal API calcula direções entre dois pontos informados, a
-    origem e o destino, possuindo outras diversas opções. Para maiores
-    informações sobre o uso dessa API,
-    acesse: <https://developers.google.com/maps/documentation/directions>.
+   -   **Directions API**: a API de direções do Google é consumida através de
+        requisições HTTP. Tal API calcula direções entre dois pontos informados, a
+        origem e o destino, possuindo outras diversas opções. Para maiores
+        informações sobre o uso dessa API,
+        acesse: <https://developers.google.com/maps/documentation/directions>.
 
-    -   **Distance Matrix API**: a API Google Distance Matrix permite a recuperação
-    de matrizes de distâncias entre dois pontos, ou seja, retorna também
-    resultado aproximados. A diferença para a Google Directions API é que a
-    Distance Matrix não retorna informações tão detalhadas, como os passos a
-    serem realizados. Para maiores informações sobre o uso dessa API,
-    acesse: <https://developers.google.com/maps/documentation/distancematrix>.
+   -   **Distance Matrix API**: a API Google Distance Matrix permite a recuperação
+       de matrizes de distâncias entre dois pontos, ou seja, retorna também
+       resultado aproximados. A diferença para a Google Directions API é que a
+       Distance Matrix não retorna informações tão detalhadas, como os passos a
+       serem realizados. Para maiores informações sobre o uso dessa API,
+       acesse: <https://developers.google.com/maps/documentation/distancematrix>.
 
-    -   **Geocoding API**: a Google geocoding API é uma API que ajuda a recuperar
-    posições geográficas enviando como argumento um endereço por extenso. O
-    consume da API é feito por HTTP e os resultados podem ser obtidos em XML ou
-    JSON. Para maiores informações sobre o uso dessa API,
-    acesse: <https://developers.google.com/maps/documentation/geocoding>.
+   -   **Geocoding API**: a Google geocoding API é uma API que ajuda a recuperar
+       posições geográficas enviando como argumento um endereço por extenso. O
+       consume da API é feito por HTTP e os resultados podem ser obtidos em XML ou
+       JSON. Para maiores informações sobre o uso dessa API,
+       acesse: <https://developers.google.com/maps/documentation/geocoding>.
 
-    -   **Statics Maps API**: a API para mapas estáticos do Google será utilizada em
-    casos que não será necessário a interação como mapa, apenas visualização. É
-    interessante seu uso uma vez que é mais leve, visto que não é necessário o
-    download de recurso JS e imagens que não serão utilizadas. Para maiores
-    informações sobre o uso dessa API,
-    acesse: <https://developers.google.com/maps/documentation/staticmaps>.
+   -   **Statics Maps API**: a API para mapas estáticos do Google será utilizada em
+       casos que não será necessário a interação como mapa, apenas visualização. É
+       interessante seu uso uma vez que é mais leve, visto que não é necessário o
+       download de recurso JS e imagens que não serão utilizadas. Para maiores
+       informações sobre o uso dessa API,
+       acesse: <https://developers.google.com/maps/documentation/staticmaps>.
 
-    -   **Google Maps JavaScript API**: o uso da API é feito por meio de uma API JS.
-    Para seu uso, basta linkar o JS na página que irá usar o maps. Para maiores
-    informações sobre o uso dessa API,
-    acesse: <https://developers.google.com/maps/documentation/javascript>.
+   -   **Google Maps JavaScript API**: o uso da API é feito por meio de uma API JS.
+       Para seu uso, basta linkar o JS na página que irá usar o maps. Para maiores
+       informações sobre o uso dessa API,
+       acesse: <https://developers.google.com/maps/documentation/javascript>.
 
 Ativando uma API
 ----------------
