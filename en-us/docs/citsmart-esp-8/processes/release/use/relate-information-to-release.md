@@ -1,6 +1,6 @@
-title: Relate information to the release request
+title: Relate information to the release
 Description: It's possible to link the release to other functionalities.
-#Relate information to the release request
+#Relate information to the release
 It's possible to link the release to other functionalities, for example: change, projects and others, intended to include further information when executing the release.
 
 Before getting started
@@ -15,7 +15,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  To inform the complementary data of the release request, check the option to
+2.  To inform the complementary data of the release, check the option to
     capture or view the request;
 
 3.  To view the information about specific field, click on the
