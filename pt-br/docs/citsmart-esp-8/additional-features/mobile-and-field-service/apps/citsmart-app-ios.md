@@ -73,12 +73,12 @@ aplicativo na loja on-line (App Store).
 
        -   **Disponível**:
 
-          - Habilitado: Quando está habilitado, a conexão será a fornecida no campo
-            URL, e além disso, para pegar a posição do atendente esse campo deve
-            estar habilitado;
+           - Habilitado: Quando está habilitado, a conexão será a fornecida no campo
+             URL, e além disso, para pegar a posição do atendente esse campo deve
+             estar habilitado;
 
-          - Desabilitado: Quando está desabilitado o sistema não permitirá conexão
-            ao servidor nem irá pegar a posição do atendente.
+           - Desabilitado: Quando está desabilitado o sistema não permitirá conexão
+             ao servidor nem irá pegar a posição do atendente.
 
     !!! Abstract "ATENÇÃO"
 
