@@ -1,6 +1,6 @@
-title: Crear problema desde un evento
+title: Crear un problema desde un evento
 Description: Tiene por objetivo crear un problema en un evento.
-#Crear problema desde un evento
+#Crear un problema desde un evento
 Esta funcionalidad tiene por objetivo crear un problema en un evento.
 
 Antes de empezar
