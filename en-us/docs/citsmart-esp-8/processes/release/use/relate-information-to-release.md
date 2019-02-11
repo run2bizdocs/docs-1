@@ -41,10 +41,10 @@ Procedure
     field and select the knowledge you want. If you want to register a new
     article, click on "Register" and complete the data;
 
-9.  To link a **Purchase Requisition**, click on the corresponding area, then on
-    the search field and select the request you want. Remembering that all
-    requests already registered will be exposed, therefore, it's necessary to
-    select the purchase request previously registered.
+9.  To link a **Ticket**, click on the corresponding area, then on
+    the search field and select the ticket you want. Remembering that all
+    tickets already registered will be exposed, therefore, it's necessary to
+    select the ticket previously registered.
 
 10. Click on the options button and then "Save" to complete the operation.
 
@@ -64,5 +64,5 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/09/2019 – Larissa Lourenço  
 
