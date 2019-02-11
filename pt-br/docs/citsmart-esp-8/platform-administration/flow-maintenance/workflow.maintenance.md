@@ -40,14 +40,14 @@ Procedimento
 
 7.  Vale lembrar que:
 
--   as normativas configuradas no fluxo terão prioridade em relação às marcações
-    do template de solicitação de serviço, pois esta é um complemento do fluxo;
+    -   as normativas configuradas no fluxo terão prioridade em relação às marcações
+        do template de solicitação de serviço, pois esta é um complemento do fluxo;
 
--   para usar o componente "Conversação Watson" a organização deve possuir a arquitetura IBM
-    BlueMIX, possibilitando assim acesso à API Conversation do Watson;
+    -   para usar o componente "Conversação Watson" a organização deve possuir a arquitetura IBM
+        BlueMIX, possibilitando assim acesso à API Conversation do Watson;
 
--   para excluir um elemento que foi inserido no desenho do fluxo, clicar no
-    mesmo e pressionar as teclas Ctrl+Delete.
+    -   para excluir um elemento que foi inserido no desenho do fluxo, clicar no
+        mesmo e pressionar as teclas Ctrl+Delete.
 
 8. Após o desenho do fluxo e suas configurações, clicar em "Gravar".
 
