@@ -1,26 +1,26 @@
-Title: Guia de contribuição do CITSmart Docs
+Title: Guía de contribución del CITSmart Docs
 
-# Guia de contribuição do CITSmart Docs
+# Guía de contribución del CITSmart Docs
 
-O CITSmart Docs é um trabalho incessante de documentação de nossos produtos. Entendemos que a experiência de nossa comunidade no uso da plataforma é a parte mais enriquecedora. Por isso, aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
+CITSmart Docs es un trabajo incesante de documentación de nuestros productos. Entendemos que la experiencia de nuestra comunidad en el uso de la plataforma es la parte más enriquecedora. Por eso, aquí explicamos cómo usted puede contribuir con nuestras documentaciones de forma transparente y abierta.
 
-As documentações do CITSmart estão disponíveis publicamente no [GitHub](https://github.com/citsmartdocs/). É através dele que você conseguirá editar os documentos existentes, criar novos documentos ou mesmo sugerir melhorias para nosso portal.
+Las documentaciones de CITSmart están disponibles públicamente en [GitHub](https://github.com/citsmartdocs/). Es a través de él que usted podrá editar los documentos existentes, crear nuevos documentos o incluso sugerir mejoras para nuestro portal.
 
-Obrigado por acessar a página de contribuição do CITSmart Docs.
+Gracias por acceder a la página de contribución de CITSmart Docs.
 
 ## Editando documentos existentes
 
  
 
-Uma das formas de contribuir, é editando documentos existentes em nosso repositório. Sugestão de pequenos erros técnicos ou gramaticais são bastante comuns utilizando esse método simples e rápido.
+Una de las formas de contribuir, es editando documentos existentes en nuestro repositorio. La sugerencia de pequeños errores técnicos o gramaticales son bastante comunes utilizando este método simple y rápido.
 
-Para começar:
+Para empezar:
 
  
 
-1) Acesse o repositório de documentos da CITSmart no GitHub: https://gitbub.com/citsmartdocs.
+1) Acceda al repositorio de documentos de CITSmart en GitHub: https://gitbub.com/citsmartdocs.
 
-2) Clique em "Sign In" no topo da página e entre com um usuário e senha.
+2) Haga clic en "Sign In" en la parte superior de la página y entre con un usuario y una contraseña.
 
  
 
@@ -30,21 +30,21 @@ Para começar:
 
  
 
-Caso não tenha um usuário e senha e queira contribuir, Clique em "Sign Up" para criar uma nova conta.
+Si no tiene un usuario y contraseña y desea contribuir, haga clic en "Sign Up" para crear una nueva cuenta.
 
-A criação de um usuário na plataforma do Github é gratuita.
-
- 
-
-!!! Warning "ATENÇÃO"
+La creación de un usuario en la plataforma Github es gratuita.
 
  
 
-    O usuário e senha do GitHub é de responsabilidade do site. Não temos controle sobre a criação de usuários na plataforma.
+!!! Warning "ATENCIÓN"
 
  
 
-3) Após realizar o login, cliquem em "Repositories" ou em "docs" conforme imagem abaixo:
+    El usuario y la contraseña de GitHub son responsabilidad del sitio. No tenemos control sobre la creación de usuarios en la plataforma.
+
+ 
+
+3) Después de realizar el login, haga clic en "Repositories" o en "docs" conforme imagen abajo:
 
  
 
@@ -52,7 +52,7 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-4) Após acessar o repositório de docs, você encontrará nossas documentações separadas por pastas em linguagens. Escolha a pasta e documentação que deseja contribuir, e clique em "Edit":
+4) Después de acceder al repositorio de documentos, encontrará nuestras documentaciones separadas por carpetas en lenguajes. Seleccione la carpeta y la documentación que desea contribuir, y haga clic en "Editar":
 
  
 
@@ -60,32 +60,32 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-5) A partir desse momento, você conseguirá editar o documento se estiver logado. Nossos documentos são elaborados utilizando uma linguagem sintática chamada Markdown.
+5) A partir de ese momento, puede editar el documento si está conectado. Nuestros documentos se elaboran utilizando un lenguaje sintáctico llamado Markdown.
 
-O markdown permite que usuários sem conhecimento em linguagem de programação possa escrever documentos em formato HTML. É uma linguagem simples feita para usuários finais.
+El markdown permite que los usuarios sin conocimientos en lenguaje de programación puedan escribir documentos en formato HTML. Es un lenguaje simple para usuarios finales.
 
-Siga nosso [guia de escrita em Markdown](https://docs.citsmart.com/pt-br/markdown.html) para descobrir como escrever nossos documentos.
-
- 
-
-Clique na tab "Preview changes" caso queira ir acompanhando o progresso da escrita do documento e como ele ficará após a conversão do formato Markdown.
+Siga nuestro [guía de escrita en Markdown](https://docs.citsmart.com/pt-br/markdown.html) para descubrir cómo escribir nuestros documentos.
 
  
 
-!!! Warning "ATENÇÃO"
+Haga clic en la pestaña "Preview changes" si desea ir acompañando el progreso de la escritura del documento y cómo se quedará después de la conversión del formato Markdown.
 
  
 
-    Nem todas formatações de markdown são possíveis de visualização no "preview" do Github, embora diversos elementos visuais sejam perfeitamente aplicáveis.
+!!! Warning "ATENCIÓN"
+
+ 
+
+    No todas las formaciones de markdown son posibles de visualización en el "preview" del Github, aunque varios elementos visuales son perfectamente aplicables.
 
                
 
-6) Quando concluir a edição do documento desejado, coloque seus comentários nos campos do "Propose file change" e clique no botão "Propose file change".
+6) Cuando termine la edición del documento, coloque sus comentarios en los campos del "Propose file change" y haga clic en el botón "Propose file change".
 
-Na próxima etapa irá aparecer o botão "Create pull request". Clique nele para submeter sua sugestão.
+En el siguiente paso aparecerá el botón "Create pull request". Haga clic en él para someter su sugerencia.
 
  
 
-A equipe irá avaliar sua proposta de mudança, e após a aprovação do conteúdo este estará disponível em nossa documentação.
+El equipo evaluará su propuesta de cambio, y después de la aprobación del contenido éste estará disponible en nuestra documentación.
 
  
