@@ -22,14 +22,14 @@ Procedimento
 4.  Na aba Diagrama será realizado o desenho do fluxo. Existem 6 grupos de
     conectores:
 
--   **Eventos:** apresenta os elementos de eventos para ser utilizado no desenho
-    do fluxo;
+    -   **Eventos:** apresenta os elementos de eventos para ser utilizado no desenho
+        do fluxo;
 
--   **Tarefas:** apresenta os elementos de tarefas para ser utilizado no desenho
-    do fluxo;
+    -   **Tarefas:** apresenta os elementos de tarefas para ser utilizado no desenho
+        do fluxo;
 
--   **Gateways:** apresenta os elementos de condições para ser utilizado no
-    desenho do fluxo.
+    -   **Gateways:** apresenta os elementos de condições para ser utilizado no
+        desenho do fluxo.
 
 5.  Para inserir os elementos, basta clicar no elemento desejado e arrastá-lo
     para a área de desenho. Ao arrastar e soltar o elemento na área de desenho,
