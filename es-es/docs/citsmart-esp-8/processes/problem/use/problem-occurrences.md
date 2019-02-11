@@ -14,7 +14,7 @@ Procedimiento
     clic en "Abrir";
 
 3.  Hacer clic en el icono “Registro de Ejecución” (último icono al lado derecho de
-    la pantalla, abajo del campo de búsqueda) y después en "Añadir ocurrencia”;
+    la pantalla, abajo del campo de búsqueda) y después en "Añadir ocurrencia”;
 
 4.  Hacer clic en "Añadir ocurrencia” y completar los campos obligatorios;
 
