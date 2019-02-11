@@ -327,6 +327,7 @@ localização da mesma.
 
 ##### Atendendo solicitação de serviço
 
+
    !!! Abstract "REGRA"
 
        Se estiver na lista de solicitações de grupo, e atender à solicitação, a
