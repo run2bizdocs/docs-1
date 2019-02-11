@@ -1,5 +1,5 @@
 title:  Actividades de la fase de implantación de la liberación 
-Description: Permite planificar las actividades a ser implementadas junto a la solicitud de liberación,
+Description: Permite planificar las actividades a ser implementadas junto a la liberación
 #Actividades de la fase de implantación de la liberación
 Esta funcionalidad permite planificar las actividades a ser implementadas junto a la solicitud de liberación, semejante a lo que ocurre en la fase de Planificación de la Liberación.
 
@@ -14,8 +14,8 @@ Procedimiento
 
 1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Buscar la solicitud de liberación de la que desea Planear la actividad,
-    hacer clic en el botón “Abrir” y después en el área "Implantación de la
+2.  Buscar la liberación de la que desea Planear la actividad, 
+    hacer clic en el botón “Abrir” y después en el área "Implantación de la 
     liberación";
 
 3.  Podemos crear un cuadro Kaban para gestionar las actividades registradas.
@@ -29,20 +29,20 @@ Procedimiento
     Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar
     el elemento deseado para vincularlo a la liberación;
 
-5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
-    notificación de sistemas, es posible crear los mismos de cero para adecuarse
+5.  Además de permitir el vínculo de las responsabilidades, proyectos, y 
+    notificación de sistemas, es posible crear los mismos de cero para adecuarse 
     a la liberación en tesis, al hacer clic en el botón "Registrar" y completar
     los campos necesarios.
 
 Lo que hacer después
 --------------------
 
-Es posible vincular otras funcionalidades a la solicitud de liberación.
+Es posible vincular otras funcionalidades a la liberación.
 
 Relacionado
 ---------------
 
-[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 [Actividades de la fase de planificación de la liberación](/es-es/citsmart-esp-8/processes/release/use/release-planning-activities.html)
 
