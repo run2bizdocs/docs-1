@@ -97,7 +97,7 @@ Gerar relatórios de mudança por risco
 -------------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
-gráfico, as mudançsa pelo o risco que a mesma oferece ao negócio.
+gráfico, as mudanças pelo o risco que as mesmas oferecem ao negócio.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
