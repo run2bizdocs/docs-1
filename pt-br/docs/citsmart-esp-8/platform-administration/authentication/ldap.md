@@ -30,10 +30,10 @@ Procedimento
 
 3.  Preencher os campos disponibilizados;
 
-!!! Abstract "REGRA"
+    !!! Abstract "REGRA"
 
-    Caso não exista grupos LDAP, preencher o campo “DN Grupo” apenas com um
-    asterisco. Isto fará com que o sistema verifique todo o domínio.
+        Caso não exista grupos LDAP, preencher o campo “DN Grupo” apenas com um
+        asterisco. Isto fará com que o sistema verifique todo o domínio.
 
 4.  É possível vincular novos grupos, para isso clicar no botão "Adicionar" na
     área **Grupos LDAP**;
