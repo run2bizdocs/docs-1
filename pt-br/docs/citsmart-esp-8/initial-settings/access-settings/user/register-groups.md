@@ -28,16 +28,16 @@ colaborador.
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Acesso e
+1.  Acessar a funcionalidade através da navegação no menu principal Acesso e
     Permissão \> Grupo;
 
-2-  Clicar em "Novo";
+2.  Clicar em "Novo";
 
-3-  Preencher os campos disponibilizados;
+3.  Preencher os campos disponibilizados;
 
-4-  Definir as configurações que sejam necessárias;
+4.  Definir as configurações que sejam necessárias;
 
-5-  Clicar em "Gravar".
+5.  Clicar em "Gravar".
 
 
 Relacionado
