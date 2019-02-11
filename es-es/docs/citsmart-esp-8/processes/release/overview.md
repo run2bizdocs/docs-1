@@ -27,9 +27,9 @@ Uso
 
 - [Ejecutar una liberación](/es-es/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Registrar liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar información a la liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
 - [El área de trabajo de la Gestión de Liberación](/es-es/citsmart-esp-8/processes/release/use/release-desktop.html)
    
@@ -44,7 +44,7 @@ Uso
 Configuración
 -----------------
 
-- [Crear portafolio de liberación um portfólio de liberação](/es-es/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
+- [Crear portafolio de liberación](/es-es/citsmart-esp-8/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
