@@ -8,7 +8,7 @@ A plataforma possui mecanismos para medir a satisfação dos usuários que usam 
 
 [Cadastrar pesquisa de satisfação][1]
 
-[Cdastrar notificação][2]
+[Cadastrar notificação][2]
 
 [Cadastrar notificação via e-mail][3]
 
