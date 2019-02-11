@@ -6,7 +6,7 @@ Description: Presents the amount of request for change.
 Generate quantitative report of change
 ------------------------------------------
 
-This report has the objective of presenting the amount of request for change.
+This report has the objective of presenting the amount of changes.
 
 1.  Access the functionality through the main menu Reports \> Change Management
     \> Change Quantitative;
@@ -28,7 +28,7 @@ This report aims to present the changes registered.
 
 3.  On the side of each change registration in the list, there are
     icons to perform the following actions: view the information when clicking
-    on “View” and view the attachments of the request for change when click on
+    on “View” and view the attachments of the changes when click on
     the "View attachments" icon;
 
 4.  Click on “Generate PDF” to create the report in PDF and/or click on
