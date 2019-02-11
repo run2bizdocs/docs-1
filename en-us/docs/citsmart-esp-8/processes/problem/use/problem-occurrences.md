@@ -20,7 +20,7 @@ Procedure
 4.  Click on "Add occurrence" and complete the mandatory fields;
 
     !!! Abstract "NOTE"
-        It's possible to register new categorie and origins that fit the best to the
+        It's possible to register new category and origins that fit the best to the
         occurrence, when click on the icon “+” and complete the necessary fields.
 
 5.  Click on "Save".
