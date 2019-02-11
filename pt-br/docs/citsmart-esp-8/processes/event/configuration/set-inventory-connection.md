@@ -32,7 +32,7 @@ Procedimento
        Figura 1 -Integração CITSmart inventory
 
 
-4-  Se o tipo de conexão escolhida for o OCS Inventory será apresentado o campo de configuração do mesmo para ser informado o repositório de XML, conforme ilustrado abaixo. Além disso, existem alguns *pré-requisitos* muito relevantes que devem ser observados:
+4.  Se o tipo de conexão escolhida for o OCS Inventory será apresentado o campo de configuração do mesmo para ser informado o repositório de XML, conforme ilustrado abaixo. Além disso, existem alguns *pré-requisitos* muito relevantes que devem ser observados:
 
     ![ocs](images/conexao-inventory-2.jpg)
    
@@ -59,7 +59,7 @@ Procedimento
             -   o Inventory deve ter permissão (compartilhamento) no servidor OCS
                 Inventory.
 
-5-  A aplicação de Inventário realiza a captura dos dados por meio da porta do
+5.  A aplicação de Inventário realiza a captura dos dados por meio da porta do
     Agente SNMP (161) e/ou pelo Agente de Captura (porta 7103 desenvolvido pela
     CITSmart Corporation, em .Net). Inicialmente, o Inventory realiza um comando
     "ping" para verificar se a máquina está ativa. Se conseguir realizar o
@@ -67,7 +67,7 @@ Procedimento
     porta não for obtido com sucesso, o Inventory tenta realizar o acesso
     através do agente de captura clicar no botão "Testar Conexão";
 
-6-  Clicar no botão "Gravar e Aplicar Configurações".
+6.  Clicar no botão "Gravar e Aplicar Configurações".
 
 Relacionado
 -------
