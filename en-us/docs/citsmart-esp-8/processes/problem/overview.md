@@ -7,7 +7,7 @@ Presentation
 
 The Problem Management process is responsible for the definitive solution
 and prevention of failures behind the incidents that affect the normal 
-operation of IT services.
+operation of IT services.  
 
 According to ITIL, the main goal of Problem Management is to minimize the
 adverse impact of incidents and problems caused by errors in the IT infrastructure
