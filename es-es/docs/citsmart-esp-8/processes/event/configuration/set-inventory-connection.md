@@ -16,12 +16,12 @@ inventario funcional y comunicable con el ITSM.
 Procedimiento
 -----------------
 
-1.  Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
+1. Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
     Inventory;
 
-2.  En el area **Datods de la Conexión**, completar los campos;
+2. En el area **Datods de la Conexión**, completar los campos;
 
-3.  Seleccionando el tipo de conexión, en el campo "Ignorar las máquinas ya
+3. Seleccionando el tipo de conexión, en el campo "Ignorar las máquinas ya
     inventadas" (en el caso de máquinas inventariadas, es posible definir
     cuántos días esa máquina quedará sin nuevo inventario y, por eso, su Status
     será colocado como Ignorado hasta que se pase el total de días
@@ -34,7 +34,7 @@ Procedimiento
        Figura 1 -Integración CITSmart inventory
 
 
-4.  Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
+4. Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
 
 
 ![ocs](images/conexao-inventory-2.jpg)
@@ -59,16 +59,9 @@ Figura 2 -Integración CITSmart inventory - OCS inventory
            +   el inventario debe tener permiso (compartir) en el servidor OCS
                Inventory.
 
-5.  La aplicación de inventario realiza la captura de los datos a través del
-    puerto del agente SNMP (161) y/o del agente de captura (puerto 7103
-    desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory
-    realiza un comando "ping" para comprobar si la máquina está activa. Si
-    consigue realizar el comando, intenta acceder al puerto SNMP del elemento de
-    configuración. Si el acceso al puerto no se obtiene con éxito, Inventory
-    intenta realizar el acceso a través del agente de captura haciendo clic en
-    el botón "Probar Conexión";
+5. La aplicación de inventario realiza la captura de los datos a través del puerto del agente SNMP (161) y/o del agente de captura (puerto 7103 desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory realiza un comando "ping" para comprobar si la máquina está activa. Si consigue realizar el comando, intenta acceder al puerto SNMP del elemento de configuración. Si el acceso al puerto no se obtiene con éxito, Inventory intenta realizar el acceso a través del agente de captura haciendo clic en el botón "Probar Conexión";
 
-6.  Hacer clic en "Guardar y Aplicar Configuraciones".
+6. Hacer clic en "Guardar y Aplicar Configuraciones".
 
 Relacionado
 -------
