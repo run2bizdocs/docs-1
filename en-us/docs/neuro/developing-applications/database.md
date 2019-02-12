@@ -7,46 +7,46 @@ By using this screen the user can register the databases used by Neuro.
 
 ##HOW TO ACCESS  
 
-1- Access the feature by navigating the menu Neuro > Configuration > Database.  
+1. Access the feature by navigating the menu Neuro > Configuration > Database.  
 
 ##PRECONDITIONS  
 
-1- Not applicable  
+1. Not applicable  
 
 ##FILTERS  
 
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
- - Keyword    
+     - Keyword    
  
  ![Screenshot](images/Data-Search.png)    
  Figure 1 - Database search screen    
  
 ##ITEMS LIST  
  
-1- The following cadastral field is available to the user to make it easier to identify the desired items in the standard feature listing: Name.  
+1. The following cadastral field is available to the user to make it easier to identify the desired items in the standard feature listing: Name.  
 
  ![Screenshot](images/Data-Items.png)   
  Figure 2 - Database listing screen  
  
 ##FILLING IN THE REGISTRATION FIELDS  
-1- To register a database that is not in the list, click New, as shown in the figure bellow:  
+1. To register a database that is not in the list, click New, as shown in the figure bellow:  
 
- ![Screenshot](images/Data-Home.png)   
- Figure 3 - Database home screen  
+     ![Screenshot](images/Data-Home.png)   
+     Figure 3 - Database home screen  
 
-2- On this screen the user is also allowed other actions. They are:  
-  - To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
-  - To view an item, select the item and click View.  
-  - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
-3- When you click Next, the following screen will appear:  
+2. On this screen the user is also allowed other actions. They are:  
+      - To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
+      - To view an item, select the item and click View.  
+      - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+3. When you click Next, the following screen will appear:  
 
- ![Screenshot](images/Data-register.png)   
-Figure 4 - Database register screen  
+     ![Screenshot](images/Data-register.png)   
+    Figure 4 - Database register screen  
 
-4- Enter the database type, the driver path, and select the Data type that are accepted by the registered database.  
-5- The database types are pre-registered in the application. To learn more about registering data types, please refer to the relevant documentation.  
-6- Click Save to create the database. Click Search to return to the previous screen.  
+4. Enter the database type, the driver path, and select the Data type that are accepted by the registered database.  
+5. The database types are pre-registered in the application. To learn more about registering data types, please refer to the relevant documentation.  
+6. Click Save to create the database. Click Search to return to the previous screen.  
 
 !!! tip "About"
 
