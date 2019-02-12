@@ -1,10 +1,18 @@
 title: Approve a ticket
-
-Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution.  
+Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution. This will depend on the ticket workflow, which is linked to the service request activity 
 # Approve a ticket  
 
-Approve a ticket
-In some cases, the tickes of type "Request" will pass through an approval phase to its execution. That will depend on the ticket workflow, which is linked to the service request activity.  
+When a ticket has an approval activity, you can confirm or 
+reject this request using the feature for this purpose. In this 
+sense, the ticket workflow should contain an user task (Identification 
+tab \> Button "Is it an approval task? = YES"), which is linked to the activity.  
+
+!!! Abstract "NOTE"
+    
+    For A simplified approval of the ticket, it's necessary 
+    that the flow of the service request has a task of type 
+    approval, so the quick approval button will be visible.
+
 
 Before getting started
 --------------------------
@@ -14,6 +22,10 @@ it.
 
 Procedure
 -------------
+
+*These steps are for functionality in CITSmart ESP 8 as for mobile
+CITSmart SM.*
+
 
 1.  Access the functionality Ticket through the main menu Processes \> Request
     and Incident Management \> Service Request and Incident;
@@ -35,7 +47,7 @@ Procedure
     approved, it will be directed to the execution phase, that is, to its
     attendance. However, if the ticket is not approved, it will be closed.  
     
-  Related
+Related
 -------
 
 [Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
@@ -43,6 +55,8 @@ Procedure
 [Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
 [Configure access permission of request/incident management](/en-us/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+
+[Workflow maintenance](/en-us/docs/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
     
    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
