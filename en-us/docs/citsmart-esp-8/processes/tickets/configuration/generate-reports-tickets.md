@@ -154,12 +154,12 @@ This report has the objective of present the service request per executor.
 This report has the objective of present the service requests that were and were
 not approved.
 
-1-  Access the functionality through the main menu Reports \> Incident/Request
+1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Approval Requests;
 
-2-  Set the filters as needed;
+2.  Set the filters as needed;
 
-3-  Click on “Generate PDF” to create report in PDF and/or click on “Generate
+3.  Click on “Generate PDF” to create report in PDF and/or click on “Generate
     XLS” to create report in Excel.
 
 ##Generate request execution report
@@ -202,20 +202,20 @@ to the filters choose by the user.
 
 2.  Set the filters as needed;
 
-     !!! Abstract "NOTE"
+    !!! Abstract "NOTE"
 
-         When the user wants to analysis all requests, setting the value to
-         “All” for the filter “Top List”, it can exists difference between the number
-         of requests of the “Top 10 report of locations that opened more
-         requests/incidents”, with the number that was found in other reports, due
-         the no obligation of a request being linked to a location.
+        When the user wants to analysis all requests, setting the value to
+        “All” for the filter “Top List”, it can exists difference between the number
+        of requests of the “Top 10 report of locations that opened more
+        requests/incidents”, with the number that was found in other reports, due
+        the no obligation of a request being linked to a location.
 
-         The field “finish date” will be used to filter the period of the
-         “Top 10 report of execution groups that solved more requests/incidents”, so,
-         it can vary in the number of requests opened in the period.
+        The field “finish date” will be used to filter the period of the
+        “Top 10 report of execution groups that solved more requests/incidents”, so,
+        it can vary in the number of requests opened in the period.
 
-         The system will present all unities and services actives, regarding
-         the contract selected.
+        The system will present all unities and services actives, regarding
+        the contract selected.
 
 3.  Click on “Generate PDF” to create report in PDF and/or on “Generate XLS” to
     create the report in Excel.
