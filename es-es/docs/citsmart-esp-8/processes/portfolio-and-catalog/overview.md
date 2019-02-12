@@ -20,6 +20,8 @@ Uso
 
 - [Configurar atributos del contrato de servicio](/es-es/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
+- [Vincular acitvidades al contrato de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/link-activity-to-service-contract.html)
+
 - [Registrar actividad de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 - [Gestionar mis solictudes por el Smart Portal](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
