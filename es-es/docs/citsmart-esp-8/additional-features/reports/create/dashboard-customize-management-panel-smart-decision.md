@@ -24,15 +24,15 @@ Procedimiento
 
 *Utilizar una plantilla para personalizar el panel del usuario*
 
-1-  Para ver las plantillas disponibles, haga clic en el icono "Visualizar/ocultar menu";
+1.  Para ver las plantillas disponibles, haga clic en el icono "Visualizar/ocultar menu";
 
-2-  Para agregar un dashboard a una plantilla, haga clic en el icono "Añadir nuevo dashboard" (lado
+2.  Para agregar un dashboard a una plantilla, haga clic en el icono "Añadir nuevo dashboard" (lado
     izquierdo de la pantalla), completar los campos disponibles, seleccionar una
     plantilla y hacer clic en "Guardar";
 
-3-  Para editar dashboard, haga clic en el icono "Editar dashboard";
+3.  Para editar dashboard, haga clic en el icono "Editar dashboard";
 
-4-  Para borrar un dashboard, haga clic en el icono "Eliminar dashboard" .
+4.  Para borrar un dashboard, haga clic en el icono "Eliminar dashboard" .
 
 *Insertar elementos manualment*
 
@@ -40,26 +40,26 @@ Procedimiento
     clic en el icono "Activar el modo de edición" y después en "Añadir nuevo
     widget":
 
-    +  *Acceso Rápido*:
+       +  *Acceso Rápido*:
 
-         +   Haga clic en *Links*;
+             +   Haga clic en *Links*;
 
-             +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
+                 +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
 
-             +   Completar el campo disponible y hacer clic en "Agregar" para definir
-                 el Tipo, si "Interno" selecciona el menú del sistema (por ejemplo:
-                 Procesos \> Gestión de Portafolio y Catálogo\> Smart Portal), si
-                 "Externo" define el Título/Clave y añadir la URL;
+                 +   Completar el campo disponible y hacer clic en "Agregar" para definir
+                     el Tipo, si "Interno" selecciona el menú del sistema (por ejemplo:
+                     Procesos \> Gestión de Portafolio y Catálogo\> Smart Portal), si
+                     "Externo" define el Título/Clave y añadir la URL;
 
-             +   Clicar em "Aplicar".
+                 +   Clicar em "Aplicar".
 
-    +   *Informes Smart*:
+      +   *Informes Smart*:
 
-          +   elegir el tipo de informe que se quedará en el panel gerencial.
+           +   elegir el tipo de informe que se quedará en el panel gerencial.
 
-    +   *Widgets*:
+      +   *Widgets*:
 
-          +   elegir el tipo de widget que se quedará en el panel gerencial.
+           +   elegir el tipo de widget que se quedará en el panel gerencial.
 
 2.  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
     el icono "Guardar los cambios";
