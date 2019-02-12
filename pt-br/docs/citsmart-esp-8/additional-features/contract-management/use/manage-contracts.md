@@ -141,7 +141,7 @@ Procedimento para vincular SLA específico ao serviço do contrato
 
        -  Para copiar um acordo de nível de serviço que foi adicionado ao serviço de
           contrato, basta clicar no ícone “Copiar Acordo para outro serviço” ao lado
-          do acordo;
+          do acordo.
 
 
 5.  Clicar no botão "Gravar" para efetuar a operação.
