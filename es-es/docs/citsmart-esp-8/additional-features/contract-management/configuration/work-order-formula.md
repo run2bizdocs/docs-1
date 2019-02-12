@@ -17,13 +17,13 @@ Procedimiento
     propósito de cada variable disponible para describir la fórmula:
 
 
-    |     Variable    |     Descripción    |                                                                          Objetivo                                                                         |
-|:---------------:|:------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|      vValor     |        Valor       |                              Permite que el usuario informe un valor que se utilizará en el cálculo del valor de la actividad                             |
-|    vDiasUteis   |    Días hábiles    | Permite el retorno de la cantidad de días hábiles entre la fecha inicial y la fecha final de la orden de servicio en función del calendario del contrato. |
-|  vDíasCorridos  |    Días corridos   |                                              Cantidad de días entre la fecha inicial de la orden de servicio.                                             |
-| vNumeroUsuarios | Número de usuarios |                                               Permite devolver el número de usuarios activos en el Sistema.                                               |
-|   vComplejidad  |     Complejidad    |    Con base en la complejidad elegida por el usuario, el Sistema retornará su valor correspondiente informado en la pantalla de registro del contrato.    |
+     |     Variable    |     Descripción    |                                                                          Objetivo                                                                         |
+     |:---------------:|:------------------:|:------------------------------------------------------------------------------------------      ---------------------------------------------------------------:|
+     |      vValor     |        Valor       |                              Permite que el usuario informe un valor que se utilizará en        el cálculo del valor de la actividad                             |
+     |    vDiasUteis   |    Días hábiles    | Permite el retorno de la cantidad de días hábiles entre la fecha inicial y la fecha final      de la orden de servicio en función del calendario del contrato. |
+     |  vDíasCorridos  |    Días corridos   |                                              Cantidad de días entre la fecha inicial de la      orden de servicio.                                             |
+     | vNumeroUsuarios | Número de usuarios |                                               Permite devolver el número de usuarios            activos en el Sistema.                                               |
+     |   vComplejidad  |     Complejidad    |    Con base en la complejidad elegida por el usuario, el Sistema retornará su valor            correspondiente informado en la pantalla de registro del contrato.    |
 
 
 3.  Después de describir la fórmula, hacer clic en "Mostrar Fórmula". Este botón
