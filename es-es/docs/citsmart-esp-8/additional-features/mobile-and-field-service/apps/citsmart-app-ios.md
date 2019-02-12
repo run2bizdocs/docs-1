@@ -191,14 +191,14 @@ Utilización del APP en el mobile
     se muestra a continuación:
 
 
-![Criação de solicitação](images/ios-app-10.png)
+    ![Criação de solicitação](images/ios-app-10.png)
 
-Figura 10 – Creación de solicitud de servicio
+    Figura 10 – Creación de solicitud de servicio
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    La solicitude registrada por CITSmart ITSM Enterprise utiliza servicios que
-    se configuran em CITSmart Enterprise Web.
+        La solicitude registrada por CITSmart ITSM Enterprise utiliza servicios que
+        se configuran em CITSmart Enterprise Web.
 
 
 2.  Se mostrará la pantalla con campos de registro, según las figuras abajo:
