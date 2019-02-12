@@ -33,7 +33,7 @@ Procedimento
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
     
-5. Para pesquisar os tickets relacionados, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal da funcionalidade.
+5.  Para pesquisar os tickets relacionados, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal     da funcionalidade.
     
 !!! Abstract "ATENÇÃO"
 
