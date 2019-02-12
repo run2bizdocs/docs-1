@@ -110,39 +110,39 @@ Procedimiento para vincular SLA específico al servicio del contrato
 
 4.  Completar los campos necesarios con las siguientes recomendaciones:
 
-   -   Si se informa el tipo de acuerdo como **Disponibilidad**, además de los
+       +   Si se informa el tipo de acuerdo como **Disponibilidad**, además de los
        campos generales, será necesario informar el índice de disponibilidad,
        es decir, definir el porcentaje de disponibilidad del servicio;
 
-   -   Si se informa el tipo de acuerdo como **Fallas repetitivas**, además de
+       +   Si se informa el tipo de acuerdo como **Fallas repetitivas**, además de
        los campos generales, será necesario informar la cantidad de glosas y el
        porcentaje de descuento. Recordar que es posible informar otros datos
        del acuerdo de servicio por fallas repetitivas al hacer clic en el
        icono "+";
 
-   -   Si se informa el tipo de acuerdo como **OS - Resultados esperados**,
+       +   Si se informa el tipo de acuerdo como **OS - Resultados esperados**,
        además de los campos generales, será necesario informar los datos de
        resultados esperados y los niveles de calidad exigidos (resultados
        esperados, límites, glosa y límite de la glosa);
 
-   -   Si se informa el tipo de acuerdo como **Tiempo (fases)**, además de los
+       +   Si se informa el tipo de acuerdo como **Tiempo (fases)**, además de los
        campos generales, será necesario definir los plazos de SLA (acuerdo de
        nivel de servicio), teniendo en cuenta la prioridad.
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Después de "N" minutos configurados, y si no ha realizado ninguna acción
-    en la solicitud del servicio, el sistema asignará Prioridad y escalará el
-    Grupo que fueron configurados para ejecutar la solicitud del servicio.
+        Después de "N" minutos configurados, y si no ha realizado ninguna acción
+        en la solicitud del servicio, el sistema asignará Prioridad y escalará el
+        Grupo que fueron configurados para ejecutar la solicitud del servicio.
 
--   Si informa el tipo de acuerdo como **Información diversa capturada de otras fuentes**, será necesario informar los datos de acuerdo     de servicio (el valor límite, la unidad, la glosa y el límite de la glosa). Para copiar, editar o borrar el acuerdo de nivel de      servicio registrado, siga los pasos:
+    +   Si informa el tipo de acuerdo como **Información diversa capturada de otras fuentes**, será necesario informar los datos de         acuerdo de servicio (el valor límite, la unidad, la glosa y el límite de la glosa). Para copiar, editar o borrar el acuerdo de nivel     de servicio registrado, siga los pasos:
 
-    +  Para editar o borrar un acuerdo de nivel de servicio que se ha agregado
-        al servicio de contrato, simplemente hacer clic en el icono "Editar el servicio" al lado del
-        acuerdo;
+        +  Para editar o borrar un acuerdo de nivel de servicio que se ha agregado
+           al servicio de contrato, simplemente hacer clic en el icono "Editar el servicio" al lado del
+           acuerdo;
 
-    +  Para copiar un acuerdo de nivel de servicio que se agregó al servicio
-        del contrato, simplemente hacer clic en el icono "Copiar el Acuerdo a otro servicio" al lado del acordo;
+        +  Para copiar un acuerdo de nivel de servicio que se agregó al servicio
+           del contrato, simplemente hacer clic en el icono "Copiar el Acuerdo a otro servicio" al lado del acordo;
 
 5.  Hacer clic en "Guardar".
 
@@ -202,11 +202,11 @@ Procedimiento para registrar actividades de servicio del contrato
         contabilización se hará de las solicitudes "cerradas", en el período de la
         OS (Orden de Servicio), del servicio del tipo solicitud/incidente.
 
--   Si se informa el tipo de costo como **Costo Total**, además de los campos
+    +   Si se informa el tipo de costo como **Costo Total**, además de los campos
     generales, será necesario indicar el costo total a la complejidad de la
     actividad;
 
--   Si se informa el tipo de como **Fórmula**, además de los campos generales,
+    +   Si se informa el tipo de como **Fórmula**, además de los campos generales,
     será necesario seleccionar una fórmula. Después de elegir, completar los
     campos exhibidos (horas, complejidad y cantidad).
 
