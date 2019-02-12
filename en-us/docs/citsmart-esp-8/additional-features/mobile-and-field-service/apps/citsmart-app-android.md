@@ -390,8 +390,8 @@ the unit
 
     !!! Abstract "RULE"
 
-       When checking in, if the request is suspended, it will be reactivated and
-       captured.  
+        When checking in, if the request is suspended, it will be reactivated and
+        captured.  
 
 8.  After checking in, the check-out screen will be displayed;
 
