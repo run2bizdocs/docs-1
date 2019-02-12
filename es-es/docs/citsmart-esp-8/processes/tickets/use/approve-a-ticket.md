@@ -1,7 +1,18 @@
 title: Aprobar ticket
-Description: En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución 
+Description: En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución. Esto dependerá del flujo de trabajo del ticket, que está vinculado a la actividad de solicitud de servicio.
 #Aprobar ticket
-En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución. Esto dependerá del flujo de trabajo del ticket, que está vinculado a la actividad de solicitud de servicio.
+
+Cuando un ticket tiene una actividad de aprobación, es posible confirmar o 
+rechazar esta solicitud utilizando el recurso para este propósito. En este sentido, 
+el flujo de trabajo del ticket debe contener una tarea de usuario (pestaña Identificación 
+\> Botón "Es una tarea de aprobación? = SIM"), el cual está vinculado a la actividad.
+
+!!! Abstract "ATENCIÓN"
+
+    Para la aprobación de forma simplificada del ticket, 
+    es necesario que el flujo de la solicitud de servicio posea 
+    una tarea del tipo aprobación, así el botón de aprobación rápida será visible
+    
 
 Antes de empezar
 ----------------
@@ -10,6 +21,10 @@ Es necesario el registro previo del ticket y tener permiso para aprobarlo.
 
 Procedimiento
 -------------
+
+*Estos pasos son para la funcionalidad en CITSmart ESP 8 como para el mobile
+CITSmart SM.*
+
 
 1.  Acceda la funcionalidad por el menú principal Procesos \> Gestión de
     Requerimiento e Incidente \> Ticket;
@@ -39,6 +54,8 @@ Relacionado
 [Registrar grupo](/es-es/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 [Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+
+[Mantenimiento de flujo de trabajo](/es-es/docs/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
