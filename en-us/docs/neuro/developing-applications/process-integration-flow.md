@@ -96,10 +96,9 @@ Through this menu, it is possible to register the actions that will be executed 
 
 3. Fill in the fields, informing:  
 
-An identifier for the action,  
-
-    - The literal name for the action,  
-    - The final state that will be established after executing the action (previously registered in the States tab),  
+    - An identifier for the action;  
+    - The literal name for the action; 
+    - The final state that will be established after executing the action (previously registered in the States tab);  
     - Whether or not the action requires a reason.  
 
 4. In addition, a script can be defined to be executed when the action is triggered.  
