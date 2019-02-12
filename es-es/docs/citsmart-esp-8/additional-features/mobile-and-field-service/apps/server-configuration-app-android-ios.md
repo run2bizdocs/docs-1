@@ -48,27 +48,26 @@ Instalación del certificado intermediario Globalsign
 
 Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado Digital) es necesario la instalación del mismo. Sigue los siguientes procedimientos:
 
-1-  Acceso a la dirección: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
+1.  Acceso a la dirección: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
 
-2-  Realice la descarga del primer certificado, como se indica en la figura siguiente:
+2.  Realice la descarga del primer certificado, como se indica en la figura siguiente:
 
-![global sign](images/android-ios-1.jpg)
+    ![global sign](images/android-ios-1.jpg)
 
-Figura 1 - Certificado intermedio de GlobalSign
+    Figura 1 - Certificado intermedio de GlobalSign
 
-3-  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
+3.  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
     en "Siguiente".
 
-4-  En el escritorio: haga clic con el botón derecho en el certificado
+4.  En el escritorio: haga clic con el botón derecho en el certificado
     descargado (como figura abajo), haga clic en instalar certificado y avanzar
     hasta que finalice.
 
+    ![Windows](images/android-ios-2.jpg)
 
-![Windows](images/android-ios-2.jpg)
+    Figura 2 - Instalación del certificado en Windows
 
-Figura 2 - Instalación del certificado en Windows
-
-5-  Después de instalar, simplemente cambie la dirección de la aplicación a sus
+5.  Después de instalar, simplemente cambie la dirección de la aplicación a sus
     necesidades (por
     ejemplo:“[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
@@ -96,47 +95,45 @@ se crea una API de claves. Para ello, se deben seguir los siguientes pasos:
     Google.
 
 
-4-  Accede a la consola del desarrollador
+1.  Accede a la consola del desarrollador
     Google [https://console.developers.google.com](https://console.developers.google.com/);
 
-5-  Haga clic en Crear un proyecto, como se indica en la figura siguiente:
+2.  Haga clic en Crear un proyecto, como se indica en la figura siguiente:
 
 
-![Google](images/android-ios-3.jpg)
+    ![Google](images/android-ios-3.jpg)
 
-Figura 3 - Consola del desarrollador de Google
+    Figura 3 - Consola del desarrollador de Google
 
-6-  Se mostrará una ventana, como se muestra en la figura siguiente, para
+3.  Se mostrará una ventana, como se muestra en la figura siguiente, para
     informar los datos del nuevo proyecto;
 
+    ![projeto](images/android-ios-4.jpg)
 
-![projeto](images/android-ios-4.jpg)
+    Figura 4 - Pantalla de creación de proyectos
 
-Figura 4 - Pantalla de creación de proyectos
-
-7-  Introduzca el nombre del proyecto y haga clic en el botón *Crear* para crear
+4.  Introduzca el nombre del proyecto y haga clic en el botón *Crear* para crear
     el proyecto.
 
-8-  Después de crear el proyecto, haga clic en API y servicios. Para crear la
+5.  Después de crear el proyecto, haga clic en API y servicios. Para crear la
     API de claves, haga clic en API y servicios > Credenciales > Crear
     credenciales > Clave de API, como se indica en la figura siguiente:
 
+    ![API Key](images/android-ios-5.jpg)
 
-![API Key](images/android-ios-5.jpg)
+    Figura 5 - Pantalla de creación de API Key
 
-Figura 5 - Pantalla de creación de API Key
+6.  Hecho esto, se mostrará la clave de API:
 
-9-  Hecho esto, se mostrará la clave de API:
+    ![opções de API](images/android-ios-6.jpg)
 
-![opções de API](images/android-ios-6.jpg)
+    Figura 6 - Pantalla de opciones de API de la clave para la creación
 
-Figura 6 - Pantalla de opciones de API de la clave para la creación
-
-10-  Elija la opción que mejor le atienda. Para más información sobre qué clave
+7.  Elija la opción que mejor le atienda. Para más información sobre qué clave
     le atender, acceda
     a <https://developers.google.com/console/help/new/#generatingdevkeys>.
 
-11-  Después de las claves creadas, las API ya se pueden consumir.
+8.  Después de las claves creadas, las API ya se pueden consumir.
 
 
 ### APIs a utilizar en las soluciones
@@ -191,21 +188,19 @@ Para activar una API para su uso, siga estos pasos:
 2.  Haga clic en API y servicios > Activar API y servicios, como se muestra en
     la siguiente figura:
 
+    ![APIs Google](images/android-ios-8.jpg)
 
-![APIs Google](images/android-ios-8.jpg)
+    Figura 8 - APIs Google
 
-Figura 8 - APIs Google
-
-3-  Se mostrará la biblioteca de API. Seleccione la API que desea activar (la
+3.  Se mostrará la biblioteca de API. Seleccione la API que desea activar (la
     siguiente figura representa un ejemplo de API) y haga clic en el
     botón "Habilitar" API como se indica en la figura siguiente:
 
+    ![Ativação](images/android-ios-9.jpg)
 
-![Ativação](images/android-ios-9.jpg)
+    Figura 9 - Activación de API de Google
 
-Figura 9 - Activación de API de Google
-
-4-  Hecho esto, la API estará habilitada para su uso.
+4.  Hecho esto, la API estará habilitada para su uso.
 
 
 Relacionado
