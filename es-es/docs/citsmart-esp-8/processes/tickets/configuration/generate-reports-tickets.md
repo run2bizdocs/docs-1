@@ -71,6 +71,12 @@ de acuerdo con la situación informada.
 
 3.  Haga clic en "Generar PDF" para generar el informe en PDF y/o haga clic en
     "Generar XLS" para generar el informe en Excel.
+    
+    !!! Abstract "NOVEDAD"
+    
+        Ahora el informe imprime también una tabla con el cuantitativo 
+        por unidad y otra con el cuantitativo por unidad y servicio.
+        
 
 Generar informe cuantitativa completado por servicios (sintético)
 ---------------------------------------------------------------------
@@ -112,8 +118,6 @@ de satisfacción en relación a la atención de las solicitudes de servicios.
 
 Es necesario tener llamados abiertos y cierrados que posean enlace con una
 encuesta de satisfacción.
-
-### Procedimiento
 
 1.  Acceda a la funcionalidad a través del menu principal Informes \> Gestión de
     Incidentes/Requerimientos \> Encuesta de Satisfacción;
