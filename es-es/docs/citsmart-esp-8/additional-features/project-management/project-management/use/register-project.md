@@ -66,12 +66,12 @@ Procedimiento
      compararlos con los datos actuales. Para ver el listado de elementos
      registrados, haga clic en "Visualizar línea de base".
      
-     !!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
      
-         La fecha final de un proyecto se basa en el conjunto de fechas finales de sus
-         tareas/subtareas, siendo que la fecha final de cada elemento principal (tarea/actividad)
-         se actualiza de acuerdo con las fechas finales de sus hijos (subtareas) para
-         proponer un análisis completo del proyecto.
+        La fecha final de un proyecto se basa en el conjunto de fechas finales de sus
+        tareas/subtareas, siendo que la fecha final de cada elemento principal (tarea/actividad)
+        se actualiza de acuerdo con las fechas finales de sus hijos (subtareas) para
+        proponer un análisis completo del proyecto.
          
      - **Monitoreo/Control**: Esta pestaña permite monitorear/controlar las tareas del proyecto.
      Los responsables de la actividad, podrán realizar las siguientes acciones: "Editar tarea" con 
