@@ -15,12 +15,12 @@ functional and communicable with ITSM.
 Procedure
 -------------
 
-1-  Access the functionality through the main menu Processes \> Event Management
+1.  Access the functionality through the main menu Processes \> Event Management
     \> Connections \> Inventory Connections;
 
-2-  In **Connection Data**, complete the fields;
+2.  In **Connection Data**, complete the fields;
 
-3-  Select the type of *Inventory* connection, in the field "Ignore machines
+3.  Select the type of *Inventory* connection, in the field "Ignore machines
     already inventoried" (in the case of inventoried machines, it's possible to
     define how many days this machine will be without new inventory, and
     therefore its status will be set to Ignored until the total of days
@@ -31,7 +31,7 @@ Procedure
 
    Figure 1 -CITSmart inventory integration
 
-4-  If the connection type chosen is the *OCS Inventory*, the configuration
+4.  If the connection type chosen is the *OCS Inventory*, the configuration
     field of the OCS Inventory will be displayed to be informed of the XML
     repository, as shown below. In addition, there are some very
     relevant **prerequisites** that should be observed:
@@ -59,7 +59,7 @@ Procedure
            + the Inventory must have permission (share) on the OCS Inventory
              server.
 
-5-  The Inventory application captures the data through the SNMP Agent (161)
+5.  The Inventory application captures the data through the SNMP Agent (161)
     port and/or the Capture Agent (port 7103 developed by CITSmart Corporation,
     in .Net). Initially, Inventory performs a "ping" command to verify that the
     machine is active. If you can perform the command, try to access the SNMP
@@ -67,7 +67,7 @@ Procedure
     Inventory tries to access through the capture agent by clicking the "Test
     Connection" button;
 
-6-  Click on "Save and Apply Settings".
+6.  Click on "Save and Apply Settings".
 
 Related
 -------
