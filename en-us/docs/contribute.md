@@ -1,26 +1,26 @@
-Title: Guia de contribuição do CITSmart Docs
+Title: CITSmart Docs Contribution Guide
 
-# Guia de contribuição do CITSmart Docs
+# CITSmart Docs Contribution Guide
 
-O CITSmart Docs é um trabalho incessante de documentação de nossos produtos. Entendemos que a experiência de nossa comunidade no uso da plataforma é a parte mais enriquecedora. Por isso, aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
+CITSmart Docs is an incessant work of documentation of our products. We understand that the experience of our community in using the platform is the most enriching part. So here we explain how you can contribute to our documentation in a transparent and open way.
 
-As documentações do CITSmart estão disponíveis publicamente no [GitHub](https://github.com/citsmartdocs/). É através dele que você conseguirá editar os documentos existentes, criar novos documentos ou mesmo sugerir melhorias para nosso portal.
+CITSmart documentation is publicly available on [GitHub](https://github.com/citsmartdocs/). It's through it that you will be able to edit existing documents, create new documents or even suggest improvements to our portal.
 
-Obrigado por acessar a página de contribuição do CITSmart Docs.
+Thank you for accessing the CITSmart Docs contribution page.
 
-## Editando documentos existentes
-
- 
-
-Uma das formas de contribuir, é editando documentos existentes em nosso repositório. Sugestão de pequenos erros técnicos ou gramaticais são bastante comuns utilizando esse método simples e rápido.
-
-Para começar:
+## Editing existing documents
 
  
 
-1) Acesse o repositório de documentos da CITSmart no GitHub: https://gitbub.com/citsmartdocs.
+One of the ways to contribute is by editing existing documents in our repository. Suggestion of minor technical or grammatical errors are quite common using this simple and quick method.
 
-2) Clique em "Sign In" no topo da página e entre com um usuário e senha.
+To beging with:
+
+ 
+
+1) Access the CITSmart document repository on GitHub: https://gitbub.com/citsmartdocs.
+
+2) Click on "Sign In" at the top of the page and enter a username and password.
 
  
 
@@ -30,21 +30,21 @@ Para começar:
 
  
 
-Caso não tenha um usuário e senha e queira contribuir, Clique em "Sign Up" para criar uma nova conta.
+If you don't have an username and password, and want to contribute, click on "Sign Up" to create a new account.
 
-A criação de um usuário na plataforma do Github é gratuita.
-
- 
-
-!!! Warning "ATENÇÃO"
+The creation of an user on the Github platform is free.
 
  
 
-    O usuário e senha do GitHub é de responsabilidade do site. Não temos controle sobre a criação de usuários na plataforma.
+!!! Warning "NOTE"
 
  
 
-3) Após realizar o login, cliquem em "Repositories" ou em "docs" conforme imagem abaixo:
+    The GitHub user and password is the responsibility of the website. We have no control over creating users on the platform.
+
+ 
+
+3) After the login, click on "Repositories" or "docs" as shown below:
 
  
 
@@ -52,7 +52,7 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-4) Após acessar o repositório de docs, você encontrará nossas documentações separadas por pastas em linguagens. Escolha a pasta e documentação que deseja contribuir, e clique em "Edit":
+4) After accessing the docs repository, you will find our documentation separated by folders in languages. Choose the folder and documentation you want to contribute, and click on "Edit":
 
  
 
@@ -60,32 +60,32 @@ A criação de um usuário na plataforma do Github é gratuita.
 
  
 
-5) A partir desse momento, você conseguirá editar o documento se estiver logado. Nossos documentos são elaborados utilizando uma linguagem sintática chamada Markdown.
+5) From that point on, you'll be able to edit the document if you're logged in. Our documents are made using a syntactic language called Markdown.
 
-O markdown permite que usuários sem conhecimento em linguagem de programação possa escrever documentos em formato HTML. É uma linguagem simples feita para usuários finais.
+Markdown allows users without programming language knowledge to write documents in HTML format. It's a simple language made for end users.
 
-Siga nosso [guia de escrita em Markdown](https://docs.citsmart.com/pt-br/markdown.html) para descobrir como escrever nossos documentos.
-
- 
-
-Clique na tab "Preview changes" caso queira ir acompanhando o progresso da escrita do documento e como ele ficará após a conversão do formato Markdown.
+Follow our [Markdown writing guide](https://docs.citsmart.com/pt-br/markdown.html) to find out how to write our documents.
 
  
 
-!!! Warning "ATENÇÃO"
+Click on "Preview changes" if you want to follow the progress of the document writing and how it will look after the Markdown format conversion.
 
  
 
-    Nem todas formatações de markdown são possíveis de visualização no "preview" do Github, embora diversos elementos visuais sejam perfeitamente aplicáveis.
+!!! Warning "NOTE"
+
+ 
+
+    Not all markdown formatting is possible to preview in Github, although several visual elements are perfectly applicable.
 
                
 
-6) Quando concluir a edição do documento desejado, coloque seus comentários nos campos do "Propose file change" e clique no botão "Propose file change".
+6) When you finish editing the document you want, put your comments in the "Propose file change" fields and click on "Propose file change".
 
-Na próxima etapa irá aparecer o botão "Create pull request". Clique nele para submeter sua sugestão.
+In the next step will appear the button "Create pull request". Click on it to submit your suggestion.
 
  
 
-A equipe irá avaliar sua proposta de mudança, e após a aprovação do conteúdo este estará disponível em nossa documentação.
+The team will evaluate your proposal for change, and after approval of the content this will be available in our documentation.
 
  
