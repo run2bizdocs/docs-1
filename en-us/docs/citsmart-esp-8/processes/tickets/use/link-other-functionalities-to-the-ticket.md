@@ -1,5 +1,4 @@
 title: Link other functionalities to the ticket
-
 Description: It's possible to link other functionalities to the ticket.
 #Link other functionalities to the ticket
 It's possible to link other functionalities to the ticket, such as: problems, change, project, and others to include more information when attending the request.
@@ -54,6 +53,19 @@ Procedure
 13. To link a **Problem**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
     "Problem Registration";
+    
+    !!! Abstract "NOTE"
+    
+        When linking a problem to the ticket, the "Workaround" registered in them
+        will be available in the ticket on the left side. When click on it, it'll
+        be possible to view each one of them in order to select the most suitable solution
+        to the incident, click then on "Copy", the incident will automatically change
+        the status to "Solved" and will complete the data of items "Cause Detail" and
+        "Answer Soluction" with the data registered in the problem linked.
+        
+        The "Cause Detail" will be completed with the data of "Root Cause" described in
+        the problem linked, and the "Answer Solution" will be completed with the information
+        inscribed in the "Workaround" you've chose.
 
 14. To link a **Change**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
