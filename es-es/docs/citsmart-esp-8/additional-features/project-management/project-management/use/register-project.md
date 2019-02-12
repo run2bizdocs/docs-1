@@ -39,9 +39,10 @@ Procedimiento
     - **Punto de Contacto**: Definir los colaboradores que serán el punto focal
      de información sobre el proyecto.
      
-     !!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
      
-         Sólo podrá ser escalonado un colaborador que esté activo en el proyecto.
+        Sólo podrá ser escalonado un colaborador que esté activo en el proyecto.
+
          
     - **Funciones/Responsabilidades**: Informar los colaboradores responsables de
      ejecución del proyecto, definiendo sus funciones y responsabilidades dentro del
