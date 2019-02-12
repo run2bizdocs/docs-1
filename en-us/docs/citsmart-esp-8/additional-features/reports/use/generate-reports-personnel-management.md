@@ -12,7 +12,7 @@ Procedure
 
 2.  Define the filters as needed;
 
-     !!! Abstract "NOTE"
+    !!! Abstract "NOTE"
 
         If an employee is not informed, the report will be generated containing
         the information of all active employees of the respective unit, regarding
