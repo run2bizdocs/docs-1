@@ -75,9 +75,9 @@ aplicación en la tienda en línea (App Store).
      +  **Dominio\\Usuario:** a partir de esta versión el usuario tendrá que
      informar el dominio LDAP de uso y su usuario;
 
-     + El formato es citsmart.local\\usuario.consultor (ejemplo), siendo que la
-       primera parte es la información del dominio y la segunda parte es el
-       usuario;
+        + El formato es citsmart.local\\usuario.consultor (ejemplo), siendo que la
+          primera parte es la información del dominio y la segunda parte es el
+          usuario;
 
     +   **Contraseña**: el usuario introducirá la contraseña de acceso al sistema;
 
