@@ -1,6 +1,5 @@
 title: Generate reports - Request and Incident management  
-Description: Generate reports – Ticket management
-
+Description: It allows you to generate reports in various ways about request and indent management
 #Generate reports - Request and Incident management
 
 ##Generate reports of causes and solutions
@@ -45,10 +44,11 @@ each employee and/or group.
 3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create report in Excel.
 
-!!! Abstract "Note"
-    When a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
-    date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person   
-    captures that request.
+    !!! Abstract "Note"
+        
+        When a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
+        date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person 
+        captures that request.
 
 ##Generate quantitative report
 
@@ -62,6 +62,11 @@ according to the status entered.
 
 3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create the report in Excel.
+    
+    !!! Abstract "NEW"
+    
+        Now the report also prints a table with the quantitative per unit 
+        and another with the quantitative per unit and service
 
 ##Generate report quantitative by services completed (synthetic)
 
@@ -107,7 +112,7 @@ linked.
 3.  Select how to create the report when click on "Generate PDF", "Generate XLS"
     or "Export CSV".
 
-##Generate service requests
+##Generate service requests report
 
 This report has the objective of present the registration history of the service
 request.
@@ -149,7 +154,7 @@ This report has the objective of present the service request per executor.
 3.  Click on “Generate PDF” to create the report in PDF and/or on “Generate XLS”
     to create the report in Excel.
 
-##Generate request approval
+##Generate request approval report
 
 This report has the objective of present the service requests that were and were
 not approved.
@@ -180,8 +185,6 @@ service request.
 
 This report has the objective of present all request that were reopened in a
 period.
-
-### Procedure
 
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Reopened Request;
