@@ -24,6 +24,8 @@ Use
 
 - [Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
 
+- [Link activities to service contract](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/link-activity-to-service-contract.html)
+
 - [Register service activity](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 - [Manage my requests through Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
