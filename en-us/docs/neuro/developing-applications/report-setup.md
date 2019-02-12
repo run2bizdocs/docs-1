@@ -10,7 +10,7 @@ Access the functionality through the menu Neuro > Management > Report.
 The form must be previously registered in the Form.  
 
 ##FILTERS  
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
 - Keyword or enter.  
 
@@ -18,7 +18,7 @@ The form must be previously registered in the Form.
 Figure 1 - Report configuration search screen   
 
 ##ITEMS LIST  
-1- The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
+1. The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
 
 ![Screenshot](images/Report-setup-fig02.png)
 
@@ -27,14 +27,14 @@ Figure 2 - Report configuration lisitng screen
 ##FILLING IN THE REGISTRATION FIELDS  
 
 REPORT DATA  
-1- This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
+1. This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
 
 ![Screenshot](images/Report-setup-fig03.png)
 
 Figure 3 - Register/edit report configuration, Report tab  
 
 ##DATA SOURCE  
-1- Refers to the data source of the report. Enter the **type** of the data source, which can be:  
+1. Refers to the data source of the report. Enter the **type** of the data source, which can be:  
 
 - **None**: if the file does not search the database.  
 - **Data connection**: if the information source is a database connection, also inform the respective database connection (register in the Database connection menu).  
@@ -46,7 +46,7 @@ Figure 3 - Register/edit report configuration, Report tab
 Figure 4 - Register/edit report configuration, Data source tab  
 
 ##PARAMETERS  
-1- This tab refers to the registration of fixed parameters for the report. You can enter an image as a parameter to define the report logo, for example.  
+1. This tab refers to the registration of fixed parameters for the report. You can enter an image as a parameter to define the report logo, for example.  
 
 - Click Add to add a new parameter.  
 - Enter the parameter **name, type**, and parameter **object**.  
@@ -61,13 +61,13 @@ Figure 5 - Register/edit Report configuration, Parameters tab
 ##FORM  
 This tab represents the form to be displayed when the user generates the report.  
 
-1- Enter the **name** of the registered form, state whether tabs should be displayed, the **title** of the form, and the **menu** associated with to it.  
-2- In the selected form, by default, options will be added to generate the report in PDF, Excel and HTML.  
-3- To change the default, edit the source code displayed on the screen.  
-4- Click Save to run the changes. Click Search to return to the previous screen.  
-5- To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
-6- To view an item, select the item and click View.  
-7- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+1. Enter the **name** of the registered form, state whether tabs should be displayed, the **title** of the form, and the **menu** associated with to it.  
+2. In the selected form, by default, options will be added to generate the report in PDF, Excel and HTML.  
+3. To change the default, edit the source code displayed on the screen.  
+4. Click Save to run the changes. Click Search to return to the previous screen.  
+5. To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
+6. To view an item, select the item and click View.  
+7. To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
 ![Screenshot](images/Report-setup-fig06.png)   
 Figure 6 - Register/edit report configuration, Form tab  
