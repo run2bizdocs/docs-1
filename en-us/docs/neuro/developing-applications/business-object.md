@@ -15,7 +15,8 @@ Each business object created represents a table in the database.
 1.	No applicable.  
 
 ##FILTERS
-1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:
+
 •	Keyword or enter.  
 
 ![Screenshot](images/business-object-filter.png)  
