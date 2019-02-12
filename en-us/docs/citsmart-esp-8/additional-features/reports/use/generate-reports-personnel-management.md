@@ -12,11 +12,12 @@ Procedure
 
 2.  Define the filters as needed;
 
+
     !!! Abstract "NOTE"
 
         If an employee is not informed, the report will be generated containing
         the information of all active employees of the respective unit, regarding
-        the contract informed.  
+        the contract informed.    
 
 3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create the report in Excel.
