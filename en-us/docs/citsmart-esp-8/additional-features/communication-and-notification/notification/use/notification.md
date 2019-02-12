@@ -16,10 +16,18 @@ Procedure
 
 3.  Complete the fields available;
 
-4.  If the notification is to an user, click on "link user" or if it's to an
-    user group, click on "Link Group";
+4.  To know if the user received/read the notification,
+    enable the key "Requires confirmation". Therefore, when the user receive the
+    notification, he/she will view it with exclamation mark (!). To view the relation of readers of that notification, click on
+    "View users who have confirmed/viewed"
+    
+5.  In order to make the notification through email, enable the key "Notify by email"
 
-5.  Click on "Save".
+6.  To link the user, click on "Add" in the user field.
+
+7.  To link user groups, click on "Add" in the group field.
+
+8.  Click on "Save".
 
 What to do next
 -------------------
@@ -44,6 +52,8 @@ What to do next
 
     -   The notification with the icon symbolizes a visa/check, indicates that its
     reading was confirmed.
+    
+    -   The notification with an icon symbolized by an exclamation mark, indicates the reading confirmation.
     
 !!! tip "About"
 
