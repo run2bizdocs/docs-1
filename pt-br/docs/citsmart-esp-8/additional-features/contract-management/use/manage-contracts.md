@@ -201,10 +201,10 @@ Procedimento para registrar atividades do serviço do contrato
         contabilização será feita das solicitações "fechadas", no período da OS
         (Ordem de Serviço), do serviço do tipo requisição/incidente.**
 
-    -   Se informar o tipo de custo como **Custo Total**, além dos campos gerais,
+    +  Se informar o tipo de custo como **Custo Total**, além dos campos gerais,
     será necessário indicar o custo total a complexidade da atividade;
 
-    -   Se informar o tipo de como **Fórmula**, além dos campos gerais, será
+    +  Se informar o tipo de como **Fórmula**, além dos campos gerais, será
     necessário selecionar a fórmula desejada. Feita a escolha, preencher os
     campos exibidos (horas, complexidade e quantidade).
 
