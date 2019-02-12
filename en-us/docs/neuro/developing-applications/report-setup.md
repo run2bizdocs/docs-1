@@ -36,11 +36,11 @@ Figure 3 - Register/edit report configuration, Report tab
 ##DATA SOURCE  
 1. Refers to the data source of the report. Enter the **type** of the data source, which can be:  
 
-- **None**: if the file does not search the database.  
-- **Data connection**: if the information source is a database connection, also inform the respective database connection (register in the Database connection menu).  
-- **Data object**: if the information source is a database object registered in the application. Enter the **data object** that will be the data source (registerable in the Business Object menu).  
-- **ESI flow**: if the source of information is an ESI flow registered in the application. Enter the **flow** that will be the data source (registered in the Workflow/ESI Design menu).  
-- **Script**: if the data source is a script, code the script using the Rhino language.  
+    - **None**: if the file does not search the database.  
+    - **Data connection**: if the information source is a database connection, also inform the respective database connection (register     in the Database connection menu).  
+    - **Data object**: if the information source is a database object registered in the application. Enter the **data object** that will     be the data source (registerable in the Business Object menu).  
+    - **ESI flow**: if the source of information is an ESI flow registered in the application. Enter the **flow** that will be the data     source (registered in the Workflow/ESI Design menu).  
+    - **Script**: if the data source is a script, code the script using the Rhino language.  
 
 ![Screenshot](images/Report-setup-fig04.png)   
 Figure 4 - Register/edit report configuration, Data source tab  
