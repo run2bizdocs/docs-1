@@ -1,5 +1,5 @@
 title: Gerar relatórios - Gerência de incidentes e requisições
-Description: Permite gerar relatórios de dicversão maneiras sobre gerência de requisição e indente.
+Description: Permite gerar relatórios de diversas maneiras sobre gerência de requisição e indente.
 #Gerar relatórios - Gerência de incidentes e requisições
 
 Gerar relatório de causas e soluções
