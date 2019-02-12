@@ -18,10 +18,10 @@ Antes de empezar
 2.  En el ambiente - instancia del CITSmart - , configurar las siguientes
     funcionalidades:
 
-  -   Webservice: indicar en el ítem "permisos" los grupos de atención que podrán
+    -   Webservice: indicar en el ítem "permisos" los grupos de atención que podrán
       ver los tickets;
 
-  -   Unidad: obtener las coordenadas de la unidad registrada.
+    -   Unidad: obtener las coordenadas de la unidad registrada.
 
 Procedimiento
 -----------------
