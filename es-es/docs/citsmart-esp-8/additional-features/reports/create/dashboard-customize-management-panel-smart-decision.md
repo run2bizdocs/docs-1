@@ -42,16 +42,16 @@ Procedimiento
 
        +  *Acceso Rápido*:
 
-             +   Haga clic en *Links*;
+           +   Haga clic en *Links*;
 
-                 +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
+               +   Haga clic en el icono "Editar la configuración del widget" acerca de la caja de *Links*;
 
-                 +   Completar el campo disponible y hacer clic en "Agregar" para definir
+               +   Completar el campo disponible y hacer clic en "Agregar" para definir
                      el Tipo, si "Interno" selecciona el menú del sistema (por ejemplo:
                      Procesos \> Gestión de Portafolio y Catálogo\> Smart Portal), si
                      "Externo" define el Título/Clave y añadir la URL;
 
-                 +   Clicar em "Aplicar".
+               +   Clicar em "Aplicar".
 
       +   *Informes Smart*:
 
