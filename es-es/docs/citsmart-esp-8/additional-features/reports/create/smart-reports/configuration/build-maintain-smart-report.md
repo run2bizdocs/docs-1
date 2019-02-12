@@ -68,8 +68,8 @@ Procedimiento
 
     !!! Abstract "ATENCIÓN"
 
-    Los informes aquí creados aparecerán en la pantalla de "Informes Smart",
-    donde podrá ver los datos pertinentes de cada informe.
+        Los informes aquí creados aparecerán en la pantalla de "Informes Smart",
+        donde podrá ver los datos pertinentes de cada informe.
 
 
 
