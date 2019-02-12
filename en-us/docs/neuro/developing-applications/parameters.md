@@ -27,8 +27,8 @@ Figure 2 - Parameter listing screen
 ##FILLING IN THE REGISTRATION FIELDS  
 1. To register a new parameter, click New, as shown in the figure bellow:  
 
-![Screenshot](images/Parameters-home.png)  
-Figure 3 - Parameter home screen  
+    ![Screenshot](images/Parameters-home.png)  
+    Figure 3 - Parameter home screen  
 
 2. On this screen the user is also allowed other actions. They are:
 
