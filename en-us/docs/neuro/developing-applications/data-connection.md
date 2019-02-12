@@ -12,7 +12,7 @@ Both the database connection of the built application and the connection to the 
 
 ##FILTERS
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
-  - Keyword or enter.  
+    - Keyword or enter.  
 
 ![Screenshot](images/DataConnection-Filters.png)    
 Figure 1 - Connection search screen   
