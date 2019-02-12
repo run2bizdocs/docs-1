@@ -78,8 +78,7 @@ Procedimiento
      los cambios deseados, "Lanzamiento de horas" trabajadas en la tarea y aún visualizarlas al hacer 
      clic en "Timesheet".
      
-     - **Problemas Técnicos/Administrativos**: Presenta los incidentes que se han registrato referente
-     al proyecto.
+     - **Problemas Técnicos/Administrativos**: Presenta los incidentes que se han registrato referente al proyecto.
 
 Relacionado
 -----------
