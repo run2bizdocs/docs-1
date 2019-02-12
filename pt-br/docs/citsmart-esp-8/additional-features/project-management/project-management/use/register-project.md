@@ -55,7 +55,7 @@ Procedimento
     linha de base de projeto para ser usada a fim de comparar planos de projetos
     inicias ou ainda comparar o estado de um projeto em certos ponto chave à
     medida que ele avança, com o seu estado atual ao criar no botão “Criar linha
-    da base” e justificar a alteração no projeto (Quando é definida uma linha de
+    da base” e justificar a alteração no projeto. Quando é definida uma linha de
     base, os dados em vários campos-chaves de tarefas, são capturados e salvos
     como um conjunto numerado de dados de linha de base, para a medida que o
     projeto avança, esteja disponíveis estes dados capturados afim de
