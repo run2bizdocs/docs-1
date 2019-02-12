@@ -35,6 +35,19 @@ Procedimiento
     de la creación, escalonamiento, captura, cierre y demás cambios de los
     tickets relacionados para el grupo ejecutor del ticket principal.
 
+5.  Para buscar los tickets relacionados, es necesario marcar el filtro "Ver relacionados" 
+    en el área de búsqueda en la pantalla principal de la funcionalidad.
+    
+!!! Abstract "ATENCIÓN"
+
+    Los tickets relacionados por no tener flujo propio, se cierran automáticamente 
+    junto con el cierre del ticket de origen.
+    
+!!! Abstract "ATENCIÓN"
+
+    Independientemente de que el ticket principal sea reabierto o permanezca cerrado, 
+    sus tickets relacionados no podrán ser reabiertos, ya que no tienen flujo propio.
+
 Relacionado
 -----------
 
