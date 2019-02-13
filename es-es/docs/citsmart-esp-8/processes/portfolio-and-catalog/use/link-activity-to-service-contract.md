@@ -75,10 +75,10 @@ Procedimiento
     porcentaje del 1 al 100%) y su ciclo de pago.
 
     !!! Abstract "REGLA"
-       - No se permiten prorrateos diferentes para el mismo ciclo en el mismo
+        - No se permiten prorrateos diferentes para el mismo ciclo en el mismo
         servicio/negocio/contrato.  
-       - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
-       - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
+        - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
+        - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
         configuraciones registradas.  
        
 !!! tip "About"
