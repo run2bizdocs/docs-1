@@ -22,7 +22,7 @@ solicitações de serviços.
     e/ou no botão "Gerar relatório analítico XLS" para gerar o relatório
     detalhado em formato Excel.
 
-Gerar relatório de gantt
+Gerar relatório de Gantt
 ----------------------------
 
 Este relatório tem o objetivo de apresentar os incidentes e requisições de
