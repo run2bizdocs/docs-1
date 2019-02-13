@@ -24,7 +24,7 @@ Procedimento
 4.  Clicar na aba Contratos e vincular um contrato;
 
 !!! info "Informação"
-    A gestão de contrato pode ser realizada diretamente clicano no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
+    A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
     
 
 O que fazer a seguir
