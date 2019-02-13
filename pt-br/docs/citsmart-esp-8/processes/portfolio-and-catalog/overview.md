@@ -76,7 +76,7 @@ Relatório
 
 - [Gerar relatórios - catálogo de serviços](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
 
-- [Verificar auditoria de serviços](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.htmlm)
+- [Verificar auditoria de serviços](/pt-br/site/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.html)
 
 !!! tip "About"
 
