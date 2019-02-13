@@ -29,20 +29,17 @@ Procedimiento
 3.  Los campos para completar se cambiarán según el *tipo de
     configuración* elegido:
 
--   **Configuração Específica**: permite crear reglas específicas para un único
+    -   **Configuração Específica**: permite crear reglas específicas para un único
     elemento de configuración. Estas reglas se aplican en el momento en que el
     elemento de configuración está siendo inventariado;
 
--   **Configuração General**: permite crear reglas para todos los elementos de
+    -   **Configuração General**: permite crear reglas para todos los elementos de
     configuración. Estas reglas se aplicarán en el momento en que se hayan
     inventado los elementos de configuración.
 
 4.  Informar los datos necesarios y hacer clic en "Agregar";
 
 5.  Hacer clic en "Guardar".
-
-
-
 
 Relacionado
 -----------
