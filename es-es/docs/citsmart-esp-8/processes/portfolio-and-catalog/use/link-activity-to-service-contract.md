@@ -50,9 +50,9 @@ Procedimiento
          de servicio exitoso, basta seguir las orientaciones descritas en el elemento "Solicitudes".
 
     !!! Abstract "ATENCIÓN"
-        Es imprescindible en todas las actividades narradas arriba, vincular un flujo
-        para esta actividad, de lo contrario no será posible registrar una solicitud de 
-        servicio. Para ello, basta en el área "Flujo    Servicio", haga clic en botón "Agregar"
+        Es imprescindible en todas las actividades narradas arriba, vincular un flujo 
+        para esta actividad, de lo contrario no será posible registrar una solicitud de 
+        servicio. Para ello, basta en el área "Flujo Servicio", haga clic en botón "Agregar" 
         y seleccionar el flujo de trabajo que coincide con el escenario y presione el botón "Guardar".  
 
      -  **Costo de Indisponibilidad**: Informar el costo por hora, lo que 
