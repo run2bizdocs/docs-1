@@ -53,12 +53,8 @@ Procedimiento
 
 !!! Abstract "NOTA"
 
-    El sistema notifica al usuario 3 días antes de la expiración de la contraseña actual,
-    haciendo esta alerta a través de mensajería en cuadro de texto que surgirá una
-    vez al día al iniciar sesión en el sistema. Después de que la contraseña esté
-     expirado, el usuario se envía automáticamente a la pantalla de perfil de
-     usuario con panel de cambio de contraseña abierto (sólo podrá utilizar el
-     sistema de nuevo si realiza el cambio de contraseña).
+    El sistema notifica al usuario 3 días antes de la expiración de la contraseña actual, haciendo esta alerta a través de mensajería en     cuadro de texto que surgirá una vez al día al iniciar sesión en el sistema. Después de que la contraseña esté expirado, el usuario       se envía automáticamente a la pantalla de perfil de usuario con panel de cambio de contraseña abierto (sólo podrá utilizar el
+    sistema de nuevo si realiza el cambio de contraseña).  
 
 !!! Abstract "NOTA"
 
@@ -71,5 +67,5 @@ Procedimiento
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html
+[1]:/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html
+[2]:/es-es/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html
