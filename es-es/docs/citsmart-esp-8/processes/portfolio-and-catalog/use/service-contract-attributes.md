@@ -21,7 +21,7 @@ Procedimiento
 3.  Hacer clic en "Avanzar" del servicio para accederlo. Después, se va a
     presentar la pantalla de Información del Servicio;
 
-4.  Hacer clic en la pestaña Contratos y vincular un contrato;
+4.  Hacer clic en la pestaña Contratos y vincular un contrato.
 
 !!! info "Información"
 
