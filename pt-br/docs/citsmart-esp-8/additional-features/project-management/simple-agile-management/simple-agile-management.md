@@ -44,7 +44,7 @@ Procedimento
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas;
 
-    ![Figura um](images/figure-1-simple.png)
+    ![Figura um](Images/figure-1-simple.png)
     
     Figura 1 - Tela Sprint
 
@@ -67,7 +67,7 @@ Procedimento
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
 
-    ![Figura dois](images/figure-2-simple.png)
+    ![Figura dois](Images/figure-2-simple.png)
     
     Figura 2 - Tela lista
 
@@ -89,7 +89,7 @@ Procedimento
 
 *IV - Criar tarefas*
 
- ![Figura três](images/figure-3-simple.png)
+ ![Figura três](Images/figure-3-simple.png)
     
   Figura 3 - Tela tarefa
 
@@ -112,7 +112,7 @@ dispositivos de controle e gestão.
 
 1.  Cada cartão possui dispositivos de controle e informações:
 
-     ![Figura quatro](images/figure-4-simple.png)
+     ![Figura quatro](Images/figure-4-simple.png)
     
       Figura 4 - Tela cartão
 
