@@ -30,22 +30,22 @@ Procedure
 5.  On the left side of the screen, it's available activities to be linked to the
     contract in order to establish its "service" parameters. They are:
 
-    -  **Requests**: In this area it is possible to link activities
-        request to the contract, and these must already be registered and
-        linked to the service. To do so, you must press the
-        "Link Service Request" and complete the data for this
-        request to be linked: select your calendar, your
-        operation, the request execution group, the notification template of
-        each phase of the request, among others. Then, in the "Request" area,
-        click on "Add" and select the request registered in the service.
+    -  **Requests**: In this area it is possible to link activities 
+         request to the contract, and these must already be registered and 
+         linked to the service. To do so, you must press the 
+         "Link Service Request" and complete the data for this 
+         request to be linked: select your calendar, your 
+         operation, the request execution group, the notification template of 
+         each phase of the request, among others. Then, in the "Request" area, 
+         click on "Add" and select the request registered in the service.  
 
-    -  **Incidents**: This activity follows the same principle of registration of
-        requests, for the link of an incident to the successful service contract,
-        just follow the guidelines described in the previous item.
+    -  **Incidents**: This activity follows the same principle of registration of 
+         requests, for the link of an incident to the successful service contract, 
+         just follow the guidelines described in the previous item.  
 
     -  **Procedure**: This activity follows the same principle of registration of 
-        requests and incidents, to link a procedure to the successful service contract,
-        just follow the guidelines described in the item "Requests".
+         requests and incidents, to link a procedure to the successful service contract, 
+         just follow the guidelines described in the item "Requests".  
 
     !!! Abstract "NOTE"
 
@@ -55,29 +55,25 @@ Procedure
         click on "Add" and select the workflow that matches the scenario and 
         click on "Save"  
 
-     -  **Unavailability Cost**: Inform the cost per hour, what the organization
-    has to lose in the event of unavailability of the service;
+     -  **Unavailability Cost**: Inform the cost per hour, what the organization 
+          has to lose in the event of unavailability of the service;
     
-    -  **Availability Agreement**:By clicking on "Link Availability Agreement", you can
-   search and select the SLA agreed between the contract stakeholders;
+    -  **Availability Agreement**:By clicking on "Link Availability Agreement", you can 
+         search and select the SLA agreed between the contract stakeholders;
     
-    -  **Calendar**: To link a calendar to the contract, after click on the area "Calendar",
-    click on "Link Calendar" and search and select the item you want;
+    -  **Calendar**: To link a calendar to the contract, after click on the area "Calendar", 
+         click on "Link Calendar" and search and select the item you want;
 
-    -  **Assessment**: It's the percentage that the contract pays on the contracted Business
-    Service. To inform the assessment of the contract, it's necessary to click on "Add
-    assessment" and inform its percentage (indicate a percentage from 1 to 100%) and its 
-    payment cycle.
+    -  **Assessment**: It's the percentage that the contract pays on the contracted Business 
+         Service. To inform the assessment of the contract, it's necessary to click on "Add 
+         assessment" and inform its percentage (indicate a percentage from 1 to 100%) and its 
+         payment cycle.
 
-    !!! Abstract "RULE"
-        It's not allowed different assessments to the same cycle in the same 
+    !!! Abstract "RULE"  
+        - It's not allowed different assessments to the same cycle in the same 
         service/business/contract.  
-
-    !!! Abstract "RULE"
-        It's not allowed to register or change assessments to which cycles are not closed.  
-
-    !!! Abstract "RULE"
-        It's not possible to delete an assessment to which cycles are not closed with the
+        - It's not allowed to register or change assessments to which cycles are not closed.  
+        - It's not possible to delete an assessment to which cycles are not closed with the
         configurations registered.  
        
 !!! tip "About"
