@@ -29,11 +29,11 @@ Procedimiento
 
 3.  En Notificación en Pantalla:
 
-  -   hacer clic en "Vincular usuario" para vincular los usuarios a la
+    -   hacer clic en "Vincular usuario" para vincular los usuarios a la
       notificación en la pantalla;
 
-  -   hacer clic en "Vincular grupo" para vincular el grupo a la notificación en
-      la pantalla.
+    -   hacer clic en "Vincular grupo" para vincular el grupo a la notificación en
+      la pantalla.  
 
 4.  Hacer clic en "Guardar".
 
