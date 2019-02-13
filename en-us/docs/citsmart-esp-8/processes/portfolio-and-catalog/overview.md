@@ -22,7 +22,7 @@ Use
 
 - [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-- [Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+- [Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
 - [Link activities to the service contract](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
