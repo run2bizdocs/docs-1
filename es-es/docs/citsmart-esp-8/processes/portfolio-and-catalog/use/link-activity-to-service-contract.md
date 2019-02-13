@@ -53,10 +53,10 @@ Procedimiento
     !!! Abstract "ATENCIÓN"
 
         Es imprescindible en todas las actividades narradas arriba, vincular un flujo
-        para esta actividad, de lo contrario no será posible registrar una
-        solicitud de servicio. Para ello, basta en el área "Flujo Servicio", haga clic en
-        botón "Agregar" y seleccionar el flujo de trabajo que coincide con el escenario
-        y presione el botón "Guardar".  
+        para esta actividad, de lo contrario no será posible registrar una 
+        solicitud de servicio. Para ello, basta en el área "Flujo Servicio", haga clic en 
+        botón "Agregar" y seleccionar el flujo de trabajo que coincide con el escenario
+        y presione el botón "Guardar".  
 
      -  **Costo de Indisponibilidad**: Informar el costo por hora, lo que
     la organización tiene que perder si se produce la indisponibilidad del servicio;
@@ -75,14 +75,10 @@ Procedimiento
     porcentaje del 1 al 100%) y su ciclo de pago.
 
     !!! Abstract "REGLA"
-        No se permiten prorrateos diferentes para el mismo ciclo en el mismo
+       - No se permiten prorrateos diferentes para el mismo ciclo en el mismo
         servicio/negocio/contrato.  
-
-    !!! Abstract "REGLA"
-        No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
-
-    !!! Abstract "REGLA"
-        No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
+       - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
+       - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
         configuraciones registradas.  
        
 !!! tip "About"
