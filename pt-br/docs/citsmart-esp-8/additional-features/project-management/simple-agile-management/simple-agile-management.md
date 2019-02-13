@@ -50,17 +50,17 @@ Procedimento
 Figura 1 - Tela Sprint
 
 
-    -   1: pesquisar sprints com filtros de membros, tags e status da sprint
+-   1: pesquisar sprints com filtros de membros, tags e status da sprint
     (concluída e não concluída)
 
-    -   2: criar nova sprint
+-   2: criar nova sprint
 
-    -   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
+-   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
     excluir e definir se o membro será administrador ou não
 
-    -   4: adicionar membros que participarão da sprint
+-   4: adicionar membros que participarão da sprint
 
-    -   5: ações de configuração e permissão da sprint
+-   5: ações de configuração e permissão da sprint
 
 *III - Criar listas*
 
@@ -91,20 +91,20 @@ Figura 1 - Tela Sprint
 
 *IV - Criar tarefas*
 
-     ![tela tarefa](images/figure-3-simple.png)
+   ![tela tarefa](images/figure-3-simple.png)
     
-      Figura 3 - Tela tarefa
+   Figura 3 - Tela tarefa
 
-    -   1: criar nova tarefa
+   -   1: criar nova tarefa
 
-    -   2: definir em qual estágio a tarefa se encontra.
+   -   2: definir em qual estágio a tarefa se encontra.
 
-    -   3: mover a lista fisicamente dentro do quadro
+   -   3: mover a lista fisicamente dentro do quadro
 
-    !!! Abstract "ATENÇÃO"
+   !!! Abstract "ATENÇÃO"
 
-        Para movimentar uma tarefa de uma lista para outra, clicar e arrastar a
-        mesma para a lista desejado.
+       Para movimentar uma tarefa de uma lista para outra, clicar e arrastar a
+       mesma para a lista desejado.
 
 *V - Preencher cartão Simple*
 
