@@ -39,13 +39,13 @@ Procedimento
         Os conhecimentos diponivéis na aba “Conhecimentos” do item “Serviço” podem ser
         definidos em dois níveis:
 
-        -   Os conhecimentos que foram vinculados ao portfolio que estarão dispostos no
-    item “Relacionados ao Serviço”;
+        -   Os conhecimentos que foram vinculados ao portfolio que estarão dispostos no 
+        item “Relacionados ao Serviço”;
 
         -   Os conhecimentos que foram associados ao ticket ( adicionados quando o
-    responsável pelo atendimento deste vinculou um artigo para difundir o
-    conhecimento da solução do mesmo) ordenados no item “Relacionados a
-    Requisição/Incidente.  
+        responsável pelo atendimento deste vinculou um artigo para difundir o 
+        conhecimento da solução do mesmo) ordenados no item “Relacionados a 
+        Requisição/Incidente.  
 
 -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
     vinculados ao portfolio;
