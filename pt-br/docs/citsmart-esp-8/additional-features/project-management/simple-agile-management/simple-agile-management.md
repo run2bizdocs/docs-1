@@ -23,9 +23,9 @@ Procedimento
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
 
-2.  Clicar no botão “Workspace” e colocar nome para criar novo workspace;
+2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
 
-3.  Cada workspace conterá em sua tela inicial um resumo de sprints e seus
+3.  Cada workspace conterá em sua tela inicial um resumo de Sprints e seus
     prazos estabelecidos: Vencidas, A vencer, No prazo e Total, além mostrar
     membros adicionados.
 
@@ -43,6 +43,7 @@ Procedimento
 3.  Cada sprint conterá em sua tela inicial um contador de tarefas, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas;
+
 
 ![Figura um](Images/figure-1-simple.png)
     
