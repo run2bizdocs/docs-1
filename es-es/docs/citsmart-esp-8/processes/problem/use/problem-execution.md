@@ -40,7 +40,7 @@ Procedimiento
         Las soluciones contorno aquí registradas pueden ser visualizadas en la pantalla de
         “Ticktet” al vincular el problema al ticket.
      
-    -   En la pestaña "AdjuntoS", es posible hacer el upload en los archivos que quiera;
+    -   En la pestaña "Adjuntos", es posible hacer el upload en los archivos que quiera;
 
     -   En la pestaña "Anotaciones", es permitido registrar las inforaciones que sean esenciales.
 
