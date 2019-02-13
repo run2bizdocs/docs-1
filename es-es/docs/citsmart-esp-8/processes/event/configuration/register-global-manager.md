@@ -33,7 +33,7 @@ Procedimiento
 
 2.  Completar los campos disponibles en cada area:
 
-  -  Informe los datos de la **Acción de Information**:
+   -  Informe los datos de la **Acción de Information**:
 
        -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
           evento del tipo information, el grado de urgencia e impacto. Las reglas
@@ -41,21 +41,21 @@ Procedimiento
           Eventos - EPL. Haga clic en el botón *Validar EPL de Information* para
           validar la EPL informada.
 
--   Informe los datos de la **Acción de Warning**:
+  -   Informe los datos de la **Acción de Warning**:  
 
-    -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
+     -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
         evento del tipo warning, el grado de urgencia e impacto. Las reglas para
         esta acción se definen utilizando el Lenguaje de Procesamiento de
         Eventos - EPL. Haga clic en el botón *Validar EPL de Warning* para
         validar la EPL informada.
 
--   Informe los datos da la **Acción de Exception**:
+  -   Informe los datos da la **Acción de Exception**:
 
-    -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
+     -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
         evento del tipo exception, el grado de urgencia e impacto. Las reglas
         para esta acción se definen utilizando el Lenguaje de Procesamiento de
         Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
-        validar la EPL informada.
+        validar la EPL informada.  
 
 3.  Hacer clic en "Guardar".
 
