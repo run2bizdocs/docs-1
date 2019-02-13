@@ -45,7 +45,7 @@ Procedimento
     percentual de realização das mesmas;
 
 
-![Figura um](Images/figure-1-simple.png)
+![tela sprint](Images/figure-1-simple.png)
     
 Figura 1 - Tela Sprint
 
@@ -69,7 +69,7 @@ Figura 1 - Tela Sprint
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
 
-    ![Figura dois](Images/figure-2-simple.png)
+    ![tela lista](Images/figure-2-simple.png)
     
     Figura 2 - Tela lista
 
@@ -91,7 +91,7 @@ Figura 1 - Tela Sprint
 
 *IV - Criar tarefas*
 
- ![Figura três](Images/figure-3-simple.png)
+ ![tela tarefa](Images/figure-3-simple.png)
     
   Figura 3 - Tela tarefa
 
@@ -114,7 +114,7 @@ dispositivos de controle e gestão.
 
 1.  Cada cartão possui dispositivos de controle e informações:
 
-     ![Figura quatro](Images/figure-4-simple.png)
+     ![tela cartão](Images/figure-4-simple.png)
     
       Figura 4 - Tela cartão
 
