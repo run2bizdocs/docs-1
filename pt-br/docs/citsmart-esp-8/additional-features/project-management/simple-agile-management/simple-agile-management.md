@@ -25,14 +25,20 @@ Procedimento
 
 2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
 
-3.  Cada workspace conterá em sua tela inicial um resumo de Sprints e seus
-    prazos estabelecidos: Vencidas, A vencer, No prazo e Total, além mostrar
-    membros adicionados.
+3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
+    prazos estabelecidos:
 
-    !!! Abstract "ATENÇÃO"
+-   Vencidas: mostra o total dos **Sprints** que tenha a “Data da entrega” menor
+    que a data/hora atual;
 
-        O contador de tarefas se refere somente ao próximo nível/tela de sprints ou
-        de tarefas. Não serão contadas tarefas de todos os níveis do projeto.
+-   A vencer: mostra o total dos **Sprints** que tenha a “Data da entrega” que
+    ficarão vencidas em 24h a partir da data/hora atual;
+
+-   No prazo: mostra o total dos **Sprints** que tenha a “Data da entrega” maior
+    que 24h a partir da data/hora atual;
+
+-   Total: soma das **Sprints** que estão dentro do Workspace.
+
 
 *II - Criar uma Sprint*
 
@@ -42,7 +48,33 @@ Procedimento
 
 3.  Cada Sprint conterá em sua tela inicial um contador de tarefas, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
-    percentual de realização das mesmas;
+    percentual de realização das mesmas:
+
+-   Vencidas: mostra o total de **tarefas** que tenha a “Data da entrega” menor
+    que a data/hora atual;
+
+-   A vencer: mostra o total de **tarefas** que tenha a “Data da entrega” que
+    ficarão vencidas em 24h a partir da data/hora atual;
+
+-   No prazo: mostra o total de **tarefas** com a “Data da entrega” maior que
+    24h a partir da data/hora atual;
+
+-   Total: mostra o total de **tarefas** daquela Sprint;
+
+-   A barra de progressão possui o seguinte cálculo:
+
+    -   1º É feito a soma do total de estimativas de todas as tarefas
+        concluídas;
+
+    -   2º É feito a soma do total de estimativas de todas as tarefas;
+
+    -   3º Progresso é a porcentagem calculadas com o total de estimativas das
+        tarefas concluídas sobre o total de estimativas de todas as tarefas.
+
+!!! Abstract "ATENÇÃO"
+
+    O cálculo do progresso depende totalmente das estimativas informadas nas
+    tarefas.
 
 
 ![tela sprint](images/figure-1-simple.png)
@@ -61,6 +93,7 @@ Figura 1 - Tela Sprint
 -   4: adicionar membros que participarão da Sprint
 
 -   5: ações de configuração e permissão da Sprint
+
 
 *III - Criar listas*
 
@@ -123,32 +156,33 @@ dispositivos de controle e gestão.
 
     -   1: adicionar ou retirar membros na tarefa
 
-    -   2: adicionar listas de ações que serão visualizadas na aba Checklist
+-   2: adicionar listas de ações que serão visualizadas na aba Checklist
 
-    -   3: adicionar comentários
+-   3: adicionar comentários
 
-    -   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
-    além poder detalhar a ação tomada
+-   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
+    além de detalhar a ação tomada
 
-    -   5: adicionar tags para identificar visualmente o cartão de tarefa
+-   5: adicionar tags para identificar visualmente o cartão de tarefa
 
-    -   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
-    comunicação será através de botão de notificações do CITSmart ESP
+-   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
+    comunicação será através do botão de notificações do CITSmart ESP
 
-    -   7: indicar a finalização da tarefa
+-   7: indicar a finalização da tarefa
 
-    -   8: Mover a tarefa para outra sprint:
+-   8: Mover a tarefa para outra Sprint:
 
-        -   sprint do mesmo workspace: as tags são mantidas porém os membros são
+    -   Sprint do mesmo Workspace: as tags são mantidas, porém os membros são
         removidos da tarefa
 
-        -   sprint de outro workspace: as tags e membros serão removidos da tarefa
+    -   Sprint de outro Workspace: as tags e membros serão removidos da tarefa
 
-    -   9: arquivar o cartão
+-   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
+    ser reutilizado.
 
 1.  Descrever a tarefa no campo “Descrição”;
 
-2.  Definir a data e horário de entrega no campo “Data de entrega”;
+2.  Definir a data e hora de entrega no campo “Data de entrega”;
 
 3.  Estimar a quantidade de horas que serão utilizadas na tarefa;
 
@@ -156,19 +190,19 @@ dispositivos de controle e gestão.
 
 5.  As abas disponibilizadas mostram:
 
-    -   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
+-   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
     nomear, posicionar o mouse no campo “Adicionar item...”, clicar no botão de
     adicionar “+” para adicionar novo item. Para indicar finalização de um item
     dentro de um checklist, selecionar o checkbox
 
-    -   Comentários: lista os comentários realizados
+-   Comentários: lista os comentários realizados
 
-    -   Anexos: disponibiliza campo para adicionar anexos
+-   Anexos: disponibiliza campo para adicionar anexos
 
-    -   Horas lançadas: relaciona horas lançadas de cada membro participante da
+-   Horas lançadas: relaciona horas lançadas de cada membro participante da
     tarefa
 
-    -   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
+-   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
     hora
 
 !!! tip "About"
