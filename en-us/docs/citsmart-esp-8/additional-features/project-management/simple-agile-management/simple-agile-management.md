@@ -18,7 +18,7 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 Procedimento
 ------------
 
-*I - Criar um workspace*
+*I - Criar um Workspace*
 
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
