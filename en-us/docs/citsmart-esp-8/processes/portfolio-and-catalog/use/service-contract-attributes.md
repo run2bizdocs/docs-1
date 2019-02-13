@@ -20,7 +20,7 @@ Procedure
 3.  Click on "Advance" in the service to access it. Moreover, it will be
     presented the Service Information screen;
 
-4.  Click on the Contract tab and link a contract;
+4.  Click on the Contract tab and link a contract.
 
 !!! info "Information"
 
