@@ -28,16 +28,16 @@ Procedimento
 3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
     prazos estabelecidos:
 
--   Vencidas: mostra o total dos **Sprints** que tenha a “Data da entrega” menor
+    -   Vencidas: mostra o total dos **Sprints** que tenha a “Data da entrega” menor
     que a data/hora atual;
 
--   A vencer: mostra o total dos **Sprints** que tenha a “Data da entrega” que
+    -   A vencer: mostra o total dos **Sprints** que tenha a “Data da entrega” que
     ficarão vencidas em 24h a partir da data/hora atual;
 
--   No prazo: mostra o total dos **Sprints** que tenha a “Data da entrega” maior
+    -   No prazo: mostra o total dos **Sprints** que tenha a “Data da entrega” maior
     que 24h a partir da data/hora atual;
 
--   Total: soma das **Sprints** que estão dentro do Workspace.
+    -   Total: soma das **Sprints** que estão dentro do Workspace.
 
 
 *II - Criar uma Sprint*
@@ -136,10 +136,10 @@ Figura 1 - Tela Sprint
 
    -   3: mover a lista fisicamente dentro do quadro
 
-   !!! Abstract "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
-       Para movimentar uma tarefa de uma lista para outra, clicar e arrastar a
-       mesma para a lista desejado.
+    Para movimentar uma tarefa de uma lista para outra, clicar e arrastar a
+    mesma para a lista desejado.
 
 *V - Preencher cartão Simple*
 
@@ -156,28 +156,28 @@ dispositivos de controle e gestão.
 
     -   1: adicionar ou retirar membros na tarefa
 
--   2: adicionar listas de ações que serão visualizadas na aba Checklist
+    -   2: adicionar listas de ações que serão visualizadas na aba Checklist
 
--   3: adicionar comentários
+    -   3: adicionar comentários
 
--   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
+    -   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
 
--   5: adicionar tags para identificar visualmente o cartão de tarefa
+    -   5: adicionar tags para identificar visualmente o cartão de tarefa
 
--   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
+    -   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
     comunicação será através do botão de notificações do CITSmart ESP
 
--   7: indicar a finalização da tarefa
+    -   7: indicar a finalização da tarefa
 
--   8: Mover a tarefa para outra Sprint:
+    -   8: Mover a tarefa para outra Sprint:
 
-    -   Sprint do mesmo Workspace: as tags são mantidas, porém os membros são
-        removidos da tarefa
+        -   Sprint do mesmo Workspace: as tags são mantidas, porém os membros são
+            removidos da tarefa
 
-    -   Sprint de outro Workspace: as tags e membros serão removidos da tarefa
+        -   Sprint de outro Workspace: as tags e membros serão removidos da tarefa
 
--   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
+    -   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
     ser reutilizado.
 
 1.  Descrever a tarefa no campo “Descrição”;
@@ -190,20 +190,20 @@ dispositivos de controle e gestão.
 
 5.  As abas disponibilizadas mostram:
 
--   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
+    -   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
     nomear, posicionar o mouse no campo “Adicionar item...”, clicar no botão de
     adicionar “+” para adicionar novo item. Para indicar finalização de um item
-    dentro de um checklist, selecionar o checkbox
+    dentro de um checklist, selecionar o checkbox;
 
--   Comentários: lista os comentários realizados
+    -   Comentários: lista os comentários realizados;
 
--   Anexos: disponibiliza campo para adicionar anexos
+    -   Anexos: disponibiliza campo para adicionar anexos;
 
--   Horas lançadas: relaciona horas lançadas de cada membro participante da
-    tarefa
+    -   Horas lançadas: relaciona horas lançadas de cada membro participante da
+    tarefa;
 
--   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
-    hora
+    -   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
+    hora.
 
 !!! tip "About"
 
