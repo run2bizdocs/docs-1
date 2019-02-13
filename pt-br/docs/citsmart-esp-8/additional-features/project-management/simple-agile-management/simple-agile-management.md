@@ -36,11 +36,11 @@ Procedimento
 
 *II - Criar uma Sprint*
 
-1.  Clicar no workspace criado anteriormente;
+1.  Clicar no Workspace criado anteriormente;
 
 2.  Clicar no botão “Sprint”, nomear e “Salvar”;
 
-3.  Cada sprint conterá em sua tela inicial um contador de tarefas, horas
+3.  Cada Sprint conterá em sua tela inicial um contador de tarefas, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas;
 
@@ -50,21 +50,21 @@ Procedimento
 Figura 1 - Tela Sprint
 
 
--   1: pesquisar sprints com filtros de membros, tags e status da sprint
+-   1: pesquisar Sprints com filtros de membros, tags e status da Sprint
     (concluída e não concluída)
 
--   2: criar nova sprint
+-   2: criar nova Sprint
 
 -   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
     excluir e definir se o membro será administrador ou não
 
--   4: adicionar membros que participarão da sprint
+-   4: adicionar membros que participarão da Sprint
 
--   5: ações de configuração e permissão da sprint
+-   5: ações de configuração e permissão da Sprint
 
 *III - Criar listas*
 
-1.  Dentro de cada sprint são disponibilizadas listas default do sistema: “Para
+1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
     fazer, Em andamento e Concluída”;
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
@@ -72,6 +72,7 @@ Figura 1 - Tela Sprint
     ![tela lista](images/figure-2-simple.png)
     
     Figura 2 - Tela lista
+
 
     -   1: pesquisar tarefas com filtros de membros, tags e status da lista
     (concluída e não concluída)
@@ -95,6 +96,7 @@ Figura 1 - Tela Sprint
     
    Figura 3 - Tela tarefa
 
+
    -   1: criar nova tarefa
 
    -   2: definir em qual estágio a tarefa se encontra.
@@ -117,6 +119,7 @@ dispositivos de controle e gestão.
      ![tela cartão](images/figure-4-simple.png)
     
       Figura 4 - Tela cartão
+
 
     -   1: adicionar ou retirar membros na tarefa
 
