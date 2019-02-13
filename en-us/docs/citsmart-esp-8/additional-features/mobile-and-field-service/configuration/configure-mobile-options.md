@@ -24,7 +24,7 @@ Procedure
 4.  Click on "Save".
 
 
-!!! Abstract "NOTE"
+!!! Abstract "ATTENTION"
 
     In order for the field technician to see tickets only assigned to him/her 
     in the request list, the attendant/manager must set the parameter 435 to "Yes".
