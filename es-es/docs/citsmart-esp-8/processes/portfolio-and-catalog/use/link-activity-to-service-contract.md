@@ -49,7 +49,7 @@ Procedimiento
          solicitudes e incidentes, para el vínculo de un procedimiento al contrato 
          de servicio exitoso, basta seguir las orientaciones descritas en el elemento "Solicitudes".
 
-    !!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"  
         Es imprescindible en todas las actividades narradas arriba, vincular un flujo 
         para esta actividad, de lo contrario no será posible registrar una solicitud de 
         servicio. Para ello, basta en el área "Flujo Servicio", haga clic en botón "Agregar" 
@@ -72,8 +72,8 @@ Procedimiento
          porcentaje del 1 al 100%) y su ciclo de pago.
 
     !!! Abstract "REGLA"  
-        - No se permiten prorrateos diferentes para el mismo ciclo en el mismo
-        servicio/negocio/contrato.  
+        - No se permiten prorrateos diferentes para el mismo ciclo en el mismo 
+          servicio/negocio/contrato.  
         - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
         - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
         configuraciones registradas.  
