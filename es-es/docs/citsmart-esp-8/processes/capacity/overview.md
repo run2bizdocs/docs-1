@@ -24,7 +24,7 @@ Uso
 
 - [Registrar indicadores de capacidad](/es-es/citsmart-esp-8/processes/capacity/use/register-capacity-indicators.html)
 
-- [Importar datos de indicador de capacidad](es-es/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
+- [Importar datos de indicador de capacidad](/es-es/citsmart-esp-8/processes/capacity/use/capacity-indicators-data.html)
 
 !!! tip "About"
 
