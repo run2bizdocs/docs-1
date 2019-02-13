@@ -29,7 +29,7 @@ Procedure
     be also available the possibility of create an incident and from this problem,
     when click on the icon "Register" and complete the data necessary.
     
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"
     
         When link or register the incident and save the problem, it'll be triggered
         a notification in the email and on the screen of the current responsible for the incident.
@@ -37,7 +37,7 @@ Procedure
         captured by its executor, moreover, if is not captured and designated to the
         responsible, there will be no  notification.
         
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"
     
         The notification sending mentioned above is automatic, without the need of
         parametrization.
@@ -55,7 +55,7 @@ Procedure
     when click on the icon of same name. Now, to remove the Service link, just
     click on the icon "Remove" and confirm the operation;
 
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"
         If there's any service related, it's possible to link a new service 
         to the problem, just click on "Related Services" area an then on "Add 
         Service”. Therefore, it's necessary to select the service you want and
