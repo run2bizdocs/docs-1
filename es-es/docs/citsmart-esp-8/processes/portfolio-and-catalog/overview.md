@@ -39,7 +39,7 @@ Configuración
 
 - [Crear calendario](/es-es/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-- [Registrar causa de incidentes](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+- [Registrar causa de incidentes](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 - [Registrar categoría de solución](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
@@ -76,7 +76,7 @@ Informe
 
 - [Crear informes - catálogo de servicios](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
 
-- [Comprobar la auditoría de servicios](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.htmlm)
+- [Comprobar la auditoría de servicios](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/use/service-audit.html)
 
 !!! tip "About"
 
