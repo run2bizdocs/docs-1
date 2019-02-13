@@ -37,17 +37,14 @@ Procedimiento
     de caracteres de la contraseña (valor mínimo de 8) y si la misma contendrá requisitos
     de: letras mayúsculas, minúsculas, números y símbolos;
 
-4.  Establecer la cantidad de contraseñas anteriores en la que la nueva no puede ser
-    igual, en el limitador **La nueva contraseña no puede ser igual que las anteriores**;
+4.  Establecer la cantidad de contraseñas anteriores en la que la nueva no puede ser igual, en el limitador **La nueva contraseña no         puede ser igual que las anteriores**;
 
 5.  Para nuevos usuarios, el cambio de contraseña se puede definir al hacer clic en la clave
     “Forzar el cambio de contraseña la primera vez que se inicie sesión”
 
 6.  En el campo **Duración de la contraseña** definir el tiempo para caducar la contraseña;
 
-7.  Para usuarios que ya están en operación, es posible forzar el cambio de contraseña
-    de la nueva configuración, desde el siguiente inicio de sesión, haga clic en la clave “Forzar
-    el cambio de contraseña la primera vez que se inicie sesión”;
+7.  Para usuarios que ya están en operación, es posible forzar el cambio de contraseña de la nueva configuración, desde el siguiente         inicio de sesión, haga clic en la clave “Forzar el cambio de contraseña la primera vez que se inicie sesión”;
 
 8.  Hacer clic en "Guardar”.
 
