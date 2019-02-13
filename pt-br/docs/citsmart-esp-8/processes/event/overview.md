@@ -45,7 +45,7 @@ Configuração
 
 - [Cadastrar gerente Inventory](/pt-br/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
 
-- [Cadastrar gerente genérico Nagios](/pt-br/site/citsmart-esp-8/processes/event/configuration/register-nagios-generic-manager.html)
+- [Cadastrar gerente genérico Nagios](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-generic-manager.html)
 
 - [Cadastrar gerente Nagios](/pt-br/citsmart-esp-8/processes/event/configuration/register-nagios-manager.html)
 
