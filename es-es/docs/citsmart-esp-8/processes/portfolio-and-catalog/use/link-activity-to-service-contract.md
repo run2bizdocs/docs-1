@@ -76,7 +76,7 @@ Procedimiento
           servicio/negocio/contrato.  
         - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
         - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
-        configuraciones registradas.  
+        configuraciones registradas.  
        
 !!! tip "About"
 
