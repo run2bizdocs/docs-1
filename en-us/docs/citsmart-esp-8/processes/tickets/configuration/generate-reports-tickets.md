@@ -44,7 +44,7 @@ each employee and/or group.
 3.  Click on "Generate PDF" to create the report in PDF and/or click on
     "Generate XLS" to create report in Excel.
 
-    !!! Abstract "Note"
+    !!! Abstract "ATTENTION"
         
         When a person "captures" a request, or click on "save and keep task", the time starts to be counted to this person, because the]
         date, time and user information is stored, stopping only when the request is paused, canceled, completed, or when another person 
@@ -123,7 +123,7 @@ request.
 2.  Set the filters as needed and click on "Search". It will appear the
     requests;
 
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"
 
         The amount of requests listed, by page, is regarding the amount set
         in the parameter "261 - amount of registers returned in the advanced
@@ -205,7 +205,7 @@ to the filters choose by the user.
 
 2.  Set the filters as needed;
 
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"
 
         When the user wants to analysis all requests, setting the value to
         “All” for the filter “Top List”, it can exists difference between the number
