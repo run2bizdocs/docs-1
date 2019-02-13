@@ -7,7 +7,12 @@ A documentação de nossos produtos é realizada utilizando o padrão de liguage
 !!! info "O que é o Markdown?"
     O Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação de documentos em texto simples. Criado por John Gruber em 2004, o Markdown é hoje uma das linguagens de marcação mais populares do mundo.
 
-## Sintax básica
+## Basic Syntax
+
+### Headers
+Structure your comments using headers. Headers segment longer comments, making them easier to read.
+
+Start a line with a hash character # to set a heading. Organize your remarks with subheadings by starting a line with additional hash characters, for example ####. Up to six levels of headings are supported.
 
 Example:
 
