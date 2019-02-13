@@ -1,63 +1,56 @@
 title:  Smart Portal
-Description: O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços
+Description: The Smart Portal is a feature of the solution that makes available the Service Catalog
 #Smart Portal
-O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços (Negócio e Apoio) aos usuários do sistema e permite realizar ações diversas, tais como:  
-•	Abrir um ticket (solicitação de serviço);  
-•	Receber notícias referentes ao Sistema;  
-•	Avaliar a solicitação de serviço;  
-•	Acesso aos conhecimentos referentes ao ticket para esclarecimento de dúvidas.  
+The Smart Portal is a feature of the solution that makes available the Service Catalog (Business and Support) to the system users and allows to make several actions, including:  
+•	Open a ticket (service request);  
+•	Receive news about the System;  
+•	Evaluate service request;  
+•	Access to knowledge about the tickets to clarify the doubts.  
 
-Antes de começar 
+Before getting started 
 -----------------
 
-É necessário o cadastro prévio do contrato, a definição do tempo de atendimento
-das atividades de requisição/incidente. É imprescindível também ter o portfolio
-com os serviços e as atividades de requisição/incidente cadastrados e
-disponibilizados no Smart Portal.
+It's necessary to have registered the contract, the definition of the time of 
+attendance for the request/incident activities. It's also necessary to have registered,
+in the Smart Portal, the portfolio with services and activities of request and incident.
 
-Procedimento 
+Procedure 
 -------------
 
-1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Portfólio e Catálogo \> Smart Portal;
+1.  Access the main menu Processes \> Portfolio and
+    Catalog Management \> Smart Portal;
 
-2.  Escolher o portfolio desejado e clicar sobre o mesmo. Será apresentado
-    diversas ações que podem ser executadas em cada uma das abas desta tela. São
-    elas:
+2.  Choose a portfolio and click on it. It'll be presented several actions that
+    can be executed in each one of the tabs of this screen. They are:
 
-    -   **Serviços**: Nesta aba será expostos as atividades registradas neste
-    portfolio. Ao selecionar e clicar sobre a atividade pretendida, será
-    possível registrar a solicitação de serviço (ticket) referente ao cenário
-    encontrado, também é viável observar os conhecimentos referente ao ticket ao
-    clicar na aba de mesmo nome, analisar as avaliações dos usuários referente
-    as solicitações disponibilizadas ao clicar na aba “Avaliações” e ter acesso
-    as notícias referente a solicitação em questão ao apertar a aba “Campanhas
-    ativas”;
+    -   **Service**: In this tab it's presented the activities registered in this
+    portfolio. When select and click on an activity, it'll be possible to register
+    the service request (ticket) about the scenary found; observe the knowledge
+    about the ticket when click on the tab of same name; analyze the users evaluation
+    about the request available when click on the tab "Evaluations" and have access
+    to news about the request when click on the tab "Active Campaigns";
 
-    !!! Abstract "NOTAS"  
+    !!! Abstract "NOTES"  
 
-        Os conhecimentos diponivéis na aba “Conhecimentos” do item “Serviço” podem ser
-        definidos em dois níveis:
+        The knowledge avilable in the tab "Knowldege" of the "Service" item can be defined
+        in two levels:
 
-        -   Os conhecimentos que foram vinculados ao portfolio que estarão dispostos no 
-        item “Relacionados ao Serviço”;
+        -   The knowledge linked to the portfolio that will be presented in the item 
+        "Service Related”;
 
-        -   Os conhecimentos que foram associados ao ticket ( adicionados quando o
-        responsável pelo atendimento deste vinculou um artigo para difundir o 
-        conhecimento da solução do mesmo) ordenados no item “Relacionados a 
-        Requisição/Incidente.  
+        -   The knowledge that was associated to the ticket (added when the responsible for
+        its attendance linked an article to spread the knowledge about the solution) ordened 
+        in the item "Related to the Request/Incident".  
 
-    -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
-    vinculados ao portfolio;
+    -   **Knowledge**: When click on the tab, it'll be presented the knowledge linked 
+    to the portfolio;
 
-    -   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
-    informações) referente ao portfolio em questão.
+    -   **Active Campaigns**: This tab presents the questionnaires (colection of information)
+    about the portfolio in question.
 
-3.  Ao clicar no ícone “Menu”, será exibido atalhos a algumas ações. É permitido
-    visualizar as solicitação abertas pelo usuário ao apertar no ícone “Minhas
-    solicitações”, visualizar as aprovações do ticket efetuadas pelo usuário,
-    observar as notícias e campanhas ativas (questionários) referente a
-    organização como um todo.  
+3.  When click on the icon "Menu", it'll be presented shortcuts to some actions. It's allowed to
+    view the requests created by the user when click on the icon "My Requests", view ticket 
+    approvals made by the user, observe news and active campaigns (questionnaires) about the organization.  
     
 !!! tip "About"  
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
