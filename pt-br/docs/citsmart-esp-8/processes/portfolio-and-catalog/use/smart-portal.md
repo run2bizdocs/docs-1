@@ -25,7 +25,7 @@ Procedimento
     diversas ações que podem ser executadas em cada uma das abas desta tela. São
     elas:
 
--   **Serviços**: Nesta aba será expostos as atividades registradas neste
+    -   **Serviços**: Nesta aba será expostos as atividades registradas neste
     portfolio. Ao selecionar e clicar sobre a atividade pretendida, será
     possível registrar a solicitação de serviço (ticket) referente ao cenário
     encontrado, também é viável observar os conhecimentos referente ao ticket ao
@@ -47,10 +47,10 @@ Procedimento
         conhecimento da solução do mesmo) ordenados no item “Relacionados a 
         Requisição/Incidente.  
 
--   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
+    -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
     vinculados ao portfolio;
 
--   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
+    -   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
     informações) referente ao portfolio em questão.
 
 3.  Ao clicar no ícone “Menu”, será exibido atalhos a algumas ações. É permitido
@@ -59,8 +59,7 @@ Procedimento
     observar as notícias e campanhas ativas (questionários) referente a
     organização como um todo.  
     
- !!! tip "About"
-
+!!! tip "About"  
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>02/13/2019 – Larissa Lourenço
+    <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    
