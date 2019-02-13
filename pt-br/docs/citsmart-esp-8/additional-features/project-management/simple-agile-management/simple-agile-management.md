@@ -82,17 +82,17 @@ Procedimento
 Figura 1 - Tela Sprint
 
 
--   1: pesquisar Sprints com filtros de membros, tags e status da Sprint
+   -   1: pesquisar Sprints com filtros de membros, tags e status da Sprint
     (concluída e não concluída)
 
--   2: criar nova Sprint
+   -   2: criar nova Sprint
 
--   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
+   -   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
     excluir e definir se o membro será administrador ou não
 
--   4: adicionar membros que participarão da Sprint
+   -   4: adicionar membros que participarão da Sprint
 
--   5: ações de configuração e permissão da Sprint
+   -   5: ações de configuração e permissão da Sprint
 
 
 *III - Criar listas*
