@@ -17,28 +17,28 @@ correo electrónico de notificación en el parámetro 251.
 Procedimiento
 -------------
 
-1-  Acceder al menú principal del Smart Portal, hacer clic en el botón “Menu” y
+1.  Acceder al menú principal del Smart Portal, hacer clic en el botón “Menu” y
     luego hacer click en "Mis Solicitudes";
 
-2-  Para cambiar mensajes con el asistente de la solicutud, basta hacer clic en
+2.  Para cambiar mensajes con el asistente de la solicutud, basta hacer clic en
     el icono “Mensaje al asistente”. El Asistente recibirá el comunicado en el
     área de trabajo del ticket, donde va registrar la respuesta de la Nota. Esta
     respuesta estará disponible al hacer clic de nuevo en este mismo icono.
 
-!!! Abstract "AVISO"
+    !!! Abstract "AVISO"
 
-    Para el correcto funcionamiento de esta aplicación, es necesario que los
-    parámetros 299 y 300 (referentes al Smart Portal) estén establecidos en
-    "S".
+        Para el correcto funcionamiento de esta aplicación, es necesario que los
+        parámetros 299 y 300 (referentes al Smart Portal) estén establecidos en
+        "S".
 
-3-  Para comentar la solicitud o relatar alguna ocurrencia sobre ella, hacer
+3.  Para comentar la solicitud o relatar alguna ocurrencia sobre ella, hacer
     clic en el icono “Añadir nota”. El asistente recibirá el comunicado en el
     área de trabajo del ticket, donde podrá dirigir cualquier cuestión
     relacionada con la solicitud.
 
-4-  Para ver el historial de la solicitud, haga clic en el icono “Historial”;
+4.  Para ver el historial de la solicitud, haga clic en el icono “Historial”;
 
-5-  Por esta interfaz, también es posible visualizar la descripción, los
+5.  Por esta interfaz, también es posible visualizar la descripción, los
     eventuales archivos adjuntos a la solicitud, entre otras acciones.
 
 Relacionado

@@ -12,47 +12,47 @@ Antes de começar
 2.  No ambiente - instância do CITSmart -, configurar as seguintes
     funcionalidades:
 
--   Webservice: indicar no item "permissões" os grupos de atendimento que poderão visualizar os tickets;
+    -   Webservice: indicar no item "permissões" os grupos de atendimento que poderão visualizar os tickets;
 
--   Unidade: obter as coordenadas da unidade cadastrada.
+    -   Unidade: obter as coordenadas da unidade cadastrada.
 
 Procedimento
 ------------
 
 *Webservice*
 
-1- Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
+1. Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
     Operação Webservice;
 
-2-  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
+2.  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
     abaixo, em seguida em cada um clicar no botão "Adicionar grupo" e incluir
     o(s) grupo(s) que o(s) atendente(s) estão vinculados:
 
--   request_add_attachments
+    -   request_add_attachments
 
--   request_updateRequestList
+    -   request_updateRequestList
 
--   request_userLocation
+    -   request_userLocation
 
--   request_saveRequest
+    -   request_saveRequest
 
--   request_uploadAttachment
+    -   request_uploadAttachment
 
--   request_getByUser
+    -   request_getByUser
 
-3-.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
+3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
 *Unidade*
 
-1-  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
+1.  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
     Gerência de Pessoal \> Unidade:
 
-2-  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida:
+2.  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida:
 
-3-  Na aba Cadastro de Unidade com a unidade já escolhida, clicar no botão
+3.  Na aba Cadastro de Unidade com a unidade já escolhida, clicar no botão
     "Obter Coordenadas"
 
-4-  Clicar em "Gravar".
+4.  Clicar em "Gravar".
 
 O que fazer a seguir
 --------------------

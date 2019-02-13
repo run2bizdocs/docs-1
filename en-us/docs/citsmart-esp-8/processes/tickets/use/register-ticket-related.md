@@ -1,7 +1,5 @@
 title: Register ticket related
-
 Description: This functionality allows to register a ticket with activities related to the original ticket.
-
 #Register ticket related
 This functionality allows to register a ticket with activities related to the original ticket.
 
@@ -34,6 +32,19 @@ Procedure
 4.  Note that the system will send notification e-mail about the creation,
     escalation, capture, close and other changes in the related tickets to the
     executor group of the main ticket.
+    
+5.  To search for tickets related, it'll be necessary to select the filter "Display related" in ,
+    the search area in the main screen of the functionality.
+    
+!!! Abstract "ATTENTION"
+    
+    The tickets related for not having own flow, it'll be automatically closed,
+    as well as the closure of the ticket origin.
+    
+!!! Abstract "ATTENTION"
+
+    Regardless of whether the parent ticket is reopened or remains closed, its 
+    related tickets cannot be reopened, since they do not have their own flow.
 
 Related
 -----------

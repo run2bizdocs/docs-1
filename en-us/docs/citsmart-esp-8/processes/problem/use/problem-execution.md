@@ -19,18 +19,27 @@ Procedure
     confirm the assignment of a task to your user;
 
 3.  In the "Diagnosis" area, for a better understanding and investigation of the
-    problem, you can perform the following activities:
+problem, you can perform the following activities:
 
-    -   Create a Kanban or link an existing one. To create a new Kanban,
-     you need to click on "+ Workspace" and complete the data available,
-     such as title, select the users responsible for the execution of the
-     problem, and others. To link a Kanban already created, just click on
-     the other icon, related to the Workspace.
+    -   Create a Kanban or link an existing one. To create a new Kanban, 
+    you need to click on "+ Workspace" and complete the data available, 
+    such as title, select the users responsible for the execution of the 
+    problem, and others. To link a Kanban already created, just click on 
+    the other icon, related to the Workspace.
 
     -   Register any known error in order to enable the evaluation by the
     responsible team, and the diffusion of your solution for the ones interested.
     Therefore, it's necessary in the "Known Error" tab, click on "Add
     Workaroung” and describe the relevant information;
+    
+    !!! Abstract "NOTE"
+    
+        It's possible to register more of a solution to the item "Workaround".
+        
+    !!! Abstract "NOTE"
+    
+        The workaround registered here can be viewed in the "Ticket" screen when
+        link the problem to the ticket.
 
     -   In the "Attachments" tab, it's possible to upload the files you want;
 
@@ -43,9 +52,9 @@ Procedure
     -   Create a Kanban, with the information mentioned above;
 
     -  It's possible to create a new change relate to the problem solution by
-    click on "Register Change" (available in the tab "Change”) and
-    complete the field necessary, or even link to the problem, a change
-    already registered, when clicking on the search field and selec the change
+    click on "Register Change" (available in the tab "Change”) and 
+    complete the field necessary, or even link to the problem, a change 
+    already registered, when clicking on the search field and select the change
     you want;
 
     -   It's also possible to attach files and register notes in this fase of
@@ -78,7 +87,7 @@ Procedure
 Relacionado
 ------------
  
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+[Register problem](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 

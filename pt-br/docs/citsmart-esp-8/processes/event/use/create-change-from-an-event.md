@@ -1,7 +1,7 @@
-title: Criar uma requisição de mudança a partir de um evento
-Description: Tem por objetivo criar uma requisição de mudança em um evento.
-#Criar uma requisição de mudança a partir de um evento
-Esta funcionalidade tem por objetivo criar uma requisição de mudança em um evento.
+title: Criar uma mudança a partir de um evento
+Description: Tem por objetivo criar uma mudança em um evento.
+#Criar uma mudança a partir de um evento
+Esta funcionalidade tem por objetivo criar uma mudança em um evento.
 
 Antes de começar
 --------------------

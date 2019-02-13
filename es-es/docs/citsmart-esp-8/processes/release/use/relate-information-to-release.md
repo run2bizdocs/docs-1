@@ -1,6 +1,6 @@
-title:  Relacionar información a la solicitud de liberación 
+title:  Relacionar información a la liberación 
 Description: Es posible vincular a la Liberación una serie de informaciones.
-#Relacionar información a la solicitud de liberación
+#Relacionar información a la liberación
 Es posible vincular a la Liberación una serie de informaciones, tales como: cambio, proyecto, EC, entre otros, con el fin de solidificar y basar la ejecución del proceso.
 
 Antes de empezar
@@ -15,7 +15,7 @@ Procedimiento
 
 1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Para informar los datos complementarios de la solicitud de liberación,
+2.  Para informar los datos complementarios de la liberación, 
     marque la opción de captura o visualización de la solicitud;
 
 3.  Para ver información sobre campos específicos, hacer clic en las
@@ -46,11 +46,11 @@ Procedimiento
     deseado. Si desea registrar un nuevo artículo, hacer clic en el botón
     "Registrar" y completar los datos;
 
-9.  Para vincular **Solicitud de compras**, hacer clic en el área del mismo
+9.  Para vincular **Ticket**, hacer clic en el área del mismo
     nombre y, a continuación, hacer clic en el campo de búsqueda y seleccionar
-    la solicitud deseada. Recordando que se expondrán todas las solicitudes ya
-    registradas, siendo necesario, por lo tanto, seleccionar la solicitud de
-    compra registrada anteriormente.
+    el ticket deseado. Recordando que se expondrán todas los tickets ya
+    registrados, siendo necesario, por lo tanto, seleccionar el ticket 
+    registrado anteriormente.
 
 10. Hacer clic en el botón de opciones y, a continuación, "Guardar".
 

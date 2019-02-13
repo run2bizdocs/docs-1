@@ -5,7 +5,7 @@ Description: Quando se produz um conjunto de itens de aplicação através do Ne
 Quando se produz um conjunto de itens de aplicação através do Neuro, é possível que esse conjunto seja aglomerado em um pacote que pode ser importado/exportado entre ambientes do Neuro.    
 
 ##COMO ACESSAR  
-1- Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Pacote.    
+1- Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Pacote.    
 
 ##PRÉ-CONDIÇÕES    
 1- Não se aplica.    

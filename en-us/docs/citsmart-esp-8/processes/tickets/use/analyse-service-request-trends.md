@@ -28,15 +28,15 @@ Procedure
     for Create Problem, where the problem registration screen will be
     displayed to save the necessary information of the problem:
 
--   When you choose to register a problem from the **Service**, the problem
+    -   When you choose to register a problem from the **Service**, the problem
     registration screen will be displayed with the "Description" field completed
     with the name of the corresponding service;
 
--   When you choose to register a problem from the **Cause**, the problem
+    -   When you choose to register a problem from the **Cause**, the problem
     registration screen will be displayed with the fields "Description" and
     "Cause" completed with the description of the corresponding cause;
 
--   When you choose to register a problem from the **Configuration Item**, the
+    -   When you choose to register a problem from the **Configuration Item**, the
     problem registration screen will be displayed with the "Description" field
     completed with information from the corresponding configuration item.
 
@@ -48,7 +48,7 @@ Related
 
 [Create ticket](/en-us/citsmart-esp-8/processes/tickets/use/create-ticket.html)
 
-Register problem
+[Register problem](/en-us/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

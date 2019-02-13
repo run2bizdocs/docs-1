@@ -1,15 +1,15 @@
-title:  Registrar solicitud de liberación 
-Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una solicitud de liberación.
-#Registrar solicitud de liberación
+title:  Registrar liberación 
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una liberación.
+#Registrar liberación
 Según ITIL, la liberación es "uno o más cambios en un servicio de TI que se construyen, prueban e implementan de forma conjunta. Una sola liberación puede incluir cambios en el hardware, software, documentación, procesos y otros componentes".
-Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una solicitud de liberación.
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una liberación.
 
 Antes de empezar
 ----------------
 
-La solicitud de liberación es parte del proceso de cambio, por lo que es
+La liberación es parte del proceso de cambio, por lo que es
 necesario tener una SDC (solicitud de cambio) registrada. Para registrar una
-solicitud de liberación, es necesario registrar previamente el portafolio de
+liberación, es necesario registrar previamente el portafolio de
 liberación, colaborador, contrato, unidad que debe estar vinculada al contrato,
 el grupo ejecutor y este estar vinculado al contrato, el tipo de liberación y el
 grupo de actividad periódica.
@@ -43,7 +43,7 @@ Relacionado
 
 [Registrar grupo de activiad periódica](/es-es/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Relacionar información a la solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relacionar información a la liberación](/es-es/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 

@@ -2,7 +2,7 @@ title: Cadastrar as ocorrências do problema
 Description: Permite cadastrar eventuais ocorrências referentes ao problema
 #Cadastrar as ocorrências do problema
 
-Esta funcionalidade permite cadastrar as eventuais ocorrências referentes ao problema
+Esta funcionalidade permite cadastrar as eventuais ocorrências referentes ao problema.
 
 Procedimento
 ------------

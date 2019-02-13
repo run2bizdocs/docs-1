@@ -1,6 +1,6 @@
-title: Registrar evaluación de riesgo de la continuidade
+title: Registrar evaluación de riesgo de la continuidad
 Description: Permite registrar la evaluación de riesgo.
-#Registrar evaluación de riesgo de la continuidade
+#Registrar evaluación de riesgo de la continuidad
 El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar la evaluación de riesgo.
 
 Antes de empezar
@@ -79,7 +79,7 @@ Relacionado
 
 [Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 

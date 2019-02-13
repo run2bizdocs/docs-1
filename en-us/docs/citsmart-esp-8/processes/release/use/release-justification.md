@@ -1,7 +1,7 @@
 title: Register release justification
-Description: This functionality registers the release request justification that will be used in other system routines. 
+Description: This functionality registers the release justification that will be used in other system routines. 
 #Register release justification
-This functionality registers the release request justification that will be used in other system routines.
+This functionality registers the release justification that will be used in other system routines.
 
 Procedure
 -------------

@@ -6,34 +6,34 @@ Description: Orientar y sugerir las mejores maneras de realizar búsquedas dentr
 Este conocimiento tiene por objetivo orientar y sugerir las mejores maneras de
 realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario
 
-1-  Conectores entre términos (operador lógico booleano):
+1.  Conectores entre términos (operador lógico booleano):
 
--   AND (+): es posible realizar búsqueda con más de una palabra priorizando una
+    -   AND (+): es posible realizar búsqueda con más de una palabra priorizando una
     de ellas en el resultado. Añada la señal positiva "+" delante de la palabra
     que será priorizada, por ejemplo: ticket + delegar;
 
--   NOT (-): es posible refinar (reducir) el resultado incluyendo palabras a
+    -   NOT (-): es posible refinar (reducir) el resultado incluyendo palabras a
     retirar de la lista resultante. Ej.: Solicitud -Incidente.
 
-2-  Variar la forma de escribir la palabra, por ejemplo:
+2.  Variar la forma de escribir la palabra, por ejemplo:
 
--   Solicitar
+    -   Solicitar
 
--   Solicitud
+    -   Solicitud
 
--   Puede buscar por una parte de la palabra: Solici
+    -   Puede buscar por una parte de la palabra: Solici
 
-3-  Utilizar sinónimos:
+3.  Utilizar sinónimos:
 
--   Buscar
+    -   Buscar
 
--   Investigar
+    -   Investigar
 
-4-  Buscar por frase exacta:
+4.  Buscar por frase exacta:
 
--   Colocar la frase deseada entre comillas dobles, ej. "Cómo delegar un ticket"
+    -   Colocar la frase deseada entre comillas dobles, ej. "Cómo delegar un ticket"
 
-5-  Navegue por las carpetas y haga clic en la carpeta del asunto deseado.
+5.  Navegue por las carpetas y haga clic en la carpeta del asunto deseado.
 
 
 Relacionado

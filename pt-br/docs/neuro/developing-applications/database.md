@@ -7,7 +7,7 @@ Através dessa tela é realizado o cadastro dos bancos de dados que são utiliza
 
 ##COMO ACESSAR    
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Banco de dados.    
+1- Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Banco de dados.    
 
 ##PRÉ-CONDIÇÕES  
 
@@ -47,7 +47,8 @@ Figura 4 - Tela de cadastro de banco de dados
 
 4- Informe o tipo do banco de dados, o caminho do driver e selecione os tipos de dado (Tipo de dado) que são aceitos pelo banco de dados cadastrado.    
 5- Os tipos de banco de dados são pré-cadastrados na aplicação. 
+
 6- Clique em Salvar para criar o banco de dados. Clique em Pesquisar para voltar para a tela anterior.    
 
 !!! tip "About"
-    <b>Updated:</b>17/01/2019 - João Pelles Junior
+    <b>Updated:</b>07/02/2019 - João Pelles Junior

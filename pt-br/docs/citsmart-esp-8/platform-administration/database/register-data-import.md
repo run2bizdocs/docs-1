@@ -17,15 +17,15 @@ programação e banco de dados, além de ter uma conexão externa cadastrada.
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade através da navegação no menu principal Sistema \>
+1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
     Importação e Carga de Dados \> Importação de Dados;
 
-2-  Dependendo da forma de importação escolhida no campo Importar por, serão
+2.  Dependendo da forma de importação escolhida no campo Importar por, serão
     disponibilizados campos diferentes;
 
-3-  Clicar no botão "Executar Rotina" para execução da importação de dados;
+3.  Clicar no botão "Executar Rotina" para execução da importação de dados;
 
-4-  Clicar no botão "Gravar".
+4.  Clicar no botão "Gravar".
 
 
 Relacionado

@@ -6,7 +6,7 @@ Description:Quando for necessária a criação de relatórios nas aplicações c
 Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.    
 
 ##COMO ACESSAR  
-1- Acesse a funcionalidade através da navegação no menu Neuro → Recursos → Upload de relatório.   
+1- Acesse a funcionalidade através da navegação no menu Neuro > Recursos > Upload de relatório.   
 
 ##PRÉ-CONDIÇÕES    
 1- Não se aplica.    

@@ -25,9 +25,9 @@ Use
 
 - [Execute release](/en-us/citsmart-esp-8/processes/release/use/execute-release.html)
 
-- [Register release request](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
+- [Register release](/en-us/citsmart-esp-8/processes/release/use/register-release-request.html)
 
-- [Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+- [Relate information to the release](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
    
 - [Release request desktop](/en-us/citsmart-esp-8/processes/release/use/release-desktop.html)
    

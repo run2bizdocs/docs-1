@@ -1,6 +1,6 @@
-title: Calendario de pruebas de la continuidade
+title: Calendario de pruebas de la continuidad
 Description: Permite ver los eventos de prueba de la continuidad del servicio. 
-#Calendario de pruebas de la continuidade
+#Calendario de pruebas de la continuidad
 El Registro de Continuidad es un proceso que pasa por varias fases. La cuarta fase de este proceso es la Operación Continua, donde se va definir la Conciencia (eduación y formación) de la continuidad, Revisión y Auditoría de la continuidad, Pruebas de la continuidad y la Invocación. Esta funcionalidad permite ver los eventos de prueba de la continuidad del servicio.
 
 Antes de empezar
@@ -84,7 +84,7 @@ Relacionado
 
 [Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 

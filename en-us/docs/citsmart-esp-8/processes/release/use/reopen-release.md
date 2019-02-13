@@ -1,12 +1,12 @@
 title: Reopen release registration
-Description: Allows to reopen the release requests of changes.
+Description: Allows to reopen the release of changes.
 #Reopen release registration
-This functionality allows to reopen the release requests of changes.
+This functionality allows to reopen the release of changes.
 
 Before getting started
 --------------------------
 
-It's necessary to have permission to reopen the release request.
+It's necessary to have permission to reopen the release.
 
 Procedure
 -------------
@@ -19,17 +19,16 @@ Procedure
 
 3.  Click on "Advanced Search";
 
-4.  Complete the fields available and search for the release request you want to
+4.  Complete the fields available and search for the release you want to 
     reopen;
 
-5.  After the search, click on the reopening icon “Reopen Ticket/Task” of the
-    release request and confirm the operation.
+5.  After the search, click on the reopening icon “Reopen Ticket/Task” of the 
+    release and confirm the operation.
 
 What to do next
 -------------------
 
-Verify if the request is with the status "Reopened" in the list of the release
-request.
+Verify if the request is with the status "Reopened" in the list of the release.
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 

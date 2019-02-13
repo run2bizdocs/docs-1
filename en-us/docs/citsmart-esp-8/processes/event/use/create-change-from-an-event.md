@@ -1,7 +1,7 @@
-title: Create request for change from an event
-Description:Is intended to create a request for change from an event.
-#Create request for change from an event
-This functionality is intended to create a request for change from an event.
+title: Create a change from an event
+Description:Is intended to create a change from an event.
+#Create a change from an event
+This functionality is intended to create a change from an event.
 
 Before getting started
 --------------------------

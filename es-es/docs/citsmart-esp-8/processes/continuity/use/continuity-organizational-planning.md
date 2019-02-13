@@ -1,6 +1,6 @@
-title:  Registra la planificación organizacional de la continuidade
+title:  Registra la planificación organizacional de la continuidad
 Description: Permite registrar la Planificación Organizacional.
-#Registra la planificación organizacional de la continuidade
+#Registra la planificación organizacional de la continuidad
 El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registrar la Planificación Organizacional.
 
 Antes de empezar
@@ -64,7 +64,7 @@ Relacionado
 
 [Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 

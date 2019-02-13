@@ -1,7 +1,7 @@
-title: Criar uma requisição de problema a partir de um evento
-Description: Tem por objetivo criar uma requisição de problema em um evento.
-#Criar uma requisição de problema a partir de um evento
-Esta funcionalidade tem por objetivo criar uma requisição de problema em um evento.
+title: Criar um problema a partir de um evento
+Description: Tem por objetivo criar um problema em um evento.
+#Criar um problema a partir de um evento
+Esta funcionalidade tem por objetivo criar um problema em um evento.
 
 Antes de começar
 --------------------

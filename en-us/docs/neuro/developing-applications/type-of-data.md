@@ -7,15 +7,15 @@ This field is selected when you create a new attribute for a business object. Mo
 
 ##HOW TO ACCESS  
 
-1- Access the feature by navigating the menu **Neuro → Configuration → Data type.**    
+1. Access the feature by navigating the menu Neuro > Configuration > Data type.    
 
 ##PRECONDITIONS
 
-1- Not applicable  
+1. Not applicable  
  
 ##FILTERS  
 
-1- The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
+1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
 - Keyword  
 
@@ -24,31 +24,31 @@ Figure 1 - Data type search screen
 
 ##ITEMS LIST  
 
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description** and **Component**.  
+1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description** and **Component**.  
 
 ![Screenshot](images/Data-type-fig02.png)   
 Figure 2 - Data type list screen  
 
 ##FILLING IN THE REGISTRATION FIELDS  
 
-1- To register a new data type, click New, as shown in the figure bellow:  
+1. To register a new data type, click New, as shown in the figure bellow:  
 
-![Screenshot](images/Data-type-fig03.png)     
-Figure 3 - Data type home screen  
+    ![Screenshot](images/Data-type-fig03.png)     
+    Figure 3 - Data type home screen  
 
-2- On this screen the user is also allowed other actions. They are:  
+2. On this screen the user is also allowed other actions. They are:  
 
-- To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
-- To view an item, select the item and click View.  
-- To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+    - To edit a created item, select the desired item, click Edit, make the changes, and click Save.  
+    - To view an item, select the item and click View.  
+    - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
-3- When you click Next, the following screen will appear:  
+3. When you click Next, the following screen will appear:  
 
-![Screenshot](images/Data-type-fig04.png)  
-Figure 4 - Data type register screen
+    ![Screenshot](images/Data-type-fig04.png)  
+    Figure 4 - Data type register screen
 
-4- Fill in the fields;  
-5- Click Save to store the file. Click Search to return to the previous screen.  
+4. Fill in the fields;  
+5. Click Save to store the file. Click Search to return to the previous screen.  
 
 
 

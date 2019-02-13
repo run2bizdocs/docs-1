@@ -6,19 +6,19 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
 !!! Abstract "ATTENTION"
 
-    The folder is a physical grouper of the files on the server, for organization purposes. The configured folder does not interfere  with system operation.
+    The folder is a physical grouper of the files on the server, for organization purposes. The configured folder does not interfere         with system operation.
 
 ##HOW TO ACCESS  
 
-1-  Access the feature by navigating the menu **Neuro → Resources → CSS**.  
+1.  Access the feature by navigating the menu Neuro > Resources > CSS.  
 
 ##PRECONDITIONS  
 
-1-  Not applicable
+1.  Not applicable
 
 ##FILTERS  
 
-1-  The following filter enables the user to restrict the participation of items
+1.  The following filter enables the user to restrict the participation of items
     in the standard feature listing, making it easier to find the desired items:  
 
  - Keyword   
@@ -27,30 +27,33 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
 **Figure 1 - CSS Search Screen**  
 
-##ITEMS LIST  
-1- The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description and Version.    
+##ITEMS LIST
+
+1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description and Version.    
 
 ![Screenshot](images/CSS-Item-List.png)   
 Figure 2 - CSS listing screen  
 
-##FILLING IN THE REGISTRATION FIELDS  
-1- To register a new CSS file, click New as shown in the figure below:  
+##FILLING IN THE REGISTRATION FIELDS
 
-![Screenshot](images/CSS-Filling.png)  
-Figure 3 - CSS home screen  
+1. To register a new CSS file, click New as shown in the figure below:  
 
-2- On this screen the user is also allowed other actions. They are:  
- - To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and click Save.  
- - To view an item, select the item and click View.  
- - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
+    ![Screenshot](images/CSS-Filling.png)  
+    Figure 3 - CSS home screen  
 
- 3- When you click Next, the following screen will appear:  
+2. On this screen the user is also allowed other actions. They are:  
  
-![Screenshot](images/CSS-registration.png)   
-Figure 4 - CSS registration screen  
+     - To edit a created item, select the desired item, click Edit (the current version or the previous version), make the changes, and      click Save.  
+     - To view an item, select the item and click View.  
+     - To remove a created item, select the item you want, click Remove, and confirm the deletion.  
 
-4- Enter a description, the path of the CSS folder and upload the file. The fields name and version are auto-incremented by the system.  
-5- Click Save to store the image. Click Search to return to the previous screen.  
+3. When you click Next, the following screen will appear:  
+ 
+    ![Screenshot](images/CSS-registration.png)   
+    Figure 4 - CSS registration screen  
+
+4. Enter a description, the path of the CSS folder and upload the file. The fields name and version are auto-incremented by the system.  
+5. Click Save to store the image. Click Search to return to the previous screen.  
 
 
 !!! tip "About"

@@ -6,7 +6,7 @@ Nesta página são mantidos os formulários criados através do Neuro.
 Os formulários podem ser criados manualmente, ou gerados através do Objeto de negócio.    
 
 ##COMO ACESSAR  
-1- Acesse a funcionalidade através do menu Neuro → Gerenciamento → Formulário.   
+1- Acesse a funcionalidade através do menu Neuro > Gerenciamento > Formulário.   
 
 ##PRÉ-CONDIÇÕES    
 1- Não se aplica.    

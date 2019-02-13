@@ -89,7 +89,7 @@ Relacionado
 
 [Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-esp-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
 

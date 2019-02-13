@@ -42,8 +42,6 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-Cadastrar categoria de problema
-
 [Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 !!! tip "About"

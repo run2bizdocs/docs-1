@@ -1,14 +1,14 @@
-title: Register release request
-Description: This functionality makes available several actions, like, include, change and delete a release request. 
-#Register release request
+title: Register release
+Description: This functionality makes available several actions, like, include, change and delete a release. 
+#Register release
 According to ITIL, release is "one or more changes to an IT service that are built, tested and deployed together. A single release may include changes to hardware, software, documentation, processes and other components".
-This functionality makes available several actions, like, include, change and delete a release request.
+This functionality makes available several actions, like, include, change and delete a release.
 
 Before getting started
 --------------------------
 
-The Release Request is part of the Change process, so it is necessary to have a
-registered RFC (request for change). To register a release request, it's
+The Release is part of the Change process, so it is necessary to have a
+registered RFC (request for change). To register a release, it's
 necessary to have previously registered the release portfolio, the employee,
 contract, unit linked to the contract, executor group linked to the contract,
 type of release and periodic activity group.
@@ -38,7 +38,7 @@ Related
 
 [Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-[Relate information to the release request](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
+[Relate information to the release](/en-us/citsmart-esp-8/processes/release/use/relate-information-to-release.html)
 
 [Register periodic activity group](/en-us/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 

@@ -6,7 +6,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 ##COMO ACESSAR  
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Fluxo ESI.  
+1- Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Fluxo ESI.  
 
 ##PRÉ-CONDIÇÕES  
 

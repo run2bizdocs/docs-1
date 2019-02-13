@@ -67,7 +67,7 @@ Relacionado
 
 [Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 

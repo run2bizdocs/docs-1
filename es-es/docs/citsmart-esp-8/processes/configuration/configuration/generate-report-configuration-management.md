@@ -24,8 +24,8 @@ inválidas y duplicadas de los medios.
 Generar informe de cambio/elemento de configuración
 -------------------------------------------------------
 
-Este informe tiene el objetivo de proporcionar la información de las diferentes
-solicitudes de cambio relacionadas con el mismo elemento de configuración.
+Este informe tiene el objetivo de proporcionar la información de los diferentes
+cambios relacionados con el mismo elemento de configuración.
 
 1.  Acceder al menú principal Informes \> Gestión de la Configuración \>
     Cambio/Elemento Configuración;

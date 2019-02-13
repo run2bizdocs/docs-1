@@ -16,8 +16,7 @@ Before getting started
 ----------------------
 To register the change automatic actions, it's necessary to previously register
 the unit, requester (employee), contract linked to the employee and unit; the
-Change Advisory Board (group), type of change being linked to the flow about the
-request for change; configure the parameters 47, 279 and 280 about the change.
+Change Advisory Board (group) and configure the parameters 47, 279 and 280 about the change.
 
 Procedure
 ---------
@@ -38,11 +37,9 @@ Related
 
 [Register employee](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-employee.html)
 
-Register type of change
-
 [Register unit](/en-us/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Workflow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 [Configure parametrization - change](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 

@@ -2,8 +2,11 @@ title: Cadastrar um serviço
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
 #Cadastrar um serviço
 O cadastro de serviços é dividido em dois tipos:
+
 •	Negócio: provê os serviços de negócios/TI;
+
 •	Apoio: provê os serviços de apoio/técnico.
+
 A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato” são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
 

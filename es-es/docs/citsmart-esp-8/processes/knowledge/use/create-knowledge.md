@@ -13,22 +13,22 @@ mejor organización. Así es más fácil su ubicación al hacer una búsqueda.
 Procedimiento
 -------------
 
-1-  Acceder al menú principal Procesos \> Gestión del Conocimiento \>
+1.  Acceder al menú principal Procesos \> Gestión del Conocimiento \>
     Conocimiento de Conocimiento;
 
-2-  Hacer clic en "Opciones", ubicado en la esquina inferior derecha, y después
+2.  Hacer clic en "Opciones", ubicado en la esquina inferior derecha, y después
     en "Añadir nuevos conocimientos";
 
-3-  Introduzca los datos de registro;
+3.  Introduzca los datos de registro;
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
-    corre el riesgo de disponibilizar documentos de forma inadecuada. En este
-    escenario, se detiene la configuración de perfil de acceso y libera el
-    acceso del documento a todos los usuarios.
+        Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
+        corre el riesgo de disponibilizar documentos de forma inadecuada. En este
+        escenario, se detiene la configuración de perfil de acceso y libera el
+        acceso del documento a todos los usuarios.
 
-4-  Construir el nuevo conocimiento.
+4.  Construir el nuevo conocimiento.
 
 
 Relacionado

@@ -24,37 +24,37 @@ electrónico de notificación en el parámetro 251.
 Procedimiento
 -------------
 
-1-  Acceda a la funcionalid por el menú principal Procesos \> Gestión de
+1.  Acceda a la funcionalid por el menú principal Procesos \> Gestión de
     Requerimiento e Incidente \> Ticket;
 
-2-  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
+2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3-  En el área titulada "Ejecución", hacer clic en el icono "Agregar nota" y
+3.  En el área titulada "Ejecución", hacer clic en el icono "Agregar nota" y
     completar los campos necesarios (hacer un comentario pertinente, registrar
     la fecha y el tiempo que se tarda en la ejecución del ticket). Puede
     permitir la visualización de esta información al solicitante cuando
     seleccionar el campo "Visible al solicitante". Después, hacer clic en
     "Guardar" para efectuar la operación.
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
-    El registro de ocurrencias referentes al ticket se hace a través del botón
-    "Añadir nota". El historial de todas las instancias del ticket se puede ver
-    al hacer clic en el icono “Historial”, situado en la esquina superior
-    derecha de la pantalla.
+        El registro de ocurrencias referentes al ticket se hace a través del botón
+        "Añadir nota". El historial de todas las instancias del ticket se puede ver
+        al hacer clic en el icono “Historial”, situado en la esquina superior
+        derecha de la pantalla.
 
-4-  Si ha finalizado la llamada del ticket, en el área "Cierre", cambie la
+4.  Si ha finalizado la llamada del ticket, en el área "Cierre", cambie la
     situación del mismo a "Resuelta", simplemente haga clic en la situación para
     cambiar. Informar también los datos sobre la solución hecha:  
 
-   -  Si el tipo de ticket es Incidente o Incidente, completar los campos
-      necesarios (Causa, categoría de solución, detalle de la causa, solución
-      de respuesta, definir si la "solución de respuesta" en la base de
-      conocimientos y si la solución es temporal). Si ha optado por "Guardar
-      la solución/respuesta en la base de conocimiento", al guardar el ticket,
-      el conocimiento se crea y se vincula al ticket;  
+       -  Si el tipo de ticket es Incidente o Incidente, completar los campos
+          necesarios (Causa, categoría de solución, detalle de la causa, solución
+          de respuesta, definir si la "solución de respuesta" en la base de
+          conocimientos y si la solución es temporal). Si ha optado por "Guardar
+          la solución/respuesta en la base de conocimiento", al guardar el ticket,
+          el conocimiento se crea y se vincula al ticket;  
 
-5-  Hacer clic en el botón de opciones y después en "Guardar".
+5.  Hacer clic en el botón de opciones y después en "Guardar".
 
 Relacionado
 -----------

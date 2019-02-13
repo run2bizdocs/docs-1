@@ -1,12 +1,10 @@
 Title: Download e software
 
-# Download e software
+# Software e Donwload
 
+## Pacotes
 
-Software e Download
------------------------
-
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
@@ -18,7 +16,7 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
     No manual utilizaremos PostgreSQL.
 
     Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
@@ -38,7 +36,7 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
 
 ### Servidor de Banco de Dados MongoDB
 
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
        
        No manual utilizaremos a distribuição GNU/Linux CentOS Linux release
       7.5.1804.
@@ -67,11 +65,9 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
    *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
-Servidor de Indexação Apache Solr
--------------------------------------
+### Servidor de Indexação Apache Solr
 
-
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     A versão homologada do Apache Solr é a 6.4.2.
 
@@ -79,17 +75,14 @@ Servidor de Indexação Apache Solr
 
     Configurações para base de conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
 
-Download dos arquivos assets para o CITSmart
-------------------------------------------------
+### Download dos arquivos assets para o CITSmart
 
 <http://files.citsmart.com/assets.tar.gz>
 
 
-Configuração dos Pacotes
-------------------------
+## Configuração dos Pacotes
 
-
-!!! warning "ATENÇÃO"
+!!! info "ATENÇÃO"
 
     Utilizaremos o diretório /opt para instalação de todos os pacotes para o
     CITSmart Enterprise.
@@ -184,19 +177,19 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
     create user citsmartdbuser with password 'exemple123';
     ```
 
-<message CREATE ROLE>
+    <message CREATE ROLE>
 
     ``` sh
     create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
     ```
 
-<mensagem CREATE DATABASE>
+    <mensagem CREATE DATABASE>
 
     ``` sh
     alter role citsmartdbuser superuser;
     ```
 
-<mensagem ALTER ROLE>
+    <mensagem ALTER ROLE>
 
     ``` sh
     \q

@@ -4,7 +4,7 @@ Title: Visión general de la instalación
 
 Estos pasos ayudarán a instalar el CITSmart en los entornos locales. Antes de
 empezar, es importante tener en cuenta el software necesario para la instalación de
-la plataforma, así como su funcionalidad. L plataforma CITSmart se compone de los
+la plataforma, así como su funcionalidad. La plataforma CITSmart se compone de los
 siguientes conjuntos de software:
 
 
@@ -21,8 +21,10 @@ diferentes tipos de formatos de archivo (como PPT, XLS e PDF).
 !!! Abstract "ATENCIÓN"
 
     No todas las instalaciones de plataformas exigen el Guacamole, sólo las que
-    requieren acceso remoto a las estaciones son hechas por CITSmart. El resto de las
-    herramientas es necesario en todas las instalaciones para la operación adecuada de la plataforma.
+    requieren acceso remoto a las estaciones son hechas por CITSmart. El resto de
+    las  herramientas es necesario en todas las instalaciones para la operación
+    adecuada de la plataforma .
+
 
 
 !!! tip "About"

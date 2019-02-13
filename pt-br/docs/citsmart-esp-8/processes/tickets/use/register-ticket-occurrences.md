@@ -16,41 +16,41 @@ ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 Procedimento
 ------------
 
-1-  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
     principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2-  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
     ícone “Abrir”;
 
-3-  Na área intitulada "Execução", clicar no botão "Adicionar nota" e relatar a
+3.  Na área intitulada "Execução", clicar no botão "Adicionar nota" e relatar a
     ocorrência referente ao ticket e a data que a mesma sucedeu. É possível,
     também registrar o tempo gasto para a solução da ocorrência. É
     disponibilizado a visualização deste relato pelo solicitante e o envio do
     mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e
     "Enviar ao e-mail".
 
-!!! Abstract "ATENÇÃO"  
+    !!! Abstract "ATENÇÃO"  
 
-    Existe outro caminho para cadastrar alguma ocorrência referente ao ticket.
-    Basta clicar no ícone “Adicionar nota”, localizado no canto direito superior
-    da tela e preencher os campos conforme as orientações acima.
+        Existe outro caminho para cadastrar alguma ocorrência referente ao ticket.
+        Basta clicar no ícone “Adicionar nota”, localizado no canto direito superior
+        da tela e preencher os campos conforme as orientações acima.
 
-    Os registros das ocorrências e sua eventual solução estarão disponíveis
-    para análise do solicitante (somente se o executor marcar a opção "Visível
-    ao solicitante") na aba de histórico de ocorrências, dentro da
-    funcionalidade "Minhas Solicitações" do Smart Portal.
+        Os registros das ocorrências e sua eventual solução estarão disponíveis
+        para análise do solicitante (somente se o executor marcar a opção "Visível
+        ao solicitante") na aba de histórico de ocorrências, dentro da
+        funcionalidade "Minhas Solicitações" do Smart Portal.
 
-4-  O histórico de ocorrência está disponível ao clicar no ícone “Histórico”.
+4.  O histórico de ocorrência está disponível ao clicar no ícone “Histórico”.
     Será apresentado todas as ocorrências da solicitação na aba "Ticket" e toda
     as comunicações entre solicitante e executor feita pelo modo "Chat" na aba
     de mesmo nome.
 
-!!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
-    Para apresentar as comunicações feita pelo "Chat" no histórico de
-    ocorrência, o mesmo deve estar habilitado.
+        Para apresentar as comunicações feita pelo "Chat" no histórico de
+        ocorrência, o mesmo deve estar habilitado.
 
-5-  É possível o envio de mensagem do executor do ticket para o solicitante do
+5.  É possível o envio de mensagem do executor do ticket para o solicitante do
     mesmo, basta clicar no ícone “Mensagem ao solicitante”, descrever o
     comunicado e marcar se deseja que este conteúdo seja enviado para o e-mail
     do solicitante. Esta mensagem ficará disponível na área das solicitações do

@@ -11,7 +11,7 @@ Procedure
 1. Access the main menu System > Settings > Environment Configurations;
 2. To change one of the images (start logo, portal logo, system logo and report logo), click on "Select an image";
 3. Click on the pointed box to drag a file or make the upload;
-4. Click on "Save";
+4. Click on "Save".
 
 !!! info "Change the loading icon"
     To change the loading icon, change the value of the parameter 387 to "YES".

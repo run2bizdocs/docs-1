@@ -1,7 +1,8 @@
-title:  Comprobar disponibilidad del grupo de disponibilidad
-Description: Tiene por objetivo comprobar la disponibilidad del grupo de disponibilidad.
-#Comprobar disponibilidad del grupo de disponibilidad
-Esta funcionalidad tiene por objetivo comprobar la disponibilidad del grupo de disponibilidad.
+title: Comprobar disponibilidad del elemento de configuración
+Description: Tiene por objetivo comprobar la disponibilidad de ECs.
+#Comprobar disponibilidad del elemento de configuración
+ 
+Esta funcionalidad tiene por objetivo comprobar la disponibilidad de ECs.
 
 Antes de empezar
 ----------------
@@ -15,21 +16,21 @@ contrato del servicio.
 Procedimiento
 -------------
 
-1.  Acceder al menú principal Procesos \> Gestión de la Disponibilidad \>
+1.  Acceder al menú principal Procesos \> Gestión de Disponibilidad \>
     Disponibilidad;
 
-2.  Hacer clic en la pestaña Grupo de Disponibilidad;
+2.  Hacer clic en la pestaña Ítem de Configuración;
 
-3.  Haga clic en el símbolo "+" situado en el área "Filtros”, para buscar el
-    grupo de EC que quieras;
+3.  Haga clic en el símbolo "+" ubicado en el área “Filtros”, para buscar el EC
+    que quieras;
 
-4.  Se puede agregar varios elementos, quanto quiera, para la verificación;
+4.  Se puede agregar varios elementos, para la verificación;
 
 5.  Comprobar las informaciones en Disponibilidad por período, Disponibilidad
-    total y Ocurrencia de indisponibilidad, a través de los filtros de período;
+    total y Ocurrencia de indisponibilidad, a través de los filtros del período;
 
 6.  Para descargar la tabla de disponibilidad total y/o ocurrencias de
-    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área. 
+    indisponibilidad, hacer clic en "Guardar tabla" disponible en cada área.
 
 Relacionado
 ----------------

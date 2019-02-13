@@ -1,16 +1,16 @@
-Title: Pesquisas e Feedback
+Title: Encuestas y Feedback
 
-# Pesquisas e Feedback
+# Encuestas y Feedback
 
-A plataforma possui mecanismos para medir a satisfação dos usuários que usam um serviço. A funcionalidade de pesquisa permite aplicar pesquisas a usuários em diferentes contextos. Além disso, é possível promover buscas enviando notificações via e-mail ou no Portal de Serviços (Smart Portal).
+La plataforma tiene mecanismos para medir la satisfacción de los usuarios que usan un servicio. La funcionalidad de encuesta permite aplicar encuestas a usuarios en diferentes contextos. Además, es posible promover encuestas enviando notificaciones vía correo electrónico o en el Portal de Servicios (Smart Portal).
 
 ## Relacionado
 
-[Cadastrar pesquisa de satisfação][1]
+[Registrar encuesta de satisfacción][1]
 
-[Cdastrar notificação][2]
+[Registrar notificación][2]
 
-[Cadastrar notificação via e-mail][3]
+[Registrar notificación por correo electrónico][3]
 
 
 !!! tip "About"

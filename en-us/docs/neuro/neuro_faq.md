@@ -42,7 +42,7 @@ Description: CITSmart - FAQ
 ??? Question "How does it work the dependency injection in a Neuro form? Which steps must be performed?"
 	To inject a dependency , you must register it before. Only CSS and Javascript dependencies types can be injected in a Neuro form.
 
-	Create a new register according to the dependency type. It can be done via menu "Neuro → resources" and upload the dependency.
+	Create a new register according to the dependency type. It can be done via menu "Neuro > resources" and upload the dependency.
 
 	To import it on the form, select the tab “page type” that you would like to import and choose the tab "Dependencies".
 
@@ -58,15 +58,16 @@ Description: CITSmart - FAQ
 	This error occurs because the business process is not referenced in the controller of the form that starts the business process. To fix this problem, access the business process form, and then insert the following command on the controller "p/process Page": $scope. businessProcessName = ' name_of_the_business_process';
 
 ??? Question "I would like to know, when I register a sub-process, the information in the main process is inherited by the sub-process?"
+	
 	No, it doesn´t inherit. When you include a new sub-process, BPE or ESI in the main workflow, you must inform the "attributes", the exact name of the sub-process that must be created on the workflow registration.
 
 	All information, such as actions and main workflow status should be replicated in the sub-process registration.
 
 	In short steps, it is recommended to follow the following order:
 
-			1. Register the main workflow;
-			2. Register the sub-process;
-			3. Include the element of sub-process, making a reference to the sub-process already created.
+	        1. Register the main workflow;
+		2. Register the sub-process;
+		3. Include the element of sub-process, making a reference to the sub-process already created.
 
 ??? Question "What is the difference between a process integration workflow and a service integration workflow?"
 	The process integration workflow has tasks performed by users, and may also have automated tasks performed by the system.

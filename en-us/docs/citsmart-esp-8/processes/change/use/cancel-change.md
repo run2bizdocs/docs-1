@@ -7,7 +7,7 @@ This functionality allows to cancel the change that has become useless or obsole
 Before getting started
 ----------------
 
-It's necessary the previous registration of the change
+It's necessary the previous registration of the change.
 
 Procedure 
 -------------

@@ -1,7 +1,7 @@
 Title: Introdução a Plataforma
 Description: Contextualização de mudanças e Gerenciamento de Serviços
 
-#Introdução a Plataforma
+# Introdução à Plataforma
 
 Esteja preparado para a mudança
 -------------------------------

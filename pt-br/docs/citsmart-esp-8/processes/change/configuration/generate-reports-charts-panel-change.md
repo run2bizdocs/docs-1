@@ -55,11 +55,11 @@ foram autorizadas para realização de atualizações.
 5.  Será apresentado o relatório de atualizações de IC não autorizadas de acordo
     com os filtros definidos.
 
-Gerar relatórios de requisição de mudança por impacto
+Gerar relatórios de mudança por impacto
 ---------------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
-gráfico, as requisições de mudança pelo seu impacto (alta, média e baixa).
+gráfico, as mudanças pelo seu impacto (alta, média e baixa).
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
@@ -71,14 +71,14 @@ gráfico, as requisições de mudança pelo seu impacto (alta, média e baixa).
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado o gráfico de requisição de mudança por impacto de acordo
+5.  Será apresentado o gráfico de mudança por impacto de acordo
     com os filtros definidos.
 
-Gerar relatórios de requisição de mudança por SLA
+Gerar relatórios de mudança por SLA
 -----------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
-gráfico, as requisições de mudança pelo o seu acordo de nível de serviço.
+gráfico, as mudanças pelo o seu acordo de nível de serviço.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
@@ -90,14 +90,14 @@ gráfico, as requisições de mudança pelo o seu acordo de nível de serviço.
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado o gráfico de requisição de mudança por SLA de acordo com os
+5.  Será apresentado o gráfico de mudança por SLA de acordo com os
     filtros definidos;
 
-Gerar relatórios de requisição de mudança por risco
+Gerar relatórios de mudança por risco
 -------------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
-gráfico, as requisições de mudança pelo o risco que a mesma oferece ao negócio.
+gráfico, as mudanças pelo o risco que as mesmas oferecem ao negócio.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
@@ -109,14 +109,14 @@ gráfico, as requisições de mudança pelo o risco que a mesma oferece ao negó
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado o gráfico de requisição de mudança por risco de acordo com
+5.  Será apresentado o gráfico de mudanças por risco de acordo com
     os filtros definidos.
 
-Gerar relatórios de requisição de mudança por serviço
+Gerar relatórios de mudança por serviço
 ---------------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
-gráfico, as requisições de mudança criadas por serviço.
+gráfico, as mudanças criadas por serviço.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidente/Requisição \> Gráficos e Relatórios (Painel);
@@ -128,7 +128,7 @@ gráfico, as requisições de mudança criadas por serviço.
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado o gráfico de requisição de mudança por serviço de acordo
+5.  Será apresentado o gráfico de mudanças por serviço de acordo
     com os filtros definidos.
 
 

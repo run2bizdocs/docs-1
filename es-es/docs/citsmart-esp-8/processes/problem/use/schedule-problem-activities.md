@@ -1,37 +1,37 @@
-title: Agendar atividades de problemas
-Description: Permite criar e visualizar agendamento de atividades referente ao problema
-#Agendar atividades de problemas
+title: Programar actividades de problemas
+Description: Permite crear y ver la programación de actividades del problema
+#Programar actividades de problemas
 
-Esta funcionalidade permite criar e visualizar agendamento de atividades referentes ao problema.
+Esta funcionalidad permite crear y ver la programación de actividades del problema.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-Antes de cadastrar uma atividade de problema é necessário criar um problema para
-controlar a incidência dos mesmos ao implementar medidas de gerência e soluções
-de problemas conhecidos. Também é essencial criar os grupos de atividade
-periódica que irão ser os responsáveis por executar as atividades elaboradas.
+Antes de registrar una actividad de problema es necesario crear un problema para
+controlar la incidencia de los mismos al implementar medidas de gestión y soluciones
+de problemas conocidos. También es esencial crear los grupos de actividad
+periódica que serán los responsables de ejecutar las actividades elaboradas.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Problema \> Problema;
 
-2.  Localizar o problema que deseja suspender, clicar no botão “Mais Opções” e
-    em seguida no botão “Agendar Atividade”;
+2.  Buscar el problema para suspender, hacer clic en "Más Opciones" y después
+    en "Programar Actividad”;
 
-3.  Na aba **Criar Agendamento**, informar os dados de cadastro (Grupo de
-    atividades, Orientação técnica, Agendar e Duração estimada);
+3.  En la pestaña **Crear Programa**, informar los datos de registro (Grupo de
+    actividades, Orientación técnica, Agendar para y Duración estimada);
 
-4.  Clicar em “Gravar” para efetuar a operação.
+4.  Hacer clic en "Guardar.
 
 Relacionado
 ------------
 
-[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)	
+[Registrar problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)	
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/pt-br/citsmart-esp-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 

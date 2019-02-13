@@ -19,7 +19,7 @@ Before getting started
 --------------------------
 
 To register the Nagios generic manager, it's necessary to previously register
-the CITSmart Event Monitor connection, the time, occurrence category, automati
+the CITSmart Event Monitor connection, the time, occurrence category, automatic
 action and the CITSmart Inventory connection.
 
 Procedure

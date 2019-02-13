@@ -16,7 +16,7 @@ Procedimiento
 
 3.  Seleccionar la funcionalidad y elegir el tipo de informe que se va a emitir.
     Se abrirá una pestaña con un filtro más detallado para generar la
-    información deseada.
+    información deseada;
 
 4.  Se permite imprimir el informe al hacer clic en el icono con símbolo de impresora.
 
@@ -24,7 +24,7 @@ Procedimiento
 Relacionado
 -------
 
-[Construir y mantener relatórios Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Construir y mantener informes Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 !!! tip "About"

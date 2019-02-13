@@ -24,26 +24,26 @@ ocorrência e o ID do modelo de e-mail de notificação no parâmetro 251.
 Procedimento 
 -------------
 
-1-  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
+1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
     principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2-  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
+2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
     ícone “Abrir”;
 
-3-  Na área intitulado "Execução", clicar no ícone "Adicionar nota" e preencher
+3.  Na área intitulado "Execução", clicar no ícone "Adicionar nota" e preencher
     os campos necessários (tecer o comentário pertinente, registrar a data e
     tempo gasto na execução do ticket). É possível permitir a visualização
     destas informações ao solicitante quando selecionar o campo " Visível ao
     solicitante". Posteriormente, clicar em "Salvar" para efetuar a operação.
 
-!!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
-    O registro de ocorrências referentes ao ticket é realizado através do
-    botão "Adicionar nota". O histórico de todas as ocorrências do ticket pode
-    ser visualizado ao clicar no ícone “Histórico”, localizado no canto superior
-    direito da tela.
+        O registro de ocorrências referentes ao ticket é realizado através do
+        botão "Adicionar nota". O histórico de todas as ocorrências do ticket pode
+        ser visualizado ao clicar no ícone “Histórico”, localizado no canto superior
+        direito da tela.
 
-4-  Caso tenha concluído o atendimento do ticket, na área "Fechamento", alterar
+4.  Caso tenha concluído o atendimento do ticket, na área "Fechamento", alterar
     a situação do mesmo para "Resolvida", basta clicar na situação para alterar.
     Informar também os dados sobre a solução realizada:
 
@@ -54,7 +54,7 @@ Procedimento 
        na base de Conhecimento", ao gravar o ticket, o conhecimento é criado e
        vinculado ao ticket;
 
-5-  Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
+5.  Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
 
 Relacionado
 -----------

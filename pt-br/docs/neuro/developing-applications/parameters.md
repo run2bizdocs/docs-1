@@ -6,7 +6,7 @@ Description: Nesta tela, os parâmetros a serem usados em aplicativos criados at
 Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.   
 
 ##COMO ACESSAR   
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Parâmetros.   
+1- Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Parâmetros.   
 
 ##PRÉ-CONDIÇÕES    
 1- Não se aplica.    

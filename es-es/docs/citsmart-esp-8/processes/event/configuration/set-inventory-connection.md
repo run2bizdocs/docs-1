@@ -16,12 +16,12 @@ inventario funcional y comunicable con el ITSM.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
+1. Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \>
     Inventory;
 
-2-  En el area **Datods de la Conexión**, completar los campos;
+2. En el area **Datods de la Conexión**, completar los campos;
 
-3-  Seleccionando el tipo de conexión, en el campo "Ignorar las máquinas ya
+3. Seleccionando el tipo de conexión, en el campo "Ignorar las máquinas ya
     inventadas" (en el caso de máquinas inventariadas, es posible definir
     cuántos días esa máquina quedará sin nuevo inventario y, por eso, su Status
     será colocado como Ignorado hasta que se pase el total de días
@@ -29,46 +29,39 @@ Procedimiento
     del período, marcar la opción que mejor encaje y guardar la configuración;
 
 
-![inventory integración](images/conexao-inventory.jpg)
+    ![inventory integración](images/conexao-inventory.jpg)
 
-   Figura 1 -Integración CITSmart inventory
-
-
-4-  Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
+       Figura 1 -Integración CITSmart inventory
 
 
-![ocs](images/conexao-inventory-2.jpg)
+4. Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
+
+
+    ![ocs](images/conexao-inventory-2.jpg)
    
-Figura 2 -Integración CITSmart inventory - OCS inventory
+    Figura 2 -Integración CITSmart inventory - OCS inventory
 
--   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el menú       Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los archivos     XML en OCS_FILES_PATH
+   +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
 
--   La ubicación especificada para la generación de archivos XML es algo muy
-    estratégico:
+       +   La ubicación especificada para la generación de archivos XML es algo muy
+            estratégico:
 
-    -   Si el servidor OCS es el mismo servidor del Inventory, se trata del
-        menor riesgo, ya que la carpeta probablemente será accesible para la
-        lectura;
+           +   Si el servidor OCS es el mismo servidor del Inventory, se trata del
+               menor riesgo, ya que la carpeta probablemente será accesible para la
+               lectura;
 
-    -   Si el servidor OCS **NO** es el mismo servidor del Inventory, se debe
-        optar por una de estas dos opciones:
+           +   Si el servidor OCS **NO** es el mismo servidor del Inventory, se debe
+               optar por una de estas dos opciones:
 
-        -   el OCS Inventory debe tener permiso para escribir en el servidor del
-            Inventory;
+               +   el OCS Inventory debe tener permiso para escribir en el servidor del
+                   Inventory;
 
-        -   el inventario debe tener permiso (compartir) en el servidor OCS
-            Inventory.
+               +   el inventario debe tener permiso (compartir) en el servidor OCS
+                   Inventory.
 
-5-  La aplicación de inventario realiza la captura de los datos a través del
-    puerto del agente SNMP (161) y/o del agente de captura (puerto 7103
-    desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory
-    realiza un comando "ping" para comprobar si la máquina está activa. Si
-    consigue realizar el comando, intenta acceder al puerto SNMP del elemento de
-    configuración. Si el acceso al puerto no se obtiene con éxito, Inventory
-    intenta realizar el acceso a través del agente de captura haciendo clic en
-    el botón "Probar Conexión";
+5. La aplicación de inventario realiza la captura de los datos a través del puerto del agente SNMP (161) y/o del agente de captura (puerto 7103 desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory realiza un comando "ping" para comprobar si la máquina está activa. Si consigue realizar el comando, intenta acceder al puerto SNMP del elemento de configuración. Si el acceso al puerto no se obtiene con éxito, Inventory intenta realizar el acceso a través del agente de captura haciendo clic en el botón "Probar Conexión";
 
-6-  Hacer clic en "Guardar y Aplicar Configuraciones".
+6. Hacer clic en "Guardar y Aplicar Configuraciones".
 
 Relacionado
 -------

@@ -45,37 +45,37 @@ Installing globalsign intermediate certificate
 In order to recognize the intermediate certificate of the GlobalSign (Digital
 Certification Issuer), it must be installed. Follow the procedures below:
 
-1-  Access
+1.  Access
     address: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
 
-2-  Download the first certificate, as shown in the figure below:
+2.  Download the first certificate, as shown in the figure below:
 
-![GlobalSign](images/config-app-android-ios-1.png)
+    ![GlobalSign](images/config-app-android-ios-1.png)
 
-Figure 1 - GlobalSign intermediate certificate
+    Figure 1 - GlobalSign intermediate certificate
 
-  +  **On mobile**: you will be asked to install the certificate, just enter the
-    generic name (suggestion: GlobalSign) and click on forward.
+      +  **On mobile**: you will be asked to install the certificate, just enter the
+      generic name (suggestion: GlobalSign) and click on forward.
 
-  +  **In desktop**: right-click the downloaded certificate (as shown below),
-    click on install certificate, and proceed to finish.
+      +  **In desktop**: right-click the downloaded certificate (as shown below),
+      click on install certificate, and proceed to finish.
 
-![desktop](images/config-app-android-ios-2.png)
+    ![desktop](images/config-app-android-ios-2.png)
 
-Figure 2 - Certificate installation on desktop
+    Figure 2 - Certificate installation on desktop
 
-3-  Once installed, simply change the application's address to
+3.  Once installed, simply change the application's address to
     “<https://citsmart.centralit.com.br/citsmart>”.
 
 Android app installation
 ------------------------
 
-1-  Go to Google Play (Play Store) to download the Citsmart Enterprise Mobile
+1.  Go to Google Play (Play Store) to download the Citsmart Enterprise Mobile
     application;
 
-2-  Search for Citsmart Enterprise and after the search, select the application;
+2.  Search for Citsmart Enterprise and after the search, select the application;
 
-3-  Press the “Install” button to download the application.
+3.  Press the “Install” button to download the application.
 
 Creating key for use and consumption of Google APIs
 ---------------------------------------------------
@@ -88,44 +88,44 @@ API must be created. For this, the following steps must be followed:
     To peform these procedures, you must be logged in with a Google account.  
 
 
-1-  Go to the Google Developer
+1.  Go to the Google Developer
     Console [https://console.developers.google.com](https://console.developers.google.com/);
 
-2-  Click “Create project”, as shown in the figure below:
+2.  Click “Create project”, as shown in the figure below:
 
-![console](images/config-app-android-ios-3.png)
+    ![console](images/config-app-android-ios-3.png)
 
-Figure 3 - Google developer console
+    Figure 3 - Google developer console
 
-3-  A window will appear, as shown in the figure below, to inform the data of
+3.  A window will appear, as shown in the figure below, to inform the data of
     the new project;
 
-![Project](images/config-app-android-ios-4.png)
+    ![Project](images/config-app-android-ios-4.png)
 
-Figure 4 - Project creation screen
+    Figure 4 - Project creation screen
 
-4-  Enter the name of the project and click the Create button to create the
+4.  Enter the name of the project and click the Create button to create the
     project.
 
-5-  After creating the project, click APIs and Services. To create the API Key,
+5.  After creating the project, click APIs and Services. To create the API Key,
     click APIs and Services > Credentials > Create Credentials > API Key, as
     shown in the figure below:
 
-![API Key](images/config-app-android-ios-5.png)
+    ![API Key](images/config-app-android-ios-5.png)
 
-Figure 5 - API Key creation screen
+    Figure 5 - API Key creation screen
 
-6-  Once this is done, the API key will be displayed:
+6.  Once this is done, the API key will be displayed:
 
-![creation](images/config-app-android-ios-6.png)
+    ![creation](images/config-app-android-ios-6.png)
 
-Figure 6 - API Key options screen for creation
+    Figure 6 - API Key options screen for creation
 
-7-  Choose the men option that best suits you. For more information on which key
+7.  Choose the men option that best suits you. For more information on which key
     will answer you, go
     to [https://developers.google.com/console/help/new/\#generatingdevkeys](http://developers.google.com/console/help/new/#generatingdevkeys)
 
-8-  After the keys are created, the APIs can already be consumed.
+8.  After the keys are created, the APIs can already be consumed.
 
 ### APIs to be used in the solutions
 
@@ -178,25 +178,25 @@ Activating an API
 
 To enable an API for use, proceed as described below:
 
-1-  After performing the steps described in the section 'Creating key for use
+1.  After performing the steps described in the section 'Creating key for use
     and consumption of Google APIs';
 
-2-  Click APIs and Services > Enable APIs and Services, as shown in the figure
+2.  Click APIs and Services > Enable APIs and Services, as shown in the figure
     below:
 
-![Google APIs](images/config-app-android-ios-8.png)
+    ![Google APIs](images/config-app-android-ios-8.png)
 
-Figure 8 - Google APIs
+    Figure 8 - Google APIs
 
-3-  The API library will be displayed. Select the API you want to enable (the
+3.  The API library will be displayed. Select the API you want to enable (the
     figure below represents an example of API) and click the "Activate API" button
     as indicated in the figure below:
 
-![Google APIs](images/config-app-android-ios-9.png)
+    ![Google APIs](images/config-app-android-ios-9.png)
 
-Figure 9 - Google APIs activation
+    Figure 9 - Google APIs activation
 
-4-  Once this is done, the API will be enabled for use.
+4.  Once this is done, the API will be enabled for use.
 
 Related
 -------

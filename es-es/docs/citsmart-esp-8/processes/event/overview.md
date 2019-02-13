@@ -20,13 +20,13 @@ Uso
 
 - [Cerrar ocurrencia de evento](/es-es/citsmart-esp-8/processes/event/use/close-event-occurrence.html)
 
-- [Encerrar ocurrencia y aciones del evento](/es-es/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
+- [Cerrar ocurrencia y aciones del evento](/es-es/citsmart-esp-8/processes/event/use/close-occurences-and-actions.html)
 
 - [Crear ticket a desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
 
-- [Crear solicitud de cambio desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
+- [Crear un cambio desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
 
-- [Crear registo de problema desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
+- [Crear un problema desde un evento](/es-es/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
 
 - [Menú interno de la gestión de eventos](/es-es/citsmart-esp-8/processes/event/use/internal-menu-of-event.html)
 
@@ -45,7 +45,7 @@ Configuración
 
 - [Registrar gerente Inventory](/es-es/citsmart-esp-8/processes/event/configuration/register-inventory-manager.html)
 
-- [Registrar gerente genérico Nagios](/es-es/site/citsmart-esp-8/processes/event/configuration/register-nagios-generic-manager.html)
+- [Registrar gerente genérico Nagios](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-generic-manager.html)
 
 - [Registrar gerente Nagios](/es-es/citsmart-esp-8/processes/event/configuration/register-nagios-manager.html)
 

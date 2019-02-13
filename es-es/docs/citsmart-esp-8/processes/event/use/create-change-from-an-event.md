@@ -1,7 +1,7 @@
-title:  Crear solicitud de cambio desde un evento
-Description: Tiene por objetivo la creación de una solicitud de cambio en el evento.
-#Crear solicitud de cambio desde un evento
-Esta funcionalidad tiene por objetivo la creación de una solicitud de cambio en el evento.
+title:  Crear un cambio desde un evento
+Description: Tiene por objetivo la creación de un cambio en el evento.
+#Crear un cambio desde un evento
+Esta funcionalidad tiene por objetivo la creación de un cambio en el evento.
 
 Antes de empezar
 ----------------

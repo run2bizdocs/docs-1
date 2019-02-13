@@ -57,6 +57,18 @@ Procedimiento
 13. Para vincular un **Problema**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
     nuevo elemento, haga clic en el botón "Registrar Problema";
+    
+    !!! Abstract "NOTA"
+    
+        Al vincular un problema al ticket, las "Solución temporal" registradas en estos
+        estarán disponibles en el ticket en la pestaña a la izquierda del mismo nombre. Al hacer
+        clic en una, se podrá visualizar cada una para seleccionar la solución más adecuada al incidente,
+        en cuestión, hacer clic en "Copiar", el incidente, entonces automáticamente cambiará el status a "Resuelta" 
+        y completará los datos de los elementos "Detalle de la Causa" y "Solución Respuesta" con los datos registrados 
+        en el problema vinculado.
+        
+        El "Detalle de la Causa" se completará con los datos de la "Causa Raíz" descrita en el problema vinculado
+        y la "Solución Respuesta" será complementada por las informaciones inscritas en la "Solución Temporal" elegida.
 
 14. Para vincular un **Cambio**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
@@ -72,13 +84,13 @@ Relacionado
 
 [Crear conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Registrar problema
+[Registrar problema](/es-es/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 [Registrar elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 [Registrar proyecto](/es-es/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
 
-Registrar solicitud de cambio
+[Registrar cambio](/es-es/citsmart-esp-8/processes/change/use/register-change.html)
 
 [Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 

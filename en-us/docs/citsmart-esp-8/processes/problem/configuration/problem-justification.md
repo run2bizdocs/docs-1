@@ -12,7 +12,7 @@ Procedure
 
 2.  Click on "New" and complete the fields with the necessary data
     (description, define the use of the justification for the suspension of
-     problem and the situation) of the new problem justification;
+    problem and the situation) of the new problem justification;
 
 3.  Click on "Save".
 

@@ -18,7 +18,7 @@ protocolos padrão como VNC, RDP e SSH.
 * **Tika**: o Apache Tika é um kit de ferramentas que detecta e extrai metadados e texto de
 diferentes tipos de formatos de arquivo (como PPT, XLS e PDF).
 
-!!! Abstract "ATENÇÃO"
+!!! Warning "ATENÇÃO"
 
     Nem todas as instalações de plataformas exigem o Guacamole, apenas as que
     exigem acesso remoto às estações são feitas pela CITSmart. O restante das

@@ -1,8 +1,8 @@
 title:  Búsqueda avanzada de registros de liberación cerradas 
-Description: Permite buscar solicitudes de liberación de acuerdo con los filtros definidos. 
+Description: Permite buscar las liberaciones de acuerdo con los filtros definidos. 
 #Búsqueda avanzada de registros de liberación cerradas
 
-Esta funcionalidad permite buscar solicitudes de liberación de acuerdo con los filtros definidos.
+Esta funcionalidad permite buscar las liberaciones de acuerdo con los filtros definidos.
 
 Procedimiento
 -------------
@@ -14,16 +14,16 @@ Procedimiento
 
 3.  Hacer clic en "Búsqueda Avanzada"
 
-4.  Completar los filtros (periodo de apertura de la solicitud de liberación,
-    período de cierre de la solicitud de liberación, número, orden, unidad,
-    solicitante, situación, prioridad, grupo solucionador de cierre y mostrar el
+4.  Completar los filtros (periodo de apertura de la solicitud de liberación, 
+    período de cierre de la solicitud de liberación, número, orden, unidad, 
+    solicitante, situación, prioridad, grupo solucionador de cierre y mostrar el 
     campo de descripción en el informe?) y hacer clic en "Búsqueda avanzada";
 
-5.  Para generar el informe de la solicitud de liberación en formato PDF, haga
-    clic en el botón "Generar PDF" y para generar el informe en formato Excel,
+5.  Para generar el informe de la liberación en formato PDF, haga 
+    clic en el botón "Generar PDF" y para generar el informe en formato Excel, 
     haga clic en el botón "Generar XLS";
 
-6.  Al lado de cada registro de solicitud de liberación de la lista, hay iconos
+6.  Al lado de cada registro de liberación de la lista, hay iconos
     para la consulta de historial, reapertura de la solicitud de liberación y
     visualización de datos adjuntos.
 

@@ -2,7 +2,7 @@ Title: ESP 7 vs 8 Comparison
 
 # CITSmart ESP 7 vs 8 comparison chart
 
-| Support, Management Processes, Features, Integrations & Security    |    CITSmart ESP 7    |    **CITSmart ESP 8    |
+| Support, Management Processes, Features, Integrations & Security    |    CITSmart ESP 7    |    CITSmart ESP 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Web Application                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -60,6 +60,14 @@ Title: ESP 7 vs 8 Comparison
 |    **Security**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
++ Subtitle
+
+|Icon     |Description      |
+|----------|---------------|
+|:ballot_box_with_check:|Has|
+|:arrows_counterclockwise:|Improvement|
+|:no_entry_sign:|Doesn't have|
+|:new:|New feature|
 
 ## What’s new?
 

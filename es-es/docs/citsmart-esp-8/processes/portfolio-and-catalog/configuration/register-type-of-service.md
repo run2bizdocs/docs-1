@@ -1,19 +1,15 @@
-title: Crear categoría de servicio
-Description: Ofrece diversas acciones, tales como, incluir, cambiar y borrar las categorías de servicio para posicionar los servicios de negocioi, apoyo, solicitud, incidente y procedimiento, en los grupos similares de actuación.
-#Crear categoría de servicio
-
-Esta funcionalidad ofrece diversas acciones, tales como, incluir, cambiar y
-borrar las categorías de servicio para posicionar los servicios de negocioi,
-apoyo, solicitud, incidente y procedimiento, en los grupos similares de
-actuación.
+title:  Registrar tipo de servicio
+Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de
+#Registrar tipo de servicio
+Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de servicio que se utilizarán en otras rutinas del sistema.
 
 Procedimiento
------------------
+-------------
 
-1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
-    Portafolio y Catálogo \> Categoría Servicio;
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Tipo Servicio;
 
-2.  Completar los campos disponibles;
+2.  Completar los campos obligatorios;
 
 3.  Hacer clic en "Guardar".
 

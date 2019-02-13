@@ -1,6 +1,6 @@
-title:  Registrar plan de continuidade
+title:  Registrar plan de continuidad
 Description: Permite registar el Plan de Continuidad.
-#Registrar plan de continuidade
+#Registrar plan de continuidad
 El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registar el Plan de Continuidad.
 
 Antes de empezar
@@ -70,7 +70,7 @@ Relacionado
 
 [Registrar alcance de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la cotinuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-esp-8/processes/continuity/use/service-continuity-project.html)
 
 [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-esp-8/processes/continuity/use/continuity-vital-functions.html)
 

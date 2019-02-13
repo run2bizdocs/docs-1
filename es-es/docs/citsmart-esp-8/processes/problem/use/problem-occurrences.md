@@ -1,29 +1,28 @@
-title: Cadastrar as ocorrências do problema
-Description: Permite cadastrar eventuais ocorrências referentes ao problema
-#Cadastrar as ocorrências do problema
+title: Registrar ocurrencias del problema
+Description: Permite registrar eventuales ocurrencias referentes al problema
+#Registrar ocurrencias del problema
 
-Esta funcionalidade permite cadastrar as eventuais ocorrências referentes ao problema
+Esta funcionalidad permite registrar las eventuales ocurrencias referentes al problema
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Problema \> Problema;
 
-2.  Localizar o problema do qual deseja incluir o registro de ocorrência e clicar
-    no botão “Abrir”;
+2.  Buscar el problema del que desea incluir el registro de ocurrencia y hacer
+    clic en "Abrir";
 
-3.  Clicar no ícone “Registro de Execução” (último ícone ao lado direito da
-    tela, abaixo do campo de pesquisa) e em seguida apertar em “Adicionar
-    ocorrência”;
+3.  Hacer clic en el icono “Registro de Ejecución” (último icono al lado derecho de
+    la pantalla, abajo del campo de búsqueda) y después en "Añadir ocurrencia”;
 
-4.  Clicar no botão “Adicionar ocorrência” e preencher os campos obrigatórios;
+4.  Hacer clic en "Añadir ocurrencia” y completar los campos obligatorios;
 
     !!! Abstract "NOTA"
-        É possível cadastrar novas categorias e origens que melhor se adequam a
-        ocorrência, ao clicar no ícone “+” e preencher os campos necessários.
+        Es posible registrar nuevas categorías y orígenes que mejor se adecuan a la ocurrencia,
+        al hacer clic en el icono “+” y completar los campos necesarios.
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Hacer clic en "Guardar".
 
     !!! tip "About"
 

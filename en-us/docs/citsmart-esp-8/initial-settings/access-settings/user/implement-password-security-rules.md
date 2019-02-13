@@ -5,7 +5,7 @@ Description: Configure passwords of system usage, providing a greater level of s
 This functionality portrays the configuration of system usage passwords,
 providing a higher level of security with the usage of different characters.
 
-!!! Abstract "NOTE"
+!!! Abstract "ATTENTION"
 
      This security policy is not available for LDAP users.
      
@@ -71,5 +71,5 @@ Procedure
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html
+[1]:/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html
+[2]:/en-us/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html

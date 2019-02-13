@@ -1,12 +1,12 @@
 title:  Cancelar el registro de liberación 
-Description: Permite registrar la solicitud de liberación.
+Description: Permite cancelar la liberación.
 #Cancelar el registro de liberación
-Esta funcionalidad permite registrar la solicitud de liberación.
+Esta funcionalidad permite cancelar la liberación.
 
 Antes de empezar
 ----------------
 
-Es necesario el registro previo de la solicitud de liberación y el permiso para
+Es necesario el registro previo de la liberación y el permiso para
 su cancelación.
 
 Procedimiento
@@ -14,10 +14,10 @@ Procedimiento
 
 1.  Acceder al menú principal Procesos \> Gestión de Liberación \> Liberación;
 
-2.  Buscar la solicitud de liberación que desea cancelar, hacer clic en el
+2.  Buscar la liberación que desea cancelar, hacer clic en el
     botón “Abrir”;
 
-3.  En el área **Cierrer**, cambiar la situación de la solicitud de liberación
+3.  En el área **Cierrer**, cambiar la situación de la liberación
     para "**Cancelada**";
 
 4.  Hacer clic en el icono “Opciones” y después, hacer clic en "Guardar y
@@ -26,7 +26,7 @@ Procedimiento
 Relacionado
 ---------------
 
-[Registrar solicitud de liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
+[Registrar liberación](/es-es/citsmart-esp-8/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 

@@ -124,7 +124,7 @@ Relacionado
 [Construir y mantener informes Smart - V.8.0](/es-es/citsmart-esp-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
-Anexo
+Adjunto
 -----
 [Download-Confiabilidad][1]
 

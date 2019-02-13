@@ -1,63 +1,80 @@
-title: Relacionar informações ao problema
-Description: É possível vincular ao problema
-#Relacionar informações ao problema 
+title: Relacionar informaciones al problema
+Description: Es posible vincular al problema
+#Relacionar informaciones al problema 
 
 
-É possível vincular ao Problema uma série de informações, tais como: liberação, conhecimento, serviços relacionados, dentre outros.
+Es posible vincular al Problema una serie de informaciones, tales como: liberación, conocimiento, servicios relacionados, entre otros.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-O vínculo de informações pode ocorrer em todo o ciclo de vida do Problema, dessa
-forma pode – e deve – ser utilizado a qualquer momento, caso necessário, no
-entanto é imprescindível ter acesso a um Problema.
+El vínculo de información puede ocurrir en todo el ciclo de vida del Problema, de esta
+forma puede - y debe - ser utilizado en cualquier momento, si es necesario, sin
+embargo es imprescindible tener acceso a un problema.
 
-Procedimento
+Procedimiento
 ------------
 
-1. Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Problema \> Problema;
+1. Acceder al menú principal Procesos \>
+   Gestión de Problema \> Problema;
 
-2.  Para informar os dados complementares do problema, marque a opção de captura
-    ou visualização do problema;
+2.  Para informar los datos complementares del problema, seleccionar la opción de captura
+    o visualización del problema;
 
-3.  Para visualizar informações sobre campos específicos, clicar nas guias:
-    **Solicitante**, **Incidentes** e **Problema**;
-
-4.  Para vincular Itens de Configuração, clicar na área “IC Relacionado” e em
-    seguida no botão “Pesquisa item de configuração”. Realizar a busca e apertar
-    o botão “Selecionar” para completar a operação. Logo após, é possível ao
-    clicar no ícone “Serviços”, vincular o mesmo ao problema e ao apertar o
-    ícone “Info” será possível visualizar todas as informações do IC vinculado;
-
-5.  Ao clicar na área “Serviços Relacionados”, será apresentado o serviço
-    relacionado ao problema (se o mesmo já tiver sido vinculado) com algumas
-    ações disponíveis. É disponibilizado a visualização do “Mapa de Serviço” ao
-    clicar no ícone de mesmo nome, e, além disso, é possível observar os “Itens
-    de Configuração” ao clicar no ícone de mesmo nome. Agora, para remover o
-    vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
-
-    !!! Abstract "ATENÇÃO"
-        Se não houver nenhum serviço relacionado, é possível vincular um novo
-        serviço ao problema, basta clicar na área de “Serviços Relacionados” e em
-        seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
-        serviço desejado e clicar sobre o mesmo.
-
-6.  Para vincular **Liberação**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
-    quiser cadastrar uma nova liberação, clicar no botão “Cadastrar” e preencher
-    os dados;
-
-7.  Para vincular outros **Problemas**, clicar na área de mesmo nome e em
-    seguida apertar sobre o campo de pesquisa e selecionar o problema desejado.
-    Se desejar criar um novo problema a ser relacionado, basta clicar no botão
-    “Cadastrar” e preencher os dados necessários;
-
-8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e em seguida
-    apertar sobre o campo de pesquisa e selecionar o conhecimento desejado. Se
-    quiser criar um novo conhecimento, clicar no botão “Cadastrar” e preencher
-    os dados necessários.
+3.  Para ver informaciones sobre campos específicos, hacer clic en las pestañas:
+    **Solicitante**, **Incidentes** y **Problema**;
     
+4.  Para vincular **Incidentes**, hacer clic en el area de mismo nombre y después en el icono
+    "Agregar", siendo necesario buscar y seleccionar el incidente que será vinculado. También
+    es disponible la possibilidad de crear un incidente a partir de este problema, al hacer clic
+    en el icono "Registrar" y completar los datos necesarios.
+    
+    !!! Abstract "ATENCIÓN"
+
+        Al vincular o registrar el incidente y guardar el problema, se disparará una notificación
+        en la pantalla y en el e-mail del responsable actual por el incidente. Pero, 
+        esta notificación sólo se enviará si el incidente ya se ha capturado 
+        por su ejecutor, por lo tanto si no hay captura y consecuentemente la 
+        designación del responsable, no existirá la notificación.
+
+    !!! Abstract "ATENCIÓN"
+
+        El envío de la notificación antes citada es automático, no necesitando, 
+        por lo tanto, de parametrización.
+        
+5.  Para vincular **Elementos de Configuração**, hacer clic en “CI Relacionado” y después
+    en "Búsqueda Ítems Configuración". Buscar y hacer clic en "Selecconar" para
+    completar la operación. Después, es posible hacer clic en "Servicios", vincularlo
+    al problema y seleccionar el icono "Info", será posible ver todas las informaciones
+    del EC vinculado;
+
+6.  Al hacer clic en **“Servicios del Problema”**, será presentado el servicio
+    relacionado al problema (si ya se ha vinculado) con algunas acciones disponibles.
+    Es disponible la visualización en el "Mapa de Servicio" al hacer clic en el icono
+    de mismo nombre, y, además, es posible osbervar los "Elementos de Configuración" al
+    hacer clic en el icono de mismo nombre. Ahora, para eliminar el vínculo del Servico,
+    sólo hacer clic en el icono "Eliminar" y confirmar la operación;
+
+    !!! Abstract "ATENCIÓN"
+        Si no hay ningún servicio relacionado, puede vincular un nuevo 
+        servicio al problema, simplemente hacer clic en "Servicios del Problema" 
+        y depués en "Añadir servicio". Después, es necesario seleccionar el 
+        servicio deseado.  
+
+7.  Para vincular **Liberación**, hacer clic en el area de mismo nombre, depués
+    en el campo de búsquda y seleccionar una liberación. Si quiera registrar una
+    nueva liberación, hacer clic en "Registrar" y completar los datos;
+
+8.  Para vincular otros **Problemas**, hacer clic en el area de mismo nombre, después
+    en el campo de búsqueda y seleccionar un problema. Si quiera crear un nuevo
+    problema para relacionar, sólo hacer clic en "Registrar" y completar los datos necesários;
+
+9.  Para vincular un **Conocimiento**, hacer clic en el area de mismo nombre y después
+    en el campo de búsqueda y seleccionar un conocimiento. Si quiera crear un nuevo
+    conocimiento, hacer clic en "Registrar" y completar los datos necesarios.
+    
+10. Hacer clic en "Opciones" y luego "Guardar y avanzar flujo" o "Guardar y mantener la tarea actual", esta última opción permite no avanzar a la siguiente fase el problema.
+
 !!! tip "About"
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

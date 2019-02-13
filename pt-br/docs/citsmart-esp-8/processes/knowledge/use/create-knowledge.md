@@ -13,22 +13,22 @@ melhor organização. Assim fica mais fácil sua localização ao realizar uma b
 Procedimento
 ----------------
 
-1-  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
+1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
     Conhecimento \> Conhecimento;
 
-2-  Clicar no botão "Opções", localizado no canto inferior direito, logo em
+2.  Clicar no botão "Opções", localizado no canto inferior direito, logo em
     seguida em Adicionar novo conhecimento;
 
-3-  Informar os dados de cadastro;
+3.  Informar os dados de cadastro;
 
-!!! Abstract "ATENÇÃO"  
+    !!! Abstract "ATENÇÃO"  
 
-    Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
-    corre-se o risco de disponibilizar documentos de forma inadequada. Este
-    cenário desconsidera a configuração de perfil de acesso e libera o acesso do
-    documento a todos os usuários.
+        Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
+        corre-se o risco de disponibilizar documentos de forma inadequada. Este
+        cenário desconsidera a configuração de perfil de acesso e libera o acesso do
+        documento a todos os usuários.
 
-4-  Construir o novo conhecimento.
+4.  Construir o novo conhecimento.
 
 Relacionado
 --------------------

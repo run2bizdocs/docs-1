@@ -1,7 +1,19 @@
 title: Aprovar um ticket
 Description: Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço. 
 #Aprovar um ticket
-Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço.
+
+Quando um ticket possuir uma atividade de aprovação é possível confirmar ou
+rejeitar este pedido utilizando o recurso para esta finalidade. Neste sentido, o
+fluxo de trabalho do ticket deve conter uma tarefa de usuário (aba Identificação
+\> Botão   "É uma tarefa de aprovação? = SIM"), o qual está vinculado a
+atividade.
+
+!!! Abstract "ATENÇÃO"
+
+    Para aprovação de forma simplificada do ticket é preciso que o fluxo da
+    solicitação de serviço possua uma tarefa do tipo aprovação, assim o botão de
+    aprovação rápida estará visível.
+
 
 Antes de começar
 ----------------
@@ -11,6 +23,10 @@ mesmo.
 
 Procedimento 
 -------------
+
+*Estes passos são para a funcionalidade no CITSmart ESP 8 quanto para o mobile
+CITSmart SM.*
+
 
 1.  Acessar a funcionalidade Ticket navegando pelo menu principal Processos \>
     Gerência de Requisição e Incidente \> Ticket;
@@ -42,6 +58,8 @@ Relacionado
 [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-esp-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 

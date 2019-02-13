@@ -1,38 +1,38 @@
-title: Cadastrar uma mudança via template
-Description: Permite cadastrar mudanças via template
-#Cadastrar uma mudança via template
+title: Register change via template
+Description: It allows to register changes via template
+#Register change via template
 
-Permite o cadastro da mudança via um template previamente registrado. A ideia do template consiste em agilizar o cadastro de novas mudanças ao agrupa-las numa temática similar.
+It allows to register the change via a previously registered template. The idea of the template is to speed up the registration of new changes by grouping them in a similar theme.
 
-Antes de começar
+Before getting started
 ----------------
 
-É imprescindível o cadastro anterior do template e do portfólio de mudanças
+It's necessary to have registered a template of the portfolio of changes.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Clicar no botão “Opções” e em seguida em “Cadastro via template;
+2.  Click on "Options" and then on "Register via template";
 
-3.  Selecionar o template desejado;
+3.  Select the template you want;
 
-4.  Preencher todos os campos disponibilizados nas áreas: solicitante e mudança
-    (inclusive selecionar o portfólio desejado);
+4.  Complete all fields available in the areas: requester and change
+    (including selecting the portfolio you want);
 
-5.  Também é necessário indicar as informações preliminares de “planejamento”,
-    “plano de reversão” e “revisão e fechamento”,
+5.  It's also necessary to indicate the information It's also necessary to indicate the preliminary information of "planning",
+    “reversion plan” and “review and closure”,
 
-6.  Clicar no botão “Opções” e em seguida “Gravar”;
+6.  Click on "Options" and then on "Save”;
 
-Relacionado 
+Related 
 ------------
 
-[Cadastrar um template de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
+[Register template of change](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html)
 
-[Criar um portfólio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
+[Create portfolio of change](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 

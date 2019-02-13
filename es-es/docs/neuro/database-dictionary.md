@@ -1,20 +1,20 @@
-title: Dicionário de Dados Neuro
+title: Diccionario de Datos Neuro
 
-# Dicionário de Dados Neuro
+# Diccionario de Datos Neuro
 
-Como podemos ver no site da Wikipedia, um dicionário de dados é uma coleção de metadados que contém definições e representações de elementos de dados. Dentro do contexto do SGBD (Sistema de Gerenciamento de Banco de Dados), um dicionário de dados é um grupo de tabelas habilitadas apenas para leitura ou consulta, ou seja, é um banco de dados em si que, entre outras coisas, contém informações, tais como:
+Como podemos ver en el sitio de Wikipedia, un diccionario de datos es una colección de metadatos que contiene definiciones y representaciones de elementos de datos. En el contexto del SGBD (Sistema de Gestión de Base de Datos), un diccionario de datos es un grupo de tablas habilitadas sólo para lectura o consulta, es decir, es una base de datos en sí que, entre otras cosas, contiene información, tales como:
 
-- Definição precisa de elementos de dados
-- Perfis, Papéis e Privilégios do Usuário
-- Descrição dos objetos
-- Restrições de Integridade
-- Entre outros
+- Definición precisa de elementos de datos
+- Perfiles, Funciones y Privilegios del Usuario
+- Descripción de los objetos
+- Restricciones de Integridad
+- Otros
 
-No link abaixo você pode ter acesso ao dicionário de dados da ferramenta CITSmart Neuro.
+En el siguiente enlace puede acceder al diccionario de datos de la herramienta CITSmart Neuro.
 
-## Anexos
+## Adjuntos
 
-[Download - Dicionário Base de Dados][1]
+[Download - Diccionario de Base de Datos][1]
 
 [1]:/en-us/neuro/images/database-dictionary.rtf  
 

@@ -60,6 +60,20 @@ Procedimento 
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
     no botão "Cadastrar Problema";
 
+    !!! Abstract "NOTA"
+
+        Ao vincular um problema ao ticket, as “Soluções contorno” registradas nestes
+        estarão disponíveis no ticket na aba a esquerda de mesmo nome. Ao clicar sobre o
+        mesmo, será possível visualizar cada uma a fim de selecionar a solução mais
+        adequada ao incidente em questão, clicar então no botão “Copiar”, o
+        incidente, então, automaticamente mudará o status para “Resolvida” e preencherá os
+        dados dos itens “Detalhamento da Causa” e “Solução Resposta” com os dados
+        cadastrados no problema vinculado.
+
+        O “Detalhamento da Causa” será preenchido com os dados da “Causa Raiz”
+        descrita no problema vinculado e a “Solução Resposta” será complementada
+        pelas informações inscritas na “Solução Contorno” escolhida.
+
 14. Para vincular uma **Mudança**, clicar na guia correspondente e vincular o
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
     no botão "Cadastrar Mudança";
@@ -73,13 +87,13 @@ Relacionado
 
 [Criar conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/create-knowledge.html)
 
-Cadastrar um problema
+[Cadastrar um problema](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
 
 [Cadastrar item de configuração](/pt-br/citsmart-esp-8/processes/configuration/use/register-CI.html)
 
 [Cadastrar um projeto](/pt-br/citsmart-esp-8/additional-features/project-management/project-management/use/register-project.html)
 
-Cadastrar uma requisição de mudança
+[Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
 
 [Cadastrar uma requisição de liberação](/pt-br/citsmart-esp-8/processes/release/use/register-release-request.html)
 

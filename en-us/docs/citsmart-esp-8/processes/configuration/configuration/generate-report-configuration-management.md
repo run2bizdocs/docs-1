@@ -1,5 +1,5 @@
 title: Generate report - configuration management
-Description: Generate reports of configuration managament. 
+Description: Generate reports of configuration management. 
 #Generate report - configuration management
 
 Generate report of configuration item - Office package
@@ -23,8 +23,8 @@ duplicated keys (licenses) of medias.
 Generate report of change/configuration item
 ------------------------------------------------
 
-This report has the objective of provide the information of the different
-request for change related to the same configuration item.
+This report has the objective of provide the information of the different 
+changes related to the same configuration item.
 
 1.  Access the functionality through the main menu Reports \> Configuration
     Management \> Change/Configuration Item;

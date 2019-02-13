@@ -31,9 +31,9 @@ Use
 
 - [Create ticket from an event](/en-us/citsmart-esp-8/processes/event/use/create-ticket-from-an-event.html)
 
-- [Create request for change form an event](/en-us/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
+- [Create a change form an event](/en-us/citsmart-esp-8/processes/event/use/create-change-from-an-event.html)
 
-- [Create a problem request from an event](/en-us/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
+- [Create a problem from an event](/en-us/citsmart-esp-8/processes/event/use/create-a-problem-from-an-event.html)
 
 - [Internal menu of event management](/en-us/citsmart-esp-8/processes/event/use/internal-menu-of-event.html)
 

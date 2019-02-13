@@ -1,4 +1,4 @@
-title:  Relacionar informações à requisição de liberação 
+title:  Relacionar informações à liberação 
 Description: É possível vincular à Liberação uma série de informações.
 #Relacionar informações à requisição de liberação
 É possível vincular à Liberação uma série de informações, tais como: mudança, projeto, IC dentre outros, no intuito de solidificar e embasar a execução do processo.
@@ -16,18 +16,18 @@ Procedimento
 1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
     Liberação \> Liberação;
 
-2.  Para informar os dados complementares da requisição de liberação, marque a
+2.  Para informar os dados complementares da liberação, marque a
     opção de captura ou visualização da requisição;
 
 3.  Para visualizar informações sobre campos específicos, clicar nas
-    guias: **Solicitante**, **Requisição** e **Fechamento**;
+    guias: **Solicitante**, **Liberação** e **Fechamento**;
 
 4.  Para vincular **Mudanças**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar a mudança desejada. Se
     desejar cadastrar uma nova mudança utilizando a liberação a ser criada como
     parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
     necessários;
-
+    
 5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar a mídia desejada. Se
     deseja cadastrar uma nova mídia, clicar no botão "Cadastrar " e preencher os
@@ -47,10 +47,10 @@ Procedimento
     desejado. Se desejar cadastrar um novo artigo, clicar no botão "Cadastrar" e
     preencher os dados;
 
-9.  Para vincular uma **Requisição de compras**, clicar na área de mesmo nome e
-    e em seguida apertar sobre o campo de pesquisa e selecionar a requisição
-    desejada. Lembrando que será exposta todas as requisições já cadastradas,
-    sendo necessário, portanto, selecionar a requisção de compra cadastrada
+9.  Para vincular um **Ticket**, clicar na área de mesmo nome e
+    e em seguida apertar sobre o campo de pesquisa e selecionar o ticket
+    desejado. Lembrando que será exposta todos os tickets já cadastrados,
+    sendo necessário, portanto, selecionar o ticket cadastrado
     anteriormente.
 
 10. Clicar no botão de opções e em seguida "Gravar" para concluir a operação.

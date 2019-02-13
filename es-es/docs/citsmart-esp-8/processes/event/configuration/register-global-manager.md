@@ -29,9 +29,9 @@ automática y la conexión del CITSmart Inventory.
 Procedimiento
 -----------------
 
-1-  Acceder al menú principal Procesos \> Gestión de Evento \> Gerente Global;
+1.  Acceder al menú principal Procesos \> Gestión de Evento \> Gerente Global;
 
-2-  Completar los campos disponibles en cada area:
+2.  Completar los campos disponibles en cada area:
 
   -  Informe los datos de la **Acción de Information**:
 
@@ -57,7 +57,7 @@ Procedimiento
         Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
         validar la EPL informada.
 
-3-  Hacer clic en "Guardar".
+3.  Hacer clic en "Guardar".
 
 
 Relacionado

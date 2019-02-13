@@ -1,24 +1,24 @@
-Title: Configuração
+Title: Configuración
 
-# Configuração
+# Configuración
 
-Algumas configurações podem ser tomadas para alterar a exibição padrão dos relatórios.
+Algunas configuraciones se pueden tomar para cambiar la exhibición predeterminada de los informes.
 
-## Procedimento
+## Procedimiento
 
-**Alterar a marca do cabeçalho dos relatórios exportáveis**
+*Cambiar la marca de encabezado de los informes exportables*
 
-1. Acessar o menu principal Parametrização > Parâmetros CITSmart > 36;
-2. Alterar o valor, indicando o caminho da pasta com a imagem;
+1. Acceder al menú principal Parametrización > Parámetros CITSmart > 36;
+2. Cambiar el valor, indicando el camino de la carpeta con la imagen;
 
 	```sh
     /citsmart/images/logo/logo-header.png
     ```
 	
-3. Salvar;
+3. Guardar.
 
-**Alterar a profundidade das pesquisas de Ticket (somente no relatório "Pesquisar Incidente/Solicitação")**
+*Cambiar la profundidad de las búsquedas de Ticket (sólo en el informe "Buscar Incidente/Solicitud")*
     
-1. Acessar o menu Parametrização > Parâmetros CITSmart > 343;
-2. Alterar o valor indicando se a pesquisa é feita no contexto geral (NÃO) ou no contexto de grupo (SIM);
-3. Salvar.
+1. Acceder al menú principal Parametrización > Parámetros CITSmart > 343;
+2. Cambiar el valor que indica si la búsqueda se realiza en el contexto general (NO) o en el contexto de grupo (SÍ);
+3. Guardar.

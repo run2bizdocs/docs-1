@@ -22,14 +22,14 @@ Procedimiento
 
 3.  El Tipo de Plantilla seleccionado establecerá los campos para completar:
 
--   **JSP**:esta funcionalidad permite personalizar la pantalla de servicios con
+    -   **JSP**:esta funcionalidad permite personalizar la pantalla de servicios con
     referencia, principalmente, en la gestión de compras y viajes. Dentro del
     tipo JSP hay sub-tipos previamente registrados. La utilidad de este tipo de
     plantilla sólo se observa en las versiones anteriores a 7.2.3.9. Esta clase
     de plantilla deberá ser manipulada por analista que tenga conocimiento de
     programación JAVA;
 
--   **Cuestionario**: incluso si deshabilitada la opción de "Habilitar editar
+    -   **Cuestionario**: incluso si deshabilitada la opción de "Habilitar editar
     cuestionario", esta edición será posible cuando ocurra el registro del
     ticket. Hay dos funciones de aprobación que se pueden configurar, en la
     pantalla de la plantilla de solicitud de servicio o en el mantenimiento del
@@ -57,7 +57,7 @@ Procedimiento
     esté vinculado a la plantilla de solicitud de servicio concomitantemente con
     la pantalla de mantenimiento del flujo y la actividad del portafolio;
 
--   **Neuro**: al seleccionar esta opción, el campo de vinculación de formulario
+    -   **Neuro**: al seleccionar esta opción, el campo de vinculación de formulario
     Neuro y la página Neuro están disponibles. También puede elegir la
     **versión** del formulario haciendo clic en el botón *Versión específica del
     formulario*. Las reglas del template del tipo Cuestionario son válidas para
