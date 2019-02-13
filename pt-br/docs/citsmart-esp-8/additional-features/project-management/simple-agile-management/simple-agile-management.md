@@ -50,26 +50,26 @@ Procedimento
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas:
 
--   Vencidas: mostra o total de **tarefas** que tenha a “Data da entrega” menor
+    -   Vencidas: mostra o total de **tarefas** que tenha a “Data da entrega” menor
     que a data/hora atual;
 
--   A vencer: mostra o total de **tarefas** que tenha a “Data da entrega” que
+    -   A vencer: mostra o total de **tarefas** que tenha a “Data da entrega” que
     ficarão vencidas em 24h a partir da data/hora atual;
 
--   No prazo: mostra o total de **tarefas** com a “Data da entrega” maior que
+    -   No prazo: mostra o total de **tarefas** com a “Data da entrega” maior que
     24h a partir da data/hora atual;
 
--   Total: mostra o total de **tarefas** daquela Sprint;
+    -   Total: mostra o total de **tarefas** daquela Sprint;
 
--   A barra de progressão possui o seguinte cálculo:
+    -   A barra de progressão possui o seguinte cálculo:
 
-    -   1º É feito a soma do total de estimativas de todas as tarefas
-        concluídas;
+        -   1º É feito a soma do total de estimativas de todas as tarefas
+            concluídas;
 
-    -   2º É feito a soma do total de estimativas de todas as tarefas;
+        -   2º É feito a soma do total de estimativas de todas as tarefas;
 
-    -   3º Progresso é a porcentagem calculadas com o total de estimativas das
-        tarefas concluídas sobre o total de estimativas de todas as tarefas.
+        -   3º Progresso é a porcentagem calculadas com o total de estimativas das
+            tarefas concluídas sobre o total de estimativas de todas as tarefas.
 
 !!! Abstract "ATENÇÃO"
 
