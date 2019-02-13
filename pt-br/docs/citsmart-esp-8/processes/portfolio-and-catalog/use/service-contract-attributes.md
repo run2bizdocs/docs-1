@@ -21,9 +21,10 @@ Procedimento
 3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
     apresentada a tela de Informações do Serviço;
 
-4.  Clicar na aba Contratos e vincular um contrato;
+4.  Clicar na aba Contratos e vincular um contrato.
 
 !!! info "Informação"
+
     A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
     
 
