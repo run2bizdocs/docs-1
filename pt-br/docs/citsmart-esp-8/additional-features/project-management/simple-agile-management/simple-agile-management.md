@@ -12,7 +12,7 @@ O Simple é baseado na metodologia Kanban, onde os mesmos são organizados
 visualmente em um quadro disposto de cartões que sinalizam o andamento do fluxo.
 
 Na área de trabalho do Simple as atividades são inseridas e agrupadas por
-projetos (no Simple chamados de workspaces), painel de tarefas (no Simple
+projetos (no Simple chamados de Workspaces), painel de tarefas (no Simple
 chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
 Procedimento
