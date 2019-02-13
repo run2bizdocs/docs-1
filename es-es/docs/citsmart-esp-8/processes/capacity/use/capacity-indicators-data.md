@@ -1,6 +1,6 @@
-title: Importar datos de indicador de capacidade
+title: Importar datos de indicador de capacidad
 Description:Ttiene el objetivo de importar datos de indicadores de capacidad/rendimiento. 
-#Importar datos de indicador de capacidade
+#Importar datos de indicador de capacidad
 Esta funcionalidad tiene el objetivo de importar datos de indicadores de capacidad/rendimiento.
 
 Procedimiento
