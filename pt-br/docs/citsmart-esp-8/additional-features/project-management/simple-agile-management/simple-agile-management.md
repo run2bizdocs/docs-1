@@ -44,9 +44,10 @@ Procedimento
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas;
 
-    ![Figura um](Images/figure-1-simple.png)
+![Figura um](Images/figure-1-simple.png)
     
-     Figura 1 - Tela Sprint
+Figura 1 - Tela Sprint
+
 
     -   1: pesquisar sprints com filtros de membros, tags e status da sprint
     (concluída e não concluída)
