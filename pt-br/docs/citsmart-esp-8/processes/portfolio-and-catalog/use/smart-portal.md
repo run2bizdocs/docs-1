@@ -1,11 +1,11 @@
 title:  Smart Portal
 Description: O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços
 #Smart Portal
-O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços (Negócio e Apoio) aos usuários do sistema e permite realizar ações diversas, tais como:
-•	Abrir um ticket (solicitação de serviço);
-•	Receber notícias referentes ao Sistema;
-•	Avaliar a solicitação de serviço
-•	Acesso aos conhecimentos referentes ao ticket para esclarecimento de dúvidas.
+O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços (Negócio e Apoio) aos usuários do sistema e permite realizar ações diversas, tais como:  
+•	Abrir um ticket (solicitação de serviço);  
+•	Receber notícias referentes ao Sistema;  
+•	Avaliar a solicitação de serviço;  
+•	Acesso aos conhecimentos referentes ao ticket para esclarecimento de dúvidas.  
 
 Antes de começar 
 -----------------
