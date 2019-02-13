@@ -71,7 +71,7 @@ Procedimiento
          hacer clic en "Agregar prorrateo" e informe su porcentaje (indicar un 
          porcentaje del 1 al 100%) y su ciclo de pago.
 
-    !!! Abstract "REGLA"
+    !!! Abstract "REGLA"  
         - No se permiten prorrateos diferentes para el mismo ciclo en el mismo
         servicio/negocio/contrato.  
         - No es permitido registros o cambios de prorrateos si los ciclos ya estén cerrados.  
