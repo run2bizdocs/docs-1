@@ -30,6 +30,8 @@ Use
 
 - [Manage my requests through Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
+- [Smart Portal](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/smart-portal.html)
+
 Configuration
 -----------------
 
