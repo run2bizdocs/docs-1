@@ -16,7 +16,7 @@ Instalar o componente SOLR, como apresentado no [manual de instalação][1].
     ```sh
     http://localhost:8983/solr/collection_name
     ```
-3. Salvar;
+3. Salvar.
 
 ## Relacionado
 
