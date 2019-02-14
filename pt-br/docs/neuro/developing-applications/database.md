@@ -13,6 +13,7 @@ Através dessa tela é realizado o cadastro dos bancos de dados que são utiliza
 
 1. Não se aplica.  
 
+
 ##FILTROS    
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
@@ -49,6 +50,7 @@ Figura 2 - Tela de listagem de banco de dados
 5. Os tipos de banco de dados são pré-cadastrados na aplicação. 
 
 6. Clique em Salvar para criar o banco de dados. Clique em Pesquisar para voltar para a tela anterior.    
+
 
 !!! tip "About"
     <b>Updated:</b>07/02/2019 - João Pelles Junior
