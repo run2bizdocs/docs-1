@@ -21,6 +21,7 @@ Figura 1 - Tela de pesquisa de conexão de banco de dados
 ##LISTAGEM DE ITENS    
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome e Tipo.   
 
+
 ![Screenshot](images/DataConnection-ItemsList.png)   
 Figura 2 - Tela de listagem de conexão de banco de dados     
 
