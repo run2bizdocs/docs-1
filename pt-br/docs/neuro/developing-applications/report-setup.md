@@ -21,7 +21,8 @@ Figura 1 -Tela de pesquisa de relatórios
 ##LISTAGEM DE ITENS    
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
 
-![Screenshot](images/Report-setup-fig02.png) 
+![Screenshot](images/Report-setup-fig02.png)
+
 Figura 2 -Tela de listagem de relatórios    
 
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
@@ -29,7 +30,8 @@ Figura 2 -Tela de listagem de relatórios
 DADOS DO RELATÓRIO    
 1. Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
-![Screenshot](images/Report-setup-fig03.png) 
+![Screenshot](images/Report-setup-fig03.png)
+
 Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
 
 ##DATA SOURCE  
@@ -53,7 +55,8 @@ Figura 4 - Cadastro/edição de configuração de relatório, aba Data source
 - Para editar um parâmetro da lista, clique em Editar;   
 - Para remover um parâmetro da lista, clique em Remover.  
 
-![Screenshot](images/Report-setup-fig05.png) 
+![Screenshot](images/Report-setup-fig05.png)
+
 Figura 5 - Cadastro/edição de configuração de relatório, aba Parâmetros    
 
 ##FORMULÁRIO   
