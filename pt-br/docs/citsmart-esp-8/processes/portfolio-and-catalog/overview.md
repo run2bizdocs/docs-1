@@ -18,9 +18,9 @@ Uso
 
 - [Configurar atributos de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-- [Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+- [Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
-- [Vincular as atividades ao contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/link-activity-to-service-contract.html)
+- [Vincular as atividades ao contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
 - [Cadastrar atividade de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
