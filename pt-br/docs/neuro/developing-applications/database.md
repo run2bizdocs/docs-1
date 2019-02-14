@@ -17,7 +17,7 @@ Através dessa tela é realizado o cadastro dos bancos de dados que são utiliza
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
-* Palavra chave       
+    * Palavra chave       
  
  ![Screenshot](images/Data-Search.png)    
 Figura 1 - Tela de pesquisa de banco de dados      
