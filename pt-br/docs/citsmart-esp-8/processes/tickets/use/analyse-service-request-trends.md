@@ -28,17 +28,17 @@ Procedimento
     **Criar Problema**, onde será exibida a tela de cadastro de problema para
     registro das informações necessárias do problema:
 
--   Ao optar por registrar um problema a partir do **Serviço**, será exibida a
+    -   Ao optar por registrar um problema a partir do **Serviço**, será exibida a
     tela de cadastro de problema com o campo "Descrição" alimentado com o nome
     do serviço correspondente;
 
--   Ao optar por registrar um problema a partir da **Causa**, será exibida a
+    -   Ao optar por registrar um problema a partir da **Causa**, será exibida a
     tela de cadastro de problema com os campos "Descrição" e "Causa" alimentados
     com a descrição da causa correspondente;
 
--   Ao optar por registrar um problema a partir do **Item de Configuração**,
+    -   Ao optar por registrar um problema a partir do **Item de Configuração**,
     será exibida a tela de cadastro de problema com o campo "Descrição"
-    alimentado com informação do item de configuração correspondente.
+    alimentado com informação do item de configuração correspondente.  
 
 Relacionado
 -----------
