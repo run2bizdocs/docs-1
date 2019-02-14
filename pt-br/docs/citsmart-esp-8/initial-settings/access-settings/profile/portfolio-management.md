@@ -33,7 +33,7 @@ Procedimento
 
 4.  Vale lembrar que:
 
-  -   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
+    -   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
       acessos pré-existentes ficarão desmarcados), por default, quando for criadas
       novas funcionalidades, exigindo, portanto, que o administrador
       explicitamente habilite esta para os perfis que desejar, tornando-a
