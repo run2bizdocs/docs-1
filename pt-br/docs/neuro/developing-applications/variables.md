@@ -16,7 +16,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
-- Palavra chave    
+    * Palavra chave    
 
 ![Screenshot](images/Variables-fig01.png)  
 Figura 1 - Tela de pesquisa  
