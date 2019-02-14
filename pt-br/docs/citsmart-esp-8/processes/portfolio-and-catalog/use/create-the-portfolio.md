@@ -36,10 +36,11 @@ Procedimento
     são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de
     Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
 
- !!! Abstract "REGRA"
 
-     Caso uma das 3 línguas na aba "Multi-idiomas" ficar em branco, as informações serão
-     preenchidas com as que estiver contidas na aba "Apresentação".
+!!! Abstract "REGRA"
+
+    Caso uma das 3 línguas na aba "Multi-idiomas" ficar em branco, as informações serão
+    preenchidas com as que estiver contidas na aba "Apresentação".
 
 
 !!! Abstract "REGRA"
