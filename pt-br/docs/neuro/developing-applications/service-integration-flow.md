@@ -17,7 +17,7 @@ Os fluxos de integração de serviços, como o próprio nome diz, envolvem workf
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Palavra chave  
+    * Palavra chave  
 
 ![Screenshot](images/Service-Integration-Flow-fig01.png)
 
@@ -139,6 +139,7 @@ Os demais componentes presentes na paleta se assemelham aos componentes de um �
 
 1. Para desenhar o diagrama, escolha a aba refente ao mesmo.  
 2. A seguinte tela será exibida:  
+
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png)
 
