@@ -38,7 +38,7 @@ Figura 2 - Tela de listagem de pacotes
 
     !!! Abstract "ATENÇÃO"  
 
-       Para garantir a compatibilidade, é altamente recomendável que a versão do Neuro que realizou a exportação de um pacote seja a            mesma do Neuro que realizará a importação do mesmo pacote.   
+        Para garantir a compatibilidade, é altamente recomendável que a versão do Neuro que realizou a exportação de um pacote seja a           mesma do Neuro que realizará a importação do mesmo pacote.   
 
 7. Para visualizar um item, selecione o mesmo e clique em Visualizar.    
 
