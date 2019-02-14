@@ -26,11 +26,10 @@ o procedimento relativo ao produto.
 jdk-8u172-linux-x64.tar.gz  
 2. Download do pacote diretamente do repositório oficial através do link
 abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz>
-
     
-   ![Java Download](images/java-download.png)
+    ![Java Download](images/java-download.png)
     
-   Figura 1 - Tabela Java
+     Figura 1 - Tabela Java
     
 3. Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
