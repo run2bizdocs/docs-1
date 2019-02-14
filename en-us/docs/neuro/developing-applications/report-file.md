@@ -12,7 +12,7 @@ No applicable
 ##FILTERS
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
-- Keyword or enter  
+    * Keyword or enter  
 
 ![Screenshot](images/Report-file-fig01.png)   
 Figure 1 - Report file search screen  
@@ -26,7 +26,8 @@ Figure 2 - Report file listing screen
 ##FILLING IN THE REGISTRATION FIELDS  
 
 !!! Abstract "ATTENTION"
-    **You can not create a report itself in Neuro. This functionality only refers to uploading a report file.**  
+    
+    You can not create a report itself in Neuro. This functionality only refers to uploading a report file.
 	
 1. The version field is auto-incremented by the system.Enter the name of the report, a description, and the project folder on the server. The engine field is filled automatically according to the file format. Currently, Jasper's jrxml format is only accepted.
 
