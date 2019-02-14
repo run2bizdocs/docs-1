@@ -11,7 +11,7 @@ Procedimento
 1. Acessar o menu principal Sistema > Configurações > Configurações de Ambiente;
 2. Para alterar uma das imagens (logotipo inicial, logotipo do portal, logotipo do sistema e logotipo do relatório), clicar em "Selecione uma imagem";
 3. Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
-4. Clicar em "Gravar";
+4. Clicar em "Gravar".
 
 !!! info "Mudar o ícone de carregamento"
     Para alterar o ícone de carregamento, altere o valor do parâmetro 387 para "SIM".
