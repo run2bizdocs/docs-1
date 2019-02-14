@@ -18,7 +18,8 @@ Cada objeto de negócio criado representa uma tabela do banco de dados.
 
 ##FILTROS
 1.	O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
-*	Palavra chave ou enter.    
+    
+    *	Palavra chave ou enter.    
 
 ![Screenshot](images/business-object-filter.png)  
 Figura 1 - Tela de pesquisa de objetos de negócio cadastrados  
