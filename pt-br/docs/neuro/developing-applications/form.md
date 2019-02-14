@@ -42,15 +42,16 @@ DADOS BÁSICOS
 
 4. As abas geradas possuem a seguinte estrutura: 
 
- - **HTML**: estrutura html da página;    
- - **HTML mobile**: estrutura html para dispositivos móveis;  
- - **Controller**: código do controller referente ao formulário;  
- - **Dependencies**: são informadas as dependências da aplicação. Deverão ser informados o nome da dependência e o path na qual a mesma   se encontra. Informe também se será injetada no controller.      
+   - **HTML**: estrutura html da página;    
+   - **HTML mobile**: estrutura html para dispositivos móveis;  
+   - **Controller**: código do controller referente ao formulário;  
+   - **Dependencies**: são informadas as dependências da aplicação. Deverão ser informados o nome da dependência e o path na qual a        mesma se encontra. Informe também se será injetada no controller.      
 
 ![Screenshot](images/Form-business.png)    
 Figura 3 - Tela de cadastro/edição de formulários, aba "Dados básicos"   
 
-![Screenshot](images/Form-business2.png) 
+![Screenshot](images/Form-business2.png)
+
 Figura 4 - Tela de cadastro/edição de formulários, aba "Código compartilhado"    
 
 ##DESENHANDO A TELA    
