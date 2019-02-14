@@ -38,7 +38,7 @@ Procedimento
 
  !!! Abstract "REGRA"
 
-     Caso uma das 3 línguas nessa aba ficar em branco, as informações serão
+     Caso uma das 3 línguas na aba "Multi-idiomas" ficar em branco, as informações serão
      preenchidas com as que estiver contidas na aba "Apresentação".
 
 
