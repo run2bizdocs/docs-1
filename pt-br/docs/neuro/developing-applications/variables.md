@@ -16,7 +16,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
-- Palavra chave    
+    * Palavra chave    
 
 ![Screenshot](images/Variables-fig01.png)  
 Figura 1 - Tela de pesquisa  
@@ -43,17 +43,17 @@ Figura 2 - Tela de listagem
     * Se será armazenada no banco de dados;  
 	    * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor             durante a execução das tarefas   
     * Se é uma variável de retorno;   
-	   * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.    
+	    * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.    
     * Se é uma lista de valores;  
     * Se é uma variável de entrada na interface do fluxo;  
-	   * Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.    
+	    * Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.    
     * Se é uma variável de saída na interface do fluxo;   
-	   * Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado. 
+	    * Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado. 
     * O tipo da variável;  
-	   * Se for um objeto Java, informe a classe Java correspondente;   
-	   * Se for um objeto de negócio, qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;   
+	    * Se for um objeto Java, informe a classe Java correspondente;   
+	    * Se for um objeto de negócio, qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;   
     * O valor inicial da variável, se constante ou script.    
-	   * Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas               pelo usuário.   
+	    * Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas               pelo usuário.   
 
 4. Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.   
 

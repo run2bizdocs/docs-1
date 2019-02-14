@@ -13,7 +13,7 @@ Quando se produz um conjunto de itens de aplicação através do Neuro, é poss�
 ##FILTROS  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
  
- * Palavra chave ou enter.      
+     * Palavra chave ou enter.      
 
 ![Screenshot](images/Package-Search.png)  
 Figura 1 - Tela de pesquisa de pacotes    

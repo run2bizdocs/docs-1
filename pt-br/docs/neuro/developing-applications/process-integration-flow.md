@@ -14,7 +14,7 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 ##FILTROS   
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
- * Palavra chave   
+     * Palavra chave   
 
 ![Screenshot](images/Process-fig01.png)   
 Figura 1 - Tela de pesquisa de design workflow/ESI   
@@ -77,9 +77,9 @@ Os estados do fluxo representam as situações nas quais um fluxo pode se encont
 4. Para editar um estado, selecione o estado desejado, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.   
 5. Para remover um estado, selecione a estado desejado, clique em Remover e confirme a exclusão.   
 
-!!! Abstract "ATENÇÃO"  
+    !!! Abstract "ATENÇÃO"  
 
-    Para salvar efetivamente as alterações, clique em Salvar na barra superior.
+        Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 	
 ##AÇÕES  
 Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
@@ -138,7 +138,7 @@ Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de 
 
     !!! Abstract "ATENÇÃO"  
 
-       Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
+        Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 	
 7. Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
 	

@@ -14,7 +14,7 @@ The process integration flows are workflows that have tasks performed by users a
 ##FILTERS  
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
- - Keyword  
+      * Keyword  
 
 ![Screenshot](images/Process-fig01.png)   
 Figure 1 - Workflow / ESI design search screen  
@@ -83,7 +83,7 @@ Flow states represent the situations in which a flow can found, according to its
 
 !!! Abstract "ATTENTION"  
 
-    **To save your changes effectively, click Save on the top bar.**  
+    To save your changes effectively, click Save on the top bar.
 	
 ##ACTIONS  
 Through this menu, it is possible to register the actions that will be executed in the workflow.  
@@ -107,7 +107,7 @@ Through this menu, it is possible to register the actions that will be executed 
 
 !!! Abstract "ATTENTION"  
 
-    **To save your changes effectively, click Save on the top bar.**  
+    To save your changes effectively, click Save on the top bar. 
 	
 ##ACTORS  
 Flow actors are the users or groups of users who participate in the task (s) of the workflow designed.  

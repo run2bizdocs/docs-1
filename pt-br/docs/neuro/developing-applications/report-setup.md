@@ -13,7 +13,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 ##FILTROS 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Palavra chave ou enter.    
+    * Palavra chave ou enter.    
 
 ![Screenshot](images/Report-setup-fig01.png)     
 Figura 1 -Tela de pesquisa de relatórios     
@@ -37,11 +37,11 @@ Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relat
 ##DATA SOURCE  
 1. Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
 
-- Nenhum: caso o arquivo não realize uma busca no banco de dados.    
-- Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva (cadastrável no menu Conexão de banco).   
-- Objeto de dados: caso a fonte de informações seja um objeto de banco de dados cadastrado na aplicação. Informe o objeto de negócio que será a fonte de dados (cadastrável no menu Objeto de negócio).    
-- Fluxo ESI: caso a fonte de informações seja um fluxo ESI cadastrado na aplicação. Informe o fluxo que será a fonte de dados (cadastrável no menu Design Workflow/ESI).    
-- Script: caso a fonte de dados seja um script, codifique o script utilizando a linguagem Rhino.    
+    - Nenhum: caso o arquivo não realize uma busca no banco de dados.    
+    - Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva       (cadastrável no menu Conexão de banco).   
+    - Objeto de dados: caso a fonte de informações seja um objeto de banco de dados cadastrado na aplicação. Informe o objeto de negócio      que será a fonte de dados (cadastrável no menu Objeto de negócio).    
+    - Fluxo ESI: caso a fonte de informações seja um fluxo ESI cadastrado na aplicação. Informe o fluxo que será a fonte de dados           (cadastrável no menu Design Workflow/ESI).    
+    - Script: caso a fonte de dados seja um script, codifique o script utilizando a linguagem Rhino.    
 
 ![Screenshot](images/Report-setup-fig04.png)   
 Figura 4 - Cadastro/edição de configuração de relatório, aba Data source    
@@ -49,11 +49,11 @@ Figura 4 - Cadastro/edição de configuração de relatório, aba Data source
 ##PARÂMETROS    
 1. Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
 
-- Clique em Adicionar para incluir um novo parâmetro;    
-- Informe o nome do parâmetro, o tipo, e o objeto do parâmetro;   
-- Clique em Salvar para incluir o parâmetro na lista;  
-- Para editar um parâmetro da lista, clique em Editar;   
-- Para remover um parâmetro da lista, clique em Remover.  
+    - Clique em Adicionar para incluir um novo parâmetro;    
+    - Informe o nome do parâmetro, o tipo, e o objeto do parâmetro;   
+    - Clique em Salvar para incluir o parâmetro na lista;  
+    - Para editar um parâmetro da lista, clique em Editar;   
+    - Para remover um parâmetro da lista, clique em Remover.  
 
 ![Screenshot](images/Report-setup-fig05.png)
 

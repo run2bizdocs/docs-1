@@ -14,7 +14,7 @@ Quando for necessária a criação de relatórios nas aplicações construídas 
 ##FILTROS  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Palavra chave ou enter   
+    * Palavra chave ou enter   
 
 ![Screenshot](images/Report-file-fig01.png)   
 Figura 1 - Tela de pesquisa de arquivos de relatório     

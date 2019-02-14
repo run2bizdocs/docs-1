@@ -38,7 +38,7 @@ Procedure
 
     -   When you choose to register a problem from the **Configuration Item**, the
     problem registration screen will be displayed with the "Description" field
-    completed with information from the corresponding configuration item.
+    completed with information from the corresponding configuration item.  
 
  
 Related

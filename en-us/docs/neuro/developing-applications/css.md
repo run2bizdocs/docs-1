@@ -21,11 +21,11 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 1.  The following filter enables the user to restrict the participation of items
     in the standard feature listing, making it easier to find the desired items:  
 
- - Keyword   
+     * Keyword   
 
 ![Screenshot](images/CSS-Filters.png)  
 
-**Figure 1 - CSS Search Screen**  
+Figure 1 - CSS Search Screen  
 
 ##ITEMS LIST
 

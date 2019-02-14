@@ -18,7 +18,7 @@ Este campo é selecionado quando se cria um novo atributo de um objeto de negóc
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Palavra chave   
+    * Palavra chave   
 
 ![Screenshot](images/Data-type-fig01.png)   
 Figura 1 - Tela de pesquisa de tipo de dado    

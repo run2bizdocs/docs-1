@@ -13,7 +13,8 @@ Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neu
 
 ##FILTROS    
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
- * Palavra chave    
+ 
+     * Palavra chave    
 
 ![Screenshot](images/Parameters-search.png)    
 Figura 1 - Tela de pesquisa de parâmetros    
@@ -33,7 +34,8 @@ Figura 2 - Tela de listagem de parâmetros
 2. Nesta tela também é permitido ao usuário outras ações. São elas:    
     
     - Editar: muda um parâmetro existente. Para editar, selecione um item na tabela e clique em Editar.   
-    - Visualização: exibe um parâmetro registrado. Não permite edição. Para visualizar, selecione um item na tabela e clique em Exibir.  
+    - Visualização: exibe um parâmetro registrado. Não permite edição. Para visualizar, selecione um item na tabela e clique em Exibir. 
+
 3. Ao clicar em Cadastrar, será apresentada a seguinte tela:   
 
     ![Screenshot](images/Parameters-register.png)   

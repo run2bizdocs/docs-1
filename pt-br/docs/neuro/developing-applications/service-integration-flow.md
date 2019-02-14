@@ -66,7 +66,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
     * Descrição;  
     * Se será armazenada no banco de dados;  
 
-	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor               durante a execução das tarefas  
+	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor               durante a execução das tarefas.  
 
     * Se é uma variável de retorno;  
 
@@ -84,7 +84,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
     * O tipo da variável;  
 
 	  * Se for um objeto Java, informe a classe Java correspondente;  
-	  * Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
+	  * Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio.  
 
     * O valor inicial da variável, se constante ou script.  
 

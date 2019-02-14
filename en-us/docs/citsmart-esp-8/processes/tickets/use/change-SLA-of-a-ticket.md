@@ -17,8 +17,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Process \>
     Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want, select the button "More Options" and the option "Change SLA"
-    ;
+2.  Click on the ticket you want, select the button "More Options" and the option "Change SLA";
 
 3.  Set the type of SLA, the time (deadline) of attendance, the calendar to
     count this time, the justification and its complement regard the time
