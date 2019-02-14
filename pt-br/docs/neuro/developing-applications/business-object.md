@@ -35,9 +35,9 @@ Figura 2 - Tela de listagem de objetos de negócio cadastrados
 
 ##IDENTIFICAÇÃO  
 Esta aba deve ser alimentada como forma de identificação do objeto de negócio criado.    
-1.	Informe a Aplicação para a qual está sendo criado o objeto de negócio (cadastrada no menu Neuro → Gerenciamento → Aplicação.    
+1.	Informe a Aplicação para a qual está sendo criado o objeto de negócio (cadastrada no menu Neuro > Gerenciamento > Aplicação.    
 2.	Informe o nome de identificação do objeto de negócio, a descrição, o propósito e marque se o sistema deverá gerar o formulário ao salvar;    
-3.	Ao clicar em Gerar formulário ao salvar, o Neuro se encarregará de gerar um formulário baseando-se nas informações inseridas na aba banco de dados. Este formulário poderá ser editado posteriormente através do menu Neuro → Gerenciamento → Formulário.    
+3.	Ao clicar em Gerar formulário ao salvar, o Neuro se encarregará de gerar um formulário baseando-se nas informações inseridas na aba banco de dados. Este formulário poderá ser editado posteriormente através do menu Neuro > Gerenciamento > Formulário.    
 
 ![Screenshot](images/business-object-identification.png)  
 Figura 3 - Tela de cadastro/edição de objetos de negócio  
