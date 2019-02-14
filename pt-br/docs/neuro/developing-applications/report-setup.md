@@ -5,13 +5,13 @@ Description:Essas informações são preenchidas automaticamente a partir do cad
 Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
 
 ##COMO ACESSAR 
-1- Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
+1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
 
 ##PRÉ-CONDIÇÕES 
-1- O formulário deve ser previamente cadastrado no Formulário. 
+1. O formulário deve ser previamente cadastrado no Formulário. 
 
 ##FILTROS 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
 - Palavra chave ou enter.    
 
@@ -19,7 +19,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 Figura 1 -Tela de pesquisa de relatórios     
 
 ##LISTAGEM DE ITENS    
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
+1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
 
 ![Screenshot](images/Report-setup-fig02.png) 
 Figura 2 -Tela de listagem de relatórios    
@@ -27,13 +27,13 @@ Figura 2 -Tela de listagem de relatórios
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
 
 DADOS DO RELATÓRIO    
-1- Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
+1. Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
 ![Screenshot](images/Report-setup-fig03.png) 
 Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
 
 ##DATA SOURCE  
-1- Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
+1. Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
 
 - Nenhum: caso o arquivo não realize uma busca no banco de dados.    
 - Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva (cadastrável no menu Conexão de banco).   
@@ -45,7 +45,7 @@ Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relat
 Figura 4 - Cadastro/edição de configuração de relatório, aba Data source    
 
 ##PARÂMETROS    
-1- Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
+1. Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
 
 - Clique em Adicionar para incluir um novo parâmetro;    
 - Informe o nome do parâmetro, o tipo, e o objeto do parâmetro;   
@@ -59,13 +59,13 @@ Figura 5 - Cadastro/edição de configuração de relatório, aba Parâmetros
 ##FORMULÁRIO   
 Esta aba representa o formulário a ser exibido quando o usuário for gerar o relatório.    
 
-1- Informe o nome do formulário cadastrado, informe se deverão ser exibidas abas, o título do formulário, e o menu associado ao mesmo;    
-2- No formulário selecionado, por padrão, serão acrescentadas opções para gerar o relatório em PDF, Excel e HTML.    
-3- Para alterar o padrão, edite o código fonte apresentado na tela.  
-4- Clique em Salvar para executar as alterações. Clique em Pesquisar para voltar para a tela anterior.   
-5- Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.   
-6- Para visualizar um item, selecione o mesmo e clique em Visualizar.   
-7- Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.    
+1. Informe o nome do formulário cadastrado, informe se deverão ser exibidas abas, o título do formulário, e o menu associado ao mesmo;    
+2. No formulário selecionado, por padrão, serão acrescentadas opções para gerar o relatório em PDF, Excel e HTML.    
+3. Para alterar o padrão, edite o código fonte apresentado na tela.  
+4. Clique em Salvar para executar as alterações. Clique em Pesquisar para voltar para a tela anterior.   
+5. Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.   
+6. Para visualizar um item, selecione o mesmo e clique em Visualizar.   
+7. Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.    
 
 ![Screenshot](images/Report-setup-fig06.png)   
 Figura 6 - Cadastro/edição de configuração de relatório, aba Formulário  
