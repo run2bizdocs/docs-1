@@ -14,9 +14,9 @@ Relacionado
 [Configurar las opciones del mobile][3]
 
 
-[1]:/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html
-[2]:/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html
-[3]:/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
+[1]:/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html
+[2]:/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html
+[3]:/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
 
 
 !!! tip "Sobre"
