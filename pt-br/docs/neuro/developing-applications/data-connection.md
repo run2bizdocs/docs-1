@@ -11,9 +11,8 @@ Todas as conexões de banco de dados que são necessárias para as aplicações 
 1. Deverá ser criada tanto a conexão de banco de dados da aplicação construída, quanto a conexão com os bancos de dados aos quais a aplicação se integra.    
 
 ##FILTROS  
-1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
-  
-  - Palavra chave ou enter.    
+1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:     
+ - Palavra chave ou enter.    
 
 ![Screenshot](images/DataConnection-Filters.png)    
 Figura 1 - Tela de pesquisa de conexão de banco de dados     
