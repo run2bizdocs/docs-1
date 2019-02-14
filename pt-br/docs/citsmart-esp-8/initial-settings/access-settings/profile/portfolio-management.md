@@ -14,7 +14,7 @@ A funcionalidade de Gerência de Portfólio permite definir quem terá acesso à
 funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso
 é permitido (visualização, gravação e/ou exclusão).
 
-Antes de Começar
+Antes de começar
 --------------------
 
 Antes de gerenciar a permissão de acesso é preciso ter cadastrado perfil de
@@ -33,7 +33,7 @@ Procedimento
 
 4.  Vale lembrar que:
 
-  +   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
+  -   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
       acessos pré-existentes ficarão desmarcados), por default, quando for criadas
       novas funcionalidades, exigindo, portanto, que o administrador
       explicitamente habilite esta para os perfis que desejar, tornando-a
