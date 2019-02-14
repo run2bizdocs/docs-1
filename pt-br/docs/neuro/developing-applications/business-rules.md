@@ -37,7 +37,7 @@ Figura 2 - Tela de listagem de regras de negócio
 ##CRIANDO REGRAS DE NEGÓCIOS USANDO TIPO DROOLS  
   1. O Drools é um conjunto de ferramentas que permite separar e raciocinar sobre a lógica e os dados encontrados nos processos de negócios. As duas palavras-chave importantes que tem que executar são lógica e dados. Vá para https://www.drools.org/ para mais informações.    
   2. Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Neuro → Configuração → Domínio;    
-  3. Após o cadastro de domínio, acesse a o menu Neuro → Gerenciamento → Regra de Negócio, clique em Cadastrar.  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Neuro → Gerenciamento → Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
+  3. Após o cadastro de domínio, acesse a o menu Neuro > Gerenciamento > Regra de Negócio, clique em Cadastrar.  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Neuro > Gerenciamento > Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
   4. Além disso, as variáveis que complementam as regras de negócios podem ser inseridas.    
 
     ![Screenshot](images/business-rule-drools.png)  
