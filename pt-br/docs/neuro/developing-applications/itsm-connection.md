@@ -5,14 +5,15 @@ Description: Esta funcionalidade tem como objetivo configurar a conexão para re
 Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
 
 ##COMO ACESSAR  
-1- Acesse a funcionalidade através da navegação no menu Builder > Configuração > Conexão ITSM.   
+1. Acesse a funcionalidade através da navegação no menu Builder > Configuração > Conexão ITSM.   
 
 ##PRÉ-CONDIÇÕES    
-1- Não se aplica.   
+1. Não se aplica.   
 
 ##FILTROS  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:  
-  - Palavra chave.  
+      
+      * Palavra chave.  
 
 ![Screenshot](images/ITSM-Search.png)   
 Figura 1 - Tela de pesquisa     
