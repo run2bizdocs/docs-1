@@ -50,13 +50,13 @@ BASICS DATA
 
 4. The generated tabs will have the following structure:
 
-  + **HTML**: page html structure; 
+      + **HTML**: page html structure; 
   
-  + **HTML mobile**: html framework for mobile devices;
+      + **HTML mobile**: html framework for mobile devices;
   
-  + **Controller**: controller code referring to the form; 
+      + **Controller**: controller code referring to the form; 
   
-  + **Dependencies**: The dependencies of the application are reported. The name of the dependency and the path in which it is located must be entered. The user must also inform whether it will be injected into the controller.    
+      + **Dependencies**: The dependencies of the application are reported. The name of the dependency and the path in which it is             located must be entered. The user must also inform whether it will be injected into the controller.    
 
 ![Screenshot](images/Form-business.png)    
 Figure 3 - Register/edit business form, basic data tab  
