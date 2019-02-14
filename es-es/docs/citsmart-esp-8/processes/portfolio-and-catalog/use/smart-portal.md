@@ -1,63 +1,62 @@
 title:  Smart Portal
-Description: O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços
+Description: Smart Portal es un recurso de la solución que ofrece el Catálogo de Servicios
 #Smart Portal
-O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços (Negócio e Apoio) aos usuários do sistema e permite realizar ações diversas, tais como:  
-•	Abrir um ticket (solicitação de serviço);  
-•	Receber notícias referentes ao Sistema;  
-•	Avaliar a solicitação de serviço;  
-•	Acesso aos conhecimentos referentes ao ticket para esclarecimento de dúvidas.  
+Smart Portal es un recurso de la solución que ofrece el Catálogo de Servicios (Negocio y Apoyo) a los usuarios del sistema y permite realizar acciones diversas, tales como:  
+•	Abrir un ticket (solicitud de servicio);  
+•	Recibir noticias referentes al Sistema;  
+•	Evaluar la solicitud de servicio;  
+•	Acceso a los conocimientos referentes al ticket para aclaración de dudas.  
 
-Antes de começar 
+Antes de empezar 
 -----------------
 
-É necessário o cadastro prévio do contrato, a definição do tempo de atendimento
-das atividades de requisição/incidente. É imprescindível também ter o portfolio
-com os serviços e as atividades de requisição/incidente cadastrados e
-disponibilizados no Smart Portal.
+Es necesario el registro previo del contrato, la definición del tiempo de atención
+de las actividades de solicitud/incidente. Es imprescindible también tener el portafolio
+con los servicios y las actividades de solicitud/incidente registrados y disponibles
+en el Smart Portal.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Portfólio e Catálogo \> Smart Portal;
+1.  Acceder al menú principal Procesos \> Gestión de
+    Portafolio y Catálogo \> Smart Portal;
 
-2.  Escolher o portfolio desejado e clicar sobre o mesmo. Será apresentado
-    diversas ações que podem ser executadas em cada uma das abas desta tela. São
-    elas:
+2.  Elegir un portafolio y hacer clic. Se presentará varias acciones que se
+    pueden ejecutar en cada una de las pestañas de esta pantalla. Ellas son:
 
-    -   **Serviços**: Nesta aba será expostos as atividades registradas neste
-    portfolio. Ao selecionar e clicar sobre a atividade pretendida, será
-    possível registrar a solicitação de serviço (ticket) referente ao cenário
-    encontrado, também é viável observar os conhecimentos referente ao ticket ao
-    clicar na aba de mesmo nome, analisar as avaliações dos usuários referente
-    as solicitações disponibilizadas ao clicar na aba “Avaliações” e ter acesso
-    as notícias referente a solicitação em questão ao apertar a aba “Campanhas
-    ativas”;
+    -   **Servicios**: En esta pestaña se presentarán las actividades registradas 
+    en este portafolio. Al seleccionar y hacer clic en una actividad, será posible
+    registrar la solicitud de servicio (ticket) referente al escenario encontrado,
+    también es viable observar los conocimientos referentes al ticket al hacer clic
+    en la pestaña del mismo nombre, analizar las evaluaciones de los usuarios referentes
+    a las solicitudes disponibles al hacer clic en la pestaña "Evaluaciones" y tener acceso
+    a las noticias referentes a la solicitud en cuestión al apretar la pestaña "Campañas
+    activa";
 
     !!! Abstract "NOTAS"  
 
-        Os conhecimentos diponivéis na aba “Conhecimentos” do item “Serviço” podem ser
-        definidos em dois níveis:
+        Los conocimientos diponibles en la pestaña "Conocimientos", del elemento "Servicio", pueden ser
+        definidos en dos niveles:
 
-        -   Os conhecimentos que foram vinculados ao portfolio que estarão dispostos no 
-        item “Relacionados ao Serviço”;
+        -   Los conocimientos que se han vinculado al portafolio que estarán dispuestos en el
+        elemento "Relacionados al Servicio";
 
-        -   Os conhecimentos que foram associados ao ticket ( adicionados quando o
-        responsável pelo atendimento deste vinculou um artigo para difundir o 
-        conhecimento da solução do mesmo) ordenados no item “Relacionados a 
-        Requisição/Incidente.  
+        -   Los conocimientos que se asociaron al ticket (añadidos cuando
+        responsable de la atención de éste vinculó un artículo para difundir el
+        conocimiento de la solución del mismo) ordenados en el elemento "Relacionados a
+        la Solicitud/Incidente".  
 
-    -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
-    vinculados ao portfolio;
+    -   **Conocimientos**: Al hacer clic sobre la pestaña, se presentarán los conocimientos
+    vinculados al portafolio;
 
-    -   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
-    informações) referente ao portfolio em questão.
+    -   **Campañas activas**: Esta pestaña expone los cuestionarios (recolección de
+    información) sobre el portafolio en cuestión.
 
-3.  Ao clicar no ícone “Menu”, será exibido atalhos a algumas ações. É permitido
-    visualizar as solicitação abertas pelo usuário ao apertar no ícone “Minhas
-    solicitações”, visualizar as aprovações do ticket efetuadas pelo usuário,
-    observar as notícias e campanhas ativas (questionários) referente a
-    organização como um todo.  
+3.  Al hacer clic en el icono "Menú", se muestran accesos directos a algunas acciones.
+    Se permite visualizar las solicitudes abiertas por el usuario al apretar el icono "Mis
+    solicitudes", ver las aprobaciones del ticket efectuadas por el usuario,
+    observar las noticias y campañas activas (cuestionarios) referentes a
+    la organización como un todo.  
     
 !!! tip "About"  
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
