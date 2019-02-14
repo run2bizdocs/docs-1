@@ -12,7 +12,7 @@ When you produce a set of application items through the Neuro, it is possible th
 
 ##FILTERS  
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
- - Keyword or enter.  
+     * Keyword or enter.  
 
 ![Screenshot](images/Package-Search.png)  
 Figure 1 - Package search screen  
