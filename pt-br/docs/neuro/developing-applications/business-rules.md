@@ -15,7 +15,7 @@ No Neuro, as regras de negócio podem ser construídas através do desenho de um
 ##FILTROS  
 1.	O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:
 
-   -  Palavra chave ou enter    
+-  Palavra chave ou enter    
 
 ![Screenshot](images/business-rule-filter.png)  
 Figura 1 - Tela de pesquisa de regras de negócio    
