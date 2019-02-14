@@ -13,7 +13,7 @@ In this screen the parameters to be used in applications created through Neuro a
 
 ##FILTERS  
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
- - Keyword  
+       * Keyword  
 
 ![Screenshot](images/Parameters-search.png)    
 Figure 1 - Parameter search screen  
