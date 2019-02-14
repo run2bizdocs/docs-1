@@ -13,7 +13,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 ##FILTROS 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
-- Palavra chave ou enter.    
+    * Palavra chave ou enter.    
 
 ![Screenshot](images/Report-setup-fig01.png)     
 Figura 1 -Tela de pesquisa de relatórios     
