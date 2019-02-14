@@ -28,13 +28,13 @@ Procedimento
 3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
     prazos estabelecidos:
 
-    -   Vencidas: mostra o total dos **Sprints** que tenha a “Data da entrega” menor
+    -   Vencidas: mostra o total das **Sprints** que tenha a “Data da entrega” menor
     que a data/hora atual;
 
-    -   A vencer: mostra o total dos **Sprints** que tenha a “Data da entrega” que
+    -   A vencer: mostra o total das **Sprints** que tenha a “Data da entrega” que
     ficarão vencidas em 24h a partir da data/hora atual;
 
-    -   No prazo: mostra o total dos **Sprints** que tenha a “Data da entrega” maior
+    -   No prazo: mostra o total das **Sprints** que tenha a “Data da entrega” maior
     que 24h a partir da data/hora atual;
 
     -   Total: soma das **Sprints** que estão dentro do Workspace.
@@ -46,7 +46,7 @@ Procedimento
 
 2.  Clicar no botão “Sprint”, nomear e “Salvar”;
 
-3.  Cada Sprint conterá em sua tela inicial um contador de tarefas, horas
+3.  Cada Sprint conterá em sua tela inicial um contador de **tarefas**, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas:
 
@@ -63,13 +63,13 @@ Procedimento
 
     -   A barra de progressão possui o seguinte cálculo:
 
-        -   1º É feito a soma do total de estimativas de todas as tarefas
+        -   1º É feito a soma do total de estimativas de todas as **tarefas**
             concluídas;
 
-        -   2º É feito a soma do total de estimativas de todas as tarefas;
+        -   2º É feito a soma do total de estimativas de todas as **tarefas**;
 
         -   3º Progresso é a porcentagem calculadas com o total de estimativas das
-            tarefas concluídas sobre o total de estimativas de todas as tarefas.
+            **tarefas** concluídas sobre o total de estimativas de todas as tarefas.
 
 !!! Abstract "ATENÇÃO"
 
@@ -138,7 +138,7 @@ Figura 1 - Tela Sprint
 
 !!! Abstract "ATENÇÃO"
 
-    Para movimentar uma tarefa de uma lista para outra, clicar e arrastar a
+    Para movimentar uma **tarefa** de uma lista para outra, clicar e arrastar a
     mesma para a lista desejado.
 
 *V - Preencher cartão Simple*
@@ -172,10 +172,10 @@ dispositivos de controle e gestão.
 
     -   8: Mover a tarefa para outra Sprint:
 
-        -   Sprint do mesmo Workspace: as tags são mantidas, porém os membros são
+        -   Sprint do *mesmo* Workspace: as tags são mantidas, porém os membros são
             removidos da tarefa
 
-        -   Sprint de outro Workspace: as tags e membros serão removidos da tarefa
+        -   Sprint de *outro* Workspace: as tags e membros serão removidos da tarefa
 
     -   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
     ser reutilizado.
