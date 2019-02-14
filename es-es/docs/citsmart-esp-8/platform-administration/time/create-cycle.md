@@ -17,13 +17,13 @@ Procedimiento
 
 4.  Es importante recordar que:
 
--   cada intervalo de fechas debe ser único, incluso con títulos diferentes y el
+    -   cada intervalo de fechas debe ser único, incluso con títulos diferentes y el
     sistema se ocupa de impedir este tipo de redundancia e incoherencia;
 
--   no se permite la exclusión del ciclo, si éste está vinculado a algún ingreso
+    -   no se permite la exclusión del ciclo, si éste está vinculado a algún ingreso
     o gasto del control financiero.
 
-1.  Hacer clic en "Guardar".
+5.  Hacer clic en "Guardar".
 
 
 !!! tip "About"
