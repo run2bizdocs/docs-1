@@ -17,7 +17,7 @@ This field is selected when you create a new attribute for a business object. Mo
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
-- Keyword  
+    * Keyword  
 
 ![Screenshot](images/Data-type-fig01.png)   
 Figure 1 - Data type search screen  

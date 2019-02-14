@@ -16,7 +16,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
-- Keyword  
+    * Keyword  
 
 ![Screenshot](images/Variables-fig01.png)  
 Figure 1 - Search screen

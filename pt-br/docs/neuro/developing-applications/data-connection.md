@@ -13,7 +13,7 @@ Todas as conexões de banco de dados que são necessárias para as aplicações 
 ##FILTROS  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:     
 
-* Palavra chave ou enter.    
+    * Palavra chave ou enter.    
 
 ![Screenshot](images/DataConnection-Filters.png)    
 Figura 1 - Tela de pesquisa de conexão de banco de dados     
