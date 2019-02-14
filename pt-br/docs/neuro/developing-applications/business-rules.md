@@ -33,7 +33,6 @@ Figura 2 - Tela de listagem de regras de negócio
   4. As regras de negócio inseridas, por padrão são criadas bloqueadas. Isso significa que a regra não será utilizada a menos que você a Desbloqueie. Para que o desbloqueio da regra ocorra, selecione o item desejado, e clique na opção Desbloquear, localizada no menu superior.; de negócio, em um processo de negócio ou em um fluxo;    
   5. Mais informações sobre o uso de uma regra de negócio podem ser encontradas no Desenvolvendo aplicações.    
 
---------------------  
 
 ##CRIANDO REGRAS DE NEGÓCIOS USANDO TIPO DROOLS  
   1. O Drools é um conjunto de ferramentas que permite separar e raciocinar sobre a lógica e os dados encontrados nos processos de negócios. As duas palavras-chave importantes que tem que executar são lógica e dados. Vá para https://www.drools.org/ para mais informações.    
