@@ -12,7 +12,7 @@ The form must be previously registered in the Form.
 ##FILTERS  
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
-- Keyword or enter.  
+     * Keyword or enter.  
 
 ![Screenshot](images/Report-setup-fig01.png)     
 Figure 1 - Report configuration search screen   
