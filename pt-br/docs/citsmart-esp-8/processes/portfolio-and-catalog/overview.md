@@ -41,7 +41,7 @@ Configuração
 
 - [Criar calendário](/pt-br/citsmart-esp-8/platform-administration/time/create-calendar.html)
 
-- [Cadastrar causa de incidentes](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidentes.html)
+- [Cadastrar causa de incidentes](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 - [Cadastrar categoria de solução](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
