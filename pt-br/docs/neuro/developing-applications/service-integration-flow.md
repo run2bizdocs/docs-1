@@ -19,7 +19,8 @@ Os fluxos de integração de serviços, como o próprio nome diz, envolvem workf
 
 - Palavra chave  
 
-![Screenshot](images/Service-Integration-Flow-fig01.png) 
+![Screenshot](images/Service-Integration-Flow-fig01.png)
+
 Figura 1 - Tela de pesquisa    
 
 ##LISTAGEM DE ITENS    
@@ -52,41 +53,42 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
 Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.  
 
-1  Para adicionar uma variável, selecione a sua aba referente e clique em Adicionar.  
-2  Será apresentada a seguinte tela:    
+1. Para adicionar uma variável, selecione a sua aba referente e clique em Adicionar.  
+2. Será apresentada a seguinte tela:    
 
-    ![Screenshot](images/Service-Integration-Flow-fig05.png)   
+    ![Screenshot](images/Service-Integration-Flow-fig05.png)
+    
     Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis     
 
-3. Preencha os campos:    
+3. Preencha os campos:
 
-    - Nome da variável;  
-    - Descrição;  
-    - Se será armazenada no banco de dados;  
+    * Nome da variável;  
+    * Descrição;  
+    * Se será armazenada no banco de dados;  
 
-	- Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor durante a execução das tarefas  
+	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor               durante a execução das tarefas  
 
-    - Se é uma variável de retorno;  
+    * Se é uma variável de retorno;  
 
-	- Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
+	  * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
 
-    - Se é uma lista de valores;  
-    - Se é uma variável de entrada na interface do fluxo;  
+    * Se é uma lista de valores;  
+    * Se é uma variável de entrada na interface do fluxo;  
 
-	- Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.  
+	  * Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.  
 
-    - Se é uma variável de saída na interface do fluxo;  
+    * Se é uma variável de saída na interface do fluxo;  
 
-	- Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.  
+	  * Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.  
 
-    - O tipo da variável;  
+    * O tipo da variável;  
 
-	- Se for um objeto Java, informe a classe Java correspondente;  
-	- Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
+	  * Se for um objeto Java, informe a classe Java correspondente;  
+	  * Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
 
-    - O valor inicial da variável, se constante ou script.  
+    * O valor inicial da variável, se constante ou script.  
 
-	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.  
+	  * Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas             pelo usuário.  
 
 4. Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
 
@@ -138,7 +140,8 @@ Os demais componentes presentes na paleta se assemelham aos componentes de um �
 1. Para desenhar o diagrama, escolha a aba refente ao mesmo.  
 2. A seguinte tela será exibida:  
 
-![Screenshot](images/Service-Integration-Flow-fig07.png) 
+![Screenshot](images/Service-Integration-Flow-fig07.png)
+
 Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
 
 
