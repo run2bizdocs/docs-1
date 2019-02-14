@@ -14,7 +14,7 @@ Os formulários podem ser criados manualmente, ou gerados através do Objeto de 
 ##FILTROS    
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
-* Palavra chave ou enter.    
+    * Palavra chave ou enter.    
 
 ![Screenshot](images/Form-Search.png)   
 Figura 1 - Tela de pesquisa de formulário    
@@ -42,10 +42,10 @@ DADOS BÁSICOS
 
 4. As abas geradas possuem a seguinte estrutura: 
 
-   - **HTML**: estrutura html da página;    
-   - **HTML mobile**: estrutura html para dispositivos móveis;  
-   - **Controller**: código do controller referente ao formulário;  
-   - **Dependencies**: são informadas as dependências da aplicação. Deverão ser informados o nome da dependência e o path na qual a        mesma se encontra. Informe também se será injetada no controller.      
+    - **HTML**: estrutura html da página;    
+    - **HTML mobile**: estrutura html para dispositivos móveis;  
+    - **Controller**: código do controller referente ao formulário;  
+    - **Dependencies**: são informadas as dependências da aplicação. Deverão ser informados o nome da dependência e o path na qual a          mesma se encontra. Informe também se será injetada no controller.      
 
 ![Screenshot](images/Form-business.png)    
 Figura 3 - Tela de cadastro/edição de formulários, aba "Dados básicos"   
