@@ -29,6 +29,27 @@ Procedimento
 
 5.  Preencher os dados conforme o formato a ser definido.
 
+!!! Abstract "REGRA"
+
+    A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato
+    que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato”
+    são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de
+    Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
+
+ !!! Abstract "REGRA"
+
+     Caso uma das 3 línguas nessa aba ficar em branco, as informações serão
+     preenchidas com as que estiver contidas na aba "Apresentação".
+
+
+!!! Abstract "REGRA"
+
+    A configuração da permissão de acesso do grupo para visualização do Portfólio
+    no Smart Portal, somente será aplicada caso o parâmetro 293 “Habilita permissão
+    de acesso para grupos de usuário no portal” esteja habilitado.
+
+
+
 O que fazer a seguir
 ------------------------
 
