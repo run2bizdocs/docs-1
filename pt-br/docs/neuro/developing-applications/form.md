@@ -14,7 +14,7 @@ Os formulários podem ser criados manualmente, ou gerados através do Objeto de 
 ##FILTROS    
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
-- Palavra chave ou enter.    
+* Palavra chave ou enter.    
 
 ![Screenshot](images/Form-Search.png)   
 Figura 1 - Tela de pesquisa de formulário    
