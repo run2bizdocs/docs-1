@@ -183,7 +183,7 @@ O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode
    - Esta aba define como será mostrada a interface gráfica para o usuário ao executar essa tarefa, ou seja, como será a tela que o        mesmo irá operar. Poderão ser escolhidos dois caminhos:    
 
     - Construir a tela em HTML dentro desta aba; ou   
-    - Buscar um formulário pré-cadastrado no repositório do projeto (Builder → Gerenciamento da aplicação →  Formulário).    
+    - Buscar um formulário pré-cadastrado no repositório do projeto (Builder > Gerenciamento da aplicação >  Formulário).    
 
 6. Para utilizar um formulário já criado no repositório, marque a opção Formulário do repositório como “Sim”, e informe o Nome do formulário.   
 7. Se optar por utilizar um formulário do repositório, terá a opção de adicionar um HTML com informações adicionais para essa tarefa em específico. É muito útil para reutilização de formulário genéricos, acrescendo informações específicas da tarefa.    
