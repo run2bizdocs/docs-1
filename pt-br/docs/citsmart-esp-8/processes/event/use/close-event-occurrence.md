@@ -14,7 +14,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Evento \> Evento;
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”;
+2.  Clicar sobre o evento escolhido e em seguida no botão “Encerrar ocorrência”;
 
 3.  Clicar em "Sim" para a pergunta de confirmação de encerramento.
 
