@@ -33,7 +33,7 @@ Figura 2 - Tela de listagem
 
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
-1. Para adicionar um novo fluxo, clique em Cadastrar→ Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
+1. Para adicionar um novo fluxo, clique em Cadastrar > Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
 
     ![Screenshot](images/Service-Integration-Flow-fig03.png)   
     Figura 3 - Tela de registro   
@@ -94,7 +94,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+    Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 
 ##AÇÕES  
 
