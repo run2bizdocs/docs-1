@@ -29,6 +29,30 @@ Procedimiento
 
 5.  Completar los datos según el formato que se va a definir.
 
+!!! Abstract "REGLA"
+
+    La elección del tipo Negocio/Apoyo debe estar alineada con el tipo del
+    contrato que se pretende vincular al Portafolio. Sólo los contratos del tipo
+    "Contrato" se vinculan al tipo "Negocio" y sólo los contratos del tipo
+    "Contrato de Apoyo" y "Acuerdo de Nivel Operativo" están vinculados al tipo
+    "Apoyo".
+
+
+!!! Abstract "REGLA "
+
+    Si una de las tres lenguas en la pestaña “En varios idiomas” queda en
+    blanco, la información se rellenará con las que se encuentran en la pestaña
+    "Presentación".
+
+
+!!! Abstract "REGLA"
+
+    La configuración del permiso de acceso del grupo para la visualización del
+    Portafolio en el Smart Portal, sólo se aplicará si el parámetro 293
+    "Habilita permiso de acceso para grupos de usuarios en el portal" está
+    habilitado.
+
+
 Lo que hacer después
 --------------------
 
