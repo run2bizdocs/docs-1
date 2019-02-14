@@ -1,209 +1,203 @@
 Title: Gerenciamento ágil Simple
 
-# Gerenciamento ágil Simple
+# Simple Agile Management
 
 
-O CITSmart Simple é uma funcionalidade da plataforma CITSmart ESP que permite o
-gerenciamento fácil e ágil de atividades. Foi criado para gerenciar os projetos
-da maneira mais simples, com recursos para organizar, monitorar e delegar as
-atividades entre os membros de sua equipe ou individualmente.
+Simple is a functionality of the CITSmart Platform that allows the easy and agile
+management of activities. It was created to manage projects in the simplest way,
+with resources to organize, monitor and delegate the activities among the members
+of your team or individually.
 
-O Simple é baseado na metodologia Kanban, onde os mesmos são organizados
-visualmente em um quadro disposto de cartões que sinalizam o andamento do fluxo.
+Simple is based on the Kanban methodology, it's visually organized in a framework
+with cards that indicate the flow progress.
 
-Na área de trabalho do Simple as atividades são inseridas e agrupadas por
-projetos (no Simple chamados de Workspaces), painel de tarefas (no Simple
-chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
+In the Simple workspace, activities are inserted and grouped by projects
+(in Simple called Workspace), task pane (in Simple called Sprint) and finally
+tasks, which can be in groups of cards.
 
-Procedimento
+Procedure
 ------------
 
-*I - Criar um Workspace*
+*I - Create a Workspace*
 
-1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
-    Simple – Gestão Ágil;
+1.  Access the main menu Inegrated Management \>
+    Simple – Agile Management;
 
-2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
+2.  Click on “Workspace” and give a name to create the new workspace;
 
-3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
-    prazos estabelecidos:
+3.  Each Workspace will have in its home screen a summary of Sprints and
+    its deadlines:
 
-    -   Vencidas: mostra o total das **Sprints** que tenha a “Data da entrega” menor
-    que a data/hora atual;
+    -   Expired: it presents the number of **Sprints** with the "delivery date"
+    smaller than the current date/time;
 
-    -   A vencer: mostra o total das **Sprints** que tenha a “Data da entrega” que
-    ficarão vencidas em 24h a partir da data/hora atual;
+    -   To be expired: it presents the numer of **Sprints** with the "delivery date"
+    that will expire in 24hs from the current date/time;
 
-    -   No prazo: mostra o total das **Sprints** que tenha a “Data da entrega” maior
-    que 24h a partir da data/hora atual;
+    -   On time: it presents the number of **Sprints** with the "delivery date"
+    bigger than 24hs from the current date/time;
 
-    -   Total: soma das **Sprints** que estão dentro do Workspace.
-
-
-*II - Criar uma Sprint*
-
-1.  Clicar no Workspace criado anteriormente;
-
-2.  Clicar no botão “Sprint”, nomear e “Salvar”;
-
-3.  Cada Sprint conterá em sua tela inicial um contador de **tarefas**, horas
-    despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
-    percentual de realização das mesmas:
-
-    -   Vencidas: mostra o total de **tarefas** que tenha a “Data da entrega” menor
-    que a data/hora atual;
-
-    -   A vencer: mostra o total de **tarefas** que tenha a “Data da entrega” que
-    ficarão vencidas em 24h a partir da data/hora atual;
-
-    -   No prazo: mostra o total de **tarefas** com a “Data da entrega” maior que
-    24h a partir da data/hora atual;
-
-    -   Total: mostra o total de **tarefas** daquela Sprint;
-
-    -   A barra de progressão possui o seguinte cálculo:
-
-        -   1º É feito a soma do total de estimativas de todas as **tarefas**
-            concluídas;
-
-        -   2º É feito a soma do total de estimativas de todas as **tarefas**;
-
-        -   3º Progresso é a porcentagem calculadas com o total de estimativas das
-            **tarefas** concluídas sobre o total de estimativas de todas as tarefas.
-
-!!! Abstract "ATENÇÃO"
-
-    O cálculo do progresso depende totalmente das estimativas informadas nas
-    tarefas.
+    -   Total: sum of the **Sprints** inside the Workspace.
 
 
-![tela sprint](images/figure-1-simple.png)
+*II - Create a Sprint*
+
+1.  Click on the Workspace created before;
+
+2.  Click on “Sprint”, give it a title and "Save”;
+
+3.  Each Sprint has in its home screen a counter of **tasks**, hours spent
+    and planned, total of tasks by deadline established and its percentage of
+    achievement:
+
+    -   Expired: it presents the number of **tasks** with the "delivery date" smaller
+    than the current date/time;
+
+    -   To be expired: it presents the number of **tasks** with the "Delivery date"
+    that will expire in 24hs from the current date/time;
+
+    -   On time: it presents the number of **tasks** with the "delivery date" bigger
+    than 24hs from the current date/time;
+
+    -   Total: it presents the total number of **tasks** of the Sprint;
+
+    -   The progress bar has the following calculation:
+
+        -   1st It's made the sum of the tasks estimate of all completed **tasks**;
+
+        -   2nd The sum of the total estimates of all **tasks** is summed;
+
+        -   3rd Progress is the percentage calculated with the total estimates of 
+            completed **tasks** on the total estimates of all tasks.
+
+!!! Abstract "NOTE"
+
+    The calculation of progress depends entirely on the estimates reported in the
+    tasks.
+
+
+![sprint screen](images/figure-1-simple.png)
     
-Figura 1 - Tela Sprint
+Figure 1 - Sprint Screen
 
 
-   -   1: pesquisar Sprints com filtros de membros, tags e status da Sprint
+   -   1: search Sprints with filters of members, tag and status of the Sprint
+    (completed and not completed)
+
+   -   2: create new Sprint
+
+   -   3: abbreviation of added member names. By clicking on it, it's possible to
+    delete and define if the member will be manager or not
+
+   -   4: add member that will participate in the Sprint
+
+   -   5: actios of configuration and permission of the Sprint
+
+
+*III - Create lists*
+
+1.  In each Sprint it will be available a default list of the system:: “To
+    do, In progress and Completed”;
+
+2.  To create a new list, click on "+List”, give a title and "Save”.
+
+    ![list screen](images/figure-2-simple.png)
+    
+    Figure 2 - List screen
+
+
+    -   1: search tasks with filters of member, tags and status of the list lista
     (concluída e não concluída)
 
-   -   2: criar nova Sprint
+    -   2: create new list
 
-   -   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
-    excluir e definir se o membro será administrador ou não
+    -   3: refresh the screen
 
-   -   4: adicionar membros que participarão da Sprint
+    -   4: abbreviation for the member name added. When clicking on it, it's possible to
+    delete and define if the member will be manager or not
 
-   -   5: ações de configuração e permissão da Sprint
+    -   6: set the date, hour and hours estimated to deliver
 
+    -   7: view the history of actions
 
-*III - Criar listas*
+    -   8: archive tasks list
 
-1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
-    fazer, Em andamento e Concluída”;
+*IV - Create tasks*
 
-2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
-
-    ![tela lista](images/figure-2-simple.png)
+   ![task screen](images/figure-3-simple.png)
     
-    Figura 2 - Tela lista
+   Figure 3 - Task screen
 
 
-    -   1: pesquisar tarefas com filtros de membros, tags e status da lista
-    (concluída e não concluída)
+   -   1: create new task
 
-    -   2: criar nova lista
+   -   2: define in which stage the task is.
 
-    -   3: atualizar a tela
+   -   3: move the list inside the framework
 
-    -   4: abreviação do nome do membro adicionado. Ao clicar é possível excluir e
-    definir se o membro será administrador ou não
+!!! Abstract "NOTE"
 
-    -   6: definir data, hora e estimativa de horas para entrega
+    To move a **task** from a list to another, click and drag it to the list.
 
-    -   7: visualizar o histórico de ações
+*V - Complete Simple card*
 
-    -   8: arquivar lista de tarefas
+The Simple card has fields and buttons to describe a task/action with planning
+and control of dates, hours, checklist and several others device of control
+and management.
 
-*IV - Criar tarefas*
+1.  Each card has devices of control and information:
 
-   ![tela tarefa](images/figure-3-simple.png)
+     ![card screen](images/figure-4-simple.png)
     
-   Figura 3 - Tela tarefa
+      Figure 4 - Card screen
 
 
-   -   1: criar nova tarefa
+    -   1: add or remove members in the task
 
-   -   2: definir em qual estágio a tarefa se encontra.
+    -   2: add list of actions that will be viewed in the Checklist tab
 
-   -   3: mover a lista fisicamente dentro do quadro
+    -   3: add comments
 
-!!! Abstract "ATENÇÃO"
+    -   4: each member can post hours referring to their time used in the task,
+    besides detailing the action taken
 
-    Para movimentar uma **tarefa** de uma lista para outra, clicar e arrastar a
-    mesma para a lista desejado.
+    -   5: add tags to visually identify the task card
 
-*V - Preencher cartão Simple*
+    -   6: click to be notified of any changes in this task. This notification will be
+    done through the notification button of the CITSmart Platform
 
-O cartão Simple contém campos e botões para descrever uma tarefa/ação com
-planejamento e controle de datas, horários, checklist e diversos outros
-dispositivos de controle e gestão.
+    -   7: indicate the completion of the task
 
-1.  Cada cartão possui dispositivos de controle e informações:
+    -   8: move the task to another Sprint:
 
-     ![tela cartão](images/figure-4-simple.png)
-    
-      Figura 4 - Tela cartão
+        -   Sprint of the *same* Workspace: tags are retained, but members are
+            removed from the task
 
+        -   Sprint of *other* Workspace: the tags and members will be removed from the task
 
-    -   1: adicionar ou retirar membros na tarefa
+    -   9: archive the card – once archived, in this version, the card cannot be reused.
 
-    -   2: adicionar listas de ações que serão visualizadas na aba Checklist
+1.  Describe the taks in the field "Description”;
 
-    -   3: adicionar comentários
+2.  Define the date and time of delivery in the field "Delivery date”;
 
-    -   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
-    além de detalhar a ação tomada
+3.  Estimate the number of hours that will be used in the task;
 
-    -   5: adicionar tags para identificar visualmente o cartão de tarefa
+4.  In the field "Hours released", the system will automatically count the total;
 
-    -   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
-    comunicação será através do botão de notificações do CITSmart ESP
+5.  The tabs available present:
 
-    -   7: indicar a finalização da tarefa
+    -   Checklist: adding a checklist will create an item on this tab. To name it,
+    place the mouse on "Add item...", click on add "+" to add new item. To indicate
+    the completion of an item inside the checklist, select the checkbox;
 
-    -   8: Mover a tarefa para outra Sprint:
+    -   Comments: list of comments made;
 
-        -   Sprint do *mesmo* Workspace: as tags são mantidas, porém os membros são
-            removidos da tarefa
+    -   Attachments: make availabe the field to add attachmetns;
 
-        -   Sprint de *outro* Workspace: as tags e membros serão removidos da tarefa
+    -   Hours released: relate hours released of each member participating in the task;
 
-    -   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
-    ser reutilizado.
-
-1.  Descrever a tarefa no campo “Descrição”;
-
-2.  Definir a data e hora de entrega no campo “Data de entrega”;
-
-3.  Estimar a quantidade de horas que serão utilizadas na tarefa;
-
-4.  No campo “Horas lançadas” o sistema contabilizará automaticamente o total;
-
-5.  As abas disponibilizadas mostram:
-
-    -   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
-    nomear, posicionar o mouse no campo “Adicionar item...”, clicar no botão de
-    adicionar “+” para adicionar novo item. Para indicar finalização de um item
-    dentro de um checklist, selecionar o checkbox;
-
-    -   Comentários: lista os comentários realizados;
-
-    -   Anexos: disponibiliza campo para adicionar anexos;
-
-    -   Horas lançadas: relaciona horas lançadas de cada membro participante da
-    tarefa;
-
-    -   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
-    hora.
+    -   History: it presents all actions made in the card, with date and time.
 
 !!! tip "About"
 
