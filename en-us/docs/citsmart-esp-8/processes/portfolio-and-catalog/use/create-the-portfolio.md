@@ -34,6 +34,29 @@ Procedure
 
 5.  Complete the data according to the format to be defined.
 
+!!! Abstract "RULE"
+
+    The choice of Business/Technical type must be in line with the type of
+    contract to be linked to the portfolio, only contracts of the type
+    "Contract" are linked to the type "Business" and only contracts of the type
+    "Technical Contract" and "Operational Level Agreement" are linked to the
+    "Support" type.
+    
+    
+!!! Abstract "RULE"
+
+    If one of the 3 languages on "Multi-languages" tab is left blank, the information will
+    be filled out with the information contained in the "Presentation".
+    
+    
+!!! Abstract "RULE"
+
+    The configuration of the group access permission to view the Service
+    Portfolio in the Portal will only be applied if the parameter 293 "Enable
+    access permission for user groups in the portal" is enabled.
+
+
+
 Related
 -----------
 
