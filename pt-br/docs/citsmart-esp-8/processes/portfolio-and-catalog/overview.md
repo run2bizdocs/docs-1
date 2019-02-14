@@ -26,6 +26,8 @@ Uso
 
 - [Gerenciar minhas solicitações pelo Smart Portal](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
+- [Smart Portal](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/smart-portal.html)
+
 Configuração
 -----------------
 
