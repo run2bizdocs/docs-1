@@ -28,7 +28,7 @@ Figura 2 - Tela de listagem de design workflow/ESI
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO  
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
-1. Clique em Cadastrar → Fluxo de integração de processos, conforme ilustrado na figura abaixo:    
+1. Clique em Cadastrar > Fluxo de integração de processos, conforme ilustrado na figura abaixo:    
 
     ![Screenshot](images/Process-fig03.png)   
     Figura 3 - Tela de cadastro de fluxo de integração de serviços    
@@ -103,7 +103,7 @@ Por meio deste menu, é possível cadastrar as ações que serão executadas no 
 
 !!! Abstract "ATENÇÃO"  
 
-    Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
+     Para salvar efetivamente as alterações, clique em Salvar na barra superior.    
 	
 ##ATORES    
 Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
