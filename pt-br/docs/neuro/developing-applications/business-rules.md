@@ -29,14 +29,14 @@ Figura 2 - Tela de listagem de regras de negócio
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
   1. Para editar um item criado, selecione o item desejado, clique em Editar, faças as alterações, e clique em Salvar;    
   2. Para criar nova regra de negócio, clique no botão Cadastrar;    
-  3. Para remover um item criado, selecione o item desejado, clique em Editar → Remover e confirme a exclusão;    
+  3. Para remover um item criado, selecione o item desejado, clique em Editar > Remover e confirme a exclusão;    
   4. As regras de negócio inseridas, por padrão são criadas bloqueadas. Isso significa que a regra não será utilizada a menos que você a Desbloqueie. Para que o desbloqueio da regra ocorra, selecione o item desejado, e clique na opção Desbloquear, localizada no menu superior.; de negócio, em um processo de negócio ou em um fluxo;    
   5. Mais informações sobre o uso de uma regra de negócio podem ser encontradas no Desenvolvendo aplicações.    
 
 
 ##CRIANDO REGRAS DE NEGÓCIOS USANDO TIPO DROOLS  
   1. O Drools é um conjunto de ferramentas que permite separar e raciocinar sobre a lógica e os dados encontrados nos processos de negócios. As duas palavras-chave importantes que tem que executar são lógica e dados. Vá para https://www.drools.org/ para mais informações.    
-  2. Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Neuro → Configuração → Domínio;    
+  2. Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Neuro > Configuração > Domínio;    
   3. Após o cadastro de domínio, acesse a o menu Neuro > Gerenciamento > Regra de Negócio, clique em Cadastrar.  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Neuro > Gerenciamento > Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
   4. Além disso, as variáveis que complementam as regras de negócios podem ser inseridas.    
 
