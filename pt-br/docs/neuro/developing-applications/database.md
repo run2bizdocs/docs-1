@@ -5,16 +5,16 @@ Description:Através dessa tela é realizado o cadastro dos bancos de dados que 
 
 Através dessa tela é realizado o cadastro dos bancos de dados que são utilizados pelo Neuro.    
 
-##COMO ACESSAR    
+##Como acessar    
 
 1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Banco de dados.    
 
-##PRÉ-CONDIÇÕES  
+##Pré-condições  
 
 1. Não se aplica.  
 
 
-##FILTROS    
+##Filtros    
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
@@ -23,14 +23,14 @@ Através dessa tela é realizado o cadastro dos bancos de dados que são utiliza
  ![Screenshot](images/Data-Search.png)    
 Figura 1 - Tela de pesquisa de banco de dados      
  
-##LISTAGEM DE ITENS    
+##Listagem de itens    
  
 1. O seguinte campo cadastral está disponível ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome.  
 
  ![Screenshot](images/Data-Items.png)   
 Figura 2 - Tela de listagem de banco de dados    
  
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+##Preenchimento dos campos cadastrais    
 1. Para cadastrar um banco de dados que não esteja na lista, clique em Cadastrar, conforme ilustrado na figura abaixo:    
 
      ![Screenshot](images/Data-Home.png)   
