@@ -3,13 +3,13 @@ Description:The information is automatically populated from the report file. The
 #Report setup  
 The information is automatically populated from the report file. The **name, description**, and grouper **folder** on the server can be edited.  
 
-##HOW TO ACCESS  
+##How to access  
 Access the functionality through the menu Neuro > Management > Report. 
 
-##PRECONDITIONS  
+##Preconditions  
 The form must be previously registered in the Form.  
 
-##FILTERS  
+##Filters  
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
      * Keyword or enter.  
@@ -17,14 +17,14 @@ The form must be previously registered in the Form.
 ![Screenshot](images/Report-setup-fig01.png)     
 Figure 1 - Report configuration search screen   
 
-##ITEMS LIST  
+##Items list  
 1. The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
 
 ![Screenshot](images/Report-setup-fig02.png)
 
 Figure 2 - Report configuration lisitng screen  
 
-##FILLING IN THE REGISTRATION FIELDS  
+##Filling in the registration fields  
 
 REPORT DATA  
 1. This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
@@ -33,7 +33,7 @@ REPORT DATA
 
 Figure 3 - Register/edit report configuration, Report tab  
 
-##DATA SOURCE  
+##Data source  
 1. Refers to the data source of the report. Enter the **type** of the data source, which can be:  
 
     - **None**: if the file does not search the database.  
@@ -45,7 +45,7 @@ Figure 3 - Register/edit report configuration, Report tab
 ![Screenshot](images/Report-setup-fig04.png)   
 Figure 4 - Register/edit report configuration, Data source tab  
 
-##PARAMETERS  
+##Parameters  
 1. This tab refers to the registration of fixed parameters for the report. You can enter an image as a parameter to define the report logo, for example.  
 
 - Click Add to add a new parameter.  
@@ -58,7 +58,7 @@ Figure 4 - Register/edit report configuration, Data source tab
 
 Figure 5 - Register/edit Report configuration, Parameters tab  
 
-##FORM  
+##Form  
 This tab represents the form to be displayed when the user generates the report.  
 
 1. Enter the **name** of the registered form, state whether tabs should be displayed, the **title** of the form, and the **menu** associated with to it.  
