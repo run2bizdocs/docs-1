@@ -26,6 +26,13 @@ Procedimiento
 
 2.  Completar los campos disponibles;
 
+    !!! Abstract "ATENCIÓN"
+        Al registrar los datos necesarios, recordar que el período de vigencia del
+        contrato comprende el período entre la fecha inicial y la fecha final registrada 
+        (también es necesario que el estado del contrato esté configurado como "activo"), 
+        por lo que no será posible crear y ejecutar tickets fuera de ese lapso de tiempo 
+        preordenado.
+
 3.  Haga clic en "Guardar".
 
 
