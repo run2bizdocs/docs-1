@@ -28,7 +28,7 @@ Figura 2 - Tela de listagem de formulário
 ##Preenchimento dos campos cadastrais  
 1. Para criar um novo formulário, clique em Cadastrar.  
 
-#Dados básicos
+###Dados básicos
 
 1. Nesta aba deverão ser informados os dados básicos dos formulários, como a aplicação ao qual o formulário pertence, o nome, descrição, Regras de negócio (caso houver), e a pasta, que é um agrupador físico dos formulários no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.    
 2. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do formulário for criada.    
