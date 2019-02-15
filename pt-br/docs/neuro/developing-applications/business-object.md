@@ -24,7 +24,7 @@ Cada objeto de negócio criado representa uma tabela do banco de dados.
 ![Screenshot](images/business-object-filter.png)  
 Figura 1 - Tela de pesquisa de objetos de negócio cadastrados  
 
-##LIistagem de itens  
+##Listagem de itens  
 1.	Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome, Descrição, Conexão de Banco e Versão.    
 
 ![Screenshot](images/business-object-listing.png)  
