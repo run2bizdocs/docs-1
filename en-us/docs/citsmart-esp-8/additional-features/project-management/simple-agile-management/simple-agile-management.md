@@ -72,8 +72,7 @@ Procedure
 
 !!! Abstract "NOTE"
 
-    The calculation of progress depends entirely on the estimates reported in the
-    tasks.
+    The calculation of progress depends entirely on the estimates reported in the tasks.
 
 
 ![sprint screen](images/figure-1-simple.png)
@@ -158,8 +157,7 @@ and management.
 
     -   3: add comments
 
-    -   4: each member can post hours referring to their time used in the task,
-    besides detailing the action taken
+    -   4: each member can post hours referring to their time used in the task, besides detailing the action taken
 
     -   5: add tags to visually identify the task card
 
@@ -170,8 +168,7 @@ and management.
 
     -   8: move the task to another Sprint:
 
-        -   Sprint of the *same* Workspace: tags are retained, but members are
-            removed from the task
+        -   Sprint of the *same* Workspace: tags are retained, but members are removed from the task
 
         -   Sprint of *other* Workspace: the tags and members will be removed from the task
 
