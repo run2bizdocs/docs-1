@@ -40,7 +40,7 @@ These are the elements outlined in John Gruber's original design document. All M
 |Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` | |
 |Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` | |
 | Code | `code` | |
-| Horizontal Rule | `---` | |
+| Horizontal Rule | ``---`` | |
 | Link | `[title](https://www.example.com)`| |
 | Image | `![alt text](image.jpg)` | |
 
