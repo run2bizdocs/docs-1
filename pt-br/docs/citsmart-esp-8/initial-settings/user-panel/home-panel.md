@@ -22,4 +22,4 @@ Relacionado
     <b>Updated:</b>01/23/2019 – Renato Aragao
 
 [1]:/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/user-profile.html
+[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/user-data.html
