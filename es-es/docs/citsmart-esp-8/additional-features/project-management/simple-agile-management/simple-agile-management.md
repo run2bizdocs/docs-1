@@ -25,17 +25,13 @@ Procedimiento
 
 2.  Hacer clic en “Workspace” y poner un nombre para crear nuevo Workspace;
 
-3.  Cada Workspace contendrá en su pantalla inicial un resumen de Sprints y sus
-    plazos establecidos:
+3.  Cada Workspace contendrá en su pantalla inicial un resumen de Sprints y sus plazos establecidos:
 
-    -   Atrasadas: presenta el total de las **Sprints** que tenga la "Fecha de entrega" menor
-    que la fecha/hora actual;
+    -   Atrasadas: presenta el total de las **Sprints** que tenga la "Fecha de entrega" menor que la fecha/hora actual;
 
-    -   Por vencer: presenta el total de las **Sprints** que tenga la "Fecha de entrega" que
-    quedarán vencidas en 24h a partir de la fecha/hora actual;
+    -   Por vencer: presenta el total de las **Sprints** que tenga la "Fecha de entrega" que quedarán vencidas en 24h a partir de la fecha/hora actual;
 
-    -   En el plazo: presenta el total de las **Sprints** que tenga la "Fecha de entrega" mayor
-    que 24h a partir de la fecha/hora actual;
+    -   En el plazo: presenta el total de las **Sprints** que tenga la "Fecha de entrega" mayor que 24h a partir de la fecha/hora actual;
 
     -   Total: suma de las **Sprints** que están dentro del Workspace.
 
@@ -46,35 +42,31 @@ Procedimiento
 
 2.  Hacer clic en “Sprint”, nombrar y "Guardar”;
 
-3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas
-    gastas y planificaciones, totalización de tareas por plazos establecidos y
+3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y
     porcentaje de realización de las mismas:
 
     -   Atrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor
-    que la fecha/hora actual;
+        que la fecha/hora actual;
 
     -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que
-    quedarán retrasadas en 24h a partir de la fecha/hora actual;
+        quedarán retrasadas en 24h a partir de la fecha/hora actual;
 
     -   En el plazo: presenta el total de **tareas** con la "Fecha de entrega" mayor que 24h
-    24h a partir de la fecha/hora actual;
+        24h a partir de la fecha/hora actual;
 
     -   Total: presenta el total de **tareas** de aquella Sprint;
 
     -   La barra de progresión tiene el siguiente cálculo:
 
-        -   1º Se hace la suma del total de estimaciones de todas las **tareas**
-            terminadas;
+        -   1º Se hace la suma del total de estimaciones de todas las **tareas** terminadas;
 
         -   2º Se hace la suma del total de estimaciones de todas las **tareas**;
 
-        -   3º Progreso es el porcentaje calculado con el total de estimaciones de las
-            **tareas** completadas sobre el total de estimaciones de todas las tareas.
+        -   3º Progreso es el porcentaje calculado con el total de estimaciones de las **tareas** completadas sobre el total de                     estimaciones de todas las tareas.
 
 !!! Abstract "ATENCIÓN"
 
-    El cálculo del progreso depende totalmente de las estimaciones informadas
-    en las tareas.
+    El cálculo del progreso depende totalmente de las estimaciones informadas en las tareas.
 
 
 ![pantalla sprint](images/figure-1-simple.png)
@@ -82,13 +74,11 @@ Procedimiento
 Figura 1 - Pantalla Sprint
 
 
-   -   1: buscar Sprints con filtros de miembros, tags y estado de la Sprint
-    (completada y no completada)
+   -   1: buscar Sprints con filtros de miembros, tags y estado de la Sprint (completada y no completada)
 
    -   2: crear nueva Sprint
 
-   -   3: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible
-    borrar y definir si el miembro será administrador o no
+   -   3: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible borrar y definir si el miembro será administrador o no
 
    -   4: añadir miembros que participarán de la Sprint
 
@@ -97,8 +87,7 @@ Figura 1 - Pantalla Sprint
 
 *III - Crear listas*
 
-1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para
-    hacer, En curso y concluido";
+1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para hacer, En curso y concluido";
 
 2.  Para crear nueva lista, hacer clic en “+Lista”, nombrar y “Guardar”.
 
@@ -107,15 +96,13 @@ Figura 1 - Pantalla Sprint
     Figura 2 - Pantalla lista
 
 
-    -   1: buscar tareas con filtros de miembros, tags y estado de la lista
-    (completada y no completada)
+    -   1: buscar tareas con filtros de miembros, tags y estado de la lista (completada y no completada)
 
     -   2: crear nueva lista
 
     -   3: actualizar la pantalla
 
-    -   4: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar y
-    definir si el miembro será administrador o no
+    -   4: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar y definir si el miembro será administrador o no
 
     -   6: definir fecha, hora y estimación de horas para la entrega
 
@@ -138,8 +125,7 @@ Figura 1 - Pantalla Sprint
 
 !!! Abstract "ATENCIÓN"
 
-    Para mover una **tarea** de una lista a otra, hacer clic y arrastrar
-    para la lista deseada.
+    Para mover una **tarea** de una lista a otra, hacer clic y arrastrar para la lista deseada.
 
 *V - Completar tarjeta Simple*
 
@@ -160,8 +146,7 @@ dispositivos de control y gestión.
 
     -   3: agregar comentarios
 
-    -   4: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea,
-    además de detallar la acción tomada
+    -   4: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea, además de detallar la acción tomada
 
     -   5: agregar tags para identificar visualmente la tarjeta de tarea
 
@@ -177,8 +162,7 @@ dispositivos de control y gestión.
 
         -   Sprint de *otro* Workspace: las tags y miembros son quitados de la tarea
 
-    -   9: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá
-    ser reutilizado.
+    -   9: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá ser reutilizado.
 
 1.  Describir la tarea en el campo "Descripción";
 
@@ -190,10 +174,7 @@ dispositivos de control y gestión.
 
 5.  Las pestañas disponibles presentan:
 
-    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para
-    nombrar, pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de
-    agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento
-    dentro de un checklist, seleccione el checkbox;
+    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar         elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento           dentro de un checklist, seleccione el checkbox;
 
     -   Comentarios: lista los comentarios hechos;
 
