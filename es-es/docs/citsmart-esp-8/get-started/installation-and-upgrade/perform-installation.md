@@ -11,13 +11,13 @@ instalación del ítem Servidor de Indexación Apache Solr (sesión Configurac
 paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
 de los comandos de instalación del Java JDK abajo)*.
 
-    ```sh
-    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
-    ```
+        ```sh
+        tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+        ```
     
-    ```sh
-    ln -s /opt/jdk1.8.0_172 /opt/jdk
-    ```
+        ```sh
+        ln -s /opt/jdk1.8.0_172 /opt/jdk
+        ```
     
 2. Ejecutar los comandos siguientes para configuración de los paquetes para CITSmart;
     
@@ -189,9 +189,9 @@ módulo al standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Hay **ocho entradas** de datasource para citsmart_db, siendo que
+3. Hay **ocho entradas** de datasource para **citsmart_db**, siendo que
 cuatro para Citsmart y cuatro para Citsmart Neuro. El usuario y contraseña
-e citsmartdbuser y exemplo123 creados respectivamente en el ítem *Servidor de Base de Datos
+e **citsmartdbuser y exemplo123** creados respectivamente en el ítem *Servidor de Base de Datos
 PostgreSQL*.
 
 4. Para crear los datasources, ejecute los comandos CLI abajo:
