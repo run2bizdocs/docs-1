@@ -22,10 +22,9 @@ Parãmetros CITSmart):
     (arquivo de log) e ‘DB_LOG’ (grava no banco);
 
 -   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria (Ex:
-    *http://localhost:8088*);
+    http://localhost:8088);
 
--   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex: Ex:
-    tcp://citACTIVEMQ:61616).
+-   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex:tcp://citACTIVEMQ:61616).
 
 Procedimento
 ------------
