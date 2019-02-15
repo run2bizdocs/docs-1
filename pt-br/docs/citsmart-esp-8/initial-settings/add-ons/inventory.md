@@ -22,9 +22,9 @@ Para testar o Inventory, [configurar][3] as conexões na instância CITSmart ESP
 
 [Habilitar o Event Monitor no CITSmart][4]
 
-[1]://pt-br/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
+[1]:/pt-br/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
 [2]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
-[3]://pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
+[3]:/pt-br/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
 [4]:/pt-br/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 
 !!! tip "About"
