@@ -41,7 +41,7 @@ These are the elements outlined in John Gruber's original design document. All M
 |Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` | |
 | Code | `code` | |
 | Horizontal Rule | `---` | |
-| Link | `title](https://www.example.com)`| |
+| Link | `[title](https://www.example.com)`| |
 | Image | `![alt text](image.jpg)` | |
 
 
