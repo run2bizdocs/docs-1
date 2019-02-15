@@ -42,8 +42,7 @@ Procedimiento
 
 2.  Hacer clic en “Sprint”, nombrar y "Guardar”;
 
-3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y
-    porcentaje de realización de las mismas:
+3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y porcentaje de realización de las mismas:
 
     -   Atrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
 
