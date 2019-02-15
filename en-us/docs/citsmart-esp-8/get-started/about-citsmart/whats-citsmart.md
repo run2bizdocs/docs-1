@@ -20,7 +20,7 @@ Corporate Service Management, a proof of this is the adaptation of the service s
 Connecting processes. Delivering experiences.
 This decision was based on the capacity of our Workflow to adapt to various business needs, and Neuro,
 by allowing the construction of new data inputs and integration possibilities.
-We also created in the year 2018 the products CX - Center of Experiences. This product is an initiative to
+We also created in the year 2018 the products CE - Center of Experiences. This product is an initiative to
 create a digital workspace builder. 
 
 ## Anuva
