@@ -30,7 +30,7 @@ Relacionado
 [Habilitar Event Monitor][4]
 
 [1]:/es-es/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
-[2]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[2]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configuracion-del-system-properties
 [3]:/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
 [4]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 
