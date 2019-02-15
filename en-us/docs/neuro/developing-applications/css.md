@@ -8,15 +8,15 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
     The folder is a physical grouper of the files on the server, for organization purposes. The configured folder does not interfere         with system operation.
 
-##HOW TO ACCESS  
+##How to access  
 
 1.  Access the feature by navigating the menu Neuro > Resources > CSS.  
 
-##PRECONDITIONS  
+##Preconditions  
 
 1.  Not applicable
 
-##FILTERS  
+##Filters  
 
 1.  The following filter enables the user to restrict the participation of items
     in the standard feature listing, making it easier to find the desired items:  
@@ -27,14 +27,14 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
 Figure 1 - CSS Search Screen  
 
-##ITEMS LIST
+##Items list
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description and Version.    
 
 ![Screenshot](images/CSS-Item-List.png)   
 Figure 2 - CSS listing screen  
 
-##FILLING IN THE REGISTRATION FIELDS
+##Filling in the registration fields
 
 1. To register a new CSS file, click New as shown in the figure below:  
 
