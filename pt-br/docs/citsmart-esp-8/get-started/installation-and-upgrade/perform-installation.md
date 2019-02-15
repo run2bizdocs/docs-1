@@ -178,7 +178,7 @@ PostgreSQL. Para isso, sair do modo jboss-cli e executar os comandos abaixo.
     chown citsmart:citsmart /opt/wildfly/modules/system/layers/base/org/postgres/ -R
     ```
 
-2. Conectar no jboss-cli novamente e execute o comando abaixo para adicionar o
+2. Conectar no jboss-cli novamente e executar o comando abaixo para adicionar o
 modulo ao standalone-full-ha.xml
 
    
@@ -189,10 +189,7 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que são
-quatro para o Citsmart e três para o Citsmart Neuro. O usuário e senha
-é **citsmartdbuser e exemplo123** criados no item *Servidor de Banco de Dados
-PostgreSQL*.
+3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que quatro são para o Citsmart e quatro para o Citsmart Neuro. O usuário e senha é **citsmartdbuser e exemplo123**, respectivamente, criados no item *Servidor de Banco de Dados PostgreSQL*;
 
 4. Para criar os datasources, execute os comandos CLI abaixo:
 
@@ -290,7 +287,7 @@ PostgreSQL*.
 
 
 
-    Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
+    Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -322,7 +319,7 @@ PostgreSQL*.
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
 ```sh
 [standalone\@localhost:9990 /] :reload
@@ -392,7 +389,7 @@ Caso possua um certificado é importante utilizá-lo.
 
 1. Conectar no servidor do Wildfly.
     
-    Criando alias novo com DNS (exemplo itsm.citsmart.com): 
+    Criando aliás novo com DNS (exemplo itsm.citsmart.com): 
     
     
     ```sh
