@@ -25,7 +25,7 @@ adaptação da declaração de serviço que se tornou Conexão de processos.
 Entregando experiências. Esta decisão foi baseada na capacidade do nosso
 Workflow de se adaptar às várias necessidades do negócio, e no Neuro, permitindo
 a construção de novas entradas de dados e possibilidades de integração. Também
-criamos no ano de 2018 os produtos CX - Centro de Experiências. Este produto é
+criamos no ano de 2018 os produtos CE - Centro de Experiências. Este produto é
 uma iniciativa para criar um construtor de espaço de trabalho digital.
 
 Anuva
