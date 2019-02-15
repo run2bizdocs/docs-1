@@ -5,7 +5,7 @@ Description: Configuração de senhas de uso do sistema, disponibilizando maior 
 Esta funcionalidade retrata a configuração de senhas de uso do sistema,
 disponibilizando maior nível de segurança com uso de diferentes caracteres.
 
-!!! Abstract "ATENÇÃO"
+!!! Warning "ATENÇÃO"
 
      Esta política de segurança não está disponível para usuários LDAP.
      
