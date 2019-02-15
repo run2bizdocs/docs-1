@@ -66,8 +66,8 @@ empresa en un solo punto.
 
 -   Discovery & Inventory
 
--   Medir los niveles de servicio y resultados de todos los proveedores, subsidiarias y
-    la propia empresa
+-   Medir los niveles de servicio y resultados de todos los proveedores, subsidiarias y 
+    la propia empresa
 
 -   Crear catálogos de servicio para sus clientes y recibir solicitudes automáticas
 
@@ -80,11 +80,11 @@ empresa en un solo punto.
 
 -   Orquestación y organización
 
--   Plataforma visual para personalización de flujos de trabajo, permitiendo flexibilidad, agilidad
-    y aumento de productividad con conformidad
+-   Plataforma visual para personalización de flujos de trabajo, permitiendo flexibilidad, agilidad 
+    y aumento de productividad con conformidad
 
--   Configurar los procesos, niveles de servicio y resultados de acuerdo con la cultura
-    de cada sitio y el SLA establecido con el cliente
+-   Configurar los procesos, niveles de servicio y resultados de acuerdo con la cultura 
+    de cada sitio y el SLA establecido con el cliente
 
 -   Gestión de multi-empresa, multi-contrato y catálogos de multi-servicios
 
@@ -94,18 +94,18 @@ empresa en un solo punto.
 
 -   Gestión de la disponibilidad de sus negocios
 
--   Crear flujos de trabajo en el estándar BPM, sin la necesidad de implantación de
-    soluciones. Todo es ágil y dinámico
+-   Crear flujos de trabajo en el estándar BPM, sin la necesidad de implantación de 
+    soluciones. Todo es ágil y dinámico
 
--   Reducir costos mejorando sus procesos. El estándar de BPM le ayudará en
-    la creación de COMO-SE, y con la solución, el diseño del PARA-SER se convertirá
-    muy simple
+-   Reducir costos mejorando sus procesos. El estándar de BPM le ayudará en 
+    la creación de COMO-SE, y con la solución, el diseño del PARA-SER se convertirá
+    muy simple
     
--   Controlar el equipo de profesionales a través de la georeferenciación y responder a las
-    demandas externas más rápidamente (Gestión de Soporte en Campo)
+-   Controlar el equipo de profesionales a través de la georeferenciación y responder a las 
+    demandas externas más rápidamente (Gestión de Soporte en Campo)
 
--   Generar dashboards personalizados para una visión rápida y fácil de lo que merece más
-    atención
+-   Generar dashboards personalizados para una visión rápida y fácil de lo que merece más 
+    atención
 
 -   Promover la mejora continua
 
@@ -119,8 +119,8 @@ empresa en un solo punto.
 
 -   Definir actividades que se deben realizar en dispositivos móviles y desktop
 
--   Pague sólo por lo que usted utiliza y accede a la plataforma desde cualquier lugar con la tecnología
-    de nube
+-   Pague sólo por lo que usted utiliza y accede a la plataforma desde cualquier lugar con la tecnología 
+    de nube
 
 Adecuado para todos los ambientes y escenarios, desde que se desarrolló sobre la base de la
 ITIL, que dicta las mejores prácticas de gestión de TI y
