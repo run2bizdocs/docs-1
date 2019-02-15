@@ -30,7 +30,7 @@ Parãmetros CITSmart):
 Procedimento
 ------------
 
-***Processo para configurar a Auditoria:**
+***Processo para configurar a Auditoria:***
 
 *Configuração para gerar o backup das auditorias.*
 
@@ -87,7 +87,7 @@ realizadas no sistema.*
 3.  É liberado também a busca de determinado *log* através dos filtros dispostos
     na tela.
 
-**Auditoria de acessos ao sistema**
+***Auditoria de acessos ao sistema***
 
 *Apresenta o histórico dos acessos ao sistema (entradas e saídas).*
 
@@ -104,7 +104,7 @@ realizadas no sistema.*
 
 3.  Existem filtros para auxiliar a busca de determinado acesso.
 
-**Auditoria de licenças do sistema**
+***Auditoria de licenças do sistema***
 
 *Informa as licenças utilizadas para a validação do sistema.*
 
