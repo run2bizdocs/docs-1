@@ -11,7 +11,7 @@ Title: Download e software
     Recomendamos Red Hat, CentOS, Debian ou Ubuntu.
 
 
-Para execução do CITSmart Enterprise, baixaremos os pacotes necessários conforme
+Para execução do CITSmart Enterprise, baixar os pacotes necessários conforme
 o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
@@ -19,7 +19,7 @@ o procedimento relativo ao produto.
 !!! info "ATENÇÃO"
     No manual utilizaremos PostgreSQL.
 
-    Você pode baixar o pacote para Oracle ou MSSQL e fazer as alterações
+    Pode-se baixar o pacote para Oracle ou MSSQL e fazer as alterações
     igualmente descritas para PostgreSQL.
 
 1. O download do Java JDK8u172 diretamente do repositório oficial
@@ -37,10 +37,8 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
 
 !!! info "ATENÇÃO"
        
-       No manual utilizaremos a distribuição GNU/Linux CentOS Linux release
-      7.5.1804.
-      Baixe e MongoDB conforme sua distribuição.
-      A versão do MongoDB deve ser 3.4.
+       No manual será utilizado a distribuição GNU/Linux CentOS Linux release
+       7.5.1804. Baixar e MongoDB conforme sua distribuição. A versão do MongoDB deve ser 3.4.
 
 Para localizar o download conforme sua
 distribuição: <https://www.mongodb.com/download-center#community>
@@ -53,7 +51,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 !!! Abstract "ATENÇÃO"
 
-    No manual utilizaremos PostgreSQL com download do repositório oficial.
+    No manual userá utilizado PostgreSQL com download do repositório oficial.
 
    Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
    informações e melhores práticas de cada fabricante:O CITSmart Enterprise é
@@ -83,15 +81,15 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 !!! info "ATENÇÃO"
 
-    Utilizaremos o diretório /opt para instalação de todos os pacotes para o
+    Será utilizado o diretório /opt para instalação de todos os pacotes para o
     CITSmart Enterprise.
 
     O GNU/Linux com instalação mínima deve estar configurado nas 4 máquinas.
 
-    Nesse exemplo utilizaremos CentOS Linux release 7.5.1804. Caso deseje utilizar
-    outra distribuição altere os comandos conforme o gerenciamento de pacotes.
+    Nesse exemplo é utilizado CentOS Linux release 7.5.1804. Caso deseje utilizar
+    outra distribuição alterar os comandos conforme o gerenciamento de pacotes.
 
-Com os downloads finalizados podemos dar início a instalação da solução CITSmart Enterprise.
+Com os downloads finalizados dar início a instalação da solução CITSmart Enterprise.
 
 
 ### Servidor de Banco de Dados MongoDB
@@ -117,9 +115,9 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
 	
 	<message of unrestricted access \>  
 	
-2. Devemos criar um diretório para a base e iniciar o MongoDB. Repare que ele irá subir com permissões irrestritas de acesso.
+2. Deve-se criar um diretório para a base e iniciar o MongoDB. Note que ele irá subir com permissões irrestritas de acesso.
 
-3. Com o MongoDB iniciado, abra outro terminal, acesse o diretório bin do MongoDB e crie a base citsmart definindo seu usuário e senha.
+3. Com o MongoDB iniciado, abrir outro terminal, acessar o diretório bin do MongoDB e criar a base citsmart definindo seu usuário e senha.
 
     ``` sh
     cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
@@ -145,20 +143,21 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
 	
 4. O retorno *“Successfully added user”* deve ser observado.
 
-5. Digite **exit** para sair do console do MongoDB.
+5. Digitar **exit** para sair do console do MongoDB.
 
-6. Retorne ao terminal anterior e finalize o processo do mongodb com um CTRL+C.
+6. Retornar ao terminal anterior e finalize o processo do mongodb com um CTRL+C.
 
 
 ### PostgreSQL Database Server
 
+Para esse manual vserá utilizada a versão 9.5 do PostgreSQL.
 
 !!! Abstract "ATENÇÃO"
 
-    To this knowledge we'll use the version 9.5 of the PostgreSQL.
-    We can install PostgreSQL with the steps in this official manual: https://www.postgresql.org/download/linux/redhat/
+    Pode instalar o PostgreSQL seguindo o manual oficial do PostgreSQL através do link:
+    https://www.postgresql.org/download/linux/redhat/
 
-1. After install the PostgreSQL we can create the database, user and password;
+1. Após instalar o PostgreSQL precisamos criar a bases de dados, usuário e senha.;
 
     ``` sh
     systemctl start postgresql
@@ -200,7 +199,7 @@ Com os downloads finalizados podemos dar início a instalação da solução CIT
 
 2. Observar o retorno dos comandos analisando a correta execução.
 
-3. Agora iremos configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
+3. Configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
 a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
 altere as linhas:
 
