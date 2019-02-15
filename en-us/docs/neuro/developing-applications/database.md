@@ -5,15 +5,15 @@ Description:By using this screen the user can register the databases used by Neu
 
 By using this screen the user can register the databases used by Neuro.  
 
-##HOW TO ACCESS  
+##How to access  
 
 1. Access the feature by navigating the menu Neuro > Configuration > Database.  
 
-##PRECONDITIONS  
+##Preconditions  
 
 1. Not applicable  
 
-##FILTERS  
+##Filters  
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -22,14 +22,14 @@ By using this screen the user can register the databases used by Neuro.
  ![Screenshot](images/Data-Search.png)    
  Figure 1 - Database search screen    
  
-##ITEMS LIST  
+##Items list  
  
 1. The following cadastral field is available to the user to make it easier to identify the desired items in the standard feature listing: Name.  
 
  ![Screenshot](images/Data-Items.png)   
  Figure 2 - Database listing screen  
  
-##FILLING IN THE REGISTRATION FIELDS  
+##Filling in the registration fields  
 1. To register a database that is not in the list, click New, as shown in the figure bellow:  
 
      ![Screenshot](images/Data-Home.png)   
