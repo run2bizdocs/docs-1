@@ -25,19 +25,19 @@ determinadas informações sejam registradas ao criar o problema.*
 
     |     **Nome do campo**    | **Obrigatório** |
     |:------------------------:|:--------------:|
-    |         Catálago         |       []                  |
-    |   Categoria de Serviço   |        []                 |
-    |          Serviço         |        []                 |
-    |         Telefone         |           []              |
-    |           Ramal          |         []                |
-    |     Localidade Física    |       []                  |
-    |        Observação        |            []             |
-    |      Grupo executor      |         []                |
-    | Solucionar/Contornar até |     []                    |
+    |         Catálago         |      - [ ]                  |
+    |   Categoria de Serviço   |       - [ ]                 |
+    |          Serviço         |       - [ ]                 |
+    |         Telefone         |          - [ ]              |
+    |           Ramal          |        - [ ]                |
+    |     Localidade Física    |      - [ ]                  |
+    |        Observação        |           - [ ]             |
+    |      Grupo executor      |        - [ ]                |
+    | Solucionar/Contornar até |    - [ ]                    |
 
 3.  Clicar no botão “Gravar”.
 
-### Configurar os campos da funcionalidade “Gerenciamento de Incidentes/Requisições"
+### Configurar os campos da funcionalidade “Gerenciamento de Ticket"
 
 *Utilizando a opção de utlizar a obrigatoriedade do campo é possível exigir que
 determinadas informações sejam registradas ao criar o incidente/requisição.*
@@ -49,11 +49,11 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
     | **Nome do campo** | **Obrigatório** |
     |:-----------------:|:--------------:|
-    |     Telefone      |        []                 |
-    |       E-mail      |           []              |
-    |      Unidade      |            []             |
-    | Localidade Física |        []                 |
-    | Origem de contato |      []                   |
+    |     Telefone      |       - [ ]                 |
+    |       E-mail      |          - [ ]              |
+    |      Unidade      |           - [ ]             |
+    | Localidade Física |       - [ ]                 |
+    | Origem de contato |     - [ ]                   |
 
     !!! Abstract "ATENÇÃO"
 
