@@ -1,7 +1,5 @@
 title: Create and view sub-request
-
 Description: It's possible to create sub-requests through the main request and view them after created.
-
 #Create and view sub-request
 It's possible to create sub-requests through the main request and view them after created.
 
@@ -14,7 +12,7 @@ to have permission to register the ticket.
 ##Procedure
 
 
-1.  Access the functionality Ticket Management through the main menu Processes
+1.  Access the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
 2.  To create the sub-request:
@@ -28,6 +26,16 @@ to have permission to register the ticket.
 
     -   Click on the ticket you want and select "View sub-request" in the
         options menu.
+        
+!!! Abstract "NOTE"
+    
+    The sub-request has its own flow, therefore, it's not finished along with the
+    closure of the origin ticket. It should, then, be executed and closed autonomously.
+    
+!!! Abstract "NOTE"
+    
+    The sub-request can be reopened at any time, regardless of the status of the parent 
+    request (whether it's reopened or closed).
 
 Related
 -----------
