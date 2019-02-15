@@ -23,7 +23,7 @@ Procedure
 1.  Access the main menu Inegrated Management \>
     Simple – Agile Management;
 
-2.  Click on “Workspace” and give a name to create the new workspace;
+2.  Click on “Workspace” and give a name to create the new Workspace;
 
 3.  Each Workspace will have in its home screen a summary of Sprints and
     its deadlines:
