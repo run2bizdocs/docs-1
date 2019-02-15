@@ -189,9 +189,9 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o **citsmart_db, **sendo que são
+3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que são
 quatro para o Citsmart e três para o Citsmart Neuro. O usuário e senha
-é **citsmartdbuser e exemplo123 **criados no item *Servidor de Banco de Dados
+é **citsmartdbuser e exemplo123** criados no item *Servidor de Banco de Dados
 PostgreSQL*.
 
 4. Para criar os datasources, execute os comandos CLI abaixo:
@@ -290,7 +290,7 @@ PostgreSQL*.
 
 
 
-    Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
+    Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -388,7 +388,7 @@ Não esquecer de alterar o dono do diretório /opt/citsmart
 ## Geração de certificado auto assinado SSL
 
 Para o Wildfly será gerado um certificado auto assinado.
-Caso você possua um certificado é importante utilizá-lo.
+Caso possua um certificado é importante utilizá-lo.
 
 1. Conectar no servidor do Wildfly.
     
@@ -399,7 +399,7 @@ Caso você possua um certificado é importante utilizá-lo.
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): \# /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 Exportando certificado para extensão .cer: \# /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer Adicionando certificado no cacerts do Java: \# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
-    **Lembre-se de aplicar as permissões para o dono do wildfly e java jdk**
+    **Lembrar de aplicar as permissões para o dono do wildfly e java jdk**
     
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
