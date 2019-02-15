@@ -31,7 +31,7 @@ Result:
 
 These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
 
-| Element | Markdown Syntax | Result |
+| Element | Markdown Syntax |
 |---------|-----------------|
 | Heading | `# H1 <br/> ## H2 <br/> ### H3` |
 | Bold | `**bold text**`|
