@@ -368,7 +368,7 @@ Não esquecer de alterar o dono do diretório /opt/citsmart
     ```sh
     mkdir /opt/citsmart/kb
     ```
-    Para Palavras Gêmeas:
+    Para Palavras Sinônimas:
 	
 	```sh
     mkdir /opt/citsmart/twinwords
