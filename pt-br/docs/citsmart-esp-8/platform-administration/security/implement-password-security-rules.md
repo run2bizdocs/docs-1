@@ -72,4 +72,4 @@ Procedimento
     <b>Updated:</b>01/31/2019 - Anna Martins
 
 [1]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html
-[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/edit-user-profile.html
+[2]:/pt-br/citsmart-esp-8/initial-settings/access-settings/user/user-data.html
