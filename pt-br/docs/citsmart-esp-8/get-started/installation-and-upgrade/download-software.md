@@ -16,9 +16,10 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-!!! info "ATENÇÃO"
-    No manual utilizaremos PostgreSQL.
+No manual será utilizado PostgreSQL.
 
+!!! info "ATENÇÃO"
+    
     Pode-se baixar o pacote para Oracle ou MSSQL e fazer as alterações
     igualmente descritas para PostgreSQL.
 
@@ -220,7 +221,7 @@ altere as linhas:
     ```	
 
 
-5. Após as configurações, de um restart no postgresql.
+5. Após as configurações, dar um restart no postgresql.
 
 ``` sh
 systemctl restart postgresql-9.5.service
