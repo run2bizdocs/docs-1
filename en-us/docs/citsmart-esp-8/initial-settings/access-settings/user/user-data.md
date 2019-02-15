@@ -1,6 +1,6 @@
-title: Change user account
+title: Edit user account
 Description: Intended to edit the information about the user profile.
-# Change user account
+# Edit user account
 This functionality is intended to edit the information about the user account.
 
 Before getting started
