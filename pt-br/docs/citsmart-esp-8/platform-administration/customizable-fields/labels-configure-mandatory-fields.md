@@ -25,15 +25,15 @@ determinadas informações sejam registradas ao criar o problema.*
 
     |     **Nome do campo**    | **Sim ou não** |
     |:------------------------:|:--------------:|
-    |         Catálago         |       * [x]         |
-    |   Categoria de Serviço   |        * [x]                 |
-    |          Serviço         |        * [x]                 |
-    |         Telefone         |           * [x]              |
-    |           Ramal          |         * [x]                |
-    |     Localidade Física    |       * [x]                  |
-    |        Observação        |            * [x]             |
-    |      Grupo executor      |         * [x]                |
-    | Solucionar/Contornar até |     * [x]                    |
+    |         Catálago         |       [x]                  |
+    |   Categoria de Serviço   |        [x]                 |
+    |          Serviço         |        [x]                 |
+    |         Telefone         |           [x]              |
+    |           Ramal          |         [x]                |
+    |     Localidade Física    |       [x]                  |
+    |        Observação        |            [x]             |
+    |      Grupo executor      |         [x]                |
+    | Solucionar/Contornar até |     [x]                    |
 
 3.  Clicar no botão “Gravar”.
 
@@ -50,11 +50,11 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
     | **Nome do campo** | **Sim ou não** |
     |:-----------------:|:--------------:|
-    |     Telefone      |        * [x]                 |
-    |       E-mail      |           * [x]              |
-    |      Unidade      |            * [x]             |
-    | Localidade Física |        * [x]                 |
-    | Origem de contato |      * [x]                   |
+    |     Telefone      |        [x]                 |
+    |       E-mail      |           [x]              |
+    |      Unidade      |            [x]             |
+    | Localidade Física |        [x]                 |
+    | Origem de contato |      [x]                   |
 
     !!! Abstract "ATENÇÃO"
 
