@@ -19,7 +19,7 @@ Os formulários podem ser criados manualmente, ou gerados através do Objeto de 
 ![Screenshot](images/Form-Search.png)   
 Figura 1 - Tela de pesquisa de formulário    
 
-#Listagem de itens  
+##Listagem de itens  
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome e Descrição.     
 
 ![Screenshot](images/Form-Listing.png)  
@@ -28,7 +28,7 @@ Figura 2 - Tela de listagem de formulário
 ##Preenchimento dos campos cadastrais  
 1. Para criar um novo formulário, clique em Cadastrar.  
 
-# Dados básicos
+#Dados básicos
 
 1. Nesta aba deverão ser informados os dados básicos dos formulários, como a aplicação ao qual o formulário pertence, o nome, descrição, Regras de negócio (caso houver), e a pasta, que é um agrupador físico dos formulários no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.    
 2. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do formulário for criada.    
