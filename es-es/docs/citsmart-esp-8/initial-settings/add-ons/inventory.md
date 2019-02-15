@@ -8,7 +8,7 @@ CITSmart Inventory - El inventario es un componente del CITSmart ESP que permite
 Antes de empezar
 -------------
 
-El CITSmart Inventory trabaja en conjunto con el [Monitor de Eventos CITSmart - EVM][1] y como un colector de datos (ej.: paquetes XML); el EVM sirve como repositorios para esta información. Por lo tanto, para activar el inventario, primero debe configurar el EVM.  
+El CITSmart Inventory trabaja en conjunto con el [Monitor de Eventos CITSmart - EVM][1] y como un colector de datos (ej.: paquetes XML) el EVM sirve como repositorios para esta información. Por lo tanto, para activar el inventario, primero debe configurar el EVM.  
 
 
 Procedimiento
