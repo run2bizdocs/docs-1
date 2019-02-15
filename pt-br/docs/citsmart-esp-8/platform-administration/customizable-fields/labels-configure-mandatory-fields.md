@@ -13,7 +13,7 @@ Procedimento
     São duas: Gerenciamento de Problema e Gerenciamento de
     Incidentes/Requisições.
 
-***Configurar os campos da funcionalidade “Problema”***
+### Configurar os campos da funcionalidade “Problema”***
 
 *Utilizando a opção de utlizar a obrigatoriedade do campo é possível exigir que
 determinadas informações sejam registradas ao criar o problema.*
@@ -37,7 +37,7 @@ determinadas informações sejam registradas ao criar o problema.*
 
 3.  Clicar no botão “Gravar”.
 
-***Configurar os campos da funcionalidade “Gerenciamento de
+### Configurar os campos da funcionalidade “Gerenciamento de
 Incidentes/Requisições”***
 
 *Utilizando a opção de utlizar a obrigatoriedade do campo é possível exigir que
