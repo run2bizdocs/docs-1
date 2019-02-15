@@ -22,15 +22,14 @@ Parãmetros CITSmart):
     (arquivo de log) e ‘DB_LOG’ (grava no banco);
 
 -   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria (Ex:
-    *http://localhost:8088*);
+    http://localhost:8088);
 
--   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex: Ex:
-    tcp://citACTIVEMQ:61616).
+-   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex:tcp://citACTIVEMQ:61616).
 
 Procedimento
 ------------
 
-**/*Processo para configurar a Auditoria:**/*
+***Processo para configurar a Auditoria:***
 
 *Configuração para gerar o backup das auditorias.*
 
@@ -59,7 +58,7 @@ funcionalidade.
         São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
         sistema, do acesso ao sistema e as licenças do mesmo.
 
-**Auditoria de dados do sistema**
+***Auditoria de dados do sistema***
 
 *Apresenta o histórico de todos dados de alteração, inclusão e exclusão
 realizadas no sistema.*
@@ -87,7 +86,7 @@ realizadas no sistema.*
 3.  É liberado também a busca de determinado *log* através dos filtros dispostos
     na tela.
 
-**Auditoria de acessos ao sistema**
+***Auditoria de acessos ao sistema***
 
 *Apresenta o histórico dos acessos ao sistema (entradas e saídas).*
 
@@ -104,7 +103,7 @@ realizadas no sistema.*
 
 3.  Existem filtros para auxiliar a busca de determinado acesso.
 
-**Auditoria de licenças do sistema**
+***Auditoria de licenças do sistema***
 
 *Informa as licenças utilizadas para a validação do sistema.*
 

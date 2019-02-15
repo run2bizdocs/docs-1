@@ -26,6 +26,17 @@ Procedimiento
 
     -   Haga clic en el ticket deseado y seleccione la alternativa "Mostrar
         sub-solicitudes" en el menú de opciones.
+        
+!!! Abstract "ATENCIÓN"
+
+    La sub-solicitud tiene un flujo propio, por lo que no se cierra junto con 
+    el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de
+    forma autónoma
+    
+!!! Abstract "ATENCIÓN"
+
+    La sub-solicitud puede ser reabierta en cualquier momento, independientemente del 
+    estado de la solicitud padre (si está reabierta o cerrada).
 
 Relacionado
 -----------
