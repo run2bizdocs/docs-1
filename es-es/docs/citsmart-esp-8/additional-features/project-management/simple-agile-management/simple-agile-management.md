@@ -48,7 +48,7 @@ Procedimiento
 
     -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que quedarán retrasadas en 24h a partir de la               fecha/hora actual;
 
-    -   En el plazo: presenta el total de **tareas** con la "Fecha de entrega" mayor que 24h
+    -   En el plazo: presenta el total de **tareas** con la "Fecha de entrega" mayor que
         24h a partir de la fecha/hora actual;
 
     -   Total: presenta el total de **tareas** de aquella Sprint;
