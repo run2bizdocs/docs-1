@@ -18,6 +18,13 @@ Procedure
 
 2.  Complete all mandatory fields;
 
+    !!! Abstract "NOTE"
+        When registering the necessary data, remember that the contract period
+        comprises the period between the initial date and the registered end date
+        (it's also necessary that the contract status is configured as "active"),
+        moreover, it won't be possible to create and execute tickets out of this
+        pre-ordered time lapse.  
+
 3.  Click on "Save".
 
 |               Name               | Type |                                                                 Objective                                                                |
