@@ -45,11 +45,9 @@ Procedimiento
 3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y
     porcentaje de realización de las mismas:
 
-    -   Atrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor
-        que la fecha/hora actual;
+    -   Atrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
 
-    -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que
-        quedarán retrasadas en 24h a partir de la fecha/hora actual;
+    -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que quedarán retrasadas en 24h a partir de la               fecha/hora actual;
 
     -   En el plazo: presenta el total de **tareas** con la "Fecha de entrega" mayor que 24h
         24h a partir de la fecha/hora actual;
