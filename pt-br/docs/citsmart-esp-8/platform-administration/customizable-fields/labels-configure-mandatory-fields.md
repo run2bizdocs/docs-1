@@ -25,15 +25,15 @@ determinadas informações sejam registradas ao criar o problema.*
 
     |     **Nome do campo**    | **Obrigatório** |
     |:------------------------:|:--------------:|
-    |         Catálago         |      - [ ]                  |
-    |   Categoria de Serviço   |       - [ ]                 |
-    |          Serviço         |       - [ ]                 |
-    |         Telefone         |          - [ ]              |
-    |           Ramal          |        - [ ]                |
-    |     Localidade Física    |      - [ ]                  |
-    |        Observação        |           - [ ]             |
-    |      Grupo executor      |        - [ ]                |
-    | Solucionar/Contornar até |    - [ ]                    |
+    |         Catálago         |      [checkbox:unchecked]                  |
+    |   Categoria de Serviço   |       [checkbox:unchecked]                 |
+    |          Serviço         |       [checkbox:unchecked]                 |
+    |         Telefone         |          [checkbox:unchecked]              |
+    |           Ramal          |        [checkbox:unchecked]                |
+    |     Localidade Física    |      [checkbox:unchecked]                  |
+    |        Observação        |           [checkbox:unchecked]             |
+    |      Grupo executor      |        [checkbox:unchecked]                |
+    | Solucionar/Contornar até |    [checkbox:unchecked]                    |
 
 3.  Clicar no botão “Gravar”.
 
@@ -49,11 +49,11 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
     | **Nome do campo** | **Obrigatório** |
     |:-----------------:|:--------------:|
-    |     Telefone      |       - [ ]                 |
-    |       E-mail      |          - [ ]              |
-    |      Unidade      |           - [ ]             |
-    | Localidade Física |       - [ ]                 |
-    | Origem de contato |     - [ ]                   |
+    |     Telefone      |       [checkbox:unchecked]                 |
+    |       E-mail      |          [checkbox:unchecked]              |
+    |      Unidade      |           [checkbox:unchecked]             |
+    | Localidade Física |       [checkbox:unchecked]                 |
+    | Origem de contato |     [checkbox:unchecked]                   |
 
     !!! Abstract "ATENÇÃO"
 
