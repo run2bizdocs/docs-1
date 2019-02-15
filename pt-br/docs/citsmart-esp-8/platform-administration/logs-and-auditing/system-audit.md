@@ -30,7 +30,7 @@ Parãmetros CITSmart):
 Procedimento
 ------------
 
-**/*Processo para configurar a Auditoria:**/*
+***Processo para configurar a Auditoria:**
 
 *Configuração para gerar o backup das auditorias.*
 
@@ -59,7 +59,7 @@ funcionalidade.
         São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
         sistema, do acesso ao sistema e as licenças do mesmo.
 
-**Auditoria de dados do sistema**
+***Auditoria de dados do sistema***
 
 *Apresenta o histórico de todos dados de alteração, inclusão e exclusão
 realizadas no sistema.*
