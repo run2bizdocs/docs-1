@@ -1,11 +1,10 @@
-Title: Markdown
+Title: Using Markdown
 
-# Markdown
+# Using Markdown
 
-A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown.
+A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-!!! info "What’s Markdown?"
-    Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+Veja abaixo algumas opções de sintax que podem ser utilizadas na criação de documentos.
 
 ## Basic Syntax
 
