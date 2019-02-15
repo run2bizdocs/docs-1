@@ -5,7 +5,7 @@ Description: Configure passwords of system usage, providing a greater level of s
 This functionality portrays the configuration of system usage passwords,
 providing a higher level of security with the usage of different characters.
 
-!!! Abstract "ATTENTION"
+!!! Warning "ATTENTION"
 
      This security policy is not available for LDAP users.
      
