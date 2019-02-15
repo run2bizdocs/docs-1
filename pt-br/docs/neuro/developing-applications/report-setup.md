@@ -27,7 +27,7 @@ Figura 2 -Tela de listagem de relatórios
 
 ##Preenchimento dos campos cadastrais  
 
-# Dados do relatório
+#Dados do relatório
 
 1. Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
