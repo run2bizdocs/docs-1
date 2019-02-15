@@ -22,7 +22,7 @@ Instalar el componente SOLR, como presentamos en el [manual de instalación][1].
 
 [Indexar Base de Conocimiento][2]
 
-[1]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/overview.html
+[1]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr_1
 [2]:/es-es/citsmart-esp-8/platform-administration/data-indexing/management.html
 
 
