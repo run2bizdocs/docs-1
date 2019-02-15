@@ -25,15 +25,15 @@ determinadas informações sejam registradas ao criar o problema.*
 
     |     **Nome do campo**    | **Obrigatório** |
     |:------------------------:|:--------------:|
-    |         Catálago         |      [checkbox:unchecked]                  |
-    |   Categoria de Serviço   |       [checkbox:unchecked]                 |
-    |          Serviço         |       [checkbox:unchecked]                 |
-    |         Telefone         |          [checkbox:unchecked]              |
-    |           Ramal          |        [checkbox:unchecked]                |
-    |     Localidade Física    |      [checkbox:unchecked]                  |
-    |        Observação        |           [checkbox:unchecked]             |
-    |      Grupo executor      |        [checkbox:unchecked]                |
-    | Solucionar/Contornar até |    [checkbox:unchecked]                    |
+    |         Catálago         |      :ballot_box_with_check:                  |
+    |   Categoria de Serviço   |       :ballot_box_with_check:                 |
+    |          Serviço         |       :ballot_box_with_check:                 |
+    |         Telefone         |          :ballot_box_with_check:              |
+    |           Ramal          |        :ballot_box_with_check:                |
+    |     Localidade Física    |      :ballot_box_with_check:                  |
+    |        Observação        |           :ballot_box_with_check:             |
+    |      Grupo executor      |        :ballot_box_with_check:                |
+    | Solucionar/Contornar até |    :ballot_box_with_check:                    |
 
 3.  Clicar no botão “Gravar”.
 
@@ -49,11 +49,11 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
     | **Nome do campo** | **Obrigatório** |
     |:-----------------:|:--------------:|
-    |     Telefone      |       [checkbox:unchecked]                 |
-    |       E-mail      |          [checkbox:unchecked]              |
-    |      Unidade      |           [checkbox:unchecked]             |
-    | Localidade Física |       [checkbox:unchecked]                 |
-    | Origem de contato |     [checkbox:unchecked]                   |
+    |     Telefone      |       :ballot_box_with_check:                 |
+    |       E-mail      |          :ballot_box_with_check:              |
+    |      Unidade      |           :ballot_box_with_check:             |
+    | Localidade Física |       :ballot_box_with_check:                 |
+    | Origem de contato |     :ballot_box_with_check:                   |
 
     !!! Abstract "ATENÇÃO"
 
