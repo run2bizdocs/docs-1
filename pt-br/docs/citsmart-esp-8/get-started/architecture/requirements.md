@@ -13,7 +13,7 @@ O CITSmart é executado no servidor de aplicativos Wildfly versão 12. Os requis
 | **Disco**   | 80 GB   |
 
 ## Servidor de Banco de Dados Relacional
-O CITSmart é compatível com bancos de dados PostgreSQL, Oracle e Microsoft SQL Server. Se você já tiver um sistema de gerenciamento de banco de dados corporativo, ele poderá ser usado para hospedar o banco de dados do CITSmart. Se você não possui e deseja instalar um novo SGDB apenas para o aplicativo, recomendamos o uso do PostgreSQL 9.2 ou posterior, com as seguintes configurações:
+O CITSmart é compatível com bancos de dados PostgreSQL, Oracle e Microsoft SQL Server. Se já tiver um sistema de gerenciamento de banco de dados corporativo, ele poderá ser usado para hospedar o banco de dados do CITSmart. Se não possuir e desejar instalar um novo SGDB apenas para o aplicativo, recomenda-se o uso do PostgreSQL 9.2 ou posterior, com as seguintes configurações:
 
 | Recurso | Valor   |
 |---------|---------|
@@ -42,7 +42,7 @@ Para instalar Apache SOLR, recomenda-se seguir a seguinte configuração:
 | **Disco**   | 80 GB   |
 
 !!! tip
-     Os serviços **SOLR** e **MongoDB** podem ser instalados no mesmo servidor que o aplicativo CITSmart. Recomendamos para ambientes de produção que você separe o servidor de banco de dados do servidor de aplicativos.
+     Os serviços **SOLR** e **MongoDB** podem ser instalados no mesmo servidor que o aplicativo CITSmart. Recomenda-se para ambientes de produção que separe o servidor de banco de dados do servidor de aplicativos.
 
 !!! tip "About"
 
