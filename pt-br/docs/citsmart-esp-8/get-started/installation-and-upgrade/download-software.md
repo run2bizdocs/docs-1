@@ -8,7 +8,7 @@ Title: Download e software
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
-    Recomendamos Red Hat, CentOS, Debian ou Ubuntu.
+    Recomenda-se Red Hat, CentOS, Debian ou Ubuntu.
 
 
 Para execução do CITSmart Enterprise, baixar os pacotes necessários conforme
@@ -118,7 +118,7 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 	
 2. Deve-se criar um diretório para a base e iniciar o MongoDB. Note que ele irá subir com permissões irrestritas de acesso.
 
-3. Com o MongoDB iniciado, abrir outro terminal, acessar o diretório bin do MongoDB e criar a base citsmart definindo seu usuário e senha.
+3. Com o MongoDB iniciado, abrir outro terminal, acessar o diretório bin do MongoDB e criar a base CITSmart definindo o usuário e senha.
 
     ``` sh
     cd /opt/mongodb-linux-x86_64-ubuntu1604-3.4.5/bin/
@@ -151,14 +151,14 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 
 ### PostgreSQL Database Server
 
-Para esse manual vserá utilizada a versão 9.5 do PostgreSQL.
+Para esse manual será utilizada a versão 9.5 do PostgreSQL.
 
 !!! Abstract "ATENÇÃO"
 
     Pode instalar o PostgreSQL seguindo o manual oficial do PostgreSQL através do link:
     https://www.postgresql.org/download/linux/redhat/
 
-1. Após instalar o PostgreSQL precisamos criar a bases de dados, usuário e senha.;
+1. Após instalar o PostgreSQL precisa-se criar a bases de dados, usuário e senha;
 
     ``` sh
     systemctl start postgresql
@@ -198,7 +198,7 @@ Para esse manual vserá utilizada a versão 9.5 do PostgreSQL.
     exit
     ```
 
-2. Observar o retorno dos comandos analisando a correta execução.
+2. Observar o retorno dos comandos analisando a correta execução;
 
 3. Configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
 a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
@@ -292,7 +292,7 @@ diretório do Solr para ele e inicie.
     bin/solr start
     ```    
 
-4. Descomprimir o arquivo para configurações da base de conhecimento e execute a
+4. Descomprimir o arquivo para configurações da base de conhecimento e executar a
 criação da collection.
 
     ``` sh

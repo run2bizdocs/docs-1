@@ -4,7 +4,10 @@ Title: Enable Inventory
 
 CITSmart Inventory - Inventory is a component of CITSmart ESP that allows you to register and manage inventory routines. It lets you bring information about your organization's configuration items and manage them through the Configuration Management process.  
 
-Inventory works in conjunction with [CITSmart Event Monitor - EVM][1] and as a data collector (eg XML packages) and EVM serves as a repositories for this information. Therefore, to enable Inventory, you must first configure EVM.  
+
+## Before getting started
+
+CITSmart Inventory works in conjunction with [CITSmart Event Monitor - EVM][1] and as a data collector (eg XML packages) and EVM serves as a repositories for this information. Therefore, to enable Inventory, you must first configure EVM.  
 
 
 ## Procedure  
@@ -20,11 +23,12 @@ To test the Inventory, [configure][3] the connections in the CITSmart ESP instan
 
 ## Related
 
-[Enable CITSmart Event Monitor][1]
+[Enable CITSmart Event Monitor][4]
 
 [1]:/en-us/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
-[2]:/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
-[3]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configure-system-properties
+[3]:/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
+[4]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 
 !!! tip "About"
 

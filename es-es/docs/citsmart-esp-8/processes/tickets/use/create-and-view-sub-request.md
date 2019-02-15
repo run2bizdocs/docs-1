@@ -30,8 +30,8 @@ Procedimiento
 !!! Abstract "ATENCIÓN"
 
     La sub-solicitud tiene un flujo propio, por lo que no se cierra junto con 
-    el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de
-    forma autónoma
+    el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de 
+    forma autónoma.  
     
 !!! Abstract "ATENCIÓN"
 
@@ -56,6 +56,6 @@ Relacionado
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/25/2019 - Larissa Lourenço
+    <b>Updated:</b>01/25/2019 - Larissa Lourenço  
 
 
