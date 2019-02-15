@@ -25,15 +25,15 @@ determinadas informações sejam registradas ao criar o problema.*
 
     |     **Nome do campo**    | **Obrigatório** |
     |:------------------------:|:--------------:|
-    |         Catálago         |       [x]                  |
-    |   Categoria de Serviço   |        [x]                 |
-    |          Serviço         |        [x]                 |
-    |         Telefone         |           [x]              |
-    |           Ramal          |         [x]                |
-    |     Localidade Física    |       [x]                  |
-    |        Observação        |            [x]             |
-    |      Grupo executor      |         [x]                |
-    | Solucionar/Contornar até |     [x]                    |
+    |         Catálago         |       []                  |
+    |   Categoria de Serviço   |        []                 |
+    |          Serviço         |        []                 |
+    |         Telefone         |           []              |
+    |           Ramal          |         []                |
+    |     Localidade Física    |       []                  |
+    |        Observação        |            []             |
+    |      Grupo executor      |         []                |
+    | Solucionar/Contornar até |     []                    |
 
 3.  Clicar no botão “Gravar”.
 
@@ -50,11 +50,11 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
     | **Nome do campo** | **Obrigatório** |
     |:-----------------:|:--------------:|
-    |     Telefone      |        [x]                 |
-    |       E-mail      |           [x]              |
-    |      Unidade      |            [x]             |
-    | Localidade Física |        [x]                 |
-    | Origem de contato |      [x]                   |
+    |     Telefone      |        []                 |
+    |       E-mail      |           []              |
+    |      Unidade      |            []             |
+    | Localidade Física |        []                 |
+    | Origem de contato |      []                   |
 
     !!! Abstract "ATENÇÃO"
 
