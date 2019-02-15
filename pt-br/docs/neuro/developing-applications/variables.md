@@ -4,15 +4,15 @@ Description: Nesta aba são configuradas as variáveis que serão utilizadas no 
 
 Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.    
 
-##COMO ACESSAR  
+##Como acessar  
 
 1. Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Fluxo ESI.  
 
-##PRÉ-CONDIÇÕES  
+##Pré-condições  
 
 1. Não se aplica. 
 
-##FILTROS  
+##Filtros  
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
@@ -21,14 +21,14 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 ![Screenshot](images/Variables-fig01.png)  
 Figura 1 - Tela de pesquisa  
 
-##LISTAGEM DE ITENS 
+##Listagem de itens 
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.  
 
 ![Screenshot](images/Variables-fig02.png)    
 Figura 2 - Tela de listagem   
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS - VARIÁVEIS     
+##Preenchimento dos campos cadastrais - variáveis     
 
 1. Para adicionar uma variável, selecione a sua aba referente e clique em Adicionar.    
 2. Será apresentada a seguinte tela:    
