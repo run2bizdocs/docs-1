@@ -14,21 +14,22 @@ Procedimiento
 1. Descargar el paquete war del componente EVM;  
 2. Descomprimir los archivos;  
 3. Copiar el paquete a la carpeta de implementación del servidor de aplicaciones Wildfly;  
-4. Configurar las [Propriedades del Sistema][1] con los datos de la instancia CITSmart ESP.
+4. Configurar las [Propriedades del Sistema][2] con los datos de la instancia CITSmart ESP.
 
 Lo que hacer después 
 -------
 
-Para probar el Inventory, [configurar][2] las conexiones en la instancia CITSmart ESP.
+Para probar el Inventory, [configurar][3] las conexiones en la instancia CITSmart ESP.
 
 Relacionado
 ----------
 
-[Habilitar Event Monitor][3]
+[Habilitar Event Monitor][4]
 
-[1]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
-[3]:/es-es/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
+[1]:/es-es/citsmart-esp-8/initial-settings/add-ons/event-monitor.html
+[2]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[3]:/es-es/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html
+[4]:/es-es/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
 
 !!! tip "About"
 
