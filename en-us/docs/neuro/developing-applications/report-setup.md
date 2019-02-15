@@ -26,7 +26,8 @@ Figure 2 - Report configuration lisitng screen
 
 ##Filling in the registration fields  
 
-REPORT DATA  
+###Report data
+
 1. This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
 
 ![Screenshot](images/Report-setup-fig03.png)
