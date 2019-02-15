@@ -25,7 +25,7 @@ adaptación de la declaración de servicio que se ha convertido en Conexión de 
 Entregando experiencias. Esta decisión se basó en la capacidad de nuestro Flujo de
 Trabajo de adaptarse a las diversas necesidades del negocio, y en el Neuro, permitiendo
 la construcción de nuevas entradas de datos y posibilidades de integración. También
-creamos en el año 2018 los productos CX - Centro de Experiencias. Este producto es
+creamos en el año 2018 los productos CE - Centro de Experiencias. Este producto es
 una iniciativa para crear un constructor de espacio de trabajo digital.
 
 Anuva
