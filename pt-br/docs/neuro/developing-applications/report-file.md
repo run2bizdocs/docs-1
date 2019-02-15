@@ -5,13 +5,13 @@ Description:Quando for necessária a criação de relatórios nas aplicações c
  
 Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.    
 
-##COMO ACESSAR  
+##Como acessar  
 1. Acesse a funcionalidade através da navegação no menu Neuro > Recursos > Upload de relatório.   
 
-##PRÉ-CONDIÇÕES    
+##Pré-condições    
 1. Não se aplica.    
 
-##FILTROS  
+##Filtros  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
     * Palavra chave ou enter   
@@ -19,13 +19,13 @@ Quando for necessária a criação de relatórios nas aplicações construídas 
 ![Screenshot](images/Report-file-fig01.png)   
 Figura 1 - Tela de pesquisa de arquivos de relatório     
 
-##LISTAGEM DE ITENS  
+##Listagem de itens  
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Recurso, Nome, Descrição e Versão.  
 
 ![Screenshot](images/Report-file-fig02.png)   
 Figura 2 - Tela de listagem de arquivos de relatório    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+##Preenchimento dos campos cadastrais   
 
 !!! Abstract "ATENÇÃO"
 

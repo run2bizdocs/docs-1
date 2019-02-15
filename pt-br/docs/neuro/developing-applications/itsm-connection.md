@@ -4,13 +4,13 @@ Description: Esta funcionalidade tem como objetivo configurar a conexão para re
 
 Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
 
-##COMO ACESSAR  
+##Como acessar  
 1. Acesse a funcionalidade através da navegação no menu Builder > Configuração > Conexão ITSM.   
 
-##PRÉ-CONDIÇÕES    
+##Pré-condições    
 1. Não se aplica.   
 
-##FILTROS  
+##Filtros  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:  
       
       * Palavra chave.  
@@ -18,13 +18,13 @@ Esta funcionalidade tem como objetivo configurar a conexão para realizar integr
 ![Screenshot](images/ITSM-Search.png)   
 Figura 1 - Tela de pesquisa     
 
-##LISTAGEM DE ITENS    
+##Listagem de itens    
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome e Descrição.   
   
 ![Screenshot](images/ITSM-Listing.png)  
 Figura 2 - Tela de listagem     
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+##Preenchimento dos campos cadastrais    
 1. Para cadastrar uma conexão ITSM, clique em Cadastrar, conforme ilustrado na figura abaixo:    
 
     ![Screenshot](images/ITSM-Filling.png)  

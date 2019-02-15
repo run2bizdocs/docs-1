@@ -5,13 +5,13 @@ Description: Nesta página são mantidos os formulários criados através do Neu
 Nesta página são mantidos os formulários criados através do Neuro.   
 Os formulários podem ser criados manualmente, ou gerados através do Objeto de negócio.    
 
-##COMO ACESSAR  
+##Como acessar 
 1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Formulário.   
 
-##PRÉ-CONDIÇÕES    
+##Pré-condições    
 1. Não se aplica.    
 
-##FILTROS    
+##Filtros   
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
 
     * Palavra chave ou enter.    
@@ -19,16 +19,16 @@ Os formulários podem ser criados manualmente, ou gerados através do Objeto de 
 ![Screenshot](images/Form-Search.png)   
 Figura 1 - Tela de pesquisa de formulário    
 
-#LISTAGEM DE ITENS  
+##Listagem de itens  
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome e Descrição.     
 
 ![Screenshot](images/Form-Listing.png)  
 Figura 2 - Tela de listagem de formulário  
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+##Preenchimento dos campos cadastrais  
 1. Para criar um novo formulário, clique em Cadastrar.  
 
-DADOS BÁSICOS
+###Dados básicos
 
 1. Nesta aba deverão ser informados os dados básicos dos formulários, como a aplicação ao qual o formulário pertence, o nome, descrição, Regras de negócio (caso houver), e a pasta, que é um agrupador físico dos formulários no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.    
 2. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do formulário for criada.    
@@ -54,7 +54,7 @@ Figura 3 - Tela de cadastro/edição de formulários, aba "Dados básicos"
 
 Figura 4 - Tela de cadastro/edição de formulários, aba "Código compartilhado"    
 
-##DESENHANDO A TELA    
+##Desenhar a tela    
 1. Para criar o desenho da tela, clique em Editar tela ou navegue até a aba do sistema Desenho de tela que é aberta automaticamente.    
 2. Arraste os componentes localizados na paleta lateral esquerda para o centro de acordo com a forma que desejar construir o formulário. Os componentes são organizados em linhas e colunas na tela, sendo que as linhas possuem largura de 12 colunas. Isso significa que em cada linha você poderá inserir até 2 componentes com largura 6, ou até 3 componentes com largura 4, por exemplo. Você não precisa necessariamente preencher todo o tamanho disponível na linha.    
 3. É possível também criar abas nos formulários. Para isso, acesse o menu Abas, e escolha abas na horizontal ou na vertical. As abas serão adicionadas na tela, e você poderá desenhar a tela com os componentes em cada aba.    
@@ -66,11 +66,12 @@ Figura 4 - Tela de cadastro/edição de formulários, aba "Código compartilhado
 ![Screenshot](images/Form-screen-design.png)   
 Figura 5 - Tela de cadastro/edição de formulários, tela de desenho das telas    
 
-##JS PARA VISUALIZAÇÃO    
+##JS para visualização    
 1. Esta aba tem a funcionalidade de adicionar variáveis no escopo do Javascript na tela que se abre quando se clica no botão Visualizar tela. Mais informações podem ser encontradas na Desenvolvendo aplicações.    
 
 ![Screenshot](images/Form-JS.png)  
 Figura 6 - Tela de cadastro/edição de formulários, aba "JS para visualização"    
+
 
 !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

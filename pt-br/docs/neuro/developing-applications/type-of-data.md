@@ -6,15 +6,15 @@ Description:O cadastro de tipo de dado tem a funcionalidade de vincular um tipo 
 O cadastro de tipo de dado tem a funcionalidade de vincular um tipo abstrato de dado à um componente de formulário.    
 Este campo é selecionado quando se cria um novo atributo de um objeto de negócio. Mais informações podem ser encontradas no documento de Desenvolvendo Aplicações.   
 
-##COMO ACESSAR   
+##Como acessar   
 
 1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Tipo de dado.    
 
-##PRÉ-CONDIÇÕES  
+##Pré-condições  
 
 1. Não se aplica.    
  
-##FILTROS   
+##Filtros   
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
@@ -23,14 +23,14 @@ Este campo é selecionado quando se cria um novo atributo de um objeto de negóc
 ![Screenshot](images/Data-type-fig01.png)   
 Figura 1 - Tela de pesquisa de tipo de dado    
 
-##LISTAGEM DE ITENS  
+##Listagem de itens  
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição e Componente.
 
 ![Screenshot](images/Data-type-fig02.png)   
 Figura 2 - Tela de listagem de tipo de dado    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+##Preenchimento dos campos cadastrais  
 
 1. Para cadastrar uma propriedade de componente, clique em Cadastrar, conforme ilustrado na figura abaixo:   
 

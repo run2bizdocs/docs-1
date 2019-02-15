@@ -4,13 +4,13 @@ Description: Todas as conexões de banco de dados que são necessárias para as 
 
 Todas as conexões de banco de dados que são necessárias para as aplicações criadas através do Neuro são cadastradas aqui.    
 
-##COMO ACESSAR    
+##Como acessar    
 1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Conexão de Banco de Dados.  
 
-##PRÉ-CONDIÇÕES  
+##Pré-condições  
 1. Deverá ser criada tanto a conexão de banco de dados da aplicação construída, quanto a conexão com os bancos de dados aos quais a aplicação se integra.    
 
-##FILTROS  
+##Filtros  
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:     
 
     * Palavra chave ou enter.    
@@ -18,14 +18,14 @@ Todas as conexões de banco de dados que são necessárias para as aplicações 
 ![Screenshot](images/DataConnection-Filters.png)    
 Figura 1 - Tela de pesquisa de conexão de banco de dados     
 
-##LISTAGEM DE ITENS    
+##Listagem de itens    
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome e Tipo.   
 
 
 ![Screenshot](images/DataConnection-ItemsList.png)   
 Figura 2 - Tela de listagem de conexão de banco de dados     
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+##Preenchimento dos campos cadastrais    
 1. Para criar uma nova conexão, clique em Cadastrar. Informe um Nome para a conexão, uma Descrição, o Tipo de conexão (JNDI ou conexão direta), e o tipo do Banco de dados.    
 2. Para conexão JNDI, informe o Contexto JNDI, e o Nome JNDI.   
 3. Para conexão direta, informe o Path JDBC, o Usuário e a Senha do banco.   

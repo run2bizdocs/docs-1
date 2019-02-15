@@ -6,4 +6,4 @@ A noção de "Chat" é usada para aludir à troca de mensagens escritas de forma
 
 Acesse [esse documento][1] para mais informações. 
 
-[1]:/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-chat.html
+[1]:/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-chat.html

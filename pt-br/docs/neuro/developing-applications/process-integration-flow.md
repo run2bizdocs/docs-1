@@ -5,13 +5,13 @@ Description:Os fluxos de integração de processos são workflows que possuem ta
 
 Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
-##COMO ACESSAR  
+##Como acessar  
 1. Acesse a funcionalidade através do menu Workflow/ESI > Administração > Design workflow/ESI.  
 
-##PRÉ-CONDIÇÕES  
+##Pré-condições  
 1. Não se aplica.   
 
-##FILTROS   
+##Filtros   
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
      * Palavra chave   
@@ -19,13 +19,13 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 ![Screenshot](images/Process-fig01.png)   
 Figura 1 - Tela de pesquisa de design workflow/ESI   
 
-##LISTAGEM DE ITENS   
+##Listagem de itens   
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Process-fig02.png) 
 Figura 2 - Tela de listagem de design workflow/ESI   
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO  
+##Preenchimento dos campos cadastrais - dados do fluxo  
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
 1. Clique em Cadastrar > Fluxo de integração de processos, conforme ilustrado na figura abaixo:    
@@ -52,11 +52,11 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
 	-   Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
 
-##VARIÁVEIS    
+##Variáveis    
 
 Verificar documentação de Variáveis.    
 
-##ESTADOS    
+##Estados    
 Os estados do fluxo representam as situações nas quais um fluxo pode se encontrar, de acordo com o seu ciclo de vida.    
 
 1. Para adicionar um estado para o workflow, selecione a aba Estados e clique em Adicionar.   
@@ -81,7 +81,7 @@ Os estados do fluxo representam as situações nas quais um fluxo pode se encont
 
         Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 	
-##AÇÕES  
+##Ações  
 Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
 
 1. Para incluir uma ação, selecione a aba Ações e clique na opção Adicionar.  
@@ -105,7 +105,7 @@ Por meio deste menu, é possível cadastrar as ações que serão executadas no 
 
      Para salvar efetivamente as alterações, clique em Salvar na barra superior.    
 	
-##ATORES    
+##Atores    
 Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
 
 Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de pedido de delivery de pizza, você provavelmente contará com atores como o cliente, o atendente, o pizzaiolo, e o entregador. Todos esses papéis são considerados atores no fluxo, pois todos eles participam do processo de entrega de pizzas.    
@@ -142,7 +142,7 @@ Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de 
 	
 7. Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
 	
-##DIAGRAMA  
+##Diagrama  
 
 O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode ser desenhado por aqui, por meio da utilização da notação BPMN.    
 

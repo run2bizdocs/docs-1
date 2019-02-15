@@ -4,13 +4,13 @@ Description:Essas informações são preenchidas automaticamente a partir do cad
 #Configuração de relatório   
 Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
 
-##COMO ACESSAR 
+##Como acessar 
 1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
 
-##PRÉ-CONDIÇÕES 
+##Pré-condições 
 1. O formulário deve ser previamente cadastrado no Formulário. 
 
-##FILTROS 
+##Filtros 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
     * Palavra chave ou enter.    
@@ -18,23 +18,24 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 ![Screenshot](images/Report-setup-fig01.png)     
 Figura 1 -Tela de pesquisa de relatórios     
 
-##LISTAGEM DE ITENS    
+##Listagens de itens    
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
 
 ![Screenshot](images/Report-setup-fig02.png)
 
 Figura 2 -Tela de listagem de relatórios    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+##Preenchimento dos campos cadastrais  
 
-DADOS DO RELATÓRIO    
+###Dados do relatório
+
 1. Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
 ![Screenshot](images/Report-setup-fig03.png)
 
 Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
 
-##DATA SOURCE  
+##Data source  
 1. Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
 
     - Nenhum: caso o arquivo não realize uma busca no banco de dados.    
@@ -46,7 +47,7 @@ Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relat
 ![Screenshot](images/Report-setup-fig04.png)   
 Figura 4 - Cadastro/edição de configuração de relatório, aba Data source    
 
-##PARÂMETROS    
+##Parâmetros    
 1. Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
 
     - Clique em Adicionar para incluir um novo parâmetro;    
@@ -59,7 +60,7 @@ Figura 4 - Cadastro/edição de configuração de relatório, aba Data source
 
 Figura 5 - Cadastro/edição de configuração de relatório, aba Parâmetros    
 
-##FORMULÁRIO   
+##Formulário   
 Esta aba representa o formulário a ser exibido quando o usuário for gerar o relatório.    
 
 1. Informe o nome do formulário cadastrado, informe se deverão ser exibidas abas, o título do formulário, e o menu associado ao mesmo;    
