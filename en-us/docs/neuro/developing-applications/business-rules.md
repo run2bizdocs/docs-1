@@ -34,7 +34,6 @@ Figure 2 - Business rules listing screen
 4. The business rules you enter by default are created locked. This means that the rule will not be used unless you unlock it. To unlock    the rule, select the desired item, and click the Unlock option on the top menu. A Business Rule can be used in a form, within a          business object, in a business process or in a flow;  
 5. Further information regarding the use of a business rule can be found in the Developing Applicantions.  
 
---------------------  
 
 ##Create business rules using Drools type
 
