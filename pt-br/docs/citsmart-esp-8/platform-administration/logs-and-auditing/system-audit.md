@@ -30,7 +30,7 @@ Parãmetros CITSmart):
 Procedimento
 ------------
 
-**Processo para configurar a Auditoria:**
+**/*Processo para configurar a Auditoria:**/*
 
 *Configuração para gerar o backup das auditorias.*
 
@@ -54,7 +54,7 @@ funcionalidade.
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
-    !!! note "ATENÇÃO"
+    !!! note "IMPORTANTE"
 
         São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
         sistema, do acesso ao sistema e as licenças do mesmo.
@@ -97,11 +97,10 @@ realizadas no sistema.*
 2.  Será exposto os usuários que efetuaram o login e logout no sistema,
     registrando também a data e a hora de cada uma destas atividades;
 
-    !!! Abstract "NOTA"
-
-       Se porventura o sistema expirar, não será possível captar o logout do
-       sistema, ficando registrado, portanto, só as informações de entrada da
-       sessão de acesso.  
+    !!! Abstract "NOTA"  
+        Se porventura o sistema expirar, não será possível captar o logout do
+        sistema, ficando registrado, portanto, só as informações de entrada da
+        sessão de acesso.  
 
 3.  Existem filtros para auxiliar a busca de determinado acesso.
 
