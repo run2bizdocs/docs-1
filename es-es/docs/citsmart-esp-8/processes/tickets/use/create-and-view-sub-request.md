@@ -30,8 +30,8 @@ Procedimiento
 !!! Abstract "ATENCIÓN"
 
     La sub-solicitud tiene un flujo propio, por lo que no se cierra junto con 
-    el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de
-    forma autónoma
+    el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de 
+    forma autónoma.  
     
 !!! Abstract "ATENCIÓN"
 
