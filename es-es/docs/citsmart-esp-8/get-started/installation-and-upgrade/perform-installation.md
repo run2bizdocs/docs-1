@@ -190,8 +190,8 @@ módulo al standalone-full-ha.xml
     ```
 
 3. Hay **ocho entradas** de datasource para citsmart_db, siendo que
-cuatro para Citsmart y tres para Citsmart Neuro. El usuario y contraseña
-e citsmartdbuser y exemplo123 creados en el ítem *Servidor de Base de Datos
+cuatro para Citsmart y cuatro para Citsmart Neuro. El usuario y contraseña
+e citsmartdbuser y exemplo123 creados respectivamente en el ítem *Servidor de Base de Datos
 PostgreSQL*.
 
 4. Para crear los datasources, ejecute los comandos CLI abajo:
