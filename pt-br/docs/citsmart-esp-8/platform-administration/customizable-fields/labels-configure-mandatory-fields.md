@@ -23,7 +23,7 @@ determinadas informações sejam registradas ao criar o problema.*
 
 2.  Marcar os campos que deseja tornar obrigatório. São eles:
 
-    |     **Nome do campo**    | **Sim ou não** |
+    |     **Nome do campo**    | **Obrigatório** |
     |:------------------------:|:--------------:|
     |         Catálago         |       [x]                  |
     |   Categoria de Serviço   |        [x]                 |
@@ -48,7 +48,7 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
 
 2.  Marcar os campos que deseja tornar obrigatório. São eles:
 
-    | **Nome do campo** | **Sim ou não** |
+    | **Nome do campo** | **Obrigatório** |
     |:-----------------:|:--------------:|
     |     Telefone      |        [x]                 |
     |       E-mail      |           [x]              |
