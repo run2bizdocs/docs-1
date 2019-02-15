@@ -187,9 +187,9 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-     name=org.postgresql.xa.PGXADataSource
     ```
    
-    There are eight inputs of datasource for the citsmart_db, being four for CITSmart and four for CITSmart Neuro. The user and   password is citsmartdbuser and exemplo123 respectively created in the section "PostgreSQL Database Server".
+3. There are **eight inputs** of datasource for the **citsmart_db**, being four for CITSmart and four for CITSmart Neuro. The user and   password is **citsmartdbuser and exemplo123** respectively created in the section *PostgreSQL Database Server*.
    
-3. To create datasources, execute the CLI commands below:
+4. To create datasources, execute the CLI commands below:
 
     Datasource citsmart:
 
@@ -283,7 +283,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
     ```
 
-4. Before exit the jboss-cli, execute the command reload to apply the changes. Then, make a connection text with database;
+5. Before exit the jboss-cli, execute the command reload to apply the changes. Then, make a connection text with database;
 
     ```sh
     [standalone@localhost:9990 /] :reload
