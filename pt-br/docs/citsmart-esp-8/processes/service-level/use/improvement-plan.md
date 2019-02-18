@@ -23,7 +23,7 @@ Procedimento
 
 4.  Após o cadastro da melhoria, clicar em "Cadastrar Objetivo";
 
-5.  Preencher os campos disponibilizados e os demais caso necessários;
+5.  Preencher os campos disponibilizados e os demais caso necessário;
 
 6.  Clicar em "Gravar".
 
