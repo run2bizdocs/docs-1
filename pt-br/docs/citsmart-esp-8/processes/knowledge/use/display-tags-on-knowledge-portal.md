@@ -32,7 +32,7 @@ Procedimento
 
 4.  Para pesquisar conhecimentos por suas tags, basta acessar o Portal de
     Conhecimento ou Guia do Usuário e pesquisar o artigo pela palavra chave que
-    expresse o conceito daquilo que pretende encontrar. O sistema informá os
+    expresse o conceito daquilo que pretende encontrar. O sistema informará os
     documentos que tenham registrados a tag procurada.
 
 Relacionado
