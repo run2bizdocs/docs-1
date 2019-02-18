@@ -31,11 +31,11 @@ Start a line with a hash character # to set a heading. Organize your remarks wit
 
 Example:
 
-```sh
+`
 # This is a H1 header
 ## This is a H2 header
 ### This is a H3 header
-```
+`
 
 Result:
 | Exemple |
