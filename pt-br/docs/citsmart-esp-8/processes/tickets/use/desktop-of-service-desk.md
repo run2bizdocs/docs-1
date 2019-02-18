@@ -15,14 +15,14 @@ Procedimento
 1.  Acessar a funcionalidade pelo menu Processos \> Gerência de Requisição e
     Incidente \> Ticket;
 
-2.  Buscar pelo ticket e ação ação desejados.
+2.  Buscar pelo ticket e ação desejados.
 
 !!! Abstract "ATENÇÃO"  
 
     O botão “Atualização automática” virá por default não selecionado. Para
     que a atualização automática seja ininterrupta, faz-se necessário mudar o
     parâmetro 418 para a opção "SIM". Desse modo o botão ficará acionado
-    automaticamente e o sistema fará a  atualização da listagem a cada 25
+    automaticamente e o sistema fará a atualização da listagem a cada 25
     segundos.
 
 Relacionado
