@@ -37,18 +37,18 @@ Procedimento
     tipo de questionário a ser vinculado, apertar então no botão "Gravar " para
     efetuar a operação;
 
-7.  Para vincular **Problemas**, clicar na área de mesmo nome e e em seguida
+7.  Para vincular **Problemas**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
     desejar cadastrar um problema, basta clicar no botão "Cadastrar" e preencher
     os dados necessários;
 
-8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e e em
+8.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar o conhecimento
     desejado. Se desejar cadastrar um novo artigo, clicar no botão "Cadastrar" e
     preencher os dados;
 
-9.  Para vincular um **Ticket**, clicar na área de mesmo nome e
-    e em seguida apertar sobre o campo de pesquisa e selecionar o ticket
+9.  Para vincular um **Ticket**, clicar na área de mesmo nome e 
+    em seguida apertar sobre o campo de pesquisa e selecionar o ticket
     desejado. Lembrando que será exposta todos os tickets já cadastrados,
     sendo necessário, portanto, selecionar o ticket cadastrado
     anteriormente.
