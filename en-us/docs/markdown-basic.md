@@ -31,18 +31,18 @@ Result:
 
 These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
 
-| Element | Markdown Syntax | Result |
-|---------|-----------------| ---- |
-| Heading | `This is a H1 header` <br/> `This is a H2 header` <br/> `This is a H3 header` |#This is a H1 header ##This is a H2 header ###This is a H3 header|
-| Bold | `**bold text**`| |
-|Italic	| `*italicized text*` | |
-|Blockquote	| `> blockquote` | |
-|Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` | |
-|Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` | |
-| Code | `code` | |
-| Horizontal Rule | ``---`` | |
-| Link | `[title](https://www.example.com)`| |
-| Image | `![alt text](image.jpg)` | |
+| Element | Markdown Syntax |
+|---------|-----------------|
+| Heading | `This is a H1 header` <br/> `This is a H2 header` <br/> `This is a H3 header` |
+| Bold | `**bold text**`|
+|Italic	| `*italicized text*` |
+|Blockquote	| `> blockquote` |
+|Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` |
+|Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` |
+| Code | `code` |
+| Horizontal Rule | ``---`` |
+| Link | `[title](https://www.example.com)`|
+| Image | `![alt text](image.jpg)` |
 
 
 ## Extended Syntax
