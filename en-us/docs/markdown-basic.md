@@ -8,6 +8,22 @@ Veja abaixo algumas opções de sintax que podem ser utilizadas na criação de 
 
 ## Basic Syntax
 
+These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
+
+| Element | Markdown Syntax |
+|---------|-----------------|
+| Heading | `# This is a H1 header` <br/> `## This is a H2 header` <br/> `### This is a H3 header` |
+| Bold | `**bold text**`|
+|Italic	| `*italicized text*` |
+|Blockquote	| `> blockquote` |
+|Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` |
+|Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` |
+| Code | `code` |
+| Horizontal Rule | ``---`` |
+| Link | `[title](https://www.example.com)`|
+| Image | `![alt text](image.jpg)` |
+
+
 ### Headers
 Structure your comments using headers. Headers segment longer comments, making them easier to read.
 
@@ -27,23 +43,23 @@ Result:
 ## This is a H2 header
 ### This is a H3 header
 
-## Basic Syntax
+### Bold
 
-These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
+### Italic
 
-| Element | Markdown Syntax |
-|---------|-----------------|
-| Heading | `# This is a H1 header` <br/> `## This is a H2 header` <br/> `### This is a H3 header` |
-| Bold | `**bold text**`|
-|Italic	| `*italicized text*` |
-|Blockquote	| `> blockquote` |
-|Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` |
-|Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` |
-| Code | `code` |
-| Horizontal Rule | ``---`` |
-| Link | `[title](https://www.example.com)`|
-| Image | `![alt text](image.jpg)` |
+### Blockquote
 
+### Ordered List
+
+### Unordered List
+
+### Code
+
+### Horizontal Rule
+
+### Link
+
+### Image
 
 
 ## Extended Syntax
