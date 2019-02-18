@@ -22,8 +22,7 @@ Procedimento
 
 4.  Em cada guia serão apresentados os resultados referentes a cada tipo
     (Serviço, Causa e Item de Configuração) e em cada item serão exibidos dois
-    botões, um para **Gerar Gráfico** de Análise de Tendências (conforme
-    ilustrado na figura anterior) o qual apresenta as datas que compreendem o
+    botões, um para **Gerar Gráfico de Análise de Tendências**, o qual apresenta as datas que compreendem o
     período informado e o número de ocorrências naquela data, e outro para
     **Criar Problema**, onde será exibida a tela de cadastro de problema para
     registro das informações necessárias do problema:
