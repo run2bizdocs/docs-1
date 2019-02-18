@@ -41,7 +41,14 @@ Procedimento
 8.  No campo **Modelo de e-mail Delegação** escolher pelo modelo de e-mail
     cadastrado previamente;
 
-9.  Clicar no botão "Gravar".
+9.  Clicar no botão "Gravar";
+
+10.  Na tela de parametrização ativar os parâmetros 438 (informar modelo de email
+    de delegação) e o 439 (opção “SIM”);
+
+11.  Na tela de cadastro de grupo, no campo “Colaboradores”, marcar o checkbox
+    “Email” das pessoas que irão receber o email daquele grupo.
+
 
 O que fazer a seguir
 --------------------
@@ -55,6 +62,8 @@ Relacionado
 [Delegar um ticket](/pt-br/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
 [Configurar modelo de email](/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+
+[Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
