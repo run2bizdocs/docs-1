@@ -1,7 +1,9 @@
 title: Notification through delegated email ticket
 Description: Implement the way of sending email from a delegated ticket, so the delegated tickets will have an email template to send to the technician. 
 #Notification through delegated email ticket
-This document allows to implement the way of sending email from a delegated ticket, so the delegated tickets will have an email template to send to the technician.
+
+This document allows to implement the way of sending email from a delegated ticket, 
+so the delegated tickets will have an email template to send to the technician.
 
 Before getting started
 --------------------------
@@ -35,10 +37,17 @@ Procedure
 
 7.  Choose the activity;
 
-8.  In the field** Email Template Delegation** choose by the previously
+8.  In the field **Email Template Delegation** choose by the previously
     registered e-mail template;
 
 9.  Click on "Save".
+
+10.  In the parametrization screen, enable the parameters 438 (informe email
+    template for delegation) and 439 (option "YES");
+    
+11.  In the group registration screen, in the field "Employees", select the checkbox
+    "Email" for the people that will receive the email of that group.
+    
 
 What to do next
 ---------------
@@ -51,6 +60,8 @@ Related
 [Delegate ticket](/en-us/citsmart-esp-8/processes/tickets/use/delegate-ticket.html)
 
 [Configure email template](/en-us/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+
+[Register group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
