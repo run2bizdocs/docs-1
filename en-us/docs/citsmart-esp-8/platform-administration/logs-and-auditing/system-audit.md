@@ -1,120 +1,115 @@
-title:  Auditoria do sistema
-Description: Permite gerenciar os eventuais riscos ao sistema
-#Auditoria do sistema
+title:  System audit
+Description: It allows to manage possible risks to the system
+#System audit
 
-Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
+This functionality allows to manage the possible risks to the system, when auditing all the executions made in the system in form of logs.
 
-Antes de começar 
+Before getting started 
 -----------------
 
-É necesseário a instalação prévia dos seguintes produtos:
+It's necessary to have installed the following products:
 
--   ACTIVEMQ com a versão 5.15.8 ou superior;
+-   ACTIVEMQ with version 5.15.8 or higher;
 
 -   Mongodb.
 
-Também é necessário setar os seguintes parâmetros no CITSmart (Parametrização \>
-Parâmetros CITSmart):
+It's also necessary to set the following parameters in CITSmart (Parametrization \>
+Citsmart Parameters):
 
--   No parâmetro 52, setar o valor “true”;
+-   In parameter 52, set the value “true”;
 
--   No parâmetro 53, informar o tipo de log que deseja. Os tipos são: ‘CIT_LOG’
-    (arquivo de log) e ‘DB_LOG’ (grava no banco);
+-   In parameter 53, inform the type of log you want. The types are: ‘CIT_LOG’
+    (log file) and ‘DB_LOG’ (save in the base);
 
--   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria (Ex:
+-   In parameter 425, inform the URL access to the CITSmart Audit (Eg.:
     http://localhost:8088);
 
--   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex:tcp://citACTIVEMQ:61616).
+-   IN parameter 424, inform the URL access to the ActiveMQ (Eg.:tcp://citACTIVEMQ:61616).
 
-Procedimento
+Procedure
 ------------
 
-***Processo para configurar a Auditoria:***
+***Process to configure the Audit:***
 
-*Configuração para gerar o backup das auditorias.*
+*Configuration to create a backup of the audits.*
 
-Primeiramente, é imprescindível configurar os parâmetros específicos da
-funcionalidade.
+First, it's essential to configure the specific parameters of the functionality.
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Parametrização de Auditoria;
+1.  Access the main menu Parametrization \> Audit Parametrization;
 
-2.  Informar no campo “Diretório” a pasta onde será mantido todos *logs* de
-    auditoria realizados;
+2.  Inform in the field "Directory" the folder where it'll be kept all *logs* of
+    the audits made;
 
-3.  No campo “Frequência em dias” é possível ajustar uma rotina de backup dos
-    logs de auditoria, ao escolher a periodicidade do backup em dias.
+3.  In the "Frequency in days" field, it's possible to adjust a backup routine of
+    the audit logs, by choosing the periodicity of the backup in days.
 
-    !!! Abstract "NOTA"
+    !!! Abstract "NOTE"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do
-        backup.  
+        The choice of frequency should be from 1 (one) day to the execution of the backup.  
 
-4.  É disponibilizado a possibilidade de determinar um período específico (data
-    de início e fim) para a geração dos logs de auditoria do sistema.
+4.  The possibility of determining a specific period (start and end date) for the
+    generation of system audit logs is made available.
 
-    !!! note "IMPORTANTE"
+    !!! note "IMPORTANT"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
-        sistema, do acesso ao sistema e as licenças do mesmo.
+        It's offered three types of system audit: audit of system data, system access
+        and system licenses .
 
-***Auditoria de dados do sistema***
+***System data audit***
 
-*Apresenta o histórico de todos dados de alteração, inclusão e exclusão
-realizadas no sistema.*
+*It presentes the history of all change, inclusion, and deletion of data in the
+system.*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de dados;
+1.  Access the main menu System \>
+    Audit trail \> System logs;
 
-2.  Será exibido os logs de auditoria de toda movimentação realizada no
-    programa, mostrando a data e hora das atualizações, o endereço de IP, o nome
-    do executor da atualização, o nome da tabela, o tipo de operação efetivada
-    no sistema. Ao clicar no botão dados será apresentado o que de fato foi
-    atualizado no programa.
+2.  It'll be presented the audit logs of every move performed in the program,
+    showing the date and time of the updates, the IP address, the executor
+    name of the update, the name of the table, the type of operation made in 
+    the system. Clicking on the data button, it'll show what was actually updated
+    in the program.
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "NOTE"
 
-        O campo “Operações” apresenta o tipo de ação realizada na atualização do
-        sistema em tese. É definida por símbolos, e seus significados são:
+        The "Operations" field presents the type of action made in the system
+        in thesis. It's defined by symbols, and their meanings are:
 
-        -   A letra “A” significa “Alteração” nos dados do sistema;
+        -   The letter "C" stands for "Change" in the system data;
 
-        -   A letra “I” simboliza a “Inserção” de novos dados ao sistema;
+        -   The letter "I" stands for "Insertion" of new data into the system;
 
-        -   A letra “E” significa a “Exclusão” de dados do sistema.  
+        -   The letter "D" stands for "Deletion" of system data.  
 
-3.  É liberado também a busca de determinado *log* através dos filtros dispostos
-    na tela.
+3.  It's also released the search of a *log* through filters available in the screen.
 
-***Auditoria de acessos ao sistema***
+***System access audit***
 
-*Apresenta o histórico dos acessos ao sistema (entradas e saídas).*
+*It presentes the history of access in the system (login and logout).*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de acesso;
+1.  Access the main menu System \>
+    Audit trail \> Access audit;
 
-2.  Será exposto os usuários que efetuaram o login e logout no sistema,
-    registrando também a data e a hora de cada uma destas atividades;
+2.  It'll present the users that made login and logout in the system, alos
+    registering the date and hour of each of theses activities;
 
-    !!! Abstract "NOTA"  
-        Se porventura o sistema expirar, não será possível captar o logout do
-        sistema, ficando registrado, portanto, só as informações de entrada da
-        sessão de acesso.  
+    !!! Abstract "NOTE"  
+        
+        If the system expires, it will not be possible to capture the system logout,
+        so only the login information of the access session will be registered.  
 
-3.  Existem filtros para auxiliar a busca de determinado acesso.
+3.  There are filters to help in the search of an access.
 
-***Auditoria de licenças do sistema***
+***System license audit***
 
-*Informa as licenças utilizadas para a validação do sistema.*
+*Inform the licenses used to validate the system.*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de licença;
+1.  Access the main menu System \>
+    Audit trail \> Audit license;
 
-2.  Apresenta os dados das licenças adquiridas e usadas para a execução do
-    sistema;
+2.  It presents the license data acquired and used to execute the system;
 
-3.  É possível pesquisar uma determinada licença e seu prazo de validade pelos
-    filtros liberados na tela principal.
+3.  It's possible to search for a license and its deadline by the filters
+    in the main screen.
     
 !!! tip "About"
 
