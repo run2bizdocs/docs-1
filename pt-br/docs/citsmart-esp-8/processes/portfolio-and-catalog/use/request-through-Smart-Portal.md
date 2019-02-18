@@ -16,10 +16,10 @@ Procedimento
 ----------------
 
 1.  Acessar a funcionalidade através do menu inicial do Smart Portal, clicar no
-    botão de menu  e logo após clicar em "Minhas Solicitações";
+    botão de menu e logo após clicar em "Minhas Solicitações";
 
 2.  Para trocar mensagens com o atendente da solicitação, basta clicar no
-    ícone “Mensagem ao atendente” . O Atendente receberá o comunicado na área de
+    ícone “Mensagem ao atendente”. O Atendente receberá o comunicado na área de
     trabalho do ticket, onde o mesmo cadastrará a resposta da Nota. Esta
     resposta estará disponível ao clicar novamente neste mesmo ícone.
 
