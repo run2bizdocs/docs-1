@@ -40,7 +40,7 @@ Procedimento
 !!! Abstract "REGRA"
 
     Caso uma das 3 línguas na aba "Multi-idiomas" ficar em branco, as informações serão
-    preenchidas com as que estiver contidas na aba "Apresentação".
+    preenchidas com as que estiver contida na aba "Apresentação".
 
 
 !!! Abstract "REGRA"
