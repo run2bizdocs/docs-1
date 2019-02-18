@@ -31,7 +31,7 @@ Start a line with a hash character # to set a heading. Organize your remarks wit
 
 Example:
 
-`
+```html
 # This is a H1 header
 ## This is a H2 header
 ### This is a H3 header
@@ -40,11 +40,13 @@ Example:
 ### Bold/Italic
 
 Exemple:
-`
+
+```html
 *italic*
 **bold**
 ***bold-italic***^
 `
+
 Result:
 
 *italic*
@@ -62,12 +64,14 @@ Result:
 ### Unordered List
 
 Exemple:
-`
+
+```html
 * Milk
 * Bread
     * Wholegrain
 * Butter
 `
+
 Result:
 
 * Milk
