@@ -35,7 +35,7 @@ Example:
 # This is a H1 header
 ## This is a H2 header
 ### This is a H3 header
-`
+```
 
 ### Bold/Italic
 
@@ -45,7 +45,7 @@ Exemple:
 *italic*
 **bold**
 ***bold-italic***^
-`
+```
 
 Result:
 
@@ -70,7 +70,7 @@ Exemple:
 * Bread
     * Wholegrain
 * Butter
-`
+```
 
 Result:
 
