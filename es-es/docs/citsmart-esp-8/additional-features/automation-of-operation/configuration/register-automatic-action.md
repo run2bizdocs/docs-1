@@ -3,7 +3,7 @@ Description: Proporciona acciones diversas, tales como, incluir, cambiar y elimi
 #Registrar acción automatica
 
 
-Las acciones automáticas se asocian en el registro de gerentes de eventos. Estas
+Las acciones automaticas se asocian en el registro de gerentes de eventos. Estas
 acciones se relacionan de acuerdo con el tipo de evento deseado y se disparan
 cada vez que se reconoce un evento significativo.
 
