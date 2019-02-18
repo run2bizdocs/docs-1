@@ -33,7 +33,7 @@ These are the elements outlined in John Gruber's original design document. All M
 
 | Element | Markdown Syntax |
 |---------|-----------------|
-| Heading | `This is a H1 header` <br/> `This is a H2 header` <br/> `This is a H3 header` |
+| Heading | `# This is a H1 header` <br/> `## This is a H2 header` <br/> `### This is a H3 header` |
 | Bold | `**bold text**`|
 |Italic	| `*italicized text*` |
 |Blockquote	| `> blockquote` |
@@ -43,6 +43,7 @@ These are the elements outlined in John Gruber's original design document. All M
 | Horizontal Rule | ``---`` |
 | Link | `[title](https://www.example.com)`|
 | Image | `![alt text](image.jpg)` |
+
 
 
 ## Extended Syntax
