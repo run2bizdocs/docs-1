@@ -54,7 +54,7 @@ servicio en forma de gráficos.
 5.  Se mostrarán los gráficos de incidentes de acuerdo con los filtros
     definidos.
 
-Generar informres en relación con el desempeño en la captura de incidentes ysolicitudes (cerradas)
+Generar informes en relación con el desempeño en la captura de incidentes y solicitudes (cerradas)
 --------------
 
 Este informe permite ver la información relativa al rendimiento de la ejecución
