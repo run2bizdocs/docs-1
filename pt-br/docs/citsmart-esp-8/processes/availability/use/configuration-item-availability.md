@@ -20,7 +20,7 @@ Procedimento
 
 2.  Clicar na guia Item de Configuração;
 
-3.  Clicar no símbolo “+” localizado  na área “Filtros”, para buscar o IC
+3.  Clicar no símbolo “+” localizado na área “Filtros”, para buscar o IC
     desejado;
 
 4.  Podem ser adicionados vários itens, quantos desejar, para verificação;

@@ -13,7 +13,7 @@ Portfólio e Catálogo.
 É fundamental primeiramente ter o Registro de Continuidade já cadastrado.
 
 É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça à ameaça cadastrada.Também é essencial cadastrar,
+categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
 anteriormente, o risco e a categoria de risco
 
 Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e

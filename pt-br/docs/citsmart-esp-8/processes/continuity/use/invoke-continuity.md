@@ -58,7 +58,7 @@ Procedimento
 10. Para executar a solicitação de procedimento de continuidade, clique no botão
     "Executar", será apresentada a tela para atendimento da solicitação.
 
-11. O vídeo abaixo é uma exemplo de invocação de "Plano de Continuidade
+11. O vídeo referente a atividade é um exemplo de invocação de "Plano de Continuidade
     Auxiliar":
 
 Relacionado

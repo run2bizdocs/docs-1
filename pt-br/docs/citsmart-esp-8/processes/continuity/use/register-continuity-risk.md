@@ -19,7 +19,7 @@ Procedimento
     descrição do risco);
 
 3.  Para vincular ameaças ao risco, clicar no botão "Vincular Ameaça" para
-    pesquisar e vincular a ameaça. Se desejar criar uma nova ameça a partir
+    pesquisar e vincular a ameaça. Se desejar criar uma nova ameaça a partir
     desta tela, clicar no botão "Nova Ameaça" e preencher os campos necessários;
 
 4.  Clicar no botão "Gravar" para efetuar operação.

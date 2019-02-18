@@ -15,7 +15,7 @@ política e o projeto de continuidade do serviço já definido, além de ter o
 escopo da continuidade já registrado.
 
 É necessário o cadastro prévio da ameaça e da categoria de ameaça e vincular a
-categoria de ameaça a ameaça cadastrada.Também é essencial cadastrar,
+categoria de ameaça a ameaça cadastrada. Também é essencial cadastrar,
 anteriormente, o risco e a categoria de risco.
 
 Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisição e
@@ -33,7 +33,7 @@ Procedimento
 3.  Na área **Requisitos e Estratégia**, clicar em "Funções Vitais";
 
 4.  Clicar em "Adicionar Função Vital" para selecionar um processo e apertar
-    "Enviar" para completar a viculação;
+    "Enviar" para completar a vinculação;
 
 5.  Para anexar algum arquivo, clicar no botão "Anexar" e sem seguida "Adicionar
     o arquivo" para vincular o arquivo;

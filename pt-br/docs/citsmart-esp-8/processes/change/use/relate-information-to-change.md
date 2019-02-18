@@ -60,7 +60,7 @@ Procedimento
     desejado. Se quiser criar um novo conhecimento, clicar no botão “Cadastrar”
     e preencher os dados necessários;
 
-11.  Para vincular **Incidentes/Requisiões**, clicar na área de mesmo nome e em
+11.  Para vincular **Incidentes/Requisições**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar o ticket desejado. Se
     desejar criar um novo incidente a ser relacionado, basta clicar no botão
     “Cadastrar” e preencher os dados necessários;
