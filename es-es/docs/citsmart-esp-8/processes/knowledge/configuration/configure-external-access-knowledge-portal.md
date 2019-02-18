@@ -68,7 +68,7 @@ Relacionado
 
 [Personalizar Portal del Conocimiento](/es-es/citsmart-esp-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-[Indexar conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/index-knowledge.html)
+[Indexar conocimiento](/es-es/citsmart-esp-8/platform-administration/data-indexing/management.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
