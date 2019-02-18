@@ -18,7 +18,7 @@ Procedimento
 
 3.  Clicar no botão “Editar”;
 
-4.  Realizar as modificações nos campos disponilizados;
+4.  Realizar as modificações nos campos disponibilizados;
 
 5.  Clicar em "Gravar".
 
