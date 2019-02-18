@@ -22,7 +22,7 @@ Procedimento
     de solução da execução e informar também as informações úteis a execução da
     liberação;
 
-4.  Também é possível vincular algumas funcionalidades á liberação, tais
+4.  Também é possível vincular algumas funcionalidades a liberação, tais
     como: **Problemas**, **Conhecimento**, **Mídia
     definitiva**, **Papéis/Responsabilidades**.
 
@@ -32,7 +32,7 @@ Procedimento
         conhecimento referente ao mesmo na aba " Relacionado", localizado logo abaixo.
 
 5.  Podemos visualizar o histórico de ocorrências da liberação ao apertar no
-    ícone “Registro de Execução”e o fluxo referente a mesma ao clicar no
+    ícone “Registro de Execução” e o fluxo referente a mesma ao clicar no
     ícone “Visualizar fluxo”;
 
 6.  Clicar em “Opções” e em seguida em "Gravar e avançar o fluxo" ou "Gravar e
