@@ -15,7 +15,7 @@ Procedimiento
 1.  Acceder al menú principal Procesos \> Gestión de Evento \> Categoría
     ocurrencia;
 
-2.  Hacer clic en la pestaña **Registro de Cateogria de Ocorrência**;
+2.  Hacer clic en la pestaña **Registro de Categoría de Ocurrencia**;
 
 3.  Completar los campos disponibles;
 

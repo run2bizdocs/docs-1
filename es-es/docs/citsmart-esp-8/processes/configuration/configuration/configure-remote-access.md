@@ -29,7 +29,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar grupo de elemento de configuración](/Ees-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 [Registrar horario](/es-es/citsmart-esp-8/processes/event/configuration/register-time.html)
 

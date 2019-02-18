@@ -8,7 +8,7 @@ Los cuestionarios son instrumentos que se pueden utilizar para recopilar informa
 
 [Registrar cuestionario][1]
 
-[1]:/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html
+[1]:/es-es/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html
 
 
 !!! tip "Sobre"

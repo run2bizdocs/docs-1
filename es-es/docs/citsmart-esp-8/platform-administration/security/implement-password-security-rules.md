@@ -61,7 +61,7 @@ Procedimiento
 !!! Abstract "NOTA"
 
     Para cambiar la contraseña, el usuario puede redefinir la contraseña por dos caminos
-    diferentes, ver [Registrar usuario][1] y [Editar perfil del usuario][2].
+    diferentes, ver [Registrar usuario][1] y [Editar información de la cuenta][2].
 
 
 !!! tip "About"

@@ -61,7 +61,7 @@ campo, seguirá a configuração:
 
 1.  Ao capturar um ticket (usando o mobile), o técnico deve preencher os
     campos disponibilizados e ao colocar o ticket com status de “Resolvido”, o
-    campo de **Assinaturas** ficará ativo para que se possa colcocar o Número do
+    campo de **Assinaturas** ficará ativo para que se possa colocar o Número do
     registro, o Nome e a Assinatura do validador em campo. Esta assinatura será
     feita com o dedo na tela do mobile;
 
@@ -72,9 +72,6 @@ campo, seguirá a configuração:
 4.  O atendente/administrador verá em sua listagem de solicitações (no CITSmart), o ticket atendido
     pelo técnico (via mobile) com o status “Resolvido” e ao abrir poderá visualizar
     assinatura colhida também.
-
-
-
 
 Relacionado
 -----------

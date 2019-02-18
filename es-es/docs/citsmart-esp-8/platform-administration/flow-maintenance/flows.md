@@ -10,8 +10,8 @@ Los flujos son representaciones visuales de algo que se mueve continuamente. En 
 
 [Construir expresiones][2]  
 
-[1]:/pt-br/citsmart-esp-8/platform-administration//flow-maintenance/workflow.maintenance.html
-[2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
+[1]:/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html
+[2]:/es-es/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
 
 !!! tip "Sobre"
 

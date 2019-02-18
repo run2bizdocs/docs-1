@@ -57,12 +57,12 @@ registered when creating a request/incident.*
     !!! Abstract "NOTE"
     
         The parameters 65 (that identifies the default call origin ID of the
-        service request) and 105 (identifies the source ID that will default 
+        service request) and 105 (identifies the source ID that will default 
         when creating a new incident) automatically set up a contact source 
-        when the user registers a ticket. Therefore, if the field "Contact
+        when the user registers a ticket. Therefore, if the field "Contact 
         origin", in the ticket screen, is *not* mandatory, but, if there's an 
         indication in the previously parameters, the field will be completed
-        automatically.
+        automatically.  
         
 3.  Click on "Save"        
 
