@@ -28,7 +28,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Continuidade \> Continuidade;
 
-2.  Localizar a continuidade do qual deseja vincular a a estratégia de teste e
+2.  Localizar a continuidade do qual deseja vincular a estratégia de teste e
     clicar no botão "Avançar";
 
 3.  Na área **Implementação**, clicar em "Estratégia de Testes";
@@ -38,7 +38,7 @@ Procedimento
 5.  Clicar no botão "Selecionar medida de recuperação" para pesquisar e vincular
     a medida desejada;
 
-6.  Será, então apresentado uma tela para definir o plano de teste da medida de
+6.  Será então apresentado uma tela para definir o plano de teste da medida de
     recuperação. Seguir estes passos:
 
     1.  Preencher os campos necessários;
@@ -53,7 +53,7 @@ Procedimento
 8.  Selecionar o checklist a ser verificado nos testes;
 
 9.  Para anexar um arquivo ao plano de teste, clicar no ícone simbolizado por um
-    “clipe” e em em seguida "Adicionar o arquivo" para vincular o arquivo;
+    “clipe” e em seguida "Adicionar o arquivo" para vincular o arquivo;
 
 10. Se quiser anexar algum arquivo, clicar no botão "Anexar" e em seguida
     "Adicionar o arquivo" para vincular o arquivo;
