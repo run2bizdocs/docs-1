@@ -12,7 +12,7 @@ These are the elements outlined in John Gruber's original design document. All M
 
 | Element | Markdown Syntax |
 |---------|-----------------|
-| Heading | `# This is a H1 header` <br/> `## This is a H2 header` <br/> `### This is a H3 header` |
+| Heading | `# H1` <br/> `## H2` <br/> `### H3` |
 | Bold | `**bold text**`|
 |Italic	| `*italicized text*` |
 |Blockquote	| `> blockquote` |
@@ -37,22 +37,43 @@ Example:
 ### This is a H3 header
 `
 
-Result:
-| Exemple |
-|---------|
-|# This is a H1 header|
-|## This is a H2 header|
-|### This is a H3 header|
-`
-### Bold
+### Bold/Italic
 
-### Italic
+Exemple:
+`
+*italic*
+**bold**
+***bold-italic***^
+`
+Result:
+
+*italic*
+**bold**
+***bold-italic***^
 
 ### Blockquote
 
 ### Ordered List
 
+1. Tidy the kitchen
+2. Prepare ingredients
+3. Cook delicious things
+
 ### Unordered List
+
+Exemple:
+`
+* Milk
+* Bread
+    * Wholegrain
+* Butter
+`
+Result:
+
+* Milk
+* Bread
+    * Wholegrain
+* Butter
 
 ### Code
 
