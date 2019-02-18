@@ -14,7 +14,7 @@ Antes de começar
 -   Mongodb.
 
 Também é necessário setar os seguintes parâmetros no CITSmart (Parametrização \>
-Parãmetros CITSmart):
+Parâmetros CITSmart):
 
 -   No parâmetro 52, setar o valor “true”;
 
