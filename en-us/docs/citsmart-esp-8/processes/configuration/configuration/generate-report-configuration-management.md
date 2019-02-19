@@ -29,8 +29,7 @@ changes related to the same configuration item.
 1.  Access the functionality through the main menu Reports \> Configuration
     Management \> Change/Configuration Item;
 
-2.  Set the filters (opening period, number of chage and contract item,
-    contract) as necessary.
+2.  Set the filters as necessary.
 
 !!! tip "About"
 
