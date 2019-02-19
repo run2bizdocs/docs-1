@@ -29,6 +29,11 @@ Procedimento
 6.  Clicar em "Gravar".
 
 
+!!! Abstract "REGRA"
+
+    Quando definir o perfil de acesso das pastas por grupo e perfil de acesso, prevalecerá aquele com maiores permissões (campos:           Permissão e Pode Publicar).
+
+
 Relacionado
 -----------
 
