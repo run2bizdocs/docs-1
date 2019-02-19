@@ -9,7 +9,7 @@ Antes de começar
 Alguns itens no cadastro de um ticket dependem de informações cadastradas no
 CITSmart ITSM, por exemplo um colaborador, um grupo, um contrato, uma unidade,
 tempo de atendimento, um portfólio com atividades e serviços, além de vínculos
-entre alguns e parâmetros configurados e configurar os parâmetros 9, 40, 41, 260
+entre alguns e parâmetros configurados. Configurar os parâmetros 9, 40, 41, 260
 e 343.
 
 Procedimento
