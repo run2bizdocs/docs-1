@@ -24,6 +24,10 @@ Procedure
     the automatic update to be uninterrupted, it is necessary to change
     parameter 418 to the "YES" option. This will activate the button
     automatically and the system will update the listing every 25 seconds.
+    
+!!! Abstract "ATTENTION"
+
+    The search effectiveness depends on the following of some rules of permission by the filter, such as: execution, delegation,             monitoring, visualization, user groups, contract link, units and logged in collaborator.
 
 Related
 -----------
