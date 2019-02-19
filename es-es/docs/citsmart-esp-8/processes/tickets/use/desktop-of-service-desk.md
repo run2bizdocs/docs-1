@@ -23,6 +23,10 @@ Procedimiento
     Para que la actualización automática sea ininterrumpida, es necesario
     cambiar el parámetro 418 a la opción "Sí". De este modo el botón se activará
     automáticamente y el sistema actualizará la lista cada 25 segundos.
+    
+!!! Abstract "REGLA"
+
+    La eficacia de la consulta depende del seguimiento de algunas reglas de permiso por el filtro, tales como: ejecución, delegación,       seguimiento, visualización, grupos de usuarios, vínculo con contrato, unidades y colaborador conectado .
 
 Relacionado
 -----------
