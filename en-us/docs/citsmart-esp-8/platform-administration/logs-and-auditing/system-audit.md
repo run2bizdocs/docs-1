@@ -69,14 +69,14 @@ system.*
     the system. Clicking on the data button, it'll show what was actually updated
     in the program.
 
-    !!! Abstract "NOTE"
+    !!! Abstract "ATTENTION"  
 
-        The "Operations" field presents the type of action made in the system
-        in thesis. It's defined by symbols, and their meanings are:
-
-        -   The letter "C" stands for "Change" in the system data;
-
-        -   The letter "I" stands for "Insertion" of new data into the system;
+        The "Operations" field presents the type of action made in the system 
+        in thesis. It's defined by symbols, and their meanings are:  
+        
+        -   The letter "C" stands for "Change" in the system data;  
+        
+        -   The letter "I" stands for "Insertion" of new data into the system;  
 
         -   The letter "D" stands for "Deletion" of system data.  
 
