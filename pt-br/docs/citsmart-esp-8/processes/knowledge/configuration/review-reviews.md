@@ -26,7 +26,13 @@ Procedimento
     Apenas os comentários com status Aceito/Aceito com edição deverão aparecer
     para os usuários finais.
     
-    
+Relacionado
+----------------
+
+[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+
+[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)    
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
