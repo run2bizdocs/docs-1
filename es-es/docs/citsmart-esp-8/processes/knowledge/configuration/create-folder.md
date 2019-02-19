@@ -29,6 +29,10 @@ Procedimiento
 6.  Hacer clic en "Guardar".
 
 
+!!! Abstract "REGLA"
+
+    Cuando establece el perfil de acceso de las carpetas por grupo y el perfil de acceso, prevalecerá aquel con mayores permisos             (campos: Permiso y Puede publicar).
+
 
 Relacionado
 -----------
