@@ -28,7 +28,7 @@ cadastradas.
 2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar";
 
 3.  Ao lado de cada registro de mudança da lista, há ícones que
-    permite realizar as seguintes realizar as seguintes ações: visualizar as
+    permitem realizar as seguintes realizar as seguintes ações: visualizar as
     informações ao clicar no botão "Visualizar" e visualizar os anexos da
     mudança ao clicar no ícone “Ver Anexo”;
 
