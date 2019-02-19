@@ -31,6 +31,8 @@ Configuração
 
 - [Configurar parametrização - conhecimento](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
+- [Revisar comentários do Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/review-reviews.html)
+
 Relatório
 -----------
 
