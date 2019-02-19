@@ -4,10 +4,10 @@ Title: Navegação e interface do usuário
 
 A interface do usuário é a maneira mais fácil do usuário interagir com aplicativos e informações em uma instância CITSmart.
 
-## Interface do usuário
+# Interface do usuário
 
-1.  Navegação e Interface do Usuário
-------------------------------------
+# 1.  Navegação e Interface do Usuário
+
 
 A interface do usuário é a maneira mais fácil do usuário interagir com
 aplicativos e informações em uma instância CITSmart.
@@ -31,8 +31,8 @@ Figura 1 – Tela Smart Decision
     usuário (Smart Decision) disponível página inicial da Plataforma CITSmart.
     Permitindo colocar acessos rápidos como links, relatórios e widgets.
 
-1.1  Tour pela Interface do Usuário
-    ------------------------------
+## 1.1  Tour pela Interface do Usuário
+ 
 
 ### 1.1.1  Banner Frame
 
