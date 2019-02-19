@@ -22,7 +22,7 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-3.  Para vincular um item de configuração, clicar no botão "Pesquisar Item de
+3.  Para vincular um item de configuração, clicar no botão "Pesquisa Item de
     Configuração";
 
 4.  Clicar no botão "Gravar".
