@@ -11,7 +11,7 @@ Before getting started
 Some items in a ticket's registration depend on the information registered in
 CITSmart ITSM, for example an employee, group, contract, unit, time of
 attendance, portfolio with activities and services, as well as links between
-some configured parameters and set the parameters 9, 40, 41, 260 and 343.
+some configured parameters. Set the parameters 9, 40, 41, 260 and 343.
 
 Procedure
 -------------
