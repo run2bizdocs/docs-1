@@ -32,7 +32,9 @@ Procedimento
 4.  Preencher os campos disponibilizados quanto a matriz de prioridade, clicar
     em "Gravar Matriz de Prioridade".
 
-5.  Vale lembrar que após registro da matriz de prioridade, quando registrar uma
+!!! Abstract "REGRA"
+
+    Após registro da matriz de prioridade, quando registrar uma
     solicitação de serviço, o tempo de atendimento (SLA) será estabelecido de
     acordo com o nível de impacto e nível de urgência informados, sendo
     considerado a matriz de prioridade. Lembrando que para isso ocorrer o

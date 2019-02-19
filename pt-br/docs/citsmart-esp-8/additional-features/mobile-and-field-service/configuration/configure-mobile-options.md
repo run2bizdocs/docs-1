@@ -1,12 +1,16 @@
 title: Configurar as opções de mobile
 Description: Tem por objetivo configurar as opções de Menu para o uso via mobile. 
 #Configurar as opções de mobile
-Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso via mobile.
+Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso via mobile. Ao configurar estas opções, as mesmas estarão disponíveis no aplicativo CITSmart SM e no site ITSM na versão mobile.
+
+!!! Abstract "ATENÇÃO"
+
+    O aplicativo SM permite utilizar as funcionalidades da versão *web* escolhidas na versão mobile, tendo as mesmas funções que a versão desktop.  
 
 Antes de começar
 ----------------
 
-É necessário instalar, previamente, o aplicativo CITSmart Enterprise ITSM no
+É necessário instalar, previamente, o aplicativo CITSmart SM no
 dispositivo mobile.
 
 Procedimento

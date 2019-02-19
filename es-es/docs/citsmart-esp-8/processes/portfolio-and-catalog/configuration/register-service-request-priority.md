@@ -33,12 +33,13 @@ Procedimiento
 4.  Completar los campos dispobiles para la matriz de prioridad, hacer clic en
     "Guardar Matriz de Prioridad".
 
-5.  Es importante recordar que después de registrar la matriz de prioridad, al
+!!! Abstract "REGLA"
+
+    Es importante recordar que después de registrar la matriz de prioridad, al
     registrar una solicitud de servicio, el tiempo de atención (SLA) será
     establecido de acuerdo con el nivel de impacto y nivel de urgencia
     informados, siendo considerado la matriz de prioridad. Recordando que para
     que esto ocurra, el parámetro debe estar habilitado.
-
 
 
 Relacionado

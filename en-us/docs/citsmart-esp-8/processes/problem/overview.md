@@ -17,31 +17,33 @@ the root cause of the problems and initiate the action that will eliminate the e
 Usage
 ----------------
 
--   [Register problem](/pt-br/citsmart-esp-8/processes/problem/use/register-problem.html)
+-   [Register problem](/en-us/citsmart-esp-8/processes/problem/use/register-problem.html)
 
--   [Register problem occurence](/pt-br/citsmart-esp-8/processes/problem/use/problem-occurrences.html)
+-   [Register problem occurence](/en-us/citsmart-esp-8/processes/problem/use/problem-occurrences.html)
 
--   [Problem advanced search](/pt-br/citsmart-esp-8/processes/problem/use/advanced-search-for-problem.html)
+-   [Problem advanced search](/en-us/citsmart-esp-8/processes/problem/use/advanced-search-for-problem.html)
 
--   [Execute problem](/pt-br/citsmart-esp-8/processes/problem/use/problem-execution.html)
+-   [Execute problem](/en-us/citsmart-esp-8/processes/problem/use/problem-execution.html)
 
--   [Relate information to the problem](/pt-br/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
+-   [Relate information to the problem](/en-us/citsmart-esp-8/processes/problem/use/relate-information-to-problem.html)
 
--   [Schedule problems activities](/pt-br/citsmart-esp-8/processes/problem/use/schedule-problem-activities.html)
+-   [Schedule problems activities](/en-us/citsmart-esp-8/processes/problem/use/schedule-problem-activities.html)
 
--   [Suspend problem](/pt-br/citsmart-esp-8/processes/problem/use/suspend-problem.html)
+-   [Suspend problem](/en-us/citsmart-esp-8/processes/problem/use/suspend-problem.html)
+
+-   [Cancel problem](/en-us/citsmart-esp-8/processes/problem/use/cancel-problem.html)
 
 Configuration
 ----------------
 
--   [Register problem justification](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
+-   [Register problem justification](/en-us/citsmart-esp-8/processes/problem/configuration/problem-justification.html)
 
--   [Create portfolio of problem](/pt-br/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html)
+-   [Create portfolio of problem](/en-us/citsmart-esp-8/processes/problem/configuration/problem-portfolio.html)
 
 Report
 -------------
 
--   [Create reports – Problem management](/pt-br/citsmart-esp-8/processes/problem/configuration/generate-reports-problem-management.html)
+-   [Create reports – Problem management](/en-us/citsmart-esp-8/processes/problem/configuration/generate-reports-problem-management.html)
 
 !!! tip "About"
 
