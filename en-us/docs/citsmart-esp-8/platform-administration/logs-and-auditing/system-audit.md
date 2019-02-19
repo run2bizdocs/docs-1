@@ -50,7 +50,7 @@ First, it's essential to configure the specific parameters of the functionality.
 4.  The possibility of determining a specific period (start and end date) for the
     generation of system audit logs is made available.
 
-    !!! note "IMPORTANT"
+    !!! note "NOTE"
 
         It's offered three types of system audit: audit of system data, system access
         and system licenses .
