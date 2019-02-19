@@ -3,8 +3,8 @@ Title: Navegação e interface do usuário
 
 A interface do usuário é a maneira mais fácil do usuário interagir com aplicativos e informações em uma instância CITSmart.
 
-1.  Navegação e Interface do Usuário
-------------------------------------
+# 1.  Navegação e Interface do Usuário
+
 
 A interface do usuário é a maneira mais fácil do usuário interagir com
 aplicativos e informações em uma instância CITSmart.
