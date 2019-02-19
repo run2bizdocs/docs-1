@@ -29,8 +29,7 @@ mudanças relacionadas ao mesmo item de configuração.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Configurações \> Mudança/Item Configuração;
 
-2.  Definir os filtros (período de abertura, número da mudança e item de
-    contrato, contrato) conforme a necessidade.
+2.  Definir os filtros conforme a necessidade.
 
 
 !!! tip "About"
