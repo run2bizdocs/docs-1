@@ -37,6 +37,9 @@ Procedimiento
 
 4.  Hacer clic en "Guardar".
 
+!!! Abstract "REGLA"
+
+    En el momento de la grabación, el sistema realiza una validación de la sintaxis de la EPL.
 
 
 Relacionado
