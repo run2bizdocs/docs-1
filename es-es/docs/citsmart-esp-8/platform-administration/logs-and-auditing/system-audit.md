@@ -1,120 +1,120 @@
-title:  Auditoria do sistema
-Description: Permite gerenciar os eventuais riscos ao sistema
-#Auditoria do sistema
+title:  Auditoría del sistema
+Description: Permite gestionar los eventuales riesgos al sistema
+#Auditoría del sistema
 
-Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
+Esta funcionalidad permite administrar los posibles riesgos al sistema, al auditar todas las ejecuciones hechas en forma de logs.
 
-Antes de começar 
+Antes de empezar 
 -----------------
 
-É necesseário a instalação prévia dos seguintes produtos:
+Es necesario la instalación previa de los siguientes productos:
 
--   ACTIVEMQ com a versão 5.15.8 ou superior;
+-   ACTIVEMQ con la versión 5.15.8 o superior;
 
 -   Mongodb.
 
-Também é necessário setar os seguintes parâmetros no CITSmart (Parametrização \>
-Parâmetros CITSmart):
+También es necesario establecer los siguientes parámetros en CITSmart (Parametrización \>
+Parámetros CITSmart):
 
--   No parâmetro 52, setar o valor “true”;
+-   En el parámetro 52, configrar el valor "true";
 
--   No parâmetro 53, informar o tipo de log que deseja. Os tipos são: ‘CIT_LOG’
-    (arquivo de log) e ‘DB_LOG’ (grava no banco);
+-   En el parámetro 53, informar el tipo de registro que desea. Los tipos son: ‘CIT_LOG’
+    (archivo del log) y ‘DB_LOG’ (guarda en la base);
 
--   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria (Ex:
+-   En el parámetro 425, informar la URL de acceso a la Auditoría CITSmart (Ej.:
     http://localhost:8088);
 
--   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex:tcp://citACTIVEMQ:61616).
+-   En el parámetro 424, informar la URL de acceso al ActiveMQ (Ej.:tcp://citACTIVEMQ:61616).
 
-Procedimento
+Procedimiento
 ------------
 
-***Processo para configurar a Auditoria:***
+***Proceso para configurar la Auditoría:***
 
-*Configuração para gerar o backup das auditorias.*
+*Configuración para generar el backup de las auditorías.*
 
-Primeiramente, é imprescindível configurar os parâmetros específicos da
-funcionalidade.
+En primer lugar, es imprescindible configurar los parámetros específicos
+de la funcionalidad.
 
-1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Parametrização de Auditoria;
+1.  Acceder al menú principal
+    Parametrización \> Parametrización de Auditoría;
 
-2.  Informar no campo “Diretório” a pasta onde será mantido todos *logs* de
-    auditoria realizados;
+2.  Informar en el campo “Directorio” la carpeta donde se mantendrá todos *Logs* de las
+    auditorías hechas;
 
-3.  No campo “Frequência em dias” é possível ajustar uma rotina de backup dos
-    logs de auditoria, ao escolher a periodicidade do backup em dias.
+3.  En el campo "Frecuencia en días" se puede ajustar una rutina de backup de los
+    registros de auditoría, al elegir la periodicidad del backup en días.
 
     !!! Abstract "NOTA"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do
-        backup.  
+        La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del
+        backup.  
 
-4.  É disponibilizado a possibilidade de determinar um período específico (data
-    de início e fim) para a geração dos logs de auditoria do sistema.
+4.  Se dispone de la posibilidad de determinar un período específico (fecha
+     de inicio y fin) para la generación de los logs de auditoría del sistema.
 
     !!! note "IMPORTANTE"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
-        sistema, do acesso ao sistema e as licenças do mesmo.
+        Se ofrecen tres tipos de auditoría del sistema: auditoría de los datos del
+        sistema, del acceso al sistema y sus licencias.
 
-***Auditoria de dados do sistema***
+***Auditoría de datos del sistema***
 
-*Apresenta o histórico de todos dados de alteração, inclusão e exclusão
-realizadas no sistema.*
+*Presenta el historial de todos los datos de cambio, inclusión y exclusión
+hechas en el sistema.*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de dados;
+1.  Acceder al menú principal Sistema \>
+    Camino de auditoría \> Auditoría de datos;
 
-2.  Será exibido os logs de auditoria de toda movimentação realizada no
-    programa, mostrando a data e hora das atualizações, o endereço de IP, o nome
-    do executor da atualização, o nome da tabela, o tipo de operação efetivada
-    no sistema. Ao clicar no botão dados será apresentado o que de fato foi
-    atualizado no programa.
+2.  Se presentarán los logs de auditoría de todo el movimiento hecho en el programa,
+    mostrando la fecha y hora de las actualizaciones, dirección IP, nombre del
+    ejecutor de la actualización, nombre de la tabla, tipo de operación efectuada
+    en el sistema. Al hacer clic en el botón datos se mostrará lo que de hecho fue
+    actualizado en el programa.
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENCIÓN"
 
-        O campo “Operações” apresenta o tipo de ação realizada na atualização do
-        sistema em tese. É definida por símbolos, e seus significados são:
+        El campo “Operaciones” presenta el tipo de acción hecha en la actualización
+        del sistema en prueba. Se define por símbolos, y sus significados son:
 
-        -   A letra “A” significa “Alteração” nos dados do sistema;
+        -   La letra "C" significa "Cambio" en los datos del sistema;
 
-        -   A letra “I” simboliza a “Inserção” de novos dados ao sistema;
+        -   La letra "I" simboliza la "Inserción" de nuevos datos al sistema;
 
-        -   A letra “E” significa a “Exclusão” de dados do sistema.  
+        -   La letra "E" significa la "Exclusión" de los datos del sistema.  
 
-3.  É liberado também a busca de determinado *log* através dos filtros dispostos
-    na tela.
+3.  Se libera también la búsqueda de determinado *log* a través de los filtros dispuestos
+    en la pantalla.
 
-***Auditoria de acessos ao sistema***
+***Auditoría de accesos al sistema***
 
-*Apresenta o histórico dos acessos ao sistema (entradas e saídas).*
+*Presenta el historial de los accesos al sistema (entradas y salidas).*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de acesso;
+1.  Acceder al menú principal Sistema \>
+    Camino de auditoría \> Auditoría de acceso;
 
-2.  Será exposto os usuários que efetuaram o login e logout no sistema,
-    registrando também a data e a hora de cada uma destas atividades;
+2.  Se presentarán los usuarios que han iniciado y cerrado sesión en el sistema,
+    registrando también la fecha y la hora de cada una de estas actividades;
 
     !!! Abstract "NOTA"  
-        Se porventura o sistema expirar, não será possível captar o logout do
-        sistema, ficando registrado, portanto, só as informações de entrada da
-        sessão de acesso.  
+        Si el sistema expirar, no será posible capturar el cierre de sesión del
+        sistema, quedando registrado, por lo tanto, sólo la información de entrada
+        de la sesión de acceso.  
 
-3.  Existem filtros para auxiliar a busca de determinado acesso.
+3.  Existen filtros para ayudar la búsqueda de un determinado acceso.
 
-***Auditoria de licenças do sistema***
+***Auditoría de licencias del sistema***
 
-*Informa as licenças utilizadas para a validação do sistema.*
+*Informa las licencias utilizadas para la validación del sistema.*
 
-1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
-    Trilha de auditoria \> Auditoria de licença;
+1.  Acceder al menú principal Sistema \>
+    Camino de auditoría \> Auditoría de licencia;
 
-2.  Apresenta os dados das licenças adquiridas e usadas para a execução do
-    sistema;
+2.  Presenta los datos de las licencias adquiridas y usadas para la ejecución
+    del sistema;
 
-3.  É possível pesquisar uma determinada licença e seu prazo de validade pelos
-    filtros liberados na tela principal.
+3.  Es posible buscar una determinada licencia y su plazo de validez por los
+    filtros liberados en la pantalla principal.
     
 !!! tip "About"
 
