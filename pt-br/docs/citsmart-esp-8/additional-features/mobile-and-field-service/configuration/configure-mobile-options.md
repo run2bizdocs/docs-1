@@ -10,7 +10,7 @@ Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso v
 Antes de começar
 ----------------
 
-É necessário instalar, previamente, o aplicativo CITSmart Enterprise ITSM no
+É necessário instalar, previamente, o aplicativo CITSmart SM no
 dispositivo mobile.
 
 Procedimento
