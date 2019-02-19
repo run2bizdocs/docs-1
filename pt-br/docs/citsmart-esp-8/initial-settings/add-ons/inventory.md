@@ -1,6 +1,6 @@
-Title: Habilitar Inventory
+Title: Habilitar o CITSmart Inventory
 
-# Habilitar Inventory
+# Habilitar o CITSmart Inventory
 
 CITSmart Inventory - O Inventário é um componente do CITSmart ESP que permite registrar e gerenciar rotinas de inventário. Ele permite que se forneça informações sobre os itens de configuração de sua organização e gerencie-os por meio do processo do Gerenciamento de Configuração.  
 
@@ -12,7 +12,7 @@ O CITSmart Inventory trabalha em conjunto com [Monitor de Eventos CITSmart - EVM
 
 ## Procedimento
 
-1. Fazer download do pacote war do componente EVM;  
+1. Fazer download do pacote war do componente Inventory;  
 2. Descompactar os arquivos;  
 3. Copiar o pacote para a pasta de implantação do servidor de aplicativos Wildfly;  
 4. Configurar as [Propriedades do Sistema][2] com os dados da instância CITSmart ESP;
