@@ -1,10 +1,10 @@
-Title: Navigation and User interface
+Title: Navegação e interface do usuário
 
-# Navigation and User interface
+# Navegação e interface do usuário
 
 A interface do usuário é a maneira mais fácil do usuário interagir com aplicativos e informações em uma instância CITSmart.
 
-## User interface tour
+## Interface do usuário
 
 1.  Navegação e Interface do Usuário
 
