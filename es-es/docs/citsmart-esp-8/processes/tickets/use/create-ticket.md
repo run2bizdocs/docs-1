@@ -9,8 +9,8 @@ Antes de empezar
 Algunos elementos en el registro de un ticket, dependen de la información
 registrada en el CITSmart ITSM, por ejemplo un colaborador, un grupo, un
 contrato, una unidad, tiempo de atención, una cartera con actividades y
-servicios, además de vínculos entre algunos parámetros configurados, y
-configurar los parámetros 9, 40, 41, 260 y 343.
+servicios, además de vínculos entre algunos parámetros configurados.
+Configurar los parámetros 9, 40, 41, 260 y 343.
 
 Procedimiento
 -------------
