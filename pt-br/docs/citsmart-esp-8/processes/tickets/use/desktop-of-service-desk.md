@@ -25,6 +25,11 @@ Procedimento
     automaticamente e o sistema fará a atualização da listagem a cada 25
     segundos.
 
+!!! Abstract "ATENÇÃO"
+
+    A eficácia da pesquisa depende do seguimento de algumas regras de permissão pelo filtro, tais como: execução, delegação,                 acompanhamento, visualização, grupos de usuários, vínculo com contrato, unidades e colaborador logado.
+
+
 Relacionado
 -----------
 
