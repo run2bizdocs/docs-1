@@ -3,7 +3,7 @@ Title: Navegação e interface do usuário
 
 A interface do usuário é a maneira mais fácil do usuário interagir com aplicativos e informações em uma instância CITSmart.
 
-# 1.  Navegação e Interface do Usuário
+# 1.  Navegação
 
 
 A interface do usuário é a maneira mais fácil do usuário interagir com
@@ -14,19 +14,19 @@ aplicativos e informações em uma instância CITSmart.
 Figura 1 – Tela Smart Decision
 
 -   **1 - Banner frame**: na área interna do sistema a barra de tarefas contém
-    itens de navegação e ferramentas. Como o menu principal com todas as
-    funcionalidades CITSmart, botões com integração VoIP e ao assistente virtual
+    itens de navegação e ferramentas. Como o menu principal, com todas as
+    funcionalidades CITSmart, botões com integração VoIP, a assistente virtual
     Anuva e informações sobre o login de usuário, versão do ambiente e também
-    sua mudança de idioma
+    sua mudança de idioma;
 
--   **2 - Navegação em aplicativos:** Acesso aos 13 processos certificados da
+-   **2 - Navegação em aplicativos**: acesso aos 13 processos certificados da
     CITSmart, funcionalidades de cadastros básicos, criação e emissão de
     relatórios, parâmetros, acesso ao CITSmart Neuro (engine de aplicativos),
-    além de funcionalidades de gerenciamento da plataforma.
+    além de funcionalidades de gerenciamento da plataforma;
 
--   **3 - Painel do usuário:** determina o layout de apresentação do painel do
-    usuário (Smart Decision) disponível página inicial da Plataforma CITSmart.
-    Permitindo colocar acessos rápidos como links, relatórios e widgets.
+-   **3 - Painel do usuário**: determina o layout de apresentação do painel do
+    usuário (Smart Decision) disponível na página inicial da Plataforma CITSmart.
+    Permite colocar acessos rápidos como links, relatórios e widgets.
 
 ## 1.1  Tour pela Interface do Usuário
  
@@ -44,14 +44,14 @@ ferramentas:
     CITSmart;
 
 -   2: ao navegar pelo sistema e quiser retornar à tela inicial clicar no botão
-    Home;
+    "Home";
 
--   3: notificações do para o usuário, que é evidenciado com a quantidade
+-   3: notificações do sistema para o usuário, que é evidenciado com a quantidade
     existente;
 
 -   4: atendimento via chamada VOIP;
 
--   5: chat de atendimento (visível à usuários de grupos de atendimento);
+-   5: chat de atendimento (visível a usuários de grupos de atendimento);
 
 -   6: atalho para os principais aplicativos do sistema;
 
@@ -72,11 +72,11 @@ funcionalidades que o CITSmart disponibiliza.
 
 -   2: possui todos os 13 processos certificados da Plataforma CITSmart;
 
--   3: a gestão integrada dispõe de funcionalidade que auxiliam na gestão dos
+-   3: a gestão integrada dispõe de funcionalidades que auxiliam na gestão dos
     processos;
 
 -   4: apresenta cadastros básicos para se iniciar o CITSmart, como usuários,
-    localidade além de poder cadastrar e editar menus dentro do sistema
+    localidade além de poder cadastrar e editar menus dentro do sistema;
 
 -   5: possui dados para administrar o Centro de Experiência, que é um portal
     personalizável para o usuário;
@@ -88,7 +88,7 @@ funcionalidades que o CITSmart disponibiliza.
 
 -   7: configuração de acesso e permissões no sistema;
 
--   8: configuração dos parâmetros de aplicativos e de sistema;
+-   8: configuração dos parâmetros de aplicativos e do sistema;
 
 -   9: acesso ao CITSmart Neuro (engine de aplicativos);
 
