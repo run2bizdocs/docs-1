@@ -114,6 +114,13 @@ relatórios e widgets.
 -   4: exemplo de um widget do tipo “link”, podendo conter internos e externos.
 
 
+Relacionado
+----------
+
+[Personalizar o painel gerencial(Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+
+
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
