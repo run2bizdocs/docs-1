@@ -1,17 +1,12 @@
 Title: Navigation and user interface
 # Navigation and user interface
 
-The user interface is the easiest way for the user to interact with applications and information in a CITSmart instance.
-
-# 1.  Navigation
-
-
 The user interface is the easiest way for the user to interact with
 applications and information in a CITSmart instance.
 
-![smart screen](images/navigation-1.png)
+![CITSmart homepage Scree](images/navigation-1.png)
 
-Figure 1 – Smart Decision Screen
+Figure 1 – CITSmart homepage Screen
 
 -   **1 - Banner frame**: in the internal area of the system, the taskbar contains
     navigation items and tools. As the main menu, with all the CITSmart functionalities,
@@ -27,10 +22,10 @@ Figure 1 – Smart Decision Screen
     Decision) available on the CITSmart Platform home page. It allows to put
     quick accesses such as links, reports and widgets.
 
-## 1.1  User Interface Tour
+## User Interface Tour
  
 
-### 1.1.1  Banner Frame
+### Banner Frame
 
 ![banner frame](images/navigation-2.png)
 
@@ -57,7 +52,7 @@ The taskbar, located at the top, contains navigation items and tools:
     chat status, CITSmart support media, and installed version environment
     data.
 
-### 1.1.2  Navigation in Applications
+### Navigation in Applications
 
 ![main menu](images/navigation-3.png)
 
@@ -91,7 +86,7 @@ CITSmart offers.
 
 -   10: functionalities to manage the CISTmart Platform.
 
-### 1.1.3  User Panel (Smart Decision)
+### User Panel (Smart Decision)
 
 ![smart decision](images/navigation-4.png)
 
