@@ -7,7 +7,7 @@ O CITSmart Inventory é um componente da Plataforma CITSmart que permite coletar
 Antes de começar
 ------------
 
-O CITSmart Inventory trabalha em conjunto com [Monitor de Eventos CITSmart - EVM][1] e como um coletor de dados (ex.: pacotes XML) o EVM serve como repositórios para esta informação. Portanto, para ativar o Inventory, deve-se primeiro configurar o EVM.  
+O CITSmart Inventory trabalha em conjunto com o [Monitor de Eventos CITSmart - EVM][1] e como um coletor de dados (ex.: pacotes XML) o EVM serve como repositórios para esta informação. Portanto, para ativar o Inventory, deve-se primeiro configurar o EVM.  
 
 
 ## Procedimento
