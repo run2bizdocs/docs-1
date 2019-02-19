@@ -36,6 +36,12 @@ Procedimento
 1.  Clicar em "Gravar".
 
 
+!!! Abstract "REGRA"
+
+    No momento da gravação, o sistema faz uma validação da sintaxe da EPL.
+
+
+
 Relacionado
 -----------
 

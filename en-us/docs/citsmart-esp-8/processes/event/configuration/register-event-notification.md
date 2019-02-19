@@ -34,6 +34,13 @@ Procedure
 
 1.  Click on "Save".
 
+
+!!! Abstract "RULE"
+
+    At the time of writing, the system does a validation of the EPL syntax.
+
+
+
 Related
 -------
 
