@@ -23,7 +23,9 @@ Procedure
 4.  Complete all mandatory fields to the Priority Matrix, click on "Save
     Priority Matrix".
 
-5.  Note that after register the priority matrix, when registering a service
+!!! Abstract "RULE"
+
+    Note that after register the priority matrix, when registering a service
     request, the time of attendance (SLA) will be established according to the
     level of impact and urgency entered, being considered the priority matrix.
     Remember that for this to happen, the parameter must be enabled.
