@@ -16,6 +16,10 @@ It's necessary to previously register a profile and a group.
 5.  In the field **Group**, click on "Add" and select the group;
 6.  Click on "Save".
 
+!!! Abstract "RULE"
+
+    When defining the access profile of the folders by group and access profile, the one with the highest permissions will prevail           (fields: Permission and Can Publish).
+
 
 ##Related
 
