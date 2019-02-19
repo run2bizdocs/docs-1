@@ -50,7 +50,7 @@ First, it's essential to configure the specific parameters of the functionality.
 4.  The possibility of determining a specific period (start and end date) for the
     generation of system audit logs is made available.
 
-    !!! note "NOTE"
+    !!! note "IMPORTANT"
 
         It's offered three types of system audit: audit of system data, system access
         and system licenses .
@@ -69,7 +69,7 @@ system.*
     the system. Clicking on the data button, it'll show what was actually updated
     in the program.
 
-    !!! Abstract "ATTENTION"  
+    !!! Abstract "NOTE"  
 
         The "Operations" field presents the type of action made in the system 
         in thesis. It's defined by symbols, and their meanings are:  
