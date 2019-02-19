@@ -31,6 +31,8 @@ Uso
 
 -   [Suspender um problema](/pt-br/citsmart-esp-8/processes/problem/use/suspend-problem.html)
 
+-   [Cancelar um problema](/pt-br/citsmart-esp-8/processes/problem/use/cancel-problem.html)
+
 Configuração
 ----------------
 
