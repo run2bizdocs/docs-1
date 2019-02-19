@@ -1,29 +1,29 @@
-Title: Navegação e interface do usuário
-# Navegação e interface do usuário
+Title: Navegación e interfaz de usuario
+# Navegación e interfaz de usuario
 
-A interface do usuário é a maneira mais fácil do usuário interagir com
-aplicativos e informações em uma instância CITSmart.
+La interfaz de usuario es la manera más fácil de interactuar con 
+aplicaciones e informaciones en una instancia de CITSmart.
 
 ![Página inicial CITsmart](images/navigation-1.png)
 
-Figura 1 – Página inicial da Plataforma CITSmart
+Figura 1 - Pantalla Smart Decision
 
--   **1 - Banner frame**: na área interna do sistema a barra de tarefas contém
-    itens de navegação e ferramentas. Como o menu principal, com todas as
-    funcionalidades CITSmart, botões com integração VoIP, a assistente virtual
-    Anuva e informações sobre o login de usuário, versão do ambiente e também
-    sua mudança de idioma;
+-   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene
+    elementos de navegación y herramientas. Por ejemplo, el menú principal, con
+    todas lasfunciones CITSmart, botones con integración VoIP, el asistente virtual
+    Anuva e información sobre el login de usuario, versión del ambiente y también
+    su cambio de idioma;
 
--   **2 - Navegação em aplicativos**: acesso aos 13 processos certificados da
-    CITSmart, funcionalidades de cadastros básicos, criação e emissão de
-    relatórios, parâmetros, acesso ao CITSmart Neuro (engine de aplicativos),
-    além de funcionalidades de gerenciamento da plataforma;
+-   **2 - Navegación en aplicaciones**: acceso a los 13 procesos certificados de
+    CITSmart, funcionalidades de catastros básicos, creación y emisión de informes,
+    parámetros, acceso al CITSmart Neuro (engine de aplicaciones), además de
+    funcionalidades de gestión de la plataforma;
 
--   **3 - Painel do usuário**: determina o layout de apresentação do painel do
-    usuário (Smart Decision) disponível na página inicial da Plataforma CITSmart.
-    Permite colocar acessos rápidos como links, relatórios e widgets.
+-   **3 - Panel de usuario**: determina el diseño de la presentación del panel de usuario
+    (Smart Decision) disponible en la página de inicio de la Plataforma CITSmart.
+    Permite colocar accesos rápidos como enlaces, informes y widgets.
 
-## Tour pela Interface do Usuário
+## Tour por la Interfaz de Usuario
  
 
 ### Banner Frame
@@ -32,87 +32,87 @@ Figura 1 – Página inicial da Plataforma CITSmart
 
 Figura 2 - Banner frame
 
-A barra de tarefas, localizada na parte superior, contém itens de navegação e
-ferramentas:
+La barra de tareas, situada en la parte superior, contiene elementos de navegación y
+herramientas:
 
--   1: menu principal de navegação, contém todos os processos e funcionalidades
-    CITSmart;
+-   1: menú principal de navegación, contiene todos los procesos y funcionalidades
+    CITSmart;
 
--   2: ao navegar pelo sistema e quiser retornar à tela inicial clicar no botão
-    "Home";
+-   2: al navegar por el sistema y desea volver a la pantalla de inicio, haga clic 
+    en el botón "Home";
 
--   3: notificações do sistema para o usuário, que é evidenciado com a quantidade
-    existente;
+-   3: notificaciones del sistema para el usuario, que se evidencia con la cantidad
+    existente;
 
--   4: atendimento via chamada VOIP;
+-   4: servicio de llamada VOIP;
 
--   5: chat de atendimento (visível a usuários de grupos de atendimento);
+-   5: chat de atención (visible a usuarios de grupos de atención);
 
--   6: atalho para os principais aplicativos do sistema;
+-   6: atajo a las principales aplicaciones del sistema;
 
--   7: informações do usuário, além de disponibilizar mudança de idioma do
-    sistema, gerenciar o status que aparece no chat, meios de suporte do
-    CITSmart e dados sobre a versão do ambiente instalado.
+-   7: información del usuario, además de proporcionar un cambio de idioman del
+    sistema, administrar el estado que aparece en el chat, medios de soporte del sistema
+    CITSmart y datos sobre la versión del entorno instalado.
 
-### Navegação em Aplicativos
+### Navegación en Aplicaciones
 
-![menu principal](images/navigation-3.png)
+![menú principal](images/navigation-3.png)
 
-Figura 3 – Tela do menu principal
+Figura 3 – Pantalla del menú principal
 
-Ao clicar no menu principal de navegação, serão visualizadas todas as
-funcionalidades que o CITSmart disponibiliza.
+Al hacer clic en el menú principal de navegación, se visualizan todas las
+características que el CITSmart ofrece.
 
--   1: barra de pesquisa de funcionalidades, acessível via menu;
+-   1: barra de búsqueda de funciones, accesible a través del menú;
 
--   2: possui todos os 13 processos certificados da Plataforma CITSmart;
+-   2: posee todos los 13 procesos certificados de la Plataforma CITSmart;
 
--   3: a gestão integrada dispõe de funcionalidades que auxiliam na gestão dos
-    processos;
+-   3: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los
+    procesos;
 
--   4: apresenta cadastros básicos para se iniciar o CITSmart, como usuários,
-    localidade além de poder cadastrar e editar menus dentro do sistema;
+-   4: presenta catastros básicos para iniciar el CITSmart, como usuarios,
+    localidad, además de poder registrar y editar menús dentro del sistema;
 
--   5: possui dados para administrar o Centro de Experiência, que é um portal
-    personalizável para o usuário;
+-   5: tiene datos para administrar el Centro de Experiencia, que es un portal
+    personalizable para el usuario;
 
--   6: disponibiliza diversos tipos de relatórios que o sistema pode gerar com
-    dados das principais funcionalidades, tornando assim, as informações
-    possíveis de serem melhor analisadas, além de permitir a criação de
-    relatórios personalizados;
+-   6: ofrece diversos tipos de informes que el sistema puede generar con
+    datos de las principales funcionalidades, haciendo la información
+    posible de ser mejor analizadas, además de permitir la creación de
+    informes personalizados;
 
--   7: configuração de acesso e permissões no sistema;
+-   7: configuración de acceso y permisos en el sistema;
 
--   8: configuração dos parâmetros de aplicativos e do sistema;
+-   8: configuración de los parámetros de las aplicaciones y del sistema;
 
--   9: acesso ao CITSmart Neuro (engine de aplicativos);
+-   9: acceso al CITSmart Neuro (engine de aplicaciones);
 
--   10: funcionalidades para administrar a Plataforma CITSmart.
+-   10: funcionalidad para administrar la Plataforma CITSmart.
 
-### Painel do Usuário (Smart Decision)
+### Panel de Usuário (Smart Decision)
 
 ![smart decision](images/navigation-4.png)
 
-Figura 4 – Tela de Smart Decision
+Figura 4 – Pantalla del Smart Decision
 
-Personalização do Painel do Usuário (Smart Decision) apresentado na página
-inicial do sistema, onde é possível colocar acessos rápidos como links,
-relatórios e widgets.
+Personalización del Panel de Usuario (Smart Decision) que aparece en la página
+incial del sistema, donde es posible colocar accesos rápidos como enlaces,
+informes y widgets.
 
--   1: barra vertical contendo os painéis cadastrados. Os itens da barra podem
-    ser deslocados para se ajustar a necessidade do usuário;
+-   1: barra vertical que contiene los paneles registrados. Los elementos de la barra
+    se desplazan para ajustar la necesidad del usuario;
 
--   2: itens para editar uma dashboard;
+-   2: elementos para editar un dashboard;
 
--   3: itens para editar widgets de uma dashboard;
+-   3: elementos para editar widgets de un dashboard;
 
--   4: exemplo de um widget do tipo “link”, podendo conter internos e externos.
+-   4: ejemplo de un widget del tipo "link", y puede contener internos y externos.
 
 
 Relacionado
 ----------
 
-[Personalizar o painel gerencial(Smart Decision)](/pt-br/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel de administración (Smart Decision)](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
 
