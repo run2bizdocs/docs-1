@@ -70,6 +70,7 @@ Related
 [Configure Smart Decision template](/en-us/citsmart-esp-8/additional-features/reports/create/dashboard/use/create-template.html)
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
