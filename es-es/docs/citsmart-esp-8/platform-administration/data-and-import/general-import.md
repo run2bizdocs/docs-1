@@ -1,9 +1,9 @@
 Title: Importación general
 # Importación general
 
-It's possible to import a range of data to the CITSmart ESP, this can help in the process of tool configuration or process design.
+Es posible importar un rango de datos al CITSmart ESP, esto puede ayudar en el proceso de configuración de la herramienta o diseño del proceso.
 
-# Related
+# Relacionado
 
 [Import employee][1]
 
@@ -11,9 +11,9 @@ It's possible to import a range of data to the CITSmart ESP, this can help in th
 
 [Load Metadata][3]
 
-[1]:/en-us/citsmart-esp-8/platform-administration/data-and-import/employee-import.html
-[2]:/en-us/citsmart-esp-8/platform-administration/data-and-import/portfolio-import-service-portfolio.html
-[3]:/en-us/citsmart-esp-8/platform-administration/data-and-import/metadata-load.html
+[1]:/es-es/citsmart-esp-8/platform-administration/data-and-import/employee-import.html
+[2]:/es-es/citsmart-esp-8/platform-administration/data-and-import/portfolio-import-service-portfolio.html
+[3]:/es-es/citsmart-esp-8/platform-administration/data-and-import/metadata-load.html
 
 !!! tip "About"
 
