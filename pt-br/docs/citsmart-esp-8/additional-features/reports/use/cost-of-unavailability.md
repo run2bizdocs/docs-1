@@ -108,7 +108,7 @@ Relacionado
 
 [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configurar atributos do contrato do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
 [Criar portfólio](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
