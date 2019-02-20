@@ -30,7 +30,7 @@ Procedimento
     
 4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 
-5.  Se desejar adicionar alguma nota, clicar na aba "Notas". Relatar a ocorrência referente ao ticket e a data que a mesma ocorreu. É       É possível, também registrar o tempo gasto para a solução da ocorrência. É disponibilizado a visualização deste relato pelo             solicitante e o envio do mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e "Enviar ao e-mail". Clicar em       "Salvar".
+5.  Se desejar adicionar alguma nota, clicar na aba "Notas". Relatar a ocorrência referente ao ticket e a data que a mesma ocorreu.         É possível também registrar o tempo gasto para a solução da ocorrência. É disponibilizado a visualização deste relato pelo               solicitante e o envio do mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e "Enviar ao e-mail". Clicar em       "Salvar".
 
 6.  Clicar em "Finalizar" e completar os dados sobre a conclusão do atendimento.
     Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
