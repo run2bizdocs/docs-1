@@ -18,7 +18,9 @@ Procedimiento
 
 2.  Hacer clic en "Nuevo";
 
-3.  Informar los datos necesarios.
+3.  Informar los datos necesarios;
+
+4.  Hacer clic en "Guardar".
 
 Lo que hacer después
 --------------------
