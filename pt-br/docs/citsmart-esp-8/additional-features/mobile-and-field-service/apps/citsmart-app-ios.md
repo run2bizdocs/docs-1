@@ -346,7 +346,6 @@ Relacionado
 
 [Configurar as opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
-[Configurar as opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 !!! tip "About"
 
