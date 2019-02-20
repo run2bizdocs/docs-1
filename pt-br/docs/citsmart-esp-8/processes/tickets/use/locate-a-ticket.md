@@ -17,6 +17,14 @@ Procedimento
 
 2.  Clicar no campo de busca.
 
+!!! Abstract "REGRA"
+
+    A eficácia da pesquisa depende do seguimento de algumas regras de
+    permissão pelo filtro, tais como: execução, delegação, acompanhamento,
+    visualização, grupos de usuários, vínculo com contrato, unidades e
+    colaborador logado.
+
+
 Relacionado
 -----------
 
