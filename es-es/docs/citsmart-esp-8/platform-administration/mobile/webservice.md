@@ -1,4 +1,6 @@
-title: Mobile
+Title: Mobile
+
+# Mobile
 
 La funcionalidad Mobile fue desarrollada para permitir mayor autonomía en la gestión de servicios, pues permite la provisión de servicios en diferentes perspectivas, sea como portal de atención al usuario final, sea como instancia flexible para el analista realizar el servicio de campo.
 
