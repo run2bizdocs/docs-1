@@ -1,6 +1,6 @@
-title: Configurar serviço de localização em uma instância para uso de APPs CITSmart
+title: Configurar instância CITSmart para acesso via mobile
 Description: Tem o propósito de fornecer orientações necessárias para configurar o servidor para o uso adequado do CITSmart ITSM Enterprise na plataforma iOS e Android.
-# Configurar serviço de localização em uma instância para uso de APPs CITSmart
+# CConfigurar instância CITSmart para acesso via mobile
 
 Antes de começar
 ----------------
