@@ -41,6 +41,11 @@ Procedimiento
 5.  Hacer clic en "Guardar".
 
 
+!!! Abstract "REGLA"
+
+    La exclusión de grupo depende de que no exista portafolios, colaboradores
+    y contratos vinculados al mismo.
+
 
 Relacionado
 -----------
