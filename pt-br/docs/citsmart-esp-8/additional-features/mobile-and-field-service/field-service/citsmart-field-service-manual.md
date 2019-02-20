@@ -1,13 +1,15 @@
-title: Manual de utilização do CITSmart Field Service
+title: Manual de utilização do aplicativo CITSmart Field Service
 Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
-#Manual de utilização do CITSmart Field Service (FS)
+#Manual de utilização do aplicativo CITSmart Field Service (FS)
+
+O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
 
 Antes de começar 
 -----------------
 
 1.  Ter configurado o aplicativo na instância ITSM;
 
-2.  Instalar o aplicativo CITSmart FS no mobile;
+2.  Instalar o aplicativo CITSmart FS (Android e iOS);
 
 3.  É necessário delegar tarefas ao técnico no site CITSmart para que o mesmo as
     possa atender em campo no modo offline.
@@ -24,29 +26,35 @@ Procedimento
 3.  Clicar no botão "Executar solicitação" e em seguida "Outras informações"
     (está opção só estará disponível se existir um questionário vinculado a
     atividade do ticket). Preencher os dados referentes a execução da
-    solicitação, se se desejar adicionar algum arquivo clicar na aba "Anexos";
+    solicitação e clicar em "Salvar".
+    
+4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 
-4.  Clicar em "Finalizar" e completar os dados sobre a conclusão do atendimento.
+5.  Se desejar adicionar alguma nota, clicar na aba "Notas". Relatar a ocorrência referente ao ticket e a data que a mesma ocorreu. É       É possível, também registrar o tempo gasto para a solução da ocorrência. É disponibilizado a visualização deste relato pelo             solicitante e o envio do mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e "Enviar ao e-mail". Clicar em       "Salvar".
+
+6.  Clicar em "Finalizar" e completar os dados sobre a conclusão do atendimento.
     Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
     e o detalhar da mesma;
 
-5.  Clicar em "Gravar e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
+7.  Clicar em "Coletar Assinatura e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
     completar a operação. Serão então automaticamente sincronizadas as
     alterações. Se o aplicativo não encontrar a rede para completar a
     sincronização, será apresentado o ícone “Atualização automática” para
     aguardar o encontro de rede para e então completar a sincronização;
 
-6.  Está disponível a sincronização manual das solicitações assim que o
+8.  Está disponível a sincronização manual das solicitações assim que o
     aplicativo encontrar uma rede acessível. Para tanto, basta deslizar a tela
     para baixo com o dedo ou clicar no ícone “Atualizar lista”;
 
-7.  Existem filtros que facilitam a localização do ticket necessário, acesse o
+9.  Existem filtros que facilitam a localização do ticket necessário, acesse o
     mesmo pela caixa de pesquisa ou clique no ícone “Filtros”.
 
 Relacionado
 -----------
 
 [Configurar aplicativo CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+
+[Obter assinatura em atendimento de campo](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 !!! tip "About"
 
