@@ -28,6 +28,12 @@ Procedure
 
 5.  Click on "Save".
 
+
+!!! Abstract "RULE"
+
+    The group exclusion depends on there being no portfolios, staff and
+    contracts linked to it.
+
 Related
 -----------
 
