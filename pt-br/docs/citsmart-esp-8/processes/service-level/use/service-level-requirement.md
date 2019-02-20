@@ -18,7 +18,9 @@ Procedimento
 
 2.  Clicar em "Novo";
 
-3.  Informar os dados necessários.
+3.  Informar os dados necessários;
+
+4.  Clicar em "Gravar".
 
 O que fazer a seguir
 ------------------------
