@@ -71,7 +71,7 @@ Procedimiento
 Relacionado
 -------
 
-[Configurar plantilla para Smart Decision](/es-es/citsmart-esp-8/platform-administration/configuring-automatic-actions/templates-configure-smart-decision-template.html)
+[Configurar plantilla para Smart Decision](/es-es/citsmart-esp-8/additional-features/reports/create/dashboard/use/create-template.html)
 
 
 !!! tip "About"
