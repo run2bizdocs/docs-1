@@ -20,6 +20,12 @@ Procedimento
 
 3.  O sistema exportará as informações do banco de dados em formato XML.
 
+!!! Abstract "NOVIDADE"
+
+    Para esta nova versão, foi criado o parâmetro 440 que deverá ser utilizado
+    sempre que o usuário desejar informar a quantidade mínima de registros que o
+    sistema deverá executar a exportação em segundo plano.  
+
 Relacionado
 ----------------
 
