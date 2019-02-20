@@ -1,6 +1,6 @@
-title: Manual de uso do aplicativo mobile CITSmart SM (iOS)
+title: Manual de utilização do aplicativo mobile CITSmart SM (iOS)
 Description: Tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM Enterprise na plataforma iOS.
-#Manual de uso do aplicativo mobile CITSmart SM (iOS)
+#Manual de utilização do aplicativo mobile CITSmart SM (iOS)
 
 Este documento tem o propósito de fornecer orientações necessárias para
 instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM
