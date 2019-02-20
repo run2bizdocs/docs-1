@@ -8,10 +8,8 @@ technician receives the digital signature of a validator in field service.
 Before getting started
 ----------------------
 
-It's necessary to previously install the CITSmart Enterprise ITSM application in
-the mobile. In order for the field technician to see tickets only assigned to
-him/her in the request list, the attendant/manager must set the parameter 435 to
-"Yes".
+It's necessary to previously install the CITSmart mobile. In order for the field technician to see tickets only assigned to
+him/her in the request list, the attendant/manager must set the parameter 435 to "Yes".
 
 Procedure
 ---------
