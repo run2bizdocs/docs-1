@@ -9,7 +9,7 @@ de campo.
 Antes de empezar
 ----------------
 
-Es necesario instalar previamente la aplicación CITSmart Enterprise ITSM en el
+Es necesario instalar previamente la aplicación CITSmart mobile en el
 dispositivo móvil. Para que el técnico en campo, pueda ver tickets sólo
 asignados a él/ella en su lista de solicitudes, el asistente/administrador
 deberá establecer el parámetro 435 para la opción "Sí".
