@@ -1,76 +1,74 @@
-title:  Gerenciamento de Mudança 
-Description: Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e decidir sobre a realização de mudanças propostas
-#Gerenciamento de Mudança  
+title:  Change Management 
+Description: Change Management is the process responsible for evaulate, coordinate and decide about the execution of a proposed change 
+#Change Management  
 
-Apresentação
+Presentation
 ----------------
 
-O Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e
-decidir sobre a realização de mudanças propostas a Itens de Configuração (ICs).  
-Segundo a ITIL, o principal objetivo deste processo é assegurar que mudanças
-sejam feitas de uma forma controlada, e sejam avaliadas, priorizadas,
-planejadas, testadas, implantadas e documentadas.
+Change Management is the process responsible to evaluate, coordinate and
+decide about making change proposals to Configuration Items (CI). According  
+to ITIL, the main goal of this process is ensure that changes are made in a
+controlled way, and being evaluated, prioritized, planned, tested, implanted
+and documented.
 
-As mudanças podem ser categorizadas da seguinte forma: Mudança Padrão, Mudança
-Normal e Mudança Emergencial.
+Changes can be categorized as: Standard Change, Normal Change and Emergency
+Change.
 
--   **Mudança Padrão**: pré-autorizada de baixo risco, ocorre com frequência.
-    Inicia-se por um gatilho definido que segue um procedimento ou instrução de
-    trabalho para a realização das atividades - bastante conhecidas - possuem um
-    orçamento pré-determinado. Ex.: Instalação de um pacote padrão de
-    aplicativos para *desktop*.
+-   **Standard Change**:authorized of low risk, it occurs with frequency.
+    It's initiated by a defined trigger that follows a procedure or work instruction
+    to make the activities - well known - have a pre-determined budget. E.g.: Install
+    a standard *desktop* application package..
 
--   **Mudança Normal**: qualquer alteração de serviços que não seja emergencial
-    ou padrão. Segue as políticas, prazos e procedimentos definidos pela
-    organização.
+-   **Normal Change**: any change in services other than emergency or standard.
+    It follows the policies, deadlines and procedures defined by the organization.
 
--   **Mudança Emergencial**: mudança que precisa ser realizada o quanto antes.
-    Ex.: Mudança para resolver um Incidente Grave ou implementar uma correção de
-    segurança. O processo de Gerenciamento de Mudança normalmente tem um
-    procedimento específico para tratar mudanças emergenciais.
+-   **Emergency Change**: changes that need to be done as soon as possible.
+    E.g.: Change to resolve a Major Incident or implement a security fix.
+    The Change Management process usually has a specific procedure to handle 
+    emergency changes.
 
-Uso
+Use
 -------
 
--  [Cadastrar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/register-change.html)
+-  [Register change](/en-us/citsmart-esp-8/processes/change/use/register-change.html)
 
--  [Cadastrar uma mudança via template](/pt-br/citsmart-esp-8/processes/change/use/register-change-via-template.html)
+-  [Register change via template](/en-us/citsmart-esp-8/processes/change/use/register-change-via-template.html)
 
--  [Atividades da fase de planejamento da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-planning-activities.html)
+-  [Activities of the change planning phase](/en-us/citsmart-esp-8/processes/change/use/change-planning-activities.html)
 
--  [Cadastrar o plano de reversão da mudança](/pt-br/citsmart-esp-8/processes/change/use/change-reversion-plan.html)
+-  [Register reversion plan of change](/en-us/citsmart-esp-8/processes/change/use/change-reversion-plan.html)
 
--  [Encerrar a mudança](/pt-br/citsmart-esp-8/processes/change/use/execute-change.html)
+-  [Close change](/en-us/citsmart-esp-8/processes/change/use/execute-change.html)
 
--  [Relacionar informações a mudança](/pt-br/citsmart-esp-8/processes/change/use/relate-information-to-change.html)
+-  [Relate information to change](/en-us/citsmart-esp-8/processes/change/use/relate-information-to-change.html)
 
--  [Pesquisa avançada de mudanças encerradas](/pt-br/citsmart-esp-8/processes/change/use/advanced-search-for-change.html)
+-  [Advanced search of changes closed](/en-us/citsmart-esp-8/processes/change/use/advanced-search-for-change.html)
 
--  [Aprovar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-approval.html)
+-  [Approve change](/en-us/citsmart-esp-8/processes/change/use/change-approval.html)
 
--  [Cancelar uma mudança](/pt-br/citsmart-esp-8/processes/change/use/cancel-change.html)
+-  [Cancel change](/en-us/citsmart-esp-8/processes/change/use/cancel-change.html)
 
--  [Suspender uma mudança](/pt-br/citsmart-esp-8/processes/change/use/suspend-change.html)
+-  [Suspend change](/en-us/citsmart-esp-8/processes/change/use/suspend-change.html)
 
-Configuração
+Configuration
 ----------------
 
--   [Criar um portfolio de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
+-   [Create portfolio of change](/en-us/citsmart-esp-8/processes/change/configuration/change-portfolio.html)
 
--   [Cadastrar uma justificativa de mudança](/pt-br/citsmart-esp-8/processes/change/configuration/change-justification.html)
+-   [Register justification of change](/en-us/citsmart-esp-8/processes/change/configuration/change-justification.html)
 
--   [Calendário de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-schedule.html)
+-   [Calendar of change](/en-us/citsmart-esp-8/processes/change/configuration/change-schedule.html)
 
--   [Cadastrar um template de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/change-template.html) 
+-   [Register template of change](/en-us/citsmart-esp-8/processes/change/configuration/change-template.html) 
 
-Relatório
+Report
 -------------
 
--   [Gerar relatórios – Gerência de mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/generate-reports-change-management.html)
+-   [Create report - Change management](/en-us/citsmart-esp-8/processes/change/configuration/generate-reports-change-management.html)
 
--   [Gerar relatórios pelo painel de gráficos e relatórios – Mudanças](/pt-br/citsmart-esp-8/processes/change/configuration/generate-reports-charts-panel-change.html)
+-   [Create reports through dashboards and reports – Changes](/en-us/citsmart-esp-8/processes/change/configuration/generate-reports-charts-panel-change.html)
 
--   [Relatórios adicionais de uma mudança](/pt-br/citsmart-esp-8/processes/change/use/change-additional-reports.html)
+-   [Additional reports of change](/en-us/citsmart-esp-8/processes/change/use/change-additional-reports.html)
 
 !!! tip "About"
 
