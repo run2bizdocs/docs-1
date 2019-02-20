@@ -73,13 +73,9 @@ características que el CITSmart ofrece.
 -   4: presenta catastros básicos para iniciar el CITSmart, como usuarios,
     localidad, además de poder registrar y editar menús dentro del sistema;
 
--   5: tiene datos para administrar el Centro de Experiencia, que es un portal
-    personalizable para el usuario;
+-   5: tiene datos para administrar el Centro de Experiencia, que es un portal personalizable para el usuario;
 
--   6: ofrece diversos tipos de informes que el sistema puede generar con
-    datos de las principales funcionalidades, haciendo la información
-    posible de ser mejor analizadas, además de permitir la creación de
-    informes personalizados;
+-   6: ofrece diversos tipos de informes que el sistema puede generar con datos de las principales funcionalidades, haciendo la             información posible de ser mejor analizadas, además de permitir la creación de informes personalizados;
 
 -   7: configuración de acceso y permisos en el sistema;
 
@@ -99,8 +95,7 @@ Personalización del Panel de Usuario (Smart Decision) que aparece en la página
 incial del sistema, donde es posible colocar accesos rápidos como enlaces,
 informes y widgets.
 
--   1: barra vertical que contiene los paneles registrados. Los elementos de la barra
-    se desplazan para ajustar la necesidad del usuario;
+-   1: barra vertical que contiene los paneles registrados. Los elementos de la barra se desplazan para ajustar la necesidad del usuario;
 
 -   2: elementos para editar un dashboard;
 
