@@ -20,7 +20,12 @@ Procedure
 3.  Click on "Advance" in the service to access it. Moreover, it will be
     presented the Service Information screen;
 
-4.  Click on the Contract tab and link a contract.
+4.  Click on the Contract tab and link a contract;
+
+5.  Click on "Advance" in the contract to access it;
+
+6.  On the left side, it's presented the different attributes that can be configured.
+
 
 !!! info "Information"
 
