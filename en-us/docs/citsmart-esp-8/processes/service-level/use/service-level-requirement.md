@@ -19,7 +19,9 @@ Procedure
 
 2.  Click on "New";
 
-3.  Complete all necessary data.
+3.  Complete all necessary data;
+
+4.  Click on "Save".
 
 What to do next
 -------------------
