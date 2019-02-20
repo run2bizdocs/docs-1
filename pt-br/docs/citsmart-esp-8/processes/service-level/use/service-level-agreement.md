@@ -1,7 +1,8 @@
 title:  Acordo de Nível de Serviço 
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
 #Acordo de Nível de Serviço
-Essa funcionalidade permite registrar o acordo de nível de serviço do tipo disponibilidade, tempo (por fases) e informações diversas capturadas de outras fontes.
+Essa funcionalidade permite registrar o acordo de nível de serviço do tipo *disponibilidade*, *tempo* (por fases) e *informações diversas capturadas de outras fontes*.
+
 Após os N minutos (informado no tempo de ação) e caso não tenha realizado nenhuma ação na solicitação do serviço vinculado a este SLA, o sistema atribuirá a prioridade e escalará o grupo para execução da solicitação do serviço.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um acordo de nível de serviço.
 
