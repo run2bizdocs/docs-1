@@ -1,7 +1,11 @@
 title: Configure mobile options
 Description: Intended to configure the Menu options to the use through mobile.
 #Configure mobile options
-This functionality is intended to configure the Menu options for the mobile usage.
+This functionality is intended to configure the Menu options for the mobile usage. When configuring these options, they'll be available in the CITSmart SM application and the ITSM mobile site
+
+!!! Abstract "NOTE"
+
+    The SM application allows you to use the features of the *web* version chosen in the mobile version, having the same functions as      the desktop version
 
 Before getting started
 --------------------------
@@ -24,54 +28,6 @@ Procedure
 4.  Click on "Save".
 
 
-!!! Abstract "ATTENTION"
-
-    In order for the field technician to see tickets only assigned to him/her 
-    in the request list, the attendant/manager must set the parameter 435 to "Yes".
-
-### Get signature in field service
-
-
-The option for a technician, to collect signature from a validator 
-in the field, will follow the configuration:
-
-*In CITSmart*
-
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Portfolio;
-    
-2.  Search for the portfolio and click on "Advance";
-
-3.  Select the service and click on "Advance";
-
-4.  Click on the tab **Contract**;
-
-5.  Select the contract and click on "Advance";
-
-6.  Click on the tab **Requests**;
-
-7.  Select the activity and click on "Edit";
-
-8.  Configure the option "Yes" the field **Requires signature on Mobile**;
-
-9.  Click on "Save".
-
-*In mobile*
-
-1.  When capture a ticket (using mobile), the technician must complete the fields
-    available and, when put the ticket with the status "Solved", the field **Signatures**
-    will be enabled so it'll be posible to put the Number of the register, Name and Signature
-    of the validator in field. This signature will be done with the finger in the mobile screen;
-    
-2.  Click on "Options" and then on "Save and advance flow";
-
-3.  The ticket will not appear anymore in the technician list.
-
-4.  The attendant/manager will see in his/her request list (at CITSmart), the ticket attended
-    by the technician (via mobile) with the status "Solved" and when openning it, it'll see the
-    signature gathered.
-
-
 
 Related
 -------
@@ -80,7 +36,7 @@ Related
 
 [CITSmart Enterprise ITSM Mobile Application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Get signature in field service](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 
 !!! tip "About"

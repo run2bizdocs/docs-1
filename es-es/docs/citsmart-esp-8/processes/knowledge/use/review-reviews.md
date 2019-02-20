@@ -1,37 +1,37 @@
-title:  Revisar comentários do Portal do Conhecimento
-Description: Permite a edição de comentários publicados no Portal do Conhecimento antes de ele ser publicado. 
-#Revisar comentários do Portal do Conhecimento
-Este documento permite a edição de comentários publicados no Portal do Conhecimento antes de ele ser publicado.
+title:  Revisar comentarios del Portal del Conocimiento
+Description: Permite la edición de comentarios publicados en el Portal del Conocimiento antes de que sea publicado. 
+#Revisar comentarios del Portal del Conocimiento
+Este documento permite la edición de comentarios publicados en el Portal del Conocimiento antes de que sea publicado.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário ter um usuário cadastrado previamente e o mesmo ter permissão de
-acesso a funcionalidade de Revisão de comentários.
+Es necesario tener registrado un usuario con permiso de acceder a la funcionalidad
+de Revisión de comentarios.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar o menu principal Processos \> Gerência de Conhecimento \> Revisão de
-    comentários;
+1.  Acceder al menú principal Procesos \> Gestión del Conocimiento \> Revisión de
+    comentarios;
 
-2.  Selecionar o comentário e clicar no botão "Editar";
+2.  Seleccionar un comentario y hacer clic en "Editar";
 
-3.  Selecionar uma das opções de status disponibilizadas;
+3.  Seleccionar una de las opciones de status disponibles;
 
-4.  Clicar no botão "Gravar".
+4.  Hacer clic en "Guardar".
 
 !!! Abstract "NOTA"
     
-    Apenas os comentários com status Aceito/Aceito com edição deverão aparecer
-    para os usuários finais.
+    Sólo los comentarios con status Aceptado con edición deberán aparecer
+    para los usuarios finales.  
     
 Relacionado
 ----------------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)    
+[Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)    
 
 !!! tip "About"
 

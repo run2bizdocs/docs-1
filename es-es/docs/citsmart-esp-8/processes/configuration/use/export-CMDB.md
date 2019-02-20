@@ -18,10 +18,19 @@ Procedimiento
 
 3.  El sistema exportará la información de la base de datos en XML.
 
+!!! Abstract "NOVEDAD"
+
+    Para esta nueva versión, se creó el parámetro 440, que deberá ser utilizado siempre
+    que el usuario desee informar la cantidad mínima de registros que el sistema
+    deberá ejecutar en la exportación en segundo plano.
+
 Relacionado
 ----------------
 
 [Registrar grupo de elemento de configuración](/es-es/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
+
+[Configurar parametrización - configuración](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+
 
 !!! tip "About"
 

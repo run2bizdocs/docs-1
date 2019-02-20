@@ -1,37 +1,36 @@
-title:  Revisar comentários do Portal do Conhecimento
-Description: Permite a edição de comentários publicados no Portal do Conhecimento antes de ele ser publicado. 
-#Revisar comentários do Portal do Conhecimento
-Este documento permite a edição de comentários publicados no Portal do Conhecimento antes de ele ser publicado.
+title:  Review comments in Knowledge Portal
+Description: It allows to edit comments published in the Knowledge Portal before being published. 
+#Review comments in Knowledge Portal
+This document is intended to edit comments published in the Knowledge Portal before being published.
 
-Antes de começar
+Before getting started
 ----------------
 
-É necessário ter um usuário cadastrado previamente e o mesmo ter permissão de
-acesso a funcionalidade de Revisão de comentários.
+It's necessary to have an user registered with permission to access the functionality
+of Review comments.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar o menu principal Processos \> Gerência de Conhecimento \> Revisão de
-    comentários;
+1.  Access the main menu Processes \> Knowledge Management \> Review comments;
 
-2.  Selecionar o comentário e clicar no botão "Editar";
+2.  Select a comment and click on "Edit";
 
-3.  Selecionar uma das opções de status disponibilizadas;
+3.  Select one of the options available for status;
 
-4.  Clicar no botão "Gravar".
+4.  Click on "Save".
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
     
-    Apenas os comentários com status Aceito/Aceito com edição deverão aparecer
-    para os usuários finais.
+    Only comments with status Accepted with edition will be presents for the
+    end users.
     
-Relacionado
+Related
 ----------------
 
-[Criar perfil de acesso](/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Create profile access](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html)    
+[Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html)    
 
 !!! tip "About"
 

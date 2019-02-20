@@ -19,11 +19,18 @@ Procedure
 
 3.  The system will export the information of the database in XML.
 
+!!! Abstract "NOVELTY"
+
+    To this new version, it was created the parameter 400, that should be used whenever
+    the user wants to inform the minimum amount of registries that the system should execute
+    the export in background.
+
 Related
 -----------
 
 [Register configuration item group](/en-us/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
+[Configure parametrization - configuration](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
 !!! tip "About"
 
