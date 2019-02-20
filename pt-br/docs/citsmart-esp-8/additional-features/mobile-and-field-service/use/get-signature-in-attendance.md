@@ -1,7 +1,5 @@
 title: Obter assinatura em atendimento de campo
-
-Description: Este documento tem por objetivo explanar sobre a configuração do
-CITSmat mobile para recebimento de assinatura digital em atendimento em campo.
+Description:Este documento tem por objetivo explanar sobre a configuração do CITSmat mobile para recebimento de assinatura digital em atendimento em campo.
 # Obter assinatura em atendimento de campo
 
 Este documento tem por objetivo explanar sobre a configuração do CITSmat mobile
