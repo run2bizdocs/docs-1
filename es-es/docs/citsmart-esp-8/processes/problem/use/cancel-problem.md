@@ -1,33 +1,33 @@
-title: Cancelar um problema
-Description: permite cancelar um problema previamente cadastrado.
-#Cancelar um problema
-Esta funcionalidade permite cancelar um problema previamente cadastrado.
+title: Cancelar problema
+Description: permite cancelar un problema previamente registrado.
+#Cancelar problema
+Esta funcionalidad permite cancelar un problema previamente registrado.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário o cadastro anterior de um problema.
+Es necesario tener registrado un problema.
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  Acessar a funcionalidade navegando pelo menu principal Processos \> Gerência
+1.  Acceder al menú principal Procesos \> Gestión
     de Problema \> Problema;
 
-2.  Localizar o registro de problema que deseja cancelar, clicar sobre o mesmo e
-    em seguida no botão “Abrir”
+2.  Buscar y seleccionar un registro de problema para cancelar, después
+    hacer clic en “Abrir”;
 
-3.  Clicar na área “Revisão e fechamento” e em seguida na aba “Fechamento”;
+3.  Hacer clic en "Revisión y cierre" y después en la pestaña "Cierre";
 
-4.  Selecionar a opção “Cancelada”;
+4.  Seleccionar la opción “Cancelada”;
 
-5.  Selecionar a **Causa Raiz** e a **Categoria de Solução** que melhor
-    representam o cenário do cancelamento do problema;
+5.  Seleccionar la **Causa Raiz** y la **Categoría de la Solución** que mejor
+    representan el escenario de la cancelación del problema;
 
-6.  No campo **Fechamento**, descrever os detalhes do cancelamento do problema;
+6.  En el campo **Cierre**, describir los detalles de la cancelación del problema;
 
-7.  Clicar em "Gravar e avançar o fluxo" ou "Gravar e manter a tarefa atual"
-    para efetuar a operação.
+7.  Hacer clic en "Guardar y  avanzar flujo" o "Guardar y mantener tarea actual"
+    para hacer la operación.
 
 !!! tip "About"
 
