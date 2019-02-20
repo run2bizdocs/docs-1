@@ -31,7 +31,7 @@ Configuración
 
 - [Registrar tema](/es-es/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
 
-- [Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)  
 
 Informe
 -----------
