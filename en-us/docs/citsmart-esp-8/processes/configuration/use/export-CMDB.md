@@ -21,7 +21,7 @@ Procedure
 
 !!! Abstract "NOVELTY"
 
-    To this new version, it was created the parameter 400, that should be used whenever
+    To this new version, it was created the parameter 440, that should be used whenever
     the user wants to inform the minimum amount of registries that the system should execute
     the export in background.
 
