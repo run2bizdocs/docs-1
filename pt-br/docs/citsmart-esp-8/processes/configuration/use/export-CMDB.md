@@ -31,6 +31,8 @@ Relacionado
 
 [Cadastrar grupo de item de configuração](/pt-br/citsmart-esp-8/processes/configuration/configuration/register-configuration-item-group.html)
 
+[Configurar parametrização - configuração](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+
 
 !!! tip "About"
 
