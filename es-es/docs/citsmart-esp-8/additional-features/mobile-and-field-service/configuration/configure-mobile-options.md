@@ -3,6 +3,10 @@ Description: Configurar las opciones de Menú para el uso vía móvil.
 #Configurar las opciones del mobile
 Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el uso vía mobile.
 
+!!! Abstract "ATENCIÓN"
+
+    La aplicación SM permite utilizar las características de la versión * web * elegidas en la versión móvil, teniendo las mismas           funciones que la versión de desktop.
+
 Antes de empezar
 --------------------
 
