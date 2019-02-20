@@ -16,7 +16,7 @@ Uso
 
 - [Refinar pesquisas no Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
-- [Revisar comentários do Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/configuration/review-reviews.html)
+- [Revisar comentários do Portal do Conhecimento](/pt-br/citsmart-esp-8/processes/knowledge/use/review-reviews.html)
 
 Configuração
 -----------------
