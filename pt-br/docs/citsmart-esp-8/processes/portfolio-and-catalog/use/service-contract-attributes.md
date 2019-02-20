@@ -21,11 +21,16 @@ Procedimento
 3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
     apresentada a tela de Informações do Serviço;
 
-4.  Clicar na aba Contratos e vincular um contrato.
+4.  Clicar na aba Contratos e vincular um contrato;
+
+5.  Clicar no botão "Avançar" do contrato para acessar os atributos;
+
+6.  Ao lado esquerdo são apresentados os diferentes atributos que podem ser configurados.
+
 
 !!! info "Informação"
 
-    A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
+    A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem         essa permissão.
     
 
 O que fazer a seguir
@@ -36,7 +41,7 @@ ser acessadas no conhecimento "Vincular as atividades ao contrato de serviço".
 
 Relacionado
 ---------
-[Cadastrar um Contrato][1]
+[Cadastrar um Contrato](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
 [Vincular as atividades ao contrato de serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
@@ -50,4 +55,3 @@ Relacionado
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
 
-[1]:/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-contract.html
