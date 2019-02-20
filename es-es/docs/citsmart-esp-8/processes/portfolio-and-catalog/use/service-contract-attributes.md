@@ -21,11 +21,16 @@ Procedimiento
 3.  Hacer clic en "Avanzar" del servicio para accederlo. Después, se va a
     presentar la pantalla de Información del Servicio;
 
-4.  Hacer clic en la pestaña Contratos y vincular un contrato.
+4.  Hacer clic en la pestaña Contratos y vincular un contrato;
+
+5.  Hacer clic en "Avanzar" en el contrato para accederlo;
+
+6.  A la izquierda se muestran los diferentes atributos que se pueden configurar.
+
 
 !!! info "Información"
 
-    La gestión de contratos se puede realizar directamente en el enlace de edición, sin embargo es importante comprobar si su perfil tiene ese permiso.
+    La gestión de contratos se puede realizar directamente en el enlace de edición, sin embargo es importante comprobar si su perfil         tiene ese permiso.
 
 
 Lo que hacer después
