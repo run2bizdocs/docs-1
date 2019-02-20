@@ -40,6 +40,11 @@ Procedimento
 5.  Clicar em "Gravar".
 
 
+!!! Abstract "REGRA"
+
+    A exclusão de grupo depende de não existir portfólios, colaboradores e
+    contratos vinculados ao mesmo.
+
 Relacionado
 -----------
 
