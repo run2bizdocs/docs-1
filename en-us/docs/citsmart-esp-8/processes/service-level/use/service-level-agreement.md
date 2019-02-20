@@ -1,7 +1,8 @@
 title: Service level agreement
 Description: Allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources
 #Service level agreement
-This functionality allows to register the service level agreement of type availability, time (by phases) and miscellaneous information captured from other sources.
+This functionality allows to register the service level agreement of type *availability*, *time* (by phases) and *miscellaneous information captured from other sources*.
+
 After N minutes (informing the time of action) and in case there is no action performed in the linked service request to this SLA, the system will attribute the priority and will escalate the group to execute the service request.
 This feature provides a variety of actions, such as including, changing, and deleting a service level agreement.
 
