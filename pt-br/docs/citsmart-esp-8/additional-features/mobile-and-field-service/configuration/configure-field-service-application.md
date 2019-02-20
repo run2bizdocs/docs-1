@@ -1,6 +1,6 @@
-title: Configurar aplicativo CITSmart Field Service (FS)
+title: Configurar instância para uso do aplicativo CITSmart FS
 Description: O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline
-#Configurar aplicativo CITSmart Field Service (FS)
+# Configurar instância para uso do aplicativo CITSmart FS
 O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
  O atendente visualizará apenas solicitações que foram delegadas a ele.
 
