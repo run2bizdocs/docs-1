@@ -1,7 +1,7 @@
 title: Acuerdo de Nivel de Servicio
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un acuerdo de nivel de servicio. 
 #Acuerdo de Nivel de Servicio
-Esta funcionalidad permite registrar el acuerdo de nivel de servicio del tipo disponibilidad, tiempo (por fases) e información diversa capturada de otras fuentes. 
+Esta funcionalidad permite registrar el acuerdo de nivel de servicio del tipo *disponibilidad*, *tiempo* (por fases) e *información diversa capturada de otras fuentes*. 
 Después de los N minutos (informado en el tiempo de acción), y si no ha realizado ninguna acción en la solicitud del servicio vinculado a este SLA, el sistema asignará la prioridad y escalará el grupo para ejecutar la solicitud del servicio.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un acuerdo de nivel de servicio.
 
