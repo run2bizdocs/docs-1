@@ -2,7 +2,7 @@ title: Obter assinatura em atendimento de campo
 Description:Este documento tem por objetivo explanar sobre a configuração do CITSmat mobile para recebimento de assinatura digital em atendimento em campo.
 # Obter assinatura em atendimento de campo
 
-Este documento tem por objetivo explanar sobre a configuração do CITSmat mobile
+Este documento tem por objetivo explanar sobre a configuração do aplicativo CITSmart (FS e SM)
 para que o técnico receba a assinatura digital de um validador em atendimento de
 campo.
 
@@ -43,8 +43,8 @@ Procedimento
 
 1.  Ao capturar um ticket (usando o mobile), o técnico deve preencher os campos
     disponibilizados e ao colocar o ticket com status de “Resolvido”, o campo
-    de **Assinaturas** ficará ativo para que se possa colocar o Número do
-    registro, o Nome e a Assinatura do validador em campo. Esta assinatura será
+    de **Assinaturas** ficará ativo para que se possa colocar o *Número do
+    registro/Matrícula*, o *Nome* e a *Assinatura* do validador em campo. Esta assinatura será
     feita com o dedo na tela do mobile;
 
 2.  Clicar no botão “Opções” e em seguida em “Gravar e avançar o fluxo”;
@@ -65,6 +65,8 @@ Relacionado
 [Configurar as opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 [Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+
+[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
