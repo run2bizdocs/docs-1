@@ -3,6 +3,8 @@ Title: Importación general
 
 Es posible importar un rango de datos al CITSmart ESP, esto puede ayudar en el proceso de configuración de la herramienta o diseño del proceso.
 
+
+
 # Relacionado
 
 [Import employee][1]
