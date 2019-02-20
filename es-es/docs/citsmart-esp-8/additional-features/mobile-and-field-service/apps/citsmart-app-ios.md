@@ -372,7 +372,7 @@ Relacionado
 
 [Manual de configuración del servidor CITSmart Enterprise para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
-[Configurar las opciones del móvil](es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar las opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
