@@ -47,7 +47,7 @@ Relacionado
 
 [Definir modelo de e-mail](/es-es/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Cadastrar destinatario da la notificación](/es-es/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
+[Registrar destinatario da la notificación](/es-es/citsmart-esp-8/processes/event/configuration/register-notification-recipient.html)
 
 [Registrar modelo de EPL](/es-es/citsmart-esp-8/processes/event/configuration/register-epl-template.html)
 

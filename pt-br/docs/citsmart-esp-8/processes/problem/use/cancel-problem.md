@@ -15,7 +15,7 @@ Procedimento 
     de Problema \> Problema;
 
 2.  Localizar o registro de problema que deseja cancelar, clicar sobre o mesmo e
-    em seguida no botão “Abrir”
+    em seguida no botão “Abrir”;
 
 3.  Clicar na área “Revisão e fechamento” e em seguida na aba “Fechamento”;
 

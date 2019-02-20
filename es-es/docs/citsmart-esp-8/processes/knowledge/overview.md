@@ -14,7 +14,9 @@ Uso
 
 - [Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-esp-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
-- [Refinar búsquedas en el Portal do Conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Refinar búsquedas en el Portal del Conocimiento](/es-es/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+
+- [Revisar comentarios del Portal del Conocimiento](/es-es/citsmart-esp-8/processes/knowledge/use/review-reviews.html)
 
 Configuración
 -----------------
@@ -29,7 +31,7 @@ Configuración
 
 - [Registrar tema](/es-es/citsmart-esp-8/processes/knowledge/configuration/register-subject.html)
 
-- [Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configurar parametrización - conocimiento](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)  
 
 Informe
 -----------

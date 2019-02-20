@@ -19,6 +19,8 @@ Use
 
 - [Refine search in Knowledge Portal](/en-us/citsmart-esp-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
+- [Review comments in Knowledge Portal](/en-us/citsmart-esp-8/processes/knowledge/use/review-reviews.html)
+
 Configuration
 -----------------
 
