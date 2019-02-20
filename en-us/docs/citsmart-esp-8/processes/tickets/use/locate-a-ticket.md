@@ -18,6 +18,13 @@ Procedure
 
 2.  Click on the search field.
 
+!!! Abstract "RULE"
+
+    The search effectiveness depends on the following of some rules of permission
+    by the filter, such as: execution, delegation, monitoring, visualization, user
+    groups, contract link, units and logged in collaborator.
+
+
 Related
 -----------
 
