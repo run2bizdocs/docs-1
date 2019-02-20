@@ -17,6 +17,13 @@ Procedimiento
 
 2.  Haga click en el campo de búsqueda.
 
+
+!!! Abstract "REGLA"
+     
+     La eficacia de la consulta depende del seguimiento de algunas reglas de permiso por el filtro, tales como: ejecución, delegación,        seguimiento, visualización, grupos de usuarios, vínculo con contrato, unidades y colaborador conectado.
+
+
+
 Relacionado
 -----------
 
