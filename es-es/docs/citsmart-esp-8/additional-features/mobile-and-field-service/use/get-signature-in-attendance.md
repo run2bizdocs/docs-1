@@ -1,5 +1,5 @@
-#title: Obtener signatura en atención de campo
-Description: Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
+title: Obtener signatura en atención de campo
+Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
 #Obtener signatura en atención de campo
 
 Este documento tiene por objetivo explicar sobre la configuración del CITSmat
