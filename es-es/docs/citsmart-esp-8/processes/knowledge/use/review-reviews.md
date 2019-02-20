@@ -24,7 +24,7 @@ Procedimiento
 !!! Abstract "NOTA"
     
     Sólo los comentarios con status Aceptado con edición deberán aparecer
-    para los usuarios finales.
+    para los usuarios finales.  
     
 Relacionado
 ----------------
