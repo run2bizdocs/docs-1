@@ -1,5 +1,5 @@
 title: Manual de uso de la aplicación móvil CITSmart SM (Android)
-Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart Enterprise Mobile.
+Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart SM Mobile.
 #Manual de uso de la aplicación móvil CITSmart SM (Android)
 
 
@@ -43,17 +43,17 @@ Este documento se ha estructurado en cuatro grandes secciones:
 Antes de empezar
 ----------
 
-   Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
-   Enterprise Mobile y también configurar el servidor para uso de la
+   Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart SM
+   mobile y también configurar el servidor para uso de la
    aplicación móvil CITSmart SM mobile (ver Relacionado).
 
 Instalación y configuración dell APP en el celular (smartphone)
 --------------------------------------------------------------
 
-Para instalar el CITSmart SM mobile, se debe realizar la búsqueda de la
+Para instalar el CITSmart mobile, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (Google Play).
 
-1.  Busque Citsmart Enterprise y después de la búsqueda, seleccione la
+1.  Busque CITSmart SM y después de la búsqueda, seleccione la
     aplicación, como se indica en la figura siguiente:
 
 2.  Presione el botón "Instalar" para descargar la aplicación;
@@ -338,7 +338,7 @@ ubicación de la misma.
       -   Seleccione el contrato y la unidad. Hecho esto, presione el botón "Obtener
       Coordenadas" para efectuar la operación;
 
-      -   Se enviará su latitud y longitud al servidor (CITSmart Enterprise Web).
+      -   Se enviará su latitud y longitud al servidor (CITSmart Web).
 
 
 #### Atendiendo la solicitud de servicio
@@ -446,7 +446,7 @@ ubicación de la misma.
 
 #### Notificaciones
 
-La aplicación CITSmart Enterprise Mobile se está ejecutando en segundo plano en
+La aplicación CITSmart SM mobile se está ejecutando en segundo plano en
 el teléfono móvil, a través de lo que recibirá automáticamente notificaciones
 que son pasivas de acción.
 
