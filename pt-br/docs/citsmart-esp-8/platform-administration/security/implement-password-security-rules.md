@@ -63,7 +63,7 @@ Procedimento
 !!! Abstract "NOTA"
 
     Para alterar a senha o usuário pode redefinir a senha por dois caminhos
-    diferentes, ver [Cadastrar usuário][1] e [Editar perfil de usuário][2].
+    diferentes, ver [Cadastrar usuário][1] e [Editar informação da conta][2].
 
 
 !!! tip "About"
