@@ -55,6 +55,8 @@ Procedure
     * request_updateRequestListGroups
     
     * request_uploadSignature
+    
+    * parameter_query
 
 1.  Click on "Save" after configure the groups in each webservice.
 
