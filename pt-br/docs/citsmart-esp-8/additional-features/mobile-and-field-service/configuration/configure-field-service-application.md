@@ -39,6 +39,14 @@ Procedimento
     -   request_uploadAttachment
 
     -   request_getByUser
+    
+    -   request_saveRequestNote
+    
+    -   request_updateRequestNoteList
+    
+    -   request_updateRequestListGroups
+    
+    -   request_uploadSignature
 
 3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
