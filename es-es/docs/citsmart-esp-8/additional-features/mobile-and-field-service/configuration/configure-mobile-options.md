@@ -37,6 +37,7 @@ Relacionado
 
 [Obtener signatura en atención de campo](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
