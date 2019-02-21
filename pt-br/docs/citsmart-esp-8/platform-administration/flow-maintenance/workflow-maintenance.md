@@ -172,10 +172,11 @@ Diagrama de um fluxo de trabalho
     representado visualmente como o losango vazio ou com um marcador de “x”) do
     fluxo;
 
--   5 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
-    neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada);
+-   5 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
+    a conclusão da aprovação da tarefa ou a reijeição da tarefa);
 
--   6 – Representa o evento final do fluxo de trabalho.
+-   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
+    neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).  
 
 !!! tip "About"
 
