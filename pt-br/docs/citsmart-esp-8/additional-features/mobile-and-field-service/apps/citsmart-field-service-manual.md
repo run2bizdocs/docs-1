@@ -36,7 +36,7 @@ Procedimento
     Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
     e o detalhar da mesma;
 
-7.  Clicar em "Coletar Assinatura e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
+7.  Clicar em "Coletar Assinatura e Avançar o Fluxo" (ver documento relacionado) ou "Gravar e manter tarefa atual" para
     completar a operação. Serão então automaticamente sincronizadas as
     alterações. Se o aplicativo não encontrar a rede para completar a
     sincronização, será apresentado o ícone “Atualização automática” para
