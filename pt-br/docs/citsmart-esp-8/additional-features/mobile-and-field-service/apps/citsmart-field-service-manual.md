@@ -52,7 +52,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar aplicativo CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+[Configurar instância para uso do aplicativo CITSmart FS](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Obter assinatura em atendimento de campo](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
