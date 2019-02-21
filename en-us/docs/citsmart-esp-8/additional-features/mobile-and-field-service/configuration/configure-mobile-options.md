@@ -10,7 +10,7 @@ This functionality is intended to configure the Menu options for the mobile usag
 Before getting started
 --------------------------
 
-It's necessary to previously install the CITSmart Enterprise ITSM application in
+It's necessary to previously install the CITSmart SM application in
 the mobile.
 
 Procedure
@@ -32,9 +32,9 @@ Procedure
 Related
 -------
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile Application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Get signature in field service](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
