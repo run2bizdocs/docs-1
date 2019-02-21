@@ -4,10 +4,7 @@ Description: Modelar seus objetivos de negócio, descrevendo os passos que preci
 
 A funcionalidade de Manutenção de Fluxos tem a finalidade de modelar seus
 objetivos de negócio, descrevendo os passos que precisam ser executados para
-atingir esses objetivos, através de um fluxograma.
-
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir um fluxo de trabalho.
+atingir esses objetivos através de um fluxograma.
 
 Procedimento
 ------------
