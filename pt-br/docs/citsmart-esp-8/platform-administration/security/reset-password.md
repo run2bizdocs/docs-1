@@ -11,7 +11,7 @@ A alternativa de alteração de senha do usuário é uma das possiblidades liber
 Antes de começar
 ----------------
 
-É necessário previamente a configuração de envo de e-mail válido (smtp), uma vez
+É necessário previamente ter um serviço de correio eletrônico (SMTP) funcional, uma vez
 que o envio da senha é feito via e-mail.
 
 Procedimento
@@ -40,12 +40,19 @@ Procedimento
 O que fazer depois
 ------------------
 
-Para testar o serviço de alteração de senha, acessar a página inicial do
-Sistema, clicar na opção “Esqueceu sua senha?”, informar um login de usuário
+Para testar o serviço de alteração de senha, acessar a página de login, clicar na opção “Esqueceu sua senha?”, informar um login de usuário
 local e apertar “Gravar”.
+
+## Relacionados
+
+[Criar Modelos de E-mail][1]
+
+[Configurar Conta de E-mail][2]
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
+[1]:/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/pt-br/citsmart-esp-8/platform-administration/email-settings/configuration.html
