@@ -191,13 +191,13 @@ Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
 Relacionado
 -----------
 
-[Configurar parametrização – mobile](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configurar parametrização - mobile](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
 [Configurar parametrização - sistema](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de utilização do aplicativo mobile CITSmart SM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de utilização do aplicativo mobile CITSmart SM (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar as opções de mobile](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
