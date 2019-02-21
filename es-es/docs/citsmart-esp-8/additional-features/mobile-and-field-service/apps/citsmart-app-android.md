@@ -1,13 +1,13 @@
-title: Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)
+title: Manual de uso de la aplicación móvil CITSmart SM (Android)
 Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart Enterprise Mobile.
-#Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)
+#Manual de uso de la aplicación móvil CITSmart SM (Android)
 
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-instalar, configurar y utilizar la aplicación CITSmart Enterprise Mobile.
+instalar, configurar y utilizar la aplicación CITSmart SM mobile.
 
-El CITSmart Enterprise Mobile ofrece varios recursos:
+El CITSmart SM mobile ofrece varios recursos:
 
 1.  Facilidad en la atención y tener una dirección de donde la solicitud está
     localizada;
@@ -45,12 +45,12 @@ Antes de empezar
 
    Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
    Enterprise Mobile y también configurar el servidor para uso de la
-   aplicación móvil CITSmart Enterprise Mobile (ver Relacionado).
+   aplicación móvil CITSmart SM mobile (ver Relacionado).
 
 Instalación y configuración dell APP en el celular (smartphone)
 --------------------------------------------------------------
 
-Para instalar el CITSmart Enterprise Mobile, se debe realizar la búsqueda de la
+Para instalar el CITSmart SM mobile, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (Google Play).
 
 1.  Busque Citsmart Enterprise y después de la búsqueda, seleccione la
@@ -59,7 +59,7 @@ aplicación en la tienda en línea (Google Play).
 2.  Presione el botón "Instalar" para descargar la aplicación;
 
 3.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
-    Enterprise Mobile;
+    SM mobile;
 
 4.  Para crear una conexión, pulse el icono con formato de llave, situado en
     la esquina superior derecha de la pantalla, como se indica en la figura
@@ -172,7 +172,7 @@ elegido y realizar otras acciones, que serán explicadas a continuación.
 
         Para que la funcionalidad de búsqueda funcione, es necesario configurar el
         web service (notification_buscaNotificación) correspondiente en la pantalla
-        de "Registro de Operación Web Service" en el CITSmart Enterprise Web.
+        de "Registro de Operación Web Service" en el CITSmart SM Web.
 
 
 7.  En cada solicitud se presenta un símbolo con el color que representa su
@@ -227,12 +227,12 @@ elegido y realizar otras acciones, que serán explicadas a continuación.
        número de la solicitud, en orden decreciente;
 
        +  **Fecha de creación**: ordena las solicitudes, primero, por la fecha de
-      creación, en orden ascendente. Después sigue el criterio de ordenación por
-      el número de la solicitud, en orden decreciente;
+        creación, en orden ascendente. Después sigue el criterio de ordenación por
+        el número de la solicitud, en orden decreciente;
 
        +  **Vencimiento**: ordena las solicitudes por solicitudes vencidas, próximas
-      al vencimiento, dentro del plazo y suspendidas. Después sigue el criterio de
-      ordenación por el número de la solicitud, en orden decreciente.
+        al vencimiento, dentro del plazo y suspendidas. Después sigue el criterio de
+        ordenación por el número de la solicitud, en orden decreciente.
 
 
 #### Creación de solicitud de servicio
@@ -262,8 +262,8 @@ elegido y realizar otras acciones, que serán explicadas a continuación.
 
     !!! Abstract "ATENCIÓN"
 
-        La solicitud registrada por CITSmart Mobile utiliza servicios que se
-        configuran en CITSmart Enterprise Web.
+        La solicitud registrada por CITSmart mobile utiliza servicios que se
+        configuran en CITSmart Web.
 
 3.  Introduzca la descripción de la solicitud de servicio y pulse el
     botón "Enviar" para realizar la operación;
@@ -319,10 +319,7 @@ ubicación de la misma.
 
     Figura 19 - Solicitud en mapa
 
-2.  Para atualizar as coordenadas, pressione o ícone localizado no canto
-    direito superior da tela e pressione a opção “Obter Coordenadas”, dependendo
-    da resolução da tela, será exibido o ícone com formato de uma bandeira,
-    basta pressionar o mesmo para atualização das coordenadas;
+2.  Para actualizar las coordenadas, pulse el icono situado en la esquina superior derecha de la pantalla y presione la opción “Obtener     Coordenadas”, dependiendo de la resolución de la pantalla, aparecerá el icono con formato de una bandera, basta con presionar el         mismo para actualizar las coordenadas;
 
     ![coordenadas](images/app-android-es-20.jpg)
 
@@ -502,7 +499,7 @@ que son pasivas de acción.
 Relacionado
 ---------
 
-[Manual de configuración del servidor CITSmart Enterprise ITSM para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
 
 [Configurar la opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
