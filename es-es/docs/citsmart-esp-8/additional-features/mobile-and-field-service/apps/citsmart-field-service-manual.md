@@ -1,6 +1,6 @@
-title: Manual de utilización del CITSmart Field Service
+title: Manual de uso de la aplicación CITSmart Field Service (FS)
 Description: Permitir la realización de llamadas para técnico en campo en modo offline (donde el operador no tiene internet).
-#Manual de utilización del CITSmart Field Service
+#Manual de uso de la aplicación CITSmart Field Service (FS)
 
 El objetivo de la aplicación CITSmart FS es permitir la realización de llamadas
 para técnico en campo en modo offline (donde el operador no tiene internet).
@@ -50,7 +50,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar aplicación CITSmart Field Service](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+[Configurar instancia para utilizar la aplicación CITSmart FS](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
 
 !!! tip "About"
 
