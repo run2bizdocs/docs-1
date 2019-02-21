@@ -29,9 +29,9 @@ Procedimento
         Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
 		É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 
-4.  As propriedas de um elemento da mesma forma podem ser definidas ao clicar duas
-    vezes no elemento e em seguida no ícone apresentado ao lado do mesmo. Defina
-    os dados desta propriedade ao informar os dados necessários em cada uma das
+4.  As propriedas de um elemento podem ser definidas ao clicar duas
+    vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
+    Defina os dados desta propriedade ao informar os dados necessários em cada uma das
     abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
     ao fluxo na aba “Base de conhecimento” e implementar funcionalidades no
     fluxo sobre a atividade ao clicar na aba “Interface”;
