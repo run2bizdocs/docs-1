@@ -55,6 +55,11 @@ Procedimento
 
 6.  Após definir o fluxo, clicar no botão “Gravar” para efetuar a operação.
 
+Relacionado
+------------
+
+[Manutenção de fluxo](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
