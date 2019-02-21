@@ -1,6 +1,6 @@
 title: Configure instance to use CITSmart FS application
 Description: Intended to provide guidance for configuring the server for using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
-#CConfigure instance to use CITSmart FS application
+#Configure instance to use CITSmart FS application
 
 This document is intended to provide guidance for configuring the server for
 using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
