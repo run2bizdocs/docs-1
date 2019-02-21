@@ -5,7 +5,7 @@ Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el u
 
 !!! Abstract "ATENCIÓN"
 
-    La aplicación SM permite utilizar las características de la versión * web * elegidas en la versión móvil, teniendo las mismas           funciones que la versión de desktop.
+    La aplicación SM permite utilizar las características de la versión *web* elegidas en la versión móvil, teniendo las mismas             funciones que la versión de desktop.
 
 Antes de empezar
 --------------------
