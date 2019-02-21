@@ -51,9 +51,7 @@ Procedimento
 
 3.  O ticket não aparecerá mais na listagem do técnico;
 
-4.  O atendente/administrador verá em sua listagem de solicitações (no
-    CITSmart), o ticket atendido pelo técnico (via mobile) com o status
-    “Resolvido” e ao abrir poderá visualizar assinatura colhida também.
+4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na pesquisa avançada (menu lateral     da tela de listagem de tickets)e ao abrir poderá visualizar assinatura colhida também.
 
 Relacionado
 ----------
