@@ -2,6 +2,7 @@ title: Manutenção de fluxo de trabalho
 Description: Modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos, através de um fluxograma.
 #Manutenção de fluxo de trabalho
 
+Fluxos são representações visuais de algo que se move continuamente.
 A funcionalidade de Manutenção de Fluxos tem a finalidade de modelar seus
 objetivos de negócio, descrevendo os passos que precisam ser executados para
 atingir esses objetivos através de um fluxograma.
