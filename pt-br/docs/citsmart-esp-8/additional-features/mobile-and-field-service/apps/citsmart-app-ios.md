@@ -140,7 +140,7 @@ Utilização do app no mobile
 
         Para que a funcionalidade de busca funcione, é necessário configurar o web
         service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-        de Operação Web Service” no CITSmart Web.**
+        de Operação Web Service” no CITSmart Web.
 
 6.  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
     opções, sendo:
