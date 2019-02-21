@@ -171,7 +171,7 @@ Diagrama de um fluxo de trabalho
     representado visualmente como o losango vazio ou com um marcador de “x”) do
     fluxo;
 	
--   5 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
+-   5 – Representa o evento final do fluxo de trabalho (que neste caso significa
     a conclusão de exucução da tarefa ou a rejeição da tarefa);	
 
 -   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
