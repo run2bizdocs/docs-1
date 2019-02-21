@@ -31,9 +31,9 @@ Procedimento
 Relacionado
 -----------
 
-[Manual do usuário do aplicativo mobile CITSmart Enterprise ITSM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de utilização do aplicativo mobile CITSmart SM (Android)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual do Usuário do aplicativo mobile CITSmart ITSM Enterprise (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de utilização do aplicativo mobile CITSmart SM (iOS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Obter assinatura em atendimento de campo](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
