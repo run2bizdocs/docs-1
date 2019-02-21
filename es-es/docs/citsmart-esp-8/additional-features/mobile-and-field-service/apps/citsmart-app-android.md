@@ -499,9 +499,9 @@ que son pasivas de acción.
 Relacionado
 ---------
 
-[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
-[Configurar la opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar la opciones del mobile](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
