@@ -36,6 +36,10 @@ Procedimento
     atividade do ticket). Preencher os dados referentes a execução da
     solicitação e clicar em "Salvar".
     
+    !!! Abstract "REGRA"
+  
+        Não é possível vincular uma IC e base de conhecimento pelo mobile FS.    
+    
 4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 
 5.  Se desejar adicionar alguma nota, clicar na aba "Notas". Relatar a ocorrência referente ao ticket e a data que a mesma ocorreu.         É possível também registrar o tempo gasto para a solução da ocorrência. É disponibilizado a visualização deste relato pelo               solicitante e o envio do mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e "Enviar ao e-mail". Clicar em       "Salvar".
