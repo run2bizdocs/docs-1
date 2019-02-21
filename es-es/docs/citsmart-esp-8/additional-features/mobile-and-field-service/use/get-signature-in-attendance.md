@@ -58,9 +58,9 @@ Procedimiento
 Relacionado
 ----------
 
-[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart SM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Guía del usuario de la aplicación móvil CITSmart ITSM Enterprise (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar las opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
