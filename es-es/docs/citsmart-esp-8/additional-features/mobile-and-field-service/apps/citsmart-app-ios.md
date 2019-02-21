@@ -31,9 +31,7 @@ Antes de empezar
 
 Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
 SM y también Configurar el servidor para uso de la aplicación móvil CITSmart
-SM (ver conocimientos *Manual de configuración del servidor
-CITSmart SM para uso de APPs (iOS y Android)* y *Registro y
-consulta de la configuración de las opciones de móvil*).
+SM (ver documentos *Configurar instancia CITSmart para acceso vía móvil* y *Configurar las opciones del mobile*).
 
 Instalación y configuración del APP en el mobile
 --------------------
@@ -41,7 +39,7 @@ Instalación y configuración del APP en el mobile
 Para instalar el CITSmart SM, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (App Store).
 
-1.  Puedes buscar CITSmart ITSM Enterprise en la App Store, seleccionar y bajar
+1.  Puedes buscar CITSmart SM en la App Store, seleccionar y bajar
     la aplicación ;
 
 2.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
@@ -198,7 +196,7 @@ Utilización del APP en el mobile
     !!! Abstract "ATENCIÓN"
 
         La solicitude registrada por CITSmart SM utiliza servicios que
-        se configuran em CITSmart Enterprise Web.
+        se configuran em CITSmart Web.
 
 
 2.  Se mostrará la pantalla con campos de registro, según las figuras abajo:
