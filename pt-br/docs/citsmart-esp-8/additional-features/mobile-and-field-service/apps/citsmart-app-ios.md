@@ -32,7 +32,7 @@ Antes de começar
 Instalação e configuração do app no mobile
 ------------------------------------------
 
-Para instalar o CITSmart Enterprise, deve ser realizada a busca do
+Para instalar o CITSmart SM, deve ser realizada a busca do
 aplicativo na loja on-line (App Store).
 
 1.  Pesquise por CITSmart SM na App Store, selecione e baixe o
