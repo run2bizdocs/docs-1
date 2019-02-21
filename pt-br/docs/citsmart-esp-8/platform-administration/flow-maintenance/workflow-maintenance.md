@@ -46,13 +46,12 @@ Procedimento
     descrição do fluxo e a opção para permitir a reabertura de um serviço
     independentemente das configurações de grupo.
 
-    !!! danger "ATENÇÃO"
+    !!! tip "ATENÇÃO"
 
-        A opção de reabertura no fluxo pode facilitar os usuários em
-        cenários em que existe muitos serviços onde a reabertura é liberada, ao não
-        ser necessário permitir esta atividade em cada um dos grupos.  
+        A opção de reabertura no fluxo pode ser útil em
+        cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não é necessário utilizar a ação "reopen" na permissão do fluxo.
 
--   A aba “Diagrama” representa uma ferramenta de design de fluxo. Na vertical
+-   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
     desta tela encontra-se a organização dos elementos que compõe a
     funcionalidade de fluxo. Ao clicar em cada um destes elementos, estará
     acessível cada atividade realizada por este elementos, que são:
@@ -172,11 +171,11 @@ Diagrama de um fluxo de trabalho
     representado visualmente como o losango vazio ou com um marcador de “x”) do
     fluxo;
 
--   5 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
-    a conclusão da aprovação da tarefa ou a rejeição da tarefa);
+-   5 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
+    neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).
 
--   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
-    neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).  
+-   6 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
+    a conclusão da aprovação da tarefa ou a rejeição da tarefa);	
 
 !!! tip "About"
 
