@@ -39,8 +39,8 @@ Procedure
 
 1.  When capture a ticket (using mobile), the technician must complete the
     fields available and, when put the ticket with the status "Solved", the
-    field **Signatures** will be enabled so it'll be posible to put the Number
-    of the register, Name and Signature of the validator in field. This
+    field **Signatures** will be enabled so it'll be posible to put the *Number
+    of the register*, *Name* and *Signature* of the validator in field. This
     signature will be done with the finger in the mobile screen;
 
 2.  Click on "Options" and then on "Save and advance flow";
