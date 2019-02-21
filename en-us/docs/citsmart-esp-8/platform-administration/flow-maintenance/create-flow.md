@@ -1,18 +1,18 @@
-title: Criar um fluxo de trabalho
-Description: É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário
-#Criar um fluxo de trabalho
+title: Create workflow
+Description: It's possible to create workflows that best fit to the users' reality
+#Create workflow
 
- É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário, personalizando os cenários de cada organização.
+ It's possible to create workflows that best fit to the users' reality, customizing the scenario of each organization.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar o menu principal Sistema \> Manutenção de fluxo;
+1.  Access the main menu System \> Flow maintenance;
 
-2.  Clicar no botão “Novo’;
+2.  Click on "New";
 
-3.  Na aba “Dados do Fluxo” é necessário preencher os dados obrigatórios: nomear
-    o fluxo (seu identificador interno, deve ser informado sem espaço, acentos e
+3.  In the tab "Flow Data", it's necessary to complete the mandatory data: name the flow
+    (seu identificador interno, deve ser informado sem espaço, acentos e
     caracteres especiais); o processo a que está vinculado (o fluxo estará
     vísivel apenas para o processo a que está vinculado) e a opção para permitir
     a rebertura de um serviço independentemente das configurações de grupo.
