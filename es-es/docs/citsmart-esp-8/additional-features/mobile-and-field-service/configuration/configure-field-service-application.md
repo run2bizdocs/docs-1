@@ -81,7 +81,7 @@ atención.
 Relacionado
 -----------
 
-[Manual de utilización del CITSmart Field Service (FS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilización del CITSmart Field Service (FS)](/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
