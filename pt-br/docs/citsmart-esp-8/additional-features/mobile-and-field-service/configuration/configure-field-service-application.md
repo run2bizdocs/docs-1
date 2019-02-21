@@ -24,7 +24,7 @@ Procedimento
 1. Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
     Operação Webservice;
 
-2.  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
+2.  Na aba **Pesquisa de Operações**, buscar por cada um dos webservices
     abaixo, em seguida em cada um clicar no botão "Adicionar grupo" e incluir
     o(s) grupo(s) que o(s) atendente(s) estão vinculados:
 
@@ -47,6 +47,8 @@ Procedimento
     -   request_updateRequestListGroups
     
     -   request_uploadSignature
+    
+    -   parameter_query
 
 3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
