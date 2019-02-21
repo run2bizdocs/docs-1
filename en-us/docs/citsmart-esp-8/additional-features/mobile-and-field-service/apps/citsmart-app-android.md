@@ -482,7 +482,7 @@ so you automatically receive notifications that are actionable.
 Related
 -------
 
-[Configure instance to use CITSmart FS application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
+[Configure CITSmart instance for mobile access](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
 [Configure mobile options](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
