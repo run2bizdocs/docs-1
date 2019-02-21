@@ -71,7 +71,7 @@ do ambiente. Verificar os tickets e realizar atendimento.
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
