@@ -31,7 +31,7 @@ Antes de empezar
 
 Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
 SM y también Configurar el servidor para uso de la aplicación móvil CITSmart
-SM (ver documentos *Configurar instancia CITSmart para acceso vía móvil* y *Configurar las opciones del mobile*).
+SM (ver documentos relacionados).
 
 Instalación y configuración del APP en el mobile
 --------------------
