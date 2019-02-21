@@ -27,9 +27,9 @@ Procedimento
         O versionamento tem por objetivo preservar o estado do fluxo de trabalho que
         está vinculado a algum serviço, evitando alterações em fluxo produtivo.  
         
-    3.  A opção “Exportar” permite a exportação do fluxo no formato JSON;
+     3.  A opção “Exportar” permite a exportação do fluxo no formato JSON;
 
-    4.  Em “Excluir” é possível remover os fluxos.
+     4.  Em “Excluir” é possível remover os fluxos.
 
     !!! Abstract "NOTA"
 
