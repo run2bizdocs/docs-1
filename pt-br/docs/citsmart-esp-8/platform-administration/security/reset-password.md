@@ -22,9 +22,9 @@ Procedimento
     !!! danger "ATENÇÃO"
 
         Para que o usuário receba as novas informações de acesso é preciso utilizer
-        na mensagem de e-mail a chave ‘\${NOVASENHA}’ (exemplo de chave referente a
+        na mensagem de e-mail a chave ‘${NOVASENHA}’ (exemplo de chave referente a
         “Nova senha”). Adicionalmente, é possível enviar também o login usuário
-        usando a chave ‘\${LOGIN}’ ( exemplo de chave referente a “Login”).  
+        usando a chave ‘${LOGIN}’ ( exemplo de chave referente a “Login”).  
 
 *2° Passo: Setar a parametrização referente ao serviço de alteração de senha*
 
