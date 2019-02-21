@@ -64,7 +64,7 @@ Relacionado
 
 [Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"
