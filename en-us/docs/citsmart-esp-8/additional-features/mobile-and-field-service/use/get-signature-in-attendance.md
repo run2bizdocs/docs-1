@@ -1,8 +1,8 @@
 title: Get signature in field service
-Description: This document aims to explain the configuration of CITSmat mobile to receive digital signature in field service.
+Description: This document aims to explain the configuration of CITSmart mobile to receive digital signature in field service.
 #Get signature in field service
 
-This document aims to explain the configuration of CITSmat mobile so that the
+This document aims to explain the configuration of CITSmart mobile (SM and FS) so that the
 technician receives the digital signature of a validator in field service.
 
 Before getting started
