@@ -1,6 +1,6 @@
-title: CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and Android)
+title: Configure instance to use CITSmart FS application
 Description: Intended to provide guidance for configuring the server for using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
-#CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and Android)
+#CConfigure instance to use CITSmart FS application
 
 This document is intended to provide guidance for configuring the server for
 using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
@@ -205,9 +205,9 @@ Related
 
 [Cofigure parametrization - system](/en-us/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (IOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configure mobile options](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
