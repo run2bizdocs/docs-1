@@ -51,6 +51,7 @@ Procedimento
 
 8. Após o desenho do fluxo e suas configurações, clicar em "Gravar".
 
+![Diagrama do Fluxo](images/flow-diagram.png)
 
 !!! tip "About"
 

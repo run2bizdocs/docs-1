@@ -36,7 +36,7 @@ Procedimento
     Selecionar a situação do atendimento (em andamento, resolvida ou cancelada)
     e o detalhar da mesma;
 
-7.  Clicar em "Coletar Assinatura e Avançar o Fluxo" ou "Gravar e manter tarefa atual" para
+7.  Clicar em "Coletar Assinatura e Avançar o Fluxo" (ver documento relacionado) ou "Gravar e manter tarefa atual" para
     completar a operação. Serão então automaticamente sincronizadas as
     alterações. Se o aplicativo não encontrar a rede para completar a
     sincronização, será apresentado o ícone “Atualização automática” para
@@ -52,7 +52,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar aplicativo CITSmart Field Service](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+[Configurar instância para uso do aplicativo CITSmart FS](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Obter assinatura em atendimento de campo](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
