@@ -1,182 +1,127 @@
-title: Generar informes por panel de gráficos e informes - solicitud e incidente
-Description: Se abordarán cómo generar gráficos e informes para los cambios.
-#Generar informes por panel de gráficos e informes - solicitud e incidente
-Se tratan los siguientes temas sobre cómo generar gráficos e informes para
-incidentes y solicitudes.
+title: Generar informes por el panel de gráficos e informes – cambios 
+Description: cómo generar gráficos e informes para los cambios.
+#Generar informes por el panel de gráficos e informes – cambios
 
-En todos los casos, hay varias formas de visualizar los informes a través de
-cuatro iconos:
+Los siguientes temas se abordarán sobre cómo generar gráficos e informes para los cambios.
+En todos los casos, hay varias formas de visualizar los informes a través de cuatro iconos:
+•	Para generar una tabla con informaciones, hacer clic en el icono “Tabla” ;
+•	Para presentar las opciones de los gráficos, hacer clic en el icono "Gráficos" y seleccionar la forma del gráfico que quieras;
+•	Para generar un informe en PDF, hacer clic en el icono "Download documento PDF”;
+•	Para generar un informe en Excel, hacer clic en el icono "Download documento XLS".
 
--   Para generar una tabla con información, haga clic en el icono "Tabla";
+Generar infomres de impactos de los cambios (RFC x EC)
+------------------------------------------------------
 
--   Para ver las opciones de gráficos, haga clic en el icono "Gráficos" y seleccionar la
-    forma del gráfico deseado;
+Este informe ofrece al usuario la posibilidad de verificar los ECs usados en
+determinado cambio y cómo son afectados.
 
--   Para generar un informe en formato PDF, haga clic en el icono "Download documento PDF";
+1.  Acceder al menú principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
 
--   Para generar un informe en formato Excel, haga clic en el icono "Download documento XLS".
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Cambios";
 
-Generar informes de monitoreo de incidentes
----------
+3.  Hacer clic en el informe "Impactos de los Cambios (RFC x IC)";
 
-Este informe permite ver la información sobre el monitoreo de incidentes en
-forma de gráficos.
+4.  Definir los filtros según sus necesidades y hacer clic en "Crear";
 
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Haga clic en el informe "Monitoramiento de incidentes";
-
-4.  Definir los filtros conforme la necesidad y hacer clic en "Generar";
-
-5.  Se mostrarán los gráficos de incidentes de acuerdo con los filtros
+5.  Se presentará el informe de impacto de los cambios según los filtros
     definidos.
 
-Generar informes de monitoreo de solicitudes
------------------
+Generar informes de actualizaciones del EC no autorizadas
+---------------------------------------------------------
 
-Este informe permite ver la información sobre el monitoreo de solicitudes de
-servicio en forma de gráficos.
+Este informe ofrece al usuario la posibilidad de verificar los EC que no fueron
+autorizados para la realización de actualizaciones.
 
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
+1.  Acceder al menú principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
 
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Cambios";
 
-3.  Haga clic en el informe "Monitoramiento de requerimientos";
+3.  Hacer clic en el informe "Actualizaciones de IC no autorizadas";
 
-4.  Definir los filtros conforme la necesidad y hacer clic en "Generar";
+4.  Definir los filtros según sus necesidades y hacer clic en "Crear";
 
-5.  Se mostrarán los gráficos de incidentes de acuerdo con los filtros
-    definidos.
-
-Generar informes en relación con el desempeño en la captura de incidentes y solicitudes (cerradas)
---------------
-
-Este informe permite ver la información relativa al rendimiento de la ejecución
-de los incidentes, en forma de lista.
-
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Haga clic en el informe "Desempeño en la captura de incidentes y
-    requerimientos (cerradas)";
-
-4.  Definir los filtros según necesitas y haga clic en "Generar";
-
-5.  Se mostrarán los informes de acuerdo con los filtros definidos.
-
-6.  Recordar que el informe de "Captura de incidentes y solicitudes" muestra el
-    tiempo de captura de las solicitudes cerradas. El tiempo de captura es el
-    tiempo transcurrido entre el inicio del SLA y la ejecución de la primera
-    tarea que contabiliza SLA;
-
-7.  El informe "Desempeño en la captura de incidentes y requerimientos" muestra
-    un cuadro resumen con el porcentaje de solicitudes capturadas en el plazo
-    por prioridad.
-
-Generar informes acerca de la cualidade de atención y SLA
------------
-
-Este informe permite verificar la calidad de la atención y SLA de los incidentes
-y requisiciones.
-
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Hacer clic en el informe "Cualidade de atendimento y SLA";
-
-4.  Definir los filtros según necesitas y haga clic en "Generar";
-
-5.  Se mostrarán los informes de acuerdo con los filtros definidos.
-
-Generar informes acerca del control SLA
------------
-
-Este informe permite comprobar la información de SLA de incidentes y solicitudes
-en forma de gráfico.
-
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Haga clic en el informe "Control SLA";
-
-4.  Definir los filtros según necesitas y haga clic en "Generar";
-
-5.  Se mostrará el gráfico de control SLA de acuerdo con los filtros definidos.
-
-Generar informes cuantitativos por horario de apertura
----------
-
-Este informe permite comprobar la cantidad de solicitudes registradas por el
-horario de apertura.
-
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Haga clic en el informe "Cuantitativos por Horario de Apertura";
-
-4.  Definir los filtros según necesitas y haga clic en "Generar";
-
-5.  Se mostrará el gráfico de acuerdo con los filtros definidos.
-
-Generar informes acerca de encuestas de satisfacción de atención (incidentes y solicitudes)
------------------------
-
-Este informe permite comprobar la información de encuesta de satisfacción.
-
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
-
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
-
-3.  Haga clic en el informe "Consulta de Satisfacción sobre Atendimentos
-    (Incidentes y Requerimientos);
-
-4.  Definir los filtros según necesitas y haga clic en "Generar";
-
-5.  Se mostrará el gráfico de encuesta de satisfacción de acuerdo con los
+5.  Se mostrará el informe de actualizaciones del EC no autorizadas, según los
     filtros definidos.
 
-Generar informes acerca de las solicitudes de productos y servicios
-------------------------
+Generar informes de solicitud de cambio por impacto
+---------------------------------------------------
 
-Este informe permite comprobar la información de solicitudes de productos y
-servicios
+Este informe ofrece al usuario la posibilidad de verificar, en formato de
+gráfico, las solicitudes de cambio por su impacto (alto, medio y bajo).
 
-1.  Acceder la funcionalidad por el menú principal Informes \> Gestión de
-    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
+1.  Acceder al menú principal Informes \> Gestión de Incidentes/Requerimientos
+    \> Gráficos e Informes (Panel);
 
-2.  En el campo "Grupo de Información", seleccionar la opción "Incidentes y
-    Requerimientos";
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Solicitud de
+    Cambio";
 
-3.  Haga clic en el informe "Las Solicitudes de Productos y Servicios";
+3.  Hacer clic en el informe "Cambios x Impacto";
 
-4.  Definir los filtros según necesitas y haga clic en "Generar";
+4.  Definir los filtros según sus necesidades y  hacer clic en "Crear";
 
-5.  Se mostrará el informe de solicitudes de productos y servicios de acuerdo
-    con los filtros definidos.
+5.  Se mostrará el gráfico de solicitud de cambio por impacto, según los filtros
+    definidos.
 
+Generar informes de solicitud de cambio por SLA
+-----------------------------------------------
 
+Este informe ofrece al usuario la posibilidad de verificar, en formato de
+gráfico, las solicitudes de cambio por su acuerdo de nivel de servicio.
 
+1.  Acceder al menú principal Informes \> Gestión de Incidentes/Requerimientos
+    \> Gráficos e Informes (Panel);
+
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Solicitud de
+    Cambio";
+
+3.  Hacer clic en el informe "Cambios x SLA";
+
+4.  Definir los filtros según sus necesidades y hacer clic en "Crear";
+
+5.  Se mostrará el gráfico de solicitud de cambio por SLA, según los filtros
+    definidos;
+
+Generar los informes de solicitud de cambio por riesgo
+------------------------------------------------------
+
+Este informe ofrece al usuario la posibilidad de verificar, en formato de
+gráfico, las solicitudes de cambio por el riesgo que ofrece al negocio.
+
+1.  Acceder al menú principal Informes \> Gestión de Incidentes/Requerimientos
+    \> Gráficos e Informes (Panel);
+
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Solicitud de
+    Cambio";
+
+3.  Hacer clic en el informe "Cambios x Riesgos";
+
+4.  Definir los filtros según sus necesidades y hacer clic en "Crear";
+
+5.  Se mostrará el gráfico de solicitud de cambio por riesgo, según los filtros
+    definidos.
+
+Generar informes de solicitud de cambio por servicio
+----------------------------------------------------
+
+Este informe ofrece al usuario la posibilidad de verificar, en formato de
+gráfico, las solicitudes de cambio creadas por servicio.
+
+1.  Acceder al menú principal Informes \> Gestión de
+    Incidentes/Requerimientos \> Gráficos e Informes (Panel);
+
+2.  En el campo "Grupo de Informaciones", seleccionar la opción "Solicitud de
+    Cambio";
+
+3.  Hacer clic en el informe "Cambios x Servicio";
+
+4.  Definir los filtros según sus necesidades y hacer clic en "Crear";
+
+5.  Se mostrará el gráfico de solicitud de cambio por servicio, según los
+    filtros definidos.
+    
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/24/2019 – Anna Martins
+    <b>Updated:</b>01/24/2019 – Larissa Lourenço
