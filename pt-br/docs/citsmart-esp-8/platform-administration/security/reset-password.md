@@ -11,7 +11,7 @@ A alternativa de alteração de senha do usuário é uma das possiblidades liber
 Antes de começar
 ----------------
 
-É necessário previamente a configuração de envo de e-mail válido (smtp), uma vez
+É necessário previamente realizar a configuração de envio de e-mail válido (smtp), uma vez
 que o envio da senha é feito via e-mail.
 
 Procedimento
@@ -25,7 +25,7 @@ Procedimento
 
     !!! danger "ATENÇÃO"
 
-        Para que o usuário receba as novas informações de acesso é preciso utilizer
+        Para que o usuário receba as novas informações de acesso é preciso utilizar
         na mensagem de e-mail a chave ‘${NOVASENHA}’ (exemplo de chave referente a
         “Nova senha”). Adicionalmente, é possível enviar também o login usuário
         usando a chave ‘${LOGIN}’ ( exemplo de chave referente a “Login”).  
