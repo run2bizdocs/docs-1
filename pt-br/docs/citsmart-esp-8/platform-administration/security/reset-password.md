@@ -4,6 +4,10 @@ Description: A alteração de senha do usuário é uma das possiblidades permiti
 
 A alternativa de alteração de senha do usuário é uma das possiblidades liberadas pelo sistema. Para configurar esta opção é necessário seguir os procedimentos aqui descritos.
 
+!!! danger "ATENÇÃO"
+
+    Esta opção está disponível apenas para autenticação de contas manuais.
+
 Antes de começar
 ----------------
 

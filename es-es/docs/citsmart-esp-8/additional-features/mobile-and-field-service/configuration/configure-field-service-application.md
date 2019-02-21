@@ -54,6 +54,8 @@ Procedimiento
     -   request_updateRequestListGroups
     
     -   request_uploadSignature
+    
+    -   parameter_query
 
 3.  Hacer clic en "Guardar" después de configurar los grupos en cada webservice.
 
