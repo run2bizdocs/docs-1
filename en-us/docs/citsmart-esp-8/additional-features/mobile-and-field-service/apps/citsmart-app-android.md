@@ -61,7 +61,7 @@ searched in the Google online store.
 
     ![create conecction](images/android-app-1.png)
 
-    Figure 1 - CITSmart Enterprise (Android mobile from Play Store) screen -
+    Figure 1 - CITSmart SM (Android mobile from Play Store) screen -
     Create connection
 
 5.  The connections screen will be displayed, press the “New connection” icon ,
@@ -104,7 +104,7 @@ searched in the Google online store.
 
     ![login screen](images/android-app-4.png)
 
-    Figure 4 - CITSmart Enterprise (Android mobile from Play Store) login screen
+    Figure 4 - CITSmart SM (Android mobile from Play Store) login screen
 
 Using the app on the mobile (smartphone)
 ----------------------------------------
