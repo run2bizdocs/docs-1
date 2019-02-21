@@ -25,7 +25,7 @@ The parameters 254 (system parametrization), 255, 256, 258, 267, 284, 285, 286,
 Configuring web services
 ------------------------
 
-Configure CITSmart Enterprise Web Services to access the functionality of the
+Configure CITSmart Web Services to access the functionality of the
 CITSmart SM application.
 
 1.  On CITSmart SM Web, access the Web Services feature for the mobile
