@@ -1,6 +1,6 @@
 title: Búsqueda avanzada de problemas
 Description: Permite buscar los problemas ocurridos de acuerdo con los filtros definidos por el usuario.
-#Pesquisa avançada de problemas
+#Búsqueda avanzada de problemas
 
 Esta funcionalidad tiene por objetivo buscar los problemas ocurridos de acuerdo con los filtros definidos por el usuario.
 
