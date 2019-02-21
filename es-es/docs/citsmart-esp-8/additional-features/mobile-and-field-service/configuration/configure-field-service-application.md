@@ -1,6 +1,6 @@
-title: Configurar aplicación CITSmart Field Service
+title: Configurar instancia para utilizar la aplicación CITSmart FS
 Description: La aplicación CITSmart FS permite atender en modo offline - en las que el operador no tiene internet.
-#Configurar aplicación CITSmart Field Service
+#Configurar instancia para utilizar la aplicación CITSmart FS
 
 La aplicación CITSmart FS permite atender en modo offline - en las que el
 operador no tiene internet. Una vez que la aplicación se conecta a Internet,
@@ -46,6 +46,14 @@ Procedimiento
     -   request_uploadAttachment
 
     -   request_getByUser
+    
+    -   request_saveRequestNote
+    
+    -   request_updateRequestNoteList
+    
+    -   request_updateRequestListGroups
+    
+    -   request_uploadSignature
 
 3.  Hacer clic en "Guardar" después de configurar los grupos en cada webservice.
 
@@ -73,7 +81,7 @@ atención.
 Relacionado
 -----------
 
-[Manual de utilización del CITSmart Field Service](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilización del CITSmart Field Service (FS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
