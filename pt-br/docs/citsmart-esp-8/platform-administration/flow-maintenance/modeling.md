@@ -4,7 +4,7 @@ Title: Modelando
 
 A modelagem de fluxo de trabalho compreende as atividades de entendimento e desenho dos processos, que pode ser realizado utilizando metodologias e melhores práticas de trabalho, como por exemplo o BPMN. 
 
-A funcionalidade de fluxo foi construída trazendo elementos, que por essência, são semelhantes aos da notação BPMN, isto facilita na contrução e entendimento dos fluxos. Além disso, é possível importar projetos no padrão BPMN.
+A funcionalidade de fluxo foi construída trazendo elementos, que por essência, são semelhantes aos da notação BPMN, isto facilita na contrução e entendimento dos fluxos.
 
 ## Relacionados
 
