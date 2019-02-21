@@ -36,12 +36,11 @@ Procedimento
     ao fluxo na aba “Base de conhecimento” e implementar funcionalidades no
     fluxo sobre a atividade ao clicar na aba “Interface”;
 
-    !!! Abstract "ATENÇÃO"
+    !!! warning "ATENÇÃO"
 
         A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão – questionário ou formulario neuro) que será aplicada na solicitação
-        de serviço e vincular um template de solicitação de serviço previamente
-        cadastrada. Porém, caso não ocorra a vinculação de nenhum template de
+        padrão, questionário ou formulario neuro) que será aplicado ao serviço.
+        Porém, caso não ocorra a vinculação de nenhum template de
         solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
         configurações de um formulário padrão, habilitado a vinculação de item de
         configuração, mudança, problema e solicitação relacionado ao ticket na tela
