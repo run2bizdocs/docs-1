@@ -46,7 +46,7 @@ Procedimento
     descrição do fluxo e a opção para permitir a reabertura de um serviço
     independentemente das configurações de grupo.
 
-    !!! tip "ATENÇÃO"
+    !!! tip "DICA"
 
         A opção de reabertura no fluxo pode ser útil em
         cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não é necessário utilizar a ação "reopen" na permissão do fluxo.
