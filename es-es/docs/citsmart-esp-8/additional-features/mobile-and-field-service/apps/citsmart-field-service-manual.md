@@ -27,30 +27,36 @@ Procedimiento
 3.  Hacer clic en "Ejecutar solicitud" y luego "Otras informaciones" (sólo está
     disponible si existe un cuestionario vinculado a la actividad del ticket).
     Completar los datos referentes a la ejecución de la solicitud, si se desea
-    añadir algún archivo, hacer clic en la pestaña "Adjuntos";
+    añadir algún archivo;
+    
+4.  Hacer clic en la pestaña "Adjuntos";
 
-4.  Hacer clic en "Finalizar" y completar los datos sobre la terminación de la
+5.  Hacer clic en "Notas" e informe la ocurrencia referente al ticket y la fecha que se la sucedió. Es posible también registrar             el tiempo gastado para la solución de la ocurrencia. Se pone a disposición la visualización de este relato por el solicitante y el       envío del mismo al correo electrónico al seleccionar las opciones "Vísible al solicitante" y "Enviar al correo electrónico". Hacer       clic en "Guardar";
+
+6.  Hacer clic en "Finalizar" y completar los datos sobre la terminación de la
     atención. Seleccionar la situación de la atención (en curso, resuelta o
     cancelada) y los detalles;
 
-5.  Hacer clic en "Guardar y Avanzar el Flujo" o "Guardar y mantener la tarea
+7.  Hacer clic en "Recoger firma y Avanzar el Flujo" o "Guardar y mantener la tarea
     actual" para completar la operación. Se sincronizará automáticamente los
     cambios. Si la aplicación no encuentra la red para completar la
     sincronización, aparecerá el icono  para esperar acceder a la red y después
     completar la sincronización;
 
-6.  Está disponible la sincronización manual de las solicitudes tan pronto la
+8.  Está disponible la sincronización manual de las solicitudes tan pronto la
     aplicación encuentre una red accesible. Para ello, simplemente deslice la
-    pantalla hacia abajo con el dedo o haga clic en el icono ;
+    pantalla hacia abajo con el dedo o haga clic en el icono;
 
-7.  Hay filtros que facilitan la localización del ticket necesario, se lo acceda
-    por el cuadro de búsqueda o haga clic en el icono  .
+9.  Hay filtros que facilitan la localización del ticket necesario, se lo acceda
+    por el cuadro de búsqueda o haga clic en el icono.
 
 
 Relacionado
 -----------
 
 [Configurar instancia para utilizar la aplicación CITSmart FS](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+
+[Obtener signatura en atención de campo](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 !!! tip "About"
 
