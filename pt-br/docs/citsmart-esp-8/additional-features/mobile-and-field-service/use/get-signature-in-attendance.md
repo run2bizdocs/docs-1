@@ -51,7 +51,7 @@ Procedimento
 
 3.  O ticket não aparecerá mais na listagem do técnico;
 
-4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na pesquisa avançada (menu lateral     da tela de listagem de tickets)e ao abrir poderá visualizar assinatura colhida também.
+4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na *pesquisa avançada* (menu lateral     da tela de listagem de tickets) e ao abrir poderá visualizar assinatura colhida também.
 
 Relacionado
 ----------
