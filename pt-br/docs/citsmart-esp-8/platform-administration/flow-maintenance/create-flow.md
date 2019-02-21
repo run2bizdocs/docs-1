@@ -16,20 +16,20 @@ Procedimento
     caracteres especiais); o processo a que está vinculado (o fluxo estará
     vísivel apenas para o processo a que está vinculado) e a opção para permitir
     a rebertura de um serviço independentemente das configurações de grupo.
-    Também é possível visualizar qual a versão o fluxo se encontra.
+    Também é possível visualizar qual a versão o fluxo se encontra. [Ver mais informações][1].
 
-    !!! Abstract "ATENÇÃO"
-
-        A opção de reabertura no fluxo pode ser útil em cenários em que existem muitos 
-        serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir
-        reaberutra" não é necessário utilizar a ação "reopen" na permissão do fluxo. 
-
-3.  Na aba “Diagrama” é permitido desenhar o fluxo desejado ao inserir os
+3.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
     elementos que representam o cenário pretendido. Para tanto, basta clicar no
     elemento e arrastá-lo para a área de desenho. Ao fazer isso, será exibida
-    uma tela para definir as propriedades;
+    uma tela para definir as propriedades. Devemos levar em consideração que sempre
+    um fluxo começa com o elemento "Evento Início" e termina com o elemento "Evento Fim".
 
-4.  As propriedas de um elemento da mesma forma pode ser definida ao clicar duas
+    !!! tip "IMPORTANTE"
+        Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
+        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
+		É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+
+4.  As propriedas de um elemento da mesma forma podem ser definidas ao clicar duas
     vezes no elemento e em seguida no ícone apresentado ao lado do mesmo. Defina
     os dados desta propriedade ao informar os dados necessários em cada uma das
     abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
@@ -65,3 +65,5 @@ Relacionado
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
+[1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
+[2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
