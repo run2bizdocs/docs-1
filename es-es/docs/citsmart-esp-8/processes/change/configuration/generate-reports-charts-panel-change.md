@@ -4,17 +4,17 @@ Description: cómo generar gráficos e informes para los cambios.
 
 Los siguientes temas se abordarán sobre cómo generar gráficos e informes para los cambios.  
 En todos los casos, hay varias formas de visualizar los informes a través de
-cuatro iconos:
+cuatro iconos:  
 
--   Para generar una tabla con informaciones, hacer clic en el icono “Tabla” ;
+    -   Para generar una tabla con informaciones, hacer clic en el icono “Tabla” ;
 
--   Para presentar las opciones de los gráficos, hacer clic en el
+    -   Para presentar las opciones de los gráficos, hacer clic en el
     icono "Gráficos" y seleccionar la forma del gráfico que quieras;
 
--   Para generar un informe en PDF, hacer clic en el icono "Download documento
+    -   Para generar un informe en PDF, hacer clic en el icono "Download documento
     PDF”;
 
--   Para generar un informe en Excel, hacer clic en el icono "Download documento
+    -   Para generar un informe en Excel, hacer clic en el icono "Download documento
     XLS".
 
 Generar infomres de impactos de los cambios (RFC x EC)
