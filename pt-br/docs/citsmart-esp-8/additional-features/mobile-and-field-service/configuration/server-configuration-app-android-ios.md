@@ -15,7 +15,7 @@ Antes de começar
 -   Caso o valor do parâmetro seja “N”, poderão ser mostradas as notificações de
     todas as solicitações.
 
-Os parâmetros 254 (parametrização de Sistema), 255, 256, 258, 267, 284, 285,
+Os parâmetros 254 (Parametrização > Sistema), 255, 256, 258, 267, 284, 285,
 286, 350 também devem ser configurados.
 
 Configurando os web services
