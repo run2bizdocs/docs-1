@@ -50,7 +50,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar instancia para utilizar la aplicación CITSmart FS](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/configure-field-service-application.html)
+[Configurar instancia para utilizar la aplicación CITSmart FS](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 !!! tip "About"
 
