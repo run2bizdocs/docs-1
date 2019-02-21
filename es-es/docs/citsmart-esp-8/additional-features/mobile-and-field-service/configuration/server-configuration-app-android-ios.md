@@ -210,9 +210,9 @@ Relacionado
 
 [Configurar parametrización - sistema](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart SM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.htm)
 
-[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar las opciones del mobile](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
