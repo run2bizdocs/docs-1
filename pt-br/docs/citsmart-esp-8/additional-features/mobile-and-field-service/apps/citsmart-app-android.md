@@ -51,7 +51,7 @@ Instalação e configuração do app no celular (smartphone)
 Para instalar o CITSmart SM mobile, deve ser realizada a busca do
 aplicativo na loja on-line (Google Play).
 
-1.  Pesquise por CITSmart Enterprise e após a pesquisa, selecione o aplicativo;
+1.  Pesquise por CITSmart SM e após a pesquisa, selecione o aplicativo;
 
 2.  Pressione o botão "Instalar" para baixar o aplicativo;
 
@@ -163,7 +163,7 @@ realizar demais ações, que serão explicadas adiante.
 
         Para que a funcionalidade de busca funcione, é necessário configurar o web
         service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-        de Operação Web Service” no CITSmart SM Web.  
+        de Operação Web Service” no CITSmart Web.  
 
 7.  Em cada solicitação é apresentado um símbolo com a cor que representa sua
     situação, sendo:
