@@ -2,7 +2,7 @@ title: Obtener signatura en atención de campo
 Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
 #Obtener signatura en atención de campo
 
-Este documento tiene por objetivo explicar sobre la configuración del CITSmat
+Este documento tiene por objetivo explicar sobre la configuración del CITSmart (FS y SM)
 mobile para que el técnico reciba la firma digital de un validador en atención
 de campo.
 
@@ -42,8 +42,8 @@ Procedimiento
 
 1.  Al capturar un ticket (usando el mobile), el técnico debe completar los
     campos disponibles y, al poner el ticket con status de "Resuelto", el campo
-    de **Signaturas** quedará activo para que se pueda poner el Número del
-    registro, nombre y la signatura del validador en campo. Esta signatura será
+    de **Signaturas** quedará activo para que se pueda poner el *Número del
+    registro*, *nombre* y la *signatura* del validador en campo. Esta signatura será
     hecha con el dedo en la pantalla del mobile;
 
 2.  Hacer clic en "Opciones" y después en "Guardar y avanzar flujo";
