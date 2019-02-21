@@ -17,19 +17,19 @@ Procedimento
 2.  É apresentada a tela inicial da funcionalidade. A seguintes atividades estão
     disponibilizadas aqui:
 
-    1.  Podemos buscar os fluxos previamente cadastradas ao clicar em “Filtros
+    -  Podemos buscar os fluxos previamente cadastradas ao clicar em “Filtros
         avançados” e preencher os dados;
 
-    2.  No botão “Editar” poderá existir várias versões do mesmo fluxo;
+    -  No botão “Editar” poderá existir várias versões do mesmo fluxo;
 
     !!! Abstract "NOTA"
 
         O versionamento tem por objetivo preservar o estado do fluxo de trabalho que
         está vinculado a algum serviço, evitando alterações em fluxo produtivo.  
         
-     3.  A opção “Exportar” permite a exportação do fluxo no formato JSON;
+     -  A opção “Exportar” permite a exportação do fluxo no formato JSON;
 
-     4.  Em “Excluir” é possível remover os fluxos.
+     -  Em “Excluir” é possível remover os fluxos.
 
     !!! Abstract "NOTA"
 
@@ -173,7 +173,7 @@ Diagrama de um fluxo de trabalho
     fluxo;
 
 -   5 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
-    a conclusão da aprovação da tarefa ou a reijeição da tarefa);
+    a conclusão da aprovação da tarefa ou a rejeição da tarefa);
 
 -   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
     neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).  
