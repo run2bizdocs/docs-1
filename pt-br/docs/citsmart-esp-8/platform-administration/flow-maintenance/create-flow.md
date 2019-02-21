@@ -20,9 +20,9 @@ Procedimento
 
     !!! Abstract "ATENÇÃO"
 
-        A opção de reabertura no fluxo pode facilitar os usuários em cenários em que
-        existe muitos serviços onde a reabertura é liberada, ao não ser necessário
-        permitir esta atividade em cada um dos grupos.  
+        A opção de reabertura no fluxo pode ser útil em cenários em que existem muitos 
+        serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir
+        reaberutra" não é necessário utilizar a ação "reopen" na permissão do fluxo. 
 
 3.  Na aba “Diagrama” é permitido desenhar o fluxo desejado ao inserir os
     elementos que representam o cenário pretendido. Para tanto, basta clicar no
