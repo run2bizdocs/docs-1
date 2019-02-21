@@ -47,16 +47,14 @@ Procedure
 
 3.  The ticket will not appear anymore in the technician list.
 
-4.  The attendant/manager will see in his/her request list (at CITSmart), the
-    ticket attended by the technician (via mobile) with the status "Solved" and
-    when openning it, it'll see the signature gathered.
+4.  The attendant / administrator will only see the request answered by the technician, when searching for the same in the *advanced         search* (side menu of the ticket listing screen) and when you open you can see the signature also collected.
 
 Related
 ------
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configure mobile options](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
