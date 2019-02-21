@@ -1,11 +1,11 @@
 title: Manual de utilização do aplicativo mobile CITSmart SM (Android)
-Description: Fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo CITSmart Enterprise Mobile.
+Description: Fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo CITSmart SM Mobile.
 #Manual de utilização do aplicativo mobile CITSmart SM (Android)
 
 Este documento tem o propósito de fornecer orientações necessárias para
-instalar, configurar e utilizar o aplicativo CITSmart Enterprise Mobile.
+instalar, configurar e utilizar o aplicativo CITSmart SM Mobile.
 
-O CITSmart Enterprise Mobile oferece vários recursos, sendo:
+O CITSmart SM Mobile oferece vários recursos, sendo:
 
 1.  Facilidade no atendimento e ter um direcionamento de onde a solicitação está
     localizada;
@@ -42,13 +42,13 @@ Antes de começar
 ----------------
 
 1.  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
-    Enterprise Mobile e também Configurar o servidor para uso do aplicativo
-    mobile CITSmart Enterprise Mobile (ver Relacionados).
+    SM mobile e também Configurar o servidor para uso do aplicativo
+    mobile CITSmart SM mobile (ver Relacionados).
 
 Instalação e configuração do app no celular (smartphone)
 ---------------------------------------------------------
 
-Para instalar o CITSmart Enterprise Mobile, deve ser realizada a busca do
+Para instalar o CITSmart SM mobile, deve ser realizada a busca do
 aplicativo na loja on-line (Google Play).
 
 1.  Pesquise por CITSmart Enterprise e após a pesquisa, selecione o aplicativo;
@@ -56,7 +56,7 @@ aplicativo na loja on-line (Google Play).
 2.  Pressione o botão "Instalar" para baixar o aplicativo;
 
 3.  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart
-    Enterprise Mobile;
+    SM mobile;
 
 4.  Para criar uma conexão, pressione o ícone com formato de chave, localizado
     no canto direito superior da tela;
@@ -83,7 +83,7 @@ aplicativo na loja on-line (Google Play).
        +  **Nome**: informe o nome da conexão que deseja conectar;
 
        +  **URL do servidor**: informe o endereço do servidor para conexão. Deve
-        ser colocado o protocolo (http) na URL;
+          ser colocado o protocolo (http) na URL;
 
        +  **Usuário**: informe o nome de usuário;
 
@@ -163,7 +163,7 @@ realizar demais ações, que serão explicadas adiante.
 
         Para que a funcionalidade de busca funcione, é necessário configurar o web
         service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-        de Operação Web Service” no CITSmart Enterprise Web.  
+        de Operação Web Service” no CITSmart SM Web.  
 
 7.  Em cada solicitação é apresentado um símbolo com a cor que representa sua
     situação, sendo:
@@ -246,8 +246,8 @@ realizar demais ações, que serão explicadas adiante.
 
     !!! Abstract "ATENÇÃO"
 
-        A solicitação registrada pelo CITSmart Enterprise Mobile utiliza serviços
-        que são configurados no CITSmart Enterprise Web.  
+        A solicitação registrada pelo CITSmart SM Mobile utiliza serviços
+        que são configurados no CITSmart SM Web.  
 
 3.  Informe a descrição da solicitação de serviço e pressione o
     botão "Enviar" para efetuar a operação;
@@ -323,7 +323,7 @@ localização da mesma.
        -   Selecione o contrato e a unidade. Feito isso, pressione o botão "Obter
            Coordenadas" para efetuar a operação;
 
-       -   Será enviado sua latitude e longitude ao servidor (CITSmart Enterprise Web).
+       -   Será enviado sua latitude e longitude ao servidor (CITSmart SM Web).
 
 ##### Atendendo solicitação de serviço
 
@@ -435,7 +435,7 @@ localização da mesma.
 
 ##### Notificações
 
-O aplicativo CITSmart Enterprise Mobile fica rodando em background no celular,
+O aplicativo CITSmart SM mobile fica rodando em background no celular,
 através disso, você recebe automaticamente notificações que são passiveis de
 ação.
 

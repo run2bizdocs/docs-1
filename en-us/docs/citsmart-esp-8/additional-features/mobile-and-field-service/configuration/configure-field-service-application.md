@@ -1,6 +1,6 @@
-title: Configure CITSmart field service application
+title: Configure CITSmart Field Service application (FS)
 Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-#Configure CITSmart field service application
+#Configure CITSmart Field Service (FS) application
 
 
 The CITSmart FS application makes possible make attendance in offline mode - in
@@ -47,6 +47,14 @@ Procedure
     * request_uploadAttachment
 
     * request_getByUser
+    
+    * request_saveRequestNote
+    
+    * request_updateRequestNoteList
+    
+    * request_updateRequestListGroups
+    
+    * request_uploadSignature
 
 1.  Click on "Save" after configure the groups in each webservice.
 
@@ -71,7 +79,7 @@ environment password. Verify the ticket and make the attendance.
 Related
 -------
 
-[CITSmart Field Service manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[CITSmart Field Service (FS) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"

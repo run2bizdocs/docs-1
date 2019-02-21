@@ -5,7 +5,7 @@ Description: Tem o propósito de fornecer orientações necessárias para config
 Antes de começar
 ----------------
 
-É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise, configurar os parâmetros 257 e 272, sendo:
+É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart S, configurar os parâmetros 257 e 272, sendo:
 
 -   Valores: "S" ou "N" Default: "N"
 
@@ -24,17 +24,17 @@ Configurando os web services
 A configuração dos Web services são fundamentais para o acesso a todas as
 funcionalidades do aplicativo. Siga os passos para melhor configurá-lo:
 
-1.  No CITSmart Enterprise (Web), acesse a funcionalidade de Web Services
+1.  No CITSmart SM (Web), acesse a funcionalidade de Web Services
     referente ao mobile (Sistema > Configurações > Web Services Citsmart
     Mobile);
 
 2.  Clique na aba “Vincular Grupos” e vincule o grupo executor de atividades aos
-    Web Services do CITSmart ITSM Mobile.
+    Web Services do CITSmart SM Mobile.
 
 !!! Abstract "Regra"
 
     No momento que o grupo for selecionado ele será vinculado a todos os Web
-    Services do CITSmart ITSM Enterprise de forma automatizada.
+    Services do CITSmart SM de forma automatizada.
 
 Instalação do certificado intermediário globalsign
 --------------------------------------------------
@@ -70,9 +70,9 @@ abaixo:
 ### Instalação do app Android
 
 1.  Acesse o Google Play (Play Store) para abaixar o aplicativo CITSmart
-    Enterprise Mobile;
+    SM mobile;
 
-2.  Pesquise por CITSmart Enterprise e após a pesquisa, selecione o aplicativo;
+2.  Pesquise por CITSmart SM e após a pesquisa, selecione o aplicativo;
 
 3.  Pressione o botão "Instalar" para baixar o aplicativo.
 

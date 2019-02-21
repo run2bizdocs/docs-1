@@ -1,14 +1,14 @@
-title: Configure instance to use CITSmart FS application
+title: Configure CITSmart instance for mobile access
 Description: Intended to provide guidance for configuring the server for using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
-#Configure instance to use CITSmart FS application
+#Configure CITSmart instance for mobile access
 
 This document is intended to provide guidance for configuring the server for
-using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
+using CITSmart SM mobile application (iOS and Android plataform).
 
 Before getting starded
 ----------------------
 
-It’s necessary to have the Deploy CITSmart Enterprise Web in version 7.2.2.0
+It’s necessary to have the Deploy CITSmart Web in version 7.2.2.0
 or higher, setup the parameters 257 and 272 must be:
 
   + Values: "Y" or "N" Default: "N";
@@ -26,18 +26,18 @@ Configuring web services
 ------------------------
 
 Configure CITSmart Enterprise Web Services to access the functionality of the
-CITSmart ITSM Enterprise application.
+CITSmart SM application.
 
-1.  On CITSmart Enterprise Web, access the Web Services feature for the mobile
+1.  On CITSmart SM Web, access the Web Services feature for the mobile
     (System > Settings > Mobile > Citsmart Mobile Web Service);
 
 2.  Click on the "Link Groups" tab and link the activity executing group to the
-    CITSmart ITSM Enterprise Web Services.
+    CITSmart SM Web Services.
 
 !!! Abstract "RULE"
 
-    At the time the group is selected, it will be linked to all CITSmart ITSM
-    Enterprise Web Services in an automated way.  
+    At the time the group is selected, it will be linked to all CITSmart SM
+    Web Services in an automated way.  
 
 Installing globalsign intermediate certificate
 ----------------------------------------------
@@ -70,10 +70,10 @@ Certification Issuer), it must be installed. Follow the procedures below:
 Android app installation
 ------------------------
 
-1.  Go to Google Play (Play Store) to download the Citsmart Enterprise Mobile
+1.  Go to Google Play (Play Store) to download the Citsmart SM Mobile
     application;
 
-2.  Search for Citsmart Enterprise and after the search, select the application;
+2.  Search for CITSMmart SM and after the search, select the application;
 
 3.  Press the “Install” button to download the application.
 

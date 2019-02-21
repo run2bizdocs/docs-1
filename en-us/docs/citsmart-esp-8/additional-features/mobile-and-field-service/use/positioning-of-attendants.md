@@ -24,7 +24,7 @@ Procedure
 Related
 -------
 
-[CITSmart Enterprise ITSM server configuration manual for use of APP (iOS and Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Configure CITSmart instance for mobile access](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
 
 !!! tip "About"
