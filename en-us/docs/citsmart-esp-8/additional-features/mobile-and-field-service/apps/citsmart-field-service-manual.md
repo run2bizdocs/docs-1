@@ -50,7 +50,7 @@ Procedure
 Related
 -------------  
 
-[Configure instance to use CITSmart FS application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.htm)
+[Configure instance to use CITSmart FS application](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Get signature in field service](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
