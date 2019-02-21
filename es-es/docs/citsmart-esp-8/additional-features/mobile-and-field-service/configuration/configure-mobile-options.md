@@ -10,7 +10,7 @@ Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el u
 Antes de empezar
 --------------------
 
-Es necesario instalar previamente la aplicación CITSmart Enterprise ITSM en el
+Es necesario instalar previamente la aplicación CITSmart SM en el
 dispositivo móvil.
 
 Procedimiento
@@ -31,9 +31,9 @@ Procedimiento
 Relacionado
 -----------
 
-[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart SM ](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Guía del usuario de la aplicación móvil CITSmart ITSM Enterprise (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Obtener signatura en atención de campo](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
