@@ -1,4 +1,4 @@
-title: Manual de utilização do aplicativo CITSmart Field Service
+title: Manual de utilização do aplicativo CITSmart Field Service (FS)
 Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
 #Manual de utilização do aplicativo CITSmart Field Service (FS)
 
