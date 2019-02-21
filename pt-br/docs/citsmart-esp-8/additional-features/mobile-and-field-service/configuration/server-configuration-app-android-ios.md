@@ -1,6 +1,6 @@
 title: Configurar instância CITSmart para acesso via mobile
 Description: Tem o propósito de fornecer orientações necessárias para configurar o servidor para o uso adequado do CITSmart ITSM Enterprise na plataforma iOS e Android.
-# CConfigurar instância CITSmart para acesso via mobile
+# Configurar instância CITSmart para acesso via mobile
 
 Antes de começar
 ----------------
