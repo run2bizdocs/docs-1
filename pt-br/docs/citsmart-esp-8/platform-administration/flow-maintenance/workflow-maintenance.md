@@ -170,12 +170,13 @@ Diagrama de um fluxo de trabalho
     de acordo com uma informação a ser testada. Este gateway pode ser
     representado visualmente como o losango vazio ou com um marcador de “x”) do
     fluxo;
+	
+-   5 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
+    a conclusão da aprovação da tarefa ou a rejeição da tarefa);	
 
--   5 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
+-   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
     neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).
 
--   6 – Representa o evento final do fluxo de trabalho (que neste caso significa ou
-    a conclusão da aprovação da tarefa ou a rejeição da tarefa);	
 
 !!! tip "About"
 
