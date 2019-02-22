@@ -3,7 +3,7 @@ Description:
 #Register solution category
 This feature provides a variety of actions, such as including, changing, and deleting the incidents solution categories.
 
-Procedures
+Procedure
 --------------
 
 1.  Access the functionality through the main menu Processes \> Portfolio and
