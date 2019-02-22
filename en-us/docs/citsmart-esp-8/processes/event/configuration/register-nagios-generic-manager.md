@@ -44,7 +44,6 @@ Related
 [Set Inventory connection](/en-us/citsmart-esp-8/processes/event/configuration/set-inventory-connection.html)
 
 
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
