@@ -11,4 +11,4 @@ This functionality is intended to configure the system URL.
     https://127.0.0.1:8080
 	```
 
-3. Save
+3. Save.
