@@ -1,6 +1,6 @@
-title: Configure CITSmart Field Service application (FS)
+title: Configure instance to use CITSmart FS application
 Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-#Configure CITSmart Field Service (FS) application
+#Configure instance to use CITSmart FS application
 
 
 The CITSmart FS application makes possible make attendance in offline mode - in
