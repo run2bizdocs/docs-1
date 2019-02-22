@@ -24,4 +24,4 @@ To test the EVM, [configure][1] the connections in the CITSmart ESP instance.
     <b>Updated:</b>01/22/2019 - João Pelles  
 	
 [1]:/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html  
-[2]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/en-us/citsmart-esp-8/get-started/installation-and-upgrade/perform-installation.html#configure-system-properties
