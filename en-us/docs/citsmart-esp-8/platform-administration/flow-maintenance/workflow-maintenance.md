@@ -133,7 +133,7 @@ Procedure
 Diagram of a workflow
 -------------------------------------    
 
-![Flow Diagram](images/flow-diagram.png)
+![Diagrama do Fluxo](images/flow-diagram.png)
 
 
 -   1 - It represents the workflow start;
