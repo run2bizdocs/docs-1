@@ -82,8 +82,6 @@ Use
 
 - [Manage team with Kanban](/en-us/citsmart-esp-8/processes/tickets/use/manage-a-ticket-with-Kanban.html)
 
-- [Analyze service request trends](/en-us/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
-
 - [Analyze event trends](/en-us/citsmart-esp-8/processes/tickets/use/analyze-event-trends.html)
 
 - [Register ticket source](/en-us/citsmart-esp-8/processes/tickets/use/register-ticket-source.html)
