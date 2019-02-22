@@ -40,13 +40,13 @@ Procedure
     !!! warning "NOTE"
 
         The "Interface" tab allows you to choose which interaction mode (form
-        standard, questionnaire or neuro form) that will be applied to the service.
-        However, if a service request template is not linked to this tab, the system
-        will sub-understand and apply the configurations of a standard form, enabled
+        standard, questionnaire or neuro form) that will be applied to the service. 
+        However, if a service request template is not linked to this tab, the system 
+        will sub-understand and apply the configurations of a standard form, enabled 
         configuration item link, change, problem and request related to the ticket in
         ticket management screen.  
         We can also cite another rule referring to this tab: the regulations here
-        will have priority over the template service request, as this is a complement 
+        will have priority over the template service request, as this is a complement 
         to the flow of.  
 
 5.  Besides, the functionality allows to import flows when click on "Import". It'll be
