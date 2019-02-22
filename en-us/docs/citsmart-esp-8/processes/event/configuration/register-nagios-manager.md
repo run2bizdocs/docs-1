@@ -48,7 +48,7 @@ Related
 
 [Register occurrence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
 [Register Nagios/Zabbix connection](/en/citsmart-esp-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
