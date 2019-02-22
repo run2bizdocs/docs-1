@@ -25,6 +25,7 @@ To test the Inventory, [configure][3] the connections in the CITSmart ESP instan
 ## Related
 
 [Enable CITSmart Event Monitor][4]
+
 [Asset and Configuration Management][5]
 
 [1]:/en-us/citsmart-esp-8/initial-settings/add-ons/event-monitor.html

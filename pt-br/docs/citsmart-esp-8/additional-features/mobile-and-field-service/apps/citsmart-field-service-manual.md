@@ -1,4 +1,4 @@
-title: Manual de utilização do aplicativo CITSmart Field Service
+title: Manual de utilização do aplicativo CITSmart Field Service (FS)
 Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
 #Manual de utilização do aplicativo CITSmart Field Service (FS)
 
@@ -17,6 +17,14 @@ Antes de começar 
 Procedimento
 ------------
 
+!!! Abstract "ATENÇÃO"
+
+    Ao logar no aplicativo CITSmart FS, a primeira sincronização pode demorar
+    alguns instantes, pois para funcionar offline tem que baixar todas as
+    solicitações e enviar as que tiveram mudanças para que o aplicativo funcione
+    corretamente.
+
+
 1.  Informar os dados para login do aplicativo;
 
 2.  Selecionar o ticket desejado e clicar sobre o mesmo. Será apresentado uma
@@ -27,6 +35,10 @@ Procedimento
     (está opção só estará disponível se existir um questionário vinculado a
     atividade do ticket). Preencher os dados referentes a execução da
     solicitação e clicar em "Salvar".
+    
+    !!! Abstract "REGRA"
+  
+        Não é possível vincular uma IC e base de conhecimento pelo mobile FS.    
     
 4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 

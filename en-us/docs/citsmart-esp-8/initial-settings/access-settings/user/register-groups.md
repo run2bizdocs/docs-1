@@ -3,8 +3,11 @@ Description: This functionality registers the groups and links with users, profi
 #Register group
 A group is a set of one or more employees with the same related objectives and its functions.
 The two most common usages for the groups created are:
+
 1.	Automatic notification scheduling based on some specific event/situation;
+
 2.	Security/secrecy management of access to various types of registries (e.g.: knowledge base folders, service portfolios, etc.).
+
 This functionality registers the groups and links with users, profile, contracts and notification e-mails.
 This feature provides a variety of actions, such as including, changing, and deleting a group.
 

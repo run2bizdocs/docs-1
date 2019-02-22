@@ -51,9 +51,7 @@ Procedimento
 
 3.  O ticket não aparecerá mais na listagem do técnico;
 
-4.  O atendente/administrador verá em sua listagem de solicitações (no
-    CITSmart), o ticket atendido pelo técnico (via mobile) com o status
-    “Resolvido” e ao abrir poderá visualizar assinatura colhida também.
+4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na *pesquisa avançada* (menu lateral     da tela de listagem de tickets) e ao abrir poderá visualizar assinatura colhida também.
 
 Relacionado
 ----------
@@ -66,7 +64,7 @@ Relacionado
 
 [Configurar parametrização - ticket](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"

@@ -2,7 +2,7 @@ title: Obtener signatura en atención de campo
 Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
 #Obtener signatura en atención de campo
 
-Este documento tiene por objetivo explicar sobre la configuración del CITSmat
+Este documento tiene por objetivo explicar sobre la configuración del CITSmart (FS y SM)
 mobile para que el técnico reciba la firma digital de un validador en atención
 de campo.
 
@@ -42,25 +42,23 @@ Procedimiento
 
 1.  Al capturar un ticket (usando el mobile), el técnico debe completar los
     campos disponibles y, al poner el ticket con status de "Resuelto", el campo
-    de **Signaturas** quedará activo para que se pueda poner el Número del
-    registro, nombre y la signatura del validador en campo. Esta signatura será
+    de **Signaturas** quedará activo para que se pueda poner el *Número del
+    registro*, *nombre* y la *signatura* del validador en campo. Esta signatura será
     hecha con el dedo en la pantalla del mobile;
 
 2.  Hacer clic en "Opciones" y después en "Guardar y avanzar flujo";
 
 3.  El ticket no aparecerá más en la lista del técnico;
 
-4.  El asistente/administrador verá en su lista de solicitaciones (en CITSmart),
-    el ticket atendido por el técnico (por mobile) con status "Resuelto" y, al
-    abrirla, podrá ver la signatura también colectada.
+4.  El asistente/administrador sólo verá la solicitud atendida por el técnico, cuando busque la misma en la búsqueda avanzada (menú         lateral de la pantalla de lista de tickets) y al abrir podrá ver la firma cosechada también.
     
 
 Relacionado
 ----------
 
-[Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart SM (Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Guía del usuario de la aplicación móvil CITSmart ITSM Enterprise (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar las opciones del móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 

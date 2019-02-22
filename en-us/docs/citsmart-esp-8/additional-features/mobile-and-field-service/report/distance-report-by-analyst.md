@@ -10,7 +10,7 @@ Before getting started
 
 To view the report, it's necessary to import the report available in the section Attachment.
 
-In the Enterprise SM mobile app, the user will set the flag "Available"
+In the CITSmart SM mobile app, the user will set the flag "Available"
 (APP CITSMART \> Home page \> [Connection] \> Edit \> Available ) to start
 the km counting.
 

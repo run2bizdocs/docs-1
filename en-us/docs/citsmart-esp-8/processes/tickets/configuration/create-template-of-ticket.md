@@ -32,11 +32,11 @@ Related
 
 [Register a contract](/en-us/citsmart-esp-8/additional-features/contract-management/use/register-contract.html)
 
-[Register a service](/en-us/site/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
 [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/service-contract-attributes.html)
+[Configure service contract attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
 [Create the portfolio](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 

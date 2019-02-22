@@ -63,7 +63,7 @@ Procedure
 !!! Abstract "NOTE"
 
     To change the password, the user can reset the password in two different
-    ways, see [Register user][1] and [Edit profile user][2].
+    ways, see [Register user][1] and [Edit user account][2].
 
 
 !!! tip "About"

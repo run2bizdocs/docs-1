@@ -24,7 +24,7 @@ Procedimento
 1. Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
     Operação Webservice;
 
-2.  Na aba **Pesquisa de Operações,** buscar por cada um dos webservices
+2.  Na aba **Pesquisa de Operações**, buscar por cada um dos webservices
     abaixo, em seguida em cada um clicar no botão "Adicionar grupo" e incluir
     o(s) grupo(s) que o(s) atendente(s) estão vinculados:
 
@@ -47,6 +47,8 @@ Procedimento
     -   request_updateRequestListGroups
     
     -   request_uploadSignature
+    
+    -   parameter_query
 
 3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
@@ -71,7 +73,7 @@ do ambiente. Verificar os tickets e realizar atendimento.
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/field-service/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 !!! tip "About"
 

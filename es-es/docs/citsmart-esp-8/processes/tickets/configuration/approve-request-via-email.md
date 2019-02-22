@@ -70,7 +70,7 @@ Relacionado
 
 [Registrar usuario](/es-es/citsmart-esp-8/initial-settings/access-settings/user/users.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 [Configurar parametrización - correo eletronico](/es-es/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-email.html)
 

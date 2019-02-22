@@ -46,7 +46,7 @@ Related
 
 [Register occurrence category](/en-us/citsmart-esp-8/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-evente-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/citsmart-esp-8/processes/event/configuration/register-event-monitor-connection.html)
 
 [Register time](/en-us/citsmart-esp-8/processes/event/configuration/register-time.html)
 

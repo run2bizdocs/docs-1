@@ -3,8 +3,8 @@ Description: Tem o propósito de fornecer orientações necessárias para instal
 #Manual de utilização do aplicativo mobile CITSmart SM (iOS)
 
 Este documento tem o propósito de fornecer orientações necessárias para
-instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM
-Enterprise na plataforma iOS.
+instalar, configurar e utilizar o aplicativo mobile CITSmart SM
+na plataforma iOS.
 
 Ele oferece vários recursos, tais como:
 
@@ -27,19 +27,18 @@ Este documento foi estruturado em três seções:
 
 Antes de começar
 ----------------
-É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart Enterprise e também Configurar o servidor para uso do aplicativo mobile CITSmart Enterprise (ver documentos relacionados)
+É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart SM e também Configurar o servidor para uso do aplicativo mobile CITSmart SM (ver documentos relacionados)
 
 Instalação e configuração do app no mobile
 ------------------------------------------
 
-Para instalar o CITSmart Enterprise, deve ser realizada a busca do
+Para instalar o CITSmart SM, deve ser realizada a busca do
 aplicativo na loja on-line (App Store).
 
-1.  Pesquise por CITSmart Enterprise na App Store, selecione e baixe o
+1.  Pesquise por CITSmart SM na App Store, selecione e baixe o
     aplicativo;
 
-2.  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart ITSM
-    Enterprise;
+2.  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart SM;
 
 3.  Para criar uma conexão, pressione o ícone com "Criar conexão", conforme
     indicado na figura abaixo:
@@ -141,7 +140,7 @@ Utilização do app no mobile
 
         Para que a funcionalidade de busca funcione, é necessário configurar o web
         service (notification_buscaNotificacao) correspondente na tela de “Cadastro
-        de Operação Web Service” no CITSmart Enterprise Web.**
+        de Operação Web Service” no CITSmart Web.
 
 6.  Em cada solicitação, quando se clica em cima é apresentado uma listagem de
     opções, sendo:
@@ -177,8 +176,8 @@ Utilização do app no mobile
 
     !!! Abstract "ATENÇÃO"
 
-        A solicitação registrada pelo CITSmart ITSM Enterprise utiliza serviços
-        que são configurados no CITSmart Enterprise Web.
+        A solicitação registrada pelo CITSmart SM utiliza serviços
+        que são configurados no CITSmart Web.
 
 2.  Será apresentada a tela com campos cadastrais, conforme figuras abaixo:
 

@@ -12,7 +12,7 @@ Antes de empezar
 Para que el informe se vea, debe importar el informe
 disponible en la sección de Adjunto.
 
-En la aplicación móvil Enterprise SM, el usuario deberá establecer la flag "Disponible"
+En la aplicación móvil CITSmart SM, el usuario deberá establecer la flag "Disponible"
 (APP CITSMART \> Página de Inicio \> [Conexión] \> Editar \> Disponible ) para
 iniciar el recuento de Km.
 

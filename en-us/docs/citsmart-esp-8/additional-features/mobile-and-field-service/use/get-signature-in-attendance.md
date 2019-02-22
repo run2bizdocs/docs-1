@@ -1,8 +1,8 @@
 title: Get signature in field service
-Description: This document aims to explain the configuration of CITSmat mobile to receive digital signature in field service.
+Description: This document aims to explain the configuration of CITSmart mobile to receive digital signature in field service.
 #Get signature in field service
 
-This document aims to explain the configuration of CITSmat mobile so that the
+This document aims to explain the configuration of CITSmart mobile (SM and FS) so that the
 technician receives the digital signature of a validator in field service.
 
 Before getting started
@@ -47,16 +47,14 @@ Procedure
 
 3.  The ticket will not appear anymore in the technician list.
 
-4.  The attendant/manager will see in his/her request list (at CITSmart), the
-    ticket attended by the technician (via mobile) with the status "Solved" and
-    when openning it, it'll see the signature gathered.
+4.  The attendant / administrator will only see the request answered by the technician, when searching for the same in the *advanced         search* (side menu of the ticket listing screen) and when you open you can see the signature also collected.
 
 Related
 ------
 
-[CITSmart Enterprise ITSM Mobile application user guide (Android)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[CITSmart Enterprise ITSM Mobile application user guide (iOS)](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configure mobile options](/en-us/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 

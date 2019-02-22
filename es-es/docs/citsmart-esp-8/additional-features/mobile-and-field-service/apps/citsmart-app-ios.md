@@ -1,11 +1,11 @@
-title: Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)
+title: Manual de uso de la aplicación móvil CITSmart SM (iOS)
 Description: Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil CITSmart ITSM Enterprise en la plataforma iOS.
-#Guía del usuario de la aplicación móvil CITSmart Enterprise ITSM (iOS)
+#Manual de uso de la aplicación móvil CITSmart SM (iOS)
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-instalar, configurar y utilizar la aplicación móvil CITSmart ITSM
-Enterprise en la plataforma iOS.
+instalar, configurar y utilizar la aplicación móvil CITSmart SM
+en la plataforma iOS.
 
 Ofrece varios recursos, tales como:
 
@@ -29,23 +29,21 @@ Este documento se ha estructurado en tres grandes secciones:
 Antes de empezar
 -----------
 
-Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart Enterprise
-ITSM y también Configurar el servidor para uso de la aplicación móvil CITSmart
-ITSM Enterprise (ver conocimientos *Manual de configuración del servidor
-CITSmart Enterprise ITSM para uso de APPs (iOS y Android)* y *Registro y
-consulta de la configuración de las opciones de móvil*).
+Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
+SM y también Configurar el servidor para uso de la aplicación móvil CITSmart
+SM (ver documentos relacionados).
 
 Instalación y configuración del APP en el mobile
 --------------------
 
-Para instalar el CITSmart ITSM Enterprise, se debe realizar la búsqueda de la
+Para instalar el CITSmart SM, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (App Store).
 
-1.  Puedes buscar CITSmart ITSM Enterprise en la App Store, seleccionar y bajar
+1.  Puedes buscar CITSmart SM en la App Store, seleccionar y bajar
     la aplicación ;
 
 2.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
-    ITSM Enterprise:
+    SM:
 
 3.  Para crear una conexión, presione el icono con "Agregar conexión", como se
     indica en la figura siguiente:
@@ -157,7 +155,7 @@ Utilización del APP en el mobile
 
         Para que la funcionalidad de búsqueda funcione, es necesario configurar el
         web service (notification_buscaNotificación) correspondiente en la pantalla
-        de "Registro de Operación Web Service" en el CITSmart Enterprise Web.
+        de "Registro de Operación Web Service" en el CITSmart Web.
 
 
 6.  En cada solicitud, cuando se hace clic encima se muestra una lista de
@@ -197,8 +195,8 @@ Utilización del APP en el mobile
 
     !!! Abstract "ATENCIÓN"
 
-        La solicitude registrada por CITSmart ITSM Enterprise utiliza servicios que
-        se configuran em CITSmart Enterprise Web.
+        La solicitude registrada por CITSmart SM utiliza servicios que
+        se configuran em CITSmart Web.
 
 
 2.  Se mostrará la pantalla con campos de registro, según las figuras abajo:
@@ -370,7 +368,7 @@ necesario aprobarlas.
 Relacionado
 -------
 
-[Manual de configuración del servidor CITSmart Enterprise para uso de APPs (iOS y Android)](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/apps/server-configuration-app-android-ios.html)
+[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
 [Configurar las opciones del mobile](/es-es/citsmart-esp-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
