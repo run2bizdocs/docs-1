@@ -64,5 +64,5 @@ Related
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
-[2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
+[1]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
+[2]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
