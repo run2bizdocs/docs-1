@@ -18,6 +18,13 @@ Antes de empezar
 Procedimiento
 -----------------
 
+!!! Abstract "ATENCIÓN"
+
+    Al iniciar sesión en la aplicación CITSmart FS, la primera sincronización puede 
+    tardar unos instantes, ya que para funcionar sin conexión tiene que descargar todas 
+    las solicitudes y enviar las que han cambiado para que la aplicación funcione 
+    correctamente.
+
 1.  Informar los datos para acceder a la aplicación;
 
 2.  Seleccionar y hacer clic en un ticket. Se mostrará una pantalla con los
@@ -26,10 +33,20 @@ Procedimiento
 
 3.  Hacer clic en "Ejecutar solicitud" y luego "Otras informaciones" (sólo está
     disponible si existe un cuestionario vinculado a la actividad del ticket).
-    Completar los datos referentes a la ejecución de la solicitud, si se desea
-    añadir algún archivo;
+    Completar los datos referentes a la ejecución de la solicitud y hacer clic en
+    "Guardar";
     
-4.  Hacer clic en la pestaña "Adjuntos";
+    !!! Abstract "ATENCIÓN"
+    
+        Sólo los componentes simples de Neuro, como los formularios, se pueden representar 
+        en el Mobile FS. Estos formularios no pueden tener ninguna lógica de JavaScript vinculada 
+        a ellos, deben ser similares al cuestionario existente en el CITSmart SM.
+        
+    !!! Abstract "REGLA"
+    
+        No es posible vincular un EC a la base de conocimiento por el mobile FS.
+    
+4.  Si quiera adjuntar un adjunto, haga clic en la pestaña "Adjuntos";
 
 5.  Hacer clic en "Notas" e informe la ocurrencia referente al ticket y la fecha que se la sucedió. Es posible también registrar             el tiempo gastado para la solución de la ocurrencia. Se pone a disposición la visualización de este relato por el solicitante y el       envío del mismo al correo electrónico al seleccionar las opciones "Vísible al solicitante" y "Enviar al correo electrónico". Hacer       clic en "Guardar";
 
@@ -45,10 +62,10 @@ Procedimiento
 
 8.  Está disponible la sincronización manual de las solicitudes tan pronto la
     aplicación encuentre una red accesible. Para ello, simplemente deslice la
-    pantalla hacia abajo con el dedo o haga clic en el icono;
+    pantalla hacia abajo con el dedo o haga clic en el icono "Actualizar lista";
 
 9.  Hay filtros que facilitan la localización del ticket necesario, se lo acceda
-    por el cuadro de búsqueda o haga clic en el icono.
+    por el cuadro de búsqueda o haga clic en el icono "Filtros".
 
 
 Relacionado
