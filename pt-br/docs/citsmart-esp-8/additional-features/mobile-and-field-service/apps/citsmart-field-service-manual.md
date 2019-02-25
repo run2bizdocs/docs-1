@@ -36,6 +36,11 @@ Procedimento
     atividade do ticket). Preencher os dados referentes a execução da
     solicitação e clicar em "Salvar".
     
+    !!! Abstract "ATENÇÃO"
+        
+        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile FS. Estes formulários não poderão           ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart SM.
+
+    
     !!! Abstract "REGRA"
   
         Não é possível vincular uma IC e base de conhecimento pelo mobile FS.    
