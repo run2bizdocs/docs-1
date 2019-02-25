@@ -74,8 +74,6 @@ Uso
 
 - [Gerenciar equipes com Kanban](/pt-br/citsmart-esp-8/processes/tickets/use/manage-a-ticket-with-Kanban.html)
 
-- [Analisar tendências de solicitações de serviço](/pt-br/citsmart-esp-8/processes/tickets/use/analyse-service-request-trends.html)
-
 - [Analisar tendência de eventos](/pt-br/citsmart-esp-8/processes/tickets/use/analyze-event-trends.html)
 
 - [Cadastrar origem de ticket](/pt-br/citsmart-esp-8/processes/tickets/use/register-ticket-source.html)

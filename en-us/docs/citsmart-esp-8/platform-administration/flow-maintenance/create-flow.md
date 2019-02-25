@@ -11,58 +11,58 @@ Procedure
 
 2.  Click on "New";
 
-3.  In the tab "Flow Data", it's necessary to complete the mandatory data: name the flow
-    (seu identificador interno, deve ser informado sem espaço, acentos e
-    caracteres especiais); o processo a que está vinculado (o fluxo estará
-    vísivel apenas para o processo a que está vinculado) e a opção para permitir
-    a rebertura de um serviço independentemente das configurações de grupo.
-    Também é possível visualizar qual a versão o fluxo se encontra. [Ver mais informações][1].
+3.  In the tab "Flow Data", it's necessary to complete the mandatory data: name 
+    (its internal identifier, it must be informed without space, accents and
+    special characters); the process to which it's linked (the flow will be
+    only visible to the process to which it's linked) and the option that allow
+    to reopen the service regardless of group settings. It's also possible to
+    view the version of the flow. [See more information][1].
 
-3.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
-    elementos que representam o cenário pretendido. Para tanto, basta clicar no
-    elemento e arrastá-lo para a área de desenho. Ao fazer isso, será exibida
-    uma tela para definir as propriedades. Devemos levar em consideração que sempre
-    um fluxo começa com o elemento "Evento Início" e termina com o elemento "Evento Fim".
+3.  In the “Diagram” tab, it's presented the tool to design the flow by entering
+    elements that represent the scenario. To do so, simply click on the element and
+    drag it to the design area. When you do this, a screen will be displayed to set
+    the properties. We must take into account that a flow starts with the "Start Event"
+    element and ends with the "End Event".
 
-    !!! tip "IMPORTANTE"
-        Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
-        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
-		É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+    !!! tip "IMPORTANT"
+    
+        The conditional paths of a flow must be defined in the Connection (Sequence Flow). 
+        To access these options, click once on the connection and then on the properties icon.
+        It's possible to identify the connection (eg. approved) and indicate a Condition, Action or State. [See Build Expression][2].
 
-4.  As propriedas de um elemento podem ser definidas ao clicar duas
-    vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
-    Defina os dados desta propriedade ao informar os dados necessários em cada uma das
-    abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
-    ao fluxo na aba “Base de conhecimento” e implementar funcionalidades no
-    fluxo sobre a atividade ao clicar na aba “Interface”;
+4.  The properties of an element can be defined by double-clicking the element 
+    and then the icon next to it (properties icon). Define the data for this
+    property by entering the required data in each of the property tabs.
+    Here it is also liberated to link a knowledge to the "Knowledge Base" tab
+    and implement functionalities in the flow on the activity by clicking on 
+    the "Interface" tab;
 
-    !!! warning "ATENÇÃO"
+    !!! warning "NOTE"
 
-        A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão, questionário ou formulario neuro) que será aplicado ao serviço.
-        Porém, caso não ocorra a vinculação de nenhum template de
-        solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
-        configurações de um formulário padrão, habilitado a vinculação de item de
-        configuração, mudança, problema e solicitação relacionado ao ticket na tela
-        de gerenciamento de tickets.  
-        Podemos citar também outra regra referente a esta aba: as normativas aqui
-        configuradas terão prioridade em relação às marcações do template de
-        solicitação de serviço, pois esta é um complemento do fluxo.  
+        The "Interface" tab allows you to choose which interaction mode (form
+        standard, questionnaire or neuro form) that will be applied to the service. 
+        However, if a service request template is not linked to this tab, the system 
+        will sub-understand and apply the configurations of a standard form, enabled 
+        configuration item link, change, problem and request related to the ticket in
+        ticket management screen.  
+        We can also cite another rule referring to this tab: the regulations here
+        will have priority over the template service request, as this is a complement 
+        to the flow of.  
 
-5.  Além disso, a funcionalidade admite importar fluxos ao clicar no botão
-    “Importar”. Poderá importar no formato “JSON” ou “XML”.
+5.  Besides, the functionality allows to import flows when click on "Import". It'll be
+    possible to import in "JSON" or "XML".
 
-6.  Após definir o fluxo, clicar no botão “Gravar” para efetuar a operação.
+6.  After define the flow, click on "Save".
 
-Relacionado
+Related
 ------------
 
-[Manutenção de fluxo](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Flow maintenance](/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
-[2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
+[1]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
+[2]:/en-us/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
