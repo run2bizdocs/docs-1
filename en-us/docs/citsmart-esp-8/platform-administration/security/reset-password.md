@@ -1,52 +1,51 @@
-title: Configurar serviço de alteração de senha
-Description: A alteração de senha do usuário é uma das possiblidades permitida pelo sistema.  
-#Configurar serviço de alteração de senha
+title: Configure service to change password
+Description: Changing the user password is one of the possibilities allowed by the system.  
+#Configure service to change password
 
-A alternativa de alteração de senha do usuário é uma das possiblidades liberadas pelo sistema. Para configurar esta opção é necessário seguir os procedimentos aqui descritos.
+The alternative to change users password is one of the possibilities released by the system. To configure this option, it's necessary to follow the procedures described here.
 
-!!! warning "ATENÇÃO"
+!!! warning "NOTE"
 
-    Esta opção está disponível apenas para autenticação de contas manuais.
+    This option is only available for manual account authentication.
 
-Antes de começar
+Before getting started
 ----------------
 
-É necessário previamente ter um serviço de correio eletrônico (SMTP) funcional, uma vez que o envio da senha é feito via e-mail.
+It's necessary to first have a functional e-mail service (SMTP), since the sending of the password is done via e-mail.
 
-Procedimento
+Procedure
 ------------
 
-*1º Passo: Criar um modelo de e-mail com a finalidade de alteração de senha*
+*1st Step: Create an email template for changing the password*
 
-1.  Acessar o menu principal Sistema \> Configurações \> Modelo de e-mail;
+1.  Access the main menu System \> Settings \> Email Template;
 
-2.  Criar o modelo de e-mail com o intuito de alterar a senha;
+2.  Create an email template to change the password;
 
-    !!! warning "ATENÇÃO"
+    !!! warning "NOTE"
 
-        Para que o usuário receba as novas informações de acesso é preciso utilizar
-        na mensagem de e-mail a chave ‘${NOVASENHA}’ (exemplo de chave referente a
-        “Nova senha”). Adicionalmente, é possível enviar também o login usuário
-        usando a chave ‘${LOGIN}’ ( exemplo de chave referente a “Login”).  
+        In order for the user to receive the new access information, it's necessary to use,
+        in the e-mail message, the key ‘${NOVASENHA}’ (for example, the key about the "New
+        password”). In addition, you can also send the user login using the key ‘${LOGIN}’
+        (for example, the key about the“Login”).  
 
-*2° Passo: Setar a parametrização referente ao serviço de alteração de senha*
+*2nd Step: Set the parameter about the service to change the password*
 
-1.  Acessar o menu principal Parametrização \> Parâmetros CITSmart;
+1.  Access the main menu Parametrization \> CITSmart Parameters;
 
-2.  Editar e salvar o parâmetro 116 atribuindo-lhe o valor numeral do ID gerado
-    para o modelo de e-mail recém criado;
+2.  Edit and save parameter 116 by assigning the numeric value of the ID generated
+    for the newly created e-mail template;
 
-O que fazer depois
+What to do next
 ------------------
 
-Para testar o serviço de alteração de senha, acessar a página de login, clicar na opção “Esqueceu sua senha?”, informar um login de usuário
-local e apertar “Gravar”.
+To test the service to change the password, access the login page, click on "Forgot your password?", enter a local user login and click on "Save".
 
-## Relacionados
+## Related
 
-[Criar Modelos de E-mail][1]
+[Create E-mail Template][1]
 
-[Configurar Conta de E-mail][2]
+[Configure E-mail Account][2]
 
 !!! tip "About"
 
