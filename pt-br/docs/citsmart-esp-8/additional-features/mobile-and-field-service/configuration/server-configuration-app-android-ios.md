@@ -168,7 +168,7 @@ Ativando uma API
 
 Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
 
-1.  Após de executar os passos descritos na seção 'Criando chave para uso e
+1.  Após de executar os passos descritos na seção "Criando chave para uso e
     consumo das APIs Google";
 
 2.  Clique em APIs e serviços > Ativar APIs e serviços , conforme indicado na
@@ -178,7 +178,7 @@ Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
 
      Figura 8 - APIs Google
 
-3.  Será apresentada a biblioteca de APIs. Selecione a API que deseja ativar ( a
+3.  Será apresentada a biblioteca de APIs. Selecione a API que deseja ativar (a
     figura abaixo representa um exemplo de API) e clique no botão "Ativar"
     conforme indicado na figura abaixo:
 
@@ -187,6 +187,7 @@ Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
     Figura 9 - Ativação da APIs Google
 
 4.  Feito isso, a API estará habilitada para uso.
+
 
 Relacionado
 -----------
