@@ -102,6 +102,8 @@ Configuração
 - [Cadastrar categoria de solução](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
 - [Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+ 
+- [Configurar permissão de acesso do gerenciamento de requisições/incidentes](https://docs.citsmart.com/pt-br/citsmart-esp-8/initial-settings/access-settings/profile/configure-access-permission-ticket.html)
 
 Relatório
 ----------
