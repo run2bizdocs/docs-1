@@ -1,6 +1,6 @@
-title: Visão Geral ESP  
+title: Visão Geral  
 
-CITSmart ESP
+Plataforma CITSmart
 ============
 
 O CITSmart ESP é uma plataforma inteligente de governança corporativa, criada para
