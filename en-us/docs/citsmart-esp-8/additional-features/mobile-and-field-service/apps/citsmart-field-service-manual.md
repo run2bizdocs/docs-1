@@ -1,7 +1,8 @@
 title: CITSmart Field Service (FS) application manual
-Description: Make offline technical attendance.
+Description: The purpose of the CITSmart FS application is to make offline technical attendance (when the attendant has no connection).
 #CITSmart Field Service (FS) application manual
-The purpose of the CITSmart FS application is to make offline technical attendance.
+
+The purpose of the CITSmart FS application is to make offline technical attendance (when the attendant has no connection).
 
 Before getting started
 --------------------------
@@ -16,6 +17,12 @@ Before getting started
 Procedure
 -------------
 
+!!! Abstract "NOTE"
+
+    When logging into the CITSmart FS application, the first synchronization can take 
+    a few moments, because to work offline, you have to download all the requests and 
+    send the ones that have changed, so that the application works correctly.
+
 1.  Enter the login data of the application;
 
 2.  Select and click on the ticket you want. It'll be presented a screen with
@@ -25,6 +32,16 @@ Procedure
 3.  Click on "Execute request" and then on "Other data" (this option will
     be only available if exists a questionnaire linked to the ticket activity).
     Complete the data about the request execution and  click on "Save";
+    
+    !!! Abstract "NOTE"
+    
+        Only simple components of Neuro, for example, forms, can be rendered in the Mobile FS.
+        These forms cannot have any JavaScript logic linked to them, they should be similar to 
+        the existing questionnaire in CITSmart SM.
+        
+    !!! Abstract "RULE"
+    
+        It's not possible to link a CI and a knowledge base through the FS mobile.
     
 4.  If you want to add some file, click on the tab "Attachments";
 
