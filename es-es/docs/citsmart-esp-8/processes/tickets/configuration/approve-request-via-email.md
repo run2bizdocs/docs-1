@@ -1,6 +1,6 @@
-title: Aprobar solicitud por correo electrónic
+title: Configurar la aprobación de solicitud por correo electrónic
 Description: Aprobar o rechazar la solicitud de un ticket a través del e-mail, sin la necesidad de que el administrador esté registrado.
-#Aprobar solicitud por correo electrónico
+# Configurar la aprobación de solicitud por correo electrónic
 
 
 Esta funcionalidad tiene por objeto aprobar o rechazar la solicitud de un ticket
