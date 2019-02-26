@@ -1,6 +1,6 @@
-title: Personalizar el sistema
+title: Personalizar Labels
 Description: Tiene por objetivo cambiar los nombres de labels dentro del ITSM
-#Personalizar el sistema
+#Personalizar Labels
 Esta funcionalidad tiene por objetivo cambiar los nombres de labels dentro del ITSM, permitiendo así, una mayor personalización. Es necesario que el usuario tenga conocimiento sobre programación.
 
 Procedimiento
