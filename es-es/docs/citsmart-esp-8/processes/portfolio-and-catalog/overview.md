@@ -31,7 +31,7 @@ Uso
 Configuración
 -----------------
 
-- [Definir el permiso de acceso a las funcionalidades de la Gestión de portafolio](/es-es/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+- [Definir el permiso de acceso a las funcionalidades de la Gestión de portafolio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
 - [Crear categoría de servicio](/es-es/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
