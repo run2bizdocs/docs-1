@@ -35,7 +35,7 @@ Use
 Configuration
 -----------------
 
-- [Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/initial-settings/access-settings/profile/portfolio-management.html)
+- [Define the permission to access Portfolio Management functionalities](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
 - [Create service category](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
