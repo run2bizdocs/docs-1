@@ -1,6 +1,6 @@
-title: Customize Label
+title: Customize Labels
 Description: Intended to change the names of labels within ITSM, allowing a greater customization of it. It's necessary that the user have knowledge about programming. 
-#Customize Label
+#Customize Labels
 
 This functionality is intended to change the names of labels within ITSM,
 allowing a greater customization of it. It's necessary that the user have
