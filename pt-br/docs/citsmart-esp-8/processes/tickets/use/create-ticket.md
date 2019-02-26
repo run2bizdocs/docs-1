@@ -24,6 +24,14 @@ Procedimento
 
 4.  Preencher os demais dados necessários.
 
+!!! Abstract "DICA"
+
+    O campo “Descrição” é o espaço para que as informações do ticket contenham
+    palavras que remetam diretamente a aquele atendimento, sendo objetivas e de
+    fácil associação com a temática da solicitação. Esse conteúdo é vinculado ao
+    campo “Palavra-chave” e ao seu retorno de busca, que existe dentro do modo de
+    pesquisa avançada de um ticket.
+
 O que fazer a seguir
 ------------------------
 
