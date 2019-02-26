@@ -34,9 +34,9 @@ Procedimento
 4.  Vale lembrar que:
 
     -   os perfis de acesso ficarão desabilitados (os checkbox de todos os perfis de
-      acessos pré-existentes ficarão desmarcados), por default, quando for criadas
+      acessos pré-existentes ficarão desmarcados), por default, quando forem criadas
       novas funcionalidades, exigindo, portanto, que o administrador
-      explicitamente habilite esta para os perfis que desejar, tornando-a
+      explicitamente habilite estas para os perfis que desejar, tornando-a
       disponível para os perfis pretendidos.
 
 5.  Clicar em "Gravar".
