@@ -58,8 +58,9 @@ Esta estrutura permite a criação de um Centro de Experiência somente utilizan
    * Escolher o layout da nova seção;
    * Escolher e personalizar os widgets disponíveis (ver tabela)
 
+6.  Clicar em “Gravar”.
 
-6.  Clicar em "Gravar".
+
 
 ### Widgets Disponíveis
 
