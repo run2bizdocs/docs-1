@@ -7,7 +7,7 @@ El Portal del Conocimiento es una de las pantallas principales de la solución, 
 También permite que el mismo registre un nuevo conocimiento para tonar el portal dinámico y actualizado.
 
 
-![Portal](images/figure1-portal.png)
+![Portal](images/figure2-portal.png)
 
    Figura 1 - Portal del Conocimiento
    
@@ -31,7 +31,7 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 
 -------------------------------------------------------------------------------------------------
 
-![resultado](images/figure2-portal.png)
+![resultado](images/figure1-portal.png)
 
    Figura 2 - Resultado de búsqueda
 
