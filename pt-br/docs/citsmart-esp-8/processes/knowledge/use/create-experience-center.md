@@ -80,7 +80,7 @@ widgets.
 
 -   Escolher e personalizar os widgets disponíveis (ver tabela)
 
-1.  Clicar em “Gravar”.
+6.  Clicar em “Gravar”.
 
 
 
