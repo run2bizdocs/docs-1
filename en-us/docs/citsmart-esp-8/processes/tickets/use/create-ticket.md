@@ -1,7 +1,5 @@
 title:  Create ticket
- 
-Description: Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
-
+Description: Create a ticket means opening a call within the system.
 #Create ticket
 Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
 
@@ -24,6 +22,13 @@ Procedure
 3.  Give the data necessary;
 
 4.  Complete all necessary data.
+
+!!! Abstract "TIP"
+
+    The "Description" field is the space for the ticket information to contain 
+    words that refer directly to that service, being objective and easily associated 
+    with the request theme. This content is linked to the "Keyword" field and to its 
+    search return, which exists within the advanced search mode of a ticket.
 
 What to do next
 -------------------

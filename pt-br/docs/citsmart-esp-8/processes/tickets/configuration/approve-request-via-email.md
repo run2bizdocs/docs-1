@@ -1,6 +1,6 @@
-title: Aprovar solicitação via e-mail
+title: Configurar aprovação de ticket via e-mail
 Description: Tem por objetivo aprovar ou rejeitar a solicitação de um ticket por meio do e-mail, sem a necessidade do administrador estar logado.
-#Aprovar solicitação via e-mail
+#Configurar aprovação de ticket via e-mail
 
 Esta funcionalidade tem por objetivo aprovar ou rejeitar a solicitação de um
 ticket por meio do e-mail, sem a necessidade do administrador estar logado.

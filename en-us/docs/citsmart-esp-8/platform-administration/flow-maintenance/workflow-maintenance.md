@@ -21,7 +21,16 @@ Procedure
     
     !!! Abstract "NOTE"
         
-	    The deletion will only be possible if the flow has no services linked to it.
+	    The versioning has the objective of preserving the state of the workflow that is 
+            linked to some service, avoiding changes in productive flow.
+	    
+    -  The option "Export" allows to export the flow in JSON format;
+    
+    -  In "Delete", it's possible to remove the flows.
+    
+    !!! Abstract "NOTE"
+    
+        The deletion is only possible if there is no service linked to the flow to be removed
 	    
 3.  When click on "Edit" and select any version of the flow, it'll be presented the
     flow information in three tabs: "Flow data", "Diagram" and "Documentation".

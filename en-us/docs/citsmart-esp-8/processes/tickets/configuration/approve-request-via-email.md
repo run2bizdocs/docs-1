@@ -1,6 +1,6 @@
-title: Approve request via email
+title: Configure approval request via email
 Description: Intended to approve or reject the ticket request through email, without the need of the manager being logged.
-#Approve request via email
+# Configure approval request via email
 This functionality is intended to approve or reject the ticket request through email, without the need of the manager being logged.
 
 Before getting started

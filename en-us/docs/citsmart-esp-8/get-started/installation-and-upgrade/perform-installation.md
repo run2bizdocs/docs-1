@@ -160,6 +160,7 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=citsmart.evm.enable:add(value=true)
 /system-property=citsmart.inventory.enable:add(value=true)
 /system-property=rhino.scripts.directory:add(value="")
+/system-property=citsmart.port.updateparameters:add(value="9000")
 ```
 
 ### Datasources configuration

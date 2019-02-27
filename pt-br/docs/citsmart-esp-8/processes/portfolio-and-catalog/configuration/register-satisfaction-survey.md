@@ -8,14 +8,14 @@ O formulário da pesquisa é construído na forma de um questionário.
 
 Os tipos de pesquisa podem ser:
 
-  -   **público**: permite a participação de todos os usuários sem nenhum tipo de
+  -   **Público**: permite a participação de todos os usuários sem nenhum tipo de
       restrição, inclusive eles nem precisam estar autenticados no sistema. Nesta
       modalidade, a URL do Sistema (parametrizada) é fornecida ao público-alvo
       para que participem da pesquisa.Trata de um campo somente de saída (sem
       digitações). Assim que a pesquisa é criada (gravada) neste campo surge o
       link completo, baseado na URL do Sistema devidamente parametrizada;
 
-  -   **global**: restringe a participação de usuários àqueles que se autenticarem
+  -   **Global**: restringe a participação de usuários àqueles que se autenticarem
       no sistema, podendo ser acessada de duas maneiras:
 
        -   quando se identificam receberão uma notificação automática (incluindo os
@@ -24,13 +24,13 @@ Os tipos de pesquisa podem ser:
        -   no Portal de Serviços (menu na lateral esquerda) na opção "Campanhas
            ativas".
 
-  -   **catálogo**: destina à avaliação junto ao cliente sobre a eficácia do
+  -   **Catálogo**: destina à avaliação junto ao cliente sobre a eficácia do
     catálogo implantado para ele;
 
-  -   **serviço**: se destina à avaliação junto ao cliente sobre a eficácia de um
+  -   **Serviço**: se destina à avaliação junto ao cliente sobre a eficácia de um
     serviço implantado para ele;
 
-  -   **atividade/satisfação**: é mais uma opção de pesquisa de satisfação junto
+  -   **Atividade/satisfação**: é mais uma opção de pesquisa de satisfação junto
     ao cliente (além do default do sistema) sobre o desfecho do atendimento de
     uma requisição ou incidente.
 
@@ -48,7 +48,7 @@ Procedimento
 
 2.  Clicar em "Novo";
 
-3.  Preencher os campos disponibilizados:
+3.  Preencher os campos disponibilizado;
 
 4.  Escolher o tipo de pesquisa;
 

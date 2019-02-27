@@ -107,7 +107,7 @@ aplicativo na loja on-line (Google Play).
     Figura 4 - Login
 
 
-Utilização do app no cellular (smartphone)
+Utilização do app no celular (smartphone)
 ------------------------------------------
 
 ##### Visualizando solicitações de serviço
