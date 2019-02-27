@@ -30,16 +30,16 @@ Procedimento
 
 5.  Na guia **Construção**, personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, Links e vincular outros Centros de Experiência:
 
-  *Personalizar visualmente*
+    *Personalizar visualmente*
 
-   *  Para alterar logo, clicar no botão “Alterar logo";
-   *  Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
-   *  Para definir o estilo da grid, escolher uma das opções disponibilizadas;
-   *  Para eleger a cor da fonte dos menus, clicar no campo localizalizado em frente a “Cor do tema”.
+       *  Para alterar logo, clicar no botão “Alterar logo";
+       *  Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
+       *  Para definir o estilo da grid, escolher uma das opções disponibilizadas;
+       *  Para eleger a cor da fonte dos menus, clicar no campo localizalizado em frente a “Cor do tema”.
 
-  *Widgets com navegação*
+    *Widgets com navegação*
 
-Esta estrutura permite a criação de um Centro de Experiência com um menu lateral. Cada item de menu poderá conter widgets específicos.
+   Esta estrutura permite a criação de um Centro de Experiência com um menu lateral. Cada item de menu poderá conter widgets                específicos.
 
    *  Para adicionar nova seção clicar no botão com sinal “+”;
    *  Posicionar o mouse sobre o campo “Digite o nome da seção” e nomeá-la;
@@ -50,13 +50,14 @@ Esta estrutura permite a criação de um Centro de Experiência com um menu late
        + Link: preencher com o link que deseja tornar disponível no menu;
        + Centro de Experiência: vincular um Centro de Experiência já existente (do Tipo *Vínculo*).
        
-  *Widgets sem navegação*
+   *Widgets sem navegação*
 
-Esta estrutura permite a criação de um Centro de Experiência somente utilizando widgets.
+   Esta estrutura permite a criação de um Centro de Experiência somente utilizando widgets.
 
    * Clicar no sinal de positivo “+”;
    * Escolher o layout da nova seção;
    * Escolher e personalizar os widgets disponíveis (ver tabela)
+
 
 6.  Clicar em “Gravar”.
 
