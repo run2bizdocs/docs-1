@@ -78,23 +78,23 @@ conhecimento na Base de Conhecimento.
 
 - 6:Caminho de pastas e sub-pastas para chegar a este conhecimento (migalha de pão)
 
-- 7: Lista para acesso às versões do conhecimento
+- 7:Lista para acesso às versões do conhecimento
 
-- 8: Lista de arquivos anexados ao conhecimento
+- 8:Lista de arquivos anexados ao conhecimento
 
-- 9: Conteúdo do conhecimento
+- 9:Conteúdo do conhecimento
 
-- 10: Ícones para registrar um "like" ou "unlike" sobre o conhecimento
+- 10:Ícones para registrar um "like" ou "unlike" sobre o conhecimento
 
-- 11: Quantidade de comentários, visualizações, nome de quem criou o conhecimento, data e horário de sua última modificação
+- 11:Quantidade de comentários, visualizações, nome de quem criou o conhecimento, data e horário de sua última modificação
 
-- 12: Estratégia de avaliação quantitativa do conhecimento (uma nota), que vai variar de 1 a 5, dependendo da estrela marcada
+- 12:Estratégia de avaliação quantitativa do conhecimento (uma nota), que vai variar de 1 a 5, dependendo da estrela marcada
 
-- 13: Local onde o usuário pode registrar seus comentários
+- 13:Local onde o usuário pode registrar seus comentários
 
-- 14: Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
+- 14:Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
 
-- 15: Ícone para contribuir com a gestão de conhecimento da organização, ou seja, a maneira que o usuário tem para criar (propor) um novo conhecimento
+- 15:Ícone para contribuir com a gestão de conhecimento da organização, ou seja, a maneira que o usuário tem para criar (propor) um novo conhecimento
 
 !!! tip "About"
 
