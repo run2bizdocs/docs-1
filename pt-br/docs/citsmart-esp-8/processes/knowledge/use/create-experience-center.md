@@ -7,8 +7,8 @@ Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar 
 Antes de começar
 --------------------
 
-Alguns widgets no Centro de Experiência dependem de informações cadastradas no
-CITSmart ITSM, por exemplo, conhecimentos, pesquisas (surveys), serviços,
+Alguns widgets no Centro de Experiência dependem de informações cadastradas na Plataforma
+CITSmart, por exemplo, conhecimentos, pesquisas (surveys), serviços,
 notificações e entre outros. Neste sentido, é necessário estruturar estas
 informações antes de iniciar a construção do CE.
 
@@ -20,14 +20,45 @@ Procedimento
 
 2.  Clicar em "Novo";
 
-3.  Informar os dados do CE (Título, situação e descrição);
+3.  Na guia **Informações**, preencher os campos disponibilizados;
 
-4.  Definir as Permissões de Acesso;
+    !!! Abstract "NOTA"
+    
+        No campo “Tipo”, escolhendo a opção Vínculo, é possível tornar o Centro de Experiência como vínculo em outro Centro de                   Experiência.
 
-5.  Escolher o formato do CE ("widgets com navegação", usando menus laterais ou
-    "widgets sem navegação", sem menus laterais);
+4.  Na guia **Permissões**, definir os grupos que terão acesso;
 
-6.  Construir o CE;
+5.  Na guia **Construção**, personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, Links e vincular outros Centros de Experiência:
+
+  *Personalizar visualmente*
+
+    •	Para alterar logo, clicar no botão “Alterar logo";
+    •	Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
+    •	Para definir o estilo da grid, escolher uma das opções disponibilizadas;
+    •	Para eleger a cor da fonte dos menus, clicar no campo localizalizado em frente a “Cor do tema”.
+
+  *Widgets com navegação*
+
+Esta estrutura permite a criação de um Centro de Experiência com um menu lateral. Cada item de menu poderá conter widgets específicos.
+
+    •	Para adicionar nova seção clicar no botão com sinal “+”;
+    •	Posicionar o mouse sobre o campo “Digite o nome da seção” e nomeá-la;
+    •	Preencher o nome da seção posicionando o cursor sobre o campo Digite o nome da seção, logo em seguida será criado um campo para         um novo menu, nomeá-lo;
+    •	Para adicionar novos menus, clicar no sinal “+”;
+    •	Para personalizar um menu, clicar no botão com formato de ferramenta:
+       o	Widget: adiciona e personaliza todos os tipos de widgets disponíveis (ver tabela) 
+       o	Link: preencher com o link que deseja tornar disponível no menu;
+       o	Centro de Experiência: vincular um Centro de Experiência já existente (do Tipo Vínculo).
+       
+  *Widgets sem navegação*
+
+Esta estrutura permite a criação de um Centro de Experiência somente utilizando widgets.
+
+    •	Clicar no sinal de positivo “+”;
+    •	Escolher o layout da nova seção;
+    •	Escolher e personalizar os widgets disponíveis (ver tabela)
+
+6.  Clicar em "Gravar".
 
 ### Nota: Widgets Disponíveis
 
