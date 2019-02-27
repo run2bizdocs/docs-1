@@ -32,20 +32,20 @@ Procedimento
 
   *Personalizar visualmente*
 
-    •	Para alterar logo, clicar no botão “Alterar logo";
-    •	Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
-    •	Para definir o estilo da grid, escolher uma das opções disponibilizadas;
-    •	Para eleger a cor da fonte dos menus, clicar no campo localizalizado em frente a “Cor do tema”.
+   •	Para alterar logo, clicar no botão “Alterar logo";
+   •	Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
+   •	Para definir o estilo da grid, escolher uma das opções disponibilizadas;
+   •	Para eleger a cor da fonte dos menus, clicar no campo localizalizado em frente a “Cor do tema”.
 
   *Widgets com navegação*
 
 Esta estrutura permite a criação de um Centro de Experiência com um menu lateral. Cada item de menu poderá conter widgets específicos.
 
-    •	Para adicionar nova seção clicar no botão com sinal “+”;
-    •	Posicionar o mouse sobre o campo “Digite o nome da seção” e nomeá-la;
-    •	Preencher o nome da seção posicionando o cursor sobre o campo Digite o nome da seção, logo em seguida será criado um campo para         um novo menu, nomeá-lo;
-    •	Para adicionar novos menus, clicar no sinal “+”;
-    •	Para personalizar um menu, clicar no botão com formato de ferramenta:
+   •	Para adicionar nova seção clicar no botão com sinal “+”;
+   •	Posicionar o mouse sobre o campo “Digite o nome da seção” e nomeá-la;
+   •	Preencher o nome da seção posicionando o cursor sobre o campo Digite o nome da seção, logo em seguida será criado um campo para         um novo menu, nomeá-lo;
+   •	Para adicionar novos menus, clicar no sinal “+”;
+   •	Para personalizar um menu, clicar no botão com formato de ferramenta:
        o	Widget: adiciona e personaliza todos os tipos de widgets disponíveis (ver tabela) 
        o	Link: preencher com o link que deseja tornar disponível no menu;
        o	Centro de Experiência: vincular um Centro de Experiência já existente (do Tipo Vínculo).
