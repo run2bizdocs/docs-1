@@ -41,6 +41,7 @@ funcionalidade;
 - 9: **Adicionar Conhecimento**: permite ao usuário logado registrar um novo
 conhecimento na Base de Conhecimento.
 
+-------------------------------------------------------------------------------------------------
 
 ![Pesquisa](images/figure2-portal.png)
 
