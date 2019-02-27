@@ -41,16 +41,19 @@ funcionalidade;
 - 9: **Adicionar Conhecimento**: permite ao usuário logado registrar um novo
 conhecimento na Base de Conhecimento.
 
+-------------------------------------------------------------------------------------------------
 
 ![Pesquisa](images/figure2-portal.png)
 
    Figura 1 - Resultado de pesquisa
 
- - 1: Mostra a quantidade de conhecimentos encontrados;
+ - 1: Mostra a quantidade de conhecimentos encontrados
  
- - 2: Tipo: mostra os tipos de conhecimentos encontrados, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções;
+ - 2: Tipo - mostra os tipos de conhecimentos encontrados, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções
  
- - 3: Relação de conhecimentos encontrados.
+ - 3: Relação de conhecimentos encontrados
+ 
+ - 4: Tags - mostra as tags usadas nos documentos, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções
  
 !!! Abstract "REGRA"
 
@@ -89,7 +92,7 @@ conhecimento na Base de Conhecimento.
 
 - 13: Local onde o usuário pode registrar seus comentários
 
-- 14:  Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
+- 14: Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
 
 - 15: Ícone para contribuir com a gestão de conhecimento da organização, ou seja, a maneira que o usuário tem para criar (propor) um novo conhecimento
 
