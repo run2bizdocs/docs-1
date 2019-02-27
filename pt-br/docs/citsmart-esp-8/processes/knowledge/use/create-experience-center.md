@@ -46,9 +46,9 @@ Esta estrutura permite a criação de um Centro de Experiência com um menu late
    *  Preencher o nome da seção posicionando o cursor sobre o campo Digite o nome da seção, logo em seguida será criado um campo para         um novo menu, nomeá-lo;
    *  Para adicionar novos menus, clicar no sinal “+”;
    *  Para personalizar um menu, clicar no botão com formato de ferramenta:
-       + Widget: adiciona e personaliza todos os tipos de widgets disponíveis (ver tabela) 
+       + Widget: adicionar e personalizar todos os tipos de widgets disponíveis (ver tabela) 
        + Link: preencher com o link que deseja tornar disponível no menu;
-       + Centro de Experiência: vincular um Centro de Experiência já existente (do Tipo Vínculo).
+       + Centro de Experiência: vincular um Centro de Experiência já existente (do Tipo *Vínculo*).
        
   *Widgets sem navegação*
 
