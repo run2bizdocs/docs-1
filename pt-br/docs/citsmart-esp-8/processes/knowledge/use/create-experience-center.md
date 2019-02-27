@@ -61,7 +61,7 @@ Esta estrutura permite a criação de um Centro de Experiência somente utilizan
 
 6.  Clicar em "Gravar".
 
-### Nota: Widgets Disponíveis
+### Widgets Disponíveis
 
 |        **Nome**        |    **Tipo**   |                                   **Objetivo**                                  |
 |:----------------------:|:-------------:|:-------------------------------------------------------------------------------:|
