@@ -89,7 +89,7 @@ conhecimento na Base de Conhecimento.
 
 - 13: Local onde o usuário pode registrar seus comentários
 
-- 14:  Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
+- 14: Local onde serão listados todos os conhecimentos que tiverem sido relacionados com o conhecimento visualizado
 
 - 15: Ícone para contribuir com a gestão de conhecimento da organização, ou seja, a maneira que o usuário tem para criar (propor) um novo conhecimento
 
