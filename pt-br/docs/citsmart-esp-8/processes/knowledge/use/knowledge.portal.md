@@ -45,7 +45,7 @@ conhecimento na Base de Conhecimento.
 
 ![Pesquisa](images/figure2-portal.png)
 
-   Figura 1 - Resultado de pesquisa
+   Figura 2 - Resultado de pesquisa
 
  - 1: Mostra a quantidade de conhecimentos encontrados
  
