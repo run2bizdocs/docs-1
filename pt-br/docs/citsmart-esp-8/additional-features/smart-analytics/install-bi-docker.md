@@ -66,11 +66,13 @@ vi /citbi/composes/
     - 8282:8282
     - 8085:8085
     ```
-
-    -\>Ctrl+C
-
-    -\>:wq!
-
+    ```sh
+    # Ctrl+C
+    ```
+    ```sh
+    # :wq!
+    ```
+    
     Conferir:
 
     ```
