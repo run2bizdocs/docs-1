@@ -29,7 +29,7 @@ Procedimiento
 
 6.  Construir el CE; 
 
-**Nota: Widgets Disponibles**
+### Widgets Disponibles
 
 |        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                         |
 |:-----------------------:|:-------------:|:--------------------------------------------------------------------------------------------:|
