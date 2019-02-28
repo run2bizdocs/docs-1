@@ -67,12 +67,10 @@ Procedimento
     - 8282:8282
     - 8085:8085
     ```
-    ```sh
+
     # Ctrl+C
-    ```
-    ```sh
+
     # :wq!
-    ```
     
     Conferir:
 
