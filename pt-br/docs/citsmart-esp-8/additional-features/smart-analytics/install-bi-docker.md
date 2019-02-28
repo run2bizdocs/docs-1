@@ -4,7 +4,7 @@ Description: Este documento tem por objetivo configurar o BI na instância CITSm
 
 O CITSmart Analytics é a solução de Business Inteligence (BI) para a análise de
 dados do CITSmart. A solução de BI utiliza recursos das ferramentas Saiku
-Analytics[1] e Pentaho[2].
+Analytics [1] e Pentaho [2].
 
 É possível ter o BI em seu ambiente utilizando a estrutura de containers do
 Docker, devendo seguir a seguinte configuração de instalação.
