@@ -45,7 +45,7 @@ Procedimento
     [docker-compose.yml](https://bitbucket.org/diogojapiassu/citbi/src/master/composes/docker-compose.yml)
     ```
     
-    - i (inserir)
+    i (inserir)
 
     ```java
     version: '2'
