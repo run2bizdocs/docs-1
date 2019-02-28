@@ -23,7 +23,7 @@ Procedimento
 
 1.  Clonar repositório do citbi:
 
-git clone https://bitbucket.org/diogojapiassu/citbi/src/master/
+    git clone https://bitbucket.org/diogojapiassu/citbi/src/master/
 
 1.  Digitar o comando e em seguida descompactar:
 
@@ -39,43 +39,29 @@ git clone https://bitbucket.org/diogojapiassu/citbi/src/master/
 vi /citbi/composes/
 [docker-compose.yml](https://bitbucket.org/diogojapiassu/citbi/src/master/composes/docker-compose.yml)
 
-\- \> i (inserir)
+- \> i (inserir)
 
->   version: '2'
+```java
+version: '2'
+services:
+  citBI:
+    container_name: citBI
+    image: registry.citsmartcloud.com/templates/bi:latest
+    environment:
+- BI_HOST=127.0.0.1
+- BI_DATABASE= citsmart_equipeteste_equatorial
+- BI_PORT=5432
+- BI_USER=root
+- BI_PASSWORD=1
+- BI_LANGUAGE=pt-br
+- URL_SAIKU=http://localhost:8282
+volumes:
+- /citbi/files/home:/home
+ports:
+- 8282:8282
+ ```
 
->   services:
-
->   citBI:
-
->   container_name: citBI
-
->   image: registry.citsmartcloud.com/templates/bi:latest
-
->   environment:
-
->   \- BI_HOST=127.0.0.1
-
->   \- BI_DATABASE= citsmart_equipeteste_equatorial
-
->   \- BI_PORT=5432
-
->   \- BI_USER=root
-
->   \- BI_PASSWORD=1
-
->   \- BI_LANGUAGE=pt-br
-
->   \- URL_SAIKU=http://localhost:8282
-
->   volumes:
-
->   \- /citbi/files/home:/home
-
->   ports:
-
->   \- 8282:8282
-
-\-\>Ctrl+C
+-\>Ctrl+C
 
 \-\>:wq!
 
