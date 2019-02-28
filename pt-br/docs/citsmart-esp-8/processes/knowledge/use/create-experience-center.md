@@ -27,9 +27,9 @@ Procedimento
         No campo “Tipo”, escolhendo a opção Vínculo, é possível tornar o Centro de
         Experiência como o vínculo em outro Centro de Experiência.
 
-1.  Na guia **Permissões**, definir os grupos que terão acesso;
+4.  Na guia **Permissões**, definir os grupos que terão acesso;
 
-2.  Na guia **Construção**, personalizar visualmente o Centro de Experiência,
+5.  Na guia **Construção**, personalizar visualmente o Centro de Experiência,
     além de poder criar seções e adicionar Widgets, Links e vincular outros
     Centros de Experiência:
 
