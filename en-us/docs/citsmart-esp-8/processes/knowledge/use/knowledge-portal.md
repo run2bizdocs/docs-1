@@ -34,13 +34,13 @@ It also enables it to register a new knowledge in order to make the portal dynam
 
    Figure 2 - Search result
    
-  - 1: Shows the amount of knowledge found
+ - 1: Shows the amount of knowledge found
  
  - 2: Type - shows the types of knowledge found, and it is possible to further refine the initial search by selecting one of the options
  
  - 3: Relation of knowledge found
  
- - 4: Tags: shows the tags os knowledge found, and it is possible to further refine the initial search by selecting one of the the options
+ - 4: Tags - shows the tags os knowledge found, and it is possible to further refine the initial search by selecting one of the the options
  
   
 !!! Abstract "RULE" 
