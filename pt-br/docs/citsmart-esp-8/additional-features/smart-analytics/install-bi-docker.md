@@ -3,8 +3,8 @@ Description: Este documento tem por objetivo configurar o BI na instância CITSm
 #Configurar solução BI (Smart Analytics) via Docker
 
 O CITSmart Analytics é a solução de Business Inteligence (BI) para a análise de
-dados do CITSmart. A solução de BI utiliza recursos das ferramentas Saiku
-Analytics [1] e Pentaho [2].
+dados do CITSmart. A solução de BI utiliza recursos das ferramentas [Saiku
+Analytics](https://www.meteorite.bi/products/saiku-reporting) e [Pentaho](https://www.hitachivantara.com/go/pentaho.html).
 
 É possível ter o BI em seu ambiente utilizando a estrutura de containers do
 Docker, devendo seguir a seguinte configuração de instalação.
@@ -143,10 +143,6 @@ Exemplo:
 http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
 
 
-
-[1]:https://www.meteorite.bi/products/saiku-reporting
-
-[2]:https://www.hitachivantara.com/go/pentaho.html
 
 
 !!! tip "About"
