@@ -34,10 +34,12 @@ Procedimento
     unzip storage.zip
     ```
     comando para construir imagem
-    ```
+    
     cd/citbi/
+    
     ```
     docker build -t registry.citsmartcloud.com/templates/bi .
+    ```
     
 1.  Na pasta /citbi/composes, configurar o banco de dados:
     ```sh
