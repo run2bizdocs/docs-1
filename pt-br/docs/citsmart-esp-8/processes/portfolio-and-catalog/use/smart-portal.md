@@ -38,7 +38,7 @@ Figura 1 - Smart Portal
 
 - 12: Notícias - local onde é disponibilizado as notícias, como por exemplo, referente à organização, ao sistema, etc
 
-- 13: Investigações Ativas - permite buscar/acompanhar as atividades registradas
+- 13: Campanhas Ativas - permite buscar/acompanhar as atividades registradas
 
 - 14: Chat - permite criar uma solicitação de serviço e interagir com o atendente sobre a mesma
 
