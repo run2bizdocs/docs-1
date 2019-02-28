@@ -68,9 +68,9 @@ Procedimento
     - 8085:8085
     ```
 
-    # Ctrl+C
+    Ctrl+C
 
-    # :wq!
+    :wq!
     
     Conferir:
 
