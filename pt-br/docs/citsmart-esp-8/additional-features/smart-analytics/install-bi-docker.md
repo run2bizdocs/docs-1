@@ -44,38 +44,38 @@ Procedimento
 vi /citbi/composes/
 [docker-compose.yml](https://bitbucket.org/diogojapiassu/citbi/src/master/composes/docker-compose.yml)
 
-- \> i (inserir)
+     \> i (inserir)
 
-```java
-version: '2'
-services:
-  citBI:
-    container_name: citBI
-    image: registry.citsmartcloud.com/templates/bi:latest
-    environment:
-- BI_HOST=127.0.0.1
-- BI_DATABASE= citsmart_equipeteste_equatorial
-- BI_PORT=5432
-- BI_USER=root
-- BI_PASSWORD=1
-- BI_LANGUAGE=pt-br
-- URL_SAIKU=http://localhost:8282
-volumes:
-- /citbi/files/home:/home
-ports:
-- 8282:8282
-- 8085:8085
- ```
+    ```java
+    version: '2'
+    services:
+      citBI:
+        container_name: citBI
+        image: registry.citsmartcloud.com/templates/bi:latest
+        environment:
+    - BI_HOST=127.0.0.1
+    - BI_DATABASE= citsmart_equipeteste_equatorial
+    - BI_PORT=5432
+    - BI_USER=root
+    - BI_PASSWORD=1
+    - BI_LANGUAGE=pt-br
+    - URL_SAIKU=http://localhost:8282
+    volumes:
+    - /citbi/files/home:/home
+    ports:
+    - 8282:8282
+    - 8085:8085
+    ```
 
--\>Ctrl+C
+    -\>Ctrl+C
 
--\>:wq!
+    -\>:wq!
 
-Conferir:
+    Conferir:
 
-```
-cat /citbi/composes/docker-compose.yml
-```
+    ```
+    cat /citbi/composes/docker-compose.yml
+    ```
 
 1.  Na pasta /citbi/composes:
 
