@@ -74,6 +74,13 @@ Procedimento
 |              Unity              |                   Mostra   o código/ID e unidade do solicitante                   |
 
 
+
+Relacionado
+-----------
+
+[Configurar solução BI (Smart Analytics) via Docker](/pt-br/citsmart-esp-8/additional-features/smart-analytics/install-bi-docker.html)
+
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
