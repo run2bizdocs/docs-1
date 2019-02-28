@@ -127,7 +127,7 @@ docker logs -f citBI
 O que fazer depois
 ------------------
 
-1. Para usufruir dos benefícios do BI em sua instância CITSmart é necessário. 
+1. Para usufruir dos benefícios do BI em sua instância CITSmart é necessário 
 configurar os parâmetros 401 e 412. Para isso, acessar o menu principal
 Parametrização \> Parâmetros CITSmart;
 
