@@ -23,7 +23,7 @@ Procedimento
 
 1.  Clonar repositório do citbi:
 
-    git clone https://bitbucket.org/diogojapiassu/citbi/src/master/
+    git clone https://diogojapiassu@bitbucket.org/diogojapiassu/citbi.git
 
 1.  Digitar o comando e em seguida descompactar:
 
@@ -33,6 +33,11 @@ Procedimento
     ```sh
     unzip storage.zip
     ```
+    comando para construir imagem
+    ```
+    cd/citbi/
+    ```
+    docker build -t registry.citsmartcloud.com/templates/bi .
     
 1.  Na pasta /citbi/composes, configurar o banco de dados:
 
@@ -59,6 +64,7 @@ volumes:
 - /citbi/files/home:/home
 ports:
 - 8282:8282
+- 8085:8085
  ```
 
 -\>Ctrl+C
