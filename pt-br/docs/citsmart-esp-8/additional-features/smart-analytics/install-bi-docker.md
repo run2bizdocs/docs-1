@@ -63,62 +63,75 @@ ports:
 
 -\>Ctrl+C
 
-\-\>:wq!
+-\>:wq!
 
 Conferir:
 
+```
 cat /citbi/composes/docker-compose.yml
+```
 
 1.  Na pasta /citbi/composes:
 
 Construir e iniciar o container:
 
+```
 docker-compose up -d
+```
 
 Verificar log do container:
 
+```
 docker logs -f citBI
+```
 
 *Configuração*
 
 1.  Acessar o Saiku como administrador:
 
-<http://127.0.0.1:8282/>
+    <http://127.0.0.1:8282/>
 
 1.  Adicionar Schema disponível em:
 
-<https://bitbucket.org/diogojapiassu/citbi/src/master/files/SchemaEnglish.xml>
+    <https://bitbucket.org/diogojapiassu/citbi/src/master/files/SchemaEnglish.xml>
 
 1.  Adicionar DataSource:
 
-*jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial*
+    jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
 
 *Comandos úteis: caixa*
 
 1.  Verificar containers ativos:
 
-docker ps
+    ```
+    docker ps
+    ```
 
 1.  Verificar containers inativos:
-
-docker ps -a
+    
+    ```
+    docker ps -a
+    ```
 
 1.  Parar container:
-
-docker stop citBI
+    
+    ```
+    docker stop citBI
+    ```
 
 1.  Remover container:
-
-docker rm citBI
+    ```
+    docker rm citBI
+    ```
 
 O que fazer depois
 ------------------
 
-Para usufruir dos benefícios do BI em sua instância CITSmart é necessário
+1. Para usufruir dos benefícios do BI em sua instância CITSmart é necessário. 
 configurar os parâmetros 401 e 412. Para isso, acessar o menu principal
-Parametrização \> Parâmetros CITSmart.
+Parametrização \> Parâmetros CITSmart;
 
-Detalhes dos parâmetros:
+2. Detalhes dos parâmetros:
 
 -   401: URL do servidor Saiku
 
@@ -129,7 +142,14 @@ Exemplo: http://127.0.0.1:8282
 Exemplo:
 http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
 
+
+
 [1]:https://www.meteorite.bi/products/saiku-reporting
 
 [2]:https://www.hitachivantara.com/go/pentaho.html
 
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>02/28/2019 – Anna Martins
