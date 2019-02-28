@@ -32,9 +32,10 @@ Procedimento
     clicar a mesma já será adicionada no campo **Measure** do dashboard;
 
 
-    !!! Abstract"NOTA"
+    !!! Abstract "NOTA"
 
         É possível elaborar um novo tipo de medida, para isso clicar no botão “Add” e elaborar nova fórmula.
+        
     
 1.  Na guia **Dimensions** são disponibilizadas opções que servirão como base de
     dados do relatório. Selecionar e arrastar uma opção para dentro de uma das
