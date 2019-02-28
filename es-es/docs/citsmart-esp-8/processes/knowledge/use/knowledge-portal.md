@@ -4,6 +4,7 @@ Description: proporcionar informaciones relevantes que permitan al operador (usu
 
 
 El Portal del Conocimiento es una de las pantallas principales de la solución, que pretende proporcionar informaciones relevantes que permitan al operador (usuario o administrador) el entendimiento y aplicación de un determinado conocimiento. 
+
 También permite que el mismo registre un nuevo conocimiento para tonar el portal dinámico y actualizado.
 
 
@@ -17,7 +18,7 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 
 - 3: **Sistema** - al hacer clic en esta opción, permite entrar en el sistema
 
-- 4: **Identificación del usuario registrado* - al hacer clic en esta opción, se muestran las funciones para cambiar la contraseña de acceso y salir del portal
+- 4: **Identificación del usuario registrado** - al hacer clic en esta opción, se muestran las funciones para cambiar la contraseña de acceso y salir del portal
 
 - 5: **Campo de búsqueda** - permite la búsqueda de conocimientos
 
