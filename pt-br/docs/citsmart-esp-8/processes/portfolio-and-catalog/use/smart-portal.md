@@ -32,7 +32,7 @@ Figura 1 - Smart Portal
 
 - 9: Smartbox  - mostra a quantidade de solicitações que estão no carrinho de compras do usuário (opção ativa apenas quando parâmetro 292 estiver setado em "SIM")
 
-- 10: Minhas solicitações - permite ao usuário logado visualizar suas solicitações de serviços e executar algumas ações nas mesmas;
+- 10: Minhas solicitações - permite ao usuário logado visualizar suas solicitações de serviços e executar algumas ações nas mesmas
 
 - 11: Aprovações - permite visualizar somente as solicitações de serviços que requer aprovação
 
