@@ -2,10 +2,50 @@ title:  Smart Portal
 Description: Smart Portal es un recurso de la solución que ofrece el Catálogo de Servicios
 #Smart Portal
 Smart Portal es un recurso de la solución que ofrece el Catálogo de Servicios (Negocio y Apoyo) a los usuarios del sistema y permite realizar acciones diversas, tales como:  
+
 •	Abrir un ticket (solicitud de servicio);  
 •	Recibir noticias referentes al Sistema;  
 •	Evaluar la solicitud de servicio;  
 •	Acceso a los conocimientos referentes al ticket para aclaración de dudas.  
+
+
+![smart portal](images/smartportal.png)
+
+Figura 1 - Smart Portal
+
+
+
+- 1: Botón de menú - al hacer clic en este botón, permite ocultar/mostrar el menú del Smart Portal
+
+- 2: Portal de Conocimiento - al hacer clic en esta opción, se mostrará la pantalla del portal del conocimiento
+
+- 3: Guía del usuario: acceso directo a la Guía del usuario, donde permite realizar la búsqueda de informaciones relevantes
+
+- 4: Acceder al sistema - permite entrar en el sistema
+
+- 5: Notificaciones - local donde muestra los mensajes de alerta del sistema
+
+- 6: Identificación del usuario - se muestran las funciones para cambiar el perfil y salir del sistema
+
+- 7: Búsqueda - permite buscar los servicios disponibles en el portal
+
+- 8: Portal - permite volver a la pantalla de inicio de Smart Portal
+
+- 9: Smartbox  - muestra la cantidad de solicitudes que están en la cesta de la compra del usuario (opción activa sólo cuando el parámetro 292 se establece en "SIM")
+
+- 10: Mis solicitudes - permite al usuario registrado ver sus solicitudes de servicios y realizar algunas acciones en las mismas
+
+- 11: Aprobaciones - permite al usuario registrado ver sólo las solicitudes de servicios que requiere aprobación
+
+- 12: Noticias - local donde están disponibles las noticias, como por ejemplo, referentes a la organización, al sistema, etc
+
+- 13: Investigaciones actividades - permite buscar/acompañar las actividades registradas
+
+- 14: Chat - permite crear una solicitud de servicio e interactuar con el operador sobre la misma
+
+- 15: Idioma - le permite elegir el idioma que desee para el sistema (portugués, Inglés o Español)
+
+
 
 Antes de empezar 
 -----------------
