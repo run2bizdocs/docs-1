@@ -1,6 +1,5 @@
 title: Create experience center
-
-Description: The objective of the Experience Center (EC) is create a portal that the user can customize.
+Description: This feature provides a variety of actions, such as including, changing, and deleting the Experience Center.
 #Create experience center
 The objective of the Experience Center (EC) is create a portal that the user can customize. When creating this portal, it's possible to customize the layout and the access references most appropriated to the client (as defined in the company's rules), and also make available the addition of videos from Youtube and the creation of Slideshows, within other applicability, in order to ensure an user experience more interactive and intuitive.
 This feature provides a variety of actions, such as including, changing, and deleting the Custom Experience Center.
@@ -21,14 +20,64 @@ Procedure
 
 2.  Click on "New";
 
-3.  Enter the EC data (Title, status and description);
+3.  In the tab **Information**, complete the fields available;
 
-4.  Set the Permissions;
+    !!! Abstract "NOTE"
+    
+        In the field "Type", by choosing the option Link, it's possible to make
+        the Experience Center as a link in another Experience Center.
+        
+4.  In the tab **Permissions**, set the groups that will have access;
 
-5.  In "Construction", chose the EC format ("widgets with navigation" using side
-    menus, or "widgets without navigation" without side menus);
+5.  In the tab **Construction**, you can visually customize the Experience Center,
+    in addition to create and add Widgets, Links and link other Expecience Centers:
+    
+    *Visually customize*
+    
+    -   To change the logo, click on "Change logo";
+    
+    -   To change the header, click on "Change header";
+    
+    -   To define the style of the grid, choose one of the options available;
+    
+    -   To choose the font color of the menus, click on the field located in
+        front of "Theme color".
+        
+    *Widgets with navigation*
+    
+    This structure allows the creation of an Experiment Center with a side menu.
+    Each menu item may contain specific widgets.
+    
+    -   To add new section, click on the signal "+";
+    
+    -   Place the mouse on the field "Enter section name" and name it;
+    
+    -   It'll be created a field to a new menu, name it;
+    
+    -   To add new menus, click on the signal "+";
+    
+    -   To customize the menu, click on the button with the shape of a tool:
+    
+        -   Widget: add and customize all of types of widgets available (see table)
+        
+        -   Link: complete with the link you want to make available in the menu;
+        
+        -   Experience Center: link an Experience Center already existing (of **Type** Link).
+        
+    *Widgets without navigation*
+    
+    This structure allows the creation of an Experience Center only using widgets.
+    
+    -   Click on the signal "+";
+    
+    -   Choose the layout of the new section;
+    
+    -   Choose and customize the widgets available (see table)
+    
+6.  Click on "Save".    
 
-6.  Save the EC;
+
+
 
  ### Widgets Available    
 
