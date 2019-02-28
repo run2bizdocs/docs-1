@@ -142,6 +142,10 @@ Exemplo: http://127.0.0.1:8282
 Exemplo:
 http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
 
+Relacionado
+-----------
+
+[Usar o Smart Analytics (BI) para gerar relatórios](/pt-br/citsmart-esp-8/additional-features/smart-analytics/use-bi-solution.html)
 
 
 
