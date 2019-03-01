@@ -27,9 +27,9 @@ Procedimento
 
 1.  Digitar o comando e em seguida descompactar:
 
-    ```sh
+    
     cd /citbi/files/
-    ```
+    
     ```sh
     unzip storage.zip
     ```
