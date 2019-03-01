@@ -1,41 +1,33 @@
 title: Register ticket related
 Description: This functionality allows to register a ticket with activities related to the original ticket.
 #Register ticket related
-This functionality allows to register a ticket with activities related to the original ticket.
+
+In the related ticket, you can only create a sub-request through the original request and view it after creation.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the employee, contract and unity. It's
-also necessary to link the group to the contract, unit to the contract and
-contract to the service.
+It's necessary to previously register the ticket, employee and unit, in addition
+to have permission to register the ticket.
 
-Register the portfolio with services and activities of request and incident. Set
-the time of attendance for the activities of request and incident.
+##Procedure
 
-Link the activities of request and incident to the service contract. Set the
-parameter 385 with value 'Y'.
-
-Procedure
--------------
-
-1.  Access the functionality Ticket Management through the main menu Processes
+1.  Access the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want and select "Create Related Request" in the
-    options menu;
+2.  To create the sub-request:
 
-3.  Complete all mandatory fields and click on "Save'. The ticket related will
-    be directed to the executor group defined in the activity link registration,
-    to the executor group defined in the parameter 9;
+    -   Click on the ticket you want and select "Create sub-request" in the
+        options menu;
 
-4.  Note that the system will send notification e-mail about the creation,
-    escalation, capture, close and other changes in the related tickets to the
-    executor group of the main ticket.
-    
-5.  To search for tickets related, it'll be necessary to select the filter "Display related" in ,
-    the search area in the main screen of the functionality.
-    
+    -   Complete all necessary field and click on "Save".
+
+3.  To view the sub-request:
+
+    -   Click on the ticket you want and select "View sub-request" in the
+        options menu. 
+ 
+ 
 !!! Abstract "ATTENTION"
     
     The tickets related for not having own flow, it'll be automatically closed,
