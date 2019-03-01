@@ -1,31 +1,43 @@
 title: Create and view sub-request
 Description: It's possible to create sub-requests through the main request and view them after created.
 #Create and view sub-request
-It's possible to create sub-requests through the main request and view them after created.
+
+This functionality allows to register a ticket with activities related to the original ticket.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the ticket, employee and unit, in addition
-to have permission to register the ticket.
+It's necessary to previously register the employee, contract and unity. It's
+also necessary to link the group to the contract, unit to the contract and
+contract to the service.
 
-##Procedure
+Register the portfolio with services and activities of request and incident. Set
+the time of attendance for the activities of request and incident.
 
+Link the activities of request and incident to the service contract. Set the
+parameter 385 with value 'Y'.
 
-1.  Access the main menu Processes
+Procedure
+-------------
+
+1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  To create the sub-request:
+2.  Click on the ticket you want and select "Create Related Request" in the
+    options menu;
 
-    -   Click on the ticket you want and select "Create sub-request" in the
-        options menu;
+3.  Complete all mandatory fields and click on "Save'. The ticket related will
+    be directed to the executor group defined in the activity link registration,
+    to the executor group defined in the parameter 9;
 
-    -   Complete all necessary field and click on "Save".
+4.  Note that the system will send notification e-mail about the creation,
+    escalation, capture, close and other changes in the related tickets to the
+    executor group of the main ticket.
+    
+5.  To search for tickets related, it'll be necessary to select the filter "Display related" in ,
+    the search area in the main screen of the functionality.
 
-3.  To view the sub-request:
 
-    -   Click on the ticket you want and select "View sub-request" in the
-        options menu.
         
 !!! Abstract "NOTE"
     
