@@ -1,31 +1,43 @@
 title:  Crear y ver sub-solicitudes 
 Description: Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
 #Crear y ver sub-solicitudes
-Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
+La funcionalidad permite registrar un ticket con actividades relacionadas al ticket original.
 
 Antes de empezar
 ----------------
 
-Es necesario el registro previo del ticket, del empleade y de la unidad, además
-del permiso para registrar ticket.
+Es necesario el registro previo del colaborador, contrato y unidad. También es
+necesario vincular el grupo al contrato, la unidad al contrato y el contrato al
+servicio.
+
+Registrar el portafolio con los servicios y las actividades de solicitud e
+incidente. Definir el tiempo de atención de las actividades de solicitud e
+incidente.
+
+Vincular las actividades de solicitud e incidente al contrato del servicio.
+Configurar el parámetro 385 con el valor 'S'.
 
 Procedimiento
 -------------
 
-1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
+1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
     Requerimiento e Incidente \> Ticket;
 
-2.  Para crear la sub-solicitud:
+2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear solicitud
+    relacionada" en el menú de opciones;
 
-    -   Haga clic en el ticket deseado y seleccione la alternativa "Crear
-        sub-solicitudes" en el menú opciones;
+3.  Llenar los campos necesarios y hacer clic en el botón "Guardar y mantener la
+    tarea actual". El ticket relacionado será dirigido al grupo ejecutor
+    definido en el registro del vínculo de la actividad, el mismo será dirigido
+    al grupo ejecutor definido en el parámetro 9;
 
-    -   Llenar los campos necesarios y haga clic en "Guardar".
+4.  Recuerde que el sistema enviará correos electrónicos de notificación acerca
+    de la creación, escalonamiento, captura, cierre y demás cambios de los
+    tickets relacionados para el grupo ejecutor del ticket principal.
 
-3.  Para ver la sub-solicitud:
+5.  Para buscar los tickets relacionados, es necesario marcar el filtro "Ver relacionados" 
+    en el área de búsqueda en la pantalla principal de la funcionalidad.
 
-    -   Haga clic en el ticket deseado y seleccione la alternativa "Mostrar
-        sub-solicitudes" en el menú de opciones.
         
 !!! Abstract "ATENCIÓN"
 
