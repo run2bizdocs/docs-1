@@ -16,17 +16,16 @@ Procedimiento
 1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
     Requerimiento e Incidente \> Ticket;
 
-2.  Para crear la sub-solicitud:
+2.  Para crear lo ticket relacionado:
 
     -   Haga clic en el ticket deseado y seleccione la alternativa "Crear
-        sub-solicitudes" en el menú opciones;
+        solicitude relacionada" en el menú opciones;
 
     -   Llenar los campos necesarios y haga clic en "Guardar".
 
-3.  Para ver la sub-solicitud:
+3.  Para ver lo ticket relacionado:
 
-    -   Haga clic en el ticket deseado y seleccione la alternativa "Mostrar
-        sub-solicitudes" en el menú de opciones.
+    -   En la columna de ticket, buscar por el ticket que hizo la relación y aparecerá debajo del número un botón llamado "Solicitudes Relacionadas".
 
 
 !!! Abstract "ATENCIÓN"
