@@ -23,7 +23,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Request and Incident Management \> Service Request and Incident;
 
-2.  Click on the ticket you want and select "Create Related Request" in the
+2.  Click on the ticket you want and select "Create subrequest" in the
     options menu;
 
 3.  Complete all mandatory fields and click on "Save'. The ticket related will
@@ -34,7 +34,7 @@ Procedure
     escalation, capture, close and other changes in the related tickets to the
     executor group of the main ticket.
     
-5.  To search for tickets related, it'll be necessary to select the filter "Display related" in ,
+5.  To search for tickets related, it'll be necessary to select the filter "Show related" in ,
     the search area in the main screen of the functionality.
 
 
