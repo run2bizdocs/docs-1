@@ -142,14 +142,15 @@ Parametrização \> Parâmetros CITSmart;
 
 2. Detalhes dos parâmetros:
 
--   401: URL do servidor Saiku
+    -   401: URL do servidor Saiku
 
-Exemplo: http://127.0.0.1:8282
+    Exemplo: http://127.0.0.1:8282
 
--   412: Job para atualização da senha Saiku
+    -   412: Job para atualização da senha Saiku
 
-Exemplo:
-http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
+    Exemplo:
+    http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
+
 
 Relacionado
 -----------
