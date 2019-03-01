@@ -1,31 +1,41 @@
 title:  Criar e visualizar sub-solicitação
 Description: É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada. 
 #Criar e visualizar sub-solicitação
-É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada.
+
+A funcionalidade permite cadastrar um ticket com atividades relacionada ao ticket original.
 
 Antes de começar
 ----------------
 
-É necessário o cadastro prévio do ticket, do colaborador e da unidade além da
-permissão para registrar ticket.
+É necessário o cadastro prévio do colaborador, contrato e unidade. Também é
+preciso vincular o grupo ao contrato, a unidade ao contrato e o contrato ao
+serviço.
+
+Cadastrar o portfólio com os serviços e as atividades de requisição e incidente.
+Definir o tempo de atendimento das atividades de requisição e incidente.
+
+Vincular as atividades de requisição e incidente ao contrato do serviço.
+Configurar o parâmetro 385 com o valor 'S'.
 
 Procedimento
 ------------
 
 1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
 
-2.  Para criar a sub-solicitação:
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar Solicitação
+    Relacionada" no menu opções;
 
-    -   Clicar sobre o ticket desejado e selecionar a alternativa "Criar
-        sub-solicitações" no menu opções;
+3.  Preencher os campos necessários e clicar no botão "Gravar". O ticket relacionado será direcionado para o grupo executor definido
+    no registro do vínculo da atividade, o mesmo será direcionado para o grupo
+    executor definido no parâmetro 9;
 
-    -   Preencher os campos necessários e clicar "Gravar".
+4.  Lembre-se que o sistema enviará e-mails de notificação a respeito de
+    criação, escalonamento, captura, encerramento e demais alterações dos
+    tickets relacionados para o grupo executor do ticket principal.
+    
+5.  Para pesquisar os tickets relacionados, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal     da funcionalidade.
 
-3.  Para visualizar sub-solicitação:
-
-    -   Clicar sobre o ticket desejado e selecionar a alternativa
-        "Exibir sub-solicitações" no menu opções.
         
 !!! Abstract "ATENÇÃO"
     A sub-solicitação tem um fluxo próprio, portanto, não é encerrada juntamente
