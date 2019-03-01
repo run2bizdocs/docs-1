@@ -17,15 +17,14 @@ to have permission to register the ticket.
 
 2.  To create the sub-request:
 
-    -   Click on the ticket you want and select "Create sub-request" in the
+    -   Click on the ticket you want and select "Create related request" in the
         options menu;
 
     -   Complete all necessary field and click on "Save".
 
-3.  To view the sub-request:
+3.  To view the related ticket:
 
-    -   Click on the ticket you want and select "View sub-request" in the
-        options menu. 
+    -   In the Ticket column, search for the ticket that made the relation and will appear below the number one button called "Related Requests". 
  
  
 !!! Abstract "ATTENTION"
