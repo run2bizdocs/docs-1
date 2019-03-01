@@ -1,43 +1,34 @@
 title:  Registrar ticket relacionado 
 Description: Permite registrar un ticket con actividades relacionadas al ticket original.
 #Registrar ticket relacionado
-La funcionalidad permite registrar un ticket con actividades relacionadas al ticket original.
+
+En el ticket relacionado sólo es posible crear una sub-solicitud a través de la solicitud original y visualizarla después de la creación.
 
 Antes de empezar
 ----------------
 
-Es necesario el registro previo del colaborador, contrato y unidad. También es
-necesario vincular el grupo al contrato, la unidad al contrato y el contrato al
-servicio.
-
-Registrar el portafolio con los servicios y las actividades de solicitud e
-incidente. Definir el tiempo de atención de las actividades de solicitud e
-incidente.
-
-Vincular las actividades de solicitud e incidente al contrato del servicio.
-Configurar el parámetro 385 con el valor 'S'.
+Es necesario el registro previo del ticket, del empleade y de la unidad, además
+del permiso para registrar ticket.
 
 Procedimiento
 -------------
 
-1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
+1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
     Requerimiento e Incidente \> Ticket;
 
-2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear solicitud
-    relacionada" en el menú de opciones;
+2.  Para crear la sub-solicitud:
 
-3.  Llenar los campos necesarios y hacer clic en el botón "Guardar y mantener la
-    tarea actual". El ticket relacionado será dirigido al grupo ejecutor
-    definido en el registro del vínculo de la actividad, el mismo será dirigido
-    al grupo ejecutor definido en el parámetro 9;
+    -   Haga clic en el ticket deseado y seleccione la alternativa "Crear
+        sub-solicitudes" en el menú opciones;
 
-4.  Recuerde que el sistema enviará correos electrónicos de notificación acerca
-    de la creación, escalonamiento, captura, cierre y demás cambios de los
-    tickets relacionados para el grupo ejecutor del ticket principal.
+    -   Llenar los campos necesarios y haga clic en "Guardar".
 
-5.  Para buscar los tickets relacionados, es necesario marcar el filtro "Ver relacionados" 
-    en el área de búsqueda en la pantalla principal de la funcionalidad.
-    
+3.  Para ver la sub-solicitud:
+
+    -   Haga clic en el ticket deseado y seleccione la alternativa "Mostrar
+        sub-solicitudes" en el menú de opciones.
+
+
 !!! Abstract "ATENCIÓN"
 
     Los tickets relacionados por no tener flujo propio, se cierran automáticamente 
