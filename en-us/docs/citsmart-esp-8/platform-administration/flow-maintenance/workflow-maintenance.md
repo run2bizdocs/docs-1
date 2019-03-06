@@ -52,7 +52,7 @@ Procedure
     each of these elements will be accessible to each activity performed by these elements,
     which are:
     
-    -   **Events:*** it presents the events elements to be used in the flow design. They are:
+    -   **Events**: it presents the events elements to be used in the flow design. They are:
     
         -   Initial Event
        
@@ -70,7 +70,7 @@ Procedure
         
         -   Event End
         
-    -   **Activities:** the elements of activities that can be used in the flow design. They are:
+    -   **Activities**: the elements of activities that can be used in the flow design. They are:
     
         -   User Task
         
@@ -86,7 +86,7 @@ Procedure
         
         -   Subprocess
         
-    -   **Extensions:** the extensions that can be used in the flow design. They are:
+    -   **Extensions**: the extensions that can be used in the flow design. They are:
     
         -   REST Communication
         
@@ -96,7 +96,7 @@ Procedure
         
         -   Watson Conversation
         
-    -   **Gateways:** the elements of gateway that can be used in the flow design. They are:
+    -   **Gateways**: the elements of gateway that can be used in the flow design. They are:
     
         -   Inclusive Gateway
         
@@ -108,13 +108,13 @@ Procedure
         
         -   Gateway Based on Event
         
-    -   **Swimianes:** the elements of swimianes that can be used in the flow design. They are:
+    -   **Swimianes**: the elements of swimianes that can be used in the flow design. They are:
     
         -   Pool/Participant
         
         -   Lane
         
-    -   **Artifact:** the element of artifact that can be used in the flow design. They are:
+    -   **Artifact**: the element of artifact that can be used in the flow design. They are:
     
         -   Text Notes
         
