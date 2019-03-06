@@ -29,9 +29,7 @@ Procedimiento
         
 4.  En la pestaña **Permisos**, definir los grupos que terán acesso;
 
-5.  En la pestaña **Construcción**, personalizar visualmente el Centro de Experiencia,
-    además de poder crear secciones y añadir Widgets, Enlaces y vincular a otros
-    Centros de Experiencia:
+5.  En la pestaña **Construcción**, personalizar visualmente el Centro de Experiencia, además de poder crear secciones y añadir Widgets, Enlaces y vincular a otros Centros de Experiencia:
     
     *Personalizar visualmente*
     
@@ -46,8 +44,7 @@ Procedimiento
         
     *Widgets con navegación*
     
-    Esta estructura permite la creación de un Centro de Experiencia con un menú
-    lateral. Cada elemento de menú puede contener widgets específicos.
+    Esta estructura permite la creación de un Centro de Experiencia con un menú lateral. Cada elemento de menú puede contener widgets       específicos.
     
     -   Para agregar nueva sección, hacer clic en el botón con el signo "+";
     
@@ -63,13 +60,11 @@ Procedimiento
         
         -   Enlace: completar con el enlace que desea hacer disponible en el menú;
         
-        -   Centro de Experiencia: vincular un Centro de Experiencia ya existente
-            (del **Tipo** Vínculo).
+        -   Centro de Experiencia: vincular un Centro de Experiencia ya existente (del **Tipo** Vínculo).
             
     *Widgets sin navegación*
     
-    Esta estructura permite la creación de un Centro de Experiencia sólo utilizando
-    widgets.
+    Esta estructura permite la creación de un Centro de Experiencia sólo utilizando widgets.
     
     -  Haces clic en el signo positivo "+";
     
@@ -85,7 +80,7 @@ Procedimiento
 ### Widgets Disponibles
 
 
-|        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                         |
+|        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                       |
 |:-----------------------:|:-------------:|:------------------------------------------------------------------------------------------:|
 | Portal del Conocimiento |     Atajo     |                            Atajo para el Portal del Conocimiento.                            |
 |       Contáctenos       |     Atajo     |                                     Atajo para atención.                                     |
