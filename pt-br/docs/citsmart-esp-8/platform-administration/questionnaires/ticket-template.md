@@ -76,6 +76,7 @@ Relacionado
 [Cadastrar questionário](/pt-br/citsmart-esp-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
