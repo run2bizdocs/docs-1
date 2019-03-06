@@ -43,7 +43,7 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/citsmart-esp-8/platform-administration/region-and-language/register-unit.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 [Configure parametrização - mudança](/pt-br/citsmart-esp-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
