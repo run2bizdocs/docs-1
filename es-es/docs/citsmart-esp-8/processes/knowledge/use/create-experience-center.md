@@ -82,28 +82,28 @@ Procedimiento
 
 |        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                       |
 |:-----------------------:|:-------------:|:------------------------------------------------------------------------------------------:|
-| Portal del Conocimiento |     Atajo     |                            Atajo para el Portal del Conocimiento.                            |
-|       Contáctenos       |     Atajo     |                                     Atajo para atención.                                     |
-|          Anuva          |     Atajo     |                       Atajo para hablar con el asistente virtual Anuva.                      |
-|         Noticias        |    General    |                          Ver los conocimientos del tipo "Noticias".                          |
-|      Notificaciones     |    General    |                            Mostrar las notificaciones del Sistema.                           |
-|    Encuesta (Surveys)   |    General    |                        Ofrecer Surveys construidos en el CITSmart HSM.                       |
-|         Youtube         |    General    |                                 Ver vídeo de Youtube (embed)                                 |
-|          Imagen         |    General    |                                        Insertar imagen                                       |
-|        Slideshow        |    General    |                              Mostrar Slideshow de tipo carrusel.                             |
-|         Divisor         |    General    |                            Insertar línea horizontal en la página.                           |
-|         Espacio         |    General    |                                Insertar espacio en la página.                                |
-|          Texto          |    General    |                              Insertar texto con varios formatos.                             |
-|          Lista          |    General    |                                  Insertar lista de enlaces.                                  |
-|           Menú          |    General    |                                Insertar menú de CITSmart HSM.                                |
-|       Mis Tickets       |    Tickets    |                          Cargar los tickes abiertos por el usuario.                          |
-|     Mis aprobaciones    |    Tickets    |             Mostrar las solicitudes que requieren aprobación (depende del flujo).            |
-|     Mis Portafolios     |  Portafolios  | Insertar el Portafolio de servicios (depende de la configuración de acceso a los servicios). |
-|      Mis Workplace      |   Workplace   |                     Insertar Workplace (dashboards, smart reports, etc).                     |
-|       Conocimiento      | Conocimientos |                            Cargar el contenido de un conocimiento.                           |
-|         Favorito        | Conocimientos |                         Mostrar la lista de conocimientos favoritos.                         |
-|         Indicado        | Conocimientos |                         Mostrar la lista de conocimientos indicados.                         |
-|         Curtido         | Conocimientos |                          Mostrar la lista de conocimientos curtidos.                         |
+| Portal del Conocimiento |     Atajo     |                            Atajo para el Portal del Conocimiento.                           
+|       Contáctenos       |     Atajo     |                                     Atajo para atención.                                     
+|          Anuva          |     Atajo     |                       Atajo para hablar con el asistente virtual Anuva.                     
+|         Noticias        |    General    |                          Ver los conocimientos del tipo "Noticias".                         
+|      Notificaciones     |    General    |                            Mostrar las notificaciones del Sistema.                           
+|    Encuesta (Surveys)   |    General    |                        Ofrecer Surveys construidos en el CITSmart HSM.                       
+|         Youtube         |    General    |                                 Ver vídeo de Youtube (embed)                                 
+|          Imagen         |    General    |                                        Insertar imagen                                       
+|        Slideshow        |    General    |                              Mostrar Slideshow de tipo carrusel.                             
+|         Divisor         |    General    |                            Insertar línea horizontal en la página.                           
+|         Espacio         |    General    |                                Insertar espacio en la página.                               
+|          Texto          |    General    |                              Insertar texto con varios formatos.                             
+|          Lista          |    General    |                                  Insertar lista de enlaces.                                 
+|           Menú          |    General    |                                Insertar menú de CITSmart HSM.                               
+|       Mis Tickets       |    Tickets    |                          Cargar los tickes abiertos por el usuario.                         
+|     Mis aprobaciones    |    Tickets    |             Mostrar las solicitudes que requieren aprobación (depende del flujo).           
+|     Mis Portafolios     |  Portafolios  | Insertar el Portafolio de servicios (depende de la configuración de acceso a los servicios). 
+|      Mis Workplace      |   Workplace   |                     Insertar Workplace (dashboards, smart reports, etc).                     
+|       Conocimiento      | Conocimientos |                            Cargar el contenido de un conocimiento.                           
+|         Favorito        | Conocimientos |                         Mostrar la lista de conocimientos favoritos.                         
+|         Indicado        | Conocimientos |                         Mostrar la lista de conocimientos indicados.                         
+|         Curtido         | Conocimientos |                          Mostrar la lista de conocimientos curtidos.                         
 
 
 Lo que hacer después
