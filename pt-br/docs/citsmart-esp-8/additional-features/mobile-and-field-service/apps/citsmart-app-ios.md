@@ -93,7 +93,7 @@ aplicativo na loja on-line (App Store).
 
 9.  Digite usuário e senha:
 
-    ![login](images/ios-app-pt-3.png)
+    ![login](images/ios-app-3.png)
 
     Figura 3 - login
 
