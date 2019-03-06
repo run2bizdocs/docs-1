@@ -41,7 +41,7 @@ funcionalidade
 - 9: **Adicionar Conhecimento** - permite ao usuário logado registrar um novo
 conhecimento na Base de Conhecimento
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 ![Pesquisa](images/figure2-portal.png)
 
@@ -58,6 +58,7 @@ conhecimento na Base de Conhecimento
 !!! Abstract "REGRA"
 
     A lista resultante é montada de acordo com determinadas prioridades de comparações (configuráveis). Por default, toda lista             resultante será montada comparando o texto procurado com (nesta ordem): a) conteúdo do conhecimento, b) título, c) anexos e d)           palavras-chaves (Tags).
+    
     
 1.  Após encontrar o conhecimento desejado, clique no título para visualizar o
     conteúdo:
