@@ -48,8 +48,8 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 !!! Abstract "REGLA"
 
     La lista resultante se monta de acuerdo con determinadas prioridades de comparaciones (configurables). 
-    Por default, toda lista resultante será montada comparando el texto buscado con (en este orden): (a) 
-    contenido del conocimiento, (b) título, (c) anexos y (d) palabras claves (Tags).
+    Por default, toda lista resultante será montada comparando el texto buscado con (en este orden): a) 
+    contenido del conocimiento, b) título, c) anexos y d) palabras claves (Tags).
     
   
 1.  Después de encontrar el conocimiento deseado, haga clic en el título para ver el contenido:
