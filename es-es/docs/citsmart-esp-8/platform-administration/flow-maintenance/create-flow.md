@@ -1,68 +1,69 @@
-title: Criar um fluxo de trabalho
-Description: É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário
-#Criar um fluxo de trabalho
+title: Crear flujo de trabajo
+Description: Es posible crear flujos de trabajo que mejor se adecuan a la realidad del usuario
+#Crear flujo de trabajo
 
- É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário, personalizando os cenários de cada organização.
+ Es posible crear flujos de trabajo que mejor se adecuan a la realidad del usuario, personalizando los escenarios de cada organización.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar o menu principal Sistema \> Manutenção de fluxo;
+1.  Acceder al menú principal Sistema \> Mantenimiento de Flujos;
 
-2.  Clicar no botão “Novo’;
+2.  Hacer clic en "Nuevo";
 
-3.  Na aba “Dados do Fluxo” é necessário preencher os dados obrigatórios: nomear
-    o fluxo (seu identificador interno, deve ser informado sem espaço, acentos e
-    caracteres especiais); o processo a que está vinculado (o fluxo estará
-    vísivel apenas para o processo a que está vinculado) e a opção para permitir
-    a rebertura de um serviço independentemente das configurações de grupo.
-    Também é possível visualizar qual a versão o fluxo se encontra. [Ver mais informações][1].
+3.  En la pestaña "Datos del Flujo" es necesario completar los datos obligatorios: nombre
+    del flujo (su identificador interno, debe ser informado sin espacio, acentos y
+    caracteres especiales); el proceso al que está vinculado (el flujo estará sólo para
+    el proceso al que está vinculado) y la opción para permitir la reapertura de un
+    un servicio independientemente de la configuración de grupo. También se puede ver
+    qué versión se encuentra el flujo. [Ver más informaciones][1].
 
-3.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
-    elementos que representam o cenário pretendido. Para tanto, basta clicar no
-    elemento e arrastá-lo para a área de desenho. Ao fazer isso, será exibida
-    uma tela para definir as propriedades. Devemos levar em consideração que sempre
-    um fluxo começa com o elemento "Evento Início" e termina com o elemento "Evento Fim".
+3.  En la pestaña "Diagrama" se muestra la herramienta para dibujar el flujo insertando los
+    elementos que representan el escenario deseado. Para ello, basta hacer clic en el
+    elemento y arrastrarlo al área de dibujo. Al hacer esto, se mostrará una pantalla
+    para definir las propiedades. Debemos tener en cuenta que siempre un flujo comienza con 
+    el elemento "Evento Inicio" y termina con el elemento "Evento Fin".
 
     !!! tip "IMPORTANTE"
-        Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
-        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
-		É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+        
+	Los caminos condicionales de un flujo deben definirse en la conexión (Flujo de Secuencia). 
+        Para acceder a estas opciones, haga clic una vez en la conexión y después en el icono de propiedades.
+        Es posible identificar la conexión (Ej.: aprobada) e indicar una Condición, Acción o Estado. [Ver Construir Expresiones][2].
 
-4.  As propriedas de um elemento podem ser definidas ao clicar duas
-    vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
-    Defina os dados desta propriedade ao informar os dados necessários em cada uma das
-    abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
-    ao fluxo na aba “Base de conhecimento” e implementar funcionalidades no
-    fluxo sobre a atividade ao clicar na aba “Interface”;
+4.  Las propiedades de un elemento se pueden definir al hacer doble clic en el elemento 
+    y luego en el icono que aparece junto al mismo (icono de propiedades). Defina los datos
+    de esta propiedad al informar los datos necesarios en cada una de las pestañas de la
+    pantalla de propiedades. Aquí también se libera vincular un conocimiento al flujo en la
+    "Base de conocimiento" e implementar funcionalidades en el flujo sobre la actividad
+    actividad al hacer clic en la pestaña "Interfaz";
 
-    !!! warning "ATENÇÃO"
+    !!! warning "ATENCIÓN"
 
-        A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão, questionário ou formulario neuro) que será aplicado ao serviço.
-        Porém, caso não ocorra a vinculação de nenhum template de
-        solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
-        configurações de um formulário padrão, habilitado a vinculação de item de
-        configuração, mudança, problema e solicitação relacionado ao ticket na tela
-        de gerenciamento de tickets.  
-        Podemos citar também outra regra referente a esta aba: as normativas aqui
-        configuradas terão prioridade em relação às marcações do template de
-        solicitação de serviço, pois esta é um complemento do fluxo.  
+        La pestaña "Interfaz" permite elegir el modo de interacción (formulario
+        estándar, cuestionario o formulario neuro) que se aplicará al servicio.
+        Sin embargo, si no ocurre la vinculación de ninguna plantilla de
+        solicitud de servicio en esta pestaña, el sistema subentendirá y aplicará las
+        configuraciones de un formulario estándar, habilitado para vincular el elemento de
+        configuración, cambio, problema y solicitud relacionada con el ticket en la pantalla
+        de gestión de tickets.  
+        Podemos citar también otra regla referente a esta pestaña: las normativas aquí
+        configuradas tendrán prioridad en relación a las marcas del template de
+        solicitud de servicio, ya que es un complemento del flujo.  
 
-5.  Além disso, a funcionalidade admite importar fluxos ao clicar no botão
-    “Importar”. Poderá importar no formato “JSON” ou “XML”.
+5.  Además, la funcionalidad admite importar flujos al hacer clic en el botón
+    "Importar". Puede importar en el formato "JSON" o "XML".
 
-6.  Após definir o fluxo, clicar no botão “Gravar” para efetuar a operação.
+6.  Después de definir el flujo, haga clic en el botón "Grabar" para efectuar la operación.
 
 Relacionado
 ------------
 
-[Manutenção de fluxo](/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Mantenimiento del flujo](/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
-[2]:/pt-br/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
+[1]:/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html
+[2]:/es-es/citsmart-esp-8/platform-administration/flow-maintenance/expressions-creator.html
