@@ -45,7 +45,8 @@ It also enables it to register a new knowledge in order to make the portal dynam
   
 !!! Abstract "RULE" 
 
-    The resulting list is mounted according to certain (configurable) comparisons priorities. By default, any resulting list will be         assembled by comparing the searched text with (in this order): (a) content of knowledge, (b) title, (c) attachments and (d) keywords     (Tags).
+    The resulting list is mounted according to certain (configurable) comparisons priorities. By default, any resulting list will be         assembled by comparing the searched text with (in this order): a) content of knowledge, b) title, c) attachments and d) keywords         (Tags).
+    
     
 1.  After finding the desired knowledge, click on the title to view the content:   
 
