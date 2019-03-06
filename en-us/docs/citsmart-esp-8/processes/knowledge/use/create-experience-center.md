@@ -40,13 +40,11 @@ Procedure
     
     -   To define the style of the grid, choose one of the options available;
     
-    -   To choose the font color of the menus, click on the field located in
-        front of "Theme color".
+    -   To choose the font color of the menus, click on the field located in front of "Theme color".
         
     *Widgets with navigation*
     
-    This structure allows the creation of an Experiment Center with a side menu.
-    Each menu item may contain specific widgets.
+    This structure allows the creation of an Experiment Center with a side menu. Each menu item may contain specific widgets.
     
     -   To add new section, click on the signal "+";
     
@@ -78,11 +76,11 @@ Procedure
 
 
 
+ ### Widgets Available
+ 
 
- ### Widgets Available    
-
-| **Name**               | **Type**       | **Objective**                                                                    |
-|--------------------|------------|------------------------------------------------------------------------------|
+|      **Name**      |  **Type**  |                          **Objective**                                       |
+|:------------------:|:----------:|:----------------------------------------------------------------------------:|
 | Knowledge Portal   | Shortcut   | Shortcut to the Knowledge Portal.                                            |
 | Contact us         | Shortcut   | Shortcut to our attendance center.                                           |
 | Anuva              | Shortcut   | Shortcut to talk with our virtual assistant Anuva.                           |
