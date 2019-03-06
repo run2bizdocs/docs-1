@@ -2,7 +2,7 @@ Title: Configura cuenta de correo electrónico
 
 # Configurar cuenta de correo electrónico
 
-Este documento tiene como objetivo presentar un paso a paso de la configuración de correo electrónico en el CITSmart ESP, a través de la lectura (IMAP) y envío (SMTP) de mensajes.
+Este documento tiene como objetivo presentar un paso a paso de la configuración de correo electrónico en el CITSmart Platform, a través de la lectura (IMAP) y envío (SMTP) de mensajes.
 
 ## Lo que hacer antes
 
@@ -41,6 +41,6 @@ Obtenga la información de correo electrónico y configure los permisos de acces
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

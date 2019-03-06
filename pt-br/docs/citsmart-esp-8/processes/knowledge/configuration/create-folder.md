@@ -45,5 +45,5 @@ Relacionado
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins 

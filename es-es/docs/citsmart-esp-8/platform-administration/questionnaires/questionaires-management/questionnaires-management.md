@@ -2,7 +2,7 @@ Title: Mantenimiento de Cuestionario
 
 # Mantenimiento de Cuestionarios
 
-Los cuestionarios son instrumentos que se pueden utilizar para recopilar información. En el CITSmart ESP, se pueden utilizar para capturar información al inicio de una atención (Gestión de Tickets) y servir como recursos para la aplicación de listas de verificación en los procesos de Cambio, Liberación y Problema.
+Los cuestionarios son instrumentos que se pueden utilizar para recopilar información. En el CITSmart Platform, se pueden utilizar para capturar información al inicio de una atención (Gestión de Tickets) y servir como recursos para la aplicación de listas de verificación en los procesos de Cambio, Liberación y Problema.
 
 ## Relacionado
 
@@ -13,7 +13,7 @@ Los cuestionarios son instrumentos que se pueden utilizar para recopilar informa
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - Anna Martins  
 	
 

@@ -24,7 +24,7 @@ mesmo.
 Procedimento 
 -------------
 
-*Estes passos são para a funcionalidade no CITSmart ESP 8 quanto para o mobile
+*Estes passos são para a funcionalidade no CITSmart Platform 8 quanto para o mobile
 CITSmart SM.*
 
 
@@ -65,5 +65,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

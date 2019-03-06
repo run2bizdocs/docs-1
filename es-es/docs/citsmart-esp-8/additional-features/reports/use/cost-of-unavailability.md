@@ -130,7 +130,7 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 
 [1]:/es-es/citsmart-esp-8/additional-features/reports/use/images/confiabilidade.citreport

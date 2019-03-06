@@ -92,5 +92,5 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins

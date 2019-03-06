@@ -3,12 +3,12 @@ title: Visão Geral
 Plataforma CITSmart
 ============
 
-O CITSmart ESP é uma plataforma inteligente de governança corporativa, criada para
+O CITSmart Platform é uma plataforma inteligente de governança corporativa, criada para
 facilitar a unificação de informações. Permite a gestão da
 Informação dos serviços e seus processos no ambiente organizacional,
 proporcionando governança.
 
-*CITSmart ESP é um conceito inteligente de união e praticidade na gestão
+*CITSmart Platform é um conceito inteligente de união e praticidade na gestão
 corporativa.*
 
 Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
@@ -36,7 +36,7 @@ Isso fornece às empresas uma estrutura organizacional e uma implementação de
 serviços que aplicam as melhores práticas ao ambiente organizacional,
 traduzindo objetivos e metas em realidade mensurável.
 
-Atendendo a essas demandas, a governança do CITSmart ESP fornece os recursos para
+Atendendo a essas demandas, a governança do CITSmart Platform fornece os recursos para
 gerenciar o ambiente informacional dentro das melhores práticas para a
 execução, monitoramento e medição, culminando na disponibilidade de
 serviços que atendam às necessidades da organização, alcance de seus escopos corporativos
@@ -129,12 +129,12 @@ segue o conceito integrador de Governança
 Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo
 de acordo com as necessidades e modelo de negócio da sua instituição.
 
-O CITSmart ESP foi planejado e escrito com o objetivo de esclarecer o universo de
+O CITSmart Platform foi planejado e escrito com o objetivo de esclarecer o universo de
 gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de
 nformações e demandas dos diversos componentes de uma empresa, tornando o seu
 dia-a-dia mais prático, inteligente e dinâmico.
 
-A solução CITSmart ESP foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
+A solução CITSmart Platform foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
 Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços
 com base nos principais processos ITIL da sua organização,
 apoiados pela certificação internacional Pink Elephant.
@@ -174,7 +174,7 @@ Por que adotá-lo?
 
 Ágil é o novo normal. Adaptar-se rapidamente é quase obrigatório.
 
-O CITSmart ESP é desenhado para mover departamentos e pessoas em um conceito ágil,
+O CITSmart Platform é desenhado para mover departamentos e pessoas em um conceito ágil,
 sem esquecer o fator humano, para as metas estabelecidas por cada
 organização. Acreditamos que mais do que velocidade, o importante é ter
 consistência no movimento.
@@ -201,7 +201,7 @@ ou compra. Prepare-se para este futuro.
 
 ### Diferencial Competitivo
 
-CITSmart ESP traz os seguintes diferenciais competitivos:
+CITSmart Platform traz os seguintes diferenciais competitivos:
 
 -   Pronto para uso (85% das personalizações para TI e RH já estão aplicadas).
     A transformação digital começa rapidamente.

@@ -22,7 +22,7 @@ Es necesario el registro previo del ticket y tener permiso para aprobarlo.
 Procedimiento
 -------------
 
-*Estos pasos son para la funcionalidad en CITSmart ESP 8 como para el mobile
+*Estos pasos son para la funcionalidad en CITSmart Platform 8 como para el mobile
 CITSmart SM.*
 
 
@@ -61,5 +61,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

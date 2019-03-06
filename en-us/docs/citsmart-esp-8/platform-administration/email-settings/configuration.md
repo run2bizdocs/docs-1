@@ -2,7 +2,7 @@ Title: Configure email account
 
 # Configure email account
 
-This document aims to present a step-by-step of the email configuration in CITSmart ESP by reading (IMAP) and sending (SMTP) messages.
+This document aims to present a step-by-step of the email configuration in CITSmart Platform by reading (IMAP) and sending (SMTP) messages.
 
 ## What to do before
 
@@ -41,6 +41,6 @@ Get the email information and configure the access permissions to the email serv
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

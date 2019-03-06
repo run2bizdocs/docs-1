@@ -2,7 +2,7 @@ Title: Configurar Serviço de Indexação
 
 # Configurar Serviço de Indexação
 
-O CITSmart ESP usa SOLR para indexar a informação na funcionalidade busca do Portal de Conhecimento.
+O CITSmart Platform usa SOLR para indexar a informação na funcionalidade busca do Portal de Conhecimento.
 
 
 ## O que fazer antes
@@ -28,5 +28,5 @@ Instalar o componente SOLR, como apresentado no [manual de instalação][1].
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

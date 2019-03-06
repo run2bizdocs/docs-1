@@ -49,7 +49,7 @@ To test the service to change the password, access the login page, click on "For
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
 [1]:/pt-br/citsmart-esp-8/platform-administration/email-settings/email-templates-configure-email-template.html

@@ -78,7 +78,7 @@ CITSmart Corporation believes that the focus of the business should be on the
 good client experience and being one-step ahead depends on how you connect the
 services and processes.
 
-That´s the new mindset for the new Companies and our CITSmart ESP - Enterprise
+That´s the new mindset for the new Companies and our CITSmart Platform - Enterprise
 Services Platform will help changes those corporates perspective.
 
 !!! tip "About"

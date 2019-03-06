@@ -1,18 +1,18 @@
 Title: Comparación - ESP 7 vs 8
 
-# Comparación - CITSmart ESP 7 vs 8
+# Comparación - CITSmart Platform 7 vs 8
 
-| Soporte, Procesos Gerenciales, Funcionalidades, Integraciones...    |    CITSmart ESP 7    |    CITSmart ESP 8    |
+| Soporte, Procesos Gerenciales, Funcionalidades, Integraciones...    |    CITSmart Platform 7    |    CITSmart Platform 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Aplicación Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Android app                                    |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Soporte**                                        |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Soporte**                                        |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    Teléfono                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Soporte en línea                               |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    documentación                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Tutoriales en Vídeo                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Procesos Gerenciales**                           |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Procesos Gerenciales**                           |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    Gestión de Portafolio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gestión de Catálogo de Servicio                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gestión de Nivel de Servicio                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -27,7 +27,7 @@ Title: Comparación - ESP 7 vs 8
 |    Gestión de Disponibilidad                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gestión de Capacidad                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gestión de Demanda                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Funcionalidades**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Funcionalidades**                                       |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    [Simple - Gestión de Proyecto Ágil][6]          |:no_entry_sign:|:new:           |
 |    Gestión de Tareas con Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Centro de Experiencia con los Usuarios][7]               |:no_entry_sign:|:new:           |
@@ -49,7 +49,7 @@ Title: Comparación - ESP 7 vs 8
 |    Widgets                                        |:ballot_box_with_check:|:ballot_box_with_check:  |
 |    [Anuva aplicación - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
-|    **Integraciones**                                   |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Integraciones**                                   |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Zabbix                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
@@ -57,7 +57,7 @@ Title: Comparación - ESP 7 vs 8
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Saiku][20]                                          |:no_entry_sign:|:new:          |
 |    Correo Electrónico                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Seguridad**                                       |    **CITSmart ESP 7**    |    **CITSmart ESP 8**    |
+|    **Seguridad**                                       |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
 + Etiqueta

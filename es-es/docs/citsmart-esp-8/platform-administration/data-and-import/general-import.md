@@ -1,7 +1,7 @@
 Title: Importación general
 # Importación general
 
-Es posible importar un rango de datos al CITSmart ESP, esto puede ayudar en el proceso de configuración de la herramienta o diseño del proceso.
+Es posible importar un rango de datos al CITSmart Platform, esto puede ayudar en el proceso de configuración de la herramienta o diseño del proceso.
 
 
 
@@ -19,6 +19,6 @@ Es posible importar un rango de datos al CITSmart ESP, esto puede ayudar en el p
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

@@ -2,7 +2,7 @@ Title: General Import
 
 # General Import
 
-It's possible to import a range of data to the CITSmart ESP, this can help in the process of tool configuration or process design.
+It's possible to import a range of data to the CITSmart Platform, this can help in the process of tool configuration or process design.
 
 
 # Related
@@ -19,6 +19,6 @@ It's possible to import a range of data to the CITSmart ESP, this can help in th
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

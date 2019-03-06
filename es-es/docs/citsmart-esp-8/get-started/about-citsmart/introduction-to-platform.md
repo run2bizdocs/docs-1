@@ -78,7 +78,7 @@ CITSmart Corporation cree que el foco del negocio debe estar en la buena
 experiencia del cliente, y estar un paso adelante depende de cómo se conecta
 servicios y procesos.
 
-Esta es la nueva mentalidad para las nuevas empresas y nuestra CITSmart ESP -
+Esta es la nueva mentalidad para las nuevas empresas y nuestra CITSmart Platform -
 Enterprise Services Platform ayudará a cambiar la perspectiva de estas corporaciones.
 
 !!! tip "About"

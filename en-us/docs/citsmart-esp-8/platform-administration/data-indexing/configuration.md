@@ -2,7 +2,7 @@ Title: Configure Indexing Service
 
 # Configure Indexing Service
 
-CITSmart ESP uses Apache SOLR to index information in the search functionality of Knowledge Portal.
+CITSmart Platform uses Apache SOLR to index information in the search functionality of Knowledge Portal.
 
 
 ## What to do before
@@ -28,5 +28,5 @@ Install the SOLR component, as shown in the [installation manual][1].
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

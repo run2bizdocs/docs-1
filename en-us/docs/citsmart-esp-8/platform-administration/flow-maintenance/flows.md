@@ -2,7 +2,7 @@ Title: Flows
 
 # Flows
 
-Flows are visual representations of something that moves continuously. In CITSmart ESP, the flow tool makes possible to construct process paths, for example, a workflow for a given service, among others.
+Flows are visual representations of something that moves continuously. In CITSmart Platform, the flow tool makes possible to construct process paths, for example, a workflow for a given service, among others.
 
 ## Related
 
@@ -15,6 +15,6 @@ Flows are visual representations of something that moves continuously. In CITSma
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

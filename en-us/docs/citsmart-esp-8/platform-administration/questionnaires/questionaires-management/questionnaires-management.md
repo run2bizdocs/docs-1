@@ -2,7 +2,7 @@ Title: Questionnaires Management
 
 # Questionnaires Management
 
-Questionnaires are instruments that can be used to collect information. In CITSmart ESP, they can be used to capture information at the beginning of an attendance (Ticket Management) and serve as resources for applying checklists in the processes of Change, Release and Problem.
+Questionnaires are instruments that can be used to collect information. In CITSmart Platform, they can be used to capture information at the beginning of an attendance (Ticket Management) and serve as resources for applying checklists in the processes of Change, Release and Problem.
 
 ## Related
 
@@ -13,7 +13,7 @@ Questionnaires are instruments that can be used to collect information. In CITSm
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	
 

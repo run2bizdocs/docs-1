@@ -16,11 +16,11 @@ CITSmart Inventory works in conjunction with [CITSmart Event Monitor - EVM][1] a
 2. Download the WAR package from the EVM component;  
 3. Unpack the files;  
 4. Copy the package to the deployment folder of the Wildfly application server;  
-5. Configure [System Properties][2] with data of CITSmart ESP instance;
+5. Configure [System Properties][2] with data of CITSmart Platform instance;
 
 ## What to do next  
 
-To test the Inventory, [configure][3] the connections in the CITSmart ESP instance.
+To test the Inventory, [configure][3] the connections in the CITSmart Platform instance.
 
 ## Related
 
@@ -36,6 +36,6 @@ To test the Inventory, [configure][3] the connections in the CITSmart ESP instan
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

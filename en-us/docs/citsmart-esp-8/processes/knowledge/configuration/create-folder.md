@@ -31,5 +31,5 @@ It's necessary to previously register a profile and a group.
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>12/28/2018 – João Pelles Junior 

@@ -62,7 +62,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
 [1]:/es-es/citsmart-esp-8/platform-administration/flow-maintenance/workflow-maintenance.html

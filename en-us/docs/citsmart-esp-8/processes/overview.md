@@ -1,16 +1,16 @@
 title: Overview  
 
-Description: CITSmart is an intelligent corporate governance platform, created to facilitate the unification of information. It enables the management of Information of services and their processes in the organizational environment providing governance.CITSmart ESP is an intelligent concept of unity and practicality in corporate management. 
+Description: CITSmart is an intelligent corporate governance platform, created to facilitate the unification of information. It enables the management of Information of services and their processes in the organizational environment providing governance.CITSmart Platform is an intelligent concept of unity and practicality in corporate management. 
 
 CITSmart Platform
 ============
 
-CITSmart ESP is an intelligent corporate governance platform, created to
+CITSmart Platform is an intelligent corporate governance platform, created to
 facilitate the unification of information. It enables the management of
 Information of services and their processes in the organizational environment
 providing governance.
 
-*CITSmart ESP is an intelligent concept of unity and practicality in corporate
+*CITSmart Platform is an intelligent concept of unity and practicality in corporate
 management.*
 
 Aligned with the Business Service Management techniques by adopting the best
@@ -38,7 +38,7 @@ This provides companies with an organizational structure and a service
 implementation that applies the best practices to the organizational
 environment, translating objectives and goals into measurable reality.
 
-Meeting these demands, the governance of CITSmart ESP provides the resources to
+Meeting these demands, the governance of CITSmart Platform provides the resources to
 manage the informational environment within the best practices for the
 execution, monitoring and measurement, culminating in the availability of
 services that meet the needs of the organization and the reach of its corporate
@@ -131,12 +131,12 @@ management practices and follows the integrative concept of Corporate
 Governance, is intended to be a source of knowledge and that can train you
 according to the needs and business model of your institution.
 
-CITSmart ESP was planned and written in order to clarify the universe of
+CITSmart Platform was planned and written in order to clarify the universe of
 intelligent and effective management of IT services, through the unification of
 information and demands from the various components of a company making your
 day-to-day business more practical, intelligent and dynamic.
 
-CITSmart ESP solution was developed with focus on meeting the needs of Service
+CITSmart Platform solution was developed with focus on meeting the needs of Service
 Management and Service Desk. It's possible to develop and deploy service
 management processes based on the main ITIL processes in your organization,
 supported by Pink Elephant international certification.
@@ -176,7 +176,7 @@ Why adopt it? 
 
 Agile is the new normal. Adapting quickly is almost obligatory.
 
-CITSmart ESP is designed to move departments and people in an agile concept,
+CITSmart Platform is designed to move departments and people in an agile concept,
 without forgetting the human factor, towards the goals established by each
 organization. We believe that more than speed, the important thing is to have
 consistency in movement.
@@ -203,7 +203,7 @@ or purchase. Prepare for this future.
 
 ### Competitive Differential
 
-CITSmart ESP brings the following competitive differentials:
+CITSmart Platform brings the following competitive differentials:
 
 -   Ready for use (85% of customizations for IT and HR are already applied).
     Digital transformation starts quickly.

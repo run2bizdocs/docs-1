@@ -77,6 +77,6 @@ Procedure
 10. Click on "Options" and then on "Save and advance flow" or "Save and keep current task", this last option makes possible to no advance to the next phase of the problem.    
     
 !!! tip "About"
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço
 
