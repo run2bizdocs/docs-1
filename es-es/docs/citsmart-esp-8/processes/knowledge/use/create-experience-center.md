@@ -84,8 +84,9 @@ Procedimiento
 
 ### Widgets Disponibles
 
+
 |        **Nombre**       |    **Tipo**   |                                         **Objetivo**                                         |
-|:-----------------------:|:-------------:|:--------------------------------------------------------------------------------------------:|
+|:-----------------------:|:-------------:|:------------------------------------------------------------------------------------------:|
 | Portal del Conocimiento |     Atajo     |                            Atajo para el Portal del Conocimiento.                            |
 |       Contáctenos       |     Atajo     |                                     Atajo para atención.                                     |
 |          Anuva          |     Atajo     |                       Atajo para hablar con el asistente virtual Anuva.                      |
