@@ -20,14 +20,67 @@ Procedimiento
 
 2.  Hacer clic en "Nuevo";
 
-3.  Informar los datos del CE (Título, situación y descripción);
+3.  En la pestaña **Informaciones**, completar los campos disponibles;
 
-4.  Definir los Permisos de Acceso;
+    !!! Abstract "NOTA"
+    
+        En el campo "Tipo", eligiendo la opción Vínculo, es posible hacer el Centro de 
+        Experiencia como el vínculo en otro Centro de Experiencia.
+        
+4.  En la pestaña **Permisos**, definir los grupos que terán acesso;
 
-5.  Elegir el formato del CE ("widgets con navegación", utilizando menús
-    laterales o "widgets sin navegación", sin menús laterales);
+5.  En la pestaña **Construcción**, personalizar visualmente el Centro de Experiencia,
+    además de poder crear secciones y añadir Widgets, Enlaces y vincular a otros
+    Centros de Experiencia:
+    
+    *Personalizar visualmente*
+    
+    -   Para cambiar el logo, hacer clic en "Cambiar logo";
+    
+    -   Para cambiar el encabezado, hacer clic en "Cambiar encabezado";
+    
+    -   Para definir el estilod e la grid, elegir una de las opciones disponibles;
+    
+    -   Para elegir el color de la fuente de los menús, haga clic en el campo localizado en
+        frente a "Color del tema".
+        
+    *Widgets con navegación*
+    
+    Esta estructura permite la creación de un Centro de Experiencia con un menú
+    lateral. Cada elemento de menú puede contener widgets específicos.
+    
+    -   Para agregar nueva sección, hacer clic en el botón con el signo "+";
+    
+    -   Posicionar el ratón sobre el campo "Escriba el nombre de la sección" y nombrarlo;
+    
+    -   Después de nombrar, se va crear un campo para un nuevo menú y luego nombrarlo;
+    
+    -   Para agregar nuevos menús, hacer clic en el signo "+";
+    
+    -   Para personalizar un menú, hacer clic en el botón con formato de herramienta:
+    
+        -   Widget: agrega y personaliza todos los tipos de widgets disponibles (ver tabla);
+        
+        -   Enlace: completar con el enlace que desea hacer disponible en el menú;
+        
+        -   Centro de Experiencia: vincular un Centro de Experiencia ya existente
+            (del **Tipo** Vínculo).
+            
+    *Widgets sin navegación*
+    
+    Esta estructura permite la creación de un Centro de Experiencia sólo utilizando
+    widgets.
+    
+    -  Haces clic en el signo positivo "+";
+    
+    -  Elegir el layout de la nueva sección;
+    
+    -  Elegir y personalizar los widgets disponibles (ver tabla)
+    
+6.  Hacer clic en "Guardar".    
 
-6.  Construir el CE; 
+
+
 
 ### Widgets Disponibles
 
