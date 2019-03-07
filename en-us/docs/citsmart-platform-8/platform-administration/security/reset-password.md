@@ -24,10 +24,8 @@ Procedure
 
     !!! warning "NOTE"
 
-        In order for the user to receive the new access information, it's necessary to use,
-        in the e-mail message, the key ‘${NOVASENHA}’ (for example, the key about the "New
-        password”). In addition, you can also send the user login using the key ‘${LOGIN}’
-        (for example, the key about the“Login”).  
+        In order for the user to receive the new access information, it's necessary to use, in the e-mail message, the key                      ‘${NOVASENHA}’ (for example, the key about the "New password”). In addition, you can also send the user login using the key              ‘${LOGIN}’ (for example, the key about the“Login”). 
+        
 
 *2nd Step: Set the parameter about the service to change the password*
 
