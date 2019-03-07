@@ -1,4 +1,4 @@
-Title: Comparación - ESP 7 vs 8
+Title: Comparación - Platform 7 vs 8
 
 # Comparación - CITSmart Platform 7 vs 8
 
