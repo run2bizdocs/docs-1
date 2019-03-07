@@ -31,8 +31,7 @@ Procedure
 
 1.  Access the main menu Parametrization \> CITSmart Parameters;
 
-2.  Edit and save parameter 116 by assigning the numeric value of the ID generated
-    for the newly created e-mail template;
+2.  Edit and save parameter 116 by assigning the numeric value of the ID generated for the newly created e-mail template;
 
 What to do next
 ------------------
@@ -50,5 +49,5 @@ To test the service to change the password, access the login page, click on "For
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[2]:/pt-br/citsmart-platform-8/platform-administration/email-settings/configuration.html
+[1]:/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/en-us/citsmart-platform-8/platform-administration/email-settings/configuration.html
