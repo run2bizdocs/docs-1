@@ -23,7 +23,7 @@ Procedure
 Related
 -------
 
-[Configure parametrization - knowledge](https://docs-dev.citsmart.com/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configure parametrization - knowledge](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 !!! tip "About"
 
