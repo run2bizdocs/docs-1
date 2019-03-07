@@ -28,7 +28,7 @@ To test the Inventory, [configure][3] the connections in the CITSmart Platform i
 
 [Asset and Configuration Management][5]
 
-[1]:/en-us/citsmart-platform-8/initial-settings/add-ons/event-monitor.html
+[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configure-system-properties
 [3]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
 [4]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
