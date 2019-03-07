@@ -95,8 +95,7 @@ Figure 4 – Smart Decision Screen
 Customization of the User Panel (Smart Decision) displayed on the system
 homepage, where you can place quick accesses such as links, reports and widgets.
 
--   1: vertical bar containing the registered panels. Bar items can be shifted
-    to fit the user's need;
+-   1: vertical bar containing the registered panels. Bar items can be shifted to fit the user's need;
 
 -   2: items to edit a dashboard;
 
