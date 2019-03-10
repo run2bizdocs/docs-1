@@ -1,7 +1,7 @@
-Title: Glossário
-Description: Glossário CITsmart
+Title: Glosario
+Description: Glosario
 
-# Glossário
+# Glosario
 
 ##Acordo
 Documento que descreve o entendimento formal entre duas ou mais entidades. Um acordo não tem laços legais, a não ser quando faz parte de um Contrato.
