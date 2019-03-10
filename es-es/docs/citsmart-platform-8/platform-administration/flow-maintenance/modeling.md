@@ -13,7 +13,7 @@ La funcionalidad de flujo fue construida trayendo elementos, que por esencia, so
 [Mantenimiento de Flujo de trabajo][2]
 
 [1]:/es-es/citsmart-platform-8/platform-administration/flow-maintenance/flows.html
-[2]:/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html
+[2]:/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html
 
 !!! tip "Sobre"
 
