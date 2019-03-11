@@ -1,7 +1,7 @@
-Title: Glossário
-Description: Glossário CITsmart
+Title: Glosario
+Description: Glosario
 
-# Glossário
+# Glosario
 
 ##Acordo
 Documento que descreve o entendimento formal entre duas ou mais entidades. Um acordo não tem laços legais, a não ser quando faz parte de um Contrato.
@@ -225,5 +225,5 @@ Uma Versão é usada para identificar uma Baseline de um Item de Configuração.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - Anna Martins

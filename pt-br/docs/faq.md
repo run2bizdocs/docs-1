@@ -46,7 +46,7 @@ Perguntas Frequentes - FAQ
     
     É feito o desenho de ativos que compõem o serviço utilizando a ferramenta de Desenho de Mapa de Serviço que proporciona desenhos eficientes e eficazes para gerenciamento do serviço durante seu ciclo de vida, demonstrando os itens de configuração relacionados.
     
-    Para realizar esse desenho, proceda conforme as orientações abaixo (ver [Configurar atributos do serviço](/pt-br/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
+    Para realizar esse desenho, proceda conforme as orientações abaixo (ver [Configurar atributos do serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
     
     1. Acesse a funcionalidade de Desenho de Mapa do Serviço referente ao Serviço de Negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço > Mapa de Serviço;
     2. Será apresentada a tela para desenho dos ativos que compõem o serviço de negócio;
@@ -351,7 +351,7 @@ Perguntas Frequentes - FAQ
 
     A PARTIR DO CADASTRO DE GRUPO
 	
-    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção Acesso e Permissão e clique na opção Grupo (ver conhecimento [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html) );
+    1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal. Posicione o mouse na opção Acesso e Permissão e clique na opção Grupo (ver conhecimento [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html) );
     2. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado grupo;
     3. Clique no ícone de adicionar do campo Colaboradores, será exibida a tela para pesquisa de colaboradores;
     4. Realize a pesquisa do colaborador que deseja vincular ao grupo e selecione o mesmo. Após isso, o colaborador será vinculado ao grupo;
@@ -359,7 +359,7 @@ Perguntas Frequentes - FAQ
     
     A PARTIR DO CADASTRO DE USUÁRIO
     
-    1. Acesse a funcionalidade de Cadastro de Usuário através da navegação no menu principal. Posicione o mouse na opção Cadastro Gerais, Gerência de Pessoal e clique na opção Usuário (ver [Cadastrar usuário](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/users.html));
+    1. Acesse a funcionalidade de Cadastro de Usuário através da navegação no menu principal. Posicione o mouse na opção Cadastro Gerais, Gerência de Pessoal e clique na opção Usuário (ver [Cadastrar usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html));
     2. Será apresentada a tela de Cadastro de Usuário. Caso o usuário já esteja registrado no sistema, realize a pesquisa do usuário e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado usuário;
     3. Clique no ícone de adicionar do campo Grupo. Será exibida a tela para pesquisa de grupos;
     4. Realize a pesquisa do grupo desejado e selecione o mesmo. Após isso, o usuário será vinculado ao grupo;
@@ -372,7 +372,7 @@ Perguntas Frequentes - FAQ
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "41 - Faz o controle de vínculo de colaboradores aos contratos (S/N)?" e selecione o mesmo;
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de grupo. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
-    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html)).
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)).
     5. Caso o grupo que deseja vincular ao contrato já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo;
     6. Feito isso, será exibida a tela de registro do determinado grupo;
     7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.

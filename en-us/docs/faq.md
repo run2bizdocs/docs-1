@@ -38,7 +38,7 @@ Title: Frequently Asked Questions - FAQ
 ??? Question "How do I design the assets that make up my service?"
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
-    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-esp-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
+    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;
@@ -306,7 +306,7 @@ Title: Frequently Asked Questions - FAQ
 
 	FROM THE GROUP'S REGISTRY
 	
-    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-esp-8/initial-settings/access-settings/user/register-groups.html));
+    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
     4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
@@ -314,7 +314,7 @@ Title: Frequently Asked Questions - FAQ
     
 	FROM THE USER'S REGISTRY
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see [Register user](/en-us/citsmart-esp-8/initial-settings/access-settings/user/users.html));
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html));
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
