@@ -69,7 +69,7 @@ We innovate the way of access to the knowledge base for users who don't have log
 In version 8.0.0.0 knowledge with permission of visualization can be accessed by the community in general, just have the link of access.
 
 
-For further information, see Configure external access to the [Knowledge Portal][9]
+For further information, see [Configure external access to the Knowledge Portal][9]
 
 ###Configuration Item Management
 We enhance the user experience by highlighting a dashboard that displays the number of configuration items by group, type, and agglutinated in the Incident, Change, and Release processes, leaving in sight possible CI's that will be changed or involved in some incident.
@@ -89,7 +89,7 @@ In version 8.0.0.0 of CITSmart, we included ticket approval through a new direct
 
 This functionality is available on Mobile SM and on the Service Portal.
 
-For further information, [see Approve ticket][12]
+For further information, see [Approve ticket][12]
 
 ###Automatic update of ticket list
 We allow the automatic ticket list updating function to be enabled to refresh the list automatically from time to time.
