@@ -1,149 +1,147 @@
-Title: Notas de Release
-Description: Notas de release, correções de erros e melhorias na CITSmart Platform - V.8.0.
+Title: Release Notes
+Description: Release notes, bug fixes and improvements in the CITSmart Platform - V.8.0.
 
-#Notas de Release... (2019/03/01)
+#Release Notes... (2019/03/01)
 
-##Correções
+##Fixes
 
-###Gerenciamento de Ticket
+###Ticket Management
 
-As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta.
+The Sub-Request and Related Request functionalities were restructured to provide greater compliance to their assignments. The focus of this fix was to bring the functionalities closer to their proposal.
 
-Para mais informações, veja  Relacionar um Ticket e Cadastrar uma Sub-Solicitação
+For further information, see Relate Ticket and Register Sub-Request
 ###Webservices
-A sincronização para criação de novas Atividades sofreu uma alteração em sua regra de negócio, isso porque não é possível criar uma atividade que não tenha vínculo com Serviço de Negócio e Portfólio. Portanto, o webservice designado para criação irá abrir um ticket com os parâmetros passados na configuração inicial do serviço.
+The synchronization for creating new Activities has changed in the business rule, that's because it's not possible to create an activity that doesn't have a link with the Business Service and Portfolio. Therefore, the webservice designated for creation will open a ticket with the parameters in the initial configuration of the service.
 
-A funcionalidade de criar um novo usuário, quando estiver habilitado a sincronização de dados permanece consistente.
+The functionality of create a new user, when the data synchronization is enabled, remains consistent.
 
-###Fluxo
+###Flow
 
-Tratativa para barrar edição de expressões nativas e expressões de mesmo nome.
+Adjustments to avoid editing native expressions and expressions of same name.
 
-##Novas Funcionalidades e Melhorias
+##New functionalities and Improvements
 
-###Acesso Rápido
+###Quick Access
 
-O acesso rápido permite que o usuário encontre os principais processos por meio de ícones que auxiliam na fixação e visualização de forma eficiente.
+The quick access allows the user to find main processes through icons that help in the efficiency of fixing and viewing.
 
-*O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.*
+*The users only sees the icons of the processes that they have access, with the exception of Simple, Knowledge Portal, Experience Center and User Guide.*
 
-###Configuração de notificação por e-mail de ticket delegado
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de delegação do ticket
-Para mais informações, veja Notificação via e-mail de ticket delegado
-###Configuração de notificação por e-mail de ticket reclassificado
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de reclassificação do ticket
-Para mais informações, veja Notificação via e-mail de ticket reclassificado
+###Configuration of notification via email of delegated ticket
+We created the possibility of configuring the functionality of email notification in the ticket delegation
+For further information, see Notification via E-mail of Ticket Delegated
+###Configuration of notification via email of reclassified ticket
+We created the possibility of configuring the functionality notification via email reclassification
+For further information, see Notification via email of reclassified ticket
 
-###Gerência de  Mudança
-A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança.
+###Change Management
+Version 8.0.0.0 of CITSmart has improvements in the change management process, bringing the agile world to manage the activities that should occur during the scope of the change.
 
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja Gerência de Mudança
-
-###Gerência de Problema
-Na versão 8.0.0.0 do CITSmart o processo de gerenciamento de problema permite adicionar atividades para auxiliar no gerenciamento das equipes durante o diagnóstico da causa raiz.
-
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração.
+*Note:* This functionality replaces the default flow parameters for usage of the change process, moreover, the change is necessary for this configuration.
 
 
-Para mais informações, veja Gerência de Problema
+For further information, see Change Management
 
-###Configuração de uso para Gerência de  Liberação
-O processo de liberação ganha mais força no planejamento, testes e homologação permitindo designação das atividades e gerenciamento à vista.
+###Problem Management
+In version 8.0.0.0 of CITSmar,t the problem management process allows adding activities to assist in the management of teams during the root cause diagnosis.
 
-Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja Gerência de Liberação
-
-###Revisão de Comentários
-Na versão 8.0.0.0 o CITSmart permite avaliação e publicação dos comentários escritos sobre um conhecimento.
-
-Para mais informações, veja Revisão de Comentário
-
-###Acesso à base de conhecimento de usuários externo
-Inovamos  a forma de acesso à base de conhecimento para usuários que não possuem login de acesso à ferramenta CITSmart.
-
-Na versão 8.0.0.0 conhecimentos com permissão de visualização poderão ser acessados pela comunidade em geral, basta possuir o link de acesso.
+*Note:* This functionality replaces the default flow parameters for usage of the problem process, moreover, the change is necessary for this configuration.
 
 
-Para mais informações, veja Configurar acesso externo ao Portal de Conhecimento
+For further information, see Problem Management
 
-###Gerência de Item de Configuração
-Aprimoramos a experiência do usuário trazendo em destaque um dashboard que apresenta a quantidade de itens de configuração, por grupo, tipo e aglutinados nos processos de Incidente, Mudança e Liberação, deixando à vista possíveis IC’s que passarão por alteração ou envolvidos em algum incidente.
+###Usage Configuration for Release Management
+The release process is more powerful in planning, testing and approving, allowing the designation of activities and management at sight.
 
-Para mais informações, veja Gerenciamento de Item de Configuração
-
-###Regra de Escalonamento
-Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações.
-
-Nota:* Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
+Note:* This functionality replaces the default flow parameters for usage of release process, moreover, the change is necessary for this configuration.
 
 
-Para mais informações, veja Criar regra de escalonamento
+For further information, see Release Management
 
-###Aprovação de Ticket
-Na versão 8.0.0.0 do CITSmart incluímos a aprovação de tickets através de novo ícone direto na lista de atendimento, não será necessário abrir o ticket para realizar o atendimento, apresentamos as informações disponíveis e as opções configuradas para aceite ou recusa do chamado.
+###Comments Review
+In version 8.0.0.0 CITSmart allows the evaluation and publication of written comments about a knowledge.
 
-Essa funcionalidade está disponível no Mobile SM e no Portal de Serviços.
+For further information, see Comments Review
 
-Para mais informações, veja Aprovar um ticket
+###Access to the knowledge base of external users
+We innovate the way of access to the knowledge base for users who don't have login to the CITSmart tool.
 
-###Atualização automática da lista de ticket
-Permitimos que a função de atualização automática da lista de ticket seja habilitada para atualizar a lista automaticamente de tempos em tempos.
+In version 8.0.0.0 knowledge with permission of visualization can be accessed by the community in general, just have the link of access.
 
-Para mais informações, veja Atualização Automática da Lista de Ticket
 
-###Ocorrência
-O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico seja notificado via e-mail. Além da permissão de incluir tempo de execução da atividade e manter o sigilo da informação cadastrada, para que somente os técnicos permitidos a vejam.
+For further information, see Configure external access to the Knowledge Portal
 
-Para mais informações, veja Cadastrar ocorrência em Ticket
+###Configuration Item Management
+We enhance the user experience by highlighting a dashboard that displays the number of configuration items by group, type, and agglutinated in the Incident, Change, and Release processes, leaving in sight possible CI's that will be changed or involved in some incident.
 
-###Simple - Gestão Ágil e a vista
-O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta.
-De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista.
+For further information, see Configuration Item Management
 
-Para mais informações, veja Simple
+###Escalation Rule
+We simplified the use of ticket escalation rules, with a few steps, it'll be possible to implement the rule that previously had numerous configurations.
 
-###Área do cliente
-Proporcionamos uma área específica para melhorar a experiência de uso. Nessa área será permitido a apresentação de serviços, informações, relatórios que mais se aproximam com o uso do dia a dia do cliente.
+Note:* This functionality replaces the use of several escalation parameters, moreover, it's necessary to change for the effective use of the escalation rules.
 
-Para mais informações, veja Centro de Experiência
+
+For further information, see Create escalation rule
+
+###Ticket Approval
+In version 8.0.0.0 of CITSmart, we included ticket approval through a new direct icon in the attendance list, it's not necessary to open the ticket to perform the attendance, we present the available information and the options configured to accept or refuse the call.
+
+This functionality is available on Mobile SM and on the Service Portal.
+
+For further information, see Approve ticket
+
+###Automatic update of ticket list
+We allow the automatic ticket list updating function to be enabled to refresh the list automatically from time to time.
+
+For further information, see Automatic Update of Ticket List
+
+###Occurrence
+The improvement of the occurrence registration allows the requester or technician to be notified via email. In addition to the permission to include activity execution time and keep the information confidential registered, so that only authorized technicians can see it.
+
+For further information, see Register ticket occurrence
+
+###Simple - Agile Management at sight
+Simple was created with the purpose of bringing the concept of agile management to the tool.
+Independently or clustered in one of the Problem, Change and Release solutions, Simple allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
+
+For further information, see Simple
+
+###Customer's area
+We provide a specific area to improve the user experience. In this area will be allowed the presentation of services, information and reports that come closest to the day-to-day use of the customer.
+
+For further information, see Experience Center
 
 ###Business Intelligence
-A partir da versão 8.0.0.0 disponibilizamos alguns relatórios quantitativos dos principais processos contidos no CITSmart através de nossa nova plataforma BI.
+From the version 8.0.0.0, we have provided some quantitative reports of the main processes contained in CITSmart through our new BI platform.
 
-Para mais informações, veja Business Intelligence
+For further information, see Business Intelligence
 
-###Auditoria
-Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria.
+###Audit
+We have reformed the system audit to increase the agility and reliability of the audit research feature.
 
-Para mais informações, veja Auditoria do Sistema
+For further information, see System Audit
 
-###Política de Segurança de Senha
-Aprimoramos o quesito de segurança da informação, implantado formas de segurança de senhas para usuários internos.
+###Password Security Policy
+We have improved information security, implementing forms of password security for internal users.
 
-Para mais informações, veja Política de Segurança de Senha
+For further information, see Password Security Policy
 
-###Mobilidade
-Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a campo de técnicos que momentaneamente estão sem conexão à internet.
+###Mobility
+We delivered a new application that, in a robust way, allow the field service of technicians who are momentarily without internet connection.
 
-A experiência de mobilidade vai além com os recursos de assinatura e notas.
+The mobility experience goes beyond signature features and notes.
 
-Para mais informações, veja Mobile Field Service
+For further information, see Mobile Field Service
 
-Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas.
+Still in the context of mobility, and no less robust, we improved the Mobile SM application, which has among other uses, the ability to sign, approve and notes.
 
-Para mais informações, veja Mobile Service Management
+For further information, see Mobile Service Management
 
 ###Neuro
-A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do CITSmart a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do CITSmart e formar relatórios de forma simples com o auxílio do Smart Report.
+From the version 1.2.3.0 of Neuro, it's possible to automatically create a CITSmart questionnaire from the Neuro business object register. The idea behind this innovation is to facilitate the extraction of responses from CITSmart questionnaires and to create reports in a simple way, with the help of the Smart Report.
 
-Para mais informações, veja Ainda sem DOC
+###Flow
+The package of flows delivered to the processes of Problem, Change and Release have been simplified, the products have been remodeled to adhere to the possibilities that the flow offers.
 
-###Fluxo
-O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece.
-
-Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.
+If the customer doesn't want to use the new flows, the latest version 7.1.0 will continue to work perfectly.
