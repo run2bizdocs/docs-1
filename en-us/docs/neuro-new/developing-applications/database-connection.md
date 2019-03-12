@@ -1,47 +1,50 @@
-Title: Database connection
-Description: All database connections that are required for the applications created through Neuro are registered here.  
-#Database connection  
+title: Database Connection
+Description: Database Connection
+#Database Connection
 
-All database connections that are required for the applications created through Neuro are registered here.  
+Neuro requires Database connections to interfaces with database.
 
-##How to access  
-Access the functionality through navigation in the main menu Neuro > Configuration > Database Connection.  
+It´s a good practice to create one DB Connection per Neuro Application.
 
-##Preconditions  
-Both the database connection of the built application and the connection to the databases to which the application integrates should be created.  
+Before getting started
+----------------------
 
-##Filters
-1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
-    
-      + Keyword or enter.  
+Must have the Driver to Access the desired type of database.
 
-![Screenshot](images/DataConnection-Filters.png)    
-Figure 1 - Connection search screen   
+Procedure
+---------
 
-##Items list  
-1. The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Name and Type.  
+1.  Access the functionality through navigation in the menu:
 
-![Screenshot](images/DataConnection-ItemsList.png)   
-Figure 2 - Connection search screen   
+    1.  Neuro \> Configuration \> Database Connection.
 
-##Filling in the registration fields  
-1. To create a new connection, click New. Enter a Name for the connection, a Description, the Type of connection (JNDI or direct connection), and the type of the Database (access database documentation).  
-2. For JNDI connection, enter the JNDI Context, and the JNDI Name.  
-3. For direct connection, enter JDBC Path, User, and database Password.  
+2.  Click on "New";
 
-![Screenshot](images/DataConnection-register.png)   
-Figure 3 - Data connection register screen  
+3.  Complete the fields available;
 
-![Screenshot](images/DataConnection-JNDI.png)     
-Figure 4 - JNDI connection record screen  
+4.  **Type of connection** can be (JNDI or Direct Connection):
 
-![Screenshot](images/DataConnection-direct.png)   
-Figure 5 - Direct connection record screen
+    1.  For JNDI connection, enter the **JNDI Context**, and the **JNDI Name**.
+
+    2.  For direct connection, enter **JDBC Path**, **User**, and **database
+        Password**.
+
+5.  Click on "Save".
+
+!!! Abstract "NOTE"
+
+    All the fields in the Items list will be used as filter to restrict the items listed.
+
+
+![app](images/neuro-3.png)    
+
+Figure 1 - Application   
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 - João Pelles  
+    <b>Updated:</b>03/12/2019 - Anna Martins  
 
 
 
