@@ -2,11 +2,12 @@ title: Steps to Implement Neuro Solution
 Description: Steps to Implement Neuro Solution
 \#Steps to Implement Neuro Solution
 
-![create neuro app](neuro-1.png)
+![create neuro app](images/neuro-1.png)
 
 Figure 1 - Create Neuro Application
 
-![business](neuro-2.png)
+
+![business](images/neuro-2.png)
 
 Figure 2 - Business Objects
 
