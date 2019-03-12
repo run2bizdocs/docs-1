@@ -37,7 +37,7 @@ Para mais informações, veja Notificação via e-mail de ticket reclassificado
 ###Gerência de  Mudança
 A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança.
 
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
+_Nota:_ Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
 
 
 Para mais informações, veja Gerência de Mudança
@@ -146,4 +146,4 @@ Para mais informações, veja Ainda sem DOC
 ###Fluxo
 O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece.
 
-Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.
+_Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente._
