@@ -8,9 +8,7 @@ institution. The identifier (Key) groups the Domain items.
 Procedure
 ---------
 
-1.  Access the functionality through navigation in the menu:
-
-    1.  Neuro \> Configuration \> Domain.
+1.  Access the functionality through navigation in the menu Neuro \> Configuration \> Domain;
 
 2.  Click on "New";
 
