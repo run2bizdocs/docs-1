@@ -19,7 +19,7 @@ A funcionalidade de criar um novo usuário, quando estiver habilitado a sincroni
 
 Tratativa para barrar edição de expressões nativas e expressões de mesmo nome.
 
-##Novos Funcionalidades e Melhorias
+##Novas Funcionalidades e Melhorias
 
 ###Acesso Rápido
 
