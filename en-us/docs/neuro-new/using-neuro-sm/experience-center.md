@@ -16,7 +16,7 @@ Figure 1 - Basic data
 
 * Selecting a Form
 
-![basic](images/neuro-sm-7.jpg)
+![basic](images/neuro-sm-7.png)
 
 Figure 2 - Form
 
