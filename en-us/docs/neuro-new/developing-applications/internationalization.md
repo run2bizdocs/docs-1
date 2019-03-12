@@ -32,12 +32,12 @@ Procedure
     Create one key for each language.
 
 
-![internationalization](images/neuro-4.png)
+![internationalization](images/neuro-5.png)
 
 Figure 1 - Internationalization
 
 
-![internationalization](images/neuro-5.png)
+![internationalization](images/neuro-6.png)
 
 Figure 2 - Internationalization data
 
