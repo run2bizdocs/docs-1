@@ -1,62 +1,161 @@
-title: Business object  
+title: Business Object
+Description: Business object
+#Business Object
 
-Description: Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms
 
-#Business object  
+Business Object are the link between Neuro and a Data Entity of the
+applications. In this way the Business Object will represent the data model and
+may reach one or more forms.
 
-Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.  
-Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.  
 Each business object created represents a table in the database.
 
-##How to access
-1.	Access the functionality through navigation in the main menu Neuro > Management > Business Object.  
+Before getting started
+----------------------
 
-##Preconditions
-1.	No applicable.  
+Must have a DB Connection and Neuro Application created.
 
-##Filters
-1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:
+## General data
 
-    *	Keyword or enter.  
+1.  Access the functionality through navigation in the menu Neuro \> Management \> Business Object;
 
-![Screenshot](images/business-object-filter.png)  
-Figure 1 - Search screen of registered business objects
+2.  Click on "New";
 
-##Items list
-1.	The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Application, Name, Description, Database connection and Version.  
+3.  Complete the fields available for “Identification” Tab;
 
-![Screenshot](images/business-object-listing.png)  
-Figure 2 - Listing screen of registered business objects
+4.  Select the **Application** for which the business object is created, give
+    the Business Object a Name and a Description, also inform the purpose of the
+    Business Object;
 
-##Filling in the registration fields
-1.	To change a business object, click Edit;  
-2.	To create a new business object, click New.  
+![business](images/neuro-9.jpg)
 
-##Identification
-This tab should be fed as a way of identifying the business object created.  
-1.	Enter the Application for which the business object is created (registered in menu Neuro > Management > Application);  
-2.	 The business object identification name, description, purpose must be inform and mark whether the system should generate the form upon saving.  
-3.	As you click Generate Form when saving, Neuro will generate a form based on the information entered in the database tab. This form can be edited later through menu Neuro > Management > Form.  
+Figure 1 - Identification
 
-![Screenshot](images/business-object-identification.png)  
-Figure 3 - Register/edit business object screen
 
-##Database
-1.	This tab refers to the database structure of the application. Since each business object represents a database table, this tab defines the database columns as well as their relationships, business rules, and SQL commands (if necessary).  
-2.	First, enter the database connection created, the database schema name, type, whether view or table, and the name of the business object in the database.  
+## Database Information
 
-![Screenshot](images/business-object-database.png)  
-Figure 4 - Register/edit business object, database tab
+1.	Complete the fields available for “Database” Tab, this tab refers to the database structure of the application. Since each business object represents a database table, this tab defines the database columns as well as their relationships, business rules, and SQL commands (if necessary).
 
-##Form
-1.	You can change the attribute labels through the Labels tab, and you can edit the grid fields using the Grid tab.  
-2.	Clicking the Edit Form button in the screen header will generate a form for this business object. If there is no form for this business object, the Fields sidebar will be displayed. If there is already a previously registered form linked to this form, the Screen Drawing tab for this form will be opened.  
-3.	Further information regarding Neuro's form creation can be found in the technical documentation.  
+2.	Fill the information with:
 
-![Screenshot](images/business-object-form.png)  
-Figure 5 - Register/edit business object, form tab
+a)	The Database Connection created;
+
+b)	The Database Scheme name;
+
+c)	Type, whether view or table;
+
+d)	The Name in Database of the business object.
+
+
+![business](images/neuro-10.jpg)
+
+Figure 2 - Database
+
+
+## Columns
+
+1.  Add the columns of the table, indicating
+
+    1.  Inform the **Column name in DB**;
+
+    2.  Select the **Type** of the Column, the system will make the correlation
+        automatically to the **Type in DB**;
+
+    3.  Give the **Name object attribute**, if you don´t change it will take the
+        same name as the column name;
+
+    4.  Set the **Label** for the form and grid;
+
+    5.  Select **Primary key** if the column is the Primary key for the table;
+
+    6.  Select **Required** if the column is mandatory;
+
+    7.  Click on "Save”.
+
+
+!!! Abstract "NOTE"
+
+    After the “Save”, you´ll be able to inform Domain key and type and assign the
+    Relationship if it´s needed.
+
+![business](images/neuro-11.jpg)
+
+Figure 3 - Columns list
+
+![business](images/neuro-12.jpg)
+
+Figure 4 - Adding new columns
+
+!!! Abstract "ATTENTION"
+
+    On each change of database or by the time of the creation of the business
+    object you must run the correspondent DDL to run the creation/change in the
+    Database.
+
+## Relationship
+
+1.  If necessary, you can add Relationships at this tab;
+
+2.  Define:
+
+    1.  **Type** (1 x N, N x 1);
+
+    2.  Inform the **Relationship name** and the **Label** (to the form);
+
+    3.  The **Referenced object** that will be linked;
+
+    4.  The **Column for auto-complete**;
+
+    5.  Set If it is **Required** field;
+
+    6.  **Delegation** use when you want to use Generalization/Specialization
+        concepts for the Relationship;
+
+    7.  Set with Business object Colum will be part of the relationship.
+    
+![business](images/neuro-13.jpg)
+
+Figure 5 - Relationship 
+
+
+## Business Rules
+
+1.	Select the Business Rule assigned for insert, change or delete action on the Business Object;
+
+
+![business](images/neuro-14.jpg)
+
+Figure 6 - Business rules
+    
+## SQLs 
+
+1.	You can create SQL´s related to the business object to be used in the flow, for example: 
+
+a)	In a task for request of enrollment in courses you can create a SQL (it will be considered as a function)  to get the number of student enrolled in a course;
+
+b)	The SQL will run under an ESI Flow and will be call by the SM Flow (using the component for integration with ESI Flow).  
+    
+![business](images/neuro-15.jpg)
+
+Figure 7 - SQL
+
+## Form (CRUD & Custom)
+
+1.	You can change the attribute labels through the Labels tab, and you can edit the grid fields using the Grid tab.
+
+    ![business](images/neuro-16.jpg)
+
+    Figure 8 - Labels
+
+
+    ![business](images/neuro-17.jpg)
+
+    Figure 9 - Grid
+
+2.	Clicking the Edit Form button in the screen header will generate a form for this business object. If there is no form for this business object, the Fields sidebar will be displayed. If there is already a previously registered form linked to this form, the Screen Drawing tab for this form will be opened.
+
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 - João Pelles  
+    <b>Updated:</b>03/12/2019 - Anna Martins  
