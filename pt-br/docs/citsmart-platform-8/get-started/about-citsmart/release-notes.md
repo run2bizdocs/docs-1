@@ -25,7 +25,7 @@ Tratativa para barrar edição de expressões nativas e expressões de mesmo nom
 
 O acesso rápido permite que o usuário encontre os principais processos por meio de ícones que auxiliam na fixação e visualização de forma eficiente.
 
-*O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.*
+**O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.**
 
 ###Configuração de notificação por e-mail de ticket delegado
 Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de delegação do ticket
@@ -37,7 +37,7 @@ Para mais informações, veja Notificação via e-mail de ticket reclassificado
 ###Gerência de  Mudança
 A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança.
 
-_Nota:_ Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
+**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
 
 
 Para mais informações, veja Gerência de Mudança
@@ -45,7 +45,7 @@ Para mais informações, veja Gerência de Mudança
 ###Gerência de Problema
 Na versão 8.0.0.0 do CITSmart o processo de gerenciamento de problema permite adicionar atividades para auxiliar no gerenciamento das equipes durante o diagnóstico da causa raiz.
 
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração.
+**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração.
 
 
 Para mais informações, veja Gerência de Problema
@@ -53,7 +53,7 @@ Para mais informações, veja Gerência de Problema
 ###Configuração de uso para Gerência de  Liberação
 O processo de liberação ganha mais força no planejamento, testes e homologação permitindo designação das atividades e gerenciamento à vista.
 
-Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração.
+**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração.
 
 
 Para mais informações, veja Gerência de Liberação
@@ -79,7 +79,7 @@ Para mais informações, veja Gerenciamento de Item de Configuração
 ###Regra de Escalonamento
 Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações.
 
-Nota:* Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
+**Nota:** Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
 
 
 Para mais informações, veja Criar regra de escalonamento
@@ -146,4 +146,4 @@ Para mais informações, veja Ainda sem DOC
 ###Fluxo
 O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece.
 
-_Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente._
+__Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.__
