@@ -14,9 +14,7 @@ Must have the Driver to Access the desired type of database.
 Procedure
 ---------
 
-1.  Access the functionality through navigation in the menu:
-
-    1.  Neuro \> Configuration \> Database Connection.
+1.  Access the functionality through navigation in the menu Neuro \> Configuration \> Database Connection;
 
 2.  Click on "New";
 
@@ -24,7 +22,7 @@ Procedure
 
 4.  **Type of connection** can be (JNDI or Direct Connection):
 
-    1.  For JNDI connection, enter the **JNDI Context**, and the **JNDI Name**.
+    1.  For JNDI connection, enter the **JNDI Context**, and the **JNDI Name**;
 
     2.  For direct connection, enter **JDBC Path**, **User**, and **database
         Password**.
@@ -45,9 +43,4 @@ Figure 1 - Application
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  
-
-
-
-
-
 
