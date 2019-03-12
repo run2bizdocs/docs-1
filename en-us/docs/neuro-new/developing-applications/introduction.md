@@ -1,6 +1,7 @@
 title: Steps to Implement Neuro Solution
 Description: Steps to Implement Neuro Solution
-\#Steps to Implement Neuro Solution
+#Steps to Implement Neuro Solution
+
 
 ![create neuro app](images/neuro-1.png)
 
