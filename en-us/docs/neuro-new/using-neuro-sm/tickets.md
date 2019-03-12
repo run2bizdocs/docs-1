@@ -15,14 +15,12 @@ There are two ways of interface Neuro with a Ticket:
 
     Figure 1 - Create SM template
     
-
     3.  Link the template to a request/Incident;
     
     ![create](images/neuro-sm-2.jpg)
 
     Figure 2 - Link template
     
-
     4.  Use the template on a request/Incident.
     
     ![create](images/neuro-sm-3.jpg)
@@ -42,7 +40,7 @@ There are two ways of interface Neuro with a Ticket:
 
     2.  Link the form to a SM Flow step in the “Interface” tab of a User Task.
     
-    ![create](images/neuro-sm-5.jpg)
+    ![create](images/neuro-sm-5.png)
 
     Figure 5 - Interface
     
