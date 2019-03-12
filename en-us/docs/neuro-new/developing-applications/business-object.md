@@ -28,7 +28,7 @@ Must have a DB Connection and Neuro Application created.
 
 ![business](images/neuro-9.jpg)
 
-Figure 1 - Idenfication
+Figure 1 - Identification
 
 
 ## Database Information
