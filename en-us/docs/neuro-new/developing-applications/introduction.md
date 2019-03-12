@@ -1,12 +1,19 @@
 title: Steps to Implement Neuro Solution
-
 Description: Steps to Implement Neuro Solution
-
 \#Steps to Implement Neuro Solution
 
->   !!! Abstract "ATTENTION"
+![create neuro app](neuro-1.png)
 
->   The steps can be found in the CITSmart documentation (docs.citsmart.com).
+Figure 1 - Create Neuro Application
+
+![business](neuro-2.png)
+
+Figure 2 - Business Objects
+
+
+!!! Abstract "ATTENTION"
+
+    The steps can be found in the CITSmart documentation (docs.citsmart.com).
 
 ## Design App
 
