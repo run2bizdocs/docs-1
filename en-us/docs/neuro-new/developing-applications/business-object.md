@@ -37,9 +37,12 @@ Figure 1 - Idenfication
 
 2.	Fill the information with:
 
-a)	The Database Connection created; 
-b)	The Database Scheme name; 
-c)	Type, whether view or table; 
+a)	The Database Connection created;
+
+b)	The Database Scheme name;
+
+c)	Type, whether view or table;
+
 d)	The Name in Database of the business object.
 
 
@@ -127,7 +130,8 @@ Figure 6 - Business rules
 
 1.	You can create SQL´s related to the business object to be used in the flow, for example: 
 
-a)	In a task for request of enrollment in courses you can create a SQL( it will be considered as a function)  to get the number of student enrolled in a course;
+a)	In a task for request of enrollment in courses you can create a SQL (it will be considered as a function)  to get the number of student enrolled in a course;
+
 b)	The SQL will run under an ESI Flow and will be call by the SM Flow (using the component for integration with ESI Flow).  
     
 ![business](images/neuro-15.jpg)
