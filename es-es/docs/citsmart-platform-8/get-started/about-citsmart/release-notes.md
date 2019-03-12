@@ -1,149 +1,147 @@
 Title: Notas de Release
-Description: Notas de release, correções de erros e melhorias na CITSmart Platform - V.8.0.
+Description: Notas de release, correcciones de errores y mejoras en la CITSmart Platform - V.8.0.
 
 #Notas de Release... (2019/03/01)
 
-##Correções
+##Correcciones
 
-###Gerenciamento de Ticket
+###Gestión de Ticket
 
-As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta.
+Las funcionalidades de Sub-Solicitud y Solicitud Relacionada sufrieron una reestructuración que proporciona mayor conformidad a sus atribuciones, el enfoque de esta corrección fue aproximar la funcionalidad de lo que realmente es su propuesta.
 
-Para mais informações, veja  Relacionar um Ticket e Cadastrar uma Sub-Solicitação
+Para más información, vea Relacionar Ticket y Registrar Sub-Solicitud
 ###Webservices
-A sincronização para criação de novas Atividades sofreu uma alteração em sua regra de negócio, isso porque não é possível criar uma atividade que não tenha vínculo com Serviço de Negócio e Portfólio. Portanto, o webservice designado para criação irá abrir um ticket com os parâmetros passados na configuração inicial do serviço.
+La sincronización para la creación de nuevas Actividades ha sufrido un cambio en su regla de negocio, porque no es posible crear una actividad que no tenga vínculo con el Servicio de Negocios y Portafolio. Por lo tanto, el webservice designado para crear, abrirá un ticket con los parámetros pasados en la configuración inicial del servicio.
 
-A funcionalidade de criar um novo usuário, quando estiver habilitado a sincronização de dados permanece consistente.
+La funcionalidad de crear un nuevo usuario, cuando está habilitada la sincronización de datos permanece coherente.
 
-###Fluxo
+###Flujo
 
-Tratativa para barrar edição de expressões nativas e expressões de mesmo nome.
+Se trata de barrar la edición de expresiones nativas y expresiones del mismo nombre.
 
-##Novas Funcionalidades e Melhorias
+##Nuevas Funcionalidades y Mejoras
 
-###Acesso Rápido
+###Acceso Rápido
 
-O acesso rápido permite que o usuário encontre os principais processos por meio de ícones que auxiliam na fixação e visualização de forma eficiente.
+El acceso rápido permite al usuario encontrar los principales procesos por medio de iconos que auxilian en la fijación y visualización de forma eficiente.
 
-*O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.*
+*El usuario visualiza solamente los iconos de los procesos que tiene acceso, con la excepción de los iconos del Simple, Portal del Conocimiento, Centro de Experiencia y Guía del Usuario.*
 
-###Configuração de notificação por e-mail de ticket delegado
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de delegação do ticket
-Para mais informações, veja Notificação via e-mail de ticket delegado
-###Configuração de notificação por e-mail de ticket reclassificado
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de reclassificação do ticket
-Para mais informações, veja Notificação via e-mail de ticket reclassificado
+###Configuración de notificación por correo electrónico de ticket delegado
+Creamos la posibilidad de configuración de notificación por correo electrónico en la funcionalidad de delegación del ticket
+Para más información, vea Notificación vía correo electrónico de ticket delegado
+###Configuración de notificación por correo electrónico de ticket reclasificado
+Creamos la posibilidad de configuración de notificación por correo electrónico en la funcionalidad de reclasificación del ticket
+Para más información, vea Notificación vía correo electrónico de ticket reclasificado
 
-###Gerência de  Mudança
-A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança.
+###Gestión de Cambio
+La versión 8.0.0.0 de CITSmart ha sufrido mejoras en el proceso de gestión de cambios, trayendo el mundo ágil para gestionar las actividades que deberán ocurrir durante el alcance del cambio.
 
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja Gerência de Mudança
-
-###Gerência de Problema
-Na versão 8.0.0.0 do CITSmart o processo de gerenciamento de problema permite adicionar atividades para auxiliar no gerenciamento das equipes durante o diagnóstico da causa raiz.
-
-*Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração.
+*Nota:* Esta funcionalidad reemplaza los parámetros de flujo estándar para el uso del proceso de cambio, por lo que es necesario cambiar para esta configuración.
 
 
-Para mais informações, veja Gerência de Problema
+Para más información, vea Gestión de Cambio
 
-###Configuração de uso para Gerência de  Liberação
-O processo de liberação ganha mais força no planejamento, testes e homologação permitindo designação das atividades e gerenciamento à vista.
+###Gestión de Problema
+En la versión 8.0.0.0 de CITSmart, el proceso de gestión de problemas permite agregar actividades para auxiliar en la gestión de los equipos durante el diagnóstico de la causa raíz.
 
-Nota:* Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja Gerência de Liberação
-
-###Revisão de Comentários
-Na versão 8.0.0.0 o CITSmart permite avaliação e publicação dos comentários escritos sobre um conhecimento.
-
-Para mais informações, veja Revisão de Comentário
-
-###Acesso à base de conhecimento de usuários externo
-Inovamos  a forma de acesso à base de conhecimento para usuários que não possuem login de acesso à ferramenta CITSmart.
-
-Na versão 8.0.0.0 conhecimentos com permissão de visualização poderão ser acessados pela comunidade em geral, basta possuir o link de acesso.
+*Nota:* Esta funcionalidad reemplaza los parámetros de flujo estándar para utilizar el proceso de problema, por lo que es necesario cambiar para esta configuración.
 
 
-Para mais informações, veja Configurar acesso externo ao Portal de Conhecimento
+Para más información, vea Gestión de Problema
 
-###Gerência de Item de Configuração
-Aprimoramos a experiência do usuário trazendo em destaque um dashboard que apresenta a quantidade de itens de configuração, por grupo, tipo e aglutinados nos processos de Incidente, Mudança e Liberação, deixando à vista possíveis IC’s que passarão por alteração ou envolvidos em algum incidente.
+###Configuración de uso para la Gestión de Liberación
+El proceso de liberación gana más fuerza en la planificación, pruebas y homologación, permitiendo la designación de las actividades y gestión a la vista.
 
-Para mais informações, veja Gerenciamento de Item de Configuração
-
-###Regra de Escalonamento
-Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações.
-
-Nota:* Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
+*Nota:* Esta funcionalidad reemplaza los parámetros de flujo estándar para utilizar el proceso de liberación, por lo que es necesario cambiar para esta configuración.
 
 
-Para mais informações, veja Criar regra de escalonamento
+Para más información, vea Gestión de Liberación
 
-###Aprovação de Ticket
-Na versão 8.0.0.0 do CITSmart incluímos a aprovação de tickets através de novo ícone direto na lista de atendimento, não será necessário abrir o ticket para realizar o atendimento, apresentamos as informações disponíveis e as opções configuradas para aceite ou recusa do chamado.
+###Revisión de Comentarios
+En la versión 8.0.0.0, CITSmart permite la evaluación y publicación de los comentarios escritos sobre un conocimiento.
 
-Essa funcionalidade está disponível no Mobile SM e no Portal de Serviços.
+Para más información, vea Revisión de Comentario
 
-Para mais informações, veja Aprovar um ticket
+###Acceso a la base de conocimiento de usuarios externos
+Innovamos la forma de acceso a la base de conocimiento para usuarios que no tienen login de acceso a la herramienta CITSmart.
 
-###Atualização automática da lista de ticket
-Permitimos que a função de atualização automática da lista de ticket seja habilitada para atualizar a lista automaticamente de tempos em tempos.
+En la versión 8.0.0.0, conocimientos con permiso de visualización podrán ser accedidos por la comunidad en general, basta tener el enlace de acceso.
 
-Para mais informações, veja Atualização Automática da Lista de Ticket
 
-###Ocorrência
-O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico seja notificado via e-mail. Além da permissão de incluir tempo de execução da atividade e manter o sigilo da informação cadastrada, para que somente os técnicos permitidos a vejam.
+Para más información, vea Configurar acceso externo al Portal de Conocimiento
 
-Para mais informações, veja Cadastrar ocorrência em Ticket
+###Gestión de Elemento de Configuración
+Se ha mejorado la experiencia del usuario, destacando un dashboard que presenta la cantidad de elementos de configuración, por grupo, tipo y aglutinados en los procesos de Incidente, Cambio y Liberación, dejando a la vista posibles EC que pasarán por alteración o involucrados en algún incidente.
 
-###Simple - Gestão Ágil e a vista
-O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta.
-De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista.
+Para más información, vea Gestión de Elemento de Configuración
 
-Para mais informações, veja Simple
+###Regla de Escalonamiento
+Simplificamos el uso de las reglas de escalonamiento de los tickets, con pocos pasos será posible implementar la regla que antes contaba con innumerables configuraciones.
 
-###Área do cliente
-Proporcionamos uma área específica para melhorar a experiência de uso. Nessa área será permitido a apresentação de serviços, informações, relatórios que mais se aproximam com o uso do dia a dia do cliente.
+*Nota:* Esta funcionalidad reemplaza el uso de diversos parámetros de escalonamiento, por lo que es necesario cambiar para el uso efectivo de las reglas de escalonamiento.
 
-Para mais informações, veja Centro de Experiência
+
+Para obtener más información, vea Crear regla de escalonamiento
+
+###Aprobación de Ticket
+En la versión 8.0.0.0 de CITSmart, incluimos la aprobación de tickets a través de un nuevo icono directo en la lista de atención, no será necesario abrir el ticket para hacer la atención, presentamos la información disponible y las opciones configuradas para aceptar o rechazar el llamado.
+
+Esta funcionalidad está disponible en Mobile SM y en el Portal de Servicios.
+
+Para más información, vea Aprobar un ticket
+
+###Actualización automática de la lista de tickets
+Permitimos que la función de actualización automática de la lista de tickets esté habilitada para actualizar la lista automáticamente de vez en cuando.
+
+Para más información, vea Actualización Automática de la Lista de Tickets
+
+###Ocurrencia
+El perfeccionamiento del registro de ocurrencia permite que el solicitante o técnico sea notificado vía correo electrónico. Además del permiso de incluir tiempo de ejecución de la actividad y mantener el secreto de la información catastrada, para que solamente los técnicos permitidos la vean.
+
+Para más información, vea Registrar Ocurrencia en Ticket
+
+###Simple - Gestión Ágil y a la vista
+Simple fue creado con el propósito de traer el concepto de gestión ágil a la herramienta.
+De forma independiente o aglutinada en una de las soluciones de Problema, Cambio y Liberación, Simple permite la reutilización de Sprints, compartir recursos, envío de actividades a otras Sprints y gestión a la vista.
+
+Para más información, vea Simple
+
+###Área del cliente
+Proporcionamos un área específica para mejorar la experiencia de uso. En esta área se permitirá la presentación de servicios, informaciones, informes que más se aproximan al uso del día a día del cliente.
+
+Para más información, vea Centro de Experiencia
 
 ###Business Intelligence
-A partir da versão 8.0.0.0 disponibilizamos alguns relatórios quantitativos dos principais processos contidos no CITSmart através de nossa nova plataforma BI.
+A partir de la versión 8.0.0.0 ofrecemos algunos informes cuantitativos de los principales procesos contenidos en CITSmart a través de nuestra nueva plataforma BI.
 
-Para mais informações, veja Business Intelligence
+Para más información, vea Business Intelligence
 
-###Auditoria
-Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria.
+###Auditoría
+Reformulamos la auditoría del sistema para aumentar la agilidad y confiabilidad del recurso de búsqueda de auditoría.
 
-Para mais informações, veja Auditoria do Sistema
+Para más información, vea Auditoría del Sistema
 
-###Política de Segurança de Senha
-Aprimoramos o quesito de segurança da informação, implantado formas de segurança de senhas para usuários internos.
+###Política de Seguridad de Contraseñas
+Mejoramos el requisito de seguridad de la información, implementado formas de seguridad de contraseñas para usuarios internos.
 
-Para mais informações, veja Política de Segurança de Senha
+Para más información, vea Política de Seguridad de Contraseñas
 
-###Mobilidade
-Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a campo de técnicos que momentaneamente estão sem conexão à internet.
+###Movilidad
+Entregamos una nueva aplicación que, de forma robusta, permitirá la atención a campo de técnicos que momentáneamente están sin conexión a internet.
 
-A experiência de mobilidade vai além com os recursos de assinatura e notas.
+La experiencia de movilidad va más allá de los recursos de suscripción y notas.
 
-Para mais informações, veja Mobile Field Service
+Para más información, vea Mobile Field Service
 
-Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas.
+Aún en el contexto de movilidad, y no menos robusta, mejoramos la aplicación Mobile SM, que posee, entre otros usos, la capacidad de firma, aprobación y notas.
 
-Para mais informações, veja Mobile Service Management
+Para más información, vea Mobile Service Management
 
 ###Neuro
-A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do CITSmart a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do CITSmart e formar relatórios de forma simples com o auxílio do Smart Report.
+A partir de la versión 1.2.3.0 de Neuro, es posible crear automáticamente un cuestionario del CITSmart a partir del registro de objeto de negocio de Neuro. La idea de esta innovación es facilitar la extracción de respuestas de cuestionarios del CITSmart y formar informes de forma sencilla con la ayuda del Smart Report.
 
-Para mais informações, veja Ainda sem DOC
+###Flujo
+El paquete de flujos entregados a los procesos de Problema, Cambio y Liberación fueron simplificado, los productos fueron remodelados para estar adheridos a las posibilidades que el flujo ofrece.
 
-###Fluxo
-O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece.
-
-Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.
+Si el cliente no desea utilizar los nuevos flujos, la última versión 7.1.0 seguirá funcionando perfectamente.
