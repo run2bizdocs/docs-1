@@ -30,7 +30,7 @@ Antes de começar
 
 Figura 1 - Identificacão
 
-### Informação do Banco de Dados
+## Informação do Banco de Dados
 
 1.  Preencher os campos disponíveis para a guia "Banco de dados". Essa guia faz
     referência à estrutura do banco de dados da aplicação. Como cada objeto de
@@ -88,7 +88,7 @@ Figura 4 - Adicionar novas colunas
 
     Em cada mudança de banco de dados ou no momento da criação do objeto de negócio, você deve executar o DDL correspondente para           executar a criação/mudança no Banco de Dados.
     
-### Relação
+## Relação
 
 1.  Se necessário, você pode adicionar Relações nessa guia;
 
