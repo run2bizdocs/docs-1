@@ -70,7 +70,7 @@ Permite a construção de interfaces de usuário através da combinação de com
     Figura 2 - Adicionar página
     
 
-5. 5)	As abas geradas terão a seguinte estrutura:
+5. As abas geradas terão a seguinte estrutura:
 
     * Propriedades: dados gerais
 
