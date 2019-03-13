@@ -16,13 +16,13 @@ Existem duas formas de interface Neuro com um Ticket:
     
     3.  Vincular o template para a requisição/incidente;
     
-    ![create](images/neuro-sm-2.jpg)
+    ![create](images/neuro-sm-1.jpg)
 
     Figura 2 - Vincular template
     
     4.  Usar o template na requisição/incidente.
     
-    ![create](images/neuro-sm-3.jpg)
+    ![create](images/neuro-sm-2.jpg)
 
     Figura 3 - Template use
     
@@ -31,14 +31,14 @@ Existem duas formas de interface Neuro com um Ticket:
 
     1.  Selecionar usuário de tarefa
     
-    ![create](images/neuro-sm-4.png)
+    ![create](images/neuro-sm-3.png)
 
     Figure 4 - Link template
     
 
     2.  Vincular o formulário a uma etapa do Fluxo SM na guia "Interface" de uma tarefa de usuário
     
-    ![create](images/neuro-sm-5.png)
+    ![create](images/neuro-sm-4.png)
 
     Figura 5 - Interface
     
