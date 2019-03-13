@@ -1,28 +1,28 @@
-Title: Enable Neuro
+Title: Ativar o Neuro
 
-# Enable Neuro
+# Ativar o Neuro
 
-For SM / Neuro integration to work:
+Para a integração SM / Neuro funcionar, você deve:
+•	Ter a versão 8.0.0.0 ou superior da CITSmart Platform
+•	Ter o SM configurado para acesso HTTPS: //
+•	Ter os parâmetros de integração configurados no SM 
 
-- The CITSmart Platform version is 8.0.0.0 or higher
-- SM configured for HTTPS access: //
-- The integration parameters are configured in the SM 
 
 ![Neuro Conection][1]
 
-- **Parameter 309:**
+- **Parâmetro 309:**
 
     ```sh
     Value: Yes
     ```
 
-- **Parameter 310:**
+- **Parâmetro 310:**
 
     ```sh
     https://localhost:8443/cit-esi-web
     ```
 
-- **Parameter 311:**
+- **Parâmetro 311:**
 
     ```sh
     citsmart.local\neuro.user
