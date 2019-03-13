@@ -6,9 +6,9 @@ Existem duas formas de interface Neuro com um Ticket:
 
 1.  Você pode criar um formulário que será uma fonte de informação para o processo de uma solicitação, assim você poderá:
 
-    1.  a)	Criar um formulário para o objeto de negócio;
+    1.  Criar um formulário para o objeto de negócio;
 
-    2.  b)	Criar um template SM;
+    2.  Criar um template SM;
     
     ![create](images/neuro-sm-12.jpg)
 
