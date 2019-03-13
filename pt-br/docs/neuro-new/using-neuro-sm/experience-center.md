@@ -8,7 +8,7 @@ Centro de Experiência
 
 2.  Marcar seu formulário para **Exibir Como Widget SM**;
 
-![basic](images/neuro-sm-6.jpg)
+![basic](images/neuro-sm-5.jpg)
 
 Figura 1 - Dados básicos
 
