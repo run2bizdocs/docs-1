@@ -10,7 +10,7 @@ Existem duas formas de interface Neuro com um Ticket:
 
     2.  b)	Criar um template SM;
     
-    ![create](images/neuro-sm-1.jpg)
+    ![create](images/neuro-sm-12.jpg)
 
     Figura 1 - Criar template SM
     
