@@ -10,22 +10,22 @@ For SM / Neuro integration to work:
 
 ![Neuro Conection][1]
 
-- Parameter 309:
+- **Parameter 309:**
 
     ```sh
     Value: Yes
     ```
 
-- Parameter 310:
+- **Parameter 310:**
 
     ```sh
     https://localhost:8443/cit-esi-web
     ```
 
-- Parameter 311:
+- **Parameter 311:**
 
     ```sh
-    citsmart.local\neuro-user
+    citsmart.local\neuro.user
     ```
 
 [1]:images/neuro-conection.png
