@@ -1,6 +1,6 @@
-title: Aplicação Neuro
-Description:Aplicação Neuro
-#Aplicação Neuro
+title: Neuro Application
+Description: Neuro Application
+# Neuro Application
 
 Neuro Application is a composition of elements that interact with each other in order to compose a set of functionalities integrated with Citsmart and legacy systems. 
 
