@@ -104,7 +104,7 @@ Procedure
 
     ![form](images/neuro-23.jpg)
 
-    Figure 5 - Dependencies
+    Figure 6 - Dependencies
 
 
 6.	Design the screen, to create the screen designing, click Edit Screen or navigate to the system tab Screen Designing that opens automatically:
@@ -116,7 +116,7 @@ Procedure
 
     ![form](images/neuro-24.jpg)
 
-    Figure 6 - Design
+    Figure 7 - Design
 
 7.	Click Save to run the changes. You can save it in the original version (current version), or in a new version.
 
