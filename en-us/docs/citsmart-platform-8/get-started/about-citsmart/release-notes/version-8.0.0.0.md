@@ -2,9 +2,9 @@ Title: Version 8.0.0.0
 
 # Version 8.0.0.0
 
-##Fixes
+## Fixes
 
-###Ticket Management
+### Ticket Management
 
 The Sub-Request and Related Request functionalities were restructured to provide greater compliance to their assignments. The focus of this fix was to bring the functionalities closer to their proposal.
 
