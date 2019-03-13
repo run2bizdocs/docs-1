@@ -7,11 +7,13 @@ Cada campo atribuído no formulário pode usar um label e esses labels são
 anexados a uma chave de internacionalização, as chaves são conectadas à
 Aplicação Neuro.
 
-### Antes de começar
+Antes de começar
+--------------
 
 É necessário ter criado a Aplicação Neuro.
 
-### Procedimento
+Procedimento
+------------
 
 1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Configuração \> Internacionalização;
 
