@@ -1,62 +1,163 @@
-title: Business object  
+title: Objeto de Negócio
+Description:Objeto de Negócio
+#Objeto de Negócio
 
-Description: Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms
 
-#Business object  
+Objetos de Negócios são os vínculos entre o Neuro e uma Entidade de Dados das aplicações. Desta forma, o Objeto de Negócio representará o modelo de dados e poderá atingir um ou mais formulários.
 
-Through this screen, it is possible to keep the business objects of the applications. They are objects stored in the application database and represent the data model that may give rise to one or more forms.  
-Every business object must have a primary key, however, not always the primary key will be created in the database. Business objects are created at the application level.  
-Each business object created represents a table in the database.
+Cada objeto de negócio criado representa uma tabela no banco de dados.
 
-##How to access
-1.	Access the functionality through navigation in the main menu Neuro > Management > Business Object.  
 
-##Preconditions
-1.	No applicable.  
+Antes de começar
+----------------
 
-##Filters
-1.	The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:
+É necessário ter criado Conexão DB e Aplicação Neuro.
 
-    *	Keyword or enter.  
+## Dados gerais
 
-![Screenshot](images/business-object-filter.png)  
-Figure 1 - Search screen of registered business objects
+1.  1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \>
+    Objeto de Negócio;
 
-##Items list
-1.	The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Application, Name, Description, Database connection and Version.  
+2.  Clicar em “Cadastrar”;
 
-![Screenshot](images/business-object-listing.png)  
-Figure 2 - Listing screen of registered business objects
+3.  Preencher os campos disponíveis na guia “Identificação”;
 
-##Filling in the registration fields
-1.	To change a business object, click Edit;  
-2.	To create a new business object, click New.  
+4.  Selecione a **Aplicação** para a qual o objeto de negócio é criado, atribua
+    ao Objeto de Negócio um Nome e uma Descrição, também informe a finalidade do
+    Objeto de Negócio.
+    
+    ![business](images/neuro-9.jpg)
 
-##Identification
-This tab should be fed as a way of identifying the business object created.  
-1.	Enter the Application for which the business object is created (registered in menu Neuro > Management > Application);  
-2.	 The business object identification name, description, purpose must be inform and mark whether the system should generate the form upon saving.  
-3.	As you click Generate Form when saving, Neuro will generate a form based on the information entered in the database tab. This form can be edited later through menu Neuro > Management > Form.  
+Figura 1 - Identificacão
 
-![Screenshot](images/business-object-identification.png)  
-Figure 3 - Register/edit business object screen
+## Informação do Banco de Dados
 
-##Database
-1.	This tab refers to the database structure of the application. Since each business object represents a database table, this tab defines the database columns as well as their relationships, business rules, and SQL commands (if necessary).  
-2.	First, enter the database connection created, the database schema name, type, whether view or table, and the name of the business object in the database.  
+1.  Preencher os campos disponíveis para a guia "Banco de dados". Essa guia faz
+    referência à estrutura do banco de dados da aplicação. Como cada objeto de
+    negócio representa uma tabela de banco de dados, essa guia define as colunas
+    do banco, bem como seus relacionamentos, regras de negócio e comandos SQL
+    (se necessário).
 
-![Screenshot](images/business-object-database.png)  
-Figure 4 - Register/edit business object, database tab
+2.  Preencher as informações com:
 
-##Form
-1.	You can change the attribute labels through the Labels tab, and you can edit the grid fields using the Grid tab.  
-2.	Clicking the Edit Form button in the screen header will generate a form for this business object. If there is no form for this business object, the Fields sidebar will be displayed. If there is already a previously registered form linked to this form, the Screen Drawing tab for this form will be opened.  
-3.	Further information regarding Neuro's form creation can be found in the technical documentation.  
+    1.  A **Conexão de Banco** criada,
 
-![Screenshot](images/business-object-form.png)  
-Figure 5 - Register/edit business object, form tab
+    2.  O nome do **Esquema** de banco de dados,
+
+    3.  O **Tipo**, se é tabela ou view, e
+
+    4.  O **Nome no Banco de Dados** do objeto de negócio.
+
+
+![business](images/neuro-10.jpg)
+
+Figure 2 - Banco de dados
+
+
+## Colunas
+
+1.  Adicionar as colunas da tabela, indicando
+
+    1.  Informar o **nome da coluna na BD**;
+
+    2.  Selecionar o **Tipo** da Coluna. O sistema fará a correlação
+        automaticamente para o **Tipo no BD**;
+
+    3.  Dê o **Nome para atributo de objeto**, se você não mudar, terá o mesmo
+        nome que o nome da coluna;
+
+    4.  Configurar a **Label** para o formulário e a grid;
+
+    5.  Selecionar a **Chave primária** se a coluna é a Chave primária para a
+        tabela;
+
+    6.  Selecione **Obrigatório** se a coluna for obrigatória;
+
+    7.  Clicar em “Salvar”.
+
+![business](images/neuro-11.jpg)
+
+Figura 3 - Lista de colunas
+
+![business](images/neuro-12.jpg)
+
+Figura 4 - Adicionar novas colunas
+
+
+!!! Abstract "NOTA"
+
+    Em cada mudança de banco de dados ou no momento da criação do objeto de negócio, você deve executar o DDL correspondente para           executar a criação/mudança no Banco de Dados.
+    
+## Relação
+
+1.  Se necessário, você pode adicionar Relações nessa guia;
+
+2.  Definir:
+
+    1.  **Tipo** (1 x N, N x 1);
+
+    2.  Informar o **nome da Relação** e da **Label** (para o formulário);
+
+    3.  O **objeto Referenciado** que será vinculado;
+
+    4.  A **Coluna para preenchimento automático**;
+
+    5.  Configurar se é um campo **Obrigatório**;
+
+    6.  Uso de **Delegação** quando você quiser usar conceitos de
+        Generalização/Especialização para o Relacionamento;
+
+    7.  Configurar se a Coluna de objeto de negócio fará parte do relacionamento;
+    
+    
+![business](images/neuro-13.jpg)
+
+Figura 5 - Relação 
+
+## Regras de Negócio
+
+1.	Selecionar a Regra de Negócio atribuída para inserir, alterar ou excluir a ação no Objeto de Negócio 
+
+
+![business](images/neuro-14.jpg)
+
+Figura 6 - Regras de negócio
+    
+## SQLs 
+
+1.  Você pode criar SQL's relacionados ao objeto de negócio a ser usado no
+    fluxo, por exemplo:
+
+    1.  Em uma tarefa para solicitação de inscrição em cursos, você pode criar
+        um SQL (será considerado como uma função) para obter o número de alunos
+        matriculados em um curso;
+
+    2.  O SQL será executado sob um fluxo ESI e será chamado pelo Fluxo SM
+        (usando o componente para integração com o fluxo ESI).
+  
+    
+![business](images/neuro-15.jpg)
+
+Figura 7 - SQL
+
+## Formulário (CRUD & Personalizável)
+
+1.	Você pode alterar as labels de atributos por meio da guia Labels e editar os campos da grid usando a guia Grid.
+
+    ![business](images/neuro-16.jpg)
+
+    Figura 8 - Labels
+
+
+    ![business](images/neuro-17.jpg)
+
+    Figura 9 - Grid
+
+2.	Ao clicar em Editar formulário no cabeçalho da tela, gerará um formulário para esse objeto de negócio. Se não houver um formulário para esse objeto de negócio, a barra lateral Campos será exibida. Se já houver um formulário registrado anteriormente vinculado a este formulário, a guia Desenhar Tela para este formulário será aberta.
+
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 - João Pelles  
+    <b>Updated:</b>03/13/2019 - Anna Martins  
