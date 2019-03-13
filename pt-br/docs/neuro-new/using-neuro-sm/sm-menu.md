@@ -13,11 +13,11 @@ Description: SM menu
 
     3.  O sistema irá gerar um Link automaticamente para o nosso formulário.
 
-![create](images/neuro-sm-11.jpg)
+![create](images/neuro-sm-10.jpg)
 
 Figura 1 - Criar menu SM
 
-![create](images/neuro-sm-12.jpg)
+![create](images/neuro-sm-11.jpg)
 
 Figura 2 - Criar menu SM (continuação)
 
