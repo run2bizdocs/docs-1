@@ -1,77 +1,134 @@
-Title: Formulário  
-Description: Nesta página são mantidos os formulários criados através do Neuro.  
+title: Formulário
+Description: Formulário
+#Formulário
 
-#Formulário  
-Nesta página são mantidos os formulários criados através do Neuro.   
-Os formulários podem ser criados manualmente, ou gerados através do Objeto de negócio.    
 
-##Como acessar 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Formulário.   
+Permite a construção de interfaces de usuário através da combinação de componentes Drag and Drop previamente definidos e o uso de recursos CSS, Angular JS e JavaScript.
 
-##Pré-condições    
-1. Não se aplica.    
+## Características:
 
-##Filtros   
-1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+   * Cada formulário pode conter uma ou mais páginas e cada página tem um HTML, um JS de controlador angular e uma coleção de dependências (o layout da tela é comum a todas as páginas);
 
-    * Palavra chave ou enter.    
+   * O desenho da tela contém uma coleção de linhas e cada linha do desenho da tela pode ter um ou mais componentes (com uma ou mais propriedades;
 
-![Screenshot](images/Form-Search.png)   
-Figura 1 - Tela de pesquisa de formulário    
+   * Páginas previamente configuradas no sistema:
 
-##Listagem de itens  
-1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome e Descrição.     
+1.  **Página padrão**
 
-![Screenshot](images/Form-Listing.png)  
-Figura 2 - Tela de listagem de formulário  
+    *   Página usada para iniciar o serviço SM, pesquisar os dados dentro do banco
+        de dados e registrar diretamente nele.
 
-##Preenchimento dos campos cadastrais  
-1. Para criar um novo formulário, clique em Cadastrar.  
+1.  **Página CRUD**
 
-###Dados básicos
+    *   Página criada automaticamente pelo Objeto de negócio, com as funções
+        básicas.
 
-1. Nesta aba deverão ser informados os dados básicos dos formulários, como a aplicação ao qual o formulário pertence, o nome, descrição, Regras de negócio (caso houver), e a pasta, que é um agrupador físico dos formulários no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.    
-2. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do formulário for criada.    
-3. Adicionar/Remover páginas: refere-se ao tipo de página que será criada utilizando o formulário. Existem os seguintes tipos no Neuro:    
-    - **Default page**: busca o que tem no banco e cadastra diretamente no mesmo. Funciona muito bem para telas que tem a função de         CRUD. Gera a aba Página default.    
-    - **Process page**:  Design Workflows/ESI precisam de processo de negócio. É a primeira página que será utilizada ao executar um         fluxo. Gera a aba Página p/ processo.    
-    - **Page for task**: Página para tarefas humanas que são executadas através de um Design Workflows/ESI criado. Gera a aba Página p/     tarefa.  
-    - **Report page**: Página para relatórios gerados pela aplicação. Gera a aba Página p/ tarefa.  
-    - **ITSM process page**: Página para processos do sistema ITSM associados a processos de negócio.  
-    - **ITSM Task Page**: Página para tarefas humanas que são executadas através de um workflow criado para o ITSM. Gera a aba Página p/     tarefa.  
+1.  **Página de processo**
 
-4. As abas geradas possuem a seguinte estrutura: 
+    *   Página para processos do sistema SM associados a processos de negócios,
+        usados para iniciar um Processo de Negócio Neuro.
 
-    - **HTML**: estrutura html da página;    
-    - **HTML mobile**: estrutura html para dispositivos móveis;  
-    - **Controller**: código do controller referente ao formulário;  
-    - **Dependencies**: são informadas as dependências da aplicação. Deverão ser informados o nome da dependência e o path na qual a          mesma se encontra. Informe também se será injetada no controller.      
+1.  **Página de tarefa**
 
-![Screenshot](images/Form-business.png)    
-Figura 3 - Tela de cadastro/edição de formulários, aba "Dados básicos"   
+    *   Execução de um projeto de fluxo de trabalho/Desenho ESI, renderizando um
+        formulário Neuro na tela do ticket.
 
-![Screenshot](images/Form-business2.png)
+1.  **Página de relatório**
 
-Figura 4 - Tela de cadastro/edição de formulários, aba "Código compartilhado"    
+    *   Página de relatório para relatórios gerados pelo aplicativo, inclui
+        dependências específicas para a execução de um relatório JASPER.
 
-##Desenhar a tela    
-1. Para criar o desenho da tela, clique em Editar tela ou navegue até a aba do sistema Desenho de tela que é aberta automaticamente.    
-2. Arraste os componentes localizados na paleta lateral esquerda para o centro de acordo com a forma que desejar construir o formulário. Os componentes são organizados em linhas e colunas na tela, sendo que as linhas possuem largura de 12 colunas. Isso significa que em cada linha você poderá inserir até 2 componentes com largura 6, ou até 3 componentes com largura 4, por exemplo. Você não precisa necessariamente preencher todo o tamanho disponível na linha.    
-3. É possível também criar abas nos formulários. Para isso, acesse o menu Abas, e escolha abas na horizontal ou na vertical. As abas serão adicionadas na tela, e você poderá desenhar a tela com os componentes em cada aba.    
-4. Além disso, o Neuro contempla um mecanismo para que sejam adicionadas ações na barra de ferramentas superior da aplicação. Para isso, clique no botão localizado na barra superior.  
-5. Para saber mais sobre os componentes dos formulários, acesse o conhecimento Desenvolvendo aplicações.    
-6. Para visualizar o resultado do seu formulário, clique na opção Visualizar tela localizada na barra superior.    
-7. Clique em Salvar para executar as alterações. Você poderá salvar na versão original (versão atual), ou em uma nova versão.   
+## Antes de começar
 
-![Screenshot](images/Form-screen-design.png)   
-Figura 5 - Tela de cadastro/edição de formulários, tela de desenho das telas    
+É necessário ter criado a Aplicação Neuro.
 
-##JS para visualização    
-1. Esta aba tem a funcionalidade de adicionar variáveis no escopo do Javascript na tela que se abre quando se clica no botão Visualizar tela. Mais informações podem ser encontradas na Desenvolvendo aplicações.    
+## Procedimento
 
-![Screenshot](images/Form-JS.png)  
-Figura 6 - Tela de cadastro/edição de formulários, aba "JS para visualização"    
+1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \> Formulário;
+
+2.  Clicar em “Cadastrar”;
+
+3.  Completar os campos disponíveis em “Dados Básicos”. Nesta aba, o usuário
+    deve informar os dados básicos dos formulários, como a **Aplicação** a qual
+    o formulário pertence, o **Nome**, **Descrição**, **Regras de Negócio**
+    (para Validação e para SM, se houver) e a **Pasta**, que é um agrupamento de
+    formulários no servidor, para fins de organização e marca se o Formulário é
+    para ser **Mostrado como um widget de SM**;
+    
+    ![form](images/neuro-18.jpg)
+
+    Figura 1 - Formulário
+
+    !!! Abstract "ATENÇÃO"
+
+        A versão é incrementada automaticamente pelo sistema sempre que uma nova versão do formulário é criada.
+
+4. Adicionar página
+
+    ![form](images/neuro-19.jpg)
+
+    Figura 2 - Adicionar página
+    
+
+5. As abas geradas terão a seguinte estrutura:
+
+    * Propriedades: dados gerais
+
+    ![form](images/neuro-20.jpg)
+
+    Figura 3 - Dados gerais
+    
+
+    * HTML: estrutura de página HTML
+
+    ![form](images/neuro-21.jpg)
+
+    Figura 4 - HTML
+    
+
+    * Controlador: código do controlador referente ao formulário
+
+    ![form](images/neuro-22.jpg)
+
+    Figura 5 - Controlador
+    
+
+    •	Dependências: as dependências da aplicação são reportadas. O nome da dependência e o caminho no qual ela está localizada devem ser     inseridos. O usuário também deve informar se será injetado no controlador.
+
+    ![form](images/neuro-23.jpg)
+
+    Figura 6 - Dependências
+
+
+1.  Desenhar a tela. Para criar o design da tela, clique em Editar tela ou
+    navegue até a guia do sistema Desenhar Tela, que se abre automaticamente.
+
+    *   Arraste os componentes localizados na paleta esquerda para o centro da tela
+    de acordo com a forma que você deseja criar o formulário. Os componentes são
+    organizados em linhas e colunas, e as linhas têm uma largura de 12 colunas.
+    Isso significa que em cada linha você pode inserir até 2 componentes com
+    largura 6, ou até 3 componentes com largura 4, por exemplo. Não é
+    obrigatório preencher a fileira inteira.
+
+    *   Você também pode criar guias nos formulários. Para isso, vá para o menu de
+    guias e escolha as guias horizontalmente ou verticalmente. As guias serão
+    adicionadas na tela e você pode criar a tela com os componentes em cada
+    guia.
+
+    ![form](images/neuro-24.jpg)
+
+    Figura 7 - Design
+
+7.	Clique em Salvar para executar as alterações. Você pode salvá-lo na versão original (versão atual) ou em uma nova versão.
+
+
+!!! Abstract "JS para visualização"
+
+    Essa guia tem a capacidade de adicionar variáveis no escopo do JavaScript na tela que é aberta quando você clica em Exibir Tela.         Mais informações podem ser encontradas em Desenvolver Aplicações
 
 
 !!! tip "About"
-    <b>Updated:</b>17/01/2019 - João Pelles Junior
+
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>03/13/2019 - Anna Martins  
+

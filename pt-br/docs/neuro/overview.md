@@ -1,25 +1,40 @@
-title: Visão geral (Neuro)  
+title: Neuro Overview
 
-description: conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!  
+description: connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. NEURO is also CODELESS!
 
-#NEURO   
+#NEURO 
 
-##Visão geral   
+##Overview 
 
-O CITSmart Neuro conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!
+CITSmart Neuro allows fast development of applications, adapting process and business changes in real time.
+Neuro is a product that has been 100% ready and adequate within CITSmart, this product is very powerful and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others). 
+We understand that the concepts of Service Management is very powerful and can go beyond IT, allowing interesting gains to the business. 
+Neuro runs with the concept of Dynamic Application & Hot Deploy where there´s no need to restart the server or system on any deploy.
 
-Com o Neuro, podemos criar fluxos de trabalho automatizados em minutos, eliminando erros devido a entradas manuais durante a operação em um ambiente seguro.  
+CITSmart Neuro connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. **NEURO is also CODELESS!**
 
--   Personalização rápida  
--   Intercambiável
--   Integração inteligente
--   Cria e projeta fluxos de trabalho automatizados
--   Reduz riscos
--   Elimina dados incorretos
+With Neuro we can create automated workflows in minutes eliminating errors due manual inputs while operating in a secure environment.
 
-##Por que adotá-lo? 
+-   Quick Customization
+-   Interchangeable
+-   Intelligent Integration
+-   Create and Design Automated Workflows
+-   Reduce Risks
+-   Eliminate Incorrect Data
 
-O desenvolvimento de aplicações pode muitas vezes ser lento e caro, além de expor um alto risco ao negócio. O CITSmart Neuro apresenta uma dinâmica inteligente de automação de processos de negócio e construção de telas com recursos de drag and drop, ou seja, pode-se arrastar elementos pré-definidos para criar as telas de forma flexível, segura e ágil. Além disso, possui um altíssimo nível de interoperabilidade, permitindo integrar sua nova aplicação com qualquer outro sistema legado. Como as regras do negócio dessas aplicações mudam constantemente nas organizações/sistemas, a solução está preparada para trabalhar com o dinamismo que o negócio exige, essas regras de negócio são criadas de forma prática e podem ser reutilizadas, evitando desperdícios.  
+##Why adopt it? 
+
+
+Application development can often be time-consuming and expensive, as well as
+exposing a high risk to the business. CITSmart Neuro presents intelligent
+dynamics of business process automation and drag and drop screen construction,
+meaning you can drag pre-defined elements to create the screens in a flexible,
+secure and agile way. In addition, it has a very high level of interoperability,
+allowing you to integrate your new application with any other legacy system. As
+the business rules of these applications change constantly in
+organizations/systems, the solution is prepared to work with the dynamism that
+the business demands, these business rules are created in a practical way and
+can be reused, avoiding waste.
 
 !!! tip "About"
-    <b>Updated:</b>17/01/2019 - João Pelles Junior
+    <b>Updated:</b>12/31/2018 - Andre Luiz de Oliveira Fernandes
