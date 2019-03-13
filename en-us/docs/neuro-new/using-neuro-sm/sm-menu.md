@@ -1,4 +1,4 @@
-title: SM MENU
+title: SM menu
 Description: SM menu
 # SM menu
 
