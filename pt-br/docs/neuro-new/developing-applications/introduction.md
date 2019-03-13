@@ -44,7 +44,7 @@ A etapa de configuração nos preparará para desenvolver a aplicação:
 
 1.  Criar os OBJETOS DE NEGÓCIO, contendo a estrutura de dados da entidade, nesta etapa você poderá criar as colunas, PK's e FK's (atribuir relações), vincular Regras de Negócio e Domínios, além de poder criar Formulários CRUD e outros recursos;
 
-2.  Criar FORMULÁRIOS relacionados ao seu Negócio..
+2.  Criar FORMULÁRIOS relacionados ao seu Negócio.
 
 ## Conexão SM
 
