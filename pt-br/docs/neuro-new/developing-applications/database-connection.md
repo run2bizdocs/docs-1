@@ -30,7 +30,7 @@ b)	Para conexão direta, inserir o Path JDBC, Usuário e Senha.
     Todos os campos na lista de Itens serão usados como filtro para restringir os itens listados.
     
 
-![app](images/neuro-1.png)
+![app](images/neuro-3.png)
 
 Figura 1 - Aplicação
     

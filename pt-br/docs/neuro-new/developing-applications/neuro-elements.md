@@ -1,13 +1,13 @@
-Title: Neuro Elements
+Title: Elementos Neuro
 
-# Neuro Elements
+# Elementos Neuro
 
 ![Neuro Elements][1]
 
-In a simple way we can define the interaction between elements as:
+De uma maneira simples, podemos definir a interação entre elementos como:
 
-1. Business Object, the open door to data, making possible the usage of REST API´s, filtering and acting with the database using Domains and Business Rules
-2. Forms are the way of interface and interact with Business Objects and the resources can enrich the interface with UX or else logic and programming.
-3. Forms will connect with SM Flows and ESI Flow, interfacing with systems and databases
+1. Objeto de Negócio, a porta aberta para dados, possibilitando o uso de API REST, filtrando e agindo com o banco de dados, usando Domínios e Regras de Negócio;
+2. Formulários são o caminho da interface e interagem com o Objeto de Negócio, além de que os recursos podem enriquecer a interface com UX ou então lógica e programação;
+3. Formulários se conectarão com Fluxos SM e Fluxo ESI, fazendo interface com sistemas e bancos de dados.
 
 [1]:images/neuro-elements.png
