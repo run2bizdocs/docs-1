@@ -38,31 +38,11 @@ Permite a construção de interfaces de usuário através da combinação de com
     *   Página de relatório para relatórios gerados pelo aplicativo, inclui
         dependências específicas para a execução de um relatório JASPER.
 
-
-Before getting started
-----------------------
-
-Must have the Neuro Application created.
-
-Procedure
----------
-
-1.  Access the functionality through navigation in the menu Neuro \> Management \> Form;
-
-2.  Click on "New";
-
-3.  Complete the fields available for “Basic Data”, In this tab the user should
-    inform the basic data of the forms, such as the **Application** to which the
-    form belongs, the **Name**, **Description**, **Business Rules** (for
-    Validation and for SM, if any) and the **Folder**, which is a physical form
-    grouper on the server, for the purposes of organization and mark if the Form
-    is to be **Show as a SM widget**;
-
-### Antes de começar
+## Antes de começar
 
 É necessário ter criado a Aplicação Neuro.
 
-### Procedimento
+## Procedimento
 
 1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \> Formulário;
 
