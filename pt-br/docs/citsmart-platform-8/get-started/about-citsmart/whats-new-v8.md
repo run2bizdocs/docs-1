@@ -159,7 +159,7 @@ O Gerenciamento de Problemas foi redesenhado para dar mais agilidade, facilidade
 
 ![Gerenciamento de problemas](images/2b3616dc46702da0d7db949534b570e5.png)
 
-Para facilitar a tratativa do problema, uma sequência de passos foi estruturada em um menu lateral. Veja abaixo:
+Para facilitar a tratativa do problema, uma sequência de passos foi estruturada em um menu lateral. 
 
 *   Informações do Solicitante
 *   Incidentes relacionados ao problema
@@ -338,17 +338,17 @@ O App Mobile SM foi criado para que as facilidades e benefícios da solução CI
 
 [Saiba mais](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-![App Mobile SM ](images/74835ae6d648d6b2379495e4ba85f700.png)
+![App Mobile SM](images/74835ae6d648d6b2379495e4ba85f700.png)
 
-![App Mobile SM ](images/ea7beb34309622c0d80267be03b1fbb8.png)
+![App Mobile SM](images/ea7beb34309622c0d80267be03b1fbb8.png)
 
-![App Mobile SM ](images/40808f0c2affc8a6285ebe188034a7f8.png)
+![App Mobile SM](images/40808f0c2affc8a6285ebe188034a7f8.png)
 
-![App Mobile SM ](images/2215e07b19039629f3c300ee29585d9b.png)
+![App Mobile SM](images/2215e07b19039629f3c300ee29585d9b.png)
 
-![App Mobile SM ](images/e9e509334fa4fb3e1bc94431675b7bd4.png)
+![App Mobile SM](images/e9e509334fa4fb3e1bc94431675b7bd4.png)
 
-![App Mobile SM ](images/20ac60c7dce276d0e99595d169703efb.png)
+![App Mobile SM](images/20ac60c7dce276d0e99595d169703efb.png)
 
 
 !!! tip "About"
