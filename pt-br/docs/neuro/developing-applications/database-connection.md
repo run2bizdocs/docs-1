@@ -21,7 +21,7 @@ Procedimento
 
    a)	Para conexão JNDI, inserir o Contexto e o Nome JNDI;
 
-    b)	Para conexão direta, inserir o Path JDBC, Usuário e Senha.
+   b)	Para conexão direta, inserir o Path JDBC, Usuário e Senha.
 
 5.	Clicar em “Salvar”.
 
