@@ -6,21 +6,21 @@ Existem duas formas de interface Neuro com um Ticket:
 
 1.  Você pode criar um formulário que será uma fonte de informação para o processo de uma solicitação, assim você poderá:
 
-    1.  Criar um formulário para o objeto de negócio;
+  a)  Criar um formulário para o objeto de negócio;
 
-    2.  Criar um template SM;
+  b)  Criar um template SM;
     
     ![create](images/neuro-sm-12.jpg)
 
     Figura 1 - Criar template SM
     
-    3.  Vincular o template para a requisição/incidente;
+  c)  Vincular o template para a requisição/incidente;
     
     ![create](images/neuro-sm-1.jpg)
 
     Figura 2 - Vincular template
     
-    4.  Usar o template na requisição/incidente.
+  d)  Usar o template na requisição/incidente.
     
     ![create](images/neuro-sm-2.jpg)
 
@@ -29,14 +29,14 @@ Existem duas formas de interface Neuro com um Ticket:
 
 2.  Você pode usar um formulário durante a resolução (etapas) do fluxo de processo na requisição/incidente;
 
-    1.  Selecionar usuário de tarefa
+  a)  Selecionar usuário de tarefa
     
     ![create](images/neuro-sm-3.png)
 
     Figura 4 - Vincular template
     
 
-    2.  Vincular o formulário a uma etapa do Fluxo SM na guia "Interface" de uma tarefa de usuário
+  b)  Vincular o formulário a uma etapa do Fluxo SM na guia "Interface" de uma tarefa de usuário
     
     ![create](images/neuro-sm-4.png)
 
