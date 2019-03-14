@@ -17,6 +17,7 @@ Quais as possibilidades de uso?
 -------------------------------
 
 Há cases de gestão de serviços com processos automatizados em diversas áreas como:
+
 -   Educação
 -   Compras
 -   Viagem
@@ -29,6 +30,7 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
 biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
 processos automatizados, sendo eles:
+
 -   Gerenciamento de Portfólio
 -   Catálogo de Serviços
 -   Gerenciamento de Nível de Serviço
