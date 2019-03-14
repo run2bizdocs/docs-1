@@ -1,0 +1,498 @@
+Title: O que há de novo no CITSmart 8.0?
+Description: Descreve O que há de novo no CITSmart 8.0
+
+O que há de novo no CITSmart 8.0?
+=================================
+
+Uso da Logomarca e Login
+------------------------
+
+O uso da imagem CITSmart foi otimizada para melhorar o uso de dados, bem como a 
+aplicação dentro da solução, tornando mais simples, leve e adequada para os
+novos direcionamentos do produto.
+
+Veja o novo acesso:
+
+![](media/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+
+Centro de Experiência
+---------------------
+
+Através do Centro de Experiência é possível construir portais de relacionamento
+com identidade visual própria para clientes, fornecedores e colaboradores,
+promovendo visibilidade e colaboração.
+
+![](media/b3f8b1578f498d74c13b9e3797ce265a.png)
+
+Cada Centro de Experiência possui páginas dinâmicas com a opção de widgets de:
+
+*   Portfólios
+*   Requisições
+*   Aprovações
+*   Centro de Conhecimento
+*   Aplicações Neuro
+*   Workspaces
+*   Notícias
+*   Notificações
+*   Pesquisas
+*   Youtube
+*   Imagens
+*   Menu
+*   Lista
+*   Texto
+*   Chat
+*   Voip
+*   Entre outros
+
+![](media/image001.png)
+
+Um ou mais Centros de Experiência poderão ser criados de acordo com perfis de
+acesso e áreas de negócio.
+
+![](media/db062d281d82abfa78db1df0faecd0bf.png)
+
+### Widget de Portfólio
+
+É utilizado no Centro de Experiência para listar os Portfólios com seus Serviços
+e Requisições, substituindo o uso do portal de serviços.
+
+![](media/2b7bd70982826c5495cd89a5dfb80bad.png)
+
+### Widget Minhas Requisições
+
+Lista os tickets do usuário logado.
+
+![](media/f8f7645a6a8aeae523e7f3f6d2137be7.png)
+
+Possui Histórico do atendimento com linha do tempo.
+
+![](media/220a052a9327a9e9449c2a944197c0fb.png)
+
+Permite ao solicitante adicionar notas e comentários e notificar o atendente por
+e-mail.
+
+![](media/ba9bb6e90129912b1ae133d0d48a0c38.png)
+
+Também é possível utilizar o **bate papo** com o atendente.
+
+![](media/8932518c8dc4682676b26be17ca8790f.png)
+
+Saiba mais
+
+### Widget Minhas Aprovações
+
+Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone
+aprovar.
+
+![](media/e9319f0fc18517cbd276c36493165f1f.png)
+
+Você visualiza os detalhes do ticket e pode aprovar ou não.
+
+![](media/fcfe60906f6eb574f1b79d3748ee1b07.png)
+
+Menu
+----
+
+Internamente os menus sofreram reorganização e agora estão dispostos à esquerda,
+com possibilidade de consulta e ocultação, melhorando o espaço de trabalho na
+plataforma.
+
+![](media/1001e25892abe90fac65435e1046ce70.png)
+
+Smart Decisions
+---------------
+
+Permite visualizar Widgets de dashboards, relatórios nativos e relatórios
+construídos na plataforma. Cada usuário pode configurar sua própria área com uma
+ou mais abas.
+
+![](media/5713bcb2ea7cd2b39c8c2eeb26e082c8.png)
+
+Acesso Rápido
+-------------
+
+O topo da plataforma está mais simples e prático, com novos ícones e área de
+acesso rápido aos processos e portais.
+
+![](media/872ec514a50a5df0fc1c52dbe939726a.png)
+
+Gestão de Tickets
+-----------------
+
+Com melhoria significativa de performance e experiência do usuário, seu novo
+layout apresenta informações de forma mais estruturada em um menu lateral com
+opção de ocultar.
+
+![](media/bb667d3d68742a2fa5e32118034b5043.png)
+
+Na criação de tickets há uma nova busca multinível que permite pesquisar por
+portfólios, serviços e atividade de forma visual e rápida. Diante disso, esta
+nova versão não utiliza mais as categorias.
+
+![](media/cc35b86d242b00d9cd5889f8bc00e9de.png)
+
+É possível acompanhar graficamente a execução do fluxo.
+
+![](media/627e79b1f81043ca8ce213488105218b.png)
+
+O atendente pode enviar mensagem ao solicitante e notificá-lo por e-mail.
+
+![](media/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
+
+O registro de ocorrências foi substituído por um registro de notas e comentários
+com a possibilidade de notificar o solicitante por e-mail, lançar horas de
+atendimento e controlar a visualização dos registros.
+
+![](media/6573c4b0693d0895d348925f064471ab.png)
+
+Toda a execução do fluxo e registros do atendimento como a captura, delegação,
+suspensão, SLA etc são exibidos em um histórico no formato de linha do tempo. As
+mensagens com o solicitante também são guardadas aqui.
+
+![](media/aeec7370d6911b8d6752dea07110160d.png)
+
+Agora, assim que uma nova Solução de Contorno é criada, automaticamente é
+disparada uma notificação para o responsável pelo Incidente.
+
+![](media/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
+
+É possível visualizar a solução de contorno e copiar o conteúdo para o
+fechamento do incidente, preenchendo a causa e solução resposta.
+
+![](media/497f2cd45381eecb91a61e7ce5293534.png)
+
+![](media/7c1f08ad6a57bf48f962c3697d9e74ac.png)
+
+Simple - Gestão Ágil
+--------------------
+
+Umas das principais novidades desta versão é o Simple, que trouxe o poder da
+gestão ágil para a plataforma CITSmart.
+
+![](media/062f363d6c32e90c8b47eb3ff152b3b6.png)
+
+O Simple foi desenvolvido para ajudar as equipes a serem mais colaborativas e
+participativas, aumentando a produtividade e dando mais autonomia e visibilidade
+aos membros de uma forma mais simples e prática.
+
+![](media/bf1799ff10f7a0ffd777796cb6942783.png)
+
+Cada time pode ter um ou mais workspace e criar sprints com kanbans e fases, de
+acordo com cada necessidade.
+
+![](media/0106d35369a8955ef31970d1adaa3220.png)
+
+Cada tarefa pode ter um ou mais membro. É possível adicionar:
+
+*   Checklists
+*   Comentários
+*   Estimativa
+*   Horas trabalhadas
+*   Tags
+*   Arquivos
+*   Ativar notificações etc.
+
+![](media/567ad02f39ebfa223c1670d3f51225bd.png)
+
+Saiba mais
+
+Gerenciamento de Problemas
+--------------------------
+
+O CITSmart evoluiu o Gerenciamento de Problemas para dar mais agilidade,
+facilidade e praticidade ao trabalho das equipes.
+
+Com um novo painel de listagem e acompanhamento é possível alterar colunas de
+exibição, ativar atualização automática, visualizar andamento do fluxo,
+pesquisar registro de problemas, acessar lista de relatórios dinâmicos etc.
+
+![](media/2b3616dc46702da0d7db949534b570e5.png)
+
+Para facilitar a tratativa do problema, uma sequência de passos foi estruturada
+em um menu lateral. Veja abaixo:
+
+*   Informações do Solicitante
+*   Incidentes relacionados ao problema
+*   Problema
+*   Diagnóstico
+*   Solução
+*   Revisão e Fechamento
+
+![](media/df5b817ae22b8cbec1532249518fa06a.png)
+
+Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes
+que geraram o problema.
+
+![](media/4977321406008c911b7444314ac0adfd.png)
+
+O registro de problema passou a utilizar o conceito de portfólio de templates.
+
+![](media/e152a1d12831448bc0d9f48ffa66286b.png)
+
+Os templates são pré-cadastrados com fluxo de atendimento, grupo responsável,
+status etc, tornando mais prática a criação, classificação e atendimento dos
+problemas.
+
+![](media/a7a6fce9a4d15ccfba902b7336f28625.png)
+
+Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e a
+Lista de seus ICs.
+
+![](media/9127dbc4c5b76c7d2590f34ffe39910e.png)
+
+Basta dois clicks no IC para visualizar os detalhes.
+
+![](media/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
+
+À partir da lista de ICs é possível vincular os que estão relacionados ao
+problema.
+
+![](media/0e21053d9b0622ca3a6c85408fb8b198.png)
+
+Uma nova área de diagnóstico foi criada e permite que através do Simple, mais
+pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo
+agilidade e eficiência.
+
+![](media/e2d50a9ba88ef6bae994d140c60f1ee8.png)
+
+O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil.
+Uma nova notificação é enviada ao responsável pelo incidente assim que cada
+solução de contorno é publicada.
+
+![](media/ab12ab8681a2cb4f83dc5fe0c634997c.png)
+
+Também há uma nova área de Solução com vínculo direto ao Simple e aos registros
+de mudança, permitindo que o desenho, desenvolvimento e implantação da solução
+seja mais ágil e colaborativo, atingindo melhores resultados.
+
+![](media/eb1061a11eee5d9119bb12ab37080266.png)
+
+A guia de Revisão e Fechamento permite informar se o problema foi resolvido com
+sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e
+abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes.
+
+![](media/d1376fef59089e5eb76c3aebfbefa180.png)
+
+Saiba mais...
+
+Gerenciamento de Configuração e Ativos
+--------------------------------------
+
+Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática, o
+painel de Gerenciamento de Configuração e Ativos foi reformulado considerando a
+melhor experiência para o usuário.
+
+A nova busca permite filtrar por grupos, tipos, alertas e identificação.
+
+![](media/5969571c75155fa972a05d9bd11f0ce1.png)
+
+O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação
+entre as estruturas do CMDB.
+
+![](media/7d07d4c5e47622c8783b03a703519a9c.png)
+
+O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes,
+Problemas, Mudanças e Liberação abertos.
+
+![](media/51211a646f78df95873b9a02f9fe5825.png)
+
+Os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de
+ICs que possuem.
+
+![](media/ff19e397e646d76b77cbe29fba24ff61.png)
+
+Ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o
+quantitativo de ICs de acordo com a identificação.
+
+![](media/f36b03ea093f9e45e58a7a6d72205e66.png)
+
+A visualização do IC também foi otimizada. Agora as principais informações e
+características do IC são exibidas na área Geral.
+
+![](media/e293534d3f12db8aac9556635acd390b.png)
+
+As informações de garantia também são exibidas em um novo Widget.
+
+![](media/065a32778b352c6c59dbc7b2ab64726c.png)
+
+Saiba mais...
+
+Gerenciamento de Mudanças
+-------------------------
+
+O CITSmart evoluiu o Gerenciamento de Mudanças para dar mais agilidade,
+segurança e praticidade as mudanças em ambientes que vão além da TI .
+
+Com um novo painel de listagem é possível alterar colunas de exibição, ativar
+atualização automática, visualizar andamento do fluxo, pesquisar registro,
+acessar lista de relatórios dinâmicos etc.
+
+![](media/44f5c39bbaf468b663e03796a1812dba.png)
+
+Para facilitar o atendimento, a seguinte sequência de passos foi estruturada no
+menu lateral:
+
+-   Informações do solicitante
+
+-   Informações da requisição de mudança
+
+-   Planejamento da mudança
+
+-   Plano de reversão
+
+-   Revisão e fechamento
+
+-   ICs relacionados
+
+![](media/6fd68d3e593c52c8b655cb4ec65def7c.png)
+
+Para facilitar a organização e a classificação dos registros de mudança, o
+CITSmart passou a utilizar o conceito de Portfólio de Mudanças, permitindo
+pré-configurar templates com fluxo de atendimento, calendário, grupos
+responsáveis etc.
+
+![](media/a9c055027ea4f7f37d82a04d76cadedf.png)
+
+A classificação da mudança ficou muito mais simples. Veja:
+
+![](media/72c29210c9051f466a24661d42b27012.png)
+
+Também é possível vincular aos templates os formulários de análise ágil de
+risco. Cada template de mudança poderá utilizar um formulário com perguntas e
+pesos. De acordo com a análise, um gráfico de risco é apresentado. Veja abaixo:
+
+![](media/5e75c4a2e9b58289e8904df5a6b1db77.png)
+
+O Planejamento, Reversão e a Revisão e Fechamento da Mudança agora contam com a
+gestão ágil do Simple, assim várias equipes podem executar tarefas de forma
+rápida, transparente e colaborativa.
+
+![](media/954f437a8fdf2424fec8ac01a04c2f48.png)
+
+Na Revisão e fechamento da mudança, além de informar se a mudança foi realizada
+com sucesso ou não, também é possível vincular um formulário para análise da
+qualidade da mudança, além do vínculo com Incidentes, Problemas, Lições
+aprendidas etc.
+
+![](media/e537aa0813efbcd3645310829c2be25e.png)
+
+Saiba mais...
+
+### Gerenciamento de Liberação e Implantação
+
+O Gerenciamento de Liberação e Implantação também passou por evoluções. O painel
+de listagem segue o mesmo padrão apresentado nos processos anteriores.
+
+![](media/2156515c0b739dfea8febf3559ed4e69.png)
+
+No menu lateral foi estruturado uma sequência de passos para facilitar o
+acompanhamento da liberação.
+
+![](media/93fd32b7239e8ea2ecb21059d92c28b9.png)
+
+As mudanças empacotadas para liberação são apresentadas na mesma tela,
+facilitando o acompanhamento.
+
+![](media/ab0edbc9c5f9865b47c82508d1afc0cd.png)
+
+O Planejamento e a Implantação agora contam com a Gestão Ágil do Simple,
+facilitando o envolvimento e a colaboração de várias equipes
+
+![](media/968d2eeb13fb27b551c56c235bc9d7dc.png)
+
+### Business Intelligence
+
+Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o uso
+da estrutura de BI do Saiku Community para análise de dados de Tickets,
+Mudanças, Releases etc.
+
+![](media/1ccae7bf7ce5685e45f05ecc63d89a44.png)
+
+Há várias visões de gráficos e tabelas, com a possibilidade de filtros e
+exportação para csv e pdf.
+
+![](media/8e4b26f0fda93b0a72d3c106eee6ea81.png)
+
+### Trilha de Auditoria
+
+As trilhas de auditoria foram criadas para dar mais transparência do uso de
+dados e segurança do nosso sistema, existem três opções de Auditoria: de
+**dados**, de **acesso** e de **chave**. [Saiba
+mais.](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+
+**Auditoria de dados.**
+
+Nesta opção de auditoria é apresentado o histórico de todos os dados de
+alteração, inclusão e exclusão realizadas no sistema.
+
+![](media/3d7c59fbe255e39c8ad40fe40af6c4c3.png)
+
+**Auditoria de Acesso**
+
+Nesta opção é apresentado o histórico dos acessos ao sistema (entradas e saídas)
+
+![](media/0cadfc5c8b44982b979f12f1856c51ad.png)
+
+**Auditoria de Chave**
+
+Nesta opção de auditoria informa as licenças utilizadas para a validação do
+sistema.
+
+![](media/e98e9f6f9fc8c617205888a0c618d2c5.png)
+
+### App Mobile Field Service
+
+O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos
+realizados em campo. As funcionalidades do app podem ser executadas offline e
+depois sincronizadas de forma fácil.
+
+![](media/a4aa24d9854f27a3b7f0c1c78594f283.png)
+
+![](media/13f4985b36f0be5787d486db3ce95a12.png)
+
+![](media/743fe4589305b799e092a3cd3841a662.png)
+
+![](media/79c17e3de84e55e100537fce8442db2f.png)
+
+![](media/d0e55578697309f1c13ef2b20f75022e.png)
+
+![](media/b81f9df2895892d574af542a0b478585.png)
+
+![](media/66562da227ac7116e893ad36375950ac.png)
+
+![](media/db69f0d18d1a35d3d1244c6f3c8b648f.png)
+
+![](media/4ebf0054cd4a342fcc282ad1ad90560d.png)
+
+[Saiba mais sobre o App
+FS.](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+
+### App Service Management
+
+O App Mobile SM foi criado para que as facilidades e benefícios da solução
+CITSmart possam ser acessados também via dispositivos móveis, esta nova versão
+inclui notificações para o sistema operacional Android e a possibilidade de
+confirmação de atendimento via assinatura.
+
+[Saiba
+mais](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+
+![](media/74835ae6d648d6b2379495e4ba85f700.png)
+
+![](media/ea7beb34309622c0d80267be03b1fbb8.png)
+
+![](media/40808f0c2affc8a6285ebe188034a7f8.png)
+
+![](media/2215e07b19039629f3c300ee29585d9b.png)
+
+![](media/e9e509334fa4fb3e1bc94431675b7bd4.png)
+
+![](media/20ac60c7dce276d0e99595d169703efb.png)
+
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Created:</b>14/03/2019 - André Fernandes
+
