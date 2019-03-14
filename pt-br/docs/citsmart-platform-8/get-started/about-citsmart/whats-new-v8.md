@@ -249,7 +249,7 @@ Para facilitar a organização e a classificação dos registros de mudança, o 
 
 ![b-Classificação da mudança](images/72c29210c9051f466a24661d42b27012.png)
 
-Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painél de gestão ágil (Conceito "Simple"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
+Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painel de gestão ágil (Conceito "Simple"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
 
 
 ![a-Gráfico de análise de risco](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
