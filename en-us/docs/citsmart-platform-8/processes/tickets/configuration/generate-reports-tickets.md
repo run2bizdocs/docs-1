@@ -142,7 +142,7 @@ request.
     to generate the detailed report in PDF format and / or the "Generate XLS
     Detailed Report" button to generate the detailed Excel report .
 
-##Generate request execution report
+##Generate request report per executor
 
 This report has the objective of present the service request per executor.
 
