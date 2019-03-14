@@ -204,37 +204,27 @@ Saiba mais... **XXXXXXX (colocar link do problema)**.
 Gerenciamento de Configuração e Ativos
 --------------------------------------
 
-Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática, o painel de Gerenciamento de Configuração e Ativos foi reformulado considerando a melhor experiência para o usuário.
+Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática, o painel de Gerenciamento de Configuração e Ativos foi reformulado considerando a melhor experiência para o usuário, A nova busca permite filtrar por grupos, tipos, alertas e identificação. 
 
-A nova busca permite filtrar por grupos, tipos, alertas e identificação.
+![Painel de Gerenciamento de Configuração e Ativo](media/5969571c75155fa972a05d9bd11f0ce1.png)
 
-![](media/5969571c75155fa972a05d9bd11f0ce1.png)
+O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação entre as estruturas do CMDB **(a)**, O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes, Problemas, Mudanças e Liberação abertos **(b)**, os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de ICs que possuem **(c.)** e ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o quantitativo de ICs de acordo com a identificação **(d)**.
 
-O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação entre as estruturas do CMDB.
+![a-Detalhamento do CMDB](media/7d07d4c5e47622c8783b03a703519a9c.png)
 
-![](media/7d07d4c5e47622c8783b03a703519a9c.png)
+![b-Alertas CMDB](media/51211a646f78df95873b9a02f9fe5825.png)
 
-O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes, Problemas, Mudanças e Liberação abertos.
+![c-Tipos de IC](media/ff19e397e646d76b77cbe29fba24ff61.png)
 
-![](media/51211a646f78df95873b9a02f9fe5825.png)
+![d-Detalhamento por tipo de IC](media/f36b03ea093f9e45e58a7a6d72205e66.png)
 
-Os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de ICs que possuem.
+A visualização do IC também foi otimizada. Agora as principais informações e características do IC são exibidas na área Geral **(a)** e as informações de garantia também são exibidas em um novo Widget **b)**.
 
-![](media/ff19e397e646d76b77cbe29fba24ff61.png)
+![a-Detalhamento do IC](media/e293534d3f12db8aac9556635acd390b.png)
 
-Ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o quantitativo de ICs de acordo com a identificação.
+![b-Garantias do IC](media/065a32778b352c6c59dbc7b2ab64726c.png)
 
-![](media/f36b03ea093f9e45e58a7a6d72205e66.png)
-
-A visualização do IC também foi otimizada. Agora as principais informações e características do IC são exibidas na área Geral.
-
-![](media/e293534d3f12db8aac9556635acd390b.png)
-
-As informações de garantia também são exibidas em um novo Widget.
-
-![](media/065a32778b352c6c59dbc7b2ab64726c.png)
-
-Saiba mais...
+Saiba mais...  **XXXXXXX (colocar link do Configuração e CMDB)**
 
 Gerenciamento de Mudanças
 -------------------------
