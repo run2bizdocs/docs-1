@@ -1,9 +1,52 @@
 Title: What is CITSmart?
 Description: Introduction to the CITSmart product
 
-#Whats is CITSmart ?
+## Whats is CITSmart ?
 
-## CITSmart History
+CITSmart, developed by CITSmart Corporation®, is a **platform that 
+connects people and digital resources to optimize work and amplify 
+business results.**
+
+Through the relationship portals, we optimize the experience of customers 
+and employees. Moreover, through the **Intelligent Digital Workflow** and agile 
+management, using Kanbans, we connect teams to a greater customer-centric 
+collaboration, generating progressive and interactive improvement, simplicity 
+in execution, practicality, alignment and agility.
+
+what are the possibilities of usage?
+-------------------------------
+
+There are cases of service management with automated processes in several areas, 
+for example:
+
+*   Education.
+*   Purchases.
+*   Travel.
+*   Human resources, such as staff, training, others.
+*   Personal department, such as request for benefits, vacation, payroll, clarification, others.
+*   Legal, such as elaboration and analysis of contracts, support, others.
+*   Field service, such as the exchange of equipment, execution of repairs and maintenance, others.
+*   Communication, Marketing and others.
+
+Therefore, following the best service management practices, based on the ITIL best 
+practice library, CITSmart natively has 13 automated processes, they are:
+
+*   Portfolio Management
+*   Service Catalog
+*   Service Level Management
+*   Request Management
+*   Knowledge Management
+*   Incident Management
+*   Problem Management
+*   Assets and Configuration Management
+*   Change Management
+*   Release and Deployment Management
+*   Event Management
+*   Availability Management
+*   Continuity Management
+
+CITSmart History
+--------------------
 
 CITSmart is a product that had its initial construction to meet the needs of ITSM (IT Service Management),
 mainly for the fulfillment of the ITIL requirements, preached by the institution Pink Elephant, through
@@ -13,7 +56,8 @@ Base, SLA, Changes and CMDB.
 The current CITSmart target audience are companies that have IT departments, as well as the need of
 ITSM solutions to manage their ITs.
 
-##Evolution
+Evolution
+------------
 
 The main change introduced in the last year was the focus on business processes beyond IT, that is,
 Corporate Service Management, a proof of this is the adaptation of the service statement that became
@@ -23,12 +67,14 @@ by allowing the construction of new data inputs and integration possibilities.
 We also created in the year 2018 the products CE - Center of Experiences. This product is an initiative to
 create a digital workspace builder. 
 
-## Anuva
+Anuva
+-----
 
 ANUVA was also initiated and represents the Artificial Intelligence of CITSmart, where it promotes
 integration and machine learning with knowledge
 
-## Neuro
+Neuro
+-----
 
 NEURO is a product that has been 100% ready and adequate within CITSmart, this product is very powerful
 and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the
