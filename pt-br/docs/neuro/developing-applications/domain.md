@@ -13,11 +13,11 @@ Procedimento
 
 3.  Preencher os campos disponíveis em “Cadastro de Domínios”;
 
-!!! Abstract "NOTA"
+    !!! Abstract "NOTA"
 
-    Criar a **Chave** (nome de domínio) para agrupar os itens, o **Código**
-    (para identificar exclusivamente o item de domínio) o **nome** do item de
-    domínio e a **descrição** dele (você pode salvar uma chave como padrão).
+        Criar a **Chave** (nome de domínio) para agrupar os itens, o **Código**
+        (para identificar exclusivamente o item de domínio) o **nome** do item de
+        domínio e a **descrição** dele (você pode salvar uma chave como padrão).
 
 1.  Clicar em “Salvar”.
 
