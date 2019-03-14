@@ -19,32 +19,32 @@ Quais as possibilidades de uso?
 
 Há cases de gestão de serviços com processos automatizados em diversas áreas como:
 
--   Educação
--   Compras
--   Viagem
--   Recursos humanos como a solicitação de pessoal, treinamento, etc.
--   Departamento pessoal como a solicitação de benefícios, férias, folha de pagamento, esclarecimentos, etc.
--   Jurídico como elaboração e análise de contratos, apoio, etc.
--   Atendimento em campo como a troca de equipamentos, execução de reparos e manutenção etc.
--   Comunicação, Marketing entre outros.
+*   Educação
+*   Compras
+*   Viagem
+*   Recursos humanos como a solicitação de pessoal, treinamento, etc.
+*   Departamento pessoal como a solicitação de benefícios, férias, folha de pagamento, esclarecimentos, etc.
+*   Jurídico como elaboração e análise de contratos, apoio, etc.
+*   Atendimento em campo como a troca de equipamentos, execução de reparos e manutenção etc.
+*   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
 biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
 processos automatizados, sendo eles:
 
--   Gerenciamento de Portfólio
--   Catálogo de Serviços
--   Gerenciamento de Nível de Serviço
--   Gerenciamento de Requisição
--   Gerenciamento de Conhecimento
--   Gerenciamento de Incidentes
--   Gerenciamento de Problema
--   Gerenciamento de Configuração e Ativos
--   Gerenciamento de Mudança
--   Gerenciamento de Liberação e Implantação
--   Gerenciamento de Evento
--   Gerenciamento de Disponibilidade
--   Gerenciamento de Continuidade
+*   Gerenciamento de Portfólio
+*   Catálogo de Serviços
+*   Gerenciamento de Nível de Serviço
+*   Gerenciamento de Requisição
+*   Gerenciamento de Conhecimento
+*   Gerenciamento de Incidentes
+*   Gerenciamento de Problema
+*   Gerenciamento de Configuração e Ativos
+*   Gerenciamento de Mudança
+*   Gerenciamento de Liberação e Implantação
+*   Gerenciamento de Evento
+*   Gerenciamento de Disponibilidade
+*   Gerenciamento de Continuidade
 
 História do CITSmart
 --------------------
