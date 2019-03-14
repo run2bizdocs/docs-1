@@ -1,92 +1,94 @@
-Title: CITSmart Products Release and Update Policy
-Description: Describe the release and update cycles of CITSmart Products, clients notifications and other relevant information.
+Title: Política de Liberação e Atualização dos Produtos CITSmart
+Description: Descrever os ciclos de lançamento e atualização de produtos CITSmart, notificações de clientes e outras informações relevantes.
 
-# CITSmart Products Release and Update Policy
+# Política de Liberação e Atualização dos Produtos CITSmart
 
-## Overview
-The purpose of this policy is to describe the release and update cycles of
-CITSmart Products, clients notifications and other relevant information.
+## Visão Geral
+O objetivo desta política é descrever os ciclos de liberação e atualização dos
+Produtos CITSmart, notificações ao cliente e outras informações relevantes.
 
-The policy guidelines are applicable to all of our products, whether they are
-using the SaaS or On-Premise model.
+As diretrizes da política são aplicáveis a todos os nossos produtos, estejam eles
+usando o modelo SaaS ou On-Premise.
 
-## Release and Update Cycles
-Our release and update cycles approach is designed to provide stability, quick
-response to problems and continuous delivery of new features and experiences.
+## Ciclos de Liberação e Atualização
+Nossa proposta de liberação e atualização de produtos foi definida para fornecer
+estabilidade, resposta rápida a problemas, além de fornecimento contínuo de novos
+recursos e experiências.
 
-CITSmart products generally follow 3 types of releases, as listed in the
-following table:
+Os produtos CITSmart, geralmente, seguem 3 tipos de liberação, conforme listado
+na tabela a seguir:
 
-| Release Type     | Scope                                                                                                                         | Frequency                                                                            | Notification                                                                                         |                                                |
+| Tipo Liberação     | Escopo                                                                                                                         | Frequência                                                                            | Notificação                                                                                         |                                                |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| *Major Release*  | New application functionalities and killer features for the product.                                                          | Typically twice a year                                                               | Typically, one month before the release, with a second notification 20 days after sending the first. |                                                |
-| *Minor Release*  | It includes, but is not limited to minor improvements, security updates, and generally doesn't involve architectural changes. | Typically, once every 2 months                                                       |                                                                                                      |                                                |
-| *Hotfix*         | **Planned**                                                                                                                   | Updates including bug and applications fixes, in addition to occasional adjustments. | Typically, once a month                                                                              | \-                                             |
-|  *Hotfix*        | **Critical**                                                                                                                  | Hot fixes needed for system stability or security                                    | Whenever necessary                                                                                   | A few hours before, preferably 48 hours before |
+| *Major Release*  | Novas funcionalidades e killer features para o produto.                                                          | Tipicamente, duas vezes por ano                                                               | Tipicamente, um mês antes do lançamento, com uma segunda notificação 20 dias após o envio da 1ª. |                                                |
+| *Minor Release*  | Inclui, mas não se limita a pequenas melhorias, atualizações de segurança e geralmente não envolve mudanças arquiteturais. | Tipicamente, uma vez a cada 2 meses                                                       |                                                                                                      |                                                |
+| *Hotfix*         | **Planejada**                                                                                                                   | Atualizações incluindo correção de erros e aplicações e ajustes pontuais. | Tipicamente, uma vez por mês                                                                              | \-                                             |
+|  *Hotfix*        | **Crítica**                                                                                                                  | Correções emergenciais para garantir a estabilidade e segurança do Sistema                                    | Sempre que necessário                                                                                   | Poucas horas antes, preferencialmente 48h antes |
 
-CITSmart refers to each Feature Release, and its associated Hotfixes, as a
-"Series". For example, Version 7.6.5.4 is part of Series 7. The series are
-version updates, most of the time, with significant changes in the application
-or architecture.
+A CITSmart refere-se a cada Feature Release, e seus Hotfixes associados, como
+uma “Série”. Por exemplo, a Versão 7.6.5.4 faz parte da Série 7. As séries são
+atualizações de versão, na maioria das vezes, com mudanças significativas na
+aplicação ou na arquitetura.
 
-Therefore, CITSmart products use the following version standard:
+Por conta disso, os produtos CITSmart utilizam o seguinte padrão de versão:
 
 **Series \> Major Release \> Minor Release \> Hotfix**
 
-For example: In version 7.6.5.4, 7 is the Series, 6 is the Major Release, 5 is
-the Minor Release and 4 is the HotFix associated.
+Por exemplo: Na versão 7.6.5.4, 7 é a Série, 6 é a Major Release, 5 é a Minor
+Release e 4 é o HotFix associado.
 
-The Release Schedule for CITSmart:
+Cronograma de Lançamento do CITSmart:
 
-| **Release Month** | **Type of Release**             | **Release Number**                |
-|-------------------|---------------------------------|-----------------------------------|
-| **January**       | **Hot-fix Planned**             | **\<series\>.x.1.1**              |
-| **February**      | **Minor Release**               | **\<series\>.x.2.0**              |
-| **March**         | **Hot-fix Planned**             | **\<series\>.x.2.1**              |
-| **April**         | **New Series or Major Release** | **SERIE.0.0.0/ \<series\>.X.0.0** |
-| **May**           | **Hot-fix Planned**             | **\<series\>.x.0.Y**              |
-| **June**          | **Minor Release**               | **\<series\>.x.1.0**              |
-| **July**          | **Hot-fix Planned**             | **\<series\>.x.1.Y**              |
-| **August**        | **Minor Release**               | **\<series\>.x.2.0**              |
-| **September**     | **Hot-fix Planned**             | **\<series\>.x.2.Y**              |
-| **October**       | **New Series or Major Release** | **SERIE.0.0.0/ \<series\>.X.0.0** |
-| **November**      | **Hot-fix Planned**             | **\<series\>.x.0.Y**              |
-| **December**      | **Minor Release**               | **\<series\>.x.1.0**              |
+| **Mês de Lançamento** | **Tipo de Lançamento**             | **Número da Versão**                |
+|-----------------------|------------------------------------|-------------------------------------|
+| **Janeiro**           | **Hot-fix Planejada**              | **\<series\>.x.1.1**                |
+| **Fevereiro**         | **Minor Release**                  | **\<series\>.x.2.0**                |
+| **Março**             | **Hot-fix Planejada**              | **\<series\>.x.2.1**                |
+| **Abril**             | **New Series ou Major Release**    | **SERIE.0.0.0/ \<series\>.X.0.0**   |
+| **Maio**              | **Hot-fix Planejada**              | **\<series\>.x.0.Y**                |
+| **Junho**             | **Minor Release**                  | **\<series\>.x.1.0**                |
+| **Julho**             | **Hot-fix Planejada**              | **\<series\>.x.1.Y**                |
+| **Agosto**            | **Minor Release**                  | **\<series\>.x.2.0**                |
+| **Setembro**          | **Hot-fix Planejada**              | **\<series\>.x.2.Y**                |
+| **Outubro**           | **New Series ou Major Release**    | **SERIE.0.0.0/ \<series\>.X.0.0**   |
+| **Novembero**         | **Hot-fix Planejada**              | **\<series\>.x.0.Y**                |
+| **Dezembro**          | **Minor Release**                  | **\<series\>.x.1.0**                |
 
-(\*) The timing and frequency of releases is subject to change at the sole
-discretion of CITSmart. In the case of changes in this schedule, clients shall
-be notified in advance.
+(\*) O tempo e a frequência dos lançamentos estão sujeitos a alterações, a critério
+exclusivo do CITSmart. No caso de alterações deste cronograma, os clientes deverão
+ser previamente notificados.
 
-## Supported Versions
+## Versões Suportadas
 
-Our current policy is to support the most recent Release Series. The immediately
-previous Release Series will be supported up to 6 months after the release of
-the new series.
+Nossa política atual é oferecer suporte a Série mais recente. A série anterior
+será suportada até 6 meses após o lançamento da nova série.
 
-CITSmart generally makes two majors release per year, the client will need to
-upgrade approximately once per year to stay on a supported version. CITSmart
-provides Updates (e.g.: patches and hotfixes) only for supported version..
+A CITSmart geralmente realiza dois grandes lançamentos por ano, sendo assim, o
+cliente precisará atualizar, aproximadamente, uma vez por ano para se permanecer
+em uma versão suportada. A CITSmart fornece atualizações (por exemplo: correções e
+hotfixes) somente para a versão suportada.
 
-## Additional Update Information
+## Informações Adicionais Sobre Atualização
 
 
-Update Procedures depends on the purchased solution model (SaaS or On-Premise),
-to each one of them, follow the recommendations below:
+Os Procedimentos de Atualização dependem do modelo da solução adquirida
+(SaaS ou On-Premise), para cada uma delas, siga as recomendações abaixo:
 
-**SaaS Clients**
+**Clientes SaaS**
 
-Clients can schedule software updates at their convenience, submitting a new
-service request via our support website (itsm.citsmart.com). In this request,
-clients define schedule to update, version and environment type (non-production
-or production). Outage times are defined to minimize disruption to clients
-business. The CITSmart Support team makes all update process.
+Os clientes podem agendar atualizações de software quando necessário, enviando
+uma nova solicitação de serviço por meio de nosso site de suporte. Nessa solicitação,
+o cliente informa a data desejada para atualização, versão desejada e tipo de ambiente
+não produção ou produção). Os tempos de interrupção são definidos para minimizar a
+interrupção dos negócios do cliente. Todo o processo de atualização é feito pelo time 
+de suporte da CITSmart
 
-**On-Premise Clients**
+**Clientes On-Premise**
 
-In this case, the clients are responsible to update the software. We recommend
-that clients test the functionality and customizations in non-production
-environment before upgrade the production environment. Guidelines about how to
-update or use new features will be available in the Release Notes.
+Nesse caso, os clientes são responsáveis pela atualização de software. Recomendamos
+que os clientes testem funcionalidades e customizações no ambiente de não produção
+antes de realizar a atualização no ambiente de produção. Orientações sobre como
+atualizar ou usar novos recursos estarão disponíveis nas Notas da Versão.
 
-If you have any questions regarding update procedures, please submit a new
-service request via our support website.
+Se você tiver alguma dúvida sobre os procedimentos de atualização, envie-nos
+uma solicitação de serviço, por meio do nosso site de suporte.
