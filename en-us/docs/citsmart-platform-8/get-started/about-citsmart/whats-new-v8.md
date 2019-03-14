@@ -1,135 +1,135 @@
-Title: O que há de novo no CITSmart 8.0?
-Description: Descreve O que há de novo no CITSmart 8.0
+Title: What's new in CITSmart 8.0?
+Description: It describes what is new in CITSmart 8.0
 
-O que há de novo no CITSmart 8.0?
+What's new in CITSmart 8.0?
 =================================
 
-Uso da Logomarca e Login
+Logo and Login Usage
 ------------------------
 
-O uso da imagem CITSmart foi otimizada para melhorar o uso de dados, bem como a aplicação dentro da solução, tornando mais simples, leve e adequada para os novos direcionamentos do produto.
+The use of the CITSmart image has been optimized to improve data usage, as well as the application within the solution, making it simpler, lightweight and suitable for new product directions.
 
-![Novo acesso do CITSmart](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+![CITSmart new access](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
 
-Centro de Experiência
+Experience Center
 ---------------------
 
-Através do Centro de Experiência é possível construir portais de relacionamento com identidade visual própria para clientes, fornecedores e colaboradores, promovendo visibilidade e colaboração.
+Through the Experience Center, it's possible to build relationship portals with their own visual identity for customers, providers and employees, promoting visibility and collaboration.
 
-![Centros de Experiência](images/b3f8b1578f498d74c13b9e3797ce265a.png)
+![Experience Center](images/b3f8b1578f498d74c13b9e3797ce265a.png)
 
-Cada Centro de Experiência possui páginas dinâmicas com a opção de widgets de:
+Each Experiment Center has dynamic pages with the following options of widgets:
 
-*   Portfólios
-*   Requisições
-*   Aprovações
-*   Centro de Conhecimento
-*   Aplicações Neuro
+*   Portfolios
+*   Requests
+*   Approvals
+*   Knowledge Center
+*   Neuro Applications
 *   Workspaces
-*   Notícias
-*   Notificações
-*   Pesquisas
+*   News
+*   Notifications
+*   Searches
 *   Youtube
-*   Imagens
+*   Images
 *   Menu
-*   Lista
-*   Texto
+*   List
+*   Text
 *   Chat
 *   Voip
-*   Entre outros
+*   Others
 
-Centros de Experiência poderão ser criados de acordo com perfis de acesso e necessidades das áreas de negócio.
+Experience Centers can be created according to the access profiles and needs of the business areas.
 
-![Criação de CE](images/image001.png)
+![EC Creation](images/image001.png)
 
-![Visualização de um CE](images/db062d281d82abfa78db1df0faecd0bf.png)
+![EC Visualization](images/db062d281d82abfa78db1df0faecd0bf.png)
 
-### Widget de Portfólio
+### Portfolio Widget
 
-É utilizado no Centro de Experiência para listar os Portfólios com seus Serviços e Requisições, podendo substituir o uso do portal de serviços.
+It's used in the Experience Center to list the Portfolios, with their Services and Request, being able to replace the use of the services portal.
 
-![Portfólios do usuário logado](images/2b7bd70982826c5495cd89a5dfb80bad.png)
+![Logged User Portfolios](images/2b7bd70982826c5495cd89a5dfb80bad.png)
 
-### Widget Minhas Requisições
+### My Requests Widget
 
-Lista os tickets do usuário logado **(a.)**, disponibiliza um histórico do atendimento com linha do tempo **(b.)** e permite ao solicitante adicionar notas e comentários **(c.)**, notificar o atendente por e-mail ou também é possível utilizar o **bate papo** com o atendente **(d.)**.
+Lists the tickets of the user logged **(a.)**, provides a history of attendance with a timeline **(b.)** and allows the requester to add notes and comments **(c.)**, notify the attendant by email or, it's also possible to use chat with the attendant **(d.)**.
 
-![a-Tickets do usuário logado](images/f8f7645a6a8aeae523e7f3f6d2137be7.png)
+![a-Logged user tickets](images/f8f7645a6a8aeae523e7f3f6d2137be7.png)
 
-![b-Linha do Tempo do Ticket](images/220a052a9327a9e9449c2a944197c0fb.png)
+![b-Ticket timeline](images/220a052a9327a9e9449c2a944197c0fb.png)
 
-![c-Notas para o Atendente](images/8932518c8dc4682676b26be17ca8790f.png)
+![c-Attendant notes](images/8932518c8dc4682676b26be17ca8790f.png)
 
-![d-Chat com o Atendente](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
+![d-Chat with attendant](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
 
-Saiba mais **XXXXXXX (colocar link do CE)**
+For further information **XXXXXXX (colocar link do CE)**
 
-### Widget Minhas Aprovações
+### My Approvals Widget
 
-Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone aprovar **(a.)**, é possível visualizar os detalhes do ticket e aprovar ou não **(b.)**.
+Approving a ticket by CITSmart is simpler, just click on the approve icon **(a.)**, you can view the ticket details and approve it or not **(b.)**.
  
-![a-Aprovar uma tarefa](images/e9319f0fc18517cbd276c36493165f1f.png)
+![a-Approve task](images/e9319f0fc18517cbd276c36493165f1f.png)
 
-![b-Visualização do Ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
+![b-View Ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
 
 Menus
 ----
 
-Internamente os menus sofreram reorganização e agora estão dispostos à esquerda, com possibilidade de consulta e ocultação, melhorando o espaço de trabalho na plataforma.
+Internally, the menus have been reorganized and now they're arranged on the left side, with the possibility of consultation and concealment, improving the workspace in the platform.
 
-![Menu de Opções do CITSmart](images/1001e25892abe90fac65435e1046ce70.png)
+![CITSmart Options Menu](images/1001e25892abe90fac65435e1046ce70.png)
 
 Smart Decisions
 ---------------
 
-Permite manter e visualizar áreas de trabalho por usuário com :
+It allows to maintain and view workareas by users with:
 
-* Widgets de dashboards
-* Relatórios nativos e
-* Relatórios construídos na plataforma. 
+* Dashboards widgets
+* Native Reports and
+* Reports built in the platform. 
 
-**Cada usuário pode configurar sua própria área com uma ou mais abas.**
+**Each user can configure their own area with one or more tabs.**
 
 ![](images/5713bcb2ea7cd2b39c8c2eeb26e082c8.png)
 
-Acesso Rápido
+Quick Access
 -------------
 
-Novos ícones e área de acesso rápido aos processos e portais foram disponibilizados no área superior da plataforma de forma a tornar mais simples e prático o acesso às funcionalidades do CITSmart. 
+It's available new icons and quick access area to the processes and portals in the upper area of the platform, in order to make it easier and more practical to access the CITSmart functionalities. 
 
-![Acesso Rápido](images/872ec514a50a5df0fc1c52dbe939726a.png)
+![Quick Access](images/872ec514a50a5df0fc1c52dbe939726a.png)
 
-Gestão de Tickets
+Ticket Management
 -----------------
 
-Seu novo layout apresenta informações de forma mais estruturada em um menu lateral com opção de ocultar, uma melhoria significativa de performance e experiência do usuário **(a.)** . Na criação de tickets há uma nova busca multinível que permite pesquisar por portfólios, serviços e atividade de forma visual e rápida (não é  mais disponibilizado filtro por categoria) **(b.)**, É possível acompanhar graficamente a execução do fluxo **(c.)**. O atendente pode enviar mensagem ao solicitante e notificá-lo por e-mail **(d.)**.
+Its new layout presents information in a more structured way, in a side menu with the option to hide, a significant improvement of performance and user experience **(a.)**. In the creation of tickets, there is a new multilevel search that allows to search for portfolios, services and activity in a visual and fast way (it's no longer available to filter by category) **(b.)**, it's possible to follow graphically the execution of the flow **(c.)**. The attendant can send a message to the requesters and notify them by email **(d.)**.
 
-![a-Atendimento do ticket](images/bb667d3d68742a2fa5e32118034b5043.png)
+![a-Ticket attendance](images/bb667d3d68742a2fa5e32118034b5043.png)
 
-![b-Seleção de portfólio](images/cc35b86d242b00d9cd5889f8bc00e9de.png)
+![b-Portfolio selection](images/cc35b86d242b00d9cd5889f8bc00e9de.png)
 
-![c-Fluxo do atendimento](images/627e79b1f81043ca8ce213488105218b.png)
+![c-Attendance flow](images/627e79b1f81043ca8ce213488105218b.png)
 
-![d-Mensagem ao Solicitante](images/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
+![d-Message to the Requester](images/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
 
-O registro de ocorrências foi substituído por um registro de notas e comentários com a possibilidade de notificar o solicitante por e-mail, lançar horas de atendimento e controlar a visualização dos registros **(a.)**, e toda a execução do fluxo e registros do atendimento como a captura, delegação, suspensão, SLA etc são exibidos em um histórico no formato de linha do tempo. As mensagens com o solicitante também são guardadas aqui **(b.)**.
+The registration of events was replaced by the registration of notes and comments, with the possibility of notifying the requester by email, launching service hours and controlling the display of the registers **(a.)**, and the entire execution of the flow and attendance registries, for example, capturing, delegating, suspending, SLA and others are displayed in a history in the timeline format. Messages with the requester are also stored here **(b.)**.
 
-![a-Notas e comentários](images/6573c4b0693d0895d348925f064471ab.png)
+![a-Notes and comments](images/6573c4b0693d0895d348925f064471ab.png)
 
-![b-Histórico de Ticket](images/aeec7370d6911b8d6752dea07110160d.png)
+![b-Ticket History](images/aeec7370d6911b8d6752dea07110160d.png)
 
-Agora, assim que uma nova Solução de Contorno é criada, automaticamente é disparada uma notificação para o responsável pelo Incidente **(a.)** e é possível visualizar a solução de contorno e copiar o conteúdo para o fechamento do incidente, preenchendo a causa e solução resposta **(b.) (c.)**.
+Now, as soon as a new Workaround is created, a notification is automatically triggered for the Incident responsible **(a.)** and you can view the workaround and copy the contents to the incident closure, completing the cause and answer solution answer **(b.) (c.)**.
 
-![a-Notificação de solução de contorno](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
+![a-Workaround notification](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
 
-![b-Solução de contorno](images/497f2cd45381eecb91a61e7ce5293534.png)
+![b-Workaround](images/497f2cd45381eecb91a61e7ce5293534.png)
 
-![c-Detalhamento da Solução de Contorno](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
+![c-Workaround Details](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
 
-Simple - Gestão Ágil
+Simple - Agile Management
 --------------------
 
-O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
+Simple, which brought the power of agile management for CITSmart platform, developed to help teams to be more collaborative and participatory, increasing productivity and giving more autonomy and visibility to members of a simple and practical way **(a.)**. Each team can have one or more workspace **(b.)** and create sprints with kanbans and phases, according to each need **(c.)**.
 
 ![a-Simple](images/062f363d6c32e90c8b47eb3ff152b3b6.png)
 
@@ -138,37 +138,37 @@ O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenv
 ![c-Simple-Kanbans](images/bf1799ff10f7a0ffd777796cb6942783.png)
 
 
-Cada tarefa pode ter um ou mais membro. É possível adicionar:
+Each task can have one or more members. You can add:
 
 *   Checklists
-*   Comentários
-*   Estimativa
-*   Horas trabalhadas
+*   Comments
+*   Estimation
+*   Worked hours
 *   Tags
-*   Arquivos
-*   Ativar notificações etc.
+*   Files
+*   Enable notifications, others.
 
-![Detalhamento da Tarefa](images/567ad02f39ebfa223c1670d3f51225bd.png)
+![Task Detail](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-Saiba mais...  **XXXXXXX (colocar link do SIMPLE)**
+For further information...  **XXXXXXX (colocar link do SIMPLE)**
 
-Gerenciamento de Problemas
+Problem Management
 --------------------------
 
-O Gerenciamento de Problemas foi redesenhado para dar mais agilidade, facilidade e praticidade ao trabalho das equipes. Com um novo painel de listagem e acompanhamento é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro de problemas, acessar lista de relatórios dinâmicos etc.
+Problem Management has been redesigned to give more agility, ease and practicality to the team work. With a new listing panel and tracking, it's possible to change the columns displayed, enable automatic updating, view flow progress, search problem registration, access list of dynamic reports and others.
 
-![Gerenciamento de problemas](images/2b3616dc46702da0d7db949534b570e5.png)
+![Problem management](images/2b3616dc46702da0d7db949534b570e5.png)
 
-Para facilitar a tratativa do problema, uma sequência de passos foi estruturada em um menu lateral. 
+To facilitate the treatment of the problem, a sequence of steps was structured in a lateral menu. 
 
-*   Informações do Solicitante
-*   Incidentes relacionados ao problema
-*   Problema
-*   Diagnóstico
-*   Solução
-*   Revisão e Fechamento
+*   Requester information
+*   Incidents related to the problem
+*   Problem
+*   Diagnosis
+*   Solution
+*   Review and Closure
 
-![Detalhamento do Problema](images/df5b817ae22b8cbec1532249518fa06a.png)
+![Problem Detail](images/df5b817ae22b8cbec1532249518fa06a.png)
 
 Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes que geraram o problema **(a.)**. O registro de problema passou a utilizar o conceito de portfólio de templates **(b.)**, os templates são pré-cadastrados com fluxo de atendimento, grupo responsável, status etc, tornando mais prática a criação, classificação e atendimento dos problemas **(c.)**.
 
