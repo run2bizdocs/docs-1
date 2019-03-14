@@ -2,19 +2,50 @@ Title: O que é CITSmart?
 Description: Introdução ao produto CITSmart
 
 #O que é CITSmart ?
+O CITSmart, desenvolvido pela CITSmart Corporation®, é uma plataforma que
+conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
+resultados do negócio.
+
+Através dos portais de relacionamento otimizamos a experiência de clientes e
+colaboradores e por meio do Workflow Digital Inteligente e gestão ágil, com uso
+de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
+gerando assim, melhoria progressiva e interativa, simplicidade na execução,
+praticidade, alinhamento e agilidade.
+
+Quais as possibilidades de uso?
+-------------------------------
+
+Há cases de gestão de serviços com processos automatizados em diversas áreas como:
+-   Educação
+-   Compras
+-   Viagem
+-   Recursos humanos como a solicitação de pessoal, treinamento, etc.
+-   Departamento pessoal como a solicitação de benefícios, férias, folha de pagamento, esclarecimentos, etc.
+-   Jurídico como elaboração e análise de contratos, apoio, etc.
+-   Atendimento em campo como a troca de equipamentos, execução de reparos e manutenção etc.
+-   Comunicação, Marketing entre outros.
+
+Além desses, seguindo as melhores práticas de gestão de serviços, com base na
+biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
+processos automatizados, sendo eles:
+-   Gerenciamento de Portfólio
+-   Catálogo de Serviços
+-   Gerenciamento de Nível de Serviço
+-   Gerenciamento de Requisição
+-   Gerenciamento de Conhecimento
+-   Gerenciamento de Incidentes
+-   Gerenciamento de Problema
+-   Gerenciamento de Configuração e Ativos
+-   Gerenciamento de Mudança
+-   Gerenciamento de Liberação e Implantação
+-   Gerenciamento de Evento
+-   Gerenciamento de Disponibilidade
+-   Gerenciamento de Continuidade
 
 História do CITSmart
 --------------------
 
-O CITSmart é um produto que teve sua construção inicial para atender as
-necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o
-cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant,
-através da certificação PinkVerify. Atualmente, o CITSmart atende 13 processos
-dos 16 possíveis. As principais funcionalidades são Gerenciamento de Ticket
-(incidentes e solicitações), Carteira de Serviços e Catálogo, Base de
-Conhecimento, SLA, Mudanças e CMDB. O público-alvo atual do CITSmart são
-empresas que possuem departamentos de TI, bem como a necessidade de soluções de
-ITSM para gerenciar suas TIs.
+O CITSmart é um produto que teve sua construção inicial para atender as necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant, através da certificação PinkVerify. Atualmente, o CITSmart atende 13 processos dos 16 possíveis. 
 
 Evolução
 ------------
