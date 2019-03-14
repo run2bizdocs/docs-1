@@ -74,6 +74,11 @@ Figure 2 - Banco de dados
     6.  Selecione **Obrigatório** se a coluna for obrigatória;
 
     7.  Clicar em “Salvar”.
+    
+!!! Abstract "NOTA"
+
+    Após o "Salvar", você poderá informar a chave do domínio e digitar e atribuir o relacionamento, se necessário.
+    
 
 ![business](images/neuro-11.jpg)
 
@@ -84,7 +89,7 @@ Figura 3 - Lista de colunas
 Figura 4 - Adicionar novas colunas
 
 
-!!! Abstract "NOTA"
+!!! Abstract "ATENÇÃO"
 
     Em cada mudança de banco de dados ou no momento da criação do objeto de negócio, você deve executar o DDL correspondente para           executar a criação/mudança no Banco de Dados.
     
