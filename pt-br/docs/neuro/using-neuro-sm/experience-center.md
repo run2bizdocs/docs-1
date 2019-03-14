@@ -8,23 +8,23 @@ Centro de Experiência
 
 2.  Marcar seu formulário para **Exibir Como Widget SM**;
 
-![basic](images/neuro-sm-5.jpg)
+    ![basic](images/neuro-sm-5.jpg)
 
-Figura 1 - Dados básicos
+    Figura 1 - Dados básicos
 
 3.  Vincular o formulário a um Centro de Experiência.
 
-* Selecionar formulário
+4.  Selecionar formulário
 
-![basic](images/neuro-sm-6.png)
+    ![basic](images/neuro-sm-6.png)
 
-Figura 2 - Formulário
+    Figura 2 - Formulário
 
-![basic](images/neuro-sm-7.png)
+    ![basic](images/neuro-sm-7.png)
 
-Figura 3 - Formulário (continuação)
+    Figura 3 - Formulário (continuação)
 
-* Usando o Centro de Experiência para Inserir Dados:
+5.  Usando o Centro de Experiência para Inserir Dados:
 
 ![basic](images/neuro-sm-8.png)
 
