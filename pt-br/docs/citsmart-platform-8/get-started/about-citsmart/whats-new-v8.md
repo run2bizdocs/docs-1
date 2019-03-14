@@ -253,12 +253,12 @@ O CITSmart evoluiu o Gerenciamento de Mudanças para dar mais agilidade, seguran
 
 Para facilitar o atendimento, a seguinte sequência de passos foi estruturada no menu lateral:
 
--   Informações do solicitante
--   Informações da requisição de mudança
--   Planejamento da mudança
--   Plano de reversão
--   Revisão e fechamento
--   ICs relacionados
+*   Informações do solicitante
+*   Informações da requisição de mudança
+*   Planejamento da mudança
+*   Plano de reversão
+*   Revisão e fechamento
+*   ICs relacionados
 
 ![](media/6fd68d3e593c52c8b655cb4ec65def7c.png)
 
