@@ -1,7 +1,6 @@
 Title: O que é CITSmart?
 Description: Introdução ao produto CITSmart
 
-# O que é CITSmart ?
 ## O que é CITSmart ?
 
 O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
