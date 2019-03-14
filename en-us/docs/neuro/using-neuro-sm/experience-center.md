@@ -8,23 +8,23 @@ Experience Centers
 
 2.  Mark your form to be **Show as SM Widget**;
 
-![basic](images/neuro-sm-6.jpg)
+    ![basic](images/neuro-sm-6.jpg)
 
-Figure 1 - Basic data
+    Figure 1 - Basic data
 
 3.  Link the form to an Experience Center.
 
-* Selecting a Form
+4.  Selecting a Form
 
-![basic](images/neuro-sm-7.png)
+    ![basic](images/neuro-sm-7.png)
 
-Figure 2 - Form
+    Figure 2 - Form
 
-![basic](images/neuro-sm-8.png)
+    ![basic](images/neuro-sm-8.png)
 
-Figure 3 - Form (continuation)
+    Figure 3 - Form (continuation)
 
-* Using the Experience center to Enter Data:
+5.  Using the Experience center to Enter Data:
 
 ![basic](images/neuro-sm-9.png)
 
