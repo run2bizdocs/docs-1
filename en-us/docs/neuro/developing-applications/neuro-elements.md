@@ -12,4 +12,4 @@ In a simple way we can define the interaction between elements as:
 
 3. Forms will connect with SM Flows and ESI Flow, interfacing with systems and databases
 
-[1]:/neuro-elements.png
+[1]:images/neuro-elements.png
