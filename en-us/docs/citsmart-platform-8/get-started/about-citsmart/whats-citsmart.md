@@ -13,7 +13,7 @@ management, using Kanbans, we connect teams to a greater customer-centric
 collaboration, generating progressive and interactive improvement, simplicity 
 in execution, practicality, alignment and agility.
 
-what are the possibilities of usage?
+What are the possibilities of usage?
 -------------------------------
 
 There are cases of service management with automated processes in several areas, 
