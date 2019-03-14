@@ -52,7 +52,7 @@ Centros de Experiência poderão ser criados de acordo com perfis de acesso e ne
 
 ### Widget Minhas Requisições
 
-Lista os tickets do usuário logado(a), disponibiliza um histórico do atendimento com linha do tempo(b) e permite ao solicitante adicionar notas e comentários(c), notificar o atendente por e-mail ou também é possível utilizar o **bate papo** com o atendente(d).
+Lista os tickets do usuário logado **(a)**, disponibiliza um histórico do atendimento com linha do tempo **(b)** e permite ao solicitante adicionar notas e comentários **(c)**, notificar o atendente por e-mail ou também é possível utilizar o **bate papo** com o atendente **(d)**.
 
 ![a-Tickets do usuário logado](media/f8f7645a6a8aeae523e7f3f6d2137be7.png)
 
@@ -66,11 +66,11 @@ Saiba mais **XXXXXXX (colocar link do CE)**
 
 ### Widget Minhas Aprovações
 
-Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone aprovar(a), é possível visualizar os detalhes do ticket e aprovar ou não(b).
+Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone aprovar **(a)**, é possível visualizar os detalhes do ticket e aprovar ou não **(b)**.
  
 ![a-Aprovar uma tarefa](media/e9319f0fc18517cbd276c36493165f1f.png)
 
-![b-](media/fcfe60906f6eb574f1b79d3748ee1b07.png)
+![b-Visualização do Ticket](media/fcfe60906f6eb574f1b79d3748ee1b07.png)
 
 Menus
 ----
@@ -102,7 +102,7 @@ Novos ícones e área de acesso rápido aos processos e portais foram disponibil
 Gestão de Tickets
 -----------------
 
-Seu novo layout apresenta informações de forma mais estruturada em um menu lateral com opção de ocultar, uma melhoria significativa de performance e experiência do usuário(a). Na criação de tickets há uma nova busca multinível que permite pesquisar por portfólios, serviços e atividade de forma visual e rápida (não é  mais disponibilizado filtro por categoria)(b), É possível acompanhar graficamente a execução do fluxo(c). O atendente pode enviar mensagem ao solicitante e notificá-lo por e-mail(d).
+Seu novo layout apresenta informações de forma mais estruturada em um menu lateral com opção de ocultar, uma melhoria significativa de performance e experiência do usuário **(a)** . Na criação de tickets há uma nova busca multinível que permite pesquisar por portfólios, serviços e atividade de forma visual e rápida (não é  mais disponibilizado filtro por categoria) **(b)**, É possível acompanhar graficamente a execução do fluxo **(c)**. O atendente pode enviar mensagem ao solicitante e notificá-lo por e-mail **(d)**.
 
 ![a-Atendimento do ticket](media/bb667d3d68742a2fa5e32118034b5043.png)
 
@@ -112,13 +112,13 @@ Seu novo layout apresenta informações de forma mais estruturada em um menu lat
 
 ![d-Mensagem ao Solicitante](media/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
 
-O registro de ocorrências foi substituído por um registro de notas e comentários com a possibilidade de notificar o solicitante por e-mail, lançar horas de atendimento e controlar a visualização dos registros(e), e toda a execução do fluxo e registros do atendimento como a captura, delegação, suspensão, SLA etc são exibidos em um histórico no formato de linha do tempo. As mensagens com o solicitante também são guardadas aqui(f).
+O registro de ocorrências foi substituído por um registro de notas e comentários com a possibilidade de notificar o solicitante por e-mail, lançar horas de atendimento e controlar a visualização dos registros **(e)**, e toda a execução do fluxo e registros do atendimento como a captura, delegação, suspensão, SLA etc são exibidos em um histórico no formato de linha do tempo. As mensagens com o solicitante também são guardadas aqui **(f)**.
 
 ![e-Notas e comentários](media/6573c4b0693d0895d348925f064471ab.png)
 
 ![f-Histórico de Ticket](media/aeec7370d6911b8d6752dea07110160d.png)
 
-Agora, assim que uma nova Solução de Contorno é criada, automaticamente é disparada uma notificação para o responsável pelo Incidente(h) e é possível visualizar a solução de contorno e copiar o conteúdo para o fechamento do incidente, preenchendo a causa e solução resposta(i)(j).
+Agora, assim que uma nova Solução de Contorno é criada, automaticamente é disparada uma notificação para o responsável pelo Incidente **(h)** e é possível visualizar a solução de contorno e copiar o conteúdo para o fechamento do incidente, preenchendo a causa e solução resposta **(i)(j)**.
 
 ![h-Notificação de solução de contorno](media/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
 
@@ -129,7 +129,7 @@ Agora, assim que uma nova Solução de Contorno é criada, automaticamente é di
 Simple - Gestão Ágil
 --------------------
 
-O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática(a). Cada time pode ter um ou mais workspace(b) e criar sprints com kanbans e fases, de acordo com cada necessidade(c).
+O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a)**. Cada time pode ter um ou mais workspace **(b)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
 
 ![a-Simple](media/062f363d6c32e90c8b47eb3ff152b3b6.png)
 
@@ -170,44 +170,36 @@ Para facilitar a tratativa do problema, uma sequência de passos foi estruturada
 
 ![Detalhamento do Problema](media/df5b817ae22b8cbec1532249518fa06a.png)
 
-Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes que geraram o problema(a). O registro de problema passou a utilizar o conceito de portfólio de templates(b), os templates são pré-cadastrados com fluxo de atendimento, grupo responsável,
-status etc, tornando mais prática a criação, classificação e atendimento dos problemas(c).
+Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes que geraram o problema **(a)**. O registro de problema passou a utilizar o conceito de portfólio de templates **(b)**, os templates são pré-cadastrados com fluxo de atendimento, grupo responsável, status etc, tornando mais prática a criação, classificação e atendimento dos problemas **(c)**.
 
-![](media/4977321406008c911b7444314ac0adfd.png)
+![a-Incidentes de um problema](media/4977321406008c911b7444314ac0adfd.png)
 
-![](media/e152a1d12831448bc0d9f48ffa66286b.png)
+![b-Registro de problema](media/e152a1d12831448bc0d9f48ffa66286b.png)
 
-![](media/a7a6fce9a4d15ccfba902b7336f28625.png)
+![c-Templates de problema](media/a7a6fce9a4d15ccfba902b7336f28625.png)
 
-Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e a Lista de seus ICs.
+Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e a Lista de seus ICs.**(a)**, Basta dois clicks no IC para visualizar os detalhes **(b)** e a partir da lista de ICs é possível vincular os que estão relacionados ao problema **(c)**.
 
-![](media/9127dbc4c5b76c7d2590f34ffe39910e.png)
+![a-Lista de IC´s](media/9127dbc4c5b76c7d2590f34ffe39910e.png)
 
-Basta dois clicks no IC para visualizar os detalhes.
+![b-Detalhamento do IC](media/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
 
-![](media/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
+![c-Vínculo de IC´s](media/0e21053d9b0622ca3a6c85408fb8b198.png)
 
-À partir da lista de ICs é possível vincular os que estão relacionados ao problema.
+Uma nova área de diagnóstico foi criada e permite que através do Simple, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência **(a)**, O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é registrada **(b)**.
 
-![](media/0e21053d9b0622ca3a6c85408fb8b198.png)
+![a-Diagnóstico do problema](media/e2d50a9ba88ef6bae994d140c60f1ee8.png)
 
-Uma nova área de diagnóstico foi criada e permite que através do Simple, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência.
+![b-Registro de solução de contorno e causa raiz](media/ab12ab8681a2cb4f83dc5fe0c634997c.png)
 
-![](media/e2d50a9ba88ef6bae994d140c60f1ee8.png)
+Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b)**.
 
-O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é publicada.
 
-![](media/ab12ab8681a2cb4f83dc5fe0c634997c.png)
+![a-Registro de solução](media/eb1061a11eee5d9119bb12ab37080266.png)
 
-Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados.
+![b-Revisão e fechamento](media/d1376fef59089e5eb76c3aebfbefa180.png)
 
-![](media/eb1061a11eee5d9119bb12ab37080266.png)
-
-A guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes.
-
-![](media/d1376fef59089e5eb76c3aebfbefa180.png)
-
-Saiba mais...
+Saiba mais... **XXXXXXX (colocar link do problema)**.
 
 Gerenciamento de Configuração e Ativos
 --------------------------------------
