@@ -2,6 +2,7 @@ Title: O que é CITSmart?
 Description: Introdução ao produto CITSmart
 
 #O que é CITSmart ?
+
 O CITSmart, desenvolvido pela CITSmart Corporation®, é uma plataforma que
 conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
 resultados do negócio.
