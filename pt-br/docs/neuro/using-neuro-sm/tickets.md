@@ -1,6 +1,6 @@
-title: Tickets
-Description: Tickets
-#Tickets
+title: Usando aplicativos Neuro em Tickets
+Description: Usando aplicativos Neuro em Tickets
+# Usando aplicativos Neuro em Tickets
 
 Existem duas formas de interface Neuro com um Ticket:
 
