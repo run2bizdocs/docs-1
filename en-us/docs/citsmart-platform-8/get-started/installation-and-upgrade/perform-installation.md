@@ -60,10 +60,15 @@ Title: Perform installation
     ```sh
     vim /opt/wildfly/.bash_profile
     ```
-
+    ```sh
     export JAVA_HOME="/opt/jdk"
+    ```
+    ```sh
     export JBOSS_HOME="/opt/wildfly"
+    ```
+    ```sh
     export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
+    ```
 
 5. Make a test to validate if the Wildfly is starting correctly till this point. For that, execute the commands below:
 
@@ -74,11 +79,11 @@ Title: Perform installation
     ```sh
     java -version
     ```
-
+    ```html
     java version "1.8.0_172"
     Java(TM) SE Runtime Environment (build 1.8.0_172-b11)
     Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode)
-
+    ```
     ```sh
     bin/standalone.sh
     ```
@@ -329,6 +334,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 ## Create citsmart.cfg file
 
 1. In the citsmart.cfg file, the default value is TRUE, that is, if this option does not exist in the file the system will take the value TRUE for this property. Set to TRUE it activates the Thread that updates the fact table of service requests at system startup. Set to FALSE the update will happen only after the inclusion or change of the service request;
+
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
 
 ```java
@@ -355,7 +361,7 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 
 **For GED:**
 
-	mkdir -p /opt/citsmart/ged
+    mkdir -p /opt/citsmart/ged
 	
 **For Knowledge Base:**
 
@@ -471,7 +477,7 @@ You can create daemons as standard of your company or create solutions in the te
 
     First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
 
-3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart Enterprise.
+3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart.
 
 ## CITSmart Neuro Deployment
 
