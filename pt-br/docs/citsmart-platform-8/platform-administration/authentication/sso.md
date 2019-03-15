@@ -77,10 +77,6 @@ Configurar o servidor Wildfly
     a pasta standalone/configuration (wildfly):
     
     ```java
-    <>
-    ```
-
-    ``` sh
     [libdefaults]
         default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
         default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
