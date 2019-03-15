@@ -135,7 +135,7 @@ diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
     ```
 
 
-###Configuração do System Properties
+### Configuração do System Properties
 
 No bash do CLI executar os comandos abaixo para criação das propriedades do
 CITSmart.
@@ -159,7 +159,7 @@ CITSmart.
 /system-property=citsmart.port.updateparameters:add(value="9000")
 ```
 
-###Configuração dos Datasources
+### Configuração dos Datasources
 
 Antes de criar os datasources, deve-se adicionar ao Wildfly o modulo JDBC do
 PostgreSQL. Para isso, sair do modo jboss-cli e executar os comandos abaixo.
