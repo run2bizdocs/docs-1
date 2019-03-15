@@ -1,6 +1,6 @@
-title: Centro de Experiência
-Description: Centro de Experiência
-#Centro de Experiência
+title: Usar aplicativos Neuro no Centro de Experiência
+Description: Usar aplicativos Neuro no Centro de Experiência
+# Usar aplicativos Neuro no Centro de Experiência
 
 Centro de Experiência
 

@@ -1,6 +1,6 @@
-title: Memu SM 
-Description: Memu SM 
-# Menu SM 
+title: Criar item de menu via Neuro
+Description: Criar item de menu via Neuro
+# Criar item de menu via Neuro
 
 
 1.  Criar um formulário para o objeto de negócio;
