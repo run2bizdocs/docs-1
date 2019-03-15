@@ -12,3 +12,9 @@ A autenticação é a forma mais comum de acesso à plataforma e está voltada a
 
 - **Sing Single On - SSO**
 Esta é uma alternativa para fazer logon automático na plataforma. Contudo é necessário ter uma infraestrutura orientada a este serviço.
+
+## Relacionados
+
+[Cadastrar conexões LDAP][1]
+
+[1]:citsmart-platform-8/platform-administration/authentication/ldap.md
