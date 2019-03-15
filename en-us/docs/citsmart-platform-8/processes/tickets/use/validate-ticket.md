@@ -19,10 +19,22 @@ Procedure
 
 3.  Certify the ticket attendance was done according to the demand;
 
-4.  In the field **Execution Registration**, describe if the information about
-    the activity execution;
+4.  In the "Closing" tab choose the situation for the "Solved" option, fill in the data to close the ticket;
 
-5.  Click on the option button and then on "Save".
+    !!! Abstract"NOTE"
+
+        In order for the "Write Solution/Knowledge  in the Knowledge Base" checkbox to be visible, check the Parameterization of the             Knowledge Management process.
+        
+    !!! Abstract"ATTENTION"
+    
+        The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is           also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
+    
+
+5.  Click on the "Option" button and definy the next step:
+
+    -  "Save and keep the current task";
+    
+    -  "Svae and foward flow".
 
 Related
 -----------
