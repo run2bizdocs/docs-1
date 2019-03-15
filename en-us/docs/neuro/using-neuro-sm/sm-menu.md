@@ -1,6 +1,6 @@
-title: SM menu
-Description: SM menu
-# SM menu
+title: Create menu item via Neuro
+Description: Create menu item via Neuro
+# Create menu item via Neuro
 
 
 1.  Create a form for the business object;
