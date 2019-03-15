@@ -28,14 +28,14 @@ Procedimento
 
     !!! Abstract "NOTA"
 
-        Para que o checkbox Gravar Solução/Resposta na Base de Conhecimento esteja
+        Para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
         visível, verificar a parametrização do processo de Gestão do Conhecimento.
 
     !!! Abstract "ATENÇÃO"
 
         A solução da solicitação poderá ser sugestão de um novo conhecimento, sendo
         avaliado previamente para efetivação. É possível sugerir também um nome para
-        este novo conhecimento.
+        este novo conhecimento no canpo "Título Base de Conhecimento".
 
 1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
