@@ -26,15 +26,28 @@ Procedimento
 4.  Na guia “Fechamento” escolher a situação para a opção “Resolvida”, preencher
     os dados para encerrar o ticket;
 
-    !!! Abstract "NOTA"
+    - Se o tipo de solicitação dor "Incidente":
 
-        Para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
-        visível, verificar a parametrização do processo de Gestão do Conhecimento.
+        * Categoria de Solução: selecione a categoria de solução do incidente;
+     
+        * Detalhamento da Causa: descreva os detalhes da causa do incidente; 
+     
+        * Solução Resposta: descreva os detalhes da solução que foi realizada para atendimento do incidente; 
+     
+        * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
+          visível, verificar a parametrização do processo de Gestão do Conhecimento;
+     
+        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em                 questão; 
+     
+        * Solução Temporária: indique se a atividade realizada para atendimento do incidente foi uma solução temporária
 
+
+    - Se o tipo de solicitação for "Requisição", preencha o campo Solução Resposta, descreva o que foi realizado para atendimento da            requisição de serviço
+ 
     !!! Abstract "ATENÇÃO"
 
         Os passos de resolução do Ticket poderão ser sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É             possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
-
+ 
 1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
      -   “Gravar e manter a tarefa atual”;
