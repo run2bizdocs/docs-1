@@ -13,7 +13,7 @@ Para cadastrar um template de serviço é preciso cadastrar um questionário
 previamente.
 
 Procedimento
--------
+-----------
 
 1.  Acessar a funcionalidade de Template de Serviço através da navegação no
     menu principal Processos \> Gerência de Portfólio e Catálogo \> Template de
@@ -21,7 +21,23 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-3.  Clicar em "Gravar".
+3.  No campo  **Tipo de Template**, a cada opção escolhida (JSP, Questionário ou Neuro) os campos para preenchimento serão alterados:
+
+    ![figura1](images/template-1.jpg)
+
+    Figura 1 - Template JPS
+
+
+    ![figura1](images/template-2.jpg)
+
+    Figura 2 - Template Questionário
+
+
+    ![figura1](images/template-3.jpg)
+
+    Figura 3 - Template Neuro
+
+4.  Clicar em "Gravar".
 
 Relacionado
 -----------
