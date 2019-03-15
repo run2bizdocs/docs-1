@@ -75,7 +75,8 @@ Configurar o servidor Wildfly
 
 2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
     a pasta standalone/configuration (wildfly):
-
+    
+     ```sh
         [libdefaults]
 
               default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
@@ -97,7 +98,8 @@ Configurar o servidor Wildfly
         [domain_realm]
 
          .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
-
+    ```
+    
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
 
         custom-client {
