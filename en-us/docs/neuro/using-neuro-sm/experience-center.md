@@ -1,6 +1,6 @@
-title: Experience Centers
-Description: Experience Centers
-#Experience Centers
+title: Use Neuro functionalities in the Experience Center
+Description: Use Neuro functionalities in the Experience Center
+# Use Neuro functionalities in the Experience Center
 
 Experience Centers
 
