@@ -21,7 +21,21 @@ Procedimento
 
 2.  Completar los campos disponibles;
 
-3.  Hacer clic en "Guardar".
+3.  En el campo ** Tipo de plantilla**, a cada opción elegida (JSP, Cuestionario o Neuro) los campos para relleno se cambiarán
+
+    ![jsp](images/template-1.jpg)
+
+    Figura 1 - JSP plantilla
+
+    ![jsp](images/template-2.jpg)
+
+    Figura 2 - Cuestionario plantilla
+
+    ![jsp](images/template-1.jpg)
+
+    Figura 3 - Neuro plantilla
+
+4. Hacer clic en "Guardar".
 
 Relacionado
 -----------
