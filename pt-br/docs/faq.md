@@ -2,6 +2,8 @@ Title: Frequently Asked Questions - FAQ
 
 Perguntas Frequentes - FAQ
 ---------------
+??? Question "É possível categorizar a Requisição/Incidente (Ticket)?"
+    Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html.  
 
 ??? Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
     
