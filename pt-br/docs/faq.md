@@ -2,6 +2,10 @@ Title: Frequently Asked Questions - FAQ
 
 Perguntas Frequentes - FAQ
 ---------------
+??? Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças??"
+    Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
+    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).  
+
 ??? Question "É possível categorizar a Requisição/Incidente (Ticket)?"
     Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço]https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).  
 
@@ -449,9 +453,9 @@ Perguntas Frequentes - FAQ
     
     [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
     
-??? Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades com este recurso?"
+??? Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades ?"
     
-    O upload dos anexos especifica o tamanho limite de 15 Mbytes para cada arquivo carregado no sistema. Porém, na tela do Portal continua com o limite de 5 Mbytes para o tamanho do arquivo.
+    O tamanho de upload dos anexos é especificado pelo administrador do sisma no parametro 278 o tamanho default é de 1GB.
    
 ??? Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
     
