@@ -13,30 +13,30 @@ Permite a construção de interfaces de usuário através da combinação de com
 
    * Páginas previamente configuradas no sistema:
 
-1.  **Página padrão**
+   1.  **Página padrão**
 
-    *   Página usada para iniciar o serviço SM, pesquisar os dados dentro do banco
-        de dados e registrar diretamente nele.
+       *   Página usada para iniciar o serviço SM, pesquisar os dados dentro do banco
+           de dados e registrar diretamente nele.
 
-1.  **Página CRUD**
+   1.  **Página CRUD**
 
-    *   Página criada automaticamente pelo Objeto de negócio, com as funções
-        básicas.
+       *   Página criada automaticamente pelo Objeto de negócio, com as funções
+           básicas.
 
-1.  **Página de processo**
+   1.  **Página de processo**
 
-    *   Página para processos do sistema SM associados a processos de negócios,
-        usados para iniciar um Processo de Negócio Neuro.
+       *   Página para processos do sistema SM associados a processos de negócios,
+           usados para iniciar um Processo de Negócio Neuro.
 
-1.  **Página de tarefa**
+   1.  **Página de tarefa**
 
-    *   Execução de um projeto de fluxo de trabalho/Desenho ESI, renderizando um
-        formulário Neuro na tela do ticket.
+       *   Execução de um projeto de fluxo de trabalho/Desenho ESI, renderizando um
+           formulário Neuro na tela do ticket.
 
-1.  **Página de relatório**
+   1.  **Página de relatório**
 
-    *   Página de relatório para relatórios gerados pelo aplicativo, inclui
-        dependências específicas para a execução de um relatório JASPER.
+       *   Página de relatório para relatórios gerados pelo aplicativo, inclui
+           dependências específicas para a execução de um relatório JASPER.
 
 ## Antes de começar
 
