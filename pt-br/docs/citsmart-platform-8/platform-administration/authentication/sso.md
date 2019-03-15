@@ -78,15 +78,12 @@ Configurar o servidor Wildfly
     
     ```sh
     [libdefaults]
-        
         default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-        
         default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-        
         permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-         
     [realms]
-     
+    ```
+
         citgosrv004.cit.local  = {
              
             kdc = citsmartsrv.citsmartsrv.bigdata-team.com
