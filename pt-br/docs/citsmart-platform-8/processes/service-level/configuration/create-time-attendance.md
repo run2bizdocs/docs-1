@@ -23,6 +23,9 @@ Procedimento
 
 3.  Preencher os campos disponibilizados no quadro **Dados Básicos**;
 
+!!! Warning "IMPORTANTE"
+    Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência
+
 4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
     atendimento dos serviços, levando em consideração a prioridade. A prioridade
     é usada para identificar os tempos requeridos para que ações adequadas sejam
