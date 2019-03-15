@@ -76,15 +76,13 @@ Configurar o servidor Wildfly
 2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
     a pasta standalone/configuration (wildfly):
     
-    ```
-    
-    [libdefaults]
-        default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-        default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-        permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-    [realms]
-    
-    ```
+```sh
+[libdefaults]
+default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+[realms]
+```
 
         citgosrv004.cit.local  = {
              
