@@ -44,6 +44,13 @@ Procedimento
 
     A exclusão de grupo depende de não existir portfólios, colaboradores e
     contratos vinculados ao mesmo.
+    
+ 
+!!! Abstract "NOTA"
+
+    No campo **Permissões nos fluxos de trabalho** defini-se as ações que o grupo poderá realizar nos fluxos de trabalho.
+
+
 
 Relacionado
 -----------

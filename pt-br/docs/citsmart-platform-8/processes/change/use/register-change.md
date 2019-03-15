@@ -16,12 +16,24 @@ Procedimento
 1.	Acessar a funcionalidade através da navegação no menu principal Processos > Gerência de Mudança > Mudança;
 2.	Clicar no botão “Opções” e em seguida em “Cadastro”;
 3.	Preencher todos os campos disponibilizados nas áreas: solicitante e mudança (inclusive selecionar o portfólio desejado);
-4.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
+4. Indique o Impacto, Urgência e Importância para indicar a priorização do problema 
+5.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
 
     !!! Abstract "ATENÇÃO"
         É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
 
-5.	Clicar no botão “Opções” e em seguida “Gravar”;
+    !!! Warning "IMPORTANTE"
+        Em todas as fases:
+           - Planejamento,
+           - Plano de reversão e
+           - Revisão e fechamento 
+           
+        Nas abas 
+            Documentos - Poderão ser referenciados conhecimentos com textos, links imagens videos entre outros
+            Anexos     - poderão ser anexados quaisquer documentos 
+            Anotações  - É Texto Livre pode ser usado para referenciar textos ou links.
+
+6.	Clicar no botão “Opções” e em seguida “Gravar”;
 
 
 Relacionado 

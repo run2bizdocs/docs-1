@@ -36,6 +36,11 @@ Procedure
 
     The group exclusion depends on there being no portfolios, staff and
     contracts linked to it.
+    
+!!! Abstract "NOTE"
+    
+    In the **Permissions on workflows** field, you define the actions that the group can perform in the workflows.
+    
 
 Related
 -----------

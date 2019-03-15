@@ -48,8 +48,12 @@ Procedimento
     o botão “Selecionar” para completar a operação. Logo após, é possível ao
     clicar no ícone “Serviços”, vincular o mesmo ao problema e ao apertar o
     ícone “Info” será possível visualizar todas as informações do IC vinculado;
+    
+6.  Para vincular **Mudança**, clicar na Fase de "SOLUÇÃO" na aba de "Mudanças", vc poderá pesquisar pelo número da Mudança ou até cadastrar uma nova Mudança, após a vinculação é possível editar a Mudança, observar os “Itens
+    de Configuração” ao clicar no ícone de mesmo nome. Agora, para remover o
+    vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
 
-6.  Ao clicar na área **“Serviços Relacionados”**, será apresentado o serviço
+7.  Ao clicar na área **“Serviços Relacionados”**, será apresentado o serviço
     relacionado ao problema (se o mesmo já tiver sido vinculado) com algumas
     ações disponíveis. É disponibilizado a visualização do “Mapa de Serviço” ao
     clicar no ícone de mesmo nome, e, além disso, é possível observar os “Itens
@@ -62,22 +66,22 @@ Procedimento
         seguida no botão “Adicionar Serviço”. Depois, é necessário selecionar o
         serviço desejado e clicar sobre o mesmo.
 
-7.  Para vincular **Liberação**, clicar na área de mesmo nome e em seguida
+8.  Para vincular **Liberação**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
     quiser cadastrar uma nova liberação, clicar no botão “Cadastrar” e preencher
     os dados;
 
-8.  Para vincular outros **Problemas**, clicar na área de mesmo nome e em
+9.  Para vincular outros **Problemas**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar o problema desejado.
     Se desejar criar um novo problema a ser relacionado, basta clicar no botão
     “Cadastrar” e preencher os dados necessários;
 
-9.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e em seguida
+10.  Para vincular um **Conhecimento**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar o conhecimento desejado. Se
     quiser criar um novo conhecimento, clicar no botão “Cadastrar” e preencher
     os dados necessários.
     
-10. Clicar em "Opções" e em seguida "Gravar e avançar o fluxo" ou "Gravar e manter a tarefa atual" , esta última opção possibilita não avançar para próxima fase o problema.
+11. Clicar em "Opções" e em seguida "Gravar e avançar o fluxo" ou "Gravar e manter a tarefa atual" , esta última opção possibilita não avançar para próxima fase o problema.
 
 !!! tip "About"
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;

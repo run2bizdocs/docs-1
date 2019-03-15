@@ -11,7 +11,7 @@ Para criar as regras de escalonamento, é necessário configurar o parâmetro
 190 o valor **S** e cadastrar previamente os contratos, colaborados,
 grupos, os portfólios de serviços e a ação automática do tipo escalonamento.
 
-Já no arquivo **citsmart.cg**, é preciso configurar a propriedade 
+Já no arquivo **citsmart.cfg**, é preciso configurar a propriedade 
 **START**\_**MONITORA**\_**INCIDENTES** informando o parâmetro TRUE (somente o
 administrador do sistema operacional do servidor da aplicação realiza este
 ajuste).

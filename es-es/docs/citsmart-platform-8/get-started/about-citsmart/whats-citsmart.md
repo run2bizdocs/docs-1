@@ -1,7 +1,49 @@
 Title: ¿Qué es CITSmart?
 Description: Introducción al producto CITSmart
 
-#¿Qué es CITSmart?
+## ¿Qué es CITSmart?
+
+El CITSmart, desarrollado por CITSmart Corporation®, es una **plataforma 
+que conecta personas y recursos digitales para optimizar el trabajo y amplificar 
+los resultados del negocio.**
+
+A través de los portales de relaciones, optimizamos la experiencia de clientes y 
+colaboradores. Además, por medio del **Workflow Digital Inteligente** y gestión ágil, 
+con uso de Kanbans, conectamos equipos para una mayor colaboración centrada en el cliente, 
+generando así, mejora progresiva e interactiva, simplicidad en la ejecución, practicidad, 
+alineación y agilidad.
+
+¿Cuáles son las posibilidades de uso?
+-------------------------------
+
+Hay casos de gestión de servicios con procesos automatizados en diversas áreas, como:
+
+*   Educación.
+*   Compras.
+*   Viaje.
+*   Recursos humanos, como la solicitud de personal, entrenamiento, etc.
+*   Departamento personal, como la solicitud de beneficios, vacaciones, nómina de pago, aclaraciones, etc.
+*   Jurídico, como elaboración y análisis de contratos, apoyo, etc.
+*   Atención en campo, como el cambio de equipos, ejecución de reparaciones y mantenimiento, etc.
+*   Comunicación, Marketing, entre otros.
+
+Además de estos, siguiendo las mejores prácticas de gestión de servicios, con base en la 
+biblioteca de mejores prácticas de ITIL, CITSmart tiene nativamente 13 procesos automatizados, 
+siendo ellos:
+
+*   Gestión de Portafolio
+*   Catálogo de Servicio
+*   Gestión de Nivel de Servicio
+*   Gestión de Solicitud
+*   Gestión de Conocimiento
+*   Gestión de Incidentes
+*   Gestión de Problema
+*   Gestión de Configuración y Activos
+*   Gestión de Cambio
+*   Gestión de Liberación e Implementación
+*   Gestión de Evento
+*   Gestión de Disponibilidad
+*   Gestión de Continuidad
 
 Historia del CITSmart
 --------------------

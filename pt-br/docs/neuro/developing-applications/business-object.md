@@ -1,62 +1,168 @@
-title: Objeto de negócio  
+title: Objeto de Negócio
+Description:Objeto de Negócio
+#Objeto de Negócio
 
-Description: Através dessa tela, é possível manter os objetos de negócio das aplicações. Objetos de negócio são os objetos armazenados no banco de dados da aplicação. Representam o modelo de dados e podem dar origem a um ou mais formulários.  
 
-#Objeto de negócio   
+Objetos de Negócios são os vínculos entre o Neuro e uma Entidade de Dados das aplicações. Desta forma, o Objeto de Negócio representará o modelo de dados e poderá atingir um ou mais formulários.
 
-Através dessa tela, é possível manter os objetos de negócio das aplicações. Objetos de negócio são os objetos armazenados no banco de dados da aplicação. Representam o modelo de dados e podem dar origem a um ou mais formulários.  
+Cada objeto de negócio criado representa uma tabela no banco de dados.
 
-Todo objeto de negócio precisa possuir uma chave primária, no entanto, nem sempre a chave primária será criada no banco de dados. Os objetos de negócio são criados em nível de aplicação.  
 
-Cada objeto de negócio criado representa uma tabela do banco de dados.  
+Antes de começar
+----------------
 
-##Como acessar  
-1.	Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Objeto de Negócio.  
+É necessário ter criado Conexão DB e Aplicação Neuro.
 
-##Pré-condições  
-1.	Não se aplica.  
+## Dados gerais
 
-##Filtros
-1.	O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+1.  1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \>
+    Objeto de Negócio;
+
+2.  Clicar em “Cadastrar”;
+
+3.  Preencher os campos disponíveis na guia “Identificação”;
+
+4.  Selecione a **Aplicação** para a qual o objeto de negócio é criado, atribua
+    ao Objeto de Negócio um Nome e uma Descrição, também informe a finalidade do
+    Objeto de Negócio.
     
-    *	Palavra chave ou enter.    
+    ![business](images/neuro-9.jpg)
 
-![Screenshot](images/business-object-filter.png)  
-Figura 1 - Tela de pesquisa de objetos de negócio cadastrados  
+Figura 1 - Identificacão
 
-##Listagem de itens  
-1.	Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Nome, Descrição, Conexão de Banco e Versão.    
+## Informação do Banco de Dados
 
-![Screenshot](images/business-object-listing.png)  
-Figura 2 - Tela de listagem de objetos de negócio cadastrados  
+1.  Preencher os campos disponíveis para a guia "Banco de dados". Essa guia faz
+    referência à estrutura do banco de dados da aplicação. Como cada objeto de
+    negócio representa uma tabela de banco de dados, essa guia define as colunas
+    do banco, bem como seus relacionamentos, regras de negócio e comandos SQL
+    (se necessário).
 
-##Preenchimento dos campos cadastrais  
-1.	Para alterar um objeto de negócio, clique em Editar;    
-2.	Para criar um novo objeto de negócio, clique em Cadastrar.    
+2.  Preencher as informações com:
 
-##Identificação  
-Esta aba deve ser alimentada como forma de identificação do objeto de negócio criado.    
-1.	Informe a Aplicação para a qual está sendo criado o objeto de negócio (cadastrada no menu Neuro > Gerenciamento > Aplicação.    
-2.	Informe o nome de identificação do objeto de negócio, a descrição, o propósito e marque se o sistema deverá gerar o formulário ao salvar;    
-3.	Ao clicar em Gerar formulário ao salvar, o Neuro se encarregará de gerar um formulário baseando-se nas informações inseridas na aba banco de dados. Este formulário poderá ser editado posteriormente através do menu Neuro > Gerenciamento > Formulário.    
+    1.  A **Conexão de Banco** criada,
 
-![Screenshot](images/business-object-identification.png)  
-Figura 3 - Tela de cadastro/edição de objetos de negócio  
+    2.  O nome do **Esquema** de banco de dados,
 
-##Banco de dados
-1.	Esta aba se refere a estrutura do banco de dados da aplicação. Como cada objeto de negócio representa uma tabela do banco de dados, nesta aba são definidas as colunas do banco de dados, assim como seus relacionamentos, regras de negócio e comandos SQL (caso necessário).    
-2.	Primeiramente, informe a conexão de banco de dados criada, o nome do esquema do banco, o tipo, se view ou tabela, e o nome do objeto de negócio no banco de dados.    
+    3.  O **Tipo**, se é tabela ou view, e
 
-![Screenshot](images/business-object-database.png)  
-Figura 4 - Tela de criação/edição de objeto de negócio - Aba de "Banco de dados"  
+    4.  O **Nome no Banco de Dados** do objeto de negócio.
 
-##Formulário
-1.	Pode se alterar as labels dos atributos através da aba Labels, e poderá editar os campos da grid, através da aba de Grid.    
-2.	Ao clicar no botão Editar formulário presente no cabeçalho da tela, será gerado um formulário para este objeto de negócio. Se não houver nenhum formulário para este objeto de negócio, será apresentado a aba lateral Campos. Se já existir um formulário previamente cadastrado vinculado a este formulário, será aberta a aba de Desenho da tela para este formulário.    
-3.	Mais informações a respeito da criação de formulário pelo Neuro podem ser encontradas na documentação técnica.     
 
-![Screenshot](images/business-object-form.png)  
-Figura 5 - Tela de criação/edição de objeto de negócio - Aba de "Formulários"  
+![business](images/neuro-10.jpg)
+
+Figure 2 - Banco de dados
+
+
+## Colunas
+
+1.  Adicionar as colunas da tabela, indicando
+
+    1.  Informar o **nome da coluna na BD**;
+
+    2.  Selecionar o **Tipo** da Coluna. O sistema fará a correlação
+        automaticamente para o **Tipo no BD**;
+
+    3.  Dê o **Nome para atributo de objeto**, se você não mudar, terá o mesmo
+        nome que o nome da coluna;
+
+    4.  Configurar a **Label** para o formulário e a grid;
+
+    5.  Selecionar a **Chave primária** se a coluna é a Chave primária para a
+        tabela;
+
+    6.  Selecione **Obrigatório** se a coluna for obrigatória;
+
+    7.  Clicar em “Salvar”.
+    
+!!! Abstract "NOTA"
+
+    Após o "Salvar", você poderá informar a chave do domínio e digitar e atribuir o relacionamento, se necessário.
+    
+
+![business](images/neuro-11.jpg)
+
+Figura 3 - Lista de colunas
+
+![business](images/neuro-12.jpg)
+
+Figura 4 - Adicionar novas colunas
+
+
+!!! Abstract "ATENÇÃO"
+
+    Em cada mudança de banco de dados ou no momento da criação do objeto de negócio, você deve executar o DDL correspondente para           executar a criação/mudança no Banco de Dados.
+    
+## Relação
+
+1.  Se necessário, você pode adicionar Relações nessa guia;
+
+2.  Definir:
+
+    1.  **Tipo** (1 x N, N x 1);
+
+    2.  Informar o **nome da Relação** e da **Label** (para o formulário);
+
+    3.  O **objeto Referenciado** que será vinculado;
+
+    4.  A **Coluna para preenchimento automático**;
+
+    5.  Configurar se é um campo **Obrigatório**;
+
+    6.  Uso de **Delegação** quando você quiser usar conceitos de
+        Generalização/Especialização para o Relacionamento;
+
+    7.  Configurar se a Coluna de objeto de negócio fará parte do relacionamento;
+    
+    
+![business](images/neuro-13.jpg)
+
+Figura 5 - Relação 
+
+## Regras de Negócio
+
+1.	Selecionar a Regra de Negócio atribuída para inserir, alterar ou excluir a ação no Objeto de Negócio 
+
+
+![business](images/neuro-14.jpg)
+
+Figura 6 - Regras de negócio
+    
+## SQLs 
+
+1.  Você pode criar SQL's relacionados ao objeto de negócio a ser usado no
+    fluxo, por exemplo:
+
+    1.  Em uma tarefa para solicitação de inscrição em cursos, você pode criar
+        um SQL (será considerado como uma função) para obter o número de alunos
+        matriculados em um curso;
+
+    2.  O SQL será executado sob um fluxo ESI e será chamado pelo Fluxo SM
+        (usando o componente para integração com o fluxo ESI).
+  
+    
+![business](images/neuro-15.jpg)
+
+Figura 7 - SQL
+
+## Formulário (CRUD & Personalizável)
+
+1.	Você pode alterar as labels de atributos por meio da guia Labels e editar os campos da grid usando a guia Grid.
+
+    ![business](images/neuro-16.jpg)
+
+    Figura 8 - Labels
+
+
+    ![business](images/neuro-17.jpg)
+
+    Figura 9 - Grid
+
+2.	Ao clicar em Editar formulário no cabeçalho da tela, gerará um formulário para esse objeto de negócio. Se não houver um formulário para esse objeto de negócio, a barra lateral Campos será exibida. Se já houver um formulário registrado anteriormente vinculado a este formulário, a guia Desenhar Tela para este formulário será aberta.
+
+
 
 !!! tip "About"
-    <b>Updated:</b>17/01/2019 - João Pelles Junior
+
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>03/13/2019 - Anna Martins  
