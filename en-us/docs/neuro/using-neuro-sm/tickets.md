@@ -1,6 +1,7 @@
-title: Tickets
-Description: Tickets
-#Tickets
+title: Use Neuro functionalities in Tickets
+Description: Use Neuro functionalities in Tickets
+
+# Use Neuro functionalities in Tickets
 
 There are two ways of interface Neuro with a Ticket:
 
