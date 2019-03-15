@@ -92,9 +92,9 @@ Configurar o servidor Wildfly
     
     ```sh
     [domain_realm]
-    `.citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com`
+    .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
     ```
-    
+
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
 
     ```sh
@@ -113,64 +113,42 @@ Configurar o servidor Wildfly
 2.  Arrumar o standalone.xlm ao adicionar as seguintes informações:
 
     Em **\<system-properties\>**
-
+    
+    ```java
     \<property name="sun.security.krb5.debug" value="true"/\>
-
     \<property name="java.security.krb5.kdc" value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
     \<property name="java.security.krb5.realm"value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
     \<property name="java.security.krb5.conf"value="/opt/wildfly-12.0.0.Final/standalone/configuration/krb5.conf"/\>
-
     \<property name="java.security.auth.login.config"value="/opt/wildfly-12.0.0.Final/standalone/configuration/login.conf"/\>
-
     \<property name="krb.keyTab"value="/opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"/\>
-
     \<property name="krb.principal"value="HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
+    ```
+    
     Em **\<security-domains\>**
 
+    ```java
     \<security-domain name="spnego-server"\>
-
     \<authentication\>
-
     \<login-module code="com.sun.security.auth.module.Krb5LoginModule"flag="required"\>
-
     \<module-option name="storeKey" value="true"/\>
-
     \<module-option name="useKeyTab" value="true"/\>
-
     \<module-option name="keyTab" value="\${krb.keyTab}"/\>
-
     \<module-option name="principal" value="\${krb.principal}"/\>
-
     \<module-option name="isInitiator" value="false"/\>
-
     \</login-module\>
-
     \</authentication\>
-
     \</security-domain\>
-
     \<security-domain name="SPNEGO" cache-type="default"\>
-
     \<authentication\>
-
     \<login-module code="Kerberos" flag="required"\>
-
     \<module-option name="storeKey" value="true"/\>
-
     \<module-option name="refreshKrb5Config" value="true"/\>
-
     \<module-option name="useKeyTab" value="true"/\>
-
     \<module-option name="doNotPrompt" value="true"/\>
-
     \</login-module\>
-
     \</authentication\>
-
     \</security-domain\>
+    ```
 
 1.  Caso não tenha alterado o jar do policy do JAVA (JCE - Java Cryptography
     Extension), baixar os arquivos e colocar em
