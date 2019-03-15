@@ -20,19 +20,19 @@ Procedure
 
 3.  In the field **Type of Template**, with each option chosen (JSP, Questionnaire or Neuro) the fields to fill will be changed:
 
-![figura1](images/template-1.jpg)
+    ![figura1](images/template-1.jpg)
 
-    Figure 1 - JPS template
+     Figure 1 - JPS template
 
 
     ![figura1](images/template-2.jpg)
 
-    Figure 2 - Questionnaire template
+     Figure 2 - Questionnaire template
 
 
     ![figura1](images/template-3.jpg)
 
-    Figure 3 - Neuro template
+     Figure 3 - Neuro template
 
 4.  Click on "Save"
 
