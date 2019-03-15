@@ -97,7 +97,6 @@ ponto. Para isso executar os comandos abaixo.
 6. Parar o Wildfly (Iniciado anteriormente) e configurar o standalone.conf no
 diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
 
-
     ```sh
     mv standalone.conf standalone.dist
     ```
@@ -288,7 +287,7 @@ modulo ao standalone-full-ha.xml
 
 
 
-    Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
+5. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -320,7 +319,7 @@ modulo ao standalone-full-ha.xml
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+1. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
 ```sh
 [standalone\@localhost:9990 /] :reload
@@ -394,7 +393,25 @@ Caso possua um certificado é importante utilizá-lo.
     
     
     ```sh
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): \# /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 Exportando certificado para extensão .cer: \# /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer Adicionando certificado no cacerts do Java: \# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 
+    ```
+    
+    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
+    
+    ```
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 
+    ```
+    
+    Exportando certificado para extensão .cer:
+    
+    ```
+    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer 
+    ```
+    
+    Adicionando certificado no cacerts do Java:
+    
+    ```
+    /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
     **Lembrar de aplicar as permissões para o dono do wildfly e java jdk**
@@ -470,9 +487,11 @@ Caso possua um certificado é importante utilizá-lo.
     https://itsm.citsmart.com:8443/citsmart
     ```
 	
-!!! info
-    O contexto "citsmart" é o padrão do CITSmart Enterprise.
+2. O contexto "citsmart" é o padrão do CITSmart Enterprise.
 
+    Primeiro acesso: Entre com a URL > https://itsm.citsmart.com:8443/citsmart.
+
+3. Agora, sigua os passosdo manual de 3 passos e comece a usar a solução CITSmart.
 
 ## Deploy do CITSmart Neuro
 
