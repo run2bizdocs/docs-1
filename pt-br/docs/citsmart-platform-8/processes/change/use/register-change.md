@@ -21,6 +21,17 @@ Procedimento
     !!! Abstract "ATENÇÃO"
         É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
 
+    !!! Warning "IMPORTANTE"
+        Em todas as fases:
+           - Planejamento,
+           - Plano de reversão e
+           - Revisão e fechamento 
+           
+        Nas abas 
+            Documentos - Poderão ser referenciados conhecimentos com textos, links imagens videos entre outros
+            Anexos     - poderão ser anexados quaisquer documentos 
+            Anotações  - É Texto Livre pode ser usado para referenciar textos ou links.
+
 5.	Clicar no botão “Opções” e em seguida “Gravar”;
 
 
