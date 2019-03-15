@@ -203,5 +203,5 @@ Configurar o servidor Wildfly
  !!! tip "About"
 
 <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
-<b>Updated:</b>3/15/2019 – Anna Martins
+<b>Updated:</b>03/15/2019 – Anna Martins
    
