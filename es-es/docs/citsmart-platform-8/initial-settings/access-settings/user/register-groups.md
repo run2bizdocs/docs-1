@@ -46,6 +46,10 @@ Procedimiento
     La exclusión de grupo depende de que no exista portafolios, colaboradores
     y contratos vinculados al mismo.
 
+!!! Abstract "NOTA"
+
+    En el campo **Permisos en los flujos de trabajo** se definen las acciones que el grupo podrá realizar en los flujos de trabajo.
+    
 
 Relacionado
 -----------
