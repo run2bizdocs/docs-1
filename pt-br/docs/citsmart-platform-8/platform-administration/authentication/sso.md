@@ -113,21 +113,17 @@ Configurar o servidor Wildfly
 2.  Arrumar o standalone.xlm ao adicionar as seguintes informações:
 
     Em **\<system-properties\>**
-
+    
+    ```java
     \<property name="sun.security.krb5.debug" value="true"/\>
-
     \<property name="java.security.krb5.kdc" value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
     \<property name="java.security.krb5.realm"value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
     \<property name="java.security.krb5.conf"value="/opt/wildfly-12.0.0.Final/standalone/configuration/krb5.conf"/\>
-
     \<property name="java.security.auth.login.config"value="/opt/wildfly-12.0.0.Final/standalone/configuration/login.conf"/\>
-
     \<property name="krb.keyTab"value="/opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"/\>
-
     \<property name="krb.principal"value="HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-
+    ```
+    
     Em **\<security-domains\>**
 
     \<security-domain name="spnego-server"\>
