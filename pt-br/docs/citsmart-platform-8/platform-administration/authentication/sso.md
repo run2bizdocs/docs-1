@@ -87,8 +87,7 @@ Configurar o servidor Wildfly
     ```sh
     citgosrv004.cit.local  = {
     kdc = citsmartsrv.citsmartsrv.bigdata-team.com
-    default_domain = citsmartsrv.citsmartsrv.bigdata-team.com     
-    }     
+    default_domain = citsmartsrv.citsmartsrv.bigdata-team.com }     
     [domain_realm]
     .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com     
     ```
