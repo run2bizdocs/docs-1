@@ -12,7 +12,7 @@ To create escalation rules, it's necessary to set the parameter **190** with
 value **Y**, and previously register the contracts, employees, groups, services
 portfolios and the automatic action of escalation type.
 
-In the file **citsmart.cg**, it's necessary configure the
+In the file **citsmart.cfg**, it's necessary configure the
 properties **START\_MONITORA\_INCIDENTES** informing the parameter TRUE
 (only the operating system administrator of the application server makes this
 adjustment).
