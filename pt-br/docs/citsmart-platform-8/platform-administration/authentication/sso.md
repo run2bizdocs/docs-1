@@ -47,7 +47,7 @@ Criar usuário AD
      Figura 5 - Verificando usuário
 
 6.  Clicar, então, o botão direito do mouse e selecionar a opção Propriedades.
-    Logo após, procurar o **servicePrincipalName ** (sigla de SPN);
+    Logo após, procurar o **servicePrincipalName** (sigla de SPN);
 
 7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em OK para efetuar a
     operação, conforme a figura abaixo:
