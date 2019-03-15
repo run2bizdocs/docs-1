@@ -35,7 +35,7 @@ Procedimento
 
         A solução da solicitação poderá ser sugestão de um novo conhecimento, sendo
         avaliado previamente para efetivação. É possível sugerir também um nome para
-        este novo conhecimento no canpo "Título Base de Conhecimento".
+        este novo conhecimento no campo "Título Base de Conhecimento".
 
 1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
