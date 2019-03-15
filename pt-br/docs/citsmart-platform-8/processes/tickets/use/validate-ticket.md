@@ -28,21 +28,21 @@ Procedimento
 
     - Se o tipo de solicitação dor "Incidente":
 
-        * Categoria de Solução: selecione a categoria de solução do incidente;
+        * Categoria de Solução: selecionar a categoria de solução do incidente;
      
-        * Detalhamento da Causa: descreva os detalhes da causa do incidente; 
+        * Detalhamento da Causa: descrever os detalhes da causa do incidente; 
      
-        * Solução Resposta: descreva os detalhes da solução que foi realizada para atendimento do incidente; 
+        * Solução Resposta: descrever os detalhes da solução que foi realizada para atendimento do incidente; 
      
         * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
           visível, verificar a parametrização do processo de Gestão do Conhecimento;
      
         * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em                 questão; 
      
-        * Solução Temporária: indique se a atividade realizada para atendimento do incidente foi uma solução temporária
+        * Solução Temporária: indicar se a atividade realizada para atendimento do incidente foi uma solução temporária.
 
 
-    - Se o tipo de solicitação for "Requisição", preencha o campo Solução Resposta, descreva o que foi realizado para atendimento da            requisição de serviço
+    - Se o tipo de solicitação for "Requisição", preencher o campo ""Solução Resposta"", descrever o que foi realizado para atendimento       da requisição de serviço.
  
     !!! Abstract "ATENÇÃO"
 
