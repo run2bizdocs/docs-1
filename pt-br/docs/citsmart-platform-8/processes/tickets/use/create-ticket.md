@@ -30,7 +30,9 @@ Procedimento
     palavras que remetam diretamente a aquele atendimento, sendo objetivas e de
     fácil associação com a temática da solicitação. Esse conteúdo é vinculado ao
     campo “Palavra-chave” e ao seu retorno de busca, que existe dentro do modo de
-    pesquisa avançada de um ticket. Além disso, é possível incluir anexos de formatos diversos (ex. .pdf, .doc, .png, .jpg, etc.) para ajudar no processo de atendimento.
+    pesquisa avançada de um ticket. Além disso, é possível incluir anexos de formatos
+    diversos (ex. .pdf, .doc, .png, .jpg, etc.) para ajudar no processo de atendimento.
+    A limitação de formatos é definida pelo administrador do sistema.
     
 O que fazer a seguir
 ------------------------
