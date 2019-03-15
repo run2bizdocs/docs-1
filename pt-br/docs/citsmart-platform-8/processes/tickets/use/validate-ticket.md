@@ -23,10 +23,26 @@ Procedimento
 3.  Certificar se o atendimento do ticket foi realizado de acordo com o que foi
     solicitado;
 
-4.  No campo **Registro de Execução**, descrever as informações sobre a execução
-    da atividade;
+4.  1.  Na guia “Fechamento” escolher a situação para a opção “Resolvida”, preencher
+    os dados para encerrar o ticket;
 
-5.  Clicar no botão opções e em seguida gravar para efetuar a operação.
+    !!! Abstract "NOTA"
+
+        Para que o checkbox Gravar Solução/Resposta na Base de Conhecimento esteja
+        visível, verificar a parametrização do processo de Gestão do Conhecimento.
+
+    !!! Abstract "ATENÇÃO"
+
+        A solução da solicitação poderá ser sugestão de um novo conhecimento, sendo
+        avaliado previamente para efetivação. É possível sugerir também um nome para
+        este novo conhecimento.
+
+1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
+
+   -   “Gravar e manter a tarefa atual”
+
+   -   “Gravar e avançar o fluxo”
+
 
 Relacionado
 -----------
