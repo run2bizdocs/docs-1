@@ -47,7 +47,7 @@ Criar usuário AD
      Figura 5 - Verificando usuário
 
 6.  Clicar, então, o botão direito do mouse e selecionar a opção Propriedades.
-    Logo após, procurar o **servicePrincipalName **(sigla de SPN)
+    Logo após, procurar o **servicePrincipalName ** (sigla de SPN);
 
 7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em OK para efetuar a
     operação, conforme a figura abaixo:
@@ -71,14 +71,12 @@ Criar usuário AD
 Configurar o servidor Wildfly
 -----------------------------
 
-1.  Para configurar o servidor Wildfly, seguir estas orientações:
+1.  Copiar o **war** gerado da branch **sso**;
 
-2.  Copiar o **war** gerado da branch **sso;**
-
-3.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
+2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
     a pasta standalone/configuration (wildfly):
 
-    [libdefaults]
+        [libdefaults]
 
                default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
 
@@ -86,7 +84,7 @@ Configurar o servidor Wildfly
 
                permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
 
-    [realms]
+        [realms]
 
                citgosrv004.cit.local  = {
 
@@ -94,29 +92,27 @@ Configurar o servidor Wildfly
 
                                default_domain = citsmartsrv.citsmartsrv.bigdata-team.com
 
-    }
+        }
 
-    [domain_realm]
+        [domain_realm]
 
-               .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
+         .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
 
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
 
-    custom-client {
+        custom-client {
 
-       com.sun.security.auth.module.Krb5LoginModule required
+            com.sun.security.auth.module.Krb5LoginModule required
 
-       storeKey=true
+            storeKey=true
 
-       useKeyTab=true
+            useKeyTab=true
 
-      
-    keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
+            keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
+  
+            principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
 
-      
-    principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
-
-    };
+        };
 
 1.  Copiar o arquivo lightkeytab.keytab (gerado pelo comando no AD) para a pasta
     standalone/configuration (wildfly)
