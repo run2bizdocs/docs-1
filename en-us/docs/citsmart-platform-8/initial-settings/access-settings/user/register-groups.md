@@ -39,7 +39,7 @@ Procedure
     
 !!! Abstract "NOTE"
     
-    In the Permissions in Workflows field, you define the actions that the group can perform in the workflows.
+    In the **Permissions on workflows** field, you define the actions that the group can perform in the workflows.
     
 
 Related
