@@ -168,7 +168,7 @@ Configurar o servidor Wildfly
 !!! Abstract "ATENÇÃO"
 
     É recomendável a leitura dos seguintes materiais de
-    apoio: **<https://ss64.com/nt/setspn.html>** e **<http://spnego.sourceforge.net/>.
+    apoio: <https://ss64.com/nt/setspn.html> e <http://spnego.sourceforge.net/>.
     
     
  !!! tip "About"
