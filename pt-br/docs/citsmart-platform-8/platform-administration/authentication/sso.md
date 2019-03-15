@@ -92,9 +92,9 @@ Configurar o servidor Wildfly
     
     ```sh
     [domain_realm]
-    citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
+    .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
     ```
-    
+
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
 
     ```sh
