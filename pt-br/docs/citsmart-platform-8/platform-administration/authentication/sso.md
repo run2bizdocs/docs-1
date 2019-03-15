@@ -126,47 +126,29 @@ Configurar o servidor Wildfly
     
     Em **\<security-domains\>**
 
+    ```java
     \<security-domain name="spnego-server"\>
-
     \<authentication\>
-
     \<login-module code="com.sun.security.auth.module.Krb5LoginModule"flag="required"\>
-
     \<module-option name="storeKey" value="true"/\>
-
     \<module-option name="useKeyTab" value="true"/\>
-
     \<module-option name="keyTab" value="\${krb.keyTab}"/\>
-
     \<module-option name="principal" value="\${krb.principal}"/\>
-
     \<module-option name="isInitiator" value="false"/\>
-
     \</login-module\>
-
     \</authentication\>
-
     \</security-domain\>
-
     \<security-domain name="SPNEGO" cache-type="default"\>
-
     \<authentication\>
-
     \<login-module code="Kerberos" flag="required"\>
-
     \<module-option name="storeKey" value="true"/\>
-
     \<module-option name="refreshKrb5Config" value="true"/\>
-
     \<module-option name="useKeyTab" value="true"/\>
-
     \<module-option name="doNotPrompt" value="true"/\>
-
     \</login-module\>
-
     \</authentication\>
-
     \</security-domain\>
+    ```
 
 1.  Caso não tenha alterado o jar do policy do JAVA (JCE - Java Cryptography
     Extension), baixar os arquivos e colocar em
