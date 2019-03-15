@@ -39,9 +39,9 @@ Procedimento
 
 1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
-   -   “Gravar e manter a tarefa atual”
+     -   “Gravar e manter a tarefa atual”
 
-   -   “Gravar e avançar o fluxo”
+     -   “Gravar e avançar o fluxo”
 
 
 Relacionado
