@@ -75,6 +75,10 @@ Configurar o servidor Wildfly
 
 2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
     a pasta standalone/configuration (wildfly):
+    
+    ```java
+    <>
+    ```
 
     ``` sh
     [libdefaults]
