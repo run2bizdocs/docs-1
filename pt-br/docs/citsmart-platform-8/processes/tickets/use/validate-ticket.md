@@ -33,9 +33,7 @@ Procedimento
 
     !!! Abstract "ATENÇÃO"
 
-        A solução da solicitação poderá ser sugestão de um novo conhecimento, sendo
-        avaliado previamente para efetivação. É possível sugerir também um nome para
-        este novo conhecimento no campo "Título Base de Conhecimento".
+        Os passos de resolução do Ticket poderão ser sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É             possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
 
 1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
