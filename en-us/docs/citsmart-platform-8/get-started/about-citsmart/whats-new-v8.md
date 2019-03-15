@@ -170,147 +170,147 @@ To facilitate the treatment of the problem, a sequence of steps was structured i
 
 ![Problem Detail](images/df5b817ae22b8cbec1532249518fa06a.png)
 
-Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes que geraram o problema **(a.)**. O registro de problema passou a utilizar o conceito de portfólio de templates **(b.)**, os templates são pré-cadastrados com fluxo de atendimento, grupo responsável, status etc, tornando mais prática a criação, classificação e atendimento dos problemas **(c.)**.
+It's now possible to link and view, on one screen, the list of incidents that generated the problem **(a.)**. The problem registration started to use the concept of portfolio of templates **(b.)**. Templates are pre-registered with the attendance flow, responsible group, status and others, making the creation, classification and attendance of problems more practical **(c.)**.
 
-![a-Incidentes de um problema](images/4977321406008c911b7444314ac0adfd.png)
+![a-Problem incidents](images/4977321406008c911b7444314ac0adfd.png)
 
-![b-Registro de problema](images/e152a1d12831448bc0d9f48ffa66286b.png)
+![b-Problem registration](images/e152a1d12831448bc0d9f48ffa66286b.png)
 
-![c-Templates de problema](images/a7a6fce9a4d15ccfba902b7336f28625.png)
+![c-Problem templates](images/a7a6fce9a4d15ccfba902b7336f28625.png)
 
-Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e a Lista de seus ICs.**(a.)**, Basta dois clicks no IC para visualizar os detalhes **(b.)** e a partir da lista de ICs é possível vincular os que estão relacionados ao problema **(c.)**.
+When Linking a Service to the Problem, it's possible to view the Service Map and the List of its CI **(a.)**, just two clicks on the CI to view the details **(b.)**, and from the list of CI, it's possible to link those that are related to the problem **(c.)**.
 
-![a-Lista de IC´s](images/9127dbc4c5b76c7d2590f34ffe39910e.png)
+![a-CI list](images/9127dbc4c5b76c7d2590f34ffe39910e.png)
 
-![b-Detalhamento do IC](images/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
+![b-CI detail](images/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
 
-![c-Vínculo de IC´s](images/0e21053d9b0622ca3a6c85408fb8b198.png)
+![c-CI link](images/0e21053d9b0622ca3a6c85408fb8b198.png)
 
-Uma nova área de diagnóstico foi criada e permite que através do Simple, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência **(a.)**, O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é registrada **(b.)**.
+A new diagnostic area was created and allows that, through Simple, more people or teams work collaboratively in the analysis of the problem, bringing agility and efficiency **(a.)**; the known error registration, root cause and workaround is easier. A new notification is sent to the person responsible for the incident as soon as each workaround is registered **(b.)**.
 
-![a-Diagnóstico do problema](images/e2d50a9ba88ef6bae994d140c60f1ee8.png)
+![a-Problem diagnosis](images/e2d50a9ba88ef6bae994d140c60f1ee8.png)
 
-![b-Registro de solução de contorno e causa raiz](images/ab12ab8681a2cb4f83dc5fe0c634997c.png)
+![b-Workaround and root cause registration](images/ab12ab8681a2cb4f83dc5fe0c634997c.png)
 
-Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
+There is also a new Solution area with direct link to the Simple and change registers, allowing the design, development and deployment of the solution to be more agile and collaborative, achieving better results **(a.)**; the Review and Closure tab allows to report if the problem has been successfully solved or not. It's also possible to register lessons learned, notes and open sprints for problems whose review involves more people or teams **(b.)**.
 
-![a-Registro de solução](images/eb1061a11eee5d9119bb12ab37080266.png)
+![a-Solution registration](images/eb1061a11eee5d9119bb12ab37080266.png)
 
-![b-Revisão e fechamento](images/d1376fef59089e5eb76c3aebfbefa180.png)
+![b-Review and closure](images/d1376fef59089e5eb76c3aebfbefa180.png)
 
-Saiba mais... **XXXXXXX (colocar link do problema)**.
+For further information... **XXXXXXX (colocar link do problema)**.
 
-Gerenciamento de Configuração e Ativos
+Configuration and Assets Management
 --------------------------------------
 
-Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática, o painel de Gerenciamento de Configuração e Ativos foi reformulado considerando a melhor experiência para o usuário, A nova busca permite filtrar por grupos, tipos, alertas e identificação. 
+In order to make to search and view CIs faster and more practical, the Configuration and Assets Management panel has been redesigned, considering the best experience for the user. The new search allows you to filter by groups, types, alerts and identification. 
 
-![Painel de Gerenciamento de Configuração e Ativo](images/5969571c75155fa972a05d9bd11f0ce1.png)
+![Configuration and Assets Management Panel](images/5969571c75155fa972a05d9bd11f0ce1.png)
 
-O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação entre as estruturas do CMDB **(a.)**, O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes, Problemas, Mudanças e Liberação abertos **(b.)**, os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de ICs que possuem **(c.)** e ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o quantitativo de ICs de acordo com a identificação **(d.)**.
+The panel has a new Group Widget that allows the access and navigation between the CMDB structures **(a.)**; The Alerts Widget displays the list of CI with the amount of Incidents, Problems, Changes, and Release opened **(b.)**; othe types of CIs are also arranged in a new Widget with the quantitative CIs **(c.)**; and when accessing the type, the list of CI is displayed grouped and with the quantitative CIs, according to the identification **(d.)**.
 
-![a-Detalhamento do CMDB](images/7d07d4c5e47622c8783b03a703519a9c.png)
+![a-CMDB detail](images/7d07d4c5e47622c8783b03a703519a9c.png)
 
-![b-Alertas CMDB](images/51211a646f78df95873b9a02f9fe5825.png)
+![b-CMDB alerts](images/51211a646f78df95873b9a02f9fe5825.png)
 
-![c-Tipos de IC](images/ff19e397e646d76b77cbe29fba24ff61.png)
+![c-Types of CI](images/ff19e397e646d76b77cbe29fba24ff61.png)
 
-![d-Detalhamento por tipo de IC](images/f36b03ea093f9e45e58a7a6d72205e66.png)
+![d-Detail by type of CI](images/f36b03ea093f9e45e58a7a6d72205e66.png)
 
-A visualização do IC também foi otimizada. Agora as principais informações e características do IC são exibidas na área Geral **(a.)** e as informações de garantia também são exibidas em um novo Widget **(b.)**.
+The CI visualization has also been optimized. The main information and features of the CI are now displayed in the General area **(a.)** and the warranty information is also displayed in a new Widget **(b.)**.
 
-![a-Detalhamento do IC](images/e293534d3f12db8aac9556635acd390b.png)
+![a-CI detail](images/e293534d3f12db8aac9556635acd390b.png)
 
-![b-Garantias do IC](images/065a32778b352c6c59dbc7b2ab64726c.png)
+![b-CI warranty](images/065a32778b352c6c59dbc7b2ab64726c.png)
 
-Saiba mais...  **XXXXXXX (colocar link do Configuração e CMDB)**
+For further information...  **XXXXXXX (colocar link do Configuração e CMDB)**
 
-Gerenciamento de Mudanças
+Change Management
 -------------------------
 
-O CITSmart evoluiu o Gerenciamento de Mudanças para dar mais agilidade, segurança e praticidade as mudanças em ambientes que vão além da TI . Com um novo painel de listagem é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro, acessar lista de relatórios dinâmicos etc.
+CITSmart has evolved the Change Management to give more agility, security and practicality to changes in environments that go beyond the IT. With a new list panel, it's possible to change display columns, enable automatic updating, view flow progress, search registers, access the list of dynamic reports and others.
 
-![Gerenciamento de mudanças](images/2b3616dc46702da0d7db949534b570e5.png)
+![Change management](images/2b3616dc46702da0d7db949534b570e5.png)
 
-Para facilitar o atendimento, a seguinte sequência de passos foi estruturada no menu lateral:
+To facilitate the attendance, the following sequence of steps was structured in the side menu:
 
-*   Informações do solicitante
-*   Informações da requisição de mudança
-*   Planejamento da mudança
-*   Plano de reversão
-*   Revisão e fechamento
-*   ICs relacionados
+*   Requester information
+*   Request for change information
+*   Change planning
+*   Reversion plan
+*   Review and closure
+*   CI related
 
-![Detalhamento da mudança](images/6fd68d3e593c52c8b655cb4ec65def7c.png)
+![Change detail](images/6fd68d3e593c52c8b655cb4ec65def7c.png)
 
-Para facilitar a organização e a classificação dos registros de mudança, o CITSmart passou a utilizar o conceito de Portfólio de Mudanças, permitindo pré-configurar templates com fluxo de atendimento, calendário, grupos responsáveis etc **(a.)**, e a classificação da mudança se tornou muito mais simples e ágil **(b.)**.
+To facilitate the organization and classification of change registrations, CITSmart started to use the concept of Change Portfolio, allowing pre-set templates with attendance flow, calendar, responsible groups and others **(a.)**, and the classification of change has become much simpler and more agile **(b.)**.
 
-![a-POrtfólio de mudança](images/a9c055027ea4f7f37d82a04d76cadedf.png)
+![a-Portfolio of Change](images/a9c055027ea4f7f37d82a04d76cadedf.png)
 
-![b-Classificação da mudança](images/72c29210c9051f466a24661d42b27012.png)
+![b-Classification of change](images/72c29210c9051f466a24661d42b27012.png)
 
-Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painél de gestão ágil (Conceito "Simple"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
+It's also possible to link to the templates, the agile risk analysis forms. Each change template can use a form with questions and weights. According to the analysis, a risk graph is presented **(a.)**. The Planning, Reversal, Revision and Closure of a Change now have an agile management dashboard ("Simple" concept), so multiple teams can execute tasks in a fast, transparent and collaborative manner **(b.)**.
 
 
-![a-Gráfico de análise de risco](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
+![a-Risk analysis chart](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
 
-![b-Planejamento da mudança](images/954f437a8fdf2424fec8ac01a04c2f48.png)
+![b-Change planning](images/954f437a8fdf2424fec8ac01a04c2f48.png)
 
-Na Revisão e fechamento da mudança, além de informar se a mudança foi realizada com sucesso ou não, também é possível vincular um formulário para análise da qualidade da mudança, além do vínculo com Incidentes, Problemas, Lições aprendidas etc.
+In the review and closure of a change, in addition to informing if the change was successful or not, it's also possible to link a form to analyze the quality of the change, in addition to the link with Incidents, Problems, Lessons learned and others.
 
-![Revisão e fechamento](images/e537aa0813efbcd3645310829c2be25e.png)
+![Review and closure](images/e537aa0813efbcd3645310829c2be25e.png)
 
-Saiba mais...  **XXXXXXX (colocar link da Mudança)**.
+For further information...  **XXXXXXX (colocar link da Mudança)**.
 
-### Gerenciamento de Liberação e Implantação
+### Deployment and Release Management
 
-O processo de Gerenciamento de Liberação e Implantação também passou por evoluções. O painel de listagem segue o mesmo padrão apresentado nos processos de Gerenciamento de Problema e de Mudança.
+he Deployment and Release Management process also passed through evolutions. The list pane follows the same pattern presented in the Problem and Change Management processes.
 
-![Gerenciamento de Liberação](images/2156515c0b739dfea8febf3559ed4e69.png)
+![Release Management](images/2156515c0b739dfea8febf3559ed4e69.png)
 
-No menu lateral foi estruturado uma sequência de passos para facilitar o acompanhamento da liberação **(a.)**,  e as mudanças empacotadas para liberação são apresentadas na mesma tela, facilitando o acompanhamento **(b.)**. O Planejamento e a Implantação agora contam com um painél de Gestão Ágil(Conceito "Simple"), facilitando o envolvimento e a colaboração de várias equipes **(c.)**.
+In the side menu, it was structured a sequence of steps to facilitate the follow-up of the release **(a.)**,  and the packaged changes for the release are presented on the same screen, making it easier to follow **(b.)**. The Planning and Deployment now have an Agile Management dashboard ("Simple" Concept), facilitating the involvement and collaboration of several teams **(c.)**.
 
-![a-Menu lateral](images/93fd32b7239e8ea2ecb21059d92c28b9.png)
+![a-Side Menu](images/93fd32b7239e8ea2ecb21059d92c28b9.png)
 
-![b-Lista de liberações](images/ab0edbc9c5f9865b47c82508d1afc0cd.png)
+![b-Release list](images/ab0edbc9c5f9865b47c82508d1afc0cd.png)
 
-![c-Painel de planejamento e implantação](images/968d2eeb13fb27b551c56c235bc9d7dc.png)
+![c-Deployment and planning panel](images/968d2eeb13fb27b551c56c235bc9d7dc.png)
 
 ### Business Intelligence
 
-Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o uso da estrutura de BI do Saiku Community para análise de dados de Tickets, Mudanças, Releases etc **(a.)**, são disponibilizadas várias visões de gráficos e tabelas, com a possibilidade de filtros e exportação para csv e pdf **(b.)**.
+One of the optional modules in this new version is the Smart Analytics, that allows the use of the Saiku Community BI framework for data analysis of Tickets, Changes, Releases etc and others **(a.)**, various views of charts and tables are available, with the possibility of filters and export to csv and pdf **(b.)**.
 
 ![a-Smart Analytics](images/1ccae7bf7ce5685e45f05ecc63d89a44.png)
 
-![b-Visões de graficos e tabelas](images/8e4b26f0fda93b0a72d3c106eee6ea81.png)
+![b-Charts and tables views](images/8e4b26f0fda93b0a72d3c106eee6ea81.png)
 
-### Trilha de Auditoria
+### Audit Trail
 
-As trilhas de auditoria foram criadas para dar mais transparência do uso de dados e segurança do nosso sistema, existem três opções de Auditoria: de **dados**, de **acesso** e de **chave**. 
+Audit trails have been created to give more transparency to the data usage and security of our system, there are three Audit options: **data**, **access** and **key**. 
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[For further information...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
 
-**Auditoria de dados.**
+**Data audit.**
 
-Nesta opção de auditoria é apresentado o histórico de todos os dados de alteração, inclusão e exclusão realizadas no sistema.
+This auditing option displays the history of all change, inclusion, and deletion of data in the system.
 
-![Auditoria de dados](images/3d7c59fbe255e39c8ad40fe40af6c4c3.png)
+![Data audit](images/3d7c59fbe255e39c8ad40fe40af6c4c3.png)
 
-**Auditoria de Acesso**
+**Access audit**
 
-Nesta opção é apresentado o histórico dos acessos ao sistema (entradas e saídas)
+This option presents the history of system accesses (inputs and outputs).
 
-![Auditoria de Acesso](images/0cadfc5c8b44982b979f12f1856c51ad.png)
+![Access Audit](images/0cadfc5c8b44982b979f12f1856c51ad.png)
 
-**Auditoria de Chave**
+**Key audit**
 
-Nesta opção de auditoria informa as licenças utilizadas para a validação do sistema.
+In this audit option, it informs the licenses used for the validation of the system.
 
-![Auditoria de Chave](images/e98e9f6f9fc8c617205888a0c618d2c5.png)
+![Key Audit](images/e98e9f6f9fc8c617205888a0c618d2c5.png)
 
-### App Mobile Field Service
+### Mobile Field Service App
 
-O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
+The App FS was created to give more flexibility and agility in field service. App features can run offline and then synchronized easily.
 
 ![App FS](images/a4aa24d9854f27a3b7f0c1c78594f283.png)
 
@@ -330,13 +330,13 @@ O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 ![App FS](images/4ebf0054cd4a342fcc282ad1ad90560d.png)
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[For further information...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 ### App Service Management
 
-O App Mobile SM foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
+The Mobile SM App was created so that the features and benefits of the CITSmart solution can also be accessed via mobile devices, this new version includes notifications for the Android operating system and the possibility of confirmation for attendance via subscription.
 
-[Saiba mais](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[For further information](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
 ![App Mobile SM](images/74835ae6d648d6b2379495e4ba85f700.png)
 
