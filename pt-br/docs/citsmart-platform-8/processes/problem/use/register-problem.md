@@ -34,6 +34,8 @@ Procedimento
     a execução dos problemas, tais como: o título e descrição do problema, o
     contrato a qual está vinculado, dentre outros;
     
+6. Indique o Impacto, Urgência e Gravidade para indicar a priorização do problema 
+    
     !!! Abstract "ATENÇÃO"
         É necessário definir se o problema a ser cadastrado é um problema de
         natureza reativo a um contratempo encontrado ou é uma simples prática
