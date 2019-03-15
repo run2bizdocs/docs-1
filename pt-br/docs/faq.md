@@ -688,6 +688,10 @@ Perguntas Frequentes - FAQ
     - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
     - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
     
+??? Question "É possível versionar um conhecimento na gestão do conhecimento?"
+    
+    Para versionar um conhecimento, abra o conhecimento desejado na interface de gestão do conhecimento, clique em editar, na tela de informações do conhecimento, clique em "Versionar". É porsível também "Arquivar a versão anterior" do conhecimento clicando no botão própria.
+    
 ??? Question "Quais as permissões necessárias na pasta de destino do backup da tabela Logdados?"
     
     A permissões na pasta devem ser de leitura e gravação para o usuário que o JBoss utiliza.
