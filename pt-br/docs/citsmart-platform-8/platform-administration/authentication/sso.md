@@ -76,25 +76,21 @@ Configurar o servidor Wildfly
 2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
     a pasta standalone/configuration (wildfly):
     
-```sh
-[libdefaults]
-default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
-[realms]
-```
-
-        citgosrv004.cit.local  = {
-             
-            kdc = citsmartsrv.citsmartsrv.bigdata-team.com
-         
-            default_domain = citsmartsrv.citsmartsrv.bigdata-team.com
-         
-        }
-         
+    ```sh
+    [libdefaults]
+    default_tkt_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+    default_tgs_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+    permitted_enctypes = aes256-cts-hmac-sha1-96 aes128-cts-hmac-sha1-96 rc4-hmac
+    [realms]
+    ```
+    
+    ```sh
+    citgosrv004.cit.local  = {
+    kdc = citsmartsrv.citsmartsrv.bigdata-team.com
+    default_domain = citsmartsrv.citsmartsrv.bigdata-team.com     
+    }     
     [domain_realm]
-     
-        .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com     
+    .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com     
     ```
     
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
