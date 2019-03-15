@@ -37,13 +37,13 @@ Figure 1 - Identification
 
 2.	Fill the information with:
 
-a)	The Database Connection created;
+    1.	The Database Connection created;
 
-b)	The Database Scheme name;
+    2.	The Database Scheme name;
 
-c)	Type, whether view or table;
+    3.	Type, whether view or table;
 
-d)	The Name in Database of the business object.
+    4.	The Name in Database of the business object.
 
 
 ![business](images/neuro-10.jpg)
