@@ -95,19 +95,15 @@ Configurar o servidor Wildfly
     
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
 
-        custom-client {
-
-            com.sun.security.auth.module.Krb5LoginModule required
-
-            storeKey=true
-
-            useKeyTab=true
-
-            keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
-  
-            principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
-
-        };
+    ```sh
+    custom-client {
+    com.sun.security.auth.module.Krb5LoginModule required
+    storeKey=true
+    useKeyTab=true
+    keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
+    principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
+    };
+    ```
 
 1.  Copiar o arquivo lightkeytab.keytab (gerado pelo comando no AD) para a pasta
     standalone/configuration (wildfly)
