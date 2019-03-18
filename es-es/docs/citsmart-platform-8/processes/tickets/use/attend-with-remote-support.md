@@ -1,6 +1,6 @@
 title:  Atención con soporte remoto 
 Description: La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
-#Atención con soporte remoto
+# Atención con soporte remoto
 La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
 Con la atención remota es posible ver el historial de atenciones de este tipo, contribuyendo así con informaciones para un posible proceso de auditoría.
 
@@ -32,11 +32,9 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
-
 [Configurar acceso remoto](/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)
 
 !!! tip "About"
 
