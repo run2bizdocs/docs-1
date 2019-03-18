@@ -140,19 +140,21 @@ Figura 4 - Botão Pesquisar
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
 
-    !!! Warning "Versionamento"  
+!!! Warning "Versionamento"  
 
-        Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
-        indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
+    Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
+    indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
 
-    !!! Abstract "ATENÇÃO"  
 
-        **PRIVACIDADE** Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
-        corre-se o risco de disponibilizar documentos de forma inadequada. Este
-        cenário desconsidera a configuração de perfil de acesso e libera o acesso do
-        documento a todos os usuários.
+!!! Abstract "ATENÇÃO"  
+
+    **PRIVACIDADE** Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
+    corre-se o risco de disponibilizar documentos de forma inadequada. Este
+    cenário desconsidera a configuração de perfil de acesso e libera o acesso do
+    documento a todos os usuários.
         
-        **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+
 
 Relacionado
 --------------------
