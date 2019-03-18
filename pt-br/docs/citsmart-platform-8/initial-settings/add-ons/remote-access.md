@@ -26,6 +26,7 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
     - CITSMART_LOGIN=admin
     - CITSMART_PASSWORD=********
     ```
+	
 3. Definir o diretorio para gravação dos vídeos (ex. /mp4);
 
     !!! success "Gravação de video"
