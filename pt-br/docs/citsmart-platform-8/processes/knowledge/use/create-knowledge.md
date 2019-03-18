@@ -21,6 +21,10 @@ Procedimento
     
 ## Registro, Relacionamentos e Notificação
 
+![aba](images/create-1.png)
+
+Figura 1 - Criar conhecimento
+
 -   1: Cadastro - registrar o documento;
 
 -   2: Documento Relacionado - permite vincular um conhecimento já existente ao
@@ -35,17 +39,23 @@ Procedimento
     acesso ao conhecimento, sendo possível notificá-los;
 
 -   6: Notificações - configura notificações da publicação, por e-mail e em
-    tela.
+    tela;
+    
+-   7: Versão - mostra todas as versões daquele documento.    
 
     
-    !!! Abstract "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
-        Para que a aba Item de Configuração esteja disponibilizada, o documento
-        deverá estar salvo.
+    Para que a aba Item de Configuração esteja disponibilizada, o documento
+    deverá estar salvo.
   
 ## Conformidade
 
-*Opções:
+![aba](images/create-2.png)
+
+Figura 2 - Guia Opções
+
+*Opções*:
 
 -   Ger. Disponibilidade: o conhecimento é referente ao Gerenciamento de
     Disponibilidade ou não;
@@ -106,6 +116,10 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 ## Opções de publicação
 
+![aba](images/create-4.png)
+
+Figura 3 - Botão Opções
+
    Ao ter um conhecimento já registrado, o botão “Opções” apresenta outras
   ações:
 
@@ -118,25 +132,31 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 -   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
     Conhecimentos.
 
-    
- ## Outras opções   
+ ## Outras opções 
+ 
+ 
+ ![aba](images/create-3.PNG)
+
+Figura 3 - Botão Pesquisa
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
 
-    !!! Warning "Versionamento"  
+!!! Warning "Versionamento"  
 
-        Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
-        indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
+    Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
+    indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
 
-    !!! Abstract "ATENÇÃO"  
 
-        **PRIVACIDADE** Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
-        corre-se o risco de disponibilizar documentos de forma inadequada. Este
-        cenário desconsidera a configuração de perfil de acesso e libera o acesso do
-        documento a todos os usuários.
+!!! Abstract "ATENÇÃO"  
+
+    **PRIVACIDADE** Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
+    corre-se o risco de disponibilizar documentos de forma inadequada. Este
+    cenário desconsidera a configuração de perfil de acesso e libera o acesso do
+    documento a todos os usuários.
         
-        **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+
 
 Relacionado
 --------------------
@@ -151,3 +171,4 @@ Relacionado
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço
+    
