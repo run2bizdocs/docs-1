@@ -344,14 +344,17 @@ modulo ao standalone-full-ha.xml
     LOAD_FACTSERVICEREQUESTRULES = TRUE
     ```
 
-!!! warning
+!!! ATENÇÃO
+    
     Não esquecer de alterar o dono dos arquivos e diretórios para o usuário
     CITSmart.
 
 
 ## Criação de diretórios para instalação
 
-Não esquecer de alterar o dono do diretório /opt/citsmart
+!!! ATENÇÃO
+
+    Não esquecer de alterar o dono do diretório /opt/citsmart
 
 1. Criar os diretórios abaixo para serem configurados nos 3 passos de instalação web.
 
