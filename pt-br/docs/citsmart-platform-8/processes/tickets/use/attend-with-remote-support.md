@@ -31,16 +31,15 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar permissão de acesso da Gerência de Ticket][1]
+[Configurar acesso remoto][1]
 
-[Configurar acesso remoto][2]
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
     
-[1]:/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html
-[2]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+
+[1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
