@@ -2,7 +2,7 @@ Title: Frequently Asked Questions - FAQ
 
 Perguntas Frequentes - FAQ
 ---------------
-??? Question "É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?"
+??? Question "# É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?"
     O processo de riscos na mudança começa no desenho do portfólo de mudança aonde é indocado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificada ou completa.. o próximo passo é, no cadastro da mudança informar os dados do(s) riscos na carra lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
     "**Simplificada**"  para uma  análise Simplificada e no item.  
     "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
