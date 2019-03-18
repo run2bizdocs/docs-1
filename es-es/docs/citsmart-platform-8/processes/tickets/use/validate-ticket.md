@@ -21,8 +21,7 @@ Procedimiento
 3.  Certificar si la atención del ticket fue realizada de acuerdo con lo que se
     solicitó;
 
-4.  En la pestaña "Cierre" elegir la situación para la opción "Resuelta", completar
-    los datos para cerrar el ticket;
+4.  En la pestaña "Cierre" elegir la situación para la opción "Resuelta", completar los datos para cerrar el ticket;
     
     - Si el tipo de solicitud es "Incidente":
     
