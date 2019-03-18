@@ -2,7 +2,7 @@ title: Validate and close the ticket
 
 Description: After attend the ticket, its execution should be validated and the ticket closed.
 
-#Validate and close the ticket
+# Validate and close the ticket
 After attend the ticket, its execution should be validated and the ticket closed.
 
 Before getting started
