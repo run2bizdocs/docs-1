@@ -40,7 +40,7 @@ Procedimento
         cenário desconsidera a configuração de perfil de acesso e libera o acesso do
         documento a todos os usuários.
         
-        **SITUAÇÃO**, a Situação indica o processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+        **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
 
 Relacionado
 --------------------
