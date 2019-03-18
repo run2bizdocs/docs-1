@@ -7,7 +7,7 @@ Com o atendimento remoto é possível ver o histórico de atendimentos deste tip
 Antes de começar
 ----------------
 
-Inicialmente, a Gerência de Configuração precisa estar implementada e o processo de inventário precisa estar definido. Além disso, a funcionalidade de Acesso Remoto deve estar configurada. Por fim, o atendente deverá ter acesso ao Item de Configuração do solicitante.
+Inicialmente, a Gerência de Configuração precisa estar implementada e o processo de inventário deve estar definido. Além disso, a funcionalidade de Acesso Remoto deve estar configurada. Por fim, o atendente deverá ter acesso ao Item de Configuração do solicitante.
 
 Procedimento
 ------------
