@@ -20,11 +20,11 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 2. Configurar as propriedades do GUACD no servidor de aplicação;
 
     ```java "Propriedades"
-    - CITSMART_PROTOCOL=http
-    - CITSMART_URL=your-instance.citsmartcloud.com
-    - CITSMARTGUACD_ID=guacd_id
-    - CITSMART_LOGIN=admin
-    - CITSMART_PASSWORD=********
+    CITSMART_PROTOCOL=http
+    CITSMART_URL=your-instance.citsmartcloud.com
+    CITSMARTGUACD_ID=guacd_id
+    CITSMART_LOGIN=admin
+    CITSMART_PASSWORD=********
     ```
 	
 3. Definir o diretorio para gravação dos vídeos (ex. /mp4);
