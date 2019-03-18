@@ -135,7 +135,7 @@ Figura 3 - Botão Opções
  
  ![aba](images/create-3.PNG)
 
-Figura 3 - Botão Pesquisar
+Figura 3 - Botão Pesquisa
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
