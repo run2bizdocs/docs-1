@@ -447,7 +447,7 @@ You can create daemons as standard of your company or create solutions in the te
 
 **MongoDB Database Server**
 
-    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port27017
+    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port 27017
 
 **Apache Solr Indexing Server**
 
