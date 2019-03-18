@@ -7,8 +7,7 @@ Com o atendimento remoto é possível ver o histórico de atendimentos deste tip
 Antes de começar
 ----------------
 
-O atendente deverá ter acesso ao Item de Configuração do solicitante e realizar
-a configuração de acesso remoto.
+Inicialmente, a Gerência de Configuração precisa estar implementada e o processo de inventário precisa estar definido. Além disso, a funcionalidade de Acesso Remoto deve estar configurada. Por fim, o atendente deverá ter acesso ao Item de Configuração do solicitante.
 
 Procedimento
 ------------
