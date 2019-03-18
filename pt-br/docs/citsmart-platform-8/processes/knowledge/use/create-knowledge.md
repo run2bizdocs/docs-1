@@ -39,7 +39,9 @@ Figura 1 - Criar conhecimento
     acesso ao conhecimento, sendo possível notificá-los;
 
 -   6: Notificações - configura notificações da publicação, por e-mail e em
-    tela.
+    tela;
+    
+-   7: Versão - mostra todas as versões daquele documento.    
 
     
 !!! Abstract "ATENÇÃO"
