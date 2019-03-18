@@ -1,5 +1,7 @@
 title: Validate and close the ticket
+
 Description: After attend the ticket, its execution should be validated and the ticket closed.
+
 #Validate and close the ticket
 After attend the ticket, its execution should be validated and the ticket closed.
 
@@ -21,14 +23,26 @@ Procedure
 
 4.  In the "Closing" tab choose the situation for the "Solved" option, fill in the data to close the ticket;
 
-    !!! Abstract"NOTE"
-
-        In order for the "Write Solution/Knowledge  in the Knowledge Base" checkbox to be visible, check the Parameterization of the             Knowledge Management process.
-        
-    !!! Abstract"ATTENTION"
+    - If the type of request is "Incident":
     
-        The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is           also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
+         * Solution Category: select the category of the incident solution;
+         
+         * Cause Detail: describe the details of the incident cause;
+         
+         * Answer Solution: describe the details of the solution made to the incident attendance;
+         
+         * Save Solution/Answer in the Knowledge Base: in order to the checkbox "Save Solution/Answer in the Knowledge Base" is visible,
+           check the parametrization of the Knowledge Management process;
+           
+         * Justification of SLA expired: the visibility of this field is conditioned to the SLA status expired for the attendance in
+           question;
+           
+         * Temporary Solution: indicate if the activity performed to attend the incident was a temporary solution.
+         
+    - If the type of request is "Request", complete the field ""Answer Solution"", describe what was made to attend the service request.    
+      !!! Abstract "ATTENTION"
     
+          The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is           also possible to suggest a name for this new knowledge in the Title Knowledge Base field".   
 
 5.  Click on the "Option" button and definy the next step:
 
