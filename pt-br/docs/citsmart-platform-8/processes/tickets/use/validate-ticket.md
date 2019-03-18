@@ -2,7 +2,7 @@ title: Validar e encerrar o ticket
 
 Description: Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
-#Validar e encerrar o ticket
+# Validar e encerrar o ticket
 Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
 Antes de começar
@@ -26,7 +26,7 @@ Procedimento
 4.  Na guia “Fechamento” escolher a situação para a opção “Resolvida”, preencher
     os dados para encerrar o ticket;
 
-    - Se o tipo de solicitação dor "Incidente":
+    - Se o tipo de solicitação for "Incidente":
 
         * Categoria de Solução: selecionar a categoria de solução do incidente;
      
@@ -48,7 +48,7 @@ Procedimento
 
         Os passos de resolução do Ticket poderão ser sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É             possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
  
-1.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
+5.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
      -   “Gravar e manter a tarefa atual”;
 
