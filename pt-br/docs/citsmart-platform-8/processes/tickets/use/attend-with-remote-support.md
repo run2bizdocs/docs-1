@@ -43,5 +43,5 @@ Relacionado
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
     
-[1]:/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.md
-[2]:/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.md
+[1]:/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.md
+[2]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.md
