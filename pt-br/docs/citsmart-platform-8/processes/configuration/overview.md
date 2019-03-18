@@ -1,6 +1,6 @@
 title: Gerenciamento de Configuração
 Description: This functionality allows to identify, register and manage the Configuration Items (CI).
-#Gerenciamento de Configuração
+# Gerenciamento de Configuração
 
 Apresentação
 ----------------
