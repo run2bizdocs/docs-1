@@ -21,6 +21,10 @@ Procedimento
     
 ## Registro, Relacionamentos e Notificação
 
+![aba](images/create-1]
+
+Figura 1 - Criar conhecimento
+
 -   1: Cadastro - registrar o documento;
 
 -   2: Documento Relacionado - permite vincular um conhecimento já existente ao
@@ -38,14 +42,18 @@ Procedimento
     tela.
 
     
-    !!! Abstract "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
-        Para que a aba Item de Configuração esteja disponibilizada, o documento
-        deverá estar salvo.
+    Para que a aba Item de Configuração esteja disponibilizada, o documento
+    deverá estar salvo.
   
 ## Conformidade
 
-*Opções:
+![aba](images/create-2]
+
+Figura 2 - Guia Opções
+
+*Opções*:
 
 -   Ger. Disponibilidade: o conhecimento é referente ao Gerenciamento de
     Disponibilidade ou não;
@@ -106,6 +114,10 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 ## Opções de publicação
 
+![aba](images/create-3]
+
+Figura 3 - Botão Opções
+
    Ao ter um conhecimento já registrado, o botão “Opções” apresenta outras
   ações:
 
@@ -119,7 +131,11 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
     Conhecimentos.
 
     
- ## Outras opções   
+ ## Outras opções  
+ 
+ ![aba](images/create-4]
+
+Figura 4 - Botão Pesquisar
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
