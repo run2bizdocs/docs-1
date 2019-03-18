@@ -31,4 +31,12 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
     !!! success "Gravação de video"
     Após o encerramento da sessão de acesso remoto, o vídeo gerado entra em uma fila de copilação para então ser disponilizado na plataforma. O tempo de compilação dempenderá do tempo de sessão, além disso, o início da compilão está atrelado à rotina cron definiada na conexão de acesso remoto.
     
-4. 
+## O que fazer a seguir
+
+Com o serviço do GuaCD ativo e comunicável, o próximo passao e criar uma conexão de acesso remoto em sua instância e testar o recurso.
+
+## Relacionados
+
+[Criar conexão com o servidor de acesso remoto][1]
+
+[1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
