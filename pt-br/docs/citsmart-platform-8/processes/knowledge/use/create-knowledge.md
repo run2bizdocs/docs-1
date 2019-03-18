@@ -130,8 +130,8 @@ Figura 3 - Botão Opções
 -   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
     Conhecimentos.
 
-    
- ## Outras opções  
+ ## Outras opções 
+ 
  
  ![aba](images/create-3.PNG)
 
