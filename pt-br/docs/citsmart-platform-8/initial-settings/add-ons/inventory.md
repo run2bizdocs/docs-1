@@ -1,6 +1,6 @@
-Title: Habilitar o CITSmart Inventory
+Title: Implementar o CITSmart Inventory
 
-# Habilitar o CITSmart Inventory
+# Implementar o CITSmart Inventory
 
 O CITSmart Inventory é um componente da Plataforma CITSmart que permite coletar, registrar e gerenciar informações de ativos de T.I. Ele possibilita gerenciar o ciclo de vida dos itens de configuração de sua organização a partir do processo de Gerenciamento de Configuração.  
 
