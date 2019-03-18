@@ -10,8 +10,9 @@ With the remote attendance, it's possible to see the attendance history of this 
 Before getting started
 --------------------------
 
-The attendant should have access to the Configuration Item of the requester and
-configure the remote access.
+To begin with, the Configuration Management needs to be implemented and the inventory 
+process must be defined. In addition, the Remote Access feature must be configured.
+Finally, the attendant must have access to the requester's Configuration Item.
 
 Procedure  
 -------------
