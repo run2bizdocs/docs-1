@@ -2,7 +2,7 @@ title: Validar e encerrar o ticket
 
 Description: Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
-#Validar e encerrar o ticket
+# Validar e encerrar o ticket
 Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
 Antes de começar
@@ -23,10 +23,37 @@ Procedimento
 3.  Certificar se o atendimento do ticket foi realizado de acordo com o que foi
     solicitado;
 
-4.  No campo **Registro de Execução**, descrever as informações sobre a execução
-    da atividade;
+4.  Na guia “Fechamento” escolher a situação para a opção “Resolvida”, preencher
+    os dados para encerrar o ticket;
 
-5.  Clicar no botão opções e em seguida gravar para efetuar a operação.
+    - Se o tipo de solicitação for "Incidente":
+
+        * Categoria de Solução: selecionar a categoria de solução do incidente;
+     
+        * Detalhamento da Causa: descrever os detalhes da causa do incidente; 
+     
+        * Solução Resposta: descrever os detalhes da solução que foi realizada para atendimento do incidente; 
+     
+        * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
+          visível, verificar a parametrização do processo de Gestão do Conhecimento;
+     
+        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em                 questão; 
+     
+        * Solução Temporária: indicar se a atividade realizada para atendimento do incidente foi uma solução temporária.
+
+
+    - Se o tipo de solicitação for "Requisição", preencher o campo ""Solução Resposta"", descrever o que foi realizado para atendimento       da requisição de serviço.
+ 
+    !!! Abstract "ATENÇÃO"
+
+        Os passos de resolução do Ticket poderão ser sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É             possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
+ 
+5.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
+
+     -   “Gravar e manter a tarefa atual”;
+
+     -   “Gravar e avançar o fluxo”.
+
 
 Relacionado
 -----------

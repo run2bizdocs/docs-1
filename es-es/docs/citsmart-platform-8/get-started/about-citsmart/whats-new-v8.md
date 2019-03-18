@@ -1,135 +1,135 @@
-Title: O que há de novo no CITSmart 8.0?
-Description: Descreve O que há de novo no CITSmart 8.0
+Title: ¿Qué hay de nuevo en CITSmart 8.0?
+Description: Describe lo que hay de nuevo en CITSmart 8.0
 
-O que há de novo no CITSmart 8.0?
+¿Qué hay de nuevo en CITSmart 8.0?
 =================================
 
-Uso da Logomarca e Login
+Uso del Logotipo e Inicio de Sesión
 ------------------------
 
-O uso da imagem CITSmart foi otimizada para melhorar o uso de dados, bem como a aplicação dentro da solução, tornando mais simples, leve e adequada para os novos direcionamentos do produto.
+El uso de la imagen CITSmart ha sido optimizada para mejorar el uso de datos, así como la aplicación dentro de la solución, haciéndola más simple, ligera y adecuada para los nuevos direccionamientos del producto.
 
-![Novo acesso do CITSmart](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+![Nuevo acceso de CITSmart](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
 
-Centro de Experiência
+Centro de Experiencia
 ---------------------
 
-Através do Centro de Experiência é possível construir portais de relacionamento com identidade visual própria para clientes, fornecedores e colaboradores, promovendo visibilidade e colaboração.
+A través del Centro de Experiencia, es posible construir portales de relación con identidad visual propia para clientes, proveedores y colaboradores, promoviendo visibilidad y colaboración.
 
-![Centros de Experiência](images/b3f8b1578f498d74c13b9e3797ce265a.png)
+![Centros de Experiencia](images/b3f8b1578f498d74c13b9e3797ce265a.png)
 
-Cada Centro de Experiência possui páginas dinâmicas com a opção de widgets de:
+Cada centro de experiencia tiene páginas dinámicas, con la opción de widgets de:
 
-*   Portfólios
-*   Requisições
-*   Aprovações
-*   Centro de Conhecimento
-*   Aplicações Neuro
+*   Portafolios
+*   Solicitudes
+*   Aprobaciones
+*   Centro de Conocimiento
+*   Aplicaciones Neuro
 *   Workspaces
-*   Notícias
-*   Notificações
-*   Pesquisas
+*   Noticias
+*   Notificaciones
+*   Búsquedas
 *   Youtube
-*   Imagens
-*   Menu
+*   Imágenes
+*   Menú
 *   Lista
 *   Texto
 *   Chat
 *   Voip
-*   Entre outros
+*   Entre otros
 
-Centros de Experiência poderão ser criados de acordo com perfis de acesso e necessidades das áreas de negócio.
+Los Centros de Experiencia se pueden crear de acuerdo con perfiles de acceso y necesidades de las áreas de negocio.
 
-![Criação de CE](images/image001.png)
+![Crear CE](images/image001.png)
 
-![Visualização de um CE](images/db062d281d82abfa78db1df0faecd0bf.png)
+![Visualización de un CE](images/db062d281d82abfa78db1df0faecd0bf.png)
 
-### Widget de Portfólio
+### Widget de Portafolio
 
-É utilizado no Centro de Experiência para listar os Portfólios com seus Serviços e Requisições, podendo substituir o uso do portal de serviços.
+Se utiliza en el Centro de Experiencia para listar los Portafolios con sus Servicios y Solicitudes, pudiendo sustituir el uso del portal de servicios.
 
-![Portfólios do usuário logado](images/2b7bd70982826c5495cd89a5dfb80bad.png)
+![Portafolios del usuario conectado](images/2b7bd70982826c5495cd89a5dfb80bad.png)
 
-### Widget Minhas Requisições
+### Widget Mis Solicitudes
 
-Lista os tickets do usuário logado **(a.)**, disponibiliza um histórico do atendimento com linha do tempo **(b.)** e permite ao solicitante adicionar notas e comentários **(c.)**, notificar o atendente por e-mail ou também é possível utilizar o **bate papo** com o atendente **(d.)**.
+Lista los tickets del usuario conectado **(a.)**, ofrece un historial de atención con línea de tiempo **(b.)**, permite al solicitante añadir notas y comentarios **(c.)**, notificar el asistente por correo electrónico o también utilizar el **chat** con el asistente **(d.)**.
 
-![a-Tickets do usuário logado](images/f8f7645a6a8aeae523e7f3f6d2137be7.png)
+![a-Tickets del usuario conectado](images/f8f7645a6a8aeae523e7f3f6d2137be7.png)
 
-![b-Linha do Tempo do Ticket](images/220a052a9327a9e9449c2a944197c0fb.png)
+![b-Línea de tiempo del ticket](images/220a052a9327a9e9449c2a944197c0fb.png)
 
-![c-Notas para o Atendente](images/8932518c8dc4682676b26be17ca8790f.png)
+![c-Notas para el asistente](images/8932518c8dc4682676b26be17ca8790f.png)
 
-![d-Chat com o Atendente](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
+![d-Chat con el asistente](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
 
-Saiba mais **XXXXXXX (colocar link do CE)**
+Para más información **XXXXXXX (colocar link do CE)**
 
-### Widget Minhas Aprovações
+### Widget Mis Aprobaciones
 
-Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone aprovar **(a.)**, é possível visualizar os detalhes do ticket e aprovar ou não **(b.)**.
+Aprobar un ticket por el CITSmart se hizo más simple, basta hacer clic en el icono aprobar **(a.)**, es posible visualizar los detalles del ticket y aprobarlo o no **(b.)**.
  
-![a-Aprovar uma tarefa](images/e9319f0fc18517cbd276c36493165f1f.png)
+![a-Aprobar una tarea](images/e9319f0fc18517cbd276c36493165f1f.png)
 
-![b-Visualização do Ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
+![b-Visualización del ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
 
-Menus
+Menús
 ----
 
-Internamente os menus sofreram reorganização e agora estão dispostos à esquerda, com possibilidade de consulta e ocultação, melhorando o espaço de trabalho na plataforma.
+Internamente, los menús han sufrido reorganización y ahora están dispuestos a la izquierda, con posibilidad de consulta y ocultación, mejorando el espacio de trabajo en la plataforma.
 
-![Menu de Opções do CITSmart](images/1001e25892abe90fac65435e1046ce70.png)
+![Menú de Opciones de CITSmart](images/1001e25892abe90fac65435e1046ce70.png)
 
 Smart Decisions
 ---------------
 
-Permite manter e visualizar áreas de trabalho por usuário com :
+Permite mantener y visualizar áreas de trabajo por usuario con:
 
 * Widgets de dashboards
-* Relatórios nativos e
-* Relatórios construídos na plataforma. 
+* Informes nativos y
+* Informes construidos en la plataforma. 
 
-**Cada usuário pode configurar sua própria área com uma ou mais abas.**
+**Cada usuario puede configurar su propio área con una o más pestañas.**
 
 ![](images/5713bcb2ea7cd2b39c8c2eeb26e082c8.png)
 
-Acesso Rápido
+Acceso Rápido
 -------------
 
-Novos ícones e área de acesso rápido aos processos e portais foram disponibilizados no área superior da plataforma de forma a tornar mais simples e prático o acesso às funcionalidades do CITSmart. 
+Nuevos íconos y área de acceso rápido a los procesos y portales fueron puestos a disposición en el área superior de la plataforma para hacer más sencillo y práctico el acceso a las funcionalidades del CITSmart. 
 
-![Acesso Rápido](images/872ec514a50a5df0fc1c52dbe939726a.png)
+![Acceso Rápido](images/872ec514a50a5df0fc1c52dbe939726a.png)
 
-Gestão de Tickets
+Gestión de Tickets
 -----------------
 
-Seu novo layout apresenta informações de forma mais estruturada em um menu lateral com opção de ocultar, uma melhoria significativa de performance e experiência do usuário **(a.)** . Na criação de tickets há uma nova busca multinível que permite pesquisar por portfólios, serviços e atividade de forma visual e rápida (não é  mais disponibilizado filtro por categoria) **(b.)**, É possível acompanhar graficamente a execução do fluxo **(c.)**. O atendente pode enviar mensagem ao solicitante e notificá-lo por e-mail **(d.)**.
+Su nuevo diseño presenta información de forma más estructurada, en un menú lateral, con opción de ocultar; una mejora significativa de rendimiento y experiencia del usuario **(a.)** . En la creación de tickets hay una nueva búsqueda multinivel que permite buscar por portafolios, servicios y actividad de forma visual y rápida (ya no está disponible el filtro por categoría) **(b.)**. Es posible acompañar gráficamente la ejecución del flujo **(c.)**. El asistente puede enviar un mensaje al solicitante y notificarlo por correo electrónico **(d.)**.
 
-![a-Atendimento do ticket](images/bb667d3d68742a2fa5e32118034b5043.png)
+![a-Atención del ticket](images/bb667d3d68742a2fa5e32118034b5043.png)
 
-![b-Seleção de portfólio](images/cc35b86d242b00d9cd5889f8bc00e9de.png)
+![b-Selección de portafolio](images/cc35b86d242b00d9cd5889f8bc00e9de.png)
 
-![c-Fluxo do atendimento](images/627e79b1f81043ca8ce213488105218b.png)
+![c-Flujo de atención](images/627e79b1f81043ca8ce213488105218b.png)
 
-![d-Mensagem ao Solicitante](images/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
+![d-Mensaje al Solicitante](images/bf42cf4bb39d0ce0ef978b6f59e9a200.png)
 
-O registro de ocorrências foi substituído por um registro de notas e comentários com a possibilidade de notificar o solicitante por e-mail, lançar horas de atendimento e controlar a visualização dos registros **(a.)**, e toda a execução do fluxo e registros do atendimento como a captura, delegação, suspensão, SLA etc são exibidos em um histórico no formato de linha do tempo. As mensagens com o solicitante também são guardadas aqui **(b.)**.
+El registro de ocurrencias ha sido sustituido por un registro de notas y comentarios con la posibilidad de notificar al solicitante por correo electrónico, contabilizar horas de atención y controlar la visualización de los registros **(a.)**. Toda la ejecución del flujo y registros de la atención, como la captura, delegación, suspensión, SLA y otros, se muestran en un historial en el formato de línea de tiempo. Los mensajes con el solicitante también se guardan aquí **(b.)**.
 
-![a-Notas e comentários](images/6573c4b0693d0895d348925f064471ab.png)
+![a-Notas y comentarios](images/6573c4b0693d0895d348925f064471ab.png)
 
-![b-Histórico de Ticket](images/aeec7370d6911b8d6752dea07110160d.png)
+![b-Historial de Ticket](images/aeec7370d6911b8d6752dea07110160d.png)
 
-Agora, assim que uma nova Solução de Contorno é criada, automaticamente é disparada uma notificação para o responsável pelo Incidente **(a.)** e é possível visualizar a solução de contorno e copiar o conteúdo para o fechamento do incidente, preenchendo a causa e solução resposta **(b.) (c.)**.
+Ahora, una vez que se crea una nueva Solución de Contorno, automáticamente se dispara una notificación al responsable del incidente **(a.)**. Además, puede ver la solución de contorno y copiar el contenido al cierre del incidente, completando la causa y solución de respuesta **(b.) (c.)**.
 
-![a-Notificação de solução de contorno](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
+![a-Notificación de solución de contorno](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
 
-![b-Solução de contorno](images/497f2cd45381eecb91a61e7ce5293534.png)
+![b-Solución de contorno](images/497f2cd45381eecb91a61e7ce5293534.png)
 
-![c-Detalhamento da Solução de Contorno](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
+![c-Detalle de la Solución de Contorno](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
 
-Simple - Gestão Ágil
+Simple - Gestión Ágil
 --------------------
 
-O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
+Simple ha traído el poder de la gestión ágil a la plataforma CITSmart, desarrollado para ayudar a los equipos a ser más colaborativos y participativos, aumentando la productividad y dando más autonomía y visibilidad a los miembros de una forma más simple y práctica **(a.)**. Cada equipo puede tener uno o más workspace **(b.)**, además de crear sprints con kanbans y fases, de acuerdo con cada necesidad **(c.)**.
 
 ![a-Simple](images/062f363d6c32e90c8b47eb3ff152b3b6.png)
 
@@ -138,179 +138,179 @@ O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenv
 ![c-Simple-Kanbans](images/bf1799ff10f7a0ffd777796cb6942783.png)
 
 
-Cada tarefa pode ter um ou mais membro. É possível adicionar:
+Cada tarea puede tener uno o más miembros. Se puede agregar:
 
 *   Checklists
 *   Comentários
-*   Estimativa
-*   Horas trabalhadas
+*   Estimación
+*   Horas trabajadas
 *   Tags
-*   Arquivos
-*   Ativar notificações etc.
+*   Archivos
+*   Activar notificaciones y otros.
 
-![Detalhamento da Tarefa](images/567ad02f39ebfa223c1670d3f51225bd.png)
+![Detalle de la Tarea](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-Saiba mais...  **XXXXXXX (colocar link do SIMPLE)**
+Para más información...  **XXXXXXX (colocar link do SIMPLE)**
 
-Gerenciamento de Problemas
+Gestión de Problemas
 --------------------------
 
-O Gerenciamento de Problemas foi redesenhado para dar mais agilidade, facilidade e praticidade ao trabalho das equipes. Com um novo painel de listagem e acompanhamento é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro de problemas, acessar lista de relatórios dinâmicos etc.
+La Gestión de Problemas se ha rediseñado para dar más agilidad, facilidad y practicidad al trabajo de los equipos. Con un nuevo panel de lista y seguimiento, se puede cambiar las columnas de visualización, activar la actualización automática, ver el progreso del flujo, buscar registro de problemas, acceder a la lista de informes dinámicos y otros.
 
-![Gerenciamento de problemas](images/2b3616dc46702da0d7db949534b570e5.png)
+![Gestión de problemas](images/2b3616dc46702da0d7db949534b570e5.png)
 
-Para facilitar a tratativa do problema, uma sequência de passos foi estruturada em um menu lateral. 
+Para facilitar el tratamiento del problema, una secuencia de pasos se ha estructurado en un menú lateral. 
 
-*   Informações do Solicitante
-*   Incidentes relacionados ao problema
+*   Informaciones del Solicitante
+*   Incidentes relacionados al problema
 *   Problema
 *   Diagnóstico
-*   Solução
-*   Revisão e Fechamento
+*   Solución
+*   Revisión y Cierre
 
-![Detalhamento do Problema](images/df5b817ae22b8cbec1532249518fa06a.png)
+![Detalle del Problema](images/df5b817ae22b8cbec1532249518fa06a.png)
 
-Agora é possível vincular e visualizar em uma mesma tela a lista de incidentes que geraram o problema **(a.)**. O registro de problema passou a utilizar o conceito de portfólio de templates **(b.)**, os templates são pré-cadastrados com fluxo de atendimento, grupo responsável, status etc, tornando mais prática a criação, classificação e atendimento dos problemas **(c.)**.
+Ahora es posible vincular y visualizar en una misma pantalla la lista de incidentes que generaron el problema **(a.)**. El registro de problemas pasó a utilizar el concepto de portafolio de plantillas **(b.)**, las plantillas son pre-registradas con flujo de atención, grupo responsable, status y otros, haciendo más práctica la creación, clasificación y atención de los problemas **(c.)**.
 
-![a-Incidentes de um problema](images/4977321406008c911b7444314ac0adfd.png)
+![a-Incidentes de un problema](images/4977321406008c911b7444314ac0adfd.png)
 
 ![b-Registro de problema](images/e152a1d12831448bc0d9f48ffa66286b.png)
 
-![c-Templates de problema](images/a7a6fce9a4d15ccfba902b7336f28625.png)
+![c-Plantilla de problema](images/a7a6fce9a4d15ccfba902b7336f28625.png)
 
-Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e a Lista de seus ICs.**(a.)**, Basta dois clicks no IC para visualizar os detalhes **(b.)** e a partir da lista de ICs é possível vincular os que estão relacionados ao problema **(c.)**.
+Al Vincular un Servicio al Problema, es posible visualizar el Mapa del Servicio y la Lista de sus EC.**(a.)**, basta hacer doble clic en el EC para ver los detalles **(b.)** y de la lista de EC, es posible vincular a los que están relacionados con el problema **(c.)**.
 
-![a-Lista de IC´s](images/9127dbc4c5b76c7d2590f34ffe39910e.png)
+![a-Lista de EC](images/9127dbc4c5b76c7d2590f34ffe39910e.png)
 
-![b-Detalhamento do IC](images/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
+![b-Detalle del EC](images/d4f3dacb46751c1e113ee5cbdbb9c6ee.png)
 
 ![c-Vínculo de IC´s](images/0e21053d9b0622ca3a6c85408fb8b198.png)
 
-Uma nova área de diagnóstico foi criada e permite que através do Simple, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência **(a.)**, O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é registrada **(b.)**.
+Una nueva área de diagnóstico fue creada y permite que, a través del Simple, más personas o equipos trabajen colaborativamente en el análisis del problema, trayendo agilidad y eficiencia **(a.)**. El registro de error conocido, causa raíz y soluciones de contorno también están más fáciles. Una nueva notificación se envía al responsable del incidente tan pronto como se registra cada solución de contorno **(b.)**.
 
-![a-Diagnóstico do problema](images/e2d50a9ba88ef6bae994d140c60f1ee8.png)
+![a-Diagnóstico del problema](images/e2d50a9ba88ef6bae994d140c60f1ee8.png)
 
-![b-Registro de solução de contorno e causa raiz](images/ab12ab8681a2cb4f83dc5fe0c634997c.png)
+![b-Registro de la solución de contorno y causa raiz](images/ab12ab8681a2cb4f83dc5fe0c634997c.png)
 
-Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
+También hay una nueva área de Solución con vínculo directo al Simple y a los registros de cambio, permitiendo que el diseño, desarrollo e implantación de la solución sea más ágil y colaborativo, alcanzando mejores resultados **(a.)**. La guía de Revisión y Cierre permite informar si el problema se ha resuelto con éxito o no. También es posible registrar lecciones aprendidas, abrir sprints para problemas cuya revisión involucra a más personas o equipos **(b.)**.
 
-![a-Registro de solução](images/eb1061a11eee5d9119bb12ab37080266.png)
+![a-Registro de la solución](images/eb1061a11eee5d9119bb12ab37080266.png)
 
-![b-Revisão e fechamento](images/d1376fef59089e5eb76c3aebfbefa180.png)
+![b-Revisión y cierre](images/d1376fef59089e5eb76c3aebfbefa180.png)
 
-Saiba mais... **XXXXXXX (colocar link do problema)**.
+Para más información... **XXXXXXX (colocar link do problema)**.
 
-Gerenciamento de Configuração e Ativos
+Gestión de Configuración y Activos
 --------------------------------------
 
-Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática, o painel de Gerenciamento de Configuração e Ativos foi reformulado considerando a melhor experiência para o usuário, A nova busca permite filtrar por grupos, tipos, alertas e identificação. 
+Con el objetivo de hacer la búsqueda y visualización de EC más rápida y práctica, el panel de Gestión de Configuración y Activos fue reformulado, considerando la mejor experiencia para el usuario. La nueva búsqueda permite filtrar por grupos, tipos, alertas e identificación. 
 
-![Painel de Gerenciamento de Configuração e Ativo](images/5969571c75155fa972a05d9bd11f0ce1.png)
+![Panel de Gestión de Configuración y Activo](images/5969571c75155fa972a05d9bd11f0ce1.png)
 
-O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação entre as estruturas do CMDB **(a.)**, O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes, Problemas, Mudanças e Liberação abertos **(b.)**, os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de ICs que possuem **(c.)** e ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o quantitativo de ICs de acordo com a identificação **(d.)**.
+El panel dispone de un nuevo Widget de Grupos que permite el acceso y la navegación entre las estructuras del CMDB **(a.)**. El Widget de Alertas muestra la lista de EC con el cuantitativo de Incidentes, Problemas, Cambios y Liberación abiertos **(b.)**. Los tipos de EC también están dispuestos en un nuevo Widget con el cuantitativo de EC que poseen **(c.)** y al acceder al tipo, la lista de EC se muestra de forma agrupada y con el cuantitativo de EC de acuerdo con la identificación **(d.)**.
 
-![a-Detalhamento do CMDB](images/7d07d4c5e47622c8783b03a703519a9c.png)
+![a-Detlle del CMDB](images/7d07d4c5e47622c8783b03a703519a9c.png)
 
 ![b-Alertas CMDB](images/51211a646f78df95873b9a02f9fe5825.png)
 
-![c-Tipos de IC](images/ff19e397e646d76b77cbe29fba24ff61.png)
+![c-Tipos de EC](images/ff19e397e646d76b77cbe29fba24ff61.png)
 
-![d-Detalhamento por tipo de IC](images/f36b03ea093f9e45e58a7a6d72205e66.png)
+![d-Detalle por tipo de EC](images/f36b03ea093f9e45e58a7a6d72205e66.png)
 
-A visualização do IC também foi otimizada. Agora as principais informações e características do IC são exibidas na área Geral **(a.)** e as informações de garantia também são exibidas em um novo Widget **(b.)**.
+La visualización del EC también fue optimizada. Ahora las principales informaciones y características del EC se muestran en el área General **(a.)** y la información de garantía también se muestra en un nuevo Widget **(b.)**.
 
-![a-Detalhamento do IC](images/e293534d3f12db8aac9556635acd390b.png)
+![a-Detalle del EC](images/e293534d3f12db8aac9556635acd390b.png)
 
-![b-Garantias do IC](images/065a32778b352c6c59dbc7b2ab64726c.png)
+![b-Garantías del EC](images/065a32778b352c6c59dbc7b2ab64726c.png)
 
-Saiba mais...  **XXXXXXX (colocar link do Configuração e CMDB)**
+Para más información...  **XXXXXXX (colocar link do Configuração e CMDB)**
 
-Gerenciamento de Mudanças
+Gestión de Cambio
 -------------------------
 
-O CITSmart evoluiu o Gerenciamento de Mudanças para dar mais agilidade, segurança e praticidade as mudanças em ambientes que vão além da TI . Com um novo painel de listagem é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro, acessar lista de relatórios dinâmicos etc.
+CITSmart evolucionó la Gestión de Cambios para dar más agilidad, seguridad y practicidad a los cambios en ambientes que van más allá de la TI. Con un nuevo panel de lista, puede cambiar las columnas de visualización, activar la actualización automática, ver el progreso del flujo, buscar registro, acceder a la lista de informes dinámicos, entre otros.
 
-![Gerenciamento de mudanças](images/2b3616dc46702da0d7db949534b570e5.png)
+![Gestión de cambios](images/2b3616dc46702da0d7db949534b570e5.png)
 
-Para facilitar o atendimento, a seguinte sequência de passos foi estruturada no menu lateral:
+Para facilitar la atención, la siguiente secuencia de pasos fue estructurada en el menú lateral:
 
-*   Informações do solicitante
-*   Informações da requisição de mudança
-*   Planejamento da mudança
-*   Plano de reversão
-*   Revisão e fechamento
-*   ICs relacionados
+*   Informaciones del solicitante
+*   Informaciones de la solicitud de cambio
+*   Planificación del cambio
+*   Plan de reversión
+*   Revisión y cierre
+*   EC relacionado
 
-![Detalhamento da mudança](images/6fd68d3e593c52c8b655cb4ec65def7c.png)
+![Detalle del cambio](images/6fd68d3e593c52c8b655cb4ec65def7c.png)
 
-Para facilitar a organização e a classificação dos registros de mudança, o CITSmart passou a utilizar o conceito de Portfólio de Mudanças, permitindo pré-configurar templates com fluxo de atendimento, calendário, grupos responsáveis etc **(a.)**, e a classificação da mudança se tornou muito mais simples e ágil **(b.)**.
+Para facilitar la organización y la clasificación de los registros de cambio, CITSmart pasó a utilizar el concepto de Portafolio de Cambios, permitiendo pre-configurar plantillas con flujo de atención, calendario, grupos responsables y otros **(a.)**. Además, la clasificación del cambio se ha vuelto mucho más simple y ágil **(b.)**.
 
-![a-POrtfólio de mudança](images/a9c055027ea4f7f37d82a04d76cadedf.png)
+![a-Portafolio de cambio](images/a9c055027ea4f7f37d82a04d76cadedf.png)
 
-![b-Classificação da mudança](images/72c29210c9051f466a24661d42b27012.png)
+![b-Clasificación del cambio](images/72c29210c9051f466a24661d42b27012.png)
 
-Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painél de gestão ágil (Conceito "Simple"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
+También es posible vincular a las plantillas los formularios de análisis ágil de riesgo. Cada plantilla de cambio puede utilizar un formulario con preguntas y pesos. De acuerdo con el análisis, un gráfico de riesgo se presenta **(a.)**. OLa Planificación, Reversión, Revisión y Cierre del cambio ahora cuentan con un panel de gestión ágil (concepto "Simple"), así que varios equipos pueden realizar tareas de forma rápida, transparente y colaborativa **(b.)**.
 
 
-![a-Gráfico de análise de risco](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
+![a-Gráfico de análisis de riesgo](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
 
-![b-Planejamento da mudança](images/954f437a8fdf2424fec8ac01a04c2f48.png)
+![b-Planificación del cambio](images/954f437a8fdf2424fec8ac01a04c2f48.png)
 
-Na Revisão e fechamento da mudança, além de informar se a mudança foi realizada com sucesso ou não, também é possível vincular um formulário para análise da qualidade da mudança, além do vínculo com Incidentes, Problemas, Lições aprendidas etc.
+En la Revisión y cierre del cambio, además de informar si el cambio fue hecho con éxito o no, también es posible vincular un formulario para analizar la calidad del cambio, además del vínculo con Incidentes, Problemas, Lecciones aprendidas y otros.
 
-![Revisão e fechamento](images/e537aa0813efbcd3645310829c2be25e.png)
+![Revisión y cierre](images/e537aa0813efbcd3645310829c2be25e.png)
 
-Saiba mais...  **XXXXXXX (colocar link da Mudança)**.
+Para más información...  **XXXXXXX (colocar link da Mudança)**.
 
-### Gerenciamento de Liberação e Implantação
+### Gestión de Liberación e Implementación
 
-O processo de Gerenciamento de Liberação e Implantação também passou por evoluções. O painel de listagem segue o mesmo padrão apresentado nos processos de Gerenciamento de Problema e de Mudança.
+El proceso de Gestión de Liberación e Implementación también pasó por evoluciones. El panel de lista sigue el mismo patrón que se muestra en los procesos de Gestión de Problema y Cambio.
 
-![Gerenciamento de Liberação](images/2156515c0b739dfea8febf3559ed4e69.png)
+![Gestión de Liberacíon](images/2156515c0b739dfea8febf3559ed4e69.png)
 
-No menu lateral foi estruturado uma sequência de passos para facilitar o acompanhamento da liberação **(a.)**,  e as mudanças empacotadas para liberação são apresentadas na mesma tela, facilitando o acompanhamento **(b.)**. O Planejamento e a Implantação agora contam com um painél de Gestão Ágil(Conceito "Simple"), facilitando o envolvimento e a colaboração de várias equipes **(c.)**.
+En el menú lateral se ha estructurado una secuencia de pasos para facilitar el seguimiento de la liberación **(a.)**,  y los cambios empaquetados para la liberación se presentan en la misma pantalla, facilitando el seguimiento **(b.)**. La Planificación e Implementación ahora cuentan con un panel de Gestión Ágil (Concepto "Simple"), facilitando la participación y la colaboración de varios equipos **(c.)**.
 
-![a-Menu lateral](images/93fd32b7239e8ea2ecb21059d92c28b9.png)
+![a-Menú lateral](images/93fd32b7239e8ea2ecb21059d92c28b9.png)
 
-![b-Lista de liberações](images/ab0edbc9c5f9865b47c82508d1afc0cd.png)
+![b-Lista de liberaciones](images/ab0edbc9c5f9865b47c82508d1afc0cd.png)
 
-![c-Painel de planejamento e implantação](images/968d2eeb13fb27b551c56c235bc9d7dc.png)
+![c-Panel de planificación e implementación](images/968d2eeb13fb27b551c56c235bc9d7dc.png)
 
 ### Business Intelligence
 
-Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o uso da estrutura de BI do Saiku Community para análise de dados de Tickets, Mudanças, Releases etc **(a.)**, são disponibilizadas várias visões de gráficos e tabelas, com a possibilidade de filtros e exportação para csv e pdf **(b.)**.
+Uno de los módulos opcionales en esta nueva versión es el Smart Analytics, que permite el uso de la estructura de BI de Saiku Community para análisis de datos de Tickets, Cambios, Liberaciones y otros **(a.)**. Además, se ofrecen varias vistas de gráficos y tablas, con la posibilidad de filtros y exportación para csv y pdf **(b.)**.
 
 ![a-Smart Analytics](images/1ccae7bf7ce5685e45f05ecc63d89a44.png)
 
-![b-Visões de graficos e tabelas](images/8e4b26f0fda93b0a72d3c106eee6ea81.png)
+![b-Visiones de gráficos y tablas](images/8e4b26f0fda93b0a72d3c106eee6ea81.png)
 
-### Trilha de Auditoria
+### Camino de Auditoría
 
-As trilhas de auditoria foram criadas para dar mais transparência do uso de dados e segurança do nosso sistema, existem três opções de Auditoria: de **dados**, de **acesso** e de **chave**. 
+Los caminos de auditoría fueron creadas para dar más transparencia del uso de datos y seguridad de nuestro sistema, hay tres opciones de Auditoría: de **datos**, de **acceso** y de **clave**. 
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[Para más información...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
 
-**Auditoria de dados.**
+**Auditoría de datos.**
 
-Nesta opção de auditoria é apresentado o histórico de todos os dados de alteração, inclusão e exclusão realizadas no sistema.
+En esta opción de auditoría se muestra el historial de todos los datos de cambio, inclusión y exclusión hechos en el sistema.
 
-![Auditoria de dados](images/3d7c59fbe255e39c8ad40fe40af6c4c3.png)
+![Auditoría de datos](images/3d7c59fbe255e39c8ad40fe40af6c4c3.png)
 
-**Auditoria de Acesso**
+**Auditoría de Acceso**
 
-Nesta opção é apresentado o histórico dos acessos ao sistema (entradas e saídas)
+En esta opción se muestra el historial de los accesos al sistema (entradas y salidas).
 
-![Auditoria de Acesso](images/0cadfc5c8b44982b979f12f1856c51ad.png)
+![Auditoría de Acceso](images/0cadfc5c8b44982b979f12f1856c51ad.png)
 
-**Auditoria de Chave**
+**Auditoría de Clave**
 
-Nesta opção de auditoria informa as licenças utilizadas para a validação do sistema.
+En esta opción de auditoría se indican las licencias utilizadas para la validación del sistema.
 
-![Auditoria de Chave](images/e98e9f6f9fc8c617205888a0c618d2c5.png)
+![Auditoría de Clave](images/e98e9f6f9fc8c617205888a0c618d2c5.png)
 
 ### App Mobile Field Service
 
-O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
+El App FS fue creado para dar más flexibilidad y agilidad en atendimientos hechos en campo. Las características de la aplicación se pueden ejecutar sin conexión y después sincronizadas de forma fácil.
 
 ![App FS](images/a4aa24d9854f27a3b7f0c1c78594f283.png)
 
@@ -330,13 +330,13 @@ O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 ![App FS](images/4ebf0054cd4a342fcc282ad1ad90560d.png)
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Para más información...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 ### App Service Management
 
-O App Mobile SM foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
+App Mobile SM ha sido creado para que las facilidades y beneficios de la solución CITSmart puedan ser accedidos también a través de dispositivos móviles. Esta nueva versión incluye notificaciones para el sistema operativo Android y la posibilidad de confirmación de atención vía subscripción.
 
-[Saiba mais](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Para más información](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
 ![App Mobile SM](images/74835ae6d648d6b2379495e4ba85f700.png)
 

@@ -2,8 +2,6 @@ Title: Cloud Architecture
 
 # CITSmart Cloud Architecture
 
-Arquitetura do CITSmart Cloud
------------------------------
 
 Com foco em uma expansão global e uma infra-estrutura tecnológica que atende aos
 requisitos de nossos clientes e parceiros, o CITSmart optou pelo modelo SaaS

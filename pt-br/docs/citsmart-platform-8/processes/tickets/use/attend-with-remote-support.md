@@ -1,14 +1,13 @@
 title: Atender com suporte remoto
 Description: O produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
-#Atender com suporte remoto
+# Atender com suporte remoto
 O atendimento de um ticket muitas vezes pode ser com usuários que não consegue resolver somente com orientações do atendente, por isso o produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
 Com o atendimento remoto é possível ver o histórico de atendimentos deste tipo, contribuindo assim com informações para um possível processo de auditoria.
 
 Antes de começar
 ----------------
 
-O atendente deverá ter acesso ao Item de Configuração do solicitante e realizar
-a configuração de acesso remoto.
+Inicialmente, a Gerência de Configuração precisa estar implementada e o processo de inventário deve estar definido. Além disso, a funcionalidade de Acesso Remoto deve estar configurada. Por fim, o atendente deverá ter acesso ao Item de Configuração do solicitante.
 
 Procedimento
 ------------
@@ -32,13 +31,15 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar acesso remoto][1]
 
-[Configurar acesso remoto](/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    
+
+[1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html

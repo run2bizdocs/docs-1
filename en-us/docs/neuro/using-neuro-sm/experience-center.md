@@ -1,6 +1,6 @@
-title: Experience Centers
-Description: Experience Centers
-#Experience Centers
+title: Use Neuro functionalities in the Experience Center
+Description: Use Neuro functionalities in the Experience Center
+# Use Neuro functionalities in the Experience Center
 
 Experience Centers
 
@@ -38,5 +38,5 @@ Figure 5 - Experience center (continuation)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

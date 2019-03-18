@@ -1,10 +1,10 @@
-Title: Habilitar Event Monitor  
+Title: Implementar Event Monitor  
 
-# Habilitar Event Monitor  
+# Implementar Event Monitor
 
 Event Monitor - EVM - é um módulo que visa ser um intermediário entre o CITSmart Platform e soluções de clientes (por exemplo, Nagios, CITSmart Inventoty), servindo como um repositório de informações de eventos, gerado por ferramentas de monitoramento ou processo de inventário.
 
-Para ativá-lo em uma instância do CITSmart Platform, é necessário fazer o download do pacote WAR e executar a implementação no servidor de aplicativos Wildfly, que pode ser o mesmo que o CITSmart Platform. É importante observar que o EVM deve estar disponível em uma porta diferente do aplicativo ESP. Além disso, notamos que o EVM não possui sua própria interface, porque o gerenciamento é feito através do aplicativo ESP.
+Para ativá-lo em uma instância do CITSmart Platform, é necessário fazer o download do pacote WAR e executar a implementação no servidor de aplicativos Wildfly, que pode ser o mesmo que o CITSmart Platform. É importante observar que o EVM deve estar disponível em uma porta diferente instância CITsmart. Além disso, notamos que o EVM não possui sua própria interface, porque o gerenciamento é feito através da instância CITsmart.
 
 ## Procedimento  
 

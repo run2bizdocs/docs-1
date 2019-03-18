@@ -1,6 +1,6 @@
-title: Memu SM 
-Description: Memu SM 
-# Menu SM 
+title: Criar item de menu via Neuro
+Description: Criar item de menu via Neuro
+# Criar item de menu via Neuro
 
 
 1.  Criar um formulário para o objeto de negócio;
@@ -24,5 +24,5 @@ Figura 2 - Criar menu SM (continuação)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

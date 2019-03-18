@@ -1,6 +1,7 @@
-title: Tickets
-Description: Tickets
-#Tickets
+title: Use Neuro functionalities in Tickets
+Description: Use Neuro functionalities in Tickets
+
+# Use Neuro functionalities in Tickets
 
 There are two ways of interface Neuro with a Ticket:
 
@@ -47,6 +48,6 @@ There are two ways of interface Neuro with a Ticket:
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins
 

@@ -2,7 +2,7 @@ title: Attend with remote support
  
 Description: The ticket attendance, sometimes, can be with the user that cannot solve only with the attendance guidance, so, the product makes available the remote support, helping to find some question.
 
-#Attend with remote support  
+# Attend with remote support  
 
 The ticket attendance, sometimes, can be with the user that cannot solve only with the attendance guidance, so, the product makes available the remote support, helping to find some question.
 With the remote attendance, it's possible to see the attendance history of this type, helping with the information to a possible audit process.
@@ -10,8 +10,9 @@ With the remote attendance, it's possible to see the attendance history of this 
 Before getting started
 --------------------------
 
-The attendant should have access to the Configuration Item of the requester and
-configure the remote access.
+To begin with, the Configuration Management needs to be implemented and the inventory 
+process must be defined. In addition, the Remote Access feature must be configured.
+Finally, the attendant must have access to the requester's Configuration Item.
 
 Procedure  
 -------------
@@ -37,9 +38,7 @@ Related
 
 [Configure remote access](/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)
 
 !!! tip "About"
 
