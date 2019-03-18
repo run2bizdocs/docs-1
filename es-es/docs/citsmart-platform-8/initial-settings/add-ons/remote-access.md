@@ -29,8 +29,8 @@ Los siguientes requisitos antecede el uso efectivo de esta funcionalidad:
 	
 3. Definir el directorio para la grabación de los vídeos (ej. /mp4);
     
-    !!!success "Grabación de vídeo"
-    Después del cierre de la sesión de acceso remoto, el vídeo generado entra en una cola de copilación para luego ser disponible en la plataforma. El tiempo de compilación dependerá del tiempo de sesión, además, el comienzo de la compilación está vinculado a la rutina cron, establecida en la conexión de acceso remoto.
+    !!! success "Grabación de vídeo"
+        Después del cierre de la sesión de acceso remoto, el vídeo generado entra en una cola de copilación para luego ser disponible en la plataforma. El tiempo de compilación dependerá del tiempo de sesión, además, el comienzo de la compilación está vinculado a la rutina cron, establecida en la conexión de acceso remoto.
     
 ## Lo que hacer después
 
