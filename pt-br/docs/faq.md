@@ -2,7 +2,12 @@ Title: Frequently Asked Questions - FAQ
 
 Perguntas Frequentes - FAQ
 ---------------
-??? Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças??"
+??? Question "É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?"
+    O processo de riscos na mudança começa no desenho do portfólo de mudança aonde é indocado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificada ou completa.. o próximo passo é, no cadastro da mudança informar os dados do(s) riscos na carra lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
+    "**Simplificada**"  para uma  análise Simplificada e no item.  
+    "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
+    
+    ??? Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
     Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
     Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).  
 
