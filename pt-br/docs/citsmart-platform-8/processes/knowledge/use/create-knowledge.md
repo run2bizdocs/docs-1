@@ -21,7 +21,7 @@ Procedimento
     
 ## Registro, Relacionamentos e Notificação
 
-![aba](images/create-1)
+![aba](images/create-1.png)
 
 Figura 1 - Criar conhecimento
 
@@ -49,7 +49,7 @@ Figura 1 - Criar conhecimento
   
 ## Conformidade
 
-![aba](images/create-2)
+![aba](images/create-2.png)
 
 Figura 2 - Guia Opções
 
@@ -114,7 +114,7 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 ## Opções de publicação
 
-![aba](images/create-3)
+![aba](images/create-3.PNG)
 
 Figura 3 - Botão Opções
 
@@ -133,7 +133,7 @@ Figura 3 - Botão Opções
     
  ## Outras opções  
  
- ![aba](images/create-4)
+ ![aba](images/create-4.png)
 
 Figura 4 - Botão Pesquisar
     
