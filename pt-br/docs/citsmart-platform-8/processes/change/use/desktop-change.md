@@ -20,7 +20,10 @@ Procedimento
 
 !!! Abstract "IMPORTANTE"
 
-    Para a verificação do andamento da mudança devemos abrir a mudança desejada e verificar no ícone de visualizar fluxo em qual atividade a mudança se encontra. também é possível detalhar em qual atividade das fases de Planejamento, Plano de reversão e Revisão e fechamento a mudança está simplesmente checando na tab de atividades o Kanban
+    Para a verificação do andamento da mudança devemos abrir a mudança 
+    desejada e verificar no ícone de visualizar fluxo em qual atividade a mudança se encontra. 
+    também é possível detalhar em qual atividade das fases de Planejamento, Plano de reversão e 
+    Revisão e fechamento a mudança está simplesmente checando na tab de atividades o Kanban
 
 !!! tip "About"
 
