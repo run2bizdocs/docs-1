@@ -28,20 +28,19 @@ Procedimento
         cenário desconsidera a configuração de perfil de acesso e libera o acesso do
         documento a todos os usuários.
 
-4.  Construir o conhecimento.
-
     !!! Warning "Versionamento"  
 
-        Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
-
-5.  Informar os dados de cadastro;
+        Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
+        indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
 
     !!! Abstract "ATENÇÃO"  
 
-        Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
+        **PRIVACIDADE** Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
         corre-se o risco de disponibilizar documentos de forma inadequada. Este
         cenário desconsidera a configuração de perfil de acesso e libera o acesso do
         documento a todos os usuários.
+        
+        **SITUAÇÃO**, a Situação indica o processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
 
 Relacionado
 --------------------
