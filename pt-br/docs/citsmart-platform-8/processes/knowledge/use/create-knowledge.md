@@ -18,15 +18,111 @@ Procedimento
 
 2.  Clicar no botão "Opções", localizado no canto inferior direito, logo em
     seguida em Adicionar novo conhecimento;
+    
+## Registro, Relacionamentos e Notificação
 
-3.  Informar os dados de cadastro;
+-   1: Cadastro - registrar o documento;
 
-    !!! Abstract "ATENÇÃO"  
+-   2: Documento Relacionado - permite vincular um conhecimento já existente ao
+    documento que está sendo criado;
+
+-   3: Item de Configuração - permite vincular um item de configuração;
+
+-   4: Categoria de Ocorrência de Evento - permite vincular uma categoria de
+    ocorrência;
+
+-   5: Partes interessadas - selecione as partes (usuários ou grupos) que terão
+    acesso ao conhecimento, sendo possível notificá-los;
+
+-   6: Notificações - configura notificações da publicação, por e-mail e em
+    tela.
+
+    
+    !!! Abstract "ATENÇÃO"
+
+        Para que a aba Item de Configuração esteja disponibilizada, o documento
+        deverá estar salvo.
+  
+## Conformidade
+
+*Opções:
+
+-   Ger. Disponibilidade: o conhecimento é referente ao Gerenciamento de
+    Disponibilidade ou não;
+
+-   Direitos Autorais: o conhecimento é referente a um direito autoral ou não;
+
+-   Legislação: o conhecimento é referente a uma legislação ou não.
+
+## Dados de Registro
+
+Na guia Cadastro, são apresentados vários campos para preenchimento, entre eles:
+
+-   Título: informar o título do conhecimento;
+
+-   Situação: informar a situação do documento que será registrado;
+
+-   Privacidade: definir a privacidade do conhecimento;
+
+-   Confidencial: apenas o autor do conhecimento e o administrador da pasta terá
+    acesso ao conhecimento;
+
+-   Público: todas as pessoas terão acesso ao conhecimento, mesmo àqueles que
+    não têm permissão na pasta;
+
+-   Interno: somente as pessoas que têm permissão na pasta terão acesso ao
+    conhecimento.
+
+-   Data de expiração: informe a data de expiração que o conhecimento obedecerá.
+    Quando atinge a data definida, o documento será automaticamente arquivado.
+
+-   Conteúdo: descrever o texto do conhecimento:
+
+    -   Para adicionar um link (hiperlink) ao conteúdo do conhecimento, no
+        intuito de acessar um link externo, selecione uma palavra ou frase e
+        clique no botão “Inserir/Editar link” (desenho de corrente), preencher
+        os campos e clicar em “OK”;
+
+    -   Para adicionar uma imagem ao conteúdo do conhecimento, clicar no botão
+        “Imagem” (desenho de paisagem) ou copiar e colar a imagem salva em
+        arquivo no computador;
+
+    -   Para adicionar um vídeo, clicar no botão “Inserir um vídeo”:
+
+        -   Na aba Vídeo do servidor: permite inserir um vídeo que está
+            localizado no servidor de vídeos ou no computador;
+
+        -   Na aba Embedded: permite inserir vídeos do Youtube. Ao acessar o
+            vídeo clicar com o botão direito e selecionar “Copiar código de
+            incorporação”.
+
+!!! Abstract "ATENÇÃO"  
 
         Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois
         corre-se o risco de disponibilizar documentos de forma inadequada. Este
         cenário desconsidera a configuração de perfil de acesso e libera o acesso do
         documento a todos os usuários.
+
+
+## Opções de publicação
+
+   Ao ter um conhecimento já registrado, o botão “Opções” apresenta outras
+  ações:
+
+-   1: salva o conhecimento;
+
+-   2: exclui o conhecimento;
+
+-   3: limpa o documento que está aberto;
+
+-   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
+    Conhecimentos.
+
+    
+ ## Outras opções   
+    
+Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
+
 
     !!! Warning "Versionamento"  
 
