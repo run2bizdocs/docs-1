@@ -1,15 +1,48 @@
 title: Visão Geral  
 
-Plataforma CITSmart
-============
+## O que é CITSmart ?
 
-O CITSmart Platform é uma plataforma inteligente de governança corporativa, criada para
-facilitar a unificação de informações. Permite a gestão da
-Informação dos serviços e seus processos no ambiente organizacional,
-proporcionando governança.
+O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
+conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
+resultados do negócio.**
 
-*CITSmart Platform é um conceito inteligente de união e praticidade na gestão
-corporativa.*
+Através dos portais de relacionamento otimizamos a experiência de clientes e
+colaboradores e por meio do **Workflow Digital Inteligente** e gestão ágil, com uso
+de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
+gerando assim, melhoria progressiva e interativa, simplicidade na execução,
+praticidade, alinhamento e agilidade.
+
+Quais as possibilidades de uso?
+-------------------------------
+
+Há cases de gestão de serviços com processos automatizados em diversas áreas como:
+
+*   Educação
+*   Compras
+*   Viagem
+*   Recursos humanos como a solicitação de pessoal, treinamento, etc.
+*   Departamento pessoal como a solicitação de benefícios, férias, folha de pagamento, esclarecimentos, etc.
+*   Jurídico como elaboração e análise de contratos, apoio, etc.
+*   Atendimento em campo como a troca de equipamentos, execução de reparos e manutenção etc.
+*   Comunicação, Marketing entre outros.
+
+Além desses, seguindo as melhores práticas de gestão de serviços, com base na
+biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
+processos automatizados, sendo eles:
+
+*   Gerenciamento de Portfólio
+*   Catálogo de Serviços
+*   Gerenciamento de Nível de Serviço
+*   Gerenciamento de Requisição
+*   Gerenciamento de Conhecimento
+*   Gerenciamento de Incidentes
+*   Gerenciamento de Problema
+*   Gerenciamento de Configuração e Ativos
+*   Gerenciamento de Mudança
+*   Gerenciamento de Liberação e Implantação
+*   Gerenciamento de Evento
+*   Gerenciamento de Disponibilidade
+*   Gerenciamento de Continuidade
 
 Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
 práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma
