@@ -1,6 +1,6 @@
 title: Configurar permissão de acesso do gerenciamento de requisições/incidentes
 Description: Permite definir quem terá acesso às funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
-#Configurar permissão de acesso do gerenciamento de requisições/incidentes
+# Configurar permissão de acesso do gerenciamento de requisições/incidentes
 
 A funcionalidade de Permissão de Acesso permite definir quem terá acesso às
 funcionalidades da tela de Gerenciamento de Requisições e Incidentes e qual tipo
