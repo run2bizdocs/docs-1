@@ -1,6 +1,6 @@
-Title: Implementar Acesso Remoto
+Title: Implementar o Acesso Remoto
 
-# Implementar Acesso Remoto
+# Implementar o Acesso Remoto
 
 A funcionalidade de acesso remoto permite que computadores sejam acessados remotamente a partir de sua instância CITSmart. Neste sentido, utilizamos os recursos do protocolo VNC (Virtual Network Computing) por intermédio do Apache Guacamole - Gateway de acesso remoto baseado na web - para tornar esta operação viável. Além de poder acessar remotamente um item de configuração, todas as sessões são gravadas e disponibilizadas junto às informações do IC. Isto garante um melhor controle sobre as ações realizadas proporcionando um ambiente confiável e auditável.
 
