@@ -7,8 +7,10 @@ Con la atención remota es posible ver el historial de atenciones de este tipo, 
 Antes de empezar
 ----------------
 
-El asistente debe tener acceso al Elemento de Configuración del solicitante y
-hacer la configuración de acceso remoto.
+Inicialmente, la Gestión de Configuración debe estar implementada y el proceso de 
+inventario debe estar definido. Además, la funcionalidad de Acceso Remoto debe estar 
+configurada. Por último, el asistente deberá tener acceso al Elemento de Configuración 
+del solicitante.
 
 Procedimiento
 -------------
