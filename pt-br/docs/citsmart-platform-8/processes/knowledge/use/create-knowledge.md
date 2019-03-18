@@ -114,7 +114,7 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 ## Opções de publicação
 
-![aba](images/create-3.PNG)
+![aba](images/create-4.png)
 
 Figura 3 - Botão Opções
 
@@ -133,9 +133,9 @@ Figura 3 - Botão Opções
     
  ## Outras opções  
  
- ![aba](images/create-4.png)
+ ![aba](images/create-3.PNG)
 
-Figura 4 - Botão Pesquisar
+Figura 3 - Botão Pesquisar
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
