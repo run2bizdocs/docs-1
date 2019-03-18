@@ -19,7 +19,7 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 1. Baixar o container do GUACD;
 2. Configurar as propriedades do GUACD no servidor de aplicação;
 
-    ```java "Propriedades"
+    ```java
     CITSMART_PROTOCOL=http
     CITSMART_URL=your-instance.citsmartcloud.com
     CITSMARTGUACD_ID=guacd_id
