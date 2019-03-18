@@ -1,6 +1,8 @@
 title: Validar e cerrar ticket
+
 Description: Después de la atención del ticket, su ejecución deberá ser validada y el ticket encerrado.
-#Validar e cerrar ticket
+
+# Validar e cerrar ticket
 Después de la atención del ticket, su ejecución deberá ser validada y el ticket encerrado.
 
 Antes de empezar
@@ -19,11 +21,38 @@ Procedimiento
 3.  Certificar si la atención del ticket fue realizada de acuerdo con lo que se
     solicitó;
 
-4.  En el campo **Registro de Ejecución**, describa la información sobre la
-    ejecución de la actividad;
+4.  En la pestaña "Cierre" elegir la situación para la opción "Resuelta", completar
+    los datos para cerrar el ticket;
+    
+    - Si el tipo de solicitud es "Incidente":
+    
+         * Categoría de Solución: seleccionar la categoría de solución del incidente;
+         
+         * Detalle de la Causa: describir los detalles de la causa del incidente;
+         
+         * Solución Respuesta: describir los detalles de la solución que se realizó para atender el incidente;
+         
+         * Guardar Solución/Respuesta en la Base de Conocimiento: para que el checkbox "Guardar Solución/Respuesta en la Base de
+           Conocimiento" sea visible, verificar la parametrización del proceso de Gestión del Conocimiento;
+           
+         * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en
+           cuestión;
+           
+         * Solución Temporal: indicar si la actividad realizada para atender el incidente fue una solución temporal.  
+    
+    - Si el tipo de solicitud es "Solicitud", completar el campo "Solución Respuesta", describir lo que se realizó para atender 
+      la solicitud de servicio.
+    
+    !!! Abstract "ATENCIÓN"
+    
+        Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para                     efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
 
-5.  Haga clic en el botón de opciones y, a continuación, guardar para realizar
-    la operación.
+5.  Haga clic en "Opciones" y definir el paso siguiente de la solicitud:
+
+     -   "Guardar y mantener tarea actual";
+     
+     -   "Guardar y avanzar flujo".
+   
 
 Relacionado
 -----------
