@@ -32,7 +32,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permissão de acesso da Gerência de Ticket](citsmart-platform-8/processes/tickets/configuration/access-ticket-management.md)
 
 [Configurar acesso remoto](/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
