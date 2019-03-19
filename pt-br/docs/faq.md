@@ -18,6 +18,7 @@ Title: Perguntas Frequentes - FAQ
     
     Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.
 Para isso:
+
     1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança);
     2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>);
     3. Na interface de gerência, clicar no item "ICs relacionados";
