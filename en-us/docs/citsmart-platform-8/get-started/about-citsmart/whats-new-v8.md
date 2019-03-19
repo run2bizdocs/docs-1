@@ -62,7 +62,7 @@ Lists the tickets of the user logged **(a.)**, provides a history of attendance 
 
 ![d-Chat with attendant](images/chat-with-attendant.png)
 
-For further information **XXXXXXX (colocar link do CE)**
+For further information access the documentation about [Experience Center][1]  **XXXXXXX (colocar link do CE)**
 
 ### My Approvals Widget
 
@@ -343,6 +343,8 @@ The Mobile SM App was created so that the features and benefits of the CITSmart 
 ![App Mobile SM](images/72-app-mobile-sm.jpg)
 
 
+
+[1]:/en-us/docs/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
 
 !!! tip "About"
 
