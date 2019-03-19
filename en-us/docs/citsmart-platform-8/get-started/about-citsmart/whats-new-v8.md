@@ -9,14 +9,14 @@ Logo and Login Usage
 
 The use of the CITSmart image has been optimized to improve data usage, as well as the application within the solution, making it simpler, lightweight and suitable for new product directions.
 
-![CITSmart new access](images/1-citsmart-login.png)
+![CITSmart new access](images/citsmart-login.png)
 
 Experience Center
 ---------------------
 
 Through the Experience Center, it's possible to build relationship portals with their own visual identity for customers, providers and employees, promoting visibility and collaboration.
 
-![Experience Center](images/b3f8b1578f498d74c13b9e3797ce265a.png)
+![Experience Center](images/experience-center.png)
 
 Each Experiment Center has dynamic pages with the following options of widgets:
 
@@ -40,9 +40,9 @@ Each Experiment Center has dynamic pages with the following options of widgets:
 
 Experience Centers can be created according to the access profiles and needs of the business areas.
 
-![EC Creation](images/image001.png)
+![EC Creation](images/experience-center-creation.png)
 
-![EC Visualization](images/db062d281d82abfa78db1df0faecd0bf.png)
+![EC Visualization](images/experience-center-visualization.png)
 
 ### Portfolio Widget
 
