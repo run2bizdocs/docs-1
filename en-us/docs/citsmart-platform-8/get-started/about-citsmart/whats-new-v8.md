@@ -62,7 +62,7 @@ Lists the tickets of the user logged **(a.)**, provides a history of attendance 
 
 ![d-Chat with attendant](images/chat-with-attendant.png)
 
-For further information access the documentation about [Experience Center](/en-us/docs/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
+For further information access the documentation about [Experience Center](/en-us/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
 
 ### My Approvals Widget
 
