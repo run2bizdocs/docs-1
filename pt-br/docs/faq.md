@@ -20,7 +20,7 @@ Title: Perguntas Frequentes - FAQ
 Para isso:
 
 * [x] Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança);
-* [x] Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (|>);
+* [x] Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>);
 * [x] Na interface de gerência, clicar no item "ICs relacionados";
 * [x] No item ações, clicar no ícone "Alterar";
 * [x] Alterar o IC com as novas informações;
