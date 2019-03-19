@@ -13,8 +13,7 @@ Procedimiento
 1.  Acceda a la funcionalidad por el menú principal Sistema \> Mantenimiento de
     Flujos;
 
-2.  Aparecerá la pantalla de inicio de la funcionalidad. Las siguientes actividades están
-    disponibles aquí:
+2.  Aparecerá la pantalla de inicio de la funcionalidad. Las siguientes actividades están disponibles aquí:
     
     -  Podemos buscar los flujos previamente registrados al hacer clic en "Filtros avanzados" y completar los datos;
        
