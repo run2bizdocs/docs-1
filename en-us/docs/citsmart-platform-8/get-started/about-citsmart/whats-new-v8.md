@@ -150,7 +150,7 @@ Each task can have one or more members. You can add:
 
 ![Task Detail](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-For further information access the documentation abut [Simple][2]...  **XXXXXXX (colocar link do SIMPLE)**
+For further information access the documentation about [Simple][2]
 
 Problem Management
 --------------------------
@@ -198,7 +198,7 @@ There is also a new Solution area with direct link to the Simple and change regi
 
 ![b-Review and closure](images/review-closure.png)
 
-For further information... **XXXXXXX (colocar link do problema)**.
+For further information access the documentation about [Problem Manaement][3]
 
 Configuration and Assets Management
 --------------------------------------
@@ -223,7 +223,7 @@ The CI visualization has also been optimized. The main information and features 
 
 ![b-CI warranty](images/ci-warranty.png)
 
-For further information...  **XXXXXXX (colocar link do Configuração e CMDB)**
+For further information access the documentation about [Configuration Management][4]
 
 Change Management
 -------------------------
@@ -260,7 +260,7 @@ In the review and closure of a change, in addition to informing if the change wa
 
 ![Review and closure](images/review-closure-2.png)
 
-For further information...  **XXXXXXX (colocar link da Mudança)**.
+For further information access the documentation about [Change Management][5]
 
 ### Deployment and Release Management
 
@@ -288,7 +288,7 @@ One of the optional modules in this new version is the Smart Analytics, that all
 
 Audit trails have been created to give more transparency to the data usage and security of our system, there are three Audit options: **data**, **access** and **key**. 
 
-[For further information...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+For further information access the documentation about [System Audit][6]
 
 **Data audit.**
 
@@ -324,13 +324,13 @@ The App FS was created to give more flexibility and agility in field service. Ap
 
 ![App FS](images/67-app-fs.jpg)
 
-[For further information...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+For further information access the documentation about [CITSmart Field Service][7]
 
 ### App Service Management
 
 The Mobile SM App was created so that the features and benefits of the CITSmart solution can also be accessed via mobile devices, this new version includes notifications for the Android operating system and the possibility of confirmation for attendance via subscription.
 
-[For further information](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+For further information access the documentation about [Mobile CITSmart SM][8]
 
 ![App Mobile SM](images/68-app-mobile-sm.jpg)
 
@@ -344,6 +344,13 @@ The Mobile SM App was created so that the features and benefits of the CITSmart 
 
 
 [1]:/en-us/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
+[2]:/en-us/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
+[3]:/en-us/citsmart-platform-8/processes/problem/overview.html
+[4]:/en-us/citsmart-platform-8/processes/configuration/overview.html
+[5]:/en-us/citsmart-platform-8/processes/change/overview.html
+[6]:/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
+[7]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
+[8]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
 
 
 !!! tip "About"
