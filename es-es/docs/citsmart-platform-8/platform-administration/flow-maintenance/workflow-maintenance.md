@@ -36,7 +36,7 @@ Procedimiento
 
 3.  Al hacer clic en "Editar" y seleccionar cualquier versión del flujo, se muestra la información del flujo en tres pestañas: "Datos        del flujo", "Diagrama" y "Documentación". Cada uno tiene la siguiente función:
     
--   En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo,
+4.  En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo,
     tales como: su nombre, el proceso al que está vinculado (el flujo estará visible sólo para el proceso al que está vinculado), su         versión, la descripción del flujo y la opción para permitir la reapertura de un servicio independientemente de la configuración de       grupo.
     
     !!! tip "SUGERENCIA"
@@ -44,8 +44,7 @@ Procedimiento
         La opción de reapertura en el flujo puede ser útil en escenarios en los que no hay muchos servicios donde se permite la                 reapertura, por lo que al marcar la opción "permitir reaberutra" no es necesario utilizar la acción "reopen" en el permiso del           flujo.
         
 
--   La pestaña "Diagrama" representa una herramienta de diseño de flujo. En el lado izquierdo de esta pantalla se encuentra la               organización de los elementos que componen la funcionalidad de flujo. Al hacer clic en cada uno de estos elementos, quedarán
-    accesible cada actividad realizada por estos elementos, que son:
+5.  La pestaña "Diagrama" representa una herramienta de diseño de flujo. En el lado izquierdo de esta pantalla se encuentra la               organización de los elementos que componen la funcionalidad de flujo. Al hacer clic en cada uno de estos elementos, quedarán             accesible cada actividad realizada por estos elementos, que son:
     
     -   **Eventos:** son los elementos de los eventos que pueden utilizarse en el diseño del flujo. Son ellos:
         
@@ -118,7 +117,7 @@ Procedimiento
         
     -   En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos                 utilizados en el diagrama).
         
--   En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos utilizados       en el diagrama).
+6.  En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos utilizados       en el diagrama).
     
 !!! Abstract "NOTA"
     
