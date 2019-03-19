@@ -42,16 +42,14 @@ de la funcionalidad.
 2.  Informar en el campo “Directorio” la carpeta donde se mantendrá todos *Logs* de las
     auditorías hechas;
 
-3.  En el campo "Frecuencia en días" se puede ajustar una rutina de backup de los
-    registros de auditoría, al elegir la periodicidad del backup en días.
+3.  En el campo "Frecuencia en días" se puede ajustar una rutina de backup de los registros de auditoría, al elegir la periodicidad del     backup en días.
 
     !!! Abstract "NOTA"
 
         La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del backup.
  
 
-4.  Se dispone de la posibilidad de determinar un período específico (fecha
-     de inicio y fin) para la generación de los logs de auditoría del sistema.
+4.  Se dispone de la posibilidad de determinar un período específico (fecha de inicio y fin) para la generación de los logs de auditoría     del sistema.
 
     !!! note "IMPORTANTE"
 
@@ -78,8 +76,7 @@ hechas en el sistema.*
 
         -   La letra "E" significa la "Exclusión" de los datos del sistema.  
 
-3.  Se libera también la búsqueda de determinado *log* a través de los filtros dispuestos
-    en la pantalla.
+3.  Se libera también la búsqueda de determinado *log* a través de los filtros dispuestos en la pantalla.
 
 ***Auditoría de accesos al sistema***
 
@@ -107,8 +104,7 @@ hechas en el sistema.*
 2.  Presenta los datos de las licencias adquiridas y usadas para la ejecución
     del sistema;
 
-3.  Es posible buscar una determinada licencia y su plazo de validez por los
-    filtros liberados en la pantalla principal.
+3.  Es posible buscar una determinada licencia y su plazo de validez por los filtros liberados en la pantalla principal.
     
 !!! tip "About"
 
