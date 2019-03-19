@@ -21,7 +21,7 @@ Procedimento
 
 2.  Completar los campos disponibles;
 
-3.  En el campo ** Tipo de plantilla**, a cada opción elegida (JSP, Cuestionario o Neuro) los campos para relleno se cambiarán
+3.  En el campo **Tipo de plantilla**, a cada opción elegida (JSP, Cuestionario o Neuro) los campos para relleno se cambiarán
 
     ![jsp](images/template-1.jpg)
 
