@@ -62,7 +62,7 @@ Lista os tickets do usuário logado **(a.)**, disponibiliza um histórico do ate
 
 ![d-Chat com o Atendente](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
 
-Saiba mais **XXXXXXX (colocar link do CE)**
+Saiba mais sobre o [Centro de Experiência][1]
 
 ### Widget Minhas Aprovações
 
@@ -150,7 +150,7 @@ Cada tarefa pode ter um ou mais membro. É possível adicionar:
 
 ![Detalhamento da Tarefa](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-Saiba mais...  **XXXXXXX (colocar link do SIMPLE)**
+Saiba mais sobre o [Simple][2]
 
 Gerenciamento de Problemas
 --------------------------
@@ -198,7 +198,7 @@ Também há uma nova área de Solução com vínculo direto ao Simple e aos regi
 
 ![b-Revisão e fechamento](images/d1376fef59089e5eb76c3aebfbefa180.png)
 
-Saiba mais... **XXXXXXX (colocar link do problema)**.
+Saiba mais sobre [Gerenciamento de Problema][3]
 
 Gerenciamento de Configuração e Ativos
 --------------------------------------
@@ -223,7 +223,7 @@ A visualização do IC também foi otimizada. Agora as principais informações 
 
 ![b-Garantias do IC](images/065a32778b352c6c59dbc7b2ab64726c.png)
 
-Saiba mais...  **XXXXXXX (colocar link do Configuração e CMDB)**
+Saiba mais sobre [Gerenciamento de Configuração][4]
 
 Gerenciamento de Mudanças
 -------------------------
@@ -260,7 +260,7 @@ Na Revisão e fechamento da mudança, além de informar se a mudança foi realiz
 
 ![Revisão e fechamento](images/e537aa0813efbcd3645310829c2be25e.png)
 
-Saiba mais...  **XXXXXXX (colocar link da Mudança)**.
+Saiba mais sobre [Gerenciamento de Mudança][5]
 
 ### Gerenciamento de Liberação e Implantação
 
@@ -288,7 +288,7 @@ Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o 
 
 As trilhas de auditoria foram criadas para dar mais transparência do uso de dados e segurança do nosso sistema, existem três opções de Auditoria: de **dados**, de **acesso** e de **chave**. 
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+Saiba mais sobre [Auditoria do Sistema][6]
 
 **Auditoria de dados.**
 
@@ -330,13 +330,13 @@ O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 ![App FS](images/4ebf0054cd4a342fcc282ad1ad90560d.png)
 
-[Saiba mais...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+Saiba mais sobre [CITSmart Field Service][8]
 
 ### App Service Management
 
 O App Mobile SM foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
 
-[Saiba mais](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+Saiba mais sobre [Mobile CITSmart SM][8]
 
 ![App Mobile SM](images/74835ae6d648d6b2379495e4ba85f700.png)
 
@@ -349,6 +349,16 @@ O App Mobile SM foi criado para que as facilidades e benefícios da solução CI
 ![App Mobile SM](images/e9e509334fa4fb3e1bc94431675b7bd4.png)
 
 ![App Mobile SM](images/20ac60c7dce276d0e99595d169703efb.png)
+
+
+[1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
+[2]:/pt-br/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
+[3]:/pt-br/citsmart-platform-8/processes/problem/overview.html
+[4]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
+[5]:/pt-br/citsmart-platform-8/processes/change/overview.html
+[6]:/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
+[7]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
+[8]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
 
 
 !!! tip "About"
