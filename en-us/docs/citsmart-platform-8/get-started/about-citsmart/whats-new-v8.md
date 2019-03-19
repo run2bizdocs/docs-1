@@ -344,7 +344,7 @@ The Mobile SM App was created so that the features and benefits of the CITSmart 
 
 
 
-[1]:/en-us/docs/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
+[1][/en-us/docs/citsmart-platform-8/processes/knowledge/use/create-experience-center.html]
 
 !!! tip "About"
 
