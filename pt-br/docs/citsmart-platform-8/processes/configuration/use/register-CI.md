@@ -1,6 +1,7 @@
 title: Cadastrar item de configuração
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um item de configuração. 
-#Cadastrar item de configuração
+
+# Cadastrar item de configuração
 Segundo a ITIL "Qualquer componente ou outro ativo de serviço que precise ser gerenciado de forma a entregar um serviço de TI.".
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um item de configuração.
 
@@ -29,6 +30,21 @@ Procedimento
     configuração;
 
 4.  Preencher os campos disponibilizados em cada aba;
+
+!!! info "Campos obrigatórios"
+    
+    * [X] Identificação
+    * [X] Nome
+    * [X] Número Série
+    * [X] Localidade 
+    * [X] Tipo Item Configuração
+    * [X] Status
+    * [X] Criticidade do Serviço
+    * [X] Impacto
+    * [X] Urgência
+    * [X] Grupo
+    * [X] Tipo de Responsável
+    * [X] Responsável
 
 5.  Clicar em "Gravar" .
 
