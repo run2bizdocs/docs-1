@@ -1,6 +1,6 @@
-Title: Enable Inventory
+Title: Implement Inventory Service
 
-# Enable Inventory 
+# Implement Inventory Service
 
 CITSmart Inventory is a component of the CITSmart Platform that enables you to collect, register and manage information from IT assets. It enables you to manage the lifecycle of your organization's configuration items from the Configuration Management process.  
 
