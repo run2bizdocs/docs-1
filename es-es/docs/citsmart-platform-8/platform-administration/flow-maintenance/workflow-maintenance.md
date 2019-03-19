@@ -21,12 +21,13 @@ Procedimiento
     
     !!! Abstract "NOTA"
     
-        El modelo tiene por objetivo preservar el estado del flujo de trabajo que
-        está vinculado a algún servicio, evitando cambios en flujo productivo.
+        El modelo tiene por objetivo preservar el estado del flujo de trabajo que está vinculado a algún servicio, evitando cambios en           flujo productivo.
+        
         
     -  La opción "Exportar" permite la exportación del flujo en el formato JSON;
     
     -  En "Borrar" se pueden eliminar los flujos.
+    
     
     !!! Abstract "NOTA"
     
