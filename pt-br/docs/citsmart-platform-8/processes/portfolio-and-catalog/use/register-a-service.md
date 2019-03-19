@@ -36,6 +36,7 @@ Procedimento
 6.  Preencher os campos disponibilizados que cada guia apresentar;
     
     !!! info "Informações de cada aba"
+        
         - Principal: Informações do serviço, estado, fases, importância para o negócio etc.
         - Documentos Anexos: Artefatos, documentos, guias etc.
         - Apresentação: Visualização no Smart Portal e Gerência de Ticket.
