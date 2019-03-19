@@ -40,6 +40,7 @@ Procedure
 Table 1 - Parameters list
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
