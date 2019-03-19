@@ -55,15 +55,16 @@ Procedure
     when click on the icon of same name. Now, to remove the Service link, just
     click on the icon "Remove" and confirm the operation;
 
+7.  To link **Release**, click on the area of same name, then click on the
+    search field and select the release you want. If you want to register a
+    new release, click on "Register" and complete the data;
+
     !!! Abstract "ATTENTION"
+        
         If there's any service related, it's possible to link a new service 
         to the problem, just click on "Related Services" area an then on "Add 
         Service”. Therefore, it's necessary to select the service you want and
         click on it.
-
-7.  To link **Release**, click on the area of same name, then click on the
-    search field and select the release you want. If you want to register a
-    new release, click on "Register" and complete the data;
 
 8.  To link others **Problems**, click on the area of same name and then on
     the serach field and select the problem you want. If you want to create
