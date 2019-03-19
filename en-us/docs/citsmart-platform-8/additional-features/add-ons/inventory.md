@@ -24,7 +24,7 @@ To test the Inventory, [configure][3] the connections in the CITSmart Platform i
 
 ## Related
 
-[Enable CITSmart Event Monitor][4]
+[Implement CITSmart Event Monitor][4]
 
 [Asset and Configuration Management][5]
 
