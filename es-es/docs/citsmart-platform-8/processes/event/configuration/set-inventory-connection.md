@@ -41,7 +41,7 @@ Procedimiento
    
     Figura 2 -Integración CITSmart inventory - OCS inventory
 
-   +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
+    +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
 
        +   La ubicación especificada para la generación de archivos XML es algo muy
             estratégico:
