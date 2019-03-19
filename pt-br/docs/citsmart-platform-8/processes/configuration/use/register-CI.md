@@ -30,8 +30,10 @@ Procedimento
     configuração;
 
 4.  Preencher os campos disponibilizados, no mínimo;
+
+    !!! info "Campos obrigatórios"
     
-    * [x] Identificação
+        * [x] Identificação
     * [x] Nome
     * [x] Número Série
     * [x] Localidade 
