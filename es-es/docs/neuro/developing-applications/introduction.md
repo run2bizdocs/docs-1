@@ -1,35 +1,41 @@
-Title: Administrar Aplicaciones
+Title: Developing Applications
 
-#  Administrar Aplicaciones
+# Developing Applications
 
-En la adminstración de aplicaciones, se va encontrar los siguientes temas:
+In the developing applications, you will find the following topics:
 
-* Objeto de Negocio
+* Business object
 
-* Reglas de Negocio
+* Business rules
 
 * CSS
 
-* Base de Datos
+* Database
 
-* Conexión de Base de Datos
+* Database connection
 
-* Formulario
+* Form
 
-* Conexión ITSM
+* ITSM connection
 
-* Paquete
+* Package
 
-* Parámetros
+* Parameters
 
-* Flujo de Integración de Proceso
+* Process Integration Flow
 
-* Informe de archivo
+* Report file
 
-* Informe de configuración
+* Report setup
 
-* Flujo de integración de servicio
+* Service Integration Flow
 
-* Tipo de datos
+* Type of data
 
-* Variables
+* Variables  
+
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/23/2019 - João Pelles  
