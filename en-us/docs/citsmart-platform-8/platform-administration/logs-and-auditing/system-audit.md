@@ -29,7 +29,7 @@ Citsmart Parameters):
 Procedure
 ------------
 
-***Process to configure the Audit:***
+***Process to configure the Audit***
 
 *Configuration to create a backup of the audits.*
 
@@ -60,14 +60,12 @@ First, it's essential to configure the specific parameters of the functionality.
 *It presentes the history of all change, inclusion, and deletion of data in the
 system.*
 
-1.  Access the main menu System \>
-    Audit trail \> System logs;
+1.  Access the main menu System \> Audit trail \> System logs;
 
 2.  It'll be presented the audit logs of every move performed in the program,
     showing the date and time of the updates, the IP address, the executor
     name of the update, the name of the table, the type of operation made in 
-    the system. Clicking on the data button, it'll show what was actually updated
-    in the program.
+    the system. Clicking on the data button, it'll show what was actually updated in the program.
 
     !!! Abstract "NOTE"  
 
