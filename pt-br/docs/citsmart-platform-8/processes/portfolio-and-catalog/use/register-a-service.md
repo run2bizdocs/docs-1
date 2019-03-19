@@ -1,6 +1,8 @@
 title: Cadastrar um serviço
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
-#Cadastrar um serviço
+
+# Cadastrar um serviço
+
 O cadastro de serviços é dividido em dois tipos:
 
 •	Negócio: provê os serviços de negócios/TI;
@@ -32,6 +34,12 @@ Procedimento
 5.  Serão apresentadas guias para a configuração do serviço a ser cadastrado;
 
 6.  Preencher os campos disponibilizados que cada guia apresentar;
+    
+    !!! info "Informações de cada aba"
+        - Principal: Informações do serviço, estado, fases, importância para o negócio etc.
+        - Documentos Anexos: Artefatos, documentos, guias etc.
+        - Apresentação: Visualização no Smart Portal e Gerência de Ticket.
+        - Permissão de Acesso: Grupos que podem ver o serviço.
 
 7.  Preencher os demais campos conforme a necessidade;
 
