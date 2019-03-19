@@ -26,12 +26,10 @@ Procedimiento
     por la ejecución de las tareas, dentre otros. También es permitido vincular un
     cuadro ya creado al hacer clic  en otro botón relacionado al “Workspace”.
 
-4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y
-    adjuntos de archivos para detallar la ejecución del cambio. Para ello, es necesario
-    hacer clic en cada pestaña disponible, seleccionar el elemento deseado para 
-    vincularlo al cambio
+4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y adjuntos de archivos para detallar la ejecución del     cambio. Para ello, es necesario hacer clic en cada pestaña disponible, seleccionar el elemento deseado para vincularlo al cambio.
 
     !!! Abstract "NOTA"
+    
         Se dispone de la creación del cero del proyecto, al hacer clic en "Agregar" y luego
         en la pestaña "Registro", y registrar el nuevo elemento. A partir del mismo precepto, se
         admite la creación de nuevas notificaciones del sistema, al hacer clic en el botón
@@ -47,7 +45,7 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar cambio](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
