@@ -24,17 +24,14 @@ Procedimiento
 
     !!! warning "ATENCIÓN"
 
-        Para que el usuario reciba la nueva información de acceso es necesario utilizar,
-        en el mensaje de correo electrónico la clave ‘${NOVASENHA}’ (ejemplo de clave
-        referente a "Nueva contraseña"). Además, también se puede enviar el usuario de login
-        utilizando la clave ‘${LOGIN}’ (ejemplo de clave referente a “Login”).  
+        Para que el usuario reciba la nueva información de acceso es necesario utilizar, en el mensaje de correo electrónico la clave           ‘${NOVASENHA}’ (ejemplo de clave referente a "Nueva contraseña"). Además, también se puede enviar el usuario de login utilizando         la clave ‘${LOGIN}’ (ejemplo de clave referente a “Login”).  
 
 *2° Paso: Establecer la parametrización referente al servicio de cambio de contraseña*
 
 1.  Acceder al menú principal Parametrización \> Parámetros CITSmart;
 
 2.  Editar y guardar el parámetro 116 asignándole el valor numérico del ID generado
-    para el modelo de correo electrónico recién creado;
+    para el modelo de correo electrónico recién creado.
 
 Lo que hacer después
 ------------------
@@ -53,5 +50,5 @@ Para probar el servicio de cambio de contraseña, acceder a la página de login,
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[2]:/pt-br/citsmart-platform-8/platform-administration/email-settings/configuration.html
+[1]:/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/es-es/citsmart-platform-8/platform-administration/email-settings/configuration.html
