@@ -26,11 +26,7 @@ Procedimiento
 
 !!! Abstract "TIP"
 
-    El campo "Descripción", es el espacio para que la información del ticket contenga
-    palabras que remiten directamente a esa atención, siendo objetivas y de fácil
-    asociación con la temática de la solicitud. Este contenido está vinculado al
-    campo "Palabra clave" y su retorno de búsqueda, que existe dentro del modo de
-    búsqueda avanzada de un ticket.
+    El campo "Descripción", es el espacio para que la información del ticket contenga palabras que remiten directamente a esa atención,     siendo objetivas y de fácil asociación con la temática de la solicitud. Este contenido está vinculado al campo "Palabra clave" y su     retorno de búsqueda, que existe dentro del modo de búsqueda avanzada de un ticket.
     
 
 Lo que hacer después
