@@ -18,7 +18,6 @@ Title: Perguntas Frequentes - FAQ
 ??? Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
     Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.
 Para isso:
-
 * [x] Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança);
 * [x] Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>);
 * [x] Na interface de gerência, clicar no item "ICs relacionados";
