@@ -54,7 +54,9 @@ Procedure
     "Capture task";
 
 10. To execute the continuity procedure request, click on "Execute", it'll be
-    presented the request attendance screen.
+    presented the request attendance screen;
+    
+11. The video related to the activity is an example of invocation of "Auxiliary Continuity Plan".   
 
 Related
 -----------

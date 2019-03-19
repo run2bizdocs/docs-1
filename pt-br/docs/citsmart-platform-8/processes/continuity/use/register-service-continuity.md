@@ -18,7 +18,7 @@ Igualmente, é crucial cadastrar as ações automáticas de Incidente, requisiç
 procedimentos referente ao Gerenciamento de Eventos.
 
 Procedimento
-----------------
+------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Continuidade \> Continuidade;
@@ -28,10 +28,10 @@ Procedimento
 3.  Preencher os campos necessários (nome e selecionar o cliente para
     vincula-lo);
 
-4.  Clicar em "Gravar" para efetuar a operação
+4.  Clicar em "Gravar" para efetuar a operação.
 
 O que fazer a seguir
-------------------------
+--------------------
 
 Após o registro da continuidade é necessário executar as seguintes ações:
 definir a política de continuidade, cadastrar o escopo da continuidade e definir
@@ -39,7 +39,7 @@ o projeto da continuidade, sendo estas ações parte da fase de Iniciação do
 registro completo da continuidade.
 
 Relacionado
-----------------
+-----------
 
 [Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
 
