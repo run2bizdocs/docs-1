@@ -111,8 +111,7 @@ Procedimiento
         
         -   Anotación de Texto
         
-    -   En esta pestaña, también se permite, al hacer clic en "Generar Documentación", la exportación en PDF de las informaciones               generadas en la pestaña "Documentación". Además, al hacer clic en "Guardar", podemos elegir la forma de este almacenamiento
-        ("Como nueva versión" que significa versionar y generar una nueva visión del flujo o "En la versión original" que significa             guardar el flujo en la versión actual, la que está siendo editada).
+    -   En esta pestaña, también se permite, al hacer clic en "Generar Documentación", la exportación en PDF de las informaciones               generadas en la pestaña "Documentación". Además, al hacer clic en "Guardar", podemos elegir la forma de este almacenamiento             ("Como nueva versión" que significa versionar y generar una nueva visión del flujo o "En la versión original" que significa             guardar el flujo en la versión actual, la que está siendo editada).
         
     -   En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos                 utilizados en el diagrama).
         
