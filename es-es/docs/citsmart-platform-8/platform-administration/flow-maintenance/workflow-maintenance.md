@@ -34,10 +34,9 @@ Procedimiento
         La exclusión sólo será posible si no hay ningún servicio vinculado al flujo a ser removido.
         
 
-3.  Al hacer clic en "Editar" y seleccionar cualquier versión del flujo, se muestra la información del flujo en tres pestañas: "Datos        del flujo", "Diagrama" y "Documentación". Cada uno tiene la siguiente función:
+3.  Al hacer clic en "Editar" y seleccionar cualquier versión del flujo, se muestra la información del flujo en tres pestañas: "Datos       del flujo", "Diagrama" y "Documentación". Cada uno tiene la siguiente función:
     
-4.  En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo,
-    tales como: su nombre, el proceso al que está vinculado (el flujo estará visible sólo para el proceso al que está vinculado), su         versión, la descripción del flujo y la opción para permitir la reapertura de un servicio independientemente de la configuración de       grupo.
+4.  En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo, tales como: su nombre, el proceso al que está    vinculado (el flujo estará visible sólo para el proceso al que está vinculado), su versión, la descripción del flujo y la opción para    permitir la reapertura de un servicio independientemente de la configuración de grupo.
     
     !!! tip "SUGERENCIA"
     
