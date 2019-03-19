@@ -31,7 +31,7 @@ Procedimiento
 
     ![inventory integración](images/conexao-inventory.jpg)
 
-       Figura 1 -Integración CITSmart inventory
+     Figura 1 -Integración CITSmart inventory
 
 
 4. Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
