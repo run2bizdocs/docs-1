@@ -9,7 +9,7 @@ Logo and Login Usage
 
 The use of the CITSmart image has been optimized to improve data usage, as well as the application within the solution, making it simpler, lightweight and suitable for new product directions.
 
-![CITSmart new access](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+![CITSmart new access](images/1-citsmart-login.png)
 
 Experience Center
 ---------------------
