@@ -30,8 +30,7 @@ Procedimiento
 
 1.  Acceder al menú principal Parametrización \> Parámetros CITSmart;
 
-2.  Editar y guardar el parámetro 116 asignándole el valor numérico del ID generado
-    para el modelo de correo electrónico recién creado.
+2.  Editar y guardar el parámetro 116 asignándole el valor numérico del ID generado para el modelo de correo electrónico recién creado.
 
 Lo que hacer después
 ------------------
