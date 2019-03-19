@@ -34,7 +34,7 @@ Procedimiento
 
     !!! Abstract "ATENCIÓN"
         
-        El tipo de análisis de impacto y riesgo (simplificado o completo) se define durante el registro del portafolio de cambio, lo que         permite la flexibilización de la elección de análisis por parte del usuario, que deberá describir su investigación de acuerdo           con su escenario específico.
+        El tipo de análisis de impacto y riesgo (simplificado o completo) se define durante el registro del portafolio de cambio, lo que  permite la flexibilización de la elección de análisis por parte del usuario, que deberá describir su investigación de acuerdo con su escenario específico.
  
 
 6.  Para vincular un **Cuestionario**, hacer clic en el area de mismo nombre y seleccionar un
