@@ -10,9 +10,10 @@ This functionality is an add-on to the Configuration Management and depends on t
 ## Before getting started
 
 The following questions precede the effective use of this functionality:
-- Having the Configuration Management implemented;
-- Having the inventory process defined and functional;
-- Having data 
+
+* [x] Having the Configuration Management implemented;
+* [x] Having the inventory process defined and functional;
+* [x] Having data 
 
 ## Procedure
 

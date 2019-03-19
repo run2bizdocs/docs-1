@@ -10,9 +10,10 @@ Esta funcionalidad es un complemento (add-on) a la Gestión de Configuración y 
 ## Antes de empezar
 
 Los siguientes requisitos antecede el uso efectivo de esta funcionalidad:
-- Tener la Gestión de Configuración implementada;
-- Tener un proceso de inventario definido y funcional;
-- Tener los datos 
+
+* [x] Tener la Gestión de Configuración implementada;
+* [x] Tener un proceso de inventario definido y funcional;
+* [x] Tener los datos 
 
 ## Procedimiento
 

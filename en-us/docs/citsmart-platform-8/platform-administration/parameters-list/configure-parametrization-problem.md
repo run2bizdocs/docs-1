@@ -12,6 +12,7 @@ when the time to workaround the problem has expired , among other viable
 actions.
 
 Procedure
+--------
 
 1.  Access the functionality through the main menu Parametrization \> Problem
     Management;

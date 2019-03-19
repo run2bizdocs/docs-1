@@ -2,6 +2,7 @@ title: Generar informes por el panel de gráficos e informes - elementos de conf
 Description: Permite comprobar la información de los elementos de configuración.
 #Generar informes por el panel de gráficos e informes - elementos de configuración
 
+Este informe permite comprobar la información de los elementos de configuración.
 
 Procedimiento
 -----------------

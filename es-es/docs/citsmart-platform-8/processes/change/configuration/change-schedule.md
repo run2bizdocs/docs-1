@@ -10,8 +10,7 @@ Procedimiento
 1.  Acceder al menú principal Procesos \>
     Gestión de Cambio \> Calendario de Cambios de Cambios;
 
-2.  Se mostrará la pantalla de calendario de cambios, donde podrá visualizar los
-    períodos de mantenimiento y blackout;
+2.  Se mostrará la pantalla de calendario de cambios, donde podrá visualizar los períodos de mantenimiento y blackout;
 
 3.  Para registrar una nueva ventana de cambio, haga clic en la fecha que desee;
 

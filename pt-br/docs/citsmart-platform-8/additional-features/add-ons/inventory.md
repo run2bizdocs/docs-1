@@ -24,7 +24,7 @@ Para testar o Inventory, [configurar][3] as conexões na instância CITSmart Pla
 
 ## Relacionado
 
-[Habilitar o CITSmart Event Monitor][4]
+[Implementar o CITSmart Event Monitor][4]
 
 [Gerenciamento de Configuração e Ativo][5]
 
@@ -32,7 +32,7 @@ Para testar o Inventory, [configurar][3] as conexões na instância CITSmart Pla
 [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
 [3]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
-[4]:/pt-br/citsmart-platform-8/initial-settings/add-ons/event-monitor.html
+[4]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
 [5]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
 
 
