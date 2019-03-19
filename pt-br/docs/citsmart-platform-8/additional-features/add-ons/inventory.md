@@ -24,7 +24,7 @@ Para testar o Inventory, [configurar][3] as conexões na instância CITSmart Pla
 
 ## Relacionado
 
-[Habilitar o CITSmart Event Monitor][4]
+[Implementar o CITSmart Event Monitor][4]
 
 [Gerenciamento de Configuração e Ativo][5]
 
