@@ -62,7 +62,7 @@ Lists the tickets of the user logged **(a.)**, provides a history of attendance 
 
 ![d-Chat with attendant](images/chat-with-attendant.png)
 
-For further information access the documentation about [Experience Center][1]  **XXXXXXX (colocar link do CE)**
+For further information access the documentation about [Experience Center][1]
 
 ### My Approvals Widget
 
@@ -150,7 +150,7 @@ Each task can have one or more members. You can add:
 
 ![Task Detail](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-For further information...  **XXXXXXX (colocar link do SIMPLE)**
+For further information access the documentation abut [Simple][2]...  **XXXXXXX (colocar link do SIMPLE)**
 
 Problem Management
 --------------------------
