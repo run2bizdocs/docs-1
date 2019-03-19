@@ -10,9 +10,10 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 ## O que fazer antes
 
 Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
-- Ter a Gerência de Configuração implementada;
-- Ter um processo de inventário definido e funcional;
-- Ter os dados 
+
+* [x] Ter a Gerência de Configuração implementada;
+* [x] Ter um processo de inventário definido e funcional;
+* [x] Ter os dados 
 
 ## Procedimento
 
