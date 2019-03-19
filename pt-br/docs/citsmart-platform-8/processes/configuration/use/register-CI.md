@@ -29,7 +29,7 @@ Procedimento
 3.  Será apresentada a tela de cadastro com as abas de configuração do item de
     configuração;
 
-4.  Preencher os campos disponibilizados em cada aba;
+4.  Preencher os campos disponibilizados, no mínimo;
     
     * [x] Identificação
     * [x] Nome
