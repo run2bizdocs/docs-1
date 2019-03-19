@@ -35,7 +35,7 @@ Procedimento
 6.  Configurar, na aba **Destinatários**, os tipos destinatários (grupo/usuário)
     do e-mail a ser enviado (o sistema não busca destinatários via "Expressão").
 
-*Configurar a notificação de aprovação do e-mail*
+## Configurar a notificação de aprovação do e-mail
 
 1.  Acessar a funcionalidade através do menu Sistema \> Configurações \>
     Modelo de e-mail;
