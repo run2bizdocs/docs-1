@@ -23,14 +23,11 @@ Procedimiento
 1.  Acceder al menú principal Procesos \>
     Gestión de Cambio \> Cambio;
 
-2.  Hacer clic en el primer icono a la izquierda de la pantalla (situada al lado de la palabra
-    "Cambio") y luego en "Solicitudes de votación";
+2.  Hacer clic en el primer icono a la izquierda de la pantalla (situada al lado de la palabra "Cambio") y luego en "Solicitudes de votación";
 
 3.  Hacer clic en un cambio. Para verlo, hacer clic en el icono de mismo nombre.
 
-4.  Para registrar la aprobación o rechazo, hacer clic en el icono "Votación" y
-    seleccionar la opción más adecuada a su escenario y discurrir la información
-    esencial;
+4.  Para registrar la aprobación o rechazo, hacer clic en el icono "Votación" y seleccionar la opción más adecuada a su escenario y discurrir la información esencial;
 
 5.  Hacer clic en "Guardar".
 
