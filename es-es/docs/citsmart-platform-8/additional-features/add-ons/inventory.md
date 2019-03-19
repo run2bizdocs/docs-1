@@ -33,7 +33,7 @@ Para probar el Inventory, [configurar][3] las conexiones en la instancia CITSmar
 [1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
 [3]:/es-es/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
-[4]:/es-es/citsmart-platform-8/initial-settings/add-ons/event-monitor.html
+[4]:/es-es/citsmart-platform-8/additional-features/add-ons/inventory.html
 [5]:/es-es/citsmart-platform-8/processes/configuration/overview.html
 
 
