@@ -36,11 +36,10 @@ Procedimiento
     importante recordar que este registro sólo puede ser realizado si no hay un
     EC con la misma identificación del Host:
 
--   Informar los datos del elemento de configuración hijo;
+    -   Informar los datos del elemento de configuración hijo;
 
--   Hacer relación entre el servicio Host y el elemento de configuración hijo.
-    Cada servicio del host debe estar relacionado con su elemento de
-    configuración hijo.
+    -   Hacer relación entre el servicio Host y el elemento de configuración hijo.
+        Cada servicio del host debe estar relacionado con su elemento de configuración hijo.
 
 4.  Hacer clic en "Guardar".
 
