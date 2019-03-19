@@ -30,8 +30,6 @@ Procedimento
     configuração;
 
 4.  Preencher os campos disponibilizados em cada aba;
-
-!!! info "Campos obrigatórios"
     
     * [x] Identificação
     * [x] Nome
