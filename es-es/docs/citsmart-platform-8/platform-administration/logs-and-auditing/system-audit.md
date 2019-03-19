@@ -47,8 +47,8 @@ de la funcionalidad.
 
     !!! Abstract "NOTA"
 
-        La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del
-        backup.  
+        La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del backup.
+ 
 
 4.  Se dispone de la posibilidad de determinar un período específico (fecha
      de inicio y fin) para la generación de los logs de auditoría del sistema.
