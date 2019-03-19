@@ -27,7 +27,7 @@ Para probar el Inventory, [configurar][3] las conexiones en la instancia CITSmar
 ## Relacionado
 
 
-[Habilitar CITSmart Event Monitor][4]
+[Implementar CITSmart Event Monitor][4]
 [Gestión de Configuración y Activos][5]
 
 [1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
