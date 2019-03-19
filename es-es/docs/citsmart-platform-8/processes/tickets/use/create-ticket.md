@@ -31,6 +31,7 @@ Procedimiento
     asociación con la temática de la solicitud. Este contenido está vinculado al
     campo "Palabra clave" y su retorno de búsqueda, que existe dentro del modo de
     búsqueda avanzada de un ticket.
+    
 
 Lo que hacer después
 --------------------
