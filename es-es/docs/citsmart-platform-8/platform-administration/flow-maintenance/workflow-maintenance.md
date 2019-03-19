@@ -32,8 +32,8 @@ Procedimiento
     
     !!! Abstract "NOTA"
     
-        La exclusión sólo será posible si no hay ningún servicio vinculado al flujo
-        a ser removido.
+        La exclusión sólo será posible si no hay ningún servicio vinculado al flujo a ser removido.
+        
 
 3.  Al hacer clic en "Editar" y seleccionar cualquier versión del flujo,
     se muestra la información del flujo en tres pestañas: "Datos del flujo",
@@ -47,9 +47,8 @@ Procedimiento
     
     !!! tip "SUGERENCIA"
     
-        La opción de reapertura en el flujo puede ser útil en escenarios en los que no hay
-        muchos servicios donde se permite la reapertura, por lo que al marcar la opción "permitir 
-        reaberutra" no es necesario utilizar la acción "reopen" en el permiso del flujo.
+        La opción de reapertura en el flujo puede ser útil en escenarios en los que no hay muchos servicios donde se permite la                 reapertura, por lo que al marcar la opción "permitir reaberutra" no es necesario utilizar la acción "reopen" en el permiso del           flujo.
+        
 
 -   La pestaña "Diagrama" representa una herramienta de diseño de flujo. En el lado izquierdo
     de esta pantalla se encuentra la organización de los elementos que componen la
@@ -145,14 +144,10 @@ Procedimiento
     
     Es importante recordar que:
     
-    - las normativas configuradas en el flujo tendrán prioridad en relación a las
-    las marcas de la plantilla de solicitud de servicio, ya que este es un complemento del flujo;
+    - las normativas configuradas en el flujo tendrán prioridad en relación a las marcas de la plantilla de solicitud de servicio, ya       que este es un complemento del flujo;    
+    - para utilizar el componente "Conversación Watson" la organización debe poseer la arquitectura IBM BlueMIX, permitiendo así el         acceso a la API de Conversación del Watson;    
+    - para borrar un elemento que se ha insertado en el dibujo del flujo, haga clic en el elemento y después en Ctrl+Delete.
     
-    - para utilizar el componente "Conversación Watson" la organización debe poseer la
-    arquitectura IBM BlueMIX, permitiendo así el acceso a la API de Conversación del Watson;
-    
-    - para borrar un elemento que se ha insertado en el dibujo del flujo, haga clic en
-    el elemento y después en Ctrl+Delete.
     
 Diagrama de un flujo de trabajo
 -------------------------------------   
