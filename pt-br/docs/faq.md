@@ -13,8 +13,7 @@ Title: Perguntas Frequentes - FAQ
 
 ??? Question "É possível atribuir a responsabilidade de um item de configuração a um usuário/grupo?"
     Sim. É possivel atribuir o responsável por um IC editando as opções do mesmo (Processos > Gerência de Configuração > CMDB > Pesquisar > Editar > Tipo de Responsável > Responsável). Note que a atualização de um IC pode estar atrelada à Gestão de Mudança, sendo necessário vincular o ID de uma RDM.
-    
-    
+
 ??? Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
     
     Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.
