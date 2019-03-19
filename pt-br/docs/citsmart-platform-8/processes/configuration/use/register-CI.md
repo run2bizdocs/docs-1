@@ -33,19 +33,19 @@ Procedimento
 
 !!! info "Campos obrigatórios"
     
-    * [X] Identificação
-    * [X] Nome
-    * [X] Número Série
-    * [X] Localidade 
-    * [X] Tipo Item Configuração
-    * [X] Status
-    * [X] Criticidade do Serviço
-    * [X] Impacto
-    * [X] Urgência
-    * [X] Grupo
-    * [X] Tipo de Responsável
-    * [X] Responsável
-
+    * [x] Identificação
+    * [x] Nome
+    * [x] Número Série
+    * [x] Localidade 
+    * [x] Tipo Item Configuração
+    * [x] Status
+    * [x] Criticidade do Serviço
+    * [x] Impacto
+    * [x] Urgência
+    * [x] Grupo
+    * [x] Tipo de Responsável
+    * [x] Responsável
+    
 5.  Clicar em "Gravar" .
 
 Relacionado
