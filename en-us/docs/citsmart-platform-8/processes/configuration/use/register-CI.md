@@ -1,7 +1,7 @@
 title: Register configuration item
 
 Description: Provides a variety of actions, such as including, changing, and deleting a configuration item. 
-#Register configuration item
+# Register configuration item
 
 According to the ITIL "Any component or other service asset that needs to be managed in order to deliver an IT service.".
 This feature provides a variety of actions, such as including, changing, and deleting a configuration item.
