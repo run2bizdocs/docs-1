@@ -131,11 +131,11 @@ Simple - Agile Management
 
 Simple, which brought the power of agile management for CITSmart platform, developed to help teams to be more collaborative and participatory, increasing productivity and giving more autonomy and visibility to members of a simple and practical way **(a.)**. Each team can have one or more workspace **(b.)** and create sprints with kanbans and phases, according to each need **(c.)**.
 
-![a-Simple](images/062f363d6c32e90c8b47eb3ff152b3b6.png)
+![a-Simple](images/simple.bmp)
 
-![b-Simple-Sprints](images/bf1799ff10f7a0ffd777796cb6942783.png)
+![b-Simple-Sprints](images/simple-sprints.bmp)
 
-![c-Simple-Kanbans](images/bf1799ff10f7a0ffd777796cb6942783.png)
+![c-Simple-Kanbans](images/simple-kanban.bmp)
 
 
 Each task can have one or more members. You can add:
@@ -148,7 +148,7 @@ Each task can have one or more members. You can add:
 *   Files
 *   Enable notifications, others.
 
-![Task Detail](images/567ad02f39ebfa223c1670d3f51225bd.png)
+![Task Detail](images/task-detail.bmp)
 
 For further information access the documentation about [Simple][2]
 

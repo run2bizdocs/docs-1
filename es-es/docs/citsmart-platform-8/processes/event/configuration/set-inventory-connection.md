@@ -31,7 +31,7 @@ Procedimiento
 
     ![inventory integración](images/conexao-inventory.jpg)
 
-       Figura 1 -Integración CITSmart inventory
+     Figura 1 -Integración CITSmart inventory
 
 
 4. Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
@@ -41,9 +41,9 @@ Procedimiento
    
     Figura 2 -Integración CITSmart inventory - OCS inventory
 
-   +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
+    +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
 
-       +   La ubicación especificada para la generación de archivos XML es algo muy
+        +   La ubicación especificada para la generación de archivos XML es algo muy
             estratégico:
 
            +   Si el servidor OCS es el mismo servidor del Inventory, se trata del
