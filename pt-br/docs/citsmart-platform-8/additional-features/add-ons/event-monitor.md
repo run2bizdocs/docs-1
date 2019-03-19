@@ -1,6 +1,6 @@
 Title: Implementar Event Monitor  
 
-# Implementar Event Monitor
+# Implementar o Event Monitor
 
 Event Monitor - EVM - é um módulo que visa ser um intermediário entre o CITSmart Platform e soluções de clientes (por exemplo, Nagios, CITSmart Inventoty), servindo como um repositório de informações de eventos, gerado por ferramentas de monitoramento ou processo de inventário.
 
