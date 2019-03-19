@@ -120,11 +120,11 @@ The registration of events was replaced by the registration of notes and comment
 
 Now, as soon as a new Workaround is created, a notification is automatically triggered for the Incident responsible **(a.)** and you can view the workaround and copy the contents to the incident closure, completing the cause and answer solution answer **(b.) (c.)**.
 
-![a-Workaround notification](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
+![a-Workaround notification](images/workaround-notification.png)
 
-![b-Workaround](images/497f2cd45381eecb91a61e7ce5293534.png)
+![b-Workaround](images/workaround.png)
 
-![c-Workaround Details](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
+![c-Workaround Details](images/workaround-details.png)
 
 Simple - Agile Management
 --------------------
