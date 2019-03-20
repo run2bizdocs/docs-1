@@ -16,7 +16,7 @@ Centro de Experiencia
 
 4.  Selección de un formulario;
 
-    ![basic](images/neuro-sm-7.jpg)
+    ![basic](images/neuro-sm-7.png)
 
     Figura 2 - Formulario
 
