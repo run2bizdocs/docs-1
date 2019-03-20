@@ -1,29 +1,29 @@
-title: Criar Mapa de Serviço
-Description: Esta feature disponibiliza a vinculação de serviços, atividades, IC'sc para representação visual das dependencias e impacto de um serviço específico.
+title: Create Service Map
+Description: This feature provides the linking of services, activities, CI for visual representation of dependencies and the impact of a specific service.
 
-# Criar Mapa de Serviço
-Disponibiliza a vinculação de serviços, atividades, IC'sc para representação visual das dependencias e impacto de um serviço específico
+# Create Service Map
+IT provides the linking of services, activities, CI for visual representation of dependencies and the impact of a specific service
 
-Antes de começar
---------------------
+Before getting started
+-----------------------
 
-Ter os Serviços de apoio e IC´s configurados
+It's necessary to have support Services and CI configured
 
-Procedimento
+Procedure
 ----------------
 
-1.  Durante o Desenho do Serviço;
+1.  During the Service Design;
 
-2.  Clicar em "Mapa de Serviço";
+2.  Click on "Service Map";
 
-3.  Na área disponibilizada, vc poderá desenhar o Mapa com os **Serviços de Apoio** vinculados so serviço( opção "Serviço de Apoio") e  também com os **Itens de Configuração** Definidos;
+3.  In the area available, you can design the Map with **Support Services** linked to the service ("Support Service" option) and also to the defined **Configuration Items**;
 
-4.  Grave o Mapa de Serviços 
+4.  Save the Service Map. 
 
-Relacionado
+Related
 ---------------
 
-[Cadastrar um Serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register Service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
