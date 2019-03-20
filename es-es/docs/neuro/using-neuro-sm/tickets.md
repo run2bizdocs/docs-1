@@ -36,7 +36,7 @@ Hay dos formas de interfaz Neuro con un Ticket:
    Figura 4 - Vincular plantilla
     
 
-  b)  3)	Vincular el formulario a un paso de Flujo SM en la guía "Interfaz" de una tarea de usuario
+  b)  Vincular el formulario a un paso de Flujo SM en la guía "Interfaz" de una tarea de usuario
     
    ![create](images/neuro-sm-13.png)
 
