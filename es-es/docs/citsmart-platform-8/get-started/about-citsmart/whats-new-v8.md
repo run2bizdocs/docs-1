@@ -9,7 +9,7 @@ Uso del Logotipo e Inicio de Sesión
 
 El uso de la imagen CITSmart ha sido optimizada para mejorar el uso de datos, así como la aplicación dentro de la solución, haciéndola más simple, ligera y adecuada para los nuevos direccionamientos del producto.
 
-![Nuevo acceso de CITSmart](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+![Nuevo acceso de CITSmart](images/citsmart-login.png)
 
 Centro de Experiencia
 ---------------------
