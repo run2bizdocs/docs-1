@@ -7,9 +7,9 @@ Description: Criar elemento de menú vía Neuro
 
 2.  Crear el Menú SM, informando:
 
-    1.  La Descripción del Elemento de Menú;
+    1.  La **Descripción** del Elemento de Menú;
 
-    2.  Cuál será el menú Padre y la Orden (posición en el menú), que nuestro formulario será colocado;
+    2.  Cuál será el **menú Padre** y la **Orden** (posición en el menú), que nuestro formulario será colocado;
 
     3.  El sistema generará un enlace automáticamente a nuestro formulario.
 
