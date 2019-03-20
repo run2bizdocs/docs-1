@@ -67,8 +67,8 @@ Certification Issuer), it must be installed. Follow the procedures below:
 3.  Once installed, simply change the application's address to
     “<https://citsmart.centralit.com.br/citsmart>”.
 
-Android app installation
-------------------------
+### Android app installation
+
 
 1.  Go to Google Play (Play Store) to download the Citsmart SM Mobile
     application;
@@ -77,8 +77,8 @@ Android app installation
 
 3.  Press the “Install” button to download the application.
 
-Creating key for use and consumption of Google APIs
----------------------------------------------------
+### Creating key for use and consumption of Google APIs
+
 
 In order for the use and consumption of the Google APIs to be possible, a Key
 API must be created. For this, the following steps must be followed:
