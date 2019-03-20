@@ -1,6 +1,6 @@
 title: Configurar atributos de serviço
 Description: As orientações descritas neste conhecimento poderão ser seguidas para configurar os atributos
-#Configurar atributos de serviço
+# Configurar atributos de serviço
 Os atributos de serviço são características de configuração do serviço dentro do portfólio.
 As orientações descritas neste conhecimento poderão ser seguidas para configurar os atributos tanto do Serviço de Negócio/TI quanto do Serviço de Apoio/Técnico, tipos de portfólio dentro da Gerência de Portfólio e Catálogo.
 
