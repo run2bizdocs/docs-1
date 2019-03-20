@@ -1,41 +1,63 @@
-Title: Developing Applications
+title: Pasos para implementar la Solución Neuro
+Description: Pasos para implementar la Soluión Neuro
+#Pasos para implementar la Soluión Neuro
 
-# Developing Applications
 
-In the developing applications, you will find the following topics:
+![create neuro app](images/neuro-1.png)
 
-* Business object
+Figura 1 - Crear aplicación Neuro
 
-* Business rules
 
-* CSS
+![business](images/neuro-2.png)
 
-* Database
+Figure 2 - Objeto de negocios
 
-* Database connection
 
-* Form
+!!! Abstract "ATENCIÓN"
 
-* ITSM connection
+    Los pasos se pueden encontrar en la documentación CITSmart  (docs.citsmart.com).
 
-* Package
+## Diseñar App
 
-* Parameters
 
-* Process Integration Flow
+Para un mejor desarrollo de las aplicaciones Neuro, es necesario el **diseño anterior de las necesidades, requerimientos que la aplicación atenderá**, además de incluir el modelo de entidades de los datos que recorrerán la aplicación.
 
-* Report file
+Una búsqueda de las **interfaces deseadas** y, si Neuro es la opción de usar datos para servicios, el **diseño de los servicios** que serán automatizados.
 
-* Report setup
+## Configuración Neuro
 
-* Service Integration Flow
 
-* Type of data
+Después de Dibujar la Aplicación reuniendo la información referente a las entidades de datos de su Aplicación Neuro, usted irá:
 
-* Variables  
+1.  Crear su BASE DE DATOS DE CONEXIÓN y su entrada APLICACIÓN NEURO;
+
+2.  Comprobar si va a utilizar cualquier DOMINIO común para su instalación y crear uno si es necesario;
+
+3.  Usted también verificará las REGLAS DE NEGOCIO para el registro, actualización o exclusión de registros en la entidad de datos... usted los vinculará al Objeto de Negocio;
+
+4.  Si tiene formularios que utilizarán varios idiomas, creará las CLAVES DE INTERNACIONALIZACIÓN, labels que se utilizarán para todos los campos en sus formularios.
+
+## Desarrollo Neuro
+
+
+El paso de configuración nos preparará para desarrollar la aplicación:
+
+1.  Crear los OBJETOS DE NEGOCIO, conteniendo la estructura de datos de la entidad, en esta etapa usted podrá crear las columnas, PK's y FK's (asignar relaciones), vincular Reglas de Negocio y Dominios, además de poder crear Formularios CRUD y otros recursos;
+
+2.  Crear FORMULARIOS relacionados a su Negocio.
+
+## Conexión SM
+
+
+Después de haber creado sus Objetos de Negocio y Formularios, usted podrá:
+
+1.  VINCULAR EL FORMULARIO A UN SERVICIO como necesario, o
+
+2.  VINCULAR EL FORMULARIO AL MENÚ SM O A UN CENTRO DE EXPERIENCIA, esto hará que pueda mantener tablas y datos adicionales que no se utilizarán en la apertura de un ticket
+
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/23/2019 - João Pelles  
+    <b>Updated:</b>03/20/2019 - Anna Martins  

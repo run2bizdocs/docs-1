@@ -68,9 +68,9 @@ For further information access the documentation about [Experience Center][1]
 
 Approving a ticket by CITSmart is simpler, just click on the approve icon **(a.)**, you can view the ticket details and approve it or not **(b.)**.
  
-![a-Approve task](images/e9319f0fc18517cbd276c36493165f1f.png)
+![a-Approve task](images/approve-task.bmp)
 
-![b-View Ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
+![b-View Ticket](images/view-ticket.bmp)
 
 Menus
 ----
@@ -90,7 +90,6 @@ It allows to maintain and view workareas by users with:
 
 **Each user can configure their own area with one or more tabs.**
 
-![](images/5713bcb2ea7cd2b39c8c2eeb26e082c8.png)
 
 Quick Access
 -------------
@@ -252,7 +251,7 @@ To facilitate the organization and classification of change registrations, CITSm
 It's also possible to link to the templates, the agile risk analysis forms. Each change template can use a form with questions and weights. According to the analysis, a risk graph is presented **(a.)**. The Planning, Reversal, Revision and Closure of a Change now have an agile management dashboard ("Simple" concept), so multiple teams can execute tasks in a fast, transparent and collaborative manner **(b.)**.
 
 
-![a-Risk analysis chart](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
+![a-Risk analysis chart](images/risk-analysis-chart.bmp)
 
 ![b-Change planning](images/change-planning.png)
 
