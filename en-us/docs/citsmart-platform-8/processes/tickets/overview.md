@@ -1,6 +1,6 @@
 title: Overview of ticket management
 Description: According to ITIL "Service Management is a set of specialized organizational skills to provide value to clients in the form of services"
-#Ticket management
+# Ticket management
 
 Presentation
 ----------------
@@ -118,9 +118,9 @@ Report
 
 - [Analyze service request trends](/en-us/citsmart-platform-8/processes/tickets/use/analyse-service-request-trends.html)
 
-- [Generate report through the panel of charts and reports - request and incident](/en-us/citsmart-platform-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
+- [Generate report through the panel of charts and reports - request and incident](/en-us/citsmart-platform-8/processes/tickets/use/generate-report-through-the-panel-of-charts.html)
 
-- [Generate reports -  request and incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/generate-reports-tickets.html)
+- [Generate reports -  request and incident management](/en-us/citsmart-platform-8/processes/tickets/use/generate-reports-tickets.html)
 
 !!! tip "About"
 
