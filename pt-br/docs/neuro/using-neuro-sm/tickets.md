@@ -18,13 +18,13 @@ Existem duas formas de interface Neuro com um Ticket:
     
    ![create](images/neuro-sm-2.jpg)
 
-    Figura 2 - Vincular template
+   Figura 2 - Vincular template
     
   d)  Usar o template na requisição/incidente.
     
    ![create](images/neuro-sm-3.jpg)
 
-    Figura 3 - Template use
+   Figura 3 - Template use
     
 
 2.  Você pode usar um formulário durante a resolução (etapas) do fluxo de processo na requisição/incidente;
@@ -46,5 +46,5 @@ Existem duas formas de interface Neuro com um Ticket:
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>03/13/2019 – Anna Martins
+    <b>Updated:</b>03/20/2019 – Anna Martins
 
