@@ -23,7 +23,7 @@ Es necesario tener creado la Conexión BD y la Aplicación Neuro.
 
 3.  Completar los campos disponibles en “Identificación”;
 
-4.  Seleccione la Aplicación para la que se crea el objeto de negocio, asigne al Objeto de Negocio un Nombre y una Descripción, también informe el propósito del Objeto de Negocio.
+4.  Seleccione la **Aplicación** para la que se crea el objeto de negocio, asigne al Objeto de Negocio un Nombre y una Descripción, también informe el propósito del Objeto de Negocio.
     
     ![business](images/neuro-9.jpg)
 
@@ -56,7 +56,7 @@ Figura 2 - Base de datos
 
 ## Columnas
 
-1.  1)	Agregar las columnas de la tabla, indicando:
+1.  Agregar las columnas de la tabla, indicando:
 
     1.  Informar el **nombre de la columna en la BD**;
 
