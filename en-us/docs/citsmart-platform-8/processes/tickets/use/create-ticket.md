@@ -1,13 +1,15 @@
 title:  Create ticket
 Description: Create a ticket means opening a call within the system.
-#Create ticket
+
+# Create ticket
+
 Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
 
 Before getting started
 --------------------------
 
 Some items in a ticket's registration depend on the information registered in
-CITSmart ITSM, for example an employee, group, contract, unit, time of
+the CITSmart Platform, for example an employee, group, contract, unit, time of
 attendance, portfolio with activities and services, as well as links between
 some configured parameters. Set the parameters 9, 40, 41, 260 and 343.
 
@@ -28,7 +30,10 @@ Procedure
     The "Description" field is the space for the ticket information to contain 
     words that refer directly to that service, being objective and easily associated 
     with the request theme. This content is linked to the "Keyword" field and to its 
-    search return, which exists within the advanced search mode of a ticket.
+    search return, which exists within the advanced search mode of a ticket. In addition, 
+    it's possible to include attachments of various formats (eg.: .pdf, .doc, .png, .jpg 
+    and others) to assist in the service process. The format limitation is set by the system 
+    manager.
 
 What to do next
 -------------------
