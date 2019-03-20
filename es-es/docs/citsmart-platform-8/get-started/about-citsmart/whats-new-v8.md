@@ -119,11 +119,11 @@ El registro de ocurrencias ha sido sustituido por un registro de notas y comenta
 
 Ahora, una vez que se crea una nueva Solución de Contorno, automáticamente se dispara una notificación al responsable del incidente **(a.)**. Además, puede ver la solución de contorno y copiar el contenido al cierre del incidente, completando la causa y solución de respuesta **(b.) (c.)**.
 
-![a-Notificación de solución de contorno](images/c6cfdccdb17f5b69eb86ecaa30af10f0.png)
+![a-Notificación de solución de contorno](images/workaround-notification.png)
 
-![b-Solución de contorno](images/497f2cd45381eecb91a61e7ce5293534.png)
+![b-Solución de contorno](images/workaround.png)
 
-![c-Detalle de la Solución de Contorno](images/7c1f08ad6a57bf48f962c3697d9e74ac.png)
+![c-Detalle de la Solución de Contorno](images/workaround-details.png)
 
 Simple - Gestión Ágil
 --------------------
