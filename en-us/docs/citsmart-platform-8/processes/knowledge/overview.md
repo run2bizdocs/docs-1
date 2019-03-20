@@ -1,6 +1,6 @@
 title: Overview of knowledge management
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
-#Knowledge management
+# Knowledge management
 
 Presentation
 ----------------
@@ -39,7 +39,7 @@ Configuration
 Reports
 -----------
 
-- [Generate reports - knowledge management](/en-us/citsmart-platform-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Generate reports - knowledge management](/en-us/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
