@@ -311,17 +311,17 @@ En esta opción de auditoría se indican las licencias utilizadas para la valida
 
 El App FS fue creado para dar más flexibilidad y agilidad en atendimientos hechos en campo. Las características de la aplicación se pueden ejecutar sin conexión y después sincronizadas de forma fácil.
 
-![App FS](images/62-app-fs.jpg)
+![App FS](images/62-app-fs.jpeg)
 
-![App FS](images/63-app-fs.jpg)
+![App FS](images/63-app-fs.jpeg)
 
-![App FS](images/64-app-fs.jpg)
+![App FS](images/64-app-fs.jpeg)
 
-![App FS](images/65-app-fs.jpg)
+![App FS](images/65-app-fs.jpeg)
 
-![App FS](images/66-app-fs.jpg)
+![App FS](images/66-app-fs.jpeg)
 
-![App FS](images/67-app-fs.jpg)
+![App FS](images/67-app-fs.jpeg)
 
 Para más información acceder la documentación de [CITSmart Field Service][7]
 
@@ -331,15 +331,15 @@ App Mobile SM ha sido creado para que las facilidades y beneficios de la soluci�
 
 Para más información acceder la documentación de [Mobile CITSmart SM][8]
 
-![App Mobile SM](images/68-app-mobile-sm.jpg)
+![App Mobile SM](images/68-app-mobile-sm.jpeg)
 
-![App Mobile SM](images/69-app-mobile-sm.jpg)
+![App Mobile SM](images/69-app-mobile-sm.jpeg)
 
-![App Mobile SM](images/70-app-mobile-sm.jpg)
+![App Mobile SM](images/70-app-mobile-sm.jpeg)
 
-![App Mobile SM](images/71-app-mobile-sm.jpg)
+![App Mobile SM](images/71-app-mobile-sm.jpeg)
 
-![App Mobile SM](images/72-app-mobile-sm.jpg)
+![App Mobile SM](images/72-app-mobile-sm.jpeg)
 
 
 [1]:/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
