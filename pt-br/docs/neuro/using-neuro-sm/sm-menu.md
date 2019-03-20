@@ -13,7 +13,7 @@ Description: Criar item de menu via Neuro
 
     3.  O sistema irá gerar um Link automaticamente para o nosso formulário.
 
-![create](images/neuro-sm-10.jpg)
+![create](images/neuro-sm-10.png)
 
 Figura 1 - Criar menu SM
 
