@@ -1,13 +1,15 @@
 title:  Crear ticket
 Description: Crear un ticket significa abrir un llamado dentro del sistema. 
-#Crear ticket
+
+# Crear ticket
+
 Crear un ticket significa abrir un llamado dentro del sistema, con posibilidad de acompañar su historial de atención, con visualización de todas las acciones que lo remiten.
 
 Antes de empezar
 ----------------
 
 Algunos elementos en el registro de un ticket, dependen de la información
-registrada en el CITSmart ITSM, por ejemplo un colaborador, un grupo, un
+registrada en la CITSmart Platform, por ejemplo un colaborador, un grupo, un
 contrato, una unidad, tiempo de atención, una cartera con actividades y
 servicios, además de vínculos entre algunos parámetros configurados.
 Configurar los parámetros 9, 40, 41, 260 y 343.
@@ -24,10 +26,15 @@ Procedimiento
 
 4.  Completar los otros datos necesarios.
 
-!!! Abstract "TIP"
+!!! Success "TIP"
 
-    El campo "Descripción", es el espacio para que la información del ticket contenga palabras que remiten directamente a esa atención,     siendo objetivas y de fácil asociación con la temática de la solicitud. Este contenido está vinculado al campo "Palabra clave" y su     retorno de búsqueda, que existe dentro del modo de búsqueda avanzada de un ticket.
-    
+    El campo "Descripción", es el espacio para que la información del ticket contenga 
+    palabras que remiten directamente a esa atención, siendo objetivas y de fácil asociación 
+    con la temática de la solicitud. Este contenido está vinculado al campo "Palabra clave" y 
+    su retorno de búsqueda, que existe dentro del modo de búsqueda avanzada de un ticket.
+    Además, es posible incluir adjuntos de formatos diversos (ej.: .pdf, .doc, .png, .jpg y 
+    otros) para ayudar en el proceso de atención. La limitación de formatos es definida por el 
+    administrador del sistema.
 
 Lo que hacer después
 --------------------
