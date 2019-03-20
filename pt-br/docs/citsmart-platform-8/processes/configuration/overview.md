@@ -60,9 +60,9 @@ Configuração
 Relatóro
 ----------
 
-- [Gerar relatórios - Gerência de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/generate-report-configuration-management.html)
+- [Gerar relatórios - Gerência de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/generate-report-configuration-management.html)
 
-- [Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/generate-reports-charts-panel-ic.html)
+- [Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/generate-reports-charts-panel-ic.html)
 
 !!! tip "About"
 
