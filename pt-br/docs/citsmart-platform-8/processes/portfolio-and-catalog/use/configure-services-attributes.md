@@ -50,6 +50,11 @@ Procedimento
 |      Avaliações do Serviço     | Atributo |                                                                Permite gerenciar as avaliações do serviço que foram registradas via Smart Portal                                                               |
 |      Auditoria do Serviço      | Atributo |                                                                        Permite verificar o histórico do serviço para auditoria do mesmo                                                                        |
 
+
+!!! info "REQUISITO DE NÍVEL DE SERVIÇO"
+    Requisitos de Nível de Serviço; Alterando: Data de criação, Data de início do serviço, Dono do Serviço, Utilidade do Serviço (Especificação, Contexto, Funcionalidades Essenciais), Garantia do Serviço (Segurança, Disponibilidade, Capacidade, Continuidade do Negócio, Performance/Desempenho, Interrupções Planejadas), Suporte de Serviço (Gestão de Incidentes, Gestão de Problemas, Gestão de Mudanças), Conformidade (Interna, Externa) e Documentos anexos;
+
+
 Relacionado
 ---------------
 
