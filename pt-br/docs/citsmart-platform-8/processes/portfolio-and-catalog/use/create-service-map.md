@@ -16,9 +16,9 @@ Procedimento
 
 2.  Clicar em "Mapa de Serviço";
 
-3.  Na área disponibilizada, vc poderá desenhar o Mapa com os **Serviços de Apoio** vinculados so serviço( opção "Serviço de Apoio") e  também com os **Itens de Configuração** Definidos;
+3.  Na área disponibilizada, você poderá desenhar o Mapa com os **Serviços de Apoio** vinculados ao serviço( opção "Serviço de Apoio") e  também com os **Itens de Configuração** definidos;
 
-4.  Grave o Mapa de Serviços 
+4.  Grave o Mapa de Serviços.
 
 Relacionado
 ---------------
