@@ -5,7 +5,7 @@ Description: Passos para implementar a Solução Neuro
 
 ![create neuro app](images/neuro-1.png)
 
-Figura 1 - Creiar aplicação Neuro
+Figura 1 - Criar aplicação Neuro
 
 
 ![business](images/neuro-2.png)
