@@ -1,6 +1,6 @@
 title: Overview of event management
 Description: This functionality is intended to present some functionalities to the even management.
-#Event management
+# Event management
 
 Presentation
 ----------------
@@ -73,7 +73,7 @@ Configuration
 Reports
 -----------
 
-- [Generate reports - event management](/en-us/citsmart-platform-8/processes/event/configuration/generate-reports-event-management.html)  
+- [Generate reports - event management](/en-us/citsmart-platform-8/processes/event/use/generate-reports-event-management.html)  
 
 !!! tip "About"
 
