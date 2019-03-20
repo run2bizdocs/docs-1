@@ -20,12 +20,12 @@ resources.
 
    -  **Default page**
 
-         * Page used to start SM service, search the data inside database and register
+       * Page used to start SM service, search the data inside database and register
           directly on it.
 
    -  **CRUD page**
 
-        * Page automatically created by the business Object, with the basic functions
+       * Page automatically created by the business Object, with the basic functions
 
    -  **Process page**
 
