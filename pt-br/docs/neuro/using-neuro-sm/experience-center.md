@@ -12,7 +12,7 @@ Centro de Experiência
 
     Figura 1 - Dados básicos
 
-3.  Vincular o formulário a um Centro de Experiência.
+3.  Vincular o formulário a um Centro de Experiência;
 
 4.  Selecionar formulário
 
