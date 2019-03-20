@@ -1,6 +1,6 @@
 title: Internacionalización
-Description: Internacionalizaión
-#Internacionalizaión
+Description: Internacionalización
+#Internacionalización
 
 Neuro utiliza labels (claves) para hacer la internacionalización de los formularios. Cada campo asignado en el formulario puede utilizar una label y estas labels se adjuntan a una clave de internacionalización, las claves se conectan a la aplicación Neuro.
 
