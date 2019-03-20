@@ -8,7 +8,7 @@ Centro de Experiencia
 
 2.  Marcar su formulario para **Mostrar Como Widget SM**;
 
-    ![basic](images/neuro-sm-5.png)
+    ![basic](images/neuro-sm-5.jpg)
 
     Figura 1 - Datos básicos
 
@@ -16,24 +16,25 @@ Centro de Experiencia
 
 4.  Selección de un formulario;
 
-    ![basic](images/neuro-sm-6.jpg)
+    ![basic](images/neuro-sm-7.png)
 
     Figura 2 - Formulario
 
-    ![basic](images/neuro-sm-7.png)
+    ![basic](images/neuro-sm-8.png)
 
     Figura 3 - Formulario (continuación)
 
 5.  Uso del Centro de Experiencia para Insertar Datos:
 
-![basic](images/neuro-sm-8.png)
+![basic](images/neuro-sm-9.png)
 
 Figura 4 - Centro de Experiencia
 
 
-![basic](images/neuro-sm-9.png)
+![basic](images/neuro-sm-10.png)
 
 Figura 5 - Centro de Experiencia (continuación)
+
 
 
 !!! tip "About"
