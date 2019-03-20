@@ -3,6 +3,12 @@ Description: Is intended to register the service work orders (WO).
 #Register service work order (WO)
 This functionality is intended to register the service work orders (WO).
 
+Before getting started
+--------------
+
+Prior registration of the type of service and the category of service is required.
+
+
 Procedure
 -------------
 
