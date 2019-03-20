@@ -36,6 +36,7 @@ Figura 4 - Centro de Experiencia
 Figura 5 - Centro de Experiencia (continuación)
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
