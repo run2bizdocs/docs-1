@@ -1,6 +1,8 @@
 title: Criar um ticket
 Description: Criar um ticket significa abrir um chamado dentro do sistema. 
-#Criar um ticket
+
+# Criar um ticket
+
 Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade de acompanhar seu histórico de atendimento com visualização de todas as ações remetidas a ele.
 
 Antes de começar
