@@ -38,7 +38,7 @@ Existem duas formas de interface Neuro com um Ticket:
 
   b)  Vincular o formulário a uma etapa do Fluxo SM na guia "Interface" de uma tarefa de usuário
     
-   ![create](images/neuro-sm-5.jpg)
+   ![create](images/neuro-sm-13.png)
 
    Figura 5 - Interface
     
