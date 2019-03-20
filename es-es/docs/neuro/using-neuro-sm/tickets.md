@@ -12,19 +12,19 @@ Hay dos formas de interfaz Neuro con un Ticket:
     
     ![create](images/neuro-sm-12.jpg)
 
-    Figura 1 - Crear plantilla SM
+     Figura 1 - Crear plantilla SM
     
   c)  Vincular la plantilla para solicitud/incidente;
     
     ![create](images/neuro-sm-1.jpg)
 
-    Figura 2 - Vincular plantilla
+     Figura 2 - Vincular plantilla
     
   d)  Utilizar la plantilla en la solicitud/incidente.
     
     ![create](images/neuro-sm-2.jpg)
 
-    Figura 3 - Utilizar la plantilla
+     Figura 3 - Utilizar la plantilla
     
 
 2.  Puede utilizar un formulario durante la resolución (pasos) del flujo de proceso en la solicitud/incidente;
@@ -33,14 +33,14 @@ Hay dos formas de interfaz Neuro con un Ticket:
     
     ![create](images/neuro-sm-3.png)
 
-    Figura 4 - Vincular plantilla
+     Figura 4 - Vincular plantilla
     
 
   b)  3)	Vincular el formulario a un paso de Flujo SM en la guía "Interfaz" de una tarea de usuario
     
-    ![create](images/neuro-sm-4.png)
+    ![create](images/neuro-sm-13.png)
 
-    Figura 5 - Interface
+     Figura 5 - Interface
     
 
 !!! tip "About"
