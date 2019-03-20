@@ -15,7 +15,7 @@ Antes de começar
 
 ## Dados gerais
 
-1.  1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \>
+1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \>
     Objeto de Negócio;
 
 2.  Clicar em “Cadastrar”;
