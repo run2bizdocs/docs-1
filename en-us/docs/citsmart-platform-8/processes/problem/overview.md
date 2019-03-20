@@ -43,7 +43,7 @@ Configuration
 Report
 -------------
 
--   [Create reports – Problem management](/en-us/citsmart-platform-8/processes/problem/configuration/generate-reports-problem-management.html)
+-   [Create reports – Problem management](/en-us/citsmart-platform-8/processes/problem/use/generate-reports-problem-management.html)
 
 !!! tip "About"
 
