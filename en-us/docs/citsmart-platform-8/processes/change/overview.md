@@ -1,6 +1,6 @@
 title:  Change Management 
 Description: Change Management is the process responsible for evaulate, coordinate and decide about the execution of a proposed change 
-#Change Management  
+# Change Management  
 
 Presentation
 ----------------
@@ -64,9 +64,9 @@ Configuration
 Report
 -------------
 
--   [Create report - Change management](/en-us/citsmart-platform-8/processes/change/configuration/generate-reports-change-management.html)
+-   [Create report - Change management](/en-us/citsmart-platform-8/processes/change/use/generate-reports-change-management.html)
 
--   [Create reports through dashboards and reports – Changes](/en-us/citsmart-platform-8/processes/change/configuration/generate-reports-charts-panel-change.html)
+-   [Create reports through dashboards and reports – Changes](/en-us/citsmart-platform-8/processes/change/use/generate-reports-charts-panel-change.html)
 
 -   [Additional reports of change](/en-us/citsmart-platform-8/processes/change/use/change-additional-reports.html)
 
