@@ -19,7 +19,7 @@ Figura 1 - Crear menu SM
 
 ![create](images/neuro-sm-12.jpg)
 
-Figura 2 - Crear menu SM (continuação)
+Figura 2 - Crear menu SM (continuación)
 
 
 !!! tip "About"
