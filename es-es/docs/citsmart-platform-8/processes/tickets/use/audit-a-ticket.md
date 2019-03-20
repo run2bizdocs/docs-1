@@ -15,10 +15,11 @@ Procedimiento
     Requerimiento e Incidente \> Ticket;
 
 2.  Haga clic en el primer botón situado en la esquina superior izquierda y
-    luego haga clic en el elemento de "Auditoría"; Llenar los filtros para
-    auditar los tickets que quiera;
+    luego haga clic en el elemento de "Auditoría"; 
+    
+3.  Llenar los filtros para auditar los tickets que quiera;
 
-3.  Haga clic en el icono simbolizado por una lupa para definir los filtros
+4.  Haga clic en el icono simbolizado por una lupa para definir los filtros
     necesarios para verificar el histórico de las instancias del ticket para la
     auditoria.
 

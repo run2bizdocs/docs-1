@@ -1,6 +1,7 @@
 title: Gerenciamento de Problema 
 Description: É responsável pela resolução definitiva e prevenção das falhas por trás dos incidentes
-#Gerenciamento de Problema
+
+# Gerenciamento de Problema
 
 Apresentação
 ----------------
@@ -43,7 +44,7 @@ Configuração
 Relatório
 -------------
 
--   [Gerar relatórios – Gerência de problemas](/pt-br/citsmart-platform-8/processes/problem/configuration/generate-reports-problem-management.html)
+-   [Gerar relatórios – Gerência de problemas](/pt-br/citsmart-platform-8/processes/problem/use/generate-reports-problem-management.html)
 
 !!! tip "About"
 

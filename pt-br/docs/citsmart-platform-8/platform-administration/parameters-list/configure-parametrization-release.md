@@ -25,7 +25,6 @@ Procedimento
 
 |  #  |                                     Nome                                    | Valores possíveis |                                                                                               Finalidade                                                                                              | Orientações complementares |
 |:---:|:---------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|
-|  31 | Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) |       S ou N      |                          Definir se será feito o envio de notificações por e-mail para o solicitante ao realizar a execução dos fluxos de solicitação de serviços/incidentes.                         |        Não se aplica       |
 | 146 |                         Id template do questionário                         |       Ex: 13      | Informar o número de identificação (ID) do template para o questionário (checklist) referente à mudanças e liberação. Esse ID do template é definido na tela de “Template de Solicitação de Serviço”. |        Não se aplica       |
 
 

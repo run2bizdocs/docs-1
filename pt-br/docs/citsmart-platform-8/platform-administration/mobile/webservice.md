@@ -4,7 +4,9 @@ Title: Mobile
 
 A funcionalidade Mobile foi desenvolvida para permitir maior autonomia no gerenciamento de serviços, pois permite a provisão de serviços em diferentes perspectivas, seja como portal de atendimento ao usuário final, seja como instância flexível para o analista realizar o serviço de campo.
 
-# Relacionado
+
+Relacionado
+----------
 
 [Configurar instância para uso do aplicativo CITSmart FS][1]
 

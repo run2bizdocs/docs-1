@@ -4,7 +4,9 @@ Title: Mobile
 
 The Mobile functionality was developed to allow greater autonomy in the management of services, since it allows the provision of services in different perspectives, either as an end-user service portal or as a flexible instance for the analyst to do field service.
 
-# Related
+
+Related
+------
 
 [Configure CITSmart Field Service (FS) application][1]
 

@@ -26,12 +26,10 @@ Procedimiento
     tareas, y otros. También es permitido vincular un cuadro ya creado al hacer clic 
     en el otro botón relacionado al “Workspace”.
 
-4.  Aún es posible vincular acciones, notificaciones, conocimientos y anexos de
-    adjuntos para detallar la ejecución del cambio. Para ello, es necesario
-    hacer clic sobre en la pestaña disponible, seleccione el elemento deseado para
-    vincularlo al cambio
+4.  Aún es posible vincular acciones, notificaciones, conocimientos y anexos de adjuntos para detallar la ejecución del cambio. Para         ello, es necesario hacer clic sobre en la pestaña disponible, seleccione el elemento deseado para vincularlo al cambio.
 
     !!! Abstract "NOTA"
+    
         Es disponible la creación de nuevas notificaciones del sistema, al hacer clic en
         “Registrar”, ubicado en la pestaña de mismo nombre.
 

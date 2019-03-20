@@ -20,6 +20,8 @@ Procedure
 
 3.  Click on "Search" to display the system log as the data informed;
 
+4. To generate the system log report, click the "Generate Report" button.
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;

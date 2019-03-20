@@ -30,7 +30,7 @@ Procedure
     
     !!! Abstract "NOTE"
     
-        The deletion is only possible if there is no service linked to the flow to be removed
+        The deletion is only possible if there is no service linked to the flow to be removed.
 	    
 3.  When click on "Edit" and select any version of the flow, it'll be presented the
     flow information in three tabs: "Flow data", "Diagram" and "Documentation".

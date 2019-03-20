@@ -101,7 +101,7 @@ aplicativo na loja on-line (App Store).
 Utilização do app no mobile
 ---------------------------
 
-##### Visualizando solicitações de serviço
+#### Visualizando solicitações de serviço
 
 1.  Após realizar a conexão, será apresentada a tela menu, onde clicará na opção
     Tickets de Serviços.
@@ -164,7 +164,7 @@ Utilização do app no mobile
         SLA, Reclassificar, Criar sub-solicitações, Exibir sub-solicitações, Agendar
         atividade, Criar solicitação relacionada e Imprimir Solicitação).
 
-##### Criando solicitação de serviço
+#### Criando solicitação de serviço
 
 1.  Para criar uma solicitação de serviço, pressione o ícone  localizado no
     canto direito inferior da tela e selecione o ícone  “Novo ticket”, conforme
@@ -309,7 +309,7 @@ Utilização do app no mobile
     -   **Situação**: selecione a opção que se encaixa com o atual estado da
     solicitação: **Registrada/Em andamento**.
 
-##### Aprovando/rejeitando solicitação de serviço
+#### Aprovando/rejeitando solicitação de serviço
 
 Algumas solicitações necessitam de aprovação, portanto, para atendê-las é
 necessário aprová-las.

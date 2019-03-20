@@ -1,6 +1,6 @@
 title: Create experience center
 Description: This feature provides a variety of actions, such as including, changing, and deleting the Experience Center.
-#Create experience center
+# Create experience center
 The objective of the Experience Center (EC) is create a portal that the user can customize. When creating this portal, it's possible to customize the layout and the access references most appropriated to the client (as defined in the company's rules), and also make available the addition of videos from Youtube and the creation of Slideshows, within other applicability, in order to ensure an user experience more interactive and intuitive.
 This feature provides a variety of actions, such as including, changing, and deleting the Custom Experience Center.
 
@@ -76,7 +76,7 @@ Procedure
 
 
 
- ### Widgets Available
+### Widgets Available
  
 
 |      **Name**      |  **Type**  |                          **Objective**                                       |

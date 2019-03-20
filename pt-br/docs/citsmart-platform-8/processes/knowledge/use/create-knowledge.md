@@ -19,7 +19,7 @@ Procedimento
 2.  Clicar no botão "Opções", localizado no canto inferior direito, logo em
     seguida em Adicionar novo conhecimento;
     
-## Registro, Relacionamentos e Notificação
+### Registro, Relacionamentos e Notificação
 
 ![aba](images/create-1.png)
 
@@ -49,7 +49,7 @@ Figura 1 - Criar conhecimento
     Para que a aba Item de Configuração esteja disponibilizada, o documento
     deverá estar salvo.
   
-## Conformidade
+### Conformidade
 
 ![aba](images/create-2.png)
 
@@ -64,7 +64,7 @@ Figura 2 - Guia Opções
 
 -   Legislação: o conhecimento é referente a uma legislação ou não.
 
-## Dados de Registro
+### Dados de Registro
 
 Na guia Cadastro, são apresentados vários campos para preenchimento, entre eles:
 
@@ -114,7 +114,7 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
         documento a todos os usuários.
 
 
-## Opções de publicação
+### Opções de publicação
 
 ![aba](images/create-4.png)
 
@@ -132,7 +132,7 @@ Figura 3 - Botão Opções
 -   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
     Conhecimentos.
 
- ## Outras opções 
+### Outras opções 
  
  
  ![aba](images/create-3.PNG)

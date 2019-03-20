@@ -33,7 +33,7 @@ Procedure
     the email to be sent (the system don't search the recipients via
     "Expression").
 
-*Configure the email approval notification*
+## Configure the email approval notification
 
 1.  Access the functionality through the menu System \> Settings \> Email
     template;

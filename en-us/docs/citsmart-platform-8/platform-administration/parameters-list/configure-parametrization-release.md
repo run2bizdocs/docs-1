@@ -26,7 +26,6 @@ Procedure
 
 |  #  |                                Name                                | Possible Values |                                                                                Purpose                                                                                | Additional Guidance |
 |:---:|:------------------------------------------------------------------:|:---------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
-|  31 | Send email in the execution of request/incident flows (Eg: Y or N) |      Y or N     |                          Define if the email notifications will be sent to the requester when performing the service/incident request flows.                          |    Not applicable   |
 | 146 |                      Questionnaire template ID                     |     E.g.: 13    | Enter the identification number (ID) of the template for the checklist for the changes and release. This template ID is set on the "Service Request Template" screen. |    Not applicable   |
 
 Table 1 - Parameters list

@@ -9,7 +9,7 @@ Uso del Logotipo e Inicio de Sesión
 
 El uso de la imagen CITSmart ha sido optimizada para mejorar el uso de datos, así como la aplicación dentro de la solución, haciéndola más simple, ligera y adecuada para los nuevos direccionamientos del producto.
 
-![Nuevo acceso de CITSmart](images/77fd754a5b667e3e2d5f5a2f2963ddf9.png)
+![Nuevo acceso de CITSmart](images/citsmart-login.png)
 
 Centro de Experiencia
 ---------------------
@@ -62,7 +62,7 @@ Lista los tickets del usuario conectado **(a.)**, ofrece un historial de atenci�
 
 ![d-Chat con el asistente](images/ba9bb6e90129912b1ae133d0d48a0c38.png)
 
-Para más información **XXXXXXX (colocar link do CE)**
+Para más información acceder la documentación del [Centro de Experiencia][1]
 
 ### Widget Mis Aprobaciones
 
@@ -150,7 +150,7 @@ Cada tarea puede tener uno o más miembros. Se puede agregar:
 
 ![Detalle de la Tarea](images/567ad02f39ebfa223c1670d3f51225bd.png)
 
-Para más información...  **XXXXXXX (colocar link do SIMPLE)**
+Para más información acceder la documentación del [Simple][2]
 
 Gestión de Problemas
 --------------------------
@@ -198,7 +198,7 @@ También hay una nueva área de Solución con vínculo directo al Simple y a los
 
 ![b-Revisión y cierre](images/d1376fef59089e5eb76c3aebfbefa180.png)
 
-Para más información... **XXXXXXX (colocar link do problema)**.
+Para más información acceder la documentación de [Gestión de Problema][3]
 
 Gestión de Configuración y Activos
 --------------------------------------
@@ -223,7 +223,7 @@ La visualización del EC también fue optimizada. Ahora las principales informac
 
 ![b-Garantías del EC](images/065a32778b352c6c59dbc7b2ab64726c.png)
 
-Para más información...  **XXXXXXX (colocar link do Configuração e CMDB)**
+Para más información acceder la documentación de [Gestión de Configuración][4]
 
 Gestión de Cambio
 -------------------------
@@ -260,7 +260,7 @@ En la Revisión y cierre del cambio, además de informar si el cambio fue hecho 
 
 ![Revisión y cierre](images/e537aa0813efbcd3645310829c2be25e.png)
 
-Para más información...  **XXXXXXX (colocar link da Mudança)**.
+Para más información acceder la documentación de [Gestión de Cambio][5]
 
 ### Gestión de Liberación e Implementación
 
@@ -288,7 +288,7 @@ Uno de los módulos opcionales en esta nueva versión es el Smart Analytics, que
 
 Los caminos de auditoría fueron creadas para dar más transparencia del uso de datos y seguridad de nuestro sistema, hay tres opciones de Auditoría: de **datos**, de **acceso** y de **clave**. 
 
-[Para más información...](https://docs.citsmart.com/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+Para más información acceder la documentación de [Auditoría del Sistema][6]
 
 **Auditoría de datos.**
 
@@ -330,13 +330,13 @@ El App FS fue creado para dar más flexibilidad y agilidad en atendimientos hech
 
 ![App FS](images/4ebf0054cd4a342fcc282ad1ad90560d.png)
 
-[Para más información...](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+Para más información acceder la documentación de [CITSmart Field Service][7]
 
 ### App Service Management
 
 App Mobile SM ha sido creado para que las facilidades y beneficios de la solución CITSmart puedan ser accedidos también a través de dispositivos móviles. Esta nueva versión incluye notificaciones para el sistema operativo Android y la posibilidad de confirmación de atención vía subscripción.
 
-[Para más información](https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+Para más información acceder la documentación de [Mobile CITSmart SM][8]
 
 ![App Mobile SM](images/74835ae6d648d6b2379495e4ba85f700.png)
 
@@ -349,6 +349,16 @@ App Mobile SM ha sido creado para que las facilidades y beneficios de la soluci�
 ![App Mobile SM](images/e9e509334fa4fb3e1bc94431675b7bd4.png)
 
 ![App Mobile SM](images/20ac60c7dce276d0e99595d169703efb.png)
+
+
+[1]:/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
+[2]:/es-es/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
+[3]:/es-es/citsmart-platform-8/processes/problem/overview.html
+[4]:/es-es/citsmart-platform-8/processes/configuration/overview.html
+[5]:/es-es/citsmart-platform-8/processes/change/overview.html
+[6]:/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
+[7]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
+[8]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
 
 
 !!! tip "About"

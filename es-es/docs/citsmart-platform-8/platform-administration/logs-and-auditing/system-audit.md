@@ -42,16 +42,14 @@ de la funcionalidad.
 2.  Informar en el campo “Directorio” la carpeta donde se mantendrá todos *Logs* de las
     auditorías hechas;
 
-3.  En el campo "Frecuencia en días" se puede ajustar una rutina de backup de los
-    registros de auditoría, al elegir la periodicidad del backup en días.
+3.  En el campo "Frecuencia en días" se puede ajustar una rutina de backup de los registros de auditoría, al elegir la periodicidad del     backup en días.
 
     !!! Abstract "NOTA"
 
-        La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del
-        backup.  
+        La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del backup.
+ 
 
-4.  Se dispone de la posibilidad de determinar un período específico (fecha
-     de inicio y fin) para la generación de los logs de auditoría del sistema.
+4.  Se dispone de la posibilidad de determinar un período específico (fecha de inicio y fin) para la generación de los logs de auditoría     del sistema.
 
     !!! note "IMPORTANTE"
 
@@ -63,14 +61,9 @@ de la funcionalidad.
 *Presenta el historial de todos los datos de cambio, inclusión y exclusión
 hechas en el sistema.*
 
-1.  Acceder al menú principal Sistema \>
-    Camino de auditoría \> Auditoría de datos;
+1.  Acceder al menú principal Sistema \> Camino de auditoría \> Auditoría de datos;
 
-2.  Se presentarán los logs de auditoría de todo el movimiento hecho en el programa,
-    mostrando la fecha y hora de las actualizaciones, dirección IP, nombre del
-    ejecutor de la actualización, nombre de la tabla, tipo de operación efectuada
-    en el sistema. Al hacer clic en el botón datos se mostrará lo que de hecho fue
-    actualizado en el programa.
+2.  Se presentarán los logs de auditoría de todo el movimiento hecho en el programa, mostrando la fecha y hora de las actualizaciones,      dirección IP, nombre del ejecutor de la actualización, nombre de la tabla, tipo de operación efectuada en el sistema. Al hacer clic      en el botón datos se mostrará lo que de hecho fue actualizado en el programa.
 
     !!! Abstract "ATENCIÓN"
 
@@ -83,8 +76,7 @@ hechas en el sistema.*
 
         -   La letra "E" significa la "Exclusión" de los datos del sistema.  
 
-3.  Se libera también la búsqueda de determinado *log* a través de los filtros dispuestos
-    en la pantalla.
+3.  Se libera también la búsqueda de determinado *log* a través de los filtros dispuestos en la pantalla.
 
 ***Auditoría de accesos al sistema***
 
@@ -97,9 +89,8 @@ hechas en el sistema.*
     registrando también la fecha y la hora de cada una de estas actividades;
 
     !!! Abstract "NOTA"  
-        Si el sistema expirar, no será posible capturar el cierre de sesión del
-        sistema, quedando registrado, por lo tanto, sólo la información de entrada
-        de la sesión de acceso.  
+        
+        Si el sistema expirar, no será posible capturar el cierre de sesión del sistema, quedando registrado, por lo tanto, sólo la             información de entrada de la sesión de acceso.  
 
 3.  Existen filtros para ayudar la búsqueda de un determinado acceso.
 
@@ -113,8 +104,7 @@ hechas en el sistema.*
 2.  Presenta los datos de las licencias adquiridas y usadas para la ejecución
     del sistema;
 
-3.  Es posible buscar una determinada licencia y su plazo de validez por los
-    filtros liberados en la pantalla principal.
+3.  Es posible buscar una determinada licencia y su plazo de validez por los filtros liberados en la pantalla principal.
     
 !!! tip "About"
 

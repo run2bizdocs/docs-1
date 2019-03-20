@@ -1,15 +1,30 @@
-Title: Frequently Asked Questions - FAQ
+Title: Perguntas Frequentes - FAQ
 
-Perguntas Frequentes - FAQ
----------------
+# Perguntas Frequentes - FAQ
+
 ??? Question "É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?"
     O processo de riscos na mudança começa no desenho do portfólo de mudança aonde é indocado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificada ou completa.. o próximo passo é, no cadastro da mudança informar os dados do(s) riscos na carra lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
     "**Simplificada**"  para uma  análise Simplificada e no item.  
     "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
     
-    ??? Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
+??? Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
     Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
-    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).  
+    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).
+
+??? Question "É possível atribuir a responsabilidade de um item de configuração a um usuário/grupo?"
+    Sim. É possivel atribuir o responsável por um IC editando as opções do mesmo (Processos > Gerência de Configuração > CMDB > Pesquisar > Editar > Tipo de Responsável > Responsável). Note que a atualização de um IC pode estar atrelada à Gestão de Mudança, sendo necessário vincular o ID de uma RDM.
+
+??? Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
+    
+    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.
+Para isso:
+
+    1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança);
+    2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>);
+    3. Na interface de gerência, clicar no item "ICs relacionados";
+    4. No item ações, clicar no ícone "Alterar";
+    5. Alterar o IC com as novas informações;
+    6. Clicar em "Gravar"
 
 ??? Question "É possível categorizar a Requisição/Incidente (Ticket)?"
     Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço]https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).  
