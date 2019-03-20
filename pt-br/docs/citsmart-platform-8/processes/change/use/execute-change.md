@@ -1,6 +1,6 @@
 title: Encerrar a mudança
 Description: Permite executar a mudança 
-#Encerrar a mudança 
+# Encerrar a mudança 
 
 Esta funcionalidade permite encerrar a mudança, explanando todos os fatos ocorridos no ciclo de vida da mudança, favorecendo assim o reexame e fiscalização da alteração criada a fim de reduzir custos e riscos para a organização.
 
@@ -44,6 +44,9 @@ Procedimento
     tarefa atual” para registar as atividades de planejamento ou selecionar o
     botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
     próxima fase do fluxo.
+    
+!!! info "Registro de Problema"
+    No encerramento de uma mudança, a ferramenta dispõe de funcionalidade que verifica a existência de problemas relacionados e, caso existam, encerra-os automaticamente. A funcionalidade está no fluxo default do sistema para o processo de gerenciamento de mudança.
 
 Relacionado 
 ------------
