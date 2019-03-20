@@ -20,12 +20,12 @@ resources.
 
    -  **Default page**
 
-         * Page used to start SM service, search the data inside database and register
+       * Page used to start SM service, search the data inside database and register
           directly on it.
 
    -  **CRUD page**
 
-        * Page automatically created by the business Object, with the basic functions
+       * Page automatically created by the business Object, with the basic functions
 
    -  **Process page**
 
@@ -86,7 +86,7 @@ Procedure
     Figure 3 - General data
     
 
-    * HTML: page html structure
+    * HTML: page HTML structure
 
     ![form](images/neuro-21.jpg)
 

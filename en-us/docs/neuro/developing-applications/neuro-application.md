@@ -14,19 +14,19 @@ Must have the DB Connection created.
 Procedure
 --------
 
-1)	Access the functionality through navigation in the menu Neuro > Management > Application;
+1.	Access the functionality through navigation in the menu Neuro > Management > Application;
 
-2)	Click on "New";
+2.	Click on "New";
 
-3)	Complete the fields available for “Application”; 
+3.	Complete the fields available for “Application”; 
 
-4)	Click on "Save” (the left Treview will be filled);
+4.	Click on "Save” (the left Treview will be filled);
 
-5)	Create either  Business Object, Business Rules, Forms, Flows and Business Processes.(the right area will open the registration for each element (on its context);
+5.	Create either  Business Object, Business Rules, Forms, Flows and Business Processes.(the right area will open the registration for each element (on its context);
 
-6)	Save each one separately;
+6.	Save each one separately;
 
-7)	Click on "Save” on Application.
+7.	Click on "Save” on Application.
 
 
 !!! Abstract "ATTENTION"

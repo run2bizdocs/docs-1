@@ -1,6 +1,6 @@
 title: Gerenciamento de ticket
 Description: According to ITIL "Service Management is a set of specialized organizational skills to provide value to clients in the form of services"
-#Gerenciamento de ticket
+# Gerenciamento de ticket
 
 Apresentação
 ----------------
@@ -110,9 +110,9 @@ Relatório
 
 - [Analisar tendências de solicitações de serviço](/pt-br/citsmart-platform-8/processes/tickets/use/analyse-service-request-trends.html)
 
-- [Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente](/pt-br/citsmart-platform-8/processes/tickets/configuration/generate-report-through-the-panel-of-charts.html)
+- [Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente](/pt-br/citsmart-platform-8/processes/tickets/use/generate-report-through-the-panel-of-charts.html)
 
-- [Gerar relatórios- Gerência de incidentes e requisições](/pt-br/citsmart-platform-8/processes/tickets/configuration/generate-reports-tickets.html)
+- [Gerar relatórios- Gerência de incidentes e requisições](/pt-br/citsmart-platform-8/processes/tickets/use/generate-reports-tickets.html)
 
 !!! tip "About"
 

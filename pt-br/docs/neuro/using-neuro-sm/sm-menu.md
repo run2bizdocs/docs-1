@@ -9,7 +9,7 @@ Description: Criar item de menu via Neuro
 
     1.  A **Descrição** do Item de Menu;
 
-    2.  Qual será o menu Pai e a Ordem (posição no menu) que o nosso formulário será colocado;
+    2.  Qual será o **menu Pai** e a **Ordem** (posição no menu) que o nosso formulário será colocado;
 
     3.  O sistema irá gerar um Link automaticamente para o nosso formulário.
 

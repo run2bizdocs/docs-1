@@ -1,6 +1,6 @@
 title: Gerenciamento de Portfólio e Catálogo
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
-#Gerenciamento de Portfólio e Catálogo
+# Gerenciamento de Portfólio e Catálogo
 
 Apresentação
 ----------------
@@ -76,7 +76,7 @@ Configuração
 Relatório
 ----------
 
-- [Gerar relatórios - catálogo de serviços](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
+- [Gerar relatórios - catálogo de serviços](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/reports-service-catalog.html)
 
 - [Verificar auditoria de serviços](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/service-audit.html)
 
