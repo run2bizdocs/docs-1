@@ -16,22 +16,22 @@ Centro de Experiência
 
 4.  Selecionar formulário
 
-    ![basic](images/neuro-sm-7.png)
+    ![basic](images/neuro-sm-8.png)
 
     Figura 2 - Formulário
 
-    ![basic](images/neuro-sm-8.png)
+    ![basic](images/neuro-sm-9.png)
 
     Figura 3 - Formulário (continuação)
 
 5.  Usando o Centro de Experiência para Inserir Dados:
 
-![basic](images/neuro-sm-9.png)
+![basic](images/neuro-sm-10.png)
 
 Figura 4 - Centro de Experiência
 
 
-![basic](images/neuro-sm-10.png)
+![basic](images/neuro-sm-11.png)
 
 Figura 5 - Centro de Experiência (continuação)
 
