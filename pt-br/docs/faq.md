@@ -15,8 +15,7 @@ Title: Perguntas Frequentes - FAQ
     Sim. É possivel atribuir o responsável por um IC editando as opções do mesmo (Processos > Gerência de Configuração > CMDB > Pesquisar > Editar > Tipo de Responsável > Responsável). Note que a atualização de um IC pode estar atrelada à Gestão de Mudança, sendo necessário vincular o ID de uma RDM.
 
 ??? Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
-    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.
-Para isso: 1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>); 3. Na interface de gerência, clicar no item "ICs relacionados"; 4. No item ações, clicar no ícone "Alterar"; 5. Alterar o IC com as novas informações; 6. Clicar em "Gravar"
+    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança. Para isso: 1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir" (>); 3. Na interface de gerência, clicar no item "ICs relacionados"; 4. No item ações, clicar no ícone "Alterar"; 5. Alterar o IC com as novas informações; 6. Clicar em "Gravar"
 
 ??? Question "É possível categorizar a Requisição/Incidente (Ticket)?"
     Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço]https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
