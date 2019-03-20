@@ -1,10 +1,11 @@
 title:  Register a service
 Description: This feature provides a variety of actions, such as including, changing, and deleting a service.
-#Register a service
+
+# Register a service
 
 The service registration is divided in two types:
 
-•	Business: provides business / IT services;
+•	Business: provides business/IT services;
 
 •	Technical: provides the support/technical services.
 
@@ -54,6 +55,8 @@ Related
 [Define the permission to access Portfolio Management functionalities](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/portfolio-management.html)
 
 [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+
+[Create service map](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-map.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
