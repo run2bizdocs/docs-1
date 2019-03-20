@@ -1,6 +1,6 @@
 title: Overview of portfolio and catalog management
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
-#Portfolio and Catalog management
+# Portfolio and Catalog management
 
 Presentation
 ----------------
@@ -80,7 +80,7 @@ Configuration
 Report
 ----------
 
-- [Generate reports - service catalog](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/reports-service-catalog.html)
+- [Generate reports - service catalog](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/reports-service-catalog.html)
 
 - [Verify service audit](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/service-audit.html)
 
