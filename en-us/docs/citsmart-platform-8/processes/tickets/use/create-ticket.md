@@ -25,7 +25,7 @@ Procedure
 
 4.  Complete all necessary data.
 
-!!! Abstract "TIP"
+!!! Success "TIP"
 
     The "Description" field is the space for the ticket information to contain 
     words that refer directly to that service, being objective and easily associated 
