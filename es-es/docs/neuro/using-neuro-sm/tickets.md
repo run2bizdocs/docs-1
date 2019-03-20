@@ -4,7 +4,7 @@ Description: Uso de aplicaciones Neuro en Tickets
 
 Hay dos formas de interfaz Neuro con un Ticket:
 
-1.  Puede crear un formulario que será una fuente de información para el proceso de una solicitud, por lo que podrá:
+1.  Puede crear un **formulario que será una fuente de información para el proceso** de una solicitud, por lo que podrá:
 
   a)  Crear un formulario para el objeto de negocio;
 
@@ -27,7 +27,7 @@ Hay dos formas de interfaz Neuro con un Ticket:
    Figura 3 - Utilizar la plantilla
     
 
-2.  Puede utilizar un formulario durante la resolución (pasos) del flujo de proceso en la solicitud/incidente;
+2.  Puede **utilizar un formulario durante la resolución (pasos) del flujo de proceso** en la solicitud/incidente;
 
   a)  Seleccionar usuario de tarea
     
