@@ -51,7 +51,7 @@ Figura 1 - Identificacão
 
 ![business](images/neuro-10.jpg)
 
-Figure 2 - Banco de dados
+Figura 2 - Banco de dados
 
 
 ## Colunas
