@@ -86,7 +86,7 @@ Procedure
     Figure 3 - General data
     
 
-    * HTML: page html structure
+    * HTML: page HTML structure
 
     ![form](images/neuro-21.jpg)
 
