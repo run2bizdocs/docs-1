@@ -35,7 +35,7 @@ Procedure
     
     !!! Abstract "NOTE"
     
-         It'll only be pssible to escalate to an employee who is active in the project.
+         It'll only be possible to escalate to an employee who is active in the project.
          
     - **Roles/Responsibilities**: Inform the employees responsible for the execution of the 
     project, defining their roles and responsibilities within the scope of the project. You can 
