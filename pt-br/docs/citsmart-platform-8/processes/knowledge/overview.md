@@ -36,7 +36,7 @@ Configuração
 Relatório
 -----------
 
-- [Gerar relatórios - Gerência de conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Gerar relatórios - Gerência de conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
