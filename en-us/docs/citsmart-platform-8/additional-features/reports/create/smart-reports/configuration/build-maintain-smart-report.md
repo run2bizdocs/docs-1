@@ -45,9 +45,6 @@ Procedure
        +	Specific: select a single module where you want the report to be displayed (Configuration, Incidentes/Requestes,    Incidents/Requests (chart), Release, Change, Problem).  
 
 
-4.  Define the module (functionality) where the report being created will be
-    displayed:
-
 5.  Click on "Save";
 
 6.  There is the possibility to also import a "Report". Therefore, click on

@@ -3,11 +3,17 @@ Description: Is intended to verify the report that demonstrates the cost per hou
 #Report about cost of unavailability of a service
 
 This document is intended to verify the report that demonstrates the cost per hour of unavailability of a service, where:
+
 •	Time Available: time (within the working day) that incidents of the service became available in the period;
+
 •	Time of Unavailability: time in hours (within the working day) that service incidents became unavailable during the period;
+
 •	Number of breakdowns: number of service incidents;
+
 •	MTBSI = Time available / Nº of breakdowns;
+
 •	MTBF = (Time available - Time of unavailability) / Nº of Breakdowns;
+
 •	MTRS = Time of Unavailability / Nº of breakdowns.
 
 Before getting started

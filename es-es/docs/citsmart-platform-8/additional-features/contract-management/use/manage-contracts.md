@@ -157,7 +157,7 @@ Procedimiento para vincular SLA Global al servicio del contrato
 
 3.  Hay dos formas de vincular el SLA global al Servicio del Contrato, siendo:
 
-### Primera forma:
+**Primera forma:**
 
 1.  Hacer clic en la pestaña "Servicios del Contrato" y después en "Gestionar
     SLAs Globales";
@@ -169,7 +169,7 @@ Procedimiento para vincular SLA Global al servicio del contrato
 3.  Seleccionar los servicios y hacer clic en "Guardar" para vincular el SLA con
     los servicios.
 
-### Segunda forma:
+**Segunda forma:**
 
 1.  Hacer clic en la pestaña "Servicios del Contrato" y después en el icono "Acuerdos de Nivel de Servicio" del
     servicio. Hacer clic en "Vincular Acuerdo" y completar los campos

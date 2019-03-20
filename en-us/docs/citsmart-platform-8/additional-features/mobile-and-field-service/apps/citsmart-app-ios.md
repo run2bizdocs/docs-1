@@ -104,7 +104,7 @@ store (app store).
 Using the app on the mobile
 ---------------------------
 
-### Viewing service requests
+#### Viewing service requests
 
 1.  After the connection is made, the menu screen will be displayed, where you
     can click on the Service Ticket:
@@ -173,7 +173,7 @@ Using the app on the mobile
        Change SLA, Reclassify, Create sub-requests, Show sub-requests, Schedule
        activity, Create related request and Print Request).
 
-### Creating service request
+#### Creating service request
 
 1.  To create a service request, press the “Operations” icon located in the
     lower right corner of the screen and select the "New ticket" option, as
@@ -319,7 +319,7 @@ Using the app on the mobile
        +   Situation: select the option that fits with the current status of the
        request: Registered / In progress.
 
-### Approving/rejecting service request
+#### Approving/rejecting service request
 
 Some requests need approval, so to meet them you need to approve them.
 
