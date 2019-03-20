@@ -1,6 +1,6 @@
 title:  Gestión de Cambio 
 Description: Gestión de Cambios es el proceso responsable por evaluar, coordinar y decidir sobre  la realización de cambios propuestos
-#Gestión de Cambio  
+# Gestión de Cambio  
 
 Presentación
 ----------------
@@ -66,9 +66,9 @@ Configuración
 Informe
 -------------
 
--   [Crear informes – Gestión de cambio](/es-es/citsmart-platform-8/processes/change/configuration/generate-reports-change-management.html)
+-   [Crear informes – Gestión de cambio](/es-es/citsmart-platform-8/processes/change/use/generate-reports-change-management.html)
 
--   [Generar informes por el panel de gráficos e informes - Cambios](/es-es/citsmart-platform-8/processes/change/configuration/generate-reports-charts-panel-change.html)
+-   [Generar informes por el panel de gráficos e informes - Cambios](/es-es/citsmart-platform-8/processes/change/use/generate-reports-charts-panel-change.html)
 
 -   [Informes adicionales del cambio](/es-es/citsmart-platform-8/processes/change/use/change-additional-reports.html)
 
