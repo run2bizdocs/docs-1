@@ -8,7 +8,22 @@ Title: Frequently Asked Questions - FAQ
     "**Simplified**" for a simplified analysis in the item.
     "**Complete**" for a complete risk analysis with the definitionof Targets, Impact Analysis and Risk Evaluation.
     
+??? Question "Is it possible to attach documents to incidents, requests, problems and changes?"
+
+    Both the Reques and Incident may have documents attatched in their opening and attendance, for Problems and Changes documents may be attached to each phase of the solution and also, if necessary, in each of the stages defined in the solution of the problem or change.
+    Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (default is 1GB).
     
+??? Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
+    
+    Yes. It's possible to assign the person responsible for a CI by editing its options (Processes > Configuration Management > CMDB > Search > Edit > Responsible Type > Responsible). Note that updating a CI may be tied to Change Management, being necessary to link the ID of a RFC.
+
+??? Question "How to update a Configuration Item directly by the Request for Change?"
+
+    When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 1. Access the Change Management (Processes > Change Management > Change); 2. Select the RFC and click on it, then click on "Open"; 3. In the management interface, click on the item "Related CI"; 4. In the actions item, click on the "Change" icon; 5. Change the CI with the new information; 6. Click on "Save".
+    
+??? Question "Is it possible to categorize the Request/Incident (Ticket)?"    
+
+    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
 ??? Question "How are documents ranked at the time of SOLR knowledge base search?"
     

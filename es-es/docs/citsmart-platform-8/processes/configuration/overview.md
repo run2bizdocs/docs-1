@@ -1,6 +1,6 @@
 title: Gestión de Configuración
 Description: Permite identificar, registrar y administrar los elementos de configuración (EC).
-#Gestión de Configuración
+# Gestión de Configuración
 
 
 Presentación
@@ -66,9 +66,9 @@ Configuración
 Informe
 ----------
 
-- [Generar informes - Gestión de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/generate-report-configuration-management.html)
+- [Generar informes - Gestión de configuración](/es-es/citsmart-platform-8/processes/use/configuration/generate-report-configuration-management.html)
 
-- [Generar informes por el panel de gráficos e informes - Elementos de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/generate-reports-charts-panel-ic.html)
+- [Generar informes por el panel de gráficos e informes - Elementos de configuración](/es-es/citsmart-platform-8/processes/configuration/use/generate-reports-charts-panel-ic.html)
 
 !!! tip "About"
 

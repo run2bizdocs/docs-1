@@ -36,7 +36,7 @@ Configuración
 Informe
 -----------
 
-- [Generar informes - Gestión de conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Generar informes - Gestión de conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 

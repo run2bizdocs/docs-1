@@ -1,6 +1,6 @@
 title: Gerenciamento de Conhecimento
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
-#Gerenciamento de Conhecimento
+# Gerenciamento de Conhecimento
 
 Apresentação
 ----------------
@@ -36,7 +36,7 @@ Configuração
 Relatório
 -----------
 
-- [Gerar relatórios - Gerência de conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/generate-reports-knowledge-management.html)
+- [Gerar relatórios - Gerência de conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 

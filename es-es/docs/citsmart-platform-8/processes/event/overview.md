@@ -1,6 +1,6 @@
 title: Gestión de Evento
 Description: This functionality is intended to present some functionalities to the even management.
-#Gestión de Evento
+# Gestión de Evento
 
 Apresentación
 ----------------
@@ -66,7 +66,7 @@ Configuración
 Informe
 -----------
 
-- [Generar informes - Gestión de eventos](/es-es/citsmart-platform-8/processes/event/configuration/generate-reports-event-management.html)
+- [Generar informes - Gestión de eventos](/es-es/citsmart-platform-8/processes/event/use/generate-reports-event-management.html)
 
 
 !!! tip "About"
