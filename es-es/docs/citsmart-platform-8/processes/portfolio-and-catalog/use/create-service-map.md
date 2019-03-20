@@ -1,29 +1,29 @@
-title: Criar Mapa de Serviço
-Description: Esta feature disponibiliza a vinculação de serviços, atividades, IC'sc para representação visual das dependencias e impacto de um serviço específico.
+title: Crear Mapa de Servicio
+Description: Esta funcionalidad ofrece la vinculación de servicios, actividades, EC para representación visual de las dependencias e impacto de un servicio específico.
 
-# Criar Mapa de Serviço
-Disponibiliza a vinculação de serviços, atividades, IC'sc para representação visual das dependencias e impacto de um serviço específico
+# Crear Mapa de Servicio
+Ofrece la vinculación de servicios, actividades, EC para representación visual de las dependencias e impacto de un servicio específico
 
-Antes de começar
+Antes de empezar
 --------------------
 
-Ter os Serviços de apoio e IC´s configurados
+Es necesario tener los Servicios de apoyo y EC configurados
 
-Procedimento
+Procedimiento
 ----------------
 
-1.  Durante o Desenho do Serviço;
+1.  Durante el Diseño del Servicio;
 
-2.  Clicar em "Mapa de Serviço";
+2.  Hacer clic en "Mapa de Servicio";
 
-3.  Na área disponibilizada, vc poderá desenhar o Mapa com os **Serviços de Apoio** vinculados so serviço( opção "Serviço de Apoio") e  também com os **Itens de Configuração** Definidos;
+3.  En el área disponible, usted podrá diseñar el Mapa con los **Servicios de Apoyo** vinculados al servicio (opción "Servicio de Apoyo") y también con los **Elementos de Configuración** definidos;
 
-4.  Grave o Mapa de Serviços 
+4.  Guardar el Mapa de Servicios 
 
 Relacionado
 ---------------
 
-[Cadastrar um Serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar Servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
