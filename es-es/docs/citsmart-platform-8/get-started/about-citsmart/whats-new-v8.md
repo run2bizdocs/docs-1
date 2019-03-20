@@ -68,9 +68,9 @@ Para más información acceder la documentación del [Centro de Experiencia][1]
 
 Aprobar un ticket por el CITSmart se hizo más simple, basta hacer clic en el icono aprobar **(a.)**, es posible visualizar los detalles del ticket y aprobarlo o no **(b.)**.
  
-![a-Aprobar una tarea](images/e9319f0fc18517cbd276c36493165f1f.png)
+![a-Aprobar una tarea](images/approve-task.bmp)
 
-![b-Visualización del ticket](images/fcfe60906f6eb574f1b79d3748ee1b07.png)
+![b-Visualización del ticket](images/view ticket.bmp)
 
 Menús
 ----
@@ -90,7 +90,6 @@ Permite mantener y visualizar áreas de trabajo por usuario con:
 
 **Cada usuario puede configurar su propio área con una o más pestañas.**
 
-![](images/5713bcb2ea7cd2b39c8c2eeb26e082c8.png)
 
 Acceso Rápido
 -------------
@@ -252,7 +251,7 @@ Para facilitar la organización y la clasificación de los registros de cambio, 
 También es posible vincular a las plantillas los formularios de análisis ágil de riesgo. Cada plantilla de cambio puede utilizar un formulario con preguntas y pesos. De acuerdo con el análisis, un gráfico de riesgo se presenta **(a.)**. OLa Planificación, Reversión, Revisión y Cierre del cambio ahora cuentan con un panel de gestión ágil (concepto "Simple"), así que varios equipos pueden realizar tareas de forma rápida, transparente y colaborativa **(b.)**.
 
 
-![a-Gráfico de análisis de riesgo](images/5e75c4a2e9b58289e8904df5a6b1db77.png)
+![a-Gráfico de análisis de riesgo](images/risk-analysis-chart.bmp)
 
 ![b-Planificación del cambio](images/change-planning.png)
 
