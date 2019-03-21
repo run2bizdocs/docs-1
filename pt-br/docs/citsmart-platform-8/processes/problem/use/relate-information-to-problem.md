@@ -1,6 +1,6 @@
 title: Relacionar informações ao problema
 Description: É possível vincular ao problema
-#Relacionar informações ao problema 
+# Relacionar informações ao problema 
 
 
 É possível vincular ao Problema uma série de informações, tais como: liberação, conhecimento, serviços relacionados, dentre outros.
@@ -49,9 +49,11 @@ Procedimento
     clicar no ícone “Serviços”, vincular o mesmo ao problema e ao apertar o
     ícone “Info” será possível visualizar todas as informações do IC vinculado;
     
-6.  Para vincular **Mudança**, clicar na Fase de "SOLUÇÃO" na aba de "Mudanças", vc poderá pesquisar pelo número da Mudança ou até cadastrar uma nova Mudança, após a vinculação é possível editar a Mudança, observar os “Itens
-    de Configuração” ao clicar no ícone de mesmo nome. Agora, para remover o
-    vínculo do Serviço, basta clicar no ícone “Remover” e confirmar a operação;
+6.  Para vincular **Mudança**, clicar na Fase de "SOLUÇÃO" na aba de "Mudanças", você poderá 
+    pesquisar pelo número da Mudança ou até cadastrar uma nova Mudança, após a vinculação é 
+    possível editar a Mudança, observar os “Itens de Configuração” ao clicar no ícone de mesmo 
+    nome. Agora, para remover o vínculo do Serviço, basta clicar no ícone “Remover” e 
+    confirmar a operação;
 
 7.  Ao clicar na área **“Serviços Relacionados”**, será apresentado o serviço
     relacionado ao problema (se o mesmo já tiver sido vinculado) com algumas
