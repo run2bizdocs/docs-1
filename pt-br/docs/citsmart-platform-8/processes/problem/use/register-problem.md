@@ -1,6 +1,6 @@
 title: Cadastrar um problema
 Description: Permite registrar os problemas encontrados.
-#Cadastrar um problema
+# Cadastrar um problema
 
 
 O processo de Gerenciamento de Problemas é responsável pela resolução definitiva e prevenção das falhas por trás dos incidentes que afetam o funcionamento normal dos serviços de TI.
@@ -34,17 +34,17 @@ Procedimento
     a execução dos problemas, tais como: o título e descrição do problema, o
     contrato a qual está vinculado, dentre outros;
     
-6. Indique o Impacto, Urgência e Gravidade para indicar a priorização do problema 
+6. Indique o Impacto, Urgência e Gravidade para indicar a priorização do problema; 
     
     !!! Abstract "ATENÇÃO"
         É necessário definir se o problema a ser cadastrado é um problema de
         natureza reativo a um contratempo encontrado ou é uma simples prática
         proativa a fim de administrar o sistema.
 
-6.  Selecionar, se necessário, quando será enviado as notificações sobre
+7.  Selecionar, se necessário, quando será enviado as notificações sobre
     problema;
 
-7.  Clicar no botão “Opções” e em seguida “Gravar”.
+8.  Clicar no botão “Opções” e em seguida “Gravar”.
 
 Relacionado
 ------------
