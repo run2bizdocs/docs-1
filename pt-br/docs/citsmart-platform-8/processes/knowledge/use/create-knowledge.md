@@ -131,6 +131,19 @@ Figura 3 - Botão Opções
 
 -   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
     Conhecimentos.
+    
+    
+!!! Tip "Workflow de Aprovação"  
+
+    O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimentos, o Documento é gravado na pasta indicada pelo Parâmetro de sistema n. 313.  
+    O Gerente de conhecimento pesquisa os documentos nâo publicados ou na pasta indicada e, conforme o andamento da aprovação o Documento ganhará outros status :  
+    - Em desenho   
+    - Em Revisão   
+    - Revisado  
+    - Em avaliação e   
+    - Avaliado
+
+
 
 ### Outras opções 
  
@@ -140,7 +153,6 @@ Figura 3 - Botão Opções
 Figura 3 - Botão Pesquisa
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
-
 
 !!! Warning "Versionamento"  
 
