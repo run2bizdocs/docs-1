@@ -19,9 +19,9 @@ Procedure
 
 2.  Click on the ticket and then in the icon “Open”;
 
-3.  Certify the ticket attendance was done according to the demand;
+3.  Certify the ticket attendance was done according to what was requested;
 
-4.  In the "Closing" tab choose the situation for the "Solved" option, fill in the data to close the ticket;
+4.  In the "Closing" tab choose the situation for "Solved", complete the data to close the ticket;
 
     - If the type of request is "Incident":
     
