@@ -1,6 +1,6 @@
 title:  Vincular otras funcionalidades al ticket 
 Description: Es posible vincular el ticket a otras funcionalidades.
-#Vincular otras funcionalidades al ticket
+# Vincular otras funcionalidades al ticket
 Es posible vincular el ticket a otras funcionalidades, tales como: problemas, cambio, proyecto, entre otros, con el propósito de incluir mayores informaciones al atender la solicitud.
 
 Antes de empezar
@@ -20,16 +20,16 @@ Procedimiento
     marque la opción de captura o visualización de éste;
 
 3.  Para ver información sobre campos específicos, haga clic en las fichas:
-    **Solicitante, Solicitud, Ejecución y Cierre**;
+    **Solicitante**, **Solicitud**, **Ejecución** y **Cierre**;
 
-4.  Para vincular **Solicitudes Relacionadas**, haga clic en el área del mismo
+4.  Para vincular **Sub-solicitudes**, haga clic en el área del mismo nombre y
+    luego "Buscar solicitud", clic en la solicitud deseada y luego en el botón
+    "Vincular Solicitudes";
+    
+5.  Para vincular **Solicitudes Relacionadas**, haga clic en el área del mismo
     nombre y haga clic en "Crear nueva solicitud relacionada" para crear una
     nueva solicitud, o hacer clic en "Crear relacionada por copia" para
     registrar una nueva solicitud con los mismos datos de la solicitud original;
-
-5.  Para vincular **Sub-solicitudes**, haga clic en el área del mismo nombre y
-    luego "Buscar solicitud", clic en la solicitud deseada y luego en el botón
-    "Vincular Solicitudes";
 
 6.  Para vincular un Elemento de Configuración del Solicitante, haga clic en
     **EC del Solicitante** y luego haga clic en  para realizar la operación;
