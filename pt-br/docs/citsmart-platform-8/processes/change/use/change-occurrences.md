@@ -1,6 +1,6 @@
 title: Cadastrar as ocorrências da mudança
 Description: Permite cadastrar eventuais ocorrências referentes a uma Mudança
-#Cadastrar as ocorrências da Mudança
+# Cadastrar as ocorrências da Mudança
 
 Esta funcionalidade permite cadastrar eventuais ocorrências referentes a uma Mudança.
 
