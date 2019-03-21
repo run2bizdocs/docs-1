@@ -1,29 +1,28 @@
-title: Cadastrar as ocorrências da mudança
-Description: Permite cadastrar eventuais ocorrências referentes a uma Mudança
-#Cadastrar as ocorrências da Mudança
+title: Register change occurrences
+Description: It allows to register eventual occurrences in a Change
+# Regsiter change occurrences
 
-Esta funcionalidade permite cadastrar eventuais ocorrências referentes a uma Mudança.
+This functionality allows to register eventual occurrences related to a Change.
 
-Procedimento
+Procedure
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Access the main menu Processes \>
+    Change Management \> Change;
 
-2.  Localizar a mudança do qual deseja incluir o registro de ocorrência e clicar
-    no botão “Abrir”;
+2.  Find the change you want to add the occurrence registration and click on
+    "Open”;
 
-3.  Clicar no ícone “Registro de Execução” (último ícone ao lado direito da
-    tela, abaixo do campo de pesquisa) e em seguida apertar em “Adicionar
-    ocorrência”;
+3.  Click on the icon "Execution Registration” (last icon on the right side of
+    the screen, below the search field) and then on "Add occurrence”;
 
-4.  Clicar no botão “Adicionar ocorrência” e preencher os campos obrigatórios;
+4.  Click on "Add occurrence" and complete the mandatory fields;
 
-    !!! Abstract "NOTA"
-        É possível cadastrar novas categorias e origens que melhor se adequam a
-        ocorrência, ao clicar no ícone “+” e preencher os campos necessários.
+    !!! Abstract "NOTE"
+        It's possible to register new categories and origins that best adapt to the
+        occurrence, when click on the icon “+” and complete the necessary fields.
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Click on "Save".
 
     !!! tip "About"
 
