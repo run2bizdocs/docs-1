@@ -1,6 +1,6 @@
 title: Registrar problema
 Description: Permite registrar los problemas encontrados.
-#Registrar problema
+# Registrar problema
 
 
 El proceso de Gestión de Problemas es responsable por la solución definitiva y prevención de las fallas detrás de los incidentes que afectan al funcionamiento normal de los servicios de TI.
@@ -33,6 +33,8 @@ Procedimiento
     problemas, tales como: título y descripción del problema, contrato que está vinculado,
     y otros;
     
+6.  Indicar el Impacto, Urgencia y Gravedad para hacer la priorización del problema;
+    
     !!! Abstract "ATENCIÓN"
         Es necesario definir si el problema que se va registrar es un problema de naturaleza
         reactiva a un revés encontrado o es una simple práctica proactiva para gestionar
@@ -44,21 +46,6 @@ Procedimiento
 
 Relacionado
 ------------
-[Registrar grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
-
-[Registrar colaborador](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
-
-[Registrar contrato](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
-
-[Registrar unidad](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
-
-[Registrar categoría de problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-category-register.html)
-
-[Mantenimiento de flujo de trabajo](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html)
-
-[¿Cómo relacionar unidad al contrato?](/pt-br/citsmart-platform-8/processes/tickets/configuration/relate-unit-to-contract.html)
-
-[¿Cómo relacionar grupo al contrato?](/pt-br/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 [Crear portafolio de problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
 
