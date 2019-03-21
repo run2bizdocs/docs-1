@@ -1,6 +1,6 @@
 title: Registrar cambio
 Description: Tiene por objeto registrar un cambio. 
-#Registrar cambio 
+# Registrar cambio 
 
 Esta funcionalidad tiene por objeto registrar un cambio. Según ITIL, es necesario formalizar la solicitud de cambio, para que sea registrado por el equipo responsable todos los procedimientos realizados para la alteración deseada (desde su solicitud al impacto de su implementación) monitoreando todo su ciclo de vida.
 
@@ -16,12 +16,27 @@ Procedimiento
 1.	Acceder al menú principal Procesos > Gestión de Cambio > Cambio;
 2.	Hacer clic en "Opciones" y después en "Registrar”;
 3.	Completar todos los campos disponibles en: solicitante y cambio (incluso seleccionar un portafolio);
-4.	También es necesario indicar las informaciones preliminares de "planificación", "plan de reversión" y "revisión y cierre”.
+4.  Indicar el Impacto, Urgencia e Importancia pra la priorización del problema;
+5.	También es necesario indicar las informaciones preliminares de "planificación", "plan de reversión" y "revisión y cierre”.
 
     !!! Abstract "ATENCIÓN"
-        Es obligatorio programar las fases importantes del cambio, al hacer clic en "Planificación" y luego "Otras informaciones".
+        
+        Es obligatorio programar las fases importantes del cambio, al hacer clic en "Planificación" 
+        y luego "Otras informaciones".
+        
+    !!! Warning "IMPORTANTE"
+        
+        En todas las etapas:
+           - Planificación
+           - Plan de reversión y
+           - Revisión y cierre
+           
+        En las pestañas
+           Documentos - Se pueden referenciar conocimientos con textos, enlaces, imágenes, videos y otros
+           Adjuntos   - Se pueden adjuntar cualquier documento
+           Notas      - Es Texto Libre y puede ser usado para referir textos o enlaces
 
-5.	Hacer clic en "Opciones" y después en "Guardar”;
+6.	Hacer clic en "Opciones" y después en "Guardar”;
 
 
 Relacionado 
