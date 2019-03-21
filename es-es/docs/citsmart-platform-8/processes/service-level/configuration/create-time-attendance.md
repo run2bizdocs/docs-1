@@ -1,12 +1,12 @@
 title: Crear tiempo de servicio
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el tiempo de respuesta del tipo Global (se aplica a todos los servicios), Cliente (se aplica a los servicios de un contrato) e Incidente/Requerimiento/Procedimiento (se aplica a un servicio específico).
-#Crear tiempo de servicio
+# Crear tiempo de servicio
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el
-tiempo de respuesta del tipo Global (se aplica a todos los servicios), Cliente
+tiempo de respuesta del tipo *Global* (se aplica a todos los servicios), *Cliente*
 (se aplica a los servicios de un contrato) e
-Incidente/Requerimiento/Procedimiento (se aplica a un servicio específico).
+*Incidente/Requerimiento/Procedimiento* (se aplica a un servicio específico).
 
 Antes de empezar
 --------------------
@@ -24,6 +24,11 @@ Procedimiento
 
 3.  Completar los campos disponibles en el cuadro **Datos Básicos**;
 
+!!! Warning "IMPORTANTE"
+
+    Indicar en el atributo "Cambio de Impacto/Urgencia" si se va permitir el cambio
+    de Impacto y/o Urgencia
+
 4.  En el cuadro **Tiempo de Atención por Prioridad**, definir el tiempo de
     atención de los servicios, teniendo en cuenta la prioridad. La prioridad se
     utiliza para identificar los tiempos requeridos para que las acciones
@@ -36,21 +41,21 @@ Procedimiento
     -  **Resolución**: definir el tiempo de solución del servicio, según la
         prioridad seleccionada.
 
-1.  Antes de completar los campos del cuadro **Automatización**, debe estar
+5.  Antes de completar los campos del cuadro **Automatización**, debe estar
     adecuadamente parametrizada, para ello se hace necesario ejecutar los pasos
     contenidos en el conocimiento Crear regla de escalonamiento, con excepción
     del parámetro 190 que deberá ser igual a 'N' en este contexto;
 
-2.  Después de N minutos (informado en el tiempo de acción), y si no ha
+6.  Después de N minutos (informado en el tiempo de acción), y si no ha
     realizado ninguna acción en la solicitud del servicio vinculado a este
     tiempo de atención, el sistema asignará la prioridad y escalará el grupo
     para ejecutar la solicitud del servicio;
 
-3.  En el cuadro de **Incidente/Requerimiento/Procedimiento**, seleccione los
+7.  En el cuadro de **Incidente/Requerimiento/Procedimiento**, seleccione los
     servicios para aplicar la configuración, teniendo en cuenta el tipo de
     tiempo de respuesta seleccionado;
 
-4.  Hacer clic en "Guardar".
+8.  Hacer clic en "Guardar".
 
 
 Relacionado
