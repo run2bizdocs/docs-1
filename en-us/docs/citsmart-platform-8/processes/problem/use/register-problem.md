@@ -1,6 +1,6 @@
 title: Register problem
 Description: It allows to register the problems found.
-#Register problem
+# Register problem
 
 
 The Problem Management process is responsible for the final resolution and prevention of the failures behind the incidents that affect the normal operation of IT services.
@@ -34,33 +34,20 @@ Procedure
     execute the problem, as well as: title and description of the problema,
     the contract that it's linked to, among others;
     
+6.  Indicate the Impact, Urgency and Severity to give the prioritization of the problem;    
+    
     !!! Abstract "NOTE"
         It's necessary to set if the problem to be create is a problem of
         reactive nature to a setback found, or it's justa a simple proactive
         practice to manage the system.
 
-6.  Select, if necessary, when send notifications about
+7.  Select, if necessary, when send notifications about
     the problem;
 
-7.  Click on "Operations" and then on "Save”.
+8.  Click on "Operations" and then on "Save”.
 
 Related
 ------------
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
-
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
-
-[Register contract](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
-
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
-
-[Register problem category](/en-us/citsmart-platform-8/processes/problem/configuration/problem-category-register.html)
-
-[Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html)
-
-[How to relate unit to the contract?](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-unit-to-contract.html)
-
-[How to relate group to the contract?](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 [Create problem portfolio](/en-us/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
 
