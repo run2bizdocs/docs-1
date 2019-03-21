@@ -1,6 +1,6 @@
 title: Register change
 Description: It's intended to register a change. 
-#Register change 
+# Register change 
 
 This functionality is intended to register a change. According to ITIL, it's necessary to formalize the change request, so that the responsible team registers all the procedures performed for the change you want (from its request to the impact of its implementation), monitoring it throughout its lifecycle.
 
@@ -16,10 +16,24 @@ Procedure
 1.	Access the main menu Processes > Change Management > Change;
 2.	Click on "Options" and then on "Register";
 3.	Complete the fields available in the areas of: requester and change (including selecting the portfolio you want);
-4.	It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
+4.  Indicate the Impact, Urgency and Importance to give the problem prioritization;
+5.	It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
 
     !!! Abstract "NOTE"
+        
         It's mandatory to schedule the important phases of the change by clicking on the "Planning" area and then "Other information".
+    
+    !!! Warning "IMPORTANT"
+
+        In all phases:
+           - Planning,
+           - Reversion Plan and
+           - Review and closure
+           
+        In the tabs
+           Documents   - Knowledge can be referenced with texts, links, images, videos and others
+           Attachments - It's possible to attach any documents 
+           Notes       - It's Free Text and can be used to reference texts or links
 
 5.	Click on "Options" and then on "Save”;
 
