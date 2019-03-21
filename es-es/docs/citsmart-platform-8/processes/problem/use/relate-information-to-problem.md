@@ -1,6 +1,6 @@
 title: Relacionar informaciones al problema
 Description: Es posible vincular al problema
-#Relacionar informaciones al problema 
+# Relacionar informaciones al problema 
 
 
 Es posible vincular al Problema una serie de informaciones, tales como: liberación, conocimiento, servicios relacionados, entre otros.
@@ -48,34 +48,41 @@ Procedimiento
     al problema y seleccionar el icono "Info", será posible ver todas las informaciones
     del EC vinculado;
 
-6.  Al hacer clic en **“Servicios del Problema”**, será presentado el servicio
+6.  Para vincular **Cambio**, hacer clic en la fase de SOLUCIÓN en la pestaña de Cambio,
+    usted podrá buscar por el número del Cambio o hasta registrar un nuevo Cambio. Después 
+    de la vinculación es posible editar el Cambio. Además se puede observar los "Elementos 
+    de Configuración" al hacer clic en el icono del mismo nombre. Ahora, para remover el 
+    vínculo del Servicio, basta hacer clic en el icono "Remover" y confirmar la operación.
+    
+
+7.  Al hacer clic en **“Servicios del Problema”**, será presentado el servicio
     relacionado al problema (si ya se ha vinculado) con algunas acciones disponibles.
     Es disponible la visualización en el "Mapa de Servicio" al hacer clic en el icono
     de mismo nombre, y, además, es posible osbervar los "Elementos de Configuración" al
     hacer clic en el icono de mismo nombre. Ahora, para eliminar el vínculo del Servico,
     sólo hacer clic en el icono "Eliminar" y confirmar la operación;
-
-7.  Para vincular **Liberación**, hacer clic en el area de mismo nombre, depués
-    en el campo de búsquda y seleccionar una liberación. Si quiera registrar una
-    nueva liberación, hacer clic en "Registrar" y completar los datos;
-
+    
     !!! Abstract "ATENCIÓN"
         
         Si no hay ningún servicio relacionado, puede vincular un nuevo 
         servicio al problema, simplemente hacer clic en "Servicios del Problema" 
         y depués en "Añadir servicio". Después, es necesario seleccionar el 
         servicio deseado.  
-        
 
-8.  Para vincular otros **Problemas**, hacer clic en el area de mismo nombre, después
+8.  Para vincular **Liberación**, hacer clic en el area de mismo nombre, depués
+    en el campo de búsquda y seleccionar una liberación. Si quiera registrar una
+    nueva liberación, hacer clic en "Registrar" y completar los datos;
+
+9.  Para vincular otros **Problemas**, hacer clic en el area de mismo nombre, después
     en el campo de búsqueda y seleccionar un problema. Si quiera crear un nuevo
     problema para relacionar, sólo hacer clic en "Registrar" y completar los datos necesários;
 
-9.  Para vincular un **Conocimiento**, hacer clic en el area de mismo nombre y después
+10. Para vincular un **Conocimiento**, hacer clic en el area de mismo nombre y después
     en el campo de búsqueda y seleccionar un conocimiento. Si quiera crear un nuevo
     conocimiento, hacer clic en "Registrar" y completar los datos necesarios.
     
-10. Hacer clic en "Opciones" y luego "Guardar y avanzar flujo" o "Guardar y mantener la tarea actual", esta última opción permite no avanzar a la siguiente fase el problema.
+11. Hacer clic en "Opciones" y luego "Guardar y avanzar flujo" o "Guardar y mantener la tarea 
+    actual", esta última opción permite no avanzar a la siguiente fase el problema.
 
 !!! tip "About"
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
