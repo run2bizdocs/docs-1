@@ -19,6 +19,8 @@ Procedure
 
 2.  Click on "Operations" on the right lower side of the screen, and then on
     "Add new knowledge";
+    
+### Register, Relationship and Notification    
 
 3.  Enter the registration data;
 
