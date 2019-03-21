@@ -1,29 +1,28 @@
-title: Cadastrar as ocorrências da mudança
-Description: Permite cadastrar eventuais ocorrências referentes a uma Mudança
-#Cadastrar as ocorrências da Mudança
+title: Registar ocurrencia del cambio
+Description: Permite registrar eventuales ocurrencias referentes a un Cambio
+# Registrar ocurrencias del cambio
 
-Esta funcionalidade permite cadastrar eventuais ocorrências referentes a uma Mudança.
+Esta funcionalidad permite registrar eventuales ocurrencias referentes a un Cambio.
 
-Procedimento
+Procedimiento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Mudança \> Mudança;
+1.  Acceder al menú principal Procesos \>
+    Gestión de Cambios \> Cambio;
 
-2.  Localizar a mudança do qual deseja incluir o registro de ocorrência e clicar
-    no botão “Abrir”;
+2.  Buscar el cambio en el que desea incluir el registro de ocurrencia y hacer clic
+    en "Abrir";
 
-3.  Clicar no ícone “Registro de Execução” (último ícone ao lado direito da
-    tela, abaixo do campo de pesquisa) e em seguida apertar em “Adicionar
-    ocorrência”;
+3.  Hacer clic en el icono “Registro de Ejecución” (último icono al lado derecho de la
+    pantalla abajo del campo de búsqueda) y después hacer clic en "Añadir ocurrencia";
 
-4.  Clicar no botão “Adicionar ocorrência” e preencher os campos obrigatórios;
+4.  Hacer clic en "Añadir ocurrencia" y completar los campos obligatórios;
 
     !!! Abstract "NOTA"
-        É possível cadastrar novas categorias e origens que melhor se adequam a
-        ocorrência, ao clicar no ícone “+” e preencher os campos necessários.
+        Es posible registrar nuevas categorías y orígenes que mejor se adecuen a la
+        ocurrencia, al hacer clic en el icono "+" y completar los campos necesarios
 
-5.  Clicar em “Gravar” para efetuar a operação.
+5.  Hacer clic en "Guardar".
 
     !!! tip "About"
 
