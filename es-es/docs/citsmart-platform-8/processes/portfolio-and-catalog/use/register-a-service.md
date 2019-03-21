@@ -35,6 +35,13 @@ Procedimiento
 
 6.  Completar los campos disponibles que cada guía presenta;
 
+    !!! info "Informaciones de cada pestaña"
+    
+        - Principal: Informaciones de servicio, estado, etapa, importancia para el negocio y otros.
+        - Documentos adjuntos: Artefactos, documentos, pestañas y otros.
+        - Presentación: Visualización en el Smart Portal y Gestión de Ticket.
+        - Permiso de acceso: Grupos que pueden ver el servicio.
+
 7.  Completar los demás campos según necesario;
 
 8.  Hacer clic en "Guardar".
