@@ -1,6 +1,6 @@
 title: Link other functionalities to the ticket
 Description: It's possible to link other functionalities to the ticket.
-#Link other functionalities to the ticket
+# Link other functionalities to the ticket
 It's possible to link other functionalities to the ticket, such as: problems, change, project, and others to include more information when attending the request.
 
 Before getting started
@@ -20,7 +20,7 @@ Procedure
     of capture or view;
 
 3.  To view the information abouth the specific fields, click on the
-    tabs: **Requester, Request, Execution and Closure**;
+    tabs: **Requester**, **Request**, **Execution** and Closure**;
 
 4.  To link **Sub-requests**, click on its area and then on "Create subrequest"
     to create a new request, or click on "Create subrequest by copy" to register
@@ -45,7 +45,7 @@ Procedure
     Reading** and then "Verify e-mails". Note that the e-mail reading will be
     only used if the parameters are correctly configured;
 
-11. To view the physical position of the attendant, click on "Monitoring";
+11. To view the physical position of the attendant, click on **Monitoring**;
 
 12. To link a **Knowledge**, click on the corresponding tab, in the button
     "Search Knowledge", search and click on the knowledge you want to link it;
