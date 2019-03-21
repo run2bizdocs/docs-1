@@ -1,6 +1,6 @@
 title: Criar tempo de atendimento
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o tempo de atendimento do tipo Global (aplica-se a todos os serviços), Cliente (aplica-se aos serviços de um contrato) e Incidente/Requisição/Procedimento (aplica-se a um serviço específico).
-#Criar tempo de atendimento
+# Criar tempo de atendimento
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir o tempo de atendimento do tipo *Global* (aplica-se a todos os serviços),
@@ -38,21 +38,21 @@ Procedimento
     -   **Resolução**: defina o tempo de resolução do serviço, conforme a prioridade
         selecionada.
 
-1.  Antes de preencher os campos do quadro **Automação** ela deve estar
+5.  Antes de preencher os campos do quadro **Automação** ela deve estar
     adequadamente parametrizada, para isso se faz necessário executar os passos
     contidos no conhecimento Criar Regra de Escalonamento, com exceção do
     parâmetro 190 que deverá estar igual a ‘N’ neste contexto;
 
-2.  Após os N minutos (informado no tempo de ação) e caso não tenha realizado
+6.  Após os N minutos (informado no tempo de ação) e caso não tenha realizado
     nenhuma ação na solicitação do serviço vinculado a este tempo de
     atendimento, o sistema atribuirá a prioridade e escalará o grupo para
     execução da solicitação do serviço;
 
-3.  No quadro de **Incidente/Requisição/Procedimento**, selecione os serviços
+7.  No quadro de **Incidente/Requisição/Procedimento**, selecione os serviços
     para aplicar as configurações, levando em consideração o tipo de tempo de
     atendimento selecionado;
 
-4.  Clicar em "Gravar".
+8.  Clicar em "Gravar".
 
 
 Relacionado
