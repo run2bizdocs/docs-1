@@ -1,6 +1,6 @@
 title: Cadastrar uma mudança
 Description: Tem por objetivo registrar uma mudança. 
-#Cadastrar uma mudança 
+# Cadastrar uma mudança 
 
 Esta funcionalidade tem por objetivo registrar uma mudança. Segundo a ITIL, é necessário formalizar a solicitação de mudança, para que seja registrado pela equipe responsável todos os procedimentos realizados para a alteração desejada (desde a sua requisição ao impacto de sua implementação) monitorando o mesmo por todo o seu ciclo de vida.
 
@@ -16,7 +16,7 @@ Procedimento
 1.	Acessar a funcionalidade através da navegação no menu principal Processos > Gerência de Mudança > Mudança;
 2.	Clicar no botão “Opções” e em seguida em “Cadastro”;
 3.	Preencher todos os campos disponibilizados nas áreas: solicitante e mudança (inclusive selecionar o portfólio desejado);
-4. Indique o Impacto, Urgência e Importância para indicar a priorização do problema 
+4. Indique o Impacto, Urgência e Importância para indicar a priorização do problema; 
 5.	Também é imprescindível indicar as informações preliminares de “planejamento”, “plano de reversão” e “revisão e fechamento”.
 
     !!! Abstract "ATENÇÃO"
