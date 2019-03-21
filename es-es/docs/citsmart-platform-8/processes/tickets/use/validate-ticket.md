@@ -1,8 +1,8 @@
-title: Validar e cerrar ticket
+title: Validar y cerrar ticket
 
 Description: Después de la atención del ticket, su ejecución deberá ser validada y el ticket encerrado.
 
-# Validar e cerrar ticket
+# Validar y cerrar ticket
 Después de la atención del ticket, su ejecución deberá ser validada y el ticket encerrado.
 
 Antes de empezar
