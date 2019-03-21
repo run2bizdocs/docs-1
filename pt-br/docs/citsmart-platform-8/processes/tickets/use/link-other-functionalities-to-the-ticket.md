@@ -1,6 +1,6 @@
 title: Vincular outras funcionalidades ao ticket
 Description: É possível vincular ao ticket a outras funcionalidades. 
-#Vincular outras funcionalidades ao ticket
+# Vincular outras funcionalidades ao ticket
 É possível vincular ao ticket a outras funcionalidades, tais como: problemas, mudança, projeto, dentre outros com o intuito de incluir maiores informações ao atender a solicitação/requisição.
 
 Antes de começar
