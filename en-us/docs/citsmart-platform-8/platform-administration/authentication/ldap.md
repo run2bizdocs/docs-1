@@ -44,6 +44,7 @@ It's necessary to have registered the time for scheduling automatic synchronizat
         (login and password), a correct connection search cycle is executed based on
         this configuration, that is, there's an authentication attempt for each domain
         registered here (if there is more than one).
+	
 
 5. It's possible to link field maps by clicking on "Add" in the Field Mapping area;
 6. Click on "Save".
