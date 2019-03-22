@@ -26,8 +26,8 @@ It's necessary to have registered the time for scheduling automatic synchronizat
     
     !!! Abstract "RULE"
 
-       If there are no LDAP groups, complete field "DN Group" with an asterisk only.
-       This will cause the system to verify the entire domain.
+        If there are no LDAP groups, complete field "DN Group" with an asterisk only.
+        This will cause the system to verify the entire domain.
 
 
 4. It's possible to link new groups by clicking on "Add" in the LDAP Groups area;
