@@ -348,14 +348,18 @@ Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios
     LOAD_FACTSERVICEREQUESTRULES = TRUE
     ```
 
-!!! warning
+!!! ATENCIÓN
+    
     No olvides de cambiar el dueño de los archivos y directorios para el usuario
     CITSmart.
 
 
 ## Creación de directorios para instalación
 
-No olvides de cambiar el dueño del directorio /opt/citsmart
+!!! ATENCIÓN
+
+    No olvides de cambiar el dueño del directorio /opt/citsmart .
+    
 
 1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
