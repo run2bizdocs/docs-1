@@ -1,6 +1,6 @@
 title: Criar conhecimento
 Description: É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
-#Criar conhecimento
+# Criar conhecimento
 É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
 Um conhecimento permite a anexação de imagens, vídeos, anexos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
 
@@ -136,7 +136,7 @@ Figura 3 - Botão Opções
 !!! Tip "Workflow de Aprovação"  
 
     O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimentos, o Documento é gravado na pasta indicada pelo Parâmetro de sistema n. 313.  
-    O Gerente de conhecimento pesquisa os documentos nâo publicados ou na pasta indicada e, conforme o andamento da aprovação o Documento ganhará outros status :  
+    O Gerente de conhecimento pesquisa os documentos nâo publicados ou na pasta indicada e, conforme o andamento da aprovação o Documento ganhará outros status:  
     - Em desenho   
     - Em Revisão   
     - Revisado  
@@ -150,7 +150,7 @@ Figura 3 - Botão Opções
  
  ![aba](images/create-3.PNG)
 
-Figura 3 - Botão Pesquisa
+Figura 4 - Botão Pesquisa
     
 Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
 
