@@ -5,7 +5,7 @@ Title: Hacer la instalación
 Instalación del Servidor de Aplicación Wildfly
 -------------------------------------------
 
-1.Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
+1. Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
 simbólico conforme mostrado en el ejemplo abajo. *(Caso ya tenga hecho la
 instalación del ítem Servidor de Indexación Apache Solr (sesión Configuración de los
 paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
