@@ -8,20 +8,14 @@ aplicaciones e informaciones en una instancia de CITSmart.
 
 Figura 1 - Pantalla Smart Decision
 
--   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene
-    elementos de navegación y herramientas. Por ejemplo, el menú principal, con
-    todas lasfunciones CITSmart, botones con integración VoIP, el asistente virtual
-    Anuva e información sobre el login de usuario, versión del ambiente y también
-    su cambio de idioma;
+-   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene elementos de navegación y herramientas. Por           ejemplo, el menú principal, con todas lasfunciones CITSmart, botones con integración VoIP, el asistente virtual Anuva e información     sobre el login de usuario, versión del ambiente y también su cambio de idioma;
 
 -   **2 - Navegación en aplicaciones**: acceso a los 13 procesos certificados de
     CITSmart, funcionalidades de catastros básicos, creación y emisión de informes,
     parámetros, acceso al CITSmart Neuro (engine de aplicaciones), además de
     funcionalidades de gestión de la plataforma;
 
--   **3 - Panel de usuario**: determina el diseño de la presentación del panel de usuario
-    (Smart Decision) disponible en la página de inicio de la Plataforma CITSmart.
-    Permite colocar accesos rápidos como enlaces, informes y widgets.
+-   **3 - Panel de usuario**: determina el diseño de la presentación del panel de usuario (Smart Decision) disponible en la página de       inicio de la Plataforma CITSmart. Permite colocar accesos rápidos como enlaces, informes y widgets.
 
 ## Tour por la Interfaz de Usuario
  
@@ -35,14 +29,12 @@ Figura 2 - Banner frame
 La barra de tareas, situada en la parte superior, contiene elementos de navegación y
 herramientas:
 
--   1: menú principal de navegación, contiene todos los procesos y funcionalidades
-    CITSmart;
+-   1: menú principal de navegación, contiene todos los procesos y funcionalidades CITSmart;
 
 -   2: al navegar por el sistema y desea volver a la pantalla de inicio, haga clic 
     en el botón "Home";
 
--   3: notificaciones del sistema para el usuario, que se evidencia con la cantidad
-    existente;
+-   3: notificaciones del sistema para el usuario, que se evidencia con la cantidad existente;
 
 -   4: servicio de llamada VOIP;
 
@@ -50,9 +42,7 @@ herramientas:
 
 -   6: atajo a las principales aplicaciones del sistema;
 
--   7: información del usuario, además de proporcionar un cambio de idioman del
-    sistema, administrar el estado que aparece en el chat, medios de soporte del sistema
-    CITSmart y datos sobre la versión del entorno instalado.
+-   7: información del usuario, además de proporcionar un cambio de idioman del sistema, administrar el estado que aparece en el chat,       medios de soporte del sistema CITSmart y datos sobre la versión del entorno instalado.
 
 ### Navegación en Aplicaciones
 
