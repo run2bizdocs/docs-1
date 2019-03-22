@@ -4,7 +4,7 @@ Description: It's possible to add dashboards from a template or selecting manual
 
 The home panel in the system main screen. In this panel, it's possible to
 add dashboards from a template or selecting manually. In this area, it's also
-available resources to create shortcuts (links), view reports and dashboards. It
+available resources to create shortcuts (links), view reports and dashboards. Contains relevant information.
 
 * Change Account Info
 * Create Shortcuts
