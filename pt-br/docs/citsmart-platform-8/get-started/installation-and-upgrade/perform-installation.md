@@ -344,14 +344,15 @@ modulo ao standalone-full-ha.xml
     LOAD_FACTSERVICEREQUESTRULES = TRUE
     ```
 
-    !!! ATENÇÃO
+    !!! Abstract "ATENÇÃO"
     
         Não esquecer de alterar o dono dos arquivos e diretórios para o usuário CITSmart.
 
 
 ## Criação de diretórios para instalação
 
-   !!! ATENÇÃO
+
+   !!! Abstract "ATENÇÃO"
 
        Não esquecer de alterar o dono do diretório /opt/citsmart .
     
