@@ -424,9 +424,9 @@ Caso usted tenga un certificado, es importante utilizarlo.
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
-    **Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
+** Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
     
-    ```sh
+    ```
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
