@@ -24,9 +24,11 @@ Procedimento
 
 4.  Clicar sobre a guia **Financeiro** para visualizar informações;
 
-5.  Preencher os campos disponibilizados;
+5.  Clicar no botão "Adicionar valor financeiro";
 
-6.  Clicar em "Gravar".
+6.  Preencher os campos disponibilizados;
+
+7.  Clicar em "Gravar".
 
 
 Relacionado
