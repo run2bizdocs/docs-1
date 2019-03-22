@@ -6,6 +6,7 @@ The purpose of this functionality is to import the service portfolio. The import
 data can be viewed in the Service Portfolio.
 
 Before getting started
+----------------
 
 To import, it's necessary to generate the import spreadsheet template.
 
