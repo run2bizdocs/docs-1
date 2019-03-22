@@ -42,6 +42,8 @@ template-related e-mail template:
 | ${TYPE}               | Type of Change. Informs the type of change that has been registered.          |
 | ${TITLE}              | Title of Change. Informs the title of the change that has been registered.                |
 
+Table 1 - List of key fields
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
