@@ -1,8 +1,11 @@
 title: Register notification automatic action
 Description: This feature provides a variety of actions, such as including, changing, and deleting notification automatic actions.
 #Register notification automatic action
+
 This functionality is intended to register notification automatic actions. The notification formalizes and communicates information about the event, and it's important that information about an event is described and completed to facilitate the decision making later. This registration will be associated with the automatic actions, and will be used in the CITSmart event manager registration of Nagios, Zabbix, Inventory and Correlated Events.
+
 Event notifications should only be sent to those responsible for handling related actions or decisions. This avoids unnecessary notifications to those who are not directly involved in the event process.
+
 This feature provides a variety of actions, such as including, changing, and deleting notification automatic actions.
 
 Before getting started
