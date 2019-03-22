@@ -57,8 +57,7 @@ características que el CITSmart ofrece.
 
 -   2: posee todos los 13 procesos certificados de la Plataforma CITSmart;
 
--   3: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los
-    procesos;
+-   3: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los procesos;
 
 -   4: presenta catastros básicos para iniciar el CITSmart, como usuarios, localidad, además de poder registrar y editar menús dentro       del sistema;
 
