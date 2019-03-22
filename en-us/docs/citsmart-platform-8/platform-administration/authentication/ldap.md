@@ -34,9 +34,9 @@ It's necessary to have registered the time for scheduling automatic synchronizat
 
     !!! Abstract "RULE"
 
-       Before asking to test, it MUST click on "Save" to register the
-       configuration, otherwise the test will use the data prior to the changes
-       made on the screen.
+        Before asking to test, it MUST click on "Save" to register the
+        configuration, otherwise the test will use the data prior to the changes
+        made on the screen.
   
     !!! Abstract "RULE"
 
