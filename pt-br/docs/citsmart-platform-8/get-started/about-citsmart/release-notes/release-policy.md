@@ -22,7 +22,7 @@ na tabela a seguir:
 |------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | *Major Release*  | Novas funcionalidades e killer features para o produto.                                                          | Tipicamente, duas vezes por ano                                                               | Tipicamente, um mês antes do lançamento, com uma segunda notificação 20 dias após o envio da 1ª. |                                                |
 | *Minor Release*  | Inclui, mas não se limita a pequenas melhorias, atualizações de segurança e geralmente não envolve mudanças arquiteturais. | Tipicamente, uma vez a cada 2 meses                                                       |                                                                                                      |                                                |
-| *Hotfix* **Planejada**                                                                                                                              | Atualizações incluindo correção de erros e aplicações e ajustes pontuais. | Tipicamente, uma vez por mês                                                                              | \-                                             |
+| *Hotfix* **Planejada**                                                                                                                              | Atualizações incluindo correção de erros e aplicações e ajustes pontuais. | Tipicamente, uma vez por mês                                                                              |                                              |
 |  *Hotfix* **Crítica**                                                                                                                         | Correções emergenciais para garantir a estabilidade e segurança do Sistema                                    | Sempre que necessário                                                                                   | Poucas horas antes, preferencialmente 48h antes |
 
 A CITSmart refere-se a cada Feature Release, e seus Hotfixes associados, como
@@ -41,18 +41,18 @@ Cronograma de Lançamento do CITSmart:
 
 | **Mês de Lançamento** | **Tipo de Lançamento**             | **Número da Versão**                |
 |-----------------------|------------------------------------|-------------------------------------|
-| **Janeiro**           | **Hot-fix Planejada**              | **\<series\>.x.1.1**                |
-| **Fevereiro**         | **Minor Release**                  | **\<series\>.x.2.0**                |
-| **Março**             | **Hot-fix Planejada**              | **\<series\>.x.2.1**                |
-| **Abril**             | **New Series ou Major Release**    | **SERIE.0.0.0/ \<series\>.X.0.0**   |
-| **Maio**              | **Hot-fix Planejada**              | **\<series\>.x.0.Y**                |
-| **Junho**             | **Minor Release**                  | **\<series\>.x.1.0**                |
-| **Julho**             | **Hot-fix Planejada**              | **\<series\>.x.1.Y**                |
-| **Agosto**            | **Minor Release**                  | **\<series\>.x.2.0**                |
-| **Setembro**          | **Hot-fix Planejada**              | **\<series\>.x.2.Y**                |
-| **Outubro**           | **New Series ou Major Release**    | **SERIE.0.0.0/ \<series\>.X.0.0**   |
-| **Novembro**          | **Hot-fix Planejada**              | **\<series\>.x.0.Y**                |
-| **Dezembro**          | **Minor Release**                  | **\<series\>.x.1.0**                |
+| **Janeiro**           | **Hot-fix Planejada**              | **<series\>.x.1.1**                |
+| **Fevereiro**         | **Minor Release**                  | **<series\>.x.2.0**                |
+| **Março**             | **Hot-fix Planejada**              | **<series\>.x.2.1**                |
+| **Abril**             | **New Series ou Major Release**    | **SERIE.0.0.0/ <series\>.X.0.0**   |
+| **Maio**              | **Hot-fix Planejada**              | **<series\>.x.0.Y**                |
+| **Junho**             | **Minor Release**                  | **<series\>.x.1.0**                |
+| **Julho**             | **Hot-fix Planejada**              | **<series\>.x.1.Y**                |
+| **Agosto**            | **Minor Release**                  | **<series\>.x.2.0**                |
+| **Setembro**          | **Hot-fix Planejada**              | **<series\>.x.2.Y**                |
+| **Outubro**           | **New Series ou Major Release**    | **SERIE.0.0.0/ <series\>.X.0.0**   |
+| **Novembro**          | **Hot-fix Planejada**              | **<series\>.x.0.Y**                |
+| **Dezembro**          | **Minor Release**                  | **<series\>.x.1.0**                |
 
 (\*) O tempo e a frequência dos lançamentos estão sujeitos a alterações, a critério
 exclusivo do CITSmart. No caso de alterações deste cronograma, os clientes deverão
