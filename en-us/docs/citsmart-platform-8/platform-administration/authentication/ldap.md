@@ -49,9 +49,9 @@ It's necessary to have registered the time for scheduling automatic synchronizat
 5. It's possible to link field maps by clicking on "Add" in the Field Mapping area;
 6. Click on "Save".
 
-    !!! Abstract "RULE"
+!!! Abstract "RULE"
 
-       The system does not allow to delete a user that originates in LDAP.
+    The system does not allow to delete a user that originates in LDAP.
 
 	
 ## Related
