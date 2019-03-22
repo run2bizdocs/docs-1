@@ -209,7 +209,7 @@ Com o objetivo de tornar a busca e visualização de ICs mais rápida e prática
 
 O painel dispõe de um novo Widget de Grupos que permite o acesso e navegação entre as estruturas do CMDB **(a.)**, O Widget de Alertas exibe a lista de ICs com o quantitativo de Incidentes, Problemas, Mudanças e Liberação abertos **(b.)**, os tipos de ICs também estão dispostos em um novo Widget com o quantitativo de ICs que possuem **(c.)** e ao acessar o tipo, a lista de ICs é exibida de forma agrupada e com o quantitativo de ICs de acordo com a identificação **(d.)**.
 
-![a-Detalhamento do CMDB](images/cmdb-detail.png)
+![a-Detalhamento do CMDB](images/cmdb-details.png)
 
 ![b-Alertas CMDB](images/cmdb-alerts.png)
 
