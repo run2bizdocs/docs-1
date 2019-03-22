@@ -401,7 +401,6 @@ Caso usted tenga un certificado, es importante utilizarlo.
     
     Creando nuevo alias con DNS (ejemplo itsm.citsmart.com): 
     
-    
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
     ```
@@ -414,19 +413,19 @@ Caso usted tenga un certificado, es importante utilizarlo.
     
     Exportando certificado para extensão .cer: 
    
-    ```
+    ```sh
     /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer 
     ```
     
     Adicionando certificado no cacerts do Java: 
     
-    ```
+    ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
 ** Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
     
-    ```
+    ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
