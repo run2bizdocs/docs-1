@@ -2,7 +2,7 @@ Title: Idioma Estándar
 
 # Idioma Estándar
 
-Esta funcionalidad está destinada a configurar el idioma predeterminado del sistema..  
+Esta funcionalidad está destinada a configurar el idioma predeterminado del sistema.  
 
 ## Procedimiento
 
