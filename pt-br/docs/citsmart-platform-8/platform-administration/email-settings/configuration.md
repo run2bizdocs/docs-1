@@ -4,11 +4,13 @@ Title: Configura conta de e-mail
 
 Este documento tem como objetivo apresentar um passo-a-passo da configuração de e-mail no CITSmart Platform, através da leitura (IMAP) e envio (SMTP) de mensagens.
 
-## O que fazer antes
+Antes de começar
+-------------
 
 Obtenha as informações de e-mail e configure as permissões de acesso ao servidor de e-mail.
 
-## Procedimento
+Procedimento
+-----------
 
 1. Acessar o menu principal Parametrização > E-mail
 
