@@ -352,9 +352,9 @@ modulo ao standalone-full-ha.xml
 ## Criação de diretórios para instalação
 
 
-   !!! Abstract "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
-       Não esquecer de alterar o dono do diretório /opt/citsmart .
+    Não esquecer de alterar o dono do diretório /opt/citsmart .
     
 
 1. Criar os diretórios abaixo para serem configurados nos 3 passos de instalação web.
