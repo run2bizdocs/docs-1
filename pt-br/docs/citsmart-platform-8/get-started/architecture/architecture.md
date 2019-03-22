@@ -16,10 +16,10 @@ soluções baseadas em nuvem, o CITSmart usa os recursos de tecnologia e seguran
 fornecidos pela Amazon Web Services (AWS). Usando a nuvem da AWS, nós, nossos
 parceiros e clientes podemos desfrutar de:
 
-Uma plataforma de computação altamente escalável com alta confiabilidade e
+* Uma plataforma de computação altamente escalável com alta confiabilidade e
 disponibilidade e segurança física projetada para grandes escalas.
 
-Um legado de gerenciamento de vários programas e certificações de conformidade.
+* Um legado de gerenciamento de vários programas e certificações de conformidade.
 Isso significa que herdamos automaticamente a conformidade com vários requisitos
 e padrões de infraestrutura.
 

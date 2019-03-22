@@ -5,7 +5,7 @@ Title: Hacer la instalación
 Instalación del Servidor de Aplicación Wildfly
 -------------------------------------------
 
-1.Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
+1. Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
 simbólico conforme mostrado en el ejemplo abajo. *(Caso ya tenga hecho la
 instalación del ítem Servidor de Indexación Apache Solr (sesión Configuración de los
 paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
@@ -136,7 +136,7 @@ directorio \$JBOSS_HOME/bin, conforme presentado abajo.
     ```
 
 
-###Configuración del System Properties
+### Configuración del System Properties
 
 En el bash del CLI ejecute los comandos siguientes para creación de las propiedades del
 CITSmart.
@@ -160,7 +160,7 @@ CITSmart.
 /system-property=citsmart.port.updateparameters:add(value="9000")
 ```
 
-###Configuración de los Datasources
+### Configuración de los Datasources
 
 Antes de crear los datasources, debemos adicionar al Wildfly el modulo JDBC del
 PostgreSQL. Para eso, salga del modo jboss-cli y ejecute los comandos abajo.
@@ -291,7 +291,7 @@ PostgreSQL*.
 
 
 
-    Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
+5.  Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -348,14 +348,20 @@ Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios
     LOAD_FACTSERVICEREQUESTRULES = TRUE
     ```
 
-!!! warning
+
+!!! Abstract "ATENCIÓN"
+    
     No olvides de cambiar el dueño de los archivos y directorios para el usuario
     CITSmart.
 
 
 ## Creación de directorios para instalación
 
-No olvides de cambiar el dueño del directorio /opt/citsmart
+
+!!! Abstract "ATENCIÓN"
+
+    No olvides de cambiar el dueño del directorio /opt/citsmart .
+    
 
 1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
@@ -397,7 +403,25 @@ Caso usted tenga un certificado, es importante utilizarlo.
     
     
     ```sh
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): \# /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 Exportando certificado para extensão .cer: \# /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer Adicionando certificado no cacerts do Java: \# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
+    ```
+    
+  Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
+    
+    ```
+    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
+    ```
+    
+   Exportando certificado para extensão .cer: 
+   
+   ```
+    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer 
+    ```
+    
+    Adicionando certificado no cacerts do Java: 
+    
+    ```
+    /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
     
     **Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
