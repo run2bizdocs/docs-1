@@ -40,20 +40,24 @@ Procedimiento
         la configuración, de lo contrario, la prueba utilizará los datos anteriores
         a los cambios hechos en la pantalla.  
 
+
+    !!! Abstract "REGLA"
+
         Cuando hay una solicitud de autenticación en la pantalla de identificación
         del sistema (login y contraseña), se ejecuta un ciclo de búsqueda de la
         conexión correcta sobre la base de esta configuración, es decir, hay un
         intento de autenticación para cada dominio aquí registrado (esto si hay más
         de uno).
 
+
 5.  Es posible vincular mapas de campos, para ello, haga clic en "Agregar" en el
     área **Mapeo de campos**;
 
 6.  Hacer clic en "Guardar".
 
-    !!! Abstract "REGLA"
+!!! Abstract "REGLA"
 
-        El sistema no permite eliminar un usuario que tiene origen en el LDAP.
+    El sistema no permite eliminar un usuario que tiene origen en el LDAP.
 
 Relacionado
 -----------
