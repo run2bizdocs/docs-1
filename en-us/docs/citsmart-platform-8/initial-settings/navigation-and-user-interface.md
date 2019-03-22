@@ -8,9 +8,7 @@ applications and information in a CITSmart instance.
 
 Figure 1 – CITSmart homepage Screen
 
--   **1 - Banner frame**: in the internal area of the system, the taskbar contains
-    navigation items and tools. As the main menu, with all the CITSmart functionalities,
-    buttons with VoIP integration, the virtual assistant Anuva and information about
+-   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with       all the CITSmart functionalities, buttons with VoIP integration, the virtual assistant Anuva and information about
     the user login, environment version and also their language change;
 
 -   **2 - Navigation in applications**: access to CITSmart's 13 certified processes,
@@ -33,14 +31,11 @@ Figure 2 - Banner frame
 
 The taskbar, located at the top, contains navigation items and tools:
 
--   1: main navigation menu, contains all the processes and functionalities
-    of CITSmart;
+-   1: main navigation menu, contains all the processes and functionalities of CITSmart;
 
--   2: when browsing the system and want to return to the home screen, click 
-    on "Home";
+-   2: when browsing the system and want to return to the home screen, click on "Home";
 
--   3: system notifications to the user, which is evidenced by the quantity
-    existing;
+-   3: system notifications to the user, which is evidenced by the quantity existing;
 
 -   4: VOIP call service;
 
