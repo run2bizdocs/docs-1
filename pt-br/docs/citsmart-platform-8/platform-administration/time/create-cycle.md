@@ -1,8 +1,11 @@
 title:  Criar ciclo
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
 #Criar ciclo
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os ciclos de período com data inicial e final a ser usado no controle financeiro.
+
 Cada item cadastrado na opção "Atributos Financeiros" dentro de "Serviço de Negócio" de um Portfólio qualquer tem como um dos seus campos o Ciclo, um ciclo deverá ser selecionado em uma lista naquele formulário.
+
 O 'Relatório de Lucratividade dos Atendimentos por Contrato' depende do cadastramento de ciclos.
 
 Procedimento
