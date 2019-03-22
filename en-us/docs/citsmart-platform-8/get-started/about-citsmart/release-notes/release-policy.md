@@ -41,18 +41,18 @@ The Release Schedule for CITSmart:
 
 | **Release Month** | **Type of Release**             | **Release Number**                |
 |-------------------|---------------------------------|-----------------------------------|
-| **January**       | **Hot-fix Planned**             | **\<series\>.x.1.1**              |
-| **February**      | **Minor Release**               | **\<series\>.x.2.0**              |
-| **March**         | **Hot-fix Planned**             | **\<series\>.x.2.1**              |
-| **April**         | **New Series or Major Release** | **SERIE.0.0.0/ \<series\>.X.0.0** |
-| **May**           | **Hot-fix Planned**             | **\<series\>.x.0.Y**              |
-| **June**          | **Minor Release**               | **\<series\>.x.1.0**              |
-| **July**          | **Hot-fix Planned**             | **\<series\>.x.1.Y**              |
-| **August**        | **Minor Release**               | **\<series\>.x.2.0**              |
-| **September**     | **Hot-fix Planned**             | **\<series\>.x.2.Y**              |
-| **October**       | **New Series or Major Release** | **SERIE.0.0.0/ \<series\>.X.0.0** |
-| **November**      | **Hot-fix Planned**             | **\<series\>.x.0.Y**              |
-| **December**      | **Minor Release**               | **\<series\>.x.1.0**              |
+| **January**       | **Hot-fix Planned**             | **<series\>.x.1.1**              |
+| **February**      | **Minor Release**               | **<series\>.x.2.0**              |
+| **March**         | **Hot-fix Planned**             | **<series\>.x.2.1**              |
+| **April**         | **New Series or Major Release** | **SERIE.0.0.0/ <series\>.X.0.0** |
+| **May**           | **Hot-fix Planned**             | **<series\>.x.0.Y**              |
+| **June**          | **Minor Release**               | **<series\>.x.1.0**              |
+| **July**          | **Hot-fix Planned**             | **<series\>.x.1.Y**              |
+| **August**        | **Minor Release**               | **<series\>.x.2.0**              |
+| **September**     | **Hot-fix Planned**             | **<series\>.x.2.Y**              |
+| **October**       | **New Series or Major Release** | **SERIE.0.0.0/ <series\>.X.0.0** |
+| **November**      | **Hot-fix Planned**             | **<series\>.x.0.Y**              |
+| **December**      | **Minor Release**               | **<series\>.x.1.0**              |
 
 (\*) The timing and frequency of releases is subject to change at the sole
 discretion of CITSmart. In the case of changes in this schedule, clients shall
