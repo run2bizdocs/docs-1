@@ -17,8 +17,7 @@ Procedimiento
 *Al decidir utilizar campos obligatorios, es posible exigir que cierta información sea
 registrado al crear un problema.*
 
-1.  Después de acceder a la página de inicio de la funcionalidad, elija la opción "Problema"
-     y haga clic en "Editar";
+1.  Después de acceder a la página de inicio de la funcionalidad, elija la opción "Problema" y haga clic en "Editar";
      
 2.  Seleccione los campos que desea hacer obligatorios. Son:
 
