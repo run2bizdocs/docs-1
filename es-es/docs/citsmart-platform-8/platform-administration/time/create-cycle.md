@@ -1,8 +1,11 @@
 title: Crear ciclo
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final.
 #Crear ciclo
+
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final, que se utilizará en el control financiero.
+
 Cada elemento registrado en la opción "Atributos Financieros" dentro de "Servicio de Negocio" de cualquier Portafolio, tiene como uno de sus campos el Ciclo, un ciclo deberá ser seleccionado en una lista en ese formulario.
+
 El "Informe de Lucrabilidad de los Atendimientos por Contrato" depende del registro de ciclos.
 
 Procedimiento
