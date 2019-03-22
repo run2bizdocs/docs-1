@@ -60,8 +60,7 @@ características que el CITSmart ofrece.
 -   3: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los
     procesos;
 
--   4: presenta catastros básicos para iniciar el CITSmart, como usuarios,
-    localidad, además de poder registrar y editar menús dentro del sistema;
+-   4: presenta catastros básicos para iniciar el CITSmart, como usuarios, localidad, además de poder registrar y editar menús dentro       del sistema;
 
 -   5: tiene datos para administrar el Centro de Experiencia, que es un portal personalizable para el usuario;
 
