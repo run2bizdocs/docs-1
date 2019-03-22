@@ -4,11 +4,13 @@ Title: Configure email account
 
 This document aims to present a step-by-step of the email configuration in CITSmart Platform by reading (IMAP) and sending (SMTP) messages.
 
-## What to do before
+Before getting started
+-------------------
 
 Get the email information and configure the access permissions to the email server.
 
-## Procedure
+Procedure
+--------
 
 1. Access the main menu Parametrization > Email
 
