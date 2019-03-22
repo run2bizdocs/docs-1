@@ -32,6 +32,8 @@ Related
 
 [Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
+[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
