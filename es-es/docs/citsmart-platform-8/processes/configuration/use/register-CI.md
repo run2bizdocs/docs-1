@@ -1,6 +1,8 @@
 title:  Registrar elemento de configuración
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un elemento de configuración. 
-#Registrar elemento de configuración
+
+# Registrar elemento de configuración
+
 Según ITIL "Cualquier componente u otro activo de servicio que necesita ser administrado para entregar un servicio de TI".
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un elemento de configuración.
 
@@ -28,7 +30,20 @@ Procedimiento
 3.  Se mostrará la pantalla de registro con las pestañas de configuración del
     elemento de configuración;
 
-4.  Completar los campos disponibles en cada pestaña;
+4.  Completar los campos disponibles, como mínimo:
+
+    * [x] Identificación
+    * [x] Nombre
+    * [x] Número de Serie
+    * [x] Ubicación 
+    * [x] Tipo de Elemento de Configuración
+    * [x] Status
+    * [x] Criticidad del Servicio
+    * [x] Impacto
+    * [x] Urgencia
+    * [x] Grupo
+    * [x] Tipo de Responsable
+    * [x] Responsable
 
 5.  Hacer clic en "Guardar”.
 

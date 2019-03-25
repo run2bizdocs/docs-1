@@ -15,6 +15,8 @@ Portfólio.
 O portfólio permite vínculo com pesquisas que precisam estar cadastradas
 previamente.
 
+Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
+
 Procedimento
 ----------------
 
@@ -41,14 +43,6 @@ Procedimento
 
     Caso uma das 3 línguas na aba "Multi-idiomas" ficar em branco, as informações serão
     preenchidas com as que estiver contida na aba "Apresentação".
-
-
-!!! Abstract "REGRA"
-
-    A configuração da permissão de acesso do grupo para visualização do Portfólio
-    no Smart Portal, somente será aplicada caso o parâmetro 293 “Habilita permissão
-    de acesso para grupos de usuário no portal” esteja habilitado.
-
 
 
 O que fazer a seguir

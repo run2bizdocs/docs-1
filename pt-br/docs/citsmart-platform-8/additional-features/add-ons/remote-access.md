@@ -31,7 +31,12 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 3. Definir o diretorio para gravação dos vídeos (ex. /mp4);
     
     !!! success "Gravação de video"
-        Após o encerramento da sessão de acesso remoto, o vídeo gerado entra em uma fila de copilação para então ser disponilizado na plataforma. O tempo de compilação dempenderá do tempo da sessão, além disso, o início da compilão está atrelado à rotina cron definida na conexão de acesso remoto.
+        
+	   Após o encerramento da sessão de acesso remoto, o vídeo gerado 
+	   entra em uma fila de copilação para então ser disponilizado na 
+	   plataforma. O tempo de compilação dempenderá do tempo da sessão, 
+	   além disso, o início da compilão está atrelado à rotina cron 
+	   definida na conexão de acesso remoto.
     
 ## O que fazer a seguir
 

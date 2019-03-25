@@ -15,6 +15,8 @@ portafolio.
 El portafolio permite el vínculo con búsquedas que necesitan estar registradas
 previamente.
 
+Establezca el parámetro 293 en "SÍ" para habilitar el permiso de acceso para los grupos de usuarios en el Portal.
+
 Procedimiento
 -------------
 
@@ -43,14 +45,6 @@ Procedimiento
     Si una de las tres lenguas en la pestaña “En varios idiomas” queda en
     blanco, la información se rellenará con las que se encuentran en la pestaña
     "Presentación".
-
-
-!!! Abstract "REGLA"
-
-    La configuración del permiso de acceso del grupo para la visualización del
-    Portafolio en el Smart Portal, sólo se aplicará si el parámetro 293
-    "Habilita permiso de acceso para grupos de usuarios en el portal" está
-    habilitado.
 
 
 Lo que hacer después

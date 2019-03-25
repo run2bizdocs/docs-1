@@ -47,14 +47,12 @@ Procedure
 
     If one of the 3 languages on "Multi-languages" tab is left blank, the information will
     be filled out with the information contained in the "Presentation".
-    
-    
-!!! Abstract "RULE"
+ 
+ 
+What to do next
+--------------
 
-    The configuration of the group access permission to view the Service
-    Portfolio in the Portal will only be applied if the parameter 293 "Enable
-    access permission for user groups in the portal" is enabled.
-
+Go to the home page and check the created portfolio.
 
 
 Related
