@@ -47,7 +47,12 @@ Procedure
 
     If one of the 3 languages on "Multi-languages" tab is left blank, the information will
     be filled out with the information contained in the "Presentation".
-    
+ 
+ 
+What to do next
+--------------
+
+Go to the home page and check the created portfolio.
 
 
 Related
