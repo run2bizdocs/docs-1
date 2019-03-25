@@ -1,6 +1,7 @@
 title: Registrar plantilla de servicio
 Description: Ofrece diversas acciones, tales cuales, incluir, cambiar y borrar una platilla de servicio, que se utilizará para personalizar la pantalla de servicio.
-#Registrar plantilla de servicio
+
+# Registrar plantilla de servicio
 
 
 Esta funcionalidad ofrece diversas acciones, tales cuales, incluir, cambiar y
