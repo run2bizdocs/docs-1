@@ -15,7 +15,7 @@ Procedure
 -------------
 
 1.  Access the main menu Processes \> Request and Incident Management \> Trend
-    Analysis, the tab Service Requests;
+    Analysis, the tab **Service Requests**;
 
 2.  Complete all mandatory fields;
 
@@ -23,7 +23,7 @@ Procedure
 
 4.  Each tab will display the results for each type (Service, Cause and
     Configuration Item) and in each item two buttons will be displayed; one
-    to Create Chart of Trend Analysis, which shows the dates that comprise
+    to **Create Chart** of Trend Analysis, which shows the dates that comprise
     the reported period and the number of occurrences on that date; and another
     for Create Problem, where the problem registration screen will be
     displayed to save the necessary information of the problem:
