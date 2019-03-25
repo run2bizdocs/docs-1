@@ -43,8 +43,7 @@ aplicación en la tienda en línea (App Store).
     la aplicación ;
 
 2.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
-    SM:
-
+    SM:;
 3.  Para crear una conexión, presione el icono con "Agregar conexión", como se
     indica en la figura siguiente:
 
@@ -116,7 +115,7 @@ Utilización del APP en el mobile
 #### Visualizando solicitudes de servicio
 
 1.  Después de realizar la conexión, aparecerá la pantalla de menú, donde hará
-    clic en la opción "Tickets de Servicios".
+    clic en la opción "Tickets de Servicios":
 
 
     ![Tela de login](images/ios-app-4.png)

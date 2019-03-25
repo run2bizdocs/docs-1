@@ -20,6 +20,12 @@ Procedimiento
 3.  Elegir a cual grupo se va dirigir el ticket en el campo "Dirigir
     para grupo".
 
+Lo que hacer después
+-------------
+
+Cheque en la página inicial de lista de tickets, si en la columna "Grupo Actual" el ticket fue escalonado a grupo correcto.
+
+
 Relacionado
 -----------
 

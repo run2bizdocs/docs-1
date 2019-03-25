@@ -56,10 +56,10 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
 
     Figura 1 - Certificado intermedio de GlobalSign
 
-3.  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
+ *  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
     en "Siguiente".
 
-4.  En el escritorio: haga clic con el botón derecho en el certificado
+ *  En el escritorio: haga clic con el botón derecho en el certificado
     descargado (como figura abajo), haga clic en instalar certificado y avanzar
     hasta que finalice.
 
@@ -67,7 +67,7 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
 
     Figura 2 - Instalación del certificado en Windows
 
-5.  Después de instalar, simplemente cambie la dirección de la aplicación a sus
+3.  Después de instalar, simplemente cambie la dirección de la aplicación a sus
     necesidades (por
     ejemplo:“[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 

@@ -18,7 +18,7 @@ Procedure
 
 1.  Access the functionality event trend analysis through the main menu
     Processes \> Request and Incident Management \> Trend Analysis,
-    tab Events;
+    tab **Events**;
 
 2.  Complete all mandatory fields;
 

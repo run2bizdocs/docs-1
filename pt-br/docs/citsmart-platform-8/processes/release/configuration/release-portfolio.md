@@ -18,10 +18,7 @@ Procedimento
 
 4.  Selecionar o portfólio recém-criado e clicar no botão "Avançar" do mesmo;
 
-5.  Apertar o botão "Novo modelo" e preencher os campos disponibilizados, tais
-    como por exemplo: vincular o fluxo desejado ao portfólio, selecionar o grupo
-    a executar a liberação, vincular o contrato, definir o impacto e a urgência,
-    dentre outros.
+5.  Apertar o botão "Novo modelo" e preencher os campos disponibilizados;
 
     !!! Abstract "ATENÇÃO"
 

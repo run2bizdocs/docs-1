@@ -73,8 +73,7 @@ En la pestaña Registro, se presentan vários campos para completar, entre ellos
 
 -   Privacidad: definir la privacidad del conocimiento;
 
--   Confidecial: sólo el autor del conocimiento y el administrador de la carpeta tendrán
-    acceso al conocimiento;
+-   Confidecial: sólo el autor del conocimiento y el administrador de la carpeta tendrán acceso al conocimiento;
     
 -   Público: todas las personas tendrán acceso al conocimiento, incluso las personas
     sin permiso en la carpeta;
@@ -112,7 +111,7 @@ En la pestaña Registro, se presentan vários campos para completar, entre ellos
        
 ### Opciones de publicación
 
-![pestaña](images/create-4.png)
+![pestaña](images/create-3.png)
 
 Figura 3 - Botón Opciones
 
@@ -143,7 +142,7 @@ Figura 3 - Botón Opciones
 
 ### Otras opciones
             
-![pestaña](images/create-3.PNG)
+![pestaña](images/create-4.png)
 
 Figura 4 - Botón Búsqueda
 
@@ -153,17 +152,14 @@ Botón Búsqueda - devuelve la pantalla principal de búsqueda de conocimientos.
 
     En la creación del conocimiento, CITSmart establecerá siempre la versión "1.0" y, cuando del cambio de un documento, podrá ser
     indicado por el operador, si la modificación debe ser Versionada o no y, también si las versiones anteriores deben archivarse.
-    
-    
-!!! Abstract "ATENCIÓN"    
 
-    **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
-    se corre el riesgo de ofrecer documentos de forma inadecuada. En este escenario se 
-    detiene la configuración de perfil de acceso y libera el acceso del documento a todos 
+
+!!! Abstract "ATENCIÓN" 
+
+    **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues se corre el riesgo de ofrecer documentos de         forma inadecuada. En este escenario se detiene la configuración de perfil de acceso y libera el acceso del documento a todos 
     los usuarios.
     
-    **SITUACIÓN**, la Situación indica el Flujo/Proceso de la creación (diseño) y 
-    aprobación/evaluación del Conocimiento hasta su publicación. 
+    **SITUACIÓN**, la Situación indica el Flujo/Proceso de la creación (diseño) y aprobación/evaluación del Conocimiento hasta su           publicación. 
 
 
 Relacionado
