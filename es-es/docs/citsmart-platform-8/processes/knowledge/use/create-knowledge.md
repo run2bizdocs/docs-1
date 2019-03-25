@@ -73,8 +73,7 @@ En la pestaña Registro, se presentan vários campos para completar, entre ellos
 
 -   Privacidad: definir la privacidad del conocimiento;
 
--   Confidecial: sólo el autor del conocimiento y el administrador de la carpeta tendrán
-    acceso al conocimiento;
+-   Confidecial: sólo el autor del conocimiento y el administrador de la carpeta tendrán acceso al conocimiento;
     
 -   Público: todas las personas tendrán acceso al conocimiento, incluso las personas
     sin permiso en la carpeta;
@@ -161,7 +160,6 @@ Botón Búsqueda - devuelve la pantalla principal de búsqueda de conocimientos.
     se corre el riesgo de ofrecer documentos de forma inadecuada. En este escenario se 
     detiene la configuración de perfil de acceso y libera el acceso del documento a todos 
     los usuarios.
-    
     **SITUACIÓN**, la Situación indica el Flujo/Proceso de la creación (diseño) y 
     aprobación/evaluación del Conocimiento hasta su publicación. 
 
