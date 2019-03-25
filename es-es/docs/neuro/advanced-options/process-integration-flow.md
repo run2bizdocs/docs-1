@@ -180,10 +180,11 @@ Figura 8 - Tela de cadastro/edição do workflow, aba de Diagrama
 - A aba de ações de usuário representa as ações que o usuário poderá acionar quando estiver executando a tarefa em questão. Dependendo da ação selecionada, o fluxo poderá seguir um fluxo alternativo, ou não. Tudo depende da modelagem. As ações que são apresentadas nessa lista são as mesmas que foram cadastradas na aba “Ações” do cadastro do workflow.    
 
 5- Interface  
-- Esta aba define como será mostrada a interface gráfica para o usuário ao executar essa tarefa, ou seja, como será a tela que o mesmo irá operar. Poderão ser escolhidos dois caminhos:    
 
-- Construir a tela em HTML dentro desta aba; ou   
-- Buscar um formulário pré-cadastrado no repositório do projeto (Builder → Gerenciamento da aplicação →  Formulário).    
+ - Esta aba define como será mostrada a interface gráfica para o usuário ao executar essa tarefa, ou seja, como será a tela que o mesmo   irá operar. Poderão ser escolhidos dois caminhos:    
+
+     - Construir a tela em HTML dentro desta aba; ou   
+     - Buscar um formulário pré-cadastrado no repositório do projeto (Builder → Gerenciamento da aplicação →  Formulário).    
 
 6- Para utilizar um formulário já criado no repositório, marque a opção Formulário do repositório como “Sim”, e informe o Nome do formulário.   
 7- Se optar por utilizar um formulário do repositório, terá a opção de adicionar um HTML com informações adicionais para essa tarefa em específico. É muito útil para reutilização de formulário genéricos, acrescendo informações específicas da tarefa.    
