@@ -10,71 +10,72 @@ Description: CITSmart auto-login
    Spnego 1.0 (artifactory)
 
 
-Criar usuário AD
+Crear usuario AD
 ----------------
 
-1.  Acessar criar usuário em Usuários e Computadores do Active Directory,
-    conforme a figura abaixo:
+1.  Acceder a crear usuarios en Usuarios y Ordenadores del Active Directory,
+    según la figura siguiente:
 
-    ![CRIAR USUÁRIO](images/sso-1.jpg)
+    ![CREAR USUARIO](images/sso-1.jpg)
 
-     Figura 1 - Criar usuário
+     Figura 1 - Crear usuario
 
-2. Criar uma senha: 
+2. Crear una contraseña: 
 
-    ![CRIAR USUÁRIO](images/sso-2.jpg)
+    ![CREAR USUARIO](images/sso-2.jpg)
 
-     Figura 2 - Senha
+     Figura 2 - Contraseña
 
-3. Clicar no lado direito do mouse, no botão usuário/propriedades:
+3. Hacer clic en el lado derecho del ratón, en el botón de usuario/propiedades:
 
-    ![CRIAR USUÁRIO](images/sso-3.jpg)
+    ![CREAR USUARIO](images/sso-3.jpg)
 
-     Figura 3 - Botão usuário/propriedades
+     Figura 3 - Botón usuario/propriedades
 
-4. Selecionar a opção "Esta conta oferece suporte para criptografia de 256 bits", aplicar e marcar "OK", conforme a figura abaixo:
+4. Seleccionar la opción "Esta cuenta ofrece soporte para criptografia de 256 bits", aplicar y marcar "OK", como se muestra a 
+   continuación:
 
-    ![CRIAR USUÁRIO](images/sso-4.jpg)
+    ![CREAR USUARIO](images/sso-4.jpg)
 
-     Figura 4 - Configurar conta
+     Figura 4 - Configurar cuenta
 
 
-5.  Abrir o ADI Editar. Logo após, conectar no AD, clicar em usuários e
-    localizar o usuário recém criado, conforme a figura abaixo:
+5.  Abrir el ADI Editar. Después, conectar en el AD, hacer clic en usuarios y
+    localizar el usuario recién creado, conforme la figura abajo:
       
-    ![CRIAR USUÁRIO](images/sso-5.jpg)
+    ![CREAR USUARIO](images/sso-5.jpg)
 
-     Figura 5 - Verificando usuário
+     Figura 5 - Verificando usuario
 
-6.  Clicar, então, o botão direito do mouse e selecionar a opção Propriedades.
-    Logo após, procurar o **servicePrincipalName** (sigla de SPN);
+6.  Hacer clic con el botón derecho del ratón y seleccionar la opción Propiedades.
+    Después, buscar por **servicePrincipalName** (acrónimo de SPN);
 
-7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em OK para efetuar a
-    operação, conforme a figura abaixo:
+7.  Agregar HTTP/hom-itsm.centralit.com.br, hacer clic en OK, conforme la figura
+    siguiente:
 
-    ![CRIAR USUÁRIO](images/sso-6.jpg)
+    ![CREAR USUARIO](images/sso-6.jpg)
 
-     Figura 6 - Adicionar o valor
+     Figura 6 - Agregar valor
 
-8.  Abrir o **CMD** como Administrador e colocar os seguintes comandos.
-    Lembre-se que o primeiro seta o **SPN** e o segundo gera o Keytab (o que
-    será utilizado no Wildfly):
+8.  Abrir el **CMD** como administrador y colocar los siguientes comandos.
+    Recuerde que la primera configura el **SPN** y el segundo genera el Keytab (lo que
+    se utilizará en el Wildfly):
 
     -   setspn -s HTTP/hom-itsm.centralit.com.br citsmart2
 
     -   ktpass / princ HTTP/hom-itsm.centralit.com.br /mapuser citsmart2  /pass
         central\@123 /ptype KRB5_NT_Principal/outcitsmart2.keytab /crypto ALL
 
-9.  Realizado os passos acima, o **AD** estará configurado. 
+9.  Realizado los pasos anteriores, el **AD** estará configurado. 
 
 
-Configurar o servidor Wildfly
+Configurar el servidor Wildfly
 -----------------------------
 
-1.  Copiar o **war** gerado da branch **sso**;
+1.  Copiar el **war** generado de la branch **sso**;
 
-2.  Copiar o arquivo krb5.conf (validar as informações de acordo com o AD) para
-    a pasta standalone/configuration (wildfly):
+2.  Copiar el archivo krb5.conf (validar las informaciones de acuerdo con el AD) para
+    la carpeta standalone/configuration (wildfly):
     
     ```sh
     [libdefaults]
@@ -95,7 +96,8 @@ Configurar o servidor Wildfly
     .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
     ```
 
-1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
+1.  Copiar el archivo login.conf (validar las informaciones de acuerdo con el AD) para la 
+    carpeta standalone/configuration (wildfly):
 
     ```sh
     custom-client {
@@ -107,12 +109,12 @@ Configurar o servidor Wildfly
     };
     ```
 
-1.  Copiar o arquivo lightkeytab.keytab (gerado pelo comando no AD) para a pasta
+1.  Copiar el archivo lightkeytab.keytab (generado por el comando en el AD) para la carpeta
     standalone/configuration (wildfly)
 
-2.  Arrumar o standalone.xlm ao adicionar as seguintes informações:
+2.  Arreglar el standalone.xlm al agregar las siguientes informaciones:
 
-    Em **\<system-properties\>**
+    En **\<system-properties\>**
     
     ```java
     \<property name="sun.security.krb5.debug" value="true"/\>
@@ -124,7 +126,7 @@ Configurar o servidor Wildfly
     \<property name="krb.principal"value="HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM"/\>
     ```
     
-    Em **\<security-domains\>**
+    En **\<security-domains\>**
 
     ```java
     \<security-domain name="spnego-server"\>
@@ -150,25 +152,25 @@ Configurar o servidor Wildfly
     \</security-domain\>
     ```
 
-1.  Caso não tenha alterado o jar do policy do JAVA (JCE - Java Cryptography
-    Extension), baixar os arquivos e colocar em
+1.  Si no ha cambiado el jar de la política de JAVA (JCE - Java Cryptography
+    Extension), descargar los archivos y colocar en
     jdk/jre/lib/security/policy/limited e jdk/jre/lib/security/policy/unlimited;
 
-2.  Importar (sincronizar) usuários do LDAP no ITSM.
+2.  Importar (sincronizar) usuarios del LDAP en el ITSM.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    O DN Alias deve ser igual ao domínio da rede (exemplo: CIT\\usuario), logo
-    o DN Alias = CIT, conforme a figura abaixo:
+    El DN Alias debe ser igual al dominio de la red (por ejemplo: CIT\\usuario), luego
+    el DN Alias = CIT, conforme la figura siguiente:
 
-![CRIAR USUÁRIO](images/sso-7.jpg)
+![CREAR USUARIO](images/sso-7.jpg)
 
-   Figura 7 - Definir o DN
+   Figura 7 - Definir el DN
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    É recomendável a leitura dos seguintes materiais de
-    apoio: <https://ss64.com/nt/setspn.html> e <http://spnego.sourceforge.net/>.
+    Se recomienda la lectura de los siguientes materiales de apoyo:
+    <https://ss64.com/nt/setspn.html> y <http://spnego.sourceforge.net/>.
     
     
  !!! tip "About"
