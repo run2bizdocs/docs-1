@@ -92,7 +92,7 @@ Figura 4 - Agregar nuevas columnas
     
 ## Relación
 
-1.  1)	Si es necesario, puede agregar Relaciones en esta guía;
+1.  Si es necesario, puede agregar Relaciones en esta guía;
 
 2.  Definir:
 
