@@ -45,14 +45,6 @@ Procedimento
     preenchidas com as que estiver contida na aba "Apresentação".
 
 
-!!! Abstract "REGRA"
-
-    A configuração da permissão de acesso do grupo para visualização do Portfólio
-    no Smart Portal, somente será aplicada caso o parâmetro 293 “Habilita permissão
-    de acesso para grupos de usuário no portal” esteja habilitado.
-
-
-
 O que fazer a seguir
 ------------------------
 
