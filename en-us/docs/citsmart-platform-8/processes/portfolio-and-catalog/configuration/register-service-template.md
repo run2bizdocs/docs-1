@@ -1,7 +1,10 @@
 title: Register service template
-Description: 
-#Register service template
-This feature provides a variety of actions, such as including, changing, and deleting a service template, which will be used to customize the service screen.
+Description: It provides several actions, for example, including, changing and deleting a service template, which will be used to customize the service screen.
+# Register service template
+
+This feature provides a variety of actions, such as including, changing, 
+and deleting a service template, which will be used to customize the 
+service screen.
 
 
 Before getting started
