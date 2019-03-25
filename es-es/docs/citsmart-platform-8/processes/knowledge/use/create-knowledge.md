@@ -112,7 +112,7 @@ En la pestaña Registro, se presentan vários campos para completar, entre ellos
        
 ### Opciones de publicación
 
-![pestaña](images/create-4.png)
+![pestaña](images/create-3.png)
 
 Figura 3 - Botón Opciones
 
@@ -143,7 +143,7 @@ Figura 3 - Botón Opciones
 
 ### Otras opciones
             
-![pestaña](images/create-3.PNG)
+![pestaña](images/create-4.png)
 
 Figura 4 - Botón Búsqueda
 
