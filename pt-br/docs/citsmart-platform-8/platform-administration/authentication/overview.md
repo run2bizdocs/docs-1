@@ -17,4 +17,4 @@ Esta é uma alternativa para fazer logon automático na plataforma. Contudo é n
 
 [Cadastrar conexões LDAP][1]
 
-[1]:citsmart-platform-8/platform-administration/authentication/ldap.md
+[1]:/pt-br/citsmart-platform-8/platform-administration/authentication/ldap.html
