@@ -155,7 +155,6 @@ Botón Búsqueda - devuelve la pantalla principal de búsqueda de conocimientos.
     
     
 !!! Abstract "ATENCIÓN"    
-
     **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
     se corre el riesgo de ofrecer documentos de forma inadecuada. En este escenario se 
     detiene la configuración de perfil de acceso y libera el acceso del documento a todos 
