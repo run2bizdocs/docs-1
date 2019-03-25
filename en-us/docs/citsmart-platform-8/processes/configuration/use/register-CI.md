@@ -1,9 +1,9 @@
 title: Register configuration item
-
 Description: Provides a variety of actions, such as including, changing, and deleting a configuration item. 
+
 # Register configuration item
 
-According to the ITIL "Any component or other service asset that needs to be managed in order to deliver an IT service.".
+According to the ITIL "Any component or other service asset that needs to be managed in order to deliver an IT service".
 This feature provides a variety of actions, such as including, changing, and deleting a configuration item.
 
 Before getting started
@@ -17,8 +17,8 @@ item if it's necessary to create other related configuration item.
 Procedure
 ---------
 
-1.  Access the functionality of Configuration Item Management through the main
-    menu Processes \> Configuration Management \> CMDB;
+1.  Access the main menu Processes \>
+    Configuration Management \> CMDB;
 
 2.  Click on the last icon of first line of the screen and then on "Create new
     device";
@@ -26,7 +26,20 @@ Procedure
 3.  It will appear the registration screen, with the configuration item tabs to
     be set;
 
-4.  Complete all mandatory field of each tab;
+4.  Complete the fields provided, at least:
+
+    * [x] Identification
+    * [x] Name
+    * [x] Serial Number
+    * [x] Locality 
+    * [x] Type of Configuration Item
+    * [x] Status
+    * [x] Service Criticality
+    * [x] Impact
+    * [x] Urgency
+    * [x] Group
+    * [x] Type of Responsible
+    * [x] Responsible
 
 5.  Click on "Save" .
 
