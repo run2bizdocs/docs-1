@@ -15,6 +15,8 @@ portafolio.
 El portafolio permite el vínculo con búsquedas que necesitan estar registradas
 previamente.
 
+Establezca el parámetro 293 en "SÍ" para habilitar el permiso de acceso para los grupos de usuarios en el Portal.
+
 Procedimiento
 -------------
 
