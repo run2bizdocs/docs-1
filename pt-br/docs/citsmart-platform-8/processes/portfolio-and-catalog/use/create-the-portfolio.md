@@ -15,6 +15,8 @@ Portfólio.
 O portfólio permite vínculo com pesquisas que precisam estar cadastradas
 previamente.
 
+Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
+
 Procedimento
 ----------------
 
