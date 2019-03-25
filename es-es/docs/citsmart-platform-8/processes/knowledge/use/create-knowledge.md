@@ -152,9 +152,9 @@ Botón Búsqueda - devuelve la pantalla principal de búsqueda de conocimientos.
 
     En la creación del conocimiento, CITSmart establecerá siempre la versión "1.0" y, cuando del cambio de un documento, podrá ser
     indicado por el operador, si la modificación debe ser Versionada o no y, también si las versiones anteriores deben archivarse.
-    
-    
-!!! Abstract "ATENCIÓN"    
+
+!!! Abstract "ATENCIÓN" 
+
     **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues
     se corre el riesgo de ofrecer documentos de forma inadecuada. En este escenario se 
     detiene la configuración de perfil de acceso y libera el acceso del documento a todos 
