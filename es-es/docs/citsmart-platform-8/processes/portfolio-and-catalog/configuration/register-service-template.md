@@ -31,7 +31,7 @@ Procedimento
 
     Figura 2 - Cuestionario plantilla
 
-    ![jsp](images/template-1.jpg)
+    ![jsp](images/template-3.jpg)
 
     Figura 3 - Neuro plantilla
 
