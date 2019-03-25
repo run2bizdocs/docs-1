@@ -17,4 +17,4 @@ This is an alternative to automatic login on the platform. However, it's necessa
 
 [Register LDAP connections][1]
 
-[1]:en-us/docs/citsmart-platform-8/platform-administration/authentication/ldap.md
+[1]:/pt-br/citsmart-platform-8/platform-administration/authentication/ldap.html
