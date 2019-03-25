@@ -183,11 +183,12 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 4. User Actions  
     - The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action**           selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the         same ones that were registered in the "Actions" tab of the workflow register.  
 
-5. Interface  
+5. Interface
+
     - This tab defines how the graphical user interface will be shown when performing this task, that is, how it will be the screen that      the user it will operate. You can choose two ways:  
 
-    - Construct the HTML screen inside this tab; or  
-    - Search for a pre-registered form in the project repository (Builder > Application management > Form).  
+      - Construct the HTML screen inside this tab; or  
+      - Search for a pre-registered form in the project repository (Builder > Application management > Form).  
 
 6. To use a form already created in the repository, check the **Repository Form** option as **Yes**, and enter the **Form Name**.  
 7. When choosing to use a repository form, the user will have the option to add HTML with additional information for that particular task, which is very useful for generic form reuse, adding task-specific information.  
