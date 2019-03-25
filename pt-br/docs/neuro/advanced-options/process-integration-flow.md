@@ -180,6 +180,7 @@ O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode
     - A aba de ações de usuário representa as ações que o usuário poderá acionar quando estiver executando a tarefa em questão.             Dependendo da ação selecionada, o fluxo poderá seguir um fluxo alternativo, ou não. Tudo depende da modelagem. As ações que são         apresentadas nessa lista são as mesmas que foram cadastradas na aba “Ações” do cadastro do workflow.    
 
 5. Interface  
+   
    - Esta aba define como será mostrada a interface gráfica para o usuário ao executar essa tarefa, ou seja, como será a tela que o        mesmo irá operar. Poderão ser escolhidos dois caminhos:    
 
     - Construir a tela em HTML dentro desta aba; ou   
