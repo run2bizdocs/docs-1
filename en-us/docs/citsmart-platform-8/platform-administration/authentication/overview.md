@@ -1,20 +1,20 @@
-Title: Visão Geral
+Title: Overview
 
-# Visão Geral
+# Overview
 
-Nativamente, são possíveis três tipos de autenticação na plataforma: local, LDAP/AD e SSO.
+Natively, three types of authentication are possible on the platform: local, LDAP/AD, and SSO.
 
 - **Local:**
-Esta é o método padrão de acesso à plataforma, em que os usuários são cadastrados na base de dados da ferramenta.
+This is the standard method of accessing the platform, where users are registered in the tool database.
 
 - **LDAP/AD:**
-A autenticação é a forma mais comum de acesso à plataforma e está voltada ao cenário do cliente final. Com ele é possível autenticar-se no sistema sem a necessidade de criar usuários manualmente.
+The authentication is the most common form of access to the platform and is geared towards the end customer scenario. It allows you to authenticate to the system without the need to create users manually.
 
 - **Sing Single On - SSO:**
-Esta é uma alternativa para fazer logon automático na plataforma. Contudo é necessário ter uma infraestrutura orientada a este serviço.
+This is an alternative to automatic login on the platform. However, it's necessary to have an infrastructure oriented to this service.
 
-## Relacionados
+## Related
 
-[Cadastrar conexões LDAP][1]
+[Register LDAP connections][1]
 
-[1]:citsmart-platform-8/platform-administration/authentication/ldap.md
+[1]:en-us/docs/citsmart-platform-8/platform-administration/authentication/ldap.md
