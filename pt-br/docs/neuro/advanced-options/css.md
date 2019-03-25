@@ -40,8 +40,10 @@ Figura 2 - Tela de listagem de CSS
 
 2. Nesta tela também é permitido ao usuário outras ações. São elas:
 
-   - Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações,      e clique em Salvar.    
-   - Para visualizar um item, selecione o mesmo e clique em Visualizar.   
+   - Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações,      e clique em Salvar;
+   
+   - Para visualizar um item, selecione o mesmo e clique em Visualizar;
+   
    - Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
 
 3. Ao clicar em Cadastrar, será apresentada a seguinte tela:    
