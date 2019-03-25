@@ -53,17 +53,17 @@ abaixo:
 
     Figura 1 - Certificado intermediário da GlobalSign
 
-3.  No mobile: informar o nome genérico (sugestão: GlobalSign) e clicar em
+ *  No mobile: informar o nome genérico (sugestão: GlobalSign) e clicar em
     "avançar".
 
-4.  No desktop: clicar com botão direito no certificado baixado (conforme figura
+ *  No desktop: clicar com botão direito no certificado baixado (conforme figura
     abaixo), clicar em "instalar certificado" e avançar até concluir.
 
     ![Windows](images/android-ios-2.jpg)
 
     Figura 2 - Instalação do certificado no Windows
 
-5.  Depois de instalado, basta alterar o endereço do aplicativo para suas
+3.  Depois de instalado, basta alterar o endereço do aplicativo para suas
     necessidades (exemplo:
     “[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
