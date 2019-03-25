@@ -42,7 +42,7 @@ Los siguientes requisitos antecede el uso efectivo de esta funcionalidad:
 
 Con el servicio del GuaCD activo y comunicable, el siguiente paso es crear una conexión de acceso remoto en su instancia y probar el recurso.
 
-## Relacionados
+## Relacionado
 
 [Crear conexión con el servidor de acceso remoto][1]
 
