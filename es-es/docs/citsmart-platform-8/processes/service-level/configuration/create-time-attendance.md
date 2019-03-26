@@ -24,10 +24,10 @@ Procedimiento
 
 3.  Completar los campos disponibles en el cuadro **Datos Básicos**;
 
-!!! Warning "IMPORTANTE"
+    !!! Warning "IMPORTANTE"
 
-    Indicar en el atributo "Cambio de Impacto/Urgencia" si se va permitir el cambio
-    de Impacto y/o Urgencia
+        Indicar en el atributo "Cambio de Impacto/Urgencia" si se va permitir el cambio
+        de Impacto y/o Urgencia.
 
 4.  En el cuadro **Tiempo de Atención por Prioridad**, definir el tiempo de
     atención de los servicios, teniendo en cuenta la prioridad. La prioridad se
