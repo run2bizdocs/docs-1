@@ -69,6 +69,16 @@ Procedimiento
         
         El "Detalle de la Causa" se completará con los datos de la "Causa Raíz" descrita en el problema vinculado
         y la "Solución Respuesta" será complementada por las informaciones inscritas en la "Solución Temporal" elegida.
+        
+    !!! Abstract "REGLA"
+     
+        Al abrir una solicitud de servicio, se puede aparecer una cierta cantidad de "Soluciones temporales" debido a las 
+        siguientes reglas:
+        
+         * soluciones temporales vinculadas a los problemas de la solicitud de servicio;
+         * las soluciones temporales vinculadas a los problemas de servico de negocio de la solicitud;
+         * las soluciones temporales vinculadas a los problemas con elemento de configuración de esta solicitud.
+    
 
 14. Para vincular un **Cambio**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
