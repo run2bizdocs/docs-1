@@ -59,6 +59,7 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
     The version homologate of the Apache Solr is 6.4.2.
 
     Solr 6.4.2: http://files.citsmart.com/solr-6.4.2.zip
+    
     Configurations to the knowledge base: http://files.citsmart.com/base_conhecimento_configs.zip
 
 ### Download of assets files to CITSmart
