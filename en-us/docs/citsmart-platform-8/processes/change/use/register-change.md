@@ -41,7 +41,7 @@ Procedure
 Related 
 ---------------
 
-[Create portfolio of change](/pt-br/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
+[Create portfolio of change](/en-us/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
