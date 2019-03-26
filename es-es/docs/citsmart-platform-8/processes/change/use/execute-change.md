@@ -27,9 +27,7 @@ Procedimiento
     También es permitido vincular un cuadro ya creado al hacer clic en el otro botón relacionado
     al “Workspace”.
 
-5.  Aún es posible vincular incidentes, problemas, lecciones aprendidas (que son
-    básicamente conocimientos que se refieren al cambio efectuado) y adjuntos de
-    archivos para detallar la ejecución del cambio. Para ello, es necesario hacer clicen la pestaña disponible, seleccionar un elemento     para vincular al cambio.
+5.  Aún es posible vincular incidentes, problemas, lecciones aprendidas (que son básicamente conocimientos que se refieren al cambio         efectuado) y adjuntos de archivos para detallar la ejecución del cambio. Para ello, es necesario hacer clicen la pestaña disponible,     seleccionar un elemento para vincular al cambio.
 
 6.  Hacer cli en la pestaña "Más" y después en "Cierre" para registrar los datos
     referentes a la ejecución del cambio, por ejemplo: categoría de la solución,
