@@ -74,7 +74,7 @@ Procedimento 
         descrita no problema vinculado e a “Solução Resposta” será complementada
         pelas informações inscritas na “Solução Contorno” escolhida.
         
-     !!! Abstract "REGRA"
+    !!! Abstract "REGRA"
      
          Ao abrir uma solicitação de serviço poderá aparecer uma certa quantidade de "Soluções contorno" devido as seguintes regras:
         
