@@ -13,8 +13,7 @@ Procedimiento
 2.  Buscar el cambio en el que desea incluir el registro de ocurrencia y hacer clic
     en "Abrir";
 
-3.  Hacer clic en el icono “Registro de Ejecución” (último icono al lado derecho de la
-    pantalla abajo del campo de búsqueda) y después hacer clic en "Añadir ocurrencia";
+3.  Hacer clic en el icono “Registro de Ejecución” (último icono al lado derecho de la pantalla abajo del campo de búsqueda) y después         hacer clic en "Añadir ocurrencia";
 
 4.  Hacer clic en "Añadir ocurrencia" y completar los campos obligatórios;
 
