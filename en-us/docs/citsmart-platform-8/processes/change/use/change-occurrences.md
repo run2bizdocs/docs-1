@@ -1,6 +1,6 @@
 title: Register change occurrences
 Description: It allows to register eventual occurrences in a Change
-# Regsiter change occurrences
+# Register change occurrences
 
 This functionality allows to register eventual occurrences related to a Change.
 
