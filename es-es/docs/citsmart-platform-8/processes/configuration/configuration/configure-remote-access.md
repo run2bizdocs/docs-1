@@ -1,6 +1,6 @@
-title: Configurar acceso remoto
+title: Crear conexión con el servidor de acceso remoto
 Description: Configurar la opción de acceso remoto, presente dentro de la pantalla de CMDB (Gestión de la Configuración), en el ITSM.
-#Configurar acceso remoto
+#Crear conexión con el servidor de acceso remoto
 
 
 Esta funcionalidad permite configurar la opción de acceso remoto, presente
