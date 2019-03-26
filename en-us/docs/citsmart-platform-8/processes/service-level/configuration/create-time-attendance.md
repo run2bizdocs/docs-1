@@ -23,10 +23,10 @@ Procedure
 
 3.  Complete all mandatory field in **Basic Data**;
 
-!!! Warning "IMPORTANT"
+    !!! Warning "IMPORTANT"
 
-    Indicate in the attribute "Impact/Urgency Change", if it'll be allowed the 
-    change of Impact and/or Urgency
+        Indicate in the attribute "Impact/Urgency Change", if it'll be allowed the 
+        change of Impact and/or Urgency.
 
 4.  In **Time of Attendance per Priority**, set the service time of attendance,
     taking into consideration the priority. The priority is used to identify the
