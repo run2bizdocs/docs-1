@@ -43,10 +43,7 @@ Procedimiento
 
 !!! info "Registro de Problema"
 
-    En el cierre de un cambio, la herramienta dispone de funcionalidad que comprueba
-    la existencia de problemas relacionados y, si existen, los cierra automáticamente.
-    La funcionalidad está en el flujo predeterminado del sistema para el proceso de 
-    gestión del cambio.
+    En el cierre de un cambio, la herramienta dispone de funcionalidad que comprueba la existencia de problemas relacionados y, si           existen, los cierra automáticamente. La funcionalidad está en el flujo predeterminado del sistema para el proceso de gestión del         cambio.
 
 Relacionado 
 ------------
