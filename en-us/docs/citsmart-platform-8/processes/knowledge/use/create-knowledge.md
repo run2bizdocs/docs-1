@@ -142,7 +142,7 @@ Figure 3 - Options Button
 ### Other options
 
 
-![tab](images/create-3.PNG)
+![tab](images/create-3.png)
 
 Figure 4 - Search Button
 
