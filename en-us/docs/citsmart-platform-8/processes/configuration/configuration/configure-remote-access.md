@@ -1,6 +1,6 @@
-title: Configure remote access
+title: Create connection to remote access server
 Description: Allows to configure the option of remote access, present in the CMDB screen and ITSM.
-#Configure remote access
+#Create connection to remote access server
 This functionality allows to configure the option of remote access, present in the CMDB screen and ITSM.
 
 Before getting started
