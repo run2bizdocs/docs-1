@@ -19,7 +19,7 @@ o procedimento relativo ao produto.
 No manual será utilizado PostgreSQL.
 
 !!! info "ATENÇÃO"
-    
+    No manual será utilizado PostgreSQL.
     Pode-se baixar o pacote para Oracle ou MSSQL e fazer as alterações
     igualmente descritas para PostgreSQL.
 
