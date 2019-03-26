@@ -73,6 +73,15 @@ Procedimento 
         O “Detalhamento da Causa” será preenchido com os dados da “Causa Raiz”
         descrita no problema vinculado e a “Solução Resposta” será complementada
         pelas informações inscritas na “Solução Contorno” escolhida.
+        
+     !!! Abstract "REGRA"
+     
+        Ao abrir uma solicitação de serviço poderá aparecer uma certa quantidade de "Soluções contorno" devido as seguintes regras:
+        
+        * soluções de contorno vinculadas aos problemas da solicitação de serviço;
+        * as soluções de contorno vinculadas aos problemas do serviço de negócio da solicitação;
+        * as soluções de contorno vinculadas a problemas que possuem o item de configuração desta solicitação.
+
 
 14. Para vincular uma **Mudança**, clicar na guia correspondente e vincular o
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
