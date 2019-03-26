@@ -59,11 +59,11 @@ Related
 
 [Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/portfolio-management.html)
+[Define the permission to access Portfolio Management functionalities](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
 [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Create service map](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-map.html)
+[Create service map](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
