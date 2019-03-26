@@ -47,7 +47,7 @@ Procedimiento
 Relacionado
 ------------
 
-[Crear portafolio de problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
+[Crear portafolio de problema](/es-es/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
 
 !!! tip "About"
 
