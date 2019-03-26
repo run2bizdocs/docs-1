@@ -1,6 +1,6 @@
 title: Cerrar cambio
 Description: Permite ejecutar el cambio 
-#Cerrar cambio 
+# Cerrar cambio 
 
 Esta funcionalidad permite cerrar el cambio, explicando todos los hechos ocurridos en el ciclo de vida del cambio, favoreciendo así la reconsideración y fiscalización de la alteración creada a fin de reducir costos y riesgos para la organización.
 
@@ -40,6 +40,13 @@ Procedimiento
 7.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar
     las actividades de planificación o seleccionar "Guardar y avanzar flujo" para cerrar la tarea
     y direccionar para la siguiente fase del flujo.
+
+!!! info "Registro de Problema"
+
+    En el cierre de un cambio, la herramienta dispone de funcionalidad que comprueba
+    la existencia de problemas relacionados y, si existen, los cierra automáticamente.
+    La funcionalidad está en el flujo predeterminado del sistema para el proceso de 
+    gestión del cambio.
 
 Relacionado 
 ------------
