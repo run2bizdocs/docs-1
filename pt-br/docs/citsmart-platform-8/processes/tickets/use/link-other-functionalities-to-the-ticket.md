@@ -76,7 +76,8 @@ Procedimento 
         
     !!! Abstract "REGRA"
      
-         Ao abrir uma solicitação de serviço poderá aparecer uma certa quantidade de "Soluções contorno" devido as seguintes regras:
+         Ao abrir uma solicitação de serviço poderá aparecer uma certa quantidade de "Soluções contorno" 
+         devido as seguintes regras:
         
          * soluções de contorno vinculadas aos problemas da solicitação de serviço;
          * as soluções de contorno vinculadas aos problemas do serviço de negócio da solicitação;
