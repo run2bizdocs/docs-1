@@ -18,8 +18,8 @@ Procedure
 2.  Find the change you want to plan the activity, click on "Open"
     and then on "Reversion plan”;
 
-3.  In the tab "Review", it's necessary to select the option that defines if the change
-    was successfully done;
+3.  In the tab "Review", it's necessary to select the option that defines if the
+    change was successfully done;
 
 4.  It'll be possible to create a Kaban to manage the activities registered.
     Just click on “+Workspace” and complete the data available, for example:
