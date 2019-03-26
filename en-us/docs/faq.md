@@ -23,7 +23,7 @@ Title: Frequently Asked Questions - FAQ
     
 ??? Question "Is it possible to categorize the Request/Incident (Ticket)?"    
 
-    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
+    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
 ??? Question "How are documents ranked at the time of SOLR knowledge base search?"
     
