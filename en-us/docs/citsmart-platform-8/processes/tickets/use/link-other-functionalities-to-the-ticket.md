@@ -66,6 +66,16 @@ Procedure
         The "Cause Detail" will be completed with the data of "Root Cause" described in
         the problem linked, and the "Answer Solution" will be completed with the information
         inscribed in the "Workaround" you've chose.
+        
+    !!! Abstract "RULE"
+    
+         When opening a service request, a certain amount of "Workarounds" may appear due
+         to the following rules:
+         
+         * workarounds related to the service request problems;
+         * workarounds linked to the business service problems of the request;
+         * workarounds related to problems that have the configuration item of this request.
+    
 
 14. To link a **Change**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
