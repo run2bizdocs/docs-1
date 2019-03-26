@@ -46,7 +46,11 @@ Procedimento
     próxima fase do fluxo.
     
 !!! info "Registro de Problema"
-    No encerramento de uma mudança, a ferramenta dispõe de funcionalidade que verifica a existência de problemas relacionados e, caso existam, encerra-os automaticamente. A funcionalidade está no fluxo default do sistema para o processo de gerenciamento de mudança.
+    
+    No encerramento de uma mudança, a ferramenta dispõe de funcionalidade que verifica 
+    a existência de problemas relacionados e, caso existam, encerra-os automaticamente. 
+    A funcionalidade está no fluxo default do sistema para o processo de gerenciamento 
+    de mudança.
 
 Relacionado 
 ------------
