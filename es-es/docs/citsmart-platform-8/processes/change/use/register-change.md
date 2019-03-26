@@ -42,7 +42,7 @@ Procedimiento
 Relacionado 
 ---------------
 
-[Crear portafolio de cambio](/pt-br/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
+[Crear portafolio de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
