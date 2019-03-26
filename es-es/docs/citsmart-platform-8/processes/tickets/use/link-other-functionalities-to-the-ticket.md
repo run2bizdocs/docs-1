@@ -61,23 +61,26 @@ Procedimiento
     !!! Abstract "NOTA"
     
         Al vincular un problema al ticket, las "Solución temporal" registradas en estos
-        estarán disponibles en el ticket en la pestaña a la izquierda del mismo nombre. Al hacer
-        clic en una, se podrá visualizar cada una para seleccionar la solución más adecuada al incidente,
-        en cuestión, hacer clic en "Copiar", el incidente, entonces automáticamente cambiará el status a "Resuelta" 
-        y completará los datos de los elementos "Detalle de la Causa" y "Solución Respuesta" con los datos registrados 
-        en el problema vinculado.
+        estarán disponibles en el ticket en la pestaña a la izquierda del mismo nombre. 
+        Al hacer clic en una, se podrá visualizar cada una para seleccionar la solución 
+        más adecuada al incidente,en cuestión, hacer clic en "Copiar", el incidente, entonces 
+        automáticamente cambiará el status a "Resuelta" y completará los datos de los elementos 
+        "Detalle de la Causa" y "Solución Respuesta" con los datos registrados en el problema
+        vinculado.
         
-        El "Detalle de la Causa" se completará con los datos de la "Causa Raíz" descrita en el problema vinculado
-        y la "Solución Respuesta" será complementada por las informaciones inscritas en la "Solución Temporal" elegida.
+        El "Detalle de la Causa" se completará con los datos de la "Causa Raíz" descrita en el 
+        problema vinculado y la "Solución Respuesta" será complementada por las informaciones 
+        inscritas en la "Solución Temporal" elegida.
         
     !!! Abstract "REGLA"
      
-        Al abrir una solicitud de servicio, se puede aparecer una cierta cantidad de "Soluciones temporales" debido a las 
-        siguientes reglas:
+        Al abrir una solicitud de servicio, se puede aparecer una cierta cantidad de "Soluciones 
+        temporales" debido a las siguientes reglas:
         
          * soluciones temporales vinculadas a los problemas de la solicitud de servicio;
          * las soluciones temporales vinculadas a los problemas de servico de negocio de la solicitud;
-         * las soluciones temporales vinculadas a los problemas con elemento de configuración de esta solicitud.
+         * las soluciones temporales vinculadas a los problemas con elemento de configuración de esta 
+           solicitud.
     
 
 14. Para vincular un **Cambio**, haga clic en la ficha correspondiente y
