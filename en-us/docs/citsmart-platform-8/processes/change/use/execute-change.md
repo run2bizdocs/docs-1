@@ -1,6 +1,6 @@
 title: Close change
 Description: It allows to execute the change 
-#Close change 
+# Close change 
 
 This functionality allows to close the change, explaining all the facts that have occurred in the lifecycle of the change, thus favoring the reexamination and inspection of the change created in order to reduce costs and risks for the organization.
 
@@ -40,6 +40,13 @@ Procedure
 7.  Click on "Options" and the on "Save and keep current task" to register the
     planning activities or select "Save and advance flow" to facilitate the task
     and send it to the next phase of the flow.
+    
+!!! info "Problem Registration"    
+
+    In the closure of a change, the tool has functionality that verifies the existence of 
+    related problems and, if they exist, automatically closes them. The functionality is in 
+    the default system flow for the change management process.
+    
 
 Related 
 ------------
