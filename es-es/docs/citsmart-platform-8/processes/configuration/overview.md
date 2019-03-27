@@ -26,6 +26,12 @@ Uso
 
 - [Vincular calendario al grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
+- [Vincular acuerdo de nivel de servicio al grupo de EC](/es-es/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
+
+- [Registrar elemento de configuración](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+
+- [Ejecutar script del elemento de configuración]9/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
+
 - [Registrar costo por hora de indisponibilidad](/es-es/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
 - [Exportar CMDB](/es-es/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
