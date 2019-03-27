@@ -15,6 +15,10 @@ Use
 
 - [Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
+- [Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/use/knowledge-portal.html)
+
+- [Display and search for the tags in the knowledge portal](/en-us/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
+
 - [Search knowledge through the user guide](/en-us/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
 - [Refine search in Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
