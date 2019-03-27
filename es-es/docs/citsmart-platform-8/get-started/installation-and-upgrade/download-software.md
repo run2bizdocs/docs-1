@@ -53,7 +53,10 @@ Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/m
 
     En el manual utilizaremos PostgreSQL con descarga del repositorio oficial.
 
-Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante: CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha en el momento de configuración de los paquetes.
+    
+   CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha en el momento de configuración de los      paquetes.
+
+   Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante: 
 
 *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
