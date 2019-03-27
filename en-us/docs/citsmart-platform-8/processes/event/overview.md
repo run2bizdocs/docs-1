@@ -21,6 +21,8 @@ management.
 Use
 -------
 
+- [The event center](/en-us/citsmart-platform-8/processes/event/use/the-event-center.html)
+
 - [Search event](/en-us/citsmart-platform-8/processes/event/use/search-event.html)
 
 - [View event](/en-us/citsmart-platform-8/processes/event/use/view-event.html)
