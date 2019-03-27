@@ -41,6 +41,8 @@ Procedure
 Related
 -------
 
+[Configure parametrization - knowledge](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+
 [Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
 
