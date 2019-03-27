@@ -1,6 +1,6 @@
 title: Visão Geral  
 
-## O que é CITSmart ?
+# O que é CITSmart ?
 
 O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
 conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
