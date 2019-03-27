@@ -56,12 +56,12 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
 
     Figura 1 - Certificado intermedio de GlobalSign
 
- *  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
-    en "Siguiente".
+    *  En el móvil: informe el nombre genérico (sugerencia: GlobalSign) y haga clic
+       en "Siguiente".
 
- *  En el escritorio: haga clic con el botón derecho en el certificado
-    descargado (como figura abajo), haga clic en instalar certificado y avanzar
-    hasta que finalice.
+    *  En el escritorio: haga clic con el botón derecho en el certificado
+       descargado (como figura abajo), haga clic en instalar certificado y avanzar
+       hasta que finalice.
 
     ![Windows](images/android-ios-2.jpg)
 
