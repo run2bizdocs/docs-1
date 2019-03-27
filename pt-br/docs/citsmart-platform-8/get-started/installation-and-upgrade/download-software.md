@@ -53,11 +53,12 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
     No manual userá utilizado PostgreSQL com download do repositório oficial.
 
-   Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
-   informações e melhores práticas de cada fabricante:O CITSmart Enterprise é
-   compatível com o PostgreSQL 9.2 ou superior e o download será feito no
+   O CITSmart Enterprise é compatível com o PostgreSQL 9.2 ou superior e o download será feito no
    momento da configuração dos pacotes.
-
+   
+   Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
+   informações e melhores práticas de cada fabricante:
+   
    *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
    *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
