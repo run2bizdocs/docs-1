@@ -23,6 +23,12 @@ Use
 
 - [Link calendar to group of configuration item](/en-us/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
+- [Link service level agreement to CI group](/en-us/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
+
+- [Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+
+- [Run script of the configuration item](/en-us/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
+
 - [Register cost per hour of unavailability](/en-us/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
 - [Export CMDB](/en-us/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
