@@ -21,7 +21,7 @@ Uso
 -------
 
 
-- [Registra atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
+- [Registrar atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
 
 - [Importar datos de atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/import-demand-attibute-data.html)
 
