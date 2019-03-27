@@ -76,7 +76,7 @@ Para mais informações, veja [Gerenciamento de Item de Configuração][10]
 ###Regra de Escalonamento
 Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações.
 
-**Nota:** Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
+**Nota**: Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
 
 
 Para mais informações, veja [Criar regra de escalonamento][11]
