@@ -14,6 +14,8 @@ Esta funcionalidade tem como objetivo apresentar algumas funcionalidades para o 
 Uso
 -------
 
+- [A central de Eventos](/pt-br/citsmart-platform-8/processes/event/use/the-event-center.html)
+
 - [Pesquisar evento](/pt-br/citsmart-platform-8/processes/event/use/search-event.html)
 
 - [Visualizar um evento](/pt-br/citsmart-platform-8/processes/event/use/view-event.html)
