@@ -30,7 +30,7 @@ Uso
 
 - [Registrar elemento de configuración](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
 
-- [Ejecutar script del elemento de configuración]9/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
+- [Ejecutar script del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
 - [Registrar costo por hora de indisponibilidad](/es-es/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
