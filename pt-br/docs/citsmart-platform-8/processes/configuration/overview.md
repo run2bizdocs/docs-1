@@ -20,6 +20,12 @@ Uso
 
 - [Vincular calendário ao grupo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
+- [Vincular acordo de nível de serviço ao grupo de IC](/pt-br/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
+
+- [Cadastrar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+
+- [Executar script referente ao item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
+
 - [Registrar custo por hora de indisponibilidade](/pt-br/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
 
 - [Exportar CMDB](/pt-br/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
@@ -39,7 +45,7 @@ Uso
 - [Verificar itens de configuração capturados pelo Inventory(agente)](/pt-br/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
 Configuração
------------------
+-------------
 
 - [Configurar parametrização - configuração](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
