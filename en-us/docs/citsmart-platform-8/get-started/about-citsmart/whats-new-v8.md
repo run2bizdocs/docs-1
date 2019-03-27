@@ -197,7 +197,7 @@ There is also a new Solution area with direct link to the Simple and change regi
 
 ![b-Review and closure](images/review-closure.png)
 
-For further information access the documentation about [Problem Manaement][3]
+For further information access the documentation about [Problem Management][3]
 
 Configuration and Assets Management
 --------------------------------------
