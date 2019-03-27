@@ -145,7 +145,7 @@ O pacote de fluxos entregues para os processos de Problema, Mudança e Liberaç�
 __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.__
 
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
+[1]:/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
 [2]:/pt-br/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
 [3]:/pt-br/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html
 [4]:/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html

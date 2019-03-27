@@ -16,10 +16,9 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-No manual será utilizado PostgreSQL.
-
 !!! info "ATENÇÃO"
-    
+
+    No manual será utilizado PostgreSQL.
     Pode-se baixar o pacote para Oracle ou MSSQL e fazer as alterações
     igualmente descritas para PostgreSQL.
 
@@ -151,10 +150,10 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 
 ### PostgreSQL Database Server
 
-Para esse manual será utilizada a versão 9.5 do PostgreSQL.
 
 !!! Abstract "ATENÇÃO"
 
+    Para esse manual será utilizada a versão 9.5 do PostgreSQL.
     Pode instalar o PostgreSQL seguindo o manual oficial do PostgreSQL através do link:
     https://www.postgresql.org/download/linux/redhat/
 

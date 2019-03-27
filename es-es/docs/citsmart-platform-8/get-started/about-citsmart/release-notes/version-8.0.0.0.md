@@ -143,7 +143,7 @@ El paquete de flujos entregados a los procesos de Problema, Cambio y Liberación
 
 __Si el cliente no desea utilizar los nuevos flujos, la última versión 7.1.0 seguirá funcionando perfectamente.__
 
-[1]:/es-es/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
+[1]:/es-es/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
 [2]:/es-es/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
 [3]:/es-es/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html
 [4]:/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html

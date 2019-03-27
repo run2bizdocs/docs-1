@@ -159,8 +159,9 @@ Configure the Wildfly server
     It's recommended the reading the follow support materials: https://ss64.com/nt/setspn.html and http://spnego.sourceforge.net/ .
     
     
- !!! tip "About"
+!!! tip "About"
 
-<b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-<b>Updated:</b>03/15/2019 – Anna Martins
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>03/15/2019 – Anna Martins
+
    

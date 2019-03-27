@@ -146,7 +146,7 @@ The package of flows delivered to the processes of Problem, Change and Release h
 __If the customer doesn't want to use the new flows, the latest version 7.1.0 will continue to work perfectly.__
 
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
+[1]:/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
 [2]:/en-us/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
 [3]:/en-us/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html
 [4]:/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html

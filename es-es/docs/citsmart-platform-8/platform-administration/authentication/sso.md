@@ -173,8 +173,9 @@ Configurar el servidor Wildfly
     <https://ss64.com/nt/setspn.html> y <http://spnego.sourceforge.net/>.
     
     
- !!! tip "About"
+!!! tip "About"
 
-<b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-<b>Updated:</b>03/15/2019 – Anna Martins
+    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>03/15/2019 – Anna Martins
+
    
