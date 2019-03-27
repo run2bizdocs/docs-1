@@ -10,7 +10,7 @@ Title: Comparación V.7 vs V.8
 |    **Soporte**                                        |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    Teléfono                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Soporte en línea                               |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    documentación                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
+|    Documentación                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Tutoriales en Vídeo                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Procesos Gerenciales**                           |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
 |    Gestión de Portafolio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
