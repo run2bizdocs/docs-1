@@ -7,11 +7,11 @@ Es posible importar un rango de datos al CITSmart Platform, esto puede ayudar en
 
 # Relacionado
 
-[Import employee][1]
+[Importar colaborador][1]
 
-[Import the service portfolio][2]
+[Hacer la importación del portafolio de servicio][2]
 
-[Load Metadata][3]
+[Cargar metadatos][3]
 
 [1]:/es-es/citsmart-platform-8/platform-administration/data-and-import/employee-import.html
 [2]:/es-es/citsmart-platform-8/platform-administration/data-and-import/portfolio-import-service-portfolio.html
