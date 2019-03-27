@@ -34,7 +34,7 @@ Related
 
 [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](/en-us/citsmart-platform-8/platform-administration/data-and-import/employee-import.html)
+[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
 
 !!! tip "About"
