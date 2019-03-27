@@ -20,6 +20,6 @@ La plataforma tiene mecanismos para medir la satisfacción de los usuarios que u
 
 
 
-[1]:/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html
-[2]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/notification/use/notification.html
-[3]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/email/register-email-notification.html
+[1]:/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html
+[2]:/es-es/citsmart-platform-8/additional-features/communication-and-notification/notification/use/notification.html
+[3]:/es-es/citsmart-platform-8/additional-features/communication-and-notification/email/register-email-notification.html
