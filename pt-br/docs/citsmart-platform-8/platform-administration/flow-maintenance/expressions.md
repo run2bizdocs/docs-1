@@ -8,8 +8,10 @@ Expressões são recursos utilizados nos fluxos do sistema para permitir a const
 
 [Criador de Expressões][1]
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/expressions-creator.html
+[Fluxo][2]
 
+[1]:/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/expressions-creator.html
+[2]:/pt-br/citsmart-platform-8/processes/knowledge/flow/flow.html
 
 !!! tip "Sobre"
 
