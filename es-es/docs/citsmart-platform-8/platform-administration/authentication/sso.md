@@ -40,7 +40,7 @@ Crear usuario AD
      Figura 4 - Configurar cuenta
 
 
-5.  Abrir el ADI Editar. Después, conectar en el AD, hacer clic en usuarios y
+5.  Abrir el ADSI Editar. Después, conectar en el AD, hacer clic en usuarios y
     localizar el usuario recién creado, conforme la figura abajo:
       
     ![CREAR USUARIO](images/sso-5.jpg)
