@@ -1,6 +1,6 @@
-title: CITSmart auto-login
+title: CITSmart auto-login - SSO
 Description: CITSmart auto-login
-#CITSmart auto-login
+#CITSmart auto-login - SSO
 
 
 **Branchs**:
