@@ -32,7 +32,7 @@ Configuración
 Informe
 ----------
 
-- [Generar informes - Gestión de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/reports-service-level-management.html)
+- [Generar informes - Gestión de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/reports-service-level-management.html)
 
 !!! tip "About"
 
