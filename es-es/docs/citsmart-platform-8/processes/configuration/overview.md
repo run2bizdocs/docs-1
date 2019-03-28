@@ -28,7 +28,7 @@ Uso
 
 - [Vincular acuerdo de nivel de servicio al grupo de EC](/es-es/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Registrar elemento de configuración](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+- [Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
 
 - [Ejecutar script del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
