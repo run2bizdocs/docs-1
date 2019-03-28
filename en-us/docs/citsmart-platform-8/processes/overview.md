@@ -6,7 +6,7 @@ CITSmart, developed by CITSmart Corporation®, is a **platform that conects
 people and digital resources to optimize work and increase business results.**
 
 Through the relationship portals we optimize the experience of customers and employees. 
-In addition, with the **Intelligent Digital Workflow** and agile management, using Kanbans, 
+In addition, with the **Smart Digital Workflow** and agile management, using Kanbans, 
 we connect teams to a greater customer-centric collaboration,  generating progressive 
 and interactive improvement, simplicity in execution, practicality, alignment and agility.
 
