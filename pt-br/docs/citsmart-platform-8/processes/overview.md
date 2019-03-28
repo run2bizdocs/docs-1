@@ -7,8 +7,8 @@ conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
 resultados do negócio.**
 
 Através dos portais de relacionamento otimizamos a experiência de clientes e
-colaboradores e por meio do **Workflow Digital Inteligente** e gestão ágil, com uso
-de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
+colaboradores. Além disso, por meio do **Workflow Digital Inteligente** e gestão ágil, 
+com uso de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
 gerando assim, melhoria progressiva e interativa, simplicidade na execução,
 praticidade, alinhamento e agilidade.
 
