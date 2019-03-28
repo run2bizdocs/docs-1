@@ -148,7 +148,7 @@ Configure the Wildfly server
 
 !!! Abstract "ATTENTION"
 
-    The DN Alias should be the same as the network domain (example: CIT\user), log the DN Alias = CIT, as below:
+    The DN Alias should be the same as the network domain (example: CIT\user), than the DN Alias = CIT, as below:
 
 ![CRIAR USUÁRIO](images/sso-7.jpg)
 
