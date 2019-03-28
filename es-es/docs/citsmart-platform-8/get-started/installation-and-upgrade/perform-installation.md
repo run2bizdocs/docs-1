@@ -134,7 +134,21 @@ directorio \$JBOSS_HOME/bin, conforme presentado abajo.
     ```sh
     chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
     ```
+### Configuração do Servidor de Aplicação Wildfly
 
+Todas las configuraciones hechas en este documento se harán a través de jboss-cli. Para ello, inicie el Wildfly en standalone, conéctese a jboss-cli y ejecute los siguientes comandos.
+
+```sh
+su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
+```
+
+```sh
+/opt/wildfly/bin/jboss-cli.sh --connect
+```
+
+```sh
+[standalone@localhost:9990 /]
+```
 
 ### Configuración del System Properties
 
