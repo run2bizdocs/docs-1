@@ -14,4 +14,8 @@ Nativamente, son posibles tres tipos de autenticación en la plataforma: local, 
 
 [Registrar conexiones LDAP][1]
 
+[CITSmart auto-login - SSO][2]
+
 [1]:/es-es/citsmart-platform-8/platform-administration/authentication/ldap.html
+
+[2]:/es-es/citsmart-platform-8/platform-administration/authentication/sso.html
