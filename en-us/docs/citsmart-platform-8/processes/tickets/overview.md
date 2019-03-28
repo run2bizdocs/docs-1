@@ -111,7 +111,7 @@ Configuration
 
 - [Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
 
-- [Configure access permission of request/incident management](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/configure-access-permission-ticket.html)
+- [Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 Report
 ----------
