@@ -1,17 +1,46 @@
 title: Overview  
 
-Description: CITSmart is an intelligent corporate governance platform, created to facilitate the unification of information. It enables the management of Information of services and their processes in the organizational environment providing governance.CITSmart Platform is an intelligent concept of unity and practicality in corporate management. 
+# What's CITSmart?
 
-CITSmart Platform
-============
+CITSmart, developed by CITSmart Corporation®, is a **platform that conects
+people and digital resources to optimize work and increase business results.**
 
-CITSmart Platform is an intelligent corporate governance platform, created to
-facilitate the unification of information. It enables the management of
-Information of services and their processes in the organizational environment
-providing governance.
+Through the relationship portals we optimize the experience of customers and employees. 
+In addition, with the "Intelligent Digital Workflow" and agile management, using Kanbans, 
+we connect teams to a greater customer-centric collaboration,  generating progressive 
+and interactive improvement, simplicity in execution, practicality, alignment and agility.
 
-*CITSmart Platform is an intelligent concept of unity and practicality in corporate
-management.*
+What are the possibilities of use?
+----------------------------------
+
+There are cases of service management with automated processes in several areas, for example:
+
+*   Education
+*   Purchases
+*   Travel
+*   Human resources, for example, staff request, training and others
+*   Personal department, for example, request for benefits, vacation, payroll, clarifications and 
+    others
+*   Legal, for example, elaboration and analysis of contracts, support and others
+*   Field service, for example, exchange of equipment, execution of repairs and maintenance and others 
+*   Communication, Marketing and others.
+
+In addition to that, following the best practices of service management, based on the 
+ITIL best practices library, CITSmart natively has 13 automated processes:
+
+*   Portfolio Management
+*   Service Catalog
+*   Service Level Management
+*   Request Management
+*   Knowledge Management
+*   Incident Management
+*   Problem Management
+*   Asset and Configuration Management
+*   Change Management
+*   Deployment and Release Management
+*   Event Management
+*   Availability Management
+*   Continuity Management
 
 Aligned with the Business Service Management techniques by adopting the best
 practices ITIL (Information Technology Infrastructure Library), CITSmart is an
