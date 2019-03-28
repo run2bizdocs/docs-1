@@ -103,7 +103,7 @@ Configuração
 
 - [Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html)
  
-- [Configurar permissão de acesso do gerenciamento de requisições/incidentes](https://docs.citsmart.com/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/configure-access-permission-ticket.html)
+- [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/access-ticket-management.html)
 
 Relatório
 ----------
