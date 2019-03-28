@@ -69,9 +69,9 @@ Configuration
 Report
 ----------
 
-- [Generate report - configuration management](/en-us/citsmart-platform-8/processes/configuration/configuration/generate-report-configuration-management.html)
+- [Generate report - configuration management](/en-us/citsmart-platform-8/processes/configuration/use/generate-report-configuration-management.html)
 
-- [Generate reports through the charts and reports panel - configuration items](/en-us/citsmart-platform-8/processes/configuration/configuration/generate-reports-charts-panel-ic.html)
+- [Generate reports through the charts and reports panel - configuration items](/en-us/citsmart-platform-8/processes/configuration/use/generate-reports-charts-panel-ic.html)
 
 !!! tip "About"
 
