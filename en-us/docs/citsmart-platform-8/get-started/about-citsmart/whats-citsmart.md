@@ -4,7 +4,7 @@ Description: Introduction to the CITSmart product
 # Whats is CITSmart ?
 
 CITSmart, developed by CITSmart Corporation®, is a **platform that 
-connects people and digital resources to optimize work and amplify 
+connects people and digital resources to optimize work and increase 
 business results.**
 
 Through the relationship portals, we optimize the experience of customers 
