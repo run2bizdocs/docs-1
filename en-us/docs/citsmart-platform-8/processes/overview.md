@@ -15,7 +15,7 @@ What are the possibilities of use?
 
 There are cases of service management with automated processes in several areas, for example:
 
-*   Education
+*   Education 
 *   Purchases
 *   Travel
 *   Human resources, for example, staff request, training and others
