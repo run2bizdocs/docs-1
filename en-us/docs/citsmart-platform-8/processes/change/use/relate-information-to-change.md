@@ -32,6 +32,7 @@ Procedure
     necessary to click on it and complete the fields available.
 
     !!! Abstract "NOTE"
+        
         The type of impact and risk analysis (simplified or complete) is defined
         during the registration of the portfolio of change, which allows flexibility
         in the user's choice of analysis, which should describe their
@@ -47,7 +48,7 @@ Procedure
     and select the release you want. If you want to register a new release, click
     on "Register" and then complete the data;
     
-    !!!Abstract"ATTENTION"
+    !!!Abstract "ATTENTION"
     
         The "Description" field, when linking a release, is limited to 4000 (four thousand characters).
         
