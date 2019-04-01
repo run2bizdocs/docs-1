@@ -50,7 +50,7 @@ Relacionado
 
 [Configurar parametrização- ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/access-ticket-management.html)
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
