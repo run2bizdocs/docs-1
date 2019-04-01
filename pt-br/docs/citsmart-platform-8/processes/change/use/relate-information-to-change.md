@@ -49,6 +49,12 @@ Procedimento
     apertar sobre o campo de pesquisa e selecionar a liberação desejada. Se
     preferir cadastrar uma nova liberação, clicar no botão “Cadastrar” e
     preencher os dados;
+    
+    
+    !!!Abstract "ATENÇÃO"
+    
+        O campo "Descrição", ao vincular uma liberação, está limitado a 4000 (quatro mil caracteres).
+       
 
 9.  Para vincular **Problemas**, clicar na área de mesmo nome e em seguida
     apertar sobre o campo de pesquisa e selecionar o problema desejado. Se
