@@ -46,6 +46,11 @@ Procedure
 8.  To link a **Release**, click on the area of same name and then on the search field
     and select the release you want. If you want to register a new release, click
     on "Register" and then complete the data;
+    
+    !!!Abstract"ATTENTION"
+    
+        The "Description" field, when linking a release, is limited to 4000 (four thousand characters).
+        
 
 9.  To link **Problems**, click on the area of same name and then on the search field
     and select the problem you want. If you want to create a new problem to be related,
