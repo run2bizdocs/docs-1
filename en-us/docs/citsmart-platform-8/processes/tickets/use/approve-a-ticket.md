@@ -7,7 +7,7 @@ reject this request using the feature for this purpose. In this
 sense, the ticket workflow should contain an user task (Identification 
 tab \> Button "Is it an approval task? = YES"), which is linked to the activity.  
 
-!!! Abstract "NOTE"
+!!! Abstract "ATTENTION"
     
     For A simplified approval of the ticket, it's necessary 
     that the flow of the service request has a task of type 
