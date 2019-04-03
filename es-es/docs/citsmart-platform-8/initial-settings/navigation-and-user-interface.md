@@ -55,23 +55,25 @@ características que el CITSmart ofrece.
 
 -   1: barra de búsqueda de funciones, accesible a través del menú;
 
--   2: posee todos los 13 procesos certificados de la Plataforma CITSmart;
+-   2: acceso a las configuraciones relativas al mantenimiento de flujos;
 
--   3: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los procesos;
+-   3: posee todos los 13 procesos certificados de la Plataforma CITSmart;
 
--   4: presenta catastros básicos para iniciar el CITSmart, como usuarios, localidad, además de poder registrar y editar menús dentro       del sistema;
+-   4: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los procesos;
 
--   5: tiene datos para administrar el Centro de Experiencia, que es un portal personalizable para el usuario;
+-   5: presenta catastros básicos para iniciar el CITSmart, como usuarios, localidad, además de poder registrar y editar menús dentro       del sistema;
 
--   6: ofrece diversos tipos de informes que el sistema puede generar con datos de las principales funcionalidades, haciendo la             información posible de ser mejor analizadas, además de permitir la creación de informes personalizados;
+-   6: tiene datos para administrar el Centro de Experiencia, que es un portal personalizable para el usuario;
 
--   7: configuración de acceso y permisos en el sistema;
+-   7: ofrece diversos tipos de informes que el sistema puede generar con datos de las principales funcionalidades, haciendo la             información posible de ser mejor analizadas, además de permitir la creación de informes personalizados;
 
--   8: configuración de los parámetros de las aplicaciones y del sistema;
+-   8: configuración de acceso y permisos en el sistema;
 
--   9: acceso al CITSmart Neuro (engine de aplicaciones);
+-   9: configuración de los parámetros de las aplicaciones y del sistema;
 
--   10: funcionalidad para administrar la Plataforma CITSmart.
+-   10:funcionalidad para administrar la Plataforma CITSmart;
+
+-   11: acceso al CITSmart Neuro (engine de aplicaciones).
 
 ### Panel de Usuário (Smart Decision)
 
