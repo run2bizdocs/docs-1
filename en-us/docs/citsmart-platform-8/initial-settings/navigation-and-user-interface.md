@@ -58,28 +58,30 @@ CITSmart offers.
 
 -   1: search bar of the functionality, accessible via menu;
 
--   2: it has all 13 Certified Processes of the CITSmart Platform;
+-   2: access to settings for maintaining flows;
 
--   3: the integrated management has functionalities that help in the management
+-   3: it has all 13 Certified Processes of the CITSmart Platform;
+
+-   4: the integrated management has functionalities that help in the management
     of the processes;
 
--   4: it presents basic registers to start CITSmart, such as users, location, besides 
+-   5: it presents basic registers to start CITSmart, such as users, location, besides 
     being able to register and edit menus within the system;
 
--   5: it has data to manage the Experience Center, which is portal customizable 
+-   6: it has data to manage the Experience Center, which is portal customizable 
     for the user;
 
--   6: provides several types of reports that the system can generate with the
+-   7: provides several types of reports that the system can generate with the
     data of the main functionalities, therefore, making possible the information
     to be better analyzed, besides allowing the creation of customized reports;
 
--   7: configuration of access and permission in the system;
+-   8: configuration of access and permission in the system;
 
--   8: configuration of the application and system parameters;
+-   9: configuration of the application and system parameters;
 
--   9: access to CITSmart Neuro (engine of applications);
+-   10: functionalities to manage the CISTmart Platform.;
 
--   10: functionalities to manage the CISTmart Platform.
+-   11: access to CITSmart Neuro (engine of applications).
 
 ### User Panel (Smart Decision)
 
