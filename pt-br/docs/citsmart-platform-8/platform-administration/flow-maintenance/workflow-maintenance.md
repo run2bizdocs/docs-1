@@ -10,7 +10,7 @@ atingir esses objetivos através de um fluxograma.
 Procedimento
 ------------
 
-1.  Acessar o menu principal Sistema \> Manutenção de fluxo;
+1.  Acessar o menu principal Workflow \> Desenho de fluxo;
 
 2.  É apresentada a tela inicial da funcionalidade. A seguintes atividades estão
     disponibilizadas aqui:
