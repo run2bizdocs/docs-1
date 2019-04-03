@@ -7,7 +7,7 @@ Description: Es posible crear flujos de trabajo que mejor se adecuan a la realid
 Procedimiento
 ------------
 
-1.  Acceder al menú principal Sistema \> Mantenimiento de Flujos;
+1.  Acceder al menú principal Workflow \> Diseño de Flujo;
 
 2.  Hacer clic en "Nuevo";
 
