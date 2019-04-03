@@ -77,7 +77,7 @@ Menus
 
 Internally, the menus have been reorganized and now they're arranged on the left side, with the possibility of consultation and concealment, improving the workspace in the platform.
 
-![CITSmart Options Menu](images/citsmart-options-menu.png)
+![CITSmart Options Menu](images/citsmart-options-menu-en.png)
 
 Smart Decisions
 ---------------
@@ -96,7 +96,7 @@ Quick Access
 
 It's available new icons and quick access area to the processes and portals in the upper area of the platform, in order to make it easier and more practical to access the CITSmart functionalities. 
 
-![Quick Access](images/quick-access.png)
+![Quick Access](images/quick-access-en.png)
 
 Ticket Management
 -----------------
