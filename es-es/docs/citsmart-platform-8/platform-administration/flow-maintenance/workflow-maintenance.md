@@ -10,8 +10,7 @@ alcanzar esos objetivos, a través de un diagrama de flujo.
 Procedimiento
 -------------
 
-1.  Acceda a la funcionalidad por el menú principal Sistema \> Mantenimiento de
-    Flujos;
+1.  Acceda a la funcionalidad por el menú principal Workflow \> Diseño de Flujo;
 
 2.  Aparecerá la pantalla de inicio de la funcionalidad. Las siguientes actividades están disponibles aquí:
     
