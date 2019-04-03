@@ -12,8 +12,7 @@ expressions.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu System \> Expressions
-    Creator;
+1.  Access the functionality through the main menu Workflow \> Expressions;
 
 2.  To import expressions from other system, click on "Import";
 
