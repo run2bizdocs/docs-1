@@ -7,7 +7,7 @@ Description: É possível criar fluxos de trabalho que melhor se adequam a reali
 Procedimento
 ------------
 
-1.  Acessar o menu principal Sistema \> Manutenção de fluxo;
+1.  Acessar o menu principal Workflow \> Desenho de fluxo;
 
 2.  Clicar no botão “Novo’;
 
