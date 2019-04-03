@@ -65,29 +65,31 @@ funcionalidades que o CITSmart disponibiliza.
 
 -   1: barra de pesquisa de funcionalidades, acessível via menu;
 
--   2: possui todos os 13 processos certificados da Plataforma CITSmart;
+-   2: acesso às configurações referentes à manutenção de fluxos;
 
--   3: a gestão integrada dispõe de funcionalidades que auxiliam na gestão dos
+-   3: possui todos os 13 processos certificados da Plataforma CITSmart;
+
+-   4: a gestão integrada dispõe de funcionalidades que auxiliam na gestão dos
     processos;
 
--   4: apresenta cadastros básicos para se iniciar o CITSmart, como usuários,
+-   5: apresenta cadastros básicos para se iniciar o CITSmart, como usuários,
     localidade além de poder cadastrar e editar menus dentro do sistema;
 
--   5: possui dados para administrar o Centro de Experiência, que é um portal
+-   6: possui dados para administrar o Centro de Experiência, que é um portal
     personalizável para o usuário;
 
--   6: disponibiliza diversos tipos de relatórios que o sistema pode gerar com
+-   7: disponibiliza diversos tipos de relatórios que o sistema pode gerar com
     dados das principais funcionalidades, tornando assim, as informações
     possíveis de serem melhor analisadas, além de permitir a criação de
     relatórios personalizados;
 
--   7: configuração de acesso e permissões no sistema;
+-   8: configuração de acesso e permissões no sistema;
 
--   8: configuração dos parâmetros de aplicativos e do sistema;
+-   9: configuração dos parâmetros de aplicativos e do sistema;
 
--   9: acesso ao CITSmart Neuro (engine de aplicativos);
+-   10: funcionalidades para administrar a Plataforma CITSmart;
 
--   10: funcionalidades para administrar a Plataforma CITSmart.
+-   11: acesso ao CITSmart Neuro (engine de aplicativos).
 
 ### Painel do Usuário (Smart Decision)
 
