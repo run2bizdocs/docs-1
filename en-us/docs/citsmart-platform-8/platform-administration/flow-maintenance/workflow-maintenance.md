@@ -9,7 +9,7 @@ the steps that need to be taken to achieve those goals through a flowchart.
 Procedure
 -------------
 
-1.  Access the main menu System \> Flow maintenance;
+1.  Access the main menu Workflow \> Flow Design;
 
 2.  It's presented the homescreen of the functionality. The following activities are
     available here.
