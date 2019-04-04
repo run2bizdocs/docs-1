@@ -1,13 +1,13 @@
-Description: Release Notes CITSmart Versão 8.0.0.2 de 20/03/2019
+Description: Release Notes de CITSmart Versión 8.0.0.2 de 20/03/2019
 
-# Versão 8.0.0.2
+# Versión 8.0.0.2
 _20/03/2019_
 
 
-##Problemas Resolvidos
+##Problemas Resueltos
 
-| Problema | Descrição                                                                                                                                                                                                                                                                 |
+| Problema | Descripción                                                                                                                                                                                                                                                                 |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2309     | Falha intermitente e de maior incidência em ambientes clusterizado no método que retorna o timezone para gravar registro de data e hora. A versão 8.0.0.2 fornece solução definitiva para o erro ocasionado nas classes que utilizam timezone para gravação de registros. |
-| 2124     | Falha de validação incorreta ao acessar uma base de conhecimento externa. A versão 8.0.0.2 fornece solução definitiva para a mensagem de expiração de sessão mostrada indevidamente quando o usuário tentava acessar uma base de conhecimento externa.                    |
-| 2400     | Falha no componente de pesquisa avançada que não retornava palavras com “ç” e “ã”. A versão 8.0.0.2 fornece solução definitiva para a pesquisa avançada com palavras acentuadas.                                                                                          |
+| 2309     | Falla intermitente y de mayor incidencia en entornos agrupados en el método que devuelve el timezone para registrar fecha y hora. La versión 8.0.0.2 proporciona una solución definitiva para el error ocasionado en las clases que utilizan timezone para la grabación de registros. |
+| 2124     | Error de validación incorrecta al acceder a una base de conocimiento externa. La versión 8.0.0.2 proporciona una solución definitiva para el mensaje de caducidad de sesión mostrado indebidamente cuando el usuario intentaba acceder a una base de conocimiento externa.                    |
+| 2400     | Error en el componente de búsqueda avanzada que no devuelve palabras con "ç" y "ã". La versión 8.0.0.2 proporciona una solución definitiva para la búsqueda avanzada con palabras acentuadas.                                                                                          |
