@@ -1,14 +1,14 @@
-Description: Release Notes CITSmart Versão 8.0.0.3 de 04/04/2019
+Description: Release Notes of CITSmart Version 8.0.0.3 from 04/04/2019
 
-# Versão 8.0.0.3
+# Version 8.0.0.3
 _04/04/2019_
 
 
-##Problemas Resolvidos
+## Problems Fixed
 
-| Problema | Descrição                                                                                                                                                                                                          |
+| Problem | Description                                                                                                                                                                                                          |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2573     | Erro conhecido na versão 8.0.0.0 ao responder a pesquisa de satisfação pelo Widget do Centro de Experiência. A versão 8.0.0.3 fornece uma solução definitiva para o erro ao gravar uma pesquisa de satisfação.     |
-| 2122     | Falha no webservice de criação de solicitação de serviço. A versão 8.0.0.3 fornece solução definitiva para a falha apresentada ao tentar cadastrar uma solicitação de serviço via webservice.                      |
-| 2917     | Falha ao realizar upload de anexos pela funcionalidade de solicitação de serviço. A versão 8.0.0.3 fornece solução para realizar upload dos anexos pela funcionalidade de solicitação de serviço.                  |
-| 2777     | Falha intermitente no método que retorna o timezone para gravar registro de data e hora. No componente Neuro. A versão 8.0.0.3 fornece solução definitiva no componente Neuro para gravar registro de data e hora. |
+| 2573     | Known error in version 8.0.0.0 when answering to a satisfaction survey by Experience Center Widget. Version 8.0.0.3 provides a definitive solution to the error while registring a satisfaction survey.     |
+| 2122     | Webservice failed to create service request. Version 8.0.0.3 provides definitive solution to the failure presented when attempting to register a service request via webservice.                      |
+| 2917     | Failed to upload attachments by the service request functionality. Version 8.0.0.3 provides a solution for uploading attachments through the service request functionality.                  |
+| 2777     | Intermittent failure in the method that returns timezone to register the date and hour. In the Neuro component. Version 8.0.0.3 provides definitive solution in the Neuro component to register date and time. |
