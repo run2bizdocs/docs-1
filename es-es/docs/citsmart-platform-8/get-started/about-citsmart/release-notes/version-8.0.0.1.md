@@ -1,11 +1,11 @@
-Description: Release Notes CITSmart Versão 8.0.0.1 de 08/03/2019
+Description: Release Notes de CITSmart Versión 8.0.0.1 de 08/03/2019
 
-# Versão 8.0.0.1
+# Versión 8.0.0.1
 _08/03/2019_
 
 
-##Problemas Resolvidos
+## Problemas Resueltos
 
-| Problema | Descrição                                                                                                                                                                                      |
+| Problema | Descripción                                                                                                                                                                                      |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2576     | Erro conhecido em portfólio que não é exibido quando existe uma data final no serviço contrato. A versão 8.0.0.1 fornece solução definitiva para o erro ocasionado pelo portfólio de serviços. |
+| 2576     | Error conocido en el portafolio que no se muestra cuando hay una fecha final en el servicio del contrato. La versión 8.0.0.1 proporciona una solución definitiva para el error ocasionado por el portafolio de servicios. |
