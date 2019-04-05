@@ -1,7 +1,8 @@
 title:  Configure service attributes
- 
 Description: Configure the attributes of both Business/IT Service and Support/Technical Service
-#Configure service attributes
+
+# Configure service attributes
+
 The service attributes are service configuration features within the portfolio.
 The guidance described in this knowledge can be followed to configure the attributes of both Business/IT Service and Support/Technical Service, portfolio types within Portfolio and Catalog Management.
 
@@ -49,6 +50,16 @@ Procedure
 |     Attribute of Demand    | Attribute |                                                                         It allows to link demand attributes to the service                                                                        |
 |     Service Evaluations    | Attribute |                                                         It allows to manage the service evaluations that were registered via Smart Portal                                                         |
 |        Service Audit       | Attribute |                                                                       It allows to verify the history of service to audit it                                                                      |
+
+
+!!! info "SERVICE LEVEL REQUIREMENT"
+
+    Information available to maintain Service Level Requirements: Creation date, Service start date,
+    Service owner, Service utility, (Specification, Context, Essential Functionalities), Service
+    guarantee (Security, Availability, Capacity, Business Continuity, Performance, Planned Interruptions),
+    Service Support (Incident Management, Problem Management, Change Management), Conformity (Internal,
+    External) and Attached documents.
+
 
 Related
 -----------
