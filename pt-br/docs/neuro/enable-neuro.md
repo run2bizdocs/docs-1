@@ -5,8 +5,8 @@ Title: Ativar o Neuro
 Para a integração CITSmart/Neuro funcionar, você deve:
 
 - Ter a versão 8.0.0.0 ou superior da CITSmart Platform
-- Ter o SM configurado para acesso HTTPS: //
-- Ter os parâmetros de integração configurados no SM 
+- Ter o CITSmart configurado para acesso HTTPS: //
+- Ter os parâmetros de integração configurados no CITSmart
 
 
 ![Neuro Conection][1]
