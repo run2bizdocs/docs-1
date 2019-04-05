@@ -2,11 +2,11 @@ Title: Enable Neuro
 
 # Enable Neuro
 
-For SM / Neuro integration to work:
+For CITSmart/Neuro integration to work:
 
 - The CITSmart Platform version is 8.0.0.0 or higher
-- SM configured for HTTPS access: //
-- The integration parameters are configured in the SM 
+- CITSmart configured for HTTPS access: //
+- The integration parameters are configured in the CITSmart
 
 ![Neuro Conection][1]
 
