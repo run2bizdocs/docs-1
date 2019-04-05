@@ -1,6 +1,8 @@
 title:  Configurar atributos del servicio 
 Description: Los atributos de servicio son características de configuración del servicio dentro del portafolio.
-#Configurar atributos del servicio
+
+# Configurar atributos de servicio
+
 Los atributos de servicio son características de configuración del servicio dentro del portafolio.
 Las orientaciones descritas en este conocimiento pueden ser seguidas para configurar los atributos tanto del Servicio de Negocio/TI como del Servicio de Apoyo/Técnico, tipos de portafolio dentro de la Gestión de Portafolio y Catálogo.
 
@@ -48,6 +50,15 @@ Procedimiento
 |     Atributo de la Demanda     | Atributo |                                                                                     Permite vincular atributos de la demanda al servicio                                                                                    |
 |    Descripciones de Servicio   | Atributo |                                                                Permite administrar las evaluaciones del servicio que se registraron a través de Smart Portal                                                                |
 |      Servicio de Auditoría     | Atributo |                                                                                Permite comprobar el historial del servicio para su auditoría                                                                                |
+
+
+!!! info "Requerimiento de Nivel de Servicio"
+
+    Informaciones disponibles para mantener Requerimientos de Nivel de Servicio: Fecha de creación, Fecha de inicio
+    del servicio, Dueño del servicio, Utilidad del servicio (Especificación, Contexto, Funciones Esenciales),
+    Garantía de Servicio (Seguridad, Disponibilidad, Capacidad, Continuidad del Negocio, Desempeño, Interrupciones 
+    Planificadas), Soporte de Servicio (Gestión de Incidente, Gestión de Problema, Gestión de Cambio), Conformidad
+    (Interna, Externa) y Documentos adjuntos.
 
 
 Relacionado
