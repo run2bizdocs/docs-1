@@ -52,7 +52,7 @@ Procedimiento
 |      Servicio de Auditoría     | Atributo |                                                                                Permite comprobar el historial del servicio para su auditoría                                                                                |
 
 
-!!! info "Requerimiento de Nivel de Servicio"
+!!! info "REQUERIMIENTO DE NIVEL DE SERVICIO"
 
     Informaciones disponibles para mantener Requerimientos de Nivel de Servicio: Fecha de creación, Fecha de inicio
     del servicio, Dueño del servicio, Utilidad del servicio (Especificación, Contexto, Funciones Esenciales),
