@@ -55,7 +55,11 @@ Procedimento
 
 !!! info "REQUISITO DE NÍVEL DE SERVIÇO"
 
-    Informações disponíveis para manter Requisitos de Nível de Serviço: Data de criação, Data de início do serviço, Dono do Serviço, Utilidade do Serviço (Especificação, Contexto, Funcionalidades Essenciais), Garantia do Serviço (Segurança, Disponibilidade, Capacidade, Continuidade do Negócio, Performance/Desempenho, Interrupções Planejadas), Suporte de Serviço (Gestão de Incidentes, Gestão de Problemas, Gestão de Mudanças), Conformidade (Interna, Externa) e Documentos anexos;
+    Informações disponíveis para manter Requisitos de Nível de Serviço: Data de criação, Data de início do 
+    serviço, Dono do Serviço, Utilidade do Serviço (Especificação, Contexto, Funcionalidades Essenciais), 
+    Garantia do Serviço (Segurança, Disponibilidade, Capacidade, Continuidade do Negócio, Performance/Desempenho, 
+    Interrupções Planejadas), Suporte de Serviço (Gestão de Incidentes, Gestão de Problemas, Gestão de 
+    Mudanças), Conformidade (Interna, Externa) e Documentos anexos.
 
 
 Relacionado
