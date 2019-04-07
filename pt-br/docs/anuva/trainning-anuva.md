@@ -20,11 +20,11 @@ Procedimento
 
 !!!Abstract"NOTA"
 
-   O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
-   assim que o treinamento for concluído a assistente será atualizada automaticamente.
-   A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
-   eficácia das suas interações, clicando no ícone flutuante localizado no canto inferior direito.
-   Ela refletirá os conhecimentos adicionados até a realização do último treinamento.
+    O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
+    assim que o treinamento for concluído a assistente será atualizada automaticamente.
+    A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
+    eficácia das suas interações, clicando no ícone flutuante localizado no canto inferior direito.
+    Ela refletirá os conhecimentos adicionados até a realização do último treinamento.
    
 Relacionado
 -----------
