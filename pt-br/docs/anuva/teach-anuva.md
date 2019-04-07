@@ -26,25 +26,22 @@ Procedimento
     - Padrão: será utilizada para representar habilidades que são respondidas através de uma resposta de texto pré-definida. Podem ser 
      atribuídas várias frases pré-definidas de respostas sempre visando responder a mesma pergunta;
 
-    - Personalizada: será utilizada quando, para responder a um interesse do usuário, ANUVA precisar buscar informações em um outro sistema.
+    - Personalizada: será utilizada quando, para responder a um interesse do usuário, ANUVA precisar buscar informações em um outro         sistema.
 
-    - Botão: será utilizada sempre que for necessário limitar as respostas do usuário a uma determinada interação da ANUVA. Ao utilizar essa 
-     opção, ANUVA responderá a interação do usuário exibindo botões. Um botão é definido por seu Nome e Valor. No campo Nome, é definido o botão
-     que aparecerá para o usuário. No campo Valor, é definido para a ANUVA como ela deve interpretar o interesse do usuário ao clicar no botão;
+    - Botão: será utilizada sempre que for necessário limitar as respostas do usuário a uma determinada interação da ANUVA. Ao utilizar     essa opção, ANUVA responderá a interação do usuário exibindo botões. Um botão é definido por seu Nome e Valor. No campo Nome, é         definido o botão que aparecerá para o usuário. No campo Valor, é definido para a ANUVA como ela deve interpretar o interesse do         usuário ao clicar no botão;
  
-    - Imagem: pode ser utilizada quando desejar responder o usuário utilizando texto e imagem. A imagem associada a resposta será exibida 
-    na janela de chat.
+    - Imagem: pode ser utilizada quando desejar responder o usuário utilizando texto e imagem. A imagem associada a resposta será           exibida na janela de chat.
 
 6. Clicar em “Salvar”.
 
 !!!Abstract"NOTA"
 
-   - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
+    - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
     a como responder nessas situações;
-   - A compreensão da Anuva é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
+    - A compreensão da Anuva é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
     mais precisa ela será no entendimento da interação do usuário. Lembrando que o usuário não precisa digitar 
     a frase exata que foi adicionada ao interesse, pois ANUVA trabalha com Inteligência Artificial;
-   - adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a ANUVA não 
+    - adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a ANUVA não 
     conseguir entender o interesse do usuário ou entender com uma acurácia inferior a 20%. É possível visualizar 
     a acurácia de cada interação no menu Analytics > Listar conversas.
    
