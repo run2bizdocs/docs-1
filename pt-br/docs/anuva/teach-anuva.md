@@ -50,7 +50,7 @@ Procedimento
    
  Relacionado
  ----------
- [Como treinar ANUVA Assitant](    )
+ [Como treinar ANUVA Assistant](    )
  
  
   !!! tip "About"
