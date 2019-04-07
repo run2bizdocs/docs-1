@@ -38,9 +38,11 @@ Procedimento
 
     - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
     a como responder nessas situações;
+    
     - A compreensão da Anuva é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
     mais precisa ela será no entendimento da interação do usuário. Lembrando que o usuário não precisa digitar 
     a frase exata que foi adicionada ao interesse, pois ANUVA trabalha com Inteligência Artificial;
+                
     - adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a ANUVA não 
     conseguir entender o interesse do usuário ou entender com uma acurácia inferior a 20%. É possível visualizar 
     a acurácia de cada interação no menu Analytics > Listar conversas.
