@@ -54,7 +54,7 @@ Procedure
 Related
 --------
  
-[How to train Anuva](/en-us/anuva/trainning-anuva.html)
+[How to train Anuva](/en-us/anuva/use/trainning-anuva.html)
  
  
 
