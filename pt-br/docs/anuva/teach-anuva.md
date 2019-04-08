@@ -52,7 +52,8 @@ Procedimento
  [Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
  
  
-  !!! tip "About"
+
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
