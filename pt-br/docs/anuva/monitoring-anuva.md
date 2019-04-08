@@ -1,4 +1,5 @@
 Title: Monitorar interações da ANUVA
+#Monitorar interações da ANUVA
 
 Uma vez treinada, é preciso monitorar as interações da ANUVA com os usuários para garantir que ela está sendo efetiva no atendimento 
 às solicitações.
@@ -17,12 +18,11 @@ Procedimento
 2. Acessar uma das opções disponibilizadas.
 
 !!!Abstract"NOTA"
-
    Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que a ANUVA
    entendeu o interesse do usuário. Acurácias inferiores a 20% fazem com que ANUVA utilize a habilidade de fallback.
     
     
- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
