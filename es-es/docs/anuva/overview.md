@@ -35,13 +35,11 @@ En este ambiente, usted podrá agregar y revisar conocimientos para Anuva, podr�
 
 ## Uso
 
-[Cómo enseñar Anuva](/pt-br/anuva/use/teach-anuva.html)
+[Cómo enseñar Anuva](/es-es/anuva/use/teach-anuva.html)
 
-[Cómo entrenar Anuva](/pt-br/anuva/use/trainning-anuva.html)
+[Cómo entrenar Anuva](/es-es/anuva/use/trainning-anuva.html)
 
-[Monitorear interacciones de la Anuva](/pt-br/anuva/use/monitoring-anuva.html)
-
-[Cómo relacionar la Anuva](/pt-br/anuva/interact-anuva.html)
+[Monitorear interacciones de la Anuva](/es-es/anuva/use/monitoring-anuva.html)
 
 
 !!! tip "About"
