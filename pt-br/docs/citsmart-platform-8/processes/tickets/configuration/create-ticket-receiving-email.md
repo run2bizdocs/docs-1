@@ -51,7 +51,9 @@ Procedimento
     Para estas informações serem visualizadas via script Rhino,
     segue exemplo em anexo.
 
+!!! Abstract "NOTA"
 
+    É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest .
 
 Relacionado
 -------
