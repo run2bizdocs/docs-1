@@ -1,4 +1,5 @@
 Title: Disponibilizar ANUVA Assistant na interface CITSmart
+#Disponibilizar ANUVA Assistant na interface CITSmart
 
 A ANUVA já se integra nativamente ao CITSmart, tornando o processo mais fácil.
 
@@ -17,15 +18,13 @@ e clicar em “Salvar;
 para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/conversations/ ;
 
 !!!Abstract"NOTA"
-
    Para os idiomas: inglês (usar EN) e espanhol (usar ES).
    
 !!!Abstract"NOTA"
-
    Se estes parâmetros não estiverem disponíveis, atualizar a versão do CITSmart.
    
  
- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
