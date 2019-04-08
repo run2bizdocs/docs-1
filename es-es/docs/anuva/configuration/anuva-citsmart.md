@@ -1,29 +1,29 @@
-Title: Disponibilizar ANUVA Assistant na interface CITSmart
-#Disponibilizar ANUVA Assistant na interface CITSmart
+Title: Disponer Anuva en la interfaz CITSmart
+# Disponer Anuva en la interfaz CITSmart
 
-A ANUVA já se integra nativamente ao CITSmart, tornando o processo mais fácil.
+Anuva ya se integra nativamente al CITSmart, entonces es muy fácil añadirla a su entorno.
 
-Procedimento
+Procedimiento
 -----------
-1. Com acesso de Administrador, acessar a tela de parâmetros do CITSmart;
+1. Con acceso de administrador, acceda a la pantalla de parámetros del CITSmart;
 
-2. Alterar o valor do parâmetro “402 Anuva Assistant - External URL” 
-para http://<nome-do-seu-workspace>.anuvaassistant.com ;
+2. Cambiar el valor del parámetro “402 Anuva Assistant - External URL” 
+para http://<Su-Instancia>.anuvaassistant.com
 
-3. Alterar o valor do parâmetro “441 Anuva Assistant - Conversation API” 
-para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/webhooks/rest/webhook 
-e clicar em “Salvar;
+3. Cambiar el valor del parámetro “441 Anuva Assistant - Conversation API” 
+para http://< Su-Instancia ><sigla-idioma>.anuvaassistant.com/webhooks/rest/webhook 
+y hacer clic en "Guardar"
 
-4. Altere o valor do parâmetro “442 Anuva Assistant - Parameters API” 
-para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/conversations/ ;
+4. Cambiar el valor del parámetro “442 Anuva Assistant - Parameters API” 
+para http://< Su-Instancia ><sigla-idioma>.anuvaassistant.com/conversations/
 
 !!! Abstract "NOTA"
     
-    Para os idiomas: inglês (usar EN) e espanhol (usar ES).
+    Para la abreviatura de los idiomas, utilice EN (Inglés) ES (Español) y PT (Portugués-Brasil).
    
 !!! Abstract "NOTA"
 
-    Se estes parâmetros não estiverem disponíveis, atualizar a versão do CITSmart.
+    Si estos parámetros no están disponibles, actualice su versión de CITSmart.
    
  
 !!! tip "About"
