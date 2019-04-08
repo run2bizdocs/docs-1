@@ -1,5 +1,5 @@
-Title: Cómo interactuar ANUVA con otras interfaces
-# Cómo interactuar ANUVA con otras interfaces
+Title: Cómo interactuar Anuva con otras interfaces
+# Cómo interactuar Anuva con otras interfaces
 
 Para que Anuva interactúe con otros sistemas, es necesario agregar en el diálogo una habilidad personalizada.
 
