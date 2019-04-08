@@ -1,4 +1,4 @@
-Title:Como interagir ANUVA com outras interfaces
+#Title:Como interagir ANUVA com outras interfaces
 
 Para que a Anuva Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
 
@@ -31,7 +31,7 @@ Procedimento
     esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
     
     
- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
