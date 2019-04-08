@@ -1,29 +1,29 @@
-Title: Como interagir ANUVA com outras interfaces
-#Como interagir ANUVA com outras interfaces
+Title: How to interact with other systems
+# How to interact with other systems
 
-Para que a ANUVA Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
+In order for Anuva to interact with other systems, it is necessary to add a custom ability in the dialog. 
 
-A consulta é feita através de uma API Rest, a qual precisa ser disponibilizada pelo sistema detentor das informações 
-de interesse do usuário. Ex: buscar informações sobre o status de um ticket, criação de tickets, geração de boletos no sistema.
+The query is made through a Rest API, which must be made available by the system that holds information of interest to the user. Eg.: search for information on the status of a ticket, creation of tickets, generation of bills in the system.
 
-Procedimento
+Procedure
 -----------
 
-1. Acessar o menu principal “Diálogos” e clicar em “Novo”;
+1. Access the menu “Dialogs” and click on “New”;
 
-2. Preencher as informações da seção **Interesse**;
+2. Complete the information of the **Interest** section;
 
-3. Na seção **Habilidade**, selecionar o tipo *Personalizado*;
+3. In the **Ability** section, select the type Customized;
 
-4. Preencher as informações da Seção API, incluindo o exemplo do corpo e da resposta;
+4. Complete API Section information, including body example and response;
 
-5. Caso seja necessário, informe o cabeçalho;
+5. If necessary, enter the heading;
 
-6. Na seção Respostas, são duas opções de ação da assistente:
+6. In the Answers section, we have two action options:
 
-    a) Respostas em memória: o valor retornado pela API é associado ao atributo selecionado;
+
+    a) Answers in memory: In this case, the value returned by the API is associated with the selected attribute;
  
-    b) Respostas em texto: retorna uma mensagem em texto para o usuário.
+    b) Answers in text: Returns a text message to the user.
   
   
 !!! Abstract "NOTA"
