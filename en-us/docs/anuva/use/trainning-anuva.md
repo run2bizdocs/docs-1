@@ -33,9 +33,9 @@ Procedure
 Related
 -----------
 
-[How to teach Anuva](/en-us/anuva/teach-anuva.html)
+[How to teach Anuva](/en-us/anuva/use/teach-anuva.html)
 
-[Monitor Anuva interactions](/en-us/anuva/monitoring-anuva.html)
+[Monitor Anuva interactions](/en-us/anuva/use/monitoring-anuva.html)
 
 !!! tip "About"
 
