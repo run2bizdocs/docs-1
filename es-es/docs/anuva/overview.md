@@ -1,35 +1,48 @@
-Title: Visão Geral
-#Visão Geral
+Title: Visión General
+# Visión General
 
-## O que é Anuva
+## ¿Qué es Anuva?
 
-Anuva é a plataforma de Inteligência Artificial da CITSmart. O primeiro recurso disponibilizado foi uma assistente virtual, a Anuva Assistant,um chatbot que se comunica e interage com pessoas através de mensagens de texto automatizadas. 
+Anuva es la plataforma de Inteligencia Artificial de CITSmart. El primer recurso disponible fue un asistente virtual, Anuva Assistant, un chatbot que se comunica e interactúa con personas a través de mensajes de texto automatizados. 
 
-Anuva usa inteligência artificial para realizar diálogos com usuários de forma cada vez mais aperfeiçoadas em diferentes plataformas e, além de interagir com usuários, é capaz de integrar-se com outros sistemas para obter respostas a questionamentos, recuperando dados através de APIs.
+Anuva utiliza inteligencia artificial para realizar diálogos con usuarios de forma cada vez más perfeccionados en diferentes plataformas y, además de interactuar con los usuarios, es capaz de integrarse con otros sistemas para obtener respuestas a cuestionamientos, recuperando datos a través de APIs.
 
-## Funcionamento da Anuva
+## Funcionamiento de la Anuva
 
-Anuva utiliza 5 conceitos principais em seu funcionamento:
-Build: através da sua interface, é possível criar exemplos de fluxo de conversação (diálogos) para que ela possa aprender como reagir às interações do usuários;
-Train: após criar os exemplos de diálogo, é possível treinar a Anuva, para que ela passe a considerar os exemplos dados nas suas interações. Diferente da maioria das soluções, Anuva utiliza inteligência artificial para entender o que o usuário quis dizer, logo não é necessário que o usuário digite exatamente a mesma frase que foi passada como exemplo.
-Code: É possível conectar Anuva com APIs externas, permitindo acessar dados necessário para entregar valor ao usuário;
-Connect: É possível integrar Anuva a diferentes plataformas de mensagens, de forma nativa, ela já pode ser integrada ao Facebook e ao CITSmart.
-Monitor: Uma vez disponibilizada para o usuário, é possível acompanhar as conversas realizadas pela Anuva, de forma a aprimorar as informações de treinamento e obter insights sobre novos diálogos a serem ensinados à Anuva. 
+Anuva utiliza 5 conceptos principales en su funcionamiento:
+Build: a través de su interfaz, es posible crear ejemplos de flujo de conversación (diálogos) para que pueda aprender cómo reaccionar a las interacciones de los usuarios;
+Train: después de crear los ejemplos de diálogo, es posible entrenar a Anuva, para que ella pase a considerar los ejemplos dados en sus interacciones. La diferencia de la mayoría de las soluciones, Anuva utiliza inteligencia artificial para entender lo que el usuario quiso decir, luego no es necesario que el usuario escriba exactamente la misma frase que fue pasada como ejemplo.
+Code: Es posible conectar Anuva con API externas, permitiendo acceder a datos necesarios para entregar valor al usuario;
+Connect: Es posible integrar Anuva a diferentes plataformas de mensajes, de forma nativa, ya puede ser integrada a Facebook y al CITSmart.
+Monitor: Una vez disponible para el usuario, es posible acompañar las conversaciones realizadas por Anuva, para mejorar la información de entrenamiento y obtener información sobre nuevos diálogos a ser enseñados a Anuva. 
 
-## Acessando a Anuva
+## Accedendo a Anuva
 
-Após a liberação do seu ambiente Anuva, acesse o ambiente de configuração da Anuva através do link disponibilizado pela CITSmart. (http://<Sua-Instância>.anuvaassistant.com).
+Después de la liberación de su entorno Anuva, acceda al ambiente de configuración de Anuva a través del enlace disponibilizado por CITSmart. (http://<Su-Instancia>.anuvaassistant.com).
 
-Neste ambiente, você conseguirá adicionar e revisar conhecimentos para Anuva, poderá agendar treinamentos, acompanhar as interações realizadas pela Anuva e realizar testes de interação para validar se interações estão sendo efetivas.
+En este ambiente, usted podrá agregar y revisar conocimientos para Anuva, podrá programar entrenamientos, acompañar las interacciones realizadas por Anuva y realizar pruebas de interacción para validar si las interacciones están siendo efectivas.
 
 
-## Configuração
+## Configuración
+
+[Disponer Anuva en la interfaz CITSmart](/es-es/anuva/configuration/anuva-citsmart.html)
+
+[Crear contextos para Anuva](/es-es/anuva/configuration/context-anuva.html)
+
+[Almacenar informaciones en los diálogos](/es-es/anuva/configuration/store-dialog-anuva.html)
+
+[Cómo interaccionar Anuva con otras interfaces](/es-es/anuva/configuration/interact-anuva.html)
 
 ## Uso
 
-[Como relacionar a ANUVA Assistant](/pt-br/anuva/interact-anuva.html)
+[Cómo enseñar Anuva](/pt-br/anuva/use/teach-anuva.html)
 
-[Como treinar a ANUVA Assitant](/pt-br/anuva/trainning-anuva.html)
+[Cómo entrenar Anuva](/pt-br/anuva/use/trainning-anuva.html)
+
+[Monitorear interacciones de la Anuva](/pt-br/anuva/use/monitoring-anuva.html)
+
+[Cómo relacionar la Anuva](/pt-br/anuva/interact-anuva.html)
+
 
 !!! tip "About"
 
