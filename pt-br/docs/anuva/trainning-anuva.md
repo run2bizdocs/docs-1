@@ -20,7 +20,8 @@ Procedimento
 3. Preencher os campos disponibilizados e clicar em “Salvar”.
 
 
-!!! Abstract"NOTA"
+!!! Abstract "NOTA"
+    
     O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
     assim que o treinamento for concluído a assistente será atualizada automaticamente.
     A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
