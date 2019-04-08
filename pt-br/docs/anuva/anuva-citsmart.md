@@ -17,11 +17,13 @@ e clicar em “Salvar;
 4. Altere o valor do parâmetro “442 Anuva Assistant - Parameters API” 
 para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/conversations/ ;
 
-!!!Abstract"NOTA"
-   Para os idiomas: inglês (usar EN) e espanhol (usar ES).
+!!! Abstract "NOTA"
+    
+    Para os idiomas: inglês (usar EN) e espanhol (usar ES).
    
-!!!Abstract"NOTA"
-   Se estes parâmetros não estiverem disponíveis, atualizar a versão do CITSmart.
+!!! Abstract "NOTA"
+
+    Se estes parâmetros não estiverem disponíveis, atualizar a versão do CITSmart.
    
  
 !!! tip "About"
