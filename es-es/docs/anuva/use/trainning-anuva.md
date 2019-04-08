@@ -13,7 +13,7 @@ Procedimiento
 
 1. Acceder al menú "Entrenamiento”;
 
-2. Hacer clic en "Agendar";
+2. Hacer clic en "Programar";
 
 3. Completar los campos disponibles y hacer clic en "Guardar”.
 
