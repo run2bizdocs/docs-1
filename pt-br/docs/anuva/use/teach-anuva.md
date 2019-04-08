@@ -1,14 +1,11 @@
-title: Como ensinar ANUVA Assitent
-#Como ensinar ANUVA Assitent
+title: Como ensinar Anuva Assitent
+#Como ensinar Anuva Assitent
 
-ANUVA aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases
-utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
-Como a ANUVA Assistant funciona de forma reativa às interações do usuário, para formar diálogos precisamos agrupar interesses e habilidades
-em pares. Contextos serão empregados apenas quando, durante o diálogo, for necessário armazenar alguma informação citada pelo usuário para 
-utilizar em um outro ponto da conversa.
+Anuva aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
+Como a Anuva funciona de forma reativa às interações do usuário, para formar diálogos precisamos agrupar interesses e habilidades
+em pares. Contextos serão empregados apenas quando, durante o diálogo, for necessário armazenar alguma informação citada pelo usuário para utilizar em um outro ponto da conversa.
 
-Cabe ao administrador do chatbot fornecer esses dados ao sistema, estruturando os possíveis diálogos e para que seja realizado o treinamento
-do conjunto. O treinamento deve ser agendado pela interface da ANUVA, e ao final do treinamento, a sua assistente será atualizada automaticamente.
+Cabe ao administrador do chatbot fornecer esses dados ao sistema, estruturando os possíveis diálogos e para que seja realizado o treinamento do conjunto. O treinamento deve ser agendado pela interface da Anuva, e ao final do treinamento, a sua assistente será atualizada automaticamente.
 
 Procedimento
 ------------
@@ -37,14 +34,14 @@ Procedimento
 
 !!! Abstract "NOTA"
 
-    - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
+    - Diálogos complexos ajudam Anuva a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
     a como responder nessas situações;
     
-    - A compreensão da ANUVA é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
+    - A compreensão da Anuva é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
     mais precisa ela será no entendimento da interação do usuário. Lembrando que o usuário não precisa digitar 
-    a frase exata que foi adicionada ao interesse, pois ANUVA trabalha com Inteligência Artificial;
+    a frase exata que foi adicionada ao interesse, pois Anuva trabalha com Inteligência Artificial;
                 
-    - Adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a ANUVA não 
+    - Adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a Anuva não 
     conseguir entender o interesse do usuário ou entender com uma acurácia inferior a 20%. É possível visualizar 
     a acurácia de cada interação no menu Analytics > Listar conversas.
  
@@ -52,7 +49,7 @@ Procedimento
 Relacionado
 --------
  
-[Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
+[Como treinar Anuva Assistant](/pt-br/anuva/use/trainning-anuva.html)
  
  
 
