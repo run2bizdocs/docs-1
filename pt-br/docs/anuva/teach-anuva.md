@@ -52,7 +52,7 @@ Procedimento
 Relacionado
 --------
  
- [Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
+[Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
  
  
 
