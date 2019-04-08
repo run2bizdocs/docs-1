@@ -1,38 +1,36 @@
-Title: Armazenar informações nos diálogos
-#Armazenar informações nos diálogos
+Title: Almacenar informaciones en los diálogos
+# Almacenar informaciones en los diálogos
 
-Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse
-A ANUVA reconhece estas informações como Atributos.
-Numa conversa, por exemplo, em que o usuário pede que a assistente virtual informe quais os restaurantes italianos existentem a menos de 10
-km de distância, percebe-se três atributos: tipo de estabelecimento, categoria, distância.
-Neste caso, são criados Atributos que sejam capazes de armazenar esta informação para responder de forma mais precisa ao usuário.
+Muchas veces el usuario durante un diálogo, nos proporciona información que será utilizada en otro momento para una mejor comprensión del interés del usuario. Anuva reconoce esta información como Atributos
+En una conversación, por ejemplo, en que el usuario pide que Anuva informe qué restaurantes italianos existentes a menos de 10 km de distancia, podemos tener tres atributos: tipo de establecimiento, categoría y distancia.
+En este caso, creamos Atributos que sean capaces de almacenar esta información para responder de forma más precisa al usuario.
+Los tipos de atributos definen el formato de la información que se puede guardar en el mismo. Anuva trabaja con los siguientes tipos:
 
-Os tipos de atributos definem o formato da informação que poderá ser salva no mesmo. A ANUVA trabalha com os seguintes tipos:
+ - Text slot: en el que puede agregar valores de tipo de texto;
 
- - Text slot: em que é possível adicionar valores do tipo texto;
+ - Boolean slot: utilizado para valores reconocidos como true o false;
 
- - Boolean slot: utilizado para valores reconhecidos como true ou false;
+ - Categorical slot: utilizado para almacenar un valor de una lista predefinida;
 
- - Categorical slot: utilizado para armazenar um valor de uma lista pré-definida;
-
- - Float slot: onde podemos adicionar valores numéricos com limites mínimo e máximo;
+ - Float slot: donde podemos añadir valores numéricos con límites mínimo y máximo;
 
 
 !!! Abstract "NOTA"
     
-    Não seria possível criar interesse que representasse todas as combinações possíveis 
-    para essas três informações. Neste caso, o ideal seria utilizar os atributos.
+    Observe que no sería posible crear interés que representase todas las combinaciones 
+    posibles para esas tres informaciones. En este caso lo ideal sería utilizar los atributos.
 
 
-Procedimento
+Procedimiento
 ------------
-1. Acessar menu principal “Atributos”;
 
-2. Clicar em "Novo";
+1. Acceder al menú “Atributos”;
 
-3. Preencher o nome e tipo do atributo;
+2. Hacer clic en "Nuevo";
 
-4. Informar os demais campos necessários de acordo com o tipo e clicar em “Salvar”.
+3. Completar el nombre y el tipo de atributo;
+
+4. Informar a los demás campos necesarios de acuerdo con el tipo y hacer clic en "Guardar".
 
 
 !!! tip "About"
