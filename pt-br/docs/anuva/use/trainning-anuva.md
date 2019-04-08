@@ -1,5 +1,5 @@
-title: Como treinar ANUVA Assistant
-#Como treinar ANUVA Assistant
+title: Como treinar Anuva Assistant
+#Como treinar Anuva
 
 Na tela de Treinamento, é possível agendar atualizações para que a assistente virtual possa interagir 
 com o usuário considerando os últimas informações adicionadas. Esta funcionalidade permite agendar o 
@@ -24,16 +24,16 @@ Procedimento
     
     O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
     assim que o treinamento for concluído a assistente será atualizada automaticamente.
-    A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
+    A qualquer momento, poderá iniciar um conversa com Anuva para verificar a 
     eficácia das suas interações, clicando no ícone flutuante localizado no canto inferior direito.
     Ela refletirá os conhecimentos adicionados até a realização do último treinamento.
    
 Relacionado
 -----------
 
-[Como ensinar a ANUVA Assistant](/pt-br/anuva/teach-anuva.html)
+[Como ensinar a Anuva](/pt-br/anuva/use/teach-anuva.html)
 
-[Monitorar e gerar relatórios - ANUVA](/pt-br/anuva/monitoring-anuva.html)
+[Monitorar e gerar relatórios - Anuva](/pt-br/anuva/use/monitoring-anuva.html)
 
 !!! tip "About"
 
