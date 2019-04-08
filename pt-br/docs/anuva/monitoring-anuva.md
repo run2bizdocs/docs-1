@@ -17,9 +17,10 @@ Procedimento
 
 2. Acessar uma das opções disponibilizadas.
 
-!!!Abstract"NOTA"
-   Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que a ANUVA
-   entendeu o interesse do usuário. Acurácias inferiores a 20% fazem com que ANUVA utilize a habilidade de fallback.
+!!! Abstract "NOTA"
+
+    Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que a ANUVA
+    entendeu o interesse do usuário. Acurácias inferiores a 20% fazem com que ANUVA utilize a habilidade de fallback.
     
     
 !!! tip "About"
