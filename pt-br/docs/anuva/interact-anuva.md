@@ -1,4 +1,5 @@
 Title: Como interagir ANUVA com outras interfaces
+#Como interagir ANUVA com outras interfaces
 
 Para que a Anuva Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
 
@@ -20,13 +21,12 @@ Procedimento
 
 6. Na seção Respostas, são duas opções de ação da assistente:
 
-  a. Respostas em memória: o valor retornado pela API é associado ao atributo selecionado;
-
-  b. Respostas em texto: retorna uma mensagem em texto para o usuário.
+    a) Respostas em memória: o valor retornado pela API é associado ao atributo selecionado;
+ 
+    b) Respostas em texto: retorna uma mensagem em texto para o usuário.
   
   
 !!!Abstract"NOTA"
-
     A integração precisa ser homologada pela CITSmart, sendo assim que após configurar
     esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
     
