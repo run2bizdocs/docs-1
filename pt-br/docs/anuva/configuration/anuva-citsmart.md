@@ -1,7 +1,7 @@
-Title: Disponibilizar ANUVA Assistant na interface CITSmart
-#Disponibilizar ANUVA Assistant na interface CITSmart
+Title: Disponibilizar Anuva na interface CITSmart
+#Disponibilizar Anuva na interface CITSmart
 
-A ANUVA já se integra nativamente ao CITSmart, tornando o processo mais fácil.
+A Anuva já se integra nativamente ao CITSmart, tornando o processo mais fácil.
 
 Procedimento
 -----------
@@ -14,7 +14,7 @@ para http://<nome-do-seu-workspace>.anuvaassistant.com ;
 para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/webhooks/rest/webhook 
 e clicar em “Salvar;
 
-4. Altere o valor do parâmetro “442 Anuva Assistant - Parameters API” 
+4. Alterar o valor do parâmetro “442 Anuva Assistant - Parameters API” 
 para http://<nome-do-seu-workspace><sigla-idioma>.anuvaassistant.com/conversations/ ;
 
 !!! Abstract "NOTA"
