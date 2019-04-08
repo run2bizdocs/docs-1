@@ -1,7 +1,7 @@
 Title: Como interagir ANUVA com outras interfaces
 #Como interagir ANUVA com outras interfaces
 
-Para que a Anuva Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
+Para que a ANUVA Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
 
 A consulta é feita através de uma API Rest, a qual precisa ser disponibilizada pelo sistema detentor das informações 
 de interesse do usuário. Ex: buscar informações sobre o status de um ticket, criação de tickets, geração de boletos no sistema.
