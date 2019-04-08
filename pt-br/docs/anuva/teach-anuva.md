@@ -49,8 +49,8 @@ Procedimento
     a acurácia de cada interação no menu Analytics > Listar conversas.
  
  
-# Relacionado
-
+Relacionado
+--------
  
  [Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
  
