@@ -19,13 +19,9 @@ Esta funcionalidade é uma boa alternativa para a criação de fluxos de trabalh
 4. Clicar no botão "Gravar".
 
 
-## Relacionados
-
-[Manutenção de Fluxo de trabalho][2]
 
 [1]:http://www.bpmn.org/
 
-[2]:/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html
 
 !!! tip "Sobre"
 
