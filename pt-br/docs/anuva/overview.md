@@ -36,7 +36,7 @@ Neste ambiente, é possível adicionar e revisar conhecimentos para Anuva, agend
 
 [Armazenar informações nos diálogos](/pt-br/anuva/configuration/store-dialog-anuva.html)
 
-[Como interagir Anuva com outras interfaces](/pt-br/anuva/configuration/interact-anuva.html
+[Como interagir Anuva com outras interfaces](/pt-br/anuva/configuration/interact-anuva.html)
 
 ## Uso
 
