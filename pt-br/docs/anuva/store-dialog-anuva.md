@@ -18,10 +18,12 @@ Os tipos de atributos definem o formato da informação que poderá ser salva no
  - Float slot: onde podemos adicionar valores numéricos com limites mínimo e máximo;
 
 
-!!!Abstract"NOTA"
+!!! Abstract "NOTA"
+    
     Não seria possível criar interesse que representasse todas as combinações possíveis 
     para essas três informações. Neste caso, o ideal seria utilizar os atributos.
-    
+
+
 Procedimento
 ------------
 1. Acessar menu principal “Atributos”;
