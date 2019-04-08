@@ -1,4 +1,4 @@
-title: Como treinar Anuva Assistant
+title: Como treinar Anuva
 #Como treinar Anuva
 
 Na tela de Treinamento, é possível agendar atualizações para que a assistente virtual possa interagir 
