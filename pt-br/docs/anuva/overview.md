@@ -17,6 +17,8 @@ Além de interagir com usuários, ela é capaz de integrar-se com outros sistema
 Funcionamento da ANUVA Assistant
 ----------------------------
 
+Para a configuração, acessar o link http://apresentacao.anuvaassistant.com/schedule logar no ambiente.
+
 A ANUVA Assistant utiliza 5 conceitos principais em seu funcionamento:
 
 - Build: através da sua interface, é possível criar exemplos de fluxo de conversação (diálogos) para que ela possa aprender como reagir às interações do usuários;
