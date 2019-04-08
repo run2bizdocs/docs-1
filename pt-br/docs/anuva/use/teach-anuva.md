@@ -1,5 +1,5 @@
 title: Como ensinar Anuva
-#Como ensinar Anuva
+# Como ensinar Anuva
 
 Anuva aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
 Como a Anuva funciona de forma reativa às interações do usuário, para formar diálogos precisamos agrupar interesses e habilidades
