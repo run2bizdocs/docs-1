@@ -1,58 +1,60 @@
-title: Como ensinar ANUVA Assitent
-#Como ensinar ANUVA Assitent
+title: How to teach Anuva
+# How to teach Anuva
 
-ANUVA aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases
-utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
-Como a ANUVA Assistant funciona de forma reativa às interações do usuário, para formar diálogos precisamos agrupar interesses e habilidades
-em pares. Contextos serão empregados apenas quando, durante o diálogo, for necessário armazenar alguma informação citada pelo usuário para 
-utilizar em um outro ponto da conversa.
+Anuva learns from the dialogues added to its knowledge base. These dialogues are structured in Interests (possible phrases used in user interaction) and Abilities (possible chatbot responses to user interactions). 
 
-Cabe ao administrador do chatbot fornecer esses dados ao sistema, estruturando os possíveis diálogos e para que seja realizado o treinamento
-do conjunto. O treinamento deve ser agendado pela interface da ANUVA, e ao final do treinamento, a sua assistente será atualizada automaticamente.
+Since Anuva works reactively to user interactions, in order to form dialogues we need to group interests and abilities in pairs. Contexts will be used only when, during the dialog, it is necessary to store some information that the user refers to for use in another point of the conversation.
 
-Procedimento
+It is up to the chatbot administrator to provide this data to the system, structuring the possible dialogues and to carry out the training of the set. The training should be scheduled through the Anuva interface, and at the end of the training, your Anuva will be updated automatically.
+
+Procedure
 ------------
 
-1. Acessar o menu principal “Diálogos”;
+1.	Access the menu “Dialogues”;
 
-2. Clicar no botão "Cadastrar" e selecionar uma das opções Simples (apenas um interação Interesse-Habilidade) ou Complexo 
-(para unir vários diálogos simples);
+2.	Click on "New" and select one of the options: Simple (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
 
-3. Informar o Tema relacionado ao Diálogo, isto ajudará a categorizá-los, posteriormente. Um novo tema pode ser cadastrado no menu “Tema”.
+3.	Inform the Theme related to the Dialogue, this will help you to categorize them, later. A new theme can be registered in the "Theme" menu.
 
-4. Na seção **Interesses**, preencher as frases relacionadas ao Interesse do usuário e clicar em “Adicionar”;
+4.	In the **Interests** section, complete the phrases related to the user Interest and click on "Save";
 
-5. Na seção **Habilidades**, preencher os campos disponibilizados, atentando-se ao tipo da habilidade:
+5.	In the **Abilities** section, complete the fields on the screen, paying attention to the ability type:
 
-    - Padrão: será utilizada para representar habilidades que são respondidas através de uma resposta de texto pré-definida. Podem ser 
-     atribuídas várias frases pré-definidas de respostas sempre visando responder a mesma pergunta;
+	   - Standard: it will be used to represent abilities that are answered through a predefined text response. Several predefined 
+         answer phrases can always be assigned to answer the same question;
 
-    - Personalizada: será utilizada quando, para responder a um interesse do usuário, ANUVA precisar buscar informações em um outro         sistema.
+	   - Customized: it will be used when, in order to respond to a user's interest, Anuva needs to seek information on another system. 
+         Access the document “How Anuva can interact with other systems” to understand how to use this type of ability;
 
-    - Botão: será utilizada sempre que for necessário limitar as respostas do usuário a uma determinada interação da ANUVA. Ao utilizar     essa opção, ANUVA responderá a interação do usuário exibindo botões. Um botão é definido por seu Nome e Valor. No campo Nome, é         definido o botão que aparecerá para o usuário. No campo Valor, é definido para a ANUVA como ela deve interpretar o interesse do         usuário ao clicar no botão;
- 
-    - Imagem: pode ser utilizada quando desejar responder o usuário utilizando texto e imagem. A imagem associada a resposta será           exibida na janela de chat.
+	   - Button: it will be used whenever it is necessary to limit user responses to a particular Anuva interaction. When using this 
+         option, Anuva will respond to user interaction by displaying buttons. A button is defined by its Name and Value. In the name 
+         field, the button that will appear for the user is defined. In the value field, it is defined to Anuva how it should interpret 
+         the user's interest by clicking on the button;
 
-6. Clicar em “Salvar”.
+	   - Image: it can be used when you want to respond to the user using text and image. The image associated with the response will be 
+         displayed in the chat window.
 
-!!! Abstract "NOTA"
 
-    - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
-    a como responder nessas situações;
+6. Click on "Save".
+
+!!! Abstract "NOTE"
+
+    - Complex dialogues help Anuva to be more assertive in a conversation that is long, use it to guide it 
+      to how to respond in those situations;
     
-    - A compreensão da ANUVA é feita por aproximação, sendo assim, quanto mais frases é adicionada ao Interesse,
-    mais precisa ela será no entendimento da interação do usuário. Lembrando que o usuário não precisa digitar 
-    a frase exata que foi adicionada ao interesse, pois ANUVA trabalha com Inteligência Artificial;
+    - Anuva's understanding is made by approximation, so the more phrases you add to the interest, the more 
+      precise it will be in understanding the user's interaction. Remembering that the user does not have to 
+      type the exact phrase that was added to the interest, since Anuva works with Artificial Intelligence;
                 
-    - Adicionar pelo menos um diálogo com habilidade de *fallback*. Ela será utilizada quando a ANUVA não 
-    conseguir entender o interesse do usuário ou entender com uma acurácia inferior a 20%. É possível visualizar 
-    a acurácia de cada interação no menu Analytics > Listar conversas.
+    - Remember to add at least one dialog with fallback ability. It will be used when your Anuva cannot understand 
+      the user's interest or understand with an accuracy of less than 20%. You can view the accuracy of each interaction 
+      in the menu Analytics > List conversations.
  
  
-Relacionado
+Related
 --------
  
-[Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
+[How to train Anuva](/en-us/anuva/trainning-anuva.html)
  
  
 
