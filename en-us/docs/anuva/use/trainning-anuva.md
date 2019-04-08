@@ -1,39 +1,41 @@
-title: Como treinar ANUVA Assistant
-#Como treinar ANUVA Assistant
+title: How to train Anuva
+# How to train Anuva
 
-Na tela de Treinamento, é possível agendar atualizações para que a assistente virtual possa interagir 
-com o usuário considerando os últimas informações adicionadas. Esta funcionalidade permite agendar o 
-treinamento conforme a necessidade, podendo inclusive definir recorrência.
+In the Training screen, it is possible to schedule updates so that your Anuva can interact with the user 
+considering the last added knowledge. This functionality allows scheduling the training according to your 
+need and can even define recurrence.
 
-Antes de começar
+Before getting started
 --------------
 
-É necessário que exista, pelo menos, um diálogo criado previamente.
+Make sure that there is at least one dialog created.
 
-Procedimento
+Procedure
 -----------
 
-1. Acessar o menu principal “Treinamentos”;
+1. Access the menu “Training”;
 
-2. Clicar no botão “Agendar”;
+2. Click on “Schedule”;
 
-3. Preencher os campos disponibilizados e clicar em “Salvar”.
+3. Complete the fields available and click on “Save”.
 
 
-!!! Abstract "NOTA"
+
+!!! Abstract "NOTE"
     
-    O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
-    assim que o treinamento for concluído a assistente será atualizada automaticamente.
-    A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
-    eficácia das suas interações, clicando no ícone flutuante localizado no canto inferior direito.
-    Ela refletirá os conhecimentos adicionados até a realização do último treinamento.
+    The duration of the training will depend on the volume of dialogues registered, but do not worry, 
+    once the training is completed, Anuva will be updated automatically. At any time, you can start a 
+    conversation with Anuva to check the effectiveness of its interactions by clicking on the floating 
+    icon located in the lower right corner of the screen. Remembering that it will reflect the knowledge 
+    added until the last training.
+
    
-Relacionado
+Related
 -----------
 
-[Como ensinar a ANUVA Assistant](/pt-br/anuva/teach-anuva.html)
+[How to teach Anuva](/en-us/anuva/teach-anuva.html)
 
-[Monitorar e gerar relatórios - ANUVA](/pt-br/anuva/monitoring-anuva.html)
+[Monitor and generate reports - Anuva](/en-us/anuva/monitoring-anuva.html)
 
 !!! tip "About"
 
