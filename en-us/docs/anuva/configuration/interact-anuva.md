@@ -26,10 +26,10 @@ Procedure
     b) Answers in text: Returns a text message to the user.
   
   
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
 
-    A integração precisa ser homologada pela CITSmart, sendo assim que após configurar
-    esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
+    The integration needs to be homologated by CITSmart, so after setting up this skill, you need 
+    to open a ticket for us to do the homologation of the integration.
     
     
 !!! tip "About"
