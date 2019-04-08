@@ -31,7 +31,7 @@ Relacionado
 
 [Como ensinar a ANUVA Assistant](/pt-br/anuva/teach-anuva.html)
 
-[Monitorar e gerar relatórios - ANUVA](   )
+[Monitorar e gerar relatórios - ANUVA](/pt-br/anuva/monitoring-anuva.html)
 
 !!! tip "About"
 
