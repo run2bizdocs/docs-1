@@ -1,6 +1,6 @@
-#title: Como ensinar ANUVA Assitent
+title: Como ensinar ANUVA Assitent
 
-Anuva aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases
+ANUVA aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases
 utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
 Como a Anuva Assistant funciona de forma reativa às interações do usuário, para formar diálogos precisamos agrupar interesses e habilidades
 em pares. Contextos serão empregados apenas quando, durante o diálogo, for necessário armazenar alguma informação citada pelo usuário para 
