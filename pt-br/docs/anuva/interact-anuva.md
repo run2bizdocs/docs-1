@@ -26,7 +26,8 @@ Procedimento
     b) Respostas em texto: retorna uma mensagem em texto para o usuário.
   
   
-!!!Abstract"NOTA"
+!!! Abstract "NOTA"
+
     A integração precisa ser homologada pela CITSmart, sendo assim que após configurar
     esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
     
