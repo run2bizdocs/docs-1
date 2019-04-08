@@ -1,8 +1,10 @@
 Title: Almacenar informaciones en los diálogos
 # Almacenar informaciones en los diálogos
 
-Muchas veces el usuario durante un diálogo, nos proporciona información que será utilizada en otro momento para una mejor comprensión del interés del usuario. Anuva reconoce esta información como Atributos
+Muchas veces el usuario durante un diálogo, nos proporciona información que será utilizada en otro momento para una mejor comprensión del interés del usuario. Anuva reconoce esta información como Atributos.
+
 En una conversación, por ejemplo, en que el usuario pide que Anuva informe qué restaurantes italianos existentes a menos de 10 km de distancia, podemos tener tres atributos: tipo de establecimiento, categoría y distancia.
+
 En este caso, creamos Atributos que sean capaces de almacenar esta información para responder de forma más precisa al usuario.
 Los tipos de atributos definen el formato de la información que se puede guardar en el mismo. Anuva trabaja con los siguientes tipos:
 
