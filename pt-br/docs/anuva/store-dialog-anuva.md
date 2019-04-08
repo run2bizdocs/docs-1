@@ -1,4 +1,5 @@
 Title: Armazenar informações nos diálogos
+#Armazenar informações nos diálogos
 
 Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse
 A ANUVA reconhece estas informações como Atributos.
@@ -18,7 +19,6 @@ Os tipos de atributos definem o formato da informação que poderá ser salva no
 
 
 !!!Abstract"NOTA"
-
     Não seria possível criar interesse que representasse todas as combinações possíveis 
     para essas três informações. Neste caso, o ideal seria utilizar os atributos.
     
