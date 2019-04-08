@@ -1,35 +1,35 @@
-Title: Como interagir ANUVA com outras interfaces
-#Como interagir ANUVA com outras interfaces
+Title: Cómo interactuar ANUVA con otras interfaces
+# Cómo interactuar ANUVA con otras interfaces
 
-Para que a ANUVA Assistant interaja com outros sistemas, é necessário adicionar no diálogo, uma habilidade personalizada.
+Para que Anuva interactúe con otros sistemas, es necesario agregar en el diálogo una habilidad personalizada.
 
-A consulta é feita através de uma API Rest, a qual precisa ser disponibilizada pelo sistema detentor das informações 
-de interesse do usuário. Ex: buscar informações sobre o status de um ticket, criação de tickets, geração de boletos no sistema.
+La consulta se realiza a través de una API Rest, la cual necesita ser puesta a disposición por el sistema que detenta la información de interés del usuario. Ej.: buscar información sobre el estado de un ticket, creación de tickets, generación de boletos en el sistema.
 
-Procedimento
+Procedimiento
 -----------
 
-1. Acessar o menu principal “Diálogos” e clicar em “Novo”;
+1. Acceder al menú "Diálogos" y hacer clic en Nuevo;
 
-2. Preencher as informações da seção **Interesse**;
+2. Completar la información de la sección **Interés**;
 
-3. Na seção **Habilidade**, selecionar o tipo *Personalizado*;
+3. En la sección **Habilidad**, seleccionar el tipo Personalizado;
 
-4. Preencher as informações da Seção API, incluindo o exemplo do corpo e da resposta;
+4. Completar la información de la sección API, incluido el ejemplo del cuerpo y de la respuesta;
 
-5. Caso seja necessário, informe o cabeçalho;
+5. Si es necesario, introduzca el encabezado;
 
-6. Na seção Respostas, são duas opções de ação da assistente:
+6. En la sección Respuestas, son dos opciones de acción:
 
-    a) Respostas em memória: o valor retornado pela API é associado ao atributo selecionado;
+    a) Respuestas en memoria: En este caso, el valor devuelto por la API se asocia al atributo seleccionado;
  
-    b) Respostas em texto: retorna uma mensagem em texto para o usuário.
+    b) Respuestas en texto: devuelve un mensaje de texto al usuario.
   
   
 !!! Abstract "NOTA"
 
-    A integração precisa ser homologada pela CITSmart, sendo assim que após configurar
-    esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
+    La integración necesita ser homologada por la CITSmart, siendo así que después de 
+    configurar esta habilidad es necesario abrir un ticket para que la hagamos la 
+    homologación de la integración.
     
     
 !!! tip "About"
