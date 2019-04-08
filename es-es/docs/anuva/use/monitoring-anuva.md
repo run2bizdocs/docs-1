@@ -1,26 +1,27 @@
-Title: Monitorar interações da ANUVA
-#Monitorar interações da ANUVA
+Title: Monitoreando las interacciones de la Anuva
+# Monitoreando las interacciones de la Anuva
 
-Uma vez treinada, é preciso monitorar as interações da ANUVA com os usuários para garantir que ela está sendo efetiva no atendimento 
-às solicitações.
+Una vez entrenada, es necesario monitorear las interacciones de Anuva con los usuarios para garantizar que ella está siendo efectiva en la atención a las solicitudes.
 
-Essas interações podem ser visualizadas no Menu Analytics. Além de exibir os diálogos de ANUVA com os usuários, neste menu é possível 
-visualizar indicadores de utilização dos conhecimentos adicionados, bem como os índices de fallback.
+Estas interacciones se pueden ver en el menú Analytics. Además de mostrar los diálogos de Anuva con los usuarios, en este menú es posible visualizar indicadores de utilización de los conocimientos agregados, así como, los índices de fallback.
 
-Antes de começar
+Antes de empezar
 -------------
-É preciso ter realizado, pelo menos, um treinamento e alguma interação com a assistente.
 
-Procedimento
+Es necesario haber hecho, por lo menos, un entrenamiento y alguna interacción con la Anuva.
+
+Procedimiento
 -----------
-1. Acessar o menu principal Analytics;
 
-2. Acessar uma das opções disponibilizadas.
+1. Acceder al menú principal Analytics;
+
+2. Acceder a una de las opciones disponibles.
 
 !!! Abstract "NOTA"
 
-    Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que a ANUVA
-    entendeu o interesse do usuário. Acurácias inferiores a 20% fazem com que ANUVA utilize a habilidade de fallback.
+    Al acceder al listado de conversaciones, haga clic sobre cada frase del diálogo para visualizar el 
+    porcentaje de asertividad con que Anuva entendió el interés del usuario, índices inferiores al 
+    veinte por ciento hacen que Anuva utilice la habilidad de fallback
     
     
 !!! tip "About"
