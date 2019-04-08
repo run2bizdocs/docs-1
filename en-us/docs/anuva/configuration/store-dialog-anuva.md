@@ -1,38 +1,39 @@
-Title: Armazenar informações nos diálogos
-#Armazenar informações nos diálogos
+Title: Store information in dialogues
+# Store information in dialogues
 
-Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse
-A ANUVA reconhece estas informações como Atributos.
-Numa conversa, por exemplo, em que o usuário pede que a assistente virtual informe quais os restaurantes italianos existentem a menos de 10
-km de distância, percebe-se três atributos: tipo de estabelecimento, categoria, distância.
-Neste caso, são criados Atributos que sejam capazes de armazenar esta informação para responder de forma mais precisa ao usuário.
+Many times, the user during a dialogue, provides us information that will be used at another time for a better understanding of the user's interest. Anuva recognizes this information as Attributes.
 
-Os tipos de atributos definem o formato da informação que poderá ser salva no mesmo. A ANUVA trabalha com os seguintes tipos:
+In a conversation, for example, in which the user requests that Anuva inform which Italian restaurants exist within 10 km distance, we can have three attributes: type of establishment, category and distance.
 
- - Text slot: em que é possível adicionar valores do tipo texto;
+In this case, we create Attributes that are able to store this information to respond more accurately to the user.
 
- - Boolean slot: utilizado para valores reconhecidos como true ou false;
+Attribute types define the format of the information that can be saved in it. Anuva works with the following types:
 
- - Categorical slot: utilizado para armazenar um valor de uma lista pré-definida;
+ - Text slot: where you can add text-type values;
 
- - Float slot: onde podemos adicionar valores numéricos com limites mínimo e máximo;
+ - Boolean slot: used for values that are set to true or false;
+
+ - Categorical slot: used to store a value from a predefined list;
+
+ - Float slot: where we can add numerical values with minimum and maximum limits;
 
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
     
-    Não seria possível criar interesse que representasse todas as combinações possíveis 
-    para essas três informações. Neste caso, o ideal seria utilizar os atributos.
+    Tt would not be possible to create interest that represented all possible combinations 
+    for the three information. In this case the ideal would be to use the attributes.
 
 
-Procedimento
+Procedure
 ------------
-1. Acessar menu principal “Atributos”;
+1. Access the menu “Attributes”;
 
-2. Clicar em "Novo";
+2.	Click on “New”;
 
-3. Preencher o nome e tipo do atributo;
+3.	Complete the name and type of the attribute;
 
-4. Informar os demais campos necessários de acordo com o tipo e clicar em “Salvar”.
+4.	Enter the other required fields according to the type and click on "Save".
+
 
 
 !!! tip "About"
