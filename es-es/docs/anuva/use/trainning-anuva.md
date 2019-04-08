@@ -1,39 +1,37 @@
-title: Como treinar ANUVA Assistant
-#Como treinar ANUVA Assistant
+title: Cómo entrenar su Anuva
+# Cómo entrenar su Anuva
 
-Na tela de Treinamento, é possível agendar atualizações para que a assistente virtual possa interagir 
-com o usuário considerando os últimas informações adicionadas. Esta funcionalidade permite agendar o 
-treinamento conforme a necessidade, podendo inclusive definir recorrência.
+En la pantalla de Entrenamiento, es posible programar actualizaciones para que su Anuva pueda interactuar con el usuario considerando los últimos conocimientos agregados. Esta funcionalidad permite programar el entrenamiento según su necesidad, pudiendo incluso definir recurrencia
 
-Antes de começar
+Antes de empezar
 --------------
 
-É necessário que exista, pelo menos, um diálogo criado previamente.
+Asegúrese de que haya al menos un diálogo creado.
 
-Procedimento
+Procedimiento
 -----------
 
-1. Acessar o menu principal “Treinamentos”;
+1. Acceder al menú "Entrenamiento”;
 
-2. Clicar no botão “Agendar”;
+2. Hacer clic en "Agendar";
 
-3. Preencher os campos disponibilizados e clicar em “Salvar”.
+3. Completar los campos disponibles y hacer clic en "Guardar”.
 
 
 !!! Abstract "NOTA"
     
-    O tempo de duração do treinamento dependerá do volume de diálogos cadastrados, 
-    assim que o treinamento for concluído a assistente será atualizada automaticamente.
-    A qualquer momento, poderá iniciar um conversa com ANUVA para verificar a 
-    eficácia das suas interações, clicando no ícone flutuante localizado no canto inferior direito.
-    Ela refletirá os conhecimentos adicionados até a realização do último treinamento.
+    El tiempo de duración del entrenamiento dependerá del volumen de diálogos registrados,
+    pero no se preocupe, una vez finalizada la capacitación, Anuva se actualizará automáticamente.
+    En cualquier momento, puede iniciar una conversación con Anuva para comprobar la eficacia de
+    sus interacciones haciendo clic en el icono flotante situado en la esquina inferior derecha. 
+    Recordando que reflejará los conocimientos agregados hasta la realización del último entrenamiento.
    
 Relacionado
 -----------
 
-[Como ensinar a ANUVA Assistant](/pt-br/anuva/teach-anuva.html)
+[Cómo enseñar su Anuva](/es-es/anuva/teach-anuva.html)
 
-[Monitorar e gerar relatórios - ANUVA](/pt-br/anuva/monitoring-anuva.html)
+[Monitorear las interacciones de su Anuva](/es-es/anuva/monitoring-anuva.html)
 
 !!! tip "About"
 
