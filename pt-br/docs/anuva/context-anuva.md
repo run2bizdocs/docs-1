@@ -1,4 +1,4 @@
-#Title: Criar contextos para ANUVA
+Title: Criar contextos para ANUVA
 
 Os diálogos estão imersos em contextos. Palavras iguais podem ter significados distintos a depender do contexto no qual estão inseridas.
 Para aumentar a acurácia em situações de homônimos e evitar a repetição de frases por conta de sinônimos, é possível cadastrar uma base
