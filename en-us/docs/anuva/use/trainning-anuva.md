@@ -35,7 +35,7 @@ Related
 
 [How to teach Anuva](/en-us/anuva/teach-anuva.html)
 
-[Monitor and generate reports - Anuva](/en-us/anuva/monitoring-anuva.html)
+[Monitor Anuva interactions](/en-us/anuva/monitoring-anuva.html)
 
 !!! tip "About"
 
