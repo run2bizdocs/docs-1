@@ -1,5 +1,5 @@
 Title: Crear contextos para ANUVA
-#Crear contextos para ANUVA
+# Crear contextos para ANUVA
 
 Los diálogos están inmersos en contextos. Las palabras iguales pueden tener significados distintos a depender del contexto en el que están insertadas. Para aumentar la exactitud en situaciones de homónimos y evitar la repetición de frases por cuenta de sinónimos, es posible registrar una base de contexto para que la Anuva haga la distinción de homónimos y la correlación entre sinónimos.
 
