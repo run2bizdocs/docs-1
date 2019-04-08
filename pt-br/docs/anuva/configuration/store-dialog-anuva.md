@@ -1,5 +1,5 @@
 Title: Armazenar informações nos diálogos
-#Armazenar informações nos diálogos
+# Armazenar informações nos diálogos
 
 Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse. A Anuva reconhece estas informações como Atributos.
 Numa conversa, por exemplo, em que o usuário pede que a assistente virtual informe quais os restaurantes italianos existentem a menos de 10 km de distância, percebe-se três atributos: tipo de estabelecimento, categoria, distância.
