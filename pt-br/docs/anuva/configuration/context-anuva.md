@@ -3,7 +3,7 @@ Title: Criar contextos para Anuva
 
 Os diálogos estão imersos em contextos. Palavras iguais podem ter significados distintos a depender do contexto no qual estão inseridas.
 Para aumentar a acurácia em situações de homônimos e evitar a repetição de frases por conta de sinônimos, é possível cadastrar uma base
-de contexto para que a ANUVA faça a distinção de homônimos e a correlação entre sinônimos.
+de contexto para que a Anuva faça a distinção de homônimos e a correlação entre sinônimos.
 
 Procedimento
 -----------
@@ -19,7 +19,7 @@ então deve-se fazer as inclusões e clicar em “Salvar”.
 !!! Abstract "NOTA"
 
     É necessário vincular os contextos às frases do Interesse dentro do Diálogo, 
-    para que a informação seja processada pela ANUVA.
+    para que a informação seja processada pela Anuva.
     
     
 !!! tip "About"
