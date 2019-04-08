@@ -6,14 +6,7 @@ The workflow modeling comprises the activities of understanding and designing th
 
 The flow functionality was built bringing elements, which by their very essence, are similar to BPMN notation, this facilitates the construction and understanding of the flows. In addition, you can import projects in BPMN standard.
 
-## Related
 
-[Flows][1]  
-
-[Workflow maintenance][2]
-
-[1]:/en-us/citsmart-platform-8/platform-administration/flow-maintenance/flows.html
-[2]:/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html
 
 !!! tip "About"
 
