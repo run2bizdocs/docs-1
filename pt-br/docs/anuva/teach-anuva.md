@@ -1,4 +1,5 @@
 title: Como ensinar ANUVA Assitent
+#Como ensinar ANUVA Assitent
 
 ANUVA aprende a partir dos diálogos adicionados à sua base de conhecimento. Esses diálogos são estruturados em Interesses (possíveis frases
 utilizadas na interação do usuário) e Habilidades (possíveis respostas do chatbot às interações do usuário).
@@ -35,7 +36,6 @@ Procedimento
 6. Clicar em “Salvar”.
 
 !!!Abstract"NOTA"
-
    - Diálogos complexos ajudam ANUVA a ser mais assertiva numa conversa que é longa, utilizá-lo para orientá-la
     a como responder nessas situações;
     
@@ -49,6 +49,7 @@ Procedimento
    
  Relacionado
  ----------
+ 
  [Como treinar ANUVA Assistant](/pt-br/anuva/trainning-anuva.html)
  
  
