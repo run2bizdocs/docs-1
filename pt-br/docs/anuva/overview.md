@@ -32,7 +32,7 @@ A Anuva Assistant utiliza 5 conceitos principais em seu funcionamento:
 Relacionado
 ----------
 
-[Como relacionar a ANUVA Assistant](  )
+[Como relacionar a ANUVA Assistant](/pt-br/anuva/interact-anuva.html)
 
 [Como treinar a ANUVA Assitant](/pt-br/anuva/trainning-anuva.html)
 
