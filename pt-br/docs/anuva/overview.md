@@ -23,11 +23,9 @@ Após a liberação do seu ambiente Anuva, acesse o ambiente de configuração d
 Neste ambiente, você conseguirá adicionar e revisar conhecimentos para Anuva, poderá agendar treinamentos, acompanhar as interações realizadas pela Anuva e realizar testes de interação para validar se interações estão sendo efetivas.
 
 
-## Relacionado
+## Configuração
 
-### Configuração
-
-### Uso
+## Uso
 
 [Como relacionar a ANUVA Assistant](/pt-br/anuva/interact-anuva.html)
 
