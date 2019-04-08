@@ -1,4 +1,5 @@
 Title: Visão Geral
+#Visão Geral
 
 
 O que é?
@@ -33,7 +34,7 @@ Relacionado
 
 [Como relacionar a ANUVA Assistant](  )
 
-[Como treinar a ANUVA Assitant](  )
+[Como treinar a ANUVA Assitant](/pt-br/anuva/trainning-anuva.html)
 
 !!! tip "About"
 
