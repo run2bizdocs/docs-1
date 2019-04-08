@@ -1,4 +1,4 @@
-title:Como treinar ANUVA Assistant
+title: Como treinar ANUVA Assistant
 
 Na tela de Treinamento, é possível agendar atualizações para que a assistente virtual possa interagir 
 com o usuário considerando os últimas informações adicionadas. Esta funcionalidade permite agendar o 
