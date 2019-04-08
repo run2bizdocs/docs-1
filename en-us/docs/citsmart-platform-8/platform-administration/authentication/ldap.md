@@ -56,9 +56,8 @@ It's necessary to have registered the time for scheduling automatic synchronizat
 	
 ## Related
 
-[Configure parametrization - LDAP][1]
+[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
 
-[1]:/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ldap.html
 
 !!! tip "About"
 
