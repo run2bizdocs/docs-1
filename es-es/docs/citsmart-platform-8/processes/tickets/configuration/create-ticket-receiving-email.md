@@ -1,7 +1,7 @@
 title: Crear ticket automático desde el recebimiento del correo electrónico
 Description: Permite la creación automática de un ticket cuando se envía un mensaje de correo electrónico a una dirección determinada.
-#Crear ticket automático desde el recebimiento del correo electrónico
 
+# Crear ticket automático desde el recebimiento del correo electrónico
 
 Esta funcionalidad permite la creación automática de un ticket cuando se envía
 un mensaje de correo electrónico a una dirección determinada. En este contexto,
@@ -35,8 +35,8 @@ Procedimiento
 
 1.  Crear acción automatica de correo electrónico al acceder al menú principal
     Sistema \> Configuración \> Configuración de la acción automatica a través
-    de correo electrónico (ver Crear acción automatica de correo
-    electrónico).
+    de correo electrónico Este registro se utiliza para disparar la lectura y 
+    el registro de solicitudes (ver Crear acción automatica de correo electrónico).
 
 *Paso 3*
 
@@ -47,9 +47,18 @@ Procedimiento
 
 !!! Abstract "ATENCIÓN"
 
-    Se recopilará la información contenida en el contenido del mensaje de correo electrónico, las direcciones del remitente, el             destinatario y la copia oculta del correo electrónico que se lee y se utiliza para registrar una solicitud de servicio.
+    Se recopilará la información contenida en el contenido del mensaje de correo 
+    electrónico, las direcciones del remitente, el destinatario y la copia oculta 
+    del correo electrónico que se lee y se utiliza para registrar una solicitud 
+    de servicio.
     
-    Para que esta información se vea a través de la secuencia de comandos Rhino, sigue el ejemplo adjunto.
+    Para que esta información se vea a través de la secuencia de comandos Rhino, 
+    sigue el ejemplo adjunto.
+    
+!!! Abstract "NOTA"
+
+    Se puede leer el título del correo electrónico enviado, está guardado en el campo 
+    *subject* de la tabla reademaildatarequest.
 
 
 Relacionado
