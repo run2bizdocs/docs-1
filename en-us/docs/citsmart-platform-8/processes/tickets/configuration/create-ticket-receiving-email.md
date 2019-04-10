@@ -1,6 +1,7 @@
 title: Automatically create a ticket from the receiving of an email
 Description: Allows to automatic create ticket when an email message is sent to a a certain address.
-#Automatically create a ticket from the receiving of an email
+
+# Automatically create a ticket from the receiving of an email
 
 This functionality allows to automatic create ticket when an email message is
 sent to a a certain address. In this context, the solution constantly monitors
@@ -30,8 +31,9 @@ Procedure
 *Step 2*
 
 1.  Create the email automatic action by accessing the main menu System \>
-    Settings \> Automatic Action Setting Via Email (see Create
-    automatic action via email).
+    Settings \> Automatic Action Setting Via Email. This register is used 
+    to trigger the rading and register of requests (see Create automatic 
+    action via email).
 
 *Step 3*
 
@@ -48,7 +50,12 @@ Procedure
 
     For this information to be viewed via the Rhino script, the following
     example is attached.
+    
+!!! Abstract "NOTE"
 
+    It's possible to read the title of the email sent, it stored in the field
+    *subject* of the table reademaildatarequest.
+    
 
 Related
 -------
