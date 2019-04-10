@@ -6,12 +6,9 @@ Las expresiones son recursos utilizados en los flujos del sistema para permitir 
 
 ## Relacionado
 
-[Creador de Expresiones][1]  
-
-[Flujos][2]
+[Creador de Expresiones][1]
 
 [1]:/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html
-[2]:/es-es/citsmart-platform-8/platform-administration/flow-maintenance/flows.html
 
 
 !!! tip "Sobre"
