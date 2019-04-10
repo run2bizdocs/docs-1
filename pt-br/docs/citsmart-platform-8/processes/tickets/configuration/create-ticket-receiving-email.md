@@ -1,6 +1,7 @@
 title: Criar um ticket automaticamente a partir do recebimento de um e-mail
 Description: Permite a criação automática de um ticket quando uma mensagem de e-mail é enviada para um determinado endereço.
-#Criar um ticket automaticamente a partir do recebimento de um e-mail
+
+# Criar um ticket automaticamente a partir do recebimento de um e-mail
 
 Esta funcionalidade permite a criação automática de um ticket quando uma
 mensagem de e-mail é enviada para um determinado endereço. Neste contexto, a
@@ -53,7 +54,7 @@ Procedimento
 
 !!! Abstract "NOTA"
 
-    É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest .
+    É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest.
 
 Relacionado
 -------
