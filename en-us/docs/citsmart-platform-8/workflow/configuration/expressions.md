@@ -8,10 +8,8 @@ Expressions are resources used in system flows to allow the construction of seve
 
 [Expressions Creator][1]  
 
-[Flows][2]
 
-[1]:/en-us/citsmart-platform-8/platform-administration/flow-maintenance/expressions-creator.html
-[2]:/en-us/citsmart-platform-8/platform-administration/flow-maintenance/flows.html
+[1]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
 
 
 !!! tip "About"
