@@ -182,6 +182,9 @@ dispositivos de control y gestión.
 
     -   Historial: presenta todas las acciones hechas en la tarjeta, con fecha y hora.
 
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=ZpBJQymV9wU)'
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
