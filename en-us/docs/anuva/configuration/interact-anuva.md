@@ -1,5 +1,5 @@
-Title: How to interact with other systems
-# How to interact with other systems
+Title: How to interact Anuva with other systems
+# How to interact Anuva with other systems
 
 In order for Anuva to interact with other systems, it is necessary to add a custom ability in the dialog. 
 
