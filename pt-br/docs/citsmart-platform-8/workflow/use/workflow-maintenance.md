@@ -47,7 +47,7 @@ Procedimento
     !!! tip "DICA"
 
         A opção de reabertura no fluxo pode ser útil em
-        cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não é necessário utilizar a ação "reopen" na permissão do fluxo.
+        cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não         é necessário utilizar a ação "reopen" na permissão do fluxo.
 
 -   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
     desta tela encontra-se a organização dos elementos que compõe a
