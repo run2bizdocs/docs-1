@@ -205,7 +205,7 @@ dispositivos de controle e gestão.
     -   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
     hora.
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=myExkRXrBGE)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=myExkRXrBGE)
 
 
 !!! tip "About"
