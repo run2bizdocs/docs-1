@@ -196,6 +196,10 @@ and management.
 
     -   History: it presents all actions made in the card, with date and time.
 
+
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=yHi8-heMMxM)
+
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
