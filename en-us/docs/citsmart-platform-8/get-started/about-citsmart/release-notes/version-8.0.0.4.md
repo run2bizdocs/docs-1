@@ -1,11 +1,11 @@
-Description: Release Notes CITSmart Versão 8.0.0.4 de 12/04/2019
+Description: Release Notes from CITSmart Version 8.0.0.4 of 04/12/2019
 
-# Versão 8.0.0.4
-_12/04/2019_
+# Version 8.0.0.4
+_04/12/2019_
 
 
-## Problema Resolvido
+## Problem fixed
 
-| Problema | Descrição                                                                                 |
-|----------|-------------------------------------------------------------------------------------------|
-| 3275     | Falha no momento de restaurar Grupo Executor, Impacto e Urgência em Gerência de Liberação |
+| Problem  | Description                                                                                |
+|----------|--------------------------------------------------------------------------------------------|
+| 3275     | Failure when restoring the Executor Group, Impact and Urgency in the Release Management    |
