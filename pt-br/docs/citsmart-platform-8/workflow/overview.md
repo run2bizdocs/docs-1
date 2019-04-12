@@ -58,7 +58,7 @@ A funcionalidade
         -   **Eventos:** são os elementos de eventos que podem ser utilizados no
             desenho do fluxo:
 
-            -   Evento Início;
+            -   Evento Início
 
             -   Evento Intermediário de Envio de Link
 
