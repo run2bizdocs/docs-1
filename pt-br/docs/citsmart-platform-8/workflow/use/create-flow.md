@@ -57,7 +57,7 @@ Procedimento
 Relacionado
 ------------
 
-[Manutenção de fluxo](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Manutenção de fluxo](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 
@@ -65,4 +65,4 @@ Relacionado
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
 [1]:/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html
-[2]://pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
