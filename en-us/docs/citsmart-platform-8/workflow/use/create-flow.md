@@ -47,7 +47,7 @@ Procedure
 Related
 ------------
 
-[Flow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Flow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 
