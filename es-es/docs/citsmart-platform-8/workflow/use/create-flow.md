@@ -58,7 +58,7 @@ Procedimiento
 Relacionado
 ------------
 
-[Mantenimiento del flujo](/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Mantenimiento del flujo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 
