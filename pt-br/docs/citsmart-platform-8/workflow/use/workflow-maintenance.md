@@ -38,93 +38,93 @@ Procedimento
     apresentadas as informações do fluxo em três abas: “Dados do fluxo”,
     “Diagrama” e “Documentação”. Cada qual tem a seguinte função:
 
--   Na aba “Dados do fluxo”, será exposto os dados com as informações do fluxo,
-    tais como: o seu nome, o processo a que está vinculado (O fluxo estará
-    visível apenas para o processo a que está vinculado), sua versão, a
-    descrição do fluxo e a opção para permitir a reabertura de um serviço
-    independentemente das configurações de grupo.
+    -   Na aba “Dados do fluxo”, será exposto os dados com as informações do fluxo,
+        tais como: o seu nome, o processo a que está vinculado (O fluxo estará
+        visível apenas para o processo a que está vinculado), sua versão, a
+        descrição do fluxo e a opção para permitir a reabertura de um serviço
+        independentemente das configurações de grupo.
 
     !!! tip "DICA"
 
         A opção de reabertura no fluxo pode ser útil em
         cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não         é necessário utilizar a ação "reopen" na permissão do fluxo.
 
--   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
-    desta tela encontra-se a organização dos elementos que compõe a
-    funcionalidade de fluxo. Ao clicar em cada um destes elementos, estará
-    acessível cada atividade realizada por este elementos, que são:
+    -   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
+        desta tela encontra-se a organização dos elementos que compõe a
+        funcionalidade de fluxo. Ao clicar em cada um destes elementos, estará
+        acessível cada atividade realizada por este elementos, que são:
 
-    -   **Eventos:** são os elementos de eventos que podem ser utilizados no
-        desenho do fluxo. São eles:
+        -   **Eventos:** são os elementos de eventos que podem ser utilizados no
+            desenho do fluxo. São eles:
 
-        -   Evento Início;
+            -   Evento Início;
 
-        -   Evento Intermediário de Envio de Link
+            -   Evento Intermediário de Envio de Link
 
-        -   Evento Intermediário de Captura de Link
+            -   Evento Intermediário de Captura de Link
 
-        -   Evento Intermediário de Temporizador
+            -   Evento Intermediário de Temporizador
 
-        -   Boundary - Evento Intermediário de Captura de Erro
+            -   Boundary - Evento Intermediário de Captura de Erro
 
-        -   Evento Intermediário de Captura de Sinal
+            -   Evento Intermediário de Captura de Sinal
 
-        -   Evento de Finalização com Erro
+            -   Evento de Finalização com Erro
 
-        -   Evento de Fim
+            -   Evento de Fim
 
-    -   **Atividades**: são os elementos de atividades que podem ser utilizados
-        no desenho do fluxo. São eles:
+        -   **Atividades**: são os elementos de atividades que podem ser utilizados
+            no desenho do fluxo. São eles:
 
-        -   Tarefa de Usuário
+            -   Tarefa de Usuário
 
-        -   Tarefa Script
+            -   Tarefa Script
 
-        -   Envio de Mensagem – E-mail
+            -   Envio de Mensagem – E-mail
 
-        -   Business Rule Task
+            -   Business Rule Task
 
-        -   Tarefa de Serviço – ESI
+            -   Tarefa de Serviço – ESI
 
-        -   Armazenamento de Dados
+            -   Armazenamento de Dados
 
-        -   Subprocesso
+            -   Subprocesso
 
-    -   **Extensões**: são as extensões que podem ser utilizadas no desenho do
-        fluxo. São elas:
+        -   **Extensões**: são as extensões que podem ser utilizadas no desenho do
+            fluxo. São elas:
 
-        -   Comunicação REST
+            -   Comunicação REST
 
-        -   Notificação
+            -   Notificação
 
-        -   Atribuição de Variável
+            -   Atribuição de Variável
 
-        -   Conversação Watson
+            -   Conversação Watson
 
-    -   **Gateways**: são os elementos de gateway que podem ser utilizados no
-        desenho do fluxo. São eles:
+        -   **Gateways**: são os elementos de gateway que podem ser utilizados no
+            desenho do fluxo. São eles:
 
-        -   Gateway Inclusivo
+            -   Gateway Inclusivo
 
-        -   Gateway Paralelo
+            -   Gateway Paralelo
 
-        -   Gateway Exclusivo
+            -   Gateway Exclusivo
 
-        -   Gateway Complexo
+            -   Gateway Complexo
 
-        -   Gateway Baseado em Evento
+            -   Gateway Baseado em Evento
 
-    -   **Swimianes:** são os elementos de swimianes que podem ser utilizados no
-        desenho do fluxo. São eles:
+        -   **Swimianes:** são os elementos de swimianes que podem ser utilizados no
+            desenho do fluxo. São eles:
 
-        -   Pool/Participante
+            -   Pool/Participante
 
-        -   Lane
+            -   Lane
 
-    -   **Artefato**: é o elemento de artefato que podem ser utilizados no
-        desenho do fluxo. São eles:
+        -   **Artefato**: é o elemento de artefato que podem ser utilizados no
+            desenho do fluxo. São eles:
 
-        -   Anotação de Texto
+            -   Anotação de Texto
 
     -   Nesta aba, também é permitido ao clicar no botão “Gerar Documentação” a
         exportação em PDF das informações geradas na aba “Documentação”. Além
@@ -133,8 +133,8 @@ Procedimento
         nova visão do fluxo ou “Na versão original” que significa salvar o fluxo
         na versão atual, a que está sendo editada).
 
--   Na aba “Documentação” é gerada uma visão de todo as informações do fluxo
-    (diagrama, descrição de elementos utilizados no diagrama).
+    -   Na aba “Documentação” é gerada uma visão de todo as informações do fluxo
+        (diagrama, descrição de elementos utilizados no diagrama).
 
 !!! Abstract "NOTA"
 
@@ -170,7 +170,7 @@ Diagrama de um fluxo de trabalho
     fluxo;
 	
 -   5 – Representa o evento final do fluxo de trabalho (que neste caso significa
-    a conclusão de exucução da tarefa ou a rejeição da tarefa);	
+    a conclusão de execução da tarefa ou a rejeição da tarefa);	
 
 -   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
     neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).
