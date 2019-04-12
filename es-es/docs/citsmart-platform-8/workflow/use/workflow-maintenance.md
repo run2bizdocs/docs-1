@@ -35,85 +35,85 @@ Procedimiento
 
 3.  Al hacer clic en "Editar" y seleccionar cualquier versión del flujo, se muestra la información del flujo en tres pestañas: "Datos       del flujo", "Diagrama" y "Documentación". Cada uno tiene la siguiente función:
     
-4.  En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo, tales como: su nombre, el proceso al que está    vinculado (el flujo estará visible sólo para el proceso al que está vinculado), su versión, la descripción del flujo y la opción para    permitir la reapertura de un servicio independientemente de la configuración de grupo.
+    -  En la pestaña "Datos del flujo", se expondrán los datos con la información del flujo, tales como: su nombre, el proceso al que          está vinculado (el flujo estará visible sólo para el proceso al que está vinculado), su versión, la descripción del flujo y la          opción para permitir la reapertura de un servicio independientemente de la configuración de grupo.
     
     !!! tip "SUGERENCIA"
     
         La opción de reapertura en el flujo puede ser útil en escenarios en los que no hay muchos servicios donde se permite la                 reapertura, por lo que al marcar la opción "permitir reaberutra" no es necesario utilizar la acción "reopen" en el permiso del           flujo.
         
 
-5.  La pestaña "Diagrama" representa una herramienta de diseño de flujo. En el lado izquierdo de esta pantalla se encuentra la               organización de los elementos que componen la funcionalidad de flujo. Al hacer clic en cada uno de estos elementos, quedarán             accesible cada actividad realizada por estos elementos, que son:
+    -  La pestaña "Diagrama" representa una herramienta de diseño de flujo. En el lado izquierdo de esta pantalla se encuentra la              organización de los elementos que componen la funcionalidad de flujo. Al hacer clic en cada uno de estos elementos, quedarán            accesible cada actividad realizada por estos elementos, que son:
     
-    -   **Eventos:** son los elementos de los eventos que pueden utilizarse en el diseño del flujo. Son ellos:
+       -   **Eventos:** son los elementos de los eventos que pueden utilizarse en el diseño del flujo. Son ellos:
         
-        -   Evento Inicial
+           -   Evento Inicial
         
-        -   Evento Intermedio de Envío de Enlace
+           -   Evento Intermedio de Envío de Enlace
         
-        -   Evento Intermedio de Captura de Enlace
+           -   Evento Intermedio de Captura de Enlace
         
-        -   Evento Intermedio de Temporizador
+           -   Evento Intermedio de Temporizador
         
-        -   Boundary - Evento Intermedio de Captura de Errores
+           -   Boundary - Evento Intermedio de Captura de Errores
         
-        -   Evento Intermedio de Captura de Señal
+           -   Evento Intermedio de Captura de Señal
         
-        -   Evento de Finalización con Error
+           -   Evento de Finalización con Error
         
-        -   Evento Final
+           -   Evento Final
         
-    -   **Actividades:** son los elementos de actividades que pueden ser utilizados en el diseño del flujo. Son ellos:
+       -   **Actividades:** son los elementos de actividades que pueden ser utilizados en el diseño del flujo. Son ellos:
         
-        -   Tarea del Usuario
+           -   Tarea del Usuario
         
-        -   Tarea Script
+           -   Tarea Script
         
-        -   Envió de Mensajes - Correo Electrónico
+           -   Envió de Mensajes - Correo Electrónico
         
-        -   Business Rule Task
+           -   Business Rule Task
         
-        -   Tarea de Servicio - ESI
+           -   Tarea de Servicio - ESI
         
-        -   Almacenamiento de Datos
+           -   Almacenamiento de Datos
         
-        -   Subproceso
+           -   Subproceso
         
-    -   **Extensiones:** son las extensiones que se pueden utilizar en el diseño del flujo. Son ellas:
+       -   **Extensiones:** son las extensiones que se pueden utilizar en el diseño del flujo. Son ellas:
         
-        -   Comunicación REST
+           -   Comunicación REST
         
-        -   Notificación
+           -   Notificación
         
-        -   Asignación de Variable
+           -   Asignación de Variable
         
-        -   Conversación Watson
+           -   Conversación Watson
         
-    -   **Gateways:** son los elementos de gateway que se pueden utilizar en el diseño del flujo. Son ellos:
+       -   **Gateways:** son los elementos de gateway que se pueden utilizar en el diseño del flujo. Son ellos:
         
-        -   Gateway Inclusivo
+           -   Gateway Inclusivo
         
-        -   Gateway Paralelo
+           -   Gateway Paralelo
         
-        -   Gateway Exclusivo
+           -   Gateway Exclusivo
         
-        -   Gateway Complejo
+           -   Gateway Complejo
         
-        -   Gateway Basado en Evento
+           -   Gateway Basado en Evento
         
-    -   **Swimianes:** son los elementos de swimianes que pueden ser utilizados en el diseño del flujo. Son ellos:
+       -   **Swimianes:** son los elementos de swimianes que pueden ser utilizados en el diseño del flujo. Son ellos:
         
-        -   Pool/Participante
+           -   Pool/Participante
         
-        -   Lane
+           -   Lane
         
-    -   **Artefacto:** es el elemento de artefacto que pueden utilizarse en el diseño del flujo. Son ellos:
+       -   **Artefacto:** es el elemento de artefacto que pueden utilizarse en el diseño del flujo. Son ellos:
         
-        -   Anotación de Texto
+           -   Anotación de Texto
         
     -   En esta pestaña, también se permite, al hacer clic en "Generar Documentación", la exportación en PDF de las informaciones               generadas en la pestaña "Documentación". Además, al hacer clic en "Guardar", podemos elegir la forma de este almacenamiento             ("Como nueva versión" que significa versionar y generar una nueva visión del flujo o "En la versión original" que significa             guardar el flujo en la versión actual, la que está siendo editada).
         
            
-6.  En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos utilizados       en el diagrama).
+  -  En la pestaña "Documentación" se genera una visión de toda la información del flujo (diagrama, descripción de elementos utilizados       en el diagrama).
     
 !!! Abstract "NOTA"
     
