@@ -2,23 +2,24 @@ Title: Overview
 
 # Overview
 
+Apresentação
+-----------
+
 Fluxos são representações visuais de algo que se move continuamente.
-A funcionalidade de Manutenção de Fluxos tem a finalidade de modelar seus
+A funcionalidade de Fluxos tem a finalidade de modelar seus
 objetivos de negócio, descrevendo os passos que precisam ser executados para
 atingir esses objetivos através de um fluxograma.
 
-Procedimento
-------------
+A funcionalidade
+---------------
 
-1.  Acessar o menu principal Workflow \> Desenho de fluxo;
+1.  Na tela inicial da funcionalidade, as seguintes atividades estão
+    disponibilizadas assim:
 
-2.  É apresentada a tela inicial da funcionalidade. A seguintes atividades estão
-    disponibilizadas aqui:
-
-    -  Podemos buscar os fluxos previamente cadastradas ao clicar em “Filtros
+    -  Os fluxos podem ser buscados previamente cadastrados, ao clicar em “Filtros
         avançados” e preencher os dados;
 
-    -  No botão “Editar” poderá existir várias versões do mesmo fluxo;
+    -  No botão “Editar” poderão existir várias versões do mesmo fluxo;
 
     !!! Abstract "NOTA"
 
@@ -38,9 +39,9 @@ Procedimento
     apresentadas as informações do fluxo em três abas: “Dados do fluxo”,
     “Diagrama” e “Documentação”. Cada qual tem a seguinte função:
 
-    -   Na aba “Dados do fluxo”, será exposto os dados com as informações do fluxo,
-        tais como: o seu nome, o processo a que está vinculado (O fluxo estará
-        visível apenas para o processo a que está vinculado), sua versão, a
+    -   Na aba **Dados do fluxo**, serão expostos dados com as informações do fluxo,
+        tais como: o nome, o processo a que está vinculado (O fluxo estará
+        visível apenas para o processo a que está vinculado), versão, a
         descrição do fluxo e a opção para permitir a reabertura de um serviço
         independentemente das configurações de grupo.
 
@@ -50,12 +51,12 @@ Procedimento
         cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não         é necessário utilizar a ação "reopen" na permissão do fluxo.
 
     -   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
-        desta tela encontra-se a organização dos elementos que compõe a
-        funcionalidade de fluxo. Ao clicar em cada um destes elementos, estará
+        desta tela encontra-se a organização dos elementos que compõem a
+        funcionalidade. Ao clicar em cada um destes elementos, estará
         acessível cada atividade realizada por este elementos, que são:
 
         -   **Eventos:** são os elementos de eventos que podem ser utilizados no
-            desenho do fluxo. São eles:
+            desenho do fluxo:
 
             -   Evento Início;
 
@@ -74,7 +75,7 @@ Procedimento
             -   Evento de Fim
 
         -   **Atividades**: são os elementos de atividades que podem ser utilizados
-            no desenho do fluxo. São eles:
+            no desenho do fluxo:
 
             -   Tarefa de Usuário
 
@@ -91,7 +92,7 @@ Procedimento
             -   Subprocesso
 
         -   **Extensões**: são as extensões que podem ser utilizadas no desenho do
-            fluxo. São elas:
+            fluxo:
 
             -   Comunicação REST
 
@@ -102,7 +103,7 @@ Procedimento
             -   Conversação Watson
 
         -   **Gateways**: são os elementos de gateway que podem ser utilizados no
-            desenho do fluxo. São eles:
+            desenho do fluxo:
 
             -   Gateway Inclusivo
 
@@ -115,25 +116,25 @@ Procedimento
             -   Gateway Baseado em Evento
 
         -   **Swimianes:** são os elementos de swimianes que podem ser utilizados no
-            desenho do fluxo. São eles:
+            desenho do fluxo:
 
             -   Pool/Participante
 
             -   Lane
 
-        -   **Artefato**: é o elemento de artefato que podem ser utilizados no
-            desenho do fluxo. São eles:
+        -   **Artefato**: é o elemento de artefato que pode ser utilizado no
+            desenho do fluxo:
 
             -   Anotação de Texto
 
     -   Nesta aba, também é permitido ao clicar no botão “Gerar Documentação” a
         exportação em PDF das informações geradas na aba “Documentação”. Além
-        disso, ao clicar em “Gravar”, podemos escolher a forma deste
+        disso, ao clicar em “Gravar”, pode-se escolher a forma deste
         armazenamento (“Como nova versão” que significa versionar e gerar uma
         nova visão do fluxo ou “Na versão original” que significa salvar o fluxo
         na versão atual, a que está sendo editada).
 
-    -   Na aba “Documentação” é gerada uma visão de todo as informações do fluxo
+    -   Na aba “Documentação” é gerada uma visão de todas as informações do fluxo
         (diagrama, descrição de elementos utilizados no diagrama).
 
 !!! Abstract "NOTA"
@@ -147,7 +148,7 @@ Procedimento
     arquitetura IBM BlueMIX, possibilitando assim acesso à API Conversation do Watson;
 
     - para excluir um elemento que foi inserido no desenho do fluxo, clicar no
-    mesmo e pressionar as teclas Ctrl+Delete.
+    mesmo e pressionar as teclas *Ctrl+Delete*.
 
 Diagrama de um fluxo de trabalho
 -------------------------------------
@@ -174,3 +175,23 @@ Diagrama de um fluxo de trabalho
 
 -   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
     neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).
+    
+Uso
+---
+
+[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
+
+[Modelagem de processo](/pt-br/citsmart-platform-8/workflow/use/modeling.html)
+
+
+Configuração
+----------
+
+[Expressões](/pt-br/citsmart-platform-8/workflow/configuration/expressions.html)
+
+[Construir expressões](/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html)
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/18/2019 - Anna Martins
