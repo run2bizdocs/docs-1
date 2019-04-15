@@ -1,6 +1,6 @@
-Title: Modelando
+Title: Modelagem de processo
 
-# Modelando
+# Modelagem de processo
 
 A modelagem de fluxo de trabalho compreende as atividades de entendimento e desenho dos processos, que pode ser realizado utilizando metodologias e melhores práticas de trabalho, como por exemplo o BPMN. 
 
