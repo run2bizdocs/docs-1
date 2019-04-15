@@ -1,15 +1,15 @@
-title: Manual de utilização do aplicativo CITSmart Field Service (FS)
-Description: O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
-#Manual de utilização do aplicativo CITSmart Field Service (FS)
+title: Manual de utilização do aplicativo CITSmart GO
+Description: O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
+#Manual de utilização do aplicativo CITSmart GO
 
-O objetivo do aplicativo CITSmart FS é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
+O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
 
 Antes de começar 
 -----------------
 
 1.  Ter configurado o aplicativo na instância ITSM;
 
-2.  Instalar o aplicativo CITSmart FS (Android e iOS);
+2.  Instalar o aplicativo CITSmart GO (Android e iOS);
 
 3.  É necessário delegar tarefas ao técnico no site CITSmart para que o mesmo as
     possa atender em campo no modo offline.
@@ -19,7 +19,7 @@ Procedimento
 
 !!! Abstract "ATENÇÃO"
 
-    Ao logar no aplicativo CITSmart FS, a primeira sincronização pode demorar
+    Ao logar no aplicativo CITSmart GO, a primeira sincronização pode demorar
     alguns instantes, pois para funcionar offline tem que baixar todas as
     solicitações e enviar as que tiveram mudanças para que o aplicativo funcione
     corretamente.
@@ -38,12 +38,12 @@ Procedimento
     
     !!! Abstract "ATENÇÃO"
         
-        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile FS. Estes formulários não poderão           ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart SM.
+        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão           ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart Experience.
 
     
     !!! Abstract "REGRA"
   
-        Não é possível vincular uma IC e base de conhecimento pelo mobile FS.    
+        Não é possível vincular uma IC e base de conhecimento pelo mobile GO.    
     
 4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 
@@ -69,7 +69,7 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar instância para uso do aplicativo CITSmart FS](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configurar instância para uso do aplicativo CITSmart GO](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Obter assinatura em atendimento de campo](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
