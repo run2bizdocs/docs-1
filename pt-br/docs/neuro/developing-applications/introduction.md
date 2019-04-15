@@ -46,14 +46,14 @@ A etapa de configuração nos preparará para desenvolver a aplicação:
 
 2.  Criar FORMULÁRIOS relacionados ao seu Negócio.
 
-## Conexão SM
+## Conexão Experience
 
 
 Depois de ter criado seus Objetos de Negócio e Formulários, você poderá:
 
 1.  VINCULAR O FORMULÁRIO A UM SERVIÇO como necessário, ou
 
-2.  VINCULAR O FORMULÁRIO AO MENU SM OU A UM CENTRO DE EXPERIÊNCIA, isso fará com que você consiga manter tabelas e dados adicionais que não serão usados na abertura de um ticket.
+2.  VINCULAR O FORMULÁRIO AO MENU EXPERIENCE OU A UM CENTRO DE EXPERIÊNCIA, isso fará com que você consiga manter tabelas e dados adicionais que não serão usados na abertura de um ticket.
 
 
 
