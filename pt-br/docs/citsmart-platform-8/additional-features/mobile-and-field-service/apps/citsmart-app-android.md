@@ -1,11 +1,11 @@
-title: Manual de utilização do aplicativo mobile CITSmart SM (Android)
-Description: Fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo CITSmart SM Mobile.
-#Manual de utilização do aplicativo mobile CITSmart SM (Android)
+title: Manual de utilização do aplicativo mobile CITSmart Experience (Android)
+Description: Fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo CITSmart Experience.
+#Manual de utilização do aplicativo mobile CITSmart Experience (Android)
 
 Este documento tem o propósito de fornecer orientações necessárias para
-instalar, configurar e utilizar o aplicativo CITSmart SM Mobile.
+instalar, configurar e utilizar o aplicativo CITSmart Experience.
 
-O CITSmart SM Mobile oferece vários recursos, sendo:
+O CITSmart Experience oferece vários recursos, sendo:
 
 1.  Facilidade no atendimento e ter um direcionamento de onde a solicitação está
     localizada;
@@ -42,21 +42,21 @@ Antes de começar
 ----------------
 
 1.  É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart
-    SM mobile e também Configurar o servidor para uso do aplicativo
-    mobile CITSmart SM mobile (ver Relacionados).
+    Experience e também Configurar o servidor para uso do aplicativo
+    mobile CITSmart Experience (ver Relacionados).
 
 Instalação e configuração do app no celular (smartphone)
 ---------------------------------------------------------
 
-Para instalar o CITSmart SM mobile, deve ser realizada a busca do
+Para instalar o CITSmart Experience, deve ser realizada a busca do
 aplicativo na loja on-line (Google Play).
 
-1.  Pesquise por CITSmart SM e após a pesquisa, selecione o aplicativo;
+1.  Pesquise por CITSmart Experience e após a pesquisa, selecione o aplicativo;
 
 2.  Pressione o botão "Instalar" para baixar o aplicativo;
 
 3.  Após a instalação aparecerá em seus aplicativos o ícone do CITSmart
-    SM mobile;
+    Experience;
 
 4.  Para criar uma conexão, pressione o ícone com formato de chave, localizado
     no canto direito superior da tela;
@@ -246,8 +246,8 @@ realizar demais ações, que serão explicadas adiante.
 
     !!! Abstract "ATENÇÃO"
 
-        A solicitação registrada pelo CITSmart SM Mobile utiliza serviços
-        que são configurados no CITSmart SM Web.  
+        A solicitação registrada pelo CITSmart Experience utiliza serviços
+        que são configurados no CITSmart Experience Web.  
 
 3.  Informe a descrição da solicitação de serviço e pressione o
     botão "Enviar" para efetuar a operação;
@@ -323,7 +323,7 @@ localização da mesma.
        -   Selecione o contrato e a unidade. Feito isso, pressione o botão "Obter
            Coordenadas" para efetuar a operação;
 
-       -   Será enviado sua latitude e longitude ao servidor (CITSmart SM Web).
+       -   Será enviado sua latitude e longitude ao servidor (CITSmart Experience Web).
 
 ##### Atendendo solicitação de serviço
 
@@ -435,7 +435,7 @@ localização da mesma.
 
 ##### Notificações
 
-O aplicativo CITSmart SM mobile fica rodando em background no celular,
+O aplicativo CITSmart Experience fica rodando em background no celular,
 através disso, você recebe automaticamente notificações que são passiveis de
 ação.
 
