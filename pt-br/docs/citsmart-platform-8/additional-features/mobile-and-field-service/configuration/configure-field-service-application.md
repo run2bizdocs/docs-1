@@ -1,13 +1,13 @@
-title: Configurar instância para uso do aplicativo CITSmart FS
-Description: O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline
-# Configurar instância para uso do aplicativo CITSmart FS
-O aplicativo CITSmart FS possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
+title: Configurar instância para uso do aplicativo CITSmart GO
+Description: O aplicativo CITSmart GO possibilita a realização de atendimentos em modo offline
+# Configurar instância para uso do aplicativo CITSmart GO
+O aplicativo CITSmart GO possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
  O atendente visualizará apenas solicitações que foram delegadas a ele.
 
 Antes de começar
 ----------------
 
-1.  Instalar o aplicativo CITSmart FS;
+1.  Instalar o aplicativo CITSmart GO;
 
 2.  No ambiente - instância do CITSmart -, configurar as seguintes
     funcionalidades:
@@ -67,13 +67,13 @@ Procedimento
 O que fazer a seguir
 --------------------
 
-Logar no aplicativo CITSmart FS já instalado, inserindo a URL, usuário e a senha
+Logar no aplicativo CITSmart GO já instalado, inserindo a URL, usuário e a senha
 do ambiente. Verificar os tickets e realizar atendimento.
 
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart GO](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
