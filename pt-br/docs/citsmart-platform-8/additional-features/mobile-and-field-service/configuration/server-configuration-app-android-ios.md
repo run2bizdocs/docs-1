@@ -24,17 +24,17 @@ Configurando os web services
 A configuração dos Web services são fundamentais para o acesso a todas as
 funcionalidades do aplicativo. Siga os passos para melhor configurá-lo:
 
-1.  No CITSmart SM (Web), acesse a funcionalidade de Web Services
+1.  No CITSmart Experience (Web), acesse a funcionalidade de Web Services
     referente ao mobile (Sistema > Configurações > Web Services Citsmart
     Mobile);
 
 2.  Clique na aba “Vincular Grupos” e vincule o grupo executor de atividades aos
-    Web Services do CITSmart SM Mobile.
+    Web Services do CITSmart Experience Mobile.
 
 !!! Abstract "Regra"
 
     No momento que o grupo for selecionado ele será vinculado a todos os Web
-    Services do CITSmart SM de forma automatizada.
+    Services do CITSmart Experience de forma automatizada.
 
 Instalação do certificado intermediário globalsign
 --------------------------------------------------
@@ -70,9 +70,9 @@ abaixo:
 ### Instalação do app Android
 
 1.  Acesse o Google Play (Play Store) para abaixar o aplicativo CITSmart
-    SM mobile;
+    Experience mobile;
 
-2.  Pesquise por CITSmart SM e após a pesquisa, selecione o aplicativo;
+2.  Pesquise por CITSmart Experience e após a pesquisa, selecione o aplicativo;
 
 3.  Pressione o botão "Instalar" para baixar o aplicativo.
 
@@ -196,9 +196,9 @@ Relacionado
 
 [Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de utilização do aplicativo mobile CITSmart SM (Android)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de utilização do aplicativo mobile CITSmart Experience (Android)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual de utilização do aplicativo mobile CITSmart SM (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de utilização do aplicativo mobile CITSmart Experience (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar as opções de mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
