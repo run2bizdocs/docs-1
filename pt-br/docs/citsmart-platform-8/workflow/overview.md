@@ -137,13 +137,13 @@ Figura 3 - Diagrama
 
 Figura 4 - Botões aba Documentação
 
- - 1: Gravar:  
+ - **1: Gravar:**  
  
      •	Como nova versão: grava o desenho do fluxo como uma nova versão
 
      •	Na versão original: grava o desenho do fluxo na versão original, ou seja, a 1.0 – versão em desenho
 
- - 2: Gerar Documentação: permite a exportação das informações do fluxo no formato PDF
+ - **2: Gerar Documentação:** permite a exportação das informações do fluxo no formato PDF
 
 
 Uso
