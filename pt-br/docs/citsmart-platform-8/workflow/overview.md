@@ -5,177 +5,146 @@ Title: Workflow
 Apresentação
 -----------
 
-Fluxos são representações visuais de algo que se move continuamente.
-A funcionalidade de Fluxos tem a finalidade de modelar seus
-objetivos de negócio, descrevendo os passos que precisam ser executados para
-atingir esses objetivos através de um fluxograma.
+Fluxos são representações visuais de algo que se move continuamente. A funcionalidade de Fluxos tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
 
-A funcionalidade
----------------
+## Interface
 
-1.  Na tela inicial da funcionalidade, as seguintes atividades estão
-    disponibilizadas assim:
+### Tela inicial
 
-    -  Os fluxos podem ser buscados previamente cadastrados, ao clicar em “Filtros
-        avançados” e preencher os dados;
+[tela inicial](images/workflow-1.png)
 
-    -  No botão “Editar” poderão existir várias versões do mesmo fluxo;
-
-    !!! Abstract "NOTA"
-
-        O versionamento tem por objetivo preservar o estado do fluxo de trabalho que
-        está vinculado a algum serviço, evitando alterações em fluxo produtivo.  
-        
-     -  A opção “Exportar” permite a exportação do fluxo no formato JSON;
-
-     -  Em “Excluir” é possível remover os fluxos.
-
-    !!! Abstract "NOTA"
-
-        A exclusão só será possível se não houver nenhum serviço vinculado ao fluxo
-        a ser removido.  
-        
-3.  Ao clicar em “Editar” e selecionar qualquer versão do fluxo serão
-    apresentadas as informações do fluxo em três abas: “Dados do fluxo”,
-    “Diagrama” e “Documentação”. Cada qual tem a seguinte função:
-
-    -   Na aba **Dados do fluxo**, serão expostos dados com as informações do fluxo,
-        tais como: o nome, o processo a que está vinculado (O fluxo estará
-        visível apenas para o processo a que está vinculado), versão, a
-        descrição do fluxo e a opção para permitir a reabertura de um serviço
-        independentemente das configurações de grupo.
-
-    !!! tip "DICA"
-
-        A opção de reabertura no fluxo pode ser útil em
-        cenários em que existem muitos serviços onde a reabertura é permitida, sendo assim, ao marcar a opção "permitir reaberutra" não         é necessário utilizar a ação "reopen" na permissão do fluxo.
-
-    -   A aba “Diagrama” representa uma ferramenta de design de fluxo. No lado esquerdo
-        desta tela encontra-se a organização dos elementos que compõem a
-        funcionalidade. Ao clicar em cada um destes elementos, estará
-        acessível cada atividade realizada por este elementos, que são:
-
-        -   **Eventos:** são os elementos de eventos que podem ser utilizados no
-            desenho do fluxo:
-
-            -   Evento Início
-
-            -   Evento Intermediário de Envio de Link
-
-            -   Evento Intermediário de Captura de Link
-
-            -   Evento Intermediário de Temporizador
-
-            -   Boundary - Evento Intermediário de Captura de Erro
-
-            -   Evento Intermediário de Captura de Sinal
-
-            -   Evento de Finalização com Erro
-
-            -   Evento de Fim
-
-        -   **Atividades**: são os elementos de atividades que podem ser utilizados
-            no desenho do fluxo:
-
-            -   Tarefa de Usuário
-
-            -   Tarefa Script
-
-            -   Envio de Mensagem – E-mail
-
-            -   Business Rule Task
-
-            -   Tarefa de Serviço – ESI
-
-            -   Armazenamento de Dados
-
-            -   Subprocesso
-
-        -   **Extensões**: são as extensões que podem ser utilizadas no desenho do
-            fluxo:
-
-            -   Comunicação REST
-
-            -   Notificação
-
-            -   Atribuição de Variável
-
-            -   Conversação Watson
-
-        -   **Gateways**: são os elementos de gateway que podem ser utilizados no
-            desenho do fluxo:
-
-            -   Gateway Inclusivo
-
-            -   Gateway Paralelo
-
-            -   Gateway Exclusivo
-
-            -   Gateway Complexo
-
-            -   Gateway Baseado em Evento
-
-        -   **Swimianes:** são os elementos de swimianes que podem ser utilizados no
-            desenho do fluxo:
-
-            -   Pool/Participante
-
-            -   Lane
-
-        -   **Artefato**: é o elemento de artefato que pode ser utilizado no
-            desenho do fluxo:
-
-            -   Anotação de Texto
-
-    -   Nesta aba, também é permitido ao clicar no botão “Gerar Documentação” a
-        exportação em PDF das informações geradas na aba “Documentação”. Além
-        disso, ao clicar em “Gravar”, pode-se escolher a forma deste
-        armazenamento (“Como nova versão” que significa versionar e gerar uma
-        nova visão do fluxo ou “Na versão original” que significa salvar o fluxo
-        na versão atual, a que está sendo editada).
-
-    -   Na aba “Documentação” é gerada uma visão de todas as informações do fluxo
-        (diagrama, descrição de elementos utilizados no diagrama).
-
-!!! Abstract "NOTA"
-
-    Vale lembrar que:
-
-    - as normativas configuradas no fluxo terão prioridade em relação às
-    marcações do template de solicitação de serviço, pois esta é um complemento do fluxo;
-
-    - para usar o componente "Conversação Watson" a organização deve possuir a
-    arquitetura IBM BlueMIX, possibilitando assim acesso à API Conversation do Watson;
-
-    - para excluir um elemento que foi inserido no desenho do fluxo, clicar no
-    mesmo e pressionar as teclas *Ctrl+Delete*.
-
-Diagrama de um fluxo de trabalho
--------------------------------------
-
-![Diagrama do Fluxo](images/flow-diagram.png)
+Figura 1 - Tela inicial
 
 
--   1 – Representa o inicio do fluxo de trabalho;
+ - 1: Campo de busca - busca um fluxo pelo nome ou parte dele
 
--   2 – Representa uma tarefa do usuário a ser realizada no fluxo (que neste
-    caso significa ‘receber a tarefa’);
+ - 2: Novo - clicar para desenhar novo fluxo
+ 
+ - 3: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
+ 
+ - 4:Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
+ 
+ - 5:Exportar - gera documento em formato JSON
+ 
+ - 6:Excluir - clicar para remover um fluxo
 
--   3 – Representa a segunda tarefa do usuário a ser executada no fluxo (que
-    neste caso significa ‘aprovação ou rejeição da tarefa’);
+### Aba Fluxo
 
--   4 – Representa o “Gateway exclusivo” (que representa uma condição de fluxo
-    exclusiva, em que um dos caminhos criados a partir do Gateway será seguido,
-    de acordo com uma informação a ser testada. Este gateway pode ser
-    representado visualmente como o losango vazio ou com um marcador de “x”) do
-    fluxo;
-	
--   5 – Representa o evento final do fluxo de trabalho (que neste caso significa
-    a conclusão de execução da tarefa ou a rejeição da tarefa);	
+[tela inicial](images/workflow-2.png)
 
--   6 – Representa a terceira tarefa do usuário a ser desempenhada no fluxo (que
-    neste caso significa ‘executar a tarefa’, se a mesma tiver sido aprovada).
-    
+Figura 2 - Dados do fluxo
+
+Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
+
+  - 1: Dados básicos para cadastro de um fluxo
+  
+  - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+
+
+### Aba Diagrama
+
+[tela inicial](images/workflow-3.png)
+
+Figura 3 - Diagrama
+
+  - 1: Elementos para desenho de fluxo:
+  
+Eventos: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+
+    • Evento Início
+
+    • Evento Intermediário de Envio de Link
+
+    • Evento Intermediário de Captura de Link
+
+    • Evento Intermediário de Temporizador
+
+    • Boundary - Evento Intermediário de Captura de Erro
+
+    • Evento Intermediário de Captura de Sinal
+
+    • Evento de Finalização com Erro
+
+    • Evento de Fim
+
+
+Atividades: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+
+    • Tarefa de Usuário
+
+    • Tarefa Script
+
+    • Envio de Mensagem – E-mail
+
+    • Business Rule Task
+
+    • Tarefa de Serviço – ESI
+
+    • Armazenamento de Dados
+
+    • Subprocesso
+
+Extensões: são as extensões que podem ser utilizadas no desenho do fluxo:
+
+    • Comunicação REST
+
+    • Notificação
+
+    • Atribuição de Variável
+
+    • Conversação Watson
+
+Gateways: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
+
+    • Gateway Inclusivo
+
+    • Gateway Paralelo
+
+    • Gateway Exclusivo
+
+    • Gateway Complexo
+
+    • Gateway Baseado em Evento
+
+Swimianes: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
+
+    • Pool/Participante
+
+    • Lane
+
+Artefato: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
+
+    • Anotação de Texto
+
+ - 2: Campo de modelagem – espaço para desenho de fluxo de trabalho
+ 
+ - 3: Importar - é possível importar um fluxo já existente, nos formatos JSON e XML
+
+ - 4: Limpar – limpa o desenho de fluxo elaborado
+
+### Aba Documentação
+
+- Visualização do desenho gerado na aba Diagrama
+
+- Descrição dos elementos utilizados no fluxo de trabalho gerado
+
+- Visualização dos documentos vinculados ao fluxo
+
+### Botões
+
+[tela inicial](images/workflow-4.png)
+
+Figura 4 - Botões aba Documentação
+
+ - 1: Gravar:  
+ 
+     •	Como nova versão: grava o desenho do fluxo como uma nova versão
+
+     •	Na versão original: grava o desenho do fluxo na versão original, ou seja, a 1.0 – versão em desenho
+
+ - 2: Gerar Documentação: permite a exportação das informações do fluxo no formato PDF
+
+
 Uso
 ---
 
