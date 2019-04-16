@@ -153,11 +153,11 @@ Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a ca
 
 A experiência de mobilidade vai além com os recursos de assinatura e notas.
 
-Para mais informações, veja [Manual de utilização do aplicativo CITSmart Field Service (FS)][20]
+Para mais informações, veja [Manual de utilização do aplicativo CITSmart GO][20]
 
 Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas.
 
-Para mais informações, veja [Manual de utilização do palicativo mobile CITSmart SM(Android)][21]
+Para mais informações, veja [Manual de utilização do palicativo mobile CITSmart Experience (Android)][21]
 
 ### Neuro
 
