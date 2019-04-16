@@ -83,8 +83,8 @@ Figura 3 - Diagrama
    • Armazenamento de Dados
 
    • Subprocesso
-
-    **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
+   
+   **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
 
    • Comunicação REST
 
@@ -105,8 +105,8 @@ Figura 3 - Diagrama
    • Gateway Complexo
 
    • Gateway Baseado em Evento
-
-    **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
+   
+   **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
 
    • Pool/Participante
 
