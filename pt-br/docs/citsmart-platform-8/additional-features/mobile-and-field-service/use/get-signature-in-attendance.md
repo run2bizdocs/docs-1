@@ -2,7 +2,7 @@ title: Obter assinatura em atendimento de campo
 Description:Este documento tem por objetivo explanar sobre a configuração do CITSmat mobile para recebimento de assinatura digital em atendimento em campo.
 # Obter assinatura em atendimento de campo
 
-Este documento tem por objetivo explanar sobre a configuração do aplicativo CITSmart (FS e SM)
+Este documento tem por objetivo explanar sobre a configuração do aplicativo CITSmart (GO e Experience)
 para que o técnico receba a assinatura digital de um validador em atendimento de
 campo.
 
@@ -56,15 +56,15 @@ Procedimento
 Relacionado
 ----------
 
-[Manual de utilização do aplicativo mobile CITSmart SM (Android)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de utilização do aplicativo mobile CITSmart Experience (Android)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual de utilização do aplicativo mobile CITSmart SM (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de utilização do aplicativo mobile CITSmart Experience (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar as opções de mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 [Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo CITSmart GO](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"
