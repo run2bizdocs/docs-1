@@ -117,11 +117,11 @@ Figura 3 - Diagrama
    • Anotação de Texto
    
 
- - 2: **Campo de modelagem** – espaço para desenho de fluxo de trabalho
+ - **2: Campo de modelagem** – espaço para desenho de fluxo de trabalho
  
- - 3: **Importar** - é possível importar um fluxo já existente, nos formatos JSON e XML
+ - **3: Importar** - é possível importar um fluxo já existente, nos formatos JSON e XML
 
- - 4: **Limpar** – limpa o desenho de fluxo elaborado
+ - **4: Limpar** – limpa o desenho de fluxo elaborado
 
 ### Aba Documentação
 
