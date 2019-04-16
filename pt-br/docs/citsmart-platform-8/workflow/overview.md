@@ -11,7 +11,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 ### Tela inicial
 
-[tela inicial](images/workflow-1.png)
+![tela inicial](images/workflow-1.png)
 
 Figura 1 - Tela inicial
 
@@ -30,91 +30,94 @@ Figura 1 - Tela inicial
 
 ### Aba Fluxo
 
-[tela inicial](images/workflow-2.png)
+Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
+
+![tela inicial](images/workflow-2.png)
 
 Figura 2 - Dados do fluxo
 
-Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
 
-  - 1: Dados básicos para cadastro de um fluxo
+ - 1: Dados básicos para cadastro de um fluxo
   
-  - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+ - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
 
 
 ### Aba Diagrama
 
-[tela inicial](images/workflow-3.png)
+![tela inicial](images/workflow-3.png)
 
 Figura 3 - Diagrama
 
-  - 1: Elementos para desenho de fluxo:
+- 1 : Elementos para desenho de fluxo:
   
-Eventos: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+    **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
-    • Evento Início
+  • Evento Início
 
-    • Evento Intermediário de Envio de Link
+  • Evento Intermediário de Envio de Link
 
-    • Evento Intermediário de Captura de Link
+  • Evento Intermediário de Captura de Link
 
-    • Evento Intermediário de Temporizador
+  • Evento Intermediário de Temporizador
 
-    • Boundary - Evento Intermediário de Captura de Erro
+  • Boundary - Evento Intermediário de Captura de Erro
 
-    • Evento Intermediário de Captura de Sinal
+  • Evento Intermediário de Captura de Sinal
 
-    • Evento de Finalização com Erro
+  • Evento de Finalização com Erro
 
-    • Evento de Fim
+  • Evento de Fim
 
 
-Atividades: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+    **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
 
-    • Tarefa de Usuário
+   • Tarefa de Usuário
 
-    • Tarefa Script
+   • Tarefa Script
 
-    • Envio de Mensagem – E-mail
+   • Envio de Mensagem – E-mail
 
-    • Business Rule Task
+   • Business Rule Task
 
-    • Tarefa de Serviço – ESI
+   • Tarefa de Serviço – ESI
 
-    • Armazenamento de Dados
+   • Armazenamento de Dados
 
-    • Subprocesso
+   • Subprocesso
 
-Extensões: são as extensões que podem ser utilizadas no desenho do fluxo:
+    **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
 
-    • Comunicação REST
+   • Comunicação REST
 
-    • Notificação
+   • Notificação
 
-    • Atribuição de Variável
+   • Atribuição de Variável
 
-    • Conversação Watson
+   • Conversação Watson
 
-Gateways: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
+    **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
 
-    • Gateway Inclusivo
+   • Gateway Inclusivo
 
-    • Gateway Paralelo
+   • Gateway Paralelo
 
-    • Gateway Exclusivo
+   • Gateway Exclusivo
 
-    • Gateway Complexo
+   • Gateway Complexo
 
-    • Gateway Baseado em Evento
+   • Gateway Baseado em Evento
 
-Swimianes: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
+    **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
 
-    • Pool/Participante
+   • Pool/Participante
 
-    • Lane
+   • Lane
 
-Artefato: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
-    • Anotação de Texto
+    **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
+
+   • Anotação de Texto
+   
 
  - 2: Campo de modelagem – espaço para desenho de fluxo de trabalho
  
@@ -124,15 +127,15 @@ Artefato: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
 ### Aba Documentação
 
-- Visualização do desenho gerado na aba Diagrama
+ - Visualização do desenho gerado na aba Diagrama
 
-- Descrição dos elementos utilizados no fluxo de trabalho gerado
+ - Descrição dos elementos utilizados no fluxo de trabalho gerado
 
-- Visualização dos documentos vinculados ao fluxo
+ - Visualização dos documentos vinculados ao fluxo
 
 ### Botões
 
-[tela inicial](images/workflow-4.png)
+![tela inicial](images/workflow-4.png)
 
 Figura 4 - Botões aba Documentação
 

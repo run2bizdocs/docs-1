@@ -36,7 +36,7 @@ Title: Comparativo V.7 vs V.8
 |    [Portal do Conhecimento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards e Relatórios Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Apliacação CITSmart][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Mobile e GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile e CITSmart GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Gerenciamento de Contrato                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Projeto                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Gestão de Fluxo de trabalho][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -104,7 +104,7 @@ A versão 8 apresenta um Portal de Conhecimento mais inclusivo e com pesquisas m
 ### Aplicação CITSmart Neuro
 Nesta atualização, a engine de aplicativos Neuro foi aprimorada de modo a possibilitar a geração diversos recursos como a criação de formulários complexos, criação de widgets, construção de fluxos avançados, dentre outros.
 
-### Mobile e GO
+### Mobile e CITSmart GO
 A CITSmart sempre conectada com as necessidades de seus clientes, lança um novo aplicativo chamado “CITSmart GO” que permite a gestão de atendimentos realizados por técnicos em campo no modo offline, permitindo que cliente realize seus trabalhos de forma ininterrupta.
 
 ### Gestão de fluxo de trabalho

@@ -262,7 +262,7 @@ Na Revisão e fechamento da mudança, além de informar se a mudança foi realiz
 
 Saiba mais sobre [Gerenciamento de Mudança][5]
 
-### Gerenciamento de Liberação e Implantação
+## Gerenciamento de Liberação e Implantação
 
 O processo de Gerenciamento de Liberação e Implantação também passou por evoluções. O painel de listagem segue o mesmo padrão apresentado nos processos de Gerenciamento de Problema e de Mudança.
 
@@ -276,7 +276,7 @@ No menu lateral foi estruturado uma sequência de passos para facilitar o acompa
 
 ![c-Painel de planejamento e implantação](images/deployment-planning-panel.png)
 
-### Business Intelligence
+## Business Intelligence
 
 Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o uso da estrutura de BI do Saiku Community para análise de dados de Tickets, Mudanças, Releases etc **(a.)**, são disponibilizadas várias visões de gráficos e tabelas, com a possibilidade de filtros e exportação para csv e pdf **(b.)**.
 
@@ -308,9 +308,9 @@ Nesta opção de auditoria informa as licenças utilizadas para a validação do
 
 ![Auditoria de Chave](images/key-audit.png)
 
-### App Mobile GO
+## App CITSmart GO
 
-O App GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
+O App CITSmart GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
 
 ![App FS](images/62-app-fs.png)
 
@@ -332,9 +332,9 @@ O App GO foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 Saiba mais sobre [CITSmart GO][7]
 
-### App Experience
+## App CITSmart Experience
 
-O App Mobile Experience foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
+O App CITSmart Experience foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
 
 Saiba mais sobre [Mobile CITSmart Experience][8]
 
