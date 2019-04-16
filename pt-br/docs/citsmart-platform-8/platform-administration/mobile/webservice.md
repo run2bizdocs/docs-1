@@ -8,9 +8,9 @@ A funcionalidade Mobile foi desenvolvida para permitir maior autonomia no gerenc
 Relacionado
 ----------
 
-[Configurar instância para uso do aplicativo CITSmart FS][1]
+[Configurar instância para uso do aplicativo CITSmart GO][1]
 
-[Manual de utilização do aplicativo CITSmart Field Service (FS)][2]
+[Manual de utilização do aplicativo CITSmart GO][2]
 
 [Configurar as opções de mobile][3]
 
