@@ -13,8 +13,6 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 ![tela inicial](images/workflow-1.png)
 
-    Figura 2 - Tela de conexões
-
 Figura 1 - Tela inicial
 
 
