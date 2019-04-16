@@ -52,21 +52,21 @@ Figura 3 - Diagrama
   
     **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
-   • Evento Início
+  • Evento Início
 
-   • Evento Intermediário de Envio de Link
+  • Evento Intermediário de Envio de Link
 
-   • Evento Intermediário de Captura de Link
+  • Evento Intermediário de Captura de Link
 
-   • Evento Intermediário de Temporizador
+  • Evento Intermediário de Temporizador
 
-   • Boundary - Evento Intermediário de Captura de Erro
+  • Boundary - Evento Intermediário de Captura de Erro
 
-   • Evento Intermediário de Captura de Sinal
+  • Evento Intermediário de Captura de Sinal
 
-   • Evento de Finalização com Erro
+  • Evento de Finalização com Erro
 
-   • Evento de Fim
+  • Evento de Fim
 
 
     **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
@@ -117,6 +117,7 @@ Figura 3 - Diagrama
     **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
    • Anotação de Texto
+   
 
  - 2: Campo de modelagem – espaço para desenho de fluxo de trabalho
  
