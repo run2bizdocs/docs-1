@@ -120,7 +120,7 @@ A Funcionalidade foi totalmente remodelada o que possibilita a criação de form
 Foi desenvolvida para realizar a análise de dados a partir de inteligência cognitiva de modo a otimizar a gestão de processos como Gestão de Ticket, Gestão de Mudança e Gestão de Conhecimento.
 
 ### Smart Analytics
-Permite integração com a ferramenta Saiku o que possibilita análises fantásticas nos dados do CITSmart SM permitindo a criação de dashboards, painéis re relatórios.
+Permite integração com a ferramenta Saiku o que possibilita análises fantásticas nos dados do CITSmart Experience permitindo a criação de dashboards, painéis re relatórios.
 
 ### IBM Watson
 Integração com a solução IBM Watson o que permite o uso de inteligência cognitiva nos fluxos de trabalho do CITSmart.
