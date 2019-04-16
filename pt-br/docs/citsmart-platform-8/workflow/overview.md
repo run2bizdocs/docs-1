@@ -36,9 +36,9 @@ Figura 2 - Dados do fluxo
 
 Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
 
-  - 1: Dados básicos para cadastro de um fluxo
+ - 1: Dados básicos para cadastro de um fluxo
   
-  - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+ - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
 
 
 ### Aba Diagrama
@@ -47,7 +47,7 @@ Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo ser�
 
 Figura 3 - Diagrama
 
-  - 1: Elementos para desenho de fluxo:
+ - 1: Elementos para desenho de fluxo:
   
 **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
