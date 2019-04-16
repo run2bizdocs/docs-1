@@ -330,7 +330,7 @@ O App GO foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 ![App FS](images/70-app-fs.png)
 
-Saiba mais sobre [CITSmart GO][8]
+Saiba mais sobre [CITSmart GO][7]
 
 ### App Experience
 
