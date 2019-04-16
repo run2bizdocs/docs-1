@@ -50,7 +50,7 @@ Figura 3 - Diagrama
 
 - 1 : Elementos para desenho de fluxo:
   
-    **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+  **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
   • Evento Início
 
@@ -67,9 +67,8 @@ Figura 3 - Diagrama
   • Evento de Finalização com Erro
 
   • Evento de Fim
-
-
-    **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+  
+  **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
 
    • Tarefa de Usuário
 
@@ -94,8 +93,8 @@ Figura 3 - Diagrama
    • Atribuição de Variável
 
    • Conversação Watson
-
-    **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
+   
+   **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
 
    • Gateway Inclusivo
 
@@ -112,9 +111,8 @@ Figura 3 - Diagrama
    • Pool/Participante
 
    • Lane
-
-
-    **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
+   
+   **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
    • Anotação de Texto
    
