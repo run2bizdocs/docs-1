@@ -16,17 +16,17 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 Figura 1 - Tela inicial
 
 
- - 1: Campo de busca - busca um fluxo pelo nome ou parte dele
+ - 1: Novo - clicar para desenhar novo fluxo
 
- - 2: Novo - clicar para desenhar novo fluxo
+ - 2: Campo de busca - busca um fluxo pelo nome ou parte dele
  
  - 3: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
  
- - 4:Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
+ - 4: Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
  
- - 5:Exportar - gera documento em formato JSON
+ - 5: Exportar - gera documento em formato JSON
  
- - 6:Excluir - clicar para remover um fluxo
+ - 6: Excluir - clicar para remover um fluxo
 
 ### Aba Fluxo
 
