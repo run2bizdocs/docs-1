@@ -47,28 +47,28 @@ Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo ser�
 
 Figura 3 - Diagrama
 
- - 1: Elementos para desenho de fluxo:
+- 1 : Elementos para desenho de fluxo:
   
-**Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+   **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
-   • Evento Início
+     • Evento Início
 
-   • Evento Intermediário de Envio de Link
+     • Evento Intermediário de Envio de Link
 
-   • Evento Intermediário de Captura de Link
+     • Evento Intermediário de Captura de Link
 
-   • Evento Intermediário de Temporizador
+     • Evento Intermediário de Temporizador
 
-   • Boundary - Evento Intermediário de Captura de Erro
+     • Boundary - Evento Intermediário de Captura de Erro
 
-   • Evento Intermediário de Captura de Sinal
+     • Evento Intermediário de Captura de Sinal
 
-   • Evento de Finalização com Erro
+     • Evento de Finalização com Erro
 
-   • Evento de Fim
+     • Evento de Fim
 
 
-**Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+   **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
 
    • Tarefa de Usuário
 
@@ -84,7 +84,7 @@ Figura 3 - Diagrama
 
    • Subprocesso
 
-**Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
+   **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
 
    • Comunicação REST
 
@@ -94,7 +94,7 @@ Figura 3 - Diagrama
 
    • Conversação Watson
 
-**Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
+   **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
 
    • Gateway Inclusivo
 
@@ -106,14 +106,14 @@ Figura 3 - Diagrama
 
    • Gateway Baseado em Evento
 
-**Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
+   **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
 
    • Pool/Participante
 
    • Lane
 
 
-**Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
+   **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
    • Anotação de Texto
 
