@@ -308,9 +308,9 @@ Nesta opção de auditoria informa as licenças utilizadas para a validação do
 
 ![Auditoria de Chave](images/key-audit.png)
 
-### App Mobile Field Service
+### App Mobile GO
 
-O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
+O App GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
 
 ![App FS](images/62-app-fs.png)
 
@@ -330,13 +330,13 @@ O App FS foi criado para dar mais flexibilidade e agilidade em atendimentos real
 
 ![App FS](images/70-app-fs.png)
 
-Saiba mais sobre [CITSmart Field Service][8]
+Saiba mais sobre [CITSmart GO][8]
 
-### App Service Management
+### App Experience
 
-O App Mobile SM foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
+O App Mobile Experience foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
 
-Saiba mais sobre [Mobile CITSmart SM][8]
+Saiba mais sobre [Mobile CITSmart Experience][8]
 
 ![App Mobile SM](images/71-app-mobile-sm.png)
 
