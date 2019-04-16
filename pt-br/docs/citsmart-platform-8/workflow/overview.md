@@ -11,7 +11,9 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 ### Tela inicial
 
-[tela inicial](images/workflow-1.png)
+![tela inicial](images/workflow-1.png)
+
+    Figura 2 - Tela de conexões
 
 Figura 1 - Tela inicial
 
@@ -30,7 +32,7 @@ Figura 1 - Tela inicial
 
 ### Aba Fluxo
 
-[tela inicial](images/workflow-2.png)
+![tela inicial](images/workflow-2.png)
 
 Figura 2 - Dados do fluxo
 
@@ -43,7 +45,7 @@ Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo ser�
 
 ### Aba Diagrama
 
-[tela inicial](images/workflow-3.png)
+![tela inicial](images/workflow-3.png)
 
 Figura 3 - Diagrama
 
@@ -124,15 +126,15 @@ Artefato: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
 
 ### Aba Documentação
 
-- Visualização do desenho gerado na aba Diagrama
+ - Visualização do desenho gerado na aba Diagrama
 
-- Descrição dos elementos utilizados no fluxo de trabalho gerado
+ - Descrição dos elementos utilizados no fluxo de trabalho gerado
 
-- Visualização dos documentos vinculados ao fluxo
+ - Visualização dos documentos vinculados ao fluxo
 
 ### Botões
 
-[tela inicial](images/workflow-4.png)
+![tela inicial](images/workflow-4.png)
 
 Figura 4 - Botões aba Documentação
 
