@@ -48,7 +48,7 @@ Figura 2 - Dados do fluxo
 
 Figura 3 - Diagrama
 
-- 1 : Elementos para desenho de fluxo:
+- **1 : Elementos para desenho de fluxo:**
   
   **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
