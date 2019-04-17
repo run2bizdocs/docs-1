@@ -1,16 +1,16 @@
 title: Distance report by analyst
-Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the SM app.
+Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the CITSmart Experience app.
 #Distance report by analyst
 
 This document is intended to present the configuration to view the report that presents
-the mileage (kilometers) traveled by the attendance analyst that is using the SM app.
+the mileage (kilometers) traveled by the attendance analyst that is using the CITSMart Experience app.
 
 Before getting started
 ----------------
 
 To view the report, it's necessary to import the report available in the section Attachment.
 
-In the CITSmart SM mobile app, the user will set the flag "Available"
+In the CITSmart Experience mobile app, the user will set the flag "Available"
 (APP CITSMART \> Home page \> [Connection] \> Edit \> Available ) to start
 the km counting.
 
