@@ -2,7 +2,7 @@ title: Get signature in field service
 Description: This document aims to explain the configuration of CITSmart mobile to receive digital signature in field service.
 #Get signature in field service
 
-This document aims to explain the configuration of CITSmart mobile (SM and FS) so that the
+This document aims to explain the configuration of CITSmart mobile (Experience and GO) so that the
 technician receives the digital signature of a validator in field service.
 
 Before getting started
@@ -52,9 +52,9 @@ Procedure
 Related
 ------
 
-[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart Experience (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart Experience (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configure mobile options](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
