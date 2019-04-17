@@ -28,7 +28,7 @@ Figura 1 - Tela inicial
  
  - **6**: Excluir - clicar para remover um fluxo
 
-### Aba Fluxo
+### Aba Dados do Fluxo
 
 Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
 
