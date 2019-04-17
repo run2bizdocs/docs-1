@@ -1,10 +1,10 @@
 title: Relatório de distância percorrida por analista
-Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app SM.
+Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app CITSmart Experience.
 #Relatório de distância percorrida por analista
 
 Este documento visa mostrar as configurações para visualizar o relatório que
 demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento
-que esteja utilizando o app SM.
+que esteja utilizando o app CITSmart Experience.
 
 Antes de começar
 ----------------
@@ -12,7 +12,7 @@ Antes de começar
 Para o relatório ser visualizado é necessário importar o relatório
 disponibilizado na seção de Anexo.
 
-No aplicativo mobile CITSmart SM o usuário deverá setar a flag “Disponível”
+No aplicativo mobile CITSmart Experience o usuário deverá setar a flag “Disponível”
 (APP CITSMART \> Página Inicial \> [Conexão] \> Editar \> Disponível ) para
 iniciar a contagem de Km.
 
