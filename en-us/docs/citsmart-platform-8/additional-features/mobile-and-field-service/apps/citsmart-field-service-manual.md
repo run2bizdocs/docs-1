@@ -1,15 +1,15 @@
-title: CITSmart Field Service (FS) application manual
-Description: The purpose of the CITSmart FS application is to make offline technical attendance (when the attendant has no connection).
-#CITSmart Field Service (FS) application manual
+title: CITSmart GO application manual
+Description: The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
+#CITSmart GO application manual
 
-The purpose of the CITSmart FS application is to make offline technical attendance (when the attendant has no connection).
+The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
 
 Before getting started
 --------------------------
 
 1.  Have configured the application in the ITSM instance;
 
-2.  Install the CITSmart FS application in the mobile (Android and iOS);
+2.  Install the CITSmart GO application in the mobile (Android and iOS);
 
 3.  It's necessary to delegate technical tasks in the CITSmart website so it'll
     be possible to field attendance in offline.
@@ -19,7 +19,7 @@ Procedure
 
 !!! Abstract "NOTE"
 
-    When logging into the CITSmart FS application, the first synchronization can take 
+    When logging into the CITSmart GO application, the first synchronization can take 
     a few moments, because to work offline, you have to download all the requests and 
     send the ones that have changed, so that the application works correctly.
 
@@ -35,13 +35,13 @@ Procedure
     
     !!! Abstract "NOTE"
     
-        Only simple components of Neuro, for example, forms, can be rendered in the Mobile FS.
+        Only simple components of Neuro, for example, forms, can be rendered in the Mobile GO.
         These forms cannot have any JavaScript logic linked to them, they should be similar to 
         the existing questionnaire in CITSmart SM.
         
     !!! Abstract "RULE"
     
-        It's not possible to link a CI and a knowledge base through the FS mobile.
+        It's not possible to link a CI and a knowledge base through the GO mobile.
     
 4.  If you want to add some file, click on the tab "Attachments";
 
@@ -67,7 +67,7 @@ Procedure
 Related
 -------------  
 
-[Configure instance to use CITSmart FS application](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configure instance to use CITSmart GO application](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Get signature in field service](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
