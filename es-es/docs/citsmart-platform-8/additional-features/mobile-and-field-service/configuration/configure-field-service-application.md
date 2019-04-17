@@ -1,8 +1,8 @@
-title: Configurar instancia para utilizar la aplicación CITSmart FS
-Description: La aplicación CITSmart FS permite atender en modo offline - en las que el operador no tiene internet.
-#Configurar instancia para utilizar la aplicación CITSmart FS
+title: Configurar instancia para utilizar la aplicación CITSmart GO
+Description: La aplicación CITSmart GO permite atender en modo offline - en las que el operador no tiene internet.
+#Configurar instancia para utilizar la aplicación CITSmart GO
 
-La aplicación CITSmart FS permite atender en modo offline - en las que el
+La aplicación CITSmart GO permite atender en modo offline - en las que el
 operador no tiene internet. Una vez que la aplicación se conecta a Internet,
 enviará automáticamente la información al ambiente en producción. Es importante
 recordar que la delegación de la solicitud a un empleado debe ser hecha
@@ -13,7 +13,7 @@ Los asistentes visualizará sólo las solicitudes que se los delegaron.
 Antes de empezar
 --------------------
 
-1.  Instalar la aplicación CITSmart FS;
+1.  Instalar la aplicación CITSmart GO;
 
 2.  En el ambiente - instancia del CITSmart - , configurar las siguientes
     funcionalidades:
@@ -75,7 +75,7 @@ Procedimiento
 Lo que hacer después
 ----------
 
-Inicie sesión en la aplicación CITSmart FS ya instalada, insertando la dirección
+Inicie sesión en la aplicación CITSmart GO ya instalada, insertando la dirección
 URL, el usuario y la contraseña del ambiente. Comprobar los tickets y hacer la
 atención.
 
@@ -83,7 +83,7 @@ atención.
 Relacionado
 -----------
 
-[Manual de utilización del CITSmart Field Service (FS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilización del CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 !!! tip "About"
 
