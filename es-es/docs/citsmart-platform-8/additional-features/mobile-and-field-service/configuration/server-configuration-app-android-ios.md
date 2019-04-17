@@ -1,18 +1,18 @@
 title: Configurar instancia CITSmart para acceso vía móvil
-Description: Proporcionar orientaciones necesarias para configurar el servidor para el uso adecuado de CITSmart ITSM SM en la plataforma iOS y Android.
+Description: Proporcionar orientaciones necesarias para configurar el servidor para el uso adecuado de CITSmart ITSM Experience en la plataforma iOS y Android.
 #Configurar instancia CITSmart para acceso vía móvil
 
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-configurar el servidor para el uso adecuado de CITSmart SM en la
+configurar el servidor para el uso adecuado de CITSmart Experience en la
 plataforma iOS y Android.
 
 Antes de empezar
 -----------
 
 Es necesario Instalar la versión 7.2.2.0 (o superior) de CITSmart 
-SM, Configurar los parámetros 257 e 272
+Experience, Configurar los parámetros 257 e 272
 
 -   Valores: "S" o "N" Default: "N"
 
@@ -31,17 +31,17 @@ Configuración de los web services
 La configuración de los web services es fundamental para el acceso a todas las
 características de la aplicación. Siga los pasos para configurarlo:
 
-1.  En el CITSmart SM (Web), acceda a la funcionalidad de los web
+1.  En el CITSmart Experience (Web), acceda a la funcionalidad de los web
     services para el móvil (Sistema > Configuración > Web Service Citsmart
     Mobile);
 
 2.  Haga clic en la pestaña "Vincular grupos" y vincule el grupo ejecutor de
-    actividades a los web services de CITSmart SM Mobile.
+    actividades a los web services de CITSmart Experience Mobile.
 
 !!! Abstract "REGLA"
 
     En el momento en que se selecciona el grupo, se vinculará a todos los web
-    services de CITSmart SM de forma automatizada.
+    services de CITSmart Experience de forma automatizada.
 
 Instalación del certificado intermediario Globalsign
 --------------------------------------------------
@@ -76,9 +76,9 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
 
 
 1.  Accede a Google Play (Play Store) para bajar la aplicación Citsmart
-    SM mobile;
+    Experience mobile;
 
-2.  Busque CITSmart SM y después de la búsqueda, seleccione la
+2.  Busque CITSmart Experience y después de la búsqueda, seleccione la
     aplicación;
 
 3.  Presione el botón *Instalar* para descargar la aplicación.
@@ -210,9 +210,9 @@ Relacionado
 
 [Configurar parametrización - sistema](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de uso de la aplicación móvil CITSmart SM (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart Experience (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart Experience (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar las opciones del mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
