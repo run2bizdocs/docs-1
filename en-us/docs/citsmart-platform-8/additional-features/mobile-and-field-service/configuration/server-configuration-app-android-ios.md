@@ -3,7 +3,7 @@ Description: Intended to provide guidance for configuring the server for using C
 #Configure CITSmart instance for mobile access
 
 This document is intended to provide guidance for configuring the server for
-using CITSmart SM mobile application (iOS and Android plataform).
+using CITSmart Experience mobile application (iOS and Android plataform).
 
 Before getting starded
 ----------------------
@@ -26,17 +26,17 @@ Configuring web services
 ------------------------
 
 Configure CITSmart Web Services to access the functionality of the
-CITSmart SM application.
+CITSmart Experience application.
 
-1.  On CITSmart SM Web, access the Web Services feature for the mobile
+1.  On CITSmart Experience Web, access the Web Services feature for the mobile
     (System > Settings > Mobile > Citsmart Mobile Web Service);
 
 2.  Click on the "Link Groups" tab and link the activity executing group to the
-    CITSmart SM Web Services.
+    CITSmart Experience Web Services.
 
 !!! Abstract "RULE"
 
-    At the time the group is selected, it will be linked to all CITSmart SM
+    At the time the group is selected, it will be linked to all CITSmart Experience
     Web Services in an automated way.  
 
 Installing globalsign intermediate certificate
@@ -70,10 +70,10 @@ Certification Issuer), it must be installed. Follow the procedures below:
 ### Android app installation
 
 
-1.  Go to Google Play (Play Store) to download the Citsmart SM Mobile
+1.  Go to Google Play (Play Store) to download the Citsmart Experience Mobile
     application;
 
-2.  Search for CITSMmart SM and after the search, select the application;
+2.  Search for CITSMmart Experience and after the search, select the application;
 
 3.  Press the “Install” button to download the application.
 
@@ -205,9 +205,9 @@ Related
 
 [Cofigure parametrization - system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Mobile CITSmart SM (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Mobile CITSmart Experience (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Mobile CITSmart SM (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart Experience (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configure mobile options](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
