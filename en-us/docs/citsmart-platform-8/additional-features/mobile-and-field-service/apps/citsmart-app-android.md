@@ -1,11 +1,11 @@
-title: Mobile CITSmart SM (Android) application manual
+title: Mobile CITSmart Experience (Android) application manual
 Description: is intended to provide guidance for installing, configuring, and using the CITSmart Enterprise (Android mobile from Play Store) application.
-#Mobile CITSmart SM (Android) application manual
+#Mobile CITSmart Experience (Android) application manual
 
 This document is intended to provide guidance for installing, configuring, and
-using the CITSmart SM application.
+using the CITSmart Experience application.
 
-The CITSmart SM offers several features, including:
+The CITSmart Experience offers several features, including:
 
 1.  Facility in service and have a direction of where the request is located;
 
@@ -40,20 +40,20 @@ Before getting started
 ----------------------
 
 It´s necessary to have a Deploy version 7.2.2.0 (or later) of CITSmart
-SM mobile and also configure the server server to use the mobile
-application CITSmart SM mobile (see Related).
+Experience mobile and also configure the server server to use the mobile
+application CITSmart Experience mobile (see Related).
 
 Installing and configuring the app on the mobile (smartphone)
 -------------------------------------------------------------
 
-To install CITSmart SM, the app must be
+To install CITSmart Experience, the app must be
 searched in the Google online store.
 
 1.  Search and select the application;
 
 2.  Press the "Install" button to download the application;
 
-3.  After installation, the CITSmart SM mobile icon will appear in
+3.  After installation, the CITSmart Experience mobile icon will appear in
     screen mobile;
 
 4.  To create a connection, press the key-shaped “My connections” icon, located
@@ -61,7 +61,7 @@ searched in the Google online store.
 
     ![create conecction](images/android-app-1.png)
 
-    Figure 1 - CITSmart SM (Android mobile from Play Store) screen -
+    Figure 1 - CITSmart Experience (Android mobile from Play Store) screen -
     Create connection
 
 5.  The connections screen will be displayed, press the “New connection” icon ,
@@ -104,7 +104,7 @@ searched in the Google online store.
 
     ![login screen](images/android-app-4.png)
 
-    Figure 4 - CITSmart SM (Android mobile from Play Store) login screen
+    Figure 4 - CITSmart Experience (Android mobile from Play Store) login screen
 
 Using the app on the mobile (smartphone)
 ----------------------------------------
@@ -161,7 +161,7 @@ actions, which will be explained later.
 
         In order for the search functionality to work, it is necessary to
         configure the corresponding web service (notices) in the "Web Service
-        Operation Register" screen in CITSmart SM Web.  
+        Operation Register" screen in CITSmart Experience Web.  
 
 7. In each request a symbol with the color representing your situation is
     displayed, being:
@@ -242,7 +242,7 @@ actions, which will be explained later.
 
     !!! Abstract "ATTENTION"
 
-        The request registered by CITSmart SM uses services that are configured in CITSmart SM Web.  
+        The request registered by CITSmart Experience uses services that are configured in CITSmart Experience Web.  
 
 3.  Enter the description of the service request and press the "Send" button to
     perform the operation;
@@ -317,7 +317,7 @@ the unit
        + Select the contract and drive. Once this is done, press the "Get Coordinates"
          button to perform the operation;
 
-       + Your latitude and longitude will be sent to the server (CITSmart SM
+       + Your latitude and longitude will be sent to the server (CITSmart Experience
          Web).
 
 ##### Serving service request
@@ -423,7 +423,7 @@ the unit
 
 ##### Notifications
 
-The CITSmart SM mobile application runs in the background on your phone,
+The CITSmart Experience mobile application runs in the background on your phone,
 so you automatically receive notifications that are actionable.
 
 1.  Whenever you are close to the place of service of a service request, you
