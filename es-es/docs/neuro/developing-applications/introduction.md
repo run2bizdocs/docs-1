@@ -46,14 +46,14 @@ El paso de configuración nos preparará para desarrollar la aplicación:
 
 2.  Crear FORMULARIOS relacionados a su Negocio.
 
-## Conexión SM
+## Conexión CITSmart Experience
 
 
 Después de haber creado sus Objetos de Negocio y Formularios, usted podrá:
 
 1.  VINCULAR EL FORMULARIO A UN SERVICIO como necesario, o
 
-2.  VINCULAR EL FORMULARIO AL MENÚ SM O A UN CENTRO DE EXPERIENCIA, esto hará que pueda mantener tablas y datos adicionales que no se utilizarán en la apertura de un ticket
+2.  VINCULAR EL FORMULARIO AL MENÚ CITSmart Experience O A UN CENTRO DE EXPERIENCIA, esto hará que pueda mantener tablas y datos adicionales que no se utilizarán en la apertura de un ticket
 
 
 
