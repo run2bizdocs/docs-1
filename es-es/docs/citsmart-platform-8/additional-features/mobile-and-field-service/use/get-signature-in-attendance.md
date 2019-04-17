@@ -2,7 +2,7 @@ title: Obtener signatura en atención de campo
 Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
 #Obtener signatura en atención de campo
 
-Este documento tiene por objetivo explicar sobre la configuración del CITSmart (FS y SM)
+Este documento tiene por objetivo explicar sobre la configuración del CITSmart (GO y Experience)
 mobile para que el técnico reciba la firma digital de un validador en atención
 de campo.
 
@@ -56,9 +56,9 @@ Procedimiento
 Relacionado
 ----------
 
-[Manual de uso de la aplicación móvil CITSmart SM (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart Experience (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart Experience (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Configurar las opciones del móvil](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
