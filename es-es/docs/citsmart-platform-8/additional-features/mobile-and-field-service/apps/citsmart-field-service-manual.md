@@ -1,8 +1,8 @@
-title: Manual de uso de la aplicación CITSmart Field Service (FS)
+title: Manual de uso de la aplicación CITSmart GO
 Description: Permitir la realización de llamadas para técnico en campo en modo offline (donde el operador no tiene internet).
-#Manual de uso de la aplicación CITSmart Field Service (FS)
+#Manual de uso de la aplicación CITSmart GO
 
-El objetivo de la aplicación CITSmart FS es permitir la realización de llamadas
+El objetivo de la aplicación CITSmart GO es permitir la realización de llamadas
 para técnico en campo en modo offline (donde el operador no tiene internet).
 
 Antes de empezar
@@ -10,7 +10,7 @@ Antes de empezar
 
 1.  Tener configurado la aplicación en la instancia ITSM;
 
-2.  Instalar la aplicación CITSmart FS en el móvil;
+2.  Instalar la aplicación CITSmart GO en el móvil;
 
 3.  Es necesario delegar tareas al técnico en el sitio CITSmart para que se
     pueda atender en campo en el modo offline.
@@ -20,7 +20,7 @@ Procedimiento
 
 !!! Abstract "ATENCIÓN"
 
-    Al iniciar sesión en la aplicación CITSmart FS, la primera sincronización puede 
+    Al iniciar sesión en la aplicación CITSmart GO, la primera sincronización puede 
     tardar unos instantes, ya que para funcionar sin conexión tiene que descargar todas 
     las solicitudes y enviar las que han cambiado para que la aplicación funcione 
     correctamente.
@@ -39,12 +39,12 @@ Procedimiento
     !!! Abstract "ATENCIÓN"
     
         Sólo los componentes simples de Neuro, como los formularios, se pueden representar 
-        en el Mobile FS. Estos formularios no pueden tener ninguna lógica de JavaScript vinculada 
+        en el Mobile GO. Estos formularios no pueden tener ninguna lógica de JavaScript vinculada 
         a ellos, deben ser similares al cuestionario existente en el CITSmart SM.
         
     !!! Abstract "REGLA"
     
-        No es posible vincular un EC a la base de conocimiento por el mobile FS.
+        No es posible vincular un EC a la base de conocimiento por el mobile GO.
     
 4.  Si quiera adjuntar un adjunto, haga clic en la pestaña "Adjuntos";
 
@@ -71,7 +71,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar instancia para utilizar la aplicación CITSmart FS](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configurar instancia para utilizar la aplicación CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
 [Obtener signatura en atención de campo](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
