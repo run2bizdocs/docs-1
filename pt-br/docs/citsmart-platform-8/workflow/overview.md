@@ -16,17 +16,17 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 Figura 1 - Tela inicial
 
 
- - 1: Novo - clicar para desenhar novo fluxo
+ - **1**: Novo - clicar para desenhar novo fluxo
 
- - 2: Campo de busca - busca um fluxo pelo nome ou parte dele
+ - **2**: Campo de busca - busca um fluxo pelo nome ou parte dele
  
- - 3: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
+ - **3**: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
  
- - 4: Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
+ - **4**: Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
  
- - 5: Exportar - gera documento em formato JSON
+ - **5**: Exportar - gera documento em formato JSON
  
- - 6: Excluir - clicar para remover um fluxo
+ - **6**: Excluir - clicar para remover um fluxo
 
 ### Aba Fluxo
 
@@ -37,9 +37,9 @@ Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo ser�
 Figura 2 - Dados do fluxo
 
 
- - 1: Dados básicos para cadastro de um fluxo
+ - **1**: Dados básicos para cadastro de um fluxo
   
- - 2: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+ - **2**: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
 
 
 ### Aba Diagrama
@@ -48,7 +48,7 @@ Figura 2 - Dados do fluxo
 
 Figura 3 - Diagrama
 
-- **1 : Elementos para desenho de fluxo:**
+- **1** : Elementos para desenho de fluxo:
   
   **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
 
@@ -117,11 +117,13 @@ Figura 3 - Diagrama
    • Anotação de Texto
    
 
- - **2: Campo de modelagem** – espaço para desenho de fluxo de trabalho
- 
- - **3: Importar** - é possível importar um fluxo já existente, nos formatos JSON e XML
 
- - **4: Limpar** – limpa o desenho de fluxo elaborado
+
+ - **2**: Campo de modelagem – espaço para desenho de fluxo de trabalho
+ 
+ - **3**: Importar - é possível importar um fluxo já existente, nos formatos JSON e XML
+
+ - **4**: Limpar – limpa o desenho de fluxo elaborado
 
 ### Aba Documentação
 
@@ -137,13 +139,13 @@ Figura 3 - Diagrama
 
 Figura 4 - Botões aba Documentação
 
- - **1: Gravar:**  
+ - **1**: Gravar:  
  
      •	Como nova versão: grava o desenho do fluxo como uma nova versão
 
      •	Na versão original: grava o desenho do fluxo na versão original, ou seja, a 1.0 – versão em desenho
 
- - **2: Gerar Documentação:** permite a exportação das informações do fluxo no formato PDF
+ - **2**: Gerar Documentação: permite a exportação das informações do fluxo no formato PDF
 
 
 Uso
