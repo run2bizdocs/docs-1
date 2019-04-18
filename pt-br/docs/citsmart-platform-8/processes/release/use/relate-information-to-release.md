@@ -28,6 +28,11 @@ Procedimento
     parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
     necessários;
     
+!!! Abstract "REGRA"
+
+    O sistema só permitirá o vínculo de Mudanças a Liberação caso se esta estiver com o status diferente de "Registrada" e "Cancelada".
+    
+    
 5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar a mídia desejada. Se
     deseja cadastrar uma nova mídia, clicar no botão "Cadastrar " e preencher os
