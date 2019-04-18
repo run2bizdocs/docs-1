@@ -334,17 +334,17 @@ modulo ao standalone-full-ha.xml
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-1. Para possibilitar o upload acima de 10 Mb, incluir no arquivo subsystems a seguinte informação:
+    1. Para possibilitar o upload acima de 10 Mb, incluir no arquivo subsystems a seguinte informação:
 
-```java
-<subsystem xmlns="urn:jboss:domain:undertow:5.0">
-            <buffer-cache name="default"/>
-            <server name="default-server">
-                <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" redirect-socket="https" enable-http2="true"/>
-                <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
-```
+    ```java
+    <subsystem xmlns="urn:jboss:domain:undertow:5.0">
+                <buffer-cache name="default"/>
+                <server name="default-server">
+                    <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-    parameters="3000" redirect-socket="https" enable-http2="true"/>
+                    <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-    parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
+    ```
 
-2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+    2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
 ```sh
 [standalone\@localhost:9990 /] :reload
