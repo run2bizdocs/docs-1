@@ -334,7 +334,7 @@ modulo ao standalone-full-ha.xml
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-    1. Para possibilitar o upload acima de 10 Mb, incluir no arquivo subsystems a seguinte informação:
+1. Para possibilitar o upload acima de 10 Mb, incluir no arquivo subsystems a seguinte informação:
 
     ```java
     <subsystem xmlns="urn:jboss:domain:undertow:5.0">
@@ -349,11 +349,11 @@ modulo ao standalone-full-ha.xml
     </subsystem>
     ```
 
-    2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
-```sh
-[standalone\@localhost:9990 /] :reload
-```
+    ```sh
+    [standalone\@localhost:9990 /] :reload
+    ```
 
 ## Criação do arquivo citsmart.cfg
 
