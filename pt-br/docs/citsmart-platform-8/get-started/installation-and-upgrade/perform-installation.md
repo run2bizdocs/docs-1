@@ -510,7 +510,7 @@ Caso possua um certificado é importante utilizá-lo.
 
     Primeiro acesso: Entre com a URL > https://itsm.citsmart.com:8443/citsmart.
 
-3. Agora, sigua os passosdo manual de 3 passos e comece a usar a solução CITSmart.
+3. Agora, siga os 3 passos de configuração e comece a usar a solução CITSmart.
 
 ## Deploy do CITSmart Neuro
 
