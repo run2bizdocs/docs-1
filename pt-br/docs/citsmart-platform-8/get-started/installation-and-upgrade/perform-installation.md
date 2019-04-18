@@ -311,7 +311,7 @@ modulo ao standalone-full-ha.xml
     [standalone\@localhost:9990 /] /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool { "outcome" =\> "success", "result" =\> [true] }
     ```
 
-### Configurando os Subsytems
+### Configurando os Subsystems
 
 
 ```sh
