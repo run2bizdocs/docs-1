@@ -338,10 +338,15 @@ modulo ao standalone-full-ha.xml
 
     ```java
     <subsystem xmlns="urn:jboss:domain:undertow:5.0">
-                <buffer-cache name="default"/>
-                <server name="default-server">
-                    <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-    parameters="3000" redirect-socket="https" enable-http2="true"/>
-                    <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-    parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
+            <buffer-cache name="default"/>
+            <server name="default-server">
+                <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" redirect-socket="https" enable-http2="true"/>
+                <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
+
+            ...
+            </server>
+    ...
+    </subsystem>
     ```
 
     2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
