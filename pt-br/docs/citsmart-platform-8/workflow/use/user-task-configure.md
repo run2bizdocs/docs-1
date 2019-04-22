@@ -69,25 +69,25 @@ Procedimento
 
 *	Tipo de interação: é o modo com que um Questionário ou um Formulário Neuro vai ser aplicado na interface de gestão de ticket em um determinado estado do fluxo. A configuração dos itens que estarão visíveis pode ser definida no portfólio ou configurado diretamente no elemento Atividade de Usuário (do fluxo):
 
-*	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template visualizaçãoCRIAÇÃO” e “Template acompanhamento”.  Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
+    *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
 
-!!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
-    Quando se tem Templates de Ticket que apontam para formulários Neuro, é necessário ter dois
-    formulários Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao 
-    formulário de acompanhamento. Também é necessário criar um Template de Ticket para cada formulário.
+        Quando se tem Templates de Ticket que apontam para formulários Neuro, é necessário ter dois
+        formulários Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao 
+        formulário de acompanhamento. Também é necessário criar um Template de Ticket para cada formulário.
 
-*	Formulário padrão: XXXXXX 
+    *	Formulário padrão: XXXXXX 
 
-*	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
+    *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
 
 *	Template (Padrão/Neuro): permite a vinculação de template de ticket.
 
-!!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
-    Caso não ocorra a vinculação de nenhum template de solicitação de serviço na aba interface, o sistema subentenderá e 
-    aplicará as configurações de um formulário padrão, habilitando a vinculação de item de configuração, mudança, problema
-    e solicitação relacionada ao ticket tela de gerenciamento de solicitação de serviço.
+        Caso não ocorra a vinculação de nenhum template de solicitação de serviço na aba interface, o sistema subentenderá e 
+        aplicará as configurações de um formulário padrão, habilitando a vinculação de item de configuração, mudança, problema
+        e solicitação relacionada ao ticket tela de gerenciamento de solicitação de serviço.
     
 *	Permite direcionar para grupo: possibilita a ativação/desativação da opção "Direcionar para grupo" no cadastro de um ticket;
 
@@ -106,8 +106,8 @@ Procedimento
     
 *Base de conhecimento*
 
-    -   Vincular base de conhecimento: escolher o conhecimento que deseja
-        vincular a tarefa de usuário.
+   *  Vincular base de conhecimento: escolher o conhecimento que deseja
+       vincular a tarefa de usuário.
 
 !!! Abstract " ATENÇÃO
 
