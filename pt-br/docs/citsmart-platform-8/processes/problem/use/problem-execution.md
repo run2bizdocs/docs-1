@@ -20,7 +20,11 @@ Procedimento
 
 3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
     problema, é possível realizar as seguintes atividades:
-
+    
+    !!! Abstract "ATENÇÃO"
+        Usuários que utilizavam a versão 7: os campos Messagem de erro associada e Diagnóstico que já continham informações,             serão apresentadas agora na versão 8, na aba Avaliação e Diagnóstico, dentro da área Diagnóstico.
+        Caso não tenha informações nesses campos em versões anteriores, não será apresentada esta aba na versão 8.
+    
     -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
     Kanban, é necessário clicar no botão “+Workspace” e preencher os dados
     disponibilizados, tais como título, selecionar os usuários responsáveis pela
