@@ -77,7 +77,7 @@ Procedimento
         formulários Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao 
         formulário de acompanhamento. Também é necessário criar um Template de Ticket para cada formulário.
 
-    *	Formulário padrão: XXXXXX 
+    *	Formulário padrão: default do sistema 
 
     *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
 
