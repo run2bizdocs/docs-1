@@ -22,7 +22,7 @@ _22/04/2019_
 | 3388     | Ger. Problema – Gravação de erro conhecido não seta campo de arquivamento e sistema não consegue recuperar o conhecimento                              |
 | 3419     | Ger. Mudança – Sistema não recupera anexo colocado no campo de Revisão e fechamento                                                                    |
 
-Erro conhecido e solução
+*Erro conhecido e solução*
 
 Se atentem para o cenário descrito:
 
