@@ -11,7 +11,7 @@ excluir um grupo de disponibilidade.
 Antes de começar
 --------------------
 
-Pra realizar o cadastro do grupo de disponibilidade é necessário registrar o
+Para realizar o cadastro do grupo de disponibilidade é necessário registrar o
 calendário previamente.
 
 Procedimento
