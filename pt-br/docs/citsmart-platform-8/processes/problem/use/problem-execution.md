@@ -23,7 +23,7 @@ Procedimento
     
     !!! Abstract "ATENÇÃO"
     
-        Usuários que utilizavam a versão 7: os campos Messagem de erro associada e Diagnóstico que já continham informações,             serão apresentadas agora na versão 8, na aba Avaliação e Diagnóstico, dentro da área Diagnóstico.
+        Usuários que utilizavam a versão 7: os campos **Messagem de erro associada** e **Diagnóstico** que já continham                   informações, serão apresentadas agora na versão 8, na aba *Avaliação e Diagnóstico*, dentro da área *Diagnóstico*.
         Caso não tenha informações nesses campos em versões anteriores, não será apresentada esta aba na versão 8.
     
     -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
