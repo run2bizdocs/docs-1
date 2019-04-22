@@ -9,52 +9,51 @@ _04/22/2019_
 | Problem  | Description                                                                                                                                              |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3360     | Problem Mgmt. - Error retrieving the definitive Solution                                                                                                |
-| 3361     | Ger. de Problema - Erro ao recuperar o campo de fechamento                                                                                             |
-| 3362     | Ger. de Problema - Erro ao recuperar erro conhecido                                                                                                    |
-| 3363     | Ger de Configuração – Erro ao recuperar Mudanças Concluídas relacionadas à Item de Configuração                                                        |
-| 3364     | Ger. Liberação – Erro ao vincular Mudança encerrada em Liberação                                                                                       |
-| 3365     | Ger. Problema – Adequação de interface para apresentar os campos “Mensagem de erro associada” e “Diagnóstico”                                          |
-| 3366     | Ger. Mudança – Erro ao retornar Risco Simplificado                                                                                                     |
-| 3393     | Ger. Liberação – Retorno da Regra de Negócio ao vincular uma mudança que tenha IC vinculado a uma Liberação, vincular automaticamente o IC à Liberação |
-| 3282     | Ger. Eventos – Falha ao Editar um Ger. Genérico Zabixx                                                                                                 |
-| 3115     | Ger. Eventos – Renderização maior da tela de Ger de Ticket                                                                                             |
-| 3394     | Ger. Liberação – Sistema duplica anexos ao avançar fluxo                                                                                               |
-| 3388     | Ger. Problema – Gravação de erro conhecido não seta campo de arquivamento e sistema não consegue recuperar o conhecimento                              |
-| 3419     | Ger. Mudança – Sistema não recupera anexo colocado no campo de Revisão e fechamento                                                                    |
+| 3361     | Problem Mgmt. - Error retrieving the closure field                                                                                             |
+| 3362     | Problem Mgmt. - Errer retrieving known error                                                                                                    |
+| 3363     | Configuration Mgmt. – Error retrieving Completed Changes related to the Configuration Item                                                        |
+| 3364     | Release Mgmt. – Error linking Change closed in Release                                                                                       |
+| 3365     | Problem Mgmt. – Interface suitability to display the fields "Associated error message" and "Diagnostics"                                          |
+| 3366     | Change Mgmt. – Error retrieving Simplified Risk                                                                                                     |
+| 3393     | Relese Mgmt. – Return of Business Rule when linking a change that has CI linked to a Release, automatically linking the CI to the Release |
+| 3282     | Event Mgmt. – Failure when Edit a Zabbix Generic Manager                                                                                                 |
+| 3115     | Event Mgmt. – Better rendering of the Ticket Mgmt. screen                                                                                             |
+| 3394     | Release Mgmt. – System doubles attachments when forward flow                                                                                               |
+| 3388     | Problem Mgmt. – Saving the known error does not set the archiving field and the system cannot recover the knowledge                              |
+| 3419     | Change Mgmt. – System does not retrieve attachment placed in Revision and closure field                                                                    |
 
-*Erro conhecido e solução*
+*Known error and solution*
 
-Se atentem para o cenário descrito:
+Note the following scenario:
 
--   Pré Condições:
+-   Preconditions:
 
-    1.  O cliente estará atualizando a versão 7 para a versão 8.0.0.5;
+    1.  The client will be upgrading from version 7 to version 8.0.0.5;
 
-    2.  O consultor não parametrizou em Portfólio de Problema a pasta para
-        gravar a base de conhecimento de Erro Conhecido;
+    2.  The consultant did not parametrize in the Problem Portfolio the folder 
+        to save the Known Error knowledge base;
 
--   O que ocorre:
+-   What happens:
 
-    1.  O usuário acessa a tela de Gerenciamento de Problema;
+    1.  The user accesses the Problem Management screen;
 
-    2.  O usuário informa o campo Causa Raiz e tenta acionar a gravação da base
-        de conhecimento;
+    2.  The user informs the Root Cause field and attempts to save the knowledge base;
 
-    3.  Ao abrir a tela de Base de Conhecimento para gravação o sistema exibe a
-        mensagem de que o usuário não possui permissão;
+    3.  When open the Knowledge Base screen for saving, the system presents the message 
+        that the user does not have the permission;
 
--   Por que ocorre?
+-   Why does it happen?
 
-    1.  A mensagem ocorre porque o consultor não informou qual deveria ser a
-        pasta de gravação do erro conhecido em Portfólio de Problema;
+    1.  The message appears because the consultant did not informed the folder to save 
+        the known error in the Problem Portfolio;
 
-    2.  Uma vez tentado gravar o erro conhecido, o sistema não identifica a
-        pasta e emite a mensagem;
+    2.  Once you try to save the known error, the system does not identify the folder 
+        and sends the message;
 
-    3.  Nesses casos, procure o Suporte Citsmart para realizar a adequação desse
-        cadastro;
+    3.  In these cases, contact the Citsmart Support to make the correctness of this 
+        register;
 
-    4.  Faça a configuração da pasta para gravação de erro conhecido na tela de
-        Portfólio de Problema;
+    4.  Make the configuration of the known error saving folder on the Problem Portfolio 
+        screen;
 
-    5.  No próximo cadastro a mensagem não se repitirá.
+    5.  In the next registration the message will not be repeated.
