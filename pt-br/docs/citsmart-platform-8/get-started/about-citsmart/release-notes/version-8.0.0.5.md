@@ -16,7 +16,7 @@ _22/04/2019_
 | 3365     | Ger. Problema – Adequação de interface para apresentar os campos “Mensagem de erro associada” e “Diagnóstico”                                          |
 | 3366     | Ger. Mudança – Erro ao retornar Risco Simplificado                                                                                                     |
 | 3393     | Ger. Liberação – Retorno da Regra de Negócio ao vincular uma mudança que tenha IC vinculado a uma Liberação, vincular automaticamente o IC à Liberação |
-| 3282     | Ger. Eventos – Falha ao Editar um Ger. Genérico Zabixx                                                                                                 |
+| 3282     | Ger. Eventos – Falha ao Editar um Ger. Genérico Zabbix                                                                                                 |
 | 3115     | Ger. Eventos – Renderização maior da tela de Ger de Ticket                                                                                             |
 | 3394     | Ger. Liberação – Sistema duplica anexos ao avançar fluxo                                                                                               |
 | 3388     | Ger. Problema – Gravação de erro conhecido não seta campo de arquivamento e sistema não consegue recuperar o conhecimento                              |
@@ -57,4 +57,4 @@ Se atentem para o cenário descrito:
     4.  Faça a configuração da pasta para gravação de erro conhecido na tela de
         Portfólio de Problema;
 
-    5.  No próximo cadastro a mensagem não se repitirá.
+    5.  No próximo cadastro a mensagem não se repetirá.
