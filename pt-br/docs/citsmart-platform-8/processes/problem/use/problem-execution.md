@@ -77,8 +77,10 @@ Procedimento
     selecionar e vincular um conhecimento para dizimar as instruções a fim
     facilitar a solução de problemas futuros parecidos.
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
+    -   Também é viável o anexo de arquivos e registrar  anotações perninetes nesta fase de
     execução do problema.
+    
+    -   Na aba "Fechamento", é possível escolher a situação em que se encontra o problema (Registrada, Resolvida ou Cancelada). Se optar pelas duas últimas opções, será necessário escolher a causa e categoria da solução, além de descrever as informações necessárias ao fechamento do problema.
 
 6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
     tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
