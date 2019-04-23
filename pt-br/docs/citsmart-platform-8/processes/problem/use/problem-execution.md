@@ -64,6 +64,12 @@ Procedimento
 
     -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
+    
+    !!! Abstract "NOTA"
+
+        A aba **Solução definitiva** somente estará disponível (na versão 8), em
+        problemas que já haviam uma solução definitiva registrada na versão 7.
+
 
 5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
     solução do problema e as lições aprendidas com o mesmo, através das
