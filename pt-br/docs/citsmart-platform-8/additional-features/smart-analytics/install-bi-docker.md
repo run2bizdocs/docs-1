@@ -12,9 +12,7 @@ Docker, devendo seguir a seguinte configuração de instalação.
 Antes de começar
 ----------------
 
-O usuário deverá ter o Docker previamente instalado. O administrador do sistema
-deverá ter uma conta no Bitbucket para que ele possa ter acesso ao repositório
-do citbi.
+O usuário deverá ter o Docker previamente instalado.
 
 Procedimento
 ------------
@@ -23,7 +21,7 @@ Procedimento
 
 1.  Fazer download do citBI em:
  
-    ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/citBI/citbi-1.0.0/citbi-1.0.0.zip e descompactá-lo
+    ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/citBI/citbi-1.0.0/citbi-1.0.0.zip  e descompactá-lo
 
 1.  Digitar o comando e em seguida descompactar:
 
