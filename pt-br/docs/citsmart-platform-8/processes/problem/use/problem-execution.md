@@ -44,7 +44,7 @@ Procedimento
     !!! Abstract "NOTA"
 
         As soluções contorno aqui cadastradas poderão ser visualizadas na tela de
-        “Ticktet” ao vincular o problema ao ticket.
+        “Ticket” ao vincular o problema ao ticket.
      
     -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
 
