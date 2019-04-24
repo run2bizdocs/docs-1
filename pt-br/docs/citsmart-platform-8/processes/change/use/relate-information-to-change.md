@@ -39,7 +39,7 @@ Procedimento
         da escolha de análise por parte do usuário, que deverá descrever sua
         investigação de acordo com o seu cenário específico.
        
-     6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
+6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
     item desejado para vincula-lo a mudança;
 
 7.  Ao clicar em **“Papéis e responsabilidades”**, será disponibilizado campos para
