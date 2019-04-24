@@ -74,7 +74,7 @@ Anuva
 -----
 
 La ANUVA también fue iniciada y representa la Inteligencia Artificial del CITSmart,
-donde promueve integración y aprendizaje de máquina con conocimiento
+donde promueve integración y aprendizaje de máquina con conocimiento.
 
 Neuro
 -----
