@@ -30,9 +30,11 @@ Related
 
 [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
+[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+
 [Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+
 
 !!! tip "About"
 
