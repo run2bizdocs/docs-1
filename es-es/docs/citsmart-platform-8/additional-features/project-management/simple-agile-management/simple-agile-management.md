@@ -71,15 +71,15 @@ Procedimiento
 Figura 1 - Pantalla Sprint
 
 
-   -   1: buscar Sprints con filtros de miembros, tags y estado de la Sprint (completada y no completada)
+   -   **1**: buscar Sprints con filtros de miembros, tags y estado de la Sprint (completada y no completada)
 
-   -   2: crear nueva Sprint
+   -   **2**: crear nueva Sprint
 
-   -   3: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible borrar y definir si el miembro será administrador o no
+   -   **3**: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible borrar y definir si el miembro será administrador o no
 
-   -   4: añadir miembros que participarán de la Sprint
+   -   **4**: añadir miembros que participarán de la Sprint
 
-   -   5: acciones de configuración y permiso de la Sprint
+   -   **5**: acciones de configuración y permiso de la Sprint
 
 
 *III - Crear listas*
@@ -93,19 +93,19 @@ Figura 1 - Pantalla Sprint
     Figura 2 - Pantalla lista
 
 
-    -   1: buscar tareas con filtros de miembros, tags y estado de la lista (completada y no completada)
+    -   **1**: buscar tareas con filtros de miembros, tags y estado de la lista (completada y no completada)
 
-    -   2: crear nueva lista
+    -   **2**: crear nueva lista
 
-    -   3: actualizar la pantalla
+    -   **3**: actualizar la pantalla
 
-    -   4: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar y definir si el miembro será administrador o no
+    -   **4**: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar y definir si el miembro será administrador o no
 
-    -   6: definir fecha, hora y estimación de horas para la entrega
+    -   **6**: definir fecha, hora y estimación de horas para la entrega
 
-    -   7: ver el historial de acciones
+    -   **7**: ver el historial de acciones
 
-    -   8: archivar lista de tareas
+    -   **8**: archivar lista de tareas
 
 *IV - Crear tareas*
 
@@ -114,11 +114,11 @@ Figura 1 - Pantalla Sprint
    Figura 3 - Pantalla tarea
 
 
-   -   1: crear nueva tarea
+   -   **1**: crear nueva tarea
 
-   -   2: definir en qué etapa la tarea se encuentra
+   -   **2**: definir en qué etapa la tarea se encuentra
 
-   -   3: mover la lista físicamente dentro del cuadro
+   -   **3**: mover la lista físicamente dentro del cuadro
 
 !!! Abstract "ATENCIÓN"
 
@@ -137,29 +137,29 @@ dispositivos de control y gestión.
       Figura 4 - Pantalla tarjeta
 
 
-    -   1: agregar o eliminar miembros en la tarea
+    -   **1**: agregar o eliminar miembros en la tarea
 
-    -   2: agregar listas de acciones que serán vistas en la pestaña Checklist
+    -   ****: agregar listas de acciones que serán vistas en la pestaña Checklist
 
-    -   3: agregar comentarios
+    -   **3**: agregar comentarios
 
-    -   4: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea, además de detallar la acción tomada
+    -   **4**: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea, además de detallar la acción tomada
 
-    -   5: agregar tags para identificar visualmente la tarjeta de tarea
+    -   **5**: agregar tags para identificar visualmente la tarjeta de tarea
 
-    -   6: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
+    -   **6**: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
     comunicación será a través del botón de notificaciones del CITSmart Platform
 
-    -   7: indicar la finalización de la tarea
+    -   **7**: indicar la finalización de la tarea
 
-    -   8: Mover la tarea a otro Sprint:
+    -   **8**: Mover la tarea a otro Sprint:
 
         -   Sprint del *mismo* Workspace: las tags se mantienen, pero los miembros son quitados
             de la tarea
 
         -   Sprint de *otro* Workspace: las tags y miembros son quitados de la tarea
 
-    -   9: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá ser reutilizado.
+    -   **9**: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá ser reutilizado.
 
 1.  Describir la tarea en el campo "Descripción";
 
