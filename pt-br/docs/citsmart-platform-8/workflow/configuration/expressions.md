@@ -6,7 +6,7 @@ Expressões são recursos utilizados nos fluxos do sistema para permitir a const
 
 ## Relacionado
 
-[Criador de Expressões][1]
+[Construir expressões][1]
 
 
 [1]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
