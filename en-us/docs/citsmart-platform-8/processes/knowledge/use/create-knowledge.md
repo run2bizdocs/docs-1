@@ -26,22 +26,22 @@ Procedure
 
 Figure 1 - Create knowledge
 
--   1: Register - register document;
+-   **1**: Register - register document;
 
--   2: Related Document - it allows to link a knowledge already existed to
+-   **2**: Related Document - it allows to link a knowledge already existed to
     the document being created;
     
--   3: Configuration Item - it allows to link a configuration item;
+-   **3**: Configuration Item - it allows to link a configuration item;
 
--   4: Event Occurrence Category - it allows to link an occurrence category;
+-   **4**: Event Occurrence Category - it allows to link an occurrence category;
 
--   5: Interest Parts - select the parts (users or groups) that will have access
+-   **5**: Interest Parts - select the parts (users or groups) that will have access
     to the knowledge, being possible to notify them;
     
--   6: Notifications - it configures notifications of the publication, by email
+-   **6**: Notifications - it configures notifications of the publication, by email
     and on the screen;
     
--   7: Version - it presents all the versions of the document.
+-   **7**: Version - it presents all the versions of the document.
 
 
 !!! Abstract "ATENTION"
@@ -118,13 +118,13 @@ Figure 3 - Options Button
 
    When you have a knowledge already registered, the "Options" button displays other actions:
    
--   1: save the knowledge;
+-   **1**: save the knowledge;
 
--   2: delete the knowledge;
+-   **2**: delete the knowledge;
 
--   3: clean the document that is open;
+-   **3**: clean the document that is open;
 
--   4: archives the document that is open, making it not visible in the Knowledge Portal. 
+-   **4**: archives the document that is open, making it not visible in the Knowledge Portal. 
 
 
 !!! Tip "Approval Workflow"
