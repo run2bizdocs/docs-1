@@ -71,7 +71,7 @@ Procedimento
 Relacionado
 -----------
 
-[Manutenção do fluxo do trabalho](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Manutenção do fluxo do trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 [Cadastrar questionário](/pt-br/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
