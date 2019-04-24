@@ -80,17 +80,17 @@ Procedure
 Figure 1 - Sprint Screen
 
 
-   -   1: search Sprints with filters of members, tag and status of the Sprint
+   -   **1**: search Sprints with filters of members, tag and status of the Sprint
     (completed and not completed)
 
-   -   2: create new Sprint
+   -   **2**: create new Sprint
 
-   -   3: abbreviation of added member names. By clicking on it, it's possible to
+   -   **3**: abbreviation of added member names. By clicking on it, it's possible to
     delete and define if the member will be manager or not
 
-   -   4: add member that will participate in the Sprint
+   -   **4**: add member that will participate in the Sprint
 
-   -   5: actios of configuration and permission of the Sprint
+   -   **5**: actios of configuration and permission of the Sprint
 
 
 *III - Create lists*
@@ -105,21 +105,21 @@ Figure 1 - Sprint Screen
     Figure 2 - List screen
 
 
-    -   1: search tasks with filters of member, tags and status of the list lista
+    -   **1**: search tasks with filters of member, tags and status of the list lista
     (concluída e não concluída)
 
-    -   2: create new list
+    -   **2**: create new list
 
-    -   3: refresh the screen
+    -   **3**: refresh the screen
 
-    -   4: abbreviation for the member name added. When clicking on it, it's possible to
+    -   **4**: abbreviation for the member name added. When clicking on it, it's possible to
     delete and define if the member will be manager or not
 
-    -   6: set the date, hour and hours estimated to deliver
+    -   **6**: set the date, hour and hours estimated to deliver
 
-    -   7: view the history of actions
+    -   **7**: view the history of actions
 
-    -   8: archive tasks list
+    -   **8**: archive tasks list
 
 *IV - Create tasks*
 
@@ -128,11 +128,11 @@ Figure 1 - Sprint Screen
    Figure 3 - Task screen
 
 
-   -   1: create new task
+   -   **1**: create new task
 
-   -   2: define in which stage the task is.
+   -   **2**: define in which stage the task is.
 
-   -   3: move the list inside the framework
+   -   **3**: move the list inside the framework
 
 !!! Abstract "NOTE"
 
@@ -151,28 +151,28 @@ and management.
       Figure 4 - Card screen
 
 
-    -   1: add or remove members in the task
+    -   **1**: add or remove members in the task
 
-    -   2: add list of actions that will be viewed in the Checklist tab
+    -   **2**: add list of actions that will be viewed in the Checklist tab
 
-    -   3: add comments
+    -   **3**: add comments
 
-    -   4: each member can post hours referring to their time used in the task, besides detailing the action taken
+    -   **4**: each member can post hours referring to their time used in the task, besides detailing the action taken
 
-    -   5: add tags to visually identify the task card
+    -   **5**: add tags to visually identify the task card
 
-    -   6: click to be notified of any changes in this task. This notification will be
+    -   **6**: click to be notified of any changes in this task. This notification will be
     done through the notification button of the CITSmart Platform
 
-    -   7: indicate the completion of the task
+    -   **7**: indicate the completion of the task
 
-    -   8: move the task to another Sprint:
+    -   **8**: move the task to another Sprint:
 
         -   Sprint of the *same* Workspace: tags are retained, but members are removed from the task
 
         -   Sprint of *other* Workspace: the tags and members will be removed from the task
 
-    -   9: archive the card – once archived, in this version, the card cannot be reused.
+    -   **9**: archive the card – once archived, in this version, the card cannot be reused.
 
 1.  Describe the taks in the field "Description”;
 
