@@ -1,6 +1,6 @@
 title: Ejecutar problema
 Description: Permite ejecutar el problema.
-#Ejecutar problema
+# Ejecutar problema
 
 Esta funcionalidad permite ejecutar el problema. En esta etapa, se realiza la clasificación del problema y la designación del área apropiada para tratar el problema de acuerdo con el Catálogo de Servicios de TI. Es necesario vincular el problema a incidentes existentes y registrar el problema para facilitar la priorización de solución de problemas, evaluar el impacto sobre los negocios y determinar la urgencia de la solución. Esta evaluación determina la clasificación del problema.
 
@@ -20,6 +20,14 @@ Procedimiento
 
 3.  En “Diagnóstico”, para mejor comprensión e investigación del problema, es posible
     hacer las siguientes actividades:
+    
+    !!! Abstract "ATENCIÓN"
+    
+        Los usuarios que utilizaban la versión 7: los campos **Mensaje de error asociado** 
+        y **Diagnóstico** que ya contenía información, se presentarán ahora en la versión 8, 
+        en la pestaña *Evaluación y Diagnóstico*, dentro del área *Diagnóstico*. Si no hay 
+        información en estos campos en versiones anteriores, no aparecerá esta pestaña en la 
+        versión 8.
 
     -   Crear un Kanban o vincular uno existente. Para crear un nuevo Kanban,
     debe hacer clic en "+ Workspace" y completar los datos disponibles, como, título
@@ -56,6 +64,12 @@ Procedimiento
 
     -   También se puede adjuntar archivos y el registro de notas en esta fase de
     ejecución del problema.
+    
+    !!! Abstract "NOTA"
+    
+        La pestaña **Solución definitiva** sólo estará disponible (en la versión 8), 
+        en problemas que ya habían una solución definitiva registrada en la versión 7.
+
 
 5.  En “Revisión y cierre”, se permitirá especificar los detalles de la
     solución del problema y las lecciones aprendidas con el mismo, a través
@@ -75,6 +89,11 @@ Procedimiento
 
     -   También se puede adjuntar archivos y el registro de notas en esta fase de
     ejecución del problema.
+    
+    -   En la pestaña "Cierre", es posible elegir la situación en la que se encuentra el problema 
+    (Registrada, Resuelta o Cancelada). Si opta por las dos últimas opciones, será necesario elegir 
+    la causa y categoría de la solución, además de describir la información necesaria para cerrar 
+    el problema.
 
 6.  Hacer clic en "Opciones" y después en "Guardar y mantener tarea actual" para registrar
     la ejecución y no avanzar el flujo de actividad o seleccionar "Guardar y avanzar flujo" para
