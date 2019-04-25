@@ -1,9 +1,9 @@
-title: Mobile CITSmart SM (iOS) application manual
+title: Mobile CITSmart Experience (iOS) application manual
 Description: Intended to provide guidance for installing, configuring, and using the CITSmart ITSM Enterprise mobile application (iOS plataform).
-#Mobile CITSmart SM (iOS) application manual
+#Mobile CITSmart Experience (iOS) application manual
 
 This document is intended to provide guidance for installing, configuring, and
-using the CITSmart ITSM SM mobile application (iOS plataform).
+using the CITSmart ITSM Experience mobile application (iOS plataform).
 
 It offers several features, such as:
 
@@ -26,20 +26,20 @@ This document is structured in three major sections:
 Before getting started
 ----------------------
 
-It´s necessary to use CITSmart SM solution in version 7.2.2.0
-or higher, setup the server for using CITSmart SM mobile
+It´s necessary to use CITSmart Experience solution in version 7.2.2.0
+or higher, setup the server for using CITSmart Experience mobile
 application.
 
 Installing and configuring the app on the mobile
 ------------------------------------------------
 
-To install CITSmart SM mobile, the app must be searched in the online
+To install CITSmart Experience mobile, the app must be searched in the online
 store (app store).
 
-1.  Search for CITSmart SM mobile on App Store, select and download
+1.  Search for CITSmart Experience mobile on App Store, select and download
     the app;
 
-2.  After installation, the CITSmart SM mobile icon will appear;
+2.  After installation, the CITSmart Experience mobile icon will appear;
 
 3.  The connections screen will be displayed, press the “Create connection”, as
     shown in the figure below:
@@ -148,7 +148,7 @@ Using the app on the mobile
 
         In order for the search functionality to work, it is necessary to
         configure the corresponding web service (notices) in the "Web Service
-        Operation Register" screen in CITSmart SM Web.  
+        Operation Register" screen in CITSmart Experience Web.  
 
 6.  In each request, when you click on it, a list of options is displayed,
     being:
@@ -185,8 +185,8 @@ Using the app on the mobile
 
     !!! Abstract "ATTENTION"
 
-        The request registered by CITSmart SM uses services that are
-        configured in CITSmart SM Web.  
+        The request registered by CITSmart Experience uses services that are
+        configured in CITSmart Experience Web.  
 
 2.  After performing the operation, the request registration message will be
     displayed.

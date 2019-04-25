@@ -31,14 +31,14 @@ Procedimento
 
 5.  A próxima área, diz respeito ao tipo de análise de impacto e risco da
     mudança. Será necessário apertar sobre a mesma e preencher os campos
-    disponibilizados.
+    disponibilizados. Lembrando que serão disponivéis campos a serem preenchidos de acordo com o tipo de risco escolhido (simplificado ou completo).
 
     !!! Abstract "ATENÇÃO"
         O tipo de análise de impacto e risco (simplificado ou completa) é definida
         durante o cadastro do portfólio de mudança, o que permite a flexibilização
         da escolha de análise por parte do usuário, que deverá descrever sua
         investigação de acordo com o seu cenário específico.
-
+       
 6.  Para vincular um **Questionário**, clicar na área de mesmo nome e selecionar o
     item desejado para vincula-lo a mudança;
 

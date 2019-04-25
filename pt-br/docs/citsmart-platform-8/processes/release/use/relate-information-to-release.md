@@ -1,6 +1,6 @@
 title:  Relacionar informações à liberação 
 Description: É possível vincular à Liberação uma série de informações.
-#Relacionar informações à requisição de liberação
+# Relacionar informações à liberação
 É possível vincular à Liberação uma série de informações, tais como: mudança, projeto, IC dentre outros, no intuito de solidificar e embasar a execução do processo.
 
 Antes de começar
@@ -27,6 +27,11 @@ Procedimento
     desejar cadastrar uma nova mudança utilizando a liberação a ser criada como
     parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
     necessários;
+    
+!!! Abstract "REGRA"
+
+    O sistema só permitirá o vínculo de Mudanças a Liberação caso se esta estiver com o status diferente de "Registrada" e "Cancelada".
+    
     
 5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
     seguida apertar sobre o campo de pesquisa e selecionar a mídia desejada. Se
@@ -60,7 +65,7 @@ Relacionado
 
 [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 [Criar calendário](/pt-br/citsmart-platform-8/platform-administration/time/create-calendar.html)
 

@@ -8,9 +8,9 @@ La funcionalidad Mobile fue desarrollada para permitir mayor autonomía en la ge
 Relacionado
 -----------
 
-[Configurar instancia para utilizar la aplicación CITSmart FS][1]
+[Configurar instancia para utilizar la aplicación CITSmart GO][1]
 
-[Manual de uso de la aplicación del CITSmart Field Service (FS)][2]
+[Manual de uso de la aplicación del CITSmart GO][2]
 
 [Configurar las opciones del mobile][3]
 

@@ -36,7 +36,7 @@ Title: Comparison V.7 vs V.8
 |    [Knowledge Portal][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards and Customized Reports              |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Citsmart Neuro Application][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Mobile and Field Service][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile and CITSmart GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Contract Management                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Project Management                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Workflow Management][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -104,8 +104,8 @@ Version 8 presents a more inclusive Knowledge Portal with more efficient searche
 ### Citsmart Neuro Application
 In this update, the Neuro application engine has been enhanced to enable the generation of various features, such as the creation of complex forms, widgets, advanced flow building, among others.
 
-### Mobile and Field Service
-CITSmart, always connected with the needs of its clients, launches a new application called "CITSmart FS", which allows the management of attendances made by field technicians in offline mode, allowing the clients to make their work in an uninterrupted manner.
+### Mobile and CITSmart GO
+CITSmart, always connected with the needs of its clients, launches a new application called "CITSmart GO", which allows the management of attendances made by field technicians in offline mode, allowing the clients to make their work in an uninterrupted manner.
 
 ### Workflow Management
 In this version, several functionalities have been implemented to allow the creation and maintenance of flows, in a faster and more versatile way. In addition, it's possible now to import BPMN flows and use subprocesses.
@@ -120,7 +120,7 @@ This feature has been completely redesigned, which makes it possible to quickly 
 It was developed analyze data from cognitive intelligence in order to optimize the management of processes, such as Ticket Management, Change Management and Knowledge Management.
 
 ### Smart Analytics
-It allows the integration with Saiku tool, which enables fantastic analysis of the CITSmart SM data, allowing the creation of dashboards, panels and reports.
+It allows the integration with Saiku tool, which enables fantastic analysis of the CITSmart Experience data, allowing the creation of dashboards, panels and reports.
 
 ### IBM Watson
 Integration with the IBM Watson solution, allowing the usage of cognitive intelligence in CITSmart workflows.

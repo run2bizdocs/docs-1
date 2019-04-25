@@ -1,6 +1,6 @@
-Title: Modelando
+Title: Modelado de proceso
 
-# Modelando
+# Modelado de proceso
 
 El modelado de flujo de trabajo comprende las actividades de entendimiento y diseño de los procesos, que puede ser realizado utilizando metodologías y mejores prácticas de trabajo, por ejemplo, el BPMN. 
 

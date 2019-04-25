@@ -71,7 +71,7 @@ Anuva
 -----
 
 ANUVA was also initiated and represents the Artificial Intelligence of CITSmart, where it promotes
-integration and machine learning with knowledge
+integration and machine learning with knowledge.
 
 Neuro
 -----

@@ -1,10 +1,10 @@
-title: Manual de uso de la aplicación móvil CITSmart SM (iOS)
+title: Manual de uso de la aplicación móvil CITSmart Experience (iOS)
 Description: Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil CITSmart ITSM Enterprise en la plataforma iOS.
-#Manual de uso de la aplicación móvil CITSmart SM (iOS)
+#Manual de uso de la aplicación móvil CITSmart Experience (iOS)
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-instalar, configurar y utilizar la aplicación móvil CITSmart SM
+instalar, configurar y utilizar la aplicación móvil CITSmart Experience
 en la plataforma iOS.
 
 Ofrece varios recursos, tales como:
@@ -30,20 +30,20 @@ Antes de empezar
 -----------
 
 Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
-SM y también Configurar el servidor para uso de la aplicación móvil CITSmart
-SM (ver documentos relacionados).
+Experience y también Configurar el servidor para uso de la aplicación móvil CITSmart
+Experience (ver documentos relacionados).
 
 Instalación y configuración del APP en el mobile
 --------------------
 
-Para instalar el CITSmart SM, se debe realizar la búsqueda de la
+Para instalar el CITSmart Experience, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (App Store).
 
-1.  Puedes buscar CITSmart SM en la App Store, seleccionar y bajar
+1.  Puedes buscar CITSmart Experience en la App Store, seleccionar y bajar
     la aplicación ;
 
 2.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
-    SM:;
+    Experience:;
 3.  Para crear una conexión, presione el icono con "Agregar conexión", como se
     indica en la figura siguiente:
 
@@ -194,7 +194,7 @@ Utilización del APP en el mobile
 
     !!! Abstract "ATENCIÓN"
 
-        La solicitude registrada por CITSmart SM utiliza servicios que
+        La solicitude registrada por CITSmart Experience utiliza servicios que
         se configuran em CITSmart Web.
 
 

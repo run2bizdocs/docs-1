@@ -14,35 +14,35 @@ Figura 1 - Smart Portal
 
 
 
-- 1: Botão de menu - permite esconder/exibir o menu do Smart Portal
+- **1**: Botão de menu - permite esconder/exibir o menu do Smart Portal
 
-- 2: Portal do Conhecimento - atalho para Portal do Conhecimento, onde permite realizar a busca de informações relevantes do uso do sistema
+- **2**: Portal do Conhecimento - atalho para Portal do Conhecimento, onde permite realizar a busca de informações relevantes do uso do sistema
 
-- 3: Guia do Usuário - atalho para o Guia do Usuário, onde permite realizar a busca de informações relevantes
+- **3**: Guia do Usuário - atalho para o Guia do Usuário, onde permite realizar a busca de informações relevantes
 
-- 4: Acessar o Sistema - entrar no sistema
+- **4**: Acessar o Sistema - entrar no sistema
 
-- 5: Notificações - local onde as mensagens de alerta do sistema são apresentadas
+- **5**: Notificações - local onde as mensagens de alerta do sistema são apresentadas
 
-- 6: Identificação do usuário - são exibidas as funções para alterar o perfil e sair do sistema
+- **6**: Identificação do usuário - são exibidas as funções para alterar o perfil e sair do sistema
 
-- 7: Pesquisa - permite buscar os serviços disponíveis no portal
+- **7**: Pesquisa - permite buscar os serviços disponíveis no portal
 
-- 8: Portal - permite voltar à tela inicial do Smart Portal
+- **8**: Portal - permite voltar à tela inicial do Smart Portal
 
-- 9: Smartbox  - mostra a quantidade de solicitações que estão no carrinho de compras do usuário (opção ativa apenas quando parâmetro 292 estiver setado em "SIM")
+- **9**: Smartbox  - mostra a quantidade de solicitações que estão no carrinho de compras do usuário (opção ativa apenas quando parâmetro 292 estiver setado em "SIM")
 
-- 10: Minhas solicitações - permite ao usuário logado visualizar suas solicitações de serviços e executar algumas ações nas mesmas
+- **10**: Minhas solicitações - permite ao usuário logado visualizar suas solicitações de serviços e executar algumas ações nas mesmas
 
-- 11: Aprovações - permite visualizar somente as solicitações de serviços que requer aprovação
+- **11**: Aprovações - permite visualizar somente as solicitações de serviços que requer aprovação
 
-- 12: Notícias - local onde é disponibilizado as notícias, como por exemplo, referente à organização, ao sistema, etc
+- **12**: Notícias - local onde é disponibilizado as notícias, como por exemplo, referente à organização, ao sistema, etc
 
-- 13: Campanhas Ativas - permite buscar/acompanhar as atividades registradas
+- **13**: Campanhas Ativas - permite buscar/acompanhar as atividades registradas
 
-- 14: Chat - permite criar uma solicitação de serviço e interagir com o atendente sobre a mesma
+- **14**: Chat - permite criar uma solicitação de serviço e interagir com o atendente sobre a mesma
 
-- 15: Idioma - permite escolher o idioma que deseja para o sistema (Português, Inglês ou Espanhol)
+- **15**: Idioma - permite escolher o idioma que deseja para o sistema (Português, Inglês ou Espanhol)
 
 
 Antes de começar 

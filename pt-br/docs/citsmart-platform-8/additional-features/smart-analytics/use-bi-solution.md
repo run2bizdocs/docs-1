@@ -45,7 +45,7 @@ Procedimento
     formatos de tabela e de gráfico;
 
 3.  Para mudar a posição das unidades de medida na tabela/gráfico, clicar no
-    botão de detalhes disponível em cada caixa de medidas do dashboard
+    botão de detalhes disponível em cada caixa de medidas do dashboard;
 
 4.  Para exportar o relatório clicar no botão “Export” e selecionar uma opção de
     formato (PNG e PDF);

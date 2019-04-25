@@ -36,7 +36,7 @@ Title: Comparación V.7 vs V.8
 |    [Portal del Conocimiento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards e Informes Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [CITSmart Neuro aplicación][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Mobile y Field Service][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile y CITSmart GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Gestión de contratos                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gestión de proyectos                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Gestión de flujo de trabajo][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -105,8 +105,8 @@ La versión 8 presenta un Portal de Conocimiento más inclusivo y con búsquedas
 ### CITSmart Neuro Aplicación
 En esta actualización, el motor de aplicaciones Neuro se ha mejorado para permitir la generación de diversos recursos, como la creación de formularios complejos y widgets, la construcción de flujos avanzados, entre otros.
 
-### Mobile y Field Service
-CITSmart, siempre conectada a las necesidades de sus clientes, lanza una nueva aplicación llamada "CITSmart FS", que permite la gestión de atenciones hechas por técnicos en campo en modo offline, permitiendo que el cliente realice sus trabajos de forma ininterrumpida.
+### Mobile y CITSmart GO
+CITSmart, siempre conectada a las necesidades de sus clientes, lanza una nueva aplicación llamada "CITSmart GO", que permite la gestión de atenciones hechas por técnicos en campo en modo offline, permitiendo que el cliente realice sus trabajos de forma ininterrumpida.
 
 ### Gestión de flujo de trabajo
 En esta versión, se implementaron diversas funcionalidades que posibilitan la creación y mantenimiento de flujos de modo más rápido y versátil. Además, ahora es posible importar flujos BPMN y utilizar subprocesos.
@@ -121,7 +121,7 @@ La Funcionalidad ha sido totalmente remodelada, lo que posibilita la creación d
 Se la fue desarrollada para hacer el análisis de datos a partir de inteligencia cognitiva, para optimizar la gestión de procesos, como la Gestión de Ticket, Gestión de Cambio y Gestión de Conocimiento.
 
 ### Smart Analytics
-Permite la integración con la herramienta Saiku, lo que posibilita análisis fantásticos en los datos del CITSmart SM, permitiendo la creación de dashboards, paneles e informes.
+Permite la integración con la herramienta Saiku, lo que posibilita análisis fantásticos en los datos del CITSmart Experience, permitiendo la creación de dashboards, paneles e informes.
 
 ### IBM Watson
 Integración con la solución IBM Watson, que permite el uso de inteligencia cognitiva en los flujos de trabajo de CITSmart.

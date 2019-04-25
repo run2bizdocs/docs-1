@@ -39,7 +39,7 @@ Related
 
 [Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 [Configure parametrization - change](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 

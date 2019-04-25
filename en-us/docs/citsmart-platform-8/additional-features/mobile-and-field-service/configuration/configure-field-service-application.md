@@ -1,9 +1,9 @@
-title: Configure instance to use CITSmart FS application
+title: Configure instance to use CITSmart GO application
 Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-#Configure instance to use CITSmart FS application
+#Configure instance to use CITSmart GO application
 
 
-The CITSmart FS application makes possible make attendance in offline mode - in
+The CITSmart GO application makes possible make attendance in offline mode - in
 which the attendant does not have an internet. After the application connects to
 the internet, the application will automatically send the information to the
 production environment. Remember that the delegation of the request to an
@@ -14,7 +14,7 @@ The attendant will only see requests that have been delegated to he/she.
 Before getting started
 --------------------------
 
-1.  Install the application CITSmart FS;
+1.  Install the application CITSmart GO;
 
 2.  In the environment - CITSmart instance - , configure the following
     functionalities:
@@ -75,13 +75,13 @@ Procedure
 What to do next
 -------------------
 
-Log the CITSmart FS application already installed, entering the URL, user and
+Log the CITSmart GO application already installed, entering the URL, user and
 environment password. Verify the ticket and make the attendance.
 
 Related
 -------
 
-[CITSmart Field Service (FS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[CITSmart GO application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"

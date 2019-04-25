@@ -82,17 +82,17 @@ Procedimento
 Figura 1 - Tela Sprint
 
 
-   -   1: pesquisar Sprints com filtros de membros, tags e status da Sprint
+   -   **1**: pesquisar Sprints com filtros de membros, tags e status da Sprint
     (concluída e não concluída)
 
-   -   2: criar nova Sprint
+   -   **2**: criar nova Sprint
 
-   -   3: abreviação dos nomes dos membros adicionados. Ao clicar é possível
+   -   **3**: abreviação dos nomes dos membros adicionados. Ao clicar é possível
     excluir e definir se o membro será administrador ou não
 
-   -   4: adicionar membros que participarão da Sprint
+   -   **4**: adicionar membros que participarão da Sprint
 
-   -   5: ações de configuração e permissão da Sprint
+   -   **5**: ações de configuração e permissão da Sprint
 
 
 *III - Criar listas*
@@ -107,21 +107,21 @@ Figura 1 - Tela Sprint
     Figura 2 - Tela lista
 
 
-    -   1: pesquisar tarefas com filtros de membros, tags e status da lista
+    -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista
     (concluída e não concluída)
 
-    -   2: criar nova lista
+    -   **2**: criar nova lista
 
-    -   3: atualizar a tela
+    -   **3**: atualizar a tela
 
-    -   4: abreviação do nome do membro adicionado. Ao clicar é possível excluir e
+    -   **4**: abreviação do nome do membro adicionado. Ao clicar é possível excluir e
     definir se o membro será administrador ou não
 
-    -   6: definir data, hora e estimativa de horas para entrega
+    -   **6**: definir data, hora e estimativa de horas para entrega
 
-    -   7: visualizar o histórico de ações
+    -   **7**: visualizar o histórico de ações
 
-    -   8: arquivar lista de tarefas
+    -   **8**: arquivar lista de tarefas
 
 *IV - Criar tarefas*
 
@@ -130,11 +130,11 @@ Figura 1 - Tela Sprint
    Figura 3 - Tela tarefa
 
 
-   -   1: criar nova tarefa
+   -   **1**: criar nova tarefa
 
-   -   2: definir em qual estágio a tarefa se encontra.
+   -   **2**: definir em qual estágio a tarefa se encontra.
 
-   -   3: mover a lista fisicamente dentro do quadro
+   -   **3**: mover a lista fisicamente dentro do quadro
 
 !!! Abstract "ATENÇÃO"
 
@@ -154,30 +154,30 @@ dispositivos de controle e gestão.
       Figura 4 - Tela cartão
 
 
-    -   1: adicionar ou retirar membros na tarefa
+    -   **1**: adicionar ou retirar membros na tarefa
 
-    -   2: adicionar listas de ações que serão visualizadas na aba Checklist
+    -   **2**: adicionar listas de ações que serão visualizadas na aba Checklist
 
-    -   3: adicionar comentários
+    -   **3**: adicionar comentários
 
-    -   4: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
+    -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
 
-    -   5: adicionar tags para identificar visualmente o cartão de tarefa
+    -   **5**: adicionar tags para identificar visualmente o cartão de tarefa
 
-    -   6: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
+    -   **6**: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
     comunicação será através do botão de notificações do CITSmart Platform
 
-    -   7: indicar a finalização da tarefa
+    -   **7**: indicar a finalização da tarefa
 
-    -   8: Mover a tarefa para outra Sprint:
+    -   **8**: Mover a tarefa para outra Sprint:
 
         -   Sprint do *mesmo* Workspace: as tags são mantidas, porém os membros são
             removidos da tarefa
 
         -   Sprint de *outro* Workspace: as tags e membros serão removidos da tarefa
 
-    -   9: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
+    -   **9**: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
     ser reutilizado.
 
 1.  Descrever a tarefa no campo “Descrição”;

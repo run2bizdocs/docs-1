@@ -25,23 +25,23 @@ Procedimento
 
 Figura 1 - Criar conhecimento
 
--   1: Cadastro - registrar o documento;
+-   **1**: Cadastro - registrar o documento;
 
--   2: Documento Relacionado - permite vincular um conhecimento já existente ao
+-   **2**: Documento Relacionado - permite vincular um conhecimento já existente ao
     documento que está sendo criado;
 
--   3: Item de Configuração - permite vincular um item de configuração;
+-   **3**: Item de Configuração - permite vincular um item de configuração;
 
--   4: Categoria de Ocorrência de Evento - permite vincular uma categoria de
+-   **4**: Categoria de Ocorrência de Evento - permite vincular uma categoria de
     ocorrência;
 
--   5: Partes interessadas - selecione as partes (usuários ou grupos) que terão
+-   **5**: Partes interessadas - selecione as partes (usuários ou grupos) que terão
     acesso ao conhecimento, sendo possível notificá-los;
 
--   6: Notificações - configura notificações da publicação, por e-mail e em
+-   **6**: Notificações - configura notificações da publicação, por e-mail e em
     tela;
     
--   7: Versão - mostra todas as versões daquele documento.    
+-   **7**: Versão - mostra todas as versões daquele documento.    
 
     
 !!! Abstract "ATENÇÃO"
@@ -123,13 +123,13 @@ Figura 3 - Botão Opções
    Ao ter um conhecimento já registrado, o botão “Opções” apresenta outras
   ações:
 
--   1: salva o conhecimento;
+-   **1**: salva o conhecimento;
 
--   2: exclui o conhecimento;
+-   **2**: exclui o conhecimento;
 
--   3: limpa o documento que está aberto;
+-   **3**: limpa o documento que está aberto;
 
--   4: arquiva o documento que está aberto, tornando-o não visível no Portal de
+-   **4**: arquiva o documento que está aberto, tornando-o não visível no Portal de
     Conhecimentos.
     
     

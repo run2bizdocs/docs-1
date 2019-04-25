@@ -1,6 +1,6 @@
-Title: Modeling
+Title: Process modeling
 
-# Modeling
+# Process modeling
 
 The workflow modeling comprises the activities of understanding and designing the processes, which can be performed using methodologies and best work practices, such as BPMN. 
 

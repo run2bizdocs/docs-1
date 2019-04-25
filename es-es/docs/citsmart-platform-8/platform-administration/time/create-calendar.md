@@ -1,6 +1,6 @@
-title: Crear calendário
+title: Crear calendario
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo. 
-#Crear calendário
+#Crear calendario
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo.
 
 Antes de empezar

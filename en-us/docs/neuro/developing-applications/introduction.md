@@ -59,14 +59,14 @@ The configuration step will make us ready to develop the application:
 
 2.  Create *FORMS* related to your Business.
 
-## SM Connection
+## CITSmart Experience Connection
 
 
 After you have your Business Objects and Forms created you can:
 
 1.  *LINK THE FORM TO A SERVICE* as needed, or
 
-2.  *LINK THE FORM TO SM MENU OR TO AN EXPERIENCE CENTER*, this will make you
+2.  *LINK THE FORM TO CITSmart Experience MENU OR TO AN EXPERIENCE CENTER*, this will make you
     able to maintain tables and additional data that will be not used on a
     ticket opening.
 

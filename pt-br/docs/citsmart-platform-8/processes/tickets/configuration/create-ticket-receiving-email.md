@@ -81,4 +81,4 @@ Anexo
     
 [1]:/pt-br/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
   
-[2]:/pt-br/citsmart-platform-8/processes/tickets/images/script-rhino-email.rtf
+[2]:/pt-br/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf

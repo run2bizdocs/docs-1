@@ -261,7 +261,7 @@ In the review and closure of a change, in addition to informing if the change wa
 
 For further information access the documentation about [Change Management][5]
 
-### Deployment and Release Management
+## Deployment and Release Management
 
 he Deployment and Release Management process also passed through evolutions. The list pane follows the same pattern presented in the Problem and Change Management processes.
 
@@ -275,7 +275,7 @@ In the side menu, it was structured a sequence of steps to facilitate the follow
 
 ![c-Deployment and planning panel](images/deployment-planning-panel.png)
 
-### Business Intelligence
+## Business Intelligence
 
 One of the optional modules in this new version is the Smart Analytics, that allows the use of the Saiku Community BI framework for data analysis of Tickets, Changes, Releases etc and others **(a.)**, various views of charts and tables are available, with the possibility of filters and export to csv and pdf **(b.)**.
 
@@ -283,7 +283,7 @@ One of the optional modules in this new version is the Smart Analytics, that all
 
 ![b-Charts and tables views](images/charts-tables-views.png)
 
-### Audit Trail
+## Audit Trail
 
 Audit trails have been created to give more transparency to the data usage and security of our system, there are three Audit options: **data**, **access** and **key**. 
 
@@ -307,9 +307,9 @@ In this audit option, it informs the licenses used for the validation of the sys
 
 ![Key Audit](images/key-audit.png)
 
-### Mobile Field Service App
+## Mobile CITSmart GO App
 
-The App FS was created to give more flexibility and agility in field service. App features can run offline and then synchronized easily.
+The App CITSmart GO was created to give more flexibility and agility in field service. App features can run offline and then synchronized easily.
 
 ![App FS](images/62-app-fs.jpg)
 
@@ -323,13 +323,13 @@ The App FS was created to give more flexibility and agility in field service. Ap
 
 ![App FS](images/67-app-fs.jpg)
 
-For further information access the documentation about [CITSmart Field Service][7]
+For further information access the documentation about [CITSmart GO][7]
 
-### App Service Management
+## App CITSmart Experience
 
-The Mobile SM App was created so that the features and benefits of the CITSmart solution can also be accessed via mobile devices, this new version includes notifications for the Android operating system and the possibility of confirmation for attendance via subscription.
+The Mobile CITSmart Experience App was created so that the features and benefits of the CITSmart solution can also be accessed via mobile devices, this new version includes notifications for the Android operating system and the possibility of confirmation for attendance via subscription.
 
-For further information access the documentation about [Mobile CITSmart SM][8]
+For further information access the documentation about [Mobile CITSmart Experience][8]
 
 ![App Mobile SM](images/68-app-mobile-sm.jpg)
 

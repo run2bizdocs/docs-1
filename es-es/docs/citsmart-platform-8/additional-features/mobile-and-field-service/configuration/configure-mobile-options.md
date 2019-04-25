@@ -5,12 +5,12 @@ Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el u
 
 !!! Abstract "ATENCIÓN"
 
-    La aplicación SM permite utilizar las características de la versión *web* elegidas en la versión móvil, teniendo las mismas             funciones que la versión de desktop.
+    La aplicación CITSmart Experience permite utilizar las características de la versión *web* elegidas en la versión móvil, teniendo las mismas funciones que la versión de desktop.
 
 Antes de empezar
 --------------------
 
-Es necesario instalar previamente la aplicación CITSmart SM en el
+Es necesario instalar previamente la aplicación CITSmart Experience en el
 dispositivo móvil.
 
 Procedimiento
@@ -31,9 +31,9 @@ Procedimiento
 Relacionado
 -----------
 
-[Manual de uso de la aplicación móvil CITSmart SM ](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
+[Manual de uso de la aplicación móvil CITSmart Experience ](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
 
-[Manual de uso de la aplicación móvil CITSmart SM (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart Experience (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
 [Obtener signatura en atención de campo](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 

@@ -56,7 +56,7 @@ Related
 
 [Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-[Workflow maintenance](/en-us/docs/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
     
    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'

@@ -60,7 +60,7 @@ Procedure
 Related
 -----------
 
-[Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 [Register questionnaire](/en-us/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 

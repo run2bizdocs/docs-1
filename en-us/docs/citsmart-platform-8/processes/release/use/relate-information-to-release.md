@@ -1,13 +1,14 @@
 title: Relate information to the release
 Description: It's possible to link the release to other functionalities.
-#Relate information to the release
+# Relate information to the release
 It's possible to link the release to other functionalities, for example: change, projects and others, intended to include further information when executing the release.
 
 Before getting started
 --------------------------
 
-To link, it's necessary to previously register the change, problem,
-questionnaire, definitive media, knowledge and requests.
+The information link can occur throughout the Release lifecycle, so it 
+can - and should - be used at any time, if necessary. However, it is 
+necessary to have access to a Release.
 
 Procedure
 -------------
@@ -25,6 +26,11 @@ Procedure
     field, select the change you want. If you want to register a new change
     using the release to be created as parameter, click on "Register Change" and
     complete the necessary data;
+
+!!! Abstract "RULE"
+
+    The system will only allow the link of Changes to the Release if it has a status 
+    other than "Registered" and "Canceled".
 
 5.  To link **Definitive Media**, click on the corresponding area, then on the
     search field, select the media you want. If you want to register a new
@@ -57,7 +63,7 @@ Related
 
 [Configure email template](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html) 
+[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html) 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 

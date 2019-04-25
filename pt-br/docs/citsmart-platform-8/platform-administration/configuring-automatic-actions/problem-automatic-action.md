@@ -42,7 +42,7 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
+[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 

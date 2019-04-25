@@ -284,7 +284,7 @@ Um dos módulos opcionais nesta nova versão é o Smart Analytics que permite o 
 
 ![b-Visões de graficos e tabelas](images/charts-tables-views.png)
 
-### Trilha de Auditoria
+## Trilha de Auditoria
 
 As trilhas de auditoria foram criadas para dar mais transparência do uso de dados e segurança do nosso sistema, existem três opções de Auditoria: de **dados**, de **acesso** e de **chave**. 
 

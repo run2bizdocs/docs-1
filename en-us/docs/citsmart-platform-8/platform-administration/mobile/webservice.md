@@ -8,9 +8,9 @@ The Mobile functionality was developed to allow greater autonomy in the manageme
 Related
 ------
 
-[Configure CITSmart Field Service (FS) application][1]
+[Configure CITSmart GO application][1]
 
-[CITSmart Field Service (FS) application Manual][2]
+[CITSmart GO application Manual][2]
 
 [Configure mobile options][3]
 

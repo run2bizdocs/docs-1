@@ -20,7 +20,12 @@ Procedimento
 
 3.  Na área “Diagnóstico”, para um melhor compreensão e investigação do
     problema, é possível realizar as seguintes atividades:
-
+    
+    !!! Abstract "ATENÇÃO"
+    
+        Usuários que utilizavam a versão 7: os campos **Messagem de erro associada** e **Diagnóstico** que já continham                   informações, serão apresentadas agora na versão 8, na aba *Avaliação e Diagnóstico*, dentro da área *Diagnóstico*.
+        Caso não tenha informações nesses campos em versões anteriores, não será apresentada esta aba na versão 8.
+    
     -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
     Kanban, é necessário clicar no botão “+Workspace” e preencher os dados
     disponibilizados, tais como título, selecionar os usuários responsáveis pela
@@ -39,7 +44,7 @@ Procedimento
     !!! Abstract "NOTA"
 
         As soluções contorno aqui cadastradas poderão ser visualizadas na tela de
-        “Ticktet” ao vincular o problema ao ticket.
+        “Ticket” ao vincular o problema ao ticket.
      
     -   Na aba “Anexos”, é possível realizar o upload dos arquivos desejados;
 
@@ -59,6 +64,12 @@ Procedimento
 
     -   Também é viável o anexo de arquivos e registro de notas nesta fase de
     execução do problema.
+    
+    !!! Abstract "NOTA"
+
+        A aba **Solução definitiva** somente estará disponível (na versão 8), em
+        problemas que já haviam uma solução definitiva registrada na versão 7.
+
 
 5.  Na área “Revisão e fechamento”, será permitido especificar os pormenores da
     solução do problema e as lições aprendidas com o mesmo, através das
@@ -77,8 +88,10 @@ Procedimento
     selecionar e vincular um conhecimento para dizimar as instruções a fim
     facilitar a solução de problemas futuros parecidos.
 
-    -   Também é viável o anexo de arquivos e registro de notas nesta fase de
+    -   Também é viável o anexo de arquivos e registrar  anotações perninetes nesta fase de
     execução do problema.
+    
+    -   Na aba "Fechamento", é possível escolher a situação em que se encontra o problema (Registrada, Resolvida ou Cancelada). Se optar pelas duas últimas opções, será necessário escolher a causa e categoria da solução, além de descrever as informações necessárias ao fechamento do problema.
 
 6.  Clicar no botão “Opções” e em seguida apertar ou o botão “Gravar e manter a
     tarefa atual” para registar a execução e não avançar o fluxo da atividade ou
