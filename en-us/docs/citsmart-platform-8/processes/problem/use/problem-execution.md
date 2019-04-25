@@ -1,6 +1,6 @@
 title: Execute problem
 Description: It allows to execute problem.
-#Execute problem
+# Execute problem
 
 This functionality allows to execute the problem. In this step, it's made the classification of the problem and the designation of the appropriate area to handle the problem according to the IT Service Catalog. It's necessary to link the problem to existing incidents and register the problem to facilitate prioritization of problem solving, evaluate the impact on business, and determining the urgency of the solution. This evaluation determines the classification of the problem.
 
@@ -19,7 +19,15 @@ Procedure
     confirm the assignment of a task to your user;
 
 3.  In the "Diagnosis" area, for a better understanding and investigation of the
-problem, you can perform the following activities:
+    problem, you can perform the following activities:
+    
+    !!! Abstract "ATTENTION"
+    
+        Users using version 7: the **associated error message** and **Diagnostic** 
+        fields that already contained information, will now appear in version 8 on 
+        the *Evaluation and Diagnostics* tab within the *Diagnostics* area. If you 
+        do not have information in these fields in previous versions, this tab will 
+        not appear in version 8.
 
     -   Create a Kanban or link an existing one. To create a new Kanban, 
     you need to click on "+ Workspace" and complete the data available, 
@@ -59,6 +67,12 @@ problem, you can perform the following activities:
 
     -   It's also possible to attach files and register notes in this fase of
     the problem execution.
+    
+    !!! Abstract "NOTE"
+    
+        The **Definitive Solution** tab will only be available (in version 8), 
+        in problems that already had a definitive solution registered in version 7.
+    
 
 5.  In the "Review and closure" area, it'll be allowed to specify the details of
     the problem solution and lessons learned with it, through the
@@ -79,6 +93,10 @@ problem, you can perform the following activities:
 
     -   It's also possible to attach files and register notes in this phase of the
     problem execution.
+    
+    -   In the "Closure" tab, it is possible to choose the status where the problem is (Registered, 
+    Solved or Canceled). If you choose the last two options, you will need to choose the cause and 
+    category of the solution, as well as describe the information needed to close the problem.
 
 6.  Click on "Operations" and then on "Save and keep current task" to register
     the execution and not advance the activiy flow or select "Save and advance
