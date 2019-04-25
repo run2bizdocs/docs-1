@@ -59,7 +59,7 @@ Relacionado
 
 [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow.maintenance.html)
+[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 [Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
 
