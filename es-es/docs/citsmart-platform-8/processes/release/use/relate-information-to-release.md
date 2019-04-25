@@ -1,6 +1,6 @@
 title:  Relacionar información a la liberación 
 Description: Es posible vincular a la Liberación una serie de informaciones.
-#Relacionar información a la liberación
+# Relacionar información a la liberación
 Es posible vincular a la Liberación una serie de informaciones, tales como: cambio, proyecto, EC, entre otros, con el fin de solidificar y basar la ejecución del proceso.
 
 Antes de empezar
@@ -8,7 +8,7 @@ Antes de empezar
 
 El vínculo de información puede ocurrir en todo el ciclo de vida de la
 liberación, de esta forma puede - y debe - ser utilizado en cualquier momento,
-si es necesario, sin embargo, es necesario tener acceso a una liberación.
+si es necesario, sin embargo, es necesario tener acceso a una Liberación.
 
 Procedimiento
 -------------
@@ -26,6 +26,12 @@ Procedimiento
     deseado. Si desea registrar un nuevo cambio utilizando la liberación que se
     creará como parámetro, basta hacer clic en "Registrar Cambio" y completar
     los datos necesarios;
+    
+!!! Abstract "REGLA"
+
+    El sistema sólo permitirá el vínculo de Cambios a la Liberación si está con el 
+    estado distinto de "Registrada" y "Cancelada".
+
 
 5.  Para vincular **Media Definitiva**, hacer clic en el área del mismo nombre
     y, a continuación, hacer clic en el campo de búsqueda y seleccionar el medio
