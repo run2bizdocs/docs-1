@@ -1,6 +1,6 @@
 title:  Relacionar informações à liberação 
 Description: É possível vincular à Liberação uma série de informações.
-#Relacionar informações à liberação
+# Relacionar informações à liberação
 É possível vincular à Liberação uma série de informações, tais como: mudança, projeto, IC dentre outros, no intuito de solidificar e embasar a execução do processo.
 
 Antes de começar
