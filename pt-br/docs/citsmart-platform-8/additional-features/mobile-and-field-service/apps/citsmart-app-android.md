@@ -102,9 +102,9 @@ aplicativo na loja on-line (Google Play).
 10.  Para se conectar, basta selecionar a conexão, na tela inicial do aplicativo;
 
 
-    ![Registro](images/app-android-pt-4.jpg)
+![Registro](images/app-android-pt-4.jpg)
 
-    Figura 4 - Login
+   Figura 4 - Login
 
 
 Utilização do app no celular (smartphone)
@@ -194,17 +194,17 @@ realizar demais ações, que serão explicadas adiante.
 10.  Ao realizar o pull up na tela, serão atualizadas as solicitações existentes
     e exibidas as solicitações antigas;
 
-    ![solicitações antigas](images/app-android-pt-11.jpg)
+   ![solicitações antigas](images/app-android-pt-11.jpg)
 
-    Figura 11 - Atualização da lista com solicitações antigas
+   Figura 11 - Atualização da lista com solicitações antigas
 
 11.  Para ordenar as solicitações, clique no ícone de "Ordenar lista de solicitações". Será exibida
     uma lista de opções para ordenação (conforme ilustrada na figura abaixo),
     selecione uma opção desejada e clique em "Ok";
 
-    ![Ordenação](images/app-android-pt-12.jpg)
+   ![Ordenação](images/app-android-pt-12.jpg)
 
-    Figura 12 - Ordenação de solicitações
+   Figura 12 - Ordenação de solicitações
 
        +  **Número da solicitação**: ordena as solicitações pelo número, em ordem
             decrescente;
