@@ -50,7 +50,7 @@ Procedimento
 
        !!! Abstract "ATENÇÃO"
 
-       Caso o aparelho seja trocado, esta conexão deve ser deletado.
+        Caso o aparelho seja trocado, esta conexão deve ser deletado.
    
 
 
