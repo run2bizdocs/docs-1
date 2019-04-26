@@ -21,11 +21,21 @@ Parâmetros CITSmart):
 -   No parâmetro 53, informar o tipo de log que deseja. Os tipos são: ‘CIT_LOG’
     (arquivo de log) e ‘DB_LOG’ (grava no banco);
 
--   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria (Ex:
-    http://localhost:8088);
+-   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria; 
 
--   No parâmetro 424, informar a URL de acesso ao ActiveMQ (Ex:tcp://citACTIVEMQ:61616).
+!!! note "IMPORTANTE"
 
+    Nesta nova versão do sistema, o parâmetro 425 deve ser setado desta forma:
+    (http://localhost:8080/itsm-audit.
+    A porta 8080 deve ser alterada se o CITSmart estiver rodando em uma porta
+    diferente.  
+
+-   No parâmetro 424, considerar a informação embaixo:
+
+!!! Abstract "ATENÇÃO"
+
+    O parâmetro 424 deve ficar em branco, uma vez que ele será descontinuado em breve.
+   
 Procedimento
 ------------
 
