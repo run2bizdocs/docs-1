@@ -13,10 +13,10 @@ Antes de começar
 
 -   Mongodb.
 
-Também é necessário setar os seguintes parâmetros no CITSmart (Parametrização \>
+Também é necessário configurar os seguintes parâmetros no CITSmart (Parametrização \>
 Parâmetros CITSmart):
 
--   No parâmetro 52, setar o valor “true”;
+-   No parâmetro 52, configurar o valor “true”;
 
 -   No parâmetro 53, informar o tipo de log que deseja. Os tipos são: ‘CIT_LOG’
     (arquivo de log) e ‘DB_LOG’ (grava no banco);
@@ -25,7 +25,7 @@ Parâmetros CITSmart):
 
 !!! note "IMPORTANTE"
 
-    Nesta nova versão do sistema, o parâmetro 425 deve ser setado desta forma:
+    Nesta nova versão do sistema, o parâmetro 425 deve ser configurado desta forma:
     (http://localhost:8080/itsm-audit.
     A porta 8080 deve ser alterada se o CITSmart estiver rodando em uma porta
     diferente.  
