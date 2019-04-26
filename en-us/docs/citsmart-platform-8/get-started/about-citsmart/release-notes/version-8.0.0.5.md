@@ -57,3 +57,23 @@ Note the following scenario:
         screen;
 
     5.  In the next registration the message will not be repeated.
+    
+    
+    
+Get the packages:
+
+**SM**:
+ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.5/CitsmartITSM-Enterprise-8.0.0.5.war.zip  
+  
+**Inventory**:
+ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip  
+  
+**EVM**:
+ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip  
+  
+**Neuro**:
+ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.8.war.zip  
+  
+**Audit**:
+ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.2.0.zip
+
