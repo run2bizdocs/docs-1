@@ -22,8 +22,8 @@ electrónico.
 Procedimiento
 -----------------
 
-1.  Acceder a la funcionalidad en el menú principal Sistema \> Mantenimiento de
-    flujos;
+1.  Acceder a la funcionalidad en el menú principal Workflow \> Diseño de
+    flujo;
 
 2.  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";
 
