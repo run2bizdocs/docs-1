@@ -157,7 +157,7 @@ Para mais informações, veja [Manual de utilização do aplicativo CITSmart GO]
 
 Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas.
 
-Para mais informações, veja [Manual de utilização do palicativo mobile CITSmart Experience (Android)][21]
+Para mais informações, veja [Manual de utilização do aplicativo mobile CITSmart Experience][21]
 
 ### Neuro
 
@@ -191,4 +191,4 @@ __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 c
 [18]:/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [19]:/pt-br/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
 [20]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[21]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+[21]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
