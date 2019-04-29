@@ -196,9 +196,7 @@ Relacionado
 
 [Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de utilização do aplicativo mobile CITSmart Experience (Android)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[Manual de utilização do aplicativo mobile CITSmart Experience (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de utilização do aplicativo mobile CITSmart Experience](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
 [Configurar as opções de menu no mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
