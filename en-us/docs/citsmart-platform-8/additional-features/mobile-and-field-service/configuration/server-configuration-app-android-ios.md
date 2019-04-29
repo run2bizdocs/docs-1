@@ -67,13 +67,13 @@ Certification Issuer), it must be installed. Follow the procedures below:
 3.  Once installed, simply change the application's address to
     “<https://citsmart.centralit.com.br/citsmart>”.
 
-### Android app installation
+### Android and iOS app installation
 
 
-1.  Go to Google Play (Play Store) to download the Citsmart Experience Mobile
+1.  Go to Store (Play Store or App Store) to download the CITSmart Experience Mobile
     application;
 
-2.  Search for CITSMmart Experience and after the search, select the application;
+2.  Search for CITSmart Experience and after the search, select the application;
 
 3.  Press the “Install” button to download the application.
 
