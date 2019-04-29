@@ -17,6 +17,13 @@ cadastrar o modelo de e-mail com o modelo "Aguardando Aprovação" que se encont
 em anexo e o servidor de e-mail deverá ser configurado com todos os parâmetros
 referentes a regras de parametrização de e-mail.
 
+!!! Abstract "ATENÇÃO"
+
+    A aprovação de ticket via e-mail será possível apenas com os seguintes 
+    navegadores configurados como padrão: Mozilla Firefox, 
+    Google Chrome e Microsoft Edge a partir da versão 42.17134.1.0 .
+
+
 Procedimento
 ----------------
 
