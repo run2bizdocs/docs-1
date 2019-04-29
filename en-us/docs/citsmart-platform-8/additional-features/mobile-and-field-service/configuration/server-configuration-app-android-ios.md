@@ -205,9 +205,7 @@ Related
 
 [Cofigure parametrization - system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Mobile CITSmart Experience (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[Mobile CITSmart Experience (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart Experience application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
 [Configure mobile options](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
