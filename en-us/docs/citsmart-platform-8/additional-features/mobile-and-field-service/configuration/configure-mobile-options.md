@@ -32,9 +32,7 @@ Procedure
 Related
 -------
 
-[Mobile CITSmart Experience (Android) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[Mobile CITSmart Experience (iOS) application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Mobile CITSmart Experience application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
 [Get signature in field service](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
