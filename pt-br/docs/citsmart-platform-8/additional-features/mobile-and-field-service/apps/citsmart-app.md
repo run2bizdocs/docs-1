@@ -48,7 +48,7 @@ Procedimento
 8.	Após realizar a conexão, será apresentada a tela com menus de funcionalidades disponíveis.
 
 
-       !!! Abstract "ATENÇÃO"
+      !!! Abstract "ATENÇÃO"
 
         Caso o aparelho seja trocado, esta conexão deve ser deletado.
    
