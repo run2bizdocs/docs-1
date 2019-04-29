@@ -67,9 +67,9 @@ abaixo:
     necessidades (exemplo:
     “[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
-### Instalação do app Android
+### Instalação do app Android/iOS
 
-1.  Acesse o Google Play (Play Store) para abaixar o aplicativo CITSmart
+1.  Acesse a loja (Play Store ou App Store) para abaixar o aplicativo CITSmart
     Experience mobile;
 
 2.  Pesquise por CITSmart Experience e após a pesquisa, selecione o aplicativo;
