@@ -3,9 +3,12 @@ Description: Permite gerenciar os eventuais riscos ao sistema
 #Auditoria do sistema
 
 Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
+Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração
 
 Antes de começar 
 -----------------
+
+**Versão inferior à 0.4.0**
 
 É necesseário a instalação prévia dos seguintes produtos:
 
@@ -13,28 +16,43 @@ Antes de começar
 
 -   Mongodb.
 
-Também é necessário configurar os seguintes parâmetros no CITSmart (Parametrização \>
-Parâmetros CITSmart):
+**Versão iguais ou superiores à 0.4.0**
 
--   No parâmetro 52, configurar o valor “true”;
+- Não é preciso ter um ActiveMQ externo ativo;
 
--   No parâmetro 53, informar o tipo de log que deseja. Os tipos são: ‘CIT_LOG’
-    (arquivo de log) e ‘DB_LOG’ (grava no banco);
+- Não é preciso ter um serviço executando o .jar da auditoria;
 
--   No parâmetro 425, informar a URL de acesso ao CITSmart Auditoria; 
+- Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na
+pasta "\deployments"
 
-!!! note "IMPORTANTE"
+- Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activeqm:
 
-    Nesta nova versão do sistema, o parâmetro 425 deve ser configurado desta forma:
-    (http://localhost:8080/itsm-audit.
-    A porta 8080 deve ser alterada se o CITSmart estiver rodando em uma porta
-    diferente.  
+<jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
+<jms-queue name="ITSM.READ_LICENSE_AUDIT" entries="queue/ITSM.READ_LICENSE_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_LICENSE_AUDIT"/>
+<jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
+<jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
 
--   No parâmetro 424, considerar a informação embaixo:
+- Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no CITSmart EVM e CITSmart Inventory):
+
+<property name="mongodb.host" value="localhost"/>
+<property name="mongodb.port" value="27017"/>
+<property name="mongodb.user" value="mongodb"/>
+<property name="mongodb.password" value="mongodb"/>
+<property name="mongodb.dabase.audit" value="itsm-audit"/>   
+
+!!! note "OBSERVAÇÃO"
+
+    Configurar a conexão com do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações).
+
+- O parâmetro 424 deve ficar em branco;
+
+- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit)
 
 !!! Abstract "ATENÇÃO"
 
-    O parâmetro 424 deve ficar em branco, uma vez que ele será descontinuado em breve.
+    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo executado em porta diferente.  
+    
+- Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
    
 Procedimento
 ------------
