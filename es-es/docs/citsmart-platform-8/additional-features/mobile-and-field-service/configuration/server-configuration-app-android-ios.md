@@ -72,10 +72,10 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
     ejemplo:“[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
 
-### Instalación del APP Android
+### Instalación del App Android y iOS
 
 
-1.  Accede a Google Play (Play Store) para bajar la aplicación Citsmart
+1.  Accede a store (Play Store o App Store) para bajar la aplicación CITSmart
     Experience mobile;
 
 2.  Busque CITSmart Experience y después de la búsqueda, seleccione la
@@ -210,9 +210,7 @@ Relacionado
 
 [Configurar parametrización - sistema](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de uso de la aplicación móvil CITSmart Experience (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[Manual de uso de la aplicación móvil CITSmart Experience (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart Experience](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
 [Configurar las opciones del mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
