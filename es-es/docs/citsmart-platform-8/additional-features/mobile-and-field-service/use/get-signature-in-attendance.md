@@ -50,15 +50,13 @@ Procedimiento
 
 3.  El ticket no aparecerá más en la lista del técnico;
 
-4.  El asistente/administrador sólo verá la solicitud atendida por el técnico, cuando busque la misma en la búsqueda avanzada (menú         lateral de la pantalla de lista de tickets) y al abrir podrá ver la firma cosechada también.
+4.  El asistente/administrador sólo verá la solicitud atendida por el técnico, cuando busque la misma en la búsqueda avanzada (menú lateral de la pantalla de lista de tickets) y al abrir podrá ver la firma cosechada también.
     
 
 Relacionado
 ----------
 
-[Manual de uso de la aplicación móvil CITSmart Experience (Android)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html)
-
-[Manual de uso de la aplicación móvil CITSmart Experience (iOS)](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
+[Manual de uso de la aplicación móvil CITSmart Experience](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
 [Configurar las opciones del móvil](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
