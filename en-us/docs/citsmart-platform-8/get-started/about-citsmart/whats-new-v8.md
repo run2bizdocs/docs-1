@@ -311,7 +311,7 @@ In this audit option, it informs the licenses used for the validation of the sys
 
 The App CITSmart GO was created to give more flexibility and agility in field service. App features can run offline and then synchronized easily.
 
-![App FS](images/62-app-fs.jpg)
+![App FS](images/62-app-fs.png)
 
 ![App FS](images/63-app-fs.jpg)
 
