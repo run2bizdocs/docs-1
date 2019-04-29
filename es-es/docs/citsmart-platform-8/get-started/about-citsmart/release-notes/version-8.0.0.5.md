@@ -1,7 +1,7 @@
 Description: Release Notes de CITSmart Versión 8.0.0.5 de 22/04/2019
 
 # Versión 8.0.0.5
-_22/04/2019_
+_25/04/2019_
 
 
 ## Problemas Resueltos
@@ -77,4 +77,3 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/C
   
 **Audit**:
 ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.2.0.zip
-
