@@ -18,7 +18,7 @@ parameterization rules.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu System \> Flow Maintenance;
+1.  Access the functionality through the main menu Workflow \> Flow Design;
 
 2.  Select the request approval flow and click on "Edit";
 
@@ -69,6 +69,7 @@ Related
 [Configure parametrization – email](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
 [Configure parametrization - system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+
 
 Attachment
 ----------

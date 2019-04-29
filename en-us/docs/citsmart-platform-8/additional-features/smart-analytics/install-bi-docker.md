@@ -12,17 +12,16 @@ Docker, following the installation configuration.
 Before getting started
 ----------------
 
-The user must have Docker previously installed. The system manager must have a 
-Bitbucket account so that he/she can access the citbi repository.
+The user must have Docker previously installed.
 
 Procedure
 ------------
 
 *Installation*
 
-1.  Clone the citbi repository:
+1.  Download citBI in:
 
-    git clone https://diogojapiassu@bitbucket.org/diogojapiassu/citbi.git
+    ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/citBI/citbi-1.0.0/citbi-1.0.0.zip and then unzip
 
 1.  Enter the command and then unzip:
 
@@ -43,7 +42,7 @@ Procedure
 1.  In the folder /citbi/composes, configure the database:
     ```sh
     vi /citbi/composes/
-    [docker-compose.yml](https://bitbucket.org/diogojapiassu/citbi/src/master/composes/docker-compose.yml)
+    [docker-compose.yml](/citbi/src/master/composes/docker-compose.yml)
     ```
     
     i (enter)

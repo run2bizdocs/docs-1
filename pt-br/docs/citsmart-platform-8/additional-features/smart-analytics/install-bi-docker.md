@@ -42,7 +42,7 @@ Procedimento
 1.  Na pasta /citbi/composes, configurar o banco de dados:
     ```sh
     vi /citbi/composes/
-    [docker-compose.yml](https://bitbucket.org/diogojapiassu/citbi/src/master/composes/docker-compose.yml)
+    [docker-compose.yml](/citbi/src/master/composes/docker-compose.yml)
     ```
     
     i (inserir)
@@ -154,7 +154,6 @@ Relacionado
 -----------
 
 [Usar o Smart Analytics (BI) para gerar relatórios](/pt-br/citsmart-platform-8/additional-features/smart-analytics/use-bi-solution.html)
-
 
 
 !!! tip "About"

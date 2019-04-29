@@ -200,7 +200,7 @@ Relacionado
 
 [Manual de utilização do aplicativo mobile CITSmart Experience (iOS)](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-ios.html)
 
-[Configurar as opções de mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar as opções de menu no mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 !!! tip "About"
 

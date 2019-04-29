@@ -157,7 +157,7 @@ For further information, see [Mobile Field Service][20]
 
 Still in the context of mobility, and no less robust, we improved the Mobile SM application, which has among other uses, the ability to sign, approve and notes.
 
-For further information, see [Mobile Service Management][21]
+For further information, see [Mobile CITSmart Experience application manual][21]
 
 ### Neuro
 
@@ -190,6 +190,6 @@ __If the customer doesn't want to use the new flows, the latest version 7.1.0 wi
 [18]:/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [19]:/en-us/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
 [20]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[21]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+[21]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
 
 

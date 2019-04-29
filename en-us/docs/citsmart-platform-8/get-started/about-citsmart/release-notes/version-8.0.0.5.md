@@ -1,7 +1,7 @@
-Description: Release Notes from CITSmart Version 8.0.0.5 of 04/22/2019
+Description: Release Notes from CITSmart Version 8.0.0.5 of 04/25/2019
 
 # Version 8.0.0.5
-_04/22/2019_
+_04/25/2019_
 
 
 ## Problems Fixed
