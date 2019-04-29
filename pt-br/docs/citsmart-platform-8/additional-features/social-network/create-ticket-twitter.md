@@ -1,6 +1,7 @@
 title: Criar ticket pelo Twitter
 Description: O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
-#Criar ticket pelo Twitter
+
+# Criar ticket pelo Twitter
 O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
 
 Antes de começar
