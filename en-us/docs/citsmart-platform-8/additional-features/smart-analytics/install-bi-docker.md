@@ -19,9 +19,9 @@ Procedure
 
 *Installation*
 
-1.  Clone the citbi repository:
+1.  Download citBI in:
 
-    git clone https://diogojapiassu@bitbucket.org/diogojapiassu/citbi.git
+    ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/citBI/citbi-1.0.0/citbi-1.0.0.zip and then unzip
 
 1.  Enter the command and then unzip:
 
