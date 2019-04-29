@@ -55,12 +55,12 @@ Procedimento
 *Unidade*
 
 1.  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
-    Gerência de Pessoal \> Unidade:
+    Gerência de Pessoal \> Unidade;
 
-2.  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida:
+2.  Buscar pela unidade na aba Pesquisa de Unidade e selecionar a escolhida;
 
 3.  Na aba Cadastro de Unidade com a unidade já escolhida, clicar no botão
-    "Obter Coordenadas"
+    "Obter Coordenadas";
 
 4.  Clicar em "Gravar".
 
