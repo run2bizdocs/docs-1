@@ -156,7 +156,6 @@ Relacionado
 [Usar o Smart Analytics (BI) para gerar relatórios](/pt-br/citsmart-platform-8/additional-features/smart-analytics/use-bi-solution.html)
 
 
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
