@@ -111,7 +111,7 @@ Procedimento
 
 !!! Abstract " ATENÇÃO
 
-    O objetivo principal desta vinculação de conhecimento é permitir que o
+   O objetivo principal desta vinculação de conhecimento é permitir que o
     atendente de uma requisição/incidente tenha facilmente acesso a ele. Assim
     que o fluxo chegue na atividade do fluxo vinculado a um conhecimento, o
     botão “Conhecimentos” é mostrado no canto superior direito da tela de
