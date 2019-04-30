@@ -72,12 +72,6 @@ Procedimento
 
     *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
 
-    !!! Abstract "ATENÇÃO"
-
-        Quando se tem Templates de Ticket que apontam para formulários Neuro, é necessário ter dois
-        formulários Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao 
-        formulário de acompanhamento. Também é necessário criar um Template de Ticket para cada formulário.
-
     *	Formulário padrão: default do sistema 
 
     *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
