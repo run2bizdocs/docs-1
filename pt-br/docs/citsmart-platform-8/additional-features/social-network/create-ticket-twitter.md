@@ -23,10 +23,7 @@ Procedimento
     !!! Abstract "ATENÇÃO"
         
         Criado o ticket pelo Twitter, o executor dele terá acesso a solicitação por meio da funcionalidade “Tickets” 
-        no sistema, seguindo o procedimento regular de execução dos tickets.o o ticket pelo Twitter, o executor
-        dele terá acesso a solicitação por meio da funcionalidade “Tickets” no sistema, seguindo o procedimento
-        regular de execução dos tickets.Criado o ticket pelo Twitter, o executor dele terá acesso a solicitação 
-        por meio da funcionalidade “Tickets” no sistema, seguindo o procedimento regular de execução dos tickets.  
+        no sistema, seguindo o procedimento regular de execução dos tickets. 
         
 5.  Encerrado o atendimento do ticket, sua Solução-Resposta será publicada no twitter do usuário, como mensagem direta.
 
