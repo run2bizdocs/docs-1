@@ -29,7 +29,7 @@ Figura 2 - Tela de listagem de arquivos de relatório
 
 !!! Abstract "ATENÇÃO"
 
-    Não é possível criar um relatório propriamente dito no Neuro. Essa funcionalidade refere-se apenas ao upload de um arquivo de           relatório. 
+    Não é possível criar um relatório propriamente dito no Neuro. Essa funcionalidade refere-se apenas ao upload de um arquivo       de relatório. 
 	
 1. TO campo versão é auto incrementado pelo sistema. Informe o nome do relatório, uma descrição, e a pasta agrupadora do projeto no servidor. O campo engine é preenchido automaticamente de acordo com o formato do arquivo. Atualmente, é aceito apenas o formato jrxml do Jasper.    
 2. Faça o upload do arquivo do relatório.  
@@ -39,7 +39,7 @@ Figura 2 - Tela de listagem de arquivos de relatório
     ![Screenshot](images/Report-file-fig03.png)  
     Figura 3 - Tela de cadastro do arquivo de relatório    
 
-5. Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faças as alterações, e clique em Salvar.   
+5. Para editar um item criado, selecione o item desejado, clique em Editar (a versão atual ou a versão anterior), faça as alterações, e clique em Salvar.   
 6. Para visualizar um item, selecione o mesmo e clique em Visualizar.  
 7. Para remover um item criado, selecione o item desejado, clique em Remover e confirme a exclusão.  
 

@@ -100,7 +100,7 @@ docker logs -f citBI
 
 1.  Adicionar Schema disponível em:
 
-    <https://bitbucket.org/diogojapiassu/citbi/src/master/files/SchemaEnglish.xml>
+    </citbi/src/master/files/SchemaEnglish.xml>
 
 1.  Adicionar DataSource:
 
