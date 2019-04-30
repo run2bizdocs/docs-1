@@ -27,7 +27,7 @@ Procedimento
     !!! tip "IMPORTANTE"
         Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
         Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
-		É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+	É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 
 4.  As propriedas de um elemento podem ser definidas ao clicar duas
     vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
@@ -58,6 +58,9 @@ Relacionado
 ------------
 
 [Manutenção de fluxo](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+
+[Cadastrar template de ticket](/pt-br/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
+
 
 !!! tip "About"
 
