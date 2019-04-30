@@ -7,7 +7,12 @@ Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Ativ
 Antes de começar
 ---------------
 
-Possuir 2 formulários de Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. Criar o Template de Ticket para cada um dos formulários.
+
+
+!!! Abstract "NOTA"
+
+    Dentro da aba *Interface*, escolhendo o Tipo de Interação "Formulário Neuro": possuir 2 formulários de Neuro distintos e         configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. 
+    É necessário também criar o Template de Ticket para cada um dos formulários.
 
 Procedimento
 ------------
@@ -71,12 +76,6 @@ Procedimento
 
     *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
 
-    !!! Abstract "ATENÇÃO"
-
-        Quando se tem Templates de Ticket que apontam para formulários Neuro, é necessário ter dois
-        formulários Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao 
-        formulário de acompanhamento. Também é necessário criar um Template de Ticket para cada formulário.
-
     *	Formulário padrão: default do sistema 
 
     *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
@@ -109,7 +108,7 @@ Procedimento
    *  Vincular base de conhecimento: escolher o conhecimento que deseja
        vincular a tarefa de usuário.
 
-!!! Abstract " ATENÇÃO
+!!! Abstract "ATENÇÃO"
 
     O objetivo principal desta vinculação de conhecimento é permitir que o
     atendente de uma requisição/incidente tenha facilmente acesso a ele. Assim
