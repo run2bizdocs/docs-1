@@ -7,7 +7,7 @@ Permite o cadastro da mudança via um template previamente registrado. A ideia d
 Antes de começar
 ----------------
 
-É imprescindível o cadastro anterior do template e do portfólio de mudanças
+É imprescindível o cadastro anterior do template e do portfólio de mudanças.
 
 Procedimento
 ------------
@@ -23,9 +23,9 @@ Procedimento
     (inclusive selecionar o portfólio desejado);
 
 5.  Também é necessário indicar as informações preliminares de “planejamento”,
-    “plano de reversão” e “revisão e fechamento”,
+    “plano de reversão” e “revisão e fechamento”;
 
-6.  Clicar no botão “Opções” e em seguida “Gravar”;
+6.  Clicar no botão “Opções” e em seguida “Gravar”.
 
 Relacionado 
 ------------
