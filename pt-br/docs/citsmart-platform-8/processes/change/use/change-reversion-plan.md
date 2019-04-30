@@ -25,18 +25,18 @@ Procedimento
     disponibilizados, tais como: título, selecionar o usuário ou grupo
     responsáveis para a execução das tarefas, dentre outros. Também é permitido
     vincular um quadro já criado ao clicar no outro botão relacionado ao
-    “Workspace”.
+    “Workspace”;
 
 4.  Ainda é possível vincular ações, notificações, conhecimentos e anexos de
     arquivos para detalhar a execução da mudança. Para tanto, é necessário
     clicar sobre na aba disponibilizada, selecionar o item desejado para
-    vincula-lo à mudança
+    vincula-lo à mudança;
 
     !!! Abstract "NOTA"
         É disponível a criação de novas notificações do sistema, ao clicar no botão
         “Cadastrar”, localizado na aba de mesmo nome.
 
-5.  É possível apontar todas as informações pertinentes na aba “Anotações”. 
+5.  É possível apontar todas as informações pertinentes na aba “Anotações”;
 
 6.  Clicar no botão “Opções” e em seguida apertar ou no botão “Gravar e manter a
     tarefa atual” para registar as atividades de planejamento ou selecionar o
