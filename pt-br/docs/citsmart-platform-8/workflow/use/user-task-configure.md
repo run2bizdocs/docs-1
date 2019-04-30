@@ -7,7 +7,8 @@ Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Ativ
 Antes de começar
 ---------------
 
-Possuir 2 formulários de Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. Criar o Template de Ticket para cada um dos formulários.
+Possuir 2 formulários de Neuro distintos e configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. 
+É necessário também criar o Template de Ticket para cada um dos formulários.
 
 Procedimento
 ------------
