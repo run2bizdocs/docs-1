@@ -155,6 +155,8 @@ Uso
 
 [Modelagem de processo](/pt-br/citsmart-platform-8/workflow/use/modeling.html)
 
+[Configurar atividade de usuário no fluxo](/pt-br/citsmart-platform-8/workflow/use/user-task-configure.html)
+
 
 Configuração
 ----------
