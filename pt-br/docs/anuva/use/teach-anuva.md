@@ -21,14 +21,13 @@ Procedimento
 
 5. Na seção **Habilidades**, preencher os campos disponibilizados, atentando-se ao tipo da habilidade:
 
-    - Padrão: será utilizada para representar habilidades que são respondidas através de uma resposta de texto pré-definida. Podem ser 
-     atribuídas várias frases pré-definidas de respostas sempre visando responder a mesma pergunta;
+    - Padrão: será utilizada para representar habilidades que são respondidas através de uma resposta de texto pré-definida.          Podem ser atribuídas várias frases pré-definidas de respostas sempre visando responder a mesma pergunta;
 
-    - Personalizada: será utilizada quando, para responder a um interesse do usuário, Anuva precisar buscar informações em um outro         sistema.
+    - Personalizada: será utilizada quando, para responder a um interesse do usuário, Anuva precisar buscar informações em um        outro sistema;
 
-    - Botão: será utilizada sempre que for necessário limitar as respostas do usuário a uma determinada interação da Anuva. Ao utilizar     essa opção, Anuva responderá a interação do usuário exibindo botões. Um botão é definido por seu Nome e Valor. No campo Nome, é         definido o botão que aparecerá para o usuário. No campo Valor, é definido para a Anuva como ela deve interpretar o interesse do         usuário ao clicar no botão;
+    - Botão: será utilizada sempre que for necessário limitar as respostas do usuário a uma determinada interação da Anuva. Ao       utilizar essa opção, Anuva responderá a interação do usuário exibindo botões. Um botão é definido por seu Nome e Valor. No       campo Nome, é definido o botão que aparecerá para o usuário. No campo Valor, é definido para a Anuva como ela deve               interpretar o interesse do usuário ao clicar no botão;
  
-    - Imagem: pode ser utilizada quando desejar responder o usuário utilizando texto e imagem. A imagem associada a resposta será           exibida na janela de chat.
+    - Imagem: pode ser utilizada quando desejar responder o usuário utilizando texto e imagem. A imagem associada a resposta         será exibida na janela de chat.
 
 6. Clicar em “Salvar”.
 
@@ -47,7 +46,7 @@ Procedimento
  
  
 Relacionado
---------
+-----------
  
 [Como treinar Anuva](/pt-br/anuva/use/trainning-anuva.html)
  
