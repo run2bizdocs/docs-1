@@ -312,7 +312,7 @@ Nesta opção de auditoria informa as licenças utilizadas para a validação do
 
 O App CITSmart GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
 
-![App FS](images/62-app-fs.png)
+![App FS](images/62-app-fs.jpg)
 
 ![App FS](images/63-app-fs.jpg)
 
