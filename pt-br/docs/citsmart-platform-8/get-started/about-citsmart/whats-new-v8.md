@@ -314,9 +314,9 @@ O App CITSmart GO foi criado para dar mais flexibilidade e agilidade em atendime
 
 ![App FS](images/62-app-fs.png)
 
-![App FS](images/63-app-fs.png)
+![App FS](images/63-app-fs.jpg)
 
-![App FS](images/64-app-fs.png)
+![App FS](images/64-app-fs.jpg)
 
 ![App FS](images/65-app-fs.png)
 
