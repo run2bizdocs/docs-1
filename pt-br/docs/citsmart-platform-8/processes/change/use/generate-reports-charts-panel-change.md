@@ -38,7 +38,7 @@ determinada mudança e como eles são afetados.
     filtros definidos.
 
 Gerar relatórios de atualizações de IC não autorizadas
-----------------------------------------------------------
+-------------------------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar os ICs que não
 foram autorizadas para realização de atualizações.
@@ -56,7 +56,7 @@ foram autorizadas para realização de atualizações.
     com os filtros definidos.
 
 Gerar relatórios de mudança por impacto
----------------------------------------------------------
+---------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
 gráfico, as mudanças pelo seu impacto (alta, média e baixa).
@@ -75,7 +75,7 @@ gráfico, as mudanças pelo seu impacto (alta, média e baixa).
     com os filtros definidos.
 
 Gerar relatórios de mudança por SLA
------------------------------------------------------
+------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
 gráfico, as mudanças pelo o seu acordo de nível de serviço.
@@ -91,10 +91,10 @@ gráfico, as mudanças pelo o seu acordo de nível de serviço.
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
 5.  Será apresentado o gráfico de mudança por SLA de acordo com os
-    filtros definidos;
+    filtros definidos.
 
 Gerar relatórios de mudança por risco
--------------------------------------------------------
+--------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
 gráfico, as mudanças pelo o risco que as mesmas oferecem ao negócio.
@@ -112,8 +112,9 @@ gráfico, as mudanças pelo o risco que as mesmas oferecem ao negócio.
 5.  Será apresentado o gráfico de mudanças por risco de acordo com
     os filtros definidos.
 
+
 Gerar relatórios de mudança por serviço
----------------------------------------------------------
+---------------------------------------
 
 Este relatório oferece ao usuário a possibilidade de verificar, em formato de
 gráfico, as mudanças criadas por serviço.
