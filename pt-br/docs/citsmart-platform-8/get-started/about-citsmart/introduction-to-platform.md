@@ -12,7 +12,7 @@ vá em frente não é aquele que prevê o futuro, mas quem o segue.
 
 Algumas empresas têm dificuldade em se mover rapidamente, não só pelo número de
 pessoas ou processos, mas também principalmente pela sua motivação, a velocidade
-de lançamento de novos produtos e idéias é muito rápida, porque todos estão
+de lançamento de novos produtos e ideias é muito rápida, porque todos estão
 envolvidos principalmente no resultado.
 
 *Estar preparado para o futuro está sendo preparado para mudanças.*
