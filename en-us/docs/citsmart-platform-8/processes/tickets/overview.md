@@ -1,4 +1,4 @@
-title: Overview of ticket management
+title: Overview 
 Description: According to ITIL "Service Management is a set of specialized organizational skills to provide value to clients in the form of services"
 # Overview
 
