@@ -1,4 +1,4 @@
-title: Gestión de Continuidad
+title: Visión general
 Description: La Gestión de Continuidad se centra en recuperar los servicios de TI y sus componentes ante un evento de desastre.
 # Visión general
 
