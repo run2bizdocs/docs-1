@@ -1,4 +1,4 @@
-title: Gerenciamento de Evento
+title: Visão Geral
 Description: This functionality is intended to present some functionalities to the even management.
 # Visão Geral
 
