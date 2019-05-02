@@ -1,4 +1,4 @@
-title: Overview of configuration management
+title: Overview
 Description: This functionality allows to identify, register and manage the Configuration Items (CI).
 # Overview
 
