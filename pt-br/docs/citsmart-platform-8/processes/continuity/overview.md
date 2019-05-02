@@ -1,6 +1,6 @@
 title: Gerenciamento de Continuidade
 Description: The Continuity Management focus on the recovery of IT services and its components before an event of disaster.
-#Gerenciamento de Continuidade
+# Visão Geral
 
 Apresentação
 ----------------
