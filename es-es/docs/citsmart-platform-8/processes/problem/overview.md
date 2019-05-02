@@ -1,7 +1,6 @@
 title: Gestión de Problema 
 Description: Es responsable de la solución definitiva y prevención de las fallas por detrás de los incidentes
-
-# Gestión de Problema
+# Visión general
 
 Presentación
 ----------------
