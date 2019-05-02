@@ -28,9 +28,9 @@ Procedimento
     parâmetro, basta clicar no botão "Cadastrar Mudança" e preencher os dados
     necessários;
     
-!!! Abstract "REGRA"
+    !!! Abstract "REGRA"
 
-    O sistema só permitirá o vínculo de Mudanças a Liberação caso se esta estiver com o status diferente de "Registrada" e "Cancelada".
+        O sistema só permitirá o vínculo de Mudanças a Liberação caso se esta estiver com o status diferente de "Registrada" e         "Cancelada".
     
     
 5.  Para vincular **Mídia Definitiva**, clicar na área de mesmo nome e em
@@ -59,6 +59,7 @@ Procedimento
     anteriormente.
 
 10. Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
+
 
 Relacionado
 ---------------
