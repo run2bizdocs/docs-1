@@ -1,4 +1,4 @@
-title:  Gestión de Cambio 
+title:  Visión general 
 Description: Gestión de Cambios es el proceso responsable por evaluar, coordinar y decidir sobre  la realización de cambios propuestos
 # Visión general  
 
@@ -64,7 +64,7 @@ Configuración
 -   [Registrar plantilla de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-template.html) 
 
 Informe
--------------
+-------
 
 -   [Crear informes – Gestión de cambio](/es-es/citsmart-platform-8/processes/change/use/generate-reports-change-management.html)
 
