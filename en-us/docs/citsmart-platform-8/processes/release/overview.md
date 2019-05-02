@@ -1,6 +1,6 @@
 title: Overview of release management
 Description: The Release Management process provides the physical management of software and hardware, allowing the planning of the releases to be carried out in the IT infrastructure, based on information about CIs and their relationships stored in the CMDB.
-#Release management
+# Overview
 
 Presentation
 ----------------
