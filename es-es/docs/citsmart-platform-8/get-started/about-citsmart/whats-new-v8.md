@@ -351,6 +351,7 @@ Para más información acceder la documentación de [Mobile CITSmart Experience]
 [8]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
