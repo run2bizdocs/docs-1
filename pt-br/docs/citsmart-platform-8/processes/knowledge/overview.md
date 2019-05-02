@@ -1,4 +1,4 @@
-title: Gerenciamento de Conhecimento
+title: Visão Geral
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
 # Visão Geral
 
