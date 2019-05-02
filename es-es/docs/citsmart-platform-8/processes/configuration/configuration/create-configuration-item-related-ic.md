@@ -1,6 +1,6 @@
-title: Crear elemento de configuración relacionado a un EC
+title: Crear elemento de configuración secundario
 Description: Permite registrar un elemento de configuración a otro EC.
-#Crear elemento de configuración relacionado a un EC
+# Crear elemento de configuración secundario
 
 
 Esta funcionalidad permite registrar un elemento de configuración a otro EC.
