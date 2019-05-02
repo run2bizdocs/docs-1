@@ -27,10 +27,10 @@ Procedure
     using the release to be created as parameter, click on "Register Change" and
     complete the necessary data;
 
-!!! Abstract "RULE"
+    !!! Abstract "RULE"
 
-    The system will only allow the link of Changes to the Release if it has a status 
-    other than "Registered" and "Canceled".
+        The system will only allow the link of Changes to the Release if it has a status 
+        other than "Registered" and "Canceled".
 
 5.  To link **Definitive Media**, click on the corresponding area, then on the
     search field, select the media you want. If you want to register a new
@@ -54,6 +54,7 @@ Procedure
 
 10. Click on the options button and then "Save" to complete the operation.
 
+
 Related
 -----------
 
@@ -64,6 +65,7 @@ Related
 [Configure email template](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 [Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html) 
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
