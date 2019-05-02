@@ -1,4 +1,4 @@
-title: Gerenciamento de Configuração
+title: Visão Geral
 Description: This functionality allows to identify, register and manage the Configuration Items (CI).
 # Visão Geral
 
