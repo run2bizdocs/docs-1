@@ -1,4 +1,4 @@
-title: Gerenciamento de Capacidade
+title: Visão Geral
 Description: Capacity management considers all the resources needed to deliver an IT service
 # Visão Geral
 
