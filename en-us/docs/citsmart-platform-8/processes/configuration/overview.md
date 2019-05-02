@@ -1,6 +1,6 @@
 title: Overview of configuration management
 Description: This functionality allows to identify, register and manage the Configuration Items (CI).
-#Configuration management
+# Overview
 
 Presentation
 ----------------
