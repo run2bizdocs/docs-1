@@ -1,4 +1,4 @@
-title: Overview of portfolio and catalog management
+title: Overview 
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
 # Overview
 
