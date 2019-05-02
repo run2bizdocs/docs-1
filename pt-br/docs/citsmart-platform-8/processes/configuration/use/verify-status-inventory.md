@@ -1,15 +1,15 @@
 title: Verificar status de execução do inventário de IC
 Description: Permite visualizar o status atual da execução do inventário através da aplicação CITSmart Inventory.
-#Verificar status de execução do inventário de IC
 
-Essa funcionalidade permite visualizar o status atual da execução do inventário
+# Verificar status de execução do inventário de IC
+
+Essa funcionalidade permite visualizar o status atual da execução do inventário realizado
 através da aplicação CITSmart Inventory.
 
 Antes de começar
 --------------------
 
-Para visualizar é necessário ter registrado o item de configuração previamente e
-configuração do Event Monitor.
+Para visualizar o status de invetário de ICs é necessário ter definido um processo de inventário utilizando a funcionalidade CITSmart Inventory.
 
 Procedimento
 ----------------
@@ -25,9 +25,7 @@ Procedimento
 Relacionado
 -----------
 
-[Cadastrar um item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
-
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Cadastrar Conexão Event Monitor](/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html)
 
 !!! tip "About"
 
