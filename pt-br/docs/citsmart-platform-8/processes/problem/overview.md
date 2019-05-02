@@ -1,7 +1,7 @@
 title: Gerenciamento de Problema 
 Description: É responsável pela resolução definitiva e prevenção das falhas por trás dos incidentes
 
-# Gerenciamento de Problema
+# Visão Geral
 
 Apresentação
 ----------------
