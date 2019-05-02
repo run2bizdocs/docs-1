@@ -1,4 +1,4 @@
-title: Overview of service level management
+title: Overview
 Description: The Service Level Management is a process responsible to maintain, improve and deliver the quality expected by the business
 # Overview
 
