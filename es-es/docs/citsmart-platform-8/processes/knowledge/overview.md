@@ -1,6 +1,6 @@
 title: Gestión de Conocimiento
 Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
-#Gestión de Conocimiento
+# Visión general
 
 Presentación
 ----------------
