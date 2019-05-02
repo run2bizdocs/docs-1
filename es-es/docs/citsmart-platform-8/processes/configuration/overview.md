@@ -1,6 +1,6 @@
 title: Gestión de Configuración
 Description: Permite identificar, registrar y administrar los elementos de configuración (EC).
-# Gestión de Configuración
+# Visión general
 
 
 Presentación
