@@ -1,4 +1,4 @@
-title: Gestión de portafolio y catálogo
+title: Visión general
 Description: The Service Portfolio Management process is responsible for managing the service portfolio throughout the service lifecycle, focusing on the value that services deliver to the business.
 # Visión general
 
