@@ -25,7 +25,7 @@ Procedimento
 Relacionado
 -----------
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html)
+[Implementar o CITSmart Inventory](/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html)
 
 !!! tip "About"
 
