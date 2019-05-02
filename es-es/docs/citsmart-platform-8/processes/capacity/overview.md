@@ -1,4 +1,4 @@
-title: Gestión de Capacidad
+title: Visión general
 Description: La gestión de capacidad considera todos los recursos necesarios para entregar un servicio de TI
 # Visión general
 
