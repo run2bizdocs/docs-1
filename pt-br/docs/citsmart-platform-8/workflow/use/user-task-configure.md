@@ -23,7 +23,7 @@ Procedimento
 4.	Clicar no elemento Tarefa de Usuário e arrastá-lo até o painel de criação de fluxo;
 5.	Serão abertas as seguintes abas de configuração do elemento:
 
-*Identificação*
+**Identificação**
 
 *	Nome: nome da tarefa de usuário;
 
@@ -45,7 +45,7 @@ Procedimento
 
 *	É uma tarefa de aprovação?: definir se “Sim” ou “Não”;
 
-*Atribuição*
+**Atribuição**
 
 *	Tipo de destinatário: selecionar se será para grupo ou usuário específico
 
@@ -55,22 +55,22 @@ Procedimento
 
 *	Ou Expressão: buscar por expressão já cadastrada previamente
 
-*Ações do usuário*
+**Ações do usuário**
 
 *	Selecione a ação do cadastro: buscar por ação já cadastrada previamente (ex. ação de aprovação, ou seja, uma expressão com essa finalidade);
 
-*Ação de entrada*
+**Ação de entrada**
 
 *	Construir expressão: definir uma expressão diretamente
 *	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
 
-*Ação de saída*
+**Ação de saída**
 
 *	Construir expressão: definir uma expressão diretamente
 
 *	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
 
-*Interface*
+**Interface**
 
 *	Tipo de interação: é o modo com que um Questionário ou um Formulário Neuro vai ser aplicado na interface de gestão de ticket em um determinado estado do fluxo. A configuração dos itens que estarão visíveis pode ser definida no portfólio ou configurado diretamente no elemento Atividade de Usuário (do fluxo):
 
@@ -103,7 +103,7 @@ Procedimento
     As normativas configuradas no fluxo terão prioridade em relação às marcações do template de solicitação de serviço,
     pois esta é um complemento do fluxo.
     
-*Base de conhecimento*
+**Base de conhecimento**
 
    *  Vincular base de conhecimento: escolher o conhecimento que deseja
        vincular a tarefa de usuário.
