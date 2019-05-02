@@ -1,6 +1,6 @@
 title: Gestión de Disponibilidad
 Description: La gestión de la disponibilidad define, analiza, planifica, mide y mejora todos los aspectos de la disponibilidad de TI.
-#Gestión de Disponibilidad
+# Visión general
 
 
 Presentación
