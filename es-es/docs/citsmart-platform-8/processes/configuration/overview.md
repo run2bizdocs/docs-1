@@ -64,7 +64,7 @@ Uso
 
 - [Comprobar estado de ejecución del invatio del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
 
- [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
+- [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
 - [Exportar CMDB](/es-es/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
