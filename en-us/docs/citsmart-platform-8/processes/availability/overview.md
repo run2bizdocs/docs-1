@@ -1,4 +1,4 @@
-title: Overview of Availability management
+title: Overview
 Description: Availability management defines, analyses, plans, measures and improves all aspects of the availability of IT services
 # Overview
 
