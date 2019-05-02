@@ -38,7 +38,7 @@ sempre a funcionalidade de "Solicitação de Serviço", quando o mesmo entrar no
 Portal do Conhecimento, o sistema irá indicar os conhecimentos referentes à
 funcionalidade
 
-- **9**: **Adicionar Conhecimento** - permite ao usuário logado registrar um novo
+- **9**: Adicionar Conhecimento - permite ao usuário logado registrar um novo
 conhecimento na Base de Conhecimento
 
 ------------------------------------------------------------------------------------
