@@ -1,6 +1,6 @@
 title: Problem Management 
 Description: It's responsible for the final solution and prevention of failures behind the incidents
-# Problem Management
+# Overview
 
 Presentation
 ----------------
@@ -41,7 +41,7 @@ Configuration
 -   [Create portfolio of problem](/en-us/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html)
 
 Report
--------------
+------
 
 -   [Create reports – Problem management](/en-us/citsmart-platform-8/processes/problem/use/generate-reports-problem-management.html)
 
