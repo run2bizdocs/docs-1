@@ -50,6 +50,7 @@ Procedimiento
         configuradas tendrán prioridad en relación a las marcas del template de
         solicitud de servicio, ya que es un complemento del flujo.  
 
+
 5.  Además, la funcionalidad admite importar flujos al hacer clic en el botón
     "Importar". Puede importar en el formato "JSON" o "XML".
 
