@@ -14,25 +14,25 @@ portal dinâmico e atualizado.
 
    Figura 1 - Portal do Conhecimento
    
-- **1**: **Pastas** - exibe as pastas que o usuário logado tem acesso para
+- **1**: Pastas - exibe as pastas que o usuário logado tem acesso para
 visualização dos conhecimentos das mesmas
 
-- **2**: **Portal de Serviços** - ao clicar nesta opção, será apresentada uma das
+- **2**: Portal de Serviços - ao clicar nesta opção, será apresentada uma das
 telas principais do produto, o Portal de Serviços (Smart Portal)
 
-- **3**: **Sistema** - ao clicar nesta opção, permite entrar no sistema
+- **3**: Sistema - ao clicar nesta opção, permite entrar no sistema
 
-- **4**: **Identificação do usuário logado** - ao clicar nesta opção, são exibidas
+- **4**: Identificação do usuário logado - ao clicar nesta opção, são exibidas
 as funções para alterar a senha de acesso e sair do portal
 
-- **5**: **Campo de pesquisa** - permite a busca por conhecimentos
+- **5**: Campo de pesquisa - permite a busca por conhecimentos
 
-- **6**: **Favoritos** - conhecimentos que foram marcados como favorito pelo o
+- **6**: Favoritos - conhecimentos que foram marcados como favorito pelo o
 usuário logado
 
-- **7**: **Curtidos** - conhecimentos que foram curtidos pelo usuário logado
+- **7**: Curtidos - conhecimentos que foram curtidos pelo usuário logado
 
-- **8**: **Indicados** - conhecimentos indicados ao usuário, referentes às
+- **8**: Indicados - conhecimentos indicados ao usuário, referentes às
 funcionalidades do sistema mais acessadas. Exemplo: o usuário logado acessa
 sempre a funcionalidade de "Solicitação de Serviço", quando o mesmo entrar no
 Portal do Conhecimento, o sistema irá indicar os conhecimentos referentes à
