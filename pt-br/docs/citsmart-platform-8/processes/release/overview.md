@@ -1,6 +1,6 @@
 title: Gerenciamento de Liberação
 Description: Provê o gerenciamento físico de software e hardware, permitindo o planejamento das liberações a serem realizadas na infraestrutura de TI.
-#Gerenciamento de Liberação
+# Visão Geral
 
 
 Apresentação
