@@ -1,4 +1,4 @@
-title: Overview of Continuity management
+title: Overview
 Description: The Continuity Management focus on the recovery of IT services and its components before an event of disaster.
 # Overview
 
