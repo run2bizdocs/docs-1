@@ -131,10 +131,15 @@ Figure 3 - Options Button
 
     The end user can propose new Documents/Knowledge in the Knowledge Portal floating button, the Document is saved in the folder indicated by the system Parameter 313.
     The Knowledge Manager searches the unpublished documents or the indicated folder and, depending on the progress of the approval, the Document will have other status:
+    
     - In design
+    
     - In review
+    
     - Reviewed
+    
     - In evaluation and
+    
     - Evaluated
 
 
