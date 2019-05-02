@@ -1,6 +1,6 @@
 title: Gestión de Demanda
 Description: La gestión de la demanda puede implicar el análisis de los patrones de actividad empresarial y los perfiles de usuario
-#Gestión de Demanda
+# Visión general
 
 
 Presentación
@@ -19,7 +19,6 @@ de un elemento de configuración".
 
 Uso
 -------
-
 
 - [Registrar atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
 
