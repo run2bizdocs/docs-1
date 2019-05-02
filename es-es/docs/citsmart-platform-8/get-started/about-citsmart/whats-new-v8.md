@@ -319,7 +319,7 @@ El App CITSmart GO fue creado para dar más flexibilidad y agilidad en atendimie
 
 ![App FS](images/65-app-fs.jpeg)
 
-![App FS](images/66-app-fs.jpeg)
+![App FS](images/66-app-fs.png)
 
 
 Para más información acceder la documentación de [CITSmart GO][7]
@@ -349,6 +349,7 @@ Para más información acceder la documentación de [Mobile CITSmart Experience]
 [6]:/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [7]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
 [8]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+
 
 
 !!! tip "About"
