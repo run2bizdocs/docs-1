@@ -1,6 +1,6 @@
 title: Gestión de Evento
 Description: This functionality is intended to present some functionalities to the even management.
-# Gestión de Evento
+# Visión general
 
 Apresentación
 ----------------
