@@ -1,6 +1,6 @@
 title:  Gestión de Cambio 
 Description: Gestión de Cambios es el proceso responsable por evaluar, coordinar y decidir sobre  la realización de cambios propuestos
-# Gestión de Cambio  
+# Visión general  
 
 Presentación
 ----------------
