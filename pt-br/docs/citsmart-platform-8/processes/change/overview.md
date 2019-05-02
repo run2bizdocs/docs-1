@@ -1,4 +1,4 @@
-title:  Gerenciamento de Mudança 
+title:  Visão Geral 
 Description: Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e decidir sobre a realização de mudanças propostas
 # Visão Geral  
 
