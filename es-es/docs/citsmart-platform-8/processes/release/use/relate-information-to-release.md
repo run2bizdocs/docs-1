@@ -27,10 +27,10 @@ Procedimiento
     creará como parámetro, basta hacer clic en "Registrar Cambio" y completar
     los datos necesarios;
     
-!!! Abstract "REGLA"
+    !!! Abstract "REGLA"
 
-    El sistema sólo permitirá el vínculo de Cambios a la Liberación si está con el 
-    estado distinto de "Registrada" y "Cancelada".
+        El sistema sólo permitirá el vínculo de Cambios a la Liberación si está con el 
+        estado distinto de "Registrada" y "Cancelada".
 
 
 5.  Para vincular **Media Definitiva**, hacer clic en el área del mismo nombre
@@ -60,6 +60,7 @@ Procedimiento
 
 10. Hacer clic en el botón de opciones y, a continuación, "Guardar".
 
+
 Relacionado
 ---------------
 
@@ -70,6 +71,7 @@ Relacionado
 [Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
 
 [Configurar modelo de e-mail](/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
