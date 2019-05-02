@@ -1,4 +1,4 @@
-title: Gestión de Configuración
+title: Visión general
 Description: Permite identificar, registrar y administrar los elementos de configuración (EC).
 # Visión general
 
