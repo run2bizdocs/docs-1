@@ -1,7 +1,6 @@
 title: Gestión de Capacidad
 Description: La gestión de capacidad considera todos los recursos necesarios para entregar un servicio de TI
-#Gestión de Capacidad
-
+# Visión general
 
 Presentación
 ----------------
@@ -20,7 +19,6 @@ del desempeño del negocio".
 
 Uso
 -------
-
 
 - [Registrar indicadores de capacidad](/es-es/citsmart-platform-8/processes/capacity/use/register-capacity-indicators.html)
 
