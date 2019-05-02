@@ -1,4 +1,4 @@
-title: Overview of demand management
+title: Overview
 Description: Demand management can involve analysis of business activity patterns and user profiles
 # Overview
 
