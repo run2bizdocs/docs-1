@@ -9,8 +9,28 @@ Segundo a ITIL "As informações sobre cada item de configuração são registra
 
 Esta funcionalidade permite identificar, registrar e gerenciar os Itens de Configuração (IC).
 
+Configuração
+-------------
+
+- [Cadastrar grupo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+
+- [Cadastrar tipo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+
+- [Cadastrar característica](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+
+- [Cadastrar mídia definitiva](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
+
+- [Registrar o valor financeiro do IC](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
+
+- [Cadastrar lista negra de software](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
+
+- [Configurar parametrização - configuração](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+
+
 Uso
 -------
+
+- [Cadastrar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
 
 - [Pesquisar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/search-CI.html)
 
@@ -22,13 +42,11 @@ Uso
 
 - [Vincular acordo de nível de serviço ao grupo de IC](/pt-br/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Cadastrar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+- [Criar item de configuração filho](/pt-br/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Executar script referente ao item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
 - [Registrar custo por hora de indisponibilidade](/pt-br/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
-
-- [Exportar CMDB](/pt-br/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
 - [Alterar dados do item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/change-IC-item-data.html)
 
@@ -44,24 +62,8 @@ Uso
 
 - [Verificar itens de configuração capturados pelo Inventory(agente)](/pt-br/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
-Configuração
--------------
+- [Exportar CMDB](/pt-br/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
-- [Configurar parametrização - configuração](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
-
-- [Criar item de configuração relacionado a um IC](/pt-br/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
-
-- [Cadastrar características](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
-
-- [Cadastrar grupo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
-
-- [Cadastrar mídia definitiva](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
-
-- [Registrar o valor financeiro do IC](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
-
-- [Cadastrar lista negra de software](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html) 
-
-- [Cadastrar tipo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
 
 Relatóro
 ----------
