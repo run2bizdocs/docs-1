@@ -1,6 +1,6 @@
 title: Create configuration item related to a CI
 Description: Register a configuration item to other CI.
-#Create configuration item related to a CI
+# Create child configuration item
 This functionality allows to register a configuration item to other CI.
 
 Before getting started
