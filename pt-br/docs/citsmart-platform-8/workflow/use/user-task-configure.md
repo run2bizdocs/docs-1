@@ -6,7 +6,7 @@ Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Ativ
 
 Antes de começar
 ---------------
-
+Para utilizar o elemento "Atividade de Usuário" é necessário, no mínimo, ter um fluxo cadastrado na ferramenta contendo os elementos de eventos: "início" e "fim".
 
 
 !!! Abstract "NOTA"
