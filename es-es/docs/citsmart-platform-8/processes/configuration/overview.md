@@ -14,9 +14,27 @@ configuración y el activo de servicio".
 Esta funcionalidad permite identificar, registrar y administrar los elementos de
 configuración (EC).
 
+Configuración
+-----------------
+
+- [Registrar grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+
+- [Registrar tipo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+
+- [Registrar característica](/es-es/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+
+- [Registrar media definitiva](/es-es/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
+
+- [Registrar o valor financeiro del EC](/es-es/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
+
+- [Registrar lista negra de software](/es-es/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
+
+- [Registrar parametrización - configuración](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+
 Uso
 -------
 
+- [Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
 
 - [Buscar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/search-CI.html)
 
@@ -28,13 +46,11 @@ Uso
 
 - [Vincular acuerdo de nivel de servicio al grupo de EC](/es-es/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
+- [Crear elemento de configuración secundario](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Ejecutar script del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
 - [Registrar costo por hora de indisponibilidad](/es-es/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
-
-- [Exportar CMDB](/es-es/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
 - [Cambiar datos del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/change-IC-item-data.html)
 
@@ -48,26 +64,10 @@ Uso
 
 - [Comprobar estado de ejecución del invatio del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
 
-- [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
+ [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
-Configuración
------------------
+- [Exportar CMDB](/es-es/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
-- [Registrar parametrización - configuración](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
-
-- [Crear elemento de configuración relacionado a un EC](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
-
-- [Registrar característica](/es-es/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
-
-- [Registrar grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
-
-- [Registrar media definitiva](/es-es/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
-
-- [Registrar o valor financeiro del EC](/es-es/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
-
-- [Registrar lista negra de software](/es-es/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html) 
-
-- [Registrar tipo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
 
 Informe
 ----------
