@@ -1,6 +1,6 @@
 title: Gestión de Continuidad
 Description: La Gestión de Continuidad se centra en recuperar los servicios de TI y sus componentes ante un evento de desastre.
-#Gestión de Continuidad
+# Visión general
 
 
 Presentación
