@@ -1,4 +1,4 @@
-title: Gestión de Liberación
+title: Visión general
 Description: Proporciona la gestión física de software y hardware, permitiendo la planificación de las liberaciones a realizar en la infraestructura de TI.
 # Visión general
 
