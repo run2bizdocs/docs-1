@@ -1,6 +1,6 @@
-title: Overview of event management
+title: Overview
 Description: This functionality is intended to present some functionalities to the even management.
-# Event management
+# Overview
 
 Presentation
 ----------------
