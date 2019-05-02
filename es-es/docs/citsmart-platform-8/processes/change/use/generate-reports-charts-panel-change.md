@@ -6,15 +6,15 @@ Los siguientes temas se abordarán sobre cómo generar gráficos e informes para
 En todos los casos, hay varias formas de visualizar los informes a través de
 cuatro iconos:  
 
- -   Para generar una tabla con informaciones, hacer clic en el icono “Tabla” ;
+ 1. Para generar una tabla con informaciones, hacer clic en el icono “Tabla” ;
 
- -   Para presentar las opciones de los gráficos, hacer clic en el
+ 2. Para presentar las opciones de los gráficos, hacer clic en el
     icono "Gráficos" y seleccionar la forma del gráfico que quieras;
 
- -   Para generar un informe en PDF, hacer clic en el icono "Download documento
+ 3. Para generar un informe en PDF, hacer clic en el icono "Download documento
     PDF”;
 
- -   Para generar un informe en Excel, hacer clic en el icono "Download documento
+ 4. Para generar un informe en Excel, hacer clic en el icono "Download documento
     XLS".  
 
 Generar infomres de impactos de los cambios (RFC x EC)
