@@ -12,8 +12,27 @@ throughout its lifecycle by the configuration management and service asset".
 This functionality allows to identify, register and manage the Configuration
 Items (CI).
 
+Configuration
+-----------------
+
+- [Register configuration item group](/en-us/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+
+- [Register type of configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+
+- [Register characteristic](/en-us/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+
+- [Register definitive media](/en-us/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
+
+- [Register financial value of CI](/en-us/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
+
+- [Register software blacklist](/en-us/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
+
+- [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+
 Use
 -------
+
+- [Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
 
 - [Search configuration item](/en-us/citsmart-platform-8/processes/configuration/use/search-CI.html)
 
@@ -25,13 +44,11 @@ Use
 
 - [Link service level agreement to CI group](/en-us/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+- [Create child configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Run script of the configuration item](/en-us/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
 - [Register cost per hour of unavailability](/en-us/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
-
-- [Export CMDB](/en-us/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
 - [Change the configuration item data](/en-us/citsmart-platform-8/processes/configuration/use/change-IC-item-data.html)
 
@@ -47,24 +64,7 @@ Use
 
 - [Verify configuration item captured by Inventory (agent)](/en-us/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
-Configuration
------------------
-
-- [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
-
-- [Create configuration item related to a CI](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
-
-- [Register characteristics](/en-us/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
-
-- [Register configuration item group](/en-us/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
-
-- [Register definitive media](/en-us/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
-
-- [Register financial value of CI](/en-us/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
-
-- [Register software blacklist](/en-us/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html) 
-
-- [Register type of configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+- [Export CMDB](/en-us/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
 
 Report
 ----------
