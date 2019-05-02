@@ -1,4 +1,4 @@
-title: Gerenciamento de Continuidade
+title: Visão Geral
 Description: The Continuity Management focus on the recovery of IT services and its components before an event of disaster.
 # Visão Geral
 
