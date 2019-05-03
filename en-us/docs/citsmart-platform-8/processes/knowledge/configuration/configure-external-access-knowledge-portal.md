@@ -1,6 +1,7 @@
 title: Configure external access to the knowledge portal
 Description: Configure and view the knowledge in the Knowledge Portal by user that doesn't have a login and password.
-#Configure external access to the knowledge portal
+# Configure external access to the knowledge portal
+
 This knowledge is intended to configure and view the knowledge in the Knowledge Portal by user that doesn't have a login and password.
 
 
