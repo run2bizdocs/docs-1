@@ -1,6 +1,7 @@
 title: Register threat category
 Description:Is intended to register the threat categories that will be used during the threat registration.
-#Register threat category
+# Register threat category
+
 This functionality is intended to register the threat categories that will be used during the threat registration.
 
 Procedure
