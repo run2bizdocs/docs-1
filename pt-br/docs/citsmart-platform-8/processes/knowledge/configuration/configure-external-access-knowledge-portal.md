@@ -1,6 +1,6 @@
 title: Configurar acesso externo ao Portal do Conhecimento
 Description: Tem por finalidade configurar a visualização de conhecimentos no Portal do Conhecimento por usuário que não tenha um login e senha.
-#Configurar acesso externo ao Portal do Conhecimento
+# Configurar acesso externo ao Portal do Conhecimento
 
 Este conhecimento tem por finalidade configurar a visualização de conhecimentos
 no Portal do Conhecimento por usuário que não tenha um login e senha.
