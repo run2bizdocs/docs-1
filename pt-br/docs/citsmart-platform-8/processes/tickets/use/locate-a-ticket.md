@@ -1,6 +1,7 @@
 title: Localizar um ticket
 Description: O campo de pesquisa proporciona um rápido direcionamento ao item desejado através de seu número ou nome da tarefa. 
-#Localizar um ticket
+# Localizar um ticket
+
 A tela de listagem de tickets algumas vezes poderá trazer uma relação extensa de itens, o campo de pesquisa proporciona um rápido direcionamento ao item desejado através de seu número ou nome da tarefa.
 
 Antes de começar
