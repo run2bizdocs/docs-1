@@ -1,6 +1,7 @@
 title: Definir a política de continuidade do serviço
 Description: Esta funcionalidade permite definir a política.
-#Definir a política de continuidade do serviço
+# Definir a política de continuidade do serviço
+
 O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir a política.
 A política deve ser definida e comunicada o mais cedo possível para que todos os membros da organização envolvidos ou afetados pela continuidade de negócio sejam conscientizados sobre suas responsabilidades para suportar o Gerenciamento de Continuidade do Serviço de TI (GCSTI) de acordo com os objetivos da política.
 
