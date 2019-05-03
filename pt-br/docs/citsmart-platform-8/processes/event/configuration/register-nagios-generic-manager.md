@@ -1,6 +1,6 @@
 title: Cadastrar gerente genérico Nagios
 Description: Cadastrar e manter os gerentes genéricos que serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de monitoramento Nagios.
-#Cadastrar gerente genérico Nagios
+# Cadastrar gerente genérico Nagios
 
 O objetivo desta funcionalidade é cadastrar e manter os gerentes genéricos que
 serão responsáveis por monitorar os hosts e/ou serviços da ferramenta de
