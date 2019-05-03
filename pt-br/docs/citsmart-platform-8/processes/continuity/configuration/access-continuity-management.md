@@ -1,6 +1,6 @@
 title: Definir a permissão de acesso para o gerenciamento de continuidade
 Description: Tem por objetivo definir quem terá acesso às funcionalidades do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura, gravação e/ou exclusão).
-#Definir a permissão de acesso para o gerenciamento de continuidade
+# Definir a permissão de acesso para o gerenciamento de continuidade
 
 Esta funcionalidade tem por objetivo definir quem terá acesso às funcionalidades
 do gerenciamento de continuidade e qual tipo de acesso é permitido (leitura,
