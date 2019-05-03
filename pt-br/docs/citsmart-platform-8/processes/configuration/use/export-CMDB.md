@@ -1,6 +1,7 @@
 title: Exportar CMDB
 Description: Tem por objetivo exportar as informações de um grupo de item de configuração em formato XML.
-#Exportar CMDB
+# Exportar CMDB
+
 Esta funcionalidade tem por objetivo exportar as informações de um grupo de item de configuração em formato XML.
 
 Antes de começar
