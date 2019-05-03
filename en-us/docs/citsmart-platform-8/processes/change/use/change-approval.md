@@ -1,6 +1,6 @@
 title: Approve change
 Description: It allows to the Change Advisory Board approve or reject changes
-#Approve change
+# Approve change
 
 This functionality allows to the Change Advisory Board approve or reject the change.
 
