@@ -1,6 +1,7 @@
 title: Search event
 Description:Is intended to locate an event in the Event Management. 
-#Search event
+# Search event
+
 This functionality is intended to locate an event in the Event Management.
 
 Before getting started
