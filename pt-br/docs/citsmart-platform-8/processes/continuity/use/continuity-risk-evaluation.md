@@ -1,6 +1,7 @@
 title: Cadastrar a avaliação de riscos da continuidade
 Description: Esta funcionalidade permite cadastrar a avaliação de risco.
-#Cadastrar a avaliação de riscos da continuidade
+# Cadastrar a avaliação de riscos da continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a avaliação de risco.
 
 Antes de começar
