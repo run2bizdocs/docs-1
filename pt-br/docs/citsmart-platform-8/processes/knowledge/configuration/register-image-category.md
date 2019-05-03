@@ -1,6 +1,6 @@
 title: Cadastrar categoria de imagem
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as categorias de imagens para organização das imagens dentro da galeria que o sistema administra e usa.
-#Cadastrar categoria de imagem
+# Cadastrar categoria de imagem
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as categorias de imagens para organização das imagens dentro da galeria
