@@ -1,6 +1,7 @@
 title: Vincular acordo de nível de serviço ao grupo de IC
 Description: Tem por objetivo vincular um SLA ao grupo de item de configuração. 
-#Vincular acordo de nível de serviço ao grupo de IC
+# Vincular acordo de nível de serviço ao grupo de IC
+
 Esta funcionalidade tem por objetivo vincular um SLA ao grupo de item de configuração.
 
 Antes de começar
