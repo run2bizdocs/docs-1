@@ -1,6 +1,6 @@
 title: Executar um problema
 Description: Permite executar o problema.
-#Executar um problema
+# Executar um problema
 
 Esta funcionalidade permite executar o problema. Nesta etapa, é realizada a classificação do problema e designação a área apropriada para tratar o problema de acordo com o Catálogo de Serviços de TI. É necessário vincular o problema a incidentes existentes e registrar o problema para facilitar a priorização de solução de problemas, avaliar o impacto sobre os negócios e determinar a urgência da solução. Essa avaliação determina a classificação do problema.
 
