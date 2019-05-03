@@ -1,6 +1,7 @@
 title: Cadastrar o motivo de negação do check in
 Description: Permite registrar o motivo de negação do check in.
-#Cadastrar o motivo de negação do check in
+# Cadastrar o motivo de negação do check in
+
 Esta funcionalidade permite registrar o motivo de negação do check in, o qual será utilizado ao realizar o check in através do aplicativo CITSmart Enterprise ITSM Mobile.
 
 Procedimento
