@@ -1,6 +1,7 @@
 title: Vincular atributos de demanda ao IC
 Description: Permite vincular um atributo de demanda ao item de configuração.
-#Vincular atributos de demanda ao IC
+# Vincular atributos de demanda ao IC
+
 Esta funcionalidade permite vincular um atributo de demanda ao item de configuração.
 
 Antes de começar
