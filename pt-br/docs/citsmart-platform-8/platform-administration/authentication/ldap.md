@@ -59,6 +59,15 @@ Procedimento
 
         O sistema não permite excluir um usuário que tem origem no LDAP.
 
+### LDAP Seguro (LDAPS)
+
+```sh
+URL: ldaps://your-host.com:636
+```
+
+!!! success "Certificado digital"
+    Importar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instancia CITSmart.
+    
 
 Relacionado
 -----------
