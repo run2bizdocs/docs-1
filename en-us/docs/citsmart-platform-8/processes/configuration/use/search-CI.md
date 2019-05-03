@@ -1,6 +1,7 @@
 title: Search configuration item
 Description: It is allowed to perform IC queries in various ways in the search field.
-#Search configuration item
+# Search configuration item
+
 In the Configuration Item Management screen, it is allowed to perform IC queries in various ways in the search field.
 
 !!! Abstract "NOTE"  
