@@ -1,6 +1,7 @@
 title: Encerrar ocorrência e ações de um evento
 Description: Tem por objetivo encerrar a ocorrência e todas as ações de um evento.
-#Encerrar ocorrência e ações de um evento
+# Encerrar ocorrência e ações de um evento
+
 Esta funcionalidade tem por objetivo encerrar a ocorrência e todas as ações de um evento.
 
 Antes de começar
