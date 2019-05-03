@@ -1,6 +1,6 @@
 title: Cadastrar lista negra de software
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma Lista Negra de Softwares para que seja notificado os responsáveis sempre que detectada a instalação em alguma máquina da rede, onde esta será detectada no momento em que gerar o inventário.
-#Cadastrar lista negra de software
+# Cadastrar lista negra de software
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir uma Lista Negra de Softwares para que seja notificado os responsáveis
