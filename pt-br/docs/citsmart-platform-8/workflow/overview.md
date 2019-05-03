@@ -6,7 +6,7 @@ Title: Overview
 
 Fluxos são representações visuais de algo que se move continuamente. A funcionalidade de Fluxos tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
 
-## Recursos disponíveis
+## Recursos
 
 **Padrão:**
 - [Desenho de Fluxo][1]
@@ -16,7 +16,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 **Integração Neuro:**
 - [Fluxo de integração][4]
 - [Regra de negócio][5]
-- [Processo de Negócio][6]
+- Processo de Negócio
 
 ## Interface
 
@@ -180,7 +180,7 @@ Configuração
     <b>Updated:</b>04/12/2019 - Anna Martins
 
 
-[1]:
+[1]:/pt-br/citsmart-platform-8/workflow/use/create-flow.html
 [2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions.html
 [3]:/pt-br/citsmart-platform-8/workflow/use/modeling.html
 [4]:/pt-br/neuro/advanced-options/process-integration-flow.html
