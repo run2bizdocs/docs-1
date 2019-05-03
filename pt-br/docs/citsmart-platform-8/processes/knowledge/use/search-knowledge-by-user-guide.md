@@ -1,6 +1,7 @@
 title: Pesquisar conhecimento pelo Guia do Usuário
 Description: O Guia do Usuário é um espaço onde são disponibilizadas informações relevantes de modo a orientar os usuários.
-#Pesquisar conhecimento pelo Guia do Usuário
+# Pesquisar conhecimento pelo Guia do Usuário
+
 O Guia do Usuário é um espaço onde são disponibilizadas informações relevantes de modo a orientar os usuários (clientes, analistas, administradores, etc.) no uso de determinada funcionalidade de um produto CITSmart. Os recursos de pesquisa disponíveis facilitam o acesso aos conhecimentos de forma precisa e rápida. A pesquisa pode ser realizada também pelo uso de filtros como pasta, tipo, título, entre outros. Além disso, é possível que qualquer usuário registre um novo conhecimento, de modo a tornar o portal dinâmico e atualizado.
 
 Antes de começar
