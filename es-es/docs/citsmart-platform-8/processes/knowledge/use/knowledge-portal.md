@@ -98,6 +98,7 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 - **15**:Icono para contribuir con la gestión de conocimiento de la organización, es decir, la manera que el usuario tiene para crear (proponer) un nuevo conocimiento
 
 
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
