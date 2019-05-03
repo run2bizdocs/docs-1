@@ -1,8 +1,7 @@
 title: Display and search for the tags in the knowledge portal
-
 Description: This document is intended to inform how to create and search knowledge with tags.
+# Display and search for the tags in the knowledge portal
 
-#Display and search for the tags in the knowledge portal
 Tags are keywords (relevant) or terms associated to an information, topic or discussion that you want to index explicitly in the system in order to facilitate the search of the content you want.
 This document is intended to inform how to create and search knowledge with tags.
 
