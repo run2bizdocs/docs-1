@@ -1,6 +1,6 @@
 title: Cadastrar um template de mudança
 Description: Tem por objetivo cadastrar um template para facilitar a abertura de nova mudança
-#Cadastrar um template de mudança
+# Cadastrar um template de mudança
 
 Esta funcionalidade tem por objetivo cadastrar um template para facilitar a abertura de novas mudanças semelhantes entre si.
 
