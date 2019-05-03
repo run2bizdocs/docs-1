@@ -1,6 +1,7 @@
 title:  Smart Portal
 Description: The Smart Portal is a feature of the solution that makes available the Service Catalog
-#Smart Portal
+# Smart Portal
+
 The Smart Portal is a feature of the solution that makes available the Service Catalog (Business and Support) to the system users and allows to make several actions, including: 
 
 •	Open a ticket (service request);  
