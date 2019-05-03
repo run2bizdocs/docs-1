@@ -58,8 +58,6 @@ Procedimento
 Relacionado
 ------------
 
-[Manutenção de fluxo](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
-
 [Cadastrar template de ticket](/pt-br/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
 
 
