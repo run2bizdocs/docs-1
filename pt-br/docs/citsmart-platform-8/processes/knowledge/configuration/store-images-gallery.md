@@ -1,6 +1,6 @@
 title: Armazenar imagens na galeria
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir upload de imagens para serem utilizadas posteriormente no sistema.
-#Armazenar imagens na galeria
+# Armazenar imagens na galeria
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir upload de imagens para serem utilizadas posteriormente no sistema.
