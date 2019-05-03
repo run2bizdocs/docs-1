@@ -1,6 +1,7 @@
 title: Cadastrar a fórmula de ordem de serviços (OS)
 Description: Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato. 
-#Cadastrar a fórmula de ordem de serviços (OS)
+# Cadastrar a fórmula de ordem de serviços (OS)
+
 Esta funcionalidade tem o objetivo de registrar as fórmulas personalizadas para configurar "como" será o cálculo do valor do custo total da atividade do serviço do contrato.
 
 Procedimento
