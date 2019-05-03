@@ -1,6 +1,7 @@
 title: Create workflow
 Description: It's possible to create workflows that best fit to the users' reality
-#Create workflow
+
+# Create workflow
 
  It's possible to create workflows that best fit to the users' reality, customizing the scenario of each organization.
 
@@ -12,7 +13,7 @@ Procedure
 2.  Click on "New";
 
 3.  In the tab "Flow Data", it's necessary to complete the mandatory data: name 
-    (its internal identifier, it must be informed without space, accents and special characters); the process to which it's linked (the     flow will be only visible to the process to which it's linked) and the option that allow to reopen the service regardless of group       settings. It's also possible to view the version of the flow. [See more information][1].
+    (its internal identifier, it must be informed without space, accents and special characters); the process to which it's linked (the     flow will be only visible to the process to which it's linked) and the option that allow to reopen the service regardless of group       settings. It's also possible to view the version of the flow.
 
 3.  In the “Diagram” tab, it's presented the tool to design the flow by entering
     elements that represent the scenario. To do so, simply click on the element and drag it to the design area. When you do this, a         screen will be displayed to set the properties. We must take into account that a flow starts with the "Start Event" element and ends     with the "End Event".
@@ -54,5 +55,4 @@ Related
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html
 [2]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
