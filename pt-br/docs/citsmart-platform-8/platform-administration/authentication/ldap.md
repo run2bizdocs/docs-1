@@ -45,8 +45,6 @@ Procedimento
         configuração, caso contrário o teste usará os dados anteriores às alterações
         feitas na tela.
 
-    !!! Abstract "REGRA"
-
         Quando há um pedido de autenticação na tela de identificação do sistema
         (login e senha) é executado um ciclo de busca da conexão correta com base
         nesta configuração, ou seja, há uma tentativa de autenticação para cada
