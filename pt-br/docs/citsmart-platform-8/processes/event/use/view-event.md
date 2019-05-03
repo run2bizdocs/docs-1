@@ -1,6 +1,7 @@
 title: Visualizar um evento
 Description: Tem por objetivo visualizar as informações contidas no registro de um evento. 
-#Visualizar um evento
+# Visualizar um evento
+
 Esta funcionalidade tem por objetivo visualizar as informações contidas no registro de um evento.
 
 Antes de começar
