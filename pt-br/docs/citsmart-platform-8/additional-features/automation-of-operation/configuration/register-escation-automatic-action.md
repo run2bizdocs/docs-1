@@ -1,6 +1,6 @@
 title: Cadastrar ação automática de escalonamento
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ação automática de escalonamento.
-#Cadastrar ação automática de escalonamento
+# Cadastrar ação automática de escalonamento
 
 Esta funcionalidade tem por objetivo a ação de agendamento. Ela será o
 complemento para se criar uma regra de escalonamento.
@@ -22,7 +22,7 @@ Procedimento
 
 
 Relacionado
--------
+----------
 
 [Criar regra de escalonamento](/pt-br/citsmart-platform-8/processes/tickets/use/create-escalation-rule.html)
 

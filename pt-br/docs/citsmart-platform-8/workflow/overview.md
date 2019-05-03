@@ -9,13 +9,19 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 ## Funcionalidades
 
 **Padrão:**
+
 - [Desenho de Fluxo][1]
+
 - [Expressões][2]
+
 - [Modelagem de processo][3]
 
 **Integração Neuro:**
+
 - [Fluxo de integração][4]
+
 - [Regra de negócio][5]
+
 - Processo de Negócio
 
 !!! info "ALERTA"
@@ -184,7 +190,7 @@ Configuração
 
 
 [1]:/pt-br/citsmart-platform-8/workflow/use/create-flow.html
-[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions.html
+[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
 [3]:/pt-br/citsmart-platform-8/workflow/use/modeling.html
 [4]:/pt-br/neuro/advanced-options/process-integration-flow.html
 [5]:/pt-br/neuro/advanced-options/business-rules.html

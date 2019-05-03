@@ -1,6 +1,7 @@
 title: Cadastrar motivo de suspensão de atividade
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
-#Cadastrar motivo de suspensão de atividade
+# Cadastrar motivo de suspensão de atividade
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o motivo da suspensão da atividade periódica.
 
 Procedimento

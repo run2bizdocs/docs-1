@@ -1,6 +1,6 @@
 title: Cadastrar ação automática de mudança
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas do tipo mudança.
-#Cadastrar ação automática de mudança
+# Cadastrar ação automática de mudança
 
 Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
 tratada pelo processo de gerenciamento de mudança, ou seja, esta funcionalidade

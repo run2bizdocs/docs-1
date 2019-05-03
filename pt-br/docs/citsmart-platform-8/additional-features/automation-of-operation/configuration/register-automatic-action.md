@@ -1,6 +1,6 @@
 title: Cadastrar ação automática
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas.
-#Cadastrar ação automática
+# Cadastrar ação automática
 
 As ações automáticas são associadas no cadastro de gerentes de eventos. Estas
 ações serão relacionadas de acordo com o tipo do evento desejado e disparadas

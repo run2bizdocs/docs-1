@@ -1,6 +1,7 @@
 title: Cadastrar uma assinatura
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
-#Cadastrar uma assinatura
+# Cadastrar uma assinatura
+
 Esta funcionalidade tem o objetivo de registrar campos de assinatura para serem associados a um grupo de assinatura, a fim da personalização de assinaturas presentes no relatório de Ordens de Serviço. Estes relatórios de Ordem de Serviço são utilizados para registrar, comprovar e cobrar pelos serviços prestados ao cliente.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a assinatura.
 

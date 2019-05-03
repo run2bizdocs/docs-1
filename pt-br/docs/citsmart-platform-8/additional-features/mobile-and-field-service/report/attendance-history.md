@@ -1,6 +1,7 @@
 title: Verificar o histórico de atendimento
 Description: Tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
-#Verificar o histórico de atendimento
+# Verificar o histórico de atendimento
+
 Esta funcionalidade tem por objetivo verificar o histórico de atendimento das solicitações de serviços feito pelos técnicos de campo.
 Nesta tela, poderá visualizar o histórico de atendimento de solicitação de serviço feito pelos técnicos de campo, de acordo com os filtros informados.
 

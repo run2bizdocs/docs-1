@@ -1,7 +1,8 @@
 title: Cadastrar template de notificação
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um template de notificação.
 
-#Cadastrar template de notificação
+# Cadastrar template de notificação
+
 A funcionalidade Template de Notificação tem por objetivo criar um template de notificação para vincular ao Gerenciamento de Eventos e Base de Conhecimento.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um template de notificação.
 

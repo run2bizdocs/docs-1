@@ -1,6 +1,6 @@
 title: Configurar solução BI (Smart Analytics) via Docker
 Description: Este documento tem por objetivo configurar o BI na instância CITSmart.
-#Configurar solução BI (Smart Analytics) via Docker
+# Configurar solução BI (Smart Analytics) via Docker
 
 O CITSmart Analytics é a solução de Business Inteligence (BI) para a análise de
 dados do CITSmart. A solução de BI utiliza recursos das ferramentas [Saiku

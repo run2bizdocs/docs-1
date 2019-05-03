@@ -1,7 +1,6 @@
 title: Cadastrar grupo de atividade periódica
-
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os grupos de atividades periódica, os quais são responsáveis por executar as atividades periódicas. 
-#Cadastrar grupo de atividade periódica
+# Cadastrar grupo de atividade periódica
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os grupos de atividades periódica, os quais são responsáveis por executar as atividades periódicas.
 

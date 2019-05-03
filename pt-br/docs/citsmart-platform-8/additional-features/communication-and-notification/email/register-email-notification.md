@@ -1,6 +1,6 @@
 title: Cadastrar notificação via e-mail
 Description: Tem por objetivo enviar mensagens via e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no sistema.
-#Cadastrar notificação via e-mail
+# Cadastrar notificação via e-mail
 
 A funcionalidade de Notificação via E-mail tem por objetivo enviar mensagens via
 e-mail no intuito de notificar os usuários sobre eventos que irão ocorrer no
