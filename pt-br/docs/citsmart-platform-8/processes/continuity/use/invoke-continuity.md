@@ -1,6 +1,7 @@
 title: Invocar a continuidade
 Description: Esta funcionalidade invocar a continuidade do serviço.
-#Invocar a continuidade
+# Invocar a continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma. Esta funcionalidade invocar a continuidade do serviço.
 O gatilho para haver uma invocação é a abertura de um incidente do tipo crítico. O incidente tem que estar aprovado para exibição na tela de Invocação.
 
