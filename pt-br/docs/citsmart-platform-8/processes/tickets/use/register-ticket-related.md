@@ -1,6 +1,6 @@
 title: Cadastrar ticket relacionado
 Description: Permite cadastrar um ticket com atividades relacionada ao ticket original.
-#Cadastrar ticket relacionado
+# Cadastrar ticket relacionado
 
 No ticket relacionado somente é possível criar uma sub-solicitação através da solicitação original e visualiza-la após a criação.
 
