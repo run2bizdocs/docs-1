@@ -37,9 +37,6 @@ It's necessary to have registered the time for scheduling automatic synchronizat
         Before asking to test, it MUST click on "Save" to register the
         configuration, otherwise the test will use the data prior to the changes
         made on the screen.
-  
-    !!! Abstract "RULE"
-
         When an authentication request is made on the system identification screen
         (login and password), a correct connection search cycle is executed based on
         this configuration, that is, there's an authentication attempt for each domain
