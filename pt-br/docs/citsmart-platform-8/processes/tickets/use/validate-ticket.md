@@ -3,6 +3,7 @@ title: Validar e encerrar o ticket
 Description: Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
 # Validar e encerrar o ticket
+
 Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
 Antes de começar
