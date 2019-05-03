@@ -1,8 +1,7 @@
 title: Verify CI group availability
 
 Description: This functionality is intended to verify the CIs availability group.
-
-#Verify CI group availability
+# Verify CI group availability
 This functionality is intended to verify the CIs availability group.
 
 Before getting started
