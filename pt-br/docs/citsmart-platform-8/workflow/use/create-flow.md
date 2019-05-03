@@ -1,13 +1,14 @@
 title: Criar um fluxo de trabalho
 Description: É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário
-#Criar um fluxo de trabalho
+
+# Criar um fluxo de trabalho
 
  É possível criar fluxos de trabalho que melhor se adequam a realidade do usuário, personalizando os cenários de cada organização.
 
 Procedimento
 ------------
 
-1.  Acessar o menu principal Workflow \> Desenho de fluxo;
+1.  Acessar o menu principal Workflow > Desenho de fluxo;
 
 2.  Clicar no botão “Novo’;
 
@@ -16,7 +17,7 @@ Procedimento
     caracteres especiais); o processo a que está vinculado (o fluxo estará
     vísivel apenas para o processo a que está vinculado) e a opção para permitir
     a rebertura de um serviço independentemente das configurações de grupo.
-    Também é possível visualizar qual a versão o fluxo se encontra. [Ver mais informações][1].
+    Também é possível visualizar qual a versão o fluxo se encontra.
 
 3.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
     elementos que representam o cenário pretendido. Para tanto, basta clicar no
@@ -67,5 +68,4 @@ Relacionado
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html
 [2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
