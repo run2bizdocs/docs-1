@@ -1,6 +1,6 @@
 title: Cadastrar gerente Zabbix
 Description: Registrar e manter os gerentes responsáveis pelo monitoramento dos itens de configuração cujo status será consultado no Zabbix.
-#Cadastrar gerente Zabbix
+# Cadastrar gerente Zabbix
 
 O Zabbix é uma ferramenta para monitorar redes, servidores e serviços,
 projetados para monitorar disponibilidade, experiência do usuário e qualidade de
