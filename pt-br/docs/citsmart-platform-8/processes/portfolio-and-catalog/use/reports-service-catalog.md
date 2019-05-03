@@ -1,6 +1,6 @@
 title: Gerar relatórios - Catálogo de serviços
 Description: Permite verificar as informações sobre o catálogo dos serviços cadastrados.
-#Gerar relatórios - Catálogo de serviços
+# Gerar relatórios - Catálogo de serviços
 
 Este relatório permite verificar as informações sobre o catálogo dos serviços
 cadastrados.
