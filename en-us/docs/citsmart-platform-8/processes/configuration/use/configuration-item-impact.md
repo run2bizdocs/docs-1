@@ -2,7 +2,8 @@ title: Analyze configuration item impact
 
 Description: Allows to make an impact analysis of a configuration item.
 
-#Analyze configuration item impact
+# Analyze configuration item impact
+
 This functionality allows to make an impact analysis of a configuration item.
 
 Before getting started
