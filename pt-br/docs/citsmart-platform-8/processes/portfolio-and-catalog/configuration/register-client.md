@@ -1,6 +1,6 @@
 title: Cadastrar um cliente
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir pesquisas por clientes.
-#Cadastrar um cliente
+# Cadastrar um cliente
 
 O cliente é uma organização ou pessoa que solicita produtos e/ou serviços. Ele
 pode ser interno e/ou externo à organização.
