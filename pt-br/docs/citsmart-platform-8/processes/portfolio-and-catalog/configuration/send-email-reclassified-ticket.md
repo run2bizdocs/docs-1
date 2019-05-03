@@ -1,6 +1,6 @@
 title: Implementar forma de envio de e-mail para ticket reclassificado
 Description: Permite implementar a forma de envio de e-mail para ticket reclassificado, assim os tickets reclassificados terão um modelo de e-mail próprio a ser enviado ao solicitante.
-#Implementar forma de envio de e-mail para ticket reclassificado
+# Implementar forma de envio de e-mail para ticket reclassificado
 
 Este documento permite implementar a forma de envio de e-mail para ticket
 reclassificado, assim os tickets reclassificados terão um modelo de e-mail
