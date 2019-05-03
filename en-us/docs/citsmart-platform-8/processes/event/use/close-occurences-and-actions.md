@@ -1,6 +1,7 @@
 title: Close occurrences and actions of an event
 Description:Is intended to close the occurrence and all actions of an event.
-#Close occurrences and actions of an event
+# Close occurrences and actions of an event
+
 This functionality is intended to close the occurrence and all actions of an event.
 
 Before getting started
