@@ -1,6 +1,6 @@
 title: Cadastrar tipo de item de configuração
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de Item de Configuração (IC).
-#Cadastrar tipo de item de configuração
+# Cadastrar tipo de item de configuração
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir os tipos de Item de Configuração (IC).
