@@ -1,6 +1,6 @@
 title: Cancelar um problema
 Description: permite cancelar um problema previamente cadastrado.
-#Cancelar um problema
+# Cancelar um problema
 Esta funcionalidade permite cancelar um problema previamente cadastrado.
 
 Antes de começar
