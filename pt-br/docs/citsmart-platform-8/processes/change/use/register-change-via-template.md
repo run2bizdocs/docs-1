@@ -1,6 +1,6 @@
 title: Cadastrar uma mudança via template
 Description: Permite cadastrar mudanças via template
-#Cadastrar uma mudança via template
+# Cadastrar uma mudança via template
 
 Permite o cadastro da mudança via um template previamente registrado. A ideia do template consiste em agilizar o cadastro de novas mudanças ao agrupa-las numa temática similar.
 
