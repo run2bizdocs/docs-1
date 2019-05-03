@@ -1,6 +1,6 @@
 title: Register characteristics
 Description: Provides a variety of actions, such as including, changing, and deleting the characteristics of the Configuration Item
-#Register characteristics
+# Register characteristics
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the characteristics of the Configuration Item (CI).
