@@ -1,6 +1,7 @@
 title: Cadastrar fornecedor
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir um fornecedor.
-#Cadastrar fornecedor
+# Cadastrar fornecedor
+
 O fornecedor é uma organização ou uma pessoa física, responsável por prover
 produtos ou serviços a alguém. Ele pode ser do tipo *provedor de
 serviços*,*interno* e/ou *externo*.
