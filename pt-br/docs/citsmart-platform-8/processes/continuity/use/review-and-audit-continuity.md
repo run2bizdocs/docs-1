@@ -1,6 +1,7 @@
 title: Revisar e auditar a continuidade do serviço
 Description: Esta funcionalidade permite revisar e auditar a continuidade do serviço.
-#Revisar e auditar a continuidade do serviço
+# Revisar e auditar a continuidade do serviço
+
 O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma. Esta funcionalidade permite revisar e auditar a continuidade do serviço.
 
 Antes de começar
