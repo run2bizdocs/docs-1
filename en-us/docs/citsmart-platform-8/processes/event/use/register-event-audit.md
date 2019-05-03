@@ -1,6 +1,7 @@
 title: Register event audit
 Description: Is intended to maintain a database history of all event changes to make a manual audit.
-#Register event audit
+# Register event audit
+
 This feature is intended to maintain a database history of all event changes to make a manual audit.
 
 Procedure
