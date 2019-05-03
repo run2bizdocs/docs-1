@@ -1,6 +1,7 @@
 title: Gerenciar equipes com Kanban
 Description: Esta opção tem por objetivo auxiliar gestores no acompanhamento detalhado de suas filas de atendimento de tickets. 
-#Gerenciar equipes com Kanban
+# Gerenciar equipes com Kanban
+
 Esta opção tem por objetivo auxiliar gestores no acompanhamento detalhado de suas filas de atendimento de tickets, fazendo uso da técnica de gestão chamada de Kanban. O Kanban é a utilização de cartões (post-it e outros) para indicar o andamento dos fluxos de produção.
 Nesses cartões são colocadas indicações sobre uma determinada tarefa, por exemplo, “para executar” / “em execução”/ “feito”, e sempre que o fluxo avança seu posicionamento muda para a direita no quadro.
 
