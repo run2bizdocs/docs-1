@@ -1,6 +1,7 @@
 title: Analisar tendências de solicitações de serviço
 Description: Esta funcionalidade tem por objetivo realizar uma análise das solicitações.
-#Analisar tendências de solicitações de serviço
+# Analisar tendências de solicitações de serviço
+
 Esta funcionalidade tem por objetivo realizar uma análise das solicitações, baseada na quantidade crítica, para identificar quais itens vão influenciar em um lançamento de uma nova solicitação.
 
 Antes de começar
