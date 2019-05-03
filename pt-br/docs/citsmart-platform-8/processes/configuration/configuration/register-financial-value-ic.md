@@ -1,6 +1,6 @@
 title: Registrar o valor financeiro do IC
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir o valor financeiro do IC.
-#Registrar o valor financeiro do IC
+# Registrar o valor financeiro do IC
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir o valor financeiro do IC.
