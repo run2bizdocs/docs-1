@@ -1,6 +1,6 @@
 title: Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração
 Description: Permite verificar as informações dos itens de configuração.
-#Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração
+# Gerar relatórios pelo painel de gráficos e relatórios - Itens de configuração
 
 Este relatório permite verificar as informações dos itens de configuração.
 
