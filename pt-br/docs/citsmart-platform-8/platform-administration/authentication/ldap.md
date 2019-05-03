@@ -1,6 +1,7 @@
 title: Cadastrar conexões LDAP
 Description: Permite gerenciar diretórios, ou seja, acessar bancos de informações sobre os usuários de uma rede por meio de protocolos TCP/IP.
-#Cadastrar conexões LDAP
+
+# Cadastrar conexões LDAP
 
 O LDAP (*Lightweight Directory Access Protocol* - Protocolo de acesso aos
 diretórios leves) é um protocolo padrão que permite gerenciar diretórios, ou
@@ -18,7 +19,7 @@ Antes de começar
 Procedimento
 ----------------
 
-1.  Acessar o menu principal Parametrização \> Configuração LDAP;
+1.  Acessar o menu principal Parametrização > Configuração LDAP;
 
 2.  Clicar no botão "Novo";
 
