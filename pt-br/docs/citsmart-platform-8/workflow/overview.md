@@ -18,6 +18,9 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 - [Regra de negócio][5]
 - Processo de Negócio
 
+!!! info "ALERTA"
+    Estes itens só estarão disponíveis quanto a aplicação [Neuro estiver habilitada][7] em sua instância.
+
 ## Interface
 
 ### Tela inicial
@@ -186,3 +189,4 @@ Configuração
 [4]:/pt-br/neuro/advanced-options/process-integration-flow.html
 [5]:/pt-br/neuro/advanced-options/business-rules.html
 [6]:
+[7]:/pt-br/neuro/enable-neuro.html
