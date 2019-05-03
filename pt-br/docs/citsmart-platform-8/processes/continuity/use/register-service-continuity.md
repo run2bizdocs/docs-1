@@ -1,6 +1,7 @@
 title: Cadastrar a continuidade de serviço
 Description: Esta funcionalidade permite registrar a continuidade de determinado serviço.
-#Cadastrar a continuidade de serviço
+# Cadastrar a continuidade de serviço
+
 O Gerenciamento de Continuidade foca em recuperar os serviços de TI e seus componentes diante de um evento de desastre.
 Esta funcionalidade permite registrar a continuidade de determinado serviço.
 
