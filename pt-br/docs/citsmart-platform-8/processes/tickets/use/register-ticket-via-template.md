@@ -1,6 +1,7 @@
 title: Cadastrar ticket via template
 Description: Permite o cadastro do ticket via template. 
-#Cadastrar ticket via template
+# Cadastrar ticket via template
+
 Esta funcionalidade permite o cadastro do ticket via template.
 
 Antes de começar

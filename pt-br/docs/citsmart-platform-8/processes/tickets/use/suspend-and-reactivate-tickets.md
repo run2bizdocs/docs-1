@@ -1,6 +1,7 @@
 title: Suspender e reativar múltiplos tickets
 Description: Permite a suspensão ou reativação de múltiplos tickets ao mesmo tempo. 
-#Suspender e reativar múltiplos tickets
+# Suspender e reativar múltiplos tickets
+
 A funcionalidade permite a suspensão ou reativação de múltiplos tickets ao mesmo tempo.
 
 Antes de começar
