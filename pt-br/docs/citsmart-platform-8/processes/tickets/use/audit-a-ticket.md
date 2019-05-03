@@ -1,6 +1,7 @@
 title: Auditar um ticket
 Description: A funcionalidade permite a auditoria dos tickets criados. 
-#Auditar um ticket
+# Auditar um ticket
+
 A funcionalidade permite a auditoria dos tickets criados.
 
 Antes de começar
