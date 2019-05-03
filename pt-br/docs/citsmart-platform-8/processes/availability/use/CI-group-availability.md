@@ -1,6 +1,7 @@
 title: Verificar disponibilidade de grupo de IC
 Description: Tem por objetivo verificar a disponibilidade de grupo de ICs.
-#Verificar disponibilidade de grupo de IC
+# Verificar disponibilidade de grupo de IC
+
 Esta funcionalidade tem por objetivo verificar a disponibilidade de grupo de ICs.
 
 Antes de começar
