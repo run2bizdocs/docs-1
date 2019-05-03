@@ -1,6 +1,7 @@
 title: Definir o projeto da continuidade do serviço
 Description: Permite definir o projeto. 
-#Definir o projeto da continuidade do serviço
+# Definir o projeto da continuidade do serviço
+
 O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite definir o projeto.
 
 Antes de começar
