@@ -1,6 +1,7 @@
 title: Pesquisar item de configuração
 Description: É permitido realizar consultas de ICs de diversas formas no campo de busca.
-#Pesquisar item de configuração
+# Pesquisar item de configuração
+
 Na tela de Gerenciamento de Itens de Configuração, é permitido realizar consultas de ICs de diversas formas no campo de busca.
 
 !!! Abstract "NOTA"  
