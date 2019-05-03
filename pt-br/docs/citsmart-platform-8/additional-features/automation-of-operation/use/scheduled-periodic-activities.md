@@ -1,6 +1,7 @@
 title: Verificar as atividades periódicas agendadas
 Description: Esta tela, em formato de calendário, permite visualizar as atividades programadas. 
-#Verificar as atividades periódicas agendadas
+# Verificar as atividades periódicas agendadas
+
 Esta funcionalidade tem por objetivo verificar as atividades agendadas referentes ao gerenciamento de requisição e incidente, gerenciamento de problema, gerenciamento de mudança e gerenciamento de liberação para execução das mesmas.
 Esta tela, em formato de calendário, permite visualizar as atividades programadas.
 
