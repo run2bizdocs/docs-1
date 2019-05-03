@@ -1,6 +1,7 @@
 title: Cadastrar o template de continuidade
 Description: Esta funcionalidade tem por objetivo registrar o template de continuidade.
-#Cadastrar o template de continuidade
+# Cadastrar o template de continuidade
+
 Esta funcionalidade tem por objetivo registrar o template de continuidade, o qual será utilizado para personalizar a tela de registro de testes.
 
 Antes de começar
