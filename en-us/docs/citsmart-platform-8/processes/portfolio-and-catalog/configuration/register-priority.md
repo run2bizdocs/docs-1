@@ -1,6 +1,7 @@
 title: Register priority
 Description: 
-#Register priority
+# Register priority
+
 This functionality allows to set the priority that will be used to identify the service importance and the time required to an appropriated action to be taken.
 The priority should be 1 to 5, with 1 being the highest priority and 5 being the lowest.
 This feature provides a variety of actions, such as including, changing, and deleting a priority.
