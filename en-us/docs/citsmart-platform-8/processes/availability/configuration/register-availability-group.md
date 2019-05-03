@@ -1,6 +1,7 @@
 title: Register availability group
 Description: Provides a variety of actions, such as including, changing, and deleting the group configuration items to generate availability index.
-#Register availability group
+# Register availability group
+
 This feature provides a variety of actions, such as including, changing, and deleting the group configuration items to generate availability index.
 
 Before getting started
