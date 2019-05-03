@@ -39,11 +39,7 @@ Procedimiento
 
         Antes de solicitar la prueba, se DEBE hacer clic en "Guardar" para guardar
         la configuración, de lo contrario, la prueba utilizará los datos anteriores
-        a los cambios hechos en la pantalla.  
-
-
-    !!! Abstract "REGLA"
-
+        a los cambios hechos en la pantalla.
         Cuando hay una solicitud de autenticación en la pantalla de identificación
         del sistema (login y contraseña), se ejecuta un ciclo de búsqueda de la
         conexión correcta sobre la base de esta configuración, es decir, hay un
