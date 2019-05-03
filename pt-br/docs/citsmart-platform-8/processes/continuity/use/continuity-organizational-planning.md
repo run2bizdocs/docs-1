@@ -1,6 +1,7 @@
 title: Cadastrar o planejamento organizacional da continuidade
 Description: Esta funcionalidade permite cadastrar o Planejamento Organizacional.
-#Cadastrar o planejamento organizacional da continuidade
+# Cadastrar o planejamento organizacional da continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A terceira fase deste processo, chamado de Implementação onde será definido o Plano de Continuidade, o Planejamento e a Estratégia de Testes. Esta funcionalidade permite cadastrar o Planejamento Organizacional.
 
 Antes de começar
