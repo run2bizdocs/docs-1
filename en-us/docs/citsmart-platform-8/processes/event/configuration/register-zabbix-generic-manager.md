@@ -1,6 +1,6 @@
 title: Register Zabbix generic manager
 Description: Register and maintain the generic managers, who will be responsible for monitoring the hosts and/or triggers of the Zabbix monitoring tool.
-#Register Zabbix generic manager
+# Register Zabbix generic manager
 
 The purpose of this functionality is to register and maintain the generic
 managers, who will be responsible for monitoring the hosts and/or triggers of
