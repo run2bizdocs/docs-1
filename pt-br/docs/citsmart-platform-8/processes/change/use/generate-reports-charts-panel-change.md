@@ -1,6 +1,6 @@
 title: Gerar relatórios pelo painel de gráficos e relatórios - Mudanças
 Description: Serão abordados sobre como gerar gráficos e relatórios para mudanças.
-#Gerar relatórios pelo painel de gráficos e relatórios - Mudanças
+# Gerar relatórios pelo painel de gráficos e relatórios - Mudanças
 
 Os seguintes tópicos serão abordados sobre como gerar gráficos e relatórios para
 mudanças.
