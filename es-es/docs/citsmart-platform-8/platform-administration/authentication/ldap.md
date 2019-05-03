@@ -1,6 +1,7 @@
 title:  Registrara conexiones LDAP 
 Description: Permite registrar múltiples conexiones LDAP y definir las configuraciones para cada una de ellas.
-#Registrara conexiones LDAP
+
+# Registrara conexiones LDAP
 El LDAP (Lightweight Directory Access Protocol - Protocolo Ligero/Simplificado de Acceso a Directorios) es un protocolo estándar que permite administrar directorios, es decir, acceder a bancos de información sobre los usuarios de una red a través de protocolos TCP/IP.
 Esta funcionalidad permite registrar múltiples conexiones LDAP y definir las configuraciones para cada una de ellas.
 
@@ -61,6 +62,12 @@ Procedimiento
 
 Relacionado
 -----------
+
+### LDAP Seguro (LDAPS)
+
+!!! success "Certificado digital"
+    Exportar el certificado público del servidor LDAP y agregar en el repositorio de certificados de CA de Java desde su instancia CITSmart.
+    
 
 [Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
 
