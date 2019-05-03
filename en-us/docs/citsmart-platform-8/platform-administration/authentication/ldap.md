@@ -52,8 +52,13 @@ It's necessary to have registered the time for scheduling automatic synchronizat
 !!! Abstract "RULE"
 
     The system does not allow to delete a user that originates in LDAP.
+    
+### LDAP Secure (LDAPS)
 
-	
+!!! success "Certificate"
+    Export the public certificate from the LDAP server and add it to the Java CA certificate store of your CITSmart instance.
+    
+    
 ## Related
 
 [Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
