@@ -66,7 +66,7 @@ URL: ldaps://your-host.com:636
 ```
 
 !!! success "Certificado digital"
-    Importar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instancia CITSmart.
+    Exportar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instancia CITSmart.
     
 
 Relacionado
