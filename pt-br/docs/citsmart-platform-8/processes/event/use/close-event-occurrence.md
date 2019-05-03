@@ -1,6 +1,7 @@
 title: Encerrar ocorrência de um evento
 Description: Tem por objetivo encerrar a ocorrência de um evento. 
-#Encerrar ocorrência de um evento
+# Encerrar ocorrência de um evento
+
 Esta funcionalidade tem por objetivo encerrar a ocorrência de um evento.
 
 Antes de começar
