@@ -1,6 +1,6 @@
 title: Criar categoria de serviço
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as categorias de serviço para posicionar os serviços de negócio, apoio, requisição, incidente e procedimento, dentro de grupos semelhantes de atuação.
-#Criar categoria de serviço
+# Criar categoria de serviço
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as categorias de serviço para posicionar os serviços de negócio, apoio,
