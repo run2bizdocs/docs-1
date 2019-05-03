@@ -1,6 +1,7 @@
 title: Verify configuration item captured by Inventory (agent)
 Description: Is intended to present the details about the Configuration Items collected by the inventory routine.
-#Verify configuration item captured by Inventory (agent)
+# Verify configuration item captured by Inventory (agent)
+
 This functionality is intended to present the details about the Configuration Items collected by the inventory routine.
 
 Procedure
