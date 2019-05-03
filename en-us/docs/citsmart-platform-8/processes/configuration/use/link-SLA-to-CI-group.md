@@ -1,6 +1,7 @@
 title: Link service level agreement to CI group
 Description: Is intended to link an SLA to the configuration item group.
-#Link service level agreement to CI group
+# Link service level agreement to CI group
+
 This functionality is intended to link an SLA to the configuration item group.
 
 Before getting started
