@@ -1,6 +1,6 @@
 title: Cadastrar destinatário da notificação
 Description: Configurar os destinatários que receberão as notificações. O destinatário pode ser um ou mais colaboradores e/ou grupos.
-#Cadastrar destinatário da notificação
+# Cadastrar destinatário da notificação
 
 Esta funcionalidade tem como objetivo de configurar os destinatários que
 receberão as notificações.O destinatário pode ser um ou mais colaboradores
