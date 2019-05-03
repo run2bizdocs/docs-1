@@ -1,6 +1,7 @@
 title: Criar ticket a partir de um evento
 Description: Tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
-#Criar ticket a partir de um evento
+# Criar ticket a partir de um evento
+
 Esta funcionalidade tem por objetivo a criação de uma solicitação de serviço dentro de um evento.
 
 Antes de começar
