@@ -1,6 +1,6 @@
 title: Cadastrar processo de negócio
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um processo de negócio.
-#Cadastrar processo de negócio
+# Cadastrar processo de negócio
 
 O Processo de Negócio irá contribuir para a entrega de um produto ou serviço aos
 clientes. Por exemplo: um comerciante pode ter um processo de compra que o ajude
