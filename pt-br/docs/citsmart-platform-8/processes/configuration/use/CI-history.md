@@ -1,6 +1,7 @@
 title: Verificar histórico de item de configuração
 Description: Permite obter relatório de auditoria do item de configuração.
-#Verificar histórico de item de configuração
+# Verificar histórico de item de configuração
+
 Esta funcionalidade permite obter relatório de auditoria do item de configuração.
 
 Antes de começar
