@@ -1,6 +1,7 @@
 title: Change the configuration item data
 Description: Allows to edit the configuration item data 
-#Change the configuration item data
+# Change the configuration item data
+
 This functionality allows to edit the configuration item data. The changes of configuration items will be saved in a history. Every time the item is changed, a new version inserted with the changes.
 
 Before getting started
