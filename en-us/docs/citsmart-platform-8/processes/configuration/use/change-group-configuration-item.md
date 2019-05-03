@@ -1,7 +1,8 @@
 title: Change group of configuration item
 
 Description: Has the objective of modify the information in the configuration item group
-#Change group of configuration item
+# Change group of configuration item
+
 This functionality has the objective of modify the information in the configuration item group. This field only will be active if it's created a group in the CMDB screen.
 
 Before getting started
