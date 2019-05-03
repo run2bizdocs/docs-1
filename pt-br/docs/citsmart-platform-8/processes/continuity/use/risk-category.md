@@ -1,6 +1,7 @@
 title: Cadastrar categoria de risco
 Description: Esta funcionalidade tem por objetivo cadastrar as categorias de riscos que serão usadas durante o cadastro do risco.
-#Cadastrar categoria de risco
+# Cadastrar categoria de risco
+
 Esta funcionalidade tem por objetivo cadastrar as categorias de riscos que serão usadas durante o cadastro do risco.
 
 Procedimento
