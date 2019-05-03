@@ -1,6 +1,6 @@
 title: Personalizar o painel gerencial (Smart Decision)
 Description: Adicionar dashboards a partir de um template ou selecionando manualmente.
-#Personalizar o painel gerencial (Smart Decision)
+# Personalizar o painel gerencial (Smart Decision)
 
 O painel gerencial é exibido na tela principal do sistema. Neste painel é
 possível adicionar dashboards a partir de um template ou selecionando
