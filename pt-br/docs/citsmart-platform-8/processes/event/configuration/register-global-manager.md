@@ -1,6 +1,6 @@
 title: Cadastrar gerente Global
 Description: Tem como objetivo criar regras para monitorar vários tipos de eventos.
-#Cadastrar gerente Global
+# Cadastrar gerente Global
 
 Esta funcionalidade tem como objetivo criar regras para monitorar vários tipos
 de eventos.
