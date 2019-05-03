@@ -1,6 +1,6 @@
 title: Cadastrar habilidade/recurso
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as habilidades dos colaboradores.
-#Cadastrar habilidade/recurso
+# Cadastrar habilidade/recurso
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as habilidades dos colaboradores.
