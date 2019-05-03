@@ -1,6 +1,7 @@
 title: Imprimir um Ticket
 Description: Visa permitir imprimir o resumo dos dados principais do ticket desejado.  
-#Imprimir um Ticket
+# Imprimir um Ticket
+
 Esta funcionalidade visa permitir imprimir o resumo dos dados principais do ticket desejado. 
 
 Antes de começar
