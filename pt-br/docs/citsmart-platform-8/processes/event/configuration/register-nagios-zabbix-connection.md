@@ -1,6 +1,6 @@
 title: Cadastrar conexão Nagios/Zabbix
 Description: Cadastrar as ferramentas Nagios/Zabbix que serão vinculadas ao Gerenciamento de Eventos para realizar a monitoração dos diversos itens de configuração.
-#Cadastrar conexão Nagios/Zabbix
+# Cadastrar conexão Nagios/Zabbix
 
 Esta funcionalidade tem como objetivo cadastrar as ferramentas Nagios/Zabbix que
 serão vinculadas ao Gerenciamento de Eventos para realizar a monitoração dos
