@@ -1,6 +1,7 @@
 title: Delete group of configuration item
 Description: Only can be deleted the group that does not have item related
-#Delete group of configuration item
+# Delete group of configuration item
+
 Only can be deleted the group that does not have item related (groups and/or configuration item).
 
 Before getting started
