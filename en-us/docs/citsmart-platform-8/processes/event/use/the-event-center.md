@@ -1,6 +1,7 @@
 title: The event center
 Description:Is intended to present some functionalities for the event management 
-#The event center
+# The event center
+
 This functionality is intended to present some functionalities for the event management, allowing to view charts, monitor and search event occurrences.
 
 •	Charts;
