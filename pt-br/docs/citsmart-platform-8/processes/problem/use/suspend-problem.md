@@ -1,6 +1,6 @@
 title: Suspender um problema
 Description: Permite suspender o problema.
-#Suspender um problema 
+# Suspender um problema 
 
 Esta funcionalidade permite suspender o registro de problema.
 
