@@ -1,6 +1,7 @@
 title: Verificar disponibilidade de grupo de disponibilidade
 Description: Tem por objetivo verificar a disponibilidade de grupo de disponibilidade.
-#Verificar disponibilidade de grupo de disponibilidade
+# Verificar disponibilidade de grupo de disponibilidade
+
 Esta funcionalidade tem por objetivo verificar a disponibilidade de grupo de disponibilidade.
 
 Antes de começar
