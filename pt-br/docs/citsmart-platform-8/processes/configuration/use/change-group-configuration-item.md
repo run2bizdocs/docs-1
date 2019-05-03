@@ -1,6 +1,7 @@
 title: Alterar grupo de item de configuração
 Description: Tem por objetivo modificar informações no grupo de item de configuração
-#Alterar grupo de item de configuração
+# Alterar grupo de item de configuração
+
 Esta funcionalidade tem por objetivo modificar informações no grupo de item de configuração. Este campo somente estará ativo se for criado grupo dentro da tela de CMDB.
 
 Antes de começar
