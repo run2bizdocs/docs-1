@@ -39,12 +39,11 @@ Procedimiento
     
     -   Para definir el estilod e la grid, elegir una de las opciones disponibles;
     
-    -   Para elegir el color de la fuente de los menús, haga clic en el campo localizado en
-        frente a "Color del tema".
+    -   Para elegir el color de la fuente de los menús, haga clic en el campo localizado en frente a "Color del tema".
         
     *Widgets con navegación*
     
-    Esta estructura permite la creación de un Centro de Experiencia con un menú lateral. Cada elemento de menú puede contener widgets       específicos.
+    Esta estructura permite la creación de un Centro de Experiencia con un menú lateral. Cada elemento de menú puede contener widgets específicos.
     
     -   Para agregar nueva sección, hacer clic en el botón con el signo "+";
     
