@@ -1,6 +1,6 @@
 title: Cadastrar empresa
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir informações da empresa.
-#Cadastrar empresa
+# Cadastrar empresa
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir informações da empresa.
