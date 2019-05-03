@@ -1,6 +1,6 @@
 title: Manual de utilização do aplicativo mobile CITSmart Experience (iOS)
 Description: Tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart ITSM Experience na plataforma iOS.
-#Manual de utilização do aplicativo mobile CITSmart EXperience (iOS)
+# Manual de utilização do aplicativo mobile CITSmart Experience (iOS)
 
 Este documento tem o propósito de fornecer orientações necessárias para
 instalar, configurar e utilizar o aplicativo mobile CITSmart Experience
