@@ -1,6 +1,6 @@
 title: Criar item de configuração filho
 Description: Permite registrar um item de configuração a outro IC.
-#Criar item de configuração filho
+# Criar item de configuração filho
 
 Esta funcionalidade permite registrar um item de configuração a outro IC.
 
