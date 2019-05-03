@@ -1,37 +1,37 @@
-title: Criar ticket pelo Twitter
-Description: O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+title: Crear ticket por Twitter
+Description: CITSmart, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
 
-# Criar ticket pelo Twitter
-O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+# Crear ticket por Twitter
+CITSmart, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
 
-Antes de começar
+Antes de empezar
 ----------------
 
-É necessário ter a funcionalidade de integração com o Twitter configurada na instância CITSmart e ter a funcionalidade de machine learning (ambiente com Python). Além disso, é preciso definir o serviço que atenderá à esta modalidade de atendimento, bem como contratos e permissões em fluxos de trabalho. 
+Es necesario tener la funcionalidad de integración con Twitter configurada en la instancia CITSmart y tener la funcionalidad de machine learning (ambiente con Python). Además, es necesario definir el servicio que atenderá a esta modalidad de atención, así como contratos y permisos en flujos de trabajo. 
 
-Procedimento 
+Procedimiento 
 -------------
 
-1.  É necessário seguir a página CITSmart no Twitter;
+1.  Es necesario seguir la página de CITSmart en Twitter;
 
-2.  Clicar no ícone “Mensagem” nesta página;
+2.  Hacer clic en el icono "Mesaje" en la página de Twitter;
 
-3.  Elaborar o ticket com a solicitação desejada;
+3.  Crear el ticket con la solicitud que quieras;
 
-4.  Logo após de criado o ticket, o sistema responderá com um feedback padrão incluindo o número da solicitação;
+4.  Después de crear el ticket, el sistema responderá con un feedback estándar, incluyendo el número de la solicitud;
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENCIÓN"
         
-        Criado o ticket pelo Twitter, o executor dele terá acesso a solicitação por meio da funcionalidade “Tickets” 
-        no sistema, seguindo o procedimento regular de execução dos tickets. 
+        Al crear el ticket por Twitter, su ejecutor tendrá acceso a la solicitud por medio de la funcionalidad "Tickets" 
+        en el sistema, siguiendo el procedimiento regular de ejecución de los tickets.
         
-5.  Encerrado o atendimento do ticket, sua Solução-Resposta será publicada no twitter do usuário, como mensagem direta.
+5.  Cerrada la atención del ticket, la Solución-Respuesta será enviada para el Twitter del usuario, como un mensaje directo.
 
 !!! Abstract "IMPORTANTE"
 
-    A abertura e atendimento de tickets pelo Twitter só é possível se o sistema seguir um formulário (workflow) 
-    Neuro criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
-    necessitará de um processo de negócio agendado por expressão Cron.  
+    La apertura y atención de tickets por Twitter sólo es posible si el sistema sigue un formulario (workflow) Neuro creado
+    específicamente con el propósito de atender este tipo de solicitud. Además, es necesario para ejecutar el flujo, un 
+    proceso de negocio programado por expresión Cron.  
 
 !!! tip "About"
 
