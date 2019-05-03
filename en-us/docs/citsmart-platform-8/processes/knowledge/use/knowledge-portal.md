@@ -1,6 +1,6 @@
 title: Knowledge Portal
 Description: Is one of the main screens of the solution, which aims to provide relevant information that allows the operator (user or administrator) the understanding and application of a certain knowledge. It also enables it to register a new knowledge in order to make the portal dynamic and up-to-date.
-#Knowledge Portal
+# Knowledge Portal
 
 The Knowledge Portal is one of the main screens of the solution, which aims to provide relevant information that allows the operator (user or administrator) the understanding and application of a certain knowledge. 
 
