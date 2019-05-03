@@ -1,7 +1,8 @@
 title: Run script of the configuration item
 
 Description: Allows to run the script of a configuration item.
-#Run script of the configuration item
+# Run script of the configuration item
+
 This functionality allows to run the script of a configuration item.
 
 Before getting started
