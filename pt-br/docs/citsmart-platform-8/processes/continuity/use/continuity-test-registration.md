@@ -1,6 +1,7 @@
 title: Cadastrar a estratégia de testes da continuidade
 Description: Esta funcionalidade permite cadastrar a Estratégia de Testes da Continuidade. 
-#Cadastrar a estratégia de testes da continuidade
+# Cadastrar a estratégia de testes da continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A terceira fase deste processo, chamado de Implementação onde será definido o Plano de Continuidade, o Planejamento e a Estratégia de Testes. Esta funcionalidade permite cadastrar a Estratégia de Testes da Continuidade.
 
 Antes de começar
