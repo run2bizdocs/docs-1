@@ -1,6 +1,6 @@
 title: Register definitive media
 Description: Register the authorized and definitive versions of all Configuration Items (CI) of Software in a safe way.
-#Register definitive media
+# Register definitive media
 
 This functionality has the objective to register the authorized and definitive
 versions of all Configuration Items (CI) of Software in a safe way.
