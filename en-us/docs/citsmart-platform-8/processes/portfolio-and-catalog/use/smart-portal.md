@@ -12,35 +12,35 @@ The Smart Portal is a feature of the solution that makes available the Service C
 
 Figure 1 - Smart Portal
 
-- 1: Menu Button - clicking this button allows you to hide/display the Smart Portal menu
+- **1**: Menu Button - clicking this button allows you to hide/display the Smart Portal menu
 
-- 2: Knowledge Portal - shortwcut to Knowledge Portal, where you can search for relevant information about the use of the system
+- **2**: Knowledge Portal - shortwcut to Knowledge Portal, where you can search for relevant information about the use of the system
 
-- 3: User Guide - clicking on this option will present the Knowledge Portal screen, where you can search for relevant information
+- **3**: User Guide - clicking on this option will present the Knowledge Portal screen, where you can search for relevant information
 
-- 4: Access System - allows enter the system
+- **4**: Access System - allows enter the system
 
-- 5: Notifications - location where system alert messages are displayed
+- **5**: Notifications - location where system alert messages are displayed
 
-- 6: User Identification - clicking this option displays the functions to change the access password and exit the system
+- **6**: User Identification - clicking this option displays the functions to change the access password and exit the system
 
-- 7: Search - allows you to search the services available in the portal
+- **7**: Search - allows you to search the services available in the portal
 
-- 8: Portal - allows return to the Smart Portal's start window
+- **8**: Portal - allows return to the Smart Portal's start window
 
-- 9: Smartbox  - shows the amount of requests that are in the user's shopping cart (active option only when parameter 292 is set to "YES")
+- **9**: Smartbox  - shows the amount of requests that are in the user's shopping cart (active option only when parameter 292 is set to "YES")
 
-- 10: My requests - allows the logged in user to view their service requests and perform some actions on them
+- **10**: My requests - allows the logged in user to view their service requests and perform some actions on them
 
-- 11: Approvals - allows the logged in user to view only those service requests that require approval
+- **11**: Approvals - allows the logged in user to view only those service requests that require approval
 
-- 12: News - where the news is made available, for example, concerning the organization, the system, etc 
+- **12**: News - where the news is made available, for example, concerning the organization, the system, etc 
 
-- 13: Active Campaings - allows to send / accompany registered activities
+- **13**: Active Campaings - allows to send / accompany registered activities
 
-- 14: Chat - allows you to create a service request and interact with the attendant about it
+- **14**: Chat - allows you to create a service request and interact with the attendant about it
 
-- 15: Language: allows you to choose the language you want for the system (Portuguese, English or Spanish)
+- **15**: Language: allows you to choose the language you want for the system (Portuguese, English or Spanish)
 
 
 Before getting started 
