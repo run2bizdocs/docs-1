@@ -59,15 +59,15 @@ Procedimiento
 !!! Abstract "REGLA"
 
     El sistema no permite eliminar un usuario que tiene origen en el LDAP.
-
-Relacionado
------------
-
+    
 ### LDAP Seguro (LDAPS)
 
 !!! success "Certificado digital"
     Exportar el certificado público del servidor LDAP y agregar en el repositorio de certificados de CA de Java desde su instancia CITSmart.
     
+
+Relacionado
+-----------
 
 [Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
 
