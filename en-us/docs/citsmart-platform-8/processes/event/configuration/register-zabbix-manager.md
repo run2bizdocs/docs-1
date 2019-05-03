@@ -1,6 +1,6 @@
 title: Register Zabbix manager
 Description: Register and maintain the managers responsible for monitoring the configuration items whose status will be queried in Zabbix.
-#Register Zabbix manager
+# Register Zabbix manager
 
 Zabbix is a tool to monitor networks, serves and services, designed to monitor
 the availability, user experience and service quality.
