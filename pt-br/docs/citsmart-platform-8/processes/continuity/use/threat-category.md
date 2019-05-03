@@ -1,6 +1,7 @@
 title: Cadastrar categoria de ameaça
 Description: Tem por objetivo cadastrar as categorias de ameaças que serão usadas durante os registros das ameaças. 
-#Cadastrar categoria de ameaça
+# Cadastrar categoria de ameaça
+
 Esta funcionalidade tem por objetivo cadastrar as categorias de ameaças que serão usadas durante os registros das ameaças.
 
 Procedimento
