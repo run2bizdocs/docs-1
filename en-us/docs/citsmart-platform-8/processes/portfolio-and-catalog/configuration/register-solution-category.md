@@ -1,6 +1,7 @@
 title: Register solution category
 Description: 
-#Register solution category
+# Register solution category
+
 This feature provides a variety of actions, such as including, changing, and deleting the incidents solution categories.
 
 Procedure
