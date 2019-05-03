@@ -1,6 +1,6 @@
 title: Register EPL template
 Description: Allows to create and maintain the EPL templates, to be used in the EPL creation.
-#Register EPL template
+# Register EPL template
 
 This functionality allows to create and maintain the EPL templates, to be used
 in the EPL creation.
