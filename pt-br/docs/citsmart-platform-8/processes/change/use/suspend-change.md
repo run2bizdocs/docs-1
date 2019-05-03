@@ -1,6 +1,6 @@
 title: Suspender uma mudança
 Description: Permite suspender uma mudança
-#Suspender uma mudança
+# Suspender uma mudança
 
 Esta funcionalidade permite suspender uma mudança.  
 
