@@ -1,6 +1,6 @@
 title: Atividades da fase de planejamento da mudança
 Description: Permite planejar as atividades a serem executadas junto a mudança 
-#Atividades da fase de planejamento da mudança 
+# Atividades da fase de planejamento da mudança 
 
 Esta funcionalidade permite planejar as atividades a serem executadas junto a mudança.
 
