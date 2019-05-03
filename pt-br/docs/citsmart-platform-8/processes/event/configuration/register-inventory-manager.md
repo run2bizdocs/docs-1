@@ -1,6 +1,6 @@
 title: Cadastrar gerente Inventory
 Description: Cadastrar e manter os gerentes que serão responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart Inventory
-#Cadastrar gerente Inventory
+# Cadastrar gerente Inventory
 
 O objetivo desta funcionalidade é cadastrar e manter os gerentes que serão
 responsáveis pelas ocorrências de eventos capturadas a partir do CITSmart
