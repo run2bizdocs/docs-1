@@ -1,6 +1,7 @@
 title: Register synonym
 Description: Intended to maintain the registration of synonyms for searches purpose in the knowledge base.
-#Register synonym
+# Register synonym
+
 This functionality is intended to maintain the registration of synonyms for searches purpose in the knowledge base.
 This feature provides various actions, such as including, changing and deleting synonyms.
 
