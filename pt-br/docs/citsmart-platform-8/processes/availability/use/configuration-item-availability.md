@@ -1,6 +1,7 @@
 title: Verificar disponibilidade do item de configuração
 Description: Tem por objetivo verificar a disponibilidade de ICs.
-#Verificar disponibilidade do item de configuração
+# Verificar disponibilidade do item de configuração
+
 Esta funcionalidade tem por objetivo verificar a disponibilidade de ICs.
 
 Antes de começar
