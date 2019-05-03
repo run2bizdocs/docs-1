@@ -48,6 +48,11 @@ Procedimiento
 
 6.  Después de definir el flujo, haga clic en el botón "Grabar" para efectuar la operación.
 
+Relacionado
+------------
+
+[Registrar plantilla de ticket](/es-es/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
+
 
 !!! tip "About"
 
