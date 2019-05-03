@@ -1,6 +1,6 @@
 title: Calendar of changes
 Description: It allows to manage the periods in which the organization will pass through changes
-#Calendar of changes
+# Calendar of changes
 
 This functionality is intended to manage the periods in which the organization will pass trough a period of maintenance or blackout, then, helping in the change planning.
 
