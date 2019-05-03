@@ -1,6 +1,7 @@
 title: Export CMDB
 Description:Is intended to export the information of a group of configuration item in XML.
-#Export CMDB
+# Export CMDB
+
 This functionality is intended to export the information of a group of configuration item in XML.
 
 Before getting started
