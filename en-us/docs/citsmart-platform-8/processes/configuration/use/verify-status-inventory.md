@@ -1,6 +1,6 @@
 title: Verify execution status of CI inventory
 Description: Allows to view the current status of the inventory execution through the application of CITSmart Inventory.
-#Verify execution status of CI inventory
+# Verify execution status of CI inventory
 
 This functionality allows to view the current status of the inventory execution
 through the application of CITSmart Inventory.
