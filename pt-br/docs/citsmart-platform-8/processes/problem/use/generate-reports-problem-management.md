@@ -1,6 +1,6 @@
 title: Gerar relatórios - Gerência de problemas
 Description: São apresentados diversos tipos de relatórios referents ao gerenciamento de problemas.
-#Gerar relatórios - Gerência de problemas
+# Gerar relatórios - Gerência de problemas
 
 Nos tópicos a seguir são apresentados os relatórios referentes ao gerenciamento
 de problemas:
