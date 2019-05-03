@@ -1,6 +1,7 @@
 title:  Criar regra de escalonamento 
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
-#Criar regra de escalonamento
+# Criar regra de escalonamento
+
 Esta funcionalidade permite criar regras de escalonamento a fim de fornecer uma perspectiva de impacto à empresa ao gerir os atendimentos dos tickets (e suas eventuais requisições e incidentes) dentro de um tempo hábil pré-estabelecido. Ao criar regras para a notificação do responsável quando o ticket está em nível crítico de ruptura de seu SLA é possível evitar esta através de ações preventivas e escalonar este atendimento a outros grupos executores e respeitar assim seu tempo de atendimento.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
 
