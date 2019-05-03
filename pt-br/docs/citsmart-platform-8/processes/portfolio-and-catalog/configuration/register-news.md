@@ -1,6 +1,6 @@
 title: Cadastrar notícias
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as notícias que serão publicadas no Smart Portal.
-#Cadastrar notícias
+# Cadastrar notícias
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as notícias que serão publicadas no Smart Portal.
