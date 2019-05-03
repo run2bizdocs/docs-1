@@ -1,6 +1,6 @@
 title: Cadastrar a atividade periódica
 Description: Permite registrar e verificar as atividades periódicas relacionadas aos contratos.
-#Cadastrar a atividade periódica
+# Cadastrar a atividade periódica
 
 Esta funcionalidade permite registrar e verificar as atividades periódicas relacionadas aos contratos.
 
