@@ -38,7 +38,7 @@ It also enables it to register a new knowledge in order to make the portal dynam
  
  - **2**: shows the total of knowledge
  
- - **3**: shows the types of filters to find the knowledge, refining the initial search by selecting one of the options
+ - **3**: shows filters to find the knowledge, refining the initial search by selecting one of the options
  
  - **4**: Relation of knowledge found
  
