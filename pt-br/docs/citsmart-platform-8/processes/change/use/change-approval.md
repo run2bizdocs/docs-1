@@ -1,6 +1,6 @@
 title: Aprovar uma mudança
 Description: Permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudanças
-#Aprovar uma mudança
+# Aprovar uma mudança
 
 Esta funcionalidade permite ao Comitê Consultivo de Mudanças aprovar ou rejeitar a mudança.
 
