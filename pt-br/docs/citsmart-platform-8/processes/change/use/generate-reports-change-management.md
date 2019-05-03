@@ -1,6 +1,6 @@
 title: Gerar relatórios - Gerência de mudanças
 Description: Objetivo de apresentar a quantidade de mudanças registradas.
-#Gerar relatórios - Gerência de mudanças
+# Gerar relatórios - Gerência de mudanças
 
 Gerar relatório de quantitativo de mudança
 ----------------------------------------------
