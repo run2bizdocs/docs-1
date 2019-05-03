@@ -48,10 +48,6 @@ Procedimiento
 
 6.  Después de definir el flujo, haga clic en el botón "Grabar" para efectuar la operación.
 
-Relacionado
-------------
-
-[Mantenimiento del flujo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 
