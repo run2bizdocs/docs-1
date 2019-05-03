@@ -1,6 +1,7 @@
 title: Cadastrar a conscientização da continuidade
 Description: Permite cadastrar a Conscientização (educação e treinamento) da continuidade do serviço.
-#Cadastrar a conscientização da continuidade
+# Cadastrar a conscientização da continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A quarta fase deste processo, chamado de Operação Contínua onde será definido a Conscientização (educação e treinamento) da continuidade, a Revisão e auditoria da continuidade, os Testes acerca da continuidade e a Invocação da mesma. Esta funcionalidade permite cadastrar a Conscientização (educação e treinamento) da continuidade do serviço.
 
 Antes de começar
