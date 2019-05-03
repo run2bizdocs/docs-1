@@ -9,6 +9,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 ## Funcionalidades
 
 **Padrão:**
+
 - [Desenho de Fluxo][1]
 
 - [Expressões][2]
@@ -16,6 +17,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 - [Modelagem de processo][3]
 
 **Integração Neuro:**
+
 - [Fluxo de integração][4]
 
 - [Regra de negócio][5]
