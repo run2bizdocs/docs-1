@@ -1,7 +1,7 @@
 title: Register company
 Description: Provides a variety of actions, such as including, changing, and deleting the company's information.
 
-#Register company
+# Register company
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the company's information.
