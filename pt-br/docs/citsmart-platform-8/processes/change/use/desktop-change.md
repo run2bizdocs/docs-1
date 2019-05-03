@@ -1,6 +1,7 @@
 title: A área de trabalho da mudança
 Description: A área de trabalho do Processo de Mudanças é um espaço onde estão disponibilizados todos as Mudanças ativas. 
-#A área de trabalho de Mudanças
+# A área de trabalho de Mudanças
+
 A área de trabalho de Mudanças os é um espaço onde estão disponibilizados todos os tickets e seu histórico de atendimento, tornando a visualização de cada item com suas principais informações mais fácil. Neste espaço também há a possibilidade de ações como incluir, alterar e excluir de um item além de diversas outras.
 
 Procedimento
