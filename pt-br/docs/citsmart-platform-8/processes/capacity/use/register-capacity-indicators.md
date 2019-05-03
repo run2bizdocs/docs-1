@@ -1,6 +1,7 @@
 title: Cadastrar indicadores de capacidade
 Description: Esta funcionalidade disponibiliza ações diversas.
-#Cadastrar indicadores de capacidade
+# Cadastrar indicadores de capacidade
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os indicadores de capacidade/performance que serão vinculados aos Serviços e aos Itens de Configuração (IC).
 
 Procedimento
