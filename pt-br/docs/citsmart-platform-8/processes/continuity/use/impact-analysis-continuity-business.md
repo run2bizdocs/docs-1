@@ -1,6 +1,7 @@
 title: Cadastrar a análise de impacto no negócio da continuidade
 Description: Permite cadastrar a análise de impacto do negócio.
-#Cadastrar a análise de impacto no negócio da continuidade
+# Cadastrar a análise de impacto no negócio da continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A segunda fase deste processo, chamado de Requisitos e Estratégias onde será definido as Funções vitais, Análise de impacto no negócio, Avaliação de riscos e Estratégia de Continuidade. Esta funcionalidade permite cadastrar a análise de impacto do negócio.
 
 Antes de começar
