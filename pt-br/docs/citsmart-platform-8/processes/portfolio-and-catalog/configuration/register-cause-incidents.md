@@ -1,6 +1,6 @@
 title: Cadastrar causa de incidentes
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as causas da ocorrência de incidentes.
-#Cadastrar causa de incidentes
+# Cadastrar causa de incidentes
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as causas da ocorrência de incidentes.
