@@ -1,6 +1,7 @@
 title: Register threat
 Description:Provides a variety of actions, such as including, changing, and deleting the threat. 
-#Register threat
+# Register threat
+
 This functionality is intended to register the threats that will be used during the Continuity registration.
 This feature provides a variety of actions, such as including, changing, and deleting the threat.
 
