@@ -1,6 +1,6 @@
 title: Cadastrar mídia definitiva
 Description: Registrar as versões definitivas e autorizadas de todos os Itens de Configuração (ICs) de Software de maneira segura.
-#Cadastrar mídia definitiva
+# Cadastrar mídia definitiva
 
 Esta funcionalidade tem por objetivo registrar as versões definitivas e
 autorizadas de todos os Itens de Configuração (ICs) de Software de maneira
