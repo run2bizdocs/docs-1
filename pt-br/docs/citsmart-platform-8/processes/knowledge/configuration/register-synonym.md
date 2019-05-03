@@ -1,6 +1,6 @@
 title: Cadastrar sinônimo
 Description: Tem por objetivo manter o registro de palavras sinônimas para efeitos de pesquisa na base de conhecimento.
-#Cadastrar sinônimo
+# Cadastrar sinônimo
 
 Esta funcionalidade tem por objetivo manter o registro de palavras sinônimas
 para efeitos de pesquisa na base de conhecimento.
