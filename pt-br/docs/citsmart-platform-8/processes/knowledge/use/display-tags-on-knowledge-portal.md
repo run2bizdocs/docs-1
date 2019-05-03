@@ -1,6 +1,7 @@
 title: Exibir e pesquisar pelas tags no Portal do Conhecimento
 Description: Este documento tem por objetivo informar como criar e pesquisar conhecimentos pelo o uso de tags.
-#Exibir e pesquisar pelas tags no Portal do Conhecimento
+# Exibir e pesquisar pelas tags no Portal do Conhecimento
+
 Tags são palavras-chave (relevantes) ou termos associados a uma informação, tópico ou discussão que se deseja indexar de forma explícita no sistema afim de facilitar a pesquisa de conteúdo desejados.
 Este documento tem por objetivo informar como criar e pesquisar conhecimentos pelo o uso de tags.
 
