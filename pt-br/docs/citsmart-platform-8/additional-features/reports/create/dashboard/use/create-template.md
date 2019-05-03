@@ -1,6 +1,6 @@
 title: Configurar template para Smart Decision
 Description: Determinar o layout de apresentação do Smart Decision que é apresentado no home do CITSmart.
-#Configurar template para Smart Decision
+# Configurar template para Smart Decision
 
 Esta funcionalidade tem por objetivo determinar o layout de apresentação do
 Smart Decision que é apresentado no home do CITSmart. Permitindo colocar acessos
