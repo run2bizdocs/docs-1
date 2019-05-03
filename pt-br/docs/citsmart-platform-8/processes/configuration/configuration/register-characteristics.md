@@ -1,6 +1,6 @@
 title: Cadastrar característica
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir as características do Item de Configuração (IC).
-#Cadastrar característica
+# Cadastrar característica
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir as características do Item de Configuração (IC).
