@@ -1,6 +1,6 @@
 title: Verificar controle de rendimento por colaborador
 Description: Tem por objetivo obter um relatório quanto ao atendimento de tickets de um grupo ou de um colaborador.
-#Verificar controle de rendimento por colaborador
+# Verificar controle de rendimento por colaborador
 
 Esta funcionalidade tem por objetivo obter um relatório quanto ao atendimento de
 tickets de um grupo ou de um colaborador.
