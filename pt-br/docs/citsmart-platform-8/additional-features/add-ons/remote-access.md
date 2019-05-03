@@ -42,7 +42,7 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
 Com o serviço do GuaCD ativo e comunicável, o próximo passao e criar uma conexão de acesso remoto em sua instância e testar o recurso.
 
-## Relacionados
+## Relacionado
 
 [Criar conexão com o servidor de acesso remoto][1]
 
