@@ -1,6 +1,7 @@
 title: Register service continuity scope
 Description:Allows to register the continuity scope.
-#Register service continuity scope
+# Register service continuity scope
+
 The Continuity Registration is a process that pass through several phases. The first step of this process, Initiation, is where it'll be defined the policy, scope and project and IT service continuity. This functionality allows to register the continuity scope.
 It's necessary set the scope and team responsibilities, covering the process activities, such as: risk evaluation, business impact acalysis (BIA), Determination of controls according to customer and regulatory requirements, considering audit points and compliance with ISO 27001.
 
