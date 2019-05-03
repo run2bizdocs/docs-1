@@ -1,6 +1,7 @@
 title: Register news category
 Description: 
-#Register news category
+# Register news category
+
 This functionality is intended to register the categories to the news organization that will be published in the Smart Portal.
 This feature provides various actions, such as including, changing and deleting news category.
 
