@@ -1,6 +1,7 @@
 title: Cadastrar um grupo de assinaturas
 Description: Permite registrar os grupos de assinatura que serão impressos em relatórios.
-#Cadastrar um grupo de assinaturas
+# Cadastrar um grupo de assinaturas
+
 Esta funcionalidade permite registrar os grupos de assinatura que serão impressos em relatórios.
 
 Antes de começar
