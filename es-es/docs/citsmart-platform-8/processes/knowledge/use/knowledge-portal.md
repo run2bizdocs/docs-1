@@ -8,7 +8,7 @@ El Portal del Conocimiento es una de las pantallas principales de la solución, 
 También permite que el mismo registre un nuevo conocimiento para tonar el portal dinámico y actualizado.
 
 
-![Portal](images/figure2-portal.png)
+![Portal](images/figure1-portal.png)
 
    Figura 1 - Portal del Conocimiento
    
@@ -32,24 +32,32 @@ También permite que el mismo registre un nuevo conocimiento para tonar el porta
 
 -------------------------------------------------------------------------------------------------
 
-![resultado](images/figure1-portal.png)
+![resultado](images/figure2-portal.png)
 
    Figura 2 - Resultado de búsqueda
 
- - **1**: Muestra la cantidad de conocimientos encontrados
+ - **1**: campo de búsqueda
+ Muestra la cantidad de conocimientos encontrados
  
- - **2**: Tipo - muestra los tipos de conocimientos encontrados, siendo posible refinar aún más la búsqueda inicial al seleccionar una de las opciones
+ - **2**: muestra la cantidad de conocimientos encontrados
  
- - **3**: Relación de conocimientos encontrados
- 
- - **4**: Tags - muestra las tags de conocimientos encontrados, siendo posible refinar aún más la búsqueda inicial al seleccionar una de las opciones
+ - **3**: muestra filtros para encontrar el conocimiento, refinando la búsqueda inicial seleccionando una de las opciones
+  
+ - **4**: relación de conocimientos encontrados
  
  
 !!! Abstract "REGLA"
 
     La lista resultante se monta de acuerdo con determinadas prioridades de comparaciones (configurables). 
-    Por default, toda lista resultante será montada comparando el texto buscado con (en este orden): a) 
-    contenido del conocimiento, b) título, c) anexos y d) palabras claves (Tags).
+    Por default, toda lista resultante será montada comparando el texto buscado con (en este orden): 
+    
+    a)contenido del conocimiento
+    
+    b) título
+    
+    c) anexos 
+    
+    d) palabras claves (Tags)
     
   
 1.  Después de encontrar el conocimiento deseado, haga clic en el título para ver el contenido:
