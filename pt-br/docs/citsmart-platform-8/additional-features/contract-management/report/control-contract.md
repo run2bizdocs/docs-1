@@ -1,6 +1,7 @@
 title: Controlar os contratos
 Description: Permite gravar os registros de uma entrada de um novo contrato. 
-#Controlar os contratos
+# Controlar os contratos
+
 Esta funcionalidade permite gravar os registros de uma entrada de um novo contrato.
 A tela grava registros do que foi acordado para o contrato: o registro de ocorrência, quem é o responsável pelo treinamento e qual é a data de treinamento sobre o software.
 
