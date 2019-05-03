@@ -1,6 +1,7 @@
 title: Vincular calendário ao grupo de item de configuração
 Description: Tem por objetivo vincular um calendário ao grupo de item de configuração.
-#Vincular calendário ao grupo de item de configuração
+# Vincular calendário ao grupo de item de configuração
+
 Esta funcionalidade tem por objetivo vincular um calendário ao grupo de item de configuração.
 
 Antes de começar
