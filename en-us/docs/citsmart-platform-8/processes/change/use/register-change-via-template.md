@@ -1,6 +1,6 @@
 title: Register change via template
 Description: It allows to register changes via template
-#Register change via template
+# Register change via template
 
 It allows to register the change via a previously registered template. The idea of the template is to speed up the registration of new changes by grouping them in a similar theme.
 
