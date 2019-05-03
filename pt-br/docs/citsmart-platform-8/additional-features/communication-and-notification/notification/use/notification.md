@@ -1,6 +1,7 @@
 title: Cadastrar notificação 
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir mensagens de alerta.
-#Cadastrar notificação
+# Cadastrar notificação
+
 A funcionalidade de Notificação tem por objetivo criar mensagens de alerta no intuito de notificar os usuários sobre informações acerca da organização.
 As notificações registradas, serão exibidas durante o período estabelecido neste registro. Após passar o período, o sistema irá inativar as notificações.
 O sistema mostra o contador de notificação incrementado somente quando existir notificação que exige confirmação de leitura.
