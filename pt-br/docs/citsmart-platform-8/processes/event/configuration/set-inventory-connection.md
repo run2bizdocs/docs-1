@@ -1,6 +1,6 @@
 title: Configurar conexão Inventory
 Description: Tem como objetivo cadastrar todas as propriedades referentes à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado o Jboss do CITSmart Inventory.
-#Configurar conexão Inventory
+# Configurar conexão Inventory
 
 Esta funcionalidade tem como objetivo cadastrar todas as propriedades referentes
 à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado
