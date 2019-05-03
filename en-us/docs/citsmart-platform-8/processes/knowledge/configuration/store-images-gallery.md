@@ -1,6 +1,7 @@
 title: Store images in the gallery
 Description: Provides a variety of actions, such as including, changing, and deleting images to be used in the system.
-#Store images in the gallery
+# Store images in the gallery
+
 This feature provides a variety of actions, such as including, changing, and deleting images to be used in the system.
 
 Before getting started
