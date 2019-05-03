@@ -34,18 +34,26 @@ It also enables it to register a new knowledge in order to make the portal dynam
 
    Figure 2 - Search result
    
- - **1**: Shows the amount of knowledge found
+ - **1**: search field
  
- - **2**: Type - shows the types of knowledge found, and it is possible to further refine the initial search by selecting one of the options
+ - **2**: shows the total of knowledge
  
- - **3**: Relation of knowledge found
+ - **3**: shows the types of filters to find the knowledge, refining the initial search by selecting one of the options
  
- - **4**: Tags - shows the tags os knowledge found, and it is possible to further refine the initial search by selecting one of the the options
+ - **4**: Relation of knowledge found
  
   
 !!! Abstract "RULE" 
 
-    The resulting list is mounted according to certain (configurable) comparisons priorities. By default, any resulting list       will be assembled by comparing the searched text with (in this order): a) content of knowledge, b) title, c) attachments       and d) keywords (Tags).
+    The resulting list is mounted according to certain (configurable) comparisons priorities. By default, any resulting list  will be assembled by comparing the searched text with (in this order): 
+    
+    a) content of knowledge
+    
+    b) title
+    
+    c) attachments 
+    
+    d) keywords (Tags)
     
     
 1.  After finding the desired knowledge, click on the title to view the content:   
