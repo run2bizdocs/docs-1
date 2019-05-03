@@ -1,6 +1,6 @@
 title: Cadastrar assunto
 Description: Tem por objetivo registrar o assunto de um conhecimento que será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não na base de conhecimento.
-#Cadastrar assunto
+# Cadastrar assunto
 
 Esta funcionalidade tem por objetivo registrar o assunto de um conhecimento que
 será utilizado na busca de Relatórios de Tópicos ou Assuntos disponíveis ou não
