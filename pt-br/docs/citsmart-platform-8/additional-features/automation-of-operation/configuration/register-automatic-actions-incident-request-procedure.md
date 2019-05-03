@@ -1,6 +1,6 @@
 title: Cadastrar ação automática de incidentes/requisições/procedimentos
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir ações automáticas do tipo incidente/requisição/procedimento.
-#Cadastrar ação automática de incidentes/requisições/procedimentos
+# Cadastrar ação automática de incidentes/requisições/procedimentos
 
 Alguns eventos irão apresentar uma situação onde a ação apropriada precisará ser
 tratada pelo processo de gerenciamento de incidentes, ou seja, esta
