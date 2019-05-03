@@ -1,6 +1,6 @@
 title: Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
 Description: Definir quem terá acesso às funcionalidades do Gerenciamento de Portfólio de Serviços e qual tipo de acesso é permitido (visualização, gravação e/ou exclusão).
-#Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
+# Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio
 
 A ITIL recomenda que um produto ITSM seja capaz de atribuir níveis de
 responsabilidades específicos para um Gerente de Portfólio ou outros, com base
