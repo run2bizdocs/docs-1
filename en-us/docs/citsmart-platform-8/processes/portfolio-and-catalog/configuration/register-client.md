@@ -1,6 +1,7 @@
 title: Register a client
 Description: Register a client in the system.
-#Register a client
+# Register a client
+
 The customer is an organization or person requesting products and/or services. They can be internal and/or external to the organization.
 This feature provides a variety of actions, such as including, changing, and deleting clients.
 
