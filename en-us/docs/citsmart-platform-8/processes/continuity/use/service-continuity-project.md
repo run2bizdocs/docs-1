@@ -1,7 +1,8 @@
 title: Define service continuity project
 
 Description: Allows to set the policy. 
-#Define service continuity project
+# Define service continuity project
+
 The Continuity Registration is a process that pass through several phases. The first phase of this process, called Initiation, is where it's set the policy, scope and IT service continuity project. This functionality allows to set the policy.
 
 Before getting started
