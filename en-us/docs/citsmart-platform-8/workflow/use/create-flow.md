@@ -45,10 +45,6 @@ Procedure
 
 6.  After define the flow, click on "Save".
 
-Related
-------------
-
-[Flow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
 
 !!! tip "About"
 
