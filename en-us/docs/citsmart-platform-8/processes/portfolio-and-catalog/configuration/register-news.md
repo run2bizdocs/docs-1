@@ -1,6 +1,7 @@
 title: Register news
 Description: Register news in the system. 
-#Register news
+# Register news
+
 This feature provides various actions, such as including, changing and deleting the news that will be published in the Smart Portal.
 
 Before getting started
