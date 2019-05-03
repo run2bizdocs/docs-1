@@ -1,6 +1,6 @@
 title: Portal del Conocimiento
 Description: proporcionar informaciones relevantes que permitan al operador (usuario o administrador) el entendimiento y aplicación de un determinado conocimiento.
-#Portal del Conocimiento
+# Portal del Conocimiento
 
 
 El Portal del Conocimiento es una de las pantallas principales de la solución, que pretende proporcionar informaciones relevantes que permitan al operador (usuario o administrador) el entendimiento y aplicación de un determinado conocimiento. 
