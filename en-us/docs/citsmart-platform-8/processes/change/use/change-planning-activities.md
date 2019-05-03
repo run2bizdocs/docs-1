@@ -1,6 +1,6 @@
 title: Activities of the change planning phase
 Description: It allows to plan the activities to be executed with the change
-#Activities of the change planning phase 
+# Activities of the change planning phase 
 
 This functionality allows to planning the activities to be executed with the change.
 
