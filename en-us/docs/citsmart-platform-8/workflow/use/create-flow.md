@@ -45,6 +45,10 @@ Procedure
 
 6.  After define the flow, click on "Save".
 
+Related
+------------
+
+[Register ticket template](/en-us/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
 
 !!! tip "About"
 
