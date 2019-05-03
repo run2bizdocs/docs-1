@@ -1,6 +1,7 @@
 title: Register continuity risk
 Description: This functionality is intended to register the risks that will be used during the Continuity registration.
-#Register continuity risk
+# Register continuity risk
+
 This functionality is intended to register the risks that will be used during the Continuity registration.
 
 Before getting started
