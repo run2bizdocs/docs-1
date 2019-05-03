@@ -1,6 +1,7 @@
 title: Cadastrar o escopo da continuidade do serviço
 Description: Permite registrar o escopo da continuidade.
-#Cadastrar o escopo da continuidade do serviço
+# Cadastrar o escopo da continuidade do serviço
+
 O Registro de Continuidade é um processo que passa por várias fases. A primeira fase deste processo, chamado de Iniciação é onde será definido a política, o escopo e o projeto desta Continuidade do Serviço de TI. Esta funcionalidade permite registrar o escopo da continuidade.
 É necessário definir o escopo e as responsabilidades das equipes cobrindo as atividades do processo como: Avaliação de risco, Análise de impacto do negócio (AIN), Determinação dos controles de acordo com os requisitos dos clientes e regulatórios, considerando os pontos de auditoria e conformidade com a ISO 27001.
 
