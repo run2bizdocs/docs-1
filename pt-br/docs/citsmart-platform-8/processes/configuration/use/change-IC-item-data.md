@@ -1,6 +1,7 @@
 title: Alterar dados do item de configuração
 Description: Permite editar dados de um item de configuração
-#Alterar dados do item de configuração
+# Alterar dados do item de configuração
+
 Esta funcionalidade permite editar dados de um item de configuração. As alterações de itens de configuração são gravadas em um histórico. Todas as vezes que o item é modificado, uma nova versão é inserida com as mudanças.
 
 Antes de começar
