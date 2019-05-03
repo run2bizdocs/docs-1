@@ -1,6 +1,7 @@
 title: Administrar os contratos
 Description: A administração dos contratos é utilizada com o objetivo de gerenciar os contratos já cadastrados no sistema.  
-#Administrar os contratos
+# Administrar os contratos
+
 A administração dos contratos é utilizada com o objetivo de gerenciar os contratos já cadastrados no sistema. Este processo permite verificar, adicionar e excluir serviços, além de dispor de vínculos para a criação de OS, de fatura e notificação.
 
 Antes de começar
