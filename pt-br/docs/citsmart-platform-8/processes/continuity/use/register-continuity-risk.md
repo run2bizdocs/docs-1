@@ -1,6 +1,7 @@
 title: Cadastrar o risco de continuidade
 Description: Tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade. 
-#Cadastrar o risco de continuidade
+# Cadastrar o risco de continuidade
+
 Esta funcionalidade tem por objetivo cadastrar os riscos que serão usadas durante o registro da Continuidade.
 
 Antes de começar
