@@ -1,6 +1,7 @@
 title: Atender com suporte remoto
 Description: O produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
 # Atender com suporte remoto
+
 O atendimento de um ticket muitas vezes pode ser com usuários que não consegue resolver somente com orientações do atendente, por isso o produto disponibiliza o suporte remoto, ajudando assim a solucionar alguma questão.
 Com o atendimento remoto é possível ver o histórico de atendimentos deste tipo, contribuindo assim com informações para um possível processo de auditoria.
 
