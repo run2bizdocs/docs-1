@@ -1,6 +1,6 @@
 title: Relacionar informações a mudança
 Description: Permite vincular a Mudança uma série de informações
-#Relacionar informações a mudança 
+# Relacionar informações a mudança 
 
 É possível vincular a Mudança uma série de informações, tais como: liberação, conhecimento, problema, dentro outros, no intuito de solidificar e embasar a execução do processo.  
 
