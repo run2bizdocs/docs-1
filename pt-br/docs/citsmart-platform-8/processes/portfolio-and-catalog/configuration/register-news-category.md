@@ -1,6 +1,6 @@
 title: Cadastrar categoria de notícias
 Description: Registrar as categorias para organização das notícias que serão publicadas no Smart Portal.
-#Cadastrar categoria de notícias
+# Cadastrar categoria de notícias
 
 Esta funcionalidade tem o objetivo de registrar as categorias para organização
 das notícias que serão publicadas no Smart Portal.
