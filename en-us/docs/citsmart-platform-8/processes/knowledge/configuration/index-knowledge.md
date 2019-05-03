@@ -1,6 +1,6 @@
 title: Index knowledge
 Description: Intended to create index, that ix, know the content of knowledge published in the knowledge base
-#Index knowledge
+# Index knowledge
 
 Te Knowledge Index functionality is intended to create index, that is, know the
 content of knowledge published in the knowledge base, identifying terms that
