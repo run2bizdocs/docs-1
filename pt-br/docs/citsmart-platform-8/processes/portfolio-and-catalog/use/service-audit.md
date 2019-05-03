@@ -1,6 +1,7 @@
 title: Verificar auditoria de serviços
 Description: Permite verificar o histórico do serviço para auditoria do mesmo.
-#Verificar auditoria de serviços
+# Verificar auditoria de serviços
+
 Esta funcionalidade permite verificar o histórico do serviço para auditoria do mesmo. As orientações descritas neste conhecimento poderão ser seguidas para verificar o histórico do Serviço de Negócio/TI e do Serviço de Apoio/Técnico.
 
 Antes de começar
