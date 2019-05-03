@@ -1,6 +1,6 @@
 title: Register software blacklist
 Description: Provides a variety of actions, such as including, changing, and deleting a Black List of Software.
-#Register software blacklist
+# Register software blacklist
 
 This feature provides a variety of actions, such as including, changing, and
 deleting a Black List of Software, so that the responsible ones are notified
