@@ -1,6 +1,6 @@
 title: Como criar e, em seguida, encerrar um ticket
 Description: Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar a requisição e execução da atividade, é possível configurar para que ocorra a criação e encerramento do ticket ao mesmo tempo.
-#Como criar e, em seguida, encerrar um ticket
+# Como criar e, em seguida, encerrar um ticket
 
 Para atividades que não exigem um SLA, onde o atendente deseja apenas formalizar
 a requisição e execução da atividade, é possível configurar para que ocorra a
