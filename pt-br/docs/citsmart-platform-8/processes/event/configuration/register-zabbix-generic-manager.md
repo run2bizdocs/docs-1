@@ -1,6 +1,6 @@
 title: Cadastrar gerente genérico Zabbix
 Description: Cadastrar e manter os gerentes genéricos que serão responsáveis por monitorar os hosts e/ou triggers da ferramenta de monitoramento Zabbix.
-#Cadastrar gerente genérico Zabbix
+# Cadastrar gerente genérico Zabbix
 
 O objetivo desta funcionalidade é cadastrar e manter os gerentes genéricos que
 serão responsáveis por monitorar os hosts e/ou triggers da ferramenta de
