@@ -1,6 +1,6 @@
 title: Cadastrar prioridade de solicitações de serviço
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir a prioridade de solicitações de serviço.
-#Cadastrar prioridade de solicitações de serviço
+# Cadastrar prioridade de solicitações de serviço
 
 A funcionalidade de prioridade de solicitações de serviço permite definir a
 matriz de prioridade para calcular o tempo de atendimento (SLA) da solicitação
