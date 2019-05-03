@@ -1,6 +1,6 @@
 title: Register problem justification
 Description: It's intended to register problem justifications that will be used in other system routines
-#Register problem justification
+# Register problem justification
 
 This functionality is intended to register problem justifications that will be used in other system routines.
 
