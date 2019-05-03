@@ -1,7 +1,8 @@
 title: Verify processes related to the configuration item
 
 Description: Allows to verify the processes related to the CI
-#Verify processes related to the configuration item
+# Verify processes related to the configuration item
+
 This functionality allows to verify the processes related to the CI, in addition to the general information.
 
 Before getting started
