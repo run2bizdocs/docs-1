@@ -1,6 +1,7 @@
 title: Cadastrar o plano de continuidade
 Description: Esta funcionalidade permite cadastrar o Plano de continuidade. 
-#Cadastrar o plano de continuidade
+# Cadastrar o plano de continuidade
+
 O Registro de Continuidade é um processo que passa por várias fases. A terceira fase deste processo, chamado de Implementação onde será definido o Plano de Continuidade, o Planejamento e a Estratégia de Testes. Esta funcionalidade permite cadastrar o Plano de continuidade.
 
 Antes de começar
