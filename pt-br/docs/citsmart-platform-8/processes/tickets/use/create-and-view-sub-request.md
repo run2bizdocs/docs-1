@@ -1,6 +1,6 @@
 title:  Criar e visualizar sub-solicitação
 Description: É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada. 
-#Criar e visualizar sub-solicitação
+# Criar e visualizar sub-solicitação
 
 A funcionalidade permite cadastrar um ticket com atividades relacionada ao ticket original.
 
