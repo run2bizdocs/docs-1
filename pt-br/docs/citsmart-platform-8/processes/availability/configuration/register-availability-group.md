@@ -1,6 +1,6 @@
 title: Cadastrar grupo de disponibilidade
 Description: Agrupar itens de configuração para gerar índice de disponibilidades. 
-#Cadastrar grupo de disponibilidade
+# Cadastrar grupo de disponibilidade
 
 Esta funcionalidade tem por objetivo agrupar itens de configuração para gerar
 índice de disponibilidades.
