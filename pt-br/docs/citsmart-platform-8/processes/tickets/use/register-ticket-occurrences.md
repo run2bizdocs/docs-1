@@ -1,6 +1,7 @@
 title: Cadastrar ocorrências referentes ao ticket
 Description: Permite registrar eventuais ocorrências referente a execução do ticket. 
-#Cadastrar ocorrências referentes ao ticket
+# Cadastrar ocorrências referentes ao ticket
+
 A funcionalidade permite registrar eventuais ocorrências referente a execução do ticket.
 
 Antes de começar
