@@ -1,6 +1,6 @@
 title: Cadastrar tipo de serviço
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
-#Cadastrar tipo de serviço
+# Cadastrar tipo de serviço
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir os tipos de serviço que serão utilizadas em outras rotinas do sistema.
