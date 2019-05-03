@@ -1,6 +1,6 @@
 title: Register Global manager
 Description: 
-#Register Global manager
+# Register Global manager
 
 This functionality is intended to create rules to monitor several types of
 events.
