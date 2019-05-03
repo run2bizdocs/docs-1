@@ -1,37 +1,37 @@
-title: Criar ticket pelo Twitter
-Description: O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+title: Create ticket via Twitter
+Description: CITSmart, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
 
-# Criar ticket pelo Twitter
-O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+# Create ticket via Twitter
+CITSmart, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
 
-Antes de começar
-----------------
+Before getting started
+----------------------
 
-É necessário ter a funcionalidade de integração com o Twitter configurada na instância CITSmart e ter a funcionalidade de machine learning (ambiente com Python). Além disso, é preciso definir o serviço que atenderá à esta modalidade de atendimento, bem como contratos e permissões em fluxos de trabalho. 
+It is necessary to have the integration functionality with Twitter configured in the CITSmart instance besides of having the machine learning functionality (Python environment). Moreover, it is necessary to define the service that will attend to this type of service, as well as contracts and permissions in workflows. 
 
-Procedimento 
+Procedure 
 -------------
 
-1.  É necessário seguir a página CITSmart no Twitter;
+1.  Follow CITSmart on Twitter;
 
-2.  Clicar no ícone “Mensagem” nesta página;
+2.  Click on "Messages" on Twitter;
 
-3.  Elaborar o ticket com a solicitação desejada;
+3.  Create the ticket with the request you want;
 
-4.  Logo após de criado o ticket, o sistema responderá com um feedback padrão incluindo o número da solicitação;
+4.  After the ticket is created, the system will answer with a standard feedback including the request number;
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "NOTE"
         
-        Criado o ticket pelo Twitter, o executor dele terá acesso a solicitação por meio da funcionalidade “Tickets” 
-        no sistema, seguindo o procedimento regular de execução dos tickets. 
+        Once created the ticket via Twitter, the executor of it will have access to the request through the 
+        functionality "Tickets" in the system, following the regular procedure of tickets execution. 
         
-5.  Encerrado o atendimento do ticket, sua Solução-Resposta será publicada no twitter do usuário, como mensagem direta.
+5.  When closing the ticket attendance, the Solution-Response will be sent to the user's Twitter as a direct message.
 
-!!! Abstract "IMPORTANTE"
+!!! Abstract "IMPORTANT"
 
-    A abertura e atendimento de tickets pelo Twitter só é possível se o sistema seguir um formulário (workflow) 
-    Neuro criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
-    necessitará de um processo de negócio agendado por expressão Cron.  
+    The opening and attendance of tickets via Twitter is only possible if the system follows a Neuro workflow 
+    specifically created in order to meet this type of request. Besides, to execute this flow, it is necessary 
+    a business process scheduled by Cron expression.  
 
 !!! tip "About"
 
