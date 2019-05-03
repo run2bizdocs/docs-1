@@ -1,6 +1,7 @@
 title: Cadastrar atividade de serviço
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as atividades de um serviço (requisição e/ou incidente).
-#Cadastrar atividade de serviço
+# Cadastrar atividade de serviço
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as atividades de um serviço (requisição e/ou incidente).
 
 Antes de começar
