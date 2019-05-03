@@ -1,6 +1,7 @@
 title: Excluir grupo de item de configuração
 Description: Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
-#Excluir grupo de item de configuração
+# Excluir grupo de item de configuração
+
 Somente pode ser excluído o grupo que não item relacionados (grupos e/ou itens de configuração).
 
 Antes de começar
