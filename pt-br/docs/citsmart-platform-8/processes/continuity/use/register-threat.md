@@ -1,6 +1,7 @@
 title: Cadastrar ameaça
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça. 
-#Cadastrar ameaça
+# Cadastrar ameaça
+
 Esta funcionalidade tem por objetivo cadastrar as ameaças que serão usadas durante o registro de Continuidade.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a ameaça.
 
