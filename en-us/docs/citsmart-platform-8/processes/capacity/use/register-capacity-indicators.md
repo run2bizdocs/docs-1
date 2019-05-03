@@ -1,7 +1,7 @@
 title: Register capacity indicators
 
 Description: Provides a variety of actions.
-#Register capacity indicators
+# Register capacity indicators
 
 This feature provides a variety of actions, such as including, changing, and deleting the capacity/performance indicators that will be linked to Services and Configuration Items (CI).
 
