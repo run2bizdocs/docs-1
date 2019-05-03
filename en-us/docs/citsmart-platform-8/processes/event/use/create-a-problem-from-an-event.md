@@ -1,6 +1,7 @@
 title: Create a problem from an event
 Description:Is intended to create a problem in an event.
-#Create a problem from an event
+# Create a problem from an event
+
 This functionality is intended to create a problem in an event.
 
 Before getting started
