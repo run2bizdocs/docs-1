@@ -1,6 +1,7 @@
 title: Agendar atividade de ticket
 Description: Permite agendar atividades a partir do ticket.
-#Agendar atividade de ticket
+# Agendar atividade de ticket
+
 A funcionalidade permite agendar atividades a partir do ticket.
 
 Antes de começar
