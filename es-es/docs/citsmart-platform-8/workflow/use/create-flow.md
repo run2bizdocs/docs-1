@@ -1,6 +1,7 @@
 title: Crear flujo de trabajo
 Description: Es posible crear flujos de trabajo que mejor se adecuan a la realidad del usuario
-#Crear flujo de trabajo
+
+# Crear flujo de trabajo
 
  Es posible crear flujos de trabajo que mejor se adecuan a la realidad del usuario, personalizando los escenarios de cada organización.
 
@@ -16,7 +17,7 @@ Procedimiento
     caracteres especiales); el proceso al que está vinculado (el flujo estará sólo para
     el proceso al que está vinculado) y la opción para permitir la reapertura de un
     un servicio independientemente de la configuración de grupo. También se puede ver
-    qué versión se encuentra el flujo. [Ver más informaciones][1].
+    qué versión se encuentra el flujo.
 
 3.  En la pestaña "Diagrama" se muestra la herramienta para dibujar el flujo insertando los
     elementos que representan el escenario deseado. Para ello, basta hacer clic en el
@@ -57,5 +58,4 @@ Relacionado
     <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html
 [2]:/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html
