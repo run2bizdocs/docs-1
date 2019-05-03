@@ -1,6 +1,6 @@
 title: Cadastrar gerente Nagios
 Description: Cadastrar e manter os gerentes que serão responsáveis por monitorar os itens de configuração e ocorrência de eventos capturadas a partir do Nagios.
-#Cadastrar gerente Nagios
+# Cadastrar gerente Nagios
 
 Nagios é uma ferramenta de monitoramento de rede. Ele pode monitorar tanto hosts
 quanto serviços, alertando quando ocorrerem problemas e também quando os
