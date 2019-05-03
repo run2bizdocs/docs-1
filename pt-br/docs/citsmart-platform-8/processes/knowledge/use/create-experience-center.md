@@ -1,6 +1,7 @@
 title: Criar Centro de experiência
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
-#Criar Centro de experiência
+# Criar Centro de experiência
+
 O objetivo do Centro de Experiência - CE é criar um portal personalizável para o usuário. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slideshows, dentro de outras aplicabilidades, visando garantir uma experiência do usuário mais interativa e intuitiva.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
 
