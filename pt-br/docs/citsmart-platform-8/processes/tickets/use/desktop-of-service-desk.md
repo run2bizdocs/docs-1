@@ -1,6 +1,7 @@
 title: A área de trabalho da Central de Serviços
 Description: A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets. 
-#A área de trabalho da Central de Serviços
+# A área de trabalho da Central de Serviços
+
 A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets e seu histórico de atendimento, tornando a visualização de cada item com suas principais informações mais fácil. Neste espaço também há a possibilidade de inúmeras ações como a edição, a impressão, a suspensão, incluir, alterar e excluir de um item além de diversas outras.
 
 Antes de começar
