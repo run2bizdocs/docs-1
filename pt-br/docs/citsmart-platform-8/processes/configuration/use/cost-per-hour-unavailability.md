@@ -1,6 +1,7 @@
 title: Registrar custo por hora de indisponibilidade
 Description: Tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
-#Registrar custo por hora de indisponibilidade
+# Registrar custo por hora de indisponibilidade
+
 Esta funcionalidade tem por objetivo estabelecer o custo por hora de indisponibilidade de um item de configuração.
 
 Antes de começar
