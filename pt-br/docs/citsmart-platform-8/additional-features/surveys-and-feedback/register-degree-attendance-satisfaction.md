@@ -1,6 +1,6 @@
 title: Cadastrar grau de satisfação do atendimento
 Description: Permitir a configuração do grau de satisfação do atendimento de serviço.
-#Cadastrar grau de satisfação do atendimento
+# Cadastrar grau de satisfação do atendimento
 
 A finalidade desta funcionalidade é permitir a configuração do grau de
 satisfação do atendimento de serviço.
