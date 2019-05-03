@@ -1,6 +1,6 @@
 title: Notificar via email ticket delegado
 Description: Permite implementar a forma de envio de email de um ticket delegado, assim os tickets delegados terão um modelo de email próprio a ser enviado ao técnico.
-#Notificar via email ticket delegado
+# Notificar via email ticket delegado
 
 Este documento permite implementar a forma de envio de email de um ticket
 delegado, assim os tickets delegados terão um modelo de email próprio a ser
