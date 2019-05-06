@@ -59,7 +59,7 @@ Relacionado
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 

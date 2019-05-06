@@ -19,7 +19,7 @@ Antes de começar
 Procedimento
 ------------
 
-*Webservice*
+***Webservice***
 
 1. Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
     Operação Webservice;
@@ -52,7 +52,7 @@ Procedimento
 
 3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
-*Unidade*
+***Unidade***
 
 1.  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
     Gerência de Pessoal \> Unidade;

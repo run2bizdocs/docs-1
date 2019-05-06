@@ -21,21 +21,21 @@ Procedimento
 
 3.  Preencher os campos necessários. Definir o tipo:
 
-       +  SQL: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
+       +  **SQ**: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
           retornam as informações do Banco de dados através de uma Query). Ao
           selecionar esta opção, será necessário informar também o tipo de
           relatório a ser criado, a regra de negócio concernente ao mesmo, o
           designer do relatório, o parâmetro e o script;
 
-       +  RhinoScript: para criar um relatório que retorna as informações do Banco
+       +  **RhinoScript**: para criar um relatório que retorna as informações do Banco
           de dados através de um "Script" é necessário selecionar o tipo
           "RhinoScript". Será preciso eleger o tipo de relatório, definir os
           parâmetros e descrever o script;
 
-       +  JSP: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
+       +  **JSP**: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
           deverá informar os parâmetros e o script "JSP";
 
-       +  Neuro: cria um relatório do tipo "Neuro", basta vincular um formulário
+       +  **Neuro**: cria um relatório do tipo "Neuro", basta vincular um formulário
           "Neuro" previamente cadastrado.
 
     !!! Abstract "NOTA"

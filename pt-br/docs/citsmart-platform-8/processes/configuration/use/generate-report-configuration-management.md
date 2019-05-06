@@ -13,7 +13,7 @@ inválidas e duplicadas das mídias.
 
 2.  Clicar sobre o campo "Mídia" para pesquisar e selecionar a mídia desejada
     para gerar o relatório. Será, então, exibido os campos para filtrar as
-    chaves (licenças) válidas, inválidas e duplicadas;
+    chaves (licenças) válidas, inválidas e duplicadas.
 
 !!! Abstract "ATENÇÃO"
 

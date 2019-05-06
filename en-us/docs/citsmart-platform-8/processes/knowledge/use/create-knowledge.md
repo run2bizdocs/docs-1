@@ -57,36 +57,36 @@ Figure 2 - Options Tab
 
 *Options*:
 
--   Availability Management: the knowledge is or isn't about the Availability
+-   **Availability Management**: the knowledge is or isn't about the Availability
     Management;
 
--   Copyright: the knowledge is or isn't about a copyright;
+-   **Copyright**: the knowledge is or isn't about a copyright;
 
--   Legislation: the knowledge is or isn't about a legislation.
+-   **Legislation**: the knowledge is or isn't about a legislation.
 
 ### Registration Data
 
 In the Registration tab, it's presented several field to be completed, among them:
 
--   Title: give the title of the knowldege;
+-   **Title**: give the title of the knowldege;
 
--   Situation: the situation of the document that will be registered;
+-   **Situation**: the situation of the document that will be registered;
 
--   Privacy: define the knowledge privacy;
+-   **Privacy**: define the knowledge privacy;
 
--   Confidential: only the knowledge author and the manager of the folder will have
+-   **Confidential**: only the knowledge author and the manager of the folder will have
     access to the knowledge;
     
--   Public: everyone will have access to the knowledge, even those who doesn't have
+-   **Public**: everyone will have access to the knowledge, even those who doesn't have
     permission to the folder;
     
--   Internal: only people who have permission in the folder will have access to the
+-   **Internal**: only people who have permission in the folder will have access to the
     knowledge;
     
--   Expiration date: inform the expiration date that the knowledge will obey. When
+-   **Expiration date**: inform the expiration date that the knowledge will obey. When
     it reaches the date set, the document will be automatically be archived.
 
--   Content: describe the knowledge text:
+-   **Content**: describe the knowledge text:
 
     -   To add a hyperlink to the knowledge content in order to access an external link, 
         select a word or phrase and click on "Insert/Edit link" (with the drawing of a chain), 

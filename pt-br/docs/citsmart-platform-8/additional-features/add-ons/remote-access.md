@@ -11,8 +11,8 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 
 Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
-* [x] Ter a Gerência de Configuração implementada;
-* [x] Ter um processo de inventário definido e funcional;
+* [x] Ter a Gerência de Configuração implementada
+* [x] Ter um processo de inventário definido e funcional
 * [x] Ter os dados 
 
 ## Procedimento

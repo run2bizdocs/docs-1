@@ -349,7 +349,7 @@ For further information access the documentation about [Mobile CITSmart Experien
 [5]:/en-us/citsmart-platform-8/processes/change/overview.html
 [6]:/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [7]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[8]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+[8]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
 
 
 !!! tip "About"

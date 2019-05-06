@@ -1,120 +1,121 @@
-Title: Overview
+Title: Visión General
 
-# Overview
+# Visión General
 
-## Apresentação
+## Presentación
 
-Fluxos são representações visuais de algo que se move continuamente. A funcionalidade de Fluxos tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
+Workflows son representaciones visuales de algo que se mueve continuamente. La funcionalidad de Workflow tiene el propósito de modelar sus objetivos de negocio, describiendo los pasos que necesitan ser ejecutados para alcanzar esos objetivos a través de un workflow digital inteligente. Es posible crear workflows para ayudar en la gestión de servicios, problemas, cambios, liberaciones, acciones de continuidad, solicitudes de viajes y compras. Siendo así, el workflow posee interacción con los principales procesos del CITSmart.
 
 ## Funcionalidades
 
-**Padrão:**
+**Estándar:**
 
-- [Desenho de Fluxo][1]
+- [Diseño de Flujo][1]
 
-- [Expressões][2]
+- [Expresiones][2]
 
-- [Modelagem de processo][3]
+- [Modelado de proceso][3]
 
-**Integração Neuro:**
+**Integración Neuro:**
 
-- [Fluxo de integração][4]
+- [Flujo de integración][4]
 
-- [Regra de negócio][5]
+- [Regla de negocio][5]
 
-- Processo de Negócio
+- Proceso de Negocio
 
 !!! info "ALERTA"
-    Estes itens só estarão disponíveis quando a aplicação [Neuro estiver habilitada][7] em sua instância.
+    
+    Estos elementos sólo estarán disponibles cuando la aplicación [Neuro está habilitada][7] en su instancia.
 
-## Interface
+## Interfaz
 
-### Tela inicial
+### Pantalla principal
 
-![tela inicial](images/workflow-1.png)
+![pantalla principal](images/workflow-1.png)
 
-Figura 1 - Tela inicial
+Figura 1 - Pantalla principal
 
 
- - **1**: Novo - clicar para desenhar novo fluxo
+ - **1**: Nuevo - hacer clic para diseñar el workflow
 
- - **2**: Campo de busca - busca um fluxo pelo nome ou parte dele
+ - **2**: Campo de búsqueda - busca workflows por su nombre o por parte del nombre
  
- - **3**: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
+ - **3**: Filtros - al seleccionar el botón "Filtros avanzados", estos campos estarán disponibles para la búsqueda
  
- - **4**: Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
+ - **4**: Editar - hacer clic para editar un workflow ya existente, pudiendo elegir qué versión será editada
  
- - **5**: Exportar - gera documento em formato JSON
+ - **5**: Exportar - generar documento en formato JSON
  
- - **6**: Excluir - clicar para remover um fluxo
+ - **6**: Borrar - hacer clic para borrar un workflow
 
-### Aba Dados do Fluxo
+### Pestaña de Datos del Workflow
 
-Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
+Al hacer clic en "Nuevo" en la pantalla principal, la pantalla de registro de workflow estará disponible en la pestaña inicial de Datos del Workflow.
 
-![tela inicial](images/workflow-2.png)
+![pantalla principal](images/workflow-2.png)
 
-Figura 2 - Dados do fluxo
+Figura 2 - Datos del workflow
 
 
- - **1**: Dados básicos para cadastro de um fluxo
+ - **1**: Datos básicos para registrar un workflow
   
- - **2**: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+ - **2**: Importar: es posible importar un workflow ya existente, en los formatos JSON y XML
 
 
-### Aba Diagrama
+### Pestaña Diagrama
 
-![tela inicial](images/workflow-3.png)
+![pantalla principal](images/workflow-3.png)
 
 Figura 3 - Diagrama
 
-- **1** : Elementos para desenho de fluxo:
+- **1** : Elementos para diseño del workflow:
   
-  **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+  **Eventos**: son los elementos de eventos que se pueden utilizar en el diseño del workflow:
 
-  • Evento Início
+  • Evento Inicio
 
-  • Evento Intermediário de Envio de Link
+  • Evento Intermedio de Envío de Link
 
-  • Evento Intermediário de Captura de Link
+  • Evento Intermedio de Captura de Link
 
-  • Evento Intermediário de Temporizador
+  • Evento Intermedio de Temporizador
 
-  • Boundary - Evento Intermediário de Captura de Erro
+  • Boundary - Evento Intermedio de Captura de Error
 
-  • Evento Intermediário de Captura de Sinal
+  • Evento Intermedio de Captura de Señal
 
-  • Evento de Finalização com Erro
+  • Evento de Finalización con Error
 
-  • Evento de Fim
+  • Evento de Fin
   
-  **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+  **Actividades**: son los elementos de actividades que pueden ser utilizados en el diseño del workflow:
 
-   • Tarefa de Usuário
+   • Tarea de Usuario
 
-   • Tarefa Script
+   • Tarea Script
 
-   • Envio de Mensagem – E-mail
+   • Envío de Mensajes – E-mail
 
-   • Business Rule Task
+   • Tarea de Regla de Negocio
 
-   • Tarefa de Serviço – ESI
+   • Tarea de Servicio – ESI
 
-   • Armazenamento de Dados
+   • Almacenamiento de Datos
 
-   • Subprocesso
+   • Subproceso
    
-   **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
+   **Extensiones**: son las extensiones que se pueden utilizar en el diseño del workflow:
 
-   • Comunicação REST
+   • Comunicación REST
 
-   • Notificação
+   • Notificación
 
-   • Atribuição de Variável
+   • Asignación de Variables
 
-   • Conversação Watson
+   • Conversación Watson
    
-   **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
+   **Gateways**: son los elementos de gateway que se pueden utilizar en el diseño del workflow:
 
    • Gateway Inclusivo
 
@@ -122,66 +123,66 @@ Figura 3 - Diagrama
 
    • Gateway Exclusivo
 
-   • Gateway Complexo
+   • Gateway Complejo
 
-   • Gateway Baseado em Evento
+   • Gateway Basado en Evento
    
-   **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
+   **Swimianes**: son los elementos de swimianes que se pueden utilizar en el diseño del workflow:
 
    • Pool/Participante
 
    • Lane
    
-   **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
+   **Artefacto**: es el elemento de artefacto que se puede utilizar en el diseño del workflow:
 
-   • Anotação de Texto
+   • Anotaciones de Texto
    
 
 
 
- - **2**: Campo de modelagem – espaço para desenho de fluxo de trabalho
+ - **2**: Campo de modelado – espacio para el diseño del workflow
  
- - **3**: Importar - é possível importar um fluxo já existente, nos formatos JSON e XML
+ - **3**: Importar - es posible importar un workflow ya existente, en los formatos JSON y XML
 
- - **4**: Limpar – limpa o desenho de fluxo elaborado
+ - **4**: Limpiar – limpia el diseño del workflow elaborado
 
-### Aba Documentação
+### Pestaña Documentación
 
- - Visualização do desenho gerado na aba Diagrama
+ - Visualización del diseño generado en la pestaña Diagrama
 
- - Descrição dos elementos utilizados no fluxo de trabalho gerado
+ - Descripción de los elementos utilizados en el workflow generado
 
- - Visualização dos documentos vinculados ao fluxo
+ - VVisualización de documentos vinculados al workflow
 
-### Botões
+### Botones
 
-![tela inicial](images/workflow-4.png)
+![pantalla principal](images/workflow-4.png)
 
-Figura 4 - Botões aba Documentação
+Figura 4 - Botones pestaña Documentación
 
- - **1**: Gravar:  
+ - **1**: Guardar:  
  
-     •	Como nova versão: grava o desenho do fluxo como uma nova versão
+     •	Como nueva versión: guarda el diseño del workflow como una nueva versión
 
-     •	Na versão original: grava o desenho do fluxo na versão original, ou seja, a 1.0 – versão em desenho
+     •	En la versión original: guarda el diseño del workflow en la versión original, es decir, la 1.0 - versión en diseño
 
- - **2**: Gerar Documentação: permite a exportação das informações do fluxo no formato PDF
+ - **2**: Generar Documentación: permite la exportación de la información del workflow en formato PDF
 
 
 Uso
 ---
 
-[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
+[Crear workflow](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
-[Modelagem de processo](/pt-br/citsmart-platform-8/workflow/use/modeling.html)
+[Modelado de proceso](/es-es/citsmart-platform-8/workflow/use/modeling.html)
 
-[Configurar atividade de usuário no fluxo](/pt-br/citsmart-platform-8/workflow/use/user-task-configure.html)
+[Configurar actividad de usuario en el workflow](/es-es/citsmart-platform-8/workflow/use/user-task-configure.html)
 
 
-Configuração
+Configuración
 ----------
 
-[Construir expressões](/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html)
+[Construir expresiones](/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html)
 
 !!! tip "About"
 
@@ -189,10 +190,10 @@ Configuração
     <b>Updated:</b>04/12/2019 - Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/workflow/use/create-flow.html
-[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
-[3]:/pt-br/citsmart-platform-8/workflow/use/modeling.html
-[4]:/pt-br/neuro/advanced-options/process-integration-flow.html
-[5]:/pt-br/neuro/advanced-options/business-rules.html
+[1]:/es-es/citsmart-platform-8/workflow/use/create-flow.html
+[2]:/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[3]:/es-es/citsmart-platform-8/workflow/use/modeling.html
+[4]:/es-es/neuro/advanced-options/process-integration-flow.html
+[5]:/es-es/neuro/advanced-options/business-rules.html
 [6]:
-[7]:/pt-br/neuro/enable-neuro.html
+[7]:/es-es/neuro/enable-neuro.html
