@@ -84,7 +84,7 @@ changes by its service level agreement.
 4.  Set the filters as needed and click on “Create”;
 
 5.  It’ll be presented the chart of changes by SLA, according to the
-    filters selected;
+    filters selected.
 
 Generate report of change by risk
 -------------------------------------------------
