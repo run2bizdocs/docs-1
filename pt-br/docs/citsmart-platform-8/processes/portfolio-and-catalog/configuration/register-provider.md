@@ -4,7 +4,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 O fornecedor é uma organização ou uma pessoa física, responsável por prover
 produtos ou serviços a alguém. Ele pode ser do tipo *provedor de
-serviços*,*interno* e/ou *externo*.
+serviços*, *interno* e/ou *externo*.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir um fornecedor.
