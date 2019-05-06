@@ -57,7 +57,7 @@ Procedure
 
     + *Widgets*:
 
-       + choose the type widget that will be in the management panel.
+        + choose the type widget that will be in the management panel.
 
 2.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
