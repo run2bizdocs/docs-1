@@ -29,7 +29,7 @@ Procedimento
 | 317 | ID da atividade das solicitações criadas pelo chat |                   | ID da atividade das solicitações criadas pelo chat |        Não se aplica       |
 | 388 |       ID usuário padrão (Requisição externa)       |                   |       ID usuário padrão (Requisição externa)       |        Não se aplica       |
 | 389 |        ID grupo padrão (Requisição externa)        |                   |        ID grupo padrão (Requisição externa)        |        Não se aplica       |
-| 390 |                ID da unidade padrão                |                   |                ID da unidade padrão                |        Não se aplica       |
+| 390 |                ID da unidade padrão                |                   |               ID  da Unidade que será atribuido ao usuário cadastrado no profile              |        Não se aplica       |
 
 
 
