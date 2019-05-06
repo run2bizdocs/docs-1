@@ -1,6 +1,6 @@
 title: Configure instance to use CITSmart GO application
 Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-#Configure instance to use CITSmart GO application
+# Configure instance to use CITSmart GO application
 
 
 The CITSmart GO application makes possible make attendance in offline mode - in
@@ -63,12 +63,12 @@ Procedure
 *Unit*
 
 1.  Access the functionality through the main menu General Registration \>
-    Personnel Management \> Unit:
+    Personnel Management \> Unit;
 
-2.  Search for the unit in the tab Search Unit and select the choose:
+2.  Search for the unit in the tab Search Unit and select the choose;
 
 3.  In the tab Unit Registration with the unit already chosen, click on "Get
-    Coordinates"
+    Coordinates";
 
 4.  Click on "Save".
 
