@@ -8,9 +8,9 @@ utilizar na gestão de atendimento (Ticket management).
 Relatórios por Ticket/Atendimento
 -------------------------------------
 
-*Este relatório tem por objetivo demostrar em um período de tempo, os tickets
+Este relatório tem por objetivo demostrar em um período de tempo, os tickets
 atendidos e o tempo gasto em cada ticket, bem como auxiliar na identificação de
-expiração de tempo.*
+expiração de tempo.
 
 ### Procedimento
 
@@ -60,9 +60,9 @@ expiração de tempo.*
 Relatório por Técnico e Tempo Gasto
 ---------------------------------------
 
-*Este relatório tem por objetivo identificar o tempo de ociosidade por cada
+Este relatório tem por objetivo identificar o tempo de ociosidade por cada
 técnico, uma vez que apresenta a soma da quantidade de ticket que cada técnico
-executou e a soma dos tempos executados por cada técnico.*
+executou e a soma dos tempos executados por cada técnico.
 
 ### Procedimento
 
