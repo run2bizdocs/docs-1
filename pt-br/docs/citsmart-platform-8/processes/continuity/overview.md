@@ -52,7 +52,7 @@ Uso
 
 - [Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-- [Cadastrar a avaiação de riscos da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
+- [Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
 
 - [Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
 
