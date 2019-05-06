@@ -1,6 +1,6 @@
 title: Generate reports through the charts and reports panel - changes
 Description: Generate many change reports
-#Generate reports through the charts and reports panel - changes
+# Generate reports through the charts and reports panel - changes
 
 The next topic will address how to create charts and reports for changes.
 

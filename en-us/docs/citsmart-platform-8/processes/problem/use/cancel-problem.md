@@ -1,6 +1,7 @@
 title: Cancel problem
 Description: it allows to cancel a problem previously registered.
-#Cancel problem
+# Cancel problem
+
 This functionality allows to cancel a problem previously registered.
 
 Before getting started

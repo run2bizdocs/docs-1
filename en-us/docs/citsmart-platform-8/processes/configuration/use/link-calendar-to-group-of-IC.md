@@ -1,6 +1,7 @@
 title: Link calendar to group of configuration item
 Description: Is intended to link a calendar to the group of configuration item.
-#Link calendar to group of configuration item
+# Link calendar to group of configuration item
+
 This functionality is intended to link a calendar to the group of configuration item.
 
 Before getting started

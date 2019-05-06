@@ -1,6 +1,7 @@
 title: Internal menu of event management
 Description:Is intended to demonstrate the other functionalities and the information in an event registration.
-#Internal menu of event management
+# Internal menu of event management
+
 This functionality is intended to demonstrate the other functionalities and the information in an event registration.
 
 Before getting started

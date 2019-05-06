@@ -1,6 +1,6 @@
 title: Register financial value of CI
 Description: Provides a variety of actions, such as including, changing, and deleting the financial value of CI.
-#Register financial value of CI
+# Register financial value of CI
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the financial value of CI.

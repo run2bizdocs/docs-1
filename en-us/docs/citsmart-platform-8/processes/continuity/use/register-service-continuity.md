@@ -1,7 +1,8 @@
 title: Register service continuity
 Description: Allows to register the continuity of a certain service.
 
-#Register service continuity
+# Register service continuity
+
 The Continuity Management focuses on the recovery of IT services and its components in face of an event of disaster.
 This functionality allows to register the continuity of a certain service.
 

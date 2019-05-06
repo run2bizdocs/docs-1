@@ -1,6 +1,7 @@
 title: Verify configuration item history
 Description:Allows to obtain an audit report of the configuration item.
-#Verify configuration item history
+# Verify configuration item history
+
 This functionality allows to obtain an audit report of the configuration item.
 
 Before getting started

@@ -1,6 +1,7 @@
 title: Register service continuity vital functions
 Description:Allows to register the vital function.
-#Register service continuity vital functions
+# Register service continuity vital functions
+
 The Continuity Registration is a process that pass through several phase. The second phase of this process is the Requirements and Strategy, where it'll be defined the vital functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the vital function.
 The vital function is part of a business process that is critical to the business success.
 

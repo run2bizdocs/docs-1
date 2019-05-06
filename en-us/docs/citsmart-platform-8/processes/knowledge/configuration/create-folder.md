@@ -1,15 +1,15 @@
 title: Create folder 
 Description:  Provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the document registered in the base.
+# Create folder
 
-#Create folder
 This feature provides a variety of actions, such as including, changing, and deleting folders that will be used to store and organize the document registered in the base.
 
-##Before getting started
+## Before getting started
 It's necessary to previously register a profile and a group.
 
-##Procedure
-1.  Access the functionality through the main menu Processes \> Knowledge Management \> Folder;
+## Procedure
 
+1.  Access the functionality through the main menu Processes \> Knowledge Management \> Folder;
 2.  Click on "New";
 3.  Complete all mandatory field;
 4.  In the field **Access Profile**, click on "Add" and select the profile;
@@ -18,10 +18,10 @@ It's necessary to previously register a profile and a group.
 
 !!! Abstract "RULE"
 
-    When defining the access profile of the folders by group and access profile, the one with the highest permissions will prevail           (fields: Permission and Can Publish).
+    When defining the access profile of the folders by group and access profile, the one with the highest permissions will           prevail (fields: Permission and Can Publish).
 
 
-##Related
+## Related
 
 [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)  
 

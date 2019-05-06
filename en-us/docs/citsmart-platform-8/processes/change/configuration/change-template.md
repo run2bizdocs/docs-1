@@ -1,6 +1,6 @@
 title: Register template of change
 Description: It's intended to register a template to facilitate the opening of a new change
-#Register template of change
+# Register template of change
 
 This functionality is intended to register a template to facilitate the opening of similar new changes.
 

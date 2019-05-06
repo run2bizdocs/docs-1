@@ -1,6 +1,6 @@
 title: Register continuity template
 Description: Is intended to register the continuity template, which will be used to customize the test registration screen.
-#Register continuity template
+# Register continuity template
 
 This functionality is intended to register the continuity template, which will be used to customize the test registration screen.
 

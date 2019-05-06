@@ -1,6 +1,6 @@
 title: Problem advanced search
 Description: It allows to search problems that occur according to the filters defined by the user.
-#Problems advanced search
+# Problems advanced search
 
 This functionality is intended to search for problems that occur according to the filters defined by the user.
 

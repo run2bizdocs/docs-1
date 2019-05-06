@@ -1,6 +1,6 @@
 title: Schedule problems activities
 Description: It allows to create and view activities schedule about the problem
-#Schedule problems activities
+# Schedule problems activities
 
 This functionality allows to create and view activities schedule about the problem.
 

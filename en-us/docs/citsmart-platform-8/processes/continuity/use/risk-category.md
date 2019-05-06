@@ -1,6 +1,7 @@
 title: Register risk category
 Description:Is intended to register the risks categories that will be used during the risk registration.
-#Register risk category
+# Register risk category
+
 This functionality is intended to register the risks categories that will be used during the risk registration.
 
 Procedure

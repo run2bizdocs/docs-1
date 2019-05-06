@@ -1,6 +1,7 @@
 title: Register skill/resource
 Description: 
-#Register skill/resource
+# Register skill/resource
+
 This feature provides a variety of actions, such as including, changing, and deleting the capabilities of employees.
 
 Procedure

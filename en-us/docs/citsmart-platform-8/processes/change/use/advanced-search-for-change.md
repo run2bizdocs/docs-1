@@ -1,6 +1,6 @@
 title: Advanced search of closed changes
 Description: It allows to search for closed searches
-#Advanced search of closed changes
+# Advanced search of closed changes
 
 This functionality allows to  search for changes according to the filters set.
 

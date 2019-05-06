@@ -32,7 +32,7 @@ Related
 
 [Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
 
 
 

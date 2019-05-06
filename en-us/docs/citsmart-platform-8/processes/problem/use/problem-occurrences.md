@@ -1,6 +1,6 @@
 title: Register problem occurrences
 Description: It allows to register any occurrences related to the problem
-#Register the occurrences of the problems
+# Register the occurrences of the problems
 
 This functionality allows to register any occurrences related to the problem
 

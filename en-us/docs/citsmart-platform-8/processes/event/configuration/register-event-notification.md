@@ -1,6 +1,6 @@
 title: Register event notification
 Description: Establish which rules will define a notification event.
-#Register event notification
+# Register event notification
 
 This functionality aims to establish which rules will define a notification
 event, that is, perform the notification setting that will be triggered when the

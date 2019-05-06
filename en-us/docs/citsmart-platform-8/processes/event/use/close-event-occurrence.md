@@ -1,6 +1,7 @@
 title: Close event occurrence
 Description:Is intended to close the event occurrence.
-#Close event occurrence
+# Close event occurrence
+
 This functionality is intended to close the event occurrence.
 
 Before getting started

@@ -1,7 +1,8 @@
 title: Invoke continuity
 
 Description: This functionality invokes the service continuity.
-#Invoke continuity
+# Invoke continuity
+
 The Continuity Registration is a process that pass through several phases. The fourth phase is the Continuous Operation, where it'll be defined the continuity Awareness (education and training), Review and continuity audit, the continuity tests and its Invocation. This functionality invokes the service continuity.
 The trigger to have an invocation is the opening of an incident of critical type. The incident have to be approved to be presented in the Invocation screen.
 

@@ -1,7 +1,8 @@
 title: Register continuity test registration
 
 Description: Allows to register the Continuity Test Strategy.
-#Register continuity test registration
+# Register continuity test registration
+
 The Continuity Registration is the process that pass through several phases. The third phase of this process is the Implementation, where it'll be defined the continuity plan, planning and test strategy. This functionality allows to register the Continuity Test Strategy.
 
 Before getting started

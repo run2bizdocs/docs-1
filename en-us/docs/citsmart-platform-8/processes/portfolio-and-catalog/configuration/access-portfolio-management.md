@@ -1,6 +1,6 @@
 title: Define the permission to access Portfolio Management functionalities
 Description: Defines who will have access to the Service Portfolio Management and which type of access is allowed (view, save and/or delete). 
-#Define the permission to access Portfolio Management functionalities
+# Define the permission to access Portfolio Management functionalities
 
 ITIL recommends that an ITSM product should be able to assign specific levels of
 responsibilities to a Portfolio Manager or others, based on this recommendation,

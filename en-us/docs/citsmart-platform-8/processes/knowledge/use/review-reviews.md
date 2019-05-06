@@ -1,6 +1,7 @@
 title:  Review comments in Knowledge Portal
 Description: It allows to edit comments published in the Knowledge Portal before being published. 
-#Review comments in Knowledge Portal
+# Review comments in Knowledge Portal
+
 This document is intended to edit comments published in the Knowledge Portal before being published.
 
 Before getting started

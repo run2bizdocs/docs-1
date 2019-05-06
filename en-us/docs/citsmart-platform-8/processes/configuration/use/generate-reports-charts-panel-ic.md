@@ -1,6 +1,6 @@
 title: Generate reports through the charts and reports panel - configuration items
 Description: This report allows to verify the information on the configuration items.
-#Generate reports through the charts and reports panel - configuration items
+# Generate reports through the charts and reports panel - configuration items
 
 This report allows to verify the information on the configuration items.
 

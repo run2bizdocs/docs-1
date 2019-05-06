@@ -1,6 +1,7 @@
 title: Register type of service
 Description: 
-#Register type of service
+# Register type of service
+
 This feature provides a variety of actions, such as including, changing, and deleting the types of service that will be used in other system routines.
 
 Procedure

@@ -64,7 +64,7 @@ Related
 
 [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Workflow](/en-us/citsmart-platform-8/workflow/overview.html)
 
 [Configure parametrization – email](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
 

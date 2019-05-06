@@ -1,6 +1,7 @@
 title: View event
 Description: Is intended to view the information in the event registration.
-#View event
+# View event
+
 This functionality is intended to view the information in the event registration.
 
 Before getting started

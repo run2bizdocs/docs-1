@@ -1,6 +1,6 @@
 title: Notify responsible for the knowledge expiration
 Description: Configure the e-mail notification to notify the responsible (creator and publisher) about the expiration of knowledge.
-#Notify responsible for the knowledge expiration
+# Notify responsible for the knowledge expiration
 
 This knowledge is intended to configure the e-mail notification to notify the
 responsible (creator and publisher) about the expiration of knowledge.

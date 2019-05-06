@@ -1,6 +1,6 @@
 title: Generate report - configuration management
 Description: Generate reports of configuration management. 
-#Generate report - configuration management
+# Generate report - configuration management
 
 Generate report of configuration item - Office package
 ----------------------------------------------------------

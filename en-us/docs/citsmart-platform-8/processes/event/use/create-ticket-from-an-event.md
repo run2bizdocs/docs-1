@@ -1,6 +1,7 @@
 title: Create ticket from an event
 Description:Is intended to create a service request in an event. 
-#Create ticket from an event
+# Create ticket from an event
+
 This functionality is intended to create a service request in an event.
 
 Before getting started

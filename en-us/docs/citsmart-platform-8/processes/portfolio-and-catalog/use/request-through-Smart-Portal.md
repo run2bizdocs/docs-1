@@ -1,7 +1,8 @@
 title: Manage my requests through Smart Portal
 
 Description: Allows to control the requests opened by the users.
-#Manage my requests through Smart Portal
+# Manage my requests through Smart Portal
+
 This functionality allows to control the requests opened by the users, where they can check the history of occurrence, the description of the task, exchange messages with the executor of the ticket, among other actions.
 
 Before getting started

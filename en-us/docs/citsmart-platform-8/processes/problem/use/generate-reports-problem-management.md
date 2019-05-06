@@ -1,6 +1,6 @@
 title: Generate reports - problem management
 Description:  Generate problems reports
-#Generate reports - problem management
+# Generate reports - problem management
 
 In the following topics, it'll be presented the reports about the problem
 management:

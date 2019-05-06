@@ -1,6 +1,6 @@
 title: Register occurrence category
 Description: Provides a variety of actions, such as including, changing, and deleting the occurrence category
-#Register occurrence category
+# Register occurrence category
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the occurrence category, that is, through it, it is possible to group

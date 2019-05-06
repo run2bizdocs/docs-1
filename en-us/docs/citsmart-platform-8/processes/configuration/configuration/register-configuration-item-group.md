@@ -1,6 +1,6 @@
 title: Register configuration item group
 Description: Provides a variety of actions, such as including, changing, and deleting groups of configuration item.
-#Register configuration item group
+# Register configuration item group
 
 
 This feature provides a variety of actions, such as including, changing, and

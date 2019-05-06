@@ -1,6 +1,6 @@
 title: Cancel change
 Description: It allows to cancel the useless change to the company
-#Cancel change 
+# Cancel change 
 
 This functionality allows to cancel the change that has become useless or obsolete to the organization.
 

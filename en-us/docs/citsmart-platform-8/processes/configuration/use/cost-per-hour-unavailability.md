@@ -1,6 +1,7 @@
 title: Register cost per hour of unavailability
 Description: Is intended to establish the cost per hour of unavailability of a configuration item.
-#Register cost per hour of unavailability
+# Register cost per hour of unavailability
+
 This functionality is intended to establish the cost per hour of unavailability of a configuration item.
 
 Before getting started

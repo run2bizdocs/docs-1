@@ -1,6 +1,6 @@
 title: Generate reports - knowledge management
 Description: Presents the reports in knowledge management.
-#Generate reports - knowledge management
+# Generate reports - knowledge management
 
 
 This document aims to present several types of reports related to the knowledge contained in the knowledge base.
