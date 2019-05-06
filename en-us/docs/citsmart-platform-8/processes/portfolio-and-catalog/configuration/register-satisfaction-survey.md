@@ -48,7 +48,7 @@ Procedure
 
 2.  Click on "New";
 
-3.  Complete all mandatory fields:
+3.  Complete all mandatory fields;
 
 4.  Choose the type of search;
 
