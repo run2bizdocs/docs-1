@@ -40,7 +40,7 @@ It also enables it to register a new knowledge in order to make the portal dynam
  
  - **3**: shows filters to find the knowledge, refining the initial search by selecting one of the options
  
- - **4**: Relation of knowledge found
+ - **4**: relation of knowledge found
  
   
 !!! Abstract "RULE" 
