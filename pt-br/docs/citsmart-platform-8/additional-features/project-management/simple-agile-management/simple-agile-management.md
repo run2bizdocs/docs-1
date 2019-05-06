@@ -18,7 +18,7 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 Procedimento
 ------------
 
-*I - Criar um Workspace*
+***I - Criar um Workspace***
 
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
@@ -40,7 +40,7 @@ Procedimento
     -   Total: soma das **Sprints** que estão dentro do Workspace.
 
 
-*II - Criar uma Sprint*
+***II - Criar uma Sprint***
 
 1.  Clicar no Workspace criado anteriormente;
 
@@ -95,7 +95,7 @@ Figura 1 - Tela Sprint
    -   **5**: ações de configuração e permissão da Sprint
 
 
-*III - Criar listas*
+***III - Criar listas***
 
 1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
     fazer, Em andamento e Concluída”;
@@ -123,7 +123,7 @@ Figura 1 - Tela Sprint
 
     -   **8**: arquivar lista de tarefas
 
-*IV - Criar tarefas*
+***IV - Criar tarefas***
 
    ![tela tarefa](images/figure-3-simple.png)
     
@@ -141,7 +141,7 @@ Figura 1 - Tela Sprint
     Para movimentar uma **tarefa** de uma lista para outra, clicar e arrastar a
     mesma para a lista desejada.
 
-*V - Preencher cartão Simple*
+***V - Preencher cartão Simple***
 
 O cartão Simple contém campos e botões para descrever uma tarefa/ação com
 planejamento e controle de datas, horários, checklist e diversos outros
