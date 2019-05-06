@@ -11,7 +11,7 @@ Para ativá-lo em uma instância do CITSmart Platform, é necessário fazer o do
 1. Baixar o pacote war do componente EVM;  
 2. Descomprimir os arquivos;  
 3. Copiar o pacote para a pasta de implementação do servidor de aplicação Wildfly;  
-4. Configurar [Propriedades do Sistema][2] com dados de acesso do Mongo e a instância do CITSmart Platform;  
+4. Configurar [Propriedades do Sistema][2] com dados de acesso do Mongo e a instância do CITSmart Platform. 
 
 ## O que fazer a seguir  
 
