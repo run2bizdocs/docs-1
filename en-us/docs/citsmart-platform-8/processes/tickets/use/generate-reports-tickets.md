@@ -107,7 +107,7 @@ linked.
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Satisfaction;
 
-2.  Set the filters as needed.
+2.  Set the filters as needed;
 
 3.  Select how to create the report when click on "Generate PDF", "Generate XLS"
     or "Export CSV".
