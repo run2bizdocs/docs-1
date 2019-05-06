@@ -17,7 +17,7 @@ opção “Sim”.
 Procedimento
 ------------
 
-*No CITSmart*:
+***No CITSmart***:
 
 1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
     Portfólio;
@@ -39,7 +39,7 @@ Procedimento
 9.  Clicar em “Gravar”.
 
 
-*No mobile*:
+***No mobile***:
 
 1.  Ao capturar um ticket (usando o mobile), o técnico deve preencher os campos
     disponibilizados e ao colocar o ticket com status de “Resolvido”, o campo
@@ -51,7 +51,7 @@ Procedimento
 
 3.  O ticket não aparecerá mais na listagem do técnico;
 
-4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na *pesquisa avançada* (menu lateral     da tela de listagem de tickets) e ao abrir poderá visualizar assinatura colhida também.
+4.  O atendente/administrador somente verá a solicitação atendida pelo técnico, quando buscar a mesma na *pesquisa avançada* (menu lateral da tela de listagem de tickets) e ao abrir poderá visualizar assinatura colhida também.
 
 Relacionado
 ----------
