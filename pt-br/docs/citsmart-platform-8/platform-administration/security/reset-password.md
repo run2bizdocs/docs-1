@@ -44,9 +44,9 @@ local e apertar “Gravar”.
 
 ## Relacionados
 
-[Criar Modelos de E-mail][1]
+[Criar modelos de e-mail][1]
 
-[Configurar Conta de E-mail][2]
+[Configurar conta de e-mail][2]
 
 !!! tip "About"
 
