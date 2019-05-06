@@ -19,13 +19,13 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Nível de Serviço \> Tempo de Atendimento;
 
-2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente:
+2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente;
 
 3.  Preencher os campos disponibilizados no quadro **Dados Básicos**;
 
     !!! Warning "IMPORTANTE"
     
-        Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência
+        Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência.
 
 4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
     atendimento dos serviços, levando em consideração a prioridade. A prioridade
