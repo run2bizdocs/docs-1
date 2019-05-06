@@ -19,7 +19,7 @@ Procedure
 1.  Access the functionality through the main menu Access and Permission \>
     Incident/Request Management;
 
-2.  Choose the profile access:
+2.  Choose the profile access;
 
 3.  Click on "Edit";
 
