@@ -5,7 +5,7 @@ Description: According to ITIL "Service Management is a set of specialized organ
 Apresentação
 ----------------
 
-Segundo a ITIL, "Gerenciamento de Serviço é um conjunto de competências organizacionais especializadas para prover valor aos clientes na forma de serviços"
+Segundo a ITIL, "Gerenciamento de Serviço é um conjunto de competências organizacionais especializadas para prover valor aos clientes na forma de serviços".
 
 Para realizar a entrega de serviços é necessário a orquestração de alguns processos:
 
