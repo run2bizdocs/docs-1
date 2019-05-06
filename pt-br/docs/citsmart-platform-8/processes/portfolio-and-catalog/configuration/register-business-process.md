@@ -47,7 +47,7 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
