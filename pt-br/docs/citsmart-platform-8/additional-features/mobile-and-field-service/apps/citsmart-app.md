@@ -35,9 +35,9 @@ Procedimento
 
     *	Disponível:
 
-       a.	Habilitado: o sistema permitirá conexão ao servidor e o posicionamento físico do usuário será obtida e registrada;
+           a.	Habilitado: o sistema permitirá conexão ao servidor e o posicionamento físico do usuário será obtida e                           registrada;
 
-       b.	Desabilitado: o sistema não permitirá conexão ao servidor nem registrará a posição física do atendente.
+           b.	Desabilitado: o sistema não permitirá conexão ao servidor nem registrará a posição física do atendente.
 
 5.	Após informar os dados da conexão desejada, clicar no botão "Salvar";
 
