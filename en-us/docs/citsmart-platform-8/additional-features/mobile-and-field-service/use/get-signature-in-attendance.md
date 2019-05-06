@@ -45,9 +45,9 @@ Procedure
 
 2.  Click on "Options" and then on "Save and advance flow";
 
-3.  The ticket will not appear anymore in the technician list.
+3.  The ticket will not appear anymore in the technician list;
 
-4.  The attendant / administrator will only see the request answered by the technician, when searching for the same in the *advanced         search* (side menu of the ticket listing screen) and when you open you can see the signature also collected.
+4.  The attendant / administrator will only see the request answered by the technician, when searching for the same in the *advanced search* (side menu of the ticket listing screen) and when you open you can see the signature also collected.
 
 Related
 ------
