@@ -1,6 +1,6 @@
 title:  Configurar parametrización – conocimiento 
 Description: La parametrización de "Conocimiento" debe ser realizada para permitir la ejecución/uso de este proceso
-#Configurar parametrización – conocimiento
+# Configurar parametrización – conocimiento
 
 El sistema de gestión del conocimientos de servicio incluye herramientas para recopilar, almacenar, administrar, actualizar, analizar y presentar todos los conocimientos, información y datos que un proveedor de servicios de TI necesita para administrar el ciclo de vida completo de los servicios de TI.
 
