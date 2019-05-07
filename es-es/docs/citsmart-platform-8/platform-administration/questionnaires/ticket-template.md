@@ -1,6 +1,7 @@
 title:  Registrar plantilla de ticket 
 Description: Tiene el objetivo de habilitar algunas funcionalidades en la pantalla de solicitud de servicio (ticket).
-#Registrar plantilla de ticket
+# Registrar plantilla de ticket
+
 Esta funcionalidad tiene el objetivo de habilitar algunas funcionalidades en la pantalla de solicitud de servicio (ticket).
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar plantilla de ticket.
 
