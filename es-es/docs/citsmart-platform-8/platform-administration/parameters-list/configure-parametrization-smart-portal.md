@@ -1,6 +1,7 @@
 title: Configurar parametrización - Smart Portal
 Description: La parametrización del "Smart portal" permite activar el intercambio de mensajes entre el solicitante y el responsable de la solicitud
-#Configurar parametrización - Smart Portal
+# Configurar parametrización - Smart Portal
+
 Smart Portal es un recurso de la solución que ofrece el Catálogo de Servicios (Negocio y Apoyo) a los usuarios del sistema y otras informaciones, como: solicitudes de servicios, noticias referentes al sistema y chat. La parametrización del "Smart portal" permite activar el intercambio de mensajes entre el solicitante y el responsable de la solicitud, habilitar la opción de cancelar un ticket por el portal, entre otras acciones viables.
 
 Procedimiento
