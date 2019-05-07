@@ -1,5 +1,5 @@
 Title: Configurar el idioma predeterminado 
-#Configurar el idioma predeterminado
+# Configurar el idioma predeterminado
 
 Esta funcionalidad tiene por objeto configurar el idioma predeterminado del sistema.  
 
