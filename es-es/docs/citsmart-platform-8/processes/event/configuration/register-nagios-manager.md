@@ -1,6 +1,6 @@
 title: Registrar gerente Nagios
 Description: Registrar y mantener a los gerentes que serán responsables de monitorear los elementos de configuración y ocurrencia de eventos capturados desde el Nagios.
-#Registrar gerente Nagios
+# Registrar gerente Nagios
 
 
 Nagios es una herramienta de monitoreo de red. Él puede monitorear tanto hosts
