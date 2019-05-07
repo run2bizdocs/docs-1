@@ -1,6 +1,6 @@
 title: Registrar papel
 Description: Registrar los papeles de los colaboradores relacionados con los proyectos.
-#Registrar papel
+# Registrar papel
 
 
 Esta funcionalidad tiene el objetivo de registrar los papeles de los
