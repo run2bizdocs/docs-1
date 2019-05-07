@@ -1,6 +1,6 @@
 title:Configuration parametrization - mobile
 Description: Configure and customize to adequate the scenario about the mobile application usage.
-#Configuration parametrization - mobile
+# Configuration parametrization - mobile
 
 The "Mobile" parametrization has the purpose of configure and customize to adequate the scenario about the mobile application usage (for example, CITSmart GO).
 
