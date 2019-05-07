@@ -1,6 +1,6 @@
 title: Registrar gerente genérico Zabbix
 Description: Registrar y mantener a los gerentes genéricos que serán responsables de monitorear los hosts y/o triggers de la herramienta de monitoreo Zabbix.
-#Registrar gerente genérico Zabbix
+# Registrar gerente genérico Zabbix
 
 
 El objetivo de esta funcionalidad es registrar y mantener a los gerentes
