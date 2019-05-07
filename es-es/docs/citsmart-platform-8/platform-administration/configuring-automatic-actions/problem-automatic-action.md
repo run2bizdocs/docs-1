@@ -1,6 +1,6 @@
 title:  Registrar acción automatica de problema 
 Description: Tiene como objetivo realizar el registro de acciones automáticas del tipo problema 
-#Registrar acción automatica de problema
+# Registrar acción automatica de problema
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará ser tratada por el proceso de gestión de problemas, es decir, esta funcionalidad tiene como objetivo realizar el registro de acciones automáticas del tipo problema. 
 
