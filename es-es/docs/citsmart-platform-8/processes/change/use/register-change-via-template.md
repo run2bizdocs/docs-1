@@ -1,6 +1,6 @@
 title: Registrar cambio a través de plantilla
 Description: Permite registrar cambios a través de plantilla
-#Registrar cambio a través de plantilla
+# Registrar cambio a través de plantilla
 
 Permite el registro del cambio a través de una plantilla previamente registrada. La idea de la plantilla consiste en agilizar el registro de nuevos cambios al agruparlas en una temática similar.
 
