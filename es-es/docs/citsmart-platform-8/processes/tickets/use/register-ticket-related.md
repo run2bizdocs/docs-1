@@ -1,6 +1,6 @@
 title:  Registrar ticket relacionado 
 Description: Permite registrar un ticket con actividades relacionadas al ticket original.
-#Registrar ticket relacionado
+# Registrar ticket relacionado
 
 En el ticket relacionado sólo es posible crear una sub-solicitud a través de la solicitud original y visualizarla después de la creación.
 
