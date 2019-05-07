@@ -1,6 +1,7 @@
 title: Register group
 Description: This functionality registers the groups and links with users, profile, contracts and notification e-mails.
-#Register group
+# Register group
+
 A group is a set of one or more employees with the same related objectives and its functions.
 The two most common usages for the groups created are:
 
