@@ -1,6 +1,7 @@
 title:  Registrar análisis de impacto al negocio de la continuidad 
 Description: Funcionalidad permite registrar el análisis de impacto del negocio. 
-#Registrar análisis de impacto al negocio de la continuidad
+# Registrar análisis de impacto al negocio de la continuidad
+
 El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar el análisis de impacto del negocio.
 
 Antes de empezar
