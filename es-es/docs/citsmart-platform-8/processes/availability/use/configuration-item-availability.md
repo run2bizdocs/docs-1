@@ -1,6 +1,6 @@
 title: Comprobar disponibilidad del elemento de configuración
 Description: Tiene por objetivo comprobar la disponibilidad de ECs.
-#Comprobar disponibilidad del elemento de configuración
+# Comprobar disponibilidad del elemento de configuración
  
 Esta funcionalidad tiene por objetivo comprobar la disponibilidad de ECs.
 
