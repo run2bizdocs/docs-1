@@ -1,6 +1,7 @@
 title: Register periodic activity
 Description: Allows to register and verify periodic activities about the contract.
-#Register periodic activity
+# Register periodic activity
+
 This functionality allows to register and verify periodic activities about the contract.
 
 Before getting started
