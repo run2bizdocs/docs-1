@@ -1,6 +1,6 @@
 title: Refinar búsquedas en el Portal del Conocimiento
 Description: Orientar y sugerir las mejores maneras de realizar búsquedas dentro del Portal del Conocimiento y en la Guía del Usuario.
-#Refinar búsquedas en el Portal del Conocimiento
+# Refinar búsquedas en el Portal del Conocimiento
 
 
 Este conocimiento tiene por objetivo orientar y sugerir las mejores maneras de
