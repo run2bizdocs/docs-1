@@ -1,6 +1,6 @@
 title: Búsqueda avanzada de cambios cerrados
 Description: Permit buscar cambios cerrados
-#Búsqueda avanzada de cambios cerrados
+# Búsqueda avanzada de cambios cerrados
 
 Esta funcionalidad permite buscar cambios de acuerdo con los filtros definidos.  
 
