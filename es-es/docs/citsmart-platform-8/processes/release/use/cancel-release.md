@@ -1,6 +1,7 @@
 title:  Cancelar el registro de liberación 
 Description: Permite cancelar la liberación.
-#Cancelar el registro de liberación
+# Cancelar el registro de liberación
+
 Esta funcionalidad permite cancelar la liberación.
 
 Antes de empezar
