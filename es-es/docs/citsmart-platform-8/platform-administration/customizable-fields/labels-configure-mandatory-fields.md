@@ -1,6 +1,7 @@
 title: Configurar campos obligatorios
 Description: El administrador es responsable de elegir qué campos serán obligatorios para que los usuarios completen.
-#Configurar campos obligatorios
+# Configurar campos obligatorios
+
 Al configurar los campos obligatorios, el administrador elegirá qué campos serán obligatorios para que los usuarios completen al comunicarse con los asistentes. Su propósito es obtener la información necesaria de los solicitantes para resolver la solicitud.
 
 Procedimiento
