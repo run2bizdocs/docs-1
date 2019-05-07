@@ -1,6 +1,6 @@
 title: Configure email template
 Description: Intended to create email templates for system notifications.
-#Configure email template
+# Configure email template
 
 This functionality is intended to create email templates for system
 notifications.
