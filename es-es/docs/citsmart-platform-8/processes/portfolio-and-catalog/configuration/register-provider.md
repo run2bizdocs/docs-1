@@ -1,6 +1,6 @@
 title: Registrar proveedor
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un proveedor.
-#Registrar proveedor
+# Registrar proveedor
 
 El proveedor es una organización o una persona física, responsable de proveer
 productos o servicios a alguien. Puede ser del tipo *proveedor de
