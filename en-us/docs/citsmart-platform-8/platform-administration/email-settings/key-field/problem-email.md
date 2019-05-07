@@ -1,6 +1,6 @@
 title: Problem e-mail key fields
 Description: intended to provide a list of the key fields available for the problem-related e-mail template registration.
-#Problem e-mail key fields
+# Problem e-mail key fields
 
 This document is intended to provide a list of the key fields available for the
 problem-related e-mail template registration.
