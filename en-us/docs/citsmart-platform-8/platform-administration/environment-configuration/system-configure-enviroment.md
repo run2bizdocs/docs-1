@@ -1,6 +1,6 @@
 title: Configure environment
 Description: Intended to facilitate an intervention (correction) in the environment (server) and to change the logos of the system.
-#Configure environment
+# Configure environment
 
 The Environment Configuration functionality is intended to facilitate an
 intervention (correction) in the environment (server) and to change the logos of
