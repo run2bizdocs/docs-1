@@ -2,7 +2,7 @@ title: Neuro Overview
 
 description: connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. NEURO is also CODELESS!
 
-#NEURO 
+# NEURO 
 
 ##Overview 
 
