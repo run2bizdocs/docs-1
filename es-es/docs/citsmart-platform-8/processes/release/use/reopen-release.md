@@ -1,6 +1,7 @@
 title: Reabrir un registro de liberación
 Description: Permite reabrir la liberación de cambios.
-#Reabrir un registro de liberación
+# Reabrir un registro de liberación
+
 Esta funcionalidad permite reabrir la liberación de cambios.
 
 Antes de empezar
