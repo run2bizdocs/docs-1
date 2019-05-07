@@ -1,6 +1,6 @@
 title: Registrar categoría de imagen
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las categorías de imágenes para organizarlas dentro de la galería que el sistema administra y utiliza.
-#Registrar categoría de imagen
+# Registrar categoría de imagen
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
