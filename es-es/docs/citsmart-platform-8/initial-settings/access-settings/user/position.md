@@ -1,6 +1,6 @@
 title: Registrar cargo
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar los cargos de la organización.
-#Registrar cargo
+# Registrar cargo
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
