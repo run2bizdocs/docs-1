@@ -1,6 +1,7 @@
 title: Run script
 Description: The purpose is to maintain the scripts registration to its execution in the system.
-#Run script
+# Run script
+
 The purpose is to maintain the scripts registration to its execution in the system.
 
 Procedure
