@@ -1,6 +1,6 @@
 title: Get signature in field service
 Description: This document aims to explain the configuration of CITSmart mobile to receive digital signature in field service.
-#Get signature in field service
+# Get signature in field service
 
 This document aims to explain the configuration of CITSmart mobile (Experience and GO) so that the
 technician receives the digital signature of a validator in field service.
