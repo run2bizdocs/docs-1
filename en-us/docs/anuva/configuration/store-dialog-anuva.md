@@ -15,7 +15,7 @@ Attribute types define the format of the information that can be saved in it. An
 
  - Categorical slot: used to store a value from a predefined list;
 
- - Float slot: where we can add numerical values with minimum and maximum limits;
+ - Float slot: where we can add numerical values with minimum and maximum limits.
 
 
 !!! Abstract "NOTE"
