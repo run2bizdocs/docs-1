@@ -1,6 +1,7 @@
 title:  Registrar amenaza 
 Description: Tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad. 
-#Registrar amenaza
+# Registrar amenaza
+
 Esta funcionalidad tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad.
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar la amenaza.
 
