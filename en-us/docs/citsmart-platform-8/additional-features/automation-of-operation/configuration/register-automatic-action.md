@@ -1,6 +1,6 @@
 title: Register automatic action
 Description: Provides a variety of actions, such as including, changing, and deleting automatic actions.
-#Register automatic action
+# Register automatic action
 
 The automatic actions are associated in the event manager registration. These
 actions will be related according to the type of event you want and triggered
