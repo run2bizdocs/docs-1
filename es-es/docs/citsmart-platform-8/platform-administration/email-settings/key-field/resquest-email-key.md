@@ -1,6 +1,7 @@
 title: Campos clave de los correos electrónicos de solicitud
 Description: Tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro del modelo de correo electrónico de la Solicitud de servicio.
-#Campos clave de los correos electrónicos de solicitud
+# Campos clave de los correos electrónicos de solicitud
+
 Este documento tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro del modelo de correo electrónico de la Solicitud de servicio.
 
 Relación de los Campos Clave
