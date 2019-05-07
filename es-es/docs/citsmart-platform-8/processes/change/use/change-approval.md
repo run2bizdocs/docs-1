@@ -1,6 +1,6 @@
 title: Aprobar cambio
 Description: Permite al Comité Asesor de Cambios aprobar o rechazar los cambios
-#Aprobar cambio
+# Aprobar cambio
 
 Esta funcionalidad permite al Comité Asesor de Cambios aprobar o rechazar el cambio.
 
