@@ -1,6 +1,6 @@
 title:  Campos claves de los correos electrónicos de la base de conocimiento 
 Description: 
-#Campos claves de los correos electrónicos de la base de conocimiento
+# Campos claves de los correos electrónicos de la base de conocimiento
 
 Este documento tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro de modelo de correo electrónico relacionado a la base de conocimiento.
 
