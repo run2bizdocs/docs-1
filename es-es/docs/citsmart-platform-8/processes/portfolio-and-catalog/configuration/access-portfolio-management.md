@@ -1,6 +1,6 @@
 title: Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
 Description: Permite definir quién tendrá acceso a las funcionalidades de la Gestión de Portafolio de Servicios y qué tipo de acceso está permitido (ver, guardar y/o borrar).
-#Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
+# Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
 
 
 ITIL recomienda que un producto ITSM sea capaz de asignar niveles de
