@@ -1,6 +1,7 @@
 title: Comprobar la auditoría de servicios
 Description: Permite comprobar el historial del servicio para su auditoría 
-#Comprobar la auditoría de servicios
+# Comprobar la auditoría de servicios
+
 Permite comprobar el historial del servicio para su auditoría. Las orientaciones descritas en este conocimiento podrán ser seguidas para verificar el historial del Servicio de Negocio/TI y del Servicio de Apoyo/Técnico.
 
 Antes de empezar
