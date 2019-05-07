@@ -1,6 +1,6 @@
 title: Programar actividades de problemas
 Description: Permite crear y ver la programación de actividades del problema
-#Programar actividades de problemas
+# Programar actividades de problemas
 
 Esta funcionalidad permite crear y ver la programación de actividades del problema.
 
