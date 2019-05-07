@@ -1,6 +1,6 @@
 title: Construir e manter relatórios Smart - V. 8.0
 Description: Tem o objetivo de prover a facilidade de elaboração de relatórios personalizados com os dados das funcionalidades requeridas, sem necessidade de novas atualizações ou softwares adicionais.
-#Construir e manter relatórios Smart - V. 8.0
+# Construir e manter relatórios Smart - V. 8.0
 
 Esta funcionalidade tem o objetivo de prover a facilidade de elaboração de
 relatórios personalizados com os dados das funcionalidades requeridas, sem
@@ -62,7 +62,7 @@ Procedimento
 5.  Clicar no botão "Gravar";
 
 6.  Existe a possibilidade também de importar um "Relatório". Para tanto, clicar
-    no botão "Importar" e vincular o arquivo contendo as informações desejadas;
+    no botão "Importar" e vincular o arquivo contendo as informações desejadas.
 
 
     !!! Abstract "ATENÇÃO"
