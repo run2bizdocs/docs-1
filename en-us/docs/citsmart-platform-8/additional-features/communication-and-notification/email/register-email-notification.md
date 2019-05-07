@@ -1,6 +1,6 @@
 title: Register email notification
 Description: Intended to send messages via email to notify users about events that will happen in the system.
-#Register email notification
+# Register email notification
 
 The Email Notification functionality is intended to send messages via email to
 notify users about events that will happen in the system.
