@@ -1,6 +1,7 @@
 title: Definir política de la continuidad del servicio
 Description: Permite definir la política
-#Definir política de la continuidad del servicio
+# Definir política de la continuidad del servicio
+
 El Registro de Continuidad es un proceso que pasa por varias fases. La primera fase de este proceso, Iniciación, es donde se definirá la política, el alcance y el proyecto de esta Continuidad del Servicio de TI. Esta funcionalidad permite definir la política.
 La política debe definirse y comunicarse lo antes posible, para que todos los miembros de la organización involucrados o afectados por la continuidad de negocio, sean conscientes sobre sus responsabilidades para soportar la Gestión de Continuidad del Servicio de TI, de acuerdo con los objetivos de la política.
 
