@@ -1,6 +1,7 @@
 title: Register questionnaire category
 Description: Provides a variety of actions, such as including, changing, and deleting questionnaire categories that will be used to filter and organize the register in the base.
-#Register questionnaire category
+# Register questionnaire category
+
 This feature provides a variety of actions, such as including, changing, and deleting questionnaire categories that will be used to filter and organize the register in the base.
 
 Procedure
