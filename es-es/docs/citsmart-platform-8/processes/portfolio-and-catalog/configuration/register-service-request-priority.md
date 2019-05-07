@@ -1,6 +1,6 @@
 title: Registrar prioridad de la solicitud de servicio
 Description: Permite definir la matriz de prioridad para calcular el tiempo de atención (SLA) de la solicitud de servicio dinámicamente.
-#Registrar prioridad de la solicitud de servicio
+# Registrar prioridad de la solicitud de servicio
 
 
 La función de prioridad de las solicitudes de servicio, permite definir la
