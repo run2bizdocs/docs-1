@@ -1,6 +1,7 @@
 title: Análisis de tendencias de solicitudes de servicio
 Description: Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes. 
-#Análisis de tendencias de solicitudes de servicio
+# Análisis de tendencias de solicitudes de servicio
+
 Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes, basado en la cantidad crítica, para identificar qué elementos influencian en el lanzamiento de una nueva solicitud.
 
 Antes de empezar
