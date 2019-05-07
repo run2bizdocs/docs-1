@@ -10,11 +10,16 @@ Anuva uses artificial intelligence to conduct dialogues with increasingly improv
 ## Anuva Operation
 
 Anuva uses 5 main concepts in its operation:
-Build: through its interface, it is possible to create conversation flow examples (dialogues) so it can learn how to react to user interactions;
-Train: after creating the dialogue examples, it is possible to train the Anuva so it will consider the examples given in their interactions. Unlike most solutions, Anuva uses artificial intelligence to understand what the user meant, so it is not necessary for the user to type exactly the same sentence that was given as an example.
-Code: It is possible to connect Anuva with external APIs, allowing data access necessary to deliver value to the user ;
-Connect: It is possible to integrate Anuva to different messaging platforms, natively, it can already be integrated with Facebook and CITSmart.
-Monitor: Once it is made available to the user, it is possible to follow the conversations made by Anuva, in order to improve the training information and gain insight into new dialogues to be taught to Anuva. 
+
+* Build: through its interface, it is possible to create conversation flow examples (dialogues) so it can learn how to react to user interactions;
+
+* Train: after creating the dialogue examples, it is possible to train the Anuva so it will consider the examples given in their interactions. Unlike most solutions, Anuva uses artificial intelligence to understand what the user meant, so it is not necessary for the user to type exactly the same sentence that was given as an example;
+
+* Code: It is possible to connect Anuva with external APIs, allowing data access necessary to deliver value to the user;
+
+* Connect: It is possible to integrate Anuva to different messaging platforms, natively, it can already be integrated with Facebook and CITSmart;
+
+* Monitor: Once it is made available to the user, it is possible to follow the conversations made by Anuva, in order to improve the training information and gain insight into new dialogues to be taught to Anuva. 
 
 ## Accessing Anuva
 
