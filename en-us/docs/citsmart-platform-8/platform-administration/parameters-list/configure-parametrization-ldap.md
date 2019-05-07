@@ -1,6 +1,6 @@
 title: Configure parametrization - LDAP
 Description: this configuration of parameters linked to LDAP integration occurs implicitly using the LDAP Configuration feature or explicitly using the CITSmart Params feature.
-#Configure parametrization - LDAP
+# Configure parametrization - LDAP
 
 Unlike other product parameters, this configuration of parameters linked to LDAP
 integration occurs implicitly using the LDAP Configuration feature or explicitly
