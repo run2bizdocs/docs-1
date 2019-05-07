@@ -1,6 +1,6 @@
 title: Import the service portfolio
 Description: The purpose is to import the service portfolio.
-#Import the service portfolio
+# Import the service portfolio
 
 The purpose of this functionality is to import the service portfolio. The import
 data can be viewed in the Service Portfolio.
