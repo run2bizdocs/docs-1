@@ -1,6 +1,6 @@
 title: Configure Smart Decision template
 Description: Intended to determine the presentation layout of the Smart Decision that is presented in the CISTmart home.
-#Configure Smart Decision template
+# Configure Smart Decision template
 
 This functionality is intended to determine the presentation layout of the Smart
 Decision that is presented in the CISTmart home. It allows to put quick access
