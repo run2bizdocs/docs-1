@@ -1,6 +1,7 @@
 title:  Crear un cambio desde un evento
 Description: Tiene por objetivo la creación de un cambio en el evento.
-#Crear un cambio desde un evento
+# Crear un cambio desde un evento
+
 Esta funcionalidad tiene por objetivo la creación de un cambio en el evento.
 
 Antes de empezar
