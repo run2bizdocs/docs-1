@@ -1,6 +1,7 @@
 title: Hacer análisis de impacto del elemento de configuración
 Description: Permite hacer el análisis de impacto de un elemento de configuración. 
-#Hacer análisis de impacto del elemento de configuración
+# Hacer análisis de impacto del elemento de configuración
+
 Esta funcionalidad permite hacer el análisis de impacto de un elemento de configuración.
 
 Antes de empezar
