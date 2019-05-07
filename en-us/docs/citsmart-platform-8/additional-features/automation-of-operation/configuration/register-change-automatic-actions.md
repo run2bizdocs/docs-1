@@ -1,6 +1,6 @@
 title: Register change automatic actions
 Description: This registration will be associated with the automatic actions, where it will be used in the CITSmart Nagios, Zabbix, Inventory and Correlated Events event managers' registers.
-#Register change automatic actions
+# Register change automatic actions
 
 Some events will present a situation where the appropriate action will need to
 be addressed by the change management process, that is, this functionality is
