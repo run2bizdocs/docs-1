@@ -1,6 +1,7 @@
 title: Registrar notificación
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar mensajes de alerta.
-#Registrar notificación
+# Registrar notificación
+
 La funcionalidad de Notificación tiene por objeto crear mensajes de alerta para
 notificar a los usuarios sobre la información a cerca de la organización.
 Las notificaciones registradas se mostrarán durante el período establecido en
@@ -22,7 +23,7 @@ Procedimiento
 
 4.  Para saber si el usuario ha recibido/leído la notificación,
     activar la clave "Requiere confirmación". Así el usuario al recibir la
-    notificación, se la visualizará con un signo de exclamación (!). Para ver la relación de los lectores de esa notificación, haga clic     en "Ver los usuarios que han confirmado/visto";
+    notificación, se la visualizará con un signo de exclamación (!). Para ver la relación de los lectores de esa notificación,       haga clic en "Ver los usuarios que han confirmado/visto";
     
 5.  Para crear notificación por correo electrónico, activar la clave "Notificar
     por correo electrónico".
