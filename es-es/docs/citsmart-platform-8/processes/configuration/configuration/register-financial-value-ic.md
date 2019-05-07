@@ -1,6 +1,6 @@
 title: Registrar valor financiero del EC
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar el valor financiero del EC.
-#Registrar valor financiero del EC
+# Registrar valor financiero del EC
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
