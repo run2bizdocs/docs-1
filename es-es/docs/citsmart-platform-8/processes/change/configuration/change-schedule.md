@@ -1,6 +1,6 @@
 title: Calendario de cambios
 Description: Permite administrar los períodos en que la organización pasa por un cambio
-#Calendario de cambios
+# Calendario de cambios
 
 Esta funcionalidad permite administrar los períodos en que la organización pasa por un momento de mantenimiento o blackout y así ayudar en la planificación de un cambio.
 
