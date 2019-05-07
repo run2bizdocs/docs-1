@@ -1,6 +1,6 @@
 title: Registrar actividad periódica
 Description: Registrar y verificar las actividades periódicas relacionadas con los contratos.
-#Registrar actividad periódica
+# Registrar actividad periódica
 
 
 Esta funcionalidad permite registrar y verificar las actividades periódicas
