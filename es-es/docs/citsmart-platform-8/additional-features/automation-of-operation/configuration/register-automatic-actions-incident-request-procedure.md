@@ -1,6 +1,6 @@
 title: Registrar acciones automaticas de incidentes/solicitudes/procedimientos
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar registro de acciones automáticas del tipo incidente/solicitud/procedimiento.
-#Registrar acciones automaticas de incidentes/solicitudes/procedimientos
+# Registrar acciones automaticas de incidentes/solicitudes/procedimientos
 
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará
