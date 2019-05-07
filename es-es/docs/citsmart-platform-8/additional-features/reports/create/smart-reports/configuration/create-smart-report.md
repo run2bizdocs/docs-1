@@ -1,6 +1,6 @@
 title: Emitir informe utilizando Smart Report
 Description: Permite emitir los informes personalizados, creados a partir de la funcionalidad "Generador de informes Smart".
-#Emitir informe utilizando Smart Report
+# Emitir informe utilizando Smart Report
 
 
 Esta funcionalidad permite emitir los informes personalizados, creados a partir
