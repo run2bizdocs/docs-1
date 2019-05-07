@@ -1,6 +1,7 @@
 title:  Capturar ticket 
 Description: Capturar el ticket significa asumir la responsabilidad de producir una solución satisfactoria para el llamado.
-#Capturar ticket
+# Capturar ticket
+
 Capturar el ticket significa asumir la responsabilidad de producir una solución satisfactoria para el llamado.
 
 Antes de empezar
