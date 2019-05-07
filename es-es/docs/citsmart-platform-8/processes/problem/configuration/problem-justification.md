@@ -1,6 +1,6 @@
 title: Registrar justificación del problema
 Description: Tiene por objetivo registrar las justificaciones de los problemas que serán utilizadas en otras rutinas del sistema
-#Registrar justificación del problema
+# Registrar justificación del problema
 
 Esta funcionalidad tiene por objetivo registrar las justificaciones de los problemas que serán utilizadas en otras rutinas del sistema.
 
