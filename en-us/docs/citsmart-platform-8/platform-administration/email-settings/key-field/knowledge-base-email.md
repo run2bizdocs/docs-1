@@ -1,6 +1,6 @@
 title: Knowledge base e-mail key fields
 Description: Intended to provide the list of key fields available for the knowledge base-related e-mail template.
-#Knowledge base e-mail key fields
+# Knowledge base e-mail key fields
 
 This document is intended to provide the list of key fields available for the
 knowledge base-related e-mail template.
