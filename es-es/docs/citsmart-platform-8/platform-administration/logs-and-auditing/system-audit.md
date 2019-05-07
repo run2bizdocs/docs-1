@@ -1,6 +1,6 @@
 title:  Auditoría del sistema
 Description: Permite gestionar los eventuales riesgos al sistema
-#Auditoría del sistema
+# Auditoría del sistema
 
 Esta funcionalidad permite administrar los posibles riesgos al sistema, al auditar todas las ejecuciones hechas en forma de logs.
 
@@ -49,7 +49,7 @@ de la funcionalidad.
         La elección de la frecuencia debe ser a partir de 1 (un) día para la ejecución del backup.
  
 
-4.  Se dispone de la posibilidad de determinar un período específico (fecha de inicio y fin) para la generación de los logs de auditoría     del sistema.
+4.  Se dispone de la posibilidad de determinar un período específico (fecha de inicio y fin) para la generación de los logs de auditoría del sistema.
 
     !!! note "IMPORTANTE"
 
@@ -63,7 +63,7 @@ hechas en el sistema.*
 
 1.  Acceder al menú principal Sistema \> Camino de auditoría \> Auditoría de datos;
 
-2.  Se presentarán los logs de auditoría de todo el movimiento hecho en el programa, mostrando la fecha y hora de las actualizaciones,      dirección IP, nombre del ejecutor de la actualización, nombre de la tabla, tipo de operación efectuada en el sistema. Al hacer clic      en el botón datos se mostrará lo que de hecho fue actualizado en el programa.
+2.  Se presentarán los logs de auditoría de todo el movimiento hecho en el programa, mostrando la fecha y hora de las actualizaciones, dirección IP, nombre del ejecutor de la actualización, nombre de la tabla, tipo de operación efectuada en el sistema. Al hacer clic en el botón datos se mostrará lo que de hecho fue actualizado en el programa.
 
     !!! Abstract "ATENCIÓN"
 
@@ -90,7 +90,7 @@ hechas en el sistema.*
 
     !!! Abstract "NOTA"  
         
-        Si el sistema expirar, no será posible capturar el cierre de sesión del sistema, quedando registrado, por lo tanto, sólo la             información de entrada de la sesión de acceso.  
+        Si el sistema expirar, no será posible capturar el cierre de sesión del sistema, quedando registrado, por lo tanto, sólo         la información de entrada de la sesión de acceso.  
 
 3.  Existen filtros para ayudar la búsqueda de un determinado acceso.
 
