@@ -1,6 +1,6 @@
 Title: Type of data
 Description:The data type register has the functionality of linking an abstract type of data to a form component.  
-#Type of data  
+# Type of data  
 
 The data type register has the functionality of linking an abstract type of data to a form component.  
 This field is selected when you create a new attribute for a business object. More information can be found in the technical documentation.  
