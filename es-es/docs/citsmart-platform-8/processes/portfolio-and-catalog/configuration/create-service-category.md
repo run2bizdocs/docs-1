@@ -1,6 +1,6 @@
 title: Crear categoría de servicio
 Description: Ofrece diversas acciones, tales como, incluir, cambiar y borrar las categorías de servicio para posicionar los servicios de negocioi, apoyo, solicitud, incidente y procedimiento, en los grupos similares de actuación.
-#Crear categoría de servicio
+# Crear categoría de servicio
 
 
 Esta funcionalidad ofrece diversas acciones, tales como, incluir, cambiar y
