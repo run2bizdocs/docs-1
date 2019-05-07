@@ -1,6 +1,6 @@
 title: Define smart decision access permission
 Description: Is intended to allow the Smart Decision access permission to set who will have access to the widgets to insert in the dashboard.
-#Define smart decision access permission
+# Define smart decision access permission
 
 This functionality is intended to allow the Smart Decision access permission to
 set who will have access to the widgets to insert in the dashboard, which will
