@@ -1,6 +1,6 @@
 title: Registrar noticias
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las noticias que se publicarán en el Smart Portal.
-#Registrar noticias
+# Registrar noticias
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
