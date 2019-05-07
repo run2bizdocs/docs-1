@@ -1,6 +1,7 @@
 title: Register a contract
 Description: This feature provides a variety of actions, such as including, changing, and deleting a contract. 
-#Register a contract
+# Register a contract
+
 The contract is an agreement between two parties, which undertake to comply with what was agreed between them, under certain conditions. The contract may be of type contract (contract between the provider of type service provider and external customer), operational level agreement(internal agreement between departments of the same organization, internal provider with internal client) or underpinning contract (contract between external provider and internal client).
 This feature provides a variety of actions, such as including, changing, and deleting a contract.
 
