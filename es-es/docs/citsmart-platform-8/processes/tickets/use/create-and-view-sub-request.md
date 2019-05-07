@@ -1,6 +1,7 @@
 title:  Crear y ver sub-solicitudes 
 Description: Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
-#Crear y ver sub-solicitudes
+# Crear y ver sub-solicitudes
+
 La funcionalidad permite registrar un ticket con actividades relacionadas al ticket original.
 
 Antes de empezar
