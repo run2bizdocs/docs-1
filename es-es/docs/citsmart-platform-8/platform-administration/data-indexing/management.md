@@ -1,6 +1,6 @@
 title:  Indexar conocimientos 
 Description: Al publicar nuevos conocimientos, no es necesario quitar la indexación actual e indizar de nuevo, el procedimiento es automático.
-#Indexar conocimientos
+# Indexar conocimientos
 
 La funcionalidad de Indexación de Conocimientos tiene por objetivo crear índices, es decir, conocer el contenido de los conocimientos publicados en la base de conocimiento, identificando términos que representen su asunto, para referenciarlos y garantizar un retorno preciso del conocimiento, cuando se lo busca.
 
