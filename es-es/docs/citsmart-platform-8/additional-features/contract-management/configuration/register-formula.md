@@ -1,6 +1,6 @@
 title: Registrar fórmula
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar fórmulas.
-#Registrar fórmula
+# Registrar fórmula
 
 Esta funcionalidad tiene por finalidad elaborar la fórmula que se utilizará en
 el registro de un contrato. Para crear la fórmula, el usuario deberá entender de
