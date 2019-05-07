@@ -1,6 +1,7 @@
 title: Register subscription
 Description: This feature provides a variety of actions, such as including, changing, and deleting the signature.
-#Register subscription
+# Register subscription
+
 This functionality is intended to register subscription fields to be associated with a subscription group, in order to customize the subscriptions present in the Work Orders report. These Work Order reports are used to register, prove, and charge for services rendered to the client.
 This feature provides a variety of actions, such as including, changing, and deleting the signature.
 
