@@ -1,6 +1,7 @@
 title:  Registrar categoría de riesgo 
 Description: Tiene por objetivo registrar las categorías de riesgos que serán usadas durante el registro del riesgo.
-#Registrar categoría de riesgo
+# Registrar categoría de riesgo
+
 Esta funcionalidad tiene por objetivo registrar las categorías de riesgos que serán usadas durante el registro del riesgo.
 
 Procedimiento
