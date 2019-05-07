@@ -1,6 +1,7 @@
 title:  Cadastrar ocurrencias del ticket 
 Description: Permite registrar eventuales hechos refente a la ejecución del ticket.
-#Cadastrar ocurrencias del ticket
+# Cadastrar ocurrencias del ticket
+
 La funcionalidad permite registrar eventuales hechos refente a la ejecución del ticket.
 
 Antes de empezar
