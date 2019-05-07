@@ -152,7 +152,7 @@ Figura 3 - Diagrama
 
  - Descripción de los elementos utilizados en el workflow generado
 
- - VVisualización de documentos vinculados al workflow
+ - Visualización de documentos vinculados al workflow
 
 ### Botones
 
