@@ -1,6 +1,7 @@
 title:  Ver elementos de configuración capturados por lo Inventory (agente)
 Description: Tiene por objeto presentar los detalles de los elementos de configuración colectados por la rutina de inventario. 
-#Ver elementos de configuración capturados por lo Inventory (agente)
+# Ver elementos de configuración capturados por lo Inventory (agente)
+
 Esta funcionalidad tiene por objeto presentar los detalles de los elementos de configuración colectados por la rutina de inventario.
 
 Procedimiento
