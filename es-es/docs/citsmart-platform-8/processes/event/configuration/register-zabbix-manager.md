@@ -1,6 +1,6 @@
 title: Registrar gerente Zabbix
 Description: Registrar y mantener los gerentes responsables por lo monitoreo de los elementos de configuración, cuyo estado se va buscar en el Zabbix.
-#Registrar gerente Zabbix
+# Registrar gerente Zabbix
 
 
 Zabbix es una herramienta para monitorear red, servidor y servicios, diseñado
