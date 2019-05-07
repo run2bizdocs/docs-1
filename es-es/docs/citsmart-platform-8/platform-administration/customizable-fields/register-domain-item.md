@@ -1,6 +1,7 @@
 title:  Registrar elemento de domínio 
 Description: Permite la personalización de las opciones del campo de una determinada pantalla del sistema
-#Registrar elemento de domínio
+# Registrar elemento de domínio
+
 La funcionalidad de Elementos de Dominio tiene por objetivo permitir la personalización de las opciones del campo de una determinada pantalla del sistema. Para utilizarla, deberá tener conocimiento sobre la codificación del sistema.
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un elementos de dominio.
 
