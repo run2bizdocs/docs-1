@@ -23,7 +23,7 @@ After the release of your Anuva environment, access the configuration environmen
 In this environment, you will be able to add and review knowledge to Anuva, you can schedule trainings, follow the interactions made by Anuva and conduct interaction tests to validate if interactions are being effective.
 
 
-## Configuração
+## Configuration
 
 [Make Anuva available on the CITSmart interface](/en-us/anuva/configuration/anuva-citsmart.html)
 
