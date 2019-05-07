@@ -1,6 +1,6 @@
 title: Register employee
 Description: Allows to register each person that has any type of link with the organization, such as: an employee, partner, and others.
-#Register employee
+# Register employee
 
 This functionality allows to register each person that has any type of link with
 the organization, such as: an employee, partner, and others.
