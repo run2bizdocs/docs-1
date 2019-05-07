@@ -1,6 +1,6 @@
 title: Implement password security rules
 Description: Configure passwords of system usage, providing a greater level of security with the usage of different characters.
-#Implement password security rules
+# Implement password security rules
 
 This functionality portrays the configuration of system usage passwords,
 providing a higher level of security with the usage of different characters.
