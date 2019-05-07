@@ -1,6 +1,7 @@
 title: Suspender registro de liberación
 Description: Permite suspender la ejecución de la liberación.
-#Suspender registro de liberación
+# Suspender registro de liberación
+
 Esta funcionalidad permite suspender la ejecución de la liberación.
 
 Antes de empezar
