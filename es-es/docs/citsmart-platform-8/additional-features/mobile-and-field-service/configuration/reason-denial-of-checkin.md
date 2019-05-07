@@ -1,6 +1,6 @@
 title: Registrar motivo de negación del check-in
 Description: Registrar el motivo de negación del check in, el cual será utilizado al hacer el check in a través de la aplicación CITSmart Enterprise ITSM Mobile.
-#Registrar motivo de negación del check-in
+# Registrar motivo de negación del check-in
 
 
 Esta funcionalidad permite registrar el motivo de negación del check in, el cual
