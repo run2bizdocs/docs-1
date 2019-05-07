@@ -1,6 +1,7 @@
 title: Registrar importación de datos
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar la importación de datos.
-#Registrar importación de datos
+# Registrar importación de datos
+
 El propósito de esta funcionalidad es realizar la importación de datos desde otra base de datos a la base de datos de CITSmart.
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar la importación de datos.
 
