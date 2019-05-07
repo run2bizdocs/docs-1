@@ -1,6 +1,6 @@
 title: Registrar fórmula de la orden de servicio
 Description: Registrar las fórmulas personalizadas para configurar "cómo" será el cálculo del valor del costo total de la actividad del servicio del contrato.
-#Registrar fórmula de la orden de servicio
+# Registrar fórmula de la orden de servicio
 
 Esta funcionalidad tiene el objetivo de registrar las fórmulas personalizadas
 para configurar "cómo" será el cálculo del valor del costo total de la actividad
