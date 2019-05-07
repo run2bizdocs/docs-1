@@ -1,6 +1,6 @@
 title: Configure knowledge portal filters
 Description: Is intended to configure the filters that will be displayed enabled to search for a knowledge in the Knowledge Portal.
-#Configure knowledge portal filters
+# Configure knowledge portal filters
 
 This functionality is intended to configure the filters that will be displayed
 enabled to search for a knowledge in the Knowledge Portal.
