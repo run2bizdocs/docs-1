@@ -1,6 +1,6 @@
 title: Generar informes - gestión de nivel de servicio
 Description: Genera informes de diversos tipos en la gerencia de Nivel de servicio
-#Generar informes - gestión de nivel de servicio
+# Generar informes - gestión de nivel de servicio
 
 
 Generar informe de control de SLA
