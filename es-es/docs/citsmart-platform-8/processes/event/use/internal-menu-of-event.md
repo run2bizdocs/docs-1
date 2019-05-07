@@ -1,6 +1,7 @@
 title:  Menú interno de la gestión de eventos 
 Description: tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
-#Menú interno de la gestión de eventos
+# Menú interno de la gestión de eventos
+
 Esta funcionalidad tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
 
 Antes de empezar
