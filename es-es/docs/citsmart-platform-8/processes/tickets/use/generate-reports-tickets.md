@@ -1,6 +1,6 @@
 title: Generar informes - gestión de Incidentes y Solicitudes
 Description: Permite generar informes de varias maneras sobre la gerencia de petición e indent.
-#Generar informes - gestión de Incidentes y Solicitudes
+# Generar informes - gestión de Incidentes y Solicitudes
 
 Generar informe de causas y soluciones
 ------------------------------------------
