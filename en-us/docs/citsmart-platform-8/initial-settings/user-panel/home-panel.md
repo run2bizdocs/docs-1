@@ -1,6 +1,6 @@
 title: Home panel
 Description: It's possible to add dashboards from a template or selecting manually.
-#Home panel
+# Home panel
 
 The home panel in the system main screen. In this panel, it's possible to
 add dashboards from a template or selecting manually. In this area, it's also
