@@ -1,6 +1,7 @@
 title: Personalizar Portal del Conocimiento
 Description: Tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
-#Personalizar Portal del Conocimiento
+# Personalizar Portal del Conocimiento
+
 Esta funcionalidad tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
 
 Procedimiento
