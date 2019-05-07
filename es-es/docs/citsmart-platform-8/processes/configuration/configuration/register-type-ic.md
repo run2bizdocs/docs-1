@@ -1,6 +1,6 @@
 title: Registrar tipo de elemento de configuración
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de Elemento de Configuración.
-#Registrar tipo de elemento de configuración
+# Registrar tipo de elemento de configuración
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los
