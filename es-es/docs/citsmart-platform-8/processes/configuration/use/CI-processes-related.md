@@ -1,6 +1,7 @@
 title: Comprobar procesos relacionados al elemento de configuración
 Description: Permite verificar procesos relacionados con el EC, además de informaciones generales. 
-#Comprobar procesos relacionados al elemento de configuración
+# Comprobar procesos relacionados al elemento de configuración
+
 Esta funcionalidad permite verificar procesos relacionados con el EC, además de informaciones generales.
 
 Antes de empezar
