@@ -1,6 +1,6 @@
 title: Configurar instancia para utilizar la aplicación CITSmart GO
 Description: La aplicación CITSmart GO permite atender en modo offline - en las que el operador no tiene internet.
-#Configurar instancia para utilizar la aplicación CITSmart GO
+# Configurar instancia para utilizar la aplicación CITSmart GO
 
 La aplicación CITSmart GO permite atender en modo offline - en las que el
 operador no tiene internet. Una vez que la aplicación se conecta a Internet,
