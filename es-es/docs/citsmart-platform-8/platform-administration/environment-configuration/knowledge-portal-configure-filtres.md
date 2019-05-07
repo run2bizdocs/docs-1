@@ -1,6 +1,7 @@
 title: Configurar filtros del portal del conocimiento
 Description: Tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
-#Configurar filtros del portal del conocimiento
+# Configurar filtros del portal del conocimiento
+
 Esta funcionalidad tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
 
 Procedimiento
