@@ -20,8 +20,7 @@ with your CITSmart instance.
 Procedure
 ------------
 
-1.  Access the main menu \> Reports
-    \> Smart Analytics \> Smart Analytics;
+1.  Access the main menu \> Reports \> Smart Analytics \> Smart Analytics;
 
 2.  Select one potion in the tab **Cubes** (default: Change Requests, Releases,
     Tickets);
@@ -36,14 +35,12 @@ Procedure
         
     
 1.  In the tab **Dimensions**, it's available the options that will serve as a database
-    of the report. Sselect and drag an option into one of the boxes of measurements and 
+    of the report. Select and drag an option into one of the boxes of measurements and 
     dimensions on the dashboard: Columns, Rows and Filters;
 
-2.  On the right side of the dashboard you can configure the report in several
-    table and chart formats;
+2.  On the right side of the dashboard you can configure the report in several table and chart formats;
 
-3.  To change the position of the measurement units in the tabl/graph, click on the
-    detail button available in each dashboard measurement box.
+3.  To change the position of the measurement units in the tabl/graph, click on the detail button available in each dashboard      measurement box;
 
 4.  To export the report, click on "Export" and select the format (PNG and PDF);
 
