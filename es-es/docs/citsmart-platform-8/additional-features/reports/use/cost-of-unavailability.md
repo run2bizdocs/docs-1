@@ -1,6 +1,6 @@
 title: Informe del custo de indisponibilidad del servicio
 Description: Verificar el informe que demuestra el costo por hora de indisponibilidad de un servicio.
-#Informe del custo de indisponibilidad del servicio
+# Informe del custo de indisponibilidad del servicio
 
 
 Este documento tiene por objetivo verificar el informe que demuestra el costo
