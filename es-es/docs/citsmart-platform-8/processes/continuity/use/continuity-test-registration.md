@@ -1,6 +1,7 @@
 title:  Registrar estrategia de pruebas de la continuidad
 Description: Permite registrar la Estrategia de Pruebas de la Continuidad.
-#Registrar estrategia de pruebas de la continuidad
+# Registrar estrategia de pruebas de la continuidad
+
 El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registrar la Estrategia de Pruebas de la Continuidad.
 
 Antes de empezar
