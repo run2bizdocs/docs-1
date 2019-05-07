@@ -1,6 +1,7 @@
 title: Register menu
 Description: This feature provides a variety of actions, such as including, changing, and deleting a menu. 
-#Register menu
+# Register menu
+
 This functionality is intended to allow the users to configure the menu items according to their preferences. Provide better usability in accessing menus, where items can be arranged as your needs.
 This feature provides a variety of actions, such as including, changing, and deleting a menu.
 
