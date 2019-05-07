@@ -1,6 +1,6 @@
 title: Registrar justificación de cambio
 Description: Tiene por objetivo registrar la justificación de cambio
-#Registrar justificación de cambio
+# Registrar justificación de cambio
 
 Esta funcionalidad tiene por objetivo registrar la justificación de cambio que se utilizará en otras rutinas del sistema.
 
