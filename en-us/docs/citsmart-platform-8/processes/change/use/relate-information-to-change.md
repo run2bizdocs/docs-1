@@ -1,6 +1,6 @@
 title: Relate information to the change
 Description: It allows to link the Change to a series of information
-#Relate information to the change
+# Relate information to the change
 
 It's possible to link the Change to a series of information, such as: release, knowledge, problems and others, in order to solidify and support the execution of the process.
 
