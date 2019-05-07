@@ -1,6 +1,7 @@
 title:  Cancelar ticket 
 Description: La funcionalidad permite la cancelación del ticket. 
-#Cancelar ticket
+# Cancelar ticket
+
 La funcionalidad permite la cancelación del ticket.
 
 Antes de empezar
