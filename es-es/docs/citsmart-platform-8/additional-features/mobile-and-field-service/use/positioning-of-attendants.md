@@ -1,6 +1,6 @@
 title: Verificar el posicionamiento de los asistentes
 Description: Verificar el posicionamiento de los técnicos
-#Verificar el posicionamiento de los asistentes
+# Verificar el posicionamiento de los asistentes
 
 
 Esta funcionalidad tiene por objetivo verificar el posicionamiento de los
