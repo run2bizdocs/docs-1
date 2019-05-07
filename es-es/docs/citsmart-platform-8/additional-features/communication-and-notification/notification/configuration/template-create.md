@@ -1,6 +1,6 @@
 title: Registrar plantilla de notificación
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una plantilla de notificación.
-#Registrar plantilla de notificación
+# Registrar plantilla de notificación
 
 
 La funcionalidad de Plantilla de Notificación tiene por objeto crear una
