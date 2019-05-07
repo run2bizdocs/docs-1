@@ -1,6 +1,6 @@
 title: Registrar justificatión de la solicitud
 Description: Permite registrar las justificaciones de solicitudes de servicios.
-#Registrar justificatión de la solicitud
+# Registrar justificatión de la solicitud
 
 Esta funcionalidad permite registrar las justificaciones de solicitudes de
 servicios.
