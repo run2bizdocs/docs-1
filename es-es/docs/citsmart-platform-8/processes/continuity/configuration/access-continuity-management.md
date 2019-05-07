@@ -1,6 +1,6 @@
 title: Definir permiso de acceso para la gestión de continuidad
 Description: Definir quién tendrá acceso a las funcionalidades de la gestión de continuidad y qué tipo de acceso está permitido (leer, guardar y/o borrar).
-#Definir permiso de acceso para la gestión de continuidad
+# Definir permiso de acceso para la gestión de continuidad
 
 
 Esta funcionalidad tiene por objetivo definir quién tendrá acceso a las
