@@ -32,7 +32,7 @@ Workflows are visual representations of something that moves continuously. The W
 
 ### Home Screen
 
-![home screen](images/workflow-1.png)
+![home screen](images/workflowen-1.png)
 
 Figure 1 - Home screen
 
@@ -53,7 +53,7 @@ Figure 1 - Home screen
 
 By clicking on "New" in the home screen, the workflow registration screen will be available in the initial Workflow Data tab.
 
-![home screen](images/workflow-2.png)
+![home screen](images/workflowen-2.png)
 
 Figure 2 - Workflow data
 
@@ -65,7 +65,7 @@ Figure 2 - Workflow data
 
 ### Diagram Tab
 
-![home screen](images/workflow-3.png)
+![home screen](images/workflowen-3.png)
 
 Figure 3 - Diagram
 
@@ -156,7 +156,7 @@ Figure 3 - Diagram
 
 ### Buttons
 
-![home screen](images/workflow-4.png)
+![home screen](images/workflowen-4.png)
 
 Figure 4 - Document Buttons
 
