@@ -1,6 +1,6 @@
 title: Registrar grupo de activiad periódica
 Description: Registrar los grupos de actividades periódica, que son responsables de ejecutar las actividades periódicas.
-#Registrar grupo de activiad periódica
+# Registrar grupo de activiad periódica
 
 
 Esta funcionalidad tiene el objetivo de registrar los grupos de actividades
