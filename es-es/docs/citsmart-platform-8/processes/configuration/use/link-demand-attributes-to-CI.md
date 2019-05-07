@@ -1,6 +1,7 @@
 title:  Vincular atributos de demanda al EC 
 Description: Permite vincular un atributo de demanda al elemento de configuración. 
-#Vincular atributos de demanda al EC
+# Vincular atributos de demanda al EC
+
 Esta funcionalidad permite vincular un atributo de demanda al elemento de configuración.
 
 Antes de empezar
