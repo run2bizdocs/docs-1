@@ -1,6 +1,6 @@
 title: Procesamiento Batch
 Description: Tiene el objetivo de registrar el procesamiento batch, que podrá ser utilizado en otras rutinas del sistema.
-#Procesamiento Batch
+# Procesamiento Batch
 
 Esta funcionalidad tiene el objetivo de registrar el procesamiento batch, que podrá ser utilizado en otras rutinas del sistema.
 
