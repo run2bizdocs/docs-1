@@ -1,13 +1,13 @@
 title: Form
 Description: Form
-#Form
+# Form
 
 
 Allows the construction of user interfaces through the combination of previously
 defined Drag and Drop components and the use of CSS, Angular JS and JavaScript
 resources.
 
-## Characteristics:
+## Characteristics
 
    * Each form may contain one or more pages and each page has an HTML, an
       Angular Controller JS, and a collection of dependencies (Screen layout is
@@ -100,7 +100,7 @@ Procedure
     Figure 5 - Controller
     
 
-    •	Dependencies: the dependencies of the application are reported. The name of the dependency and the path in which it is located         must be entered. The user must also inform whether it will be injected into the controller.
+    •	Dependencies: the dependencies of the application are reported. The name of the dependency and the path in which it is located must be entered. The user must also inform whether it will be injected into the controller.
 
     ![form](images/neuro-23.jpg)
 
@@ -109,9 +109,9 @@ Procedure
 
 6.	Design the screen, to create the screen designing, click Edit Screen or navigate to the system tab Screen Designing that opens automatically:
 
-    *	Drag the components located on the left side palette to the center of the screen according to the shape you want to build the          form. The components are arranged in rows and columns, and the rows have a width of 12 columns. This means that in each line you        can insert up to 2 components with width 6, or up to 3 components with width 4, for example. It is not mandatory to fill the            entire row;
+    *	Drag the components located on the left side palette to the center of the screen according to the shape you want to build the form. The components are arranged in rows and columns, and the rows have a width of 12 columns. This means that in each line you can insert up to 2 components with width 6, or up to 3 components with width 4, for example. It is not mandatory to fill the entire row;
 
-    *	You can also create tabs on the forms. To do this, go to the tabs menu, and choose tabs horizontally or vertically. The tabs           will be added on the screen, and you can design the screen with the components on each tab.
+    *	You can also create tabs on the forms. To do this, go to the tabs menu, and choose tabs horizontally or vertically. The tabs will be added on the screen, and you can design the screen with the components on each tab.
 
 
     ![form](images/neuro-24.jpg)
@@ -123,7 +123,7 @@ Procedure
 
 !!! Abstract "JS for visualization"
 
-    This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the View Screen button.       More information can be found in the Developing Applications.
+    This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the View Screen button. More information can be found in the Developing Applications.
 
 
 !!! tip "About"
