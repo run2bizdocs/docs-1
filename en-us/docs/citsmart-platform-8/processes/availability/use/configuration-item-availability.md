@@ -2,7 +2,8 @@ title: Verify configuration item availability
 
 Description: This functionality is intended to verify the CIs availability group.
 
-#Verify configuration item availability
+# Verify configuration item availability
+
 This functionality is intended to verify the CIs availability group.
 
 Before getting started
