@@ -1,6 +1,6 @@
 title: Registrar ocurrencias del problema
 Description: Permite registrar eventuales ocurrencias referentes al problema
-#Registrar ocurrencias del problema
+# Registrar ocurrencias del problema
 
 Esta funcionalidad permite registrar las eventuales ocurrencias referentes al problema
 
