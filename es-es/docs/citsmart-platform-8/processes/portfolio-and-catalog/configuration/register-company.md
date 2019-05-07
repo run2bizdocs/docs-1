@@ -1,6 +1,6 @@
 title: Registrar empresa
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar informaciones de la empresa.
-#Registrar empresa
+# Registrar empresa
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
