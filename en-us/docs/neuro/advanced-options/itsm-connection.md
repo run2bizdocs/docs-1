@@ -1,6 +1,6 @@
 Title: ITSM connection
 Description: This functionality is able to provide a configuration screen to establish conection with CITSmart.  
-#ITSM connection  
+# ITSM connection  
 
 This functionality is able to provide a configuration screen to establish conection with CITSmart.  
 
