@@ -4,7 +4,7 @@ description: connects data, solutions and people, empowering departments and com
 
 # NEURO 
 
-##Overview 
+## Overview 
 
 CITSmart Neuro allows fast development of applications, adapting process and business changes in real time.
 Neuro is a product that has been 100% ready and adequate within CITSmart, this product is very powerful and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others). 
@@ -22,7 +22,7 @@ With Neuro we can create automated workflows in minutes eliminating errors due m
 -   Reduce Risks
 -   Eliminate Incorrect Data
 
-##Why adopt it? 
+## Why adopt it? 
 
 
 Application development can often be time-consuming and expensive, as well as
