@@ -1,6 +1,7 @@
 title:  Comprobar el historial de elementos de configuración
 Description: Permite obtener informes de auditoría del elemento de configuración. 
-#Comprobar el historial de elementos de configuración
+# Comprobar el historial de elementos de configuración
+
 Esta funcionalidad permite obtener informes de auditoría del elemento de configuración.
 
 Antes de empezar
