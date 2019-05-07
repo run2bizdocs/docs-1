@@ -1,6 +1,6 @@
 title: Aprobar ticket
 Description: En algunos casos, los tickets del tipo "Solicitud" pasarán por una fase de aprobación para su ejecución. Esto dependerá del flujo de trabajo del ticket, que está vinculado a la actividad de solicitud de servicio.
-#Aprobar ticket
+# Aprobar ticket
 
 Cuando un ticket tiene una actividad de aprobación, es posible confirmar o 
 rechazar esta solicitud utilizando el recurso para este propósito. En este sentido, 
