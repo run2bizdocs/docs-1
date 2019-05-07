@@ -1,6 +1,6 @@
 title: Registrar categoría de solución
 Description: Permite registrar y buscar las categorías de la solución de incidentes.
-#Registrar categoría de solución
+# Registrar categoría de solución
 
 Esta funcionalidad permite registrar y buscar las categorías de la solución de
 incidentes.
