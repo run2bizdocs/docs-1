@@ -1,6 +1,7 @@
 title: Buscar evento
 Description: tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
-#Buscar evento
+# Buscar evento
+
 Esta funcionalidad tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
 
 Antes de empezar
