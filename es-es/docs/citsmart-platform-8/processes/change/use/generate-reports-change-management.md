@@ -1,6 +1,6 @@
 title: Generar informes - gestión de cambios
 Description: Tiene por objetivo presentar los informes referentes a la gestión de las mudanzas.
-#Generar informes - gestión de cambios
+# Generar informes - gestión de cambios
 
 
 Generar informe cuantitativo de cambio
