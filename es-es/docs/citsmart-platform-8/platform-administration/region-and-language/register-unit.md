@@ -1,6 +1,7 @@
 title: Registrar unidad
 Description: Tiene por objetivo registrar las unidades donde los colaboradores están asignados.
-#Registrar unidad
+# Registrar unidad
+
 Esta funcionalidad tiene por objetivo registrar las unidades donde los colaboradores están asignados.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una unidad.
 
