@@ -1,6 +1,6 @@
 title: Database Connection
 Description: Database Connection
-#Database Connection
+# Database Connection
 
 Neuro requires Database connections to interfaces with database.
 
