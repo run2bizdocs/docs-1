@@ -1,6 +1,6 @@
 title: Crear carpeta
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar carpetas que se utilizarán para el almacenamiento y la organización de los documentos registrados en la base.
-#Crear carpeta
+# Crear carpeta
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
