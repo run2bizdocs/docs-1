@@ -1,6 +1,7 @@
 title:  Registrar tipo de unidad 
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de unidad.
-#Registrar tipo de unidad
+# Registrar tipo de unidad
+
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de unidad.
 
 Procedimiento
