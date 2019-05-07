@@ -1,6 +1,6 @@
 title: Configure views
 Description: Intended to allow the diverse vision (screens) creation of the system, with the possibility to associate with linked visions (sub-screens).
-#Configure views
+# Configure views
 
 This functionality is intended to allow the diverse vision (screens) creation of
 the system, with the possibility to associate with linked visions (sub-screens).
