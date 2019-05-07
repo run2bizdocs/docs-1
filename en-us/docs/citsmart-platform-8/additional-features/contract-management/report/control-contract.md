@@ -1,6 +1,7 @@
 title: Control contract
 Description: Allows to save the registries in the input of a new contract.
-#Control contract
+# Control contract
+
 This functionality allows to save the registries in the input of a new contract.
 The screen saves registries of what was agreed to the contract: the registration of occurrence, who is responsible for the training and what is the date of training about the software.
 
