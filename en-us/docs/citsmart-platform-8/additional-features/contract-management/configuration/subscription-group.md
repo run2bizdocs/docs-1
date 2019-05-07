@@ -1,6 +1,7 @@
 title: Register subscription group
 Description: Allows to register groups of subscriptions that will be printed in reports.
-#Register subscription group
+# Register subscription group
+
 This functionality allows to register groups of subscriptions that will be printed in reports.
 
 Before getting started
