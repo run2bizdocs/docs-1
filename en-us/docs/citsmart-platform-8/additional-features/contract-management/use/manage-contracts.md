@@ -1,6 +1,7 @@
 title: Manage contracts
 Description: This process allows to verify, add and delete services, as well as having links to the creation of WO, invoice and notification.
-#Manage contracts
+# Manage contracts
+
 The contract management is used to manage the contracts already registered in the system. This process allows to verify, add and delete services, as well as having links to the creation of WO, invoice and notification.
 
 Before getting started
