@@ -1,6 +1,6 @@
 title: Registrar característica
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las características del Elemento de Configuración (EC).
-#Registrar característica
+# Registrar característica
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
 características del Elemento de Configuración (EC).
