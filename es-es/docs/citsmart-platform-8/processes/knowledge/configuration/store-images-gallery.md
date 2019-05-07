@@ -1,6 +1,6 @@
 title: Almacenar imágenes en la galería
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar la carga de imágenes para utilizarlas posteriormente en el sistema.
-#Almacenar imágenes en la galería
+# Almacenar imágenes en la galería
 
 
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar la
