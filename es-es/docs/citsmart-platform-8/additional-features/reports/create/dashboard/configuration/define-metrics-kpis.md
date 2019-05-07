@@ -1,6 +1,6 @@
 title: Definir métricas y KPIs
 Description: Objetivo definir los objetivos de los indicadores del proceso de Gestión de Incidentes para análisis gerencial
-#Definir métricas y KPIs
+# Definir métricas y KPIs
 
 
 La funcionalidad de Definición de Métricas y KPI, tiene por objetivo definir los
