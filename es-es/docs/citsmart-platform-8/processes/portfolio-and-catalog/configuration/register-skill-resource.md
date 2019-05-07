@@ -1,6 +1,6 @@
 title: Registrar habilidad/recurso
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borra las habilidades de los colaboradores.
-#Registrar habilidad/recurso
+# Registrar habilidad/recurso
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
