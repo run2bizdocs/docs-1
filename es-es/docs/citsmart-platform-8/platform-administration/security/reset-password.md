@@ -1,6 +1,6 @@
 title: Configurar servicio de cambio de contraseña
 Description: El cambio de contraseña del usuario es una de las posibilidades permitidas por el sistema.  
-#Configurar servicio de cambio de contraseña
+# Configurar servicio de cambio de contraseña
 
 El cambio de contraseña del usuario es una de las posibilidades permitidas por el sistema. Para configurar esta opción, es necesario seguir los procedimientos aquí descritos.
 
@@ -24,7 +24,7 @@ Procedimiento
 
     !!! warning "ATENCIÓN"
 
-        Para que el usuario reciba la nueva información de acceso es necesario utilizar, en el mensaje de correo electrónico la clave           ‘${NOVASENHA}’ (ejemplo de clave referente a "Nueva contraseña"). Además, también se puede enviar el usuario de login utilizando         la clave ‘${LOGIN}’ (ejemplo de clave referente a “Login”).  
+        Para que el usuario reciba la nueva información de acceso es necesario utilizar, en el mensaje de correo electrónico la         clave ‘${NOVASENHA}’ (ejemplo de clave referente a "Nueva contraseña"). Además, también se puede enviar el usuario de           login utilizando la clave ‘${LOGIN}’ (ejemplo de clave referente a “Login”).  
 
 *2° Paso: Establecer la parametrización referente al servicio de cambio de contraseña*
 
