@@ -32,7 +32,7 @@ Workflows son representaciones visuales de algo que se mueve continuamente. La f
 
 ### Pantalla principal
 
-![pantalla principal](images/workflow-1.png)
+![pantalla principal](images/workflowes-1.png)
 
 Figura 1 - Pantalla principal
 
@@ -53,7 +53,7 @@ Figura 1 - Pantalla principal
 
 Al hacer clic en "Nuevo" en la pantalla principal, la pantalla de registro de workflow estará disponible en la pestaña inicial de Datos del Workflow.
 
-![pantalla principal](images/workflow-2.png)
+![pantalla principal](images/workflowes-2.png)
 
 Figura 2 - Datos del workflow
 
@@ -65,7 +65,7 @@ Figura 2 - Datos del workflow
 
 ### Pestaña Diagrama
 
-![pantalla principal](images/workflow-3.png)
+![pantalla principal](images/workflowes-3.png)
 
 Figura 3 - Diagrama
 
@@ -156,7 +156,7 @@ Figura 3 - Diagrama
 
 ### Botones
 
-![pantalla principal](images/workflow-4.png)
+![pantalla principal](images/workflowes-4.png)
 
 Figura 4 - Botones pestaña Documentación
 
