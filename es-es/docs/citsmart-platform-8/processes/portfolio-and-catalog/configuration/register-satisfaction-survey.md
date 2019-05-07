@@ -1,6 +1,6 @@
 title: Registrar encuesta de satisfacción
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar encuestas de satisfacción de acuerdo a las necesidades.
-#Registrar encuesta de satisfacción
+# Registrar encuesta de satisfacción
 
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar
 encuestas de satisfacción de acuerdo a las necesidades.
