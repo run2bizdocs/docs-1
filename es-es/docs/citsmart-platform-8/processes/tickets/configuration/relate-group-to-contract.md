@@ -1,6 +1,6 @@
 title: ¿Cómo relacionar el grupo al contrato?
 Description: Demuestra cómo relacionar un grupo a un contrato.
-#¿Cómo relacionar el grupo al contrato?
+# ¿Cómo relacionar el grupo al contrato?
 
 
 Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
