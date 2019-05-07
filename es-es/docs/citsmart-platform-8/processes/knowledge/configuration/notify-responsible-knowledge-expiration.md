@@ -1,6 +1,6 @@
 title: Notificar responsable por la expiración del conocimiento
 Description: Configurar la notificación por correo electrónico para avisar al responsable (creador y publicador) acerca de la expiración de los conocimientos.
-#Notificar responsable por la expiración del conocimiento
+# Notificar responsable por la expiración del conocimiento
 
 
 Este conocimiento tiene por objetivo configurar la notificación por correo
