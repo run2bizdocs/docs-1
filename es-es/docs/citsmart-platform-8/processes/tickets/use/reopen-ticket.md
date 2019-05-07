@@ -1,6 +1,7 @@
 title:  Reabrir ticket 
 Description: Permite reabrir el ticket finalizado.
-#Reabrir ticket
+# Reabrir ticket
+
 La funcionalidad permite reabrir el ticket finalizado.
 
 Antes de empezar
