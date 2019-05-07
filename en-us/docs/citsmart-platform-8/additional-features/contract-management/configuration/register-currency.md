@@ -1,6 +1,7 @@
 title: Register currency
 Description:This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
-#Register currency
+# Register currency
+
 This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
 
 Procedure
