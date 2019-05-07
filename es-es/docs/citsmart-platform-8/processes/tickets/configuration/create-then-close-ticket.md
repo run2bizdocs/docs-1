@@ -1,6 +1,6 @@
 title: Cómo crear y, a continuación, cerrar un ticket
 Description: Configurar para que ocurra la creación y cierre del ticket al mismo tiempo.
-#Cómo crear y, a continuación, cerrar un ticket
+# Cómo crear y, a continuación, cerrar un ticket
 
 
 Para las actividades que no necesitan SLA, donde el asistente deseas sólo
@@ -52,5 +52,5 @@ Adjunto
     <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/images/fluxo-JSON.json
-[2]:/pt-br/citsmart-platform-8/processes/tickets/images/script.zip
+[1]:/es-es/citsmart-platform-8/processes/tickets/images/fluxo-JSON.json
+[2]:/es-es/citsmart-platform-8/processes/tickets/images/script.zip
