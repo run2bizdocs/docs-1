@@ -56,4 +56,4 @@ Attachment
     <b>Updated:</b>1/30/2019 – Anna Martins
     
     
-  [1]:/pt-br/citsmart-platform-8/additional-features-mobile-and-fiel-service/report/images/km-por-analista.citreport
+  [1]:/pt-br/citsmart-platform-8/additional-features/mobile-and-fiel-service/report/images/km-por-analista.citreport
