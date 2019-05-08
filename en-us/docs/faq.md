@@ -655,9 +655,9 @@ Title: Frequently Asked Questions - FAQ
     
 	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
 	
-	[Download - ScriptRhino Fato table][1]
+[Download - ScriptRhino Fato table][1]
     
-[1]:images/script-tabla-fato.zip
+[1]:images/scripts-tabla-fato.zip
 
     
 ??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
