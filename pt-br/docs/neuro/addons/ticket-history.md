@@ -1,7 +1,7 @@
 Title:Informações do AddOn do Neuro -Ticke tHistory
 Description:  Informações do AddOn do Neuro -Ticke tHistory
 
-#Add On – Ticket History
+#Add On – Ticket History  
 Por meio dessa funcionalidade, é possível customizar a tela de inclusão de ocorrências criando um timesheet do ticket. 
 Na nova tela, os campos Data e Tempo foram substituídos por "Data e hora início" e "Data e hora fim". conforme o exemplo:
 
