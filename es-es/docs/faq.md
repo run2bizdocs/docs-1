@@ -702,7 +702,6 @@ Title: Preguntas frecuentes - FAQ
     DATAHORACARGA
     
     Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
-
    [Download - ScriptRhino Tabla fato][1]
     
 [1]:images/scripts-tabla-fato.zip
