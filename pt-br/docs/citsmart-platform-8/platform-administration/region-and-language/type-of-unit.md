@@ -1,6 +1,7 @@
 title: Cadastrar tipo de unidade
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de unidade. 
-#Cadastrar tipo de unidade
+# Cadastrar tipo de unidade
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os tipos de unidade.
 
 Procedimento
