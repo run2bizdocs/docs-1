@@ -653,14 +653,13 @@ Title: Frequently Asked Questions - FAQ
 	
     DATAHORACARGA
     
-	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.  
+	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
 	
-[Download - ScriptRhino Fato table][1]  
+[Download - ScriptRhino Fato table][1]
 
-[1]:images/scripts-tabla-fato.zip  
+[1]:images/scripts-tabla-fato.zip
 
-
- ??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
+??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
     
     When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.
     
@@ -670,7 +669,7 @@ Title: Frequently Asked Questions - FAQ
     
 ??? Question "What is the meaning of each inventory status of CIs?"
     
-    - Inventory - the inventory was able to read the CI information and ended successfully
+    -  Inventory - the inventory was able to read the CI information and ended successfully
     - Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
     - Unreachable - When the server encounters the IC but can not bring the information,
     - Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
