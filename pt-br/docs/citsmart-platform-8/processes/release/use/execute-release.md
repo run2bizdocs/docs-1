@@ -1,6 +1,7 @@
 title: Executar uma liberação
 Description: Permite registrar as informações referente a execução da liberação das mudanças. 
-#Executar uma liberação
+# Executar uma liberação
+
 Esta funcionalidade permite registrar as informações referente a execução da liberação das mudanças.
 
 Antes de começar
