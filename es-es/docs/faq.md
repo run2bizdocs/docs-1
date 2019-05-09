@@ -702,7 +702,9 @@ Title: Preguntas frecuentes - FAQ
     DATAHORACARGA
     
     Esta información se alimenta a través de la rutina de procesamiento por lotes de CITSmart, ejecutando los scripts Rhino, en los archivos adjuntos.
-[Download - ScriptRhino Tabla fato][1]  
+    
+[Download - ScriptRhino Tabla fato][1]
+
 [1]:images/scripts-tabla-fato.zip
    
 	  
@@ -790,8 +792,3 @@ Title: Preguntas frecuentes - FAQ
     En la interfaz de la Gestión de Tickets, específicamente en el elemento "Auditoría", al intentar configurar la auditoría de un ticket abierto (definir las fechas de inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará el mensaje de "Fecha Inválida ". Esto porque la funcionalidad necesita que el idioma definido en el sistema y en el explorador utilizado sean idénticos.  
     Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
-	
-
-
-
-[1]:images/scripts-tabla-fato.zip
