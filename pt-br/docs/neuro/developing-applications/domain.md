@@ -1,6 +1,6 @@
 title: Domínio
 Description: Domínio
-#Domínio
+# Domínio
 
 Neuro permite definir domínios que serão utilizados por todas as aplicações da instituição. O identificador (Key) agrupa os itens do Domínio.
 
