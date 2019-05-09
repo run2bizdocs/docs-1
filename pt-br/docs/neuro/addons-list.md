@@ -31,6 +31,11 @@ Description: AddOns do Neuro para o CITSmar.
 <font  Size=2><b>Produto/Versão:</b> CITSmart | 8.00</font> &nbsp; &nbsp;
 <font  Size=2><b>Atualização:</b>09/05/2019 - André L. Fernandes</font>
 	
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=<<<Process Playlist>>>)'
+!!! tip "About"
+
+    <b>Produto/Versão:</b> CITSmart | 8.00</font> &nbsp; &nbsp;
+    <b>Atualização:</b> 09/05/2019 - André L. Fernandes
 
 
 
