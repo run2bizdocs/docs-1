@@ -1,6 +1,7 @@
 title:  Reabrir uma liberação 
 Description: Permite reabrir a liberação de mudanças.
-#Reabrir uma liberação
+# Reabrir uma liberação
+
 Esta funcionalidade permite reabrir a liberação de mudanças.
 
 Antes de começar
