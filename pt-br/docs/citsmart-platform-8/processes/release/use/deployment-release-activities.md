@@ -1,6 +1,7 @@
 title:  Atividades da fase de implantação da liberação 
 Description: Permite planejar as atividades a serem implementadas junto a liberação 
-#Atividades da fase de implantação da liberação
+# Atividades da fase de implantação da liberação
+
 Esta funcionalidade permite planejar as atividades a serem implementadas junto a liberação semelhantemente ao que ocorre na fase de Planejamento da Liberação.
 
 Antes de começar
