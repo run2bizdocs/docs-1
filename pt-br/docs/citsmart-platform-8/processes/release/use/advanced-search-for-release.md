@@ -1,6 +1,7 @@
 title: Pesquisa avançada de liberações encerradas
 Description: Permite realizar a busca de requisições de liberação de acordo com os filtros definidos. 
-#Pesquisa avançada de liberações encerradas
+# Pesquisa avançada de liberações encerradas
+
 Esta funcionalidade permite realizar a busca de requisições de liberação de acordo com os filtros definidos.
 
 Procedimento
