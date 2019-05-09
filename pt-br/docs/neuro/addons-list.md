@@ -30,7 +30,7 @@ Description: AddOns do Neuro para o CITSmar.
 <hr>
 	
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> 
-[Video Library](https://www.youtube.com/playlist?list=<<<Process Playlist>>>)
+[image](https://www.youtube.com/playlist?list=<<<Process Playlist>>>)
 
 !!! tip "About"
 
