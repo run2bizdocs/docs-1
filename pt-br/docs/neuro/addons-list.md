@@ -14,7 +14,8 @@ Description: AddOns do Neuro para o CITSmar.
     ```tab="Configuração"
     Conexão e Pacote do Neuro AddOn Ticket History
     -   Criar uma conexão de banco de dados “itsm” em Neuro / Configuration / Database connection
-    -   Importar o pacote “ticket_history” em Neuro / Management / Package:
+    -   Copiar e Salvar o JSON anexo para um arquivo ".json" 
+    -   Importar o arquivo criado em Neuro / Management / Package:
         1.  Clicar no botão “Import”
         2.  Selecionar ou arrastar o pacote para a modal, marcar a opção “Execute DDL” e clicar em “Import”
         3.  Aguardar a mensagem de importação do pacote
