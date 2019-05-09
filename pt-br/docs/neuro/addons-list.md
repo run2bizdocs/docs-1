@@ -38,6 +38,8 @@ Description: AddOns do Neuro para o CITSmar.
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Exemplo](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nZvo0JJJ24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 
 !!! tip "About"
