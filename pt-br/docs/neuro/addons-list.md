@@ -12,7 +12,34 @@ Description: AddOns do Neuro para o CITSmar.
 ??? example "Por meio dessa funcionalidade, é possível customizar a tela de inclusão de ocorrências criando um timesheet do ticket.  Na nova tela, os campos Data e Tempo foram substituídos por "Data e hora início" e "Data e hora fim". (Clique para mais detalhes)"
 
     ```tab="Documentação"
-    ![Ticket History][1]
+    **Configuração da aplicação Neuro AddOn Ticket History**
+
+    -   Criar uma conexão de banco de dados “itsm” em Neuro / Configuration / Database connection
+
+    -   Importar o pacote “ticket_history” em Neuro / Management / Package:
+
+    1.  Clicar no botão “Import”
+
+    2.  Selecionar ou arrastar o pacote para a modal, marcar a opção “Execute DDL” e clicar em “Import”
+
+    3.  Aguardar a mensagem de importação do pacote
+
+    **Customizar a tela de criação de ocorrências dos tickets**
+
+    -   Criar o template de visualização associado ao formulário Neuro “ticketOccurrenceNotes”. A página do template é do tipo default
+
+    -   Associar o template de visualização ou template de acompanhamento no portólio
+
+    **Para versões Neuro anteriores à 1.3.0.0, executar os scripts de banco de dados:**
+    alter table ocorrenciasolicitacao add starttime timestamp;
+
+    alter table ocorrenciasolicitacao add endtime timestamp;
+
+    **Adicionar o formulário Ticket History à tela de tickets**
+
+    1.  Criar o template de visualização associado ao formulário Neuro “ticketHistory”(A página do template é do tipo CRUD)
+
+    2.  Associar o template de visualização no portólio
     ```
 
     ```tab="Atributos de entrada"
