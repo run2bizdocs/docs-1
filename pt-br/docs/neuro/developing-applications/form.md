@@ -1,6 +1,6 @@
 title: Formulário
 Description: Formulário
-#Formulário
+# Formulário
 
 
 Permite a construção de interfaces de usuário através da combinação de componentes Drag and Drop previamente definidos e o uso de recursos CSS, Angular JS e JavaScript.
@@ -124,7 +124,7 @@ Permite a construção de interfaces de usuário através da combinação de com
 
 !!! Abstract "JS para visualização"
 
-    Essa guia tem a capacidade de adicionar variáveis no escopo do JavaScript na tela que é aberta quando você clica em Exibir Tela.         Mais informações podem ser encontradas em Desenvolver Aplicações
+    Essa guia tem a capacidade de adicionar variáveis no escopo do JavaScript na tela que é aberta quando você clica em Exibir         Tela. Mais informações podem ser encontradas em Desenvolver Aplicações
 
 
 !!! tip "About"
