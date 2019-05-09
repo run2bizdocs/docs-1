@@ -1,6 +1,6 @@
 title: Objeto de Negócio
 Description:Objeto de Negócio
-#Objeto de Negócio
+# Objeto de Negócio
 
 
 Objetos de Negócios são os vínculos entre o Neuro e uma Entidade de Dados das aplicações. Desta forma, o Objeto de Negócio representará o modelo de dados e poderá atingir um ou mais formulários.
