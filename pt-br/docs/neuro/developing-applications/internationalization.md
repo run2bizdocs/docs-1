@@ -1,6 +1,6 @@
 title: Internacionalização
 Description: Internacionalização
-#Internacionalização
+# Internacionalização
 
 O Neuro usa labels (chaves) para realizar a internacionalização dos formulários.
 Cada campo atribuído no formulário pode usar um label e esses labels são
