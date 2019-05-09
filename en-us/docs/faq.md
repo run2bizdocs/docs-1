@@ -654,7 +654,6 @@ Title: Frequently Asked Questions - FAQ
     DATAHORACARGA
     
     This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
-    
    [Download - ScriptRhino Fato table][1]
     
    [1]:images/scripts-tabla-fato.zip
