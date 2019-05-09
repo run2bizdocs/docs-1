@@ -1,6 +1,7 @@
 title:  A área de trabalho da Gerência de Liberação 
 Description: A área de trabalho da Gestão de Liberação é um espaço onde estão disponibilizados todas as liberações.
-#A área de trabalho da Gerência de Liberação
+# A área de trabalho da Gerência de Liberação
+
 A área de trabalho da Gestão de Liberação é um espaço onde estão disponibilizados todas as liberações e seu histórico de atendimento, tornando mais fácil a visualização de cada item e suas funcionalidades. Neste espaço também há a possibilidade de inúmeras ações como a edição, a suspensão, alterar um item, além de diversas outras.
 
 Antes de começar
