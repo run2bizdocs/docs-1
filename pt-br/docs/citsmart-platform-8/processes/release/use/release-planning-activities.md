@@ -1,6 +1,7 @@
 title:  Atividades da fase de planejamento da liberação 
 Description: Permite planejar as atividades a serem executadas junto a liberação. 
-#Atividades da fase de planejamento da liberação
+# Atividades da fase de planejamento da liberação
+
 Esta funcionalidade permite planejar as atividades a serem executadas junto a liberação.
 
 Antes de começar
