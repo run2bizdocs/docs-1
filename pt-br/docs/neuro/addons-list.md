@@ -12,7 +12,7 @@ Description: AddOns do Neuro para o CITSmar.
 ??? example "Por meio dessa funcionalidade, é possível customizar a tela de inclusão de ocorrências criando um timesheet do ticket.  Na nova tela, os campos Data e Tempo foram substituídos por "Data e hora início" e "Data e hora fim". (Clique para mais detalhes)"
 
     ```tab="Documentação"
-    [Ticket History][1]
+    ![Ticket History][1]
     ```
 
     ```tab="Atributos de entrada"
