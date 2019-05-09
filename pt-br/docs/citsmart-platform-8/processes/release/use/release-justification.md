@@ -1,6 +1,7 @@
 title:  Cadastrar a justificativa de liberação 
 Description: Tem por objetivo registrar a justificativa da liberação
-#Cadastrar a justificativa de liberação
+# Cadastrar a justificativa de liberação
+
 Esta funcionalidade tem por objetivo registrar a justificativa da liberação que será utilizada em outras rotinas do sistema, como por exemplo na suspensão de uma Liberação.
 
 Procedimento
