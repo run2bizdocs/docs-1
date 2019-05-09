@@ -1,6 +1,7 @@
 title: Cancelar a liberação
 Description: Permite cancelar a liberação. 
-#Cancelar a liberação
+# Cancelar a liberação
+
 Esta funcionalidade permite cancelar a liberação.
 
 Antes de começar
