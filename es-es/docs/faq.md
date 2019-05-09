@@ -705,7 +705,7 @@ Title: Preguntas frecuentes - FAQ
     
 [Download - ScriptRhino Tabla fato][1]
 
-[1]:images/scripts-tabla-fato.zip
+[1]:images/scripts-tabla-fato.zip  
    
 	  
 ??? Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
