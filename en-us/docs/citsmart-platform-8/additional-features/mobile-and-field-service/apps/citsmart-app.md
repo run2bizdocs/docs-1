@@ -1,62 +1,64 @@
-Title: Manual de utilização do aplicativo mobile CITSmart Experience
-# Manual de utilização do aplicativo mobile CITSmart Experience
+Title: User guide - CITSmart Experience mobile application
+# User guide - CITSmart Experience mobile application
 
-Este documento tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart Experience, disponível nas plataformas Android e iOS.
-O aplicativo Experience oferece a facilidade no atendimento, direcionamento de onde a solicitação está localizada, filtragem das solicitações pessoais e por grupo de trabalho, visualização dos detalhes de uma solicitação de serviço, entre diversas outras funcionalidades possíveis devido a renderização das páginas e leiaute responsivo
+This document is intended to provide guidance for installing, configuring, and using the CITSmart Experience mobile application, available on both Android and iOS platforms.
+The Experience application offers ease of service, targeting where the request is located, filtering of personal and work group requests, viewing the details of a service request, among many other possible features due to page rendering and responsive layout.
 
-Antes de começar
----------------
+Before getting started
+----------------------
 
-Para utilizar o aplicativo Experience é preciso criar o menu com as opções que poderão ser acessadas.
+To use the Experience application, it's necessary to create the menu with the options that can be accessed.
 
-Procedimento
+Procedure
 ------------
 
-1.	Instalar o aplicativo Experience a partir da loja online (App Store ou Play Store);
-2.	Para criar uma conexão, clicar no botão “Add” ou “Adicionar conexão”;
-3.	Será apresentada tela “Nova Conexão” para registrar conexão:
-4.	Informar os dados:
+1.	Install the Experience application from an online store (App Store or Play Store);
+2.	To create a connection, click on "Add" or "Add connection";
+3.	It will appear the "New Connection" screen to register the connection:
+4.	Enter the data:
 
-    ![conexao](images/app-pt.png)
+    ![connection](images/app-pt.png)
 
-     Figura 1 - Conexão
-
-
-    *	Nome da conexão: informar o nome da instância;
-
-    *	URL do servidor: informar o endereço do servidor para conexão com o uso do protocolo (https) na URL;
-
-    *	Domínio\Usuário:  informar o domínio (local/ldap) e seu usuário;
-
-    Ex.: citsmart.local\nome.sobrenome
-    *	Senha: credencial de acesso ao sistema;
-
-    *	Conexão principal: informar se a instância escolhida será a principal;
-
-    *	Disponível:
-
-           a.	Habilitado: o sistema permitirá conexão ao servidor e o posicionamento físico do usuário será obtida e                           registrada;
-
-           b.	Desabilitado: o sistema não permitirá conexão ao servidor nem registrará a posição física do atendente.
-
-5.	Após informar os dados da conexão desejada, clicar no botão "Salvar";
-
-6.	Depois de adicionada a conexão, aparecerá a listagem das conexões criadas. Para alterar uma conexão, basta selecionar e manter pressionada a conexão e fazer a alteração;
-
-7.	Logar com o usuário e senha utilizados no CITSmart web;
-
-8.	Após realizar a conexão, será apresentada a tela com menus de funcionalidades disponíveis.
+     Figure 1 - Connection
 
 
-!!! Abstract "ATENÇÃO"
+    *	Name of connection: enter the name of the instance;
 
-    Caso o aparelho seja trocado, esta conexão deve ser deletado.
+    *	Server URL: inform the server address for connection to the use of the protocol (https) in the URL;
+
+    *	Domain\User: enter the domain (local/ldap) and your user;
+
+    E.g.: citsmart.local\name.surname
+    *	Password: system access credential;
+
+    *	Main connection: inform if the chosen instance will be the main one;
+
+    *	Available:
+
+           a.	Enabled: the system will enable the connection to the server, and the physical positioning of the 
+           user will be obtained and registered;
+
+           b.	Disabled: the system will not allow the connection to the server or register the physical position of 
+           the attendant.
+
+5.	After entering the data of the connection you want, click on "Save";
+
+6.	After the connection is added, the list of created connections will appear. To change a connection, just select and hold the connection and make the change;
+
+7.	Log with the user and password used in the CITSmart web;
+
+8.	After connecting, it will appear the screen with the menu of available features.
+
+
+!!! Abstract "ATTENTION"
+
+    If the device is changed, this connection must be deleted.
 
    
-Relacionado
+Related
 ----------
 
-[Configurar opções de menu no mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configure options in the mobile menu](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
