@@ -7,7 +7,7 @@ Description: AddOns do Neuro para o CITSmar.
 
 [1]:addons/ticket-history.md
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nZvo0JJJ24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nZvo0JJJ24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AyuBO4O5shg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe>
 
