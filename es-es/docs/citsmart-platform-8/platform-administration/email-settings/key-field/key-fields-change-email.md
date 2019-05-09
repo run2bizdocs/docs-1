@@ -1,6 +1,7 @@
 title: Campos claves de los correos electrónicos del cambio
 Description: Tiene el objetivo de proporcionar la relación de los campos clave,
-#Campos claves de los correos electrónicos del cambio
+# Campos claves de los correos electrónicos del cambio
+
 Este documento tiene el objetivo de proporcionar la relación de los campos clave, disponibles para el registro de modelo de correo electrónicos relacionado a los cambios.
 
 Relación de Campos Claves

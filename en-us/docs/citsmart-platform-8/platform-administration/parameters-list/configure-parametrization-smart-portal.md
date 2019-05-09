@@ -1,6 +1,6 @@
 title: Configure parametrization - Smart Portal
 Description: Allows the activation of the exchange of messages between the requester and the responsible for the request, enabling the option of canceling a ticket through the portal, among other actions.
-#Configure parametrization - Smart Portal
+# Configure parametrization - Smart Portal
 
 
 Smart Portal is a feature of the solution that provides the Service Catalog

@@ -1,7 +1,7 @@
 Title: Introducción a la Plataforma
 Description: Contexto de cambios y Gestión de Servicios
 
-#Introducción a la Plataforma
+# Introducción a la Plataforma
 
 Esté preparado para el cambio
 -------------------------------

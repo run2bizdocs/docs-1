@@ -1,6 +1,6 @@
 title: Customize management panel (Smart Decision)
 Description: It's possible to add dashboards from a template or selecting manually.
-#Customize management panel (Smart Decision)
+# Customize management panel (Smart Decision)
 
 The management panel in the system main screen. In this panel, it's possible to
 add dashboards from a template or selecting manually. In this area, it's also
@@ -57,7 +57,7 @@ Procedure
 
     + *Widgets*:
 
-       + choose the type widget that will be in the management panel.
+        + choose the type widget that will be in the management panel.
 
 2.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;

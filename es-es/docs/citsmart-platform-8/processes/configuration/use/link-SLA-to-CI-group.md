@@ -1,6 +1,7 @@
 title:  Vincular acuerdo de nivel de servicio al grupo de EC 
 Description: Tiene por objetivo vincular un SLA al grupo de elementos de configuración.
-#Vincular acuerdo de nivel de servicio al grupo de EC
+# Vincular acuerdo de nivel de servicio al grupo de EC
+
 Esta funcionalidad tiene por objetivo vincular un SLA al grupo de elementos de configuración.
 
 Antes de empezar

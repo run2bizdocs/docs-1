@@ -1,6 +1,7 @@
 title: Buscar conocimiento por la guía del usuario
 Description: Los recursos de búsqueda disponibles facilitan el acceso a los conocimientos de forma rápida y precisa.
-#Buscar conocimiento por la guía del usuario
+# Buscar conocimiento por la guía del usuario
+
 La Guía del Usuario es un espacio donde se proporciona información relevante para orientar los usuarios (clientes, analistas, administradores, etc.) en el uso de determinadas funcionalidades de un producto CITSmart. Los recursos de búsqueda disponibles facilitan el acceso a los conocimientos de forma rápida y precisa. La búsquede puede ser hecha también por el uso de filtros como carpeta, tipo, título, entre otros. Además, es posible que cualquier usuario registre un nuevo conocimiento para hacer el portal dinámico y actualizado.
 
 Antes de empezar

@@ -1,6 +1,6 @@
 title: Configure parametrization - release
 Description:  It performed to allow the execution/use of this process, and it may be possible to define whether notifications will be sent to the requester for the execution of the services/incidents request flows, for example.
-#Configure parametrization - release
+# Configure parametrization - release
 
 
 Release management is the process responsible for planning, scheduling and

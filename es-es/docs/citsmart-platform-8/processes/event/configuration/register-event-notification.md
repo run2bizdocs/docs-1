@@ -1,6 +1,6 @@
 title: Registrar evento de notificación
 Description: Establecer cuáles son las reglas que definir un evento de notificación.
-#Registrar evento de notificación
+# Registrar evento de notificación
 
 Esta funcionalidad tiene por objetivo establecer cuáles son las reglas que
 definir un evento de notificación, es decir, configurar la notificación que será

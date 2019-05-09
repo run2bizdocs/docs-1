@@ -1,6 +1,6 @@
 title: Registrar categoría de ocurrencia
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar la categoría de ocurrencia.
-#Registrar categoría de ocurrencia
+# Registrar categoría de ocurrencia
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y

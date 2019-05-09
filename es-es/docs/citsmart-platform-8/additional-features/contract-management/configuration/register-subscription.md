@@ -1,6 +1,6 @@
 title: Registrar una suscripción
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la suscripción.
-#Registrar una suscripción
+# Registrar una suscripción
 
 Esta funcionalidad tiene el objetivo de registrar campos de suscripción para
 asociarse a un grupo de suscripciones para la personalización de suscripciones

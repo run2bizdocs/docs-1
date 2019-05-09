@@ -1,121 +1,119 @@
-title: Configurar atividade de usuário no fluxo
-Description: Este documento tem por objetivo configurar a atividade dentro de fluxo chamada tarefa de usuário. 
-# Configurar atividade de usuário no fluxo 
+title: Configure user activity in the workflow
+Description: This document is intended to configure the activity within the workflow, called user task. 
+# Configure user activity in the workflow 
 
-Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Atividade de usuário. Este documento tem por objetivo orientar quanto a configuração deste elemento no fluxo de trabalho.
+When designing a workflow, it is possible to insert several elements, among them, the User Activity. This document is intended to guide the configuration of this element in the workflow.
 
-Antes de começar
----------------
-Para utilizar o elemento "Atividade de Usuário" é necessário, no mínimo, ter um fluxo cadastrado na ferramenta contendo os elementos de eventos: "início" e "fim".
+Before getting started
+----------------------
+To use the "User Activity" element, it's necessary to have, at least, a registered workflow in the tool, with the event elements: "start" and "end".
 
 
-!!! Abstract "NOTA"
+!!! Abstract "NOTE"
 
-    Dentro da aba *Interface*, escolhendo o Tipo de Interação "Formulário Neuro": possuir 2 formulários de Neuro distintos e         configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. 
-    É necessário também criar o Template de Ticket para cada um dos formulários.
+    Within the *Interface* tab, choosing the "Neuro Form" Interaction Type: have 2 distinct Neuro 
+    forms configured for the creation form to be displayed next to the monitoring form. 
+    It is also necessary to create the Ticket Template for each of the forms.
 
-Procedimento
+Procedure
 ------------
 
-1.	Acessar o menu principal Workflow > Desenho de fluxo;
-2.	Clicar no botão “Novo”;
-3.	Clicar na aba Diagrama e em seguida na guia Atividade;
-4.	Clicar no elemento Tarefa de Usuário e arrastá-lo até o painel de criação de fluxo;
-5.	Serão abertas as seguintes abas de configuração do elemento:
+1.	Access the main menu Workflow > Flow Design;
+2.	Click on "New”;
+3.	Click on the Diagram tab and then on Activity;
+4.	Click on the User Task element and drag it to the workflow creation panel;
+5.	The following element configuration tabs will be opened:
 
-**Identificação**
+**Identification**
 
-*	Nome: nome da tarefa de usuário;
+*	Name: name of the user task;
 
-*	Descrição: detalhar a tarefa de usuário;
+*	Description: detail the user task;
 
-*	Tipo de instância:
+*	Type of instance:
 
-    *	Uma única instância: só pode ter uma única instância não executada da tarefa no fluxo;
+    *	A single instance: it can only have a single non-executed instance of the task in the workflow;
     
-    *	Mais de uma instância controlada pelo fluxo: pode ter várias instâncias não executadas da tarefa;
+    *	More than one instance controlled by the workflow: it can have multiple instances not executed from the task;
     
-    *	Criar uma instância para cada usuário: na atribuição, se houver ponto e vírgula nos usuários, será criada uma tarefa para cada usuário;
+    *	Create an instance for each user: in the assignment, if there is a semicolon in the users, a task will be created for each user;
 
-*	Identificador: é uma sigla única pra tarefa serve pra codificar Rhino e pra formulários do neuro;
+*	Identifier: it is a unique acronym for the task and it is used to code Rhino and for Neuro forms;
 
-*	Contabiliza SLA: definir se “Sim” ou “Não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
+*	Counts SLA: it sets "Yes" or "No" ( the "Suspend SLA" status will appear in the ticket management interface);
 
-*	Percentual de execução: campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
+*	Execution percentage: informative field about the percentage of this task in the entire workflow;
 
-*	É uma tarefa de aprovação?: definir se “Sim” ou “Não”;
+*	Is it an approval task?: set "Yes" or "No”;
 
-**Atribuição**
+**Assignment**
 
-*	Tipo de destinatário: selecionar se será para grupo ou usuário específico
+*	Recipient type: select whether it will be for a specific group or user
 
-*	Tipo atribuição: definir se a atribuição será de execução ou de acompanhamento
+*	Assignment Type: define whether the assignment will be execution or monitoring
 
-*	Grupo/Usuário: selecionar o grupo/usuário
+*	Group/User: select the group/user
 
-*	Ou Expressão: buscar por expressão já cadastrada previamente
+*	Or Expression: search for an expression already registered
 
-**Ações do usuário**
+**User actions**
 
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente (ex. ação de aprovação, ou seja, uma expressão com essa finalidade);
+*	Select the registration action: it searches for the action already registered (e.g.:, approval action, that is, an expression for this purpose);
 
-**Ação de entrada**
+**Input action**
 
-*	Construir expressão: definir uma expressão diretamente
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
+*	Build expression: it directly defines an expression
+*	Select registration action: it searches for an action already registered
 
-**Ação de saída**
+**Output action**
 
-*	Construir expressão: definir uma expressão diretamente
+*	Build expression: it directly defines an expression
 
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
+*	Select registration action: it searches for an action already registered
 
 **Interface**
 
-*	Tipo de interação: é o modo com que um Questionário ou um Formulário Neuro vai ser aplicado na interface de gestão de ticket em um determinado estado do fluxo. A configuração dos itens que estarão visíveis pode ser definida no portfólio ou configurado diretamente no elemento Atividade de Usuário (do fluxo):
+*	Interaction type: it is the way in which a Questionnaire or a Neuro Form will be applied in the ticket management interface, in a given workflow status. The configuration of items that will be visible can be defined in the portfolio, or configured directly in the User Activity element (of the workflow):
 
-    *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
+    *	Defined in portfolio: it is possible for a ticket template (questionnaire or form) to appear punctually in a workflow status, using what has been configured in the service attribute "Activity" (request/incident) - fields: “CREATION Template” and “Monitoring Template”. This option is advantageous when you have generic workflows used by several services.
 
-    *	Formulário padrão: default do sistema 
+    *	Standard form: default from system 
 
-    *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
+    *	Neuro Form: it has an identifier to call for the workflow triggered by this form
 
-*	Template (Padrão/Neuro): permite a vinculação de template de ticket.
+*	Template (Standard/Neuro): it allows to link the ticket template.
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "ATTENTION"
 
-        Caso não ocorra a vinculação de nenhum template de solicitação de serviço na aba interface, o sistema subentenderá e 
-        aplicará as configurações de um formulário padrão, habilitando a vinculação de item de configuração, mudança, problema
-        e solicitação relacionada ao ticket tela de gerenciamento de solicitação de serviço.
+        If there is no linking of a service request template in the interface tab, the system will subtend 
+        and apply the settings of a standard form, enabling configuration item, change, problem and request 
+        related to the ticket.
     
-*	Permite direcionar para grupo: possibilita a ativação/desativação da opção "Direcionar para grupo" no cadastro de um ticket;
+*	Allows to direct to group: enables the activation/deactivation of the "Direct to group" option in the registration of a ticket;
 
-*	Permite alteração da situação: torna visível/invisível as opções de atendimento do ticket (Registrada/Em andamento; Resolvida e Cancelada);
+*	Allows to change the status: it makes visible/invisible the ticket attendance options (Registered/In Progress; Solved and Canceled);
 
-*	Habilita notificação e-mail: torna visível/invisível as opções de notificação por e-mail;
+*	Enables email notification: it makes the email notification options visible/invisible;
 
-*	Permite delegar atendimento: possibilita a ativação/desativação da opção "Delegar" para que esta esteja visível no menu opções do gerenciamento de um ticket;
+*	Allows delegate attendance: it enables the activation/deactivation of the "Delegate" option, in order to be visible in the options menu of the ticket management;
 
-*	Permite alterar dados da tela: possibilita a edição de questionários na tela de gerenciamento do ticket.
+*	Allows change screen data: allows to edit questionnaires on the ticket management screen.
 
-!!! Abstract "REGRA"    
+!!! Abstract "RULE"    
     
-    As normativas configuradas no fluxo terão prioridade em relação às marcações do template de solicitação de serviço,
-    pois esta é um complemento do fluxo.
+    The rules configured in the workflow will have priority over the service request template markings, as this is a 
+    complement to the workflow.
     
-**Base de conhecimento**
+**Knowledge Base**
 
-   *  Vincular base de conhecimento: escolher o conhecimento que deseja
-       vincular a tarefa de usuário.
+   *  Link knowledge base: choose the knowledge you want to link to the user task.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATTENTION"
 
-    O objetivo principal desta vinculação de conhecimento é permitir que o
-    atendente de uma requisição/incidente tenha facilmente acesso a ele. Assim
-    que o fluxo chegue na atividade do fluxo vinculado a um conhecimento, o
-    botão “Conhecimentos” é mostrado no canto superior direito da tela de
-    Requisição/Incidente para dar acesso de leitura ao conteúdo, para tanto, tal
-    conhecimento geralmente é escrito na forma de um passo a passo.
+    The main purpose of linking this knowledge is to allow the attendant of a request/incident to have easy access to it. 
+    As soon as the workflow arrives at the activity of the flow linked to a knowledge, the button "Knowledge" is shown in 
+    the upper right corner of the Request/Incident screen, to give read access to the content, for that, such knowledge is 
+    usually written in the form of a step by step.
     
     
 !!! tip "About"

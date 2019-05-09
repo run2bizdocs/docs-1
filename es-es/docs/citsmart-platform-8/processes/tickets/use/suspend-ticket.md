@@ -1,6 +1,7 @@
 title:  Suspender ticket 
 Description: Después de crear un ticket, es posible gestionar sus etapas, incluyendo suspender su atención.
-#Suspender ticket
+# Suspender ticket
+
 Después de crear un ticket, es posible gestionar sus etapas, incluyendo suspender su atención, haciendo más eficaz el proceso.
 
 Antes de empezar

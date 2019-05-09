@@ -1,6 +1,6 @@
 title: Exportar datos de los contratos
 Description: Exportar los datos para facilitar la carga inicial de los datos relacionados con los contratos.
-#Exportar datos de los contratos
+# Exportar datos de los contratos
 
 
 Esta funcionalidad tiene por objeto exportar los datos para facilitar la carga

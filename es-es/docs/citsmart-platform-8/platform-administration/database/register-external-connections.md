@@ -1,6 +1,7 @@
 title: Registrar conexiones externas
 Description: Tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo. 
-#Registrar conexiones externas
+# Registrar conexiones externas
+
 Esta funcionalidad tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar conexiones externas.
 

@@ -1,6 +1,7 @@
 title: Registrar ejecución del ticket
 Description: Permite registrar la ejecución del ticket.
-#Registrar ejecución del ticket
+# Registrar ejecución del ticket
+
 La funcionalidad permite registrar la ejecución del ticket.
 
 Antes de empezar

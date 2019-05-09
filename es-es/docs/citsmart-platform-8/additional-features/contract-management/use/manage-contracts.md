@@ -1,6 +1,6 @@
 title: Administrar los contratos
 Description: Gestionar los contratos ya registrados en el sistema.
-#Administrar los contratos
+# Administrar los contratos
 
 La administración de los contratos se utiliza con el objetivo de gestionar los
 contratos ya registrados en el sistema. Este proceso permite comprobar, agregar

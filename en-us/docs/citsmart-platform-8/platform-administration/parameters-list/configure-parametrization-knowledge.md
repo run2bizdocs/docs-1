@@ -1,6 +1,6 @@
 title: Configure parametrization - knowledge
 Description: It allow the execution/use of the service knowledge management system including tools to collect, store, manage, update, analyse and present all knowledge, information and data that an IT service provider needs to manage the complete lifecycle of IT services.
-#Configure parametrization - knowledge
+# Configure parametrization - knowledge
 
 
 The service knowledge management system includes tools to collect, store,

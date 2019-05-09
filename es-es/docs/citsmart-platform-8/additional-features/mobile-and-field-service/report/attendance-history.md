@@ -1,6 +1,6 @@
 title: Verificar historial de atención
 Description: Verificar el historial de atención de las solicitudes de servicios realizado por los técnicos de campo.
-#Verificar historial de atención
+# Verificar historial de atención
 
 Esta funcionalidad tiene por objetivo verificar el historial de atención de las
 solicitudes de servicios realizado por los técnicos de campo.

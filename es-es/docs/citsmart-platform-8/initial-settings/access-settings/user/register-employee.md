@@ -1,6 +1,6 @@
 title: Registrar colaborador
 Description: Permite registrar cada persona que posee algún tipo de vínculo con la organización, tales como: un empleado, un socio, etc.
-#Registrar colaborador
+# Registrar colaborador
 
 
 Esta funcionalidad permite registrar cada persona que posee algún tipo de

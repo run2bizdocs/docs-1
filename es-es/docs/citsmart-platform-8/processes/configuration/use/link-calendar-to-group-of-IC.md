@@ -1,6 +1,7 @@
 title:  Vincular calendario al grupo de elemento de configuración
 Description: Tiene por objetivo vincular un calendario al grupo de elementos de configuración. 
-#Vincular calendario al grupo de elemento de configuración
+# Vincular calendario al grupo de elemento de configuración
+
 Esta funcionalidad tiene por objetivo vincular un calendario al grupo de elementos de configuración.
 
 Antes de empezar

@@ -1,6 +1,6 @@
 title: Registrar grupo de disponibilidad
 Description: Agrupar elementos de configuración para generar índice de disponibilidad.
-#Registrar grupo de disponibilidad
+# Registrar grupo de disponibilidad
 
 Esta funcionalidad tiene por objetivo agrupar elementos de configuración para
 generar índice de disponibilidad.

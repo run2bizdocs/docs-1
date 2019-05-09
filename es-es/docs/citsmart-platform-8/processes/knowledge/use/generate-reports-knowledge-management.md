@@ -1,6 +1,6 @@
 title: Generar informes - gestión de conocimiento
 Description: Presenta la información referente a los conocimientos contenidos en la base de conocimiento.
-#Generar informes - gestión de conocimiento
+# Generar informes - gestión de conocimiento
 
 Generar informe de base de conocimiento
 -------------------------------------------

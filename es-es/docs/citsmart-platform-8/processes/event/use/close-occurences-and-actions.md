@@ -1,6 +1,7 @@
 title: Cerrar ocurrencia y acciones del evento
 Description: Tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
-#Cerrar ocurrencia y acciones del evento
+# Cerrar ocurrencia y acciones del evento
+
 Esta funcionalidad tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
 
 Antes de empezar

@@ -1,6 +1,6 @@
 title: Configure service to change password
 Description: Changing the user password is one of the possibilities allowed by the system.  
-#Configure service to change password
+# Configure service to change password
 
 The alternative to change users password is one of the possibilities released by the system. To configure this option, it's necessary to follow the procedures described here.
 

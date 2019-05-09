@@ -1,6 +1,6 @@
 title: Registrar lista negra de software
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar una Lista Negra de Software
-#Registrar lista negra de software
+# Registrar lista negra de software
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y

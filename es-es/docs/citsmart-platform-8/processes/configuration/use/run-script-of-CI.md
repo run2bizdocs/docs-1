@@ -1,6 +1,7 @@
 title:  Ejecutar script del elemento de configuración
 Description: Permite ejecutar el guión de un elemento de configuración. 
-#Ejecutar script del elemento de configuración
+# Ejecutar script del elemento de configuración
+
 Esta funcionalidad permite ejecutar el guión de un elemento de configuración.
 
 Antes de empezar

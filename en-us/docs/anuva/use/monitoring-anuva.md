@@ -13,7 +13,7 @@ Procedure
 -----------
 1. Access the main menu Analytics;
 
-2. Access one of the options available;
+2. Access one of the options available.
 
 
 !!! Abstract "NOTE"

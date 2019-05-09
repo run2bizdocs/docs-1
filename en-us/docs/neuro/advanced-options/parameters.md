@@ -1,7 +1,7 @@
 Title: Parameters  
 Description: In this screen the parameters to be used in applications created through Neuro are configured.  
 
-#Parameters  
+# Parameters  
 
 In this screen the parameters to be used in applications created through Neuro are configured. 
 
@@ -40,7 +40,8 @@ Figure 2 - Parameter listing screen
     ![Screenshot](images/Parameters-register.png)   
     Figure 4 - Parameter register screen  
 
-4. To register a parameter, enter the name, type, and description. The system will display a "Value" field according to the selected type.  
+4. To register a parameter, enter the name, type, and description. The system will display a "Value" field according to the selected type. 
+
 5. Click Save to save your changes.  
 
 !!! tip "About"

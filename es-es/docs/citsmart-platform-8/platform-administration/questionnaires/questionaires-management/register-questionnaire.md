@@ -1,6 +1,7 @@
 title:  Registrar cuestionario 
 Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar cuestionarios (formularios).
-#Registrar cuestionario
+# Registrar cuestionario
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar cuestionarios (formularios) de una manera muy genérica, multi-propósito y fácil de utilizar en otras rutinas del sistema. Es posible la importación de un cuestionario ya elaborado. Para garantizar mayor productividad, el botón "Copiar de otro cuestionario" permite al administrador que importe los cuestionarios construidos tanto en la forma anterior, como en la forma actual.
 
 Antes de empezar

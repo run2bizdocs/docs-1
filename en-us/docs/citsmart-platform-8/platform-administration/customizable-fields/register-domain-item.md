@@ -1,6 +1,6 @@
 title: Register domain item
 Description: Intended to customize the fields options of a certain system screen. To use it, you should have knowledge about the system codification.
-#Register domain item
+# Register domain item
 
 The Domain Items functionality is intended to customize the fields options of a
 certain system screen. To use it, you should have knowledge about the system

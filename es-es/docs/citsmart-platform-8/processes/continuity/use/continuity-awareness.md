@@ -1,6 +1,7 @@
 title: Registrar conciencia de la continuidad
 Description: Permite registrar la Conciencia (educación y formación) de la continuidad del servicio.
-#Registrar conciencia de la continuidad
+# Registrar conciencia de la continuidad
+
 El Registro de Continuidad es un proceso que pasa por varias fases. La cuarta fase de este proceso es la Operación Continua, donde se va definir la Conciencia (eduación y formación) de la continuidad, Revisión y Auditoría de la continuidad, Pruebas de la continuidad y la Invocación. Esta funcionalidad permite registrar la Conciencia (educación y formación) de la continuidad del servicio.
 
 Antes de empezar

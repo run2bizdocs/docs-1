@@ -1,6 +1,6 @@
 title: Registrar moneda
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar las monedas que se van utilizar en otras rutinas del sistema.
-#Registrar moneda
+# Registrar moneda
 
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar las
 monedas que se van utilizar en otras rutinas del sistema.

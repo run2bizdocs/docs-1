@@ -1,6 +1,6 @@
 title: Crear informes - Catálogo de servicios
 Description: Permite verificar las informaciones acerca del catálogo de servicios registrados.
-#Crear informes - Catálogo de servicios
+# Crear informes - Catálogo de servicios
 
 
 Este informe permite verificar las informaciones acerca del catálogo de

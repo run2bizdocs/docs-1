@@ -1,6 +1,7 @@
 title:  Gestionar datos 
 Description: Generar la exportación e importación de datos de las tablas del sistema.
-#Gestionar datos
+# Gestionar datos
+
 El objetivo de esta funcionalidad es generar la exportación e importación de datos de las tablas del sistema.
 
 Procedimiento

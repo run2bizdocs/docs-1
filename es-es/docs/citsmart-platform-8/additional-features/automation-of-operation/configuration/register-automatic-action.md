@@ -1,6 +1,6 @@
 title: Registrar acción automatica
 Description: Proporciona acciones diversas, tales como, incluir, cambiar y eliminar acciones automáticas.
-#Registrar acción automatica
+# Registrar acción automatica
 
 
 Las acciones automaticas se asocian en el registro de gerentes de eventos. Estas

@@ -1,6 +1,6 @@
 title: Registrar prioridad
 Description: Permite definir la prioridad que se utilizará para identificar la importancia del servicio e identificar los tiempos requeridos para que las acciones adecuadas sean tomadas.
-#Registrar prioridad
+# Registrar prioridad
 
 Esta funcionalidad permite definir la prioridad que se utilizará para
 identificar la importancia del servicio e identificar los tiempos requeridos

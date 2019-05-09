@@ -1,6 +1,6 @@
 title:  System audit
 Description: It allows to manage possible risks to the system
-#System audit
+# System audit
 
 This functionality allows to manage the possible risks to the system, when auditing all the executions made in the system in form of logs.
 

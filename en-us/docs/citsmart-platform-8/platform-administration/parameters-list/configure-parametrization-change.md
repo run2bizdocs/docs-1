@@ -1,6 +1,6 @@
 title: Configure parametrization - change
 Description: Process responsible for evaluating, coordinating and deciding on making proposed changes to the Services and/or Configuration Items (CIs).
-#Configure parametrization - change
+# Configure parametrization - change
 
 Change Management is the process responsible for evaluating, coordinating and
 deciding on making proposed changes to the Services and/or Configuration Items
@@ -33,8 +33,6 @@ Procedure
 | 279 |                                   Normal flow name for changes                                  |                     |                                                                                                                                     Enter the name of the normal request for change flow. This flow is defined in the "Flow Design" screen.                                                                                                                                     |               If you do not enter the parameter value, an error message appears on the Request for Change screen.              |
 | 280 |                                Name of emergency flow for changes                               |                     |                                                                                                                                    Enter the name of the emergency request for change flow. This flow is defined in the "Flow Design" screen.                                                                                                                                   |               If you do not enter the parameter value, an error message appears on the Request for Change screen.              |
 | 303 |    RFC voting using the rule of absolute majority (50% + 1) (Values: "Y" or "N" Default: "Y")   | Y or N (Default: Y) |                                                                                                                                     Define which type of voting will be used in the request for change: absolute majority rule or all vote.                                                                                                                                     |                                                         Not applicable                                                         |                                                                                               
-
-
 
 
 

@@ -1,6 +1,6 @@
 title:  Crear acción automática vía correo electrónico 
 Description: Programar la apertura automática de solicitudes de servicio vía correo electrónico.
-#Crear acción automática vía correo electrónico
+# Crear acción automática vía correo electrónico
 
 La finalidad de esta funcionalidad es programar la apertura automática de solicitudes de servicio vía correo electrónico.
 

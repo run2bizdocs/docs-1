@@ -1,6 +1,6 @@
 title: Register automatic actions of incident/request/procedure
 Description: This registration will be associated to the automatic actions, where it will be used in the registrations of CITSmart event managers Nagios, Zabbix, Inventory and Events Correlated.
-#Register automatic actions of incident/request/procedure
+# Register automatic actions of incident/request/procedure
 
 Some events will present a status where the action appropriate will need to be
 treated by the incident management process, that is, this functionality is

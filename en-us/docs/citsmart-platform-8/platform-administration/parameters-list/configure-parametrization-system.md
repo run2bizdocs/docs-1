@@ -1,6 +1,6 @@
 title: Configure parametrization - system
 Description:  Used to change the characteristics about the system authentication, inform the system URL, the several directories (GED, Log, Temporaries), define the home screen, validate buttons permission (save, delete and search), activate system log (audit), define the language preference and others.
-#Configure parametrization - system
+# Configure parametrization - system
 
 
 The "System" parametrization is used to change the characteristics about the

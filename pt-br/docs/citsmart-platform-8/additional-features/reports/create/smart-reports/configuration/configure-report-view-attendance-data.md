@@ -1,6 +1,6 @@
 title: Configurar relatório para visualizar dados de atendimento
 Description: Tem a finalidade de demostrar como configurar Smart Reports para utilizar na gestão de atendimento (Ticket management).
-#Configurar relatório para visualizar dados de atendimento
+# Configurar relatório para visualizar dados de atendimento
 
 Este documento tem a finalidade de demostrar como configurar Smart Reports para
 utilizar na gestão de atendimento (Ticket management).

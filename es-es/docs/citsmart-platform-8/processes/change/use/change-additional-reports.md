@@ -1,6 +1,6 @@
 title: Informes adicionales de un cambio
 Description: Permite hacer actividades complementares del cambio
-#Informes adicionales de un cambio
+# Informes adicionales de un cambio
 
 Hay algunos informes complementarios al cambio, que ayudan a comprender por qué la necesidad de la creación del cambio, además de entender cómo ésta fue ejecutada e implementada de forma exitosa.
 

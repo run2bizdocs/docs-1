@@ -1,6 +1,6 @@
 title: Register formula
 Description: Intended to create a formula that will be used in the contract registration.
-#Register formula
+# Register formula
 
 This functionality is intended to create a formula that will be used in the
 contract registration. To create a formula, the user must understand the

@@ -1,6 +1,6 @@
 title: Report about cost of unavailability of a service
 Description: Is intended to verify the report that demonstrates the cost per hour of unavailability of a service
-#Report about cost of unavailability of a service
+# Report about cost of unavailability of a service
 
 This document is intended to verify the report that demonstrates the cost per hour of unavailability of a service, where:
 

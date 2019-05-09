@@ -1,6 +1,6 @@
 title: Editar información de la cuenta
 Description: Tiene por objetivo editar información sobre el perfil del usuario.
-#Editar información de la cuenta
+# Editar información de la cuenta
 
 Esta funcionalidad tiene por objeto permitir editar la información de la cuenta de usuario.
 

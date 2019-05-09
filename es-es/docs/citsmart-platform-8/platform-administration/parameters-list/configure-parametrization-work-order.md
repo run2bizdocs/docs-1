@@ -1,6 +1,7 @@
 title:  Configurar parametrización - orden de servicio 
 Description: La parametrización de "Orden de Servicio" permite definir la fórmula de cálculo de la glosa de la orden
-#Configurar parametrización - orden de servicio
+# Configurar parametrización - orden de servicio
+
 La orden de servicio es un documento que proporcionará el permiso de ejecución relativo a algún servicio. La parametrización de "Orden de Servicio" permite definir la fórmula de cálculo de la glosa de la orden, habilitar firmas personalizadas en el informe de las Órdenes de Servico, dentro de otras acciones viables.
 
 Procedimiento

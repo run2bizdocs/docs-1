@@ -1,7 +1,7 @@
 Title: Introduction to Platform
 Description: Contextualization of changes and Service Management
 
-#Introduction to Platform
+# Introduction to Platform
 
 Be prepared for Change
 ----------------------

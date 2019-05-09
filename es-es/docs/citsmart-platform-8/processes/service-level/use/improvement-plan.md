@@ -1,6 +1,7 @@
 title:  Plan de mejora 
 Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar un plan de mejora. 
-#Plan de mejora
+# Plan de mejora
+
 Según ITIL, un Plan de Mejora al Servicio o, en inglés, Service Improvement Plan (SIP), es un plan formal para implementar mejoras a un proceso o servicio de TI, registrando la necesidad o oportunidad identificada.
 En esta funcionalidad, es posible registrar todos los beneficios esperados con la mejora y generar informes también, posibilitando su impresión.
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar un plan de mejora.

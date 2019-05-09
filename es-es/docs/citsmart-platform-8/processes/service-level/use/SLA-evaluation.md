@@ -1,6 +1,7 @@
 title:  Evaluación del SLA 
 Description: Esta funcionalidad tiene como objetivo generar informaciones de acuerdo de nivel de servicio. 
-#Evaluación del SLA
+# Evaluación del SLA
+
 Según ITIL, un Acuerdo de Nivel de Servicio (ANS) o, en inglés, Sevice Level Agreement (SLA), es un acuerdo entre el proveedor de servicios de TI y un cliente. El SLA describe el servicio de TI, documenta metas de nivel de servicio y especifica las responsabilidades del proveedor de servicios de TI y del cliente.
 Esta funcionalidad tiene como objetivo generar informaciones de acuerdo de nivel de servicio, donde las mismas auxiliarán en la confección de plan de calidad.
 

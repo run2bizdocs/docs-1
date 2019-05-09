@@ -677,9 +677,9 @@ Title: Perguntas Frequentes - FAQ
     
 	Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino, nos anexos.
 	
-	[Download - ScriptRhino Tabela fato][1]
+[Download - ScriptRhino Tabela fato][1]
     
-[1]:images/script-tabla-fato.zip
+[1]:images/scripts-tabla-fato.zip
 
     
 ??? Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"

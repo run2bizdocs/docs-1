@@ -1,6 +1,7 @@
 title:  El área de trabajo de la Gestión de Liberación 
 Description: Es un espacio donde están disponibles todas las liberaciones
-#El área de trabajo de la Gestión de Liberación
+# El área de trabajo de la Gestión de Liberación
+
 El área de trabajo de la Gestión de Liberación es un espacio donde están disponibles todas las liberaciones y su historial de atención, haciendo más fácil la visualización de cada elemento y sus funcionalidades. En este espacio también hay la posibilidad de innumerables acciones, como la edición, suspensión, cambiar un elemento, además de diversas otras.
 
 Antes de empezar

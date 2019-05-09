@@ -1,6 +1,6 @@
 Title: Configure Banner logo
 
-#Configure Banner logo
+# Configure Banner logo
 
 
 It's possible to change the banner in your environment so CITSmart will have the identity of your company.

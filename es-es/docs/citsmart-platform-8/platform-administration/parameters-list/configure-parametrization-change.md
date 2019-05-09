@@ -1,6 +1,7 @@
 title: Configurar parametrización – cambio
 Description: Los parámetros a ser configurados permiten ajustar el envío de notificación
-#Configurar parametrización – cambio
+# Configurar parametrización – cambio
+
 La Gestión de Cambios es el proceso responsable por evaluar, coordinar y decidir sobre la realización de cambios propuestos a los Servicios y/o Elementos de Configuración (ECs). Los parámetros a ser configurados permiten ajustar el envío de notificación, informar a los modelos de e-mail para escalar la solicitud de cambio, informar el nombre de los flujos referentes a la aplicación y definir el tipo de votación utilizado en el comité asesor de cambio, entre otras acciones.
 
 Procedimiento

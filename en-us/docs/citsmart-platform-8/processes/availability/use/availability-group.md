@@ -1,7 +1,8 @@
 title: Verify availability of availability group
 
 Description: Is intended to verify the availability group.
-#Verify availability of availability group
+# Verify availability of availability group
+
 This functionality is intended to verify the availability group.
 
 Before getting started

@@ -1,6 +1,6 @@
 title: Configurar atributos del contrato de servicio
 Description: Configurar los atributos tanto del Contrato del Servicio de Negocio/TI como del Contrato del Servicio de Apoyo/Técnico.
-#Configurar atributos del contrato de servicio
+# Configurar atributos del contrato de servicio
 
 El módulo de gestión de Portafolio permite la gestión flexible de servicios, por lo que es posible vincular uno o más contratos a un servicio específico (multicontrato). Esta característica posibilita la atención de diversos requisitos para un mismo servicio, siendo así, es posible tener para un mismo servicio diferentes flujos de atención, SLA, condiciones de operación, etc.
 
@@ -30,7 +30,7 @@ Procedimiento
 
 !!! info "Información"
 
-    La gestión de contratos se puede realizar directamente en el enlace de edición, sin embargo es importante comprobar si su perfil         tiene ese permiso.
+    La gestión de contratos se puede realizar directamente en el enlace de edición, sin embargo es importante comprobar si su       perfil tiene ese permiso.
 
 
 Lo que hacer después

@@ -1,6 +1,7 @@
 title: Cadastrar localidade
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados
-#Cadastrar localidade
+# Cadastrar localidade
+
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os locais em que os solicitantes de serviços estão alocados, podendo ser o nome da unidade, cidade, nome do órgão etc.
 
 Procedimento

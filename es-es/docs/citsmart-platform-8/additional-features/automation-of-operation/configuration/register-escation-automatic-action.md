@@ -1,6 +1,6 @@
 title: Registrar acción automatica de escalonamiento
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acción automatica de escalonamiento.
-#Registrar acción automatica de escalonamiento
+# Registrar acción automatica de escalonamiento
 
 
 Esta funcionalidad tiene como objetivo la acción de programación. Es el

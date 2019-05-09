@@ -1,6 +1,6 @@
 title: Registrar grupo de elemento de configuración
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar grupos de elementos de configuración.
-#Registrar grupo de elemento de configuración
+# Registrar grupo de elemento de configuración
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
 grupos de elementos de configuración.

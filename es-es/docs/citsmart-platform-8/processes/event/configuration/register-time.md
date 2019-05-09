@@ -1,6 +1,6 @@
 title: Registrar horario
 Description: Objetivo programar tareas.
-#Registrar horario
+# Registrar horario
 
 
 Esta funcionalidad tiene como objetivo programar tareas. Se eligen filtros de

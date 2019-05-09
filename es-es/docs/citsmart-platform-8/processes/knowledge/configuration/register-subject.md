@@ -1,6 +1,6 @@
 title: Registrar tema
 Description: Registrar el tema de un conocimiento que será utilizado en la búsqueda de Informes de Temas o Temas disponibles o no en la base de conocimiento.
-#Registrar tema
+# Registrar tema
 
 
 Esta funcionalidad tiene por objetivo registrar el tema de un conocimiento que

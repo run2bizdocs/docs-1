@@ -1,6 +1,7 @@
 title: Configurar parametrización – sistema
 Description: La parametrización del "Sistema" se utiliza para cambiar las características en lo que se refiere a cambiar la forma de autenticación en el sistema
-#Configurar parametrización – Sistema
+# Configurar parametrización – Sistema
+
 La parametrización del "Sistema" se utiliza para cambiar las características en lo que se refiere a cambiar la forma de autenticación en el sistema, informar la dirección URL del sistema, informar a los directorios diversos (GED, Log, Temporales), definir la página inicial, validar los permisos de botones (guardar, eliminar y buscar), activar el registro del sistema (auditoría), definir preferencias de idioma, dentro de otras acciones viables.
 
 Procedimiento

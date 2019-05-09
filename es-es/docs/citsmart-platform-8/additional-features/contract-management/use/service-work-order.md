@@ -1,6 +1,6 @@
 title: Registrar los servicios de las órdenes de servicios (OS)
 Description: Registrar los servicios de órdenes de servicio (OS).
-#Registrar los servicios de las órdenes de servicios (OS)
+# Registrar los servicios de las órdenes de servicios (OS)
 
 Esta funcionalidad tiene el objetivo de registrar los servicios de órdenes de
 servicio (OS).

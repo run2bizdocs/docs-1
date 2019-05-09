@@ -1,6 +1,6 @@
 title: Configurar permiso de acceso de la gestión de solicitudes/incidentes
 Description: Definir quién tendrá acceso a las funciones de la pantalla de Gestión de Solicitudes e Incidentes, además de qué tipo de acceso está permitido (ver, guardar y/o eliminar).
-#Configurar permiso de acceso de la gestión de solicitudes/incidentes
+# Configurar permiso de acceso de la gestión de solicitudes/incidentes
 
 La funcionalidad de Permiso de Acceso permite definir quién tendrá acceso a las
 funciones de la pantalla de Gestión de Solicitudes e Incidentes, además de qué

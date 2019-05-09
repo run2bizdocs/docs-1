@@ -1,6 +1,6 @@
 title: Registrar grado de satisfacción de la atención
 Description: Permitir la configuración del grado de satisfacción de la atención del servicio.
-#Registrar grado de satisfacción de la atención
+# Registrar grado de satisfacción de la atención
 
 
 La finalidad de esta funcionalidad es permitir la configuración del grado de

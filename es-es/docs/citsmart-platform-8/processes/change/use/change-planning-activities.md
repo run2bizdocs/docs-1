@@ -1,6 +1,6 @@
 title: Actividades de la fase de planificación del cambio
 Description: Permite planificar las actividades a realizar junto al cambio 
-#Actividades de la fase de planificación del cambio 
+# Actividades de la fase de planificación del cambio 
 
 Esta funcionalidad permite planificar las actividades a realizar junto al cambio.
 
@@ -26,7 +26,7 @@ Procedimiento
     por la ejecución de las tareas, dentre otros. También es permitido vincular un
     cuadro ya creado al hacer clic  en otro botón relacionado al “Workspace”.
 
-4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y adjuntos de archivos para detallar la ejecución del     cambio. Para ello, es necesario hacer clic en cada pestaña disponible, seleccionar el elemento deseado para vincularlo al cambio.
+4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y adjuntos de archivos para detallar la ejecución del cambio. Para ello, es necesario hacer clic en cada pestaña disponible, seleccionar el elemento deseado para vincularlo al cambio.
 
     !!! Abstract "NOTA"
     

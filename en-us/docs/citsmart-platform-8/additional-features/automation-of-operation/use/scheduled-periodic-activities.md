@@ -1,6 +1,7 @@
 title: Verify scheduled periodic activities
 Description:Allows to view the activities scheduled.
-#Verify scheduled periodic activities
+# Verify scheduled periodic activities
+
 This functionality is intended to verify the scheduled activities related to request and incident management, problem management, change management and release management to execute them.
 In this screen, in a calendar format, allows to view the activities scheduled.
 

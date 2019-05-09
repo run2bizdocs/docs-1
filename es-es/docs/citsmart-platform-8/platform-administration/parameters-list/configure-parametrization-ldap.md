@@ -1,6 +1,6 @@
 title:  Configurar parametrización – LDAP 
 Description: Esta configuración de parámetros conectados a la integración con LDAP 
-#Configurar parametrización – LDAP
+# Configurar parametrización – LDAP
 
 A diferencia de los demás parámetros del producto, esta configuración de parámetros conectados a la integración con LDAP se produce de forma implícita mediante la funcionalidad de configuración LDAP o de forma explícita mediante la funcionalidad Parámetros de CITSmart.
 

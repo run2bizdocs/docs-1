@@ -1,6 +1,6 @@
 title: Crear portafolio de liberación
 Description: Crea un portafolio de liberaciones para agilizar la creación de una nueva liberación al agruparlas por criterios específicos.
-#Crear portafolio de liberación
+# Crear portafolio de liberación
 
 
 Esta funcionalidad crea un portafolio de liberaciones para agilizar la creación

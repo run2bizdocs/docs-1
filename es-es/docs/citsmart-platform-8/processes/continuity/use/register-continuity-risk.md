@@ -1,6 +1,7 @@
 title:  Registrar riesgo de la continuidad
 Description: Tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad.
-#Registrar riesgo de la continuidad
+# Registrar riesgo de la continuidad
+
 Esta funcionalidad tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad
 
 Antes de empezar

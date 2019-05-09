@@ -1,6 +1,6 @@
 title: Generar informes - gestión de eventos
 Description: Presentar las ocurrencias de eventos que se almacenaron en la base de datos de eventos (MongoDB).
-#Generar informes - gestión de eventos
+# Generar informes - gestión de eventos
 
 Este informe tiene el objetivo de presentar las ocurrencias de eventos que se
 almacenaron en la base de datos de eventos (MongoDB).

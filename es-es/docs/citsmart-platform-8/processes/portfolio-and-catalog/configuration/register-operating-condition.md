@@ -1,6 +1,6 @@
 title: Registrar condición de operación
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la disponibilidad de la operación de servicios.
-#Registrar condición de operación
+# Registrar condición de operación
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar la

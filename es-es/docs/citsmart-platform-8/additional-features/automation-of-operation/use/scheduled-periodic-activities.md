@@ -1,6 +1,6 @@
 title: Verificar acitividades periódicas programadas
 Description: Verificar las actividades programadas referentes a la gestión de solicitudes e incidentes, gestión de problemas, gestión de cambios y gestión de liberación para la ejecución.
-#Verificar acitividades periódicas programadas
+# Verificar acitividades periódicas programadas
 
 
 Esta funcionalidad tiene por objetivo verificar las actividades programadas

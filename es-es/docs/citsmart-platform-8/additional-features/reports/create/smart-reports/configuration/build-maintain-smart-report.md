@@ -1,6 +1,6 @@
 title: Construir y mantener informes Smart - V. 8.0
 Description: Proveer la facilidad de elaboración de informes personalizados con los datos de las funcionalidades requeridas, sin necesidad de nuevas actualizaciones o software adicional.
-#Construir y mantener informes Smart - V. 8.0
+# Construir y mantener informes Smart - V. 8.0
 
 
 Esta funcionalidad tiene el objetivo de proveer la facilidad de elaboración de

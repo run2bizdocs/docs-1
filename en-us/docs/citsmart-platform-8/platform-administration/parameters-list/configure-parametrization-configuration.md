@@ -1,6 +1,6 @@
 title: Configure parametrization - configuration
 Description: It performed to allow the execution/use of the process to establish and maintain the consistency of a product's performance, its functional attributes, and other operational information throughout its life.
-#Configure parametrization - configuration
+# Configure parametrization - configuration
 
 Configuration Management is the registration and detailed updating of
 information that describes a company's hardware and software. It is a process to

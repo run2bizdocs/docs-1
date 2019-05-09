@@ -1,6 +1,7 @@
 title: Configure mandatory fields
 Description: The manager is responsible to choose which fields will be mandatory for users to complete.
-#Configure mandatory fields
+# Configure mandatory fields
+
 By configuring the mandatory fields, the manager will choose which fields will be mandatory for users to complete when contacting the attendants. Its purpose is to get the necessary information form the requesters to solve their request.
 
 Procedure

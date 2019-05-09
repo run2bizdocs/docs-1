@@ -1,6 +1,6 @@
 title: Relacionar informaciones al cambio
 Description: Permite vincular al Cambio una serie de informaciones
-#Relacionar informaciones al cambio 
+# Relacionar informaciones al cambio 
 
 Es posible vincular al Cambio una serie de informaciones, tales como: liberación, conocimiento, problema, dentro de otros, con el fin de solidificar y basar la ejecución del proceso.  
 

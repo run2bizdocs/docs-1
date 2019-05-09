@@ -1,6 +1,6 @@
 title: Registrar contrato
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un contrato.
-#Registrar contrato
+# Registrar contrato
 
 
 El contrato es un acuerdo entre dos partes, que se obligan a cumplir lo

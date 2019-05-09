@@ -1,6 +1,6 @@
 title: Registrar acción automatica de cambio
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acciones automáticas del tipo cambio.
-#Registrar acción automatica de cambio
+# Registrar acción automatica de cambio
 
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará

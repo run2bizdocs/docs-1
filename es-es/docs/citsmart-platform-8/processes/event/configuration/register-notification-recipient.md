@@ -1,6 +1,6 @@
 title: Registrar destinatario de la notificación
 Description: Configurar los destinatarios que van recibir las notificaciones. El destinatario puede ser uno o más colaboradores y/o grupos.
-#Registrar destinatario de la notificación
+# Registrar destinatario de la notificación
 
 Esta funcionalidad tiene como objetivo configurar los destinatarios que van
 recibir las notificaciones. El destinatario puede ser uno o más colaboradores

@@ -1,6 +1,7 @@
 title:  Buscar ticket en modo avanzado 
 Description: Permite refinar la búsqueda por tickets a través de filtros. 
-#Buscar ticket en modo avanzado
+# Buscar ticket en modo avanzado
+
 La funcionalidad permite refinar la búsqueda por tickets a través de filtros.
 
 Antes de empezar

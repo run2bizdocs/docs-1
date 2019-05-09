@@ -1,6 +1,7 @@
 title: Registrar continuidad del servicio
 Description: Permite registrar la continuidad de determinado servicio. 
-#Registrar continuidad del servicio
+# Registrar continuidad del servicio
+
 La Gestión de Continuidad se centra en recuperar los servicios de TI y sus componentes ante un evento de desastre.
 Esta funcionalidad permite registrar la continuidad de determinado servicio.
 

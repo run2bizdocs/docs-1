@@ -1,6 +1,6 @@
 title: Registrar menú
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un menú.
-#Registrar menú
+# Registrar menú
 
 Esta funcionalidad tiene como objetivo permitir al usuario la configuración de
 los elementos del menú, según sus preferencias. Proporcionar mejor usabilidad en

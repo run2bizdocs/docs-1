@@ -1,7 +1,7 @@
 Title: Database  
 Description:By using this screen the user can register the databases used by Neuro.
 
-#Database  
+# Database  
 
 By using this screen the user can register the databases used by Neuro.  
 

@@ -19,7 +19,7 @@ Procedure
 1.  Access the functionality Time of Attendance through the main menu Processes
     \> Service Level Management \> Attendance Time;
 
-2.  Set the type of attendance time and click on the corresponding tab:
+2.  Set the type of attendance time and click on the corresponding tab;
 
 3.  Complete all mandatory field in **Basic Data**;
 

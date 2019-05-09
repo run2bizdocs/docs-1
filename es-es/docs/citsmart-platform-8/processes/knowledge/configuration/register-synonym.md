@@ -1,6 +1,6 @@
 title: Registrar sinónimo
 Description: Objetivo mantener el registro de palabras sinónimas para búsqueda en la base de conocimiento.
-#Registrar sinónimo
+# Registrar sinónimo
 
 
 Esta funcionalidad tiene por objetivo mantener el registro de palabras sinónimas

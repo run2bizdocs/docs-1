@@ -1,6 +1,6 @@
 title: Cadastrar categoria de questionário
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir categorias de questionários que serão utilizadas para filtragem e organização dos mesmos registrados na base.
-#Cadastrar categoria de questionário
+# Cadastrar categoria de questionário
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir categorias de questionários que serão utilizadas para filtragem e

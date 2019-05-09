@@ -1,6 +1,6 @@
 title: Registrar grupos de suscripciones
 Description: Permite registrar los grupos de suscripción que serán impresos en los informes.
-#Registrar grupos de suscripciones
+# Registrar grupos de suscripciones
 
 
 Esta funcionalidad permite registrar los grupos de suscripción que serán

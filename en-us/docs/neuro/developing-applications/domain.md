@@ -1,6 +1,6 @@
 title: Domain
 Description: Domain
-#Domain
+# Domain
 
 Neuro allows to define domains that will be used by all application of the
 institution. The identifier (Key) groups the Domain items.

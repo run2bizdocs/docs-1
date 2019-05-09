@@ -1,6 +1,7 @@
 title:  Cambiar grupo de elemento de configuración
 Description: Tiene por objeto cambiar la información en el grupo de elementos de configuración.
-#Cambiar grupo de elemento de configuración
+# Cambiar grupo de elemento de configuración
+
 Esta funcionalidad tiene por objeto cambiar la información en el grupo de elementos de configuración. Este campo sólo estará activo si se crea el grupo dentro de la pantalla CMDB.
 
 Antes de empezar

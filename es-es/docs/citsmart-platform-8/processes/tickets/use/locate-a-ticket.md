@@ -1,6 +1,7 @@
 title: Buscar ticket
 Description: La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
-#Buscar ticket
+# Buscar ticket
+
 La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
 
 Antes de empezar

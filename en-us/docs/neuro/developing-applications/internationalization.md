@@ -1,6 +1,6 @@
 title: Internationalization
 Description: Internationalization
-#Internationalization
+# Internationalization
 
 Neuro uses labels (Keys) to perform the internationalization of the forms each
 field assigned at the form can use a label and those labels are attached to an

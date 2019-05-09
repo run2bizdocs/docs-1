@@ -1,121 +1,117 @@
-title: Configurar atividade de usuário no fluxo
-Description: Este documento tem por objetivo configurar a atividade dentro de fluxo chamada tarefa de usuário. 
-# Configurar atividade de usuário no fluxo 
+title: Configurar actividad de usuario en el workflow
+Description: Este documento tiene por objetivo configurar la actividad tarea de usuario dentro del workflow. 
+# Configurar actividad de usuario en el workflow 
 
-Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Atividade de usuário. Este documento tem por objetivo orientar quanto a configuração deste elemento no fluxo de trabalho.
+Al diseña un workflow, es posible insertar diversos elementos, entre ellos, la Actividad de usuario. Este documento tiene como objetivo orientar la configuración de este elemento en el workflow.
 
-Antes de começar
+Antes de empezar
 ---------------
-Para utilizar o elemento "Atividade de Usuário" é necessário, no mínimo, ter um fluxo cadastrado na ferramenta contendo os elementos de eventos: "início" e "fim".
+Para utilizar el elemento "Actividad de Usuario" es necesario, como mínimo, tener un workflow registrado en la herramienta, conteniendo los elementos de eventos: "inicio" y "fin".
 
 
 !!! Abstract "NOTA"
 
-    Dentro da aba *Interface*, escolhendo o Tipo de Interação "Formulário Neuro": possuir 2 formulários de Neuro distintos e         configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. 
-    É necessário também criar o Template de Ticket para cada um dos formulários.
-
-Procedimento
+    Dentro de la pestaña *Interfaz*, eligiendo el Tipo de Interacción "Formulario Neuro": poseer 2 
+    formularios de Neuro distintos y configurados para que el formulario de creación sea mostrado 
+    junto al formulario de monitoreo. Es necesario también crear la Plantilla de Ticket para cada uno de 
+    los formularios.
+   
+Procedimiento
 ------------
 
-1.	Acessar o menu principal Workflow > Desenho de fluxo;
-2.	Clicar no botão “Novo”;
-3.	Clicar na aba Diagrama e em seguida na guia Atividade;
-4.	Clicar no elemento Tarefa de Usuário e arrastá-lo até o painel de criação de fluxo;
-5.	Serão abertas as seguintes abas de configuração do elemento:
+1.	Acceder al menú Workflow > Diseño de flujo;
+2.	Hacer clic en "Nuevo”;
+3.	Hacer clic en la pestaña Diagrama y después en Actividad;
+4.	Hacer clic en el elemento de tarea de usuario y arrástrelo al panel de creación de workflow;
+5.	Se abrirán las siguientes pestañas de configuración del elemento:
 
-**Identificação**
+**Identificación**
 
-*	Nome: nome da tarefa de usuário;
+*	Nombre: nombre de la tarea de negocio;
 
-*	Descrição: detalhar a tarefa de usuário;
+*	Descripción: detallar la tarea de usuario;
 
-*	Tipo de instância:
+*	Tipo de instancia:
 
-    *	Uma única instância: só pode ter uma única instância não executada da tarefa no fluxo;
+    *	Una solo instancia: sólo puede tener una sola instancia no ejecutada de la tarea en el workflow;
     
-    *	Mais de uma instância controlada pelo fluxo: pode ter várias instâncias não executadas da tarefa;
+    *	Más de una instancia controlada por el workflow: puede tener varias instancias no ejecutadas de la tarea;
     
-    *	Criar uma instância para cada usuário: na atribuição, se houver ponto e vírgula nos usuários, será criada uma tarefa para cada usuário;
+    *	Crear una instancia para cada usuario: en la asignación, si hay punto y coma en los usuarios, se creará una tarea para cada usuario;
 
-*	Identificador: é uma sigla única pra tarefa serve pra codificar Rhino e pra formulários do neuro;
+*	Identificador: es una sigla única para la tarea. Se sirve para codificar Rhino y para formularios del Neuro;
 
-*	Contabiliza SLA: definir se “Sim” ou “Não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
+*	Cuenta SLA: definir si "Sí" o "No" (el status "SLA Suspendida" aparecerá en la interfaz de gestión de tickets);
 
-*	Percentual de execução: campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
+*	Percentaje de ejecución: campo informativo de la cantidad que esa tarea del flujo tiene en todo el workflow;
 
-*	É uma tarefa de aprovação?: definir se “Sim” ou “Não”;
+*	¿Es una tarea de aprobación?: definir si "Sí" o "No";
 
-**Atribuição**
+**Asignación**
 
-*	Tipo de destinatário: selecionar se será para grupo ou usuário específico
+*	Tipo de destinatario: seleccionar si será para grupo o usuario específico
 
-*	Tipo atribuição: definir se a atribuição será de execução ou de acompanhamento
+*	Tipo asignación: definir si la asignación será de ejecución o de monitoreo
 
-*	Grupo/Usuário: selecionar o grupo/usuário
+*	Grupo/Usuario: seleccionar el grupo/usuário
 
-*	Ou Expressão: buscar por expressão já cadastrada previamente
+*	O Expresión: buscar por expresión ya registrada previamente
 
-**Ações do usuário**
+**Acciones del usuario**
 
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente (ex. ação de aprovação, ou seja, uma expressão com essa finalidade);
+*	Seleccione la acción de registro: buscar por acción ya registrada previamente (por ejemplo: acción de aprobación, es decir, una expresión con esa finalidad);
 
-**Ação de entrada**
+**Acción de entrada**
 
-*	Construir expressão: definir uma expressão diretamente
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
+*	Construir expresión: definir una expresión directamente
+*	Seleccione la acción del registro: buscar por la acción ya registrada previamente
 
-**Ação de saída**
+**Acción de salida**
 
-*	Construir expressão: definir uma expressão diretamente
+*	Construir expresión: definir una expresión diretamente
 
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
+*	Seleccione la acción del registro: buscar por la acción ya registrada previamente
 
-**Interface**
+**Interfaz**
 
-*	Tipo de interação: é o modo com que um Questionário ou um Formulário Neuro vai ser aplicado na interface de gestão de ticket em um determinado estado do fluxo. A configuração dos itens que estarão visíveis pode ser definida no portfólio ou configurado diretamente no elemento Atividade de Usuário (do fluxo):
+*	Tipo de interacción: es el modo en que un Cuestionario o un Formulario Neuro se aplicará en la interfaz de gestión de tickets en un status determinado del workflow. La configuración de los elementos que serán visibles se puede definir en el portafolio, o configurada directamente en el elemento Actividad de Usuario (del workflow):
 
-    *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
+    *	Definido en el portafolio: es posible que una plantilla de ticket (cuestionario o formulario) aparezca puntualmente en un status del workflow, utilizando lo que se configuró en el atributo de servicio "Actividad" (solicitud/incidente) - campos: “Plantilla CREACIÓN” Y “Plantilla monitoreo”. Esta opción es ventajosa cuando se tienen workflows genéricos utilizados por varios servicios.
 
-    *	Formulário padrão: default do sistema 
+    *	Formulario estándar: default del sistema 
 
-    *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
+    *	Formulario Neuro: tiene un identificador para llamar el workflow disparado por este formulario
 
-*	Template (Padrão/Neuro): permite a vinculação de template de ticket.
+*	Plantilla (Estándar/Neuro): permite la vinculación de plantilla de ticket.
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "ATENCIÓN"
 
-        Caso não ocorra a vinculação de nenhum template de solicitação de serviço na aba interface, o sistema subentenderá e 
-        aplicará as configurações de um formulário padrão, habilitando a vinculação de item de configuração, mudança, problema
-        e solicitação relacionada ao ticket tela de gerenciamento de solicitação de serviço.
+        En caso de no ocurrir la vinculación de ninguna plantilla de solicitud de servicio en la pestaña interfaz, el sistema
+        subentendirá y aplicará la configuración de un formulario estándar, habilitando la vinculación de elemento de 
+        configuración, cambio, problema y solicitud relacionada con el ticket de la pantalla de gestión de solicitud de servicio.
     
-*	Permite direcionar para grupo: possibilita a ativação/desativação da opção "Direcionar para grupo" no cadastro de um ticket;
+*	Permite dirigir a grupo: permite la activación/desactivación de la opción "Dirigir a grupo" en el registro de un ticket;
 
-*	Permite alteração da situação: torna visível/invisível as opções de atendimento do ticket (Registrada/Em andamento; Resolvida e Cancelada);
+*	Permite cambio de status: hace visible/invisible las opciones de atención del ticket (Registrada/En curso; Resuelta y Cancelada);
 
-*	Habilita notificação e-mail: torna visível/invisível as opções de notificação por e-mail;
+*	Habilita notificación por correo electrónico: hace visible/invisible las opciones de notificación por correo electrónico;
 
-*	Permite delegar atendimento: possibilita a ativação/desativação da opção "Delegar" para que esta esteja visível no menu opções do gerenciamento de um ticket;
+*	Permite delegar atención: permite la activación/desactivación de la opción "Delegar" para que ésta sea visible en el menú de opciones de la gestión de un ticket;
 
-*	Permite alterar dados da tela: possibilita a edição de questionários na tela de gerenciamento do ticket.
+*	Permite cambiar datos de la pantalla: permite la edición de cuestionarios en la pantalla de gestión de ticket.
 
-!!! Abstract "REGRA"    
+!!! Abstract "REGLA"    
     
-    As normativas configuradas no fluxo terão prioridade em relação às marcações do template de solicitação de serviço,
-    pois esta é um complemento do fluxo.
+    Las normativas configuradas en el workflow tendrán prioridad en relación a las marcas de la plantilla de solicitud de 
+    servicio, pues ésta es un complemento del workflow.
     
-**Base de conhecimento**
+**Base de conocimiento**
 
-   *  Vincular base de conhecimento: escolher o conhecimento que deseja
-       vincular a tarefa de usuário.
+   *  Vincular base de conocimiento: elegir el conocimiento que desea vincular la tarea de usuario.
 
-!!! Abstract "ATENÇÃO"
+!!! Abstract "ATENCIÓN"
 
-    O objetivo principal desta vinculação de conhecimento é permitir que o
-    atendente de uma requisição/incidente tenha facilmente acesso a ele. Assim
-    que o fluxo chegue na atividade do fluxo vinculado a um conhecimento, o
-    botão “Conhecimentos” é mostrado no canto superior direito da tela de
-    Requisição/Incidente para dar acesso de leitura ao conteúdo, para tanto, tal
-    conhecimento geralmente é escrito na forma de um passo a passo.
+    El objetivo principal de esta vinculación de conocimiento es permitir que el asistente de una solicitud/incidente tenga fácil acceso. Una vez que el workflow llegue a la actividad del flujo vinculado a un conocimiento, el botón "Conocimientos" se muestra en la esquina superior derecha de la pantalla de Solicitud/Incidente para dar acceso de lectura al contenido, para ello, tal conocimiento generalmente está escrito en la forma de un paso a paso.
     
     
 !!! tip "About"

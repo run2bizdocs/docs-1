@@ -1,6 +1,6 @@
 title: Generar informes por panel de gráficos e informes - solicitud e incidente
 Description: Proporciona diferentes tipos de gráficos e informes referentes a la solicitud e incidente
-#Generar informes por panel de gráficos e informes - solicitud e incidente
+# Generar informes por panel de gráficos e informes - solicitud e incidente
 
 
 Se tratan los siguientes temas sobre cómo generar gráficos e informes para

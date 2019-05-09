@@ -1,6 +1,6 @@
 title: Configurar informe para ver datos de la atención
 Description: Demostrar cómo configurar los Smart Reports para utilizarlos en la gestión de la atención (Ticket management).
-#Configurar informe para ver datos de la atención
+# Configurar informe para ver datos de la atención
 
 
 Este documento tiene el propósito de demostrar cómo configurar los Smart Reports

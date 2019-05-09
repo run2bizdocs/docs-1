@@ -14,7 +14,7 @@ Procedure
 -------------
 
 1.  Access the functionality Provider through the main menu Processes \>
-    Portfolio and Catalog Management \> Provider.
+    Portfolio and Catalog Management \> Provider;
 
 2.  Complete all mandatory fields;
 

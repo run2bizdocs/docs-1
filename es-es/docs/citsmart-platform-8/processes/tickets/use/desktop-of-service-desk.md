@@ -1,6 +1,7 @@
 title: La área de trabajo del service desk
 Description: La área de trabajo del Service Desk es un espacio donde están disponibles todos los tickets.
-#La área de trabajo del service desk
+# La área de trabajo del service desk
+
 La área de trabajo del Service Desk es un espacio donde están disponibles todos los tickets y sus históricos de atención, haciendo que la visualización de cada elemento con sus principales informaciones sea más fácil. En este espacio también hay la posibilidad de innumerables acciones como la edición, la impresión, la suspensión de un ítem y otras.
 
 Antes de empezar
@@ -26,7 +27,7 @@ Procedimiento
     
 !!! Abstract "REGLA"
 
-    La eficacia de la consulta depende del seguimiento de algunas reglas de permiso por el filtro, tales como: ejecución, delegación,       seguimiento, visualización, grupos de usuarios, vínculo con contrato, unidades y colaborador conectado .
+    La eficacia de la consulta depende del seguimiento de algunas reglas de permiso por el filtro, tales como: ejecución, delegación, seguimiento, visualización, grupos de usuarios, vínculo con contrato, unidades y colaborador conectado .
 
 Relacionado
 -----------

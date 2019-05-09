@@ -1,6 +1,7 @@
 title: Registrar justificación de liberación
 Description: Tiene por objetivo registrar la justificación de liberación que será utilizada en otras rutinas del sistema 
-#Registrar justificación de liberación
+# Registrar justificación de liberación
+
 Esta funcionalidad tiene por objetivo registrar la justificación de liberación que será utilizada en otras rutinas del sistema, como por ejemplo en la suspensión de una Liberación.
 
 Procedimiento

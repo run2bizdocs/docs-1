@@ -1,6 +1,6 @@
 title: Register external connections
 Description: Intended to allow the connection creation with other database, being internal or external.
-#Register external connections
+# Register external connections
 
 This functionality is intended to allow the connection creation with other
 database, being internal or external.

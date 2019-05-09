@@ -1,6 +1,7 @@
 title:  Dirigir ticket 
 Description: La funcionalidad permite dirigir la atención de la solicitud/incidente para el grupo 
-#Dirigir ticket
+# Dirigir ticket
+
 La funcionalidad permite dirigir la atención de la solicitud/incidente para el grupo q o atendimento da solicitação/incidente para el grupo que quieras.
 
 Antes de empezar

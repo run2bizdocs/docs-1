@@ -1,6 +1,7 @@
 title: Cambiar datos del elemento de configuración
 Description: Permite editar datos de un elemento de configuración
-#Cambiar datos del elemento de configuración
+# Cambiar datos del elemento de configuración
+
 Esta funcionalidad permite editar datos de un elemento de configuración. Los cambios de elementos de configuración se guardan en un historial. Cada vez que se modifica el elemento, se inserta una nueva versión con los cambios.
 
 Antes de empezar

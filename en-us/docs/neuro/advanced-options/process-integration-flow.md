@@ -1,7 +1,7 @@
 Title: Process Integration Flow  
 Description:The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.
 
-#Process Integration Flow  
+# Process Integration Flow  
 
 The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.  
 
@@ -152,9 +152,9 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 
 1. The elements that can be added to the workflow are in the palette in the left corner of the screen. These elements are subdivided into:  
 
-    - Events: "They trigger, interrupt, change or terminate the process. These events are classified as start, intermediate or end           events, depending on when they occur in the process. "  
-    - Tasks: "It's the smallest part of a process. It is an action, not a function, nor the state of a product or service. It is "what"     to do, so it must be written with the verb in the infinitive. "  
-    - Gateways: "They direct the process, dividing or converging activities in the flow, usually representing a point of control in the      process. "  
+    - Events: "They trigger, interrupt, change or terminate the process. These events are classified as start, intermediate or end events, depending on when they occur in the process."  
+    - Tasks: "It's the smallest part of a process. It is an action, not a function, nor the state of a product or service. It is "what" to do, so it must be written with the verb in the infinitive."  
+    - Gateways: "They direct the process, dividing or converging activities in the flow, usually representing a point of control in the process."  
 
     ![Screenshot](images/Process-fig08.png) 
     Figure 8 - Register/edit workflow, Diagram tab  
@@ -178,10 +178,10 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 	    - Instance type.  
 
 3. Variables  
-    - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be       for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
+    - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
 
 4. User Actions  
-    - The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action**           selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the         same ones that were registered in the "Actions" tab of the workflow register.  
+    - The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action** selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the same ones that were registered in the "Actions" tab of the workflow register.  
 
 5. Interface
 

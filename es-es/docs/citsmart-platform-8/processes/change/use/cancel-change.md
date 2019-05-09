@@ -1,6 +1,6 @@
 title: Cancelar cambio
 Description: Permite cancelar el cambio inútil a la empresa
-#Cancelar cambio 
+# Cancelar cambio 
 
 Esta funcionalidad permite cancelar el cambio que se ha vuelto inútil o obsoleta a la organización.
 

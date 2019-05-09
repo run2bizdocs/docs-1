@@ -1,6 +1,7 @@
 title: Register work order (WO) formula
 Description:Is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
-#Register work order (WO) formula
+# Register work order (WO) formula
+
 This functionality is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
 
 Procedure

@@ -1,6 +1,6 @@
 title: Registrar media definitiva
 Description: Registrar las versiones definitivas y autorizadas de todos los Elementos de Configuración de software de manera segura.
-#Registrar media definitiva
+# Registrar media definitiva
 
 
 Esta funcionalidad tiene por objeto registrar las versiones definitivas y

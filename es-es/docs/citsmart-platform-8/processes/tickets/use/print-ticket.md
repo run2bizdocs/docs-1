@@ -1,6 +1,7 @@
 title:  Imprimir ticket 
 Description: Tiene como objetivo permitir imprimir el resumen de los datos principales del ticket deseado. 
-#Imprimir ticket
+# Imprimir ticket
+
 Esta funcionalidad tiene como objetivo permitir imprimir el resumen de los datos principales del ticket deseado.
 
 Antes de empezar

@@ -1,5 +1,5 @@
 title: Panel Inicial
-#Panel Inicial
+# Panel Inicial
 
 El panel inicial se muestra en la pantalla principal del sistema. En este panel, es posible añadir dashboards desde una plantilla o seleccionando manualmente. En esta área también están disponibles recursos para creación de atajos (links), visualización de informes y dashboads. Hay información relevante.
 

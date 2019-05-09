@@ -1,6 +1,7 @@
 title: Verificar log del sistema
 Description: Tiene por objeto comprobar el registro del sistema para el camino de auditoría.
-#Verificar log del sistema
+# Verificar log del sistema
+
 Esta funcionalidad tiene por objeto comprobar el registro del sistema para el camino de auditoría.
 
 !!! Abstract "NOTA"

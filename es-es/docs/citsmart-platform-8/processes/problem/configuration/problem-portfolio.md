@@ -1,6 +1,6 @@
 title: Crear portafolio de problema
 Description: Tiene por objetivo crear un portafolio de problemas
-#Crear un portafolio de problema
+# Crear un portafolio de problema
 
 
 Esta funcionalidad tiene por objeto crear un portafolio de problemas para agilizar la creación

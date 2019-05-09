@@ -1,6 +1,6 @@
 title: Registrar notificación por correo electrónico
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar notificación por correo electrónico.
-#Registrar notificación por correo electrónico
+# Registrar notificación por correo electrónico
 
 
 La funcionalidad de Notificación por Correo Electrónico tiene por objetivo

@@ -1,6 +1,6 @@
 title: Register degree of attendance satisfaction
 Description: Allow the configuration of the satisfaction degree of service attendance.
-#Register degree of attendance satisfaction
+# Register degree of attendance satisfaction
 
 The purpose of this functionality is to allow the configuration of the
 satisfaction degree of service attendance.

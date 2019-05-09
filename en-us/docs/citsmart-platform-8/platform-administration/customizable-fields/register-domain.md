@@ -1,6 +1,6 @@
 title: Register domain
 Description: Intended to register the domain to insert new domain items, that is, new options in the field of a certain system screen.
-#Register domain
+# Register domain
 
 The Domain functionality is intended to register the domain to insert new domain
 items, that is, new options in the field of a certain system screen. To use it,

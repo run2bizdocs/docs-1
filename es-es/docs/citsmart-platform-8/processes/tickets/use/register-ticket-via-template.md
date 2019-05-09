@@ -1,6 +1,7 @@
 title: Registrar ticket via plantilla
 Description: Permite el registro del ticket via plantilla.
-#Registrar ticket via plantilla
+# Registrar ticket via plantilla
+
 Esta funcionalidad permite el registro del ticket via plantilla.
 
 Antes de empezar

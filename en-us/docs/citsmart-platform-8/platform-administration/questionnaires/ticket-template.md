@@ -1,6 +1,7 @@
 title: Register ticket template
 Description: This feature provides a variety of actions, such as including, changing, and deleting ticket template. 
-#Register ticket template
+# Register ticket template
+
 This functionality is intended to enable some functionalities in the service request screen (ticket).
 This feature provides a variety of actions, such as including, changing, and deleting ticket template.
 

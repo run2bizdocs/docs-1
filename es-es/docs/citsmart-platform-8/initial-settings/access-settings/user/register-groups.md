@@ -1,6 +1,6 @@
 title: Registrar grupo
 Description: Permite el registro de grupos y el vínculo con usuarios, perfil, contratos y correos electrónicos para notificación.
-#Registrar grupo
+# Registrar grupo
 
 
 Un grupo es un conjunto de uno o más empleados que tienen los mismos objetivos

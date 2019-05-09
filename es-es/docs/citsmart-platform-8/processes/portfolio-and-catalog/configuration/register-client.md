@@ -1,6 +1,6 @@
 title: Registrar cliente
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la búsquedas por clientes.
-#Registrar cliente
+# Registrar cliente
 
 
 El cliente es una organización o persona que solicita productos y/o servicios.

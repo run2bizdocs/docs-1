@@ -1,6 +1,6 @@
 title: Configure parametrization - chat
 Description: Allow to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
-#Configure parametrization - chat
+# Configure parametrization - chat
 
 The notion of "Chat" is used to allude to the exchange of written messages of
 instantaneous form. In this case, it allows the user to have the right contact

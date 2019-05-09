@@ -1,6 +1,6 @@
 Title: Package
 Description: When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
-#Package  
+# Package  
 
 When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
 
@@ -37,7 +37,7 @@ Figure 2 - Package listing screen
 
     !!! Abstract "ATTENTION"  
 
-        To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as the             Neuro that will import it.  
+        To ensure compatibility, it is strongly recommended that the Neuro version that created exported package be the same as         the Neuro that will import it.  
 
 7. To view an item, select the item and click View.  
 

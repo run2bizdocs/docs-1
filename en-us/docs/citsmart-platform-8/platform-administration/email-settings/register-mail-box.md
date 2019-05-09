@@ -1,6 +1,7 @@
 title: Register mailbox
 Description: This functionality is designed to configure the sending and receiving of email from different servers in order to meet different contracts 
-#Register mailbox
+# Register mailbox
+
 This functionality is designed to configure the sending and receiving of email from different servers in order to meet different contracts, so a CITSmart can serve different clients and each one will have its own mailbox. In this case, you can use a send/read email account (e.g.: email@company.com) on an XPTO company contract, and another email account belonging to a different business agreement (e.g.: email@company2.com).
 
 Procedure

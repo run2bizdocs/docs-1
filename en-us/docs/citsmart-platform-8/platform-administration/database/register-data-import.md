@@ -1,6 +1,6 @@
 title: Register data import
 Description: Import the data from another database to the CITSmart database.
-#Register data import
+# Register data import
 
 The purpose of this functionality is to import the data from another database to
 the CITSmart database.

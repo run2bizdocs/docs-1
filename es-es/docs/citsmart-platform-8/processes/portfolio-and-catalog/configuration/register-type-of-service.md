@@ -1,6 +1,7 @@
 title:  Registrar tipo de servicio
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de
-#Registrar tipo de servicio
+# Registrar tipo de servicio
+
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de servicio que se utilizarán en otras rutinas del sistema.
 
 Procedimiento

@@ -1,6 +1,7 @@
 title: Cadastrar uma unidade
 Description: Tem por objetivo registrar as unidades onde os colaboradores estão alocados. 
-#Cadastrar uma unidade
+# Cadastrar uma unidade
+
 Esta funcionalidade tem por objetivo registrar as unidades onde os colaboradores estão alocados.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma unidade.
 

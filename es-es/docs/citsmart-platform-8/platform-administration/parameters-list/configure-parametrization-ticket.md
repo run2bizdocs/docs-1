@@ -1,6 +1,7 @@
 title: Configurar parametrización – ticket
 Description: Es necesario algunos ajustes de parámetros que permiten acciones de la gestión de ticket.
-#Configurar parametrización – ticket
+# Configurar parametrización – ticket
+
 Para la entrega de servicios, es necesario algunos ajustes de parámetros que permiten acciones de la gestión de ticket, como por ejemplo, el flujo estándar, la fase en que la solicitud de servicio al ser registrada será dirigida, entre muchas otras.
 
 Procedimiento

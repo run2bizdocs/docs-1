@@ -1,6 +1,7 @@
 title:  Registrar localidad 
 Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones 
-#Registrar localidad
+# Registrar localidad
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones en los que se asignan los solicitantes de servicios, pudiendo ser el nombre de la unidad, ciudad, nombre del órgano, etc.
 
 Procedimiento

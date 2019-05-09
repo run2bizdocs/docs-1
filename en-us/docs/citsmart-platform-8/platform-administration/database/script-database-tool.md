@@ -1,6 +1,6 @@
 title: Database tool
 Description: Maintain the script registration to its execution in the system.
-#Database tool
+# Database tool
 
 The purpose is to maintain the script registration to its execution in the
 system.

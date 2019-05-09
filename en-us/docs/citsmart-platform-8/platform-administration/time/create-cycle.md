@@ -1,6 +1,6 @@
 title: Create cycle
 Description: Provides a variety of actions, such as including, changing, and deleting the period cycle with start and end date, to be used in the financial control.
-#Create cycle
+# Create cycle
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the period cycle with start and end date, to be used in the financial

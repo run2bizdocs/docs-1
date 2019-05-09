@@ -1,6 +1,7 @@
 title: Export contract data
 Description:Is intended to export the data to facilitate the initial load of data related to the contracts.
-#Export contract data
+# Export contract data
+
 This functionality is intended to export the data to facilitate the initial load of data related to the contracts.
 
 Procedure

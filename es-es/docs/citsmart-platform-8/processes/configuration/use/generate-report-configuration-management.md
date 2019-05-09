@@ -1,6 +1,6 @@
 title: Generar informes - gestión de configuración
 Description: Este informe tiene el objetivo de presentar las claves (licencias) válidas, inválidas y duplicadas de los medios.
-#Generar informes - gestión de configuración
+# Generar informes - gestión de configuración
 
 
 Generar informe de elemento de configuración - paquete Office

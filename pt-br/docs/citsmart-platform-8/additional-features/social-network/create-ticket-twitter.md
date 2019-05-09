@@ -12,7 +12,7 @@ Antes de começar
 Procedimento 
 -------------
 
-1.  É necessário seguir a página CITSmart no Twitter;
+1.  É necessário seguir a página CITSmart no Twitter;  
 
 2.  Clicar no ícone “Mensagem” nesta página;
 

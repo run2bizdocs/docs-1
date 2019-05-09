@@ -1,6 +1,6 @@
 title: Configure parametrization - email
 Description: Configure the sending e-mail reading, inform the company's default e-mail domain, among other actions.
-#Configure parametrization - email
+# Configure parametrization - email
 
 We can define e-mail as a method that allows us to compose, send and receive
 messages through electronic communication systems. The parametrization of

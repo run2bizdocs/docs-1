@@ -1,6 +1,7 @@
 title:  Verificar mis tickets 
 Description: Esta funcionalidad tiene como objetivo proporcionar un resumen de las solicitudes de servicios (tickets) realizadas por el usuario. 
-#Verificar mis tickets
+# Verificar mis tickets
+
 Esta funcionalidad tiene como objetivo proporcionar un resumen de las solicitudes de servicios (tickets) realizadas por el usuario.
 El acceso a las solicitudes del usuario también puede ser realizado en el Portal de Servicios, haciendo la consulta más rápida, sin tener que entrar en el sistema.
 Esta pantalla tiene un temporizador llamado “Activar/Desactivar temporizador” que, al activarse con un solo clic, muestra un cronómetro sobre el tiempo gastado y el tiempo restante para finalizar la respuesta de la solicitud en el campo Tiempo restante de la lista de elementos.

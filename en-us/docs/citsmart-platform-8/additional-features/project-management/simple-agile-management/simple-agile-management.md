@@ -18,7 +18,7 @@ tasks, which can be in groups of cards.
 Procedure
 ------------
 
-*I - Create a Workspace*
+***I - Create a Workspace***
 
 1.  Access the main menu Inegrated Management \>
     Simple – Agile Management;
@@ -40,7 +40,7 @@ Procedure
     -   Total: sum of the **Sprints** inside the Workspace.
 
 
-*II - Create a Sprint*
+***II - Create a Sprint***
 
 1.  Click on the Workspace created before;
 
@@ -93,7 +93,7 @@ Figure 1 - Sprint Screen
    -   **5**: actios of configuration and permission of the Sprint
 
 
-*III - Create lists*
+***III - Create lists***
 
 1.  In each Sprint it will be available a default list of the system:: “To
     do, In progress and Completed”;
@@ -121,7 +121,7 @@ Figure 1 - Sprint Screen
 
     -   **8**: archive tasks list
 
-*IV - Create tasks*
+***IV - Create tasks***
 
    ![task screen](images/figure-3-simple.png)
     
@@ -138,7 +138,7 @@ Figure 1 - Sprint Screen
 
     To move a **task** from a list to another, click and drag it to the list.
 
-*V - Complete Simple card*
+***V - Complete Simple card***
 
 The Simple card has fields and buttons to describe a task/action with planning
 and control of dates, hours, checklist and several others device of control

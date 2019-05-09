@@ -1,6 +1,6 @@
 title: Crear ciclo
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final.
-#Crear ciclo
+# Crear ciclo
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final, que se utilizará en el control financiero.
 

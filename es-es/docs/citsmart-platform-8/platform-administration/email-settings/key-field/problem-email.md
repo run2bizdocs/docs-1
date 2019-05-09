@@ -1,6 +1,6 @@
 title:  Campos clave de los correos electrónicos del problema 
 Description: Tiene el objetivo de proporcionar la relación de los campos clave 
-#Campos clave de los correos electrónicos del problema
+# Campos clave de los correos electrónicos del problema
 
 Este documento tiene el objetivo de proporcionar la relación de los campos clave, disponibles para el registro de modelo de correo electrónico relacionado a problemas.
 

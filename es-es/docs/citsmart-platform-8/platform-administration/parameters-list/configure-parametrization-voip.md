@@ -1,6 +1,7 @@
 title: Configurar parametrização – VoIP
 Description: Los parámetros del "VoIP" permiten definir la contraseña para comunicación con el servidor 
-#Configurar parametrização – VoIP
+# Configurar parametrização – VoIP
+
 VoIP (Voz sobre Internet Protocol) es el enrutamiento de conversación humana utilizando Internet o cualquier otra red de ordenadores basada en el protocolo de Internet, haciendo que la transmisión de voz sea uno de los servicios soportados por la red de datos. Los parámetros del "VoIP" permiten definir la contraseña para comunicación con el servidor, informar la extensión de comunicación estándar para la conexión VoIP, entre otras acciones viables para configurar el uso de VoIP en el CITSmart.
 
 Procedimiento

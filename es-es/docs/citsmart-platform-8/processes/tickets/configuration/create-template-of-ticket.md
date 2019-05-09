@@ -1,6 +1,6 @@
 title: Crear modelo de plantilla de incidente, solicitud y procedimiento
 Description: Registrar una plantilla para facilitar la apertura de una nueva solicitud.
-#Crear modelo de plantilla de incidente, solicitud y procedimiento
+# Crear modelo de plantilla de incidente, solicitud y procedimiento
 
 
 Esta funcionalidad tiene por objetivo registrar una plantilla para facilitar la

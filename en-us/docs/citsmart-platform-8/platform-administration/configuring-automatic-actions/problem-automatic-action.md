@@ -1,6 +1,7 @@
 title: Register problem automatic action
 Description: This feature provides a variety of actions, such as including, changing, and deleting problem type automatic actions. 
-#Register problem automatic action
+# Register problem automatic action
+
 Some events will present a situation where the appropriate action will need to be addressed by the problem management process, that is, this functionality is intended to register the problem type automatic actions. This registration will be associated with the automatic actions, where it will be used in the CITSmart event manager registration of Nagios, Zabbix, Inventory and Correlated Events.
 This feature provides a variety of actions, such as including, changing, and deleting problem type automatic actions.
 

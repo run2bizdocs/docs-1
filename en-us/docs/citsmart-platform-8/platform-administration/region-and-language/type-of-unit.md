@@ -1,6 +1,7 @@
 title: Register type of unit 
 Description: This feature provides a variety of actions, such as including, changing, and deleting the type of unit. 
-#Register type of unit
+# Register type of unit
+
 This feature provides a variety of actions, such as including, changing, and deleting the type of unit.
 
 Procedure

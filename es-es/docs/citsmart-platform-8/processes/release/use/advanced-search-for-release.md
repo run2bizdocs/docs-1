@@ -1,6 +1,6 @@
 title:  Búsqueda avanzada de registros de liberación cerradas 
 Description: Permite buscar las liberaciones de acuerdo con los filtros definidos. 
-#Búsqueda avanzada de registros de liberación cerradas
+# Búsqueda avanzada de registros de liberación cerradas
 
 Esta funcionalidad permite buscar las liberaciones de acuerdo con los filtros definidos.
 

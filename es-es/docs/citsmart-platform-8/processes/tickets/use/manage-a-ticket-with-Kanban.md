@@ -1,6 +1,7 @@
 title:  Gestión de equipos con Kanban 
 Description: Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets
-#Gestión de equipos con Kanban
+# Gestión de equipos con Kanban
+
 Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets, haciendo uso de la técnica de gestión llamada de Kanban. Kanban es el uso de tarjetas (post-it y otros) para indicar el progreso de los flujos de producción.
 En estas tarjetas se colocan indicaciones sobre una determinada tarea, por ejemplo, "para ejecutar" / "en ejecución" / "hecho", y siempre que el flujo avanza su posicionamiento cambia a la derecha en el cuadro.
 

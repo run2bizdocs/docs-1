@@ -1,6 +1,7 @@
 title:  Gestionar mis solicitudes por el Smart Portal 
 Description: Esta funcionalidad permite el control de las solicitudes abiertas por el usuario. 
-#Gestionar mis solicitudes por el Smart Portal
+# Gestionar mis solicitudes por el Smart Portal
+
 Esta funcionalidad permite el control de las solicitudes abiertas por el usuario, donde el mismo puede verificar el historial de ocurrencia, la descripción de la tarea, intercambiar mensaje con el ejecutor del ticket, entre otras acciones.
 
 Antes de empezar

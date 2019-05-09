@@ -1,6 +1,6 @@
 title: Registrar usuario
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un usuario.
-#Registrar usuario
+# Registrar usuario
 
 
 Para que el colaborador pueda acceder al sistema, es necesario crear un usuario

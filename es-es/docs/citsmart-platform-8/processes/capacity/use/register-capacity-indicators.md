@@ -1,6 +1,7 @@
 title:  Registrar indicadores de capacidad
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar los indicadores de capacidad/rendimiento que se vincularán a los Servicios y los Elementos de Configuración (EC).
-#Registrar indicadores de capacidad
+# Registrar indicadores de capacidad
+
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar los indicadores de capacidad/rendimiento que se vincularán a los Servicios y los Elementos de Configuración (EC).
 
 Procedimiento

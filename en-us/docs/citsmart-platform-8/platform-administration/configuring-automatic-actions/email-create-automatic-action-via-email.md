@@ -1,6 +1,6 @@
 title: Create automatic action via email
 Description: Intended to program the automatic opening of a service request through email.
-#Create automatic action via email
+# Create automatic action via email
 
 This functionality is intended to program the automatic opening of a service
 request through email.

@@ -1,6 +1,7 @@
 title: Registrar jornadas de trabajo
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar la jornada de trabajo de la organización.
-#Registrar jornadas de trabajo
+# Registrar jornadas de trabajo
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar la jornada de trabajo de la organización.
 
 Procedimiento

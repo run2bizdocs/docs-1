@@ -1,6 +1,7 @@
 title: Verify service availability
 Description: Is intended to verify the CIs availability group.
-#Verify service availability
+# Verify service availability
+
 This functionality is intended to verify the CIs availability group.
 
 Before getting started

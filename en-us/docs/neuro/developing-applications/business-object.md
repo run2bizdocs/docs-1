@@ -1,6 +1,6 @@
 title: Business Object
 Description: Business object
-#Business Object
+# Business Object
 
 
 Business Object are the link between Neuro and a Data Entity of the

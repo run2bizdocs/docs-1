@@ -1,6 +1,6 @@
 title: Registrar categoría de noticias
 Description: Registrar las categorías pra la organización de las noticias que se van a publicar en el Smart Portal.
-#Registrar categoría de noticias
+# Registrar categoría de noticias
 
 
 Esta funcionalidad tiene por objetivo registrar las categorías pra la

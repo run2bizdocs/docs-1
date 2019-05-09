@@ -1,6 +1,7 @@
 title: Request e-mail key fields
 Description:Is intended to provide the list of key fields available for the Service Request e-mail template registration.
-#Request e-mail key fields
+# Request e-mail key fields
+
 This document is intended to provide the list of key fields available for the Service Request e-mail template registration.
 
 List of key fields

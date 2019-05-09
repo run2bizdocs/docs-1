@@ -1,6 +1,6 @@
 title: Controlar los contratos
 Description: Permite guardar los registros de una entrada de un nuevo contrato.
-#Controlar los contratos
+# Controlar los contratos
 
 Esta funcionalidad permite guardar los registros de una entrada de un nuevo
 contrato.
