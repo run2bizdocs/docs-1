@@ -10,17 +10,17 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 **Padrão:**
 
-- [Desenho de Fluxo][1]
+- [Criar um fluxo de trabalho][1]
 
-- [Expressões][2]
+- [Construir expressões][2]
 
 - [Modelagem de processo][3]
 
 **Integração Neuro:**
 
-- [Fluxo de integração][4]
+- [Fluxo de integração de processos][4]
 
-- [Regra de negócio][5]
+- [Regras de negócio][5]
 
 - Processo de Negócio
 
