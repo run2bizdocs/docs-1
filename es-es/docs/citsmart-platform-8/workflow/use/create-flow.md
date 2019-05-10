@@ -28,7 +28,7 @@ Procedimiento
     !!! tip "IMPORTANTE"
         
 	    Los caminos condicionales de un flujo deben definirse en la conexión (Flujo de Secuencia). 
-            Para acceder a estas opciones, haga clic una vez en la conexión y después en el icono de propiedades.
+	    Para acceder a estas opciones, haga clic una vez en la conexión y después en el icono de propiedades.
             Es posible identificar la conexión (Ej.: aprobada) e indicar una Condición, Acción o Estado. [Ver Construir Expresiones][2].
 
 5.  Las propiedades de un elemento se pueden definir al hacer doble clic en el elemento 
