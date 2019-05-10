@@ -1,6 +1,6 @@
 title:  Auditoria do sistema
 Description: Permite gerenciar os eventuais riscos ao sistema
-#Auditoria do sistema
+# Auditoria do sistema
 
 Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
 Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração
@@ -146,5 +146,5 @@ realizadas no sistema.*
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/15/2019 – Larissa Lourenço
