@@ -44,7 +44,7 @@ local e apertar “Gravar”.
 
 ## Relacionados
 
-[Criar modelo de e-mail][1]
+[Configurar modelo de e-mail][1]
 
 [Configurar conta de e-mail][2]
 
