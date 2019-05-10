@@ -12,9 +12,9 @@ O painel inicial é exibido na tela principal do sistema. Neste painel é possí
 Relacionado
 -------
 
-[Customizar painel inicial][1]
+[Personalizar o painel gerencial (Smart Decision)][1]
 
-[Editar Informações da Conta][2]
+[Editar Informação da Conta][2]
 
 !!! tip "Sobre"
 
