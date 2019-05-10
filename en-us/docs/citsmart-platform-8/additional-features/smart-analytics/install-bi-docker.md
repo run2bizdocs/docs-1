@@ -140,7 +140,7 @@ Parametrization \> CITSmart Parameters;
 
 2. Detais of the parameters:
 
-    -   401: URL os Saiku server
+    -   401: URL of Saiku server
 
     Example: http://127.0.0.1:8282
 
@@ -159,5 +159,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins
