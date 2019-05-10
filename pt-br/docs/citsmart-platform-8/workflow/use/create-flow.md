@@ -19,7 +19,7 @@ Procedimento
     a rebertura de um serviço independentemente das configurações de grupo.
     Também é possível visualizar qual a versão o fluxo se encontra.
 
-3.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
+4.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
     elementos que representam o cenário pretendido. Para tanto, basta clicar no
     elemento e arrastá-lo para a área de desenho. Ao fazer isso, será exibida
     uma tela para definir as propriedades. Devemos levar em consideração que sempre
@@ -30,7 +30,7 @@ Procedimento
         Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
 	É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 
-4.  As propriedas de um elemento podem ser definidas ao clicar duas
+5.  As propriedas de um elemento podem ser definidas ao clicar duas
     vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
     Defina os dados desta propriedade ao informar os dados necessários em cada uma das
     abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
@@ -50,10 +50,10 @@ Procedimento
         configuradas terão prioridade em relação às marcações do template de
         solicitação de serviço, pois esta é um complemento do fluxo.  
 
-5.  Além disso, a funcionalidade admite importar fluxos ao clicar no botão
+6.  Além disso, a funcionalidade admite importar fluxos ao clicar no botão
     “Importar”. Poderá importar no formato “JSON” ou “XML”.
 
-6.  Após definir o fluxo, clicar no botão “Gravar” para efetuar a operação.
+7.  Após definir o fluxo, clicar no botão “Gravar” para efetuar a operação.
 
 Relacionado
 ------------
