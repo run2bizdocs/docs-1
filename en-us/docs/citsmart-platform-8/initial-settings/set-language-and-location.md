@@ -13,8 +13,8 @@ This functionality is intended to  setup the default language of the system.
 
     1. Access the functionality through the main menu Parameterization > CITSmart parameter;   
     2. Search parameter 275; 
-    3. Select "Yes"  
-    4. Save
+    3. Select "Yes";  
+    4. Save.
 
 
 
