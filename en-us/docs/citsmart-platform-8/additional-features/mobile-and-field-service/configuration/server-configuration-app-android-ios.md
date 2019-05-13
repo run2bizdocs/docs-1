@@ -1,6 +1,6 @@
 title: Configure CITSmart instance for mobile access
 Description: Intended to provide guidance for configuring the server for using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
-#Configure CITSmart instance for mobile access
+# Configure CITSmart instance for mobile access
 
 This document is intended to provide guidance for configuring the server for
 using CITSmart Experience mobile application (iOS and Android plataform).
@@ -211,6 +211,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/11/2019 - Anna Martins
 
