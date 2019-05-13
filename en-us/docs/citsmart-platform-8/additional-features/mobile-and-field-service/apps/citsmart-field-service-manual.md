@@ -1,6 +1,6 @@
 title: CITSmart GO application manual
 Description: The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
-#CITSmart GO application manual
+# CITSmart GO application manual
 
 The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
 
@@ -73,7 +73,7 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
     
 
