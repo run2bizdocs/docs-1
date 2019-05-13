@@ -2,20 +2,6 @@ Title: Perguntas Frequentes - FAQ
 
 # Perguntas Frequentes - FAQ
 
-!!! example "É possível obter um registro de acordo com o campo Chave Primária da tabela relatada."
-	```HTML tab="URL"
- 	http://<SERVER ADDRESS>/citsmart/services/data/<TABLE>/<PK VALUE>
-	```
-
-	```MYSQL tab="SQL"
-	SELECT * FROM <TABLE_NAME> WHERE <PK_FIELD> = <PK_VALUE>
-	```
-
-	```tab="Exemplo"
-	http://localhost/citsmart/services/data/process/19
-	   Ele irá procurar na tabela PROCESS com a chave PK igual a 19.
-	```
-	
 ??? Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
     ```HTML tab="Informação"
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
@@ -122,11 +108,11 @@ Title: Perguntas Frequentes - FAQ
     Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino em sequência
     ```
 
-    ```MYSQL tab="SQL"
-    var importNames = JavaImporter();
-    importNames.importPackage(Packages.java.util);
-    importNames.importPackage(Packages.java.lang);
-    importNames.importPackage(Packages.java.sql);
+    ```oraclev70.txt tab="JAVASCRIPT"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
 	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
 	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
 	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
