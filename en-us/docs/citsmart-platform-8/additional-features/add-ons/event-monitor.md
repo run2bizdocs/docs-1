@@ -20,7 +20,7 @@ To test the EVM, [configure][1] the connections in the CITSmart Platform instanc
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	
 [1]:/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html  
