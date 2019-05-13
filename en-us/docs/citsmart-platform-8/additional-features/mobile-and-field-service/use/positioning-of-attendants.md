@@ -1,6 +1,7 @@
 title: Verify positioning of attendants
 Description: Is intended to verify the positioning of the technicians,  
-#Verify positioning of attendants
+# Verify positioning of attendants
+
 This functionality is intended to verify the positioning of the technicians, that is, the current location of the field technicians, responsible for the fulfillment of the service requests.
 In this screen, you can view the location of the technician on the map according to the filters provided.
 
@@ -29,6 +30,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço
 
