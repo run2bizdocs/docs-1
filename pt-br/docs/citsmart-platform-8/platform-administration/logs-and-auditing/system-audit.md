@@ -52,7 +52,7 @@ pasta "\deployments"
 
     A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo executado em porta diferente.  
     
-- Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
+    - Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
    
 Procedimento
 ------------
