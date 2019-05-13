@@ -1,6 +1,7 @@
 title: Configure daily route
 Description: Is intended to configure the daily schedule fields technicians
-#Configure daily route
+# Configure daily route
+
 This functionality is intended to configure the daily schedule fields technicians. After configure it, the technical will have a list of requests that will be attended via Mobile.
 This screen allows the search for requests according to the filters informed, that is, according to their needs, in order to direct the open requests to be answered by the field technician.
 
@@ -40,6 +41,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço
 
