@@ -16,7 +16,7 @@ Antes de começar
 
 -   Mongodb.
 
-**Versão iguais ou superiores à 0.4.0**
+**Versões iguais ou superiores à 0.4.0**
 
 - Não é preciso ter um ActiveMQ externo ativo;
 
@@ -46,7 +46,7 @@ pasta "\deployments"
 
 - O parâmetro 424 deve ficar em branco;
 
-- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit)
+- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);
 
 !!! Abstract "ATENÇÃO"
 
