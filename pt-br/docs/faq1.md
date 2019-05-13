@@ -410,8 +410,6 @@ Title: Perguntas Frequentes - FAQ
 
 	" "+gerarCargaTabelaFatoSolicitacao();	
 	```
-
->>>>>
 	
 	```JavaScript tab="oraclev71.txt"
 var importNames = JavaImporter();
