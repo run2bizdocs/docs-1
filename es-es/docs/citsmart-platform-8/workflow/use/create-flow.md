@@ -13,8 +13,7 @@ Procedimiento
 2.  Hacer clic en "Nuevo";
 
 3.  En la pestaña "Datos del Flujo" es necesario completar los datos obligatorios: nombre
-    del flujo (su identificador interno, debe ser informado sin espacio, acentos y caracteres especiales); el proceso al que está       vinculado (el flujo estará sólo para el proceso al que está vinculado) y la opción para permitir la reapertura de un
-    un servicio independientemente de la configuración de grupo. También se puede ver qué versión se encuentra el flujo.
+    del flujo (su identificador interno, debe ser informado sin espacio, acentos y caracteres especiales); el proceso al que está       vinculado (el flujo estará sólo para el proceso al que está vinculado) y la opción para permitir la reapertura de un servicio       independientemente de la configuración de grupo. También se puede ver qué versión se encuentra el flujo.
 
 4.  En la pestaña "Diagrama" se muestra la herramienta para dibujar el flujo insertando los elementos que representan el escenario deseado. Para ello, basta hacer clic en el elemento y arrastrarlo al área de dibujo. Al hacer esto, se mostrará una pantalla para definir las propiedades. Debemos tener en cuenta que siempre un flujo comienza con el elemento "Evento Inicio" y termina con el elemento "Evento Fin".
 
