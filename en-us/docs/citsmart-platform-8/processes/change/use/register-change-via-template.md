@@ -30,11 +30,11 @@ Procedure
 Related 
 ------------
 
-[Register template of change](/pt-br/citsmart-platform-8/processes/change/configuration/change-template.html)
+[Register template of change](/en-us/citsmart-platform-8/processes/change/configuration/change-template.html)
 
-[Create portfolio of change](/pt-br/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
+[Create portfolio of change](/en-us/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
