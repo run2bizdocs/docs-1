@@ -353,6 +353,6 @@ Para más información acceder la documentación de [Mobile CITSmart Experience]
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes
 

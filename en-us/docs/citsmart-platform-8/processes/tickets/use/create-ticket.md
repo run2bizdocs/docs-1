@@ -65,6 +65,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 
