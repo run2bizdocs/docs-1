@@ -23,12 +23,7 @@ Procedimiento
 	    Para acceder a estas opciones, haga clic una vez en la conexión y después en el icono de propiedades.
 	    Es posible identificar la conexión (Ej.: aprobada) e indicar una Condición, Acción o Estado. [Ver Construir                         Expresiones][2].
 
-5.  Las propiedades de un elemento se pueden definir al hacer doble clic en el elemento 
-    y luego en el icono que aparece junto al mismo (icono de propiedades). Defina los datos
-    de esta propiedad al informar los datos necesarios en cada una de las pestañas de la
-    pantalla de propiedades. Aquí también se libera vincular un conocimiento al flujo en la
-    "Base de conocimiento" e implementar funcionalidades en el flujo sobre la actividad
-    actividad al hacer clic en la pestaña "Interfaz";
+5.  Las propiedades de un elemento se pueden definir al hacer doble clic en el elemento y luego en el icono que aparece junto al mismo (icono de propiedades). Defina los datos de esta propiedad al informar los datos necesarios en cada una de las pestañas de la pantalla de propiedades. Aquí también se libera vincular un conocimiento al flujo en la "Base de conocimiento" e implementar funcionalidades en el flujo sobre la actividad actividad al hacer clic en la pestaña "Interfaz";
 
     !!! warning "ATENCIÓN"
 
