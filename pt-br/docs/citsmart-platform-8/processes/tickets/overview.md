@@ -100,8 +100,6 @@ Configuração
 - [Cadastrar justificativa de solicitação](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
 - [Cadastrar categoria de solução](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
-
-- [Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
  
 - [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/access-ticket-management.html)
 
