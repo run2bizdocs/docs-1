@@ -26,9 +26,10 @@ Procedimento
     um fluxo começa com o elemento "Evento Início" e termina com o elemento "Evento Fim".
 
     !!! tip "IMPORTANTE"
+    
         Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
-        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades.
-	É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex.         aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+	
 
 5.  As propriedas de um elemento podem ser definidas ao clicar duas
     vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
