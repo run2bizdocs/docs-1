@@ -18,7 +18,7 @@ El usuario deberá tener Docker previamente instalado.
 Procedimiento
 ------------
 
-*Instalación*
+***Instalación***
 
 1.  Descargue el citBI en:
 
@@ -93,7 +93,7 @@ Verificar el registro del contenedor:
 docker logs -f citBI
 ```
 
-*Configuración*
+***Configuración***
 
 1.  Acceder al Saiku como administrador:
 
@@ -107,7 +107,7 @@ docker logs -f citBI
 
     jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
 
-*Comandos útiles: caja*
+***Comandos útiles: caja***
 
 1.  Verificar los contenedores activos:
 
