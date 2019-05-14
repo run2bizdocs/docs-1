@@ -46,7 +46,7 @@ Procedure
 Related 
 ------------
 
-[Register change](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
