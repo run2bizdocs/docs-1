@@ -35,12 +35,12 @@ Procedure
 Related
 -----------
 
-[Configure parametrization - change](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configure parametrization - change](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
 [Register group](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 
