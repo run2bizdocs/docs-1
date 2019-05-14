@@ -99,8 +99,6 @@ Configuración
 
 - [Registrar categoría de solución](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Manutención del flujo de trabajo](/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
-
 - [Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 Informe
