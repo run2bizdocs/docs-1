@@ -109,8 +109,6 @@ Configuration
 
 - [Register solution category](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Workflow maintenance](/en-us/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
-
 - [Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 Report
