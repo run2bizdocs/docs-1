@@ -29,7 +29,7 @@ Procedimiento
         
 	    Los caminos condicionales de un flujo deben definirse en la conexión (Flujo de Secuencia). 
 	    Para acceder a estas opciones, haga clic una vez en la conexión y después en el icono de propiedades.
-	    Es posible identificar la conexión (Ej.: aprobada) e indicar una Condición, Acción o Estado. [Ver Construir Expresiones][2].
+	    Es posible identificar la conexión (Ej.: aprobada) e indicar una Condición, Acción o Estado. [Ver Construir                         Expresiones][2].
 
 5.  Las propiedades de un elemento se pueden definir al hacer doble clic en el elemento 
     y luego en el icono que aparece junto al mismo (icono de propiedades). Defina los datos
@@ -40,15 +40,12 @@ Procedimiento
 
     !!! warning "ATENCIÓN"
 
-            La pestaña "Interfaz" permite elegir el modo de interacción (formulario estándar, cuestionario o formulario neuro) que se
-	    aplicará al servicio. Sin embargo, si no ocurre la vinculación de ninguna plantilla de solicitud de servicio en esta 
+            La pestaña "Interfaz" permite elegir el modo de interacción (formulario estándar, cuestionario o formulario neuro) que             se aplicará al servicio. Sin embargo, si no ocurre la vinculación de ninguna plantilla de solicitud de servicio en esta 
 	    pestaña, el sistema subentendirá y aplicará las configuraciones de un formulario estándar, habilitado para vincular el 
 	    elemento de configuración, cambio, problema y solicitud relacionada con el ticket en la pantalla de gestión de tickets.
-	    Podemos citar también otra regla referente a esta pestaña: las normativas aquí configuradas tendrán prioridad en relación a 
-	    las marcas del template de solicitud de servicio, ya que es un complemento del flujo.  
+	    Podemos citar también otra regla referente a esta pestaña: las normativas aquí configuradas tendrán prioridad en                   relación a las marcas del template de solicitud de servicio, ya que es un complemento del flujo.  
 
-6.  Además, la funcionalidad admite importar flujos al hacer clic en el botón
-    "Importar". Puede importar en el formato "JSON" o "XML".
+6.  Además, la funcionalidad admite importar flujos al hacer clic en el botón "Importar". Puede importar en el formato "JSON" o "XML".
 
 7.  Después de definir el flujo, haga clic en el botón "Grabar" para efectuar la operación.
 
