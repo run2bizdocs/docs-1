@@ -17,7 +17,7 @@ The user must have Docker previously installed.
 Procedure
 ------------
 
-*Installation*
+***Installation***
 
 1.  Download citBI in:
 
@@ -92,7 +92,7 @@ Verify log of container:
 docker logs -f citBI
 ```
 
-*Configuration*
+***Configuration***
 
 1.  Access the Saiku as a manager:
 
@@ -106,7 +106,7 @@ docker logs -f citBI
 
     jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
 
-*Useful commands: box*
+***Useful commands: box***
 
 1.  Verify active containers:
 
