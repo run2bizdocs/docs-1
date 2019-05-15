@@ -5,8 +5,6 @@ Description: Neuro AddOns for CITSmart.
 
 ## [Ticket History][1]
 
-[1]:addons/ticket-history.md
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcidCObN8cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ??? example "Through this functionality, it is possible to customize the occurrence inclusion screen by creating a ticket timesheet.  On the new screen, the Date and Time fields have been replaced with "Start date and time" and "End date and time". (Click here for more detail)"
