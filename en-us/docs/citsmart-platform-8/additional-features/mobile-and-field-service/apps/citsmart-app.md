@@ -14,10 +14,10 @@ Procedure
 
 1.	Install the Experience application from an online store (App Store or Play Store);
 2.	To create a connection, click on "Add" or "Add connection";
-3.	It will appear the "New Connection" screen to register the connection:
+3.	It will appear the "New Connection" screen to register the connection;
 4.	Enter the data:
 
-    ![connection](images/app-pt.png)
+    ![connection](images/app-en.jpg)
 
      Figure 1 - Connection
 
