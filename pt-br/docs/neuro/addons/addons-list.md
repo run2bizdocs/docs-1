@@ -3,9 +3,7 @@ Description: AddOns do Neuro para o CITSmar.
 
 # AddOns
 
-## [Ticket History][1]
-
-[1]:addons/ticket-history.md
+## Ticket History
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAzHS_1SRB0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe>  
 
