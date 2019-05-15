@@ -26,6 +26,10 @@ Procedimento
     !!! Warning "IMPORTANTE"
     
         Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência.
+        
+   !!! Warning "ATENÇÃO" 
+   
+       Se o tempo de atendimento não permitir a alteração de impacto e urgência, o sistema substitui automaticamente o que for            enviado via WebService para o impacto, urgência, prioridade e tempo de atendimento definidos neste cadastro.
 
 4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
     atendimento dos serviços, levando em consideração a prioridade. A prioridade
