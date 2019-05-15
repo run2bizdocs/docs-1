@@ -1,5 +1,5 @@
 Title: Neuro AddOns
-Description: AddOns do Neuro para o CITSmar.
+Description: AddOns del Neuro para CITSmart.
 
 # AddOns
 
@@ -7,30 +7,30 @@ Description: AddOns do Neuro para o CITSmar.
 
 [1]:addons/ticket-history.md
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AyuBO4O5shg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JGV2uYCgEsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-??? example "Por meio dessa funcionalidade, é possível customizar a tela de inclusão de ocorrências criando um timesheet do ticket.  Na nova tela, os campos Data e Tempo foram substituídos por "Data e hora início" e "Data e hora fim". (Clique para mais detalhes)"
+??? example "Por medio de esta funcionalidad, es posible personalizar la pantalla de inclusión de instancias creando un timesheet del ticket.  En la nueva pantalla, los campos Fecha y hora se reemplazaron por "Fecha y hora de inicio" y "Fecha y hora final". (Haga clic aquí para más detalles)"
 
-    ```tab="Configuração"
-    Conexão e Pacote do Neuro AddOn Ticket History
-    -   Criar uma conexão de banco de dados “itsm” em Neuro / Configuration / Database connection
-    -   Copiar e Salvar o JSON anexo para um arquivo ".json" 
-    -   Importar o arquivo criado em Neuro / Management / Package:
-        1.  Clicar no botão “Import”
-        2.  Selecionar ou arrastar o pacote para a modal, marcar a opção “Execute DDL” e clicar em “Import”
-        3.  Aguardar a mensagem de importação do pacote
+    ```tab="Configuración"
+    Conexión y Paquete del Neuro AddOn Ticket History
+    -   Crear una conexión de base de datos "itsm" en Neuro / Configuration / Database connection
+    -   Copiar y guardar el JSON adjunto a un archivo ".json" 
+    -   Importar el archivo creado en Neuro / Management / Package:
+        1.  Hacer clic en “Import”
+        2.  Seleccionar o arrastrar el paquete a la modal, marcar la opción "Execute DDL" y hacer clic en "Import"
+        3.  Esperar el mensaje de importación del paquete
 
-    Customizar a tela de criação de ocorrências dos tickets
-    -   Criar o template de visualização associado ao formulário Neuro “ticketOccurrenceNotes”. A página do template é do tipo default
-    -   Associar o template de visualização ou template de acompanhamento no portólio
+    Personalizar la pantalla de creación de ocurrencias de los tickets
+    -   Crear la plantilla de visualización asociada al formulario Neuro "ticketOccurrenceNotes". La página del template es del tipo default
+    -   Asociar la plantilla de visualización o plantilla de seguimiento en el portafolio
 
-    IMPORTANTE : Para versões Neuro anteriores à 1.3.0.0, executar os scripts de banco de dados:
+    IMPORTANTE : Para versiones Neuro anteriores a 1.3.0.0, ejecute las secuencias de comandos de base de datos:
     alter table ocorrenciasolicitacao add starttime timestamp;
     alter table ocorrenciasolicitacao add endtime timestamp;
 
-    Adicionar o formulário Ticket History à tela de tickets
-    -  Criar o template de visualização associado ao formulário Neuro “ticketHistory”(A página do template é do tipo CRUD)
-    -  Associar o template de visualização no portólio
+    Agregar el formulario Ticket History a la pantalla de tickets
+    -  Crear la plantilla de visualización asociada al formulario Neuro "ticketHistory" (La página del template es del tipo CRUD)
+    -  Asociar la plantilla de visualización en el portafolio
     ```
 
     ```JSON tab="JSON"
