@@ -14,10 +14,10 @@ Procedimiento
 
 1.	Instalar la aplicación Experience desde la tienda en línea (App Store o Play Store);
 2.	Para crear una conexión, hacer clic en "Agregar" o "Agregar conexión";
-3.	Se mostrará la pantalla "Nueva conexión" para registrar la conexión:
+3.	Se mostrará la pantalla "Nueva conexión" para registrar la conexión;
 4.	Informar los datos:
 
-    ![conexión](images/app-pt.png)
+    ![conexión](images/app-es.jpg)
 
      Figura 1 - Conexión
 
@@ -57,7 +57,7 @@ Procedimiento
 Relacionado
 ----------
 
-[Configurar opciones de menú en el mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar opciones de menú en el mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
