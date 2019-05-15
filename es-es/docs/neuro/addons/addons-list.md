@@ -3,7 +3,7 @@ Description: AddOns del Neuro para CITSmart.
 
 # AddOns
 
-## [Ticket History][1]
+## Ticket History
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JGV2uYCgEsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
