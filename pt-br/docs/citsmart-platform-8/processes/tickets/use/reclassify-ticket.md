@@ -57,7 +57,7 @@ Relacionado
 
 [Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 [Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
