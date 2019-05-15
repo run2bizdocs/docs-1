@@ -29,6 +29,7 @@ Procedure
     *	Domain\User: enter the domain (local/ldap) and your user;
 
     E.g.: citsmart.local\name.surname
+    
     *	Password: system access credential;
 
     *	Main connection: inform if the chosen instance will be the main one;
