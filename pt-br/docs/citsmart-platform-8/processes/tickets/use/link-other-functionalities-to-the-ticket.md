@@ -105,7 +105,7 @@ Relacionado
 
 [Cadastrar uma mudança](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
 
-[Cadastrar uma requisição de liberação](/pt-br/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Cadastrar uma liberação](/pt-br/citsmart-platform-8/processes/release/use/register-release-request.html)
 
 [Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
