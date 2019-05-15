@@ -29,6 +29,7 @@ Procedimiento
     *	Dominio\Usuario:  informar el dominio (local/ldap) y su usuario;
 
     Ej.: citsmart.local\nombre.apellido
+    
     *	Contraseña: credencial de acceso al sistema;
 
     *	Conexión principal: informar si la instancia elegida será la principal;
