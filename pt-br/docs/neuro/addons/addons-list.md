@@ -1,5 +1,5 @@
 Title: Neuro AddOns
-Description: AddOns do Neuro para o CITSmar.
+Description: AddOns do Neuro para o CITSmart.
 
 # AddOns
 
