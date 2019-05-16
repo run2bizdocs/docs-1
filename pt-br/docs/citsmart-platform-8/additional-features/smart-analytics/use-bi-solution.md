@@ -9,9 +9,7 @@ oferecem suporte a gestão de negócios. É um conjunto de técnicas e ferrament
 para auxiliar na transformação de dados brutos em informações significativas e
 úteis a fim de analisar o negócio”.
 
-O CITSmart Analytics é a solução de BI para a análise de dados do CITSmart
-Platform. Com esta funcionalidade é possível elaborar inúmeras possibilidades de
-gráficos, painéis e tabelas com informações de dados registrados na instância.
+O CITSmart Analytics é a solução de BI para a análise de dados do CITSmart. Com esta funcionalidade é possível elaborar inúmeras possibilidades de gráficos, painéis e tabelas com informações de dados registrados na instância.
 
 Antes de começar
 ----------------
