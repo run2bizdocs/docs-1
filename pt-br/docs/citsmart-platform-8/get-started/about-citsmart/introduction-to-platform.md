@@ -30,14 +30,14 @@ não é suficiente para isso.
 Serviços… Entregando Valor
 --------------------------
 
-Qual conceito seria mais apropriado para agregar valor? Você já pensou sobre o
+Qual conceito seria mais apropriado para agregar valor? Já pensou sobre o
 conceito de serviços? Você deve estar pensando:
 
 -   O que você quer dizer?
 
 -   Quais serviços tem a ver comigo?
 
-Não importa qual seja seu campo de ação; você precisa entregar valor para
+Não importa qual seja o campo de ação; é preciso entregar valor para
 alguém. Nesta nova economia, muitas pessoas entendem esse valor como experiência
 e esse conceito é a nova maneira de se conectar com a nova geração de clientes.
 
@@ -50,14 +50,14 @@ Serviços definem metas. Representa em sua essência "resultados" e "realizaçã
 objetivos". É o que todo mundo está procurando.
 
 É fácil pensar em serviços para clientes finais, toda a experiência dos clientes
-é composta deles; no entanto, você já ouviu falar de serviços corporativos?
+é composta deles; no entanto, já ouviu falar de serviços corporativos?
 Talvez o termo seja novo, mas é simples, é colocar áreas internas ou
 departamentos para fornecer resultados para o outro. Isso muda tudo.
 
 Com esse conceito de "serviços corporativos", uma administração ou organização
-maior pode se adaptar facilmente. Você pensa e adapta os novos resultados que
+maior pode se adaptar facilmente. Pensar e adaptar-se aos novos resultados que
 terão de ser fornecidos por cada departamento (e geral) e, em seguida, cada
-departamento se adapta internamente em termos de processos. O foco foi
+departamento se adaptar internamente em termos de processos. O foco foi
 totalmente adaptado, bem como a capacidade de resposta e motivação.
 
 Serviços Excelência
@@ -75,11 +75,11 @@ de cliente de uma ruim. Hoje, no mundo dos negócios, muitas das necessidades da
 própria empresa tendem a ofuscar as necessidades dos clientes.
 
 A CITSmart Corporation acredita que o foco do negócio deve estar na boa
-experiência do cliente e estar um passo à frente depende de como você conecta os
+experiência do cliente e estar um passo à frente, dependendo de como se conecta
 serviços e processos.
 
-Essa é a nova mentalidade para as novas empresas e nossa CITSmart Platform -
-Enterprise Services Platform ajudará mudanças na perspectiva dessas corporações.
+Essa é a nova mentalidade para as novas empresas e a CITSmart -
+Enterprise Services Platform ajudará nas mudanças da perspectiva dessas corporações.
 
 !!! tip "About"
     <b>Updated:</b>01/17/2018 - Andre Luiz de Oliveira Fernandes
