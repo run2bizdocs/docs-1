@@ -166,7 +166,7 @@ dispositivos de controle e gestão.
     -   **5**: adicionar tags para identificar visualmente o cartão de tarefa
 
     -   **6**: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
-    comunicação será através do botão de notificações do CITSmart Platform
+    comunicação será através do botão de notificações do CITSmart
 
     -   **7**: indicar a finalização da tarefa
 
