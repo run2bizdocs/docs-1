@@ -1,5 +1,5 @@
 Title: Release Notes History
-Description: Release notes, policies information, bug fixes and improvements in the CITSmart Platform.
+Description: Release notes, policies information, bug fixes and improvements in the CITSmart.
 
 # Release Notes History
 
