@@ -105,7 +105,7 @@ Procedure
 Relacionado
 ------------
  
-[Register problem](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
