@@ -56,7 +56,7 @@ Acceder a la página inicial y comprobar el portafolio creado.
 Relacionado
 ---------------
 
-[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/portfolio-management.html)
+[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
 [Registrar encuesta de satisfacción](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
