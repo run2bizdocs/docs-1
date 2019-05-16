@@ -338,8 +338,6 @@ For further information access the documentation about [Mobile CITSmart Experien
 ![App Mobile SM](images/70-app-mobile-sm.jpg)
 
 
-
-
 [1]:/en-us/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
 [2]:/en-us/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
 [3]:/en-us/citsmart-platform-8/processes/problem/overview.html
