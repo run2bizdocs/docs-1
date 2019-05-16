@@ -4,7 +4,7 @@ title: Visión General
 
 CITSmart, desarrollado por CITSmart Corporation®, es una **plataforma que
 conecta personas y recursos para optimizar el trabajo y ampliar los resultados
-del negocio.**
+del negocio**.
 
 A través de los portales de relaciones, optimizamos la experiencia de clientes 
 y colaboradores. Además, por medio del **Workflow Digital Inteligente**, y de 
@@ -163,12 +163,12 @@ sigue el concepto integrador de Gobernanza
 Corporativa, tiene el objetivo de ser una fuente de conocimiento que puede entrenarle
 de acuerdo con las necesidades y modelo de negocio de su institución.
 
-CITSmart Platform fue planeado y escrito con el objetivo de esclarecer el universo de
+CITSmart fue planeado y escrito con el objetivo de esclarecer el universo de
 gestión inteligente y eficaz de los servicios de TI mediante la unificación de
 informaciones y demandas de los diversos componentes de una empresa, haciendo suyo
 día a día más práctico, inteligente y dinámico.
 
-La solución CITSmart Platform se ha desarrollado con el objetivo de satisfacer las necesidades de Gestión de
+La solución CITSmart se ha desarrollado con el objetivo de satisfacer las necesidades de Gestión de
 Servicio y de la Central de Servicio. Es posible desarrollar e implementar procesos de gestión de servicios
 con base en los principales procesos de ITIL de su organización,
 apoyados por la certificación internacional de Pink Elephant.
@@ -207,7 +207,7 @@ otros servicios de su organización.
 
 Ágil es el nuevo normal. Adaptarse rápidamente es casi obligatorio.
 
-El CITSmart Platform está diseñado para mover departamentos y personas en un concepto ágil,
+El CITSmart está diseñado para mover departamentos y personas en un concepto ágil,
 sin olvidar el factor humano, para las metas establecidas por cada
 organización. Creemos que más que velocidad, lo importante es tener
 consistencia en el movimiento.

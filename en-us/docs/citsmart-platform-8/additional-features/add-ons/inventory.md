@@ -20,7 +20,7 @@ CITSmart Inventory works in conjunction with [CITSmart Event Monitor - EVM][1] a
 
 ## What to do next  
 
-To test the Inventory, [configure][3] the connections in the CITSmart Platform instance.
+To test the Inventory, [configure][3] the connections in the CITSmart instance.
 
 ## Related
 

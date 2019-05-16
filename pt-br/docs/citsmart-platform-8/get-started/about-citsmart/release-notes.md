@@ -1,5 +1,5 @@
 Title: Histórico de Notas de Release
-Description: Notas de release, correções de erros e melhorias na CITSmart Platform.
+Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Histórico de Notas de Release
 
