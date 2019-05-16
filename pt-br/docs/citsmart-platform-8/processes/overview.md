@@ -4,7 +4,7 @@ title: Visão Geral
 
 O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
 conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
-resultados do negócio.**
+resultados do negócio**.
 
 Através dos portais de relacionamento otimizamos a experiência de clientes e
 colaboradores. Além disso, por meio do **Workflow Digital Inteligente** e gestão ágil, 
@@ -162,12 +162,12 @@ segue o conceito integrador de Governança
 Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo
 de acordo com as necessidades e modelo de negócio da sua instituição.
 
-O CITSmart Platform foi planejado e escrito com o objetivo de esclarecer o universo de
+O CITSmart foi planejado e escrito com o objetivo de esclarecer o universo de
 gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de
-nformações e demandas dos diversos componentes de uma empresa, tornando o seu
+informações e demandas dos diversos componentes de uma empresa, tornando o seu
 dia-a-dia mais prático, inteligente e dinâmico.
 
-A solução CITSmart Platform foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
+A solução CITSmart foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
 Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços
 com base nos principais processos ITIL da sua organização,
 apoiados pela certificação internacional Pink Elephant.
@@ -181,7 +181,7 @@ outros serviços da sua organização.
     relacionamento e satisfação de clientes, central de atendimento, ouvidoria, integração
     com telefonia e redes sociais, entre outros.
 
--   Trabalho Ágil: Várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e
+-   Trabalho Ágil: várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e
     ágil, controle simples e eficiente.
 
 -   Operações de Negócios: Portal de serviços para clientes e funcionários, gerenciamento de
@@ -192,7 +192,7 @@ outros serviços da sua organização.
     Evento, Continuidade, Ativos de TI, Mudança, Liberação, Disponibilidade, entre outros (13
     processos baseados nas melhores práticas de ITIL)
 
--   Assistente Virtual e Conhecimento: Integração com os principais sistemas de IA do
+-   Assistente Virtual e Conhecimento: integração com os principais sistemas de IA do
     mercado, assistente virtual, portal de conhecimento por perfil e grupos de usuários e
     construção de ambientes de trabalho digitais (centro de experiência).
 
@@ -207,13 +207,13 @@ Por que adotá-lo?
 
 Ágil é o novo normal. Adaptar-se rapidamente é quase obrigatório.
 
-O CITSmart Platform é desenhado para mover departamentos e pessoas em um conceito ágil,
+O CITSmart é desenhado para mover departamentos e pessoas em um conceito ágil,
 sem esquecer o fator humano, para as metas estabelecidas por cada
 organização. Acreditamos que mais do que velocidade, o importante é ter
 consistência no movimento.
 
 A visão futura do CITSmart é baseada em 4 pilares: **Pessoas, Processos,
-Experiências e Resultados.**
+Experiências e Resultados**.
 
 | **Pilar**      | Nossa visão                                                                                                                                                                                                                                                                                                                              |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
