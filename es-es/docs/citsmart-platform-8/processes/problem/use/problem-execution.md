@@ -102,7 +102,7 @@ Procedimiento
 Relacionado
 ------------
  
-[Registrar problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
