@@ -29,9 +29,9 @@ Procedure
 Related
 ------------
 
-[Register problem](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)	
+[Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)	
 
-[Register periodic activity group](/pt-br/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Register periodic activity group](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 
