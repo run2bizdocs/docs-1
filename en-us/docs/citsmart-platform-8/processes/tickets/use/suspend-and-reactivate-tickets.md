@@ -47,7 +47,7 @@ Related
 
 [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
