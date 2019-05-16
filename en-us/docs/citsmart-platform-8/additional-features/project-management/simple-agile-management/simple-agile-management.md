@@ -3,7 +3,7 @@ Title: Gerenciamento ágil Simple
 # Simple Agile Management
 
 
-Simple is a functionality of the CITSmart Platform that allows the easy and agile
+Simple is a functionality of the CITSmart that allows the easy and agile
 management of activities. It was created to manage projects in the simplest way,
 with resources to organize, monitor and delegate the activities among the members
 of your team or individually.
@@ -90,7 +90,7 @@ Figure 1 - Sprint Screen
 
    -   **4**: add member that will participate in the Sprint
 
-   -   **5**: actios of configuration and permission of the Sprint
+   -   **5**: actions of configuration and permission of the Sprint
 
 
 ***III - Create lists***
@@ -105,8 +105,8 @@ Figure 1 - Sprint Screen
     Figure 2 - List screen
 
 
-    -   **1**: search tasks with filters of member, tags and status of the list lista
-    (concluída e não concluída)
+    -   **1**: search tasks with filters of member, tags and status of the list
+    (completed and not completed)
 
     -   **2**: create new list
 
