@@ -344,7 +344,6 @@ Saiba mais sobre [Mobile CITSmart Experience][8]
 
 ![App Mobile SM](images/75-app-mobile-sm.png)
 
-![App Mobile SM](images/76-app-mobile-sm.png)
 
 
 [1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
