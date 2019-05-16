@@ -22,7 +22,7 @@ El CITSmart Inventory trabaja en conjunto con el [Monitor de Eventos CITSmart - 
 
 ## Lo que hacer después 
 
-Para probar el Inventory, [configurar][3] las conexiones en la instancia CITSmart Platform.
+Para probar el Inventory, [configurar][3] las conexiones en la instancia CITSmart.
 
 ## Relacionado
 
