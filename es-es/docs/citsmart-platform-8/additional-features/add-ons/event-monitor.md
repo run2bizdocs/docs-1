@@ -1,6 +1,6 @@
 
 title: Implementar Event Monitor
-Description: Módulo que pretende ser un intermediario entre CITSmart Platform y soluciones de los clientes.
+Description: Módulo que pretende ser un intermediario entre CITSmart y soluciones de los clientes.
 
 # Implementar o Event Monitor
 
