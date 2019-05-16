@@ -25,9 +25,9 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)
 
-[Registrar justificación del problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
+[Registrar justificación del problema](/es-es/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
 
 !!! tip "About"
 
