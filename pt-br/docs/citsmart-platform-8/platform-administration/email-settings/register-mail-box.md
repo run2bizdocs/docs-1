@@ -6,9 +6,9 @@ Esta funcionalidade tem por objetivo configurar o envio e o recebimento de
 e-mail a partir de diferentes servidores com vistas a atender contratos
 distintos, assim um mesmo CITSmart poderá atender diferentes clientes e cada um
 terá sua própria caixa de e-mail. Neste caso, é possível utilizar uma conta de
-e-mail de envio/leitura (Ex: email\@empresa.com) em um contrato da empresa XPTO
+e-mail de envio/leitura (Ex: email@empresa.com) em um contrato da empresa XPTO
 e outra conta de e-mail pertencente a um contrato de empresa distinta (Ex:
-email\@empresa2.com).
+email@empresa2.com).
 
 Procedimento
 ----------------
