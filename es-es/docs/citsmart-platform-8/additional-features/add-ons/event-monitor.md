@@ -6,7 +6,7 @@ Description: Módulo que pretende ser un intermediario entre CITSmart Platform y
 
 Event Monitor - EVM - es un módulo que pretende ser un intermediario entre CITSmart y soluciones de los clientes (por ejemplo, Nagios, CITSmart Inventory), sirviendo como un repositorio de informaciones de eventos, generado por herramientas de monitoreo o proceso de inventario.
 
-Para activarlo en una instancia del CITSmart, es necesario descargar el paquete WAR y ejecutar la implementación en el servidor de aplicaciones Wildfly, que puede ser el mismo que el CITSmart Platform. Es importante observar que el EVM debe estar disponible en un puerto diferente de la aplicación ESP. Además, notamos que el EVM no posee su propia interfaz, porque la gestión es hecha a través de la aplicación ESP.
+Para activarlo en una instancia del CITSmart, es necesario descargar el paquete WAR y ejecutar la implementación en el servidor de aplicaciones Wildfly, que puede ser el mismo que el CITSmart. Es importante observar que el EVM debe estar disponible en un puerto diferente de la aplicación ESP. Además, notamos que el EVM no posee su propia interfaz, porque la gestión es hecha a través de la aplicación ESP.
 
 Procedimiento 
 ----------
