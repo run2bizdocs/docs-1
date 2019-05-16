@@ -29,9 +29,9 @@ Procedimiento
 Relacionado
 ------------
 
-[Registrar problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)	
+[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)	
 
-[Registrar grupo de actividad periódica](/pt-br/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 
