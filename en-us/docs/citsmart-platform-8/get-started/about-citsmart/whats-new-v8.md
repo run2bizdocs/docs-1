@@ -333,7 +333,9 @@ For further information access the documentation about [Mobile CITSmart Experien
 
 ![App Mobile SM](images/68-app-mobile-sm.jpg)
 
+
 ![App Mobile SM](images/69-app-mobile-sm.jpg)
+
 
 ![App Mobile SM](images/70-app-mobile-sm.jpg)
 
