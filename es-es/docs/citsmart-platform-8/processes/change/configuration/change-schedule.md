@@ -14,19 +14,13 @@ Procedimiento
 
 3.  Para registrar una nueva ventana de cambio, haga clic en la fecha que desee;
 
-4.  Completar los campos necesarios (título de la ventana de cambio, tipo, fecha/hora
-    inicial y final, descripción del cambio, recurrencia de la ventana de cambio).
-    Hay dos tipos de ventana de cambio:
+4.  Completar los campos necesarios (título de la ventana de cambio, tipo, fecha/hora inicial y final, descripción del cambio, recurrencia     de la ventana de cambio). Hay dos tipos de ventana de cambio:
 
-    -   Mantenimiento: utilizado para establecer períodos de tiempo en que los cambios en el
-    EC se producirán;
+    -   Mantenimiento: utilizado para establecer períodos de tiempo en que los cambios en el EC se producirán;
 
-    -   Desactivación: utilizado para establecer períodos de tiempo en que los cambios en el EC
-    no deben producirse.
+    -   Desactivación: utilizado para establecer períodos de tiempo en que los cambios en el EC no deben producirse.
 
-5.  Recordar que el campo "Global" sólo debe ser marcado para ventana de cambio del
-    tipo "Mantenimiento", ya que este campo sólo debe ser usado para una ventana
-    de mantenimiento que no tienen EC asociados.
+5.  Recordar que el campo "Global" sólo debe ser marcado para ventana de cambio del tipo "Mantenimiento", ya que este campo sólo debe ser     usado para una ventana de mantenimiento que no tienen EC asociados.
 
 6.  Hacer clic en "Agregar".
 
