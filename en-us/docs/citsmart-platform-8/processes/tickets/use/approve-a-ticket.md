@@ -9,7 +9,7 @@ tab \> Button "Is it an approval task? = YES"), which is linked to the activity.
 
 !!! Abstract "ATTENTION"
     
-    For A simplified approval of the ticket, it's necessary 
+    For a simplified approval of the ticket, it's necessary 
     that the flow of the service request has a task of type 
     approval, so the quick approval button will be visible.
 
@@ -24,7 +24,7 @@ Procedure
 -------------
 
 *These steps are for functionality in CITSmart Platform 8 as for mobile
-CITSmart SM.*
+CITSmart SM*.
 
 
 1.  Access the functionality Ticket through the main menu Processes \> Request
