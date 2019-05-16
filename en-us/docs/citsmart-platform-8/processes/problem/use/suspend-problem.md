@@ -25,9 +25,9 @@ Procedure
 Related 
 ------------
 
-[Register problem](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)
 
-[Register problem justification](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
+[Register problem justification](/en-us/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
 
 !!! tip "About"
 
