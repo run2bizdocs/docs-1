@@ -330,15 +330,13 @@ App Mobile CITSmart Experience ha sido creado para que las facilidades y benefic
 
 Para más información acceder la documentación de [Mobile CITSmart Experience][8]
 
-![App Mobile SM](images/68-app-mobile-sm.jpg)
 
-![App Mobile SM](images/69-app-mobile-sm.jpeg)
+![App Mobile SM](images/69-app-mobile-sm.jpg)
 
-![App Mobile SM](images/70-app-mobile-sm.jpeg)
+![App Mobile SM](images/70-app-mobile-sm.jpg)
 
-![App Mobile SM](images/71-app-mobile-sm.jpeg)
+![App Mobile SM](images/71-app-mobile-sm.jpg)
 
-![App Mobile SM](images/72-app-mobile-sm.jpeg)
 
 
 [1]:/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
