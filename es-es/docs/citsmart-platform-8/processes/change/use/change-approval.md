@@ -34,9 +34,9 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar parametrización – cambio](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configurar parametrización – cambio](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
-[Registrar grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 
