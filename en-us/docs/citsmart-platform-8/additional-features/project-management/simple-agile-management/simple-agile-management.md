@@ -162,7 +162,7 @@ and management.
     -   **5**: add tags to visually identify the task card
 
     -   **6**: click to be notified of any changes in this task. This notification will be
-    done through the notification button of the CITSmart Platform
+    done through the notification button of the CITSmart
 
     -   **7**: indicate the completion of the task
 
