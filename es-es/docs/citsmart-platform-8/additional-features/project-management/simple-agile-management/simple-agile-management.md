@@ -139,7 +139,7 @@ dispositivos de control y gestión.
 
     -   **1**: agregar o eliminar miembros en la tarea
 
-    -   ****: agregar listas de acciones que serán vistas en la pestaña Checklist
+    -   **2**: agregar listas de acciones que serán vistas en la pestaña Checklist
 
     -   **3**: agregar comentarios
 
@@ -148,7 +148,7 @@ dispositivos de control y gestión.
     -   **5**: agregar tags para identificar visualmente la tarjeta de tarea
 
     -   **6**: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
-    comunicación será a través del botón de notificaciones del CITSmart Platform
+    comunicación será a través del botón de notificaciones del CITSmart
 
     -   **7**: indicar la finalización de la tarea
 
@@ -171,7 +171,7 @@ dispositivos de control y gestión.
 
 5.  Las pestañas disponibles presentan:
 
-    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar         elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento           dentro de un checklist, seleccione el checkbox;
+    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento dentro de un checklist, seleccione el checkbox;
 
     -   Comentarios: lista los comentarios hechos;
 
