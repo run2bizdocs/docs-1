@@ -50,16 +50,16 @@ pasta "\deployments"
 
 !!! Abstract "ATENÇÃO"
 
-    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo executado em porta diferente.  
+    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo         executado em porta diferente.  
     
-    - Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
+- Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
    
 Procedimento
 ------------
 
 ***Processo para configurar a Auditoria:***
 
-*Configuração para gerar o backup das auditorias.*
+*Configuração para gerar o backup das auditorias*.
 
 Primeiramente, é imprescindível configurar os parâmetros específicos da
 funcionalidade.
@@ -75,16 +75,14 @@ funcionalidade.
 
     !!! Abstract "NOTA"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do
-        backup.  
+        A escolha da frequência deve ser a partir de 1 (um) dia para a execução         do backup.  
 
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
     !!! note "IMPORTANTE"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
-        sistema, do acesso ao sistema e as licenças do mesmo.
+        São oferecidos três tipos de auditoria de sistema: auditoria dos dados           do sistema, do acesso ao sistema e as licenças do mesmo.
 
 ***Auditoria de dados do sistema***
 
@@ -124,7 +122,8 @@ realizadas no sistema.*
 2.  Será exposto os usuários que efetuaram o login e logout no sistema,
     registrando também a data e a hora de cada uma destas atividades;
 
-    !!! Abstract "NOTA"  
+    !!! Abstract "NOTA" 
+    
         Se porventura o sistema expirar, não será possível captar o logout do
         sistema, ficando registrado, portanto, só as informações de entrada da
         sessão de acesso.  
