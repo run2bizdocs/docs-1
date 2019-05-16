@@ -42,7 +42,7 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar cambio](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
