@@ -58,8 +58,7 @@ Crear usuario AD
      Figura 6 - Agregar valor
 
 8.  Abrir el **CMD** como administrador y colocar los siguientes comandos.
-    Recuerde que la primera configura el **SPN** y el segundo genera el Keytab (lo que
-    se utilizará en el Wildfly):
+    Recuerde que la primera configura el **SPN** y el segundo genera el Keytab       (lo que se utilizará en el Wildfly):
 
     -   setspn -s HTTP/hom-itsm.centralit.com.br citsmart2
 
