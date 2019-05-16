@@ -7,7 +7,7 @@ technologies used by enterprises for the data analysis of business information.
 BI technologies provide historical, current and predictive views of business 
 operations".
 
-CITSmart Analytics is the BI solution for CITSmart Platform data analysis.
+CITSmart Analytics is the BI solution for CITSmart data analysis.
 With this feature you can create numerous graphs, dashboards and tables with
 data information registered in the instance.
 
