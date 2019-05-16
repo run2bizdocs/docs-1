@@ -16,7 +16,7 @@ or processes, but also mainly by their motivation, the speed of launching new
 products and ideas is very fast because everyone is engaged primarily in the
 result.
 
-*Being prepared for the future is being prepared for changes.*
+*Being prepared for the future is being prepared for changes*.
 
 -   Change fast is supporting people to change.
 
@@ -28,7 +28,7 @@ processes if these processes do not lead to results and goals. Perhaps processes
 are the means, not the end. The end is always the new results. Management by
 processes is not enough for this.
 
-Services …Delivering Value
+Services... Delivering Value
 --------------------------
 
 What concept would be most appropriate to deliver value? Have you thought about
