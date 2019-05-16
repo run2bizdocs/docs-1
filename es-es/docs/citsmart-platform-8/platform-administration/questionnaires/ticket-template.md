@@ -67,7 +67,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 [Registrar cuestionario](/es-es/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
