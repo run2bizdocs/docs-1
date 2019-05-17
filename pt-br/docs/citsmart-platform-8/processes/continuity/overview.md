@@ -81,6 +81,9 @@ Configuração
 
 - [Cadastrar questionário](/pt-br/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
+- [Definir a permissão de acesso para o gerenciamento de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
