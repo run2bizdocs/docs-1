@@ -22,7 +22,7 @@ Procedure
 
 4.	Click on "Save” (the left Treview will be filled);
 
-5.	Create either  Business Object, Business Rules, Forms, Flows and Business Processes.(the right area will open the registration for each element (on its context);
+5.	Create either Business Object, Business Rules, Forms, Flows and Business Processes(the right area will open the registration for each element (on its context);
 
 6.	Save each one separately;
 
