@@ -35,13 +35,15 @@ Through this tab, all basic information about the flow to be design is defined.
 
 1. To add a new flow, click New > Integration services flow, as shown in the figure below:  
 
-    ![Screenshot](images/Service-Integration-Flow-fig03.png)   
+    ![Screenshot](images/Service-Integration-Flow-fig03.png)
+    
     Figure 3 - Registration screen  
 
 2. To add a new flow data, click Add.  
 3. The following screen will be displayed:  
 
-    ![Screenshot](images/Service-Integration-Flow-fig04.png)   
+    ![Screenshot](images/Service-Integration-Flow-fig04.png)
+    
     Figure 4 - Workflow registration / editing screen, Flow Data tab   
 
 4. Enter a **name** for the flow, a **description**, which **form** will start the flow (if applicable), and whether or not flow execution will persist. If the field **"Keep running the stream"** is checked, Neuro will persist in the database on every instance of the execution of this flow.  
@@ -52,10 +54,11 @@ Through this tab, all basic information about the flow to be design is defined.
 
 In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
 
-1. To add a new variables, choose the tab for the same and then click Add.  
+1. To add a new variables, choose the tab for the same and then click "Add".  
 2. The following screen will be displayed:  
 
-    ![Screenshot](images/Service-Integration-Flow-fig05.png)   
+    ![Screenshot](images/Service-Integration-Flow-fig05.png)
+    
     Figure 5 - Workflow registration / editing screen, Variables tab   
 
 3. Fill in the fields:  
@@ -77,13 +80,13 @@ In this tab are configured the variables that will be used in the drawn flow. Va
     - The initial value of the variable, whether constant or script.  
 	    - If the value is a constant, it will never be changed during the flow execution, regardless of the operations performed by             the user.  
 
-4. To edit a variable, select the desired variable, click Edit, make the necessary changes, and click Update to complete the edit.  
+4. To edit a variable, select the desired variable, click "Edit", make the necessary changes, and click Update to complete the edit.  
 
-5. To remove a variable flow, select the desired variable, click Remove, and confirm the deletion.  
+5. To remove a variable flow, select the desired variable, click "Remove", and confirm the deletion.  
 
 !!! Abstract "ATTENTION"  
 
-    To save the changes effectively, click Save on the top bar. 
+    To save the changes effectively, click "Save" on the top bar. 
 
 ##Actions 
 
@@ -91,10 +94,11 @@ Through this menu, it is possible to register the actions that will be run in th
 
 The actions are based on scripts programmed in **Rhino** language.  
 
- 1. To include an action, choose the tab for the same and then click go to Add.  
+ 1. To include an action, choose the tab for the same and then click go to "Add".  
  2. The following screen will be displayed:  
 
-    ![Screenshot](images/Service-Integration-Flow-fig06.png)   
+    ![Screenshot](images/Service-Integration-Flow-fig06.png)
+    
     Figure 6 - Register/edit workflow, actions tab 
 
 3. Fill in the fields:  
@@ -103,13 +107,13 @@ The actions are based on scripts programmed in **Rhino** language.
     - the literal **name** for the action;  
     - and the **script** that will be run when the action is triggered.  
 
-4. To edit an action, select the action you want, click Edit, make the necessary changes, and click Update to complete the edit.  
+4. To edit an action, select the action you want, click "Edit", make the necessary changes, and click "Update" to complete the edit.  
 
-5. To remove an action, select the action, click Remove, and confirm the deletion.  
+5. To remove an action, select the action, click "Remove", and confirm the deletion.  
 
 !!! Abstract "ATTENTION"  
 
-    To save the changes effectively, click Save on the top bar. 
+    To save the changes effectively, click "Save" on the top bar. 
 
 ##Diagram  
 
