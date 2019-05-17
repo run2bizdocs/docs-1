@@ -10,7 +10,7 @@ Before getting started
 
 To register occurences of a ticket, it's necessary to previously register a
 ticket and have permission to execute it. It's necessary to first enable
-parameter 298 (set to "S").
+parameter 298 (set to "Y").
 
 IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
 occurrence and the notification e-mail template ID in parameter 251.
