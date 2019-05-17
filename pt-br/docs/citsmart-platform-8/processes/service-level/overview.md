@@ -10,8 +10,6 @@ O Gerenciamento de Nível de Serviço é um processo responsável por manter, me
 Uso
 -------
 
-- [Criar tempo de atendimento](/pt-br/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
-
 - [Acordo de nível de serviço](/pt-br/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
 
 - [Avaliação de contrato](/pt-br/citsmart-platform-8/processes/service-level/use/contract-evaluation.html)
@@ -28,6 +26,8 @@ Configuração
 -----------------
 
 - [Cadastrar Prioridade](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+
+- [Criar tempo de atendimento](/pt-br/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
 
 Relatório
 ----------
