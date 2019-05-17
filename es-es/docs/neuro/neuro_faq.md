@@ -1,7 +1,7 @@
 Title: FAQ (Neuro)
 Description: CITSmart - FAQ
 
-#FAQ (Neuro)
+# FAQ (Neuro)
 
 ??? Question "¿Cuál es la diferencia entre crear un formulario a través del menú Formulario y a través del menú Objeto de negocio?"
     La creación a través del menú Formulario se produce de forma 100% manual. A través del menú de objeto de negocio, se puede generar el formulario desde el modelo de base de datos. El formulario generado se puede editar en el menú de registro de formulario.
