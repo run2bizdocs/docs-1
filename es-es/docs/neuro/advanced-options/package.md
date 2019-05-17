@@ -29,7 +29,7 @@ Figura 2 - Tela de listagem de pacotes
 
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS
 
-1- Para alterar um pacote já cadastrado, clique em Editar, faça as modificações e depois clique em "Salvar";   
+1- Para alterar um pacote já cadastrado, clique em "Editar", faça as modificações e depois clique em "Salvar";   
 2- Para criar um pacote, clique em Cadastrar. Informe o Nome e a Descrição do pacote. Em seguida, selecione os elementos que farão parte do pacote. Todos estes elementos foram cadastrados previamente no Neuro;    
 
 ![Screenshot](images/Package-Registration.png)  
@@ -37,8 +37,8 @@ Figura 3 - Tela de cadastro/edição de pacotes
 
 3- Poderão ser selecionadas Aplicações, Parâmetros, Labels, Imagens, CSS, Java Scripts, Páginas HTML, Relatórios, Regras de negócio, Fluxos, Objetos de negócio, Componentes, Páginas de formulário, Formulários, Processos de negócio, Notificações e Grupos de usuário para compor o pacote;    
 4- Clique em "Salvar" para criar o pacote. Clique em "Pesquisar" para voltar para a tela anterior;   
-5- Para exportar um pacote salvo, selecione o pacote, e clique em Exportar. Os pacotes são exportados em formato .json;    
-6- Para importar um pacote para um Neuro, clique em Importar, selecione se esta versão do pacote deverá substituir os elementos que possuírem o mesmo identificador, se a DDL deverá ser executada, e selecione o arquivo de importação .json.    
+5- Para exportar um pacote salvo, selecione o pacote, e clique em "Exportar". Os pacotes são exportados em formato .json;    
+6- Para importar um pacote para um Neuro, clique em "Importar", selecione se esta versão do pacote deverá substituir os elementos que possuírem o mesmo identificador, se a DDL deverá ser executada, e selecione o arquivo de importação .json.    
 
 !!! Abstract "ATENÇÃO"  
 
