@@ -17,7 +17,7 @@ deberá establecer el parámetro 435 para la opción "Sí".
 Procedimiento
 -------------
 
-*En CITSmart*
+***En CITSmart***
 
 1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
     Portafolio;
@@ -38,7 +38,7 @@ Procedimiento
 
 9.  Hacer clic en "Guardar".
 
-*En mobile*
+***En mobile***
 
 1.  Al capturar un ticket (usando el mobile), el técnico debe completar los
     campos disponibles y, al poner el ticket con status de "Resuelto", el campo
