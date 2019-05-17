@@ -1,7 +1,7 @@
 Title: Neuro FAQ
 Description: CITSmart - FAQ
 
-#Neuro Frequently Asked Questions (FAQ)
+# Neuro Frequently Asked Questions (FAQ)
 
 ??? Question "What is the difference between creating a form using the Form menu and via the Business Object?"
     The creation using the Form menu is 100% manual. If you use the business object menu, you can generate the form from the database. The generated form can be edited in the menu register form.
