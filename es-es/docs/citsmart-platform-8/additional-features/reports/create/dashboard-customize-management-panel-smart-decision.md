@@ -1,6 +1,6 @@
 title: Personalizar el panel gerencial (Smart Decision)
 Description: Añadir dashboards desde una plantilla o seleccionando manualmente.
-#Personalizar el panel gerencial (Smart Decision)
+# Personalizar el panel gerencial (Smart Decision)
 
 
 El panel de administración se muestra en la pantalla principal del sistema. En
