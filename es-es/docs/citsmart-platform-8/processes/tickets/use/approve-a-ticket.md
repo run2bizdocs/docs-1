@@ -5,7 +5,7 @@ Description: En algunos casos, los tickets del tipo "Solicitud" pasarán por una
 Cuando un ticket tiene una actividad de aprobación, es posible confirmar o 
 rechazar esta solicitud utilizando el recurso para este propósito. En este sentido, 
 el flujo de trabajo del ticket debe contener una tarea de usuario (pestaña Identificación 
-\> Botón "Es una tarea de aprobación? = SIM"), el cual está vinculado a la actividad.
+\> Botón "Es una tarea de aprobación? = SÍ"), el cual está vinculado a la actividad.
 
 !!! Abstract "ATENCIÓN"
 
