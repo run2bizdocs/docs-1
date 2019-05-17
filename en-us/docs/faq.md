@@ -2,30 +2,30 @@ Title: Frequently Asked Questions - FAQ
 
 # Frequently Asked Questions - FAQ
 
-??? Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
+!!! Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
 
     The process of risks in change begins in the design of the change portfolio where the "**Type of Impact and Risk Analysis**" is provided, which can be simplified or complete. The next step is in the change register to inform the data of the risk(s) in the left lateral bar in the item of risk analysis, that will be presented with the indication defined in the portfolio of change:
     "**Simplified**" for a simplified analysis in the item.
     "**Complete**" for a complete risk analysis with the definitionof Targets, Impact Analysis and Risk Evaluation.
     
-??? Question "Is it possible to attach documents to incidents, requests, problems and changes?"
+!!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
     Both the Reques and Incident may have documents attatched in their opening and attendance, for Problems and Changes documents may be attached to each phase of the solution and also, if necessary, in each of the stages defined in the solution of the problem or change.
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (default is 1GB).
     
-??? Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
+!!! Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
     
     Yes. It's possible to assign the person responsible for a CI by editing its options (Processes > Configuration Management > CMDB > Search > Edit > Responsible Type > Responsible). Note that updating a CI may be tied to Change Management, being necessary to link the ID of a RFC.
 
-??? Question "How to update a Configuration Item directly by the Request for Change?"
+!!! Question "How to update a Configuration Item directly by the Request for Change?"
 
     When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 1. Access the Change Management (Processes > Change Management > Change); 2. Select the RFC and click on it, then click on "Open"; 3. In the management interface, click on the item "Related CI"; 4. In the actions item, click on the "Change" icon; 5. Change the CI with the new information; 6. Click on "Save".
     
-??? Question "Is it possible to categorize the Request/Incident (Ticket)?"    
+!!! Question "Is it possible to categorize the Request/Incident (Ticket)?"    
 
     Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
-??? Question "How are documents ranked at the time of SOLR knowledge base search?"
+!!! Question "How are documents ranked at the time of SOLR knowledge base search?"
     
     To rank the documents at the time of the search, Solr generates a score for each document.
     
@@ -43,7 +43,7 @@ Title: Frequently Asked Questions - FAQ
     
     Boosters are open for use, but to use them requires a better analysis of the importance of fields and documents added to Solr, by the knowledge base.
     
-??? Question "How can Event Management become a business monitoring tool?"
+!!! Question "How can Event Management become a business monitoring tool?"
     
     WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
     You can connect the EVM component to any software, even one other than the one the Event Management module normally integrates (Nagios, Zabbix and Inventory) as long as the data sent via webservice follows a pre-set standard.
@@ -55,7 +55,7 @@ Title: Frequently Asked Questions - FAQ
     - Let's say it's the rule that one company does not hire more than 5 employees per industry.
     - The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring "Could be fired.
     
-??? Question "How do I access the service request from the e-mail notification?"
+!!! Question "How do I access the service request from the e-mail notification?"
     
     To access the service request from the e-mail notification, proceed as follows:
     
@@ -63,7 +63,7 @@ Title: Frequently Asked Questions - FAQ
     2. Open the e-mail notification for the service request;
     3. The notification will have the request number with a hyperlink, just click on the number, which will then be redirected to the Service Management screen presenting the request information.
     
-??? Question "How do I design the assets that make up my service?"
+!!! Question "How do I design the assets that make up my service?"
    
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
@@ -73,7 +73,7 @@ Title: Frequently Asked Questions - FAQ
     2. The screen for designing the assets that make up the business service will be presented;
     3. Perform the design
     
-??? Question "How do I set a default group for the first level service request?"
+!!! Question "How do I set a default group for the first level service request?"
     
     To set the default group for 1st level attendance, proceed as follows:
     
@@ -89,7 +89,7 @@ Title: Frequently Asked Questions - FAQ
     
     RULE: after setting the parameter, when registering a Service Request/Incident, if you have not informed the group to service the service, the group will be scaled, which was defined in the parameter For 1st level service.
     
-??? Question "How to configure Nagios authentication via LDAP?"
+!!! Question "How to configure Nagios authentication via LDAP?"
     
     The Nagios authentication configuration via LDAP is:
     
@@ -118,7 +118,7 @@ Title: Frequently Asked Questions - FAQ
     /etc/init.d/nagios reload
 	```
     
-??? Question "How to configure the automatic satisfaction survey response?"
+!!! Question "How to configure the automatic satisfaction survey response?"
     
     The automatic response mechanism, which will answer automatically all service request satisfaction surveys, kicks in when the satisfaction survey is not filled out by the user within the deadline determined by the systems manager.
     
@@ -139,7 +139,7 @@ Title: Frequently Asked Questions - FAQ
     
 	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
 
-??? Question "How to configure the configuration Items lifecycle phases names?"
+!!! Question "How to configure the configuration Items lifecycle phases names?"
     
     The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below
     
@@ -170,7 +170,7 @@ Title: Frequently Asked Questions - FAQ
     13. On the Value field, insert the name of the CI group in confirmation phase;
     14. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
 
-??? Question "How to configure the service request notification e-mails?"
+!!! Question "How to configure the service request notification e-mails?"
     
     When registering a service request, perform determined activities and its execution, the petitioner will be notified.
     
@@ -200,7 +200,7 @@ Title: Frequently Asked Questions - FAQ
     
     RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the petitioner.
     
-??? Question "How to define the obligatoriness of the linking change with IC?"
+!!! Question "How to define the obligatoriness of the linking change with IC?"
     
     The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
 
@@ -212,7 +212,7 @@ Title: Frequently Asked Questions - FAQ
     6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
     7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory
     
-??? Question "How to enable automatic e-mail reading routine?"
+!!! Question "How to enable automatic e-mail reading routine?"
     
     When sending an e-mail to CITSmart support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
     
@@ -242,7 +242,7 @@ Title: Frequently Asked Questions - FAQ
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to enable the change module escalation rule?"
+!!! Question "How to enable the change module escalation rule?"
     
     The changes escalating rule is enacted on the CITSmart Parameter screen.
     
@@ -254,7 +254,7 @@ Title: Frequently Asked Questions - FAQ
     4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation.
     5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
     
-??? Question "How to enable the Service Portal(Smart Portal)?"
+!!! Question "How to enable the Service Portal(Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
@@ -263,7 +263,7 @@ Title: Frequently Asked Questions - FAQ
     3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
-??? Question "How to enable the satisfaction survey?"
+!!! Question "How to enable the satisfaction survey?"
     
     The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
     
@@ -279,7 +279,7 @@ Title: Frequently Asked Questions - FAQ
     8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
     
-??? Question "How to enable the scheduling rule of the problems module?"
+!!! Question "How to enable the scheduling rule of the problems module?"
     
     The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
     
@@ -289,7 +289,7 @@ Title: Frequently Asked Questions - FAQ
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
     5. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to enable the service requests escalation rule?"
+!!! Question "How to enable the service requests escalation rule?"
     
     The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
@@ -309,7 +309,7 @@ Title: Frequently Asked Questions - FAQ
     
 	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
    
-??? Question "How to improve the performance of CITSmart Enterprise ITSM?"
+!!! Question "How to improve the performance of CITSmart Enterprise ITSM?"
     
     System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
     
@@ -338,14 +338,14 @@ Title: Frequently Asked Questions - FAQ
     9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).
     
-??? Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
     
     Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
     
     1. On-demand environments: Administrator must connect to the client's directory server.
     2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
 
-??? Question "How to link staff members (users) to a group?"
+!!! Question "How to link staff members (users) to a group?"
     
     There are two ways to link staff members (users) to groups, being:
 
@@ -365,7 +365,7 @@ Title: Frequently Asked Questions - FAQ
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
     5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit
 
-??? Question "How to relate group to contract?"
+!!! Question "How to relate group to contract?"
     
     To relate the group to the contract, proceed as follows:
     
@@ -377,7 +377,7 @@ Title: Frequently Asked Questions - FAQ
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
     
-??? Question "How to relate unit to contract?"
+!!! Question "How to relate unit to contract?"
     
     To relate the unit to the contract, proceed as follows:
     
@@ -389,7 +389,7 @@ Title: Frequently Asked Questions - FAQ
     6. Select the contracts to which the unit will be linked.
     7. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
+!!! Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
     
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
     
@@ -409,7 +409,7 @@ Title: Frequently Asked Questions - FAQ
 
 	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.
     
-??? Question "How to setup the SOLR feature?"
+!!! Question "How to setup the SOLR feature?"
     
     PARAMETER CONFIGURATION
     
@@ -426,7 +426,7 @@ Title: Frequently Asked Questions - FAQ
     5. Shortly after, click again on ”Index Knowledge Base";
     6. If any errors occur contact the ITSM Support.
     
-??? Question "To which recipient will be sent notifications of CI?"
+!!! Question "To which recipient will be sent notifications of CI?"
     
     CI notifications will be sent to the recipient defined in the Citsmart Parameter screen.
     
@@ -441,17 +441,17 @@ Title: Frequently Asked Questions - FAQ
     7. Click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
     8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
     
-??? Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
    
     [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
     
     [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
     
-??? Question "What is the attachment upload features file size limit?"
+!!! Question "What is the attachment upload features file size limit?"
     
     The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
    
-??? Question "What is the Fato table of the service request module and how to insert data?"
+!!! Question "What is the Fato table of the service request module and how to insert data?"
     
     The service request fact table is intended to receive consolidated information regarding the service request.
     
@@ -2700,7 +2700,7 @@ Title: Frequently Asked Questions - FAQ
 	```
 
 
-??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
+!!! Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
     
     When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.
     
@@ -2708,7 +2708,7 @@ Title: Frequently Asked Questions - FAQ
     - For example, service A has a linked quality flow, after solving a service A request and advancing the flow, the responsible group will be the quality group and this will terminate the life cycle of the request in question, but this group is not The group that solved this request, it only approved the solution and terminated the request, so it will not appear in the report generated by the Inquiries and Incidents search screen when the "Solver Group" filter is marked with a specific group.
     - However, when the "Solver Group" filter is not active, the group presented in the report or search will be the group referring to the current request task, ie if the request is closed and has a quality flow, the group will be presented Of quality as the current group responsible for closing the life cycle of this request, if the request is in progress, will be presented the current group responsible for the execution of this request.  
     
-??? Question "What is the meaning of each inventory status of CIs?"
+!!! Question "What is the meaning of each inventory status of CIs?"
     
     -  Inventory - the inventory was able to read the CI information and ended successfully
     - Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
@@ -2716,21 +2716,21 @@ Title: Frequently Asked Questions - FAQ
     - Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
     - Running - While reading the inventory, the IC is in this status.
     
-??? Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
+!!! Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
     
     - Public: all users with access to the Knowledge Portal have access, regardless of whether they have access to the knowledge folder.
     - Confidential: only author and approver can view knowledge.
     - Internal: only people with permission in the knowledge folder can view.
     
-??? Question "Is it possible to version knowledge in the knowledge management?"
+!!! Question "Is it possible to version knowledge in the knowledge management?"
     
     To version a knowledge, open one in the knowledge management interface, click on edit in the knowledge information screen and then on "Version". It's also possible to "Archive the previous version" of the knowledge
     
-??? Question "What permissions are necessary on the destination folder of the Logdata table backup?"
+!!! Question "What permissions are necessary on the destination folder of the Logdata table backup?"
 
     The permissions on the folder must be read and write to the user that JBoss uses.
     
-??? Question "When does data synchronization occur with LDAP?"
+!!! Question "When does data synchronization occur with LDAP?"
     
     The system synchronizes the credential data of its users with LDAP in three different situations:
     
@@ -2738,11 +2738,11 @@ Title: Frequently Asked Questions - FAQ
     2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's authentication and permission;
     3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.
     
-??? Question "When is removed the data from the Logdata table?"
+!!! Question "When is removed the data from the Logdata table?"
     
     The backup routine of the LogData table removes the data from the table and saves it to a file, that is, the table becomes clean after processing.
     
-??? Question "Why are the schedules created by the tool different from the current time?"
+!!! Question "Why are the schedules created by the tool different from the current time?"
     
     SCENARIO
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
@@ -2756,17 +2756,17 @@ Title: Frequently Asked Questions - FAQ
     3.Setting up the TimeZone on the JRE:
     https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
-??? Question "Why in some reports does the same request appear more than once?"
+!!! Question "Why in some reports does the same request appear more than once?"
     
     In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repeats" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
     
     In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not shown more than once.
     
-??? Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
+!!! Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
     
     This is not an error, the solver group field is populated only when the request is terminated, this causes to only brings results to situations such as "Closed", incompatible with what is being requested / reported in the filters.
     
-??? Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
+!!! Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
     
     Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
     
@@ -2775,11 +2775,11 @@ Title: Frequently Asked Questions - FAQ
     - There is an application stop for version upgrade, or environment maintenance and later return.
     - The environment is clustered.
     
-??? Question "Will the backup be overwritten or will there be a file for every day?"
+!!! Question "Will the backup be overwritten or will there be a file for every day?"
     
     If your routine has a daily backup, a file will be created every day, containing the name and date of the file.
     
-??? Question "Why does the system display an invalid date message when auditing the ticket?"
+!!! Question "Why does the system display an invalid date message when auditing the ticket?"
 
     In the Ticket Management interface, specifically in the "Audit" item, when trying to configure the auditing of an open ticket (set start and end dates in the filter), the following error may occur: the system will display the message "Invalid Date". This is because the functionality requires that the language set in the system and browser used be the same.
     If this requirement is not observed and this difference occurs in the languages, when auditing the tickets, the system will display a message and make it impossible to obtain the desired report. It's therefore necessary to match the system and browser languages.
