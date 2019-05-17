@@ -123,7 +123,7 @@ Procedure
 
 !!! Abstract "JS for visualization"
 
-  This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the "View Screen" button.       More information can be found in the Developing Applications.
+    This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the "View Screen" button.     More information can be found in the Developing Applications.
 
 
 !!! tip "About"
