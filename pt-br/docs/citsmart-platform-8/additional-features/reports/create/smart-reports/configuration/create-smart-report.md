@@ -2,6 +2,8 @@ title: Emitir relatório utilizando Smart Report
 Description: Permite emitir os relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
 # Emitir relatório utilizando Smart Report
 
+Esta funcionalidade permite emitir relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
+
 Procedimento
 ----------------
 
