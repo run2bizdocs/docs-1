@@ -18,7 +18,7 @@ Procedimiento
 
 2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3.  En el campo Dirigir para grupo, seleccione el grupo para el cual será
+3.  En el campo **Dirigir para grupo**, seleccione el grupo para el cual será
     direccionado el ticket para realizar su atención;
 
 4.  Haga clic en el botón de “Opciones” y después en el botón “Grabar y avanzar
