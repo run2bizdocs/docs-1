@@ -1,6 +1,6 @@
 Title:Conexión de Base de Datos
 Description: All database connections that are required for the applications created through Neuro are registered here.  
-#Conexión de Base de Datos  
+# Conexión de Base de Datos  
 
 Neuro requiere conexiones de base de datos para interfaces con base de datos.
 Es una buena práctica crear una Conexión BD por la aplicación Neuro.
