@@ -22,7 +22,7 @@ carece de permisos definidos por un administrador de la herramienta.
 Procedimiento
 -----------------
 
-*Utilizar una plantilla para personalizar el panel del usuario*
+***Utilizar una plantilla para personalizar el panel del usuario***
 
 1.  Para ver las plantillas disponibles, haga clic en el icono "Visualizar/ocultar menu";
 
@@ -34,7 +34,7 @@ Procedimiento
 
 4.  Para borrar un dashboard, haga clic en el icono "Eliminar dashboard" .
 
-*Insertar elementos manualment*
+***Insertar elementos manualment***
 
 1.  Para agregar elementos como enlaces, informes inteligentes o widgets, haga
     clic en el icono "Activar el modo de edición" y después en "Añadir nuevo
