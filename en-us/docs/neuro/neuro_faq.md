@@ -65,9 +65,9 @@ Description: CITSmart - FAQ
 
 	In short steps, it is recommended to follow the following order:
 
-	        1. Register the main workflow;
-		2. Register the sub-process;
-		3. Include the element of sub-process, making a reference to the sub-process already created.
+	1. Register the main workflow;
+        2. Register the sub-process;
+	3. Include the element of sub-process, making a reference to the sub-process already created.
 
 ??? Question "What is the difference between a process integration workflow and a service integration workflow?"
 	The process integration workflow has tasks performed by users, and may also have automated tasks performed by the system.
