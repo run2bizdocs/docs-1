@@ -20,7 +20,7 @@ the tool manager.
 Procedure
 -------------
 
-*Use a template to customize the user panel*
+***Use a template to customize the user panel***
 
 1.  To view the templates available, click on the “Show/Hide menu” icon;
 
@@ -32,7 +32,7 @@ Procedure
 
 4.  To delete a dashboard, click on the “Remove dashboard” icon.
 
-*Enter elements manually*
+***Enter elements manually***
 
 1.  To add elements with links, smart reports or widgets, click on the “Enable
     edit mode” icon and then on “Add new widget” icon:
