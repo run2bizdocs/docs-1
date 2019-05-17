@@ -62,6 +62,8 @@ Relacionado
 
 [Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
+[Manual de uso de la aplicación CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+
 
 !!! tip "About"
 
