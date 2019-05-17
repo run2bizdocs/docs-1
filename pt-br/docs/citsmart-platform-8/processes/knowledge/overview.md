@@ -18,7 +18,7 @@ Uso
 
 - [Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
-- [Refinar pesquisas no Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Criar Centro de experiência](/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
 
 - [Revisar comentários do Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
 
@@ -27,7 +27,11 @@ Configuração
 
 - [Criar pasta](/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
 
+- [Principais recursos utilizados na busca](/pt-br/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+
 - [Cadastrar categoria de imagem](/pt-br/citsmart-platform-8/processes/knowledge/configuration/register-image-category.html)
+
+- [Notificar responsável da expiração](/pt-br/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
 
 - [Armazenar imagens na galeria](/pt-br/citsmart-platform-8/processes/knowledge/configuration/store-images-gallery.html)
 
