@@ -1,6 +1,7 @@
 title:  Reclasificar ticket 
 Description: Después de crear un ticket, es posible reclasificar su información 
-#Reclasificar ticket
+# Reclasificar ticket
+
 Después de crear un ticket, es posible reclasificar su información. Esta acción desencadena un e-mail para el solicitante informando sobre el cambio.
 No se permite delegar el ticket a un empleado si la situación es Resuelta.
 
