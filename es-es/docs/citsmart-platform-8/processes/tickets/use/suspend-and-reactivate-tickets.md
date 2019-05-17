@@ -29,11 +29,7 @@ Procedimiento
         y el complemento de ésta. Después de los datos informados, haga clic en
         el botón "Suspender" para efectuar la operación;
 
-    -   Para reactivar múltiples tickets, seleccione la opción "Reactivar
-        solicitud" para rellenar los campos necesarios, como: contrato,
-        solicitante y el grupo responsable de la atención de los tickets que
-        serán suspendidos, y después haga clic en el botón "Reactivar" para
-        efectuar la operación.
+    -   Para reactivar múltiples tickets, seleccione la opción **"Reactivar solicitud"** para rellenar los campos necesarios,                   como: contrato, solicitante y el grupo responsable de la atención de los tickets que serán suspendidos, y después haga clic en           el botón "Reactivar" para efectuar la operación.
 
 Relacionado
 -----------
