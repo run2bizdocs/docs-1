@@ -1,15 +1,18 @@
 Title: Fluxo de integração de processos  
 Description:Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.  
 
-#Fluxo de integração de processos  
+# Fluxo de integração de processos  
 
 Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
 ##COMO ACESSAR  
+
 1- Acesse a funcionalidade através do menu Workflow/ESI → Administração → Design workflow/ESI.  
 
-##PRÉ-CONDIÇÕES  
+##PRÉ-CONDIÇÕES 
+
 1- Não se aplica.   
+
 
 ##FILTROS   
 1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
@@ -19,13 +22,15 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 ![Screenshot](images/Process-fig01.png)   
 Figura 1 - Tela de pesquisa de design workflow/ESI   
 
-##LISTAGEM DE ITENS   
+##LISTAGEM DE ITENS 
+
 1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Process-fig02.png) 
 Figura 2 - Tela de listagem de design workflow/ESI   
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO  
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO
+
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
 1- Clique em Cadastrar → Fluxo de integração de processos, conforme ilustrado na figura abaixo:    
@@ -48,7 +53,7 @@ Figura 4 - Tela de cadastro de fluxo de integração de serviços - aba dados de
 
 	-   Não gerencia: quando o tempo não é gerenciado no fluxo cadastrado.  
 
-	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução cadastrado no processo de negócio  
+	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução cadastrado no              processo de negócio  
 
 	-   Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
 
@@ -56,10 +61,11 @@ Figura 4 - Tela de cadastro de fluxo de integração de serviços - aba dados de
 
 Verificar documentação de Variáveis.    
 
-##ESTADOS    
+##ESTADOS 
+
 Os estados do fluxo representam as situações nas quais um fluxo pode se encontrar, de acordo com o seu ciclo de vida.    
 
-1- Para adicionar um estado para o workflow, selecione a aba Estados e clique em Adicionar.   
+1- Para adicionar um estado para o workflow, selecione a aba Estados e clique em "Adicionar".   
 2- Será apresentado a seguinte tela de cadastro de estado:    
 
 ![Screenshot](images/Process-fig05.png)   
@@ -74,17 +80,18 @@ Figura 5 - Tela de cadastro de fluxo de integração de serviços - aba estado
 - Se é o estado inicial do fluxo;    
 - A situação da instância do fluxo, ou seja, se nesse estado o workflow estará aberto, encerrado, suspenso ou cancelado.   
 
-4- Para editar um estado, selecione o estado desejado, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.   
-5- Para remover um estado, selecione a estado desejado, clique em Remover e confirme a exclusão.   
+4- Para editar um estado, selecione o estado desejado, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.   
+5- Para remover um estado, selecione a estado desejado, clique em "Remover" e confirme a exclusão.   
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+    Para salvar efetivamente as alterações, clique em "Salvar" na barra superior. 
 	
-##AÇÕES  
+##AÇÕES
+
 Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
 
-1- Para incluir uma ação, selecione a aba Ações e clique na opção Adicionar.  
+1- Para incluir uma ação, selecione a aba Ações e clique na opção "Adicionar".  
 2- Será apresentado a tela de cadastro de ação, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/Process-fig06.png)  
@@ -98,19 +105,20 @@ Figura 6 - Tela de cadastro/edição do workflow, aba de ações
 - Se a ação exige ou não um motivo.   
 
 4- Adicionalmente, poderá ser definido um Script para ser executado quando a ação for acionada.    
-5- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
-6- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
+5- Para editar uma ação, selecione a ação desejada, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.  
+6- Para remover uma ação, selecione a mesma, clique em "Remover" e confirme a exclusão.  
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+    Para salvar efetivamente as alterações, clique em "Salvar" na barra superior.  
 	
-##ATORES    
+##ATORES 
+
 Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
 
 Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de pedido de delivery de pizza, você provavelmente contará com atores como o cliente, o atendente, o pizzaiolo, e o entregador. Todos esses papéis são considerados atores no fluxo, pois todos eles participam do processo de entrega de pizzas.    
 
-1- Para incluir uma ação, selecione a aba Atores e clique na opção Adicionar.    
+1- Para incluir uma ação, selecione a aba Atores e clique na opção "Adicionar";    
 2- Será apresentado a tela de cadastro de ação, conforme ilustrado na figura abaixo:    
 	
 ![Screenshot](images/Process-fig07.png) 
@@ -134,13 +142,13 @@ Figura 7 - Tela de cadastro/edição do workflow, aba de Atores
 - Caso o tipo de ator seja “Usuário”, deverá ser informado o “login” do usuário cadastrado no GRP.   
 - Caso o tipo de ator seja “Grupo”, deverá ser informado a “sigla” do grupo cadastrado no GRP.    
 
-6- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição. 
+6- Para editar uma ação, selecione a ação desejada, clique em "Editar", faça as alterações necessárias e clique em Atualizar para concluir a edição. 
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+    Para salvar efetivamente as alterações, clique em "Salvar" na barra superior.  
 	
-7- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.  
+7- Para remover uma ação, selecione a mesma, clique em "Remover" e confirme a exclusão.  
 	
 ##DIAGRAMA  
 
