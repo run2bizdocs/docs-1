@@ -1,12 +1,12 @@
 title: CSS  
 Description: O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.   
-#CSS
+# CSS
 
 O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.     
 
 !!! Abstract "ATENÇÃO"  
 
-    A pasta é um agrupador físico dos arquivos no servidor, para fins de organização. A pasta configurada não interfere no funcionamento do sistema.  
+    A pasta é um agrupador físico dos arquivos no servidor, para fins de organização. A pasta configurada não interfere no funcionamento     do sistema.  
 
 ##COMO ACESSAR    
 
@@ -26,13 +26,15 @@ O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses a
 
 Figura 1 - Tela de pesquisa de CSS  
 
-##LISTAGEM DE ITENS  
+##LISTAGEM DE ITENS
+
 1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Recurso, Nome, Descrição e Versão.      
 
 ![Screenshot](images/CSS-Item-List.png)   
 Figura 2 - Tela de listagem de CSS  
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+##PREENCHIMENTO DOS CAMPOS CADASTRAIS
+
 1- Para cadastrar um novo arquivo CSS, clique em Cadastrar, conforme ilustrado na figura abaixo:   
 
 ![Screenshot](images/CSS-Filling.png)  
