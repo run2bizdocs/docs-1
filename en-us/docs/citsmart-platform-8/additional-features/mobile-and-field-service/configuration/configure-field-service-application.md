@@ -27,7 +27,7 @@ Before getting started
 Procedure
 -------------
 
-*Webservice*
+***Webservice***
 
 1.  Access the functionality through the main menu System \> Webservice \>
     Webservice Operation;
@@ -60,7 +60,7 @@ Procedure
 
 1.  Click on "Save" after configure the groups in each webservice.
 
-*Unit*
+***Unit***
 
 1.  Access the functionality through the main menu General Registration \>
     Personnel Management \> Unit;
