@@ -64,9 +64,9 @@ Description: CITSmart - FAQ
 
 	Resumiendo en pasos, se recomienda seguir el siguiente orden:
 
-			1. Registro del flujo principal;
-			2. Registro del subproceso;
-			3. Inclusión del elemento de subproceso, haciendo referencia al subproceso ya creado.
+	1. Registro del flujo principal;
+	2. Registro del subproceso;
+	3. Inclusión del elemento de subproceso, haciendo referencia al subproceso ya creado.
 
 ??? Question "¿Cuál es la diferencia entre un flujo de integración de procesos y un flujo de integración de servicios?"
 	Los flujos de integración de procesos son flujos de trabajo que tienen tareas ejecutadas por usuarios, pudiendo también poseer tareas automáticas ejecutadas por el sistema.
