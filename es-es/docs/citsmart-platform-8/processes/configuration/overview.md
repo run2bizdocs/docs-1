@@ -31,6 +31,10 @@ Configuración
 
 - [Registrar parametrización - configuración](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
+- [Crear elemento de configuración secundario](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+
+- [Crear conexión con el servidor de acceso remoto](/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
+
 Uso
 -------
 
@@ -45,8 +49,6 @@ Uso
 - [Vincular calendario al grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
 - [Vincular acuerdo de nivel de servicio al grupo de EC](/es-es/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
-
-- [Crear elemento de configuración secundario](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Ejecutar script del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
