@@ -31,7 +31,7 @@ Configuração
 
 - [Cadastrar categoria de imagem](/pt-br/citsmart-platform-8/processes/knowledge/configuration/register-image-category.html)
 
-- [Notificar responsável da expiração](/pt-br/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
+- [Notificar responsável da expiração de conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
 
 - [Armazenar imagens na galeria](/pt-br/citsmart-platform-8/processes/knowledge/configuration/store-images-gallery.html)
 
@@ -40,6 +40,8 @@ Configuração
 - [Cadastrar assunto](/pt-br/citsmart-platform-8/processes/knowledge/configuration/register-subject.html)
 
 - [Configurar parametrização - conhecimento](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+
+- [Configurar acesso externo ao Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
 Relatório
 -----------
