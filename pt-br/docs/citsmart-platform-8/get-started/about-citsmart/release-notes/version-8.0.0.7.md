@@ -1,4 +1,4 @@
-Description: Release Notes CITSmart Versão 8.0.0.7 de 17/05/2019
+Description: Release Notes CITSmart Versão 8.0.0.7 de 17/05/2019 
 
 # Versão 8.0.0.7
 _17/05/2019_
