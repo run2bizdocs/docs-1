@@ -86,20 +86,24 @@ Use
 
 - [Register ticket source](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-source.html)
 
-- [Create template of incident, request and procedure](/en-us/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
-
 - [Verify my tickets](/en-us/citsmart-platform-8/processes/tickets/use/verify-my-tickets.html)
 
 Configuration
 -----------------
 
-- [Approve request via email](/en-us/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
+- [Configure approval request via email](/en-us/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
 
 - [Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 - [How to relate group to contract](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 - [How to relate unit to the contract](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-unit-to-contract.html)
+
+- [Automatically create a ticket from the receiving of an email](/en-us/citsmart-platform-8/processes/tickets/configuration/create-ticket-receiving-email.html#automatically-create-a-ticket-from-the-receiving-of-an-email)
+
+- [Notification through delegated email ticket](/en-us/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html)
+
+- [How to create, and then, close the ticket](/en-us/citsmart-platform-8/processes/tickets/configuration/create-then-close-ticket.html)
 
 - [Register cause of incidents](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
@@ -110,6 +114,8 @@ Configuration
 - [Register solution category](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
 - [Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+
+- [Create template of incident, request and procedure](/en-us/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
 
 Report
 ----------
