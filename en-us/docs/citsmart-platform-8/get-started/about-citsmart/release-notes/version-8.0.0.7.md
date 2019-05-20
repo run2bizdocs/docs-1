@@ -4,7 +4,7 @@ Description: Release Notes from CITSmart Version 8.0.0.7 of 05/17/2019
 _05/17/2019_
 With performance optimizations, usability improvements, adjustments and bug fixes.
 
-## Problmes fixed
+## Problems fixed
 
 | **Code**   | **Ticket Description**                                                                                                                                                                                                                                          | **type**     |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
