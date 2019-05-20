@@ -58,7 +58,7 @@ Uso
 
 - [Comprobar procesos relacionados al elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/CI-processes-related.html)
 
-- [Vincular atributos de demanda al IC](/es-es/citsmart-platform-8/processes/configuration/use/link-demand-attributes-to-CI.html)
+- [Vincular atributos de demanda al EC](/es-es/citsmart-platform-8/processes/configuration/use/link-demand-attributes-to-CI.html)
 
 - [Hacer análisis de impacto del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/configuration-item-impact.html)
 
