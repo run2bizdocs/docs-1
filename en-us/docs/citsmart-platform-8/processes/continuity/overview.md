@@ -77,6 +77,8 @@ Use
 Configuration
 -----------------
 
+- [Define access permission to continuity management](/en-us/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+
 - [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
 - [Register a client](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
