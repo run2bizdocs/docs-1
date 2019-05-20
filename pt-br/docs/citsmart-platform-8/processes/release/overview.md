@@ -39,7 +39,7 @@ Uso
    
 - [Reabrir liberação](/pt-br/citsmart-platform-8/processes/release/use/reopen-release.html)
 
-- [Suspender registro de liberação](/pt-br/citsmart-platform-8/processes/release/use/suspend-release.html)
+- [Suspender a liberação](/pt-br/citsmart-platform-8/processes/release/use/suspend-release.html)
 
 Configuração
 -----------------
