@@ -10,13 +10,11 @@ La Gestión de Nivel de Servicio es un proceso responsable de mantener, mejorar 
 Uso
 -------
 
-- [Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
-
 - [Acuerdo de Nivel de Serviço](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
 
 - [Evaluación del contrato](/es-es/citsmart-platform-8/processes/service-level/use/contract-evaluation.html)
 
-- [Evaluación del fornecedor](/es-es/citsmart-platform-8/processes/service-level/use/provider-evaluation.html)
+- [Evaluación del proveedor](/es-es/citsmart-platform-8/processes/service-level/use/provider-evaluation.html)
 
 - [Evaluación del SLA](/es-es/citsmart-platform-8/processes/service-level/use/SLA-evaluation.html)
 
@@ -28,6 +26,8 @@ Configuración
 -----------------
 
 - [Registrar Prioridad](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+
+- [Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
 
 Informe
 ----------
