@@ -9,6 +9,7 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 ## [Versão 8.0.0.3 (2019/04/04)][4]
 ## [Versão 8.0.0.4 (2019/04/12)][5]
 ## [Versão 8.0.0.5 (2019/04/25)][6]
+## [Versão 8.0.0.7 (2019/05/17)][7]
 
 
 [1]:release-notes/version-8.0.0.0.md
@@ -17,3 +18,4 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 [4]:release-notes/version-8.0.0.3.md
 [5]:release-notes/version-8.0.0.4.md
 [6]:release-notes/version-8.0.0.5.md
+[6]:release-notes/version-8.0.0.7.md
