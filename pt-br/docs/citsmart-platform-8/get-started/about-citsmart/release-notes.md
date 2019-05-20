@@ -18,4 +18,4 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 [4]:release-notes/version-8.0.0.3.md
 [5]:release-notes/version-8.0.0.4.md
 [6]:release-notes/version-8.0.0.5.md
-[6]:release-notes/version-8.0.0.7.md
+[7]:release-notes/version-8.0.0.7.md
