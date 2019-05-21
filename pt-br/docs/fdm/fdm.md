@@ -64,7 +64,6 @@ alcançados com o uso da metodologia.
 |--------------------------------------------------------------------------------------------------------|------------|--------|
 | [Checklist da metodologia](artefatos/check_list_metodologia_citsmart_fdm.xlsx)                         | 21/05/2019 | V.1    |
 | [Gerenciamento de riscos](artefatos/template_gerenciamento_de_riscos.docx) (template)                  | 21/05/2019 | V.1    |
-| [Workbook](artefatos/template_workbook.xlsm) (template)                                                | 21/05/2019 | V.1    |
 | [Lições Aprendidas](artefatos/template_licoes_aprendidas.docx) (template)                              | 21/05/2019 | V.1    |
 | [Matriz de Comunicação](artefatos/template_matriz_de_comunicacao.xlsx) (template)                      | 21/05/2019 | V.1    |
 | [Matriz Gestao de Riscos](artefatos/template_matriz_gestao_de_riscos.xlsx) (template)                  | 21/05/2019 | V.1    |
@@ -78,3 +77,5 @@ alcançados com o uso da metodologia.
 | [Roteiro de Teste](artefatos/template_roteiro_de_testes.xlsx) (template)                               | 21/05/2019 | V.1    |
 | [Status Report](artefatos/template_status_report.docx) (template)                                      | 21/05/2019 | V.1    |
 | [Termo de Aceite](artefatos/template_termo_de_aceite_da_entrega.docx) (template)                       | 21/05/2019 | V.1    |
+| [Workbook](artefatos/template_workbook.xlsm) (template)                                                | 21/05/2019 | V.1    |
+
