@@ -6,7 +6,8 @@ Esta funcionalidade tem por objetivo configurar as opções de Menu para o uso v
 
 !!! Abstract "ATENÇÃO"
 
-    O aplicativo Experience permite utilizar as funcionalidades da versão *web* escolhidas na versão mobile, tendo as mesmas                 funções que a versão desktop.  
+    O aplicativo Experience permite utilizar as funcionalidades da versão 
+    *web* escolhidas na versão mobile, tendo as mesmas funções que a versão desktop.  
 
 Antes de começar
 ----------------
