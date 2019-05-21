@@ -1,6 +1,6 @@
 title: Configurar parametrização - chat
 Description: Permite o usuário ter contato direto ao atendente do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros.
-#Configurar parametrização - chat
+# Configurar parametrização - chat
 
 A noção de "Chat" é usada para fazer alusão à troca de mensagens escritas de
 forma instantânea. Neste caso, permite o usuário ter contato direto ao atendente
