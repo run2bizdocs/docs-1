@@ -81,6 +81,8 @@ Configuration
 
 - [Register satisfaction survey](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
+- [Register company](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-company.html)
+
 Report
 ----------
 
