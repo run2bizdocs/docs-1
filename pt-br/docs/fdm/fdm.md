@@ -17,9 +17,6 @@ simplicidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srL1bL_s-F4" controls="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe> 
 
-<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/jNQXAC9IVRw?ecver=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div style="text-align: center; margin: auto"></iframe>
-
-
 !!! info "DOWNLOAD"
     [Fast Deployment Methodology (FDM)](artefatos/fdm_citsmart.pdf)
 
@@ -67,7 +64,7 @@ alcançados com o uso da metodologia.
 |--------------------------------------------------------------------------------------------------------|------------|--------|
 | [Checklist da metodologia](artefatos/check_list_metodologia_citsmart_fdm.xlsx)                         | 21/05/2019 | V.1    |
 | [Gerenciamento de riscos](artefatos/template_gerenciamento_de_riscos.docx) (template)                  | 21/05/2019 | V.1    |
-| [Levantamento Requisitos](artefatos/template_levantamento_requisitos.xlsm) (template)                  | 21/05/2019 | V.1    |
+| [Workbook](artefatos/template_workbook.xlsm) (template)                                                | 21/05/2019 | V.1    |
 | [Lições Aprendidas](artefatos/template_licoes_aprendidas.docx) (template)                              | 21/05/2019 | V.1    |
 | [Matriz de Comunicação](artefatos/template_matriz_de_comunicacao.xlsx) (template)                      | 21/05/2019 | V.1    |
 | [Matriz Gestao de Riscos](artefatos/template_matriz_gestao_de_riscos.xlsx) (template)                  | 21/05/2019 | V.1    |
