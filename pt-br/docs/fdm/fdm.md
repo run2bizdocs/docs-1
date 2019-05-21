@@ -1,4 +1,4 @@
-![](img/fdm_icone.png)
+![xxx](img/fdm_icone.png)
 
 Fast Deployment Methodology (FDM) 
 ==================================
@@ -45,7 +45,7 @@ A FDM está organizada para trabalhar em um modelo flexível, onde diferentes
 equipes conseguem executar seus trabalhos utilizando várias estruturas de
 gerenciamento e padrões, mantendo a sincronização com os objetivos do cliente.
 
-![](img/pt-fdm-fig-03@2x.png)
+![xxx1](img/pt-fdm-fig-03@2x.png)
 
 Artefatos da FDM
 ----------------
