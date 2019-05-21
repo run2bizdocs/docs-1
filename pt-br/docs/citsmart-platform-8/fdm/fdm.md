@@ -3,7 +3,7 @@ Description: A Fast Deployment Methodology (FDM) é uma metodologia criada pela 
 
 ![FDM](img/fmd_icone_t.png)
 
-Fast Deployment Methodology (FDM) 
+FDM
 ==================================
 
 O que é FDM?
