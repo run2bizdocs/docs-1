@@ -19,6 +19,12 @@ Aprobación", y el servidor de correo electrónico deberá ser configurado con
 todos los parámetros referentes a las reglas de parametrización de correo
 electrónico.
 
+!!! Abstract "ATENCIÓN"
+
+    La aprobación de ticket vía correo electrónico será posible sólo con los 
+    siguientes navegadores configurados por defecto: Mozilla Firefox, Google 
+    Chrome y Microsoft Edge a partir de la versión 42.17134.1.0.
+
 Procedimiento
 -----------------
 
