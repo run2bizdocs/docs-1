@@ -17,7 +17,8 @@ simplicidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srL1bL_s-F4" controls="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe> 
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="560.7" height="315" type="text/html" src="https://www.youtube.com/embed/srL1bL_s-F4?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0></iframe>
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/jNQXAC9IVRw?ecver=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div style="text-align: center; margin: auto"></iframe>
+
 
 !!! info "DOWNLOAD"
     [Fast Deployment Methodology (FDM)](artefatos/fdm_citsmart.pdf)
