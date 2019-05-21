@@ -32,7 +32,7 @@ Configuration
 - [Create child configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
-
+ 
 Use
 -------
 
