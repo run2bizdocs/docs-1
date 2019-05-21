@@ -1,4 +1,4 @@
-![FDM](img/fdm_icone_t.png)
+![FDM](img/fmd_icone_t.png)
 
 Fast Deployment Methodology (FDM) 
 ==================================
