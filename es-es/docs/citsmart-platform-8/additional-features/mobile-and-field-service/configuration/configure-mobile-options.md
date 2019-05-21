@@ -6,7 +6,9 @@ Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el u
 
 !!! Abstract "ATENCIÓN"
 
-    La aplicación CITSmart Experience permite utilizar las características de la versión *web* elegidas en la versión móvil,         teniendo las mismas funciones que la versión de desktop.
+    La aplicación CITSmart Experience permite utilizar las características de la 
+    versión *web* elegidas en la versión móvil, teniendo las mismas funciones que 
+    la versión de desktop.
 
 Antes de empezar
 --------------------
