@@ -6,7 +6,8 @@ This functionality is intended to configure the Menu options for the mobile usag
 
 !!! Abstract "NOTE"
 
-    The CITSmart Experience application allows you to use the features of the *web* version chosen in the mobile version, having       the same functions as the desktop version.
+    The CITSmart Experience application allows you to use the features of the *web* 
+    version chosen in the mobile version, having the same functions as the desktop version.
 
 Before getting started
 --------------------------
