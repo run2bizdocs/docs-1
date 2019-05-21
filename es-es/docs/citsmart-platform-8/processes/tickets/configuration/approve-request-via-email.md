@@ -95,4 +95,4 @@ Adjunto
     <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/images/aprobacion.docx
+[1]:/es-es/citsmart-platform-8/processes/tickets/images/aprobacion.docx
