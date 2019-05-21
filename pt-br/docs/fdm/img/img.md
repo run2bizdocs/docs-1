@@ -1,1 +1,0 @@
-fdm_icone
