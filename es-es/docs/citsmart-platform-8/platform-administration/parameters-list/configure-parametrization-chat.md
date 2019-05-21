@@ -24,7 +24,7 @@ Procedimiento
 |  317  | ID de la actividad de las solicitudes creadas por el chat |                      | ID de la actividad de las solicitudes creadas por lo chat |            No se aplica           |
 |  388  |      ID de usuario predeterminado (solicitud externa)     |                      |        ID del usuario estándar (Solicitud externa)        |            No se aplica           |
 |  389  |       ID de grupo predeterminado (solicitud externa)      |                      |         ID del grupo estándar (Solicitud externa)         |            No se aplica           |
-|  390  |                ID de unidad predeterminada                |                      |                  ID de la unidad estándar                 |            No se aplica           |
+|  390  |                ID de unidad predeterminada                |                      |                  ID de la Unidad que se asignará al usuario registrado en el perfil                 |            No se aplica           |
 
 Tabla 1 - Lista de parámetros
 
