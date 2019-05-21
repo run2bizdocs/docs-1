@@ -15,12 +15,10 @@ maneira rápida, adequada às necessidades dos clientes e de acordo com os padr�
 exigidos no mercado, ou seja, é alta entrega de valor primando pela
 simplicidade.
 
-!!! info "DOWNLOAD"
-    [Download da Metodologia](artefatos/fdm_citsmart.pdf)
-
-[Download da Metodologia](artefatos/fdm_citsmart.pdf)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srL1bL_s-F4" controls="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe> 
+
+!!! info "DOWNLOAD"
+    [Fast Deployment Methodology (FDM)](artefatos/fdm_citsmart.pdf)
 
 Etapas para implantação 
 ------------------------
