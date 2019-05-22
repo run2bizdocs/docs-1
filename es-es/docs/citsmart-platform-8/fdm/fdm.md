@@ -70,7 +70,7 @@ Los modelos de documentos utilizados y los artefactos generados en la aplicació
 | [Registro de reunión](artefacto/template_registro_de_reunion.docx) (plantilla)                          | 22/05/2019 | V.1    |
 | [Solicitud de Cambio](artefacto/template_solicitud_de_cambio.docx) (plantilla)                  | 22/05/2019 | V.1    |
 | [Reunión de KickOff](artefacto/template_reunion_kickoff.pptx) (plantilla)                               | 22/05/2019 | V.1    |
-| [Ruta de Prueba](artefacto/template_workbook.xlsm) (plantilla)                               | 22/05/2019 | V.1    |
+| [Ruta de Prueba](artefacto/template_guión_de_prueba.xlsx) (plantilla)                               | 22/05/2019 | V.1    |
 | [Status Report](artefacto/template_status_report.docx) (plantilla)                                      | 22/05/2019 | V.1    |
 | [Término de aceptación](artefacto/template_termino_de_aceptacion_de_entrega.docx) (plantilla)                       | 22/05/2019 | V.1    |
 | [Workbook](artefacto/template_workbook.xlsm) (plantilla)                                                | 22/05/2019 | V.1    |
