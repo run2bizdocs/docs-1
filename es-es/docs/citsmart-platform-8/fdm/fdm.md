@@ -16,7 +16,7 @@ en el mercado,o sea, es alta entrega de valor primario por la simplicidad.
 
 
 !!! info "DOWNLOAD"
-    [Fast Deployment Methodology (FDM0](artefacto/metodologia.pdf)
+    [Fast Deployment Methodology (FDM)](artefacto/metodologia.pdf)
     
 Etapas para implementación 
 ----------------------------
