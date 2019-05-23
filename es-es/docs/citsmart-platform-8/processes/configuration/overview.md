@@ -64,7 +64,7 @@ Uso
 
 - [Comprobar el historial de elementos de configuración](/es-es/citsmart-platform-8/processes/configuration/use/CI-history.html)
 
-- [Comprobar estado de ejecución del invatio del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
+- [Comprobar estado de ejecución del inventario del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
 
 - [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
