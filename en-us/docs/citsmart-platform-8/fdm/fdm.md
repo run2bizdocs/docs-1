@@ -18,7 +18,7 @@ for simplicity.
     [Fast Deployment Methodology (FDM)](artifacts/methodology.en.pdf)
     
 Stages for deployment
-----------------------
+------------------------
 
 For greater effectiveness, FDM steps were developed organized
 and based on fundamental management:
