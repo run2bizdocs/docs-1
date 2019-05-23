@@ -10,7 +10,7 @@ La Gestión de Nivel de Servicio es un proceso responsable de mantener, mejorar 
 Uso
 -------
 
-- [Acuerdo de Nivel de Serviço](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+- [Acuerdo de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
 
 - [Evaluación del contrato](/es-es/citsmart-platform-8/processes/service-level/use/contract-evaluation.html)
 
