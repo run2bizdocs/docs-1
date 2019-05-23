@@ -2,7 +2,7 @@ title: Configurar las opciones del móvil
 Description: Configurar las opciones de Menú para el uso vía móvil.
 # Configurar las opciones del mobile
 
-Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el uso vía mobile.
+Esta funcionalidad tiene por objetivo configurar las opciones de Menú para el uso vía mobile.Al configurar estas opciones, las mismas estarán disponibles en la aplicación CITSmart Experience y en el sitio ITSM en la versión móvil.
 
 !!! Abstract "ATENCIÓN"
 
