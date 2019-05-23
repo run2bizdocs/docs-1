@@ -1,13 +1,14 @@
-title: Configure mobile options
+title: Configure the menu options in mobile
 Description: Intended to configure the Menu options to the use through mobile.
-# Configure mobile options
+# Configure the menu options in mobile
 
 This functionality is intended to configure the Menu options for the mobile usage. When configuring these options, they'll be available in the CITSmart Experience application and the ITSM mobile site
 
 !!! Abstract "NOTE"
 
-    The CITSmart Experience application allows you to use the features of the *web* 
-    version chosen in the mobile version, having the same functions as the desktop version.
+    The Experience application allows you to use the features of the *web* 
+    version chosen in the mobile version, having the same functions as the 
+    desktop version.
 
 Before getting started
 --------------------------
