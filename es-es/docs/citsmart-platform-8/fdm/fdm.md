@@ -58,7 +58,7 @@ Los modelos de documentos utilizados y los artefactos generados en la aplicació
 
 | Artefacto                                                                                               | Fecha       | Versión |
 |--------------------------------------------------------------------------------------------------------|------------|--------|
-| [Checklist de la metodologáa](artefacto/check_list_metodologia.xlsx)                         | 22/05/2019 | V.1    |
+| [Checklist de la metodología](artefacto/check_list_metodologia.xlsx)                         | 22/05/2019 | V.1    |
 | [Gestión de riesgos](artefacto/template_plan_de_gestion_de_riesgos.docx) (plantilla)                  | 22/05/2019 | V.1    |
 | [Lecciones Aprendidas](artefacto/template_lecciones_aprendidas.docx) (plantilla)                              | 22/05/2019 | V.1    |
 | [Matriz de Comunicación](artefacto/template_matriz_de_comunicacion.xlsx) (plantilla)                      | 22/05/2019 | V.1    |
