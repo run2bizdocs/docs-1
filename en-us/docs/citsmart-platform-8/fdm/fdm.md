@@ -68,7 +68,7 @@ treated and mitigated proactively.
 | [Project Plan](artifacts/template_projec_plan.docx) (template)                         | 05/22/2019 | V.1    |
 | [Meeting Registration](artifacts/template_meeting_registration.docx) (template)                          | 05/22/2019 | V.1    |
 | [Request for Change](artifacts/template_request_for_change.docx) (template)                  | 05/22/2019 | V.1    |
-| [KickOff Meeting](artifacts/template_project_kick_off.pptx) (template)                               | 05/22/2019 | V.1    |
+| [KickOff Meeting](artifacts/template_project_ kick_off.en.pptx) (template)                               | 05/22/2019 | V.1    |
 | [Test Roadmap](artifacts/template_script_of_test.xlsx) (template)                               | 05/22/2019 | V.1    |
 | [Status Report](artifacts/template_status_report_en.docx) (template)                                      | 05/22/2019 | V.1    |
 | [Delivery Acceptance Term](artifacts/template_delivery_acceptance_term.docx) (template)                       | 05/22/2019| V.1    |
