@@ -36,6 +36,7 @@ right people, so bottlenecks, risks and any other negative impact factor can be
 treated and mitigated proactively.
 
 -   **Deployment Project**
+
  For project management we use and are inspired by the agile and project
  management methodologies already consolidated in the market.
  
