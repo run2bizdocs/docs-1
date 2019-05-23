@@ -49,7 +49,7 @@ treated and mitigated proactively.
  ![Structure](img/us-fdm-fig-03@2x.png)
  
  FDM Artifacts
- ---------------
+ ------------------
  
  The document templates used, and artifacts generated in the FDM application,
  listed below, are essential for the traceability and measurement of results
