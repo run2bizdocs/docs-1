@@ -55,23 +55,30 @@ FDM Artifacts
  listed below, are essential for the traceability and measurement of results
  achieved using the methodology. 
  
-| Artifacts                                                                                            | Date     | Version |
-|--------------------------------------------------------------------------------------------------------|------------|--------|
-| [Methodology Checklist](artifacts/check_list_methodology.xlsx)                         | 05/22/2019 | V.1    |
-| [Risk management](artifacts/template_risk_management.docx) (template)                  | 05/22/2019 | V.1    |
-| [Lessons Learned](artifacts/template_lessons_learned.docx) (template)                              | 05/22/2019| V.1    |
-| [Communication Matrix](artifacts/template_communication_matrix.xlsx) (template)                      | 05/22/2019 | V.1    |
-| [Risk Management Matrix](artifacts/template_matrix_risk_management.xlsx) (template)                  | 05/22/2019 | V.1    |
-| [Satisfaction survey project](artifacts/template_satisfaction_survey_project.xlsx) (template)    | 05/22/2019 | V.1    |
-| [Satisfaction Survey Support](artifacts/template_satisfaction_survey_support.xlsx) (template) | 05/22/2019 | V.1    |
-| [Communication Plan](artifacts/template_communication_plan.docx) (template)                        | 05/22/2019 | V.1    |
-| [Project Plan](artifacts/template_projec_plan.docx) (template)                         | 05/22/2019 | V.1    |
-| [Meeting Registration](artifacts/template_meeting_registration.docx) (template)                          | 05/22/2019 | V.1    |
-| [Request for Change](artifacts/template_request_for_change.docx) (template)                  | 05/22/2019 | V.1    |
-| [KickOff Meeting](artifacts/template_project_kick_off.en.v1.pptx) (template)                               | 05/22/2019 | V.1    |
-| [Test Roadmap](artifacts/template_script_of_test.xlsx) (template)                               | 05/22/2019 | V.1    |
-| [Status Report](artifacts/template_status_report_en.docx) (template)                                      | 05/22/2019 | V.1    |
-| [Delivery Acceptance Term](artifacts/template_delivery_acceptance_term.docx) (template)                       | 05/22/2019| V.1    |
-| [Workbook](artifacts/template_workbook.en.xlsm) (template)                                                | 05/22/2019 | V.1    |
+| Artefato                                  | Data       | Versão |
+|-------------------------------------------|------------|--------|
+| Methodology Checklist                     | 05/21/2019 | V.1    |
+| Risk management (template)                | 05/21/2019 | V.1    |
+| Lessons Learned (template)                | 05/21/2019 | V.1    |
+| Communication Matrix (template)           | 05/21/2019 | V.1    |
+| Risk Management Matrix (template)         | 05/21/2019 | V.1    |
+| Satisfaction survey project (template)    | 05/21/2019 | V.1    |
+| Satisfaction Survey Support (template)    | 05/21/2019 | V.1    |
+| Communication Plan (template)             | 05/21/2019 | V.1    |
+| Project Plan (template)                   | 05/21/2019 | V.1    |
+| Registro de reunião (template)            | 05/21/2019 | V.1    |
+| Meeting Registration (template)           | 05/21/2019 | V.1    |
+| KickOff Meeting (template)                | 05/21/2019 | V.1    |
+| Test Roadmap (template)                   | 05/21/2019 | V.1    |
+| Status Report (template)                  | 05/21/2019 | V.1    |
+| Delivery Acceptance Term (template)       | 05/21/2019 | V.1    |
+| Workbook (template)                       | 05/21/2019 | V.1    | 
+ 
+!!! warning "ATTENTION"
+
+    Artifacts and Fast Deployment Methodology (FDM) are available to our 
+    partners through [MY.CITSmart](https://my.citsmartcloud.com)
+ 
+ 
 
  
