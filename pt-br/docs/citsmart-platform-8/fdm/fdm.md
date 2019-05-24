@@ -78,6 +78,6 @@ alcançados com o uso da metodologia.
 
 !!! warning "ATENÇÃO"
 
-    Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do My.CITSmart [MY.CITSmart](https://my.citsmartcloud.com)
+    Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do [MY.CITSmart](https://my.citsmartcloud.com)
 
 
