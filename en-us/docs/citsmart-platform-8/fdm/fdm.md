@@ -14,8 +14,7 @@ developed to provide the deployment of CITSmart products quickly, tailored to cu
 needs and according tothe standards required in the market, that is, high value delivery 
 for simplicity. 
 
-!!! info "DOWNLOAD"
-    [Fast Deployment Methodology (FDM)](artifacts/methodology.en.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRul5xvZ8jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 Stages for deployment
 ------------------------
@@ -56,7 +55,7 @@ FDM Artifacts
  listed below, are essential for the traceability and measurement of results
  achieved using the methodology. 
  
- | Artifacts                                                                                            | Date     | Version |
+| Artifacts                                                                                            | Date     | Version |
 |--------------------------------------------------------------------------------------------------------|------------|--------|
 | [Methodology Checklist](artifacts/check_list_methodology.xlsx)                         | 05/22/2019 | V.1    |
 | [Risk management](artifacts/template_risk_management.docx) (template)                  | 05/22/2019 | V.1    |
