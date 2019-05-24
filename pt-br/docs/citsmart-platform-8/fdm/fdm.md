@@ -56,6 +56,7 @@ Artefatos da FDM
 Os modelos de documentos utilizados e artefatos gerados na aplicação da FDM,
 listados abaixo, são essenciais para a rastreabilidade e medição dos resultados
 alcançados com o uso da metodologia.
+
 | Artefato                                  | Data       | Versão |
 |-------------------------------------------|------------|--------|
 | Checklist da metodologia                  | 21/05/2019 | V.1    |
@@ -75,8 +76,8 @@ alcançados com o uso da metodologia.
 | Termo de Aceite (template)                | 21/05/2019 | V.1    |
 | Workbook (template)                       | 21/05/2019 | V.1    |
 
-
 !!! warning "ATENÇÃO"
+
     Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do My.CITSmart [MY.CITSmart](https://my.citsmartcloud.com)
 
 
