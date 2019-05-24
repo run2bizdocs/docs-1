@@ -17,9 +17,6 @@ simplicidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srL1bL_s-F4" controls="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen showinfo=3></iframe> 
 
-!!! info "DOWNLOAD"
-    [Fast Deployment Methodology (FDM)](artefatos/fdm_citsmart.pdf)
-
 Etapas para implantação 
 ------------------------
 
@@ -59,23 +56,27 @@ Artefatos da FDM
 Os modelos de documentos utilizados e artefatos gerados na aplicação da FDM,
 listados abaixo, são essenciais para a rastreabilidade e medição dos resultados
 alcançados com o uso da metodologia.
+| Artefato                                  | Data       | Versão |
+|-------------------------------------------|------------|--------|
+| Checklist da metodologia                  | 21/05/2019 | V.1    |
+| Gerenciamento de riscos (template)        | 21/05/2019 | V.1    |
+| Lições Aprendidas (template)              | 21/05/2019 | V.1    |
+| Matriz de Comunicação (template)          | 21/05/2019 | V.1    |
+| Matriz Gestao de Riscos (template)        | 21/05/2019 | V.1    |
+| Pesquisa de satisfacao projeto (template) | 21/05/2019 | V.1    |
+| Pesquisa de satisfacao suporte (template) | 21/05/2019 | V.1    |
+| Plano de Comunicação (template)           | 21/05/2019 | V.1    |
+| Plano de Projeto (template)               | 21/05/2019 | V.1    |
+| Registro de reunião (template)            | 21/05/2019 | V.1    |
+| Requerimento de Mudança (template)        | 21/05/2019 | V.1    |
+| Reunião de KickOff (template)             | 21/05/2019 | V.1    |
+| Roteiro de Teste (template)               | 21/05/2019 | V.1    |
+| Status Report (template)                  | 21/05/2019 | V.1    |
+| Termo de Aceite (template)                | 21/05/2019 | V.1    |
+| Workbook (template)                       | 21/05/2019 | V.1    |
 
-| Artefato                                                                                               | Data       | Versão |
-|--------------------------------------------------------------------------------------------------------|------------|--------|
-| [Checklist da metodologia](artefatos/check_list_metodologia_citsmart_fdm.xlsx)                         | 21/05/2019 | V.1    |
-| [Gerenciamento de riscos](artefatos/template_gerenciamento_de_riscos.docx) (template)                  | 21/05/2019 | V.1    |
-| [Lições Aprendidas](artefatos/template_licoes_aprendidas.docx) (template)                              | 21/05/2019 | V.1    |
-| [Matriz de Comunicação](artefatos/template_matriz_de_comunicacao.xlsx) (template)                      | 21/05/2019 | V.1    |
-| [Matriz Gestao de Riscos](artefatos/template_matriz_gestao_de_riscos.xlsx) (template)                  | 21/05/2019 | V.1    |
-| [Pesquisa de satisfacao projeto](artefatos/template_pesquisa_de_satisfacao_projeto.xlsx) (template)    | 21/05/2019 | V.1    |
-| [Pesquisa de satisfacao suporte](artefatos/template_pesquisa_de_%20satisfacao_suporte.xlsx) (template) | 21/05/2019 | V.1    |
-| [Plano de Comunicação](artefatos/template_plano_de_comunicacao.docx) (template)                        | 21/05/2019 | V.1    |
-| [Plano de Projeto](artefatos/Template_Plano%20%20de%20projeto.docx) (template)                         | 21/05/2019 | V.1    |
-| [Registro de reunião](artefatos/template_registro_de_reuniao.docx) (template)                          | 21/05/2019 | V.1    |
-| [Requerimento de Mudança](artefatos/template_requerimento_de_mudanca.docx) (template)                  | 21/05/2019 | V.1    |
-| [Reunião de KickOff](artefatos/template_reuniao_kickoff.pptx) (template)                               | 21/05/2019 | V.1    |
-| [Roteiro de Teste](artefatos/template_roteiro_de_testes.xlsx) (template)                               | 21/05/2019 | V.1    |
-| [Status Report](artefatos/template_status_report.docx) (template)                                      | 21/05/2019 | V.1    |
-| [Termo de Aceite](artefatos/template_termo_de_aceite_da_entrega.docx) (template)                       | 21/05/2019 | V.1    |
-| [Workbook](artefatos/template_workbook.xlsm) (template)                                                | 21/05/2019 | V.1    |
+
+!!! warning "ATENÇÃO"
+    Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do My.CITSmart [MY.CITSmart](https://my.citsmartcloud.com)
+
 
