@@ -13,10 +13,6 @@ Fast Deployment Methodology (FDM) es una metodología creada por CITSmart Corpor
 desarrollada para proveer la implementación de los productos CITSmart de manera rápida,
 adecuada a las necesidades de los clientes y de acuerdo con los estándares exigidos 
 en el mercado,o sea, es alta entrega de valor primario por la simplicidad.
-
-
-!!! info "DOWNLOAD"
-    [Fast Deployment Methodology (FDM)](artefacto/metodologia.pdf)
     
 Etapas para implementación 
 ----------------------------
@@ -56,21 +52,28 @@ Artefactos de la FDM
 
 Los modelos de documentos utilizados y los artefactos generados en la aplicación de la FDM, listados a continuación, son esenciales para la trazabilidad y medición de los resultados alcanzados con el uso de la metodología. 
 
-| Artefacto                                                                                               | Fecha       | Versión |
-|--------------------------------------------------------------------------------------------------------|------------|--------|
-| [Checklist de la metodología](artefacto/check_list_metodologia.xlsx)                         | 22/05/2019 | V.1    |
-| [Gestión de riesgos](artefacto/template_plan_de_gestion_de_riesgos.docx) (plantilla)                  | 22/05/2019 | V.1    |
-| [Lecciones Aprendidas](artefacto/template_lecciones_aprendidas.docx) (plantilla)                              | 22/05/2019 | V.1    |
-| [Matriz de Comunicación](artefacto/template_matriz_de_comunicacion.xlsx) (plantilla)                      | 22/05/2019 | V.1    |
-| [Matriz Gestión de Riesgos](artefacto/template_matriz_gestion_de_riesgos.xlsx) (plantilla)                  | 22/05/2019 | V.1    |
-| [Encuesta de satisfacción del proyecto](artefacto/template_encuesta_de_satisfaccion_del_proyecto.xlsx) (plantilla)    | 22/05/2019 | V.1    |
-| [Encuesta de satisfacción del soporte](artefacto/template_encuesta_de_satisfaccion_del_soporte.xlsx) (plantilla) | 22/05/2019 | V.1    |
-| [Plan de Comunicación](artefacto/template_plan_de_comunicacion_del_proyecto.docx) (plantilla)                        | 22/05/2019 | V.1    |
-| [Plan de Proyecto](artefacto/template_plan_de_proyecto.docx) (plantilla)                         | 22/05/2019 | V.1    |
-| [Registro de reunión](artefacto/template_registro_de_reunion.docx) (plantilla)                          | 22/05/2019 | V.1    |
-| [Solicitud de Cambio](artefacto/template_solicitud_de_cambio.docx) (plantilla)                  | 22/05/2019 | V.1    |
-| [Reunión de KickOff](artefacto/template_reunion_kickoff.pptx) (plantilla)                               | 22/05/2019 | V.1    |
-| [Ruta de Prueba](artefacto/template_guión_de_prueba.xlsx) (plantilla)                               | 22/05/2019 | V.1    |
-| [Status Report](artefacto/template_status_report.docx) (plantilla)                                      | 22/05/2019 | V.1    |
-| [Término de aceptación](artefacto/template_termino_de_aceptacion_de_entrega.docx) (plantilla)                       | 22/05/2019 | V.1    |
-| [Workbook](artefacto/template_workbook.xlsm) (plantilla)                                                | 22/05/2019 | V.1    |
+| Artefato                                         | Data       | Versão |
+|--------------------------------------------------|------------|--------|
+| Checklist de la metodología                      | 21/05/2019 | V.1    |
+| Gestión de riesgos (template)                    | 21/05/2019 | V.1    |
+| Lecciones Aprendidas (template)                  | 21/05/2019 | V.1    |
+| Matriz de Comunicación (template)                | 21/05/2019 | V.1    |
+| Matriz Gestión de Riesgos (template)             | 21/05/2019 | V.1    |
+| Encuesta de satisfacción del proyecto (template) | 21/05/2019 | V.1    |
+| Encuesta de satisfacción del soporte (template)  | 21/05/2019 | V.1    |
+| Plan de Comunicación (template)                  | 21/05/2019 | V.1    |
+| Plan de Proyecto (template)                      | 21/05/2019 | V.1    |
+| Registro de reunión (template)                   | 21/05/2019 | V.1    |
+| Solicitud de Cambio (template)                   | 21/05/2019 | V.1    |
+| Reunión de KickOff (template)                    | 21/05/2019 | V.1    |
+| Guión de Prueba (template)                       | 21/05/2019 | V.1    |
+| Status Report (template)                         | 21/05/2019 | V.1    |
+| Término de aceptación (template)                 | 21/05/2019 | V.1    |
+| Workbook (template)                              | 21/05/2019 | V.1    |
+
+!!! warning "ATENCIÓN"
+
+    Los Artefactos y la Fast Deployment Methodology (FDM) están disponibles 
+    para nuestros socios a través del [MY.CITSmart](https://my.citsmartcloud.com)
+
+
