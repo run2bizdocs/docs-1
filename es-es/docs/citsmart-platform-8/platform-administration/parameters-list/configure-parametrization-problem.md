@@ -1,6 +1,7 @@
 title: Configurar parametrización – problema
 Description: La parametrización de "Problema" debe ser hecha para permitir la ejecución/uso de este proceso
-#Configurar parametrización – problema
+# Configurar parametrización – problema
+
 La gestión de problemas gestiona el ciclo de vida de todos los problemas desde la primera identificación, pasando por la investigación, documentación y eventual remoción. La parametrización de "Problema" debe ser hecha para permitir la ejecución/uso de este proceso, pudiendo ser posible definir el nombre del flujo estándar para problema, definir si serán notificados el responsable y grupo ejecutor cuando el plazo para evitar/solucionar el problema si haya expirado, entre otras acciones viables.
 
 Procedimiento
@@ -31,5 +32,5 @@ Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

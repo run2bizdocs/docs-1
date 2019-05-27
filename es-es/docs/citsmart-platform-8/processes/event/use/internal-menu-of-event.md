@@ -1,6 +1,7 @@
 title:  Menú interno de la gestión de eventos 
 Description: tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
-#Menú interno de la gestión de eventos
+# Menú interno de la gestión de eventos
+
 Esta funcionalidad tiene por objetivo demostrar las demás funcionalidades y las informaciones contenidas en el registro de un evento.
 
 Antes de empezar
@@ -38,5 +39,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

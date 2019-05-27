@@ -1,6 +1,6 @@
 title: Verificar control de rendimiento por colaborador
 Description: Obtener un informe acerca de la atención de tickets de un grupo o de un colaborador.
-#Verificar control de rendimiento por colaborador
+# Verificar control de rendimiento por colaborador
 
 
 Esta funcionalidad tiene por objeto obtener un informe acerca de la atención de
@@ -35,5 +35,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

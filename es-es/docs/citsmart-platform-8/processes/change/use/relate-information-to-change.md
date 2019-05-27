@@ -1,6 +1,6 @@
 title: Relacionar informaciones al cambio
 Description: Permite vincular al Cambio una serie de informaciones
-#Relacionar informaciones al cambio 
+# Relacionar informaciones al cambio 
 
 Es posible vincular al Cambio una serie de informaciones, tales como: liberación, conocimiento, problema, dentro de otros, con el fin de solidificar y basar la ejecución del proceso.  
 
@@ -70,6 +70,6 @@ Procedimiento
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

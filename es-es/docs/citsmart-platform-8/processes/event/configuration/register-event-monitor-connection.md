@@ -1,6 +1,6 @@
 title: Registrar Conexión Event Monitor
 Description: Registrar todas las propiedades referentes a la conexión del CITSmart Event Monitor
-#Registrar Conexión Event Monitor
+# Registrar Conexión Event Monitor
 
 
 Esta funcionalidad tiene como objetivo registrar todas las propiedades
@@ -33,5 +33,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

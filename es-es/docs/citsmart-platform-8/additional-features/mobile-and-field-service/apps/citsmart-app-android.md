@@ -1,7 +1,6 @@
 title: Manual de uso de la aplicación móvil CITSmart Experience (Android)
 Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart Experience Mobile.
-#Manual de uso de la aplicación móvil CITSmart Experience (Android)
-
+# Manual de uso de la aplicación móvil CITSmart Experience (Android)
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
@@ -504,7 +503,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins
 
 

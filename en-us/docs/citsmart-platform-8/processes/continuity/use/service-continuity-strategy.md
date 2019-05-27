@@ -1,6 +1,7 @@
 title: Register service continuity strategy
 Description:Allows to register the IT service continuity strategy.
-#Register service continuity strategy
+# Register service continuity strategy
+
 The Continuity Registration is a process that pass through several phases. The second phase of this process is the Requirements and Strategy, where it'll be define the vital functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the IT service continuity strategy.
 In this screen, it's presented a green stripe, informing the percentage of functions contemplated to the executive summary, and a red stripe informing the percentage of vital functions not contemplated to the objective.
 
@@ -89,6 +90,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

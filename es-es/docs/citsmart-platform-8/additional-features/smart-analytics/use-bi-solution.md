@@ -9,8 +9,8 @@ datos, productos, tecnologías y arquitectura técnicas, los cuales están enfoc
 administración y creación de conocimiento sobre el medio, a través del análisis de los datos existentes 
 en una organización o empresa".
 
-CITSmart Analytics es la solución de BI para el análisis de datos de CITSmart
-Platform. Con esta funcionalidad, es posible elaborar innumerables posibilidades de
+CITSmart Analytics es la solución de BI para el análisis de datos de CITSmart.
+Con esta funcionalidad, es posible elaborar innumerables posibilidades de
 gráficos, paneles y tablas con información de datos registrados en la instancia.
 
 Antes de empezar
@@ -83,5 +83,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

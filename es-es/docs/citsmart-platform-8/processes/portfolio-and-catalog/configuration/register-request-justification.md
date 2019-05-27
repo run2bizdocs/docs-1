@@ -1,6 +1,6 @@
 title: Registrar justificatión de la solicitud
 Description: Permite registrar las justificaciones de solicitudes de servicios.
-#Registrar justificatión de la solicitud
+# Registrar justificatión de la solicitud
 
 Esta funcionalidad permite registrar las justificaciones de solicitudes de
 servicios.
@@ -30,5 +30,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

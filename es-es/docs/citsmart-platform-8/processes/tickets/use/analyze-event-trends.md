@@ -1,6 +1,7 @@
 title: Analizar tendencia de eventos
 Description: Sólo se puede utilizar en instancias en las que el cliente también ha implementado el módulo de Eventos. 
-#Analizar tendencia de eventos
+# Analizar tendencia de eventos
+
 Esta funcionalidad tiene como objetivo generar gráfico de Análisis de Tendencia de Eventos por Servicio de Negocio en determinado período, a fin de realizar un análisis de los eventos. El análisis de tendencias consiste en la utilización de datos para la proyección de resultados futuros.
 Esta funcionalidad sólo se puede utilizar en instancias en las que el cliente también ha implementado el módulo de Eventos.
 
@@ -50,5 +51,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

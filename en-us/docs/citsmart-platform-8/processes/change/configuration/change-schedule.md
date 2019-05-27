@@ -1,6 +1,6 @@
 title: Calendar of changes
 Description: It allows to manage the periods in which the organization will pass through changes
-#Calendar of changes
+# Calendar of changes
 
 This functionality is intended to manage the periods in which the organization will pass trough a period of maintenance or blackout, then, helping in the change planning.
 
@@ -33,5 +33,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

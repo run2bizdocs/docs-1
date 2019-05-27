@@ -1,6 +1,6 @@
 title: Expressions Creator
 Description: Used to create business rules that will be associated to the Flow.
-#Expressions Creator
+# Expressions Creator
 
 
 This functionality can be used to create business rules that will be associated
@@ -26,5 +26,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

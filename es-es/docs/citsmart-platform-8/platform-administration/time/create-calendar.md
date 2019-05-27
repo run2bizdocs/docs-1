@@ -1,6 +1,7 @@
 title: Crear calendario
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo. 
-#Crear calendario
+# Crear calendario
+
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar calendarios (escalas) de jornadas de trabajo.
 
 Antes de empezar
@@ -32,5 +33,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

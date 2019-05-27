@@ -1,6 +1,6 @@
 title: Dominio
 Description: Dominio
-#Dominio
+# Dominio
 
 Neuro permite definir dominios que serán utilizados por todas las aplicaciones de la institución. El identificador (clave) agrupa los elementos del Dominio.
 
@@ -31,5 +31,5 @@ Figura 2 -Registro de dominio
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

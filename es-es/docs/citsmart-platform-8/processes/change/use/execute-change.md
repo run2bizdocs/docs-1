@@ -50,10 +50,10 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar cambio](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

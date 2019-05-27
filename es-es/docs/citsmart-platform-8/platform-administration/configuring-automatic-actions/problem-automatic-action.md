@@ -1,6 +1,6 @@
 title:  Registrar acción automatica de problema 
 Description: Tiene como objetivo realizar el registro de acciones automáticas del tipo problema 
-#Registrar acción automatica de problema
+# Registrar acción automatica de problema
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará ser tratada por el proceso de gestión de problemas, es decir, esta funcionalidad tiene como objetivo realizar el registro de acciones automáticas del tipo problema. 
 
@@ -35,10 +35,10 @@ Relacionado
 
 [Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

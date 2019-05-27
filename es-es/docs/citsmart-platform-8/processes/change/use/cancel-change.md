@@ -1,6 +1,6 @@
 title: Cancelar cambio
 Description: Permite cancelar el cambio inútil a la empresa
-#Cancelar cambio 
+# Cancelar cambio 
 
 Esta funcionalidad permite cancelar el cambio que se ha vuelto inútil o obsoleta a la organización.
 
@@ -27,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

@@ -1,6 +1,7 @@
 title: Register location
 Description: This feature provides a variety of actions, such as including, changing, and deleting the location in which the services requester are placed, it can be the name of unit, city, organization, etc. 
-#Register location
+# Register location
+
 This feature provides a variety of actions, such as including, changing, and deleting the location in which the services requester are placed, it can be the name of unit, city, organization, etc.
 
 Procedure
@@ -17,6 +18,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

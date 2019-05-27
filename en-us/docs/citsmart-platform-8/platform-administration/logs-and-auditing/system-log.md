@@ -1,6 +1,7 @@
 title: Verify system log
 Description: Is intended to verify the system log to trail the audit. 
-#Verify system log
+# Verify system log
+
 This functionality is intended to verify the system log to trail the audit.
 
 !!! Abstract "NOTE"
@@ -24,5 +25,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

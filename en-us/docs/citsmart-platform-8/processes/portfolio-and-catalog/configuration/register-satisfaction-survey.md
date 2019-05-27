@@ -1,6 +1,7 @@
 title: Register satisfaction survey
 Description: 
-#Register satisfaction survey
+# Register satisfaction survey
+
 This feature provides a variety of actions, such as including, changing, and deleting satisfaction surveys according to the needs.
 The search form is created as a questionnaire.
 
@@ -47,7 +48,7 @@ Procedure
 
 2.  Click on "New";
 
-3.  Complete all mandatory fields:
+3.  Complete all mandatory fields;
 
 4.  Choose the type of search;
 
@@ -65,6 +66,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins
 

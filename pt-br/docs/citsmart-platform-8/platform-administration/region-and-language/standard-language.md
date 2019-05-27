@@ -20,7 +20,7 @@ Esta funcionalidade destina-se a configurar o idioma padrão do sistema.
 	
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/05/2019 - Larissa Lourenço
 	
 	

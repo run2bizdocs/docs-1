@@ -9,7 +9,7 @@ Antes de empezar
 ----------------
 
 Algunos elementos en el registro de un ticket, dependen de la información
-registrada en la CITSmart Platform, por ejemplo un colaborador, un grupo, un
+registrada en la CITSmart, por ejemplo un colaborador, un grupo, un
 contrato, una unidad, tiempo de atención, una cartera con actividades y
 servicios, además de vínculos entre algunos parámetros configurados.
 Configurar los parámetros 9, 40, 41, 260 y 343.
@@ -66,6 +66,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço
 

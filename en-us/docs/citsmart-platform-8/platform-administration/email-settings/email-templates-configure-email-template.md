@@ -1,6 +1,6 @@
 title: Configure email template
 Description: Intended to create email templates for system notifications.
-#Configure email template
+# Configure email template
 
 This functionality is intended to create email templates for system
 notifications.
@@ -20,5 +20,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins

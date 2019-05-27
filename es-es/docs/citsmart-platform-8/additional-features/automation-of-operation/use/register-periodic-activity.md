@@ -1,6 +1,6 @@
 title: Registrar actividad periódica
 Description: Registrar y verificar las actividades periódicas relacionadas con los contratos.
-#Registrar actividad periódica
+# Registrar actividad periódica
 
 
 Esta funcionalidad permite registrar y verificar las actividades periódicas
@@ -40,5 +40,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title:  Gestionar datos 
 Description: Generar la exportación e importación de datos de las tablas del sistema.
-#Gestionar datos
+# Gestionar datos
+
 El objetivo de esta funcionalidad es generar la exportación e importación de datos de las tablas del sistema.
 
 Procedimiento
@@ -27,5 +28,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

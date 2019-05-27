@@ -1,6 +1,7 @@
 title: Registrar conexiones externas
 Description: Tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo. 
-#Registrar conexiones externas
+# Registrar conexiones externas
+
 Esta funcionalidad tiene por objetivo permitir la creación de conexiones con otras bases de datos sea interno o externo.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar conexiones externas.
 
@@ -24,6 +25,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Registrar grupo
 Description: Permite el registro de grupos y el vínculo con usuarios, perfil, contratos y correos electrónicos para notificación.
-#Registrar grupo
+# Registrar grupo
 
 
 Un grupo es un conjunto de uno o más empleados que tienen los mismos objetivos
@@ -61,5 +61,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

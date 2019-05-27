@@ -1,6 +1,7 @@
 title: Gestionar importación de datos
 Description: Tiene como objetivo realizar la importación de datos.
-#Gestionar importación de datos
+# Gestionar importación de datos
+
 Esta funcionalidad tiene como objetivo realizar la importación de datos.
 
 Procedimiento
@@ -17,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Configurar plantilla para Smart Decisio
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el diseño de presentación del Smart Decision.
-#Configurar plantilla para Smart Decision
+# Configurar plantilla para Smart Decision
 
 
 Esta funcionalidad tiene por objetivo determinar el diseño de presentación de la
@@ -46,5 +46,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

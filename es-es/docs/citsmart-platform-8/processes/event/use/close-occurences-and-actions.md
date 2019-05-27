@@ -1,6 +1,7 @@
 title: Cerrar ocurrencia y acciones del evento
 Description: Tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
-#Cerrar ocurrencia y acciones del evento
+# Cerrar ocurrencia y acciones del evento
+
 Esta funcionalidad tiene por objetivo cerrar la ocurrencia y todas las acciones de un evento.
 
 Antes de empezar
@@ -27,5 +28,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Registrar colaborador
 Description: Permite registrar cada persona que posee algún tipo de vínculo con la organización, tales como: un empleado, un socio, etc.
-#Registrar colaborador
+# Registrar colaborador
 
 
 Esta funcionalidad permite registrar cada persona que posee algún tipo de
@@ -36,5 +36,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

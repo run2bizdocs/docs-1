@@ -1,6 +1,7 @@
 title: Register ticket template
 Description: This feature provides a variety of actions, such as including, changing, and deleting ticket template. 
-#Register ticket template
+# Register ticket template
+
 This functionality is intended to enable some functionalities in the service request screen (ticket).
 This feature provides a variety of actions, such as including, changing, and deleting ticket template.
 
@@ -60,13 +61,13 @@ Procedure
 Related
 -----------
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
 
 [Register questionnaire](/en-us/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

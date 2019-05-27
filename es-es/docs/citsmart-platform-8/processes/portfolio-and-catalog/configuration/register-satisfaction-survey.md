@@ -1,6 +1,6 @@
 title: Registrar encuesta de satisfacción
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar encuestas de satisfacción de acuerdo a las necesidades.
-#Registrar encuesta de satisfacción
+# Registrar encuesta de satisfacción
 
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar
 encuestas de satisfacción de acuerdo a las necesidades.
@@ -69,6 +69,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins
 

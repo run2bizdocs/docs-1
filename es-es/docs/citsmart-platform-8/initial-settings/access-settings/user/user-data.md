@@ -1,6 +1,6 @@
 title: Editar información de la cuenta
 Description: Tiene por objetivo editar información sobre el perfil del usuario.
-#Editar información de la cuenta
+# Editar información de la cuenta
 
 Esta funcionalidad tiene por objeto permitir editar la información de la cuenta de usuario.
 
@@ -29,5 +29,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

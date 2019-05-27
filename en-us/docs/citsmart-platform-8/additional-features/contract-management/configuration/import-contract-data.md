@@ -1,6 +1,6 @@
 title: Import contract data
 Description:Is intended to import the contract data. 
-#Import contract data
+# Import contract data
 This functionality is intended to import the contract data.
 
 Procedure
@@ -27,5 +27,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

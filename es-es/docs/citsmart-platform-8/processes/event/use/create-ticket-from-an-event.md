@@ -1,6 +1,7 @@
 title:  Crear ticket desde un evento
 Description: Tiene por objetivo crear una solicitud de servicio dentro del evento.
-#Crear ticket desde un evento
+# Crear ticket desde un evento
+
 Esta funcionalidad tiene por objetivo crear una solicitud de servicio dentro del evento.
 
 Antes de empezar
@@ -30,5 +31,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

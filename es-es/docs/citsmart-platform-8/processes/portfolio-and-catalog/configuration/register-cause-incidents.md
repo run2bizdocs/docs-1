@@ -1,6 +1,6 @@
 title: Registrar causa de incidentes
 Description: Permite registrar y buscar las causas de la ocurrencia de incidentes.
-#Registrar causa de incidentes
+# Registrar causa de incidentes
 
 
 Esta funcionalidad permite registrar y buscar las causas de la ocurrencia de
@@ -24,5 +24,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

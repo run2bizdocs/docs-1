@@ -1,6 +1,6 @@
 title: Register problem justification
 Description: It's intended to register problem justifications that will be used in other system routines
-#Register problem justification
+# Register problem justification
 
 This functionality is intended to register problem justifications that will be used in other system routines.
 
@@ -18,5 +18,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

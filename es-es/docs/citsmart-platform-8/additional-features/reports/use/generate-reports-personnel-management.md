@@ -1,6 +1,6 @@
 title: Generar informe - gestión de personal
 Description: Presentar la información de los colaboradores por unidad.
-#Generar informe - gestión de personal
+# Generar informe - gestión de personal
 
 
 Este informe tiene el objetivo de presentar la información de los colaboradores
@@ -27,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

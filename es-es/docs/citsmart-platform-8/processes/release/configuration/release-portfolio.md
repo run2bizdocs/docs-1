@@ -1,6 +1,6 @@
 title: Crear portafolio de liberación
 Description: Crea un portafolio de liberaciones para agilizar la creación de una nueva liberación al agruparlas por criterios específicos.
-#Crear portafolio de liberación
+# Crear portafolio de liberación
 
 
 Esta funcionalidad crea un portafolio de liberaciones para agilizar la creación
@@ -19,7 +19,7 @@ Procedimiento
 
 4.  Seleccione el portafolio recién creado y hacer clic en "Avanzar";
 
-5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles.
+5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles;
 
     !!! Abstract "ATENCIÓN"
 
@@ -34,6 +34,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins
 

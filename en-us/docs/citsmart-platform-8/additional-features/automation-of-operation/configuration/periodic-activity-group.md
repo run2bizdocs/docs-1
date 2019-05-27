@@ -1,6 +1,7 @@
 title: Register periodic activity group
 Description:Provides a variety of actions, such as including, changing, and deleting the group of periodic activities, which are responsible for execute periodic activities.
-#Register periodic activity group
+# Register periodic activity group
+
 This feature provides a variety of actions, such as including, changing, and deleting the group of periodic activities, which are responsible for execute periodic activities.
 
 Procedure
@@ -18,5 +19,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

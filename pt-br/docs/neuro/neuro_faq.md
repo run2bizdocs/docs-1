@@ -1,7 +1,7 @@
 Title: FAQ (Neuro)
 Description: CITSmart - FAQ
 
-#FAQ (Neuro)
+# FAQ (Neuro)
 
 ??? Question "Qual a diferença entre criar um formulário através do menu Formulário e através do menu Objeto de negócio?"
     A criação através do menu de Formulário ocorre de forma 100% manual. Através do menu de objeto de negócio, é possível gerar o formulário a partir do modelo do banco de dados. O formulário gerado poderá ser editado no menu de cadastro de formulário.

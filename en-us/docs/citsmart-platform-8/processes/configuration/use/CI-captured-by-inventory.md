@@ -1,6 +1,7 @@
 title: Verify configuration item captured by Inventory (agent)
 Description: Is intended to present the details about the Configuration Items collected by the inventory routine.
-#Verify configuration item captured by Inventory (agent)
+# Verify configuration item captured by Inventory (agent)
+
 This functionality is intended to present the details about the Configuration Items collected by the inventory routine.
 
 Procedure
@@ -16,5 +17,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

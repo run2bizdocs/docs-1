@@ -1,6 +1,7 @@
 title: Create ticket from an event
 Description:Is intended to create a service request in an event. 
-#Create ticket from an event
+# Create ticket from an event
+
 This functionality is intended to create a service request in an event.
 
 Before getting started
@@ -31,5 +32,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

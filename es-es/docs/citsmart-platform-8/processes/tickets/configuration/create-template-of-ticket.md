@@ -1,6 +1,6 @@
 title: Crear modelo de plantilla de incidente, solicitud y procedimiento
 Description: Registrar una plantilla para facilitar la apertura de una nueva solicitud.
-#Crear modelo de plantilla de incidente, solicitud y procedimiento
+# Crear modelo de plantilla de incidente, solicitud y procedimiento
 
 
 Esta funcionalidad tiene por objetivo registrar una plantilla para facilitar la
@@ -61,7 +61,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins
 
 

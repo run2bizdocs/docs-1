@@ -1,6 +1,7 @@
 title:  Reabrir uma liberação 
 Description: Permite reabrir a liberação de mudanças.
-#Reabrir uma liberação
+# Reabrir uma liberação
+
 Esta funcionalidade permite reabrir a liberação de mudanças.
 
 Antes de começar
@@ -35,5 +36,5 @@ de liberações.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

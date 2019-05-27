@@ -1,6 +1,7 @@
 title: Configurar parametrización – móvil
 Description: La parametrización de "Mobile" tiene la finalidad de configuración,
-#Configurar parametrización – móvil
+# Configurar parametrización – móvil
+
 La parametrización de "Mobile" tiene la finalidad de configuración, personalización para adecuación de escenario en lo que se refiere al uso de las aplicaciones móviles (por ejemplo, el CITSmart GO).
 
 Procedimiento
@@ -35,5 +36,5 @@ Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

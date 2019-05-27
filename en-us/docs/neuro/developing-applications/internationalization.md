@@ -1,6 +1,6 @@
 title: Internationalization
 Description: Internationalization
-#Internationalization
+# Internationalization
 
 Neuro uses labels (Keys) to perform the internationalization of the forms each
 field assigned at the form can use a label and those labels are attached to an
@@ -44,5 +44,5 @@ Figure 2 - Internationalization data
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title: Verificar log del sistema
 Description: Tiene por objeto comprobar el registro del sistema para el camino de auditoría.
-#Verificar log del sistema
+# Verificar log del sistema
+
 Esta funcionalidad tiene por objeto comprobar el registro del sistema para el camino de auditoría.
 
 !!! Abstract "NOTA"
@@ -26,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

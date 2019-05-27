@@ -344,7 +344,6 @@ Saiba mais sobre [Mobile CITSmart Experience][8]
 
 ![App Mobile SM](images/75-app-mobile-sm.png)
 
-![App Mobile SM](images/76-app-mobile-sm.png)
 
 
 [1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
@@ -354,11 +353,11 @@ Saiba mais sobre [Mobile CITSmart Experience][8]
 [5]:/pt-br/citsmart-platform-8/processes/change/overview.html
 [6]:/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [7]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[8]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+[8]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes
 

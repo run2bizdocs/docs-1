@@ -1,6 +1,6 @@
 title: Gestionar mis tareas de proyecto
 Description: Administrar sus tareas relacionadas con los proyectos.
-#Gestionar mis tareas de proyecto
+# Gestionar mis tareas de proyecto
 
 
 Esta funcionalidad tiene el objetivo de administrar sus tareas relacionadas con
@@ -33,6 +33,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

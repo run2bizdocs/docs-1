@@ -1,6 +1,6 @@
 title: Register Event Monitor Connection
 Description: Register all priorities about the CITSmart Event Monitor connection.
-#Register Event Monitor Connection
+# Register Event Monitor Connection
 
 This functionatilty has the objective of register all priorities about the
 CITSmart Event Monitor connection, according to the IP and the port where the
@@ -31,5 +31,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

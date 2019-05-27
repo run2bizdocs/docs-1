@@ -1,6 +1,7 @@
 title: Buscar ticket
 Description: La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
-#Buscar ticket
+# Buscar ticket
+
 La pantalla de lista de tickets a veces puede traer una relación extensa de elementos, el campo de búsqueda proporciona un rápido direccionamiento al elemento deseado a través de su número o nombre de la tarea.
 
 Antes de empezar
@@ -33,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

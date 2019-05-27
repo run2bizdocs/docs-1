@@ -1,6 +1,7 @@
 title: Register notification template
 Description: This feature provides a variety of actions, such as including, changing, and deleting a notification template.
-#Register notification template
+#  Register notification template
+
 The Notification Template functionality is intended to create notification template to link it to the Event Management and Knowledge Base.
 This feature provides a variety of actions, such as including, changing, and deleting a notification template.
 
@@ -18,6 +19,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

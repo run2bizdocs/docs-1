@@ -1,6 +1,6 @@
 title: Emit report using Smart Report
 Description: allows to issue custom reports created from the "Smart Report Creator".
-#Emit report using Smart Report
+# Emit report using Smart Report
 This functionality allows to issue custom reports created from the "Smart Report Creator".
 
 Procedure
@@ -26,5 +26,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

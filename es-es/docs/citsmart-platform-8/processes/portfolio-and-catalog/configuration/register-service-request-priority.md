@@ -1,6 +1,6 @@
 title: Registrar prioridad de la solicitud de servicio
 Description: Permite definir la matriz de prioridad para calcular el tiempo de atención (SLA) de la solicitud de servicio dinámicamente.
-#Registrar prioridad de la solicitud de servicio
+# Registrar prioridad de la solicitud de servicio
 
 
 La función de prioridad de las solicitudes de servicio, permite definir la
@@ -52,5 +52,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

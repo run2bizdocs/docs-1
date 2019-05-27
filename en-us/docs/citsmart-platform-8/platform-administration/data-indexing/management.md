@@ -1,6 +1,6 @@
 title: Indexing Knowledge Base
 Description: Intended to create index, that ix, know the content of knowledge published in the knowledge base
-#Indexing Knowledge Base
+# Indexing Knowledge Base
 
 Te Knowledge Index functionality is intended to create index, that is, know the
 content of knowledge published in the knowledge base, identifying terms that
@@ -41,6 +41,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Anna Martins
 

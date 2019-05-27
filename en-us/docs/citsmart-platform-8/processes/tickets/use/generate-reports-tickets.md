@@ -107,7 +107,7 @@ linked.
 1.  Access the functionality through the main menu Reports \> Incident/Request
     Management \> Search Satisfaction;
 
-2.  Set the filters as needed.
+2.  Set the filters as needed;
 
 3.  Select how to create the report when click on "Generate PDF", "Generate XLS"
     or "Export CSV".
@@ -241,5 +241,5 @@ were requested, regarding the service catalog and portfolio.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 - Anna Martins

@@ -1,6 +1,6 @@
 title: Relate information to the change
 Description: It allows to link the Change to a series of information
-#Relate information to the change
+# Relate information to the change
 
 It's possible to link the Change to a series of information, such as: release, knowledge, problems and others, in order to solidify and support the execution of the process.
 
@@ -71,6 +71,6 @@ Procedure
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

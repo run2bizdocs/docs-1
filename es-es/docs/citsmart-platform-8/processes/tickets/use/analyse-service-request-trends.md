@@ -1,6 +1,7 @@
 title: Análisis de tendencias de solicitudes de servicio
 Description: Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes. 
-#Análisis de tendencias de solicitudes de servicio
+# Análisis de tendencias de solicitudes de servicio
+
 Esta funcionalidad tiene como objetivo realizar un análisis de las solicitudes, basado en la cantidad crítica, para identificar qué elementos influencian en el lanzamiento de una nueva solicitud.
 
 Antes de empezar
@@ -53,5 +54,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

@@ -1,6 +1,7 @@
 title: Register service continuity vital functions
 Description:Allows to register the vital function.
-#Register service continuity vital functions
+# Register service continuity vital functions
+
 The Continuity Registration is a process that pass through several phase. The second phase of this process is the Requirements and Strategy, where it'll be defined the vital functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the vital function.
 The vital function is part of a business process that is critical to the business success.
 
@@ -74,6 +75,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

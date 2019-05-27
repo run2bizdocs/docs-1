@@ -1,7 +1,8 @@
 title: Change group of configuration item
 
 Description: Has the objective of modify the information in the configuration item group
-#Change group of configuration item
+# Change group of configuration item
+
 This functionality has the objective of modify the information in the configuration item group. This field only will be active if it's created a group in the CMDB screen.
 
 Before getting started
@@ -31,5 +32,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

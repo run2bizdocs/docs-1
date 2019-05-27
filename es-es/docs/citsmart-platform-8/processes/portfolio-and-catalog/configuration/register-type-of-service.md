@@ -1,6 +1,7 @@
 title:  Registrar tipo de servicio
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de
-#Registrar tipo de servicio
+# Registrar tipo de servicio
+
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de servicio que se utilizarán en otras rutinas del sistema.
 
 Procedimiento
@@ -17,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

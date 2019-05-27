@@ -1,6 +1,6 @@
 title: Generate reports - problem management
 Description:  Generate problems reports
-#Generate reports - problem management
+# Generate reports - problem management
 
 In the following topics, it'll be presented the reports about the problem
 management:
@@ -51,5 +51,5 @@ registered, by service.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

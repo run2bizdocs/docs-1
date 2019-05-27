@@ -1,6 +1,6 @@
 title: Internacionalização
 Description: Internacionalização
-#Internacionalização
+# Internacionalização
 
 O Neuro usa labels (chaves) para realizar a internacionalização dos formulários.
 Cada campo atribuído no formulário pode usar um label e esses labels são
@@ -44,5 +44,5 @@ Figura 2 - Dados da internacionalização
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

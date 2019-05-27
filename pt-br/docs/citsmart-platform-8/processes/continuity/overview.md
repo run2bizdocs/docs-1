@@ -52,7 +52,7 @@ Uso
 
 - [Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-- [Cadastrar a avaiação de riscos da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
+- [Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
 
 - [Cadastrar a estratégia de continuidade de serviços](/pt-br/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
 
@@ -81,8 +81,11 @@ Configuração
 
 - [Cadastrar questionário](/pt-br/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
+- [Definir a permissão de acesso para o gerenciamento de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+
+
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins
 

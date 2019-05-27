@@ -1,6 +1,7 @@
 title:  Cadastrar a justificativa de liberação 
 Description: Tem por objetivo registrar a justificativa da liberação
-#Cadastrar a justificativa de liberação
+# Cadastrar a justificativa de liberação
+
 Esta funcionalidade tem por objetivo registrar a justificativa da liberação que será utilizada em outras rotinas do sistema, como por exemplo na suspensão de uma Liberação.
 
 Procedimento
@@ -20,6 +21,6 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

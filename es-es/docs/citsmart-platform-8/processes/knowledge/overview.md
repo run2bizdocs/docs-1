@@ -12,13 +12,13 @@ Uso
 
 - [Crear conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
+- [Crear centro de experiencia](/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
+
 - [Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/knowledge-portal.html)
 
 - [Presentar y buscar por tags en el portal del conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
 - [Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
-
-- [Refinar búsquedas en el Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
 - [Revisar comentarios del Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
 
@@ -26,6 +26,8 @@ Configuración
 -----------------
 
 - [Crear carpeta](/es-es/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+
+- [Refinar búsquedas en el Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
 - [Registrar categoría de imagen](/es-es/citsmart-platform-8/processes/knowledge/configuration/register-image-category.html)
 
@@ -37,6 +39,10 @@ Configuración
 
 - [Configurar parametrización - conocimiento](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)  
 
+- [Configurar acceso externo al Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
+
+- [Notificar responsable por la expiración del conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
+
 Informe
 -----------
 
@@ -44,5 +50,5 @@ Informe
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

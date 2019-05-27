@@ -1,6 +1,6 @@
 title: Registrar media definitiva
 Description: Registrar las versiones definitivas y autorizadas de todos los Elementos de Configuración de software de manera segura.
-#Registrar media definitiva
+# Registrar media definitiva
 
 
 Esta funcionalidad tiene por objeto registrar las versiones definitivas y
@@ -29,5 +29,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

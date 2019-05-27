@@ -1,6 +1,7 @@
 title: Register notification
 Description: This feature provides a variety of actions, such as including, changing, and deleting a warning message.
-#Register notification
+# Register notification
+
 The Notification functionality is intended to create a warning message to notify users about the information of the organization.
 The notifications registered will be presented during the period established in this register. After the period, the system will inactivate the notifications.
 The system present the increased notification counter only when there is the notification that demands reading confirmation.
@@ -57,7 +58,7 @@ What to do next
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 
 

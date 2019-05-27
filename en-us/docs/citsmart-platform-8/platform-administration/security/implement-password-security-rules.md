@@ -1,6 +1,6 @@
 title: Implement password security rules
 Description: Configure passwords of system usage, providing a greater level of security with the usage of different characters.
-#Implement password security rules
+# Implement password security rules
 
 This functionality portrays the configuration of system usage passwords,
 providing a higher level of security with the usage of different characters.
@@ -68,7 +68,7 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
 [1]:/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html

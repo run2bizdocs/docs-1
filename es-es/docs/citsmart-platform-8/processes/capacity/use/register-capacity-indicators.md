@@ -1,6 +1,7 @@
 title:  Registrar indicadores de capacidad
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar los indicadores de capacidad/rendimiento que se vincularán a los Servicios y los Elementos de Configuración (EC).
-#Registrar indicadores de capacidad
+# Registrar indicadores de capacidad
+
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar los indicadores de capacidad/rendimiento que se vincularán a los Servicios y los Elementos de Configuración (EC).
 
 Procedimiento
@@ -17,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

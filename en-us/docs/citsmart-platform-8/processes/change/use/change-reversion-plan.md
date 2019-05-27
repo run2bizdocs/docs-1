@@ -1,6 +1,6 @@
 title: Register reversion plan of change
 Description: It allows to register the reversion plan 
-#Register reversion plan of change
+# Register reversion plan of change
 
 This functionality allows to register the reversion plan of change, which allows the services to return to their initial state in case of failure to implement the change.
 
@@ -42,10 +42,10 @@ Procedure
 Related 
 ------------
 
-[Register change](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

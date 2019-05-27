@@ -1,6 +1,7 @@
 title: Comprobar disponibilidad de servicio
 Description: Tiene por objetivo verificar la disponibilidad de los servicios.
-#Comprobar disponibilidad de servicio
+# Comprobar disponibilidad de servicio
+
 Esta funcionalidad tiene por objetivo verificar la disponibilidad de los servicios.
 
 Antes de empezar
@@ -51,5 +52,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

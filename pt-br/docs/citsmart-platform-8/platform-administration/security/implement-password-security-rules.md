@@ -68,7 +68,7 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
 [1]:/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html

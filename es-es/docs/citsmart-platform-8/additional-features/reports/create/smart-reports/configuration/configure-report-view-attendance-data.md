@@ -1,6 +1,6 @@
 title: Configurar informe para ver datos de la atención
 Description: Demostrar cómo configurar los Smart Reports para utilizarlos en la gestión de la atención (Ticket management).
-#Configurar informe para ver datos de la atención
+# Configurar informe para ver datos de la atención
 
 
 Este documento tiene el propósito de demostrar cómo configurar los Smart Reports
@@ -118,7 +118,7 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 
 

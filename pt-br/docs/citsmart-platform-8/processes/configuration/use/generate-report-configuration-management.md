@@ -13,7 +13,7 @@ inválidas e duplicadas das mídias.
 
 2.  Clicar sobre o campo "Mídia" para pesquisar e selecionar a mídia desejada
     para gerar o relatório. Será, então, exibido os campos para filtrar as
-    chaves (licenças) válidas, inválidas e duplicadas;
+    chaves (licenças) válidas, inválidas e duplicadas.
 
 !!! Abstract "ATENÇÃO"
 
@@ -34,5 +34,5 @@ mudanças relacionadas ao mesmo item de configuração.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Anna Martins

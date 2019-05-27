@@ -1,6 +1,6 @@
 title: Database Connection
 Description: Database Connection
-#Database Connection
+# Database Connection
 
 Neuro requires Database connections to interfaces with database.
 
@@ -41,6 +41,6 @@ Figure 1 - Application
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  
 

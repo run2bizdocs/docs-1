@@ -330,15 +330,13 @@ App Mobile CITSmart Experience ha sido creado para que las facilidades y benefic
 
 Para más información acceder la documentación de [Mobile CITSmart Experience][8]
 
-![App Mobile SM](images/68-app-mobile-sm.jpg)
 
-![App Mobile SM](images/69-app-mobile-sm.jpeg)
+![App Mobile SM](images/69-app-mobile-sm.jpg)
 
-![App Mobile SM](images/70-app-mobile-sm.jpeg)
+![App Mobile SM](images/70-app-mobile-sm.jpg)
 
-![App Mobile SM](images/71-app-mobile-sm.jpeg)
+![App Mobile SM](images/71-app-mobile-sm.jpg)
 
-![App Mobile SM](images/72-app-mobile-sm.jpeg)
 
 
 [1]:/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
@@ -348,11 +346,11 @@ Para más información acceder la documentación de [Mobile CITSmart Experience]
 [5]:/es-es/citsmart-platform-8/processes/change/overview.html
 [6]:/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
 [7]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[8]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app-android.html
+[8]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes
 

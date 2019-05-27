@@ -1,6 +1,6 @@
 title: Registrar proyecto
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un proyecto.
-#Registrar proyecto
+# Registrar proyecto
 
 
 El Proyecto es un proceso único, consistente en un grupo de tareas coordinadas y
@@ -43,9 +43,9 @@ Procedimiento
         Sólo poderá ser escalonado un colaborador que esté activo en el proyecto.
 
          
-    - **Funciones/Responsabilidades**: informar los colaboradores responsables de ejecución del proyecto, definiendo sus funciones y          responsabilidades dentro del alcance del proyecto. Puede vincular las asignaciones ya registradas al hacer clic en "+ Vincular          nueva característica" (se permite la selección de varios usuarios para el vínculo) o crear una nueva funcionalidad al hacer clic en      "Funciones";
+    - **Funciones/Responsabilidades**: informar los colaboradores responsables de ejecución del proyecto, definiendo sus funciones y responsabilidades dentro del alcance del proyecto. Puede vincular las asignaciones ya registradas al hacer clic en "+ Vincular nueva característica" (se permite la selección de varios usuarios para el vínculo) o crear una nueva funcionalidad al hacer clic en "Funciones";
      
-     - **Planificación/Ejecución**: definir las tareas del proyecto a realizar durante el período de ejecución estimado. Al hacer clic        en "Crear plantilla (Tarea) "estará disponible para seleccionar un modelo de tarea ya existente para la vinculación al proyecto, o      registrar una nueva tarea al nombrar la actividad, después hacer clic en "Crear nuevo modelo" y, en la línea de base, hacer clic en      el icono "+" y completar los datos necesarios. También es posible crear na línea de base de proyecto que se utilizará para comparar      planes de proyectos iniciales o comparar el estado de un proyecto en cierto punto clave a medida que avanza con su estado actual,        al hacer clic en "Crear línea de base" y justificar el cambio en el proyecto. Cuando se define una línea de base, los datos en          varios campos clave de tareas se capturan y se guardan como un conjunto numerado de datos de línea de base, para la medida que          el proyecto avanza, estén disponibles estos datos capturados con el fin de compararlos con los datos actuales. Para ver el listado      de elementos registrados, haga clic en "Visualizar línea de base";
+     - **Planificación/Ejecución**: definir las tareas del proyecto a realizar durante el período de ejecución estimado. Al hacer clic en "Crear plantilla (Tarea) "estará disponible para seleccionar un modelo de tarea ya existente para la vinculación al proyecto, o registrar una nueva tarea al nombrar la actividad, después hacer clic en "Crear nuevo modelo" y, en la línea de base, hacer clic en el icono "+" y completar los datos necesarios. También es posible crear na línea de base de proyecto que se utilizará para comparar planes de proyectos iniciales o comparar el estado de un proyecto en cierto punto clave a medida que avanza con su estado actual, al hacer clic en "Crear línea de base" y justificar el cambio en el proyecto. Cuando se define una línea de base, los datos en varios campos clave de tareas se capturan y se guardan como un conjunto numerado de datos de línea de base, para la medida que el proyecto avanza, estén disponibles estos datos capturados con el fin de compararlos con los datos actuales. Para ver el listado de elementos registrados, haga clic en "Visualizar línea de base";
 
 
     !!! Abstract "ATENCIÓN"
@@ -74,6 +74,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

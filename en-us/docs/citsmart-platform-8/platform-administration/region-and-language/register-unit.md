@@ -1,6 +1,7 @@
 title: Register unit
 Description: This functionality is intended to register the unities where the employees are placed. 
-#Register unit
+# Register unit
+
 This functionality is intended to register the unities where the employees are placed.
 This feature provides a variety of actions, such as including, changing, and deleting an unit.
 
@@ -39,7 +40,7 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 
 

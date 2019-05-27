@@ -1,6 +1,6 @@
 title: Registrar gerente Zabbix
 Description: Registrar y mantener los gerentes responsables por lo monitoreo de los elementos de configuración, cuyo estado se va buscar en el Zabbix.
-#Registrar gerente Zabbix
+# Registrar gerente Zabbix
 
 
 Zabbix es una herramienta para monitorear red, servidor y servicios, diseñado
@@ -58,5 +58,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title:  Configurar ambiente 
 Description: La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor)  
-#Configurar ambiente
+# Configurar ambiente
+
 La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor) y cambiar los logos del sistema.
 Puede cambiar el logotipo del sistema, comprobar la información del ambiente y descargar el registro de Jboss.
 
@@ -21,5 +22,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

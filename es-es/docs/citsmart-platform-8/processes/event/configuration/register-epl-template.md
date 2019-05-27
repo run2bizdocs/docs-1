@@ -1,6 +1,6 @@
 title: Registrar modelo de EPL
 Description: Permite crear y mantener modelos de EPL que se van usar en la creación de EPL.
-#Registrar modelo de EPL
+# Registrar modelo de EPL
 
 
 Esta funcionalidad permite crear y mantener modelos de EPL que se van usar en la
@@ -26,5 +26,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

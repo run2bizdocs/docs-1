@@ -1,6 +1,6 @@
 title: Customize Labels
 Description: Intended to change the names of labels within ITSM, allowing a greater customization of it. It's necessary that the user have knowledge about programming. 
-#Customize Labels
+# Customize Labels
 
 This functionality is intended to change the names of labels within CITSmart Platform,
 allowing a greater customization of it. It's necessary that the user have
@@ -24,6 +24,6 @@ to verification.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 

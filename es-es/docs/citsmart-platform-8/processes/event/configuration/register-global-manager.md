@@ -1,6 +1,6 @@
 title: Registrar gerente Global
 Description: Crear reglas para monitorear varios tipos de eventos.
-#Registrar gerente Global
+# Registrar gerente Global
 
 Esta funcionalidad tiene como objetivo crear reglas para monitorear varios tipos
 de eventos.
@@ -36,26 +36,26 @@ Procedimiento
     -  Informe los datos de la **Acción de Information**:
 
         -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
-          evento del tipo information, el grado de urgencia e impacto. Las reglas
-          para esta acción se definen utilizando el Lenguaje de Procesamiento de
-          Eventos - EPL. Haga clic en el botón *Validar EPL de Information* para
-          validar la EPL informada.  
+           evento del tipo information, el grado de urgencia e impacto. Las reglas
+           para esta acción se definen utilizando el Lenguaje de Procesamiento de
+           Eventos - EPL. Haga clic en el botón *Validar EPL de Information* para
+           validar la EPL informada.  
 
     -   Informe los datos de la **Acción de Warning**:  
 
-        -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
-        evento del tipo warning, el grado de urgencia e impacto. Las reglas para
-        esta acción se definen utilizando el Lenguaje de Procesamiento de
-        Eventos - EPL. Haga clic en el botón *Validar EPL de Warning* para
-        validar la EPL informada.   
+        -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
+           evento del tipo warning, el grado de urgencia e impacto. Las reglas para
+           esta acción se definen utilizando el Lenguaje de Procesamiento de
+           Eventos - EPL. Haga clic en el botón *Validar EPL de Warning* para
+           validar la EPL informada.   
 
     -   Informe los datos da la **Acción de Exception**:
 
-        -   Seleccionar la acción que se disparará cuando haya una ocurrencia de
-        evento del tipo exception, el grado de urgencia e impacto. Las reglas
-        para esta acción se definen utilizando el Lenguaje de Procesamiento de
-        Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
-        validar la EPL informada.   
+        -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
+           evento del tipo exception, el grado de urgencia e impacto. Las reglas
+           para esta acción se definen utilizando el Lenguaje de Procesamiento de
+           Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
+           validar la EPL informada.   
 
 3.  Hacer clic en "Guardar".
 
@@ -76,6 +76,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins
  

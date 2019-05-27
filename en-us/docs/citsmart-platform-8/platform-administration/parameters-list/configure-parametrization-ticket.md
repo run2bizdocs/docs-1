@@ -1,6 +1,6 @@
 title: Configure parametrization - ticket
 Description: Allow ticket management actions, such as the standard flow, the phase in which the service request to be registered will be forwarded, and others.
-#Configure parametrization - ticket
+# Configure parametrization - ticket
 
 To delivery the service, it's necessary some parameter settings that allow
 ticket management actions, such as the standard flow, the phase in which the
@@ -93,5 +93,5 @@ Table 1- Parameters table
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

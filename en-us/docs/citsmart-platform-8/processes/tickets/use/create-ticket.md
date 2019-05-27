@@ -9,7 +9,7 @@ Before getting started
 --------------------------
 
 Some items in a ticket's registration depend on the information registered in
-the CITSmart Platform, for example an employee, group, contract, unit, time of
+the CITSmart, for example an employee, group, contract, unit, time of
 attendance, portfolio with activities and services, as well as links between
 some configured parameters. Set the parameters 9, 40, 41, 260 and 343.
 
@@ -65,6 +65,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Verssion:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

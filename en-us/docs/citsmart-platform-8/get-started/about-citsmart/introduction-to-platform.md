@@ -1,7 +1,7 @@
 Title: Introduction to Platform
 Description: Contextualization of changes and Service Management
 
-#Introduction to Platform
+# Introduction to Platform
 
 Be prepared for Change
 ----------------------
@@ -16,7 +16,7 @@ or processes, but also mainly by their motivation, the speed of launching new
 products and ideas is very fast because everyone is engaged primarily in the
 result.
 
-*Being prepared for the future is being prepared for changes.*
+*Being prepared for the future is being prepared for changes*.
 
 -   Change fast is supporting people to change.
 
@@ -28,7 +28,7 @@ processes if these processes do not lead to results and goals. Perhaps processes
 are the means, not the end. The end is always the new results. Management by
 processes is not enough for this.
 
-Services …Delivering Value
+Services... Delivering Value
 --------------------------
 
 What concept would be most appropriate to deliver value? Have you thought about
@@ -78,7 +78,7 @@ CITSmart Corporation believes that the focus of the business should be on the
 good client experience and being one-step ahead depends on how you connect the
 services and processes.
 
-That´s the new mindset for the new Companies and our CITSmart Platform - Enterprise
+That´s the new mindset for the new Companies and our CITSmart - Enterprise
 Services Platform will help changes those corporates perspective.
 
 !!! tip "About"

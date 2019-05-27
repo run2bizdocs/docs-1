@@ -26,7 +26,7 @@ Para relacionar unidade ao contrato, proceder conforme as orientações abaixo:
     sistema, realizar a pesquisa da unidade e selecionar a mesma. Feito isso,
     será exibida a tela de registro da determinada unidade;
 
-6.  Selecionar os contratos, os quais a unidade será vinculada.
+6.  Selecionar os contratos, os quais a unidade será vinculada;
 
 7.  Clicar no botão "Gravar" para efetuar a operação, neste caso a data, hora e
     usuário serão armazenados automaticamente para uma futura auditoria.
@@ -44,5 +44,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

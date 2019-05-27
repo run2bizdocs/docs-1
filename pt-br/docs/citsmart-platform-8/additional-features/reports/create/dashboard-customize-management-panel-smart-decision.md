@@ -21,7 +21,7 @@ permissões definidas por um administrador da ferramenta.
 Procedimento
 ----------------
 
-*Utilizar um template para personalizar o painel do usuário*
+***Utilizar um template para personalizar o painel do usuário***
 
 1.  Para visualizar os templates disponíveis clicar no ícone "Exibir/esconder menu";
 
@@ -33,7 +33,7 @@ Procedimento
 
 4.  Para excluir um dashboard clicar no ícone "Excluir dashboard" .
 
-*Inserir elementos manualmente*
+***Inserir elementos manualmente***
 
 1.  Para adicionar elementos como links, smart reports ou widgets, clicar no
     ícone "Habiliar modo de edição" e em seguida em "Adicionar novo widget" :
@@ -73,5 +73,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

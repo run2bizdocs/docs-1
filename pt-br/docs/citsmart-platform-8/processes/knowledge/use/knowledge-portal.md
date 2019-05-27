@@ -47,13 +47,13 @@ conhecimento na Base de Conhecimento
 
    Figura 2 - Resultado de pesquisa
 
- - **1**: Mostra a quantidade de conhecimentos encontrados
+ - **1**: campo de pesquisa
  
- - **2**: Tipo - mostra os tipos de conhecimentos encontrados, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções
+ - **2**: relação de conhecimentos encontrados
+  
+ - **3**: mostra os filtros para encontrar conhecimentos, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções
  
- - **3**: Relação de conhecimentos encontrados
- 
- - **4**: Tags - mostra as tags usadas nos documentos, sendo possível refinar ainda mais a busca inicial ao selecionar uma das opções
+ - **4**: relação de conhecimentos encontrados
  
 !!! Abstract "REGRA"
 
@@ -107,7 +107,7 @@ conhecimento na Base de Conhecimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins
 
  

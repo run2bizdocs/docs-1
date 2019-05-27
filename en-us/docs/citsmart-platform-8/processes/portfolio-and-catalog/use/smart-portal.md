@@ -1,6 +1,7 @@
 title:  Smart Portal
 Description: The Smart Portal is a feature of the solution that makes available the Service Catalog
-#Smart Portal
+# Smart Portal
+
 The Smart Portal is a feature of the solution that makes available the Service Catalog (Business and Support) to the system users and allows to make several actions, including: 
 
 •	Open a ticket (service request);  
@@ -89,6 +90,6 @@ Procedure
     approvals made by the user, observe news and active campaigns (questionnaires) about the organization.  
     
 !!! tip "About"  
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

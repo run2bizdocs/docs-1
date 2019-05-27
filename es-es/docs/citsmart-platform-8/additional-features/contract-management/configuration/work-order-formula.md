@@ -1,6 +1,6 @@
 title: Registrar fórmula de la orden de servicio
 Description: Registrar las fórmulas personalizadas para configurar "cómo" será el cálculo del valor del costo total de la actividad del servicio del contrato.
-#Registrar fórmula de la orden de servicio
+# Registrar fórmula de la orden de servicio
 
 Esta funcionalidad tiene el objetivo de registrar las fórmulas personalizadas
 para configurar "cómo" será el cálculo del valor del costo total de la actividad
@@ -43,7 +43,7 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins
 
 

@@ -1,6 +1,6 @@
 title: Register working day
 Description: Provides a variety of actions, such as including, changing, and deleting the working day of an organization.
-#Register working day
+# Register working day
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the working day of an organization.
@@ -17,5 +17,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 - Anna Martins

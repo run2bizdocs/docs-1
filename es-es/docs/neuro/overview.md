@@ -2,7 +2,7 @@ title: Visión general (Neuro)
 
 description: conecta datos, soluciones y personas, capacitando departamentos y empresas. Es una plataforma de automatización de procesos de negocio ágil y sin complicaciones. Permite la personalización e integración rápida con otras aplicaciones, ya sean legados o desarrollados internamente. NEURO también es CODELESS!  
 
-#NEURO   
+# NEURO   
 
 ##Visión general   
 

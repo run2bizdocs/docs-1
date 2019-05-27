@@ -1,12 +1,12 @@
 title: Crear tiempo de servicio
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el tiempo de respuesta del tipo Global (se aplica a todos los servicios), Cliente (se aplica a los servicios de un contrato) e Incidente/Requerimiento/Procedimiento (se aplica a un servicio específico).
-# Crear tiempo de servicio
+# Crear tiempo de atención
 
 
-Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el
-tiempo de respuesta del tipo *Global* (se aplica a todos los servicios), *Cliente*
-(se aplica a los servicios de un contrato) e
-*Incidente/Requerimiento/Procedimiento* (se aplica a un servicio específico).
+Esta funcionalidad ofrece diversas funciones, como, incluir, cambiar y borrar 
+el tiempo de respuesta del tipo *Global* (se aplica a todos los servicios), 
+*Cliente* (se aplica a los servicios de un contrato) y *Incidente/Requerimiento/Procedimiento* 
+(se aplica a un servicio específico).
 
 Antes de empezar
 --------------------
@@ -28,6 +28,12 @@ Procedimiento
 
         Indicar en el atributo "Cambio de Impacto/Urgencia" si se va permitir el cambio
         de Impacto y/o Urgencia.
+
+    !!! Warning "ATENCIÓN"
+    
+        Si el tiempo de atención no permite el cambio de impacto y la urgencia, el sistema 
+        reemplaza automáticamente lo que se envía a través de WebService para el impacto, 
+        la urgencia, la prioridad y el tiempo de respuesta definidos en este registro.
 
 4.  En el cuadro **Tiempo de Atención por Prioridad**, definir el tiempo de
     atención de los servicios, teniendo en cuenta la prioridad. La prioridad se
@@ -76,5 +82,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

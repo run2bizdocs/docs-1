@@ -1,6 +1,6 @@
 title: Registrar motivo de suspensión de la actividad
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar el motivo de la suspensión de la actividad periódica.
-#Registrar motivo de suspensión de la actividad
+# Registrar motivo de suspensión de la actividad
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
 borrar el motivo de la suspensión de la actividad periódica.
@@ -18,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

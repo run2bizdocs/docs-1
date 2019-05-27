@@ -1,6 +1,7 @@
 title: Comprobar procesos relacionados al elemento de configuración
 Description: Permite verificar procesos relacionados con el EC, además de informaciones generales. 
-#Comprobar procesos relacionados al elemento de configuración
+# Comprobar procesos relacionados al elemento de configuración
+
 Esta funcionalidad permite verificar procesos relacionados con el EC, además de informaciones generales.
 
 Antes de empezar
@@ -29,5 +30,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Registrar grupo de elemento de configuración
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar grupos de elementos de configuración.
-#Registrar grupo de elemento de configuración
+# Registrar grupo de elemento de configuración
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
 grupos de elementos de configuración.
@@ -19,5 +19,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

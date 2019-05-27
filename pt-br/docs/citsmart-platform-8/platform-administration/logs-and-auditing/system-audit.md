@@ -1,6 +1,6 @@
 title:  Auditoria do sistema
 Description: Permite gerenciar os eventuais riscos ao sistema
-#Auditoria do sistema
+# Auditoria do sistema
 
 Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
 Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração
@@ -16,7 +16,7 @@ Antes de começar
 
 -   Mongodb.
 
-**Versão iguais ou superiores à 0.4.0**
+**Versões iguais ou superiores à 0.4.0**
 
 - Não é preciso ter um ActiveMQ externo ativo;
 
@@ -46,11 +46,11 @@ pasta "\deployments"
 
 - O parâmetro 424 deve ficar em branco;
 
-- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit)
+- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);
 
 !!! Abstract "ATENÇÃO"
 
-    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo executado em porta diferente.  
+    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo         executado em porta diferente.  
     
 - Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
    
@@ -59,7 +59,7 @@ Procedimento
 
 ***Processo para configurar a Auditoria:***
 
-*Configuração para gerar o backup das auditorias.*
+*Configuração para gerar o backup das auditorias*.
 
 Primeiramente, é imprescindível configurar os parâmetros específicos da
 funcionalidade.
@@ -75,16 +75,14 @@ funcionalidade.
 
     !!! Abstract "NOTA"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do
-        backup.  
+        A escolha da frequência deve ser a partir de 1 (um) dia para a execução         do backup.  
 
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
     !!! note "IMPORTANTE"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do
-        sistema, do acesso ao sistema e as licenças do mesmo.
+        São oferecidos três tipos de auditoria de sistema: auditoria dos dados           do sistema, do acesso ao sistema e as licenças do mesmo.
 
 ***Auditoria de dados do sistema***
 
@@ -124,7 +122,8 @@ realizadas no sistema.*
 2.  Será exposto os usuários que efetuaram o login e logout no sistema,
     registrando também a data e a hora de cada uma destas atividades;
 
-    !!! Abstract "NOTA"  
+    !!! Abstract "NOTA" 
+    
         Se porventura o sistema expirar, não será possível captar o logout do
         sistema, ficando registrado, portanto, só as informações de entrada da
         sessão de acesso.  
@@ -146,5 +145,5 @@ realizadas no sistema.*
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/15/2019 – Larissa Lourenço

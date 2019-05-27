@@ -14,25 +14,19 @@ Procedure
 
 2.	Click on "New" and select one of the options: Simple (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
 
-3.	Inform the Theme related to the Dialogue, this will help you to categorize them, later. A new theme can be registered in the "Theme" menu.
+3.	Inform the Theme related to the Dialogue, this will help you to categorize them, later. A new theme can be registered in the "Theme" menu;
 
 4.	In the **Interests** section, complete the phrases related to the user Interest and click on "Save";
 
 5.	In the **Abilities** section, complete the fields on the screen, paying attention to the ability type:
 
-	   - Standard: it will be used to represent abilities that are answered through a predefined text response. Several predefined 
-         answer phrases can always be assigned to answer the same question;
+	   - Standard: it will be used to represent abilities that are answered through a predefined text response. Several                  predefined answer phrases can always be assigned to answer the same question;
 
-	   - Customized: it will be used when, in order to respond to a user's interest, Anuva needs to seek information on another system. 
-         Access the document “How Anuva can interact with other systems” to understand how to use this type of ability;
+	   - Customized: it will be used when, in order to respond to a user's interest, Anuva needs to seek information on                  another system. Access the document “How Anuva can interact with other systems” to understand how to use this type of            ability;
 
-	   - Button: it will be used whenever it is necessary to limit user responses to a particular Anuva interaction. When using this 
-         option, Anuva will respond to user interaction by displaying buttons. A button is defined by its Name and Value. In the name 
-         field, the button that will appear for the user is defined. In the value field, it is defined to Anuva how it should interpret 
-         the user's interest by clicking on the button;
+	   - Button: it will be used whenever it is necessary to limit user responses to a particular Anuva interaction. When                using this option, Anuva will respond to user interaction by displaying buttons. A button is defined by its Name and              Value. In the name field, the button that will appear for the user is defined. In the value field, it is defined to              Anuva how it should interpret the user's interest by clicking on the button;
 
-	   - Image: it can be used when you want to respond to the user using text and image. The image associated with the response will be 
-         displayed in the chat window.
+	   - Image: it can be used when you want to respond to the user using text and image. The image associated with the                  response will be displayed in the chat window.
 
 
 6. Click on "Save".
@@ -60,6 +54,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
     

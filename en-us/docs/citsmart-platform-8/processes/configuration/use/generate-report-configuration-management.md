@@ -1,6 +1,6 @@
 title: Generate report - configuration management
 Description: Generate reports of configuration management. 
-#Generate report - configuration management
+# Generate report - configuration management
 
 Generate report of configuration item - Office package
 ----------------------------------------------------------
@@ -33,5 +33,5 @@ changes related to the same configuration item.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Comprobar disponibilidad del elemento de configuración
 Description: Tiene por objetivo comprobar la disponibilidad de ECs.
-#Comprobar disponibilidad del elemento de configuración
+# Comprobar disponibilidad del elemento de configuración
  
 Esta funcionalidad tiene por objetivo comprobar la disponibilidad de ECs.
 
@@ -51,5 +51,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

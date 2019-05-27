@@ -1,6 +1,7 @@
 title: Configurar parametrización – telefonía
 Description: Acciones posibles a fin de configurar el uso de la telefonía en el CITSmart.
-#Configurar parametrización – telefonía
+# Configurar parametrización – telefonía
+
 La parametrización de la "Telefonía", permite definir si activa la integración del webservices con la telefonía, informar el número de identificación del servicio de solicitud, entre otras acciones posibles a fin de configurar el uso de la telefonía en el CITSmart.
 
 Procedimiento
@@ -25,5 +26,5 @@ Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço  

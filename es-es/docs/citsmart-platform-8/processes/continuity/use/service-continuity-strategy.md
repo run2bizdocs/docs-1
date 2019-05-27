@@ -1,6 +1,7 @@
 title:  Registrar estrategia de la continuidad de servicios 
 Description: Permite registrar la estrategia de continuidad de servicios de TI.
-#Registrar estrategia de la continuidad de servicios
+# Registrar estrategia de la continuidad de servicios
+
 El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar la estrategia de continuidad de servicios de TI.
 En esta pantalla, se presenta una banda verde que indica el porcentaje de funciones contempladas para el sumario ejecutivo y una banda roja que indica el porcentaje de funciones vitales no contempladas para el objetivo.
 
@@ -93,7 +94,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço
 
 

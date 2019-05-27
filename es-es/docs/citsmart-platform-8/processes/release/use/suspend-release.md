@@ -1,6 +1,7 @@
 title: Suspender registro de liberación
 Description: Permite suspender la ejecución de la liberación.
-#Suspender registro de liberación
+# Suspender registro de liberación
+
 Esta funcionalidad permite suspender la ejecución de la liberación.
 
 Antes de empezar
@@ -42,5 +43,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Registrar conexión Nagios/Zabbix
 Description: Registrar las herramientas Nagios/Zabbix que estarán vinculadas a la Gestión de Eventos para monitorear los diversos elementos de configuración.
-#Registrar conexión Nagios/Zabbix
+# Registrar conexión Nagios/Zabbix
 
 Esta funcionalidad tiene como objetivo registrar las herramientas Nagios/Zabbix
 que estarán vinculadas a la Gestión de Eventos para monitorear los diversos
@@ -34,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

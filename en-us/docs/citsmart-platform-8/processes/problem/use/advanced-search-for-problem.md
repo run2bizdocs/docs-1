@@ -1,6 +1,6 @@
 title: Problem advanced search
 Description: It allows to search problems that occur according to the filters defined by the user.
-#Problems advanced search
+# Problems advanced search
 
 This functionality is intended to search for problems that occur according to the filters defined by the user.
 
@@ -36,5 +36,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Home panel
 Description: It's possible to add dashboards from a template or selecting manually.
-#Home panel
+# Home panel
 
 The home panel in the system main screen. In this panel, it's possible to
 add dashboards from a template or selecting manually. In this area, it's also
@@ -17,11 +17,11 @@ Related
 
 [Customize management panel][1]
 
-[Edit Account Info][2]
+[Edit user account][2]
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 
 

@@ -1,6 +1,7 @@
 title:  Ejecutar script del elemento de configuración
 Description: Permite ejecutar el guión de un elemento de configuración. 
-#Ejecutar script del elemento de configuración
+# Ejecutar script del elemento de configuración
+
 Esta funcionalidad permite ejecutar el guión de un elemento de configuración.
 
 Antes de empezar
@@ -30,5 +31,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Register event notification
 Description: Establish which rules will define a notification event.
-#Register event notification
+# Register event notification
 
 This functionality aims to establish which rules will define a notification
 event, that is, perform the notification setting that will be triggered when the
@@ -55,5 +55,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

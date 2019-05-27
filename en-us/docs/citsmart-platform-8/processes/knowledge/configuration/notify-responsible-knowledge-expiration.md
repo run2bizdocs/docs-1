@@ -1,6 +1,6 @@
 title: Notify responsible for the knowledge expiration
 Description: Configure the e-mail notification to notify the responsible (creator and publisher) about the expiration of knowledge.
-#Notify responsible for the knowledge expiration
+# Notify responsible for the knowledge expiration
 
 This knowledge is intended to configure the e-mail notification to notify the
 responsible (creator and publisher) about the expiration of knowledge.
@@ -50,5 +50,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

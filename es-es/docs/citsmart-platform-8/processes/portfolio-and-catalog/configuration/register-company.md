@@ -1,6 +1,6 @@
 title: Registrar empresa
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar informaciones de la empresa.
-#Registrar empresa
+# Registrar empresa
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar
@@ -21,6 +21,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins
 

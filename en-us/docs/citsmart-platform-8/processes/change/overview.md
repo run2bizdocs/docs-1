@@ -50,6 +50,8 @@ Use
 
 -  [Suspend change](/en-us/citsmart-platform-8/processes/change/use/suspend-change.html)
 
+- [Register change occurrences](/en-us/citsmart-platform-8/processes/change/use/change-occurrences.html)
+
 Configuration
 ----------------
 
@@ -72,6 +74,6 @@ Report
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

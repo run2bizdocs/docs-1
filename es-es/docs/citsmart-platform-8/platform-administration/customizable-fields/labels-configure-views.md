@@ -1,6 +1,7 @@
 title: Configurar visiones
 Description: Tiene como objetivo permitir la creación de visiones (pantallas) diversas del sistema
-#Configurar visiones
+# Configurar visiones
+
 Esta funcionalidad tiene como objetivo permitir la creación de visiones (pantallas) diversas del sistema, con posibilidades de asociación con visiones vinculadas (subpantalla).
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar visiones (pantallas) diversas del sistema.
 
@@ -30,6 +31,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

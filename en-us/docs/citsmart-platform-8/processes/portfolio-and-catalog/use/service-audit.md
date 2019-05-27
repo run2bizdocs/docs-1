@@ -1,6 +1,7 @@
 title: Verify service audit
 Description: This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
-#Verify service audit
+# Verify service audit
+
 This functionality allows to verify the service history to its audit. The guidance described in this knowledge can be followed to verify the history of IT/Business Service and Support/Technical Service.
 
 Before getting started
@@ -39,6 +40,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

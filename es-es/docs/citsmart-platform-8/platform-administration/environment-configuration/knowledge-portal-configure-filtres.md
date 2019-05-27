@@ -1,6 +1,7 @@
 title: Configurar filtros del portal del conocimiento
 Description: Tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
-#Configurar filtros del portal del conocimiento
+# Configurar filtros del portal del conocimiento
+
 Esta funcionalidad tiene por objetivo configurar los filtros que aparecerán habilitados para la búsqueda de un conocimiento en el Portal del Conocimiento.
 
 Procedimiento
@@ -16,5 +17,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

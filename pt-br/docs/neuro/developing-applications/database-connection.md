@@ -1,6 +1,6 @@
 Title: Conexão de banco de dados
 Description: Todas as conexões de banco de dados necessárias para os aplicativos criados por meio do Neuro estão registradas aqui.  
-#Conexão de banco de dados  
+# Conexão de banco de dados  
 
 Neuro requer conexões de banco de dados para interfaces com banco de dados.
 É uma boa prática criar uma Conexão BD pela Aplicação Neuro.
@@ -37,7 +37,7 @@ Figura 1 - Aplicação
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  
 
 

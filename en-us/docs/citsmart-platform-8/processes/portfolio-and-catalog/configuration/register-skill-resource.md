@@ -1,6 +1,7 @@
 title: Register skill/resource
 Description: 
-#Register skill/resource
+# Register skill/resource
+
 This feature provides a variety of actions, such as including, changing, and deleting the capabilities of employees.
 
 Procedure
@@ -32,6 +33,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins
 

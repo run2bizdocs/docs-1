@@ -1,6 +1,6 @@
 title: Register time
 Description: Intended to shcedule tasks.
-#Register time
+# Register time
 
 This functionality is intended to shcedule tasks. It will choose the filters of
 date and time, and it will be created a Creon Expression to create triggers
@@ -26,5 +26,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Obtener signatura en atención de campo
 Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
-#Obtener signatura en atención de campo
+# Obtener signatura en atención de campo
 
 Este documento tiene por objetivo explicar sobre la configuración del CITSmart (GO y Experience)
 mobile para que el técnico reciba la firma digital de un validador en atención
@@ -17,7 +17,7 @@ deberá establecer el parámetro 435 para la opción "Sí".
 Procedimiento
 -------------
 
-*En CITSmart*
+***En CITSmart***
 
 1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
     Portafolio;
@@ -38,7 +38,7 @@ Procedimiento
 
 9.  Hacer clic en "Guardar".
 
-*En mobile*
+***En mobile***
 
 1.  Al capturar un ticket (usando el mobile), el técnico debe completar los
     campos disponibles y, al poner el ticket con status de "Resuelto", el campo
@@ -62,8 +62,10 @@ Relacionado
 
 [Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
+[Manual de uso de la aplicación CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/20/2019 – Anna Martins

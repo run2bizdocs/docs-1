@@ -2,30 +2,30 @@ Title: Frequently Asked Questions - FAQ
 
 # Frequently Asked Questions - FAQ
 
-??? Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
+!!! Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
 
     The process of risks in change begins in the design of the change portfolio where the "**Type of Impact and Risk Analysis**" is provided, which can be simplified or complete. The next step is in the change register to inform the data of the risk(s) in the left lateral bar in the item of risk analysis, that will be presented with the indication defined in the portfolio of change:
     "**Simplified**" for a simplified analysis in the item.
     "**Complete**" for a complete risk analysis with the definitionof Targets, Impact Analysis and Risk Evaluation.
     
-??? Question "Is it possible to attach documents to incidents, requests, problems and changes?"
+!!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
     Both the Reques and Incident may have documents attatched in their opening and attendance, for Problems and Changes documents may be attached to each phase of the solution and also, if necessary, in each of the stages defined in the solution of the problem or change.
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (default is 1GB).
     
-??? Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
+!!! Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
     
     Yes. It's possible to assign the person responsible for a CI by editing its options (Processes > Configuration Management > CMDB > Search > Edit > Responsible Type > Responsible). Note that updating a CI may be tied to Change Management, being necessary to link the ID of a RFC.
 
-??? Question "How to update a Configuration Item directly by the Request for Change?"
+!!! Question "How to update a Configuration Item directly by the Request for Change?"
 
     When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 1. Access the Change Management (Processes > Change Management > Change); 2. Select the RFC and click on it, then click on "Open"; 3. In the management interface, click on the item "Related CI"; 4. In the actions item, click on the "Change" icon; 5. Change the CI with the new information; 6. Click on "Save".
     
-??? Question "Is it possible to categorize the Request/Incident (Ticket)?"    
+!!! Question "Is it possible to categorize the Request/Incident (Ticket)?"    
 
     Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
-??? Question "How are documents ranked at the time of SOLR knowledge base search?"
+!!! Question "How are documents ranked at the time of SOLR knowledge base search?"
     
     To rank the documents at the time of the search, Solr generates a score for each document.
     
@@ -43,7 +43,7 @@ Title: Frequently Asked Questions - FAQ
     
     Boosters are open for use, but to use them requires a better analysis of the importance of fields and documents added to Solr, by the knowledge base.
     
-??? Question "How can Event Management become a business monitoring tool?"
+!!! Question "How can Event Management become a business monitoring tool?"
     
     WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
     You can connect the EVM component to any software, even one other than the one the Event Management module normally integrates (Nagios, Zabbix and Inventory) as long as the data sent via webservice follows a pre-set standard.
@@ -55,7 +55,7 @@ Title: Frequently Asked Questions - FAQ
     - Let's say it's the rule that one company does not hire more than 5 employees per industry.
     - The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring "Could be fired.
     
-??? Question "How do I access the service request from the e-mail notification?"
+!!! Question "How do I access the service request from the e-mail notification?"
     
     To access the service request from the e-mail notification, proceed as follows:
     
@@ -63,7 +63,7 @@ Title: Frequently Asked Questions - FAQ
     2. Open the e-mail notification for the service request;
     3. The notification will have the request number with a hyperlink, just click on the number, which will then be redirected to the Service Management screen presenting the request information.
     
-??? Question "How do I design the assets that make up my service?"
+!!! Question "How do I design the assets that make up my service?"
    
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
@@ -73,7 +73,7 @@ Title: Frequently Asked Questions - FAQ
     2. The screen for designing the assets that make up the business service will be presented;
     3. Perform the design
     
-??? Question "How do I set a default group for the first level service request?"
+!!! Question "How do I set a default group for the first level service request?"
     
     To set the default group for 1st level attendance, proceed as follows:
     
@@ -89,7 +89,7 @@ Title: Frequently Asked Questions - FAQ
     
     RULE: after setting the parameter, when registering a Service Request/Incident, if you have not informed the group to service the service, the group will be scaled, which was defined in the parameter For 1st level service.
     
-??? Question "How to configure Nagios authentication via LDAP?"
+!!! Question "How to configure Nagios authentication via LDAP?"
     
     The Nagios authentication configuration via LDAP is:
     
@@ -118,7 +118,7 @@ Title: Frequently Asked Questions - FAQ
     /etc/init.d/nagios reload
 	```
     
-??? Question "How to configure the automatic satisfaction survey response?"
+!!! Question "How to configure the automatic satisfaction survey response?"
     
     The automatic response mechanism, which will answer automatically all service request satisfaction surveys, kicks in when the satisfaction survey is not filled out by the user within the deadline determined by the systems manager.
     
@@ -139,7 +139,7 @@ Title: Frequently Asked Questions - FAQ
     
 	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
 
-??? Question "How to configure the configuration Items lifecycle phases names?"
+!!! Question "How to configure the configuration Items lifecycle phases names?"
     
     The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below
     
@@ -170,7 +170,7 @@ Title: Frequently Asked Questions - FAQ
     13. On the Value field, insert the name of the CI group in confirmation phase;
     14. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
 
-??? Question "How to configure the service request notification e-mails?"
+!!! Question "How to configure the service request notification e-mails?"
     
     When registering a service request, perform determined activities and its execution, the petitioner will be notified.
     
@@ -200,7 +200,7 @@ Title: Frequently Asked Questions - FAQ
     
     RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the petitioner.
     
-??? Question "How to define the obligatoriness of the linking change with IC?"
+!!! Question "How to define the obligatoriness of the linking change with IC?"
     
     The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
 
@@ -212,7 +212,7 @@ Title: Frequently Asked Questions - FAQ
     6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
     7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory
     
-??? Question "How to enable automatic e-mail reading routine?"
+!!! Question "How to enable automatic e-mail reading routine?"
     
     When sending an e-mail to CITSmart support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
     
@@ -242,7 +242,7 @@ Title: Frequently Asked Questions - FAQ
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to enable the change module escalation rule?"
+!!! Question "How to enable the change module escalation rule?"
     
     The changes escalating rule is enacted on the CITSmart Parameter screen.
     
@@ -254,7 +254,7 @@ Title: Frequently Asked Questions - FAQ
     4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation.
     5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
     
-??? Question "How to enable the Service Portal(Smart Portal)?"
+!!! Question "How to enable the Service Portal(Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
@@ -263,7 +263,7 @@ Title: Frequently Asked Questions - FAQ
     3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
-??? Question "How to enable the satisfaction survey?"
+!!! Question "How to enable the satisfaction survey?"
     
     The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
     
@@ -279,7 +279,7 @@ Title: Frequently Asked Questions - FAQ
     8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
     
-??? Question "How to enable the scheduling rule of the problems module?"
+!!! Question "How to enable the scheduling rule of the problems module?"
     
     The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
     
@@ -289,7 +289,7 @@ Title: Frequently Asked Questions - FAQ
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
     5. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to enable the service requests escalation rule?"
+!!! Question "How to enable the service requests escalation rule?"
     
     The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
@@ -309,7 +309,7 @@ Title: Frequently Asked Questions - FAQ
     
 	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
    
-??? Question "How to improve the performance of CITSmart Enterprise ITSM?"
+!!! Question "How to improve the performance of CITSmart Enterprise ITSM?"
     
     System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
     
@@ -338,14 +338,14 @@ Title: Frequently Asked Questions - FAQ
     9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).
     
-??? Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
     
     Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
     
     1. On-demand environments: Administrator must connect to the client's directory server.
     2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
 
-??? Question "How to link staff members (users) to a group?"
+!!! Question "How to link staff members (users) to a group?"
     
     There are two ways to link staff members (users) to groups, being:
 
@@ -365,7 +365,7 @@ Title: Frequently Asked Questions - FAQ
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
     5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit
 
-??? Question "How to relate group to contract?"
+!!! Question "How to relate group to contract?"
     
     To relate the group to the contract, proceed as follows:
     
@@ -377,7 +377,7 @@ Title: Frequently Asked Questions - FAQ
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
     
-??? Question "How to relate unit to contract?"
+!!! Question "How to relate unit to contract?"
     
     To relate the unit to the contract, proceed as follows:
     
@@ -389,7 +389,7 @@ Title: Frequently Asked Questions - FAQ
     6. Select the contracts to which the unit will be linked.
     7. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
-??? Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
+!!! Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
     
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
     
@@ -409,7 +409,7 @@ Title: Frequently Asked Questions - FAQ
 
 	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.
     
-??? Question "How to setup the SOLR feature?"
+!!! Question "How to setup the SOLR feature?"
     
     PARAMETER CONFIGURATION
     
@@ -426,7 +426,7 @@ Title: Frequently Asked Questions - FAQ
     5. Shortly after, click again on ”Index Knowledge Base";
     6. If any errors occur contact the ITSM Support.
     
-??? Question "To which recipient will be sent notifications of CI?"
+!!! Question "To which recipient will be sent notifications of CI?"
     
     CI notifications will be sent to the recipient defined in the Citsmart Parameter screen.
     
@@ -441,256 +441,2296 @@ Title: Frequently Asked Questions - FAQ
     7. Click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
     8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
     
-??? Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
    
     [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
     
     [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
     
-??? Question "What is the attachment upload features file size limit?"
+!!! Question "What is the attachment upload features file size limit?"
     
     The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
    
-??? Question "What is the Fato table of the service request module and how to insert data?"
+!!! Question "What is the Fato table of the service request module and how to insert data?"
     
     The service request fact table is intended to receive consolidated information regarding the service request.
     
     Such as:
     
     IDSOLICITACAOSERVICO
-	
-    DATAHORASOLICITACAO
-	
-    DIAABERTURA
-	
-    MESABERTURA
-	
-    ANOABERTURA
-	
-    DATAHORAFIM
-	
-    DIAFECHAMENTO
-	
-    MESFECHAMENTO
-	
-    ANOFECHAMENTO
-	
-    IDGRUPOATUAL
-	
-    GRUPOATUAL
-	
-    IDPRIORIDADE
-	
-    NOMEPRIORIDADE
-	
-    IDSERVICOCONTRATO
-	
-    IDCONTRATO
-	
-    NUMEROCONTRATO
-	
-    IDTIPOSERVICO
-	
-    NOMETIPOSERVICO
-	
-    IDPORTFOLIOSERVICO
-	
-    DESCPORTFOLIOSERVICO
-	
-    IDSOLICITANTE
-	
-    SOLICITANTE
-	
-    IDUSUARIORESPONSAVELATUAL
-	
-    TECNICORESPONSAVEL
-	
-    IDTIPODEMANDASERVICO
-	
-    TIPOSOLICITACAO
-	
-    IDCAUSAINCIDENTE
-	
-    CAUSA
-	
-    IDCATEGORIASOLUCAO
-	
-    CATEGORIASOLUCAO
-	
-    IDSTATUS
-	
-    STATUS
-	
-    IDACORDONIVELSERVICO
-	
-    PRAZOSLA_HH
-	
-    PRAZOSLA_MM
-	
-    IDCALENDARIO
-	
-    CALENDARIO
-	
-    DATAHORALIMITE
-	
-    DIALIMITESLA
-	
-    MESLIMITESLA
-	
-    ANOLIMITESLA
-	
-    TAREFAATUAL
-	
-    IDCLIENTE
-	
-    CLIENTE
-	
-    IDFORNECEDOR
-	
-    FORNECEDOR
-	
-    IDCATEGORIASERVICO
-	
-    CATEGORIASERVICO
-	
-    IDCONDICAOOPERACAO
-	
-    NOMECONDICAOOPERACAO
-	
-    IDORIGEM
-	
-    ORIGEMDASOLICITACAO
-	
-    IDMOEDA
-	
-    MOEDA
-	
-    IDTIPOFLUXO
-	
-    FLUXO
-	
-    IDIMPORTANCIANEGOCIO
-	
-    IMPORTANCIASERVICOAONEGOCIO
-	
-    IDLOCALIDADE
-	
-    LOCALIDADE
-	
-    IDUNIDADE
-	
-    UNIDADE
-	
-    URGENCIA
-	
-    IMPACTO
-	
-    RUPTURASLA
-	
-    QTDEREABERTURAS
-	
-    HOUVERECLASSIFICACAO
-	
-    TEMPOATENDIMENTOHH
-	
-    TEMPOATENDIMENTOMM
-	
-    TEMPOATRASOHH
-	
-    TEMPOATRASOMM
-	
-    MAJOR
-	
-    NOTAPESQUISASATISFACAO
-	
-    QTDESOLICITACOESFILHAS
-	
-    QTDESUBSOLICITACOES
-	
-    QTDEBASECONHECIMENTO
-	
-    QTDEPROBLEMAS
-	
-    QTDELIBERACAO
-	
-    QTDEMUDANCAS
-	
-    QTDEICS
-	
-    QTDEAPLICACOES
-	
-    QTDEPROJETOS
-	
-    QTDEANEXOS
-	
-    QTDEAGENDAMENTOATIVIDADES
-	
-    QTDEAGENDAMENTATIVFINALIZADAS
-	
-    CONTRATOAPOIO
-	
-    SERVICOAPOIO
-	
-    CUSTOSERVICO
-	
-    SERVICOINDISPONIVEL
-	
-    QTDEELOGIOS
-	
-    QTDEQUEIXAS
-	
-    PROCEDIMENTOCONTINUIDADE
-	
-    CUSTOINDISPONIBILIDADE
-	
-    IDSERVICO
-	
-    NOMESERVICO
-	
-    IDATIVIDADE
-	
-    NOMEATIVIDADE
-	
-    DATAHORACARGA
+	      DATAHORASOLICITACAO
+	      DIAABERTURA
+	      MESABERTURA
+	      ANOABERTURA
+	      DATAHORAFIM
+	      DIAFECHAMENTO
+	      MESFECHAMENTO
+	      ANOFECHAMENTO
+	      IDGRUPOATUAL
+	      GRUPOATUAL
+	      IDPRIORIDADE
+	      NOMEPRIORIDADE
+	      IDSERVICOCONTRATO
+	      IDCONTRATO
+	      NUMEROCONTRATO
+	      IDTIPOSERVICO
+	      NOMETIPOSERVICO
+	      IDPORTFOLIOSERVICO
+	      DESCPORTFOLIOSERVICO
+	      IDSOLICITANTE
+	      SOLICITANTE
+	      IDUSUARIORESPONSAVELATUAL
+	      TECNICORESPONSAVEL
+	      IDTIPODEMANDASERVICO
+	      TIPOSOLICITACAO
+	      IDCAUSAINCIDENTE
+	      CAUSA
+	      IDCATEGORIASOLUCAO
+	      CATEGORIASOLUCAO
+	      IDSTATUS
+	      STATUS
+	      IDACORDONIVELSERVICO
+	      PRAZOSLA_HH
+	      PRAZOSLA_MM
+	      IDCALENDARIO
+	      CALENDARIO
+	      DATAHORALIMITE
+	      DIALIMITESLA
+	      MESLIMITESLA
+	      ANOLIMITESLA
+	      TAREFAATUAL
+	      IDCLIENTE
+	      CLIENTE
+	      IDFORNECEDOR
+	      FORNECEDOR
+	      IDCATEGORIASERVICO
+	      CATEGORIASERVICO
+	      IDCONDICAOOPERACAO
+	      NOMECONDICAOOPERACAO
+	      IDORIGEM
+	      ORIGEMDASOLICITACAO
+	      IDMOEDA
+	      MOEDA
+	      IDTIPOFLUXO
+	      FLUXO
+	      IDIMPORTANCIANEGOCIO
+	      IMPORTANCIASERVICOAONEGOCIO
+	      IDLOCALIDADE
+	      LOCALIDADE
+	      IDUNIDADE
+	      UNIDADE
+	      URGENCIA
+	      IMPACTO
+	      RUPTURASLA
+	      QTDEREABERTURAS
+	      HOUVERECLASSIFICACAO
+	      TEMPOATENDIMENTOHH
+	      TEMPOATENDIMENTOMM
+	      TEMPOATRASOHH
+	      TEMPOATRASOMM
+	      MAJOR
+	      NOTAPESQUISASATISFACAO
+	      QTDESOLICITACOESFILHAS
+	      QTDESUBSOLICITACOES
+	      QTDEBASECONHECIMENTO
+	      QTDEPROBLEMAS
+	      QTDELIBERACAO
+	      QTDEMUDANCAS
+	      QTDEICS
+	      QTDEAPLICACOES
+	      QTDEPROJETOS
+	      QTDEANEXOS
+	      QTDEAGENDAMENTOATIVIDADES
+	      QTDEAGENDAMENTATIVFINALIZADAS
+	      CONTRATOAPOIO
+	      SERVICOAPOIO
+	      CUSTOSERVICO
+	      SERVICOINDISPONIVEL
+	      QTDEELOGIOS
+	      QTDEQUEIXAS
+	      PROCEDIMENTOCONTINUIDADE
+	      CUSTOINDISPONIBILIDADE
+	      IDSERVICO
+	      NOMESERVICO
+	      IDATIVIDADE
+	      NOMEATIVIDADE
+	      DATAHORACARGA
     
-	This information is fed through the citsmart batch processing routine, by running the Rhino scripts in the attachments.
-	
-	[Download - ScriptRhino Fato table][1]
-    
-[1]:images/script-tabla-fato.zip
+    Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino Conforme o Banco
+    ```
 
-    
-??? Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
+    ```JavaScript tab="oraclev70.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
+		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
+		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
+		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
+		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
+		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
+		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origemocorrencia.nome origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select nota from pesquisasatisfacao pqs where rownum < 2 and pqs.idsolicitacaoservico = ss.idsolicitacaoservico) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico) as idservico,")
+		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico)) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join table(f_execucao_solicitacao(null,null,null,null)) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > TO_TIMESTAMP(TO_CHAR(CURRENT_TIMESTAMP - interval '1' day, 'YYYY-MM-DD'), 'YYYY-MM-DD HH24:MI:SS') and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), null, 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=CURRENT_TIMESTAMP ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();	
+	```
+	
+	```JavaScript tab="oraclev71.txt"
+
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
+		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
+		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
+		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
+		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
+		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
+		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origemocorrencia.nome origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select nota from pesquisasatisfacao pqs where rownum < 2 and pqs.idsolicitacaoservico = ss.idsolicitacaoservico) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico) as idservico,")
+		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico)) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join table(f_execucao_solicitacao(null,null,null,null)) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > ? and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDiaAnterior();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=CURRENT_TIMESTAMP ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();	
+	```
+
+	```JavaScript tab="postgresql.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
+		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
+		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
+		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
+		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
+		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
+		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origematendimento.descricao origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
+		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > (cast(? as timestamp) - interval '1 day') and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDataHoraAtual();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=now() ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();
+	```
+	
+	```JavaScript tab="postgresql70.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
+		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
+		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
+		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
+		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
+		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
+		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origematendimento.descricao origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
+		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > (cast(? as timestamp) - interval '1 day') and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDataHoraAtual();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=now() ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();
+	```
+	
+	```JavaScript tab="postgresql71.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
+		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
+		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
+		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
+		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
+		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
+		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origemocorrencia.nome origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
+		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > ? and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDiaAnterior();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=now() ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();
+	```
+
+	```JavaScript tab="sqlserver.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("DAY(ss.datahorasolicitacao) diaabertura,")
+		   .append("MONTH(ss.datahorasolicitacao) mesabertura,")
+		   .append("YEAR(ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("DAY(ss.datahorafim) diafechamento,")
+		   .append("MONTH(ss.datahorafim) mesfechamento,")
+		   .append("YEAR(ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("DAY(ss.datahoralimite) dialimitesla,")
+		   .append("MONTH(ss.datahoralimite) meslimitesla,")
+		   .append("YEAR(ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origematendimento.descricao origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("dbo.f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select top 1 nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select top 1 sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) as idservico,")
+		   .append("(select top 1 srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico)) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > ? and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDiaAnterior();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=CURRENT_TIMESTAMP ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();
+	```
+	
+	```JavaScript tab="sqlserver71.txt"
+	var importNames = JavaImporter();
+	importNames.importPackage(Packages.java.util);
+	importNames.importPackage(Packages.java.lang);
+	importNames.importPackage(Packages.java.sql);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
+	importNames.importPackage(Packages.br.com.citframework.util);
+	importNames.importPackage(Packages.br.com.citframework.comparacao);
+	importNames.importPackage(Packages.br.com.citframework.integracao);
+	importNames.importPackage(Packages.com.google.gson);
+	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
+	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
+	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
+	importNames.importPackage(Packages.br.com.citframework.excecao);
+	var print = java.lang.System.out;
+
+	montarSqlSolicitacoes = function() {
+		var sql = new importNames.StringBuilder();
+		sql.append("select ")
+		   .append("distinct ")
+		   .append("ss.idsolicitacaoservico,")
+		   .append("ss.datahorasolicitacao,")
+		   .append("DAY(ss.datahorasolicitacao) diaabertura,")
+		   .append("MONTH(ss.datahorasolicitacao) mesabertura,")
+		   .append("YEAR(ss.datahorasolicitacao) anoabertura,")
+		   .append("ss.datahorafim,")
+		   .append("DAY(ss.datahorafim) diafechamento,")
+		   .append("MONTH(ss.datahorafim) mesfechamento,")
+		   .append("YEAR(ss.datahorafim) anofechamento,")
+		   .append("g.idgrupo idgrupoatual,")
+		   .append("g.sigla grupoatual,")
+		   .append("ss.idprioridade,")
+		   .append("pr.nomeprioridade,")
+		   .append("ss.idservicocontrato,")
+		   .append("sc.idcontrato,")
+		   .append("c.numero numerocontrato,")
+		   .append("s.idtiposervico,")
+		   .append("ts.nometiposervico,")
+		   .append("s.idportfolioservico,")
+		   .append("ps.descportfolioservico,")
+		   .append("ss.idsolicitante,")
+		   .append("empsol.nome solicitante,")
+		   .append("ss.idusuarioresponsavelatual,")
+		   .append("usurespatual.nome tecnicoresponsavel,")
+		   .append("ss.idtipodemandaservico,")
+		   .append("tds.classificacao tiposolicitacao,")
+		   .append("ss.idcausaincidente,")
+		   .append("descricaocausa causa,")
+		   .append("ss.idcategoriasolucao,")
+		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
+		   .append("ss.idstatus,")
+		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
+		   .append("ss.idacordonivelservico,")
+		   .append("ss.prazohh prazosla_hh,")
+		   .append("ss.prazomm prazosla_mm,")
+		   .append("ss.idcalendario,")
+		   .append("calendario.descricao calendario,")
+		   .append("ss.datahoralimite,")
+		   .append("DAY(ss.datahoralimite) dialimitesla,")
+		   .append("MONTH(ss.datahoralimite) meslimitesla,")
+		   .append("YEAR(ss.datahoralimite) anolimitesla,")
+		   .append("elfluxo.nome tarefaatual,")
+		   .append("c.idcliente,")
+		   .append("clientes.nomefantasia cliente,")
+		   .append("c.idfornecedor,")
+		   .append("fornecedor.nomefantasia fornecedor,")
+		   .append("s.idcategoriaservico,")
+		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
+		   .append("condicaooperacao.idcondicaooperacao,")
+		   .append("condicaooperacao.nomecondicaooperacao,")
+		   .append("ss.idorigem,")
+		   .append("origemocorrencia.nome origemdasolicitacao,")
+		   .append("c.idmoeda,")
+		   .append("moedas.nomemoeda moeda,")
+		   .append("bpm_tipofluxo.idtipofluxo,")
+		   .append("bpm_tipofluxo.nomefluxo fluxo,")
+		   .append("s.idimportancianegocio,")
+		   .append("importancianegocio.nomeimportancianegocio,")
+		   .append("csol.idlocalidade,")
+		   .append("loc.nomelocalidade localidade,")
+		   .append("ss.idunidade,")
+		   .append("unidade.nome,")
+		   .append("ss.urgencia,")
+		   .append("ss.impacto,")
+		   .append("dbo.f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
+		   .append("ss.seqreabertura,")
+		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
+		   .append("tempoatendimentohh,")
+		   .append("tempoatendimentomm,")
+		   .append("tempoatrasohh,")
+		   .append("tempoatrasomm,")
+		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
+		   .append("(select top 1 nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc) notapesquisasatisfacao,")
+		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
+		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
+		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
+		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
+		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
+		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
+		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
+		   .append("(select count(distinct(apliserv.idaplicacao)) ")
+		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
+													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
+													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
+		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
+		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
+		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
+		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
+		   .append("(select count(ap.idatividadeperiodica) ")
+		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
+		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
+		   .append(") qtdeagendamentativfinalizadas,")
+		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
+		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
+		   .append("ss.custoservico,")
+		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
+		   .append("(select count(idpesquisasatisfacao) ")
+		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
+		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
+		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
+		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
+		   .append("(select top 1 sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) as idservico,")
+		   .append("(select top 1 srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico)) as nomeservico,")
+		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
+		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
+									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
+									.append("left join grupo g on a.idgrupo = g.idgrupo ")
+									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
+									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
+									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
+									.append("left join servico s on sc.idservico = s.idservico ")
+									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
+									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
+									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
+									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
+									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
+									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
+									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
+									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
+									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
+									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
+									.append("left join clientes on c.idcliente = clientes.idcliente ")
+									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
+									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
+									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
+									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
+									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
+									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
+									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
+									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
+									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
+									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
+									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
+									.append("left join unidade on ss.idunidade = unidade.idunidade ")
+		.append("where dtlastmodification > ? and a.idtype=1 ")
+		.append("order by ss.idsolicitacaoservico desc");
+		return sql.toString();
+	}
+
+	executaConsultaSolicitacoes = function(){
+		var dataHora = importNames.UtilDatas.getDiaAnterior();
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(dataHora);
+		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
+	}
+
+	montarSqlSolicitacaoCadastrada = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
+		return sql.toString();
+	}
+
+	solicitacaoCadastrada = function(idSolicitacaoServico){
+		var cadastrada = false;
+		var parmsUtilizadosNoSQL = new importNames.ArrayList();
+		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
+		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
+		if((consulta!=null)&&(consulta.size()>0)){
+			var registroSolicitacao = null;
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
+					cadastrada = true;
+				}
+			}
+		}
+		return cadastrada;
+	}
+
+	montarSqlInserirDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("INSERT INTO fato_solicitacaoservico(")
+					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
+					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
+					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
+					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
+					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
+					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
+					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
+					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
+					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
+					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
+					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
+					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
+					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
+					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
+					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
+					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
+					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
+					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
+					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
+					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
+			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
+					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
+			.append(")");
+		return sql.toString();
+	}
+
+	inserirDados = function(dados){
+		try {
+				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
+		} catch(err) {
+			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
+			print.println(err);
+		}
+	}
+
+	montarSqlAtualizarDados = function(){
+		var sql = new importNames.StringBuilder();
+		sql.append("UPDATE fato_solicitacaoservico SET ")
+				.append("datahorasolicitacao=?,diaabertura=?,")
+				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
+				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
+				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
+				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
+				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
+				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
+				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
+				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
+				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
+				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
+				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
+				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
+				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
+				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
+				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
+				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
+				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
+				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
+				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
+				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
+				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
+				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
+				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
+				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
+				.append("datahoracarga=CURRENT_TIMESTAMP ")
+		   .append("WHERE idsolicitacaoservico = ?");
+		return sql.toString();
+	}
+
+	atualizarDados = function(dados){
+		try {
+				var parmsUtilizadosNoSQL = new importNames.ArrayList();
+				if(dados!=null){
+					for (var i = 1; i < dados.length; i++) {
+						parmsUtilizadosNoSQL.add(dados[i]);
+					}
+				}
+				parmsUtilizadosNoSQL.add(dados[0]);
+				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
+		} catch(err) {
+			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
+		}
+	}
+
+	gravarDados = function(dados){
+		if (solicitacaoCadastrada(dados[0])){
+			atualizarDados(dados);
+		} else {
+			inserirDados(dados);
+		}
+	}
+
+	gerarCargaTabelaFatoSolicitacao = function(){
+		var consulta = executaConsultaSolicitacoes();
+		var registroSolicitacao = null;
+		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
+		if((consulta!=null)&&(consulta.size()>0)){
+			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
+				registroSolicitacao = itSolicitacao.next();
+				gravarDados(registroSolicitacao);
+				print.println("Solicitacao: "+registroSolicitacao[0]);
+			}
+		}
+		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
+	}
+
+	" "+gerarCargaTabelaFatoSolicitacao();
+	```
+
+
+!!! Question "What is the impact of the "Solver Group" filter on the behavior of Inquiries and Incidents searches?"
     
     When the "solver group" filter is active, only closed ones will be shown, since when selecting this filter, it is understood that there is a need to present the group that actually solved a request, not presenting groups responsible for tasks (according to The flow bound to the request service) executed after the request is resolved.
     
 	Let's look at a generic example:
     - For example, service A has a linked quality flow, after solving a service A request and advancing the flow, the responsible group will be the quality group and this will terminate the life cycle of the request in question, but this group is not The group that solved this request, it only approved the solution and terminated the request, so it will not appear in the report generated by the Inquiries and Incidents search screen when the "Solver Group" filter is marked with a specific group.
-    - However, when the "Solver Group" filter is not active, the group presented in the report or search will be the group referring to the current request task, ie if the request is closed and has a quality flow, the group will be presented Of quality as the current group responsible for closing the life cycle of this request, if the request is in progress, will be presented the current group responsible for the execution of this request.
+    - However, when the "Solver Group" filter is not active, the group presented in the report or search will be the group referring to the current request task, ie if the request is closed and has a quality flow, the group will be presented Of quality as the current group responsible for closing the life cycle of this request, if the request is in progress, will be presented the current group responsible for the execution of this request.  
     
-??? Question "What is the meaning of each inventory status of CIs?"
+!!! Question "What is the meaning of each inventory status of CIs?"
     
-    - Inventory - the inventory was able to read the CI information and ended successfully
+    -  Inventory - the inventory was able to read the CI information and ended successfully
     - Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
     - Unreachable - When the server encounters the IC but can not bring the information,
     - Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
     - Running - While reading the inventory, the IC is in this status.
     
-??? Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
+!!! Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
     
     - Public: all users with access to the Knowledge Portal have access, regardless of whether they have access to the knowledge folder.
     - Confidential: only author and approver can view knowledge.
     - Internal: only people with permission in the knowledge folder can view.
     
-??? Question "Is it possible to version knowledge in the knowledge management?"
+!!! Question "Is it possible to version knowledge in the knowledge management?"
     
     To version a knowledge, open one in the knowledge management interface, click on edit in the knowledge information screen and then on "Version". It's also possible to "Archive the previous version" of the knowledge
     
-??? Question "What permissions are necessary on the destination folder of the Logdata table backup?"
+!!! Question "What permissions are necessary on the destination folder of the Logdata table backup?"
 
     The permissions on the folder must be read and write to the user that JBoss uses.
     
-??? Question "When does data synchronization occur with LDAP?"
+!!! Question "When does data synchronization occur with LDAP?"
     
     The system synchronizes the credential data of its users with LDAP in three different situations:
     
@@ -698,11 +2738,11 @@ Title: Frequently Asked Questions - FAQ
     2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's authentication and permission;
     3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.
     
-??? Question "When is removed the data from the Logdata table?"
+!!! Question "When is removed the data from the Logdata table?"
     
     The backup routine of the LogData table removes the data from the table and saves it to a file, that is, the table becomes clean after processing.
     
-??? Question "Why are the schedules created by the tool different from the current time?"
+!!! Question "Why are the schedules created by the tool different from the current time?"
     
     SCENARIO
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
@@ -716,17 +2756,17 @@ Title: Frequently Asked Questions - FAQ
     3.Setting up the TimeZone on the JRE:
     https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
-??? Question "Why in some reports does the same request appear more than once?"
+!!! Question "Why in some reports does the same request appear more than once?"
     
     In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repeats" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
     
     In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not shown more than once.
     
-??? Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
+!!! Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
     
     This is not an error, the solver group field is populated only when the request is terminated, this causes to only brings results to situations such as "Closed", incompatible with what is being requested / reported in the filters.
     
-??? Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
+!!! Question "Why will service request numbering not always follow a strict / perfect sequential order on the service request screen or in some reports?"
     
     Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
     
@@ -735,11 +2775,11 @@ Title: Frequently Asked Questions - FAQ
     - There is an application stop for version upgrade, or environment maintenance and later return.
     - The environment is clustered.
     
-??? Question "Will the backup be overwritten or will there be a file for every day?"
+!!! Question "Will the backup be overwritten or will there be a file for every day?"
     
     If your routine has a daily backup, a file will be created every day, containing the name and date of the file.
     
-??? Question "Why does the system display an invalid date message when auditing the ticket?"
+!!! Question "Why does the system display an invalid date message when auditing the ticket?"
 
     In the Ticket Management interface, specifically in the "Audit" item, when trying to configure the auditing of an open ticket (set start and end dates in the filter), the following error may occur: the system will display the message "Invalid Date". This is because the functionality requires that the language set in the system and browser used be the same.
     If this requirement is not observed and this difference occurs in the languages, when auditing the tickets, the system will display a message and make it impossible to obtain the desired report. It's therefore necessary to match the system and browser languages.

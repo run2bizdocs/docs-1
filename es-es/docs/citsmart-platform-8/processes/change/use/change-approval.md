@@ -1,6 +1,6 @@
 title: Aprobar cambio
 Description: Permite al Comité Asesor de Cambios aprobar o rechazar los cambios
-#Aprobar cambio
+# Aprobar cambio
 
 Esta funcionalidad permite al Comité Asesor de Cambios aprobar o rechazar el cambio.
 
@@ -34,12 +34,12 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar parametrización – cambio](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configurar parametrización – cambio](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
-[Registrar grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

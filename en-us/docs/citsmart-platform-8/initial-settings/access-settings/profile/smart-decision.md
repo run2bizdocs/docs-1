@@ -1,6 +1,6 @@
 title: Define smart decision access permission
 Description: Is intended to allow the Smart Decision access permission to set who will have access to the widgets to insert in the dashboard.
-#Define smart decision access permission
+# Define smart decision access permission
 
 This functionality is intended to allow the Smart Decision access permission to
 set who will have access to the widgets to insert in the dashboard, which will
@@ -23,5 +23,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

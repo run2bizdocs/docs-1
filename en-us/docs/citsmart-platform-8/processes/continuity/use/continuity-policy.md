@@ -1,7 +1,8 @@
 title: Define service continuity policy
 
 Description: Allows to set the policy. 
-#Define service continuity policy
+# Define service continuity policy
+
 The Continuity Registration is a process that pass through several phases. The first phase of this process, called Initiation, is where it's set the policy, scope and IT service continuity project. This functionality allows to set the policy.
 The policy should define and communicate, as soon as possible, to all members of the organization involved or affected by the business continuity, to be aware about its responsibilities to support the IT Service Continuity Management (ITSCM) according to the objectives of the policy.
 
@@ -66,7 +67,7 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 
 

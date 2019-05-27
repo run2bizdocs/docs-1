@@ -1,6 +1,7 @@
 title: Register type of service
 Description: 
-#Register type of service
+# Register type of service
+
 This feature provides a variety of actions, such as including, changing, and deleting the types of service that will be used in other system routines.
 
 Procedure
@@ -17,5 +18,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

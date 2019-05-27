@@ -1,6 +1,6 @@
 title: Registrar horario
 Description: Objetivo programar tareas.
-#Registrar horario
+# Registrar horario
 
 
 Esta funcionalidad tiene como objetivo programar tareas. Se eligen filtros de
@@ -27,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

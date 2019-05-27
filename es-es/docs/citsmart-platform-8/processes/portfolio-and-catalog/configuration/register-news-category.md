@@ -1,6 +1,6 @@
 title: Registrar categoría de noticias
 Description: Registrar las categorías pra la organización de las noticias que se van a publicar en el Smart Portal.
-#Registrar categoría de noticias
+# Registrar categoría de noticias
 
 
 Esta funcionalidad tiene por objetivo registrar las categorías pra la
@@ -26,5 +26,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

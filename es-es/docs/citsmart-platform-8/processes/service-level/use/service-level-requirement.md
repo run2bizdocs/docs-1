@@ -1,6 +1,7 @@
 title: Requerimiento de nivel de servicio
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un requerimiento de nivel de servicio. 
-#Requerimiento de nivel de servicio
+# Requerimiento de nivel de servicio
+
 El Requerimiento de Nivel de Servicio o, en inglés, Service Level Requirement (SLR) es el requisito del cliente para un servicio de TI basado en los objetivos de negocio, y se utiliza para negociar las metas de nivel de servicio.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un requerimiento de nivel de servicio.
 
@@ -36,5 +37,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

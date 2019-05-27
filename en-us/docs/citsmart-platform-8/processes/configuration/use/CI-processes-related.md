@@ -1,7 +1,8 @@
 title: Verify processes related to the configuration item
 
 Description: Allows to verify the processes related to the CI
-#Verify processes related to the configuration item
+# Verify processes related to the configuration item
+
 This functionality allows to verify the processes related to the CI, in addition to the general information.
 
 Before getting started
@@ -30,5 +31,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

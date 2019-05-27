@@ -1,6 +1,6 @@
 title: Create cycle
 Description: Provides a variety of actions, such as including, changing, and deleting the period cycle with start and end date, to be used in the financial control.
-#Create cycle
+# Create cycle
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the period cycle with start and end date, to be used in the financial
@@ -34,5 +34,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

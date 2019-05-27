@@ -1,6 +1,7 @@
 title:  Ejecutar una liberación 
 Description: Permite registrar la información referente a la ejecución de la liberación de los cambios.
-#Ejecutar una liberación
+# Ejecutar una liberación
+
 Esta funcionalidad permite registrar la información referente a la ejecución de la liberación de los cambios.
 
 Antes de empezar
@@ -49,5 +50,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

@@ -1,6 +1,7 @@
 title: Reabrir un registro de liberación
 Description: Permite reabrir la liberación de cambios.
-#Reabrir un registro de liberación
+# Reabrir un registro de liberación
+
 Esta funcionalidad permite reabrir la liberación de cambios.
 
 Antes de empezar
@@ -34,5 +35,5 @@ liberaciones.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

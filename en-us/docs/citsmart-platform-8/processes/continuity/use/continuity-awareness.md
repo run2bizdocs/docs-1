@@ -1,7 +1,8 @@
 title: Register continuity awareness
 
 Description: Allows to register the Awareness (education and training) of the service continuity.
-#Register continuity awareness
+# Register continuity awareness
+
 The Continuity Registration is a process that pass through several phase. The fourth phase of this process is the Continuous Operation, where it'll be defined the continuity awareness (education and training), Review, continuity audit, tests of the contunity and its Invocation. This functionality allows to register the Awareness (education and training) of the service continuity.
 
 Before getting started
@@ -89,6 +90,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

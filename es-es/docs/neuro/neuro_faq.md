@@ -1,7 +1,7 @@
 Title: FAQ (Neuro)
 Description: CITSmart - FAQ
 
-#FAQ (Neuro)
+# FAQ (Neuro)
 
 ??? Question "¿Cuál es la diferencia entre crear un formulario a través del menú Formulario y a través del menú Objeto de negocio?"
     La creación a través del menú Formulario se produce de forma 100% manual. A través del menú de objeto de negocio, se puede generar el formulario desde el modelo de base de datos. El formulario generado se puede editar en el menú de registro de formulario.
@@ -64,9 +64,9 @@ Description: CITSmart - FAQ
 
 	Resumiendo en pasos, se recomienda seguir el siguiente orden:
 
-			1. Registro del flujo principal;
-			2. Registro del subproceso;
-			3. Inclusión del elemento de subproceso, haciendo referencia al subproceso ya creado.
+	1. Registro del flujo principal;
+	2. Registro del subproceso;
+	3. Inclusión del elemento de subproceso, haciendo referencia al subproceso ya creado.
 
 ??? Question "¿Cuál es la diferencia entre un flujo de integración de procesos y un flujo de integración de servicios?"
 	Los flujos de integración de procesos son flujos de trabajo que tienen tareas ejecutadas por usuarios, pudiendo también poseer tareas automáticas ejecutadas por el sistema.

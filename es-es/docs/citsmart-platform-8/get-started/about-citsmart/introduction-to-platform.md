@@ -1,7 +1,7 @@
 Title: Introducción a la Plataforma
 Description: Contexto de cambios y Gestión de Servicios
 
-#Introducción a la Plataforma
+# Introducción a la Plataforma
 
 Esté preparado para el cambio
 -------------------------------
@@ -78,7 +78,7 @@ CITSmart Corporation cree que el foco del negocio debe estar en la buena
 experiencia del cliente, y estar un paso adelante depende de cómo se conecta
 servicios y procesos.
 
-Esta es la nueva mentalidad para las nuevas empresas y nuestra CITSmart Platform -
+Esta es la nueva mentalidad para las nuevas empresas y nuestra CITSmart -
 Enterprise Services Platform ayudará a cambiar la perspectiva de estas corporaciones.
 
 !!! tip "About"

@@ -39,7 +39,7 @@ Configuração
 
 - [Cadastrar modelo de EPL](/pt-br/citsmart-platform-8/processes/event/configuration/register-epl-template.html)
 
-- [Cadastrar Conexão Event Monitor](/pt-br/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+- [Cadastrar conexão Event Monitor](/pt-br/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
 
 - [Cadastrar evento de notificação](/pt-br/citsmart-platform-8/processes/event/configuration/register-event-notification.html)
 
@@ -73,6 +73,6 @@ Relatórios
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - Anna Martins
 

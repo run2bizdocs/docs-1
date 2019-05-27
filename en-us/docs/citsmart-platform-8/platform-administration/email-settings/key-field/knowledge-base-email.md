@@ -1,6 +1,6 @@
 title: Knowledge base e-mail key fields
 Description: Intended to provide the list of key fields available for the knowledge base-related e-mail template.
-#Knowledge base e-mail key fields
+# Knowledge base e-mail key fields
 
 This document is intended to provide the list of key fields available for the
 knowledge base-related e-mail template.
@@ -34,5 +34,5 @@ Table 1 - List of key fields
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

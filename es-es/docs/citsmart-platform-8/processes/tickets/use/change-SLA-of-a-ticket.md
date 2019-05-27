@@ -1,6 +1,7 @@
 title:  Cambiar SLA del ticket 
 Description: Cambiar el SLA del ticket significa modificar el tiempo de atención del mismo, extender o acortar el plazo de ejecución de éste.
-#Cambiar SLA del ticket
+# Cambiar SLA del ticket
+
 Cambiar el SLA del ticket significa modificar el tiempo de atención del mismo, extender o acortar el plazo de ejecución de éste.
 
 Antes de empezar
@@ -33,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Registrar acción automatica de escalonamiento
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acción automatica de escalonamiento.
-#Registrar acción automatica de escalonamiento
+# Registrar acción automatica de escalonamiento
 
 
 Esta funcionalidad tiene como objetivo la acción de programación. Es el
@@ -29,5 +29,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

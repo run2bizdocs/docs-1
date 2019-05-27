@@ -1,6 +1,6 @@
 title: Búsqueda avanzada de problemas
 Description: Permite buscar los problemas ocurridos de acuerdo con los filtros definidos por el usuario.
-#Búsqueda avanzada de problemas
+# Búsqueda avanzada de problemas
 
 Esta funcionalidad tiene por objetivo buscar los problemas ocurridos de acuerdo con los filtros definidos por el usuario.
 
@@ -32,5 +32,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

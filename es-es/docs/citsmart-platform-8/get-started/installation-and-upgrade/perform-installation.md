@@ -306,7 +306,7 @@ PostgreSQL*.
 
 
 
-5.  Antes de sair do jboss-cli execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados.
+5.  Antes de salir de jboss-cli ejecute el comando reload para aplicar los cambios y realizar una prueba de conexión con la base de datos.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -338,7 +338,22 @@ PostgreSQL*.
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
+1. Para poder subir por encima de 10 Mb, incluir en el archivo subsystems la siguiente información:
+
+    ```java
+    <subsystem xmlns="urn:jboss:domain:undertow:5.0">
+            <buffer-cache name="default"/>
+            <server name="default-server">
+                <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" redirect-socket="https" enable-http2="true"/>
+                <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
+
+            ...
+            </server>
+    ...
+    </subsystem>
+    ```
+
+2. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
 ```sh
 [standalone\@localhost:9990 /] :reload
@@ -511,9 +526,11 @@ Caso usted tenga un certificado, es importante utilizarlo.
     https://itsm.citsmart.com:8443/citsmart
     ```
 	
-!!! info
-    El contexto CITSmart es estándar del CITSmart Enterprise.
+2. El contexto "citsmart" es el estándar de CITSmart Enterprise.
 
+    Primer acceso: Entre con la URL > https://itsm.citsmart.com:8443/citsmart.
+
+3. Ahora, siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
 
 ## Implementación del CITSmart Neuro
 
@@ -526,5 +543,5 @@ Caso usted tenga un certificado, es importante utilizarlo.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title: Verify yield control by employee
 Description: Is intended to obtain a report about the ticket attendance of a group or employee. 
-#Verify yield control by employee
+# Verify yield control by employee
+
 This functionality is intended to obtain a report about the ticket attendance of a group or employee.
 
 Before getting started
@@ -29,5 +30,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

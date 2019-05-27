@@ -1,6 +1,6 @@
 title: Create automatic action via email
 Description: Intended to program the automatic opening of a service request through email.
-#Create automatic action via email
+# Create automatic action via email
 
 This functionality is intended to program the automatic opening of a service
 request through email.
@@ -28,5 +28,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

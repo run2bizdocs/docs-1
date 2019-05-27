@@ -1,6 +1,7 @@
 title: Registrar continuidad del servicio
 Description: Permite registrar la continuidad de determinado servicio. 
-#Registrar continuidad del servicio
+# Registrar continuidad del servicio
+
 La Gestión de Continuidad se centra en recuperar los servicios de TI y sus componentes ante un evento de desastre.
 Esta funcionalidad permite registrar la continuidad de determinado servicio.
 
@@ -60,6 +61,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

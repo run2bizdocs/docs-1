@@ -1,6 +1,6 @@
 title: Suspender problema
 Description: Permite suspender el problema.
-#Suspender problema 
+# Suspender problema 
 
 Esta funcionalidad permite suspender el registro del problema.
 
@@ -25,11 +25,11 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)
 
-[Registrar justificación del problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
+[Registrar justificación del problema](/es-es/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

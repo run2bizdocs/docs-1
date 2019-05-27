@@ -3,7 +3,7 @@ Title: Gerenciamento ágil Simple
 # Simple Agile Management
 
 
-Simple is a functionality of the CITSmart Platform that allows the easy and agile
+Simple is a functionality of the CITSmart that allows the easy and agile
 management of activities. It was created to manage projects in the simplest way,
 with resources to organize, monitor and delegate the activities among the members
 of your team or individually.
@@ -18,7 +18,7 @@ tasks, which can be in groups of cards.
 Procedure
 ------------
 
-*I - Create a Workspace*
+***I - Create a Workspace***
 
 1.  Access the main menu Inegrated Management \>
     Simple – Agile Management;
@@ -40,7 +40,7 @@ Procedure
     -   Total: sum of the **Sprints** inside the Workspace.
 
 
-*II - Create a Sprint*
+***II - Create a Sprint***
 
 1.  Click on the Workspace created before;
 
@@ -90,10 +90,10 @@ Figure 1 - Sprint Screen
 
    -   **4**: add member that will participate in the Sprint
 
-   -   **5**: actios of configuration and permission of the Sprint
+   -   **5**: actions of configuration and permission of the Sprint
 
 
-*III - Create lists*
+***III - Create lists***
 
 1.  In each Sprint it will be available a default list of the system:: “To
     do, In progress and Completed”;
@@ -105,8 +105,8 @@ Figure 1 - Sprint Screen
     Figure 2 - List screen
 
 
-    -   **1**: search tasks with filters of member, tags and status of the list lista
-    (concluída e não concluída)
+    -   **1**: search tasks with filters of member, tags and status of the list
+    (completed and not completed)
 
     -   **2**: create new list
 
@@ -121,7 +121,7 @@ Figure 1 - Sprint Screen
 
     -   **8**: archive tasks list
 
-*IV - Create tasks*
+***IV - Create tasks***
 
    ![task screen](images/figure-3-simple.png)
     
@@ -138,7 +138,7 @@ Figure 1 - Sprint Screen
 
     To move a **task** from a list to another, click and drag it to the list.
 
-*V - Complete Simple card*
+***V - Complete Simple card***
 
 The Simple card has fields and buttons to describe a task/action with planning
 and control of dates, hours, checklist and several others device of control
@@ -162,7 +162,7 @@ and management.
     -   **5**: add tags to visually identify the task card
 
     -   **6**: click to be notified of any changes in this task. This notification will be
-    done through the notification button of the CITSmart Platform
+    done through the notification button of the CITSmart
 
     -   **7**: indicate the completion of the task
 
@@ -202,6 +202,6 @@ and management.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Anna Martins
 

@@ -56,41 +56,36 @@ Figura 2 - Guía Opciones
 
 *Opciones*:
 
--   Gestión de Disponibilidad: el conocimiento referente o no a la Gestión de
-    Disponibilidad;
+-   **Gestión de Disponibilidad**: el conocimiento referente o no a la Gestión de Disponibilidad;
     
--   Derechos de Autor: el conocimiento es referente o no a un derecho de autor;
+-   **Derechos de Autor**: el conocimiento es referente o no a un derecho de autor;
 
--   Legislación: el conocimiento es referente o no a una legislación.
+-   **Legislación**: el conocimiento es referente o no a una legislación.
 
 ### Datos de Registro
 
 En la pestaña Registro, se presentan vários campos para completar, entre ellos:
 
--   Título: informar el título del conocimiento;
+-   **Título**: informar el título del conocimiento;
 
--   Situación: informar la situación del documento que se va registrar;
+-   **Situación**: informar la situación del documento que se va registrar;
 
--   Privacidad: definir la privacidad del conocimiento;
+-   **Privacidad**: definir la privacidad del conocimiento;
 
--   Confidecial: sólo el autor del conocimiento y el administrador de la carpeta tendrán acceso al conocimiento;
+-   **Confidecial**: sólo el autor del conocimiento y el administrador de la carpeta tendrán acceso al conocimiento;
     
--   Público: todas las personas tendrán acceso al conocimiento, incluso las personas
-    sin permiso en la carpeta;
+-   **Público**: todas las personas tendrán acceso al conocimiento, incluso las personas sin permiso en la carpeta;
     
--   Interno: sólo las personas con permiso en la carpeta tendrán acceso al conocimiento
+-   **Interno**: sólo las personas con permiso en la carpeta tendrán acceso al conocimiento
 
--   Fecha de expiración: informe la fecha de expiración que el conocimiento obedezca.
+-   **Fecha de expiración**: informe la fecha de expiración que el conocimiento obedezca.
     Cuando alcanza la fecha definida, el documento se archivará automáticamente.
     
--   Contenido: describir el texto del conocimiento:
+-   **Contenido**: describir el texto del conocimiento:
 
-    -   Para añadir un enlace (hiperlink) al contenido del conocimiento para  acceder a 
-        un vínculo externo, seleccione una palabra o frase y haga clic en "Insertar/Editar 
-        enlace", completar los campos y hacer clic en "OK".
+    -   Para añadir un enlace (hiperlink) al contenido del conocimiento para  acceder a un vínculo externo, seleccione una palabra o frase y haga clic en "Insertar/Editar enlace", completar los campos y hacer clic en "OK".
         
-    -   Para añadir una imagen al contenido del conocimiento, haga clic en "Imagen" (dibujo 
-        e paisaje) o copiar y pegar la imagen guardada en un archivo en el ordenador;    
+    -   Para añadir una imagen al contenido del conocimiento, haga clic en "Imagen" (dibujo e paisaje) o copiar y pegar la imagen guardada en un archivo en el ordenador;    
 
     -   Para añadir un vídeo, haga clic en "Insertar un vídeo":
     
@@ -130,8 +125,8 @@ Figura 3 - Botón Opciones
     
 !!! Tip "Workflow de Aprobación"
 
-    El usuario final puede proponer nuevos Documentos/Conocimientos en el botón flotante del Portal de Conocimiento, el documento se guarda en la carpeta indicada por el Parámetro del sistema 313.
-    El Gestor de conocimiento busca los documentos no publicados o en la carpeta indicada y, según el progreso de la aprobación, el Documento ganará otro status:
+    El usuario final puede proponer nuevos Documentos/Conocimientos en el botón flotante del Portal de Conocimiento, el documento se         guarda en la carpeta indicada por el Parámetro del sistema 313.
+    El Gestor de conocimiento busca los documentos no publicados o en la carpeta indicada y, según el progreso de la aprobación, el         Documento ganará otro status:
     
     - En diseño
     
@@ -155,14 +150,14 @@ Botón Búsqueda - devuelve la pantalla principal de búsqueda de conocimientos.
 
 !!! Warning "Versión"
 
-    En la creación del conocimiento, CITSmart establecerá siempre la versión "1.0" y, cuando del cambio de un documento, podrá ser indicado por el operador, si la modificación debe ser Versionada o no y, también si las versiones anteriores deben archivarse.
+    En la creación del conocimiento, CITSmart establecerá siempre la versión "1.0" y, cuando del cambio de un documento, podrá ser           indicado por el operador, si la modificación debe ser Versionada o no y, también si las versiones anteriores deben archivarse.
 
 
 !!! Abstract "ATENCIÓN" 
 
-    **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues se corre el riesgo de ofrecer documentos de forma inadecuada. En este escenario se detiene la configuración de perfil de acceso y libera el acceso del documento a todos los usuarios.
+    **PRIVACIDAD** Se debe tener mucho cuidado al utilizar la privacidad "Público", pues se corre el riesgo de ofrecer documentos de         forma inadecuada. En este escenario se detiene la configuración de perfil de acceso y libera el acceso del documento a todos los         usuarios.
     
-    **SITUACIÓN**, la Situación indica el Flujo/Proceso de la creación (diseño) y aprobación/evaluación del Conocimiento hasta su publicación. 
+    **SITUACIÓN**, la Situación indica el Flujo/Proceso de la creación (diseño) y aprobación/evaluación del Conocimiento hasta su           publicación. 
 
 
 Relacionado
@@ -176,5 +171,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

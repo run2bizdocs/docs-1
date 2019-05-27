@@ -37,7 +37,7 @@ Title: Perform installation
     ```
 
 
-3. Now we have to create a user to manage the Wildfly. For that, create the user citsmart and apply the necessary permission as in the example bellow:
+3. Create an user to administrate the Wildfly:
 
     ```sh
     groupadd -r citsmart
@@ -55,7 +55,7 @@ Title: Perform installation
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
     ```
 
-4. Now we have to configure the PATH for the JAVA_HOME and JBOSS_HOME. For that, do as in the example below:
+4. Configure the **PATH** for the JAVA_HOME and JBOSS_HOME. For that, do as in the example below:
 
     ```sh
     vim /opt/wildfly/.bash_profile
@@ -326,11 +326,27 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
-1. Before exit the jboss-cli, execute the command reload to apply the changes;
+1. To enable uploading above 10 Mb, include in the subsystems file the following information:
 
-```sh
-[standalone@localhost:9990 /] :reload
-```
+    ```java
+    <subsystem xmlns="urn:jboss:domain:undertow:5.0">
+            <buffer-cache name="default"/>
+            <server name="default-server">
+                <http-listener name="default" socket-binding="http" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" redirect-socket="https" enable-http2="true"/>
+                <https-listener name="https" socket-binding="https" max-post-size="5000485760" max-header-size="65535" max-parameters="3000" security-realm="ApplicationRealm" enable-http2="true"/>
+
+            ...
+            </server>
+    ...
+    </subsystem>
+    ```
+
+2. Before leaving jboss-cli run the reload command to apply the changes.
+
+    ```sh
+    [standalone\@localhost:9990 /] :reload
+    ```
+
 
 ## Create citsmart.cfg file
 
@@ -350,12 +366,14 @@ START_MODE_RULES=FALSE
 LOAD_FACTSERVICEREQUESTRULES = TRUE
 ```
 
-!!! warning
-    Don't forget to change the owner of files and directories to the citsmart user
+!!! Abstract "ATTENTION"	
+    
+    Do not forget to change the owner of the files and directories to the CITSmart's user
 
 ## Create directories to installation
 
-!!! warning
+!!! Abstract "ATTENTION"
+
     Don't forget to change the owner of directory /opt/citsmart
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
@@ -413,13 +431,9 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
     **Remember to apply the permissions to the wildfly and java jdk owner**
 	
     ```sh
-    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R
+    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
-
-    ```sh
-    chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
-    ```
-
+    
 2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
 
@@ -440,7 +454,7 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 ## Starting solutions following dependecies
 
-You can create daemons as standard of your company or create solutions in the terminal.
+1. Before leaving jboss-cli run the reload command to apply the changes.
 
 **PostgreSQL Database Server**
 
@@ -472,7 +486,9 @@ You can create daemons as standard of your company or create solutions in the te
 
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
-    Example of URL: https://itsm.citsmart.com:8443/citsmart
+    ```sh
+    https://itsm.citsmart.com:8443/citsmart
+    ```
 
 2. The CITSmart context is standard to the CITSmart Enterprise.
 
@@ -491,6 +507,6 @@ cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

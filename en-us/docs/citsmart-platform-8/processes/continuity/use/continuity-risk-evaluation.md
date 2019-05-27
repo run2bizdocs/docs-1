@@ -1,6 +1,7 @@
 title: Register continuity risk evaluation
 Description: Allows to register the risk evaluation. 
-#Register continuity risk evaluation
+# Register continuity risk evaluation
+
 The Continuity Registration is a process that passes through several phases. The second phase of this process, called Requirements and Strategies, will be set the vital functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the risk evaluation.
 
 Before getting started
@@ -91,6 +92,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title: Implement the way of sending email to reclassified ticket
 Description: Implement the way of sending e-mails to reclassified ticket.
-#Implement the way of sending email to reclassified ticket
+# Implement the way of sending email to reclassified ticket
+
 This document allows to implement the way of sending e-mails to reclassified ticket, thus the reclassified tickets will have an own template of email to be sent to the requester. Therefore, the reclassification can be done in the portfolio and not only in the flow.
 In the portfolio is informed the reclassification e-mail template of an incident or request.
 
@@ -50,5 +51,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

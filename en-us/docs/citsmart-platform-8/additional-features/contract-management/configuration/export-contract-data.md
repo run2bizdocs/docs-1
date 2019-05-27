@@ -1,6 +1,7 @@
 title: Export contract data
 Description:Is intended to export the data to facilitate the initial load of data related to the contracts.
-#Export contract data
+# Export contract data
+
 This functionality is intended to export the data to facilitate the initial load of data related to the contracts.
 
 Procedure
@@ -20,6 +21,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Configure parametrization - email
 Description: Configure the sending e-mail reading, inform the company's default e-mail domain, among other actions.
-#Configure parametrization - email
+# Configure parametrization - email
 
 We can define e-mail as a method that allows us to compose, send and receive
 messages through electronic communication systems. The parametrization of
@@ -44,6 +44,6 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Anna Martins
 

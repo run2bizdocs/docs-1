@@ -1,6 +1,7 @@
 title:  Cadastrar uma liberação 
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir uma liberação.
-#Cadastrar uma liberação
+# Cadastrar uma liberação
+
 Segundo a ITIL, liberação é "Uma ou mais mudanças a um serviço de TI que são construídas, testadas e implantadas ao mesmo tempo. Uma única liberação pode incluir mudanças ao hardware, software, documentação, processos e outros componentes.".  
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir uma liberação.
 
@@ -48,5 +49,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

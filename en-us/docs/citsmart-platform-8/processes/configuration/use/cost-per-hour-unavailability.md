@@ -1,6 +1,7 @@
 title: Register cost per hour of unavailability
 Description: Is intended to establish the cost per hour of unavailability of a configuration item.
-#Register cost per hour of unavailability
+# Register cost per hour of unavailability
+
 This functionality is intended to establish the cost per hour of unavailability of a configuration item.
 
 Before getting started
@@ -29,6 +30,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

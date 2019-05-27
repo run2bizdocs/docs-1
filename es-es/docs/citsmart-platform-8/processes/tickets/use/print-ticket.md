@@ -1,6 +1,7 @@
 title:  Imprimir ticket 
 Description: Tiene como objetivo permitir imprimir el resumen de los datos principales del ticket deseado. 
-#Imprimir ticket
+# Imprimir ticket
+
 Esta funcionalidad tiene como objetivo permitir imprimir el resumen de los datos principales del ticket deseado.
 
 Antes de empezar
@@ -22,7 +23,7 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 
 

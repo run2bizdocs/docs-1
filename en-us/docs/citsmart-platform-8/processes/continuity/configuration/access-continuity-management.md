@@ -1,6 +1,6 @@
 title: Define access permission to continuity management
 Description: Intended to define who will have access to the continuity management functionalities, and which type of access is allowed (reading, saving and/or deleting).
-#Define access permission to continuity management
+# Define access permission to continuity management
 
 This functionality is intended to define who will have access to the continuity
 management functionalities, and which type of access is allowed (reading, saving
@@ -34,5 +34,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

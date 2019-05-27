@@ -1,6 +1,6 @@
 title: Registrar acción automatica
 Description: Proporciona acciones diversas, tales como, incluir, cambiar y eliminar acciones automáticas.
-#Registrar acción automatica
+# Registrar acción automatica
 
 
 Las acciones automaticas se asocian en el registro de gerentes de eventos. Estas
@@ -21,5 +21,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

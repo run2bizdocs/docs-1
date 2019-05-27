@@ -1,12 +1,12 @@
 title: Generar informes - gestión de conocimiento
 Description: Presenta la información referente a los conocimientos contenidos en la base de conocimiento.
-#Generar informes - gestión de conocimiento
-
-Generar informe de base de conocimiento
--------------------------------------------
+# Generar informes - gestión de conocimiento
 
 Este informe tiene el objetivo de presentar las informaciones referentes a los
 conocimientos contenidos en la base de conocimiento.
+
+Generar informe de base de conocimiento
+-------------------------------------------
 
 1.  Acceder al menú principal Informes \> Gestión de Conocimiento \> Base
     Conocimiento;
@@ -59,6 +59,6 @@ y/o cambios de conocimientos en la base de conocimiento.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins
 

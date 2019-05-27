@@ -1,6 +1,6 @@
 title: Registrar usuario
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un usuario.
-#Registrar usuario
+# Registrar usuario
 
 
 Para que el colaborador pueda acceder al sistema, es necesario crear un usuario
@@ -37,6 +37,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

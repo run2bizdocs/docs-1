@@ -1,6 +1,6 @@
 title: Generate reports through the charts and reports panel - changes
 Description: Generate many change reports
-#Generate reports through the charts and reports panel - changes
+# Generate reports through the charts and reports panel - changes
 
 The next topic will address how to create charts and reports for changes.
 
@@ -84,7 +84,7 @@ changes by its service level agreement.
 4.  Set the filters as needed and click on “Create”;
 
 5.  It’ll be presented the chart of changes by SLA, according to the
-    filters selected;
+    filters selected.
 
 Generate report of change by risk
 -------------------------------------------------
@@ -124,5 +124,5 @@ changes by service.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

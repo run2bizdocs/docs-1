@@ -1,6 +1,6 @@
 title: Mobile CITSmart Experience (Android) application manual
 Description: is intended to provide guidance for installing, configuring, and using the CITSmart Enterprise (Android mobile from Play Store) application.
-#Mobile CITSmart Experience (Android) application manual
+# Mobile CITSmart Experience (Android) application manual
 
 This document is intended to provide guidance for installing, configuring, and
 using the CITSmart Experience application.
@@ -488,7 +488,7 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/11/2019 - Anna Martins
 
 

@@ -1,6 +1,7 @@
 title:  Buscar elemento de configuración 
 Description: Se permite realizar consultas de IC de diversas formas en el campo de búsqueda.
-#Buscar elemento de configuración
+# Buscar elemento de configuración
+
 En la pantalla de Gestión de elementos de configuración, se permite realizar consultas de IC de diversas formas en el campo de búsqueda.
 
 !!! Abstract "NOTA"
@@ -73,5 +74,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

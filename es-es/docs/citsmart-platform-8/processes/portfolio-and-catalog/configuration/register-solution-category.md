@@ -1,6 +1,6 @@
 title: Registrar categoría de solución
 Description: Permite registrar y buscar las categorías de la solución de incidentes.
-#Registrar categoría de solución
+# Registrar categoría de solución
 
 Esta funcionalidad permite registrar y buscar las categorías de la solución de
 incidentes.
@@ -20,5 +20,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

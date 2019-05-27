@@ -1,6 +1,6 @@
 title: Data import management
 Description: Intended to import the data.
-#Data import management
+# Data import management
 
 This functionality is intended to import the data.
 
@@ -18,5 +18,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

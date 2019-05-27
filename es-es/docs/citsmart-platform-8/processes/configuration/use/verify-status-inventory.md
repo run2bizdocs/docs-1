@@ -1,6 +1,6 @@
 title: Comprobar estado de ejecución del inventario del EC
 Description: Permite ver el estado actual de la ejecución del inventario a través de la aplicación CITSmart Inventory.
-#Comprobar estado de ejecución del inventario del EC
+# Comprobar estado de ejecución del inventario del EC
 
 Essa funcionalidade permite visualizar o status atual da execução do inventário
 através da aplicação CITSmart Inventory.
@@ -30,5 +30,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Larissa Lourenço

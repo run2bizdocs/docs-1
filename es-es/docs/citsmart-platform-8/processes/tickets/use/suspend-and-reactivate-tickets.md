@@ -1,6 +1,7 @@
 title:  Suspender y reactivar múltiples tickets 
 Description: Permite la suspensión or reactivación de múltiples tickets al mismo tiempo. 
-#Suspender y reactivar múltiples tickets
+# Suspender y reactivar múltiples tickets
+
 La funcionalidad permite la suspensión or reactivación de múltiples tickets al mismo tiempo.
 
 Antes de empezar
@@ -28,11 +29,7 @@ Procedimiento
         y el complemento de ésta. Después de los datos informados, haga clic en
         el botón "Suspender" para efectuar la operación;
 
-    -   Para reactivar múltiples tickets, seleccione la opción "Reactivar
-        solicitud" para rellenar los campos necesarios, como: contrato,
-        solicitante y el grupo responsable de la atención de los tickets que
-        serán suspendidos, y después haga clic en el botón "Reactivar" para
-        efectuar la operación.
+    -   Para reactivar múltiples tickets, seleccione la opción **"Reactivar solicitud"** para rellenar los campos necesarios,                   como: contrato, solicitante y el grupo responsable de la atención de los tickets que serán suspendidos, y después haga clic en           el botón "Reactivar" para efectuar la operación.
 
 Relacionado
 -----------
@@ -47,11 +44,11 @@ Relacionado
 
 [Registrar justificatión de la solicitud](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -8,8 +8,7 @@ applications and information in a CITSmart instance.
 
 Figure 1 – CITSmart homepage Screen
 
--   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with       all the CITSmart functionalities, buttons with VoIP integration, the virtual assistant Anuva and information about
-    the user login, environment version and also their language change;
+-   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with all the CITSmart functionalities, buttons with VoIP integration, the virtual assistant Anuva and information about the user login, environment version and also their language change;
 
 -   **2 - Navigation in applications**: access to CITSmart's 13 certified processes,
     basic registration functionalities, creation and emission of reports, parameters,
@@ -17,7 +16,7 @@ Figure 1 – CITSmart homepage Screen
     of the platform management;
 
 -   **3 - User panel**: determines the layout of the user panel presentation (Smart
-    Decision) available on the CITSmart Platform home page. It allows to put
+    Decision) available on the CITSmart home page. It allows to put
     quick accesses such as links, reports and widgets.
 
 ## User Interface Tour
@@ -60,7 +59,7 @@ CITSmart offers.
 
 -   **2**: access to settings for maintaining flows;
 
--   **3**: it has all 13 Certified Processes of the CITSmart Platform;
+-   **3**: it has all 13 Certified Processes of the CITSmart;
 
 -   **4**: the integrated management has functionalities that help in the management
     of the processes;
@@ -79,7 +78,7 @@ CITSmart offers.
 
 -   **9**: configuration of the application and system parameters;
 
--   **10**: functionalities to manage the CISTmart Platform.;
+-   **10**: functionalities to manage the CISTmar;
 
 -   **11**: access to CITSmart Neuro (engine of applications).
 
@@ -110,6 +109,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Anna Martins
 

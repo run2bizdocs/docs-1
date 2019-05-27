@@ -1,6 +1,6 @@
 title: Business Object
 Description: Business object
-#Business Object
+# Business Object
 
 
 Business Object are the link between Neuro and a Data Entity of the
@@ -157,5 +157,5 @@ Figure 7 - SQL
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  

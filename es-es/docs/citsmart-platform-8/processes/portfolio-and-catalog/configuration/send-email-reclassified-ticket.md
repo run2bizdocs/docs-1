@@ -1,6 +1,6 @@
 title: Implementar forma de envío de e-mail a ticket reclasificado
 Description: Conocimiento permite implementar el modo de envío de e-mail a ticket reclasificado, así que los tickets reclasificados tendrán una plantilla de e-mail propio a ser enviado al solicitante.
-#Implementar forma de envío de e-mail a ticket reclasificado
+# Implementar forma de envío de e-mail a ticket reclasificado
 
 
 Este documento permite implementar el modo de envío de e-mail a ticket
@@ -58,5 +58,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

@@ -1,6 +1,7 @@
 title: Registrar categoría de amenaza
 Description: Tiene por objeto registrar las categorías de amenazas que se utilizarán durante los registros de las amenazas.
-#Registrar categoría de amenaza
+# Registrar categoría de amenaza
+
 Esta funcionalidad tiene por objeto registrar las categorías de amenazas que se utilizarán durante los registros de las amenazas.
 
 Procedimiento
@@ -18,5 +19,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

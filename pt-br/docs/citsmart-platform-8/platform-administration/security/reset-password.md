@@ -44,13 +44,13 @@ local e apertar “Gravar”.
 
 ## Relacionados
 
-[Criar Modelos de E-mail][1]
+[Configurar modelo de e-mail][1]
 
-[Configurar Conta de E-mail][2]
+[Configurar conta de e-mail][2]
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
 [1]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html

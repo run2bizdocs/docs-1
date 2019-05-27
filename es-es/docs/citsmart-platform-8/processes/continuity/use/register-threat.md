@@ -1,6 +1,7 @@
 title:  Registrar amenaza 
 Description: Tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad. 
-#Registrar amenaza
+# Registrar amenaza
+
 Esta funcionalidad tiene por objeto registrar las amenazas que se utilizarán durante el registro de Continuidad.
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar la amenaza.
 
@@ -30,5 +31,5 @@ Relacionados
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

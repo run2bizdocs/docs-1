@@ -1,6 +1,7 @@
 title: Crear un problema desde un evento
 Description: Tiene por objetivo crear un problema en un evento.
-#Crear un problema desde un evento
+# Crear un problema desde un evento
+
 Esta funcionalidad tiene por objetivo crear un problema en un evento.
 
 Antes de empezar
@@ -30,6 +31,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Registrar gerente genérico Nagios
 Description: Registrar y mantener los gerentes genéricos que serán responsables de monitorear los hosts y/o servicios de la herramienta de monitoreo Nagios.
-#Registrar gerente genérico Nagios
+# Registrar gerente genérico Nagios
 
 El objetivo de esta funcionalidad es registrar y mantener los gerentes genéricos
 que serán responsables de monitorear los hosts y/o servicios de la herramienta
@@ -48,5 +48,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

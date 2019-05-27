@@ -1,6 +1,6 @@
 title: Register domain item
 Description: Intended to customize the fields options of a certain system screen. To use it, you should have knowledge about the system codification.
-#Register domain item
+# Register domain item
 
 The Domain Items functionality is intended to customize the fields options of a
 certain system screen. To use it, you should have knowledge about the system
@@ -29,5 +29,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

@@ -1,6 +1,6 @@
 title: Internacionalización
 Description: Internacionalización
-#Internacionalización
+# Internacionalización
 
 Neuro utiliza labels (claves) para hacer la internacionalización de los formularios. Cada campo asignado en el formulario puede utilizar una label y estas labels se adjuntan a una clave de internacionalización, las claves se conectan a la aplicación Neuro.
 
@@ -12,7 +12,7 @@ Es necesario tener creado la Aplicación Neuro.
 Procedimiento
 ------------
 
-1.  Acceder al menú de navegación a)	Neuro > Configuración > Internacionalización;
+1.  Acceder al menú de navegación Neuro > Configuración > Internacionalización;
 
 2.  Hacer clic en “Registro";
 
@@ -40,5 +40,5 @@ Figura 2 - Datos del internacionalización
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

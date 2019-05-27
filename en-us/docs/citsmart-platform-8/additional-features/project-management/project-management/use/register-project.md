@@ -1,6 +1,6 @@
 title: Register project
 Description: This feature provides a variety of actions, such as including, changing, and deleting a project. 
-#Register project
+# Register project
 
 The project is a single process that consists of a coordinated task group and controlled with data to start and finish, build to reach an objective as the specific requirements, including limit of time, cost and resource.
 
@@ -76,6 +76,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Register escalation automatic action
 Description: Provides a variety of actions, such as including, changing, and deleting escalation automatic action.
-#Register escalation automatic action
+# Register escalation automatic action
 
 This functionality has the objective the action scheduling. It will be the
 complement to create an escalation rule.
@@ -28,5 +28,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

@@ -1,6 +1,6 @@
 title: Construir e manter relatórios Smart - V. 8.0
 Description: Tem o objetivo de prover a facilidade de elaboração de relatórios personalizados com os dados das funcionalidades requeridas, sem necessidade de novas atualizações ou softwares adicionais.
-#Construir e manter relatórios Smart - V. 8.0
+# Construir e manter relatórios Smart - V. 8.0
 
 Esta funcionalidade tem o objetivo de prover a facilidade de elaboração de
 relatórios personalizados com os dados das funcionalidades requeridas, sem
@@ -21,21 +21,21 @@ Procedimento
 
 3.  Preencher os campos necessários. Definir o tipo:
 
-       +  SQL: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
+       +  **SQ**: cria um Sub Relatório "SQL" (esse tipo permite criar relatórios que
           retornam as informações do Banco de dados através de uma Query). Ao
           selecionar esta opção, será necessário informar também o tipo de
           relatório a ser criado, a regra de negócio concernente ao mesmo, o
           designer do relatório, o parâmetro e o script;
 
-       +  RhinoScript: para criar um relatório que retorna as informações do Banco
+       +  **RhinoScript**: para criar um relatório que retorna as informações do Banco
           de dados através de um "Script" é necessário selecionar o tipo
           "RhinoScript". Será preciso eleger o tipo de relatório, definir os
           parâmetros e descrever o script;
 
-       +  JSP: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
+       +  **JSP**: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
           deverá informar os parâmetros e o script "JSP";
 
-       +  Neuro: cria um relatório do tipo "Neuro", basta vincular um formulário
+       +  **Neuro**: cria um relatório do tipo "Neuro", basta vincular um formulário
           "Neuro" previamente cadastrado.
 
     !!! Abstract "NOTA"
@@ -62,7 +62,7 @@ Procedimento
 5.  Clicar no botão "Gravar";
 
 6.  Existe a possibilidade também de importar um "Relatório". Para tanto, clicar
-    no botão "Importar" e vincular o arquivo contendo as informações desejadas;
+    no botão "Importar" e vincular o arquivo contendo as informações desejadas.
 
 
     !!! Abstract "ATENÇÃO"
@@ -79,5 +79,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

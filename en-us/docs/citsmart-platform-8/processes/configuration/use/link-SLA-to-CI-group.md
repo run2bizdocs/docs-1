@@ -1,6 +1,7 @@
 title: Link service level agreement to CI group
 Description: Is intended to link an SLA to the configuration item group.
-#Link service level agreement to CI group
+# Link service level agreement to CI group
+
 This functionality is intended to link an SLA to the configuration item group.
 
 Before getting started
@@ -31,5 +32,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

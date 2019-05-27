@@ -12,13 +12,13 @@ O painel inicial é exibido na tela principal do sistema. Neste painel é possí
 Relacionado
 -------
 
-[Customizar painel inicial][1]
+[Personalizar o painel gerencial (Smart Decision)][1]
 
-[Editar Informações da Conta][2]
+[Editar Informação da Conta][2]
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 – Renato Aragao
 
 [1]:/pt-br/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html

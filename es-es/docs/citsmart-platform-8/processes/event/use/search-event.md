@@ -1,6 +1,7 @@
 title: Buscar evento
 Description: tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
-#Buscar evento
+# Buscar evento
+
 Esta funcionalidad tiene como objetivo la localización de un evento dentro de la pantalla de Gestión de Eventos.
 
 Antes de empezar
@@ -33,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

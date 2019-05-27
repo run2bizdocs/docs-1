@@ -1,6 +1,6 @@
 title: Register formula
 Description: Intended to create a formula that will be used in the contract registration.
-#Register formula
+# Register formula
 
 This functionality is intended to create a formula that will be used in the
 contract registration. To create a formula, the user must understand the
@@ -27,5 +27,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

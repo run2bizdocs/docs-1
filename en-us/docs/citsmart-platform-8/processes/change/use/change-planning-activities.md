@@ -1,6 +1,6 @@
 title: Activities of the change planning phase
 Description: It allows to plan the activities to be executed with the change
-#Activities of the change planning phase 
+# Activities of the change planning phase 
 
 This functionality allows to planning the activities to be executed with the change.
 
@@ -46,10 +46,10 @@ Procedure
 Related 
 ------------
 
-[Register change](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Domain
 Description: Domain
-#Domain
+# Domain
 
 Neuro allows to define domains that will be used by all application of the
 institution. The identifier (Key) groups the Domain items.
@@ -35,5 +35,5 @@ Figure 2 - Register domain
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

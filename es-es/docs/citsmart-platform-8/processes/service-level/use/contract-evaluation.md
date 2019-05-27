@@ -1,6 +1,7 @@
 title: Evaluación del contrato
 Description: Ofrece la oportunidad de verificar y evaluar el desempeño de los contratos por servicio.
-#Evaluación del contrato
+# Evaluación del contrato
+
 CITSmart ofrece la oportunidad de verificar y evaluar el desempeño de los contratos por servicio.
 
 Antes de empezar
@@ -32,6 +33,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço
 

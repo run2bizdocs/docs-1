@@ -1,6 +1,6 @@
 title:  Suspender a liberação 
 Description: Permite suspender a execução da liberação. 
-#Suspender a liberação
+# Suspender a liberação
 
 Esta funcionalidade permite suspender a execução da liberação.
 
@@ -43,5 +43,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

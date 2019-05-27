@@ -105,7 +105,7 @@ Relacionado
 
 [Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
-[Registrar solicitud de liberación](/es-es/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Registrar liberación](/es-es/citsmart-platform-8/processes/release/use/register-release-request.html)
 
 [Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
@@ -113,5 +113,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

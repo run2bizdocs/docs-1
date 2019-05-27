@@ -1,6 +1,7 @@
 title:  Vincular atributos de demanda al EC 
 Description: Permite vincular un atributo de demanda al elemento de configuración. 
-#Vincular atributos de demanda al EC
+# Vincular atributos de demanda al EC
+
 Esta funcionalidad permite vincular un atributo de demanda al elemento de configuración.
 
 Antes de empezar
@@ -34,6 +35,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 – Larissa Lourenço
 

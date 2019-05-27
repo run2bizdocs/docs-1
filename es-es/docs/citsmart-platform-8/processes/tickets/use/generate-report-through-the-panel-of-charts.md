@@ -1,6 +1,6 @@
 title: Generar informes por panel de gráficos e informes - solicitud e incidente
 Description: Proporciona diferentes tipos de gráficos e informes referentes a la solicitud e incidente
-#Generar informes por panel de gráficos e informes - solicitud e incidente
+# Generar informes por panel de gráficos e informes - solicitud e incidente
 
 
 Se tratan los siguientes temas sobre cómo generar gráficos e informes para
@@ -182,6 +182,6 @@ servicios
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 

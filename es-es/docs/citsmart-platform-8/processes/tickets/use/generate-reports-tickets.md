@@ -1,6 +1,6 @@
 title: Generar informes - gestión de Incidentes y Solicitudes
 Description: Permite generar informes de varias maneras sobre la gerencia de petición e indent.
-#Generar informes - gestión de Incidentes y Solicitudes
+# Generar informes - gestión de Incidentes y Solicitudes
 
 Generar informe de causas y soluciones
 ------------------------------------------
@@ -266,5 +266,5 @@ que fueron solicitados a los servicios del catalogo del portafolio.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

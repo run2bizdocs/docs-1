@@ -2,7 +2,8 @@ title: Register service activity
 
 Description: Provides a variety of actions, such as including, changing, and deleting the activities of a service (request and/or incident).
 
-#Register service activity
+# Register service activity
+
 This feature provides a variety of actions, such as including, changing, and deleting the activities of a service (request and/or incident).
 
 Before getting started
@@ -54,6 +55,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title: Close event occurrence
 Description:Is intended to close the event occurrence.
-#Close event occurrence
+# Close event occurrence
+
 This functionality is intended to close the event occurrence.
 
 Before getting started
@@ -27,5 +28,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

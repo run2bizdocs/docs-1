@@ -1,6 +1,6 @@
 title: Registrar prioridad
 Description: Permite definir la prioridad que se utilizará para identificar la importancia del servicio e identificar los tiempos requeridos para que las acciones adecuadas sean tomadas.
-#Registrar prioridad
+# Registrar prioridad
 
 Esta funcionalidad permite definir la prioridad que se utilizará para
 identificar la importancia del servicio e identificar los tiempos requeridos
@@ -28,5 +28,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

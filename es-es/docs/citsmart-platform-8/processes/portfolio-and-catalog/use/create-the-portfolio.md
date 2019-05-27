@@ -1,6 +1,7 @@
 title:  Crear portafolio 
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un portafolio.
-#Crear portafolio
+# Crear portafolio
+
 La gestión de portafolio y catálogo de servicios considera servicios coactivos en términos de valor al negocio proporcionado por ellos, y esto garantiza la composición correcta de servicios para satisfacer los resultados esperados del negocio, en un nivel adecuado de inversión.
 Portafolio es un conjunto completo de servicios que serán entregados, agrupados por criterios como tamaño, disciplina o valor estratégico. Así, todos los servicios entregados por la empresa pueden y deben componer el Portafolio.
 La gestión del portafolio es estratégica, ya que administra los servicios durante todo su ciclo de vida, centrándose en el valor que entregan al área de negocio.
@@ -55,7 +56,7 @@ Acceder a la página inicial y comprobar el portafolio creado.
 Relacionado
 ---------------
 
-[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/portfolio-management.html)
+[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
 [Registrar encuesta de satisfacción](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
@@ -65,6 +66,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

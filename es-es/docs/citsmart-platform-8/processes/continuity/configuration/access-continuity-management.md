@@ -1,6 +1,6 @@
 title: Definir permiso de acceso para la gestión de continuidad
 Description: Definir quién tendrá acceso a las funcionalidades de la gestión de continuidad y qué tipo de acceso está permitido (leer, guardar y/o borrar).
-#Definir permiso de acceso para la gestión de continuidad
+# Definir permiso de acceso para la gestión de continuidad
 
 
 Esta funcionalidad tiene por objetivo definir quién tendrá acceso a las
@@ -35,5 +35,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

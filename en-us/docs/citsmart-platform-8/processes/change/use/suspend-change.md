@@ -1,6 +1,6 @@
 title: Suspend change
 Description: It allows to suspend a change
-#Suspend change
+# Suspend change
 
 This functionality allows to suspend a change.
 
@@ -25,11 +25,11 @@ Procedure
 Related
 -----------
 
-[Configure change](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Configure change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
 
 [Register change justification](/en-us/citsmart-platform-8/processes/change/configuration/change-justification.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

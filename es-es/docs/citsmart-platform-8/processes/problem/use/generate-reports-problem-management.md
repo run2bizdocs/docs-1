@@ -1,6 +1,6 @@
 title: Generar informes - gestión de problemas
 Description: Presentan los informes de gestión de problemas
-#Generar informes - gestión de problemas
+# Generar informes - gestión de problemas
 
 
 En los siguientes temas, se presentan los informes de gestión de problemas:
@@ -55,5 +55,5 @@ problemas que se han registrado, por servicio.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

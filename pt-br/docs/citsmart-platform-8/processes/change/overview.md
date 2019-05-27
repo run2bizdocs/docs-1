@@ -52,6 +52,8 @@ Uso
 
 -  [Suspender uma mudança](/pt-br/citsmart-platform-8/processes/change/use/suspend-change.html)
 
+-  [Cadastrar as ocorrências da Mudança](/pt-br/citsmart-platform-8/processes/change/use/change-occurrences.html)
+
 Configuração
 ----------------
 
@@ -74,6 +76,6 @@ Relatório
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

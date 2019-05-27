@@ -1,6 +1,7 @@
 title:  Registrar origen del ticket 
 Description: Tiene el objetivo de registrar diversos tipos de equipos o áreas que pueden crear un ticket. 
-#Registrar origen del ticket
+# Registrar origen del ticket
+
 Esta funcionalidad tiene el objetivo de registrar diversos tipos de equipos o áreas que pueden crear un ticket.
 
 Procedimiento
@@ -17,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -1,6 +1,7 @@
 title:  Cadastrar ocurrencias del ticket 
 Description: Permite registrar eventuales hechos refente a la ejecución del ticket.
-#Cadastrar ocurrencias del ticket
+# Cadastrar ocurrencias del ticket
+
 La funcionalidad permite registrar eventuales hechos refente a la ejecución del ticket.
 
 Antes de empezar
@@ -67,12 +68,12 @@ Relacionado
 
 [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

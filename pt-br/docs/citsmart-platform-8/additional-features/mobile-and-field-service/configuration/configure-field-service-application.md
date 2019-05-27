@@ -19,7 +19,7 @@ Antes de começar
 Procedimento
 ------------
 
-*Webservice*
+***Webservice***
 
 1. Acessar a funcionalidade através do menu principal Sistema \> Webservice \>
     Operação Webservice;
@@ -52,7 +52,7 @@ Procedimento
 
 3.  Clicar no botão "Gravar" após configurar os grupos em cada webservice.
 
-*Unidade*
+***Unidade***
 
 1.  Acessar a funcionalidade através do menu principal Cadastros Gerais \>
     Gerência de Pessoal \> Unidade;
@@ -77,5 +77,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

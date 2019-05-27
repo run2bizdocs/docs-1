@@ -66,7 +66,7 @@ Relacionado
 
 [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 [Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
 
@@ -77,5 +77,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

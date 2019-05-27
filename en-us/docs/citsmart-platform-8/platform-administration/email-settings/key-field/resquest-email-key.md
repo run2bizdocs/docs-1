@@ -1,6 +1,7 @@
 title: Request e-mail key fields
 Description:Is intended to provide the list of key fields available for the Service Request e-mail template registration.
-#Request e-mail key fields
+# Request e-mail key fields
+
 This document is intended to provide the list of key fields available for the Service Request e-mail template registration.
 
 List of key fields
@@ -52,6 +53,6 @@ Table 1 - List os key fields
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

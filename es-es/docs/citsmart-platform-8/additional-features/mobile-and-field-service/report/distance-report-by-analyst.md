@@ -1,6 +1,6 @@
 title: Informe de distancia recorrida por analista
 Description: Mostrar las configuraciones para visualizar el informe que demuestra el kilometraje (Kilómetros) recorrido por el analista de atención que está utilizando el app CITSmart Experience.
-#Informe de distancia recorrida por analista
+# Informe de distancia recorrida por analista
 
 Este documento tiene por objeto mostrar la configuración para visualizar el informe que
 demuestra el kilometraje (Kilómetros) recorrido por el analista de atención
@@ -53,8 +53,8 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>1/30/2019 – Anna Martins
     
     
-  [1]:/pt-br/citsmart-platform-8/additional-features-mobile-and-fiel-service/report/images/km-por-analista.citreport
+  [1]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport

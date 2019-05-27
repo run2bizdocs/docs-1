@@ -1,6 +1,6 @@
 title: Verificar acitividades periódicas programadas
 Description: Verificar las actividades programadas referentes a la gestión de solicitudes e incidentes, gestión de problemas, gestión de cambios y gestión de liberación para la ejecución.
-#Verificar acitividades periódicas programadas
+# Verificar acitividades periódicas programadas
 
 
 Esta funcionalidad tiene por objetivo verificar las actividades programadas
@@ -37,5 +37,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

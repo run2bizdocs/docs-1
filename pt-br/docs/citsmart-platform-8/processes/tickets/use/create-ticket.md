@@ -8,8 +8,8 @@ Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade 
 Antes de começar
 ----------------
 
-Alguns itens no cadastro de um ticket dependem de informações cadastradas na
-CITSmart Platform, por exemplo um colaborador, um grupo, um contrato, uma unidade,
+Alguns itens no cadastro de um ticket dependem de informações cadastradas no
+CITSmart, por exemplo um colaborador, um grupo, um contrato, uma unidade,
 tempo de atendimento, um portfólio com atividades e serviços, além de vínculos
 entre alguns e parâmetros configurados. Configurar os parâmetros 9, 40, 41, 260
 e 343.
@@ -66,6 +66,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

@@ -42,10 +42,10 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
 

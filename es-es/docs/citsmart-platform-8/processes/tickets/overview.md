@@ -76,14 +76,14 @@ Uso
 
 - [Registrar origen del ticket](/es-es/citsmart-platform-8/processes/tickets/use/register-ticket-source.html)
 
-- [Crear modelo de plantilla e incidente, solicitud y procedimiento](/es-es/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
-
 - [Verificar mis tickets](/es-es/citsmart-platform-8/processes/tickets/use/verify-my-tickets.html)
 
 Configuración
 -----------------
 
-- [Aprobar solicitud por correo eletronico](/es-es/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
+- [Configurar la aprobación de solicitud por correo electrónic](/es-es/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
+
+- [Crear modelo de plantilla e incidente, solicitud y procedimiento](/es-es/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
 
 - [Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
@@ -99,9 +99,13 @@ Configuración
 
 - [Registrar categoría de solución](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Manutención del flujo de trabajo](/es-es/citsmart-platform-8/platform-administration/flow-maintenance/workflow-maintenance.html)
-
 - [Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+
+- [Cómo crear y, a continuación, cerrar un ticket](/es-es/citsmart-platform-8/processes/tickets/configuration/create-then-close-ticket.html)
+
+- [Crear ticket automático desde el recebimiento del correo electrónico](/es-es/citsmart-platform-8/processes/tickets/configuration/create-ticket-receiving-email.html)
+
+- [Notificar por correo electrónico de ticket delegado](/es-es/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html)
 
 Informe
 ----------
@@ -114,5 +118,5 @@ Informe
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Registrar categoría de ocurrencia
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar la categoría de ocurrencia.
-#Registrar categoría de ocurrencia
+# Registrar categoría de ocurrencia
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
@@ -28,5 +28,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

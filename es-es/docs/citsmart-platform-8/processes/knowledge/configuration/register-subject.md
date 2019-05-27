@@ -1,6 +1,6 @@
 title: Registrar tema
 Description: Registrar el tema de un conocimiento que será utilizado en la búsqueda de Informes de Temas o Temas disponibles o no en la base de conocimiento.
-#Registrar tema
+# Registrar tema
 
 
 Esta funcionalidad tiene por objetivo registrar el tema de un conocimiento que
@@ -30,5 +30,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

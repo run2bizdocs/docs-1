@@ -1,6 +1,6 @@
 title: Generate reports - knowledge management
 Description: Presents the reports in knowledge management.
-#Generate reports - knowledge management
+# Generate reports - knowledge management
 
 
 This document aims to present several types of reports related to the knowledge contained in the knowledge base.
@@ -59,6 +59,6 @@ of knowledge in the knowledge base.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins
 

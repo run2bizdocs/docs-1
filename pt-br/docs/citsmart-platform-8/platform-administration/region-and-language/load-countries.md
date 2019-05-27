@@ -1,6 +1,6 @@
 title:  Carregar países 
 Description: O objetivo é realizar a carga de países nas telas de Fornecedor e Unidade. 
-#Carregar países
+# Carregar países
 O objetivo é realizar a carga de países nas telas de Fornecedor e Unidade.
 
 Procedimento
@@ -17,6 +17,6 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 - Larissa Lourenço
 

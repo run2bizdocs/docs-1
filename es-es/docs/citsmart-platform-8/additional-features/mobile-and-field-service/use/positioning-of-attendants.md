@@ -1,6 +1,6 @@
 title: Verificar el posicionamiento de los asistentes
 Description: Verificar el posicionamiento de los técnicos
-#Verificar el posicionamiento de los asistentes
+# Verificar el posicionamiento de los asistentes
 
 
 Esta funcionalidad tiene por objetivo verificar el posicionamiento de los
@@ -37,6 +37,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

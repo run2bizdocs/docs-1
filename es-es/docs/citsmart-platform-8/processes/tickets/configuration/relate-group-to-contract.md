@@ -1,6 +1,6 @@
 title: ¿Cómo relacionar el grupo al contrato?
 Description: Demuestra cómo relacionar un grupo a un contrato.
-#¿Cómo relacionar el grupo al contrato?
+# ¿Cómo relacionar el grupo al contrato?
 
 
 Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
@@ -48,5 +48,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

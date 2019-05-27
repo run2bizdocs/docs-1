@@ -1,6 +1,6 @@
 title: Load Metadata
 Description: Intended to register the table information of database.
-#Load Metadata
+# Load Metadata
 
 This functionality is intended to register the table information of database.
 
@@ -15,5 +15,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>1/10/2019 - Anna Martins
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>01/10/2019 - Anna Martins

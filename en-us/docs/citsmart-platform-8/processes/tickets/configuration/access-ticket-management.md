@@ -19,7 +19,7 @@ Procedure
 1.  Access the functionality through the main menu Access and Permission \>
     Incident/Request Management;
 
-2.  Choose the profile access:
+2.  Choose the profile access;
 
 3.  Click on "Edit";
 
@@ -36,5 +36,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins

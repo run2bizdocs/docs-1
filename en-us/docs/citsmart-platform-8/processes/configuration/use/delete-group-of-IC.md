@@ -1,6 +1,7 @@
 title: Delete group of configuration item
 Description: Only can be deleted the group that does not have item related
-#Delete group of configuration item
+# Delete group of configuration item
+
 Only can be deleted the group that does not have item related (groups and/or configuration item).
 
 Before getting started
@@ -27,5 +28,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

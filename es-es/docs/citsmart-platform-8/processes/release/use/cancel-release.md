@@ -1,6 +1,7 @@
 title:  Cancelar el registro de liberación 
 Description: Permite cancelar la liberación.
-#Cancelar el registro de liberación
+# Cancelar el registro de liberación
+
 Esta funcionalidad permite cancelar la liberación.
 
 Antes de empezar
@@ -32,6 +33,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço
 

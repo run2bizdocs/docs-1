@@ -1,6 +1,6 @@
 title:  Campos clave de los correos electrónicos del problema 
 Description: Tiene el objetivo de proporcionar la relación de los campos clave 
-#Campos clave de los correos electrónicos del problema
+# Campos clave de los correos electrónicos del problema
 
 Este documento tiene el objetivo de proporcionar la relación de los campos clave, disponibles para el registro de modelo de correo electrónico relacionado a problemas.
 
@@ -45,6 +45,6 @@ Tabla 1 - Significado de los campos clave
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço
 

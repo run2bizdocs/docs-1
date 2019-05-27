@@ -1,6 +1,6 @@
 title: Registrar gerente genérico Zabbix
 Description: Registrar y mantener a los gerentes genéricos que serán responsables de monitorear los hosts y/o triggers de la herramienta de monitoreo Zabbix.
-#Registrar gerente genérico Zabbix
+# Registrar gerente genérico Zabbix
 
 
 El objetivo de esta funcionalidad es registrar y mantener a los gerentes
@@ -62,5 +62,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

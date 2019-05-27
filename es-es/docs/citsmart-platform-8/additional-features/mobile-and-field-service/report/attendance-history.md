@@ -1,6 +1,6 @@
 title: Verificar historial de atención
 Description: Verificar el historial de atención de las solicitudes de servicios realizado por los técnicos de campo.
-#Verificar historial de atención
+# Verificar historial de atención
 
 Esta funcionalidad tiene por objetivo verificar el historial de atención de las
 solicitudes de servicios realizado por los técnicos de campo.
@@ -34,5 +34,5 @@ Procedimiento
 
 !!! tip "About"  
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Utilizar aplicaciones Neuro en el Centro de Experiencia
 Description: Utilizar aplicaciones Neuro en el Centro de Experiencia
-#Utilizar aplicaciones Neuro en el Centro de Experiencia
+# Utilizar aplicaciones Neuro en el Centro de Experiencia
 
 Centro de Experiencia
 
@@ -39,5 +39,5 @@ Figura 5 - Centro de Experiencia (continuación)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

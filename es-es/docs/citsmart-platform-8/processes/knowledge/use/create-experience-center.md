@@ -1,6 +1,7 @@
 title:  Crear centro de experiencia 
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el Centro de Experiencia personalizado.
-#Crear centro de experiencia
+# Crear centro de experiencia
+
 El objetivo del Centro de Experiencia - CE, es crear un portal personalizable para el usuario. Al producir este portal, es posible personalizar el diseño y las preferencias de acceso más adecuadas al cliente (según lo definido por las reglas de la empresa), incluyendo disponibilizando la inclusión de vídeos de Youtube y la generación de Slideshows, dentro de otras aplicabilidad, experiencia del usuario más interactiva e intuitiva.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el Centro de Experiencia personalizado.
 
@@ -74,8 +75,6 @@ Procedimiento
 6.  Hacer clic en "Guardar".    
 
 
-
-
 ### Widgets Disponibles
 
 
@@ -123,6 +122,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

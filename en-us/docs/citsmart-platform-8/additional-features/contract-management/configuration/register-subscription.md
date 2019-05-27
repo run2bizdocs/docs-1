@@ -1,6 +1,7 @@
 title: Register subscription
 Description: This feature provides a variety of actions, such as including, changing, and deleting the signature.
-#Register subscription
+# Register subscription
+
 This functionality is intended to register subscription fields to be associated with a subscription group, in order to customize the subscriptions present in the Work Orders report. These Work Order reports are used to register, prove, and charge for services rendered to the client.
 This feature provides a variety of actions, such as including, changing, and deleting the signature.
 
@@ -29,5 +30,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

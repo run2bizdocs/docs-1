@@ -1,6 +1,6 @@
 title: Registrar plantilla de cambio
 Description: Tiene por objetivo registrar una plantilla para facilitar la apertura de nuevo cambio
-#Registrar plantilla de cambio
+# Registrar plantilla de cambio
 
 Esta funcionalidad tiene por objetivo registrar una plantilla para facilitar la apertura de nuevos cambios semejantes entre sí.
 
@@ -14,7 +14,7 @@ Procedimiento
     urgencia, impacto, prioridad y seleccionar el elemento de configuración y conocimiento
     para vincular la plantilla). Recordar que existen diferentes tipos de cambio:
 
-    -   **Cambio estándar**: es un cambio que es previamente pre-aprobado por la Gestión de Cambio y ya tiene procedimientos aceptados y        establecidos;
+    -   **Cambio estándar**: es un cambio que es previamente pre-aprobado por la Gestión de Cambio y ya tiene procedimientos aceptados y establecidos;
 
     -   **Cambio normal**: es un cambio que sigue un flujo normal de evaluación, aprobación y autorización;
 
@@ -24,5 +24,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

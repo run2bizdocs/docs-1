@@ -1,7 +1,8 @@
 title: Search knowledge through the user guide
 
 Description:It's possible to any user to register a new knowledge, making the portal dynamic and updated.
-#Search knowledge through the user guide
+# Search knowledge through the user guide
+
 The User Guide is a place where it's available the relevant information to guide the users (clients, analysts, managers, etc) in the usage of a given functionality of a CITSmart product. The search resources available make easier, quicker and faster the access to the knowledge. The search can also be done by the use of filters, such as type, title and others. Besides that, it's possible to any user to register a new knowledge, making the portal dynamic and updated.
 
 Before getting started
@@ -28,6 +29,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 

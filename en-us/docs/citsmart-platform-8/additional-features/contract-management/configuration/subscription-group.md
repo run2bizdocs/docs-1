@@ -1,6 +1,7 @@
 title: Register subscription group
 Description: Allows to register groups of subscriptions that will be printed in reports.
-#Register subscription group
+# Register subscription group
+
 This functionality allows to register groups of subscriptions that will be printed in reports.
 
 Before getting started
@@ -28,5 +29,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

@@ -13,7 +13,7 @@ Procedure
 -----------
 1. Access the main menu Analytics;
 
-2. Access one of the options available;
+2. Access one of the options available.
 
 
 !!! Abstract "NOTE"
@@ -25,5 +25,5 @@ Procedure
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

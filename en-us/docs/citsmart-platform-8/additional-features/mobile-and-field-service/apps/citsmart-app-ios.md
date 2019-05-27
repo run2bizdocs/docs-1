@@ -1,6 +1,6 @@
 title: Mobile CITSmart Experience (iOS) application manual
 Description: Intended to provide guidance for installing, configuring, and using the CITSmart ITSM Enterprise mobile application (iOS plataform).
-#Mobile CITSmart Experience (iOS) application manual
+# Mobile CITSmart Experience (iOS) application manual
 
 This document is intended to provide guidance for installing, configuring, and
 using the CITSmart ITSM Experience mobile application (iOS plataform).
@@ -357,5 +357,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/11/2019 - Anna Martins

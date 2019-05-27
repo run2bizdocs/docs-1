@@ -1,6 +1,7 @@
 title: Importar datos de atributo de la demanda
 Description: Tiene el objetivo de importar los datos de atributo de la demanda.
-#Importar datos de atributo de la demanda
+# Importar datos de atributo de la demanda
+
 Esta funcionalidad tiene el objetivo de importar los datos de atributo de la demanda.
 
 Procedimiento
@@ -23,6 +24,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

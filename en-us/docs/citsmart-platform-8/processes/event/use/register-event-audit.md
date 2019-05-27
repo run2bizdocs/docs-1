@@ -1,6 +1,7 @@
 title: Register event audit
 Description: Is intended to maintain a database history of all event changes to make a manual audit.
-#Register event audit
+# Register event audit
+
 This feature is intended to maintain a database history of all event changes to make a manual audit.
 
 Procedure
@@ -19,5 +20,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

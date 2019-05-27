@@ -1,6 +1,7 @@
 title: Personalizar Labels
 Description: Tiene por objetivo cambiar los nombres de labels dentro del ITSM
-#Personalizar Labels
+# Personalizar Labels
+
 Esta funcionalidad tiene por objetivo cambiar los nombres de labels dentro del ITSM, permitiendo así, una mayor personalización. Es necesario que el usuario tenga conocimiento sobre programación.
 
 Procedimiento
@@ -21,6 +22,6 @@ cambio de label para la verificación.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

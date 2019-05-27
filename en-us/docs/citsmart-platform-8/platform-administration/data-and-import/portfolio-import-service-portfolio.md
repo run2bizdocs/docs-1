@@ -1,6 +1,6 @@
 title: Import the service portfolio
 Description: The purpose is to import the service portfolio.
-#Import the service portfolio
+# Import the service portfolio
 
 The purpose of this functionality is to import the service portfolio. The import
 data can be viewed in the Service Portfolio.
@@ -31,5 +31,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - Anna Martins

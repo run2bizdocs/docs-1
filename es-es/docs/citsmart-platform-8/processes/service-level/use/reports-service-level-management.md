@@ -1,6 +1,6 @@
 title: Generar informes - gestión de nivel de servicio
 Description: Genera informes de diversos tipos en la gerencia de Nivel de servicio
-#Generar informes - gestión de nivel de servicio
+# Generar informes - gestión de nivel de servicio
 
 
 Generar informe de control de SLA
@@ -37,5 +37,5 @@ plazo.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

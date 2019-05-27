@@ -2,7 +2,8 @@ title: Analyze configuration item impact
 
 Description: Allows to make an impact analysis of a configuration item.
 
-#Analyze configuration item impact
+# Analyze configuration item impact
+
 This functionality allows to make an impact analysis of a configuration item.
 
 Before getting started
@@ -37,6 +38,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

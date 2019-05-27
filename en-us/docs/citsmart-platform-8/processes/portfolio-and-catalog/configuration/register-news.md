@@ -1,6 +1,7 @@
 title: Register news
 Description: Register news in the system. 
-#Register news
+# Register news
+
 This feature provides various actions, such as including, changing and deleting the news that will be published in the Smart Portal.
 
 Before getting started
@@ -30,5 +31,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

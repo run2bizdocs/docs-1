@@ -1,6 +1,7 @@
 title:  Registrar plan de continuidad
 Description: Permite registar el Plan de Continuidad.
-#Registrar plan de continuidad
+# Registrar plan de continuidad
+
 El Registro de Continuidad es un proceso que pasa por diversas fases. La tercera fase de este proceso, Implementación, es donde se definirá el Plan de Continuidad, Planificación y la Estrategia de Pruebas. Esta funcionalidad permite registar el Plan de Continuidad.
 
 Antes de empezar
@@ -89,5 +90,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

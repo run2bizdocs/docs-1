@@ -1,6 +1,7 @@
 title: Register work order (WO) formula
 Description:Is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
-#Register work order (WO) formula
+# Register work order (WO) formula
+
 This functionality is intended to register the client formulas to configure "how" will be the calculation of the total cost value of the contract service activity.
 
 Procedure
@@ -36,5 +37,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

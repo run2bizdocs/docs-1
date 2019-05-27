@@ -1,6 +1,6 @@
 title: Registrar grupo de activiad periódica
 Description: Registrar los grupos de actividades periódica, que son responsables de ejecutar las actividades periódicas.
-#Registrar grupo de activiad periódica
+# Registrar grupo de activiad periódica
 
 
 Esta funcionalidad tiene el objetivo de registrar los grupos de actividades
@@ -21,5 +21,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Configure parametrization - VoIP
 Description: Allow setting the password for communication with the server, informing the standard communication extension for VoIP connection, among other feasible actions in order to configure the use of VoIP in CITSmart.
-#Configure parametrization - VoIP
+# Configure parametrization - VoIP
 
 VoIP (Voice over Internet Protocol) is human conversation routing using the
 Internet or any other Internet protocol-based computer network, making voice
@@ -36,5 +36,5 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

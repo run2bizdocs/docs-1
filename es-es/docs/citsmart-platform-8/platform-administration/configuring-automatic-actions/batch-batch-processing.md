@@ -1,6 +1,6 @@
 title: Procesamiento Batch
 Description: Tiene el objetivo de registrar el procesamiento batch, que podrá ser utilizado en otras rutinas del sistema.
-#Procesamiento Batch
+# Procesamiento Batch
 
 Esta funcionalidad tiene el objetivo de registrar el procesamiento batch, que podrá ser utilizado en otras rutinas del sistema.
 
@@ -37,7 +37,7 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 

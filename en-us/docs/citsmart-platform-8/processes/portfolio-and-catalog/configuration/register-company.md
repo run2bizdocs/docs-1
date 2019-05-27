@@ -1,7 +1,7 @@
 title: Register company
 Description: Provides a variety of actions, such as including, changing, and deleting the company's information.
 
-#Register company
+# Register company
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the company's information.
@@ -20,6 +20,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins
 

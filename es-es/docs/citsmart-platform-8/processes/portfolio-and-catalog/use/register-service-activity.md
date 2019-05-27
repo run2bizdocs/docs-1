@@ -1,6 +1,7 @@
 title:  Registrar actividad de servicio 
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar las actividades de un servicio (solicitud e/o incidente).
-#Registrar actividad de servicio
+# Registrar actividad de servicio
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las actividades de un servicio (solicitud e/o incidente).
 
 Antes de empezar
@@ -56,5 +57,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

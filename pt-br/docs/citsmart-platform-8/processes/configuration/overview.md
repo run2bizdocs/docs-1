@@ -24,6 +24,10 @@ Configuração
 
 - [Cadastrar lista negra de software](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
 
+- [Criar item de configuração filho](/pt-br/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+
+- [Criar conexão com o servidor de acesso remoto](/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
+
 - [Configurar parametrização - configuração](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
 
@@ -41,8 +45,6 @@ Uso
 - [Vincular calendário ao grupo de item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
 - [Vincular acordo de nível de serviço ao grupo de IC](/pt-br/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
-
-- [Criar item de configuração filho](/pt-br/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Executar script referente ao item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
@@ -74,7 +76,7 @@ Relatóro
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins
 
 

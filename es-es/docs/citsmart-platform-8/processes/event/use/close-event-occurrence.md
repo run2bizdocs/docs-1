@@ -1,6 +1,6 @@
 title:  Cerrar ocurrencia de evento
 Description: Tiene por objeto cerrar la ocurrencia de un evento.
-#Cerrar ocurrencia de evento
+# Cerrar ocurrencia de evento
 Esta funcionalidad tiene por objeto cerrar la ocurrencia de un evento.
 
 Antes de empezar
@@ -26,6 +26,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title: Verify scheduled periodic activities
 Description:Allows to view the activities scheduled.
-#Verify scheduled periodic activities
+# Verify scheduled periodic activities
+
 This functionality is intended to verify the scheduled activities related to request and incident management, problem management, change management and release management to execute them.
 In this screen, in a calendar format, allows to view the activities scheduled.
 
@@ -28,5 +29,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

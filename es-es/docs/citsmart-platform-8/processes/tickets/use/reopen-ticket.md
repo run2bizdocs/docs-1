@@ -1,6 +1,7 @@
 title:  Reabrir ticket 
 Description: Permite reabrir el ticket finalizado.
-#Reabrir ticket
+# Reabrir ticket
+
 La funcionalidad permite reabrir el ticket finalizado.
 
 Antes de empezar
@@ -33,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

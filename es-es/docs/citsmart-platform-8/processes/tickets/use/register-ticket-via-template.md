@@ -1,6 +1,7 @@
 title: Registrar ticket via plantilla
 Description: Permite el registro del ticket via plantilla.
-#Registrar ticket via plantilla
+# Registrar ticket via plantilla
+
 Esta funcionalidad permite el registro del ticket via plantilla.
 
 Antes de empezar
@@ -55,11 +56,11 @@ Relacionado
 
 [Cómo relacionar la unidad al contrato](/es-es/citsmart-platform-8/processes/tickets/configuration/relate-unit-to-contract.html)
 
-[Cómo relacionar el grupo al contrato](/pt-br/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
+[Cómo relacionar el grupo al contrato](/es-es/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

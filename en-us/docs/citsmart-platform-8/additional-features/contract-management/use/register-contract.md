@@ -1,6 +1,7 @@
 title: Register a contract
 Description: This feature provides a variety of actions, such as including, changing, and deleting a contract. 
-#Register a contract
+# Register a contract
+
 The contract is an agreement between two parties, which undertake to comply with what was agreed between them, under certain conditions. The contract may be of type contract (contract between the provider of type service provider and external customer), operational level agreement(internal agreement between departments of the same organization, internal provider with internal client) or underpinning contract (contract between external provider and internal client).
 This feature provides a variety of actions, such as including, changing, and deleting a contract.
 
@@ -49,10 +50,8 @@ Related
 
 [Register currency](/en-us/citsmart-platform-8/additional-features/contract-management/configuration/register-currency.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
-
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Configurar rutas diarias
 Description: Configurar la agenda diaria de los técnicos de campo.
-#Configurar rutas diarias
+# Configurar rutas diarias
 
 Esta funcionalidad tiene por objetivo configurar la agenda diaria de los
 técnicos de campo. Después de la configuración, el técnico tendrá una lista de
@@ -11,7 +11,7 @@ informados, es decir, de acuerdo con su necesidad, a fin de dirigir las
 solicitudes abiertas para ser atendidas por el técnico de campo.
 
 Antes de empezar
---------------------
+-----------------
 
 Antes de configurar la agenda diaria de los técnicos de campo, es necesario
 configurar la conexión del sistema con las API del Google.
@@ -51,5 +51,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

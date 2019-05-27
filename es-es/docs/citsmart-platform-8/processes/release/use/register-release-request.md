@@ -1,6 +1,7 @@
 title:  Registrar liberación 
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar una liberación.
-#Registrar liberación
+# Registrar liberación
+
 Según ITIL, la liberación es "uno o más cambios en un servicio de TI que se construyen, prueban e implementan de forma conjunta. Una sola liberación puede incluir cambios en el hardware, software, documentación, procesos y otros componentes".
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una liberación.
 
@@ -49,5 +50,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

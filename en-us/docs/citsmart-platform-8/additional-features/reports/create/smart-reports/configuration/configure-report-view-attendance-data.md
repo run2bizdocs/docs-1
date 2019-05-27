@@ -1,6 +1,6 @@
 title: Configure report to view attendance data
 Description: Intended to demonstrate how to configure Smart Reports to use in the management of service (Ticket management).
-#Configure report to view attendance data
+# Configure report to view attendance data
 
 This document is intended to demonstrate how to configure Smart Reports to use
 in the management of service (Ticket management).
@@ -87,7 +87,7 @@ sum of the times executed by each technician.*
     technician";
 
 3.  It'll present a list of the following data: Technician, ticket and time
-    spent.
+    spent;
 
 4.  It's also available to view these Reports in the dashboard, if you configure
     them when you customize the same Smart Decisions.
@@ -113,7 +113,7 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 
 [1]:/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/images/time-technician.citreport

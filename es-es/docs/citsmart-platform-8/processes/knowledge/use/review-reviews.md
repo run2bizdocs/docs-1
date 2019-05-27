@@ -1,6 +1,7 @@
 title:  Revisar comentarios del Portal del Conocimiento
 Description: Permite la edición de comentarios publicados en el Portal del Conocimiento antes de que sea publicado. 
-#Revisar comentarios del Portal del Conocimiento
+# Revisar comentarios del Portal del Conocimiento
+
 Este documento permite la edición de comentarios publicados en el Portal del Conocimiento antes de que sea publicado.
 
 Antes de empezar
@@ -35,6 +36,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Larissa Lourenço
 

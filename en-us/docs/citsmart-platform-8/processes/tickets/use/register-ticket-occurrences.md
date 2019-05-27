@@ -10,7 +10,7 @@ Before getting started
 
 To register occurences of a ticket, it's necessary to previously register a
 ticket and have permission to execute it. It's necessary to first enable
-parameter 298 (set to "S").
+parameter 298 (set to "Y").
 
 IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
 occurrence and the notification e-mail template ID in parameter 251.
@@ -65,13 +65,13 @@ Related
 
 [Create ticket](/en-us/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 
 

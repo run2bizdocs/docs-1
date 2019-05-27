@@ -1,6 +1,7 @@
 title: Registrar categoría de cuestionario
 Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las categorías de cuestionarios. 
-#Registrar categoría de cuestionario
+# Registrar categoría de cuestionario
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las categorías de cuestionarios, que se van a utilizar para el filtrado y la organización registrados en la base.
 
 Procedimiento
@@ -17,6 +18,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

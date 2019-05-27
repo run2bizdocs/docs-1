@@ -1,6 +1,7 @@
 title: Presentar y buscar por tags en el portal del conocimiento
 Description: Tiene como objetivo informar cómo crear y buscar conocimientos por el uso de tags.
-#Presentar y buscar por tags en el portal del conocimiento
+# Presentar y buscar por tags en el portal del conocimiento
+
 Tags son palabras clave (relevantes) o términos asociados a una información, tema o discusión que se desea indexar, de forma explícita en el sistema, con el fin de facilitar la búsqueda de contenidos.
 Este documento tiene como objetivo informar cómo crear y buscar conocimientos por el uso de tags.
 
@@ -44,5 +45,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Registrar cliente
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la búsquedas por clientes.
-#Registrar cliente
+# Registrar cliente
 
 
 El cliente es una organización o persona que solicita productos y/o servicios.
@@ -24,5 +24,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

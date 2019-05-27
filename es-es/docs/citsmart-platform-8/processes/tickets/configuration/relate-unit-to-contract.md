@@ -1,6 +1,6 @@
 title: ¿Cómo relacionar la unidad al contrato?
 Description: Permite relacionar una unidad al contrato.
-#¿Cómo relacionar la unidad al contrato?
+# ¿Cómo relacionar la unidad al contrato?
 
 
 Para relacionar unidad al contrato, proceda de acuerdo con las siguientes
@@ -48,5 +48,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

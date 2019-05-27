@@ -1,6 +1,6 @@
 title: Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
 Description: Permite definir quién tendrá acceso a las funcionalidades de la Gestión de Portafolio de Servicios y qué tipo de acceso está permitido (ver, guardar y/o borrar).
-#Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
+# Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio
 
 
 ITIL recomienda que un producto ITSM sea capaz de asignar niveles de
@@ -55,5 +55,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title: Register service request priority
 Description: 
-#Register service request priority
+# Register service request priority
+
 The Service Request Priority functionality allows to set the priority matrix to dynamically calculate the attendance time (SLA) of the service request. The priority will be used to identify the relative importance of the service request and to identify the time required for an appropriate action to be taken.
 This feature provides a variety of actions, such as including, changing, and deleting a service request priority.
 
@@ -41,5 +42,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

@@ -1,7 +1,7 @@
 title: Register continuity organizational planning
-
 Description: Allows to register the Organizational Planning. 
-#Register continuity organizational planning
+# Register continuity organizational planning
+
 The Continuity Registration is a process that pass through several phases. The third phase of this process is called Implementation, where it'll be defined the Continuity Plan, Planning and Test Strategy. This functionality allows to register the Organizational Planning.
 
 Before getting started
@@ -83,6 +83,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

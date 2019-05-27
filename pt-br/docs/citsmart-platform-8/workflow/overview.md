@@ -1,6 +1,6 @@
 Title: Overview
 
-# Overview
+# Visão Geral
 
 ## Apresentação
 
@@ -10,22 +10,22 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 **Padrão:**
 
-- [Desenho de Fluxo][1]
+- [Criar um fluxo de trabalho][1]
 
-- [Expressões][2]
+- [Construir expressões][2]
 
 - [Modelagem de processo][3]
 
 **Integração Neuro:**
 
-- [Fluxo de integração][4]
+- [Fluxo de integração de processos][4]
 
-- [Regra de negócio][5]
+- [Regras de negócio][5]
 
 - Processo de Negócio
 
 !!! info "ALERTA"
-    Estes itens só estarão disponíveis quanto a aplicação [Neuro estiver habilitada][7] em sua instância.
+    Estes itens só estarão disponíveis quando a aplicação [Neuro estiver habilitada][7] em sua instância.
 
 ## Interface
 
@@ -185,7 +185,7 @@ Configuração
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/12/2019 - Anna Martins
 
 

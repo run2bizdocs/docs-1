@@ -1,6 +1,6 @@
 title: Crear portafolio de cambio
 Description: Tiene por objetivo crear un portafolio de cambios para agilizar la creación de un nuevo cambio
-#Crear portafolio de cambio
+# Crear portafolio de cambio
 
 Esta funcionalidad tiene por objetivo crear un portafolio de cambios para agilizar la creación de un nuevo cambio al agruparlas por criterios específicos.
 
@@ -28,5 +28,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

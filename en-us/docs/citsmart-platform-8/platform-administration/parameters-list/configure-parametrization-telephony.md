@@ -1,6 +1,6 @@
 title: Configure parametrization - telephony
 Description: Allows to define whether to enable the integration of webservices with telephony, to inform the identification number of the request service, among other possible actions in order to configure the use of telephony in CITSmart.
-#Configure parametrization - telephony
+# Configure parametrization - telephony
 
 The "Telephony" parametrization allows to define whether to enable the
 integration of webservices with telephony, to inform the identification number
@@ -29,5 +29,5 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

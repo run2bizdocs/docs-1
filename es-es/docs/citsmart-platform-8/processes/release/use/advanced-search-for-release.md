@@ -1,6 +1,6 @@
 title:  Búsqueda avanzada de registros de liberación cerradas 
 Description: Permite buscar las liberaciones de acuerdo con los filtros definidos. 
-#Búsqueda avanzada de registros de liberación cerradas
+# Búsqueda avanzada de registros de liberación cerradas
 
 Esta funcionalidad permite buscar las liberaciones de acuerdo con los filtros definidos.
 
@@ -31,6 +31,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Register continuity template
 Description: Is intended to register the continuity template, which will be used to customize the test registration screen.
-#Register continuity template
+# Register continuity template
 
 This functionality is intended to register the continuity template, which will be used to customize the test registration screen.
 
@@ -28,6 +28,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title:  Ver un evento 
 Description: Tiene por objetivo visualizar la información contenida en el registro de un evento.
-#Ver un evento
+# Ver un evento
+
 Esta funcionalidad tiene por objetivo visualizar la información contenida en el registro de un evento.
 
 Antes de empezar
@@ -25,6 +26,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

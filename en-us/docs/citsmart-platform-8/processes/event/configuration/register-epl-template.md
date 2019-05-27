@@ -1,6 +1,6 @@
 title: Register EPL template
 Description: Allows to create and maintain the EPL templates, to be used in the EPL creation.
-#Register EPL template
+# Register EPL template
 
 This functionality allows to create and maintain the EPL templates, to be used
 in the EPL creation.
@@ -23,5 +23,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

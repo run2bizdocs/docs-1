@@ -1,6 +1,6 @@
 title: Controlar los contratos
 Description: Permite guardar los registros de una entrada de un nuevo contrato.
-#Controlar los contratos
+# Controlar los contratos
 
 Esta funcionalidad permite guardar los registros de una entrada de un nuevo
 contrato.
@@ -24,5 +24,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

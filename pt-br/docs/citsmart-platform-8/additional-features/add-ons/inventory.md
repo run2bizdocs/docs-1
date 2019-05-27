@@ -16,11 +16,11 @@ O CITSmart Inventory trabalha em conjunto com o [Monitor de Eventos CITSmart - E
 2. Fazer download do pacote WAR do componente Inventory;  
 3. Descompactar os arquivos;  
 4. Copiar o pacote para a pasta de implantação do servidor de aplicativos Wildfly (ex. /deployments);  
-5. Configurar as [Propriedades do Sistema][2] com os dados da instância CITSmart;
+5. Configurar as [Propriedades do Sistema][2] com os dados da instância CITSmart.
 
 ## O que fazer depois  
 
-Para testar o Inventory, [configurar][3] as conexões na instância CITSmart Platform.
+Para testar o Inventory, [configurar][3] as conexões na instância CITSmart.
 
 ## Relacionado
 
@@ -39,6 +39,6 @@ Para testar o Inventory, [configurar][3] as conexões na instância CITSmart Pla
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

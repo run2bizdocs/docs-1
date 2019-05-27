@@ -39,7 +39,7 @@ Uso
    
 - [Reabrir liberação](/pt-br/citsmart-platform-8/processes/release/use/reopen-release.html)
 
-- [Suspender registro de liberação](/pt-br/citsmart-platform-8/processes/release/use/suspend-release.html)
+- [Suspender a liberação](/pt-br/citsmart-platform-8/processes/release/use/suspend-release.html)
 
 Configuração
 -----------------
@@ -48,6 +48,6 @@ Configuração
   
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Larissa Lourenço
 

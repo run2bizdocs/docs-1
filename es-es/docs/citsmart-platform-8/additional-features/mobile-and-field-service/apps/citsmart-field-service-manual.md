@@ -1,6 +1,6 @@
 title: Manual de uso de la aplicación CITSmart GO
 Description: Permitir la realización de llamadas para técnico en campo en modo offline (donde el operador no tiene internet).
-#Manual de uso de la aplicación CITSmart GO
+# Manual de uso de la aplicación CITSmart GO
 
 El objetivo de la aplicación CITSmart GO es permitir la realización de llamadas
 para técnico en campo en modo offline (donde el operador no tiene internet).
@@ -77,5 +77,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

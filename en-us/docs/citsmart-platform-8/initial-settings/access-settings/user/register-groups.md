@@ -1,6 +1,7 @@
 title: Register group
 Description: This functionality registers the groups and links with users, profile, contracts and notification e-mails.
-#Register group
+# Register group
+
 A group is a set of one or more employees with the same related objectives and its functions.
 The two most common usages for the groups created are:
 
@@ -53,5 +54,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

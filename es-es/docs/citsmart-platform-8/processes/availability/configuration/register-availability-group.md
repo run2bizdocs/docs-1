@@ -1,6 +1,6 @@
 title: Registrar grupo de disponibilidad
 Description: Agrupar elementos de configuración para generar índice de disponibilidad.
-#Registrar grupo de disponibilidad
+# Registrar grupo de disponibilidad
 
 Esta funcionalidad tiene por objetivo agrupar elementos de configuración para
 generar índice de disponibilidad.
@@ -35,5 +35,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

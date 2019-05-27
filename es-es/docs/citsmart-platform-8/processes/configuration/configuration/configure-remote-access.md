@@ -1,6 +1,6 @@
 title: Crear conexión con el servidor de acceso remoto
 Description: Configurar la opción de acceso remoto, presente dentro de la pantalla de CMDB (Gestión de la Configuración), en el ITSM.
-#Crear conexión con el servidor de acceso remoto
+# Crear conexión con el servidor de acceso remoto
 
 
 Esta funcionalidad permite configurar la opción de acceso remoto, presente
@@ -37,5 +37,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

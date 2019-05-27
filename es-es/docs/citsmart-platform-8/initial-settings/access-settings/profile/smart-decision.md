@@ -1,6 +1,6 @@
 title: Definir el permiso de acceso de las decisiones Smart
 Description: Permite definir quién tendrá acceso a los widgets para inserción en el dashboard que se muestra en la pantalla principal del sistema.
-#Definir el permiso de acceso de las decisiones Smart
+# Definir el permiso de acceso de las decisiones Smart
 
 
 La funcionalidad de permiso de acceso de las Decisiones Smart, permite definir
@@ -25,5 +25,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -1,6 +1,6 @@
 Title: Variáveis
 Description: Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.    
-#Variáveis 
+# Variáveis 
 
 In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
 
@@ -18,22 +18,25 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 - Palavra chave    
 
-![Screenshot](images/Variables-fig01.png)  
+![Screenshot](images/Variables-fig01.png) 
+
 Figura 1 - Tela de pesquisa  
 
 ##LISTAGEM DE ITENS 
 
 1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.  
 
-![Screenshot](images/Variables-fig02.png)    
+![Screenshot](images/Variables-fig02.png) 
+
 Figura 2 - Tela de listagem   
 
 ##PREENCHIMENTO DOS CAMPOS CADASTRAIS - VARIÁVEIS     
 
-1- ara adicionar uma variável, selecione a sua aba referente e clique em Adicionar.    
+1- ara adicionar uma variável, selecione a sua aba referente e clique em "Adicionar".    
 2- Será apresentada a seguinte tela:    
 
-![Screenshot](images/Variables-fig03.png)   
+![Screenshot](images/Variables-fig03.png)
+
 Figura 3- Tela de cadastro/edição do workflow, aba de Variáveis  
 
 3- Preencha os campos:    
@@ -55,13 +58,13 @@ Figura 3- Tela de cadastro/edição do workflow, aba de Variáveis
 - O valor inicial da variável, se constante ou script.    
 	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.   
 
-4- Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.   
+4- Para editar uma variável, selecione a variável desejada, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.   
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar suas alterações efetivamente, clique em Salvar na barra superior.**  
+    Para salvar suas alterações efetivamente, clique em "Salvar" na barra superior. 
 
-5- Para remover uma variável do fluxo, selecione a variável desejada, clique em Remover e confirme a exclusão.  
+5- Para remover uma variável do fluxo, selecione a variável desejada, clique em "Remover" e confirme a exclusão.  
 	
 
 !!! tip "About"

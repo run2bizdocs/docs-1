@@ -1,6 +1,6 @@
 title: Register characteristics
 Description: Provides a variety of actions, such as including, changing, and deleting the characteristics of the Configuration Item
-#Register characteristics
+# Register characteristics
 
 This feature provides a variety of actions, such as including, changing, and
 deleting the characteristics of the Configuration Item (CI).
@@ -18,5 +18,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

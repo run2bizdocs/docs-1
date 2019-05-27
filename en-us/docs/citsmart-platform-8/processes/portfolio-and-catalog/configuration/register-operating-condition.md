@@ -1,6 +1,7 @@
 title: Register operating condition
 Description: 
-#Register operating condition
+# Register operating condition
+
 This feature provides a variety of actions, such as including, changing, and deleting the service operation availability.
 
 
@@ -19,5 +20,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

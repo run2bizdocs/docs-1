@@ -1,6 +1,7 @@
 title: Calendario de pruebas de la continuidad
 Description: Permite ver los eventos de prueba de la continuidad del servicio. 
-#Calendario de pruebas de la continuidad
+# Calendario de pruebas de la continuidad
+
 El Registro de Continuidad es un proceso que pasa por varias fases. La cuarta fase de este proceso es la Operación Continua, donde se va definir la Conciencia (eduación y formación) de la continuidad, Revisión y Auditoría de la continuidad, Pruebas de la continuidad y la Invocación. Esta funcionalidad permite ver los eventos de prueba de la continuidad del servicio.
 
 Antes de empezar
@@ -112,5 +113,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Notificar responsable por la expiración del conocimiento
 Description: Configurar la notificación por correo electrónico para avisar al responsable (creador y publicador) acerca de la expiración de los conocimientos.
-#Notificar responsable por la expiración del conocimiento
+# Notificar responsable por la expiración del conocimiento
 
 
 Este conocimiento tiene por objetivo configurar la notificación por correo
@@ -55,5 +55,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

@@ -1,6 +1,7 @@
 title: The event center
 Description:Is intended to present some functionalities for the event management 
-#The event center
+# The event center
+
 This functionality is intended to present some functionalities for the event management, allowing to view charts, monitor and search event occurrences.
 
 •	Charts;
@@ -28,5 +29,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

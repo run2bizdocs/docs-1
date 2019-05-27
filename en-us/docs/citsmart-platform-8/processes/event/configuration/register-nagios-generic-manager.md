@@ -1,6 +1,6 @@
 title: Register Nagios generic manager
 Description: To register and maintain the generic managers, who will be responsible for monitoring the hosts and/or services of the Nagios monitoring tool.
-#Register Nagios generic manager
+# Register Nagios generic manager
 
 The purpose of this functionlaity is to register and maintain the generic
 managers, who will be responsible for monitoring the hosts and/or services of
@@ -46,5 +46,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

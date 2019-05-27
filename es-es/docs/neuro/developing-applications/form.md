@@ -1,11 +1,11 @@
 title: Formulario
 Description: Formulario
-#Formulario
+# Formulario
 
 
 Permite la construcción de interfaces de usuario a través de la combinación de componentes de Arrastrar y Soltar previamente definidos y el uso de recursos CSS, Angular JS y JavaScript.
 
-## Características:
+## Características
 
    * Cada formulario puede contener una o más páginas y cada página tiene un HTML, un JS de controlador angular y una colección de dependencias (el diseño de la pantalla es común a todas las páginas);
 
@@ -90,7 +90,7 @@ Es necesario tener creado la Aplicación Neuro.
     Figura 6 - Dependencias
 
 
-1.  Diseñar la tabla. Para crear el diseño de la pantalla, haga clic en Editar o navegue hasta la guía del sistema Diseñar Pantalla, que se abre automáticamente.
+1.  Diseñar la tabla. Para crear el diseño de la pantalla, haga clic en "Editar" o navegue hasta la guía del sistema Diseñar Pantalla, que se abre automáticamente.
 
     *   Arrastre los componentes ubicados en la paleta izquierda al centro de la pantalla, de acuerdo con la forma en que desea crear el     formulario. Los componentes se organizan en líneas y columnas, y las líneas tienen un ancho de 12 columnas. Esto significa que en       cada línea usted puede insertar hasta 2 componentes con ancho 6, o hasta 3 componentes con anchura 4, por ejemplo. No es obligatorio     completar la fila entera;
 
@@ -100,15 +100,15 @@ Es necesario tener creado la Aplicación Neuro.
 
      Figura 7 - Design
 
-7.	Haga clic en Guardar para hacer los cambios. Puede guardarlo en la versión original (versión actual) o en una nueva versión.
+7.	Haga clic en "Guardar" para hacer los cambios. Puede guardarlo en la versión original (versión actual) o en una nueva versión.
 
 
 !!! Abstract "JS para la visualización"
 
-    Esta guía tiene la capacidad de agregar variables en el ámbito de JavaScript, en la pantalla que se abre al hacer clic en Ver           Pantalla.  Más información se puede encontrar en Desarrollar Aplicaciones.
+    Esta guía tiene la capacidad de agregar variables en el ámbito de JavaScript, en la pantalla que se abre al hacer clic en "Ver           Pantalla". Más información se puede encontrar en Desarrollar Aplicaciones.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  
 

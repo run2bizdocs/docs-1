@@ -1,6 +1,6 @@
 title: Configure views
 Description: Intended to allow the diverse vision (screens) creation of the system, with the possibility to associate with linked visions (sub-screens).
-#Configure views
+# Configure views
 
 This functionality is intended to allow the diverse vision (screens) creation of
 the system, with the possibility to associate with linked visions (sub-screens).
@@ -31,6 +31,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 

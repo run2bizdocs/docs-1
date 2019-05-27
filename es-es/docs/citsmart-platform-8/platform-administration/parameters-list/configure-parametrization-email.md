@@ -1,6 +1,7 @@
 title: Configurar parametrización - correo electrónico
 Description: La parametrización de "correo electrónico" permite configurar el envío de lectura de correo electrónico
-#Configurar parametrización - correo electrónico
+# Configurar parametrización - correo electrónico
+
 Podemos definir el correo electrónico como un método que permite componer, enviar y recibir mensajes a través de sistemas electrónicos de comunicación. La parametrización de "correo electrónico" permite configurar el envío de lectura de correo electrónico, informar el dominio de correo electrónico predeterminado de la empresa, entre otras acciones, a fin de permitir la utilización del servicio de correo electrónico para agregar mejor experiencia en el uso de los diversos recursos disponibles en las soluciones CITSmart, permitiendo el envío de informaciones a los usuarios.
 
 Procedimiento
@@ -38,6 +39,6 @@ Tabla 1 - Lista de parâmetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

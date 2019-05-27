@@ -1,6 +1,7 @@
 title:  Gestionar mis solicitudes por el Smart Portal 
 Description: Esta funcionalidad permite el control de las solicitudes abiertas por el usuario. 
-#Gestionar mis solicitudes por el Smart Portal
+# Gestionar mis solicitudes por el Smart Portal
+
 Esta funcionalidad permite el control de las solicitudes abiertas por el usuario, donde el mismo puede verificar el historial de ocurrencia, la descripción de la tarea, intercambiar mensaje con el ejecutor del ticket, entre otras acciones.
 
 Antes de empezar
@@ -51,6 +52,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

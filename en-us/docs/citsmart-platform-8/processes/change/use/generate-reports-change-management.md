@@ -1,6 +1,6 @@
 title: Generate reports - change management
 Description: Presents the amount of request for change.
-#Generate reports - change management
+# Generate reports - change management
 
 
 Generate quantitative report of change
@@ -36,5 +36,5 @@ This report aims to present the changes registered.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

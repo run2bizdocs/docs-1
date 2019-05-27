@@ -1,6 +1,7 @@
 title: Service Catalog: Generate CSV Template
 Description: The purpose of this functionality is to optimize the creation of various services.
-#Service Catalog: Generate CSV Template
+# Service Catalog: Generate CSV Template
+
 The purpose of this functionality is to optimize the creation of various services and, consequently, their activities within one or more service portfolios.
 
 !!! Abstract "NOTE"
@@ -37,5 +38,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

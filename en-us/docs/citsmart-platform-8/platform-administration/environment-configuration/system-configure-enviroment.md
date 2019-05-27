@@ -1,6 +1,6 @@
 title: Configure environment
 Description: Intended to facilitate an intervention (correction) in the environment (server) and to change the logos of the system.
-#Configure environment
+# Configure environment
 
 The Environment Configuration functionality is intended to facilitate an
 intervention (correction) in the environment (server) and to change the logos of
@@ -25,5 +25,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Anna Martins

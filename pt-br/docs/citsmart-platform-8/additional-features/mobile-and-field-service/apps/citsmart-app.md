@@ -29,15 +29,16 @@ Procedimento
     *	Domínio\Usuário:  informar o domínio (local/ldap) e seu usuário;
 
     Ex.: citsmart.local\nome.sobrenome
+    
     *	Senha: credencial de acesso ao sistema;
 
     *	Conexão principal: informar se a instância escolhida será a principal;
 
     *	Disponível:
 
-       a.	Habilitado: o sistema permitirá conexão ao servidor e o posicionamento físico do usuário será obtida e registrada;
+           a.	Habilitado: o sistema permitirá conexão ao servidor e o posicionamento físico do usuário será obtida e                           registrada;
 
-       b.	Desabilitado: o sistema não permitirá conexão ao servidor nem registrará a posição física do atendente.
+           b.	Desabilitado: o sistema não permitirá conexão ao servidor nem registrará a posição física do atendente.
 
 5.	Após informar os dados da conexão desejada, clicar no botão "Salvar";
 
@@ -61,5 +62,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/26/2019 - Anna Martins

@@ -1,6 +1,6 @@
 title: Generar informes - gestión de configuración
 Description: Este informe tiene el objetivo de presentar las claves (licencias) válidas, inválidas y duplicadas de los medios.
-#Generar informes - gestión de configuración
+# Generar informes - gestión de configuración
 
 
 Generar informe de elemento de configuración - paquete Office
@@ -36,5 +36,5 @@ cambios relacionados con el mismo elemento de configuración.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

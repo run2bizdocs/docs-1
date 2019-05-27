@@ -1,6 +1,7 @@
 title: Register threat
 Description:Provides a variety of actions, such as including, changing, and deleting the threat. 
-#Register threat
+# Register threat
+
 This functionality is intended to register the threats that will be used during the Continuity registration.
 This feature provides a variety of actions, such as including, changing, and deleting the threat.
 
@@ -30,6 +31,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

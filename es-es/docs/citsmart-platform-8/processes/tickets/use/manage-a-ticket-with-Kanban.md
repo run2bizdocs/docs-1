@@ -1,6 +1,7 @@
 title:  Gestión de equipos con Kanban 
 Description: Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets
-#Gestión de equipos con Kanban
+# Gestión de equipos con Kanban
+
 Esta opción tiene por objetivo auxiliar gestores en el seguimiento detallado de sus filas de atención de tickets, haciendo uso de la técnica de gestión llamada de Kanban. Kanban es el uso de tarjetas (post-it y otros) para indicar el progreso de los flujos de producción.
 En estas tarjetas se colocan indicaciones sobre una determinada tarea, por ejemplo, "para ejecutar" / "en ejecución" / "hecho", y siempre que el flujo avanza su posicionamiento cambia a la derecha en el cuadro.
 
@@ -31,11 +32,11 @@ Relacionado
 
 [Crear perfil de acceso](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

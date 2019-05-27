@@ -1,6 +1,7 @@
 title:  Configurar parametrización – configuración 
 Description: La parametrización de la configuración debe ser realizada para permitir la ejecución/uso de este proceso,
-#Configurar parametrización – configuración
+# Configurar parametrización – configuración
+
 La Gestión de Configuración es el registro y la actualización detallada de la información que describe el hardware y el software de una empresa. Es un proceso para establecer y mantener la consistencia del desempeño de un producto, sus atributos funcionales, entre otras informaciones operativas a lo largo de su vida.
 La parametrización de la configuración debe ser realizada para permitir la ejecución/uso de este proceso, es posible definir el nombre del grupo para los elementos de configuración que no poseen grupo, definir el destino del envío de correos electrónicos notificando la expiración próxima del EC del tipo Software, definir el nombre del dominio de la red, entre otras.
 
@@ -55,5 +56,5 @@ Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

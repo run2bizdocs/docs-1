@@ -1,6 +1,7 @@
 title: Registrar unidad
 Description: Tiene por objetivo registrar las unidades donde los colaboradores están asignados.
-#Registrar unidad
+# Registrar unidad
+
 Esta funcionalidad tiene por objetivo registrar las unidades donde los colaboradores están asignados.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar una unidad.
 
@@ -37,5 +38,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Programar actividades de problemas
 Description: Permite crear y ver la programación de actividades del problema
-#Programar actividades de problemas
+# Programar actividades de problemas
 
 Esta funcionalidad permite crear y ver la programación de actividades del problema.
 
@@ -29,12 +29,12 @@ Procedimiento
 Relacionado
 ------------
 
-[Registrar problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)	
+[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)	
 
-[Registrar grupo de actividad periódica](/pt-br/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço
 

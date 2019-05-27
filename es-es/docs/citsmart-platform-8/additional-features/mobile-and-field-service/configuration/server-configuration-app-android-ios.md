@@ -1,6 +1,6 @@
 title: Configurar instancia CITSmart para acceso vía móvil
 Description: Proporcionar orientaciones necesarias para configurar el servidor para el uso adecuado de CITSmart ITSM Experience en la plataforma iOS y Android.
-#Configurar instancia CITSmart para acceso vía móvil
+# Configurar instancia CITSmart para acceso vía móvil
 
 
 
@@ -14,7 +14,7 @@ Antes de empezar
 Es necesario Instalar la versión 7.2.2.0 (o superior) de CITSmart 
 Experience, Configurar los parámetros 257 e 272
 
--   Valores: "S" o "N" Default: "N"
+-   Valores: "S" o "N" Default: "N";
 
 -   Si el valor del parámetro es "S", sólo se mostrará las notificaciones de
     solicitudes sin responsable actual.
@@ -216,7 +216,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins
 
 

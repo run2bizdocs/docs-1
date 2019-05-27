@@ -1,6 +1,6 @@
 title: Set Inventory connection
 Description: Intended to register all properties about the CITSmart Inventory connection, according to the IP and port where the Jboss of the CITSmart Inventory is intalled.
-#Set Inventory connection
+# Set Inventory connection
 
 This functionality is intended to register all properties about the CITSmart
 Inventory connection, according to the IP and port where the Jboss of the
@@ -78,5 +78,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

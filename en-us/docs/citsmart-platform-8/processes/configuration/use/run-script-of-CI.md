@@ -1,7 +1,8 @@
 title: Run script of the configuration item
 
 Description: Allows to run the script of a configuration item.
-#Run script of the configuration item
+# Run script of the configuration item
+
 This functionality allows to run the script of a configuration item.
 
 Before getting started
@@ -32,5 +33,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

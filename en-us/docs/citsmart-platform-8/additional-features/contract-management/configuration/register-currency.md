@@ -1,6 +1,7 @@
 title: Register currency
 Description:This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
-#Register currency
+# Register currency
+
 This feature provides a variety of actions, such as including, changing, and deleting the currency that will be used in other system routines.
 
 Procedure
@@ -17,6 +18,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

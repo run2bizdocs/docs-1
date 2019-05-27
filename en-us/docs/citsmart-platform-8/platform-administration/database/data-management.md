@@ -1,6 +1,6 @@
 title: Data management
 Description: Generate exportation and importation of data in the system table.
-#Data management
+# Data management
 
 The purpose of this functionality is to generate exportation and importation of
 data in the system table.
@@ -28,5 +28,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

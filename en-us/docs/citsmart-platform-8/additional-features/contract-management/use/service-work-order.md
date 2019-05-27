@@ -1,6 +1,7 @@
 title: Register service work order (WO)
 Description: Is intended to register the service work orders (WO).
-#Register service work order (WO)
+# Register service work order (WO)
+
 This functionality is intended to register the service work orders (WO).
 
 Before getting started
@@ -34,5 +35,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

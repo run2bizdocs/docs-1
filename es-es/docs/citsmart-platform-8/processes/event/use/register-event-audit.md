@@ -1,6 +1,7 @@
 title: Registrar auditoría de evento
 Description: El objetivo de este recurso es mantener una base de datos del historial de todos los cambios de eventos para hacer una auditoría manual.
-#Registrar auditoría de evento
+# Registrar auditoría de evento
+
 El objetivo de este recurso es mantener una base de datos del historial de todos los cambios de eventos para hacer una auditoría manual.
 
 Procedimiento
@@ -20,5 +21,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

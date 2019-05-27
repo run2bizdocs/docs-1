@@ -1,6 +1,6 @@
 title:  Crear acción automática vía correo electrónico 
 Description: Programar la apertura automática de solicitudes de servicio vía correo electrónico.
-#Crear acción automática vía correo electrónico
+# Crear acción automática vía correo electrónico
 
 La finalidad de esta funcionalidad es programar la apertura automática de solicitudes de servicio vía correo electrónico.
 
@@ -27,5 +27,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

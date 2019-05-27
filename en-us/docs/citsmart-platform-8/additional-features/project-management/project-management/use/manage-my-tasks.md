@@ -1,6 +1,6 @@
 title: Manage my project tasks
 Description: Is intended to manager your task related to the projects.
-#Manage my project tasks
+# Manage my project tasks
 This functionality is intended to manager your task related to the projects.
 
 Before getting started
@@ -28,6 +28,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title:  Herramienta de la base de datos 
 Description: El objetivo es mantener registro de guión para su ejecución en el sistema. 
-#Herramienta de la base de datos
+# Herramienta de la base de datos
+
 El objetivo es mantener registro de guión para su ejecución en el sistema.
 
 Procedimiento
@@ -26,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

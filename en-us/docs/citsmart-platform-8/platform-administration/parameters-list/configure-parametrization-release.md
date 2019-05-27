@@ -1,6 +1,6 @@
 title: Configure parametrization - release
 Description:  It performed to allow the execution/use of this process, and it may be possible to define whether notifications will be sent to the requester for the execution of the services/incidents request flows, for example.
-#Configure parametrization - release
+# Configure parametrization - release
 
 
 Release management is the process responsible for planning, scheduling and
@@ -32,6 +32,6 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 

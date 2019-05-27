@@ -1,6 +1,6 @@
 title: Registrar lista negra de software
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borrar una Lista Negra de Software
-#Registrar lista negra de software
+# Registrar lista negra de software
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
@@ -21,5 +21,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

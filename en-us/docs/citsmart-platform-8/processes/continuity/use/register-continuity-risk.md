@@ -1,6 +1,7 @@
 title: Register continuity risk
 Description: This functionality is intended to register the risks that will be used during the Continuity registration.
-#Register continuity risk
+# Register continuity risk
+
 This functionality is intended to register the risks that will be used during the Continuity registration.
 
 Before getting started
@@ -35,5 +36,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

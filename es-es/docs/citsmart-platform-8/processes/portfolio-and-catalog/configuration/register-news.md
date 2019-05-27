@@ -1,6 +1,6 @@
 title: Registrar noticias
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las noticias que se publicarán en el Smart Portal.
-#Registrar noticias
+# Registrar noticias
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
@@ -35,5 +35,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

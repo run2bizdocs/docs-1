@@ -1,6 +1,6 @@
 title: Formulário
 Description: Formulário
-#Formulário
+# Formulário
 
 
 Permite a construção de interfaces de usuário através da combinação de componentes Drag and Drop previamente definidos e o uso de recursos CSS, Angular JS e JavaScript.
@@ -124,11 +124,11 @@ Permite a construção de interfaces de usuário através da combinação de com
 
 !!! Abstract "JS para visualização"
 
-    Essa guia tem a capacidade de adicionar variáveis no escopo do JavaScript na tela que é aberta quando você clica em Exibir Tela.         Mais informações podem ser encontradas em Desenvolver Aplicações
+    Essa guia tem a capacidade de adicionar variáveis no escopo do JavaScript na tela que é aberta quando você clica em Exibir         Tela. Mais informações podem ser encontradas em Desenvolver Aplicações
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  
 

@@ -1,6 +1,7 @@
 title: Ejecutar guión
 Description: El objetivo es mantener registro de scripts para la ejecución en el sistema.
-#Ejecutar guión
+# Ejecutar guión
+
 El objetivo es mantener registro de scripts para la ejecución en el sistema.
 
 Procedimiento
@@ -30,6 +31,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title: Personalizar Portal del Conocimiento
 Description: Tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
-#Personalizar Portal del Conocimiento
+# Personalizar Portal del Conocimiento
+
 Esta funcionalidad tiene por objeto cambiar imágenes que se encuentran en el Portal del Conocimiento.
 
 Procedimiento
@@ -26,5 +27,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

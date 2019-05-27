@@ -1,6 +1,6 @@
 title: Registrar moneda
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar las monedas que se van utilizar en otras rutinas del sistema.
-#Registrar moneda
+# Registrar moneda
 
 Esta funcionalidad ofrece diversas acciones, como, incluir, cambiar y borrar las
 monedas que se van utilizar en otras rutinas del sistema.
@@ -20,6 +20,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 

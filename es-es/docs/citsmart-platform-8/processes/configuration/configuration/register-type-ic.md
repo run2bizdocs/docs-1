@@ -1,6 +1,6 @@
 title: Registrar tipo de elemento de configuración
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos de Elemento de Configuración.
-#Registrar tipo de elemento de configuración
+# Registrar tipo de elemento de configuración
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los
@@ -35,5 +35,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

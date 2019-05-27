@@ -1,6 +1,6 @@
 title: Configure parametrization - work order
 Description: Allows to define the calculation formula of the work order gloss, enable custom signatures in the Work Orders report, within other viable actions.
-#Configure parametrization - work order
+# Configure parametrization - work order
 
 Work order is a document that will give the permission to the relative execution
 of a service. The "Work order" parametrization allows to define the calculation
@@ -31,5 +31,5 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

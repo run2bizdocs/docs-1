@@ -1,6 +1,6 @@
 title: Registrar notificación por correo electrónico
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar notificación por correo electrónico.
-#Registrar notificación por correo electrónico
+# Registrar notificación por correo electrónico
 
 
 La funcionalidad de Notificación por Correo Electrónico tiene por objetivo
@@ -32,5 +32,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

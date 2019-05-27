@@ -1,6 +1,6 @@
 title: Register subject
 Description: This feature provides various actions, such as including, changing and deleting the subject of a knowledge.
-#Register subject
+# Register subject
 
 This functionality is intended to register the subject of a knowledge, that will
 be used in the search of Reports of Topics or Subjects available or not in the
@@ -29,5 +29,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

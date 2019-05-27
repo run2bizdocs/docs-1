@@ -1,6 +1,6 @@
 title: Objeto de Negócio
 Description:Objeto de Negócio
-#Objeto de Negócio
+# Objeto de Negócio
 
 
 Objetos de Negócios são os vínculos entre o Neuro e uma Entidade de Dados das aplicações. Desta forma, o Objeto de Negócio representará o modelo de dados e poderá atingir um ou mais formulários.
@@ -164,5 +164,5 @@ Figura 7 - SQL
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  

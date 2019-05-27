@@ -1,6 +1,6 @@
 title: Steps to Implement Neuro Solution
 Description: Steps to Implement Neuro Solution
-#Steps to Implement Neuro Solution
+# Steps to Implement Neuro Solution
 
 
 ![create neuro app](images/neuro-1.png)
@@ -67,12 +67,11 @@ After you have your Business Objects and Forms created you can:
 1.  *LINK THE FORM TO A SERVICE* as needed, or
 
 2.  *LINK THE FORM TO CITSmart Experience MENU OR TO AN EXPERIENCE CENTER*, this will make you
-    able to maintain tables and additional data that will be not used on a
-    ticket opening.
+    able to maintain tables and additional data that will be not used on a ticket opening.
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  

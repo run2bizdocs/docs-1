@@ -1,6 +1,6 @@
 title: Registrar menú
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un menú.
-#Registrar menú
+# Registrar menú
 
 Esta funcionalidad tiene como objetivo permitir al usuario la configuración de
 los elementos del menú, según sus preferencias. Proporcionar mejor usabilidad en
@@ -37,6 +37,6 @@ Acceder al menú principal para comprobar los menús creados.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

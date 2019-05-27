@@ -1,6 +1,6 @@
 title: Define metrics and KPIs
 Description:  Intended to define the indicators target of the Incident Management process to the management analysis.
-#Define metrics and KPIs
+# Define metrics and KPIs
 
 The functionality Definition of Metrics and KPIs is intended to define the
 indicators target of the Incident Management process to the management analysis,
@@ -23,5 +23,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

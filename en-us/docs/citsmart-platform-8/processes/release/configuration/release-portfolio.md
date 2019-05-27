@@ -1,6 +1,7 @@
 title: Create a release portfolio
 Description: This functionality is intended to create a release portfolio to speed the creation of a new release when grouping it by specific criteria.
-#Create a release portfolio
+# Create a release portfolio
+
 This functionality is intended to create a release portfolio to speed the creation of a new release when grouping it by specific criteria.
 
 Procedure
@@ -15,7 +16,7 @@ Procedure
 
 4.  Select the portfolio you just created and click on "Advance";
 
-5.  Click on "New model" and complete the fields available.
+5.  Click on "New model" and complete the fields available;
 
     !!! Abstract "NOTE"  
 
@@ -29,6 +30,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Larissa Lourenço
 

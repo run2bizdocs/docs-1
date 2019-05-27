@@ -1,6 +1,6 @@
 Title: Configurar logo del banner
 
-#Configurar logo del banner
+# Configurar logo del banner
 
 
 Es posible cambiar el banner de su ambiente para que CITSmart tenga la identidad de su empresa.
@@ -21,6 +21,6 @@ Procedimiento
 	
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

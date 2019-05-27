@@ -1,6 +1,7 @@
 title: Cancelar problema
 Description: permite cancelar un problema previamente registrado.
-#Cancelar problema
+# Cancelar problema
+
 Esta funcionalidad permite cancelar un problema previamente registrado.
 
 Antes de empezar
@@ -31,5 +32,5 @@ Procedimiento 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Larissa Lourenço

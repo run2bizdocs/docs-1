@@ -1,6 +1,6 @@
 title: Register Zabbix manager
 Description: Register and maintain the managers responsible for monitoring the configuration items whose status will be queried in Zabbix.
-#Register Zabbix manager
+# Register Zabbix manager
 
 Zabbix is a tool to monitor networks, serves and services, designed to monitor
 the availability, user experience and service quality.
@@ -55,5 +55,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

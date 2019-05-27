@@ -1,6 +1,8 @@
 title: Emitir relatório utilizando Smart Report
 Description: Permite emitir os relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
-#Emitir relatório utilizando Smart Report
+# Emitir relatório utilizando Smart Report
+
+Esta funcionalidade permite emitir relatórios personalizados, criados a partir da funcionalidade "Gerador de relatórios Smart".
 
 Procedimento
 ----------------
@@ -13,7 +15,7 @@ Procedimento
 
 3.  Selecionar a funcionalidade e escolher o tipo de relatório a ser emitido.
     Será então aberto uma aba com um filtro mais detalhado afim de gerar as
-    informações pretendidas.
+    informações pretendidas;
 
 4.  É permitido imprimir o relatório ao clicar no ícone “Imprimir”.
 
@@ -26,5 +28,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

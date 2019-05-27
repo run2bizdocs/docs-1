@@ -1,6 +1,6 @@
 title: Distance report by analyst
 Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the CITSmart Experience app.
-#Distance report by analyst
+# Distance report by analyst
 
 This document is intended to present the configuration to view the report that presents
 the mileage (kilometers) traveled by the attendance analyst that is using the CITSMart Experience app.
@@ -52,8 +52,8 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>1/30/2019 – Anna Martins
     
     
-  [1]:/pt-br/citsmart-platform-8/additional-features-mobile-and-fiel-service/report/images/km-por-analista.citreport
+  [1]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport

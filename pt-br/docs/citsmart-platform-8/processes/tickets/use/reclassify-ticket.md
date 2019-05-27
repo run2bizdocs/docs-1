@@ -55,9 +55,9 @@ Relacionado
 
 [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 [Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
@@ -65,5 +65,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

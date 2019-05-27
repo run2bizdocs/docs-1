@@ -1,6 +1,6 @@
 title: Registrar acción automatica de cambio
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acciones automáticas del tipo cambio.
-#Registrar acción automatica de cambio
+# Registrar acción automatica de cambio
 
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará
@@ -45,12 +45,12 @@ Relacionado
 
 [Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 [Configurar parametrización - cambio](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins
 

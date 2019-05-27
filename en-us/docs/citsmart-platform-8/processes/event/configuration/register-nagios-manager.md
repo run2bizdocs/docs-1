@@ -1,6 +1,6 @@
 title: Register Nagios manager
 Description: Register and maintain the managers that will be responsible for monitor the configuration items and event occurrences captured from the Nagios.
-#Register Nagios manager
+# Register Nagios manager
 
 Nagios is a network monitoring tool. It can monitor both hosts and services,
 warning when happening the problems and also when the problems are solved. The
@@ -59,5 +59,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

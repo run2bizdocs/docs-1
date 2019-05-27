@@ -1,6 +1,7 @@
 title: Create service category
 Description: Provides a variety of actions, such as including, changing, and deleting for service categories to place the services of business, support, request, incident and procedure, within similar groups of performance
-#Create service category
+# Create service category
+
 This feature provides a variety of actions, such as including, changing, and deleting for service categories to place the services of business, support, request, incident and procedure, within similar groups of performance.
 
 Procedure
@@ -18,5 +19,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

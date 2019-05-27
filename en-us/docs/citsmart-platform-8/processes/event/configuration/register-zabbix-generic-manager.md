@@ -1,6 +1,6 @@
 title: Register Zabbix generic manager
 Description: Register and maintain the generic managers, who will be responsible for monitoring the hosts and/or triggers of the Zabbix monitoring tool.
-#Register Zabbix generic manager
+# Register Zabbix generic manager
 
 The purpose of this functionality is to register and maintain the generic
 managers, who will be responsible for monitoring the hosts and/or triggers of
@@ -59,5 +59,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title: View event
 Description: Is intended to view the information in the event registration.
-#View event
+# View event
+
 This functionality is intended to view the information in the event registration.
 
 Before getting started
@@ -26,5 +27,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

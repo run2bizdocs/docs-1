@@ -1,6 +1,6 @@
 title: Verify attendance history
 Description: Is intended to verify the attendance history of service requests made by the field technician. 
-#Verify attendance history
+# Verify attendance history
 This functionality is intended to verify the attendance history of service requests made by the field technician.
 In this screen, you can view the service request attendance history made by the field technicians, according to the filters provided.
 
@@ -27,6 +27,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço
 

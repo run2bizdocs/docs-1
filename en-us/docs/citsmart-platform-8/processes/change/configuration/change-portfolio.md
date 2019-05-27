@@ -1,6 +1,6 @@
 title: Create change portfolio
 Description: It's intended to create a change portfolio in order to speed the creation of a new change
-#Create change portfolio
+# Create change portfolio
 
 This functionality is intended to create a portfolio of changes in order to speed up the creation of a new change by grouping them by specific criteria.
 
@@ -27,5 +27,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

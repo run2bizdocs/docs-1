@@ -64,13 +64,13 @@ Related
 
 [Configure email template](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html) 
+[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html) 
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Larissa Lourenço  
 

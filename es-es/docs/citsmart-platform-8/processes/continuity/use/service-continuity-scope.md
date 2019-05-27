@@ -1,6 +1,7 @@
 title:  Registrar alcance de la continuidad del servicio 
 Description: Permite registrar el alcance de la continuidad.
-#Registrar alcance de la continuidad del servicio
+# Registrar alcance de la continuidad del servicio
+
 El Registro de Continuidad es un proceso que pasa por varias fases. La primera fase de este proceso, Iniciación, es donde se definirá la política, el alcance y el proyecto de esta Continuidad del Servicio de TI. Esta funcionalidad permite registrar el alcance de la continuidad.
 Es necesario definir el alcance y las responsabilidades de los equipos cubriendo las actividades del proceso, como: Evaluación de riesgo, Análisis de impacto del negocio, Determinación de los controles de acuerdo con los requerimientos de los clientes y regulatorios, considerando los puntos de auditoría y conformidad con la ISO 27001.
 
@@ -67,7 +68,7 @@ Relacionados
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço
 
 

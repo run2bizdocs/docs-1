@@ -1,6 +1,6 @@
 title: Registrar destinatario de la notificación
 Description: Configurar los destinatarios que van recibir las notificaciones. El destinatario puede ser uno o más colaboradores y/o grupos.
-#Registrar destinatario de la notificación
+# Registrar destinatario de la notificación
 
 Esta funcionalidad tiene como objetivo configurar los destinatarios que van
 recibir las notificaciones. El destinatario puede ser uno o más colaboradores
@@ -43,5 +43,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

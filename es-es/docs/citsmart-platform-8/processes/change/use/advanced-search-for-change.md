@@ -1,6 +1,6 @@
 title: Búsqueda avanzada de cambios cerrados
 Description: Permit buscar cambios cerrados
-#Búsqueda avanzada de cambios cerrados
+# Búsqueda avanzada de cambios cerrados
 
 Esta funcionalidad permite buscar cambios de acuerdo con los filtros definidos.  
 
@@ -26,5 +26,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

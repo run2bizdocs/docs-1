@@ -1,6 +1,6 @@
 title: Configurar relatório para visualizar dados de atendimento
 Description: Tem a finalidade de demostrar como configurar Smart Reports para utilizar na gestão de atendimento (Ticket management).
-#Configurar relatório para visualizar dados de atendimento
+# Configurar relatório para visualizar dados de atendimento
 
 Este documento tem a finalidade de demostrar como configurar Smart Reports para
 utilizar na gestão de atendimento (Ticket management).
@@ -8,9 +8,9 @@ utilizar na gestão de atendimento (Ticket management).
 Relatórios por Ticket/Atendimento
 -------------------------------------
 
-*Este relatório tem por objetivo demostrar em um período de tempo, os tickets
+Este relatório tem por objetivo demostrar em um período de tempo, os tickets
 atendidos e o tempo gasto em cada ticket, bem como auxiliar na identificação de
-expiração de tempo.*
+expiração de tempo.
 
 ### Procedimento
 
@@ -60,9 +60,9 @@ expiração de tempo.*
 Relatório por Técnico e Tempo Gasto
 ---------------------------------------
 
-*Este relatório tem por objetivo identificar o tempo de ociosidade por cada
+Este relatório tem por objetivo identificar o tempo de ociosidade por cada
 técnico, uma vez que apresenta a soma da quantidade de ticket que cada técnico
-executou e a soma dos tempos executados por cada técnico.*
+executou e a soma dos tempos executados por cada técnico.
 
 ### Procedimento
 
@@ -116,7 +116,7 @@ Anexo
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
 
 

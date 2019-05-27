@@ -1,6 +1,7 @@
 title: Registrar las funciones vitales de la continuidad de servicio
 Description: Permite registrar la función vital. 
-#Registrar las funciones vitales de la continuidad de servicio
+# Registrar las funciones vitales de la continuidad de servicio
+
 El Registro de Continuidad es un proceso que tiene varias fases. La segunda fase de este proceso, Requerimientos y Estrategias, es donde se definen las Funciones vitales, Análisis de impacto en el negocio, Evaluación de riesgos y Estrategia de Continuidad. Esta funcionalidad permite registrar la función vital.
 La Función vital es la parte de un proceso de negoco que es crítico para el éxito del negocio.
 
@@ -74,6 +75,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço
 

@@ -1,8 +1,7 @@
 title: Display and search for the tags in the knowledge portal
-
 Description: This document is intended to inform how to create and search knowledge with tags.
+# Display and search for the tags in the knowledge portal
 
-#Display and search for the tags in the knowledge portal
 Tags are keywords (relevant) or terms associated to an information, topic or discussion that you want to index explicitly in the system in order to facilitate the search of the content you want.
 This document is intended to inform how to create and search knowledge with tags.
 
@@ -47,6 +46,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 

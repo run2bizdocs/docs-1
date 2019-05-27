@@ -1,6 +1,6 @@
 title: Aplicación Neuro
 Description: Aplicación Neuro
-#Aplicación Neuro
+# Aplicación Neuro
 
 
 
@@ -42,6 +42,6 @@ Figura 1 - Aplicación Neuro
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins
 

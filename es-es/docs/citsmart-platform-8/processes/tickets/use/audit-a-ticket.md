@@ -1,6 +1,7 @@
 title:  Auditar ticket 
 Description: Permite la auditoria de los tickets creados.
-#Auditar ticket
+# Auditar ticket
+
 La funcionalidad permite la auditoria de los tickets creados.
 
 Antes de empezar
@@ -48,5 +49,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

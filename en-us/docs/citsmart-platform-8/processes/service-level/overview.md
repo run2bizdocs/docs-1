@@ -16,8 +16,6 @@ action to correct and improve the service level delivered.
 Use
 -------
 
-- [Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
-
 - [Service level agreement](/en-us/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
 
 - [Contract evaluation](/en-us/citsmart-platform-8/processes/service-level/use/contract-evaluation.html)
@@ -35,6 +33,8 @@ Configuration
 
 - [Register priority](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
+- [Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+
 Report
 ----------
 
@@ -42,5 +42,5 @@ Report
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

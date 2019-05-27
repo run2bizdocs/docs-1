@@ -27,8 +27,12 @@ Configuration
 
 - [Register software blacklist](/en-us/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
 
-- [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+- [Create connection to remote access server](/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
+- [Create child configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+
+- [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+ 
 Use
 -------
 
@@ -43,8 +47,6 @@ Use
 - [Link calendar to group of configuration item](/en-us/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
 - [Link service level agreement to CI group](/en-us/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
-
-- [Create child configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
 - [Run script of the configuration item](/en-us/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
@@ -75,7 +77,7 @@ Report
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço
 
 

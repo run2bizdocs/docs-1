@@ -1,6 +1,6 @@
 title: Register change justification
 Description: It's intended to regisater the change justification
-#Register change justification
+# Register change justification
 
 This functionality is intended to register the change justification that will be used in others system routines.
 
@@ -19,5 +19,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

@@ -1,6 +1,6 @@
 title: Register Inventory manager
 Description: Register and maintain the managers who will be responsible for the occurrences of events captured from CITSmart Inventory.
-#Register Inventory manager
+# Register Inventory manager
 
 The purpose of this functionality is to register and maintain the managers who
 will be responsible for the occurrences of events captured from CITSmart
@@ -54,5 +54,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

@@ -31,6 +31,10 @@ Configuración
 
 - [Registrar parametrización - configuración](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
+- [Crear elemento de configuración secundario](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+
+- [Crear conexión con el servidor de acceso remoto](/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
+
 Uso
 -------
 
@@ -46,8 +50,6 @@ Uso
 
 - [Vincular acuerdo de nivel de servicio al grupo de EC](/es-es/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Crear elemento de configuración secundario](/es-es/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
-
 - [Ejecutar script del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
 
 - [Registrar costo por hora de indisponibilidad](/es-es/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
@@ -56,13 +58,13 @@ Uso
 
 - [Comprobar procesos relacionados al elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/CI-processes-related.html)
 
-- [Vincular atributos de demanda al IC](/es-es/citsmart-platform-8/processes/configuration/use/link-demand-attributes-to-CI.html)
+- [Vincular atributos de demanda al EC](/es-es/citsmart-platform-8/processes/configuration/use/link-demand-attributes-to-CI.html)
 
 - [Hacer análisis de impacto del elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/configuration-item-impact.html)
 
 - [Comprobar el historial de elementos de configuración](/es-es/citsmart-platform-8/processes/configuration/use/CI-history.html)
 
-- [Comprobar estado de ejecución del invatio del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
+- [Comprobar estado de ejecución del inventario del EC](/es-es/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
 
 - [Verificar elementos de configuración capturados por lo Inventory (agente)](/es-es/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
 
@@ -78,7 +80,7 @@ Informe
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 
 

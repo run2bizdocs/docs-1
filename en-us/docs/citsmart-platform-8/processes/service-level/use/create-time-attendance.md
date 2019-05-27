@@ -19,7 +19,7 @@ Procedure
 1.  Access the functionality Time of Attendance through the main menu Processes
     \> Service Level Management \> Attendance Time;
 
-2.  Set the type of attendance time and click on the corresponding tab:
+2.  Set the type of attendance time and click on the corresponding tab;
 
 3.  Complete all mandatory field in **Basic Data**;
 
@@ -27,6 +27,12 @@ Procedure
 
         Indicate in the attribute "Impact/Urgency Change", if it'll be allowed the 
         change of Impact and/or Urgency.
+        
+    !!! Warning "ATTENTION"
+    
+        If the attendance time does not allow the change of impact and urgency, the 
+        system automatically replaces what is sent via WebService to the impact, 
+        urgency, priority and time of attendance defined in this register.
 
 4.  In **Time of Attendance per Priority**, set the service time of attendance,
     taking into consideration the priority. The priority is used to identify the
@@ -75,5 +81,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

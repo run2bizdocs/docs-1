@@ -1,6 +1,6 @@
 title: Registrar plan de reversión del cambio
 Description: Permite registrar el plan de reversión 
-#Registrar plan de reversión del cambio
+# Registrar plan de reversión del cambio
 
 Esta funcionalidad propicia registrar el plan de reversión del cambio, que permite que los servicios vuelvan a su estado inicial en caso de fracaso en la implementación del cambio.
 
@@ -26,7 +26,7 @@ Procedimiento
     tareas, y otros. También es permitido vincular un cuadro ya creado al hacer clic 
     en el otro botón relacionado al “Workspace”.
 
-4.  Aún es posible vincular acciones, notificaciones, conocimientos y anexos de adjuntos para detallar la ejecución del cambio. Para         ello, es necesario hacer clic sobre en la pestaña disponible, seleccione el elemento deseado para vincularlo al cambio.
+4.  Aún es posible vincular acciones, notificaciones, conocimientos y anexos de adjuntos para detallar la ejecución del cambio. Para ello, es necesario hacer clic sobre en la pestaña disponible, seleccione el elemento deseado para vincularlo al cambio.
 
     !!! Abstract "NOTA"
     
@@ -42,10 +42,10 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar cambio](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

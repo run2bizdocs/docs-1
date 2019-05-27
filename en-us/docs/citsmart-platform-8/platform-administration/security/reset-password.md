@@ -1,6 +1,6 @@
 title: Configure service to change password
 Description: Changing the user password is one of the possibilities allowed by the system.  
-#Configure service to change password
+# Configure service to change password
 
 The alternative to change users password is one of the possibilities released by the system. To configure this option, it's necessary to follow the procedures described here.
 
@@ -46,7 +46,7 @@ To test the service to change the password, access the login page, click on "For
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
 [1]:/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html

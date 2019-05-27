@@ -1,6 +1,6 @@
 title:  Registrar ticket relacionado 
 Description: Permite registrar un ticket con actividades relacionadas al ticket original.
-#Registrar ticket relacionado
+# Registrar ticket relacionado
 
 En el ticket relacionado sólo es posible crear una sub-solicitud a través de la solicitud original y visualizarla después de la creación.
 
@@ -65,5 +65,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

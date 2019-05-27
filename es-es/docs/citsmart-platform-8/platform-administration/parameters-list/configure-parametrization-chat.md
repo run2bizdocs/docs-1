@@ -1,6 +1,7 @@
 title:  Configurar parametrización – chat 
 Description: Los parámetros de esta aplicación permiten activar el chat 
-#Configurar parametrización – chat
+# Configurar parametrización – chat
+
 El concepto de "Chat" se utiliza para hacer alusión al intercambio de mensajes escritos de forma instantánea. En este caso, permite al usuario tener contacto directo al asistente del sistema a fin de dirimir dudas, hacer solicitudes, entre otros. Los parámetros de esta aplicación permiten activar el chat, definir el contrato estándar para la apertura de llamados y ajustar el grupo predeterminado, dentro de otras acciones.
 
 Procedimiento
@@ -23,11 +24,11 @@ Procedimiento
 |  317  | ID de la actividad de las solicitudes creadas por el chat |                      | ID de la actividad de las solicitudes creadas por lo chat |            No se aplica           |
 |  388  |      ID de usuario predeterminado (solicitud externa)     |                      |        ID del usuario estándar (Solicitud externa)        |            No se aplica           |
 |  389  |       ID de grupo predeterminado (solicitud externa)      |                      |         ID del grupo estándar (Solicitud externa)         |            No se aplica           |
-|  390  |                ID de unidad predeterminada                |                      |                  ID de la unidad estándar                 |            No se aplica           |
+|  390  |                ID de unidad predeterminada                |                      |                  ID de la Unidad que se asignará al usuario registrado en el perfil                 |            No se aplica           |
 
 Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

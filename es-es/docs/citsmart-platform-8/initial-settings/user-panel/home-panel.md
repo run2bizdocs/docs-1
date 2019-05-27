@@ -1,5 +1,5 @@
 title: Panel Inicial
-#Panel Inicial
+# Panel Inicial
 
 El panel inicial se muestra en la pantalla principal del sistema. En este panel, es posible añadir dashboards desde una plantilla o seleccionando manualmente. En esta área también están disponibles recursos para creación de atajos (links), visualización de informes y dashboads. Hay información relevante.
 
@@ -18,7 +18,7 @@ Relacionado
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 
 

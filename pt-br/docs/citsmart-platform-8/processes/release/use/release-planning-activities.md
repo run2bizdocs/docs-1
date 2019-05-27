@@ -1,6 +1,7 @@
 title:  Atividades da fase de planejamento da liberação 
 Description: Permite planejar as atividades a serem executadas junto a liberação. 
-#Atividades da fase de planejamento da liberação
+# Atividades da fase de planejamento da liberação
+
 Esta funcionalidade permite planejar as atividades a serem executadas junto a liberação.
 
 Antes de começar
@@ -50,6 +51,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

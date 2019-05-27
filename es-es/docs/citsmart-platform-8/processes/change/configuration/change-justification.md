@@ -1,6 +1,6 @@
 title: Registrar justificación de cambio
 Description: Tiene por objetivo registrar la justificación de cambio
-#Registrar justificación de cambio
+# Registrar justificación de cambio
 
 Esta funcionalidad tiene por objetivo registrar la justificación de cambio que se utilizará en otras rutinas del sistema.
 
@@ -19,5 +19,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

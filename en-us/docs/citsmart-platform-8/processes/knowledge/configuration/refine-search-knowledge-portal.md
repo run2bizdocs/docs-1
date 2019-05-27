@@ -1,6 +1,7 @@
 title: Refine search in Knowledge Portal
 Description: Guide and suggest the best ways of search in the Knowledge Portal and in the User Guide. 
-#Refine search in Knowledge Portal
+# Refine search in Knowledge Portal
+
 This knowledge aims to guide and suggest the best ways of search in the Knowledge Portal and in the User Guide.
 
 1.  Connectors between terms (Boolean logical operator):
@@ -42,5 +43,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

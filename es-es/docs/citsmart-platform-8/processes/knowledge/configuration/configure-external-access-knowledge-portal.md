@@ -1,6 +1,6 @@
 title: Configurar acceso externo al Portal del Conocimiento
 Description: configurar la visualización de conocimientos en el Portal del Conocimiento por usuario que no tiene un login y contraseña.
-#Configurar acceso externo al Portal del Conocimiento
+# Configurar acceso externo al Portal del Conocimiento
 
 Este conocimiento tiene por finalidad configurar la visualización de
 conocimientos en el Portal del Conocimiento por usuario que no tiene un login y
@@ -75,5 +75,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

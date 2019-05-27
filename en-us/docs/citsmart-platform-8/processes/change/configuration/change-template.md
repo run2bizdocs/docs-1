@@ -1,6 +1,6 @@
 title: Register template of change
 Description: It's intended to register a template to facilitate the opening of a new change
-#Register template of change
+# Register template of change
 
 This functionality is intended to register a template to facilitate the opening of similar new changes.
 
@@ -29,5 +29,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

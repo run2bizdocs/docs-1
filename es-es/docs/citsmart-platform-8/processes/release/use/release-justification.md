@@ -1,6 +1,7 @@
 title: Registrar justificación de liberación
 Description: Tiene por objetivo registrar la justificación de liberación que será utilizada en otras rutinas del sistema 
-#Registrar justificación de liberación
+# Registrar justificación de liberación
+
 Esta funcionalidad tiene por objetivo registrar la justificación de liberación que será utilizada en otras rutinas del sistema, como por ejemplo en la suspensión de una Liberación.
 
 Procedimiento
@@ -21,6 +22,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Crear ciclo
 Description: Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final.
-#Crear ciclo
+# Crear ciclo
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los ciclos del período con fecha inicial y final, que se utilizará en el control financiero.
 
@@ -31,5 +31,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

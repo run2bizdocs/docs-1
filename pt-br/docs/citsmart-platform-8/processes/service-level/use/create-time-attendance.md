@@ -19,13 +19,17 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Nível de Serviço \> Tempo de Atendimento;
 
-2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente:
+2.  Definir o tipo de tempo de atendimento e clicar na guia correspondente;
 
 3.  Preencher os campos disponibilizados no quadro **Dados Básicos**;
 
     !!! Warning "IMPORTANTE"
     
-        Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência
+        Indique no atributo "Mudança de Impacto/Urgência" se sera permitido a mudança de Impacto e/ou Urgência.
+        
+    !!! Warning "ATENÇÃO" 
+   
+        Se o tempo de atendimento não permitir a alteração de impacto e urgência, o sistema substitui automaticamente o que for            enviado via WebService para o impacto, urgência, prioridade e tempo de atendimento definidos neste cadastro.
 
 4.  No quadro **Tempos de Atendimento por Prioridade** definir o tempo de
     atendimento dos serviços, levando em consideração a prioridade. A prioridade
@@ -74,5 +78,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

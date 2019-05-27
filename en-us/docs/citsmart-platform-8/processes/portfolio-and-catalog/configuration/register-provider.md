@@ -1,6 +1,7 @@
 title: Register provider
 Description: 
-#Register provider
+# Register provider
+
 The provider is an organization or an individual responsible for providing products or services to someone. It can be of types service provider, internal and/or external.
 This feature provides a variety of actions, such as including, changing, and deleting a provider.
 
@@ -13,7 +14,7 @@ Procedure
 -------------
 
 1.  Access the functionality Provider through the main menu Processes \>
-    Portfolio and Catalog Management \> Provider.
+    Portfolio and Catalog Management \> Provider;
 
 2.  Complete all mandatory fields;
 
@@ -29,5 +30,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

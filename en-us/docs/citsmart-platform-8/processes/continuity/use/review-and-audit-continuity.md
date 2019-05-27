@@ -1,6 +1,7 @@
 title: Review and audit service continuity
 Description: Allows to review and audit the service continuity.
-#Review and audit service continuity
+# Review and audit service continuity
+
 The Continuity Registration is a process that pass through several phases. The fourth phase of this process is the Continuous Operation, where it'll be defined the continuity Awareness (education and training), Continuity Review and Audit, Continuity Testing and Invocation. This functionality allows to review and audit the service continuity.
 
 Before getting started
@@ -91,6 +92,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 title: Notificar por correo electrónico de ticket delegado
 Description: Permite implementar la forma de envío de correo electrónico de un ticket delegado, así que los tickets delegados tendrán un modelo de correo electrónico propio que se enviará al técnico.
-#Notificar por correo electrónico de ticket delegado
+# Notificar por correo electrónico de ticket delegado
 
 Este documento permite implementar la forma de envío de correo electrónico de un
 ticket delegado, así que los tickets delegados tendrán un modelo de correo
@@ -69,5 +69,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

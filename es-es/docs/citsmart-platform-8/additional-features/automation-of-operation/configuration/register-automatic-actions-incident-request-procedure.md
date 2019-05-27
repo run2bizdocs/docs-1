@@ -1,6 +1,6 @@
 title: Registrar acciones automaticas de incidentes/solicitudes/procedimientos
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar registro de acciones automáticas del tipo incidente/solicitud/procedimiento.
-#Registrar acciones automaticas de incidentes/solicitudes/procedimientos
+# Registrar acciones automaticas de incidentes/solicitudes/procedimientos
 
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará
@@ -59,5 +59,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

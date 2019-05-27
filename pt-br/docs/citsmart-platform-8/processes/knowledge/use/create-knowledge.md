@@ -57,36 +57,36 @@ Figura 2 - Guia Opções
 
 *Opções*:
 
--   Ger. Disponibilidade: o conhecimento é referente ao Gerenciamento de
+-   **Ger. Disponibilidade**: o conhecimento é referente ao Gerenciamento de
     Disponibilidade ou não;
 
--   Direitos Autorais: o conhecimento é referente a um direito autoral ou não;
+-   **Direitos Autorais**: o conhecimento é referente a um direito autoral ou não;
 
--   Legislação: o conhecimento é referente a uma legislação ou não.
+-   **Legislação**: o conhecimento é referente a uma legislação ou não.
 
 ### Dados de Registro
 
 Na guia Cadastro, são apresentados vários campos para preenchimento, entre eles:
 
--   Título: informar o título do conhecimento;
+-   **Título**: informar o título do conhecimento;
 
--   Situação: informar a situação do documento que será registrado;
+-   **Situação**: informar a situação do documento que será registrado;
 
--   Privacidade: definir a privacidade do conhecimento;
+-   **Privacidade**: definir a privacidade do conhecimento;
 
--   Confidencial: apenas o autor do conhecimento e o administrador da pasta terá
+-   **Confidencial**: apenas o autor do conhecimento e o administrador da pasta terá
     acesso ao conhecimento;
 
--   Público: todas as pessoas terão acesso ao conhecimento, mesmo àqueles que
+-   **Público**: todas as pessoas terão acesso ao conhecimento, mesmo àqueles que
     não têm permissão na pasta;
 
--   Interno: somente as pessoas que têm permissão na pasta terão acesso ao
+-   **Interno**: somente as pessoas que têm permissão na pasta terão acesso ao
     conhecimento.
 
--   Data de expiração: informe a data de expiração que o conhecimento obedecerá.
+-   **Data de expiração**: informe a data de expiração que o conhecimento obedecerá.
     Quando atinge a data definida, o documento será automaticamente arquivado.
 
--   Conteúdo: descrever o texto do conhecimento:
+-   **Conteúdo**: descrever o texto do conhecimento:
 
     -   Para adicionar um link (hiperlink) ao conteúdo do conhecimento, no
         intuito de acessar um link externo, selecione uma palavra ou frase e
@@ -167,7 +167,7 @@ Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.
     cenário desconsidera a configuração de perfil de acesso e libera o acesso do
     documento a todos os usuários.
         
-    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
+    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua             publicação.  
 
 
 Relacionado
@@ -181,6 +181,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço
     

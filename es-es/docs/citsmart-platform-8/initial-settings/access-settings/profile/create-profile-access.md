@@ -1,6 +1,6 @@
 title: Crear perfil de acceso
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un perfil de acceso.
-#Crear perfil de acceso
+# Crear perfil de acceso
 
 
 El perfil de acceso define qué derechos y permisos tiene el usuario del sistema.
@@ -35,5 +35,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

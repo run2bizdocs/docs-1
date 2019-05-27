@@ -1,6 +1,6 @@
 title: Create calendar
 Description: Provides a variety of actions, such as including, changing, and deleting calendars (scales) of working day.
-#Create calendar
+# Create calendar
 
 This feature provides a variety of actions, such as including, changing, and
 deleting calendars (scales) of working day.
@@ -34,5 +34,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

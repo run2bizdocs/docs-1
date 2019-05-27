@@ -1,6 +1,6 @@
 title: Registrar característica
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar las características del Elemento de Configuración (EC).
-#Registrar característica
+# Registrar característica
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar las
 características del Elemento de Configuración (EC).
@@ -18,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

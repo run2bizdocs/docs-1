@@ -1,6 +1,6 @@
 title: Configure parametrization - chat
 Description: Allow to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
-#Configure parametrization - chat
+# Configure parametrization - chat
 
 The notion of "Chat" is used to allude to the exchange of written messages of
 instantaneous form. In this case, it allows the user to have the right contact
@@ -28,12 +28,12 @@ Procedure
 | 317 | Activity ID of requests created by chat |                 | Activity ID of requests created by chat |    Not applicable   |
 | 388 |    Default user ID (External request)   |                 |    Default user ID (External request)   |    Not applicable   |
 | 389 |   Default group ID (External request)   |                 |   Default group ID (External request)   |    Not applicable   |
-| 390 |             Default unit ID             |                 |             Default unit ID             |    Not applicable   |
+| 390 |             Default unit ID             |                 | Unit ID that will be assigned to the user registered in the profile |    Not applicable   |
 
 Table 1 - Parameters list
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Anna Martins

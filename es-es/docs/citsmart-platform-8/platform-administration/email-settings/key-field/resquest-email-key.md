@@ -1,6 +1,7 @@
 title: Campos clave de los correos electrónicos de solicitud
 Description: Tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro del modelo de correo electrónico de la Solicitud de servicio.
-#Campos clave de los correos electrónicos de solicitud
+# Campos clave de los correos electrónicos de solicitud
+
 Este documento tiene el objetivo de proporcionar la relación de los campos clave disponibles para el registro del modelo de correo electrónico de la Solicitud de servicio.
 
 Relación de los Campos Clave
@@ -52,6 +53,6 @@ Tabla 1 - Lista de campos clave
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

@@ -1,6 +1,7 @@
 title: Search configuration item
 Description: It is allowed to perform IC queries in various ways in the search field.
-#Search configuration item
+# Search configuration item
+
 In the Configuration Item Management screen, it is allowed to perform IC queries in various ways in the search field.
 
 !!! Abstract "NOTE"  
@@ -67,6 +68,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

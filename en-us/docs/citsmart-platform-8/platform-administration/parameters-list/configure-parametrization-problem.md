@@ -1,6 +1,6 @@
 title: Configure parametrization - problem
 Description: Allow the execution/use of this process, it may be possible to define the default flow name for the problem, to define whether the responsible party and the executing group will be notified when the time to workaround the problem has expired , among other viable actions.
-#Configure parametrization - problem
+# Configure parametrization - problem
 
 
 Problem management manages the lifecycle of all problems from the first
@@ -43,5 +43,5 @@ Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

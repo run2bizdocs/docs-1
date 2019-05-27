@@ -1,6 +1,6 @@
 title: Customize management panel (Smart Decision)
 Description: It's possible to add dashboards from a template or selecting manually.
-#Customize management panel (Smart Decision)
+# Customize management panel (Smart Decision)
 
 The management panel in the system main screen. In this panel, it's possible to
 add dashboards from a template or selecting manually. In this area, it's also
@@ -20,7 +20,7 @@ the tool manager.
 Procedure
 -------------
 
-*Use a template to customize the user panel*
+***Use a template to customize the user panel***
 
 1.  To view the templates available, click on the “Show/Hide menu” icon;
 
@@ -32,7 +32,7 @@ Procedure
 
 4.  To delete a dashboard, click on the “Remove dashboard” icon.
 
-*Enter elements manually*
+***Enter elements manually***
 
 1.  To add elements with links, smart reports or widgets, click on the “Enable
     edit mode” icon and then on “Add new widget” icon:
@@ -57,7 +57,7 @@ Procedure
 
     + *Widgets*:
 
-       + choose the type widget that will be in the management panel.
+        + choose the type widget that will be in the management panel.
 
 2.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
@@ -73,5 +73,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

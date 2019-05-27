@@ -47,11 +47,11 @@ Relacionado
 
 [Cadastrar justificativa de solicitação](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

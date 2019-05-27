@@ -1,6 +1,7 @@
 title:  Registrar atributo de la demanda 
 Description: Tiene el objetivo de registrar los atributos de la demanda que serán vinculados a los Servicios y Elementos de Configuración (EC). 
-#Registrar atributo de la demanda
+# Registrar atributo de la demanda
+
 Esta funcionalidad tiene el objetivo de registrar los atributos de la demanda que serán vinculados a los Servicios y Elementos de Configuración (EC).
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un atributos de la demanda.
 
@@ -18,5 +19,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

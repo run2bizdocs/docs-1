@@ -1,6 +1,6 @@
 title: Generar informes - gestión de eventos
 Description: Presentar las ocurrencias de eventos que se almacenaron en la base de datos de eventos (MongoDB).
-#Generar informes - gestión de eventos
+# Generar informes - gestión de eventos
 
 Este informe tiene el objetivo de presentar las ocurrencias de eventos que se
 almacenaron en la base de datos de eventos (MongoDB).
@@ -19,5 +19,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Refinar pesquisas no Portal do Conhecimento
 Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
-# Principais recursos utilizados na busca
+# Refinar pesquisa no Portal de Conhecimento
 
 Este conhecimento tem por objetivo orientar e sugerir as melhores maneiras de se
 realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
@@ -45,5 +45,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

@@ -1,6 +1,6 @@
 title:  Registrar acción automatica de notificación 
 Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar acciones automáticas de notificación. 
-#Registrar acción automatica de notificación
+# Registrar acción automatica de notificación
 
 Esta funcionalidad tiene como objetivo registrar acciones automáticas de notificación. La notificación formaliza y comunica información sobre el evento y es importante que la información sobre un evento sea descrita y completada para facilitar posteriormente la toma de decisión. Este registro será asociado a las acciones automáticas, y será usado en los registros de gerentes de eventos del CITSmart Nagios, Zabbix, Inventory y Eventos Correlacionados.
 
@@ -42,5 +42,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

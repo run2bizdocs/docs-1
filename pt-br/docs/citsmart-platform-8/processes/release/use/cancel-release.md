@@ -1,6 +1,7 @@
 title: Cancelar a liberação
 Description: Permite cancelar a liberação. 
-#Cancelar a liberação
+# Cancelar a liberação
+
 Esta funcionalidade permite cancelar a liberação.
 
 Antes de começar
@@ -33,6 +34,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

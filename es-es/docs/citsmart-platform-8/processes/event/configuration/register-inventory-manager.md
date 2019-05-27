@@ -1,6 +1,6 @@
 title: Registrar gerente Inventory
 Description: Registrar y mantener a los gerentes que serán responsables de las ocurrencias de eventos capturados a partir del CITSmart Inventory.
-#Registrar gerente Inventory
+# Registrar gerente Inventory
 
 El objetivo de esta funcionalidad es registrar y mantener a los gerentes que
 serán responsables de las ocurrencias de eventos capturados a partir del
@@ -55,5 +55,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

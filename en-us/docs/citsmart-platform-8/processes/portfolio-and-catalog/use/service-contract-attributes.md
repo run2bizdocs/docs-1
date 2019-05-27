@@ -1,6 +1,6 @@
 title: Configure service contract attributes
 Description: Configures the attributes of both the Business/IT Service Agreement and the Support/Technical Service Agreement.
-#Configure service contract attributes
+# Configure service contract attributes
 
 The Portfolio management module allows flexible management of services, so it's possible to link one or more contracts to a specific service (multi-contract). This feature makes it possible to meet different requirements for the same service, so it's possible to have different service flows, SLA, operating conditions, etc. 
 
@@ -52,5 +52,5 @@ can be accessed in the document "Link activities to service contract".
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Anna Martins

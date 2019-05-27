@@ -1,6 +1,7 @@
 title: Importar datos de indicador de capacidad
 Description:Ttiene el objetivo de importar datos de indicadores de capacidad/rendimiento. 
-#Importar datos de indicador de capacidad
+# Importar datos de indicador de capacidad
+
 Esta funcionalidad tiene el objetivo de importar datos de indicadores de capacidad/rendimiento.
 
 Procedimiento
@@ -23,5 +24,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

@@ -1,6 +1,7 @@
 title: Run script
 Description: The purpose is to maintain the scripts registration to its execution in the system.
-#Run script
+# Run script
+
 The purpose is to maintain the scripts registration to its execution in the system.
 
 Procedure
@@ -29,6 +30,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

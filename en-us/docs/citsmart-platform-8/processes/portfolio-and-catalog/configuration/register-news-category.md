@@ -1,6 +1,7 @@
 title: Register news category
 Description: 
-#Register news category
+# Register news category
+
 This functionality is intended to register the categories to the news organization that will be published in the Smart Portal.
 This feature provides various actions, such as including, changing and deleting news category.
 
@@ -21,5 +22,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

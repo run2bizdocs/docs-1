@@ -1,6 +1,6 @@
 title: Register domain
 Description: Intended to register the domain to insert new domain items, that is, new options in the field of a certain system screen.
-#Register domain
+# Register domain
 
 The Domain functionality is intended to register the domain to insert new domain
 items, that is, new options in the field of a certain system screen. To use it,
@@ -23,5 +23,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

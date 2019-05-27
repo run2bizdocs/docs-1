@@ -1,6 +1,7 @@
 title: Configure external access to the knowledge portal
 Description: Configure and view the knowledge in the Knowledge Portal by user that doesn't have a login and password.
-#Configure external access to the knowledge portal
+# Configure external access to the knowledge portal
+
 This knowledge is intended to configure and view the knowledge in the Knowledge Portal by user that doesn't have a login and password.
 
 
@@ -70,5 +71,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

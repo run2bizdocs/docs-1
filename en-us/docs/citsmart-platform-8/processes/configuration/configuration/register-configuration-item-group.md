@@ -1,6 +1,6 @@
 title: Register configuration item group
 Description: Provides a variety of actions, such as including, changing, and deleting groups of configuration item.
-#Register configuration item group
+# Register configuration item group
 
 
 This feature provides a variety of actions, such as including, changing, and
@@ -20,5 +20,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

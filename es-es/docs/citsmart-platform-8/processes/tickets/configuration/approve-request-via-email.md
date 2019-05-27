@@ -19,6 +19,12 @@ Aprobación", y el servidor de correo electrónico deberá ser configurado con
 todos los parámetros referentes a las reglas de parametrización de correo
 electrónico.
 
+!!! Abstract "ATENCIÓN"
+
+    La aprobación de ticket vía correo electrónico será posible sólo con los 
+    siguientes navegadores configurados por defecto: Mozilla Firefox, Google 
+    Chrome y Microsoft Edge a partir de la versión 42.17134.1.0.
+
 Procedimiento
 -----------------
 
@@ -70,7 +76,7 @@ Relacionado
 
 [Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Flujo de trabajo](/es-es/citsmart-platform-8/workflow/overview.html)
 
 [Configurar parametrización - correo eletronico](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
@@ -85,8 +91,8 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/images/aprobacion.docx
+[1]:/es-es/citsmart-platform-8/processes/tickets/images/aprobacion.docx

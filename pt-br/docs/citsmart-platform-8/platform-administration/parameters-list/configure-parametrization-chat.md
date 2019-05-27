@@ -1,6 +1,6 @@
 title: Configurar parametrização - chat
 Description: Permite o usuário ter contato direto ao atendente do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros.
-#Configurar parametrização - chat
+# Configurar parametrização - chat
 
 A noção de "Chat" é usada para fazer alusão à troca de mensagens escritas de
 forma instantânea. Neste caso, permite o usuário ter contato direto ao atendente
@@ -29,7 +29,7 @@ Procedimento
 | 317 | ID da atividade das solicitações criadas pelo chat |                   | ID da atividade das solicitações criadas pelo chat |        Não se aplica       |
 | 388 |       ID usuário padrão (Requisição externa)       |                   |       ID usuário padrão (Requisição externa)       |        Não se aplica       |
 | 389 |        ID grupo padrão (Requisição externa)        |                   |        ID grupo padrão (Requisição externa)        |        Não se aplica       |
-| 390 |                ID da unidade padrão                |                   |                ID da unidade padrão                |        Não se aplica       |
+| 390 |                ID da unidade padrão                |                   |               ID  da Unidade que será atribuido ao usuário cadastrado no profile              |        Não se aplica       |
 
 
 
@@ -37,5 +37,5 @@ Tabela 1 - Lista de parâmetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

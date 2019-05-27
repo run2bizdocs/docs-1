@@ -1,6 +1,6 @@
 title: Objeto de Negocio
 Description:Objeto de Negocio
-#Objeto de Negocio
+# Objeto de Negocio
 
 
 Los Objetos de Negocio son los vínculos entre el Neuro y una Entidad de Datos de
@@ -19,7 +19,7 @@ Es necesario tener creado la Conexión BD y la Aplicación Neuro.
 
 1.  Acceder al menú de navegación Neuro > Administración > Objeto de Negocio;
 
-2.  Hacer clic en “Registro
+2.  Hacer clic en “Registro";
 
 3.  Completar los campos disponibles en “Identificación”;
 
@@ -40,13 +40,13 @@ Es necesario tener creado la Conexión BD y la Aplicación Neuro.
 
 2.  Completar las informaciones con:
 
-    1.  La Conexión de Base creada,
+    1.  La Conexión de Base creada
 
-    2.  Nombre del Esquema de la base de datos,
+    2.  Nombre del Esquema de la base de datos
 
-    3.  El Tipo, si es tabla o view, y 
+    3.  El Tipo, si es tabla o view 
 
-    4.  Nombre en la Base de Datos del objeto de negocio.
+    4.  Nombre en la Base de Datos del objeto de negocio
     
 
 ![business](images/neuro-10.jpg)
@@ -119,7 +119,6 @@ Figura 5 - Relación
 
 1.	Seleccionar la Regla de Negocio asignada para insertar, cambiar o eliminar la acción en el Objeto de Negocio  
 
-
 ![business](images/neuro-14.jpg)
 
 Figura 6 - Reglas de negocio
@@ -150,11 +149,11 @@ Figura 7 - SQL
 
     Figura 9 - Grid
 
-2.	Al hacer clic en Editar formulario, en el encabezado de la pantalla, generará un formulario para ese objeto de negocio. Si no hay un formulario para este objeto de negocio, aparecerá la barra lateral Campos. Si ya hay un formulario registrado anteriormente vinculado a este formulario, la guía Dibujar Pantalla para este formulario se abrirá.
+2.	Al hacer clic en "Editar" formulario, en el encabezado de la pantalla, generará un formulario para ese objeto de negocio. Si no hay un formulario para este objeto de negocio, aparecerá la barra lateral Campos. Si ya hay un formulario registrado anteriormente vinculado a este formulario, la guía Dibujar Pantalla para este formulario se abrirá.
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  
 

@@ -1,6 +1,7 @@
 title: Register impact analysis in the continuity business
 Description: Allows to register the business impact analysis. 
-#Register impact analysis in the continuity business
+# Register impact analysis in the continuity business
+
 The Continuity Registration is a process that pass through several phases. The second phase of this process, called Requirements and Strategies, where it'll be set the vital Functions, business impact analysis, risks evaluation and continuity strategy. This functionality allows to register the business impact analysis.
 
 Before getting started
@@ -75,6 +76,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

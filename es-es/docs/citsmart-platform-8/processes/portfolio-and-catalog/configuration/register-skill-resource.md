@@ -1,6 +1,6 @@
 title: Registrar habilidad/recurso
 Description: Ofrece acciones diversas, tales como, incluir, alterar y borra las habilidades de los colaboradores.
-#Registrar habilidad/recurso
+# Registrar habilidad/recurso
 
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y
@@ -37,6 +37,6 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins
 

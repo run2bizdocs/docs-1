@@ -1,6 +1,6 @@
 title: Configure BI solution (Smart Analytics) via Docker
 Description: This document is intended to configure the BI in the CITSmart instance.
-#Configure BI solution (Smart Analytics) via Docker
+# Configure BI solution (Smart Analytics) via Docker
 
 CITSmart Analytics is a solution of Business Intelligence (BI) for analyzing the data
 from CITSmart. The BI solution uses resources of the tools [Saiku
@@ -17,7 +17,7 @@ The user must have Docker previously installed.
 Procedure
 ------------
 
-*Installation*
+***Installation***
 
 1.  Download citBI in:
 
@@ -92,7 +92,7 @@ Verify log of container:
 docker logs -f citBI
 ```
 
-*Configuration*
+***Configuration***
 
 1.  Access the Saiku as a manager:
 
@@ -106,7 +106,7 @@ docker logs -f citBI
 
     jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
 
-*Useful commands: box*
+***Useful commands: box***
 
 1.  Verify active containers:
 
@@ -140,7 +140,7 @@ Parametrization \> CITSmart Parameters;
 
 2. Detais of the parameters:
 
-    -   401: URL os Saiku server
+    -   401: URL of Saiku server
 
     Example: http://127.0.0.1:8282
 
@@ -159,5 +159,5 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

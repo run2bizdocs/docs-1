@@ -1,6 +1,7 @@
 title:  Programar actividad del ticket 
 Description: Permite programar actividades a partir del ticket. 
-#Programar actividad del ticket
+# Programar actividad del ticket
+
 La funcionalidad permite programar actividades a partir del ticket.
 
 Antes de empezar
@@ -34,6 +35,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
 

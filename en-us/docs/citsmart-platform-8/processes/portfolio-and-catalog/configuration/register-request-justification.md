@@ -1,6 +1,7 @@
 title: Register request justification
 Description: 
-#Register request justification
+# Register request justification
+
 This feature provides a variety of actions, such as including, changing, and deleting the services request justification.
 
 Procedure
@@ -25,5 +26,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

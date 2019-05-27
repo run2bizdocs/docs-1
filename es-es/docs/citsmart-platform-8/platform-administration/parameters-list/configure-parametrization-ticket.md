@@ -1,6 +1,7 @@
 title: Configurar parametrización – ticket
 Description: Es necesario algunos ajustes de parámetros que permiten acciones de la gestión de ticket.
-#Configurar parametrización – ticket
+# Configurar parametrización – ticket
+
 Para la entrega de servicios, es necesario algunos ajustes de parámetros que permiten acciones de la gestión de ticket, como por ejemplo, el flujo estándar, la fase en que la solicitud de servicio al ser registrada será dirigida, entre muchas otras.
 
 Procedimiento
@@ -89,5 +90,5 @@ Tabla 1 - Lista de parámetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

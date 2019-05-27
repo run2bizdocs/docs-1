@@ -1,6 +1,6 @@
 title: Registrar grupos de suscripciones
 Description: Permite registrar los grupos de suscripción que serán impresos en los informes.
-#Registrar grupos de suscripciones
+# Registrar grupos de suscripciones
 
 
 Esta funcionalidad permite registrar los grupos de suscripción que serán
@@ -33,5 +33,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

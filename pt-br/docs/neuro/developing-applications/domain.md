@@ -1,6 +1,6 @@
 title: Domínio
 Description: Domínio
-#Domínio
+# Domínio
 
 Neuro permite definir domínios que serão utilizados por todas as aplicações da instituição. O identificador (Key) agrupa os itens do Domínio.
 
@@ -33,5 +33,5 @@ Figura 2 - Cadastrar domínio
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

@@ -1,6 +1,6 @@
 title: Registrar condición de operación
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar la disponibilidad de la operación de servicios.
-#Registrar condición de operación
+# Registrar condición de operación
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar la
@@ -22,5 +22,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

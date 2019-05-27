@@ -1,6 +1,6 @@
 title: Configure parametrization - change
 Description: Process responsible for evaluating, coordinating and deciding on making proposed changes to the Services and/or Configuration Items (CIs).
-#Configure parametrization - change
+# Configure parametrization - change
 
 Change Management is the process responsible for evaluating, coordinating and
 deciding on making proposed changes to the Services and/or Configuration Items
@@ -37,13 +37,11 @@ Procedure
 
 
 
-
-
 Table 1 - Parameters list
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Anna Martins
 

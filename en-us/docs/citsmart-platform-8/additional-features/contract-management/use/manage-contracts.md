@@ -1,6 +1,7 @@
 title: Manage contracts
 Description: This process allows to verify, add and delete services, as well as having links to the creation of WO, invoice and notification.
-#Manage contracts
+# Manage contracts
+
 The contract management is used to manage the contracts already registered in the system. This process allows to verify, add and delete services, as well as having links to the creation of WO, invoice and notification.
 
 Before getting started
@@ -463,6 +464,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

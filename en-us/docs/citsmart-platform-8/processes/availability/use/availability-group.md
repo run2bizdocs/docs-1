@@ -1,7 +1,8 @@
 title: Verify availability of availability group
 
 Description: Is intended to verify the availability group.
-#Verify availability of availability group
+# Verify availability of availability group
+
 This functionality is intended to verify the availability group.
 
 Before getting started
@@ -51,6 +52,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

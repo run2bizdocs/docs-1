@@ -1,7 +1,6 @@
 title: Registrar proceso de negocio
 Description: Contribuirá a la entrega de un producto o servicio a los clientes.
-#Registrar proceso de negocio
-
+# Registrar proceso de negocio
 
 El proceso de negocio contribuirá a la entrega de un producto o servicio a los
 clientes. Por ejemplo: un comerciante puede tener un proceso de compra que le
@@ -47,12 +46,12 @@ Relacionado
 
 [Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Mantenimiento del flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

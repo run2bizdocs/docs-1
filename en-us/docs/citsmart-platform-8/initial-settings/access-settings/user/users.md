@@ -1,6 +1,7 @@
 title: Register user
 Description: This feature provides a variety of actions, such as including, changing, and deleting an user. 
-#Register user
+# Register user
+
 In order for the employee to be able to access the system, it's necessary to create an user that will receive the credentials to access the system and determine the profile access.
 This feature provides a variety of actions, such as including, changing, and deleting an user.
 
@@ -29,6 +30,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

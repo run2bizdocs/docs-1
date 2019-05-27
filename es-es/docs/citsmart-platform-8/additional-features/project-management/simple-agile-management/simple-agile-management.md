@@ -3,7 +3,7 @@ Title: Gestión ágil Simple
 # Gestión ágil Simple
 
 
-Simple es una funcionalidad de CITSmart Platform que permite la gestión fácil
+Simple es una funcionalidad de CITSmart que permite la gestión fácil
 y ágil de actividades. Fue creado para gestionar los proyectos de manera
 más simple, con recursos para organizar, monitorear y delegar las actividades
 entre los miembros de su equipo o individualmente.
@@ -18,7 +18,7 @@ llamados Sprint) y por fin las tareas, que pueden estar en grupos de tarjetas.
 Procedimiento
 ------------
 
-*I - Crear Workspace*
+***I - Crear Workspace***
 
 1.  Acceder al menú principal Gestión Integrada \>
     Simple – Gestión Ágil;
@@ -36,7 +36,7 @@ Procedimiento
     -   Total: suma de las **Sprints** que están dentro del Workspace.
 
 
-*II - Crear Sprint*
+***II - Crear Sprint***
 
 1.  Hacer clic en el Workspace creado anteriormente;
 
@@ -82,7 +82,7 @@ Figura 1 - Pantalla Sprint
    -   **5**: acciones de configuración y permiso de la Sprint
 
 
-*III - Crear listas*
+***III - Crear listas***
 
 1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para hacer, En curso y concluido";
 
@@ -107,7 +107,7 @@ Figura 1 - Pantalla Sprint
 
     -   **8**: archivar lista de tareas
 
-*IV - Crear tareas*
+***IV - Crear tareas***
 
    ![pantalla tarea](images/figure-3-simple.png)
     
@@ -124,7 +124,7 @@ Figura 1 - Pantalla Sprint
 
     Para mover una **tarea** de una lista a otra, hacer clic y arrastrar para la lista deseada.
 
-*V - Completar tarjeta Simple*
+***V - Completar tarjeta Simple***
 
 La tarjeta Simple contiene campos y botones para describir una tarea/acción con
 planificación y control de fechas, horarios, checklist y diversos otros
@@ -139,7 +139,7 @@ dispositivos de control y gestión.
 
     -   **1**: agregar o eliminar miembros en la tarea
 
-    -   ****: agregar listas de acciones que serán vistas en la pestaña Checklist
+    -   **2**: agregar listas de acciones que serán vistas en la pestaña Checklist
 
     -   **3**: agregar comentarios
 
@@ -148,7 +148,7 @@ dispositivos de control y gestión.
     -   **5**: agregar tags para identificar visualmente la tarjeta de tarea
 
     -   **6**: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
-    comunicación será a través del botón de notificaciones del CITSmart Platform
+    comunicación será a través del botón de notificaciones del CITSmart
 
     -   **7**: indicar la finalización de la tarea
 
@@ -171,7 +171,7 @@ dispositivos de control y gestión.
 
 5.  Las pestañas disponibles presentan:
 
-    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar         elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento           dentro de un checklist, seleccione el checkbox;
+    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento dentro de un checklist, seleccione el checkbox;
 
     -   Comentarios: lista los comentarios hechos;
 
@@ -187,5 +187,5 @@ dispositivos de control y gestión.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Anna Martins

@@ -1,6 +1,7 @@
 title:  Evaluación del proveedor 
 Description: Es posible verificar gráficamente el desempeño del proveedor por servicio registrado.
-#Evaluación del proveedor
+# Evaluación del proveedor
+
 Con la gestión de nivel de servicio, es posible verificar gráficamente el desempeño del proveedor por servicio registrado.
 
 Antes de empezar
@@ -30,5 +31,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

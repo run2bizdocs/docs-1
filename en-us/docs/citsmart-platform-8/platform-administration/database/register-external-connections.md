@@ -1,6 +1,6 @@
 title: Register external connections
 Description: Intended to allow the connection creation with other database, being internal or external.
-#Register external connections
+# Register external connections
 
 This functionality is intended to allow the connection creation with other
 database, being internal or external.
@@ -29,6 +29,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins
 

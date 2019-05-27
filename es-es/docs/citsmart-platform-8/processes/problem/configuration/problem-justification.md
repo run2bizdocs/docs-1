@@ -1,6 +1,6 @@
 title: Registrar justificación del problema
 Description: Tiene por objetivo registrar las justificaciones de los problemas que serán utilizadas en otras rutinas del sistema
-#Registrar justificación del problema
+# Registrar justificación del problema
 
 Esta funcionalidad tiene por objetivo registrar las justificaciones de los problemas que serán utilizadas en otras rutinas del sistema.
 
@@ -18,5 +18,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

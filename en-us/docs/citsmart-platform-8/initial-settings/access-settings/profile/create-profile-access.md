@@ -1,6 +1,6 @@
 title: Create profile access
 Description: Defines which rights and permissions the user have in the system.
-#Create profile access
+# Create profile access
 
 The profile access defines which rights and permissions the user have in the
 system.
@@ -35,5 +35,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

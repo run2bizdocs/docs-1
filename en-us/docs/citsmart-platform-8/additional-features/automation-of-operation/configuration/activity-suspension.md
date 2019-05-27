@@ -1,6 +1,7 @@
 title: Register reason for activity suspension
 Description: This feature provides a variety of actions, such as including, changing, and deleting the reasons for the periodic activity suspension.
-#Register reason for activity suspension
+# Register reason for activity suspension
+
 This feature provides a variety of actions, such as including, changing, and deleting the reasons for the periodic activity suspension.
 
 Procedure
@@ -15,5 +16,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

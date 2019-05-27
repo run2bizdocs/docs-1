@@ -3,7 +3,7 @@ title: Overview
 # What is CITSmart?
 
 CITSmart, developed by CITSmart Corporation®, is a **platform that conects
-people and digital resources to optimize work and increase business results.**
+people and digital resources to optimize work and increase business results**.
 
 Through the relationship portals we optimize the experience of customers and employees. 
 In addition, with the **Smart Digital Workflow** and agile management, using Kanbans, 
@@ -160,12 +160,12 @@ management practices and follows the integrative concept of Corporate
 Governance, is intended to be a source of knowledge and that can train you
 according to the needs and business model of your institution.
 
-CITSmart Platform was planned and written in order to clarify the universe of
+CITSmart was planned and written in order to clarify the universe of
 intelligent and effective management of IT services, through the unification of
 information and demands from the various components of a company making your
 day-to-day business more practical, intelligent and dynamic.
 
-CITSmart Platform solution was developed with focus on meeting the needs of Service
+CITSmart solution was developed with focus on meeting the needs of Service
 Management and Service Desk. It's possible to develop and deploy service
 management processes based on the main ITIL processes in your organization,
 supported by Pink Elephant international certification.
@@ -205,7 +205,7 @@ Why adopt it? 
 
 Agile is the new normal. Adapting quickly is almost obligatory.
 
-CITSmart Platform is designed to move departments and people in an agile concept,
+CITSmart is designed to move departments and people in an agile concept,
 without forgetting the human factor, towards the goals established by each
 organization. We believe that more than speed, the important thing is to have
 consistency in movement.

@@ -1,6 +1,7 @@
 title: Configurar campos obligatorios
 Description: El administrador es responsable de elegir qué campos serán obligatorios para que los usuarios completen.
-#Configurar campos obligatorios
+# Configurar campos obligatorios
+
 Al configurar los campos obligatorios, el administrador elegirá qué campos serán obligatorios para que los usuarios completen al comunicarse con los asistentes. Su propósito es obtener la información necesaria de los solicitantes para resolver la solicitud.
 
 Procedimiento
@@ -66,5 +67,5 @@ registrado al crear un incidente/solicitud.*
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

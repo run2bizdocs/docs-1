@@ -1,6 +1,6 @@
 title: Import capacity indicators data
 Description: Is intended to import the data about the capacity/performance indicators.
-#Import capacity indicators data
+# Import capacity indicators data
 This functionality is intended to import the data about the capacity/performance indicators.
 
 Procedure
@@ -23,6 +23,6 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

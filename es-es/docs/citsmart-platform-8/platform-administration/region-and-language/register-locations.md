@@ -1,6 +1,7 @@
 title:  Registrar localidad 
 Description: Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones 
-#Registrar localidad
+# Registrar localidad
+
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, alterar y borrar las ubicaciones en los que se asignan los solicitantes de servicios, pudiendo ser el nombre de la unidad, ciudad, nombre del órgano, etc.
 
 Procedimiento
@@ -17,7 +18,7 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço
 
 

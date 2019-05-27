@@ -1,6 +1,7 @@
 title: Registrar domínio
 Description: Tiene por objetivo permitir el registro de dominios para inserción de nuevos elementos de dominio
-#Registrar domínio
+# Registrar domínio
+
 La funcionalidad de dominio tiene por objetivo permitir el registro de dominios para inserción de nuevos elementos de dominio, o sea, nuevas opciones en el campo de una determinada pantalla del sistema. Para utilizarla, es necesario tener conocimiento sobre la codificación del sistema.
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y borrar un dominio.
 
@@ -19,5 +20,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

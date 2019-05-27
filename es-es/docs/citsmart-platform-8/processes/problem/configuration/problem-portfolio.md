@@ -1,6 +1,6 @@
 title: Crear portafolio de problema
 Description: Tiene por objetivo crear un portafolio de problemas
-#Crear un portafolio de problema
+# Crear un portafolio de problema
 
 
 Esta funcionalidad tiene por objeto crear un portafolio de problemas para agilizar la creación
@@ -29,5 +29,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

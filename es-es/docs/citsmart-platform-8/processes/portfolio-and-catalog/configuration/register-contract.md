@@ -1,6 +1,6 @@
 title: Registrar contrato
 Description: Ofrece diversas acciones, como, incluir, cambiar y borrar un contrato.
-#Registrar contrato
+# Registrar contrato
 
 
 El contrato es un acuerdo entre dos partes, que se obligan a cumplir lo
@@ -67,5 +67,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

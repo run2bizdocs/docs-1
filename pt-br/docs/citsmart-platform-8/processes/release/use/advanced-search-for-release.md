@@ -1,6 +1,7 @@
 title: Pesquisa avançada de liberações encerradas
 Description: Permite realizar a busca de requisições de liberação de acordo com os filtros definidos. 
-#Pesquisa avançada de liberações encerradas
+# Pesquisa avançada de liberações encerradas
+
 Esta funcionalidade permite realizar a busca de requisições de liberação de acordo com os filtros definidos.
 
 Procedimento
@@ -14,10 +15,7 @@ Procedimento
 
 3.  Apertar o botão de "Pesquisa avançada"
 
-4.  Preencher os filtros (período de abertura da liberação,
-    período de encerramento da liberação, número, ordenação,
-    unidade, solicitante, situação, prioridade, grupo solucionador e exibir
-    campo de descrição em relatório?) e clicar em "Pesquisa avançada";
+4.  Preencher os filtros e clicar em "Pesquisa avançada";
 
 5.  Para gerar o relatório das liberações em formato PDF, clicar no
     botão "Gerar PDF" e para gerar o relatório em formato Excel, clicar no botão
@@ -31,6 +29,6 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço
 

@@ -1,6 +1,6 @@
 Title: Variables
 Description: In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
-#Variables  
+# Variables  
 
 In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
 
@@ -18,22 +18,25 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
     * Keyword  
 
-![Screenshot](images/Variables-fig01.png)  
+![Screenshot](images/Variables-fig01.png)
+
 Figure 1 - Search screen
 
 ##Items list  
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description, Flow Application, Version**, and **Block date**.
 
-![Screenshot](images/Variables-fig02.png)    
+![Screenshot](images/Variables-fig02.png) 
+
 Figure 2 - Listing screen  
 
 ##Filling in the registration fields - variables  
 
-1. To add a new variables, choose the tab for the same and then click Add.  
+1. To add a new variables, choose the tab for the same and then click "Add".  
 2. The following screen will be displayed:  
 
-    ![Screenshot](images/Variables-fig03.png)   
+    ![Screenshot](images/Variables-fig03.png)
+    
     Figure 3 - Workflow registration / editing screen, Variables tab  
 
 3. Fill in the fields:  
@@ -55,19 +58,19 @@ Figure 2 - Listing screen
     - The initial value of the variable, whether constant or script.  
 	    - If the value is a constant, it will never be changed during the execution of the flow, regardless of the operations    performed by the user.  
 
-4. To edit a variable, select the desired variable, click Edit, make the necessary changes, and click Update to complete the edit.  
+4. To edit a variable, select the desired variable, click "Edit", make the necessary changes, and click "Update" to complete the edit.  
 
     !!! Abstract "ATTENTION"  
 
-        To save your changes effectively, click Save on the top bar. 
+        To save your changes effectively, click "Save" on the top bar. 
 
-5. To remove a variable flow, select the desired variable, click Remove, and confirm the deletion.
+5. To remove a variable flow, select the desired variable, click "Remove", and confirm the deletion.
 	
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

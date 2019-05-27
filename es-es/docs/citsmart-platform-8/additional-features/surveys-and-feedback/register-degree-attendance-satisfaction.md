@@ -1,6 +1,6 @@
 title: Registrar grado de satisfacción de la atención
 Description: Permitir la configuración del grado de satisfacción de la atención del servicio.
-#Registrar grado de satisfacción de la atención
+# Registrar grado de satisfacción de la atención
 
 
 La finalidad de esta funcionalidad es permitir la configuración del grado de
@@ -22,5 +22,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

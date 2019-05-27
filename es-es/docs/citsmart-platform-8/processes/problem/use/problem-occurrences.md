@@ -1,6 +1,6 @@
 title: Registrar ocurrencias del problema
 Description: Permite registrar eventuales ocurrencias referentes al problema
-#Registrar ocurrencias del problema
+# Registrar ocurrencias del problema
 
 Esta funcionalidad permite registrar las eventuales ocurrencias referentes al problema
 
@@ -26,6 +26,6 @@ Procedimiento
 
     !!! tip "About"
 
-        <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+        <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
         <b>Updated:</b>01/30/2019 – Larissa Lourenço
 

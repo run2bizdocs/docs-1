@@ -22,7 +22,7 @@ Procedure
 
 4.	Click on "Save” (the left Treview will be filled);
 
-5.	Create either  Business Object, Business Rules, Forms, Flows and Business Processes.(the right area will open the registration for each element (on its context);
+5.	Create either Business Object, Business Rules, Forms, Flows and Business Processes(the right area will open the registration for each element (on its context);
 
 6.	Save each one separately;
 
@@ -41,5 +41,5 @@ Figure 1 - Neuro application
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

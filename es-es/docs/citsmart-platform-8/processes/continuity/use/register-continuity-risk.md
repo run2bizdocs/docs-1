@@ -1,6 +1,7 @@
 title:  Registrar riesgo de la continuidad
 Description: Tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad.
-#Registrar riesgo de la continuidad
+# Registrar riesgo de la continuidad
+
 Esta funcionalidad tiene por objetivo registrar los riesgos que serán usados durante el registro de la Continuidad
 
 Antes de empezar
@@ -35,5 +36,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

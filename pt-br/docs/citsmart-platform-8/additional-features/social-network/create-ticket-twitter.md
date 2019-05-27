@@ -12,7 +12,7 @@ Antes de começar
 Procedimento 
 -------------
 
-1.  É necessário seguir a página CITSmart no Twitter;
+1.  É necessário seguir a página CITSmart no Twitter;  
 
 2.  Clicar no ícone “Mensagem” nesta página;
 
@@ -35,5 +35,5 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

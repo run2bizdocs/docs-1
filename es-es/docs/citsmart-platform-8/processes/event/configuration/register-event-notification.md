@@ -1,6 +1,6 @@
 title: Registrar evento de notificación
 Description: Establecer cuáles son las reglas que definir un evento de notificación.
-#Registrar evento de notificación
+# Registrar evento de notificación
 
 Esta funcionalidad tiene por objetivo establecer cuáles son las reglas que
 definir un evento de notificación, es decir, configurar la notificación que será
@@ -55,5 +55,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

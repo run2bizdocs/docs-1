@@ -1,6 +1,7 @@
 title:  Atividades da fase de implantação da liberação 
 Description: Permite planejar as atividades a serem implementadas junto a liberação 
-#Atividades da fase de implantação da liberação
+# Atividades da fase de implantação da liberação
+
 Esta funcionalidade permite planejar as atividades a serem implementadas junto a liberação semelhantemente ao que ocorre na fase de Planejamento da Liberação.
 
 Antes de começar
@@ -49,5 +50,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

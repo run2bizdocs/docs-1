@@ -1,6 +1,7 @@
 title: Register demand attribute
 Description: This feature provides a variety of actions, such as including, changing, and deleting a demand attributes.
-#Register demand attribute
+# Register demand attribute
+
 This functionality is intended to register the demand attributes that will be linked to Services and Configuration Items (CI).
 This feature provides a variety of actions, such as including, changing, and deleting a demand attributes.
 
@@ -18,5 +19,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço

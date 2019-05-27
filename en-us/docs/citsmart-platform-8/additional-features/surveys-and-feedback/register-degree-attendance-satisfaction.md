@@ -1,6 +1,6 @@
 title: Register degree of attendance satisfaction
 Description: Allow the configuration of the satisfaction degree of service attendance.
-#Register degree of attendance satisfaction
+# Register degree of attendance satisfaction
 
 The purpose of this functionality is to allow the configuration of the
 satisfaction degree of service attendance.
@@ -20,5 +20,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

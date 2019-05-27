@@ -15,6 +15,11 @@ registering the template with the "Waiting Approval" template attached, and
 thee-mail server must be configured with all the parameters for email
 parameterization rules.
 
+!!! Abstract "ATTENTION"
+
+    Ticket approval via email is only possible with the following browsers configured 
+    as default: Mozilla Firefox, Google Chrome, and Microsoft Edge from version 42.17134.1.0.
+
 Procedure
 -------------
 
@@ -64,7 +69,7 @@ Related
 
 [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Workflow](/en-us/citsmart-platform-8/workflow/overview.html)
 
 [Configure parametrization – email](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
@@ -80,7 +85,7 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
 
 

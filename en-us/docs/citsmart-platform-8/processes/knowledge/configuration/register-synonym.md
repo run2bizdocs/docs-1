@@ -1,6 +1,7 @@
 title: Register synonym
 Description: Intended to maintain the registration of synonyms for searches purpose in the knowledge base.
-#Register synonym
+# Register synonym
+
 This functionality is intended to maintain the registration of synonyms for searches purpose in the knowledge base.
 This feature provides various actions, such as including, changing and deleting synonyms.
 
@@ -21,5 +22,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

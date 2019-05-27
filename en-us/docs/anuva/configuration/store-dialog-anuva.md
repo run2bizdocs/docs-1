@@ -15,7 +15,7 @@ Attribute types define the format of the information that can be saved in it. An
 
  - Categorical slot: used to store a value from a predefined list;
 
- - Float slot: where we can add numerical values with minimum and maximum limits;
+ - Float slot: where we can add numerical values with minimum and maximum limits.
 
 
 !!! Abstract "NOTE"
@@ -38,5 +38,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

@@ -40,7 +40,7 @@ It also enables it to register a new knowledge in order to make the portal dynam
  
  - **3**: shows filters to find the knowledge, refining the initial search by selecting one of the options
  
- - **4**: Relation of knowledge found
+ - **4**: relation of knowledge found
  
   
 !!! Abstract "RULE" 
@@ -95,6 +95,6 @@ It also enables it to register a new knowledge in order to make the portal dynam
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins
    

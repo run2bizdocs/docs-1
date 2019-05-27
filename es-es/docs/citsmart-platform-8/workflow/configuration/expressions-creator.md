@@ -1,6 +1,7 @@
 title:  Construir expresiones 
 Description: Se puede utilizar para crear reglas de negocio que se asociarán al Flujo.
-#Construir expresiones
+# Construir expresiones
+
 Esta funcionalidad se puede utilizar para crear reglas de negocio que se asociarán al Flujo.
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar expresiones.
 
@@ -21,5 +22,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

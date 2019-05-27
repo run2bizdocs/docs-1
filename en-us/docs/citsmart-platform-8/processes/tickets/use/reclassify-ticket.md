@@ -55,9 +55,9 @@ Related
 
 [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 [Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
@@ -65,6 +65,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

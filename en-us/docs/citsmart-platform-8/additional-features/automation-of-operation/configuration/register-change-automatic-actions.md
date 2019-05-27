@@ -1,6 +1,6 @@
 title: Register change automatic actions
 Description: This registration will be associated with the automatic actions, where it will be used in the CITSmart Nagios, Zabbix, Inventory and Correlated Events event managers' registers.
-#Register change automatic actions
+# Register change automatic actions
 
 Some events will present a situation where the appropriate action will need to
 be addressed by the change management process, that is, this functionality is
@@ -39,12 +39,12 @@ Related
 
 [Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Workflow maintenance](/en-us/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
 
 [Configure parametrization - change](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins
 

@@ -1,6 +1,7 @@
 title: Register cause of incidents 
 Description: Provides the cause of incidents registration
-#Register cause of incidents
+# Register cause of incidents
+
 This feature provides a variety of actions, such as including, changing, and deleting the causes of occurrence of incidents.
 
 Procedure
@@ -20,5 +21,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

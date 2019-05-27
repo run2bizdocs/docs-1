@@ -74,7 +74,7 @@ Relacionado
 
 [Cadastrar usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
 
-[Manutenção de fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/workflow-maintenance.html)
+[Fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/overview.html)
 
 [Configurar parametrização - email](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
 
@@ -89,7 +89,7 @@ Anexo
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
 
 

@@ -4,7 +4,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 O fornecedor é uma organização ou uma pessoa física, responsável por prover
 produtos ou serviços a alguém. Ele pode ser do tipo *provedor de
-serviços*,*interno* e/ou *externo*.
+serviços*, *interno* e/ou *externo*.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir um fornecedor.
@@ -34,5 +34,5 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart Platform | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins
