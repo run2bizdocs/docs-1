@@ -52,6 +52,7 @@ Procedimento
 
     !!!Abstract "ATENÇÃO"
     
-        No campo "Single sign on URL
+        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser
+        incluído os endereços de URL no qual a Apilicação CITSmart será executada.
 
 
