@@ -389,27 +389,27 @@ modulo ao standalone-full-ha.xml
 
 1. Criar os diretórios abaixo para serem configurados nos 3 passos de instalação web.
 
-    Para GED: 
+    **Para GED**: 
 
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
-    Para Base de Conhecimento:
+    **Para Base de Conhecimento**:
 	
     ```sh
     mkdir /opt/citsmart/kb
     ```
-    Para Palavras Sinônimas:
+    **Para Palavras Sinônimas**:
 	
 	```sh
     mkdir /opt/citsmart/twinwords
     ```
-    Para Anexos de Base de Conhecimento:
+    **Para Anexos de Base de Conhecimento**:
 	
     ```sh
     mkdir /opt/citsmart/attachkb
     ```
-    Para Upload: 
+    **Para Upload**: 
 	
     ```
 	mkdir /opt/citsmart/upload
