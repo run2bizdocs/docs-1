@@ -54,5 +54,38 @@ Procedimento
     
         No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser
         incluído os endereços de URL no qual a Apilicação CITSmart será executada.
+     
+7. Marcar as opções "I'm an Okta customer adding an internal app" e "This is an internal app that we have created". Logo em seguida, clicar no botão "Finish".
+
+![Marcar as opções](images/okta.img8.png)
+
+*3º Passo: Atribuir usuários a aplicação CITSmart do Okta:*
+
+1. Logo após, conluído o passo anterior e ainda na mesma página descrita no passo
+antecedente, é necessário clicar na aba "Applications" e em seguida em "Assignments". Aperte então no botão "Assign" e opte pelo o filtro chamado "People";
+
+![Atribuição de usuários](images/okta.img9.png)
+
+2. Em seguida, é possível escolher o usuário que terá a permissão de acessar a aplicação que está sendo criada. Clicar então no botão "Assign" e posteriormente para finalizar, clicar em  "Done";
+
+![Escolhendo o usuário](images/okta.img10.png)
+
+*4º Passo: Incluir informações necessárias no CITSmart configurado no Okta:*
+
+1. Será necessário configurar alguns dados no diretório do WildFly. Acessar o diretório, abrir a pasta "/standalone/configuration" e alterar o arquivo "citsmart.cfg".
+
+![Diretório Wildfly](images/okta.img11.png)
+
+  2. Acessado o arquivo, é preciso incluir estas informações no arquivo "citsmart.cfg":
+       
+       a) Na linha *SAML2_HOST* e *SAML2_PORT* incluir o endereço e porta da aplicação CITSmart recém criada;
+       
+       b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
+       
+        b.1) Acessar a aplicação CITSmart no Okta, e clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
+        
+ ![Sign On](images/okta.img12.png)
+
+   c) Na linha *OKTA_URL*, incluir a URL principal da conta Okta.
 
 
