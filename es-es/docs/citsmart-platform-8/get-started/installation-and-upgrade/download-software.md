@@ -72,8 +72,8 @@ Servidor de Indexación Apache Solr
     Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
 	
 
-Descarga de los archivos assets para CITSmart
-------------------------------------------------
+## Descarga de los archivos assets para CITSmart
+
 
 <http://files.citsmart.com/assets.tar.gz>
 
