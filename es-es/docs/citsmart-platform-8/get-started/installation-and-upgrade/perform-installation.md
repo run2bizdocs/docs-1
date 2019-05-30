@@ -395,27 +395,27 @@ PostgreSQL*.
 
 1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
-    Para GED: 
+    **Para GED**: 
 
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
-    Para Base de Conocimiento:
+    **Para Base de Conocimiento**:
 	
     ```sh
     mkdir /opt/citsmart/kb
     ```
-    Para Palavras homónimas:
+    **Para Palavras homónimas**:
 	
 	```sh
     mkdir /opt/citsmart/twinwords
     ```
-    Para Anexos de Base de Conhecimento:
-	
+    **Para Anexos de Base de Conhecimento**:
+    
     ```sh
     mkdir /opt/citsmart/attachkb
     ```
-    Para Upload: 
+    **Para Upload**: 
 	
     ```
 	mkdir /opt/citsmart/upload
