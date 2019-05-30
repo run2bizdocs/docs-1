@@ -3,9 +3,6 @@ Title: Descarga y software
 # Descarga y software
 
 
-Software y Descarga
------------------------
-
 !!! warning "ATENCIÓN"
 
     La instalación de CITSmart Enterprise requiere el sistema operativo GNU/Linux con kernel igual o superior al 3.10.
@@ -16,7 +13,7 @@ Software y Descarga
 Para ejecución del CITSmart Enterprise, descargaremos los paquetes necesarios conforme
 el procedimiento relativo al producto.
 
-### Servidor de la Aplicación Wildfly
+## Servidor de la Aplicación Wildfly
 
 !!! warning "ATENCIÓN"
     En el manual utilizaremos el PostgreSQL.
@@ -33,7 +30,7 @@ el procedimiento relativo al producto.
     
 3. Descargar el módulo jdbc para el postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
-### Servidor de la Base de Datos MongoDB
+## Servidor de la Base de Datos MongoDB
 
 !!! warning "ATENCIÓN"
        
@@ -46,7 +43,7 @@ Para localizar la descarga conforme su distribución: <https://www.mongodb.com/
 
 Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-### Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
+## Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
 
 
 !!! warning "ATENCIÓN"
@@ -75,8 +72,8 @@ Servidor de Indexación Apache Solr
     Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
 	
 
-Descarga de los archivos assets para CITSmart
-------------------------------------------------
+## Descarga de los archivos assets para CITSmart
+
 
 <http://files.citsmart.com/assets.tar.gz>
 
@@ -98,7 +95,7 @@ Configuración de los Paquetes
 Después de finalizar las descargas, podremos iniciar la instalación de la solución CITSmart Enterprise.
 
 
-### Servidor de Base de Datos MongoDB
+## Servidor de Base de Datos MongoDB
  
  
 1. Después de la descarga del MongoDB de la versión 3.4.15, para su correcta distribución, se debe
@@ -152,12 +149,12 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.  
 
 
-### PostgreSQL Database Server
+## PostgreSQL Database Server
 
 
 !!! warning "ATENCIÓN"
 
-    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
+    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual           oficial: https://www.postgresql.org/download/linux/redhat/
 
 	
 1. Posteriormente la instalación del PostgreSQL precisamos crear la base de datos, usuario y contraseña;
@@ -229,7 +226,7 @@ systemctl restart postgresql-9.5.service
 ```
 
 
-### Servidor de Indexación Apache Solr
+## Servidor de Indexación Apache Solr
 
 1. Instalar los paquetes unzip y lsof.
 
