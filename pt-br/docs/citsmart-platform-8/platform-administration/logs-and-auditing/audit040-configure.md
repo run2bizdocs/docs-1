@@ -27,18 +27,3 @@ Procedimento
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```   
     
-2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):
-
-    ```java
-    <property name="mongodb.host" value="localhost"/>
-    <property name="mongodb.port" value="27017"/>
-    <property name="mongodb.user" value="mongodb"/>
-    <property name="mongodb.password" value="mongodb"/>
-    <property name="mongodb.dabase.audit" value="itsm-audit"/>
-    ```       
-    
-      !!! Abstract "OBSERVAÇÃO"
-
-          Configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
-          
- 3. Adicionar o WAR do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
