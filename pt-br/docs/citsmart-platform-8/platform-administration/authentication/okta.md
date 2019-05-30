@@ -52,8 +52,8 @@ Procedimento
 
     !!!Abstract "ATENÇÃO"
     
-        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser
-        incluído os endereços de URL no qual a Apilicação CITSmart será executada.
+       No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser
+       incluído os endereços de URL no qual a Apilicação CITSmart será executada.  
      
 7. Marcar as opções "I'm an Okta customer adding an internal app" e "This is an internal app that we have created". Logo em seguida, clicar no botão "Finish".
 
@@ -82,7 +82,7 @@ antecedente, é necessário clicar na aba "Applications" e em seguida em "Assign
        
        b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
        
-         - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
+        - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
         
  ![Sign On](images/okta.img12.png)
 
@@ -90,7 +90,7 @@ antecedente, é necessário clicar na aba "Applications" e em seguida em "Assign
    
    d) Na linha *OKTA_TOKEN*, incluir o token para acesso via API. Para obter este token, atenda estes passos:
    
-    - Acessar a aplicação CITSmart no Okta, selecionar no menu a opção "Security > API" e em seguida clicar no botão "Create Token". Nomeie o token e aperte o botão "Create Token". Será então apresentado o valor do token que deverá ser copiado na linha citado acima.
+   - Acessar a aplicação CITSmart no Okta, selecionar no menu a opção "Security > API" e em seguida clicar no botão "Create Token". Nomeie o token e aperte o botão "Create Token". Será então apresentado o valor do token que deverá ser copiado na linha citado acima.
    
 ![Token](images/okta.img13.png)
 
