@@ -15,16 +15,30 @@ Veja as principais novidades da versão 0.4.0
  
  - Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na pasta "\deployments";
  
- - Adicionar as linhas que serão aqui apresentadas ao standalone do wildfly no subsystem do actuveqm;
- 
- - Adicionar as linhas que serão aqui apresentadas ao standalone do wildfly no
- system-properties (igual é utilizado no CITSmart EVM e CITSmart Inventory);
+Procedimento
+------------
 
- !!! Abstract "OBSERVAÇÃO"
+1. Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq:
 
-     Configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações).
-     
-    - O parâmetro 424 deve ficar em branco;
+```java
+    <jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
+    <jms-queue name="ITSM.READ_LICENSE_AUDIT" entries="queue/ITSM.READ_LICENSE_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_LICENSE_AUDIT"/>
+    <jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
+    <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
+    ```  
     
-    - O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);  
+2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):
 
+    ```java
+    <property name="mongodb.host" value="localhost"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="mongodb"/>
+    <property name="mongodb.password" value="mongodb"/>
+    <property name="mongodb.dabase.audit" value="itsm-audit"/>
+    ```  
+    
+      !!! Abstract "OBSERVAÇÃO"
+
+          Configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
+          
+ 3. Adicionar o WAR do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
