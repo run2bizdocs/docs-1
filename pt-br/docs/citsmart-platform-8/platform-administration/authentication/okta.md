@@ -82,10 +82,46 @@ antecedente, é necessário clicar na aba "Applications" e em seguida em "Assign
        
        b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
        
-        b.1) Acessar a aplicação CITSmart no Okta, e clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
+         - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
         
  ![Sign On](images/okta.img12.png)
 
    c) Na linha *OKTA_URL*, incluir a URL principal da conta Okta.
+   
+   d) Na linha *OKTA_TOKEN*, incluir o token para acesso via API. Para obter este token, atenda estes passos:
+   
+    - Acessar a aplicação CITSmart no Okta, selecionar no menu a opção "Security > API" e em seguida clicar no botão "Create Token". Nomeie o token e aperte o botão "Create Token". Será então apresentado o valor do token que deverá ser copiado na linha citado acima.
+   
+![Token](images/okta.img13.png)
+
+  e) Na linha *OKTA_DOMAIN_ALIAS*, incluir o domínio dos usuários provinientes do Okta.
+  
+*5º Passo: Sincronizar usuário do Okta no CITSmart:*
+
+1. Dentro do CITSmart, acessar o menu "Okta Config" e cadastrar uma nova configuração ao clicar no botão "Novo";
+
+![Okta Confg](images/okta.img14.png)
+
+2. Preencher os campos com as informações necessárias:
+
+![Campos Okta Confg](images/okta.img15.png)
+
+     - **Descrição:** introduzir uma definição desta nova configuração Okta;
+     
+     - **Alias:** incluir o domínio do usuário que será gravado na base. Exemplo: okta\administrador@citsmart.com;
+     
+     - **URL de domínio:** deverá incluir o mesmo valor (URL) que foi inserida na linha *OKTA_URL* no arquivo "citsmart.cfg"; 
+     
+     - **Token API:** incluir o mesmo valor do token inserido na linha *OKTA_TOKEN* no arquivo "citsmart.cfg";
+     
+     - **Grupo:** inserir o ID do grupo no qual o usuário sincronizado e gravado pertencerá no CITSmart;
+     
+     -**Perfil de Acesso:** inserir o ID do perfil no qual o usuário sincronizado e gravado pertencerá no CITSmart;
+     
+     -**ID da aplicação:** incluir o ID da aplicação. Esta informação pode ser recuperada na URL do Okta, conforme a figura abaixo:
+     
+![ID da URL](images/okta.img16.png)
+
+3. Clicar no botão "Salvar" e em seguida "Sicronizar usuários" para efetuar a operação.
 
 
