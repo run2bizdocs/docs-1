@@ -45,3 +45,13 @@ Procedimento
 5. No campo "App name", adcionar o nome da aplicação e logo após, é necessário clicar no botão "Next";
 
 ![Nomear Aplicativo](images/okta.img6.png)
+
+6. Configurar o caminho da aplicação e depois clicar no botão Next
+
+![Configurar caminho](images/okta.img7.png)
+
+    !!!Abstract "ATENÇÃO"
+    
+        No campo "Single sign on URL
+
+
