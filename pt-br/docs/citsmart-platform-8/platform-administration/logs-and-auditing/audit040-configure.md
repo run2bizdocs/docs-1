@@ -24,7 +24,7 @@ Veja as principais novidades da versão 0.4.0
 
      Configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações).
      
-    - O parâmetro 424 deve ficar em branco;
+     - O parâmetro 424 deve ficar em branco;
     
-    - O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);  
+     - O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);  
 
