@@ -40,9 +40,9 @@ pasta "\deployments"
 <property name="mongodb.password" value="mongodb"/>
 <property name="mongodb.dabase.audit" value="itsm-audit"/>   
 
-!!! note "OBSERVAÇÃO"
+!!! note "NOTA"
 
-    Configurar a conexão com do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações).
+    Configurar a conexão com do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam     essas configurações).
 
 - O parâmetro 424 deve ficar em branco;
 
@@ -50,7 +50,7 @@ pasta "\deployments"
 
 !!! Abstract "ATENÇÃO"
 
-    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo         executado em porta diferente.  
+    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo executado em porta diferente.  
     
 - Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
    
@@ -75,14 +75,14 @@ funcionalidade.
 
     !!! Abstract "NOTA"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução         do backup.  
+        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do backup.  
 
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
     !!! note "IMPORTANTE"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados           do sistema, do acesso ao sistema e as licenças do mesmo.
+        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do sistema, do acesso ao sistema e as licenças do mesmo.
 
 ***Auditoria de dados do sistema***
 
