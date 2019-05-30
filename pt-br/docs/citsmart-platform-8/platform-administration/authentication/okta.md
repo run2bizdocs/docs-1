@@ -20,6 +20,8 @@ Procedimento
 
 3. Informar os dados essenciais (e-mail, nome e sobrenome);
 
+![Criar conta okta](images/okta.img1.png)
+
 4. Apertar o botão "Get Started" para concluir a operação. Em seguida, verifique o e-mail cadastrado (que enviará um link de acesso), acesse a conta com a senha temporária enviada e altere a mesma para maior segurança dos dados;
 
 *2º Passo: Criar a aplicação CITSmart dentro do Okta:*
