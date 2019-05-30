@@ -3,9 +3,6 @@ Title: Descarga y software
 # Descarga y software
 
 
-Software y Descarga
------------------------
-
 !!! warning "ATENCIÓN"
 
     La instalación de CITSmart Enterprise requiere el sistema operativo GNU/Linux con kernel igual o superior al 3.10.
@@ -157,7 +154,7 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 
 !!! warning "ATENCIÓN"
 
-    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
+    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual           oficial: https://www.postgresql.org/download/linux/redhat/
 
 	
 1. Posteriormente la instalación del PostgreSQL precisamos crear la base de datos, usuario y contraseña;
