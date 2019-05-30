@@ -25,9 +25,8 @@ Procedure
 Related
 ----------
 
-[Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Implement CITSmart Inventory](/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
 
 !!! tip "About"
 
