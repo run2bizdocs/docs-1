@@ -69,8 +69,9 @@ http://files.citsmart.com/assets.tar.gz
 ## Package Configuration
 
 !!! warning
-    We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured in the 4 machines.
-    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the package management.
+    
+    We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured     in the 4 machines.
+    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the           package management.
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
 
