@@ -1,10 +1,10 @@
 title: Cadastrar questionário
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir questionários (formulários).
-#Cadastrar questionário
+# Cadastrar questionário
 
  Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir questionários (formulários) de uma forma muito genérica, multi-propósito
-e fácil para serem utilizados em outras rotinas do sistema. É possível a
+excluir questionários (formulários) de uma forma muito genérica, multi-propósitos
+e fáceis para serem utilizados em outras rotinas do sistema. É possível a
 importação de um questionário já elaborado. Para garantir maior produtividade, o
 botão "Copiar de outro questionário" permite ao Administrador que importe
 Questionários construídos tanto na forma anterior, quanto na forma atual.
