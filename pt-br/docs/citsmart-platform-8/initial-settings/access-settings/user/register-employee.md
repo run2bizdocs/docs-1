@@ -1,6 +1,6 @@
 title: Cadastrar um colaborador
 Description: Permite cadastrar cada pessoa que possui algum tipo de vínculo com a organização, tais como: um funcionário, um parceiro, etc.
-#Cadastrar um colaborador
+# Cadastrar um colaborador
 
 Esta funcionalidade permite cadastrar cada pessoa que possui algum tipo de
 vínculo com a organização, tais como: um funcionário, um parceiro, etc.
