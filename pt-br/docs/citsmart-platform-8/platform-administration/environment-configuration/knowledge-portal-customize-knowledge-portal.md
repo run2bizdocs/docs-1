@@ -1,6 +1,6 @@
 title: Customizar o Portal do Conhecimento
 Description: Alterar imagens que estão no Portal do Conhecimento.
-#Customizar o Portal do Conhecimento
+# Customizar o Portal do Conhecimento
 
 Esta funcionalidade tem por objetivo alterar imagens que estão no Portal do
 Conhecimento.
