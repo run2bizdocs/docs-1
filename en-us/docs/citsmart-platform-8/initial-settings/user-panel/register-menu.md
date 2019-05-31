@@ -19,7 +19,10 @@ Procedure
 5.  Be careful about running the "Update Menus" button, because all the
     registration changes of the menus will be lost since the last generation of
     XML. It's recommended, therefore, the following execution sequence: 
-    (1) "Generate XML" button and (2) "Update Menus".
+    
+    (1) "Generate XML" button 
+    
+    (2) "Update Menus".
 
 6.  Click on "Save".
 
