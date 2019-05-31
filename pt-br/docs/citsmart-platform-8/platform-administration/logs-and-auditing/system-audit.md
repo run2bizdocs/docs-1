@@ -102,6 +102,8 @@ realizadas no sistema.*
 Relacionado
 -------------
     
+[Configurar o Audit 0.4.0](/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/audit040-configure.html)
+
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
