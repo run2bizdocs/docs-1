@@ -1,13 +1,13 @@
 title: Implementar regras de segurança de senha
 Description: Configuração de senhas de uso do sistema, disponibilizando maior nível de segurança com uso de diferentes caracteres.
-#Implementar regras de segurança de senha
+# Implementar regras de segurança de senha
 
 Esta funcionalidade retrata a configuração de senhas de uso do sistema,
 disponibilizando maior nível de segurança com uso de diferentes caracteres.
 
 !!! Warning "ATENÇÃO"
 
-     Esta política de segurança não está disponível para usuários LDAP.
+    Esta política de segurança não está disponível para usuários LDAP.
      
 
 Regras default ao habilitar a Política de Segurança:
