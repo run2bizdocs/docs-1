@@ -77,7 +77,7 @@ Procedimento
 
   2. Acessado o arquivo, é preciso incluir estas informações no arquivo "citsmart.cfg":
        
-       a) Na linha *SAML2_HOST* e *SAML2_PORT* incluir o endereço e porta da aplicação CITSmart recém criada;
+       a) Na linha *SAML2_HOST* e *SAML2_PORT* incluir o endereço e porta da aplicação CITSmart;
        
        b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
  
