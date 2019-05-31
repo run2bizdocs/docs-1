@@ -22,7 +22,7 @@ Regras default ao habilitar a Política de Segurança:
 
 -   No mínimo um caracter especial (símbolo)
 
--   A senha não pode ser igual as últimas 3 senhas utilizadas;
+-   A senha não pode ser igual às últimas 3 utilizadas;
 
 -   A senha expira em 3 meses
 
@@ -55,10 +55,10 @@ Procedimento
 
     O Sistema notifica o usuário 3 dias antes da expiração da senha atual,
     fazendo este alerta através de mensangem em caixa de texto que surgirá uma
-    vez ao dia ao realizer o login no Sistema. Depois que a senha estiver
-    expirada, o usuário é enviado automaticamente para a tela de perfil de
+    vez ao dia ao realizar o login no sistema. Depois que a senha estiver
+    expirada, o usuário é redirecionado automaticamente para a tela de perfil de
     usuário com painel de troca de senha aberto (somente poderá utilizar o
-    sistema novamente se realizer a troca de senha).
+    sistema novamente se realizar a troca de senha).
 
 !!! Abstract "NOTA"
 
