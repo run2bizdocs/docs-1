@@ -1,9 +1,9 @@
 title: Configurar parametrização - mudança
 Description: permite ajustar o envio de notificação, informar os modelos de e-mail para escalar a requisição de mudança, informar o nome dos fluxos referentes a aplicação e definir o tipo de votação usado no comitê consultivo de mudança, dentre outras ações.
-#Configurar parametrização - mudança
+# Configurar parametrização - mudança
 
 O Gerenciamento de Mudanças é o processo responsável por avaliar, coordenar e
-decidir sobre a realização de mudanças propostas à Serviços e/ou Itens de
+decidir sobre a realização de mudanças propostas a Serviços e/ou Itens de
 Configuração (ICs). Os parâmetros a ser configurados permitem ajustar o envio de
 notificação, informar os modelos de e-mail para escalar a requisição de mudança,
 informar o nome dos fluxos referentes a aplicação e definir o tipo de votação
