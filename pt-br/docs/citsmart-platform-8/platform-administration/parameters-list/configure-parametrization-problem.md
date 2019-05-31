@@ -2,13 +2,13 @@ title: Configurar parametrização - problema
 Description: Permite a execução/uso deste processo, podendo ser possível definir o nome do fluxo padrão para problema, definir se serão notificados o responsável e grupo executor quando o prazo para contornar/solucionar o problema houver expirado, dentre de outras ações viáveis.
 # Configurar parametrização - problema
 
-O gerenciamento de problemas gerencia o ciclo de vida de todos problemas desde a
+O gerenciamento de problemas controla o ciclo de vida de todos problemas desde a
 primeira identificação, passando pela investigação, documentação e eventual
 remoção. A parametrização de "Problema" deve ser realizada para permitir a
 execução/uso deste processo, podendo ser possível definir o nome do fluxo padrão
 para problema, definir se serão notificados o responsável e grupo executor
-quando o prazo para contornar/solucionar o problema houver expirado, dentre de
-outras ações viáveis.
+quando o prazo para contornar/solucionar o problema houver expirado, dentre
+outras ações.
 
 Procedimento
 ------------
