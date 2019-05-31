@@ -127,7 +127,7 @@ Procedimento
 O que fazer a seguir
 ----------------------
 
-Concluído a integração do Okta com o CITSmart, notamos que alguns parâmetros do CITSmart podem ter vínculos com esta integração. São eles:
+Concluído a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração. São eles:
 
  - Como o okta não possui tela de logout, no parâmetro *377* do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
  
