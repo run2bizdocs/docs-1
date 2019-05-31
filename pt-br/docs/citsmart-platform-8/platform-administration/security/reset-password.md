@@ -1,6 +1,6 @@
 title: Configurar serviço de alteração de senha
 Description: A alteração de senha do usuário é uma das possiblidades permitida pelo sistema.  
-#Configurar serviço de alteração de senha
+# Configurar serviço de alteração de senha
 
 A alternativa de alteração de senha do usuário é uma das possiblidades liberadas pelo sistema. Para configurar esta opção é necessário seguir os procedimentos aqui descritos.
 
@@ -27,7 +27,7 @@ Procedimento
         Para que o usuário receba as novas informações de acesso é preciso utilizar
         na mensagem de e-mail a chave ‘${NOVASENHA}’ (exemplo de chave referente a
         “Nova senha”). Adicionalmente, é possível enviar também o login usuário
-        usando a chave ‘${LOGIN}’ ( exemplo de chave referente a “Login”).  
+        usando a chave ‘${LOGIN}’ (exemplo de chave referente a “Login”).  
 
 *2° Passo: Setar a parametrização referente ao serviço de alteração de senha*
 
@@ -42,7 +42,7 @@ O que fazer depois
 Para testar o serviço de alteração de senha, acessar a página de login, clicar na opção “Esqueceu sua senha?”, informar um login de usuário
 local e apertar “Gravar”.
 
-## Relacionados
+## Relacionado
 
 [Configurar modelo de e-mail][1]
 
