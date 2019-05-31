@@ -4,7 +4,7 @@ Description: Al publicar nuevos conocimientos, no es necesario quitar la indexac
 
 La funcionalidad de Indexación de Conocimientos tiene por objetivo crear índices, es decir, conocer el contenido de los conocimientos publicados en la base de conocimiento, identificando términos que representen su asunto, para referenciarlos y garantizar un retorno preciso del conocimiento, cuando se lo busca.
 
-Se indexará la cantidad de conocimientos según se configura en el parámetro "Total de elementos que se importan a la vez al indizar documentos en el Solr (Ej: 1000)".
+Se indexará la cantidad de conocimientos según se configura en el parámetro 308.
 
 Al publicar nuevos conocimientos, no es necesario quitar la indexación actual e indizar de nuevo, el procedimiento es automático.
 
