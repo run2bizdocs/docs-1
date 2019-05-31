@@ -13,9 +13,10 @@ Title: Descarga y software
 Para ejecución del CITSmart Enterprise, descargaremos los paquetes necesarios conforme
 el procedimiento relativo al producto.
 
-## Servidor de la Aplicación Wildfly
+### Servidor de la Aplicación Wildfly
 
 !!! warning "ATENCIÓN"
+   
     En el manual utilizaremos el PostgreSQL.
 
     Usted puede descargar el paquete para Oracle o MSSQL y hacer los cambios
@@ -26,11 +27,11 @@ el procedimiento relativo al producto.
 
     ![Java Download](images/java-download.png)
     
-    Figura 1 - Tabla Java
+     Figura 1 - Tabla Java
     
 3. Descargar el módulo jdbc para el postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
-## Servidor de la Base de Datos MongoDB
+### Servidor de la Base de Datos MongoDB
 
 !!! warning "ATENCIÓN"
        
@@ -43,7 +44,7 @@ Para localizar la descarga conforme su distribución: <https://www.mongodb.com/
 
 Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
-## Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
+### Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
 
 
 !!! warning "ATENCIÓN"
@@ -72,7 +73,7 @@ Servidor de Indexación Apache Solr
     Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
 	
 
-## Descarga de los archivos assets para CITSmart
+### Descarga de los archivos assets para CITSmart
 
 
 <http://files.citsmart.com/assets.tar.gz>
@@ -95,7 +96,7 @@ Configuración de los Paquetes
 Después de finalizar las descargas, podremos iniciar la instalación de la solución CITSmart Enterprise.
 
 
-## Servidor de Base de Datos MongoDB
+### Servidor de Base de Datos MongoDB
  
  
 1. Después de la descarga del MongoDB de la versión 3.4.15, para su correcta distribución, se debe
@@ -149,7 +150,7 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.  
 
 
-## PostgreSQL Database Server
+### PostgreSQL Database Server
 
 
 !!! warning "ATENCIÓN"
@@ -226,7 +227,7 @@ systemctl restart postgresql-9.5.service
 ```
 
 
-## Servidor de Indexación Apache Solr
+### Servidor de Indexación Apache Solr
 
 1. Instalar los paquetes unzip y lsof.
 
