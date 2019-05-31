@@ -1,6 +1,6 @@
 title: Cadastrar um grupo
 Description: Permite o cadastro de grupos e o vínculo deles com usuários, um perfil, contratos e e-mails para notificação.
-#Cadastrar um grupo
+# Cadastrar um grupo
 
 Um grupo é um conjunto de um ou mais colaboradores que tem os mesmos objetivos
 relacionados as suas funções.
