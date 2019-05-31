@@ -26,4 +26,13 @@ Procedimento
     <jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```
-2. Teste    
+2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):  
+
+    ```java
+    <property name="mongodb.host" value="localhost"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="mongodb"/>
+    <property name="mongodb.password" value="mongodb"/>
+    <property name="mongodb.dabase.audit" value="itsm-audit"/>
+    ```
+3.Teste
