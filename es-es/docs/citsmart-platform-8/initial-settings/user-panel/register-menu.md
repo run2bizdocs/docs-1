@@ -24,8 +24,11 @@ Procedimento
 5.  Tener mucho cuidado con la ejecución del botón "Actualizar menús", ya que
     todos los cambios de registro de los menús se perderán desde la última vez
     que se produjo la generación de XML. Se recomienda, por lo tanto, la
-    siguiente secuencia de ejecución: (1) botón "Generar XML" (2) botón
-    "Actualizar Menús".
+    siguiente secuencia de ejecución: 
+    
+    (1) botón "Generar XML"
+    
+    (2) botón "Actualizar Menús".
 
 6.  Hacer clic en "Guardar".
 
