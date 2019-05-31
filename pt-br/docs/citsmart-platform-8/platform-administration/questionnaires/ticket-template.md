@@ -1,6 +1,6 @@
 title: Cadastrar template de ticket
 Description: habilitar algumas funcionalidades na tela de solicitação de serviço (ticket).
-#Cadastrar template de ticket
+# Cadastrar template de ticket
 
 Esta funcionalidade tem o objetivo de habilitar algumas funcionalidades na tela
 de solicitação de serviço (ticket).
@@ -47,13 +47,13 @@ Procedimento
     do cadastro. No momento de cadastro do ticket que tenha um formulário do
     tipo padrão, estarão disponíveis no botão "Menu", localizado no canto superior
     esquerdo, apenas as funcionalidades: IC do Solicitante, Anexos, Agenda,
-    Liberação, Projeto, Conhecimento e Leitura de e-mails. todas as
+    Liberação, Projeto, Conhecimento e Leitura de e-mails. Todas as
     funcionalidades de habilitação que são apresentadas tanto na tela de
     template de solicitação de serviço quanto na de manutenção de fluxo, só
     terão validade as marcações configuradas na tela de fluxo, pois a primeira
     mencionada é um complemento da segunda. Se o template de solicitação de
     serviço estiver vinculado somente a atividades do portfólio o sistema vai
-    subentender que o formulário é padrão, por isso ele não vai atender as
+    subentender que o formulário é padrão, por isso ele não vai atender às
     normativas (habilitação ou não da funcionalidade) do template. Para a regra
     de reclassificação onde o template de serviço do tipo Questionário ou Neuro
     tiver que ser apresentado para a resposta do usuário, é preciso que o
