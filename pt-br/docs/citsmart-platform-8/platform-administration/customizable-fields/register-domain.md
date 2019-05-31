@@ -1,11 +1,8 @@
 title: Cadastrar domínio
 Description: Permitir o cadastro de domínios para inserção de novos itens de domínio, ou seja, novas opções no campo de uma determinada tela do sistema.
-#Cadastrar domínio
+# Cadastrar domínio
 
-A funcionalidade de Domínio tem por objetivo permitir o cadastro de domínios
-para inserção de novos itens de domínio, ou seja, novas opções no campo de uma
-determinada tela do sistema. Para utilizar a mesma, deverá ter conhecimento
-sobre a codificação do sistema.
+A funcionalidade de Domínio tem por objetivo permitir o cadastro de domínios, ou seja, novas opções no campo de uma determinada tela do sistema. Para utilizar a mesma, é preciso ter conhecimento sobre a codificação do sistema.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir o domínio.
