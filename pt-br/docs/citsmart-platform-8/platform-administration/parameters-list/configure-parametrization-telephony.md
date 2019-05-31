@@ -1,6 +1,6 @@
 title: Configurar parametrização - telefonia
 Description: Permite definir se ativa a integração dos webservices com a telefonia.
-#Configurar parametrização - telefonia
+# Configurar parametrização - telefonia
 
 A parametrização da "Telefonia permite definir se ativa a integração dos
 webservices com a telefonia, informar o número de identificação do serviço de
