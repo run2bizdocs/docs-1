@@ -1,6 +1,6 @@
 title: Configurar parametrização - configuração
 Description: Definir o nome do grupo para os Itens de configuração que não possuem grupo, definir o destinatório do envio de emails notificando a expiração próxima do IC do tipo Software, definir o nome do domínio da rede, dentre outras.
-#Configurar parametrização - configuração
+# Configurar parametrização - configuração
 
 O Gerenciamento de configuração é o registro e atualização detalhada de
 informações que descrevem o hardware e software de uma empresa. É um processo
