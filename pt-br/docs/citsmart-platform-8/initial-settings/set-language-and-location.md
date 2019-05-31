@@ -1,7 +1,7 @@
 Title: Configurar o idioma padrão 
 #Configurar o idioma padrão
 
-Esta funcionalidade tem por objetivo de configurar o idioma padrão do sistema.  
+Esta funcionalidade tem por objetivo configurar o idioma padrão do sistema.  
 
 ## Procedimento
 
@@ -11,7 +11,7 @@ Esta funcionalidade tem por objetivo de configurar o idioma padrão do sistema.
 
 !!! info "Manter o sistema sempre em Inglês"  
 
-    1. Acesse a funcionalidade através do menu principal Parameterização > Parâmetros CITSmart;   
+    1. Acessar a funcionalidade no menu principal Parameterização > Parâmetros CITSmart;   
     2. Pesquisar pelo parâmetro 275; 
     3. Selecionar "SIM";
     4. Clicar em "Salvar".
