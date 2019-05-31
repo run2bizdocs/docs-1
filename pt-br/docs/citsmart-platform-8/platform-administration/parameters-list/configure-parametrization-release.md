@@ -1,6 +1,6 @@
 title: Configurar parametrização - liberação
 Description: Permitir a execução/uso deste processo, podendo ser possível, definir se será enviado notificações ao solicitante da execução dos fluxos de solicitação de serviços/incidentes, por exemplo.
-#Configurar parametrização - liberação
+# Configurar parametrização - liberação
 
 Gerenciamento de liberação é o processo responsável por planejar, programar e
 controlar a construção, o teste e a implantação de liberações, e por entregar
