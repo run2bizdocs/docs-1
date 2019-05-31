@@ -1,18 +1,18 @@
-title: 
-Description: Release Notes CITSmart Versão 8.0.0.9 de 31/05/2019
+title: Version 8.0.0.9
+Description: Release Notes from CITSmart Version 8.0.0.9 of 05/31/2019
 
-# Versão 8.0.0.9
+# Version 8.0.0.9
 
-*31/05/2019* Bem-vindos ao Citsmart Versão 8.0.0.9
-A versão 8.0.0.9 do CITSmart apresenta algumas correções emergenciais.
+*05/31/2019* Welcome to the Citsmart Version 8.0.0.9
+Version 8.0.0.9 of CITSmart presents some emergency corrections.
 
-|Problema|Descrição|
-|--------|---------|
-|3670|Validação do campo e-mail na tela de User Profile|
-|3702|Correção em Scripts Neuro|
-|3793|Otimização de SQL na lista de solicitações para reduzir o tempo de resposta|
-|3879|Correção no Kanbam por atendente para visualizar a informação da tarefa|
-|3895|Problemas na execução do cron do CMDB|
-|3897|Sistema encaminhando reset de senha para usuário inativo|
-|3915|Otimizando SQL lista de solicitações.|
-|4038|Correção de upload de imagem na apresentação do portfólio.|
+|Problem |Description|
+|--------|-----------|
+|3670|Validation of the email field on the User Profile screen|
+|3702|Correction in Neuro Scripts|
+|3793|SQL optimization in the request list to reduce response time|
+|3879|Kanbam correction per attendant to view the task information|
+|3895|Problems running CMDB cron|
+|3897|System forwarding password reset to inactive user|
+|3915|Optimizing SQL list of requests|
+|4038|Correction of image upload in portfolio presentation|
