@@ -25,10 +25,10 @@ Procedimiento
 3.  Para vincular un usuario, hacer clic en la pestaña "Agregar Usuarios" y
     después en "Agregar";
 
-4.  Para vincular un usuário, hacer clic en la pestaña "Agregar Grupos" y
+4.  Para vincular un grupo, hacer clic en la pestaña "Agregar Grupos" y
     después en "Agregar";
 
-5.  Para vincular un usuario, hacer clic en la pestaña "Agregar E-mails" y
+5.  Para vincular un e-mail, hacer clic en la pestaña "Agregar E-mails" y
     después en "Agregar";
 
 6.  Hacer clic en "Guardar".
