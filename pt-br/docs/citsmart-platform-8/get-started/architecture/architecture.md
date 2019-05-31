@@ -6,7 +6,7 @@ Title: Cloud Architecture
 Com foco em uma expansão global e uma infra-estrutura tecnológica que atende aos
 requisitos de nossos clientes e parceiros, o CITSmart optou pelo modelo SaaS
 (Software como Serviço) para garantir agilidade no fornecimento de soluções para
-nossos clientes e parceiros e fornecer uma solução confiável e resiliente. e
+nossos clientes e parceiros e fornecer uma solução confiável, resiliente e
 infra-estrutura segura. Na nuvem, temos uma infraestrutura computacional e uma
 arquitetura de rede projetada para atender aos mais altos requisitos
 tecnológicos e de segurança do mercado mundial.
