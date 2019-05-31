@@ -3,7 +3,7 @@ Description: Release Notes CITSmart Versão 8.0.0.9 de 31/05/2019
 
 # Versão 8.0.0.9
 
-*31/05/2019* Bem-vindos ao Citsmart Versão 8.0.0.9
+*31/05/2019* Bem-vindos ao Citsmart Versão 8.0.0.9.
 A versão 8.0.0.9 do CITSmart apresenta algumas correções emergenciais.
 
 |Problema|Descrição|
