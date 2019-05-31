@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 # Cadastrar usuário
 
 Para que o colaborador possa acessar o sistema, é necessário criar um usuário
-que irá receber as credenciais para acessar o sistema e determinar o seu perfil
+que irá receber as credenciais para acessar e determinar o seu perfil
 de acesso.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
