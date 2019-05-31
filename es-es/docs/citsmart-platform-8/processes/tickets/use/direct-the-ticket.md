@@ -18,7 +18,7 @@ Procedimiento
 
 2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
 
-3.  En el campo Dirigir para grupo, seleccione el grupo para el cual será
+3.  En el campo **Dirigir para grupo**, seleccione el grupo para el cual será
     direccionado el ticket para realizar su atención;
 
 4.  Haga clic en el botón de “Opciones” y después en el botón “Grabar y avanzar
@@ -36,7 +36,7 @@ Relacionado
 
 [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/configure-access-permission-ticket.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 

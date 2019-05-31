@@ -24,6 +24,8 @@ Uso
 
 - [Cadastrar atividade de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
+- [Criar Mapa de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
+
 - [Gerenciar minhas solicitações pelo Smart Portal](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 - [Smart Portal](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/smart-portal.html)
@@ -37,11 +39,15 @@ Configuração
 
 - [Cadastrar um contrato](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
+- [Cadastrar empresa](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-company.html)
+
 - [Criar ciclo](/pt-br/citsmart-platform-8/platform-administration/time/create-cycle.html)
 
 - [Criar calendário](/pt-br/citsmart-platform-8/platform-administration/time/create-calendar.html)
 
 - [Cadastrar causa de incidentes](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
+
+- [Implementar forma de envio de e-mail para ticket reclassificado](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html)
 
 - [Cadastrar categoria de solução](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 

@@ -3,9 +3,6 @@ Title: Descarga y software
 # Descarga y software
 
 
-Software y Descarga
------------------------
-
 !!! warning "ATENCIÓN"
 
     La instalación de CITSmart Enterprise requiere el sistema operativo GNU/Linux con kernel igual o superior al 3.10.
@@ -19,6 +16,7 @@ el procedimiento relativo al producto.
 ### Servidor de la Aplicación Wildfly
 
 !!! warning "ATENCIÓN"
+   
     En el manual utilizaremos el PostgreSQL.
 
     Usted puede descargar el paquete para Oracle o MSSQL y hacer los cambios
@@ -29,7 +27,7 @@ el procedimiento relativo al producto.
 
     ![Java Download](images/java-download.png)
     
-    Figura 1 - Tabla Java
+     Figura 1 - Tabla Java
     
 3. Descargar el módulo jdbc para el postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
@@ -75,8 +73,8 @@ Servidor de Indexación Apache Solr
     Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
 	
 
-Descarga de los archivos assets para CITSmart
-------------------------------------------------
+### Descarga de los archivos assets para CITSmart
+
 
 <http://files.citsmart.com/assets.tar.gz>
 
@@ -157,7 +155,7 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 
 !!! warning "ATENCIÓN"
 
-    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual oficial: https://www.postgresql.org/download/linux/redhat/
+    Para este documento vamos a usar la versión 9.5 del PostgreSQL. Podemos instalar el PostgreSQL siguiendo los pasos del manual           oficial: https://www.postgresql.org/download/linux/redhat/
 
 	
 1. Posteriormente la instalación del PostgreSQL precisamos crear la base de datos, usuario y contraseña;

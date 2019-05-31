@@ -1,6 +1,6 @@
 title: Pasos para implementar la Solución Neuro
 Description: Pasos para implementar la Soluión Neuro
-#Pasos para implementar la Soluión Neuro
+# Pasos para implementar la Soluión Neuro
 
 
 ![create neuro app](images/neuro-1.png)
@@ -15,7 +15,7 @@ Figure 2 - Objeto de negocios
 
 !!! Abstract "ATENCIÓN"
 
-    Los pasos se pueden encontrar en la documentación CITSmart  (docs.citsmart.com).
+    Los pasos se pueden encontrar en la documentación CITSmart (docs.citsmart.com).
 
 ## Diseñar App
 
@@ -33,7 +33,7 @@ Después de Dibujar la Aplicación reuniendo la información referente a las ent
 
 2.  Comprobar si va a utilizar cualquier DOMINIO común para su instalación y crear uno si es necesario;
 
-3.  Usted también verificará las REGLAS DE NEGOCIO para el registro, actualización o exclusión de registros en la entidad de datos... usted los vinculará al Objeto de Negocio;
+3.  Usted también verificará las REGLAS DE NEGOCIO para el registro, actualización o exclusión de registros en la entidad de datos usted los vinculará al Objeto de Negocio;
 
 4.  Si tiene formularios que utilizarán varios idiomas, creará las CLAVES DE INTERNACIONALIZACIÓN, labels que se utilizarán para todos los campos en sus formularios.
 

@@ -2,7 +2,8 @@ Title: Fluxo de integração de serviços
 Description:Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
 
-#Fluxo de integração de serviços   
+# Fluxo de integração de serviços   
+
 Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
 ##COMO ACESSAR    
@@ -33,15 +34,17 @@ Figura 2 - Tela de listagem
 
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
-1- Para adicionar um novo fluxo, clique em Cadastrar→ Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
+1- Para adicionar um novo fluxo, clique em Cadastrar → Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
 
-![Screenshot](images/Service-Integration-Flow-fig03.png)   
+![Screenshot](images/Service-Integration-Flow-fig03.png)
+
 Figura 3 - Tela de registro   
 
-2- Para cadastrar um novo dados do fluxo, clique em Adicionar.   
+2- Para cadastrar um novo dados do fluxo, clique em "Adicionar".   
 3- Será apresentada a seguinte tela:    
 
-![Screenshot](images/Service-Integration-Flow-fig04.png)   
+![Screenshot](images/Service-Integration-Flow-fig04.png)
+
 Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo    
 
 4- Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Neuro persistirá no banco de dados de toda instância da execução deste fluxo.    
@@ -52,10 +55,11 @@ Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo
 
 Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.  
 
-1- Para adicionar uma variável, selecione a sua aba referente e clique em Adicionar.  
+1- Para adicionar uma variável, selecione a sua aba referente e clique em "Adicionar".  
 2- Será apresentada a seguinte tela:    
 
-![Screenshot](images/Service-Integration-Flow-fig05.png)   
+![Screenshot](images/Service-Integration-Flow-fig05.png) 
+
 Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis     
 
 3- Preencha os campos:    
@@ -98,7 +102,7 @@ Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior.**  
+    Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 
 ##AÇÕES  
 
@@ -106,10 +110,11 @@ Por meio deste menu, é possível cadastrar as ações que serão executadas no 
 
 As ações são baseadas em scripts programados na linguagem Rhino.   
 
-	1- Para adicionar uma ação, selecione sua aba referente e clique em Adicionar.   
-	2- Será apresentada a seguinte tela:  
+1- Para adicionar uma ação, selecione sua aba referente e clique em "Adicionar".   
+2- Será apresentada a seguinte tela:  
 
-![Screenshot](images/Service-Integration-Flow-fig06.png)   
+![Screenshot](images/Service-Integration-Flow-fig06.png) 
+
 Figura 6 - Tela de cadastro/edição do workflow, aba de Ações   
 
 3- Preencha os campos:   
@@ -118,13 +123,13 @@ Figura 6 - Tela de cadastro/edição do workflow, aba de Ações
 - O nome literal para a mesma;   
 - O script que será executado quando a ação for acionada.    
 
-4- Para editar uma ação, selecione a ação desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
+4- Para editar uma ação, selecione a ação desejada, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.  
 
 5- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.   
 
 !!! Abstract "ATENÇÃO"  
 
-    **Para salvar efetivamente as alterações, clique em Salvar na barra superior**  
+    Para salvar efetivamente as alterações, clique em Salvar na barra superior.
 
 ##DIAGRAMA  
 
@@ -142,7 +147,8 @@ Os demais componentes presentes na paleta se assemelham aos componentes de um �
 1- Para desenhar o diagrama, escolha a aba refente ao mesmo.  
 2- A seguinte tela será exibida:  
 
-![Screenshot](images/Service-Integration-Flow-fig07.png) 
+![Screenshot](images/Service-Integration-Flow-fig07.png)
+
 Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
 
 

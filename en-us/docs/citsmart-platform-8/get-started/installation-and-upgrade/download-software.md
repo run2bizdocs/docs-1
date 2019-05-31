@@ -4,6 +4,7 @@ Title: Software download
 
 
 !!! warning
+
     From this point, it will be necessary a subscription.
     The CITSmart Enterprise installation requires an operating system GNU/Linux with kernel equal or higher than 3.10.
     We recommend Red Hat, CentOS, Debian or Ubuntu.
@@ -13,6 +14,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 ### Wildfly Application Server
 
 !!! warning
+
     In this knowledge we'll use PostgreSQL.
     You can download the package of Oracle or MSSQL and make the changes as described for the PostgreSQL.
 
@@ -28,6 +30,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 ### MongoDB Database Server
 
 !!! warning
+
     In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
     Download the MongoDB as its distribution.
     The version of MongoDB should be 3.4.
@@ -41,6 +44,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 ### PostgreSQL/Oracle/MSSQL Database Server
 
 !!! warning
+
     In the knowledge, we'll use the PostgreSQL with download of official repository.
 
 The CITSmart Enterprise is consistent with PostgreSQL 9.2 or higher and the download will be done when configure the packages.
@@ -56,6 +60,7 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
 ### Apache Solr Indexing Server
 
 !!! warning
+
     The version homologate of the Apache Solr is 6.4.2.
 
     Solr 6.4.2: http://files.citsmart.com/solr-6.4.2.zip
@@ -69,8 +74,12 @@ http://files.citsmart.com/assets.tar.gz
 ## Package Configuration
 
 !!! warning
-    We'll use the directory /opt to install all packages to CITSmart Enterprise.GNU/Linux with minimum installation should be configured in the 4 machines.
-    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the package management.
+    
+    We'll use the directory /opt to install all packages to CITSmart Enterprise.
+    
+    GNU/Linux with minimum installation should be configured in the 4 machines.
+    
+    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the           package management.
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
 

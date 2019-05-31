@@ -19,7 +19,7 @@ Procedimiento
 
 4.  Seleccione el portafolio recién creado y hacer clic en "Avanzar";
 
-5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles.
+5.  Hacer clic en "Nueva plantilla" y completar los campos disponibles;
 
     !!! Abstract "ATENCIÓN"
 

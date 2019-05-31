@@ -1,6 +1,6 @@
 title: Utilizar aplicaciones Neuro en el Centro de Experiencia
 Description: Utilizar aplicaciones Neuro en el Centro de Experiencia
-#Utilizar aplicaciones Neuro en el Centro de Experiencia
+# Utilizar aplicaciones Neuro en el Centro de Experiencia
 
 Centro de Experiencia
 

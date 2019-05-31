@@ -28,7 +28,7 @@ Procedure
 | 317 | Activity ID of requests created by chat |                 | Activity ID of requests created by chat |    Not applicable   |
 | 388 |    Default user ID (External request)   |                 |    Default user ID (External request)   |    Not applicable   |
 | 389 |   Default group ID (External request)   |                 |   Default group ID (External request)   |    Not applicable   |
-| 390 |             Default unit ID             |                 |             Default unit ID             |    Not applicable   |
+| 390 |             Default unit ID             |                 | Unit ID that will be assigned to the user registered in the profile |    Not applicable   |
 
 Table 1 - Parameters list
 

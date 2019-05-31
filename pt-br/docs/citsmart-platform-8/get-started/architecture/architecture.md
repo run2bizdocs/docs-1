@@ -6,7 +6,7 @@ Title: Cloud Architecture
 Com foco em uma expansão global e uma infra-estrutura tecnológica que atende aos
 requisitos de nossos clientes e parceiros, o CITSmart optou pelo modelo SaaS
 (Software como Serviço) para garantir agilidade no fornecimento de soluções para
-nossos clientes e parceiros e fornecer uma solução confiável e resiliente. e
+nossos clientes e parceiros e fornecer uma solução confiável, resiliente e
 infra-estrutura segura. Na nuvem, temos uma infraestrutura computacional e uma
 arquitetura de rede projetada para atender aos mais altos requisitos
 tecnológicos e de segurança do mercado mundial.
@@ -16,7 +16,7 @@ soluções baseadas em nuvem, o CITSmart usa os recursos de tecnologia e seguran
 fornecidos pela Amazon Web Services (AWS). Usando a nuvem da AWS, nós, nossos
 parceiros e clientes podemos desfrutar de:
 
-* Uma plataforma de computação altamente escalável com alta confiabilidade e
+* Uma plataforma de computação altamente escalável com alta confiabilidade,
 disponibilidade e segurança física projetada para grandes escalas.
 
 * Um legado de gerenciamento de vários programas e certificações de conformidade.

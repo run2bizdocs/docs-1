@@ -57,7 +57,7 @@ Procedimento 
 5.  Clicar no botão de opções e em seguida "Gravar" para concluir a operação.
 
 Relacionado
------------
+----------- 
 
 [Configurar parametrização - conhecimento](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 

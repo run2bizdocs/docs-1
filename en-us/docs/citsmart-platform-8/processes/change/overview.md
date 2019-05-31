@@ -50,6 +50,8 @@ Use
 
 -  [Suspend change](/en-us/citsmart-platform-8/processes/change/use/suspend-change.html)
 
+- [Register change occurrences](/en-us/citsmart-platform-8/processes/change/use/change-occurrences.html)
+
 Configuration
 ----------------
 

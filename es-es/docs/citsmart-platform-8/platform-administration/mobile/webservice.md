@@ -12,7 +12,7 @@ Relacionado
 
 [Manual de uso de la aplicación del CITSmart GO][2]
 
-[Configurar las opciones del mobile][3]
+[Configurar las opciones de menú en el móvil][3]
 
 
 [1]:/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html

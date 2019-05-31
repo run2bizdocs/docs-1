@@ -26,7 +26,7 @@ Antes de empezar
 Procedimiento
 -----------------
 
-*Webservice*
+***Webservice***
 
 1.  Acceder al menú menu principal Sistema \> Web Service \> Operación del Web
     Service;
@@ -59,7 +59,7 @@ Procedimiento
 
 3.  Hacer clic en "Guardar" después de configurar los grupos en cada webservice.
 
-*Unidad*
+***Unidad***
 
 1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
     Unidad:

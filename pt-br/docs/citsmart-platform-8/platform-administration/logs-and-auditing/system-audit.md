@@ -1,6 +1,6 @@
-title:  Auditoria do sistema
+title:  Realizar auditoria no sistema
 Description: Permite gerenciar os eventuais riscos ao sistema
-# Auditoria do sistema
+# Realizar auditoria no sistema
 
 Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
 Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração
@@ -8,51 +8,7 @@ Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas 
 Antes de começar 
 -----------------
 
-**Versão inferior à 0.4.0**
-
-É necesseário a instalação prévia dos seguintes produtos:
-
--   ACTIVEMQ com a versão 5.15.8 ou superior;
-
--   Mongodb.
-
-**Versões iguais ou superiores à 0.4.0**
-
-- Não é preciso ter um ActiveMQ externo ativo;
-
-- Não é preciso ter um serviço executando o .jar da auditoria;
-
-- Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na
-pasta "\deployments"
-
-- Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activeqm:
-
-<jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
-<jms-queue name="ITSM.READ_LICENSE_AUDIT" entries="queue/ITSM.READ_LICENSE_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_LICENSE_AUDIT"/>
-<jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
-<jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
-
-- Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no CITSmart EVM e CITSmart Inventory):
-
-<property name="mongodb.host" value="localhost"/>
-<property name="mongodb.port" value="27017"/>
-<property name="mongodb.user" value="mongodb"/>
-<property name="mongodb.password" value="mongodb"/>
-<property name="mongodb.dabase.audit" value="itsm-audit"/>   
-
-!!! note "OBSERVAÇÃO"
-
-    Configurar a conexão com do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações).
-
-- O parâmetro 424 deve ficar em branco;
-
-- O parâmetro 425 deve ficar dessa forma (http://localhost:8080/itsm-audit);
-
-!!! Abstract "ATENÇÃO"
-
-    A porta 8080 deve ser alterada ser alterada se o CITSmart estiver sendo         executado em porta diferente.  
-    
-- Adicionar o .war em anexo na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart.
+Configurar a funcionalidade "Audit" em sua instância
    
 Procedimento
 ------------
@@ -75,14 +31,14 @@ funcionalidade.
 
     !!! Abstract "NOTA"
 
-        A escolha da frequência deve ser a partir de 1 (um) dia para a execução         do backup.  
+        A escolha da frequência deve ser a partir de 1 (um) dia para a execução do backup.  
 
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
     !!! note "IMPORTANTE"
 
-        São oferecidos três tipos de auditoria de sistema: auditoria dos dados           do sistema, do acesso ao sistema e as licenças do mesmo.
+        São oferecidos três tipos de auditoria de sistema: auditoria dos dados do sistema, do acesso ao sistema e as licenças do mesmo.
 
 ***Auditoria de dados do sistema***
 
@@ -142,6 +98,9 @@ realizadas no sistema.*
 
 3.  É possível pesquisar uma determinada licença e seu prazo de validade pelos
     filtros liberados na tela principal.
+    
+Relacionado
+-------------
     
 !!! tip "About"
 

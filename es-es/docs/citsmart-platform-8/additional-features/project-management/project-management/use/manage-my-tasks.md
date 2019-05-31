@@ -1,6 +1,6 @@
 title: Gestionar mis tareas de proyecto
 Description: Administrar sus tareas relacionadas con los proyectos.
-#Gestionar mis tareas de proyecto
+# Gestionar mis tareas de proyecto
 
 
 Esta funcionalidad tiene el objetivo de administrar sus tareas relacionadas con

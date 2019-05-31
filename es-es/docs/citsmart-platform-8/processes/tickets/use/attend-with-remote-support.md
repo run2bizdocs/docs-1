@@ -34,7 +34,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar acceso remoto](/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
+[Crear conexión con el servidor de acceso remoto](/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)
 

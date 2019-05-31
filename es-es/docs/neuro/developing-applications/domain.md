@@ -1,6 +1,6 @@
 title: Dominio
 Description: Dominio
-#Dominio
+# Dominio
 
 Neuro permite definir dominios que serán utilizados por todas las aplicaciones de la institución. El identificador (clave) agrupa los elementos del Dominio.
 

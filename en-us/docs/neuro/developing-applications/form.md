@@ -118,12 +118,12 @@ Procedure
 
     Figure 7 - Design
 
-7.	Click Save to run the changes. You can save it in the original version (current version), or in a new version.
+7.	Click "Save" to run the changes. You can save it in the original version (current version), or in a new version.
 
 
 !!! Abstract "JS for visualization"
 
-    This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the View Screen button. More information can be found in the Developing Applications.
+    This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the "View Screen" button.     More information can be found in the Developing Applications.
 
 
 !!! tip "About"

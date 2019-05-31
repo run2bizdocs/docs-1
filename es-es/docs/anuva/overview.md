@@ -10,11 +10,16 @@ Anuva utiliza inteligencia artificial para realizar diálogos con usuarios de fo
 ## Funcionamiento de la Anuva
 
 Anuva utiliza 5 conceptos principales en su funcionamiento:
-Build: a través de su interfaz, es posible crear ejemplos de flujo de conversación (diálogos) para que pueda aprender cómo reaccionar a las interacciones de los usuarios;
-Train: después de crear los ejemplos de diálogo, es posible entrenar a Anuva, para que ella pase a considerar los ejemplos dados en sus interacciones. La diferencia de la mayoría de las soluciones, Anuva utiliza inteligencia artificial para entender lo que el usuario quiso decir, luego no es necesario que el usuario escriba exactamente la misma frase que fue pasada como ejemplo.
-Code: Es posible conectar Anuva con API externas, permitiendo acceder a datos necesarios para entregar valor al usuario;
-Connect: Es posible integrar Anuva a diferentes plataformas de mensajes, de forma nativa, ya puede ser integrada a Facebook y al CITSmart.
-Monitor: Una vez disponible para el usuario, es posible acompañar las conversaciones realizadas por Anuva, para mejorar la información de entrenamiento y obtener información sobre nuevos diálogos a ser enseñados a Anuva. 
+
+* Build: a través de su interfaz, es posible crear ejemplos de flujo de conversación (diálogos) para que pueda aprender cómo reaccionar a las interacciones de los usuarios;
+
+* Train: después de crear los ejemplos de diálogo, es posible entrenar a Anuva, para que ella pase a considerar los ejemplos dados en sus interacciones. La diferencia de la mayoría de las soluciones, Anuva utiliza inteligencia artificial para entender lo que el usuario quiso decir, luego no es necesario que el usuario escriba exactamente la misma frase que fue pasada como ejemplo.
+
+* Code: Es posible conectar Anuva con API externas, permitiendo acceder a datos necesarios para entregar valor al usuario;
+
+* Connect: Es posible integrar Anuva a diferentes plataformas de mensajes, de forma nativa, ya puede ser integrada a Facebook y al CITSmart.
+
+* Monitor: Una vez disponible para el usuario, es posible acompañar las conversaciones realizadas por Anuva, para mejorar la información de entrenamiento y obtener información sobre nuevos diálogos a ser enseñados a Anuva. 
 
 ## Accedendo a Anuva
 

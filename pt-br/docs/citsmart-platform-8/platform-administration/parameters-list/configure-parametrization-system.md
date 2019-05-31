@@ -1,6 +1,6 @@
 title: Configurar parametrização - sistema
 Description: Alterar características no que tange trocar a forma de autenticação no Sistema.
-#Configurar parametrização - sistema
+# Configurar parametrização - sistema
 
 A parametrização do "Sistema" é utilizada para alterar características no que
 tange trocar a forma de autenticação no sistema, informar a URL do sistema,

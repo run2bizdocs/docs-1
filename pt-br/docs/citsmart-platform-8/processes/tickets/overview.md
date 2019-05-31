@@ -78,16 +78,16 @@ Uso
 
 - [Cadastrar origem de ticket](/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-source.html)
 
-- [Criar modelo de template e incidente, requisição e procedimento](/pt-br/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
-
 - [Verificar meus tickets](/pt-br/citsmart-platform-8/processes/tickets/use/verify-my-tickets.html)
 
 Configuração
 -----------------
 
-- [Aprovar solicitação via email](/pt-br/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
+- [Configurar aprovação de ticket via e-mail](/pt-br/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
 
 - [Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+
+- [Criar modelo de template e incidente, requisição e procedimento](/pt-br/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
 
 - [Como relacionar um grupo a um contrato](/pt-br/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
 
@@ -102,6 +102,12 @@ Configuração
 - [Cadastrar categoria de solução](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
  
 - [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/access-ticket-management.html)
+
+- [Como criar e, em seguida, encerrar um ticket](/pt-br/citsmart-platform-8/processes/tickets/configuration/create-then-close-ticket.html)
+
+- [Criar um ticket automaticamente a partir do recebimento de um e-mail](/pt-br/citsmart-platform-8/processes/tickets/configuration/create-ticket-receiving-email.html)
+
+- [Notificar via email ticket delegado](/pt-br/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html)
 
 Relatório
 ----------

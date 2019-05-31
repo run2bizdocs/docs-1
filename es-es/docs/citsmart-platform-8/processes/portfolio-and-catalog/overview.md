@@ -16,6 +16,8 @@ Uso
 
 - [Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
+- [Crear Mapa de Servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
+
 - [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
 - [Configurar atributos del contrato de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
@@ -72,6 +74,10 @@ Configuración
 - [Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
 - [Registrar encuesta de satisfación](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+
+- [Registrar empresa](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-company.html)
+
+- [Implementar forma de envío de e-mail a ticket reclasificado](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html)
 
 Informe
 ----------

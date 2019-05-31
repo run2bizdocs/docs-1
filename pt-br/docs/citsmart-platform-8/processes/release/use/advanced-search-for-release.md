@@ -15,10 +15,7 @@ Procedimento
 
 3.  Apertar o botão de "Pesquisa avançada"
 
-4.  Preencher os filtros (período de abertura da liberação,
-    período de encerramento da liberação, número, ordenação,
-    unidade, solicitante, situação, prioridade, grupo solucionador e exibir
-    campo de descrição em relatório?) e clicar em "Pesquisa avançada";
+4.  Preencher os filtros e clicar em "Pesquisa avançada";
 
 5.  Para gerar o relatório das liberações em formato PDF, clicar no
     botão "Gerar PDF" e para gerar o relatório em formato Excel, clicar no botão

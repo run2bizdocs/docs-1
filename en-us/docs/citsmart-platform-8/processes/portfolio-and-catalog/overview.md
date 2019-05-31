@@ -26,6 +26,8 @@ Use
 
 - [Link activities to the service contract](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
+- [Create Service Map](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
+
 - [Register service activity](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 - [Manage my requests through Smart Portal](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
@@ -48,6 +50,8 @@ Configuration
 - [Register cause of incidents](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
 - [Register solution category](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+
+- [Implement the way of sending email to reclassified ticket](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html)
 
 - [Register request justification](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
@@ -76,6 +80,8 @@ Configuration
 - [Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
 - [Register satisfaction survey](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+
+- [Register company](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-company.html)
 
 Report
 ----------

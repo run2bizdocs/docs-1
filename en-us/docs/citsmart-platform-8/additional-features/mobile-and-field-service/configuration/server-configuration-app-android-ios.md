@@ -135,14 +135,14 @@ Below are the Google APIs to consider in the solutions:
 
 Figure 7 - APIs
 
- +   Directions API: the Google Directions API is consumed through HTTP
+ +   **Directions API**: the Google Directions API is consumed through HTTP
     requests. This API calculates directions between two points informed, the
     source and the destination, having several other options.
 
     +  For more information about using this API,
         access: <https://developers.google.com/maps/documentation/directions>.
 
- +   Distance Matrix API: the Google Distance Matrix API allows the retrieval
+ +   **Distance Matrix API**: the Google Distance Matrix API allows the retrieval
     of arrays of distances between two points, that is, returns approximate
     result as well. The difference for the Google Directions API is that the
     Distance Matrix does not return such detailed information as the steps to be
@@ -151,7 +151,7 @@ Figure 7 - APIs
     +  For more information about using this API,
         access: <https://developers.google.com/maps/documentation/distancematrix>.
 
- +   Geocoding API: the Google geocoding API is an API that helps you
+ +   **Geocoding API**: the Google geocoding API is an API that helps you
     retrieve geographic positions by sending an extended address as an argument.
     The consumption of the API is done by HTTP and the results can be obtained
     in XML or JSON.
@@ -159,7 +159,7 @@ Figure 7 - APIs
     +   For more information about using this API,
         access: <https://developers.google.com/maps/documentation/geocoding>.
 
-+   Statics Maps API: the Google Static Maps API will be used in cases where
++   **Statics Maps API**: the Google Static Maps API will be used in cases where
     interaction will not be required as a map, only view. It is interesting to
     use since it is lighter, since it is not necessary to download JS resource
     and images that will not be used.
@@ -167,7 +167,7 @@ Figure 7 - APIs
     +   For more information about using this API,
         access: <https://developers.google.com/maps/documentation/staticmaps>.
 
-+   Google Maps JavaScript API: the use of the API is done through a JS API.
++   **Google Maps JavaScript API**: the use of the API is done through a JS API.
     For your use, simply link to JS on the page that will use the maps.
 
     +   For more information about using this API,

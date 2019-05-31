@@ -9,6 +9,7 @@ Description: Release notes, policies information, bug fixes and improvements in 
 ## [Version 8.0.0.3 (2019/04/04)][4]
 ## [Version 8.0.0.4 (2019/04/12)][5]
 ## [Version 8.0.0.5 (2019/04/25)][6]
+## [Version 8.0.0.7 (2019/05/17)][7]
 
 !!! info "IMPORTANT"
 
@@ -21,4 +22,5 @@ Description: Release notes, policies information, bug fixes and improvements in 
 [4]:release-notes/version-8.0.0.3.md
 [5]:release-notes/version-8.0.0.4.md
 [6]:release-notes/version-8.0.0.5.md
+[7]:release-notes/version-8.0.0.7.md
 [50]:release-notes/release-policy.md

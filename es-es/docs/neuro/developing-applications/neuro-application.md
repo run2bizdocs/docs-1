@@ -1,6 +1,6 @@
 title: Aplicación Neuro
 Description: Aplicación Neuro
-#Aplicación Neuro
+# Aplicación Neuro
 
 
 

@@ -52,6 +52,8 @@ Uso
 
 -  [Suspender uma mudança](/pt-br/citsmart-platform-8/processes/change/use/suspend-change.html)
 
+-  [Cadastrar as ocorrências da Mudança](/pt-br/citsmart-platform-8/processes/change/use/change-occurrences.html)
+
 Configuração
 ----------------
 

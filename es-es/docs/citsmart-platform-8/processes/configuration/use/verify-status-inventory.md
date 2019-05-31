@@ -24,9 +24,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
-
-[Registrar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Implementar CITSmart Inventory](/es-es/citsmart-platform-8/additional-features/add-ons/inventory.html)
 
 !!! tip "About"
 

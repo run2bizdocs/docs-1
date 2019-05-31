@@ -12,13 +12,13 @@ Following the example of large companies offering their services based on cloud-
 
 In addition to the capabilities provided by the cloud, Citsmart seeks to maintain the security and privacy of its customers' data through internal policies and adoption of standards to ensure compliance with international regulatory requirements.
 
-# Cloud Architecture Overview
+## Cloud Architecture Overview
 
 A basic overview of how the CITSmart cloud works can be seen in the diagram below:
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
-# CITSmart Cloud Security
+## CITSmart Cloud Security
 
 CITSmart has security compliance based on the following areas in which it is responsible within the cloud environment:
 

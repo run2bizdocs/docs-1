@@ -80,6 +80,8 @@ Uso
 Configuración
 -----------------
 
+- [Definir permiso de acceso para la gestión de continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+
 - [Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
 - [Registrar cliente](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
