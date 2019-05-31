@@ -1,6 +1,6 @@
 title: Cadastrar menu
 Description: Permitir ao usuário a configuração dos itens de menu de acordo com as suas preferências.
-#Cadastrar menu
+# Cadastrar menu
 
 Esta funcionalidade tem por objetivo permitir ao usuário a configuração dos
 itens de menu de acordo com as suas preferências. Prover melhor usabilidade no
@@ -25,7 +25,11 @@ Procedimento
 5.  Ter muito cuidado em relação à execução do botão "Atualizar Menus", pois
     todas as alterações cadastrais dos menus serão perdidas desde a última vez
     que houve a geração de XML. Recomenda-se, portanto, a seguinte sequência de
-    execução: (1) botão "Gerar XML" e (2) botão "Atualizar Menus".
+    execução: 
+    
+    (1) botão "Gerar XML" 
+    
+    (2) botão "Atualizar Menus".
 
 6.  Clicar em "Gravar".
 
