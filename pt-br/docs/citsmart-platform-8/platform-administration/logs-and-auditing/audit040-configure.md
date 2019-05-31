@@ -16,7 +16,7 @@ Veja as principais novidades da versão 0.4.0
  - Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na pasta "\deployments";
  
 Procedimento
-------------
+--------------
 
 1. Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq:
 
@@ -39,5 +39,19 @@ Procedimento
      !!! Abstract "OBSERVAÇÃO"
 
          Configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.
+ 
+3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
 
-3. Teste
+4. Adicionar o WAR  do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
+
+5. Após esses passos e configurações, a auditoria já deve estar em execução
+
+Relacionado
+-------------
+
+[Realizar auditoria no sistema](/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>05/31/2019 – Larissa Lourenço
