@@ -1,6 +1,6 @@
 title: Configurar parametrização - VoIP
 Description: Permitem definir a senha para comunicação com o servidor, informar o ramal de comunicação padrão para ligação VoIP, dentre de outras ações viáveis afim de configurar o uso do VoIP no CITSmart.
-#Configurar parametrização - VoIP
+# Configurar parametrização - VoIP
 
 VoIP (Voice over Internet Protocol) é o roteamento de conversação humana usando
 a Internet ou qualquer outra rede de computadores baseada no Protocolo de
