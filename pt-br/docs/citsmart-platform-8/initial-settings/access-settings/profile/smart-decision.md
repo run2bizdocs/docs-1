@@ -1,6 +1,6 @@
 title: Definir a permissão de acesso das decisões Smart
 Description: Permite definir quem terá acesso aos widgets para inserção no dashboard o qual é exibido na tela principal do sistema.
-#Definir a permissão de acesso das decisões Smart
+# Definir a permissão de acesso das decisões Smart
 
 A funcionalidade de permissão de acesso das Decisões Smart permite definir quem
 terá acesso aos widgets para inserção no dashboard o qual é exibido na tela
