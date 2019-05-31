@@ -2,7 +2,7 @@ Title: Manutenção de Questionários
 
 # Manutenção de Questionários
 
-Questionários são instrumentos que podem ser usados para coletar informações. No CITSmart Platform, eles podem ser usados para capturar informações no início de um atendimento (Gerenciamento de Ticket) e servir como recursos para a aplicação de listas de verificação nos processos de Mudança, Liberação e Problema.
+Questionários são instrumentos que podem ser usados para coletar informações. No CITSmart Platform, eles podem ser usados para capturar informações no início de um atendimento (Gerenciamento de Ticket) e servir como recurso para a aplicação de listas de verificação nos processos de Mudança, Liberação e Problema.
 
 ## Relacionado
 
