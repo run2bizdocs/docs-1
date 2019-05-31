@@ -31,13 +31,13 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-3.  Para vincular um usuário clicar na guia "Adicionar Usuários" e em seguida em
+3.  Para vincular um usuário, clicar na guia "Adicionar Usuários" e em seguida em
     "Adicionar";
 
-4.  Para vincular um usuário clicar na guia "Adicionar Grupos" e em seguida em
+4.  Para vincular um grupo, clicar na guia "Adicionar Grupos" e em seguida em
     "Adicionar";
 
-5.  Para vincular um usuário clicar na guia "Adicionar E-mails", digitar o
+5.  Para vincular um e-mail, clicar na guia "Adicionar e-mails", digitar o
     e-mail no campo e em seguida em "Adicionar";
 
 6.  Clicar em "Gravar".
