@@ -6,8 +6,8 @@ A parametrização do "Sistema" é utilizada para alterar características no qu
 tange trocar a forma de autenticação no sistema, informar a URL do sistema,
 informar os diretórios diversos (GED, Log, Temporários), definir a página
 inicial, validar as permissões de botões (gravar, excluir e pesquisar), ativar o
-log do sistema (auditoria), definir preferências de idioma, dentro de outras
-ações viáveis.
+log do sistema (auditoria), definir preferências de idioma, dentre outras
+ações.
 
 Procedimento
 -----------
