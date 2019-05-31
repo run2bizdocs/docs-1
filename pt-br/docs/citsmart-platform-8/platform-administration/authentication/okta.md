@@ -61,8 +61,7 @@ Procedimento
 
 *3º Passo: Atribuir usuários a aplicação CITSmart do Okta:*
 
-1. Logo após, conluído o passo anterior e ainda na mesma página descrita no passo
-antecedente, é necessário clicar na aba "Applications" e em seguida em "Assignments". Aperte então no botão "Assign" e opte pelo o filtro chamado "People";
+1. Concluído o passo anterior, é necessário clicar na aba "Applications" e em seguida em "Assignments". Aperte então no botão "Assign" e opte pelo o filtro chamado "People";
 
       ![Atribuição de usuários](images/okta.img9.png)
 
