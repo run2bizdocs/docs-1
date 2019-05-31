@@ -7,8 +7,7 @@ content of knowledge published in the knowledge base, identifying terms that
 represents the subject, to reference it and ensure preciser return of the
 knowledge when searched.
 
-It'll be indexed the amount of knowledge, as configured in the parameter "Total
-items to be imported at a time when indexing documents in Solr (E.g.: 1000)".
+It'll be indexed the amount of knowledge, as configured in the parameter 308.
 
 When publishing new knowledge, it's not necessary to remove the current index
 and index it once again, the procedure is automatic.
