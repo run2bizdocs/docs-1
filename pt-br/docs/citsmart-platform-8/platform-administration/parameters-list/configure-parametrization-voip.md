@@ -7,7 +7,7 @@ a Internet ou qualquer outra rede de computadores baseada no Protocolo de
 Internet, tornando a transmissão de voz mais um dos serviços suportados pela
 rede de dados. Os parâmetros do "VoIP" permitem definir a senha para comunicação
 com o servidor, informar o ramal de comunicação padrão para ligação VoIP, dentre
-de outras ações viáveis afim de configurar o uso do VoIP no CITSmart.
+outras ações afim de configurar o uso do VoIP no CITSmart.
 
 Procedimento
 -----------
