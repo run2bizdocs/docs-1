@@ -5,9 +5,9 @@ Description: Permite ativar a troca de mensagens entre o solicitante e o respons
 O Smart Portal é um recurso da solução que disponibiliza o Catálogo de Serviços
 (Negócio e Apoio) aos usuários do sistema e entres outras informações, como:
 solicitações de serviços, notícias referentes ao sistema e chat. A
-parametrização do "Smart portal" permite ativar a troca de mensagens entre o
+parametrização do "Smart Portal" permite ativar a troca de mensagens entre o
 solicitante e o responsável pela solicitação, habilitar a opção de cancelar um
-ticket pelo portal, dentre outras ações viáveis.
+ticket pelo Portal, dentre outras ações viáveis.
 
 Procedimento
 ------------
