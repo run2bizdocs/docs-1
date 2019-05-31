@@ -5,7 +5,7 @@ Description: Permitem ações do gerenciamento de ticket, como por exemplo o flu
 Para a entrega de serviços são necessárias algumas configurações de parâmetros
 que permitem ações do gerenciamento de ticket, como por exemplo o fluxo padrão,
 a fase em que a solicitação de serviço ao ser registrada será encaminhada, entre
-muitas outras.
+outras.
 
 Procedimento
 ----------------
