@@ -1,6 +1,6 @@
 title: Cadastrar jornadas de trabalho
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir a jornada de trabalho da organização.
-#Cadastrar jornadas de trabalho
+# Cadastrar jornadas de trabalho
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir a jornada de trabalho da organização.
