@@ -48,7 +48,7 @@ Procedimento
  
 !!! Abstract "NOTA"
 
-    No campo **Permissões nos fluxos de trabalho** defini-se as ações que o grupo poderá realizar nos fluxos de trabalho.
+    No campo **Permissões nos fluxos de trabalho** define-se as ações que o grupo       poderá realizar nos fluxos de trabalho.
 
 
 
