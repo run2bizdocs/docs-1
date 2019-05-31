@@ -9,7 +9,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
     Configurações \> Páginas - Configuração de campos;
 
-2.  Será apresentada as páginas que comportam a escolha de campos obrigatórias.
+2.  Serão apresentadas as páginas que comportam a escolha de campos obrigatórios.
     São duas: Gerenciamento de Problema e Gerenciamento de
     Incidentes/Requisições.
 
