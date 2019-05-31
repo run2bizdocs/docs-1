@@ -1,6 +1,6 @@
 title: Verificar log do sistema
 Description: Verificar o log do sistema para trilha de auditoria.
-#Verificar log do sistema
+# Verificar log do sistema
 
 Esta funcionalidade tem por objetivo verificar o log do sistema para trilha de
 auditoria.
@@ -8,9 +8,9 @@ auditoria.
 !!! Abstract "NOTA"
 
     Caso os nomes das tabelas não estejam atualizados, acessar a
-    funcionalidade Parâmetros CITSmart e defina o nome do banco de dados
+    funcionalidade Parâmetros CITSmart e definir o nome do banco de dados
     utilizado no parâmetro ' DB - nome do SHEMA do banco de dados '. Após isto,
-    acessar funcionalidade Carrega Meta Dados e atualize todas as tabelas.
+    acessar funcionalidade Carrega Meta Dados e atualizar todas as tabelas.
 
 Procedimento
 -----------
