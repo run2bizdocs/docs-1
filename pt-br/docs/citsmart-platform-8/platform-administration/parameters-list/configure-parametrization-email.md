@@ -1,6 +1,6 @@
 title: Configurar parametrização - e-mail
 Description: Permite configurar o envio de leitura de e-mail, informar o domínio de e-mail padrão da empresa, dentre outras ações.
-#Configurar parametrização - e-mail
+# Configurar parametrização - e-mail
 
 
 Podemos definir o e-mail (correio eletrônico) como um método que permite compor,
