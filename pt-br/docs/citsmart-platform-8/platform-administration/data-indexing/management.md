@@ -1,6 +1,6 @@
 title: Indexar conhecimentos
 Description: Tem por objetivo criar índices, ou seja, conhecer o conteúdo dos conhecimentos publicados na base de conhecimento, identificando termos que representem seu assunto, para referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
-#Indexar conhecimentos
+# Indexar conhecimentos
 
 A funcionalidade de Indexação de Conhecimentos tem por objetivo criar índices,
 ou seja, conhecer o conteúdo dos conhecimentos publicados na base de
@@ -8,8 +8,7 @@ conhecimento, identificando termos que representem seu assunto, para
 referenciá-los e garantir um retorno preciso do conhecimento, quando pesquisado.
 
 Será indexado a quantidade de conhecimentos conforme configurado no parâmetro
-“Total de itens a serem importados por vez ao indexar documentos no Solr (Ex:
-1000)".
+308.
 
 Ao publicar novos conhecimentos, não é necessário remover a indexação atual e
 indexar novamente, o procedimento é automático.
