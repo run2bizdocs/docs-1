@@ -2,7 +2,7 @@ title: Criar conhecimento
 Description: É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
 # Criar conhecimento
 É possível criar, editar e pesquisar conhecimentos que vão desde o esclarecimento de uma funcionalidade até mesmo orientações mais técnicas.
-Um conhecimento permite a anexação de imagens, vídeos, anexos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
+Um conhecimento permite a anexação de imagens, vídeos, links, entre outros recursos audiovisuais, tornando assim o compartilhamento de informações mais interativo.
 
 Antes de começar
 --------------------
