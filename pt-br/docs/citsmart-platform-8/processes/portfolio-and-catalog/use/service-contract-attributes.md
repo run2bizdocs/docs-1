@@ -2,12 +2,12 @@ title: Configurar atributos do contrato do serviço
 Description: Configura os atributos tanto do Contrato do Serviço de Negócio/TI quanto do Contrato do Serviço de Apoio/Técnico.
 # Configurar atributos do contrato do serviço
 
-O módulo de gestão de Porfólio permite o gerenciamento flexível de serviços, sendo assim é possível vincular um ou mais contratos a um serviço específico (multicontrato). Esta característica possibilita o atendimento de diversos requisitos para um mesmo serviço, sendo assim, é possível ter para um mesmo serviço diferentes fluxos de atendimento, SLAs, condições de operação, etc. 
+O módulo de gestão de Porfólio permite o gerenciamento flexível de serviços, sendo assim é possível vincular um ou mais contratos a um serviço específico (multicontrato). Esta característica possibilita o atendimento de diversos requisitos para um mesmo serviço, sendo assim, é possível ter para um mesmo serviço com diferentes fluxos de atendimento, SLAs, condições de operação, etc. 
 
 Antes de começar
 --------------------
 
-Para configurar os atributos do contrato do serviço é preciso antes ter um serviço cadastrado.
+Para configurar os atributos do contrato do serviço é preciso antes, ter um serviço cadastrado.
 
 Procedimento
 ----------------
@@ -15,7 +15,7 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Portfólio e Catálogo \> Portfólio;
 
-2.  Acessar o Portfólio de Serviços que deseja, clicar no botão "Avançar' do
+2.  Acessar o Portfólio de Serviços que deseja, clicar no botão "Avançar" do
     mesmo;
 
 3.  Clicar no botão "Avançar" do serviço para acessá-lo. Após isso, será
