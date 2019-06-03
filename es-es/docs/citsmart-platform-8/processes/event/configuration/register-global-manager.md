@@ -5,8 +5,8 @@ Description: Crear reglas para monitorear varios tipos de eventos.
 Esta funcionalidad tiene como objetivo crear reglas para monitorear varios tipos
 de eventos.
 
-Cada gerente de eventos global contiene una EPL para information (información),
-Warning (advertencia) y/o Exception (excepción). EPL es un lenguaje de
+Cada gerente de eventos global contiene una EPL para *information* (información),
+*Warning* (advertencia) y/o *Exception* (excepción). EPL es un lenguaje de
 correlación de eventos utilizado por Esper (Espertech). En la inicialización del
 CITSmart Event Monitor, estos EPL se importan al engine del Esper, de modo que
 un nuevo evento correlacionado se creará cada vez que se cumpla la condición
@@ -36,7 +36,7 @@ Procedimiento
     -  Informe los datos de la **Acción de Information**:
 
         -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
-           evento del tipo information, el grado de urgencia e impacto. Las reglas
+           evento del tipo *information*, el grado de urgencia e impacto. Las reglas
            para esta acción se definen utilizando el Lenguaje de Procesamiento de
            Eventos - EPL. Haga clic en el botón *Validar EPL de Information* para
            validar la EPL informada.  
@@ -44,7 +44,7 @@ Procedimiento
     -   Informe los datos de la **Acción de Warning**:  
 
         -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
-           evento del tipo warning, el grado de urgencia e impacto. Las reglas para
+           evento del tipo *warning*, el grado de urgencia e impacto. Las reglas para
            esta acción se definen utilizando el Lenguaje de Procesamiento de
            Eventos - EPL. Haga clic en el botón *Validar EPL de Warning* para
            validar la EPL informada.   
@@ -52,7 +52,7 @@ Procedimiento
     -   Informe los datos da la **Acción de Exception**:
 
         -  Seleccionar la acción que se disparará cuando haya una ocurrencia de
-           evento del tipo exception, el grado de urgencia e impacto. Las reglas
+           evento del tipo *exception*, el grado de urgencia e impacto. Las reglas
            para esta acción se definen utilizando el Lenguaje de Procesamiento de
            Eventos - EPL. Haga clic en el botón *Validar EPL de Exception* para
            validar la EPL informada.   
