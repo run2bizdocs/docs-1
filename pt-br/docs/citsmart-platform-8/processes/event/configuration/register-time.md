@@ -3,7 +3,7 @@ Description: Tem como objetivo agendar tarefas.
 # Cadastrar horário
 
 Esta funcionalidade tem como objetivo agendar tarefas. São escolhidos filtros de
-horário e data e é gerada uma Expressão Cron que tem como objetivo criar agendas
+horário e data e é gerado uma Expressão Cron que tem como objetivo criar agendas
 de disparo para serem executadas periodicamente nesses horários e datas
 estabelecidos. Por exemplo, para realizar um inventário da rede, deve ser
 selecionado um agendamento previamente cadastrado para o sistema executar esse
