@@ -18,8 +18,6 @@ Uso
 
 - [Presentar y buscar por tags en el portal del conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
-- [Buscar conocimiento por la Guía del Usuario](/es-es/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
-
 - [Revisar comentarios del Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
 
 Configuración
