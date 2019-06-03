@@ -48,10 +48,9 @@ Procedimento
 
 6. Configurar o caminho da aplicação e depois clicar no botão Next
 
-      ![Configurar caminho](images/okta.img7.png)
+    ![Configurar caminho](images/okta.img7.png)
 
     !!!Abstract "ATENÇÃO"
-    
        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a Apilicação CITSmart será executada.  
      
 7. Marcar as opções "I'm an Okta customer adding an internal app" e "This is an internal app that we have created". Logo em seguida, clicar no botão "Finish".
