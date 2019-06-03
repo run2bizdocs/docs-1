@@ -36,9 +36,9 @@ Procedimento
     <property name="mongodb.dabase.audit" value="itsm-audit"/>
     ```
      
-      !!! Abstract "OBSERVAÇÃO"
+    !!! Abstract "OBSERVAÇÃO"
  
-          Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.
+        Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
  
 3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
 
