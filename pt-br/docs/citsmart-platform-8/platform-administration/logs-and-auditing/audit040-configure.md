@@ -26,6 +26,7 @@ Procedimento
     <jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```
+
 2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):  
 
     ```java
