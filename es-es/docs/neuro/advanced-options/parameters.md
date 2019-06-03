@@ -35,16 +35,19 @@ Figura 2 - Pantalla de lista de parámetros
 ![Screenshot](images/Parameters-home.png)  
 Figura 3 - Pantalla inicial de parámetros  
 
-2- En esta pantalla también se permite al usuario otras acciones:    
-- Editar: cambia un parámetro existente. Para editar, seleccione un elemento de la tabla y haga clic en "Editar".   
-- Ver: presenta un parámetro registrado. No permite la edición. Para ver, seleccione un elemento de la tabla y haga clic en Ver..  
+2- En esta pantalla también se permite al usuario otras acciones:
+
+* Editar: cambia un parámetro existente. Para editar, seleccione un elemento de la tabla y haga clic en "Editar";
+
+* Ver: presenta un parámetro registrado. No permite la edición. Para ver, seleccione un elemento de la tabla y haga clic en Ver..  
 
 3- Al hacer clic en Registrar, aparecerá la siguiente pantalla:   
 
 ![Screenshot](images/Parameters-register.png)   
 Figura 4 - Pantalla de registro de parámetro    
 
-4- Para registrar un parámetro, introduzca el nombre, tipo y descripción. El sistema presentará un campo "Valor" según el tipo seleccionado.    
+4- Para registrar un parámetro, introduzca el nombre, tipo y descripción. El sistema presentará un campo "Valor" según el tipo seleccionado. 
+
 5- Haga clic en "Guardar" para guardar los cambios.    
 
 
