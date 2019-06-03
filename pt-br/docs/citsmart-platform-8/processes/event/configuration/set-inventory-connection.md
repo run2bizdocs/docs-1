@@ -63,9 +63,9 @@ Procedimento
     Agente SNMP (161) e/ou pelo Agente de Captura (porta 7103 desenvolvido pela
     CITSmart Corporation, em .Net). Inicialmente, o Inventory realiza um comando
     "ping" para verificar se a máquina está ativa. Se conseguir realizar o
-    comando, tenta acessar a porta SNMP do item de configuração. Se o acesso à
+    comando, tentar acessar a porta SNMP do item de configuração. Se o acesso à
     porta não for obtido com sucesso, o Inventory tenta realizar o acesso
-    através do agente de captura clicar no botão "Testar Conexão";
+    através do agente de captura, clicar no botão "Testar Conexão";
 
 6.  Clicar no botão "Gravar e Aplicar Configurações".
 
