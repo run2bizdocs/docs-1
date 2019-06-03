@@ -1,8 +1,8 @@
 title: Refine search in Knowledge Portal
-Description: Guide and suggest the best ways of search in the Knowledge Portal and in the User Guide. 
+Description: Guide and suggest the best ways of search in the Knowledge Portal. 
 # Refine search in Knowledge Portal
 
-This knowledge aims to guide and suggest the best ways of search in the Knowledge Portal and in the User Guide.
+This knowledge aims to guide and suggest the best ways of search in the Knowledge Portal.
 
 1.  Connectors between terms (Boolean logical operator):
 
@@ -33,10 +33,6 @@ This knowledge aims to guide and suggest the best ways of search in the Knowledg
 
 1.  Navigate through the folders and click in one with the subject you want.
 
-Related
--------
-
-[Search knowledge through the user guide](/en-us/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
