@@ -35,7 +35,7 @@ Procedimento
 
     -   **Configuração Geral:** permite criar regras para todos os itens de
         configuração. Essas regras serão aplicadas no momento em que os itens de
-        configuração estiverem sendo inventariados.
+        configuração for inventariados.
 
 1.  Informar os dados necessários e clicar em "Adicionar";
 
