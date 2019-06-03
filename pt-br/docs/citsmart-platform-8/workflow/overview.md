@@ -25,7 +25,8 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 - Processo de Negócio
 
 !!! info "ALERTA"
-    Estes itens só estarão disponíveis quando a aplicação [Neuro estiver habilitada][7] em sua instância.
+
+    Estes itens só estarão disponíveis quando a aplicação [Neuro][6] estiver habilitada em sua instância.
 
 ## Interface
 
@@ -194,5 +195,4 @@ Configuração
 [3]:/pt-br/citsmart-platform-8/workflow/use/modeling.html
 [4]:/pt-br/neuro/advanced-options/process-integration-flow.html
 [5]:/pt-br/neuro/advanced-options/business-rules.html
-[6]:
-[7]:/pt-br/neuro/enable-neuro.html
+[6]:/pt-br/neuro/enable-neuro.html
