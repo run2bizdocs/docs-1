@@ -1,9 +1,9 @@
 title: Refinar pesquisas no Portal do Conhecimento
-Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
+Description: Tem por objetivo orientar e sugerir as melhores maneiras de se realizar buscas dentro do Portal do Conhecimento.
 # Refinar pesquisas no Portal de Conhecimento
 
 Este conhecimento tem por objetivo orientar e sugerir as melhores maneiras de se
-realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
+realizar buscas dentro do Portal do Conhecimento.
 
 1.  Conectores entre termos (operador lógico booleano):
 
@@ -35,10 +35,6 @@ realizar buscas dentro do Portal do Conhecimento e no Guia do Usuário.
 1.  Navegar pelas pastas e clicar na pasta do assunto desejado.
 
 
-Relacionado
--------
-
-[Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
