@@ -1,51 +1,51 @@
-Title: Arquivo de relatório  
-Description:Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.  
+Title: Archivo de informe  
+Description: Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Neuro, el archivo deberá ser agregado en esa pantalla.  
 
-# Arquivo de relatório   
+# Archivo de informe   
  
-Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.    
+Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Neuro, el archivo deberá ser agregado en esa pantalla.    
 
-##COMO ACESSAR  
+## Cómo acceder  
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Recursos → Upload de relatório.   
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Recursos > Upload de informe.   
 
-##PRÉ-CONDIÇÕES
+## Condiciones previas
 
-1- Não se aplica.    
+1- No se aplica.    
 
-##FILTROS
+## Filtros
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de funcionalidad, facilitando la localización de los elementos deseados:   
 
-- Palavra chave ou enter   
+- Palabra clave o enter   
 
 ![Screenshot](images/Report-file-fig01.png)   
-Figura 1 - Tela de pesquisa de arquivos de relatório     
+Figura 1 - Pantalla de búsqueda de archivo de informe     
 
-##LISTAGEM DE ITENS
+## Lista de elementos
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Recurso, Nome, Descrição e Versão.  
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Recurso, Nombre, Descripción y Versión.  
 
 ![Screenshot](images/Report-file-fig02.png)   
-Figura 2 - Tela de listagem de arquivos de relatório    
+Figura 2 - Pantalla de lista de archivos de informe    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS    
+## Completar campos catastrales    
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"  
 
-    Não é possível criar um relatório propriamente dito no Neuro. Essa funcionalidade refere-se apenas ao upload de um arquivo de           relatório.  
+    No se puede crear un informe en Neuro. Esta funcionalidad se refiere sólo al cargar un archivo de informe.  
 	
-1- TO campo versão é auto incrementado pelo sistema. Informe o nome do relatório, uma descrição, e a pasta agrupadora do projeto no servidor. O campo engine é preenchido automaticamente de acordo com o formato do arquivo. Atualmente, é aceito apenas o formato jrxml do Jasper.    
-2- Faça o upload do arquivo do relatório.  
-3- Ao incluir um arquivo de relatório, o sistema gera automaticamente um registro na tela de configuração de relatório.    
-4- Clique em "Salvar" para executar as alterações. Clique em "Pesquisar" para voltar para a tela anterior.   
+1- El campo de versión se incrementa automáticamente por el sistema. Introduzca el nombre del informe, una descripción y la carpeta de la agrupación del proyecto en el servidor. El campo engine se completa automáticamente de acuerdo con el formato del archivo. Actualmente, sólo se acepta el formato jrxml de Jasper.    
+2- Cargue el archivo del informe.  
+3- Al incluir un archivo de informe, el sistema genera automáticamente un registro en la pantalla de configuración del informe.    
+4- Haga clic en "Guardar" para realizar los cambios. Haga clic en "Buscar" para volver a la pantalla anterior.   
 
 ![Screenshot](images/Report-file-fig03.png)  
-Figura 3 - Tela de cadastro do arquivo de relatório    
+Figura 3 - Pantalla de registro del archivo de informe    
 
-5- Para editar um item criado, selecione o item desejado, clique em "Editar" (a versão atual ou a versão anterior), faças as alterações, e clique em "Salvar".   
-6- Para visualizar um item, selecione o mesmo e clique em "Visualizar".  
-7- Para remover um item criado, selecione o item desejado, clique em "Remover" e confirme a exclusão.  
+5- Para editar un elemento creado, seleccione el elemento deseado, haga clic en "Editar" (la versión actual o la versión anterior), haga los cambios y haga clic en "Guardar".   
+6- Para ver un elemento, seleccione el mismo y haga clic en "Ver".  
+7- Para eliminar un elemento creado, seleccione el elemento deseado, haga clic en "Eliminar" y confirme la eliminación.  
 
 
 !!! tip "About"
