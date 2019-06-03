@@ -5,15 +5,15 @@ Description:The process integration flows are workflows that have tasks performe
 
 The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.  
 
-##How to access
+## How to access
 
 1. Access the functionality through the menu Workflow/ESI > Administration > Workflow/ ESI design.  
 
-##Preconditions
+## Preconditions
 
 1. Not applicable  
 
-##Filters 
+## Filters 
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -23,7 +23,7 @@ The process integration flows are workflows that have tasks performed by users a
 
 Figure 1 - Workflow / ESI design search screen  
 
-##Items list 
+## Items list 
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Name, Description, Flow application, Version and Block date.  
 
@@ -31,7 +31,7 @@ Figure 1 - Workflow / ESI design search screen
 
 Figure 2 - Workflow / ESI design listing screen  
 
-##Filling in the registration fields
+## Filling in the registration fields
 
 Through this tab, basic information about the flow to be design is defined.  
 
@@ -65,11 +65,11 @@ Through this tab, basic information about the flow to be design is defined.
 	-   Defined in execution: the time registered in the business process will be
     used.
 
-##Variables  
+## Variables  
 
 See knowledge Variables.   
 
-##States
+## States
 
 Flow states represent the situations in which a flow can found, according to its life cycle.  
 
@@ -96,7 +96,7 @@ Flow states represent the situations in which a flow can found, according to its
 
     To save your changes effectively, click "Save" on the top bar.
 	
-##Actions 
+## Actions
 
 Through this menu, it is possible to register the actions that will be executed in the workflow.  
 
@@ -122,7 +122,7 @@ Through this menu, it is possible to register the actions that will be executed 
 
     To save your changes effectively, click "Save" on the top bar. 
 	
-##Actors  
+## Actors  
 
 Flow actors are the users or groups of users who participate in the task (s) of the workflow designed.  
 
@@ -161,7 +161,7 @@ Example: Suppose you want to order a pizza from your house. In your pizza delive
 	
 7. To remove an action, select the action, click "Remove", and confirm the deletion.  
 	
-##Diagram  
+## Diagram  
 
 The workflow drawing is done in the Diagram tab. The entire business process can be drawn here by using BPMN notation.  
 
