@@ -4,15 +4,15 @@ Description: Quando se produz um conjunto de itens de aplicação através do Ne
 
 Quando se produz um conjunto de itens de aplicação através do Neuro, é possível que esse conjunto seja aglomerado em um pacote que pode ser importado/exportado entre ambientes do Neuro.    
 
-##Como acessar 
+## Como acessar 
 
 1. Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Pacote.    
 
-##Pré-condições 
+## Pré-condições 
 
 1. Não se aplica.    
 
-##Filtros
+## Filtros
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
  
@@ -22,7 +22,7 @@ Quando se produz um conjunto de itens de aplicação através do Neuro, é poss�
 
 Figura 1 - Tela de pesquisa de pacotes    
 
-##Listagem de itens
+## Listagem de itens
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição e Versão.    
 
@@ -30,7 +30,7 @@ Figura 1 - Tela de pesquisa de pacotes
 
 Figura 2 - Tela de listagem de pacotes   
 
-##Preenchimento dos campos cadastrais 
+## Preenchimento dos campos cadastrais 
 
 1. Para alterar um pacote já cadastrado, clique em "Editar", faça as modificações e depois clique em "Salvar";   
 2. Para criar um pacote, clique em "Cadastrar". Informe o Nome e a Descrição do pacote. Em seguida, selecione os elementos que farão parte do pacote. Todos estes elementos foram cadastrados previamente no Neuro;    
