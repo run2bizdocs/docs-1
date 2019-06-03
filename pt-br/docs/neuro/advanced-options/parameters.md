@@ -5,15 +5,15 @@ Description: Nesta tela, os parâmetros a serem usados em aplicativos criados at
 
 Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.   
 
-##Como acessar 
+## Como acessar 
 
 1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Parâmetros.   
 
-##Pré-condições  
+## Pré-condições  
 
 1. Não se aplica.    
 
-##Fitros 
+## Fitros 
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
  
@@ -23,7 +23,7 @@ Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neu
 
 Figura 1 - Tela de pesquisa de parâmetros    
 
-##Listagem de itens  
+## Listagem de itens  
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Tipo e Descrição.    
 
@@ -31,7 +31,7 @@ Figura 1 - Tela de pesquisa de parâmetros
 
 Figura 2 - Tela de listagem de parâmetros    
 
-##Preenchimento dos campos cadastrais  
+## Preenchimento dos campos cadastrais  
 
 1. Para cadastrar um novo parâmetro, clique em "Cadastrar", conforme ilustrado na figura abaixo:  
 
