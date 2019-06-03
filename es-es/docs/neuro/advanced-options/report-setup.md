@@ -1,49 +1,49 @@
-Title: Configuração de relatório    
-Description:Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
+Title: Configuración de informe    
+Description: Esta información se completa automáticamente a partir del registro del archivo de informe. Se puede editar el nombre, la descripción y la carpeta de la agrupación del proyecto en el servidor.   
 
-# Configuração de relatório 
+# Configuración de informe 
 
-Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
+Esta información se completa automáticamente a partir del registro del archivo de informe. Se puede editar el nombre, la descripción y la carpeta de la agrupación del proyecto en el servidor.   
 
-##COMO ACESSAR
+## Cómo acceder
 
-1- Acesse a funcionalidade através do menu Neuro → Gerenciamento → Relatório.
+1- Acceda a la funcionalidad a través del menú Neuro > Gestión > Informe.
 
-##PRÉ-CONDIÇÕES
+## Condiciones previas
 
-1- O formulário deve ser previamente cadastrado no Formulário. 
+1- El formulario debe ser previamente registrado en el Formulario. 
 
-##FILTROS 
+## Filtros 
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de funcionalidad, facilitando la localización de los elementos deseados:   
 
-- Palavra chave ou enter.    
+- Palabra clave o enter.    
 
 ![Screenshot](images/Report-setup-fig01.png)
 
-Figura 1 -Tela de pesquisa de relatórios     
+Figura 1 - Pantalla de búsqueda de informes     
 
-##LISTAGEM DE ITENS 
+## Lista de elementos 
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Aplicación, Recurso, Nombre, Descripción y Versión.  
 
 ![Screenshot](images/Report-setup-fig02.png) 
 
-Figura 2 -Tela de listagem de relatórios    
+Figura 2 - Pantalla de la lista de informes    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+## Completar campos catastrales  
 
-DADOS DO RELATÓRIO
+DATOS DEL INFORME
 
-1- Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
+1- Esta información se completa automáticamente a partir del registro del archivo de informe. Se puede editar el nombre, la descripción y la carpeta de la agrupación del proyecto en el servidor.    
 
 ![Screenshot](images/Report-setup-fig03.png) 
 
-Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
+Figura 3 - Registro/edición de configuración del informe, pestaña de Datos del Informe    
 
-##DATA SOURCE
+## DATA SOURCE
 
-1- Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
+1- Se refiere a la fuente de datos del informe. Introduzca el tipo de origen de datos, que puede ser:   
 
 - Nenhum: caso o arquivo não realize uma busca no banco de dados.    
 - Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva (cadastrável no menu Conexão de banco).   
