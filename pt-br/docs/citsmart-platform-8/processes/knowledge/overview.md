@@ -16,8 +16,6 @@ Uso
 
 - [Exibir e pesquisar pelas tags no Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
-- [Pesquisar conhecimento pelo Guia do Usuário](/pt-br/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
-
 - [Criar Centro de experiência](/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
 
 - [Revisar comentários do Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
