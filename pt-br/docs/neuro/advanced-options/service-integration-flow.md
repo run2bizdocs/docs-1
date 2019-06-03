@@ -6,15 +6,15 @@ Description:Os fluxos de integração de serviços, como o próprio nome diz, en
 
 Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
-##Como acessar    
+## Como acessar    
 
 1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo ESI.     
 
-##Pré-condições    
+## Pré-condições    
 
 1. Não se aplica.   
 
-##Filtros  
+## Filtros  
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
@@ -24,7 +24,7 @@ Os fluxos de integração de serviços, como o próprio nome diz, envolvem workf
 
 Figura 1 - Tela de pesquisa    
 
-##Listagem de itens    
+## Listagem de itens    
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
@@ -32,7 +32,7 @@ Figura 1 - Tela de pesquisa
 
 Figura 2 - Tela de listagem     
 
-##Preenchimento dos campos cadastrais - dados do fluxo   
+## Preenchimento dos campos cadastrais - dados do fluxo   
 
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
@@ -52,7 +52,7 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
 5. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada.    
 
-##Variáveis  
+## Variáveis  
 
 Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.  
 
@@ -101,7 +101,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
     Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
 
-##Ações  
+## Ações  
 
 Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.   
 
@@ -128,7 +128,7 @@ As ações são baseadas em scripts programados na linguagem Rhino.
 
     Para salvar efetivamente as alterações, clique em "Salvar" na barra superior.  
 
-##Diagrama  
+## Diagrama  
 
 O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo workflow”.  
 
