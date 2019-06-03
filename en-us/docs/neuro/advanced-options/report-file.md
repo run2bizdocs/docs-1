@@ -4,15 +4,15 @@ Description:At this point, it is not possible to create a report in the Neuro it
 
 At this point, it is not possible to create a report in the Neuro itself. This functionality only refers to uploading a report file.  
 
-##How to access
+## How to access
 
 Access the feature by navigating the menu Neuro > Resources >  Report upload.  
 
-##Preconditions 
+## Preconditions 
 
 No applicable  
 
-##Filters
+## Filters
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -22,7 +22,7 @@ No applicable
 
 Figure 1 - Report file search screen  
 
-##Items list  
+## Items list  
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Resource, Name, Description, and Version.  
 
@@ -30,7 +30,7 @@ Figure 1 - Report file search screen
 
 Figure 2 - Report file listing screen  
 
-##Filling in the registration fields  
+## Filling in the registration fields  
 
 !!! Abstract "ATTENTION"
     
