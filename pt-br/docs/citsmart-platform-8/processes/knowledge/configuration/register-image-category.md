@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 # Cadastrar categoria de imagem
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir as categorias de imagens para organização das imagens dentro da galeria
+excluir as categorias de imagens dentro da galeria
 que o sistema administra e usa.
 
 Procedimento
