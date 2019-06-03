@@ -17,7 +17,7 @@ Procedimento
     Conhecimento \> Conhecimento;
 
 2.  Clicar no botão "Opções", localizado no canto inferior direito, logo em
-    seguida em Adicionar novo conhecimento;
+    seguida em "Adicionar novo conhecimento";
     
 ### Registro, Relacionamentos e Notificação
 
@@ -46,7 +46,7 @@ Figura 1 - Criar conhecimento
     
 !!! Abstract "ATENÇÃO"
 
-    Para que a aba Item de Configuração esteja disponibilizada, o documento
+    Para que a aba *Item de Configuração* esteja disponibilizada, o documento
     deverá estar salvo.
   
 ### Conformidade
@@ -74,17 +74,17 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 -   **Privacidade**: definir a privacidade do conhecimento;
 
--   **Confidencial**: apenas o autor do conhecimento e o administrador da pasta terá
+-   **Confidencial**: apenas o autor do conhecimento e o administrador da pasta terão
     acesso ao conhecimento;
 
--   **Público**: todas as pessoas terão acesso ao conhecimento, mesmo àqueles que
+-   **Público**: todas as pessoas terão acesso ao conhecimento, mesmo aqueles que
     não têm permissão na pasta;
 
 -   **Interno**: somente as pessoas que têm permissão na pasta terão acesso ao
     conhecimento.
 
 -   **Data de expiração**: informe a data de expiração que o conhecimento obedecerá.
-    Quando atinge a data definida, o documento será automaticamente arquivado.
+    Quando atingir a data definida, o documento será automaticamente arquivado.
 
 -   **Conteúdo**: descrever o texto do conhecimento:
 
@@ -99,10 +99,10 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
     -   Para adicionar um vídeo, clicar no botão “Inserir um vídeo”:
 
-        -   Na aba Vídeo do servidor: permite inserir um vídeo que está
+        -   Na aba *Vídeo do servidor*: permite inserir um vídeo que está
             localizado no servidor de vídeos ou no computador;
 
-        -   Na aba Embedded: permite inserir vídeos do Youtube. Ao acessar o
+        -   Na aba *Embedded*: permite inserir vídeos do Youtube. Ao acessar o
             vídeo clicar com o botão direito e selecionar “Copiar código de
             incorporação”.
 
@@ -135,12 +135,12 @@ Figura 3 - Botão Opções
     
 !!! Tip "Workflow de Aprovação"  
 
-    O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimentos, o Documento é gravado na pasta indicada pelo Parâmetro de sistema n. 313.  
-    O Gerente de conhecimento pesquisa os documentos nâo publicados ou na pasta indicada e, conforme o andamento da aprovação o Documento ganhará outros status:  
+    O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimento, o Documento é gravado na pasta indicada pelo Parâmetro 313 do sistema.  
+    O Gerente de conhecimento pesquisa os documentos não publicados ou na pasta indicada e, conforme o andamento da aprovação, o Documento ganhará outros status:  
     - Em desenho   
     - Em Revisão   
     - Revisado  
-    - Em avaliação e   
+    - Em avaliação   
     - Avaliado
 
 
@@ -152,7 +152,7 @@ Figura 3 - Botão Opções
 
 Figura 4 - Botão Pesquisa
     
-Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.  
+**Botão Pesquisar** – retorna tela principal de pesquisa de conhecimentos.  
 
 !!! Warning "Versionamento"  
 
@@ -167,7 +167,7 @@ Botão Pesquisar – retorna tela principal de pesquisa de conhecimentos.
     cenário desconsidera a configuração de perfil de acesso e libera o acesso do
     documento a todos os usuários.
         
-    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação(desenho) e aprovação/avaliação do Conhecimento até a sua             publicação.  
+    **SITUAÇÃO**, a Situação indica o Fluxo/Processo da criação (desenho) e aprovação/avaliação do Conhecimento até a sua publicação.  
 
 
 Relacionado
