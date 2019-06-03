@@ -23,11 +23,11 @@ Procedimento
 
 7.  Vincular colaborador;
 
-8.  Clicar em 'Gravar";
+8.  Clicar em "Gravar";
 
 9.  Clicar em "Vincular Habilidade", selecionar a habilidade cadastrada;
 
-10. Clicar em Enviar".
+10. Clicar em "Enviar".
 
 
 
