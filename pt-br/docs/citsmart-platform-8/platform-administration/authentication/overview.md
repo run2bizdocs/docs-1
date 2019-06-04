@@ -2,7 +2,7 @@ Title: Visão Geral
 
 # Visão Geral
 
-Nativamente, são possíveis três tipos de autenticação na plataforma: local, LDAP/AD e SSO.
+Nativamente, são possíveis três tipos de autenticação na plataforma: local, LDAP/AD,SSO e Okta.
 
 - **Local**: este é o método padrão de acesso à plataforma, em que os usuários são cadastrados na base de dados da ferramenta.
 
