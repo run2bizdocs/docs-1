@@ -20,7 +20,8 @@ Los flujos de integración de servicios, como el propio nombre dice, involucra w
 
 - Palabra clave  
 
-![Screenshot](images/Service-Integration-Flow-fig01.png) 
+![Screenshot](images/Service-Integration-Flow-fig01.png)
+
 Figura 1 - Pantalla de búsqueda    
 
 ## Lista de elementos    
