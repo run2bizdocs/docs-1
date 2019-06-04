@@ -65,15 +65,15 @@ Configuração
 
 - [Definir a permissão de acesso para o gerenciamento de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
 
-- [Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
+- [Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
   
-- [Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/threat-category.html)
+- [Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-- [Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+- [Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
-- [Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/use/risk-category.html)
+- [Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
-- [Cadastrar o template de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-template.html)
+- [Cadastrar o template de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/continuity-template.html)
 
 
 !!! tip "About"
