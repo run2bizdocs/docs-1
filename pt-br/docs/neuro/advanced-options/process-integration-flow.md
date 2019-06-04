@@ -48,15 +48,15 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
 3. Preencha os campos:  
  
--  Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se aplique);  
+    -  Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se         aplique);  
 
--  O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
+    -  O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
 
--  O gerenciamento de tempo poderá ocorrer das seguintes formas:  
+    -  O gerenciamento de tempo poderá ocorrer das seguintes formas:  
 
 	-   Não gerencia: quando o tempo não é gerenciado no fluxo cadastrado.  
 
-	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução cadastrado no processo de negócio  
+	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução               cadastrado no processo de negócio  
 
 	-   Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
 
