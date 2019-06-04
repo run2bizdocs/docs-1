@@ -9,31 +9,31 @@ Permite a construção de interfaces de usuário através da combinação de com
 
    * Cada formulário pode conter uma ou mais páginas e cada página tem um HTML, um JS de controlador angular e uma coleção de dependências (o layout da tela é comum a todas as páginas);
 
-   * O desenho da tela contém uma coleção de linhas e cada linha do desenho da tela pode ter um ou mais componentes (com uma ou mais propriedades;
+   * O desenho da tela contém uma coleção de linhas e cada linha do desenho da tela pode ter um ou mais componentes (com uma ou mais propriedades);
 
    * Páginas previamente configuradas no sistema:
 
-   -  **Página padrão**
+     -  **Página padrão**
 
        *   Página usada para iniciar o serviço SM, pesquisar os dados dentro do banco
            de dados e registrar diretamente nele.
 
-   -  **Página CRUD**
+     -  **Página CRUD**
 
        *   Página criada automaticamente pelo Objeto de negócio, com as funções
            básicas.
 
-   -  **Página de processo**
+     -  **Página de processo**
 
        *   Página para processos do sistema SM associados a processos de negócios,
            usados para iniciar um Processo de Negócio Neuro.
 
-   -  **Página de tarefa**
+     -  **Página de tarefa**
 
        *   Execução de um projeto de fluxo de trabalho/Desenho ESI, renderizando um
            formulário Neuro na tela do ticket.
 
-   -  **Página de relatório**
+     -  **Página de relatório**
 
        *   Página de relatório para relatórios gerados pelo aplicativo, inclui
            dependências específicas para a execução de um relatório JASPER.
