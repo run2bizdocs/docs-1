@@ -1,8 +1,8 @@
 title: Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente
 Description: Diponibiliza diferente tipos de gráficos e relatórios referents a requisição e incidente
-#Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente
+# Gerar relatórios pelo painel de gráficos e relatórios - Requisição e incidente
 
-Os seguintes tópicos serão abordados sobre como gerar gráficos e relatórios para
+Nos seguintes tópicos serão abordados sobre como gerar gráficos e relatórios para
 incidentes e solicitações.
 
 Em todos os casos existem diversas formas de visualizar os relatórios através de
@@ -28,14 +28,14 @@ incidentes em forma de gráficos.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Monitoramento de incidentes";
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado os gráficos de incidentes de acordo com os filtros
+5.  Serão apresentados os gráficos de incidentes de acordo com os filtros
     definidos.
 
 Gerar relatórios de monitoramento de requisições
@@ -47,14 +47,14 @@ requisições de serviço em forma de gráficos.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Monitoramento de Requisições";
 
 4.  Definir os filtros conforme a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentados os gráficos de requisições de acordo com filtros
+5.  Serão apresentados os gráficos de requisições de acordo com filtros
     definidos.
 
 Gerar relatórios referentes ao desempenho na captura de incidentes e requisições (fechadas)
@@ -66,7 +66,7 @@ execução dos incidentes em forma de listagem.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Desempenho na captura de incidentes e requisições
@@ -74,7 +74,7 @@ execução dos incidentes em forma de listagem.
 
 4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
 
-5.  Será apresentado os relatórios de acordo com os filtros definidos;
+5.  Serão apresentados os relatórios de acordo com os filtros definidos;
 
 6.  Lembrar que o relatório de "Captura de incidentes e requisições" mostra o
     tempo de captura das solicitações encerradas. O tempo de captura é o tempo
@@ -94,7 +94,7 @@ e requisições.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Qualidade do atendimento e SLA";
@@ -112,7 +112,7 @@ requisições em forma de gráfico.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Controle SLA";
@@ -131,7 +131,7 @@ horário de sua abertura.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Quantitativos por Horário de Abertura";
@@ -148,18 +148,18 @@ Este relatório permite verificar as informações de pesquisa de satisfação.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
-3.  Clicar sobre o relatório " Pesquisa de Satisfação sobre Atendimentos
-    (Incidentes e Requisições);
+3.  Clicar sobre o relatório "Pesquisa de Satisfação sobre Atendimentos
+    (Incidentes e Requisições)";
 
 4.  Definir os filtros de acordo com a necessidade e clicar no botão "Gerar";
 
 5.  Será apresentado o gráfico de pesquisa de satisfação de acordo com os
     filtros definidos.
 
-Gerar relatórios referente as requisições de produtos e serviços
+Gerar relatórios referentes às requisições de produtos e serviços
 --------------------------------------------------------------------
 
 Este relatório permite verificar as informações de requisições de produtos e
@@ -168,7 +168,7 @@ serviços.
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidente/Requisição \> Gráficos e Relatórios (Painel);
 
-2.  No campo "Grupo de Informações" e selecionar a opção "Incidentes e
+2.  No campo "Grupo de Informações", selecionar a opção "Incidentes e
     Requisições";
 
 3.  Clicar sobre o relatório "Requisições de produtos e serviços";
