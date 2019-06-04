@@ -47,18 +47,17 @@ Procedimento
     para o vínculo) ou criar um novo papel ao apertar o botão “Papéis”.
 
     - **Planejamento/Execução**: definir as tarefas do projeto a serem realizadas
-    durante o período estimado de execução. Ao clicar no botão “Criar modelo
-    (Tarefa)” será disponibilizado selecionar um modelo de tarefa já existente
+    durante o período estimado de execução. Será disponibilizado selecionar um modelo de tarefa já existente
     para vinculação ao projeto ou cadastrar uma nova tarefa ao nomear a
     atividade e apertar o botão “Criar novo modelo” e na linha de base, clicar
     no íncone “+” e preencher os dados necessários. Também é possível criar uma
     linha de base de projeto para ser usada a fim de comparar planos de projetos
-    inicias ou ainda comparar o estado de um projeto em certos ponto chave à
+    iniciais ou ainda comparar o estado de um projeto em certos pontos chave a
     medida que ele avança, com o seu estado atual ao criar no botão “Criar linha
     da base” e justificar a alteração no projeto. Quando é definida uma linha de
     base, os dados em vários campos-chaves de tarefas, são capturados e salvos
     como um conjunto numerado de dados de linha de base, para a medida que o
-    projeto avança, esteja disponíveis estes dados capturados afim de
+    projeto avança, estejam disponíveis estes dados capturados afim de
     compara-los aos dados atuais. Para visulizar a listagem dos itens
     registrados, clicar em “Visualizar linha de base”.  
 
