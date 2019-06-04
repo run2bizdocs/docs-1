@@ -15,7 +15,7 @@ Antes de começar
 --------------------
 
 Para a criação de atalhos (links) não é necessária nenhuma permissão especial,
-contudo a utilização de elementos do tipo widget e smart reports carece de
+contudo a utilização de elementos do tipo widget e smart reports requer
 permissões definidas por um administrador da ferramenta.
 
 Procedimento
