@@ -38,10 +38,10 @@ expiração de tempo.
 3.  Definir os filtros com período desejado (com as datas de início e
     encerramento dos tickets);
 
-4.  Será apresentado uma listagem com os dados dos seguintes dados: Solicitação
+4.  Será apresentado uma listagem com os dados: Solicitação
     de serviço, tipo, serviço, atividade, status, solicitante, data e hora da
-    solicitação, data hora limite, SLA , tempo de atendimento ( é a soma dos
-    imputs das horas registradas nas ocorrências do ticket) e data e hora do
+    solicitação, data hora limite, SLA , tempo de atendimento (é a soma dos
+    imputs das horas registradas nas ocorrências do ticket), data e hora do
     encerramento (se houver) além de um relatório sintético referente ao
     contrato escolhido;
 
@@ -49,7 +49,7 @@ expiração de tempo.
         maiores detalhes sobre o técnico e as horas gastas pelo mesmo para
         atender o ticket.
 
-5.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
+5.  É possível também visualizar estes Relatórios no dashboard, se assim o
     configurar ao personalizar o mesmo Smart Decisions.
 
 !!! Abstract "ATENÇÃO"
@@ -91,7 +91,7 @@ executou e a soma dos tempos executados por cada técnico.
 3.  Será apresentado uma listagem com os dados dos seguintes dados: Técnico,
     ticket e tempo gasto;
 
-4.  Esta disponível também visualizar estes Relatórios no dashboard, se assim o
+4.  é possível também visualizar estes Relatórios no dashboard, se assim o
     configurar ao personalizar o mesmo Smart Decisions.
 
 !!! Abstract "ATENÇÃO"
