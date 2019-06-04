@@ -34,16 +34,6 @@ provision of these minimum services, according to the service level.
 Use
 -------
 
-- [Register threat](/en-us/citsmart-platform-8/processes/continuity/use/register-threat.html)
-  
-- [Register threat category](/en-us/citsmart-platform-8/processes/continuity/use/threat-category.html)
-
-- [Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
-
-- [Register risk category](/en-us/citsmart-platform-8/processes/continuity/use/risk-category.html)
-
-- [Register continuity template](/en-us/citsmart-platform-8/processes/continuity/use/continuity-template.html)
-
 - [Register service continuity](/en-us/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
   
 - [Define service continuity policy](/en-us/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
@@ -79,13 +69,16 @@ Configuration
 
 - [Define access permission to continuity management](/en-us/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
 
-- [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+- [Register threat](/en-us/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-- [Register a client](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
+- [Register threat category](/en-us/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-- [Create folder](/en-us/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+- [Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
-- [Register questionnaire](/en-us/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+- [Register risk category](/en-us/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
+
+- [Register continuity template](/en-us/citsmart-platform-8/processes/continuity/configuration/continuity-template.html)
+
 
 !!! tip "About"
 
