@@ -1,5 +1,5 @@
 Title: Arquivo de relatório  
-Description:Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.  
+Description: Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.  
 
 # Arquivo de relatório   
  
