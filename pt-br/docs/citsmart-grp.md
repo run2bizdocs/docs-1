@@ -2,7 +2,7 @@ Title: O CITSmart GRP
 
 # O CITSmart GRP
 
-O CITSMART GRP (Government Resource Planning) é um sistema de gestão integrada para administração pública, desenvolvido em software 100% livre, em plataforma baseada em processos de negócio (BPM) e em conformidade com a legislação brasileira e as melhores práticas de mercado.
+O CITSMART GRP (Government Resource Planning) é um sistema de gestão integrada para administração pública, desenvolvido em software 100% livre, em plataforma baseada em processos de negócio (BPM), em conformidade com a legislação brasileira e as melhores práticas de mercado.
 
 O desenvolvimento desta plataforma baseou-se nas melhores práticas de gestão (PMBoK, ITIL e COBIT) e, com o intuito de dar celeridade aos processos governamentais, a sua projeção foi idealizada para permitir a integração com os principais sistemas estruturantes da administração pública, como o SIASG, SIAFI, SIGEPE, COMPRASNET, dentre outros.
 
