@@ -30,16 +30,6 @@ O propósito do Gerenciamento de Continuidade é apoiar o processo de continuida
 Uso
 -------
 
-- [Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
-  
-- [Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/threat-category.html)
-
-- [Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
-
-- [Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/use/risk-category.html)
-
-- [Cadastrar o template de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-template.html)
-
 - [Cadastrar a continuidade de serviço](/pt-br/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
   
 - [Definir a política de continuidade do serviço](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
@@ -73,15 +63,17 @@ Uso
 Configuração
 -----------------
 
-- [Cadastrar um colaborador](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
-
-- [Cadastrar um cliente](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
-
-- [Criar pasta](/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
-
-- [Cadastrar questionário](/pt-br/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
-
 - [Definir a permissão de acesso para o gerenciamento de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+
+- [Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
+  
+- [Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/threat-category.html)
+
+- [Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+
+- [Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/use/risk-category.html)
+
+- [Cadastrar o template de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-template.html)
 
 
 !!! tip "About"
