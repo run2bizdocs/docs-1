@@ -2,7 +2,7 @@ title: Configurar o Okta no CITSmart
 Description: O Okta conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
 # Configurar o Okta no CITSmart
 
-O Okta é uma solução que conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
+Este método de autenticação permite que você utilize os recursos do Okta para autenticar usuários de sua organização em uma instância CITSmart. Este documento explica os passos da configuração deste método. Para saber mais sobre o Okta acesse [okta.com][1].
 
 Antes de começar
 --------------------
@@ -135,3 +135,5 @@ Concluído a integração do Okta com o CITSmart, alguns parâmetros do CITSmart
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>05/30/2019 – Larissa Lourenço
+
+[1]: https://www.okta.com/
