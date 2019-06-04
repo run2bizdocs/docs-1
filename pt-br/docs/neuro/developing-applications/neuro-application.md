@@ -7,7 +7,7 @@ Description:Aplicação Neuro
 A Aplicação Neuro é uma composição de elementos que interagem entre si para
 compor um conjunto de funcionalidades integradas ao Citsmart e sistemas legados.
 
-Os principais elementos do Citsmart Neuro são Objetos de Negócio, Regras de
+Os principais elementos do CITSmart Neuro são Objetos de Negócio, Regras de
 Negócio, Formulários, Fluxos e Processos de Negócio.
 
 Antes de começar
