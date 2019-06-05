@@ -1,13 +1,13 @@
-Title: O CITSmart GRP
+Title: CITSmart GRP
 
-# O CITSmart GRP
+# CITSmart GRP
 
-O CITSMART GRP (Government Resource Planning) é um sistema de gestão integrada para administração pública, desenvolvido em software 100% livre, em plataforma baseada em processos de negócio (BPM) e em conformidade com a legislação brasileira e as melhores práticas de mercado.
+CITSmart GRP (Government Resource Planning) is an integrated management system for public administration, developed in a 100% free software, a business process based (BPM) platform, in compliance with Brazilian legislation and best market practices.
 
-O desenvolvimento desta plataforma baseou-se nas melhores práticas de gestão (PMBoK, ITIL e COBIT) e, com o intuito de dar celeridade aos processos governamentais, a sua projeção foi idealizada para permitir a integração com os principais sistemas estruturantes da administração pública, como o SIASG, SIAFI, SIGEPE, COMPRASNET, dentre outros.
+The development of this platform was based on the best management practices (PMBoK, ITIL and COBIT) and, in order to expedite government processes, its projection was designed to allow integration with the main structuring systems of public administration, such as SIASG, SIAFI, SIGEPE, COMPRASNET, among others.
 
-Com o CITSMART GRP, módulo Administração de Materiais, é possível gerir bens de consumo e bens materiais, conforme legislação vigente e melhores práticas, culminando na disponibilidade de serviços que atendam às necessidades da instituição, no alcance de seus escopos corporativos.
+With CITSmart GRP, Materials Management module, it is possible to manage consumer goods and material goods, according to current legislation and best practices, culminating in the availability of services that meet the needs of the institution, within the reach of its corporate scopes.
 
-Para mais informações [entre em contato][1] com um de nossos parceiros!
+For further iformation, [contact][1] one of our partners!
 
-[1]:http://www.citsmart.com/parceiros/?lang=pt-br
+[1]:http://www.citsmart.com/parceiros/?lang=en-us
