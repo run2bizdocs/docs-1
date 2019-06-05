@@ -1,13 +1,13 @@
-Title: O CITSmart GRP
+Title: CITSmart GRP
 
-# O CITSmart GRP
+# CITSmart GRP
 
-O CITSMART GRP (Government Resource Planning) é um sistema de gestão integrada para administração pública, desenvolvido em software 100% livre, em plataforma baseada em processos de negócio (BPM) e em conformidade com a legislação brasileira e as melhores práticas de mercado.
+CITSmart GRP (Government Resource Planning) es un sistema de gestión integrada para administración pública, desarrollado en software 100% libre, en plataforma basada en procesos de negocio (BPM) y de conformidad con la legislación brasileña y las mejores prácticas de mercado.
 
-O desenvolvimento desta plataforma baseou-se nas melhores práticas de gestão (PMBoK, ITIL e COBIT) e, com o intuito de dar celeridade aos processos governamentais, a sua projeção foi idealizada para permitir a integração com os principais sistemas estruturantes da administração pública, como o SIASG, SIAFI, SIGEPE, COMPRASNET, dentre outros.
+El desarrollo de esta plataforma se basó en las mejores prácticas de gestión (PMBoK, ITIL y COBIT) y, con el fin de dar paso a los procesos gubernamentales, su proyección fue ideada para permitir la integración con los principales sistemas estructurantes de la administración pública, el SIASG, SIAFI, SIGEPE, COMPRASNET, entre otros.
 
-Com o CITSMART GRP, módulo Administração de Materiais, é possível gerir bens de consumo e bens materiais, conforme legislação vigente e melhores práticas, culminando na disponibilidade de serviços que atendam às necessidades da instituição, no alcance de seus escopos corporativos.
+Con CITSmart GRP, módulo Administración de Materiales, es posible gestionar bienes de consumo y bienes materiales, conforme legislación vigente y mejores prácticas, culminando en la disponibilidad de servicios que atiendan a las necesidades de la institución, en el alcance de sus ámbitos corporativos.
 
-Para mais informações [entre em contato][1] com um de nossos parceiros!
+¡Para más información, [entre en contacto][1] con uno de nuestros socios!
 
-[1]:http://www.citsmart.com/parceiros/?lang=pt-br
+[1]:http://www.citsmart.com/parceiros/?lang=es-es
