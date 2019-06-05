@@ -42,7 +42,7 @@ Procedimento
 !!! Abstract "ATENÇÃO"
 
     Para movimentar um **workspace** alterando sua ordenação, clicar e arrastar o
-    mesmo para a ordem de prioridade desejada.
+    mesmo para a posição de prioridade desejada.
 
 
 ***II - Criar uma Sprint***
@@ -85,7 +85,7 @@ Procedimento
 !!! Abstract "ATENÇÃO"
 
     Para movimentar uma **sprint** alterando sua ordenação, clicar e arrastar a
-    mesma para a ordem de prioridade desejada.
+    mesma para a posição de prioridade desejada.
     
 
 ![tela sprint](images/figure-1-simple.png)
