@@ -54,13 +54,13 @@ registro completo da continuidade, chamada de Operação Contínua.
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+[Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
 [Cadastrar a continuidade de serviço](/pt-br/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
 
