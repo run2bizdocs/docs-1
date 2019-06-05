@@ -27,7 +27,6 @@ Procedimento
     no ponto de localização do técnico para verificar as informações referentes
     ao atendimento da solicitação de serviço.
 
-![Posição do Atendente](images/analyst-history.png)
 
 Relacionado
 -------
