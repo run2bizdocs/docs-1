@@ -28,9 +28,9 @@ Procedimiento
 Relacionado
 ----------------
 
-[Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
