@@ -54,11 +54,11 @@ fase del registro completo de la continuidad, llamada Operación Continua.
 Relacionado
 ----------------
 
-[Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Registrar categoría de amenaza](/es-es/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
 [Registrar riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
 
