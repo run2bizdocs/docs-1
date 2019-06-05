@@ -60,7 +60,7 @@ Relacionado
 
 [Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
-[Registrar riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
 [Registrar continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
 
