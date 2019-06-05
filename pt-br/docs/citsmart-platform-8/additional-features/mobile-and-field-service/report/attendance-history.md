@@ -25,8 +25,6 @@ Procedimento
     o histórico de atendimento das solicitações de serviço pelo técnico de
     campo.
 
-![Histórico de Atendimento](images/attendance-history.png)
-
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"  
