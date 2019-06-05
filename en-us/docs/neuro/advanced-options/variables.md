@@ -4,15 +4,15 @@ Description: In this tab are configured the variables that will be used in the d
 
 In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
 
-##How to access  
+## How to access  
 
 1. Access the functionality through the menu Neuro > Management > ESI Flow.  
 
-##Preconditions  
+## Preconditions  
 
 1. Not applicable  
 
-##Filters  
+## Filters  
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -22,7 +22,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 Figure 1 - Search screen
 
-##Items list  
+## Items list  
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description, Flow Application, Version**, and **Block date**.
 
@@ -30,7 +30,7 @@ Figure 1 - Search screen
 
 Figure 2 - Listing screen  
 
-##Filling in the registration fields - variables  
+## Filling in the registration fields - variables  
 
 1. To add a new variables, choose the tab for the same and then click "Add".  
 2. The following screen will be displayed:  
