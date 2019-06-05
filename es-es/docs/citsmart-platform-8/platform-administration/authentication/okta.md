@@ -1,26 +1,27 @@
-title: Configurar o Okta no CITSmart
-Description: O Okta conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
-# Configurar o Okta no CITSmart
+title: Configurar Okta en CITSmart
+Description: Okta conecta cualquier usuario con cualquier aplicación en cualquier dispositivo. Este documento explica la forma ideal de conectar esta solución al CITSmart.
 
-Este método de autenticação permite que você utilize os recursos do Okta para autenticar usuários de sua organização em uma instância CITSmart. Este documento explica os passos da configuração deste método. Para saber mais sobre o Okta acesse [okta.com][1].
+# Configurar Okta en CITSmart
 
-Antes de começar
+Este método de autenticación le permite utilizar los recursos de Okta para autenticar a los usuarios de su organización en una instancia CITSmart. Este documento explica los pasos para configurar este método. Para saber más sobre el Okta accede [okta.com][1].
+
+Antes de empezar
 --------------------
 
-A configuração desta solução é um processo de diversas fases. A primeira fase é a criação de uma conta Okta.
+La configuración de esta solución es un proceso de varias fases. La primera fase es la creación de una cuenta de Okta.
 
-Procedimento
+Procedimiento
 ----------------
 
-*1º Passo: Criar uma conta Okta:*
+*1º Paso: Crear una cuenta Okta:*
 
-1. Acessar o site:  https://www.okta.com;
+1. Acceder al sítio:  https://www.okta.com;
 
-2. Clicar em "Try Okta" e em seguida "Sign up today";
+2. Hacer clic en "Try Okta" y después en "Sign up today";
 
-3. Informar os dados essenciais (e-mail, nome e sobrenome);
+3. Informar los datos esenciale (correo electrónico, nombre y apellido);
 
-![Criar conta okta](images/okta.img1.png)
+![Crear cuenta okta](images/okta.img1.png)
 
 4. Apertar o botão "Get Started" para concluir a operação. Em seguida, verifique o e-mail cadastrado (que enviará um link de acesso), acesse a conta com a senha temporária enviada e altere a mesma para maior segurança dos dados;
 
