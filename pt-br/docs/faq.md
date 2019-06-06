@@ -474,7 +474,7 @@ Title: Perguntas Frequentes - FAQ
     O tamanho de upload dos anexos é especificado pelo administrador do sisma no parametro 278 o tamanho default é de 1GB.
    
 !!! Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
-    ```HTML tab="Informação"
+ 
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
       Tais como: 
         IDSOLICITACAOSERVICO
@@ -583,7 +583,6 @@ Title: Perguntas Frequentes - FAQ
     - Postgre SQL
     - SQL Server
     [Baixar Scripts](/images/scripts-tabla-fato.zip)
-    ```
 
 !!! Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     
