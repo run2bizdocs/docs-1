@@ -1,70 +1,71 @@
-Title: Variáveis
-Description: Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.    
-# Variáveis 
+Title: Variables
+Description: En esta pestaña se configuran las variables que se utilizarán en el flujo diseñado. Las variables son objetos capaces de retener y representar un valor o una expresión. Las variables se asocian a "nombres", llamados identificadores, durante el tiempo de ejecución del flujo.   
 
-In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
+# Variables 
 
-##COMO ACESSAR  
+En esta pestaña se configuran las variables que se utilizarán en el flujo diseñado. Las variables son objetos capaces de retener y representar un valor o una expresión. Las variables se asocian a "nombres", llamados identificadores, durante el tiempo de ejecución del flujo.  
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Gerenciamento → Fluxo ESI.  
+## Cómo acceder
 
-##PRÉ-CONDIÇÕES  
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Administración > Flujo de integración.  
 
-1- Não se aplica. 
+## Condiciones previas
 
-##FILTROS  
+1- No se aplica. 
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
+## Filtros
 
-- Palavra chave    
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de funcionalidad, facilitando la localización de los elementos deseados:    
+
+- Palabra clave    
 
 ![Screenshot](images/Variables-fig01.png) 
 
-Figura 1 - Tela de pesquisa  
+Figura 1 - Pantalla de búsqueda
 
-##LISTAGEM DE ITENS 
+## Lista de elementos 
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.  
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Nombre, Descripción, Aplicación del flujo, Versión y Fecha de bloqueo.  
 
 ![Screenshot](images/Variables-fig02.png) 
 
-Figura 2 - Tela de listagem   
+Figura 2 - Pantalla de lista   
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS - VARIÁVEIS     
+## Completar campos catastrales   
 
-1- ara adicionar uma variável, selecione a sua aba referente e clique em "Adicionar".    
-2- Será apresentada a seguinte tela:    
+1- Para agregar una variable, seleccione la pestaña correspondiente y haga clic en "Agregar".    
+2- Se presentará la siguiente pantalla:    
 
 ![Screenshot](images/Variables-fig03.png)
 
-Figura 3- Tela de cadastro/edição do workflow, aba de Variáveis  
+Figura 3- Pantalla de registro/edición del workflow, pestaña de Variables  
 
-3- Preencha os campos:    
+3- Completar los campos:    
 
-- Nome da variável;  
-- Descrição;  
-- Se será armazenada no banco de dados;  
-	- Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor durante a execução das tarefas   
-- Se é uma variável de retorno;   
-	- Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.    
-- Se é uma lista de valores;  
-- Se é uma variável de entrada na interface do fluxo;  
-	- Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.    
-- Se é uma variável de saída na interface do fluxo;   
-	- Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.   
-- O tipo da variável;  
-	- Se for um objeto Java, informe a classe Java correspondente;   
-	- Se for um objeto de negócio, qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;   
-- O valor inicial da variável, se constante ou script.    
-	- Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo usuário.   
+- Nombre de la variable;  
+- Descripción;  
+- Se almacenará en la base de datos;  
+	- Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Neuro, por lo que conservará el valor durante la ejecución de las tareas   
+- Si es una variable de retorno;   
+	- Esta opción hará que Neuro devuelve la variable al final de la ejecución del flujo.    
+- Si es una lista de valores;  
+- Si es una variable de entrada en la interfaz del flujo;  
+	- Esta opción permite que la variable sea "inyectada" en el proceso de negocio vinculado a este flujo.    
+- Si es una variable de salida en la interfaz del flujo;   
+	- Esta opción hace que la variable tenga el valor completado cuando se ejecuta el proceso de negocio vinculado al flujo.   
+- El tipo de la variable;  
+	- Si es un objeto Java, introduzca la clase correspondiente de Java;   
+	- Si es un objeto de negocio, cuál es su aplicación respectiva y cuál es el nombre registrado del objeto de negocio;   
+- El valor inicial de la variable, si constante o script.    
+	- Si el valor es una constante, éste nunca cambiará durante la ejecución del flujo, independientemente de las operaciones realizadas por el usuario.   
 
-4- Para editar uma variável, selecione a variável desejada, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.   
+4- Para editar una variable, seleccione la variable deseada, haga clic en "Editar", realice los cambios necesarios y haga clic en "Actualizar" para completar la edición.   
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"  
 
-    Para salvar suas alterações efetivamente, clique em "Salvar" na barra superior. 
+    Para guardar los cambios efectivamente, haga clic en "Guardar" en la barra superior. 
 
-5- Para remover uma variável do fluxo, selecione a variável desejada, clique em "Remover" e confirme a exclusão.  
+5- Para eliminar una variable de flujo, seleccione la variable deseada, haga clic en "Eliminar" y confirme la eliminación.  
 	
 
 !!! tip "About"

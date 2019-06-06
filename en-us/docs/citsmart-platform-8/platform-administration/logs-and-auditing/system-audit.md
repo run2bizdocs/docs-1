@@ -3,55 +3,12 @@ Description: It allows to manage possible risks to the system
 # System audit
 
 This functionality allows to manage the possible risks to the system, when auditing all the executions made in the system in form of logs.
+Some changes were made to the audit (itsm-audit-0.4.0), changes that are only at the configuration level.
 
 Before getting started 
 -----------------
 
-**Version lower than 0.4.0**
-
-It's necessary to have installed the following products:
-
--   ACTIVEMQ with version 5.15.8 or higher;
-
--   Mongodb.
-
-**Versions equal to or greater than 0.4.0**
-
-- It's not necessary to have an external ActiveMQ active;
-
-- It's not necessary to have a service executing the audito .jar;
-
-- Audit is now a .war and runs inside Wildfly with the ITSM in the "\deployments" folder;
-
-- Add the following lines to the wildfly standalone in the activeqm subsystem: 
-
-<jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
-<jms-queue name="ITSM.READ_LICENSE_AUDIT" entries="queue/ITSM.READ_LICENSE_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_LICENSE_AUDIT"/>
-<jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
-<jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
-
-- Add the following lines to the wildfly standalone in system-properties (the same is used in CITSmart EVM and CITSmart Inventory):
-
-<property name="mongodb.host" value="localhost"/>
-<property name="mongodb.port" value="27017"/>
-<property name="mongodb.user" value="mongodb"/>
-<property name="mongodb.password" value="mongodb"/>
-<property name="mongodb.dabase.audit" value="itsm-audit"/>
-
-!!! note "NOTE"
-
-    Configure the connection with the mongo bank with host, port, user, pass and database (Probably already exist, 
-    EVM and Inventory use these settings).
-    
-- Parameter 424 must be blank;
-
-- Parameter 425 should be this way (http://localhost:8080/itsm-audit);
-
-!!! Abstract "ATTENTION"
-
-    Port 8080 must be changed to be changed if CITSmart is running on a different port.
-    
-- Add the .war attachment in the deployments folder (Or via Wildfly Console) and perform Wildfly start along with CITSmart.    
+Configure the functionality "Audit" in its instance.    
 
 Procedure
 ------------
@@ -135,6 +92,11 @@ system.*
 
 3.  It's possible to search for a license and its deadline by the filters
     in the main screen.
+    
+Related
+---------
+
+[Configure Audit 0.4.0](/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/audit040-configure.html)
     
 !!! tip "About"
 

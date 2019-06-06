@@ -21,8 +21,7 @@ Procedimiento
     necesidad, hacer clic en "Agregar tarea";
 
 3.  Para registrar las horas trabajadas con la tarea elegida, hacer clic en el
-    icono "Lanzamiento de horas" de la tarea y completar los campos necesarios (fecha, tiempo gastado
-    (horas), comentarios y actividad). Después, hacer clic en "Guardar";
+    icono "Lanzamiento de horas" de la tarea y completar los campos necesarios. Después, hacer clic en "Guardar";
 
 4.  Para verificar el registro de horas gastadas con las tareas, hacer clic en
     el icono "Timesheet" para ver el timesheet.

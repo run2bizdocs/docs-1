@@ -20,8 +20,7 @@ Procedimento
     necessidade, clicar no botão "Adicionar tarefa";
 
 3.  Para registrar as horas trabalhadas com a tarefa escolhida, apertar o
-    ícone "Lançar horas" da tarefa e preencher os campos necessários (data, tempo gasto
-    (horas), comentários e atividade). Logo após, clicar no botão "Gravar" para
+    ícone "Lançar horas" da tarefa e preencher os campos necessários. Logo após, clicar no botão "Gravar" para
     efetuar a operação;
 
 4.  Para verificar o registro de horas gastas com as tarefas, pressionar o

@@ -1,51 +1,54 @@
-Title: Parâmetros   
-Description: Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.    
+Title: Parámetros   
+Description: En esta pantalla, se configuran los parámetros a utilizar en las aplicaciones creadas a través de Neuro.    
 
-# Parâmetros  
+# Parámetros  
 
-Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.   
+En esta pantalla, se configuran los parámetros a utilizar en las aplicaciones creadas a través de Neuro.   
 
-##COMO ACESSAR
+## Cómo acceder
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Parâmetros.   
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Configuración > Parámetros.   
 
-##PRÉ-CONDIÇÕES 
+## Condiciones previas 
 
-1- Não se aplica.    
+1- No se aplica.    
 
-##FILTROS 
+## Filtros 
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:    
- - Palavra chave    
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de funcionalidad, facilitando la localización de los elementos deseados:    
+ - Palabra clave    
 
 ![Screenshot](images/Parameters-search.png)    
-Figura 1 - Tela de pesquisa de parâmetros    
+Figura 1 - Pantalla de búsqueda de parámetros    
 
-##LISTAGEM DE ITENS
+## Lista de elementos
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Tipo e Descrição.    
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Nombre, Tipo y Descripción.    
 
 ![Screenshot](images/Parameters-Listing.png)   
-Figura 2 - Tela de listagem de parâmetros    
+Figura 2 - Pantalla de lista de parámetros    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS
+## Completar campos catastrales
 
-1- Para cadastrar um novo parâmetro, clique em "Cadastrar", conforme ilustrado na figura abaixo:  
+1- Para registrar un nuevo parámetro, haga clic en "Registrar", como se muestra en la figura siguiente:  
 
 ![Screenshot](images/Parameters-home.png)  
-Figura 3 - Tela inicial de parâmetros  
+Figura 3 - Pantalla inicial de parámetros  
 
-2- Nesta tela também é permitido ao usuário outras ações. São elas:    
-- Editar: muda um parâmetro existente. Para editar, selecione um item na tabela e clique em "Editar".   
-- Visualização: exibe um parâmetro registrado. Não permite edição. Para visualizar, selecione um item na tabela e clique em Exibir.  
+2- En esta pantalla también se permite al usuario otras acciones:
 
-3- Ao clicar em Cadastrar, será apresentada a seguinte tela:   
+* Editar: cambia un parámetro existente. Para editar, seleccione un elemento de la tabla y haga clic en "Editar";
+
+* Ver: presenta un parámetro registrado. No permite la edición. Para ver, seleccione un elemento de la tabla y haga clic en Ver..  
+
+3- Al hacer clic en Registrar, aparecerá la siguiente pantalla:   
 
 ![Screenshot](images/Parameters-register.png)   
-Figura 4 - Tela de cadastro de parâmetro    
+Figura 4 - Pantalla de registro de parámetro    
 
-4- Para registrar um parâmetro, insira o nome, o tipo e a descrição. O sistema exibirá um campo "Valor" de acordo com o tipo selecionado.    
-5- Clique em "Salvar" para salvar suas alterações.    
+4- Para registrar un parámetro, introduzca el nombre, tipo y descripción. El sistema presentará un campo "Valor" según el tipo seleccionado. 
+
+5- Haga clic en "Guardar" para guardar los cambios.    
 
 
 !!! tip "About"

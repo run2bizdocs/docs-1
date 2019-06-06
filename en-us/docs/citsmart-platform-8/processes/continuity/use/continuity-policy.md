@@ -50,15 +50,15 @@ Related
 
 [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
-[Register threat](/en-us/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Register threat](/en-us/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Register threat category](/en-us/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Register threat category](/en-us/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Register risk category](/en-us/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Register risk category](/en-us/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
 [Register service continuity scope](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
 
-[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
 [Register automatic actions of incident/request/procedure](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 

@@ -25,7 +25,7 @@ Procedimento
 
     !!! Abstract "NOTA"
 
-        No campo “Tipo”, escolhendo a opção Vínculo, é possível tornar o Centro de
+        No campo “Tipo”, escolhendo a opção *Vínculo*, é possível tornar o Centro de
         Experiência como o vínculo em outro Centro de Experiência.
 
 4.  Na guia **Permissões**, definir os grupos que terão acesso;
@@ -36,13 +36,13 @@ Procedimento
 
     *Personalizar visualmente*
 
-    -   Para alterar logo, clicar no botão “Alterar logo";
+    -   Para alterar a logo, clicar no botão “Alterar logo";
 
-    -   Para alterar cabeçalho, clicar no botão “Alterar cabeçalho”;
+    -   Para alterar o cabeçalho, clicar no botão “Alterar cabeçalho”;
 
     -   Para definir o estilo da grid, escolher uma das opções disponibilizadas;
 
-    -   Para eleger a cor da fonte dos menus, clicar no campo localizalizado em
+    -   Para eleger a cor da fonte dos menus, clicar no campo localizado em
         frente a “Cor do tema”.
 
     *Widgets com navegação*
@@ -63,7 +63,7 @@ Procedimento
     -   Para personalizar um menu, clicar no botão com formato de ferramenta:
 
         -   Widget: adiciona e personaliza todos os tipos de widgets disponíveis
-            (ver tabela)
+            (ver tabela);
 
         -   Link: preencher com o link que deseja tornar disponível no menu;
 
@@ -79,7 +79,7 @@ Procedimento
 
     -   Escolher o layout da nova seção;
 
-    -   Escolher e personalizar os widgets disponíveis (ver tabela)
+    -   Escolher e personalizar os widgets disponíveis (ver tabela).
 
 
 6.  Clicar em “Gravar”.

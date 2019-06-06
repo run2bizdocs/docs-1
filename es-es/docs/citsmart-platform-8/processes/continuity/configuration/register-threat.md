@@ -25,7 +25,7 @@ Procedimiento
 Relacionados
 ------------------
 
-[Registrar categoría de amenaza](/es-es/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 

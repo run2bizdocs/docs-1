@@ -52,13 +52,13 @@ de Implementação.
 Relacionado
 ----------------
 
-[Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Cadastrar ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Cadastrar categoria de ameaça](/pt-br/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Cadastrar categoria de risco](/pt-br/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
-[Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+[Cadastrar o risco de continuidade](/pt-br/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
 [Cadastrar a continuidade de serviço](/pt-br/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
 
@@ -71,7 +71,6 @@ Relacionado
 [Cadastrar as funções vitais da continuidade do serviço](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-vital-functions.html)
 
 [Cadastrar a análise de impacto no negócio da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
-
 
 [Cadastrar a avaliação de riscos da continuidade](/pt-br/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
 

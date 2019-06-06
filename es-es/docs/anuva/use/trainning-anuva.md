@@ -29,9 +29,9 @@ Procedimiento
 Relacionado
 -----------
 
-[Cómo enseñar su Anuva](/es-es/anuva/teach-anuva.html)
+[Cómo enseñar su Anuva](/es-es/anuva/use/teach-anuva.html)
 
-[Monitorear las interacciones de su Anuva](/es-es/anuva/monitoring-anuva.html)
+[Monitorear las interacciones de su Anuva](/es-es/anuva/use/monitoring-anuva.html)
 
 !!! tip "About"
 

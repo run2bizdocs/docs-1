@@ -13,7 +13,7 @@ Procedimento
 2.  Clicar no ícone simbolizado por uma seta para baixo disponível ao lado
     direito da tela, dentro do campo de pesquisa;
 
-3.  Apertar o botão de "Pesquisa avançada"
+3.  Apertar o botão "Pesquisa avançada";
 
 4.  Preencher os filtros e clicar em "Pesquisa avançada";
 

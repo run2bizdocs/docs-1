@@ -39,6 +39,11 @@ Procedimento
 
     -   Total: soma das **Sprints** que estão dentro do Workspace.
 
+!!! Abstract "ATENÇÃO"
+
+    Para movimentar um **workspace** alterando sua ordenação, clicar e arrastar o
+    mesmo para a posição de prioridade desejada.
+
 
 ***II - Criar uma Sprint***
 
@@ -76,6 +81,12 @@ Procedimento
     O cálculo do progresso depende totalmente das estimativas informadas nas
     tarefas.
 
+
+!!! Abstract "ATENÇÃO"
+
+    Para movimentar uma **sprint** alterando sua ordenação, clicar e arrastar a
+    mesma para a posição de prioridade desejada.
+    
 
 ![tela sprint](images/figure-1-simple.png)
     

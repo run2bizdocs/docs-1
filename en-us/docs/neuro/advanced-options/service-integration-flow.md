@@ -4,15 +4,15 @@ Description:Service integration flows, as the name implies, involve workflows th
 
 Service integration flows, as the name implies, involve workflows that are executed based on system services, such as integrations and conversions, for example.  
 
-##How to access  
+## How to access  
 
 1. Access the functionality through the menu Neuro > Management > ESI Flow.  
 
-##Preconditions  
+## Preconditions  
 
 1. Not applicable  
 
-##Filters  
+## Filters  
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -22,14 +22,14 @@ Service integration flows, as the name implies, involve workflows that are execu
 
 Figure 1 - Search screen   
 
-##Items list  
+## Items list  
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description, Flow Application, Version**, and **Block date**.  
 
 ![Screenshot](images/Service-Integration-Flow-fig02.png)   
 Figure 2 - Listing screen   
 
-##Filling in the registration fields - flow data 
+## Filling in the registration fields - flow data 
 
 Through this tab, all basic information about the flow to be design is defined.  
 
@@ -50,7 +50,7 @@ Through this tab, all basic information about the flow to be design is defined.
 
 5. The field **version** is incremented automatically by the system whenever a new version of the workflow is created.  
 
-##Variables  
+## Variables  
 
 In this tab are configured the variables that will be used in the drawn flow. Variables are objects that can hold and represent a value or expression. Variables are associated with "names", called identifiers, during the runtime of the flow.  
 
@@ -88,7 +88,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
     To save the changes effectively, click "Save" on the top bar. 
 
-##Actions 
+## Actions 
 
 Through this menu, it is possible to register the actions that will be run in the workflow.  
 
@@ -115,7 +115,7 @@ The actions are based on scripts programmed in **Rhino** language.
 
     To save the changes effectively, click "Save" on the top bar. 
 
-##Diagram  
+## Diagram  
 
 The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process Workflow"**.  
 

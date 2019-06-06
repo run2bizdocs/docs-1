@@ -4,7 +4,7 @@ Description: Visa fornecer informações relevantes que permitam ao operador (us
 
 
 O Portal do Conhecimento é uma das telas principais da solução, que visa
-fornecer informações relevantes que permitam ao operador (usuário ou
+fornecer informações relevantes que permitem ao operador (usuário ou
 administrador) o entendimento e aplicação de um determinado conhecimento.
 
 Também possibilita que o mesmo registre um novo conhecimento, de modo a tornar o
@@ -68,7 +68,7 @@ conhecimento na Base de Conhecimento
     d) palavras-chaves (Tags)
     
     
-1.  Após encontrar o conhecimento desejado, clique no título para visualizar o
+1.  Após encontrar o conhecimento desejado, clicar no título para visualizar o
     conteúdo:
 
  ![Visualizar](images/figure3-portal.png)
@@ -97,7 +97,7 @@ conhecimento na Base de Conhecimento
 
 - **11**:Quantidade de comentários, visualizações, nome de quem criou o conhecimento, data e horário de sua última modificação
 
-- **12**:Estratégia de avaliação quantitativa do conhecimento (uma nota), que vai variar de 1 a 5, dependendo da estrela marcada
+- **12**:Estratégia de avaliação quantitativa do conhecimento (uma nota), que varia de 1 a 5, dependendo da estrela marcada
 
 - **13**:Local onde o usuário pode registrar seus comentários
 

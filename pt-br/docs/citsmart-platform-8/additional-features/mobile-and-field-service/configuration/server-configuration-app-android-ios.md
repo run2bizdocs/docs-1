@@ -5,7 +5,7 @@ Description: Tem o propósito de fornecer orientações necessárias para config
 Antes de começar
 ----------------
 
-É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart S, configurar os parâmetros 257 e 272, sendo:
+É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart, configurar os parâmetros 257 e 272, sendo:
 
 -   Valores: "S" ou "N" Default: "N"
 
@@ -22,13 +22,13 @@ Configurando os web services
 ----------------------------
 
 A configuração dos Web services são fundamentais para o acesso a todas as
-funcionalidades do aplicativo. Siga os passos para melhor configurá-lo:
+funcionalidades do aplicativo. Seguir os passos para melhor configurá-lo:
 
-1.  No CITSmart Experience (Web), acesse a funcionalidade de Web Services
+1.  No CITSmart Experience (Web), acessar a funcionalidade de Web Services
     referente ao mobile (Sistema > Configurações > Web Services Citsmart
     Mobile);
 
-2.  Clique na aba “Vincular Grupos” e vincule o grupo executor de atividades aos
+2.  Clicar na aba “Vincular Grupos” e vincular o grupo executor de atividades aos
     Web Services do CITSmart Experience Mobile.
 
 !!! Abstract "Regra"
@@ -40,13 +40,12 @@ Instalação do certificado intermediário globalsign
 --------------------------------------------------
 
 Para reconhecer o certificado intermediário da GlobalSign (Emissora do
-Certificado Digital) é necessário a instalação do mesmo. Segue os procedimentos
-abaixo:
+Certificado Digital) é necessário a instalação do mesmo:
 
-1.  Acesso o
+1.  Acessar o
     endereço: <https://support.globalsign.com/customer/portal/articles/1464460-domainssl-intermediate-certificates>;
 
-2.  Realize o download do primeiro certificado, conforme indicado na figura
+2.  Realizar o download do primeiro certificado, conforme indicado na figura
     abaixo:
 
     ![global sign](images/android-ios-1.jpg)
@@ -69,14 +68,14 @@ abaixo:
 
 ### Instalação do app Android/iOS
 
-1.  Acesse a loja (Play Store ou App Store) para abaixar o aplicativo CITSmart
+1.  Acessar a loja (Play Store ou App Store) para abaixar o aplicativo CITSmart
     Experience mobile;
 
-2.  Pesquise por CITSmart Experience e após a pesquisa, selecione o aplicativo;
+2.  Pesquisar por CITSmart Experience e após a pesquisa, selecionar o aplicativo;
 
-3.  Pressione o botão "Instalar" para baixar o aplicativo.
+3.  Pressionar o botão "Instalar" para baixar o aplicativo.
 
-### Criando chave para uso e consumo das APIs Google
+### Criar chave para uso e consumo das APIs Google
 
 Para que seja possível o uso e consumo das APIs Google é necessário que uma API
 Key seja criada. Para isso, os seguintes passos devem ser seguidos:
@@ -86,10 +85,10 @@ Key seja criada. Para isso, os seguintes passos devem ser seguidos:
     Para realizar esses procedimentos é necessário estar logado com uma conta
     Google.
 
-4.  Acesse o console do desenvolvedor
+4.  Acessar o console do desenvolvedor
     Google [https://console.developers.google.com](https://console.developers.google.com/);
 
-5.  Clique em "Criar um projeto", conforme indicado na figura abaixo:
+5.  Clicar em "Criar um projeto", conforme indicado na figura abaixo:
 
     ![Google](images/android-ios-3.jpg)
 
@@ -102,10 +101,10 @@ Key seja criada. Para isso, os seguintes passos devem ser seguidos:
 
     Figura 4 - Tela de criação de projeto
 
-7.  Informe o nome do projeto e clique no botão "Criar" para criação do projeto.
+7.  Informar o nome do projeto e clicar no botão "Criar" para criação do projeto.
 
-8.  Após criar o projeto, clique em APIs e serviços. Para criar a API Key,
-    clique em APIs e serviços > Credenciais > Criar credenciais > Chave de API,
+8.  Após criar o projeto, clicar em APIs e serviços. Para criar a API Key,
+    clicar em APIs e serviços > Credenciais > Criar credenciais > Chave de API,
     conforme indicado na figura abaixo:
 
     ![API Key](images/android-ios-5.jpg)
@@ -118,9 +117,9 @@ Key seja criada. Para isso, os seguintes passos devem ser seguidos:
 
     Figura 6 - Tela de opções de API Key para criação
 
-10.  Escolha a opção que melhor lhe atenda. Para mais informações sobre qual
+10. Escolha a opção que melhor atenda a necessidade. Para mais informações sobre qual
     chave irá lhe atender,
-    acesse <https://developers.google.com/console/help/new/#generatingdevkeys>.
+    acessar <https://developers.google.com/console/help/new/#generatingdevkeys>.
 
 11.  Após as chaves criadas, as APIs já poderão ser consumidas.
 
@@ -166,20 +165,20 @@ Segue abaixo as APIs do Google a serem consideradas nas soluções:
 Ativando uma API
 ----------------
 
-Para ativar uma API para uso, proceda conforme os passos descritos abaixo:
+Para ativar uma API para uso, proceder conforme os passos descritos abaixo:
 
-1.  Após de executar os passos descritos na seção "Criando chave para uso e
+1.  Após executar os passos descritos na seção "Criar chave para uso e
     consumo das APIs Google";
 
-2.  Clique em APIs e serviços > Ativar APIs e serviços , conforme indicado na
+2.  Clicar em APIs e serviços > Ativar APIs e serviços , conforme indicado na
     figura abaixo:
 
     ![APIs Google](images/android-ios-8.jpg)
 
      Figura 8 - APIs Google
 
-3.  Será apresentada a biblioteca de APIs. Selecione a API que deseja ativar (a
-    figura abaixo representa um exemplo de API) e clique no botão "Ativar"
+3.  Será apresentada a biblioteca de APIs. Selecionar a API que deseja ativar (a
+    figura abaixo representa um exemplo de API) e clicar no botão "Ativar"
     conforme indicado na figura abaixo:
 
     ![Ativação](images/android-ios-9.jpg)

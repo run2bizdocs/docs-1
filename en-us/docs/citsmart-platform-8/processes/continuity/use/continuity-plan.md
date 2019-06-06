@@ -64,19 +64,19 @@ Related
 
 [Register service continuity strategy](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Register threat](/en-us/citsmart-platform-8/processes/continuity/use/register-threat.html)
+[Register threat](/en-us/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
 [Register service continuity vital functions](/en-us/citsmart-platform-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Register threat category](/en-us/citsmart-platform-8/processes/continuity/use/threat-category.html)
+[Register threat category](/en-us/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Register risk category](/en-us/citsmart-platform-8/processes/continuity/use/risk-category.html)
+[Register risk category](/en-us/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
 [Register service continuity scope](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
 
 [Register continuity organizational planning](/en-us/citsmart-platform-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
+[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
 [Define service continuity policy](/en-us/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
 

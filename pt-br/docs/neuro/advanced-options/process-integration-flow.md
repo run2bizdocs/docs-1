@@ -5,15 +5,15 @@ Description:Os fluxos de integração de processos são workflows que possuem ta
 
 Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
-##Como acessar 
+## Como acessar 
 
 1. Acesse a funcionalidade através do menu Workflow/ESI > Administração > Design workflow/ESI.  
 
-##Pré-condições
+## Pré-condições
 
 1. Não se aplica.   
 
-##Filtros
+## Filtros
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
@@ -23,14 +23,14 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 
 Figura 1 - Tela de pesquisa de design workflow/ESI   
 
-##Listagem de itens   
+## Listagem de itens   
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Process-fig02.png) 
 
 Figura 2 - Tela de listagem de design workflow/ESI   
 
-##Preenchimento dos campos cadastrais - dados do fluxo 
+## Preenchimento dos campos cadastrais - dados do fluxo 
 
 Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
 
@@ -48,23 +48,23 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
 3. Preencha os campos:  
  
--  Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se aplique);  
+ * Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se             aplique);  
 
--  O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
+ * O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
 
--  O gerenciamento de tempo poderá ocorrer das seguintes formas:  
+ * O gerenciamento de tempo poderá ocorrer das seguintes formas:  
 
-	-   Não gerencia: quando o tempo não é gerenciado no fluxo cadastrado.  
+     * Não gerencia: quando o tempo não é gerenciado no fluxo cadastrado;  
 
-	-   Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução cadastrado no processo de negócio  
+     * Definido no fluxo: será utilizado o tempo cadastrado no fluxo, mas somente se não houver tempo de execução                  cadastrado no processo de negócio;  
 
-	-   Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
+     * Definido na execução: será utilizado o tempo cadastrado no processo de negócio.  
 
-##Variáveis    
+## Variáveis    
 
 Verificar documentação de Variáveis.    
 
-##Estados 
+## Estados 
 
 Os estados do fluxo representam as situações nas quais um fluxo pode se encontrar, de acordo com o seu ciclo de vida.    
 
@@ -91,7 +91,7 @@ Os estados do fluxo representam as situações nas quais um fluxo pode se encont
 
         Para salvar efetivamente as alterações, clique em "Salvar" na barra superior.  
 	
-##Ações
+## Ações
 
 Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
 
@@ -117,7 +117,7 @@ Por meio deste menu, é possível cadastrar as ações que serão executadas no 
 
      Para salvar efetivamente as alterações, clique em "Salvar" na barra superior.    
 	
-##Atores 
+## Atores 
 
 Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
 
@@ -156,7 +156,7 @@ Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de 
 	
 7. Para remover uma ação, selecione a mesma, clique em "Remover" e confirme a exclusão.  
 	
-##Diagrama  
+## Diagrama  
 
 O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode ser desenhado por aqui, por meio da utilização da notação BPMN.    
 

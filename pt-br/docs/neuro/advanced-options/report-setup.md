@@ -5,15 +5,15 @@ Description:Essas informações são preenchidas automaticamente a partir do cad
 
 Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.   
 
-##Como acessar 
+## Como acessar 
 
 1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
 
-##Pré-condições
+## Pré-condições
 
 1. O formulário deve ser previamente cadastrado no Formulário. 
 
-##Filtros 
+## Filtros 
 
 1. O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
 
@@ -23,7 +23,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 
 Figura 1 -Tela de pesquisa de relatórios     
 
-##Listagens de itens
+## Listagens de itens
 
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Aplicação, Recurso, Nome, Descrição e Versão.  
 
@@ -31,9 +31,9 @@ Figura 1 -Tela de pesquisa de relatórios
 
 Figura 2 -Tela de listagem de relatórios    
 
-##Preenchimento dos campos cadastrais  
+## Preenchimento dos campos cadastrais  
 
-###Dados do relatório
+### Dados do relatório
 
 1. Essas informações são preenchidas automaticamente a partir do cadastro do arquivo de relatório. Podem ser editados o nome, a descrição, e a pasta agrupadora do projeto no servidor.    
 
@@ -41,7 +41,7 @@ Figura 2 -Tela de listagem de relatórios
 
 Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relatório    
 
-##Data source
+## Data source
 
 1. Refere-se à fonte de dados do relatório. Informe o tipo da fonte de dados, que pode ser:   
 
@@ -55,7 +55,7 @@ Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relat
 
 Figura 4 - Cadastro/edição de configuração de relatório, aba Data source    
 
-##Parâmetros   
+## Parâmetros   
 
 1. Esta aba refere-se ao cadastro de parâmetros fixos para compor o relatório. Você poderá inserir uma imagem como parâmetro para definir a logotipo do relatório, por exemplo.   
 
@@ -69,7 +69,7 @@ Figura 4 - Cadastro/edição de configuração de relatório, aba Data source
 
 Figura 5 - Cadastro/edição de configuração de relatório, aba Parâmetros    
 
-##Formulário
+## Formulário
 
 Esta aba representa o formulário a ser exibido quando o usuário for gerar o relatório.    
 

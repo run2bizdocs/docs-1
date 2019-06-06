@@ -26,6 +26,7 @@ Procedimento
     <jms-queue name="ITSM.READ_ACCESS_AUDIT" entries="queue/ITSM.READ_ACCESS_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_ACCESS_AUDIT"/>
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```
+
 2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):  
 
     ```java
@@ -37,8 +38,7 @@ Procedimento
     ```
      
     !!! Abstract "OBSERVAÇÃO"
- 
-        Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.
+        Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
  
 3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
 

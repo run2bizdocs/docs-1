@@ -1,155 +1,159 @@
-Title: Fluxo de integração de serviços  
-Description:Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
+Title: Flujo de integración de servicios  
+Description: Los flujos de integración de servicios, como el propio nombre dice, involucra workflows ejecutados en base a servicios del sistema, como integraciones y conversiones, por ejemplo.   
 
 
-# Fluxo de integração de serviços   
+# Flujo de integración de servicios   
 
-Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
+Los flujos de integración de servicios, como el propio nombre dice, involucra workflows ejecutados en base a servicios del sistema, como integraciones y conversiones, por ejemplo.   
 
-##COMO ACESSAR    
+## Cómo acceder    
 
-1- Acesse a funcionalidade através do menu Neuro → Gerenciamento → Fluxo ESI.     
+1- Acceda a la funcionalidad a través del menú Neuro > Flujo de integración.     
 
-##PRÉ-CONDIÇÕES    
+## Condiciones previas    
 
-1- Não se aplica.   
+1- No se aplica.   
 
-##FILTROS  
+## Filtros  
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de la funcionalidad, facilitando la localización de los elementos deseados:   
 
-- Palavra chave  
+- Palabra clave  
 
-![Screenshot](images/Service-Integration-Flow-fig01.png) 
-Figura 1 - Tela de pesquisa    
+![Screenshot](images/Service-Integration-Flow-fig01.png)
 
-##LISTAGEM DE ITENS    
+Figura 1 - Pantalla de búsqueda    
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
+## Lista de elementos    
+
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Nombre, Descripción, Aplicación del flujo, Versión y Fecha de bloqueo.   
 
 ![Screenshot](images/Service-Integration-Flow-fig02.png)   
-Figura 2 - Tela de listagem     
+Figura 2 - Pantalla de lista     
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS - DADOS DO FLUXO   
+## Completar campos catastrales - Datos del flujo   
 
-Através dessa aba, são definidas informações básicas do fluxo que será desenhado.   
+A través de esta pestaña, se definen las informaciones básicas del flujo que será dibujado.   
 
-1- Para adicionar um novo fluxo, clique em Cadastrar → Fluxo de serviços de integração, conforme ilustrado na figura abaixo:   
+1- Para añadir un nuevo flujo, haga clic en Registrar > Flujo de servicios de integración, como se muestra en la figura siguiente:   
 
 ![Screenshot](images/Service-Integration-Flow-fig03.png)
 
-Figura 3 - Tela de registro   
+Figura 3 - Pantalla de registro   
 
-2- Para cadastrar um novo dados do fluxo, clique em "Adicionar".   
-3- Será apresentada a seguinte tela:    
+2- Para registrar un nuevo dato del flujo, haga clic en "Agregar".   
+3- Se presentará la siguiente pantalla:    
 
 ![Screenshot](images/Service-Integration-Flow-fig04.png)
 
-Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo    
+Figura 4 - Pantalla de registro/edición del workflow, pestaña de Datos del Flujo    
 
-4- Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Neuro persistirá no banco de dados de toda instância da execução deste fluxo.    
+4- Introduzca un nombre para el flujo, una descripción, que formulario comenzará el flujo (en su caso), y si persiste o no la ejecución del flujo. Si el campo "Persiste la ejecución del flujo" se marca, el Neuro persistirá en la base de datos de toda instancia de la ejecución de este flujo.    
 
-5- O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada.    
+5- El campo de versión se incrementa automáticamente por el sistema cada vez que se crea una nueva versión del workflow.    
 
-##VARIÁVEIS  
+## Variables  
 
-Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenhado. As variáveis são objetos capazes de reter e representar um valor ou expressão. As variáveis são associadas a "nomes", chamados identificadores, durante o tempo de execução do fluxo.  
+En esta pestaña se configuran las variables que se utilizarán en el flujo dibujado. Las variables son objetos capaces de retener y representar un valor o una expresión. Las variables se asocian a "nombres", llamados identificadores, durante el tiempo de ejecución del flujo.  
 
-1- Para adicionar uma variável, selecione a sua aba referente e clique em "Adicionar".  
-2- Será apresentada a seguinte tela:    
+1- Para agregar una variable, seleccione la pestaña correspondiente y haga clic en "Agregar".  
+2- Se mostrará la siguiente pantalla:    
 
 ![Screenshot](images/Service-Integration-Flow-fig05.png) 
 
-Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis     
+Figura 5 - Pantalla de registro/edición del workflow, pestaña de Variables     
 
-3- Preencha os campos:    
+3- Completar los campos:    
 
-- Nome da variável;
+- Nombre de la variable;
 
-- Descrição;
+- Descripción;
 
-- Se será armazenada no banco de dados;  
+- Se almacenará en la base de datos;  
 
-     * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor              durante a execução das tarefas  
+     * Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Neuro, por lo que conservará el valor
+     durante la ejecución de las tareas  
 
-- Se é uma variável de retorno;  
+- Si es una variable de retorno;  
 
-     * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
+     * Esta opción hará que Neuro devuelve la variable al final de la ejecución del flujo.  
 
-- Se é uma lista de valores;
+- Si es una lista de valores;
 
-- Se é uma variável de entrada na interface do fluxo;  
+- Si es una variable de entrada en la interfaz de flujo;  
 
-     * Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.  
+     * Esta opción permite que la variable sea "inyectada" en el proceso de negocio vinculado a este flujo.  
 
-- Se é uma variável de saída na interface do fluxo;  
+- Si es una variable de salida en la interfaz de flujo;  
 
-     * Esta opção faz que a variável tenha o valor preenchida quando o processo de negócio vinculado à estre fluxo for executado.  
+     * Esta opción hace que la variable tenga el valor completado cuando se ejecuta el proceso de negocio vinculado al flujo.  
 
-- O tipo da variável;  
+- El tipo de la variable;  
 
-    * Se for um objeto Java, informe a classe Java correspondente; 
+    * Si es un objeto Java, introduzca la clase correspondiente de Java; 
 	
-    * Se for um objeto de negócio, informe qual sua aplicação respectiva e qual o nome cadastrado do objeto de negócio;  
+    * Si es un objeto de negocio, informe cuál es su aplicación respectiva y cuál es el nombre registrado del objeto de negocio;  
 
-- O valor inicial da variável, se constante ou script.  
+- El valor inicial de la variable, si constante o script.  
 
-    * Se o valor for uma constante, este nunca será alterado durante a execução do fluxo, independente das operações realizadas pelo          usuário.  
+    * Si el valor es una constante, éste nunca cambiará durante la ejecución del flujo, independientemente de las operaciones realizadas
+    por el usuario.  
 
-4- Para editar uma variável, selecione a variável desejada, clique em Editar, faça as alterações necessárias e clique em Atualizar para concluir a edição.  
+4- Para editar una variable, seleccione la variable deseada, haga clic en Editar, realice los cambios necesarios y haga clic en
+Actualizar para completar la edición.  
 
-5- Para remover uma variável do fluxo, selecione a variável desejada, clique em Remover e confirme a exclusão.    
+5- Para eliminar una variable de flujo, seleccione la variable deseada, haga clic en Eliminar y confirme la eliminación.    
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"  
 
-    Para salvar efetivamente as alterações, clique em Salvar na barra superior.  
+    Para guardar efectivamente los cambios, haga clic en Guardar en la barra superior.  
 
-##AÇÕES  
+## Acciones  
 
-Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.   
+Por medio de este menú, es posible registrar las acciones que serán ejecutadas en el workflow.   
 
-As ações são baseadas em scripts programados na linguagem Rhino.   
+Las acciones se basan en scripts programados en el lenguaje Rhino.   
 
-1- Para adicionar uma ação, selecione sua aba referente e clique em "Adicionar".   
-2- Será apresentada a seguinte tela:  
+1- Para agregar una acción, seleccione su ficha correspondiente y haga clic en "Agregar".   
+2- Se mostrará la siguiente pantalla:  
 
 ![Screenshot](images/Service-Integration-Flow-fig06.png) 
 
-Figura 6 - Tela de cadastro/edição do workflow, aba de Ações   
+Figura 6 - Pantalla de registro/edición del workflow, pestaña de Acciones   
 
-3- Preencha os campos:   
+3- Completar los campos:   
 
-- Um identificador para a ação;    
-- O nome literal para a mesma;   
-- O script que será executado quando a ação for acionada.    
+- Un identificador para la acción;    
+- El nombre literal para la misma;   
+- El script que se ejecutará cuando se acciona la acción.    
 
-4- Para editar uma ação, selecione a ação desejada, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.  
+4- Para editar una acción, seleccione la acción deseada, haga clic en "Editar", realice los cambios necesarios y haga clic en "Actualizar" para completar la edición.  
 
-5- Para remover uma ação, selecione a mesma, clique em Remover e confirme a exclusão.   
+5- Para eliminar una acción, seleccionéla, haga clic en Eliminar y confirme la eliminación.   
 
-!!! Abstract "ATENÇÃO"  
+!!! Abstract "ATENCIÓN"  
 
-    Para salvar efetivamente as alterações, clique em Salvar na barra superior.
+    Para guardar efectivamente los cambios, haga clic en Guardar en la barra superior.
 
-##DIAGRAMA  
+## Diagrama  
 
-O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo workflow”.  
+El diagrama de un flujo de servicios no tiene los mismos componentes de "Tarea" de un flujo de proceso. No es posible utilizar aquí los componentes de "Tarea humana" y "Sub proceso workflow".  
 
-Para um processo de negócio, possuímos a mais as seções de componentes:   
+Para un proceso de negocio, poseemos más las secciones de componentes:   
 
-- Conectores: componentes utilizados para a execução de operações relacionadas à banco de dados.  
-- Componentes: componentes variados para a execução de diversas tarefas.  
-- Transformadores: componentes para a conversão de tipos de variáveis.  
-- CITSmart ITSM: componentes utilizados para integração com um sistema CITSmart ITSM externo.   
+- Conectores: componentes utilizados para la ejecución de operaciones relacionadas con la base de datos.  
+- Componentes: componentes variados para la ejecución de diversas tareas.  
+- Transformadores: componentes para la conversión de tipos de variables.  
+- CITSmart ITSM: componentes utilizados para la integración con un sistema CITSmart ITSM externo.   
 
-Os demais componentes presentes na paleta se assemelham aos componentes de um “Fluxo de Processo”. Mais informações a respeito da funcionalidade e utilização de cada um dos componentes podem ser encontradas no Desenvolvendo Aplicações.    
+Los demás componentes presentes en la paleta se asemejan a los componentes de un "Flujo de proceso". Más información sobre la funcionalidad y el uso de cada uno de los componentes se pueden encontrar en el desarrollo de aplicaciones.    
 
-1- Para desenhar o diagrama, escolha a aba refente ao mesmo.  
-2- A seguinte tela será exibida:  
+1- Para diseñar el diagrama, elija la pestaña refente al mismo.  
+2- Se presentará la siguiente pantalla:  
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png)
 
-Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
+Figura 7 - Pantalla de registro/edición del workflow, pestaña de Diagrama  
 
 
 !!! tip "About"

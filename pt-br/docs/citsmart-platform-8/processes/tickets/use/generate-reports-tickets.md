@@ -52,7 +52,7 @@ trabalhadas por cada colaborador e/ou por grupo.
 
     !!! Abstract "ATENÇÃO"
 
-        Quando uma pessoa "captura" uma solicitação ou clicar em "gravar e manter
+        Quando uma pessoa "captura" uma solicitação ou clica em "gravar e manter
         tarefa", o tempo começa a ser contabilizado para essa pessoa, pois são
         armazenadas as informações de data, hora e usuário, parando apenas quando a
         solicitação é pausada, cancelada, concluída ou quando outra pessoa captura
@@ -74,7 +74,7 @@ serviço de acordo com a situação informada.
 
     !!! Abstract "NOVIDADE"
 
-        Agora o relatório imprime também uma tabela com o quantitativo por unidade e
+        O relatório imprime também uma tabela com o quantitativo por unidade e
         outra com o quantitativo por unidade e serviço.
 
 
@@ -137,7 +137,7 @@ solicitações de serviços.
     \> Gerência de Incidentes/Requisição \> Pesquisa Solicitações/Incidentes;
 
 2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar".
-    Será exibidas as solicitações;
+    Serão exibidas as solicitações;
 
     !!! Abstract "ATENÇÃO"
 
@@ -149,11 +149,11 @@ solicitações de serviços.
     ações: consultar histórico do ticket, visualizar requisição/incidente,
     visualizar anexos e reabrir o ticket;
 
-4.  Caso queria gerar o relatório com informações resumidas da pesquisa que foi
+4.  Para gerar o relatório com informações resumidas da pesquisa que foi
     realizada, clicar no botão "Gerar XLS" para gerar o relatório em formato
     Excel;
 
-5.  Caso queira gerar o relatório com informações detalhadas da pesquisa que foi
+5.  Para gerar o relatório com informações detalhadas da pesquisa que foi
     realizada, clicar no botão "Gerar Relatório Detalhado PDF" para gerar o
     relatório detalhado em formato PDF e/ou no botão "Gerar Relatório Detalhado
     XLS" para gerar o relatório detalhado em formato Excel.
@@ -175,8 +175,8 @@ executante.
 Gerar relatório de aprovação de solicitação
 -----------------------------------------------
 
-Este relatório tem objetivo de apresentar as solicitações de serviços que foram
-aprovadas e as que não foram aprovadas.
+Este relatório tem objetivo de apresentar as solicitações de serviços que foram ou não
+aprovadas.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerência de Incidentes/Requisição \> Pesquisa Aprovação solicitações;
@@ -228,7 +228,7 @@ de acordo com os filtros escolhidos pelo usuário.
 
     !!! Abstract "ATENÇÃO"
 
-        Quando o usuário quiser fazer um análise de todas as solicitações,
+        Quando o usuário fizer uma análise de todas as solicitações,
         definindo o valor "Todos" para o filtro "Top List", pode existir diferença
         entre o número de solicitações do "Relatório Top 10 localidades que mais
         abriram requisições/incidentes" com o número que foi encontrado nos outros

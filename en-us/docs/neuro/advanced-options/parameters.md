@@ -5,15 +5,15 @@ Description: In this screen the parameters to be used in applications created th
 
 In this screen the parameters to be used in applications created through Neuro are configured. 
 
-##How to access
+## How to access
 
 1. Access the functionality by navigating the menu Neuro > Configuration > Parameters. 
 
-##Preconditions
+## Preconditions
 
 1. Not applicable  
 
-##Filters
+## Filters
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
        * Keyword  
@@ -22,7 +22,7 @@ In this screen the parameters to be used in applications created through Neuro a
 
 Figure 1 - Parameter search screen  
 
-##Items list 
+## Items list 
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: Name, Type and Description.  
 
@@ -30,7 +30,7 @@ Figure 1 - Parameter search screen
 
 Figure 2 - Parameter listing screen  
 
-##Filling in the registration fields
+## Filling in the registration fields
 
 1. To register a new parameter, click "New", as shown in the figure bellow:  
 

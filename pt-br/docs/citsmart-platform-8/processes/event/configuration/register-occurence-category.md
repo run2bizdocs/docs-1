@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 # Cadastrar categoria de ocorrência
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
-excluir de categoria de ocorrência, ou seja, através dela é permitido agrupar
+excluir a categoria de ocorrência, ou seja, através dela é permitido agrupar
 ocorrências de eventos de um mesmo tipo. Este cadastro será associado a cada
 item do cadastro de gerente de eventos do CITSmart Inventory, Nagios ou Zabbix.
 

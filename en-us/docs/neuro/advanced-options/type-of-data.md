@@ -5,15 +5,15 @@ Description:The data type register has the functionality of linking an abstract 
 The data type register has the functionality of linking an abstract type of data to a form component.  
 This field is selected when you create a new attribute for a business object. More information can be found in the technical documentation.  
 
-##How to access  
+## How to access  
 
 1. Access the feature by navigating the menu Neuro > Configuration > Data type.    
 
-##Preconditions
+## Preconditions
 
 1. Not applicable  
  
-##Filters  
+## Filters  
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -23,7 +23,7 @@ This field is selected when you create a new attribute for a business object. Mo
 
 Figure 1 - Data type search screen  
 
-##Items list  
+## Items list  
 
 1. The following cadastral fields are available to the user to make it easier to identify the desired items in the standard feature listing: **Name, Description** and **Component**.  
 
@@ -31,7 +31,7 @@ Figure 1 - Data type search screen
 
 Figure 2 - Data type list screen  
 
-##Filling in the registration fields  
+## Filling in the registration fields  
 
 1. To register a new data type, click "New", as shown in the figure bellow:  
 

@@ -53,7 +53,7 @@ Procedimiento
 Relacionado
 --------
  
-[Cómo entrenar su Anuva](/es-es/anuva/trainning-anuva.html)
+[Cómo entrenar su Anuva](/es-es/anuva/use/trainning-anuva.html)
  
  
 

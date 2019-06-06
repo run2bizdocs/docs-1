@@ -9,7 +9,7 @@ Antes de começar
 --------------------
 
 Para cadastrar um modelo/template de ticket é necessário registrar previamente o
-contrato e este estar vinculado ao serviço, o grupo e este estar vinculado ao
+contrato e este estar vinculado ao serviço, ao grupo e este estar vinculado ao
 contrato, a unidade e esta estar vinculada ao contrato, ter acesso à
 funcionalidade de Modelo de Ticket, ter o portfólio com o serviço e as
 atividades de requisição e incidente e estarem vinculadas ao contrato de

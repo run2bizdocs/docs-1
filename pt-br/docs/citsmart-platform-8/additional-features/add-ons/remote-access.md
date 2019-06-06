@@ -2,9 +2,9 @@ Title: Implementar o Acesso Remoto
 
 # Implementar o Acesso Remoto
 
-A funcionalidade de acesso remoto permite que computadores sejam acessados remotamente a partir de sua instância CITSmart. Neste sentido, utilizamos os recursos do protocolo VNC (Virtual Network Computing) por intermédio do Apache Guacamole - Gateway de acesso remoto baseado na web - para tornar esta operação viável. Além de poder acessar remotamente um item de configuração, todas as sessões são gravadas e disponibilizadas junto às informações do IC. Isto garante um melhor controle sobre as ações realizadas proporcionando um ambiente confiável e auditável.
+A funcionalidade de acesso remoto permite que computadores sejam acessados remotamente a partir de sua instância CITSmart. Neste sentido, são utilizados os recursos do protocolo VNC (Virtual Network Computing) por intermédio do Apache Guacamole - Gateway de acesso remoto baseado na web - para tornar esta operação viável. Além de poder acessar remotamente um item de configuração, todas as sessões são gravadas e disponibilizadas junto às informações do IC. Isto garante um melhor controle sobre as ações realizadas, proporcionando um ambiente confiável e auditável.
 
-Esta funcionalide é um complemento (add-on) à Gerência de Configuração e depende do processo de invetário para tonar o acesso remoto viável à um IC.
+Esta funcionalide é um complemento (add-on) à Gerência de Configuração e depende do processo de inventário para tonar o acesso remoto viável a um IC.
 
 
 ## O que fazer antes
@@ -28,19 +28,19 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
     CITSMART_PASSWORD=********
     ```
 	
-3. Definir o diretorio para gravação dos vídeos (ex. /mp4);
+3. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
 !!! success "Gravação de video"
         
     Após o encerramento da sessão de acesso remoto, o vídeo gerado 
-    entra em uma fila de copilação para então ser disponilizado na 
-    plataforma. O tempo de compilação dempenderá do tempo da sessão, 
-    além disso, o início da compilão está atrelado à rotina cron 
+    entra em uma fila de compilação para então, ser disponilizado na 
+    plataforma. O tempo de compilação dependerá do tempo da sessão, 
+    além disso, o início da compilação está atrelado à rotina cron 
     definida na conexão de acesso remoto.
     
 ## O que fazer a seguir
 
-Com o serviço do GuaCD ativo e comunicável, o próximo passao e criar uma conexão de acesso remoto em sua instância e testar o recurso.
+Com o serviço do GuaCD ativo e comunicável, o próximo passo é criar uma conexão de acesso remoto em sua instância e testar o recurso.
 
 ## Relacionado
 

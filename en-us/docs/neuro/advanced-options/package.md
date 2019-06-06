@@ -4,15 +4,15 @@ Description: When you produce a set of application items through the Neuro, it i
 
 When you produce a set of application items through the Neuro, it is possible that this set is clustered in a package that can be imported / exported between Neuro environments.  
 
-##How to access
+## How to access
 
 1. Access the functionality through navigation in the main menu Neuro > Management > Package.  
 
-##Preconditions 
+## Preconditions 
 
 1. No applicable.  
 
-##Filters 
+## Filters 
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
      * Keyword or enter.  
@@ -21,7 +21,7 @@ When you produce a set of application items through the Neuro, it is possible th
 
 Figure 1 - Package search screen  
 
-##Items list 
+## Items list 
 
 1. The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: Name, Description and Version.  
 
@@ -29,7 +29,7 @@ Figure 1 - Package search screen
 
 Figure 2 - Package listing screen  
 
-##Filling in the registration fields
+## Filling in the registration fields
 
 1. To change a package already registered, click "Edit", make the modifications and then click "Save";  
 2. To create a package, click "New". Enter the Package Name and Description. Then select the elements that will be part of the package. All these elements must have been previously registered in Neuro;  

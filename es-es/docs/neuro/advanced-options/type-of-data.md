@@ -1,58 +1,58 @@
-Title: Tipo de dado  
-Description:O cadastro de tipo de dado tem a funcionalidade de vincular um tipo abstrato de dado à um componente de formulário.   
+Title: Tipo de dato  
+Description: El registro de tipo de datos tiene la funcionalidad de vincular un tipo abstracto de datos a un componente de formulario.   
 
-# Tipo de dado  
+# Tipo de dato  
 
-O cadastro de tipo de dado tem a funcionalidade de vincular um tipo abstrato de dado à um componente de formulário.    
-Este campo é selecionado quando se cria um novo atributo de um objeto de negócio. Mais informações podem ser encontradas no documento de Desenvolvendo Aplicações.   
+El registro de tipo de datos tiene la funcionalidad de vincular un tipo abstracto de datos a un componente de formulario.    
+Este campo se selecciona cuando se crea un nuevo atributo de un objeto de negocio. Más información se puede encontrar en el documento de Desarrollo de Aplicaciones.   
 
-##COMO ACESSAR   
+## Cómo acceder 
 
-1- Acesse a funcionalidade através da navegação no menu Neuro → Configuração → Tipo de dado.    
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Configuración > Tipo de dato.    
 
-##PRÉ-CONDIÇÕES  
+## Condiciones previas 
 
-1- Não se aplica.    
+1- No se aplica.    
  
-##FILTROS   
+## Filtros  
 
-1- O seguinte filtro possibilita ao usuário restringir a participação de itens na listagem padrão da funcionalidade, facilitando a localização dos itens desejados:   
+1- El siguiente filtro permite al usuario restringir la participación de elementos en el listado estándar de funcionalidad, facilitando la localización de los elementos deseados:   
 
-- Palavra chave   
+- Palabra clave   
 
 ![Screenshot](images/Data-type-fig01.png)   
-Figura 1 - Tela de pesquisa de tipo de dado    
+Figura 1 - Pantalla de búsqueda de tipo de dato    
 
-##LISTAGEM DE ITENS  
+## Lista de elementos
 
-1- Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição e Componente.
+1- Los siguientes campos catastrales están disponibles para el usuario para facilitar la identificación de los elementos deseados en el listado estándar de la funcionalidad: Nombre, Descripción y Componente.
 
 ![Screenshot](images/Data-type-fig02.png)
 
-Figura 2 - Tela de listagem de tipo de dado    
+Figura 2 - Pantalla de lista de tipo de dato    
 
-##PREENCHIMENTO DOS CAMPOS CADASTRAIS  
+## Completar campos catastrales  
 
-1- Para cadastrar uma propriedade de componente, clique em "Cadastrar", conforme ilustrado na figura abaixo:   
+1- Para registrar una propiedad de componente, haga clic en "Registrar", como se muestra en la figura siguiente:   
 
 ![Screenshot](images/Data-type-fig03.png)
 
-Figura 3 - Tela inicial de tipo de dado   
+Figura 3 - Pantalla inicial de tipo de dato 
 
-2- Nesta tela também é permitido ao usuário outras ações. São elas:   
+2- En esta pantalla también se permite al usuario otras acciones:   
 
-- Para editar um item criado, selecione o item desejado, clique em "Editar", faças as alterações, e clique em "Salvar".  
-- Para visualizar um item, selecione o mesmo e clique em "Visualizar".  
-- Para remover um item criado, selecione o item desejado, clique em "Remover" e confirme a exclusão.   
+- Para editar un elemento creado, seleccione el elemento deseado, haga clic en "Editar", haga los cambios y haga clic en "Guardar".  
+- Para ver un elemento, seleccionélo y haga clic en "Ver".  
+- Para eliminar un elemento creado, seleccione el elemento deseado, haga clic en "Eliminar" y confirme la eliminación.   
 
-3- Ao clicar em "Cadastrar", será apresentada a seguinte tela:    
+3- Al hacer clic en "Registrar", aparecerá la siguiente pantalla:    
 
 ![Screenshot](images/Data-type-fig04.png)
 
-Figura 4 - Tela de cadastro de tipo de dado  
+Figura 4 - Pantalla de registro de tipo de dato  
 
-4- Preencha os campos;    
-5- Clique em "Salvar" para armazenar o arquivo. Clique em "Pesquisar" para voltar para a tela anterior.  
+4- Completar los campos;    
+5- Haga clic en "Guardar" para almacenar el archivo. Haga clic en "Buscar" para volver a la pantalla anterior.  
 
 !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

@@ -34,7 +34,7 @@ Procedimento
 
 7.  Selecionar a atividade e clicar em “Editar”;
 
-8.  Configura para a opção “Sim” o campo *Exige assinatura para Mobile*;
+8.  Configurar para a opção “Sim” o campo *Exige assinatura para Mobile*;
 
 9.  Clicar em “Gravar”.
 

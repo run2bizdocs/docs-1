@@ -2,7 +2,7 @@ title: Cadastrar fórmula
 Description: Elaborar a fórmula que será utilizada no cadastro de um contrato.
 # Cadastrar fórmula
 
-Esta funcionalidade tem a por finalidade elaborar a fórmula que será utilizada
+Esta funcionalidade tem por finalidade elaborar a fórmula que será utilizada
 no cadastro de um contrato. Para se criar a fórmula o usuário deverá entender de
 linguagem de programação pois serão usados Scripts RHINO.
 

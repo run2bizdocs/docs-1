@@ -20,7 +20,7 @@ conhecimentos contidos na base de conhecimento.
 !!! Abstract "ATENÇÃO"
 
     É exibido no relatório a quantidade de acessos ao conhecimento, essa
-    quantidade é contabilizada por usuário, sendo contada apenas 1 clique por
+    quantidade é contabilizada por usuário, sendo contado apenas 1 clique por
     hora.  
 
 Gerar relatório quantitativo de base de conhecimento

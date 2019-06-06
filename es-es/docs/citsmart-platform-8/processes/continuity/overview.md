@@ -36,17 +36,6 @@ servicio.
 Uso
 -------
 
-
-- [Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/use/register-threat.html)
-  
-- [Registrar categoria de amenaza](/es-es/citsmart-platform-8/processes/continuity/use/threat-category.html)
-
-- [Registrar o riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/register-continuity-risk.html)
-
-- [Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/use/risk-category.html)
-
-- [Registrar plantilla de continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-template.html)
-
 - [Registrar continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
   
 - [Definir política de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
@@ -82,13 +71,15 @@ Configuración
 
 - [Definir permiso de acceso para la gestión de continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
 
-- [Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+- [Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-- [Registrar cliente](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
+- [Registrar categoria de amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-- [Crear carpeta](/es-es/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+- [Registrar o riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
-- [Registrar cuestionario](/es-es/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+- [Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
+
+- [Registrar plantilla de continuidad](/pt-br/citsmart-platform-8/processes/continuity/configuration/continuity-template.html)
 
 !!! tip "About"
 

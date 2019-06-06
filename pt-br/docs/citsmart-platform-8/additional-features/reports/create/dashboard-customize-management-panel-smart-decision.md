@@ -15,7 +15,7 @@ Antes de começar
 --------------------
 
 Para a criação de atalhos (links) não é necessária nenhuma permissão especial,
-contudo a utilização de elementos do tipo widget e smart reports carece de
+contudo a utilização de elementos do tipo widget e smart reports requer
 permissões definidas por um administrador da ferramenta.
 
 Procedimento
@@ -25,13 +25,12 @@ Procedimento
 
 1.  Para visualizar os templates disponíveis clicar no ícone "Exibir/esconder menu";
 
-2.  Para adicionar um dashboard a um template, clicar no ícone "Adicionar novo dashboard" (lado esquerdo
-    da tela), preencher os campos disponibilizados, selecionar um template e
-    clicar em "Gravar";
+2.  Para adicionar um dashboard, clicar no botão "Habilitar modo edição" (lado direito
+    da tela), clicar no botão "Adicionar novo dashboard", preencher os campos disponibilizados, selecionar um template e clicar em           "Gravar".  
 
-3.  Para editar dashboard clicar no ícone "Editar dashobard";
+3.  Para editar dashboard, clicar no botão "Editar" do dashboard a ser alterado;
 
-4.  Para excluir um dashboard clicar no ícone "Excluir dashboard" .
+4.  Para excluir um dashboard clicar no ícone "Remover" .
 
 ***Inserir elementos manualmente***
 
@@ -59,10 +58,12 @@ Procedimento
 
         +   escolher o tipo de widget que ficará no painel gerencial.
 
-2.  Para salvar as alterações no painel gerencial com os widgets, clicar no
-    ícone "Salvar alterações" ;
+2. Para definir o modo de exibição dos elementos no dasboard, clicar em "Layout" e escolher uma opção;
 
-3.  Para desfazer alterações clicar no ícone "Desfazer alterações".
+3.  Para salvar as alterações no painel gerencial com os widgets, clicar no
+    ícone "Salvar" ;
+
+4.  Para desfazer alterações clicar no ícone "Cancelar".
 
 
 Relacionado

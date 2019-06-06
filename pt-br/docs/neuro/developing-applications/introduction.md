@@ -20,7 +20,7 @@ Figure 2 - Objeto de negócios
 ## Desenhar App
 
 
-Para um melhor desenvolvimento das aplicações Neuro, é necessário o **desenho anterior das necessidades, requisitos que a aplicação atenderá**, além de incluir o modelo de entidades dos dados que percorrerão a aplicação
+Para um melhor desenvolvimento das aplicações Neuro, é necessário o **desenho anterior das necessidades, requisitos que a aplicação atenderá**, além de incluir o modelo de entidades dos dados que percorrerão a aplicação.
 
 Uma pesquisa das **interfaces desejadas** e, se o Neuro for a opção de usar dados para serviços, o **desenho dos serviços** que serão automatizados.
 

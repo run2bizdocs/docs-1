@@ -5,8 +5,8 @@ Description:
 This functionality is intended to create rules to monitor several types of
 events.
 
-Each global event manager contains an EPL for Information, Warning, and/or
-Exception. EPL is an event correlation language used by Esper (Espertech). In
+Each global event manager contains an EPL for *Information*, *Warning*, and/or
+*Exception*. EPL is an event correlation language used by Esper (Espertech). In
 the initialization of CITSmart Event Monitor, these EPLs are imported into the
 Esper engine so that a new correlated event will be created each time the
 condition set in the EPL is satisfied. Example of an EPL that correlates between
@@ -36,21 +36,21 @@ Procedure
        - Enter the data of **Action to Information**:
 
          - Select the action that will be triggered when there is an event of type
-           information, the degree of urgency and impact. The rules for this action
+           *information*, the degree of urgency and impact. The rules for this action
            are defined using the Event Processing Language (EPL). Click
            the *Validate EPL Information* button to validate the informed EPL.
 
        - Enter the data of **Action to Warning**:
 
          - Select the action that will be triggered when there is an event of type
-           warning, the degree of urgency and impact. The rules for this action are
+           *warning*, the degree of urgency and impact. The rules for this action are
            defined using the Event Processing Language (EPL). Click on
            the *Validate EPL from Warning* button to validate the informed EPL.
 
        - Enter the data of **Action to Exception**:
 
          - Select the action that will be triggered when there is an event
-           occurrence of type exception, the degree of urgency and impact. The
+           occurrence of type *exception*, the degree of urgency and impact. The
            rules for this action are defined using the Event Processing Language
            (EPL). Click the *Validate EPL of Exception* button to validate the EPL
            entered.

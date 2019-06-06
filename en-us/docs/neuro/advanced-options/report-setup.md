@@ -4,15 +4,15 @@ Description:The information is automatically populated from the report file. The
 
 The information is automatically populated from the report file. The **name, description**, and grouper **folder** on the server can be edited.  
 
-##How to access 
+## How to access 
 
 Access the functionality through the menu Neuro > Management > Report. 
 
-##Preconditions 
+## Preconditions 
 
 The form must be previously registered in the Form.  
 
-##Filters 
+## Filters 
 
 1. The following filter enables the user to restrict the participation of items in the standard feature listing, making it easier to find the desired items:  
 
@@ -22,7 +22,7 @@ The form must be previously registered in the Form.
 
 Figure 1 - Report configuration search screen   
 
-##Items list 
+## Items list 
 
 1. The following cadastral fields are available to the user to facilitate the identification of the desired items in the standard feature listing: **Application, Resource, Name, Description** and **Version.**  
 
@@ -30,9 +30,9 @@ Figure 1 - Report configuration search screen
 
 Figure 2 - Report configuration lisitng screen  
 
-##Filling in the registration fields  
+## Filling in the registration fields  
 
-###Report data
+### Report data
 
 1. This information is automatically populated from the report file. The **name, description**, and **project** folder on the server can be edited, however the engine and version fields can not be changed.  
 
@@ -40,7 +40,7 @@ Figure 2 - Report configuration lisitng screen
 
 Figure 3 - Register/edit report configuration, Report tab  
 
-##Data source
+## Data source
 
 1. Refers to the data source of the report. Enter the **type** of the data source, which can be:  
 
@@ -54,7 +54,7 @@ Figure 3 - Register/edit report configuration, Report tab
 
 Figure 4 - Register/edit report configuration, Data source tab  
 
-##Parameters 
+## Parameters 
 
 1. This tab refers to the registration of fixed parameters for the report. You can enter an image as a parameter to define the report logo, for example.  
 
@@ -68,7 +68,7 @@ Figure 4 - Register/edit report configuration, Data source tab
 
 Figure 5 - Register/edit Report configuration, Parameters tab  
 
-##Form
+## Form
 
 This tab represents the form to be displayed when the user generates the report.  
 

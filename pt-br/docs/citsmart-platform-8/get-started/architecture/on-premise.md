@@ -2,4 +2,6 @@ Title: On-Premise
 
 # On-Premise
 
-Esse documento não existe, mas já está sendo criado. Se quiser contribuir com nossa documentação, acesse citsmartdocs no Git Hub.
+Este exemplo mostra uma configuração complexa com várias instâncias.
+
+![Cluster CITsmart](images/cluster-citsmart.png)

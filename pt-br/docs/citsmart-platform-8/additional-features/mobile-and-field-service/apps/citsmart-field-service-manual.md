@@ -2,7 +2,7 @@ title: Manual de utilização do aplicativo CITSmart GO
 Description: O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
 # Manual de utilização do aplicativo CITSmart GO
 
-O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
+O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos do técnico em campo no modo offline (onde o atendente não possui internet).
 
 Antes de começar 
 -----------------
@@ -38,7 +38,7 @@ Procedimento
     
     !!! Abstract "ATENÇÃO"
         
-        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão           ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart Experience.
+        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não                   poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart                     Experience.
 
     
     !!! Abstract "REGRA"

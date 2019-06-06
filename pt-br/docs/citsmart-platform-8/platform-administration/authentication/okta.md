@@ -2,7 +2,7 @@ title: Configurar o Okta no CITSmart
 Description: O Okta conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
 # Configurar o Okta no CITSmart
 
-O Okta é uma solução que conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
+Este método de autenticação permite que você utilize os recursos do Okta para autenticar usuários de sua organização em uma instância CITSmart. Este documento explica os passos da configuração deste método. Para saber mais sobre o Okta acesse [okta.com][1].
 
 Antes de começar
 --------------------
@@ -48,12 +48,10 @@ Procedimento
 
 6. Configurar o caminho da aplicação e depois clicar no botão Next
 
-      ![Configurar caminho](images/okta.img7.png)
+    ![Configurar caminho](images/okta.img7.png)
 
-      !!!Abstract "ATENÇÃO"
-    
-         No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser
-         incluído os endereços de URL no qual a Apilicação CITSmart será executada.  
+    !!!Abstract "ATENÇÃO"
+        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a Apilicação CITSmart será executada.
      
 7. Marcar as opções "I'm an Okta customer adding an internal app" e "This is an internal app that we have created". Logo em seguida, clicar no botão "Finish".
 
@@ -81,7 +79,7 @@ Procedimento
        
        b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
  
-   - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será exibido os metadados;
+   - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será disponibilizado uma nova aba os metadados, copiar a URL do browser e inserir na propriedade *SAML2_METADATA* ;
         
  ![Sign On](images/okta.img12.png)
 
@@ -127,7 +125,7 @@ Procedimento
 O que fazer a seguir
 ----------------------
 
-Concluído a integração do Okta com o CITSmart, notamos que alguns parâmetros do CITSmart podem ter vínculos com esta integração. São eles:
+Concluído a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração. São eles:
 
  - Como o okta não possui tela de logout, no parâmetro *377* do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
  
@@ -137,3 +135,5 @@ Concluído a integração do Okta com o CITSmart, notamos que alguns parâmetros
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>05/30/2019 – Larissa Lourenço
+
+[1]: https://www.okta.com/

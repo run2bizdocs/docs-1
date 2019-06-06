@@ -21,8 +21,6 @@ Use
 
 - [Display and search for the tags in the knowledge portal](/en-us/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
-- [Search knowledge through the user guide](/en-us/citsmart-platform-8/processes/knowledge/use/search-knowledge-by-user-guide.html)
-
 - [Review comments in Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
 
 Configuration
