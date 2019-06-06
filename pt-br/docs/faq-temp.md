@@ -3,7 +3,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 # Perguntas Frequentes - FAQ
 
-## Tema: Processos
+## Processos
 
 ### Gestão de Mudança
 
@@ -84,7 +84,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 - Por que o sistema exibe mensagem de data inválida ao auditar o ticket?
 
-## Tema: Administração da Plataforma
+## Administração da Plataforma
 
 - Como configurar a autenticação do Nagios via LDAP?
 
