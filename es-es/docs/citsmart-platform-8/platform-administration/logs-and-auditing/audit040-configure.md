@@ -1,24 +1,24 @@
-title: Configurar o Audit 0.4.0
-Description: O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
-# Configurar o Audit 0.4.0
+title: Configurar Audit 0.4.0
+Description: El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del CITSmart Workflow 8.
+# Configurar Audit 0.4.0
 
-O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
+El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del CITSmart Workflow 8.
 
-Antes de começar 
+Antes de empezar 
 -----------------
 
-Veja as principais novidades da versão 0.4.0
+Vea las principales novedades de la versión 0.4.0
 
- - Não é preciso ter um AcitiveMQ externo ativo;
+ - No es necesario tener un AcitiveMQ externo activo;
  
- - Não é preciso ter um serviço executando o .jar da auditoria;
+ - No es necesario tener un servicio ejecutando el .jar de la auditoría;
  
- - Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na pasta "\deployments";
+ - Audit ahora es un .war y se ejecuta dentro de Wildfly junto al ITSM en la carpeta "\deployments";
  
-Procedimento
+Procedimiento
 --------------
 
-1. Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq:
+1. Agregar las siguientes líneas al standalone del wildfly en el subsistema del activemq:
 
     ```java
     <jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
@@ -27,7 +27,7 @@ Procedimento
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```
 
-2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):  
+2. Agregar las siguientes líneas al standalone del wildfly en las system-properties (igual se utiliza en EVM e Inventory):  
 
     ```java
     <property name="mongodb.host" value="localhost"/>
@@ -37,19 +37,23 @@ Procedimento
     <property name="mongodb.dabase.audit" value="itsm-audit"/>
     ```
      
-    !!! Abstract "OBSERVAÇÃO"
-        Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
+    !!! Abstract "OBSERVACIÓN "
+    
+        Configurar la conexión del banco mongo con host, port, user, pass y database (Probablemente ya existente, EVM e Inventory 
+        utilizan estas configuraciones). Es necesario que el usuario (Mongo) insertado tenga los debidos permisos para lectura y 
+        escritura en el banco informado.  
  
-3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
+3. En CITSmart, configure el parámetro 425 que indica la dirección URL del Audit (Ej.: http://localhost:8080/itsm-audit);
 
-4. Adicionar o WAR  do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
+4. Agregar el WAR del Audit en la carpeta de implementación (o a través de la consola del Wildfly) y empezar el Wildfly junto con 
+CITSmart;
 
-5. Após esses passos e configurações, a auditoria já deve estar em execução
+5. Después de estos pasos y configuraciones, la auditoría ya debe estar en ejecución.
 
 Relacionado
 -------------
 
-[Realizar auditoria no sistema](/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[Realizar auditoría en el sistema](/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
 
 !!! tip "About"
 
