@@ -2,29 +2,29 @@ Title: Usando Markdown
 
 # Usando Markdown
 
-A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. O Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação a documentos de texto em texto simples. Criado por John Gruber em 2004, o Markdown é agora uma das linguagens de marcação mais populares do mundo.
+La documentación de nuestros productos se produce utilizando el patrón de lenguaje Markdown. Markdown es un lenguaje de marcado ligero que puede utilizar para agregar elementos de formato a documentos de texto en texto simple. Creada por John Gruber en 2004, Markdown es ahora uno de los lenguajes de marcado más populares del mundo.
 
-Veja abaixo algumas opções de sintax que podem ser utilizadas na criação de documentos.
+A continuación se incluyen algunas opciones de sintaxis que se pueden utilizar para crear documentos.
 
-## Sintaxe Básica
+## Sintaxis Básica
 
-Esses são os elementos descritos no documento de design original de John Gruber. Todos os aplicativos do Markdown suportam esses elementos.
+Estos son los elementos descritos en el documento de diseño original de John Gruber. Todas las aplicaciones de Markdown soportan estos elementos.
 
-| Elemento | Sintaxe Markdown |
+| Elemento | Sintaxis Markdown |
 |---------|-----------------|
 | Título | `# H1` <br/> `## H2` <br/> `### H3` |
-| Negrito | `**texto em negrito**`|
-|Itálico	| `*texto em itálico*` |
-|Bloco de citação	| `> bloco de citação` |
-|Lista não ordenada |	`1. Primeiro elemento` <br/> `2. Segundo elemento` <br/> `3. Terceiro elemento` |
-|Unordered List	| `- Primeiro elemento` <br/> `- Segundo elemento` <br/> `- Terceiro elemento` |
+| Negrita | `**texto en negrita**`|
+|Cursiva	| `*texto en cursiva*` |
+|Bloque de citas	| `> bloque de citas` |
+|Lista no ordenada |	`1. Primero elemento` <br/> `2. Segundo elemento` <br/> `3. Tercero elemento` |
+|Lista no ordenada	| `- Primero elemento` <br/> `- Segundo elemento` <br/> `- Tercero elemento` |
 | Código | `código` |
-| Regra horizontal | ``---`` |
+| Regla horizontal | ``---`` |
 | Link | `[título](https://www.exemplo.com)`|
-| Imagem | `![alt text](image.jpg)` |
+| Imagen | `![alt text](image.jpg)` |
 
 
-### Cabeçalhos
+### Encabezamiento
 
 Estruture seus comentários usando cabeçalhos. Os cabeçalhos segmentam comentários mais longos, facilitando a leitura.
 
