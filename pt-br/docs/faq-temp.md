@@ -45,6 +45,12 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 - É possível versionar um conhecimento na gestão do conhecimento?
 
+### Gestão de Problema
+
+-É possível anexar documentos a incidentes, requisições, problemas e mudanças?
+
+- Como habilitar a regra de escalonamento do módulo de problemas?
+
 ### Gestão de Mudança
 
 - É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?
@@ -75,13 +81,6 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 ### Gestão de Eventos
 
 - Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?
-
-
-### Gestão de Problema
-
--É possível anexar documentos a incidentes, requisições, problemas e mudanças?
-
-- Como habilitar a regra de escalonamento do módulo de problemas?
 
 
 ## Administração da Plataforma
