@@ -1,24 +1,24 @@
-title: Configurar o Audit 0.4.0
-Description: O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
-# Configurar o Audit 0.4.0
+title: Configure Audit 0.4.0
+Description: The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of CITSmart Workflow 8.
+# Configure Audit 0.4.0
 
-O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
+The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of CITSmart Workflow 8.
 
-Antes de começar 
+Before getting started 
 -----------------
 
-Veja as principais novidades da versão 0.4.0
+See the main news of version 0.4.0
 
- - Não é preciso ter um AcitiveMQ externo ativo;
+ - It is not necessary to have an external active AcitiveMQ;
  
- - Não é preciso ter um serviço executando o .jar da auditoria;
+ - It is not necessary to have a service running the audit .jar;
  
- - Audit agora é um .war e é executado dentro do Wildfly junto ao ITSM na pasta "\deployments";
+ - Audit is now a .war and runs inside Wildfly next to ITSM in the "\deployments" folder;
  
-Procedimento
+Procedure
 --------------
 
-1. Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq:
+1. Add the following lines to the wildfly standalone in the activemq subsystem:
 
     ```java
     <jms-queue name="ITSM.READ_DATA_AUDIT" entries="queue/ITSM.READ_DATA_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_DATA_AUDIT"/>
@@ -27,7 +27,7 @@ Procedimento
     <jms-queue name="ITSM.READ_BACKUP_AUDIT" entries="queue/ITSM.READ_BACKUP_AUDIT java:jboss/exported/jms/queue/queue/ITSM.READ_BACKUP_AUDIT"/>
     ```
 
-2. Adicionar as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory):  
+2. Add the following lines to the wildfly standalone in system-properties (as it is used in EVM and Inventory):  
 
     ```java
     <property name="mongodb.host" value="localhost"/>
@@ -37,19 +37,22 @@ Procedimento
     <property name="mongodb.dabase.audit" value="itsm-audit"/>
     ```
      
-    !!! Abstract "OBSERVAÇÃO"
-        Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
+    !!! Abstract "NOTE"
+        
+        Configure the mongo base connection with host, port, user, pass, and database (Probably already existed, EVM and Inventory use 
+        these settings). It is necessary that the user (Mongo) inserted has the necessary permissions to read and write in the informed 
+        base.  
  
-3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
+3. In CITSmart, configure parameter 425 by entering the Audit URL (E.g.: http://localhost:8080/itsm-audit);
 
-4. Adicionar o WAR  do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
+4. Add Audit WAR to the deployments folder (or via Wildfly Console) and start the Wildfly along with CITSmart;
 
-5. Após esses passos e configurações, a auditoria já deve estar em execução
+5. After these steps and settings, the audit should already be running.
 
-Relacionado
+Related
 -------------
 
-[Realizar auditoria no sistema](/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[Audit system](/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
 
 !!! tip "About"
 
