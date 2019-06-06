@@ -579,10 +579,14 @@ Title: Perguntas Frequentes - FAQ
     Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino Conforme o Banco
 
     **Scripts disponíveis para:**
-    - Oracle SQL
-    - Postgre SQL
-    - SQL Server
-    [Baixar Scripts](/images/scripts-tabla-fato.zip)
+    
+        - Oracle SQL
+    
+        - Postgre SQL
+        
+	- SQL Server
+	
+    [Baixar Scripts](/pt-br/images/scripts-tabla-fato.zip)
 
 !!! Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     
