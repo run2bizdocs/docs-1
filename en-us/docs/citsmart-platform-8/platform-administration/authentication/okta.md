@@ -130,7 +130,7 @@ Once the Okta integration with CITSmart is complete, some CITSmart parameters ca
 
  - Since Okta has no logout screen, in the 377 parameter of CITSmart we can enter some page address to redirect the user to the end of the session;
  
- - The parameter 445 (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter *39*.
+ - The parameter 445 (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter 39.
  
 !!! tip "About"
 
