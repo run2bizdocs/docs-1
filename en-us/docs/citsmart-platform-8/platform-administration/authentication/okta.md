@@ -51,13 +51,14 @@ Procedure
     ![Configure path](images/okta.img7.png)
 
     !!!Abstract "ATTENTION"
-        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a Apilicação CITSmart será executada.
+    
+        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a             Apilicação CITSmart será executada.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
       ![Select the options](images/okta.img8.png)
 
-*3rd Step: *3rd Step: Atribuir usuários a aplicação CITSmart do Okta:*
+*3rd Step:: Atribuir usuários a aplicação CITSmart do Okta:*
 
 1. After completing the previous step, you need to click on the "Applications > Applications" tab and then on "Assign Applications" and choose the filter called "People";
 
@@ -103,19 +104,19 @@ Procedure
 
       ![Fields Okta Confg](images/okta.img15.png)
 
-   - **Description:** introduce a definition of this new setting Okta;
+   - **Description**: introduce a definition of this new setting Okta;
      
-   - **Alias:** include the user domain that will be saved to the database. Example: okta\administrador@citsmart.com;
+   - **Alias**: include the user domain that will be saved to the database. Example: okta\administrador@citsmart.com;
      
-   - **URL domain:** should include the same value (URL) that was entered in the line *OKTA_URL* in the "citsmart.cfg" file; 
+   - **URL domain**: should include the same value (URL) that was entered in the line *OKTA_URL* in the "citsmart.cfg" file; 
      
-   - **Token API:** include the same value of the token inserted in the line *OKTA_TOKEN* in the file "citsmart.cfg";
+   - **Token API**: include the same value of the token inserted in the line *OKTA_TOKEN* in the file "citsmart.cfg";
      
-   - **Group:** insert the ID of the group in which the synchronized and registered user will belong in CITSmart;
+   - **Group**: insert the ID of the group in which the synchronized and registered user will belong in CITSmart;
      
-   - **Access Profile:** insert the profile ID in which the synchronized and registered user will belong in CITSmart;
+   - **Access Profile**: insert the profile ID in which the synchronized and registered user will belong in CITSmart;
      
-   - **Application ID:** include the application ID. This information can be retrieved from the Okta URL, as shown below:
+   - **Application ID**: include the application ID. This information can be retrieved from the Okta URL, as shown below:
      
       ![URL ID](images/okta.img16.png)
 
@@ -127,9 +128,9 @@ What to do next
 
 Once the Okta integration with CITSmart is complete, some CITSmart parameters can be configured to better customize this integration. They are:
 
- - Since Okta has no logout screen, in the * 377 * parameter of CITSmart we can enter some page address to redirect the user to the end of the session;
+ - Since Okta has no logout screen, in the 377 parameter of CITSmart we can enter some page address to redirect the user to the end of the session;
  
- - The parameter *445* (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter *39*.
+ - The parameter 445 (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter *39*.
  
 !!! tip "About"
 
