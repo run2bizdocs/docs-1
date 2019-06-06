@@ -9,7 +9,7 @@ através da aplicação CITSmart Inventory.
 Antes de começar
 --------------------
 
-Para visualizar o status de invetário de ICs é necessário ter definido um processo de inventário utilizando a funcionalidade CITSmart Inventory.
+Para visualizar o status de inventário de ICs é necessário ter definido um processo de inventário utilizando a funcionalidade CITSmart Inventory.
 
 Procedimento
 ----------------
