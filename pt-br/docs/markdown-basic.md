@@ -1,27 +1,27 @@
-Title: Using Markdown
+Title: Usando Markdown
 
-# Using Markdown
+# Usando Markdown
 
-A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. O Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação a documentos de texto em texto simples. Criado por John Gruber em 2004, o Markdown é agora uma das linguagens de marcação mais populares do mundo.
 
 Veja abaixo algumas opções de sintax que podem ser utilizadas na criação de documentos.
 
-## Basic Syntax
+## Sintaxe Básica
 
-These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
+Esses são os elementos descritos no documento de design original de John Gruber. Todos os aplicativos do Markdown suportam esses elementos.
 
-| Elemento | Markdown Syntax |
+| Elemento | Sintaxe Markdown |
 |---------|-----------------|
-| Heading | `# H1` <br/> `## H2` <br/> `### H3` |
-| Bold | `**bold text**`|
-|Italic	| `*italicized text*` |
-|Blockquote	| `> blockquote` |
-|Ordered List |	`1. First item` <br/> `2. Second item` <br/> `3. Third item` |
-|Unordered List	| `- First item` <br/> `- Second item` <br/> `- Third item` |
-| Code | `code` |
-| Horizontal Rule | ``---`` |
-| Link | `[title](https://www.example.com)`|
-| Image | `![alt text](image.jpg)` |
+| Título | `# H1` <br/> `## H2` <br/> `### H3` |
+| Negrito | `**texto em negrito**`|
+|Itálico	| `*texto em itálico*` |
+|Bloco de citação	| `> bloco de citação` |
+|Lista não ordenada |	`1. Primeiro elemento` <br/> `2. Segundo elemento` <br/> `3. Terceiro elemento` |
+|Unordered List	| `- Primeiro elemento` <br/> `- Segundo elemento` <br/> `- Terceiro elemento` |
+| Código | `código` |
+| Regra horizontal | ``---`` |
+| Link | `[título](https://www.exemplo.com)`|
+| Imagem | `![alt text](image.jpg)` |
 
 
 ### Cabeçalhos
@@ -30,12 +30,12 @@ Estruture seus comentários usando cabeçalhos. Os cabeçalhos segmentam coment�
 
 Comece uma linha com um caractere hash # para definir um cabeçalho. Organize seus comentários com subtítulos, iniciando uma linha com caracteres hash adicionais, por exemplo, ####. Até seis níveis de títulos são suportados.
 
-Examplo:
+Exemplo:
 
 ```html
-# This is a H1 header
-## This is a H2 header
-### This is a H3 header
+# Esse é um título H1
+## Esse é um título H2
+### Esse é um título H3
 ```
 
 ### Negrito/Itálico
@@ -43,42 +43,42 @@ Examplo:
 Exemplo:
 
 ```html
-*italic*
-**bold**
-***bold-italic***^
+*itálico*
+**negrito**
+***negrito-itálico***^
 ```
 
 Resultado:
 
-*italic*
-**bold**
-***bold-italic***^
+*itálico*
+**negrito**
+***negrito-itálico***^
 
 ### Citação
 
 ### Lista ordenada
 
-1. Tidy the kitchen
-2. Prepare ingredients
-3. Cook delicious things
+1. Arrumar a cozinha
+2. Preparar ingredientes
+3. Cozinhar coisas deliciosas
 
 ### Lista não ordenada
 
-Exemple:
+Exemplo:
 
 ```html
-* Milk
-* Bread
-    * Wholegrain
-* Butter
+* Leite
+* Pão
+    * Grãos integrais
+* Manteiga
 ```
 
 Resultado:
 
-* Milk
-* Bread
-    * Wholegrain
-* Butter
+* Leite
+* Pão
+    * Grãos integrais
+* Manteiga
 
 ### Código
 
@@ -89,7 +89,7 @@ Resultado:
 ### Imagem
 
 
-## Extended Syntax
+## Sintaxe estendida
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+Esses elementos estendem a sintaxe básica adicionando recursos adicionais. Nem todos os aplicativos Markdown suportam esses elementos.
 
