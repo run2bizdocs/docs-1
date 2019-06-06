@@ -5,6 +5,46 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 ## Processos
 
+### Gestão de Tickets
+
+- É possível anexar documentos a incidentes, requisições, problemas e mudanças?
+
+- É possível categorizar a Requisição/Incidente (Ticket)?
+
+- Como acessar a solicitação de serviço a partir da notificação de e-mail?
+
+- Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?
+
+- Como configurar as notificações de e-mail de solicitação de serviços?
+
+- Como habilitar a regra de escalonamento das solicitações de serviço?
+
+- Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?
+
+- Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?
+
+- Por que o sistema exibe mensagem de data inválida ao auditar o ticket?
+
+### Gestão de Porfólio e Catálogo
+
+- Como faço o desenho de ativos que compõem o meu serviço?
+
+- Como vincular colaboradores (usuários) a um grupo?
+
+- Como relacionar grupo ao contrato?
+
+- Como relacionar unidade ao contrato?
+
+### Gestão de Conhecimento
+
+- Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?
+
+- Como configurar o recurso SOLR?
+
+- Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?
+
+- É possível versionar um conhecimento na gestão do conhecimento?
+
 ### Gestão de Mudança
 
 - É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?
@@ -36,26 +76,6 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 - Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?
 
-### Gestão de Conhecimento
-
-- Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?
-
-- Como configurar o recurso SOLR?
-
-- Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?
-
-- É possível versionar um conhecimento na gestão do conhecimento?
-
-### Gestão de Porfólio e Catálogo
-
-- Como faço o desenho de ativos que compõem o meu serviço?
-
-- Como vincular colaboradores (usuários) a um grupo?
-
-- Como relacionar grupo ao contrato?
-
-- Como relacionar unidade ao contrato?
-
 
 ### Gestão de Problema
 
@@ -63,26 +83,6 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 - Como habilitar a regra de escalonamento do módulo de problemas?
 
-
-### Gestão de Tickets
-
-- É possível anexar documentos a incidentes, requisições, problemas e mudanças?
-
-- É possível categorizar a Requisição/Incidente (Ticket)?
-
-- Como acessar a solicitação de serviço a partir da notificação de e-mail?
-
-- Como definir um grupo padrão para o atendimento de primeiro nível da solicitação de serviço?
-
-- Como configurar as notificações de e-mail de solicitação de serviços?
-
-- Como habilitar a regra de escalonamento das solicitações de serviço?
-
-- Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?
-
-- Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?
-
-- Por que o sistema exibe mensagem de data inválida ao auditar o ticket?
 
 ## Administração da Plataforma
 
