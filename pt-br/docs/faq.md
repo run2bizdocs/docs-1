@@ -580,11 +580,11 @@ Title: Perguntas Frequentes - FAQ
 
     **Scripts disponíveis para:**
     
-        - Oracle SQL
+    - Oracle SQL
     
-        - Postgre SQL
+    - Postgre SQL
         
-	- SQL Server
+    - SQL Server
 	
     [Baixar Scripts](/pt-br/images/scripts-tabla-fato.zip)
 
