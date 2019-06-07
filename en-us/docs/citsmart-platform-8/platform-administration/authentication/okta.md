@@ -52,13 +52,13 @@ Procedure
 
     !!!Abstract "ATTENTION"
     
-        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a             Apilicação CITSmart será executada.
+       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
       ![Select the options](images/okta.img8.png)
 
-*3rd Step:: Atribuir usuários a aplicação CITSmart do Okta:*
+*3rd Step:: Assign users to Okta's CITSmart application:*
 
 1. After completing the previous step, you need to click on the "Applications > Applications" tab and then on "Assign Applications" and choose the filter called "People";
 
