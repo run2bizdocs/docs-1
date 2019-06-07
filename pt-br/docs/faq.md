@@ -254,24 +254,33 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     2. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     3. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "194 - Habilita o escalonamento de problema definido nas regras de escalonamento? (Ex: S ou N - Default 'N')" e selecione o mesmo;
     4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar escalonamento de problemas;
-    5. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    5. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 ### Gestão de Mudança
 
 !!! Question "É possível avaliar o impacto das mudanças para poder aprovar o registro de mudança?"
 
-    O processo de riscos na mudança começa no desenho do portfólo de mudança aonde é indocado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificada ou completa.. o próximo passo é, no cadastro da mudança informar os dados do(s) riscos na carra lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
-    "**Simplificada**"  para uma  análise Simplificada e no item.  
-    "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
+    O processo de riscos na mudança começa no desenho do portfólo de mudança onde é indicado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificado ou completo. O próximo passo é, no cadastro da mudança informar os dados do(s) riscos na aba lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
+    
+    * "**Simplificada**"  para uma  análise Simplificada e no item;  
+    
+    * "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
 
 !!! Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
     
-    Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
-    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).
+    Tanto uma Requisição quanto um Incidente podem ter  documentos anexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etapa definidas na resolução do problema ou mudança.
+    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parâmetro de sistema 278 (o default é 1GB).
 
 !!! Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
     
-    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.Para isso: 1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir"; 3. Na interface de gerência, clicar no item "ICs relacionados"; 4. No item ações, clicar no ícone "Alterar"; 5. Alterar o IC com as novas informações; 6. Clicar em "Gravar".
+    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança. Para isso:
+    
+    1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 
+    2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir"; 
+    3. Na interface de gerência, clicar no item "ICs relacionados"; 
+    4. No item ações, clicar no ícone "Alterar"; 
+    5. Alterar o IC com as novas informações; 
+    6. Clicar em "Gravar".
 
 !!! Question "Como definir a obrigatoriedade do vínculo da mudança com IC?"
     
@@ -305,7 +314,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
     
-    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança.Para isso: 1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir"; 3. Na interface de gerência, clicar no item "ICs relacionados"; 4. No item ações, clicar no ícone "Alterar"; 5. Alterar o IC com as novas informações; 6. Clicar em "Gravar".
+    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança. Para isso: 
+    1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 
+    2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir"; 
+    3. Na interface de gerência, clicar no item "ICs relacionados"; 
+    4. No item ações, clicar no ícone "Alterar"; 
+    5. Alterar o IC com as novas informações; 
+    6. Clicar em "Gravar".
 
 !!! Question "Como configurar o nome das fases do ciclo de vida dos ICs (itens de configuração)?"
     
@@ -313,30 +328,30 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
   
     CONFIGURAÇÃO A PARTIR DA TELA DE CONFIGURAÇÃO DO GCAS
     
-    1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL → Gerência de Configuração → Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
+    1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
     2. Informe os valores dos parâmetros (atributos):
     Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
     Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
     Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
-    3. Clique no botão Gravar para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
+    3. Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
     4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
 	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO CITSMART
     
-    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização → Parâmetros Citsmart.
-    2. Após isso, será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Será apresenta a tela para pesquisa de parâmetros;
+    1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal Parametrização > Parâmetros Citsmart.
+    2. Após isso, será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Será apresentada a tela para pesquisa de parâmetros;
     3. Realize a pesquisa do parâmetro "92 - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)"
     4. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
     5. No campo valor, informe o nome do grupo de ICs da fase de desenvolvimento;
-    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    6. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     7. Realize a pesquisa do parâmetro "93 - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)";
     8. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
-    9. No campo valor, informe o nome do grupo de ICs da fase de produção
-    10. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
-    11. Realize a pesquisa do parâmetro "94 - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação)"
-    12. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado
-    13. No campo valor, informe o nome do grupo de ICs da fase de homologação
-    14. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    9. No campo valor, informe o nome do grupo de ICs da fase de produção;
+    10. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    11. Realize a pesquisa do parâmetro "94 - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação)".
+    12. Selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado.
+    13. No campo valor, informe o nome do grupo de ICs da fase de homologação.
+    14. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 !!! Question "Como definir a obrigatoriedade do vínculo da mudança com IC?"
     
@@ -347,7 +362,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     3. Será apresenta a tela para pesquisa de parâmetros. Realize a pesquisa do parâmetro "85 - Verificação de vínculo de mudança relacionada ao Item de configuração (Default: S)";
     4. Selecione o mesmo;
     5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S";
-    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    6. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     7. Após configuração do parâmetro, quando for registrar um Item de Configuração, será obrigatório o vínculo da mudança.
 
 !!! Question "Para qual destinatário será feito envio de notificações de ICs?"
@@ -362,7 +377,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     4. Realize a pesquisa do parâmetro "90 - Envio de e-mails de Notificação de ICs (1-Grupo, 2-Proprietário, 3-Todos)";
     5. Selecione o mesmo;
     6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação do destinatário (1 - Grupo, 2 - Proprietário ou 3 - Todos);
-    7. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    7. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     8. Após configuração do parâmetro, será realizado o envio de e-mails de notificações de ICs para o destinatário (grupo, proprietário ou todos), conforme especificado no valor do parâmetro.
 
 !!! Question "Quais o significado de cada status do inventário de ICs?"
@@ -379,7 +394,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
     
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
-    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) segam um padrão pré-estabelecido.
+    É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) seguem um padrão pré-estabelecido.
     
     Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
     
@@ -428,7 +443,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
     1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática:
     Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
-    Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: OTIMO, BOM, REGULAR E RUIM;
+    Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: ÓTIMO, BOM, REGULAR E RUIM;
     Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
     2. Acesse a funcionalidade de Processamento Batch (Sistema > Processamento Batch).
     3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
@@ -437,7 +452,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Tipo: selecionar o tipo “Classe Java”;
     Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
     Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
-    4. Clique no botão Gravar para efetuar o registro.
+    4. Clique no botão "Gravar" para efetuar o registro.
     
 	REGRA: a partir do momento da gravação, no horário e dia agendado, as solicitações não respondidas (com prazo superior ao definido no parâmetro 139) serão automaticamente respondidas (com o valor definido no parâmetro 152), caso o parâmetro 151 esteja com valor ‘S’.
 
@@ -452,13 +467,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     4. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "23 - SMTP LEITURA - Servidor de entrada de e-mails do Service Desk" e selecione o mesmo;
     5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o servidor de entrada de e-mail (ex.: orion.egrupo.com.br);
-    6. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    6. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     7. Realize a pesquisa do parâmetro "24 - SMTP LEITURA - Caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
     8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o e-mail ou login da conta de e-mail (ex.: suporte.citsmart);
-    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    9. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     10. Realize a pesquisa do parâmetro "25 - SMTP LEITURA - Senha da Caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
     11. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, a senha da conta de e-mail;
-    12. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    12. Clique no botão "Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     13. Realize a pesquisa do parâmetro "26 - SMTP LEITURA - Provider do servidor de e-mails do Service Desk (imaps, pops, imap, pop, etc)" e selecione o mesmo;
     14. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o protocolo que será utilizado para leitura de e-mails (ex.: imap ou pop) e clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     15. Realize a pesquisa do parâmetro "27 - SMTP LEITURA - Porta do servidor de e-mails do Service Desk" e selecione o mesmo;
