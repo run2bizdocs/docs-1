@@ -9,12 +9,12 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
 
-    Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
-    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).
+    Tanto uma Requisição quanto um Incidente podem ter  documentos anexos na sua abertura e atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etapas definidas na resolução do problema ou mudança.
+    Os documentos podem ser de qualquer tipo (extensão) e seu tamanho máximo pode ser definido pelo administrador no parâmetro de sistema 278 (o default é 1GB).
     
 !!! Question "É possível categorizar a Requisição/Incidente (Ticket)?"
     
-    Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço]https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
+    Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço] https://docs.citsmart.com/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
 !!! Question "Como acessar a solicitação de serviço a partir da notificação de e-mail?"
     
@@ -31,7 +31,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão > Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
     2. Realize o cadastro do grupo de 1º nível, caso não esteja cadastrado, e proceda com o preenchimento dos campos;
     3. Caso o grupo de 1º nível já esteja cadastrado no sistema, realize a pesquisa do grupo e obtenha o seu número de identificação (ID);
-    4. Após obter o ID do grupo de 1º nível, acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal. Parametrização → Parâmetros Citsmart;
+    4. Após obter o ID do grupo de 1º nível, acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal. Parametrização > Parâmetros Citsmart;
     5. Será apresentada a tela Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     6. Realize a pesquisa do parâmetro "9 - ID Grupo Nível 1";
     7. Selecione o mesmo;
@@ -42,7 +42,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Como configurar as notificações de e-mail de solicitação de serviços?"
     
-    Ao registrar uma solicitação de serviço, realizar demais ações e encerrar a mesma, o solicitante será notificado..
+    Ao registrar uma solicitação de serviço, realizar demais ações e encerrar a mesma, o solicitante será notificado.
     
      Para que essa notificação seja enviada é necessário realizar os seguintes
     procedimentos:
@@ -96,7 +96,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
     1. No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema → Parâmetros Citsmart;
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
     3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     4. Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
     5. Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
@@ -109,7 +109,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     - 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
     - 33: URL de acesso ao sistema.
     
-	8. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 !!! Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     
@@ -125,8 +125,10 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
     2. Quando o recurso denominado Sequence Block é impactado por um fator externo, isso ocorre se:
-    - Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
-    - O ambiente é clusterizado.
+    
+      * Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
+    
+      * O ambiente é clusterizado.
 
 !!! Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
     
@@ -155,7 +157,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     2. Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo. Feito isso, será exibida a tela de registro do determinado grupo;
     3. Clique no ícone de adicionar do campo Colaboradores, será exibida a tela para pesquisa de colaboradores;
     4. Realize a pesquisa do colaborador que deseja vincular ao grupo e selecione o mesmo. Após isso, o colaborador será vinculado ao grupo;
-    5. Após o vínculo, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    5. Após o vínculo, clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
     A PARTIR DO CADASTRO DE USUÁRIO
     
@@ -193,7 +195,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Como são ranqueados os documentos no momento da pesquisa do Solr na base de conhecimento?"
     
-    Assim, o documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
+    O documento que possuir a maior pontuação, é apresentado em primeiro lugar e os demais, com menor pontuação, em sequência.
 
     Para calcular a pontuação dos documentos o Solr utiliza um algoritmo padrão, onde é verificado a frequência do termo (term frequency) pesquisado. Mas, é possível alterar a pontuação com a utilização dos impulsionadores (boosts).
     
@@ -214,13 +216,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     CONFIGURAÇÃO DO PARÂMETRO
     
-    1. Para configurar o parâmetro vá na tela Parametrização → Gerência de Conhecimento;
+    1. Para configurar o parâmetro ir na tela Parametrização > Gerência de Conhecimento;
     2. Procure pelo parâmetro “URL do servidor do SOLR (Ex:http://localhost:8983/solr/collection_name)”
     3. Após informe a URL do servidor Solr, um exemplo de URL seria a seguinte: http://localhost:8983/solr/base_conhecimento
 
     INDEXAÇÃO DOS CONHECIMENTOS EXISTENTES
 	
-    1. Para indexar os conhecimentos vá em Sistema > Configurações > Gerência de Conhecimento (Indexação);
+    1. Para indexar os conhecimentos ir em Sistema > Configurações > Gerência de Conhecimento (Indexação);
     2. Caso tenha conhecimentos indexados clique em “Remover indexação base de conhecimento”;
     3. Logo após clique em “Indexar base de conhecimento”;
     4. Caso ocorra algum erro clique em “Atualizar o servidor de indexação”;
@@ -241,8 +243,8 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
     
-    Tanto uma Requisição quanto um Incidente podem ter documentos anexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
-    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).
+    Tanto uma Requisição quanto um Incidente podem ter documentos anexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na resolução do problema ou mudança.
+    Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parâmetro de sistema 278 (o default é 1GB).
 
 !!! Question "Como habilitar a regra de escalonamento do módulo de problemas?"
     
