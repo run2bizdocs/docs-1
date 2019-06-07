@@ -26,70 +26,70 @@ Estos son los elementos descritos en el documento de diseño original de John Gr
 
 ### Encabezamiento
 
-Estruture seus comentários usando cabeçalhos. Os cabeçalhos segmentam comentários mais longos, facilitando a leitura.
+Estructurar sus comentarios usando encabezamiento. Los encabezados segmentan comentarios más largos, facilitando la lectura.
 
-Comece uma linha com um caractere hash # para definir um cabeçalho. Organize seus comentários com subtítulos, iniciando uma linha com caracteres hash adicionais, por exemplo, ####. Até seis níveis de títulos são suportados.
+Comience una línea con un carácter hash # para definir un encabezado. Organizar sus comentarios con subtítulos, iniciando una línea con caracteres hash adicionales, por ejemplo, ####. Se admiten hasta seis niveles de títulos.
 
-Exemplo:
+Ejemplo:
 
 ```html
-# Esse é um título H1
-## Esse é um título H2
-### Esse é um título H3
+# Este es un título H1
+## Este es un título H2
+### Este es un título H3
 ```
 
-### Negrito/Itálico
+### Negrita/Cursiva
 
-Exemplo:
+Ejemplo:
 
 ```html
-*itálico*
-**negrito**
-***negrito-itálico***^
+*cursiva*
+**negrita**
+***negrita-cursiva***^
 ```
 
 Resultado:
 
-*itálico*
-**negrito**
-***negrito-itálico***^
+*cursiva*
+**negrita**
+***negrita-cursiva***^
 
-### Citação
+### Cita
 
 ### Lista ordenada
 
-1. Arrumar a cozinha
+1. Preparar la cocina
 2. Preparar ingredientes
-3. Cozinhar coisas deliciosas
+3. Cocinar cosas deliciosas
 
-### Lista não ordenada
+### Lista no ordenada
 
-Exemplo:
+Ejemplo:
 
 ```html
-* Leite
-* Pão
-    * Grãos integrais
-* Manteiga
+* Leche
+* Pan
+    * Granos integrales
+* Mantequilla
 ```
 
 Resultado:
 
-* Leite
-* Pão
-    * Grãos integrais
-* Manteiga
+* Leche
+* Pano
+    * Granos integrales
+* Mantequilla
 
 ### Código
 
-### Linha Horizontal
+### Línea Horizontal
 
 ### Link
 
-### Imagem
+### Imagen
 
 
-## Sintaxe estendida
+## Sintaxis extendida
 
-Esses elementos estendem a sintaxe básica adicionando recursos adicionais. Nem todos os aplicativos Markdown suportam esses elementos.
+Estos elementos extienden la sintaxis básica agregando recursos adicionales. Ni todas las aplicaciones de Markdown admiten estos elementos.
 
