@@ -463,7 +463,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Para que essa rotina de leitura de e-mails funcione perfeitamente, é necessário realizar os seguintes procedimentos:
     
     1. Instalar a versão do java 7, caso tenha versão inferior a rotina não funcionará;
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização→ Parâmetros Citsmart;
+    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
     3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
     4. Será apresenta a tela para pesquisa de parâmetros, realize a pesquisa do parâmetro "23 - SMTP LEITURA - Servidor de entrada de e-mails do Service Desk" e selecione o mesmo;
     5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o servidor de entrada de e-mail (ex.: orion.egrupo.com.br);
@@ -475,16 +475,16 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     11. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, a senha da conta de e-mail;
     12. Clique no botão "Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     13. Realize a pesquisa do parâmetro "26 - SMTP LEITURA - Provider do servidor de e-mails do Service Desk (imaps, pops, imap, pop, etc)" e selecione o mesmo;
-    14. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o protocolo que será utilizado para leitura de e-mails (ex.: imap ou pop) e clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    14. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o protocolo que será utilizado para leitura de e-mails (ex.: imap ou pop) e clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     15. Realize a pesquisa do parâmetro "27 - SMTP LEITURA - Porta do servidor de e-mails do Service Desk" e selecione o mesmo;
     16. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe a porta que será utilizada para acessar o servidor de e-mails (587 para servidor pop ou 995 para servidor imap);
-    17. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    17. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     18. Realize a pesquisa do parâmetro "28 - SMTP LEITURA - Pasta da caixa de entrada de e-mails do Service Desk" e selecione o mesmo;
     19. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe a pasta da caixa de entrada da conta de e-mail;
-    20. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
-    21. Realize a pesquisa do parâmetro "200 - Habilitar rotina para leitura de e-mails novos automaticamente ?(ex: S ou N - Default 'N')" e selecione o mesmo;
+    20. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    21. Realize a pesquisa do parâmetro "200 - Habilitar rotina para leitura de e-mails novos automaticamente? (ex: S ou N - Default 'N')" e selecione o mesmo;
     22. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para ativar a rotina de leitura de e-mail automaticamente;
-    23. CClique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    23. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 !!! Question "Como habilitar o Portal de Serviços (Smart Portal)?"
     
@@ -492,7 +492,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do Citsmart?" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
-    3. No campo valor, informe o valor "S" para habilitar o portal como tela inicial. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
+    3. No campo valor, informe o valor "S" para habilitar o portal como tela inicial. Feito isso, clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
 
 !!! Question "Como habilitar a pesquisa de satisfação?"
@@ -507,7 +507,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     4. Realize a pesquisa do parâmetro "31 - Envia e-mail na execução dos fluxos de solicitações/incidentes";
     5. Selecione o mesmo;
     6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para que seja habilitado o envio de e-mail referente as solicitações de serviço;
-    7. Clique no botão Gravar para efetuar a operação;
+    7. Clique no botão "Gravar" para efetuar a operação;
     8. Acesse os serviços de requisição, incidente e procedimento do contrato referente ao serviço de negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e serviço técnico Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e verifique se o modelo de e-mail que foi criado está informado no campo "Modelo de E-mail na finalização de Solicitações/Incidentes";
     9. Ao receber uma notificação por e-mail da solicitação de serviço que foi atendida, será exibido um link para realizar a avaliação do atendimento. Ao clicar no link será aberta uma tela para avaliação do atendimento.
 
@@ -550,7 +550,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
-    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerá três espaços para upload de imagem:
+    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
       - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
       - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
       - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
@@ -572,9 +572,9 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
 
-!!! Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades ?"
+!!! Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades?"
     
-    O tamanho de upload dos anexos é especificado pelo administrador do sisma no parametro 278 o tamanho default é de 1GB.
+    O tamanho de upload dos anexos é especificado pelo administrador do sistema no parâmetro 278 o tamanho default é de 1GB.
 
 !!! Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
  
@@ -679,7 +679,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 	      NOMEATIVIDADE
 	      DATAHORACARGA
 	      
-    Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino Conforme o Banco
+    Estas informações são alimentadas através da rotina de processamento batch do CITSmart, rodando os scripts Rhino Conforme o Banco
 
     **Scripts disponíveis para:**
     
@@ -710,7 +710,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
     
     CENÁRIO  
-    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) à 3 (três) horas de atraso ou adiantamento.
+    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) a 3 (três) horas de atraso ou adiantamento.
 
     O QUE CHECAR  
     1.  Arquivo de configuração do Banco Postgresql:  
@@ -723,7 +723,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
     
-    Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
+    Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim, a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
     
     Já em outros relatórios, tais como o "Relatório Incidentes / Solicitações de Serviços" não há detalhamento da solicitação de acordo com as atividades e por isso não é mostrada a solicitação mais de uma vez. 
 
