@@ -38,6 +38,11 @@ Procedure
     bigger than 24hs from the current date/time;
 
     -   Total: sum of the **Sprints** inside the Workspace.
+    
+!!! Abstract "ATTENTION"    
+
+    To move a **workspace** by changing its ordering, click and drag it to the desired 
+    priority position.
 
 
 ***II - Create a Sprint***
@@ -73,6 +78,11 @@ Procedure
 !!! Abstract "NOTE"
 
     The calculation of progress depends entirely on the estimates reported in the tasks.
+    
+!!! Abstract "ATTENTION"
+
+    To move a **sprint** by changing its ordering, click and drag it to the desired 
+    priority position.
 
 
 ![sprint screen](images/figure-1-simple.png)
