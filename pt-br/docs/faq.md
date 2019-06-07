@@ -739,10 +739,12 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
     É necessário adicionar a URL de acesso ao banco de dados SQL Server, a configuração abaixo:
     ;sendStringParametersAsUnicode=false
-    exemplo: 
-    "jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false"
-
-    no arquivo standAlone.xml, em todos os dataSources.
+    exemplo:
+    
+    ```java
+    jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
+    ```
+    no arquivo standalone.xml, em todos os dataSources.
 
 !!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
 	```tab="Informação"
