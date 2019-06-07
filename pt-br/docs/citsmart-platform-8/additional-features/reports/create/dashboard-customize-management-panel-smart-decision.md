@@ -58,7 +58,7 @@ Procedimento
 
         +   escolher o tipo de widget que ficará no painel gerencial.
 
-2. Para definir o modo de exibição dos elementos no dasboard, clicar em "Layout" e escolher uma opção;
+2.  Para definir o modo de exibição dos elementos no dasboard, clicar em "Layout" e escolher uma opção;
 
 3.  Para salvar as alterações no painel gerencial com os widgets, clicar no
     ícone "Salvar" ;
