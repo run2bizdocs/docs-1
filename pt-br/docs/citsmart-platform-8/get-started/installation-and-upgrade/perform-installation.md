@@ -2,8 +2,7 @@ Title: Realizar a instalação
 
 # Realizar a instalação
 
-Instalação do Servidor de Aplicação Wildfly
--------------------------------------------
+## Instalação do Servidor de Aplicação Wildfly
 
 1. Descompactar o pacote JAVA JDK no diretório /opt e criar um link
 simbólico conforme mostrado no exemplo abaixo. *(Caso já tenha feito a
@@ -133,6 +132,7 @@ diretório \$JBOSS_HOME/bin, conforme mostrado abaixo.
     ```sh
     chown citsmart:citsmart /opt/wildfly/bin/standalone.conf
     ```
+
 ### Configuração do Servidor de Aplicação Wildfly
 
 Todas as configurações feitas neste documento serão feitas através do jboss-cli. Para isso, inicie o Wildfly em standalone, conecte-se ao jboss-cli e execute os seguintes comandos.
