@@ -107,20 +107,19 @@ Procedimiento
 
       ![Campos Okta Confg](images/okta.img15.png)
 
-   - **Descripción:** introducir una definición de esta nueva configuración Okta;
+   * **Descripción:** introducir una definición de esta nueva configuración Okta;
      
-   - **Alias:** incluir el dominio del usuario que se guardará en la base. Ejemplo: okta\administrador@citsmart.com;
+   * **Alias:** incluir el dominio del usuario que se guardará en la base. Ejemplo: okta\administrador@citsmart.com;
      
-   - **URL del dominio:** debe incluir el mismo valor (URL) que se insertó en la línea *OKTA_URL* en el archivo "citsmart.cfg"; 
+   * **URL del dominio:** debe incluir el mismo valor (URL) que se insertó en la línea *OKTA_URL* en el archivo "citsmart.cfg"; 
      
-   - **Token API:** incluir el mismo valor del token insertado en la línea *OKTA_TOKEN* en el archivo "citsmart.cfg";
+   * **Token API:** incluir el mismo valor del token insertado en la línea *OKTA_TOKEN* en el archivo "citsmart.cfg";
      
-   - **Grupo:** insertar el ID del grupo en el que el usuario sincronizado y grabado pertenecerá al CITSmart;
+   * **Grupo:** insertar el ID del grupo en el que el usuario sincronizado y grabado pertenecerá al CITSmart;
      
-   - **Perfil de Acceso:** insertar el ID del perfil en el que el usuario sincronizado y grabado pertenecerá al CITSmart;
+   * **Perfil de Acceso:** insertar el ID del perfil en el que el usuario sincronizado y grabado pertenecerá al CITSmart;
      
-   - **ID de la aplicación:** incluir el ID de la aplicación. Esta información puede ser recuperada en la URL del Okta, conforme la 
-   figura abajo:
+   * **ID de la aplicación:** incluir el ID de la aplicación. Esta información puede ser recuperada en la URL del Okta, conforme la figura abajo:
      
       ![ID de la URL](images/okta.img16.png)
 
