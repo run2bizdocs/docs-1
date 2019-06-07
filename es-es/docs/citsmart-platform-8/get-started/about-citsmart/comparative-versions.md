@@ -1,6 +1,6 @@
-Title: Comparación V.7 vs V.8
+Title: Comparación de versiones
 
-# Comparación V.7 vs V.8
+# Comparación de versiones
 
 | Soporte, Procesos Gerenciales, Funcionalidades, Integraciones...    |    CITSmart Platform 7    |    CITSmart Platform 8    |
 |---------------------------------------------------|--------------------|--------------------|
