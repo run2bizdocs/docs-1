@@ -241,7 +241,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "É possível anexar documentos a incidentes, requisições, problemas e mudanças?"
     
-    Tanto uma Requisição quanto um Incidente podem ter  documentos nexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
+    Tanto uma Requisição quanto um Incidente podem ter documentos anexos na sua abertura e no seu atendimento, para Problemas e Mudanças poderão ser anexados documentos a cada fase da solução e também, se necessário em cada uma das etada definidas na rerolução do problema ou mudança.
     Os documentos podem ser de qualquer tipo(extensão) e seu tamanho máximo pode ser definido pelo administrador no parametro de sistema 278 (o default é 1GB).
 
 !!! Question "Como habilitar a regra de escalonamento do módulo de problemas?"
@@ -717,3 +717,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
     
     Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
+    
+!!! Question "Por que minha instância com SGBD SQL Server apresenta lentidão na tela de listagem de tickets?"
+
+    É necessário adicionar a URL de acesso ao banco de dados SQL Server, a configuração abaixo:
+    ;sendStringParametersAsUnicode=false
+    exemplo: 
+    "jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false"
+
+    no arquivo standAlone.xml, em todos os dataSources.
+    
