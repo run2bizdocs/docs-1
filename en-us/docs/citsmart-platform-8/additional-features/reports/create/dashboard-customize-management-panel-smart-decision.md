@@ -59,10 +59,13 @@ Procedure
 
         + choose the type widget that will be in the management panel.
 
-2.  To save the changes in the management panel with widgets, click on the “Save
+2.  To set the display mode of the elements in the dashboard, click on "Layout" and choose an option;
+
+3.  To save the changes in the management panel with widgets, click on the “Save
     changes” icon;
 
-3.  To undo the changes, click on the “Undo changes” icon.
+4.  To undo the changes, click on the “Undo changes” icon.
+
 
 Related
 -------
