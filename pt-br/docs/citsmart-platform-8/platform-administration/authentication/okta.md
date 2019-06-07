@@ -2,7 +2,7 @@ title: Configurar o Okta no CITSmart
 Description: O Okta conecta qualquer usuário com qualquer aplicativo em qualquer dispoitivo. Este documento explica a forma ideial de conectar esta solução ao CITSmart.
 # Configurar o Okta no CITSmart
 
-Este método de autenticação permite que você utilize os recursos do Okta para autenticar usuários de sua organização em uma instância CITSmart. Este documento explica os passos da configuração deste método. Para saber mais sobre o Okta acesse [okta.com][1].
+Este método de autenticação permite que se utilize os recursos do Okta para autenticar usuários da organização em uma instância CITSmart. Este documento explica os passos da configuração deste método. Para saber mais sobre o Okta acesse [okta.com][1].
 
 Antes de começar
 --------------------
@@ -22,13 +22,13 @@ Procedimento
 
 ![Criar conta okta](images/okta.img1.png)
 
-4. Apertar o botão "Get Started" para concluir a operação. Em seguida, verifique o e-mail cadastrado (que enviará um link de acesso), acesse a conta com a senha temporária enviada e altere a mesma para maior segurança dos dados;
+4. Apertar o botão "Get Started" para concluir a operação. Em seguida, verificar o e-mail cadastrado (que enviará um link de acesso), acessar a conta com a senha temporária enviada e alterar a mesma para maior segurança dos dados;
 
 ![Verificar e-mail](images/okta.img2.png)
 
 *2º Passo: Criar a aplicação CITSmart dentro do Okta:*
 
-1. Após concluído a etapa anterior, conectar-se ao Okta com sua conta recém criada;
+1. Após concluído a etapa anterior, conectar-se ao Okta com a conta recém criada;
 
 2. Clicar na aba "Applications e em seguida no botão "Add Application";
 
@@ -46,12 +46,13 @@ Procedimento
 
       ![Nomear Aplicativo](images/okta.img6.png)
 
-6. Configurar o caminho da aplicação e depois clicar no botão Next
+6. Configurar o caminho da aplicação e depois clicar no botão Next;
 
     ![Configurar caminho](images/okta.img7.png)
 
     !!!Abstract "ATENÇÃO"
-        No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a Apilicação CITSmart será executada.
+    
+       No campo "Single sign on URL" e "Audience URI (SP Entity ID)" deverá ser incluído os endereços de URL no qual a                  Aplicação CITSmart será executada.
      
 7. Marcar as opções "I'm an Okta customer adding an internal app" e "This is an internal app that we have created". Logo em seguida, clicar no botão "Finish".
 
@@ -59,7 +60,7 @@ Procedimento
 
 *3º Passo: Atribuir usuários a aplicação CITSmart do Okta:*
 
-1. Concluído o passo anterior, é necessário clicar na aba "Applications > Applications" e em seguida em "Assign Applications" e opte pelo filtro chamado "People";
+1. Concluído o passo anterior, é necessário clicar na aba "Applications > Applications" e em seguida em "Assign Applications" e optar pelo filtro chamado "People";
 
       ![Atribuição de usuários](images/okta.img9.png)
 
@@ -87,7 +88,7 @@ Procedimento
    
    d) Na linha *OKTA_TOKEN*, incluir o token para acesso via API. Para obter este token, atenda estes passos:
    
-   - Acessar a aplicação CITSmart no Okta, selecionar no menu a opção "Security > API" e em seguida clicar no botão "Create Token". Nomeie o token e aperte o botão "Create Token". Será então apresentado o valor do token que deverá ser copiado na linha citado acima.
+   - Acessar a aplicação CITSmart no Okta, selecionar no menu a opção "Security > API" e em seguida clicar no botão "Create Token". Nomear o token e apertar o botão "Create Token". Será então apresentado o valor do token que deverá ser copiado na linha citado acima.
    
 ![Token](images/okta.img13.png)
 
@@ -129,7 +130,7 @@ Concluído a integração do Okta com o CITSmart, alguns parâmetros do CITSmart
 
  - Como o okta não possui tela de logout, no parâmetro 377 do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
  
- - O parâmetro 445 (Nome do grupo Administrador no Okta) permite escolher o grupo administrador na solução Okta. Se o usuário pertencer a este grupo escolhido, terá o perfil de acesso definido como administrador. Se não for este caso, o seu perfil de acesso será o perfil padrão definido pelo parâmetro 39.
+ - O parâmetro 445 (Nome do grupo Administrador no Okta) permite escolher o grupo administrador na solução Okta. Se o usuário pertencer a este grupo escolhido, terá o perfil de acesso definido como administrador. Se não for este caso, o perfil de acesso será o perfil padrão definido pelo parâmetro 39.
  
 !!! tip "About"
 
