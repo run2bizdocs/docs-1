@@ -748,11 +748,12 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
    Inserir a configuração em todos os dataSources.
 
 !!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
+    
     Este tipo de alteração é feita de forma manual pelo Administrador do sistema diretamente dentro do arquivo web.xml.
     Basta digitar o tempo desejado (em minutos) na sessão <session-timeout>.
     A instalação do produto deixa como default o valor 30.
     
-    Exemplo:
+    - Exemplo:
     
     ```java
     <session-config>
