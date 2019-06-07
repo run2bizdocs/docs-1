@@ -8,7 +8,7 @@ Some changes were made to the audit (itsm-audit-0.4.0), changes that are only at
 Before getting started 
 -----------------
 
-Configure the functionality "Audit" in its instance.    
+Configure the functionality "Audit" in your instance.    
 
 Procedure
 ------------
