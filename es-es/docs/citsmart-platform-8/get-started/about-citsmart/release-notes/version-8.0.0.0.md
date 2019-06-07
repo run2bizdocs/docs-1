@@ -1,4 +1,4 @@
-Description: Release Notes de CITSmart Versión 8.0.0.0 de 01/03/2019
+redirect: /pt-br/citsmart-platform-8/get-started/about-citsmart/release-notes.html
 
 # Versión 8.0.0.0
 _01/03/2019_
