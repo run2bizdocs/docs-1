@@ -10,20 +10,20 @@ Description: CITSmart - FAQ
 
 	A criação do menu para processo de negócio é feita no próprio cadastro de processo de negócio, definindo o campo "Menu associado".
 
-	É necessário que esteja previamente cadastrado um menu com dois níveis para que ele possa ser vinculado à este processo de negócio.
+	É necessário que esteja previamente cadastrado um menu com dois níveis para que ele possa ser vinculado a este processo de negócio.
 
 	Também é necessário que, após salvo o processo de negócio com menu associado, seja atribuído permissão para o item de menu novo. A atribuição de permissão pode ser realizada através da tela de Menu ou da tela de Perfil de Acesso.
 
 ??? Question "Como eu crio relacionamentos "muitos para muitos" no objeto de negócio?"
 	Para criar um relacionamento "Muitos para muitos", é necessário criar um objeto de negócio terceiro para relacionar os dois objetos de negócio desejados.
 
-	Ex: Vamos criar um relacionamento muitos para muitos entre dois objetos, A e B. Para isso, iremos necessitar de um objeto C que irá relacionar os dois.
+	Ex: Vamos criar um relacionamento "muitos para muitos" entre dois objetos, A e B. Para isso, iremos necessitar de um objeto C que irá relacionar os dois.
 
 	O objeto A terá um relacionamento "um para muitos" com o objeto C, e o objeto B também terá um relacionamento "um para muitos" com o objeto C.
 
 	Dentro de nosso objeto C teremos de ter dois relacionamentos, um deles "muitos para um" com o objeto A e o outro "muitos para um" com o objeto B.
 
-	Assim, podemos relacionar um dado do objeto A à vários dados do objeto B, e um dado do objeto B à vários dados do objeto A, através do objeto de negócio C, tendo efetivamente um relacionamento "muitos para muitos"
+	Assim, podemos relacionar um dado do objeto A a vários dados do objeto B, e um dado do objeto B a vários dados do objeto A, através do objeto de negócio C, tendo efetivamente um relacionamento "muitos para muitos"
 
 ??? Question "Todo workflow precisa ter um processo de negócio relacionado?"
 	Nem todo workflow precisa ter um processo de negócio relacionado. Pode-se dizer que todo workflow principal precisa de um processo de negócio, porém os subprocessos não necessitam de outros processos de negócio para eles.   
@@ -42,14 +42,14 @@ Description: CITSmart - FAQ
 ??? Question "Como funciona a injeção de dependências próprias dentro de um formulário no Neuro? Quais passos devem ser executados?"
 	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Neuro são somente do tipo CSS e Javascript.
 
-	Crie um cadastro novo de acordo com o tipo da sua dependência através do menu "Neuro → Recursos" e faça o upload da dependência.
+	Crie um cadastro novo de acordo com o tipo da sua dependência através do menu "Neuro > Recursos" e faça o upload da dependência.
 
 	Para importá-la no formulário, selecione a aba do tipo da página que deseja importar e escolha a aba "Dependências". 
 
 	Clique no ícone de "+ Adicionar" para incluir uma dependência nova, no campo "Nome" digite o nome cadastrado do recurso da sua dependência e selecione a opção correspondente. Para mais informações à respeito de dependências de formulário, vide a documentação técnica.
 
 ??? Question "Como defino as ações que devem estar disponíveis em cada tarefa do workflow?"
-	As ações são cadastradas nas abas principais do cadastro do fluxo. Para associar uma ação a uma tarefa específica, vá para o desenho do workflow, abra as propriedades daquele elemento, e selecione as ações desejadas e salve as alterações.
+	As ações são cadastradas nas abas principais do cadastro do fluxo. Para associar uma ação a uma tarefa específica, vá para o desenho do workflow, abra as propriedades daquele elemento, selecione as ações desejadas e salve as alterações.
 
 ??? Question "Como deleto um elemento do workflow?"
 	Para deletar um elemento do workflow, selecione o elemento que deseja deletar e pressione Ctrl + Del.
@@ -58,15 +58,15 @@ Description: CITSmart - FAQ
 	Este erro ocorre porque o processo de negócio não está referenciado no controller do formulário que inicia o processo de negócio. Para corrigir este problema, acesse o formulário referente ao processo de negócio, e insira o seguinte comando no controller da "Página p/ processo": $scope.businessProcessName = 'nome_do_processo_de_negocio';
 
 ??? Question "Quando eu cadastro um subprocesso, as informações do processo principal são herdadas pelo subprocesso?"
-	Não. Ao incluir um novo subprocesso, seja do tipo ESI ou do tipo BPE em um workflow principal, você deverá, informar na aba "Atributos", o nome exato do subprocesso que deverá ser criado manualmente no cadastro do workflow.
+	Não. Ao incluir um novo subprocesso, seja do tipo ESI ou do tipo BPE em um workflow principal, deverá, informar na aba "Atributos", o nome exato do subprocesso que deverá ser criado manualmente no cadastro do workflow.
 
 	Todas as informações, como ações e estados do fluxo principal deverão ser replicados no cadastro do subprocesso.
 
 	Resumindo em passos, recomenda-se seguir a seguinte ordem:
 
-			1. Cadastro do fluxo principal;
-			2. Cadastro do subprocesso;
-			3. Inclusão do elemento de subprocesso, referenciando o subprocesso já criado.
+	1. Cadastro do fluxo principal;
+	2. Cadastro do subprocesso;
+	3. Inclusão do elemento de subprocesso, referenciando o subprocesso já criado.
 
 ??? Question "Qual a diferença entre um fluxo de integração de processos e um fluxo de integração de serviços?"
 	Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.
