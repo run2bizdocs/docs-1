@@ -743,4 +743,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     "jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false"
 
     no arquivo standAlone.xml, em todos os dataSources.
-    
+
+!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
+
+    Este tipo de alteração é feita de forma manual pelo Administrador do sistema diretamente dentro do arquivo web.xml.
+    Basta digitar o tempo desejado (em minutos) na sessão <session-timeout>.
+    A instalação do produto deixa como default o valor 30.
+    exemplo: 
+    <session-config>
+    	<session-timeout>30</session-timeout>
+    </session-config>
