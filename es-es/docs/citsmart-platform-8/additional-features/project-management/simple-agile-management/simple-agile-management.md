@@ -34,6 +34,11 @@ Procedimiento
     -   En el plazo: presenta el total de las **Sprints** que tenga la "Fecha de entrega" mayor que 24h a partir de la fecha/hora actual;
 
     -   Total: suma de las **Sprints** que están dentro del Workspace.
+    
+!!! Abstract "ATENCIÓN"
+
+    Para mover un **workspace** cambiando su ordenación, hacer clic y arrastrarlo hasta la posición 
+    de prioridad deseada.
 
 
 ***II - Crear Sprint***
@@ -44,7 +49,7 @@ Procedimiento
 
 3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y porcentaje de realización de las mismas:
 
-    -   Atrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
+    -   Retrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
 
     -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que quedarán retrasadas en 24h a partir de la               fecha/hora actual;
 
@@ -64,6 +69,12 @@ Procedimiento
 !!! Abstract "ATENCIÓN"
 
     El cálculo del progreso depende totalmente de las estimaciones informadas en las tareas.
+    
+    
+!!! Abstract "ATENCIÓN"    
+
+    Para mover un ** sprint ** cambiando su ordenación, hacer clic y arrastrarla a la posición 
+    de prioridad deseada.
 
 
 ![pantalla sprint](images/figure-1-simple.png)
