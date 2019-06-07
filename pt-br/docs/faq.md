@@ -737,9 +737,10 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
 !!! Question "Por que minha instância com SGBD SQL Server apresenta lentidão na tela de listagem de tickets?"
 
-    É necessário adicionar a URL de acesso ao banco de dados SQL Server, a configuração abaixo:
+    É necessário adicionar à URL de acesso ao banco de dados SQL Server a seguinte configuração:
     ;sendStringParametersAsUnicode=false
-    exemplo:
+    
+    - Exemplo:
     
     ```java
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
