@@ -737,7 +737,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
 !!! Question "Por que minha instância com SGBD SQL Server apresenta lentidão na tela de listagem de tickets?"
 
-    É necessário adicionar à URL de acesso ao banco de dados SQL Server a seguinte configuração:
+    No arquivo standalone.xml é necessário adicionar à URL de acesso ao banco de dados SQL Server a seguinte configuração:
     ;sendStringParametersAsUnicode=false
     
     - Exemplo:
@@ -745,7 +745,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     ```java
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
     ```
-    no arquivo standalone.xml, em todos os dataSources.
+   Inserir a configuração em todos os dataSources.
 
 !!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
 	```tab="Informação"
