@@ -66,7 +66,7 @@ Procedimiento
 3.  Para guardar los cambios en el panel gerencial con los widgets, haga clic en
     el icono "Guardar los cambios";
 
-4'.  Para deshacer los cambios, haga clic en el icono "Deshacer los cambios".
+4.  Para deshacer los cambios, haga clic en el icono "Deshacer los cambios".
 
 
 
