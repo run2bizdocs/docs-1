@@ -1,4 +1,4 @@
-redirect: /pt-br/citsmart-platform-8/get-started/about-citsmart/release-notes.html
+redirect: /es-es/citsmart-platform-8/get-started/about-citsmart/release-notes.html
 
 # Versión 8.0.0.0
 _01/03/2019_
