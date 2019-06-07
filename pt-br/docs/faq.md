@@ -749,7 +749,10 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Este tipo de alteração é feita de forma manual pelo Administrador do sistema diretamente dentro do arquivo web.xml.
     Basta digitar o tempo desejado (em minutos) na sessão <session-timeout>.
     A instalação do produto deixa como default o valor 30.
-    exemplo: 
+    exemplo:
+    
+    ```sh
     <session-config>
     	<session-timeout>30</session-timeout>
     </session-config>
+    ```
