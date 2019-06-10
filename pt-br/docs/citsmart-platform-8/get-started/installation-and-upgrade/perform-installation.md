@@ -204,7 +204,7 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que quatro são para o Citsmart e quatro para o Citsmart Neuro. O usuário e senha é **citsmartdbuser e exemplo123**, respectivamente, criados no item *Servidor de Banco de Dados PostgreSQL*;
+3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que quatro são para o CITSmart e quatro para o CITSmart Neuro. O usuário e senha é **citsmartdbuser e exemplo123**, respectivamente, criados no item *Servidor de Banco de Dados PostgreSQL*;
 
 4. Para criar os datasources, execute os comandos CLI abaixo:
 
@@ -302,7 +302,7 @@ modulo ao standalone-full-ha.xml
 
 
 
-5. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
+5. Antes de sair do jboss-cli,executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -349,7 +349,7 @@ modulo ao standalone-full-ha.xml
     </subsystem>
     ```
 
-2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+2. Antes de sair do jboss-cli, executar o comando reload para aplicar as alterações.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -430,7 +430,7 @@ Caso possua um certificado é importante utilizá-lo.
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 
     ```
     
-    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
+    Criando aliás com IP do servidor do Jboss (exemplo 192.168.0.40): 
     
     ```
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 
@@ -473,7 +473,7 @@ Caso possua um certificado é importante utilizá-lo.
 
 ## Iniciando as soluções seguindo dependências
 
-1. Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+1. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
     **Servidor de Banco de Dados PostgreSQL**:
 
@@ -515,7 +515,7 @@ Caso possua um certificado é importante utilizá-lo.
 ### Acesso ao CITSmart Enterprise
 
 
-1. Para acessar o CITSmart Enterprise, devemos acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
+1. Para acessar o CITSmart Enterprise, deve-se acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
 
     ```sh
     https://itsm.citsmart.com:8443/citsmart
@@ -523,9 +523,9 @@ Caso possua um certificado é importante utilizá-lo.
 	
 2. O contexto "citsmart" é o padrão do CITSmart Enterprise.
 
-    Primeiro acesso: Entre com a URL > https://itsm.citsmart.com:8443/citsmart.
+    Primeiro acesso: entrar com a URL > https://itsm.citsmart.com:8443/citsmart.
 
-3. Agora, siga os 3 passos de configuração e comece a usar a solução CITSmart.
+3. Seguir os 3 passos de configuração e usar a solução CITSmart.
 
 ## Deploy do CITSmart Neuro
 
