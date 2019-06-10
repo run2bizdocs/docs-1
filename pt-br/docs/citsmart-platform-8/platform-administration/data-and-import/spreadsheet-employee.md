@@ -1,6 +1,6 @@
 title: Cadastrar modelo de planilha para importação de colaborador
 Description: Permitir uma carga direta na tabela de colaboradores.
-#Cadastrar modelo de planilha para importação de colaborador
+# Cadastrar modelo de planilha para importação de colaborador
 
 Esta funcionalidade foi implementada com o intuito de permitir uma carga direta
 na tabela de colaboradores. O sistema avisa caso algum campo obrigatório não
