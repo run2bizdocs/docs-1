@@ -10,14 +10,14 @@ Procedimento
 
 1.  Acessar o menu principal Workflow > Desenho de fluxo;
 
-2.  Clicar no botão “Novo’;
+2.  Clicar no botão “Novo";
 
 3.  Na aba “Dados do Fluxo” é necessário preencher os dados obrigatórios: nomear
     o fluxo (seu identificador interno, deve ser informado sem espaço, acentos e
     caracteres especiais); o processo a que está vinculado (o fluxo estará
     vísivel apenas para o processo a que está vinculado) e a opção para permitir
     a rebertura de um serviço independentemente das configurações de grupo.
-    Também é possível visualizar qual a versão o fluxo se encontra.
+    Também é possível visualizar qual versão o fluxo se encontra.
 
 4.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
     elementos que representam o cenário pretendido. Para tanto, basta clicar no
@@ -28,7 +28,7 @@ Procedimento
     !!! tip "IMPORTANTE"
     
         Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
-        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex.         aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex.             aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 	
 
 5.  As propriedas de um elemento podem ser definidas ao clicar duas
