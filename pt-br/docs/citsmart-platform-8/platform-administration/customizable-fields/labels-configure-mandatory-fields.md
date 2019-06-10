@@ -1,7 +1,7 @@
 title: Configurar campos de obrigatoriedade
 Description: É facultado ao administrador a escolha de quais campos o usuário será compelido a preencher
-#Configurar campos de obrigatoriedade
-Através da configuração dos campos de obrigatoriedade é facultado ao administrador a escolha de quais campos o usuário será compelido a preencher ao contectar os atendentes. A finalidadade desta habilidade é impor ao solicitante a satisfazer as informações imprescindíveis a resolução de sua solicitação.  
+# Configurar campos de obrigatoriedade
+Através da configuração dos campos de obrigatoriedade é facultado ao administrador a escolha de quais campos o usuário será compelido a preencher ao contactar os atendentes. A finalidadade desta habilidade é impor ao solicitante a satisfazer as informações imprescindíveis a resolução de sua solicitação.  
 
 Procedimento
 ------------
