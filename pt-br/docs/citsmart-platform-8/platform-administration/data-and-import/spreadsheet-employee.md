@@ -24,7 +24,7 @@ Procedimento
 5.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
     Modelo .xls";
 
-6.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
+6.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão "Gerar
     Modelo .xlsx".
 
     
