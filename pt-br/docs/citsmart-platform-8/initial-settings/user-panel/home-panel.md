@@ -6,7 +6,7 @@ O painel inicial é exibido na tela principal do sistema. Neste painel é possí
 * Alterar Informações da conta
 * Criar atalhos
 * Criar sua dashboad
-* Adicionar widgets à sua dashboad
+* Adicionar widgets a sua dashboad
 
 
 Relacionado
