@@ -58,7 +58,7 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
     !!! Abstract "ATENÇÃO"
 
         Os parâmetros 65 (que identifica o ID de origem do chamado padrão da
-        solicitação de serviço) e 105 (indentifica o ID de origem que será setado
+        solicitação de serviço) e 105 (identifica o ID de origem que será setado
         como padrão ao criar um novo incidente) setam uma origem de contato
         automaticamente quando o usuário cadastrar um ticket. Assim sendo, caso o
         campo “Origem do contato” na tela de ticket *não* for obrigatório, porém,
