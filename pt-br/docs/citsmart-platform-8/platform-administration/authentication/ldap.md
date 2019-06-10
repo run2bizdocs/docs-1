@@ -41,7 +41,7 @@ Procedimento
 
     !!! Abstract "REGRA"
 
-        Antes de pedir para testar *deve-se* clicar o botão "Gravar" para salvar a
+        Antes de pedir para testar **deve-se** clicar o botão "Gravar" para salvar a
         configuração, caso contrário o teste usará os dados anteriores às alterações
         feitas na tela.
 
