@@ -1,13 +1,16 @@
 title: Processamento Batch
 Description: Tem o objetivo de registrar o processamento batch, que poderá ser utilizado em outras rotinas do sistema.
-#Processamento Batch
+# Processamento Batch
 
 Esta funcionalidade tem o objetivo de registrar a utilização de processamento batch, que
 poderá ser utilizado em outras rotinas do sistema.
 
 Rotinas como:
+
    - Verificação de e-mail
+   
    - Verificação da hora do servidor
+   
    - Distribuição automática de Tickets com balanceamento carga de trabalho 
 
 Procedimento
