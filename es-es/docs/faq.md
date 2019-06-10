@@ -1,29 +1,164 @@
 Title: Preguntas frecuentes - FAQ
+description: Aquí tienes las respuestas de las preguntas más comunes cuando se habla de la herramienta CITSmart.
 
 # Preguntas frecuentes - FAQ
 
-!!! Question "¿Es posible evaluar el impacto de los cambios para poder aprobar el registro de cambios?"
+## Procesos
 
-    El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
-    "**Simplificada**" para una análisis Simplificada en el elemento.
-    "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
-    
+### Gestión de Tickets
+
 !!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
 
     Tanto una Solicitud como un Incidente pueden tener documentos adjuntos en su apertura y en su atención, para Problemas y Cambios podrán ser anexados documentos a cada fase de la solución y también, si es necesario, en cada una de las etadas definidas en la solución del problema o cambio.
     Los documentos pueden ser de cualquier tipo (extensión) y su tamaño máximo puede ser definido por el administrador en el parámetro del sistema 278 (el default es 1GB).
-     
-!!! Question "¿Se puede asignar la responsabilidad de un elemento de configuración a un usuario/grupo?" 
-
-    Sí. Es posible asignar al responsable de un EC editando las opciones del mismo (Procesos > Gestión de Configuración > CMDB > Buscar > Editar > Tipo de Responsable > Responsable). Tenga en cuenta que la actualización de un EC puede estar vinculada a la Gestión de Cambio, siendo necesario vincular el ID de una RFC.
-    
-!!! Question "¿Cómo actualizar un Elemento de Configuración directamente por la Solicitud de Cambio?"
-
-    Cuando una RFC pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la pantalla de gestión de cambios. Para ello: 1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio); 2. Seleccionar la RFC y hacer clic en ella, después hacer clic en "Abrir"; 3. En la interfaz de gestión, hacer clic en el elemento "EC relacionados"; 4. En el elemento acciones, hacer clic en el icono "Cambiar"; 5. Cambiar el EC con la nueva información; 6. Hacer clic en "Guardar".
     
 !!! Question "¿Es posible clasificar la Solicitud/Incidente (Ticket)?"
 
-    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).
+    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).    
+
+!!! Question "¿Cómo acceder a la solicitud de servicio a partir de la notificación de correo electrónico?"
+    
+    Para acceder a la solicitud de servicio desde la notificación de correo electrónico, proceda de la siguiente manera:
+   
+    1. Asegúrese de que está conectado al sistema.
+    2. Abra la notificación de correo electrónico referente a la solicitud de servicio;
+    3. La notificación tendrá el número de solicitud con un hipervínculo, simplemente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
+    
+!!! Question "¿Cómo definir un grupo padrón para el atendimiento del primer nivel de la solicitud de servicio?"
+   
+    Para definir el grupo predeterminado para la atención de primer nivel, proceda de acuerdo con las siguientes instrucciones:
+   
+    1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
+    2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
+    3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
+    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart.
+    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart
+    6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
+    7. Seleccione el mismo.
+    8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
+    9. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    
+    REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
+    
+ !!! Question "¿Cómo configurar las notificaciones de correo electrónico de solicitud de servicios?"
+    
+    Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
+    
+	Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
+    
+    1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
+    de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
+    Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
+        
+	- "Modelo de correo electrónico Apertura Solicitud/Incidente"
+	
+        - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
+	
+        - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
+        
+    REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
+
+    2. Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
+    
+    3. Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
+    
+    4. Seleccione el mismo;
+    
+    5. Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
+    
+    REGLA: si ha determinado que las notificaciones serán obligatorias, al registrar una solicitud de servicio, en la pantalla de Registro de Solicitud de Servicio/Incidente, estas opciones ya estarán seleccionadas, no permitiendo su alteración. Pero si ha determinado que las notificaciones no serán obligatorias, al registrar una solicitud de servicio, estas opciones pueden ser definidas por el responsable del registro de la solicitud.
+    
+    6. En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
+    
+    REGLA: al registrar una solicitud de servicio, se enviará la notificación sólo al grupo ejecutor, el cual es responsable de la atención de la solicitud. Cuando se realiza la ejecución de las demás acciones y cierre de la solicitud de servicio, las notificaciones serán encaminadas solamente al solicitante.
+    
+!!! Question "¿Cómo habilitar la regla de escalabilidad de las solicitudes de servicio?"
+    
+    La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de CITSmart. Para habilitar esta regla, proceda de la siguiente manera:
+
+    1. En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
+    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
+    3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    4. Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
+    5. Busque y cambie el parámetro 31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes (Ej: S o N) informando el valor "S";
+    6. Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
+    7. También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
+    
+    - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
+    - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
+    -113: Modelo ID de correo electrónico de escalada automática;
+    - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
+    - 33: URL para acceder al sistema.
+    
+	8. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+	
+!!! Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
+    
+    Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
+
+    Veamos un ejemplo genérico:
+    - El servicio A tiene un flujo de calidad vinculado. Después de solucionarse una solicitud referente al servicio A y avanzar el flujo, el grupo responsable será el de calidad y éste terminará el ciclo de vida de la solicitud en cuestión, pero este grupo no es el grupo que solucionó esta solicitud, sólo aprobó la solución y, ha finalizado la solicitud, por lo que no se presentará en el informe generado por la pantalla de búsqueda de solicitudes e incidentes cuando el filtro "Grupo de soluciones" esté marcado con un grupo específico.
+    - Sin embargo, cuando el filtro "Grupo Solucionador" no está activo, el grupo presentado en el informe o en la encuesta será el grupo correspondiente a la tarea actual de la solicitud, es decir, si la solicitud está cerrada y tiene un flujo de calidad, de calidad como el grupo actual responsable del cierre del ciclo de vida de esta solicitud. Y si la solicitud está en marcha, se presentará el grupo actual responsable de la ejecución de esta solicitud.
+    
+!!! Question "¿Por qué la numeración de la solicitud de servicio no siempre seguirá un orden secuencial riguroso/perfecto en la pantalla de solicitud de servicio o en algunos Informes?"
+    
+    Tanto la pantalla de Solicitud de Servicios como en algunos informes (tales como "Calidad de Atención - SLA"), la ordenación del número de solicitudes sigue un orden secuencial creciente, excepto cuando:
+    
+    1. Los informes agrupan los datos por algún criterio especial (por ejemplo, por el plazo de SLA, que es lo que sucede en el caso del informe "Calidad de Atención - SLA");
+    2. Cuando el recurso denominado Sequence Block es impactado por un factor externo, esto ocurre si:
+    * Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
+    * El entorno se agrupa.
+  
+ !!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
+    
+    En la interfaz de la Gestión de Tickets, específicamente en el elemento "Auditoría", al intentar configurar la auditoría de un ticket abierto (definir las fechas de inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará el mensaje de "Fecha Inválida ". Esto porque la funcionalidad necesita que el idioma definido en el sistema y en el explorador utilizado sean idénticos.  
+    Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador. 
+    
+### Gestión de Portafolio y Catálogo
+
+!!! Question "¿Cómo hago el diseño de activos que componen mi servicio?"
+   
+    Se hace el diseño de activos que componen el servicio utilizando la herramienta de Diseño de Mapa de Servicio que proporciona diseños eficientes y eficaces para la gestión del servicio durante su ciclo de vida, demostrando los ítems de configuración relacionados.
+
+    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
+    
+    1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
+    2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
+    3. Realice el diseño
+	
+!!! Question "¿Cómo vincular colaboradores (usuarios) a un grupo?"
+    
+    Hay dos formas de vincular a los colaboradores (usuarios) a los grupos.
+
+    A PARTIR DEL REGISTRO DE GRUPO
+	
+    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html) );
+    2. Se mostrará la pantalla de Registro de Grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
+    3. Haga clic en el icono de agregar del campo Colaboradores, se mostrará la pantalla para búsqueda de colaboradores;
+    4. Realice la búsqueda del colaborador que desea vincular al grupo y seleccione el mismo. Después de eso, el colaborador será vinculado al grupo;
+    5. Después del vínculo, haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
+    
+    A PARTIR DO CADASTRO DE USUARIO
+    
+    1. Acceda a la funcionalidad de Registro de Usuario a través de la navegación en el menú principal. Sitúe el puntero en la opción Registros Generales, Administración de Personal y haga clic en la opción Usuario (ver [Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html));
+    2. Se mostrará la pantalla de Registro de Usuario. Si el usuario ya está registrado en el sistema, realice la búsqueda del usuario y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del usuario determinado;
+    3. Haga clic en el icono Agregar del campo Grupo. Se mostrará la pantalla para la búsqueda de grupos;
+    4. Realice la búsqueda del grupo deseado y seleccione la misma. Después de eso, el usuario será vinculado al grupo;
+    5. Después del vínculo, haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
+    
+!!! Question "¿Cómo relacionar grupo al contrato?"
+    
+    Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
+    
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Coloque el puntero en la opción Parametrización y haga clic en la opción Parámetros CITSmart. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de consulta de parámetros de CITSmart. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
+    2. Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de colaboradores a los contratos (S/N)?" y seleccione. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el botón Grabar para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
+    5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
+    6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
+    7. Seleccione los contratos a los que se vinculará el grupo;
+    
+### Gestión de Conocimiento
 
 !!! Question "¿Cómo son clasificados según el ranking los documentos en el momento de la consulta de SOLR en la base de conocimientos?"
 
@@ -44,104 +179,117 @@ Title: Preguntas frecuentes - FAQ
     En el ITSM no se utiliza ningún impulsor, hasta el momento, sólo se utiliza el cálculo default de puntuación del Solr, y al final de la investigación se realiza la ordenación por la puntuación por la cantidad de veces que el conocimiento fue votado/gustado.
 
     Los impulsores están abiertos para el uso, pero para utilizarlos es necesario un análisis mejor de la importancia de los campos y de los documentos añadidos al Solr, por la base de conocimiento.
+    
+!!! Question "¿Cómo configurar el recurso SOLR?"
+    
+    CONFIGURACIÓN DEL PARÁMETRO
+    
+    1. Para configurar el parámetro vaya a la pantalla Parametrización > Gestión de Conocimiento;
+    2. Busque el parámetro “URL del servidor de SOLR (Ej: http://localhost:8983/solr/collection_name)” ;
+    3. Después de indicar la dirección URL del servidor Solr, un ejemplo de URL sería el siguiente: 
+    http://localhost:8983/solr/base_conocimiento .
 
+    INDEXACIÓN DE LOS CONOCIMIENTOS EXISTENTES
+	
+    1. Para indexar los conocimientos vaya en Sistema > Configuraciones > Gestión de conocimiento (Indexación);
+    2. Si tiene conocimientos indexados, haga clic en "Eliminar la indexación de base de conocimientos";
+    3. Luego haga clic en "Indexar base de conocimiento";
+    4. Si se produce algún error, haga clic en "Actualizar el servidor de índices";
+    5. Después de hacer clic de nuevo en "Indexar base de conocimiento";
+    6. Si se produce algún error, póngase en contacto con el soporte de ITSM.
     
-!!! Question "¿Cómo puede la Gestión de Eventos convertirse en una herramienta de monitoreo de negocios?"
+!!! Question "¿Cuál es el significado de cada privacidad que un conocimiento puede tener en la base de conocimientos?"
     
-    ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITOREO DE NEGOCIOS)
-    Es posible conectar el componente EVM con cualquier software, incluso un diferente de los que el módulo de Gestión de eventos normalmente se integra (Nagios, Zabbix e Inventory), siempre y cuando los datos enviados (vía webservice) sigan un padrón preestablecido.
+    - Público: todos los usuarios con acceso en el Portal del Conocimiento poseen acceso, independientemente de si tienen acceso a la carpeta del conocimiento.
+    - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento.
+    - Interno: sólo las personas con permiso en la carpeta del conocimiento pueden visualizar.
+    
+   !!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
 
-    Una vez que los datos se envían al CITSmart Event Monitor, se pueden crear reglas (por ejemplo, con el EPL de espera) para que determinados eventos se disparen de acuerdo con alguna condición observada en los datos.
+    Para ver un conocimiento, abra uno en la interfaz de gestión del conocimiento, haga clic en editar, en la pantalla de información del conocimiento, después haga clic en "Versionar". Es posible también "Archivar la versión anterior" del conocimiento.
+    
+### Gestión de Problema    
 
-    Ejemplo "Hoja/Nómina de pago":
-    
-    - Digamos que es una regla de una empresa no contratar a más de 5 empleados por sector.
-    - El programa de nóminas podría enviar los datos mínimos de cada contratación por departamento (definido en el plan presupuestario de la empresa), de modo que cuando el número de contracción por departamento supera el límite preestablecido, un evento de "exceso de contratación " Podría ser disparado.
-    
-!!! Question "¿Cómo acceder a la solicitud de servicio a partir de la notificación de correo electrónico?"
-    
-    Para acceder a la solicitud de servicio desde la notificación de correo electrónico, proceda de la siguiente manera:
-   
-    1. Asegúrese de que está conectado al sistema.
-    2. Abra la notificación de correo electrónico referente a la solicitud de servicio;
-    3. La notificación tendrá el número de solicitud con un hipervínculo, simplemente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
-    
-!!! Question "¿Cómo hago el diseño de activos que componen mi servicio?"
-   
-    Se hace el diseño de activos que componen el servicio utilizando la herramienta de Diseño de Mapa de Servicio que proporciona diseños eficientes y eficaces para la gestión del servicio durante su ciclo de vida, demostrando los ítems de configuración relacionados.
+!!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
 
-    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
+    Tanto una Solicitud como un Incidente pueden tener documentos adjuntos en su apertura y en su atención, para Problemas y Cambios podrán ser anexados documentos a cada fase de la solución y también, si es necesario, en cada una de las etadas definidas en la solución del problema o cambio.
+    Los documentos pueden ser de cualquier tipo (extensión) y su tamaño máximo puede ser definido por el administrador en el parámetro del sistema 278 (el default es 1GB).
     
-    1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
-    2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
-    3. Realice el diseño
-   
+!!! Question "¿Cómo habilitar la regla de escalonamiento del módulo de problemas?"
     
-!!! Question "¿Cómo definir un grupo padrón para el atendimiento del primer nivel de la solicitud de servicio?"
-   
-    Para definir el grupo predeterminado para la atención de primer nivel, proceda de acuerdo con las siguientes instrucciones:
-   
-    1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
-    2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
-    3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
-    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart.
-    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart
-    6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
-    7. Seleccione el mismo.
-    8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
-    9. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    Para habilitar esta regla, proceda de la siguiente manera:
     
-    REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"194 - ¿Habilitar el escalonamiento de problema definido en las reglas de escalonamiento?". (Ej.: S o N - Default 'N')" y seleccione el mismo;
+    4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
+    5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
-!!! Question "¿Cómo configurar la autenticación del Nagios vía LDAP?"
-    
-    La configuración de autenticación de Nagios a través de LDAP pasa por:
-    
-    1. Cambie el archivo thruk.conf de la siguiente manera:
-    ```sh
-    vim /etc/apache2/conf-available/thruk.conf
-	```
-    <Location /thruk/>
-    Options ExecCGI FollowSymLinks
-    AuthName "LDAP Authentication"
-    AuthType Basic
-    AuthBasicProvider ldap
-    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
-    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
-    Require valid-user
-    </Location>
+### Gestión de Cambio
 
-    2. Ejecutar:
-    ```sh
-    /etc/init.d/apache2 restart
-	```
-    ```sh
-    /etc/init.d/thruk restart
-	```
-	```sh
-    /etc/init.d/nagios reload
-	```
-    
-!!! Question "¿Cómo configurar la respuesta automática de encuestas de satisfacción?"
-    
-    El mecanismo de respuesta automática, que responderá automáticamente a las encuestas de satisfacción de las solicitudes de servicio, se produce cuando la encuesta de satisfacción no es respondida por el usuario, dentro de un plazo definido por el administrador del sistema.
+!!! Question "¿Es posible evaluar el impacto de los cambios para poder aprobar el registro de cambios?"
 
-    Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones:
+    El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
+    "**Simplificada**" para una análisis Simplificada en el elemento.
+    "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
+ 
+!!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
 
-    1. Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
-    Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
-    Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
-    Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
-    2. Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
-    3. Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
-    Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
-    Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
-    Tipo: seleccionar el tipo "Clase Java";
-    Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
-    Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
-    4. Haga clic en el botón Grabar para realizar el registro.
+    Tanto una Solicitud como un Incidente pueden tener documentos adjuntos en su apertura y en su atención, para Problemas y Cambios podrán ser anexados documentos a cada fase de la solución y también, si es necesario, en cada una de las etadas definidas en la solución del problema o cambio.
+    Los documentos pueden ser de cualquier tipo (extensión) y su tamaño máximo puede ser definido por el administrador en el parámetro del sistema 278 (el default es 1GB). 
+
+!!! Question "¿Cómo actualizar un Elemento de Configuración directamente por la Solicitud de Cambio?"
+
+    Cuando una RFC pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la pantalla de gestión de cambios. Para ello: 
     
-	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor ' S'.
+    1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio); 
+    2. Seleccionar la RFC y hacer clic en ella, después hacer clic en "Abrir"; 
+    3. En la interfaz de gestión, hacer clic en el elemento "EC relacionados"; 
+    4. En el elemento acciones, hacer clic en el icono "Cambiar"; 
+    5. Cambiar el EC con la nueva información; 
+    6. Hacer clic en "Guardar".
+    
+!!! Question "¿Cómo definir la obligatoriedad del vinculo del cambio de EC?"
+    
+    La obligatoriedad del vínculo del cambio con el IC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda conforme a las siguientes directrices:
+
+    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña de búsqueda de parámetros del CITSmart;
+    3. Se mostrará la pantalla para la búsqueda de parámetros. Realiza la búsqueda del parámetro "85 - ¿Verificar enlace del Cambio relacionado al IC?";
+    4. Seleccione el mismo;
+    5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S";
+    6. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    7. Después de la configuración del parámetro, cuando se registre un ítem de configuración, será obligatorio el vínculo del cambio.
+    
+!!! Question "¿Cómo habilitar la regla de escalabilidad del módulo de cambios?"
+    
+    La regla de escalado de cambios está habilitada en la pantalla de Parámetro de CITSmart.
+
+    Para habilitar esta regla, proceda de la siguiente manera:
+
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"193 - ¿Permite programar los cambios en las reglas de escalamiento definidos? (Ej: S o N - Default 'N')" y seleccione el mismo;
+    4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
+    5. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    
+### Gestión de Configuración y Activos
+
+!!! Question "¿Se puede asignar la responsabilidad de un elemento de configuración a un usuario/grupo?" 
+
+    Sí. Es posible asignar al responsable de un EC editando las opciones del mismo (Procesos > Gestión de Configuración > CMDB > Buscar > Editar > Tipo de Responsable > Responsable). Tenga en cuenta que la actualización de un EC puede estar vinculada a la Gestión de Cambio, siendo necesario vincular el ID de una RFC.
+    
+!!! Question "¿Cómo actualizar un Elemento de Configuración directamente por la Solicitu de Cambio?"
+
+    Cuando una solicitud de cambio pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la 
+    pantalla de 
+    gestión de cambios. Para eso:
+    1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio);
+    2. Seleccionar la Solicitud de Cambio y hacer clic en ella, después, hacer clic en "Abrir";
+    3. En la interfaz de gestión, hacer clic en "EC relacionados";
+    4. En acciones, hacer clic en el icono "Cambiar";
+    5. Cambiar el EC con las nuevas informaciones;
+    6. Hacer clic en "Guardar".
 
 !!! Question "¿Cómo configurar el nombre de las fases del ciclo de vida de los EC (Elementos de configuración)?"
     
@@ -173,48 +321,112 @@ Title: Preguntas frecuentes - FAQ
     12. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     13. En el campo valor, introduzca el nombre del grupo de IC de la fase de homologación;
     14. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    
+!!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?
 
-!!! Question "¿Cómo configurar las notificaciones de correo electrónico de solicitud de servicios?"
+    La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
     
-    Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
+    1. Acceder a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros 
+    CITSmart;
+    2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña Búsqueda de parámetros del CITSmart;
+    3. Se mostrará la pantalla para la búsqueda de parámetros. Busque por el parámetro "85 - Comprobación del vínculo de cambio 
+    relacionado al elemento de configuración (Default: S)";
+    4. Seleccionélo;
+    5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe 
+    el valor "S";
+    6. Hacer clic en "Guardar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para 
+    una futura auditoría;
+    7. Después de la configuración del parámetro, cuando se registre un elemento de configuración, será obligatorio el vínculo del 
+    cambio.
     
-	Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
+!!! Question "¿Para cuál destinatario se hará el envío de notificaciones de EC?"
     
-    1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
-        
-	- "Modelo de correo electrónico Apertura Solicitud/Incidente"
-	
-        - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
-	
-        - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
-        
-    REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
+    Las notificaciones de IC se enviarán al destinatario definido en la pantalla de Parámetro de CITSmart.
 
-    2. Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
+    Para definir el destinatario, proceda de la siguiente manera:
     
-    3. Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart;
+    3. Se mostrará la pantalla para la búsqueda de parámetros;
+    4. Realiza la búsqueda del parámetro "90 - Envío de correos electrónicos de notificación IC (1-Grupo, 2-Propietario, 3-Todos)";
+    5. Seleccione el mismo;
+    6. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación del destinatario (1 - Grupo, 2 - Propietario o 3 - Todos);
+    7. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    8. Después de la configuración del parámetro, se realizará el envío de e-mails de notificaciones de IC para el destinatario (grupo, propietario o todos), según se especifica en el valor del parámetro.
     
-    4. Seleccione el mismo;
+!!! Question "¿Cuál es el significado de cada estado del inventario de EC?"
     
-    5. Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
+    - Inventariado - El inventario logró leer la información del IC y se cerró con éxito;
+    - Ignorado -En la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para 
+    ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
+    - Inaccesible - Cuando el servidor encuentra el IC, pero no puede traer la información;
+    - No inventariado - Cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
+    - En ejecución - Durante la lectura del inventario, el IC queda en ese estado.
     
-    REGLA: si ha determinado que las notificaciones serán obligatorias, al registrar una solicitud de servicio, en la pantalla de Registro de Solicitud de Servicio/Incidente, estas opciones ya estarán seleccionadas, no permitiendo su alteración. Pero si ha determinado que las notificaciones no serán obligatorias, al registrar una solicitud de servicio, estas opciones pueden ser definidas por el responsable del registro de la solicitud.
-    
-    6. En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
-    
-    REGLA: al registrar una solicitud de servicio, se enviará la notificación sólo al grupo ejecutor, el cual es responsable de la atención de la solicitud. Cuando se realiza la ejecución de las demás acciones y cierre de la solicitud de servicio, las notificaciones serán encaminadas solamente al solicitante.
-    
-!!! Question "¿Cómo definir la obligatoriedad del vinculo del cambio de EC?"
-    
-    La obligatoriedad del vínculo del cambio con el IC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda conforme a las siguientes directrices:
+### Gestión de Eventos
 
-    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
-    2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña de búsqueda de parámetros del CITSmart;
-    3. Se mostrará la pantalla para la búsqueda de parámetros. Realiza la búsqueda del parámetro "85 - ¿Verificar enlace del Cambio relacionado al IC?";
-    4. Seleccione el mismo;
-    5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S";
-    6. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
-    7. Después de la configuración del parámetro, cuando se registre un ítem de configuración, será obligatorio el vínculo del cambio.
+!!! Question "¿Cómo puede la Gestión de Eventos convertirse en una herramienta de monitoreo de negocios?"
+    
+    ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITOREO DE NEGOCIOS)
+    Es posible conectar el componente EVM con cualquier software, incluso un diferente de los que el módulo de Gestión de eventos normalmente se integra (Nagios, Zabbix e Inventory), siempre y cuando los datos enviados (vía webservice) sigan un padrón preestablecido.
+
+    Una vez que los datos se envían al CITSmart Event Monitor, se pueden crear reglas (por ejemplo, con el EPL de espera) para que determinados eventos se disparen de acuerdo con alguna condición observada en los datos.
+
+    Ejemplo "Hoja/Nómina de pago":
+    
+    - Digamos que es una regla de una empresa no contratar a más de 5 empleados por sector.
+    - El programa de nóminas podría enviar los datos mínimos de cada contratación por departamento (definido en el plan presupuestario de la empresa), de modo que cuando el número de contracción por departamento supera el límite preestablecido, un evento de "exceso de contratación " Podría ser disparado.
+    
+### Administración de la Plataforma    
+
+!!! Question "¿Cómo configurar la autenticación del Nagios vía LDAP?"
+    
+    La configuración de autenticación de Nagios a través de LDAP pasa por:
+    
+    1. Cambie el archivo thruk.conf de la siguiente manera:
+    ```sh
+    vim /etc/apache2/conf-available/thruk.conf
+	```
+    <Location /thruk/>
+    Options ExecCGI FollowSymLinks
+    AuthName "LDAP Authentication"
+    AuthType Basic
+    AuthBasicProvider ldap
+    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
+    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
+    Require valid-user
+    </Location>
+
+    2. Ejecutar:
+    ```sh
+    /etc/init.d/apache2 restart
+	```
+    ```sh
+    /etc/init.d/thruk restart
+	```
+	```sh
+    /etc/init.d/nagios reload
+	```
+!!! Question "¿Cómo configurar la respuesta automática de encuestas de satisfacción?"
+    
+    El mecanismo de respuesta automática, que responderá automáticamente a las encuestas de satisfacción de las solicitudes de servicio, se produce cuando la encuesta de satisfacción no es respondida por el usuario, dentro de un plazo definido por el administrador del sistema.
+
+    Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones:
+
+    1. Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
+    Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
+    Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
+    Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
+    2. Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
+    3. Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
+    Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
+    Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
+    Tipo: seleccionar el tipo "Clase Java";
+    Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
+    Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
+    4. Haga clic en el botón Grabar para realizar el registro.
+    
+	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor ' S'.
     
 !!! Question "¿Cómo habilitar la rutina de lectura automática de mensajes de correo electrónico"
 
@@ -289,19 +501,6 @@ Title: Preguntas frecuentes - FAQ
     23. Haga clic en el botón *Grabar* para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría.
-
-    
-!!! Question "¿Cómo habilitar la regla de escalabilidad del módulo de cambios?"
-    
-    La regla de escalado de cambios está habilitada en la pantalla de Parámetro de CITSmart.
-
-    Para habilitar esta regla, proceda de la siguiente manera:
-
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
-    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
-    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"193 - ¿Permite programar los cambios en las reglas de escalamiento definidos? (Ej: S o N - Default 'N')" y seleccione el mismo;
-    4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
-    5. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 !!! Question "¿Cómo habilitar el Portal del Servicios (Smart Portal)?"
     
@@ -326,38 +525,8 @@ Title: Preguntas frecuentes - FAQ
     6. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para que sea habilitado el envío de e-mail referente a las solicitudes de servicio;
     7. Haga clic en el botón Grabar para realizar la operación;
     8. Acceda a los servicios de solicitud, incidente y procedimiento del contrato referente al servicio de negocio Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio e servicio tecnico Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio y asegúrese de que el modelo de correo electrónico que se creó está informado en el campo "Modelo de correo electrónico en la finalización de solicitudes / incidentes";
-    9. Al recibir una notificación por correo electrónico de la solicitud de servicio que ha sido atendida, se mostrará un enlace para realizar la evaluación de la atención. Al hacer clic en el enlace se abrirá una pantalla para la evaluación de la atención.
-    
-!!! Question "¿Cómo habilitar la regla de escalonamiento del módulo de problemas?"
-    
-    Para habilitar esta regla, proceda de la siguiente manera:
-    
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
-    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
-    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"194 - ¿Habilitar el escalonamiento de problema definido en las reglas de escalonamiento?". (Ej.: S o N - Default 'N')" y seleccione el mismo;
-    4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
-    5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
-    
-!!! Question "¿Cómo habilitar la regla de escalabilidad de las solicitudes de servicio?"
-    
-    La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de CITSmart. Para habilitar esta regla, proceda de la siguiente manera:
-
-    1. En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
-    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
-    3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
-    4. Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
-    5. Busque y cambie el parámetro 31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes (Ej: S o N) informando el valor "S";
-    6. Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
-    7. También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
-    
-    - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
-    - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
-    -113: Modelo ID de correo electrónico de escalada automática;
-    - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
-    - 33: URL para acceder al sistema.
-    
-	8. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
-   
+    9. Al recibir una notificación por correo electrónico de la solicitud de servicio que ha sido atendida, se mostrará un enlace para realizar la evaluación de la atención. Al hacer clic en el enlace se abrirá una pantalla para la evaluación de la atención.    
+	
 !!! Question "¿Cómo mejorar el rendimiento de CITSmart Enterprise ITSM?"
     
     El rendimiento del sistema se define como el tiempo que el software tarda en realizar una tarea determinada, ya que este rendimiento es un fuerte atributo de calidad percibido por los usuarios del software.
@@ -393,50 +562,6 @@ Title: Preguntas frecuentes - FAQ
     1. Entornos on-demand: el administrador debe conectarse al servidor de directorio del cliente;
     2. Entorno en la cloud (ofrecido por CITSmart Corporation): el administrador debe habilitar la conexión con el servidor del directorio del cliente.
 
-!!! Question "¿Cómo vincular colaboradores (usuarios) a un grupo?"
-    
-    Hay dos formas de vincular a los colaboradores (usuarios) a los grupos.
-
-    A PARTIR DEL REGISTRO DE GRUPO
-	
-    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html) );
-    2. Se mostrará la pantalla de Registro de Grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
-    3. Haga clic en el icono de agregar del campo Colaboradores, se mostrará la pantalla para búsqueda de colaboradores;
-    4. Realice la búsqueda del colaborador que desea vincular al grupo y seleccione el mismo. Después de eso, el colaborador será vinculado al grupo;
-    5. Después del vínculo, haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
-    
-    A PARTIR DO CADASTRO DE USUARIO
-    
-    1. Acceda a la funcionalidad de Registro de Usuario a través de la navegación en el menú principal. Sitúe el puntero en la opción Registros Generales, Administración de Personal y haga clic en la opción Usuario (ver [Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html));
-    2. Se mostrará la pantalla de Registro de Usuario. Si el usuario ya está registrado en el sistema, realice la búsqueda del usuario y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del usuario determinado;
-    3. Haga clic en el icono Agregar del campo Grupo. Se mostrará la pantalla para la búsqueda de grupos;
-    4. Realice la búsqueda del grupo deseado y seleccione la misma. Después de eso, el usuario será vinculado al grupo;
-    5. Después del vínculo, haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
-
-!!! Question "¿Cómo relacionar el grupo al contrato?"
-    
-    Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
-    
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Coloque el puntero en la opción Parametrización y haga clic en la opción Parámetros CITSmart. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de consulta de parámetros de CITSmart. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
-    2. Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de colaboradores a los contratos (S/N)?" y seleccione. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
-    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el botón Grabar para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
-    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
-    5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
-    6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
-    7. Seleccione los contratos a los que se vinculará el grupo;
-    
-!!! Question "¿Cómo relacionar la unidad al contrato?"
-    
-    Para relacionar unidad al contrato, proceda de acuerdo con las siguientes directrices:
-    
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal opción Parametrización > Parámetros CITSmart. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
-    2. Realice la búsqueda del parámetro "61 - Vincula contratos a unidad" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
-    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de unidad. Hecho esto, haga clic en el botón Grabar para efectuar la operación;
-    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de unidad a través de la navegación en el menú principal Registros Generales > Gestión de personal > Unidad. Se mostrará la pantalla de registro de unidad, mostrando los contratos;
-    5. Si la unidad que desea vincular al contrato ya está registrada en el sistema, realice la búsqueda de la unidad y seleccione la misma. Hecho esto, se mostrará la pantalla de registro de la determinada unidad;
-    6. Seleccione los contratos, a los que se vinculará la unidad;
-    7. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
-    
 !!! Question "¿Cómo reemplazar cada imagen de los logotipos de CITSmart Enterprise ITSM?"
    
     Siempre que sea necesario personalizar correctamente los logotipos de CITSmart Enterprise ITSM, se debe realizar el siguiente procedimiento:
@@ -455,50 +580,18 @@ Title: Preguntas frecuentes - FAQ
 	
     El usuario tiene acceso a las propiedades de la imagen que aparecerá en los informes.
 
-	REGLA: si la imagen personalizada por el usuario no está configurada correctamente en los informes, debe rediseñarse con las proporciones más adecuadas.
-    
-!!! Question "¿Cómo configurar el recurso SOLR?"
-    
-    CONFIGURACIÓN DEL PARÁMETRO
-    
-    1. Para configurar el parámetro vaya a la pantalla Parametrización > Gestión de Conocimiento;
-    2. Busque el parámetro “URL del servidor de SOLR (Ej: http://localhost:8983/solr/collection_name)” ;
-    3. Después de indicar la dirección URL del servidor Solr, un ejemplo de URL sería el siguiente: http://localhost:8983/solr/base_conocimiento .
+	REGLA: si la imagen personalizada por el usuario no está configurada correctamente en los informes, debe rediseñarse con las proporciones más adecuadas.     
 
-    INDEXACIÓN DE LOS CONOCIMIENTOS EXISTENTES
-	
-    1. Para indexar los conocimientos vaya en Sistema > Configuraciones > Gestión de conocimiento (Indexación);
-    2. Si tiene conocimientos indexados, haga clic en "Eliminar la indexación de base de conocimientos";
-    3. Luego haga clic en "Indexar base de conocimiento";
-    4. Si se produce algún error, haga clic en "Actualizar el servidor de índices";
-    5. Después de hacer clic de nuevo en "Indexar base de conocimiento";
-    6. Si se produce algún error, póngase en contacto con el soporte de ITSM.
-    
-!!! Question "¿Para cuál destinatario se hará el envío de notificaciones de EC?"
-    
-    Las notificaciones de IC se enviarán al destinatario definido en la pantalla de Parámetro de CITSmart.
-
-    Para definir el destinatario, proceda de la siguiente manera:
-    
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
-    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart;
-    3. Se mostrará la pantalla para la búsqueda de parámetros;
-    4. Realiza la búsqueda del parámetro "90 - Envío de correos electrónicos de notificación IC (1-Grupo, 2-Propietario, 3-Todos)";
-    5. Seleccione el mismo;
-    6. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación del destinatario (1 - Grupo, 2 - Propietario o 3 - Todos);
-    7. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
-    8. Después de la configuración del parámetro, se realizará el envío de e-mails de notificaciones de IC para el destinatario (grupo, propietario o todos), según se especifica en el valor del parámetro.
-    
-!!! Question "¿Qué es necesario para configurar un IC que está físicamente en la red de la empresa del cliente para ser inventariado por el CITSmart Enterprise ITSM que está en la cloud ofrecida por CITSmart Corporation?"
+!!! Question "¿Qué es necesario para configurar un EC que está físicamente en la red de la empresa del cliente para ser inventariado por el CITSmart Enterprise ITSM que está en la cloud ofrecida por CITSmart Corporation?"
     
     [Original] En la nube, el mongodb y evm / inv quedan en la estructura del cliente, debido a que no es posible conectarse a un rango interno con origen de la nube.
     
-    [Para validación] En este escenario específico, los componentes MongoDB, CITSmart EVM y CITSmart Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el CITSmart (Cloud) se conecte a un rango interno de un cliente.
-    
+    [Para validación] En este escenario específico, los componentes MongoDB, CITSmart EVM y CITSmart Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el CITSmart (Cloud) se conecte a un rango interno de un cliente.    
+
 !!! Question "¿Cuál es el límite de tamaño de archivo para Upload en las funcionalidades con estas característica?"
     
     El tamaño de upload de los datos adjuntos es especificado por el administrador del sisma en el parámetro 278, el tamaño por defecto es de 1GB.
-   
+    
 !!! Question "¿Qué es la tabla Fato del módulo solicitud de servicio y cómo alimentarla?"
     
     La tabla de FATO solicitud de servicio tiene el propósito de recibir informaciones consolidadas, referentes a la solicitud de servicio.
@@ -605,2176 +698,17 @@ Title: Preguntas frecuentes - FAQ
      DATAHORACARGA
     
     Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino Conforme o Banco
-    ```
-
-    ```JavaScript tab="oraclev70.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
-		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
-		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
-		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
-		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
-		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
-		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origemocorrencia.nome origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select nota from pesquisasatisfacao pqs where rownum < 2 and pqs.idsolicitacaoservico = ss.idsolicitacaoservico) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico) as idservico,")
-		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico)) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join table(f_execucao_solicitacao(null,null,null,null)) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > TO_TIMESTAMP(TO_CHAR(CURRENT_TIMESTAMP - interval '1' day, 'YYYY-MM-DD'), 'YYYY-MM-DD HH24:MI:SS') and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), null, 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=CURRENT_TIMESTAMP ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();	
-	```
-	
-	```JavaScript tab="oraclev71.txt"
-
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
-		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
-		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
-		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
-		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
-		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
-		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origemocorrencia.nome origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select nota from pesquisasatisfacao pqs where rownum < 2 and pqs.idsolicitacaoservico = ss.idsolicitacaoservico) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico) as idservico,")
-		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where rownum = 1 and sar.idservico = s.idservico)) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join table(f_execucao_solicitacao(null,null,null,null)) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > ? and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDiaAnterior();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=CURRENT_TIMESTAMP ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();	
-	```
-
-	```JavaScript tab="postgresql.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
-		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
-		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
-		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
-		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
-		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
-		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origematendimento.descricao origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
-		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > (cast(? as timestamp) - interval '1 day') and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDataHoraAtual();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=now() ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();
-	```
-	
-	```JavaScript tab="postgresql70.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
-		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
-		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
-		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
-		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
-		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
-		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origematendimento.descricao origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
-		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > (cast(? as timestamp) - interval '1 day') and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDataHoraAtual();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=now() ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();
-	```
-	
-	```JavaScript tab="postgresql71.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("EXTRACT(DAY FROM ss.datahorasolicitacao) diaabertura,")
-		   .append("EXTRACT(MONTH FROM ss.datahorasolicitacao) mesabertura,")
-		   .append("EXTRACT(YEAR FROM ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("EXTRACT(DAY FROM ss.datahorafim) diafechamento,")
-		   .append("EXTRACT(MONTH FROM ss.datahorafim) mesfechamento,")
-		   .append("EXTRACT(YEAR FROM ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("EXTRACT(DAY FROM ss.datahoralimite) dialimitesla,")
-		   .append("EXTRACT(MONTH FROM ss.datahoralimite) meslimitesla,")
-		   .append("EXTRACT(YEAR FROM ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origemocorrencia.nome origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc limit 1) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico limit 1) as idservico,")
-		   .append("(select srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) limit 1) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > ? and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDiaAnterior();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=now() ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();
-	```
-
-	```JavaScript tab="sqlserver.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("DAY(ss.datahorasolicitacao) diaabertura,")
-		   .append("MONTH(ss.datahorasolicitacao) mesabertura,")
-		   .append("YEAR(ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("DAY(ss.datahorafim) diafechamento,")
-		   .append("MONTH(ss.datahorafim) mesfechamento,")
-		   .append("YEAR(ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("DAY(ss.datahoralimite) dialimitesla,")
-		   .append("MONTH(ss.datahoralimite) meslimitesla,")
-		   .append("YEAR(ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origematendimento.descricao origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("dbo.f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select top 1 nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select top 1 sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) as idservico,")
-		   .append("(select top 1 srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico)) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origematendimento on origematendimento.idorigem = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > ? and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDiaAnterior();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=CURRENT_TIMESTAMP ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();
-	```
-	
-	```JavaScript tab="sqlserver71.txt"
-	var importNames = JavaImporter();
-	importNames.importPackage(Packages.java.util);
-	importNames.importPackage(Packages.java.lang);
-	importNames.importPackage(Packages.java.sql);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-	importNames.importPackage(Packages.br.com.citframework.util);
-	importNames.importPackage(Packages.br.com.citframework.comparacao);
-	importNames.importPackage(Packages.br.com.citframework.integracao);
-	importNames.importPackage(Packages.com.google.gson);
-	importNames.importPackage(Packages.br.com.centralit.bpm.integracao);
-	importNames.importPackage(Packages.br.com.centralit.bpm.dto);
-	importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-	importNames.importPackage(Packages.br.com.citframework.excecao);
-	var print = java.lang.System.out;
-
-	montarSqlSolicitacoes = function() {
-		var sql = new importNames.StringBuilder();
-		sql.append("select ")
-		   .append("distinct ")
-		   .append("ss.idsolicitacaoservico,")
-		   .append("ss.datahorasolicitacao,")
-		   .append("DAY(ss.datahorasolicitacao) diaabertura,")
-		   .append("MONTH(ss.datahorasolicitacao) mesabertura,")
-		   .append("YEAR(ss.datahorasolicitacao) anoabertura,")
-		   .append("ss.datahorafim,")
-		   .append("DAY(ss.datahorafim) diafechamento,")
-		   .append("MONTH(ss.datahorafim) mesfechamento,")
-		   .append("YEAR(ss.datahorafim) anofechamento,")
-		   .append("g.idgrupo idgrupoatual,")
-		   .append("g.sigla grupoatual,")
-		   .append("ss.idprioridade,")
-		   .append("pr.nomeprioridade,")
-		   .append("ss.idservicocontrato,")
-		   .append("sc.idcontrato,")
-		   .append("c.numero numerocontrato,")
-		   .append("s.idtiposervico,")
-		   .append("ts.nometiposervico,")
-		   .append("s.idportfolioservico,")
-		   .append("ps.descportfolioservico,")
-		   .append("ss.idsolicitante,")
-		   .append("empsol.nome solicitante,")
-		   .append("ss.idusuarioresponsavelatual,")
-		   .append("usurespatual.nome tecnicoresponsavel,")
-		   .append("ss.idtipodemandaservico,")
-		   .append("tds.classificacao tiposolicitacao,")
-		   .append("ss.idcausaincidente,")
-		   .append("descricaocausa causa,")
-		   .append("ss.idcategoriasolucao,")
-		   .append("categoriasolucao.descricaocategoriasolucao categoriasolucao,")
-		   .append("ss.idstatus,")
-		   .append("case ss.idstatus when 1 then 'IN_PROGRESS' when 2 then 'SUSPENDED' when 3 then 'CANCELED' when 4 then 'SOLVED' when 5 then 'REOPENED' when 6 then 'CLOSED' when 7 then 'RECLASSIFIED' end as status,")
-		   .append("ss.idacordonivelservico,")
-		   .append("ss.prazohh prazosla_hh,")
-		   .append("ss.prazomm prazosla_mm,")
-		   .append("ss.idcalendario,")
-		   .append("calendario.descricao calendario,")
-		   .append("ss.datahoralimite,")
-		   .append("DAY(ss.datahoralimite) dialimitesla,")
-		   .append("MONTH(ss.datahoralimite) meslimitesla,")
-		   .append("YEAR(ss.datahoralimite) anolimitesla,")
-		   .append("elfluxo.nome tarefaatual,")
-		   .append("c.idcliente,")
-		   .append("clientes.nomefantasia cliente,")
-		   .append("c.idfornecedor,")
-		   .append("fornecedor.nomefantasia fornecedor,")
-		   .append("s.idcategoriaservico,")
-		   .append("categoriaservico.nomecategoriaservico categoriaservico,")
-		   .append("condicaooperacao.idcondicaooperacao,")
-		   .append("condicaooperacao.nomecondicaooperacao,")
-		   .append("ss.idorigem,")
-		   .append("origemocorrencia.nome origemdasolicitacao,")
-		   .append("c.idmoeda,")
-		   .append("moedas.nomemoeda moeda,")
-		   .append("bpm_tipofluxo.idtipofluxo,")
-		   .append("bpm_tipofluxo.nomefluxo fluxo,")
-		   .append("s.idimportancianegocio,")
-		   .append("importancianegocio.nomeimportancianegocio,")
-		   .append("csol.idlocalidade,")
-		   .append("loc.nomelocalidade localidade,")
-		   .append("ss.idunidade,")
-		   .append("unidade.nome,")
-		   .append("ss.urgencia,")
-		   .append("ss.impacto,")
-		   .append("dbo.f_sla_atrasado(ss.idstatus,ss.situacaosla,ss.datahoralimite,ss.datahorasuspensaosla,ss.prazohh,ss.prazomm,ss.tempoatendimentohh,ss.tempoatendimentomm) rupturasla,")
-		   .append("ss.seqreabertura,")
-		   .append("(select case when count(0)>0 then 'S' else 'N' end  from ocorrenciasolicitacao o where o.idsolicitacaoservico = ss.idsolicitacaoservico and o.idoccurrencecategory = 13) houvereclassificacao,")
-		   .append("tempoatendimentohh,")
-		   .append("tempoatendimentomm,")
-		   .append("tempoatrasohh,")
-		   .append("tempoatrasomm,")
-		   .append("(case when upper(s.incidentecritico) = 'S' then 'S' else 'N' end) major,")
-		   .append("(select top 1 nota from pesquisasatisfacao pqs where pqs.idsolicitacaoservico = ss.idsolicitacaoservico order by idpesquisasatisfacao desc) notapesquisasatisfacao,")
-		   .append("(select count(ssqtf.idsolicitacaoservico) from solicitacaoservico ssqtf where ssqtf.idsolicitacaorelacionada = ss.idsolicitacaoservico and ssqtf.idstatus<>3) qtdesolicitacoesfilhas,")
-		   .append("(select count(ssqtsb.idsolicitacaoservico) from solicitacaoservico ssqtsb where ssqtsb.idsolicitacaopai = ss.idsolicitacaoservico and ssqtsb.idstatus<>3) qtdesubsolicitacoes,")
-		   .append("(select count(chss.idbaseconhecimento) from conhecimentosolicitacaoservico chss where chss.idsolicitacaoservico = ss.idsolicitacaoservico) qtdebaseconhecimento,")
-		   .append("(select count(sspr.idproblema) from solicitacaoservicoproblema sspr join problema pr on sspr.idproblema = pr.idproblema where sspr.idsolicitacaoservico = ss.idsolicitacaoservico and pr.idstatus<>8) qtdeproblemas,")
-		   .append("(select count(libss.idliberacao) from liberacaosolicitacaoservico libss join liberacao lib on libss.idliberacao = lib.idliberacao where libss.idsolicitacaoservico = ss.idsolicitacaoservico and lib.idstatus<>8) qtdeliberacao,")
-		   .append("(select count(ssmud.idrequisicaomudanca) from solicitacaoservicomudanca ssmud join requisicaomudanca mud on ssmud.idrequisicaomudanca = mud.idrequisicaomudanca where ssmud.idsolicitacaoservico = ss.idsolicitacaoservico and mud.idstatus<>8) qtdemudancas,")
-		   .append("(select count(icfgss.iditemconfiguracao) from itemcfgsolicitacaoserv icfgss join itemconfiguracao itcfg on icfgss.iditemconfiguracao = itcfg.iditemconfiguracao where icfgss.idsolicitacaoservico = ss.idsolicitacaoservico and (icfgss.datafim is null) and (itcfg.datafim is null)) qtdeics,")
-		   .append("(select count(distinct(apliserv.idaplicacao)) ")
-		    .append("from servicoautorelacionamento sautorel join servico serv on sautorel.idservico = serv.idservico ")
-													.append("join aplicacaoservico apliserv on sautorel.idservicorelacionado = apliserv.idservico ")
-													.append("join aplicacao on apliserv.idaplicacao = aplicacao.idaplicacao ")
-		   .append("where serv.idservico=sc.idservico and (upper(serv.deleted) <> 'Y') and (sautorel.datafim is null) and (aplicacao.datafim is null)) qtdeaplicacoes,")
-		   .append("(select count(prj.idprojeto) from projetos2 prj where prj.idprojeto = ss.idprojeto and (prj.datafim is null)) qtdeprojetos,")
-		   .append("(select count(idcontroleged) from controleged where idtabela=3 and id = ss.idsolicitacaoservico) qtdeanexos,")
-		   .append("(select count(distinct(ativper.idatividadeperiodica)) from atividadeperiodica ativper where ativper.idsolicitacaoservico = ss.idsolicitacaoservico and (ativper.datafim is null)) qtdeagendamentoatividades,")
-		   .append("(select count(ap.idatividadeperiodica) ")
-		    .append("from atividadeperiodica ap join execucaoatividadeperiodica exap on ap.idatividadeperiodica = exap.idatividadeperiodica ")
-		    .append("where ap.idsolicitacaoservico = ss.idsolicitacaoservico and (ap.datafim is null) and (upper(exap.situacao) = 'F') ")
-		   .append(") qtdeagendamentativfinalizadas,")
-		   .append("case when upper(c.tipo) = 'U' then 'S' else 'N' end contratoapoio,")
-		   .append("case when upper(tiposervico) = 'A' then 'S' else 'N' end servicoapoio,")
-		   .append("ss.custoservico,")
-		   .append("case when upper(tds.classificacao) = 'I' then 'S' else 'N' end servicoindisponivel,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (3,4)) qtdeelogios,")
-		   .append("(select count(idpesquisasatisfacao) ")
-		    .append("from pesquisasatisfacao psatis join grausatisfacao graus on psatis.nota= graus.idgrausatisfacao ")
-		    .append("where psatis.idsolicitacaoservico = ss.idsolicitacaoservico and notaavaliacao in (0,1)) qtdequeixas,")
-		   .append("(case when upper(tds.classificacao)='P' then 'S' else 'N' end) procedimentocontinuidade,")
-		   .append("sc.custohoraindisponibilidade custoindisponibilidade,")
-		   .append("(select top 1 sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico) as idservico,")
-		   .append("(select top 1 srv.nomeservico from servico srv where srv.idservico in (select sar.idservicorelacionado from servicoautorelacionamento sar where sar.idservico = s.idservico)) as nomeservico,")
-		   .append("s.idservico idatividade, s.nomeservico nomeatividade ")
-		.append("from solicitacaoservico ss join f_execucao_solicitacao(null,null,null,null) f on ss.idsolicitacaoservico = f.idsolicitacaoservico ")
-									.append("left join bpm_atribuicaofluxo a on f.iditemtrabalho = a.iditemtrabalho ")
-									.append("left join grupo g on a.idgrupo = g.idgrupo ")
-									.append("left join prioridade pr on ss.idprioridade = pr.idprioridade ")
-									.append("left join servicocontrato sc on ss.idservicocontrato = sc.idservicocontrato ")
-									.append("left join contratos c on sc.idcontrato = c.idcontrato ")
-									.append("left join servico s on sc.idservico = s.idservico ")
-									.append("left join tiposervico ts on s.idtiposervico = ts.idtiposervico ")
-									.append("left join portfolioservico ps on s.idportfolioservico = ps.idportfolioservico ")
-									.append("left join empregados empsol on ss.idsolicitante = empsol.idempregado ")
-									.append("left join bpm_itemtrabalhofluxo i on f.iditemtrabalho = i.iditemtrabalho ")
-									.append("left join usuario usurespatual on i.idresponsavelatual = usurespatual.idusuario ")
-									.append("left join tipodemandaservico tds on ss.idtipodemandaservico = tds.idtipodemandaservico ")
-									.append("left join causaincidente on ss.idcausaincidente = causaincidente.idcausaincidente ")
-									.append("left join categoriasolucao on ss.idcategoriasolucao = categoriasolucao.idcategoriasolucao ")
-									.append("left join calendario on ss.idcalendario = calendario.idcalendario ")
-									.append("left join bpm_elementofluxo elfluxo on i.idelemento = elfluxo.idelemento ")
-									.append("left join clientes on c.idcliente = clientes.idcliente ")
-									.append("left join fornecedor on c.idfornecedor = fornecedor.idfornecedor ")
-									.append("left join categoriaservico on s.idcategoriaservico = categoriaservico.idcategoriaservico ")
-									.append("left join condicaooperacao on sc.idcondicaooperacao = condicaooperacao.idcondicaooperacao ")
-									.append("left join origemocorrencia on origemocorrencia.idorigemocorrencia = ss.idorigem ")
-									.append("left join moedas on c.idmoeda = moedas.idmoeda ")
-									.append("left join execucaosolicitacao e on ss.idsolicitacaoservico = e.idsolicitacaoservico ")
-									.append("left join bpm_fluxo on e.idfluxo = bpm_fluxo.idfluxo ")
-									.append("left join bpm_tipofluxo on bpm_fluxo.idtipofluxo = bpm_tipofluxo.idtipofluxo ")
-									.append("left join importancianegocio on s.idimportancianegocio = importancianegocio.idimportancianegocio ")
-									.append("left join contatosolicitacaoservico csol on ss.idcontatosolicitacaoservico = csol.idcontatosolicitacaoservico ")
-									.append("left join localidade loc on csol.idlocalidade = loc.idlocalidade ")
-									.append("left join unidade on ss.idunidade = unidade.idunidade ")
-		.append("where dtlastmodification > ? and a.idtype=1 ")
-		.append("order by ss.idsolicitacaoservico desc");
-		return sql.toString();
-	}
-
-	executaConsultaSolicitacoes = function(){
-		var dataHora = importNames.UtilDatas.getDiaAnterior();
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(dataHora);
-		return jdbcEngine.execSQL(montarSqlSolicitacoes(), parmsUtilizadosNoSQL.toArray(), 0);
-	}
-
-	montarSqlSolicitacaoCadastrada = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("select idsolicitacaoservico from fato_solicitacaoservico where idsolicitacaoservico=?");
-		return sql.toString();
-	}
-
-	solicitacaoCadastrada = function(idSolicitacaoServico){
-		var cadastrada = false;
-		var parmsUtilizadosNoSQL = new importNames.ArrayList();
-		parmsUtilizadosNoSQL.add(idSolicitacaoServico);
-		var consulta = jdbcEngine.execSQL(montarSqlSolicitacaoCadastrada(), parmsUtilizadosNoSQL.toArray(), 0);
-		if((consulta!=null)&&(consulta.size()>0)){
-			var registroSolicitacao = null;
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				if (registroSolicitacao[0]!=null && registroSolicitacao[0]>0){
-					cadastrada = true;
-				}
-			}
-		}
-		return cadastrada;
-	}
-
-	montarSqlInserirDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("INSERT INTO fato_solicitacaoservico(")
-					.append("idsolicitacaoservico, datahorasolicitacao, diaabertura, mesabertura,")
-					.append("anoabertura, datahorafim, diafechamento, mesfechamento, anofechamento,")
-					.append("idgrupoatual, grupoatual, idprioridade, nomeprioridade, idservicocontrato,")
-					.append("idcontrato, numerocontrato, idtiposervico, nometiposervico, idportfolioservico,")
-					.append("descportfolioservico, idsolicitante, solicitante, idusuarioresponsavelatual,")
-					.append("tecnicoresponsavel, idtipodemandaservico, tiposolicitacao, idcausaincidente,")
-					.append("causa, idcategoriasolucao, categoriasolucao, idstatus, status,")
-					.append("idacordonivelservico, prazosla_hh, prazosla_mm, idcalendario,")
-					.append("calendario, datahoralimite, dialimitesla, meslimitesla, anolimitesla,")
-					.append("tarefaatual, idcliente, cliente, idfornecedor, fornecedor, idcategoriaservico,")
-					.append("categoriaservico, idcondicaooperacao, nomecondicaooperacao, idorigem,")
-					.append("origemdasolicitacao, idmoeda, moeda, idtipofluxo, fluxo, idimportancianegocio,")
-					.append("importanciaservicoaonegocio, idlocalidade, localidade, idunidade,")
-					.append("unidade, urgencia, impacto, rupturasla, qtdereaberturas, houvereclassificacao,")
-					.append("tempoatendimentohh, tempoatendimentomm, tempoatrasohh, tempoatrasomm,")
-					.append("major, notapesquisasatisfacao, qtdesolicitacoesfilhas, qtdesubsolicitacoes,")
-					.append("qtdebaseconhecimento, qtdeproblemas, qtdeliberacao, qtdemudancas,")
-					.append("qtdeics, qtdeaplicacoes, qtdeprojetos, qtdeanexos, qtdeagendamentoatividades,")
-					.append("qtdeagendamentativfinalizadas, contratoapoio, servicoapoio, custoservico,")
-					.append("servicoindisponivel, qtdeelogios, qtdequeixas, procedimentocontinuidade,")
-			.append("custoindisponibilidade,idservico,nomeservico,idatividade,nomeatividade) VALUES (")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,")
-					.append("?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?")
-			.append(")");
-		return sql.toString();
-	}
-
-	inserirDados = function(dados){
-		try {
-				jdbcEngine.execUpdate(montarSqlInserirDados(), dados);
-		} catch(err) {
-			print.println("Problema ao inserir dados na tabela Fato de Solicitacao - "+dados[0]);
-			print.println(err);
-		}
-	}
-
-	montarSqlAtualizarDados = function(){
-		var sql = new importNames.StringBuilder();
-		sql.append("UPDATE fato_solicitacaoservico SET ")
-				.append("datahorasolicitacao=?,diaabertura=?,")
-				.append("mesabertura=?,anoabertura=?,datahorafim=?,diafechamento=?,")
-				.append("mesfechamento=?,anofechamento=?,idgrupoatual=?,grupoatual=?,")
-				.append("idprioridade=?,nomeprioridade=?,idservicocontrato=?,idcontrato=?,")
-				.append("numerocontrato=?,idtiposervico=?,nometiposervico=?,idportfolioservico=?,")
-				.append("descportfolioservico=?,idsolicitante=?,solicitante=?,idusuarioresponsavelatual=?,")
-				.append("tecnicoresponsavel=?,idtipodemandaservico=?,tiposolicitacao=?,")
-				.append("idcausaincidente=?,causa=?,idcategoriasolucao=?,categoriasolucao=?,")
-				.append("idstatus=?,status=?,idacordonivelservico=?,prazosla_hh=?,")
-				.append("prazosla_mm=?,idcalendario=?,calendario=?,datahoralimite=?,")
-				.append("dialimitesla=?,meslimitesla=?,anolimitesla=?,tarefaatual=?,")
-				.append("idcliente=?,cliente=?,idfornecedor=?,fornecedor=?,idcategoriaservico=?,")
-				.append("categoriaservico=?,idcondicaooperacao=?,nomecondicaooperacao=?,")
-				.append("idorigem=?,origemdasolicitacao=?,idmoeda=?,moeda=?,idtipofluxo=?,")
-				.append("fluxo=?,idimportancianegocio=?,importanciaservicoaonegocio=?,")
-				.append("idlocalidade=?,localidade=?,idunidade=?,unidade=?,urgencia=?,")
-				.append("impacto=?,rupturasla=?,qtdereaberturas=?,houvereclassificacao=?,")
-				.append("tempoatendimentohh=?,tempoatendimentomm=?,tempoatrasohh=?,")
-				.append("tempoatrasomm=?,major=?,notapesquisasatisfacao=?,qtdesolicitacoesfilhas=?,")
-				.append("qtdesubsolicitacoes=?,qtdebaseconhecimento=?,qtdeproblemas=?,")
-				.append("qtdeliberacao=?,qtdemudancas=?,qtdeics=?,qtdeaplicacoes=?,")
-				.append("qtdeprojetos=?,qtdeanexos=?,qtdeagendamentoatividades=?,qtdeagendamentativfinalizadas=?,")
-				.append("contratoapoio=?,servicoapoio=?,custoservico=?,servicoindisponivel=?,")
-				.append("qtdeelogios=?,qtdequeixas=?,procedimentocontinuidade=?,custoindisponibilidade=?,")
-				.append("idservico=?,nomeservico=?,idatividade=?,nomeatividade=?,")
-				.append("datahoracarga=CURRENT_TIMESTAMP ")
-		   .append("WHERE idsolicitacaoservico = ?");
-		return sql.toString();
-	}
-
-	atualizarDados = function(dados){
-		try {
-				var parmsUtilizadosNoSQL = new importNames.ArrayList();
-				if(dados!=null){
-					for (var i = 1; i < dados.length; i++) {
-						parmsUtilizadosNoSQL.add(dados[i]);
-					}
-				}
-				parmsUtilizadosNoSQL.add(dados[0]);
-				jdbcEngine.execUpdate(montarSqlAtualizarDados(), parmsUtilizadosNoSQL.toArray());
-		} catch(err) {
-			print.println("Problema ao atualizar dados na tabela Fato de Solicitacao - "+dados[0]);
-		}
-	}
-
-	gravarDados = function(dados){
-		if (solicitacaoCadastrada(dados[0])){
-			atualizarDados(dados);
-		} else {
-			inserirDados(dados);
-		}
-	}
-
-	gerarCargaTabelaFatoSolicitacao = function(){
-		var consulta = executaConsultaSolicitacoes();
-		var registroSolicitacao = null;
-		print.println("Inicio Carga na Tabela Fato Solicitacao de Servico:");
-		if((consulta!=null)&&(consulta.size()>0)){
-			for (var itSolicitacao = consulta.iterator(); itSolicitacao.hasNext();){
-				registroSolicitacao = itSolicitacao.next();
-				gravarDados(registroSolicitacao);
-				print.println("Solicitacao: "+registroSolicitacao[0]);
-			}
-		}
-		return "Fim - Carga na Tabela Fato Solicitacao de Servico";
-	}
-
-	" "+gerarCargaTabelaFatoSolicitacao();
-	```
-
    
-	  
-!!! Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
+    **Scripts disponibles para:**
     
-    Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
+    - Oracle SQL
+    
+    - Postgre SQL
+    
+    - SQL Server
+    
+    [Descargar Scripts](/es-es/images/scripts-tabla-fato.zip)    
 
-    Veamos un ejemplo genérico:
-    - El servicio A tiene un flujo de calidad vinculado. Después de solucionarse una solicitud referente al servicio A y avanzar el flujo, el grupo responsable será el de calidad y éste terminará el ciclo de vida de la solicitud en cuestión, pero este grupo no es el grupo que solucionó esta solicitud, sólo aprobó la solución y, ha finalizado la solicitud, por lo que no se presentará en el informe generado por la pantalla de búsqueda de solicitudes e incidentes cuando el filtro "Grupo de soluciones" esté marcado con un grupo específico.
-    - Sin embargo, cuando el filtro "Grupo Solucionador" no está activo, el grupo presentado en el informe o en la encuesta será el grupo correspondiente a la tarea actual de la solicitud, es decir, si la solicitud está cerrada y tiene un flujo de calidad, de calidad como el grupo actual responsable del cierre del ciclo de vida de esta solicitud. Y si la solicitud está en marcha, se presentará el grupo actual responsable de la ejecución de esta solicitud.
-    
-!!! Question "¿Cuál es el significado de cada estado del inventario de EC?"
-    
-    - Inventariado - El inventario logró leer la información del IC y se cerró con éxito;
-    - Ignorado -En la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
-    - Inaccesible - Cuando el servidor encuentra el IC, pero no puede traer la información;
-    - No inventariado - Cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
-    - En ejecución - Durante la lectura del inventario, el IC queda en ese estado.
-    
-!!! Question "¿Cuál es el significado de cada privacidad que un conocimiento puede tener en la base de conocimientos?"
-    
-    - Público: todos los usuarios con acceso en el Portal del Conocimiento poseen acceso, independientemente de si tienen acceso a la carpeta del conocimiento.
-    - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento.
-    - Interno: sólo las personas con permiso en la carpeta del conocimiento pueden visualizar.
-  
-!!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
-
-    Para ver un conocimiento, abra uno en la interfaz de gestión del conocimiento, haga clic en editar, en la pantalla de información del conocimiento, después haga clic en "Versionar". Es posible también "Archivar la versión anterior" del conocimiento.
-  
 !!! Question "¿Cuáles son los permisos necesarios en la carpeta de destino del backup de la tabla Logdados?"
     
     Los permisos en la carpeta deben ser de lectura y escritura para el usuario que utiliza JBoss.
@@ -2785,8 +719,8 @@ Title: Preguntas frecuentes - FAQ
     
     1. En la activación de la aplicación, generalmente siguiendo el procedimiento de actualización de la versión del producto;
     2. Cuando el usuario inicia sesión (el acceso al sistema con su login y contraseña), en ese momento el sistema automáticamente comprueba la autenticación y el permiso del usuario;
-    3. En la función Configuración de LDAP, cuando el usuario hace clic en la opción Sincronizar.
-    
+    3. En la función Configuración de LDAP, cuando el usuario hace clic en la opción Sincronizar.    
+
 !!! Question "¿Cuándo se produce la limpieza de los datos de la tabla Logdatos?"
     
     La rutina de copia de seguridad (backup) de la tabla de registros LogDados elimina los datos de la tabla y se guarda en el archivo, es decir, la tabla se queda limpia después del procesamiento.
@@ -2815,21 +749,33 @@ Title: Preguntas frecuentes - FAQ
     
     No se trata de un error, el campo de grupo de solucionador se completa sólo cuando se termina la solicitud, esto hace que sólo traiga resultados para las situaciones del tipo "Cerrada", incompatible con lo que se está pidiendo/informando en los filtros.
     
-!!! Question "¿Por qué la numeración de la solicitud de servicio no siempre seguirá un orden secuencial riguroso/perfecto en la pantalla de solicitud de servicio o en algunos Informes?"
-    
-    Tanto la pantalla de Solicitud de Servicios como en algunos informes (tales como "Calidad de Atención - SLA"), la ordenación del número de solicitudes sigue un orden secuencial creciente, excepto cuando:
-    
-    1. Los informes agrupan los datos por algún criterio especial (por ejemplo, por el plazo de SLA, que es lo que sucede en el caso del informe "Calidad de Atención - SLA");
-    2. Cuando el recurso denominado Sequence Block es impactado por un factor externo, esto ocurre si:
-    - Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
-    - El entorno se agrupa.
-    
 !!! Question "¿El archivo de backup se sobrescribe o tendrá un archivo para cada día?"
     
     Si su rutina es una copia de seguridad al día, se creará un archivo por día, que contiene en el nombre la fecha de su archivo.
-    
-!!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
-    
-    En la interfaz de la Gestión de Tickets, específicamente en el elemento "Auditoría", al intentar configurar la auditoría de un ticket abierto (definir las fechas de inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará el mensaje de "Fecha Inválida ". Esto porque la funcionalidad necesita que el idioma definido en el sistema y en el explorador utilizado sean idénticos.  
-    Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador.  
 
+!!! Question "¿Por qué mi instancia con SGBD SQL Server presenta lentitud en la pantalla de lista de tickets?"
+   
+    En el archivo standalone.xml es necesario agregar a la URL de acceso, a la base de datos de SQL Server, la siguiente configuración:
+    ;sendStringParametersAsUnicode=false
+    
+    - Ejemplo:
+    
+    ```java
+    jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
+    ```
+    Inserte la configuración en todos los dataSources.
+   
+!!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
+
+    Este tipo de cambio se realiza de forma manual por el administrador del sistema directamente dentro del archivo web.xml.
+    Sólo tienes que introducir el tiempo deseado (en minutos) en la sesión <session-timeout>.
+    La instalación del producto deja como valor predeterminado el valor 30.
+    
+    - Ejemplo:
+    
+    ```java
+    <session-config>
+        <session-timeout>15</session-timeout>
+    </session-config>
+    ```
+    
