@@ -7,7 +7,7 @@ Esta funcionalidade tem por objetivo permitir editar as informações da conta d
 Antes de começar
 --------------------
 
-Para a editar o perfil é necessário estar autenticado.
+Para editar o perfil é necessário estar autenticado.
 
 Procedimento
 ----------------
