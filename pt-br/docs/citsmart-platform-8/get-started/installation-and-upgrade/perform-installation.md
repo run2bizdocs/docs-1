@@ -423,14 +423,14 @@ Caso possua um certificado é importante utilizá-lo.
 
 1. Conectar no servidor do Wildfly.
     
-    Criando aliás novo com DNS (exemplo itsm.citsmart.com): 
+    Criando alias novo com DNS (exemplo itsm.citsmart.com): 
     
     
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456 
     ```
     
-    Criando aliás com IP do servidor do Jboss (exemplo 192.168.0.40): 
+    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
     
     ```
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456 
