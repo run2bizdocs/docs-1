@@ -504,58 +504,58 @@ Title: Preguntas frecuentes - FAQ
     auditoría.
 
 
-!!! Question "Como habilitar o Portal de Serviços (Smart Portal)?"
+!!! Question "¿Cómo habilitar el Portal del Servicios (Smart Portal)?"
     
-    Para que os usuários tenham acesso ao Portal ou ao Portal Smart, deve-se habilitar o mesmo da seguinte forma:
+    Para que los usuarios tengan acceso al Portal o al Portal Smart, se debe habilitar el mismo de la siguiente forma:
     
-    1. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
-    2. Realize a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do Citsmart?" e selecione o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
-    3. No campo valor, informe o valor "S" para habilitar o portal como tela inicial. Feito isso, clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
-    4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart; Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart; Hecho esto, se mostrará la pantalla para la búsqueda de parámetros
+    2. Realiza la búsqueda del parámetro "46 - ¿Habilitar Portal como Pantalla de inicio de CITSmart?" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    3. En el campo valor, introduzca el valor "S" para habilitar el portal como pantalla de inicio. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    4. Después de configurar el parámetro, al iniciar sesión en el sistema, se mostrará como pantalla inicial el Portal.
 
-!!! Question "Como habilitar a pesquisa de satisfação?"
+!!! Question "¿Cómo habilitar la encuesta de satisfacción?"
     
-    A pesquisa de satisfação é a avaliação do atendimento da solicitação feita através da notificação por e-mail.
-    
-    Para habilitar essa pesquisa de satisfação, proceda conforme orientações abaixo:
-    
-    1. Crie o modelo de e-mail (o modelo de e-mail deve conter a seguinte palavra-chave: ${LINKPESQUISASATISFACAO})
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Parametrização > Parâmetros Citsmart;
-    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
-    4. Realize a pesquisa do parâmetro "31 - Envia e-mail na execução dos fluxos de solicitações/incidentes";
-    5. Selecione o mesmo;
-    6. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o valor "S" para que seja habilitado o envio de e-mail referente as solicitações de serviço;
-    7. Clique no botão "Gravar" para efetuar a operação;
-    8. Acesse os serviços de requisição, incidente e procedimento do contrato referente ao serviço de negócio Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e serviço técnico Gerência de Portfólio e Catálogo > Gerenciamento de Portfólio e Catálogo > Menu Apoio > Avançar Portfólio > Catálogo de Serviços > Avançar Serviço e verifique se o modelo de e-mail que foi criado está informado no campo "Modelo de E-mail na finalização de Solicitações/Incidentes";
-    9. Ao receber uma notificação por e-mail da solicitação de serviço que foi atendida, será exibido um link para realizar a avaliação do atendimento. Ao clicar no link será aberta uma tela para avaliação do atendimento.
+    La encuesta de satisfacción es la evaluación de la atención de la solicitud hecha a través de la notificación por e-mail.
 
-!!! Question "Como melhorar o desempenho do CITSmart Enterprise ITSM?"
+    Para habilitar esta encuesta de satisfacción, proceda conforme a las siguientes directrices:
     
-    O desempenho do sistema é definido como o tempo que o software demora para realizar uma determinada tarefa, visto que esse desempenho é um forte atributo de qualidade percebido pelos usuários do software.
+    1. Cree la plantilla de correo electrónico (la plantilla de correo debe contener la siguiente palabra clave: $ {LINKPESQUISASATISFACAO});
+    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
+    3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    4. Realiza la búsqueda del parámetro "31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes";
+    5. Seleccione el mismo;
+    6. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para que sea habilitado el envío de e-mail referente a las solicitudes de servicio;
+    7. Haga clic en el botón Grabar para realizar la operación;
+    8. Acceda a los servicios de solicitud, incidente y procedimiento del contrato referente al servicio de negocio Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio e servicio tecnico Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio y asegúrese de que el modelo de correo electrónico que se creó está informado en el campo "Modelo de correo electrónico en la finalización de solicitudes / incidentes";
+    9. Al recibir una notificación por correo electrónico de la solicitud de servicio que ha sido atendida, se mostrará un enlace para realizar la evaluación de la atención. Al hacer clic en el enlace se abrirá una pantalla para la evaluación de la atención.
+
+!!! Question "¿Cómo mejorar el rendimiento de CITSmart Enterprise ITSM?"
     
-    Existe a capacidade de o sistema funcionar com mais de uma instância, para isso, será necessário utilizar o arquivo de configuração (citsmart.cfg), onde é possível ativar ou inativar rotinas.
-    
-    Para utilizar essa capacidade, deverá existir o arquivo citsmart.cfg no diretório:
+    El rendimiento del sistema se define como el tiempo que el software tarda en realizar una tarea determinada, ya que este rendimiento es un fuerte atributo de calidad percibido por los usuarios del software.
+
+    Existe la capacidad del sistema para funcionar con más de una instancia, para ello, será necesario utilizar el archivo de configuración (citsmart.cfg), donde es posible activar o inactivar rutinas.
+
+    Para utilizar esta capacidad, debe existir el archivo citsmart.cfg en el directorio:
     ```sh
     \jboss\standalone\configuration\ (quando o Jboss sobe como uma única instância)
     \jboss\domain\configuration\ (quando é utilizado cluster, tem domains e hosts)
     ```
    
-    RULE: where $ {value} is replaced by the corresponding values.
+    REGLA: donde está $ {valor} reemplaza por los valores correspondientes.
 	
-    1. START_MODE_RULES=${valor} (Este parâmetro define se processa as regras de escalonamento. Informe o valor TRUE para ativar ou FALSE para desativar).
-    2. START_MODE_ITSM=${valor} (Este parâmetro define se apresenta a interface do ITSM. Informe o valor TRUE ou FALSE. Se estiver definido com o valor FALSE, não irá permitir abrir as funcionalidades de incidentes, etc. (do ITSM)).
-    3. START_MONITORING_ASSETS=${valor} (Este parâmetro define se o monitoramento de ativos será ativado. Informe o valor TRUE para ativar ou FALSE para desativar).
-    4. QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parâmetro define a quantidade de itens da tabela logdados que serão feitos backup. Informe a quantidade de itens, ex.: 1000).
-    5. Os parâmetros abaixo quando não ativados faz com que o sistema suba com as threads desativadas para melhorar o desempenho do sistema. É necessário configurar esses parâmetros antes da inicialização do Jboss para o funcionamento dos mesmos.
-    6. START_MONITORA_INCIDENTES=${valor} (Este parâmetro define se desativa o monitoramento de incidentes. Informe o valor TRUE ativar ou FALSE desativar).
-    7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar ou FALSE desativar).
-    8. O uso dos parâmetros abaixo é opcional. Os mesmos fazem a separação do pool de conexão principal com o pool de execução do fluxo, inventário e relatório.
-    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do fluxo. Informe o nome do datasource, ex. java:/jdbc/citsmartFluxo).
-    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do inventário. Informe o nome do datasource, ex.: java:/jdbc/citsmart_inventory).
-    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource dos relatórios. Informe o nome do datasource, ex.: java:/jdbc/citsmart_reports).
-    9. O parâmetro abaixo separa o processamento da rotina de eventos BPM em um pool de thread separado do pool de thread principal do sistema, para aliviar no uso de recursos do banco de dados e do servidor.
-    - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informe o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
+    1. START_MODE_RULES=${valor} (Este parámetro define si procesa las reglas de escalado. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    2. START_MODE_ITSM=${valor} (Este parámetro define si se muestra la interfaz de ITSM. Introduzca el valor TRUE o FALSE. Si se establece con el valor FALSE, no permitirá abrir las características de incidentes, etc. (del ITSM);
+    3. START_MONITORING_ASSETS=${valor}(Este parámetro define si el monitoreo de activos se activará. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    4. QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parámetro define la cantidad de elementos de la tabla eliminados que se harán copia de seguridad. Introduzca la cantidad de elementos, por ejemplo: 1000);
+    5. Los parámetros siguientes cuando no se activan hacen que el sistema suba con los subprocesos deshabilitados para mejorar el rendimiento del sistema. Es necesario configurar estos parámetros antes del inicio de Jboss para el funcionamiento de los mismos;
+    6. START_MONITORA_INCIDENTES=${valor} (Este parámetro define si desactiva el seguimiento de incidentes. Indique el valor TRUE activar o FALSE desactivar);
+    7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
+    8. El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
+    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
+    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del inventario. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_inventory).
+    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_reports).
+    9. El parámetro siguiente separa el procesamiento de la rutina de eventos BPM en un grupo de subprocesos independientes del grupo de subprocesos principal del sistema para aliviar el uso de recursos de base de datos y servidor.
+    - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartBpmEventos).
 
 !!! Question "Como integrar o AD da empresa do cliente no CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
     
@@ -564,41 +564,43 @@ Title: Preguntas frecuentes - FAQ
     1. Em ambientes on-demand: há necessidade de conexão ao servidor de diretórios do cliente.
     2. Em ambiente cloud (ofertado pela CITSmart Corporation): há necessidade de habilitar a conexão ao servidor de diretórios do cliente.
 
-!!! Question "Como substituir cada imagem das logomarcas do CITSmart ITSM Enterprise?"
+!!! Question "¿Cómo reemplazar cada imagen de los logotipos de CITSmart Enterprise ITSM?"
+   
+    Siempre que sea necesario personalizar correctamente los logotipos de CITSmart Enterprise ITSM, se debe realizar el siguiente procedimiento:
     
-    Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
-    
-    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
-      - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
-      - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
-      - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
-      - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
+    1. Acceder al camino: Sistema > Configuración > Configuración de ambiente; aparecerá tres espacios para subir imágenes:
+      -  Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
+      - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
+      - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
+      - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
 	
-    2. Realizar upload (podem ser imagens diferentes).
+    2. Realizar upload (pueden ser imágenes diferentes).
     
-	REGRA: caso o usuário não escolha uma nova logo, a logo default será a do CITSmart. Por questão de direitos autorais, esta mudança de logo é permitida somente na versão Enterprise do produto CITSmart ITSM.
+	REGLA: si el usuario no elige una nueva insignia, el logo predeterminado será el del CITSmart. Por motivos de derechos de autor, este cambio de logo sólo se permite en la versión Enterprise del producto CITSmart ITSM.
 
-    CONFIGURAÇÃO MAIS PRECISA DA IMAGEM PARA RELATÓRIOS JASPER
+    CONFIGURACIÓN MÁS PRECISA DE LA IMAGEN PARA INFORMES JASPER
 	
-    O usuário tem acesso às propriedades da imagem que aparecerá nos relatórios.
+    El usuario tiene acceso a las propiedades de la imagen que aparecerá en los informes.
 
-	REGRA: caso a imagem personalizada pelo usuário não esteja configurada corretamente nos relatórios, ela deve ser redesenhada com proporções mais adequadas.
+	REGLA: si la imagen personalizada por el usuario no está configurada correctamente en los informes, debe rediseñarse con las proporciones más adecuadas.
 
-!!! Question "O que é preciso para configurar um IC que está fisicamente na rede da empresa do cliente para ser inventariado pelo CITSmart Enterprise ITSM que está na cloud ofertada pela CITSmart Corporation?"
+!!! Question "¿Qué es necesario para configurar un EC que está físicamente en la red de la empresa del cliente para ser inventariado por el CITSmart Enterprise ITSM que está en la cloud ofrecida por CITSmart Corporation?"
     
-    [Original] Na cloud, o mongodb e evm/inv ficam na estrutura do cliente, devido não ser possível se conectar em um range interno com origem da cloud.
+    [Original] En la nube, el mongodb y evm / inv quedan en la estructura del cliente, debido a que no es posible conectarse a un rango interno con origen de la nube.
     
-    [Para validação] Neste cenário específico, os componentes MongoDB, CITSmart EVM e CITSmart Inventory devem ser instalados e configurados dentro da estrutura de rede do cliente, pois não é possível ao CITSmart Enterprise ITSM (Cloud) se conectar a um range interno de um cliente.
+    [Para validación] En este escenario específico, los componentes MongoDB, CITSmart EVM y CITSmart Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el CITSmart (Cloud) se conecte a un rango interno de un cliente.
 
-!!! Question "Qual o limite de tamanho de arquivo para upload nas funcionalidades?"
+!!! Question "¿Cuál es el límite de tamaño de archivo para Upload en las funcionalidades con estas característica?"
     
-    O tamanho de upload dos anexos é especificado pelo administrador do sistema no parâmetro 278 o tamanho default é de 1GB.
+    El tamaño de upload de los datos adjuntos es especificado por el administrador del sisma en el parámetro 278, el tamaño por defecto es de 1GB.
 
-!!! Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
- 
-    A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
-      Tais como: 
-        IDSOLICITACAOSERVICO
+!!! Question "¿Qué es la tabla Fato del módulo solicitud de servicio y cómo alimentarla?"
+    
+    La tabla de FATO solicitud de servicio tiene el propósito de recibir informaciones consolidadas, referentes a la solicitud de servicio.
+
+    Tales como: 
+    
+              IDSOLICITACAOSERVICO
 	      DATAHORASOLICITACAO
 	      DIAABERTURA
 	      MESABERTURA
@@ -697,9 +699,9 @@ Title: Preguntas frecuentes - FAQ
 	      NOMEATIVIDADE
 	      DATAHORACARGA
 	      
-    Estas informações são alimentadas através da rotina de processamento batch do CITSmart, rodando os scripts Rhino Conforme o Banco
-
-    **Scripts disponíveis para:**
+    Esta información se alimenta a través de la rutina de procesamiento por lotes del CITSmart, ejecutando los scripts Rhino según el Banco
+    
+    **Scripts disponibles para:**
     
     - Oracle SQL
     
@@ -709,72 +711,47 @@ Title: Preguntas frecuentes - FAQ
 	
     [Baixar Scripts](/pt-br/images/scripts-tabla-fato.zip)
 
-!!! Question "Quais as permissões necessárias na pasta de destino do backup da tabela Logdados?"
+!!! Question "¿Cuáles son los permisos necesarios en la carpeta de destino del backup de la tabla Logdados?"
     
-    A permissões na pasta devem ser de leitura e gravação para o usuário que o JBoss utiliza.
+    Los permisos en la carpeta deben ser de lectura y escritura para el usuario que utiliza JBoss.
 
-!!! Question "Quando ocorre a sincronização dos dados com o LDAP?"
+!!! Question "¿Cuándo ocurre la sincronización de los datos con el LDAP?"
     
-    O sistema sincroniza os dados das credenciais de seus usuários com o LDAP em três situações distintas:
+    El sistema sincroniza los datos de las credenciales de sus usuarios con LDAP en tres situaciones distintas:
     
-    1. Na ativação da aplicação, geralmente em sequência ao procedimento de atualização de versão do produto;
-    2. Quando o usuário faz o logon (o acesso ao sistema com seu login e senha), nesse momento o sistema automaticamente verifica a autenticação e permissão do usuário;
-    3. Na funcionalidade Configuração de LDAP, quando o usuário clica na opção 'Sincronizar'.
+    1. En la activación de la aplicación, generalmente siguiendo el procedimiento de actualización de la versión del producto;
+    2. Cuando el usuario inicia sesión (el acceso al sistema con su login y contraseña), en ese momento el sistema automáticamente comprueba la autenticación y el permiso del usuario;
+    3. En la función Configuración de LDAP, cuando el usuario hace clic en la opción Sincronizar.
 
-!!! Question "Quando ocorre a limpeza dos dados da tabela Logdados?"
+!!! Question "¿Cuándo se produce la limpieza de los datos de la tabla Logdatos?"
     
-    A rotina de backup da tabela LogDados retira os dados da tabela e salva em arquivo, ou seja, a tabela fica limpa após o processamento.
+    La rutina de copia de seguridad (backup) de la tabla de registros LogDados elimina los datos de la tabla y se guarda en el archivo, es decir, la tabla se queda limpia después del procesamiento.
 
-!!! Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
+!!! Question "¿Por qué los horarios creados por la herramienta son diferentes de la hora actual?"
     
-    CENÁRIO  
-    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) a 3 (três) horas de atraso ou adiantamento.
+    ESCENARIO
+    1. Al crear un ticket, la hora es diferente a la hora real, alternando entre 1 (una) a 3 (tres) horas de retraso o antelación.
 
-    O QUE CHECAR  
-    1.  Arquivo de configuração do Banco Postgresql:  
-        - Postgresql.conf
-        - timezone = 'BRAZIL/EAST'  
-    2.  No container cloud:  
-        - Setting timezone on the operating system.  
-    3.  Configuração do TimeZone no JRE: 
-        -  https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+    QUÉ VERIFICAR
+    1. Archivo de configuración del Banco Postgresql:
+     - Postgresql.conf
+     - timezone = 'BRAZIL/EAST'    
+    2. En el container cloud:
+     - Setting timezone on the operating system.    
+    3.Configuración de TimeZone en JRE: 
+     - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
 
-!!! Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
+!!! Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
     
-    Em alguns relatórios como por exemplo o "Relatório Incidentes / Solicitações de Serviços - Detalhado", tanto no formato pdf como no xls, pode existir sim, a mesma solicitação mais de uma vez, contudo são detalhamentos distintos porque trata de cada etapa da solicitação, então cada vez que ela "repete" é porque muda-se a tarefa, ou o responsável, ou a fase, ou a situação, ou o grupo solucionador ou a data hora final de atendimento.
+    En algunos informes como por ejemplo el "Informe Incidentes/Solicitudes de Servicios - Detallado", tanto en formato pdf como en el xls, puede existir sí la misma solicitud más de una vez, sin embargo son informaciones distintas porque trata de cada etapa de la solicitud, entonces cada vez que ella "repite" es porque cambia la tarea, o el responsable, o la fase, o la situación, o el grupo solucionador o la fecha hora final de atención.
     
-    Já em outros relatórios, tais como o "Relatório Incidentes / Solicitações de Serviços" não há detalhamento da solicitação de acordo com as atividades e por isso não é mostrada a solicitação mais de uma vez. 
+    Ya en otros informes, tales como el "Informe Incidentes/Solicitudes de Servicios" no hay detalle de la solicitud de acuerdo con las actividades y por eso no se muestra la solicitud más de una vez.
 
-!!! Question "Por que o resultado é "Relatório Vazio" ao gerar o relatorioControlePercentualQuantitativoSla selecionando no filtro a situação "em Andamento" e o "grupo solucionador"?"
-   
-    Não se trata de um erro, o campo de grupo solucionador é preenchido somente quando a solicitação é encerrada, isso faz com que só traga resultados para as situações do tipo "Fechada", incompatível com o que se está pedindo/informando nos filtros.
+!!! Question "¿Por qué el resultado es "Informe Vacío" al generar el informe control porcentual cuantitativo SLA seleccionando en el filtro la situación "en curso" y el "grupo solucionador"?"
+    
+    No se trata de un error, el campo de grupo de solucionador se completa sólo cuando se termina la solicitud, esto hace que sólo traiga resultados para las situaciones del tipo "Cerrada", incompatible con lo que se está pidiendo/informando en los filtros.
 
-!!! Question "O arquivo de backup será sobrescrito ou terá um arquivo para cada dia?"
+!!! Question "¿El archivo de backup se sobrescribe o tendrá un archivo para cada día?"
     
-    Se a sua rotina for um backup por dia, vai ser criado um arquivo por dia, contendo no nome a data do respectivo arquivo.
+    Si su rutina es una copia de seguridad al día, se creará un archivo por día, que contiene en el nombre la fecha de su archivo.
     
-!!! Question "Por que minha instância com SGBD SQL Server apresenta lentidão na tela de listagem de tickets?"
-
-    No arquivo standalone.xml é necessário adicionar à URL de acesso ao banco de dados SQL Server a seguinte configuração:
-    ;sendStringParametersAsUnicode=false
-    
-    - Exemplo:
-    
-    ```java
-    jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
-    ```
-   Inserir a configuração em todos os dataSources.
-
-!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
-    
-    Este tipo de alteração é feita de forma manual pelo Administrador do sistema diretamente dentro do arquivo web.xml.
-    Basta digitar o tempo desejado (em minutos) na sessão <session-timeout>.
-    A instalação do produto deixa como default o valor 30.
-    
-    - Exemplo:
-    
-    ```java
-    <session-config>
-        <session-timeout>15</session-timeout>
-    </session-config>
-    ```
