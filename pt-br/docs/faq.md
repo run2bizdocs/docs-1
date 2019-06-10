@@ -745,7 +745,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     ```java
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
     ```
-   Inserir a configuração em todos os dataSources.
+    Inserir a configuração em todos os dataSources.
 
 !!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
     
