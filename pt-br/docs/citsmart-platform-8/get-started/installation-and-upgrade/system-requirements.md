@@ -44,7 +44,8 @@ Para instalar Apache SOLR, é recomendado seguir a seguinte configuração:
 | **Disco**   | 80 GB   |
 
 !!! tip
-    Os serviços **SOLR** e **MongoDB** podem ser instalados no mesmo servidor que o aplicativo CITSmart. Recomendamos para ambientes de produção que você separe o servidor de banco de dados do servidor de aplicativos.
+
+    Os serviços **SOLR** e **MongoDB** podem ser instalados no mesmo servidor que o aplicativo CITSmart. Recomenda-se para ambientes de produção a separação do servidor de banco de dados do servidor de aplicativos.
    
 !!! tip "About"
 
