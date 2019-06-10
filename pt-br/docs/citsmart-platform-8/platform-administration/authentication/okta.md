@@ -126,9 +126,9 @@ Procedimento
 O que fazer a seguir
 ----------------------
 
-Concluído a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração. São eles:
+Concluída a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração. São eles:
 
- - Como o okta não possui tela de logout, no parâmetro 377 do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
+ - Como o Okta não possui tela de logout, no parâmetro 377 do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
  
  - O parâmetro 445 (Nome do grupo Administrador no Okta) permite escolher o grupo administrador na solução Okta. Se o usuário pertencer a este grupo escolhido, terá o perfil de acesso definido como administrador. Se não for este caso, o perfil de acesso será o perfil padrão definido pelo parâmetro 39.
  
