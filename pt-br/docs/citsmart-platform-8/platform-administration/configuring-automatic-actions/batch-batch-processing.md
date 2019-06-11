@@ -59,5 +59,5 @@ Rotinas Batch
     <b>Updated:</b>01/18/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.txt
-[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.txt
+[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
