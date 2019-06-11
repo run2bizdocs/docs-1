@@ -35,13 +35,14 @@ Procedimiento
 Rutinas Batch
 -------------
 
--   Volver a la hora del servidor (descargar script adjunto);
+-   Volver a la hora del servidor
 
     -   Tipo: RhinoScript
     -   Contenido:
+    
         [Descargar Script][2]
 
--   Hacer la lectura de correo electrónico (descargar script adjunto).
+-   Hacer la lectura de correo electrónico
 
     -   Tipo: Clase Java
     -   Contenido:
