@@ -34,20 +34,22 @@ Procedure
 Batch Routines
 ------------------
 
--   Return server time (download script attached);
+-   Return server time
 
     -   Type: RhinoScript
+    -   Content:
+    
+        [Download Script][2]
 
--   Perform e-mail reading (download script attached).
+-   Perform e-mail reading
 
     -   Type: Java class
+    -   Content:
+    
+    ```java
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
-
-Attachment
-----------
-[Download-Verify email routine][1]
-
-[Download-Return server time routine][2]
 
 !!! tip "About"
 
@@ -56,5 +58,5 @@ Attachment
 
 
 
-[1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.docx
-[2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine-return-server-time.docx
+[1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.txt
+[2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine-return-server-time.txt
