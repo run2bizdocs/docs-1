@@ -1,6 +1,6 @@
 title: Notification through delegated email ticket
 Description: Implement the way of sending email from a delegated ticket, so the delegated tickets will have an email template to send to the technician. 
-#Notification through delegated email ticket
+# Notification through delegated email ticket
 
 This document allows to implement the way of sending email from a delegated ticket, 
 so the delegated tickets will have an email template to send to the technician.
