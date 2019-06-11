@@ -39,10 +39,16 @@ Rotinas Batch
 -   Retornar horário do Servidor (baixar script em anexo);
 
     -   Tipo: RhinoScript
+    -   Conteúdo:
+    ```html
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 -   Realizar leitura de e-mail (baixar script em anexo).
 
     -   Tipo: Classe Java
+    -   Conteúdo:
+        [Baixar Script][2]
 
 
 Anexo
