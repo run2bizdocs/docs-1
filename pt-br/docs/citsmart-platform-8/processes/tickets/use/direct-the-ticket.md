@@ -1,6 +1,6 @@
 title:  Direcionar o ticket
 Description: A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
-#Direcionar o ticket
+# Direcionar o ticket
 A funcionalidade permite direcionar o atendimento da solicitação/incidente para um grupo desejado.
 
 Antes de começar
