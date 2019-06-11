@@ -5,6 +5,14 @@ Description: Intended to register the batch processing, that can be used in othe
 This functionality is intended to register the batch processing, that can be
 used in other system routines.
 
+Routines like:
+
+   - Email verification
+   
+   - Server time verification
+   
+   - Automatic ticket distribution with workload balancing 
+
 Procedure
 -------------
 
@@ -15,6 +23,11 @@ Procedure
 3.  Complete the fields available (description, type [Java class, RhinoScript,
     SQL]; status; cron expression that defines the routine execution time and
     the context of the routine to be executed in the system);
+    
+    Example of "Clase Java" content:
+    ```html
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 4.  Click on "Save".
 
@@ -32,9 +45,9 @@ Batch Routines
 
 Attachment
 ----------
-[Download-Verify email][1]
+[Download-Verify email routine][1]
 
-[Download-Return server time][2]
+[Download-Return server time routine][2]
 
 !!! tip "About"
 

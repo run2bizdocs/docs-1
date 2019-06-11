@@ -27,7 +27,7 @@ Procedimento
     ser executada na ferramenta);
     
     Exemplo de conteúdo "Clase Java":
-    ```html
+    ```java
     br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
 
@@ -36,20 +36,22 @@ Procedimento
 Rotinas Batch
 -----------------
 
--   Retornar horário do Servidor (baixar script em anexo);
+-   Retornar horário do Servidor
 
     -   Tipo: RhinoScript
+    -   Conteúdo:
+    
+        [Baixar Script][2]
 
--   Realizar leitura de e-mail (baixar script em anexo).
+-   Realizar leitura de e-mail
 
     -   Tipo: Classe Java
+    -   Conteúdo:
+    
+    ```java
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
-
-Anexo
------
-[Download - Rotina verificar email][1]
-
-[Download - Rotina retorna hora servidor][2]
 
 !!! tip "About"
 
@@ -57,5 +59,5 @@ Anexo
     <b>Updated:</b>01/18/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.docx
-[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
+[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.txt
+[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.txt
