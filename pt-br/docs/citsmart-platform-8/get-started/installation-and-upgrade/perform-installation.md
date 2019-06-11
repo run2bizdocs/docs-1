@@ -406,6 +406,113 @@ modulo ao standalone-full-ha.xml
     
         Não esquecer de alterar o dono dos arquivos e diretórios para o usuário CITSmart.
 
+## Configuração do Quartz
+
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema.
+
+### Instalação Standalone (independente de banco de dados):
+
+```java
+#===============================================================
+#Configure Main Scheduler Properties
+#===============================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#===============================================================
+#Configure ThreadPool
+#===============================================================
+org.quartz.threadPool.threadCount =  5
+org.quartz.threadPool.threadPriority = 5
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+#===============================================================
+#Configure JobStore
+#===============================================================
+org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
+```
+
+### Instalação Cluster - Banco de Dados Postgres:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+### Instalação Cluster - Banco de Dados Microsoft SQL Server:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+### Instalação Cluster - Banco de Dados Oracle:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
 
 ## Criação de diretórios para instalação
 
