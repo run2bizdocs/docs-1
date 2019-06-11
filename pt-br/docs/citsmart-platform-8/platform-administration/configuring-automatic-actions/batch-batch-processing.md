@@ -40,15 +40,16 @@ Rotinas Batch
 
     -   Tipo: RhinoScript
     -   Conteúdo:
-    ```html
-    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
-    ```
+    
+        [Baixar Script][2]
 
 -   Realizar leitura de e-mail (baixar script em anexo).
 
     -   Tipo: Classe Java
     -   Conteúdo:
-        [Baixar Script][2]
+    ```html
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 
 !!! tip "About"
