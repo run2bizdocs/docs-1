@@ -172,6 +172,7 @@ CITSmart.
 /system-property=rhino.scripts.directory:add(value="")
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength" (value="100")
+/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
 ```
 
 ### Configuração dos Datasources
