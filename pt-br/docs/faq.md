@@ -103,11 +103,11 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
     7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
-      * 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
-      * 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
-      * 113: ID do modelo de e-mail para escalação automática;
-      * 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
-      * 33: URL de acesso ao sistema.
+      - 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+      - 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+      - 113: ID do modelo de e-mail para escalação automática;
+      - 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+      - 33: URL de acesso ao sistema.
     
 	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
@@ -115,8 +115,10 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
     
-	Vejamos um exemplo genérico:
+    Vejamos um exemplo genérico:
+	
     - O serviço A possui um fluxo de qualidade vinculado. Após solucionada uma solicitação referente ao serviço A e avançar o fluxo, o grupo responsável será o de qualidade e este encerrará o ciclo de vida da solicitação em questão, porém este grupo não é o grupo que solucionou esta solicitação, ele apenas aprovou a solução e encerrou a solicitação, portanto não será apresentado no relatório gerado pela tela de pesquisa de Requisições e Incidentes quando o filtro "Grupo solucionador" estiver marcado com um grupo específico.
+    
     - Entretanto, quando o filtro "Grupo Solucionador" não estiver ativo, o grupo apresentado no relatório ou na pesquisa será o grupo referente à tarefa atual da solicitação, ou seja, caso a solicitação esteja fechada e possua um fluxo de qualidade, será apresentado o grupo de qualidade como o grupo atual responsável pelo encerramento do ciclo de vida desta solicitação. E caso a solicitação esteja em andamento, será apresentado o grupo atual responsável pela execução desta solicitação.
 
 !!! Question "Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?"
