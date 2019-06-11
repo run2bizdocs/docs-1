@@ -27,7 +27,7 @@ Procedimento
     ser executada na ferramenta);
     
     Exemplo de conteúdo "Clase Java":
-    ```html
+    ```java
     br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
 
@@ -36,18 +36,19 @@ Procedimento
 Rotinas Batch
 -----------------
 
--   Retornar horário do Servidor (baixar script em anexo);
+-   Retornar horário do Servidor
 
     -   Tipo: RhinoScript
     -   Conteúdo:
     
         [Baixar Script][2]
 
--   Realizar leitura de e-mail (baixar script em anexo).
+-   Realizar leitura de e-mail
 
     -   Tipo: Classe Java
     -   Conteúdo:
-    ```html
+    
+    ```java
     br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
 
