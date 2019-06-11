@@ -48,7 +48,7 @@ Procedimiento
     situación del mismo a "Resuelta", simplemente haga clic en la situación para
     cambiar. Informar también los datos sobre la solución hecha:  
 
-       -  Si el tipo de ticket es Incidente o Incidente, completar los campos
+       -  Si el tipo de ticket es Incidente o Solicitud, completar los campos
           necesarios (Causa, categoría de solución, detalle de la causa, solución
           de respuesta, definir si la "solución de respuesta" en la base de
           conocimientos y si la solución es temporal). Si ha optado por "Guardar
