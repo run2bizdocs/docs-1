@@ -283,7 +283,7 @@ description: Here you have the answers for the most common parameters when talki
     6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
     7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory.
     
- !!! Question "How to enable the change module escalation rule?"
+!!! Question "How to enable the change module escalation rule?"
     
     The changes escalating rule is enacted on the CITSmart Parameter screen.
     
@@ -301,7 +301,7 @@ description: Here you have the answers for the most common parameters when talki
     
     Yes. It's possible to assign the person responsible for a CI by editing its options (Processes > Configuration Management > CMDB > Search > Edit > Responsible Type > Responsible). Note that updating a CI may be tied to Change Management, being necessary to link the ID of a RFC.
     
-  !!! Question "How to update a Configuration Item directly by the Request for Change?"
+!!! Question "How to update a Configuration Item directly by the Request for Change?"
 
     When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 
     
@@ -529,7 +529,7 @@ description: Here you have the answers for the most common parameters when talki
     9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
 
- !!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
     
     Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
     
@@ -557,7 +557,7 @@ description: Here you have the answers for the most common parameters when talki
 
 	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
 
- !!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
    
     [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
     
@@ -684,7 +684,7 @@ description: Here you have the answers for the most common parameters when talki
 
     [Download Scripts](/en-us/images/scripts-tabla-fato.zip)    
 
- !!! Question "What permissions are necessary on the destination folder of the Logdata table backup?"
+!!! Question "What permissions are necessary on the destination folder of the Logdata table backup?"
 
     The permissions on the folder must be read and write to the user that JBoss uses.
     
