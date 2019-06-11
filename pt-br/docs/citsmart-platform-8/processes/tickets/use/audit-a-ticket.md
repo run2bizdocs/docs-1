@@ -20,8 +20,8 @@ Procedimento
 
 3.  Preencher os filtros para auditar os tickets desejados;
 
-4.  Clicar no ícone simbolizado por uma lupa para definir os filtros necessários
-    para verificar o histórico das instâncias do ticket para a auditoria.
+4.  Clicar no ícone simbolizado por uma lupa, definir os filtros necessários
+    e verificar o histórico das instâncias do ticket para a auditoria.
 
 !!! warning "ATENÇÃO"
 
