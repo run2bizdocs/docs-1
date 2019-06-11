@@ -35,19 +35,21 @@ Procedimiento
 Rutinas Batch
 -------------
 
--   Volver a la hora del servidor (descargar script adjunto);
+-   Volver a la hora del servidor
 
     -   Tipo: RhinoScript
+    -   Contenido:
+    
+        [Descargar Script][2]
 
--   Hacer la lectura de correo electrónico (descargar script adjunto).
+-   Hacer la lectura de correo electrónico
 
     -   Tipo: Clase Java
+    -   Contenido:
 
-Adjunto
------
-[Descargar - Rutina de verificación de correo electrónico][1]
-
-[Download - Rutina devuelve hora servidor][2]
+    ```java
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 !!! tip "About"
 
@@ -55,5 +57,5 @@ Adjunto
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 
-[1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.docx
-[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
+[1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.txt
+[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.txt
