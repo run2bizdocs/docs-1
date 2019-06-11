@@ -48,8 +48,8 @@ description: Here you have the answers for the most common parameters when talki
     In order for the notification be sent it is necessary to perform the following procedures :
     
     1. Access the Contract Services related to the business service Portfolio Management > Services Portfolio > Business Service > Contract > Services and technical service Portfolio Management > Service Portfolio > Business Service > Support/Technical Service > Contract > Services e and insert the e-mail template in the fields:
-        
-	- 'Incident/Request Opening E-mail Template'
+    
+        - 'Incident/Request Opening E-mail Template'
 	
         - 'Incident/Requistion Execution E-mail Template'
 	
