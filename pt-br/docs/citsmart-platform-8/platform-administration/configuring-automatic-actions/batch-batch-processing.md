@@ -25,6 +25,11 @@ Procedimento
     RhinoScript, SQL]; situação; expressão cron que define o horário de execução
     da rotina e o conteúdo da rotina, onde será descrito o contexto da rotina a
     ser executada na ferramenta);
+    
+    Exemplo de conteúdo "Clase Java":
+    ```html
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 4.  Clicar em "Gravar".
 
