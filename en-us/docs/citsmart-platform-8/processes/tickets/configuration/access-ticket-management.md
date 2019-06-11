@@ -1,6 +1,6 @@
 title: Configure access permission of request/incident management
 Description: Allows to define who will have access to the functionalities of the Request and Incident Management screen, and what type of access is allowed (reading, saving and/or deleting).
-#Configure access permission of request/incident management
+# Configure access permission of request/incident management
 
 
 The Access and Permission functionality allows to define who will have access to

@@ -2,7 +2,7 @@ title: How to relate group to contract
 
 Description:Relate group to contract
 
-#How to relate group to contract
+# How to relate group to contract
 
 1.  Access the functionality CITSmart Parameters through the main menu.
     Place the mouse on the option Parametrization and click on CITSmart
