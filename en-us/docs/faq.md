@@ -47,7 +47,7 @@ description: Here you have the answers for the most common parameters when talki
     
     In order for the notification be sent it is necessary to perform the following procedures :
     
-    1. Access the Contract Services related to the business service Portfolio Management > Services Portfolio > Business Service > Contract > Services and technical service Portfolio Management > Service Portfolio > Business Service > Support/Technical Service > Contract > Services e and insert the e-mail template in the fields:
+    1- Access the Contract Services related to the business service Portfolio Management > Services Portfolio > Business Service > Contract > Services and technical service Portfolio Management > Service Portfolio > Business Service > Support/Technical Service > Contract > Services e and insert the e-mail template in the fields:
     
         -   'Incident/Request Opening E-mail Template'
 	
@@ -57,17 +57,17 @@ description: Here you have the answers for the most common parameters when talki
         
       RULE: If e-mail templates are not inserted, the notification will not be sent.
 
-    2. Access the Group Register feature General Registration > Staff Management > Group.
+    2- Access the Group Register feature General Registration > Staff Management > Group.
     
-    3. The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
+    3- The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
     
-    4. Select it;
+    4- Select it;
     
-    5. The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
+    5- The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
     
     RULE: if it is determined that notifications will be mandatory, when registering a service request, on the Incident/Request Service entry screen, these options will be selected already, not allowing any changes. But if it has been determined that notifications will not be mandatory, when registering a service request, these options will be available to be determined by the petitioner.
     
-    6. On the Incident/Request Service Request screen, when registering a service request the rules related to the e-mail notifications will be established, determined in the group entry.
+    6- On the Incident/Request Service Request screen, when registering a service request the rules related to the e-mail notifications will be established, determined in the group entry.
     
     RULE: when registering a service request, the notification will only be sent to the performer group, which is responsible for 
     attending to the request. When the activities are in progress and then finished, the notifications will only be sent to the 
