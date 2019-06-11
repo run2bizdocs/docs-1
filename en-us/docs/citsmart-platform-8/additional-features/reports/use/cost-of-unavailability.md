@@ -43,7 +43,7 @@ Procedure
 4.  In the reports list page, click on "Edit" of the report imported;
 
 5.  Select the option *None* in the field **Module(s) where it will be
-    displayed **and define the group(s);
+    displayed** and define the group(s);
 
 6.  Click on "Save".
 
