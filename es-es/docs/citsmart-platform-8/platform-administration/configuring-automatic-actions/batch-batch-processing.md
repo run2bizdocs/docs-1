@@ -58,4 +58,4 @@ Rutinas Batch
 
 
 [1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
-[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/hour-server.txt
+[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
