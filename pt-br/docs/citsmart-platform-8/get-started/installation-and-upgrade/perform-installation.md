@@ -154,13 +154,15 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 No bash do CLI executar os comandos abaixo para criação das propriedades do
 CITSmart.
 
+#### CLI
+
 ```java
-/system-property=mongodb.host:add(value="mongodb.citsmart.com")
+/system-property=mongodb.host:add(value="citmongo")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
 /system-property=mongodb.password:add(value="admin")
 /system-property=citsmart.protocol:add(value="http")
-/system-property=citsmart.host:add(value="itsm.citsmart.com")
+/system-property=citsmart.host:add(value="my.citsmart.com")
 /system-property=citsmart.port:add(value="8080")
 /system-property=citsmart.context:add(value="citsmart")
 /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
@@ -173,6 +175,30 @@ CITSmart.
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength" (value="100")
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+```
+
+#### XML
+
+```java
+<system-properties>
+    <property name="mongodb.host" value="citmongo"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="admin"/>
+    <property name="mongodb.password" value="admin"/>
+    <property name="citsmart.protocol" value="http"/>
+    <property name="citsmart.host" value="my.citsmartcloud.com"/>
+    <property name="citsmart.port" value="8080"/>
+    <property name="citsmart.context" value="citsmart"/>
+    <property name="citsmart.login" value="citsmart.local\\\consultor"/>
+    <property name="citsmart.password" value="senhaConsultor"/>
+    <property name="citsmart.inventory.id" value="citsmartinventory"/>
+    <property name="citsmart.evm.id" value="citsmartevm"/>
+    <property name="citsmart.evm.enable" value="false"/>
+    <property name="citsmart.inventory.enable" value="false"/>
+    <property name="rhino.scripts.directory" value=""/>
+    <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+</system-properties>
 ```
 
 ### Configuração dos Datasources
