@@ -36,7 +36,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     6. Realize a pesquisa do parâmetro "9 - ID Grupo Nível 1";
     7. Selecione o mesmo;
     8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação (ID) do grupo de 1º nível;
-    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    9. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
     REGRA: após a configuração do parâmetro, ao realizar o registro de uma Solicitação de Serviço/Incidente, caso não tenha informado o grupo para atendimento do serviço, será escalado o grupo, o qual foi definido no parâmetro para atendimento de 1º nível.
 
@@ -103,11 +103,11 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
     7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
-      *   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
-      *   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
-      *   113: ID do modelo de e-mail para escalação automática;
-      *   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
-      *   33: URL de acesso ao sistema.
+      -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+      -   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+      -   113: ID do modelo de e-mail para escalação automática;
+      -   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+      -   33: URL de acesso ao sistema.
     
 	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
@@ -128,9 +128,9 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
     2. Quando o recurso denominado Sequence Block é impactado por um fator externo, isso ocorre se:
     
-      *   Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
+      -   Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
     
-      *   O ambiente é clusterizado.
+      -   O ambiente é clusterizado.
 
 !!! Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
     
