@@ -103,11 +103,11 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
     7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
-    - 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
-    - 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
-    -113: ID do modelo de e-mail para escalação automática;
-    - 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
-    - 33: URL de acesso ao sistema.
+      * 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+      * 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+      * 113: ID do modelo de e-mail para escalação automática;
+      * 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+      * 33: URL de acesso ao sistema.
     
 	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
