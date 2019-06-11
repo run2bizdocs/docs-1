@@ -77,13 +77,13 @@ description: Here you have the answers for the most common parameters when talki
     
     The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
-    1. In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
-    2. Access the CITSmart Parameters feature by navigating in the main menu System > CITSmart Parameters;
-    3. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
-    4. Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
-    5. Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
-    6. Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
-    7. Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
+    1- In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
+    2- Access the CITSmart Parameters feature by navigating in the main menu System > CITSmart Parameters;
+    3- The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
+    4- Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
+    5- Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
+    6- Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
+    7- Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
     
       -   195 - E-mail template id for sending deadline request notification (Eg: 1)
       
@@ -96,7 +96,7 @@ description: Here you have the answers for the most common parameters when talki
       -   33 - System access URL
       
     
-	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
+    8- Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
     
 !!! Question "What is the impact of the "Solver Group" filter on the behavior of requests and incidents searches?"
     
