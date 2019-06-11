@@ -86,10 +86,15 @@ description: Here you have the answers for the most common parameters when talki
     7. Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
     
       -   195 - E-mail template id for sending deadline request notification (Eg: 1)
+      
       -   197 - User login that will receive e-mail regarding service request scheduling rules that are expiring (eg Consultant)
+      
       -   113 - E-mail Template ID for Auto Escalation
+      
       -   10 - SMTP SEND - E-mail origin of service request notifications
+      
       -   33 - System access URL
+      
     
 	8. Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
     
