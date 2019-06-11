@@ -54,10 +54,10 @@ Certificado Digital) é necessário a instalação do mesmo:
 
     Figura 1 - Certificado intermediário da GlobalSign
 
-    *  No mobile: informar o nome genérico (sugestão: GlobalSign) e clicar em
+    *  **No mobile**: informar o nome genérico (sugestão: GlobalSign) e clicar em
        "avançar".
 
-    *  No desktop: clicar com botão direito no certificado baixado (conforme figura
+    *  **No desktop**: clicar com botão direito no certificado baixado (conforme figura
        abaixo), clicar em "instalar certificado" e avançar até concluir.
 
     ![Windows](images/android-ios-2.jpg)
