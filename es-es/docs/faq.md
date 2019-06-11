@@ -42,11 +42,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
  !!! Question "¿Cómo configurar las notificaciones de correo electrónico de solicitud de servicios?"
     
-    Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
+     Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
     
 	Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
     
-    1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
+     1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
     de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
     Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
         
