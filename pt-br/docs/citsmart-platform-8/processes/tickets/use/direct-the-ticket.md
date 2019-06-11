@@ -21,10 +21,10 @@ Procedimento
 3.  No campo **Direcionar para grupo**, selecionar o grupo para o qual será
     direcionado o ticket para realizar o atendimento do mesmo;
 
-4.  Clicar no botão de “Opções” e logo em seguida clique no botão “Gravar e
+4.  Clicar no botão de “Opções” e logo em seguida clicar no botão “Gravar e
     avançar fluxo”, onde o ticket será encaminhado para fase de atendimento.
     Mas, caso queira gravar somente as informações registradas sobre a validação
-    do ticket e manter a tarefa atual, clique no botão “Gravar e manter tarefa
+    do ticket e manter a tarefa atual, clicar no botão “Gravar e manter tarefa
     atual”.
 
 Relacionado
