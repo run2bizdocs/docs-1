@@ -261,8 +261,7 @@ description: Here you have the answers for the most common parameters when talki
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (the default is 1GB).
     
  !!! Question "How to update a Configuration Item directly by the Request for Change?"
-
-    When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 
+     When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 
     
     1. Access the Change Management (Processes > Change Management > Change); 
     2. Select the RFC and click on it, then click on "Open"; 
