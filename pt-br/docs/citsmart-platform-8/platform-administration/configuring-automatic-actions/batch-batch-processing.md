@@ -51,12 +51,6 @@ Rotinas Batch
         [Baixar Script][2]
 
 
-Anexo
------
-[Download - Rotina verificar email][1]
-
-[Download - Rotina retorna hora servidor][2]
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
