@@ -58,5 +58,5 @@ Batch Routines
 
 
 
-[1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine_verify_email.txt
-[2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/routine-return-server-time.txt
+[1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/hour-server.txt

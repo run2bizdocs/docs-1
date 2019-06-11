@@ -57,5 +57,5 @@ Rutinas Batch
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 
-[1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.txt
-[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.txt
+[1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/hour-server.txt
