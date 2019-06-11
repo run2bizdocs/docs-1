@@ -104,9 +104,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
       -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+      
       -   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+      
       -   113: ID do modelo de e-mail para escalação automática;
+      
       -   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+      
       -   33: URL de acesso ao sistema.
     
 	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
@@ -234,7 +238,9 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?"
     
     - Público: todos os usuários com acesso no Portal do Conhecimento possuem acesso, independente se têm acesso à pasta do conhecimento;
+    
     - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
+    
     - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
 
 !!! Question "É possível versionar um conhecimento na gestão do conhecimento?"
@@ -264,7 +270,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
     O processo de riscos na mudança começa no desenho do portfólo de mudança onde é indicado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificado ou completo. O próximo passo é, no cadastro da mudança informar os dados do(s) riscos na aba lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
     
-    * "**Simplificada**"  para uma  análise Simplificada e no item;  
+    * "**Simplificada**" para uma  análise Simplificada e no item;  
     
     * "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
 
@@ -332,9 +338,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
     2. Informe os valores dos parâmetros (atributos):
+    
     Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
+    
     Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
+    
     Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
+    
     3. Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
     4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
@@ -385,9 +395,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Quais o significado de cada status do inventário de ICs?"
     
     - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
+    
     - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load temos uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
+    
     - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
+    
     - Não inventariado: quando nem encontra o IC na rede, mas tem conhecimento de que ele já existiu;
+    
     - Em execução: durante a leitura do inventário, o IC fica nesse status.
 
 
@@ -396,6 +410,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
     
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
+    
     É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) seguem um padrão pré-estabelecido.
     
     Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
@@ -403,6 +418,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Exemplo "Folha de Pagamentos": 
     
     - Digamos que seja regra de uma empresa não contratar mais de 5 funcionários por setor.
+    
     - O programa de folha de pagamento poderia enviar os dados mínimos de cada contratação por departamento (definido no plano orçamentário da empresa), de modo que sempre que o número de contração por departamento ultrapassar o limite pré-estabelecido, um evento de “excesso de contratação” poderia ser disparado.
 
 
@@ -449,11 +465,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
     2. Acesse a funcionalidade de Processamento Batch (Sistema > Processamento Batch).
     3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
-    Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
-    Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
-    Tipo: selecionar o tipo “Classe Java”;
-    Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
-    Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+    
+    -   Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
+    -   Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
+    -   Tipo: selecionar o tipo “Classe Java”;
+    -   Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
+    -   Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+    
     4. Clique no botão "Gravar" para efetuar o registro.
     
 	REGRA: a partir do momento da gravação, no horário e dia agendado, as solicitações não respondidas (com prazo superior ao definido no parâmetro 139) serão automaticamente respondidas (com o valor definido no parâmetro 152), caso o parâmetro 151 esteja com valor ‘S’.
@@ -553,9 +571,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
     1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
+    
       - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
+      
       - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
+      
       - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
+      
       - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
 	
     2. Realizar upload (podem ser imagens diferentes).
