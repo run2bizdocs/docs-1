@@ -10,7 +10,7 @@ Antes de empezar
 --------------------
 
 Para hacer el registro de una noticia, es necesario tener registrado una
-categoría de noticias.
+categoría de noticias previamente.
 
 Procedimiento
 -----------------
@@ -18,11 +18,11 @@ Procedimiento
 1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
     Portafolio y Catálogo \> Registro de Noticias \> Noticias;
 
-2.  Hacer clic en "Agregar nueva noticia";
+2.  Hacer clic en "Agregar nueva noticia", situado en la parte inferior de la pantalla (indicado por el signo "+");
 
 3.  Completar los campos disponibles;
 
-4.  Hacer clic en "Opciones".
+4.  Hacer clic en "Opciones" (situado en la parte inferior de la pantalla) y después en "Guardar".
 
 
 Relacionado
