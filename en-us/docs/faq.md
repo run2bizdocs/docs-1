@@ -260,8 +260,9 @@ description: Here you have the answers for the most common parameters when talki
     Both a Request and an Incident may have attached documents in their opening and in their attendance, for Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (the default is 1GB).
     
- !!! Question "How to update a Configuration Item directly by the Request for Change?"
-     When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 
+!!! Question "How to update a Configuration Item directly by the Request for Change?"
+ 
+    When a RFC is to update a CI, it's possible to change the CI data directly through the change management screen. For that: 
     
     1. Access the Change Management (Processes > Change Management > Change); 
     2. Select the RFC and click on it, then click on "Open"; 
