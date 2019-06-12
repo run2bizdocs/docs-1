@@ -40,11 +40,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
     
- !!! Question "¿Cómo configurar las notificaciones de correo electrónico de solicitud de servicios?"
+!!! Question "¿Cómo configurar las notificaciones de correo electrónico de solicitud de servicios?"
     
-     Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
+    Al registrar una solicitud de servicio, realizar otras acciones y cerrar la misma, el solicitante será notificado.
     
-	Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
+    Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
     
      1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
     de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
@@ -109,7 +109,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     * Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
     * El entorno se agrupa.
   
- !!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
+!!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
     
     En la interfaz de la Gestión de Tickets, específicamente en el elemento "Auditoría", al intentar configurar la auditoría de un ticket abierto (definir las fechas de inicio y fin en el filtro), el siguiente error puede ocurrir: el sistema presentará el mensaje de "Fecha Inválida ". Esto porque la funcionalidad necesita que el idioma definido en el sistema y en el explorador utilizado sean idénticos.  
     Si este requisito no se observa, y se produce esta diferencia en los idiomas, al auditar los tickets, el sistema presentará un mensaje imposibilitando obtener el informe pretendido. Es necesario, por lo tanto, igualar el idioma del sistema y del navegador. 
@@ -204,7 +204,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento.
     - Interno: sólo las personas con permiso en la carpeta del conocimiento pueden visualizar.
     
-   !!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
+!!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
 
     Para ver un conocimiento, abra uno en la interfaz de gestión del conocimiento, haga clic en editar, en la pantalla de información del conocimiento, después haga clic en "Versionar". Es posible también "Archivar la versión anterior" del conocimiento.
     
