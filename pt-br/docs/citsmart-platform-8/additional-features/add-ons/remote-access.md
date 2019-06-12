@@ -18,13 +18,16 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 ## Procedimento
 
 1. Instalar o GuaCD utilizando a [documentção oficial][1] ou baixar o container disponibilizado pela CITSmart;
+
 2. Após a instalação, configurar o apontamento de logs;
     
     ```sh
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
 3. Baixar o binário do [encoder (.jar)][2];
+
 4. Copiar o enconder de vídeo para o servidor;
+
 5. Realizar a configuração;
 
     ```java
@@ -40,9 +43,6 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
         definida na conexão de acesso remoto.
     
 6. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documentos][3].
-
-
-
 
 
 ## O que fazer a seguir
