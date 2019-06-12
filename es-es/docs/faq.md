@@ -50,11 +50,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
     Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
         
-	- "Modelo de correo electrónico Apertura Solicitud/Incidente"
+    - "Modelo de correo electrónico Apertura Solicitud/Incidente"
 	
-        - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
+    - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
 	
-        - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
+    - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
         
     REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
 
