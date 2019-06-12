@@ -96,11 +96,17 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
     1- No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
+    
     2- Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
+    
     3- Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    
     4- Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
+    
     5- Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
+    
     6- Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
+    
     7- Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
        -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
@@ -180,7 +186,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "41 - Faz o controle de vínculo de colaboradores aos contratos (S/N)?" e selecione o mesmo;
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de grupo. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
-    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)).
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão > Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)).
     5. Caso o grupo que deseja vincular ao contrato já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo;
     6. Feito isso, será exibida a tela de registro do determinado grupo;
     7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
@@ -575,17 +581,17 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
-    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
+    1- Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
     
-      - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
+        - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
       
-      - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
+        - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
       
-      - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
+        - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
       
-      - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
+        - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
 	
-    2. Realizar upload (podem ser imagens diferentes).
+    2- Realizar upload (podem ser imagens diferentes).
     
 	REGRA: caso o usuário não escolha uma nova logo, a logo default será a do CITSmart. Por questão de direitos autorais, esta mudança de logo é permitida somente na versão Enterprise do produto CITSmart ITSM.
 
@@ -609,7 +615,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
  
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
       Tais como: 
-              IDSOLICITACAOSERVICO
+             IDSOLICITACAOSERVICO
 	      DATAHORASOLICITACAO
 	      DIAABERTURA
 	      MESABERTURA
