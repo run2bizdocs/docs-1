@@ -43,8 +43,10 @@ java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier
         plataforma. O tempo de compilação dependerá do tempo da sessão, 
         além disso, o início da compilação está atrelado à rotina cron 
         definida na conexão de acesso remoto.
+        
+7. No item de configuração que será acessado remotamenete (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guarde esta senha pois ela será utilizada no próximo passo.
     
-7. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][3].
+8. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][4].
 
 
 ## O que fazer a seguir
@@ -53,9 +55,11 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é acessar remota
 
 ## Relacionado
 
-[Gerenciamento de Configuração][4]
+[Gerenciamento de Configuração][5]
 
 [1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
 [2]:images/citsmart-guacd-encoder.jar.zip
-[3]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
-[4]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
+[3]:https://www.tightvnc.com/
+[4]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[5]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
+
