@@ -32,22 +32,28 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
     ```
 5. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
-!!! success "Gravação de video"
-        
-    Após o encerramento da sessão de acesso remoto, o vídeo gerado 
-    entra em uma fila de compilação para então, ser disponilizado na 
-    plataforma. O tempo de compilação dependerá do tempo da sessão, 
-    além disso, o início da compilação está atrelado à rotina cron 
-    definida na conexão de acesso remoto.
+    !!! success "Gravação de video"
+        Após o encerramento da sessão de acesso remoto, o vídeo gerado 
+        entra em uma fila de compilação para então, ser disponilizado na 
+        plataforma. O tempo de compilação dependerá do tempo da sessão, 
+        além disso, o início da compilação está atrelado à rotina cron 
+        definida na conexão de acesso remoto.
     
+6. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documentos][3].
+
+
+
+
+
 ## O que fazer a seguir
 
 Com o serviço do GuaCD ativo e comunicável, o próximo passo é criar uma conexão de acesso remoto em sua instância e testar o recurso.
 
 ## Relacionado
 
-[Criar conexão com o servidor de acesso remoto][3]
+[Gerenciamento de Configuração][4]
 
 [1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
 [2]:images/citsmart-guacd-encoder.jar.zip
 [3]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[4]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
