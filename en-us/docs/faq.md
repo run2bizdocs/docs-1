@@ -445,6 +445,7 @@ description: Here you have the answers for the most common parameters when talki
      - Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
      
     2. Access the Batch Processing feature (System > Batch Processing).
+    
     3. The batch processing entry screen will be displayed, fill out the fields:
      
      - Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
@@ -584,7 +585,7 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "What is the attachment upload features file size limit?"
     
-    The attachment upload features specify a 15 MB size limit for each file loaded into the system. However, on the portal screen the size limit remains at 5 MB.
+    The upload size of the attachments is specified by the system administrator in parameter 278, the default size is 1GB.
    
 !!! Question "What is the Fato table of the service request module and how to insert data?"
     
