@@ -11,24 +11,25 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 
 Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
-* [x] Ter a Gerência de Configuração implementada
-* [x] Ter um processo de inventário definido e funcional
-* [x] Ter os dados 
+* [x] Ter a Gerência de Configuração implementada;
+* [x] Ter um processo de inventário definido e funcional;
+* [x] Ter itens de configuração inventariádos;
 
 ## Procedimento
 
-1. Baixar o container do GUACD;
-2. Configurar as propriedades do GUACD no servidor de aplicação;
+1. Instalar o GuaCD utilizando a [documentção oficial][2] ou baixar o container disponibilizado pela CITSmart;
+2. Após a instalação, configurar o apontamento de logs;
+    
+    ```sh
+    /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
+    ```
+3. Baixar o encoder (.jar) na <URL>;
+4. Copiar o enconder para o servidor do GuaCD;
 
     ```java
-    CITSMART_PROTOCOL=http
-    CITSMART_URL=your-instance.citsmartcloud.com
-    CITSMARTGUACD_ID=guacd_id
-    CITSMART_LOGIN=admin
-    CITSMART_PASSWORD=********
+    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
     ```
-	
-3. Definir o diretório para gravação dos vídeos (ex. /mp4);
+5. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
 !!! success "Gravação de video"
         
@@ -47,3 +48,4 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é criar uma cone
 [Criar conexão com o servidor de acesso remoto][1]
 
 [1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[2]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
