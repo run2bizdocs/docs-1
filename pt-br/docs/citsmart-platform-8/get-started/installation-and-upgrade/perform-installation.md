@@ -408,7 +408,7 @@ modulo ao standalone-full-ha.xml
 
 ## Configuração do Quartz
 
-O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema.
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Gere um arquivo de nome "quartz.properties" contendo os dados abaixo, coforme o seu tipo de instalação (standalone ou cluster) e salve na pasta "configuration" do servidor de aplicação.
 
 ### Instalação Standalone (independente de banco de dados):
 
@@ -430,7 +430,9 @@ org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
 org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
 ```
 
-### Instalação Cluster - Banco de Dados Postgres:
+### Instalação Cluster
+
+#### Banco de Dados Postgres:
 
 ```java
 #============================================================================
@@ -458,7 +460,7 @@ org.quartz.jobStore.clusterCheckinInterval = 20000
 org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ```
 
-### Instalação Cluster - Banco de Dados Microsoft SQL Server:
+#### Banco de Dados Microsoft SQL Server:
 
 ```java
 #============================================================================
@@ -486,7 +488,7 @@ org.quartz.jobStore.clusterCheckinInterval = 20000
 org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ```
 
-### Instalação Cluster - Banco de Dados Oracle:
+#### Banco de Dados Oracle:
 
 ```java
 #============================================================================
