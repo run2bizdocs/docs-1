@@ -24,7 +24,8 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
 3. Baixar o binário do [encoder (.jar)][2];
-4. Copiar o enconder para o servidor do GuaCD;
+4. Copiar o enconder de vídeo para o servidor;
+5. Realizar a configuração;
 
     ```java
     java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
