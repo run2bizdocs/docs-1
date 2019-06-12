@@ -36,7 +36,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
     7. Seleccione el mismo.
     8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
-    9. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    9. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
     REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
     
