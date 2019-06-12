@@ -95,25 +95,25 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
-    1. No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
-    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
-    4. Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
-    5. Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
-    6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
-    7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
+    1- No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
+    2- Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
+    3- Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    4- Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
+    5- Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
+    6- Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
+    7- Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
     
-      -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+       -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
       
-      -   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+       -   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
       
-      -   113: ID do modelo de e-mail para escalação automática;
+       -   113: ID do modelo de e-mail para escalação automática;
       
-      -   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+       -   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
       
-      -   33: URL de acesso ao sistema.
+       -   33: URL de acesso ao sistema.
     
-    8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    8- Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 !!! Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     
@@ -340,11 +340,11 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
     2. Informe os valores dos parâmetros (atributos):
     
-    Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
+       - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
     
-    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
+       - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
     
-    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
+       - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
     
     3. Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
     4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
@@ -461,17 +461,21 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Para realizar a configuração das respostas automáticas, proceda conforme orientações abaixo:
 
     1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática:
-    Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
-    Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: ÓTIMO, BOM, REGULAR E RUIM;
-    Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
+    
+         - Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
+   
+         - Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: ÓTIMO, BOM, REGULAR E RUIM;
+   
+         - Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
+   
     2. Acesse a funcionalidade de Processamento Batch (Sistema > Processamento Batch).
     3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
     
-    -   Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
-    -   Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
-    -   Tipo: selecionar o tipo “Classe Java”;
-    -   Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
-    -   Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+         -  Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
+         -  Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
+         -  Tipo: selecionar o tipo “Classe Java”;
+         -  Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
+         -  Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
     
     4. Clique no botão "Gravar" para efetuar o registro.
     
@@ -605,7 +609,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
  
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
       Tais como: 
-        IDSOLICITACAOSERVICO
+              IDSOLICITACAOSERVICO
 	      DATAHORASOLICITACAO
 	      DIAABERTURA
 	      MESABERTURA
