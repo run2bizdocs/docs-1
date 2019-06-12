@@ -726,15 +726,18 @@ description: Here you have the answers for the most common parameters when talki
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
 
     WHAT TO CHECK
-    1. Postgresql database configuration file:
+    
+    1- Postgresql database configuration file:
     
     Postgresql.conf
     timezone = 'BRAZIL/EAST'
     
-    2. On the container cloud:
+    2- On the container cloud:
+    
     Setting timezone on the operating system.
     
-    3.Setting up the TimeZone on the JRE:
+    3-Setting up the TimeZone on the JRE:
+    
     https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
 
 !!! Question "Why in some reports does the same request appear more than once?"
