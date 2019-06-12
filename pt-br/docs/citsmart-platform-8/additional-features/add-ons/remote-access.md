@@ -17,35 +17,45 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
 ## Procedimento
 
-1. Instalar o GuaCD utilizando a [documentção oficial][2] ou baixar o container disponibilizado pela CITSmart;
+1. Instalar o GuaCD utilizando a [documentção oficial][1] ou baixar o container disponibilizado pela CITSmart;
+
 2. Após a instalação, configurar o apontamento de logs;
     
-    ```sh
-    /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
-    ```
-3. Baixar o encoder (.jar) na <URL>;
-4. Copiar o enconder para o servidor do GuaCD;
+```sh
+/usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
+```
 
-    ```java
-    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
-    ```
-5. Definir o diretório para gravação dos vídeos (ex. /mp4);
+3. Baixar o binário do [encoder (.jar)][2];
+
+4. Copiar o enconder de vídeo para o servidor;
+
+5. Realizar a configuração;
     
-!!! success "Gravação de video"
-        
-    Após o encerramento da sessão de acesso remoto, o vídeo gerado 
-    entra em uma fila de compilação para então, ser disponilizado na 
-    plataforma. O tempo de compilação dependerá do tempo da sessão, 
-    além disso, o início da compilação está atrelado à rotina cron 
-    definida na conexão de acesso remoto.
+```java
+java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
+```
     
+6. Definir o diretório para gravação dos vídeos (ex. /mp4);
+    
+    !!! success "Gravação de video"
+        Após o encerramento da sessão de acesso remoto, o vídeo gerado 
+        entra em uma fila de compilação para então, ser disponilizado na 
+        plataforma. O tempo de compilação dependerá do tempo da sessão, 
+        além disso, o início da compilação está atrelado à rotina cron 
+        definida na conexão de acesso remoto.
+    
+7. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][3].
+
+
 ## O que fazer a seguir
 
-Com o serviço do GuaCD ativo e comunicável, o próximo passo é criar uma conexão de acesso remoto em sua instância e testar o recurso.
+Com o serviço do GuaCD ativo e comunicável, o próximo passo é acessar remotamente o IC configurado.
 
 ## Relacionado
 
-[Criar conexão com o servidor de acesso remoto][1]
+[Gerenciamento de Configuração][4]
 
-[1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
-[2]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[2]:images/citsmart-guacd-encoder.jar.zip
+[3]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[4]:/pt-br/citsmart-platform-8/processes/configuration/overview.html

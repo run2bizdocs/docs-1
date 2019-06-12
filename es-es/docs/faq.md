@@ -36,7 +36,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
     7. Seleccione el mismo.
     8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
-    9. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    9. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
     REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
     
@@ -50,11 +50,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
     Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
         
-	- "Modelo de correo electrónico Apertura Solicitud/Incidente"
+    - "Modelo de correo electrónico Apertura Solicitud/Incidente"
 	
-        - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
+    - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
 	
-        - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
+    - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
         
     REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
 
@@ -76,28 +76,34 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de CITSmart. Para habilitar esta regla, proceda de la siguiente manera:
 
-    1. En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
-    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
-    3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
-    4. Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
-    5. Busque y cambie el parámetro 31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes (Ej: S o N) informando el valor "S";
-    6. Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
-    7. También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
+    1- En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
+    2- Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
+    3- Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    4- Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
+    5- Busque y cambie el parámetro 31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes (Ej: S o N) informando el valor "S";
+    6- Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
+    7- También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
     
-    - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
-    - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
-    -113: Modelo ID de correo electrónico de escalada automática;
-    - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
-    - 33: URL para acceder al sistema.
+      - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
     
-	8. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+      - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
+    
+      -113: Modelo ID de correo electrónico de escalada automática;
+    
+      - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
+    
+      - 33: URL para acceder al sistema.
+    
+    8- Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
 	
 !!! Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
     Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
 
     Veamos un ejemplo genérico:
+    
     - El servicio A tiene un flujo de calidad vinculado. Después de solucionarse una solicitud referente al servicio A y avanzar el flujo, el grupo responsable será el de calidad y éste terminará el ciclo de vida de la solicitud en cuestión, pero este grupo no es el grupo que solucionó esta solicitud, sólo aprobó la solución y, ha finalizado la solicitud, por lo que no se presentará en el informe generado por la pantalla de búsqueda de solicitudes e incidentes cuando el filtro "Grupo de soluciones" esté marcado con un grupo específico.
+    
     - Sin embargo, cuando el filtro "Grupo Solucionador" no está activo, el grupo presentado en el informe o en la encuesta será el grupo correspondiente a la tarea actual de la solicitud, es decir, si la solicitud está cerrada y tiene un flujo de calidad, de calidad como el grupo actual responsable del cierre del ciclo de vida de esta solicitud. Y si la solicitud está en marcha, se presentará el grupo actual responsable de la ejecución de esta solicitud.
     
 !!! Question "¿Por qué la numeración de la solicitud de servicio no siempre seguirá un orden secuencial riguroso/perfecto en la pantalla de solicitud de servicio o en algunos Informes?"
@@ -136,7 +142,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     2. Se mostrará la pantalla de Registro de Grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
     3. Haga clic en el icono de agregar del campo Colaboradores, se mostrará la pantalla para búsqueda de colaboradores;
     4. Realice la búsqueda del colaborador que desea vincular al grupo y seleccione el mismo. Después de eso, el colaborador será vinculado al grupo;
-    5. Después del vínculo, haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
+    5. Después del vínculo, haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
     
     A PARTIR DO CADASTRO DE USUARIO
     
@@ -230,7 +236,9 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 !!! Question "¿Es posible evaluar el impacto de los cambios para poder aprobar el registro de cambios?"
 
     El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
+    
     "**Simplificada**" para una análisis Simplificada en el elemento.
+    
     "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
  
 !!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
@@ -281,14 +289,18 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cómo actualizar un Elemento de Configuración directamente por la Solicitu de Cambio?"
 
-    Cuando una solicitud de cambio pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la 
-    pantalla de 
-    gestión de cambios. Para eso:
+    Cuando una solicitud de cambio pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la pantalla de gestión de cambios. Para eso:
+    
     1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio);
+    
     2. Seleccionar la Solicitud de Cambio y hacer clic en ella, después, hacer clic en "Abrir";
+    
     3. En la interfaz de gestión, hacer clic en "EC relacionados";
+    
     4. En acciones, hacer clic en el icono "Cambiar";
+    
     5. Cambiar el EC con las nuevas informaciones;
+    
     6. Hacer clic en "Guardar".
 
 !!! Question "¿Cómo configurar el nombre de las fases del ciclo de vida de los EC (Elementos de configuración)?"
@@ -310,7 +322,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
     2. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart. Se mostrará la pantalla para la búsqueda de parámetros;
     3. Realiza la búsqueda del parámetro "92 - Nombre del Grupo de ICs en la fase Desarrollo (Ej: ICs en Desarrollo)";
-    4.Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    4. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     5. En el campo valor, introduzca el nombre del grupo de IC de la fase de desarrollo;
     6. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     7. Realiza la búsqueda del parámetro "93 - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)";
@@ -322,6 +334,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     13. En el campo valor, introduzca el nombre del grupo de IC de la fase de homologación;
     14. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
+
 !!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?
 
     La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
@@ -414,16 +427,27 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones:
 
     1. Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
-    Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
-    Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
-    Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
+    
+     - Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
+   
+     - Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
+    
+     - Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
+    
     2. Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
+   
     3. Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
-    Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
-    Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
-    Tipo: seleccionar el tipo "Clase Java";
-    Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
-    Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
+    
+     - Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
+    
+     - Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
+    
+     - Tipo: seleccionar el tipo "Clase Java";
+    
+     - Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
+    
+     - Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
+    
     4. Haga clic en el botón Grabar para realizar el registro.
     
 	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor ' S'.
@@ -567,10 +591,14 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Siempre que sea necesario personalizar correctamente los logotipos de CITSmart Enterprise ITSM, se debe realizar el siguiente procedimiento:
     
     1. Acceder al camino: Sistema > Configuración > Configuración de ambiente; aparecerá tres espacios para subir imágenes:
-      - Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
-      - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
-      - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
-      - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
+    
+       - Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
+      
+       - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
+      
+       - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
+      
+       - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
 	
     2. Realizar upload (pueden ser imágenes diferentes).
     
@@ -732,11 +760,16 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     QUÉ VERIFICAR
     1. Archivo de configuración del Banco Postgresql:
+    
      - Postgresql.conf
-     - timezone = 'BRAZIL/EAST'    
+     - timezone = 'BRAZIL/EAST'   
+     
     2. En el container cloud:
-     - Setting timezone on the operating system.    
+    
+     - Setting timezone on the operating system. 
+     
     3.Configuración de TimeZone en JRE: 
+    
      - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
 !!! Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
