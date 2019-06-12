@@ -546,14 +546,17 @@ description: Here you have the answers for the most common parameters when talki
     
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
     
-    1. Access path: System > Settings > Environment settings; Three frames will appear for image upload:
+    1- Access path: System > Settings > Environment settings; Three frames will appear for image upload:
     
-      -   Initial Logo: Image displayed on the initial login screen of the system;
-      -   Portal Logo: Image presented in the System Services Portal;
-      -   System Logo: Image presented when accessing the system;
-      -   Report Logo: Image presented in all jasper reports.
+       -   Initial Logo: Image displayed on the initial login screen of the system;
+      
+       -   Portal Logo: Image presented in the System Services Portal;
+      
+       -   System Logo: Image presented when accessing the system;
+      
+       -   Report Logo: Image presented in all jasper reports.
 	
-    2. Upload (can be different images).
+    2- Upload (can be different images).
     
 	RULE: If you do not choose a new logo, the default logo will be CITSmart logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the CITSmart ITSM.
 
