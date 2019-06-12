@@ -408,7 +408,10 @@ modulo ao standalone-full-ha.xml
 
 ## Configuração do Quartz
 
-O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Gere um arquivo de nome "quartz.properties" contendo os dados abaixo, coforme o seu tipo de instalação (standalone ou cluster) e salve na pasta "configuration" do servidor de aplicação.
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Para configurá-lo, siga o procedimento:
+
+1. Crie um arquivo de nome "quartz.properties" contendo os dados abaixo, coforme o seu tipo de instalação (standalone ou cluster);
+2. Salve este arquivo na pasta "configuration" do servidor de aplicação.
 
 ### Instalação Standalone (independente de banco de dados):
 
