@@ -17,13 +17,13 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
 ## Procedimento
 
-1. Instalar o GuaCD utilizando a [documentção oficial][2] ou baixar o container disponibilizado pela CITSmart;
+1. Instalar o GuaCD utilizando a [documentção oficial][1] ou baixar o container disponibilizado pela CITSmart;
 2. Após a instalação, configurar o apontamento de logs;
     
     ```sh
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
-3. Baixar o encoder (.jar) na <URL>;
+3. Baixar o binário do [encoder (.jar)][2];
 4. Copiar o enconder para o servidor do GuaCD;
 
     ```java
@@ -45,7 +45,8 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é criar uma cone
 
 ## Relacionado
 
-[Criar conexão com o servidor de acesso remoto][1]
+[Criar conexão com o servidor de acesso remoto][3]
 
-[1]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
-[2]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[2]:images/citsmart-guacd-encoder.jar.zip
+[3]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
