@@ -9,7 +9,7 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 
 ## O que fazer antes
 
-Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
+Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
 * [x] Ter um processo de inventário definido e funcional utilizando o CITSmart Inventory;
 * [x] Ter itens de configuração inventariádos;
