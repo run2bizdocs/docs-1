@@ -14,13 +14,13 @@ Procedure
 
 **1st Way - Import flow**: it's possible to import the flow with script already
 registered. Download the attachment "JSON Flow" and access the flow
-functionality (System \> Flow Maintenance), click on "New", then click on
+functionality (Workflow \> Flow Design), click on "New", then click on
 "Import" and select the option "JSON". Upload the attachment and click on
 "Import". Then, to verify the script, click on the tab "Diagram" and on the task
 icon, next, click on "Input Action";
 
 **2nd Way - Copy the script**: to copy only the script, copy the attachment
-"Script" content and access the functionality flow (System \> Flow Maintenance),
+"Script" content and access the functionality flow (Workflow \> Flow Design),
 click on "New" and complete the field necessary. Then, click on the tab
 "Diagram", design the flow about the creation and closure of a task, select and
 click on this task (small gray box next to the task) and in the tab "Input
