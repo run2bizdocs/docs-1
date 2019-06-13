@@ -28,7 +28,7 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
 4. Copiar o enconder de vídeo para o servidor;
 
-5. Realizar a configuração substituindo as variáveis pelas inforamações de seu servidor;
+5. Realizar a configuração substituindo as variáveis pelas informações de seu servidor;
     
     ```java
     java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
