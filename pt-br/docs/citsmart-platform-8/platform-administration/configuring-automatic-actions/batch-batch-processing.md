@@ -11,7 +11,11 @@ Rotinas como:
    
    - Verificação da hora do servidor
    
-   - Distribuição automática de Tickets com balanceamento carga de trabalho 
+   - Distribuição automática de Tickets com balanceamento carga de trabalho
+   
+## Antes de Começar
+
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Sendo assim, antes de utilizar qualquer rotina batch é necessário [configurar o Quartz][3].
 
 Procedimento
 ----------------
@@ -61,3 +65,4 @@ Rotinas Batch
 
 [1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
 [2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz
