@@ -24,7 +24,7 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
 
-3. Baixar o binário do [encoder (.jar)][2];
+3. Baixar o binário (.jar) do [encoder de vídeo][2] - que tem a função de compilar os vídeos oriundos das sessões;
 
 4. Copiar o enconder de vídeo para o servidor;
 
