@@ -11,8 +11,7 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 
 Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
-* [x] Ter a Gerência de Configuração implementada;
-* [x] Ter um processo de inventário definido e funcional;
+* [x] Ter um processo de inventário definido e funcional utilizando o CITSmart Inventory;
 * [x] Ter itens de configuração inventariádos;
 
 ## Procedimento
@@ -57,9 +56,12 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é acessar remota
 
 [Gerenciamento de Configuração][5]
 
+[Implementar o CITSmart Inventory][6]
+
 [1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
 [2]:images/citsmart-guacd-encoder.jar.zip
 [3]:https://www.tightvnc.com/
 [4]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
 [5]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
+[6]:https://docs.citsmart.com/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
 
