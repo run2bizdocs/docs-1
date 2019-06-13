@@ -16,7 +16,7 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
 ## Procedimento
 
-1. Instalar o GuaCD utilizando a [documentção oficial][1] ou baixar o container disponibilizado pela CITSmart;
+1. Instalar o GuaCD utilizando a [documentação oficial][1] ou baixar o container disponibilizado pela CITSmart;
 
 2. Após a instalação, configurar o apontamento de logs;
     
