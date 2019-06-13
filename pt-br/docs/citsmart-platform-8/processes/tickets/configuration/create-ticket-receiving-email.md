@@ -24,18 +24,18 @@ uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é
 Procedimento
 ----------
 
-**Passo 1**
+**Passo 1 - Cria um modelo de ticket**
 
 1.  Acessar a funcionalidade através da navegação do menu principal Sistema \>
     Ações automáticas \> Ações Incidentes/Requisições (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
-**Passo 2**
+**Passo 2 - Criar configuração para acesso à caixa de e-mail**
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
     Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações (ver Criar ação automática de e-mail).
 
-**Passo 3**
+**Passo 3 - Criar rotina de verificação (batch)**
 
 1.  Criar Rotina batch, acessando o menu principal Sistema \> Processamento
     Batch (ver Processamento Batch), do tipo "Classe Java" com o seguinte conteúdo:
