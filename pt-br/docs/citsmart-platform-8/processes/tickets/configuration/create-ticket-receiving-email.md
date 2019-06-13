@@ -15,8 +15,7 @@ funcionalidade, após checar que existe uma mensagem, registra um ticket
 automaticamente. É importante destacar que após o registro do ticket, o e-mail é
 marcado como lido.
 
-O que fazer antes
----------
+## Antes de começar
 
 Para criar um ticket através de um recebimento de e-mail é necessário configurar
 uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é necessário configurar a instância para utilização de rotinas batch, uma vez que a verificação de e-mail é uma tarefa agendada.
