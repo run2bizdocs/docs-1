@@ -19,7 +19,7 @@ O que fazer antes
 ---------
 
 Para criar um ticket através de um recebimento de e-mail é necessário configurar
-uma conta de e-mail para permitir o acesso via IMAP previamente.
+uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é necessário configurar a instância para utilização de rotinas batch, uma vez que a verificação de e-mail é uma tarefa agendada.
 
 Procedimento
 ----------
@@ -38,9 +38,11 @@ Procedimento
 *Passo 3*
 
 1.  Criar Rotina batch, acessando o menu principal Sistema \> Processamento
-    Batch (ver Processamento Batch):
+    Batch (ver Processamento Batch), do tipo "Classe Java" com o seguinte conteúdo:
 
-    -   Baixar script em anexo.
+```java
+br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+```
 
 
 !!! Abstract "ATENÇÃO"
@@ -68,11 +70,6 @@ Relacionado
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
-Anexo
-------------
-[Download - Verificar email][1]
-
-[Download -Script Rhino dados do email][2]
 
 !!! tip "About"
 
