@@ -20,9 +20,9 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
 2. Após a instalação, configurar o apontamento de logs;
     
-```sh
-/usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
-```
+    ```sh
+    /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
+    ```
 
 3. Baixar o binário do [encoder (.jar)][2];
 
@@ -30,9 +30,9 @@ Os seguintes quesitos antecedem o uso efetivo desta funcionalidade:
 
 5. Realizar a configuração substituindo as variáveis pelas inforamações de seu servidor;
     
-```java
-java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
-```
+    ```java
+    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
+    ```
     
 6. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
