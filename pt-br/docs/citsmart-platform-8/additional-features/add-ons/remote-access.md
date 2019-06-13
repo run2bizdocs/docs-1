@@ -7,7 +7,7 @@ A funcionalidade de acesso remoto permite que computadores sejam acessados remot
 Esta funcionalide é um complemento (add-on) à Gerência de Configuração e depende do processo de inventário para tonar o acesso remoto viável a um IC.
 
 
-## O que fazer antes
+## Antes de Começar
 
 Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
