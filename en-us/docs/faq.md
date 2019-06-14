@@ -436,35 +436,36 @@ description: Here you have the answers for the most common parameters when talki
 	```sh
     /etc/init.d/nagios reload
 	```
+
 !!! Question "How to configure the automatic satisfaction survey response?"
     
     The automatic response mechanism, which will answer automatically all service request satisfaction surveys, kicks in when the satisfaction survey is not filled out by the user within the deadline determined by the systems manager.
     
     To configure the automatic responses, proceed as instructed below:
 
-    1. Configure the following system parameters which determine the behavior of the automatic response mechanism:
+    1- Configure the following system parameters which determine the behavior of the automatic response mechanism:
      
-     - Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically filled out by the system;
+      - Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically filled out by the system;
     
-     - Parameter 152: Default rating which will be attributed to surveys that have been automatically filled out. Options: EXCELLENT, GOOD, REGULAR, POOR;
+      - Parameter 152: Default rating which will be attributed to surveys that have been automatically filled out. Options: EXCELLENT, GOOD, REGULAR, POOR;
      
-     - Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
+      - Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
      
-    2. Access the Batch Processing feature (System > Batch Processing).
+    2- Access the Batch Processing feature (System > Batch Processing).
     
-    3. The batch processing entry screen will be displayed, fill out the fields:
+    3- The batch processing entry screen will be displayed, fill out the fields:
      
-     - Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
+       - Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
    
-     - Situation: the situation determines if this processing will be active or inactive. When it is inactive the requests will not be answered;
+       - Situation: the situation determines if this processing will be active or inactive. When it is inactive the requests will not be answered;
     
-     - Type: select the “Java Class” type;
+       - Type: select the “Java Class” type;
     
-     - Schedule: determines when the activity will be executed, it is up to the administrator to determine the best time and recurrence ;
+       - Schedule: determines when the activity will be executed, it is up to the administrator to determine the best time and recurrence ;
     
-     - Content: insert the text: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+       - Content: insert the text: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
      
-    4. Click on the Save button to confirm the entry.
+    4- Click on the Save button to confirm the entry.
     
 	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
 	
