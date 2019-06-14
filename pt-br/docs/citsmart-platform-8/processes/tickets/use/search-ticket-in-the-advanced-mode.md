@@ -30,7 +30,7 @@ Procedimento
     tais como: execução, delegação, acompanhamento, visualização, grupo de
     usuários, vínculo com contrato, unidades e colaborador logado. Por isso,
     caso o parâmetro 61 esteja habilitado, serão disponibilizados somente as
-    unidades vinculadas ao contrato ao qual tem vínculo com os grupos em que
+    unidades vinculadas ao contrato ao qual tem vínculo com os grupos a que
     pertence;
 
 4.  Clicar no botão "Pesquisar";
@@ -44,7 +44,7 @@ Procedimento
         permitida de visualização. Favor redefinir os filtros de pesquisa";
 
 6.  Porém, caso a quantidade de registro retornada da pesquisa for menor que o
-    limitado no parâmetro 261, então o sistema verifica a configuração do
+    limite no parâmetro 261, então o sistema verifica a configuração do
     parâmetro 378;
 
 7.  É verificada a quantidade de registros para gerar o relatório em 2° plano,
@@ -56,7 +56,7 @@ Procedimento
 
 8.  Caso o arquivo a ser gerado for muito extenso, o sistema disparará uma
     notificação na tela principal, informando que o download do mesmo está
-    finalizado. Ao concluído, clicar no botão "Visualizar" para acessar o
+    finalizado. Ao concluir, clicar no botão "Visualizar" para acessar o
     relatório através do link disponibilizado.
 
 Relacionado
