@@ -122,15 +122,24 @@ Procedimento
 
 3. Clicar no botão "Salvar" e em seguida "Sicronizar usuários" para efetuar a operação.
 
+*6º Passo: Configurar o Logout:*
 
+ 1. Como o Okta não possui tela de logout, no parâmetro 377 do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
+ 
+ 2. Configurar o link para logout também no endereço (**Admin > Settings > Customization > Sign-Out-Page)** , em seguida marcar a opção "Usar a custom sign-out page". Então, deve-se inserir a URL (https://localhost:8443/citsmart/saml/logout) com as devidas adaptações (host e porta), conforme a imagem abaixo:
+ 
+ ![Logout](images/okta.img19.png)
+
+    !!!Abstract "NOTA"
+       
+       Ao fazer o *logout* do CITSmart não deve ser realizado o *logout* do Okta, pois o usuário pode ter outras aplicações na sessão do Okta. Em contrapartida, se fizer o *logout* do Okta, a sessão do usuário no CITSmart será removida.
+       
 O que fazer a seguir
 ----------------------
 
-Concluída a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração. São eles:
+Concluída a integração do Okta com o CITSmart, alguns parâmetros do CITSmart podem ser configurados para melhor personalizar esta integração:
 
- - Como o Okta não possui tela de logout, no parâmetro 377 do CITSmart podemos inserir algum endereço de página para redirecionar o usuário ao final da sessão;
- 
- - O parâmetro 445 (Nome do grupo Administrador no Okta) permite escolher o grupo administrador na solução Okta. Se o usuário pertencer a este grupo escolhido, terá o perfil de acesso definido como administrador. Se não for este caso, o perfil de acesso será o perfil padrão definido pelo parâmetro 39.
+ -  O parâmetro 445 (Nome do grupo Administrador no Okta) permite escolher o grupo administrador na solução Okta. Se o usuário pertencer a este grupo escolhido, terá o perfil de acesso definido como administrador. Caso o mesmo não tenha um perfil definido, o sistema atribuirá o parâmetro 39 e caso este usuário já tenha um perfil definido no CITSmart, este se manterá.
  
 !!! tip "About"
 

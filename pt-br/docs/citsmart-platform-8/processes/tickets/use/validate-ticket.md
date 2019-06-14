@@ -43,11 +43,11 @@ Procedimento
         * Solução Temporária: indicar se a atividade realizada para atendimento do incidente foi uma solução temporária.
 
 
-    - Se o tipo de solicitação for "Requisição", preencher o campo ""Solução Resposta"", descrever o que foi realizado para atendimento       da requisição de serviço.
+    - Se o tipo de solicitação for "Requisição", preencher o campo "Solução Resposta", descrever o que foi realizado para atendimento da requisição de serviço.
  
     !!! Abstract "ATENÇÃO"
 
-        Os passos de resolução do Ticket poderão ser sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É             possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
+        Os passos de resolução do Ticket podem ser a sugestão de um novo conhecimento, sendo avaliado previamente para efetivação.         É possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
  
 5.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 

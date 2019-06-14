@@ -12,7 +12,7 @@ de e-mail. Também é imprescindível o cadastro do acordo de nível de serviço
 (geral).
 
 Para criar uma ordem de serviço, é necessário que o usuário tenha permissão para
-abertura de OS e cadastrar o cadastrar o serviço do tipo "Ordem de Serviço",
+abertura de OS e cadastrar o serviço do tipo "Ordem de Serviço",
 vincular o serviço ao contrato, vincular o acordo de nível de serviço do tipo
 "OS - Resultados Esperados" ao serviço. Do mesmo modo, é imperativo registrar as
 atividades, com os seus respectivos valores, sendo um custo total ou calculado
@@ -25,7 +25,7 @@ Procedimento para vincular um serviço ao contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Serviços do Contrato" e em seguida no botão "Adicionar
@@ -47,14 +47,14 @@ Procedimento para vincular vários serviços ao contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Serviços do Contrato" e em seguida no botão "Adicionar
     VÁRIOS Serviços ao Contrato";
 
 4.  Preencher os campos necessários. Para vincular um fluxo de serviço, clicar
-    no ícone “+” do fluxo e selecionar o fluxo desejado e clicar em "Gravar".
+    no ícone “+” do fluxo, selecionar o fluxo desejado e clicar em "Gravar".
 
     !!! Abstract "ATENÇÃO"
 
@@ -69,7 +69,7 @@ Procedimento para verificar os serviços do contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Serão apresentados todos os serviços que estão vinculados ao contrato. Caso
@@ -82,10 +82,10 @@ Procedimento para editar as informações do vínculo do serviço ao contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
-3.   Clicar na aba "Serviços do Contrato", pesquise o serviço desejado e em
+3.  Clicar na aba "Serviços do Contrato", pesquisar o serviço desejado e em
     seguida no ícone “Editar o serviço” do serviço que deseja editar;
 
 4.  Alterar os dados conforme a necessidade e clicar no botão "Gravar" para
@@ -97,10 +97,10 @@ Procedimento para vincular SLA específico ao serviço do contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
-3.   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
+3.  Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
     Nível de Serviço” do serviço desejado. Clicar no botão "Criar acordo
     específico" para este serviço que será apresentado;
 
@@ -159,7 +159,7 @@ Procedimento para vincular SLA Global ao serviço do contrato
 
 **Primeira forma**:
 
-1.   Clicar na aba "Serviços do Contrato" e em seguida "Gerenciar SLAs Globais";
+1.  Clicar na aba "Serviços do Contrato" e em seguida "Gerenciar SLAs Globais";
 
 2.  Selecionar o acordo de nível de serviço que deseja vincular ao Serviço do
     Contrato. Ao selecionar este acordo, será exibida uma lista de Serviços do
@@ -170,13 +170,13 @@ Procedimento para vincular SLA Global ao serviço do contrato
 
 **Segunda forma**:
 
-1.   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
+1.  Clicar na aba "Serviços do Contrato" e em seguida no ícone “Acordos de
     Nível de Serviço” do serviço desejado. Clicar no botão "Vincular Acordo" e
     preencher os campos necessários;
 
 2.  Clicar em "Gravar" para efetuar a operação;
 
-3.  Após de efetuar o vínculo do acordo de nível de serviço ao serviço, clicar
+3.  Após efetuar o vínculo do acordo de nível de serviço ao serviço, clicar
     no botão "Habilita" para que o SLA seja habilitado.
 
 Procedimento para registrar atividades do serviço do contrato
@@ -185,10 +185,10 @@ Procedimento para registrar atividades do serviço do contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
-3.   Clicar na aba "Serviços do Contrato" e em seguida no ícone “Atividades do
+3.  Clicar na aba "Serviços do Contrato" e em seguida no ícone “Atividades do
     Serviço” do serviço desejado;
 
 4.  Apertar o botão "Adicionar Nova Atividade";
@@ -216,7 +216,7 @@ Procedimento para verificar o desempenho do contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Serviços do Contrato" e em seguida no botão "Desempenho do
@@ -228,7 +228,7 @@ Procedimento para excluir vínculo dos serviços com o contrato
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Serviços do Contrato"*,* selecione o serviço a ser excluído.
@@ -287,7 +287,7 @@ Procedimento para editar a ordem de serviço
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Ordens de Serviço" e pesquisar a ordem de serviço desejada;
@@ -347,7 +347,7 @@ podem ser executadas.*
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Ordens de Serviço". Após gerar o R.A da OS, pressione a guia
@@ -367,7 +367,7 @@ Procedimento para criar fatura
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Faturas" e em seguida no botão "Criar Fatura";
@@ -417,7 +417,7 @@ Procedimento para imprimir a fatura
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Fatura" e pesquisar a fatura desejada;
@@ -434,7 +434,7 @@ Procedimento para apontar a situação da fatura
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Fatura" e pesquisar a fatura desejada;
@@ -451,7 +451,7 @@ Procedimento para adicionar notificação
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Contratos \> Administração de Contratos;
 
-2.  Clicar sobre o campo o contrato e selecionar o contrato desejado. Em seguida
+2.  Clicar sobre o campo contrato e selecionar o contrato desejado. Em seguida
     clicar no botão "Pesquisar";
 
 3.  Clicar na aba "Notificações" e em seguida no botão "Adicionar Notificação";

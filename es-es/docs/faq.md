@@ -46,29 +46,29 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
     
-     1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
+     1- Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio 
     de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > 
     Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
         
-    - "Modelo de correo electrónico Apertura Solicitud/Incidente"
+       - "Modelo de correo electrónico Apertura Solicitud/Incidente"
 	
-    - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
+       - "Modelo de E-mail en la finalización de Incidentes/Solicitudes"
 	
-    - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
+       - "Modelo de E-mail en las demás acciones de Solicitudes/Incidentes" 
         
     REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
 
-    2. Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
+    2- Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
     
-    3. Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
+    3- Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
     
-    4. Seleccione el mismo;
+    4- Seleccione el mismo;
     
-    5. Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
+    5- Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
     
     REGLA: si ha determinado que las notificaciones serán obligatorias, al registrar una solicitud de servicio, en la pantalla de Registro de Solicitud de Servicio/Incidente, estas opciones ya estarán seleccionadas, no permitiendo su alteración. Pero si ha determinado que las notificaciones no serán obligatorias, al registrar una solicitud de servicio, estas opciones pueden ser definidas por el responsable del registro de la solicitud.
     
-    6. En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
+    6- En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
     
     REGLA: al registrar una solicitud de servicio, se enviará la notificación sólo al grupo ejecutor, el cual es responsable de la atención de la solicitud. Cuando se realiza la ejecución de las demás acciones y cierre de la solicitud de servicio, las notificaciones serán encaminadas solamente al solicitante.
     
@@ -77,18 +77,24 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de CITSmart. Para habilitar esta regla, proceda de la siguiente manera:
 
     1- En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
+    
     2- Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
+    
     3- Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    
     4- Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
+    
     5- Busque y cambie el parámetro 31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes (Ej: S o N) informando el valor "S";
+    
     6- Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
+    
     7- También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
     
       - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
     
       - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
     
-      -113: Modelo ID de correo electrónico de escalada automática;
+      - 113: Modelo ID de correo electrónico de escalada automática;
     
       - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
     
@@ -237,9 +243,9 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
     
-    "**Simplificada**" para una análisis Simplificada en el elemento.
+    -  "**Simplificada**" para una análisis Simplificada en el elemento.
     
-    "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
+    -  "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
  
 !!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
 
@@ -309,13 +315,19 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
   
     CONFIGURACIÓN A PARTIR DE LA PANTALLA DE CONFIGURACIÓN DEL GCA
     
-    1. Acceda a la funcionalidad de configuración del GCAS mediante la navegación en el menú principal Procesos ITIL > Gestión de Configuración > Configuración del GCAS. Hecho esto, aparecerá la pantalla de configuración de los parámetros (atributos) de gestión de configuración y activos de servicio;
-    2. Introduzca los valores de los parámetros (atributos):
-    Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo)
-    Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)
-    Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
-    3. Haga clic en el botón Grabar para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
-    4. Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
+    1- Acceda a la funcionalidad de configuración del GCAS mediante la navegación en el menú principal Procesos ITIL > Gestión de Configuración > Configuración del GCAS. Hecho esto, aparecerá la pantalla de configuración de los parámetros (atributos) de gestión de configuración y activos de servicio;
+    
+    2- Introduzca los valores de los parámetros (atributos):
+    
+    - Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo)
+    
+    - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)
+    
+    - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
+    
+    3- Haga clic en el botón Grabar para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
+    
+    4- Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
 	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL CITSMART
     
@@ -335,7 +347,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     14. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 
-!!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?
+!!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?"
 
     La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
     
@@ -426,31 +438,31 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     Para realizar la configuración de las respuestas automáticas, proceda de acuerdo a las siguientes instrucciones:
 
-    1. Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
+    1- Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
     
-     - Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
+      - Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
    
-     - Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
+      - Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
     
-     - Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
+      - Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
     
-    2. Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
+    2- Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
    
-    3. Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
+    3- Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
     
-     - Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
+      - Descripción: informe la descripción que identificará este proceso. Por ejemplo: "Respuesta automática encuesta de satisfacción";
     
-     - Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
+      - Situación: la situación define si este proceso estará activo o inactivo. Cuando se encuentre inhabilitado las solicitudes dejarán de ser respondidas;
     
-     - Tipo: seleccionar el tipo "Clase Java";
+      - Tipo: seleccionar el tipo "Clase Java";
     
-     - Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
+      - Programación: define cuando esta rutina se ejecutará, corresponde al administrador del sistema definir cuál es la mejor hora y frecuencia para la ejecución;
     
-     - Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
+      - Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
     
-    4. Haga clic en el botón Grabar para realizar el registro.
+    4- Haga clic en el botón Grabar para realizar el registro.
     
-	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor ' S'.
+	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor 'S'.
     
 !!! Question "¿Cómo habilitar la rutina de lectura automática de mensajes de correo electrónico"
 

@@ -9,7 +9,7 @@ Antes de começar
 
 É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart, configurar os parâmetros 257 e 272, sendo:
 
--   Valores: "S" ou "N" Default: "N"
+-   Valores: "S" ou "N". Default: "N"
 
 -   Caso o valor do parâmetro seja “S”, poderão ser mostradas somente as
     notificações de solicitações sem responsável atual.
@@ -64,13 +64,13 @@ Certificado Digital) é necessário a instalação do mesmo:
 
     Figura 2 - Instalação do certificado no Windows
 
-3.  Depois de instalado, basta alterar o endereço do aplicativo para suas
+3.  Depois de instalado, alterar o endereço do aplicativo para suas
     necessidades (exemplo:
     “[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
 ### Instalação do app Android/iOS
 
-1.  Acessar a loja (Play Store ou App Store) para abaixar o aplicativo CITSmart
+1.  Acessar a loja (Play Store ou App Store) para baixar o aplicativo CITSmart
     Experience mobile;
 
 2.  Pesquisar por CITSmart Experience e após a pesquisa, selecionar o aplicativo;
