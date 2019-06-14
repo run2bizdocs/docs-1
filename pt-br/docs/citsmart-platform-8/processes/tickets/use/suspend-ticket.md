@@ -16,7 +16,7 @@ Procedimento
 1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
     Requisição e Incidente \> Ticket;
 
-2.  Selecionar ou procurar pelo o ticket;
+2.  Selecionar ou procurar pelo ticket;
 
 3.  Clicar sobre ele, selecionar o botão “Mais Opções” e escolher a opção
     "Suspender".
@@ -25,7 +25,7 @@ O que fazer a seguir
 --------------------
 
 Verificar na página de tickets relacionados se o mesmo se encontra com a
-situação "suspensa".
+situação "Suspensa".
 
 Relacionado
 -----------
