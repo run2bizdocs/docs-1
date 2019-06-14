@@ -40,7 +40,7 @@ Procedimento
     Batch (ver Processamento Batch), do tipo "Classe Java" com o seguinte conteúdo:
 
 ```java
-br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+ br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
 ```
 
 
