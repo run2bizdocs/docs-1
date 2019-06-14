@@ -43,7 +43,7 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
         além disso, o início da compilação está atrelado à rotina cron 
         definida na conexão de acesso remoto.
         
-7. No item de configuração que será acessado remotamenete (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guardar esta senha pois ela será utilizada no próximo passo.
+7. No item de configuração que será acessado remotamente (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guardar esta senha pois ela será utilizada no próximo passo.
     
 8. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][4].
 
