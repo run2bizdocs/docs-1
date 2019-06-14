@@ -343,8 +343,8 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
   
     CONFIGURAÇÃO A PARTIR DA TELA DE CONFIGURAÇÃO DO GCAS
     
-    1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
-    2. Informe os valores dos parâmetros (atributos):
+    1- Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
+    2- Informe os valores dos parâmetros (atributos):
     
        - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
     
@@ -352,8 +352,8 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
        - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
     
-    3. Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
-    4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
+    3- Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
+    4- Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
 	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO CITSMART
     
