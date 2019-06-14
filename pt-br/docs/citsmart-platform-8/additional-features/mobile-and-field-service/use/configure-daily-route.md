@@ -2,13 +2,13 @@ title: Configurar as rotas diárias
 Description: Tem por objetivo configurar a agenda diárias dos técnicos de campo
 # Configurar as rotas diárias
 
-Esta funcionalidade tem por objetivo configurar a agenda diárias dos técnicos de campo. Após a configuração, o técnico terá uma lista de solicitações que serão atendidas por via Mobile.
+Esta funcionalidade tem por objetivo configurar a agenda diárias dos técnicos de campo. Após a configuração, o técnico terá uma lista de solicitações que serão atendidas via Mobile.
 Esta tela permite realizar a pesquisa de solicitações de acordo com os filtros informados, ou seja, de acordo com sua necessidade, a fim de direcionar as solicitações abertas para serem atendidas pelo técnico de campo.
 
 Antes de começar
 ----------------
 
-Antes de configurar a agenda diárias dos técnicos de campo é necessário
+Antes de configurar a agenda diária dos técnicos de campo é necessário
 configurar a conexão do sistema com as API's do Google.
 
 Procedimento
@@ -17,8 +17,8 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Gestão
     Integrada \> Gerência de Força de Atendimento \> Gerência de Rotas Diárias;
 
-2.  Definir os filtros conforme a necessidade e clicar no botão Pesquisar. Será
-    apresentado as solicitações as quais o técnico tem permissão de execução com
+2.  Definir os filtros conforme a necessidade e clicar no botão "Pesquisar". Serão
+    apresentadas as solicitações as quais o técnico tem permissão de execução com
     as seguintes situações (não atendida, em atendimento, atendida com
     pendência);
 
@@ -31,7 +31,7 @@ Procedimento
     -   No campo "**Data de execução**", informar a data prevista para
         execução das solicitações;
 
-    -   Após selecionar as solicitações, será apresentado no mapa os marcadores
+    -   Após selecionar as solicitações, serão apresentados no mapa os marcadores
         da rota que o técnico deverá seguir. Lembrar que ao clicar no marcador
         da rota, serão apresentadas as informações da solicitação de serviço.
 
