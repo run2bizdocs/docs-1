@@ -1,4 +1,4 @@
-Title: Manual de utilização do aplicativo mobile CITSmart Experience
+Title: Manual de utilização do aplicativo mobile CITSmart Experience - Android
 # Manual de utilização do aplicativo mobile CITSmart Experience - Android
 
 Este documento tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart Experience, disponível nas plataformas Android e iOS.

@@ -1,4 +1,4 @@
-Title: User guide - CITSmart Experience mobile application
+Title: User guide - CITSmart Experience mobile application - IOS
 # User guide - CITSmart Experience mobile application - IOS
 
 This document is intended to provide guidance for installing, configuring, and using the CITSmart Experience mobile application, available on both Android and iOS platforms.
