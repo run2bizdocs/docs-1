@@ -347,7 +347,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     14. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 
-!!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?
+!!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?"
 
     La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
     
