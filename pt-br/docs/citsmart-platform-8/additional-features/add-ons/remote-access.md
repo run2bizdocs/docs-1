@@ -4,7 +4,7 @@ Title: Implementar o Acesso Remoto
 
 A funcionalidade de acesso remoto permite que computadores sejam acessados remotamente a partir de sua instância CITSmart. Neste sentido, são utilizados os recursos do protocolo VNC (Virtual Network Computing) por intermédio do Apache Guacamole - Gateway de acesso remoto baseado na web - para tornar esta operação viável. Além de poder acessar remotamente um item de configuração, todas as sessões são gravadas e disponibilizadas junto às informações do IC. Isto garante um melhor controle sobre as ações realizadas, proporcionando um ambiente confiável e auditável.
 
-Esta funcionalide é um complemento (add-on) à Gerência de Configuração e depende do processo de inventário para tonar o acesso remoto viável a um IC.
+Esta funcionalidade é um complemento (add-on) à Gerência de Configuração e depende do processo de inventário para tonar o acesso remoto viável a um IC.
 
 
 ## Antes de Começar
@@ -12,7 +12,7 @@ Esta funcionalide é um complemento (add-on) à Gerência de Configuração e de
 Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
 * [x] Ter um processo de inventário definido e funcional utilizando o CITSmart Inventory;
-* [x] Ter itens de configuração inventariádos;
+* [x] Ter itens de configuração inventariados;
 
 ## Procedimento
 
@@ -43,7 +43,7 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
         além disso, o início da compilação está atrelado à rotina cron 
         definida na conexão de acesso remoto.
         
-7. No item de configuração que será acessado remotamenete (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guarde esta senha pois ela será utilizada no próximo passo.
+7. No item de configuração que será acessado remotamenete (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guardar esta senha pois ela será utilizada no próximo passo.
     
 8. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][4].
 
