@@ -324,13 +324,19 @@ description: Here you have the answers for the most common parameters when talki
     
     CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-    1. Access the GCAS Configuration feature navigating through the main menu ITIL Processes > Configuration Management > GCAS Configuration. Afterwards, the service assets and the management parameters (attributes) configuration screen will be displayed;
-    2. Insert the parameters value (attributes):
-    Name of the CIs Group which are in the Development Phase (i.e.: CIs in Development)
-    Name of the CIs Group which are in the Production Phase (i.e.: CIs in Production)
-    Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
-    3. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
-    4. After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
+    1- Access the GCAS Configuration feature navigating through the main menu ITIL Processes > Configuration Management > GCAS Configuration. Afterwards, the service assets and the management parameters (attributes) configuration screen will be displayed;
+    
+    2- Insert the parameters value (attributes):
+    
+      - Name of the CIs Group which are in the Development Phase (i.e.: CIs in Development)
+      
+      - Name of the CIs Group which are in the Production Phase (i.e.: CIs in Production)
+      
+      - Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
+    
+    3- Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
+    
+    4- After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
