@@ -2,14 +2,14 @@ title:  Criar regra de escalonamento
 Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
 # Criar regra de escalonamento
 
-Esta funcionalidade permite criar regras de escalonamento a fim de fornecer uma perspectiva de impacto à empresa ao gerir os atendimentos dos tickets (e suas eventuais requisições e incidentes) dentro de um tempo hábil pré-estabelecido. Ao criar regras para a notificação do responsável quando o ticket está em nível crítico de ruptura de seu SLA é possível evitar esta através de ações preventivas e escalonar este atendimento a outros grupos executores e respeitar assim seu tempo de atendimento.
+Esta funcionalidade permite criar regras de escalonamento a fim de fornecer uma perspectiva de impacto à empresa ao gerir os atendimentos dos tickets (e suas eventuais requisições e incidentes) dentro de um tempo hábil pré-estabelecido. Ao criar regras para a notificação do responsável quando o ticket está em nível crítico de ruptura de seu SLA é possível evitar esta através de ações preventivas, escalonar este atendimento a outros grupos executores e respeitar assim seu tempo de atendimento.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir a regra de escalonamento.
 
 Antes de começar 
 -----------------
 
 Para criar as regras de escalonamento, é necessário configurar o parâmetro
-190 o valor **S** e cadastrar previamente os contratos, colaborados,
+190 o valor **S** e cadastrar previamente os contratos, colaboradores,
 grupos, os portfólios de serviços e a ação automática do tipo escalonamento.
 
 Já no arquivo **citsmart.cfg**, é preciso configurar a propriedade 
