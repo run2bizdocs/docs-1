@@ -130,8 +130,8 @@ Procedimento
  
  ![Logout](images/okta.img19.png)
 
-    !!!Abstract "NOTA"   
-       Ao fazer o *logout* do CITSmart não deve ser realizado o *logout* do Okta, pois o usuário pode ter outras aplicações na sessão do Okta. Em contrapartida, se fizer o *logout* do Okta, a sessão do usuário no CITSmart será removida.  
+!!!Abstract "NOTA"   
+   Ao fazer o *logout* do CITSmart não deve ser realizado o *logout* do Okta, pois o usuário pode ter outras aplicações na sessão do Okta. Em contrapartida, se fizer o *logout* do Okta, a sessão do usuário no CITSmart será removida.  
        
 O que fazer a seguir
 ----------------------
