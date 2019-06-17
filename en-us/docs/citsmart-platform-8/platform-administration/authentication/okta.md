@@ -131,7 +131,7 @@ end of the session;
 custom sign-out page". Therefore, enter the URL (https://localhost:8443/citsmart/saml/logout) with the appropriate adaptations (host and 
 port), according to the image below:
 
-![Logout](images/okta.img19.png)
+ ![Logout](images/okta.img19.png)
 
    !!!Abstract "NOTE"
    
