@@ -1,15 +1,15 @@
-Title: Expressions
+Title: Expresiones
 
-# Expressions
+# Expresiones
 
-Expressions are resources used in system flows to allow the construction of several scenarios, in addition, expressions can also be used to configure different status of an attendance flow.
+Las expresiones son recursos utilizados en los flujos del sistema para permitir la construcción de diversos escenarios, además, las 
+expresiones también se pueden utilizar para configurar diferentes estados de un flujo de atención.
 
-## Related
+## Relacionado
 
-[Expressions Creator][1]  
+[Construir Expresiones][1]  
 
-
-[1]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[1]:/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html
 
 
 !!! tip "About"
