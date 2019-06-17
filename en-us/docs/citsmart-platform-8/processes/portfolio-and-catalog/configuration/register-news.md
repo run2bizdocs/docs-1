@@ -1,8 +1,9 @@
 title: Register news
-Description: Register news in the system. 
+Description: It provides several actions, such as including, changing and deleting the news that will be published in the Smart Portal. 
 # Register news
 
-This feature provides various actions, such as including, changing and deleting the news that will be published in the Smart Portal.
+This feature provides various actions, such as including, changing and deleting 
+the news that will be published in the Smart Portal.
 
 Before getting started
 --------------------------
@@ -15,11 +16,11 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Portfolio and
     Catalog Management \> News Registration \> News;
 
-2.  Click on the button "Add news";
+2.  Click on the button "Add news", located at the bottom of the screen (indicated by the "+" sign);
 
 3.  Complete the fields available;
 
-4.  Click on the button "Operations" and then on "Save".
+4.  Click on "Operations" (located at the bottom of the screen) and then on "Save".
 
 Related
 -------

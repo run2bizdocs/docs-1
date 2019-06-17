@@ -41,7 +41,7 @@ Procedimento
 
     !!! Abstract "REGRA"
 
-        Antes de pedir para testar DEVE ser clicado o botão "Gravar" para salvar a
+        Antes de pedir para testar **deve-se** clicar o botão "Gravar" para salvar a
         configuração, caso contrário o teste usará os dados anteriores às alterações
         feitas na tela.
 
@@ -66,6 +66,7 @@ URL: ldaps://your-host.com:636
 ```
 
 !!! success "Certificado digital"
+
     Exportar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instância CITSmart.
     
 

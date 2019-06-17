@@ -17,11 +17,11 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Portfólio e Catálogo \> Cadastro de Notícias \> Notícias;
 
-2.  Clicar o botão "Adicionar uma nova notícia";
+2.  Clicar o botão "Adicionar uma nova notícia" localizado no canto inferior da tela (indicado pelo sinal de "+");
 
 3.  Preencher os campos disponibilizados;
 
-4.  Clicar no botão "Opções".
+4.  Clicar no botão "Opções" (localizado no canto inferior da tela) e em seguida em "Salvar".
 
 
 Relacionado

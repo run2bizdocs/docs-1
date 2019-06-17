@@ -1,7 +1,7 @@
 title: Configurar campos de obrigatoriedade
 Description: É facultado ao administrador a escolha de quais campos o usuário será compelido a preencher
-#Configurar campos de obrigatoriedade
-Através da configuração dos campos de obrigatoriedade é facultado ao administrador a escolha de quais campos o usuário será compelido a preencher ao contectar os atendentes. A finalidadade desta habilidade é impor ao solicitante a satisfazer as informações imprescindíveis a resolução de sua solicitação.  
+# Configurar campos de obrigatoriedade
+Através da configuração dos campos de obrigatoriedade é facultado ao administrador a escolha de quais campos o usuário será compelido a preencher ao contactar os atendentes. A finalidadade desta habilidade é impor ao solicitante a satisfazer as informações imprescindíveis a resolução de sua solicitação.  
 
 Procedimento
 ------------
@@ -58,7 +58,7 @@ determinadas informações sejam registradas ao criar o incidente/requisição.*
     !!! Abstract "ATENÇÃO"
 
         Os parâmetros 65 (que identifica o ID de origem do chamado padrão da
-        solicitação de serviço) e 105 (indentifica o ID de origem que será setado
+        solicitação de serviço) e 105 (identifica o ID de origem que será setado
         como padrão ao criar um novo incidente) setam uma origem de contato
         automaticamente quando o usuário cadastrar um ticket. Assim sendo, caso o
         campo “Origem do contato” na tela de ticket *não* for obrigatório, porém,

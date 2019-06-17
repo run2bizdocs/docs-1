@@ -8,7 +8,7 @@ Antes de começar
 ----------------
 
 Para executar o ticket além da permissão para efetuar a operação e o cadastro
-prévio da causa de incidente e da categoria de solução. É necessário
+prévio da causa de incidente e da categoria de solução, é necessário
 anteriormente, habilitar o parâmetro 298 (setar para o "S").
 
 É preciso também setar no parâmetro 253, o ID do e-mail escolhido para registrar
@@ -30,7 +30,7 @@ Procedimento 
 2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
     ícone “Abrir”;
 
-3.  Na área intitulado "Execução", clicar no ícone "Adicionar nota" e preencher
+3.  Na área intitulada "Execução", clicar no ícone "Adicionar nota" e preencher
     os campos necessários (tecer o comentário pertinente, registrar a data e
     tempo gasto na execução do ticket). É possível permitir a visualização
     destas informações ao solicitante quando selecionar o campo " Visível ao
@@ -44,10 +44,10 @@ Procedimento 
         direito da tela.
 
 4.  Caso tenha concluído o atendimento do ticket, na área "Fechamento", alterar
-    a situação do mesmo para "Resolvida", basta clicar na situação para alterar.
+    a situação do mesmo para "Resolvida", clicar na situação para alterar.
     Informar também os dados sobre a solução realizada:
 
-    -   Se o tipo de ticket for Incidente ou Incidente, preencher os campos
+    -   Se o tipo de ticket for Incidente ou Requisição, preencher os campos
        necessários (Causa, categoria de solução, detalhamento da causa, solução
        resposta, definir se a "solução resposta" na Base de conhecimento e se a
        solução é temporária). Caso tenha optado por "Gravar a Solução/Resposta

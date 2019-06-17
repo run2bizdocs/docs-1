@@ -1,6 +1,6 @@
 title: Cadastrar modelo de planilha para importação de portfólio de serviços
 Description: Otimizar a criação de vários serviços e consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
-#Cadastrar modelo de planilha para importação de portfólio de serviços
+# Cadastrar modelo de planilha para importação de portfólio de serviços
 
 O objetivo desta funcionalidade é otimizar a criação de vários serviços e
 consequentemente de suas atividades dentro de um ou mais portfólios de serviços.
@@ -34,7 +34,7 @@ Procedimento
 4.  Para gerar modelo de planilha em formato ".xls", clicar no botão "Gerar
     Modelo .xls";
 
-5.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão 'Gerar
+5.  Para gerar modelo de planilha em formato ".xlsx", clicar no botão "Gerar
     Modelo .xlsx".
 
 

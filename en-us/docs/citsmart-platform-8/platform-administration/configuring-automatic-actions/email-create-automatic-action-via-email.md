@@ -4,6 +4,7 @@ Description: Intended to program the automatic opening of a service request thro
 
 This functionality is intended to program the automatic opening of a service
 request through email.
+This feature provides a variety of actions, such as including, changing, and deleting an automatic action via email.
 
 Before getting started
 --------------------------

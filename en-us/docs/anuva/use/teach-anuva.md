@@ -1,7 +1,7 @@
 title: How to teach Anuva
 # How to teach Anuva
 
-Anuva learns from the dialogues added to its knowledge base. These dialogues are structured in Interests (possible phrases used in user interaction) and Abilities (possible chatbot responses to user interactions). 
+Anuva learns from the dialogues added to its knowledge base. These dialogues are structured in **Interests** (possible phrases used in user interaction) and **Abilities** (possible chatbot responses to user interactions). 
 
 Since Anuva works reactively to user interactions, in order to form dialogues we need to group interests and abilities in pairs. Contexts will be used only when, during the dialog, it is necessary to store some information that the user refers to for use in another point of the conversation.
 

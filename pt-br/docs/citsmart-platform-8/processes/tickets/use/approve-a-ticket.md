@@ -1,6 +1,6 @@
 title: Aprovar um ticket
 Description: Em alguns casos, os tickets do tipo "Requisição" irão passar por uma fase de aprovação para execução dos mesmos. Isso irá depender do fluxo de trabalho do ticket, o qual está vinculado a atividade de requisição do serviço. 
-#Aprovar um ticket
+# Aprovar um ticket
 
 Quando um ticket possuir uma atividade de aprovação é possível confirmar ou
 rejeitar este pedido utilizando o recurso para esta finalidade. Neste sentido, o
@@ -11,7 +11,7 @@ atividade.
 !!! Abstract "ATENÇÃO"
 
     Para aprovação de forma simplificada do ticket é preciso que o fluxo da
-    solicitação de serviço possua uma tarefa do tipo aprovação, assim o botão de
+    solicitação de serviço possua uma tarefa do tipo aprovação, assim, o botão de
     aprovação rápida estará visível.
 
 
@@ -34,7 +34,7 @@ CITSmart SM.*
 2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
     ícone “Abrir”;
 
-3.  Verificar o ticket e registrar as informações necessárias referente à
+3.  Verificar o ticket e registrar as informações necessárias referente a
     aprovação do mesmo;
 
 4.  Marcar umas das opções de aprovação: **Aprovada** ou **Não aprovada**:
@@ -44,7 +44,7 @@ CITSmart SM.*
     -   Se marcar "Não aprovada", descrever as observações, informar a
         justificativa e o complemento da justificativa.
 
-5.  Clicar no botão de “Opções” e logo em seguida clique no botão “Gravar e
+5.  Clicar no botão de “Opções” e logo em seguida clicar no botão “Gravar e
     avançar fluxo” para gravar e avançar o fluxo. Feito isso, se o ticket
     estiver sido aprovado, o mesmo será encaminhado para a fase de execução, ou
     seja, para o atendimento do mesmo. Mas, caso o ticket não seja aprovado, o

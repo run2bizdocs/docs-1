@@ -13,7 +13,7 @@ Procedimento
 
 2.  Clicar no botão "Novo";
 
-3.  Preencher os campos necessários (nome e selecionar a situação do papel);
+3.  Preencher os campos necessários;
 
 4.  Clicar no botão "Gravar" para efetuar a operação.
 

@@ -151,7 +151,7 @@ Figure 3 - Options Button
 
 Figure 4 - Search Button
 
-Search Button - it returns the main screen of the knowledge search.
+**Search Button** - it returns the main screen of the knowledge search.
 
 !!! Warning "Version"
 

@@ -1,6 +1,6 @@
 title: Cadastrar conexões externas
 Description: Permitir a criação de conexões com outros bancos de dados seja ele interno ou externo.
-#Cadastrar conexões externas
+# Cadastrar conexões externas
 
 Esta funcionalidade tem por objetivo permitir a criação de conexões com outros
 bancos de dados seja ele interno ou externo.
@@ -23,7 +23,7 @@ Procedimento
 
 !!! Abstract "NOTA"
 
-    É apresentado a seguinte mensagem caso os dados do campo Url, Usuário e
+    É apresentada a seguinte mensagem caso os dados do campo Url, Usuário e
     Senha não forem válidos: "Dados incorretos e/ou Banco inacessível! Deseja
     salvar assim mesmo?"
 

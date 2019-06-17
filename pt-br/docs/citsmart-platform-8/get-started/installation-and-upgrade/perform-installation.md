@@ -154,13 +154,15 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 No bash do CLI executar os comandos abaixo para criação das propriedades do
 CITSmart.
 
+#### CLI
+
 ```java
-/system-property=mongodb.host:add(value="mongodb.citsmart.com")
+/system-property=mongodb.host:add(value="citmongo")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
 /system-property=mongodb.password:add(value="admin")
 /system-property=citsmart.protocol:add(value="http")
-/system-property=citsmart.host:add(value="itsm.citsmart.com")
+/system-property=citsmart.host:add(value="my.citsmart.com")
 /system-property=citsmart.port:add(value="8080")
 /system-property=citsmart.context:add(value="citsmart")
 /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
@@ -172,6 +174,31 @@ CITSmart.
 /system-property=rhino.scripts.directory:add(value="")
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength" (value="100")
+/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+```
+
+#### XML
+
+```java
+<system-properties>
+    <property name="mongodb.host" value="citmongo"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="admin"/>
+    <property name="mongodb.password" value="admin"/>
+    <property name="citsmart.protocol" value="http"/>
+    <property name="citsmart.host" value="my.citsmartcloud.com"/>
+    <property name="citsmart.port" value="8080"/>
+    <property name="citsmart.context" value="citsmart"/>
+    <property name="citsmart.login" value="citsmart.local\\\consultor"/>
+    <property name="citsmart.password" value="senhaConsultor"/>
+    <property name="citsmart.inventory.id" value="citsmartinventory"/>
+    <property name="citsmart.evm.id" value="citsmartevm"/>
+    <property name="citsmart.evm.enable" value="false"/>
+    <property name="citsmart.inventory.enable" value="false"/>
+    <property name="rhino.scripts.directory" value=""/>
+    <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+</system-properties>
 ```
 
 ### Configuração dos Datasources
@@ -204,7 +231,7 @@ modulo ao standalone-full-ha.xml
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que quatro são para o Citsmart e quatro para o Citsmart Neuro. O usuário e senha é **citsmartdbuser e exemplo123**, respectivamente, criados no item *Servidor de Banco de Dados PostgreSQL*;
+3. Existem **oito entradas** de datasource para o **citsmart_db**, sendo que quatro são para o CITSmart e quatro para o CITSmart Neuro. O usuário e senha é **citsmartdbuser e exemplo123**, respectivamente, criados no item *Servidor de Banco de Dados PostgreSQL*;
 
 4. Para criar os datasources, execute os comandos CLI abaixo:
 
@@ -302,7 +329,7 @@ modulo ao standalone-full-ha.xml
 
 
 
-5. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
+5. Antes de sair do jboss-cli,executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
     
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -349,7 +376,7 @@ modulo ao standalone-full-ha.xml
     </subsystem>
     ```
 
-2. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+2. Antes de sair do jboss-cli, executar o comando reload para aplicar as alterações.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
@@ -371,13 +398,126 @@ modulo ao standalone-full-ha.xml
     QUANTIDADE_BACKUPLOGDADOS=1000
     START_MODE_RULES=FALSE
     START_MODE_RULES=FALSE
-    LOAD_FACTSERVICEREQUESTRULES = TRUE
+    LOAD_FACTSERVICEREQUESTRULES=TRUE
+    INICIAR_PROCESSAMENTOS_BATCH=TRUE
     ```
 
     !!! Abstract "ATENÇÃO"
     
         Não esquecer de alterar o dono dos arquivos e diretórios para o usuário CITSmart.
 
+## Configuração do Quartz
+
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Para configurá-lo, siga o procedimento:
+
+1. Crie um arquivo de nome "quartz.properties" contendo os dados abaixo, coforme o seu tipo de instalação (standalone ou cluster);
+2. Salve este arquivo na pasta "configuration" do servidor de aplicação.
+
+### Instalação Standalone (independente de banco de dados):
+
+```java
+#===============================================================
+#Configure Main Scheduler Properties
+#===============================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#===============================================================
+#Configure ThreadPool
+#===============================================================
+org.quartz.threadPool.threadCount =  5
+org.quartz.threadPool.threadPriority = 5
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+#===============================================================
+#Configure JobStore
+#===============================================================
+org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
+```
+
+### Instalação Cluster
+
+#### Banco de Dados Postgres:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Banco de Dados Microsoft SQL Server:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Banco de Dados Oracle:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
 
 ## Criação de diretórios para instalação
 
@@ -423,7 +563,7 @@ Caso possua um certificado é importante utilizá-lo.
 
 1. Conectar no servidor do Wildfly.
     
-    Criando aliás novo com DNS (exemplo itsm.citsmart.com): 
+    Criando alias novo com DNS (exemplo itsm.citsmart.com): 
     
     
     ```sh
@@ -473,7 +613,7 @@ Caso possua um certificado é importante utilizá-lo.
 
 ## Iniciando as soluções seguindo dependências
 
-1. Antes de sair do jboss-cli execute o comando reload para aplicar as alterações.
+1. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
     **Servidor de Banco de Dados PostgreSQL**:
 
@@ -515,7 +655,7 @@ Caso possua um certificado é importante utilizá-lo.
 ### Acesso ao CITSmart Enterprise
 
 
-1. Para acessar o CITSmart Enterprise, devemos acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
+1. Para acessar o CITSmart Enterprise, deve-se acessar o IP ou endereço (registrado no DNS) seguido da porta e contexto.
 
     ```sh
     https://itsm.citsmart.com:8443/citsmart
@@ -523,9 +663,9 @@ Caso possua um certificado é importante utilizá-lo.
 	
 2. O contexto "citsmart" é o padrão do CITSmart Enterprise.
 
-    Primeiro acesso: Entre com a URL > https://itsm.citsmart.com:8443/citsmart.
+    Primeiro acesso: entrar com a URL > https://itsm.citsmart.com:8443/citsmart.
 
-3. Agora, siga os 3 passos de configuração e comece a usar a solução CITSmart.
+3. Seguir os 3 passos de configuração e usar a solução CITSmart.
 
 ## Deploy do CITSmart Neuro
 

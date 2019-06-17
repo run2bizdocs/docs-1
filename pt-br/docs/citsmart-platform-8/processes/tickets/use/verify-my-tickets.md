@@ -12,7 +12,7 @@ Antes de começar
 
 Para verificar os tickets pessoais é necessário registrar previamente
 solicitações de serviço e o item de configuração devendo este último estar
-vinculado a solicitação.
+vinculado à solicitação.
 
 Procedimento
 ------------

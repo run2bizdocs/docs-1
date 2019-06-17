@@ -3,12 +3,12 @@ Description: Permite gerenciar os eventuais riscos ao sistema
 # Realizar auditoria no sistema
 
 Esta funcionalidade permite gerenciar os eventuais riscos ao sistema, ao auditar todas as execuções efetivadas no sistema em forma de logs.
-Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração
+Foram feitas algumas mudanças na auditoria (itsm-audit-0.4.0), mudanças essas apenas a nível de configuração.
 
 Antes de começar 
 -----------------
 
-Configurar a funcionalidade "Audit" em sua instância
+Configurar a funcionalidade "Audit" em sua instância.
    
 Procedimento
 ------------
@@ -48,10 +48,10 @@ realizadas no sistema.*
 1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
     Trilha de auditoria \> Auditoria de dados;
 
-2.  Será exibido os logs de auditoria de toda movimentação realizada no
+2.  Serão exibidos os logs de auditoria de toda movimentação realizada no
     programa, mostrando a data e hora das atualizações, o endereço de IP, o nome
     do executor da atualização, o nome da tabela, o tipo de operação efetivada
-    no sistema. Ao clicar no botão dados será apresentado o que de fato foi
+    no sistema. Ao clicar no botão "dados" será apresentado o que de fato foi
     atualizado no programa.
 
     !!! Abstract "ATENÇÃO"
@@ -75,7 +75,7 @@ realizadas no sistema.*
 1.  Acessar a funcionalidade através da navegação no menu principal Sistema \>
     Trilha de auditoria \> Auditoria de acesso;
 
-2.  Será exposto os usuários que efetuaram o login e logout no sistema,
+2.  Serão expostos os usuários que efetuaram o login e logout no sistema,
     registrando também a data e a hora de cada uma destas atividades;
 
     !!! Abstract "NOTA" 

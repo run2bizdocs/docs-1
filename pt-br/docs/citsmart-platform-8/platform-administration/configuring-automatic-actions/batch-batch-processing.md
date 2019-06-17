@@ -1,14 +1,21 @@
 title: Processamento Batch
 Description: Tem o objetivo de registrar o processamento batch, que poderá ser utilizado em outras rotinas do sistema.
-#Processamento Batch
+# Processamento Batch
 
 Esta funcionalidade tem o objetivo de registrar a utilização de processamento batch, que
 poderá ser utilizado em outras rotinas do sistema.
 
 Rotinas como:
+
    - Verificação de e-mail
+   
    - Verificação da hora do servidor
-   - Distribuição automática de Tickets com balanceamento carga de trabalho 
+   
+   - Distribuição automática de Tickets com balanceamento carga de trabalho
+   
+## Antes de Começar
+
+O processamento Batch do CITSmart utiliza o Quartz para o agendamento e processamento de rotinas de sistema. Sendo assim, antes de utilizar qualquer rotina batch é necessário [configurar o Quartz][3].
 
 Procedimento
 ----------------
@@ -22,26 +29,33 @@ Procedimento
     RhinoScript, SQL]; situação; expressão cron que define o horário de execução
     da rotina e o conteúdo da rotina, onde será descrito o contexto da rotina a
     ser executada na ferramenta);
+    
+    Exemplo de conteúdo "Clase Java":
+    ```java
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
 4.  Clicar em "Gravar".
 
 Rotinas Batch
 -----------------
 
--   Retornar horário do Servidor (baixar script em anexo);
+-   Retornar horário do Servidor
 
     -   Tipo: RhinoScript
+    -   Conteúdo:
+    
+        [Baixar Script][2]
 
--   Realizar leitura de e-mail (baixar script em anexo).
+-   Realizar leitura de e-mail
 
     -   Tipo: Classe Java
+    -   Conteúdo:
+    
+    ```java
+    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    ```
 
-
-Anexo
------
-[Download - Rotina verificar email][1]
-
-[Download - Rotina retorna hora servidor][2]
 
 !!! tip "About"
 
@@ -49,5 +63,6 @@ Anexo
     <b>Updated:</b>01/18/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-verificar-email.docx
-[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/rotina-retorna-hora-servidor.docx
+[1]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz

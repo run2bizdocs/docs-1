@@ -43,6 +43,10 @@ Procedimento
 
     Para movimentar um **workspace** alterando sua ordenação, clicar e arrastar o
     mesmo para a posição de prioridade desejada.
+    
+!!! Abstract "NOTA"
+    
+    O campo de pesquisa busca qualquer informação que esteja em qualquer outro workspace, sprint, lista ou tarefa.
 
 
 ***II - Criar uma Sprint***

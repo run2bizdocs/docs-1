@@ -1,6 +1,6 @@
 title: Reclassificar um ticket
 Description: Após criar um ticket é possível reclassificar as informações de um ticket depois sua abertura.  
-#Reclassificar um ticket
+# Reclassificar um ticket
 Após criar um ticket é possível reclassificar as informações de um ticket depois sua abertura. Essa ação desencadeia um e-mail para o solicitante informando sobre a alteração feita.
 Não é permitido delegar ao ticket a um atendente se a situação dela for “Resolvida”.
 

@@ -1,6 +1,6 @@
 title: Importar colaborador
 Description: permite realizar a importação da planilha de colaborador.
-#Importar colaborador
+# Importar colaborador
 
 
 Esta funcionalidade permite realizar a importação da planilha de colaborador.

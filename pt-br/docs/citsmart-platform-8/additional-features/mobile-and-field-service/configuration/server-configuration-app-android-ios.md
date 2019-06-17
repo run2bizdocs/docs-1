@@ -2,12 +2,14 @@ title: Configurar instância CITSmart para acesso via mobile
 Description: Tem o propósito de fornecer orientações necessárias para configurar o servidor para o uso adequado do CITSmart ITSM Enterprise na plataforma iOS e Android.
 # Configurar instância CITSmart para acesso via mobile
 
+Este documento tem como objetivo orientar para a configuração do servidor para uso do aplicativo CITSmart Experience.
+
 Antes de começar
 ----------------
 
 É necessário Implantar a versão 7.2.2.0 (ou superior) do CITSmart, configurar os parâmetros 257 e 272, sendo:
 
--   Valores: "S" ou "N" Default: "N"
+-   Valores: "S" ou "N". Default: "N"
 
 -   Caso o valor do parâmetro seja “S”, poderão ser mostradas somente as
     notificações de solicitações sem responsável atual.
@@ -52,23 +54,23 @@ Certificado Digital) é necessário a instalação do mesmo:
 
     Figura 1 - Certificado intermediário da GlobalSign
 
-    *  No mobile: informar o nome genérico (sugestão: GlobalSign) e clicar em
+    *  **No mobile**: informar o nome genérico (sugestão: GlobalSign) e clicar em
        "avançar".
 
-    *  No desktop: clicar com botão direito no certificado baixado (conforme figura
+    *  **No desktop**: clicar com botão direito no certificado baixado (conforme figura
        abaixo), clicar em "instalar certificado" e avançar até concluir.
 
     ![Windows](images/android-ios-2.jpg)
 
     Figura 2 - Instalação do certificado no Windows
 
-3.  Depois de instalado, basta alterar o endereço do aplicativo para suas
+3.  Depois de instalado, alterar o endereço do aplicativo para suas
     necessidades (exemplo:
     “[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
 ### Instalação do app Android/iOS
 
-1.  Acessar a loja (Play Store ou App Store) para abaixar o aplicativo CITSmart
+1.  Acessar a loja (Play Store ou App Store) para baixar o aplicativo CITSmart
     Experience mobile;
 
 2.  Pesquisar por CITSmart Experience e após a pesquisa, selecionar o aplicativo;

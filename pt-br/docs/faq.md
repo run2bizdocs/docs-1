@@ -36,7 +36,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     6. Realize a pesquisa do parâmetro "9 - ID Grupo Nível 1";
     7. Selecione o mesmo;
     8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informe o número de identificação (ID) do grupo de 1º nível;
-    9. Clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    9. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
     
     REGRA: após a configuração do parâmetro, ao realizar o registro de uma Solicitação de Serviço/Incidente, caso não tenha informado o grupo para atendimento do serviço, será escalado o grupo, o qual foi definido no parâmetro para atendimento de 1º nível.
 
@@ -62,15 +62,15 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     REGRA: caso não informe os modelos de e-mail, as notificações não serão
     enviadas.
 
-       2-  Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu
+      2-  Acesse a funcionalidade de Cadastro de Grupo através da navegação no menu
     principal Cadastro Gerais > Gerência de Pessoal > Grupo.
 
-       3-  Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja
+      3-  Será apresentada a tela de Cadastro de Grupo. Caso o grupo já esteja
     registrado no sistema, realize a pesquisa do grupo;
 
-       4-  Selecione o mesmo;
+      4-  Selecione o mesmo;
 
-       5-  Será exibida a tela de registro do determinado grupo, defina se as
+      5-  Será exibida a tela de registro do determinado grupo, defina se as
     notificações de e-mail (abertura, andamento e encerramento) referentes às
     solicitações, serão de envio obrigatório;
 
@@ -81,7 +81,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     serão obrigatórias, ao registrar uma solicitação de serviço, essas opções
     poderão ser definidas pelo responsável do registro da solicitação.
 
-       6-  Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma
+      6-  Na tela de Registro de Incidente/Requisição de Serviço, ao registrar uma
     solicitação de serviço será estabelecida a regra referente a notificação por
     e-mail, definida no cadastro de grupo.
 
@@ -95,28 +95,40 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do Citsmart. Para habilitar essa regra, proceda conforme orientações abaixo:
 
-    1. No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
-    2. Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
-    3. Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
-    4. Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
-    5. Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
-    6. Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
-    7. Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
+    1- No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
     
-    - 195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
-    - 197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
-    -113: ID do modelo de e-mail para escalação automática;
-    - 10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
-    - 33: URL de acesso ao sistema.
+    2- Acesse a funcionalidade de Parâmetros do Citsmart através da navegação no menu principal Sistema > Parâmetros Citsmart;
     
-	8. Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
+    3- Será apresentada a tela de Parâmetros do Citsmart, clique na aba Pesquisa de Parâmetros do Citsmart;
+    
+    4- Pesquise e altere o parâmetro 190 - Liga o funcionamento das regras de escalonamento? (Ex: S ou N - Default:'N') informando o valor "S" para ativar escalonamento de solicitação de serviço;
+    
+    5- Pesquise e altere o parâmetro 31 - Envia e-mail na execução dos fluxos de solicitações/incidentes (Ex: S ou N) informando o valor "S";
+    
+    6- Pesquise e altere o parâmetro 297 - Desativa envio de e-mails do sistema (Valores: "S" ou "N" Default: "N") informando o valor "N";
+    
+    7- Também faça as devidas alterações nos seguintes parâmetros, conforme as necessidade e cenário da instalação: 
+    
+       -   195: Id do modelo de e-mail para envio de notificação de solicitação com prazo a vencer (Ex.: 1 );
+      
+       -   197: Login do usuário que receberá e-mail referente a regras de escalonamento de solicitação de serviço que estão vencendo (Ex.: Consultor);
+      
+       -   113: ID do modelo de e-mail para escalação automática;
+      
+       -   10: SMTP ENVIO - E-mail origem das notificações de solicitações de serviço;
+      
+       -   33: URL de acesso ao sistema.
+    
+    8- Clique no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
 
 !!! Question "Qual o impacto do filtro "Grupo Solucionador" no comportamento das pesquisas de requisições e incidentes?"
     
     Quando o filtro "grupo solucionador" estiver ativo, serão apresentadas apenas as solicitações fechadas, uma vez que ao selecionar este filtro, entende-se que há a necessidade de apresentar o grupo que de fato solucionou uma solicitação, não apresentando grupos responsáveis por tarefas (conforme o fluxo vinculado ao serviço da solicitação) executadas após a solicitação ser solucionada.
     
-	Vejamos um exemplo genérico:
+    Vejamos um exemplo genérico:
+	
     - O serviço A possui um fluxo de qualidade vinculado. Após solucionada uma solicitação referente ao serviço A e avançar o fluxo, o grupo responsável será o de qualidade e este encerrará o ciclo de vida da solicitação em questão, porém este grupo não é o grupo que solucionou esta solicitação, ele apenas aprovou a solução e encerrou a solicitação, portanto não será apresentado no relatório gerado pela tela de pesquisa de Requisições e Incidentes quando o filtro "Grupo solucionador" estiver marcado com um grupo específico.
+    
     - Entretanto, quando o filtro "Grupo Solucionador" não estiver ativo, o grupo apresentado no relatório ou na pesquisa será o grupo referente à tarefa atual da solicitação, ou seja, caso a solicitação esteja fechada e possua um fluxo de qualidade, será apresentado o grupo de qualidade como o grupo atual responsável pelo encerramento do ciclo de vida desta solicitação. E caso a solicitação esteja em andamento, será apresentado o grupo atual responsável pela execução desta solicitação.
 
 !!! Question "Por que a numeração de solicitação de serviço nem sempre seguirá uma ordem sequencial rigorosa/perfeita na tela de solicitação de serviços ou em alguns relatórios?"
@@ -126,9 +138,9 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Os relatórios agrupam os dados por algum critério especial (ex.: pelo prazo de SLA, que é o que acontece no caso do relatório "Qualidade de Atendimento - SLA")
     2. Quando o recurso denominado Sequence Block é impactado por um fator externo, isso ocorre se:
     
-      * Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
+      -   Há uma parada da aplicação para atualização de versão, ou manutenção de ambiente e posterior retorno.
     
-      * O ambiente é clusterizado.
+      -   O ambiente é clusterizado.
 
 !!! Question "Por que o sistema exibe mensagem de data inválida ao auditar o ticket?"
     
@@ -174,7 +186,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Acesse a funcionalidade de Parâmetros do CITSmart através da navegação no menu principal. Posicione o mouse na opção Parametrização e clique na opção Parâmetros CITSmart. Será apresentada a tela de Parâmetros do CITSmart, clique na aba Pesquisa de Parâmetros do CITSmart. Feito isso, será apresenta a tela para pesquisa de parâmetros;
     2. Realize a pesquisa do parâmetro "41 - Faz o controle de vínculo de colaboradores aos contratos (S/N)?" e selecione o mesmo;
     3. No campo valor, informe o valor "S" para que seja exibido os contratos na tela de cadastro de grupo. Feito isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
-    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão → Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)).
+    4. Após configurar o parâmetro, acesse a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão > Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos (ver [Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)).
     5. Caso o grupo que deseja vincular ao contrato já esteja registrado no sistema, realize a pesquisa do grupo e selecione o mesmo;
     6. Feito isso, será exibida a tela de registro do determinado grupo;
     7. Selecione os contratos, os quais o grupo será vinculado. Após isso, clique no botão Gravar para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria.
@@ -232,7 +244,9 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Qual o significado de cada privacidade que um conhecimento pode ter na base de conhecimento?"
     
     - Público: todos os usuários com acesso no Portal do Conhecimento possuem acesso, independente se têm acesso à pasta do conhecimento;
+    
     - Confidencial: somente o autor e o aprovador podem visualizar o conhecimento;
+    
     - Interno: somente pessoas com permissão na pasta do conhecimento podem visualizar.
 
 !!! Question "É possível versionar um conhecimento na gestão do conhecimento?"
@@ -262,7 +276,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
     O processo de riscos na mudança começa no desenho do portfólo de mudança onde é indicado o "**Tipo de Análise de Impacto e Risco**", que pode ser simplificado ou completo. O próximo passo é, no cadastro da mudança informar os dados do(s) riscos na aba lateral esquerda no item de análise de risco que será mostrado com a indicação definida no portfólio de mudança: 
     
-    * "**Simplificada**"  para uma  análise Simplificada e no item;  
+    * "**Simplificada**" para uma  análise Simplificada e no item;  
     
     * "**Completa**" para uma análise de riscom completa com definição de Alvos, Análise de Impacto e Avaliação de Riscos.
 
@@ -314,7 +328,8 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Como atualizar um Item de Configuração diretamente pela Requisição de Mudança?"
     
-    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança. Para isso: 
+    Quando uma RDM visa realizar a atualização de um IC, é possível alterar os dados do IC diretamente pela tela de gestão de mudança. Para isso:
+    
     1. Acesse a Gerência de Mudança (Processos > Gerência de Mudança > Mudança); 
     2. Seleciona a RDM e clique sobre ela, logo após clique em "Abrir"; 
     3. Na interface de gerência, clicar no item "ICs relacionados"; 
@@ -328,13 +343,19 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
   
     CONFIGURAÇÃO A PARTIR DA TELA DE CONFIGURAÇÃO DO GCAS
     
-    1. Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
-    2. Informe os valores dos parâmetros (atributos):
-    Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
-    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
-    Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
-    3. Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
-    4. Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
+    1- Acesse a funcionalidade de Configuração do GCAS através da navegação no menu principal Processos ITIL > Gerência de Configuração > Configuração do GCAS. Feito isso, será apresentada a tela de configuração dos parâmetros (atributos) de gerenciamento de configuração e ativos de serviço;
+    
+    2- Informe os valores dos parâmetros (atributos):
+    
+       - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)
+    
+       - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Produção)
+    
+       - Nome do Grupo de ICs que estão na Fase de Produção (Ex: ICs em Homologação).
+    
+    3- Clique no botão "Gravar" para efetuar a operação, onde a data, hora e usuário serão gravados automaticamente para uma futura auditoria.
+   
+    4- Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
 	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO CITSMART
     
@@ -383,9 +404,13 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Quais o significado de cada status do inventário de ICs?"
     
     - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
+    
     - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load temos uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
+    
     - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
+    
     - Não inventariado: quando nem encontra o IC na rede, mas tem conhecimento de que ele já existiu;
+    
     - Em execução: durante a leitura do inventário, o IC fica nesse status.
 
 
@@ -394,6 +419,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "Como o Gerenciamento de Eventos pode se transformar numa ferramenta de monitoramento de negócios?"
     
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITORAMENTO DE NEGÓCIOS)
+    
     É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) seguem um padrão pré-estabelecido.
     
     Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
@@ -401,6 +427,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Exemplo "Folha de Pagamentos": 
     
     - Digamos que seja regra de uma empresa não contratar mais de 5 funcionários por setor.
+    
     - O programa de folha de pagamento poderia enviar os dados mínimos de cada contratação por departamento (definido no plano orçamentário da empresa), de modo que sempre que o número de contração por departamento ultrapassar o limite pré-estabelecido, um evento de “excesso de contratação” poderia ser disparado.
 
 
@@ -442,16 +469,22 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Para realizar a configuração das respostas automáticas, proceda conforme orientações abaixo:
 
     1. Configure os seguintes parâmetros do sistema que definem o comportamento do mecanismo de resposta automática:
-    Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
-    Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: ÓTIMO, BOM, REGULAR E RUIM;
-    Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
+    
+         - Parâmetro 139: Define o prazo máximo, em dias, que o usuário tem para responder a pesquisa de satisfação, antes que essa seja respondida automaticamente pelo sistema;
+   
+         - Parâmetro 152: Nota padrão que será atribuída as pesquisas de satisfação que forem respondidas automaticamente. Opções: ÓTIMO, BOM, REGULAR E RUIM;
+   
+         - Parâmetro 151: Ativa ou Desativa as respostas automáticas no sistema. S para ativar e N para desativar.
+   
     2. Acesse a funcionalidade de Processamento Batch (Sistema > Processamento Batch).
     3. Será apresentada a tela de cadastro de processamento batch preencha os campos:
-    Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
-    Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
-    Tipo: selecionar o tipo “Classe Java”;
-    Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
-    Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+    
+         -  Descrição: informe a descrição que identificará esse processamento. Por exemplo: “Resposta automática pesquisa satisfação”;
+         -  Situação: a situação define se esse processamento estará ativo ou inativo. Quando ele se encontrar inativado as solicitações deixarão de ser respondidas;
+         -  Tipo: selecionar o tipo “Classe Java”;
+         -  Agendamento: define quando essa rotina será executada, cabe ao administrador do sistema definir qual o melhor horário e frequência para a execução;
+         -  Conteúdo: informe o texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+    
     4. Clique no botão "Gravar" para efetuar o registro.
     
 	REGRA: a partir do momento da gravação, no horário e dia agendado, as solicitações não respondidas (com prazo superior ao definido no parâmetro 139) serão automaticamente respondidas (com o valor definido no parâmetro 152), caso o parâmetro 151 esteja com valor ‘S’.
@@ -550,13 +583,17 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Sempre que houver necessidade de personalizar de forma adequada as logomarcas do CITSmart Enterprise ITSM, o procedimento abaixo deve ser executado:
     
-    1. Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
-      - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
-      - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
-      - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
-      - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
+    1- Acessar o caminho: Sistema > Configurações > Configurações de ambiente; aparecerão quatro espaços para upload de imagem:
+    
+        - Logo início: Imagem/Logomarca apresentada na tela inicial de login do sistema;
+      
+        - Logo portal: Imagem/Logomarca apresentada no Portal de Serviços do sistema;
+      
+        - Logo sistema: Imagem/Logomarca apresentada ao acessar o sistema;
+      
+        - Logo relatório: Imagem/Logomarca apresentada nos relatórios do tipo jasper.
 	
-    2. Realizar upload (podem ser imagens diferentes).
+    2- Realizar upload (podem ser imagens diferentes).
     
 	REGRA: caso o usuário não escolha uma nova logo, a logo default será a do CITSmart. Por questão de direitos autorais, esta mudança de logo é permitida somente na versão Enterprise do produto CITSmart ITSM.
 
@@ -579,105 +616,105 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 !!! Question "O que é a tabela Fato do módulo solicitação de serviço e como alimentá-la?"
  
     A tabela fato solicitação de serviço tem o propósito de receber informações consolidadas, referentes à solicitação de serviço.
-      Tais como: 
-        IDSOLICITACAOSERVICO
-	      DATAHORASOLICITACAO
-	      DIAABERTURA
-	      MESABERTURA
-	      ANOABERTURA
-	      DATAHORAFIM
-	      DIAFECHAMENTO
-	      MESFECHAMENTO
-	      ANOFECHAMENTO
-	      IDGRUPOATUAL
-	      GRUPOATUAL
-	      IDPRIORIDADE
-	      NOMEPRIORIDADE
-	      IDSERVICOCONTRATO
-	      IDCONTRATO
-	      NUMEROCONTRATO
-	      IDTIPOSERVICO
-	      NOMETIPOSERVICO
-	      IDPORTFOLIOSERVICO
-	      DESCPORTFOLIOSERVICO
-	      IDSOLICITANTE
-	      SOLICITANTE
-	      IDUSUARIORESPONSAVELATUAL
-	      TECNICORESPONSAVEL
-	      IDTIPODEMANDASERVICO
-	      TIPOSOLICITACAO
-	      IDCAUSAINCIDENTE
-	      CAUSA
-	      IDCATEGORIASOLUCAO
-	      CATEGORIASOLUCAO
-	      IDSTATUS
-	      STATUS
-	      IDACORDONIVELSERVICO
-	      PRAZOSLA_HH
-	      PRAZOSLA_MM
-	      IDCALENDARIO
-	      CALENDARIO
-	      DATAHORALIMITE
-	      DIALIMITESLA
-	      MESLIMITESLA
-	      ANOLIMITESLA
-	      TAREFAATUAL
-	      IDCLIENTE
-	      CLIENTE
-	      IDFORNECEDOR
-	      FORNECEDOR
-	      IDCATEGORIASERVICO
-	      CATEGORIASERVICO
-	      IDCONDICAOOPERACAO
-	      NOMECONDICAOOPERACAO
-	      IDORIGEM
-	      ORIGEMDASOLICITACAO
-	      IDMOEDA
-	      MOEDA
-	      IDTIPOFLUXO
-	      FLUXO
-	      IDIMPORTANCIANEGOCIO
-	      IMPORTANCIASERVICOAONEGOCIO
-	      IDLOCALIDADE
-	      LOCALIDADE
-	      IDUNIDADE
-	      UNIDADE
-	      URGENCIA
-	      IMPACTO
-	      RUPTURASLA
-	      QTDEREABERTURAS
-	      HOUVERECLASSIFICACAO
-	      TEMPOATENDIMENTOHH
-	      TEMPOATENDIMENTOMM
-	      TEMPOATRASOHH
-	      TEMPOATRASOMM
-	      MAJOR
-	      NOTAPESQUISASATISFACAO
-	      QTDESOLICITACOESFILHAS
-	      QTDESUBSOLICITACOES
-	      QTDEBASECONHECIMENTO
-	      QTDEPROBLEMAS
-	      QTDELIBERACAO
-	      QTDEMUDANCAS
-	      QTDEICS
-	      QTDEAPLICACOES
-	      QTDEPROJETOS
-	      QTDEANEXOS
-	      QTDEAGENDAMENTOATIVIDADES
-	      QTDEAGENDAMENTATIVFINALIZADAS
-	      CONTRATOAPOIO
-	      SERVICOAPOIO
-	      CUSTOSERVICO
-	      SERVICOINDISPONIVEL
-	      QTDEELOGIOS
-	      QTDEQUEIXAS
-	      PROCEDIMENTOCONTINUIDADE
-	      CUSTOINDISPONIBILIDADE
-	      IDSERVICO
-	      NOMESERVICO
-	      IDATIVIDADE
-	      NOMEATIVIDADE
-	      DATAHORACARGA
+    Tais como:
+    IDSOLICITACAOSERVICO
+    DATAHORASOLICITACAO
+    DIAABERTURA
+    MESABERTURA
+    ANOABERTURA
+    DATAHORAFIM
+    DIAFECHAMENTO
+    MESFECHAMENTO
+    ANOFECHAMENTO
+    IDGRUPOATUAL
+    GRUPOATUAL
+    IDPRIORIDADE
+    NOMEPRIORIDADE
+    IDSERVICOCONTRATO
+    IDCONTRATO
+    NUMEROCONTRATO
+    IDTIPOSERVICO
+    NOMETIPOSERVICO
+    IDPORTFOLIOSERVICO
+    DESCPORTFOLIOSERVICO
+    IDSOLICITANTE
+    SOLICITANTE
+    IDUSUARIORESPONSAVELATUAL
+    TECNICORESPONSAVEL
+    IDTIPODEMANDASERVICO
+    TIPOSOLICITACAO
+    IDCAUSAINCIDENTE
+    CAUSA
+    IDCATEGORIASOLUCAO
+    CATEGORIASOLUCAO
+    IDSTATUS
+    STATUS
+    IDACORDONIVELSERVICO
+    PRAZOSLA_HH
+    PRAZOSLA_MM
+    IDCALENDARIO
+    CALENDARIO
+    DATAHORALIMITE
+    DIALIMITESLA
+    MESLIMITESLA
+    ANOLIMITESLA
+    TAREFAATUAL
+    IDCLIENTE
+    CLIENTE
+    IDFORNECEDOR
+    FORNECEDOR
+    IDCATEGORIASERVICO
+    CATEGORIASERVICO
+    IDCONDICAOOPERACAO
+    NOMECONDICAOOPERACAO
+    IDORIGEM
+    ORIGEMDASOLICITACAO
+    IDMOEDA
+    MOEDA
+    IDTIPOFLUXO
+    FLUXO
+    IDIMPORTANCIANEGOCIO
+    IMPORTANCIASERVICOAONEGOCIO
+    IDLOCALIDADE
+    LOCALIDADE
+    IDUNIDADE
+    UNIDADE
+    URGENCIA
+    IMPACTO
+    RUPTURASLA
+    QTDEREABERTURAS
+    HOUVERECLASSIFICACAO
+    TEMPOATENDIMENTOHH
+    TEMPOATENDIMENTOMM
+    TEMPOATRASOHH
+    TEMPOATRASOMM
+    MAJOR
+    NOTAPESQUISASATISFACAO
+    QTDESOLICITACOESFILHAS
+    QTDESUBSOLICITACOES
+    QTDEBASECONHECIMENTO
+    QTDEPROBLEMAS
+    QTDELIBERACAO
+    QTDEMUDANCAS
+    QTDEICS
+    QTDEAPLICACOES
+    QTDEPROJETOS
+    QTDEANEXOS
+    QTDEAGENDAMENTOATIVIDADES
+    QTDEAGENDAMENTATIVFINALIZADAS
+    CONTRATOAPOIO
+    SERVICOAPOIO
+    CUSTOSERVICO
+    SERVICOINDISPONIVEL
+    QTDEELOGIOS
+    QTDEQUEIXAS
+    PROCEDIMENTOCONTINUIDADE
+    CUSTOINDISPONIBILIDADE
+    IDSERVICO
+    NOMESERVICO
+    IDATIVIDADE
+    NOMEATIVIDADE
+    DATAHORACARGA
 	      
     Estas informações são alimentadas através da rotina de processamento batch do CITSmart, rodando os scripts Rhino Conforme o Banco
 
@@ -745,7 +782,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     ```java
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
     ```
-   Inserir a configuração em todos os dataSources.
+    Inserir a configuração em todos os dataSources.
 
 !!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
     

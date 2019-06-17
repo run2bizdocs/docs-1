@@ -49,7 +49,7 @@ Criar usuário AD
 6.  Clicar no botão direito do mouse e selecionar a opção Propriedades.
     Logo após, procurar o **servicePrincipalName** (sigla de SPN);
 
-7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em OK para efetuar a
+7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em "OK" para efetuar a
     operação, conforme a figura abaixo:
 
     ![CRIAR USUÁRIO](images/sso-6.jpg)
@@ -57,7 +57,7 @@ Criar usuário AD
      Figura 6 - Adicionar o valor
 
 8.  Abrir o **CMD** como Administrador e colocar os seguintes comandos.
-    Lembre-se que o primeiro seta o **SPN** e o segundo gera o Keytab (o que
+    Lembrar que o primeiro seta o **SPN** e o segundo gera o Keytab (o que
     será utilizado no Wildfly):
 
     -   setspn -s HTTP/hom-itsm.centralit.com.br citsmart2

@@ -125,6 +125,21 @@ Procedimiento
 
 3. Haga clic en "Guardar" y después en "Sicronizar usuarios" para efectuar la operación.
 
+*6º Paso: Configurar el Logout:*
+
+1. Como el Okta no tiene pantalla de logout, en el parámetro 377 del CITSmart, podemos insertar alguna dirección de página para 
+redirigir al usuario al final de la sesión;
+
+2. Configurar el enlace para el logout también en la dirección **(Admin > Settings > Customization > Sign-Out-Page)**, a continuación, 
+marque la opción "Usar custom sign-out page". Entonces, se debe insertar la URL (https://localhost:8443/citsmart/saml/logout) con las 
+debidas adaptaciones (host y puerto), conforme la imagen abajo:
+
+ ![Logout](images/okta.img19.png)
+ 
+   !!!Abstract "NOTA"
+   
+    Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones en la 
+    sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
 
 Lo que hacer después
 ----------------------

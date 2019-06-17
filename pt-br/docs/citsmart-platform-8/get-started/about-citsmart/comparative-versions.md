@@ -72,13 +72,13 @@ Title: Comparativo de versões
 ## O que há de novo?
 
 ### Gerenciamento de Mudança
-Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível, descomplicado ao concentrar as mesmas numa interface de gestão ágil.
+Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível e descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
 ### Gerenciamento de Liberação
-Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequências das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
+Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequência das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
 
 ### Gerenciamento de Conhecimento
-Nesta atualização o Gerenciamento de Conhecimento foi aprimorado para que o usuário que não possua login e senha também tenha acesso às informações da base de conhecimento, além da pesquisa no Portal do conhecimento/Guia do Usuário ter se tornado mais eficaz com o uso de tags.
+Nesta atualização o Gerenciamento de Conhecimento foi aprimorado para que o usuário que não possua login e senha também tenha acesso às informações da base de conhecimento, além da pesquisa no Portal do conhecimento ter se tornado mais eficaz com o uso de tags.
 
 ### Gerenciamento de Ativos e Configuração
 O Gerenciamento de Ativos e Configuração, no que tange ao CMDB houve uma reformulação visual do layout, permitindo assim que o usuário tenha um melhor controle de todo o processo de gestão dos itens de configuração.

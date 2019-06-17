@@ -2,12 +2,12 @@ title: A área de trabalho da Central de Serviços
 Description: A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets. 
 # A área de trabalho da Central de Serviços
 
-A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets e seu histórico de atendimento, tornando a visualização de cada item com suas principais informações mais fácil. Neste espaço também há a possibilidade de inúmeras ações como a edição, a impressão, a suspensão, incluir, alterar e excluir de um item além de diversas outras.
+A área de trabalho da Central de Serviços é um espaço onde estão disponibilizados todos os tickets e seu histórico de atendimento, tornando a visualização de cada item com suas principais informações mais fácil. Neste espaço também há a possibilidade de inúmeras ações como editar, imprimir, suspender, incluir, alterar e excluir um item, além de diversas outras.
 
 Antes de começar
 ----------------
 
-Para ter acesso a todas as possibilidades de visualizar as opções de um
+Para ter acesso a todas as possibilidades para visualizar as opções de um
 ticket, é preciso ter pelo menos um já cadastrado anteriormente.
 
 Procedimento
@@ -22,13 +22,13 @@ Procedimento
 
     O botão “Atualização automática” virá por default não selecionado. Para
     que a atualização automática seja ininterrupta, faz-se necessário mudar o
-    parâmetro 418 para a opção "SIM". Desse modo o botão ficará acionado
+    parâmetro 418 para a opção "SIM". Desse modo, o botão ficará acionado
     automaticamente e o sistema fará a atualização da listagem a cada 25
     segundos.
 
 !!! Abstract "REGRA"
 
-    A eficácia da pesquisa depende do seguimento de algumas regras de permissão pelo filtro, tais como: execução, delegação,                 acompanhamento, visualização, grupos de usuários, vínculo com contrato, unidades e colaborador logado.
+     A eficácia da pesquisa depende do seguimento de algumas regras de permissão pelo filtro, tais como: execução, delegação,            acompanhamento, visualização, grupos de usuários, vínculo com contrato, unidades e colaborador logado.
 
 
 Relacionado

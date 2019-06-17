@@ -202,7 +202,7 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 
 3. Configurar o **/var/lib/pgsql/9.5/data/pg_hba.conf** para permitir
 a conexão do Wildfly para a database e usuário do citsmart. No final do arquivo
-altere as linhas:
+alterar as linhas:
 
     Padrão: host all all 127.0.0.1/32 md5   
     Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |

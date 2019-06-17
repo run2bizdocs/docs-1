@@ -15,32 +15,33 @@ funcionalidade, após checar que existe uma mensagem, registra um ticket
 automaticamente. É importante destacar que após o registro do ticket, o e-mail é
 marcado como lido.
 
-O que fazer antes
----------
+## Antes de começar
 
 Para criar um ticket através de um recebimento de e-mail é necessário configurar
-uma conta de e-mail para permitir o acesso via IMAP previamente.
+uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é necessário configurar a instância para utilização de rotinas batch, uma vez que a verificação de e-mail é uma tarefa agendada.
 
 Procedimento
 ----------
 
-*Passo 1*
+**Passo 1 - Cria um modelo de ticket**
 
 1.  Acessar a funcionalidade através da navegação do menu principal Sistema \>
     Ações automáticas \> Ações Incidentes/Requisições (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
-*Passo 2*
+**Passo 2 - Configurar acesso à caixa de e-mail**
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
     Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações (ver Criar ação automática de e-mail).
 
-*Passo 3*
+**Passo 3 - Criar rotina de verificação (batch)**
 
 1.  Criar Rotina batch, acessando o menu principal Sistema \> Processamento
-    Batch (ver Processamento Batch):
+    Batch (ver Processamento Batch), do tipo "Classe Java" com o seguinte conteúdo:
 
-    -   Baixar script em anexo.
+```java
+ br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+```
 
 
 !!! Abstract "ATENÇÃO"
@@ -68,11 +69,6 @@ Relacionado
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
-Anexo
-------------
-[Download - Verificar email][1]
-
-[Download -Script Rhino dados do email][2]
 
 !!! tip "About"
 

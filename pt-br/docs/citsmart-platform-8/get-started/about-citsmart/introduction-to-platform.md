@@ -63,7 +63,7 @@ totalmente adaptado, bem como a capacidade de resposta e motivação.
 Serviços Excelência
 -------------------
 
-O gerenciamento de serviços não é mais apenas para a TI. À medida que a
+O gerenciamento de serviços não é mais apenas para a TI. A medida que a
 digitalização se espalha pelas empresas, ela atende às necessidades de todos os
 departamentos. O gerenciamento de serviços expandiu-se para representar novas
 maneiras de dar suporte aos negócios, alinhando departamentos, eliminando silos,
@@ -75,7 +75,7 @@ de cliente de uma ruim. Hoje, no mundo dos negócios, muitas das necessidades da
 própria empresa tendem a ofuscar as necessidades dos clientes.
 
 A CITSmart Corporation acredita que o foco do negócio deve estar na boa
-experiência do cliente e estar um passo à frente, dependendo de como se conecta
+experiência do cliente e estar um passo a frente, dependendo de como se conecta
 serviços e processos.
 
 Essa é a nova mentalidade para as novas empresas e a CITSmart -

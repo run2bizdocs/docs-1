@@ -40,7 +40,7 @@ Procedimento 
     item desejado e apertar no botão "Selecionar";
 
 8.  Para vincular um **Projeto**, clicar na área de mesmo nome e seguida no
-    campo projeto e vincule o item desejado;
+    campo projeto e vincular o item desejado;
 
 9.  Para visualizar as atividades periódicas, clicar em **Agenda**;
 
@@ -53,7 +53,7 @@ Procedimento 
     **Acompanhamento**;
 
 12. Para vincular um **Conhecimento**, clicar na guia correspondente, no botão
-    "Pesquisa de Conhecimentos" e realizar a busca e apertar sobre o
+    "Pesquisa de Conhecimentos", realizar a busca e apertar sobre o
     conhecimento desejado para realizar o vínculo;
 
 13. Para vincular um **Problema**, clicar na guia correspondente e vincular o

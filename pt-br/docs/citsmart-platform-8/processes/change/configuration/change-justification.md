@@ -13,7 +13,7 @@ Procedimento
 2.  Clicar no botão “Novo”;
 
 3.  Preencher os campos necessários (Descrição, situação e informar se este
-    cadastro adequasse ao motivo de suspensão da requisição);
+    cadastro adequa ao motivo de suspensão da requisição);
 
 4.  Clicar “Gravar” para efetuar a operação.
 

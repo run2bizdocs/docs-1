@@ -20,7 +20,7 @@ Procedimento
 
 3.  Escolher o tipo de caixa. Se optar pelo tipo "Entrada" (significa que o
     usuário irá parametrizar uma rota por onde os e-mails que precisam ser lidos
-    chegarão), será aberto novos campos cadastrais, tais como: servidor, porta
+    chegarão), serão abertos novos campos cadastrais, tais como: servidor, porta
     do servidor, usuário (endereço do e-mail), senha , provider e pasta da caixa
     de entrada, sendo portanto, necessário preencher os campos;
 
@@ -36,7 +36,7 @@ Procedimento
 6.  Vincular a caixa de e-mail ao contrato. Para tanto: acessar a funcionalidade
     Processos \> Gerência de Portfólio e Catálogo \> Contrato e vincular no
     campo *Caixa de e-mail* a caixa de e-mail previamente cadastrada e clicar no
-    botão "Gravar " para efetuar a operação;
+    botão "Gravar" para efetuar a operação;
 
 7.  Vincular a caixa de e-mail a um fluxo. Para tanto:
 

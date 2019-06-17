@@ -52,7 +52,7 @@ Procedure
 
     !!!Abstract "ATTENTION"
     
-       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
+       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application          will be executed should be included.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
@@ -122,6 +122,21 @@ Procedure
 
 3. Click on "Save" and then on "Synchronize users" to perform the operation.
 
+*6th Step: Configure the Logout:*
+
+1. Since Okta does not have a logout screen, in parameter 377 of CITSmart, we can insert some page address to redirect the user to the 
+end of the session;
+
+2. Set up the logout link also at the address **(Admin > Settings > Customization > Sign-Out-Page)**, then check the option "Use the 
+custom sign-out page". Therefore, enter the URL (https://localhost:8443/citsmart/saml/logout) with the appropriate adaptations (host and 
+port), according to the image below:
+
+ ![Logout](images/okta.img19.png)
+
+   !!!Abstract "NOTE"
+   
+    When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In contrast, 
+    if you do Okta *logout*, the user session in CITSmart will be removed
 
 What to do next
 ----------------------

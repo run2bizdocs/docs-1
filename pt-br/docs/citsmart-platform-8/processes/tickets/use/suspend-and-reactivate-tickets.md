@@ -21,7 +21,7 @@ Procedimento
     "Suspensão/Reativação":
 
     -   Para suspender múltiplos ticket, selecione esta opção no primeiro campo
-        da janela aberta e preencha os filtros com as solicitações que serão
+        da janela aberta e preencher os filtros com as solicitações que serão
         suspensas em massa, tais como: contrato, solicitante da solicitação (o
         responsável por solicitar a suspensão - este campo filtra os tickets
         cujo o solicitante está), grupo, a justificativa e o complemento desta.

@@ -14,7 +14,7 @@ him/her in the request list, the attendant/manager must set the parameter 435 to
 Procedure
 ---------
 
-*In CITSmart*
+***In CITSmart***
 
 1.  Access the main menu Processes \> Portfolio and Catalog Management \>
     Portfolio;
@@ -35,7 +35,7 @@ Procedure
 
 9.  Click on "Save".
 
-*In mobile*
+***In mobile***
 
 1.  When capture a ticket (using mobile), the technician must complete the
     fields available and, when put the ticket with the status "Solved", the

@@ -1,6 +1,6 @@
 title:  Analisar tendência de eventos 
 Description: Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
-#Analisar tendência de eventos
+# Analisar tendência de eventos
 Esta funcionalidade tem por objetivo gerar gráfico de Análise de Tendência de Eventos por Serviço de Negócio em determinado período, a fim de realizar uma análise dos eventos. A análise de tendências consiste na utilização de dados para projeção de resultados futuros.
 Esta funcionalidade somente poderá ser usada em instâncias em que o cliente implantou também o módulo de Eventos.
 

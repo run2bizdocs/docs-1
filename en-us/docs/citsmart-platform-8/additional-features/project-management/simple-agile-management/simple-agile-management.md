@@ -43,6 +43,11 @@ Procedure
 
     To move a **workspace** by changing its ordering, click and drag it to the desired 
     priority position.
+    
+!!! Abstract "NOTE"
+
+    The search field looks for any information that is in any other workspace, sprint, 
+    list or task.
 
 
 ***II - Create a Sprint***

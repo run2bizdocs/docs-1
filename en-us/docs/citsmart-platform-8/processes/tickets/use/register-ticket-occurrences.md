@@ -2,7 +2,7 @@ title:  Register ticket occurrences
  
 Description: This functionality allows to register eventual occurrences of the execution of a ticket.
 
-#Register ticket occurrences
+# Register ticket occurrences
 This functionality allows to register eventual occurrences of the execution of a ticket.
 
 Before getting started
