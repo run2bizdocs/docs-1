@@ -407,7 +407,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     La configuración de autenticación de Nagios a través de LDAP pasa por:
     
-    1. Cambie el archivo thruk.conf de la siguiente manera:
+    1- Cambie el archivo thruk.conf de la siguiente manera:
     ```sh
     vim /etc/apache2/conf-available/thruk.conf
 	```
@@ -420,7 +420,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
     Require valid-user
     
-    2. Ejecutar:
+    2- Ejecutar:
     
     ```sh
     /etc/init.d/apache2 restart
