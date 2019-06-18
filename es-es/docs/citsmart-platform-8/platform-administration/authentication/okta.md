@@ -53,8 +53,8 @@ Procedimiento
 
     !!!Abstract "ATENCIÓN"
         
-        En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
-        ejecutará la apilación CITSmart.
+       En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
+       ejecutará la apilación CITSmart.
      
 7. Marcar las opciones "I'm an Okta customer adding an internal app" y "This is an internal app that we have created". Después, haga clic en "Finish".
 
@@ -138,15 +138,13 @@ debidas adaptaciones (host y puerto), conforme la imagen abajo:
  
    !!!Abstract "NOTA"
    
-      Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones en la 
-      sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
+      Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones       en la sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
 
 Lo que hacer después
 ----------------------
 
 Concluido la integración del Okta con el CITSmart, algunos parámetros del CITSmart pueden ser configurados para mejor personalizar esta integración:
 
- - Como el okta no tiene pantalla de cierre, en el parámetro 377 del CITSmart, podemos insertar alguna dirección de página para redirigir al usuario al final de la sesión;
  
  - El parámetro 445 (nombre del grupo Administrador en Okta) permite elegir el grupo administrador en la solución Okta. Si el usuario pertenece a este grupo elegido, tendrá el perfil de acceso definido como administrador. Si no es así, su perfil de acceso será el perfil predeterminado definido por el parámetro 39.
  
