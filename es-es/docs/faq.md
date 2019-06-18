@@ -361,8 +361,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     el valor "S";
     6. Hacer clic en "Guardar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para 
     una futura auditoría;
-    7. Después de la configuración del parámetro, cuando se registre un elemento de configuración, será obligatorio el vínculo del 
-    cambio.
+    7. Después de la configuración del parámetro, cuando se registre un elemento de configuración, será obligatorio el vínculo del cambio.
     
 !!! Question "¿Para cuál destinatario se hará el envío de notificaciones de EC?"
     
@@ -422,6 +421,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Require valid-user
     
     2. Ejecutar:
+    
     ```sh
     /etc/init.d/apache2 restart
 	```
@@ -431,6 +431,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 	```sh
     /etc/init.d/nagios reload
 	```
+	
 !!! Question "¿Cómo configurar la respuesta automática de encuestas de satisfacción?"
     
     El mecanismo de respuesta automática, que responderá automáticamente a las encuestas de satisfacción de las solicitudes de servicio, se produce cuando la encuesta de satisfacción no es respondida por el usuario, dentro de un plazo definido por el administrador del sistema.
