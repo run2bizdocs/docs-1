@@ -91,7 +91,7 @@ Procedimiento
    
    d) En la línea *OKTA_TOKEN*, incluir el token para acceder vía API. Para obtener este token, atienda estos pasos:
    
-   - Acceder a la aplicación CITSmart en el Okta, seleccionar en el menú la opción "Security > API" y después hacer clic en "Create Token". Nombre del token y hacer clic en "Create Token". Se mostrará el valor del token que deberá ser copiado en la línea citada arriba.
+    - Acceder a la aplicación CITSmart en el Okta, seleccionar en el menú la opción "Security > API" y después hacer clic en "Create Token". Nombre del token y hacer clic en "Create Token". Se mostrará el valor del token que deberá ser copiado en la línea citada arriba.
    
 ![Token](images/okta.img13.png)
 
