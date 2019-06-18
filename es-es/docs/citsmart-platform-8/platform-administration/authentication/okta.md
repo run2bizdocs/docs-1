@@ -51,8 +51,7 @@ Procedimiento
 
     ![Configurar ruta](images/okta.img7.png)
 
-
-  !!!Abstract "ATENCIÓN"
+!!!Abstract "ATENCIÓN"
         
       En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
       ejecutará la apilación CITSmart.
@@ -138,9 +137,9 @@ debidas adaptaciones (host y puerto), conforme la imagen abajo:
   ![Logout](images/okta.img19.png)
  
  
-  !!!Abstract "NOTA"
+!!!Abstract "NOTA"
    
-      Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones       en la sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
+    Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones       en la sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
 
 Lo que hacer después
 ----------------------
