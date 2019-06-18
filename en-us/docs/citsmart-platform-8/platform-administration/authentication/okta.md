@@ -132,15 +132,15 @@ port), according to the image below:
 
  ![Logout](images/okta.img19.png)
 
-   !!!Abstract "NOTE"
-      When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In       contrast, if you do Okta *logout*, the user session in CITSmart will be removed.
+!!!Abstract "NOTE"
+   
+    When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In       contrast, if you do Okta *logout*, the user session in CITSmart will be removed.
 
 What to do next
 ----------------------
 
 Once the Okta integration with CITSmart is complete, some CITSmart parameters can be configured to better customize this integration. They are:
 
- - Since Okta has no logout screen, in the 377 parameter of CITSmart we can enter some page address to redirect the user to the end of the session;
  
  - The parameter 445 (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter 39.
  
