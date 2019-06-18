@@ -410,7 +410,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     1. Cambie el archivo thruk.conf de la siguiente manera:
         ```sh
         vim /etc/apache2/conf-available/thruk.conf
-	```
+	    ```
     
         Options ExecCGI FollowSymLinks
         AuthName "LDAP Authentication"
