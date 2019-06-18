@@ -24,7 +24,7 @@ Anuva utiliza 5 conceitos principais em seu funcionamento:
 ## Acessando a Anuva
 
 Após a liberação do ambiente Anuva, acessar a instância de configuração através do link disponibilizado pela CITSmart. (ex: https://example.anuva.com).
-[https://example.anuva.com](  )
+[https://example.anuva.com](##)
 
 Neste ambiente, é possível adicionar e revisar conhecimentos para Anuva, agendar treinamentos, acompanhar as interações realizadas pela Anuva e realizar testes de interação para validar se interações estão sendo efetivas.
 
