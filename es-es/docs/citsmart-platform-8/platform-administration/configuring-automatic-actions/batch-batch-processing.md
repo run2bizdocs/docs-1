@@ -13,6 +13,10 @@ Rutinas como:
    
    - Distribución automática de Tickets con balance de carga de trabajo 
 
+## Antes de empezar
+
+El procesamiento Batch de CITSmart utiliza Quartz para la programación y el procesamiento de rutinas de sistema. Por lo tanto, antes de utilizar cualquier rutina batch es necesario [configurar el Quartz][3].
+
 Procedimiento
 -------------
 
@@ -59,3 +63,4 @@ Rutinas Batch
 
 [1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
 [2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz
