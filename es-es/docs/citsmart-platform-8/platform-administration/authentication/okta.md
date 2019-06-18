@@ -134,12 +134,12 @@ redirigir al usuario al final de la sesión;
 marque la opción "Usar custom sign-out page". Entonces, se debe insertar la URL (https://localhost:8443/citsmart/saml/logout) con las 
 debidas adaptaciones (host y puerto), conforme la imagen abajo:
 
- ![Logout](images/okta.img19.png)
+  ![Logout](images/okta.img19.png)
  
    !!!Abstract "NOTA"
    
-    Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones en la 
-    sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
+      Al hacer *logout* del CITSmart, no se debe realizar el *logout* del Okta, pues el usuario puede tener otras aplicaciones en la 
+      sesión del Okta. En cambio, si realiza el *logout* del Okta, la sesión del usuario en el CITSmart será removida.
 
 Lo que hacer después
 ----------------------
