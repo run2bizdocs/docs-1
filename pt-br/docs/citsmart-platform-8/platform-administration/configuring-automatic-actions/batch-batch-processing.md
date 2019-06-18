@@ -53,9 +53,9 @@ Rotinas Batch
     -   Tipo: Classe Java
     -   Conteúdo:
     
-    ```java
-    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
-    ```
+   ```java
+   br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+   ```
 
 
 !!! tip "About"
