@@ -45,6 +45,10 @@ Procedimento
 
 !!! Abstract "ATENÇÃO"
 
+    O administrador da workspace pode alterar o gerente de projetos (permissão de administrador) em cada sprint. Caso o usuário não     for o administrador da workspace, não é possível dar a permissão de administrador para um outro usuário.
+
+!!! Abstract "ATENÇÃO"
+
     Para movimentar um **workspace** alterando sua ordenação, clicar e arrastar o
     mesmo para a posição de prioridade desejada.
     
