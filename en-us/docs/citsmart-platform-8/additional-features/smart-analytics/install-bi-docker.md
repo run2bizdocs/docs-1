@@ -100,7 +100,7 @@ docker logs -f citBI
 
 2.  Add the Schema available on:
 
-    /citbi/src/master/files/SchemaEnglish.xml
+     /citbi/src/master/files/SchemaEnglish.xml
 
 3.  Add DataSource:
 
