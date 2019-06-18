@@ -45,7 +45,7 @@ Title: Preguntas frecuentes - FAQ
     
 	Para que esta notificación sea enviada es necesario realizar los siguientes procedimientos:
     
-    1. Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
+    1- Acceda a los Servicios del Contrato relativos al servicio de negocio Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Contrato > Servicios y servicio técnico Gestión de Portafolio > Portafolio de Servicios > Servicio de Negócio > Servicio de Apoyo/Técnico > Contrato > Servicios e informe o modelo de e-mail en los campos:
         
 	- "Modelo de correo electrónico Apertura Solicitud/Incidente"
 	
@@ -55,17 +55,17 @@ Title: Preguntas frecuentes - FAQ
         
     REGLA: si notifica los modelos de correo electrónico, no se enviarán las notificaciones.
 
-    2. Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
+    2- Acceda a la funcionalidad de Registro de Grupo mediante la navegación en el menú principal Registros Gererales > Gestión de Personal > Grupo;    
     
-    3. Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
+    3- Se mostrará la pantalla de registro de grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo;
     
-    4. Seleccione el mismo;
+    4- Seleccione el mismo;
     
-    5. Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
+    5- Se mostrará la pantalla de registro del grupo determinado, defina si las notificaciones de correo electrónico (apertura, progreso y cierre) referentes a las solicitudes, serán de envío obligatorio;
     
     REGLA: si ha determinado que las notificaciones serán obligatorias, al registrar una solicitud de servicio, en la pantalla de Registro de Solicitud de Servicio/Incidente, estas opciones ya estarán seleccionadas, no permitiendo su alteración. Pero si ha determinado que las notificaciones no serán obligatorias, al registrar una solicitud de servicio, estas opciones pueden ser definidas por el responsable del registro de la solicitud.
     
-    6. En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
+    6- En la pantalla de Registro de Solicitud de Servicio/Incidente, al registrar una solicitud de servicio se establecerá la regla referente a la notificación por e-mail, definida en el registro de grupo.
     
     REGLA: al registrar una solicitud de servicio, se enviará la notificación sólo al grupo ejecutor, el cual es responsable de la atención de la solicitud. Cuando se realiza la ejecución de las demás acciones y cierre de la solicitud de servicio, las notificaciones serán encaminadas solamente al solicitante.
 
@@ -81,20 +81,26 @@ Title: Preguntas frecuentes - FAQ
     6. Busque y cambie el parámetro 297 - Desactiva el envío de correos electrónicos del sistema (Valores: "S" o "N" Default: "N") informando el valor "N";
     7. También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
     
-    - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
-    - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
-    -113: Modelo ID de correo electrónico de escalada automática;
-    - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
-    - 33: URL para acceder al sistema.
+     - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
     
-	8. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+     - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
+    
+     - 113: Modelo ID de correo electrónico de escalada automática;
+    
+     - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
+    
+     - 33: URL para acceder al sistema.
+    
+    8. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
 
 !!! Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
     Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
 
     Veamos un ejemplo genérico:
+    
     - El servicio A tiene un flujo de calidad vinculado. Después de solucionarse una solicitud referente al servicio A y avanzar el flujo, el grupo responsable será el de calidad y éste terminará el ciclo de vida de la solicitud en cuestión, pero este grupo no es el grupo que solucionó esta solicitud, sólo aprobó la solución y, ha finalizado la solicitud, por lo que no se presentará en el informe generado por la pantalla de búsqueda de solicitudes e incidentes cuando el filtro "Grupo de soluciones" esté marcado con un grupo específico.
+    
     - Sin embargo, cuando el filtro "Grupo Solucionador" no está activo, el grupo presentado en el informe o en la encuesta será el grupo correspondiente a la tarea actual de la solicitud, es decir, si la solicitud está cerrada y tiene un flujo de calidad, de calidad como el grupo actual responsable del cierre del ciclo de vida de esta solicitud. Y si la solicitud está en marcha, se presentará el grupo actual responsable de la ejecución de esta solicitud.
 
 !!! Question "¿Por qué la numeración de la solicitud de servicio no siempre seguirá un orden secuencial riguroso/perfecto en la pantalla de solicitud de servicio o en algunos Informes?"
@@ -238,7 +244,9 @@ Title: Preguntas frecuentes - FAQ
 !!! Question "¿Es posible evaluar el impacto de los cambios para poder aprobar el registro de cambios?"
 
     El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
+    
     "**Simplificada**" para una análisis Simplificada en el elemento.
+    
     "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
 
 !!! Question "¿Es posible adjuntar documentos a incidentes, solicitudes, problemas y cambios?"   
@@ -290,11 +298,17 @@ Title: Preguntas frecuentes - FAQ
 !!! Question "¿Cómo actualizar un Elemento de Configuración directamente por la Solicitud de Cambio?"
 
     Cuando una RFC pretende realizar la actualización de un EC, es posible cambiar los datos del EC directamente por la pantalla de gestión de cambios. Para ello:
-    1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio); 
+    
+    1. Acceder a la Gestión de Cambio (Procesos > Gestión de Cambio > Cambio);
+    
     2. Seleccionar la RFC y hacer clic en ella, después hacer clic en "Abrir";
+    
     3. En la interfaz de gestión, hacer clic en el elemento "EC relacionados"; 
+    
     4. En el elemento acciones, hacer clic en el icono "Cambiar";
+    
     5. Cambiar el EC con la nueva información;
+    
     6. Hacer clic en "Guardar".
 
 !!! Question "¿Cómo configurar el nombre de las fases del ciclo de vida de los EC (Elementos de configuración)?"
@@ -305,9 +319,13 @@ Title: Preguntas frecuentes - FAQ
     
     1. Acceda a la funcionalidad de configuración del GCAS mediante la navegación en el menú principal Procesos ITIL > Gestión de Configuración > Configuración del GCAS. Hecho esto, aparecerá la pantalla de configuración de los parámetros (atributos) de gestión de configuración y activos de servicio;
     2. Introduzca los valores de los parámetros (atributos):
-    Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo)
-    Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)
-    Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
+    
+     - Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo)
+    
+     - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)
+    
+     - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
+    
     3. Haga clic en el botón Grabar para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
     4. Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
@@ -316,7 +334,7 @@ Title: Preguntas frecuentes - FAQ
     1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
     2. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart. Se mostrará la pantalla para la búsqueda de parámetros;
     3. Realiza la búsqueda del parámetro "92 - Nombre del Grupo de ICs en la fase Desarrollo (Ej: ICs en Desarrollo)";
-    4.Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    4. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     5. En el campo valor, introduzca el nombre del grupo de IC de la fase de desarrollo;
     6. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     7. Realiza la búsqueda del parámetro "93 - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)";
@@ -396,8 +414,7 @@ Title: Preguntas frecuentes - FAQ
     AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
     Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
     Require valid-user
-    </Location>
-
+    
     2. Ejecutar:
     ```sh
     /etc/init.d/apache2 restart
@@ -569,9 +586,13 @@ Title: Preguntas frecuentes - FAQ
     Siempre que sea necesario personalizar correctamente los logotipos de CITSmart Enterprise ITSM, se debe realizar el siguiente procedimiento:
     
     1. Acceder al camino: Sistema > Configuración > Configuración de ambiente; aparecerá tres espacios para subir imágenes:
-      -  Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
+    
+      - Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
+      
       - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
+      
       - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
+      
       - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
 	
     2. Realizar upload (pueden ser imágenes diferentes).
@@ -735,9 +756,11 @@ Title: Preguntas frecuentes - FAQ
     QUÉ VERIFICAR
     1. Archivo de configuración del Banco Postgresql:
      - Postgresql.conf
-     - timezone = 'BRAZIL/EAST'    
+     - timezone = 'BRAZIL/EAST'
+     
     2. En el container cloud:
-     - Setting timezone on the operating system.    
+     - Setting timezone on the operating system. 
+     
     3.Configuración de TimeZone en JRE: 
      - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
 
