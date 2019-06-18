@@ -412,7 +412,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     ```sh
     vim /etc/apache2/conf-available/thruk.conf
 	```
-    <Location /thruk/>
+    
     Options ExecCGI FollowSymLinks
     AuthName "LDAP Authentication"
     AuthType Basic
