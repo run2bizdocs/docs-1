@@ -28,7 +28,7 @@ Após a liberação do ambiente Anuva, acessar a instância de configuração at
 
 Neste ambiente, é possível adicionar e revisar conhecimentos para Anuva, agendar treinamentos, acompanhar as interações realizadas pela Anuva e realizar testes de interação para validar se interações estão sendo efetivas.
 
-[https://example.anuva.com ](#)
+[https://example.anuva.com ](##)
 
 ## Configuração
 
