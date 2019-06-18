@@ -50,7 +50,7 @@ Procedure
 
     ![Configure path](images/okta.img7.png)
 
-  !!!Abstract "ATTENTION"
+!!!Abstract "ATTENTION"
    
      In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
      
