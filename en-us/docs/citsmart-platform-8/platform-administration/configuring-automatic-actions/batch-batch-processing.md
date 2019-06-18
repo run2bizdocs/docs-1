@@ -12,6 +12,10 @@ Routines like:
    - Server time verification
    
    - Automatic ticket distribution with workload balancing 
+   
+## Before getting started
+
+CITSmart Batch processing uses Quartz for scheduling and processing system routines. Therefore, before using any batch routine it is necessary to [configure Quartz][3].   
 
 Procedure
 -------------
@@ -60,3 +64,4 @@ Batch Routines
 
 [1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
 [2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz
