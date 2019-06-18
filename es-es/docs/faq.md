@@ -407,20 +407,20 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     La configuración de autenticación de Nagios a través de LDAP pasa por:
     
-    1- Cambie el archivo thruk.conf de la siguiente manera:
-    ```sh
-    vim /etc/apache2/conf-available/thruk.conf
+    1. Cambie el archivo thruk.conf de la siguiente manera:
+        ```sh
+        vim /etc/apache2/conf-available/thruk.conf
 	```
     
-    Options ExecCGI FollowSymLinks
-    AuthName "LDAP Authentication"
-    AuthType Basic
-    AuthBasicProvider ldap
-    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
-    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
-    Require valid-user
+        Options ExecCGI FollowSymLinks
+        AuthName "LDAP Authentication"
+        AuthType Basic
+        AuthBasicProvider ldap
+        AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
+        Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
+        Require valid-user
     
-    2- Ejecutar:
+    2. Ejecutar:
     
     ```sh
     /etc/init.d/apache2 restart
