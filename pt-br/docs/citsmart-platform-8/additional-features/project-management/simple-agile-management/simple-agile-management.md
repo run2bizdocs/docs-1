@@ -15,6 +15,10 @@ Na área de trabalho do Simple as atividades são inseridas e agrupadas por
 projetos (no Simple chamados de Workspaces), painel de tarefas (no Simple
 chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
+!!! Abstract "ATENÇÃO"
+
+    As permissões no Workspace e Sprint (localizada no botão configurações > perfis e permissões), quando o *administrador* estiver     logado, virão selecionadas por default e não poderão ser alteradas. Apenas quando o usuário for do tipo *normal* é que as           permissões serão editáveis.
+
 Procedimento
 ------------
 
