@@ -420,8 +420,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
     Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
     Require valid-user
-    </Location>
-
+    
     2. Ejecutar:
     ```sh
     /etc/init.d/apache2 restart
@@ -604,13 +603,13 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Acceder al camino: Sistema > Configuración > Configuración de ambiente; aparecerá tres espacios para subir imágenes:
     
-       - Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
+        - Logo inicio: Imagen/Logomarca que aparece en la pantalla inicial de inicio de sesión del sistema;
       
-       - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
+        - Logo portal: Imagen/Logomarca que aparece en el Portal de Servicios del sistema;
       
-       - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
+        - Logo sistema: Imagen/Logomarca que se presenta al acceder al sistema;
       
-       - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
+        - Logo Informe: Imagen/Logomarca que se presenta en los informes del tipo jasper.
 	
     2. Realizar upload (pueden ser imágenes diferentes).
     
