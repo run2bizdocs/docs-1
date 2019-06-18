@@ -85,13 +85,13 @@ Procedimiento
  
    - Acceder a la aplicación CITSmart en Okta, hacer clic en la pestaña "Applications > Applications" y después en la opción "Sign On". Al presionar la opción "Identity Provider metadata", se pondrá a disposición una nueva pestaña de los metadatos, copiar la URL del navegador e insertar en la propiedad *SAML2_METADATA*;
         
- ![Sign On](images/okta.img12.png)
+![Sign On](images/okta.img12.png)
 
    c) En la línea *OKTA_URL*, incluir la URL principal de la cuenta Okta.
    
    d) En la línea *OKTA_TOKEN*, incluir el token para acceder vía API. Para obtener este token, atienda estos pasos:
    
-    - Acceder a la aplicación CITSmart en el Okta, seleccionar en el menú la opción "Security > API" y después hacer clic en "Create Token". Nombre del token y hacer clic en "Create Token". Se mostrará el valor del token que deberá ser copiado en la línea citada arriba.
+   - Acceder a la aplicación CITSmart en el Okta, seleccionar en el menú la opción "Security > API" y después hacer clic en "Create Token". Nombre del token y hacer clic en "Create Token". Se mostrará el valor del token que deberá ser copiado en la línea citada arriba.
    
 ![Token](images/okta.img13.png)
 
