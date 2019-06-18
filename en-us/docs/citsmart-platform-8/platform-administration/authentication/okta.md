@@ -51,8 +51,7 @@ Procedure
     ![Configure path](images/okta.img7.png)
 
    !!!Abstract "ATTENTION"
-    
-       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
+      In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application       will be executed should be included.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
@@ -134,8 +133,7 @@ port), according to the image below:
  ![Logout](images/okta.img19.png)
 
    !!!Abstract "NOTE"
-   
-    When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In       contrast, if you do Okta *logout*, the user session in CITSmart will be removed.
+      When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In       contrast, if you do Okta *logout*, the user session in CITSmart will be removed.
 
 What to do next
 ----------------------
