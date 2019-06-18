@@ -98,11 +98,11 @@ docker logs -f citBI
 
     <http://127.0.0.1:8282/>
 
-1.  Adicionar Schema disponível em:
+2.  Adicionar Schema disponível em:
 
-    <citbi/src/master/files/SchemaEnglish.xml>
-
-1.  Adicionar DataSource:
+    /citbi/src/master/files/SchemaEnglish.xml
+    
+3.  Adicionar DataSource:
 
     jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
 
