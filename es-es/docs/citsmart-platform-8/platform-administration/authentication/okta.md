@@ -21,7 +21,7 @@ Procedimiento
 
 3. Informar los datos esenciale (correo electrónico, nombre y apellido);
 
-![Crear cuenta okta](images/okta.img1.png)
+    ![Crear cuenta okta](images/okta.img1.png)
 
 4. Haga clic en "Get Started" para completar la operación. Después, compruebe el correo electrónico registrado (que enviará un enlace de acceso), acceda a la cuenta con la contraseña temporal enviada y la cambie para mayor seguridad de los datos;
 
@@ -33,54 +33,54 @@ Procedimiento
 
 2. Haga clic en la pestaña "Applications" y luego en "Add Application";
 
-      ![Crear aplicación](images/okta.img3.png)
+    ![Crear aplicación](images/okta.img3.png)
 
 3. Haga clic en "Create New App";
 
-      ![Crear App](images/okta.img4.png)
+    ![Crear App](images/okta.img4.png)
 
 4. Marcar la opción "SAML 2.0" y después hacer clic en "Create";
 
-      ![Opción SAML 2.0](images/okta.img5.png)
+    ![Opción SAML 2.0](images/okta.img5.png)
 
 5. En el campo "App name", añadir el nombre de la aplicación y después, haga clic en "Next";
 
-      ![Nombrar Aplicación](images/okta.img6.png)
+    ![Nombrar Aplicación](images/okta.img6.png)
 
 6. Configurar la ruta de la aplicación y, a continuación, haga clic en Next;
 
     ![Configurar ruta](images/okta.img7.png)
 
-!!!Abstract "ATENCIÓN"
+    !!!Abstract "ATENCIÓN"
         
-      En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
-      ejecutará la apilación CITSmart.
+       En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
+       ejecutará la apilación CITSmart.
      
 7. Marcar las opciones "I'm an Okta customer adding an internal app" y "This is an internal app that we have created". Después, haga clic en "Finish".
 
-      ![Marcar las opciones](images/okta.img8.png)
+![Marcar las opciones](images/okta.img8.png)
 
 *3º Paso: Asignar usuarios a la aplicación CITSmart del Okta:*
 
 1. Concluido el paso anterior, es necesario hacer clic en la pestaña "Applications > Applications" y después en "Assign Applications" y optar por el filtro "People";
 
-      ![Asignación de usuarios](images/okta.img9.png)
+    ![Asignación de usuarios](images/okta.img9.png)
 
 2. Después, se puede elegir el usuario que tendrá el permiso para acceder a la aplicación que se está creando. Haga clic en "Assign" y luego para finalizar, haga clic en "Done";
 
-      ![Eligiendo el usuario](images/okta.img10.png)
+![Eligiendo el usuario](images/okta.img10.png)
 
 *4º Paso: Incluir la información necesaria en el CITSmart configurado en el Okta:*
 
 1. Es necesario configurar algunos datos en el directorio del WildFly. Acceder al directorio, abrir la carpeta "/standalone/configuration" y cambiar el archivo "citsmart.cfg".
 
-      ![Directorio Wildfly](images/okta.img11.png)
+     ![Directorio Wildfly](images/okta.img11.png)
 
-  2. Para acceder al archivo, se debe incluir estas informaciones en el archivo "citsmart.cfg":
+2. Para acceder al archivo, se debe incluir estas informaciones en el archivo "citsmart.cfg":
        
-       a) En la línea *SAML2_HOST* y *SAML2_PORT* incluir la dirección y el puerto de la aplicación CITSmart;
+     a) En la línea *SAML2_HOST* y *SAML2_PORT* incluir la dirección y el puerto de la aplicación CITSmart;
        
-       b) En la línea *SAML2_METADATA* incluir los metadatos SAML del Okta. Este dato puede obtenerse siguiendo las siguientes 
+     b) En la línea *SAML2_METADATA* incluir los metadatos SAML del Okta. Este dato puede obtenerse siguiendo las siguientes 
        instrucciones:
  
    - Acceder a la aplicación CITSmart en Okta, hacer clic en la pestaña "Applications > Applications" y después en la opción "Sign On". Al presionar la opción "Identity Provider metadata", se pondrá a disposición una nueva pestaña de los metadatos, copiar la URL del navegador e insertar en la propiedad *SAML2_METADATA*;
@@ -95,17 +95,17 @@ Procedimiento
    
 ![Token](images/okta.img13.png)
 
-  e) En la línea *OKTA_DOMAIN_ALIAS*, incluir el dominio de los usuarios provinciales del Okta.
+   e) En la línea *OKTA_DOMAIN_ALIAS*, incluir el dominio de los usuarios provinciales del Okta.
   
 *5º Paso: Sincronizar usuario del Okta en CITSmart:*
 
 1. Dentro del CITSmart, acceder al menú "Okta Config" y registrar una nueva configuración al hacer clic en "Nuevo";
 
-      ![Okta Confg](images/okta.img14.png)
+    ![Okta Confg](images/okta.img14.png)
 
 2. Completar los campos con las informaciones necesarias:
 
-      ![Campos Okta Confg](images/okta.img15.png)
+    ![Campos Okta Confg](images/okta.img15.png)
 
     * **Descripción:** introducir una definición de esta nueva configuración Okta;
      
@@ -121,7 +121,7 @@ Procedimiento
      
     * **ID de la aplicación:** incluir el ID de la aplicación. Esta información puede ser recuperada en la URL del Okta, conforme la figura abajo:
      
-      ![ID de la URL](images/okta.img16.png)
+    ![ID de la URL](images/okta.img16.png)
 
 3. Haga clic en "Guardar" y después en "Sicronizar usuarios" para efectuar la operación.
 
@@ -130,11 +130,9 @@ Procedimiento
 1. Como el Okta no tiene pantalla de logout, en el parámetro 377 del CITSmart, podemos insertar alguna dirección de página para 
 redirigir al usuario al final de la sesión;
 
-2. Configurar el enlace para el logout también en la dirección **(Admin > Settings > Customization > Sign-Out-Page)**, a continuación, 
-marque la opción "Usar custom sign-out page". Entonces, se debe insertar la URL (https://localhost:8443/citsmart/saml/logout) con las 
-debidas adaptaciones (host y puerto), conforme la imagen abajo:
+2. Configurar el enlace para el logout también en la dirección **(Admin > Settings > Customization > Sign-Out-Page)**, a continuación, marque la opción "Usar custom sign-out page". Entonces, se debe insertar la URL (https://localhost:8443/citsmart/saml/logout) con las debidas adaptaciones (host y puerto), conforme la imagen abajo:
 
-  ![Logout](images/okta.img19.png)
+![Logout](images/okta.img19.png)
  
  
 !!!Abstract "NOTA"
