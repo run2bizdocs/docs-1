@@ -74,13 +74,13 @@ Procedimento
 
       ![Diretório Wildfly](images/okta.img11.png)
 
-  2. Acessado o arquivo, é preciso incluir estas informações no arquivo "citsmart.cfg":
+2. Acessado o arquivo, é preciso incluir estas informações no arquivo "citsmart.cfg":
        
        a) Na linha *SAML2_HOST* e *SAML2_PORT* incluir o endereço e porta da aplicação CITSmart;
        
        b)  Na linha *SAML2_METADATA* incluir os metadados SAML do Okta. Este dado pode ser obtido seguindo as seguintes instruções:
  
-   - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será disponibilizado uma nova aba os metadados, copiar a URL do browser e inserir na propriedade *SAML2_METADATA* ;
+      - Acessar a aplicação CITSmart no Okta, clicar na aba "Applications > Applications" e em seguida na opção "Sign On". Ao apertar a opção "Identity Provider metadata", será disponibilizado uma nova aba os metadados, copiar a URL do browser e inserir na propriedade *SAML2_METADATA* ;
         
  ![Sign On](images/okta.img12.png)
 
