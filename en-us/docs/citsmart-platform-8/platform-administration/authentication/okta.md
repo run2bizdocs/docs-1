@@ -50,9 +50,9 @@ Procedure
 
     ![Configure path](images/okta.img7.png)
 
-    !!!Abstract "ATTENTION"
+  !!!Abstract "ATTENTION"
    
-       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
+     In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application        will be executed should be included.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
