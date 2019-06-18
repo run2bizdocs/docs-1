@@ -133,9 +133,9 @@ port), according to the image below:
 
  ![Logout](images/okta.img19.png)
 
-  !!!Abstract "NOTE"
+ !!!Abstract "NOTE"
    
-    When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In       contrast, if you do Okta *logout*, the user session in CITSmart will be removed
+    When *logout* in CITSmart, do not *logout* from the Okta, since users may have other applications in the Okta session. In               contrast, if you do Okta *logout*, the user session in CITSmart will be removed.
 
 What to do next
 ----------------------
