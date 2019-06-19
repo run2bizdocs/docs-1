@@ -37,7 +37,7 @@ description: Here you have the answers for the most common parameters when talki
     6. Perform the search for parameter "9 - Group ID Level 1"
     7. Select the same.
     8. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number (ID) of the 1st level group
-    9. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
     RULE: after setting the parameter, when registering a Service Request/Incident, if you have not informed the group to service the service, the group will be scaled, which was defined in the parameter For 1st level service.
 
@@ -102,7 +102,7 @@ description: Here you have the answers for the most common parameters when talki
       -   33 - System access URL
       
     
-    8- Click the Save button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
+    8- Click the "Save" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
     
 !!! Question "What is the impact of the "Solver Group" filter on the behavior of requests and incidents searches?"
     
@@ -152,15 +152,15 @@ description: Here you have the answers for the most common parameters when talki
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
     4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
-    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
+    5. After linking, click on the "Save" button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
     
 	FROM THE USER'S REGISTRATION
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the User option (see [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html));
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the "User" option (see [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html));
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
-    5. After linking, click on the Save button to confirm the entry, at which date, time and user will be automatically stored for a future audit
+    5. After linking, click on the "Save" button to confirm the entry, at which date, time and user will be automatically stored for a future audit
 
 !!! Question "How to relate group to contract?"
     
@@ -180,7 +180,7 @@ description: Here you have the answers for the most common parameters when talki
     
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
-    3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the Save button to perform the operation;
+    3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the "Save" button to perform the operation;
     4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files > Personnel Management > Unit.The unit registration screen will be displayed, displaying the contracts;
     5. If the unit you wish to link to the contract is already registered in the system, perform the unit search and select it. Once this is done, the registration screen of the particular unit will be displayed;
     6. Select the contracts to which the unit will be linked.
@@ -232,7 +232,7 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "Is it possible to version knowledge in the knowledge management?"
     
-    To version a knowledge, open one in the knowledge management interface, click on edit in the knowledge information screen and then on "Version". It's also possible to "Archive the previous version" of the knowledge.
+    To version a knowledge, open one in the knowledge management interface, click on "Edit" in the knowledge information screen and then on "Version". It's also possible to "Archive the previous version" of the knowledge.
     
 ### Problem Management    
 
@@ -264,6 +264,7 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
     Both a Request and an Incident may have attached documents in their opening and in their attendance, for Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
+    
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (the default is 1GB).
     
 !!! Question "How to update a Configuration Item directly by the Request for Change?"
@@ -286,7 +287,7 @@ description: Here you have the answers for the most common parameters when talki
     3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)"
     4. Select it.
     5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value.
-    6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
+    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
     7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory.
     
 !!! Question "How to enable the change module escalation rule?"
@@ -345,15 +346,15 @@ description: Here you have the answers for the most common parameters when talki
     3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)"
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed.
     5. On the Value field, insert the name of the CI group in development.
-    6. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
+    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
     7. Search for the parameter "93 - Name of The CIs Group in Production Phase (e.g.: ICs em Produção)"
     8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
-    10. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.
+    10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
     11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)"
     12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     13. On the Value field, insert the name of the CI group in confirmation phase;
-    14. Click on the Save button to confirm the entry, at which time, date and user will be stored for a future audit.    
+    14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
 
 !!! Question "How to define the obligatoriness of linking the change with the CI?"
 
@@ -386,10 +387,10 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "What is the meaning of each inventory status of CI?"
     
     -   Inventory - the inventory was able to read the CI information and ended successfully
-    -   Ignored - In the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
-    -   Unreachable - When the server encounters the IC but can not bring the information,
-    -   Not inventoried - When neither it finds the IC in the network, but knows that it already existed,
-    -   Running - While reading the inventory, the IC is in this status.
+    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
+    -   Unreachable - when the server encounters the IC but can not bring the information,
+    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed,
+    -   Running - while reading the inventory, the IC is in this status.
 
 ### Event Management
 
@@ -465,7 +466,7 @@ description: Here you have the answers for the most common parameters when talki
     
        - Content: insert the text: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
      
-    4- Click on the Save button to confirm the entry.
+    4- Click on the "Save" button to confirm the entry.
     
 	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
 	
@@ -480,24 +481,24 @@ description: Here you have the answers for the most common parameters when talki
     3. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
     5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br)
-    6. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
     8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart)
-    9. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
     11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
-    12. Click on the Save button to perform the operation, in this case the date, time and user will be stored automatically for a future audit;
+    12. Click on the "Save" button to perform the operation, in this case the date, time and user will be stored automatically for a future audit;
     13. Perform the search of the parameter "26 - SMTP READY - Service Desk e-mail server provider (imaps, pops, imap, pop, etc)" and select it;
-    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the Save button to perform the operation, In this case the date, time and user will be stored automatically for a future audit.
+    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the "Save" button to perform the operation, In this case the date, time and user will be stored automatically for a future audit.
     15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select the same.
     16. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the port that will be used to access the mail server (587 for pop server or 995 for imap server);
-    17. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    17. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     18. Perform the search for the parameter "28 - SMTP READY - Service Desk E-Mailbox Folder" and select it.
     19. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the folder of the e-mail account's inbox;
-    20. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    20. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     21. Perform the search for the parameter "200 - Enable routine for reading new e-mails automatically (ex: Y or N - Default 'N')" and select the same one;
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
-    23. Click the Record button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
+    23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
 
 !!! Question "How to enable the Service Portal(Smart Portal)?"
     
@@ -520,7 +521,7 @@ description: Here you have the answers for the most common parameters when talki
     4. Search for the parameter "Send e-mail when running requests/incidents flows";
     5. Select it.
     6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests.
-    7. Click on the Save button to confirm the procedure.
+    7. Click on the "Save" button to confirm the procedure.
     8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
    
@@ -547,11 +548,11 @@ description: Here you have the answers for the most common parameters when talki
     6. START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
     7. START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
     8. Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
-    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
-    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
-    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
     9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
-    - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
+       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
 
 !!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
     
@@ -582,7 +583,7 @@ description: Here you have the answers for the most common parameters when talki
 	
     The user has access to the properties of the image that will appear in the reports,
 
-	RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
+    RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
 
 !!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
    
