@@ -14,7 +14,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Es posible clasificar la Solicitud/Incidente (Ticket)?"
 
-    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).    
+    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).    
 
 !!! Question "¿Cómo acceder a la solicitud de servicio a partir de la notificación de correo electrónico?"
     
@@ -136,7 +136,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
     2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
-    3. Realice el diseño
+    3. Realice el diseño.
 	
 !!! Question "¿Cómo vincular colaboradores (usuarios) a un grupo?"
     
@@ -154,7 +154,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Acceda a la funcionalidad de Registro de Usuario a través de la navegación en el menú principal. Sitúe el puntero en la opción Registros Generales, Administración de Personal y haga clic en la opción Usuario (ver [Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html));
     2. Se mostrará la pantalla de Registro de Usuario. Si el usuario ya está registrado en el sistema, realice la búsqueda del usuario y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del usuario determinado;
-    3. Haga clic en el icono Agregar del campo Grupo. Se mostrará la pantalla para la búsqueda de grupos;
+    3. Haga clic en el icono "Agregar" del campo Grupo. Se mostrará la pantalla para la búsqueda de grupos;
     4. Realice la búsqueda del grupo deseado y seleccione la misma. Después de eso, el usuario será vinculado al grupo;
     5. Después del vínculo, haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario se almacenar automáticamente para una futura auditoría.
     
@@ -164,7 +164,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Coloque el puntero en la opción Parametrización y haga clic en la opción Parámetros CITSmart. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de consulta de parámetros de CITSmart. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
     2. Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de colaboradores a los contratos (S/N)?" y seleccione. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
-    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el botón Grabar para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
     6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
@@ -218,7 +218,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
 
-    Para ver un conocimiento, abra uno en la interfaz de gestión del conocimiento, haga clic en editar, en la pantalla de información del conocimiento, después haga clic en "Versionar". Es posible también "Archivar la versión anterior" del conocimiento.
+    Para ver un conocimiento, abra uno en la interfaz de gestión del conocimiento, haga clic en "Editar", en la pantalla de información del conocimiento, después haga clic en "Versionar". Es posible también "Archivar la versión anterior" del conocimiento.
     
 ### Gestión de Problema    
 
@@ -285,7 +285,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"193 - ¿Permite programar los cambios en las reglas de escalamiento definidos? (Ej: S o N - Default 'N')" y seleccione el mismo;
     4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
-    5. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 ### Gestión de Configuración y Activos
 
@@ -325,7 +325,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
     
-    3- Haga clic en el botón Grabar para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
+    3- Haga clic en el botón "Grabar" para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
     
     4- Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
@@ -336,15 +336,15 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     3. Realiza la búsqueda del parámetro "92 - Nombre del Grupo de ICs en la fase Desarrollo (Ej: ICs en Desarrollo)";
     4. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     5. En el campo valor, introduzca el nombre del grupo de IC de la fase de desarrollo;
-    6. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    6. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     7. Realiza la búsqueda del parámetro "93 - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)";
     8. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     9. En el campo valor, introduzca el nombre del grupo de IC de la fase de producción;
-    10. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
+    10. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     11. Realiza la búsqueda del parámetro "94 - Nombre del Grupo IC en la fase Homologación (Ej: ICs en Homologación)";
     12. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     13. En el campo valor, introduzca el nombre del grupo de IC de la fase de homologación;
-    14. Haga clic en el botón Grabar para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    14. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 
 !!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?"
@@ -516,7 +516,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     al registro seleccionado, en el campo valor, informe el puerto que se
     utilizará para acceder al servidor de correos electrónicos (587 para
     servidor pop o 995 para servidor imap);
-    17. Haga clic en el botón *Grabar* para realizar la operación, en este caso la
+    17. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría.
     18. Realice la búsqueda del parámetro "28 - SMTP LECTURA - Carpeta de la
@@ -525,7 +525,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     19. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, introduzca la carpeta de la
     bandeja de entrada de la cuenta de correo electrónico;
-    20. Haga clic en el botón *Grabar* para realizar la operación, en este caso la
+    20. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría.
     21. Realice la búsqueda del parámetro "200 - ¿Habilitar rutina para leer los
@@ -534,7 +534,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     22. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, introduzca el valor "S" para
     activar la rutina de lectura de e-mail automáticamente;
-    23. Haga clic en el botón *Grabar* para realizar la operación, en este caso la
+    23. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría.
     
@@ -585,11 +585,14 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     6. START_MONITORA_INCIDENTES=${valor} (Este parámetro define si desactiva el seguimiento de incidentes. Indique el valor TRUE activar o FALSE desactivar);
     7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
     8. El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
-    - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
-    - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del inventario. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_inventory).
-    - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_reports).
+    
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del inventario. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_inventory).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_reports).
+       
     9. El parámetro siguiente separa el procesamiento de la rutina de eventos BPM en un grupo de subprocesos independientes del grupo de subprocesos principal del sistema para aliviar el uso de recursos de base de datos y servidor.
-    - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartBpmEventos).
+   
+      - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartBpmEventos).
     
 !!! Question "¿Cómo integrar el AD de la empresa del cliente en el CITSmart Enteprise ITSM que está en cloud ofrecida por CITSmart Corporation?"
     
