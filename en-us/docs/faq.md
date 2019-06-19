@@ -550,7 +550,9 @@ description: Here you have the answers for the most common parameters when talki
     8. Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
+       
        - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
+       
        - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
        
     9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
