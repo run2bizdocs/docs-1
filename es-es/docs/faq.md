@@ -20,7 +20,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para acceder a la solicitud de servicio desde la notificación de correo electrónico, proceda de la siguiente manera:
    
-    1. Asegúrese de que está conectado al sistema.
+    1. Asegúrese de que está conectado al sistema;
     2. Abra la notificación de correo electrónico referente a la solicitud de servicio;
     3. La notificación tendrá el número de solicitud con un hipervínculo, simplemente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
     
@@ -31,11 +31,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
     2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
     3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
-    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart.
-    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart
-    6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1"
-    7. Seleccione el mismo.
-    8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel
+    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart;
+    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart;
+    6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1";
+    7. Seleccione el mismo;
+    8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel;
     9. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
     REGLA: después de la configuración del parámetro, al realizar el registro de una Solicitud de Servicio/Incidente, si no ha informado al grupo para atención del servicio, será escalado el grupo, el cual fue definido en el parámetro para atención de 1º nivel.
@@ -90,7 +90,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     7- También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
     
-      - 195: Id plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
+      - 195: ID plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
     
       - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
     
@@ -146,7 +146,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     A PARTIR DEL REGISTRO DE GRUPO
 	
-    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html) );
+    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     2. Se mostrará la pantalla de Registro de Grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
     3. Haga clic en el icono de agregar del campo Colaboradores, se mostrará la pantalla para búsqueda de colaboradores;
     4. Realice la búsqueda del colaborador que desea vincular al grupo y seleccione el mismo. Después de eso, el colaborador será vinculado al grupo;
@@ -214,8 +214,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cuál es el significado de cada privacidad que un conocimiento puede tener en la base de conocimientos?"
     
-    - Público: todos los usuarios con acceso en el Portal del Conocimiento poseen acceso, independientemente de si tienen acceso a la carpeta del conocimiento.
-    - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento.
+    - Público: todos los usuarios con acceso en el Portal del Conocimiento poseen acceso, independientemente de si tienen acceso a la carpeta del conocimiento;
+    - Confidencial: sólo el autor y el aprobador pueden visualizar el conocimiento;
     - Interno: sólo las personas con permiso en la carpeta del conocimiento pueden visualizar.
     
 !!! Question "¿Es posible la versión de un conocimiento en la gestión del conocimiento?"
@@ -321,13 +321,13 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     2- Introduzca los valores de los parámetros (atributos):
     
-    - Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo)
+    - Nombre del Grupo de ICs en la fase Desarrollo (Ej.: ICs en desarrollo);
     
-    - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción)
+    - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Producción);
     
     - Nombre del Grupo de ICs en la fase Producción (Ej: ICs en Homologación).
     
-    3- Haga clic en el botón "Grabar" para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría.
+    3- Haga clic en el botón "Grabar" para realizar la operación, donde la fecha, hora y usuario se guardarán automáticamente para una futura auditoría;
     
     4- Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
@@ -353,8 +353,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
     
-    1. Acceder a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros 
-    CITSmart;
+    1. Acceder a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
     2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña Búsqueda de parámetros del CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros. Busque por el parámetro "85 - Comprobación del vínculo de cambio 
     relacionado al elemento de configuración (Default: S)";
@@ -369,7 +368,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     Para definir el destinatario, proceda de la siguiente manera:
     
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
     2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros;
     4. Realiza la búsqueda del parámetro "90 - Envío de correos electrónicos de notificación IC (1-Grupo, 2-Propietario, 3-Todos)";
@@ -397,7 +396,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     Ejemplo "Hoja/Nómina de pago":
     
-    - Digamos que es una regla de una empresa no contratar a más de 5 empleados por sector.
+    - Digamos que es una regla de una empresa no contratar a más de 5 empleados por sector;
     - El programa de nóminas podría enviar los datos mínimos de cada contratación por departamento (definido en el plan presupuestario de la empresa), de modo que cuando el número de contracción por departamento supera el límite preestablecido, un evento de "exceso de contratación " Podría ser disparado.
     
 ### Administración de la Plataforma    
@@ -471,17 +470,17 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
      1.  Instalar la versión de java 7, si tiene versión inferior la rutina no
         funcionará;
-     2.  Acceda a la funcionalidad de Parámetros de Citsmart a través de la
+     2.  Acceda a la funcionalidad de Parámetros de CITSmart a través de la
     navegación en el menú principal Parametrización > Parámetros
     Citsmart;
-    3.  Se mostrará la pantalla de Parámetros de Citsmart, haga clic en la
+    3.  Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la
     pestaña de Búsqueda de Parámetros de Citsmart;
      4.  Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda
     del parámetro "23 - SMTP LECTURA - Servidor de entrada de e-mails del
     Service Desk" y seleccionelo;
     5.  Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe al servidor de entrada
-    de correo electrónico (ej .: orion.egrupo.com.br)
+    de correo electrónico (ej .: orion.egrupo.com.br);
     6.  Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría;
@@ -489,10 +488,10 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     entrada de mensajes de Service Desk" y seleccionelo;
     8.  Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe el correo electrónico o
-    login de la cuenta de correo electrónico (por ejemplo, soporte.citsmart)
+    login de la cuenta de correo electrónico (por ejemplo, soporte.citsmart);
     9.  Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
-    auditoría.
+    auditoría;
     10. Realice la búsqueda del parámetro "25 - SMTP LECTURA - Contraseña de buzón
     de entrada de mensajes de Service Desk" y seleccionelo;
     11. Se mostrará la pantalla de registro del parámetro con el contenido referente
@@ -508,25 +507,25 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     al registro seleccionado, en el campo valor, informe el protocolo que será
     utilizado para lectura de e-mails (ej. Imap o pop) y haga clic en el botón
     "Grabar" para efectuar la operación, En este caso la fecha, hora y usuario se
-    almacenan automáticamente para una futura auditoría.
+    almacenan automáticamente para una futura auditoría;
     15. Realice la búsqueda del parámetro "27 - SMTP LECTURA - Puerto del servidor
-    de correo electrónico del Service Desk" y seleccionelo.
+    de correo electrónico del Service Desk" y seleccionelo;
     16. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe el puerto que se
     utilizará para acceder al servidor de correos electrónicos (587 para
     servidor pop o 995 para servidor imap);
     17. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
-    auditoría.
+    auditoría;
     18. Realice la búsqueda del parámetro "28 - SMTP LECTURA - Carpeta de la
     bandeja de entrada de correos electrónicos del Service Desk" y
-    seleccionelo.
+    seleccionelo;
     19. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, introduzca la carpeta de la
     bandeja de entrada de la cuenta de correo electrónico;
     20. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
-    auditoría.
+    auditoría;
     21. Realice la búsqueda del parámetro "200 - ¿Habilitar rutina para leer los
     nuevos mensajes de correo electrónico de forma automática (por ejemplo, S o
     N - Default 'N') y seleccione el mismo;
@@ -541,7 +540,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para que los usuarios tengan acceso al Portal o al Portal Smart, se debe habilitar el mismo de la siguiente forma:
     
-    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart; Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart; Hecho esto, se mostrará la pantalla para la búsqueda de parámetros
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart; Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     2. Realiza la búsqueda del parámetro "46 - ¿Habilitar Portal como Pantalla de inicio de CITSmart?" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     3. En el campo valor, introduzca el valor "S" para habilitar el portal como pantalla de inicio. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     4. Después de configurar el parámetro, al iniciar sesión en el sistema, se mostrará como pantalla inicial el Portal.
@@ -553,7 +552,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Para habilitar esta encuesta de satisfacción, proceda conforme a las siguientes directrices:
     
     1. Cree la plantilla de correo electrónico (la plantilla de correo debe contener la siguiente palabra clave: $ {LINKPESQUISASATISFACAO});
-    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
+    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
     3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     4. Realiza la búsqueda del parámetro "31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes";
     5. Seleccione el mismo;
@@ -590,7 +589,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     7- START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
     
-    8- El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
+    8- El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe;
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
        
@@ -748,7 +747,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
         NOMEATIVIDADE
         DATAHORACARGA
     
-    Estas informações são alimentadas através da rotina de processamento batch do citsmart, rodando os scripts Rhino Conforme o Banco
+    Estas informações são alimentadas através da rotina de processamento batch do CITSmart, rodando os scripts Rhino Conforme o Banco
    
     **Scripts disponibles para:**
     
