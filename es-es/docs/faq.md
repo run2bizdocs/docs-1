@@ -576,12 +576,19 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     REGLA: donde está $ {valor} reemplaza por los valores correspondientes.
 	
     1- START_MODE_RULES=${valor} (Este parámetro define si procesa las reglas de escalado. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    
     2- START_MODE_ITSM=${valor} (Este parámetro define si se muestra la interfaz de ITSM. Introduzca el valor TRUE o FALSE. Si se establece con el valor FALSE, no permitirá abrir las características de incidentes, etc. (del ITSM);
+    
     3- START_MONITORING_ASSETS=${valor}(Este parámetro define si el monitoreo de activos se activará. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    
     4- QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parámetro define la cantidad de elementos de la tabla eliminados que se harán copia de seguridad. Introduzca la cantidad de elementos, por ejemplo: 1000);
+    
     5- Los parámetros siguientes cuando no se activan hacen que el sistema suba con los subprocesos deshabilitados para mejorar el rendimiento del sistema. Es necesario configurar estos parámetros antes del inicio de Jboss para el funcionamiento de los mismos;
+    
     6- START_MONITORA_INCIDENTES=${valor} (Este parámetro define si desactiva el seguimiento de incidentes. Indique el valor TRUE activar o FALSE desactivar);
+    
     7- START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
+    
     8- El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
