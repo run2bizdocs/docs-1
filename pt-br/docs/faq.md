@@ -558,14 +558,14 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
    
     REGRA: quando $ {value} é substituído pelos valores correspondentes.
 	
-    1. START_MODE_RULES=${valor} (Este parâmetro define se processa as regras de escalonamento. Informar o valor TRUE para ativar ou FALSE para desativar).
-    2. START_MODE_ITSM=${valor} (Este parâmetro define se apresenta a interface do ITSM. Informar o valor TRUE ou FALSE. Se estiver definido com o valor FALSE, não irá permitir abrir as funcionalidades de incidentes, etc. (do ITSM)).
-    3. START_MONITORING_ASSETS=${valor} (Este parâmetro define se o monitoramento de ativos será ativado. Informar o valor TRUE para ativar ou FALSE para desativar).
-    4. QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parâmetro define a quantidade de itens da tabela logdados que serão feitos backup. Informar a quantidade de itens, ex.: 1000).
-    5. Os parâmetros abaixo quando não ativados faz com que o sistema suba com as threads desativadas para melhorar o desempenho do sistema. É necessário configurar esses parâmetros antes da inicialização do Jboss para o funcionamento dos mesmos.
-    6. START_MONITORA_INCIDENTES=${valor} (Este parâmetro define se desativa o monitoramento de incidentes. Informar o valor TRUE ativar ou FALSE desativar).
-    7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informar o valor TRUE ativar ou FALSE desativar).
-    8. O uso dos parâmetros abaixo é opcional. Os mesmos fazem a separação do pool de conexão principal com o pool de execução do fluxo, inventário e relatório.
+    1- START_MODE_RULES=${valor} (Este parâmetro define se processa as regras de escalonamento. Informar o valor TRUE para ativar ou FALSE para desativar).
+    2- START_MODE_ITSM=${valor} (Este parâmetro define se apresenta a interface do ITSM. Informar o valor TRUE ou FALSE. Se estiver definido com o valor FALSE, não irá permitir abrir as funcionalidades de incidentes, etc. (do ITSM)).
+    3- START_MONITORING_ASSETS=${valor} (Este parâmetro define se o monitoramento de ativos será ativado. Informar o valor TRUE para ativar ou FALSE para desativar).
+    4- QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parâmetro define a quantidade de itens da tabela logdados que serão feitos backup. Informar a quantidade de itens, ex.: 1000).
+    5- Os parâmetros abaixo quando não ativados faz com que o sistema suba com as threads desativadas para melhorar o desempenho do sistema. É necessário configurar esses parâmetros antes da inicialização do Jboss para o funcionamento dos mesmos.
+    6- START_MONITORA_INCIDENTES=${valor} (Este parâmetro define se desativa o monitoramento de incidentes. Informar o valor TRUE ativar ou FALSE desativar).
+    7- START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informar o valor TRUE ativar ou FALSE desativar).
+    8- O uso dos parâmetros abaixo é opcional. Os mesmos fazem a separação do pool de conexão principal com o pool de execução do fluxo, inventário e relatório.
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do fluxo. Informar o nome do datasource, ex. java:/jdbc/citsmartFluxo).
        
@@ -573,7 +573,7 @@ description: Aqui você tem as respostas das pergundas mais comuns quando se fal
        
        - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource dos relatórios. Informar o nome do datasource, ex.: java:/jdbc/citsmart_reports).
        
-    9. O parâmetro abaixo separa o processamento da rotina de eventos BPM em um pool de thread separado do pool de thread principal do sistema, para aliviar no uso de recursos do banco de dados e do servidor.
+    9- O parâmetro abaixo separa o processamento da rotina de eventos BPM em um pool de thread separado do pool de thread principal do sistema, para aliviar no uso de recursos do banco de dados e do servidor.
     
        - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informar o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
 
