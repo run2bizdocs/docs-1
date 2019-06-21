@@ -90,6 +90,8 @@ Permite mantener y visualizar áreas de trabajo por usuario con:
 
 **Cada usuario puede configurar su propio área con una o más pestañas.**
 
+![Smart decision](images/smart-decision.jpg)
+
 
 Acceso Rápido
 -------------
