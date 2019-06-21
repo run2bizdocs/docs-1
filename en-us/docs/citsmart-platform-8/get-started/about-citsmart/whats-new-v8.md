@@ -90,6 +90,7 @@ It allows to maintain and view workareas by users with:
 
 **Each user can configure their own area with one or more tabs.**
 
+![QSmart decision](images/smart-decision.jpg)
 
 Quick Access
 -------------
