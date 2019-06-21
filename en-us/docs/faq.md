@@ -178,7 +178,7 @@ description: Here you have the answers for the most common parameters when talki
     
     To relate the unit to the contract, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the "Save" button to perform the operation;
     4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files > Personnel Management > Unit.The unit registration screen will be displayed, displaying the contracts;
@@ -341,8 +341,8 @@ description: Here you have the answers for the most common parameters when talki
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-    1. Access the Citsmart Parameters feature (Parametrization > Citsmart Parameters).
-    2. Then, the Citsmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
+    1. Access the CITSmart Parameters feature (Parametrization > Citsmart Parameters).
+    2. Then, the CITSmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
     3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)"
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed.
     5. On the Value field, insert the name of the CI group in development.
@@ -477,8 +477,7 @@ description: Here you have the answers for the most common parameters when talki
     For this e-mail reading routine to work perfectly, the following procedures must be followed:
     
     1. Install the java 7 version, if it has lower version the routine will not work;
-    2. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
-    3. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab;
+    2. Access the CITSmart Parameters feature by navigating in CITSmart Parameters Search tab;
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
     5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br);
     6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
@@ -504,10 +503,10 @@ description: Here you have the answers for the most common parameters when talki
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed, as shown in the figure below:
     3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
-    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
 !!! Question "How to enable the satisfaction survey?"
     
@@ -712,7 +711,7 @@ description: Here you have the answers for the most common parameters when talki
         NOMEATIVIDADE
         DATAHORACARGA
     
-    This information is fed through the citsmart batch processing routine, running the Rhino scripts as the DBMS.
+    This information is fed through the CITSmart batch processing routine, running the Rhino scripts as the DBMS.
 
     **Scripts available for:**
 
