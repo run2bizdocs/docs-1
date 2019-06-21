@@ -151,7 +151,7 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
-    4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group as exemplified on the following image:
+    4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group;
     5. After linking, click on the "Save" button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
     
 	FROM THE USER'S REGISTRATION
