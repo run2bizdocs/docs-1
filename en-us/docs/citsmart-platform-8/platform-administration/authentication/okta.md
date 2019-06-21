@@ -52,7 +52,7 @@ Procedure
 
     !!!Abstract "ATTENTION"
    
-       In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application                will be executed should be included.
+        In the "Single sign on URL" and "Audience URI (SP Entity ID)" field, the URL addresses on which the CITSmart Application           will be executed should be included.
      
 7. Select the options "I'm an Okta customer adding an internal app" and "This is an internal app that we have created". Then, click on "Finish".
 
@@ -88,7 +88,7 @@ Procedure
    
    d) In the line *OKTA_TOKEN*, include the token to access through API. To get this token, follow these steps:
    
-   - Access the CITSmart application in Okta, select the "Security > API" menu and then click on "Create Token". Name the token and click on "Create Token". It will be presented the token value to be copied on the line quoted above.
+3. Access the CITSmart application in Okta, select the "Security > API" menu and then click on "Create Token". Name the token and click on "Create Token". It will be presented the token value to be copied on the line quoted above.
    
     ![Token](images/okta.img13.png)
 
