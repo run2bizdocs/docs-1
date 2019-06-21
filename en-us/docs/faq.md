@@ -540,14 +540,21 @@ description: Here you have the answers for the most common parameters when talki
 
     RULE: where $ {value} is replaced by the corresponding values.
 	
-    1- START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
-    2- START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
-    3- START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
-    4- QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
-    5- The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation.
-    6- START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
-    7- START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
-    8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
+    1- START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable);
+    
+    2- START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality;
+    
+    3- START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable);
+    
+    4- QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000);
+    
+    5- The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation;
+    
+    6- START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on);
+    
+    7- START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on);
+    
+    8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool;
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
        
