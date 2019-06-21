@@ -118,8 +118,9 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Los informes agrupan los datos por algún criterio especial (por ejemplo, por el plazo de SLA, que es lo que sucede en el caso del informe "Calidad de Atención - SLA");
     2. Cuando el recurso denominado Sequence Block es impactado por un factor externo, esto ocurre si:
-    * Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
-    * El entorno se agrupa.
+    
+      - Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
+      - El entorno se agrupa.
   
 !!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
     
@@ -132,7 +133,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
    
     Se hace el diseño de activos que componen el servicio utilizando la herramienta de Diseño de Mapa de Servicio que proporciona diseños eficientes y eficaces para la gestión del servicio durante su ciclo de vida, demostrando los ítems de configuración relacionados.
 
-    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html) ):
+    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
     2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
@@ -233,7 +234,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
     2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
-    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"194 - ¿Habilitar el escalonamiento de problema definido en las reglas de escalonamiento?". (Ej.: S o N - Default 'N')" y seleccione el mismo;
+    3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro "194 - ¿Habilitar el escalonamiento de problema definido en las reglas de escalonamiento?". (Ej.: S o N - Default 'N')" y seleccione el mismo;
     4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
     5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
@@ -357,10 +358,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     3. Se mostrará la pantalla para la búsqueda de parámetros. Busque por el parámetro "85 - Comprobación del vínculo de cambio 
     relacionado al elemento de configuración (Default: S)";
     4. Seleccionélo;
-    5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe 
-    el valor "S";
-    6. Hacer clic en "Guardar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para 
-    una futura auditoría;
+    5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S";
+    6. Hacer clic en "Guardar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     7. Después de la configuración del parámetro, cuando se registre un elemento de configuración, será obligatorio el vínculo del cambio.
     
 !!! Question "¿Para cuál destinatario se hará el envío de notificaciones de EC?"
@@ -380,12 +379,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cuál es el significado de cada estado del inventario de EC?"
     
-    - Inventariado - El inventario logró leer la información del IC y se cerró con éxito;
-    - Ignorado -En la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para 
-    ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
-    - Inaccesible - Cuando el servidor encuentra el IC, pero no puede traer la información;
-    - No inventariado - Cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
-    - En ejecución - Durante la lectura del inventario, el IC queda en ese estado.
+    - Inventariado - el inventario logró leer la información del IC y se cerró con éxito;
+    - Ignorado - en la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
+    - Inaccesible - cuando el servidor encuentra el IC, pero no puede traer la información;
+    - No inventariado - cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
+    - En ejecución - durante la lectura del inventario, el IC queda en ese estado.
     
 ### Gestión de Eventos
 
@@ -440,11 +438,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     1- Configure los siguientes parámetros del sistema que definen el comportamiento del motor de respuesta automática:
     
-      - Parámetro 139: Define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
+      - Parámetro 139: define el plazo máximo, en días, que el usuario tiene para responder la encuesta de satisfacción, antes de que ésta sea respondida automáticamente por el sistema;
    
-      - Parámetro 152: Nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
+      - Parámetro 152: nota default que se asigna a las encuestas de satisfacción que se responden automáticamente. Opciones: OPTIMO, BUENO, REGULAR Y MALO;
     
-      - Parámetro 151: Activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
+      - Parámetro 151: activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
     
     2- Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
    
@@ -460,7 +458,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
       - Contenido: informe el texto: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNoRespuestas;
     
-    4- Haga clic en el botón Grabar para realizar el registro.
+    4- Haga clic en el botón "Grabar" para realizar el registro.
     
 	REGLA: a partir del momento de la grabación, en el horario y día programado, las solicitudes no respondidas (con plazo superior al definido en el parámetro 139) serán automáticamente respondidas (con el valor definido en el parámetro 152), si el parámetro 151 está con valor 'S'.
     
@@ -499,7 +497,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     11. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, la contraseña de la cuenta de
     correo electrónico;
-    12. Haga clic en el botón *Grabar* para realizar la operación, en este caso la
+    12. Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría;
     13. Realice la búsqueda del parámetro "26 - SMTP LECTURA - Proveedor del
@@ -508,7 +506,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     14. Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe el protocolo que será
     utilizado para lectura de e-mails (ej. Imap o pop) y haga clic en el botón
-    Grabar para efectuar la operación, En este caso la fecha, hora y usuario se
+    "Grabar" para efectuar la operación, En este caso la fecha, hora y usuario se
     almacenan automáticamente para una futura auditoría.
     15. Realice la búsqueda del parámetro "27 - SMTP LECTURA - Puerto del servidor
     de correo electrónico del Service Desk" y seleccionelo.
@@ -577,14 +575,14 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
    
     REGLA: donde está $ {valor} reemplaza por los valores correspondientes.
 	
-    1. START_MODE_RULES=${valor} (Este parámetro define si procesa las reglas de escalado. Introduzca el valor TRUE para activar o FALSE para desactivar);
-    2. START_MODE_ITSM=${valor} (Este parámetro define si se muestra la interfaz de ITSM. Introduzca el valor TRUE o FALSE. Si se establece con el valor FALSE, no permitirá abrir las características de incidentes, etc. (del ITSM);
-    3. START_MONITORING_ASSETS=${valor}(Este parámetro define si el monitoreo de activos se activará. Introduzca el valor TRUE para activar o FALSE para desactivar);
-    4. QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parámetro define la cantidad de elementos de la tabla eliminados que se harán copia de seguridad. Introduzca la cantidad de elementos, por ejemplo: 1000);
-    5. Los parámetros siguientes cuando no se activan hacen que el sistema suba con los subprocesos deshabilitados para mejorar el rendimiento del sistema. Es necesario configurar estos parámetros antes del inicio de Jboss para el funcionamiento de los mismos;
-    6. START_MONITORA_INCIDENTES=${valor} (Este parámetro define si desactiva el seguimiento de incidentes. Indique el valor TRUE activar o FALSE desactivar);
-    7. START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
-    8. El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
+    1- START_MODE_RULES=${valor} (Este parámetro define si procesa las reglas de escalado. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    2- START_MODE_ITSM=${valor} (Este parámetro define si se muestra la interfaz de ITSM. Introduzca el valor TRUE o FALSE. Si se establece con el valor FALSE, no permitirá abrir las características de incidentes, etc. (del ITSM);
+    3- START_MONITORING_ASSETS=${valor}(Este parámetro define si el monitoreo de activos se activará. Introduzca el valor TRUE para activar o FALSE para desactivar);
+    4- QUANTIDADE_BACKUPLOGDADOS=${valor} (Este parámetro define la cantidad de elementos de la tabla eliminados que se harán copia de seguridad. Introduzca la cantidad de elementos, por ejemplo: 1000);
+    5- Los parámetros siguientes cuando no se activan hacen que el sistema suba con los subprocesos deshabilitados para mejorar el rendimiento del sistema. Es necesario configurar estos parámetros antes del inicio de Jboss para el funcionamiento de los mismos;
+    6- START_MONITORA_INCIDENTES=${valor} (Este parámetro define si desactiva el seguimiento de incidentes. Indique el valor TRUE activar o FALSE desactivar);
+    7- START_VERIFICA_EVENTOS=${valor} (Este parâmetro define se desativa a verificação de eventos. Informe o valor TRUE ativar o FALSE desativar);
+    8- El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe.
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
        
@@ -592,7 +590,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
        
        - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_reports).
        
-    9. El parámetro siguiente separa el procesamiento de la rutina de eventos BPM en un grupo de subprocesos independientes del grupo de subprocesos principal del sistema para aliviar el uso de recursos de base de datos y servidor.
+    9- El parámetro siguiente separa el procesamiento de la rutina de eventos BPM en un grupo de subprocesos independientes del grupo de subprocesos principal del sistema para aliviar el uso de recursos de base de datos y servidor.
    
       - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartBpmEventos).
     
@@ -619,7 +617,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 	
     2. Realizar upload (pueden ser imágenes diferentes).
     
-	REGLA: si el usuario no elige una nueva insignia, el logo predeterminado será el del CITSmart. Por motivos de derechos de autor, este cambio de logo sólo se permite en la versión Enterprise del producto CITSmart ITSM.
+    REGLA: si el usuario no elige una nueva insignia, el logo predeterminado será el del CITSmart. Por motivos de derechos de autor, este cambio de logo sólo se permite en la versión Enterprise del producto CITSmart ITSM.
 
     CONFIGURACIÓN MÁS PRECISA DE LA IMAGEN PARA INFORMES JASPER
 	
