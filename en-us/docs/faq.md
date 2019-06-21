@@ -168,7 +168,7 @@ description: Here you have the answers for the most common parameters when talki
     
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
-    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the Save button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
+    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
     4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same.
     6. Once this is done, the registration screen of the selected group will be displayed;
@@ -243,10 +243,10 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "How to enable the scheduling rule of the problems module?"
     
-    The problem scaling rule is enabled on the Citsmart Parameter screen. To enable this rule, proceed as follows:
+    The problem scaling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
-    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
+    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
+    2. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab.
     3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
     5. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
@@ -375,13 +375,13 @@ description: Here you have the answers for the most common parameters when talki
     
 	To set the recipient, proceed as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
-    2. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
+    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
+    2. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
     3. It will display the screen for parameter search;
     4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)"
-    5. Select the same.
-    6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All)
-    7. Click the Record button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
+    5. Select the same;
+    6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All);
+    7. Click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
     8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
     
 !!! Question "What is the meaning of each inventory status of CI?"
@@ -452,7 +452,7 @@ description: Here you have the answers for the most common parameters when talki
      
       - Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
      
-    2- Access the Batch Processing feature (System > Batch Processing).
+    2- Access the Batch Processing feature (System > Batch Processing);
     
     3- The batch processing entry screen will be displayed, fill out the fields:
      
@@ -477,25 +477,25 @@ description: Here you have the answers for the most common parameters when talki
     For this e-mail reading routine to work perfectly, the following procedures must be followed:
     
     1. Install the java 7 version, if it has lower version the routine will not work;
-    2. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
-    3. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab.
+    2. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
+    3. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab;
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
-    5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br)
-    6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br);
+    6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
     7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
-    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart)
+    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart);
     9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
     11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
     12. Click on the "Save" button to perform the operation, in this case the date, time and user will be stored automatically for a future audit;
     13. Perform the search of the parameter "26 - SMTP READY - Service Desk e-mail server provider (imaps, pops, imap, pop, etc)" and select it;
-    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the "Save" button to perform the operation, In this case the date, time and user will be stored automatically for a future audit.
-    15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select the same.
+    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the "Save" button to perform the operation, In this case the date, time and user will be stored automatically for a future audit;
+    15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select the same;
     16. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the port that will be used to access the mail server (587 for pop server or 995 for imap server);
-    17. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    18. Perform the search for the parameter "28 - SMTP READY - Service Desk E-Mailbox Folder" and select it.
+    17. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
+    18. Perform the search for the parameter "28 - SMTP READY - Service Desk E-Mailbox Folder" and select it;
     19. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the folder of the e-mail account's inbox;
-    20. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    20. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
     21. Perform the search for the parameter "200 - Enable routine for reading new e-mails automatically (ex: Y or N - Default 'N')" and select the same one;
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
@@ -504,10 +504,10 @@ description: Here you have the answers for the most common parameters when talki
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed, as shown in the figure below:
     3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
-    4. Access the Citsmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The Citsmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the Citsmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     
 !!! Question "How to enable the satisfaction survey?"
     
@@ -515,14 +515,14 @@ description: Here you have the answers for the most common parameters when talki
     
     To enable the satisfaction survey, proceed as instructed below:
     
-    1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO})
-    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters.
+    1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO});
+    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters;
     3. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
     4. Search for the parameter "Send e-mail when running requests/incidents flows";
-    5. Select it.
-    6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests.
-    7. Click on the "Save" button to confirm the procedure.
-    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents"
+    5. Select it;
+    6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests;
+    7. Click on the "Save" button to confirm the procedure;
+    8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents";
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
    
 !!! Question "How to improve the performance of CITSmart Enterprise ITSM?"
@@ -556,9 +556,9 @@ description: Here you have the answers for the most common parameters when talki
     
     8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool;
     
-       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux);
        
-       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory).
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory);
        
        - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
        
@@ -570,7 +570,7 @@ description: Here you have the answers for the most common parameters when talki
     
     Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
     
-    1. On-demand environments: Administrator must connect to the client's directory server.
+    1. On-demand environments: Administrator must connect to the client's directory server;
     2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
     
 !!! Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
