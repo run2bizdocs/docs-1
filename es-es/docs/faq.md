@@ -474,7 +474,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     navegación en el menú principal Parametrización > Parámetros
     Citsmart;
     3.  Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la
-    pestaña de Búsqueda de Parámetros de Citsmart;
+    pestaña de Búsqueda de Parámetros de CITSmart;
      4.  Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda
     del parámetro "23 - SMTP LECTURA - Servidor de entrada de e-mails del
     Service Desk" y seleccionelo;
