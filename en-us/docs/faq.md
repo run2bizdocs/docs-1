@@ -121,9 +121,9 @@ description: Here you have the answers for the most common parameters when talki
     1. The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
     2. When the feature called Sequence Block is impacted by an external factor, this occurs if:
     
-    -   There is an application stop for version upgrade, or environment maintenance and later return.
+       -  There is an application stop for version upgrade, or environment maintenance and later return.
     
-    -   The environment is clustered.
+       -  The environment is clustered.
     
 !!! Question "Why does the system display an invalid date message when auditing the ticket?"
 
@@ -540,14 +540,14 @@ description: Here you have the answers for the most common parameters when talki
 
     RULE: where $ {value} is replaced by the corresponding values.
 	
-    1. START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
-    2. START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
-    3. START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
-    4. QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
-    5. The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation.
-    6. START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
-    7. START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
-    8. Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
+    1- START_MODE_RULES = $ {value} (This parameter defines whether to process scheduling rules. Enter the value TRUE to activate or FALSE to disable).
+    2- START_MODE_ITSM = $ {value} (This parameter defines whether to display the ITSM interface.) Enter the value TRUE or FALSE, if it is set to FALSE, it will not allow you to open the ITSM (Incident, etc.) functionality.
+    3- START_MONITORING_ASSETS = $ {value} (This parameter sets whether asset tracking is enabled. Enter the value TRUE to activate or FALSE to disable).
+    4- QUANTITY_BACKUPLOGDADOS = $ {value} (This parameter defines the number of items in the table that are to be backed up. Enter the number of items, eg 1000).
+    5- The parameters below when not enabled causes the system to go up with threads disabled to improve system performance. It is necessary to configure these parameters before starting Jboss for their operation.
+    6- START_MONITORA_INCIDENTES = $ {value} (This parameter sets whether to disable incident tracking. Enter the value TRUE on or FALSE on).
+    7- START_VERIFY_EVENTS = $ {value} (This parameter sets whether to disable event checking. Enter the value TRUE on or FALSE on).
+    8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool.
     
        - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux).
        
@@ -555,7 +555,7 @@ description: Here you have the answers for the most common parameters when talki
        
        - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
        
-    9. The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
+    9- The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     
        - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
 
