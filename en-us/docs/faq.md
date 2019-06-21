@@ -118,8 +118,8 @@ description: Here you have the answers for the most common parameters when talki
     
     Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
     
-    1. The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
-    2. When the feature called Sequence Block is impacted by an external factor, this occurs if:
+    1- The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
+    2- When the feature called Sequence Block is impacted by an external factor, this occurs if:
     
          -  There is an application stop for version upgrade, or environment maintenance and later return;
     
