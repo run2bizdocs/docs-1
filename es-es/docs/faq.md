@@ -104,7 +104,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 	
 !!! Question "¿Cuál es el Impacto del filtro "Grupo Solucionador" en el comportamiento de las encuestas de solicitudes de servicios e incidentes?"
     
-    Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas ( de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
+    Cuando el filtro "grupo solucionador" está activo, se mostrará sólo las solicitudes cerradas, una vez que al seleccionar este filtro, se entiende que hay la necesidad de presentar el grupo que de hecho solucionó una solicitud, no presentando grupos responsables de tareas (de acuerdo con el flujo vinculado al servicio de la solicitud) ejecutadas después de que se haya solucionado la solicitud.
 
     Veamos un ejemplo genérico:
     
@@ -170,7 +170,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
     6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
-    7. Seleccione los contratos a los que se vinculará el grupo;
+    7. Seleccione los contratos a los que se vinculará el grupo.
     
 ### Gestión de Conocimiento
 
@@ -245,7 +245,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     El proceso de riesgos en el cambio comienza en el diseño del portafolio de cambio, donde se indica el "**Tipo de Análisis de Impacto y Riesgo**, que puede ser simplificada o completa. El siguiente paso es, en el registro del cambio, informar los datos del riesgo en la barra lateral izquierda, en el elemento de análisis de riesgo que será mostrado con la indicación definida en el portafolio de cambio:
     
-    -  "**Simplificada**" para una análisis Simplificada en el elemento.
+    -  "**Simplificada**" para una análisis Simplificada en el elemento;
     
     -  "**Completa**" para un análisis de riesgo completo con definición de Objetivos, Análisis de Impacto y Evaluación de Riesgos.
  
@@ -333,7 +333,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL CITSMART
     
-    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart.
+    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
     2. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart. Se mostrará la pantalla para la búsqueda de parámetros;
     3. Realiza la búsqueda del parámetro "92 - Nombre del Grupo de ICs en la fase Desarrollo (Ej: ICs en Desarrollo)";
     4. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
@@ -444,7 +444,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
       - Parámetro 151: activa o desactiva las respuestas automáticas en el sistema. S para activar y N para desactivar.
     
-    2- Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch).
+    2- Acceda a la funcionalidad de procesamiento por lotes (Sistema > Procesamiento Batch);
    
     3- Se mostrará la pantalla de registro de procesamiento por lotes, complete los siguientes campos con la respectiva información:
     
