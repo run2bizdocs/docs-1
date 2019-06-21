@@ -119,8 +119,9 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     1. Los informes agrupan los datos por algún criterio especial (por ejemplo, por el plazo de SLA, que es lo que sucede en el caso del informe "Calidad de Atención - SLA");
     2. Cuando el recurso denominado Sequence Block es impactado por un factor externo, esto ocurre si:
     
-      - Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
-      - El entorno se agrupa.
+       - Hay una parada de la aplicación para la actualización de la versión, o el mantenimiento del entorno y posterior retorno.
+      
+       - El entorno se agrupa.
   
 !!! Question "¿Por qué el sistema presenta mensaje de fecha inválida al auditar el ticket?"
     
