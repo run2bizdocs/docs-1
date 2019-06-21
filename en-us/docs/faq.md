@@ -20,10 +20,9 @@ description: Here you have the answers for the most common parameters when talki
 
     To access the service request from the email notification, follow the guidelines below:
     
-    1. Make sure you are logged in to the system.
-    2. Open the service request email notification.
-    3. The notification will have the request number with a hyperlink, just click on the number, which will then be redirected to the 
-    Service Management screen, presenting the request information
+    1. Make sure you are logged in to the system;
+    2. Open the service request email notification;
+    3. The notification will have the request number with a hyperlink, just click on the number, which will then be redirected to the Service Management screen, presenting the request information.
 
 !!! Question "How do I set a default group for the first level service request?"
     
@@ -32,11 +31,11 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the Group Registration feature by navigating in the main menu Access and Permission > Group. The group registration screen will be displayed, displaying the contracts;
     2. Make the registration of the group of 1st level, if not registered, and proceed with the completion of the fields;
     3. If the 1st level group is already registered in the system, carry out the group search and obtain their identification number (ID);
-    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization > Parameters CITSmart.
-    5. The CITSmart Parameters screen appears, click the CITSmart Parameters Search tab
-    6. Perform the search for parameter "9 - Group ID Level 1"
-    7. Select the same.
-    8. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number (ID) of the 1st level group
+    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization > Parameters CITSmart;
+    5. The CITSmart Parameters screen appears, click the CITSmart Parameters Search tab;
+    6. Perform the search for parameter "9 - Group ID Level 1";
+    7. Select the same;
+    8. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number (ID) of the 1st level group;
     9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     
     RULE: after setting the parameter, when registering a Service Request/Incident, if you have not informed the group to service the service, the group will be scaled, which was defined in the parameter For 1st level service.
@@ -45,7 +44,7 @@ description: Here you have the answers for the most common parameters when talki
     
     When registering a service request, perform determined activities and its execution, the petitioner will be notified.
     
-    In order for the notification be sent it is necessary to perform the following procedures :
+    In order for the notification be sent it is necessary to perform the following procedures:
     
     1- Access the Contract Services related to the business service Portfolio Management > Services Portfolio > Business Service > Contract > Services and technical service Portfolio Management > Service Portfolio > Business Service > Support/Technical Service > Contract > Services e and insert the e-mail template in the fields:
     
@@ -57,13 +56,13 @@ description: Here you have the answers for the most common parameters when talki
         
       RULE: If e-mail templates are not inserted, the notification will not be sent.
 
-    2- Access the Group Register feature General Registration > Staff Management > Group.
+    2- Access the Group Register feature General Registration > Staff Management > Group;
     
     3- The Group Register screen will be displayed. If the group has already been registered in the system, search for it;
     
     4- Select it;
     
-    5- The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory.
+    5- The intended group entry screen will be displayed, determine if the e-mail notifications (opening, in progress and execution) related to the requests will be mandatory;
     
     RULE: if it is determined that notifications will be mandatory, when registering a service request, on the Incident/Request Service entry screen, these options will be selected already, not allowing any changes. But if it has been determined that notifications will not be mandatory, when registering a service request, these options will be available to be determined by the petitioner.
     
@@ -77,17 +76,17 @@ description: Here you have the answers for the most common parameters when talki
     
     The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
 
-    1- In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE
+    1- In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE;
     
     2- Access the CITSmart Parameters feature by navigating in the main menu System > CITSmart Parameters;
     
     3- The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
     
-    4- Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling
+    4- Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling;
     
-    5- Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y"
+    5- Search and change the parameter 31 - Sends e-mail in the execution of request/incident flows (Eg: Y or N), informing the value "Y";
     
-    6- Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N"
+    6- Search and change the parameter 297 - Disable sending system e-mails (Values:" Y "or" N "Default:" N ") informing the value "N";
     
     7- Also make the necessary changes in the following parameters, according to the need and scenario of the installation:
     
@@ -118,7 +117,7 @@ description: Here you have the answers for the most common parameters when talki
     
     Both the Service Request screen and some reports (such as "Quality of Service - SLA"), the ordering of the number of requests follows an increasing sequential order, except when:
     
-    1- The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA")
+    1- The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA");
     2- When the feature called Sequence Block is impacted by an external factor, this occurs if:
     
          -  There is an application stop for version upgrade, or environment maintenance and later return;
@@ -160,7 +159,7 @@ description: Here you have the answers for the most common parameters when talki
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
-    5. After linking, click on the "Save" button to confirm the entry, at which date, time and user will be automatically stored for a future audit
+    5. After linking, click on the "Save" button to confirm the entry, at which date, time and user will be automatically stored for a future audit.
 
 !!! Question "How to relate group to contract?"
     
@@ -168,9 +167,9 @@ description: Here you have the answers for the most common parameters when talki
     
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
-    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group).
-    5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same.
+    3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group);
+    5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same;
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
     
@@ -183,7 +182,7 @@ description: Here you have the answers for the most common parameters when talki
     3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the "Save" button to perform the operation;
     4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files > Personnel Management > Unit.The unit registration screen will be displayed, displaying the contracts;
     5. If the unit you wish to link to the contract is already registered in the system, perform the unit search and select it. Once this is done, the registration screen of the particular unit will be displayed;
-    6. Select the contracts to which the unit will be linked.
+    6. Select the contracts to which the unit will be linked;
     7. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.    
 
 ### Knowledge Management
@@ -212,8 +211,8 @@ description: Here you have the answers for the most common parameters when talki
     PARAMETER CONFIGURATION
     
     1. To configure a parameter navigate to the screen “Parametrization > Knowledge Management”;
-    2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”
-    3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento
+    2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”;
+    3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento .
 
     INDEXING EXISTING KNOWLEDGE ENTRIES
 	
@@ -282,12 +281,12 @@ description: Here you have the answers for the most common parameters when talki
     
     The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
 
-    1. Access the CITSmart Parameter feature navigating through the main menu.
-    2. The CITSmart Parameter screen will be displayed, click on the Search tab.
-    3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)"
-    4. Select it.
-    5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value.
-    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
+    1. Access the CITSmart Parameter feature navigating through the main menu;
+    2. The CITSmart Parameter screen will be displayed, click on the Search tab;
+    3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)";
+    4. Select it;
+    5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value;
+    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
     7. After configuring the parameter, when registering a Configuration Item, the change link will be mandatory.
     
 !!! Question "How to enable the change module escalation rule?"
@@ -298,8 +297,8 @@ description: Here you have the answers for the most common parameters when talki
 
     1. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters;
     2. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
-    3. The CITSmart Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)"
-    4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation.
+    3. The CITSmart Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)";
+    4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation;
     5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
     
 ### Assets and Configuration Management    
@@ -321,7 +320,7 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "How to configure the Configuration Items lifecycle phases names?"
     
-    The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below
+    The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below.
     
     CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
@@ -335,23 +334,23 @@ description: Here you have the answers for the most common parameters when talki
       
       - Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
     
-    3- Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
+    3- Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
     
     4- After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-    1. Access the CITSmart Parameters feature (Parametrization > Citsmart Parameters).
+    1. Access the CITSmart Parameters feature (Parametrization > Citsmart Parameters);
     2. Then, the CITSmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
-    3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)"
-    4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed.
-    5. On the Value field, insert the name of the CI group in development.
-    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
-    7. Search for the parameter "93 - Name of The CIs Group in Production Phase (e.g.: ICs em Produção)"
+    3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)";
+    4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
+    5. On the Value field, insert the name of the CI group in development;
+    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
+    7. Search for the parameter "93 - Name of The CIs Group in Production Phase (e.g.: ICs em Produção)";
     8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
-    10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.
-    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)"
+    10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
+    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)";
     12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     13. On the Value field, insert the name of the CI group in confirmation phase;
     14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
@@ -378,7 +377,7 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
     2. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
     3. It will display the screen for parameter search;
-    4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)"
+    4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)";
     5. Select the same;
     6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All);
     7. Click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
@@ -386,10 +385,10 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "What is the meaning of each inventory status of CI?"
     
-    -   Inventory - the inventory was able to read the CI information and ended successfully
-    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs,
-    -   Unreachable - when the server encounters the IC but can not bring the information,
-    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed,
+    -   Inventory - the inventory was able to read the CI information and ended successfully;
+    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Unreachable - when the server encounters the IC but can not bring the information;
+    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed;
     -   Running - while reading the inventory, the IC is in this status.
 
 ### Event Management
@@ -403,7 +402,7 @@ description: Here you have the answers for the most common parameters when talki
     
     Example "Payroll">
     
-    -   Let's say that the rule is that one company does not hire more than 5 employees per sector.
+    -   Let's say that the rule is that one company does not hire more than 5 employees per sector;
     -   The payroll program could send the minimum data of each hiring by department (defined in the company's budget plan), so that whenever the contraction number per department exceeds the pre-established limit, an event of "excess hiring" could be triggered.
    
 
@@ -504,9 +503,9 @@ description: Here you have the answers for the most common parameters when talki
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
     1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed, as shown in the figure below:
-    3. In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
-    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
+    3. In order for users to have access to the Portal or Smart Portal;
+    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search.
     
 !!! Question "How to enable the satisfaction survey?"
     
@@ -592,7 +591,7 @@ description: Here you have the answers for the most common parameters when talki
 
     MOST PRECISE IMAGE CONFIGURATION FOR JASPER REPORTS
 	
-    The user has access to the properties of the image that will appear in the reports,
+    The user has access to the properties of the image that will appear in the reports.
 
     RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
 
