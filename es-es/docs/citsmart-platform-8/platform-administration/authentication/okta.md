@@ -54,7 +54,7 @@ Procedimiento
     !!!Abstract "ATENCIÓN"
         
         En el campo "Single sign on URL" y "Audience URI (SP Entity ID)", se deben incluir las direcciones de URL en las que se
-       ejecutará la apilación CITSmart.
+        ejecutará la apilación CITSmart.
      
 7. Marcar las opciones "I'm an Okta customer adding an internal app" y "This is an internal app that we have created". Después, haga clic en "Finish".
 
