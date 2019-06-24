@@ -17,9 +17,9 @@ Figura 1 - Smart Portal
 
 - **1**: Botão de menu - permite esconder/exibir o menu do Smart Portal
 
-- **2**: Portal do Conhecimento - atalho para Portal do Conhecimento, onde permite realizar a busca de informações relevantes do uso do sistema
+- **2**: Portal do Conhecimento - atalho para Portal do Conhecimento, onde permite realizar a busca de informações gravadas na forma de conhecimento
 
-- **3**: Guia do Usuário - atalho para o Guia do Usuário, onde permite realizar a busca de informações relevantes
+- **3**: Docs - direciona o usuário para a documentação do produto CITSmart
 
 - **4**: Acessar o Sistema - entrar no sistema
 
