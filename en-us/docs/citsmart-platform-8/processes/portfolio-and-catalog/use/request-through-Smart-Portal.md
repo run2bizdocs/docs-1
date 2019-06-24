@@ -28,7 +28,7 @@ Procedure
     !!! Abstract "NOTE"  
 
         To the correct performance of this application, it's necessary that the
-        parameters 299 and 300 (about the Smart Portal) to be set on "Y".
+        parameter 299 (about the Smart Portal) to be set on "Y".
 
 3.  To comment the request or to report some occurrence about it, click on the
     icon "Add note". The attendant will receive the comment on the ticket desktop, where
