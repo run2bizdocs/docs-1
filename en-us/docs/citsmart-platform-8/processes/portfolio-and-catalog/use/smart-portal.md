@@ -41,7 +41,9 @@ Figure 1 - Smart Portal
 
 - **14**: Chat - allows you to create a service request and interact with the attendant about it
 
-- **15**: Language: allows you to choose the language you want for the system (Portuguese, English or Spanish)
+- **15**: VoIP - allows you to make calls directly from the Smart Portal, however integration with VoIP tools is required
+
+- **16**: Language: allows you to choose the language you want for the system (Portuguese, English or Spanish)
 
 
 Before getting started 
