@@ -16,12 +16,15 @@ Procedimiento
 4.  La lista siguiente muestra los parámetros de la funcionalidad "Chat" y la
     finalidad de cada uno de ellos.
 
-| **#** |                         **Nombre**                        | **Valores posibles** |                       **Finalidad**                       | **Orientaciones complementarias** |
-|:-----:|:---------------------------------------------------------:|:--------------------:|:---------------------------------------------------------:|:---------------------------------:|
-|  118  |        ID del contrato estandár de apertura llamada       |                      |     ID del contrato estándar para apertura de llamados    |            No se aplica           |
-|  388  |      ID de usuario predeterminado (solicitud externa)     |                      |        ID del usuario estándar (Solicitud externa)        |            No se aplica           |
-|  389  |       ID de grupo predeterminado (solicitud externa)      |                      |         ID del grupo estándar (Solicitud externa)         |            No se aplica           |
-|  390  |                ID de unidad predeterminada                |                      |                  ID de la Unidad que se asignará al usuario registrado en el perfil                 |            No se aplica           |
+|  #  |                           Nombre                          | Valores posibles |                              Finalidad                             | Orientaciones complementarias |
+|:---:|:---------------------------------------------------------:|:----------------:|:------------------------------------------------------------------:|:-----------------------------:|
+| 118 |        ID del contrato estandár de apertura llamada       |                  |         ID del contrato estándar para apertura de llamados         |          No se aplica         |
+| 315 |    ID de origen de las solicitudes creadas por el chat    |                  |         ID de origen de las solicitudes creadas por lo chat        |          No se aplica         |
+| 316 |                        Activar Chat                       |       S o N      |                                                                    |          No se aplica         |
+| 317 | ID de la actividad de las solicitudes creadas por el chat |                  |      ID de la actividad de las solicitudes creadas por lo chat     |          No se aplica         |
+| 388 |      ID de usuario predeterminado (solicitud externa)     |                  |             ID del usuario estándar (Solicitud externa)            |          No se aplica         |
+| 389 |       ID de grupo predeterminado (solicitud externa)      |                  |              ID del grupo estándar (Solicitud externa)             |          No se aplica         |
+| 390 |                ID de unidad predeterminada                |                  | ID de la Unidad que se asignará al usuario registrado en el perfil |          No se aplica         |
 
 Tabla 1 - Lista de parámetros
 
