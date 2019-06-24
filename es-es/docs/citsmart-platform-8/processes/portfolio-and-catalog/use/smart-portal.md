@@ -44,7 +44,9 @@ Figura 1 - Smart Portal
 
 - **14**: Chat - permite crear una solicitud de servicio e interactuar con el operador sobre la misma
 
-- **15**: Idioma - le permite elegir el idioma que desee para el sistema (portugués, Inglés o Español)
+- **15**: VoIP - permite hacer llamadas directamente desde el Smart Portal, pero es necesario la integración con herramientas VoIP
+
+- **16**: Idioma - le permite elegir el idioma que desee para el sistema (portugués, Inglés o Español)
 
 
 
