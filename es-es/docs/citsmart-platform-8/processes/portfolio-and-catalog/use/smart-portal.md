@@ -18,9 +18,9 @@ Figura 1 - Smart Portal
 
 - **1**: Botón de menú - al hacer clic en este botón, permite ocultar/mostrar el menú del Smart Portal
 
-- **2**: Portal de Conocimiento - al hacer clic en esta opción, se mostrará la pantalla del portal del conocimiento
+- **2**: Portal de Conocimiento - acceso directo a Portal del Conocimiento, permite al usuario realizar la búsqueda de informaciones generadas en su organización
 
-- **3**: Guía del usuario: acceso directo a la Guía del usuario, donde permite realizar la búsqueda de informaciones relevantes
+- **3**: Docs: direcciona al usuario para la documentación del producto CITSmart
 
 - **4**: Acceder al sistema - permite entrar en el sistema
 
@@ -40,7 +40,7 @@ Figura 1 - Smart Portal
 
 - **12**: Noticias - local donde están disponibles las noticias, como por ejemplo, referentes a la organización, al sistema, etc
 
-- **13**: Investigaciones actividades - permite buscar/acompañar las actividades registradas
+- **13**: Investigaciones actividades - permite al usuario registrado ver las búsquedas de satisfacción activas
 
 - **14**: Chat - permite crear una solicitud de servicio e interactuar con el operador sobre la misma
 

@@ -17,9 +17,9 @@ Figura 1 - Smart Portal
 
 - **1**: Botão de menu - permite esconder/exibir o menu do Smart Portal
 
-- **2**: Portal do Conhecimento - atalho para Portal do Conhecimento, onde permite realizar a busca de informações relevantes do uso do sistema
+- **2**: Portal do Conhecimento - Portal do Conhecimento - atalho para Portal do Conhecimento, permite ao usuário realizar a busca de informações geradas em sua organização
 
-- **3**: Guia do Usuário - atalho para o Guia do Usuário, onde permite realizar a busca de informações relevantes
+- **3**: Docs - direciona o usuário para a documentação do produto CITSmart
 
 - **4**: Acessar o Sistema - entrar no sistema
 
@@ -33,7 +33,7 @@ Figura 1 - Smart Portal
 
 - **9**: Smartbox  - mostra a quantidade de solicitações que estão no carrinho de compras do usuário (opção ativa apenas quando parâmetro 292 estiver setado em "SIM")
 
-- **10**: Minhas solicitações - permite ao usuário logado visualizar suas solicitações de serviços e executar algumas ações nas mesmas
+- **10**: Minhas solicitações - permite ao usuário logado visualizar as pesquisas de satisfação ativas
 
 - **11**: Aprovações - permite visualizar somente as solicitações de serviços que requer aprovação
 

@@ -15,9 +15,9 @@ Figure 1 - Smart Portal
 
 - **1**: Menu Button - clicking this button allows you to hide/display the Smart Portal menu
 
-- **2**: Knowledge Portal - shortwcut to Knowledge Portal, where you can search for relevant information about the use of the system
+- **2**: Knowledge Portal - shortcut to Knowledge Portal, allows the user to perform the search of information generated in your organization
 
-- **3**: User Guide - clicking on this option will present the Knowledge Portal screen, where you can search for relevant information
+- **3**: Docs - directs the user to the CITSmart product documentation
 
 - **4**: Access System - allows enter the system
 
@@ -37,7 +37,7 @@ Figure 1 - Smart Portal
 
 - **12**: News - where the news is made available, for example, concerning the organization, the system, etc 
 
-- **13**: Active Campaings - allows to send / accompany registered activities
+- **13**: Active Campaings - allows logged-in user to view active satisfaction surveys
 
 - **14**: Chat - allows you to create a service request and interact with the attendant about it
 
