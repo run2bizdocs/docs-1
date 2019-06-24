@@ -120,9 +120,9 @@ description: Here you have the answers for the most common parameters when talki
     1- The reports group the data by some special criteria (eg, by SLA, which is what happens in the case of the report "Quality of Service - SLA");
     2- When the feature called Sequence Block is impacted by an external factor, this occurs if:
     
-         -  There is an application stop for version upgrade, or environment maintenance and later return;
+        -  There is an application stop for version upgrade, or environment maintenance and later return;
     
-         -  The environment is clustered.
+        -  The environment is clustered.
     
 !!! Question "Why does the system display an invalid date message when auditing the ticket?"
 
