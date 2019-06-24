@@ -26,8 +26,8 @@ Procedimento
 
     !!! Abstract "AVISO"  
 
-        Para o correto funcionamento desta aplicação é necessário que os
-        parâmetros 299 e 300 (referentes ao Smart Portal) estejam setados em "S".
+        Para o correto funcionamento desta aplicação é necessário que o
+        parâmetro 299 (referente ao Smart Portal) esteja setado em "S".
 
 3.  Para tecer algum comentário referente a solicitação ou relatar alguma
     ocorrência sobre a mesma, apertar no ícone “Adicionar nota”. O Atendente
