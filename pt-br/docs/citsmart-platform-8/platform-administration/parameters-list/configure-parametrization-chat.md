@@ -21,12 +21,15 @@ Procedimento
 4.  A lista abaixo apresenta os parâmetros da funcionalidade "Chat" e a
     finalidade de cada um deles.
 
-|  #  |                        Nome                        | Valores possíveis |                     Finalidade                     | Orientações complementares |
-|:---:|:--------------------------------------------------:|:-----------------:|:--------------------------------------------------:|:--------------------------:|
-| 118 |   ID do contrato padrão para abertura de chamados  |                   |   ID do contrato padrão para abertura de chamados  |        Não se aplica       |
-| 388 |       ID usuário padrão (Requisição externa)       |                   |       ID usuário padrão (Requisição externa)       |        Não se aplica       |
-| 389 |        ID grupo padrão (Requisição externa)        |                   |        ID grupo padrão (Requisição externa)        |        Não se aplica       |
-| 390 |                ID da unidade padrão                |                   |               ID  da Unidade que será atribuido ao usuário cadastrado no profile              |        Não se aplica       |
+|  #  |                        Nome                        | Valores posssíveis |                             Finalidade                            | Orientações complementares |
+|:---:|:--------------------------------------------------:|:------------------:|:-----------------------------------------------------------------:|:--------------------------:|
+| 118 |   ID do contrato padrão para abertura de chamados  |                    |          ID do contrato padrão para abertura de chamados          |        Não se aplica       |
+| 315 |   ID da origem das solicitações criadas pelo chat  |                    |          ID da origem das solicitações criadas pelo chat          |        Não se aplica       |
+| 316 |                     Ativar Chat                    |       S ou N       |                            Ativar Chat                            |        Não se aplica       |
+| 317 | ID da atividade das solicitações criadas pelo chat |                    |         ID da atividade das solicitações criadas pelo chat        |        Não se aplica       |
+| 388 |       ID usuário padrão (Requisição externa)       |                    |               ID usuário padrão (Requisição externa)              |        Não se aplica       |
+| 389 |        ID grupo padrão (Requisição externa)        |                    |                ID grupo padrão (Requisição externa)               |        Não se aplica       |
+| 390 |                ID da unidade padrão                |                    | ID da Unidade que será atribuido ao usuário cadastrado no profile |        Não se aplica       |
 
 
 
