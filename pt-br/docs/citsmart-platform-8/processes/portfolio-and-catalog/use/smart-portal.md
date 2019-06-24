@@ -51,7 +51,7 @@ Antes de começar
 -----------------
 
 É necessário o cadastro prévio do contrato, a definição do tempo de atendimento
-das atividades de requisição/incidente. É imprescindível também ter o portfolio
+das atividades de requisição/incidente. É imprescindível também ter o portfólio
 com os serviços e as atividades de requisição/incidente cadastrados e
 disponibilizados no Smart Portal.
 
@@ -61,12 +61,12 @@ Procedimento
 1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
     Portfólio e Catálogo \> Smart Portal;
 
-2.  Escolher o portfolio desejado e clicar sobre o mesmo. Será apresentado
+2.  Escolher o portfólio desejado e clicar sobre o mesmo. Será apresentado
     diversas ações que podem ser executadas em cada uma das abas desta tela. São
     elas:
 
     -   **Serviços**: Nesta aba será expostos as atividades registradas neste
-    portfolio. Ao selecionar e clicar sobre a atividade pretendida, será
+    portfólio. Ao selecionar e clicar sobre a atividade pretendida, será
     possível registrar a solicitação de serviço (ticket) referente ao cenário
     encontrado, também é viável observar os conhecimentos referente ao ticket ao
     clicar na aba de mesmo nome, analisar as avaliações dos usuários referente
@@ -79,19 +79,19 @@ Procedimento
         Os conhecimentos diponivéis na aba “Conhecimentos” do item “Serviço” podem ser
         definidos em dois níveis:
 
-        -   Os conhecimentos que foram vinculados ao portfolio que estarão dispostos no 
+        -   Os conhecimentos que foram vinculados ao portfólio que estarão dispostos no 
         item “Relacionados ao Serviço”;
 
-        -   Os conhecimentos que foram associados ao ticket ( adicionados quando o
+        -   Os conhecimentos que foram associados ao ticket (adicionados quando o
         responsável pelo atendimento deste vinculou um artigo para difundir o 
         conhecimento da solução do mesmo) ordenados no item “Relacionados a 
         Requisição/Incidente.  
 
     -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
-    vinculados ao portfolio;
+    vinculados ao portfólio;
 
     -   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
-    informações) referente ao portfolio em questão.
+    informações) referente ao portfólio em questão.
 
 3.  Ao clicar no ícone “Menu”, será exibido atalhos a algumas ações. É permitido
     visualizar as solicitação abertas pelo usuário ao apertar no ícone “Minhas
