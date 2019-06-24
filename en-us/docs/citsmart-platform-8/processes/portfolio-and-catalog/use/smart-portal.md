@@ -37,7 +37,7 @@ Figure 1 - Smart Portal
 
 - **12**: News - where the news is made available, for example, concerning the organization, the system, etc 
 
-- **13**: Active Campaings - allows to send / accompany registered activities
+- **13**: Active Campaings - allows logged-in user to view active satisfaction surveys
 
 - **14**: Chat - allows you to create a service request and interact with the attendant about it
 
