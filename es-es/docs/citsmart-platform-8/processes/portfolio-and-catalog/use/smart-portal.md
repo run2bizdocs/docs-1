@@ -40,7 +40,7 @@ Figura 1 - Smart Portal
 
 - **12**: Noticias - local donde están disponibles las noticias, como por ejemplo, referentes a la organización, al sistema, etc
 
-- **13**: Investigaciones actividades - permite buscar/acompañar las actividades registradas
+- **13**: Investigaciones actividades - permite al usuario registrado ver las búsquedas de satisfacción activas
 
 - **14**: Chat - permite crear una solicitud de servicio e interactuar con el operador sobre la misma
 
