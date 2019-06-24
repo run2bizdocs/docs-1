@@ -15,7 +15,7 @@ Figure 1 - Smart Portal
 
 - **1**: Menu Button - clicking this button allows you to hide/display the Smart Portal menu
 
-- **2**: Knowledge Portal - shortcut to Knowledge Portal, where it allows the search of information recorded in the form of knowledge
+- **2**: Knowledge Portal - shortcut to Knowledge Portal, allows the user to perform the search of information generated in your organization
 
 - **3**: Docs - directs the user to the CITSmart product documentation
 
