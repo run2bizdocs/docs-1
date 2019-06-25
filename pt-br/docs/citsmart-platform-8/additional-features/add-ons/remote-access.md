@@ -16,7 +16,8 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 
 ## Procedimento
 
-1. Instalar o GuaCD utilizando a [documentação oficial][1] ou baixar o container disponibilizado pela CITSmart. Não é necessário instalar o guacamole-client, uma vez que o CITSmart utiliza apenas a daemon do Guacamole, ou seja, o GuaCD;
+1. Instalar o GuaCD utilizando a [documentação oficial][1] ou baixar o container disponibilizado pela CITSmart. Não é necessário 
+instalar o guacamole-client, uma vez que o CITSmart utiliza apenas a daemon do Guacamole, ou seja, o GuaCD;
 
 2. Após a instalação, configurar o apontamento de logs;
     
@@ -37,13 +38,15 @@ Os seguintes requesitos antecedem o uso efetivo desta funcionalidade:
 6. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
     !!! success "Gravação de video"
+    
         Após o encerramento da sessão de acesso remoto, o vídeo gerado 
         entra em uma fila de compilação para então, ser disponilizado na 
         plataforma. O tempo de compilação dependerá do tempo da sessão, 
         além disso, o início da compilação está atrelado à rotina cron 
         definida na conexão de acesso remoto.
         
-7. No item de configuração que será acessado remotamente (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guardar esta senha pois ela será utilizada no próximo passo.
+7. No item de configuração que será acessado remotamente (ex. Computador Windows), instalar um cliente de acesso remoto com suporte ao 
+protocolo VNC (Exemplo: [TightVNC][3]) e definir uma senha de acesso. Guardar esta senha pois ela será utilizada no próximo passo.
     
 8. Realizar o cadastro de conexões de Acesso Remoto em sua instância [conforme o documento][4].
 
