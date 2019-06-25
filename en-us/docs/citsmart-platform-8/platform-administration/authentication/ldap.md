@@ -6,6 +6,8 @@ LDAP (Lightweight Directory Access Protocol) is a standard protocol that allows 
 
 This functionality allows to register multiple LDAP connections and configure each one of them.
 
+![LDAP/AD authentication](images/cloud-arch-authentication.png)
+
 ## Before getting started
 
 It's necessary to have registered the time for scheduling automatic synchronization.
