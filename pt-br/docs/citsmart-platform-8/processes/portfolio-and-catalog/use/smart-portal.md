@@ -76,7 +76,7 @@ Procedimento
 
     !!! Abstract "NOTAS"  
 
-        Os conhecimentos diponivéis na aba “Conhecimentos” do item “Serviço” podem ser
+        Os conhecimentos diponíveis na aba “Conhecimentos” do item “Serviço” podem ser
         definidos em dois níveis:
 
         -   Os conhecimentos que foram vinculados ao portfólio que estarão dispostos no 
