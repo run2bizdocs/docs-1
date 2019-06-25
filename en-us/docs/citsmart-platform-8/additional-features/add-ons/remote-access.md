@@ -9,40 +9,58 @@ This functionality is an add-on to the Configuration Management and depends on t
 
 ## Before getting started
 
-The following questions precede the effective use of this functionality:
+The following requirements precede the effective use of this functionality:
 
-* [x] Having the Configuration Management implemented;
-* [x] Having the inventory process defined and functional;
-* [x] Having data 
+* [x] Having the inventory process defined and functional using the CITSmart Inventory;
+* [x] Having inventoried the configuration items; 
 
 ## Procedure
 
-1. Download the GUACD container;
-2. Configure GUACD properties on the application server;
+1. Install the GuaCD using the [official documentation][1] or download the container provided by CITSmart. It is not necessary to install 
+the guacamole-client, since CITSmart only uses the Guacamole daemon, that is, the GuaCD;
+
+2. After installation, set up the logs;
+
+    ```sh
+    /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
+    ```
+
+3. Download the (.jar) [video encoder][2] - which compiles the videos from the sessions;
+
+4. Copy the video encoder to the server;
+
+5. Perform the configuration by replacing the variables with the information of your server;
 
     ```java
-    CITSMART_PROTOCOL=http
-    CITSMART_URL=your-instance.citsmartcloud.com
-    CITSMARTGUACD_ID=guacd_id
-    CITSMART_LOGIN=admin
-    CITSMART_PASSWORD=********
+    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
     ```
-	
-3. Set the directory for recording videos (eg. /mp4);
-    
-!!! success "Video recording"
-        
-    After the remote access session ends, the generated video enters a queue 
-    to be available on the platform. The compilation time will depend on the 
-    session time, in addition, the beginning of the compilation is linked to 
-    the cron routine defined in the remote access connection. 
-    
+
+6. Set directory for recording videos (eg.: /mp4);
+
+   !!! success "Video recording"
+   
+       After the remote access session ends, the generated video enters a compilation queue and then made 
+       available on the platform. The time of compilation will depend on the time of the session, in addition, 
+       the beginning of the compilation is linked to the cron routine defined in the remote access connection.
+   
+7. In the configuration item that will be accessed remotely (eg.: Windows Computer), install a remote access client with VNC protocol support (Example: [TightVNC][3]) and set an access password. Save this password as it will be used in the next step;   
+
+8. Perform the registration of Remote Access connections in your instance [according to the document][4].
+
 ## What to do next
 
-With the GuaCD service active and communicable, the next step is to create a remote access connection in your instance and test the resource.
+With GuaCD service active and communicable, the next step is to remotely access the configured CI.
 
 ## Related
 
-[Create connection to remote access server][1]
+[Configuration Management][5]
 
-[1]:/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[Implement CITSmart Inventory][6]
+
+[1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[2]:images/citsmart-guacd-encoder.jar.zip
+[3]:https://www.tightvnc.com/
+[4]:/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[5]:/en-us/citsmart-platform-8/processes/configuration/overview.html
+[6]:https://docs.citsmart.com/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html
+
