@@ -4,6 +4,7 @@ Title: Implement CITSmart Inventory
 
 CITSmart Inventory is a component of the CITSmart Platform that enables you to collect, register and manage information from IT assets. It enables you to manage the lifecycle of your organization's configuration items from the Configuration Management process.  
 
+![Architecture INV and EVM](images/cloud-arch-inv-evm.png)
 
 ## Before getting started
 
@@ -29,7 +30,7 @@ To test the Inventory, [configure][3] the connections in the CITSmart instance.
 [Asset and Configuration Management][5]
 
 [1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configure-system-properties
 [3]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
 [4]:/en-us/citsmart-platform-8/additional-features/add-ons/event-monitor.html
 [5]:/en-us/citsmart-platform-8/processes/configuration/overview.html
