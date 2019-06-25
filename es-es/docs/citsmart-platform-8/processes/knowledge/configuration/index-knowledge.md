@@ -1,7 +1,7 @@
-title: Index a knowledge
+title: Indear Documentos
 Description:
 
-# Index a knowledge
+# Indear Documentos
 
 [...]
 
@@ -12,4 +12,4 @@ Description:
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
-[1]:/en-us/citsmart-platform-8/platform-administration/data-indexing/configuration.html
+    [1]:/es-es/citsmart-platform-8/platform-administration/data-indexing/configuration.html
