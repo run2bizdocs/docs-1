@@ -4,6 +4,7 @@ Title: Implement CITSmart Inventory
 
 CITSmart Inventory is a component of the CITSmart Platform that enables you to collect, register and manage information from IT assets. It enables you to manage the lifecycle of your organization's configuration items from the Configuration Management process.  
 
+![Architecture INV and EVM](images/cloud-arch-inv-evm.png)
 
 ## Before getting started
 
