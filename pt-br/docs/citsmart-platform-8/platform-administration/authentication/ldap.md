@@ -11,6 +11,8 @@ protocolos TCP/IP.
 Essa funcionalidade permite cadastrar múltiplas conexões LDAP e definir as
 configurações para cada uma delas.
 
+![Autenticação CITSmart LDAP](images/cloud-arch-authentication.png)
+
 Antes de começar
 --------------------
 
@@ -68,7 +70,7 @@ URL: ldaps://your-host.com:636
 !!! success "Certificado digital"
 
     Exportar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instância CITSmart.
-    
+
 
 Relacionado
 -----------
