@@ -11,39 +11,58 @@ Esta funcionalidad es un complemento (add-on) a la Gestión de Configuración y 
 
 Los siguientes requisitos antecede el uso efectivo de esta funcionalidad:
 
-* [x] Tener la Gestión de Configuración implementada;
-* [x] Tener un proceso de inventario definido y funcional;
-* [x] Tener los datos 
+* [x] Tener un proceso de inventario definido y funcional utilizando el CITSmart Inventory;
+* [x] Tener los elementos de configuración inventariados;
 
 ## Procedimiento
 
-1. Descargar el contenedor GUACD;
-2. Configurar las propriedades del GUACD en el servidor de aplicación;
+1. Instalar el GuaCD utilizando la [documentación oficial][1] o descargar el contenedor disponible por CITSmart. No es necesario 
+instalar el guacamole-client, ya que el CITSmart utiliza sólo la daemon del Guacamole, o sea, el GuaCD;
+
+2. Después de la instalación, configurar el punto de logs; 
+
+    ```sh
+    /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
+    ```
+
+3. Descargar el binario (.jar) del [encoder de vídeo][2] - que tiene la función de compilar los vídeos provenientes de las sesiones;
+
+4. Copiar el encoder de vídeo al servidor;
+
+5. Realizar la configuración reemplazando las variables por la información de su servidor;
 
     ```java
-    CITSMART_PROTOCOL=http
-    CITSMART_URL=your-instance.citsmartcloud.com
-    CITSMARTGUACD_ID=guacd_id
-    CITSMART_LOGIN=admin
-    CITSMART_PASSWORD=********
+    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
     ```
-	
-3. Definir el directorio para la grabación de los vídeos (ej. /mp4);
-    
-!!! success "Grabación de vídeo"
-        
-    Después del cierre de la sesión de acceso remoto, el vídeo generado entra en 
-    una cola de copilación para luego ser disponible en la plataforma. El tiempo 
-    de compilación dependerá del tiempo de sesión, además, el comienzo de la 
-    compilación está vinculado a la rutina cron, establecida en la conexión de 
-    acceso remoto.
+
+6. Definir el directorio para la grabación de los vídeos (por ejemplo: /mp4);
+
+   !!! success "Grabación de vídeos"
+   
+       Después del cierre de la sesión de acceso remoto, el vídeo generado entra en una cola de 
+       compilación para entonces, estar disponible en la plataforma. El tiempo de compilación 
+       dependerá del tiempo de la sesión, además, el inicio de la compilación se vincula a la 
+       rutina cron definida en la conexión de acceso remoto.
+
+7. En el elemento de configuración que se tiene acceso de forma remota (por ejemplo: Ordenador Windows), instale un cliente de acceso 
+remoto compatible con el protocolo VNC (por ejemplo: [TightVNC][3]) y establezca una contraseña de acceso. Guardar esta contraseña ya 
+que se utilizará en el siguiente paso;
+
+8. Realizar el registro de conexiones de acceso remoto en su instancia [según el documento][4].
     
 ## Lo que hacer después
 
-Con el servicio del GuaCD activo y comunicable, el siguiente paso es crear una conexión de acceso remoto en su instancia y probar el recurso.
+Con el servicio del GuaCD activo y comunicable, el siguiente paso es acceder remotamente al EC configurado
 
 ## Relacionado
 
-[Crear conexión con el servidor de acceso remoto][1]
+[Gestión de Configuración][5]
 
-[1]:/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[Implementar el CITSmart Inventory][6]
+
+[1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
+[2]:images/citsmart-guacd-encoder.jar.zip
+[3]:https://www.tightvnc.com/
+[4]:/es-es/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
+[5]:/es-es/citsmart-platform-8/processes/configuration/overview.html
+[6]:https://docs.citsmart.com/es-es/citsmart-platform-8/additional-features/add-ons/inventory.html
