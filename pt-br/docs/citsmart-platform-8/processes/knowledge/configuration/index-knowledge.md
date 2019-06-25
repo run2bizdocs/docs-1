@@ -3,7 +3,7 @@ Description: Demonstra o procedimento para realizar a indexação de conheciment
 
 # Indexar conhecimentos
 
-Esta funcionalidade permite ao usuário acionar manualmente a indexação de conhecimentos diretamente pela interface de gestão de conhecimentos, este recurso é útil quanto algum registro não foi indexado automaticamente após clicar na opção "Publicar".
+Esta funcionalidade permite ao usuário acionar manualmente a indexação de conhecimentos diretamente pela interface de gestão de conhecimentos, este recurso é útil quando algum registro não foi indexado automaticamente após clicar na opção "Publicar".
 
 ## Antes de começar
 
