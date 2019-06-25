@@ -62,7 +62,7 @@ Procedure
 2.  Choose a portfolio and click on it. It'll be presented several actions that
     can be executed in each one of the tabs of this screen. They are:
 
-    -   **Service**: In this tab it's presented the activities registered in this
+    -   **Service**: in this tab it's presented the activities registered in this
     portfolio. When select and click on an activity, it'll be possible to register
     the service request (ticket) about the scenary found; observe the knowledge
     about the ticket when click on the tab of same name; analyze the users evaluation
@@ -81,10 +81,10 @@ Procedure
         its attendance linked an article to spread the knowledge about the solution) ordened 
         in the item "Related to the Request/Incident".  
 
-    -   **Knowledge**: When click on the tab, it'll be presented the knowledge linked 
+    -   **Knowledge**: when click on the tab, it'll be presented the knowledge linked 
     to the portfolio;
 
-    -   **Active Campaigns**: This tab presents the questionnaires (colection of information)
+    -   **Active Campaigns**: this tab presents the questionnaires (colection of information)
     about the portfolio in question.
 
 3.  When click on the icon "Menu", it'll be presented shortcuts to some actions. It's allowed to
