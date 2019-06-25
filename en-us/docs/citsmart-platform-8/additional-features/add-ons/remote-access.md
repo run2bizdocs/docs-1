@@ -1,6 +1,6 @@
-Title: Implement Remote Access
+Title: Implementing Remote Access
 
-# Implement Remote Access
+# Implementing Remote Access
 
 The remote access functionality allows computers to be accessed remotely from your CITSmart instance. In this sense, we use the Virtual Network Computing (VNC) protocol resources through the Apache Guacamole - web-based remote access gateway - to make this operation feasible. In addition to being able to remotely access a configuration item, all sessions are saved and made available to the CI information. This ensures better control over the actions taken by providing a reliable and auditable environment.
 
