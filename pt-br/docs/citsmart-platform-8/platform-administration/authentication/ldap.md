@@ -61,7 +61,7 @@ Procedimento
 
         O sistema não permite excluir um usuário que tem origem no LDAP.
 
-### LDAP Seguro (LDAPS)
+### LDAP Seguro (LDAPs)
 
 ```sh
 URL: ldaps://your-host.com:636
