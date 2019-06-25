@@ -13,30 +13,32 @@ CITSmart Inventory works in conjunction with [CITSmart Event Monitor - EVM][1] a
 
 ## Procedure  
 
-1. [Install][1] the Wildfly application server
+1. [Install][2] the Wildfly application server
 2. Download the WAR package from the EVM component;  
 3. Unpack the files;  
 4. Copy the package to the deployment folder of the Wildfly application server;  
-5. Configure [System Properties][2] with data of CITSmart instance;
+5. Configure [System Properties][3] with data of CITSmart instance;
 
 ## What to do next  
 
-To test the Inventory, [configure][3] the connections in the CITSmart instance.
+To test the Inventory, [configure][4] the connections in the CITSmart instance.
 
 ## Related
 
-[Implement CITSmart Event Monitor][4]
+[Implement CITSmart Event Monitor][5]
 
-[Asset and Configuration Management][5]
+[Asset and Configuration Management][6]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configure-system-properties
-[3]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
-[4]:/en-us/citsmart-platform-8/additional-features/add-ons/event-monitor.html
-[5]:/en-us/citsmart-platform-8/processes/configuration/overview.html
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
-	
+    <b>Updated:</b>01/22/2019
+    
+    
+[1]:/en-us/citsmart-platform-8/additional-features/add-ons/event-monitor.html
+[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[3]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[4]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
+[5]:/en-us/citsmart-platform-8/additional-features/add-ons/event-monitor.html
+[6]:/en-us/citsmart-platform-8/processes/configuration/overview.html
