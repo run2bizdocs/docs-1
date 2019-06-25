@@ -24,7 +24,7 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
 ## Gerenciar o conteúdo indexado
 
 1. Acessar o menu principal Sistema > Configurações > Gerência do Conhecimento (Indexação);
-2. Para indexar os conhecimentos disponíveis, clicar em "Indexar base de conhecimento", ou para remover os conhecimentos disponíveis e realizar uma nova indexação, clicar em "Remover indexação base conhecimento".
+2. Para indexar os conhecimentos disponíveis, clicar em "Indexar base de conhecimento", ou para remover os conhecimentos já indexados, clicar em "Remover indexação base conhecimento".
 
 
 !!! tip "About"
