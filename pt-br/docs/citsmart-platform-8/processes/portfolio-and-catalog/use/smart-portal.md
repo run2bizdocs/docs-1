@@ -21,7 +21,7 @@ Figura 1 - Smart Portal
 
 - **3**: Docs - direciona o usuário para a documentação do produto CITSmart
 
-- **4**: Acessar o Sistema - entrar no sistema
+- **4**: Acessar o sistema - entrar no sistema
 
 - **5**: Notificações - local onde as mensagens de alerta do sistema são apresentadas
 
@@ -65,7 +65,7 @@ Procedimento
     diversas ações que podem ser executadas em cada uma das abas desta tela. São
     elas:
 
-    -   **Serviços**: Nesta aba será expostos as atividades registradas neste
+    -   **Serviços**: nesta aba será expostos as atividades registradas neste
     portfólio. Ao selecionar e clicar sobre a atividade pretendida, será
     possível registrar a solicitação de serviço (ticket) referente ao cenário
     encontrado, também é viável observar os conhecimentos referente ao ticket ao
@@ -87,13 +87,13 @@ Procedimento
         conhecimento da solução do mesmo) ordenados no item “Relacionados a 
         Requisição/Incidente.  
 
-    -   **Conhecimentos**: Ao clicar sobre a aba, serão expostos os conhecimentos
+    -   **Conhecimentos**: ao clicar sobre a aba, serão expostos os conhecimentos
     vinculados ao portfólio;
 
-    -   **Campanhas ativas**: Esta aba expõem os questionários (coleta de
+    -   **Campanhas ativas**: esta aba expõe os questionários (coleta de
     informações) referente ao portfólio em questão.
 
-3.  Ao clicar no ícone “Menu”, será exibido atalhos a algumas ações. É permitido
+3.  Ao clicar no ícone “Menu”, serão exibidos atalhos a algumas ações. É permitido
     visualizar as solicitação abertas pelo usuário ao apertar no ícone “Minhas
     solicitações”, visualizar as aprovações do ticket efetuadas pelo usuário,
     observar as notícias e campanhas ativas (questionários) referente a
