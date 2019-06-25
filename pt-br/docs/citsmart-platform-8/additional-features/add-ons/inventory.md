@@ -14,28 +14,29 @@ O CITSmart Inventory trabalha em conjunto com o [Monitor de Eventos CITSmart - E
 
 ## Procedimento
 
-1. [Instalar][1] o servidor de aplicação Wildfly;
+1. [Instalar][2] o servidor de aplicação Wildfly;
 2. Fazer download do pacote WAR do componente Inventory;  
 3. Descompactar os arquivos;  
 4. Copiar o pacote para a pasta de implantação do servidor de aplicativos Wildfly (ex. /deployments);  
-5. Configurar as [Propriedades do Sistema][2] com os dados da instância CITSmart.
+5. Configurar as [Propriedades do Sistema][3] com os dados da instância CITSmart.
 
 ## O que fazer depois  
 
-Para testar o Inventory, [configurar][3] as conexões na instância CITSmart.
+Para testar o Inventory, [configurar][4] as conexões na instância CITSmart.
 
 ## Relacionado
 
-[Implementar o CITSmart Event Monitor][4]
+[Implementar o CITSmart Event Monitor][5]
 
-[Gerenciamento de Configuração e Ativo][5]
+[Gerenciamento de Configuração e Ativo][6]
 
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
-[3]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
-[4]:/pt-br/citsmart-platform-8/additional-features/add-ons/event-monitor.html
-[5]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
+[1]:/pt-br/citsmart-platform-8/additional-features/add-ons/event-monitor.html
+[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[3]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[4]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
+[5]:/pt-br/citsmart-platform-8/additional-features/add-ons/event-monitor.html
+[6]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
 
 
 
