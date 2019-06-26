@@ -634,9 +634,9 @@ description: Here you have the answers for the most common parameters when talki
    
 !!! Question "What is the Fato table of the service request module and how to insert data?"
     
-    The service request fact table is intended to receive consolidated information regarding the service request.
+    The service request Fato table is intended to receive consolidated information regarding the service request.
     
-    Tales como: 
+    For example: 
     
         IDSOLICITACAOSERVICO
         DATAHORASOLICITACAO
@@ -758,7 +758,8 @@ description: Here you have the answers for the most common parameters when talki
     The system synchronizes the credential data of its users with LDAP in three different situations:
     
     1. On application activation, usually in sequence to the product version update procedure;
-    2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's authentication and permission;
+    2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's 
+    authentication and permission;
     3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.   
 
 !!! Question "When is removed the data from the Logdata table?"
