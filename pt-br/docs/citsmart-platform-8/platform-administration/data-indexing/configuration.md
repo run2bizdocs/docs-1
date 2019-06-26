@@ -7,7 +7,8 @@ O CITSmart usa o Apache SOLR para indexar o conteúdo criado na Gerência de Con
 ## O que fazer antes
 
 Para que a Indexação de conhecimento funcione corretamente é necessário:
-[X] Instalar o componente Apache SOLR como apresentado no [manual de instalação][1].
+
+* [x] Instalar o componente Apache SOLR como apresentado no [manual de instalação][1].
 
 ## Parametrizar o serviço de indexação
 
