@@ -3,7 +3,7 @@ Description: Demuestra el procedimiento para realizar la indexación de conocimi
 
 # Indizar conocimientos
 
-Esta funcionalidad permite al usuario accionar manualmente la indexación de conocimientos directamente por la interfaz de gestión de conocimientos, esta característica es útil cuando algún registro no fue indexado automáticamente después de hacer clic en la opción "Publicar".
+Esta funcionalidad permite al usuario accionar manualmente la indexación de conocimientos directamente por la interfaz de gestión de conocimientos, esta característica es útil cuando algún registro no fue indexado automáticamente en documentos que tienen el valor "Publicar" igual a "Sí".
 
 ## Antes de empezar
 
@@ -18,7 +18,7 @@ Para realizar la indexación es necesario antes [configurar su instancia][1] con
 
 ## Relacionados
 
-[Configurar Servicio de Indexación](/es-es/citsmart-platform-8/platform-administration/data-indexing/configuration.html)
+[Administrar la indización de contenido](/es-es/citsmart-platform-8/platform-administration/data-indexing/configuration.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
