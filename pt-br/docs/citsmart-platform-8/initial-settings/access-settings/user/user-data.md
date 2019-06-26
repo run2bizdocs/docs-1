@@ -14,7 +14,7 @@ Procedimento
 
 1. Na barra de navegação, clicar no ícone de usuário;
 
-2. Clicar em "Editar" perfil;
+2. Clicar em "Editar perfil";
 
 3. Atualizar as informações;
 
