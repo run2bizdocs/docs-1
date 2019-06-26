@@ -35,8 +35,7 @@ Procedimiento
 
 7.  Elegir el actividad y hacer clic en "Editar";
 
-8.  En el campo Modelo de E-mail Reclasificación, elegir el modelo registrado
-    previamente;
+8.  En el campo **Modelo de E-mail Reclasificación**, elegir el modelo registrado previamente;
 
 9.  Hacer clic en "Guardar".
 
