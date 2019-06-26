@@ -46,7 +46,7 @@ Figura 1 - Smart Portal
 
 - **15**: VoIP - permite hacer llamadas directamente desde el Smart Portal, pero es necesario la integración con herramientas VoIP
 
-- **16**: Idioma - le permite elegir el idioma que desee para el sistema (portugués, Inglés o Español)
+- **16**: Idioma - le permite elegir el idioma que desee para el sistema (Portugués, Inglés o Español)
 
 
 
@@ -68,7 +68,7 @@ Procedimiento
 
     !!! Abstract "NOTAS"  
 
-        Los conocimientos diponibles en la pestaña "Conocimientos", del elemento "Servicio", pueden ser definidos en dos                 niveles:  
+        Los conocimientos diponibles en la pestaña "Conocimientos", del elemento "Servicio", pueden ser definidos en dos niveles:  
 
         -   Los conocimientos que se han vinculado al portafolio que estarán dispuestos en el elemento "Relacionados al Servicio";  
 
