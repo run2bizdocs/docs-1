@@ -1,6 +1,6 @@
 title: Generar informes - gestión de problemas
 Description: Presentan los informes de gestión de problemas
-# Generar informes - gestión de problemas
+# Generar informes - Gestión de problemas
 
 
 En los siguientes temas, se presentan los informes de gestión de problemas:
