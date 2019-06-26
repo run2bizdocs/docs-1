@@ -1,3 +1,0 @@
-Title: Configuração
-
-# Configuração
