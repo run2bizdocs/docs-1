@@ -17,7 +17,12 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
 !!! Abstract "ATENÇÃO"
 
-    As permissões no Workspace e Sprint (localizada no botão configurações > perfis e permissões), quando o *administrador* estiver     logado, virão selecionadas por default e não poderão ser alteradas. Apenas quando o usuário for do tipo *normal* é que as           permissões serão editáveis.
+    As permissões no Workspace e Sprint (localizada no botão configurações > perfis e permissões), quando o *administrador* estiver logado, virão selecionadas por default e não poderão ser alteradas. Apenas quando o usuário for do tipo *normal* é que as permissões serão editáveis.
+
+!!! warning "ATENÇÃO"
+
+    O idioma nas colunas que se apresentam na tela de **Minhas notificações (figura de sino)**, seguirá o que foi setado     no parâmetro 66 (Idioma padrão do sistema).
+
 
 Procedimento
 ------------
