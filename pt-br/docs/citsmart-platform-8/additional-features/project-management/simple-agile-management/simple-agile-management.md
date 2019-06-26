@@ -54,7 +54,9 @@ Procedimento
     
 !!! Abstract "NOTA"
     
-    O campo de pesquisa busca qualquer informação que esteja em qualquer outro workspace, sprint, lista ou tarefa.
+    O campo de pesquisa busca qualquer informação que esteja em qualquer outro workspace, sprint, lista ou tarefa. Para otimizar a busca, foi criado um novo filtro que permite  selecionar as atividades pela data estimada de seu desenvolvimento (o periodo de seu princípio e conclusão). Para utilizá-lo, é exigido seguir as seguintes instruções:
+    - Para o correto funcionamento deste campo é necessário que o Workspace, Sprint e atividade possuam uma data estimada de começo e término;    
+    - Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces, Sprints e Atividades que estejam entre a data referenciada na busca.
 
 
 ***II - Criar uma Sprint***
