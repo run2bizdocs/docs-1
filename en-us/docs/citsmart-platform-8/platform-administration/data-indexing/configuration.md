@@ -18,15 +18,9 @@ Install the SOLR component, as shown in the [installation manual][1].
     ```
 3. Save.
 
-## Related
-
-[Indexing Knowledge Base][2]
-
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#apache-solr-indexing-server_1
-[2]:/en-us/citsmart-platform-8/platform-administration/data-indexing/management.html
-
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
+
+[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#apache-solr-indexing-server_1

@@ -18,13 +18,7 @@ Instalar el componente SOLR, como presentamos en el [manual de instalación][1].
     ```
 3. Guardar.
 
-## Relacionado
-
-[Indexar Base de Conocimiento][2]
-
 [1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr_1
-[2]:/es-es/citsmart-platform-8/platform-administration/data-indexing/management.html
-
 
 !!! tip "About"
 
