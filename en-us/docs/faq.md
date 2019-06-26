@@ -270,6 +270,7 @@ description: Here you have the answers for the most common parameters when talki
 ### Change Management     
 
 ***Usage***
+
 !!! Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
 
     The process of risks in change begins in the design of the change portfolio where the "**Type of Impact and Risk Analysis**" is provided, which can be simplified or complete. The next step is in the change register to inform the data of the risk(s) in the left lateral bar in the item of risk analysis, that will be presented with the indication defined in the portfolio of change:
