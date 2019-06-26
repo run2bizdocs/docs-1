@@ -1,6 +1,6 @@
 title: Generate reports - service level management
 Description: Presents the service level reports.
-#Generate reports - service level management
+# Generate reports - Service level management
 
 Generate report of SLA control
 ----------------------------------

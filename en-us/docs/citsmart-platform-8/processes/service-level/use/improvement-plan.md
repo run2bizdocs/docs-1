@@ -1,7 +1,7 @@
 title: Improvement Plan
 
 Description: It's possible to register all expected benefits with the improvement and also create reports, allowing its print.
-#Improvement Plan
+# Improvement Plan
 According to ITIL, a Service Improvement Plan (SIP), it's a formal plan to implement improvements in a process or IT service, registering the needs or opportunities identified.
 In this functionality, it's possible to register all expected benefits with the improvement and also create reports, allowing its print.
 This feature provides a variety of actions, such as including, changing, and deleting an improvement plan.

@@ -12,13 +12,12 @@ guidelines of the system-related parametrization rules. It's also necessary to
 know how to design the request approval flow via email registered. In this flow,
 there should be the "Approval" task and the design for sending the email,
 registering the template with the "Waiting Approval" template attached, and
-thee-mail server must be configured with all the parameters for email
+the e-mail server must be configured with all the parameters for email
 parameterization rules.
 
 !!! Abstract "ATTENTION"
 
-    Ticket approval via email is only possible with the following browsers configured 
-    as default: Mozilla Firefox, Google Chrome, and Microsoft Edge from version 42.17134.1.0.
+    Ticket approval via email is only possible with the following browsers configured as default: Mozilla Firefox, Google Chrome, and Microsoft Edge from version 42.17134.1.0.
 
 Procedure
 -------------
@@ -57,8 +56,7 @@ Procedure
     - VIEW - calls the command to open the request: this field cannot be changed
     by the user;
 
-    - MM (50) - Token expiration time in Minutes: this field can be changed by the
-    user;
+    - MM (50) - Token expiration time in Minutes: this field can be changed by the user;
 
 1.  Click on "Save".
 
