@@ -3,8 +3,7 @@ Description: Demonstrates the procedure to perform indexing of knowledge in the 
 
 # Index knowledge
 
-This feature allows the user to manually trigger the indexing of knowledge directly through the knowledge management interface, this 
-feature is useful when some registry was not indexed automatically after clicking on "Publish".
+This feature allows the user to manually trigger the indexing of knowledge directly through the knowledge management interface, this feature is useful when some registry was not indexed automatically on documents that have the value "Publish" equal to "Yes".
 
 ## Before getting started
 
@@ -19,7 +18,7 @@ To perform the indexing, it is necessary to first [configure your instance][1] w
 
 ## Related
 
-[Configure Indexing Service](/en-us/citsmart-platform-8/platform-administration/data-indexing/configuration.html)
+[Manage content indexing](/en-us/citsmart-platform-8/platform-administration/data-indexing/configuration.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
