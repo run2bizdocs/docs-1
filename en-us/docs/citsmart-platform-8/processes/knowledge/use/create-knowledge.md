@@ -74,13 +74,13 @@ In the Registration tab, it's presented several field to be completed, among the
 
 -   **Privacy**: define the knowledge privacy;
 
--   **Confidential**: only the knowledge author and the manager of the folder will have
+    -   **Confidential**: only the knowledge author and the manager of the folder will have
     access to the knowledge;
     
--   **Public**: everyone will have access to the knowledge, even those who doesn't have
+    -   **Public**: everyone will have access to the knowledge, even those who doesn't have
     permission to the folder;
     
--   **Internal**: only people who have permission in the folder will have access to the
+    -   **Internal**: only people who have permission in the folder will have access to the
     knowledge;
     
 -   **Expiration date**: inform the expiration date that the knowledge will obey. When
