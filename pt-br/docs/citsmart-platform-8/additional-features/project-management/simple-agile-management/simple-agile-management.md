@@ -21,7 +21,7 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
 !!! warning "ATENÇÃO"
 
-    O idioma nas colunas “Descrição breve” e “Ações > Visualizar”, que se apresentam nas **Minhas notificações (figura       de sino)**, seguirá o que foi setado no parâmetro 66 (Idioma padrão do sistema).
+    O idioma nas colunas que se apresentam na tela de **Minhas notificações (figura de sino)**, seguirá o que foi setado     no parâmetro 66 (Idioma padrão do sistema).
 
 
 Procedimento
