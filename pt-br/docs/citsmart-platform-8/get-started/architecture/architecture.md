@@ -56,7 +56,7 @@ O CITSmart tem conformidade de segurança com base nas seguintes áreas nas quai
 
 - Proteção de tráfego de rede (criptografia, integridade, identidade).
 
-
+Para cada área acima, temos processos e medidas de segurança técnica que garantem conformidade de segurança com base nas melhores práticas de mercado.
 
 !!! tip "About"
 
