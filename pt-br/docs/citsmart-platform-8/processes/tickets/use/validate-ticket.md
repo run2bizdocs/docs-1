@@ -30,25 +30,30 @@ Procedimento
     - Se o tipo de solicitação for "Incidente":
 
         * Categoria de Solução: selecionar a categoria de solução do incidente;
-     
-        * Detalhamento da Causa: descrever os detalhes da causa do incidente; 
-     
-        * Solução Resposta: descrever os detalhes da solução que foi realizada para atendimento do incidente; 
-     
+
+        * Detalhamento da Causa: descrever os detalhes da causa do incidente;
+
+        * Solução Resposta: descrever os detalhes da solução que foi realizada para atendimento do incidente;
+
         * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
           visível, verificar a parametrização do processo de Gestão do Conhecimento;
-     
-        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em                 questão; 
-     
+
+            !!! Abstract "ATENÇÃO"
+                Para que a opção “Gravar solução/Resposta na Base de Conhecimento” fique
+  disponível ao marcar a opção “Resolvida” do ticket, é necessário configurar
+  os parâmetros 182 e 192.
+
+        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em                 questão;
+
         * Solução Temporária: indicar se a atividade realizada para atendimento do incidente foi uma solução temporária.
 
 
     - Se o tipo de solicitação for "Requisição", preencher o campo "Solução Resposta", descrever o que foi realizado para atendimento da requisição de serviço.
- 
+
     !!! Abstract "ATENÇÃO"
 
         Os passos de resolução do Ticket podem ser a sugestão de um novo conhecimento, sendo avaliado previamente para efetivação.         É possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
- 
+
 5.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
 
      -   “Gravar e manter a tarefa atual”;
