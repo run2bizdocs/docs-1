@@ -18,7 +18,9 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
     http://localhost:8983/solr/collection_name
     ```
 3. Configurar o parâmetro 304 informando a quantidade de itens a serem indexados por vez;
+
 4. Configurar o parâmetro 332 informando se a sincronização com o servidor de Indexação está ativa;
+
 5. Acessar o menu principal Sistema > Configurações > Gerência do Conhecimento (Indexação) e clicar em "Atualizar o servidor de indexação".
 
 ## Gerenciar o conteúdo indexado
