@@ -1,15 +1,15 @@
-Title: Configurar o Serviço de Indexação
+Title: Gerenciar a indexação de conteúdo
 
-# Configurar o Serviço de Indexação
+# Gerenciar a indexação de conteúdo
 
-O CITSmart usa o Apache SOLR para indexar o conteúdo gerado na Gerência de Conhecimento e o disponibiliza no sistema de busca do Portal de Conhecimento.
+O CITSmart usa o Apache SOLR para indexar o conteúdo criado na Gerência de Conhecimento e o disponibiliza no sistema de busca do Portal de Conhecimento.
 
 ## O que fazer antes
 
 Para que a Indexação de conhecimento funcione corretamente é necessário:
 [X] Instalar o componente Apache SOLR como apresentado no [manual de instalação][1];
 
-## Parametrizar a funcionalidade
+## Parametrizar o serviço de indexação
 
 1. Acessar o menu principal Parametrização > Parâmetros CITSmart;
 2. Configurar o parâmetro 304 informando a URL do componente SOLR;
@@ -18,12 +18,10 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
     http://localhost:8983/solr/collection_name
     ```
 3. Configurar o parâmetro 304 informando a quantidade de itens a serem indexados por vez;
-
 4. Configurar o parâmetro 332 informando se a sincronização com o servidor de Indexação está ativa;
-
 5. Acessar o menu principal Sistema > Configurações > Gerência do Conhecimento (Indexação) e clicar em "Atualizar o servidor de indexação".
 
-## Gerenciar o conteúdo indexado
+## Gerenciar conteúdo
 
 1. Acessar o menu principal Sistema > Configurações > Gerência do Conhecimento (Indexação);
 2. Para indexar os conhecimentos disponíveis, clicar em "Indexar base de conhecimento", ou para remover os conhecimentos já indexados, clicar em "Remover indexação base conhecimento".
