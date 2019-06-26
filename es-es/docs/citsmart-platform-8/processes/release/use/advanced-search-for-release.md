@@ -14,10 +14,7 @@ Procedimiento
 
 3.  Hacer clic en "Búsqueda Avanzada"
 
-4.  Completar los filtros (periodo de apertura de la solicitud de liberación, 
-    período de cierre de la solicitud de liberación, número, orden, unidad, 
-    solicitante, situación, prioridad, grupo solucionador de cierre y mostrar el 
-    campo de descripción en el informe?) y hacer clic en "Búsqueda avanzada";
+4.  Completar los filtros y hacer clic en "Búsqueda avanzada";
 
 5.  Para generar el informe de la liberación en formato PDF, haga 
     clic en el botón "Generar PDF" y para generar el informe en formato Excel, 
