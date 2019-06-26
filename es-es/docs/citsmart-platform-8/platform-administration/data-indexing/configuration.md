@@ -26,7 +26,7 @@ Para que la Indización del conocimiento funcione correctamente, es necesario:
 ## Gestionar contenido
 
 1. Acceder al menú principal Sistema > Configuración > Gestión del conocimiento (Indexación);
-2. Para indizar los conocimientos disponibles, haga clic en "Indexar la base de conocimiento", o para eliminar los conocimientos ya 
+2. Para indizar los conocimientos disponibles, haga clic en "Indexar la base de conocimiento", o para eliminar los conocimientos ya
 indexados, haga clic en "Eliminar la indexación de la base de conocimiento".
 
 
@@ -35,4 +35,4 @@ indexados, haga clic en "Eliminar la indexación de la base de conocimiento".
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr
