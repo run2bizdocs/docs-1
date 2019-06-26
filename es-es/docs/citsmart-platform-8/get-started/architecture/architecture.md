@@ -56,7 +56,7 @@ es responsable en el ambiente de nube:
 
 - Protección de tráfico de red (criptografía, integridad, identidad)
 
-
+Para cada una de las áreas anteriores, contamos con procesos y medidas de seguridad técnica que garantizan el cumplimiento de la seguridad en base a las mejores prácticas del mercado.
 
 !!! tip "About"
 
