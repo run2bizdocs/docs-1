@@ -23,11 +23,9 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-3.  Clicar na aba Destinatários-Colaboradores e em seguida no botão "Adicionar"
-    para vincular colaboradores;
+3.  Clicar na aba **Destinatários-Colaboradores** e em seguida no botão "Adicionar" para vincular colaboradores;
 
-4.  Clicar na aba Destinatários-Grupos e em seguida no botão "Adicionar" para
-    vincular grupos;
+4.  Clicar na aba **Destinatários-Grupos** e em seguida no botão "Adicionar" para vincular grupos;
 
 5.  Clicar em "Gravar".
 

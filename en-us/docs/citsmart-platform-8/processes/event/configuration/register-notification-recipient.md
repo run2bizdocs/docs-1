@@ -22,10 +22,10 @@ Procedure
 
 2.  Complete the fields available;
 
-3.  Click on the tab Recipients - Employee and then on "Add" to link the
+3.  Click on the tab **Recipients - Employee** and then on "Add" to link the
     employee;
 
-4.  Click on the tab Recipients - Groups and then on "Add" to link groups;
+4.  Click on the tab **Recipients - Groups** and then on "Add" to link groups;
 
 5.  Click on "Save".
 
