@@ -74,13 +74,13 @@ Na guia Cadastro, são apresentados vários campos para preenchimento, entre ele
 
 -   **Privacidade**: definir a privacidade do conhecimento;
 
--   **Confidencial**: apenas o autor do conhecimento e o administrador da pasta terão
+    -   **Confidencial**: apenas o autor do conhecimento e o administrador da pasta terão
     acesso ao conhecimento;
 
--   **Público**: todas as pessoas terão acesso ao conhecimento, mesmo aqueles que
+    -   **Público**: todas as pessoas terão acesso ao conhecimento, mesmo aqueles que
     não têm permissão na pasta;
 
--   **Interno**: somente as pessoas que têm permissão na pasta terão acesso ao
+    -   **Interno**: somente as pessoas que têm permissão na pasta terão acesso ao
     conhecimento.
 
 -   **Data de expiração**: informe a data de expiração que o conhecimento obedecerá.
