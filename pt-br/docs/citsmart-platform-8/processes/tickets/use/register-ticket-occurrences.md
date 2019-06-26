@@ -1,7 +1,7 @@
-title: Cadastrar ocorrências referentes ao ticket
+title: Adicionar comentários na execução do ticket
 Description: Permite registrar eventuais ocorrências referente a execução do ticket.
 
-# Cadastrar ocorrências referentes ao ticket
+# Adicionar comentários na execução do ticket
 
 A funcionalidade permite registrar em comentários todos os passos da execução do ticket.
 
