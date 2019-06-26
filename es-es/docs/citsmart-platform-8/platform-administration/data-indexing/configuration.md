@@ -1,26 +1,38 @@
-Title: Configurar Servicio de Indexación
+Title: Gestionar indización de contenido
 
-# Configurar Servicio de Indexación
+# Gestionar Indización de Contenido
 
-CITSmart Platform utiliza SOLR para indexar la información en la funcionalidad de búsqueda del Portal de Conocimiento.
-
+CITSmart utiliza el Apache SOLR para indexar el contenido creado en la Gestión de Conocimiento y lo disponibiliza en el sistema de búsqueda del Portal de Conocimiento.
 
 ## Lo que hacer antes
 
-Instalar el componente SOLR, como presentamos en el [manual de instalación][1].
+Para que la Indización del conocimiento funcione correctamente, es necesario:
 
-## Procedimiento
+* [x] Instalar el componente Apache SOLR como se muestra en el [manual de instalación][1].
 
-1. Acceder al menú principal Parametrización > Parámetros CITSmart > 304;
-2. Informar los datos del servidor SOLR;
+## Parametrizar el servicio de indización
+
+1. Acceder al menú principal Parametrización > Parámetros CITSmart;
+2. Configurar el parámetro 304 que indica la dirección URL del componente SOLR;
+
     ```sh
     http://localhost:8983/solr/collection_name
     ```
-3. Guardar.
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr_1
+3. Configurar el parámetro 308 informando la cantidad de elementos a indexar a la vez;
+4. Configurar el parámetro 332 que indica si la sincronización con el servidor de indización está activa;
+5. Acceder al menú principal Sistema > Configuración> Gestión del conocimiento (Indexación) y haga clic en "Actualizar el servidor de índices".
+
+## Gestionar contenido
+
+1. Acceder al menú principal Sistema > Configuración > Gestión del conocimiento (Indexación);
+2. Para indizar los conocimientos disponibles, haga clic en "Indexar la base de conocimiento", o para eliminar los conocimientos ya 
+indexados, haga clic en "Eliminar la indexación de la base de conocimiento".
+
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
+    <b>Updated:</b>06/25/2019
+
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1
