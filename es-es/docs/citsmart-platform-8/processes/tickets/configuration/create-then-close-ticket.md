@@ -12,7 +12,7 @@ Procedimiento
 
 1.  Definir el flujo de creación y cierre del ticket:
 
-    -   Es posible importar el flujo con los script ya registrados. Basta
+    -   **1º Modo - Importar el flujo**: es posible importar el flujo con los script ya registrados. Basta
         descargar el adjunto "Fluxo JSON" y acceder a la funcionalidad del flujo
         (Sistema \> Mantenimiento de Flujos), haga clic en "Nuevo", después haga
         clic en "Importar" y seleccionar la opción "JSON". Descargas el archivo
@@ -20,7 +20,7 @@ Procedimiento
         haga clic en la pestaña "Diagrama" y en el icono de tarea, y después,
         haga clic en la pestaña "Acción de entrada".
 
-    -   Para copiar sólo el script, copiar el contenido del adjunto "Script" y
+    -   **2º Modo - Copiar el guión**: para copiar sólo el script, copiar el contenido del adjunto "Script" y
         acceda la funcionalidad de flujo (Sistema \> Mantenimiento de Flujos),
         haga clic en "Nuveo" y llena los campos necesarios. Después, haga clic
         en la pestaña "Diagrama", diseñar el flujo de creación y cierre de una
