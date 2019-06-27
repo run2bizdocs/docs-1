@@ -1,77 +1,39 @@
-title:  Register ticket occurrences
+title:  Add comments in the ticket execution
  
-Description: This functionality allows to register eventual occurrences of the execution of a ticket.
+Description: It allows to register possible occurrences about the execution of a ticket.
 
-# Register ticket occurrences
-This functionality allows to register eventual occurrences of the execution of a ticket.
+# Add comments in the ticket execution
 
-Before getting started
---------------------------
+This functionality allows to register in comments all the steps for the execution of a ticket.
 
-To register occurences of a ticket, it's necessary to previously register a
-ticket and have permission to execute it. It's necessary to first enable
-parameter 298 (set to "Y").
+## Before getting started
 
-IT's necessary to also enter in parameter 253 the e-mail ID chosen to register
-occurrence and the notification e-mail template ID in parameter 251.
+To execute the ticket in addition to the permission to perform the operation and the previous registration, it is necessary previously to enable the parameter 298.
 
-Procedure
--------------
+## Procedure
 
-1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1. Access the funcionality through the main menu Processes > Ticket Management > Ticket;
+2. Find the ticket you want, click on it and then on the "Open" icon;
+3. In the "Comments" area, complete the necessary fields (write the pertinent comment, register date and time spent in the execution of 
+the ticket) and click on the "Add" icon. It is possible to allow this information to be viewed by the requester when selecting the 
+"Public" field, in addition to being able to send the comment by email.
 
-2.  Click on the ticket you want and then on the icon “Open”;
-
-3.  In "Execution", click on "Add note" and report the occurrence referring to
-    the ticket and the date that it happened. It's also possible to save the
-    time taken to solve the problem. It's available the visualization of this
-    report by the requester and the sending of the same to his/her email by
-    selecting the options "Visible to the requester" and "Send to e-mail".
-
-    !!! Abstract "NOTE"  
-
-        There is another way to register some occurrence related to the
-        ticket. Just click on the icon  “Add note”, located in the upper right
-        corner of the screen and complete the fields as the guidance above.  
-        
-        Occurrences registrations and their possible solution will be available
-        for review by the requester (only if the executor marks the "Visible to the
-        requester" option) on the occurrence history tab within the Smart Portal "My
-        Requests" functionality.
- 
-4.  Occurrence history is available by clicking the icon “History”. All
-    occurrences of the request will be presented in the "Ticket" tab and all the
-    communications between the requester and executor made by "Chat" mode in the
-    tab of the same name.
-
-    !!! Abstract "NOTE"  
-
-        To present the communications made by the "Chat", in the occurrence
-        history, it must be enabled.  
- 
-5.  It's possible to send a message from the executor of the ticket to the
-    requester of the ticket, just click on the icon “Message to the requester” ,
-    describe the communication and mark if you want this content to be sent to
-    the requester's email. This message will be available in the area of the
-    request of the requester in the Smart portal.
+!!! success "NOTE"
     
-Related
------------
+    The history of all ticket comments can be viewed by clicking on the "History" tab in the upper right side of the screen.
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+## Related
+
 
 [The desktop of Service Desk](/en-us/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
 [Create ticket](/en-us/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>06/26/2019
 
 
