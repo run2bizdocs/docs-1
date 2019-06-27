@@ -57,7 +57,7 @@ Procedimento
 
     É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest.
 
-Além disso, caso haja a necessidade recuperar outras informações constantes nos campos do e-mail, como destinatários marcados como cópia (CC) ou cópia oculta (BCC) utilize o script Rhino abaixo:
+Além disso, caso haja a necessidade de recuperar outras informações constantes nos campos do e-mail, como destinatários marcados como cópia (CC) ou cópia oculta (BCC) utilize o script Rhino abaixo:
 
 ```java
 var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citframework.util); var print = java.lang.System.out; var readEmailDataDTO = serviceRequest.getReadEmailDataDTO(); if (readEmailDataDTO!=null){ print.println("Dados do E-mail de Origem: "); print.println("From: "); print.println(readEmailDataDTO.getMessageFrom()); print.println("To: "); print.println(readEmailDataDTO.getMessageTo()); print.println("CC (Carbon Copy): "); print.println(readEmailDataDTO.getMessageCC()); }
