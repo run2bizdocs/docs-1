@@ -73,12 +73,6 @@ Relacionado
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
-Adjunto
-------------
-[Download - Comprobar email][1]
-
-[Download -Script Rhino datos del email][2]
-
 
 !!! tip "About"
 
