@@ -20,7 +20,7 @@ Procedimiento
         haga clic en la pestaña "Diagrama" y en el icono de tarea, y después,
         haga clic en la pestaña "Acción de entrada".
 
-    -   2º Modo - Copiar el guión - para copiar sólo el script, copiar el contenido del adjunto "Script" y
+    -   2º Modo - Copiar el guión: para copiar sólo el script, copiar el contenido del adjunto "Script" y
         acceda la funcionalidad de flujo (Sistema \> Mantenimiento de Flujos),
         haga clic en "Nuveo" y llena los campos necesarios. Después, haga clic
         en la pestaña "Diagrama", diseñar el flujo de creación y cierre de una
