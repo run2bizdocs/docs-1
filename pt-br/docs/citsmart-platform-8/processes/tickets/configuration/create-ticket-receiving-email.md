@@ -44,16 +44,7 @@ Procedimento
 ```
 
 
-!!! Abstract "ATENÇÃO"
-
-    Serão coletadas as informações contidas no teor da mensagem do email, os
-    endereços do remetente, destinatário e cópia oculta do email que é lido e
-    usado para registrar uma solicitação de serviço.
-
-    Para estas informações serem visualizadas via script Rhino,
-    segue exemplo em anexo.
-
-!!! Abstract "NOTA"
+!!! info "NOTA"
 
     É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest.
 
