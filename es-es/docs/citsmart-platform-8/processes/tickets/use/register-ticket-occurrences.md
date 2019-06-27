@@ -1,79 +1,36 @@
-title:  Cadastrar ocurrencias del ticket 
-Description: Permite registrar eventuales hechos refente a la ejecución del ticket.
-# Cadastrar ocurrencias del ticket
+title:  Agregar comentarios en la ejecución del ticket 
+Description: Permite registrar eventuales ocurrencias referentes a la ejecución del ticket.
 
-La funcionalidad permite registrar eventuales hechos refente a la ejecución del ticket.
+# Agregar comentarios en la ejecución del ticket
 
-Antes de empezar
-----------------
+La funcionalidad permite registrar en comentarios todos los pasos de la ejecución del ticket.
 
-Para registrar hechos referentes al ticket, es necesario su registro previo y
-poseer permiso para ejecutarlo. Es necesario primero habilitar el parámetro 298
-(configurado en "S").
+## Antes de empezar
 
-Es necesario también establecer en el parámetro 253, el ID de correo electrónico
-elegido para registrar la instancia y el identificador de la plantilla de correo
-electrónico de notificación en el parámetro 251.
+Para ejecutar el ticket, además del permiso para efectuar la operación y el registro previo es necesario anteriormente, es necesario habilitar el parámetro 298.
 
-Procedimiento
--------------
+## Procedimiento
 
-1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+1. Acceder al menú principal Procesos > Gestión de Ticket > Ticket;
+2. Buscar el ticket que quiera, hacerlo clic y después en el icono "Abrir";
+3. En el área titulada "Comentarios", completar los campos necesarios (escribir el comentario pertinente, registrar la fecha y el tiempo gastado en la ejecución del ticket) y hacer clic en el icono "Agregar". Es posible permitir la visualización de esta información al solicitante cuando seleccionar el campo "Público", además de ser posible enviar el comentario por correo electrónico.
 
-2.  Buscar el ticket deseado, seleccionarlo y hacer clic en el icono “Abrir”;
+!!! success "NOTA"
 
-3.  En el área titulada "Ejecución", hacer clic en "Añadir nota" e informe la
-    ocurrencia referente al ticket y la fecha que se la sucedió. Es posible
-    también registrar el tiempo gastado para la solución de la ocurrencia. Se
-    pone a disposición la visualización de este relato por el solicitante y el
-    envío del mismo al correo electrónico al seleccionar las opciones "Vísible
-    al solicitante" y "Enviar al correo electrónico".
+    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, 
+    localizado no canto superior direito da tela.
 
-    !!! Abstract "ATENCIÓN"
-
-        Hay otro camino para registrar alguna ocurrencia referente al ticket. Sólo
-        tienes que hacer clic en el icono “Añadir nota”, situado en la esquina
-        superior derecha de la pantalla y completar los campos según las
-        instrucciones arriba.
-
-        Los registros de las ocurrencias y su eventual solución estarán disponibles
-        para el análisis del solicitante (sólo si el ejecutor marca la opción
-        "Visible al solicitante") en la pestaña de historial de instancias, dentro
-        de la funcionalidad "Mis Solicitudes" del Smart Portal.
-
-4.  El historial de instancia está disponible haciendo clic en el
-    icono “Historial”. Se mostrarán todas las ocurrencias de la solicitud en la
-    pestaña "Ticket" y todas las comunicaciones entre solicitante y ejecutor
-    hecha por el modo "Chat" en la pestaña del mismo nombre.
-
-    !!! Abstract "ATENCIÓN"
-
-        Para presentar las comunicaciones hechas por el "Chat" en el historial de
-        ocurrencia, el mismo debe estar habilitado.
-
-5.  Es posible el envío de mensaje del ejecutor del ticket al solicitante, basta
-    hacer clic en el icono “Mensaje al solicitante”, describir el comunicado y
-    marcar si desea que este contenido sea enviado al correo electrónico del
-    solicitante. Este mensaje estará disponible en el área de las solicitudes
-    del solicitante, en el Smart portal.
+## Relacionado
 
 
-Relacionado
------------
-
-[La área de trabajo del service desk](/es-es/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
+[El area de trabajo del service desk](/es-es/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
 [Crear ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
-
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/25/2019 – Larissa Lourenço
+    <b>Updated:</b>06/26/2019
 
