@@ -66,9 +66,7 @@ Use
 
 - [Hierarchical escalation in the attendance](/en-us/citsmart-platform-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-- [Register ticket execution](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-execution.html)
-
-- [Register ticket occurrences](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html)
+- [Add comments in the ticket execution](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html)
 
 - [Register ticket related](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-related.html)
 
