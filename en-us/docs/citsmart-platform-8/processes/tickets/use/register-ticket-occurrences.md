@@ -20,7 +20,8 @@ the ticket) and click on the "Add" icon. It is possible to allow this informatio
 
 !!! success "NOTE"
     
-    The history of all ticket comments can be viewed by clicking on the "History" tab in the upper right side of the screen.
+    The history of all ticket comments can be viewed by clicking on the "History" tab in 
+    the upper right side of the screen.
 
 ## Related
 
