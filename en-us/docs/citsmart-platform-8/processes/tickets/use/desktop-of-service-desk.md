@@ -1,7 +1,7 @@
 title: The desktop of Service Desk
-
 Description: The desktop of the Service Desk is a space where all tickets are available.
-#The desktop of Service Desk
+
+# The desktop of Service Desk
 The desktop of the Service Desk is a space where all tickets are available, with their history of attendance, making easier the view of each item with their information. In this space there is also the possibility of numerous actions like editing, printing, suspending, including, changing and deleting of one item besides several others.
 
 Before getting started
