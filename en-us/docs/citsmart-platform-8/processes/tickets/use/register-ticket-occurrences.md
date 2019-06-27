@@ -8,7 +8,7 @@ This functionality allows to register in comments all the steps for the executio
 
 ## Before getting started
 
-To execute the ticket in addition to the permission to perform the operation and the previous registration, it is necessary previously to enable the parameter 298.
+To execute the ticket in addition to the permission to perform the operation and the previous registration, it is necessary to first enable the parameter 298.
 
 ## Procedure
 
