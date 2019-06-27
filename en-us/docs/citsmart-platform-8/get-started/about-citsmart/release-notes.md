@@ -1,7 +1,7 @@
-Title: Release Notes History
+Title: Release Notes
 Description: Release notes, policies information, bug fixes and improvements in the CITSmart.
 
-# Release Notes History
+# Release Notes
 
 ## Version 8.0.0.9 (2019/05/31)
 
