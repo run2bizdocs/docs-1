@@ -16,8 +16,8 @@ Procedimento
 
 3.  Preencher os campos disponibilizados;
 
-    !!! success "NOTA"
-         O CITSmart agora oferece a possibilidade de configurar a recepção de aviso sonoro quand ao atendente dos tickets quando um novo for criado. Para tanto, é necessário marcar a opção "Notificação Sonora" e configurar esta extensão (notificação) no fluxo de serviço, além de verificar as condições mínimas para que o serviço funcione de forma correta (um drive de aúdio e caixas de som ou Head Set para ouvir o sinal sonoro).
+!!! success "NOTA"
+    O CITSmart agora oferece a possibilidade de configurar a recepção de aviso sonoro quand ao atendente dos tickets quando um novo for criado. Para tanto, é necessário marcar a opção "Notificação Sonora" e configurar esta extensão (notificação) no fluxo de serviço, além de verificar as condições mínimas para que o serviço funcione de forma correta (um drive de aúdio e caixas de som ou Head Set para ouvir o sinal sonoro).
        
 
 4.  Clicar em "Gravar".
