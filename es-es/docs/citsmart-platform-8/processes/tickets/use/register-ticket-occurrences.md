@@ -7,7 +7,7 @@ La funcionalidad permite registrar en comentarios todos los pasos de la ejecuci�
 
 ## Antes de empezar
 
-Para ejecutar el ticket, además del permiso para efectuar la operación y el registro previo es necesario anteriormente, es necesario habilitar el parámetro 298.
+Para ejecutar el ticket, además del permiso para efectuar la operación y el registro previo, es necesario anteriormente habilitar el parámetro 298.
 
 ## Procedimiento
 
