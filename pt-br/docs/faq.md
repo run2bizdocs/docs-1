@@ -1,5 +1,5 @@
-title: Perguntas Frequentes - FAQ
-description: Aqui você tem as respostas das pergundas mais comuns quando se fala da ferramenta CITSmart.
+Title: Perguntas Frequentes - FAQ
+Description: Aqui você tem as respostas das pergundas mais comuns quando se fala da ferramenta CITSmart.
 
 # Perguntas Frequentes - FAQ
 
