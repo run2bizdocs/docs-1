@@ -58,9 +58,7 @@ Uso
 
 - [Escalonamento hierárquico no atendimento](/pt-br/citsmart-platform-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-- [Cadastrar a execução do ticket](/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-execution.html)
-
-- [Cadastrar ocorrências referentes ao tickets](/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html)
+- [Adicionar comentários na execução do ticket](/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html)
 
 - [Cadastrar ticket relacionado](/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-related.html)
 
