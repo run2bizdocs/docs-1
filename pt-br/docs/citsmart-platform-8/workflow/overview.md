@@ -110,6 +110,10 @@ Figura 3 - Diagrama
    • Comunicação REST
 
    • Notificação
+   
+    !!! note "NOTA"
+
+        Esta extensão aliada a configuração do template de notificação (Sistema > Notificações > Template de notificação) permitem a criação de um alarme sonoro para indicar a chegada de um novo ticket.
 
    • Atribuição de Variável
 
