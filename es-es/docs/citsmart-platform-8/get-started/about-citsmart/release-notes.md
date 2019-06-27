@@ -1,7 +1,7 @@
-Title: Historial de Notas de Release
+Title: Notas de Release
 Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
-# Historial de Notas de Release
+# Notas de Release
 
 ## Versión 8.0.0.9 (2019/05/31)
 
