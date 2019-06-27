@@ -68,19 +68,9 @@ Related
 
 
 
-Attachment
-------------
-
-[Download - Verify email][1]
-
-[Download -Script Rhino email data][2]
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins
 
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/configuration/images/verify-email.docx
-
-[2]:/en-us/citsmart-platform-8/processes/tickets/images/script-rhino-email.rtf
