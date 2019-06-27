@@ -80,7 +80,7 @@ Procedure
        
    b) In the line *SAML2_METADATA* include the SAML metadata of the Okta. This data can be obtained by following the instructions below:
  
-   - Access the CITSmart application in Okta, click the "Applications > Applications" tab and then on "Sign On". When you click on the "Identity Provider metadata" option, a new tab will be available to the metadata, copy the URL of the browser and insert in the property *SAML2_METADATA*;
+      - Access the CITSmart application in Okta, click the "Applications > Applications" tab and then on "Sign On". When you click on the "Identity Provider metadata" option, a new tab will be available to the metadata, copy the URL of the browser and insert in the property *SAML2_METADATA*;
         
     ![Sign On](images/okta.img12.png)
 
