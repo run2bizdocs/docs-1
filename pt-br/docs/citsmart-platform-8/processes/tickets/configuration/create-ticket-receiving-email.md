@@ -47,7 +47,7 @@ Procedimento
 !!! Abstract "ATENÇÃO"
 
     Serão coletadas as informações contidas no teor da mensagem do email, os
-    endereços do remetente, destinatário e cópia oculta do email que é lido e 
+    endereços do remetente, destinatário e cópia oculta do email que é lido e
     usado para registrar uma solicitação de serviço.
 
     Para estas informações serem visualizadas via script Rhino,
@@ -56,6 +56,12 @@ Procedimento
 !!! Abstract "NOTA"
 
     É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest.
+
+Além disso, caso haja a necessidade recuperar outras informações constantes nos campos do e-mail, como destinatários marcados como cópia (CC) ou cópia oculta (BCC) utilize o script Rhino abaixo:
+
+```java
+var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citframework.util); var print = java.lang.System.out; var readEmailDataDTO = serviceRequest.getReadEmailDataDTO(); if (readEmailDataDTO!=null){ print.println("Dados do E-mail de Origem: "); print.println("From: "); print.println(readEmailDataDTO.getMessageFrom()); print.println("To: "); print.println(readEmailDataDTO.getMessageTo()); print.println("CC (Carbon Copy): "); print.println(readEmailDataDTO.getMessageCC()); }
+```
 
 Relacionado
 -------
@@ -74,7 +80,7 @@ Relacionado
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
-    
+
 [1]:/pt-br/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
-  
+
 [2]:/pt-br/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf
