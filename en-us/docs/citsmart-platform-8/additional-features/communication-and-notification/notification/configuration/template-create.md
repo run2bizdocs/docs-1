@@ -15,6 +15,14 @@ Procedure
 
 3.  Complete the fields available;
 
+    !!! note "NOTE"
+    
+        CITSmart now offers the possibility to configure the audible warning reception to 
+        the ticket attendant when a new one is created. To do so, it is necessary to check the 
+        "Sound Notification" option and configure this extension (notification) in the service 
+        flow, as well as check the minimum conditions for the service to work correctly (a sound 
+        and head set to hear the beep)
+    
 4.  Click on "Save".
 
 !!! tip "About"
