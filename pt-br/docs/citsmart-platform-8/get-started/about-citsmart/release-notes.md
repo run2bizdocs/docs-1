@@ -5,8 +5,7 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 ## versao 8.0.1.0 (2019/06/28)
 
-Bem-vindos ao Citsmart Versão 8.0.1.0
-A versão 8.0.1.0 do Citsmart apresenta as seguintes melhorias:
+Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta as seguintes melhorias:
 
 |Melhoria|Descricão|
 |--------|---------|
