@@ -15,9 +15,9 @@ directrices:
     seleccione el mismo. Después de eso, aparecerá la pantalla de registro del
     parámetro con el contenido referente al registro seleccionado;
 
-3.  En el campo valor, introduzca el valor "S" para que se muestren los
+3.  En el campo **valor**, introduzca el valor "S" para que se muestren los
     contratos en la pantalla de registro de unidad. Hecho esto, haga clic en el
-    botón Grabar para efectuar la operación;
+    botón "Grabar" para efectuar la operación;
 
 4.  Después de configurar el parámetro, acceda a la funcionalidad de registro de
     unidad a través de la navegación en el menú principal Registros Generales
