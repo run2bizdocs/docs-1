@@ -23,7 +23,7 @@ Procedimiento
 
 4.  En la pestaña "Cierre" elegir la situación para la opción "Resuelta", completar los datos para cerrar el ticket;
     
-   - Si el tipo de solicitud es "Incidente":
+    - Si el tipo de solicitud es "Incidente":
     
        * Categoría de Solución: seleccionar la categoría de solución del incidente;
          
@@ -33,14 +33,13 @@ Procedimiento
          
        * Guardar Solución/Respuesta en la Base de Conocimiento: para que el checkbox "Guardar Solución/Respuesta en la Base de Conocimiento" sea visible, verificar la parametrización del proceso de Gestión del Conocimiento;
            
-    !!! Abstract "ATENCIÓN"
+         !!! Abstract "ATENCIÓN"
+             Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
     
-        Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo     conocimiento, siendo evaluado previamente para efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
     
-    
-  * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en cuestión;
+       * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en cuestión;
            
-     * Solución Temporal: indicar si la actividad realizada para atender el incidente fue una solución temporal. 
+       * Solución Temporal: indicar si la actividad realizada para atender el incidente fue una solución temporal. 
        
     
     - Si el tipo de solicitud es "Solicitud", completar el campo "Solución Respuesta", describir lo que se realizó para atender 
