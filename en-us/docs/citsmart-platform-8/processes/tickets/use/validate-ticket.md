@@ -34,16 +34,15 @@ Procedure
          * Save Solution/Answer in the Knowledge Base: in order to the checkbox "Save Solution/Answer in the Knowledge Base" is visible,
            check the parametrization of the Knowledge Management process;
            
+           !!! warning "ATTENTION"
+              The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It               is also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
+           
          * Justification of SLA expired: the visibility of this field is conditioned to the SLA status expired for the attendance in
            question;
            
          * Temporary Solution: indicate if the activity performed to attend the incident was a temporary solution.
          
-    - If the type of request is "Request", complete the field ""Answer Solution"", describe what was made to attend the service request.    
-     
-    !!! Abstract "ATTENTION"
-    
-        The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is           also possible to suggest a name for this new knowledge in the Title Knowledge Base field".   
+    - If the type of request is "Request", complete the field ""Answer Solution"", describe what was made to attend the service request. 
 
 5.  Click on the "Option" button and definy the next step:
 
