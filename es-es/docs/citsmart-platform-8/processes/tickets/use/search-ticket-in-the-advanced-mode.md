@@ -11,7 +11,7 @@ Para realizar la búsqueda avanzada de los tickets, es necesario el registro
 previo del mismo, y poseer llamados abiertos, en cualquier situación y
 configurar los siguientes parámetros: 40, 41, 261, 260 (con el valor default
 1-Lista sin restricción), 343 (con el valor default 1-Lista sin restricción) el
-valor por defecto: "S") y el parámetro 343 (si el usuario indica el valor igual
+valor por defecto: "S") y el parámetro 378 (si el usuario indica el valor igual
 a 0, el sistema siempre se descargará en segundo plano. Si el usuario deja el
 campo en blanco, el sistema limita la descarga en segundo plano a cinco mil
 registros. Si el usuario coloca valor superior o inferior a cinco mil registros,
