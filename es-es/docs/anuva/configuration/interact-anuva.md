@@ -12,7 +12,7 @@ Procedimiento
 
 2. Completar la información de la sección **Interés**;
 
-3. En la sección **Habilidad**, seleccionar el tipo Personalizado;
+3. En la sección **Habilidad**, seleccionar el tipo *Personalizado*;
 
 4. Completar la información de la sección API, incluido el ejemplo del cuerpo y de la respuesta;
 
