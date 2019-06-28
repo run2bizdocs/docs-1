@@ -35,9 +35,9 @@ Procedure
            check the parametrization of the Knowledge Management process;
            
          
-         !!! warning "ATTENTION"
+        !!! warning "ATTENTION"
            
-             The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It              is also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
+             The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
              
            
          * Justification of SLA expired: the visibility of this field is conditioned to the SLA status expired for the attendance in
