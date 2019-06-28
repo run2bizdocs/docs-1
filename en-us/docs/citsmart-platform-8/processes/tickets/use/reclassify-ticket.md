@@ -37,7 +37,7 @@ Procedure
 !!! Abstract "RULE"
 
     If the description is edited, it will be displayed in the e-mail notification, the changes made to the
-    description. This e-mail will only be sent if the parameter "Activate - Send
+    description. This e-mail will only be sent if the parameter 231 "Activate - Send
     an e-mail when an incident is edited is activated. The reclassification
     process includes an implicit delegation to the target Group or Attendant, in
     earlier versions the user had to: reclassify, capture the activity and
