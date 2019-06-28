@@ -30,7 +30,7 @@ verificação de e-mail é uma tarefa agendada.
     Ações automáticas \> Ações Incidentes/Requisições (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
-**Passo 2 - Configurar acesso à caixa de e-mail**
+**Passo 2 - Configurar acceso a la bandeja de correo electrónico**
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
     Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado 
