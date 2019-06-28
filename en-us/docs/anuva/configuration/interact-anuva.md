@@ -12,7 +12,7 @@ Procedure
 
 2. Complete the information of the **Interest** section;
 
-3. In the **Ability** section, select the type Customized;
+3. In the **Ability** section, select the type *Customized*;
 
 4. Complete API Section information, including body example and response;
 
