@@ -34,7 +34,7 @@ Procedure
          * Save Solution/Answer in the Knowledge Base: in order to the checkbox "Save Solution/Answer in the Knowledge Base" is visible,
            check the parametrization of the Knowledge Management process;
            
-          !!! warning "ATTENTION"
+         !!! warning "ATTENTION"
            
               The steps of resolution of the Ticket may be suggestion of a new knowledge, being evaluated beforehand to be effective. It is also possible to suggest a name for this new knowledge in the Title Knowledge Base field".
            
