@@ -36,10 +36,9 @@ Procedimiento
            
     !!! Abstract "ATENCIÓN"
     
-        Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para                     efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
-         
-           
-         * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en
+        Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para                     efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".       
+        
+      * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en
            cuestión;
            
          * Solución Temporal: indicar si la actividad realizada para atender el incidente fue una solución temporal.  
