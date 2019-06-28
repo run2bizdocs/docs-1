@@ -34,7 +34,8 @@ Procedimiento
        * Guardar Solución/Respuesta en la Base de Conocimiento: para que el checkbox "Guardar Solución/Respuesta en la Base de Conocimiento" sea visible, verificar la parametrización del proceso de Gestión del Conocimiento;
            
          !!! Abstract "ATENCIÓN"
-             Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
+         
+            Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, siendo evaluado previamente para efectivización.Es posible sugerir también un nombre para este nuevo conocimiento en el campo "Título Base de Conocimiento".
     
     
        * Justificación del SLA expirado: la visibilidad de este campo está condicionada al status de SLA caducado para la atención en cuestión;
