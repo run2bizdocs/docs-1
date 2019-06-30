@@ -1,4 +1,4 @@
-Title: Frequently Asked Questions - FAQ
+Title: FAQ
 description: Here you have the answers for the most common parameters when talking about the CITSmart tool
 
 # Frequently Asked Questions - FAQ
