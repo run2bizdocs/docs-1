@@ -1,4 +1,4 @@
-Title: Preguntas frecuentes - FAQ
+Title: FAQ
 description: Aquí tienes las respuestas de las preguntas más comunes cuando se habla de la herramienta CITSmart.
 
 # Preguntas frecuentes - FAQ
