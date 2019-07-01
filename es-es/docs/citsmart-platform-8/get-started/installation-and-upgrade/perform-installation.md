@@ -465,7 +465,7 @@ org.quartz.jobStore.clusterCheckinInterval = 20000
 org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ```
 
-### Base de Datos Microsoft SQL Server:
+#### Base de Datos Microsoft SQL Server:
 
 ```java
 #============================================================================
@@ -493,7 +493,7 @@ org.quartz.jobStore.clusterCheckinInterval = 20000
 org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ```
 
-### Base de Datos Oracle:
+#### Base de Datos Oracle:
 
 ```java
 #============================================================================
