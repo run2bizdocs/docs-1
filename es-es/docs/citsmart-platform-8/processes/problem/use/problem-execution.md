@@ -33,6 +33,12 @@ Procedimiento
     debe hacer clic en "+ Workspace" y completar los datos disponibles, como, título
     título, seleccionar los usuarios responsables de la ejecución del problema, entre otros.
     Para vincular un Kanban ya creado, basta hacer clic en el otro icono referente al Workspace.
+    
+    !!! Abstract "ATENCIÓN"
+    
+        Al vincular un Kanban ya existente, si el usuario no tiene el permiso de acceso a un 
+        determinado Workspace, el sistema mostrará un mensaje que le indica. El usuario debe 
+        entonces solicitar el permiso en el Workspace y Sprint o crear un nuevo cuadro Kaban.
 
     -   Registrar eventuales errores conocidos a fin de posibilitar la realización de una evaluación por el
     equipo responsable y la difusión de su solución para los interesados. Para ello,
