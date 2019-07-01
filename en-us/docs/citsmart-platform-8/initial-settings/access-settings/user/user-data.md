@@ -1,7 +1,15 @@
-title: Edit user account
-Description: Intended to edit the information about the user profile.
-# Edit user account
+title: Edit Account Information
+Description: It is intended to edit the information about the user profile.
+# Edit Account Information
+
 This functionality is intended to edit the information about the user account.
+
+!!! warning "ATTENTION"
+
+    The changed data in this screen will also be modified in the employee registration screen.
+    
+    This edit setting is not available for LDAP users.
+
 
 Before getting started
 --------------------------
