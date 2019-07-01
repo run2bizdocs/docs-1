@@ -826,3 +826,7 @@ description: Here you have the answers for the most common parameters when talki
         <session-timeout>15</session-timeout>
     </session-config>
     ```    
+
+!!! Question "How can the expiration time of the application sessions be changed?"
+    
+    This type of change is configured in the functionality Parametrization > CITSmart Parameters. Then, select the parameter 449 and add the value you want in minutes. After that, you need to disconnect and reconnect to the system, so the system will look for the new default for session expiration time.
