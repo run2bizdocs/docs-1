@@ -798,6 +798,6 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     ```
     Inserir a configuração em todos os dataSources.
 
-!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
+!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado?"
     
     Este tipo de alteração é configurada na funcionalidade Parametrização > Parâmetros CITSmart. Selecionar, então, o parâmetro 449 e incluir o valor desejado em minutos. Logo após, é necessário desconectar e conectar novamente ao sistema, dessa forma, o sistema buscará o novo padrão para o tempo de expiração de sessões.
