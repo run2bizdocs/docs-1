@@ -3,6 +3,35 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.0 (2019/06/28)
+
+Welcome to Citsmart Version 8.0.1.0. The Version 8.0.1.0 of Citsmart presents the following improvements:
+
+|Improvement|Description|
+|--------|---------|
+|3717|Optimization in Chat, ANUVA and Message Exchange – The entire messaging system has been integrated into Chat, so channels such as Messaging from this version, promote a more iterative dialogue between the requester and the attendant.|
+|3467|Improvement in ticket attendance interface - 1. From this version, the users can dimension the service interface visually in a way that best meets them. 2. The interface became larger giving visibility to the ticket information, and the menus are in a tab that becomes visible only when the attendant needs other resources. 3. The comments have gained their own session where Content Search, Editing, Deletion and Response between attendant and requester and between attendants is allowed. Therefore, the function of public and private conversations was maintained.|
+|3127|Experience Center - Widget of Simple. The resources of this important management tool from this version will be available in the Experience Center, facilitating the work of the teams that treat their activities through it.|
+|1516|We included the possibility to filter by Estimation period of a Workspace and Sprint.|
+|2126|User Profile Improvement: We have included the possibility for the user to edit the following information: Unit, extension, email and telephone.|
+|3491|In the notifications of a ticket, we include the possibility of having an audible alarm that alerts the attendant of the arrival of a new ticket to the service queue.|
+|3875|The option to reclassify is now parameterized through group registration, so the functionality contained in the ticket may or may not be available according to group permission.|
+|4211|On the ticket screen, the email field received an auto complete to make it easier to search for user emails.|
+|2584|Simple - The sprint administrator can assign a specific user the manager accesses of a Sprint.|
+|2134|Simple - Restriction to edit the Administrator access profile.|
+|837|Simple –  Presentation of the quantity of tasks by list in the Sprint|
+|1265|Parameter to enable/disable sending attachments in email notifications|
+|3718|Ticket – Filtering option increment by Date of last Update in the search items.|
+|2588|Simple – Search by part of workspaces, sprints and tasks titles.|
+|2711|Presentation of unread notifications in the foreground.|
+|474|Contract Registration - Allow multiple selection of Units.|
+|2585|Simple - Option to order Workspace and Sprint.|
+|3462|Integration of CITSmart with OKTA|
+|1498|Simple - Presentation of the task number in editing an activity.|
+|3070|Simple – Filter by name of employees and name of TAG.|
+|3911|Smart Portal - After ticket registration, direct the user to "My Requests".|
+|2615|Simple – Search for unselected items.|
+
 ## Version 8.0.0.9 (2019/05/31)
 
 Welcome to the Citsmart Version 8.0.0.9
