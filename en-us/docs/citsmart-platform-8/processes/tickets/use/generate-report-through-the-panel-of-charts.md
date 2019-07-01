@@ -2,7 +2,7 @@ title: Generate report through the panel of charts and reports - request and inc
 
 Description: Generate report through the panel
 
-#Generate report through the panel of charts and reports - request and incident
+# Generate report through the panel of charts and reports - request and incident
 
 The following topics will be addressed to understand how to generate charts and
 reports for incidents and requests.
