@@ -3,6 +3,35 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.1.0 (2019/06/28)
+
+Bienvenidos a Citsmart Versión 8.0.1.0. La versión 8.0.1.0 de Citsmart presenta las siguientes mejoras:
+
+|Mejora|Descripción|
+|--------|---------|
+|3717|Optimización de Chat, ANUVA e Intercambio de Mensajes – Todo el sistema de intercambio de mensajes fue integrado al Chat, luego canales como Mensajería a partir de esa versión, promueve un diálogo más iterativo entre solicitante y asistente.|
+|3467Mejora en la interfaz de servicio de ticket - 1. A partir de esta versión, el usuario podrá dimensionar la interfaz de atención visualmente de forma que mejor el atienda. 2. La interfaz se hizo más grande dando visibilidad a la información del ticket, los menús están en una pestaña que se vuelve visible solamente cuando el operador necesita otros recursos. 3. Los comentarios ganaron una sesión propia donde se permite la Búsqueda de Contenido, Edición, Exclusión y Respuesta entre atendida y solicitante y entre asistentes, pues, se mantuvo la función de conversaciones públicas y privadas.|
+|3127|Centro de Experiencia - Widget del Simple. Los recursos de esta importante herramienta de gestión a partir de esta versión estarán disponibles en el Centro de Experiencia, facilitando el trabajo de los equipos que tratan sus actividades a través de ella.|
+|1516|Se incluyó la posibilidad de filtrar por período de estimación de una Workspace y Sprint.|
+|2126|Mejora en el Perfil de Usuario: Incluimos la posibilidad del propio usuario de editar su siguiente información: Unidad, extensión, correo electrónico y teléfono.|
+|3491|En las notificaciones de un ticket, incluimos la posibilidad de poseer una alarma sonora que alerte al operador de la llegada de un nuevo ticket a la cola de atención.|
+|3875|La opción de reclasificación pasa a ser parametrizada a través de registro de grupos, de modo que la funcionalidad contenida en ticket puede o no estar disponible según permiso en grupo.|
+|4211|En la pantalla de ticket, el campo de correo electrónico recibió un auto completo para facilitar la búsqueda de correos electrónicos de usuarios.|
+|2584|Simple - El administrador de los sprints puede asignar a un usuario específico acceso de gestor de un Sprint.|
+|2134|Simple - Restricción para editar el perfil de acceso de Administrador.|
+|837|Simple – Presentación del cuantitativo de tareas por lista en Sprint|
+|1265|Parámetro para activar/desactivar el envío de datos adjuntos en las notificaciones de correo electrónico|
+|3718|Ticket – Incremento de la opción de filtrado por Fecha de la última actualización en los elementos de búsqueda.|
+|2588|Simple – Búsqueda por parte de los títulos de las workspaces, sprints y tareas.|
+|2711|Presentación de las notificaciones no leídas en primer plano.|
+|474|Registro de Contrato - Permitir una selección múltiple de unidades.|
+|2585|Simple - Opción de ordenar Workspace y Sprint.|
+|3462|Integración del Citsmart con OKTA|
+|1498|Simple - Presentación del número de tarea en la edición de una actividad.|
+|3070|Simple – Filtro por nombre de colaboradores y nombre de TAG|
+|3911|Smart Portal - Después del registro de ticket dirigir al usuario a "My Requests".|
+|2615|Simple – Búsqueda por elementos no seleccionados.|
+
 ## Versión 8.0.0.9 (2019/05/31)
 
 Bienvenidos a Citsmart Versión 8.0.0.9
