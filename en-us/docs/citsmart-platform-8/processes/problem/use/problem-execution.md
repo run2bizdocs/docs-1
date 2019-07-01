@@ -34,6 +34,13 @@ Procedure
     such as title, select the users responsible for the execution of the 
     problem, and others. To link a Kanban already created, just click on 
     the other icon, related to the Workspace.
+    
+    !!! Abstract "ATTENTION"
+    
+        When linking an existing Kanban, if the user does not have permission to 
+        access a particular Workspace, the system will display a message informing you. 
+        The user must then request permission in Workspace and Sprint or create a new 
+        Kaban framework.
 
     -   Register any known error in order to enable the evaluation by the
     responsible team, and the diffusion of your solution for the ones interested.
