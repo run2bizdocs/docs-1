@@ -4,6 +4,14 @@ Description: Tiene por objetivo editar información sobre el perfil del usuario.
 
 Esta funcionalidad tiene por objeto permitir editar la información de la cuenta de usuario.
 
+!!! warning "ATENCIÓN"
+
+    Los datos modificados en esta pantalla se modificarán también en la pantalla de registro 
+    del colaborador.
+    
+    Esta configuración de edición no está disponible para los usuarios LDAP. 
+
+
 Antes de empezar
 --------------------
 
