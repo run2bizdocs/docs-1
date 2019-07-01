@@ -28,7 +28,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta 
 |2585|Simple - Opção de ordenar Workspace e Sprint.|
 |3462|Integração do Citsmart com OKTA|
 |1498|Simple -  Apresentação do número da tarefa na edição de uma atividade.|
-|3070|Simple – Filtro por nome de colaboradores e nome de TAG’s.|
+|3070|Simple – Filtro por nome de colaboradores e nome de TAG.|
 |3911|Smart Portal - Após registro de ticket direcionar o usuário para "My Requests".|
 |2615|Simple – Busca por itens não selecionados.|
 
