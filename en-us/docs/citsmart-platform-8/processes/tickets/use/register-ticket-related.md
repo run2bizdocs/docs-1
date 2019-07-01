@@ -1,6 +1,6 @@
 title: Register ticket related
 Description: This functionality allows to register a ticket with activities related to the original ticket.
-#Register ticket related
+# Register ticket related
 
 In the related ticket, you can only create a sub-request through the original request and view it after creation.
 
