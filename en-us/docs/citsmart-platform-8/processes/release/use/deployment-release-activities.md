@@ -1,6 +1,6 @@
 title: Activities of the deployment release phase
 Description: This functionality is intended to plan the activities to be deployed to the release. 
-#Activities of the deployment release phase
+# Activities of the deployment release phase
 
 This functionality is intended to plan the activities to be deployed to the release.
 
