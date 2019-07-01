@@ -1,6 +1,6 @@
 title: Audit a ticket
 Description: Allows to audit the tickets created. 
-#Audit a ticket
+# Audit a ticket
 This functionality allows to audit the tickets created.
 
 Before getting started
