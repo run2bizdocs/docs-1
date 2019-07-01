@@ -7,7 +7,7 @@ A funcionalidade permite a auditoria dos tickets criados.
 Antes de começar
 ----------------
 
-É necessário o cadastro prévio dos tickets.
+É necessário o cadastro prévio dos tickets e ter permissão de acesso.
 
 Procedimento
 ------------
