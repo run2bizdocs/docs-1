@@ -2,8 +2,7 @@ Title: Hacer la instalación
 
 # Hacer la instalación
 
-Instalación del Servidor de Aplicación Wildfly
--------------------------------------------
+## Instalación del Servidor de Aplicación Wildfly
 
 1. Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
 simbólico conforme mostrado en el ejemplo abajo. *(Caso ya tenga hecho la
@@ -155,6 +154,8 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 En el bash del CLI ejecute los comandos siguientes para creación de las propiedades del
 CITSmart.
 
+#### CLI
+
 ```java
 /system-property=mongodb.host:add(value="mongodb.citsmart.com")
 /system-property=mongodb.port:add(value="27017")
@@ -173,6 +174,30 @@ CITSmart.
 /system-property=rhino.scripts.directory:add(value="")
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength"(value="100")
+```
+
+#### XML
+
+```java
+<system-properties>
+    <property name="mongodb.host" value="citmongo"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="admin"/>
+    <property name="mongodb.password" value="admin"/>
+    <property name="citsmart.protocol" value="http"/>
+    <property name="citsmart.host" value="my.citsmartcloud.com"/>
+    <property name="citsmart.port" value="8080"/>
+    <property name="citsmart.context" value="citsmart"/>
+    <property name="citsmart.login" value="citsmart.local\\\consultor"/>
+    <property name="citsmart.password" value="senhaConsultor"/>
+    <property name="citsmart.inventory.id" value="citsmartinventory"/>
+    <property name="citsmart.evm.id" value="citsmartevm"/>
+    <property name="citsmart.evm.enable" value="false"/>
+    <property name="citsmart.inventory.enable" value="false"/>
+    <property name="rhino.scripts.directory" value=""/>
+    <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+</system-properties>
 ```
 
 ### Configuración de los Datasources
@@ -355,9 +380,9 @@ PostgreSQL*.
 
 2. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
-```sh
-[standalone\@localhost:9990 /] :reload
-```
+    ```sh
+    [standalone\@localhost:9990 /] :reload
+    ```
 
 ## Crear archivo citsmart.cfg
 
@@ -379,11 +404,123 @@ PostgreSQL*.
     ```
 
 
-!!! Abstract "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
     
-    No olvides de cambiar el dueño de los archivos y directorios para el usuario
-    CITSmart.
+       No olvides de cambiar el dueño de los archivos y directorios para el usuario
+       CITSmart.
 
+## Configuración del Quartz
+
+El procesamiento Batch de CITSmart utiliza Quartz para la programación y el procesamiento de rutinas de sistema. Para configurarlo, siga el procedimiento:
+
+1. Criar un archivo de nombre "quartz.properties" que contiene los datos siguientes, según su tipo de instalación (standalone o cluster);
+2. Guardar este archivo en la carpeta de configuración del servidor de aplicaciones.
+
+### Instalación Standalone (independiente de base de datos)
+
+```java
+#===============================================================
+#Configure Main Scheduler Properties
+#===============================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#===============================================================
+#Configure ThreadPool
+#===============================================================
+org.quartz.threadPool.threadCount =  5
+org.quartz.threadPool.threadPriority = 5
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+#===============================================================
+#Configure JobStore
+#===============================================================
+org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
+```
+
+### Instalación Cluster
+
+#### Base de Datos Postgres:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+### Base de Datos Microsoft SQL Server:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+### Base de Datos Oracle:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
 
 ## Creación de directorios para instalación
 
@@ -407,7 +544,7 @@ PostgreSQL*.
     ```
     **Para Palavras homónimas**:
 	
-	```sh
+    ```sh
     mkdir /opt/citsmart/twinwords
     ```
     **Para Anexos de Base de Conhecimento**:
