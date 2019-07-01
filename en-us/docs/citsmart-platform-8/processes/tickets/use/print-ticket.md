@@ -1,7 +1,7 @@
 title: Print ticket
 
 Description: Aims to print the summary the main data of a ticket.
-#Print ticket
+# Print ticket
 This functionality aims to print the summary the main data of a ticket.
 
 Before getting started
