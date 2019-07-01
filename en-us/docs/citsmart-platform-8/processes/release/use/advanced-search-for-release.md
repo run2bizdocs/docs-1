@@ -1,6 +1,6 @@
 title: Advanced search for closed release registration
 Description: Allows to search the release according to the filters defined.
-#Advanced search for closed release registration
+# Advanced search for closed release registration
 This functionality allows to search the release request according to the filters defined.
 
 Procedure
