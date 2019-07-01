@@ -2,7 +2,7 @@ title:  Schedule ticket activity
  
 Description: This functionality schedules the activities from the ticket.
  
-#Schedule ticket activity
+# Schedule ticket activity
 This functionality schedules the activities from the ticket.
 
 Before getting started
