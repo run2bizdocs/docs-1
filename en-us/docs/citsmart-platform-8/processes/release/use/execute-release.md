@@ -1,6 +1,6 @@
 title: Execute release
 Description:Allows to register the information about the execution of the change's release. 
-#Execute release
+# Execute release
 This functionality allows to register the information about the execution of the change's release.
 
 Before getting started
