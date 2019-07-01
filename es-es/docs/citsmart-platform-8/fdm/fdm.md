@@ -52,7 +52,7 @@ Artefactos de la FDM
 
 Los modelos de documentos utilizados y los artefactos generados en la aplicación de la FDM, listados a continuación, son esenciales para la trazabilidad y medición de los resultados alcanzados con el uso de la metodología. 
 
-| Artefato                                         | Data       | Versão |
+| Artefacto                                        | Fecha      | Versión |
 |--------------------------------------------------|------------|--------|
 | Checklist de la metodología                      | 21/05/2019 | V.1    |
 | Gestión de riesgos (template)                    | 21/05/2019 | V.1    |
