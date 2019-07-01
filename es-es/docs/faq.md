@@ -834,3 +834,6 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     </session-config>
     ```
     
+!!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
+    
+    Este tipo de cambio se configura en la característica Parametrización > Parámetros CITSmart. Seleccione el parámetro 449 e incluya el valor deseado en minutos. Además, es necesario desconectar y conectar nuevamente al sistema, de esta forma, el sistema buscará el nuevo estándar para el tiempo de expiración de sesiones.
