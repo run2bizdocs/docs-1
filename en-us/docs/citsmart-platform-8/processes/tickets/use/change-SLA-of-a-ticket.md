@@ -2,7 +2,7 @@ title: Change SLA of a ticket
 
 Description: Change the SLA of the ticket means modify its time of attendance, by extending or shortening the period of execution.
 
-#Change SLA of a ticket
+# Change SLA of a ticket
 Change the SLA of the ticket means modify its time of attendance, by extending or shortening the period of execution.
 
 Before getting started
