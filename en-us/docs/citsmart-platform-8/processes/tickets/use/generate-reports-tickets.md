@@ -1,6 +1,6 @@
 title: Generate reports - Request and Incident management  
 Description: It allows you to generate reports in various ways about request and indent management
-#Generate reports - Request and Incident management
+# Generate reports - Request and Incident management
 
 ##Generate reports of causes and solutions
 
