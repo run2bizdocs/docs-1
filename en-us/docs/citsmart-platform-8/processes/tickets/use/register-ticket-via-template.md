@@ -1,7 +1,7 @@
 title: Register ticket via template
 
 Description: Allows to register a ticket via template.
-#Register ticket via template
+# Register ticket via template
 This functionality allows to register a ticket via template.
 
 Before getting started
