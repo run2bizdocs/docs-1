@@ -406,8 +406,7 @@ PostgreSQL*.
 
     !!! Abstract "ATENCIÓN"
     
-       No olvides de cambiar el dueño de los archivos y directorios para el usuario
-       CITSmart.
+         No olvides de cambiar el dueño de los archivos y directorios para el usuario CITSmart.
 
 ## Configuración del Quartz
 
