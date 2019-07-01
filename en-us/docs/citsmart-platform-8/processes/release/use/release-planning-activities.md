@@ -1,6 +1,6 @@
 title: Activities of the release planning phase
 Description: This functionality allows to plan the activities to be executed with the release.
-#Activities of the release planning phase
+# Activities of the release planning phase
 This functionality allows to plan the activities to be executed with the release.
 
 Before getting started
