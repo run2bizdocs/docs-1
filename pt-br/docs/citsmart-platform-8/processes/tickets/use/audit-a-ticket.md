@@ -13,7 +13,7 @@ Procedimento
 ------------
 
 1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
 2.  Clicar no primeiro botão localizado no canto superior esquerdo e logo após
     clicar no item de "Auditoria";
