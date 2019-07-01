@@ -1,7 +1,7 @@
 title: Locate a ticket
 
 Description: The ticket list screen, sometimes can bring an extensive relation of items.
-#Locate a ticket
+# Locate a ticket
 The ticket list screen, sometimes can bring an extensive relation of items. The search field allows a quick directing to the item you want, through its number or task name.
 
 Before getting started
