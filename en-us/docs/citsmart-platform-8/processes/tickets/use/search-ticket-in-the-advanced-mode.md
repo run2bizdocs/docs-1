@@ -2,7 +2,7 @@ title:  Search ticket in the advanced mode
  
 Description: This functionality allows to refine the ticket search through filters.
 
-#Search ticket in the advanced mode
+# Search ticket in the advanced mode
 This functionality allows to refine the ticket search through filters.
 
 Before getting started
