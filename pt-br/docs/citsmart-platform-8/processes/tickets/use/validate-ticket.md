@@ -24,7 +24,7 @@ Procedimento
 3.  Certificar se o atendimento do ticket foi realizado de acordo com o que foi
     solicitado;
 
-4.  Na guia “Fechamento” escolher a situação para a opção “Resolvida”, preencher
+4.  Na área “Situação” escolher a opção “Resolvida”, preencher
     os dados para encerrar o ticket;
 
     - Se o tipo de solicitação for "Incidente":
