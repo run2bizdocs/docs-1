@@ -1,6 +1,6 @@
-title: Create and view sub-request
-Description: It's possible to create sub-requests through the main request and view them after created.
-#Create and view sub-request
+title: Create and view sub-ticket
+Description: It's possible to create sub-ticket through the main request and view them after created.
+# Create and view sub-ticket
 
 This functionality allows to register a ticket with activities related to the original ticket.
 
