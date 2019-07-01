@@ -52,11 +52,11 @@ Procedimento
 
         Os passos de resolução do Ticket podem ser a sugestão de um novo conhecimento, sendo avaliado previamente para efetivação. É possível sugerir também um nome para este novo conhecimento no campo "Título Base de Conhecimento".
 
-5.  Clicar no botão “Opções” e definir a etapa seguinte da solicitação:
+5.  Clicar no botão flutuante “Opções” e definir a etapa seguinte da solicitação:
 
-     -   “Gravar e manter a tarefa atual”;
+     -   “Salvar alterações”;
 
-     -   “Gravar e avançar o fluxo”.
+     -   “Enviar ticket”.
 
 
 Relacionado
