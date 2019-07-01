@@ -1,7 +1,7 @@
 title: Create escalation rule
 
 Description: Allows to create escalation rules in order provide a perspective of impact to the company by managing the attendance of tickets (and its requests and incidents) within a pre-established adequate time
-#Create escalation rule
+# Create escalation rule
 This functionality allows to create escalation rules in order provide a perspective of impact to the company by managing the attendance of tickets (and its requests and incidents) within a pre-established adequate time. When creating rules for the notification of the responsible when the ticket is at critical level of rupture of its SLA, is possible to avoid this through preventive actions and escalate this service to other executor groups and thus respect their time of attendance.
 This feature provides a variety of actions, such as including, changing, and deleting the escalation rule.
 
