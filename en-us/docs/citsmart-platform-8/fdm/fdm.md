@@ -55,7 +55,7 @@ FDM Artifacts
  listed below, are essential for the traceability and measurement of results
  achieved using the methodology. 
  
-| Artefato                                  | Data       | Versão |
+| Artifact                                  | Date       | Version |
 |-------------------------------------------|------------|--------|
 | Methodology Checklist                     | 05/21/2019 | V.1    |
 | Risk management (template)                | 05/21/2019 | V.1    |
