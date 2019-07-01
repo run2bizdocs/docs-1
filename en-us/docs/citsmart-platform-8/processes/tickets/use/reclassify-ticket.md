@@ -1,7 +1,7 @@
 title: Reclassify ticket
 
 Description: It's possible to reclassify the information of a ticket after its opening
-#Reclassify ticket
+# Reclassify ticket
 After create a ticket, it's possible to reclassify the information of a ticket after its opening. This option sends an e-mail to the request, informing about the change made.
 It's not allowed to delegate a ticket to an attendant if its status is Solved.
 
