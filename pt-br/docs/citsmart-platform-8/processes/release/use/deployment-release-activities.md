@@ -23,7 +23,11 @@ Procedimento
     Basta apertar no botão "+ Novo work" (disponibilizado na área chamada
     "Atividades") e preencher os dados disponibilizados, tais como o título, sua
     fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros;
+    responsáveis para a execução das tarefas, dentre outros. Também, é possível vincular a       liberação um Kaban já criado;
+    
+    !!! note "NOTA"
+    
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban. 
 
 4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
     notas, documentos e notificações do sistema à liberação. Para
