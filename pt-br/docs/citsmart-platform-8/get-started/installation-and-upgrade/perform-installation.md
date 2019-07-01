@@ -541,7 +541,7 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
     ```
     **Para Palavras Sinônimas**:
 	
-	```sh
+    ```sh
     mkdir /opt/citsmart/twinwords
     ```
     **Para Anexos de Base de Conhecimento**:
