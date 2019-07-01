@@ -1,6 +1,6 @@
 title: Generate reports - event management
 Description: Intended to present the event occurrences that were stored in the events database (MongoDB).
-#Generate reports - event management
+# Generate reports - event management
 This report is intended to present the event occurrences that were stored in the events database (MongoDB).
 
 Procedure
