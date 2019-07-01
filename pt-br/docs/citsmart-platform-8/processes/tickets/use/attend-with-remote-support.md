@@ -19,7 +19,7 @@ Procedimento
 2.  Selecionar o ticket, clicar sobre o mesmo e em seguida no botão “Abrir” para
     capturar;
 
-3.  Clicar na guia IC Relacionado;
+3.  Clicar no botão toogle (localizado no canto superior direito da tela) e em seguida, na guia IC Relacionado;
 
 4.  Pesquisar pelo item de configuração e clicar no botão "Selecionar";
 
