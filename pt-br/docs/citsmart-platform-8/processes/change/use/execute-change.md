@@ -27,6 +27,10 @@ Procedimento
     responsáveis para a execução das tarefas, dentre outros. Também é permitido
     vincular um quadro já criado ao clicar no outro botão relacionado ao
     “Workspace”.
+    
+    !!! note "NOTA"
+    
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban.
 
 5.  Ainda é possível vincular incidentes, problemas, lições aprendidas (que são
     basicamente conhecimentos que dizem respeito a mudança efetuada) e anexos de
