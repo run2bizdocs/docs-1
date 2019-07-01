@@ -1,7 +1,7 @@
 title: Hierarchical escalation in the attendance
 
 Description: It's possible to escalate the attendance to another hierarchical level.
-#Hierarchical escalation in the attendance
+# Hierarchical escalation in the attendance
 The attendant, when solving a user problem, identifies that its demand is out of his/her policy and all the action possible to execute it, so, it's possible to escalate the attendance to another hierarchical level.
 
 Before getting started
