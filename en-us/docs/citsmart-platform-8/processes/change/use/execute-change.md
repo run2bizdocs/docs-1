@@ -26,6 +26,12 @@ Procedure
     title, select the user or group responsible for the task execution, and others.
     It's also allowed to link a Kaban already created by clickin on the other buton
     related to the “Workspace”.
+    
+    !!! note "NOTE"
+    
+        When linking an existing Kanban, if the user does not have permission to access 
+        a particular Workspace, the system will display a message informing it. The user 
+        must then request permission in Workspace and Sprint or create a new Kaban framework.
 
 5.  It's also possible to link incidents, problems, lessons learned (which are
     knowledge about the change made) and files attachments to detail the change
