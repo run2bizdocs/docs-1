@@ -26,7 +26,7 @@ Procedure
 2.  Click on the ticket you want and select "Create sub-ticket" in the
     options menu;
 
-3.  Complete all mandatory fields and click on "Save'. The ticket related will
+3.  Complete all mandatory fields and click on "Save'. The sub-ticket will
     be directed to the executor group defined in the activity link registration,
     to the executor group defined in the parameter 9;
 
