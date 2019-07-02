@@ -15,6 +15,18 @@ In the Simple workspace, activities are inserted and grouped by projects
 (in Simple called Workspace), task pane (in Simple called Sprint) and finally
 tasks, which can be in groups of cards.
 
+!!! Abstract "ATTENTION"
+
+    Permissions in the Workspace and Sprint (located on Settings > Profiles and 
+    Permissions), when the *administrator* is logged in, it will be selected by 
+    default and cannot be changed. Only when the user is of type *normal*, the 
+    permissions will be editable.
+    
+!!! warning "ATTENTION"
+
+    The language in the columns that appear on the **My notifications screen (bell icon)** 
+    will follow what was set in parameter 66 (Default language of the system).
+
 Procedure
 ------------
 
@@ -38,7 +50,13 @@ Procedure
     bigger than 24hs from the current date/time;
 
     -   Total: sum of the **Sprints** inside the Workspace.
-    
+
+!!! Abstract "ATTENTION"
+
+    The workspace administrator can change the project manager (administrator permission) 
+    in each sprint. If the user is not the administrator of the workspace, it is not possible 
+    to give the administrator permission to another user.
+
 !!! Abstract "ATTENTION"    
 
     To move a **workspace** by changing its ordering, click and drag it to the desired 
@@ -46,8 +64,14 @@ Procedure
     
 !!! Abstract "NOTE"
 
-    The search field looks for any information that is in any other workspace, sprint, 
-    list or task.
+    The search field looks for any information that is in any other workspace, sprint, list 
+    or task. To optimize the search, a new filter has been created that allows selecting 
+    activities by the estimated date of its development (the period of its beginning and 
+    conclusion). To use it, it is necessary to follow the instructions:
+    1. For the correct operation of this field it is necessary that the Workspace, Sprint 
+    and activity have an estimated date of beginning and end;
+    2. Make the search. The system will then return a list of Workspaces, Sprints, and 
+    Activities that are among the date referenced in the search.
 
 
 ***II - Create a Sprint***
