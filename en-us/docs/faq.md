@@ -343,11 +343,11 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "What is the meaning of each inventory status of CI?"
     
-    -   Inventory - the inventory was able to read the CI information and ended successfully;
-    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
-    -   Unreachable - when the server encounters the IC but can not bring the information;
-    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed;
-    -   Running - while reading the inventory, the IC is in this status.
+    -   Inventory: the inventory was able to read the CI information and ended successfully;
+    -   Ignored: in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Unreachable: when the server encounters the IC but can not bring the information;
+    -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
+    -   Running: while reading the inventory, the IC is in this status.
 
 ***Configuration***
 
@@ -525,7 +525,7 @@ description: Here you have the answers for the most common parameters when talki
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
 
-!!! Question "How to enable the Service Portal(Smart Portal)?"
+!!! Question "How to enable the Service Portal (Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
@@ -775,8 +775,7 @@ description: Here you have the answers for the most common parameters when talki
     
     1- Postgresql database configuration file:
     
-    Postgresql.conf
-    timezone = 'BRAZIL/EAST'
+    Postgresql.conf - timezone = 'BRAZIL/EAST'
     
     2- On the container cloud:
     
