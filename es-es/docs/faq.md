@@ -832,21 +832,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
     ```
     Inserte la configuración en todos los dataSources.
-   
-!!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
-
-    Este tipo de cambio se realiza de forma manual por el administrador del sistema directamente dentro del archivo web.xml.
-    Sólo tienes que introducir el tiempo deseado (en minutos) en la sesión <session-timeout>.
-    La instalación del producto deja como valor predeterminado el valor 30.
-    
-    - Ejemplo:
-    
-    ```java
-    <session-config>
-        <session-timeout>15</session-timeout>
-    </session-config>
-    ```
-    
+      
 !!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
     
     Este tipo de cambio se configura en la característica Parametrización > Parámetros CITSmart. Seleccione el parámetro 449 e incluya el valor deseado en minutos. Además, es necesario desconectar y conectar nuevamente al sistema, de esta forma, el sistema buscará el nuevo estándar para el tiempo de expiración de sesiones.
