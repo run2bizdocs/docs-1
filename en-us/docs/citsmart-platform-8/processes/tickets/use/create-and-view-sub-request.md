@@ -21,7 +21,7 @@ Procedure
 -------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+    \> Ticket Management \> Ticket;
 
 2.  Click on the ticket you want and select "Create subrequest" in the
     options menu;
