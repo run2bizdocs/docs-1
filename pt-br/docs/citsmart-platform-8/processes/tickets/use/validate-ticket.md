@@ -1,5 +1,4 @@
 title: Validar e encerrar o ticket
-
 Description: Após o atendimento do ticket, a execução do mesmo deverá ser validada e o ticket encerrado.
 
 # Validar e encerrar o ticket
@@ -16,7 +15,7 @@ Procedimento
 ------------
 
 1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
 2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no
     ícone “Abrir”;
@@ -33,20 +32,28 @@ Procedimento
 
         * Detalhamento da Causa: descrever os detalhes da causa do incidente;
 
-        * Solução Resposta: descrever os detalhes da solução que foi realizada para atendimento do incidente;
+        * Solução Resposta: descrever os detalhes da solução que foi realizada 
+          para atendimento do incidente;
 
-        * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox "Gravar Solução/Resposta na Base de Conhecimento" esteja
-          visível, verificar a parametrização do processo de Gestão do Conhecimento;
+        * Gravar Solução/Resposta na Base de Conhecimento: para que o checkbox 
+          "Gravar Solução/Resposta na Base de Conhecimento" esteja visível,
+          verificar a parametrização do processo de Gestão do Conhecimento;
 
-            !!! warning "ATENÇÃO"
-                Para que a opção “Gravar solução/Resposta na Base de Conhecimento” fique disponível ao marcar a opção “Resolvida” do ticket, é necessário configurar os parâmetros 182 e 192.
+         !!! warning "ATENÇÃO"
+            
+                Para que a opção “Gravar solução/Resposta na Base de Conhecimento” 
+                fique disponível ao marcar a opção “Resolvida” do ticket, é necessário 
+                configurar os parâmetros 182 e 192.
 
-        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao status de SLA vencido para o atendimento em questão;
+        * Justificativa SLA vencido: a visibilidade desse campo está condicionada ao 
+          status de SLA vencido para o atendimento em questão;
 
-        * Solução Temporária: indicar se a atividade realizada para atendimento do incidente foi uma solução temporária.
+        * Solução Temporária: indicar se a atividade realizada para atendimento do 
+          incidente foi uma solução temporária.
 
 
-    - Se o tipo de solicitação for "Requisição", preencher o campo "Solução Resposta", descrever o que foi realizado para atendimento da requisição de serviço.
+    - Se o tipo de solicitação for "Requisição", preencher o campo "Solução Resposta", 
+      descrever o que foi realizado para atendimento da requisição de serviço.
 
     !!! Abstract "ATENÇÃO"
 
