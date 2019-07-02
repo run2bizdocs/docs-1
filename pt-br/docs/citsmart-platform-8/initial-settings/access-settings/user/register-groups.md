@@ -1,4 +1,4 @@
-title: Cadastrar um grupo
+title: Criar um grupo
 Description: Permite o cadastro de grupos e o vínculo deles com usuários, um perfil, contratos e e-mails para notificação.
 
 
