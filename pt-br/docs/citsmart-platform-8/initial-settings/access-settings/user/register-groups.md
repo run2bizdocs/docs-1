@@ -31,42 +31,42 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
 
 3.  Preencher os campos disponibilizados;
 
-- **Informações básicas**
+    - **Informações básicas**
 
-|Campo|Descrição|
-|-|-|
-|Nome *	|[Name of Group]|
-|Sigla *	|[NoG]|
-|ID Grupo|[01] - Gerado automaticamente|
-|Líder|[NameEmployee] - Usado para identificar o gestor do grupo|
-|Perfil de Acesso *	|[Profile] - Perfil de acesso herdado|
-|Grupo de Service Desk|[Sim/Não] - Se o grupo faz atendimento (=SIM), caso contrário o grupo não aparece na lista de grupos para direcionamento/delegação de tickets|
-|Solicitante do Chat|[Sim/não] - Se os integrantes do grupo podem abrir tickets via chat|
-|Comitê Consultivo de Mudanças|[Sim/Não] - Se o grupo faz parte de um CCM (Gerência de Mudança)|
-|Suspensão / Reativação|Parâmetro para permitir a suspensão/reativação de tickets independentemente das permissões no fluxo de trabalho (reativar/suspender)|
-|Notificações de e-mail Obrigatórias (Abertura, Andamento e Encerramento)|Caso habilitado, torna o envio de e-mail - oriundo das diversas ações dos fluxos - obrigatório (não configurável pelo atendente). Ao deixar desabilitado, o atendente poderá configurar as opções de envio de e-mail.|
-|Descrição|Detalhes para ajudar na identificação do grupo|
+    |Campo|Descrição|
+    |-|-|
+    |Nome *	|[Name of Group]|
+    |Sigla *	|[NoG]|
+    |ID Grupo|[01] - Gerado automaticamente|
+    |Líder|[NameEmployee] - Usado para identificar o gestor do grupo|
+    |Perfil de Acesso *	|[Profile] - Perfil de acesso herdado|
+    |Grupo de Service Desk|[Sim/Não] - Se o grupo faz atendimento (=SIM), caso contrário o grupo não aparece na lista de grupos para direcionamento/delegação de tickets|
+    |Solicitante do Chat|[Sim/não] - Se os integrantes do grupo podem abrir tickets via chat|
+    |Comitê Consultivo de Mudanças|[Sim/Não] - Se o grupo faz parte de um CCM (Gerência de Mudança)|
+    |Suspensão / Reativação|Parâmetro para permitir a suspensão/reativação de tickets independentemente das permissões no fluxo de trabalho (reativar/suspender)|
+    |Notificações de e-mail Obrigatórias (Abertura, Andamento e Encerramento)|Caso habilitado, torna o envio de e-mail - oriundo das diversas ações dos fluxos - obrigatório (não configurável pelo atendente). Ao deixar desabilitado, o atendente poderá configurar as opções de envio de e-mail.|
+    |Descrição|Detalhes para ajudar na identificação do grupo|
 
-- **Contratos**
+    - **Contratos:**
 
-- **Permissões nos Fluxos de trabalho**
+    - **Permissões nos Fluxos de trabalho**
 
     |Ação```*```| Descrição|
-	|-|-|
-	|Criar|Permissão para registrar um ticket|
-	|Executar|Permissão para executar um ticket|
-	|Delegar|Permissão para delegar um ticket|
-	|Suspender|Permissão para suspender um ticket|
-	|Reativar|Permissão para reativar um ticket|
-	|Alterar SLA|Permissão para alterar a SLA de um ticket|
-	|Reabrir|Permissão para reabrir um ticket|
-	|Cancelar|Permissão para cancelar um ticket|
-	|Reclassificar|Permissão para reclassificar um ticket|
+	  |-|-|
+	  |Criar|Permissão para registrar um ticket|
+	  |Executar|Permissão para executar um ticket|
+    |Delegar|Permissão para delegar um ticket|
+	  |Suspender|Permissão para suspender um ticket|
+    |Reativar|Permissão para reativar um ticket|
+    |Alterar SLA|Permissão para alterar a SLA de um ticket|
+	  |Reabrir|Permissão para reabrir um ticket|
+    |Cancelar|Permissão para cancelar um ticket|
+    |Reclassificar|Permissão para reclassificar um ticket|
 
-```*```Selecionar apenas permissões específicas para o contexto de atuação.
+    ```*```Selecionar apenas permissões específicas para o contexto de atuação.
 
-- **Colaboradores (usuários do sistema):** membros do grupo.
-- **E-mail:** endereços e e-mail que receberão as notificações originadas em em um fluxo de trabalho. Esta opção é bastante útil quando é necessário tornar uma pessoa "informada" das interações do grupo.
+    - **Colaboradores (usuários do sistema):** membros do grupo.
+    - **E-mail:** endereços e e-mail que receberão as notificações originadas em em um fluxo de trabalho. Esta opção é bastante útil quando é necessário tornar uma pessoa "informada" das interações do grupo.
 
 4.  Definir as configurações que sejam necessárias;
 5.  Clicar em "Gravar".
