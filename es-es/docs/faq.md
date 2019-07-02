@@ -790,22 +790,24 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 !!! Question "¿Por qué los horarios creados por la herramienta son diferentes de la hora actual?"
     
     ESCENARIO
+    
     1. Al crear un ticket, la hora es diferente a la hora real, alternando entre 1 (una) a 3 (tres) horas de retraso o antelación.
 
     QUÉ VERIFICAR
+    
     1. Archivo de configuración del Banco Postgresql:
     
-         - Postgresql.conf
+        - Postgresql.conf
        
-         - timezone = 'BRAZIL/EAST'   
+        - timezone = 'BRAZIL/EAST'   
      
     2. En el container cloud:
     
-         - Setting timezone on the operating system. 
+        - Setting timezone on the operating system. 
      
     3.Configuración de TimeZone en JRE: 
     
-         - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+        - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
 !!! Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
     
