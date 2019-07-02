@@ -39,9 +39,9 @@ Procedimiento
            
         !!! warning "ATENCIÓN"
          
-            Los pasos de resolución del Ticket pueden ser sugerencia de un nuevo conocimiento, 
-            siendo evaluado previamente para efectivización.Es posible sugerir también un nombre 
-            para este nuevo conocimiento en el campo "Título Base de Conocimiento".
+            Para que la opción "Guardar solución/Respuesta en la Base de Conocimiento" 
+            esté disponible al marcar la opción "Resuelta" del ticket. Es necesario 
+            configurar los parámetros 182 y 192.
     
     
        * Justificación del SLA expirado: la visibilidad de este campo está condicionada 
