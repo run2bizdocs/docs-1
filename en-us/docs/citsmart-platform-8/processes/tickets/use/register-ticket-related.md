@@ -10,21 +10,23 @@ Before getting started
 It's necessary to previously register the ticket, employee and unit, in addition
 to have permission to register the ticket.
 
-##Procedure
+Procedure
+------------
 
-1.  Access the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+1.  Access the main menu Processes \> Ticket Management \> Ticket;
 
-2.  To create the sub-request:
+2.  To create a related ticket:
 
-    -   Click on the ticket you want and select "Create related request" in the
-        options menu;
+    -   Click on the ticket you want and select "Create related ticket" in the
+        menu More Options;
 
     -   Complete all necessary field and click on "Save".
 
 3.  To view the related ticket:
 
-    -   In the Ticket column, search for the ticket that made the relation and will appear below the number one button called "Related Requests". 
+    -   In the Ticket column, search for the ticket that made the relationship,
+        click on the toogle button (placed in the upper right side of the screen)
+        and then on the "Related Ticket" tab. 
  
  
 !!! Abstract "ATTENTION"
