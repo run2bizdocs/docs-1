@@ -165,7 +165,7 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group);
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same;
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
@@ -383,9 +383,9 @@ description: Here you have the answers for the most common parameters when talki
     8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
     10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
-    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)";
+    11. Perform the search for the parameter "94 - Name of the group of ICs that are in the Production Phase (Ex: CIs in Homologation)";
     12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
-    13. On the Value field, insert the name of the CI group in confirmation phase;
+    13. In the value field, enter the name of the CI group of the homologation phase;
     14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
 
 !!! Question "How to define the obligatoriness of linking the change with the CI?"
