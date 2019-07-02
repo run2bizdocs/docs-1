@@ -814,19 +814,5 @@ description: Here you have the answers for the most common parameters when talki
     Enter the configuration of all dataSources.
 
 !!! Question "How can the expiration time of the application sessions be changed?"
-
-    This type of change is done manually by the System Administrator directly inside the web.xml file.
-    Just enter the desired time (in minutes) in the <session-timeout> session.
-    The product installation makes default the value 30.
-    
-    - Example:
-
-    ```java
-    <session-config>
-        <session-timeout>15</session-timeout>
-    </session-config>
-    ```    
-
-!!! Question "How can the expiration time of the application sessions be changed?"
     
     This type of change is configured in the functionality Parametrization > CITSmart Parameters. Then, select the parameter 449 and add the value you want in minutes. After that, you need to disconnect and reconnect to the system, so the system will look for the new default for session expiration time.
