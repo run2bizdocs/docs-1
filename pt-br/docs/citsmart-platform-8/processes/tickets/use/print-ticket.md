@@ -14,7 +14,7 @@ navegador para o produto.
 --------------
 
 1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
 2.  Clicar sobre o ticket desejado, no botão "Mais opções" e selecionar a alternativa "Imprimir".
 
