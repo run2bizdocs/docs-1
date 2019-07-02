@@ -63,7 +63,7 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
     |Cancelar|Permissão para cancelar um ticket|
     |Reclassificar|Permissão para reclassificar um ticket|
 
-    ```*```Selecionar apenas permissões específicas para o contexto de atuação.
+    ```*```Selecionar apenas as permissões específicas para o contexto de atuação.
 
     - **Colaboradores (usuários do sistema):** membros do grupo.
     - **E-mail:** endereços e e-mail que receberão as notificações originadas em em um fluxo de trabalho. Esta opção é bastante útil quando é necessário tornar uma pessoa "informada" das interações do grupo.
