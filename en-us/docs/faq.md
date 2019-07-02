@@ -769,6 +769,7 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "Why are the schedules created by the tool different from the current time?"
     
     SCENARIO
+    
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
 
     WHAT TO CHECK
