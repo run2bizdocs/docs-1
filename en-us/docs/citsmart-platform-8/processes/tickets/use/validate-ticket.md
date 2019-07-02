@@ -1,5 +1,4 @@
 title: Validate and close the ticket
-
 Description: After attend the ticket, its execution should be validated and the ticket closed.
 
 # Validate and close the ticket
@@ -15,13 +14,14 @@ Procedure
 -------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+    \> Ticket Management \> Ticket;
 
-2.  Click on the ticket and then in the icon “Open”;
+2.  Click on the ticket you want and then in the icon “Open”;
 
 3.  Certify the ticket attendance was done according to what was requested;
 
-4.  In the "Closing" tab choose the situation for "Solved", complete the data to close the ticket;
+4.  In the "Status" area, choose the option "Solved", complete the data to close
+    the ticket;
 
     - If the type of request is "Incident":
     
@@ -29,29 +29,33 @@ Procedure
          
          * Cause Detail: describe the details of the incident cause;
          
-         * Answer Solution: describe the details of the solution made to the incident attendance;
+         * Answer Solution: describe the details of the solution made to the 
+           incident attendance;
          
-         * Save Solution/Answer in the Knowledge Base: in order to the checkbox "Save Solution/Answer in the Knowledge Base" is visible,
-           check the parametrization of the Knowledge Management process;
+         * Save Solution/Answer in the Knowledge Base: in order to the checkbox "Save Solution/Answer 
+           in the Knowledge Base" is visible, check the parametrization of the Knowledge Management process;
            
          
         !!! warning "ATTENTION"
            
-             In order for the "Save Solution / Knowledge Base Answer" option to be available by checking the "Resolved" option of the ticket, it is necessary to configure parameters 182 and 192.
+             In order for the "Save Solution / Knowledge Base Answer" option to be available by 
+             checking the "Resolved" option of the ticket, it is necessary to configure parameters 
+             182 and 192.
              
            
-         * Justification of SLA expired: the visibility of this field is conditioned to the SLA status expired for the attendance in
-           question;
+         * Justification of SLA expired: the visibility of this field is conditioned to the SLA 
+           status expired for the attendance question;
            
          * Temporary Solution: indicate if the activity performed to attend the incident was a temporary solution.
          
-    - If the type of request is "Request", complete the field ""Answer Solution"", describe what was made to attend the service request. 
+    - If the type of request is "Request", complete the field ""Answer Solution"", describe what 
+      was made to attend the service request. 
 
 5.  Click on the "Option" button and definy the next step:
 
-    -  "Save and keep the current task";
+    -  "Save changes";
     
-    -  "Save and foward flow".
+    -  "Send ticket".
 
 Related
 -----------
