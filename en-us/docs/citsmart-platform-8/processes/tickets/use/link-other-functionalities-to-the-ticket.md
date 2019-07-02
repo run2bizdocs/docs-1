@@ -19,7 +19,7 @@ Procedure
 2.  To inform the ticket (request/incident) complementary data, check the option
     of capture or view;
 
-3.  To link **Sub-requests**, click on the toogle button (placed in the upper righ side
+3.  To link **Sub-tickets**, click on the toogle button (placed in the upper righ side
     of the screen) and then on "Create sub-ticket" to create a new request, or click on
     "Create sub-ticket by copy" to register a new request with the same date of the
     original request;
