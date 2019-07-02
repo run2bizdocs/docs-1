@@ -797,13 +797,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     1. Archivo de configuración del Banco Postgresql:
     
-        - Postgresql.conf
-       
-        - timezone = 'BRAZIL/EAST'   
+        Postgresql.conf - timezone = 'BRAZIL/EAST'   
      
     2. En el container cloud:
     
-        - Setting timezone on the operating system. 
+        Setting timezone on the operating system. 
      
     3. Configuración de TimeZone en JRE: 
     
