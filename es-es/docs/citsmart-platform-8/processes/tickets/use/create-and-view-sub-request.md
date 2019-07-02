@@ -22,7 +22,7 @@ Procedimiento
 -------------
 
 1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear sub-solicitud por copia" en el menú de opciones;
 
