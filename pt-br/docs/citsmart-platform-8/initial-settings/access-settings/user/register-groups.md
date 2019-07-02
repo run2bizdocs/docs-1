@@ -66,7 +66,7 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
     ```*```Selecionar apenas as permissões específicas para o contexto de atuação.
 
     - **Colaboradores (usuários do sistema):** membros do grupo.
-    - **E-mail:** endereços e e-mail que receberão as notificações originadas em em um fluxo de trabalho. Esta opção é bastante útil quando é necessário tornar uma pessoa "informada" das interações do grupo.
+    - **E-mail:** endereços de e-mail que receberão as notificações originadas em um fluxo de trabalho. Esta opção é bastante útil quando é necessário tornar uma pessoa "informada" das interações do grupo sem que ela participe no mesmo.
 
 4.  Definir as configurações que sejam necessárias;
 5.  Clicar em "Gravar".
