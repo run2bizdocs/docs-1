@@ -782,7 +782,7 @@ description: Here you have the answers for the most common parameters when talki
     
     Setting timezone on the operating system.
     
-    3-Setting up the TimeZone on the JRE:
+    3- Setting up the TimeZone on the JRE:
     
     https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
 
