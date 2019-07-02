@@ -21,7 +21,7 @@ Procedimento
 ------------
 
 1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
 2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar sub-ticket" no menu opções;
 
@@ -32,7 +32,8 @@ Procedimento
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
     
-5.  Para pesquisar os sub-tickets, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal     da funcionalidade.
+5.  Para pesquisar os sub-tickets, será necessário marcar o filtro "Exibir relacionadas" na área de 
+    pesquisa na tela principal da funcionalidade.
 
         
 !!! Abstract "ATENÇÃO"
@@ -44,6 +45,7 @@ Procedimento
 !!! Abstract "ATENÇÃO"
 
     O sub-ticket poderá ser reaberto a qualquer momento, independemente do status da solicitação pai (se está reaberta ou fechada).  
+    
 Relacionado
 -----------
 
