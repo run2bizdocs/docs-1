@@ -24,7 +24,7 @@ Procedimiento
 4.  En el area de "Estado", elegir la opción "Resuelta", completar los datos para
     cerrar el ticket;
     
-    - Si el tipo de solicitud es "Incidente":
+     - Si el tipo de solicitud es "Incidente":
     
        * Categoría de Solución: seleccionar la categoría de solución del incidente;
          
@@ -51,7 +51,7 @@ Procedimiento
          fue una solución temporal. 
        
     
-    - Si el tipo de solicitud es "Solicitud", completar el campo "Solución Respuesta", 
+     - Si el tipo de solicitud es "Solicitud", completar el campo "Solución Respuesta", 
       describir lo que se realizó para atender la solicitud de servicio.
       
     !!! Abstract "ATENCIÓN"
