@@ -19,7 +19,7 @@ Procedimento 
 2.  Para informar os dados complementares do ticket (requisição ou incidente),
     marque a opção de captura ou visualização deste;
 
-3.  Para vincular **Sub-solicitações**, clicar no botão toogle (localizado no canto superior direito da tela) e
+3.  Para vincular **Sub-tickets**, clicar no botão toogle (localizado no canto superior direito da tela) e
     em seguida "Criar sub-ticket" para criar uma nova solicitação ou clicar "Criar
     sub-ticket por cópia" para cadastrar uma nova solicitação com os mesmos
     dados da solicitação original;
