@@ -35,19 +35,19 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
 
     |Campo|Descrição|
     |-|-|
-    |Nome *	|[Name of Group]|
-    |Sigla *	|[NoG]|
+    |Nome *	|[Nome do Grupo]|
+    |Sigla *	|[NG]|
     |ID Grupo|[01] - Gerado automaticamente|
-    |Líder|[NameEmployee] - Usado para identificar o gestor do grupo|
-    |Perfil de Acesso *	|[Profile] - Perfil de acesso herdado|
-    |Grupo de Service Desk|[Sim/Não] - Se o grupo faz atendimento (=SIM), caso contrário o grupo não aparece na lista de grupos para direcionamento/delegação de tickets|
+    |Líder|[Nome do Líder] - Usado para identificar o gestor do grupo|
+    |Perfil de Acesso *	|[Perfil] - Perfil de acesso herdado|
+    |Grupo de Service Desk|[Sim/Não] - Se o grupo faz atendimento (=SIM), caso contrário o grupo não aparecerá na lista de grupos para direcionamento/delegação de tickets|
     |Solicitante do Chat|[Sim/não] - Se os integrantes do grupo podem abrir tickets via chat|
     |Comitê Consultivo de Mudanças|[Sim/Não] - Se o grupo faz parte de um CCM (Gerência de Mudança)|
-    |Suspensão / Reativação|Parâmetro para permitir a suspensão/reativação de tickets independentemente das permissões no fluxo de trabalho (reativar/suspender)|
+    |Suspensão/Reativação |Parâmetro para permitir a suspensão/reativação de tickets independentemente das permissões no fluxo de trabalho (reativar/suspender)|
     |Notificações de e-mail Obrigatórias (Abertura, Andamento e Encerramento)|Caso habilitado, torna o envio de e-mail - oriundo das diversas ações dos fluxos - obrigatório (não configurável pelo atendente). Ao deixar desabilitado, o atendente poderá configurar as opções de envio de e-mail.|
-    |Descrição|Detalhes para ajudar na identificação do grupo|
+    |Descrição |Detalhes para ajudar na identificação do grupo|
 
-    - **Contratos:**
+    - **Contratos:** Acordos que o grupo terá acesso (para registrar um serviço, realizar um atendimento etc.).
 
     - **Permissões nos Fluxos de trabalho**
 
