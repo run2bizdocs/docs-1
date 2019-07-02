@@ -383,9 +383,9 @@ description: Here you have the answers for the most common parameters when talki
     8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
     10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
-    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)";
+    11. Perform the search for the parameter "94 - Name of the group of ICs that are in the Production Phase (Ex: CIs in Homologation)";
     12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
-    13. On the Value field, insert the name of the CI group in confirmation phase;
+    13. In the value field, enter the name of the CI group of the homologation phase;
     14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
 
 !!! Question "How to define the obligatoriness of linking the change with the CI?"
