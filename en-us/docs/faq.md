@@ -343,11 +343,11 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "What is the meaning of each inventory status of CI?"
     
-    -   Inventory - the inventory was able to read the CI information and ended successfully;
-    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
-    -   Unreachable - when the server encounters the IC but can not bring the information;
-    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed;
-    -   Running - while reading the inventory, the IC is in this status.
+    -   Inventory: the inventory was able to read the CI information and ended successfully;
+    -   Ignored: in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Unreachable: when the server encounters the IC but can not bring the information;
+    -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
+    -   Running: while reading the inventory, the IC is in this status.
 
 ***Configuration***
 
@@ -525,7 +525,7 @@ description: Here you have the answers for the most common parameters when talki
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
 
-!!! Question "How to enable the Service Portal(Smart Portal)?"
+!!! Question "How to enable the Service Portal (Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
@@ -769,22 +769,22 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "Why are the schedules created by the tool different from the current time?"
     
     SCENARIO
+    
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
 
     WHAT TO CHECK
     
-    1- Postgresql database configuration file:
+    1. Postgresql database configuration file:
     
-    Postgresql.conf
-    timezone = 'BRAZIL/EAST'
+        Postgresql.conf - timezone = 'BRAZIL/EAST'
     
-    2- On the container cloud:
+    2. On the container cloud:
     
-    Setting timezone on the operating system.
+        Setting timezone on the operating system.
     
-    3-Setting up the TimeZone on the JRE:
+    3. Setting up the TimeZone on the JRE:
     
-    https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
+        https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
 
 !!! Question "Why in some reports does the same request appear more than once?"
     
