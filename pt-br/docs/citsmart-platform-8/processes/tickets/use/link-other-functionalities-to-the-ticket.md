@@ -14,7 +14,7 @@ Procedimento 
 -------------
 
 1.  Acessar a funcionalidade através do menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Para informar os dados complementares do ticket (requisição ou incidente),
     marque a opção de captura ou visualização deste;
@@ -41,7 +41,7 @@ Procedimento 
 
 8.  Para visualizar as atividades periódicas, clicar em **Agenda**;
 
-9. Para verificar os e-mails recebidos sobre a solicitação, clicar na área
+9.  Para verificar os e-mails recebidos sobre a solicitação, clicar na área
     **Leitura de e-mails** e em seguida "Verificar e-mails". Lembrando que a
     leitura de e-mail só será realizada se os parâmetros estiverem configurados
     corretamente;
