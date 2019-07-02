@@ -23,7 +23,7 @@ Procedure
 1.  Access the functionality Ticket Management through the main menu Processes
     \> Ticket Management \> Ticket;
 
-2.  Click on the ticket you want and select "Create subrequest" in the
+2.  Click on the ticket you want and select "Create sub-ticket" in the
     options menu;
 
 3.  Complete all mandatory fields and click on "Save'. The ticket related will
@@ -41,12 +41,12 @@ Procedure
         
 !!! Abstract "NOTE"
     
-    The sub-request has its own flow, therefore, it's not finished along with the
+    The sub-ticket has its own flow, therefore, it's not finished along with the
     closure of the origin ticket. It should, then, be executed and closed autonomously.
     
 !!! Abstract "NOTE"
     
-    The sub-request can be reopened at any time, regardless of the status of the parent 
+    The sub-ticket can be reopened at any time, regardless of the status of the parent 
     request (whether it's reopened or closed).
 
 Related
