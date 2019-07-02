@@ -14,10 +14,10 @@ Procedimiento
 -------------
 
 1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
-2.  Haga clic en el ticket deseado y seleccione la opción "Imprimir solicitud"
-    en el menú de opciones.
+2.  Haga clic en el ticket deseado, después en "Más opciones" y seleccionar 
+    la opción "Imprimir".
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
