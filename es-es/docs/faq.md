@@ -807,7 +807,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
      
     3. Configuración de TimeZone en JRE: 
     
-         https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+       https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
 !!! Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
     
