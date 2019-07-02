@@ -50,6 +50,12 @@ Procedure
          
     - If the type of request is "Request", complete the field ""Answer Solution"", describe what 
       was made to attend the service request. 
+      
+    !!! Abstract "ATTENTION"
+    
+        The steps to solve the Ticket steps can be the suggestion of a new knowledge, being evaluated 
+        beforehand to be effective. It is also possible to suggest a name for this new knowledge in the 
+        field "Knowledge Base Title".
 
 5.  Click on the "Option" button and definy the next step:
 
