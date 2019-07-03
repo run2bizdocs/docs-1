@@ -51,12 +51,25 @@ Procedimiento
     
 !!! Abstract "ATENCIÓN"
 
+    El administrador del área de trabajo puede cambiar el administrador del proyecto 
+    (permiso del administrador) en cada sprint. Si el usuario no es el administrador 
+    del workspace, no es posible otorgar el permiso del administrador a otro usuario.
+    
+!!! Abstract "ATENCIÓN"
+
     Para mover un **workspace** cambiando su ordenación, hacer clic y arrastrarlo hasta la posición 
     de prioridad deseada.
     
 !!! Abstract "NOTA"
 
-    El campo de búsqueda busca cualquier información que esté en cualquier otro workspace, sprint, lista o tarea.
+    El campo de búsqueda busca cualquier información que esté en cualquier otro workspace, sprint, 
+    lista o tarea. Para optimizar la búsqueda, se creó un nuevo filtro que permite seleccionar las 
+    actividades por la fecha estimada de su desarrollo (el período de su inicio y conclusión). Para 
+    usarlo, debes seguir las siguientes instrucciones:
+    1. Para el correcto funcionamiento de este campo, es necesario que el Workspace, Sprint y la 
+    actividad tengan una fecha estimada de inicio y fin;
+    2. Hacer la búsqueda. Luego, el sistema devolverá una lista de Workspaces, Sprints y Actividades 
+    que se encuentran entre la fecha a la que se hace referencia en la búsqueda.
 
 
 ***II - Crear Sprint***
@@ -65,7 +78,8 @@ Procedimiento
 
 2.  Hacer clic en “Sprint”, nombrar y "Guardar”;
 
-3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, totalización de tareas por plazos establecidos y porcentaje de realización de las mismas:
+3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, 
+    totalización de tareas por plazos establecidos y porcentaje de realización de las mismas:
 
     -   Retrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
 
@@ -91,7 +105,7 @@ Procedimiento
     
 !!! Abstract "ATENCIÓN"    
 
-    Para mover un ** sprint ** cambiando su ordenación, hacer clic y arrastrarla a la posición 
+    Para mover un **sprint** cambiando su ordenación, hacer clic y arrastrarla a la posición 
     de prioridad deseada.
 
 
@@ -171,6 +185,13 @@ dispositivos de control y gestión.
     -   **2**: agregar listas de acciones que serán vistas en la pestaña Checklist
 
     -   **3**: agregar comentarios
+    
+    !!! Abstract "NOTA"
+    
+        Cuando abre una actividad (tarea) en el *Simple*, puede ver que en la funcionalidad 
+        *"Comentario"* se han insertado dos nuevas funciones:
+        - *Editar Comentario*;
+        - *Borrar Comentario*. Si optar por la eliminación, el comentario no se guardará en la pestaña "Historial".
 
     -   **4**: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea, además de detallar la acción tomada
 
@@ -200,7 +221,10 @@ dispositivos de control y gestión.
 
 5.  Las pestañas disponibles presentan:
 
-    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de agregar "+" para agregar nuevo elemento. Para indicar la finalización de un elemento dentro de un checklist, seleccione el checkbox;
+    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, 
+    pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de agregar "+" 
+    para agregar nuevo elemento. Para indicar la finalización de un elemento dentro de un checklist, 
+    seleccione el checkbox;
 
     -   Comentarios: lista los comentarios hechos;
 
