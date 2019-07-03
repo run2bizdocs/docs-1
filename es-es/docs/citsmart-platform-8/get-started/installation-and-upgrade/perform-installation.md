@@ -96,7 +96,6 @@ punto. Para eso, ejecute los comandos siguientes.
 6. Parar el Wildfly (Iniciado anteriormente) y configurar el standalone.conf en el
 directorio \$JBOSS_HOME/bin, conforme presentado abajo.
 
-
     ```sh
     mv standalone.conf standalone.dist
     ```
@@ -221,7 +220,6 @@ PostgreSQL. Para eso, salga del modo jboss-cli y ejecute los comandos abajo.
 
 2. Conectar en el jboss-cli nuevamente y ejecute el comando siguiente para adicionar el
 módulo al standalone-full-ha.xml
-
 
     ```sh
     module add --name=org.postgres --resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --dependencies=javax.api,javax.transaction.api
@@ -659,12 +657,12 @@ Caso usted tenga un certificado, es importante utilizarlo.
 1. Para acceder al CITSmart Enterprise, debemos acceder el IP o DNS y después el puerto y contexto.
 
     ```sh
-    https://itsm.citsmart.com:8443/citsmart
+    https://example.com:8443/citsmart
     ```
 
 2. El contexto "citsmart" es el estándar de CITSmart Enterprise.
 
-    Primer acceso: Entre con la URL > https://itsm.citsmart.com:8443/citsmart.
+    Primer acceso: Entre con la URL > https://example.com:8443/citsmart
 
 3. Ahora, siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
 
