@@ -133,7 +133,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 1596       | Verificar que o usuário alterou o último horário da JORNADA, porém ao criar solicitação essa alteração não foi refletida                                                                                                                                        | Corretiva |
 | 3067       | Melhorias no processamento da fila de inventário (Therads)                                                                                                                                                                                                      | Melhoria  |
 
-**Produtos impactados:**
+**Outros produtos liberados:**
 
 Neuro: 1.2.4.10
 Inventory: 2.0.0.3
