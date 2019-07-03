@@ -12,13 +12,15 @@ Antes de começar
 Um modelo de email deverá ter sido cadastrado previamente e que as chaves a
 serem usadas em seu corpo de texto deverão ser as seguintes:
 
-   -   \${IDSOLICITACAOSERVICO}
+```html
+${IDSOLICITACAOSERVICO}
 
-   -   \${SERVICO}
+${SERVICO}
 
-   -   \${SOLICITANTE}
+${SOLICITANTE}
 
-   -   \${DESCRICAO}
+${DESCRICAO}
+```
 
 Procedimento
 ----------------
