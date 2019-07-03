@@ -32,6 +32,19 @@ Welcome to Citsmart Version 8.0.1.0. The Version 8.0.1.0 of Citsmart presents th
 |3911|Smart Portal - After ticket registration, direct the user to "My Requests".|
 |2615|Simple – Search for unselected items.|
 
+## Version 8.0.0.10 (2019/06/07)
+
+Welcome to CITSmart Version 8.0.0.10. This release features some emergency fixes.
+
+| Problem	| Description|
+|-----------|------------|
+|3097	| Error attempting to link an attachment in Sub-request |
+|3607	| Correction in notification view |
+|3900	| Correction in ticket delegation |
+|3914	| System allows to register same login for different users |
+|4028	| Correction in the presentation of the responsible person in the registration of an occurrence |
+|4148	| Improvement in the queries of the ticket listing |
+
 ## Version 8.0.0.9 (2019/05/31)
 
 Welcome to the Citsmart Version 8.0.0.9
