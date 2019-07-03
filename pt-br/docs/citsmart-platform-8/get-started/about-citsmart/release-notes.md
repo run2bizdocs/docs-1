@@ -149,10 +149,6 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 
 Neuro: 1.2.4.10
 
-Inventory: 2.0.0.3
-
-EVM: 2.0.0.3
-
 Audit: 0.4.0
 
 
@@ -214,6 +210,10 @@ Se atentem para o cenário descrito:
 **Outros produtos liberados**
 
 Neuro: 1.2.4.8
+
+Inventory: 2.0.0.3
+
+EVM: 2.0.0.3
 
 Audit: 0.2.0
 
