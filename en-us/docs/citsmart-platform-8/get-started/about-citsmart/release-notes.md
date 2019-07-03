@@ -135,28 +135,12 @@ With performance optimizations, usability improvements, adjustments and bug fixe
 | 1596       | Verify that the user changed the last time of the DAY, but when creating request this change was not reflected                                                                                                                                        | Corrective   |
 | 3067       | Improvements to the processing of the inventory queue (Threads)                                                                                                                                                                                                      | Improvement  |
 
-    
-Packages path:  
->   1.       **Workflow**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.7/CitsmartITSM-Enterprise-8.0.0.7.war.zip>
+**impacted products:**
 
->   2.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
-
->   3.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   4.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   5.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
-
->   6.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
-
->   7.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   8.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   9.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
-
+Neuro: 1.2.4.10
+Inventory: 2.0.0.3
+EVM: 2.0.0.3
+Audit: 0.4.0
 
 ## Version 8.0.0.5 (2019/04/25)
 
