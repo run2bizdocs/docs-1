@@ -252,7 +252,7 @@ Audit: 0.2.0
 
 ## Versão 8.0.0.0 (2019/03/01)
 
-| Tipo | Área | Descrição |
+| Tipo | Funcionalidade | Descrição |
 |------|------|-----------|
 |Correção|Gerenciamento de Ticket| As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta. Para mais informações, veja [Relacionar um Ticket][1] e [Cadastrar uma Sub-Solicitação][2]|
 |Correção|Webservices|A sincronização para criação de novas Atividades sofreu uma alteração em sua regra de negócio, isso porque não é possível criar uma atividade que não tenha vínculo com Serviço de Negócio e Portfólio. Portanto, o webservice designado para criação irá abrir um ticket com os parâmetros passados na configuração inicial do serviço. A funcionalidade de criar um novo usuário, quando estiver habilitado a sincronização de dados permanece consistente.|
