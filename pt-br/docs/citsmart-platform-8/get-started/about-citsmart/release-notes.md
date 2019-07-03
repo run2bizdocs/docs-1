@@ -146,8 +146,6 @@ Audit: 0.4.0
 
 ## Versão 8.0.0.5 (2019/04/25)
 
-### Problemas Resolvidos
-
 | Problema | Descrição                                                                                                                                              |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3360     | Ger. de Problema - Erro ao recuperar Solução definitiva                                                                                                |
@@ -200,37 +198,22 @@ Se atentem para o cenário descrito:
         Portfólio de Problema;
 
     5.  No próximo cadastro a mensagem não se repetirá.
-    
-    
-    
-Caminho dos pacotes:  
-**SM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.5/CitsmartITSM-Enterprise-8.0.0.5.war.zip  
-  
-**Inventory**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip  
-  
-**EVM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip  
-  
-**Neuro**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.8.war.zip  
-  
-**Audit**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.2.0.zip
+
+**Outros produtos liberados**
+
+Neuro: 1.2.4.8
+
+Audit: 0.2.0
 
 
 ## Versão 8.0.0.4 (2019/04/12)
-
-### Problema Resolvido
 
 | Problema | Descrição                                                                                 |
 |----------|-------------------------------------------------------------------------------------------|
 | 3275     | Falha no momento de restaurar Grupo Executor, Impacto e Urgência em Gerência de Liberação |
 
-## Versão 8.0.0.3 (2019/04/04)
 
-### Problemas Resolvidos
+## Versão 8.0.0.3 (2019/04/04)
 
 | Problema | Descrição                                                                                                                                                                                                          |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -241,8 +224,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Versão 8.0.0.2 (2019/03/20)
 
-## Problemas Resolvidos
-
 | Problema | Descrição                      |
 |----------|-----------------|
 | 2309     | Falha intermitente e de maior incidência em ambientes clusterizado no método que retorna o timezone para gravar registro de data e hora. A versão 8.0.0.2 fornece solução definitiva para o erro ocasionado nas classes que utilizam timezone para gravação de registros. |
@@ -251,8 +232,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 
 ## Versão 8.0.0.1 (2019/03/08)
-
-## Problemas Resolvidos
 
 | Problema | Descrição                 |
 |----------|---------------------------|
