@@ -251,7 +251,7 @@ Audit: 0.2.0
 
 ## Version 8.0.0.0 (2019/03/01)
 
-|Type|Feature|Description|
+|Type|Functionality|Description|
 |----|-------|-----------|
 |Fixe|Ticket Management|The Sub-Request and Related Request functionalities were restructured to provide greater compliance to their assignments. The focus of this fix was to bring the functionalities closer to their proposal. For further information, see [Relate Ticket][1] and [Register Sub-Request][2]|
 |Fixe|Webservices|The synchronization for creating new Activities has changed in the business rule, that's because it's not possible to create an activity that doesn't have a link with the Business Service and Portfolio. Therefore, the webservice designated for creation will open a ticket with the parameters in the initial configuration of the service. The functionality of create a new user, when the data synchronization is enabled, remains consistent.|
