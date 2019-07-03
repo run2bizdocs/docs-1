@@ -195,6 +195,13 @@ and management.
     -   **2**: add list of actions that will be viewed in the Checklist tab
 
     -   **3**: add comments
+    
+    !!! Abstract "NOTE"
+    
+        When you open an activity (task) in *Simple*, you can see that in the *"Comment"* 
+        feature, two new functions have been inserted:
+        - *Edit Comment*;
+        - *Delete Comment". If you choose to delete, the comment will not be saved in the "History" tab.
 
     -   **4**: each member can post hours referring to their time used in the task, besides detailing the action taken
 
