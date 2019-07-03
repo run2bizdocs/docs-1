@@ -10,36 +10,36 @@ instalación del ítem Servidor de Indexación Apache Solr (sesión Configurac
 paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
 de los comandos de instalación del Java JDK abajo)*.
 
-        ```sh
-        tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
-        ```
-    
-        ```sh
-        ln -s /opt/jdk1.8.0_172 /opt/jdk
-        ```
-    
+    ```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+    ```
+
+    ```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+    ```
+
 2. Ejecutar los comandos siguientes para configuración de los paquetes para CITSmart;
-    
+
     ```sh
-    tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/ 
+    tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/
     ```
-    
+
     ```sh
-    ln -s /opt/wildfly-12.0.0.Final /opt/wildfly 
+    ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
     ```
-    
+
     ```sh
     cp /etc/skel/.bash_profile /opt/wildfly/
     ```
-    
+
     ```sh
     tar xzvf assets.tar.gz -C /opt/wildfly/
     ```
-    
+
     ```sh
     mkdir /opt/wildfly/reports
     ```
-    
+
 3. crear un usuario para administrar el Wildfly;
 
     ```sh
@@ -73,7 +73,7 @@ eso,  haga conforme el ejemplo siguiente.
     ```sh
     export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
     ```
-    
+
 5. Haga una prueba para validar se el Wildfly está iniciando correctamente hasta ese
 punto. Para eso, ejecute los comandos siguientes.
 
@@ -222,7 +222,7 @@ PostgreSQL. Para eso, salga del modo jboss-cli y ejecute los comandos abajo.
 2. Conectar en el jboss-cli nuevamente y ejecute el comando siguiente para adicionar el
 módulo al standalone-full-ha.xml
 
-   
+
     ```sh
     module add --name=org.postgres --resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --dependencies=javax.api,javax.transaction.api
     ```
@@ -332,7 +332,7 @@ PostgreSQL*.
 
 
 5.  Antes de salir de jboss-cli ejecute el comando reload para aplicar los cambios y realizar una prueba de conexión con la base de datos.
-    
+
     ```sh
     [standalone\@localhost:9990 /] :reload
     ```
@@ -405,7 +405,7 @@ PostgreSQL*.
 
 
     !!! Abstract "ATENCIÓN"
-    
+
          No olvides de cambiar el dueño de los archivos y directorios para el usuario CITSmart.
 
 ## Configuración del Quartz
@@ -527,32 +527,32 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 !!! Abstract "ATENCIÓN"
 
     No olvides de cambiar el dueño del directorio /opt/citsmart .
-    
+
 
 1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
-    **Para GED**: 
+    **Para GED**:
 
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
     **Para Base de Conocimiento**:
-	
+
     ```sh
     mkdir /opt/citsmart/kb
     ```
     **Para Palavras homónimas**:
-	
+
     ```sh
     mkdir /opt/citsmart/twinwords
     ```
     **Para Anexos de Base de Conhecimento**:
-    
+
     ```sh
     mkdir /opt/citsmart/attachkb
     ```
-    **Para Upload**: 
-	
+    **Para Upload**:
+
     ```
 	mkdir /opt/citsmart/upload
     ```
@@ -564,39 +564,39 @@ Para el Wildfly se va a generar un certificado auto-firmado.
 Caso usted tenga un certificado, es importante utilizarlo.
 
 1. Conectar en el servidor del Wildfly.
-    
-    Creando nuevo alias con DNS (ejemplo itsm.citsmart.com): 
-    
+
+    Creando nuevo alias con DNS (ejemplo itsm.citsmart.com):
+
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
     ```
-    
-    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
-    
+
+    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40):
+
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
     ```
-    
-    Exportando certificado para extensão .cer: 
-   
+
+    Exportando certificado para extensão .cer:
+
     ```sh
-    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer 
+    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
-    
-    Adicionando certificado no cacerts do Java: 
-    
+
+    Adicionando certificado no cacerts do Java:
+
     ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
-    
+
     **Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
-    
+
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
 2. Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute los comandos siguientes:
-    
+
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
     /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
@@ -605,7 +605,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
     ```
-	
+
 3. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
     ```sh
@@ -639,7 +639,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
     ```
-    
+
 
 ## Implementación del CITSmart Enterprise
 
@@ -661,7 +661,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     ```sh
     https://itsm.citsmart.com:8443/citsmart
     ```
-	
+
 2. El contexto "citsmart" es el estándar de CITSmart Enterprise.
 
     Primer acceso: Entre con la URL > https://itsm.citsmart.com:8443/citsmart.
