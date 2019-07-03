@@ -3,7 +3,7 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
-## Versão 8.0.1.0 (2019/06/28)
+## Versión 8.0.1.0 (2019/06/28)
 
 Bienvenidos a Citsmart Versión 8.0.1.0. La versión 8.0.1.0 de Citsmart presenta las siguientes mejoras:
 
@@ -31,6 +31,19 @@ Bienvenidos a Citsmart Versión 8.0.1.0. La versión 8.0.1.0 de Citsmart present
 |3070|Simple – Filtro por nombre de colaboradores y nombre de TAG|
 |3911|Smart Portal - Después del registro de ticket dirigir al usuario a "My Requests".|
 |2615|Simple – Búsqueda por elementos no seleccionados.|
+
+## Versión 8.0.0.10 (2019/06/07)
+
+Bienvenido a CITSmart Version 8.0.0.10. Esta versión presenta algunas correcciones de emergencia.
+
+|Problema|Descripción|
+|--------|-----------|
+|3097	 | Error al intentar vincular un archivo adjunto en la sub-solicitud |
+|3607	 | Corrección en la visualización de notificación |
+|3900	 | Corrección en delegación de tickets |
+|3914	 | El sistema permite registrar el mismo login para diferentes usuarios |
+|4028	 | Corrección para presentación de la persona responsable por el registro de ocurrencia |
+|4148	 | Mejora en las queries del listado de tickets |
 
 ## Versión 8.0.0.9 (2019/05/31)
 
