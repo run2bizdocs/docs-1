@@ -135,7 +135,7 @@ With performance optimizations, usability improvements, adjustments and bug fixe
 | 1596       | Verify that the user changed the last time of the DAY, but when creating request this change was not reflected                                                                                                                                        | Corrective   |
 | 3067       | Improvements to the processing of the inventory queue (Threads)                                                                                                                                                                                                      | Improvement  |
 
-**impacted products:**
+**Other released products**
 
 Neuro: 1.2.4.10
 Inventory: 2.0.0.3
