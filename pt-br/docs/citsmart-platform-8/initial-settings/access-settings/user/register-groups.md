@@ -53,15 +53,15 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
 
     |Ação```*```| Descrição|
 	  |-|-|
-	  |Criar|Permissão para registrar um ticket|
-	  |Executar|Permissão para executar um ticket|
-    |Delegar|Permissão para delegar um ticket|
-	  |Suspender|Permissão para suspender um ticket|
-    |Reativar|Permissão para reativar um ticket|
-    |Alterar SLA|Permissão para alterar a SLA de um ticket|
-	  |Reabrir|Permissão para reabrir um ticket|
-    |Cancelar|Permissão para cancelar um ticket|
-    |Reclassificar|Permissão para reclassificar um ticket|
+	  |Criar|Permissão para registrar um ticket/atividade|
+	  |Executar|Permissão para executar um ticket/atividade|
+    |Delegar|Permissão para delegar um ticket/atividade|
+	  |Suspender|Permissão para suspender um ticket/atividade|
+    |Reativar|Permissão para reativar um ticket/atividade|
+    |Alterar SLA|Permissão para alterar a SLA de um ticket/atividade|
+	  |Reabrir|Permissão para reabrir um ticket/atividade|
+    |Cancelar|Permissão para cancelar um ticket/atividade|
+    |Reclassificar|Permissão para reclassificar um ticket/atividade|
 
     ```*```Selecionar apenas as permissões específicas para o contexto de atuação.
 
