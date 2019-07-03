@@ -136,7 +136,7 @@ Con optimizaciones de rendimiento, mejoras de usabilidad, ajustes y correcciones
 | 3067       | Mejoras en el procesamiento de la cola de inventario (Therads)                                                                                                                                                                                                      | Mejora  |
 
 
-**Productos impactados**
+**Otros productos lanzados**
 
 Neuro: 1.2.4.10 
 
