@@ -65,8 +65,6 @@ La versión 8.0.0.9 del CITSmart presenta algunas correcciones de emergencia.
 
 Con optimizaciones de rendimiento, mejoras de usabilidad, ajustes y correcciones de fallos.
 
-### Problemas Resueltos
-
 | **Código** | **Descripción del Ticket**                                                                                                                                                                                                                                      | **tipo**  |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | 3005       | Análisis y mejora en la clase de menú del sistema                                                                                                                                                                                                                 | Mejora  |
