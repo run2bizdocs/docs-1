@@ -32,11 +32,23 @@ Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta 
 |3911|Smart Portal - Após registro de ticket direcionar o usuário para "My Requests".|
 |2615|Simple – Busca por itens não selecionados.|
 
+## Versão 8.0.0.10 (2019/06/07)
+
+Bem-vindos ao CITSmart Versão 8.0.0.10. Esta versão apresenta algumas correções emergenciais.
+
+| Problema	| Descrição |
+|-----------|-----------|
+|3097	| Erro ao tentar vincular um anexo em Sub-solicitação |
+|3607	| Correção na visualização de notificação |
+|3900	| Correção na delegação de tickets |
+|3914	| Sistema permite cadastrar mesmo login para usuários diferentes |
+|4028	| Correção para apresentação de responsável no registro de ocorrência |
+|4148	| Melhoria nas queries da listagem de ticket |
+
 
 ## Versão 8.0.0.9 (2019/05/31)
 
-Bem-vindos ao Citsmart Versão 8.0.0.9.
-A versão 8.0.0.9 do CITSmart apresenta algumas correções emergenciais.
+Bem-vindos ao CITSmart Versão 8.0.0.9. Esta versão apresenta algumas correções emergenciais.
 
 |Problema|Descrição|
 |--------|---------|
@@ -429,4 +441,3 @@ __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 c
 [19]:/pt-br/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
 [20]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
 [21]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
-
