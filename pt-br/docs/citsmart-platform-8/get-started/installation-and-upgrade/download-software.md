@@ -26,17 +26,17 @@ o procedimento relativo ao produto.
 jdk-8u172-linux-x64.tar.gz  
 2. Download do pacote diretamente do repositório oficial através do link
 abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz>
-    
+
     ![Java Download](images/java-download.png)
-    
+
      Figura 1 - Tabela Java
-    
+
 3. Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
 
 ### Servidor de Banco de Dados MongoDB
 
 !!! info "ATENÇÃO"
-       
+
        No manual será utilizado a distribuição GNU/Linux CentOS Linux release
        7.5.1804. Baixar e MongoDB conforme sua distribuição. A versão do MongoDB deve ser 3.4.
 
@@ -55,10 +55,10 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
    O CITSmart Enterprise é compatível com o PostgreSQL 9.2 ou superior e o download será feito no
    momento da configuração dos pacotes.
-   
+
    Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
    informações e melhores práticas de cada fabricante:
-   
+
    *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
    *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
@@ -67,15 +67,11 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 !!! info "ATENÇÃO"
 
-    A versão homologada do Apache Solr é a 6.4.2.
-
-    Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>    
-
-    Configurações para base de conhecimento: <http://files.citsmart.com/base_conhecimento_configs.zip>
+    A versão homologada do Apache Solr é a 6.4.2. Este pacote e os arquivos de configuração podem ser baixados na área de relacionamento com o parceiro.
 
 ### Download dos arquivos assets para o CITSmart
 
-<http://files.citsmart.com/assets.tar.gz>
+Este pacote pode ser baixado na área de relacionamento com o parceiro.
 
 
 ## Configuração dos Pacotes
@@ -94,28 +90,28 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 
 
 ### Servidor de Banco de Dados MongoDB
- 
+
 1. Após baixar o MongoDB da versão 3.4.15 para sua correta distribuição, deve-se
   efetuar a descompressão para o diretório /opt
 
     ``` sh
     tar xvzf mongodb-linux-x86_64-rhel70-3.4.15.tgz -C /opt/*
     ```
-	
-    ``` sh	
+
+    ``` sh
     mkdir -p /data/db
     ```
 
-    ``` sh	
+    ``` sh
 	cd /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/
     ```
 
-    ``` sh	
-	./mongod 
+    ``` sh
+	./mongod
     ```
-	
+
 	<message of unrestricted access \>  
-	
+
 2. Deve-se criar um diretório para a base e iniciar o MongoDB. Note que ele irá subir com permissões irrestritas de acesso.
 
 3. Com o MongoDB iniciado, abrir outro terminal, acessar o diretório bin do MongoDB e criar a base CITSmart definindo o usuário e senha.
@@ -141,7 +137,7 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
     ]
     })
     ```  
-	
+
 4. O retorno *“Successfully added user”* deve ser observado.
 
 5. Digitar **exit** para sair do console do MongoDB.
@@ -209,16 +205,16 @@ alterar as linhas:
 
 4. Hora de abrir o listening no arquivo **/var/lib/pgsql/9.5/data/postgresql.conf**
 
-    Padrão está comentado: 
+    Padrão está comentado:
 
     ``` sh
-    listen_addresses = 'localhost' 
-	``` 
-	Alterado: 
+    listen_addresses = 'localhost'
+	```
+	Alterado:
 
     ``` sh
     listen_addresses = ‘0.0.0.0'
-    ```	
+    ```
 
 
 5. Após as configurações, dar um restart no postgresql.
@@ -238,19 +234,19 @@ systemctl restart postgresql-9.5.service
     ``` sh
     yum install unzip lsof
     ```
-	
+
 	```sh
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
 	```
-	
+
 	```sh
     ln -s /opt/jdk1.8.0_172 /opt/jdk
 	```
-	
+
 	```sh
     unzip solr-6.4.2.zip -d /opt/
 	```
-	
+
 	```sh
     ln -s /opt/solr-6.4.2 /opt/solr
     ```
@@ -271,23 +267,23 @@ systemctl restart postgresql-9.5.service
 
 3. Criar um usuário para execução do Solr com shell falso e com permissão no
 diretório do Solr para ele e inicie.
-    
+
     ``` sh
     groupadd -r solr
 	```
-	
+
 	```sh
     useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
 	```
-	
+
 	```sh
     chown -R solr:solr /opt/solr-6.4.2/
 	```
-	
+
 	```sh
     su - solr -s /bin/bash
 	```
-	
+
 	```sh
     bin/solr start
     ```    
@@ -298,7 +294,7 @@ criação da collection.
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
     ```
-	
+
     ```sh
     su - solr -s /bin/bash
     ```
@@ -306,7 +302,7 @@ criação da collection.
     ``` sh
     bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
     ```
-  
+
 
 5. Observar que o retorno do comando deve ser algo como no exemplo abaixo.
 
@@ -315,7 +311,7 @@ Copying configuration to new core instance directory:
 ```sh
 /opt/solr/server/solr/base_conhecimento
 ```
- 	 
+
 Creating new core 'base_conhecimento' using command:
 
 ```sh
