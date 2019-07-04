@@ -20,7 +20,7 @@ Procedimiento
 
 3.  Completar los campos disponibles;
 
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
     
         CITSmart ahora ofrece la posibilidad de configurar la recepción de aviso sonoro al 
         operador de los tickets cuando se crea un nuevo. Para ello, es necesario marcar la 
