@@ -37,7 +37,7 @@ Procedimiento
          "Guardar Solución/Respuesta en la Base de Conocimiento" sea visible, verificar 
          la parametrización del proceso de Gestión del Conocimiento;
            
-        !!! warning "ATENCIÓN"
+        !!! Abstract "ATENCIÓN"
          
             Para que la opción "Guardar solución/Respuesta en la Base de Conocimiento" 
             esté disponible al marcar la opción "Resuelta" del ticket. Es necesario 
