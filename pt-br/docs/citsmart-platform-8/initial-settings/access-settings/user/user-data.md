@@ -4,7 +4,7 @@ Description: Tem por objetivo editar informações sobre o perfil do usuário.
 
 Esta funcionalidade tem por objetivo permitir editar as informações da conta de usuário.
 
-!!! warning "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
     Os dados alterados nesta tela serão modificados também na tela de cadastro
     do colaborador.
