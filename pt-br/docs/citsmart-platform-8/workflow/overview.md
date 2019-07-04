@@ -111,7 +111,7 @@ Figura 3 - Diagrama
 
    • Notificação
    
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
 
         Esta extensão aliada a configuração do template de notificação (Sistema > Notificações > Template de notificação) permitem a criação de um alarme sonoro para indicar a chegada de um novo ticket.
 
