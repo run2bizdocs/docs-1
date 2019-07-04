@@ -24,7 +24,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 - Processo de Negócio
 
-!!! info "ALERTA"
+!!! Abstract "ALERTA"
 
     Estes itens só estarão disponíveis quando a aplicação [Neuro][6] estiver habilitada em sua instância.
 
