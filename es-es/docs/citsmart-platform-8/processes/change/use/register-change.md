@@ -24,7 +24,7 @@ Procedimiento
         Es obligatorio programar las fases importantes del cambio, al hacer clic en "Planificación" 
         y luego "Otras informaciones".
         
-    !!! Warning "IMPORTANTE"
+    !!! Abstract "IMPORTANTE"
         
         En todas las etapas:
            - Planificación

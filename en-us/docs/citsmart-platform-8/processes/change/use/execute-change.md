@@ -27,7 +27,7 @@ Procedure
     It's also allowed to link a Kaban already created by clickin on the other buton
     related to the “Workspace”.
     
-    !!! note "NOTE"
+    !!! Abstract "NOTE"
     
         When linking an existing Kanban, if the user does not have permission to access 
         a particular Workspace, the system will display a message informing it. The user 
@@ -47,7 +47,7 @@ Procedure
     planning activities or select "Save and advance flow" to facilitate the task
     and send it to the next phase of the flow.
     
-!!! info "Problem Registration"    
+!!! Abstract "Problem Registration"    
 
     In the closure of a change, the tool has functionality that verifies the existence of 
     related problems and, if they exist, automatically closes them. The functionality is in 

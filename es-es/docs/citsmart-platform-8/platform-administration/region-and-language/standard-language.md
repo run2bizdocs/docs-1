@@ -10,7 +10,7 @@ Esta funcionalidad está destinada a configurar el idioma predeterminado del sis
 2. Buscar parámetro 66, configurar valor EN para inglés, ES para español o PT para portugués;
 3. Hacer clic en "Guardar".
 
-!!! info "Siempre mantenga el sistema en inglés."  
+!!! Abstract "Siempre mantenga el sistema en inglés."  
 
     1. Acceder al menú principal Parametrización > Parámetros CITSmart;   
     2. Buscar parámetro 275; 

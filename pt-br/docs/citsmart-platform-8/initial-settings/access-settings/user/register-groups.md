@@ -72,7 +72,7 @@ Para cadastrar um grupo é necessário o cadastro prévio do perfil de acesso e 
 5.  Clicar em "Gravar".
 
 
-!!! warning "REGRA"
+!!! Abstract "REGRA"
 
     A exclusão de grupo depende de não existir portfólios, colaboradores e
     contratos vinculados ao mesmo.

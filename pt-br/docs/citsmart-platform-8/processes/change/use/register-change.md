@@ -22,7 +22,7 @@ Procedimento
     !!! Abstract "ATENÇÃO"
         É obrigatório agendar as fases importantes da mudança, ao clicar na área “Planejamento” e em seguida “Outras informações”.
 
-    !!! Warning "IMPORTANTE"
+    !!! Abstract "IMPORTANTE"
         Em todas as fases:
            - Planejamento,
            - Plano de reversão e

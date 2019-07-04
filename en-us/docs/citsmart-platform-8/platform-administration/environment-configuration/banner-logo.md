@@ -13,10 +13,11 @@ Procedure
 3. Click on the pointed box to drag a file or make the upload;
 4. Click on "Save".
 
-!!! info "Change the loading icon"
+!!! Abstract "Change the loading icon"
+    
     To change the loading icon, change the value of the parameter 387 to "YES".
 	
-	Path: Parametrization > CITSmart Parameters > 387.  
+    Path: Parametrization > CITSmart Parameters > 387.  
 	
 	
 !!! tip "About"

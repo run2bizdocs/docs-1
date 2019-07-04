@@ -75,7 +75,7 @@ y empleado.
 5.  Hacer clic en "Guardar".
 
 
-!!! warning "REGLA"
+!!! Abstract "REGLA"
 
     La exclusión de grupo depende de que no exista portafolios, colaboradores
     y contratos vinculados.

@@ -13,7 +13,7 @@ Procedimento
 3. Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
 4. Clicar em "Gravar".
 
-!!! info "Mudar o ícone de carregamento"
+!!! Abstract "Mudar o ícone de carregamento"
 
     Para alterar o ícone de carregamento, altere o valor do parâmetro 387 para "SIM".
     

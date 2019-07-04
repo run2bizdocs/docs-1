@@ -35,7 +35,7 @@ Procedimiento
 
 6.  Completar los campos disponibles que cada guía presenta;
 
-    !!! info "Informaciones de cada pestaña"
+    !!! Abstract "Informaciones de cada pestaña"
     
         - Principal: Informaciones de servicio, estado, etapa, importancia para el negocio y otros.
         - Documentos adjuntos: Artefactos, documentos, pestañas y otros.

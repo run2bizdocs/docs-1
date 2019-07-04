@@ -24,7 +24,7 @@ Workflows son representaciones visuales de algo que se mueve continuamente. La f
 
 - Proceso de Negocio
 
-!!! info "ALERTA"
+!!! Abstract "ALERTA"
     
     Estos elementos sólo estarán disponibles cuando la aplicación [Neuro está habilitada][7] en su instancia.
 

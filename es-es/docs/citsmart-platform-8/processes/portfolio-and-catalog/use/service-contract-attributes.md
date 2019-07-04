@@ -28,7 +28,7 @@ Procedimiento
 6.  A la izquierda se muestran los diferentes atributos que se pueden configurar.
 
 
-!!! info "Información"
+!!! Abstract "Información"
 
     La gestión de contratos se puede realizar directamente en el enlace de edición, sin embargo es importante comprobar si su       perfil tiene ese permiso.
 

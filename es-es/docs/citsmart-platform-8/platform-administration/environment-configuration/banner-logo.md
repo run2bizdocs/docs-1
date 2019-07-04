@@ -13,7 +13,7 @@ Procedimiento
 3. Hacer clic en el cuadro de puntos para arrastrar un archivo o cargarlo;
 4. Hacer clic en "Guardar";
 
-!!! info "Cambiar el icono de carga"
+!!! Abstract "Cambiar el icono de carga"
     Para cambiar el icono de carga, cambie el valor del parámetro 387 a "SÍ".
 	
 	Camino: Parametrización > Parámetros CITSmart > 387.  

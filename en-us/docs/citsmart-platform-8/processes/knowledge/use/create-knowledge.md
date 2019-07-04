@@ -127,7 +127,7 @@ Figure 3 - Options Button
 -   **4**: archives the document that is open, making it not visible in the Knowledge Portal. 
 
 
-!!! Tip "Approval Workflow"
+!!! Abstract "Approval Workflow"
 
     The end user can propose new Documents/Knowledge in the Knowledge Portal floating button, the Document is saved in the folder indicated by the system Parameter 313.
     The Knowledge Manager searches the unpublished documents or the indicated folder and, depending on the progress of the approval, the Document will have other status:
@@ -153,7 +153,7 @@ Figure 4 - Search Button
 
 **Search Button** - it returns the main screen of the knowledge search.
 
-!!! Warning "Version"
+!!! Abstract "Version"
 
     In the creation of a knowledge, CITSmart will always establish the version "1.0" and, when changing a document, 
     it may be indicated by the operator, whether the change should be Versioned or not, and also if the previous versions 

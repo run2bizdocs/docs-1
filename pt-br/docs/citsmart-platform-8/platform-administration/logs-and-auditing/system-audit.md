@@ -36,7 +36,7 @@ funcionalidade.
 4.  É disponibilizado a possibilidade de determinar um período específico (data
     de início e fim) para a geração dos logs de auditoria do sistema.
 
-    !!! note "IMPORTANTE"
+    !!! Abstract "IMPORTANTE"
 
         São oferecidos três tipos de auditoria de sistema: auditoria dos dados do sistema, do acesso ao sistema e as licenças do mesmo.
 

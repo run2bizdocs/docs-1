@@ -35,7 +35,7 @@ Procedure
 
 6.  Complete all mandatory fields that each tab will present;
 
-    !!! info "Information of each tab"
+    !!! Abstract "Information of each tab"
     
         - Main: Information of service, status, phases, business importance and others.
         - Attatched Documents: Artifacts, documents, tabs and others.
