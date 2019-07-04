@@ -28,7 +28,7 @@ Procedimento
     vincular um quadro já criado ao clicar no outro botão relacionado ao
     “Workspace”.
     
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
     
         Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban.
 
@@ -49,7 +49,7 @@ Procedimento
     botão “Gravar e avançar o fluxo” para finalizar a tarefa e dirigir para
     próxima fase do fluxo.
     
-!!! info "Registro de Problema"
+!!! Abstract "Registro de Problema"
     
     No encerramento de uma mudança, a ferramenta dispõe de funcionalidade que verifica 
     a existência de problemas relacionados e, caso existam, encerra-os automaticamente. 
