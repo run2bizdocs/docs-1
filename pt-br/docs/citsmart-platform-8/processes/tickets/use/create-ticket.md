@@ -26,7 +26,7 @@ Procedimento
 
 4.  Preencher os demais dados necessários.
 
-!!! Success "DICA"
+!!! Abstract "DICA"
 
     O campo “Descrição” é o espaço para que as informações do ticket contenham
     palavras que remetam diretamente a aquele atendimento, sendo objetivas e de
