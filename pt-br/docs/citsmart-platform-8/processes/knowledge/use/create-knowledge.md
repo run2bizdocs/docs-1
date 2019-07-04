@@ -133,7 +133,7 @@ Figura 3 - Botão Opções
     Conhecimentos.
     
     
-!!! Tip "Workflow de Aprovação"  
+!!! Abstract "Workflow de Aprovação"  
 
     O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimento, o Documento é gravado na pasta indicada pelo Parâmetro 313 do sistema.  
     O Gerente de conhecimento pesquisa os documentos não publicados ou na pasta indicada e, conforme o andamento da aprovação, o Documento ganhará outros status:  
@@ -154,7 +154,7 @@ Figura 4 - Botão Pesquisa
     
 **Botão Pesquisar** – retorna tela principal de pesquisa de conhecimentos.  
 
-!!! Warning "Versionamento"  
+!!! Abstract "Versionamento"  
 
     Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser
     indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
