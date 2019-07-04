@@ -27,7 +27,7 @@ Procedimiento
     También es permitido vincular un cuadro ya creado al hacer clic en el otro botón relacionado
     al “Workspace”.
     
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
     
         Al vincular un Kanban ya existente, si el usuario no tiene el permiso de acceso a un 
         determinado espacio de trabajo, el sistema mostrará un mensaje que le indica. El usuario 
