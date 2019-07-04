@@ -26,7 +26,7 @@ Procedimiento
 
 4.  Completar los otros datos necesarios.
 
-!!! Success "TIP"
+!!! Abstract "TIP"
 
     El campo "Descripción", es el espacio para que la información del ticket contenga 
     palabras que remiten directamente a esa atención, siendo objetivas y de fácil asociación 
