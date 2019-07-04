@@ -36,7 +36,7 @@ Procedure
            in the Knowledge Base" is visible, check the parametrization of the Knowledge Management process;
            
          
-        !!! warning "ATTENTION"
+        !!! Abstract "ATTENTION"
            
              In order for the "Save Solution / Knowledge Base Answer" option to be available by 
              checking the "Resolved" option of the ticket, it is necessary to configure parameters 
