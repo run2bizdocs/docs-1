@@ -39,7 +39,7 @@ Procedimento
           "Gravar Solução/Resposta na Base de Conhecimento" esteja visível,
           verificar a parametrização do processo de Gestão do Conhecimento;
 
-        !!! warning "ATENÇÃO"
+        !!! Abstract "ATENÇÃO"
             
             Para que a opção “Gravar solução/Resposta na Base de Conhecimento” 
             fique disponível ao marcar a opção “Resolvida” do ticket, é necessário 
