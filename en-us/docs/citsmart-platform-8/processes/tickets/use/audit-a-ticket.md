@@ -22,7 +22,7 @@ Procedure
 4.  Click on the icon symbolized by a magnifying glass to define the filters
     necessary to verify the ticket instances history to audit.
 
-!!! warning "ATTENTION"
+!!! Abstract "ATTENTION"
 
     In the Ticket Management interface, specifically in the item "Auditing",
     when trying to configure the audit of an open ticket (define the start and
