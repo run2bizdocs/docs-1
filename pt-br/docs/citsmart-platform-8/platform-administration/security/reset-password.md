@@ -4,7 +4,7 @@ Description: A alteração de senha do usuário é uma das possiblidades permiti
 
 A alternativa de alteração de senha do usuário é uma das possiblidades liberadas pelo sistema. Para configurar esta opção é necessário seguir os procedimentos aqui descritos.
 
-!!! warning "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
     Esta opção está disponível apenas para autenticação de contas manuais.
 
@@ -22,7 +22,7 @@ Procedimento
 
 2.  Criar o modelo de e-mail com o intuito de alterar a senha;
 
-    !!! warning "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
         Para que o usuário receba as novas informações de acesso é preciso utilizar
         na mensagem de e-mail a chave ‘${NOVASENHA}’ (exemplo de chave referente a
