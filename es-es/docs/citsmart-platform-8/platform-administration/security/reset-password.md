@@ -4,7 +4,7 @@ Description: El cambio de contraseña del usuario es una de las posibilidades pe
 
 El cambio de contraseña del usuario es una de las posibilidades permitidas por el sistema. Para configurar esta opción, es necesario seguir los procedimientos aquí descritos.
 
-!!! warning "ATENCIÓN"
+!!! Abstract "ATENCIÓN"
 
     Esta opción sólo está disponible para la autenticación de cuentas manuales.
 
@@ -22,7 +22,7 @@ Procedimiento
 
 2.  Crear la plantilla de correo electrónico para cambiar la contraseña;
 
-    !!! warning "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
 
         Para que el usuario reciba la nueva información de acceso es necesario utilizar, en el mensaje de correo electrónico la         clave ‘${NOVASENHA}’ (ejemplo de clave referente a "Nueva contraseña"). Además, también se puede enviar el usuario de           login utilizando la clave ‘${LOGIN}’ (ejemplo de clave referente a “Login”).  
 
