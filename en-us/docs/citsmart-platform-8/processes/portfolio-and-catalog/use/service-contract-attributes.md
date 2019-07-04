@@ -27,9 +27,9 @@ Procedure
 6.  On the left side, it's presented the different attributes that can be configured.
 
 
-!!! info "Information"
+!!! Abstract "Information"
 
-    Contract management can be done directly by clicking on the edit link, however it's important to check if your profile has this         permission.
+    Contract management can be done directly by clicking on the edit link, however it's important to check if your profile has this permission.
 
 
 What to do next
