@@ -22,7 +22,7 @@ tasks, which can be in groups of cards.
     default and cannot be changed. Only when the user is of type *normal*, the 
     permissions will be editable.
     
-!!! warning "ATTENTION"
+!!! Abstract "ATTENTION"
 
     The language in the columns that appear on the **My notifications screen (bell icon)** 
     will follow what was set in parameter 66 (Default language of the system).
