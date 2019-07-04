@@ -21,12 +21,14 @@ O chat pode ser usado de três modos:
 
 !!! Abstract "NOTA"
     
-    Para interação com um Chatbot é necessário ter adquirido este serviço. Em caso de dúvidas, entre em contato com a CITSmart.
+    Para interação com um Chatbot é necessário ter adquirido este serviço. Em caso de dúvidas, entrar em contato com a             CITSmart.
 
 # Antes de começar
 
-Para que o chat esteja disponível é preciso configurar os parâmetros de ativação da funcionalidade. 
+Para que o chat esteja disponível é preciso configurar os parâmetros de ativação da funcionalidade.
+
 •	Uso Manual: 299, 315, 316, 317, 447 e 423.
+
 •	Integração com a Anuva: 423
 
 Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtual Anuva.
