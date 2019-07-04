@@ -45,7 +45,7 @@ scheduled task.
 ```    
 
 
-!!! info "NOTE"
+!!! Abstract "NOTE"
 
     It's possible to read the title of the email sent, it stored in the field
     *subject* of the table reademaildatarequest.
