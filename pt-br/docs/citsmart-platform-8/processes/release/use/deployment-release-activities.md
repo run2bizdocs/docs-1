@@ -25,7 +25,7 @@ Procedimento
     fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
     responsáveis para a execução das tarefas, dentre outros. Também, é possível vincular a       liberação um Kaban já criado;
     
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
     
         Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban. 
 
