@@ -48,7 +48,7 @@ Procedimiento
     las actividades de planificación o seleccionar "Guardar y avanzar flujo" para cerrar la tarea
     y direccionar para la siguiente fase del flujo.
 
-!!! info "Registro de Problema"
+!!! Abstract "Registro de Problema"
 
     En el cierre de un cambio, la herramienta dispone de funcionalidad que comprueba la existencia 
     de problemas relacionados y, si existen, los cierra automáticamente. La funcionalidad está en 
