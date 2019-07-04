@@ -24,7 +24,7 @@ Procedimiento
     necesarios para verificar el histórico de las instancias del ticket para la
     auditoria.
 
-!!! warning "ATENCIÓN"
+!!! Abstract "ATENCIÓN"
 
     En la interfaz de gestión de tickets, específicamente en el apartado "Auditoría",
     al intentar configurar la auditoría de un ticket abierto (definir las fechas de
