@@ -23,7 +23,7 @@ Procedimento
 4.  Clicar no ícone simbolizado por uma lupa, definir os filtros necessários
     e verificar o histórico das instâncias do ticket para a auditoria.
 
-!!! warning "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
     Na interface do Gerenciamento do Ticket, especificamente no item "Auditoria",
     ao tentar configurar a auditoria de um ticket aberto (definir as datas de
