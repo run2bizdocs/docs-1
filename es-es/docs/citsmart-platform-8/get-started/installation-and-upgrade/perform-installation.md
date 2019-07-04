@@ -662,7 +662,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
 
 2. El contexto "citsmart" es el estándar de CITSmart Enterprise.
 
-    Primer acceso: Entre con la URL > https://example.com:8443/citsmart
+    Primer acceso: Entre con la URL > ```https://example.com:8443/citsmart```
 
 3. Ahora, siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
 

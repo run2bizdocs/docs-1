@@ -97,7 +97,7 @@ Title: Perform installation
     ```sh
     vim standalone.conf
     ```
-	
+
     ```java
     if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
     JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
@@ -214,16 +214,16 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     ```
 
 2. Connect the jboss-cli once again and execute the command below to add the module to the standalone-full-ha.xml   
-   
+
     ```sh
     module add --name=org.postgres --resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --dependencies=javax.api,javax.transaction.api
     ```
     ```sh
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
-   
+
 3. There are **eight inputs** of datasource for the **citsmart_db**, being four for CITSmart and four for CITSmart Neuro. The user and   password is **citsmartdbuser and exemplo123** respectively created in the section *PostgreSQL Database Server*.
-   
+
 4. To create datasources, execute the CLI commands below:
 
     Datasource citsmart:
@@ -395,10 +395,10 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     INICIAR_PROCESSAMENTOS_BATCH=TRUE
     ```
 
-!!! Abstract "ATTENTION"	
-    
+!!! Abstract "ATTENTION"
+
     Do not forget to change the owner of the files and directories to the CITSmart's user
-    
+
 ## Quartz Configuration
 
 CITSmart Batch processing uses Quartz for scheduling and processing system routines. To set it up, follow the procedure:
@@ -525,13 +525,13 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
-	
+
     **For Knowledge Base:**
 
     ```sh
     mkdir /opt/citsmart/kb
     ```
-	
+
     **For Twin Words:**
 
     ```sh
@@ -556,38 +556,37 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 1. Connect in the Wildfly server;
 
-    Creating new alias with DNS (example itsm.citsmart.com): 
+    Creating new alias with DNS (example itsm.citsmart.com):
 
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
     ```
 
-    Creating alias with IP of Jboss server (example 192.168.0.40): 
+    Creating alias with IP of Jboss server (example 192.168.0.40):
 
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
     ```
 
-    Exporting certificate to extension .cer: 
+    Exporting certificate to extension .cer:
 
     ```sh
     /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
-    Adding certificate in the cacerts of Java: 
+    Adding certificate in the cacerts of Java:
 
     ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
     **Remember to apply the permissions to the wildfly and java jdk owner**
-	
+
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
-    
-2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
+2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
@@ -647,12 +646,12 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
     ```sh
-    https://itsm.citsmart.com:8443/citsmart
+    https://example.com:8443/citsmart
     ```
 
 2. The CITSmart context is standard to the CITSmart Enterprise.
 
-    First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
+    First Access: Enter the URL > ```https://example.com:8443/citsmart```.
 
 3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart.
 
@@ -668,5 +667,4 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
-	
+    <b>Updated:</b>01/22/2019 - Docummentation Team
