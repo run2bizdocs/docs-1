@@ -34,7 +34,7 @@ Criar um alarme sonoro
    - Dispor de um drive de aúdio;
    - Caixas de som ou um Head Set para ouvir o alarme.
    
-!!! note "NOTA"
+!!! Abstract "NOTA"
 
     Mesmo se o usuário receber várias notificações ao mesmo tempo, o alarme sonoro só será acionado uma vez.
 
