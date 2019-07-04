@@ -24,7 +24,7 @@ Workflows are visual representations of something that moves continuously. The W
 
 - Business Process
 
-!!! info "ALERT"
+!!! Abstract "ALERT"
     
     These items will only be available when the application [Neuro is enabled][7] in your instance.
 
