@@ -2,7 +2,9 @@ title:  Actividades de la fase de implantación de la liberación
 Description: Permite planificar las actividades a ser implementadas junto a la liberación
 # Actividades de la fase de implantación de la liberación
 
-Esta funcionalidad permite planificar las actividades a ser implementadas junto a la solicitud de liberación, semejante a lo que ocurre en la fase de Planificación de la Liberación.
+Esta funcionalidad permite planificar las actividades a ser implementadas junto a 
+la solicitud de liberación, semejante a lo que ocurre en la fase de Planificación 
+de la Liberación.
 
 Antes de empezar
 ----------------
@@ -24,6 +26,13 @@ Procedimiento
     llamada "Actividades") y completar los datos disponibles, tales como el
     título, su fase (a hacer, en curso, etc), seleccionar el usuario o grupo
     responsables de la ejecución de las tareas, entre otros;
+    
+    !!! Abstract "NOTA"
+    
+        Al vincular un Kanban existente, si el usuario no tiene permiso para acceder 
+        a un Workspace en particular, el sistema mostrará un mensaje informándole. 
+        El usuario debe solicitar permiso en Workspace y Sprint o crear un nuevo 
+        cuadro Kaban.
 
 4.  Es posible vincular los papeles y responsabilidades, proyectos, documentos,
     notas, documentos y notificaciones del sistema a la solicitud de liberación.
