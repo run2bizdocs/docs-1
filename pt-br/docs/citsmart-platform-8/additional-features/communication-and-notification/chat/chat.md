@@ -33,6 +33,7 @@ Para que o chat esteja disponível é preciso configurar os parâmetros de ativa
 
 Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtual Anuva.
 
+
 # Relacionado
 
 [Configurar parametrização - chat](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-chat.html)
