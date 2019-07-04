@@ -2,12 +2,14 @@ title: Activities of the deployment release phase
 Description: This functionality is intended to plan the activities to be deployed to the release. 
 # Activities of the deployment release phase
 
-This functionality is intended to plan the activities to be deployed to the release.
+This functionallity allows to plan the activities to be implemented along the release, 
+similar to what occurs in the Release Planning phase.
 
 Before getting started
 --------------------
 
-Before performing the activities inherent to the Release Deployment, there must be a Release with the planning phase completed.
+Before performing the activities inherent to the Release Deployment, there must 
+be a Release with the planning phase completed.
 
 
 Procedure
@@ -24,6 +26,13 @@ Procedure
     available, for example, the title, its phase (to be done, in progress,
     etc.), select the user or group responsible for the execution of tasks and
     others;
+    
+    !!! Abstract "NOTE"
+    
+        When linking an existing Kanban, if the user does not have permission to 
+        access a particular Workspace, the system will display a message informing 
+        it. The user must then request permission in Workspace and Sprint or create 
+        a new Kaban framework.
 
 4.  You can link the roles and responsibilities, projects, documents, notes and
     notifications of system to the release. To do so, it's necessary to
