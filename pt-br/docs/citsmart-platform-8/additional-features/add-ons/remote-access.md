@@ -37,7 +37,7 @@ instalar o guacamole-client, uma vez que o CITSmart utiliza apenas a daemon do G
     
 6. Definir o diretório para gravação dos vídeos (ex. /mp4);
     
-    !!! success "Gravação de video"
+    !!! Abstract "Gravação de video"
     
         Após o encerramento da sessão de acesso remoto, o vídeo gerado 
         entra em uma fila de compilação para então, ser disponilizado na 
