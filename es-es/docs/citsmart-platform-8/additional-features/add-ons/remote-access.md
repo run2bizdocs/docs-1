@@ -37,7 +37,7 @@ instalar el guacamole-client, ya que el CITSmart utiliza sólo la daemon del Gua
 
 6. Definir el directorio para la grabación de los vídeos (por ejemplo: /mp4);
 
-    !!! success "Grabación de vídeos"
+    !!! Abstract "Grabación de vídeos"
    
         Después del cierre de la sesión de acceso remoto, el vídeo generado entra en una cola de compilación para entonces, estar               disponible en la plataforma. El tiempo de compilación dependerá del tiempo de la sesión, además, el inicio de la compilación se         vincula a la rutina cron definida en la conexión de acceso remoto.
 
