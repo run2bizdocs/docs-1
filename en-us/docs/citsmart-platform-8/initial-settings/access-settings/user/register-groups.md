@@ -71,7 +71,7 @@ access.
 5.  Click on "Save".
 
 
-!!! warning "RULE"
+!!! Abstract "RULE"
 
     The group exclusion depends on there being no portfolios, employees and
     contracts linked to it.    
