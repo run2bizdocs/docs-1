@@ -40,7 +40,7 @@ Procedure
         When linking an existing Kanban, if the user does not have permission to 
         access a particular Workspace, the system will display a message informing you. 
         The user must then request permission in Workspace and Sprint or create a new 
-        Kaban framework.
+        Kanban framework.
 
     -   Register any known error in order to enable the evaluation by the
     responsible team, and the diffusion of your solution for the ones interested.
