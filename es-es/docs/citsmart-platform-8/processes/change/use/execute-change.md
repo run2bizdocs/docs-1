@@ -21,7 +21,7 @@ Procedimiento
 3.  En la pestaña "Revisión", es necesario seleccionar la opción que define si el cambio
     fue hecho correctamente;
 
-4.  Será posible crear un cuadro Kaban para gestionar las actividades registradas. Sólo
+4.  Será posible crear un cuadro Kanban para gestionar las actividades registradas. Sólo
     hacer clic en “+Workspace” y completar los datos disponibles, por ejemplo: título,
     seleccionar el usuario o grupo responsable por la ejecución de las tareas, y otros.
     También es permitido vincular un cuadro ya creado al hacer clic en el otro botón relacionado
