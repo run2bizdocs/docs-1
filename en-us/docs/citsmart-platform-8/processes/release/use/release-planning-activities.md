@@ -28,13 +28,13 @@ Procedure
 4.  It is possible to link the roles and responsibilities, projects, notes, 
     documents and system notifications to the release. To do so, it is necessary to 
     click on the available frame, select the item you want to link it to the release. 
-    Also, it is possible to link the release to a Kaban already created;
+    Also, it is possible to link the release to a Kanban already created;
 
     !!! Abstract "NOTE"
     
         When linking an existing Kanban, if the user does not have permission to access 
         a particular Workspace, the system will display a message informing it. The user 
-        must then request permission in Workspace and Sprint or create a new Kaban framework.
+        must then request permission in Workspace and Sprint or create a new Kanban framework.
 
 5.  In addition to allowing the link of responsibilities, projects, and
     notification of systems, it's possible to create from scratch to fit the
