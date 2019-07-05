@@ -27,14 +27,16 @@ Procedimento
     responsáveis para a execução das tarefas, dentre outros;
 
 4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
-    notas, documentos e notificações do sistema à liberação. Para
-    tanto, é necessário clicar sobre o quadro disponibilizados, selecionar o
-    item desejado para vincula-lo à liberação. Também, é possível vincular a liberação
-    um Kanban já criado;
+    notas, notificações do sistema à liberação. Para tanto, é necessário clicar 
+    sobre o quadro disponibilizados, selecionar o item desejado para vincula-lo à 
+    liberação. Também, é possível vincular a liberação um Kaban já criado;
     
     !!! Abstract "NOTA"
     
-        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kanban. 
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão 
+        de acesso a um determinado Workspace, o sistema apresentará uma mensagem 
+        o informando. O usuário, deve então, solicitar a permissão na Workspace e 
+        Sprint ou criar um novo quadro Kaban. 
 
 5.  Além de permitir o vínculo das responsabilidades, projetos, e notificação de
     sistemas, é possível criar os mesmos do zero para adequar-se a liberação em

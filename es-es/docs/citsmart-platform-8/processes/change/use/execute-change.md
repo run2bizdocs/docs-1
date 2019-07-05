@@ -32,7 +32,7 @@ Procedimiento
         Al vincular un Kanban ya existente, si el usuario no tiene el permiso de acceso a un 
         determinado espacio de trabajo, el sistema mostrará un mensaje que le indica. El usuario 
         debe, entonces, solicitar el permiso en el espacio de trabajo y Sprint o crear un nuevo 
-        cuadro Kaban.
+        cuadro Kanban.
 
 5.  Aún es posible vincular incidentes, problemas, lecciones aprendidas (que son básicamente 
     conocimientos que se refieren al cambio efectuado) y adjuntos de archivos para detallar la 
