@@ -35,7 +35,7 @@ Procedimiento
     
         Al vincular un Kanban existente, si el usuario no tiene permiso para acceder 
         a un Workspace en particular, el sistema mostrará un mensaje informándole. 
-        El usuario debe solicitar permiso en Workspace y Sprint o crear un nuevo cuadro Kaban.
+        El usuario debe solicitar permiso en Workspace y Sprint o crear un nuevo cuadro Kanban.
 
 5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
     notificación de sistemas, es posible crear los mismos de cero para adecuarse
