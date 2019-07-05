@@ -1,7 +1,7 @@
 title: Print ticket
-
 Description: Aims to print the summary the main data of a ticket.
-#Print ticket
+# Print ticket
+
 This functionality aims to print the summary the main data of a ticket.
 
 Before getting started
@@ -14,9 +14,9 @@ Procedure
 -------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+    \> Ticket Management \> Ticket;
 
-2.  Click on the ticket you want and select "Print Request" in the options menu.
+2.  Click on the ticket you want, then on "More options" and select the option "Print".
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 

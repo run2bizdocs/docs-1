@@ -12,13 +12,15 @@ Antes de empezar
 Un modelo de correo electrónico deberá haber sido registrado previamente y que
 las claves a ser usadas en su cuerpo de texto deberán ser las siguientes:
 
--   \${IDSOLICITACAOSERVICO}
+```html
+${IDSOLICITACAOSERVICO}
 
--   \${SERVICO}
+${SERVICO}
 
--   \${SOLICITANTE}
+${SOLICITANTE}
 
--   \${DESCRICAO}
+${DESCRICAO}
+```
 
 Procedimiento
 -----------------

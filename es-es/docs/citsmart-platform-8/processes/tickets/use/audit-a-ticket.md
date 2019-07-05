@@ -7,13 +7,13 @@ La funcionalidad permite la auditoria de los tickets creados.
 Antes de empezar
 ----------------
 
-Es necesario registrar anteriormente los tickets.
+Es necesario registrar anteriormente los tickets y tener permiso de acceso.
 
 Procedimiento
 -------------
 
 1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Haga clic en el primer botón situado en la esquina superior izquierda y
     luego haga clic en el elemento de "Auditoría"; 
@@ -24,7 +24,7 @@ Procedimiento
     necesarios para verificar el histórico de las instancias del ticket para la
     auditoria.
 
-!!! warning "ATENCIÓN"
+!!! Abstract "ATENCIÓN"
 
     En la interfaz de gestión de tickets, específicamente en el apartado "Auditoría",
     al intentar configurar la auditoría de un ticket abierto (definir las fechas de

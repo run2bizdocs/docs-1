@@ -1,5 +1,5 @@
 title: Automatically create a ticket from the receiving of an email
-Description: Allows to automatic create ticket when an email message is sent to a a certain address.
+Description: It allows to automatic create ticket when an email message is sent to a a certain address.
 
 # Automatically create a ticket from the receiving of an email
 
@@ -13,49 +13,49 @@ service\@company.com, after receiving the email, the functionality, after check
 the existence of a message, automatically registers the ticket. It's important
 to highlight that after the ticket registration, the email is marked as read.
 
-Before getting started
---------------------------
+## Before getting started
 
-To create a ticket through email receiving, it's necessary to configure an email
-account to allow the access through IMAP.
+To create a ticket through the receiving of an e-mail, it is necessary to configure 
+an e-mail account to previously allow the access via IMAP. In addition, it is necessary 
+to configure the instance to use batch routines, since the email verification is a 
+scheduled task.
 
-Procedure
--------------
+## Procedure
 
-*Step 1*
+**Step 1 - Creating ticket template**
 
 1.  Access the functionality through the main menu System \> Automatic actions
     \> Incident/Request/Procedure Actions (see Register automatic
     actions of incident/request/procedure).
 
-*Step 2*
+**Step 2 - Set up access to the email box**
 
 1.  Create the email automatic action by accessing the main menu System \>
     Settings \> Automatic Action Setting Via Email. This register is used 
     to trigger the rading and register of requests (see Create automatic 
     action via email).
 
-*Step 3*
+**Step 3 - Create verification routine (batch)**
 
 1.  Create batch routine, by accessing the main menu System \> Batch Processing
-    (see Batch Processing):
-
-    -   Download script attached.
-
-!!! Abstract "ATTENTION"
-
-    The information contained in the content of the email message, the addresses
-    of the sender, recipient and hidden copy of the email that is read and used
-    to register a service request will be collected.
-
-    For this information to be viewed via the Rhino script, the following
-    example is attached.
+    (see Batch Processing), of "Java Class" type with the following content:
     
+```java
+ br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+```    
+
+
 !!! Abstract "NOTE"
 
     It's possible to read the title of the email sent, it stored in the field
     *subject* of the table reademaildatarequest.
     
+In addition, if there is a need to retrieve other information contained in the email fields, 
+as recipients marked as copy (CC) or hidden copy (BCC) use the Rhino script below:
+
+```java
+var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citframework.util); var print = java.lang.System.out; var readEmailDataDTO = serviceRequest.getReadEmailDataDTO(); if (readEmailDataDTO!=null){ print.println("Dados do E-mail de Origem: "); print.println("From: "); print.println(readEmailDataDTO.getMessageFrom()); print.println("To: "); print.println(readEmailDataDTO.getMessageTo()); print.println("CC (Carbon Copy): "); print.println(readEmailDataDTO.getMessageCC()); }
+```
 
 Related
 -------
@@ -66,21 +66,13 @@ Related
 
 [Batch Processing](/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
 
-
-
-Attachment
-------------
-
-[Download - Verify email][1]
-
-[Download -Script Rhino email data][2]
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins
 
+[1]:/en-us/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/configuration/images/verify-email.docx
-
-[2]:/en-us/citsmart-platform-8/processes/tickets/images/script-rhino-email.rtf
+[2]:/en-us/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf

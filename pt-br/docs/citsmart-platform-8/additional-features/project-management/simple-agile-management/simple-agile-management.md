@@ -19,7 +19,7 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
     As permissões no Workspace e Sprint (localizada no botão configurações > perfis e permissões), quando o *administrador* estiver logado, virão selecionadas por default e não poderão ser alteradas. Apenas quando o usuário for do tipo *normal* é que as permissões serão editáveis.
 
-!!! warning "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
     O idioma nas colunas que se apresentam na tela de **Minhas notificações (figura de sino)**, seguirá o que foi setado     no parâmetro 66 (Idioma padrão do sistema).
 
@@ -189,6 +189,12 @@ dispositivos de controle e gestão.
     -   **2**: adicionar listas de ações que serão visualizadas na aba Checklist
 
     -   **3**: adicionar comentários
+    
+    !!! Abstract "NOTA"
+
+        Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"* foi inserida duas novas funcões:  
+         -  *Editar Comentário*;  
+         -  *Excluir Comentário*. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada

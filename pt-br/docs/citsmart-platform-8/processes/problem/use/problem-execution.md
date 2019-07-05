@@ -23,7 +23,8 @@ Procedimento
     
     !!! Abstract "ATENÇÃO"
     
-        Usuários que utilizavam a versão 7: os campos **Messagem de erro associada** e **Diagnóstico** que já continham                   informações, serão apresentadas agora na versão 8, na aba *Avaliação e Diagnóstico*, dentro da área *Diagnóstico*.
+        Usuários que utilizavam a versão 7: os campos **Messagem de erro associada** e **Diagnóstico** que já continham                 
+        informações, serão apresentadas agora na versão 8, na aba *Avaliação e Diagnóstico*, dentro da área *Diagnóstico*.
         Caso não tenha informações nesses campos em versões anteriores, não será apresentada esta aba na versão 8.
     
     -   Criar um quadro Kanban ou vincular um já existente. Para criar um novo
@@ -32,6 +33,9 @@ Procedimento
     execução do problema, dentre outros. Já, para vincular um Kanban já criado,
     basta apertar no outro ícone referente ao Workspace.
 
+    !!! Abstract "ATENÇÃO"
+    
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kanban.       
     -   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
     equipe responsável e a difusão de sua solução para os interessados. Para
     tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar

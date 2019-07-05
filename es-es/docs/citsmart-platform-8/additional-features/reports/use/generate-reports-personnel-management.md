@@ -1,6 +1,6 @@
 title: Generar informe - gestión de personal
 Description: Presentar la información de los colaboradores por unidad.
-# Generar informe - gestión de personal
+# Generar informe - Gestión de personal
 
 
 Este informe tiene el objetivo de presentar la información de los colaboradores

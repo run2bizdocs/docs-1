@@ -23,7 +23,7 @@ Procedure
         
         It's mandatory to schedule the important phases of the change by clicking on the "Planning" area and then "Other information".
     
-    !!! Warning "IMPORTANT"
+    !!! Abstract "IMPORTANT"
 
         In all phases:
            - Planning,

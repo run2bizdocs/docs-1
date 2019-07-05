@@ -23,12 +23,12 @@ Procedure
 
 3.  Complete all mandatory field in **Basic Data**;
 
-    !!! Warning "IMPORTANT"
+    !!! Abstract "IMPORTANT"
 
         Indicate in the attribute "Impact/Urgency Change", if it'll be allowed the 
         change of Impact and/or Urgency.
         
-    !!! Warning "ATTENTION"
+    !!! Abstract "ATTENTION"
     
         If the attendance time does not allow the change of impact and urgency, the 
         system automatically replaces what is sent via WebService to the impact, 

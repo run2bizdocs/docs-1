@@ -4,7 +4,7 @@ Description: Changing the user password is one of the possibilities allowed by t
 
 The alternative to change users password is one of the possibilities released by the system. To configure this option, it's necessary to follow the procedures described here.
 
-!!! warning "NOTE"
+!!! Abstract "NOTE"
 
     This option is only available for manual account authentication.
 
@@ -22,7 +22,7 @@ Procedure
 
 2.  Create an email template to change the password;
 
-    !!! warning "NOTE"
+    !!! Abstract "NOTE"
 
         In order for the user to receive the new access information, it's necessary to use, in the e-mail message, the key                      ‘${NOVASENHA}’ (for example, the key about the "New password”). In addition, you can also send the user login using the key              ‘${LOGIN}’ (for example, the key about the“Login”). 
         

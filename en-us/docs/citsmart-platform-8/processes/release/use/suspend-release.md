@@ -1,6 +1,6 @@
 title: Suspend release registration
 Description: Allows to suspend the execution of the release.
-#Suspend release registration
+# Suspend release registration
 This functionality allows to suspend the execution of the release.
 
 Before getting started

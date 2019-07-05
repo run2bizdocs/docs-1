@@ -52,7 +52,7 @@ Procedure
 |        Service Audit       | Attribute |                                                                       It allows to verify the history of service to audit it                                                                      |
 
 
-!!! info "SERVICE LEVEL REQUIREMENT"
+!!! Abstract "SERVICE LEVEL REQUIREMENT"
 
     Information available to maintain Service Level Requirements: Creation date, Service start date,
     Service owner, Service utility, (Specification, Context, Essential Functionalities), Service

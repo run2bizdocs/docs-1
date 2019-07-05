@@ -37,11 +37,9 @@ the guacamole-client, since CITSmart only uses the Guacamole daemon, that is, th
 
 6. Set directory for recording videos (eg.: /mp4);
 
-   !!! success "Video recording"
+    !!! Abstract "Video recording"
    
-       After the remote access session ends, the generated video enters a compilation queue and then made 
-       available on the platform. The time of compilation will depend on the time of the session, in addition, 
-       the beginning of the compilation is linked to the cron routine defined in the remote access connection.
+        After the remote access session ends, the generated video enters a compilation queue and then made available on the platform.           The time of compilation will depend on the time of the session, in addition, the beginning of the compilation is linked to the           cron routine defined in the remote access connection.
    
 7. In the configuration item that will be accessed remotely (eg.: Windows Computer), install a remote access client with VNC protocol support (Example: [TightVNC][3]) and set an access password. Save this password as it will be used in the next step;   
 

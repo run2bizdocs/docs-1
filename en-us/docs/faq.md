@@ -1,4 +1,4 @@
-Title: Frequently Asked Questions - FAQ
+Title: FAQ
 description: Here you have the answers for the most common parameters when talking about the CITSmart tool
 
 # Frequently Asked Questions - FAQ
@@ -165,7 +165,7 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge Register group);
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same;
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
@@ -343,11 +343,11 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "What is the meaning of each inventory status of CI?"
     
-    -   Inventory - the inventory was able to read the CI information and ended successfully;
-    -   Ignored - in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
-    -   Unreachable - when the server encounters the IC but can not bring the information;
-    -   Not inventoried - when neither it finds the IC in the network, but knows that it already existed;
-    -   Running - while reading the inventory, the IC is in this status.
+    -   Inventory: the inventory was able to read the CI information and ended successfully;
+    -   Ignored: in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Unreachable: when the server encounters the IC but can not bring the information;
+    -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
+    -   Running: while reading the inventory, the IC is in this status.
 
 ***Configuration***
 
@@ -383,9 +383,9 @@ description: Here you have the answers for the most common parameters when talki
     8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
     10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
-    11. Search for the parameter "93 - Name of The CIs Group in Confirmation Phase (e.g.: ICs em Produção)";
+    11. Perform the search for the parameter "94 - Name of the group of ICs that are in the Production Phase (Ex: CIs in Homologation)";
     12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
-    13. On the Value field, insert the name of the CI group in confirmation phase;
+    13. In the value field, enter the name of the CI group of the homologation phase;
     14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
 
 !!! Question "How to define the obligatoriness of linking the change with the CI?"
@@ -525,7 +525,7 @@ description: Here you have the answers for the most common parameters when talki
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
     23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
 
-!!! Question "How to enable the Service Portal(Smart Portal)?"
+!!! Question "How to enable the Service Portal (Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
@@ -769,22 +769,22 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "Why are the schedules created by the tool different from the current time?"
     
     SCENARIO
+    
     1. When creating a ticket, the time is different from the actual time, alternating between 1 (one) and 3 (three) hours of delay or advance.
 
     WHAT TO CHECK
     
-    1- Postgresql database configuration file:
+    1. Postgresql database configuration file:
     
-    Postgresql.conf
-    timezone = 'BRAZIL/EAST'
+        Postgresql.conf - timezone = 'BRAZIL/EAST'
     
-    2- On the container cloud:
+    2. On the container cloud:
     
-    Setting timezone on the operating system.
+        Setting timezone on the operating system.
     
-    3-Setting up the TimeZone on the JRE:
+    3. Setting up the TimeZone on the JRE:
     
-    https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
+        https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
 
 !!! Question "Why in some reports does the same request appear more than once?"
     
@@ -814,15 +814,5 @@ description: Here you have the answers for the most common parameters when talki
     Enter the configuration of all dataSources.
 
 !!! Question "How can the expiration time of the application sessions be changed?"
-
-    This type of change is done manually by the System Administrator directly inside the web.xml file.
-    Just enter the desired time (in minutes) in the <session-timeout> session.
-    The product installation makes default the value 30.
     
-    - Example:
-
-    ```java
-    <session-config>
-        <session-timeout>15</session-timeout>
-    </session-config>
-    ```    
+    This type of change is configured in the functionality Parametrization > CITSmart Parameters. Then, select the parameter 449 and add the value you want in minutes. After that, you need to disconnect and reconnect to the system, so the system will look for the new default for session expiration time.

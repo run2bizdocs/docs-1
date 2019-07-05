@@ -2,7 +2,7 @@ title: Direct the ticket
 
 Description: This functionality allows to direct the request/incident attendance to a group you want.
 
-#Direct the ticket
+# Direct the ticket
 This functionality allows to direct the request/incident attendance to a group you want.
 
 Before getting started

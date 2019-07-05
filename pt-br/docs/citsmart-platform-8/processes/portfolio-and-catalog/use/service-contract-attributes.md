@@ -28,9 +28,9 @@ Procedimento
 6.  Ao lado esquerdo são apresentados os diferentes atributos que podem ser configurados.
 
 
-!!! info "Informação"
+!!! Abstract "Informação"
 
-    A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem         essa permissão.
+    A gestão de contrato pode ser realizada diretamente clicando no link de edição, contudo é importante verificar se seu perfil tem essa permissão.
     
 
 O que fazer a seguir

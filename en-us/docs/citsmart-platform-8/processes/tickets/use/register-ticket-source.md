@@ -2,7 +2,7 @@ title:  Register ticket source
  
 Description: Provides a variety of actions, such as including, changing, and deleting several types of teams or areas that can create a ticket
 
-#Register ticket source
+# Register ticket source
 This feature provides a variety of actions, such as including, changing, and deleting several types of teams or areas that can create a ticket
 
 Procedure

@@ -21,11 +21,18 @@ Procedimiento
 3.  En la pestaña "Revisión", es necesario seleccionar la opción que define si el cambio
     fue hecho correctamente;
 
-4.  Será posible crear un cuadro Kaban para gestionar las actividades registradas. Sólo
+4.  Será posible crear un cuadro Kanban para gestionar las actividades registradas. Sólo
     hacer clic en “+Workspace” y completar los datos disponibles, por ejemplo: título,
     seleccionar el usuario o grupo responsable por la ejecución de las tareas, y otros.
     También es permitido vincular un cuadro ya creado al hacer clic en el otro botón relacionado
     al “Workspace”.
+    
+    !!! Abstract "NOTA"
+    
+        Al vincular un Kanban ya existente, si el usuario no tiene el permiso de acceso a un 
+        determinado espacio de trabajo, el sistema mostrará un mensaje que le indica. El usuario 
+        debe, entonces, solicitar el permiso en el espacio de trabajo y Sprint o crear un nuevo 
+        cuadro Kanban.
 
 5.  Aún es posible vincular incidentes, problemas, lecciones aprendidas (que son básicamente 
     conocimientos que se refieren al cambio efectuado) y adjuntos de archivos para detallar la 
@@ -41,7 +48,7 @@ Procedimiento
     las actividades de planificación o seleccionar "Guardar y avanzar flujo" para cerrar la tarea
     y direccionar para la siguiente fase del flujo.
 
-!!! info "Registro de Problema"
+!!! Abstract "Registro de Problema"
 
     En el cierre de un cambio, la herramienta dispone de funcionalidad que comprueba la existencia 
     de problemas relacionados y, si existen, los cierra automáticamente. La funcionalidad está en 

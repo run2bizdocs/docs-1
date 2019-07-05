@@ -76,7 +76,7 @@ alcançados com o uso da metodologia.
 | Termo de Aceite (template)                | 21/05/2019 | V.1    |
 | Workbook (template)                       | 21/05/2019 | V.1    |
 
-!!! warning "ATENÇÃO"
+!!! Abstract "ATENÇÃO"
 
     Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do [MY.CITSmart](https://my.citsmartcloud.com)
 

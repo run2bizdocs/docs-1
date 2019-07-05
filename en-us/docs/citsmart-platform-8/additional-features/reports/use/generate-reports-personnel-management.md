@@ -1,6 +1,6 @@
 title: Generate reports - personnel management
 Description: Intended to present the information of employees by unit.
-# Generate reports - personnel management
+# Generate reports - Personnel management
 
 This report is intended to present the information of employees by unit.
 

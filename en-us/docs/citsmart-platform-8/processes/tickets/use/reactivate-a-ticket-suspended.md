@@ -1,6 +1,6 @@
 title: Reactivate a ticket suspended
 Description: This functionality allows to reactivate a ticket suspended. 
-#Reactivate a ticket suspended
+# Reactivate a ticket suspended
 This functionality allows to reactivate a ticket suspended.
 
 Before getting started

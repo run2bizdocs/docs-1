@@ -1,6 +1,7 @@
 title:  Atención con soporte remoto 
-Description: La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
+Description: El producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
 # Atención con soporte remoto
+
 La atención de un ticket, muchas veces, puede ser con usuarios que no pueden resolver solamente con orientaciones del operador, por eso que el producto proporciona el soporte remoto, ayudando así a solucionar alguna cuestión.
 Con la atención remota es posible ver el historial de atenciones de este tipo, contribuyendo así con informaciones para un posible proceso de auditoría.
 
@@ -16,12 +17,13 @@ Procedimiento
 -------------
 
 1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Seleccionar el ticket, haga clic y después en el botón “Abrir” para
     capturarlo;
 
-3.  Hacer clic en la guía EC Relacionado;
+3.  Hacer clic en el botón de toogle (situado en la parte superior derecha de la 
+    pantalla) y, a continuación, en la pestaña de EC Relacionado;
 
 4.  Buscar por el elemento de configuración y hacer clic en "Seleccionar";
 

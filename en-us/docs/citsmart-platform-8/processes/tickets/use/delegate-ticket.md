@@ -1,7 +1,7 @@
 title: Delegate ticket
 
 Description: The option of Delegate Ticket allows to charge the execution of a ticket to a user or group you want. 
-#Delegate ticket
+# Delegate ticket
 The option of Delegate Ticket allows to charge the execution of a ticket to a user or group you want. Obligatory, it will be only possible to delegate the responsibility to groups which the person who is delegating belongs to, which occurs when opting for a user (it'll be only authorized for member of the groups to which the incumbent is part of).
 
 Before getting started

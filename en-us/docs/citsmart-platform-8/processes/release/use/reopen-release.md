@@ -1,6 +1,6 @@
 title: Reopen release registration
 Description: Allows to reopen the release of changes.
-#Reopen release registration
+# Reopen release registration
 This functionality allows to reopen the release of changes.
 
 Before getting started

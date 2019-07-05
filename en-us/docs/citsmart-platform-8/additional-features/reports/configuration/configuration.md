@@ -1,6 +1,6 @@
-Title: Configuration
+Title: Configure presentation of reporting
 
-# Configuration
+# Configure presentation of reporting
 
 Some configurations can be take to change the standard view of reports.
 

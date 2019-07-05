@@ -1,6 +1,6 @@
-title: Create and view sub-request
-Description: It's possible to create sub-requests through the main request and view them after created.
-#Create and view sub-request
+title: Create and view sub-ticket
+Description: It's possible to create sub-ticket through the main request and view them after created.
+# Create and view sub-ticket
 
 This functionality allows to register a ticket with activities related to the original ticket.
 
@@ -21,12 +21,12 @@ Procedure
 -------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+    \> Ticket Management \> Ticket;
 
-2.  Click on the ticket you want and select "Create subrequest" in the
+2.  Click on the ticket you want and select "Create sub-ticket" in the
     options menu;
 
-3.  Complete all mandatory fields and click on "Save'. The ticket related will
+3.  Complete all mandatory fields and click on "Save'. The sub-ticket will
     be directed to the executor group defined in the activity link registration,
     to the executor group defined in the parameter 9;
 
@@ -41,12 +41,12 @@ Procedure
         
 !!! Abstract "NOTE"
     
-    The sub-request has its own flow, therefore, it's not finished along with the
+    The sub-ticket has its own flow, therefore, it's not finished along with the
     closure of the origin ticket. It should, then, be executed and closed autonomously.
     
 !!! Abstract "NOTE"
     
-    The sub-request can be reopened at any time, regardless of the status of the parent 
+    The sub-ticket can be reopened at any time, regardless of the status of the parent 
     request (whether it's reopened or closed).
 
 Related

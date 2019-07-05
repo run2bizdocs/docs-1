@@ -1,6 +1,6 @@
-title:  Crear y ver sub-solicitudes 
-Description: Puede crear sub-solicitud a través de la solicitud original y verla después de crearla.
-# Crear y ver sub-solicitudes
+title:  Crear y ver sub-ticket 
+Description: Puede crear sub-ticket a través de la solicitud original y verla después de crearla.
+# Crear y ver sub-ticket
 
 La funcionalidad permite registrar un ticket con actividades relacionadas al ticket original.
 
@@ -22,12 +22,12 @@ Procedimiento
 -------------
 
 1.  Acceda a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
-2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear sub-solicitud por copia" en el menú de opciones;
+2.  Haga clic en el ticket deseado y seleccione la alternativa "Crear sub-ticket por copia" en el menú de opciones;
 
 3.  Llenar los campos necesarios y hacer clic en el botón "Guardar y mantener la
-    tarea actual". El ticket relacionado será dirigido al grupo ejecutor
+    tarea actual". El sub-ticket será dirigido al grupo ejecutor
     definido en el registro del vínculo de la actividad, el mismo será dirigido
     al grupo ejecutor definido en el parámetro 9;
 
@@ -41,13 +41,13 @@ Procedimiento
         
 !!! Abstract "ATENCIÓN"
 
-    La sub-solicitud tiene un flujo propio, por lo que no se cierra junto con 
+    La sub-ticket tiene un flujo propio, por lo que no se cierra junto con 
     el cierre del ticket de origen. Deberá, por lo tanto, ser ejecutada y cerrada de 
     forma autónoma.  
     
 !!! Abstract "ATENCIÓN"
 
-    La sub-solicitud puede ser reabierta en cualquier momento, independientemente del 
+    La sub-ticket puede ser reabierta en cualquier momento, independientemente del 
     estado de la solicitud padre (si está reabierta o cerrada).
 
 Relacionado

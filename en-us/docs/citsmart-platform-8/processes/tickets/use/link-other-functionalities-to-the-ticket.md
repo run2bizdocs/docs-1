@@ -13,44 +13,42 @@ parameters 9, 23, 24, 25, 26, 27, 28, 72 and 385.
 Procedure
 -------------
 
-1.  Access the functionality by the main menu Processes \> Request and Incident
+1.  Access the functionality by the main menu Processes \> Ticket
     Management \> Service Request and Incident;
 
 2.  To inform the ticket (request/incident) complementary data, check the option
     of capture or view;
 
-3.  To view the information abouth the specific fields, click on the
-    tabs: **Requester**, **Request**, **Execution** and **Closure**;
+3.  To link **Sub-tickets**, click on the toogle button (placed in the upper righ side
+    of the screen) and then on "Create sub-ticket" to create a new request, or click on
+    "Create sub-ticket by copy" to register a new request with the same date of the
+    original request;
 
-4.  To link **Sub-requests**, click on its area and then on "Create subrequest"
-    to create a new request, or click on "Create subrequest by copy" to register
-    a new request with the same data of the original request;
+4.  To link **Related Tickets**, click on the area of same name, and then on
+    "Search Ticket", press the request you want and then on "Link Tickets".
 
-5.  To link **Related Requests**, click on the area of same name, and then on
-    "Search Request", press the request you want and then on "Link Requests".
-
-6.  To link a configuration item of the requester, click on **Requester CI** and
+5.  To link a configuration item of the requester, click on **Requester CI** and
     then on the icon “Link configuration item” to perform the operation;
 
-7.  To link a **Related Configuration Item**, click on "Related CI" and then on
+6.  To link a **Related Configuration Item**, click on "Related CI" and then on
     "Search Configuration Item". Search for the item you want and then click on
     "Select";
 
-8.  To link a **Project**, click on the area with same name and then in the
+7.  To link a **Project**, click on the area with same name and then in the
     field project. Link the item you want;
 
-9.  To view the periodic activities, click on **Agenda**;
+8.  To view the periodic activities, click on **Agenda**;
 
-10. To verify the e-mails received about the request, click on the area **E-mail
+9.  To verify the e-mails received about the request, click on the area **E-mail
     Reading** and then "Verify e-mails". Note that the e-mail reading will be
     only used if the parameters are correctly configured;
 
-11. To view the physical position of the attendant, click on **Monitoring**;
+10. To view the physical position of the attendant, click on **Monitoring**;
 
-12. To link a **Knowledge**, click on the corresponding tab, in the button
+11. To link a **Knowledge**, click on the corresponding tab, in the button
     "Search Knowledge", search and click on the knowledge you want to link it;
 
-13. To link a **Problem**, click on the corresponding tab and link the item with
+12. To link a **Problem**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
     "Problem Registration";
     
@@ -77,11 +75,11 @@ Procedure
          * workarounds related to problems that have the configuration item of this request.
     
 
-14. To link a **Change**, click on the corresponding tab and link the item with
+13. To link a **Change**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
     "Change Registration";
 
-15. To link a **Release**, click on the corresponding tab and link the item with
+14. To link a **Release**, click on the corresponding tab and link the item with
     the functionality you want. If you want to register a new item, click on
     "Release Registration".
 

@@ -9,7 +9,7 @@ _01/03/2019_
 
 As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta.
 
-Para mais informações, veja [Relacionar um Ticket][1] e [Cadastrar uma Sub-Solicitação][2]
+Para mais informações, veja [Relacionar um Ticket][1] e [Cadastrar um sub-ticket][2]
 
 ### Webservices
 

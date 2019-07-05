@@ -24,12 +24,12 @@ Procedimiento
 
 3.  Completar los campos disponibles en el cuadro **Datos Básicos**;
 
-    !!! Warning "IMPORTANTE"
+    !!! Abstract "IMPORTANTE"
 
         Indicar en el atributo "Cambio de Impacto/Urgencia" si se va permitir el cambio
         de Impacto y/o Urgencia.
 
-    !!! Warning "ATENCIÓN"
+    !!! Abstract "ATENCIÓN"
     
         Si el tiempo de atención no permite el cambio de impacto y la urgencia, el sistema 
         reemplaza automáticamente lo que se envía a través de WebService para el impacto, 

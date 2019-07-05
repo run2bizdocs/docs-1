@@ -24,7 +24,7 @@ Fluxos são representações visuais de algo que se move continuamente. A funcio
 
 - Processo de Negócio
 
-!!! info "ALERTA"
+!!! Abstract "ALERTA"
 
     Estes itens só estarão disponíveis quando a aplicação [Neuro][6] estiver habilitada em sua instância.
 
@@ -111,7 +111,7 @@ Figura 3 - Diagrama
 
    • Notificação
    
-    !!! note "NOTA"
+    !!! Abstract "NOTA"
 
         Esta extensão aliada a configuração do template de notificação (Sistema > Notificações > Template de notificação) permitem a criação de um alarme sonoro para indicar a chegada de um novo ticket.
 

@@ -20,6 +20,15 @@ Procedimiento
 
 3.  Completar los campos disponibles;
 
+    !!! Abstract "NOTA"
+    
+        CITSmart ahora ofrece la posibilidad de configurar la recepción de aviso sonoro al 
+        operador de los tickets cuando se crea un nuevo. Para ello, es necesario marcar la 
+        opción "Notificación sonora" y configurar esta extensión (notificación) en el flujo 
+        de servicio, además de verificar las condiciones mínimas para que el servicio funcione 
+        correctamente (una unidad de audio y cajas de sonido o auriculares para escuchar la 
+        señal sonora).
+
 4.  Hacer clic en "Guardar".
 
 !!! tip "About"

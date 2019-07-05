@@ -1,6 +1,6 @@
-Title: Configuração
+Title: Configurar a apresentação de relatórios
 
-# Configuração
+# Configurar a apresentação de relatórios
 
 Algumas configurações podem ser tomadas para alterar a exibição padrão dos relatórios.
 

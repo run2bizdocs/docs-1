@@ -2,7 +2,7 @@ title: Verify my tickets
 
 Description: Allows to provide a summary of the service requests (tickets) made by the user.
 
-#Verify my tickets
+# Verify my tickets
 This functionality allows to provide a summary of the service requests (tickets) made by the user.
 The access to the user requests can be done in the Smart Portal, making the query quicker, without the need to enter in the system.
 This screen has the timer called “Activate/Deactivate timer” that, when activated with a click, present a timer about the time spent and the time left to finish the request attendance in the field Remaining item list time.

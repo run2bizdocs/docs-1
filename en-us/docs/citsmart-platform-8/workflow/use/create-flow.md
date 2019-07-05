@@ -13,12 +13,12 @@ Procedure
 2.  Click on "New";
 
 3.  In the tab "Flow Data", it's necessary to complete the mandatory data: name 
-    (its internal identifier, it must be informed without space, accents and special characters); the process to which it's linked (the     flow will be only visible to the process to which it's linked) and the option that allow to reopen the service regardless of group       settings. It's also possible to view the version of the flow.
+    (its internal identifier, it must be informed without space, accents and special characters); the process to which it's linked (the flow will be only visible to the process to which it's linked) and the option that allow to reopen the service regardless of group settings. It's also possible to view the version of the flow.
 
 3.  In the “Diagram” tab, it's presented the tool to design the flow by entering
-    elements that represent the scenario. To do so, simply click on the element and drag it to the design area. When you do this, a         screen will be displayed to set the properties. We must take into account that a flow starts with the "Start Event" element and ends     with the "End Event".
+    elements that represent the scenario. To do so, simply click on the element and drag it to the design area. When you do this, a screen will be displayed to set the properties. We must take into account that a flow starts with the "Start Event" element and ends with the "End Event".
 
-    !!! tip "IMPORTANT"
+    !!! Abstract "IMPORTANT"
     
         The conditional paths of a flow must be defined in the Connection (Sequence Flow). 
         To access these options, click once on the connection and then on the properties icon.
@@ -26,9 +26,9 @@ Procedure
 
 4.  The properties of an element can be defined by double-clicking the element 
     and then the icon next to it (properties icon). Define the data for this
-    property by entering the required data in each of the property tabs. Here it is also liberated to link a knowledge to the "Knowledge     Base" tab and implement functionalities in the flow on the activity by clicking on the "Interface" tab;
+    property by entering the required data in each of the property tabs. Here it is also liberated to link a knowledge to the "Knowledge Base" tab and implement functionalities in the flow on the activity by clicking on the "Interface" tab;
 
-    !!! warning "NOTE"
+    !!! Abstract "NOTE"
 
         The "Interface" tab allows you to choose which interaction mode (form
         standard, questionnaire or neuro form) that will be applied to the service. 

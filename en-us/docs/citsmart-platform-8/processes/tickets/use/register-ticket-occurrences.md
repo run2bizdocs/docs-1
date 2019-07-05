@@ -18,7 +18,7 @@ To execute the ticket in addition to the permission to perform the operation and
 the ticket) and click on the "Add" icon. It is possible to allow this information to be viewed by the requester when selecting the 
 "Public" field, in addition to being able to send the comment by email.
 
-!!! success "NOTE"
+!!! Abstract "NOTE"
     
     The history of all ticket comments can be viewed by clicking on the "History" tab in 
     the upper right side of the screen.

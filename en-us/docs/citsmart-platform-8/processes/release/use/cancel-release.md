@@ -1,6 +1,6 @@
 title: Cancel release registration
 Description: Allows to cancel the release.
-#Cancel release registration
+# Cancel release registration
 This functionality allows to cancel the release.
 
 Before getting started

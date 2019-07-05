@@ -25,10 +25,10 @@ Procedimento
     uma tela para definir as propriedades. Devemos levar em consideração que sempre
     um fluxo começa com o elemento "Evento Início" e termina com o elemento "Evento Fim".
 
-    !!! tip "IMPORTANTE"
+    !!! Abstract "IMPORTANTE"
     
         Os caminhos condicionais de um fluxo devem ser definidos na Conexão (Fluxo de Sequência). 
-        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex.             aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
+        Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 	
 
 5.  As propriedas de um elemento podem ser definidas ao clicar duas
@@ -38,7 +38,7 @@ Procedimento
     ao fluxo na aba “Base de conhecimento” e implementar funcionalidades no
     fluxo sobre a atividade ao clicar na aba “Interface”;
 
-    !!! warning "ATENÇÃO"
+    !!! Abstract "ATENÇÃO"
 
         A aba “Interface” possibilita escolher qual o modo de interação (formulário
         padrão, questionário ou formulario neuro) que será aplicado ao serviço.

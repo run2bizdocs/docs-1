@@ -1,4 +1,4 @@
-Title: Perguntas Frequentes - FAQ
+Title: FAQ
 Description: Aqui você tem as respostas das pergundas mais comuns quando se fala da ferramenta CITSmart.
 
 # Perguntas Frequentes - FAQ
@@ -760,17 +760,23 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
 
 !!! Question "Por que os horários criados pela ferramenta estão diferentes da hora atual?"
     
-    CENÁRIO  
-    1.Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) a 3 (três) horas de atraso ou adiantamento.
+    CENÁRIO
+    
+    1. Ao criar um chamado, a hora fica diferente da hora real, alternando entre 1 (uma) a 3 (três) horas de atraso ou adiantamento.
 
-    O QUE CHECAR  
-    1.  Arquivo de configuração do Banco Postgresql:  
-        - Postgresql.conf
-        - timezone = 'BRAZIL/EAST'  
-    2.  No container cloud:  
-        - Setting timezone on the operating system.  
+    O QUE CHECAR 
+    
+    1.  Arquivo de configuração do Banco Postgresql:
+    
+        Postgresql.conf - timezone = 'BRAZIL/EAST'
+	
+    2.  No container cloud:
+    
+        Setting timezone on the operating system. 
+	
     3.  Configuração do TimeZone no JRE: 
-        -  https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+    
+        https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
 
 !!! Question "Por que em alguns relatórios a mesma solicitação aparece mais de uma vez?"
     
@@ -798,6 +804,6 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     ```
     Inserir a configuração em todos os dataSources.
 
-!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado ?"
+!!! Question "Como o tempo de expiração das sessões da aplicação pode ser alterado?"
     
     Este tipo de alteração é configurada na funcionalidade Parametrização > Parâmetros CITSmart. Selecionar, então, o parâmetro 449 e incluir o valor desejado em minutos. Logo após, é necessário desconectar e conectar novamente ao sistema, dessa forma, o sistema buscará o novo padrão para o tempo de expiração de sessões.

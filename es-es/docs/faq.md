@@ -1,4 +1,4 @@
-Title: Preguntas frecuentes - FAQ
+Title: FAQ
 description: Aquí tienes las respuestas de las preguntas más comunes cuando se habla de la herramienta CITSmart.
 
 # Preguntas frecuentes - FAQ
@@ -90,15 +90,15 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     7- También haga los debidos cambios en los siguientes parámetros, según las necesidades y escenario de la instalación: 
     
-      - 195: ID plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
+       - 195: ID plantilla de correo electrónico para envío de solicitud de notificación con un plazo de batir (Ej .: 1);
     
-      - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
+       - 197: Login usuario recibirá reglas de correo electrónico respecto a la solicitud de servicios de programación que expira (Ej.: Consultor);
     
-      - 113: Modelo ID de correo electrónico de escalada automática;
+       - 113: Modelo ID de correo electrónico de escalada automática;
     
-      - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
+       - 10: SMTP ENVÍO - Ogiren notificaciones por correo electrónico de las solicitudes de servicio;
     
-      - 33: URL para acceder al sistema.
+       - 33: URL para acceder al sistema.
     
     8- Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
 	
@@ -170,7 +170,19 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
     6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
-    7. Seleccione los contratos a los que se vinculará el grupo.
+    7. Seleccione los contratos a los que se vinculará el grupo. Después de eso, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
+    
+!!! Question "¿Cómo relacionar la unidad al contrato?"
+
+    Para relacionar unidad al contrato, proceda de acuerdo con las siguientes directrices:
+
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de "parámetros de CITSmart";
+    2. Realice la búsqueda del parámetro "61 - Vincula contratos a unidad" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de unidad. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación;
+    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de unidad a través de la navegación en el menú principal Registros Generales > Gestión de personal > Unidad. Se mostrará la pantalla de registro de unidad, mostrando los contratos;
+    5. Si la unidad que desea vincular al contrato ya está registrada en el sistema, realice la búsqueda de la unidad y seleccione la misma. Hecho esto, se mostrará la pantalla de registro de la determinada unidad;
+    6. Seleccione los contratos, a los que se vinculará la unidad;
+    7. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
     
 ### Gestión de Conocimiento
 
@@ -379,11 +391,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cuál es el significado de cada estado del inventario de EC?"
     
-    - Inventariado - el inventario logró leer la información del IC y se cerró con éxito;
-    - Ignorado - en la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
-    - Inaccesible - cuando el servidor encuentra el IC, pero no puede traer la información;
-    - No inventariado - cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
-    - En ejecución - durante la lectura del inventario, el IC queda en ese estado.
+    - Inventariado: el inventario logró leer la información del IC y se cerró con éxito;
+    - Ignorado: en la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
+    - Inaccesible: cuando el servidor encuentra el IC, pero no puede traer la información;
+    - No inventariado: cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
+    - En ejecución: durante la lectura del inventario, el IC queda en ese estado.
     
 ### Gestión de Eventos
 
@@ -778,21 +790,22 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 !!! Question "¿Por qué los horarios creados por la herramienta son diferentes de la hora actual?"
     
     ESCENARIO
+    
     1. Al crear un ticket, la hora es diferente a la hora real, alternando entre 1 (una) a 3 (tres) horas de retraso o antelación.
 
     QUÉ VERIFICAR
+    
     1. Archivo de configuración del Banco Postgresql:
     
-     - Postgresql.conf
-     - timezone = 'BRAZIL/EAST'   
+        Postgresql.conf - timezone = 'BRAZIL/EAST'   
      
     2. En el container cloud:
     
-     - Setting timezone on the operating system. 
+        Setting timezone on the operating system. 
      
-    3.Configuración de TimeZone en JRE: 
+    3. Configuración de TimeZone en JRE: 
     
-     - https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
+       https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362
     
 !!! Question "¿Por qué en algunos informes la misma solicitud aparece más de una vez?"
     
@@ -819,18 +832,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     jdbc:sqlserver://server:port;databaseName=myDataBase;sendStringParametersAsUnicode=false
     ```
     Inserte la configuración en todos los dataSources.
-   
+      
 !!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
-
-    Este tipo de cambio se realiza de forma manual por el administrador del sistema directamente dentro del archivo web.xml.
-    Sólo tienes que introducir el tiempo deseado (en minutos) en la sesión <session-timeout>.
-    La instalación del producto deja como valor predeterminado el valor 30.
     
-    - Ejemplo:
-    
-    ```java
-    <session-config>
-        <session-timeout>15</session-timeout>
-    </session-config>
-    ```
-    
+    Este tipo de cambio se configura en la característica Parametrización > Parámetros CITSmart. Seleccione el parámetro 449 e incluya el valor deseado en minutos. Además, es necesario desconectar y conectar nuevamente al sistema, de esta forma, el sistema buscará el nuevo estándar para el tiempo de expiración de sesiones.

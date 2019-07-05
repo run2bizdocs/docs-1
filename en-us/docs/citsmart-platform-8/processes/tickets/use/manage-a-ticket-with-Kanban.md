@@ -1,7 +1,7 @@
 title: Manage team with Kanban
 
 Description: Allows to help managers in the detail monitoring of the tickets attendance list, using the management technique called Kanban
-#Manage team with Kanban
+# Manage team with Kanban
 This option allows to help managers in the detail monitoring of the tickets attendance list, using the management technique called Kanban. Kanban uses cards (post-it and others) to indicate the attendance of production flows.
 In these cards, indications are given about a certain task, for example: "to execute" / "in execution" / "done", and whenever the flow advances its positioning changes to the right in the frame.
 

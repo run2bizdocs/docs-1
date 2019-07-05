@@ -2,8 +2,7 @@ Title: Hacer la instalación
 
 # Hacer la instalación
 
-Instalación del Servidor de Aplicación Wildfly
--------------------------------------------
+## Instalación del Servidor de Aplicación Wildfly
 
 1. Descomprimir el paquete JAVA JDK en el directorio /opt y crear un link
 simbólico conforme mostrado en el ejemplo abajo. *(Caso ya tenga hecho la
@@ -11,36 +10,36 @@ instalación del ítem Servidor de Indexación Apache Solr (sesión Configurac
 paquetes) el mismo servidor que el Wildfly se va a quedar, no será necesario la ejecución
 de los comandos de instalación del Java JDK abajo)*.
 
-        ```sh
-        tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
-        ```
-    
-        ```sh
-        ln -s /opt/jdk1.8.0_172 /opt/jdk
-        ```
-    
+    ```sh
+    tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
+    ```
+
+    ```sh
+    ln -s /opt/jdk1.8.0_172 /opt/jdk
+    ```
+
 2. Ejecutar los comandos siguientes para configuración de los paquetes para CITSmart;
-    
+
     ```sh
-    tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/ 
+    tar xzvf wildfly-12.0.0.Final.tar.gz -C /opt/
     ```
-    
+
     ```sh
-    ln -s /opt/wildfly-12.0.0.Final /opt/wildfly 
+    ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
     ```
-    
+
     ```sh
     cp /etc/skel/.bash_profile /opt/wildfly/
     ```
-    
+
     ```sh
     tar xzvf assets.tar.gz -C /opt/wildfly/
     ```
-    
+
     ```sh
     mkdir /opt/wildfly/reports
     ```
-    
+
 3. crear un usuario para administrar el Wildfly;
 
     ```sh
@@ -74,7 +73,7 @@ eso,  haga conforme el ejemplo siguiente.
     ```sh
     export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
     ```
-    
+
 5. Haga una prueba para validar se el Wildfly está iniciando correctamente hasta ese
 punto. Para eso, ejecute los comandos siguientes.
 
@@ -96,7 +95,6 @@ punto. Para eso, ejecute los comandos siguientes.
 
 6. Parar el Wildfly (Iniciado anteriormente) y configurar el standalone.conf en el
 directorio \$JBOSS_HOME/bin, conforme presentado abajo.
-
 
     ```sh
     mv standalone.conf standalone.dist
@@ -155,6 +153,8 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 En el bash del CLI ejecute los comandos siguientes para creación de las propiedades del
 CITSmart.
 
+#### CLI
+
 ```java
 /system-property=mongodb.host:add(value="mongodb.citsmart.com")
 /system-property=mongodb.port:add(value="27017")
@@ -173,6 +173,30 @@ CITSmart.
 /system-property=rhino.scripts.directory:add(value="")
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength"(value="100")
+```
+
+#### XML
+
+```java
+<system-properties>
+    <property name="mongodb.host" value="citmongo"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="admin"/>
+    <property name="mongodb.password" value="admin"/>
+    <property name="citsmart.protocol" value="http"/>
+    <property name="citsmart.host" value="my.citsmartcloud.com"/>
+    <property name="citsmart.port" value="8080"/>
+    <property name="citsmart.context" value="citsmart"/>
+    <property name="citsmart.login" value="citsmart.local\\\consultor"/>
+    <property name="citsmart.password" value="senhaConsultor"/>
+    <property name="citsmart.inventory.id" value="citsmartinventory"/>
+    <property name="citsmart.evm.id" value="citsmartevm"/>
+    <property name="citsmart.evm.enable" value="false"/>
+    <property name="citsmart.inventory.enable" value="false"/>
+    <property name="rhino.scripts.directory" value=""/>
+    <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+</system-properties>
 ```
 
 ### Configuración de los Datasources
@@ -197,7 +221,6 @@ PostgreSQL. Para eso, salga del modo jboss-cli y ejecute los comandos abajo.
 2. Conectar en el jboss-cli nuevamente y ejecute el comando siguiente para adicionar el
 módulo al standalone-full-ha.xml
 
-   
     ```sh
     module add --name=org.postgres --resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --dependencies=javax.api,javax.transaction.api
     ```
@@ -307,7 +330,7 @@ PostgreSQL*.
 
 
 5.  Antes de salir de jboss-cli ejecute el comando reload para aplicar los cambios y realizar una prueba de conexión con la base de datos.
-    
+
     ```sh
     [standalone\@localhost:9990 /] :reload
     ```
@@ -355,9 +378,9 @@ PostgreSQL*.
 
 2. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
-```sh
-[standalone\@localhost:9990 /] :reload
-```
+    ```sh
+    [standalone\@localhost:9990 /] :reload
+    ```
 
 ## Crear archivo citsmart.cfg
 
@@ -379,11 +402,122 @@ PostgreSQL*.
     ```
 
 
-!!! Abstract "ATENCIÓN"
-    
-    No olvides de cambiar el dueño de los archivos y directorios para el usuario
-    CITSmart.
+    !!! Abstract "ATENCIÓN"
 
+         No olvides de cambiar el dueño de los archivos y directorios para el usuario CITSmart.
+
+## Configuración del Quartz
+
+El procesamiento Batch de CITSmart utiliza Quartz para la programación y el procesamiento de rutinas de sistema. Para configurarlo, siga el procedimiento:
+
+1. Criar un archivo de nombre "quartz.properties" que contiene los datos siguientes, según su tipo de instalación (standalone o cluster);
+2. Guardar este archivo en la carpeta de configuración del servidor de aplicaciones.
+
+### Instalación Standalone (independiente de base de datos)
+
+```java
+#===============================================================
+#Configure Main Scheduler Properties
+#===============================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#===============================================================
+#Configure ThreadPool
+#===============================================================
+org.quartz.threadPool.threadCount =  5
+org.quartz.threadPool.threadPriority = 5
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+#===============================================================
+#Configure JobStore
+#===============================================================
+org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
+```
+
+### Instalación Cluster
+
+#### Base de Datos Postgres:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Base de Datos Microsoft SQL Server:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Base de Datos Oracle:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
 
 ## Creación de directorios para instalación
 
@@ -391,32 +525,32 @@ PostgreSQL*.
 !!! Abstract "ATENCIÓN"
 
     No olvides de cambiar el dueño del directorio /opt/citsmart .
-    
+
 
 1. Crear los directorios abajo para ser configurados en los 3 pasos de instalación web.
 
-    **Para GED**: 
+    **Para GED**:
 
     ```sh
     mkdir -p /opt/citsmart/ged
     ```
     **Para Base de Conocimiento**:
-	
+
     ```sh
     mkdir /opt/citsmart/kb
     ```
     **Para Palavras homónimas**:
-	
-	```sh
+
+    ```sh
     mkdir /opt/citsmart/twinwords
     ```
     **Para Anexos de Base de Conhecimento**:
-    
+
     ```sh
     mkdir /opt/citsmart/attachkb
     ```
-    **Para Upload**: 
-	
+    **Para Upload**:
+
     ```
 	mkdir /opt/citsmart/upload
     ```
@@ -428,39 +562,39 @@ Para el Wildfly se va a generar un certificado auto-firmado.
 Caso usted tenga un certificado, es importante utilizarlo.
 
 1. Conectar en el servidor del Wildfly.
-    
-    Creando nuevo alias con DNS (ejemplo itsm.citsmart.com): 
-    
+
+    Creando nuevo alias con DNS (ejemplo itsm.citsmart.com):
+
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
     ```
-    
-    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40): 
-    
+
+    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40):
+
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
     ```
-    
-    Exportando certificado para extensão .cer: 
-   
+
+    Exportando certificado para extensão .cer:
+
     ```sh
-    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer 
+    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
-    
-    Adicionando certificado no cacerts do Java: 
-    
+
+    Adicionando certificado no cacerts do Java:
+
     ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
-    
+
     **Recuerde de aplicar los permisos para el dueño del wildfly y java jdk**
-    
+
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
 2. Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute los comandos siguientes:
-    
+
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
     /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
@@ -469,7 +603,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
     ```
-	
+
 3. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
     ```sh
@@ -503,7 +637,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
     ```
-    
+
 
 ## Implementación del CITSmart Enterprise
 
@@ -523,12 +657,12 @@ Caso usted tenga un certificado, es importante utilizarlo.
 1. Para acceder al CITSmart Enterprise, debemos acceder el IP o DNS y después el puerto y contexto.
 
     ```sh
-    https://itsm.citsmart.com:8443/citsmart
+    https://example.com:8443/citsmart
     ```
-	
+
 2. El contexto "citsmart" es el estándar de CITSmart Enterprise.
 
-    Primer acceso: Entre con la URL > https://itsm.citsmart.com:8443/citsmart.
+    Primer acceso: Entre con la URL > ```https://example.com:8443/citsmart```
 
 3. Ahora, siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
 

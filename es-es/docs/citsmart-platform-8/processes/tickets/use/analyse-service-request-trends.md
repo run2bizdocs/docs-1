@@ -29,15 +29,15 @@ Procedimiento
     **Crear Problema**, donde será exhibida la pantalla de registro de problema
     para registrar la información necesaria del problema:
 
-   -   Al optar por registrar un problema desde el **Servicio**, se mostrará la
+     -   Al optar por registrar un problema desde el **Servicio**, se mostrará la
        pantalla de registro de problema con el campo "Descripción" alimentado con
        el nombre del servicio correspondiente;
 
-   -   Al optar por registrar un problema desde la **Causa**, se mostrará la
+     -   Al optar por registrar un problema desde la **Causa**, se mostrará la
        pantalla de registro de problema con los campos "Descripción" y "Causa"
        alimentados con la descripción de la causa correspondiente;
 
-   -   Al optar por registrar un problema desde el **Elemento de Configuración**,
+     -   Al optar por registrar un problema desde el **Elemento de Configuración**,
        se mostrará la pantalla de registro de problema con el campo "Descripción"
        alimentado con información del elemento de configuración correspondiente.
 

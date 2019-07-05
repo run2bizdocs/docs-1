@@ -1,6 +1,6 @@
 title: Register release
 Description: This functionality makes available several actions, like, include, change and delete a release. 
-#Register release
+# Register release
 According to ITIL, release is "one or more changes to an IT service that are built, tested and deployed together. A single release may include changes to hardware, software, documentation, processes and other components".
 This functionality makes available several actions, like, include, change and delete a release.
 

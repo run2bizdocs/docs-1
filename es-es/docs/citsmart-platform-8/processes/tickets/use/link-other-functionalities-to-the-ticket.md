@@ -14,47 +14,45 @@ Procedimiento
 -------------
 
 1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Para informar los datos complementarios del ticket (solicitud o incidente),
     marque la opción de captura o visualización de éste;
 
-3.  Para ver información sobre campos específicos, haga clic en las fichas:
-    **Solicitante**, **Solicitud**, **Ejecución** y **Cierre**;
-
-4.  Para vincular **Sub-solicitudes**, haga clic en el área del mismo nombre y
-    luego "Buscar solicitud", clic en la solicitud deseada y luego en el botón
-    "Vincular Solicitudes";
-    
-5.  Para vincular **Solicitudes Relacionadas**, haga clic en el área del mismo
-    nombre y haga clic en "Crear nueva solicitud relacionada" para crear una
-    nueva solicitud, o hacer clic en "Crear relacionada por copia" para
+3.  Para vincular **Sub-tickets**, haga clic en el botón toogle (ubicado 
+    en la parte superior derecha de la pantalla) y luego "Crear sub-ticket" para 
+    crear una nueva solicitud o hacer clic en "Crear sub-ticket por copia" para 
     registrar una nueva solicitud con los mismos datos de la solicitud original;
+    
+4.  Para vincular **Tickets Relacionadas**, haga clic en el área del mismo
+    nombre y haga clic en "Buscar Tickets" presionar en la solicitud deseada 
+    y luego en el botón "Vincular tickets";
 
-6.  Para vincular un Elemento de Configuración del Solicitante, haga clic en
-    **EC del Solicitante** y luego haga clic en  para realizar la operación;
+5.  Para vincular un Elemento de Configuración del Solicitante, haga clic en
+    **EC del Solicitante** y luego haga clic en "Vincular elemento de configuración
+    para realizar la operación;
 
-7.  Para vincular un **Elemento de configuración relacionado**, haga clic en "EC
+6.  Para vincular un **Elemento de configuración relacionado**, haga clic en "EC
     relacionado" y, a continuación, "Búsqueda de elementos de configuración".
     Buscar por el elemento deseado y hace clic en el botón "Seleccionar";
 
-8.  Para vincular un **Proyecto**, haga clic en el área del mismo nombre y luego
+7.  Para vincular un **Proyecto**, haga clic en el área del mismo nombre y luego
     en el campo de proyecto y vincule el elemento deseado;
 
-9.  Para visualizar las actividades periodicas, haga clic en **Programación**;
+8.  Para visualizar las actividades periodicas, haga clic en **Programación**;
 
-10. Para comprobar los mensajes de correo electrónico recibidos en la solicitud,
+9.  Para comprobar los mensajes de correo electrónico recibidos en la solicitud,
     haga clic en el área **Lectura de correo electrónico** y, a continuación,
     "Comprobar los mensajes de correo electrónico". Recordando que la lectura de
     correo sólo se realizará si los parámetros están configurados correctamente;
 
-11. Para ver el posicionamiento físico del asistente, haga clic en Seguimiento;
+10. Para ver el posicionamiento físico del asistente, haga clic en "Seguimiento";
 
-12. Para vincular un **Conocimiento**, hacer clic en la ficha correspondiente,
+11. Para vincular un **Conocimiento**, hacer clic en la ficha correspondiente,
     en el botón "Búsqueda de Conocimientos" y realizar la búsqueda y hacer clic
     en el conocimiento deseado para realizar el vínculo;
 
-13. Para vincular un **Problema**, haga clic en la ficha correspondiente y
+12. Para vincular un **Problema**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
     nuevo elemento, haga clic en el botón "Registrar Problema";
     
@@ -83,11 +81,11 @@ Procedimiento
            solicitud.
     
 
-14. Para vincular un **Cambio**, haga clic en la ficha correspondiente y
+13. Para vincular un **Cambio**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
     nuevo elemento, haga clic en el botón "Registrar Cambio";
 
-15. Para vincular una **Liberación**, haga clic en la ficha correspondiente y
+14. Para vincular una **Liberación**, haga clic en la ficha correspondiente y
     vincular el elemento de la funcionalidad deseada. Si desea registrar un
     nuevo elemento, haga clic en el botón "Registrar nueva liberación".
 

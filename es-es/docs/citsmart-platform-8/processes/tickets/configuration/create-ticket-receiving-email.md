@@ -15,51 +15,52 @@ funcionalidad, luego que comprobar que existe un mensaje, registra un ticket
 automáticamente. Es importante destacar que después del registro del ticket, el
 correo electrónico es marcado como leído.
 
-Antes de empezar
---------------------
+## Antes de empezar
 
 Para crear un ticket a través del recibimiento del correo electrónico, es
 necesario configurar previamente una cuenta de correo electrónico para permitir
-el acceso a través del IMAP.
+el acceso a través del IMAP. Además, es necesario configurar la instancia para 
+el uso de rutinas batch, ya que la comprobación de correo electrónico es una 
+tarea programada.
 
 Procedimiento
 -----------------
 
-*Paso 1*
+**Paso 1 - Crear plantilla de ticket**
 
 1.  Acceder al menú principal Sistema \> Acciones Automaticas \> Acciones de
     Incidentes/Requerimientos/Procedimientos (ver Registrar acciones
     automaticas de incidentes/requerimientos/precedimientos).
 
-*Paso 2*
+**Paso 2 - Configurar acceso a la bandeja del correo electrónico**
 
 1.  Crear acción automatica de correo electrónico al acceder al menú principal
     Sistema \> Configuración \> Configuración de la acción automatica a través
     de correo electrónico Este registro se utiliza para disparar la lectura y 
     el registro de solicitudes (ver Crear acción automatica de correo electrónico).
 
-*Paso 3*
+**Paso 3 - Crear rutina de verificación (batch)** 
 
 1.  Crear Rutina Batch al acceder al menú principal Sistema \> Procesamiento
-    Batch (ver Procesamiento Batch):
-
-    -   Descargar el guión.
-
-!!! Abstract "ATENCIÓN"
-
-    Se recopilará la información contenida en el contenido del mensaje de correo 
-    electrónico, las direcciones del remitente, el destinatario y la copia oculta 
-    del correo electrónico que se lee y se utiliza para registrar una solicitud 
-    de servicio.
+    Batch (ver Procesamiento Batch), del tipo "Clase Java" con el siguiente
+    contenido:
     
-    Para que esta información se vea a través de la secuencia de comandos Rhino, 
-    sigue el ejemplo adjunto.
-    
+```java
+ br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+```    
+
+
 !!! Abstract "NOTA"
 
     Se puede leer el título del correo electrónico enviado, está guardado en el campo 
     *subject* de la tabla reademaildatarequest.
 
+Además, si hay necesidad de recuperar otra información en los campos de correo electrónico, 
+como destinatarios marcados como copia (CC) o copia oculta (BCC), utilice el script Rhino abajo:
+
+```java
+var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citframework.util); var print = java.lang.System.out; var readEmailDataDTO = serviceRequest.getReadEmailDataDTO(); if (readEmailDataDTO!=null){ print.println("Dados do E-mail de Origem: "); print.println("From: "); print.println(readEmailDataDTO.getMessageFrom()); print.println("To: "); print.println(readEmailDataDTO.getMessageTo()); print.println("CC (Carbon Copy): "); print.println(readEmailDataDTO.getMessageCC()); }
+```
 
 Relacionado
 -------
@@ -72,12 +73,6 @@ Relacionado
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
-
-Adjunto
-------------
-[Download - Comprobar email][1]
-
-[Download -Script Rhino datos del email][2]
 
 
 !!! tip "About"

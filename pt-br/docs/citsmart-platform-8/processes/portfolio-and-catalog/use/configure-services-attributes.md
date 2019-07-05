@@ -53,7 +53,7 @@ Procedimento
 |      Auditoria do Serviço      | Atributo |                                                                        Permite verificar o histórico do serviço para auditoria do mesmo                                                                        |
 
 
-!!! info "REQUISITO DE NÍVEL DE SERVIÇO"
+!!! Abstract "REQUISITO DE NÍVEL DE SERVIÇO"
 
     Informações disponíveis para manter Requisitos de Nível de Serviço: Data de criação, Data de início do 
     serviço, Dono do Serviço, Utilidade do Serviço (Especificação, Contexto, Funcionalidades Essenciais), 

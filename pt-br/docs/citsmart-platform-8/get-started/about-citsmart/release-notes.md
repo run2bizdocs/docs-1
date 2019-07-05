@@ -1,12 +1,54 @@
-Title: Histórico de Notas de Release
+Title: Notas de Release
 Description: Notas de release, correções de erros e melhorias na CITSmart.
 
-# Histórico de Notas de Release
+# Notas de Release
+
+## Versão 8.0.1.0 (2019/06/28)
+
+Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta as seguintes melhorias:
+
+|Melhoria|Descricão|
+|--------|---------|
+|3717|Otimização de Chat, ANUVA e Troca de Mensagens – Todo o sistema de troca de mensagens foi integrado ao Chat, logo canais como Mensageria a partir dessa versão, promove um diálogo mais iterativo entre solicitante e atendente.|
+|3467|Melhoria na interface de atendimento de ticket - 1. A partir dessa versão o usuário poderá dimensionar a interface de atendimento visualmente de forma que melhor o atenda. 2. A interface ficou maior dando visibilidade às informações do ticket, os menus estão em uma aba que se torna visível somente quando o atendente necessita de outros recursos. 3. Os comentários ganharam uma sessão própria onde se permite Pesquisa de Conteúdo, Edição, Exclusão e Resposta entre atendente e solicitante e entre atendentes, pois, foi mantida a função de conversas públicas e privadas.|
+|3127|Centro de Experiência - Widget de Simple. Os recursos dessa importante ferramenta de gestão a partir dessa versão estará disponível no Centro de Experiência, facilitando o trabalho das equipes que tratam suas atividades por meio dela.|
+|1516|Incluiu-se a possibilidade de filtrar por período de estimativa de uma Workspace e Sprint.|
+|2126|Melhoria no Perfil de Usuário: Incluímos a possibilidade do próprio usuário editar suas seguintes informações: Unidade, ramal, e-mail e telefone.|
+|3491|Nas notificações de um ticket incluímos a possibilidade de possuir um alarme sonoro que alerte o atendente da chegada de um novo ticket à fila de atendimento.|
+|3875|A opção de reclassificar passa a ser parametrizada através de cadastro de grupos, dessa forma a funcionalidade contida em ticket poderá ou não estar disponível conforme permissão em grupo.|
+|4211|Na tela de ticket o campo e-mail recebeu um auto complete para facilitar a busca de e-mails de usuários.|
+|2584|Simple - O administrador das sprints poderá atribuir à um usuário específico acessos de gerenciador de uma Sprint.|
+|2134|Simple - Restrição para editar o perfil de acesso de Administrador.|
+|837|Simple –  Apresentação do quantitativo de tarefas por lista na Sprint|
+|1265|Parâmetro para ativar/desativar envio de anexos em notificações de e-mail|
+|3718|Ticket – Incremento da opção de filtragem por Data da última Atualização nos itens de pesquisa.|
+|2588|Simple – Pesquisa por parte dos títulos das workspaces, sprints e tarefas.|
+|2711|Apresentação das notificações não lidas em primeiro plano.|
+|474|Cadastro de Contrato - Permitir múltipla seleção de Unidades.|
+|2585|Simple - Opção de ordenar Workspace e Sprint.|
+|3462|Integração do Citsmart com OKTA|
+|1498|Simple -  Apresentação do número da tarefa na edição de uma atividade.|
+|3070|Simple – Filtro por nome de colaboradores e nome de TAG.|
+|3911|Smart Portal - Após registro de ticket direcionar o usuário para "My Requests".|
+|2615|Simple – Busca por itens não selecionados.|
+
+## Versão 8.0.0.10 (2019/06/07)
+
+Bem-vindos ao CITSmart Versão 8.0.0.10. Esta versão apresenta algumas correções emergenciais.
+
+| Problema	| Descrição |
+|-----------|-----------|
+|3097	| Erro ao tentar vincular um anexo em Sub-solicitação |
+|3607	| Correção na visualização de notificação |
+|3900	| Correção na delegação de tickets |
+|3914	| Sistema permite cadastrar mesmo login para usuários diferentes |
+|4028	| Correção para apresentação de responsável no registro de ocorrência |
+|4148	| Melhoria nas queries da listagem de ticket |
+
 
 ## Versão 8.0.0.9 (2019/05/31)
 
-Bem-vindos ao Citsmart Versão 8.0.0.9.
-A versão 8.0.0.9 do CITSmart apresenta algumas correções emergenciais.
+Bem-vindos ao CITSmart Versão 8.0.0.9. Esta versão apresenta algumas correções emergenciais.
 
 |Problema|Descrição|
 |--------|---------|
@@ -21,8 +63,6 @@ A versão 8.0.0.9 do CITSmart apresenta algumas correções emergenciais.
 
 ## Versão 8.0.0.7 (2019/05/17)
 Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções de falhas.
-
-### Problemas Resolvidos
 
 | **Código** | **Descrição Ticket**                                                                                                                                                                                                                                            | **tipo**  |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -105,32 +145,14 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 1596       | Verificar que o usuário alterou o último horário da JORNADA, porém ao criar solicitação essa alteração não foi refletida                                                                                                                                        | Corretiva |
 | 3067       | Melhorias no processamento da fila de inventário (Therads)                                                                                                                                                                                                      | Melhoria  |
 
-    
-Caminho dos pacotes:  
->   1.       **Workflow**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.7/CitsmartITSM-Enterprise-8.0.0.7.war.zip>
+**Outros produtos liberados:**
 
->   2.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
+Neuro: 1.2.4.10
 
->   3.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   4.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   5.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
-
->   6.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
-
->   7.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   8.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   9.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
+Audit: 0.4.0
 
 
 ## Versão 8.0.0.5 (2019/04/25)
-
-### Problemas Resolvidos
 
 | Problema | Descrição                                                                                                                                              |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -184,37 +206,26 @@ Se atentem para o cenário descrito:
         Portfólio de Problema;
 
     5.  No próximo cadastro a mensagem não se repetirá.
-    
-    
-    
-Caminho dos pacotes:  
-**SM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.5/CitsmartITSM-Enterprise-8.0.0.5.war.zip  
-  
-**Inventory**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip  
-  
-**EVM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip  
-  
-**Neuro**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.8.war.zip  
-  
-**Audit**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.2.0.zip
+
+**Outros produtos liberados**
+
+Neuro: 1.2.4.8
+
+Inventory: 2.0.0.3
+
+EVM: 2.0.0.3
+
+Audit: 0.2.0
 
 
 ## Versão 8.0.0.4 (2019/04/12)
-
-### Problema Resolvido
 
 | Problema | Descrição                                                                                 |
 |----------|-------------------------------------------------------------------------------------------|
 | 3275     | Falha no momento de restaurar Grupo Executor, Impacto e Urgência em Gerência de Liberação |
 
-## Versão 8.0.0.3 (2019/04/04)
 
-### Problemas Resolvidos
+## Versão 8.0.0.3 (2019/04/04)
 
 | Problema | Descrição                                                                                                                                                                                                          |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -225,8 +236,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Versão 8.0.0.2 (2019/03/20)
 
-## Problemas Resolvidos
-
 | Problema | Descrição                      |
 |----------|-----------------|
 | 2309     | Falha intermitente e de maior incidência em ambientes clusterizado no método que retorna o timezone para gravar registro de data e hora. A versão 8.0.0.2 fornece solução definitiva para o erro ocasionado nas classes que utilizam timezone para gravação de registros. |
@@ -236,8 +245,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Versão 8.0.0.1 (2019/03/08)
 
-## Problemas Resolvidos
-
 | Problema | Descrição                 |
 |----------|---------------------------|
 | 2576     | Erro conhecido em portfólio que não é exibido quando existe uma data final no serviço do contrato. A versão 8.0.0.1 fornece solução definitiva para o erro ocasionado pelo portfólio de serviços. |
@@ -245,172 +252,33 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Versão 8.0.0.0 (2019/03/01)
 
-### Correções
+| Tipo | Funcionalidade | Descrição |
+|------|------|-----------|
+|Correção|Gerenciamento de Ticket| As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta. Para mais informações, veja [Relacionar um Ticket][1] e [Cadastrar uma Sub-Solicitação][2]|
+|Correção|Webservices|A sincronização para criação de novas Atividades sofreu uma alteração em sua regra de negócio, isso porque não é possível criar uma atividade que não tenha vínculo com Serviço de Negócio e Portfólio. Portanto, o webservice designado para criação irá abrir um ticket com os parâmetros passados na configuração inicial do serviço. A funcionalidade de criar um novo usuário, quando estiver habilitado a sincronização de dados permanece consistente.|
+|Correção|Fluxo|Tratativa para barrar edição de expressões nativas e expressões de mesmo nome.|
+|Novo|Home|O acesso rápido permite que o usuário encontre os principais processos por meio de ícones que auxiliam na fixação e visualização de forma eficiente. **O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.**|
+|Melhoria|Gerenciamento de Ticket|Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de delegação do ticket. Para mais informações, veja [Notificação via e-mail de ticket delegado][3]|
+|Melhoria|Gerenciamento de Ticket|Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de reclassificação do ticket. Para mais informações, veja [Notificação via e-mail de ticket reclassificado][4]|
+|Melhoria|Gerência de  Mudança|A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança. **Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração. Para mais informações, veja [Gerência de Mudança][5]|
+|Melhoria|Gerência de Problema|Na versão 8.0.0.0 do CITSmart o processo de gerenciamento de problema permite adicionar atividades para auxiliar no gerenciamento das equipes durante o diagnóstico da causa raiz. **Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração. Para mais informações, veja [Gerência de Problema][6]|
+|Melhoria|Gerência de Liberação|O processo de liberação ganha mais força no planejamento, testes e homologação permitindo designação das atividades e gerenciamento à vista. **Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração. Para mais informações, veja [Gerência de Liberação][7]|
+|Melhoria|Gerência de Conhecimento|Na versão 8.0.0.0 o CITSmart permite avaliação e publicação dos comentários escritos sobre um conhecimento. Para mais informações, veja [Revisão de Comentário][8]|
+|Melhoria|Gerência de Conhecimento|Inovamos  a forma de acesso à base de conhecimento para usuários que não possuem login de acesso à ferramenta CITSmart. Na versão 8.0.0.0 conhecimentos com permissão de visualização poderão ser acessados pela comunidade em geral, basta possuir o link de acesso. Para mais informações, veja Configurar acesso externo ao [Portal de Conhecimento][9]|
+|Melhoria|Gerência de Configuração|Aprimoramos a experiência do usuário trazendo em destaque um dashboard que apresenta a quantidade de itens de configuração, por grupo, tipo e aglutinados nos processos de Incidente, Mudança e Liberação, deixando à vista possíveis IC’s que passarão por alteração ou envolvidos em algum incidente. Para mais informações, veja [Gerenciamento de Item de Configuração][10]|
+|Melhoria|Gerência de Ticket|Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações. **Nota**: Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento. Para mais informações, veja [Criar regra de escalonamento][11]|
+|Melhoria|Gerência de Ticket|Na versão 8.0.0.0 do CITSmart incluímos a aprovação de tickets através de novo ícone direto na lista de atendimento, não será necessário abrir o ticket para realizar o atendimento, apresentamos as informações disponíveis e as opções configuradas para aceite ou recusa do chamado. Essa funcionalidade está disponível no Mobile SM e no Portal de Serviços. Para mais informações, veja [Aprovar um ticket][12]|
+|Melhoria|Gerência de Ticket|Permitimos que a função de atualização automática da lista de ticket seja habilitada para atualizar a lista automaticamente de tempos em tempos. Para mais informações, veja [Atualização Automática da Lista de Ticket][13]|
+|Melhoria|Gerência de Ticket|O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico seja notificado via e-mail. Além da permissão de incluir tempo de execução da atividade e manter o sigilo da informação cadastrada, para que somente os técnicos permitidos a vejam. Para mais informações, veja [Cadastrar ocorrência em Ticket][14]|
+|Novo|Gestão Integrada|O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta. De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista. Para mais informações, veja [Simple][15]|
+|Novo|Centro de Experiência|Proporcionamos uma área específica para melhorar a experiência de uso. Nessa área será permitido a apresentação de serviços, informações, relatórios que mais se aproximam com o uso do dia a dia do cliente. Para mais informações, veja [Centro de Experiência][16]|
+|Novo|Smart analytics|A partir da versão 8.0.0.0 disponibilizamos alguns relatórios quantitativos dos principais processos contidos no CITSmart através de nossa nova plataforma BI. Para mais informações, veja [Business Intelligence][17]|
+|Novo|Auditoria|Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria. Para mais informações, veja [Auditoria do Sistema][18]|
+|Novo|Administração da plataforma|Aprimoramos o quesito de segurança da informação, implantado formas de segurança de senhas para usuários internos. Para mais informações, veja [Política de Segurança de Senha][19]|
+|Novo|Mobile|Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a campo de técnicos que momentaneamente estão sem conexão à internet. A experiência de mobilidade vai além com os recursos de assinatura e notas. Para mais informações, veja [Manual de utilização do aplicativo CITSmart GO][20]. Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas. Para mais informações, veja [Manual de utilização do aplicativo mobile CITSmart Experience][21]|
+|Novo|Neuro|A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do CITSmart a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do CITSmart e formar relatórios de forma simples com o auxílio do Smart Report.|
+|Novo|Fluxo|O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece. __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.__ |
 
-#### Gerenciamento de Ticket
-
-As funcionalidades de Sub-Solicitação e Solicitação Relacionada sofreram uma reestruturação que proporciona maior conformidade à suas atribuições, o foco dessa correção foi aproximar a funcionalidade daquilo que realmente é a sua proposta.
-
-Para mais informações, veja [Relacionar um Ticket][1] e [Cadastrar uma Sub-Solicitação][2]
-
-#### Webservices
-
-A sincronização para criação de novas Atividades sofreu uma alteração em sua regra de negócio, isso porque não é possível criar uma atividade que não tenha vínculo com Serviço de Negócio e Portfólio. Portanto, o webservice designado para criação irá abrir um ticket com os parâmetros passados na configuração inicial do serviço.
-
-A funcionalidade de criar um novo usuário, quando estiver habilitado a sincronização de dados permanece consistente.
-
-#### Fluxo
-
-Tratativa para barrar edição de expressões nativas e expressões de mesmo nome.
-
-### Novas Funcionalidades e Melhorias
-
-#### Acesso Rápido
-
-O acesso rápido permite que o usuário encontre os principais processos por meio de ícones que auxiliam na fixação e visualização de forma eficiente.
-
-**O usuário visualiza somente os ícones dos processos que o mesmo possui acesso com exceção dos ícones Simple, Portal do Conhecimento, Centro de Experiência e Guia de Usuário.**
-
-#### Configuração de notificação por e-mail de ticket delegado
-
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de delegação do ticket
-Para mais informações, veja [Notificação via e-mail de ticket delegado][3]
-
-#### Configuração de Notificação por e-mail de ticket reclassificado
-
-Criamos a possibilidade de configuração de notificação por e-mail na funcionalidade de reclassificação do ticket
-Para mais informações, veja [Notificação via e-mail de ticket reclassificado][4]
-
-#### Gerência de  Mudança
-
-A versão 8.0.0.0 do CITSmart sofreu melhorias no processo de gerenciamento de mudanças, trazendo o mundo ágil para gerenciar as atividades que deverão ocorrer durante o escopo da mudança.
-
-**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de mudança, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja [Gerência de Mudança][5]
-
-#### Gerência de Problema
-
-Na versão 8.0.0.0 do CITSmart o processo de gerenciamento de problema permite adicionar atividades para auxiliar no gerenciamento das equipes durante o diagnóstico da causa raiz.
-
-**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de problema, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja [Gerência de Problema][6]
-
-#### Configuração de uso para Gerência de  Liberação
-
-O processo de liberação ganha mais força no planejamento, testes e homologação permitindo designação das atividades e gerenciamento à vista.
-
-**Nota:** Essa funcionalidade substitui os parâmetros de fluxos padrões para utilização do processo de liberação, portanto, é necessária a alteração para essa configuração.
-
-
-Para mais informações, veja [Gerência de Liberação][7]
-
-#### Revisão de Comentários
-
-Na versão 8.0.0.0 o CITSmart permite avaliação e publicação dos comentários escritos sobre um conhecimento.
-
-Para mais informações, veja [Revisão de Comentário][8]
-
-#### Acesso à base de conhecimento de usuários externo
-
-Inovamos  a forma de acesso à base de conhecimento para usuários que não possuem login de acesso à ferramenta CITSmart.
-
-Na versão 8.0.0.0 conhecimentos com permissão de visualização poderão ser acessados pela comunidade em geral, basta possuir o link de acesso.
-
-
-Para mais informações, veja Configurar acesso externo ao [Portal de Conhecimento][9]
-
-#### Gerência de Item de Configuração
-
-Aprimoramos a experiência do usuário trazendo em destaque um dashboard que apresenta a quantidade de itens de configuração, por grupo, tipo e aglutinados nos processos de Incidente, Mudança e Liberação, deixando à vista possíveis IC’s que passarão por alteração ou envolvidos em algum incidente.
-
-Para mais informações, veja [Gerenciamento de Item de Configuração][10]
-
-#### Regra de Escalonamento
-
-Simplificamos o uso das regras de escalonamento dos tickets, com poucos passos será possível implementar a regra que antes contava com inúmeras configurações.
-
-**Nota**: Essa funcionalidade substitui o uso de diversos parâmetros de escalonamento, portanto, é necessária a alteração para o uso efetivo das regras de escalonamento.
-
-
-Para mais informações, veja [Criar regra de escalonamento][11]
-
-#### Aprovação de Ticket
-
-Na versão 8.0.0.0 do CITSmart incluímos a aprovação de tickets através de novo ícone direto na lista de atendimento, não será necessário abrir o ticket para realizar o atendimento, apresentamos as informações disponíveis e as opções configuradas para aceite ou recusa do chamado.
-
-Essa funcionalidade está disponível no Mobile SM e no Portal de Serviços.
-
-Para mais informações, veja [Aprovar um ticket][12]
-
-#### Atualização automática da lista de ticket
-
-Permitimos que a função de atualização automática da lista de ticket seja habilitada para atualizar a lista automaticamente de tempos em tempos.
-
-Para mais informações, veja [Atualização Automática da Lista de Ticket][13]
-
-#### Ocorrência
-
-O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico seja notificado via e-mail. Além da permissão de incluir tempo de execução da atividade e manter o sigilo da informação cadastrada, para que somente os técnicos permitidos a vejam.
-
-Para mais informações, veja [Cadastrar ocorrência em Ticket][14]
-
-#### Simple - Gestão Ágil e a vista
-
-O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta.
-De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista.
-
-Para mais informações, veja [Simple][15]
-
-#### Área do cliente
-
-Proporcionamos uma área específica para melhorar a experiência de uso. Nessa área será permitido a apresentação de serviços, informações, relatórios que mais se aproximam com o uso do dia a dia do cliente.
-
-Para mais informações, veja [Centro de Experiência][16]
-
-#### Business Intelligence
-
-A partir da versão 8.0.0.0 disponibilizamos alguns relatórios quantitativos dos principais processos contidos no CITSmart através de nossa nova plataforma BI.
-
-Para mais informações, veja [Business Intelligence][17]
-
-#### Auditoria
-
-Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria.
-
-Para mais informações, veja [Auditoria do Sistema][18]
-
-#### Política de Segurança de Senha
-
-Aprimoramos o quesito de segurança da informação, implantado formas de segurança de senhas para usuários internos.
-
-Para mais informações, veja [Política de Segurança de Senha][19]
-
-#### Mobilidade
-
-Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a campo de técnicos que momentaneamente estão sem conexão à internet.
-
-A experiência de mobilidade vai além com os recursos de assinatura e notas.
-
-Para mais informações, veja [Manual de utilização do aplicativo CITSmart GO][20]
-
-Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas.
-
-Para mais informações, veja [Manual de utilização do aplicativo mobile CITSmart Experience][21]
-
-#### Neuro
-
-A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do CITSmart a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do CITSmart e formar relatórios de forma simples com o auxílio do Smart Report.
-
-
-#### Fluxo
-
-O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece.
-
-__Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.__
 
 
 [1]:/pt-br/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
@@ -434,4 +302,3 @@ __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 c
 [19]:/pt-br/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
 [20]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
 [21]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
-

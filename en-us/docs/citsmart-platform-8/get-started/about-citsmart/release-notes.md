@@ -1,7 +1,49 @@
-Title: Release Notes History
+Title: Release Notes
 Description: Release notes, policies information, bug fixes and improvements in the CITSmart.
 
-# Release Notes History
+# Release Notes
+
+## Version 8.0.1.0 (2019/06/28)
+
+Welcome to Citsmart Version 8.0.1.0. The Version 8.0.1.0 of Citsmart presents the following improvements:
+
+|Improvement|Description|
+|--------|---------|
+|3717|Optimization in Chat, ANUVA and Message Exchange – The entire messaging system has been integrated into Chat, so channels such as Messaging from this version, promote a more iterative dialogue between the requester and the attendant.|
+|3467|Improvement in ticket attendance interface - 1. From this version, the users can dimension the service interface visually in a way that best meets them. 2. The interface became larger giving visibility to the ticket information, and the menus are in a tab that becomes visible only when the attendant needs other resources. 3. The comments have gained their own session where Content Search, Editing, Deletion and Response between attendant and requester and between attendants is allowed. Therefore, the function of public and private conversations was maintained.|
+|3127|Experience Center - Widget of Simple. The resources of this important management tool from this version will be available in the Experience Center, facilitating the work of the teams that treat their activities through it.|
+|1516|We included the possibility to filter by Estimation period of a Workspace and Sprint.|
+|2126|User Profile Improvement: We have included the possibility for the user to edit the following information: Unit, extension, email and telephone.|
+|3491|In the notifications of a ticket, we include the possibility of having an audible alarm that alerts the attendant of the arrival of a new ticket to the service queue.|
+|3875|The option to reclassify is now parameterized through group registration, so the functionality contained in the ticket may or may not be available according to group permission.|
+|4211|On the ticket screen, the email field received an auto complete to make it easier to search for user emails.|
+|2584|Simple - The sprint administrator can assign a specific user the manager accesses of a Sprint.|
+|2134|Simple - Restriction to edit the Administrator access profile.|
+|837|Simple –  Presentation of the quantity of tasks by list in the Sprint|
+|1265|Parameter to enable/disable sending attachments in email notifications|
+|3718|Ticket – Filtering option increment by Date of last Update in the search items.|
+|2588|Simple – Search by part of workspaces, sprints and tasks titles.|
+|2711|Presentation of unread notifications in the foreground.|
+|474|Contract Registration - Allow multiple selection of Units.|
+|2585|Simple - Option to order Workspace and Sprint.|
+|3462|Integration of CITSmart with OKTA|
+|1498|Simple - Presentation of the task number in editing an activity.|
+|3070|Simple – Filter by name of employees and name of TAG.|
+|3911|Smart Portal - After ticket registration, direct the user to "My Requests".|
+|2615|Simple – Search for unselected items.|
+
+## Version 8.0.0.10 (2019/06/07)
+
+Welcome to CITSmart Version 8.0.0.10. This release features some emergency fixes.
+
+| Problem	| Description|
+|-----------|------------|
+|3097	| Error attempting to link an attachment in Sub-request |
+|3607	| Correction in notification view |
+|3900	| Correction in ticket delegation |
+|3914	| System allows to register same login for different users |
+|4028	| Correction in the presentation of the responsible person in the registration of an occurrence |
+|4148	| Improvement in the queries of the ticket listing |
 
 ## Version 8.0.0.9 (2019/05/31)
 
@@ -22,8 +64,6 @@ Version 8.0.0.9 of CITSmart presents some emergency corrections.
 ## Version 8.0.0.7 (2019/05/17)
 
 With performance optimizations, usability improvements, adjustments and bug fixes.
-
-### Problems fixed
 
 | **Code**   | **Ticket Description**                                                                                                                                                                                                                                          | **type**     |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -106,32 +146,13 @@ With performance optimizations, usability improvements, adjustments and bug fixe
 | 1596       | Verify that the user changed the last time of the DAY, but when creating request this change was not reflected                                                                                                                                        | Corrective   |
 | 3067       | Improvements to the processing of the inventory queue (Threads)                                                                                                                                                                                                      | Improvement  |
 
-    
-Packages path:  
->   1.       **Workflow**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.7/CitsmartITSM-Enterprise-8.0.0.7.war.zip>
+**Other released products**
 
->   2.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
+Neuro: 1.2.4.10
 
->   3.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   4.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   5.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
-
->   6.       **Neuro**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.10.war.zip>
-
->   7.       **Inventory**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip>
-
->   8.       **EVM**:
->    <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip>
-
->   9.       **Audit**: <ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.4.0.war.zip>
-
+Audit: 0.4.0
 
 ## Version 8.0.0.5 (2019/04/25)
-
-### Problems Fixed
 
 | Problem  | Description                                                                                                                                              |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -157,7 +178,7 @@ Note the following scenario:
 
     1.  The client will be upgrading from version 7 to version 8.0.0.5;
 
-    2.  The consultant did not parametrize in the Problem Portfolio the folder 
+    2.  The consultant did not parametrize in the Problem Portfolio the folder
         to save the Known Error knowledge base;
 
 -   What happens:
@@ -166,47 +187,38 @@ Note the following scenario:
 
     2.  The user informs the Root Cause field and attempts to save the knowledge base;
 
-    3.  When open the Knowledge Base screen for saving, the system presents the message 
+    3.  When open the Knowledge Base screen for saving, the system presents the message
         that the user does not have the permission;
 
 -   Why does it happen?
 
-    1.  The message appears because the consultant did not informed the folder to save 
+    1.  The message appears because the consultant did not informed the folder to save
         the known error in the Problem Portfolio;
 
-    2.  Once you try to save the known error, the system does not identify the folder 
+    2.  Once you try to save the known error, the system does not identify the folder
         and sends the message;
 
-    3.  In these cases, contact the Citsmart Support to make the correctness of this 
+    3.  In these cases, contact the Citsmart Support to make the correctness of this
         register;
 
-    4.  Make the configuration of the known error saving folder on the Problem Portfolio 
+    4.  Make the configuration of the known error saving folder on the Problem Portfolio
         screen;
 
     5.  In the next registration the message will not be repeated.
-    
-    
-    
-Get the packages:
 
-**SM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Enterprise/8.0.0.5/CitsmartITSM-Enterprise-8.0.0.5.war.zip  
-  
-**Inventory**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-Inventory/citsmartinventory-2.0.0.3.war.zip  
-  
-**EVM**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-EVM/citsmartevm-2.0.0.3.war.zip  
-  
-**Neuro**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Citsmart-Neuro/citsmart-neuro-web-1.2.4.8.war.zip  
-  
-**Audit**:
-ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/Audit/itsm-audit-0.2.0.zip
+
+**Other released products**
+
+Neuro: 1.2.4.8
+
+Inventory: 2.0.0.3
+
+EVM: 2.0.0.3
+
+Audit: 0.2.0
+
 
 ## Version 8.0.0.4 (2019/04/12)
-
-### Problem fixed
 
 | Problem  | Description                                                                                |
 |----------|--------------------------------------------------------------------------------------------|
@@ -214,8 +226,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 
 ## Version 8.0.0.3 (2019/04/04)
-
-### Problems Fixed
 
 | Problem | Description                                                                                                                                                                                                          |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -227,8 +237,6 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Version 8.0.0.2 (2019/03/20)
 
-### Problems Fixed
-
 | Problem | Description                                                                                                                                                                                                                                                                 |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2309     | Intermittent failure and of greater incidence in clustered environments in the method that returns timezone to register date and time. Version 8.0.0.2 provides definitive solution to the error that occurs in classes that use timezone for registration. |
@@ -237,179 +245,41 @@ ftp://ftpgo.centralit.com.br/10104_DIRETORIA_DE_SOLUCOES/PUBLICO/Citsmart-ITSM/A
 
 ## Version 8.0.0.1 (2019/03/08)
 
-### Problems Fixed
-
 | Problem | Description                                                                                                                                                                                      |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2576     | Known error in the portfolio that is not displayed when there is an end date in the contract service. Version 8.0.0.1 provides a definitive solution to the error caused by the service portfolio. |
 
 ## Version 8.0.0.0 (2019/03/01)
 
-### Fixes
+|Type|Functionality|Description|
+|----|-------|-----------|
+|Fixe|Ticket Management|The Sub-Request and Related Request functionalities were restructured to provide greater compliance to their assignments. The focus of this fix was to bring the functionalities closer to their proposal. For further information, see [Relate Ticket][1] and [Register Sub-Request][2]|
+|Fixe|Webservices|The synchronization for creating new Activities has changed in the business rule, that's because it's not possible to create an activity that doesn't have a link with the Business Service and Portfolio. Therefore, the webservice designated for creation will open a ticket with the parameters in the initial configuration of the service. The functionality of create a new user, when the data synchronization is enabled, remains consistent.|
+|Fixe|Flow|Adjustments to avoid editing native expressions and expressions of same name.|
+|Improvements|Quick Access|The quick access allows the user to find main processes through icons that help in the efficiency of fixing and viewing. **The users only sees the icons of the processes that they have access, with the exception of Simple, Knowledge Portal, Experience Center and User Guide.**|
+|Improvements|Ticket Management|We created the possibility of configuring the functionality of email notification in the ticket delegation. For further information, see [Notification via E-mail of Ticket Delegated][3]|
+|Improvements|Ticket Management|We created the possibility of configuring the functionality notification via email reclassification. For further information, see [Notification via email of reclassified ticket][4]|
+|Improvements|Change Management|Version 8.0.0.0 of CITSmart has improvements in the change management process, bringing the agile world to manage the activities that should occur during the scope of the change. **Note:** This functionality replaces the default flow parameters for usage of the change process, moreover, the change is necessary for this configuration. For further information, see [Change Management][5]|
+|Improvements|Problem Management|In version 8.0.0.0 of CITSmar,t the problem management process allows adding activities to assist in the management of teams during the root cause diagnosis. **Note:** This functionality replaces the default flow parameters for usage of the problem process, moreover, the change is necessary for this configuration. For further information, see [Problem Management][6]|
+|Improvements|Release Management|The release process is more powerful in planning, testing and approving, allowing the designation of activities and management at sight. **Note:** This functionality replaces the default flow parameters for usage of release process, moreover, the change is necessary for this configuration. For further information, see [Release Management][7]|
+|Improvements|Knowledge Management|In version 8.0.0.0 CITSmart allows the evaluation and publication of written comments about a knowledge. For further information, see [Comments Review][8]|
+|Improvements|Knowledge Management|We innovate the way of access to the knowledge base for users who don't have login to the CITSmart tool. In version 8.0.0.0 knowledge with permission of visualization can be accessed by the community in general, just have the link of access. For further information, see Configure external access to the [Knowledge Portal][9]|
+|Improvements|Configuration Management|We enhance the user experience by highlighting a dashboard that displays the number of configuration items by group, type, and agglutinated in the Incident, Change, and Release processes, leaving in sight possible CI's that will be changed or involved in some incident. For further information, see [Configuration Item Management][10]|
+|Improvements|Ticket Management|We simplified the use of ticket escalation rules, with a few steps, it'll be possible to implement the rule that previously had numerous configurations. **Note:** This functionality replaces the use of several escalation parameters, moreover, it's necessary to change for the effective use of the escalation rules. For further information, see [Create escalation rule][11]|
+|Improvements|Ticket Management|In version 8.0.0.0 of CITSmart, we included ticket approval through a new direct icon in the attendance list, it's not necessary to open the ticket to perform the attendance, we present the available information and the options configured to accept or refuse the call. This functionality is available on Mobile SM and on the Service Portal. For further information, see [Approve ticket][12]|
+|Improvements|Ticket Management|We allow the automatic ticket list updating function to be enabled to refresh the list automatically from time to time. For further information, see [Automatic Update of Ticket List][13]|
+|Improvements|Ticket Management|The improvement of the occurrence registration allows the requester or technician to be notified via email. In addition to the permission to include activity execution time and keep the information confidential registered, so that only authorized technicians can see it. For further information, see [Register ticket occurrence][14]|
+|Improvements|Integrated Management|Simple was created with the purpose of bringing the concept of agile management to the tool. Independently or clustered in one of the Problem, Change and Release solutions, Simple allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight. For further information, see [Simple][15]|
+|New|Experience Center|We provide a specific area to improve the user experience. In this area will be allowed the presentation of services, information and reports that come closest to the day-to-day use of the customer. For further information, see [Experience Center][16]|
+|New|Smart analytics|From the version 8.0.0.0, we have provided some quantitative reports of the main processes contained in CITSmart through our new BI platform. For further information, see [Business Intelligence][17]|
+|New|Audit|We have reformed the system audit to increase the agility and reliability of the audit research feature. For further information, see [System Audit][18]|
+|New|Platform administration|We have improved information security, implementing forms of password security for internal users. For further information, see [Password Security Policy][19]|
+|New|Mobile|We delivered a new application that, in a robust way, allow the field service of technicians who are momentarily without internet connection. The mobility experience goes beyond signature features and notes. For further information, see [Mobile Field Service][20]. Still in the context of mobility, and no less robust, we improved the Mobile SM application, which has among other uses, the ability to sign, approve and notes. For further information, see [Mobile CITSmart Experience application manual][21]|
+|New|Neuro|From the version 1.2.3.0 of Neuro, it's possible to automatically create a CITSmart questionnaire from the Neuro business object register. The idea behind this innovation is to facilitate the extraction of responses from CITSmart questionnaires and to create reports in a simple way, with the help of the Smart Report.|
+|New|Flow|The package of flows delivered to the processes of Problem, Change and Release have been simplified, the products have been remodeled to adhere to the possibilities that the flow offers. __If the customer doesn't want to use the new flows, the latest version 7.1.0 will continue to work perfectly.__ |
 
-#### Ticket Management
 
-The Sub-Request and Related Request functionalities were restructured to provide greater compliance to their assignments. The focus of this fix was to bring the functionalities closer to their proposal.
 
-For further information, see [Relate Ticket][1] and [Register Sub-Request][2]
-
-#### Webservices
-
-The synchronization for creating new Activities has changed in the business rule, that's because it's not possible to create an activity that doesn't have a link with the Business Service and Portfolio. Therefore, the webservice designated for creation will open a ticket with the parameters in the initial configuration of the service.
-
-The functionality of create a new user, when the data synchronization is enabled, remains consistent.
-
-#### Flow
-
-Adjustments to avoid editing native expressions and expressions of same name.
-
-### New functionalities and Improvements
-
-#### Quick Access
-
-The quick access allows the user to find main processes through icons that help in the efficiency of fixing and viewing.
-
-**The users only sees the icons of the processes that they have access, with the exception of Simple, Knowledge Portal, Experience Center and User Guide.**
-
-#### Configuration of notification via email of delegated ticket
-
-We created the possibility of configuring the functionality of email notification in the ticket delegation
-For further information, see [Notification via E-mail of Ticket Delegated][3]
-
-#### Configuration of notification via email of reclassified ticket
-
-We created the possibility of configuring the functionality notification via email reclassification
-For further information, see [Notification via email of reclassified ticket][4]
-
-#### Change Management
-
-Version 8.0.0.0 of CITSmart has improvements in the change management process, bringing the agile world to manage the activities that should occur during the scope of the change.
-
-**Note:** This functionality replaces the default flow parameters for usage of the change process, moreover, the change is necessary for this configuration.
-
-
-For further information, see [Change Management][5]
-
-#### Problem Management
-
-In version 8.0.0.0 of CITSmar,t the problem management process allows adding activities to assist in the management of teams during the root cause diagnosis.
-
-**Note:** This functionality replaces the default flow parameters for usage of the problem process, moreover, the change is necessary for this configuration.
-
-
-For further information, see [Problem Management][6]
-
-#### Usage Configuration for Release Management
-
-The release process is more powerful in planning, testing and approving, allowing the designation of activities and management at sight.
-
-**Note:** This functionality replaces the default flow parameters for usage of release process, moreover, the change is necessary for this configuration.
-
-
-For further information, see [Release Management][7]
-
-#### Comments Review
-
-In version 8.0.0.0 CITSmart allows the evaluation and publication of written comments about a knowledge.
-
-For further information, see [Comments Review][8]
-
-#### Access to the knowledge base of external users
-
-We innovate the way of access to the knowledge base for users who don't have login to the CITSmart tool.
-
-In version 8.0.0.0 knowledge with permission of visualization can be accessed by the community in general, just have the link of access.
-
-
-For further information, see Configure external access to the [Knowledge Portal][9]
-
-#### Configuration Item Management
-
-We enhance the user experience by highlighting a dashboard that displays the number of configuration items by group, type, and agglutinated in the Incident, Change, and Release processes, leaving in sight possible CI's that will be changed or involved in some incident.
-
-For further information, see [Configuration Item Management][10]
-
-#### Escalation Rule
-
-We simplified the use of ticket escalation rules, with a few steps, it'll be possible to implement the rule that previously had numerous configurations.
-
-**Note:** This functionality replaces the use of several escalation parameters, moreover, it's necessary to change for the effective use of the escalation rules.
-
-
-For further information, see [Create escalation rule][11]
-
-#### Ticket Approval
-
-In version 8.0.0.0 of CITSmart, we included ticket approval through a new direct icon in the attendance list, it's not necessary to open the ticket to perform the attendance, we present the available information and the options configured to accept or refuse the call.
-
-This functionality is available on Mobile SM and on the Service Portal.
-
-For further information, see [Approve ticket][12]
-
-#### Automatic update of ticket list
-
-We allow the automatic ticket list updating function to be enabled to refresh the list automatically from time to time.
-
-For further information, see [Automatic Update of Ticket List][13]
-
-#### Occurrence
-
-The improvement of the occurrence registration allows the requester or technician to be notified via email. In addition to the permission to include activity execution time and keep the information confidential registered, so that only authorized technicians can see it.
-
-For further information, see [Register ticket occurrence][14]
-
-#### Simple - Agile Management at sight
-
-Simple was created with the purpose of bringing the concept of agile management to the tool.
-Independently or clustered in one of the Problem, Change and Release solutions, Simple allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
-
-For further information, see [Simple][15]
-
-#### Customer's area
-
-We provide a specific area to improve the user experience. In this area will be allowed the presentation of services, information and reports that come closest to the day-to-day use of the customer.
-
-For further information, see [Experience Center][16]
-
-#### Business Intelligence
-
-From the version 8.0.0.0, we have provided some quantitative reports of the main processes contained in CITSmart through our new BI platform.
-
-For further information, see [Business Intelligence][17]
-
-#### Audit
-
-We have reformed the system audit to increase the agility and reliability of the audit research feature.
-
-For further information, see [System Audit][18]
-
-#### Password Security Policy
-
-We have improved information security, implementing forms of password security for internal users.
-
-For further information, see [Password Security Policy][19]
-
-#### Mobility 
-
-We delivered a new application that, in a robust way, allow the field service of technicians who are momentarily without internet connection.
-
-The mobility experience goes beyond signature features and notes.
-
-For further information, see [Mobile Field Service][20]
-
-Still in the context of mobility, and no less robust, we improved the Mobile SM application, which has among other uses, the ability to sign, approve and notes.
-
-For further information, see [Mobile CITSmart Experience application manual][21]
-
-#### Neuro
-
-From the version 1.2.3.0 of Neuro, it's possible to automatically create a CITSmart questionnaire from the Neuro business object register. The idea behind this innovation is to facilitate the extraction of responses from CITSmart questionnaires and to create reports in a simple way, with the help of the Smart Report.
-
-#### Flow
-
-The package of flows delivered to the processes of Problem, Change and Release have been simplified, the products have been remodeled to adhere to the possibilities that the flow offers.
-
-__If the customer doesn't want to use the new flows, the latest version 7.1.0 will continue to work perfectly.__
 
 
 [1]:/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
@@ -433,5 +303,3 @@ __If the customer doesn't want to use the new flows, the latest version 7.1.0 wi
 [19]:/en-us/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
 [20]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
 [21]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
-
-

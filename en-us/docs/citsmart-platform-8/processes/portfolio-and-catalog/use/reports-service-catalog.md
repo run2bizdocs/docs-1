@@ -1,6 +1,6 @@
 title: Generate reports - service catalog
 Description: Allows to verify the information about the service catalog registered.
-#Generate reports - service catalog
+# Generate reports - service catalog
 This report allows to verify the information about the service catalog registered.
 
 Procedure

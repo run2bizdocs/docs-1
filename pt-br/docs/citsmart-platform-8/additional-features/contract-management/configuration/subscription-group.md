@@ -16,8 +16,7 @@ Procedimento
     Integrada \> Gerência de Contratos \> Grupos de Contratos;
 
 2.  Na guia "**Cadastro de Grupos de Assinaturas**", preencher os campos
-    necessários (título, selecionar a assinatura, informar a ordem em que a
-    assinatura aparecerá no quadro de assinaturas do relatório);
+    necessários;
 
 3.  Clicar no botão "Adicionar" e em seguida "Gravar" para efetuar a operação.
 

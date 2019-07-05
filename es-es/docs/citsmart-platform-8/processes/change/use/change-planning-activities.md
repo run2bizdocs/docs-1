@@ -20,11 +20,8 @@ Procedimiento
 2.  Buscar un cambio para planificar la actividad, hacer clic en "Abrir" y
     después en el área "Planificación”;
 
-3.  Es posible crear un cuadro Kaban para gestionar las actividades
-    registradas. Sólo hacer clic en “+Workspace” y completar los datos
-    disponibles, por ejemplo: título, seleccionar el usuario o grupo responsables
-    por la ejecución de las tareas, dentre otros. También es permitido vincular un
-    cuadro ya creado al hacer clic  en otro botón relacionado al “Workspace”.
+3.  Es posible crear un cuadro Kanban para gestionar las actividades registradas. Sólo hacer clic en “+Workspace” y completar los datos
+    disponibles, por ejemplo: título, seleccionar el usuario o grupo responsables por la ejecución de las tareas, dentre otros. También     es permitido vincular un cuadro ya creado al hacer clic en otro botón relacionado al “Workspace”.
 
 4.  Aún es posible vincular los proyectos, acciones, notificaciones, conocimientos y adjuntos de archivos para detallar la ejecución del cambio. Para ello, es necesario hacer clic en cada pestaña disponible, seleccionar el elemento deseado para vincularlo al cambio.
 

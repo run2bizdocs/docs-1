@@ -1,6 +1,6 @@
-title:  Criar e visualizar sub-solicitação
-Description: É possível criar sub-solicitação através da solicitação original e visualiza-la após de criada. 
-# Criar e visualizar sub-solicitação
+title:  Criar e visualizar sub-ticket
+Description: É possível criar sub-ticket através da solicitação original e visualiza-la após de criada. 
+# Criar e visualizar sub-ticket
 
 A funcionalidade permite cadastrar um ticket com atividades relacionadas ao ticket original.
 
@@ -21,29 +21,31 @@ Procedimento
 ------------
 
 1.  Acessar a funcionalidade Gerenciamento de Ticket navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
-2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar sub-solicitação" no menu opções;
+2.  Clicar sobre o ticket desejado e selecionar a alternativa "Criar sub-ticket" no menu opções;
 
-3.  Preencher os campos necessários e clicar no botão "Gravar". A sub-solicitação será direcionada para o grupo executor definido
+3.  Preencher os campos necessários e clicar no botão "Gravar". O sub-ticket será direcionado para o grupo executor definido
     no registro do vínculo da atividade, o mesmo será direcionado para o grupo executor definido no parâmetro 9;
 
 4.  Lembre-se que o sistema enviará e-mails de notificação a respeito de
     criação, escalonamento, captura, encerramento e demais alterações dos
     tickets relacionados para o grupo executor do ticket principal.
     
-5.  Para pesquisar as sub-solicitações, será necessário marcar o filtro "Exibir relacionadas" na área de pesquisa na tela principal     da funcionalidade.
+5.  Para pesquisar os sub-tickets, será necessário marcar o filtro "Exibir relacionadas" na área de 
+    pesquisa na tela principal da funcionalidade.
 
         
 !!! Abstract "ATENÇÃO"
 
-    A sub-solicitação tem um fluxo próprio, portanto, não é encerrada juntamente
-    com o fechamento do ticket de origem. Deverá, assim sendo, ser executada e encerrada de
+    O sub-ticket tem um fluxo próprio, portanto, não é encerrado juntamente
+    com o fechamento do ticket de origem. Deverá, assim sendo, ser executado e encerrado de
     forma autônoma.  
     
 !!! Abstract "ATENÇÃO"
 
-    A sub-solicitação poderá ser reaberta a qualquer momento, independemente do status da solicitação pai (se está reaberta ou fechada).  
+    O sub-ticket poderá ser reaberto a qualquer momento, independemente do status da solicitação pai (se está reaberta ou fechada).  
+    
 Relacionado
 -----------
 

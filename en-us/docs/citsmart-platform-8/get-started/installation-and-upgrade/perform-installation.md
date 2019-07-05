@@ -97,7 +97,7 @@ Title: Perform installation
     ```sh
     vim standalone.conf
     ```
-	
+
     ```java
     if [ "x$JBOSS_MODULES_SYSTEM_PKGS" = "x" ]; then
     JBOSS_MODULES_SYSTEM_PKGS="org.jboss.byteman"
@@ -149,6 +149,8 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 In the CLI bash, execute the commands below to create the CITSmart properties.
 
+#### CLI
+
 ```java
 /system-property=mongodb.host:add(value="mongodb.citsmart.com")
 /system-property=mongodb.port:add(value="27017")
@@ -167,6 +169,30 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=rhino.scripts.directory:add(value="")
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property name="citsmart.inventory.pagelength" (value="100")
+```
+
+#### XML
+
+```java
+<system-properties>
+    <property name="mongodb.host" value="citmongo"/>
+    <property name="mongodb.port" value="27017"/>
+    <property name="mongodb.user" value="admin"/>
+    <property name="mongodb.password" value="admin"/>
+    <property name="citsmart.protocol" value="http"/>
+    <property name="citsmart.host" value="my.citsmartcloud.com"/>
+    <property name="citsmart.port" value="8080"/>
+    <property name="citsmart.context" value="citsmart"/>
+    <property name="citsmart.login" value="citsmart.local\\\consultor"/>
+    <property name="citsmart.password" value="senhaConsultor"/>
+    <property name="citsmart.inventory.id" value="citsmartinventory"/>
+    <property name="citsmart.evm.id" value="citsmartevm"/>
+    <property name="citsmart.evm.enable" value="false"/>
+    <property name="citsmart.inventory.enable" value="false"/>
+    <property name="rhino.scripts.directory" value=""/>
+    <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+</system-properties>
 ```
 
 ### Datasources configuration
@@ -188,14 +214,16 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     ```
 
 2. Connect the jboss-cli once again and execute the command below to add the module to the standalone-full-ha.xml   
-   
+
     ```sh
-    [standalone@localhost:9990 /] module add --name=org.postgres --                resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --        dependencies=javax.api,javax.transaction.api
-    /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-     name=org.postgresql.xa.PGXADataSource
+    module add --name=org.postgres --resources=/opt/wildfly/modules/system/layers/base/org/postgres/main/postgresql-9.3-1103.jdbc41.jar --dependencies=javax.api,javax.transaction.api
     ```
-   
+    ```sh
+    /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
+    ```
+
 3. There are **eight inputs** of datasource for the **citsmart_db**, being four for CITSmart and four for CITSmart Neuro. The user and   password is **citsmartdbuser and exemplo123** respectively created in the section *PostgreSQL Database Server*.
-   
+
 4. To create datasources, execute the CLI commands below:
 
     Datasource citsmart:
@@ -306,7 +334,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
 ### Configure subsytems
 
-```java
+```sh
 /subsystem=logging/root-logger=ROOT:write-attribute(name=level,value=INFO)
 /subsystem=logging/console-handler=CONSOLE:write-attribute(name=level,value=INFO)
 /subsystem=undertow/server=default-server/http-listener=default:write-attribute(name=max-post-size,value="5000485760")
@@ -316,9 +344,9 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-header-size,value="65535")
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-parameters,value="3000")
 /subsystem=undertow/configuration=filter/rewrite=citsmart:add(target="/citsmart")
-/subsystem=undertow/server=default-server/host=default-host/filter-ref=citsmart:add(predicate="regex('^/?$') and equals(/citsmart)")
+/subsystem=undertow/server=default-server/host=default-host/filter-ref=citsmart:add(predicate="regex('\^/?\$') and equals(/citsmart)")
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:add
-/subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \"%r\" %s %b \"%{i,Referer}\" \"%{i,User-Agent}\"")
+/subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \\"%r\\" %s %b \\"%{i,Referer}\\" \\"%{i,User-Agent}\\"")
 /subsystem=messaging-activemq/server=default/jms-queue=filaDocumentoQueue:add(entries=["queue/filaDocumento","java:jboss/exported/jms/queue/filaDocumento"])
 /subsystem=messaging-activemq/server=default/jms-topic=filaDocumentoTopic:add(entries=["topic/filaDocumento","java:jboss/exported/jms/topic/filaDocumento"])
 /subsystem=messaging-activemq/server=default/jms-queue=neuroInputQueue:add(entries=["queue/neuroInputQueue","java:jboss/exported/jms/queue/queue/neuroInputQueue"])
@@ -354,21 +382,135 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
 2. We should create a file citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information below:
 
+    ```java
+    START_MONITORA_INCIDENTES=FALSE
+    JDBC_ALIAS_REPORTS=
+    JDBC_ALIAS_BPM=
+    JDBC_ALIAS_BPM_EVENTOS=
+    START_VERIFICA_EVENTOS=FALSE
+    QUANTIDADE_BACKUPLOGDADOS=1000
+    START_MODE_RULES=FALSE
+    START_MODE_RULES=FALSE
+    LOAD_FACTSERVICEREQUESTRULES=TRUE
+    INICIAR_PROCESSAMENTOS_BATCH=TRUE
+    ```
+
+!!! Abstract "ATTENTION"
+
+    Do not forget to change the owner of the files and directories to the CITSmart's user
+
+## Quartz Configuration
+
+CITSmart Batch processing uses Quartz for scheduling and processing system routines. To set it up, follow the procedure:
+
+1. Create a file named "quartz.properties" containing the data below, depending on your type of installation (standalone or cluster);
+2. Save this file to the application server's "configuration" folder.
+
+### Standalone Installation (database-independent):
+
 ```java
-START_MONITORA_INCIDENTES=FALSE
-JDBC_ALIAS_REPORTS=
-JDBC_ALIAS_BPM=
-JDBC_ALIAS_BPM_EVENTOS=
-START_VERIFICA_EVENTOS=FALSE
-QUANTIDADE_BACKUPLOGDADOS=1000
-START_MODE_RULES=FALSE
-START_MODE_RULES=FALSE
-LOAD_FACTSERVICEREQUESTRULES = TRUE
+#===============================================================
+#Configure Main Scheduler Properties
+#===============================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#===============================================================
+#Configure ThreadPool
+#===============================================================
+org.quartz.threadPool.threadCount =  5
+org.quartz.threadPool.threadPriority = 5
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+#===============================================================
+#Configure JobStore
+#===============================================================
+org.quartz.jobStore.class = org.quartz.simpl.RAMJobStore
 ```
 
-!!! Abstract "ATTENTION"	
-    
-    Do not forget to change the owner of the files and directories to the CITSmart's user
+### Cluster Installation
+
+#### Postgres Database
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Microsoft SQL Server Database
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
+
+#### Oracle Database:
+
+```java
+#============================================================================
+# Configure Main Scheduler Properties
+#============================================================================
+org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceId = AUTO
+#============================================================================
+# Configure ThreadPool
+#============================================================================
+org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.threadCount = 25
+org.quartz.threadPool.threadPriority = 5
+#============================================================================
+# Configure JobStore
+#============================================================================
+org.quartz.jobStore.misfireThreshold = 60000
+org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
+org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
+org.quartz.jobStore.useProperties = true
+org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.tablePrefix = QRTZ_
+org.quartz.jobStore.isClustered = true
+org.quartz.jobStore.clusterCheckinInterval = 20000
+org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+```
 
 ## Create directories to installation
 
@@ -378,25 +520,35 @@ LOAD_FACTSERVICEREQUESTRULES = TRUE
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
 
-**For GED:**
+    **For GED:**
 
+    ```sh
     mkdir -p /opt/citsmart/ged
-	
-**For Knowledge Base:**
+    ```
 
+    **For Knowledge Base:**
+
+    ```sh
     mkdir /opt/citsmart/kb
-	
-**For Twin Words:**
+    ```
 
+    **For Twin Words:**
+
+    ```sh
     mkdir /opt/citsmart/twinwords
+    ```
 
-**For Attachments of Knowledge Base:**
+    **For Attachments of Knowledge Base:**
 
+    ```sh
     mkdir /opt/citsmart/attachkb
+    ```
 
-**For Upload:**
+    **For Upload:**
 
-    mkdir /opt/citsmart/upload
+    ```
+	mkdir /opt/citsmart/upload
+    ```
 
 ## Generate certification SSL Self-Signed
 
@@ -404,38 +556,37 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 1. Connect in the Wildfly server;
 
-    Creating new alias with DNS (example itsm.citsmart.com): 
+    Creating new alias with DNS (example itsm.citsmart.com):
 
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
     ```
 
-    Creating alias with IP of Jboss server (example 192.168.0.40): 
+    Creating alias with IP of Jboss server (example 192.168.0.40):
 
     ```sh
     /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
     ```
 
-    Exporting certificate to extension .cer: 
+    Exporting certificate to extension .cer:
 
     ```sh
     /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
-    Adding certificate in the cacerts of Java: 
+    Adding certificate in the cacerts of Java:
 
     ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
     **Remember to apply the permissions to the wildfly and java jdk owner**
-	
+
     ```sh
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
-    
-2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
+2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
 
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
@@ -456,21 +607,29 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 1. Before leaving jboss-cli run the reload command to apply the changes.
 
-**PostgreSQL Database Server**
+    **PostgreSQL Database Server**
 
+    ```sh
     systemctl postgresql start
+    ```
 
-**MongoDB Database Server**
+    **MongoDB Database Server**
 
-    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod--auth--port 27017
+    ```sh
+    /opt/mongodb-linux-x86_64-rhel70-3.4.15/bin/mongod --auth --port 27017
+    ```
 
-**Apache Solr Indexing Server**
+    **Apache Solr Indexing Server**
 
+    ```sh
     su solr /opt/solr/bin/solr start -s /bin/bash
+    ```
 
-**Wildfly Application Server**
+    **Wildfly Application Server**
 
+    ```sh
     su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
+    ```
 
 ## CITSmart Enterprise Deployment
 
@@ -487,12 +646,12 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 1. To access the CITSmart Enterprise, we should access the IP or DNS with the port and context:
 
     ```sh
-    https://itsm.citsmart.com:8443/citsmart
+    https://example.com:8443/citsmart
     ```
 
 2. The CITSmart context is standard to the CITSmart Enterprise.
 
-    First Access: Enter the URL > https://itsm.citsmart.com:8443/citsmart.
+    First Access: Enter the URL > ```https://example.com:8443/citsmart```.
 
 3. Now, follow the steps in the manual of 3 steps and start to use the solution CITSmart.
 
@@ -500,13 +659,12 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
 
 1. Send the files of deployment provided to the server and move them to the directory "deployments".
 
-```sh
-cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
-```
+    ```sh
+    cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
+    ```
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
-	
+    <b>Updated:</b>01/22/2019 - Docummentation Team

@@ -38,7 +38,7 @@ Uso
 
 - [Cancelar ticket](/es-es/citsmart-platform-8/processes/tickets/use/cancel-ticket.html)
 
-- [Crear y ver sub-solicitud](/es-es/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html)
+- [Crear y ver sub-ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html)
 
 - [Reclasificar ticket](/es-es/citsmart-platform-8/processes/tickets/use/reclassify-ticket.html)
 

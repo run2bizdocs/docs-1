@@ -11,13 +11,15 @@ Before getting started
 An email template must have been previously registered and, the keys to be used
 in your body of text, should be the following:
 
--   \${IDSERVICEREQUEST}
+```html
+${IDSERVICEREQUEST}
 
--   \${SERVICENAME}
+${SERVICENAME}
 
--   \${REQUESTERNAME}
+${REQUESTERNAME}
 
--   \${DESCRIPTION}
+${DESCRIPTION}
+```
 
 Procedure
 -------------

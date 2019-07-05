@@ -1,28 +1,28 @@
 title: Audit a ticket
 Description: Allows to audit the tickets created. 
-#Audit a ticket
+# Audit a ticket
 This functionality allows to audit the tickets created.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the tickets.
+It's necessary to previously register the tickets and have access permission.
 
 Procedure
 -------------
 
 1.  Access the functionality Ticket Management through the main menu Processes
-    \> Request and Incident Management \> Service Request and Incident;
+    \> Ticket Management \> Ticket;
 
-2.  Click on the first button located in the upper left corner and then
-    on *Audit;*
+2.  Click on the first button located in the upper left side of the screen and then
+    on "Audit";
 
 3.  Complete the filters to audit the tickets you want;
 
 4.  Click on the icon symbolized by a magnifying glass to define the filters
     necessary to verify the ticket instances history to audit.
 
-!!! warning "ATTENTION"
+!!! Abstract "ATTENTION"
 
     In the Ticket Management interface, specifically in the item "Auditing",
     when trying to configure the audit of an open ticket (define the start and

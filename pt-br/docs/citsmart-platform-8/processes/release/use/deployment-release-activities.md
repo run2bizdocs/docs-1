@@ -2,7 +2,8 @@ title:  Atividades da fase de implantação da liberação
 Description: Permite planejar as atividades a serem implementadas junto a liberação 
 # Atividades da fase de implantação da liberação
 
-Esta funcionalidade permite planejar as atividades a serem implementadas junto a liberação semelhantemente ao que ocorre na fase de Planejamento da Liberação.
+Esta funcionalidade permite planejar as atividades a serem implementadas junto a 
+liberação semelhantemente ao que ocorre na fase de Planejamento da Liberação.
 
 Antes de começar
 --------------------
@@ -19,11 +20,19 @@ Procedimento
 2.  Localizar a liberação da qual deseja Planejar a atividade,
     clicar no botão “Abrir” e em seguida na área "Implantação da liberação";
 
-3.  Podemos criar um quadro Kaban para gerenciar as atividades cadastradas.
+3.  Podemos criar um quadro Kanban para gerenciar as atividades cadastradas.
     Basta apertar no botão "+ Novo work" (disponibilizado na área chamada
     "Atividades") e preencher os dados disponibilizados, tais como o título, sua
     fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
-    responsáveis para a execução das tarefas, dentre outros;
+    responsáveis para a execução das tarefas, dentre outros. Também, é possível vincular a 
+    liberação um Kanban já criado;
+    
+    !!! Abstract "NOTA"
+    
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de 
+        acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. 
+        O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo 
+        quadro Kanban. 
 
 4.  É possível vincular os papéis e responsabilidades, projetos, documentos,
     notas, documentos e notificações do sistema à liberação. Para

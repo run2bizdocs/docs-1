@@ -18,10 +18,11 @@ marcado como lido.
 ## Antes de começar
 
 Para criar um ticket através de um recebimento de e-mail é necessário configurar
-uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é necessário configurar a instância para utilização de rotinas batch, uma vez que a verificação de e-mail é uma tarefa agendada.
+uma conta de e-mail para permitir o acesso via IMAP previamente. Além disso, é 
+necessário configurar a instância para utilização de rotinas batch, uma vez que a 
+verificação de e-mail é uma tarefa agendada.
 
-Procedimento
-----------
+## Procedimento
 
 **Passo 1 - Cria um modelo de ticket**
 
@@ -29,10 +30,11 @@ Procedimento
     Ações automáticas \> Ações Incidentes/Requisições (ver
     Cadastrar Ação automática de Incidentes/Requisições/Procedimentos).
 
-**Passo 2 - Configurar acesso à caixa de e-mail**
+**Passo 2 - Configurar acceso a la bandeja de correo electrónico**
 
 1.  Criar ação automática de e-mail, acessando o menu principal Sistema \>
-    Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado para disparar a leitura e o registro de solicitações (ver Criar ação automática de e-mail).
+    Configurações \> Configuração de Ação automática via e-mail. Este cadastro é usado 
+    para disparar a leitura e o registro de solicitações (ver Criar ação automática de e-mail).
 
 **Passo 3 - Criar rotina de verificação (batch)**
 
@@ -44,18 +46,15 @@ Procedimento
 ```
 
 
-!!! Abstract "ATENÇÃO"
-
-    Serão coletadas as informações contidas no teor da mensagem do email, os
-    endereços do remetente, destinatário e cópia oculta do email que é lido e 
-    usado para registrar uma solicitação de serviço.
-
-    Para estas informações serem visualizadas via script Rhino,
-    segue exemplo em anexo.
-
-!!! Abstract "NOTA"
+!!! info "NOTA"
 
     É possível ler o título do e-mail enviado, ele está guardado no campo *subject* da tabela reademaildatarequest.
+
+Além disso, caso haja a necessidade de recuperar outras informações constantes nos campos do e-mail, como destinatários marcados como cópia (CC) ou cópia oculta (BCC) utilize o script Rhino abaixo:
+
+```java
+var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citframework.util); var print = java.lang.System.out; var readEmailDataDTO = serviceRequest.getReadEmailDataDTO(); if (readEmailDataDTO!=null){ print.println("Dados do E-mail de Origem: "); print.println("From: "); print.println(readEmailDataDTO.getMessageFrom()); print.println("To: "); print.println(readEmailDataDTO.getMessageTo()); print.println("CC (Carbon Copy): "); print.println(readEmailDataDTO.getMessageCC()); }
+```
 
 Relacionado
 -------
@@ -74,7 +73,7 @@ Relacionado
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
-    
+
 [1]:/pt-br/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
-  
+
 [2]:/pt-br/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf

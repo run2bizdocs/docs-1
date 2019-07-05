@@ -1,7 +1,7 @@
 title: Reclassify ticket
 
 Description: It's possible to reclassify the information of a ticket after its opening
-#Reclassify ticket
+# Reclassify ticket
 After create a ticket, it's possible to reclassify the information of a ticket after its opening. This option sends an e-mail to the request, informing about the change made.
 It's not allowed to delegate a ticket to an attendant if its status is Solved.
 
@@ -37,7 +37,7 @@ Procedure
 !!! Abstract "RULE"
 
     If the description is edited, it will be displayed in the e-mail notification, the changes made to the
-    description. This e-mail will only be sent if the parameter "Activate - Send
+    description. This e-mail will only be sent if the parameter 231 "Activate - Send
     an e-mail when an incident is edited is activated. The reclassification
     process includes an implicit delegation to the target Group or Attendant, in
     earlier versions the user had to: reclassify, capture the activity and

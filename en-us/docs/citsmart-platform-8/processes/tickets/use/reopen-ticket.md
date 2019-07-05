@@ -1,7 +1,7 @@
 title: Reopen ticket
 
 Description: Allows to reopen a closed ticket.
-#Reopen ticket
+# Reopen ticket
 This functionality allows to reopen a closed ticket.
 
 Before getting started

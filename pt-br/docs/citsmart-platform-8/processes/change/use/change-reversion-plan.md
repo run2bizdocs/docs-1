@@ -20,7 +20,7 @@ Procedimento
 2.  Localizar a mudança da qual deseja planejar atividade, clicar no botão
     “Abrir” e em seguida na área “Plano de reversão”;
 
-3.  Será possível criar um quadro Kaban para gerenciar as atividades
+3.  Será possível criar um quadro Kanban para gerenciar as atividades
     registradas. Basta apertar no botão “+Workspace” e preencher os dados
     disponibilizados, tais como: título, selecionar o usuário ou grupo
     responsáveis para a execução das tarefas, dentre outros. Também é permitido

@@ -14,18 +14,20 @@ Procedimiento
 -------------
 
 1.  Acceder a la funcionalidad por el menú principal Procesos \> Gestión de
-    Requerimiento e Incidente \> Ticket;
+    Ticket \> Ticket;
 
 2.  Para crear lo ticket relacionado:
 
     -   Haga clic en el ticket deseado y seleccione la alternativa "Crear
-        solicitude relacionada" en el menú opciones;
+        ticket relacionada" en el menú Más Opciones;
 
-    -   Llenar los campos necesarios y haga clic en "Guardar".
+    -   Completar los campos necesarios y hacer clic en "Guardar".
 
 3.  Para ver lo ticket relacionado:
 
-    -   En la columna de ticket, buscar por el ticket que hizo la relación y aparecerá debajo del número un botón llamado "Solicitudes Relacionadas".
+    -   En la columna de ticket, buscar por el ticket que hizo la relación y 
+        hacer clic en el botón toogle (ubicado en la parte superior derecho
+        de la pantalla) en la pestaña "Tickets Relacionados".
 
 
 !!! Abstract "ATENCIÓN"

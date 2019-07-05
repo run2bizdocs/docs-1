@@ -10,12 +10,18 @@ Natively, three types of authentication are possible on the platform: local, LDA
 
 - **Sing Single On - SSO**: this is an alternative to automatic login on the platform. However, it's necessary to have an infrastructure oriented to this service.
 
+- **Okta**: with this method it is possible to use an available user base in Okta and use it for authentication in a CITSmart instance.
+
 ## Related
 
 [Register LDAP connections][1]
 
 [CITSmart auto-login - SSO][2]
 
+[Configure Okta in CITSmart][3]
+
 [1]:/en-us/citsmart-platform-8/platform-administration/authentication/ldap.html
 
 [2]:/en-us/citsmart-platform-8/platform-administration/authentication/sso.html
+
+[3]:/en-us/citsmart-platform-8/platform-administration/authentication/okta.html

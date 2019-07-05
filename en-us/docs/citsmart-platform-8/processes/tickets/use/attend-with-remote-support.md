@@ -17,13 +17,14 @@ Finally, the attendant must have access to the requester's Configuration Item.
 Procedure  
 -------------
 
-1.  Access the functionality through the main menu Processes \> Request and
-    Incident Management \> Service Request and Incident;
+1.  Access the functionality through the main menu Processes \> Ticket Management
+    \> Ticket;
 
-2.  Select the ticket and click on it, then click on the button “Open” to
+2.  Select the ticket and click on it and then on “Open” to
     capture it;
 
-3.  Click on the tab CI Related;
+3.  Click on the toogle button (placend in upper right side of the screen) and then on
+    the Related CI tab;
 
 4.  Search for the configuration item and click on "Select";
 

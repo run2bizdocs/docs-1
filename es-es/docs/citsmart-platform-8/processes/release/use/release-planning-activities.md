@@ -20,16 +20,22 @@ Procedimiento
     hacer clic en el botón “Abrir” y luego en el área "Planificación de la
     liberación";
 
-3.  Podemos crear un cuadro Kaban para gestionar las actividades registradas.
+3.  Podemos crear un cuadro Kanban para gestionar las actividades registradas.
     Sólo hacer clic en "+ Nuevo trabajo" (disponible en el área llamada
     "Actividades") y completar los datos disponibles, tales como el título, su
     fase (a hacer, en curso, etc), seleccionar el usuario o grupo responsables
     de la ejecución de las tareas, entre otros;
 
-4.  Es posible vincular los papeles y responsabilidades, proyectos, documentos,
-    notas, documentos y notificaciones del sistema a la liberación.
-    Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar 
-    el ítem deseado para vincularlo a la liberación;
+4.  Se puede vincular roles y responsabilidades, proyectos, documentos, notas y 
+    notificaciones del sistema al lanzamiento. Para ello, es necesario hacer clic 
+    en el cuadro disponible, seleccionar el elemento deseado para vincularlo a la 
+    versión. Además, es posible vincular el lanzamiento a un Kanban ya creado; 
+    
+    !!! Abstract "NOTA"
+    
+        Al vincular un Kanban existente, si el usuario no tiene permiso para acceder 
+        a un Workspace en particular, el sistema mostrará un mensaje informándole. 
+        El usuario debe solicitar permiso en Workspace y Sprint o crear un nuevo cuadro Kanban.
 
 5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
     notificación de sistemas, es posible crear los mismos de cero para adecuarse
