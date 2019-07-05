@@ -35,7 +35,7 @@ Procedimento
 
     !!! Abstract "ATENÇÃO"
     
-        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban.       
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kanban.       
     -   Registrar eventuais erros conhecidos a fim de possibilitar a realização de uma avaliação pela
     equipe responsável e a difusão de sua solução para os interessados. Para
     tanto, é preciso na aba “Erros conhecidos”, clicar no botão “Adicionar
