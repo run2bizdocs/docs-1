@@ -20,7 +20,7 @@ Procedimiento
     hacer clic en el botón “Abrir” y luego en el área "Planificación de la
     liberación";
 
-3.  Podemos crear un cuadro Kaban para gestionar las actividades registradas.
+3.  Podemos crear un cuadro Kanban para gestionar las actividades registradas.
     Sólo hacer clic en "+ Nuevo trabajo" (disponible en el área llamada
     "Actividades") y completar los datos disponibles, tales como el título, su
     fase (a hacer, en curso, etc), seleccionar el usuario o grupo responsables
@@ -29,7 +29,7 @@ Procedimiento
 4.  Se puede vincular roles y responsabilidades, proyectos, documentos, notas y 
     notificaciones del sistema al lanzamiento. Para ello, es necesario hacer clic 
     en el cuadro disponible, seleccionar el elemento deseado para vincularlo a la 
-    versión. Además, es posible vincular el lanzamiento a un Kaban ya creado; 
+    versión. Además, es posible vincular el lanzamiento a un Kanban ya creado; 
     
     !!! Abstract "NOTA"
     
