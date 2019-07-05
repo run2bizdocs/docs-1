@@ -21,7 +21,7 @@ Procedure
 2.  Find the release request you want to Plan the activity, click on the
     button “Open” and then on the area "Deployment Release";
 
-3.  We can create a Kaban to manage the activities registered. Click on "+
+3.  We can create a Kanban to manage the activities registered. Click on "+
     Workspace" (available in the area called "Activities") and complete the data
     available, for example, the title, its phase (to be done, in progress,
     etc.), select the user or group responsible for the execution of tasks and
@@ -32,7 +32,7 @@ Procedure
         When linking an existing Kanban, if the user does not have permission to 
         access a particular Workspace, the system will display a message informing 
         it. The user must then request permission in Workspace and Sprint or create 
-        a new Kaban framework.
+        a new Kanban framework.
 
 4.  You can link the roles and responsibilities, projects, documents, notes and
     notifications of system to the release. To do so, it's necessary to

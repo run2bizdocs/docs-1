@@ -13,7 +13,7 @@ Procedimento
 ------------
 
 1.  Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu
-    principal Processos \> Gerência de Requisição e Incidente \> Ticket;
+    principal Processos \> Gerência de Ticket \> Ticket;
 
 2.  Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone
     “Abrir” ;

@@ -40,12 +40,12 @@ Procedure
         When linking an existing Kanban, if the user does not have permission to 
         access a particular Workspace, the system will display a message informing you. 
         The user must then request permission in Workspace and Sprint or create a new 
-        Kaban framework.
+        Kanban framework.
 
     -   Register any known error in order to enable the evaluation by the
     responsible team, and the diffusion of your solution for the ones interested.
     Therefore, it's necessary in the "Known Error" tab, click on "Add
-    Workaroung” and describe the relevant information;
+    Workaround” and describe the relevant information;
     
     !!! Abstract "NOTE"
     
@@ -94,7 +94,7 @@ Procedure
 
     -   In the “Simple” tab, it's possible the creation of a Kanban;
 
-    -   In "Lessons learned", when clic in "Add", it'll be possible
+    -   In "Lessons learned", when click in "Add", it'll be possible
     to select and link a knowledge to decimate the instructions to
     facilitate the solution of future problems.
 

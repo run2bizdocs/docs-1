@@ -21,17 +21,17 @@ Procedure
 3.  In the tab "Review", it's necessary to select the option that defines if the
     change was successfully done;
 
-4.  It'll be possible to create a Kaban to manage the activities registered.
+4.  It'll be possible to create a Kanban to manage the activities registered.
     Just click on “+Workspace” and complete the data available, for example:
     title, select the user or group responsible for the task execution, and others.
-    It's also allowed to link a Kaban already created by clickin on the other buton
+    It's also allowed to link a Kanban already created by click in on the other buton
     related to the “Workspace”.
     
     !!! Abstract "NOTE"
     
         When linking an existing Kanban, if the user does not have permission to access 
         a particular Workspace, the system will display a message informing it. The user 
-        must then request permission in Workspace and Sprint or create a new Kaban framework.
+        must then request permission in Workspace and Sprint or create a new Kanban framework.
 
 5.  It's also possible to link incidents, problems, lessons learned (which are
     knowledge about the change made) and files attachments to detail the change
