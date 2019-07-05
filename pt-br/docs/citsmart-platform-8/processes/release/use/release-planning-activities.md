@@ -20,7 +20,7 @@ Procedimento
 2.  Localizar a liberação da qual deseja Planejar a atividade,
     clicar no botão “Abrir” e em seguida na área "Planejamento da liberação";
 
-3.  Podemos criar um quadro Kaban para gerenciar as atividades cadastradas.
+3.  Podemos criar um quadro Kanban para gerenciar as atividades cadastradas.
     Basta apertar no botão "+ Novo work" (disponibilizado na área chamada
     "Atividades") e preencher os dados disponibilizados, tais como o título, sua
     fase (a fazer, em andamento, etc), selecionar o usuário ou grupo
@@ -30,7 +30,7 @@ Procedimento
     notas, documentos e notificações do sistema à liberação. Para
     tanto, é necessário clicar sobre o quadro disponibilizados, selecionar o
     item desejado para vincula-lo à liberação. Também, é possível vincular a liberação
-    um   Kaban já criado;
+    um Kanban já criado;
     
     !!! Abstract "NOTA"
     
