@@ -21,7 +21,7 @@ Procedimento
 3.  Na aba “Revisão”, é preciso selecionar a opção que define se a mudança foi
     realizada com sucesso;
 
-4.  Será possível criar um quadro Kaban para gerenciar as atividades
+4.  Será possível criar um quadro Kanban para gerenciar as atividades
     registradas. Basta apertar no botão “+Workspace” e preencher os dados
     disponibilizados, tais como: título, selecionar o usuário ou grupo
     responsáveis para a execução das tarefas, dentre outros. Também é permitido
@@ -30,7 +30,7 @@ Procedimento
     
     !!! Abstract "NOTA"
     
-        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kaban.
+        Ao vincular um Kanban já existente, se o usuário não possuir a permissão de acesso a um determinado Workspace, o sistema apresentará uma mensagem o informando. O usuário, deve então, solicitar a permissão na Workspace e Sprint ou criar um novo quadro Kanban.
 
 5.  Ainda é possível vincular incidentes, problemas, lições aprendidas (que são
     basicamente conhecimentos que dizem respeito a mudança efetuada) e anexos de
