@@ -20,7 +20,7 @@ Procedimiento
 2.  Buscar el cambio para planear la actividad, hacer clic en "Abrir"
     y después en "Plan de reversión”;
 
-3.  Será posible crear un cuadro Kaban para gestionar las actividades registradas.
+3.  Será posible crear un cuadro Kanban para gestionar las actividades registradas.
     Sólo hacer clic en “+Workspace” y completar los datos disponible, por ejemplo:
     título, seleccionar el usuario o grupo responsable para ejecución de las
     tareas, y otros. También es permitido vincular un cuadro ya creado al hacer clic 
