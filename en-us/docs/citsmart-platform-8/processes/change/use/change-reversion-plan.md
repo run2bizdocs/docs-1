@@ -19,10 +19,10 @@ Procedure
 2.  Find the change you want to plan the activity, click on "Open" and
     then on "Reversion plan”;
 
-3.  It'll be possible to create a Kaban to manage activities registered.
+3.  It'll be possible to create a Kanban to manage activities registered.
     Just click on “+Workspace” and complete the data available, for example:
     title, select the user or group responsible for the task execution, and others.
-    It's also allowed to link a Kaban already created when clicking on the other
+    It's also allowed to link a Kanban already created when clicking on the other
     button related to the “Workspace”.
 
 4.  It's also possible to link actions, notifications, knowledge, and file attachments
