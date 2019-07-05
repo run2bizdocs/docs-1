@@ -19,7 +19,7 @@ Procedure
 2.  Find the release you want to Plan, click on the button “Open” and
     then on "Release Planning";
 
-3.  We can create a Kaban to manage the activities registered. Click on "+
+3.  We can create a Kanban to manage the activities registered. Click on "+
     Workspace" (available in the area called "Activities") and complete the data
     available, for example, the title, its phase (to be done, in progress,
     etc.), select the user or group responsible for the execution of tasks and
