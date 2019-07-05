@@ -26,10 +26,16 @@ Procedimiento
     fase (a hacer, en curso, etc), seleccionar el usuario o grupo responsables
     de la ejecución de las tareas, entre otros;
 
-4.  Es posible vincular los papeles y responsabilidades, proyectos, documentos,
-    notas, documentos y notificaciones del sistema a la liberación.
-    Para ello, es necesario hacer clic sobre el cuadro disponible, seleccionar 
-    el ítem deseado para vincularlo a la liberación;
+4.  Se puede vincular roles y responsabilidades, proyectos, documentos, notas y 
+    notificaciones del sistema al lanzamiento. Para ello, es necesario hacer clic 
+    en el cuadro disponible, seleccionar el elemento deseado para vincularlo a la 
+    versión. Además, es posible vincular el lanzamiento a un Kaban ya creado; 
+    
+    !!! Abstract "NOTA"
+    
+        Al vincular un Kanban existente, si el usuario no tiene permiso para acceder 
+        a un Workspace en particular, el sistema mostrará un mensaje informándole. 
+        El usuario debe solicitar permiso en Workspace y Sprint o crear un nuevo cuadro Kaban.
 
 5.  Además de permitir el vínculo de las responsabilidades, proyectos, y
     notificación de sistemas, es posible crear los mismos de cero para adecuarse
