@@ -20,12 +20,13 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 
 1. Download the package directly of the official repository through the link: http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
 2. Download directly the Java JDK8u172 of the official repository jdk-8u172-linux-x64.tar.gz:
-    
+
     ![Java Download](images/java-download.png)
-    
+
     Figure 1 - Java download list
-    
-3. Download the jdbc module for the postgresql: http://files.citsmart.com/postgresql-jdbc-driver.tar.gz
+
+3. Download the jdbc module for the postgresql.
+This package can be downloaded in the partner relationship area.
 
 ### MongoDB Database Server
 
@@ -53,7 +54,7 @@ It's recommended that the Oracle or MSSQL Installation to be done as the informa
 
 Oracle:
 https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
-	
+
 MSSQL:
 https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server
 
@@ -61,24 +62,20 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
 
 !!! warning
 
-    The version homologate of the Apache Solr is 6.4.2.
-
-    Solr 6.4.2: http://files.citsmart.com/solr-6.4.2.zip
-    
-    Configurations to the knowledge base: http://files.citsmart.com/base_conhecimento_configs.zip
+    The version homologate of the Apache Solr is 6.4.2. This package and the configuration files can be downloaded in the partner relationship area.
 
 ### Download of assets files to CITSmart
 
-http://files.citsmart.com/assets.tar.gz
+This package can be downloaded in the partner relationship area.
 
 ## Package Configuration
 
 !!! warning
-    
+
     We'll use the directory /opt to install all packages to CITSmart Enterprise.
-    
+
     GNU/Linux with minimum installation should be configured in the 4 machines.
-    
+
     In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the           package management.
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
@@ -193,7 +190,7 @@ After all the necessary download, we can start the installation of the solution 
     ``` sh
     listen_addresses = 'localhost'
     ```
-    Changed: 
+    Changed:
 
     ``` sh
     listen_addresses = ‘0.0.0.0'
@@ -213,19 +210,19 @@ systemctl restart postgresql-9.5.service
     ``` sh
     yum install unzip lsof
     ```
-	
+
 	```sh
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
 	```
-	
+
 	```sh
     ln -s /opt/jdk1.8.0_172 /opt/jdk
 	```
-	
+
 	```sh
     unzip solr-6.4.2.zip -d /opt/
 	```
-	
+
 	```sh
     ln -s /opt/solr-6.4.2 /opt/solr
     ```
@@ -245,33 +242,33 @@ systemctl restart postgresql-9.5.service
     ```
 
 3. Create a user to execute the Solr with fake shell and permission in the directory Solr, then, start it;
-    
+
     ``` sh
     groupadd -r solr
 	```
-	
+
 	```sh
     useradd -r -g solr -d /opt/solr -s /sbin/nologin solr
 	```
-	
+
 	```sh
     chown -R solr:solr /opt/solr-6.4.2/
 	```
-	
+
 	```sh
     su - solr -s /bin/bash
 	```
-	
+
 	```sh
     bin/solr start
     ```
 
 4. Decompress the file to the knowledge base configuration and execute the collection creation;
-    
+
     ``` sh
     unzip -x base_conhecimento_configs.zip -d /opt/solr-6.4.2/
 	```
-	
+
 	```sh
     su - solr -s /bin/bash
     ```
@@ -279,7 +276,7 @@ systemctl restart postgresql-9.5.service
     ``` sh
     bin/solr create -c base_conhecimento -d base_conhecimento_configs -s 2 -rf 2
     ```
-    
+
 5. Note that the command return should be something like the example bellow:
 
 Copying configuration to new core instance directory:
@@ -287,7 +284,7 @@ Copying configuration to new core instance directory:
 ```sh
 /opt/solr/server/solr/base_conhecimento
 ```
- 
+
 Creating new core 'base_conhecimento' using command:
 
 ```sh
@@ -307,5 +304,3 @@ http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&inst
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 - João Pelles  
-	
-	
