@@ -26,7 +26,8 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
     Figure 1 - Java download list
 
 3. Download the jdbc module for the postgresql.
-This package can be downloaded in the partner relationship area.
+
+:arrow_down: This package can be downloaded in the partner relationship area.
 
 ### MongoDB Database Server
 
@@ -60,13 +61,13 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
 
 ### Apache Solr Indexing Server
 
-!!! warning
+The version homologate of the Apache Solr is 6.4.2.
 
-    The version homologate of the Apache Solr is 6.4.2. This package and the configuration files can be downloaded in the partner relationship area.
+:arrow_down: This package and the configuration files can be downloaded in the partner relationship area.
 
 ### Download of assets files to CITSmart
 
-This package can be downloaded in the partner relationship area.
+:arrow_down: This package can be downloaded in the partner relationship area.
 
 ## Package Configuration
 
