@@ -6,7 +6,7 @@ Service integration flows, as the name implies, involve workflows that are execu
 
 ## How to access  
 
-1. Access the functionality through the menu Neuro > Management > ESI Flow.  
+1. Access the functionality through the menu Neuro > Management > Integration Flow.  
 
 ## Preconditions  
 
