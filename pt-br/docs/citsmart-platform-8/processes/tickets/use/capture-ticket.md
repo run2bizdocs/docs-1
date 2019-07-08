@@ -20,24 +20,6 @@ Procedimento
 
 3.  Confirmar a captura do ticket.
 
-Criar um alarme sonoro
------------------------
-
-*O CITSmart inova ao permitir a configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket. Para configurar o mesmo, seguir as seguintes instruções:*
-
-1. Acessar a funcionalidade através da navegação no menu principal Sistema > Notificações > Template de Notificação e ao criar um novo template, marcar a opção "Notificação sonora";
-
-2. Ao desenhar o fluxo do ticket, incluir a extensão "Notificação". Esta extensão tem como entrada na área de configuração, o template de notificação, portanto, nas abas de destinatário é possível criar as expressões necessárias para efetuar a notificação;
-
-3. É essencial possuir as condições mínimas para que o serviço funcione de maneira correta:
-
-   - Dispor de um drive de aúdio;
-   - Caixas de som ou um Head Set para ouvir o alarme.
-   
-!!! Abstract "NOTA"
-
-    Mesmo se o usuário receber várias notificações ao mesmo tempo, o alarme sonoro só será acionado uma vez.
-
 O que fazer a seguir
 ------------------------
 
