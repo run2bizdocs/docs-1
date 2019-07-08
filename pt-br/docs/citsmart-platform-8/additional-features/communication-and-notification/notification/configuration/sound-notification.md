@@ -30,7 +30,7 @@ Este recurso permitir a configuração de um alarme sonoro para sinalizar ao ate
 
 ## O que fazer depois
 
-Pronto, a partir de agora quando você estiver na interface de ticket será possível identificar atendimentos pela notificação sonora.
+Pronto, a partir de agora será possível identificar novos atendimentos pela notificação sonora.
 
 !!! warning "ATENÇÃO"
 
