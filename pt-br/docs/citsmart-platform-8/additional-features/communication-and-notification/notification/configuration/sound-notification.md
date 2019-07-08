@@ -7,9 +7,9 @@ Description:
 
 ## Antes de começar
 
-[x] Criar um template de Notificação - e configurar o item "Notificação Sonora";
+* [x] Criar um template de Notificação - e configurar o item "Notificação Sonora";
 
-[x] Ter um fluxo definido;
+* [x] Ter um fluxo definido;
 
 ## Procedimento
 
