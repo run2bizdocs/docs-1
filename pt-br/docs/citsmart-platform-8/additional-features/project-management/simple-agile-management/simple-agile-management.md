@@ -40,11 +40,11 @@ Procedimento
     estimada de seu desenvolvimento (o período de início e conclusão). Para
     utilizar este recurso de busca são exigidas as seguintes instruções:
 
-       -   Para o correto funcionamento deste campo é necessário que o Workspace,
-            Sprint e atividade possuam uma data estimada de começo e término;
+       *   Para o correto funcionamento deste campo é necessário que o Workspace,
+           Sprint e atividade possuam uma data estimada de começo e término;
 
-       -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
-            Sprints e Listas que estejam entre a data referenciada na busca.
+       *   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
+           Sprints e Listas que estejam entre a data referenciada na busca.
 
      -   **2**: criar nova Sprint
 
