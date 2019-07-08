@@ -8,7 +8,7 @@ Os fluxos de integração de serviços, como o próprio nome diz, envolvem workf
 
 ## Como acessar    
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo ESI.     
+1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo de Integração.     
 
 ## Pré-condições    
 
