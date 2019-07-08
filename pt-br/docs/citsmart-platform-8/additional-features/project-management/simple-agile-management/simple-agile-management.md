@@ -193,13 +193,7 @@ dispositivos de controle e gestão.
 
     -   **2**: adicionar listas de ações que serão visualizadas na aba Checklist
 
-    -   **3**: adicionar comentários: 
-    
-        -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"*, pode-se: 
-       
-           -  Editar Comentário; 
-         
-           -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
+    -   **3**: adicionar comentários
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
@@ -236,7 +230,11 @@ dispositivos de controle e gestão.
     adicionar “+” para adicionar novo item. Para indicar finalização de um item
     dentro de um checklist, selecionar o checkbox;
 
-    -   Comentários: lista os comentários realizados;
+    -   Comentários: lista os comentários realizados:
+      
+           -  Editar Comentário; 
+         
+           -  Remover Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
     -   Anexos: disponibiliza campo para adicionar anexos;
 
