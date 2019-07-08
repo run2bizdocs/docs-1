@@ -7,7 +7,7 @@ Los flujos de integración de procesos son workflows que tienen tareas ejecutada
 
 ## Cómo acceder  
 
-1- Acceda a la funcionalidad a través del menú Workflow > Diseño de flujo.  
+1- Acceda a la funcionalidad a través del menú Neuro > Administración > Flujo de Integración.  
 
 ## Condiciones previas 
 
