@@ -12,14 +12,14 @@ Este recurso permitir a configuração de um alarme sonoro para sinalizar ao ate
 
 ## Procedimento
 
-### 1. Criar um template de notificação
+### Criar um template de notificação
 
 1. Acessar a funcionalidade através da navegação no menu principal Sistema > Notificações > Template de Notificação;
 2. Clicar em "Novo" para criar um template;
 3. Informar os dados da notificação, clicar em "Notificação Sonora" e importar o arquivo de audio;
 4. Gravar as informações.
 
-### 2. Inserir o elemento "Notificação" no fluxo
+### Inserir o elemento "Notificação" no fluxo
 
 1. Acessar o menu principal Workflow > Desenho de Fluxo;
 2. Selecionar e editar o fluxo desejado;
@@ -28,7 +28,7 @@ Este recurso permitir a configuração de um alarme sonoro para sinalizar ao ate
 5. No campo "Template de notificação" selecionar o template para a notificação;
 6. Gravar as alterações no fluxo;
 
-### O que fazer depois
+## O que fazer depois
 
 Pronto, a partir de agora quando você estiver na interface de ticket será possível identificar atendimentos pela notificação sonora.
 
@@ -36,7 +36,7 @@ Pronto, a partir de agora quando você estiver na interface de ticket será poss
 
     Mesmo se o usuário receber várias notificações ao mesmo tempo, o alarme sonoro só será acionado uma vez.
 
-### Relacionado
+## Relacionado
 
 [Cadastrar template de notificação][1]
 
