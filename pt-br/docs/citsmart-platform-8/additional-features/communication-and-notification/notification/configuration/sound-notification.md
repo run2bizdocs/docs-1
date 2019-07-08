@@ -3,17 +3,19 @@ Description:
 
 # Configurar notificação sonora
 
-
+[...]
 
 ## Antes de começar
 
-* [x] Criar um template de Notificação - e configurar o item "Notificação Sonora";
-
-* [x] Ter um fluxo definido;
+* [x] Ter pelo menos um fluxo de trabalho definido;
 
 ## Procedimento
 
-### 1 - Inserir o elemento "Notificação" no fluxo
+### 1 - Criar um template de notificação
+
+[...]
+
+### 2 - Inserir o elemento "Notificação" no fluxo
 
 1. Acessar o menu principal Workflow > Desenho de Fluxo;
 2. Selecionar e editar o fluxo desejado;
@@ -22,4 +24,13 @@ Description:
 5. No campo "Template de notificação" selecionar o template para a notificação;
 6. Gravar as alterações no fluxo;
 
-### 2 - 
+### O que fazer depois
+
+Pronto, a partir de agora quando você estiver na interface de ticket será possível identificar atendimentos pela notificação sonora.
+
+### Relacionado
+
+[Cadastrar template de notificação][1]
+
+
+[1]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
