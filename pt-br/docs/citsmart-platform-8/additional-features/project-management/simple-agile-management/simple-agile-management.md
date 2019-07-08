@@ -31,27 +31,11 @@ Procedimento
 
 2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
 
-3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
-    prazos estabelecidos:
-
-    -   Vencidas: mostra o total das **Sprints** que tenha a “Data da entrega” menor
-    que a data/hora atual;
-
-    -   A vencer: mostra o total das **Sprints** que tenha a “Data da entrega” que
-    ficarão vencidas em 24h a partir da data/hora atual;
-
-    -   No prazo: mostra o total das **Sprints** que tenha a “Data da entrega” maior
-    que 24h a partir da data/hora atual;
-
-    -   Total: soma das **Sprints** que estão dentro do Workspace.
-
-4.  Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
-    
     ![tela worspace](images/figure-01-simple.png) 
    
-   Figura 1 - Tela Workspace
+     Figura 1 - Tela Workspace
     
-    -   **1**: busca qualquer informação que esteja em qualquer outro workspace, sprint,
+   -   **1**: busca qualquer informação que esteja em qualquer outro workspace, sprint,
     lista ou tarefa. É possível a busca que seleciona as atividades pela data
     estimada de seu desenvolvimento (o período de início e conclusão). Para
     utilizar este recurso de busca são exigidas as seguintes instruções:
@@ -86,6 +70,24 @@ Procedimento
         perfil de Administrador poderá alterar o status de permissão de cada
         membro mesmo ele não sendo o Administrador.
 
+
+3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
+    prazos estabelecidos:
+
+    -   Vencidas: mostra o total das **Sprints** que tenha a “Data da entrega” menor
+    que a data/hora atual;
+
+    -   A vencer: mostra o total das **Sprints** que tenha a “Data da entrega” que
+    ficarão vencidas em 24h a partir da data/hora atual;
+
+    -   No prazo: mostra o total das **Sprints** que tenha a “Data da entrega” maior
+    que 24h a partir da data/hora atual;
+
+    -   Total: soma das **Sprints** que estão dentro do Workspace.
+
+4.  Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
+    
+    
 
 ### ***Criar uma Sprint***
 
