@@ -113,12 +113,12 @@ Procedimento
 
       -   A barra de progressão possui o seguinte cálculo:
 
-          -   1º É feito a soma do total de estimativas de todas as **tarefas**
+          -   1º: É feito a soma do total de estimativas de todas as **tarefas**
               concluídas;
 
-          -   2º É feito a soma do total de estimativas de todas as **tarefas**;
+          -   2º: É feito a soma do total de estimativas de todas as **tarefas**;
 
-          -   3º Progresso é a porcentagem calculadas com o total de estimativas das
+          -   3º: Progresso é a porcentagem calculadas com o total de estimativas das
               **tarefas** concluídas sobre o total de estimativas de todas as tarefas.
 
 !!! info "INFORMAÇÃO"
@@ -135,8 +135,7 @@ Procedimento
 
 ### Criar listas
 
-1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
-    fazer, Em andamento e Concluída”;
+1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “To do, In progress e Finished”;
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
 
