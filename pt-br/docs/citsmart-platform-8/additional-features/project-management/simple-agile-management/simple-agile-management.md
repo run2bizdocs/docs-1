@@ -44,7 +44,7 @@ Procedimento
            Sprint e atividade possuam uma data estimada de começo e término;
 
        -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
-           Sprints e Atividades que estejam entre a data referenciada na busca.
+           Sprints e Listas que estejam entre a data referenciada na busca.
 
    -   **2**: criar nova Sprint
 
