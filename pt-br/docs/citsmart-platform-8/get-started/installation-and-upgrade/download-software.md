@@ -33,7 +33,7 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
 
 3. Download do módulo jbdc para o postgresql:
 
-:arrow_down: Este pacote pode ser baixado na área de relacionamento com o parceiro.
+https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 
 ### Servidor de Banco de Dados MongoDB
 

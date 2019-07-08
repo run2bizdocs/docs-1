@@ -27,7 +27,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 
 3. Download the jdbc module for the postgresql.
 
-:arrow_down: This package can be downloaded in the partner relationship area.
+https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 
 ### MongoDB Database Server
 
