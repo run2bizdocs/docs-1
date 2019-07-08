@@ -35,15 +35,15 @@ Procedimento
    
      Figura 1 - Tela Workspace
     
-      -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
+     -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
     Lista ou Tarefa. É possível a busca que seleciona as atividades pela data
     estimada de seu desenvolvimento (o período de início e conclusão). Para
     utilizar este recurso de busca são exigidas as seguintes instruções:
 
-        -   Para o correto funcionamento deste campo é necessário que o Workspace,
+       -   Para o correto funcionamento deste campo é necessário que o Workspace,
             Sprint e atividade possuam uma data estimada de começo e término;
 
-        -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
+       -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
             Sprints e Listas que estejam entre a data referenciada na busca.
 
      -   **2**: criar nova Sprint
@@ -160,21 +160,21 @@ Procedimento
     Figura 3 - Tela lista
 
 
-    -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista
+   -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista
     (concluída e não concluída)
 
-    -   **2**: criar nova lista
+   -   **2**: criar nova lista
 
-    -   **3**: atualizar a tela
+   -   **3**: atualizar a tela
 
-    -   **4**: abreviação do nome do membro adicionado. Ao clicar é possível excluir e
+   -   **4**: abreviação do nome do membro adicionado. Ao clicar é possível excluir e
     definir se o membro será administrador ou não
 
-    -   **6**: definir data, hora e estimativa de horas para entrega
+   -   **6**: definir data, hora e estimativa de horas para entrega
 
-    -   **7**: visualizar o histórico de ações
+   -   **7**: visualizar o histórico de ações
 
-    -   **8**: arquivar lista de tarefas
+   -   **8**: arquivar lista de tarefas
 
 ### Criar tarefas
 
