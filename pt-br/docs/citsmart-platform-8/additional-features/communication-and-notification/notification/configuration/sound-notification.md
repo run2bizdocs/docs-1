@@ -1,25 +1,25 @@
 Title: Configurar notificação sonora
-Description:
+Description: Configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket
 
 # Configurar notificação sonora
 
-O CITSmart inova ao permitir a configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket.
+Este recurso permitir a configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket em sua fila de trabalho.
 
 ## Antes de começar
 
-* [x] Ter pelo menos um fluxo de trabalho definido;
-* [x] É essencial possuir as condições mínimas para que o serviço funcione de maneira correta:
-
-   - Dispor de um drive de aúdio;
-   - Caixas de som ou um Head Set para ouvir o alarme.
+* [x] Ter pelo menos um fluxo de trabalho definido em seu ambiente CITSmart;
+* [x] É essencial possuir as condições mínimas para reprodução de áudio em seu computador;
 
 ## Procedimento
 
-### 1 - Criar um template de notificação
+### 1. Criar um template de notificação
 
-1. Acessar a funcionalidade através da navegação no menu principal Sistema > Notificações > Template de Notificação e ao criar um novo template, marcar a opção "Notificação sonora";
+1. Acessar a funcionalidade através da navegação no menu principal Sistema > Notificações > Template de Notificação;
+2. Clicar em "Novo" para criar um template;
+3. Informar os dados da notificação, clicar em "Notificação Sonora" e importar o arquivo de audio;
+4. Gravar as informações.
 
-### 2 - Inserir o elemento "Notificação" no fluxo
+### 2. Inserir o elemento "Notificação" no fluxo
 
 1. Acessar o menu principal Workflow > Desenho de Fluxo;
 2. Selecionar e editar o fluxo desejado;
