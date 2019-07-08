@@ -6,7 +6,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 ## How to access  
 
-1. Access the functionality through the menu Neuro > Management > ESI Flow.  
+1. Access the functionality through the menu Neuro > Management > Integration Flow.  
 
 ## Preconditions  
 
