@@ -193,13 +193,13 @@ dispositivos de controle e gestão.
 
     -   **2**: adicionar listas de ações que serão visualizadas na aba Checklist
 
-    -   **3**: adicionar comentários
+    -   **3**: adicionar comentários: 
     
-    !!! note "NOTA"
-
-        Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"* foi inserida duas novas funcões:  
-         -  Editar Comentário;  
-         -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
+       -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"* foi inserida           duas novas funcões: 
+       
+          -  Editar Comentário; 
+         
+          -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
