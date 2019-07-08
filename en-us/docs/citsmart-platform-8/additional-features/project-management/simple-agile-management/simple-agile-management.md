@@ -3,7 +3,7 @@ Title: Gerenciamento ágil Simple
 # Simple Agile Management
 
 
-Simple is a functionality of the CITSmart that allows the easy and agile
+CITSmart Simple is a functionality of the CITSmart that allows the easy and agile
 management of activities. It was created to manage projects in the simplest way,
 with resources to organize, monitor and delegate the activities among the members
 of your team or individually.
@@ -14,28 +14,57 @@ with cards that indicate the flow progress.
 In the Simple workspace, activities are inserted and grouped by projects
 (in Simple called Workspace), task pane (in Simple called Sprint) and finally
 tasks, which can be in groups of cards.
-
-!!! Abstract "ATTENTION"
-
-    Permissions in the Workspace and Sprint (located on Settings > Profiles and 
-    Permissions), when the *administrator* is logged in, it will be selected by 
-    default and cannot be changed. Only when the user is of type *normal*, the 
-    permissions will be editable.
     
-!!! Abstract "ATTENTION"
+!!! warning "ATTENTION"
 
-    The language in the columns that appear on the **My notifications screen (bell icon)** 
+    The language in the columns that appear on the **My notifications (bell icon)** screen 
     will follow what was set in parameter 66 (Default language of the system).
 
 Procedure
 ------------
 
-***I - Create a Workspace***
+### Creating a Workspace
 
 1.  Access the main menu Inegrated Management \>
     Simple – Agile Management;
 
 2.  Click on “Workspace” and give a name to create the new Workspace;
+
+    ![sprint screen](images/figure-1-simple.png) 
+
+    Figure 1 - Workspace Screen
+
+   -   **1**: searches for any information that is in any other Workspace, Sprint, 
+       List or Task. It is possible the search that selects the activities by the estimated 
+       date of its development (the period of beginning and conclusion). To use this search 
+       feature, follow the instructions bellow:
+   
+       -   For the correct operation of this field, it is necessary that the Workspace, 
+           Sprint and activity have an estimated date of beginning and end; 
+       
+       -   Make the search. The system will then return a list of Workspaces, Sprints and 
+           Lists that are between the date referenced in the search.
+
+   -   **2**: create new Sprint
+
+   -   **3**: abbreviation of added member names. By clicking on it, it's possible to
+    delete and define if the member will be manager or not
+
+   -   **4**: add member that will participate in the Sprint
+
+   -   **5**: actions for configuring the Workspace and access to *Profiles and permissions*:
+   
+       -   The Permissions in Workspace and Sprint, when the **Administrator** is logged, will 
+           be selected by default and cannot be changed. Only when the user is of type **Normal** 
+           will the permissions be editable. The Workspace Administrator can change the project 
+           manager (Administrator permission) on each Sprint. If the user is not the Workspace 
+           Administrator, you cannot give the administrator permission to another user.
+           
+       -   With the profile of type **Normal** within the Workspace or Sprint, if the user ticks 
+           the checkbox **Change the permissions of Workspace/Sprint members**, the permission of 
+           the other members of the project to which they belong will be released, or whether a user 
+           who **does not** have the Administrator profile, can change the permission status of each 
+           member, even if he/she is not the Administrator.     
 
 3.  Each Workspace will have in its home screen a summary of Sprints and
     its deadlines:
@@ -51,30 +80,13 @@ Procedure
 
     -   Total: sum of the **Sprints** inside the Workspace.
 
-!!! Abstract "ATTENTION"
-
-    The workspace administrator can change the project manager (administrator permission) 
-    in each sprint. If the user is not the administrator of the workspace, it is not possible 
-    to give the administrator permission to another user.
-
-!!! Abstract "ATTENTION"    
+!!! warning "ATTENTION"    
 
     To move a **workspace** by changing its ordering, click and drag it to the desired 
     priority position.
-    
-!!! Abstract "NOTE"
+   
 
-    The search field looks for any information that is in any other workspace, sprint, list 
-    or task. To optimize the search, a new filter has been created that allows selecting 
-    activities by the estimated date of its development (the period of its beginning and 
-    conclusion). To use it, it is necessary to follow the instructions:
-    1. For the correct operation of this field it is necessary that the Workspace, Sprint 
-    and activity have an estimated date of beginning and end;
-    2. Make the search. The system will then return a list of Workspaces, Sprints, and 
-    Activities that are among the date referenced in the search.
-
-
-***II - Create a Sprint***
+### Create a Sprint
 
 1.  Click on the Workspace created before;
 
@@ -104,35 +116,17 @@ Procedure
         -   3rd Progress is the percentage calculated with the total estimates of 
             completed **tasks** on the total estimates of all tasks.
 
-!!! Abstract "NOTE"
+!!! info "INFORMATION"
 
     The calculation of progress depends entirely on the estimates reported in the tasks.
     
-!!! Abstract "ATTENTION"
+!!! warning "ATTENTION"
 
     To move a **sprint** by changing its ordering, click and drag it to the desired 
     priority position.
 
 
-![sprint screen](images/figure-1-simple.png)
-    
-Figure 1 - Sprint Screen
-
-
-   -   **1**: search Sprints with filters of members, tag and status of the Sprint
-    (completed and not completed)
-
-   -   **2**: create new Sprint
-
-   -   **3**: abbreviation of added member names. By clicking on it, it's possible to
-    delete and define if the member will be manager or not
-
-   -   **4**: add member that will participate in the Sprint
-
-   -   **5**: actions of configuration and permission of the Sprint
-
-
-***III - Create lists***
+### Create lists
 
 1.  In each Sprint it will be available a default list of the system:: “To
     do, In progress and Completed”;
@@ -160,7 +154,7 @@ Figure 1 - Sprint Screen
 
     -   **8**: archive tasks list
 
-***IV - Create tasks***
+### Create tasks
 
    ![task screen](images/figure-3-simple.png)
     
@@ -171,13 +165,13 @@ Figure 1 - Sprint Screen
 
    -   **2**: define in which stage the task is.
 
-   -   **3**: move the list inside the framework
+   -   **3**: physically move the list inside the framework
 
-!!! Abstract "NOTE"
+!!! warning "ATTENTION"
 
-    To move a **task** from a list to another, click and drag it to the list.
+    To move a **task** from a list to another, click and drag it to a list.
 
-***V - Complete Simple card***
+### Complete Simple card
 
 The Simple card has fields and buttons to describe a task/action with planning
 and control of dates, hours, checklist and several others device of control
@@ -195,15 +189,9 @@ and management.
     -   **2**: add list of actions that will be viewed in the Checklist tab
 
     -   **3**: add comments
-    
-    !!! Abstract "NOTE"
-    
-        When you open an activity (task) in *Simple*, you can see that in the *"Comment"* 
-        feature, two new functions have been inserted:
-        - *Edit Comment*;
-        - *Delete Comment". If you choose to delete, the comment will not be saved in the "History" tab.
 
-    -   **4**: each member can post hours referring to their time used in the task, besides detailing the action taken
+    -   **4**: each member can post hours referring to their time used in the task, besides 
+    detailing the action taken
 
     -   **5**: add tags to visually identify the task card
 
@@ -234,7 +222,11 @@ and management.
     place the mouse on "Add item...", click on add "+" to add new item. To indicate
     the completion of an item inside the checklist, select the checkbox;
 
-    -   Comments: list of comments made;
+    -   Comments: list of comments made:
+    
+           -  Edit Comment;
+           
+           -  Delete comment. If you opt for the deletion, the comment will not be saved in the "History" tab.
 
     -   Attachments: make availabe the field to add attachmetns;
 
