@@ -6,7 +6,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 ## Como acessar  
 
-1. Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Fluxo ESI.  
+1. Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Fluxo de Integração.  
 
 ## Pré-condições  
 
