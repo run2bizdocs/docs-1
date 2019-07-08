@@ -86,7 +86,6 @@ Procedimento
 
 4.  Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
     
-    
 
 ### Criar uma Sprint
 
@@ -148,7 +147,7 @@ Procedimento
     mesma para a posição de prioridade desejada.
     
 
-### III - Criar listas
+### Criar listas
 
 1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
     fazer, Em andamento e Concluída”;
