@@ -19,24 +19,6 @@ Procedure
 
 3.  Confirm the capture of the ticket.
 
-Creating an audible alarm
------------------------
-
-*CITSmart innovates by allowing the configuration of an audible alarm to signal to the attendant the arrival of a new ticket. To configure it, follow the instructions:*
-
-1. Access the functionality through the main menu System > Notifications > Notification Template and, when creating a new template, check the option "Sound Notification";
-
-2. When designing the ticket flow, include the extension "Notification". This extension has as input in the configuration area, the configuration template, the notification template, so in the recipient tabs it is possible to create the expressions needed to make the notification;
-
-3. It is essential to have the minimum conditions for the service to perform it correctly:
-
-   - Have a drive of audio;
-   - Speakers or a Headset to hear the alarm.
-   
-!!! Abstract "NOTE"
-
-    Even if the user receives several notifications at the same time, the audible alarm will only be triggered once.
-
 What to do next
 --------------------
 
