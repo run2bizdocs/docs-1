@@ -31,7 +31,9 @@ abaixo:<http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.
 
      Figura 1 - Tabela Java
 
-3. Download do módulo jbdc para o postgresql: <http://files.citsmart.com/postgresql-jdbc-driver.tar.gz>
+3. Download do módulo jbdc para o postgresql:
+
+:arrow_down: Este pacote pode ser baixado na área de relacionamento com o parceiro.
 
 ### Servidor de Banco de Dados MongoDB
 
@@ -65,13 +67,13 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 ### Servidor de Indexação Apache Solr
 
-!!! info "ATENÇÃO"
+A versão homologada do Apache Solr é a 6.4.2.
 
-    A versão homologada do Apache Solr é a 6.4.2. Este pacote e os arquivos de configuração podem ser baixados na área de relacionamento com o parceiro.
+:arrow_down: Este pacote e os arquivos de configuração podem ser baixados na área de relacionamento com o parceiro.
 
 ### Download dos arquivos assets para o CITSmart
 
-Este pacote pode ser baixado na área de relacionamento com o parceiro.
+:arrow_down: Este pacote pode ser baixado na área de relacionamento com o parceiro.
 
 
 ## Configuração dos Pacotes
