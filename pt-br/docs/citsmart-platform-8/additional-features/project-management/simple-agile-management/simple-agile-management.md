@@ -227,23 +227,23 @@ dispositivos de controle e gestão.
 
 5.  As abas disponibilizadas mostram:
 
-    -   Checklist: ao adicionar um checklist será criado um item nesta aba. Para
+    -   **Checklist**: ao adicionar um checklist será criado um item nesta aba. Para
     nomear, posicionar o mouse no campo “Adicionar item...”, clicar no botão de
     adicionar “+” para adicionar novo item. Para indicar finalização de um item
     dentro de um checklist, selecionar o checkbox;
 
-    -   Comentários: lista os comentários realizados:
+    -   **Comentários**: lista os comentários realizados:
       
            -  Editar Comentário; 
          
            -  Remover Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
-    -   Anexos: disponibiliza campo para adicionar anexos;
+    -   **Anexos**: disponibiliza campo para adicionar anexos;
 
-    -   Horas lançadas: relaciona horas lançadas de cada membro participante da
+    -   **Horas lançadas**: relaciona horas lançadas de cada membro participante da
     tarefa;
 
-    -   Histórico: mostra todas as ações realizadas dentro do cartão, com data e
+    -   **Histórico**: mostra todas as ações realizadas dentro do cartão, com data e
     hora.
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=myExkRXrBGE)
