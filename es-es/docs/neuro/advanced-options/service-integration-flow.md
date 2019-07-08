@@ -8,7 +8,7 @@ Los flujos de integración de servicios, como el propio nombre dice, involucra w
 
 ## Cómo acceder    
 
-1- Acceda a la funcionalidad a través del menú Neuro > Flujo de integración.     
+1- Acceda a la funcionalidad a través del menú Neuro > Administración > Flujo de integración.     
 
 ## Condiciones previas    
 
