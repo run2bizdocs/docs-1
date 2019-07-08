@@ -93,23 +93,6 @@ Procedimento
 
 2.  Clicar no botão “Sprint”, nomear e “Salvar”;
 
-    ![tela sprint](images/figure-1-simple.png)
-    
-     Figura 2 - Tela Sprint
-
-
-     -   **1**: pesquisar Sprints com filtros de membros, tags e status da Sprint
-    (concluída e não concluída)
-
-     -   **2**: criar nova Sprint
-
-     -   **3**: abreviação dos nomes dos membros adicionados. Ao clicar é possível
-    excluir e definir se o membro será administrador ou não
-
-     -   **4**: adicionar membros que participarão da Sprint
-
-     -   **5**: ações de configuração e permissão da Sprint
-
 3.  Cada Sprint conterá em sua tela inicial um contador de **tarefas**, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
     percentual de realização das mesmas:
@@ -156,7 +139,7 @@ Procedimento
 
     ![tela lista](images/figure-2-simple.png)
     
-    Figura 3 - Tela lista
+    Figura 2 - Tela lista
 
 
    -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista
@@ -179,7 +162,7 @@ Procedimento
 
    ![tela tarefa](images/figure-3-simple.png)
     
-   Figura 4 - Tela tarefa
+   Figura 3 - Tela tarefa
 
 
    -   **1**: criar nova tarefa
@@ -203,7 +186,7 @@ dispositivos de controle e gestão.
 
      ![tela cartão](images/figure-4-simple.png)
     
-      Figura 5 - Tela cartão
+      Figura 4 - Tela cartão
 
 
     -   **1**: adicionar ou retirar membros na tarefa
