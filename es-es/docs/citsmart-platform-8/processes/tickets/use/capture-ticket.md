@@ -20,7 +20,7 @@ Procedimiento
 
 3.  Confirmar la captura del ticket.
 
-Crea una alarma sonora
+Crear una alarma sonora
 -----------------------
 
 *CITSmart innova al permitir la configuración de una alarma sonora para indicar al asistente la llegada de un nuevo ticket. Para configurarlo, siga las siguientes instrucciones:*

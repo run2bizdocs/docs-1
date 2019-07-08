@@ -15,11 +15,8 @@ Na área de trabalho do Simple as atividades são inseridas e agrupadas por
 projetos (no Simple chamados de Workspaces), painel de tarefas (no Simple
 chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
-!!! Abstract "ATENÇÃO"
 
-    As permissões no Workspace e Sprint (localizada no botão configurações > perfis e permissões), quando o *administrador* estiver logado, virão selecionadas por default e não poderão ser alteradas. Apenas quando o usuário for do tipo *normal* é que as permissões serão editáveis.
-
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     O idioma nas colunas que se apresentam na tela de **Minhas notificações (figura de sino)**, seguirá o que foi setado     no parâmetro 66 (Idioma padrão do sistema).
 
@@ -27,12 +24,52 @@ chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 Procedimento
 ------------
 
-***I - Criar um Workspace***
+### Criar um Workspace
 
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
 
 2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
+
+    ![tela worspace](images/figure-01-simple.png) 
+   
+     Figura 1 - Tela Workspace
+    
+   -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
+    Lista ou Tarefa. É possível a busca que seleciona as atividades pela data
+    estimada de seu desenvolvimento (o período de início e conclusão). Para
+    utilizar este recurso de busca são exigidas as seguintes instruções:
+
+       -   Para o correto funcionamento deste campo é necessário que o Workspace,
+           Sprint e atividade possuam uma data estimada de começo e término;
+
+       -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
+           Sprints e Listas que estejam entre a data referenciada na busca.
+
+   -   **2**: criar nova Sprint
+
+   -   **3**: abreviação dos nomes dos membros adicionados. Ao clicar é possível
+    excluir e definir se o membro será administrador ou não
+
+   -   **4**: adicionar membros que participarão da Sprint
+
+   -   **5**: ação de configuração da workspace e acesso a Perfis e permissões:
+
+       -   As permissões no Workspace e Sprint, quando o administrador estiver
+        logado, virão selecionadas por default e não poderão ser alteradas.
+        Apenas quando o usuário for do tipo Normal é que as permissões serão
+        editáveis. O administrador do Workspace pode alterar o gerente de
+        projetos (permissão de administrador) em cada sprint. Caso o usuário não
+        for o administrador da Workspace, não é possível dar a permissão de
+        administrador para um outro usuário.
+
+       -   Com o perfil de Normal dentro do Workspace ou Sprint, se o usuário
+        marcar o checkbox **Alterar as permissões dos membros do
+        workspace/sprint**, será liberada a permissão dos demais membros do
+        projeto a que pertence, ou seja, caso um usuário que **não** tenha o
+        perfil de Administrador poderá alterar o status de permissão de cada
+        membro mesmo ele não sendo o Administrador.
+
 
 3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
     prazos estabelecidos:
@@ -48,27 +85,32 @@ Procedimento
 
     -   Total: soma das **Sprints** que estão dentro do Workspace.
 
-!!! Abstract "ATENÇÃO"
-
-    O administrador da workspace pode alterar o gerente de projetos (permissão de administrador) em cada sprint. Caso o usuário não     for o administrador da workspace, não é possível dar a permissão de administrador para um outro usuário.
-
-!!! Abstract "ATENÇÃO"
-
-    Para movimentar um **workspace** alterando sua ordenação, clicar e arrastar o
-    mesmo para a posição de prioridade desejada.
+4.  Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
     
-!!! Abstract "NOTA" 
     
-    O campo de pesquisa busca qualquer informação que esteja em qualquer outro workspace, sprint, lista ou tarefa. Para otimizar a busca, foi criado um novo filtro que permite  selecionar as atividades pela data estimada de seu desenvolvimento (o periodo de seu princípio e conclusão). Para utilizá-lo, é exigido seguir as seguintes instruções:  
-    1. Para o correto funcionamento deste campo é necessário que o Workspace, Sprint e atividade possuam uma data estimada de começo e término;  
-    2. Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces, Sprints e Atividades que estejam entre a data referenciada na busca.
 
-
-***II - Criar uma Sprint***
+### Criar uma Sprint
 
 1.  Clicar no Workspace criado anteriormente;
 
 2.  Clicar no botão “Sprint”, nomear e “Salvar”;
+
+    ![tela sprint](images/figure-1-simple.png)
+    
+     Figura 2 - Tela Sprint
+
+
+   -   **1**: pesquisar Sprints com filtros de membros, tags e status da Sprint
+    (concluída e não concluída)
+
+   -   **2**: criar nova Sprint
+
+   -   **3**: abreviação dos nomes dos membros adicionados. Ao clicar é possível
+    excluir e definir se o membro será administrador ou não
+
+   -   **4**: adicionar membros que participarão da Sprint
+
+   -   **5**: ações de configuração e permissão da Sprint
 
 3.  Cada Sprint conterá em sua tela inicial um contador de **tarefas**, horas
     despendidas e planejadas, totalização de tarefas por prazos estabelecidos e
@@ -95,37 +137,19 @@ Procedimento
         -   3º Progresso é a porcentagem calculadas com o total de estimativas das
             **tarefas** concluídas sobre o total de estimativas de todas as tarefas.
 
-!!! Abstract "ATENÇÃO"
+!!! info "INFORMAÇÃO"
 
     O cálculo do progresso depende totalmente das estimativas informadas nas
     tarefas.
 
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     Para movimentar uma **sprint** alterando sua ordenação, clicar e arrastar a
     mesma para a posição de prioridade desejada.
     
 
-![tela sprint](images/figure-1-simple.png)
-    
-Figura 1 - Tela Sprint
-
-
-   -   **1**: pesquisar Sprints com filtros de membros, tags e status da Sprint
-    (concluída e não concluída)
-
-   -   **2**: criar nova Sprint
-
-   -   **3**: abreviação dos nomes dos membros adicionados. Ao clicar é possível
-    excluir e definir se o membro será administrador ou não
-
-   -   **4**: adicionar membros que participarão da Sprint
-
-   -   **5**: ações de configuração e permissão da Sprint
-
-
-***III - Criar listas***
+### III - Criar listas
 
 1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “Para
     fazer, Em andamento e Concluída”;
@@ -134,7 +158,7 @@ Figura 1 - Tela Sprint
 
     ![tela lista](images/figure-2-simple.png)
     
-    Figura 2 - Tela lista
+    Figura 3 - Tela lista
 
 
     -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista
@@ -153,11 +177,11 @@ Figura 1 - Tela Sprint
 
     -   **8**: arquivar lista de tarefas
 
-***IV - Criar tarefas***
+### Criar tarefas
 
    ![tela tarefa](images/figure-3-simple.png)
     
-   Figura 3 - Tela tarefa
+   Figura 4 - Tela tarefa
 
 
    -   **1**: criar nova tarefa
@@ -166,12 +190,12 @@ Figura 1 - Tela Sprint
 
    -   **3**: mover a lista fisicamente dentro do quadro
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     Para movimentar uma **tarefa** de uma lista para outra, clicar e arrastar a
     mesma para a lista desejada.
 
-***V - Preencher cartão Simple***
+### Preencher cartão Simple
 
 O cartão Simple contém campos e botões para descrever uma tarefa/ação com
 planejamento e controle de datas, horários, checklist e diversos outros
@@ -181,7 +205,7 @@ dispositivos de controle e gestão.
 
      ![tela cartão](images/figure-4-simple.png)
     
-      Figura 4 - Tela cartão
+      Figura 5 - Tela cartão
 
 
     -   **1**: adicionar ou retirar membros na tarefa
@@ -190,11 +214,11 @@ dispositivos de controle e gestão.
 
     -   **3**: adicionar comentários
     
-    !!! Abstract "NOTA"
+    !!! note "NOTA"
 
         Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"* foi inserida duas novas funcões:  
-         -  *Editar Comentário*;  
-         -  *Excluir Comentário*. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
+         -  Editar Comentário;  
+         -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
