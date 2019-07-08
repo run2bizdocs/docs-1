@@ -28,7 +28,7 @@ Creating an audible alarm
 
 2. When designing the ticket flow, include the extension "Notification". This extension has as input in the configuration area, the configuration template, the notification template, so in the recipient tabs it is possible to create the expressions needed to make the notification;
 
-3. It is essential to have the minimum conditions for the service to perform correctly:
+3. It is essential to have the minimum conditions for the service to perform it correctly:
 
    - Have a drive of audio;
    - Speakers or a Headset to hear the alarm.
