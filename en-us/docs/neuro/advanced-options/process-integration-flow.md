@@ -7,7 +7,7 @@ The process integration flows are workflows that have tasks performed by users a
 
 ## How to access
 
-1. Access the functionality through the menu Workflow/ESI > Administration > Workflow/ ESI design.  
+1. Access the functionality through the menu Neuro > Management > Integration Flow.  
 
 ## Preconditions
 
