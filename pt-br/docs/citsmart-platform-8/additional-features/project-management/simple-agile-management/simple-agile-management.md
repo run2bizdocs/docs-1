@@ -84,7 +84,10 @@ Procedimento
 
     -   Total: soma das **Sprints** que estão dentro do Workspace.
 
-4.  Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
+
+!!! warning "ATENÇÃO"
+
+    Para movimentar um **Workspace** alterando sua ordenação, clicar e arrastar o  mesmo para a posição de prioridade desejada.
     
 
 ### Criar uma Sprint
