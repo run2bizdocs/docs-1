@@ -35,8 +35,8 @@ Procedimento
    
      Figura 1 - Tela Workspace
     
-   -   **1**: busca qualquer informação que esteja em qualquer outro workspace, sprint,
-    lista ou tarefa. É possível a busca que seleciona as atividades pela data
+   -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
+    Lista ou Tarefa. É possível a busca que seleciona as atividades pela data
     estimada de seu desenvolvimento (o período de início e conclusão). Para
     utilizar este recurso de busca são exigidas as seguintes instruções:
 
