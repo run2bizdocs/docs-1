@@ -144,7 +144,7 @@ Procedimento
 
 !!! warning "ATENÇÃO"
 
-    Para movimentar uma **sprint** alterando sua ordenação, clicar e arrastar a
+    Para movimentar uma **Sprint** alterando sua ordenação, clicar e arrastar a
     mesma para a posição de prioridade desejada.
     
 
