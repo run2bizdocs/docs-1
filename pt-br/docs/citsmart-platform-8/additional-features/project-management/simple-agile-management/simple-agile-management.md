@@ -53,22 +53,22 @@ Procedimento
 
    -   **4**: adicionar membros que participarão da Sprint
 
-   -   **5**: ação de configuração da workspace e acesso a Perfis e permissões:
+   -   **5**: ação de configuração do Workspace e acesso a *Perfis e permissões*:
 
-       -   As permissões no Workspace e Sprint, quando o administrador estiver
+       -   As permissões no Workspace e Sprint, quando o **Administrador** estiver
         logado, virão selecionadas por default e não poderão ser alteradas.
-        Apenas quando o usuário for do tipo Normal é que as permissões serão
-        editáveis. O administrador do Workspace pode alterar o gerente de
-        projetos (permissão de administrador) em cada sprint. Caso o usuário não
-        for o administrador da Workspace, não é possível dar a permissão de
+        Apenas quando o usuário for do tipo **Normal** é que as permissões serão
+        editáveis. O Administrador do Workspace pode alterar o gerente de
+        projetos (permissão de Administrador) em cada Sprint. Caso o usuário não
+        seja o Administrador do Workspace, não é possível dar a permissão de
         administrador para um outro usuário.
 
-       -   Com o perfil de Normal dentro do Workspace ou Sprint, se o usuário
+       -   Com o perfil do tipo **Normal** dentro do Workspace ou Sprint, se o usuário
         marcar o checkbox **Alterar as permissões dos membros do
-        workspace/sprint**, será liberada a permissão dos demais membros do
+        Workspace/Sprint**, será liberada a permissão dos demais membros do
         projeto a que pertence, ou seja, caso um usuário que **não** tenha o
-        perfil de Administrador poderá alterar o status de permissão de cada
-        membro mesmo ele não sendo o Administrador.
+        perfil de Administrador, poderá alterar o status de permissão de cada
+        membro, mesmo ele não sendo o Administrador.
 
 
 3.  Cada Workspace conterá em sua tela inicial um resumo de Sprints e seus
