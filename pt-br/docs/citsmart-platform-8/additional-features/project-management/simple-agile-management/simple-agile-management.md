@@ -195,7 +195,7 @@ dispositivos de controle e gestão.
 
     -   **3**: adicionar comentários: 
     
-       -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"* foi inserida           duas novas funcões: 
+       -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"*, pode-se: 
        
           -  Editar Comentário; 
          
