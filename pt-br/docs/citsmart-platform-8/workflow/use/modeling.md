@@ -10,7 +10,7 @@ Esta funcionalidade é uma boa alternativa para a criação de fluxos de trabalh
 
 ## Procedimento
 
-1. Acessar o menu principal Workflow /> Modelagem de processo;
+1. Acessar o menu principal Workflow > Modelagem de processo;
 
 2. Clicar no botão "Novo";
 
