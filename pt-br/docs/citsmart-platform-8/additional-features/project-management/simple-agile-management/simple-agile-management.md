@@ -195,11 +195,11 @@ dispositivos de controle e gestão.
 
     -   **3**: adicionar comentários: 
     
-       -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"*, pode-se: 
+        -  Ao abrir uma atividade (tarefa) no *Simple* será possível visualizar que na funcionalidade *"Comentário"*, pode-se: 
        
-          -  Editar Comentário; 
+           -  Editar Comentário; 
          
-          -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
+           -  Excluir Comentário. Se optar pela exclusão, o comentário não ficará salvo na aba "Histórico".
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
     além de detalhar a ação tomada
