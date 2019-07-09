@@ -30,7 +30,7 @@ Procedure
 
 2.  Click on “Workspace” and give a name to create the new Workspace;
 
-    ![sprint screen](images/figure-1-simple.png) 
+    ![sprint screen](images/figure-01-simple.png) 
 
     Figure 1 - Workspace Screen
 
