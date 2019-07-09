@@ -1,4 +1,4 @@
-title: Relate information to the change
+title: Relate items to the change
 Description: It allows to link the Change to a series of information
 
 # Relate items to the change
