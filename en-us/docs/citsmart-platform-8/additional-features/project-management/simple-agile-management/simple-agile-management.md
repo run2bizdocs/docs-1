@@ -23,7 +23,7 @@ tasks, which can be in groups of cards.
 Procedure
 ------------
 
-### Creating a Workspace
+### Creating Workspace
 
 1.  Access the main menu Inegrated Management \>
     Simple – Agile Management;
@@ -34,37 +34,37 @@ Procedure
 
     Figure 1 - Workspace Screen
 
-   -   **1**: searches for any information that is in any other Workspace, Sprint, 
-       List or Task. It is possible the search that selects the activities by the estimated 
-       date of its development (the period of beginning and conclusion). To use this search 
-       feature, follow the instructions bellow:
+    -   **1**: searches for any information that is in any other Workspace, Sprint, 
+        List or Task. It is possible the search that selects the activities by the estimated 
+        date of its development (the period of beginning and conclusion). To use this search 
+        feature, follow the instructions bellow:
    
-       -   For the correct operation of this field, it is necessary that the Workspace, 
-           Sprint and activity have an estimated date of beginning and end; 
+        -   For the correct operation of this field, it is necessary that the Workspace, 
+            Sprint and activity have an estimated date of beginning and end; 
        
-       -   Make the search. The system will then return a list of Workspaces, Sprints and 
-           Lists that are between the date referenced in the search.
+        -   Make the search. The system will then return a list of Workspaces, Sprints and 
+            Lists that are between the date referenced in the search.
 
-   -   **2**: create new Sprint
+     -   **2**: create new Sprint
 
-   -   **3**: abbreviation of added member names. By clicking on it, it's possible to
-    delete and define if the member will be manager or not
+     -   **3**: abbreviation of added member names. By clicking on it, it's possible to
+         delete and define if the member will be manager or not
 
-   -   **4**: add member that will participate in the Sprint
+     -   **4**: add member that will participate in the Sprint
 
-   -   **5**: actions for configuring the Workspace and access to *Profiles and permissions*:
+     -   **5**: actions for configuring the Workspace and access to *Profiles and permissions*:
    
-       -   The Permissions in Workspace and Sprint, when the **Administrator** is logged, will 
-           be selected by default and cannot be changed. Only when the user is of type **Normal** 
-           will the permissions be editable. The Workspace Administrator can change the project 
-           manager (Administrator permission) on each Sprint. If the user is not the Workspace 
-           Administrator, you cannot give the administrator permission to another user.
+         -   The Permissions in Workspace and Sprint, when the **Administrator** is logged, will 
+             be selected by default and cannot be changed. Only when the user is of type **Normal** 
+             will the permissions be editable. The Workspace Administrator can change the project 
+             manager (Administrator permission) on each Sprint. If the user is not the Workspace 
+             Administrator, you cannot give the administrator permission to another user.
            
-       -   With the profile of type **Normal** within the Workspace or Sprint, if the user ticks 
-           the checkbox **Change the permissions of Workspace/Sprint members**, the permission of 
-           the other members of the project to which they belong will be released, or whether a user 
-           who **does not** have the Administrator profile, can change the permission status of each 
-           member, even if he/she is not the Administrator.     
+         -   With the profile of type **Normal** within the Workspace or Sprint, if the user ticks 
+             the checkbox **Change the permissions of Workspace/Sprint members**, the permission of 
+             the other members of the project to which they belong will be released, or whether a user 
+             who **does not** have the Administrator profile, can change the permission status of each 
+             member, even if he/she is not the Administrator.     
 
 3.  Each Workspace will have in its home screen a summary of Sprints and
     its deadlines:
@@ -86,7 +86,7 @@ Procedure
     priority position.
    
 
-### Create a Sprint
+### Creating Sprint
 
 1.  Click on the Workspace created before;
 
@@ -97,13 +97,13 @@ Procedure
     achievement:
 
     -   Expired: it presents the number of **tasks** with the "delivery date" smaller
-    than the current date/time;
+        than the current date/time;
 
     -   To be expired: it presents the number of **tasks** with the "Delivery date"
-    that will expire in 24hs from the current date/time;
+        that will expire in 24hs from the current date/time;
 
     -   On time: it presents the number of **tasks** with the "delivery date" bigger
-    than 24hs from the current date/time;
+        than 24hs from the current date/time;
 
     -   Total: it presents the total number of **tasks** of the Sprint;
 
@@ -126,12 +126,12 @@ Procedure
     priority position.
 
 
-### Create lists
+### Creating lists
 
 1.  In each Sprint it will be available a default list of the system:: “To
-    do, In progress and Completed”;
+    do, In progress and Finished”;
 
-2.  To create a new list, click on "+List”, give a title and "Save”.
+2.  To create a new list, click on "+List”, name it and "Save”.
 
     ![list screen](images/figure-2-simple.png)
     
@@ -154,7 +154,7 @@ Procedure
 
     -   **8**: archive tasks list
 
-### Create tasks
+### Creating tasks
 
    ![task screen](images/figure-3-simple.png)
     
@@ -174,7 +174,7 @@ Procedure
 ### Complete Simple card
 
 The Simple card has fields and buttons to describe a task/action with planning
-and control of dates, hours, checklist and several others device of control
+and control of dates, time, checklist and several others device of control
 and management.
 
 1.  Each card has devices of control and information:
@@ -191,12 +191,12 @@ and management.
     -   **3**: add comments
 
     -   **4**: each member can post hours referring to their time used in the task, besides 
-    detailing the action taken
+        detailing the action taken
 
     -   **5**: add tags to visually identify the task card
 
     -   **6**: click to be notified of any changes in this task. This notification will be
-    done through the notification button of the CITSmart
+        done through the notification button of the CITSmart
 
     -   **7**: indicate the completion of the task
 
@@ -218,21 +218,21 @@ and management.
 
 5.  The tabs available present:
 
-    -   Checklist: adding a checklist will create an item on this tab. To name it,
+    -   **Checklist**: adding a checklist will create an item on this tab. To name it,
     place the mouse on "Add item...", click on add "+" to add new item. To indicate
     the completion of an item inside the checklist, select the checkbox;
 
-    -   Comments: list of comments made:
+    -   **Comments**: list of comments made:
     
            -  Edit Comment;
            
            -  Delete comment. If you opt for the deletion, the comment will not be saved in the "History" tab.
 
-    -   Attachments: make availabe the field to add attachmetns;
+    -   **Attachments**: make availabe the field to add attachmetns;
 
-    -   Hours released: relate hours released of each member participating in the task;
+    -   **Hours released**: relate hours released of each member participating in the task;
 
-    -   History: it presents all actions made in the card, with date and time.
+    -   **History**: it presents all actions made in the card, with date and time.
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=yHi8-heMMxM)
