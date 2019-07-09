@@ -8,6 +8,7 @@ A funcionalidade permite registrar em comentários todos os passos da execução
 ## Antes de começar
 
 Para executar o ticket além da permissão para efetuar a operação e o cadastro prévio é necessário anteriormente, habilitar o parâmetro 298.
+Para o envio do comentário via e-mail é necessário [Configurar o serviço de mensageria][1]
 
 ## Procedimento
 
@@ -26,6 +27,9 @@ Para executar o ticket além da permissão para efetuar a operação e o cadastr
 [Criar um ticket](/pt-br/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
+
+
+[1]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.html
 
 !!! tip "About"
 
