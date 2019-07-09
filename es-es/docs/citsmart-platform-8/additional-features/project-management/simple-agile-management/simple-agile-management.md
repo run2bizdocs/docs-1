@@ -33,7 +33,7 @@ Procedimiento
 
 2.  Hacer clic en “Workspace” y poner un nombre para crear nuevo Workspace;
 
-    ![pantalla sprint](images/figure-1-simple.png)
+    ![pantalla sprint](images/figure-01-simple.png)
     
     Figura 1 - Pantalla Workspace
 
