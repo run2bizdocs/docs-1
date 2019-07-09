@@ -15,14 +15,8 @@ En el área de trabajo del Simple, las actividades se insertan y agrupan por
 proyectos (en el Simple llamados de Workspaces), panel de tareas (en el Simple
 llamados Sprint) y por fin las tareas, que pueden estar en grupos de tarjetas.
 
-!!! Abstract "ATENCIÓN"
 
-    Los permisos en Workspace y Sprint (ubicados en el botón Configuración > Perfiles 
-    y Permisos), cuando el *Administrador* está registrado, se seleccionarán de forma 
-    predeterminada y no se podrán cambiar. Solo cuando el usuario es de tipo *normal* 
-    los permisos se pueden editar.
-    
-!!! Abstract "ATENCIÓN"    
+!!! warning "ATENCIÓN"    
 
     El idioma en las columnas que aparecen en la pantalla **Mis notificaciones (icono de 
     campana)** seguirá lo que se estableció en el parámetro 66 (Idioma predeterminado del 
@@ -32,58 +26,86 @@ llamados Sprint) y por fin las tareas, que pueden estar en grupos de tarjetas.
 Procedimiento
 ------------
 
-***I - Crear Workspace***
+### Crear Workspace
 
 1.  Acceder al menú principal Gestión Integrada \>
     Simple – Gestión Ágil;
 
 2.  Hacer clic en “Workspace” y poner un nombre para crear nuevo Workspace;
 
-3.  Cada Workspace contendrá en su pantalla inicial un resumen de Sprints y sus plazos establecidos:
+    ![pantalla sprint](images/figure-1-simple.png)
+    
+    Figura 1 - Pantalla Workspace
 
-    -   Atrasadas: presenta el total de las **Sprints** que tenga la "Fecha de entrega" menor que la fecha/hora actual;
+    -   **1**: busca cualquier información que esté en cualquier otro Workspace, Sprint, 
+        Lista o Tarea. Es posible la búsqueda que selecciona las actividades por la fecha 
+        estimada de su desarrollo (el período de inicio y conclusión). Para utilizar esta 
+        función de búsqueda, se requieren las siguientes instrucciones: 
+        
+        -   Para el correcto funcionamiento de este campo, es necesario que el Workspace, 
+            Sprint y Lista tengan una fecha estimada de inicio y fin;
+            
+        -   Hacer la búsqueda. El sistema luego devolverá una lista de Workspaces, Sprints y 
+            Listas que están entre la fecha mencionada en la búsqueda.    
 
-    -   Por vencer: presenta el total de las **Sprints** que tenga la "Fecha de entrega" que quedarán vencidas en 24h a partir de la fecha/hora actual;
+    -   **2**: crear nueva Sprint
 
-    -   En el plazo: presenta el total de las **Sprints** que tenga la "Fecha de entrega" mayor que 24h a partir de la fecha/hora actual;
+    -   **3**: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible 
+        borrar y definir si el miembro será administrador o no
+
+    -   **4**: añadir miembros que participarán de la Sprint
+    
+    -   **5**: acción de configuración del Workspace y acceso a *Perfiles y permisos*:
+    
+        -   Los permisos en Workspace y Sprint, cuando se registra el **Administrator**, se 
+            seleccionarán de forma predeterminada y no se pueden cambiar. Solo cuando el usuario 
+            sea de tipo **Normal** los permisos serán editables. El Administrador del Workspace 
+            puede cambiar el gestor del proyecto (permiso del Administrador) en cada Sprint. Si 
+            no es el Administrador del área de trabajo, no puede otorgar el permiso del administrador 
+            a otro usuario.
+            
+        -   Con el perfil de tipo **Normal** dentro del Workspace o Sprint, si el usuario marca la 
+            checkbox de **Cambiar los permisos de los miembros del Workspace/Sprint**, se liberará 
+            el permiso de los otros miembros del proyecto al que pertenecen si un usuario que **no** 
+            tiene el perfil de Administrador, puede cambiar el estado de permiso de cada miembro, 
+            incluso si no es el Administrador.
+
+3.  Cada Workspace contendrá en su pantalla inicial un resumen de Sprints 
+    y sus plazos establecidos:
+
+    -   Atrasadas: presenta el total de las **Sprints** que tenga la "Fecha de entrega" 
+        menor que la fecha/hora actual;
+
+    -   Por vencer: presenta el total de las **Sprints** que tenga la "Fecha de entrega" 
+        que quedarán vencidas en 24h a partir de la fecha/hora actual;
+
+    -   En el plazo: presenta el total de las **Sprints** que tenga la "Fecha de entrega" 
+        mayor que 24h a partir de la fecha/hora actual;
 
     -   Total: suma de las **Sprints** que están dentro del Workspace.
     
+ 
 !!! Abstract "ATENCIÓN"
 
-    El administrador del área de trabajo puede cambiar el administrador del proyecto 
-    (permiso del administrador) en cada sprint. Si el usuario no es el administrador 
-    del workspace, no es posible otorgar el permiso del administrador a otro usuario.
-    
-!!! Abstract "ATENCIÓN"
-
-    Para mover un **workspace** cambiando su ordenación, hacer clic y arrastrarlo hasta la posición 
-    de prioridad deseada.
-    
-!!! Abstract "NOTA"
-
-    El campo de búsqueda busca cualquier información que esté en cualquier otro workspace, sprint, 
-    lista o tarea. Para optimizar la búsqueda, se creó un nuevo filtro que permite seleccionar las 
-    actividades por la fecha estimada de su desarrollo (el período de su inicio y conclusión). Para 
-    usarlo, debes seguir las siguientes instrucciones:
-    1. Para el correcto funcionamiento de este campo, es necesario que el Workspace, Sprint y la 
-    actividad tengan una fecha estimada de inicio y fin;
-    2. Hacer la búsqueda. Luego, el sistema devolverá una lista de Workspaces, Sprints y Actividades 
-    que se encuentran entre la fecha a la que se hace referencia en la búsqueda.
+    Para mover un **workspace** cambiando su ordenación, hacer clic y arrastrarlo 
+    hasta la posición de prioridad deseada.
 
 
-***II - Crear Sprint***
+### Crear Sprint
 
 1.  Hacer clic en el Workspace creado anteriormente;
 
 2.  Hacer clic en “Sprint”, nombrar y "Guardar”;
 
-3.  Cada Sprint contendrá en su pantalla inicial un contador de tareas, horas gastas y planificaciones, 
-    totalización de tareas por plazos establecidos y porcentaje de realización de las mismas:
+3.  Cada Sprint contendrá en su pantalla inicial un contador de **tareas**, 
+    horas gastas y planificaciones, totalización de tareas por plazos establecidos 
+    y porcentaje de realización de las mismas:
 
-    -   Retrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" menor que la fecha/hora actual;
+    -   Retrasadas: presenta el total de **tareas** que tiene la "Fecha de entrega" 
+        menor que la fecha/hora actual;
 
-    -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" que quedarán retrasadas en 24h a partir de la               fecha/hora actual;
+    -   Por vencer: presenta el total de **tareas** que tenga la "Fecha de entrega" 
+        que quedarán retrasadas en 24h a partir de la fecha/hora actual;
 
     -   En el plazo: presenta el total de **tareas** con la "Fecha de entrega" mayor que
         24h a partir de la fecha/hora actual;
@@ -96,53 +118,41 @@ Procedimiento
 
         -   2º Se hace la suma del total de estimaciones de todas las **tareas**;
 
-        -   3º Progreso es el porcentaje calculado con el total de estimaciones de las **tareas** completadas sobre el total de                     estimaciones de todas las tareas.
+        -   3º Progreso es el porcentaje calculado con el total de estimaciones de las 
+            **tareas** completadas sobre el total de estimaciones de todas las tareas.
 
-!!! Abstract "ATENCIÓN"
+!!! info "INFORMACIÓN"
 
     El cálculo del progreso depende totalmente de las estimaciones informadas en las tareas.
     
     
-!!! Abstract "ATENCIÓN"    
+!!! warning "ATENCIÓN"    
 
     Para mover un **sprint** cambiando su ordenación, hacer clic y arrastrarla a la posición 
     de prioridad deseada.
 
 
-![pantalla sprint](images/figure-1-simple.png)
-    
-Figura 1 - Pantalla Sprint
+### Crear listas
 
-
-   -   **1**: buscar Sprints con filtros de miembros, tags y estado de la Sprint (completada y no completada)
-
-   -   **2**: crear nueva Sprint
-
-   -   **3**: abreviatura de los nombres de los miembros agregados. Al hacer clic es posible borrar y definir si el miembro será administrador o no
-
-   -   **4**: añadir miembros que participarán de la Sprint
-
-   -   **5**: acciones de configuración y permiso de la Sprint
-
-
-***III - Crear listas***
-
-1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para hacer, En curso y concluido";
+1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para hacer, 
+    En curso y concluido";
 
 2.  Para crear nueva lista, hacer clic en “+Lista”, nombrar y “Guardar”.
 
     ![pantalla lista](images/figure-2-simple.png)
     
-    Figura 2 - Pantalla lista
+    Figura 2 - Pantalla de lista
 
 
-    -   **1**: buscar tareas con filtros de miembros, tags y estado de la lista (completada y no completada)
+    -   **1**: buscar tareas con filtros de miembros, tags y estado de la lista 
+        (completada y no completada)
 
     -   **2**: crear nueva lista
 
     -   **3**: actualizar la pantalla
 
-    -   **4**: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar y definir si el miembro será administrador o no
+    -   **4**: abreviatura del nombre del miembro agregado. Al hacer clic se puede borrar 
+        y definir si el miembro será administrador o no
 
     -   **6**: definir fecha, hora y estimación de horas para la entrega
 
@@ -150,7 +160,7 @@ Figura 1 - Pantalla Sprint
 
     -   **8**: archivar lista de tareas
 
-***IV - Crear tareas***
+### Crear tareas
 
    ![pantalla tarea](images/figure-3-simple.png)
     
@@ -163,11 +173,12 @@ Figura 1 - Pantalla Sprint
 
    -   **3**: mover la lista físicamente dentro del cuadro
 
-!!! Abstract "ATENCIÓN"
+!!! warning "ATENCIÓN"
 
-    Para mover una **tarea** de una lista a otra, hacer clic y arrastrar para la lista deseada.
+    Para mover una **tarea** de una lista a otra, hacer clic y arrastrar para la 
+    lista deseada.
 
-***V - Completar tarjeta Simple***
+### Completar tarjeta Simple
 
 La tarjeta Simple contiene campos y botones para describir una tarea/acción con
 planificación y control de fechas, horarios, checklist y diversos otros
@@ -177,7 +188,7 @@ dispositivos de control y gestión.
 
      ![pantalla tarjeta](images/figure-4-simple.png)
     
-      Figura 4 - Pantalla tarjeta
+      Figura 4 - Pantalla de tarjeta
 
 
     -   **1**: agregar o eliminar miembros en la tarea
@@ -185,20 +196,14 @@ dispositivos de control y gestión.
     -   **2**: agregar listas de acciones que serán vistas en la pestaña Checklist
 
     -   **3**: agregar comentarios
-    
-    !!! Abstract "NOTA"
-    
-        Cuando abre una actividad (tarea) en el *Simple*, puede ver que en la funcionalidad 
-        *"Comentario"* se han insertado dos nuevas funciones:
-        - *Editar Comentario*;
-        - *Borrar Comentario*. Si optar por la eliminación, el comentario no se guardará en la pestaña "Historial".
 
-    -   **4**: cada miembro puede contabilizar horas relativas a su tiempo empleado en la tarea, además de detallar la acción tomada
+    -   **4**: cada miembro puede contabilizar horas relativas a su tiempo empleado en 
+        la tarea, además de detallar la acción tomada
 
     -   **5**: agregar tags para identificar visualmente la tarjeta de tarea
 
     -   **6**: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
-    comunicación será a través del botón de notificaciones del CITSmart
+        comunicación será a través del botón de notificaciones del CITSmart
 
     -   **7**: indicar la finalización de la tarea
 
@@ -209,7 +214,8 @@ dispositivos de control y gestión.
 
         -   Sprint de *otro* Workspace: las tags y miembros son quitados de la tarea
 
-    -   **9**: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá ser reutilizado.
+    -   **9**: archivar la tarjeta - Una vez archivado, en esta versión, la tarjeta no podrá 
+        ser reutilizado.
 
 1.  Describir la tarea en el campo "Descripción";
 
@@ -221,19 +227,24 @@ dispositivos de control y gestión.
 
 5.  Las pestañas disponibles presentan:
 
-    -   Checklist: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, 
+    -   **Checklist**: al agregar un checklists se creará un elemento en esta pestaña. Para nombrar, 
     pcolocar el ratón en el campo "Agregar elemento ...", hacer clic en el botón de agregar "+" 
     para agregar nuevo elemento. Para indicar la finalización de un elemento dentro de un checklist, 
     seleccione el checkbox;
 
-    -   Comentarios: lista los comentarios hechos;
+    -   **Comentarios**: lista los comentarios hechos;
+    
+          -  Editar comentario;
+          
+          -  Eliminar comentario. Si opta por no participar, el comentario no se guardará en la 
+             pestaña "Historial".
 
-    -   Adjuntos: ofrece campo para agregar datos adjuntos;
+    -   **Adjuntos**: ofrece campo para agregar datos adjuntos;
 
-    -   Horas lanzadas: relaciona las horas lanzadas de cada miembro participante de la
-    tarea;
+    -   **Horas lanzadas**: relaciona las horas lanzadas de cada miembro participante de la
+        tarea;
 
-    -   Historial: presenta todas las acciones hechas en la tarjeta, con fecha y hora.
+    -   **Historial**: presenta todas las acciones hechas en la tarjeta, con fecha y hora.
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/watch?v=ZpBJQymV9wU)
