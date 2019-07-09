@@ -42,6 +42,10 @@ Pronto, a partir de agora será possível identificar novos atendimentos pela no
 
 [Criar um fluxo de trabalho][2]
 
+!!! tip "About"
+
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Updated:</b>07/08/2019 - Larissa Lourenço
 
 [1]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
 
