@@ -36,7 +36,7 @@ entanto, é preciso ter acesso a uma Mudança.
     mudança. Será necessário apertar sobre a mesma e preencher os campos
     disponibilizados. Lembrando que serão disponíveis campos a serem preenchidos de acordo com o tipo de risco escolhido (simplificado ou completo).
 
-    !!! Abstract "ATENÇÃO"
+    !!! Abstract "SAIBA MAIS"
         O tipo de análise de impacto e risco (simplificado ou completa) é definida
         durante o cadastro do portfólio de mudança, o que permite a flexibilização
         da escolha de análise por parte do usuário, que deverá descrever sua
@@ -60,7 +60,7 @@ entanto, é preciso ter acesso a uma Mudança.
     preencher os dados;
 
 
-    !!!Abstract "ATENÇÃO"
+    !!! warning "ATENÇÃO"
 
         O campo "Descrição", ao vincular uma liberação, está limitado a 4000 (quatro mil caracteres).
 
