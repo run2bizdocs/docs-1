@@ -1,7 +1,6 @@
 title: Relacionar itens à mudança
 Description: Permite vincular a Mudança uma série de informações
 
-É possível vincular à Mudança uma série de informações, tais como: liberação, conhecimento, problema, dentro outros, no intuito de solidificar e embasar a execução do processo.  
 # Relacionar itens à mudança
 
 É possível vincular à Mudança uma série de informações, tais como: liberação, conhecimento, problema, dentro outros, no intuito de solidificar e embasar a execução do processo.
