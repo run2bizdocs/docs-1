@@ -85,7 +85,7 @@ Procedimiento
     -   Total: suma de las **Sprints** que están dentro del Workspace.
     
  
-!!! Abstract "ATENCIÓN"
+!!! warning "ATENCIÓN"
 
     Para mover un **workspace** cambiando su ordenación, hacer clic y arrastrarlo 
     hasta la posición de prioridad deseada.
