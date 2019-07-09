@@ -19,7 +19,7 @@ Esta función permite la configuración de una alarma sonora para señalar al as
 3. Informar los datos de notificación, hacer clic en "Notificación Sonora" e importar el archivo de audio;
 4. Guardar las informaciones.
 
-### Insertar el elemento "Notificación" en el flujo
+### Insertar elemento "Notificación" en el flujo
 
 1. Acceder al menú principal Workflow > Diseño de flujo;
 2. Seleccionar y editar un flujo;
