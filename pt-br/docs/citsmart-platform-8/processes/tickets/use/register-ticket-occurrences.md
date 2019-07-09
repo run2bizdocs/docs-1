@@ -16,8 +16,9 @@ Para o envio do comentário via e-mail é necessário [Configurar o serviço de 
 2. Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone “Abrir”;
 3. Na área intitulada "Comentários", preencher os campos necessários (tecer o comentário pertinente, registrar a data e tempo gasto na execução do ticket) e clicar no ícone "Adicionar". É possível permitir a visualização destas informações ao solicitante quando selecionar o campo "Público", além de ser possível enviar o comentário por e-mail.
 
-!!! Abstract "NOTA"
-    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto superior direito da tela.
+!!! note "NOTA"
+
+    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto superior       direito da tela.
 
 ## Relacionado
 
