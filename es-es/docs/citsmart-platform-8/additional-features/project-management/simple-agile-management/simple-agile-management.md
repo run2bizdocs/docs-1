@@ -134,8 +134,7 @@ Procedimiento
 
 ### Crear listas
 
-1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "Para hacer, 
-    En curso y concluido";
+1.  Dentro de cada Sprint se ofrecen listas por defecto del sistema: "To do, In progress y Finished";
 
 2.  Para crear nueva lista, hacer clic en “+Lista”, nombrar y “Guardar”.
 
