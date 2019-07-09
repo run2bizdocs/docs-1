@@ -29,19 +29,19 @@ Procedimento
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
 
-2.  Clicar no botão “Workspace” e colocar nome para criar novo Workspace;
+2.  Clicar no botão “Workspace” e colocar nome para criar um novo;
 
-    ![tela worspace](images/figure-01-simple.png) 
+    ![tela workspace](images/figure-01-simple.png) 
    
      Figura 1 - Tela Workspace
     
      -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
          Lista ou Tarefa. É possível a busca que seleciona as atividades pela data
          estimada de seu desenvolvimento (o período de início e conclusão). Para
-         utilizar este recurso de busca são exigidas as seguintes instruções:
+         utilizar este recurso de busca, são exigidas as seguintes instruções:
 
          -   Para o correto funcionamento deste campo é necessário que o Workspace,
-             Sprint e atividade possuam uma data estimada de começo e término;
+             Sprint e Lista possuam uma data estimada de começo e término;
 
          -   Realizar a pesquisa. O sistema, então, retornará um lista de Workspaces,
              Sprints e Listas que estejam entre a data referenciada na busca.
@@ -101,13 +101,13 @@ Procedimento
     percentual de realização das mesmas:
 
       -   Vencidas: mostra o total de **tarefas** que tenha a “Data da entrega” menor
-    que a data/hora atual;
+          que a data/hora atual;
 
       -   A vencer: mostra o total de **tarefas** que tenha a “Data da entrega” que
-    ficarão vencidas em 24h a partir da data/hora atual;
+         ficarão vencidas em 24h a partir da data/hora atual;
 
       -   No prazo: mostra o total de **tarefas** com a “Data da entrega” maior que
-    24h a partir da data/hora atual;
+          24h a partir da data/hora atual;
 
       -   Total: mostra o total de **tarefas** daquela Sprint;
 
@@ -214,7 +214,7 @@ dispositivos de controle e gestão.
 
         -   Sprint de *outro* Workspace: as tags e membros serão removidos da tarefa
 
-    -   **9**: arquivar o cartão – Uma vez arquivado, nesta versão, o cartão não poderá
+    -   **9**: arquivar o cartão – Uma vez arquivado, o cartão não poderá
     ser reutilizado.
 
 1.  Descrever a tarefa no campo “Descrição”;
