@@ -198,12 +198,12 @@ dispositivos de controle e gestão.
     -   **3**: adicionar comentários
 
     -   **4**: cada membro pode lançar horas referente ao seu tempo utilizado na tarefa,
-    além de detalhar a ação tomada
+        além de detalhar a ação tomada
 
     -   **5**: adicionar tags para identificar visualmente o cartão de tarefa
 
     -   **6**: clicar para ser comunicado sobre qualquer modificação nesta tarefa. Esta
-    comunicação será através do botão de notificações do CITSmart
+        comunicação será através do botão de notificações do CITSmart
 
     -   **7**: indicar a finalização da tarefa
 
@@ -215,7 +215,7 @@ dispositivos de controle e gestão.
         -   Sprint de *outro* Workspace: as tags e membros serão removidos da tarefa
 
     -   **9**: arquivar o cartão – Uma vez arquivado, o cartão não poderá
-    ser reutilizado.
+        ser reutilizado.
 
 1.  Descrever a tarefa no campo “Descrição”;
 
