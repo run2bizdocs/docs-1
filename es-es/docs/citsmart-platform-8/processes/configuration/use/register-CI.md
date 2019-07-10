@@ -37,6 +37,13 @@ Procedimiento
     * [x] Número de Serie
     * [x] Ubicación 
     * [x] Tipo de Elemento de Configuración
+    
+    !!! info "INFORMACIÓN"
+    
+        Dependiendo de las características activas en el tipo de EC previamente 
+        configurado, sus respectivas descripciones estarán disponibles visualmente 
+        en el nombre del EC
+    
     * [x] Status
     * [x] Criticidad del Servicio
     * [x] Impacto
