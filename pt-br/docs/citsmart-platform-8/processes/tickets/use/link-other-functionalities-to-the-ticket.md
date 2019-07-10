@@ -35,6 +35,11 @@ Procedimento 
 6.  Para vincular um **Item de Configuração Relacionado**, clicar "IC
     Relacionado" e em seguida "Pesquisa Item de Configuração". Pesquisar pelo
     item desejado e apertar no botão "Selecionar";
+    
+    !!! note "NOTA"
+    
+        Ao vincular um IC no ticket, e este possuir garantia vigente, o usuário será informado pelo sistema antes de salvar a             ação.
+        
 
 7.  Para vincular um **Projeto**, clicar na área de mesmo nome e seguida no
     campo projeto e vincular o item desejado;
@@ -57,7 +62,7 @@ Procedimento 
     item da funcionalidade desejada. Se desejar cadastrar um novo item, clicar
     no botão "Cadastrar Problema";
 
-    !!! Abstract "NOTA"
+    !!! note "NOTA"
 
         Ao vincular um problema ao ticket, as “Soluções contorno” registradas nestes
         estarão disponíveis no ticket na aba a esquerda de mesmo nome. Ao clicar sobre o
