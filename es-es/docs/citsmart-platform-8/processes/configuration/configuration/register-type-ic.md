@@ -24,6 +24,11 @@ Procedimiento
 
 4.  Elegir si inserta una característica;
 
+    !!! info "INFORMACIÓN"
+    
+        Las características activas en este campo se mostrarán en el nombre del elemento 
+        de configuración que ha vinculado el mismo tipo de EC configurado.
+    
 5.  Hacer clic en "Guardar".
 
 
