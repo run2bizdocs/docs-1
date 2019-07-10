@@ -222,7 +222,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
     ```
 
-3. There are **eight inputs** of datasource for the **citsmart_db**, being four for CITSmart and four for CITSmart Neuro. The user and   password is **citsmartdbuser and exemplo123** respectively created in the section *PostgreSQL Database Server*.
+3. There are **eight inputs** of datasource for the **citsmart_db**, being four for CITSmart and four for CITSmart Neuro. The user and password is **citsmartdbuser and exemplo123** respectively created in the section *PostgreSQL Database Server*.
 
 4. To create datasources, execute the CLI commands below:
 
@@ -395,9 +395,9 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     INICIAR_PROCESSAMENTOS_BATCH=TRUE
     ```
 
-!!! Abstract "ATTENTION"
+!!! warning "ATTENTION"
 
-    Do not forget to change the owner of the files and directories to the CITSmart's user
+    Do not forget to change the owner of the files and directories to the CITSmart's user.
 
 ## Quartz Configuration
 
@@ -514,9 +514,9 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 
 ## Create directories to installation
 
-!!! Abstract "ATTENTION"
+!!! warning "ATTENTION"
 
-    Don't forget to change the owner of directory /opt/citsmart
+    Don't forget to change the owner of directory /opt/citsmart .
 
 1. Create the directories below to be configured in the 3 (three) steps of web installation.
 
