@@ -38,7 +38,8 @@ Procedimento 
     
     !!! note "NOTA"
     
-        Ao vincular um IC no ticket, e este possuir garantia vigente, o usuário será informado pelo sistema antes de efetivar a           ação.
+        Ao vincular um IC no ticket, e este possuir garantia vigente, o usuário será informado 
+        pelo sistema antes de efetivar a ação.
         
 
 7.  Para vincular um **Projeto**, clicar na área de mesmo nome e seguida no
