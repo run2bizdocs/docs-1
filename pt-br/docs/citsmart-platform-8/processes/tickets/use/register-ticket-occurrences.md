@@ -12,7 +12,7 @@ Para o envio do comentário via e-mail é necessário [Configurar o serviço de 
 
 ## Procedimento
 
-1. Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu principal Processos > Gerência de Requisição e Incidente > Ticket;
+1. Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu principal Processos > Gerência de Ticket > Ticket;
 2. Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone “Abrir”;
 3. Na área intitulada "Comentários", preencher os campos necessários (tecer o comentário pertinente, registrar a data e tempo gasto na execução do ticket) e clicar no ícone "Adicionar". É possível permitir a visualização destas informações ao solicitante quando selecionar o campo "Público", além de ser possível enviar o comentário por e-mail.
 
