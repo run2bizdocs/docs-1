@@ -35,6 +35,11 @@ Procedimiento
 6.  Para vincular un **Elemento de configuración relacionado**, haga clic en "EC
     relacionado" y, a continuación, "Búsqueda de elementos de configuración".
     Buscar por el elemento deseado y hace clic en el botón "Seleccionar";
+    
+    !!! note "NOTA"
+    
+        Cuando un EC está vinculado al ticket y tiene una garantía válida, el sistema 
+        informará al usuario antes de tomar la acción.
 
 7.  Para vincular un **Proyecto**, haga clic en el área del mismo nombre y luego
     en el campo de proyecto y vincule el elemento deseado;
