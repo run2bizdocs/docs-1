@@ -14,6 +14,9 @@ Service Level Agreement (General) of type "Availability", a location, employee,
 group, contract, type of configuration item and at least one main configuration
 item if it's necessary to create other related configuration item.
 
+This feature provides a variety of actions, such as including, changing, and 
+deleting a configuration item.
+
 Procedure
 ---------
 
@@ -33,6 +36,13 @@ Procedure
     * [x] Serial Number
     * [x] Locality 
     * [x] Type of Configuration Item
+    
+    !!! info "INFORMATION"
+    
+        Depending on the active characteristics in the previously configured type 
+        of CI, their respective descriptions will be made available visually in the 
+        name of the CI.
+    
     * [x] Status
     * [x] Service Criticality
     * [x] Impact
