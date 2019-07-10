@@ -23,6 +23,10 @@ Procedimento
 
 4.  Escolher se insere uma característica;
 
+    !!! info "INFORMAÇÃO"
+    
+        As características ativas neste campo, serão visualizadas no nome do item de configuração que tenha vinculado o mesmo tipo         de IC configurado.
+
 5.  Clicar em "Gravar".
 
 
