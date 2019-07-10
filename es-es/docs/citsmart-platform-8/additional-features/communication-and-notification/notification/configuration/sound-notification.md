@@ -1,48 +1,49 @@
-Title: Configurar notificação sonora
-Description: Configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket
+Title: Configurar notificación sonora
+Description: Configuración de una alarma sonora para señalar al asistente la llegada de un nuevo ticket
 
-# Configurar notificação sonora
+# Configurar notificación sonora
 
-Este recurso permitir a configuração de um alarme sonoro para sinalizar ao atendente a chegada de um novo ticket em sua fila de trabalho.
+Esta función permite la configuración de una alarma sonora para señalar al asistente la llegada de un nuevo ticket en su cola de ticket.
 
-## Antes de começar
+## Antes de empezar
 
-* [x] Ter pelo menos um fluxo de trabalho definido em seu ambiente CITSmart;
-* [x] É essencial possuir as condições mínimas para reprodução de áudio em seu computador;
+* [x] Tenga al menos un flujo de trabajo definido en su entorno CITSmart;
+* [x] Es esencial tener las condiciones mínimas para la reproducción de audio en su ordenador;
 
-## Procedimento
+## Procedimiento
 
-### Criar um template de notificação
+### Crear plantilla de notificación
 
-1. Acessar a funcionalidade através da navegação no menu principal Sistema > Notificações > Template de Notificação;
-2. Clicar em "Novo" para criar um template;
-3. Informar os dados da notificação, clicar em "Notificação Sonora" e importar o arquivo de audio;
-4. Gravar as informações.
+1. Acceder al menú principal Sistema > Notificaciones > Plantilla de Notificación;
+2. Hacer clic en "Nuevo" para crear una nueva plantilla;
+3. Informar los datos de notificación, hacer clic en "Notificación Sonora" e importar el archivo de audio;
+4. Guardar las informaciones.
 
-### Inserir o elemento "Notificação" no fluxo
+### Insertar elemento "Notificación" en el flujo
 
-1. Acessar o menu principal Workflow > Desenho de Fluxo;
-2. Selecionar e editar o fluxo desejado;
-3. Na aba "Diagrama", clicar no item "Extensões", clicar e segurar o item "Notificação" e arrastar para a área de Desenho;
-4. Clicar duas vezes sobre o ícone "Notificação", e logo após na aba "Configuração";
-5. No campo "Template de notificação" selecionar o template para a notificação;
-6. Gravar as alterações no fluxo;
+1. Acceder al menú principal Workflow > Diseño de flujo;
+2. Seleccionar y editar un flujo;
+3. En la pestaña "Diagrama", haga clic en el elemento "Extensiones", haga clic y mantenga presionado el elemento "Notificación" y
+arrástrelo al área de dibujo;
+4. Haga doble clic en el icono "Notificación", y después en la pestaña "Configuración";
+5. En el campo "Plantilla de notificación", seleccione la plantilla para la notificación;
+6. Guardar los cambios en el flujo;
 
-## O que fazer depois
+## Lo que hacer después
 
-Pronto, a partir de agora será possível identificar novos atendimentos pela notificação sonora.
+Listo, de ahora en adelante será posible identificar nuevos tickets mediante la notificación sonora.
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENCIÓN"
 
-    Mesmo se o usuário receber várias notificações ao mesmo tempo, o alarme sonoro só será acionado uma vez.
+    Incluso, si el usuario recibe varias notificaciones al mismo tiempo, la alarma sonora solo se activará una vez.
 
 ## Relacionado
 
-[Cadastrar template de notificação][1]
+[Registrar plantilla de notificación][1]
 
-[Criar um fluxo de trabalho][2]
+[Crear flujo de trabajo][2]
 
 
-[1]:/pt-br/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
+[1]:/es-es/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/pt-br/citsmart-platform-8/workflow/use/create-flow.html
+[2]:/es-es/citsmart-platform-8/workflow/use/create-flow.html

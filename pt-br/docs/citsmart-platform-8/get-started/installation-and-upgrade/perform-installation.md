@@ -327,7 +327,6 @@ modulo ao standalone-full-ha.xml
     ```
 
 
-
 5. Antes de sair do jboss-cli,executar o comando reload para aplicar as alterações e fazer um teste de conexão com a base de dados.
 
     ```sh
@@ -400,7 +399,7 @@ modulo ao standalone-full-ha.xml
     INICIAR_PROCESSAMENTOS_BATCH=TRUE
     ```
 
-    !!! Abstract "ATENÇÃO"
+    !!! warning "ATENÇÃO"
 
         Não esquecer de alterar o dono dos arquivos e diretórios para o usuário CITSmart.
 
@@ -520,7 +519,7 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ## Criação de diretórios para instalação
 
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     Não esquecer de alterar o dono do diretório /opt/citsmart .
 

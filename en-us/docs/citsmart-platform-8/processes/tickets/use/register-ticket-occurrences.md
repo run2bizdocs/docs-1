@@ -14,11 +14,9 @@ To execute the ticket in addition to the permission to perform the operation and
 
 1. Access the funcionality through the main menu Processes > Ticket Management > Ticket;
 2. Find the ticket you want, click on it and then on the "Open" icon;
-3. In the "Comments" area, complete the necessary fields (write the pertinent comment, register date and time spent in the execution of 
-the ticket) and click on the "Add" icon. It is possible to allow this information to be viewed by the requester when selecting the 
-"Public" field, in addition to being able to send the comment by email.
+3. In the "Comments" area, complete the necessary fields (write the pertinent comment, register date and time spent in the execution of the ticket) and click on the "Add" icon. It is possible to allow this information to be viewed by the requester when selecting the "Public" field, in addition to being able to send the comment by email.
 
-!!! Abstract "NOTE"
+!!! note "NOTE"
     
     The history of all ticket comments can be viewed by clicking on the "History" tab in 
     the upper right side of the screen.

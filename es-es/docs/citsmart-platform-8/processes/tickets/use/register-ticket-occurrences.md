@@ -15,7 +15,7 @@ Para ejecutar el ticket, además del permiso para efectuar la operación y el re
 2. Buscar el ticket que quiera, hacerlo clic y después en el icono "Abrir";
 3. En el área titulada "Comentarios", completar los campos necesarios (escribir el comentario pertinente, registrar la fecha y el tiempo gastado en la ejecución del ticket) y hacer clic en el icono "Agregar". Es posible permitir la visualización de esta información al solicitante cuando seleccionar el campo "Público", además de ser posible enviar el comentario por correo electrónico.
 
-!!! Abstract "NOTA"
+!!! note "NOTA"
 
     O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, 
     localizado no canto superior direito da tela.

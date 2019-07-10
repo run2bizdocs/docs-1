@@ -327,8 +327,6 @@ PostgreSQL*.
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
     ```
 
-
-
 5.  Antes de salir de jboss-cli ejecute el comando reload para aplicar los cambios y realizar una prueba de conexión con la base de datos.
 
     ```sh
@@ -402,7 +400,7 @@ PostgreSQL*.
     ```
 
 
-    !!! Abstract "ATENCIÓN"
+    !!! warning "ATENCIÓN"
 
          No olvides de cambiar el dueño de los archivos y directorios para el usuario CITSmart.
 
@@ -522,7 +520,7 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 ## Creación de directorios para instalación
 
 
-!!! Abstract "ATENCIÓN"
+!!! warning "ATENCIÓN"
 
     No olvides de cambiar el dueño del directorio /opt/citsmart .
 

@@ -1,12 +1,18 @@
-title: Habilitar a mensageria dentro do CITSmart
+title: Configurar a mensageria dentro do CITSmart
 Description: Disponibiliza um canal de comunicação entre o solicitante (Smart Portal)) e o técnico (área de solicitação de serviço/ticket) via mensagem (email).
-# Habilitar a mensageria dentro do CITSmart
+# Configurar a mensageria dentro do CITSmart
 
 O CITSmart disponibiliza um canal de comunicação entre o solicitante (Smart
 Portal) e o técnico (área de solicitação de serviço/ticket) via mensagem
 (email). Essa comunicação visa facilitar a resolução de um chamado. Este
 conhecimento reúne informações pertinentes à configuração do serviço de
 mensageria.
+
+
+Antes de começar
+--------------
+
+É preciso realizar a configuração da conta de e-mail (SMTP) previamente (verificar item relacionado).
 
 Procedimento
 ----------------
@@ -33,6 +39,8 @@ Procedimento
 
 Relacionado
 -------
+
+[Configurar conta de e-mail](/pt-br/citsmart-platform-8/platform-administration/email-settings/configuration.html)
 
 [A área de trabalho da Central de Serviços](/pt-br/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
