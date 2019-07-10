@@ -14,7 +14,7 @@ Procedure
 -------------
 
 1.  Access the functionality by the main menu Processes \> Ticket
-    Management \> Service Request and Incident;
+    Management \> Ticket;
 
 2.  To inform the ticket (request/incident) complementary data, check the option
     of capture or view;
@@ -33,13 +33,18 @@ Procedure
 6.  To link a **Related Configuration Item**, click on "Related CI" and then on
     "Search Configuration Item". Search for the item you want and then click on
     "Select";
+    
+    !!! note "NOTE"
+    
+        When a CI is linked to the ticket and it has a valid license, the user will be informed 
+        by the system before taking action.
 
 7.  To link a **Project**, click on the area with same name and then in the
     field project. Link the item you want;
 
 8.  To view the periodic activities, click on **Agenda**;
 
-9.  To verify the e-mails received about the request, click on the area **E-mail
+9.  To verify the e-mails received about the request, click on the area **Email
     Reading** and then "Verify e-mails". Note that the e-mail reading will be
     only used if the parameters are correctly configured;
 
