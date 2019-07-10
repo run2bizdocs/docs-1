@@ -57,7 +57,7 @@ you must have access to a Change.
     and select the release you want. If you want to register a new release, click
     on "Register" and then complete the data;
 
-    !!! warning "ATTENTION"
+!!! warning "ATTENTION"
 
     The "Description" field, when linking a release, is limited to 4000 (four thousand characters).
 
