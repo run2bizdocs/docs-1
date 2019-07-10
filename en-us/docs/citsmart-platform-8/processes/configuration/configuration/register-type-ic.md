@@ -1,7 +1,9 @@
 title: Register type of configuration item
 Description: Provides a variety of actions, such as including, changing, and deleting the types of Configuration Item
 # Register type of configuration item
-This feature provides a variety of actions, such as including, changing, and deleting the types of Configuration Item (CI).
+
+This feature provides a variety of actions, such as including, changing, and 
+deleting the types of Configuration Item (CI).
 
 Before getting started
 --------------------------
@@ -20,6 +22,11 @@ Procedure
 3.  Complete the fields available;
 
 4.  Choose whether to insert a characteristic;
+
+    !!! info "INFORMATION"
+    
+        The active features in this field will be displayed in the name of the configuration 
+        item that has linked the same type of CI configured.
 
 5.  Click on "Save".
 
