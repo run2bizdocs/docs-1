@@ -36,6 +36,11 @@ Procedimento
     * [x] Número Série
     * [x] Localidade 
     * [x] Tipo Item Configuração
+    
+    !!! info "INFORMAÇÃO"
+    
+        Dependendo das características ativas no tipo de IC configurado previamente, suas respectivas descrições ficarão                   disponibilizadas visualmente no nome do IC. 
+    
     * [x] Status
     * [x] Criticidade do Serviço
     * [x] Impacto
