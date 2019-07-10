@@ -4,7 +4,7 @@ Description: It is intended to edit the information about the user profile.
 
 This functionality is intended to edit the information about the user account.
 
-!!! Abstract "ATTENTION"
+!!! warning "ATTENTION"
 
     The changed data in this screen will also be modified in the employee registration screen.
     
