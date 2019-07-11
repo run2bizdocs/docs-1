@@ -1,7 +1,7 @@
-title: Relate information to the problem
+title: Relate items to the problem
 Description: It's possible to link to the problem
-# Relate items to the problem
 
+# Relate items to the problem
 
 It's possible to link to the Problem a series of information, such as: release, knowledge, services related, and others.
 
@@ -29,7 +29,7 @@ necessary to have access to a Problem.
     be also available the possibility of create an incident and from this problem,
     when click on the icon "Register" and complete the data necessary.
 
-!!! info "NOTE"
+!!! note "NOTE"
 
     When link or register the incident and save the problem, it'll be triggered a notification in the email and on the screen of the current responsible for the incident. However, this notification will be only sent if the incident has already been captured by its executor, moreover, if is not captured and designated to the responsible, there will be no  notification. The notification sending mentioned above is automatic, without the need of parametrization.
 
