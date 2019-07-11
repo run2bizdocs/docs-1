@@ -1,18 +1,24 @@
 title: Enable messaging within CITSmart
-Description: Gathers information pertinent to the configuration of the messaging service.
-# Enable messaging within CITSmart
+Description: ITSmart provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
+# Configuring messaging within CITSmart
 
 CITSmart provides a communication channel between the requester (Smart Portal)
 and the technician (service/ticket request area) through message (email). This
 communication aims to facilitate the resolution of a call. This knowledge
 gathers information pertinent to the configuration of the messaging service.
 
+
+Before getting started
+--------------
+
+It is necessary to configure the email account (SMTP) beforehand (check related item).
+
 Procedure
 -------------
 
-1.  In order for the messaging service to be available within CITSmart, it's
-    necessary to set parameter 417 with the ID number of the e-mail template
-    that contains some variables to send the message;
+1.  In order for the messaging service to be available within CITSmart, it is
+    necessary to set the parameter 417 with the ID number of the email template
+    that contains some variables to be sent to the messaging;
 
 2.  Below are the keys for sending email:
 
@@ -27,10 +33,12 @@ Procedure
     - \${REQUESTERNAME} - Name of the requester;
 
     - \${REQUESTRESPONSIBLENAME} - Name of the technician responsible for the
-    ticket attendance.
+      ticket attendance.
 
 Related
 -------
+
+[Configure email account](/en-us/citsmart-platform-8/platform-administration/email-settings/configuration.html)
 
 [The desktop of Service Desk](/en-us/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
