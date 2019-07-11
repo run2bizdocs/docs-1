@@ -1,19 +1,24 @@
 title: Habilitar la mensajería dentro del CITSmart
 Description: Ofrece un canal de comunicación entre el solicitante (Smart Portal) y el técnico (área de solicitud de servicio/ticket) vía mensaje (correo electrónico).
-# Habilitar la mensajería dentro del CITSmart
-
+# Configurar mensajería dentro del CITSmart
 
 CITSmart ofrece un canal de comunicación entre el solicitante (Smart Portal) y
 el técnico (área de solicitud de servicio/ticket) vía mensaje (correo
 electrónico). Esta comunicación tiene por objeto facilitar la resolución de un
-llamado. Este conocimiento reúne información pertinente a la configuración del
+ticket. Este conocimiento reúne información pertinente a la configuración del
 servicio de mensajería.
+
+
+Antes de empezar
+--------------
+
+Es necesario configurar la cuenta de correo electrónico (SMTP) de antemano (ver elemento relacionado).
 
 Procedimiento
 -----------------
 
 1.  Para que el servicio de mensajería esté disponible dentro del CITSmart, es
-    necesario establecer el parámetro 417 con el número del ID del modelo de
+    necesario establecer el parámetro 417 con el número del ID de la plantilla de
     correo electrónico que contenga algunas variables para poder ser enviado a
     mensajería;
 
@@ -33,9 +38,10 @@ Procedimiento
          del ticket.
 
 
-
 Relacionado
 -------
+
+[Configurar cuenta de correo electrónico](/es-es/citsmart-platform-8/platform-administration/email-settings/configuration.html)
 
 [La área de trabajo del service desk](/es-es/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
