@@ -4,12 +4,12 @@ Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los
-tipos de Elemento de Configuración.
+tipos de Elemento de Configuración (EC).
 
 Antes de empezar
 --------------------
 
-Para el registro del tipo de ítem de configuración es necesario registrar
+Para el registro del tipo de elemento de configuración es necesario registrar
 previamente la característica.
 
 Procedimiento
