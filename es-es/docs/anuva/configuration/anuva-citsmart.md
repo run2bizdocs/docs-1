@@ -3,26 +3,16 @@ Title: Disponer Anuva en la interfaz CITSmart
 
 Anuva ya se integra nativamente al CITSmart, entonces es muy fácil añadirla a su entorno.
 
-Procedimiento
------------
+## Procedimiento
+
 1. Con acceso de administrador, acceda a la pantalla de parámetros del CITSmart;
+2. Cambiar el valor del parámetro “402 Anuva Assistant - External URL” para http://<nombre-de-su-workspace>.anuvaassistant.com
+3. Cambiar el valor del parámetro “441 Anuva Assistant - Conversation API” para http://<nombre-de-su-workspace><sigla-idioma>.anuvaassistant.com/webhooks/rest/webhook y hacer clic en "Guardar"
+4. Cambiar el valor del parámetro “442 Anuva Assistant - Parameters API” para http://<nombre-de-su-workspace><sigla-idioma>.anuvaassistant.com/conversations/
 
-2. Cambiar el valor del parámetro “402 Anuva Assistant - External URL” 
-para http://<Su-Instancia>.anuvaassistant.com
-
-3. Cambiar el valor del parámetro “441 Anuva Assistant - Conversation API” 
-para http://< Su-Instancia ><sigla-idioma>.anuvaassistant.com/webhooks/rest/webhook 
-y hacer clic en "Guardar"
-
-4. Cambiar el valor del parámetro “442 Anuva Assistant - Parameters API” 
-para http://< Su-Instancia ><sigla-idioma>.anuvaassistant.com/conversations/
-
-!!! Abstract "NOTA"
+!!! note "NOTA"
     
-    Para la abreviatura de los idiomas, utilice EN (Inglés) ES (Español) y PT (Portugués-Brasil).
-   
-!!! Abstract "NOTA"
-
+    Para la abreviatura de los idiomas, utilice EN (Inglés) y PT (Portugués-Brasil).
     Si estos parámetros no están disponibles, actualice su versión de CITSmart.
    
  
