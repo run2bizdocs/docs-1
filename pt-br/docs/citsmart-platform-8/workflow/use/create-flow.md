@@ -15,8 +15,8 @@ Procedimento
 3.  Na aba “Dados do Fluxo” é necessário preencher os dados obrigatórios: nomear
     o fluxo (seu identificador interno, deve ser informado sem espaço, acentos e
     caracteres especiais); o processo a que está vinculado (o fluxo estará
-    vísivel apenas para o processo a que está vinculado) e a opção para permitir
-    a rebertura de um serviço independentemente das configurações de grupo.
+    visível apenas para o processo a que está vinculado) e a opção para permitir
+    a reabertura de um serviço independentemente das configurações de grupo.
     Também é possível visualizar qual versão o fluxo se encontra.
 
 4.  Na aba “Diagrama” é apresentada a ferramenta para desenhar o fluxo inserindo os
