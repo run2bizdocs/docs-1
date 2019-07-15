@@ -25,7 +25,7 @@ instalar o guacamole-client, uma vez que o CITSmart utiliza apenas a daemon do G
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
 
-3. Baixar o binário (.jar) do [encoder de vídeo][2] - que tem a função de compilar os vídeos oriundos das sessões;
+3. Baixar o binário (.jar) do encoder de vídeo (na central de downloads do portal do parceiro) - que tem a função de compilar os vídeos oriundos das sessões;
 
 4. Copiar o enconder de vídeo para o servidor;
 
@@ -62,7 +62,6 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é acessar remota
 [Implementar o CITSmart Inventory][6]
 
 [1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
-[2]:images/citsmart-guacd-encoder.jar.zip
 [3]:https://www.tightvnc.com/
 [4]:/pt-br/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
 [5]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
