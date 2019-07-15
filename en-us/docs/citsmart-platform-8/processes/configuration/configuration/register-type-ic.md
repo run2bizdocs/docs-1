@@ -8,7 +8,7 @@ deleting the types of Configuration Item (CI).
 Before getting started
 --------------------------
 
-To register the type of configuration item, it's necessary to previously
+To register the type of configuration item, it is necessary to previously
 register the characteristic.
 
 Procedure
@@ -17,7 +17,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Configuration
     Management \> Configuration Item \> Type of Configuration Item;
 
-2.  Click on "New" button;
+2.  Click on "New";
 
 3.  Complete the fields available;
 
