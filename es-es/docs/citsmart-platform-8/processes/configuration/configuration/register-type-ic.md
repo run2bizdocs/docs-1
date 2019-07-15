@@ -4,7 +4,7 @@ Description: Ofrece acciones diversas, como, incluir, cambiar y borrar los tipos
 
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar los
-tipos de Elemento de Configuración (EC).
+tipos de Elemento de Configuración.
 
 Antes de empezar
 --------------------
@@ -18,7 +18,7 @@ Procedimiento
 1.  Acceder al menú principal Procesos \> Gestión de la Configuración \> Ítem de
     Configuración \> Tipo elemento de Configuración;
 
-2.  Haga clic en el botón "Nuevo";
+2.  Haga clic en "Nuevo";
 
 3.  Completar los campos disponibles;
 
