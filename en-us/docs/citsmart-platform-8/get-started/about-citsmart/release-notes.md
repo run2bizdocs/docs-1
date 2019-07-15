@@ -3,6 +3,20 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.1 (2019/07/15)
+
+Welcome to the Citsmart Version 8.0.1.1. This release contains the following fixes.
+
+|Problem|Description|
+|-------|-----------|
+|4425|[My 218] - Error saving request with questionnaire that has validator in the flow.|
+|4426|[My 222] - When validating the registration of a questionnaire, the fields of the type radio or combo are not saving the options.|
+|4604|[My 710] - Error in external knowledge requesting login and password.|
+|4552|[My 589] - When you access the user registration screen and select a user and click on save and refresh the page, you get automatically logged with the user you have selected.|
+|4650|[My 686] - When you make approvals of tickets via token by e-mail, you are directed to a CITSmart page in the EDGE/MOZILA/CHROME browser, where the information is appearing in English even with the parametrization in Portuguese.|
+|4168|[My 001] - Error while viewing a ticket by advanced search.|
+|4596|[My 705] - Verifying error in deadline calculation for tickets.|
+
 ## Version 8.0.1.0 (2019/06/28)
 
 Welcome to Citsmart Version 8.0.1.0. The Version 8.0.1.0 of Citsmart presents the following improvements:
