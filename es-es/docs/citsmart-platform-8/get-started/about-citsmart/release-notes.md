@@ -3,6 +3,20 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.1.1 (2019/07/15)
+
+Bienvenidos a Citsmart Versión 8.0.1.1. Esta versión contiene las siguientes correcciones.
+
+|Problema|Descripción|
+|--------|-----------|
+|4425|[My 218] - Error al guardar la solicitud con el cuestionario que tiene validador en el flujo.|
+|4426|[My 222] - Al validar el registro de un cuestionario, los campos del tipo radio o combo no registran las opciones.|
+|4604|[My 710] - Error en el conocimiento externo solicitando login y contraseña.|
+|4552|[My 589] - Cuando accede a la pantalla de registro de usuario y selecciona un usuario y hace clic en guardar y actualizar la página, se inicia sesión automáticamente con el usuario seleccionado.|
+|4650|[My 686] - Cuando realiza aprobaciones de tickets de token por correo electrónico, se le dirige a una página de CITSmart en el navegador EDGE/MOZILA/CHROME donde la información aparece en inglés incluso con la parametrización en portugués.|
+|4168|[My 001] - Error al ver un ticket por búsqueda avanzada.|
+|4596|[My 705] - Verificar error en el cálculo de la fecha límite para tickets.|
+
 ## Versión 8.0.1.0 (2019/06/28)
 
 Bienvenidos a Citsmart Versión 8.0.1.0. La versión 8.0.1.0 de Citsmart presenta las siguientes mejoras:
