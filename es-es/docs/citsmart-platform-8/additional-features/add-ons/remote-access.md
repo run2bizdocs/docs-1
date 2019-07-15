@@ -25,7 +25,7 @@ instalar el guacamole-client, ya que el CITSmart utiliza sólo la daemon del Gua
     /usr/local/sbin/guacd -b 0.0.0.0 > /var/log/guacd.log 2>&1
     ```
 
-3. Descargar el binario (.jar) del [encoder de vídeo][2] - que tiene la función de compilar los vídeos provenientes de las sesiones;
+3. Descargar el binario (.jar) del encoder de vídeo (en el centro de descargas del portal de socios) - que tiene la función de compilar los vídeos provenientes de las sesiones;
 
 4. Copiar el encoder de vídeo al servidor;
 
