@@ -31,7 +31,7 @@ Procedimento
         Para acessar essas opções clicar uma vez na conexão, clicar no ícone de propriedades. É possível identificar a conexão (ex. aprovado) e indicar uma Condição, Ação ou Estado. [Ver Construir Expressões][2].
 	
 
-5.  As propriedas de um elemento podem ser definidas ao clicar duas
+5.  As propriedades de um elemento podem ser definidas ao clicar duas
     vezes no elemento e em seguida no ícone apresentado ao lado do mesmo (ícone de propriedades).
     Defina os dados desta propriedade ao informar os dados necessários em cada uma das
     abas da tela de propriedade. Aqui também é liberado vincular um conhecimento
@@ -41,7 +41,7 @@ Procedimento
     !!! Abstract "ATENÇÃO"
 
         A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão, questionário ou formulario neuro) que será aplicado ao serviço.
+        padrão, questionário ou formulário neuro) que será aplicado ao serviço.
         Porém, caso não ocorra a vinculação de nenhum template de
         solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
         configurações de um formulário padrão, habilitado a vinculação de item de
