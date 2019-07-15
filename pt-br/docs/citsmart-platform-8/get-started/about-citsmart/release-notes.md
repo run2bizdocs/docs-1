@@ -8,6 +8,7 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 Bem-vindos ao Citsmart Versão 8.0.1.1. Esta versão apresenta as seguintes correções.
 
 |Problema|Descricão|
+|--------|---------|
 |4425|[My 218] - Erro ao gravar solicitação com questionário que possua validador no fluxo.|
 |4426|[My 222] - Ao validar o cadastro de um questionário os campos do tipo rádio ou combo não estão gravando as opções.|
 |4604|[My 710] - Erro nos conhecimentos externos solicitando login e senha.|
