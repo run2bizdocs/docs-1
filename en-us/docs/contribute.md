@@ -64,7 +64,7 @@ The creation of an user on the Github platform is free.
 
 Markdown allows users without programming language knowledge to write documents in HTML format. It's a simple language made for end users.
 
-Follow our [Markdown writing guide](https://docs.citsmart.com/pt-br/markdown.html) to find out how to write our documents.
+Follow our [Markdown writing guide](https://docs.citsmart.com/en-us/markdown.html) to find out how to write our documents.
 
  
 
