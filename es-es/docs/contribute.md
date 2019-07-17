@@ -12,7 +12,7 @@ Gracias por acceder a la página de contribución de CITSmart Docs.
 
  
 
-Una de las formas de contribuir, es editando documentos existentes en nuestro repositorio. La sugerencia de pequeños errores técnicos o gramaticales son bastante comunes utilizando este método simple y rápido.
+Una de las formas de contribuir es editando documentos existentes en nuestro repositorio. La sugerencia de pequeños errores técnicos o gramaticales son bastante comunes utilizando este método simple y rápido.
 
 Para empezar:
 
@@ -64,7 +64,7 @@ La creación de un usuario en la plataforma Github es gratuita.
 
 El markdown permite que los usuarios sin conocimientos en lenguaje de programación puedan escribir documentos en formato HTML. Es un lenguaje simple para usuarios finales.
 
-Siga nuestro [guía de escrita en Markdown](https://docs.citsmart.com/pt-br/markdown.html) para descubrir cómo escribir nuestros documentos.
+Siga nuestro [guía de escrita en Markdown](https://docs.citsmart.com/es-es/markdown.html) para descubrir cómo escribir nuestros documentos.
 
  
 
