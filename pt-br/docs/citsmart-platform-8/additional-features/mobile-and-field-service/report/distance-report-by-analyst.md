@@ -13,7 +13,7 @@ Para o relatório ser visualizado é necessário importar o relatório
 disponibilizado na seção de Anexo.
 
 No aplicativo mobile CITSmart Experience o usuário deverá setar a flag “Disponível”
-(APP CITSMART \> Página Inicial \> [Conexão] \> Editar \> Disponível ) para
+(APP CITSMART > Página Inicial > [Conexão] > Editar > Disponível ) para
 iniciar a contagem de Km.
 
 Ao final dos atendimentos o usuário deverá desabilitar a flag “Disponível”, pois
