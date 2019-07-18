@@ -30,7 +30,7 @@ Procedimento
     da rotina e o conteúdo da rotina, onde será descrito o contexto da rotina a
     ser executada na ferramenta);
     
-    Exemplo de conteúdo "Clase Java":
+    Exemplo de conteúdo "Classe Java":
     
     ```java
     br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
