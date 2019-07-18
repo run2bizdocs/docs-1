@@ -28,7 +28,7 @@ Procedure
     SQL]; status; cron expression that defines the routine execution time and
     the context of the routine to be executed in the system);
     
-    Example of "Clase Java" content:
+    Example of "Class Java" content:
     ```html
     br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
