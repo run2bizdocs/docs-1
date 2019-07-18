@@ -1,4 +1,4 @@
-Title: Gerenciamento ágil Simple
+Title: Simple Agile Management
 
 # Simple Agile Management
 
