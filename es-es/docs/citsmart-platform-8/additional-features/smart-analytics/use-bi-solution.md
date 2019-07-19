@@ -1,6 +1,6 @@
 title: Usar Smart Analytcs (BI) para generar informes
 Description: Analizar datos en su instancia, donde es posible elaborar innumerables posibilidades de gráficos, paneles y tablas con informaciones de datos mensurables.
-# Usar Smart Analytcs (BI) para generar informes
+# Usar Smart Analytics (BI) para generar informes
 
 
 Según la Wikipedia Business Inteligence “Se denomina inteligencia empresarial, inteligencia 
