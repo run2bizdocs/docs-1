@@ -18,7 +18,7 @@ Procedure
 
 1.  In order for the messaging service to be available within CITSmart, it is
     necessary to set the parameter 417 with the ID number of the email template
-    that contains some variables to be sent to the messaging;
+    that has some variables to be sent to the messaging;
 
 2.  Below are the keys for sending email:
 
