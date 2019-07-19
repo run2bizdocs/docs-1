@@ -1,6 +1,6 @@
 title: Using Smart Analytcs (BI) to generate reports
 Description: Analyze data in your instance where you can elaborate countless possibilities of graphs, panels and tables with measurable data information.
-# Using Smart Analytcs (BI) to generate reports
+# Using Smart Analytics (BI) to generate reports
 
 According to Wikipedia, Business Inteligence "comprises the strategies and 
 technologies used by enterprises for the data analysis of business information. 
