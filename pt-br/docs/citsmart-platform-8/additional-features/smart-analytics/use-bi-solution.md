@@ -1,6 +1,6 @@
 title: Usar o Smart Analytcs (BI) para gerar relatórios
 Description: Analisar dados em sua instância onde é possível elaborar inúmeras possibilidades de gráficos, painéis e tabelas com informações de dados mensuráveis.
-# Usar o Smart Analytcs (BI) para gerar relatórios
+# Usar o Smart Analytics (BI) para gerar relatórios
 
 
 Segundo o site Wikipedia Business Inteligence “refere-se ao processo de coleta,
