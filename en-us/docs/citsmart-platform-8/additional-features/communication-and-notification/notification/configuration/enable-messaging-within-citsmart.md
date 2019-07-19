@@ -1,5 +1,5 @@
 title: Enable messaging within CITSmart
-Description: ITSmart provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
+Description: It provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
 # Configuring messaging within CITSmart
 
 CITSmart provides a communication channel between the requester (Smart Portal)
