@@ -4,7 +4,7 @@ Description: It provides a communication channel between the requester (Smart Po
 
 CITSmart provides a communication channel between the requester (Smart Portal)
 and the technician (service/ticket request area) through message (email). This
-communication aims to facilitate the resolution of a call. This knowledge
+communication aims to facilitate the resolution of a ticket. This knowledge
 gathers information pertinent to the configuration of the messaging service.
 
 
