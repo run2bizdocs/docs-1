@@ -1,4 +1,4 @@
-title: Habilitar la mensajería dentro del CITSmart
+title: Configurar la mensajería dentro del CITSmart
 Description: Ofrece un canal de comunicación entre el solicitante (Smart Portal) y el técnico (área de solicitud de servicio/ticket) vía mensaje (correo electrónico).
 # Configurar mensajería dentro del CITSmart
 
