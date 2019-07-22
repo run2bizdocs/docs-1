@@ -1,4 +1,4 @@
-title: Enable messaging within CITSmart
+title: Configuring messaging within CITSmart
 Description: It provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
 # Configuring messaging within CITSmart
 
