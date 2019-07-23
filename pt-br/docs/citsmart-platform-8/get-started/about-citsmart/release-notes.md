@@ -3,6 +3,16 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.1.2 (2019/07/20)
+
+Bem-vindos ao Citsmart Versão 8.0.1.2. Esta versão apresenta as seguintes correções.
+
+|Problema|Descricão|
+|--------|---------|
+|4730|Erro ao criar um ticket pelo Smart Portal quando o mesmo não possui Neuro ou Questionário|
+|4537|Erro na sincronização do LDAP|
+|4733|Lentidão no Smart Portal quando existe conhecimentos relacionados|
+
 ## Versão 8.0.1.1 (2019/07/15)
 
 Bem-vindos ao Citsmart Versão 8.0.1.1. Esta versão apresenta as seguintes correções.
