@@ -44,7 +44,7 @@ FDM Structure
  
  FDM is organized to work on a flexible model where different teams can
  execute their work using various management structures and standards 
- while maintaining synchronization with the client's objectives. 
+ while maintaining synchronization with the customer's objectives. 
  
  ![Structure](img/us-fdm-fig-03@2x.png)
  
