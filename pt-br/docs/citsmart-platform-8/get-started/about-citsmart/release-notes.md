@@ -13,7 +13,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.2. Esta versão apresenta as seguintes corr
 |4537|Erro na sincronização do LDAP|
 |4733|Lentidão no Smart Portal quando existe conhecimentos relacionados|
 
-`A partir da versão 8.0.1.2 foi inserido o parâmetro “454 - Exibir a aba de conhecimentos do smart portal apenas quando houver conteúdo” esse parâmetro controla a exibição da Aba Conhecimentos  no Smart Portal somente quando existir conhecimentos vinculados à Atividade, caso não exista, o sistema não exibe a aba.`
+A partir da versão 8.0.1.2 foi inserido o parâmetro “454 - Exibir a aba de conhecimentos do smart portal apenas quando houver conteúdo” esse parâmetro controla a exibição da Aba Conhecimentos  no Smart Portal somente quando existir conhecimentos vinculados à Atividade, caso não exista, o sistema não exibe a aba.
 
 
 ## Versão 8.0.1.1 (2019/07/15)
