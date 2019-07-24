@@ -3,6 +3,18 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.2 (2019/07/20)
+
+Welcome to the Citsmart Version 8.0.1.2. This version presents the following fixes.
+
+|Problem|Description|
+|-------|-----------|
+|4730|Error creating a ticket through Smart Portal when it has no Neuro or Questionnaire|
+|4537|Error in the LDAP synchronization|
+|4733|Slowness in Smart Portal when there is knowledge related|
+
+From version 8.0.1.2 it was inserted the parameter “454 - Display the smart portal knowledge tab only when there is content” this parameter controls the display of the Knowledge Tab in Smart Portal only when there is knowledge linked to the Activity, if it does not exist, the system does not display the tab.
+
 ## Version 8.0.1.1 (2019/07/15)
 
 Welcome to the Citsmart Version 8.0.1.1. This release contains the following fixes.
