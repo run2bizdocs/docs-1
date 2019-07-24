@@ -9,7 +9,7 @@ Bienvenido a Citsmart Versión 8.0.1.2. Esta versión tiene las siguientes corre
 
 |Problema|Descripción|
 |--------|-----------|
-|4730|Error al crear un ticket a través de Smart Portal cuando no tiene Neuro o Cuestionario|
+|4730|Error al crear un ticket a través del Smart Portal cuando no tiene Neuro o Cuestionario|
 |4537|Error de sincronización LDAP|
 |4733|Lentidud en el Smart Portal cuando hay conocimiento relacionado|
 
