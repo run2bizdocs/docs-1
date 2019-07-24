@@ -6,4 +6,4 @@ Bem-vindo ao Centro de Documentação do CITSmart. Aqui você encontrará inform
 
 Clique no menu acima para entrar na árvore de documentação dos nossos produtos.
 
-Interface de pesquisa acessível através de teclas de atalho (F ou S).
+:abc: Interface de pesquisa acessível através de teclas de atalho (F ou S).
