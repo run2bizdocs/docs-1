@@ -6,4 +6,4 @@ Welcome to the CITSmart Documentation Center. Here you will find useful informat
 
 Click the menu above to enter the documentation tree for our products.
 
-Search interface accessible through hotkeys (F or S).
+:abc: Search interface accessible through hotkeys (F or S).
