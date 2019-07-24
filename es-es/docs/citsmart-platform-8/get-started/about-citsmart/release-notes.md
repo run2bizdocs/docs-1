@@ -3,6 +3,18 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.1.2 (2019/07/20)
+
+Bienvenido a Citsmart Versión 8.0.1.2. Esta versión tiene las siguientes correcciones.
+
+|Problema|Descripción|
+|--------|-----------|
+|4730|Error al crear un ticket a través de Smart Portal cuando no tiene Neuro o Cuestionario|
+|4537|Error de sincronización LDAP|
+|4733|Lentidud en el Smart Portal cuando hay conocimiento relacionado|
+
+Desde la versión 8.0.1.2 se insertó el parámetro “454 - Mostrar la pestaña de conocimiento del smart portal solo cuando hay contenido” este parámetro controla la visualización de la Pestaña de Conocimiento en el Smart Portal solo cuando hay conocimiento vinculado a la Actividad, si no existe, el sistema no muestra la pestaña.
+
 ## Versión 8.0.1.1 (2019/07/15)
 
 Bienvenidos a Citsmart Versión 8.0.1.1. Esta versión contiene las siguientes correcciones.
