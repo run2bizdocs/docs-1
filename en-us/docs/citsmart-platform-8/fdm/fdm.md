@@ -19,18 +19,18 @@ for simplicity.
 Stages for deployment
 ------------------------
 
-For greater effectiveness, FDM steps were developed organized
-and based on fundamental management:
+For greater effectiveness, FDM steps were developed organized and based on fundamental 
+management:
 
 -   **Organizational Change**
 
 People are the main pillar of any institution and changes can often be uncomfortable
-for most, therefore, it is important to map the key users of the new system and engage 
+for most. Therefore, it is important to map the key users of the new system and engage 
 them to become internal disseminators of new solution.
 
 -   **Communication**
 
-It is important that communication happens in the right time and is directed to the
+It is important that communication happens in the right time and be directed to the
 right people, so bottlenecks, risks and any other negative impact factor can be 
 treated and mitigated proactively.
 
@@ -43,7 +43,7 @@ FDM Structure
 ----------------
  
  FDM is organized to work on a flexible model where different teams can
- execute their work using various management structures and standards 
+ execute their work using several management structures and standards 
  while maintaining synchronization with the customer's objectives. 
  
  ![Structure](img/us-fdm-fig-03@2x.png)
@@ -51,7 +51,7 @@ FDM Structure
 FDM Artifacts
 ----------------
  
- The document templates used, and artifacts generated in the FDM application,
+ The document templates used and artifacts generated in the FDM application
  listed below, are essential for the traceability and measurement of results
  achieved using the methodology. 
  
