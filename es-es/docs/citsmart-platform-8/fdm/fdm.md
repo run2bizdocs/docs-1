@@ -35,7 +35,7 @@ otro factor de impacto negativo puede ser tratado y mitigado proactivamente.
 
 -   **Proyecto de Implementación**
 
-Para la gestión de proyectos utilizamos y nos inspira en las metodologías ágiles y
+Para la gestión de proyectos nos inspiramos y utilizamos las metodologías ágiles y
 de gestión de proyectos ya consolidadas en el mercado.
 
 Estructura de la FDM
