@@ -59,12 +59,12 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |3178|Verificar que a pop-up “Unidade” dentro da tela de “Tempo de atendimento”  está abrindo com padrão incorreto.|
 
 **Nota:**
-```A partir da versão 8.0.1.2 foi inserido o parâmetro “454 - Exibir a aba de conhecimentos do Smart Portal apenas quando houver conteúdo” esse parâmetro controla a exibição da aba “Conhecimentos” no Smart Portal somente quando existir conhecimentos vinculados à Atividade, caso não exista, o sistema não exibe a aba.
+
+A partir da versão 8.0.1.2 foi inserido o parâmetro “454 - Exibir a aba de conhecimentos do Smart Portal apenas quando houver conteúdo” esse parâmetro controla a exibição da aba “Conhecimentos” no Smart Portal somente quando existir conhecimentos vinculados à Atividade, caso não exista, o sistema não exibe a aba.
 
 Na versão 8.0.1.3 foi criado o parâmetro “452 - Continuar na tela de Ticket após salvar?” esse parâmetro, quando habilitado verifica a permissão do usuário em executar um ticket e possibilita a permanência em tela.
 
 Na versão 8.0.1.3 foi criado o parâmetro “451 - Página de redirecionamento após salvar o Ticket no Centro de Experiência” que permite informar a página que o usuário deseja retornar quando ocorrer uma ação no Centro de Experiência.
-```
 
 ## Versão 8.0.1.2 (2019/07/20)
 
