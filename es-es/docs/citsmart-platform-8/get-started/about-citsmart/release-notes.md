@@ -44,13 +44,13 @@ Bienvenido a Citsmart Versión 8.0.1.3. Esta versión tiene las siguientes corre
 |4315|Comprobar la posibilidad de eliminar la información "¿Cómo puedo ayudarlo?" de las ventanas de chat cuando el servicio ya ha comenzado.|
 |4572|Cuando mueve un elemento de un Sprint a otro en Simple, se mueve a una lista archivada.|
 |4533|[Chat] - Problemas al interactuar con la Anuva.|
-|4535|[Chat] - Cambiar la etiqueta "Solicitud" a "Ticket" que aparece en el chat..|
+|4535|[Chat] - Cambiar la etiqueta "Solicitud" a "Ticket" que aparece en el chat.|
 |4532|Intercambiar frases que se muestran en la pop-up del chat.|
 |4587|Error en Simple al registrar un nuevo Sprint - con usuarios.|
 |3868|Comprobar el salto de layout con "problema" con título largo.|
-|4595|[Portafolio]: Error al intentar guardar un nuevo registro de servicio.|
+|4595|[Portafolio]: Error al intentar guardar un nuevo registro de servicio|
 |4529|[Tiempo de Atención]: Tiempo de atención del tipo "cliente" no muestra el valor de SLA correcto.|
-|852|No mostrar en la pantalla de parámetros elementos que ya se muestran en las pantallas de configuración.|
+|852|No mostrar en la pantalla de parámetros elementos que ya se muestran en las pantallas de configuración|
 |4536|Cambio del widget "Anuva" en la configuración del Centro de Experiencia.|
 |3660|En el registro de usuarios, al buscar el contribuyente por la identificación brasileña CPF, con las máscaras correctas que contienen puntos y guiones, no se muestra ningún resultado.|
 |4570|Error al acceder a la pantalla de tickets en una base de instalación.|
