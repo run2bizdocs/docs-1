@@ -36,7 +36,7 @@ Bienvenido a Citsmart Versión 8.0.1.3. Esta versión tiene las siguientes corre
 |4526|[My 481] - Comprobar falla de conexión HTTPS en el puerto 443.|
 |4728|Cambio de etiqueta del formato "Nº" a "NO".|
 |4540|[My 577] - Error de traducción en la pantalla de registro de grupo.|
-|4600Error al insertar un archivo adjunto y luego eliminarlo de la pantalla de Gestión de Cambio (el campo del archivo adjunto desaparece).|
+|4600|Error al insertar un archivo adjunto y luego eliminarlo de la pantalla de Gestión de Cambio (el campo del archivo adjunto desaparece).|
 |2845|Notificaciones que aparecen por duplicado.|
 |4771|Al acceder a la pantalla del ticket a través del chat de Smart Chat y avanzar el flujo finalizando, el servicio presenta falla.|
 |4317|[Chat] - Comprobar que los mensajes no se puedan intercambiar entre los asistentes.|
