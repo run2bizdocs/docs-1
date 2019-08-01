@@ -3,6 +3,68 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.3 (2019/07/31)
+
+Welcome to Citsmart Version 8.0.1.3. This release has the following fixes and improvements:
+
+|Item|Description|
+|--------|---------|
+|4763 |Correction in the language displayed in the Knowledge Portal.|
+|3720 |Correction in the webservice of updateStatus.|
+|4541 |Correction in the SSO Integration ITSM.|
+|4522 |Creation of the option to remain in attendance screen after registering the ticket.|
+|3869 |Check if it is possible to link "change" duplicated.|
+|4598 |Correction in the comment search for SQLServer in the ticket screen.|
+|1355 |Correction in the use of "anchors" in the knowledge base.|
+|4754 |Correction when saving images in the Knowledge Base. |
+|4748 |Correction in the internationalization of reports.|
+|4742 |Correction in the installation of flow designs.|
+|3637 |[ITSM 9752] - System does not load graphics in Availability Management.|
+|4729 |[MY-804] - Failed to access Simple on Mobile CITSmart Experience application.|
+|4836 |Error in expressions when importing flow.|
+|4674 |Check Simple checklist that does not count the complete one.|
+|4585|[Access Profile - Oracle] [Clean Base]: Error clicking save button in the Access Profile registration.|
+|4523|Parametrize the redirect page after saving a Ticket in the Experience Center.|
+|4756|Correction in redirect behavior of the knowledge creation screen.|
+|4035|Internationalization Error - Ticket screen is being translated into French.|
+|4422|[ITSM 461] - When opening a tab containing an attachment in a ticket registration, the system attaches the file to another ticket.|
+|4136|Unhandled error when trying to create ticket.|
+|2358|Error saving in Original version a flow that we have renamed.|
+|3696|[Smart Portal] - Verify that the application is changing the language when switching service display.|
+|3672|The "Clear" button is not working in the Report of USTs Use in the Contract Management functionality.|
+|4287|[ITSM 347] - Translation error in English reports.|
+|4526|[My 481] - Check HTTPS connection failure on port 443.|
+|4728|Label change from format “Nº” to “NO”.|
+|4540|[My 577] - Translation error in group registration screen.|
+|4600|Error inserting an attachment and then removing it from the Change Management screen (attachment field disappears).|
+|2845|Notifications that appear in duplicate.|
+|4771|The attendance is failing when accessing the ticket screen via Smart Chat and advancing the flow competed.|
+|4317|[Chat] - Verify that messages cannot be exchanged between attendants.|
+|4543|[Chat - Ticket] - Check the possibility to open the Ticket execution screen via chatbox.|
+|4315|Check the possibility of removing the information "How can I help you" from chat when the service has already started.|
+|4572|When moving an item from one Sprint to another in Simple, it is moved to an archived list.|
+|4533|[Chat] - Problems interacting with Anuva.|
+|4535|[Chat] - Change the label "Request" to "Ticket" that appears inside the chat.|
+|4532|Change phrases displayed in chat popup.|
+|4587|Error in Simple when registering a new Sprint - with users.|
+|3868|Check layout break with "problem" with long title.|
+|4595|[Portfolio]: Error trying to save a new service registration.|
+|4529|[Time of Attendance]: "Customer" time not showing correct SLA value.|
+|852|Do not display on the parameter screen items that are already displayed on configuration screens.|
+|4536|“Anuva” widget change in the Experience Center configuration.|
+|3660|In the user registration, when searching the contributor by the Brazilian ID CPF - with the correct masks containing points and hyphen - no result is displayed.|
+|4570|Error accessing ticket screen on an installation basis.|
+|4546|[Chat]: Replace message icon hint inside ticket screen.|
+|4117|Adjust the label "SmartDecisions" in Access and Permission to "Smart Decisions".|
+|3178|Verify that the "Drive" popup within the "Time of Attendance" screen is opening with incorrect pattern.|
+
+**Note:**
+
+In version 8.0.1.3 the parameter “452 - Continue in the Ticket screen after saving?” was created. This parameter, when enabled, checks the user's permission to execute a ticket and allows the screen to remain..
+
+In version 8.0.1.3 the parameter “451 - Redirect page after saving the ticket in the Experience Center” was created, which allows informing the page that the user wants to return when an action in the Experience Center occurs.
+
+
 ## Version 8.0.1.2 (2019/07/20)
 
 Welcome to the Citsmart Version 8.0.1.2. This version presents the following fixes.
