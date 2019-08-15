@@ -32,7 +32,8 @@ Procedimento
     realizado o atendimento;
 
     !!! warning "ATENÇÃO"
-    A visualização de determinado ticket, além de estar condicionada às permissões do grupo pode estar atrelada também ao parâmetro 435 - que condiciona a visão no app apenas à ticket delegados para o usuário autenticado.
+
+        A visualização de determinado ticket, além de estar condicionada às permissões do grupo pode estar atrelada também ao parâmetro 435 - que condiciona a visão no app apenas à ticket delegados para o usuário autenticado.
 
 3.  Clicar no botão "Executar solicitação" e em seguida "Outras informações"
     (está opção só estará disponível se existir um questionário vinculado a
