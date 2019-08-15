@@ -31,20 +31,23 @@ Procedimento
     tela com os dados da solicitação, inclusive um mapa do local onde será
     realizado o atendimento;
 
+    !!! warning "ATENÇÃO"
+    A visualização de determinado ticket, além de estar condicionada às permissões do grupo pode estar atrelada também ao parâmetro 435 - que condiciona a visão no app apenas à ticket delegados para o usuário autenticado.
+
 3.  Clicar no botão "Executar solicitação" e em seguida "Outras informações"
     (está opção só estará disponível se existir um questionário vinculado a
     atividade do ticket). Preencher os dados referentes a execução da
     solicitação e clicar em "Salvar".
-    
-    !!! Abstract "ATENÇÃO"
-        
-        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não                   poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart                     Experience.
 
-    
+    !!! warning "ATENÇÃO"
+
+        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart                     Experience.
+
+
     !!! Abstract "REGRA"
-  
+
         Não é possível vincular uma IC e base de conhecimento pelo mobile GO.    
-    
+
 4.  Se desejar adicionar algum arquivo clicar na aba "Anexos";
 
 5.  Se desejar adicionar alguma nota, clicar na aba "Notas". Relatar a ocorrência referente ao ticket e a data que a mesma ocorreu.         É possível também registrar o tempo gasto para a solução da ocorrência. É disponibilizado a visualização deste relato pelo               solicitante e o envio do mesmo para o e-mail dele ao selecionar as opções "Visível ao solicitante" e "Enviar ao e-mail". Clicar em       "Salvar".
