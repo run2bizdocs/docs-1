@@ -1,6 +1,6 @@
-Title: Software e Donwload
+Title: Software e Download
 
-# Software e Donwload
+# Software e Download
 
 ## Pacotes
 
