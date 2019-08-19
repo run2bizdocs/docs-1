@@ -1,6 +1,6 @@
-Title: Software download
+Title: Software and Download
 
-# Software download
+# Software and Download
 
 
 !!! warning
