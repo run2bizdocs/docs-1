@@ -58,12 +58,8 @@ FDM Artifacts
 | Artifact                                  | Date       | Version |
 |-------------------------------------------|------------|--------|
 | Methodology Checklist                     | 05/21/2019 | V.1    |
-| Risk management (template)                | 05/21/2019 | V.1    |
 | Lessons Learned (template)                | 05/21/2019 | V.1    |
 | Communication Matrix (template)           | 05/21/2019 | V.1    |
-| Risk Management Matrix (template)         | 05/21/2019 | V.1    |
-| Satisfaction survey project (template)    | 05/21/2019 | V.1    |
-| Satisfaction Survey Support (template)    | 05/21/2019 | V.1    |
 | Communication Plan (template)             | 05/21/2019 | V.1    |
 | Project Plan (template)                   | 05/21/2019 | V.1    |
 | Registro de reunião (template)            | 05/21/2019 | V.1    |
