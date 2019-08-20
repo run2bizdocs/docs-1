@@ -60,12 +60,8 @@ alcançados com o uso da metodologia.
 | Artefato                                  | Data       | Versão |
 |-------------------------------------------|------------|--------|
 | Checklist da metodologia                  | 21/05/2019 | V.1    |
-| Gerenciamento de riscos (template)        | 21/05/2019 | V.1    |
 | Lições Aprendidas (template)              | 21/05/2019 | V.1    |
 | Matriz de Comunicação (template)          | 21/05/2019 | V.1    |
-| Matriz Gestao de Riscos (template)        | 21/05/2019 | V.1    |
-| Pesquisa de satisfaçao projeto (template) | 21/05/2019 | V.1    |
-| Pesquisa de satisfaçao suporte (template) | 21/05/2019 | V.1    |
 | Plano de Comunicação (template)           | 21/05/2019 | V.1    |
 | Plano de Projeto (template)               | 21/05/2019 | V.1    |
 | Registro de reunião (template)            | 21/05/2019 | V.1    |
