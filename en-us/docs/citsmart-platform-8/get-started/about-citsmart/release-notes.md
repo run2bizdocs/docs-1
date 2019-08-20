@@ -3,6 +3,49 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.4 (2019/08/20)
+
+Welcome to CITSmart Version 8.0.1.4. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5067|Knowledge Base - [My 1009] - Check attachment exchange in knowledge draft.|
+|4418|Ticket Management - The Ticket List search filter Status field is not searching as requested.|
+|5066|Knowledge Base - Nullpointer when versioning new knowledge containing attachment.|
+|5000|Okta Integration - Create/Update user data during SAML authentication.|
+|5146|Ticket Management - Check Null Pointer error when wending email of occurrence.|
+|5078|Smart Portal - [My 1279] - System does not validate mandatory questionnaire field|
+|5068|Smart Portal - [My 1190] - Check error while viewing reclassified ticket history |
+|3904|Problem Management - Verify that no PDF could be generated from the problem form accessed|
+|5042|Chat - When you open the Chat and then minimize it, the scroll bar no longer works.|
+|5108|Problem Management - Error registering problem|
+|5076|CMDB - Inappropriate behavior in changing the characteristics of a CI.|
+|4866|Reports- Internationalization for date presented in ACC report.|
+|4178|Ticket Management - Kanban per attendant does not open the interface.|
+|4839|Chat - Fix integration of the SmartChat with the Knowledge Base and Portfolio.|
+|5061|Snow - Verify that integration with Snow does not return inventory data.|
+|5044|Chat – Chat error when you try to talk to with an attendant.|
+|4385|Ticket Management - [My 389] - Security failure in attached files.|
+|5073|Knowledge Base - Error downloading attachment from public and external knowledge.|
+|1504|Knowledge Base Report - Knowledge Base Maintenance Report showing layout errors in both .XLS and .PDF.|
+|4787|Ticket Management - Check email template keys that return no information.|
+|3881|Knowledge Base - Unhandled error when trying to insert Knowledge Base containing content longer than 20.000 characters.|
+|4514|Ticket Management - Verify that the application is not validating the requirement of time of attendance overdue.|
+|4978|Experience Center - Failure in the widget “My Request”.|
+|4786|Ticket Management - Error sending occurrences, the system sends copy to the outbox.|
+|4740|Ticket Management - [My 810] - Translation failure in the satisfaction survey options when it opens in private browser.|
+|4599|Installation - Script errors when uploading CITSmart on zero basis.|
+|5001|Problem Management - [My 1168] - Verify that attachments cannot be viewed on the problem preview screen.|
+|3192|Continuity Management - Access permission error when user has permission.|
+|4825|Neuro - Unable to change parameters in Oracle database.|
+|3612|Ticket Management - Remove 'Deadline' information when SLA is 'TO COMBINE' at the time of execution.|
+|4966|Smart Decision - [My 1120] - Check for inappropriate behavior when linking 2 Smart Decision specific widgets.|
+|4934|Problem Management - Failed to return proactive problem conclusion registration|
+|4542|Experience Center - [My 560] - My Request widget breaking description layout|
+|5002|Ticket Management - [My 1166] - Verify that CITSmart is not displaying attachments on the ticket screen.|
+|4482|Ticket Management - Ticket Description "Breaking" modal when presented via "View" option triggered from floating menu.|
+|2107|Problem Management - Verify that when the root cause response and workaround is large, and the application brings the whole misconfigured popup on the TICKET screen in the 'Workaround' option|
+
 ## Version 8.0.1.3 (2019/07/31)
 
 Welcome to Citsmart Version 8.0.1.3. This release has the following fixes and improvements:
