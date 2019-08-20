@@ -151,8 +151,8 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 ### Configuração do System Properties
 
-No bash do CLI executar os comandos abaixo para criação das propriedades do
-CITSmart.
+Para criação das propriedades do CITSmart, é necessário executar os comandos 
+abaixo no CLI ou editar o XML.
 
 #### CLI
 
@@ -172,8 +172,9 @@ CITSmart.
 /system-property=citsmart.evm.enable:add(value=true)
 /system-property=citsmart.inventory.enable:add(value=true)
 /system-property=rhino.scripts.directory:add(value="")
+/system-property=jboss.as.management.blocking.timeout:add(value="600")
 /system-property=citsmart.port.updateparameters:add(value="9000")
-/system-property name="citsmart.inventory.pagelength" (value="100")
+/system-property=citsmart.inventory.pagelength:add(value="100")
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
 ```
 
@@ -197,6 +198,8 @@ CITSmart.
     <property name="citsmart.inventory.enable" value="false"/>
     <property name="rhino.scripts.directory" value=""/>
     <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="citsmart.port.updateparameters" value="9000"/>
+    <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
 </system-properties>
 ```
@@ -555,10 +558,10 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 
 ## Geração de certificado auto assinado SSL
 
-Para o Wildfly será gerado um certificado auto assinado.
-Caso possua um certificado é importante utilizá-lo.
+Para o Wildfly será gerado um certificado auto assinado. 
+Caso possua um certificado, siga os os próximos passos.
 
-1. Conectar no servidor do Wildfly.
+### Certificado auto assinado:
 
     Criando alias novo com DNS (exemplo itsm.citsmart.com):
 
@@ -578,6 +581,25 @@ Caso possua um certificado é importante utilizá-lo.
     /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
+### Certificado próprio:
+
+    Gerar pkcs12 com base na sua chave publica (.crt) e privada (.key)
+    
+    ```
+    openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
+    ```    
+    
+    Após gerar o pkcs12 (.p12) você gera o arquivo keystore (jks) que será adiconado ao wildfly.
+    
+    ```
+    keytool -importkeystore -srckeystore abc.p12 \
+            -srcstoretype PKCS12 \
+            -destkeystore abc.jks \
+            -deststoretype JKS    
+    ``` 
+
+### Para ambos tipos de certificados:
+
     Adicionando certificado no cacerts do Java:
 
     ```
@@ -590,7 +612,7 @@ Caso possua um certificado é importante utilizá-lo.
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
-2. Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
+Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
 
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
@@ -601,7 +623,7 @@ Caso possua um certificado é importante utilizá-lo.
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
     ```
 
-3. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
