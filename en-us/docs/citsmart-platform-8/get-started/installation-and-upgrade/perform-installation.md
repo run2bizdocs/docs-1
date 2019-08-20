@@ -581,13 +581,13 @@ For the Wildfly it will be created a self-signed certificate. If you have a cert
 
 ### Proper certificate:
 
-    Gerar pkcs12 com base na sua chave publica (.crt) e privada (.key)
+    Create pkcs12 based on its public key (.crt) and private (.key)
     
     ```
     openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
     ```    
     
-    Após gerar o pkcs12 (.p12) você gera o arquivo keystore (jks) que será adiconado ao wildfly.
+    After creating the pkcs12 (.p12) you create the file keystore (jks) that will be added to the wildfly.
     
     ```
     keytool -importkeystore -srckeystore abc.p12 \
