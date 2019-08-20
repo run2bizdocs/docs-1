@@ -582,7 +582,7 @@ Exporting certificate to extension .cer:
 ### Proper certificate:
 
 Create pkcs12 based on its public key (.crt) and private (.key)
-    
+
 ```sh
 openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
 ```    
