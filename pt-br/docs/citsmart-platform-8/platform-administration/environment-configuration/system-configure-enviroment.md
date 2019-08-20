@@ -17,6 +17,11 @@ Procedimento
 
 2.  Para alterar umas das imagens (logo início, logo portal, logo sistema e logo
     relatório), clicar no botão "Selecionar uma imagem";
+    
+!!! info "IMPORTANTE"
+
+    O campo Logo sistema obedecerá ao parâmetro 387."
+    
 
 3.  Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
 
