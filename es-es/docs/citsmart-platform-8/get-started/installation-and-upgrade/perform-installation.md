@@ -150,18 +150,17 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 ### Configuración del System Properties
 
-En el bash del CLI ejecute los comandos siguientes para creación de las propiedades del
-CITSmart.
+Para crear propiedades CITSmart, se debe ejecutar los siguientes comandos en la CLI o editar el XML.
 
 #### CLI
 
 ```java
-/system-property=mongodb.host:add(value="mongodb.citsmart.com")
+/system-property=mongodb.host:add(value="citmongo")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
 /system-property=mongodb.password:add(value="admin")
 /system-property=citsmart.protocol:add(value="http")
-/system-property=citsmart.host:add(value="itsm.citsmart.com")
+/system-property=citsmart.host:add(value="my.citsmart.com")
 /system-property=citsmart.port:add(value="8080")
 /system-property=citsmart.context:add(value="citsmart")
 /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
@@ -171,8 +170,10 @@ CITSmart.
 /system-property=citsmart.evm.enable:add(value=true)
 /system-property=citsmart.inventory.enable:add(value=true)
 /system-property=rhino.scripts.directory:add(value="")
+/system-property=jboss.as.management.blocking.timeout:add(value="600")
 /system-property=citsmart.port.updateparameters:add(value="9000")
-/system-property name="citsmart.inventory.pagelength"(value="100")
+/system-property=citsmart.inventory.pagelength:add(value="100")
+/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
 ```
 
 #### XML
@@ -195,6 +196,8 @@ CITSmart.
     <property name="citsmart.inventory.enable" value="false"/>
     <property name="rhino.scripts.directory" value=""/>
     <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="citsmart.port.updateparameters" value="9000"/>
+    <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
 </system-properties>
 ```
@@ -554,12 +557,12 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
     ```
 
 
-## Generación del certificado auto-firmado SSL
+## Generación del certificado autofirmado SSL
 
-Para el Wildfly se va a generar un certificado auto-firmado.
-Caso usted tenga un certificado, es importante utilizarlo.
+Para el Wildfly se generará un certificado autofirmado. 
+Si tiene un certificado, siga los siguientes pasos.
 
-1. Conectar en el servidor del Wildfly.
+### Certificado autofirmado:
 
     Creando nuevo alias con DNS (ejemplo itsm.citsmart.com):
 
@@ -579,7 +582,26 @@ Caso usted tenga un certificado, es importante utilizarlo.
     /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
     ```
 
-    Adicionando certificado no cacerts do Java:
+### Certificado proprio:
+
+    Generar pkcs12 con base en su clave publica na sua chave publica (.crt) y privada (.key)
+    
+    ```
+    openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
+    ```    
+    
+    Después de generar el pkcs12 (.p12) usted genera el archivo keystore (jks) que se agregará al wildfly.
+    
+    ```
+    keytool -importkeystore -srckeystore abc.p12 \
+            -srcstoretype PKCS12 \
+            -destkeystore abc.jks \
+            -deststoretype JKS    
+    ``` 
+
+### Para ambos tipos de certificados:
+
+    Adicionando certificado en el cacerts del Java:
 
     ```sh
     /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
@@ -591,7 +613,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
     ```
 
-2. Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute los comandos siguientes:
+Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute los comandos siguientes:
 
     ```sh
     /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
@@ -602,7 +624,7 @@ Caso usted tenga un certificado, es importante utilizarlo.
     /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
     ```
 
-3. Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
+Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
 
     ```sh
     [standalone\@localhost:9990 /] :reload
