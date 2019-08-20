@@ -3,6 +3,50 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.1.4 (2019/08/20)
+
+Bem-vindos ao CITSmart Versão 8.0.1.4. Esta versão apresenta as seguintes correções:
+
+|Item|Descricão|
+|--------|---------|
+|5067|Base de Conhecimento - [My 1009] - Verificar troca de anexos no rascunho de conhecimento.|
+|4418|Gerência de Ticket - Filtro de pesquisa da Lista de Tickets o campo Status não está buscando conforme solicitado.|
+|5066|Base de Conhecimento - Nullpointer ao versionar um novo conhecimento que contenha anexo.|
+|5000|Integração Okta - Criar/Atualizar dados de usuários durante a autenticação SAML.|
+|5146|Gerência de Ticket - Verificar erro de Null Pointer ao enviar e-mail de ocorrência.|
+|5078|Smart Portal - [My 1279] - Sistema não valida campo de questionário obrigatório|
+|5068|Smart Portal - [My 1190] - Verificar erro ao visualizar histórico de ticket reclassificado |
+|3904|Gerência de Problema - Verificar que não foi possível gerar PDF no formulário de problema acessado|
+|5042|Chat - Quando se abre o Chat e depois minimiza, a barra de rolagens deixa de funcionar.|
+|5108|Gerência de Problema - Erro ao registrar problema|
+|5076|CMDB - Comportamento Inadequado na alteração das características de um IC.|
+|4866|Relatórios- Internacionalização referente a data apresentada no relatório ACC.|
+|4178|Gerência de Ticket - Kanban por atendente não abre a interface.|
+|4839|Chat - Corrigir integração do SmartChat com Base de Conhecimento e Portfólio.|
+|5061|Snow - Verificar que a integração com Snow não retorna os dados do inventário.|
+|5044|Chat – Erro em Chat Quando Tenta falar com atendente.|
+|4385|Gerência de Ticket - [My 389] - Falha de segurança em arquivos anexados.|
+|5073|Base de Conhecimento - Erro ao fazer download de anexo de um conhecimento público e externo.|
+|1504|Relatório de Base de Conhecimento - Relatório de Manutenções em Bases de Conhecimento apresentando erros no layout, tanto .XLS, quanto no .PDF.|
+|4787|Gerência de Ticket - Verificar chaves de modelo de e-mail que não retornam nenhuma informação.|
+|3881|Base de Conhecimento - Erro não tratado ao tentar inserir Base de Conhecimento contendo conteúdo de mais de 20.000 caracteres.|
+|4514|Gerência de Ticket - Verificar que a aplicação não está validando o quesito tempo de atendimento vencido.|
+|4978|Centro de Experiência - Falha no widget “My Request”.|
+|4786|Gerência de Ticket - Erro no envio de ocorrências, o sistema envia cópia para a caixa de saída.|
+|4740|Gerência de Ticket - [My 810] - Falha de tradução nas opções da pesquisa de satisfação quando é aberto na janela anônima.|
+|4599|Instalação - Erros de script ao subir o CITSmart em base zerada.|
+|5001|Gerência de Problema - [My 1168] - Verificar que não está sendo possível visualizar os anexos na tela de visualização de problema.|
+|3192|Gerência de Continuidade - Erro de permissão de acesso quando o usuário possui permissão.|
+|4825|Neuro - Não é possível alterar parâmetros em banco Oracle.|
+|3612|Gerência de ticket - Retirar a informação 'Data limite' quando o SLA for 'A COMBINAR' no momento de executar.|
+|4966|Smart Decision - [My 1120] - Verificar comportamento inadequado ao vincular 2 widgets específicos de Smart Decision.|
+|4934|Gerência de Problema - Falha ao retornar registro de encerramento de problema proativo|
+|4542|Centro de Experiência - [My 560] - Widget My Request quebrando layout de descrição|
+|5002|Gerência de ticket - [My 1166] - Verificar que o CITSmart não está apresentando os anexos na tela de ticket.|
+|4482|Gerência de ticket - Descrição do Ticket "quebrando" modal quando apresentado via opção "Visualizar" acionada do menu flutuante.|
+|2107|Gerência de Problema - Verificar que quando a resposta da causa raiz e solução contorno e grande a aplicação traz a pop-up toda desconfigurada na tela de TICKET na opção 'Solução contorno|
+
+
 ## Versão 8.0.1.3 (2019/07/31)
 
 Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes correções e melhorias:
