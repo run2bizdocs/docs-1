@@ -5,7 +5,8 @@ Es posible importar un rango de datos al CITSmart Platform, esto puede ayudar en
 
 
 
-# Relacionado
+## Relacionado
+
 
 [Importar colaborador][1]
 
