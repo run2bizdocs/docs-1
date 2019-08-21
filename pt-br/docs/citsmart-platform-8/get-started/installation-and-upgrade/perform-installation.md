@@ -609,25 +609,25 @@ Adicionando certificado no cacerts do Java:
 ** Lembrar de aplicar as permissões para o dono do wildfly e java jdk **
 
 ```sh
-    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
 ```
 
 Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
 
-    ```sh
-    /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-    /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
-    /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
-    /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
-    ```
+```sh
+/subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
+/subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
+/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
+/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
+```
 
 Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
 
-    ```sh
-    [standalone\@localhost:9990 /] :reload
-    ```
+```sh
+[standalone\@localhost:9990 /] :reload
+```
 
 ## Iniciando as soluções seguindo dependências
 
