@@ -3,7 +3,7 @@ Title: Software and Download
 # Software and Download
 
 
-!!! warning
+!!! info "IMPORTANT"
 
     From this point, it will be necessary a subscription.
     The CITSmart Enterprise installation requires an operating system GNU/Linux with kernel equal or higher than 3.10.
@@ -13,7 +13,7 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 
 ### Wildfly Application Server
 
-!!! warning
+!!! note "NOTE"
 
     In this knowledge we'll use PostgreSQL.
     You can download the package of Oracle or MSSQL and make the changes as described for the PostgreSQL.
@@ -31,7 +31,7 @@ https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 
 ### MongoDB Database Server
 
-!!! warning
+!!! note "NOTE"
 
     In this knowledge we'll use the distribution GNU/Linux CentOS Linux release 7.5.1804.
     Download the MongoDB as its distribution.
@@ -45,7 +45,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 ### PostgreSQL/Oracle/MSSQL Database Server
 
-!!! warning
+!!! note "NOTE"
 
     In the knowledge, we'll use the PostgreSQL with download of official repository.
 
@@ -71,13 +71,13 @@ The version homologate of the Apache Solr is 6.4.2.
 
 ## Package Configuration
 
-!!! warning
+!!! note "NOTE"
 
     We'll use the directory /opt to install all packages to CITSmart Enterprise.
 
     GNU/Linux with minimum installation should be configured in the 4 machines.
 
-    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the           package management.
+    In this example, we'll use CentOS Linux release 7.5.1804. If you want to use other distribution, change the commands as in the package management.
 
 After all the necessary download, we can start the installation of the solution CITSmart Enterprise.
 
@@ -134,7 +134,8 @@ After all the necessary download, we can start the installation of the solution 
 
 ### PostgreSQL Database Server
 
-!!! warning
+!!! warning "ATTENTION"
+
     To this knowledge we'll use the version 9.5 of the PostgreSQL.
     We can install PostgreSQL with the steps in this official manual: https://www.postgresql.org/download/linux/redhat/
 
