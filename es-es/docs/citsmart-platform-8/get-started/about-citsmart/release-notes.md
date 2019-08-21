@@ -5,7 +5,7 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 ## Versión 8.0.1.4 (2019/08/20)
 
-Bem-vindos ao CITSmart Versão 8.0.1.4. Esta versão apresenta as seguintes correções:
+Bienvenido a CITSmart Versión 8.0.1.4. Esta versión tiene las siguientes correcciones:
 
 |Item|Descripción|
 |--------|---------|
