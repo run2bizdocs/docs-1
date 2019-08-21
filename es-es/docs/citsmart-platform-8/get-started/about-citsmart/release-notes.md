@@ -3,6 +3,49 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.1.4 (2019/08/20)
+
+Bem-vindos ao CITSmart Versão 8.0.1.4. Esta versão apresenta as seguintes correções:
+
+|Item|Descripción|
+|--------|---------|
+|5067|Base de Conocimiento - [My 1009] - Comprobar el intercambio de archivos adjuntos en el borrador del conocimiento.|
+|4418|Gestión de Ticket - Filtro de búsqueda de la Lista de Tickets, el campo Estado no se busca según lo solicitado.|
+|5066|Base de Conocimiento - Nullpointer al versionar nuevos conocimientos que contienen adjuntos.|
+|5000|Integración Okta - Crear/Actualizar datos de usuario durante la autenticación SAML.|
+|5146|Gestión de Ticket - Comprobar error de Null Pointer al enviar un correo electrónico de ocurrencia.|
+|5078|Smart Portal - [My 1279] - Sistema no valida el campo de cuestionario obligatorio|
+|5068|Smart Portal - [My 1190] - Comprobar error al ver el historial de tickets reclasificados |
+|3904|Gestión de Problema - Comprobar que no se puede generar PDF en el formulario del problema accesado|
+|5042|Chat - Cuando se abre el Chat y luego lo minimiza, la barra de desplazamiento ya no funciona.|
+|5108|Gestión de Problema - Error al registrar problema|
+|5076|CMDB - Comportamiento inapropiado al cambiar las características de un EC.|
+|4866|Informes - Internacionalización para la fecha presentada en el informe de ACC.|
+|4178|Gestión de Ticket - Kanban por asistente no abre la interfaz.|
+|4839|Chat - Corregir integración del SmartChat con la Base de Conocimiento y Portafolio.|
+|5061|Snow - Comprobar que la integración con Snow no devuelve datos de inventario.|
+|5044|Chat – Error en el chat cuando intenta hablar con un asistente.|
+|4385|Gestión de Ticket - [My 389] - Falla de seguridad en archivos adjuntos.|
+|5073|Base de Conocimiento - Error al descargar el archivo adjunto del conocimiento público y externo.|
+|1504|Informe de Base de Conocimiento - Informe de Mantenimiento en Base de Conocimiento que presenta errores en el layout, tanto en .XLS cuanto en .PDF.|
+|4787|Gestión de Ticket - Comprobar las claves de plantilla de correo electrónico que no devuelven información.|
+|3881|Base de Conocimiento - Error no tratado al intentar insertar Base de Conocimiento que contiene contenido de más de 20.000 caracteres.|
+|4514|Gestión de Ticket - Comprobar que la aplicación no esté validando el requisito de tiempo de atención expirado.|
+|4978|Centro de Experiencia - Falla en el widget “My Request”.|
+|4786|Gestión de Ticket - Error en enviar ocurrencias, el sistema envía una copia a la bandeja de salida.|
+|4740|Gestión de Ticket - [My 810] - Falla de traducción en las opciones de encuesta de satisfacción cuando se abren en una navegación privada.|
+|4599|Instalación - Errores de script al cargar CITSmart en base cero.|
+|5001|Gestión de Problema - [My 1168] - Comprobar que los archivos adjuntos no se puedan ver en la pantalla de vista previa del problema.|
+|3192|Gestión de Continuidad - Error de permiso de acceso cuando el usuario tiene permiso.|
+|4825|Neuro - No se pueden cambiar los parámetros en la base Oracle.|
+|3612|Gestión de ticket - Retirar la información de 'Fecha límite' cuando el SLA esté 'A COMBINAR' en tiempo de ejecución.|
+|4966|Smart Decision - [My 1120] - Comprobar el comportamiento inapropiado al vincular 2 widgets específicos de Smart Decision.|
+|4934|Gestión de Problema - Error al retornar el registro proactivo de terminación de problemas|
+|4542|Centro de Experiencia - [My 560] - Widget My Request quebrando layout de descripción|
+|5002|Gestión de ticket - [My 1166] - Comprobar que CITSmart no presenta archivos adjuntos en la pantalla de ticket.|
+|4482|Gestión de ticket - Descripción del ticket Modal "Rompiendo" cuando se presenta a través de la opción "Ver" activada desde el menú flotante.|
+|2107|Gestión de Problema - Comprobar que cuando la respuesta a la causa raíz y la solución temporal sea grandes, la aplicación muestra pop-up mal configurado en la pantalla TICKET en la opción 'Solución temporal'|
+
 ## Versión 8.0.1.3 (2019/07/31)
 
 Bienvenido a Citsmart Versión 8.0.1.3. Esta versión tiene las siguientes correcciones y mejoras:
