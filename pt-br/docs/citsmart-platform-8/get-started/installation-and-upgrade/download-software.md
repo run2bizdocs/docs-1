@@ -51,7 +51,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 ### Servidor de Banco de Dados PostgreSQL/Oracle/MSSQL
 
 
-!!! Abstract "ATENÇÃO"
+!!! note "NOTA"
 
     No manual será utilizado PostgreSQL com download do repositório oficial.
 
