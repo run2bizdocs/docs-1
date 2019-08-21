@@ -7,7 +7,7 @@ A funcionalidade permite registrar em comentários todos os passos da execução
 
 ## Antes de começar
 
-Para executar o ticket além da permissão para efetuar a operação e o cadastro prévio é necessário anteriormente, habilitar o parâmetro 298.
+Para executar o ticket além da permissão para efetuar a operação e o cadastro prévio é necessário anteriormente, habilitar os parâmetros 251, 252, 253 e 298.
 Para o envio do comentário via e-mail é necessário [Configurar o serviço de mensageria][1] .
 
 ## Procedimento
