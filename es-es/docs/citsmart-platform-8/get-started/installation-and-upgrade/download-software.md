@@ -62,28 +62,18 @@ Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/m
 
 *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
-Servidor de Indexación Apache Solr
--------------------------------------
+### Servidor de Indexación Apache Solr
 
+La versión homologadaa del Apache Solr es la 6.4.2.
 
-!!! note "NOTA"
-
-    La versión homologada del Apache Solr es la 6.4.2.
-
-    Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>
-
-    Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
-
+:arrow_down: Este paquete (Solr 6.4.2) y los archivos de configuración (Knowledge Base Confs) se pueden descargar desde el área de relación del socio, en el item *Installation Components*.
 
 ### Descarga de los archivos assets para CITSmart
 
+:arrow_down: Este paquete (Assets) se puede descargar desde el área de relación del socio, en el item *Installation Components*.
 
-<http://files.citsmart.com/assets.tar.gz>
 
-
-Configuración de los Paquetes
-------------------------
-
+## Configuración de los Paquetes
 
 !!! note "NOTA"
 
