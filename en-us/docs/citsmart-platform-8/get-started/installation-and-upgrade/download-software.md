@@ -63,11 +63,11 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql
 
 The version homologate of the Apache Solr is 6.4.2.
 
-:arrow_down: This package and the configuration files can be downloaded in the partner relationship area.
+:arrow_down: This package (Solr 6.4.2) and the configuration files (Knowledge Base Confs) can be downloaded in the partner relationship area, in the item *Installation Components*.
 
 ### Download of assets files to CITSmart
 
-:arrow_down: This package can be downloaded in the partner relationship area.
+:arrow_down: This package (Assets) can be downloaded in the partner relationship area, in the item *Installation Components*.
 
 ## Package Configuration
 
