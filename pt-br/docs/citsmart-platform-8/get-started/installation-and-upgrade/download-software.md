@@ -69,7 +69,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 A versão homologada do Apache Solr é a 6.4.2.
 
-:arrow_down: Este pacote e os arquivos de configuração podem ser baixados na área de relacionamento com o parceiro.
+:arrow_down: Este pacote (Solr 6.4.2) e os arquivos de configuração (Knowledge Base Confs) podem ser baixados na área de relacionamento com o parceiro, no item *Installation Components*.
 
 ### Download dos arquivos assets para o CITSmart
 
