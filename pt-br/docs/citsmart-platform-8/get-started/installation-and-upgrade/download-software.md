@@ -73,7 +73,7 @@ A versão homologada do Apache Solr é a 6.4.2.
 
 ### Download dos arquivos assets para o CITSmart
 
-:arrow_down: Este pacote pode ser baixado na área de relacionamento com o parceiro.
+:arrow_down: Este pacote (Assets) pode ser baixado na área de relacionamento com o parceiro, no item *Installation Components*.
 
 
 ## Configuração dos Pacotes
