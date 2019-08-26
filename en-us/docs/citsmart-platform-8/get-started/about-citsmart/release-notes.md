@@ -45,6 +45,13 @@ Welcome to CITSmart Version 8.0.1.4. This release has the following fixes:
 |5002|Ticket Management - [My 1166] - Verify that CITSmart is not displaying attachments on the ticket screen.|
 |4482|Ticket Management - Ticket Description "Breaking" modal when presented via "View" option triggered from floating menu.|
 |2107|Problem Management - Verify that when the root cause response and workaround is large, and the application brings the whole misconfigured popup on the TICKET screen in the 'Workaround' option|
+|5289|[ITSM 1384] - System flow does not return link of events.|
+|5290|Failure when creating a ticket through the portal for a non-approval service and when parameter 65 is not entered.|
+
+**Note:**
+
+In version 8.0.1.4 the “Description” field of the service request attendance screen will be blocked after the creation of a ticket.
+
 
 ## Version 8.0.1.3 (2019/07/31)
 
