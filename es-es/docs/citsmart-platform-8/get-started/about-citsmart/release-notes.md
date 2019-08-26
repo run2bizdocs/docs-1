@@ -45,6 +45,12 @@ Bienvenido a CITSmart Versión 8.0.1.4. Esta versión tiene las siguientes corre
 |5002|Gestión de ticket - [My 1166] - Comprobar que CITSmart no presenta archivos adjuntos en la pantalla de ticket.|
 |4482|Gestión de ticket - Descripción del ticket Modal "Rompiendo" cuando se presenta a través de la opción "Ver" activada desde el menú flotante.|
 |2107|Gestión de Problema - Comprobar que cuando la respuesta a la causa raíz y la solución temporal sea grandes, la aplicación muestra pop-up mal configurado en la pantalla TICKET en la opción 'Solución temporal'|
+|5289|[ITSM 1384] - Flujo del sistema no devuelve el enlace de eventos.|
+|5290|Falla al crear un ticket por el portal para un servicio sin aprobación y que no se ingresó el parámetro 65.|
+
+**Nota:**
+
+En la versión 8.0.1.4, el campo "Descripción" de la pantalla de atención de solicitud de servicio se bloqueará después de la creación de un ticket.
 
 ## Versión 8.0.1.3 (2019/07/31)
 
