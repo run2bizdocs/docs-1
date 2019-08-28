@@ -1,5 +1,5 @@
 title:  Configurar ambiente 
-Description: La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor)  
+Description: Facilitar una eventual intervención (corrección) directa en el ambiente (servidor) y cambiar los logos del sistema.
 # Configurar ambiente
 
 La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar 
