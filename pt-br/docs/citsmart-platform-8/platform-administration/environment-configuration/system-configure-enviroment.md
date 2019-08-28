@@ -20,7 +20,7 @@ Procedimento
     
 !!! info "IMPORTANTE"
 
-    O campo Logo sistema obedecerá ao parâmetro 387."
+    O campo Logo sistema obedecerá ao parâmetro 387.
     
 
 3.  Clicar na caixa pontilhada para arrastar um arquivo ou fazer o upload;
