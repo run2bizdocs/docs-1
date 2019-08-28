@@ -16,6 +16,10 @@ Procedure
 
 2.  To change one of the images (start logo, portal logo, system logo and report logo), click on "Select an image";
 
+!!! info "IMPORTANT"
+
+    The field Logo system will obey the parameter 387.
+
 3.  Click on the pointed box to drag a file or make the upload;
 
 4.  Click on "Save";
