@@ -28,13 +28,22 @@ privacidade dos dados de seus clientes por meio de políticas internas e adoçã
 de padrões para garantir a conformidade com os requisitos regulamentares
 internacionais.
 
-Visão geral da arquitetura de nuvem
------------------------------------
+## Visão geral da arquitetura de nuvem
+
+### Cloud
 
 Uma visão geral básica de como funciona a nuvem do CITSmart pode ser vista no
 diagrama abaixo:
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
+
+### On-premises
+
+![Screenshot](images/citsmart-on-premises.jpg)
+
+### INV/EVM
+
+![Screenshot](images/citsmart-inv-evm.jpg)
 
 CITSmart Cloud Security
 -----------------------
