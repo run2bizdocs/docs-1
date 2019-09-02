@@ -558,8 +558,18 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 
 ## Geração de certificado auto assinado SSL
 
-Para o Wildfly será gerado um certificado auto assinado. 
-Caso possua um certificado, siga os os próximos passos.
+Para o Wildfly será gerado um certificado auto assinado. Caso possua um certificado, siga os os próximos passos.
+
+!!! info "DICAS"
+
+    - As senhas utlizadas nesse manual são 123456, favor colocar de sua preferência;
+
+    - Os arquivos de certificado do manual utilizam o sufixo abc, favor colocar de sua preferência;
+
+    - A senha padrão do cacerts é "changeit" e portanto deve ser utilizada para adicionar o arquivo cer;
+
+    - Caso utilize senhas e nomes de arquivos diferentes, alterar antes de executar os comandos.
+
 
 ### Certificado auto assinado:
 
@@ -586,7 +596,7 @@ Exportando certificado para extensão .cer:
 Gerar pkcs12 com base na sua chave publica (.crt) e privada (.key)
     
 ```sh
-openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
+openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12 -name citsmartcloud
 ```    
     
 Após gerar o pkcs12 (.p12) você gera o arquivo keystore (jks) que será adiconado ao wildfly.
@@ -594,8 +604,9 @@ Após gerar o pkcs12 (.p12) você gera o arquivo keystore (jks) que será adicon
 ```sh
 keytool -importkeystore -srckeystore abc.p12 \
         -srcstoretype PKCS12 \
+        -alias "citsmartcloud" \
         -destkeystore abc.jks \
-        -deststoretype JKS    
+        -deststoretype JKS
 ``` 
 
 ### Para ambos tipos de certificados:
@@ -603,7 +614,7 @@ keytool -importkeystore -srckeystore abc.p12 \
 Adicionando certificado no cacerts do Java:
 
 ```sh
-/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "citsmartcloud" -file /opt/wildfly/standalone/configuration/abc.crt
 ```
 
 **Lembrar de aplicar as permissões para o dono do wildfly e java jdk**
