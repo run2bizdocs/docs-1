@@ -1,9 +1,15 @@
-title: Adicionar comentários na execução do ticket
+title: Cadastrar ocorrências referente ao ticket
 Description: Permite registrar eventuais ocorrências referente a execução do ticket.
 
-# Adicionar comentários na execução do ticket
+# Cadastrar ocorrências referente ao ticket
 
-A funcionalidade permite registrar em comentários todos os passos da execução do ticket. Nesta nova versão da funcionalidade de tickets, será disponibilizado um "Editor de texto" para a inserção dos comentários pertinentes.
+A funcionalidade permite registrar em comentários todos os passos da execução do ticket (suas ocorrências). Nesta nova versão da funcionalidade de tickets, será disponibilizado um "Editor de texto" para a inserção dos comentários pertinentes as ocorrências sucedidas.
+
+!!! warning "ATENÇÃO"
+
+    As ocorrências poderão ser alteradas, excluídas ou pesquisadas (por seu conteúdo). Estas ocorrências poderão ser definidas 
+    como públicas ou privadas e é disponibilizado enviar os comentários sobre as mesmas ao e-mail do solicitante do ticket, ao 
+    configurar o serviço de mensageria.
 
 ## Antes de começar
 
@@ -14,15 +20,16 @@ Para o envio do comentário via e-mail é necessário [Configurar o serviço de 
 
 1. Acessar a funcionalidade de Gerenciamento de Tickets navegando pelo menu principal Processos > Gerência de Ticket > Ticket;
 2. Localizar o ticket desejado, pressionar sobre o mesmo e clicar no ícone “Abrir”;
-3. Na área intitulada "Comentários", preencher os campos necessários (tecer o comentário pertinente, registrar a data e tempo gasto na execução do ticket) e clicar no ícone "Adicionar". É possível permitir a visualização destas informações ao solicitante quando selecionar o campo "Público", além de ser possível enviar o comentário por e-mail.
+3. Na área intitulada "Comentários", preencher os campos necessários (tecer o comentário pertinente, registrar a data e tempo gasto na execução do ticket) e clicar no ícone "Adicionar".
 
 !!! note "NOTA"
 
-    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto superior  direito da tela.
+    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto 
+    superior direito da tela.
     
 !!! note "NOTA"
 
-    O sistema também possibilita a pesquisa pelo contéudo dos comentários adicionados.
+    O sistema também possibilita a pesquisa de ticket pelo contéudo dos comentários adicionados.
 
 ## Relacionado
 
