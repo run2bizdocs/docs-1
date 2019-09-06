@@ -3,7 +3,7 @@ Description: Permite registrar eventuais ocorrências referente a execução do 
 
 # Adicionar comentários na execução do ticket
 
-A funcionalidade permite registrar em comentários todos os passos da execução do ticket.
+A funcionalidade permite registrar em comentários todos os passos da execução do ticket. Nesta nova versão da funcionalidade de tickets, será disponibilizado um "Editor de texto" para a inserção dos comentários pertinentes.
 
 ## Antes de começar
 
@@ -18,7 +18,11 @@ Para o envio do comentário via e-mail é necessário [Configurar o serviço de 
 
 !!! note "NOTA"
 
-    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto superior       direito da tela.
+    O histórico de todos os comentários do ticket pode ser visualizado ao clicar na aba “Histórico”, localizado no canto superior  direito da tela.
+    
+!!! note "NOTA"
+
+    O sistema também possibilita a pesquisa pelo contéudo dos comentários adicionados.
 
 ## Relacionado
 
@@ -35,4 +39,4 @@ Para o envio do comentário via e-mail é necessário [Configurar o serviço de 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>06/26/2019
+    <b>Updated:</b>09/06/2019 - Larissa Lourenço
