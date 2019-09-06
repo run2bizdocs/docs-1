@@ -24,9 +24,15 @@ Procedimento
 
 3.  Informar os dados solicitados;
 
+5. Ao criar o ticket para atendimento, o usuário verá uma nova opção (localizada ao lado superior da tela) chamada de *Layout*, esta opção permite ao usuário parametrizar a forma como a tela será apresentada para o atendente, que poderá escolher entre as seguintes possibilidades:
+
+    - **30X70** - O sistema divide a tela em duas partes, do lado esquerdo mostrará 30% da tela e o lado direito 70%;
+    - **50X50** - O sistema divide a tela em duas partes, cada lado (direito e esquerdo) exibirá 50% da tela;
+    - **100%** - O sistema apresenta a tela sem separações.
+
 4.  Preencher os demais dados necessários.
 
-!!! Abstract "DICA"
+!!! abstract "DICA"
 
     O campo “Descrição” é o espaço para que as informações do ticket contenham
     palavras que remetam diretamente a aquele atendimento, sendo objetivas e de
@@ -35,6 +41,11 @@ Procedimento
     pesquisa avançada de um ticket. Além disso, é possível incluir anexos de formatos
     diversos (ex. .pdf, .doc, .png, .jpg, etc.) para ajudar no processo de atendimento.
     A limitação de formatos é definida pelo administrador do sistema.
+    
+!!! note "NOTA"
+
+    Nesta versão da funcionalidade, do lado direito da tela, será possível visualizar o *Toogle*, que permite os menus laterais 
+    se expandirem ou reduzirem, conforme a necessidade do usuário. 
     
 O que fazer a seguir
 ------------------------
@@ -67,5 +78,5 @@ Relacionado
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/16/2019 - Larissa Lourenço
+    <b>Updated:</b>09/06/2019 - Larissa Lourenço
 
