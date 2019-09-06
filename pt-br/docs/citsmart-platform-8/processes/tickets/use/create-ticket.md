@@ -45,7 +45,7 @@ Procedimento
 !!! note "NOTA"
 
     Nesta versão da funcionalidade, do lado direito da tela, será possível visualizar o *Toogle*, que permite os menus laterais 
-    se expandirem ou reduzirem, conforme a necessidade do usuário. 
+    (que anteriormante ficavam do lado esquerdo da tela) se expandirem ou reduzirem, conforme a necessidade do usuário. 
     
 O que fazer a seguir
 ------------------------
