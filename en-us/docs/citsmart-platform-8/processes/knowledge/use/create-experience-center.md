@@ -1,6 +1,6 @@
-title: Create experience center
+title: Creating experience center
 Description: This feature provides a variety of actions, such as including, changing, and deleting the Experience Center.
-# Create experience center
+# Creating experience center
 
 The objective of the Experience Center (EC) is create a portal that the user can customize. When creating this portal, it's possible to customize the layout and the access references most appropriated to the client (as defined in the company's rules), and also make available the addition of videos from Youtube and the creation of Slideshows, within other applicability, in order to ensure an user experience more interactive and intuitive.
 This feature provides a variety of actions, such as including, changing, and deleting the Custom Experience Center.
@@ -45,19 +45,21 @@ Procedure
         
     *Widgets with navigation*
     
-    This structure allows the creation of an Experiment Center with a side menu. Each menu item may contain specific widgets.
+    **This structure allows the creation of an Experiment Center with a side menu. 
+    Each menu item may contain specific widgets.**
     
     -   To add new section, click on the signal "+";
     
     -   Place the mouse on the field "Enter section name" and name it;
     
-    -   It'll be created a field to a new menu, name it;
-    
-    -   To add new menus, click on the signal "+";
+    -   Complete the section name by placing the mouse over the field **Enter 
+        the section name,** then a field will be created for a new menu, name it;
+        
+    -   To add new menus, click on "+"; 
     
     -   To customize the menu, click on the button with the shape of a tool:
     
-        -   Widget: add and customize all of types of widgets available (see table)
+        -   Widget: add and customize all of types of widgets available (see table);
         
         -   Link: complete with the link you want to make available in the menu;
         
@@ -65,13 +67,22 @@ Procedure
         
     *Widgets without navigation*
     
-    This structure allows the creation of an Experience Center only using widgets.
+    **This structure allows the creation of an Experience Center only using widgets**.
     
     -   Click on the signal "+";
     
     -   Choose the layout of the new section;
     
-    -   Choose and customize the widgets available (see table)
+    -   Choose and customize the widgets available (see table).
+    
+    
+!!! note "NOTE"
+
+     When opening a ticket through the experience center, it's possible to configure a system page 
+     to be viewed. It's necessary to set parameter 451 to the URL of the page you want to return, 
+     for example:
+     /pages/experienceCenter/experienceCenter.load#/ec?idExperienceCenter=51 .
+     
     
 6.  Click on "Save".    
 
@@ -104,7 +115,6 @@ Procedure
 | Favorite           | Knowledge  | It presents the list of favorite knowledge.                                  |
 | Indicated          | Knowledge  | It presents the list of knowledge indicated.                                 |
 | Liked              | Knowledge  | It presents the list of knowledge liked.                                     |
-
 
 
 What to do next
