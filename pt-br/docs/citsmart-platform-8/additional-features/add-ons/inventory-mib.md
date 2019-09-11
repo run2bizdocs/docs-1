@@ -35,7 +35,7 @@ Exemplo:
 </IMPRESSORA>
 ```
 
-!!! note "Observações"
+!!! danger "Observações"
 
     1. Os arquivos de layout podem ter qualquer nome. Todos os arquivos da pasta serão interpretados, portanto só poderão existir arquivos XML dentro dela;
     2. Caso exista mais de um layout, pode ser colocado dentro do mesmo arquivo ou em arquivos diferentes. Só deve-se respeitar o formato de XML;
