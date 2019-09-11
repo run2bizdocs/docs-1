@@ -704,8 +704,17 @@ Antes de sair do jboss-cli executar o comando reload para aplicar as alteraçõe
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
     ```
 
+## Browsers suportados
+
+Para o bom funcionamento do sistema, deverá ser utilizado as seguintes versões mínimas dos principais browsers:
+
+- EDGE (versão mínima): Microsoft Edge 42.17134.0/ Microsoft EdgeHTML 17.17134;
+
+- Google Chrome (versão mínima): versão 76.0.3809.132 (versão oficial) 64 bits;
+
+- Mozila Firefox Quantum (versão mínima): 69.0 (64 bits)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Anna Martins
+    <b>Updated:</b>09/11/2019 – Larissa Lourenço
