@@ -176,6 +176,7 @@ abaixo no CLI ou editar o XML.
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property=citsmart.inventory.pagelength:add(value="100")
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
 #### XML
@@ -201,6 +202,7 @@ abaixo no CLI ou editar o XML.
     <property name="citsmart.port.updateparameters" value="9000"/>
     <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+    <property name="snmp.oid.repository.directory" value="/opt/templates"/>
 </system-properties>
 ```
 
