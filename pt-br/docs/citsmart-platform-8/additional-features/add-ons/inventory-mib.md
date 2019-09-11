@@ -2,7 +2,7 @@ Title: Fazer inventário de hardware a partir de MIBs (SNMP)
 
 # Fazer inventário de hardware a partir de MIBs (SNMP)
 
-É possível coletar dados de ativos de hardware, utilizando o protocolo SNMP - via coleta MIBs - e adicionar à informações de um item de configuração no processo de Gerência de Configuração.
+É possível coletar dados de ativos de hardware, utilizando o protocolo SNMP - via coleta de MIBs - e adicionar à informações de um item de configuração no processo de Gerência de Configuração.
 
 ## O que fazer antes
 
