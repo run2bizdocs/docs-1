@@ -21,9 +21,9 @@ To execute the CITSmart Enterprise, we'll download the necessary package, as the
 1. Download the package directly of the official repository through the link: http://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
 2. Download directly the Java JDK8u172 of the official repository jdk-8u172-linux-x64.tar.gz:
 
-       ![Java Download](images/java-download.png)
+      ![Java Download](images/java-download.png)
 
-       Figure 1 - Java download list
+      Figure 1 - Java download list
 
 3. Download the jdbc module for the postgresql.
 
