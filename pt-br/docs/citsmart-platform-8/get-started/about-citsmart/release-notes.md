@@ -3,6 +3,21 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.1.6 (2019/09/11)
+Bem-vindos ao CITSmart Versão 8.0.1.6. Esta versão apresenta as seguintes correções:
+
+|Item|Descricão|
+|--------|---------|
+|5288|Segurança – Não deixar visível a senha de usuários do sistema|
+|5272|Segurança – Não permitir acesso à tela de Scripts sem logar na aplicação|
+
+## Versão 8.0.1.5 (2019/09/02)
+Bem-vindos ao CITSmart Versão 8.0.1.5. Esta versão apresenta as seguintes correções:
+
+|Item|Descricão|
+|--------|---------|
+|5407|Simple – Funcionalidade não permitia baixar os anexos dos cards do Simple|
+
 ## Versão 8.0.1.4 (2019/08/20)
 
 Bem-vindos ao CITSmart Versão 8.0.1.4. Esta versão apresenta as seguintes correções:
