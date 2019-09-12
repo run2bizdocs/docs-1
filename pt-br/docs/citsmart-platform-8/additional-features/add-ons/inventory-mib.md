@@ -22,7 +22,7 @@ Modelo:
                 <CARACTERISTICA-EM-HEXA type="hex">(OID da informação que o valor retornado precisa ser convertido de HEXADECIMAL)</CARACTERISTICA-EM-HEXA>
 </SEU-TIPO-ITEM>
 ```
- 
+
 Exemplo:
 
 ```xml
@@ -35,16 +35,16 @@ Exemplo:
 </IMPRESSORA>
 ```
 
-!!! danger "Observações"
+!!! danger "CUIDADO"
 
     1. Os arquivos de layout podem ter qualquer nome. Todos os arquivos da pasta serão interpretados, portanto só poderão existir arquivos XML dentro dela;
     2. Caso exista mais de um layout, pode ser colocado dentro do mesmo arquivo ou em arquivos diferentes. Só deve-se respeitar o formato de XML;
-    
-!!! exemple "Links úteis"
+
+!!! exemple "LINKS ÚTEIS"
 
     1. http://www.oidview.com/mibs/ - Repositório contendo milhares de MIB’s separado por fabricantes.
     2. http://ireasoning.com/mibbrowser.shtml - Ferramenta MibBrowser que pode auxiliar na coleta das OID’s.
-    
+
 [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
 [3]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
