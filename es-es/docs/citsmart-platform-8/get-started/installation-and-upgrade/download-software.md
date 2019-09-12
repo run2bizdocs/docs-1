@@ -1,7 +1,8 @@
-Title: Descarga y software
+Title: Software y Descarga
 
-# Descarga y software
+# Software y Descarga
 
+## Paquetes
 
 !!! info "IMPORTANTE"
 
@@ -18,7 +19,6 @@ el procedimiento relativo al producto.
 !!! note "NOTA"
 
     En el manual utilizaremos el PostgreSQL.
-
     Usted puede descargar el paquete para Oracle o MSSQL y hacer los cambios
     igualmente descritos para el PostgreSQL.
 
@@ -38,9 +38,7 @@ https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 !!! note "NOTA"
 
       En el manual utilizaremos la distribución GNU/Linux CentOS Linux release
-      7.5.1804.
-      Descargue el MongoDB conforme su distribución.
-      La versión del MongoDB debe ser 3.4.
+      7.5.1804. Descargue el MongoDB conforme su distribución. La versión del MongoDB debe ser 3.4.
 
 Para localizar la descarga conforme su distribución: <https://www.mongodb.com/download-center#community>
 
@@ -53,14 +51,19 @@ Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/m
 
     En el manual utilizaremos PostgreSQL con descarga del repositorio oficial.
 
+   CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha 
+   en el momento de configuración de los paquetes.
+   
+   !!! warning "ATENCIÓN"
+   
+       CITSmart no soporta la versión 9.11 de la base PortgreSQL.
 
-   CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha en el momento de configuración de los paquetes.
+   Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y 
+   mejores prácticas de cada fabricante:
 
-   Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante:
+   *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
-*Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
-
-*MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
+   *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
 ### Servidor de Indexación Apache Solr
 
@@ -138,7 +141,9 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
     })
     ```
 4. Se debe observar el retorno *“Successfully added user”*.  
+
 5. Digite **exit** para salir de la consola del MongoDB.  
+
 6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.  
 
 
@@ -196,17 +201,17 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 la conexión del Wildfly para la base de datos y usuario del CITSmart. Al final del archivo,
 cambiar las líneas:
 
-    Padrão: host all all 127.0.0.1/32 md5   
-    Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
+    Estándar: host all all 127.0.0.1/32 md5   
+    Cambiado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 
 4. Hora de la apertura del listening en el archivo /var/lib/pgsql/9.5/data/postgresql.conf
 
-    Padrão está comentado:
+    Estándar es comentado:
 
     ``` sh
     listen_addresses = 'localhost'
 	```
-	Alterado:
+	Cambiado:
 
     ``` sh
     listen_addresses = ‘0.0.0.0'
