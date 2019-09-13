@@ -7,9 +7,9 @@ Title: Coletar dados de hardware a partir de MIBs (SNMP)
 ## O que fazer antes
 
 - [X] É necessário ter implatanda a versão do CITSmart Inventory 1.2.1.9 ou superior (ver [Realizar a instalação][1]);
-- [X] No arquivo standalone-full.xml deve ser adicionada a propriedade `snmp.oid.repository.directory` contendo o caminho da pasta onde estarão os arquivos xml com o layout;
-- [X] Ter um processo de inverário definido via Gerência de Configuração (ver [Implementar o CITSmart Inventory][2]);
-- [X] Inventariar o item de configuração, via SNMP, para a coleta de MIBs (ver [Configurar conexão inventory][3]);
+- [X] No arquivo standalone-full.xml deve ser adicionada a propriedade `snmp.oid.repository.directory` contendo o caminho da pasta onde estarão os arquivos xml com o layout (Ver [Configuração do System Properties][2]);
+- [X] Ter um processo de inverário definido via Gerência de Configuração (ver [Implementar o CITSmart Inventory][3]);
+- [X] Inventariar o item de configuração, via SNMP, para a coleta de MIBs (ver [Configurar conexão inventory][4]);
 
 
 ## Criar o layout
@@ -46,5 +46,6 @@ Exemplo:
     2. http://ireasoning.com/mibbrowser.shtml - Ferramenta MibBrowser que pode auxiliar na coleta das OID’s.
 
 [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
 [2]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
 [3]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
