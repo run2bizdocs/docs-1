@@ -3,6 +3,31 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.1.7 (2019/09/13)
+
+Bienvenido a CITSmart Versión 8.0.1.7. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5569|[ITSM 1652] – Fallo en el Simple de Problema, Cambio y Lanzamiento al crear un Workspace, las Sprints se sobrescriben.|
+
+## Versión 8.0.1.6 (2019/09/11)
+
+Bienvenido a CITSmart Versión 8.0.1.6. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5288|Seguridad – No hacer visible la contraseña de los usuarios del sistema|
+|5272|Seguridad – No permita el acceso a la pantalla del Script sin iniciar sesión en la aplicación|
+
+## Versión 8.0.1.5 (2019/09/02)
+
+Bienvenido a CITSmart Versión 8.0.1.5. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5407|Simple – La funcionalidad no permitía descargar archivos adjuntos desde tarjetas del Simple|
+
 ## Versión 8.0.1.4 (2019/08/20)
 
 Bienvenido a CITSmart Versión 8.0.1.4. Esta versión tiene las siguientes correcciones:
