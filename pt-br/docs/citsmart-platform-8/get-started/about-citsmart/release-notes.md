@@ -3,6 +3,13 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.1.7 (2019/09/11)
+Bem-vindos ao CITSmart Versão 8.0.1.7. Esta versão apresenta as seguintes correções:
+
+|Item|Descricão|
+|--------|---------|
+|5569|[ITSM 1652] – Falha no Simple de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
+
 ## Versão 8.0.1.6 (2019/09/11)
 Bem-vindos ao CITSmart Versão 8.0.1.6. Esta versão apresenta as seguintes correções:
 
