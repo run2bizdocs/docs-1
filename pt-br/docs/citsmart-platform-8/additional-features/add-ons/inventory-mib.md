@@ -47,5 +47,5 @@ Exemplo:
 
 [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
 [2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
-[2]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
-[3]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
+[3]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
+[4]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
