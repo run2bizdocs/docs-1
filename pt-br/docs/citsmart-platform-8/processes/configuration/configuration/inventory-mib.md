@@ -37,7 +37,7 @@ Exemplo:
 
 ## Implantar o Modelo
 
-Após a criação do modelo é necessário salvá-lo na pasta indicada no parâmetro   `snmp.oid.repository.directory` do servidor de aplicação. Após a implantação do modelo, no momento da execução do inventário a aplicação irá checar os ICs que possuem as MIBs indicadas e automaticamente irá atualizar ativo com as informações coletadas.
+Após a criação do modelo é necessário salvá-lo na pasta indicada no parâmetro   `snmp.oid.repository.directory` do servidor de aplicação. Após a implantação do modelo, no momento da execução do inventário a aplicação irá checar os ICs que possuem as MIBs indicadas e automaticamente irá atualizar os ativos com as informações coletadas.
 
 
 !!! danger "CUIDADO"
