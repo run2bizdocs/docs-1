@@ -12,7 +12,7 @@ Title: Coletar dados de hardware a partir de MIBs (SNMP)
 - [X] Inventariar o item de configuração, via SNMP, para a coleta de MIBs (ver [Configurar conexão inventory][4]);
 
 
-## Criar o layout
+## Criar o Modelo
 
 Modelo:
 
@@ -34,6 +34,11 @@ Exemplo:
                 <CAPACIDADE-ATUAL-TONER>.1.3.6.1.2.1.43.11.1.1.9.1.1</CAPACIDADE-ATUAL-TONER>
 </IMPRESSORA>
 ```
+
+## Implantar o Modelo
+
+Após a criação do modelo é necessário salvá-lo na pasta indicada no parâmetro   `snmp.oid.repository.directory` do servidor de aplicação. Após a implantação do modelo, no momento da execução do inventário a aplicação irá checar os ICs que possuem as MIBs indicadas e automaticamente irá atualizar ativo com as informações coletadas.
+
 
 !!! danger "CUIDADO"
 
