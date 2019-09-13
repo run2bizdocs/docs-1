@@ -3,6 +3,31 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.7 (2019/09/13)
+
+Welcome to CITSmart Version 8.0.1.7. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5569|[ITSM 1652] – Failure in the Simple of Problem, Change and Release when creating a Workspace, the sprints overwrite themselves.|
+
+## Version 8.0.1.6 (2019/09/11)
+
+Welcome to CITSmart Version 8.0.1.6. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5288|Safety – Do not make system users password visible|
+|5272|Safety – Do not allow access to the Script screen without logging in to the application|
+
+## Version 8.0.1.5 (2019/09/02)
+
+Welcome to CITSmart Version 8.0.1.5. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5407|Simple – Functionality did not allow downloading attachments from Simple cards|
+
 ## Version 8.0.1.4 (2019/08/20)
 
 Welcome to CITSmart Version 8.0.1.4. This release has the following fixes:
