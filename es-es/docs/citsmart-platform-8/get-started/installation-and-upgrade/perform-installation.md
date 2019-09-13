@@ -174,6 +174,7 @@ Para crear propiedades CITSmart, se debe ejecutar los siguientes comandos en la 
 /system-property=citsmart.port.updateparameters:add(value="9000")
 /system-property=citsmart.inventory.pagelength:add(value="100")
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
 #### XML
@@ -199,6 +200,7 @@ Para crear propiedades CITSmart, se debe ejecutar los siguientes comandos en la 
     <property name="citsmart.port.updateparameters" value="9000"/>
     <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+    <property name="snmp.oid.repository.directory" value="/opt/templates"/>
 </system-properties>
 ```
 
@@ -562,6 +564,16 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 Para el Wildfly se generará un certificado autofirmado. 
 Si tiene un certificado, siga los siguientes pasos.
 
+!!! info "DICAS"
+
+    - Las contraseñas utilizadas en este manual son 123456, pro favor, poner una de su preferencia;
+
+    - Los archivos de certificados manuales usan el sufijo abc, por favor, poner uno de su preferencia;
+
+    - La contraseña predeterminada para cacerts es "changeit" y, por lo tanto, debe usarse para agregar el archivo cer;
+
+    - Si usa diferentes contraseñas y nombres de archivos, cambie antes de ejecutar los comandos.
+
 ### Certificado autofirmado:
 
 Creando nuevo alias con DNS (ejemplo itsm.citsmart.com):
@@ -617,11 +629,11 @@ Después de generar el certificado, conecte nuevamente en el jboss-cli y ejecute
 
 ```sh
 /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-/subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
+/subsystem=elytron/key-store=citsmartKeyStore:add(path="abc.jks",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
 /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
 /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="abc.jks", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="citsmartcloud")
 ```
 
 Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios.
@@ -674,7 +686,7 @@ Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios
 ### Acesso al CITSmart Enterprise
 
 
-1. Para acceder al CITSmart Enterprise, debemos acceder el IP o DNS y después el puerto y contexto.
+1. Para acceder al CITSmart Enterprise, debemos acceder el IP o dirección (registrado en el DNS) y después el puerto y contexto.
 
     ```sh
     https://example.com:8443/citsmart
@@ -684,7 +696,7 @@ Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios
 
     Primer acceso: Entre con la URL > ```https://example.com:8443/citsmart```
 
-3. Ahora, siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
+3. Siga los 3 pasos de configuración y empiece a usar la solución CITSmart.
 
 ## Implementación del CITSmart Neuro
 
@@ -694,6 +706,15 @@ Antes de salir del jboss-cli, ejecute el comando reload para aplicar los cambios
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
     ```
 
+## Navegadores Soportados
+
+Para el correcto funcionamiento del sistema, se deben utilizar las siguientes versiones mínimas de los principales navegadores:
+
+- EDGE (versión mínima): Microsoft Edge 42.17134.0/ Microsoft EdgeHTML 17.17134;
+
+- Google Chrome (versión mínima): versión 76.0.3809.132 (versión oficial) 64 bits;
+
+- Mozila Firefox Quantum (versión mínima): 69.0 (64 bits)
 
 !!! tip "About"
 
