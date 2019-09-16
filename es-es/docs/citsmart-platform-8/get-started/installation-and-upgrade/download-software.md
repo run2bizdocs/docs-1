@@ -54,12 +54,11 @@ Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/m
    CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha 
    en el momento de configuración de los paquetes.
    
-   !!! warning "ATENCIÓN"
+!!! warning "ATENCIÓN"
    
-       CITSmart no soporta la versión 9.11 de la base PortgreSQL.
+    CITSmart no soporta la versión 9.11 de la base PortgreSQL.
 
-   Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y 
-   mejores prácticas de cada fabricante:
+Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante:
 
    *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
