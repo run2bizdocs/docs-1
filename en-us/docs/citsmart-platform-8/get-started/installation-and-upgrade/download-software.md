@@ -48,13 +48,13 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
     In the knowledge, we'll use the PostgreSQL with download of official repository.
 
-   The CITSmart Enterprise is consistent with PostgreSQL 9.2 and the download will be done when configure the packages.
+The CITSmart Enterprise is consistent with PostgreSQL 9.2 and the download will be done when configure the packages.
    
-   !!! warning "ATTENTION"
+!!! warning "ATTENTION"
        
-       CITSmart doesn't support version 9.11 of the PostgreSQL base.
+     CITSmart doesn't support version 9.11 of the PostgreSQL base.
 
-   It's recommended that the Oracle or MSSQL Installation to be done as the information and best practices of each manufacturer:
+It's recommended that the Oracle or MSSQL Installation to be done as the information and best practices of each manufacturer:
 
    *Oracle:* https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm
 
