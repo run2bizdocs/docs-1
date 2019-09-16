@@ -30,7 +30,9 @@ Procedimento
 | 388 |       ID usuário padrão (Requisição externa)       |                    |               ID usuário padrão (Requisição externa)              |        Não se aplica       |
 | 389 |        ID grupo padrão (Requisição externa)        |                    |                ID grupo padrão (Requisição externa)               |        Não se aplica       |
 | 390 |                ID da unidade padrão                |                    | ID da Unidade que será atribuido ao usuário cadastrado no profile |        Não se aplica       |
-
+| 447 |  ID do modelo de e-mail para notificação de novas mensagens no chat |                    | ID do modelo de e-mail para notificação de novas mensagens no chat |        Não se aplica       |
+| 299 |     Ticket - Ativar troca de mensagens             |       S ou N       | Ativa um ícone de conversa ao lado do número do ticket na fila de atendimento |        Não se aplica       |
+| 448 |    Editor de texto utilizado pela aplicação        |                    | Editor de texto utilizado pela aplicação |        Não se aplica       |
 
 
 Tabela 1 - Lista de parâmetros
