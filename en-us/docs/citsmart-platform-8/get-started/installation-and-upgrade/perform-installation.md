@@ -4,7 +4,7 @@ Title: Perform installation
 
 ## Wildfly Installation Server
 
-1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll 'not be necessary the command execution of the JAVA JDK installation below).
+1. We should decompress the JAVA JDK package in the directory /opt and create a symbolic link as presented in the example below. (If you have already done the installation described in the "Create the citsmart.cfg file" in the same server that the Wildfly will be, it'll not be necessary the command execution of the JAVA JDK installation below).
 
     ```sh
     tar xzvf jdk-8u172-linux-x64.tar.gz -C /opt/
@@ -147,17 +147,18 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 ### Configure system properties
 
-In the CLI bash, execute the commands below to create the CITSmart properties.
+To create CITSmart properties, it is necessary to execute the following commands
+in the CLI or edit the XML.
 
 #### CLI
 
 ```java
-/system-property=mongodb.host:add(value="mongodb.citsmart.com")
+/system-property=mongodb.host:add(value="citmongo")
 /system-property=mongodb.port:add(value="27017")
 /system-property=mongodb.user:add(value="admin")
 /system-property=mongodb.password:add(value="admin")
 /system-property=citsmart.protocol:add(value="http")
-/system-property=citsmart.host:add(value="itsm.citsmart.com")
+/system-property=citsmart.host:add(value="my.citsmart.com")
 /system-property=citsmart.port:add(value="8080")
 /system-property=citsmart.context:add(value="citsmart")
 /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
@@ -167,8 +168,11 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
 /system-property=citsmart.evm.enable:add(value=true)
 /system-property=citsmart.inventory.enable:add(value=true)
 /system-property=rhino.scripts.directory:add(value="")
+/system-property=jboss.as.management.blocking.timeout:add(value="600")
 /system-property=citsmart.port.updateparameters:add(value="9000")
-/system-property name="citsmart.inventory.pagelength" (value="100")
+/system-property=citsmart.inventory.pagelength:add(value="100")
+/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
 #### XML
@@ -191,7 +195,10 @@ In the CLI bash, execute the commands below to create the CITSmart properties.
     <property name="citsmart.inventory.enable" value="false"/>
     <property name="rhino.scripts.directory" value=""/>
     <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="citsmart.port.updateparameters" value="9000"/>
+    <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+    <property name="snmp.oid.repository.directory" value="/opt/templates"/>
 </system-properties>
 ```
 
@@ -228,7 +235,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmart:
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/jdbc/citsmart":add(jndi-name="java:/jdbc/citsmart",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=max-pool-size,value=300)
@@ -240,7 +247,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmartFlow:
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/jdbc/citsmartFluxo":add(jndi-name="java:/jdbc/citsmartFluxo",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=max-pool-size,value=300)
@@ -252,7 +259,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasourece citsmart_reports
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/jdbc/citsmart_reports":add(jndi-name="java:/jdbc/citsmart_reports",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=max-pool-size,value=300)
@@ -264,7 +271,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmartBpmEventos
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":add(jndi-name="java:/jdbc/citsmartBpmEventos",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=max-pool-size,value=300)
@@ -276,7 +283,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmart-neuro
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":add(jndi-name="java:/env/jdbc/citsmart-neuro",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
@@ -287,7 +294,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmart-neuro-app1
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":add(jndi-name="java:/env/jdbc/citsmart-neuro-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
@@ -298,7 +305,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmart-neuro-app2
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":add(jndi-name="java:/env/jdbc/citsmart-neuro-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
@@ -309,7 +316,7 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 
     Datasource citsmart-neuro-app3
 
-    ```java
+    ```sh
     /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":add(jndi-name="java:/env/jdbc/citsmart-neuro-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
     /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
@@ -321,15 +328,10 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
 5. Before exit the jboss-cli, execute the command reload to apply the changes. Then, make a connection text with database;
 
     ```sh
-    [standalone@localhost:9990 /] :reload
+    [standalone\@localhost:9990 /] :reload
     ```
-
     ```sh
-    [standalone@localhost:9990 /] /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool
-    {
-    "outcome" => "success",
-    "result" => [true]
-    }
+    [standalone\@localhost:9990 /] /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool { "outcome" =\> "success", "result" =\> [true] }
     ```
 
 ### Configure subsytems
@@ -395,9 +397,9 @@ Before creating the datasources, we have to add to the Wildfly the module JDBC o
     INICIAR_PROCESSAMENTOS_BATCH=TRUE
     ```
 
-!!! warning "ATTENTION"
+    !!! warning "ATTENTION"
 
-    Do not forget to change the owner of the files and directories to the CITSmart's user.
+        Do not forget to change the owner of the files and directories to the CITSmart's user.
 
 ## Quartz Configuration
 
@@ -532,7 +534,7 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
     mkdir /opt/citsmart/kb
     ```
 
-    **For Twin Words:**
+    **For Synonyms:**
 
     ```sh
     mkdir /opt/citsmart/twinwords
@@ -550,58 +552,87 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 	mkdir /opt/citsmart/upload
     ```
 
-## Generate certification SSL Self-Signed
+## Generate certificate SSL Self-Signed
 
-To the Wildfly, it'll be generated a self-signed certificate. If you have a certificate, it's possible to use it.
+For the Wildfly it will be created a self-signed certificate. If you have a certificate, follow the next steps.
 
-1. Connect in the Wildfly server;
+!!! info "TIPS"
 
-    Creating new alias with DNS (example itsm.citsmart.com):
+    - The passwords used in this manual are 123456, please, enter one of your preference;
 
-    ```sh
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
-    ```
+    - The manual certificate files use the suffix abc, please, put in your preference;
 
-    Creating alias with IP of Jboss server (example 192.168.0.40):
+    - The default password for cacerts is "changeit" and should be used to add the cer file;
 
-    ```sh
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
-    ```
+    - If you use different passwords and file names, change before executing the commands.
 
-    Exporting certificate to extension .cer:
+### Self-signed certificate:
 
-    ```sh
-    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-    ```
+Creating new alias with DNS (example itsm.citsmart.com):
 
-    Adding certificate in the cacerts of Java:
+```sh
+/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
+```
 
-    ```sh
-    /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-    ```
+Creating alias with IP of Jboss server (example 192.168.0.40):
 
-    **Remember to apply the permissions to the wildfly and java jdk owner**
+```sh
+/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
+```
 
-    ```sh
-    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
-    ```
+Exporting certificate to extension .cer:
 
-2. After generate the certificate, connect once again in the jboss-cli and execute the commands below:
+```sh
+/opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+```
 
-    ```sh
-    /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-    /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
-    /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
-    /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
-    ```
+### Proper certificate:
 
-3. Before exit the jboss-cli, execute the command reload to apply the changes.
+Create pkcs12 based on its public key (.crt) and private (.key)
 
-    ```sh
-    [standalone@localhost:9990 /] :reload
-    ```
+```sh
+openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12
+```    
+    
+After creating the pkcs12 (.p12) you create the file keystore (jks) that will be added to the wildfly.
+    
+```sh
+keytool -importkeystore -srckeystore abc.p12 \
+        -srcstoretype PKCS12 \
+        -destkeystore abc.jks \
+        -deststoretype JKS    
+``` 
+
+### For both type of certificates:
+
+Adding certificate in the cacerts of Java:
+
+```sh
+/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+```
+
+**Remember to apply the permissions to the wildfly and java jdk owner**
+
+```sh
+chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+```
+
+After generate the certificate, connect once again in the jboss-cli and execute the commands below:
+
+```sh
+/subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
+/subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
+/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
+/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
+```
+
+Before exit the jboss-cli, execute the command reload to apply the changes.
+
+```sh
+[standalone@localhost:9990 /] :reload
+```
 
 ## Starting solutions following dependecies
 
@@ -662,6 +693,16 @@ To the Wildfly, it'll be generated a self-signed certificate. If you have a cert
     ```sh
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
     ```
+    
+## Browsers supported
+
+For the proper functioning of the system, the following minimum versions of browsers should be used:
+
+- EDGE (minimum version): Microsoft Edge 42.17134.0/ Microsoft EdgeHTML 17.17134;
+
+- Google Chrome (minimum version): version 76.0.3809.132 (official version) 64 bits;
+
+- Mozila Firefox Quantum (minimum version): 69.0 (64 bits)
 
 
 !!! tip "About"

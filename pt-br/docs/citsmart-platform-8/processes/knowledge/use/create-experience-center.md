@@ -47,8 +47,8 @@ Procedimento
 
     *Widgets com navegação*
 
-    Esta estrutura permite a criação de um Centro de Experiência com um menu
-    lateral. Cada item de menu poderá conter widgets específicos.
+    **Esta estrutura permite a criação de um Centro de Experiência com um menu
+    lateral. Cada item de menu poderá conter widgets específicos**.
 
     -   Para adicionar nova seção clicar no botão com sinal “+”;
 
@@ -72,8 +72,8 @@ Procedimento
 
     *Widgets sem navegação*
 
-    Esta estrutura permite a criação de um Centro de Experiência somente utilizando
-    widgets.
+    **Esta estrutura permite a criação de um Centro de Experiência somente utilizando
+    widgets**.
 
     -   Clicar no sinal de positivo “+”;
 
@@ -81,6 +81,10 @@ Procedimento
 
     -   Escolher e personalizar os widgets disponíveis (ver tabela).
 
+
+!!! note "NOTA"
+
+     Ao abrir um ticket pelo centro de experiência, é possível configurar uma página do sistema para ser visualizada. Deve se        configurar o parâmetro 451 com a URL da página que se deseja retornar, por exemplo :                                            /pages/experienceCenter/experienceCenter.load#/ec?idExperienceCenter=51 .
 
 6.  Clicar em “Gravar”.
 

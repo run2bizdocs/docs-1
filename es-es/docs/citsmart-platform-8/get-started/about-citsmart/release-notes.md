@@ -3,6 +3,141 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.1.7 (2019/09/13)
+
+Bienvenido a CITSmart Versión 8.0.1.7. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5569|[ITSM 1652] – Fallo en el Simple de Problema, Cambio y Lanzamiento al crear un Workspace, las Sprints se sobrescriben.|
+
+## Versión 8.0.1.6 (2019/09/11)
+
+Bienvenido a CITSmart Versión 8.0.1.6. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5288|Seguridad – No hacer visible la contraseña de los usuarios del sistema|
+|5272|Seguridad – No permita el acceso a la pantalla del Script sin iniciar sesión en la aplicación|
+
+## Versión 8.0.1.5 (2019/09/02)
+
+Bienvenido a CITSmart Versión 8.0.1.5. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5407|Simple – La funcionalidad no permitía descargar archivos adjuntos desde tarjetas del Simple|
+
+## Versión 8.0.1.4 (2019/08/20)
+
+Bienvenido a CITSmart Versión 8.0.1.4. Esta versión tiene las siguientes correcciones:
+
+|Item|Descripción|
+|--------|---------|
+|5067|Base de Conocimiento - [My 1009] - Comprobar el intercambio de archivos adjuntos en el borrador del conocimiento.|
+|4418|Gestión de Ticket - Filtro de búsqueda de la Lista de Tickets, el campo Estado no se busca según lo solicitado.|
+|5066|Base de Conocimiento - Nullpointer al versionar nuevos conocimientos que contienen adjuntos.|
+|5000|Integración Okta - Crear/Actualizar datos de usuario durante la autenticación SAML.|
+|5146|Gestión de Ticket - Comprobar error de Null Pointer al enviar un correo electrónico de ocurrencia.|
+|5078|Smart Portal - [My 1279] - Sistema no valida el campo de cuestionario obligatorio|
+|5068|Smart Portal - [My 1190] - Comprobar error al ver el historial de tickets reclasificados |
+|3904|Gestión de Problema - Comprobar que no se puede generar PDF en el formulario del problema accesado|
+|5042|Chat - Cuando se abre el Chat y luego lo minimiza, la barra de desplazamiento ya no funciona.|
+|5108|Gestión de Problema - Error al registrar problema|
+|5076|CMDB - Comportamiento inapropiado al cambiar las características de un EC.|
+|4866|Informes - Internacionalización para la fecha presentada en el informe de ACC.|
+|4178|Gestión de Ticket - Kanban por asistente no abre la interfaz.|
+|4839|Chat - Corregir integración del SmartChat con la Base de Conocimiento y Portafolio.|
+|5061|Snow - Comprobar que la integración con Snow no devuelve datos de inventario.|
+|5044|Chat – Error en el chat cuando intenta hablar con un asistente.|
+|4385|Gestión de Ticket - [My 389] - Falla de seguridad en archivos adjuntos.|
+|5073|Base de Conocimiento - Error al descargar el archivo adjunto del conocimiento público y externo.|
+|1504|Informe de Base de Conocimiento - Informe de Mantenimiento en Base de Conocimiento que presenta errores en el layout, tanto en .XLS cuanto en .PDF.|
+|4787|Gestión de Ticket - Comprobar las claves de plantilla de correo electrónico que no devuelven información.|
+|3881|Base de Conocimiento - Error no tratado al intentar insertar Base de Conocimiento que contiene contenido de más de 20.000 caracteres.|
+|4514|Gestión de Ticket - Comprobar que la aplicación no esté validando el requisito de tiempo de atención expirado.|
+|4978|Centro de Experiencia - Falla en el widget “My Request”.|
+|4786|Gestión de Ticket - Error en enviar ocurrencias, el sistema envía una copia a la bandeja de salida.|
+|4740|Gestión de Ticket - [My 810] - Falla de traducción en las opciones de encuesta de satisfacción cuando se abren en una navegación privada.|
+|4599|Instalación - Errores de script al cargar CITSmart en base cero.|
+|5001|Gestión de Problema - [My 1168] - Comprobar que los archivos adjuntos no se puedan ver en la pantalla de vista previa del problema.|
+|3192|Gestión de Continuidad - Error de permiso de acceso cuando el usuario tiene permiso.|
+|4825|Neuro - No se pueden cambiar los parámetros en la base Oracle.|
+|3612|Gestión de ticket - Retirar la información de 'Fecha límite' cuando el SLA esté 'A COMBINAR' en tiempo de ejecución.|
+|4966|Smart Decision - [My 1120] - Comprobar el comportamiento inapropiado al vincular 2 widgets específicos de Smart Decision.|
+|4934|Gestión de Problema - Error al retornar el registro proactivo de terminación de problemas|
+|4542|Centro de Experiencia - [My 560] - Widget My Request quebrando layout de descripción|
+|5002|Gestión de ticket - [My 1166] - Comprobar que CITSmart no presenta archivos adjuntos en la pantalla de ticket.|
+|4482|Gestión de ticket - Descripción del ticket Modal "Rompiendo" cuando se presenta a través de la opción "Ver" activada desde el menú flotante.|
+|2107|Gestión de Problema - Comprobar que cuando la respuesta a la causa raíz y la solución temporal sea grandes, la aplicación muestra pop-up mal configurado en la pantalla TICKET en la opción 'Solución temporal'|
+|5289|[ITSM 1384] - Flujo del sistema no devuelve el enlace de eventos.|
+|5290|Falla al crear un ticket por el portal para un servicio sin aprobación y que no se ingresó el parámetro 65.|
+
+**Nota:**
+
+En la versión 8.0.1.4, el campo "Descripción" de la pantalla de atención de solicitud de servicio se bloqueará después de la creación de un ticket.
+
+## Versión 8.0.1.3 (2019/07/31)
+
+Bienvenido a Citsmart Versión 8.0.1.3. Esta versión tiene las siguientes correcciones y mejoras:
+
+|Item|Descripción|
+|--------|---------|
+|4763 |Corrección del idioma de visualización del Portal de Conocimiento.|
+|3720 |Corrección del webservice del updateStatus.|
+|4541 |Corrección en la SSO integración ITSM.|
+|4522 |Creación de la opción de permanecer en la pantalla de atención después del registro de ticket.|
+|3869 |Comprobar si se puede vincular "cambio" duplicado.|
+|4598 |Corrección de búsqueda de comentarios de SQLServer en la pantalla de tickets.|
+|1355 |Corrección en el uso de "ancla" en la base de conocimientos.|
+|4754 |Corrección en la grabación de imágenes en la Base de conocimiento.|
+|4748 |Corrección en la internacionalización de informes.|
+|4742 |Corrección en la instalación de diseños de flujos.|
+|3637 |[ITSM 9752] - Sistema no carga gráficos en la Gestión de Disponibilidad.|
+|4729 |[MY-804] - Error al acceder a la aplicación Simple en la aplicación Mobile CITSmart Experience.|
+|4836 |Error en expresiones al importar flujo.|
+|4674 |Comprobar el checklist del Simple que no cuenta los completos.|
+|4585|[Perfil Acceso - Oracle] [Base Limpia]: Error al hacer clic en el botón Guardar en el registro de Perfil de Acceso.|
+|4523|Parametrizar la página de redireccionamiento después de guardar el Ticket en el Centro de Experiencia.|
+|4756|Corrigir el comportamiento de redireccionamiento de la pantalla de creación de conocimiento.|
+|4035|Error de internacionalización - En la pantalla del ticket se está traduciendo al francés.|
+|4422|[ITSM 461] - Cuando abre una pestaña que contiene un archivo adjunto en un registro de ticket, el sistema adjunta el archivo a otro ticket.|
+|4136|Error no tratado al intentar crear un ticket.|
+|2358|Error al guardar en la versión Original un flujo que cambiamos de nombre.|
+|3696|[Smart Portal] - Comprobar que la aplicación esté cambiando de idioma al cambiar la visualización del servicio.|
+|3672|Botón "Limpiar" no funciona en el uso de informes de UST en la funcionalidad de Gestión de Contratos.|
+|4287|[ITSM 347] - Error de traducción en informes en inglés.|
+|4526|[My 481] - Comprobar falla de conexión HTTPS en el puerto 443.|
+|4728|Cambio de etiqueta del formato "Nº" a "NO".|
+|4540|[My 577] - Error de traducción en la pantalla de registro de grupo.|
+|4600|Error al insertar un archivo adjunto y luego eliminarlo de la pantalla de Gestión de Cambio (el campo del archivo adjunto desaparece).|
+|2845|Notificaciones que aparecen por duplicado.|
+|4771|Al acceder a la pantalla del ticket a través del chat de Smart Chat y avanzar el flujo finalizando, el servicio presenta falla.|
+|4317|[Chat] - Comprobar que los mensajes no se puedan intercambiar entre los asistentes.|
+|4543|[Chat - Ticket] - Comprobar la posibilidad de conseguir abrir la pantalla de ejecución de Ticket a través de la ventana de conversación del chat.|
+|4315|Comprobar la posibilidad de eliminar la información "¿Cómo puedo ayudarlo?" de las ventanas de chat cuando el servicio ya ha comenzado.|
+|4572|Cuando mueve un elemento de un Sprint a otro en Simple, se mueve a una lista archivada.|
+|4533|[Chat] - Problemas al interactuar con la Anuva.|
+|4535|[Chat] - Cambiar la etiqueta "Solicitud" a "Ticket" que aparece en el chat.|
+|4532|Intercambiar frases que se muestran en la pop-up del chat.|
+|4587|Error en Simple al registrar un nuevo Sprint - con usuarios.|
+|3868|Comprobar el salto de layout con "problema" con título largo.|
+|4595|[Portafolio]: Error al intentar guardar un nuevo registro de servicio|
+|4529|[Tiempo de Atención]: Tiempo de atención del tipo "cliente" no muestra el valor de SLA correcto.|
+|852|No mostrar en la pantalla de parámetros elementos que ya se muestran en las pantallas de configuración|
+|4536|Cambio del widget "Anuva" en la configuración del Centro de Experiencia.|
+|3660|En el registro de usuarios, al buscar el contribuyente por la identificación brasileña CPF, con las máscaras correctas que contienen puntos y guiones, no se muestra ningún resultado.|
+|4570|Error al acceder a la pantalla de tickets en una base de instalación.|
+|4546|[Chat]: Reemplazar el hint de icono de mensaje dentro de la pantalla del ticket.|
+|4117|Adjustar la etiqueta "SmartDecisions" en Acceso y Permiso para "Smart Decisions".|
+|3178|Comprobar que el pop-up "Unidad" dentro de la pantalla "Tiempo de atención" se abra con un patrón incorrecto.|
+
+**Nota:**
+
+En la versión 8.0.1.3 se creó el parámetro "452 - ¿Continuar en la pantalla del Ticket después de guardar?". Este parámetro, cuando está habilitado, verifica el permiso del usuario para ejecutar un ticket y permite que la pantalla permanezca.
+
+En la versión 8.0.1.3 se creó el parámetro "451 - Redirigir página después de guardar el Ticket en el Centro de Experiencia", que permite informar a la página que el usuario desea regresar cuando ocurre una acción en el Centro de Experiencia.
+
 ## Versión 8.0.1.2 (2019/07/20)
 
 Bienvenido a Citsmart Versión 8.0.1.2. Esta versión tiene las siguientes correcciones.

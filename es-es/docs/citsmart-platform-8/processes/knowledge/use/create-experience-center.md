@@ -30,7 +30,9 @@ Procedimiento
         
 4.  En la pestaña **Permisos**, definir los grupos que terán acesso;
 
-5.  En la pestaña **Construcción**, personalizar visualmente el Centro de Experiencia, además de poder crear secciones y añadir Widgets, Enlaces y vincular a otros Centros de Experiencia:
+5.  En la pestaña **Construcción**, personalizar visualmente el Centro de Experiencia, 
+    además de poder crear secciones y añadir Widgets, Enlaces y vincular a otros Centros 
+    de Experiencia:
     
     *Personalizar visualmente*
     
@@ -40,17 +42,21 @@ Procedimiento
     
     -   Para definir el estilod e la grid, elegir una de las opciones disponibles;
     
-    -   Para elegir el color de la fuente de los menús, haga clic en el campo localizado en frente a "Color del tema".
+    -   Para elegir el color de la fuente de los menús, haga clic en el campo localizado 
+        en frente a "Color del tema".
         
     *Widgets con navegación*
     
-    Esta estructura permite la creación de un Centro de Experiencia con un menú lateral. Cada elemento de menú puede contener widgets específicos.
+    **Esta estructura permite la creación de un Centro de Experiencia con un menú lateral. 
+    Cada elemento de menú puede contener widgets específicos.**
     
     -   Para agregar nueva sección, hacer clic en el botón con el signo "+";
     
     -   Posicionar el ratón sobre el campo "Escriba el nombre de la sección" y nombrarlo;
     
-    -   Después de nombrar, se va crear un campo para un nuevo menú y luego nombrarlo;
+    -   Completar el nombre de la sección colocando el cursor sobre el campo ** Ingrese 
+        nombre de la sección, ** luego se creará un campo para un nuevo menú, asígnele 
+        un nombre;
     
     -   Para agregar nuevos menús, hacer clic en el signo "+";
     
@@ -64,13 +70,21 @@ Procedimiento
             
     *Widgets sin navegación*
     
-    Esta estructura permite la creación de un Centro de Experiencia sólo utilizando widgets.
+    **Esta estructura permite la creación de un Centro de Experiencia sólo utilizando widgets.**
     
     -  Haces clic en el signo positivo "+";
     
     -  Elegir el layout de la nueva sección;
     
-    -  Elegir y personalizar los widgets disponibles (ver tabla)
+    -  Elegir y personalizar los widgets disponibles (ver tabla).
+    
+    
+!!! note "NOTA"
+
+    Cuando abre un ticket a través del centro de experiencia, puede configurar una página del 
+    sistema para ver. Debe establecer el parámetro 451 en la URL de la página que desea devolver, 
+    por ejemplo:
+    /pages/experienceCenter/experienceCenter.load#/ec?idExperienceCenter=51 .
     
 6.  Hacer clic en "Guardar".    
 

@@ -151,8 +151,8 @@ su citsmart /opt/wildfly/bin/standalone.sh -s /bin/bash
 
 ### Configuração do System Properties
 
-No bash do CLI executar os comandos abaixo para criação das propriedades do
-CITSmart.
+Para criação das propriedades do CITSmart, é necessário executar os comandos 
+abaixo no CLI ou editar o XML.
 
 #### CLI
 
@@ -172,9 +172,11 @@ CITSmart.
 /system-property=citsmart.evm.enable:add(value=true)
 /system-property=citsmart.inventory.enable:add(value=true)
 /system-property=rhino.scripts.directory:add(value="")
+/system-property=jboss.as.management.blocking.timeout:add(value="600")
 /system-property=citsmart.port.updateparameters:add(value="9000")
-/system-property name="citsmart.inventory.pagelength" (value="100")
+/system-property=citsmart.inventory.pagelength:add(value="100")
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
 #### XML
@@ -197,7 +199,10 @@ CITSmart.
     <property name="citsmart.inventory.enable" value="false"/>
     <property name="rhino.scripts.directory" value=""/>
     <property name="jboss.as.management.blocking.timeout" value="600"/>
+    <property name="citsmart.port.updateparameters" value="9000"/>
+    <property name="citsmart.inventory.pagelength" value="100"/>
     <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
+    <property name="snmp.oid.repository.directory" value="/opt/templates"/>
 </system-properties>
 ```
 
@@ -555,57 +560,87 @@ org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
 
 ## Geração de certificado auto assinado SSL
 
-Para o Wildfly será gerado um certificado auto assinado.
-Caso possua um certificado é importante utilizá-lo.
+Para o Wildfly será gerado um certificado auto assinado. Caso possua um certificado, siga os os próximos passos.
 
-1. Conectar no servidor do Wildfly.
+!!! info "DICAS"
 
-    Criando alias novo com DNS (exemplo itsm.citsmart.com):
+    - As senhas utlizadas nesse manual são 123456, favor colocar de sua preferência;
 
-    ```sh
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
-    ```
+    - Os arquivos de certificado do manual utilizam o sufixo abc, favor colocar de sua preferência;
 
-    Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40):
+    - A senha padrão do cacerts é "changeit" e portanto deve ser utilizada para adicionar o arquivo cer;
 
-    ```
-    /opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext san=ip:192.168.0.40 -validity 3650 -storepass 123456
-    ```
+    - Caso utilize senhas e nomes de arquivos diferentes, alterar antes de executar os comandos.
 
-    Exportando certificado para extensão .cer:
 
-    ```
-    /opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-    ```
+### Certificado auto assinado:
 
-    Adicionando certificado no cacerts do Java:
+Criando alias novo com DNS (exemplo itsm.citsmart.com):
 
-    ```
-    /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias GRPv1 -file /opt/wildfly/standalone/configuration/GRPv1.cer
-    ```
+```sh
+/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext                san=dns:itsm.citsmart.com -validity 3650 -storepass 123456
+```
 
-    **Lembrar de aplicar as permissões para o dono do wildfly e java jdk**
+Criando alias com IP do servidor do Jboss (exemplo 192.168.0.40):
 
-    ```sh
-    chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
-    ```
+```sh
+/opt/jdk/bin/keytool -genkey -alias GRPv1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -ext   san=ip:192.168.0.40 -validity 3650 -storepass 123456
+```
 
-2. Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
+Exportando certificado para extensão .cer:
 
-    ```sh
-    /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-    /subsystem=elytron/key-store=citsmartKeyStore:add(path="GRPv1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
-    /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
-    /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-    /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="GRPv1.keystore", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="GRPv1")
-    ```
+```sh
+/opt/jdk/bin/keytool -export -alias GRPv1 -keystore /opt/wildfly/standalone/configuration/GRPv1.keystore -validity 3650 -file /opt/wildfly/standalone/configuration/GRPv1.cer
+```
 
-3. Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+### Certificado próprio:
 
-    ```sh
-    [standalone\@localhost:9990 /] :reload
-    ```
+Gerar pkcs12 com base na sua chave publica (.crt) e privada (.key)
+    
+```sh
+openssl pkcs12 -export -in abc.crt -inkey abc.key -out abc.p12 -name citsmartcloud
+```    
+    
+Após gerar o pkcs12 (.p12) você gera o arquivo keystore (jks) que será adiconado ao wildfly.
+    
+```sh
+keytool -importkeystore -srckeystore abc.p12 \
+        -srcstoretype PKCS12 \
+        -alias "citsmartcloud" \
+        -destkeystore abc.jks \
+        -deststoretype JKS
+``` 
+
+### Para ambos tipos de certificados:
+
+Adicionando certificado no cacerts do Java:
+
+```sh
+/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "citsmartcloud" -file /opt/wildfly/standalone/configuration/abc.crt
+```
+
+**Lembrar de aplicar as permissões para o dono do wildfly e java jdk**
+
+```sh
+chown citsmart:citsmart /opt/jdk1.8.0_172/ -R chown citsmart:citsmart /opt/wildfly-12.0.0.Final/ -R
+```
+
+Após a geração do certificado, conectar novamente no jboss-cli e executar os comandos abaixo:
+
+```sh
+/subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
+/subsystem=elytron/key-store=citsmartKeyStore:add(path="abc.jks",relative-to=jboss.server.config.dir,credential-reference={clear-text="123456"},type=JKS)
+/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="123456"})
+/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="abc.jks", keystore-password-credential-reference={clear-text="123456"}, keystore-relative-to="jboss.server.config.dir",alias="citsmartcloud")
+```
+
+Antes de sair do jboss-cli executar o comando reload para aplicar as alterações.
+
+```sh
+[standalone\@localhost:9990 /] :reload
+```
 
 ## Iniciando as soluções seguindo dependências
 
@@ -671,8 +706,17 @@ Caso possua um certificado é importante utilizá-lo.
     cp citsmart-neuro-web.war /opt/wildfly/standalone/deployments/
     ```
 
+## Browsers suportados
+
+Para o bom funcionamento do sistema, deverá ser utilizado as seguintes versões mínimas dos principais browsers:
+
+- EDGE (versão mínima): Microsoft Edge 42.17134.0/ Microsoft EdgeHTML 17.17134;
+
+- Google Chrome (versão mínima): versão 76.0.3809.132 (versão oficial) 64 bits;
+
+- Mozila Firefox Quantum (versão mínima): 69.0 (64 bits)
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Anna Martins
+    <b>Updated:</b>09/11/2019 – Larissa Lourenço

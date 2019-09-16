@@ -7,8 +7,7 @@ This functionality allows to register in comments all the steps for the executio
 
 ## Before getting started
 
-To execute the ticket in addition to the permission to perform the operation and the previous registration, it is necessary to first
-enable the parameter 298.
+To execute the ticket in addition to the permission to perform the operation and the previous registration, it is necessary to first enable the parameter 251, 252, 253 e 298.
 To send comments via email, it is necessary to [Configure the messaging service][1].
 
 ## Procedure

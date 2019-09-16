@@ -3,6 +3,143 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.1.7 (2019/09/13)
+
+Welcome to CITSmart Version 8.0.1.7. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5569|[ITSM 1652] – Failure in the Simple of Problem, Change and Release when creating a Workspace, the sprints overwrite themselves.|
+
+## Version 8.0.1.6 (2019/09/11)
+
+Welcome to CITSmart Version 8.0.1.6. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5288|Safety – Do not make system users password visible|
+|5272|Safety – Do not allow access to the Script screen without logging in to the application|
+
+## Version 8.0.1.5 (2019/09/02)
+
+Welcome to CITSmart Version 8.0.1.5. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5407|Simple – Functionality did not allow downloading attachments from Simple cards|
+
+## Version 8.0.1.4 (2019/08/20)
+
+Welcome to CITSmart Version 8.0.1.4. This release has the following fixes:
+
+|Item|Description|
+|--------|---------|
+|5067|Knowledge Base - [My 1009] - Check attachment exchange in knowledge draft.|
+|4418|Ticket Management - The Ticket List search filter Status field is not searching as requested.|
+|5066|Knowledge Base - Nullpointer when versioning new knowledge containing attachment.|
+|5000|Okta Integration - Create/Update user data during SAML authentication.|
+|5146|Ticket Management - Check Null Pointer error when wending email of occurrence.|
+|5078|Smart Portal - [My 1279] - System does not validate mandatory questionnaire field|
+|5068|Smart Portal - [My 1190] - Check error while viewing reclassified ticket history |
+|3904|Problem Management - Verify that no PDF could be generated from the problem form accessed|
+|5042|Chat - When you open the Chat and then minimize it, the scroll bar no longer works.|
+|5108|Problem Management - Error registering problem|
+|5076|CMDB - Inappropriate behavior in changing the characteristics of a CI.|
+|4866|Reports- Internationalization for date presented in ACC report.|
+|4178|Ticket Management - Kanban per attendant does not open the interface.|
+|4839|Chat - Fix integration of the SmartChat with the Knowledge Base and Portfolio.|
+|5061|Snow - Verify that integration with Snow does not return inventory data.|
+|5044|Chat – Chat error when you try to talk to with an attendant.|
+|4385|Ticket Management - [My 389] - Security failure in attached files.|
+|5073|Knowledge Base - Error downloading attachment from public and external knowledge.|
+|1504|Knowledge Base Report - Knowledge Base Maintenance Report showing layout errors in both .XLS and .PDF.|
+|4787|Ticket Management - Check email template keys that return no information.|
+|3881|Knowledge Base - Unhandled error when trying to insert Knowledge Base containing content longer than 20.000 characters.|
+|4514|Ticket Management - Verify that the application is not validating the requirement of time of attendance overdue.|
+|4978|Experience Center - Failure in the widget “My Request”.|
+|4786|Ticket Management - Error sending occurrences, the system sends copy to the outbox.|
+|4740|Ticket Management - [My 810] - Translation failure in the satisfaction survey options when it opens in private browser.|
+|4599|Installation - Script errors when uploading CITSmart on zero basis.|
+|5001|Problem Management - [My 1168] - Verify that attachments cannot be viewed on the problem preview screen.|
+|3192|Continuity Management - Access permission error when user has permission.|
+|4825|Neuro - Unable to change parameters in Oracle database.|
+|3612|Ticket Management - Remove 'Deadline' information when SLA is 'TO COMBINE' at the time of execution.|
+|4966|Smart Decision - [My 1120] - Check for inappropriate behavior when linking 2 Smart Decision specific widgets.|
+|4934|Problem Management - Failed to return proactive problem conclusion registration|
+|4542|Experience Center - [My 560] - My Request widget breaking description layout|
+|5002|Ticket Management - [My 1166] - Verify that CITSmart is not displaying attachments on the ticket screen.|
+|4482|Ticket Management - Ticket Description "Breaking" modal when presented via "View" option triggered from floating menu.|
+|2107|Problem Management - Verify that when the root cause response and workaround is large, and the application brings the whole misconfigured popup on the TICKET screen in the 'Workaround' option|
+|5289|[ITSM 1384] - System flow does not return link of events.|
+|5290|Failure when creating a ticket through the portal for a non-approval service and when parameter 65 is not entered.|
+
+**Note:**
+
+In version 8.0.1.4 the “Description” field of the service request attendance screen will be blocked after the creation of a ticket.
+
+
+## Version 8.0.1.3 (2019/07/31)
+
+Welcome to Citsmart Version 8.0.1.3. This release has the following fixes and improvements:
+
+|Item|Description|
+|--------|---------|
+|4763 |Correction in the language displayed in the Knowledge Portal.|
+|3720 |Correction in the webservice of updateStatus.|
+|4541 |Correction in the SSO Integration ITSM.|
+|4522 |Creation of the option to remain in attendance screen after registering the ticket.|
+|3869 |Check if it is possible to link "change" duplicated.|
+|4598 |Correction in the comment search for SQLServer in the ticket screen.|
+|1355 |Correction in the use of "anchors" in the knowledge base.|
+|4754 |Correction when saving images in the Knowledge Base. |
+|4748 |Correction in the internationalization of reports.|
+|4742 |Correction in the installation of flow designs.|
+|3637 |[ITSM 9752] - System does not load graphics in Availability Management.|
+|4729 |[MY-804] - Failed to access Simple on Mobile CITSmart Experience application.|
+|4836 |Error in expressions when importing flow.|
+|4674 |Check Simple checklist that does not count the complete one.|
+|4585|[Access Profile - Oracle] [Clean Base]: Error clicking save button in the Access Profile registration.|
+|4523|Parametrize the redirect page after saving a Ticket in the Experience Center.|
+|4756|Correction in redirect behavior of the knowledge creation screen.|
+|4035|Internationalization Error - Ticket screen is being translated into French.|
+|4422|[ITSM 461] - When opening a tab containing an attachment in a ticket registration, the system attaches the file to another ticket.|
+|4136|Unhandled error when trying to create ticket.|
+|2358|Error saving in Original version a flow that we have renamed.|
+|3696|[Smart Portal] - Verify that the application is changing the language when switching service display.|
+|3672|The "Clear" button is not working in the Report of USTs Use in the Contract Management functionality.|
+|4287|[ITSM 347] - Translation error in English reports.|
+|4526|[My 481] - Check HTTPS connection failure on port 443.|
+|4728|Label change from format “Nº” to “NO”.|
+|4540|[My 577] - Translation error in group registration screen.|
+|4600|Error inserting an attachment and then removing it from the Change Management screen (attachment field disappears).|
+|2845|Notifications that appear in duplicate.|
+|4771|The attendance is failing when accessing the ticket screen via Smart Chat and advancing the flow competed.|
+|4317|[Chat] - Verify that messages cannot be exchanged between attendants.|
+|4543|[Chat - Ticket] - Check the possibility to open the Ticket execution screen via chatbox.|
+|4315|Check the possibility of removing the information "How can I help you" from chat when the service has already started.|
+|4572|When moving an item from one Sprint to another in Simple, it is moved to an archived list.|
+|4533|[Chat] - Problems interacting with Anuva.|
+|4535|[Chat] - Change the label "Request" to "Ticket" that appears inside the chat.|
+|4532|Change phrases displayed in chat popup.|
+|4587|Error in Simple when registering a new Sprint - with users.|
+|3868|Check layout break with "problem" with long title.|
+|4595|[Portfolio]: Error trying to save a new service registration.|
+|4529|[Time of Attendance]: "Customer" time not showing correct SLA value.|
+|852|Do not display on the parameter screen items that are already displayed on configuration screens.|
+|4536|“Anuva” widget change in the Experience Center configuration.|
+|3660|In the user registration, when searching the contributor by the Brazilian ID CPF - with the correct masks containing points and hyphen - no result is displayed.|
+|4570|Error accessing ticket screen on an installation basis.|
+|4546|[Chat]: Replace message icon hint inside ticket screen.|
+|4117|Adjust the label "SmartDecisions" in Access and Permission to "Smart Decisions".|
+|3178|Verify that the "Drive" popup within the "Time of Attendance" screen is opening with incorrect pattern.|
+
+**Note:**
+
+In version 8.0.1.3 the parameter “452 - Continue in the Ticket screen after saving?” was created. This parameter, when enabled, checks the user's permission to execute a ticket and allows the screen to remain..
+
+In version 8.0.1.3 the parameter “451 - Redirect page after saving the ticket in the Experience Center” was created, which allows informing the page that the user wants to return when an action in the Experience Center occurs.
+
+
 ## Version 8.0.1.2 (2019/07/20)
 
 Welcome to the Citsmart Version 8.0.1.2. This version presents the following fixes.

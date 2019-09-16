@@ -1,9 +1,13 @@
 title:  Configurar ambiente 
-Description: La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor)  
+Description: Facilitar una eventual intervención (corrección) directa en el ambiente (servidor) y cambiar los logos del sistema.
 # Configurar ambiente
 
-La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar una eventual intervención (corrección) directa en el ambiente (servidor) y cambiar los logos del sistema.
-Puede cambiar el logotipo del sistema, comprobar la información del ambiente y descargar el registro de Jboss.
+La funcionalidad de Configuración de Ambiente tiene por objetivo facilitar 
+una eventual intervención (corrección) directa en el ambiente (servidor) y 
+cambiar los logos del sistema.
+
+Puede cambiar el logotipo del sistema, comprobar la información del ambiente 
+y descargar el registro de Jboss.
 
 Procedimiento
 -------------
@@ -13,6 +17,10 @@ Procedimiento
 
 2.  Para cambiar una de las imágenes (al principio, logo del portal, logo del
     sistema y logo del informe), hacer clic en "Seleccione una imagen";
+    
+!!! info "IMPORTANTE"   
+
+    El campo Logo del sistema obedecerá el parámetro 387.
 
 3.  Hacer clic en el cuadro punteado para arrastrar un archivo o subirlo;
 

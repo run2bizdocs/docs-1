@@ -1,9 +1,10 @@
-Title: Descarga y software
+Title: Software y Descarga
 
-# Descarga y software
+# Software y Descarga
 
+## Paquetes
 
-!!! warning "ATENCIÓN"
+!!! info "IMPORTANTE"
 
     La instalación de CITSmart Enterprise requiere el sistema operativo GNU/Linux con kernel igual o superior al 3.10.
 
@@ -15,10 +16,9 @@ el procedimiento relativo al producto.
 
 ### Servidor de la Aplicación Wildfly
 
-!!! warning "ATENCIÓN"
+!!! note "NOTA"
 
     En el manual utilizaremos el PostgreSQL.
-
     Usted puede descargar el paquete para Oracle o MSSQL y hacer los cambios
     igualmente descritos para el PostgreSQL.
 
@@ -35,12 +35,10 @@ https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 
 ### Servidor de la Base de Datos MongoDB
 
-!!! warning "ATENCIÓN"
+!!! note "NOTA"
 
       En el manual utilizaremos la distribución GNU/Linux CentOS Linux release
-      7.5.1804.
-      Descargue el MongoDB conforme su distribución.
-      La versión del MongoDB debe ser 3.4.
+      7.5.1804. Descargue el MongoDB conforme su distribución. La versión del MongoDB debe ser 3.4.
 
 Para localizar la descarga conforme su distribución: <https://www.mongodb.com/download-center#community>
 
@@ -49,43 +47,37 @@ Para la descargar el MongoDB para CentOS 7.5: https://fastdl.mongodb.org/linux/m
 ### Servidor de Base de Datos PostgreSQL/Oracle/MSSQL
 
 
-!!! warning "ATENCIÓN"
+!!! note "NOTA"
 
     En el manual utilizaremos PostgreSQL con descarga del repositorio oficial.
 
-
-   CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha en el momento de configuración de los      paquetes.
-
-   Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante:
-
-*Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
-
-*MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
-
-Servidor de Indexación Apache Solr
--------------------------------------
-
-
+   CITSmart Enterprise es compatible con el PostgreSQL 9.2 o superior, y la descarga será hecha 
+   en el momento de configuración de los paquetes.
+   
 !!! warning "ATENCIÓN"
+   
+    CITSmart no soporta la versión 9.11 de la base PortgreSQL.
 
-    La versión homologada del Apache Solr es la 6.4.2.
+Se recomienda que la instalación de Oracle o MSSQL sean hechas conforme las informaciones y mejores prácticas de cada fabricante:
 
-    Solr 6.4.2: <http://files.citsmart.com/solr-6.4.2.zip>
+   *Oracle:* <https://docs.oracle.com/cd/E11882_01/server.112/e10897/toc.htm>
 
-    Configuraciones para la base de conocimiento: <http://files.citsmart.com/base_conhecimento_configs.zip>   
+   *MSSQL:* <https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server>.
 
+### Servidor de Indexación Apache Solr
+
+La versión homologadaa del Apache Solr es la 6.4.2.
+
+:arrow_down: Este paquete (Solr 6.4.2) y los archivos de configuración (Knowledge Base Confs) se pueden descargar desde el área de relación del socio, en el item *Installation Components*.
 
 ### Descarga de los archivos assets para CITSmart
 
-
-<http://files.citsmart.com/assets.tar.gz>
-
-
-Configuración de los Paquetes
-------------------------
+:arrow_down: Este paquete (Assets) se puede descargar desde el área de relación del socio, en el item *Installation Components*.
 
 
-!!! warning "ATENCIÓN"
+## Configuración de los Paquetes
+
+!!! note "NOTA"
 
     Utilizaremos el directorio /opt para la instalación de todos los paquetes para
     CITSmart Enterprise.
@@ -148,7 +140,9 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
     })
     ```
 4. Se debe observar el retorno *“Successfully added user”*.  
+
 5. Digite **exit** para salir de la consola del MongoDB.  
+
 6. Retorne al terminal anterior y finalice el proceso del mongodb con CTRL+C.  
 
 
@@ -206,17 +200,17 @@ Después de finalizar las descargas, podremos iniciar la instalación de la solu
 la conexión del Wildfly para la base de datos y usuario del CITSmart. Al final del archivo,
 cambiar las líneas:
 
-    Padrão: host all all 127.0.0.1/32 md5   
-    Alterado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
+    Estándar: host all all 127.0.0.1/32 md5   
+    Cambiado: host citsmart_db citsmartdbuser IP_Wildfly/32 md5* |
 
 4. Hora de la apertura del listening en el archivo /var/lib/pgsql/9.5/data/postgresql.conf
 
-    Padrão está comentado:
+    Estándar es comentado:
 
     ``` sh
     listen_addresses = 'localhost'
 	```
-	Alterado:
+	Cambiado:
 
     ``` sh
     listen_addresses = ‘0.0.0.0'

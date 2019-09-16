@@ -2,7 +2,7 @@ Title: Overview
 
 # Overview
 
-Natively, three types of authentication are possible on the platform: local, LDAP/AD, and SSO.
+Natively, the following types of platform authentication are possible: local, LDAP / AD, SSO, and Okta.
 
 - **Local**: this is the standard method of accessing the platform, where users are registered in the tool database.
 

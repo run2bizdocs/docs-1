@@ -1,10 +1,10 @@
-Title: Software e Donwload
+Title: Software e Download
 
-# Software e Donwload
+# Software e Download
 
 ## Pacotes
 
-!!! info "ATENÇÃO"
+!!! info "IMPORTANTE"
 
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
@@ -16,7 +16,7 @@ o procedimento relativo ao produto.
 
 ### Servidor de Aplicação Wildfly
 
-!!! info "ATENÇÃO"
+!!! note "NOTA"
 
     No manual será utilizado PostgreSQL.
     Pode-se baixar o pacote para Oracle ou MSSQL e fazer as alterações
@@ -37,7 +37,7 @@ https://jdbc.postgresql.org/download/postgresql-9.3-1103.jdbc41.jar
 
 ### Servidor de Banco de Dados MongoDB
 
-!!! info "ATENÇÃO"
+!!! note "NOTA"
 
        No manual será utilizado a distribuição GNU/Linux CentOS Linux release
        7.5.1804. Baixar e MongoDB conforme sua distribuição. A versão do MongoDB deve ser 3.4.
@@ -51,12 +51,16 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 ### Servidor de Banco de Dados PostgreSQL/Oracle/MSSQL
 
 
-!!! Abstract "ATENÇÃO"
+!!! note "NOTA"
 
     No manual será utilizado PostgreSQL com download do repositório oficial.
 
-   O CITSmart Enterprise é compatível com o PostgreSQL 9.2 ou superior e o download será feito no
+O CITSmart Enterprise é compatível com a versão do PostgreSQL 9.3 ou superior e o download será feito no
    momento da configuração dos pacotes.
+   
+!!! warning "ATENÇÃO"
+   
+     O CITSmart não suporta a versão 9.11 do banco PostgreSQL.
 
    Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
    informações e melhores práticas de cada fabricante:
@@ -69,16 +73,16 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
 A versão homologada do Apache Solr é a 6.4.2.
 
-:arrow_down: Este pacote e os arquivos de configuração podem ser baixados na área de relacionamento com o parceiro.
+:arrow_down: Este pacote (Solr 6.4.2) e os arquivos de configuração (Knowledge Base Confs) podem ser baixados na área de relacionamento com o parceiro, no item *Installation Components*.
 
 ### Download dos arquivos assets para o CITSmart
 
-:arrow_down: Este pacote pode ser baixado na área de relacionamento com o parceiro.
+:arrow_down: Este pacote (Assets) pode ser baixado na área de relacionamento com o parceiro, no item *Installation Components*.
 
 
 ## Configuração dos Pacotes
 
-!!! info "ATENÇÃO"
+!!! note "NOTA"
 
     Será utilizado o diretório /opt para instalação de todos os pacotes para o
     CITSmart Enterprise.
@@ -150,7 +154,7 @@ Com os downloads finalizados dar início a instalação da solução CITSmart En
 ### PostgreSQL Database Server
 
 
-!!! Abstract "ATENÇÃO"
+!!! warning "ATENÇÃO"
 
     Para esse manual será utilizada a versão 9.5 do PostgreSQL.
     Pode instalar o PostgreSQL seguindo o manual oficial do PostgreSQL através do link:
@@ -328,8 +332,7 @@ http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&inst
 
 ```
 
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Anna Martins
+    <b>Updated:</b>09/11/2019 – Larissa Lourenço
