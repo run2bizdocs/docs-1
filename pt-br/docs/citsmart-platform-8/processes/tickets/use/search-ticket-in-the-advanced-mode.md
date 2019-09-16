@@ -1,8 +1,8 @@
-title: Pesquisar ticket no modo avançado
-Description: Permite refinar a busca pelos tickets através filtros taxativos. 
-# Pesquisar ticket no modo avançado
+title: Pesquisar ticket no modo avançado Description: Permite refinar a busca
+pelos tickets através filtros taxativos. \# Pesquisar ticket no modo avançado
 
-A funcionalidade permite refinar a busca pelos tickets através filtros taxativos.
+A funcionalidade permite refinar a busca pelos tickets através filtros
+taxativos.
 
 Antes de começar
 ----------------
@@ -33,9 +33,14 @@ Procedimento
     unidades vinculadas ao contrato ao qual tem vínculo com os grupos a que
     pertence;
 
-4.  Clicar no botão "Pesquisar";
+4.  No filtro “Unidade”, o sistema pesquisa pelas Unidades que o usuário poderá
+    atender. O sistema apresenta as Unidades que o usuário logado pode atender
+    de acordo com o vínculo de grupo, uma vez que esse grupo é vinculado à
+    contratos, e esses contratos possuem as Unidades vinculadas a eles;
 
-5.  Escolher um dos formatos de arquivo (PDF, XLS e CSV) para gerar o relatório.
+5.  Clicar no botão "Pesquisar";
+
+6.  Escolher um dos formatos de arquivo (PDF, XLS e CSV) para gerar o relatório.
     Depois de escolher o formato, o sistema verificará o parâmetro 261 e
     encontrando registro maior que a quantidade permitida, será exibida a
     seguinte mensagem:
@@ -43,18 +48,18 @@ Procedimento
     -   "A quantidade de registros encontrados ultrapassa a quantidade máxima
         permitida de visualização. Favor redefinir os filtros de pesquisa";
 
-6.  Porém, caso a quantidade de registro retornada da pesquisa for menor que o
+7.  Porém, caso a quantidade de registro retornada da pesquisa for menor que o
     limite no parâmetro 261, então o sistema verifica a configuração do
     parâmetro 378;
 
-7.  É verificada a quantidade de registros para gerar o relatório em 2° plano,
+8.  É verificada a quantidade de registros para gerar o relatório em 2° plano,
     se a quantidade for maior que a quantidade parametrizada, então o sistema
     exibe a seguinte mensagem:
 
     -   "O relatório está sendo processado. Uma notificação lhe será enviada
         quando estiver pronto"
 
-8.  Caso o arquivo a ser gerado for muito extenso, o sistema disparará uma
+9.  Caso o arquivo a ser gerado for muito extenso, o sistema disparará uma
     notificação na tela principal, informando que o download do mesmo está
     finalizado. Ao concluir, clicar no botão "Visualizar" para acessar o
     relatório através do link disponibilizado.
@@ -62,15 +67,21 @@ Procedimento
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+[Criar um
+ticket](/pt-br/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
-[Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrização -
+ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrização -
+sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
+[Video
+Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/17/2019 – Larissa Lourenço
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+<b>Updated:</b>01/17/2019 – Larissa Lourenço
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
