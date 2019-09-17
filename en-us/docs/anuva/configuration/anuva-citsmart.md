@@ -10,6 +10,9 @@ Anuva is already natively integrated with CITSmart, so it is easy to add it to y
 3. Change the parameter value “441 Anuva Assistant - Conversation API” to http://<name-of-your-workspace><acronym-language>.anuvaassistant.com/webhooks/rest/webhook and click on “Save”   
 4. Change the parameter value “442 Anuva Assistant - Parameters API” to http://<name-of-your-workspace><acronym-language>.anuvaassistant.com/conversations/
 5. Configure parameter 453 "Default Anuva Assistant Fallback Message", with a message that Anuva will answer whenever it has no answer to that question.
+6. Enable parameter 423 "Enable Anuva Assistant in the internal area of the system", a parameter that allows analysts to iterate with ANUVA
+7. Enable parameter 450 "Enable Anuva Assistant in the external area of the system", parameter that allows end users to iterate with ANUVA.    
+    
 
 !!! note "NOTE"
     
