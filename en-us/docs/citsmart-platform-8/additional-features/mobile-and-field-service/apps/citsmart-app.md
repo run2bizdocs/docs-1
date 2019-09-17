@@ -12,14 +12,27 @@ To use the Experience application, it's necessary to create the menu with the op
 Procedure
 ------------
 
-1.	Install the Experience application from an online store (App Store or Play Store);
-2.	To create a connection, click on "Add" or "Add connection";
-3.	It will appear the "New Connection" screen to register the connection;
-4.	Enter the data:
+1.	Install the Experience application natively from an online store (App Store or Play Store);
+2.  Click on "Connections":
+
+    ![connections](images/app-pt-1.jpg)
+    
+     Figure 1 - Connection
+
+3.  The system will open the screen to Configure the Connection:
+
+    ![configuration](images/app-pt-2.jpg)
+    
+     Figure 2 - Connection configuration
+
+4.  If there is already a configuration registered, the usar can edit it;
+5.	To create a new connection, click on "+";
+6.	It will appear the "New Connection" screen to register the connection;
+7.	Enter the data:
 
     ![connection](images/app-en.jpg)
 
-     Figure 1 - Connection
+     Figure 3 - New connection
 
 
     *	Name of connection: enter the name of the instance;
