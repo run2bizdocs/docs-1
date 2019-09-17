@@ -20,10 +20,12 @@ Antes de começar
 Para cadastrar um usuário é necessário registrar previamente o perfil de acesso
 e o colaborador.
 
-Configurar o parâmetro 455 - ID do modelo de e-mail que será enviado para o usuário com a 
-senha quando o usuário for criado ou alterado.
+Configurar os parâmetros:
 
-Parâmetro 33 - URL de acesso ao sistema.
+|#|Descricão|
+|--------|---------|
+|33|URL de acesso ao sistema.|
+|455|ID do modelo de e-mail que será enviado para o usuário com a senha quando o usuário for criado ou alterado|
 
 O administrador poderá criar um novo modelo de e-mail, editando o modelo preexistente
     
