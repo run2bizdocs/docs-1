@@ -137,8 +137,11 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 #### Visão Global:
 
 •	Listagem – Apresenta uma lista com os chamados da sua fila;
+
 •	Por atendente – Gerenciamento de ticket em uma visão Kanban;
+
 •	Por Situação de SLA – Uma visão sintética categorizada por status de SLA;
+
 •	Por Status do Fluxo – Estado atual (expressões cadastradas para um fluxo) de tickets atribuídos a um grupo;
 
 #### Visão por Mapa:
@@ -152,8 +155,11 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 #### Outras opções
 
 •	Agenda: Permite visualizar eventos relacionados à Tickets, Mudança, Problema e Libração;
+
 •	Resumo: Um relatório quantitativo de tickets;
+
 •	Pesquisa Avançada: Permite realizar buscas mais detalhadas de tickets bem como as informações geradas em seu atendimento;
+
 •	Auditoria: Apresenta todas as alterações que ocorrem em um ticket sejam automáticas ou manuais;
 
 [1]:images/ticket-search-citsmart.png
