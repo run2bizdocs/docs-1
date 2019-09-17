@@ -59,12 +59,7 @@ Procedimento
     
 7. O sistema permite o imput de uma nova senha;
 
-8. Ao gravar o sistema envio via e-mail os novos dados ao colaborador.
-
-
-
-
-
+8. Ao gravar o sistema envia por e-mail os novos dados ao colaborador.
 
 
 Relacionado
