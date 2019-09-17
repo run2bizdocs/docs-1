@@ -88,12 +88,16 @@ Localizado no canto superior direito podemos visualizar uma serie de ícones que
 
 8.	Delegar – ticket(s) para um grupo;
 
-!!! warning “ATENÇÃO”
-O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
-Atualização da Página:
+    !!! warning “ATENÇÃO”
+        O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
+
+#### Atualização da Página:
+
 9.	Atualização automática (25 em 25 segundos);
 10.	Atualização manual;
-Relatórios
+
+#### Relatórios
+
 11.	Relatórios
 12.	(Outras) opções
 a.	Suspensão/Reativação - de ticket;
