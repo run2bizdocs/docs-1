@@ -54,8 +54,8 @@ Procedimento
 
 6. O sistema verifica se:
     
-    o sistema utiliza a política de senha;
-    o usuário é LDAP ou não;
+    -    o sistema utiliza a política de senha;
+    -    o usuário é LDAP ou não;
     
 7. O sistema permite o imput de uma nova senha;
 
