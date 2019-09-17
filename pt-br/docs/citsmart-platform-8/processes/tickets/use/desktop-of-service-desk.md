@@ -88,8 +88,8 @@ Localizado no canto superior direito podemos visualizar uma serie de ícones que
 
 8.	Delegar – ticket(s) para um grupo;
 
-    !!! warning “ATENÇÃO”
-        O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
+!!! warning “ATENÇÃO”
+    O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
 
 #### Atualização da Página:
 
@@ -109,14 +109,17 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 
 ![Option Ticket Citsmart][6]
 
-Opções principais:
+#### Opções principais:
+
 1.	Abrir;
 2.	Apenas visualizar;
 3.	Visualizar a descrição sem abrir;
 4.	Relatórios;
 5.	Visualizar o Fluxo – do serviço;
 6.	Mais opções (mostra os itens abaixo);
-Opções secundárias:
+
+#### Opções secundárias:
+
 7.	Delegar;
 8.	Suspender;
 9.	Alterar o SLA;
@@ -126,8 +129,8 @@ Opções secundárias:
 13.	Agendar atividade
 14.	Imprimir
 
-Atenção!
-Essas opções são baseadas nas permissões dadas ao seu perfil, em razão disso, eventualmente não será possível utilizar todas as opções disponíveis acima.
+!!! Warning "Atenção"
+    Essas opções são baseadas nas permissões dadas ao seu perfil, em razão disso, eventualmente não será possível utilizar todas as opções disponíveis acima.
 
 ### Menu Principal
 
