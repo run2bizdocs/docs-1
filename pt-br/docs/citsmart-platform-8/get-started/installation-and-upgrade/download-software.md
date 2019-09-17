@@ -9,6 +9,14 @@ Title: Software e Download
     A instalação do CITSmart Enterprise requer sistema operacional GNU/Linux com kernel igual ou superior ao 3.10.
 
     Recomenda-se Red Hat, CentOS, Debian ou Ubuntu.
+    
+    Para versões de browsers, utilizar:
+    
+    EDGE versão mínima Microsoft Edge 42.17134.1.0 / Microsoft EdgeHTML 17.17134
+
+    Google Chrome versão mínima: Versão 76.0.3809.132 (Versão oficial) 64 bits
+
+    Mozilla Firefox Quantum versão mínima: 69.0(64 bits)
 
 
 Para execução do CITSmart Enterprise, baixar os pacotes necessários conforme
