@@ -12,14 +12,27 @@ Para utilizar la aplicación Experience, es necesario crear el menú con las opc
 Procedimiento
 ------------
 
-1.	Instalar la aplicación Experience desde la tienda en línea (App Store o Play Store);
-2.	Para crear una conexión, hacer clic en "Agregar" o "Agregar conexión";
+1.	Instalar la aplicación Experience nativamente desde su tienda en línea (App Store o Play Store);
+2.  Hacer clic en "Connections":
+
+    ![connections](images/app-pt-1.jpg)
+    
+     Figura 1 - Conexión
+
+3.  El sistema abrirá la pantalla de Configuración de Conexión:
+
+    ![configuracion](images/app-pt-2.jpg)
+    
+     Figura 2 - Configuración de conexión
+
+4.  Si hay alguna configuración registrada, el usuario puede editarla;
+5.	Para crear una conexión, hacer clic en "+";
 3.	Se mostrará la pantalla "Nueva conexión" para registrar la conexión;
 4.	Informar los datos:
 
     ![conexión](images/app-es.jpg)
 
-     Figura 1 - Conexión
+     Figura 3 - Nueva conexión
 
 
     *	Nombre de la conexión: informar el nombre de la instancia;
