@@ -13,7 +13,7 @@ Procedimento
 ------------
 
 1.	Instalar o aplicativo Experience nativamente a partir da sua loja online (App Store ou Play Store);
-2.  Clicar "Connections":
+2.  Clicar em "Connections":
 
     ![connections](images/app-pt-1.jpg)
 
