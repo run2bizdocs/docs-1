@@ -12,8 +12,17 @@ Para utilizar o aplicativo Experience é preciso criar o menu com as opções qu
 Procedimento
 ------------
 
-1.	Instalar o aplicativo Experience a partir da loja online (App Store ou Play Store);
-2.	Para criar uma conexão, clicar no botão “Add” ou “Adicionar conexão”;
+1.	Instalar o aplicativo Experience nativamente a partir da sua loja online (App Store ou Play Store);
+2.  Clicar em "Connections":
+
+    ![connections](images/app-pt-1.png)
+
+3.  O sistema abrirá a tela de Configuração da Conexão:
+
+    ![configuracao](images/app-pt-2.png)
+
+4.	Caso exista alguma configuração cadastrada o usuário poderá editá-la;
+5.  Para criar uma conexão, clicar no botão “+”;
 3.	Será apresentada tela “Nova Conexão” para registrar conexão:
 4.	Informar os dados:
 
