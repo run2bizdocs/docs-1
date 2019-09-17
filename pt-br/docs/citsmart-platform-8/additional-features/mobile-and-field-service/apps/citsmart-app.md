@@ -16,19 +16,23 @@ Procedimento
 2.  Clicar em "Connections":
 
     ![connections](images/app-pt-1.jpg)
+    
+     Figura 1 - Conexão
 
 3.  O sistema abrirá a tela de Configuração da Conexão:
 
     ![configuracao](images/app-pt-2.jpg)
+    
+     Figura 2 - Configuração de conexão
 
 4.	Caso exista alguma configuração cadastrada o usuário poderá editá-la;
 5.  Para criar uma conexão, clicar no botão “+”;
-3.	Será apresentada tela “Nova Conexão” para registrar conexão:
-4.	Informar os dados:
+6.	Será apresentada tela “Nova Conexão” para registrar conexão:
+7.	Informar os dados:
 
     ![conexao](images/app-pt.png)
 
-     Figura 1 - Conexão
+     Figura 3 - Nova conexão
 
 
     *	Nome da conexão: informar o nome da instância;
