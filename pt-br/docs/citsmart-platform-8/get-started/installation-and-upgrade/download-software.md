@@ -54,7 +54,7 @@ https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.15.tgz
 
     No manual será utilizado PostgreSQL com download do repositório oficial.
 
-O CITSmart Enterprise é compatível com a versão do PostgreSQL 9.3 à 9.10 e o download será feito no
+O CITSmart Enterprise é compatível com as versões do PostgreSQL, exceto a versão 9.11, e o download será feito no
    momento da configuração dos pacotes.
 
    Recomenda-se que instalações de Oracle ou MSSQL sejam efetuados conforme
