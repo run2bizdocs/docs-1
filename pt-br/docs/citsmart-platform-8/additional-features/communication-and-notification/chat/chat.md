@@ -106,7 +106,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do CITSmart em cen
 3. O analista envolvido na interlocução também deve vincular o contato para receber a conversa;
 4. O analista abre a aba Atendentes, seleciona um contato e inicia uma conversa;
 5. Caso o outro interlocutor possua em seus contatos esse analista, então é possível manter a comunicação;
-6. Caos o outro interlocutor não possua em seus contatos esse analista, não é possível manter contato;
+6. Caso o outro interlocutor não possua em seus contatos esse analista, não é possível manter contato;
 7. O atendimento poderá assumir os seguintes status:
    a. Aguardando atendente (o atendente pode ser o solicitante ou o Analista) - sinalizado por uma bola verde não preenchida
    b. Online - Ambos os interlocutores estão ativos para conversa - sinalizado por uma bola verde preenchida
