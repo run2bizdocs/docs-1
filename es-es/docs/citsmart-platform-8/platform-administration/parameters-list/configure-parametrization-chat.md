@@ -25,6 +25,9 @@ Procedimiento
 | 388 |      ID de usuario predeterminado (solicitud externa)     |                  |             ID del usuario estándar (Solicitud externa)            |          No se aplica         |
 | 389 |       ID de grupo predeterminado (solicitud externa)      |                  |              ID del grupo estándar (Solicitud externa)             |          No se aplica         |
 | 390 |                ID de unidad predeterminada                |                  | ID de la Unidad que se asignará al usuario registrado en el perfil |          No se aplica         |
+| 447 |  ID de modelo de correo electrónico para notificar nuevos mensajes en el chat |                    | ID de modelo de correo electrónico para notificar nuevos mensajes en el chat |        No se aplica       |
+| 299 |     Ticket - Activar el intercambio de mensajes             |       S o N       | Activa un icono de chat junto al número de ticket en la cola de atención |        No se aplica       |
+| 448 |    Editor de texto utilizado por la aplicación        |                    | Editor de texto utilizado por la aplicación |        No se aplica       |
 
 Tabla 1 - Lista de parámetros
 
