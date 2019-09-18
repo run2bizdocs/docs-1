@@ -29,6 +29,9 @@ Procedure
 | 388 |    Default user ID (External request)   |                 |                  Default user ID (External request)                 |    Not applicable   |
 | 389 |   Default group ID (External request)   |                 |                 Default group ID (External request)                 |    Not applicable   |
 | 390 |             Default unit ID             |                 | Unit ID that will be assigned to the user registered in the profile |    Not applicable   |
+| 447 |  Email template ID for notification of new messages in chat |                    | Email template ID for notification of new messages in chat |        Not applicable       |
+| 299 |     Ticket - Activate message exchange             |       Y or N       | Activate a chat icon next to the ticket number in the attedance queue |        Not applicable       |
+| 448 |    Text editor used by the application        |                    | Text editor used by the application |        Not applicable       |
 
 Table 1 - Parameters list
 
