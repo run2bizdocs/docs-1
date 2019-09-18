@@ -76,30 +76,39 @@ Localizado no canto superior direito podemos visualizar uma serie de ícones que
 
 #### Paginação:
 
-1.	Voltar para a primeira página;
-2.	Voltar uma página;
-3.	Número identificador do ticket inicial da página;
-4.	Número identificador do ticket final da página;
-5.	Número total de tickets;
-6.	Avançar uma página;
-7.	Avançar para a última página;
+1: Voltar para a primeira página;
+
+2: Voltar uma página;
+
+3: Número identificador do ticket inicial da página;
+
+4: Número identificador do ticket final da página;
+
+5: Número total de tickets;
+
+6: Avançar uma página;
+
+7: Avançar para a última página;
 
 #### Delegação:
 
-8.	Delegar – ticket(s) para um grupo;
+8: Delegar – ticket(s) para um grupo;
 
-!!! warning “ATENÇÃO”
+!!! Warning “Atenção”
     O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
 
 #### Atualização da Página:
 
-9.	Atualização automática (25 em 25 segundos);
-10.	Atualização manual;
+9: Atualização automática (25 em 25 segundos);
+
+10: Atualização manual;
 
 #### Relatórios
 
-11.	Relatórios
-12.	(Outras) opções
+11: Relatórios
+
+12:	(Outras) opções
+
 a.	Suspensão/Reativação - de ticket;
 b.	Alterar colunas (para personalização da lista);
 
@@ -111,23 +120,35 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 
 #### Opções principais:
 
-1.	Abrir;
-2.	Apenas visualizar;
-3.	Visualizar a descrição sem abrir;
-4.	Relatórios;
-5.	Visualizar o Fluxo – do serviço;
-6.	Mais opções (mostra os itens abaixo);
+1:	Abrir;
+
+2:	Apenas visualizar;
+
+3:	Visualizar a descrição sem abrir;
+
+4:	Relatórios;
+
+5:	Visualizar o Fluxo – do serviço;
+
+6:	Mais opções (mostra os itens abaixo);
 
 #### Opções secundárias:
 
-7.	Delegar;
-8.	Suspender;
-9.	Alterar o SLA;
-10.	Reclassificar;
-11.	Criar Sub-ticket
-12.	Criar ticket relacionado
-13.	Agendar atividade
-14.	Imprimir
+7:	Delegar;
+
+8:	Suspender;
+
+9:	Alterar o SLA;
+
+10:	Reclassificar;
+
+11:	Criar Sub-ticket
+
+12:	Criar ticket relacionado
+
+13:	Agendar atividade
+
+14:	Imprimir
 
 !!! Warning "Atenção"
     Essas opções são baseadas nas permissões dadas ao seu perfil, em razão disso, eventualmente não será possível utilizar todas as opções disponíveis acima.
