@@ -52,7 +52,7 @@ A tela inicial da gerência de ticket é a interface do analista de atendimento 
 
 **14: Opção para visualizar os tickets relacionados** – na lista de atendimento;
 
-Para aplicar uma pesquisa com base nos filtros definidos, utilize o botão “pesquisar” Após a pesquisa ser realizada ocorrerá a alteração do ícone para identificar o status da pesquisa, como por exemplo:
+Para aplicar uma pesquisa com base nos filtros definidos, utilize o botão “pesquisar”. Após a pesquisa ser realizada ocorrerá a alteração do ícone para identificar o status da pesquisa, como por exemplo:
 
  ![Search Ticket Citsmart][2] Ícone sem pesquisa ativa
 
@@ -206,7 +206,7 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 
 #### Outras opções
 
-•	**Agenda**: Permite visualizar eventos relacionados à Tickets, Mudança, Problema e Libração;
+•	**Agenda**: Permite visualizar eventos relacionados à Tickets, Mudança, Problema e Liberação;
 
 •	**Resumo**: Um relatório quantitativo de tickets;
 
