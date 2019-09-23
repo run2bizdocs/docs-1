@@ -5,16 +5,15 @@ Description: Criar um ticket significa abrir um chamado dentro do sistema.
 
 Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade de acompanhar seu histórico de atendimento com visualização de todas as ações remetidas a ele.
 
-Antes de começar
-----------------
+## Antes de começar
 
 1.	É preciso ter permissão para acessar a área de trabalho da Central de Serviço;
 2.	É essencial ter um catálogo de serviços cadastrado e configurado (Portfólio, serviços, atividades, grupos, fluxo, SLA vinculado ao contrato);
 3.	Ter permissão ao grupo vinculado ao catálogo de serviço para poder visualiza-lo e realizar o cadastro.
 
 
-**Procedimento**
-------------
+## Procedimento
+
 1.	Acessar a funcionalidade pelo menu principal Processos > Gerência de Requisição e Incidente > Ticket;
 2.	Clicar no botão “Opções” e em seguida em "Cadastro";
 
@@ -36,8 +35,7 @@ Antes de começar
 
 **7: Editar** – permite a edição do nome, e-mail, telefone e unidade do solicitante;
 
-**Selecionar o serviço**
-------------
+### Selecionar o serviço
 
 ![Select service ticket CITSmart][2]
 
@@ -54,9 +52,7 @@ Antes de começar
 **6: Urgência** – da atividade;
 
 
-
-**Descrever o serviço**
------------
+### Descrever o serviço
 
 ![Description service CITSmart][3]
 
@@ -76,8 +72,8 @@ Antes de começar
     diversos (ex. .pdf, .doc, .png, .jpg, etc.) para ajudar no processo de atendimento.
     A limitação de formatos é definida pelo administrador do sistema.
 
-**Vincular Itens adicionais**
------------
+### Vincular Itens adicionais
+
 Acesse o botão pequeno de cor preta localizado no canto superior direito, abaixo da barra de menu, para visualizar e interagir com as funções desejadas.
 
 •	**Conhecimento**
@@ -94,8 +90,8 @@ Acesse o botão pequeno de cor preta localizado no canto superior direito, abaix
 
 **Liberação**.
 
-**Gravar solicitação**
------------
+### Gravar solicitação
+
 Ao final da pagina você encontra um botão flutuante com as funções de:
 
 **Voltar** – para área de trabalho da Central de Serviços;
@@ -121,8 +117,7 @@ Ao criar o ticket para atendimento, o usuário verá uma nova opção (localizad
     Nesta versão da funcionalidade, do lado direito da tela, será possível visualizar o *Toogle*, que permite os menus laterais
     (que anteriormante ficavam do lado esquerdo da tela) se expandirem ou reduzirem, conforme a necessidade do usuário.
 
-O que fazer a seguir
-------------------------
+## O que fazer a seguir
 
 Visualizar no painel de tickets listados e verificar as informações cadastradas.
 
