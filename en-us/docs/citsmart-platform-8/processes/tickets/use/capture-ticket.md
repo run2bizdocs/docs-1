@@ -1,8 +1,8 @@
-title: Capture ticket
-Description: Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
-# Capture ticket
+title: Capturing a ticket
+Description: Capturing the ticket means take responsibility to solve, in a satisfactory way, the ticket.
+# Capturing a ticket
 
-Capture the ticket means take responsibility to solve, in a satisfactory way, the ticket.
+Capturing the ticket means take responsibility to solve, in a satisfactory way, the ticket.
 
 Before getting started
 --------------------------
