@@ -1,9 +1,9 @@
-title:  Create ticket
-Description: Create a ticket means opening a call within the system.
+title:  Creating ticket
+Description: Creating a ticket means opening a call within the system.
 
-# Create ticket
+# Creating ticket
 
-Create a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
+Creating a ticket means opening a call within the system, with possibility to monitor its attendance history with view of all actions sent to it.
 
 ## Before getting started
 
