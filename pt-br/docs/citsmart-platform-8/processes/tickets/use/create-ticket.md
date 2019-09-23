@@ -106,8 +106,11 @@ Ao final da pagina você encontra um botão flutuante com as funções de:
 Ao criar o ticket para atendimento, o usuário verá uma nova opção (localizada ao lado superior da tela) chamada de *Layout*, esta opção permite ao usuário parametrizar a forma como a tela será apresentada para o atendente, que poderá escolher entre as seguintes possibilidades:
 
 **30X70** - O sistema divide a tela em duas partes, do lado esquerdo mostrará 30% da tela e o lado direito 70%;
+
 **50X50** - O sistema divide a tela em duas partes, cada lado (direito e esquerdo) exibirá 50% da tela;
+
 **100%** - O sistema apresenta a tela sem separações.
+
 
 4.  Preencher os demais dados necessários.
 
