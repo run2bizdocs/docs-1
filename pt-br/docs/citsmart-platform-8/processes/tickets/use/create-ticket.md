@@ -1,36 +1,66 @@
 title: Criar um ticket
-Description: Criar um ticket significa abrir um chamado dentro do sistema. 
+Description: Criar um ticket significa abrir um chamado dentro do sistema.
 
 # Criar um ticket
 
 Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade de acompanhar seu histórico de atendimento com visualização de todas as ações remetidas a ele.
 
-Antes de começar
-----------------
+## Antes de começar
 
-Alguns itens no cadastro de um ticket dependem de informações cadastradas no
-CITSmart, por exemplo um colaborador, um grupo, um contrato, uma unidade,
-tempo de atendimento, um portfólio com atividades e serviços, além de vínculos
-entre alguns e parâmetros configurados. Configurar os parâmetros 9, 40, 41, 260
-e 343.
+1.	É preciso ter permissão para acessar a área de trabalho da Central de Serviço;
+2.	É essencial ter um catálogo de serviços cadastrado e configurado (Portfólio, serviços, atividades, grupos, fluxo, SLA vinculado ao contrato);
+3.	Ter permissão ao grupo vinculado ao catálogo de serviço para poder visualiza-lo e realizar o cadastro.
 
-Procedimento
-------------
 
-1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
-    Requisição e Incidente \> Ticket;
+## Procedimento
 
-2.  Clicar no botão “Opções” e em seguida em "Cadastro";
+1.	Acessar a funcionalidade pelo menu principal Processos > Gerência de Requisição e Incidente > Ticket;
+2.	Clicar no botão “Opções” e em seguida em "Cadastro";
 
-3.  Informar os dados solicitados;
+3.	Informar os dados do solicitante;
 
-5. Ao criar o ticket para atendimento, o usuário verá uma nova opção (localizada ao lado superior da tela) chamada de *Layout*, esta opção permite ao usuário parametrizar a forma como a tela será apresentada para o atendente, que poderá escolher entre as seguintes possibilidades:
+![procedure ticket CITSmart][1]
 
-    - **30X70** - O sistema divide a tela em duas partes, do lado esquerdo mostrará 30% da tela e o lado direito 70%;
-    - **50X50** - O sistema divide a tela em duas partes, cada lado (direito e esquerdo) exibirá 50% da tela;
-    - **100%** - O sistema apresenta a tela sem separações.
+**1: Nome completo** - do solicitante;
 
-4.  Preencher os demais dados necessários.
+**2: E-mail** – do solicitante;
+
+**3: Unidade** – onde o solicitante deseja atendimento;
+
+**4: Histórico do solicitante** – Apresenta toda a relação do solicitante com os tickets;
+
+**5: Satisfação**;
+
+**6: Telefone** – Do solicitante;
+
+**7: Editar** – permite a edição do nome, e-mail, telefone e unidade do solicitante;
+
+### Selecionar o serviço
+
+![Select service ticket CITSmart][2]
+
+**1: Portfólio**;
+
+**2: Serviço**;
+
+**3: Atividade**;
+
+**4: Contrato** – Vinculado ao portfólio;
+
+**5: Impacto** – da atividade;
+
+**6: Urgência** – da atividade;
+
+
+### Descrever o serviço
+
+![Description service CITSmart][3]
+
+**1: Descrição** – espaço propenso a descrever a necessidade do ticket;
+
+**2: Enviar e-mail** – é possível selecionar quais tipos e e-mail o usuário receberá;
+
+**3: Questionário** – informações que complementam o entendimento/finalidades do serviço;
 
 !!! abstract "DICA"
 
@@ -41,14 +71,53 @@ Procedimento
     pesquisa avançada de um ticket. Além disso, é possível incluir anexos de formatos
     diversos (ex. .pdf, .doc, .png, .jpg, etc.) para ajudar no processo de atendimento.
     A limitação de formatos é definida pelo administrador do sistema.
-    
+
+### Vincular Itens adicionais
+
+Acesse o botão pequeno de cor preta localizado no canto superior direito, abaixo da barra de menu, para visualizar e interagir com as funções desejadas.
+
+•	**Conhecimento**
+
+**Projeto**;
+
+**Agenda**;
+
+**Leitura de e-mails**.
+
+•	**Opções de TI**
+
+**Item de configuração do solicitante**;
+
+**Liberação**.
+
+### Gravar solicitação
+
+Ao final da pagina você encontra um botão flutuante com as funções de:
+
+**Voltar** – para área de trabalho da Central de Serviços;
+
+**Gravar** – para gravar o ticket gerando assim o número para rastreio e acompanhamento.
+
+
+Ao criar o ticket para atendimento, o usuário verá uma nova opção (localizada ao lado superior da tela) chamada de *Layout*, esta opção permite ao usuário parametrizar a forma como a tela será apresentada para o atendente, que poderá escolher entre as seguintes possibilidades:
+
+**30X70** - O sistema divide a tela em duas partes, do lado esquerdo mostrará 30% da tela e o lado direito 70%;
+
+**50X50** - O sistema divide a tela em duas partes, cada lado (direito e esquerdo) exibirá 50% da tela;
+
+**100%** - O sistema apresenta a tela sem separações.
+
+
+4.  Preencher os demais dados necessários.
+
+
+
 !!! note "NOTA"
 
-    Nesta versão da funcionalidade, do lado direito da tela, será possível visualizar o *Toogle*, que permite os menus laterais 
-    (que anteriormante ficavam do lado esquerdo da tela) se expandirem ou reduzirem, conforme a necessidade do usuário. 
-    
-O que fazer a seguir
-------------------------
+    Nesta versão da funcionalidade, do lado direito da tela, será possível visualizar o *Toogle*, que permite os menus laterais
+    (que anteriormante ficavam do lado esquerdo da tela) se expandirem ou reduzirem, conforme a necessidade do usuário.
+
+## O que fazer a seguir
 
 Visualizar no painel de tickets listados e verificar as informações cadastradas.
 
@@ -75,8 +144,7 @@ Relacionado
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
-!!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>09/06/2019 - Larissa Lourenço
-
+[1]:images/procedure-ticket-CITSmart.png
+[2]:images/Select-service-ticket-CITSmart.png
+[3]:images/Description-service-CITSmart.png
