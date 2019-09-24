@@ -31,15 +31,19 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 
 **3: Situação** – que o Centro de Experiência se encontra (“Ativo” e “Inativo”);
 
-**4: Tipo** - é possível visualizar as opções *Principal* (CE pai) e *Vínculo* (CE Filho) que mostra os que foram criados para serem vinculados à algum CE principal;
+**4: Tipo** - é possível visualizar as opções *Principal* (CE pai) e *Vínculo* (CE Filho) - para link com um CE principal.
 
 **5: Descrição** – texto que seguirá com o título para apresentação do Centro de Experência.
 
-   3.Na guia **Permissões** - definir os grupos que terão acesso;
-
+   3.Na guia **Permissões** - definir os grupos que poderão visualizar;
+   
+#### Construção
+##### Personalização 
 ![permission experiece center CITSmart][2]
 
-   4. Na gruia **Construção** - permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
+  
+  
+  4. Na gruia **Construção** - permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
 
 #### Personalização visual
 
@@ -161,6 +165,6 @@ Acessar a página inicial do CE e verificar as informações.
 
 [1]:images/creat-experience-center.png
 
-[2]:images/header-experience-center.png
+[2]:images/permission-experiece-center.png
 
-[3]:images/permission-experiece-center.png
+[3]:images/header-experience-center.png
