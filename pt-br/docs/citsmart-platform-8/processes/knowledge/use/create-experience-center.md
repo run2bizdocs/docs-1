@@ -26,21 +26,21 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 ![creat experience center CITSmart][1]
 
 
-1: Alterar – ícone do Centro de Experiência;
+**1: Alterar** – ícone do Centro de Experiência;
 
-2: Título – que será apresentado para o usuário do Centro de Experiência;
+**2: Título** – que será apresentado para o usuário do Centro de Experiência;
 
-3: Situação – que o Centro de Experiência se encontra (“Ativo” e “Inativo”);
+**3: Situação** – que o Centro de Experiência se encontra (“Ativo” e “Inativo”);
 
-4: Tipo - é possível visualizar as opções *Principal* que mostra os Centros de Experiências criados para serem principais, e *Vínculo* que mostra os que foram criados para serem vinculados à algum CE principal;
+**4: Tipo** - é possível visualizar as opções *Principal* que mostra os Centros de Experiências criados para serem principais, e *Vínculo* que mostra os que foram criados para serem vinculados à algum CE principal;
 
-5: Descrição – texto que seguira com o título para apresentação do Centro de Experiência para o usuário.
+**5: Descrição** – texto que seguira com o título para apresentação do Centro de Experiência para o usuário.
 
-3.	*Permissões* - guia que permite definir os grupos que terão acesso ao CE.
+**3.	*Permissões*** - guia que permite definir os grupos que terão acesso ao CE.
 
 ![permission experiece center CITSmart][2]
 
-4.	*Construção* - guia que permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
+**4.	*Construção*** - guia que permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
 
 #### Personalização visual
 
@@ -161,5 +161,5 @@ Acessar a página inicial do CE e verificar as informações.
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
 [1]images/creat-experience-center.png
-[2]images/
-[3]images/
+[2]images/header-experience-center.png
+[3]images/permission-experiece-center.png
