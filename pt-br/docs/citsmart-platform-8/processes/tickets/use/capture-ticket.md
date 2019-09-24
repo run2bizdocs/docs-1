@@ -2,8 +2,11 @@ Title: Captura de ticket
 Description: Description: Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
 
 # Captura de ticket
+
 Capturar o ticket significa assumir a responsabilidade pelo atendimento de um ticket ou contribuir para a solução deste.
+
 ## Antes de começar
+
 - [X] Para realizar a captura é necessário pelo menos um ticket aberto.
 - [X] É necessário possuir permissão para visualizar, capturar e realizar as ações possíveis dentro do ticket.
 
