@@ -2,8 +2,11 @@ Title: Captura de ticket
 Description: Description: Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
 
 # Captura de ticket
+
 Capturar o ticket significa assumir a responsabilidade pelo atendimento de um ticket ou contribuir para a solução deste.
+
 ## Antes de começar
+
 - [X] Para realizar a captura é necessário pelo menos um ticket aberto.
 - [X] É necessário possuir permissão para visualizar, capturar e realizar as ações possíveis dentro do ticket.
 
@@ -15,6 +18,7 @@ Capturar o ticket significa assumir a responsabilidade pelo atendimento de um ti
 
 
 ### Capturar ticket
+
 Para se torna responsável pelo ticket, é possível encontrar na barra de menu a opção “Capturar ticket” (item 5) para se tornar o responsável pelo mesmo, outra forma de poder capturar é pelas opções do ticket (item 13) – na barra superior.
 
 #### Itens da barra de ferramentas
@@ -72,12 +76,14 @@ Dentro das opções podemos encontrar:
 **9: Imprimir**;
 
 ### Atendimento
+
 O início efetivo do atendimento ocorre a partir da captura do ticket para finalizar ou encaminhar o ticket para outra área. Diversos recursos podem ser utilizados pelo analista: Comentários, Histórico, Envio de notificação  por e-mail e Lançamento de horas.
 
 ![Attendance ticket CITSmart][3]
 
 **1: Comentários** – área própria para realizar comentários para as pessoas que passarem por esse ticket, tendo como opção ser;
-Privacidade:
+
+**Privacidade**:
 
 •	**Privado** – apenas a equipe de atendimento pode visualizar;
 
