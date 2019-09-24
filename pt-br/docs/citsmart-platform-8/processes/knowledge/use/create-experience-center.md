@@ -160,6 +160,8 @@ Acessar a página inicial do CE e verificar as informações.
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
 
-[1]images/creat-experience-center.png
-[2]images/header-experience-center.png
-[3]images/permission-experiece-center.png
+[1]:images/creat-experience-center.png
+
+[2]:images/header-experience-center.png
+
+[3]:images/permission-experiece-center.png
