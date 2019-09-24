@@ -9,19 +9,18 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 
 - [X] Para criar um centro de experiência é necessário possuir permissão no perfil e acesso.
 
-    !!! Abstract  "Nota"
-    Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
+    !!! Abstract "Nota" Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
 
 ## Procedimento
 
-1.	Para acessar a funcionalidade do Centro de Experiência, acesse o menu Centro de Experiência > Configuração de Centro de Experiência.
+   1.	Para acessar a funcionalidade do Centro de Experiência, acesse o menu Centro de Experiência > Configuração de Centro de Experiência.
 
 
 ### Criar Centro de Experiencia
 
-1.	Clicar em “Novo”;
+   1.	Clicar em “Novo”;
 
-2.	*Informações* - guia onde o usuário descreve e nomeia o Centro de Experiência;
+   2.	*Informações* - guia onde o usuário descreve e nomeia o Centro de Experiência;
 
 ![creat experience center CITSmart][1]
 
@@ -36,11 +35,11 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 
 **5: Descrição** – texto que seguira com o título para apresentação do Centro de Experiência para o usuário.
 
-**3.	*Permissões*** - guia que permite definir os grupos que terão acesso ao CE.
+   **3.	*Permissões*** - guia que permite definir os grupos que terão acesso ao CE.
 
 ![permission experiece center CITSmart][2]
 
-**4.	*Construção*** - guia que permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
+   **4.	*Construção*** - guia que permite personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links e vincular outros Centros de Experiência:
 
 #### Personalização visual
 
@@ -76,8 +75,7 @@ Largura completa: Deixa o CE completamente distribuído no tamanho do seu navega
 
 •	**Ícone do menu** – Permite alterar a cor das seções, dos links e dos ícones do menu (utilizando cores em código, Ex: #777)
 
-    !!! Abstract “Atenção”
-O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar que nada será alterado.
+    !!! Abstract“Atenção” O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar que nada será alterado.
 
 #### Widgets com navegação
 
@@ -91,16 +89,16 @@ Esta estrutura permite a criação de um Centro de Experiência com um menu late
 
 •	Para personalizar um menu, clicar no botão com formato de ferramenta:
 
-o	**Widget** - adiciona e personaliza todos os tipos widgets disponíveis (ver tabela),
+   o	**Widget** - adiciona e personaliza todos os tipos widgets disponíveis (ver tabela),
 
 - O primeiro botão permite que esse menu seja a tela inicial do Centro de Experiência
 
 - O segundo botão tem a função habilitar ou desabilitar a permissão de um grupo para esse menu específico.
 
-o	**Link** - preencher com o link que deseja tornar disponível no menu;
+   o	**Link** - preencher com o link que deseja tornar disponível no menu;
 
-o	**Centro de Experiência** – vincular um CE já existente (do tipo vínculo);
-
+   o	**Centro de Experiência** – vincular um CE já existente (do tipo vínculo);
+  
 #### Widgets sem navegação
 
 Esta estrutura permite a criação de um centro de experiência somente utilizando widgets.
@@ -111,7 +109,8 @@ Esta estrutura permite a criação de um centro de experiência somente utilizan
 
 •	Escolher e personalizar os widgets disponíveis (ver tabela).
 
-5.	Clique em “gravar” para salvar e caso esteja ativo para publicar.
+
+   5.	Clique em “gravar” para salvar e caso esteja ativo para publicar.
 
 ## Widgets Disponíveis
 |**Nome**|**Tipo**|**Objetivo**|
