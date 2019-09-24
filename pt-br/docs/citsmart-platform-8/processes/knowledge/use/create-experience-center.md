@@ -149,11 +149,11 @@ Esta estrutura permite a criação de um centro de experiência somente utilizan
 ||||
 |Centro de Experiência|Centro de Experiência |Permite inserir outro centro de experiência|
 
-##O que fazer a seguir
+## O que fazer a seguir
 
 Acessar a página inicial do CE e verificar as informações.
 
-##Relacionado
+## Relacionado
 
 [Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
