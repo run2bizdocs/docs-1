@@ -27,7 +27,7 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 **2: Título** – que será apresentado para o usuário do Centro de
 Experiência;
 
-**3: Situação** – que o Centro de Experiência se encontra (“Ativo” e “Inativo”);
+**3: Situação** – que o Centro de Experiência se encontra (“Ativo” ou “Inativo”);
 
 **4: Tipo** - é possível visualizar as opções *Principal* que mostra os Centros de Experiências criados para serem principais, e *Vínculo* que mostra os que foram criados para serem vinculados à algum CE principal;
 
