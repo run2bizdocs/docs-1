@@ -16,6 +16,8 @@ In addition to the capabilities provided by the cloud, Citsmart seeks to maintai
 
 A basic overview of how the CITSmart cloud works can be seen in the diagram below:
 
+### Cloud
+
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
 ### On-premises
