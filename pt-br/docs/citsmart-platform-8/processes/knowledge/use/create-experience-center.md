@@ -169,18 +169,18 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 |Menu| Geral | Permite visualizar menu do CITSmart. |
 ||||
 |Centro de conhecimento| Conhecimento| Gera um botão que direciona para o Centro de Conhecimento|
-|Conhecimento| Conhecimento| permite inserir documentos já existentes na base de conhecimento|
-|Favoritos| Conhecimento| permite listar todos os documentos classificados como favorito no Guia do usuário|
-|Indicados| Conhecimento| permite listar todos os documentos indicados no Guia do usuário|
-|Curtidos| Conhecimento| permite listar todos os documentos curtidos no Guia do usuário|
+|Conhecimento| Conhecimento| Permite inserir documentos já existentes na base de conhecimento|
+|Favoritos| Conhecimento| Permite listar todos os documentos classificados como favorito no Guia do usuário|
+|Indicados| Conhecimento| Permite listar todos os documentos indicados no Guia do usuário|
+|Curtidos| Conhecimento| Permite listar todos os documentos curtidos no Guia do usuário|
 ||||
-|Meus serviços | Solicitações| permite abrir um ticket pelo Centro de Experiência|
-|Meus tickets | Solicitações| permite visualizar a listagem de tickets abertos pelo usuário logado|
+|Meus serviços | Solicitações| Permite abrir um ticket pelo Centro de Experiência|
+|Meus tickets | Solicitações| Permite visualizar a listagem de tickets abertos pelo usuário logado|
 ||||
-|Simple | Simple-Gestão Ágil | permite visualizar worksplaces da funcionalidade Simple |
+|Simple | Simple-Gestão Ágil | Permite visualizar worksplaces da funcionalidade Simple |
 ||||
-|Smart Chat | Comunicação | permite inserir logo para este submenu |
-|Ligue | Comunicação | permite inserir logo para este submenu |
+|Smart Chat | Comunicação | Permite inserir logo para este submenu |
+|Ligue | Comunicação | Permite inserir logo para este submenu |
 ||||
 |Meus Worksplaces | Decisão Smart | Permite buscar relatórios que se encontram dentro do Decisões Smart |
 ||||
