@@ -18,6 +18,14 @@ A basic overview of how the CITSmart cloud works can be seen in the diagram belo
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
+### On-premises
+
+![Screenshot](images/citsmart-on-premises.jpg)
+
+### INV/EVM
+
+![Screenshot](images/citsmart-inv-evm.jpg)
+
 ## CITSmart Cloud Security
 
 CITSmart has security compliance based on the following areas in which it is responsible within the cloud environment:
