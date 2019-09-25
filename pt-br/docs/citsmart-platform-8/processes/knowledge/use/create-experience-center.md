@@ -31,7 +31,7 @@ Experiência;
 
 **4: Tipo** - é possível visualizar as opções *Principal* que mostra os Centros de Experiências criados para serem principais, e *Vínculo* que mostra os que foram criados para serem vinculados à algum CE principal;
 
-**5: Descrição** – texto que seguira com o título para apresentação do Centro de Experiência para o usuário.
+**5: Descrição** – texto que seguirá com o título para apresentação do Centro de Experiência para o usuário.
 
 ### Permissões
 
@@ -56,7 +56,7 @@ e vincular outros Centros de Experiência:
 
 - **Estilo da grid** – Permite alterar a forma de visualizar o Centro de experiência,
 
-    - Largura fixa: Mantem o CE fixo no centro da tela;
+    - Largura fixa: Mantém o CE fixo no centro da tela;
 
     - Largura completa: Deixa o CE completamente distribuído no tamanho
 do seu navegador;
