@@ -89,7 +89,7 @@ Cabeçalho fixo dos Centro de Experiências, contêm:
 
 **Centro de Experiência com navegação**
 
-Esta estrutura permite a criação de um Centro de Experiência com um menu em forma de arvore que se encontra na lateral esquerda. Cada
+Esta estrutura permite a criação de um Centro de Experiência com um menu em forma de árvore que se encontra na lateral esquerda. Cada
 item de menu poderá conter widgets específicos.
 
 •	Para adicionar nova seção – clicar no botão com sinal “+”
@@ -104,7 +104,7 @@ item de menu poderá conter widgets específicos.
 
 Aba **Widget**
 
-• **Deseja definir está pagina como inicial ao abrir o centro de experiência pela primeira vez?** - tem a função de transformar esse menu na pagina principal do seu Centro de Experiência.
+• **Deseja definir está página como inicial ao abrir o centro de experiência pela primeira vez?** - tem a função de transformar esse menu na página principal do seu Centro de Experiência.
 
 •	**Herdar os grupos do Centro de Experiência** - permite selecionar quais os grupos que terão permissão a esse menu, os grupos que estão disponíveis para gerenciamento são os grupos que tiveram permissão na guia “Permissões”;
 
@@ -129,7 +129,7 @@ Aba **Link**
 
 Aba **Centro de Experiência**
 
-•	Permite que seja vinculado outro Centro de Experiência para que o usuário possa acessa-lo com rapidez e praticidade.
+•	Permite que seja vinculado outro Centro de Experiência para que o usuário possa acessá-lo com rapidez e praticidade.
 
 **Centro de Experiência sem navegação**
 
@@ -156,7 +156,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 
 |**Nome**|**Tipo**|**Objetivo**|
 |:----------------------:|:-------------:|:--------------------------------:|
-|Noticias| Geral | Exibir conhecimentos do tipo “Notícia”. |
+|Notícias| Geral | Exibir conhecimentos do tipo “Notícia”. |
 |Notificação| Geral | Exibir as notificações do Sistema. |
 |Pesquisas| Geral |Permite visualizar campanhas ativas|
 |Youtube| Geral |Permite incorporar vídeos do Youtube|
@@ -187,7 +187,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 | Centro de Experiência | Centro de Experiência |Permite inserir outro centro de experiência|
 
 ## O que fazer a seguir
-Caso o Centro de Experiência esteja ativo, basta grava-lo para publicar.
+Caso o Centro de Experiência esteja ativo, basta gravá-lo para publicar.
 
 ## Relacionado
 [Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create knowledge.html)
