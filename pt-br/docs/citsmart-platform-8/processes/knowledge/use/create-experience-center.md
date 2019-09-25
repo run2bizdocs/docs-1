@@ -67,9 +67,8 @@ do seu navegador;
 
 - **Ícone do menu** – Permite alterar a cor das seções, dos links e dos ícones do menu (utilizando cores em código, Ex: #777)
 
-!!! warning “Atenção”
-    O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar
-que nada será alterado.
+!!! warning "ATENÇÃO"
+    O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar que nada será alterado.
 
 #### Área de Desenho
 
