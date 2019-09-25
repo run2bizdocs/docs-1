@@ -34,6 +34,8 @@ Visión general de la arquitectura de nube
 Una visión general básica de cómo funciona la nube del CITSmart se puede ver en el
 siguiente diagrama:
 
+### Cloud
+
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
 ### On-premises
