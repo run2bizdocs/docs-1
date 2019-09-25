@@ -38,11 +38,11 @@ siguiente diagrama:
 
 ### On-premises
 
-![Screenshot](images/citsmart-on-premises.jpg)
+![On-premisses CITSmart][2]
 
 ### INV/EVM
 
-![Screenshot](images/citsmart-inv-evm.jpg)
+![INV/EVM CITSmart][3]
 
 CITSmart Cloud Security
 -----------------------
@@ -71,3 +71,5 @@ Para cada una de las áreas anteriores, contamos con procesos y medidas de segur
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins
 
+    [2]:images/citsmart-on-premises.jpg
+    [3]:images/citsmart-inv-evm.jpg

@@ -20,11 +20,11 @@ A basic overview of how the CITSmart cloud works can be seen in the diagram belo
 
 ### On-premises
 
-![Screenshot](images/citsmart-on-premises.jpg)
+![On-premisses CITSmart][2]
 
 ### INV/EVM
 
-![Screenshot](images/citsmart-inv-evm.jpg)
+![INV/EVM CITSmart][3]
 
 ## CITSmart Cloud Security
 
@@ -44,4 +44,6 @@ For each area above, we have technical security processes and measures that ensu
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
-	
+
+    [2]:images/citsmart-on-premises.jpg
+    [3]:images/citsmart-inv-evm.jpg
