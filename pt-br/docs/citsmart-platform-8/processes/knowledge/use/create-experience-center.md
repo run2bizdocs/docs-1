@@ -41,7 +41,7 @@ Experiência;
 
 ### Construção
 
-4. Na guia Construção, é possivel personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links
+4. Na guia Construção, é possível personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links
 e vincular outros Centros de Experiência:
 
 #### Personalização Visual
@@ -81,7 +81,7 @@ Na Área de desenho você pode construir o conteúdo que será publicado no Cent
 
 8. Adicionar item de menu, no final da seção clicar em "+";
 
-9. Configurar o conteúdo do menu, clicar no icone de chave;
+9. Configurar o conteúdo do menu, clicar no ícone de chave;
 
 10. Selecionar tipo de conteúdo (Widget, link ou Centro de Experiência);
 
@@ -111,7 +111,7 @@ Na Área de desenho você pode construir o conteúdo que será publicado no Cent
 
 **Tipo: Centro de Experiência**
 
-1. Permite que seja vinculado outro Centro de Experiência (Tipo: Vínculo) ao principal. Clique no campo pesquisa e serão listados os CE´s cadastrados, selecione um. Também é possivel digitar o nome para localizá-lo.
+1. Permite que seja vinculado outro Centro de Experiência (Tipo: Vínculo) ao principal. Clique no campo pesquisa e serão listados os CE´s cadastrados, selecione um. Também é possível digitar o nome para localizá-lo.
 
 2. Clicar em gravar para salvar as alterações.
 
@@ -138,7 +138,7 @@ Esta estrutura permite a criação de um Centro de Experiência com uma árvore 
 
 Esta estrutura permite a criação de um centro de experiência utilizando somente widgets.
 
-**Widgets Disponíves**
+**Widgets Disponíveis**
 
 |**Nome**|**Tipo**|**Objetivo**|
 |:----------------------:|:-------------:|:--------------------------------:|
