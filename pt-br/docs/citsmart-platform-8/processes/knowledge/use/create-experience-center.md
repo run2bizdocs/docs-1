@@ -9,8 +9,8 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 
 - [X] Para criar um centro de experiência é necessário possuir permissão no perfil e acesso.
 
-!!! nota
-Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
+!!! abstract "Nota"
+    Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
 
 ## Procedimento
 
@@ -66,7 +66,7 @@ do seu navegador;
 •	**Ícone do menu** – Permite alterar a cor das seções, dos links e dos ícones do menu (utilizando cores em código, Ex: #777)
 
 !!! warning “Atenção”
-O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar
+    O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar
 que nada será alterado.
 
 #### Área de Desenho
