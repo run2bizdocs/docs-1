@@ -46,7 +46,7 @@ e vincular outros Centros de Experiência:
 
 #### Personalização Visual
 
-•	**Alterar logo** – Permite alterar a logo do CE. Tamanho recomentado:
+•	**Alterar logo** – Permite alterar a logo do CE. Tamanho recomendado:
 
 •	**Alterar cabeçalho** – Permite alterar a imagem do cabeçalho do CE. Tamanho recomendado:
 
