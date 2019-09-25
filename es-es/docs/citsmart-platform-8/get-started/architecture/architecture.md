@@ -36,6 +36,14 @@ siguiente diagrama:
 
 ![Screenshot](images/citsmart-cloud-plataform.png)
 
+### On-premises
+
+![Screenshot](images/citsmart-on-premises.jpg)
+
+### INV/EVM
+
+![Screenshot](images/citsmart-inv-evm.jpg)
+
 CITSmart Cloud Security
 -----------------------
 
