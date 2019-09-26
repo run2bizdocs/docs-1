@@ -22,8 +22,11 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 ### Filtros
 
 **Filtro** - permite realizar pesquisas utilizando:
+
 **- Título** - do centro de Experiência
+
 **- Situação** - que ele se encontra (“Ativo” ou” Inativo”);
+
 **- Tipo** - Centro de Experiência (“Principal” ou “Vínculo”).
 
 ### Listagem
@@ -37,6 +40,7 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 #### Editar
 
 **- Excluir** – o Centro de Experiência já existente;
+
 **- Editar** – o Centro de Experiência selecionado.
 
 #### Importar/Exportar
