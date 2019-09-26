@@ -7,7 +7,7 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 
 ## Antes de começar
 
-- [X] Para criar um centro de experiência é necessário possuir permissão no perfil e acesso.
+- [X] Para criar um centro de experiência é necessário possuir permissão no perfil de acesso.
 
 !!! abstract "Nota"
     
