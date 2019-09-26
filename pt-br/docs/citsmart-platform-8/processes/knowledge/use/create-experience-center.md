@@ -10,7 +10,7 @@ O objetivo do Centro de Experiência - CE é criar um portal personalizável par
 - [X] Para criar um centro de experiência é necessário possuir permissão no perfil de acesso.
 
 !!! abstract "Nota"
-    
+
     Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
 
 ## Procedimento
@@ -69,7 +69,7 @@ do seu navegador;
 - **Ícone do menu** – Permite alterar a cor das seções, dos links e dos ícones do menu (utilizando cores em código, Ex: #777)
 
 !!! warning "ATENÇÃO"
-    
+
     O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar que nada será alterado.
 
 #### Área de Desenho
@@ -78,7 +78,7 @@ Na Área de desenho você pode construir o conteúdo que será publicado no Cent
 
 6. Defina tipos de navegação (com menu ou sem menu);
 
-7. Criar seções para a árvore de navegação (apenas para navegação com menus); 
+7. Criar seções para a árvore de navegação (apenas para navegação com menus);
 
 8. Adicionar item de menu, no final da seção clicar em "+";
 
@@ -174,9 +174,13 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 | Centro de Experiência | Centro de Experiência |Permite inserir outro centro de experiência|
 
 ## O que fazer a seguir
-Na área superior, clique em "Prévia" para visualizar o Centro de Experência criado. Após finalizar o CE, publique-o para que sua organização possa usufruir de todos os recursos.
+
+- Na área superior, clique em "Prévia" para visualizar o Centro de Experência criado. Após finalizar o CE, publique-o para que sua organização possa usufruir de todos os recursos.
+- Clique em "Exportar" para baixar o Centro de Experiência em formato json.
+
 
 ## Relacionado
+
 [Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create knowledge.html)
 
 [Cadastrar um serviço](/pt-br/citsmart-platform-8/processes/portfolio-and catalog/use/register-a-service.html)

@@ -5,125 +5,180 @@ Description: This feature provides a variety of actions, such as including, chan
 The objective of the Experience Center (EC) is create a portal that the user can customize. When creating this portal, it's possible to customize the layout and the access references most appropriated to the client (as defined in the company's rules), and also make available the addition of videos from Youtube and the creation of Slideshows, within other applicability, in order to ensure an user experience more interactive and intuitive.
 This feature provides a variety of actions, such as including, changing, and deleting the Custom Experience Center.
 
-Before getting started
---------------------------
+## Antes de começar
 
-Some widgets in the Experience Center depend on the information registered in
-the CITSmart ITSM, for example: knowledge, searches (surveys), services,
-notifications and others. Therefore, it's necessary to structure those
-information before initiate the construction of the EC.
+- [X] To create an experience center, it's necessary to have permission in the access profile.
 
-Procedure
--------------
+!!! abstract "NOTE"
+    
+    Some widgets depend on information entered in other features, for example, knowledge, surveys, services, notifications, and others. Therefore, it's necessary to structure this information for possible use within the EC.
 
-1.  Access the functionality Experience Center through the main menu Experience
-    Center \> Experience Center Configuration;
+## Procedure
 
-2.  Click on "New";
+1. To access the Experience Center functionality, access the menu **Experience Center** > Experience Center Configuration > **New**.
 
-3.  In the tab **Information**, complete the fields available;
+### Information
 
-    !!! Abstract "NOTE"
-    
-        In the field "Type", by choosing the option Link, it's possible to make
-        the Experience Center as a link in another Experience Center.
-        
-4.  In the tab **Permissions**, set the groups that will have access;
+2. In the "Information" tab, complete the fields available;
 
-5.  In the tab **Construction**, you can visually customize the Experience Center,
-    in addition to create and add Widgets, Links and link other Expecience Centers:
+![information Experience Center CITSmart][1]
+
+**1: Change** – icon of Experience Center;
+
+**2: Title** – that will be presented for the user of Experience Center;
+
+**3: Status** – of the Experience Center (“Active” or “Inactive”);
+
+**4: Type** - it's possible to view the options *Main* showing the Experience Center created to be primary, and *Link* showing the ones that were created to be linked to some primary EC;
+
+**5: Description** – text that will follow with the title for the presentation of the Experience Center to the user.
+
+### Permissions
+
+3. On the Permissions tab, define the groups that will be able to view the Experience Center;
+
+![Permission Experience Center CITSmart][2]
+
+### Construction
+
+4. On the Construction tab, it's possible to visually customize the Experience Center, besides the possibility create sections and add Widgets, links and linking other Experience Centers:
+
+#### Visual Customization
+
+5. By using these tools, you can customize the Experience Center view
+
+- **Change logo** – Allows to change the EC logo. Recommended size:
+
+- **Change header** – Allows to change the EC header image. Recommended size:
+
+- **Reset structure** – Allows to set the whole structure as if it were the first access, removing all changes;
+
+- **Grid style** – Allows to change how to visualize the Experience Center,
+
+    - Fixed Width: Keeps the EC fixed at center of screen;
+
+    - Full Width: Leaves the EC completely distributed in the size of your browser;
+
+- **Logo size** – Allows to increase the logo size up to 100% of its original size.
+
+- **Theme color** – Allows to change the color of the drop down menu (using colors in code, e.g.: # 777)
+
+- **Menu icon** – Allows to change the color of menu sections, links, and icons (using colors in code, e.g.: # 777)
+
+!!! warning "ATTENTION"
     
-    *Visually customize*
-    
-    -   To change the logo, click on "Change logo";
-    
-    -   To change the header, click on "Change header";
-    
-    -   To define the style of the grid, choose one of the options available;
-    
-    -   To choose the font color of the menus, click on the field located in front of "Theme color".
-        
-    *Widgets with navigation*
-    
-    **This structure allows the creation of an Experiment Center with a side menu. 
-    Each menu item may contain specific widgets.**
-    
-    -   To add new section, click on the signal "+";
-    
-    -   Place the mouse on the field "Enter section name" and name it;
-    
-    -   Complete the section name by placing the mouse over the field **Enter 
-        the section name,** then a field will be created for a new menu, name it;
-        
-    -   To add new menus, click on "+"; 
-    
-    -   To customize the menu, click on the button with the shape of a tool:
-    
-        -   Widget: add and customize all of types of widgets available (see table);
-        
-        -   Link: complete with the link you want to make available in the menu;
-        
-        -   Experience Center: link an Experience Center already existing (of **Type** Link).
-        
-    *Widgets without navigation*
-    
-    **This structure allows the creation of an Experience Center only using widgets**.
-    
-    -   Click on the signal "+";
-    
-    -   Choose the layout of the new section;
-    
-    -   Choose and customize the widgets available (see table).
-    
-    
+    The "Reset Structure" button is irreversible after saving the change, if you have not *saved*, just press the back button and nothing will be changed.
+
+#### Desing Area
+
+In the design area you can build the content that will be published in the Experience Center.
+
+6. Set the type of navigation (with or without menu);
+
+7. Create sections for the navigation tree (only for navigation with menus); 
+
+8. Add menu item, at end of section, by clicking on "+";
+
+9. Configure the menu content, by clicking on the key icon;
+
+10. Select the type of content (Widget, link or Experience Center);
+
+
+**Type: Widget**
+
+1. Select the size for the content area, by clicking on "+" and choosing an option;
+
+!!! example "EXAMPLE"
+
+    100%, 50% x 50%, 33,3% x 33,3% x 33,3%, 33,3% x 65,6%, 65,6% x 33,3% e 25% x 25% x 25% x 25%.
+
+2. Select the Widget, by clicking on "=+" and choosing an option;
+
+3. Click on save.
+
+- After selecting a layout, it's possible to choose CITSmart functions as Widgets (See Widgets table);
+
 !!! note "NOTE"
 
-     When opening a ticket through the experience center, it's possible to configure a system page 
-     to be viewed. It's necessary to set parameter 451 to the URL of the page you want to return, 
-     for example:
-     /pages/experienceCenter/experienceCenter.load#/ec?idExperienceCenter=51 .
-     
-    
-6.  Click on "Save".    
+    - Do you want to set this page as home when you first open the experience center? - has the function of making this menu the main page of your Experience Center.
+    - Inherit Experience Center Groups - allows to select which groups will be allowed to this menu, the groups that are available for management are the groups that have permission on the “Permissions” tab;
+
+**Type: Link**
+
+1. When selecting the item link, enter a URL to direct the user when they click on the menu item;  
+
+2. Click on save.
+
+**Type: Experience Center**
+
+1. Allows to link another Experience Center (Type: Link) to the main one. Click on the search field and the registered EC will be listed, select one. It's also possible to type the name to find it.
+
+2. Click on save.
 
 
+#### Positioning of Elements and Widgets
 
-### Widgets Available
- 
+**Cabeçalho fixo**
 
-|      **Name**      |  **Type**  |                          **Objective**                                       |
-|:------------------:|:----------:|:----------------------------------------------------------------------------:|
-| Knowledge Portal   | Shortcut   | Shortcut to the Knowledge Portal.                                            |
-| Contact us         | Shortcut   | Shortcut to our attendance center.                                           |
-| Anuva              | Shortcut   | Shortcut to talk with our virtual assistant Anuva.                           |
-| News               | General    | It presents the knowledge of type "News".                                    |
-| Notifications      | General    | It presents the System notifications.                                        |
-| Searches (Surveys) | General    | It makes available the surveys built in CITSmart HSM.                        |
-| Youtube            | General    | It presents Youtube videos (embed)                                           |
-| Image              | General    | Enter the image                                                              |
-| Slideshow          | General    | It presents Slideshow of type carrossel.                                     |
-| Divider            | General    | Enter horizontal line in the page.                                           |
-| Space              | General    | Enter space in the page.                                                     |
-| Text               | General    | Enter the Text with several formatting.                                      |
-| List               | General    | Enter the links list.                                                        |
-| Menu               | General    | Enter the CITSmart HSM menu.                                                 |
-| My Tickets         | Tickets    | Load tickets opened by the user.                                             |
-| My Approvals       | Tickets    | It presents the requests that need approval (depends on the flow).           |
-| My Portfolios      | Portfolios | Enter the service Portfolio (depending on the service access configuration). |
-| My Workplace       | Workplace  | Enter the Workplace (dashboards, smart reports, etc)                         |
-| Knowledge          | Knowledge  | Load the content of a knowledge.                                             |
-| Favorite           | Knowledge  | It presents the list of favorite knowledge.                                  |
-| Indicated          | Knowledge  | It presents the list of knowledge indicated.                                 |
-| Liked              | Knowledge  | It presents the list of knowledge liked.                                     |
+![header Experience Center CITSmart][3]
 
+ **1: Menu** – with it you can access other Experience Centers to which you have permission;
 
-What to do next
--------------------
+**2: Logo** – selected by the user for a better EC customization;
 
-Access the EC home page and verify the information.
+**3: Search bar** - perform an universal search that will return Knowledge and Activities that the user can select;
 
-Related
------------
+**4: Profile options** – allows you to change the language, edit the profile, logout and access the system
+
+**Experience Center with navigation**
+
+This structure allows the creation of an Experience Center with a left navigation menu tree.
+
+**Experience Center without navigation**
+
+This structure allows the creation of an experience center using only widgets.
+
+**Widgets Available**
+
+|**Name**|**Type**|**Objective**|
+|:----------------------:|:-------------:|:--------------------------------:|
+|News| General | Displays knowledge of type "News”. |
+|Notification| General | Displays Systems notifications. |
+|Searches| General |Allows to view active campaigns|
+|Youtube| General |Allows to incorporate videos from Youtube|
+|Image| General | Enters image |
+|Slide Show| General | Displays slide show of type carrossel. |
+|Divider| General | Inserts horizontal line on page. |
+|Spacer| General | Inserts space between one widget and another. |
+|Text| General | Inserts a text with several formats. |
+|List| General | Inserts the list of links. |
+|Menu| General | Allows to view the menu of CITSmart. |
+||||
+|Knowledge center| Knowledge| Generates a button that directs to the Knowledge Center|
+|Knowledge| Knowledge| Allows to insert existing documents into the knowledge base|
+|Favorites| Knowledge| Allows to list all documents classified as favorites in the User's Guide|
+|Indicated| Knowledge| Allows to list all documents listed in the User's Guide|
+|Liked| Knowledge| Allows to list all documents liked in the User's Guide|
+||||
+|My services | Requests| Allows to open a ticket through the Experience Center|
+|My tickets | Requests| Allows to view the list of tickets opened by the user logged|
+||||
+|Simple | Simple Agile Management | Allows to view the workspaces of the functionality Simple |
+||||
+|Smart Chat | Communication | Allows to enter a logo for this submenu |
+|Call | Communication | Allows to enter the logo for this submenu |
+||||
+|My Worksplaces | Smart Decision | Allows to search for reports within the Smart Decisions |
+||||
+| Experience Center | Experience Center |Allows to enter other experience center|
+
+## What to do next
+
+- Click on "Export" to download the json format Experience Center.
+
+- In the upper area, click on "Preview" to view the created Experiment Center. After finishing the EC, publish it so that your organization can take full advantage of it.
+
+## Related
 
 [Register satisfaction survey](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
