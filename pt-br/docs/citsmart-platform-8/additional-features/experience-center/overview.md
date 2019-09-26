@@ -9,11 +9,11 @@ O objetivo da funcionalidade Centro de Experiência – CE – é permitir a cri
 
 A funcionalidade possui três recursos: Centro de Experiência (front-end / visão do usuário final), Configuração do Centro de Experiência (back-end / visão de configuração) e Configuração de Workplaces (dashboards).
 
-    - **Centro de Experiência** – acesso direto para o Centro de Experiência a qual o usuário tem acesso.
+- **Centro de Experiência** – acesso direto para o Centro de Experiência a qual o usuário tem acesso.
 
-    - **Configuração do Centro de Experiência** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
+- **Configuração do Centro de Experiência** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
 
-    - **Configuração de Workplaces** - acesso à área de configuração de Workplaces para a criação de dashboards utilizando widgets de relatório no Centro de Experiência.
+- **Configuração de Workplaces** - acesso à área de configuração de Workplaces para a criação de dashboards utilizando widgets de relatório no Centro de Experiência.
 
 ## Interface
 
