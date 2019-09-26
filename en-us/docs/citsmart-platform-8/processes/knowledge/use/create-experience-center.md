@@ -195,5 +195,5 @@ This structure allows the creation of an experience center using only widgets.
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 
 [1]:images/creat-experience-center.png
-[2]:images/permission-experiece-center.png
+[2]:images/permission-experience-center.png
 [3]:images/header-experience-center.png
