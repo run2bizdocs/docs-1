@@ -44,5 +44,4 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 **- Importar** – um Centro de Experiência em formato json;
 
 !!! note “NOTA”
-
     A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
