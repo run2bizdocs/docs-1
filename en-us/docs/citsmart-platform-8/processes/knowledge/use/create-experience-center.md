@@ -174,9 +174,9 @@ This structure allows the creation of an experience center using only widgets.
 
 ## What to do next
 
+- In the upper area, click on "Preview" to view the created Experiment Center. After finishing the EC, publish it so that your organization can take full advantage of it.
 - Click on "Export" to download the json format Experience Center.
 
-- In the upper area, click on "Preview" to view the created Experiment Center. After finishing the EC, publish it so that your organization can take full advantage of it.
 
 ## Related
 
