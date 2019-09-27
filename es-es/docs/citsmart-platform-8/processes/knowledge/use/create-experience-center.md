@@ -192,4 +192,8 @@ Relacionado
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
+    
+[1]:images/creat-experience-center.png
+[2]:images/permission-experiece-center.png
+[3]:images/header-experience-center.png    
 
