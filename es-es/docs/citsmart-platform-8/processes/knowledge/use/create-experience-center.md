@@ -7,176 +7,175 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el 
 
 ## Antes de empezar
 
-- [X] Para criar um centro de experiência é necessário possuir permissão no perfil de acesso.
+- [X] Para crear un centro de experiencia, debe tener permiso en el perfil de acceso.
 
-!!! abstract "Nota"
+!!! abstract "NOTA"
 
-    Alguns widgets dependem de informações cadastradas em outras funcionalidades, por exemplo, conhecimentos, pesquisas (surveys), serviços, notificações e entre outros. Neste sentido, é necessário estruturar estas informações para eventual utilização no CE.
+    Algunos widgets dependen de las informaciones registradas en otras funciones, por ejemplo, conocimiento, encuestas, servicios, notificaciones y otros. Por lo tanto, es necesario estructurar esta información para su posible uso en el CE.
 
-## Procedimento
+## Procedimiento
 
-1. Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro de Experiência** > Configuração de Centro de Experiência > **Novo**.
+1. Para acceder a la funcionalidad del Centro de Experiencia, accede al menú **Centro de Experiencia** > Configuración de los Centros de Experiencia > **Nuevo**.
 
-### Informações
+### Información
 
-2. Na guia Informações, preencher os campos disponibilizados;
+2. En la pestaña Información, complete los campos disponibles;
 
 ![information Experience Center CITSmart][1]
 
-**1: Alterar** – ícone do Centro de Experiência;
+**1: Cambiar** – icono del Centro de Experiencia;
 
-**2: Título** – que será apresentado para o usuário do Centro de
-Experiência;
+**2: Título** – que se presentará al usuario del Centro de Experiencia;
 
-**3: Situação** – que o Centro de Experiência se encontra (“Ativo” ou “Inativo”);
+**3: Situación** – que el Centro de Experiencia está ("Activo" o "Inactivo");
 
-**4: Tipo** - é possível visualizar as opções *Principal* que mostra os Centros de Experiências criados para serem principais, e *Vínculo* que mostra os que foram criados para serem vinculados à algum CE principal;
+**4: Tipo** - se puede ver las opciones *Principal* que presenta los Centros de Experiencia creados para ser primarios y *Link*, que presenta los que se crearon para vincularse a algún CE principal;
 
-**5: Descrição** – texto que seguirá com o título para apresentação do Centro de Experiência para o usuário.
+**5: Descripción** – texto que seguirá con el título de presentación del Centro de Experiencia para el usuario.
 
-### Permissões
+### Permisos
 
-3. Na guia Permissões, definir os grupos que poderão visualizar o Centro de Experiência;
+3. En la pestaña Permisos, definir los grupos que podrán ver el Centro de Experiencia;
 
 ![Permission Experience Center CITSmart][2]
 
-### Construção
+### Construcción
 
-4. Na guia Construção, é possível personalizar visualmente o Centro de Experiência, além de poder criar seções e adicionar Widgets, links
-e vincular outros Centros de Experiência:
+4. En la pestaña Construcción, se puede personalizar visualmente el Centro de Experiencias, además de crear secciones y agregar Widgets, enlaces y vincular otros Centros de Experiencia:
 
-#### Personalização Visual
+#### Personalización Visual
 
-5. Utilizando essas ferramentas você pode customizar a visão do Centro de Experiência
+5. Con estas herramientas, se puede personalizar la vista del Centro de Experiencia
 
-- **Alterar logo** – Permite alterar a logo do CE. Tamanho recomendado:
+- **Cambiar logo** – Permite cambiar la logo del CE. Tamaño recomendado:
 
-- **Alterar cabeçalho** – Permite alterar a imagem do cabeçalho do CE. Tamanho recomendado:
+- **Cambiar encabezamiento** – Permite cambiar la imagen del encabezado del CE. Tamaño recomendado:
 
-- **Reiniciar estrutura** – Permite deixar a toda estrutura como se fosse o primeiro acesso, removendo todas alterações;
+- **Restablecer estructura** – Permite dejar toda la estructura como si fuera el primer acceso, eliminando todos los cambios;
 
-- **Estilo da grid** – Permite alterar a forma de visualizar o Centro de experiência,
+- **Estilo de la parrilla** – Permite cambiar la forma en que ve el Centro de Experiencia,
 
-    - Largura fixa: Mantém o CE fixo no centro da tela;
+    - Ancho fijo: Mantiene el CE fijo en el centro de la pantalla;
 
-    - Largura completa: Deixa o CE completamente distribuído no tamanho
-do seu navegador;
+    - Ancho completo: Deja el CE completamente distribuido en el tamaño de su navegador;
 
-- **Tamanho da logo** – Permite aumentar o tamanho da logo em até 100% o seu tamanho original.
+- **Tamaño del logo** – Le permite aumentar el tamaño del logotipo hasta el 100% de su tamaño original.
 
-- **Cor do tema** – Permite alterar a cor do menu retrátil (utilizando cores em código, Ex: #777)
+- **Color del tema** – Le permite cambiar el color del menú retráctil (usando colores codificados, Ej.: # 777)
 
-- **Ícone do menu** – Permite alterar a cor das seções, dos links e dos ícones do menu (utilizando cores em código, Ex: #777)
+- **Icono de menú** – Le permite cambiar el color de las secciones, enlaces e íconos del menú (usando colores codificados, Ej.: # 777)
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENCIÓN"
 
-    O botão “Reiniciar estrutura” é irreversível após salvar a alteração, caso não tenha *salvado* basta apertar o botão voltar que nada será alterado.
+    El botón "Restablecer estructura" es irreversible después de guardar el cambio, si no lo ha *guardado*, simplemente presione el botón Volver y no se cambiará nada.
 
-#### Área de Desenho
+#### Área de Diseño
 
-Na Área de desenho você pode construir o conteúdo que será publicado no Centro de Experiência.
+En el área de diseño, se puede crear el contenido que se publicará en el Centro de Experiencia.
 
-6. Defina tipos de navegação (com menu ou sem menu);
+6. Definir tipos de navegación (con menú o sin menú);
 
-7. Criar seções para a árvore de navegação (apenas para navegação com menus);
+7. Crear secciones de árbol de navegación (solo para navegación con menús);
 
-8. Adicionar item de menu, no final da seção clicar em "+";
+8. Agregar elemento de menú, al final de la sección, hacer clic en "+";
 
-9. Configurar o conteúdo do menu, clicar no ícone de chave;
+9. Configure el contenido del menú, hacer clic en el icono de llave;
 
-10. Selecionar tipo de conteúdo (Widget, link ou Centro de Experiência);
+10. Seleccione el tipo de contenido (Widget, Enlace o Centro de Experiencia);
 
 
 **Tipo: Widget**
 
-1. Selecionar o tamanho para área de conteúdo, clicar em "+" e escolher uma opção;
+1. Seleccione el tamaño para el área de contenido, hacer clic en "+" y elijir una opción;
 
-!!! example "EXEMPLO"
+!!! example "EJEMPLO"
+
     100%, 50% x 50%, 33,3% x 33,3% x 33,3%, 33,3% x 65,6%, 65,6% x 33,3% e 25% x 25% x 25% x 25%.
 
-2. Selecione o Widget, clicar em "=+" e escolher uma opção;
+2. Seleccione el widget, haga clic en "=+" y elija una opción;
 
-3. Clicar em gravar para salvar as alterações.
+3. Hacer clic en guardar.
 
-- Após selecionar o layout desejado, é possível escolher funções do CITSmart em forma de Widgets (Ver tabela de Widgets);
+- Después de seleccionar el diseño deseado, puede elegir las funciones de CITSmart en widgets (consulte la tabla de widgets);
 
 !!! note "NOTA"
-    - Deseja definir está página como inicial ao abrir o centro de experiência pela primeira vez? - tem a função de transformar esse menu na página principal do seu Centro de Experiência.
-    - Herdar os grupos do Centro de Experiência - permite selecionar quais os grupos que terão permissão a esse menu, os grupos que estão disponíveis para gerenciamento são os grupos que tiveram permissão na guia “Permissões”;
 
-**Tipo: Link**
+    - ¿Desea establecer esta página como página de inicio la primera vez que abra el centro de experiencia? - tiene la función de hacer de este menú la página principal de su Centro de Experiencia.
+    - Heredar los grupos del Centro de Experiencia - le permite seleccionar qué grupos se permitirán en este menú, los grupos que están disponibles para la administración son los grupos que tienen permiso en la pestaña "Permisos";
 
-1. Ao selecionar o item link insira uma URL para direcionar o usuário quando o mesmo clicar no item de menu;  
+**Tipo: Enlace**
 
-2. Clicar em gravar para salvar as alterações.
+1. Al seleccionar el elemento de enlace, ingrese una URL para dirigir al usuario cuando hacer clic en el elemento del menú;  
 
-**Tipo: Centro de Experiência**
+2. Hacer clic en guardar.
 
-1. Permite que seja vinculado outro Centro de Experiência (Tipo: Vínculo) ao principal. Clique no campo pesquisa e serão listados os CE´s cadastrados, selecione um. Também é possível digitar o nome para localizá-lo.
+**Tipo: Centro de Experiencia**
 
-2. Clicar em gravar para salvar as alterações.
+1. Le permite vincular otro Centro de experiencia (Tipo: Enlace) al principal. Haga clic en el campo de búsqueda y se mostrarán los CE registrados, seleccione uno. También puedes escribir el nombre para encontrarlo.
+
+2. Hacer clic en guardar.
 
 
-#### Posicionamento dos Elementos e Widgets
+#### Colocación de Elementos y Widgets
 
 **Cabeçalho fixo**
 
 ![header Experience Center CITSmart][3]
 
- **1: Menu** – com ele é possível acessar outros Centros de experiência a qual você possui permissão;
+ **1: Menú** – con él puedes acceder a otros Centros de experiencia para los cuales tienes permiso;
 
-**2: Logo** – selecionada pelo usuário para melhor personalização do CE;
+**2: Logo** – seleccionado por el usuario para una mejor personalización del CE;
 
-**3: Barra de pesquisa** - realizar uma pesquisa universal que retornará Conhecimentos e Atividades que o usuário pode selecionar;
+**3: Barra de búsqueda** - hacer una búsqueda universal que devolverá Conocimientos y Actividades que el usuario puede seleccionar;
 
-**4: Opções da conta** – permite alterar o idioma, editar o perfil, realizar o logout e acessar o sistema
+**4: Opciones de la cuenta** – le permite cambiar el idioma, editar el perfil, cerrar sesión y acceder al sistema
 
-**Centro de Experiência com navegação**
+**Centro de Experiencia con navegación**
 
-Esta estrutura permite a criação de um Centro de Experiência com uma árvore menu de navegação à esquerda.
+Esta estructura permite la creación de un Centro de Experiencia con un árbol de menú de navegación en la izquierda.
 
-**Centro de Experiência sem navegação**
+**Centro de Experiencia sin navegación**
 
-Esta estrutura permite a criação de um centro de experiência utilizando somente widgets.
+Esta estructura permite la creación de un centro de experiencia utilizando solo widgets.
 
-**Widgets Disponíveis**
+**Widgets Disponibles**
 
-|**Nome**|**Tipo**|**Objetivo**|
+|**Nombre**|**Tipo**|**Objectivo**|
 |:----------------------:|:-------------:|:--------------------------------:|
-|Notícias| Geral | Exibir conhecimentos do tipo “Notícia”. |
-|Notificação| Geral | Exibir as notificações do Sistema. |
-|Pesquisas| Geral |Permite visualizar campanhas ativas|
-|Youtube| Geral |Permite incorporar vídeos do Youtube|
-|Imagem| Geral | Inserir imagem |
-|Slide Show| Geral | Exibir Slide show do tipo carrossel. |
-|Divisor| Geral | Inserir linha horizontal na página. |
-|Espaçador| Geral | Inserir espaço entre um widget e outro. |
-|Texto| Geral | Inserir Texto com diversas formatações. |
-|Lista| Geral | Inserir lista de links. |
-|Menu| Geral | Permite visualizar menu do CITSmart. |
+|Noticias| General | Prosenta los conocimientos del tipo "Noticia”. |
+|Notificación| General | Presenta las notificaciones del Sistema. |
+|Búsquedas| General |Permite ver campañas activas|
+|Youtube| General |Permite incorporar videos del Youtube|
+|Imagen| General | Inserta imagen |
+|Slide Show| General | Presenta Slide show del tipo carrossel. |
+|Divisor| General | Insertar línea horizontal en la página. |
+|Espaciador| General | Insertar espacio entre un widget y otro. |
+|Texto| General | Ingresar Texto con diversos formatos. |
+|Lista| General | Ingresar lista de enlaces. |
+|Menú| General | Permite ver el menú del CITSmart. |
 ||||
-|Centro de conhecimento| Conhecimento| Gera um botão que direciona para o Centro de Conhecimento|
-|Conhecimento| Conhecimento| Permite inserir documentos já existentes na base de conhecimento|
-|Favoritos| Conhecimento| Permite listar todos os documentos classificados como favorito no Guia do usuário|
-|Indicados| Conhecimento| Permite listar todos os documentos indicados no Guia do usuário|
-|Curtidos| Conhecimento| Permite listar todos os documentos curtidos no Guia do usuário|
+|Centro del conocimiento| Conocimiento| Genera un botón que lo dirige al Centro de Conocimiento|
+|Conocimiento| Conocimiento| Permite ingresar documentos existentes en la base de conocimiento|
+|Favoritos| Conocimiento| Permite listar todos los documentos clasificados como favoritos en la Guía del usuario|
+|Indicados| Conocimiento| Permite listar todos los documentos indicados en la Guía del usuario|
+|Gustados| Conocimiento| Permite listar todos los documentos que le gustaron en la Guía del usuario|
 ||||
-|Meus serviços | Solicitações| Permite abrir um ticket pelo Centro de Experiência|
-|Meus tickets | Solicitações| Permite visualizar a listagem de tickets abertos pelo usuário logado|
+|Mis servicios | Solicitudes| Permite abrir un ticket a través del Centro de Experiencia|
+|Mis tickets | Solicitudes| Permite ver la lista de tickets abiertos por el usuario conectado|
 ||||
-|Simple | Simple-Gestão Ágil | Permite visualizar worksplaces da funcionalidade Simple |
+|Simple | Simple-Gestión Ágil | Permite ver los worksplaces de la funcionalidad Simple |
 ||||
-|Smart Chat | Comunicação | Permite inserir logo para este submenu |
-|Ligue | Comunicação | Permite inserir logo para este submenu |
+|Smart Chat | Comunicación | Permite ingresar la logo para este submenú |
+|Llamar | Comunicación | Permite ingresar la logo para este submenú |
 ||||
-|Meus Worksplaces | Decisão Smart | Permite buscar relatórios que se encontram dentro do Decisões Smart |
+|Mis Worksplaces | Decisión Smart | Permite buscar informes que están dentro de la Smart Decision |
 ||||
-| Centro de Experiência | Centro de Experiência |Permite inserir outro centro de experiência|
+| Centro de Experiencia | Centro de Experiencia |Permite ingresar otro centro de experiencia|
 
-## O que fazer a seguir
+## Lo que hacer después
 
-- Na área superior, clique em "Prévia" para visualizar o Centro de Experência criado. Após finalizar o CE, publique-o para que sua organização possa usufruir de todos os recursos.
-- Clique em "Exportar" para baixar o Centro de Experiência em formato json.
+- En el área superior, haga clic en "Previa" para ver el Centro de Experiencia creado. Después de terminar el CE, publíquelo para que su organización pueda aprovecharlo al máximo.
+- Haga clic en "Exportar" para descargar el Centro de Experiencia en formato json.
 
 Relacionado
 ---------------
