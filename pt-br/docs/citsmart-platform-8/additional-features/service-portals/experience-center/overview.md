@@ -11,7 +11,7 @@ A funcionalidade possui três recursos: Centro de Experiência (front-end / vis�
 
 - **Centro de Experiência** – acesso direto para o Centro de Experiência a qual o usuário tem acesso.
 
-- **Configuração do Centro de Experiência** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
+- **[Configuração do Centro de Experiência][1]** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
 
 - **Configuração de Workplaces** - acesso à área de configuração de Workplaces para a criação de dashboards utilizando widgets de relatório no Centro de Experiência.
 
@@ -50,3 +50,5 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 
 !!! note "NOTA"
     A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
+
+[1]:/pt-br/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
