@@ -3,7 +3,7 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 
 # Criar Centro de Experiência
 
-O objetivo do Centro de Experiência - CE é criar um portal personalizável para o usuário. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slide shows, dentro de outras aplicabilidades, visando garantir a experiência do usuário mais, interativa e intuitiva. Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+A criação é o processo de concepção e disponibilização de Centros de Experiência (CE's) no CITSmart. Neste documento, são apresentados os recursos de interface que viabilizam o registro, alteração, exclusão, importação e exportação de CE’s.
 
 ## Antes de começar
 
@@ -183,11 +183,8 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 
 [Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create knowledge.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-platform-8/processes/portfolio-and catalog/use/register-a-service.html)
 
-[Cadastrar pesquisa de satisfação](/pt-br/citsmart-platform-8/processes/portfolio-and catalog/configuration/register-satisfaction-survey.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)
 
 About
 Product/Version: CTISmart | 8.0.2.0 Updated: 25/09/2019 – Brunno Roosevelt Sturm Dias
