@@ -176,7 +176,6 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 ## O que fazer a seguir
 
 - Na área superior, clique em "Prévia" para visualizar o Centro de Experência criado. Após finalizar o CE, publique-o para que sua organização possa usufruir de todos os recursos.
-- Clique em "Exportar" para baixar o Centro de Experiência em formato json.
 
 
 ## Relacionado
