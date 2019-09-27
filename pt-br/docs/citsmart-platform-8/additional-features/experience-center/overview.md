@@ -25,9 +25,9 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 
 **- Título** - do centro de Experiência
 
-**- Situação** - que ele se encontra (“Ativo” ou” Inativo”);
+**- Situação** - que ele se encontra ("Ativo" ou "Inativo");
 
-**- Tipo** - Centro de Experiência (“Principal” ou “Vínculo”).
+**- Tipo** - Centro de Experiência ("Principal" ou "Vínculo").
 
 ### Listagem
 
@@ -48,5 +48,5 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 **- Importar** – um Centro de Experiência em formato json;
 
 
-!!! note “NOTA"
+!!! note "NOTA"
     A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
