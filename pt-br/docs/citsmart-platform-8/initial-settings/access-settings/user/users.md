@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 # Cadastrar usuário
 
-Para que o colaborador possa acessar o sistema, é necessário criar um usuário, neste processo, há a possibilidade de enviar os dados do usuário (login e senha) para o e-mail cadastrado. Neste caso, configure o parâmetro 455 indicando o template de e-mail (ID) criado para esta finalidade. No template de e-mail devem constar as chaves ${LOGIN} e ${NOVASENHA} .
+Para que o colaborador possa acessar o sistema é necessário criar um usuário. Ao registrá-lo é possível que os dados do usuário (login e senha) sejam enviados para o e-mail do colaborador. Para isso, configure o parâmetro 455 indicando o template de e-mail (ID) criado para esta finalidade. No template de e-mail devem constar as chaves ${LOGIN} e ${NOVASENHA} .
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir um usuário.
@@ -25,11 +25,8 @@ Para enviar o Login e a Senha do usuário para o e-mail do Colaborador:
 
 - [X] Configurar o parâmetro 455 com o ID do modelo de e-mail criado para enviar os dados de acesso;
 
-!!! exemple "EXEMPLO: Modelo de E-mail"
-    Prezado usuário,
-    Seguem dados de acesso:
-    Usuário: ${LOGIN}
-    Senha: ${NOVASENHA}
+!!! note "EXEMPLO"
+    Modelo básico: "Prezado usuário, seguem dados de acesso. Usuário: ${LOGIN} e Senha: ${NOVASENHA}"
 
 ## Procedimento
 
