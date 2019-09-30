@@ -1,10 +1,8 @@
-title: Register user
+title: Registering user
 Description: This feature provides a variety of actions, such as including, changing, and deleting an user. 
-# Register user
+# Registering user
 
-In order for the employee to be able to access the system, it's necessary to create an user.
-The system will send an email with the login and password of the new user that was created 
-by Citsmart.
+In order for the employee to access the system, it's necessary to create a user. By registering it, it's possible that user's data (login and password) are sent to the email of employee. To do this, set parameter 455 indicating the email template (ID) created for this purpose. The email template should contain the keys ${LOGIN} and $ {NEWPASSWORD}.
 
 This feature provides a variety of actions, such as including, changing, and deleting an user.
 
@@ -13,53 +11,35 @@ This feature provides a variety of actions, such as including, changing, and del
     The sending of login and password, when registering the new user, doesn't include users 
     imported via AD or LDAP.
 
-Before getting started
---------------------------
+## Before getting started
 
-To register an user, it's necessary to previously register the profile access
-and employee.
+To register an user, it's necessary to:
 
-Configure the parameters:
+- [X] Register the Employee;
 
-|#|Description|
-|--------|---------|
-|33|System access URL.|
-|455|Email template ID that will be sent to the user with the password when the user is created or changed|
+- [X] Have at least an Access Profile;
 
-The admin can create a new email template by editing the existing email template:
+To send the Login and Password to the Employee's email:
 
-    ID: 205
-    Email template ID: ACCESSCREDENCIAL
-    
-Just include the keys:
+- [X] Configuring parameter 33 and correctly indicating the instance's URL;
 
-    User: ${LOGIN}
-    Password: ${NOVASENHA}
+- [X] Configuring parameter 455 with the email template ID created to send the access data;
 
-Procedure
--------------
+!!! note "EXAMPLE"
 
-1.  Access the functionality through the main menu General Registration \>
-    Personnel Registration \> User;
+    Basic template: "Dear user, here's the access data. Username: ${LOGIN} and Password: ${NEWPASSWORD}"
 
-2.  Complete all mandatory field;
+## Procedure
+
+1.  Access the main menu General Registration \> Personnel Management \> User;
+
+2.  Complete the fields available;
 
 3.  Click on "Save".
 
-4.  The system checks if there is an email template for the  new employee that has the password 
-    key to send via email;
-    
-5.  The system administrator registers or changes an employee's login and password on the user 
-    screen;
-    
-6.  The system checks if:
+!!! info "INFORMATION"
 
-    -    the system uses the password policy;
-    -    the user is LDAP or not;
-    
-7.  The system allows the imput of a new password;
-
-8.  When saving, the system sends by email the new data to the employee.
+    The system checks if there is an email template for the new employee that has the password key to send via email. The system manager registers or changes an employee login and password on the user screen. The system checks whether: the system uses the password policy and whether the user is LDAP or not. The system allows to enter a new password. After saving, the system sends by email the new data to the employee.
 
 
 Related
