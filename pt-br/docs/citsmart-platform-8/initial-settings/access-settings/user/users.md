@@ -14,11 +14,15 @@ excluir um usuário.
 ## Antes de começar
 
 Para cadastrar um usuário é necessário:
+
 - [X] Registrar o Colaborador;
+
 - [X] Possuir no mínimo um Perfil de Acesso;
 
 Para enviar o Login e a Senha do usuário para o e-mail do Colaborador:
+
 - [X] Configurar o parâmetro 33 e indicar corretamente a URL da instância;
+
 - [X] Configurar o parâmetro 455 com o ID do modelo de e-mail criado para enviar os dados de acesso;
 
 !!! exemple "EXEMPLO: Modelo de E-mail"
