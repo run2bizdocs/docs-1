@@ -1,54 +1,55 @@
-Title: Visão Geral
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+Title: Overview
+Description: This functionality provides a variety of actions, such as adding, changing, and deleting the custom Experience Center.
 
-# Visão Geral
+# Overview
 
-O objetivo da funcionalidade Centro de Experiência – CE – é permitir a criação de portais personalizáveis e disponibilizá-los aos usuários finais. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slide shows, dentro de outras aplicabilidades, visando garantir a experiência do usuário mais, interativa e intuitiva. Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+The purpose of the Experience Center - EC - is to enable the creation of customizable portals and make them available to end users. By creating this portal, it's possible to customize the layout and access preferences most appropriate to the customer (as defined by company rules), including making available the inclusion of Youtube videos and the creation of slideshows, within other applicabilities, in order to ensure the most interactive and intuitive user experience. This functionality provides a variety of actions such as adding, changing, and deleting the custom Experience Center.
 
-## Recursos
+## Resources
 
-A funcionalidade possui três recursos: Centro de Experiência (front-end / visão do usuário final), Configuração do Centro de Experiência (back-end / visão de configuração) e Configuração de Workplaces (dashboards).
+The functionality has three resources: Experience Center (front end/end user view), Experience Center Configuration (back end/configuration view), and Workplaces Configuration (dashboards).
 
-- **Centro de Experiência** – acesso direto para o Centro de Experiência a qual o usuário tem acesso.
+- **Experience Center** – direct access to the Experience Center to which the user has access.
 
-- **[Configuração do Centro de Experiência][1]** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
+- **[Experience Center Configuration][1]** – access to the Experience Center maintenance area, allowing you to query, create, delete, edit, import and export.
 
-- **Configuração de Workplaces** - acesso à área de configuração de Workplaces para a criação de dashboards utilizando widgets de relatório no Centro de Experiência.
+- **Workplaces Configuration** - access to the Workplaces configuration area for dashboard creation using widgets of report in the Experience Center.
 
 ## Interface
 
-Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro de Experiência** > Configuração de Centro de Experiência;
+To access the Experience Center, go to the menu **Experience Center** > Experience Center Configuration;
 
-### Filtros
+### Filters
 
-**Filtro** - permite realizar pesquisas utilizando:
+**Filter** - allows to making searches using:
 
-**- Título** - do centro de Experiência
+**- Title** - of the Experience Center;
 
-**- Situação** - que ele se encontra ("Ativo" ou "Inativo");
+**- Status** - which the experience center is ("Active" or "Inactive");
 
-**- Tipo** - Centro de Experiência ("Principal" ou "Vínculo").
+**- Type** - of Experience Center ("Main" or "Link").
 
-### Listagem
+### List
 
-Área para a manutenção de um Centro de Experiência.
+Area for the maintenance of an Experience Center.
 
-#### Novo
+#### New
 
-**- Criar** – um novo Centro de Experiência;
+**- Creating** – a new Experience Center;
 
-#### Editar
+#### Edit
 
-**- Excluir** – o Centro de Experiência já existente;
+**- Delete** – to deleting the Experience Center already created;
 
-**- Editar** – o Centro de Experiência selecionado.
+**- Edit** – to edit the Experience Center selected.
 
-#### Importar/Exportar
+#### Import/Export
 
-**- Importar** – um Centro de Experiência em formato json;
+**- Import** – an Experience Center in json format;
 
 
-!!! note "NOTA"
-    A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
+!!! note "NOTE"
 
-[1]:/pt-br/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
+    Export can be done in the Experience Center creation area or by editing an existing Experience Center.
+
+[1]:/en-us/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html

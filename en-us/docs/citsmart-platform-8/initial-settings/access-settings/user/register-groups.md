@@ -30,7 +30,7 @@ access.
 
 3.  Complete all mandatory fields;
 
-    - **Informações básicas**
+    - **Basic Informations**
 
     |Field|Description|
     |-|-|

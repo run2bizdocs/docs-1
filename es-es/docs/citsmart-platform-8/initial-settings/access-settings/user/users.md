@@ -2,10 +2,7 @@ title: Registrar usuario
 Description: Ofrece acciones diversas, como, incluir, cambiar y borrar un usuario.
 # Registrar usuario
 
-
-Para que el colaborador pueda acceder al sistema, es necesario crear un usuario.
-El sistema enviará un correo electrónico con el login y contraseña del nuevo
-usuario que se ha creado por CITSmart.
+Para que el colaborador acceda al sistema, es necesario crear un usuario. Al registrarse, es posible que los datos del usuario (login y contraseña) se envíen al correo electrónico del colaborador. Para hacer esto, configure el parámetro 455 que indica la plantilla de correo electrónico (ID) creada para este propósito. La plantilla de correo electrónico debe contener las claves $ {LOGIN} y $ {NUEVACONTRASEÑA}.
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar un
 usuario.
@@ -15,54 +12,36 @@ usuario.
     El envío de login y contraseña al registrar un nuevo usuario no incluye los 
     usuarios importados a través de AD o LDAP.
 
-Antes de empezar
---------------------
+## Antes de empezar
 
-Para registrar un usuario, es necesario registrar previamente el perfil de
-acceso y el colaborador.
+Para registrar un usuario, es necesario:
 
-Configurar los parámetros:
+- [X] Registrar el Colaborador;
 
-|#|Descripción|
-|--------|---------|
-|33|URL de acceso al sistema.|
-|455|ID de la plantilla de correo electrónico que se enviará al usuario con la contraseña cuando se crea o cambia el usuario|
+- [X] Tener al menos un Perfil de Acceso;
 
-El administrador puede crear una nueva plantilla de correo electrónico editando la plantilla ya existente
+Para enviar el Login y Contraseña al correo electrónico del Colaborador:
 
-    ID: 205
-    ID de la Plantilla de Correo Electrónico: ACCESSCREDENCIAL
+- [X] Configurar el parámetro 33 e ingresar correctamente la URL de la instancia;
+
+- [X] Configurar el parámetro 455 con la ID de la plantilla de correo electrónico creada para enviar los datos de acceso;
+
+!!! note "EJEMPLO"
     
-Solo incluir las claves:
+    Modelo basico: "Estimado usuario, siguen los datos de acceso. Nombre de usuario: $ {LOGIN} y contraseña: $ {NUEVACONTRASEÑA}"
 
-    Usuário: ${LOGIN}
-    Contraseña: ${NUEVACONTRASENA}
+## Procedimiento
 
-Procedimiento
------------------
-
-1.  Acceder al menú principal Registros Generales \> Gestión de Personal \>
-    Usuario;
+1.  Acceder al menú principal Registros Generales \> Gestión de Personal \> Usurio;
 
 2.  Completar los campos disponibles;
 
 3.  Hacer clic en "Guardar".
 
-4. El sistema verifica si hay una plantilla de correo electrónico para el nuevo 
-   empleado que tiene la clave de contraseña para enviar por correo electrónico;
-
-5. El administrador del sistema registra o cambia el login y contraseña de un empleado en la pantalla de usuario;
-
-6. El sistema verifica si:
+!!! info "INFORMACIÓN"
     
-    -    el sistema usa la política de contraseña;
-    -    el usuario es LDAP o no;
+    El sistema verifica si hay una plantilla de correo electrónico para el nuevo colaborador que tiene la clave de contraseña para enviar por correo electrónico. El administrador del sistema registra o cambia el inicio de sesión y la contraseña de un colaborador en la pantalla del usuario. El sistema verifica si: el sistema usa la política de contraseña y si el usuario es LDAP o no. El sistema le permite ingresar una nueva contraseña. Al guardar, el sistema envía los nuevos datos por correo electrónico al colaborador.
     
-7. El sistema permite el imput de una nueva contraseña;
-
-8. Al guardar, el sistema envía los nuevos datos por correo electrónico al empleado.
-
-
 Relacionado
 -----------
 

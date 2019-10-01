@@ -1,54 +1,55 @@
-Title: Visão Geral
-Description: Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+Title: Visión General
+Description: Esta funcionalidad proporciona una variedad de acciones, como agregar, cambiar y eliminar el Centro de Experiencia personalizado.
 
-# Visão Geral
+# Visión General
 
-O objetivo da funcionalidade Centro de Experiência – CE – é permitir a criação de portais personalizáveis e disponibilizá-los aos usuários finais. Ao produzir este portal, é possível customizar o layout e as preferências de acesso mais adequadas ao cliente (conforme definidos pelas regras da empresa), inclusive disponibilizando a inclusão de vídeos do Youtube e a geração de Slide shows, dentro de outras aplicabilidades, visando garantir a experiência do usuário mais, interativa e intuitiva. Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir o Centro de Experiência customizado.
+El propósito de la funcionalidad del Centro de Experiencia - CE es permitir la creación de portales personalizables y ponerlos a disposición de los usuarios finales. Al producir este portal, es posible personalizar el diseño y las preferencias de acceso más apropiadas para el cliente (según lo definido por las reglas de la compañía), incluida la disponibilidad de la inclusión de videos de Youtube y la generación de presentaciones de aplicabilidad, dentro de otras aplicaciones, para garantizar la experiencia de usuario más interactiva e intuitiva. Esta funcionalidad proporciona una variedad de acciones, como agregar, cambiar y eliminar el Centro de Experiencia personalizado.
 
 ## Recursos
 
-A funcionalidade possui três recursos: Centro de Experiência (front-end / visão do usuário final), Configuração do Centro de Experiência (back-end / visão de configuração) e Configuração de Workplaces (dashboards).
+La funcionalidad tiene tres recursos: Centro de Experiencia (front-end/vista del usuario final), Configuración de los Centros de Experiencia (back-end/vista de configuración) y Configuración de los Workplaces (dashboards).
 
-- **Centro de Experiência** – acesso direto para o Centro de Experiência a qual o usuário tem acesso.
+- **Centro de Experiencia** – acceso directo al Centro de Experiencia al que tiene acceso el usuario.
 
-- **[Configuração do Centro de Experiência][1]** – acesso à área de manutenção do Centro de Experiência, permitindo consultar, criar, excluir, editar, importar e exportar.
+- **[Configuración del Centro de Experiencia][1]** – acceso al área de mantenimiento del Centro de Experiencia, lo que le permite consultar, crear, eliminar, editar, importar y exportar.
 
-- **Configuração de Workplaces** - acesso à área de configuração de Workplaces para a criação de dashboards utilizando widgets de relatório no Centro de Experiência.
+- **Configuración de Workplaces** - acceso al área de configuración de Workplaces para la creación de paneles mediante widgets de informes en el Centro de Experiencia.
 
-## Interface
+## Interfaz
 
-Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro de Experiência** > Configuração de Centro de Experiência;
+Para acceder al Centro de Experiencia, haga clic en el menú **Centro de Experiencia** > Configuración de los Centros de Experiencia;
 
 ### Filtros
 
-**Filtro** - permite realizar pesquisas utilizando:
+**Filtro** - permite hacer búsquedas utilizando:
 
-**- Título** - do centro de Experiência
+**- Título** - del Centro de Experiencia
 
-**- Situação** - que ele se encontra ("Ativo" ou "Inativo");
+**- Situación** - que el Centro de Experiencia se  encuentra ("Activo" o "Inactivo");
 
-**- Tipo** - Centro de Experiência ("Principal" ou "Vínculo").
+**- Tipo** - del Centro de Experiencia ("Principal" o "Link").
 
-### Listagem
+### Lista
 
-Área para a manutenção de um Centro de Experiência.
+Área para el mantenimiento de un Centro de Experiencia.
 
-#### Novo
+#### Nuevo
 
-**- Criar** – um novo Centro de Experiência;
+**- Crear** – un nuevo Centro de Experiencia;
 
 #### Editar
 
-**- Excluir** – o Centro de Experiência já existente;
+**- Borrar** – el Centro de Experiencia ya existente;
 
-**- Editar** – o Centro de Experiência selecionado.
+**- Editar** – el Centro de Experiencia seleccionado.
 
 #### Importar/Exportar
 
-**- Importar** – um Centro de Experiência em formato json;
+**- Importar** – un Centro de Experiencia en formato json;
 
 
 !!! note "NOTA"
-    A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
 
-[1]:/pt-br/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
+    La exportación se puede realizar en el área de creación del Centro de Experiencia o editando un Centro de Experiencia existente.
+
+[1]:/es-es/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
