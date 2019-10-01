@@ -5,15 +5,15 @@ Description: Descreve O que há de novo no CITSmart 8.0
 
 ## Versão 8.0.2.0
 
-:new: Melhorias de UI/UX no Centro de Experiências com novo menu de acesso aos CEs e possibilidade de resize do cabeçalho e logo, dentre outras;
+:new: Melhorias de UI/UX no Centro de Experiência (CE) com novo menu de acesso aos CEs e possibilidade de redimensionamento do cabeçalho e logo, dentre outras;
 
-:new: Nova busca no Centro de Experiências em Conhecimentos, Serviços e Notícias;
+:new: Implementação do recurso de busca no Centro de Experiência para o contexto de Conhecimentos, Serviços e Notícias;
 
-:new: Melhorias de UI/UX do Widget de Portfólios e Serviços com acesso rápido a requisição;
+:new: Melhorias de UI/UX do Widget de Portfólios e Serviços com acesso rápido ao serviço desejado;
 
-:new: Novo widget "My Tickets" com lista de todos os tickets que o usuário abriu ou para aprovação, incluindo novas colunas configuráveis;
+:new: Novo widget "My Tickets" com lista de todos os tickets que o usuário abriu ou para aprovação, incluindo novas colunas personalizáveis;
 
-:new: Nova tela de visualização de ticket do usuário final com comentários, reabertura, anexos etc;
+:new: Nova tela de visualização de ticket do usuário final, com comentários, reabertura, anexos etc;
 
 :new: Melhorias de performance e UI/UX no painel de listagem de tickets do atendente, com filtros rápidos, novo menu lateral e a inclusão da nova coluna de descrição;
 
