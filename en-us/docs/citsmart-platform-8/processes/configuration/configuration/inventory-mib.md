@@ -1,56 +1,56 @@
-Title: Coletar dados de hardware a partir de MIBs (SNMP)
+Title: Collecting hardware data from MIB (SNMP)
 
-# Coletar dados de hardware a partir de MIBs (SNMP)
+# Collecting hardware data from MIB (SNMP)
 
-É possível coletar dados de ativos de hardware, utilizando o protocolo SNMP - via coleta de MIBs - e adicionar à informações de um item de configuração no processo de Gerência de Configuração.
+It's possible to collect hardware asset data using the SNMP protocol - via MIB collection - and add to the information of a configuration item in the Configuration Management process.
 
-## O que fazer antes
+## What to do beforeO que fazer antes
 
-- [X] É necessário ter implantada a versão do CITSmart Inventory 1.2.1.9 ou superior (ver [Realizar a instalação][1]);
-- [X] No arquivo standalone-full.xml deve ser adicionada a propriedade `snmp.oid.repository.directory` contendo o caminho da pasta onde estarão os arquivos xml com o layout (Ver [Configuração do System Properties][2]);
-- [X] Ter um processo de inverário definido via Gerência de Configuração (ver [Implementar o CITSmart Inventory][3]);
-- [X] Inventariar o item de configuração, via SNMP, para a coleta de MIBs (ver [Configurar conexão inventory][4]);
+- [X] It's necessary to have deployed the CITSmart Inventory Version 1.2.1.9 or higher (see [Perform installation][1]);
+- [X] In the standalone-full.xml file, add the property `snmp.oid.repository.directory` with the path of the folder where it'll be the files xml with the layout (see [System Properties Configuration][2]);
+- [X] Have an inventory process defined via Configuration Management (see [Implement CITSmart Inventory][3]);
+- [X] Inventory the SNMP configuration item for collecting MIB (see [Configuring inventory connection][4]);
 
 
-## Criar o Modelo
+## Creating Model
 
-Modelo:
+Model:
 
 ```xml
-<SEU-TIPO-ITEM oid-validator="(OID de uma propriedade específica que irá permitir que seja interpretado o resto do arquivo. Caso não retorne valor, o TIPO-ITEM não é criado.)">
-                <SUA-CARACTERISTICA>(OID da informação desejada)</SUA-CARACTERISTICA>
-                <CARACTERISTICA-EM-HEXA type="hex">(OID da informação que o valor retornado precisa ser convertido de HEXADECIMAL)</CARACTERISTICA-EM-HEXA>
-</SEU-TIPO-ITEM>
+<ITS-TYPE-ITEM oid-validator="(OID of a specific property that will allow the rest of the file to be interpreted. If no value is returned, the TYPE-ITEM is not created.)">
+                <ITS-CHARACTERISTIC>(OID of the information you want)</ITS-CHARACTERISTIC>
+                <CHARACTERISTIC-IN-HEXA type="hex">(OID of the information that the returned value needs to be converted from HEXADECIMAL)</CHARACTERISTIC-IN-HEXA>
+</ITS-TYPE-ITEM>
 ```
 
-Exemplo:
+Example:
 
 ```xml
-<IMPRESSORA oid-validator=".1.3.6.1.2.1.43.5.1.1.16.1">
+<PRINTER oid-validator=".1.3.6.1.2.1.43.5.1.1.16.1">
                 <NAME>.1.3.6.1.2.1.43.5.1.1.16.1</NAME>
                 <DESCRIPTION type="hex">.1.3.6.1.2.1.43.5.1.1.16.1</DESCRIPTION>
-                <QTD-PAGINAS-IMPRESSAS>.1.3.6.1.2.1.43.10.2.1.4.1.1</QTD-PAGINAS-IMPRESSAS>
-                <CAPACIDADE-TOTAL-TONER>.1.3.6.1.2.1.43.11.1.1.8.1.1</CAPACIDADE-TOTAL-TONER>
-                <CAPACIDADE-ATUAL-TONER>.1.3.6.1.2.1.43.11.1.1.9.1.1</CAPACIDADE-ATUAL-TONER>
-</IMPRESSORA>
+                <NUMBER-PAGES-PRINTED>.1.3.6.1.2.1.43.10.2.1.4.1.1</NUMBER-PAGES-PRINTED>
+                <CAPACITY-TOTAL-TONER>.1.3.6.1.2.1.43.11.1.1.8.1.1</CAPACITY-TOTAL-TONER>
+                <CAPACITY-CURRENT-TONER>.1.3.6.1.2.1.43.11.1.1.9.1.1</CAPACITY-CURRENT-TONER>
+</PRINTER>
 ```
 
-## Implantar o Modelo
+## Deploying Model
 
-Após a criação do modelo é necessário salvá-lo na pasta indicada no parâmetro   `snmp.oid.repository.directory` do servidor de aplicação. Após a implantação do modelo, no momento da execução do inventário a aplicação irá checar os ICs que possuem as MIBs indicadas e automaticamente irá atualizar os ativos com as informações coletadas.
+After creating the model, it's necessary to save it in the folder indicated in the parameter  `snmp.oid.repository.directory` of the application server. After the model deployment, at the time of inventory execution, the application will check the CI that have the indicated MIB and will automatically update the assets with the collected information.
 
 
-!!! danger "CUIDADO"
+!!! danger "DANGER"
 
-    1. Os arquivos de layout podem ter qualquer nome. Todos os arquivos da pasta serão interpretados, portanto só poderão existir arquivos XML dentro dela;
-    2. Caso exista mais de um layout, pode ser colocado dentro do mesmo arquivo ou em arquivos diferentes. Só deve-se respeitar o formato de XML;
+    1. Layout files can have any name. All files in the folder will be interpreted, so there can only be XML files inside it;
+    2. If there is more than one layout, it can be placed within the same file or in different files. It's only necessary to respect the XML format;
 
-!!! exemple "LINKS ÚTEIS"
+!!! example "USEFUL LINKS"
 
-    1. http://www.oidview.com/mibs/ - Repositório contendo milhares de MIB’s separado por fabricantes.
-    2. http://ireasoning.com/mibbrowser.shtml - Ferramenta MibBrowser que pode auxiliar na coleta das OID’s.
+    1. http://www.oidview.com/mibs/ - Repository containing thousands of MIB separated by the manufacturers.
+    2. http://ireasoning.com/mibbrowser.shtml - MibBrowser tool that can assist in OID collection.
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
-[3]:/pt-br/citsmart-platform-8/additional-features/add-ons/inventory.html
-[4]:/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
+[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[3]:/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html
+[4]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
