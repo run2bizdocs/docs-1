@@ -62,10 +62,15 @@ Bem-vindos ao CITSmart Versão 8.0.2.0. Esta versão apresenta as seguintes corr
 
 !!! info ""
     Na versão 8.0.2.0 na lista de ticket inserimos a possibilidade de aparecer o campo “Descrição” para visualizar esse campo o usuário deverá seguir os seguintes procedimentos:
+
     1.	Limpar os cookies;
+
     2.	Excluir os registros da tabela serviceRequestColumnsProfile
+    
     3.	Reiniciar o sistema após desenvolver o passo 2.
+
     A comunicação do chat nessa versão é mais eficaz quando feita no mesmo browser, se um solicitante e um atendente estiverem em browsers diferentes pode existir um grande delay na troca de mensagens.
+
     Para uma melhor experiência da plataforma CITSmart versão 8.0.2.0, orientamos que os widgets “my requests” e “my approvals” sejam substituídos pelo widget “my tickets” no Centros de Experiência dos clientes.
 
 
