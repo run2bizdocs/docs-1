@@ -3,6 +3,72 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.2.0 (2019/10/07)
+
+Bem-vindos ao CITSmart Versão 8.0.2.0. Esta versão apresenta as seguintes correções e melhorias:
+
+|Item|Descricão|
+|--------|---------|
+|4785|Melhoria na comunicação Atendente x Atendente no Smart Chat.|
+|4609|[MY-452] Adicionar filtro e coluna de Unidade no painel de Tickets.|
+|4610|[MY-201] Ao cadastrar novo Usuário, enviar Login e Senha por e-mail.|
+|4608|Permitir filtrar a fila de atendimento pelos Status do Ticket.|
+|4621|[My 259] - Permitir vínculo de Grupo Item Configuração filhos no Acesso Remoto.|
+|4602|Criar componentes dinâmicos de fluxo.|
+|4616|Unificar Widgets de "Minhas Aprovações e Minhas Requisições" em "Meus Tickets".|
+|5408|Integração de "Widget de Serviços" com "Conhecimentos" no Centro de Experiência.|
+|5409|Tela de tickets do usuário final no Centro de Experiência.|
+|5492|Área de configuração do "Widget Meus Tickets".|
+|5569|[ITSM 1652] – Falha no Simple de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
+|5487|[Ticket] -  Ticket está sendo duplicado ao reabrir solicitação na visualização do filtro de tickets fechados.|
+|5362|[Ticket] - Histórico do ticket apresentando comentário desconfigurado.|
+|5493|[Mudança] - Correções de tradução de texto no processo de Mudança.|
+|5469|[Ticket] - Erro ao clicar em print em um ticket fechado utilizando o novo filtro de fechados.|
+|5495|[Ticket] - Falha remover um anexo na criação de um ticket pela tela de centro de experiencia.|
+|5494|[E-mail] - Investigação sobre chaves internacionalizadas de modelo de e-mail.
+|2613|[Análise de tendência] - Ajustar  a tela de criação de Problema.|
+|2612|[Sistema]  - Ajustar os campos Impacto e Urgência conforme parâmetro 104.|
+|5272|[Sistema] - Criar regras de segurança na API/Back-end para a tela de execução de comandos de banco de dados.|
+|1273|[CMDB] - Permitir remover os grupos padrão.|
+|4309|[Ticket ] - Ticket com formulário Neuro quebra a tela ao visualizar Variáveis de fluxo.|
+|3423|[Problema] - Sistema está permitindo salvar erro conhecido sem informar nenhuma pasta no portfólio de problema.|
+|2125|[Ticket ] - Evitar que a Solicitação de serviço seja fechada e possua datafim null.|
+|4847|[Ticket ] - Erro no comportamento de pesquisa de sub solicitação.|
+|4848|[Ticket ] - Verificar sub solicitação encerrada sem grupo de encerramento.|
+|5221|[E-mail] - Comportamento incorreto na visualização de opções disponíveis de template de e-mail quando ocorre uma atualização do sistema.|
+|4980|[Ticket ] - Retirar search e área em branco da parte de comentários da tela de tickets do atendente quando não houver informações a serem exibidas.|
+|4559|[Ticket ] - Problema referente a IC do Solicitante e IC Relacionado em um Ticket.|
+|4933|[CMDB - Status do inventário]: Recolocar as opções de link no IP e 'Inventariar Agora'.|
+|2850|[Mudança] - Verificar que a opção 'Papéis e responsabilidades'  referente a Mudança está exibindo duplicado as informações dessa opção.|
+|4354|[Ticket ] - Campo Data (Lançar Horas) do Comentário aceita caracteres alfanuméricos.|
+|1654|[Grupo] - Corrigir tela de Grupo - Fluxo duplicado.|
+|5511|[Centro de Experiência] -0 Verificar que no centro de experiência quando criamos widget 'Minhas Aprovações' não está listando os tickets.|
+|5522|[Ticket] - Quando a descrição possui imagem a imagem fica estourada no campo de descrição na modal de pesquisa de satisfação no Widget de Tickets no CE.|
+|4845|[Ticket] - Parâmetro 448 não reflete editor de texto da criação de sub solicitação.|
+|1528|[Conhecimento] - Moderação de comentários, se o comentário é rejeitado, retirar o mesmo da contagem de comentários.|
+|5223|[Ticket] - Verificar que o sistema não retorna Atividade e Tipo no histórico após reclassificação de um ticket.|
+|2580|[Galeria de Imagem] - Na Galeria de Imagem da Base de Conhecimento não possui mais URL ao clicar na imagem.|
+|4764|[Conhecimento] - Visualização do Portal de Conhecimento quebra o layout da página.|
+|4874|[Ticket] – [Exibir motivo aprovar e rejeitar na ocorrência] Alterar a forma que está sendo exibido o motivo da aprovação ou rejeição na ocorrência.|
+|5878|[ITSM 2002] - Erro nos vínculos de CE não fica gravado as configurações de dentro de outro CE.|
+|5763|[ITSM 1829] - Erro em Neuro.|
+|5781|[ITSM1846]: Verificar que ao delegar um ticket a ocorrência do histórico em pesquisa avançada está vindo desconfigurada.|
+|5568|[ITSM 1313]: Navegador Edge não salva no campo de "Descrição" em um Ticket.|
+|5883|[ITSM 1971] - Verificar null pointer na tela de ticket quando o parâmetro 231 está ativo.|
+
+
+!!! info ""
+    Na versão 8.0.2.0 o parâmetro 299 - Ticket - Ativar troca de mensagens foi aposentado, pois, a funcionalidade de mensageria deu espaço para o Chat. Os históricos estão mantidos nos históricos de ocorrências.
+
+!!! info ""
+    Na versão 8.0.2.0 na lista de ticket inserimos a possibilidade de aparecer o campo “Descrição” para visualizar esse campo o usuário deverá seguir os seguintes procedimentos:
+    1.	Limpar os cookies;
+    2.	Excluir os registros da tabela serviceRequestColumnsProfile
+    3.	Reiniciar o sistema após desenvolver o passo 2.
+    A comunicação do chat nessa versão é mais eficaz quando feita no mesmo browser, se um solicitante e um atendente estiverem em browsers diferentes pode existir um grande delay na troca de mensagens.
+    Para uma melhor experiência da plataforma CITSmart versão 8.0.2.0, orientamos que os widgets “my requests” e “my approvals” sejam substituídos pelo widget “my tickets” no Centros de Experiência dos clientes.
+
+
 ## Versão 8.0.1.7 (2019/09/13)
 
 Bem-vindos ao CITSmart Versão 8.0.1.7. Esta versão apresenta as seguintes correções:
