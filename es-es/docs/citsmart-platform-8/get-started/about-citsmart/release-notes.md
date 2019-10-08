@@ -39,7 +39,7 @@ Bienvenido a CITSmart Versión 8.0.2.0. Esta versión tiene las siguientes corre
 |4980|[Ticket] - Eliminar la búsqueda y el espacio en blanco de la sección de comentarios de la pantalla del asistente de tickets cuando no haya información para mostrar.|
 |4559|[Ticket] - Problema referente al EC del solicitante y EC Relacionado en un Ticket.|
 |4933|[CMDB - Estado del inventario] - Restablezca las opciones de enlace en el IP e 'Inventariar Ahora'.|
-|2850|[Cambio] - Verificar que la opción 'Papeles y responsabilidades' para el Cambio muestre información duplicada para esta opción.|
+|2850|[Cambio] - Verificar que la opción 'Papeles y responsabilidades' para el Cambio presenta información duplicada para esta opción.|
 |4354|[Ticket] - Campo Fecha (Postar Horas) del Comentario acepta caracteres alfanuméricos.|
 |1654|[Grupo] - Corregir pantalla de Grupo - Flujo duplicado.|
 |5511|[Centro de Experiencia] - Verificar que en el centro de experiencia, cuando creamos widget 'Mis Aprobaciones' no esté listando tickets.|
@@ -58,7 +58,7 @@ Bienvenido a CITSmart Versión 8.0.2.0. Esta versión tiene las siguientes corre
 
 
 !!! info ""
-    En la versión 8.0.2.0, el parámetro 299 - Ticket - Habilitar intercambio de mensajes ha sido retirado porque la funcionalidad de mensajería ha sido reemplazada por Chat. Los historiales se mantienen en las historias de ocurrencia.
+    En la versión 8.0.2.0, el parámetro 299 - Ticket - Habilitar intercambio de mensajes, ha sido retirado porque la funcionalidad de mensajería ha sido reemplazada por el Chat. Las historias se mantienen en las historias de ocurrencia.
 
 !!! info ""
     En la versión 8.0.2.0 en la lista de tickets, insertamos la posibilidad de que aparezca el campo "Descripción". Para ver este campo, el usuario debe seguir los siguientes procedimientos:
