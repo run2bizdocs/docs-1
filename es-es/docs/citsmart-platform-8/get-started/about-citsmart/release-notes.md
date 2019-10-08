@@ -3,6 +3,76 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.2.0 (2019/10/07)
+
+Bienvenido a CITSmart Versión 8.0.2.0. Esta versión tiene las siguientes correcciones y mejoras:
+
+|Item|Descripción|
+|--------|---------|
+|4785|Mejora en la comunicación de Asistente x Asistente en el Smart Chat.|
+|4609|[MY-452] Agregar filtro y columna de unidad en el panel de Tickets.|
+|4610|[MY-201] Al registrar nuevo Usuario, enviar Login y Contraseña por correo electrónico.|
+|4608|Permitir filtrar la cola de atención por Estado del Ticket.|
+|4621|[My 259] - Permitir vincular Grupo de Elemento de Configuración hijo en Acceso Remoto.|
+|4602|Crear componentes dinámicos de flujo.|
+|4616|Unificar los Widgets de "Mis aprobaciones" y "Mis Solicitudes" en "Mis Tickets".|
+|5408|Integración de "Widget de Servicio" con "Conocimiento" en el Centro de Experiencia.|
+|5409|Pantalla del ticket del usuario final en el Centro de Experiencia.|
+|5492|Área de configuración del "Widget Mis Tickets".|
+|5569|[ITSM 1652] – Fallo en el Simple de Problema, Cambio y Liberación al crear un Workspace, las Sprints se sobrescriben.|
+|5487|[Ticket] -  El ticket se duplica al volver a abrir la solicitud en la vista de filtro de ticket cerrado.|
+|5362|[Ticket] - Historial de tickets con comentario no configurado.|
+|5493|[Cambio] - Correcciones de traducción de texto en el proceso de Cambio.|
+|5469|[Ticket] - Error al hacer clic en imprimir en un ticket cerrado usando el nuevo filtro cerrado.|
+|5495|[Ticket] - Error al eliminar el archivo adjunto al crear un ticket desde la pantalla del Centro de Experencia.|
+|5494|[Correo Electronico] - Investigación sobre claves internacionalizadas de plantilla de correo electrónico.|
+|2613|[Análisis de tendencia] - Ajustar pantalla de creación de Problema.|
+|2612|[Sistema]  - Ajuste los campos Impacto y Urgencia según el parámetro 104.|
+|5272|[Sistema] - Crear reglas de seguridad API/Backend para la pantalla de ejecución de comandos de la base de datos.|
+|1273|[CMDB] - Permitir eliminar grupos predeterminados.|
+|4309|[Ticket ] - Ticket con informe Neuro excede el tamaño de pantalla predeterminado al ver las variables de flujo.|
+|3423|[Problema] - Sistema permite guardar errores conocidos sin informar ninguna carpeta en el portafolio de problemas.|
+|2125|[Ticket] - Evitar que la Solicitud de servicio se cierre y se ponga la fecha final null.|
+|4847|[Ticket] - Error en el comportamiento de búsqueda de subsolicitud.|
+|4848|[Ticket] - Verificar subsolicitud cerrada sin grupo de cierre.|
+|5221|[Correo electrónico] - Comportamiento incorrecto al ver las opciones de plantilla de correo electrónico disponibles cuando se produce una actualización del sistema.|
+|4980|[Ticket] - Eliminar la búsqueda y el espacio en blanco de la sección de comentarios de la pantalla del asistente de tickets cuando no haya información para mostrar.|
+|4559|[Ticket] - Problema referente al EC del solicitante y EC Relacionado en un Ticket.|
+|4933|[CMDB - Estado del inventario] - Restablezca las opciones de enlace en el IP e 'Inventariar Ahora'.|
+|2850|[Cambio] - Verificar que la opción 'Papeles y responsabilidades' para el Cambio muestre información duplicada para esta opción.|
+|4354|[Ticket] - Campo Fecha (Postar Horas) del Comentario acepta caracteres alfanuméricos.|
+|1654|[Grupo] - Corregir pantalla de Grupo - Flujo duplicado.|
+|5511|[Centro de Experiencia] - Verificar que en el centro de experiencia, cuando creamos widget 'Mis Aprobaciones' no esté listando tickets.|
+|5522|[Ticket] - Cuando la descripción tiene una imagen, la imagen excede el margen en el campo de descripción en el modo de encuesta de satisfacción en el Widget de Tickets en el CE.|
+|4845|[Ticket] - Parámetro 448 no refleja el editor de texto de creación de subsolicitud.|
+|1528|[Conocimiento] - Moderación de comentarios, si el comentario es rechazado, eliminar el mismo comentario del recuento de comentarios.|
+|5223|[Ticket] - Verificar que el sistema no devuelva Actividad y Tipo en el historial después de reclasificar un ticket.|
+|2580|[Galería de Imágenes] - La Galería de Imágenes de la Base de Conocimiento ya no tiene URL al hacer clic en la imagen.|
+|4764|[Conocimiento] - Visualización del Portal de Conocimiento excede el diseño de la página.|
+|4874|[Ticket] – [Presentar motivo para aprobar y rechazar en la ocurrencia] Cambiar cómo se muestra el motivo de aprobación o rechazo en la ocurrencia.|
+|5878|[ITSM 2002] - Error en los enlaces del CE, no registra la configuración desde otro CE.|
+|5763|[ITSM 1829] - Error en Neuro.|
+|5781|[ITSM1846] - Verifique que, al delegar un ticket, la ocurrencia del historial de búsqueda avanzada no esté configurada.|
+|5568|[ITSM 1313] - Navegador Edge no se guarda en el campo "Descripción" en un Ticket.|
+|5883|[ITSM 1971] - Verificar null pointer en la pantalla de ticket cuando el parámetro 231 está activo.|
+
+
+!!! info ""
+    En la versión 8.0.2.0, el parámetro 299 - Ticket - Habilitar intercambio de mensajes ha sido retirado porque la funcionalidad de mensajería ha sido reemplazada por Chat. Los historiales se mantienen en las historias de ocurrencia.
+
+!!! info ""
+    En la versión 8.0.2.0 en la lista de tickets, insertamos la posibilidad de que aparezca el campo "Descripción". Para ver este campo, el usuario debe seguir los siguientes procedimientos:
+
+    1.	Limpiar los cookies;
+
+    2.	Eliminar registros de la tabla serviceRequestColumnsProfile
+    
+    3.	Reiniciar el sistema después de desarrollar el paso 2.
+
+    La comunicación por chat en esta versión es más efectiva cuando se realiza en el mismo navegador, si un solicitante y un asistente se encuentran en diferentes navegadores, puede haber un gran retraso en el intercambio de mensajes.
+
+    Para una mejor experiencia de la plataforma CITSmart versión 8.0.2.0, recomendamos que los widgets "mis solicitudes" y "mis aprobaciones" se reemplacen con el widget "mis tickets" en los Centros de Experiencia del cliente.
+
 ## Versión 8.0.1.7 (2019/09/13)
 
 Bienvenido a CITSmart Versión 8.0.1.7. Esta versión tiene las siguientes correcciones:
