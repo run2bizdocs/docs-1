@@ -3,6 +3,76 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.2.0 (2019/10/07)
+
+Welcome to CITSmart Version 8.0.2.0. This release has the following fixes and improvements:
+
+|Item|Description|
+|--------|---------|
+|4785|Improvement in the communication Attendant x Attendant in Smart Chat.|
+|4609|[MY-452] Add filter and Unit column in the Tickets panel.|
+|4610|[MY-201] When registering new User, send Login and Password by email.|
+|4608|Allows to filter the attendance queue by Ticket Status.|
+|4621|[My 259] - Allows the linkage of child Configuration Item Group in Remote Access.|
+|4602|Create dynamic flow components.|
+|4616|Unify Widgets from "My Approvals and My Requests" in "My Tickets".|
+|5408|Integration of "Widget of Service" with "Knowledge" in the Experience Center.|
+|5409|End user ticket screen in the Experience Center.|
+|5492|Configuration area of the "My Tickets Widget".|
+|5569|[ITSM 1652] – Failure in the Simple of Problem, Change and Release. When creating a Workspace, the Sprints overwrite themselves.|
+|5487|[Ticket] -  Ticket is being duplicated when reopening request in closed ticket filter view.|
+|5362|[Ticket] - Ticket history presenting unconfigured comment.|
+|5493|[Change] - Text translation corrections in the Change process.|
+|5469|[Ticket] - Error clicking print on a closed ticket using the new closed filter.|
+|5495|[Ticket] - Failed to remove attachment when creating ticket from the Experiment Center screen.|
+|5494|[Email] - Investigação sobre chaves internacionalizadas de modelo de e-mail.
+|2613|[Trend Analysis] - Adjust the screen of Problem creation.|
+|2612|[System]  - Adjust the Impact and Urgency fields according to parameter 104.|
+|5272|[System] - Create API/Backend security rules for the database command execution screen.|
+|1273|[CMDB] - Allows to remove default groups.|
+|4309|[Ticket] - Ticket with Neuro form exceeds the default screen size when viewing flow Variables.|
+|3423|[Problem] - System is allowing to save known error without reporting any folders in problem portfolio.|
+|2125|[Ticket] - Prevent service Request from being closed and dated null.|
+|4847|[Ticket] - Error in the search behavior of subrequest.|
+|4848|[Ticket] - Check subrequest closed without closing group.|
+|5221|[Email] - Incorrect behavior when viewing available email template options when a system update occurs.|
+|4980|[Ticket] - Remove search and blank from comments section of ticket attendant screen when no information is displayed.|
+|4559|[Ticket] - Problem regarding to the Requestor CI and Related CI in a Ticket.|
+|4933|[CMDB - Inventory Status] - Reset link options in IP and 'Inventory Now'.|
+|2850|[Change] - Verify that the Roles and Responsibilities option for Change is displaying duplicate information for this option.|
+|4354|[Ticket] - Field of Date (Post Hours) from Comment accepts alphanumeric characters.|
+|1654|[Group] - Correct Group screen - duplicated flow.|
+|5511|[Experience Center] - Verify that in the experience center, when we create 'My Approvals' widget, the tickets are not listing.|
+|5522|[Ticket] - When the description has an image, the image exceeds the margin in the description field in the satisfaction survey mode in the Ticket Widget in EC.|
+|4845|[Ticket] - Parameter 448 doesn't reflect the subrequest creation text editor.|
+|1528|[Knowledge] - Comment moderation, if comment is rejected, remove comment from comment count.|
+|5223|[Ticket] - Verify tha the system doesn't return Activity and Type in history after reclassifying a ticket.|
+|2580|[Image Gallery] - The Knowledge Base Image Gallery no longer has URL when clicking on an image.|
+|4764|[Knowledge] - The Knowledge Portal view exceeds page layout.|
+|4874|[Ticket] – [Show reason to approve and reject on the occurrence] Change how the reason for approval or rejection on the occurrence is displayed.|
+|5878|[ITSM 2002] - Error in EC links doesn't record settings from within another EC.|
+|5763|[ITSM 1829] - Error in Neuro.|
+|5781|[ITSM1846] - Verify that when delegating a ticket the occurrence of the advanced search history is coming unconfigured.|
+|5568|[ITSM 1313] - Edge Browser doesn't save to the "Description" field in a Ticket.|
+|5883|[ITSM 1971] - Check null pointer on ticket screen when parameter 231 is active.|
+
+
+!!! info ""
+    In version 8.0.2.0, the parameter 299 - Ticket - Enable message exchange has been retired because the messaging functionality has been replaced by the Chat. The histories are kept in the occurrence histories.
+
+!!! info ""
+    In version 8.0.2.0 in the ticket list we insert the possibility of appearing the field "Description". In order to view this field, the user must follow the procedures:
+
+    1.	Clean cookies;
+
+    2.	Delete records from serviceRequestColumnsProfile table
+    
+    3.	Restart the system after developing step 2.
+
+    Chat communication in this version is most effective when done in the same browser, if a requester and an attendant are in different browsers, there may be a long delay in message exchange.
+
+    For a better experience of the CITSmart version 8.0.2.0, we advise that the “my requests” and “my approvals” widgets to be replaced by the “my tickets” widget in the customers Experience Centers.
+
 ## Version 8.0.1.7 (2019/09/13)
 
 Welcome to CITSmart Version 8.0.1.7. This release has the following fixes:
