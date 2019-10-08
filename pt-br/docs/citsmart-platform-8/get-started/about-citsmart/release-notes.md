@@ -30,7 +30,7 @@ Bem-vindos ao CITSmart Versão 8.0.2.0. Esta versão apresenta as seguintes corr
 |2612|[Sistema]  - Ajustar os campos Impacto e Urgência conforme parâmetro 104.|
 |5272|[Sistema] - Criar regras de segurança na API/Back-end para a tela de execução de comandos de banco de dados.|
 |1273|[CMDB] - Permitir remover os grupos padrão.|
-|4309|[Ticket ] - Ticket com formulário Neuro quebra a tela ao visualizar Variáveis de fluxo.|
+|4309|[Ticket ] - Ticket com formulário Neuro ultrapassa o tamanho padrão da tela ao visualizar Variáveis de fluxo.|
 |3423|[Problema] - Sistema está permitindo salvar erro conhecido sem informar nenhuma pasta no portfólio de problema.|
 |2125|[Ticket ] - Evitar que a Solicitação de serviço seja fechada e possua datafim null.|
 |4847|[Ticket ] - Erro no comportamento de pesquisa de sub solicitação.|
@@ -42,13 +42,13 @@ Bem-vindos ao CITSmart Versão 8.0.2.0. Esta versão apresenta as seguintes corr
 |2850|[Mudança] - Verificar que a opção 'Papéis e responsabilidades'  referente a Mudança está exibindo duplicado as informações dessa opção.|
 |4354|[Ticket ] - Campo Data (Lançar Horas) do Comentário aceita caracteres alfanuméricos.|
 |1654|[Grupo] - Corrigir tela de Grupo - Fluxo duplicado.|
-|5511|[Centro de Experiência] -0 Verificar que no centro de experiência quando criamos widget 'Minhas Aprovações' não está listando os tickets.|
-|5522|[Ticket] - Quando a descrição possui imagem a imagem fica estourada no campo de descrição na modal de pesquisa de satisfação no Widget de Tickets no CE.|
+|5511|[Centro de Experiência] - Verificar que no centro de experiência quando criamos widget 'Minhas Aprovações' não está listando os tickets.|
+|5522|[Ticket] - Quando a descrição possui imagem a imagem extrapola a margem no campo de descrição na modal de pesquisa de satisfação no Widget de Tickets no CE.|
 |4845|[Ticket] - Parâmetro 448 não reflete editor de texto da criação de sub solicitação.|
 |1528|[Conhecimento] - Moderação de comentários, se o comentário é rejeitado, retirar o mesmo da contagem de comentários.|
 |5223|[Ticket] - Verificar que o sistema não retorna Atividade e Tipo no histórico após reclassificação de um ticket.|
 |2580|[Galeria de Imagem] - Na Galeria de Imagem da Base de Conhecimento não possui mais URL ao clicar na imagem.|
-|4764|[Conhecimento] - Visualização do Portal de Conhecimento quebra o layout da página.|
+|4764|[Conhecimento] - Visualização do Portal de Conhecimento ultrapassa o layout da página.|
 |4874|[Ticket] – [Exibir motivo aprovar e rejeitar na ocorrência] Alterar a forma que está sendo exibido o motivo da aprovação ou rejeição na ocorrência.|
 |5878|[ITSM 2002] - Erro nos vínculos de CE não fica gravado as configurações de dentro de outro CE.|
 |5763|[ITSM 1829] - Erro em Neuro.|
