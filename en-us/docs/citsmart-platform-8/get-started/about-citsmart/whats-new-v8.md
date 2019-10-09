@@ -1,7 +1,7 @@
 Title: What's new in CITSmart 8.0?
 Description: It describes what is new in CITSmart 8.0
 
-What's new in CITSmart 8.0?
+What's new on CITSmart?
 =================================
 
 ## Versão 8.0.2.0
