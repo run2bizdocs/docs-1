@@ -4,28 +4,36 @@ Description: Descreve O que há de novo no CITSmart 8.0
 # O que há de novo no CITSmart?
 
 ## Versão 8.0.2.0
+ 
+### CENTRO DE EXPERIÊNCIA
 
-:new: Melhorias de UI/UX no Centro de Experiência (CE) com novo menu de acesso aos CEs e possibilidade de redimensionamento do cabeçalho e logo, dentre outras;
+- Melhorias de UI/UX no Centro de Experiência (CE) com novo menu de acesso aos CEs e possibilidade de redimensionamento do cabeçalho e logo, dentre outras;
 
-:new: Implementação do recurso de busca no Centro de Experiência para o contexto de Conhecimentos, Serviços e Notícias;
+- Implementação do recurso de busca no Centro de Experiência para o contexto de Conhecimentos, Serviços e Notícias;
 
-:new: Melhorias de UI/UX do Widget de Portfólios e Serviços com acesso rápido ao serviço desejado;
+- Melhorias de UI/UX do Widget de Portfólios e Serviços com acesso rápido ao serviço desejado;
 
-:new: Novo widget "My Tickets" com lista de todos os tickets que o usuário abriu ou para aprovação, incluindo novas colunas personalizáveis;
+### TICKETS
 
-:new: Nova tela de visualização de ticket do usuário final, com comentários, reabertura, anexos etc;
+- Novo widget "My Tickets" com lista de todos os tickets que o usuário abriu ou para aprovação, incluindo novas colunas personalizáveis; :new:
 
-:new: Melhorias de performance e UI/UX no painel de listagem de tickets do atendente, com filtros rápidos, novo menu lateral e a inclusão da nova coluna de descrição;
+- Nova tela de visualização de ticket do usuário final, com comentários, reabertura, anexos etc; :new:
 
-:new: Melhorias de UI/UX na Tela de tickets e opções internas para capturar, delegar, reclassificar, suspender etc;
+- Melhorias de performance e UI/UX no painel de listagem de tickets do atendente, com filtros rápidos, novo menu lateral e a inclusão da nova coluna de descrição;
 
-:new: Componentes dinâmicos no desenho de fluxo;
+- Melhorias de UI/UX na Tela de tickets e opções internas para capturar, delegar, reclassificar, suspender etc;
 
-:new: Autenticação Oauth2;
+### WORKFLOW
 
-:new: Patch de corretivas;
+- Componentes dinâmicos no desenho de fluxo;
 
-:new: Melhorias de performance e funcionalidades no Smartchat que permite além da comunicação entre atendente e solicitante, a comunicação entre atendentes;
+### GERAIS
+
+- Autenticação Oauth2;
+
+- Patch de corretivas;
+
+- Melhorias de performance e funcionalidades no Smartchat que permite além da comunicação entre atendente e solicitante, a comunicação entre atendentes;
 
 
 ## Versão 8.0
