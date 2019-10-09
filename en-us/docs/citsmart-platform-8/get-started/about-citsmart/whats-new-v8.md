@@ -4,6 +4,40 @@ Description: It describes what is new in CITSmart 8.0
 What's new in CITSmart 8.0?
 =================================
 
+## Versão 8.0.2.0
+
+### EXPERIENCE CENTER
+
+- Improvements in the Experience Center (EC) UI/UX with new EC access menu and possibility for header and logo resizing, among others;
+
+- Experience Center search feature implementation for contexts of Knowledge, Services, and News;
+
+- Improvement in the Portfolio and Service Widget UI/UX with quick access to service you want;
+
+### TICKETS
+
+- New "My Tickets" widget with list of all tickets that user has opened or for approval, including new customizable columns; :new:
+
+- New end-user ticket preview screen, with comments, reopening, attachments, and others; :new:
+
+- Improvement in the performance and UI/UX to the ticket attendant ticket list panel, with quick filters, new side menu and inclusion of new description column;
+
+- Improvements in the Ticket Screen UI/UX and intern options to capture, delegate, reclassify, suspend, and others;
+
+### WORKFLOW
+
+- Dynamic components in flow design;
+
+### GENERAL
+
+- Oauth2 authentication;
+
+- Corrective Patch;
+
+- Improvement in the performance and functionality of Smart chat that allow besides the communication between attendant and requester, the communication between attendants;
+
+## Version 8.0
+
 Logo and Login Usage
 ------------------------
 
