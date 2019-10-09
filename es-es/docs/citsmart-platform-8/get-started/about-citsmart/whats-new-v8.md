@@ -1,8 +1,43 @@
 Title: ¿Qué hay de nuevo en CITSmart 8.0?
 Description: Describe lo que hay de nuevo en CITSmart 8.0
 
-¿Qué hay de nuevo en CITSmart 8.0?
+¿Qué hay de nuevo en CITSmart?
 =================================
+
+## Versión 8.0.2.0
+ 
+### CENTRO DE EXPERIENCIA
+
+- Mejoras de UI/UX del Centro de Experiencia (CE) con nuevo menú de acceso a los CE y posibilidad de redimensionamiento de encabezados y logotipos, entre otros;
+
+- Implementación de la función de búsqueda en el Centro de Experiencia para el contexto de Conocimiento, Servicios y Noticias;
+
+- Mejoras en UI/UX del Widget de Portafolios y Servicio con acceso rápido al servicio deseado;
+
+### TICKETS
+
+- Nuevo widget "Mis tickets" con una lista de todos los tickets que el usuario ha abierto o para aprobación, incluidas nuevas columnas personalizables; :new:
+
+- Nueva pantalla de vista previa de ticket de usuario final, con comentarios, reapertura, archivos adjuntos, etc; :new:
+
+- Mejora en el rendimiento y UI / UX en el panel de lista de tickets del ticket de los asistentes, con filtros rápidos, nuevo menú lateral e inclusión de una nueva columna de descripción;
+
+- Mejoras de UI/UX en la pantalla de Tickets y opciones integradas para capturar, delegar, reclasificar, suspender, etc;
+
+### WORKFLOW
+
+- Componentes dinámicos en diseño de flujo;
+
+### GENERALES
+
+- Autenticación Oauth2;
+
+- Patch de correctivas;
+
+- Mejoras de rendimiento y funcionalidad del Smart chat que permiten la comunicación entre el asistente y el solicitante, además de la comunicación entre los asistentes;
+
+
+## Versión 8.0
 
 Uso del Logotipo e Inicio de Sesión
 ------------------------
