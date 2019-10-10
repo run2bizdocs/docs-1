@@ -62,7 +62,7 @@ FDM Artifacts
 | Communication Matrix (template)           | 05/21/2019 | V.1    |
 | Communication Plan (template)             | 05/21/2019 | V.1    |
 | Project Plan (template)                   | 05/21/2019 | V.1    |
-| Registro de reunião (template)            | 05/21/2019 | V.1    |
+| Meeting registration (template)           | 05/21/2019 | V.1    |
 | Meeting Registration (template)           | 05/21/2019 | V.1    |
 | KickOff Meeting (template)                | 05/21/2019 | V.1    |
 | Test Roadmap (template)                   | 05/21/2019 | V.1    |
