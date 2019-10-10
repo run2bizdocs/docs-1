@@ -55,12 +55,8 @@ Los modelos de documentos utilizados y los artefactos generados en la aplicació
 | Artefacto                                        | Fecha      | Versión |
 |--------------------------------------------------|------------|--------|
 | Checklist de la metodología                      | 21/05/2019 | V.1    |
-| Gestión de riesgos (template)                    | 21/05/2019 | V.1    |
 | Lecciones Aprendidas (template)                  | 21/05/2019 | V.1    |
 | Matriz de Comunicación (template)                | 21/05/2019 | V.1    |
-| Matriz Gestión de Riesgos (template)             | 21/05/2019 | V.1    |
-| Encuesta de satisfacción del proyecto (template) | 21/05/2019 | V.1    |
-| Encuesta de satisfacción del soporte (template)  | 21/05/2019 | V.1    |
 | Plan de Comunicación (template)                  | 21/05/2019 | V.1    |
 | Plan de Proyecto (template)                      | 21/05/2019 | V.1    |
 | Registro de reunión (template)                   | 21/05/2019 | V.1    |
