@@ -1,4 +1,4 @@
-title:  Registrar ticket relacionado 
+title:  Registrar ticket relacionado
 Description: Permite registrar un ticket con actividades relacionadas al ticket original.
 # Registrar ticket relacionado
 
@@ -25,19 +25,19 @@ Procedimiento
 
 3.  Para ver lo ticket relacionado:
 
-    -   En la columna de ticket, buscar por el ticket que hizo la relación y 
+    -   En la columna de ticket, buscar por el ticket que hizo la relación y
         hacer clic en el botón toogle (ubicado en la parte superior derecho
         de la pantalla) en la pestaña "Tickets Relacionados".
 
 
 !!! Abstract "ATENCIÓN"
 
-    Los tickets relacionados por no tener flujo propio, se cierran automáticamente 
+    Los tickets relacionados por no tener flujo propio, se cierran automáticamente
     junto con el cierre del ticket de origen.
-    
+
 !!! Abstract "ATENCIÓN"
 
-    Independientemente de que el ticket principal sea reabierto o permanezca cerrado, 
+    Independientemente de que el ticket principal sea reabierto o permanezca cerrado,
     sus tickets relacionados no podrán ser reabiertos, ya que no tienen flujo propio.
 
 Relacionado
@@ -55,7 +55,7 @@ Relacionado
 
 [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/use/create-time-attendance.html)
 
 [Configurar parametrización - sistema](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 

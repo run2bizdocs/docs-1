@@ -26,13 +26,13 @@ Procedimento
 3.  Para visualizar ticket relacionado:
 
     -   Na coluna de ticket, buscar pelo ticket que fez a relação, clicar no botão toogle (localizado no canto superior direito da tela) e na guia "Tickets Relacionados".
-    
-    
+
+
 !!! Abstract "ATENÇÃO"
 
     Os tickets relacionados por não possuírem fluxo próprio, são encerrados
     automaticamente juntamente com o fechamento do ticket de origem.
-    
+
 !!! Abstract "ATENÇÃO"
 
     Independentemente de o ticket pai ser reaberto ou permanecer encerrado,
@@ -54,7 +54,7 @@ Relacionado
 
 [Configurar atributos de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Criar tempo de atendimento](/pt-br/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Criar tempo de atendimento](/pt-br/citsmart-platform-8/processes/service-level/use/create-time-attendance.html)
 
 [Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 

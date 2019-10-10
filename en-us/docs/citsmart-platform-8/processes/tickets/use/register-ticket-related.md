@@ -26,17 +26,17 @@ Procedure
 
     -   In the Ticket column, search for the ticket that made the relationship,
         click on the toogle button (placed in the upper right side of the screen)
-        and then on the "Related Ticket" tab. 
- 
- 
-!!! Abstract "ATTENTION"
-    
-    The tickets related for not having own flow, it'll be automatically closed,
-    as well as the closure of the ticket origin.
-    
+        and then on the "Related Ticket" tab.
+
+
 !!! Abstract "ATTENTION"
 
-    Regardless of whether the parent ticket is reopened or remains closed, its 
+    The tickets related for not having own flow, it'll be automatically closed,
+    as well as the closure of the ticket origin.
+
+!!! Abstract "ATTENTION"
+
+    Regardless of whether the parent ticket is reopened or remains closed, its
     related tickets cannot be reopened, since they do not have their own flow.
 
 Related
@@ -54,7 +54,7 @@ Related
 
 [Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/use/create-time-attendance.html)
 
 [Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
@@ -68,4 +68,3 @@ Related
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
