@@ -63,6 +63,7 @@ FDM Artifacts
 | Communication Plan (template)             | 05/21/2019 | V.1    |
 | Project Plan (template)                   | 05/21/2019 | V.1    |
 | Meeting Registration (template)           | 05/21/2019 | V.1    |
+| Request for Change (template)             | 05/21/2019 | V.1    |
 | KickOff Meeting (template)                | 05/21/2019 | V.1    |
 | Test Roadmap (template)                   | 05/21/2019 | V.1    |
 | Status Report (template)                  | 05/21/2019 | V.1    |
