@@ -1,12 +1,11 @@
-title: Campos chave dos e-mails de solicitação
+title: Campos chave dos e-mails de Ticket
 Description: Fornecer a relação dos campos chave disponíveis para o cadastro de modelo de e-mail de Solicitação de serviço.
-# Campos chave dos e-mails de solicitação
+# Campos chave dos e-mails de Ticket
 
 Este documento tem o objetivo de fornecer a relação dos campos chave disponíveis
 para o cadastro de modelo de e-mail de Solicitação de serviço.
 
-Relação dos Campos Chave
-----------------------------
+## Relação dos Campos Chave
 
 São relacionadas abaixo os campos chave disponíveis para inserção no cadastro de
 modelo de e-mail relacionado à Solicitação de serviço:
