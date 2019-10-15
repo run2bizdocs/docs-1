@@ -12,15 +12,13 @@ O cadastro de serviços é dividido em dois tipos:
 A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato” são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um serviço.
 
-Antes de começar
---------------------
+## Antes de começar
 
 O cadastro do serviço deverá ser precedido do cadastro de um portfólio de
 serviços, da categoria de serviço, de um grupo e ter a permissão de acesso às
 funcionalidades do Gerenciamento de Portfólio.
 
-Procedimento
-----------------
+## Procedimento
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Portfólio e Catálogo \> Portfólio;
@@ -46,8 +44,7 @@ Procedimento
 
 8.  Clicar em "Gravar".
 
-O que fazer a seguir
-------------------------
+## O que fazer a seguir
 
 Acessar o Smart Portal e verificar as informações do serviço cadastrado no
 portfólio escolhido.
