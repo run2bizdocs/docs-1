@@ -75,12 +75,6 @@ Procedimiento
 
 
 
-Relacionado
------------
-
-[Configurar solución BI (Smart Analytics) vía Docker](/es-es/citsmart-platform-8/additional-features/smart-analytics/install-bi-docker.html)
-
-
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
