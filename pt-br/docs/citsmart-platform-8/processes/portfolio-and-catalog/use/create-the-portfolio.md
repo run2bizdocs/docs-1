@@ -7,30 +7,30 @@ Portfólio é um conjunto completo de serviços que serão entregues, agrupados 
 A gestão do portfólio é estratégica, pois administra os serviços durante todo o seu ciclo de vida, focando no valor que entregam para a área de negócio.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
 
-Antes de começar
---------------------
+## Antes de começar
 
-Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
+- Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
 Portfólio.
 
-O portfólio permite vínculo com pesquisas que precisam estar cadastradas
+- O portfólio permite vínculo com pesquisas que precisam estar cadastradas
 previamente.
 
-Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
+- Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
 
-Procedimento
-----------------
+## Procedimento
 
 1.  Acessar a funcionalidade pelo menu principal Processos \> Gerência de
     Portfólio e Catálogo \> Portfólio;
 
 2.  Clicar em "Novo Portfólio";
 
-3.  Definir se o portfólio será do tipo "Negócio" ou "Apoio";
+3.  Na aba "Principal", definir o nome do portfólio e se ele será do tipo "Negócio" ou "Apoio". Caso selecione Multi-idiomas, surgirá a aba Multi-idiomas para fazer a internacionalização desse portfólio;
 
-4.  Informar os dados do Portfólio;
+4.  Na aba "Apresentação", informar se será apresentado no portal ou via chat, além das demais informações necessárias;
 
-5.  Preencher os dados conforme o formato a ser definido.
+5.  Caso selecione a opção de "Disponível no Portal", aparecerá a nova aba de "Permissão de Acesso", onde será possível vincular os grupos que poderão acessar esse portfólio;
+
+6.  Após preencher todos os dados, clicar em "Gravar".
 
 !!! Abstract "REGRA"
 
@@ -46,10 +46,9 @@ Procedimento
     preenchidas com as que estiver contida na aba "Apresentação".
 
 
-O que fazer a seguir
-------------------------
+## O que fazer a seguir
 
-Acessar a página inicial e verificar o portfólio criado.
+Com o portfólio criado, é possível criar serviços para serem acessados.
 
 Relacionado
 ---------------
