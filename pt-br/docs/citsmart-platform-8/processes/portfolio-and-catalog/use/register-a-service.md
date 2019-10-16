@@ -31,14 +31,28 @@ funcionalidades do Gerenciamento de Portfólio.
 
 5.  Serão apresentadas guias para a configuração do serviço a ser cadastrado;
 
-6.  Preencher os campos disponibilizados que cada guia apresentar;
-    
-    !!! Abstract "Informações de cada aba"
+6.  Preencher os campos disponibilizados em cada guia. Elas  são:;        
         
-        - Principal: Informações do serviço, estado, fases, importância para o negócio etc.
-        - Documentos Anexos: Artefatos, documentos, guias etc.
-        - Apresentação: Visualização no Smart Portal e Gerência de Ticket.
-        - Permissão de Acesso: Grupos que podem ver o serviço.
+- Principal, onde colocaremos as informações sobre o serviço:
+    
+    - Nome do Serviço;
+    - Processo de Iniciação;
+    - Categoria, que quando clicado abre outra tela para selecionar a categoria de serviço ou criar uma nova;
+    - Data de Implementação;
+    - Fase do Serviço;
+    - Status do Serviço;
+    - Criticidade;
+    - Importância do Serviço ao Negócio;
+    - Tipo de Serviço;
+    - Lugar de Execução dos Serviços;
+    - Detalhamento;
+    - Objetivo;
+    - Valor;
+    - Tempate de Serviço.
+    
+- Documentos Anexos, onde é possível adicionar arquivos, artefatos, documentos, guias, entre outros.
+- Apresentação, é como será a visualização no Smart Portal e Gerência de Ticket. Quando selecionamos para estar "Disponível no Portal",aparece a nova guia de Permissão de Acesso.
+- Permissão de Acesso, para vincular os Grupos que poderão ver o serviço.
 
 7.  Preencher os demais campos conforme a necessidade;
 
