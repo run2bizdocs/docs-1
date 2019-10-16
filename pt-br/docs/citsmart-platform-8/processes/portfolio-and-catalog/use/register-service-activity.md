@@ -4,14 +4,12 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir as atividades de um serviço (requisição e/ou incidente).
 
-Antes de começar
---------------------
+## Antes de começar
 
 Para cadastrar uma atividade de serviço é necessário registrar previamente o
 portfólio, o grupo, os itens de configuração, o contrato e o calendário.
 
-Procedimento
-----------------
+## Procedimento
 
 1.  Acessar o menu principal Processos \> Gerência de Portfólio e Catálogo \>
     Portfólio;
@@ -20,22 +18,26 @@ Procedimento
 
 3.  Na guia **Catalogo de Serviço**, eleger o serviço e clicar em "Avançar";
 
-4.  Para criar uma atividade do tipo Requisição, clicar na guia **Requisições**;
+### Criar Requisição
 
-5.  Clicar em "Novo Serviço de Requisição" e preencher todos os campos
+1.  Para criar uma atividade do tipo Requisição, clicar na guia **Requisições**;
+
+2.  Clicar em "Novo Serviço de Requisição" e preencher todos os campos
     disponibilizados;
 
-6.  Clicar em "Gravar";
+3.  Clicar em "Gravar";
 
-7.  Clicar em "Vincular Serviço de Requisição";
+4.  Caso já exista uma Requisição previamente registrada, clicar em "Vincular Serviço de Requisição";
 
-8.  Para criar uma atividade do tipo Incidente, clicar na guia **Incidentes**;
+### Criar Incidente
 
-9.  Clicar em "Novo Incidente" e preencher todos os campos disponibilizados;
+1.  Para criar uma atividade do tipo Incidente, clicar na guia **Incidentes**;
 
-10. Clicar em "Gravar";
+2.  Clicar em "Novo Incidente" e preencher todos os campos disponibilizados;
 
-11. Clicar em "Vincular Incidente".
+3. Clicar em "Gravar";
+
+4. Caso já exista um Incidente previamente registrado, clicar em "Vincular Incidente".
 
 Relacionado
 ---------------
