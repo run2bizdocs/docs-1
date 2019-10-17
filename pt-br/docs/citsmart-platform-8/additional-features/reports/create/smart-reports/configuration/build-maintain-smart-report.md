@@ -50,7 +50,7 @@ necessidade de novas atualizações ou softwares adicionais.
        +  **Neuro**: cria um relatório do tipo "Neuro", basta vincular um formulário
           "Neuro" existente.
 
-    !!! success "FAÇA MAIS"
+    !!! info "IMPORTANTE"
 
         É possível criar relatórios Drill Down (apenas para saídas "Gráfico de pizza" ou " Gráfico de Barra"), indicando no item "Sub relatório" o Smart Report que será utilizado para este fim.
 
