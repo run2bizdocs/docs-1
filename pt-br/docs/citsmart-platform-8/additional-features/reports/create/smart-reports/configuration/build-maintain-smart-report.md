@@ -106,15 +106,15 @@ Filtros podem inseridos em um Smart Report para possibilitar que usuário final 
 
 - **Na aba "Parâmetros":**
 
-![Parameters][8]
+![Parameters][1]
 
 - **Diretamente no SQL:**
 
-![Parameters in SQL][6]
+![Parameters in SQL][2]
 
 - **Diretamente no RhinoScript:**
 
-![Parameters in SQL][7]
+![Parameters in RhinoScript][3]
 
 #### Filtro para selecionar Data:
 
@@ -128,7 +128,7 @@ Filtros podem inseridos em um Smart Report para possibilitar que usuário final 
 ```
 **Resultado**
 
-![Example use Parameters][2]
+![Example use Parameters][4]
 
 ### Construir SQL/Rhino/JSP
 
@@ -136,15 +136,15 @@ Alguns relatórios podem necessitar de consultas específicas ou tratamentos dif
 
 Exemplo de SQL:
 
-![Example use SQL][3]
+![Example use SQL][5]
 
 Exemplo de RhinoScript:
 
-![Example use RhinoScript][4]
+![Example use RhinoScript][6]
 
 Exemplo de JSP:
 
-![Example use JSP][5]
+![Example use JSP][7]
 
 ### Importar/Exportar Smart Reports
 
@@ -162,14 +162,13 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 
 ## Relacionado
 
-[Emitir relatório utilizando Smart Report][1]
+[Emitir relatório utilizando Smart Report][8]
 
-
-[1]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
-[2]:images/smart-reports-param-example.png
-[3]:images/smart-reports-sql-example.png
-[4]:images/smart-reports-rhino-example.png
-[5]:images/smart-reports-jsp-example.png
-[6]:images/smart-reports-param-sql-example.png
-[7]:images/smart-reports-param-rhino-example.png
-[8]:images/smart-reports-param.png
+[1]:images/smart-reports-param.png
+[2]:images/smart-reports-param-sql-example.png
+[3]:images/smart-reports-param-rhino-example.png
+[4]:images/smart-reports-param-example.png
+[5]:images/smart-reports-sql-example.png
+[6]:images/smart-reports-rhino-example.png
+[7]:images/smart-reports-jsp-example.png
+[8]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
