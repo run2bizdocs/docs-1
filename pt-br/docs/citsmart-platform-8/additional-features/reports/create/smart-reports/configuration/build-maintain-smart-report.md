@@ -106,15 +106,7 @@ Filtros podem inseridos em um Smart Report para possibilitar que usuário final 
 
 - **Na aba "Parâmetros":**
 
-```xml
-<PARAMETERS>
-	<PARAM name='dataInicial' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datainicio' fix='false' mandatory="true" default="{YEAR_AGO}"/>
-  <PARAM name='dataFinal' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datafim' fix='false' mandatory="true" default="{TODAY}"/>
-</PARAMETERS>
-```
-Resultado:
-
-![Example use Parameters][2]
+![Parameters][8]
 
 - **Diretamente no SQL:**
 
@@ -123,6 +115,20 @@ Resultado:
 - **Diretamente no RhinoScript:**
 
 ![Parameters in SQL][7]
+
+#### Filtro para selecionar Data:
+
+**Exemplo**
+
+```xml
+<PARAMETERS>
+	<PARAM name='dataInicial' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datainicio' fix='false' mandatory="true" default="{YEAR_AGO}"/>
+  <PARAM name='dataFinal' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datafim' fix='false' mandatory="true" default="{TODAY}"/>
+</PARAMETERS>
+```
+**Resultado**
+
+![Example use Parameters][2]
 
 ### Construir SQL/Rhino/JSP
 
@@ -166,3 +172,4 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 [5]:images/smart-reports-jsp-example.png
 [6]:images/smart-reports-param-sql-example.png
 [7]:images/smart-reports-param-rhino-example.png
+[8]:images/smart-reports-param.png
