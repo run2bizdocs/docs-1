@@ -54,7 +54,7 @@ necessidade de novas atualizações ou softwares adicionais.
         É possível criar relatórios Drill Down (apenas para saídas "Gráfico de pizza" ou " Gráfico de Barra"), indicando no item "Sub relatório" o Smart Report que será utilizado para este fim. Note que é necessário usar um critério = “{PARAM.parentParameter}”.
 
 
-4.  Especificar permissões de acesso, ou seja, aonde e para quem será exibido o relatório que está sendo criado:
+4.  Especificar permissões de acesso, ou seja, onde e para quem será exibido o relatório que está sendo criado:
 
       +   **N/A**: selecionar essa opção, caso o relatório esteja disponível para visualização apenas na área de Smart Reports e em Dashboards;
 
