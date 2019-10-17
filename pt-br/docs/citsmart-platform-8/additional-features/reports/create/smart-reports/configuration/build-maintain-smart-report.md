@@ -75,10 +75,11 @@ A construção de Smart Reports pode ser realizada seguindo uma das abordagens a
 
 - **Usando o Designer:**
 
-    1. Selecionar Tabelas que serão consultadas;
+    1. Selecionar as Tabelas que serão consultadas;
     2. Indicar os Relacionamentos;
-    3. Definir Condições (apenas depois de criar os filtros);
-    4. Adicionar Resultados;
+    3. Inserir filtros pela aba "Parâmetros";
+    4. Definir Condições (apenas depois de criar os filtros);
+    5. Adicionar Resultados;
 
 - **Codificando**
 
@@ -150,10 +151,6 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 
 [Emitir relatório utilizando Smart Report][1]
 
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 – Anna Martins
 
 [1]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
 [2]:images/smart-reports-param-example.png
