@@ -21,7 +21,7 @@ necessidade de novas atualizações ou softwares adicionais.
 
        +  **SQL**: para criar um Relatório "SQL" (que retornam as informações do Banco de dados através de uma Query). Este tipo de relatório possui as seguintes saídas:
 
-          - ***Template:*** Este tipo de saída possibilita a estruturação visual das informações, de modo que seja possível a organização das informações conforme a necessidade (verifique que a aba "Template" é mostrada).
+          - ***Template:*** Este tipo de saída possibilita a estruturação visual das informações, de modo que seja possível a organização das informações conforme a necessidade (verifique que a aba "Template" é mostrada). O padrão de templates utilizado é o FreeMarker, para saber mais, acesse https://freemarker.apache.org .
 
           - ***Gráfico***
 
@@ -102,9 +102,9 @@ A ferramenta de Designer possibilita a criação de relatórios SQL sem a necess
 
 ### Inserir Filtros através de parâmetros
 
-Filtros podem inseridos em um Smart Report para possibilitar que usuário final defina cenários para geração do relatório. Para usar um filtro, clique na aba "Parâmetros" e insira o filtro desejado. Veja um exemplo abaixo:
+Filtros podem inseridos em um Smart Report para possibilitar que usuário final defina cenários para geração do relatório. Para usar um filtro, clique na aba "Parâmetros" e insira o filtro desejado. Veja alguns:
 
-Exemplo:
+- **Na aba "Parâmetros":**
 
 ```xml
 <PARAMETERS>
@@ -116,6 +116,13 @@ Resultado:
 
 ![Example use Parameters][2]
 
+- **Diretamente no SQL:**
+
+![Parameters in SQL][6]
+
+- **Diretamente no RhinoScript:**
+
+![Parameters in SQL][7]
 
 ### Construir SQL/Rhino/JSP
 
@@ -157,3 +164,5 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 [3]:images/smart-reports-sql-example.png
 [4]:images/smart-reports-rhino-example.png
 [5]:images/smart-reports-jsp-example.png
+[6]:images/smart-reports-param-sql-example.png
+[7]:images/smart-reports-param-rhino-example.png
