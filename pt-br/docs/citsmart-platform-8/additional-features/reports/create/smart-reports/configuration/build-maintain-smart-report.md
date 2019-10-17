@@ -19,12 +19,11 @@ necessidade de novas atualizações ou softwares adicionais.
 
 3.  Preencher os campos necessários. Definir o tipo:
 
-       +  **SQL**: cria um Relatório "SQL" (esse tipo permite criar relatórios que
-          retornam as informações do Banco de dados através de uma Query). Este tipo de relatório possui as seguintes saídas:
+       +  **SQL**: para criar um Relatório "SQL" (que retornam as informações do Banco de dados através de uma Query). Este tipo de relatório possui as seguintes saídas:
 
-          - Template: Este tipo de saída possibilita a estruturação visual das informações, de modo que seja possível a organização das informações conforme a necessidade (verifique que a aba "Template" é mostrada).
+          - ***Template:*** Este tipo de saída possibilita a estruturação visual das informações, de modo que seja possível a organização das informações conforme a necessidade (verifique que a aba "Template" é mostrada).
 
-          - Gráfico
+          - ***Gráfico***
 
             - Linha: informações mostradas por pontos e conectados por linhas.
 
@@ -32,13 +31,13 @@ necessidade de novas atualizações ou softwares adicionais.
 
             - Pizza: informações divididas em setores mostradas em uma imagem circular.
 
-          - Data table: utiliza um plugin do sistema para paginar a visualização de conteúdos, incluindo recursos como itens de pesquisa.
+          - ***Data table:*** utiliza um plugin do sistema para paginar a visualização de conteúdos, incluindo recursos como itens de pesquisa.
 
-          - Cubo: Semelhante ao que ocorre com o relatório data table, e necessário apenas indicar os elementos da consulta e o framework irá realizar as ações. Assim, quando o usuário final selecionar tabelas, preferências etc., o relatório é criado dinamicamente.
+          - ***Cubo:*** Semelhante ao que ocorre com o relatório data table, é necessário apenas indicar os elementos da consulta e o framework irá realizar as ações. Assim, quando o usuário final selecionar tabelas, preferências etc., o relatório é criado dinamicamente.
 
-          - HTML: Semelhante ao que ocorre no relatório Template, porém, neste a aplicação monta o conteúdo HTML para a visualização das informações.
+          - ***HTML:*** Semelhante ao que ocorre no relatório Template, porém, neste a aplicação monta o conteúdo HTML para a visualização das informações.
 
-          - CSV: Permite ao usuário baixar em formado CSV (separados por vírgula) os dados consultados.
+          - ***CSV:*** Permite ao usuário baixar em formado CSV (separados por vírgula) os dados consultados.
 
        +  **RhinoScript**: para criar um relatório que retorna as informações do Banco
           de dados através de um "Script" é necessário selecionar o tipo
@@ -52,7 +51,7 @@ necessidade de novas atualizações ou softwares adicionais.
 
     !!! info "IMPORTANTE"
 
-        É possível criar relatórios Drill Down (apenas para saídas "Gráfico de pizza" ou " Gráfico de Barra"), indicando no item "Sub relatório" o Smart Report que será utilizado para este fim.
+        É possível criar relatórios Drill Down (apenas para saídas "Gráfico de pizza" ou " Gráfico de Barra"), indicando no item "Sub relatório" o Smart Report que será utilizado para este fim. Note que é necessário usar um critério = “{PARAM.parentParameter}”.
 
 
 4.  Especificar permissões de acesso, ou seja, aonde e para quem será exibido o relatório que está sendo criado:
@@ -70,14 +69,9 @@ necessidade de novas atualizações ou softwares adicionais.
 
 5.  Clicar no botão "Gravar";
 
-    !!! warning "ATENÇÃO"
-
-        Os relatórios aqui criados serão exibidos na tela de "Relatórios Smart",
-        onde será possível visualizar os dados pertinentes de cada relatório.
-
 ## Construir Smart Reports
 
-A construção de Smart Reports deve seguir a seguinte sequência lógica:
+A construção de Smart Reports pode ser realizada seguindo uma das abordagens abaixo:
 
 - **Usando o Designer:**
 
