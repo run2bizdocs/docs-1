@@ -100,7 +100,7 @@ A ferramenta de Designer possibilita a criação de relatórios SQL sem a necess
 
 - **Resultados:** Nesta área, você deve indicar quais são as categorias de informações que serão exibidas. Para isso, selecione a tabela e a coluna e clique em "Adicionar". É possível remover o valor informado clicando no "x" - do lado direito da combinação.
 
-### Inserir Filtros através de parâmetros
+### Inserir Filtros através de Parâmetros
 
 Filtros podem inseridos em um Smart Report para possibilitar que usuário final defina cenários para geração do relatório. Para usar um filtro, clique na aba "Parâmetros" e insira o filtro desejado. Veja alguns:
 
@@ -116,7 +116,7 @@ Filtros podem inseridos em um Smart Report para possibilitar que usuário final 
 
 ![Parameters in RhinoScript][3]
 
-#### Filtro para selecionar Data:
+#### Filtro para selecionar data
 
 **Exemplo**
 
