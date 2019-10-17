@@ -107,7 +107,7 @@ A ferramenta de Designer possibilita a criação de relatórios SQL sem a necess
 
 ### Inserir Filtros através de parâmetros
 
-Filtros podem inseridos em um Smart Report para possibilitar que usuário final selecione cenários para geração do relatório. Para usar um filtro, clique na aba "Parâmetros" e insira o filtro desejado. Veja um exemplo abaixo:
+Filtros podem inseridos em um Smart Report para possibilitar que usuário final defina cenários para geração do relatório. Para usar um filtro, clique na aba "Parâmetros" e insira o filtro desejado. Veja um exemplo abaixo:
 
 Exemplo:
 
@@ -125,6 +125,18 @@ Resultado:
 ### Construir SQL/Rhino/JSP
 
 Alguns relatórios podem necessitar de consultas específicas ou tratamentos diferenciados. Assim, você pode utilizar a área de construção de código (SQL/RhinoScript/SQL à depender do tipo de Smart Report selecionado na aba "Cadastro"). Dessa forma, construa a consulta que atenda às necessidades do seu relatório.
+
+Exemplo de SQL:
+
+![Example use Parameters][3]
+
+Exemplo de RhinoScript:
+
+![Example use Parameters][4]
+
+Exemplo de JSP:
+
+![Example use Parameters][5]
 
 ### Importar/Exportar Smart Reports
 
@@ -151,3 +163,6 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 
 [1]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
 [2]:images/smart-reports-param-example.png
+[3]:images/smart-reports-sql-example.png
+[4]:images/smart-reports-jsp-example.png
+[5]:images/smart-reports-rhino-example.png
