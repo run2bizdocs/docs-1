@@ -55,7 +55,7 @@ necessidade de novas atualizações ou softwares adicionais.
         É possível criar relatórios Drill Down (apenas para saídas "Gráfico de pizza" ou " Gráfico de Barra"), indicando no item "Sub relatório" o Smart Report que será utilizado para este fim.
 
 
-4.  Definir permitir permissões de acesso, ou seja, aonde e para quem será exibido o relatório que está sendo criado:
+4.  Especificar permissões de acesso, ou seja, aonde e para quem será exibido o relatório que está sendo criado:
 
       +   **N/A**: selecionar essa opção, caso o relatório esteja disponível para visualização apenas na área de Smart Reports e em Dashboards;
 
@@ -70,11 +70,7 @@ necessidade de novas atualizações ou softwares adicionais.
 
 5.  Clicar no botão "Gravar";
 
-6.  Existe a possibilidade também de importar um "Relatório". Para tanto, clicar
-    no botão "Importar" e vincular o arquivo contendo as informações desejadas.
-
-
-    !!! Abstract "ATENÇÃO"
+    !!! warning "ATENÇÃO"
 
         Os relatórios aqui criados serão exibidos na tela de "Relatórios Smart",
         onde será possível visualizar os dados pertinentes de cada relatório.
@@ -129,6 +125,10 @@ Resultado:
 ### Construir SQL/Rhino/JSP
 
 Alguns relatórios podem necessitar de consultas específicas ou tratamentos diferenciados. Assim, você pode utilizar a área de construção de código (SQL/RhinoScript/SQL à depender do tipo de Smart Report selecionado na aba "Cadastro"). Dessa forma, construa a consulta que atenda às necessidades do seu relatório.
+
+### Importar/Exportar Smart Reports
+
+Existe a possibilidade de importar um "Relatório", para tanto, clicar no botão "Importar" e selecionar o arquivo no formato ".citreport". Além disso, você pode exporta relatórios existentes em sua  instância, para isso, clicar em "Editar", ao final da página, clicar em "Exportar".
 
 ## Interfaces de visualização
 
