@@ -123,15 +123,15 @@ Alguns relatórios podem necessitar de consultas específicas ou tratamentos dif
 
 Exemplo de SQL:
 
-![Example use Parameters][3]
+![Example use SQL][3]
 
 Exemplo de RhinoScript:
 
-![Example use Parameters][4]
+![Example use RhinoScript][4]
 
 Exemplo de JSP:
 
-![Example use Parameters][5]
+![Example use JSP][5]
 
 ### Importar/Exportar Smart Reports
 
