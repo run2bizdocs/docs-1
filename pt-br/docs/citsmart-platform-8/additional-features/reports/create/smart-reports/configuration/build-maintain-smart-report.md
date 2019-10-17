@@ -164,5 +164,5 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 [1]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
 [2]:images/smart-reports-param-example.png
 [3]:images/smart-reports-sql-example.png
-[4]:images/smart-reports-jsp-example.png
-[5]:images/smart-reports-rhino-example.png
+[4]:images/smart-reports-rhino-example.png
+[5]:images/smart-reports-jsp-example.png
