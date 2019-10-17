@@ -1,4 +1,4 @@
-title: Construir e manter relatórios Smart - V. 8.0
+title: Construir e manter relatórios Smart
 Description: Tem o objetivo de prover a facilidade de elaboração de relatórios personalizados com os dados das funcionalidades requeridas, sem necessidade de novas atualizações ou softwares adicionais.
 
 # Construir e manter relatórios Smart
@@ -81,15 +81,15 @@ A construção de Smart Reports deve seguir a seguinte sequência lógica:
 
 - **Usando o Designer:**
 
-1. Selecionar Tabelas que serão consultadas;
-2. Indicar os Relacionamentos;
-3. Definir Condições (apenas depois de criar os filtros);
-4. Adicionar Resultados;
+    1. Selecionar Tabelas que serão consultadas;
+    2. Indicar os Relacionamentos;
+    3. Definir Condições (apenas depois de criar os filtros);
+    4. Adicionar Resultados;
 
 - **Codificando**
 
-1. Escrever o conteúdo SQL/Rhino/JSP na aba correspondente;
-2. Inserir filtros pela aba "Parâmetros";
+    1. Escrever o conteúdo SQL/Rhino/JSP na aba correspondente;
+    2. Inserir filtros pela aba "Parâmetros";
 
 !!! warning "ATENÇÃO"
     Quando se usa o Designer para a construção do relatório, automaticamente as query's são criadas e estão visíveis na aba "SQL". Perceba que não é possível usar, ao mesmo tempo, Designer e inserção manual de conteúdo SQL.
