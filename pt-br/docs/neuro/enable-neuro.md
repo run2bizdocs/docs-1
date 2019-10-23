@@ -31,7 +31,7 @@ Para a integração CITSmart/Neuro funcionar, você deve:
     
 
 !!! success "USUÁRIO NEURO"
-    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Neuro contenha no campo login o atributo de identificação do domínio, ou seja, "citsmart.local" (ex. O usuário "Neuro" deverá ter no campo login a seguinte informação  "citsmart.local\neuro").
+    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Neuro contenha no campo login o atributo de identificação do domínio, ou seja, "citsmart.local" (ex. O usuário "Neuro" deverá ter no campo login a seguinte informação  "citsmart.local\neuro.user").
 
 
 [1]:images/neuro-conection.png
