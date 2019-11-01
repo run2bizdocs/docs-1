@@ -1,198 +1,92 @@
-Title: Visão Geral
+Title: Visão Geral do Workflow
+Description: Workflow do CITSmart
 
-# Visão Geral
+# Introdução ao Fluxo de Trabalho do CITSmart
+Os fluxos de trabalho automatizados dão vida às atividades do sistema, proporcionando que as atividades da sua organização sejam digitalizadas e automatizadas. Assim, você pode criar fluxos com controle de tarefas, adicionar notificações, subprocessos e estabelecer comunicação direta com outras aplicações, como é o caso do Neuro – que é um framework para a geração de aplicações. 
 
-## Apresentação
+Você vai perceber que tarefas do dia a dia, como realizar um pedido, registrar um ticket, aprovar uma solicitação podem ser feitas de forma rápida e inteligente, evitando o desperdício de tempo. Os Fluxos do CITSmart te ajudam a materializar seus processos de negócio em uma visão sistêmica em que você tem total controle do que acontece.
 
-Fluxos são representações visuais de algo que se move continuamente. A funcionalidade de Fluxos tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
+## Conhecer a funcionalidade de Fluxo
 
-## Funcionalidades
+Antes de qualquer coisa você precisa se familiarizar com os conceitos básicos, regras de negócio e interface de utilização. A visualização da funcionalidade no menu do CITSmart depende de permissões atribuídas a um perfil de acesso, verifique se você tem essa permissão. Um administrador do sistema pode conceder esse acesso.
 
-**Padrão:**
+Para saber se seu perfil tem essa permissão, acesse o menu na lateral superior esquerda da tela, e verifique se a primeira opção de acesso é o Menu principal **Workflow**;
 
-- [Criar um fluxo de trabalho][1]
+![workflow menu CITSmart][1]
 
-- [Construir expressões][2]
+Caso já tenha esse acesso, basta clicar e selecionar a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
 
-- [Modelagem de processo][3]
+## Tela Gerenciamento de Fluxo
 
-**Integração Neuro:**
+Na tela de gerenciamento de fluxo você poderá: Criar um Novo Fluxo, Editar, exportar e excluir.
 
-- [Fluxo de integração de processos][4]
+![workflow management CITSmart][2]
 
-- [Regras de negócio][5]
+1. **Novo** – clicar para iniciar um novo projeto de fluxo;
 
-- Processo de Negócio
+2. **Campo de busca** - busca um fluxo pelo nome ou parte dele;
 
-!!! Abstract "ALERTA"
+3. **Editar** - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada;
 
-    Estes itens só estarão disponíveis quando a aplicação [Neuro][6] estiver habilitada em sua instância.
+4. **Exportar** – gera um documento exportável no formato JSON;
 
-## Interface
+5. **Excluir** - clicar para remover um fluxo;
 
-### Tela inicial
+## Criar e Editar um Fluxo?
 
-![tela inicial](images/workflow-1.png)
+Ao clicar no botão **“Novo”** ou **“Editar”** você é direcionado para a interface de criação/edição do Fluxo de trabalho que é composta por duas abas, a aba de **Dados do Fluxo** onde informará dados da identificação e a aba de **Diagrama** onde é possível desenhar o fluxo.
 
-Figura 1 - Tela inicial
+Em um novo fluxo você encontra quatro botões com funções de **importar**, **gravar**, **limpar** e **voltar**, você poderá importar um fluxo (exportado anteriormente no formato JSON).
 
+![fist button CITSmart][3]
 
- - **1**: Novo - clicar para desenhar novo fluxo
+Caso se trate da edição de um fluxo já existente os botões são modificados, acrescentando a opção de **Gerar Documentação** e trocando **Importar** por **Gravar**.
 
- - **2**: Campo de busca - busca um fluxo pelo nome ou parte dele
- 
- - **3**: Filtros - ao selecionar o botão "Filtros avançados" esses campos ficarão disponibilizados para busca
- 
- - **4**: Editar - clicar para editar um fluxo já existente, sendo possível escolher qual versão será editada
- 
- - **5**: Exportar - gera documento em formato JSON
- 
- - **6**: Excluir - clicar para remover um fluxo
+![second button CITSmart][4]
 
-### Aba Dados do Fluxo
+### Aba Dados do Fluxo  
 
-Ao clicar no botão “Novo” na tela inicial, a tela de cadastro do fluxo será disponibilizada na aba inicial de Dados do Fluxo.
+Dados do Fluxo é uma aba para identificação do fluxo, onde é possível estruturar nomes para melhor experiência:
 
-![tela inicial](images/workflow-2.png)
+![flow data CITSmart][5]
 
-Figura 2 - Dados do fluxo
+**1: Nome** – Atribuir um nome para identificação do fluxo, para poder identificá-lo em caso de vinculação ou atribuição;
 
+**2: Processo** – Atribuir ao fluxo um processo dentre todos que se encontram no CITSmart, para que seja melhor definido e identificado;
 
- - **1**: Dados básicos para cadastro de um fluxo
-  
- - **2**: Importar: é possível importar um fluxo já existente, nos formatos JSON e XML
+**3: Versão** – Visualizador da versão em que o fluxo aberto no momento se encontra;
 
+**4: Descrição** – Atribuir uma descrição a respeito do fluxo para fácil entendimento;
 
-### Aba Diagrama
+**5: Permitir reabertura** – Opção para permitir que as atividades que estão vinculadas a esse fluxo tenham a possibilidade de serem reabertas independentemente das configurações de grupo;
 
-![tela inicial](images/workflow-3.png)
+**6: Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Neuro no momento de criação de um ticket;
 
-Figura 3 - Diagrama
+**7: Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuári
 
-- **1** : Elementos para desenho de fluxo:
-  
-  **Eventos**: são os elementos de eventos que podem ser utilizados no desenho do fluxo:
+### Aba Diagrama  
 
-  • Evento Início
+Na aba **diagrama** encontramos diversos Elementos para a construção do fluxo agrupados em **Eventos**, **Atividades**, **Extensões**, **Gateways**, **Swimlanes** e **Artefatos**, são diversos componentes para uma melhor construção e interação de fluxo de trabalho. Abaixo temos um exemplo de um fluxo sendo criado.
 
-  • Evento Intermediário de Envio de Link
+![diagram CITSmart][6]
 
-  • Evento Intermediário de Captura de Link
+**1: Elementos** – São conjuntos de itens/ferramentas para serem usadas no desenho do fluxo como explicado nos no item Conceitos Básicos;
 
-  • Evento Intermediário de Temporizador
+**2: Área de Desenho** – local para desenho e construção do fluxo de trabalho;
 
-  • Boundary - Evento Intermediário de Captura de Erro
+#### Aba Documentação
 
-  • Evento Intermediário de Captura de Sinal
+Na aba Documentação você poderá gerar um documento com todas as informações do fluxo desenhado - a descrição dos elementos utilizados no fluxo de trabalho e os documentos vinculados ao fluxo - sendo possível exportá-lo para PDF.  
 
-  • Evento de Finalização com Erro
+## E agora, o que devo fazer?
 
-  • Evento de Fim
-  
-  **Atividades**: são os elementos de atividades que podem ser utilizados no desenho do fluxo:
+Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Veja nossa documentação, ela vai ter ajudar nessa jornada.
 
-   • Tarefa de Usuário
 
-   • Tarefa Script
 
-   • Envio de Mensagem – E-mail
-
-   • Business Rule Task
-
-   • Tarefa de Serviço – ESI
-
-   • Armazenamento de Dados
-
-   • Subprocesso
-   
-   **Extensões**: são as extensões que podem ser utilizadas no desenho do fluxo:
-
-   • Comunicação REST
-
-   • Notificação
-   
-   • Atribuição de Variável
-
-   • Conversação Watson
-   
-   **Gateways**: são os elementos de gateway que podem ser utilizados no desenho do fluxo:
-
-   • Gateway Inclusivo
-
-   • Gateway Paralelo
-
-   • Gateway Exclusivo
-
-   • Gateway Complexo
-
-   • Gateway Baseado em Evento
-   
-   **Swimianes**: são os elementos de swimianes que podem ser utilizados no desenho do fluxo:
-
-   • Pool/Participante
-
-   • Lane
-   
-   **Artefato**: é o elemento de artefato que pode ser utilizado no desenho do fluxo:
-
-   • Anotação de Texto
-   
-
-
-
- - **2**: Campo de modelagem – espaço para desenho de fluxo de trabalho
- 
- - **3**: Importar - é possível importar um fluxo já existente, nos formatos JSON e XML
-
- - **4**: Limpar – limpa o desenho de fluxo elaborado
-
-### Aba Documentação
-
- - Visualização do desenho gerado na aba Diagrama
-
- - Descrição dos elementos utilizados no fluxo de trabalho gerado
-
- - Visualização dos documentos vinculados ao fluxo
-
-### Botões
-
-![tela inicial](images/workflow-4.png)
-
-Figura 4 - Botões aba Documentação
-
- - **1**: Gravar:  
- 
-     •	Como nova versão: grava o desenho do fluxo como uma nova versão
-
-     •	Na versão original: grava o desenho do fluxo na versão original, ou seja, a 1.0 – versão em desenho
-
- - **2**: Gerar Documentação: permite a exportação das informações do fluxo no formato PDF
-
-
-Uso
----
-
-[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
-
-[Modelagem de processo](/pt-br/citsmart-platform-8/workflow/use/modeling.html)
-
-[Configurar atividade de usuário no fluxo](/pt-br/citsmart-platform-8/workflow/use/user-task-configure.html)
-
-
-Configuração
-----------
-
-[Construir expressões](/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html)
-
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>04/12/2019 - Anna Martins
-
-
-[1]:/pt-br/citsmart-platform-8/workflow/use/create-flow.html
-[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
-[3]:/pt-br/citsmart-platform-8/workflow/use/modeling.html
-[4]:/pt-br/neuro/advanced-options/process-integration-flow.html
-[5]:/pt-br/neuro/advanced-options/business-rules.html
-[6]:/pt-br/neuro/enable-neuro.html
+[1]:images/workflow-menu-citsmart.png
+[2]:images/workflow-management-citsmart.png
+[3]:images/fist-button-citsmart.jpg
+[4]:images/second-button-citsmart.png
+[5]:images/flow-data-citsmart.png
+[6]:images/diagram-citsmart.png
