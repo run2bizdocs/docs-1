@@ -3,6 +3,49 @@ Description: Notas de release, correções de erros e melhorias na CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.3.0 (2019/11/01)
+
+Bem-vindos ao CITSmart Versão 8.0.3.0. Esta versão apresenta as seguintes correções e melhorias:
+
+|Item|Descricão|
+|--------|---------|
+|4776|Campo de "Categoria" agora possui uma linha apenas para ele no relatório xls|
+|4815|Cadastro de Problema permite preenchimento de todos os campos (sem autocomplete).|
+|4841|Erro na mensagem da tela de mudança que apresenta mensagem genérica ao criticar campo obrigatório|
+|5095|Erro na pesquisa de Release|
+|5304|Criação de Mudança a partir de um Problema 
+|5305|A ferramenta deverá permitir a associação ou a definição, de forma automática, do SLA apropriado, baseando-se em métodos pré-definidos.|
+|5309|Deverá permitir o gerenciamento de múltiplas mudanças encadeadas|
+|5326|Remoção da funcionalidade de Template de Mudança|
+|5373|Criar webservices nativos no CITSMART WORKFLOW|
+|5544|Integração do Facebook Messenger com Smartchat|
+|5557|Implementando portfolio de conhecimento|
+|5592|Adicionando as informações de titulo, descrição, efeito de não implementação, comite consultivo e das abas de 'planejamento' e 'plano de reversão' no Modelo de Mudança|
+|5678|Limitar campo para 200 caracteres|
+|5769|Correção da execução do fluxo.|
+|5861|Correção do acesso negado.|
+|5863|Implementação da inclusão do employee-repository.js|
+|5882|[Tickets] Erro ao tentar visualizar um ticket fechado em algumas situações|
+|5890|[4785] Não esta notificando o atendente solicitado quando existe troca de mensagens entre atendentes|
+|5910|correção na chave internacionalizada|
+|5919|Quando chega mensagem nova está sendo notificado todos os chats minimizados|
+|5920|Não carrega o formulário Neuro correto quando há alteração da configuração de portfólio. Correção da obtenção do template de acompanhamento|
+|5925|Correção de erro na tela de Requisição de Mudança|
+|5926|Inserindo mensagem de alerta ao clicar na opção de criar mudança|
+|5958|Correção de erro no SLA que não está sendo possível vincular em um Serviço no portfólio - "Erro ao executar o localizar...."|
+|5959|Criar possibilidade de envio das mensagens para anuva|
+|5962|Correções da integração com Twitter|
+|5969|Erro ao tentar criar um ticket quando a mensagem de falback contem aspas ''.|
+|5981|Permitindo registrar solicitações de serviço sem localidade.|
+|5982|[2466] - Erro ao Inativar um questionário com vínculo ref. a apresentação da popup|
+|5983|Retirar do menu principal do sistema o acesso à nova funcionalidade de configuração de omnichannel|
+|6042|Retirar do menu principal do sistema o acesso à nova funcionalidade de Portfólio de Conhecimento [Simple 5557]|
+|6049|Campo grupo obrigatório na delegação de liberação|
+|6051|Erro tela de cadastro de Ações Automáticas de Mudança|
+|6053|Falha ao ao iniciar uma conversa pelo chat, o mesmo não esta sendo possível realizar troca de mensagens ou seja as mensagens nao esta sendo entregues!|
+|6054|Adicionando a opção 'Importar dados de template descontinuado'|
+|6071|Alterando colunas impacto e urgencia para aceitar 2 caracteres conforme estrutura do banco para a matriz de prioridade|
+
 ## Versão 8.0.2.0 (2019/10/07)
 
 Bem-vindos ao CITSmart Versão 8.0.2.0. Esta versão apresenta as seguintes correções e melhorias:
