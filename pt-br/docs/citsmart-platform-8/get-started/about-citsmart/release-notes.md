@@ -1,5 +1,5 @@
 Title: Notas de Release
-Description: Notas de release, correções de erros e melhorias na CITSmart.
+Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
