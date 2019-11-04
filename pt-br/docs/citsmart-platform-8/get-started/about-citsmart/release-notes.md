@@ -13,7 +13,7 @@ Bem-vindos ao CITSmart Versão 8.0.3.0. Esta versão apresenta as seguintes corr
 |4815|Cadastro de Problema permite preenchimento de todos os campos (sem autocomplete).|
 |4841|Erro na mensagem da tela de mudança que apresenta mensagem genérica ao criticar campo obrigatório|
 |5095|Erro na pesquisa de Release|
-|5304|Criação de Mudança a partir de um Problema 
+|5304|Criação de Mudança a partir de um Problema| 
 |5305|A ferramenta deverá permitir a associação ou a definição, de forma automática, do SLA apropriado, baseando-se em métodos pré-definidos.|
 |5309|Deverá permitir o gerenciamento de múltiplas mudanças encadeadas|
 |5326|Remoção da funcionalidade de Template de Mudança|
@@ -42,7 +42,7 @@ Bem-vindos ao CITSmart Versão 8.0.3.0. Esta versão apresenta as seguintes corr
 |6042|Retirar do menu principal do sistema o acesso à nova funcionalidade de Portfólio de Conhecimento [Simple 5557]|
 |6049|Campo grupo obrigatório na delegação de liberação|
 |6051|Erro tela de cadastro de Ações Automáticas de Mudança|
-|6053|Falha ao ao iniciar uma conversa pelo chat, o mesmo não esta sendo possível realizar troca de mensagens ou seja as mensagens nao esta sendo entregues!|
+|6053|Falha ao iniciar uma conversa pelo chat, o mesmo não esta sendo possível realizar troca de mensagens ou seja as mensagens nao esta sendo entregues!|
 |6054|Adicionando a opção 'Importar dados de template descontinuado'|
 |6071|Alterando colunas impacto e urgencia para aceitar 2 caracteres conforme estrutura do banco para a matriz de prioridade|
 
