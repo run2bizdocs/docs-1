@@ -27,7 +27,7 @@ Bem-vindos ao CITSmart Versão 8.0.3.0. Esta versão apresenta as seguintes corr
 |5863|Implementação da inclusão do employee-repository.js|
 |5882|[Tickets] Erro ao tentar visualizar um ticket fechado em algumas situações|
 |5890|[4785] Não esta notificando o atendente solicitado quando existe troca de mensagens entre atendentes|
-|5910|correção na chave internacionalizada|
+|5910|Correção na chave internacionalizada|
 |5919|Quando chega mensagem nova está sendo notificado todos os chats minimizados|
 |5920|Não carrega o formulário Neuro correto quando há alteração da configuração de portfólio. Correção da obtenção do template de acompanhamento|
 |5925|Correção de erro na tela de Requisição de Mudança|
