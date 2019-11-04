@@ -3,6 +3,49 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.3.0 (2019/11/01)
+
+Welcome to CITSmart Version 8.0.3.0. This release has the following fixes and improvements:
+
+|Item|Description|
+|--------|---------|
+|4776|"Category" field now has just one line in the xls report|
+|4815|The Problem Registration allows to complete all fields (without autocomplete).|
+|4841|Error on the change screen message displaying generic message while criticizing required field|
+|5095|Error in the Release search|
+|5304|Creation of Change from a Problem| 
+|5305|The tool should allow automatic association or definition of the appropriate SLA based on predefined methods.|
+|5309|Should allow management of multiple chained changes|
+|5326|Removal of Change Template functionality|
+|5373|Create native webservices in CITSMART WORKFLOW|
+|5544|Facebook Messenger Integration with Smartchat|
+|5557|Implementing knowledge portfolio|
+|5592|Adding the title, description, non-implementation effect, advisory committee and 'planning' and 'reversal plan' tabs in the Change Model|
+|5678|Limit field to 200 characters|
+|5769|Flow execution correction.|
+|5861|Access denied fix.|
+|5863|Implementation of adding employee-repository.js|
+|5882|[Tickets] Error trying to view a closed ticket in some situations|
+|5890|[4785] Notifying requested attendant when messaging between attendants|
+|5910|Correction in internationalized key|
+|5919|When new message arrives all minimized chats are being notified|
+|5920|Doesn't load correct Neuro form when portfolio configuration changes. Correction in the monitoring template|
+|5925|Error in the correction on Request for Change screen|
+|5926|Entering alert message by clicking on create change option|
+|5958|Fixed error in SLA not being able to link to a Service in the portfolio - "Error running the location...."|
+|5959|Create possibility to send messages to anuva|
+|5962|Twitter integration fixes|
+|5969|Error trying to create ticket when falback message contains quotation marks "".|
+|5981|Allowing to register service requests without locale.|
+|5982|[2466] - Error Inactivating a linked quiz with link to the ref. to the popup presentation|
+|5983|Remove access to new omnichannel configuration functionality from the system main menu|
+|6042|Remove access to new Knowledge Portfolio functionality from system main menu [Simple 5557]|
+|6049|Required group field in release delegation|
+|6051|Automatic Change Actions registration screen error|
+|6053|Failed to start a chat conversation, it is not being able to perform message exchange, that is, messages are not being delivered!|
+|6054|Adding the "Import discontinued template data" option|
+|6071|Changing impact and urgency columns to accept 2 characters as per bank structure for priority matrix|
+
 ## Version 8.0.2.0 (2019/10/07)
 
 Welcome to CITSmart Version 8.0.2.0. This release has the following fixes and improvements:
