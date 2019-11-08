@@ -8,7 +8,7 @@ plataforma, bem como sua funcionalidade. A plataforma CITSmart é composta pelos
 seguintes conjuntos de software:
 
 
-* **Plataforma CITSmart Enterprise**: pacote de plataforma no formato java WAR (web application ARchive).
+* **Plataforma CITSmart Workflow**: pacote de plataforma no formato java WAR (web application ARchive).
 * **Wildfly**: servidor de aplicação Java EE Web.
 * **SOLR**: plataforma escrita em Java mantida pelo Apache usada para pesquisas.
 * **MongoDB**: banco de dados NoSQL para armazenar objetos não relacionais.
