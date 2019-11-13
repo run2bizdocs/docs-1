@@ -10,7 +10,7 @@ protocolos TCP/IP.
 
 Você pode configurar o CITSmart para consultar bases de usuários disponíveis num serviço de diretório (Microsoft Active Directory ou open-LDAP), e com isso, permitir que esses usuários se autentiquem no CITSmart usando suas credenciais já existentes, sem a necessidade de cadastrá-los manualmente (no CITSmart).
 
-Atualmente, a leitura de dados de uma base AD/LDAP se resume a do objeto "usuário". Dessa forma,  você pode utilizar a opção "Mapeamento de campos" para trazer dados de alguns atributos (ex.: e-mail, telefone, localidade etc.).
+Atualmente, a leitura de dados de uma base AD/LDAP se resume à do objeto "usuário". Dessa forma,  você pode utilizar a opção "Mapeamento de campos" para trazer dados de alguns atributos (ex.: e-mail, telefone, localidade etc.).
 
 Abaixo, é demonstrado um modelo de autenticação para clientes CITSmart Cloud que querem usar suas bases de diretórios (on-premises).
 
@@ -18,7 +18,7 @@ Abaixo, é demonstrado um modelo de autenticação para clientes CITSmart Cloud 
 
 ## Antes de começar
 
-Além disso, caso você queira configurar a sincronização automática de usuários é preciso criar um CRON para esta finalidade (Ex. sincronizar usuários todo dia às 00:00). Para criar um agendamento vá na no menu Processos > Gerência de Evento > Horário.
+Caso você queira configurar a sincronização automática de usuários é preciso criar um CRON para esta finalidade (Ex. sincronizar usuários todo dia às 00:00). Para criar um agendamento vá na no menu Processos > Gerência de Evento > Horário.
 
 ## Procedimento
 
