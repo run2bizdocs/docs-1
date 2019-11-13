@@ -3,81 +3,105 @@ Description: Permite gerenciar diretórios, ou seja, acessar bancos de informaç
 
 # Cadastrar conexões LDAP
 
-O LDAP (*Lightweight Directory Access Protocol* - Protocolo de acesso aos
-diretórios leves) é um protocolo padrão que permite gerenciar diretórios, ou
+O LDAP (*Lightweight Directory Access Protocol* - "Protocolo de acesso aos
+diretórios leves") é um protocolo padrão que permite gerenciar diretórios, ou
 seja, acessar bancos de informações sobre os usuários de uma rede por meio de
 protocolos TCP/IP.
 
-Essa funcionalidade permite cadastrar múltiplas conexões LDAP e definir as
-configurações para cada uma delas.
+Você pode configurar o CITSmart para consultar bases de usuários disponíveis num serviço de diretório (Microsoft Active Directory ou open-LDAP), e com isso, permitir que esses usuários se autentiquem no CITSmart usando suas credenciais já existentes, sem a necessidade de cadastrá-los manualmente (no CITSmart).
+
+Atualmente, a leitura de dados de uma base AD/LDAP se resume a do objeto "usuário". Dessa forma,  você pode utilizar a opção "Mapeamento de campos" para trazer dados de alguns atributos (ex.: e-mail, telefone, localidade etc.).
+
+Abaixo, é demonstrado um modelo de autenticação para clientes CITSmart Cloud que querem usar suas bases de diretórios (on-premises).
 
 ![Autenticação CITSmart LDAP](images/cloud-arch-authentication.png)
 
-Antes de começar
---------------------
+## Antes de começar
 
-É preciso ter cadastrado o horário para agendamento da sincronização automática.
+Além disso, caso você queira configurar a sincronização automática de usuários é preciso criar um CRON para esta finalidade (Ex. sincronizar usuários todo dia às 00:00). Para criar um agendamento vá na no menu Processos > Gerência de Evento > Horário.
 
-Procedimento
-----------------
+## Procedimento
 
-1.  Acessar o menu principal Parametrização > Configuração LDAP;
+### Configurar conexão
 
+1.  Acessar o menu Parametrização > Configuração LDAP;
 2.  Clicar no botão "Novo";
-
-    !!! Abstract "REGRA"
-
-        Todos os campos são igualmente relevantes para viabilizar a conexão com o
-        LDAP, enquanto o teste não for bem-sucedido o procedimento de configuração
-        não pode ser considerado completado.
-
 3.  Preencher os campos disponibilizados;
 
-    !!! Abstract "REGRA"
+| Campo | Descrição | Exemplo |
+|-----|---------|-------|
+| Implementação | Tipo do servidor de diretório | AD/OpenLDAP |
+| URL Conexão | Endereço de acesso à base de diretórios. Note que você poderá utilizar acesso normal (porta 389) ou criptografado (porta 636) | ldap://auth.domain.com:389 ldaps://auth.domain.com:636 |
+| DN Base | DN Base usado para pesquisar entradas de usuários|dc=domain,dc=com|
+| DN Alias | Domínio/Nome da conexão, esse nome será visível na tela de login|domain.com|
+| Filtro | Filtro  para consulta de objetos nos diretórios | (&(objectCategory=person)(objectClass=user)) |
+| DN Manager | Usuário com permissão para buscar o diretório. Neste caso, informe o valor conforme o atritributo "distinguishedName" do AD | CN=Service User,OU=COMPANY,DC=domain,DC=com |
+| Pwd Manager|Senha do DN Manager |*****|
+| Configuração padrão | Se a conexão está disponível na tela de login|Sim/Não|
+
+    !!! info "IMPORTANTE"
 
         Caso não exista grupos LDAP, preencher o campo “DN Grupo” apenas com um
         asterisco. Isto fará com que o sistema verifique todo o domínio.
 
-4.  É possível vincular novos grupos, para isso clicar no botão "Adicionar" na
-    área **Grupos LDAP**;
+4. Verificar conectividade com a base, para isso, clicar em "Testar Conexão";
 
-    !!! Abstract "REGRA"
+5.  Clicar no botão "Gravar".
 
-        Antes de pedir para testar **deve-se** clicar o botão "Gravar" para salvar a
-        configuração, caso contrário o teste usará os dados anteriores às alterações
-        feitas na tela.
+!!! warning "ATENÇÃO"
+
+    Antes de pedir para testar **deve-se** clicar o botão "Gravar" para salvar a
+    configuração, caso contrário o teste usará os dados anteriores às alterações
+    feitas na tela.
+
+### Configurar Grupo DN e Apontamentos
+
+Após configurar a conexão com sucesso você deverá adicionar preferências para a sincronização de usuários, para isso você deve indicar Grupos LDAP e Mapeamento de campos. No caso dos "Grupos LDAP", você tem a possibilidade de criar personalizações onde determinados usuários herdam automaticamente permissões no CITSmart via link com Perfil de Acesso ou Grupos. Para o item "Mapeamento de campos", você pode configurar a aplicação para ler atributos de sua base LDAP e trazer para o cadastro do colaborador (ex.: ler o atributo "mail" e atrelar ao campo "e-mail" do colaborador).
+
+1.  Para vincular novos grupos, clicar no botão "Adicionar" na área **Grupos LDAP** e informar os dados:
+
+| Campo | Descrição | Exemplo |
+|-------|-----------|---------|
+| DN Grupo | Caminho para o Grupo DN | OU=Users,OU=Company |
+| Filtro | Filtro para a pesquisa do objeto. Deixe em branco para usar o definido na conexão | OU=Users,OU=Company |
+| Atributo para nome | Informar o atributo para leitura do nome (ex.: CN, SamAccountName etc.)  | CN |
+| Atualizar vínculos | Frequência com que os dados serão atualizados com base no servidor AD/LDAP (Opções: Sempre, Nunca ou Somente na criação) | Sempre |
+| Perfil de acesso | Perfil do sistema que os usuários herdarão | Administrador |
+| Grupo | Grupo do sistema que os usuários serão inseridos | Gerentes |
+| Agendamento | Período em que a sincronização automática será executada | [Todo dia]* |
+
+
+2.  É possível vincular mapas de campos, para isso clicar no botão "Adicionar"
+    na área **Mapeamento de campos**, digital o nome do campo LDAP e Selecionar o campo correspondente no CITSmart;
+
+| Campo no LDAP | Campo no sistema |
+|-------|-----------|
+| mail | E-mail |
+| telephoneNumber | Telefone |
+| localeID | Localidade |
+
+3.  Clicar no botão "Gravar".
+
+    !!! note "NOTA"
 
         Quando há um pedido de autenticação na tela de identificação do sistema
         (login e senha) é executado um ciclo de busca da conexão correta com base
         nesta configuração, ou seja, há uma tentativa de autenticação para cada
         domínio aqui cadastrado (isso se houver mais de um).
 
-5.  É possível vincular mapas de campos, para isso clicar no botão "Adicionar"
-    na área **Mapeamento de campos**;
 
-6.  Clicar no botão "Gravar".
+### Para usar o protocolo LDAPS
 
-    !!! Abstract "REGRA"
+A utilização do protocolo LDAPS no CITSmart requer o certificado público do servidor AD/LDAP no repositório de certificados CA do JAVA (em seu servidor Wildfly). Assim, você deverá exportá-lo do servidor AD/LDAP e importá-lo em sua instância. Em caso de dúvidas acerca da importação de certificados no servidor de aplicação consulte o [documento de instalação][1].
 
-        O sistema não permite excluir um usuário que tem origem no LDAP.
+## O que fazer depois
 
-### LDAP Seguro (LDAPs)
+Para usar efetivamente a autenticação AD/LDAP é necessário, após o cadastro da conexão, alterar o parâmetro 22 e informar valor igual à "2", ou seja, indicar que o método de autenticação no CITSmart passará ser o AD/LDAP. De toda forma, a autenticação manual continuará funcionando normalmente.
 
-```sh
-URL: ldaps://your-host.com:636
-```
+## Relacionado
 
-!!! success "Certificado digital"
-
-    Exportar o certificado público do servidor LDAP e adicionar no repositório de certificados CA de Java de sua instância CITSmart.
+[Cadastrar horário][2]
 
 
-Relacionado
------------
-
-[Cadastrar horário](/pt-br/citsmart-platform-8/processes/event/configuration/register-time.html)
-
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/18/2019 - Anna Martins
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/pt-br/citsmart-platform-8/processes/event/configuration/register-time.html
