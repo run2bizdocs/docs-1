@@ -18,7 +18,7 @@ Abaixo, é demonstrado um modelo de autenticação para clientes CITSmart Cloud 
 
 ## Antes de começar
 
-Caso você queira configurar a sincronização automática de usuários é preciso criar um CRON para esta finalidade (Ex. sincronizar usuários todo dia às 00:00). Para criar um agendamento vá na no menu Processos > Gerência de Evento > Horário.
+Caso você queira configurar a sincronização automática de usuários é preciso criar um CRON para esta finalidade (Ex. sincronizar usuários todo dia às 00:00). Para criar um agendamento vá no menu Processos > Gerência de Evento > Horário.
 
 ## Procedimento
 
@@ -31,7 +31,7 @@ Caso você queira configurar a sincronização automática de usuários é preci
   | Campo | Descrição | Exemplo |
   |-----|---------|-------|
   | Implementação | Tipo do servidor de diretório | AD/OpenLDAP |
-  | URL Conexão | Endereço de acesso à base de diretórios. Note que você poderá utilizar acesso normal (porta 389) ou criptografado (porta 636) | ldap://auth.domain.com:389 ldaps://auth.domain.com:636 |
+  | URL Conexão | Endereço de acesso à base de diretórios. Note que você poderá utilizar uma conexão não criptografada (porta 389) ou criptografada (porta 636) | ldaps://auth.domain.com:636 |
   | DN Base | DN Base usado para pesquisar entradas de usuários|dc=domain,dc=com |
   | DN Alias | Domínio/Nome da conexão, esse nome será visível na tela de login|domain.com |
   | Filtro | Filtro  para consulta de objetos nos diretórios | (&(objectCategory=person)(objectClass=user)) |
