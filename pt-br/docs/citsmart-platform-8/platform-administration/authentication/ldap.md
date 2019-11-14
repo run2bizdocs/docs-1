@@ -86,7 +86,7 @@ Após ter configurado uma conexão com sucesso, você deverá adicionar preferê
 
 ### Para usar o protocolo LDAPS
 
-A utilização do protocolo LDAPS no CITSmart requer o certificado público do servidor AD/LDAP no repositório de certificados CA do JAVA (em seu servidor Wildfly). Assim, você deverá exportá-lo do servidor AD/LDAP e importá-lo em sua instância. Em caso de dúvidas acerca da importação de certificados no servidor de aplicação [documento de instalação][1].
+A utilização do protocolo LDAPS no CITSmart requer o certificado público do servidor AD/LDAP no repositório de certificados CA do JAVA (em seu servidor Wildfly). Assim, você deverá exportá-lo do servidor AD/LDAP e importá-lo em sua instância. Em caso de dúvidas acerca da importação de certificados no servidor de aplicação, consulte o [documento de instalação][1].
 
 ## O que fazer depois
 
