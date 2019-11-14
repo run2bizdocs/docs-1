@@ -93,5 +93,5 @@ To use AD/LDAP authentication effectively, after registering the connection, cha
 [Register time]
 
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/pt-br/citsmart-platform-8/processes/event/configuration/register-time.html
+[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[2]:/en-us/citsmart-platform-8/processes/event/configuration/register-time.html
