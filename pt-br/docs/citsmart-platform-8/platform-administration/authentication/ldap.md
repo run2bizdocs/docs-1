@@ -28,19 +28,18 @@ Caso você queira configurar a sincronização automática de usuários é preci
 2.  Clicar no botão "Novo";
 3.  Preencher os campos disponibilizados;
 
-  | Campo | Descrição | Exemplo |
-  |-----|---------|-------|
-  | Implementação | Tipo do servidor de diretório | AD/OpenLDAP |
-  | URL Conexão | Endereço de acesso à base de diretórios. Note que você poderá utilizar uma conexão não criptografada (porta 389) ou criptografada (porta 636) | ldaps://auth.domain.com:636 |
-  | DN Base | DN Base usado para pesquisar entradas de usuários|dc=domain,dc=com |
-  | DN Alias | Domínio/Nome da conexão, esse nome será visível na tela de login|domain.com |
-  | Filtro | Filtro  para consulta de objetos nos diretórios | (&(objectCategory=person)(objectClass=user)) |
-  | DN Manager | Usuário com permissão para buscar o diretório. Neste caso, informe o valor conforme o atritributo "distinguishedName" do AD | CN=Service User,OU=COMPANY,DC=domain,DC=com |
-  | Pwd Manager|Senha do DN Manager | ***** |
-  | Configuração padrão | Se a conexão está disponível na tela de login | Sim/Não |
+    | Campo | Descrição | Exemplo |
+    |-----|---------|-------|
+    | Implementação | Tipo do servidor de diretório | AD/OpenLDAP |
+    | URL Conexão | Endereço de acesso à base de diretórios. Note que você poderá utilizar uma conexão não criptografada (porta 389) ou criptografada (porta 636) | ldaps://auth.domain.com:636 |
+    | DN Base | DN Base usado para pesquisar entradas de usuários|dc=domain,dc=com |
+    | DN Alias | Domínio/Nome da conexão, esse nome será visível na tela de login|domain.com |
+    | Filtro | Filtro  para consulta de objetos nos diretórios | (&(objectCategory=person)(objectClass=user)) |
+    | DN Manager | Usuário com permissão para buscar o diretório. Neste caso, informe o valor conforme o atritributo "distinguishedName" do AD | CN=Service User,OU=COMPANY,DC=domain,DC=com |
+    | Pwd Manager|Senha do DN Manager | ***** |
+    | Configuração padrão | Se a conexão está disponível na tela de login | Sim/Não |
 
     !!! info "IMPORTANTE"
-
         Caso não existam Grupos DN, preencher o campo “DN Grupo” apenas com um asterisco. Isto fará com que o sistema verifique todo o domínio.
 
 4. Verificar conectividade com a base, para isso, clicar em "Testar Conexão", se todos os dados estiverem corretos você receberá a mensagem "Conexão realizada com sucesso";
