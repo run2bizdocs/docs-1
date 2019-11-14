@@ -75,8 +75,10 @@ After you have successfully configured a connection, you must add preferences fo
 
     !!! note "NOTE"
 
-        When there is an authentication request in the system identification screen (login and password), a correct connection search           cycle is executed based on this configuration, that is, there's an authentication attempt for each domain registered here (if           there is more than one).
-
+        When there is an authentication request in the system identification screen
+        (login and password), a correct connection search cycle is executed
+        based on this configuration, that is, there's an authentication attempt
+        for each domain registered here (if there is more than one).
 
 ### To use LDAP protocol
 
