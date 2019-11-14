@@ -66,8 +66,7 @@ Após ter configurado uma conexão com sucesso, você deverá adicionar preferê
     | Agendamento | Período em que a sincronização automática será executada | [Todo dia]* |
 
 
-2.  É possível vincular mapas de campos, para isso clicar no botão "Adicionar"
-    na área **Mapeamento de campos**, digital o nome do campo LDAP e Selecionar o campo correspondente no CITSmart;
+2.  Para vincular atributos à campos, clicar no botão "Adicionar", na área **Mapeamento de campos**, digitar o nome do campo LDAP e selecionar o campo correspondente no CITSmart;
 
     | Campo no LDAP | Campo no sistema |
     |-------|-----------|
