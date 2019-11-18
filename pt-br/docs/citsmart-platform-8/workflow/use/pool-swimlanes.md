@@ -1,4 +1,4 @@
-Title: Pool e Swimlanes
+Title: Organizar Fluxo com Pool e Swimlanes
 Description: Organizar Fluxo com Pool e Swimlanes
 
 # Organizar Fluxo com Pool e Swimlanes
@@ -25,7 +25,7 @@ Defina os atores do fluxo e tarefas, também é recomendado que os dados solicit
 
 4. Definir Swimlanes para executantes do Fluxo
 
-  a. Para utilizar uma Swimlane basta segurar e arrastar para dentro da Pool já adicionada na área de desenho, não contendo limites de Swimlanes dentro de uma Pool;
+  - Para utilizar uma Swimlane basta segurar e arrastar para dentro da Pool já adicionada na área de desenho, não contendo limites de Swimlanes dentro de uma Pool;
 
 As propriedades tanto de uma Pool quanto de uma Swimlane são compostas por por:
 
@@ -48,7 +48,7 @@ As propriedades tanto de uma Pool quanto de uma Swimlane são compostas por por:
 !!! Regra
 Ao realizar uma atribuição em um Pool de recursos, automaticamente os elementos herdarão as configurações. A hierarquia de atribuições é definida da seguinte forma:
 
-1.  Pool;
+1. Pool;
 
 2. Swimlanes;
 
@@ -56,12 +56,10 @@ Ao realizar uma atribuição em um Pool de recursos, automaticamente os elemento
 
 Qualquer atribuição realizada localmente, fará com que a atribuição hierárquica seja “Ignorada”.
 
-
-
 ## O que fazer a seguir
 
-Adicione outros elementos em seu fluxo.
+Configure as atividades de usuário que deseja utilizar e adicione outros elementos em seu fluxo.
 
 ## Relacionado
 
-Configurar Tarefa de Usuário
+[Configurar Tarefa de Usuário](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/user-task-configure.html)
