@@ -82,7 +82,7 @@ A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalida
 Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
 
 ## Relacionado
-[Controlar sequência com Gateway](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/control-with-gateway.html)
+[Controlar sequência com Gateway](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/pool-swimlanes.html)
 
 [1]:images/1.png
 [2]:images/2.png
