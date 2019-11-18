@@ -27,7 +27,7 @@ Defina os atores do fluxo e tarefas, também é recomendado que os dados solicit
 
   - Para utilizar uma Swimlane basta segurar e arrastar para dentro da Pool já adicionada na área de desenho, não contendo limites de Swimlanes dentro de uma Pool;
 
-As propriedades tanto de uma Pool quanto de uma Swimlane são compostas por por:
+As propriedades tanto de uma Pool quanto de uma Swimlane são compostas por:
 
 * **Identificação**
 
