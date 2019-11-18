@@ -1,3 +1,5 @@
+Title: Download e instalação dos programas
+
 # Download e instalação dos programas
 
 Conforme já informado anteriormente, as etapas de instalação em ambientes locais consistem em no download e instalação de diversos programas. Para todos os passos abaixo, partimos do pressuposto que o servidor tenha acesso à Internet. Também recomendamos que o processo de instalação seja realizado por um profissional com conhecimento no mínimo intermediário em Linux. Siga abaixo as etapas de instalação:

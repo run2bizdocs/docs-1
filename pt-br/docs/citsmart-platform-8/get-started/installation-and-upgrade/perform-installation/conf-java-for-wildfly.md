@@ -1,3 +1,5 @@
+Title: Configurando o Java para o WildFly
+
 ## Configurando o Java para o WildFly
 
 Alguns parâmetros do java precisam ser configurados para funcionamento do servidor de aplicação. Entre no diretório `/bin` home do wildfly `/opt/wildfly/bin`. Edite o arquivo `standalone.conf` e inclua a nova configuração após a seguinte linha:

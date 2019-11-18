@@ -1,3 +1,5 @@
+Title: Instalando o MongoDB
+
 # Instalando o MongoDB
 
 A instalação do MongoDB pode ser feita via repositório do yum disponível no endereço https://repo.mongodb.org/. A versão homologada pelo CITSmart é a 3.4. Considerando que o servidor seja CentOS versão 7, crie um arquivo no `/etc/yum.repos.d/` chamado mongo.repo, e inclua o conteúdo abaixo. Lembre-se de trocar o `baseurl` pelo URL de acordo com sua versão de sistema operacional. No exemplo abaixo o repositório escolhido foi para um CentOS 7:

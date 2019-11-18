@@ -1,4 +1,6 @@
-## Configurando o servidor de aplicação
+Title: Configurando o servidor de aplicação
+
+# Configurando o servidor de aplicação
 
 As configurações do servidor de aplicação podem ser feitas de duas formas: via jboss-cli ou editando o arquivo xml. Não existe diferença técnica em nenhuma das opções, e a escolha vai de cada administrador. Abaixo ambos exemplos de configuração.
 
@@ -6,7 +8,7 @@ As configurações do servidor de aplicação podem ser feitas de duas formas: v
 
     Fique atento às variáveis para alterá-las de acordo com as configurações do seu ambiente.
 
-### Configurando servidor via jboss-cli
+## Configurando servidor via jboss-cli
 
 Conecte-se ao jboss-cli (considerando-se que o servidor esteja rodando) executando o comando abaixo:
 
@@ -66,7 +68,7 @@ Após as configurações, para sair do CLI digite `quit`
 [standalone@localhost:9990 /] quit
 [root@server /tmp]#
 ```
-### Configurando o servidor via XML
+## Configurando o servidor via XML
 
 Para editar o arquivo XML utilizado pelo wildfly na mão, entre no diretório:
 

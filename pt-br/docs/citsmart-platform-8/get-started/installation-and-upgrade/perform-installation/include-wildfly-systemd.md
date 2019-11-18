@@ -1,4 +1,6 @@
-## Incluindo o WildFly no systemd
+Title: Incluindo o WildFly no systemd
+
+# Incluindo o WildFly no systemd
 
 Para que o wildfly inicie automaticamente, é necessário configurá-lo para o systemd (no caso de CentOS 7). Siga as etapas abaixo para realizar a configuração:
 

@@ -1,3 +1,5 @@
+Title: Realizando o deploy do CITSmart
+
 # Realizando o deploy do CITSmart
 
 Faça o download do pacote WAR do CITSmart e do Neuro no portal do parceiro. Envie para o servidor utilizando scp para pasta /tmp. A instalação do CITSmart consiste nos seguintes passsos:
