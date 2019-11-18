@@ -108,6 +108,7 @@ Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negóci
 [Conceitos básicos](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/basic-concepts.html)
 
 [1]:images/workflow-menu-citsmart.png
+
 [2]:images/workflow-management-citsmart.png
 [3]:images/fist-button-citsmart.jpg
 [4]:images/second-button-citsmart.png
