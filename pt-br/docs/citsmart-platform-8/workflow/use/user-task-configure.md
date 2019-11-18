@@ -1,5 +1,5 @@
 title: Configurar Tarefa de Usuário
-Description: Este documento tem por objetivo configurar a atividade do usuário dentro do fluxo de trabalho
+Description: Este documento tem por objetivo configurar a atividade do usuário dentro
 
 # Configurar Tarefa de Usuário
 
@@ -21,75 +21,72 @@ No mínimo, você precisará ter um fluxo sendo registrado pois não é possíve
 
 Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
-* **Identificação**
+  * **Identificação**
 
-  * **Nome** – da tarefa de usuário;
+    * **Nome** – da tarefa de usuário;
+    * **Descrição** – para detalhar a tarefa do usuário;
+    * **Identificador** – é uma sigla única para tarefa, serve para codificar Rhino e para formulário do neuro;
+    * **Contabilizar SLA** – definir se “sim” ou “não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
 
-  * **Descrição** – para detalhar a tarefa do usuário;
+    * **Percentual de execução** – campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
 
-  * **Identificador** – é uma sigla única para tarefa, serve para codificar Rhino e para formulário do neuro;
+    * **É uma tarefa de aprovação?** – definir se “sim” ou “não”;
 
-  * **Contabilizar SLA** – definir se “sim” ou “não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
+  * **Atribuição**
 
-  * **Percentual de execução** – campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
+    * **Tipo Destinatário** – selecionar se será para grupo ou usuário específico;  
 
-  * **É uma tarefa de aprovação?** – definir se “sim” ou “não”;
+    * **Tipo Atribuição** – definir se a atribuição será de execução ou de acompanhamento;
 
-* **Atribuição**
+    * **Grupo** – selecionar o grupo/usuário;
 
-  * **Tipo Destinatário** – selecionar se será para grupo ou usuário específico;  
+    * **Ou Expressão** – buscar por expressão já cadastrada previamente;
 
-  * **Tipo Atribuição** – definir se a atribuição será de execução ou de acompanhamento;
+  * **Ações do usuário**
 
-  * **Grupo** – selecionar o grupo/usuário;
+    * **Selecione a ação do cadastro** – buscar por ação já cadastrada previamente;
 
-  * **Ou Expressão** – buscar por expressão já cadastrada previamente;
+    * **Botão de limpar** – permite apagar o que foi escrito;
 
-* **Ações do usuário**
+    * **Botão de construção** – permite construir uma nova ação ou expressão;
 
-  * **Selecione a ação do cadastro** – buscar por ação já cadastrada previamente;
+  * **Ações de entrada**
 
-  * **Botão de limpar** – permite apagar o que foi escrito;
+    * **Construir expressão** – definir uma expressão diretamente;
 
-  * **Botão de construção** – permite construir uma nova ação ou expressão;
+    * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
 
-* **Ações de entrada**
+  * **Ações de saída**
 
-  * **Construir expressão** – definir uma expressão diretamente;
+    * **Construir expressão** – definir uma expressão diretamente;
 
-  * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
+    * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
 
-* **Ações de saída**
+  * **Interface**
 
-  * **Construir expressão** – definir uma expressão diretamente;
+    *  **Tipo de interação**:
 
-  * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
+      * **Definido no portfólio** - é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template CRIAÇÃO” e “Template acompanhamento”.
 
-* **Interface**
+      * **Formulário padrão** – do sistema;
 
-  *  **Tipo de interação**:
+      * **Formulário Neuro** - possui um identificador para chamar o fluxo disparado por este formulário;
 
-    * **Definido no portfólio** - é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template CRIAÇÃO” e “Template acompanhamento”.
+      * **Base de conhecimento**
 
-    * **Formulário padrão** – do sistema;
-
-    * **Formulário Neuro** - possui um identificador para chamar o fluxo disparado por este formulário;
-
-* **Base de conhecimento**
-
-  * **Vincular base de conhecimento** – permite vincular uma base já existente;
+      * **Vincular base de conhecimento** – permite vincular uma base já existente;
 
 6. Para realizar uma conexão com outro elemento do fluxo, clique uma vez no item que deseja conectar, aparecerá quatro pontos quadrados na cor laranja em volta do item, selecione a direção que deseja e araste o ponto laranja para o item que deseja que seja realizado a conexão;
 
 7. Para utilizar a conexão da melhor forma é necessário configurá-la, para isso utilize o símbolo “+” que se encontra na cor laranja em cima da linha de conexão e com um duplo clique abra as seguintes propriedades:
 
-* **Nome** – para identificação na linha de conexão;
+  * **Nome** – para identificação na linha de conexão;
 
-* **Condição** – utiliza uma função que dá a devida condição para a linha;
+  * **Condição** – utiliza uma função que dá a devida condição para a linha;
 
-* **Ação** – utiliza uma ação específica para a finalidade da linha;
+  * **Ação** – utiliza uma ação específica para a finalidade da linha;
 
-* **Estado** – é uma expressão que gera um status para a atividade;
+  * **Estado** – é uma expressão que gera um status para a atividade;
 
 
 ## E agora, o que devo fazer?
