@@ -31,3 +31,7 @@ Após o deploy do CITSmart, você deverá seguir os passos para finalizar a inst
     O usuário e senha para realizar o primeiro acesso são:
     Usuário: consultor
     Senha: admgoiania516
+
+!!! tip ""
+
+    Author: `Christiano Mendonça` Version: 8.0.2.0 Updated: 2019/11/18 Description: Updated installation process to latest
