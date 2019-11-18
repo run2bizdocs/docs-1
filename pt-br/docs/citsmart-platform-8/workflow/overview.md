@@ -17,6 +17,25 @@ Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à 
 
 ![workflow menu CITSmart][1]
 
+**Padrão do sistema**
+
+1: Criar um Fluxo de Trabalho;
+
+2: Construir Expressões;
+
+3: Modelagem de processos;
+
+**Integração Neuro**
+
+4: Fluxo de Integração;
+
+5: Regras de negócio;
+
+6: Processo de Negócio;
+
+!!! note "NOTAS"
+   Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
+
 Caso já tenha esse acesso, basta clicar e seleciona a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
 
 ## Tela de Gerenciamento de Fluxo
@@ -73,11 +92,11 @@ Na aba **diagrama** encontramos diversos Elementos para a construção do fluxo 
 
 ![diagram CITSmart][6]
 
-**1: Elementos** – São conjuntos de itens/ferramentas para serem usadas no desenho do fluxo como explicado nos no item Conceitos Básicos;
+1: **Elementos** – São conjuntos de itens/ferramentas para serem usadas no desenho do fluxo como explicado nos no item Conceitos Básicos;
 
-**2: Área de Desenho** – local para desenho e construção do fluxo de trabalho;
+2: **Área de Desenho** – local para desenho e construção do fluxo de trabalho;
 
-#### Aba Documentação
+### Aba Documentação
 
 Na aba Documentação você poderá gerar um documento com todas as informações do fluxo desenhado - a descrição dos elementos utilizados no fluxo de trabalho e os documentos vinculados ao fluxo - sendo possível exportá-lo para PDF.  
 
@@ -86,7 +105,7 @@ Na aba Documentação você poderá gerar um documento com todas as informaçõe
 Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
 
 ## Relacionado
-[Conceitos básicos](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/basic-concepts.html)
+[Conceitos básicos](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/basic-concepts.html)
 
 [1]:images/workflow-menu-citsmart.png
 [2]:images/workflow-management-citsmart.png

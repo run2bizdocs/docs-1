@@ -1,27 +1,28 @@
-Title: conceitos basicos
-Description: Workflow do CITSmart
+Title: Conceitos Básicos.
+Description: Conceitos Básicos para melhor uso e construção do fluxo de trabalho.  
 
 # Conceitos Básicos
 Os Fluxos do CITSmart podem ser desenhados utilizando uma vasta quantidade de elementos que estão disponíveis, abaixo está descrito os elementos bem como as suas características e propriedades.
 
 ## Elementos do Fluxo
-Elementos é a nomenclatura utilizada para a agrupar os componentes que você pode utilizar na criação de um fluxo, eles são distribuídos de seguinte forma: **Eventos**, **Atividades**, **Extensões**, **Gateways**, **Swimlanes**, **Artefatos** e **Componentes Dinâmicos**.
+Elementos é a nomenclatura utilizada para a agrupar os componentes que você pode utilizar na criação de um fluxo, eles são distribuídos da seguinte forma: **Eventos**, **Atividades**, **Extensões**, **Gateways**, **Swimlanes**, **Artefatos** e **Componentes Dinâmicos**.
 
 Para entender melhor o que se encontra em cada grupo de Elementos e cada funcionalidade dos componentes verifique os itens abaixo.
 
 ### Eventos
+
 Eventos são componentes utilizados para representar acontecimentos em um fluxo, podem representar a espera de que um fato aconteça para iniciar ou prosseguir a execução de uma atividade ou pode representar o início ou o término de um fluxo.
 
 |Icone|Descrição|
-------|-----|
+|------|-----|
 |![ Start event CITSmart][1]|•	**Evento de Início** – elemento que dá início ao fluxo;|
 |![ send event CITSmart][2]|•	**Evento Intermediário de Envio** – permite enviar o controle de uma atividade do usuário para outra atividade;|
 |![ catch event CITSmart][3]|•	**Evento Intermediário de Captura** – permite receber o controle que foi enviado;|
 |![ time event CITSmart][4]|•	**Evento Intermediário do Temporizador** - são eventos acionados por tempo definido e relacionados a uma Expressão Cron, pode ser utilizado como evento inicial ou intermediário. Um uso frequente para este evento está nos serviços Batch;|
 |![ end event CITSmart][5]|•	**Evento de Fim** – elemento que identifica o fim do fluxo.|
 
-
 ### Atividades
+
 Os componentes de atividades são representação do que será feito no fluxo.
 
 |Icone|Descrição|
@@ -32,6 +33,7 @@ Os componentes de atividades são representação do que será feito no fluxo.
 |![ subprocess CITSmart][9]|•	**Subprocessos** - Permite a criação de solicitações ou incidentes ITSM, relacionados ou não à solicitação do workflow que está sendo executado.|
 
 ### Extensões
+
 Os componentes de extensão integram o fluxo e com o usuário de forma prática e direta.
 
 |Icone|Descrição|
@@ -40,6 +42,7 @@ Os componentes de extensão integram o fluxo e com o usuário de forma prática 
 |![ notification CITSmart][11]|•	**Notificação** - usada para enviar notificação durante o processo de um ou mais usuários ou grupo atribuídos a ela.|
 
 ### Gateways
+
 Os Gateways são componentes responsáveis por controlar iterações do fluxo, criando caminhos no mapeamento do processo em uma mesma sequência de atividades, um gateway é conectado ao fluxo através de fluxo de sequência.
 São representados visualmente por um losango. O símbolo interno do losango identifica a interpretação da lógica do componente.
 
@@ -50,6 +53,7 @@ São representados visualmente por um losango. O símbolo interno do losango ide
 |![ exclusivos CITSmart][14]|•	**Gateway Exclusivo** - baseado na condição, divide o fluxo em um ou mais caminhos mutuamente exclusivos. Ao dividir, ele roteia o fluxo de sequência para exatamente um dos ramos de saída. Ao mesclar, ele aguarda que uma ramificação de entrada seja concluída antes de acionar o fluxo de saída.|
 
 ### Swimlanes
+
 |Icone|Descrição|
 |------|-----|
 |![Pool CITSmart][15]|•	**Pool/Participante** - Uma Pool é a representação gráfica de um contexto de workflow. Também age como uma “lane”. É um recipiente gráfico para particionar um conjunto de Atividades.|
@@ -63,6 +67,22 @@ São representados visualmente por um losango. O símbolo interno do losango ide
 
 ### Componentes dinâmicos
 
+Componentes Dinâmicos são elementos criados pelo usuário que permite realizar uma atividade diferente das padrões do sistema.
+
+Para utiliza-lo é preciso criar um **Componente Dinâmico** e configura-lo para ser utilizado da maneira desejada, para isso acesse nossa documentação – [Componentes Dinâmicos]()
+
+### Fluxo de integração
+
+O fluxo de integração é um fluxo paralelo ao fluxo de trabalho padrão do sistema que utiliza elementos diferentes como criar uma conexão com banco de dados e funcionalidades diretamente programadas dentro fluxo, entre outros elementos diferentes dos que foram mencionadas a cima.
+
+A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalidade apenas criar um vinculo de um fluxo para o outro, para saber mais a respeito do fluxo de integração acesse nossa documentação – [Fluxo de Integração]()
+
+## E agora, o que devo fazer?
+
+Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
+
+## Relacionado
+[Controlar sequência com Gateway](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/control-with-gateway.html)
 
 [1]:images/1.png
 [2]:images/2.png
