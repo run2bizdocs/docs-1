@@ -1,6 +1,6 @@
-Title: Configuração Inicial
+Title: Finalizar instalação
 
-# Configuração inicial
+# Finalizar instalação
 
 Após o deploy do CITSmart, você deverá seguir os passos para finalizar a instalação.
 
