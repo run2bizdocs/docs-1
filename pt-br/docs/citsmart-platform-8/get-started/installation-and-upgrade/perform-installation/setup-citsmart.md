@@ -23,7 +23,7 @@ Após o deploy do CITSmart, você deverá seguir os passos para finalizar a inst
 3. Clicar no item "Finalizar" para efetivar a instalação;
 
     !!! info "NOTA"
-        Quando você clicar em "Finalizar" o processo de instalação do CITSmart iniciará, a partir desse momento serão criadas todas as tabelas no banco de dados
+        Quando você clicar em "Finalizar" o processo de instalação do CITSmart iniciará, a partir desse momento serão criadas todas as tabelas no banco de dados. Ao final você receberá uma mensagem de "Instalação concluída".
 
 4. Após a instalação com sucesso você será automaticamente redirecionado para a tela de login do CITSmart.
 
