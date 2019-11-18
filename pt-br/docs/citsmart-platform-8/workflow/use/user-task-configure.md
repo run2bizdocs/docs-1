@@ -1,124 +1,97 @@
-title: Configurar atividade de usuário no fluxo
-Description: Este documento tem por objetivo configurar a atividade dentro de fluxo chamada tarefa de usuário. 
-# Configurar atividade de usuário no fluxo 
+title: Configurar Tarefa de Usuário
+Description: Este documento tem por objetivo configurar a atividade do usuário dentro do fluxo de trabalho
 
-Ao desenhar um fluxo é possível inserir diversos elementos, dentre eles a Atividade de usuário. Este documento tem por objetivo orientar quanto a configuração deste elemento no fluxo de trabalho.
+# Configurar Tarefa de Usuário
 
-Antes de começar
----------------
-Para utilizar o elemento "Atividade de Usuário" é necessário, no mínimo, ter um fluxo cadastrado na ferramenta contendo os elementos de eventos: "início" e "fim".
+Após dar início a construção de um fluxo de trabalho é necessário entender como configurar uma tarefa de usuário para que sua experiência no momento de construir seja tão prática quando no momento que o usuário final utilizar o fluxo.
+
+## Antes de Começar
+
+No mínimo, você precisará ter um fluxo sendo registrado pois não é possível salvar o fluxo caso ele não tenha um evento de entrada e um de saída, para que isso aconteça é necessário que entre os dois eventos tenha uma tarefa para que seja possível o usuário interagir com o fluxo de alguma forma.
+
+## Procedimentos para configurar a Tarefa de Usuário  
+
+1. Abrir ou construir um Fluxo;
+
+2. Clicar na aba “Diagrama”;
+
+3. Para criar uma Tarefa de Usuário clique em Atividades para abrir as opções de atividades;
+
+4. Selecione **Tarefa de Usuário** clicando e arrastando para a área de desenho;
+
+Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
+
+* **Identificação**
+
+  * **Nome** – da tarefa de usuário;
+
+  * **Descrição** – para detalhar a tarefa do usuário;
+
+  * **Identificador** – é uma sigla única para tarefa, serve para codificar Rhino e para formulário do neuro;
+
+  * **Contabilizar SLA** – definir se “sim” ou “não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
+
+  * **Percentual de execução** – campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
+
+  * **É uma tarefa de aprovação?** – definir se “sim” ou “não”;
+
+* **Atribuição**
+
+  * **Tipo Destinatário** – selecionar se será para grupo ou usuário específico;  
+
+  * **Tipo Atribuição** – definir se a atribuição será de execução ou de acompanhamento;
+
+  * **Grupo** – selecionar o grupo/usuário;
+
+  * **Ou Expressão** – buscar por expressão já cadastrada previamente;
+
+* **Ações do usuário**
+
+  * **Selecione a ação do cadastro** – buscar por ação já cadastrada previamente;
+
+  * **Botão de limpar** – permite apagar o que foi escrito;
+
+  * **Botão de construção** – permite construir uma nova ação ou expressão;
+
+* **Ações de entrada**
+
+  * **Construir expressão** – definir uma expressão diretamente;
+
+  * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
+
+* **Ações de saída**
+
+  * **Construir expressão** – definir uma expressão diretamente;
+
+  * **Selecionar a ação do cadastro** – buscar por ação já cadastrada previamente;
+
+* **Interface**
+
+  *  **Tipo de interação**:
+
+    * **Definido no portfólio** - é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template CRIAÇÃO” e “Template acompanhamento”.
+
+    * **Formulário padrão** – do sistema;
+
+    * **Formulário Neuro** - possui um identificador para chamar o fluxo disparado por este formulário;
+
+* **Base de conhecimento**
+
+  * **Vincular base de conhecimento** – permite vincular uma base já existente;
+
+6. Para realizar uma conexão com outro elemento do fluxo, clique uma vez no item que deseja conectar, aparecerá quatro pontos quadrados na cor laranja em volta do item, selecione a direção que deseja e araste o ponto laranja para o item que deseja que seja realizado a conexão;
+
+7. Para utilizar a conexão da melhor forma é necessário configurá-la, para isso utilize o símbolo “+” que se encontra na cor laranja em cima da linha de conexão e com um duplo clique abra as seguintes propriedades:
+
+* **Nome** – para identificação na linha de conexão;
+
+* **Condição** – utiliza uma função que dá a devida condição para a linha;
+
+* **Ação** – utiliza uma ação específica para a finalidade da linha;
+
+* **Estado** – é uma expressão que gera um status para a atividade;
 
 
-!!! Abstract "NOTA"
+## E agora, o que devo fazer?
 
-    Dentro da aba *Interface*, escolhendo o Tipo de Interação "Formulário Neuro": possuir 2 formulários de Neuro distintos e         configurados para que o formulário de criação seja mostrado junto ao formulário de acompanhamento. 
-    É necessário também criar o Template de Ticket para cada um dos formulários.
-
-Procedimento
-------------
-
-1.	Acessar o menu principal Workflow > Desenho de fluxo;
-2.	Clicar no botão “Novo”;
-3.	Clicar na aba Diagrama e em seguida na guia Atividade;
-4.	Clicar no elemento Tarefa de Usuário e arrastá-lo até o painel de criação de fluxo;
-5.	Serão abertas as seguintes abas de configuração do elemento:
-
-**Identificação**
-
-*	Nome: nome da tarefa de usuário;
-
-*	Descrição: detalhar a tarefa de usuário;
-
-*	Tipo de instância:
-
-    *	Uma única instância: só pode ter uma única instância não executada da tarefa no fluxo;
-    
-    *	Mais de uma instância controlada pelo fluxo: pode ter várias instâncias não executadas da tarefa;
-    
-    *	Criar uma instância para cada usuário: na atribuição, se houver ponto e vírgula nos usuários, será criada uma tarefa para cada usuário;
-
-*	Identificador: é uma sigla única pra tarefa serve pra codificar Rhino e pra formulários do neuro;
-
-*	Contabiliza SLA: definir se “Sim” ou “Não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
-
-*	Percentual de execução: campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
-
-*	É uma tarefa de aprovação?: definir se “Sim” ou “Não”;
-
-**Atribuição**
-
-*	Tipo de destinatário: selecionar se será para grupo ou usuário específico
-
-*	Tipo atribuição: definir se a atribuição será de execução ou de acompanhamento
-
-*	Grupo/Usuário: selecionar o grupo/usuário
-
-*	Ou Expressão: buscar por expressão já cadastrada previamente
-
-**Ações do usuário**
-
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente (ex. ação de aprovação, ou seja, uma expressão com essa finalidade);
-
-**Ação de entrada**
-
-*	Construir expressão: definir uma expressão diretamente
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
-
-**Ação de saída**
-
-*	Construir expressão: definir uma expressão diretamente
-
-*	Selecione a ação do cadastro: buscar por ação já cadastrada previamente
-
-**Interface**
-
-*	Tipo de interação: é o modo com que um Questionário ou um Formulário Neuro vai ser aplicado na interface de gestão de ticket em um determinado estado do fluxo. A configuração dos itens que estarão visíveis pode ser definida no portfólio ou configurado diretamente no elemento Atividade de Usuário (do fluxo):
-
-    *	Definido no portfólio: é possível que um template de ticket (questionário ou formulário) apareça pontualmente em um estado     do fluxo, utilizando o que foi configurado no atributo de serviço “Atividade” (requisição/incidente) - campos: “Template         CRIAÇÃO” e “Template acompanhamento”. Esta opção é vantajosa quando se tem fluxos genéricos utilizados por vários serviços.
-
-    *	Formulário padrão: default do sistema 
-
-    *	Formulário Neuro: possui um identificador para chamar o fluxo disparado por este formulário
-
-*	Template (Padrão/Neuro): permite a vinculação de template de ticket.
-
-    !!! Abstract "ATENÇÃO"
-
-        Caso não ocorra a vinculação de nenhum template de solicitação de serviço na aba interface, o sistema subentenderá e 
-        aplicará as configurações de um formulário padrão, habilitando a vinculação de item de configuração, mudança, problema
-        e solicitação relacionada ao ticket tela de gerenciamento de solicitação de serviço.
-    
-*	Permite direcionar para grupo: possibilita a ativação/desativação da opção "Direcionar para grupo" no cadastro de um ticket;
-
-*	Permite alteração da situação: torna visível/invisível as opções de atendimento do ticket (Registrada/Em andamento; Resolvida e Cancelada);
-
-*	Habilita notificação e-mail: torna visível/invisível as opções de notificação por e-mail;
-
-*	Permite delegar atendimento: possibilita a ativação/desativação da opção "Delegar" para que esta esteja visível no menu opções do gerenciamento de um ticket;
-
-*	Permite alterar dados da tela: possibilita a edição de questionários na tela de gerenciamento do ticket.
-
-!!! Abstract "REGRA"    
-    
-    As normativas configuradas no fluxo terão prioridade em relação às marcações do template de solicitação de serviço,
-    pois esta é um complemento do fluxo.
-    
-**Base de conhecimento**
-
-   *  Vincular base de conhecimento: escolher o conhecimento que deseja
-       vincular a tarefa de usuário.
-
-!!! Abstract "ATENÇÃO"
-
-    O objetivo principal desta vinculação de conhecimento é permitir que o
-    atendente de uma requisição/incidente tenha facilmente acesso a ele. Assim
-    que o fluxo chegue na atividade do fluxo vinculado a um conhecimento, o
-    botão “Conhecimentos” é mostrado no canto superior direito da tela de
-    Requisição/Incidente para dar acesso de leitura ao conteúdo, para tanto, tal
-    conhecimento geralmente é escrito na forma de um passo a passo.
-    
-    
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>04/22/2019 – Anna Martins
+Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway]()
