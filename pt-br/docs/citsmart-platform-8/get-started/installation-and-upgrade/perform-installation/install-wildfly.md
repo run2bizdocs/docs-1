@@ -1,48 +1,74 @@
-Title: Download e Instalação do JDK
+# Instalação do Wildfly
 
-# Download e Instalação do JDK
+O download do wildfly pode ser realizado diretamente do site da comunidade em sua área de downloads em https://wildfly.org/downloads/. A versão deverá ser a mesma sugerida pela documentação em [Requisitos do sistema](system-requirements.html). Neste caso, deverá ser feito o download do pacote tgz `Java EE Full & Web Distribution`.
 
-O download do Java SE Development Kit deve ser realizado diretamente do site da Oracle. No momento da criação deste documento o caminho pode ser acessado por esse endereço:
-
-https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
-
-Caso o endereço não esteja funcionando, procure pelo JDK na área de download do site da Oracle. Baixe a versão de acordo com a arquitetura de seu sistema operacional. No exemplo estamos utilizando um `Linux CentOS 7.x 64bits`. Todos os pacotes serão baixados no `/tmp`.
-
-Faça o download do jdk para máquina local e envie para o servidor via scp. Para isso, é obrigatório ter um usuário e senha no site da Oracle (o cadastro é gratuito). Isso se deve ao fato do site da Oracle exigir o aceite dos termos de serviço antes de realizar o download. A última versão do JDK disponível no momento da criação da documentação era a `jdk-8u231`. Utilize sempre a último patch da versão recomendada.
-
-## Instalando e configurando o JDK
-
-Supondo que o arquivo esteja no `/tmp` execute os comandos abaixo para descompactação:
-
-``` bash
-[root@server /tmp]# tar -xvzf jdk-8u231-linux-x64.tar.gz -C /opt/
+```sh
+[root@server /tmp]# cd /tmp
+[root@server /tmp]# wget https://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
 ```
-Crie um link simbólico para pasta do jdk na respectiva versão que foi feito o download. Isso facilita futuras atualizações e testes com outras versões.
+Descomprima o pacote para o `/opt`:
 
-``` bash
-[root@server /tmp]# ln -s /opt/jdk1.8.0_231 /opt/jdk
+```sh
+[root@server /tmp]# tar -xvzf wildfly-12.0.0.Final.tar.gz -C /opt/
+```
+Crie um link simbólico para o wildfly versão 12. Isso visa facilitar administrações futuras:
+
+```sh
+[root@server /tmp]# ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
 ```
 
-Crie o arquivo de configuração do java em /etc/profile.d/ chamado java.sh. Embora o servidor web tenha suas próprias configurações de java, esta etapa previne que outras aplicações que funcionem com java dê algum tipo de problema.
+Envie via scp e descomprima o arquivo assets disponibilizada pela CITSmart dentro do diretório do wildfly. Essa pasta é necessária para funcionamento da solução, e é disponibilizada para parceiros através de nosso portal de parceria juntamente com os pacotes de instalação:
 
-``` bash
-[root@server /tmp]# vi /etc/profile.d/java.sh
+```sh
+[root@server /tmp]# tar -xzvf assets.tar.gz -C /opt/wildfly/
 ```
 
-e adicione o seguinte conteúdo (o Wildfly será instalado mais adiante):
+Crie um usuário e grupo para o wildfly:
 
-``` shell
-export JAVA_HOME="/opt/jdk"
-export JBOSS_HOME="/opt/wildfly"
-export PATH="$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH"
+```sh
+[root@server /tmp]# groupadd -r wildfly
+[root@server /tmp]# useradd -r -g wildfly -d /opt/wildfly -s /sbin/nologin wildfly
 ```
-Carregue as configurações com comando abaixo e teste:
 
-``` shell
-[root@server /tmp]# source /etc/profile.d/java.sh
-[root@ip-172-16-12-182 opt]# java -version
+Crie a pasta dos relatórios:
+
+```sh
+[root@server /tmp]# mkdir /opt/wildfly/reports
+```
+
+Altere as permissões da pasta do wildfly para o usuário criado acima:
+
+```sh
+[root@server /tmp]# chown -R wildfly.wildfly wildfly-12.0.0.Final/
+```
+## Testando o Wildfly
+
+A partir desta etapa, podemos realizar um teste para identificar se o Wildfly está funcionando corretamente. Faça um login com usuário do wildfly com comando abaixo:
+
+```sh
+[root@server /tmp]# su - wildfly -s /bin/bash
+```
+
+E verifique se o PATH do java está funcionando corretamente:
+
+```sh
+-bash-4.2$ java -version
 java version "1.8.0_231"
 Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
-[root@ip-172-16-12-182 opt]#
+-bash-4.2$
 ```
+
+Suba o serviço com comando abaixo:
+
+```sh
+-bash-4.2$ ~/bin/standalone.sh
+```
+
+Acompanhe as mensagens de inicialização. Caso o servidor tenha iniciado corretamente, será exibida uma mensagem semelhante a essa abaixo:
+
+```sh
+INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 12.0.0.Final (WildFly Core 4.0.0.Final) started in 3762ms - Started 292 of 513 services (308 services are lazy, passive or on-demand)
+```
+
+Se a mensagem acima indica que o serviço está funcionando corretamente. Pressione `[CTRL+C]` para interromper o serviço. Em seguinda digite `exit` para sair do usuário CITSmart.
