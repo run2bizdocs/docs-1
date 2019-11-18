@@ -27,10 +27,6 @@ Após o deploy do CITSmart, você deverá seguir os passos para finalizar a inst
 
 4. Após a instalação com sucesso você será automaticamente redirecionado para a tela de login do CITSmart.
 
-    !!! success "Primeiro Acesso"
-        O usuário e senha para realizar o primeiro acesso são:
-    - Usuário: consultor
-    - Senha: admgoiania516
 
 !!! tip ""
 
