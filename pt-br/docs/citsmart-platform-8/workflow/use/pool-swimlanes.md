@@ -46,15 +46,14 @@ As propriedades tanto de uma Pool quanto de uma Swimlane são compostas por:
   * **Ou Expressão** – buscar por expressão já cadastrada previamente;
 
 !!! Regra
-Ao realizar uma atribuição em um Pool de recursos, automaticamente os elementos herdarão as configurações. A hierarquia de atribuições é definida da seguinte forma:
 
-1. Pool;
+    Ao realizar uma atribuição em um Pool de recursos, automaticamente os elementos herdarão as configurações. A hierarquia de atribuições é definida da seguinte forma:
 
-2. Swimlanes;
+    1. Pool;
+    2. Swimlanes;
+    3. Tarefa de usuário e Notificações (E-mail/Sistema);
 
-3. Tarefa de usuário e Notificações (E-mail/Sistema);
-
-Qualquer atribuição realizada localmente, fará com que a atribuição hierárquica seja “Ignorada”.
+    Qualquer atribuição realizada localmente, fará com que a atribuição hierárquica seja “Ignorada”.
 
 ## O que fazer a seguir
 
