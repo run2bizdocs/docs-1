@@ -1,199 +1,117 @@
-Title: Overview
+Title: Introduction to CITSmart Workflow
+Description: Overview about the creation and management of a CITSmart workflow.
 
-# Overview
+# Introduction to CITSmart Workflow
 
-## Presentation
+Flows are visual representations of something that moves continuously. Therefore, flows can be used to graphically represent a process or any action. They can be materialized on paper (physical document) or an electronic tool. At CITSmart, the Workflow functionality is designed to model your business goals by outlining the steps you need to take to achieve those goals through a smart digital flow. It's possible to create workflows to assist with the management of services, problems, changes, releases, continuity actions, travel requests, and purchasing. Moreover, the workflow has interaction with the main CITSmart processes.
 
-Workflows are visual representations of something that moves continuously. The Workflow feature is intended to model your business objectives, describing the steps that need to be taken to achieve those goals through a smart digital workflow. It is possible to create workflows to aid in the management of services, problems, changes, releases, continuity actions, travel and purchases requests. Moreover, the workflow interacts with the main CITSmart processes.
+Automated workflows bring system activities to life, enabling your organization's activities to be digitized and automated. Furthermore, you can create task-controlled flows, add notifications, subprocesses and establish direct communication with other applications, such as Neuro - which is a framework for the creation of application.
 
-## Functionalities
-
-**Standard:**
-
-- [Workflow Design][1]
-
-- [Expressions][2]
-
-- [Process Modeling][3]
-
-**Neuro Integration:**
-
-- [Integration Flow][4]
-
-- [Business Rule][5]
-
-- Business Process
-
-!!! Abstract "ALERT"
-    
-    These items will only be available when the application [Neuro is enabled][7] in your instance.
-
-## Interface
-
-### Home Screen
-
-![home screen](images/workflowen-1.png)
-
-Figure 1 - Home screen
+You will find that everyday tasks such as ordering something, registering a ticket and approving a request can be done quickly and intelligently, avoiding the waste of time. CITSmart flows help you to materialize your business processes into a systemic view where you have complete control of what happens.
 
 
- - **1**: New - click to desing the workflow
+## Meeting the workflow functionality
 
- - **2**: Search field - searches a workflow by its name or part of it
- 
- - **3**: Filters - by selecting "Advanced Filters", these fields will be available for search
- 
- - **4**: Edit - click to edit an existing workflow, being able to choose which version to edit
- 
- - **5**: Export - creates documents in JSON format
- 
- - **6**: Delete - click to delete a workflow
+First of all you need to familiarize yourself with the basics concepts, business rules and user interface. The visualization of this functionality in the CITSmart menu depends on permissions assigned to an access profile, make sure you have this permission. If you don't have this access, a manager can grant this access for you.
 
-### Workflow Data Tab
-
-By clicking on "New" in the home screen, the workflow registration screen will be available in the initial Workflow Data tab.
-
-![home screen](images/workflowen-2.png)
-
-Figure 2 - Workflow data
+To find out if your profile has this permission, access the menu on the left side of the screen, and make sure the first access option is the main menu **Workflow**;
 
 
- - **1**: Basic data to register a workflow
-  
- - **2**: Import: you can import an existing workflow, in JSON and XML formats
+![CITSmart workflow menu][1]
 
+**System standard**
 
-### Diagram Tab
+1: Creating a Workflow;
 
-![home screen](images/workflowen-3.png)
+2: Building Expressions;
 
-Figure 3 - Diagram
+3: Process modeling;
 
-- **1** : Elements to design the workflow:
-  
-  **Events**: the elements of events that can be used in the workflow design:
+**Neuro Integration**
 
-  • Start Event
+4: Integration Flow;
 
-  • Intermediate Event of Sending Link
+5: Business Rules;
 
-  • Intermediate Event of Link Capture
+6: Business Process;
 
-  • Timer Intermediate Event
+!!! note "NOTES"
+   These items will only be available when the Neuro application is enabled in your instance;
 
-  • Boundary - Intermediate Event of Error Capture
+If you already have this access, click and select the option **Flow Design** to display the management screen.
 
-  • Intermediate Event of Signal Capture
+## Flow Management Screen
 
-  • Final Event with Error
+In the flow management screen you can: create, edit, export and delet a Flow.
 
-  • End Event
-  
-  **Activities**: the elements of activities that can be used in the workflow design:
+![workflow management CITSmart][2]
 
-   • User Task
+1: **New** - click on it to star a new flow project;
 
-   • Script Task
+2: **Search field** - it searches for a flow by its name or part of it;
 
-   • Message Sending – E-mail
+3: **Edit** - click on it to edit a flow, being possible to choose which version you want to edit;
 
-   • Business Rule Task
+4: **Export** - it creates an exportable document in JSON format;
 
-   • Service Task – ESI
+5: **Delete** - click on it to remove a flow;
 
-   • Data Storage
+## Creating and Editing a Flow
 
-   • Subprocess
-   
-   **Extensions**: the extensions that can be used in the workflow design:
+By clicking on **New** or **Edit** you are taken to the Workflow creation/editing interface, which consists of two tabs: the **Flow Data** where you will enter identification data, and the **Diagram** tab where you can draw the flow.
 
-   • REST Communication
+In a new flow you will find four buttons with the functions of **import**, **save**, **clear** and **back**, you can import a flow (previously exporting in JSON format).
 
-   • Notification
+![fist button CITSmart][3]
 
-   • Variable Assignment
+If it is about  the edition of an existing flow, the buttons are modified by adding the option **Create Documentation** and the change of **Import** by **Save**.
 
-   • Watsond Conversation
-   
-   **Gateways**: the elements of gateway that can be used in the workflow design:
+![second button CITSmart][4]
 
-   • Inclusive Gateway
+### Flow Data Tab  
 
-   • Parallel Gateway
+Flow Data is a tab for flow identification, where you can structure names for a better experience:
 
-   • Exclusive Gateway
+![flow data CITSmart][5]
 
-   • Complex Gateway
+1: **Name** – Assign a name to the flow identification so you can identify it in case of linking or assignment;
 
-   • Gateway Based on Event
-   
-   **Swimianes**: the elements of swimianes that can be used in the workflow design:
+2: **Process** – Assign to the flow one process among all those in CITSmart so it's better defined and identified;
 
-   • Pool/Participant
+3: **Version** – Viewer of the current version of the flow opened;
 
-   • Lane
-   
-   **Artifact**: the element of artifact that can be used in the workflow design:
+4: **Description** – Assign a flow description for easy understanding;
 
-   • Text Notes
-   
+5: **Allows reopening** – Option to allow activities that are linked to this flow to be reopened regardless of group settings;
 
+6: **Write business object data in ticket creation** – Option that allows to create or update business object data configured in our Neuro language when creating a ticket;
 
+7: **Update data of business objects after executing user tasks** – Option that allows to update business objects created during the execution of user tasks.
 
- - **2**: Modeling field – space to design the workflow
- 
- - **3**: Import - it is possible to import a workflow already existed, in JSON and XML
+### Diagram Tab  
 
- - **4**: Clean – clean the workflow created
+In the tab **diagram** we find several Elements for the construction of the flow grouped into **Events**, **Activities**, **Extensions**, **Gateways**, **Swimlanes** and **Artifacts**.These are several components for better construction and interaction of workflow. Below there's an example of a flow being created.
+
+![diagram CITSmart][6]
+
+1: **Elements** – These are sets of items/tools to be used in the flow designing as explained in the Basics Concepts item;
+
+2: **Designing Area** – place for workflow design and construction;
 
 ### Documentation Tab
 
- - View the design created in the Diagram tab
+In the Documentation tab you will be able to generate a document with all the information of the flow desinged - the description of the elements used in the workflow and the documents linked to the flow - being able to export it to PDF.  
 
- - Description of elements used in the workflow created
+## And now, what should I do?
 
- - View documents linked to the workflow
+Now you can create a workflow, think about a business need and the actors involved on it. Take a look at our documentation, it will help you on this journey.
 
-### Buttons
+## Related
+[Basic concepts](https://docs.citsmart.com/en-us/citsmart-platform-8/workflow/basic-concepts.html)
 
-![home screen](images/workflowen-4.png)
-
-Figure 4 - Document Buttons
-
- - **1**: Save:  
- 
-     •	As new version: save the workflow design with a new version
-
-     •	In the original version: save the workflow design in the original version, that is, the 1.0 - version in design
-
- - **2**: Create Document: it allows to export the information in the workflow in PDF
-
-
-Usage
----
-
-[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
-
-[Process modeling](/en-us/citsmart-platform-8/workflow/use/modeling.html)
-
-[Configure user activity in the workflow](/en-us/citsmart-platform-8/workflow/use/user-task-configure.html)
-
-
-Configuration
-----------
-
-[Build expressions](/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html)
-
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>04/12/2019 - Anna Martins
-
-
-[1]:/en-us/citsmart-platform-8/workflow/use/create-flow.html
-[2]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
-[3]:/en-us/citsmart-platform-8/workflow/use/modeling.html
-[4]:/en-us/neuro/advanced-options/process-integration-flow.html
-[5]:/en-us/neuro/advanced-options/business-rules.html
-[6]:
-[7]:/en-us/neuro/enable-neuro.html
+[1]:images/workflow-menu-citsmart.png
+[2]:images/workflow-management-citsmart.png
+[3]:images/fist-button-citsmart.jpg
+[4]:images/second-button-citsmart.png
+[5]:images/flow-data-citsmart.png
+[6]:images/diagram-citsmart.png
