@@ -1,4 +1,4 @@
-Title: Introdução ao fluxo de trabalho do CITSmart
+Title: Introdução ao Workflow do CITSmart
 Description: Visão geral de como criar e gerenciar um fluxo de trabalho no citsmart.
 
 # Introdução ao Workflow do CITSmart
