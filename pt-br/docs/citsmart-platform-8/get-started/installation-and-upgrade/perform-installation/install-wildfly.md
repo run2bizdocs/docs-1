@@ -1,6 +1,6 @@
 # Instalação do Wildfly
 
-O download do wildfly pode ser realizado diretamente do site da comunidade em sua área de downloads em https://wildfly.org/downloads/. A versão deverá ser a mesma sugerida pela documentação em [Requisitos do sistema](system-requirements.html). Neste caso, deverá ser feito o download do pacote tgz `Java EE Full & Web Distribution`.
+O download do wildfly pode ser realizado diretamente do site da comunidade em sua área de downloads em https://wildfly.org/downloads/. A versão deverá ser a mesma sugerida pela documentação em [Requisitos do sistema][1]. Neste caso, deverá ser feito o download do pacote tgz `Java EE Full & Web Distribution`.
 
 ```sh
 [root@server /tmp]# cd /tmp
@@ -75,6 +75,7 @@ Se a mensagem acima indica que o serviço está funcionando corretamente. Pressi
 
 ## Próximo passo
 
-[Configurando o Java para o WildFly][1]
+[Configurando o Java para o WildFly][2]
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/system-requirements.html
+[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html
