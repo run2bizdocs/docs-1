@@ -95,5 +95,5 @@ Para usar la autenticación AD/LDAP de manera efectiva, después de registrar la
 [Registrar horario][2]
 
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html
 [2]:/es-es/citsmart-platform-8/processes/event/configuration/register-time.html
