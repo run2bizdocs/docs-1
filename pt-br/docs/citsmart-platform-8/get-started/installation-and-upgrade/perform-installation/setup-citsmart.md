@@ -4,9 +4,11 @@ Title: Finalizar instalação
 
 Após o deploy do CITSmart, você deverá seguir os passos para finalizar a instalação.
 
-1. Inserir a chave de instalação adquirida junto à CITSmart, e depois disso clicar em "próximo";
+1. Em um navegador Web, acessar a instância CITSmart informando a URL definida para o ambiente (ex: https://citsmart.exemplo.com);
 
-2. Informar o tipo de conexão com o SGBD e apontamentos (URL, diretórios, log etc.);
+2. No primeiro passo da instalação, inserir a chave da licença adquirida junto à CITSmart, e depois disso clicar em "próximo";
+
+3. Informar o tipo de conexão com o SGBD e apontamentos (URL, diretórios, log etc.);
 
     |Campo|Descrição|Exemplo|
     |-----|---------|-------|
@@ -20,12 +22,12 @@ Após o deploy do CITSmart, você deverá seguir os passos para finalizar a inst
     |Upload Directory of the repository path|Caminho do ditetório de Upload | /opt/citsmart/upload |
     |GED Directory |Caminho do diretório para GED (Base de conhecimento)| /opt/citsmart/ged|
 
-3. Clicar no item "Finalizar" para efetivar a instalação;
+4. Clicar no item "Finalizar" para efetivar a instalação;
 
     !!! info "NOTA"
         Quando você clicar em "Finalizar" o processo de instalação do CITSmart iniciará, a partir desse momento serão criadas todas as tabelas no banco de dados. Ao final você receberá uma mensagem de "Instalação concluída".
 
-4. Após a instalação com sucesso você será automaticamente redirecionado para a tela de login do CITSmart.
+5. Após a instalação com sucesso você será automaticamente redirecionado para a tela de login do CITSmart.
 
 
 !!! tip ""
