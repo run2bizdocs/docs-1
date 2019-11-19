@@ -51,4 +51,4 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
 
 [Instalação do Wildfly][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-wildfly.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-wildfly.html

@@ -17,4 +17,4 @@ Conforme já informado anteriormente, as etapas de instalação em ambientes loc
 
 [Download e Instalação do JDK][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-jdk.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-jdk.html

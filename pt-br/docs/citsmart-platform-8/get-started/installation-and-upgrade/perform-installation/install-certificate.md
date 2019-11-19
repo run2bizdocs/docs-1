@@ -204,4 +204,4 @@ Dê um reload, e saia do CLI:
 
 [Instalando o Apache SOLR][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-apache-solr.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-apache-solr.html

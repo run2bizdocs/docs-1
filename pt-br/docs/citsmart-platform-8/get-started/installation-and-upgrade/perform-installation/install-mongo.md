@@ -135,4 +135,4 @@ Successfully added user: {
 
 [Realizando o deploy do CITSmart][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html

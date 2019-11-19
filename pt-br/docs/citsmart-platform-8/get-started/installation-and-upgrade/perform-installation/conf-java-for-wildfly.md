@@ -66,4 +66,4 @@ E configure da forma correta:
 
 [Incluindo o WildFly no systemd][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html

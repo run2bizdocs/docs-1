@@ -206,4 +206,4 @@ E faça um teste de conexão com todos os bancos com os comandos abaixo. Lembran
 
 [Configurando o Wildfly][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html

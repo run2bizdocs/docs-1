@@ -159,4 +159,4 @@ Crie todos os diretórios abaixo necessários para funcionamento da solução. L
 
 [Instalando certificado SSL][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html

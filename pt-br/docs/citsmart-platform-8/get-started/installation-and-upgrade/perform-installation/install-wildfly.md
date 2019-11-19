@@ -77,4 +77,4 @@ Se a mensagem acima indica que o serviço está funcionando corretamente. Pressi
 
 [Configurando o Java para o WildFly][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html

@@ -48,4 +48,4 @@ Após a realização do deploy, acesse o CITSmart através do URL: se foi config
 
 [Finalizar instalação][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/setup-citsmart.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/setup-citsmart.html

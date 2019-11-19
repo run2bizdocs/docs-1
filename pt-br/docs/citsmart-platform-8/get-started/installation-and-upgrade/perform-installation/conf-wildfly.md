@@ -28,4 +28,4 @@ Entre no jboss-cli e execute os comandos abaixo:
 
 [Configurações extras do CITSmart][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-extras.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-extras.html

@@ -91,4 +91,4 @@ Após a mensagem acima, o SOLR está configurado.
 
 [Instalando o MongoDB][1]
 
-[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-mongo.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-mongo.html

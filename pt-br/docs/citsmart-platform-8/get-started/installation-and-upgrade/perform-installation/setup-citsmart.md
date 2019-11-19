@@ -35,8 +35,8 @@ Se você chegou aqui, acreditamos que tenha concluído com sucesso o processo de
 
 [Navegação e interface do usuário][1]
 
-[1]:/citsmart-platform-8/initial-settings/navigation-and-user-interface.html
-
 !!! tip ""
 
     Author: `Christiano Mendonça` Version: 8.0.2.0 Updated: 2019/11/18 Description: Updated installation process to latest
+
+[1]:/pt-br/citsmart-platform-8/initial-settings/navigation-and-user-interface.html
