@@ -97,5 +97,5 @@ Para usar efetivamente a autenticação AD/LDAP é necessário, após o cadastro
 [Cadastrar horário][2]
 
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html
 [2]:/pt-br/citsmart-platform-8/processes/event/configuration/register-time.html
