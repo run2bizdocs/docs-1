@@ -119,8 +119,8 @@ E edite o arquivo stantalone-full.xml e inclua a configuração XML do CITSmart 
  [root@server /tmp]# systemctl status wildfly
  ```
 
- ## Próximo passo
+## Próximo passo
 
- [Configurando o Datasource e Drives de banco][1]
+[Configurando o Datasource e Drives de banco][1]
 
- [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-datasource-and-db.html
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-datasource-and-db.html
