@@ -86,7 +86,7 @@ Dados do Fluxo é uma aba para identificação do fluxo, onde é possível estru
 
 6: **Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Neuro no momento de criação de um ticket;
 
-7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuári
+7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuário.
 
 ### Aba Diagrama  
 
