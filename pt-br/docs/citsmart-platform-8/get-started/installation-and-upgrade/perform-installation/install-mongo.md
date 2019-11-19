@@ -130,3 +130,9 @@ Successfully added user: {
 }
 
 ```
+
+## Próximo passo
+
+[Realizando o deploy do CITSmart][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html

@@ -23,3 +23,9 @@ Entre no jboss-cli e execute os comandos abaixo:
 /subsystem=messaging-activemq/server=default/jms-queue=neuroOutputQueue:add(entries=["queue/neuroOutputQueue","java:jboss/exported/jms/queue/queue/neuroOutputQueue"])
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
+
+## Próximo passo
+
+[Configurações extras do CITSmart][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-extras.html

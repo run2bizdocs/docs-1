@@ -72,3 +72,9 @@ INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 12.0.0.F
 ```
 
 Se a mensagem acima indica que o serviço está funcionando corretamente. Pressione `[CTRL+C]` para interromper o serviço. Em seguinda digite `exit` para sair do usuário CITSmart.
+
+## Próximo passo
+
+[Configurando o Java para o WildFly][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html

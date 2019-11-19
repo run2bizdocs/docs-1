@@ -43,3 +43,9 @@ Após a realização do deploy, acesse o CITSmart através do URL: se foi config
 
 !!! info "Navegadores Suportados"
     Para o bom funcionamento do sistema, você deverá utilizar as seguintes versões mínimas dos principais browsers: **Microsoft EDGE** (Edge 42.17134.0 / Microsoft EdgeHTML 17.17134 ou superior); **Google Chrome** (versão versão 76.0.3809.132 ou superior); **Mozila Firefox** (versão 69.0 ou superior).
+
+## Próximo passo
+
+[Finalizar instalação][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/setup-citsmart.html

@@ -201,3 +201,9 @@ E faça um teste de conexão com todos os bancos com os comandos abaixo. Lembran
 /subsystem=datasources/data-source="/jdbc/citsmart-neuro-app2":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmart-neuro-app3":test-connection-in-pool
 ```
+
+## Próximo passo
+
+[Configurando o Wildfly][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html

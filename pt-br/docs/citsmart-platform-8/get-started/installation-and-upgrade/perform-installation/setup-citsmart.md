@@ -29,6 +29,13 @@ Após o deploy do CITSmart, você deverá seguir os passos para finalizar a inst
 
 5. Após a instalação com sucesso você será automaticamente redirecionado para a tela de login do CITSmart.
 
+## E agora, o que fazer?
+
+Se você chegou aqui, acreditamos que tenha concluído com sucesso o processo de instalação, parabéns! Agora, começa uma nova jornada em que você terá que se ambientar com a plataforma, conhecendo sua interface e funcionalidades. Então, vamos dar o primeiro passo?
+
+[Navegação e interface do usuário][1]
+
+[1]:/citsmart-platform-8/initial-settings/navigation-and-user-interface.html
 
 !!! tip ""
 

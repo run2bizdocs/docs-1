@@ -46,3 +46,9 @@ Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
 [root@server /tmp]#
 ```
+
+## Próximo passo
+
+[Instalação do Wildfly][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-wildfly.html

@@ -12,3 +12,9 @@ Conforme já informado anteriormente, as etapas de instalação em ambientes loc
 5.	Banco de dados não-relacional Mongo;
 6.	Apache SOLR;
 7.	Instalação do pacote do CITSmart Workflow.
+
+## Próximo passo
+
+[Download e Instalação do JDK][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-jdk.html

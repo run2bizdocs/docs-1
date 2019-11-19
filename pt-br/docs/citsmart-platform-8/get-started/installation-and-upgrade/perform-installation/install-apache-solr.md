@@ -85,3 +85,10 @@ http://localhost:8983/solr/admin/cores?action=CREATE&name=base_conhecimento&inst
 
 ```
 Após a mensagem acima, o SOLR está configurado.
+
+
+## Próximo passo
+
+[Instalando o MongoDB][1]
+
+[1]:/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-mongo.html
