@@ -1,7 +1,7 @@
 Title: Introdução ao fluxo de trabalho do CITSmart
 Description: Visão geral de como criar e gerenciar um fluxo de trabalho no citsmart.
 
-# Introdução ao Fluxo de Trabalho do CITSmart
+# Introdução ao Workflow do CITSmart
 
 Fluxos são representações visuais de algo que se move continuamente. Assim, fluxos podem ser usados para representar graficamente um processo ou qualquer ação. Eles podem ser materializados em um papel (documento físico) ou em uma ferramenta eletrônica. No CITSmart, a funcionalidade de Workflow tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
 
