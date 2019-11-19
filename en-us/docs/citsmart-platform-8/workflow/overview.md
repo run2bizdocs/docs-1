@@ -112,6 +112,6 @@ Now you can create a workflow, think about a business need and the actors involv
 [1]:images/workflow-menu-citsmart.png
 [2]:images/workflow-management-citsmart.png
 [3]:images/fist-button-citsmart.jpg
-[4]:images/second-button-citsmart.png
+[4]:images/second-button-citsmart.jpg
 [5]:images/flow-data-citsmart.png
 [6]:images/diagram-citsmart.png
