@@ -5,7 +5,9 @@ Title: Realizando o deploy do CITSmart
 Faça o download do pacote WAR do CITSmart e do Neuro no portal do parceiro. Envie para o servidor utilizando scp para pasta /tmp. A instalação do CITSmart consiste nos seguintes passsos:
 
 - 1. Fazer o deploy do pacote CITSmart Workflow
+
 - 2. Fazer o deploy do pacote Neuro
+
 - 3. Realizar a configuração inicial do CITSmart Workflow
 
 Descomprima o pacote do CITSmart Workflow caso esrteja no formato .zip:
