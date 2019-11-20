@@ -34,9 +34,10 @@ Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à 
 6: Processo de Negócio;
 
 !!! note "NOTAS"
-   Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
 
-Caso já tenha esse acesso, basta clicar e seleciona a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
+    Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
+
+Caso já tenha esse acesso, basta clicar e selecionar a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
 
 ## Tela de Gerenciamento de Fluxo
 
@@ -56,7 +57,7 @@ Na tela de gerenciamento de fluxo você poderá: Criar um novo Fluxo, Editar, ex
 
 ## Criar e Editar um Fluxo
 
-Ao clicar no botão **”Novo”** ou **“Editar”** você é direcionado para a interface de criação/edição do Fluxo de trabalho que é composta por duas abas, a aba de **Dados de Fluxo** onde informará dados da identificação e a aba **Diagrama** onde é possível desenhar o fluxo.
+Ao clicar no botão **"Novo”** ou **“Editar”** você é direcionado para a interface de criação/edição do Fluxo de trabalho que é composta por duas abas, a aba de **Dados de Fluxo** onde informará dados da identificação e a aba **Diagrama** onde é possível desenhar o fluxo.
 
 Em um novo fluxo você encontra quatro botões com funções de **importar**, **gravar**, **limpar** e **voltar**, você poderá importar um fluxo (exportando anteriormente no formato JSON).
 
@@ -84,7 +85,7 @@ Dados do Fluxo é uma aba para identificação do fluxo, onde é possível estru
 
 6: **Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Neuro no momento de criação de um ticket;
 
-7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuári
+7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuários
 
 ### Aba Diagrama  
 

@@ -88,7 +88,6 @@ Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
   * **Estado** – é uma expressão que gera um status para a atividade;
 
-
 ## E agora, o que devo fazer?
 
 Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway]()
