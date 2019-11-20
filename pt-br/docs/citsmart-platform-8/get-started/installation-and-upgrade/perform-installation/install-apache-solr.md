@@ -2,7 +2,7 @@ Title: Instalando o Apache SOLR
 
 # Instalando o Apache SOLR
 
-A versão homologada do Apache Solr para o CITSmart é a 6.4.2. O download do pacote pode ser feito através do próprio site no URL https://archive.apache.org/dist/lucene/solr/. No caso específico para o CITSamrt também será necessário fazer o download dos arquivos de configuração (Knowledge Base Confs) que podem ser baixados na área de relacionamento com o parceiro, no item Installation Components.
+A versão homologada do Apache Solr para o CITSmart é a 6.4.2. O download do pacote pode ser feito através do próprio site no URL https://archive.apache.org/dist/lucene/solr/. No caso específico para o CITSmart também será necessário fazer o download dos arquivos de configuração (Knowledge Base Confs) que podem ser baixados na área de relacionamento com o parceiro, no item Installation Components.
 
 ## Instalando o SOLR
 
