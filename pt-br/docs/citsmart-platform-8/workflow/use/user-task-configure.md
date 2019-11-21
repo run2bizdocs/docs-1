@@ -90,4 +90,4 @@ Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
 ## E agora, o que devo fazer?
 
-Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway]()
+Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/control-with-gateway.html)
