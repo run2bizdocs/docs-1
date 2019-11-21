@@ -16,9 +16,9 @@ Eventos são componentes utilizados para representar acontecimentos em um fluxo,
 |Icone|Descrição|
 |------|-----|
 |![ Start event CITSmart][1]|•	**Evento de Início** – elemento que dá início ao fluxo;|
-|![ send event CITSmart][2]|•	**Evento Intermediário de Envio** – permite enviar o controle de uma atividade do usuário para outra atividade;|
-|![ catch event CITSmart][3]|•	**Evento Intermediário de Captura** – permite receber o controle que foi enviado;|
-|![ time event CITSmart][4]|•	**Evento Intermediário do Temporizador** - são eventos acionados por tempo definido e relacionados a uma Expressão Cron, pode ser utilizado como evento inicial ou intermediário. Um uso frequente para este evento está nos serviços Batch;|
+|![ send event CITSmart][2]|•	**Evento Intermediário de Envio** – permite enviar o controle de uma atividade do usuário para outra atividade.|
+|![ catch event CITSmart][3]|•	**Evento Intermediário de Captura** – permite receber o controle que foi enviado.|
+|![ time event CITSmart][4]|•	**Evento Intermediário do Temporizador** - são eventos acionados por tempo definido e relacionados a uma Expressão Cron, pode ser utilizado como evento inicial ou intermediário. Um uso frequente para este evento está nos serviços Batch.|
 |![ end event CITSmart][5]|•	**Evento de Fim** – elemento que identifica o fim do fluxo.|
 
 ### Atividades
@@ -27,9 +27,9 @@ Os componentes de atividades são representação do que será feito no fluxo.
 
 |Icone|Descrição|
 |------|-----|
-|![ user task CITSmart][6]|•	**UTarefa de Usuário** - é usada para modelar o trabalho que precisa ser feito por uma ação humana;
+|![ user task CITSmart][6]|•  **Tarefa de Usuário** - é usada para modelar o trabalho que precisa ser feito por uma ação humana.|
 |![ mensage CITSmart][7]|•	**Envio de Mensagem** – E-mail - é usada para "enviar" e-mails automaticamente para um ou mais usuários ou grupo (s) atribuídos a esta tarefa.|
-|![ service task CITSmart][8]|•	**Tarefa de Serviço** – ESI - é uma solução "Bus Service" que permite criar fluxos de integração e interfaces entre soluções, bancos de dados, arquivos e / ou serviços existentes em um ambiente de computação|
+|![ service task CITSmart][8]|•	**Tarefa de Serviço** – ESI - é uma solução "Bus Service" que permite criar fluxos de integração e interfaces entre soluções, bancos de dados, arquivos e / ou serviços existentes em um ambiente de computação.|
 |![ subprocess CITSmart][9]|•	**Subprocessos** - Permite a criação de solicitações ou incidentes ITSM, relacionados ou não à solicitação do workflow que está sendo executado.|
 
 ### Extensões
@@ -48,7 +48,7 @@ São representados visualmente por um losango. O símbolo interno do losango ide
 
 |Icone|Descrição|
 |------|-----|
-|![ Inclusivo CITSmart][12]|•	**Gateway Inclusivo** - divide o fluxo do processo em um ou mais fluxos. Ao dividir, um ou mais ramos são ativados. Todas as ramificações de entrada ativas devem ser concluídas antes da mesclagem|
+|![ Inclusivo CITSmart][12]|•	**Gateway Inclusivo** - divide o fluxo do processo em um ou mais fluxos. Ao dividir, um ou mais ramos são ativados. Todas as ramificações de entrada ativas devem ser concluídas antes da mesclagem.|
 |![ paralelo CITSmart][13]|•	**Gateway Paralelo** - Símbolo paralelo - Difere de outros gateways porque não depende de condições ou eventos. Em vez disso, os gateways paralelos são usados para representar duas tarefas simultâneas em um fluxo de negócios.|
 |![ exclusivos CITSmart][14]|•	**Gateway Exclusivo** - baseado na condição, divide o fluxo em um ou mais caminhos mutuamente exclusivos. Ao dividir, ele roteia o fluxo de sequência para exatamente um dos ramos de saída. Ao mesclar, ele aguarda que uma ramificação de entrada seja concluída antes de acionar o fluxo de saída.|
 
@@ -69,13 +69,13 @@ São representados visualmente por um losango. O símbolo interno do losango ide
 
 Componentes Dinâmicos são elementos criados pelo usuário que permite realizar uma atividade diferente das padrões do sistema.
 
-Para utiliza-lo é preciso criar um **Componente Dinâmico** e configura-lo para ser utilizado da maneira desejada, para isso acesse nossa documentação – [Componentes Dinâmicos]()
+Para utiliza-lo é preciso criar um **Componente Dinâmico** e configura-lo para ser utilizado da maneira desejada, para isso acesse nossa documentação.
 
 ### Fluxo de integração
 
 O fluxo de integração é um fluxo paralelo ao fluxo de trabalho padrão do sistema que utiliza elementos diferentes como criar uma conexão com banco de dados e funcionalidades diretamente programadas dentro fluxo, entre outros elementos diferentes dos que foram mencionadas a cima.
 
-A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalidade apenas criar um vinculo de um fluxo para o outro, para saber mais a respeito do fluxo de integração acesse nossa documentação – [Fluxo de Integração]()
+A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalidade apenas criar um vinculo de um fluxo para o outro, para saber mais a respeito do fluxo de integração acesse nossa documentação.
 
 ## E agora, o que devo fazer?
 
