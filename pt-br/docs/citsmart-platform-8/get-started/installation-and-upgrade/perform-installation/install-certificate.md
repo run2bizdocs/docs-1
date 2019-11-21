@@ -199,3 +199,9 @@ Dê um reload, e saia do CLI:
 [standalone@localhost:9990 /]: reload
 [standalone@localhost:9990 /]: quit
 ```
+
+## Próximo passo
+
+[Instalando o Apache SOLR][1]
+
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-apache-solr.html

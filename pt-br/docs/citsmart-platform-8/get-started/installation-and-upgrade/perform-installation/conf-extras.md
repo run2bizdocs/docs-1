@@ -154,3 +154,9 @@ Crie todos os diretórios abaixo necessários para funcionamento da solução. L
 [root@server /tmp]# chown -R wildfly.wildfly /opt/citsmart/
 
 ```
+
+## Próximo passo
+
+[Instalando certificado SSL][1]
+
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html

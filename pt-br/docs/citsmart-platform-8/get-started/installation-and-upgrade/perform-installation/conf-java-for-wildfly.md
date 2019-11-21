@@ -61,3 +61,9 @@ E configure da forma correta:
 ``` shell
 #JAVA_HOME="/opt/jdk"
 ```
+
+## Próximo passo
+
+[Incluindo o WildFly no systemd][1]
+
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html

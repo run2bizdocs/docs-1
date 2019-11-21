@@ -27,4 +27,4 @@ Caso seu fluxo esteja sendo feito siga os passos, mas se estiver precisando edit
 Para ter um contato maior com o usuário que abriu o chamado ou até mesmo manter informado outros grupos ou usuário, utilize notificações (e-mail) para intensificar essa interação do fluxo com o usuário.
 
 ## Relacionado
-[Adicionar Notificação](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/control-with-gateway.html)
+[Adicionar Notificação](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/add-notification.html)

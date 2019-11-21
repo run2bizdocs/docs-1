@@ -14,18 +14,18 @@ Faça o download do jdk para máquina local e envie para o servidor via scp. Par
 
 Supondo que o arquivo esteja no `/tmp` execute os comandos abaixo para descompactação:
 
-``` bash
+``` shell
 [root@server /tmp]# tar -xvzf jdk-8u231-linux-x64.tar.gz -C /opt/
 ```
 Crie um link simbólico para pasta do jdk na respectiva versão que foi feito o download. Isso facilita futuras atualizações e testes com outras versões.
 
-``` bash
+``` shell
 [root@server /tmp]# ln -s /opt/jdk1.8.0_231 /opt/jdk
 ```
 
 Crie o arquivo de configuração do java em /etc/profile.d/ chamado java.sh. Embora o servidor web tenha suas próprias configurações de java, esta etapa previne que outras aplicações que funcionem com java dê algum tipo de problema.
 
-``` bash
+``` shell
 [root@server /tmp]# vi /etc/profile.d/java.sh
 ```
 
@@ -40,9 +40,15 @@ Carregue as configurações com comando abaixo e teste:
 
 ``` shell
 [root@server /tmp]# source /etc/profile.d/java.sh
-[root@ip-172-16-12-182 opt]# java -version
+[root@server /tmp]# java -version
 java version "1.8.0_231"
 Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
-[root@ip-172-16-12-182 opt]#
+[root@server /tmp]#
 ```
+
+## Próximo passo
+
+[Instalação do Wildfly][1]
+
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-wildfly.html

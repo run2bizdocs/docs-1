@@ -94,3 +94,9 @@ Para verificar se o serviço está rodando, execute o comando abaixo:
            ├─18519 /bin/sh /opt/wildfly/bin/standalone.sh -c standalone.xml -b 0.0.0.0
            └─18629 /opt/jdk/bin/java -D[Standalone] -server -Xms12g -Xmx12g -XX:MinHeapFreeRatio=40 -XX:MaxHeapFreeR...
 ```
+
+## Próximo passo
+
+[Configurando o servidor de aplicação][1]
+
+[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-server.html
