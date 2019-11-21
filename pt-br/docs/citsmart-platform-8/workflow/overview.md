@@ -1,7 +1,9 @@
-Title: Introdução ao fluxo de trabalho do CITSmart
+Title: Introdução ao Workflow do CITSmart
 Description: Visão geral de como criar e gerenciar um fluxo de trabalho no citsmart.
 
-# Introdução ao Fluxo de Trabalho do CITSmart
+# Introdução ao Workflow do CITSmart
+
+Fluxos são representações visuais de algo que se move continuamente. Assim, fluxos podem ser usados para representar graficamente um processo ou qualquer ação. Eles podem ser materializados em um papel (documento físico) ou em uma ferramenta eletrônica. No CITSmart, a funcionalidade de Workflow tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do CITSmart.
 
 Os fluxos de trabalho automatizados dão vida às atividades do sistema, proporcionando que as atividades da sua organização sejam digitalizadas e automatizadas. Assim, você pode criar fluxos com controle de tarefas, adicionar notificações, subprocessos e estabelecer comunicação direta com outras aplicações, como é o caso do Neuro – que é um framework para a geração de aplicações.
 
@@ -34,10 +36,9 @@ Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à 
 6: Processo de Negócio;
 
 !!! note "NOTAS"
+   Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
 
-    Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
-
-Caso já tenha esse acesso, basta clicar e selecionar a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
+Caso já tenha esse acesso, basta clicar e seleciona a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
 
 ## Tela de Gerenciamento de Fluxo
 
@@ -57,7 +58,7 @@ Na tela de gerenciamento de fluxo você poderá: Criar um novo Fluxo, Editar, ex
 
 ## Criar e Editar um Fluxo
 
-Ao clicar no botão **"Novo”** ou **“Editar”** você é direcionado para a interface de criação/edição do Fluxo de trabalho que é composta por duas abas, a aba de **Dados de Fluxo** onde informará dados da identificação e a aba **Diagrama** onde é possível desenhar o fluxo.
+Ao clicar no botão **”Novo”** ou **“Editar”** você é direcionado para a interface de criação/edição do Fluxo de trabalho que é composta por duas abas, a aba de **Dados de Fluxo** onde informará dados da identificação e a aba **Diagrama** onde é possível desenhar o fluxo.
 
 Em um novo fluxo você encontra quatro botões com funções de **importar**, **gravar**, **limpar** e **voltar**, você poderá importar um fluxo (exportando anteriormente no formato JSON).
 
@@ -85,7 +86,7 @@ Dados do Fluxo é uma aba para identificação do fluxo, onde é possível estru
 
 6: **Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Neuro no momento de criação de um ticket;
 
-7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuários
+7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuário.
 
 ### Aba Diagrama  
 
