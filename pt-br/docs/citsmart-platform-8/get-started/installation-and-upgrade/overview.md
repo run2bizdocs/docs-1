@@ -19,19 +19,6 @@ Antes de iniciar a instalação é necessário compreender todos os softwares ne
 
 - **Banco de dados relacional**: A solução trabalha com os bancos relacionais PostgreSQL, MSSQL Server e Oracle. Se você tiver a opção de escolher por qualquer um deles, sugerimos que dê preferência ao PostgreSQL, uma vez que é o mais utilizado na maioria das instalações. Os bancos MSSQL Server e Oracle são suportados com alguns ajustes. Consulte nosso suporte técnico para detalhes de versão suportada por estes dois últimos bancos.
 
-## Etapas de instalação
-
-Em resumo, as etapas de instalação em ambientes locais consistem em no download e instalação dos seguintes componentes:
-
-1.	Java JDK;
-2.	Wildfly;
-3.	Driver JDBC do banco de dados;
-4.	Banco de dados relacional (utilizaremos o PostgreSQL como padrão);
-5.	Banco de dados não-relacional Mongo;
-6.	Apache SOLR;
-7.	Instalação do pacote do CITSmart Workflow.
-
-
 Na próxima etapa, daremos início a instalação de todos os pacotes.
 
 !!! Warning "ATENÇÃO"
