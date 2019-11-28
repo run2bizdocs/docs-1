@@ -59,7 +59,7 @@ E por fim, descomente a linha abaixo:
 E configure da forma correta:
 
 ``` shell
-#JAVA_HOME="/opt/jdk"
+JAVA_HOME="/opt/jdk"
 ```
 
 ## Próximo passo
