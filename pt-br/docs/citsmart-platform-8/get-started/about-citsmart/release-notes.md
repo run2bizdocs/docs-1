@@ -13,7 +13,6 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 |--------|---------|---------|
 |5959  | Anuva | Implementado funcionalidade de mandar mensagem para o Anuva |
 |3902  | Instalação do CitSmart |	Realizado corretiva na internacionalização das cargas em uma base zerada, as cargas iniciais da tela 'Causa' e 'Solução' deverá subir com o idioma selecionado na instalação. |
-|
 
 - **Correção**
 
