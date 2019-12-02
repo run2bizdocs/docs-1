@@ -30,7 +30,7 @@ Welcome to Citsmart Version 8.0.4.0. This release has the following fixes and im
 !!! info "NOTE"
     OBS: 5947 Initially only for Postgres bank.
 
-!!! bug "KNOWN ERRORSa"
+!!! bug "KNOWN ERRORS"
     6272 - Failure when attempting to execute a ticket with canceled status.
     6273 - Search field of the Change screen incorrectly displays the name of the responsible for current task.
     6274 - Tickets with a status of "Canceled" in the floating menu show incorrect actions by the status of the ticket.
