@@ -3,6 +3,39 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.4.0 (2019/11/30)
+
+Welcome to Citsmart Version 8.0.4.0. This release has the following fixes and improvements:
+
+|Improvement	| Functionality	| Description |
+|--------|---------|---------|
+|5959  | Anuva | Implemented message sending functionality to Anuva |
+|3902  | CITSmart Installation |	Fix in the internationalization of loads on a zero basis, the initial loads of the screen 'Cause' and 'Solution' should be with the language selected in the installation. |
+
+|Fix	| Functionality	| Description |
+|--------|---------|---------|
+| 6241 | SmartChat	| It was made corrections when trying to open a ticket via chat. | 
+| 6258 | SmartChat | Performed corrective as it was not displaying the attendant name in the conversation window even when the attendant captured the ticket |
+| 6213 | Portfolio and Catalog Management | Fixed loading support service on service map | 
+| 5947 | Email Template | Adjusting in the languages of the email templates, the initial screen loads should appear with the language selected at installation. If it is in English, then no matter which language is selected in the application the screen data will be in English | 
+| 5970 | Neuro | Fixed in Neuro form session on ticket screen. | 
+| 6069 | Neuro/Flow | Fixed the function Edit field in a Flow and Neuro | 
+| 5939| Notifications | Fixed the number of Notifications seen | 
+| 6261 | Approval Service via Token | Fixed bugs in the Approval via Token | 
+| 6141 | SLA | Made adjustments to the Time of attendance of SLA of services | 
+| 5969 | Ticket | Adjusted Ticket Search with values in single quotes | 
+| 6262 | Ticket | Fixed Bugs in Sub-Ticket Creation | 
+| 6068 | Web Service Operation	 | Fixed Web Service updateStatus to call the finish method () when the status is CLOSED. | 
+
+!!! info "NOTE"
+    OBS: 5947 Initially only for Postgres bank.
+
+!!! bug "KNOWN ERRORS"
+    6272 - Failure when attempting to execute a ticket with canceled status.
+    6273 - Search field of the Change screen incorrectly displays the name of the responsible for current task.
+    6274 - Tickets with a status of "Canceled" in the floating menu show incorrect actions by the status of the ticket.
+    6275 - #5544 - Facebook-Messenger error when closing or canceling a ticket created via Facebook Messenger. It still shows the chat icon in the list of "Tickets in progress" and does not open another ticket for this same Messenger requester.
+
 ## Version 8.0.3.0 (2019/11/01)
 
 Welcome to CITSmart Version 8.0.3.0. This release has the following fixes and improvements:

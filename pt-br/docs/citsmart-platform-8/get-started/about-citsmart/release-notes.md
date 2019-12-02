@@ -3,6 +3,62 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.4.0 (2019/11/30)
+
+Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes correções e melhorias:
+
+- **Melhoria**
+
+|Melhoria	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+|5959  | Anuva | Implementado funcionalidade de mandar mensagem para o Anuva |
+|3902  | Instalação do CitSmart |	Realizado corretiva na internacionalização das cargas em uma base zerada, as cargas iniciais da tela 'Causa' e 'Solução' deverá subir com o idioma selecionado na instalação. |
+
+- **Correção**
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+| 6241 | SmartChat	| Feito correções ao tentar abrir um ticket via chat. | 
+| 6258 | SmartChat | Realizado corretiva pois não estava exibindo o nome do atendente na janela de conversa mesmo o atendente capturando o ticket |
+| 6213 | Gerência de Portifólio e Catálogo | Feito correção para carregamento do serviço de apoio no mapa de serviço | 
+| 5947 | Modelo de E-mail | Ajuste nos idiomas dos templates de e-mail, as cargas iniciais da tela deverão subir com o idioma selecionado na instalação. Caso for com o idioma em inglês então independentemente do idioma que for selecionada na aplicação os dados da tela ficarão em inglês | 
+| 5970 | Neuro | Corrigido na sessão de formulário Neuro na tela de ticket. | 
+| 6069 | Neuro/Fluxo | Corrigido a função de Edição de campos em um Fluxo e no Neuro | 
+| 5939| Notificações | Corrigido o número de Notificações Vistas | 
+| 6261 | Serviço de Aprovação via Token | Corrigido bugs na Aprovação via Token | 
+| 6141 | SLA | Feito ajustes no Tempo de atendimento dos  SLAs de serviços | 
+| 5969 | Ticket | Ajustado Pesquisa de Ticket com valores em aspas simples | 
+| 6262 | Ticket | Ajustado Bugs na Criação de Sub-Tikets | 
+| 6068 | Operação Web Serviçe	 | Foi corrigido o Web Service updateStatus para chamar o método encerra () quando o status for CLOSED. |
+
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+| 2512 |Inventory|Recolocar as opções de link no IP e 'Inventáriar Agora' - Correção de código bloqueante no inventory. Este código estava fazendo com que a requisição rest do Citsmart gerasse, em algumas situações, timeout.|
+
+!!! info "NOTA"
+    OBS: 5947 Inicialmente apenas para banco Postgres.
+
+!!! bug "ERROS CONHECIDOS"
+    Lista de erros conhecidos:
+
+    1. 6272 - Falha ao tentar executar um ticket com status cancelado.
+
+    2. 6273 - Campo de pesquisa da tela de Mudança apresenta nome de forma incorreta do responsável da tarefa atual
+
+    3. 6274 - Tickets com status igual a "Cancelado" no menu flutuante apresenta ações incorretas pelo status em que se encontra o ticket.
+
+    4. 6275 - (5544) Erro Facebook-Messenger ao fechar ou cancelar um ticket criado por meio do Facebook-Messenger o mesmo continua apresentando no ícone do chat na lista dos "Atendimentos em andamento" e não abre outro ticket para este mesmo solicitante do Messenger.
+
+**Pacote(s) liberado(s) nesta versão:**
+
+* [x] CITSmart Enterprise 8.0.4.0
+* [x] CITSmart Neuro 1.3.3.0
+* [x] CITSmart Inventory 2.0.0.4
+
+!!! success "DOWNLOAD"
+    Os pacotes podem ser baixados no portal do parceiro (my.citsmart), acessando o menu "Downloads".
+
 ## Versão 8.0.3.0 (2019/11/01)
 
 Bem-vindos ao CITSmart Versão 8.0.3.0. Esta versão apresenta as seguintes correções e melhorias:

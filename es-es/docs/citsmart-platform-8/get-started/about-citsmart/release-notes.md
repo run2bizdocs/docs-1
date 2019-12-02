@@ -3,6 +3,40 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.4.0 (2019/11/30)
+
+Bienvenido a Citsmart Versión 8.0.4.0. Esta versión tiene las siguientes correcciones y mejoras:
+
+|Mejora	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+|5959  | Anuva | Se implementó la funcionalidad de envío de mensajes a Anuva |
+|3902  | Instalación de CITSmart |	Se realizó la corrección en la internacionalización de las cargas sobre una base cero, las cargas iniciales de la pantalla 'Causa' y 'Solución' deben aparecer con el idioma seleccionado en la instalación. |
+
+|Corrección	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+| 6241 | SmartChat	| Se hicieron correcciones al intentar abrir un ticket por chat. | 
+| 6258 | SmartChat | Se realizó la corrección ya que no mostraba el nombre del asistente en la ventana de conversación, incluso el asistente que capturaba el ticket |
+| 6213 | Gestión de Portafolio y Catálogo | Se arregló la carga del servicio de soporte en el mapa de servicio | 
+| 5947 | Plantilla de Correo Electrónico | Ajuste en los idiomas de las plantillas de correo electrónico, las cargas iniciales de la pantalla deberan aparecer con el idioma seleccionado en la instalación. Si está en inglés, no importa qué idioma se seleccione en la aplicación, los datos de la pantalla estarán en inglés. | 
+| 5970 | Neuro | Se corrigió la sesión de formulario Neuro en la pantalla del ticket. | 
+| 6069 | Neuro/Flujo | Se corrigió la función de Edición de campo en un Flujo y Neuro | 
+| 5939| Notificaciones | Se corrigió el número de Notificaciones Vistas | 
+| 6261 | Servicio de Aprobación vía Token | Se corrigieron errores en la Aprobación vía Token | 
+| 6141 | SLA | Hecho ajustes en el Tiempo de atención del SLA de servicios | 
+| 5969 | Ticket | Búsqueda de Tickets ajustada con valores entre comillas simples | 
+| 6262 | Ticket | Errores solucionados en la creación de sub-tickets | 
+| 6068 | Operación Web Serviçe	 | Se corrigión el Servicio web UpdateStatus para llamar al método cerrar () cuando el estado está CLOSED. | 
+
+!!! info "NOTA"
+    OBS: 5947 Inicialmente solo para banco Postgres.
+
+!!! bug "ERRORES CONOCIDOS"
+    6272 - Fallo en el intento de ejecutar un ticket con estado cancelado.
+    6273 - El campo de búsqueda de la pantalla de Cambio presenta incorrectamente el nombre del responsable por la tarea actual.
+    6274 - Tickets con un estado de "Cancelado" en el menú desplegable muestran acciones incorrectas por el estado del ticket.
+    6275 - #5544 - Error en el Facebook-Messenger al cerrar o cancelar un ticket creado a través de Facebook Messenger que aún presenta el ícono de chat en la lista de "Ticket en marcha" y no abre otro ticket para este mismo solicitante del Messenger.
+
+
 ## Versión 8.0.3.0 (2019/11/01)
 
 Bienvenido a CITSmart Versión 8.0.3.0. Esta versión tiene las siguientes correcciones y mejoras:
