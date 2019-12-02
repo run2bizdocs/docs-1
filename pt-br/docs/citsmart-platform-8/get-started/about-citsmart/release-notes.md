@@ -42,14 +42,13 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 !!! bug "ERROS CONHECIDOS"
     Lista de erros conhecidos:
 
-    - 6272 - Falha ao tentar executar um ticket com status cancelado.
+    1. 6272 - Falha ao tentar executar um ticket com status cancelado.
 
-    - 6273 - Campo de pesquisa da tela de Mudança apresenta nome de forma incorreta do responsável da tarefa atual
+    2. 6273 - Campo de pesquisa da tela de Mudança apresenta nome de forma incorreta do responsável da tarefa atual
 
-    - 6274 - Tickets com status igual a "Cancelado" no menu flutuante apresenta ações incorretas pelo status em que se encontra o ticket.
+    3. 6274 - Tickets com status igual a "Cancelado" no menu flutuante apresenta ações incorretas pelo status em que se encontra o ticket.
 
-    - 6275 - (5544) Erro Facebook-Messenger ao fechar ou cancelar um ticket criado por meio do Facebook-Messenger o mesmo continua apresentando no ícone do chat na lista dos "Atendimentos em andamento" e não abre outro ticket para este mesmo solicitante do Messenger.
-
+    4. 6275 - (5544) Erro Facebook-Messenger ao fechar ou cancelar um ticket criado por meio do Facebook-Messenger o mesmo continua apresentando no ícone do chat na lista dos "Atendimentos em andamento" e não abre outro ticket para este mesmo solicitante do Messenger.
 
 **Pacote(s) liberado(s) nesta versão:**
 
