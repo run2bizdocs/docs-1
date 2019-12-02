@@ -45,6 +45,14 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
     6274 - Tickets com status igual a "Cancelado" no menu flutuante apresenta ações incorretas pelo status em que se encontra o ticket.
     6275 - #5544 - Erro Facebook-Messenger ao fechar ou cancelar um ticket criado por meio do Facebook-Messenger o mesmo continua apresentando no ícone do chat na lista dos "Atendimentos em andamento" e não abre outro ticket para este mesmo solicitante do Messenger.
 
+**Pacote(s) liberado(s) nesta versão:**
+
+* [x] CITSmart Enterprise 8.0.4.0
+* [x] CITSmart Neuro 1.3.3.0
+* [x] CITSmart Inventory 2.0.0.4
+
+!!! success "DOWNLOAD"
+    Os pacotes podem ser baixados no portal do parceiro (my.citsmart), acessando o menu "Downloads".
 
 ## Versão 8.0.3.0 (2019/11/01)
 
