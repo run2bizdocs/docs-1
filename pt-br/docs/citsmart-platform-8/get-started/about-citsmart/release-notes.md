@@ -7,10 +7,15 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes correções e melhorias:
 
+- **Melhoria**
+
 |Melhoria	| Funcionalidade	| Descrição |
 |--------|---------|---------|
 |5959  | Anuva | Implementado funcionalidade de mandar mensagem para o Anuva |
 |3902  | Instalação do CitSmart |	Realizado corretiva na internacionalização das cargas em uma base zerada, as cargas iniciais da tela 'Causa' e 'Solução' deverá subir com o idioma selecionado na instalação. |
+|
+
+- **Correção**
 
 |Corretiva	| Funcionalidade	| Descrição |
 |--------|---------|---------|
@@ -25,7 +30,12 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 | 6141 | SLA | Feito ajustes no Tempo de atendimento dos  SLAs de serviços | 
 | 5969 | Ticket | Ajustado Pesquisa de Ticket com valores em aspas simples | 
 | 6262 | Ticket | Ajustado Bugs na Criação de Sub-Tikets | 
-| 6068 | Operação Web Serviçe	 | Foi corrigido o Web Service updateStatus para chamar o método encerra () quando o status for CLOSED. | 
+| 6068 | Operação Web Serviçe	 | Foi corrigido o Web Service updateStatus para chamar o método encerra () quando o status for CLOSED. |
+
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+| 2512 |Inventory|Recolocar as opções de link no IP e 'Inventáriar Agora' - Correção de código bloqueante no inventory. Este código estava fazendo com que a requisição rest do Citsmart gerasse, em algumas situações, timeout.|
 
 !!! info "NOTA"
     OBS: 5947 Inicialmente apenas para banco Postgres.
