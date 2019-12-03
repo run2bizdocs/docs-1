@@ -19,10 +19,10 @@ Para usar este recurso em formulários você deve:
 
     |Campo|Descrição|Exemplo|
     |-----|---------|-------|
-    |Nome|Identificador que não permite espaço||
-    |Descriição|Informações do lookup||
-    |Aplicação|Aplicação Neuro|Neuro DB Connection|
-    |Conexão de Banco|Conexão de banco, a mesma do objeto de negócio||
+    |Nome|Identificador que não permite espaço|pais|
+    |Descriição|Informações do lookup|País|
+    |Aplicação|Aplicação Neuro|My App|
+    |Conexão de Banco|Conexão de banco, a mesma do objeto de negócio|Neuro DB Connection|
     |Coluna ou expressão para campo chave|ID para retorno da chave|idpais|
     |Coluna ou expressão para descrição|Retorno do campo descrição|nomepais|
     |FROM e WHERE|Query para FROM e Query|`FROM pais`|
@@ -36,12 +36,11 @@ Para usar este recurso em formulários você deve:
 1. Selecionar um formulário;
 2. Clicar em "Desenho da tela";
 3. Arrastar o elemento "Lookup" para a área de desenho;
-4. Alterar a largura do campo conforme a necessidade, aqui iremos utilizar um exemplo com três campos (País, Estado e Cidade), cada um com largura igual a quatro ("4") colunas;
+4. Alterar a largura do campo conforme a necessidade;
 5. Informar o nome da Label;
-6. No item "Lookup" selecionar o registro relacionado;
-7. Informar a "Model" (nome do campo relacionaod no objeto de negócio);
-8. Caso você queira mostrar dados oriundos de outra tabela, 
-8. Para usar o recurso de master details, ou seja, mostrar dados com base num item selecionado anteriomente, você pode usar a sintax dos sql de objeto de negócio (conforme exemplo abaixo);
+6. No item "Lookup" selecionar o registro desejado;
+7. Informar a "Model" (nome do campo relacionado no objeto de negócio);
+8. No campo "Cláusula WHERE adicional", inserir a sintax SQL do objeto de negócio.
 
 ## Exemplo de utilização
 
@@ -50,11 +49,17 @@ Vamos exemplicar a criação de uma interface master-detail para permite que o u
 - **Lookup 1: País**
 
 Nome: pais
+
 Descrição: País
+
 Aplicação: My App
+
 Conexão de Banco: Neuro DB Connection 
+
 Coluna ou expressão para campo chave: idpais
+
 Coluna ou expressão para descrição: nomepais
+
 FROM e WHERE:
 
 ```java
@@ -64,10 +69,15 @@ FROM pais
 - **Lookup 2: Estado**
 
 Nome: uf
+
 Descrição: UF
+
 Aplicação: My App
+
 Conexão de Banco: Neuro DB Connection 
+
 Coluna ou expressão para campo chave: iduf
+
 Coluna ou expressão para descrição: `nomeuf||'('||siglauf||')'`
 
 ```java
@@ -77,10 +87,15 @@ FROM ufs
 - **Lookup 3: Cidade**
 
 Nome: uf
+
 Descrição: UF
+
 Aplicação: My App
+
 Conexão de Banco: Neuro DB Connection
+
 Coluna ou expressão para campo chave: idcidade
+
 Coluna ou expressão para descrição: nomecidade
 
 ```java
