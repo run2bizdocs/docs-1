@@ -2,7 +2,7 @@ Title: Componente Lookup
 
 # Componente Lookup
 
-O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do iten selecionado, como por exemplo, criar campos para que o usuário selecione um "país", logo após selecione um "estado" do país, e depois uma "cidade" do "estado".
+O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do iten selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
 
 Para usar este recurso em formulários você deve:
 
@@ -10,6 +10,9 @@ Para usar este recurso em formulários você deve:
 
 * [x] Configurar elementos Lookup no formulário
 
+## O que fazer antes
+
+Antes de criar componentes lookup's você deve criar uma aplicação Neuro.
 
 ## Criar componentes Lookup's
 
@@ -62,7 +65,7 @@ Coluna ou expressão para descrição: nomepais
 
 FROM e WHERE:
 
-```java
+```mysql
 FROM pais
 ```
 
@@ -80,7 +83,7 @@ Coluna ou expressão para campo chave: iduf
 
 Coluna ou expressão para descrição: `nomeuf||'('||siglauf||')'`
 
-```java
+``` mysql
 FROM ufs
 ```
 
@@ -98,7 +101,7 @@ Coluna ou expressão para campo chave: idcidade
 
 Coluna ou expressão para descrição: nomecidade
 
-```java
+``` mysql
 FROM cidades
 ```
 
@@ -108,11 +111,14 @@ Para usar o recurso de master details, ou seja, mostrar dados com base num item 
 
 Inserir a sintax SQL no campo "Cláusula WHERE adicional" do elemento Lookup;
 
-`iduf = ${nameModel.iduf:INTEGER}`
+``` mysql
+iduf = ${nameModel.iduf:INTEGER}
+```
 
 
 Ou inserir dentro do próprio componente Lookup (campo FROM e WHERE);
 
-`FROM cidades`
-`WHERE iduf = ${nameModel.iduf:INTEGER}`
-
+``` mysql
+FROM cidades
+WHERE iduf = ${nameModel.iduf:INTEGER}
+```
