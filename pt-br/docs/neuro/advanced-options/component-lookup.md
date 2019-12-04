@@ -1,8 +1,9 @@
 Title: Componente Lookup
+Description: O componente lookup do Neuro permite a criação de interfaces mater-datails em listagens de itens.
 
 # Componente Lookup
 
-O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do iten selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
+O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do item selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
 
 Para usar este recurso em formulários você deve:
 
@@ -12,7 +13,7 @@ Para usar este recurso em formulários você deve:
 
 ## O que fazer antes
 
-Antes de criar componentes lookup's você deve criar uma aplicação Neuro.
+Antes de criar componentes lookup's você deve criar uma aplicação e, opcionalmente, uma conexão de banco de dados Neuro.
 
 ## Criar componentes Lookup's
 
@@ -25,7 +26,7 @@ Antes de criar componentes lookup's você deve criar uma aplicação Neuro.
     |Nome|Identificador que não permite espaço|pais|
     |Descriição|Informações do lookup|País|
     |Aplicação|Aplicação Neuro|My App|
-    |Conexão de Banco|Conexão de banco, a mesma do objeto de negócio|Neuro DB Connection|
+    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio|Neuro DB Connection|
     |Coluna ou expressão para campo chave|ID para retorno da chave|idpais|
     |Coluna ou expressão para descrição|Retorno do campo descrição|nomepais|
     |FROM e WHERE|Query para FROM e Query|`FROM pais`|
@@ -42,12 +43,12 @@ Antes de criar componentes lookup's você deve criar uma aplicação Neuro.
 4. Alterar a largura do campo conforme a necessidade;
 5. Informar o nome da Label;
 6. No item "Lookup" selecionar o registro desejado;
-7. Informar a "Model" (nome do campo relacionado no objeto de negócio);
-8. No campo "Cláusula WHERE adicional", inserir a sintax SQL do objeto de negócio.
+7. Informar a propriedade "Model" (atributo do formulário que vai receber o valor do campo chave do lookup);
+8. No campo "Cláusula WHERE adicional", inserir a sintax SQL quando desejar filtrar o resultado da lista.
 
 ## Exemplo de utilização
 
-Vamos exemplicar a criação de uma interface master-detail para permite que o usuário selecione um país, estado do país e cidade do estado selecionado.
+Vamos exemplificar a criação de uma interface master-detail para permitir que o usuário selecione um país, estado do país e cidade do estado selecionado.
 
 - **Lookup 1: País**
 
@@ -107,7 +108,7 @@ FROM cidades
 
 - **No formulário**
 
-Para usar o recurso de master details, ou seja, mostrar dados com base num item selecionado anteriomente, você pode usar a sintax dos SQL de objeto de negócio (conforme exemplo abaixo);
+Para usar o recurso de master details, ou seja, mostrar dados com base num item selecionado anteriomente, você pode usar a mesma sintax dos SQL de objeto de negócio (conforme exemplo abaixo);
 
 Inserir a sintax SQL no campo "Cláusula WHERE adicional" do elemento Lookup;
 
