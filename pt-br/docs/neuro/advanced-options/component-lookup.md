@@ -26,7 +26,7 @@ Antes de criar componentes lookup's você deve criar uma aplicação e, opcional
     |Nome|Identificador que não permite espaço|pais|
     |Descriição|Informações do lookup|País|
     |Aplicação|Aplicação Neuro|My App|
-    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio|Neuro DB Connection|
+    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio)|Neuro DB Connection|
     |Coluna ou expressão para campo chave|ID para retorno da chave|idpais|
     |Coluna ou expressão para descrição|Retorno do campo descrição|nomepais|
     |FROM e WHERE|Query para FROM e Query|`FROM pais`|
