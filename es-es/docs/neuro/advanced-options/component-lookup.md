@@ -1,70 +1,70 @@
 Title: Componente Lookup
-Description: O componente lookup do Neuro permite a criação de interfaces mater-datails em listagens de itens.
+Description: El componente lookup de Neuro permite la creación de interfaces master-datails en las listas de elementos.
 
 # Componente Lookup
 
-O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do item selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
+El componente lookup es un recurso de Neuro que le permite crear listas rápidas de opciones y puede tener una interfaz de master-details, es decir, mostrar una lista maestra y los detalles del elemento seleccionado, como crear campos para que el usuario seleccione un país, luego seleccione un estado del país y luego una ciudad del estado.
 
-Para usar este recurso em formulários você deve:
+Para usar este recurso en formularios, se debe:
 
-* [x] Criar os Lookup's
+* [x] Crear los Lookup
 
-* [x] Configurar elementos Lookup no formulário
+* [x] Configurar elementos Lookup en el formulario
 
-## O que fazer antes
+## Lo qué hacer antes
 
-Antes de criar componentes lookup's você deve criar uma aplicação e, opcionalmente, uma conexão de banco de dados Neuro.
+Antes de poder crear los componentes lookup, se debe crear una aplicación y, opcionalmente, una conexión de base de datos Neuro.
 
-## Criar componentes Lookup's
+## Crear componentes Lookup
 
-1. Acessar a funcionalidade pelo menu Neuro > Gerenciamento > Componente Lookup;
-2. Casdastrar o(s) componente(s) lookup;
-3. Inserir as informações:
+1. Acceder a la funcionalidad por el menú Neuro > Gestión > Componente Lookup;
+2. Registrar el(los) componente(s) lookup;
+3. Ingresar las informaciones:
 
-    |Campo|Descrição|Exemplo|
+    |Campo|Descripción|Ejemplo|
     |-----|---------|-------|
-    |Nome|Identificador que não permite espaço|pais|
-    |Descriição|Informações do lookup|País|
-    |Aplicação|Aplicação Neuro|My App|
-    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio|Neuro DB Connection|
-    |Coluna ou expressão para campo chave|ID para retorno da chave|idpais|
-    |Coluna ou expressão para descrição|Retorno do campo descrição|nomepais|
-    |FROM e WHERE|Query para FROM e Query|`FROM pais`|
+    |Nombre|Identificador que no deja espacio|pais|
+    |Descripción|Informaciones de lookup|País|
+    |Aplicación|Aplicación Neuro|My App|
+    |Conexión de Base|Conexión de base de datos (igual que la utilizada en los objetos de negocio)|Neuro DB Connection|
+    |Columna o expresión para campo clave|ID para retorno de la clave|idpais|
+    |Columna u expresión para descripción|Retorno del campo descripción|nombrepais|
+    |FROM y WHERE|Query para FROM y Query|`FROM pais`|
 
-4. Clicar em "Testar o componente", para ver o resultado;
-5. Clicar em "Salvar" para registrar os dados.
+4. Hacer clic en "Testar componente", para ver el resultado;
+5. Hacer clic en "Guardar" para registrar los datos.
 
 
-## Desenho da tela (Formulário)
+## Diseño de la pantalla (Formulario)
 
-1. Selecionar um formulário;
-2. Clicar em "Desenho da tela";
-3. Arrastar o elemento "Lookup" para a área de desenho;
-4. Alterar a largura do campo conforme a necessidade;
-5. Informar o nome da Label;
-6. No item "Lookup" selecionar o registro desejado;
-7. Informar a propriedade "Model" (atributo do formulário que vai receber o valor do campo chave do lookup);
-8. No campo "Cláusula WHERE adicional", inserir a sintax SQL quando desejar filtrar o resultado da lista.
+1. Seleccionar un formulario;
+2. Hacer clic en "Diseño de la pantalla";
+3. Arrastre el elemento "Lookup" al area de diseño;
+4. Cambiar el ancho del campo según la necesidad;
+5. Informar el nombre de la Label;
+6. En el elemento "Lookup", seleccionar el registro deseado;
+7. Informar la propiedad "Modelo" (atributo de formulario que recibirá el valor del campo clave del lookup);
+8. En el campo "Cláusula WHERE adicional", ingrese la sintaxis SQL cuando desee filtrar el resultado de la lista.
 
-## Exemplo de utilização
+## Ejemplo de uso
 
-Vamos exemplificar a criação de uma interface master-detail para permitir que o usuário selecione um país, estado do país e cidade do estado selecionado.
+Vamos a ilustrar la creación de una interfaz de master-detail para permitir al usuario seleccionar un país, un estado del país y una ciudad del estado seleccionado.
 
 - **Lookup 1: País**
 
-Nome: pais
+Nombre: pais
 
-Descrição: País
+Descripción: País
 
-Aplicação: My App
+Aplicación: My App
 
-Conexão de Banco: Neuro DB Connection 
+Conexión de Base: Neuro DB Connection 
 
-Coluna ou expressão para campo chave: idpais
+Columna o expresión para campo clave: idpais
 
-Coluna ou expressão para descrição: nomepais
+Columna o expresión para descripción: nombrepais
 
-FROM e WHERE:
+FROM y WHERE:
 
 ```mysql
 FROM pais
@@ -72,52 +72,53 @@ FROM pais
 
 - **Lookup 2: Estado**
 
-Nome: uf
+Nombre: Estado
 
-Descrição: UF
+Descripción: Estado
 
-Aplicação: My App
+Aplicación: My App
 
-Conexão de Banco: Neuro DB Connection 
+Conexión de Base: Neuro DB Connection 
 
-Coluna ou expressão para campo chave: iduf
+Columna o expresión para campo clave: idestado
 
-Coluna ou expressão para descrição: `nomeuf||'('||siglauf||')'`
+Columna o expresión para descripción: `nombreestado||'('||siglaestadosigla
+||')'`
 
 ``` mysql
-FROM ufs
+FROM estados
 ```
 
-- **Lookup 3: Cidade**
+- **Lookup 3: Ciudad**
 
-Nome: uf
+Nombre: estado
 
-Descrição: UF
+Descripción: Estado
 
-Aplicação: My App
+Aplicación: My App
 
 Conexão de Banco: Neuro DB Connection
 
-Coluna ou expressão para campo chave: idcidade
+Columna o expresión para campo clave: idciudad
 
-Coluna ou expressão para descrição: nomecidade
+Columna o expresión para descripción: nombreciudad
 
 ``` mysql
-FROM cidades
+FROM ciudades
 ```
 
-- **No formulário**
+- **En el formulario**
 
-Para usar o recurso de master details, ou seja, mostrar dados com base num item selecionado anteriomente, você pode usar a mesma sintax dos SQL de objeto de negócio (conforme exemplo abaixo);
+Para usar la función de master details, es decir, mostrar datos basados en un elemento seleccionado previamente, puede usar la misma sintaxis SQL del objeto de negocio (como en el ejemplo a continuación);
 
-Inserir a sintax SQL no campo "Cláusula WHERE adicional" do elemento Lookup;
+Ingresar la sintaxis SQL en el campo "Cláusula WHERE adicional" del elemento Lookup;
 
 ``` mysql
 iduf = ${nameModel.iduf:INTEGER}
 ```
 
 
-Ou inserir dentro do próprio componente Lookup (campo FROM e WHERE);
+O ingrasar en el componente Lookup en sí (campo FROM y WHERE);
 
 ``` mysql
 FROM cidades
