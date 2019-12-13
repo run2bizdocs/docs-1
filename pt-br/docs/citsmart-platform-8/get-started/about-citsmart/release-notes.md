@@ -9,7 +9,7 @@ Bem-vindos ao Citsmart Versão 8.0.4.2. Esta versão apresenta as seguintes corr
 
 |Corretiva	| Funcionalidade	| Descrição |
 |--------|---------|---------|
-|6058|Gerencia de Ticket|Realizado corretiva na ortografia e troca de nome na pop-up que apresenta a Mensagem de sucesso ao criar um Ticket. Mensagem apresentada "Ticket criada com sucesso!". Corrigir a palavra criada para criado ex.: "Ticket criado com sucesso!". O nome no cabeçalho da pop-up que atualmente está presentando "Solicitação". Trocar este nome para "Ticket".|
+|6058|Gerencia de Ticket|Realizado corretiva na ortografia e troca de nome na pop-up que apresenta a Mensagem de sucesso ao criar um Ticket. Mensagem apresentada "Ticket criada com sucesso!". Corrigir a palavra criada para criado ex.: "Ticket criado com sucesso!". O nome no cabeçalho da pop-up que atualmente está apresentando "Solicitação". Trocar este nome para "Ticket".|
 |6277|Gerencia de Ticket|Realizado corretiva ao enviar um documento de texto em anexo para abertura do chamado via e-mail, o mesmo estava colocando essa descrição do anexo na descrição do ticket.|
 |6334|Gerencia de Ticket|Realizado corretiva na aplicação quando o parâmetro 446 estava habilitado, e ao encerrar o ticket e ele possuísse um anexo, o e-mail de finalização não é enviado com esse anexo.|
 
