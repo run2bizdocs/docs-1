@@ -3,6 +3,16 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.4.2 (2019/12/12)
+
+Welcome to Citsmart Version 8.0.4.2. This release has the following fixes:
+
+|Fix	| Functionality	| Description |
+|--------|---------|---------|
+|6058|Ticket Management|RIt was performed some spelling fixes. The name in the popup header that is currently displaying "Request". Change this name to "Ticket".|
+|6277|Ticket Management|Fix when sending an attached text document to open the ticket via email, it was placing this attachment description in the ticket description.|
+|6334|Ticket Management|Fix in the application when parameter 446 was enabled, and when closing the ticket and it had an attachment, the closure email is not sent with that attachment.|
+
 ## Version 8.0.4.0 (2019/11/30)
 
 Welcome to Citsmart Version 8.0.4.0. This release has the following fixes and improvements:
