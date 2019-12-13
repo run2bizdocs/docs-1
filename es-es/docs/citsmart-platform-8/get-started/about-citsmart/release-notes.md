@@ -3,6 +3,16 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.4.2 (2019/12/12)
+
+Bienvenido a Citsmart Versión 8.0.4.2. Esta versión tiene las siguientes correcciones:
+
+|Corrección	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+|6058|Gestión de Ticket|Correcciones ortográficas. El nombre en el encabezado pop-up que actualmente presenta "Solicitud". Cambie este nombre a "Ticket".|
+|6277|Gestión de Ticket|Corregido al enviar un documento de texto adjunto para abrir el ticket por correo electrónico, estaba colocando esta descripción adjunta en la descripción del ticket.|
+|6334|Gestión de Ticket|Corrección en la aplicación cuando el parámetro 446 estaba habilitado y al cerrar el ticket y tenía un archivo adjunto, el correo electrónico de finalización no se envía con ese archivo adjunto.|
+
 ## Versión 8.0.4.0 (2019/11/30)
 
 Bienvenido a Citsmart Versión 8.0.4.0. Esta versión tiene las siguientes correcciones y mejoras:
