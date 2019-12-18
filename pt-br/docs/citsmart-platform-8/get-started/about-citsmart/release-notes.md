@@ -10,9 +10,9 @@ Bem-vindos ao Citsmart Versão 8.0.4.3. Esta versão apresenta as seguintes corr
 |Corretiva	| Funcionalidade	| Descrição |
 |--------|---------|---------|
 
-|[ITSM 2854] | Cadastro de Questionário | Realizado corretiva no cadastro de questionário, onde o sistema estava criando questionários no momento em que alterasse.|
-|[ITSM-2995] | WEBSERVICES |Realizado corretiva quando ao realizar um encerramento do chamado via webservice, ele estava ficando com o campo Solução/Resposta em branco, e sem responsável.
-|[ITSM-2960] | Gerenciamento de Ticket | Foi realizado corretiva onde ao executar um ticket, não estava sendo apresentado qual o serviço e atividade correspondente a ele. O que estava sendo apresentando era a etapa de seleção do portfólio.|
+| [ITSM 2854] | Cadastro de Questionário | Realizado corretiva no cadastro de questionário, onde o sistema estava criando questionários no momento em que alterasse.|
+| [ITSM-2995] | WEBSERVICES |Realizado corretiva quando ao realizar um encerramento do chamado via webservice, ele estava ficando com o campo Solução/Resposta em branco, e sem responsável.
+| [ITSM-2960] | Gerenciamento de Ticket | Foi realizado corretiva onde ao executar um ticket, não estava sendo apresentado qual o serviço e atividade correspondente a ele. O que estava sendo apresentando era a etapa de seleção do portfólio.|
 
 
 ## Versão 8.0.4.2 (2019/12/12)
