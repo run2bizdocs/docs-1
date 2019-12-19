@@ -3,6 +3,14 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.4.4 (2019/12/19)
+
+Bem-vindos ao Citsmart Versão 8.0.4.4. Esta versão apresenta as seguintes correções:
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+|ITSM 2652 | Relatório de Manutenção de Base de Conhecimento. | Realizado corretiva no relatório de manutenção de base de conhecimento onde as informações estavam duplicadas.|
+
 ## Versão 8.0.4.3 (2019/12/18)
 
 Bem-vindos ao Citsmart Versão 8.0.4.3. Esta versão apresenta as seguintes correções:
