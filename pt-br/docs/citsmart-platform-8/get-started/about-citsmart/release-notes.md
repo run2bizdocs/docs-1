@@ -3,6 +3,25 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.4.4 (2019/12/19)
+
+Bem-vindos ao Citsmart Versão 8.0.4.4. Esta versão apresenta as seguintes correções:
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+|ITSM 2652 | Relatório de Manutenção de Base de Conhecimento. | Realizado corretiva no relatório de manutenção de base de conhecimento onde as informações estavam duplicadas.|
+
+## Versão 8.0.4.3 (2019/12/18)
+
+Bem-vindos ao Citsmart Versão 8.0.4.3. Esta versão apresenta as seguintes correções:
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+| [ITSM 2854] | Cadastro de Questionário | Realizado corretiva no cadastro de questionário, onde o sistema estava criando questionários no momento em que alterasse.|
+| [ITSM-2995] | WEBSERVICES |Realizado corretiva quando ao realizar um encerramento do chamado via webservice, ele estava ficando com o campo Solução/Resposta em branco, e sem responsável.
+| [ITSM-2960] | Gerenciamento de Ticket | Foi realizado corretiva onde ao executar um ticket, não estava sendo apresentado qual o serviço e atividade correspondente a ele. O que estava sendo apresentando era a etapa de seleção do portfólio.|
+
+
 ## Versão 8.0.4.2 (2019/12/12)
 
 Bem-vindos ao Citsmart Versão 8.0.4.2. Esta versão apresenta as seguintes correções:
