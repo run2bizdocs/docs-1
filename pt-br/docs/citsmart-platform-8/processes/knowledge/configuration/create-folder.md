@@ -24,7 +24,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 | Campo | Descrição | Exemplo |
 |-------|-----------|---------|
 | Nome | Informar o nome da pasta | Service Desk |
-| Pasta superior | Se você deseja cria uma pasta filha selecione um pasta pai | Root Folder |
+| Pasta superior | Se você deseja criar uma pasta filha selecione uma pasta pai | Root Folder |
 | Notificar o autor... | Se o autor será notificado em todo o ciclo de vida do documento | Sim/Não |
 | Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador [Leitura/Gravação] |
 | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta | Knowledge Managers |
@@ -32,7 +32,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 4.  Clicar em "Gravar".
 
 !!! info "IMPORTANTE"
-    As configurações para uso de notificações só funcionarão quando você definir as partes interessas em um conhecimento. As configurações das pastas são apenas uma preparação (pre-configuração) para uso nas fases da gestão do conhecimento, ou seja, quando você começar a criar novos conhecimentos ou quando você realizar um ação em conhecimento já existente. De toda forma, é necessário acessar a aba "Partes interessadas" de cada conhecimentos e definir preferências.
+    As configurações para uso de notificações só funcionarão quando você definir as partes interessas em um conhecimento. As configurações das pastas são apenas uma preparação (pre-configuração) para uso nas fases da gestão do conhecimento, ou seja, quando você começar a criar novos conhecimentos ou quando você realizar uma ação em um Conhecimento já existente é que, de fato, você poderá usar as preferências definidas nas pastas ou definindo novas preferências. Estas prefências são definidas na aba "Partes interessadas" de cada conhecimentos.
 
 
 ## Relacionado
@@ -47,7 +47,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 
 [1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
