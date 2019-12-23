@@ -32,7 +32,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 4.  Clicar em "Gravar".
 
 !!! info "IMPORTANTE"
-    As configurações para uso de notificações só funcionarão quando você definir as partes interessas em um conhecimento. As configurações das pastas são apenas uma preparação (pre-configuração) para uso nas fases da gestão do conhecimento, ou seja, quando você começar a criar novos conhecimentos ou quando você realizar uma ação em um Conhecimento já existente é que, de fato, você poderá usar as preferências definidas nas pastas ou definindo novas preferências. Estas prefências são definidas na aba "Partes interessadas" de cada conhecimentos.
+    As configurações para uso de notificações só funcionarão quando você definir as partes interessas em um conhecimento. As configurações das pastas são apenas uma preparação (pre-configuração) para uso nas fases da gestão do conhecimento, ou seja, quando você começar a criar novos conhecimentos ou quando você realizar uma ação em um Conhecimento já existente é que, de fato, você poderá usar as preferências definidas nas pastas ou definindo novas preferências. Estas prefências são definidas na aba "Partes interessadas" de cada conhecimento.
 
 
 ## Relacionado
