@@ -21,13 +21,13 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 
 3.  Preencher os campos disponibilizados;
 
-| Campo | Descrição | Exemplo |
-|-------|-----------|---------|
-| Nome | Informar o nome da pasta | Service Desk |
-| Pasta superior | Se você deseja criar uma pasta filha selecione uma pasta pai | Root Folder |
-| Notificar o autor... | Se o autor será notificado em todo o ciclo de vida do documento | Sim/Não |
-| Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador [Leitura/Gravação] |
-| Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta | Knowledge Managers |
+    | Campo | Descrição | Exemplo |
+    |-------|-----------|---------|
+    | Nome | Informar o nome da pasta | Service Desk |
+    | Pasta superior | Se você deseja criar uma pasta filha selecione uma pasta pai | Root Folder |
+    | Notificar o autor... | Se o autor será notificado em todo o ciclo de vida do documento | Sim/Não |
+    | Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador [Leitura/Gravação] |
+    | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta | Knowledge Managers |
 
 4.  Clicar em "Gravar".
 
