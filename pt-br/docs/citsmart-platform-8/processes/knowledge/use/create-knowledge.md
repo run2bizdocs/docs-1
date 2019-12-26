@@ -3,7 +3,7 @@ Description: É possível criar, editar e pesquisar conhecimentos que vão desde
 
 # Criar conhecimento
 
-Criar um conhecimento é o ato de registrar informações no CITSmart utilizando a funcionalidade Gerência de conhecimento. Neste momento você irá interagir com a interface e suas aplicações. Note que para realizar qualquer ação é necessário possuir permissões adequadas, assim sua visão está limitada ao tipo de perfil criado.
+Criar um conhecimento é o ato de registrar informações no CITSmart utilizando a funcionalidade Gerência de conhecimento. Neste momento você irá interagir com a interface e suas aplicações. Note que para realizar qualquer ação é necessário possuir permissões adequadas, assim, sua visão está limitada ao tipo de perfil criado.
 
 ## Antes de começar
 
@@ -42,7 +42,7 @@ A interface de registro/gestão de base de conhecimento possui as seguintes func
 
 - **Abas ao criar um Conhecimento**
 
-| Ordem (abas) |  Campo | Descrição |
+| Ordem (abas) |  Aba | Descrição |
 |-------|--------|-----------|
 | 1 | Cadastro | Formulário contendo os campos para registro de bases de conhecimento |
 | 2 | Documento relacionado | Permite vincular um conhecimento já existente ao documento que está sendo criado |
@@ -52,16 +52,16 @@ A interface de registro/gestão de base de conhecimento possui as seguintes func
 
 - **Abas ao editar um Conhecimento (somam-se às anteriores)**
 
-| Ordem (abas) |  Campo | Descrição |
+| Ordem (abas) |  Aba | Descrição |
 |-------|--------|-----------|
-| 1 | Cadastro | Descrito anteriormente |
+| 1 | Cadastro | `Descrito anteriormente` |
 | 2 | Comentários | Qualquer informação pertinente ao gerenciamento de um conhecimento (não é visível aos usuários finais) |
 | 3 | Histórico de Alterações | Ciclo de vida de alteração do Conhecimento, contendo detalhes do que foi alterado e quem fez a alteração |
-| 4 | Documento relacionado | Descrito anteriormente |
+| 4 | Documento relacionado | `Descrito anteriormente` |
 | 5 | Item de configuração | Relacionamento do conhecimento com itens de configuração do CMDB (ex.: Manual do usuário, tutoriais etc.) |
-| 6 | Categoria de ocorrência | Descrito anteriormente |
-| 7 | Partes Interessadas | Descrito anteriormente |
-| 8 | Notificações | Descrito anteriormente |
+| 6 | Categoria de ocorrência | `Descrito anteriormente` |
+| 7 | Partes Interessadas | `Descrito anteriormente` |
+| 8 | Notificações | `Descrito anteriormente` |
 | 9 | Versões (apenas com versionamento ativo) | Exibe todas as versões do documento |
 
     
@@ -85,7 +85,7 @@ Na aba "Cadastro" será apresentado um formulário contento os campos para ident
 | Justificativa/Observação | Uma descrição do conhecimento | Manual do usuário para auxiliar na criação de documentações |
 | Autor | Criador do Conhecimento | John Doe |
 | Publicador | Responsável pela publicação do Conhecimento | John Smith |
-| Privacidade | Sensibilidade da informação: Confidencial (apenas o autor do conhecimento e o administrador da pasta terão acesso ao conhecimento), Interno (somente as pessoas que têm permissão na pasta terão acesso ao conhecimento) e Público(interno/externo) (todas as pessoas terão acesso ao conhecimento, mesmo aqueles que não têm permissão na pasta) | Público(interno) |
+| Privacidade | Sensibilidade da informação: **Confidencial** (apenas o autor do conhecimento e o administrador da pasta terão acesso ao conhecimento), **Interno** (somente as pessoas que têm permissão na pasta terão acesso ao conhecimento) e **Público**(interno/externo) (todas as pessoas terão acesso ao conhecimento, mesmo aqueles que não têm permissão na pasta) | Público(interno) |
 | Data de Criação (automático) | Dia em que o Conhecimento foi criado | 02/01/2020 |
 | Data de Publicação (automático) | Dia em que o Conhecimento foi publicado | 02/01/2020 |
 | Tags | Palavras (ou conjunto de palavras) usadas para ajudar o motor de busca | manual-do-usuario |
@@ -98,7 +98,9 @@ Na aba "Cadastro" será apresentado um formulário contento os campos para ident
 
 ### Conteúdo do Conhecimento
 
-Para adicionar um link (hiperlink) ao conteúdo do conhecimento, no intuito de acessar um link externo, selecione uma palavra ou frase e clique no botão “Inserir/Editar link” (desenho de corrente), preencher os campos e clicar em “OK”;
+Você dispõe de um editor [WYSIWYG][1] para trabalhar o conteúdo HTML de seu documento. Nele você poderá inserir e editar o texto, e, também, poderá inserir imagens, vídeos, hiperlinks etc.
+
+- Para adicionar um link (hiperlink) ao conteúdo do conhecimento, no intuito de acessar um link externo, selecione uma palavra ou frase e clique no botão “Inserir/Editar link” (desenho de corrente), preencher os campos e clicar em “OK”;
 
 - Para adicionar uma imagem ao conteúdo do conhecimento, clicar no botão “Imagem” (desenho de paisagem) ou copiar e colar a imagem salva em arquivo no computador;
 
@@ -131,3 +133,4 @@ Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, 
     <b>Product/Version:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/26/2019 – Education Team
     
+[1]:https://en.wikipedia.org/wiki/WYSIWYG
