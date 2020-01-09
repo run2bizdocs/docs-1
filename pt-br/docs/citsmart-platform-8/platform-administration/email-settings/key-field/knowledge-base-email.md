@@ -36,7 +36,7 @@ modelo de e-mail relacionado à base de conhecimento:
 - **Modelo de e-mail para criação/ alteração de base de conhecimento**
 
 ```html
-Senhor(a) ${ DESTINATARIO},
+Senhor(a) ${DESTINATARIO},
 
 Informamos que o conhecimento ${TITULO} foi registrada em ${DATACRIACAO} e se encontra
 
@@ -51,7 +51,7 @@ Atenciosamente,
 - **Modelo de e-mail para Data de Expiração de base de conhecimento**
 
 ```html
-Senhor(a) ${ DESTINATARIO},
+Senhor(a) ${DESTINATARIO},
 
 Informamos que o conhecimento ${TITULO} está próximo à expirar em ${DATAEXPIRACAO} e se encontra
 
