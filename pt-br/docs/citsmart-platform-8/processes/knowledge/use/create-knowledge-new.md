@@ -7,9 +7,9 @@ Criar um conhecimento é o ato de registrar informações no CITSmart utilizando
 
 ## Antes de começar
 
-- [X] Antes de criar um conhecimento é necessário criar pastas e definir as permissões de acesso. Com isso você poderá organizar os conhecimentos e permitir uma fácil localização ao realizar uma busca.
+- [X] Antes de criar um conhecimento é necessário criar pastas e definir as permissões de acesso. Com isso você poderá organizar os conhecimentos e permitir uma fácil localização ao realizar uma busca. (ver [Criar perfil de acesso][2])
 
-- [X] Para utilizar os recursos de notificação é necessário configurar os parâmetros: 82 e 83 (Criação/Alteração de conhecimento), 84 (Exclusão de Conhecimento) e 78 e 456 (Expiração do conhecimento).
+- [X] Para utilizar os recursos de notificação é necessário configurar os parâmetros: 82 e 83 (Criação/Alteração de conhecimento), 84 (Exclusão de Conhecimento) e 78 e 456 (Expiração do conhecimento). (ver [Configurar modelo de e-mail][3], ver [Configurar parametrização - conhecimento][4]).
 
 
 !!! note "NOTA"
@@ -134,3 +134,6 @@ Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, 
     <b>Updated:</b>12/26/2019 – Education Team
     
 [1]:https://en.wikipedia.org/wiki/WYSIWYG
+[2]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
+[3]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[4]:/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
