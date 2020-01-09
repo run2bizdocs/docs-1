@@ -15,7 +15,7 @@ modelo de e-mail relacionado à base de conhecimento:
 |-------------|-----------|
 | ${APROVADOR}	| Aprovador do Conhecimento. Informa o nome do aprovador do conhecimento. |
 | ${AUTOR} | Autor do Conhecimento. Informa o nome do autor do conhecimento. |
-| ${CONTEUDO |}	Conteúdo do Conhecimento. Informa a descrição do conteúdo do conhecimento. |
+| ${CONTEUDO} | Conteúdo do Conhecimento. Informa a descrição do conteúdo do conhecimento. |
 | ${DATAEXPIRACAO} |	Data de Expiração. Informa a data de expiração do conhecimento. |
 | ${DATAINICIO} |	Data de Criação do Conhecimento. Informa a data de criação do conhecimento. |
 | ${DATAPUBLICACAO} |	Data de Publicação. Informa a data de publicação do conhecimento. |
@@ -35,7 +35,7 @@ modelo de e-mail relacionado à base de conhecimento:
 
 - **Modelo de e-mail para criação/ alteração de base de conhecimento**
 
-```html
+```
 Senhor(a) ${DESTINATARIO},
 
 Informamos que o conhecimento ${TITULO} foi registrada em ${DATACRIACAO} e se encontra,
@@ -50,7 +50,7 @@ Atenciosamente,
 
 - **Modelo de e-mail para Data de Expiração de base de conhecimento**
 
-```html
+```
 Senhor(a) ${DESTINATARIO},
 
 Informamos que o conhecimento ${TITULO} está próximo à expirar em ${DATAEXPIRACAO} e se encontra,
@@ -62,8 +62,13 @@ Caminho: ${URL}:
 Atenciosamente,
 ```
 
+## Relacionado
+
+[Configurar modelo de e-mail][1]
 
 !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins
+
+[1]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
