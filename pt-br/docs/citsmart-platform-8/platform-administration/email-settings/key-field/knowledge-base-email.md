@@ -38,7 +38,7 @@ modelo de e-mail relacionado à base de conhecimento:
 ```html
 Senhor(a) ${DESTINATARIO},
 
-Informamos que o conhecimento ${TITULO} foi registrada em ${DATACRIACAO} e se encontra
+Informamos que o conhecimento ${TITULO} foi registrada em ${DATACRIACAO} e se encontra,
 
 Situação: ${SITUACAO}
 Autor: ${AUTOR}
@@ -53,7 +53,7 @@ Atenciosamente,
 ```html
 Senhor(a) ${DESTINATARIO},
 
-Informamos que o conhecimento ${TITULO} está próximo à expirar em ${DATAEXPIRACAO} e se encontra
+Informamos que o conhecimento ${TITULO} está próximo à expirar em ${DATAEXPIRACAO} e se encontra,
 
 Situação: ${SITUACAO}
 Autor: ${AUTOR}
