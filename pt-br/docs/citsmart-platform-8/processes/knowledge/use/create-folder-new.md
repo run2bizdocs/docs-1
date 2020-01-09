@@ -26,8 +26,8 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
     | Nome | Informar o nome da pasta | Service Desk |
     | Pasta superior | Se você deseja criar uma pasta filha selecione uma pasta pai | Root Folder |
     | Notificar o autor... | Se o autor será notificado em todo o ciclo de vida do documento | Sim/Não |
-    | Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador [Leitura/Gravação] |
-    | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta e atribuir preferências de notificação | Knowledge Managers |
+    | Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador (Leitura/Gravação) |
+    | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta e atribuir preferências de notificação | Knowledge Managers (Leitura/Gravação: Publicar, Aprovar e Deletar) |
 
     !!! note "Permissão/Notificação por Grupo"
         **Permissão:**
