@@ -9,9 +9,9 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 
 ## Antes de começar
 
-- [X] Para ter acesso às pastas é necessário utilizar uma forma de permissionamento (perfil ou grupo), assim, antes de qualquer coisa você deve configurar os perfis de acesso ou criar os grupos.
+- [X] Para ter acesso às pastas é necessário utilizar uma forma de permissionamento (perfil ou grupo), assim, antes de qualquer coisa você deve configurar os perfis de acesso ou criar os grupos (ver [Criar perfil de acesso][2], ver [Criar um grupo][3]).
 
-- [X] Além disso, se você pretende criar preferências de notificações será necessário definir o ID de e-mail que será utilizado no envio das mensagens.
+- [X] Além disso, se você pretende criar preferências de notificações será necessário definir o ID de e-mail que será utilizado no envio das mensagens. (ver [Configurar modelo de e-mail][4], ver [Configurar parametrização - conhecimento][5]).
 
 ## Procedimento
 
@@ -27,7 +27,20 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
     | Pasta superior | Se você deseja criar uma pasta filha selecione uma pasta pai | Root Folder |
     | Notificar o autor... | Se o autor será notificado em todo o ciclo de vida do documento | Sim/Não |
     | Perfil de Acesso | Selecionar os perfis que terão acesso de leitura ou leitura e gravação na pasta | Administrador [Leitura/Gravação] |
-    | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta | Knowledge Managers |
+    | Grupo | Selecionar os grupos que terão acesso de leitura ou leitura e gravação na pasta definir as preferências de notificação:  | Knowledge Managers |
+
+    !!! note "Permissão/Notificação por Grupo"
+        **Permissão:**
+        Conforme vimos anteriormene, existem dois tipos de permissionamentos na opção de grupos: leitura ou leitura/gravação. Essas duas permissões são utilizadas para controlar o tipo de ação dentro de uma pasta.
+        
+        - Leitura: É possível visualizar o conhecimento registrado e seu teor.
+        
+        - Leitura/Gravação: Além de conseguir ver o documento e suas informações é possível executar diversas ações para realizar a gestão do conhecimento: Publicar, Aprovar, Revisar, Arquivar/Desarquivar e/ou Deletar.
+        
+        **Notificação:**
+        A opção de notificação possibilita que os integrandes do grupo recebam mensagems de e-mail informando acerca de conhecimentos que tenham a sua situação alterada.
+        `Notificar quando houver mudança de situação do conhecimento`: Em desenho, Em revisão, Revisado, Em avaliação, Avaliado, Em publicação, Publicado e/ou Arquivado.
+
 
 4.  Clicar em "Gravar".
 
@@ -39,12 +52,6 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 
 [Criar conhecimento][1]
 
-[Cadastrar um grupo][2]
-
-[Criar perfil de acesso][3]
-
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
 
 !!! tip "About"
     <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
@@ -53,3 +60,5 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 [1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
 [2]:/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html
 [3]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
+[4]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[5]:/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
