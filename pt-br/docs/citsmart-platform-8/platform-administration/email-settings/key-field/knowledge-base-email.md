@@ -38,7 +38,7 @@ modelo de e-mail relacionado à base de conhecimento:
 ```
 Senhor(a) ${DESTINATARIO},
 
-Informamos que o conhecimento ${TITULO} foi registrada em ${DATACRIACAO} e se encontra,
+Informamos que o conhecimento ${TITULO} foi registrado em ${DATACRIACAO} e se encontra,
 
 Situação: ${SITUACAO}
 Autor: ${AUTOR}
