@@ -39,7 +39,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
         
         **Notificação:**
         A opção de notificação possibilita que os integrandes do grupo recebam mensagems de e-mail informando acerca de conhecimentos que tenham a sua situação alterada.
-        Notificar quando houver mudança de situação do conhecimento: Em desenho, Em revisão, Revisado, Em avaliação, Avaliado, Em publicação, Publicado e/ou Arquivado.
+        `Notificar quando houver mudança de situação do conhecimento`: Em desenho, Em revisão, Revisado, Em avaliação, Avaliado, Em publicação, Publicado e/ou Arquivado.
 
 
 4.  Clicar em "Gravar".
