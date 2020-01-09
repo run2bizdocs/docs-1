@@ -13,7 +13,7 @@ Criar um conhecimento é o ato de registrar informações no CITSmart utilizando
 
 
 !!! note "NOTA"
-    Em versões a partir da 8.0.5.0 os parâmetros 82 e 83 têm a mesma função, assim não é necessário configurar esses dois parâmetros, opte por um deles. Isso ocorre porque agora foi reunido em um template de e-mail chaves que contemplam todas as atividades que vão da criação ao arquivamento de um conhecimento. E o que isso quer dizer? Neste novo cenário você utilizará um template de e-mail que conterá diversas chaves. Esse template já vem disponível em uma instalação limpa, ou caso você já tenha um ambiente e vá atualizá-lo, você pode utilizar as chaves de e-mail em seus modelos já utilizados.
+    Em versões a partir da 8.0.5.0 os parâmetros 82 e 83 têm a mesma função, assim não é necessário configurar esses dois parâmetros, opte por um deles. Isso ocorre porque agora foi reunido em um template de e-mail chaves que contemplam todas as atividades que vão da criação ao arquivamento de um conhecimento. E o que isso quer dizer? Neste novo cenário você utilizará um template de e-mail que conterá diversas chaves. Esse template já vem disponível em uma instalação limpa, ou caso você já tenha um ambiente e vá atualizá-lo, você pode utilizar as chaves de e-mail em seus modelos já utilizados para que eles fiquem no novo padrão (ver [Campos chave dos e-mails de base de conhecimento][5], ver [Exemplos de modelos de e-mail][6]).
 
 ## Gerência de Conhecimento
 
@@ -137,3 +137,5 @@ Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, 
 [2]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
 [3]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
 [4]:/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
+[5]:/pt-br/citsmart-platform-8/platform-administration/email-settings/key-field/knowledge-base-email.html
+[6]:/pt-br/citsmart-platform-8/platform-administration/email-settings/key-field/knowledge-base-email.html#exemplos-de-utilizacao
