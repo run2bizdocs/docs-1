@@ -11,7 +11,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 
 - [X] Para ter acesso às pastas é necessário utilizar uma forma de permissionamento (perfil ou grupo), assim, antes de qualquer coisa você deve configurar os perfis de acesso ou criar os grupos (ver [Criar perfil de acesso][2], ver [Criar um grupo][3]).
 
-- [X] Além disso, se você pretende criar preferências de notificações será necessário definir o ID de e-mail que será utilizado no envio das mensagens. (ver [Configurar modelo de e-mail][4], ver [Configurar parametrização - conhecimento][5]).
+- [X] Além disso, se você pretende criar preferências de notificações será necessário definir o ID de e-mail que será utilizado no envio das mensagens. Assim, você deve criar/configurar modelos de e-mail e logo após realizar a configuração dos parâmetros (ver [Configurar modelo de e-mail][4], ver [Configurar parametrização - conhecimento][5]).
 
 ## Procedimento
 
@@ -39,7 +39,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
         
         **Notificação:**
         A opção de notificação possibilita que os integrandes do grupo recebam mensagems de e-mail informando acerca de conhecimentos que tenham a sua situação alterada.
-        `Notificar quando houver mudança de situação do conhecimento`: Em desenho, Em revisão, Revisado, Em avaliação, Avaliado, Em publicação, Publicado e/ou Arquivado.
+        Notificar quando houver mudança de situação do conhecimento: Em desenho, Em revisão, Revisado, Em avaliação, Avaliado, Em publicação, Publicado e/ou Arquivado.
 
 
 4.  Clicar em "Gravar".
