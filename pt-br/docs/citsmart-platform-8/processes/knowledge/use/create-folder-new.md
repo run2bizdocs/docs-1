@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 # Criar pasta
 
-Pastas são locais utilizados na aplicação para armazenamento e organização de arquivos. As bases de conhecimentos do CITSmart são construídas utilizando-se estruturas de diretórios. Nos diretórios são aplicadas as permissões de leitura ou leitura e gravação, também devem ser definidas as ações possíveis no processo de gestão do conhecimento: revisar, aprovar, publicar e arquivar/desarquivar. Além disso, é possível realizar a pré-configuração das notificações que ocorrerão nas diversas ações do processo de gestão do conhecimento.
+Pastas são locais utilizados na aplicação para armazenamento e organização de arquivos. As bases de conhecimentos do CITSmart são construídas utilizando estruturas de diretórios. Nos diretórios são aplicadas as permissões de leitura ou leitura e gravação, também devem ser definidas as ações possíveis no processo de gestão do conhecimento: revisar, aprovar, publicar e arquivar/desarquivar. Além disso, é possível realizar a pré-configuração das notificações que ocorrerão nas diversas ações do processo de gestão do conhecimento.
 
 As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e grupo de usuários. Ao usar o permissionamento por perfil de acesso você poderá controlar os perfis que podem ler e escrever na pasta. Ao utilizar a abordagem por grupo, além do permissionamento padrão (ler e escrever), você poderá definir preferências de notificações para os diversos status dos conhecimentos.
 
