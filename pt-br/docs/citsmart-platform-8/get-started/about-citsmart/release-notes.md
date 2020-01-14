@@ -3,6 +3,14 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.4.5 (2020/01/14)
+
+Bem-vindos ao Citsmart Versão 8.0.4.5. Esta versão apresenta as seguintes correções:
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+|3074 | Web Service | Ajuste no encerramento automático dos chamados via WebService.|
+
 ## Versão 8.0.4.4 (2019/12/19)
 
 Bem-vindos ao Citsmart Versão 8.0.4.4. Esta versão apresenta as seguintes correções:
