@@ -3,6 +3,32 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.4.5 (2020/01/14)
+
+Bienvenido a Citsmart Versión 8.0.4.5. Esta versión tiene las siguientes correcciones:
+
+|Corrección	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+|3074 | Web Service | Ajuste en el cierre automático de los tickets vía WebService.|
+
+## Versión 8.0.4.4 (2019/12/19)
+
+Bienvenido a Citsmart Versión 8.0.4.4. Esta versión tiene las siguientes correcciones:
+
+|Corrección	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+|ITSM 2652 | Informe de Mantenimiento de la Base de Conocimiento | Se corrigió el Informe de mantenimiento de la base de conocimiento, donde la información se duplicava.|
+
+## Versión 8.0.4.3 (2019/12/18)
+
+Bienvenido a Citsmart Versión 8.0.4.3. Esta versión tiene las siguientes correcciones:
+
+|Corrección	| Funcionalidad	| Descripción |
+|--------|---------|---------|
+| [ITSM 2854] | Registro de Cuestionario | Correctiva realizada en el registro del cuestionario, donde el sistema estaba creando cuestionarios en el momento que cambió.|
+| [ITSM-2995] | WEBSERVICES |Realizó una corrección cuando al finalizar un ticket a través del servicio web, dejaba el campo Solución/Respuesta en blanco y sin un responsable.
+| [ITSM-2960] | Gestión de Ticket | Se realizó un corrección donde, al ejecutar un ticket, no estaba presentando qué servicio y actividad se lo correspondia. Lo que se presentava era el paso de selección del portafolio.|
+
 ## Versión 8.0.4.2 (2019/12/12)
 
 Bienvenido a Citsmart Versión 8.0.4.2. Esta versión tiene las siguientes correcciones:
