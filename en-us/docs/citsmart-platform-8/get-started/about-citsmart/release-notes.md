@@ -3,6 +3,32 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.4.5 (2020/01/14)
+
+Welcome to Citsmart Version 8.0.4.5. This release has the following fixes:
+
+|Fix	| Functionality	| Description |
+|--------|---------|---------|
+|3074 | Web Service | Adjustments in the automatic closure of tickets via WebService.|
+
+## Version 8.0.4.4 (2019/12/19)
+
+Welcome to Citsmart Version 8.0.4.4. This release has the following fixes:
+
+|Fix	| Functionality	| Description |
+|--------|---------|---------|
+|ITSM 2652 | Knowledge Base Maintenance Report | Fix in the knowledge base maintenance report where information was duplicated.|
+
+## Version 8.0.4.3 (2019/12/18)
+
+Welcome to Citsmart Version 8.0.4.3. This release has the following fixes:
+
+|Fix	| Functionality	| Description |
+|--------|---------|---------|
+| [ITSM 2854] | Registering Quiz | Fix when registering a quiz, where the system was creating quizzes at the time it changed.|
+| [ITSM-2995] | WEBSERVICES |Fix when closing a ticket via webservice. The ticket was leaving the Solution/Response field blank, and with no responsible.
+| [ITSM-2960] | Ticket Management | Foi realizado corretiva onde ao executar um ticket, não estava sendo apresentado qual o serviço e atividade correspondente a ele. O que estava sendo apresentando era a etapa de seleção do portfólio.|
+
 ## Version 8.0.4.2 (2019/12/12)
 
 Welcome to Citsmart Version 8.0.4.2. This release has the following fixes:
