@@ -57,7 +57,7 @@ After you have successfully configured a connection, you must add preferences fo
     | DN Grupo | Path to the DN Group | OU=Users,OU=Company |
     | Filter | Filter to search for the object. Leave blank to use what is defined in the connection | (&(objectCategory=person)(objectClass=user)) |
     | Attribute to name | Enter the attribute to read the name (e.g.: CN, SamAccountName etc.)  | CN |
-    | Update Links | How often the "Access Profile" and "Group" fields will be updated when performing a sync (Options: Always, Never, or Creation Only |
+    | Update Links | How often the "Access Profile" and "Group" fields will be updated when performing a sync (Options: Always, Never, or Creation Only | Always |
     | Access Profile | System profile that the users will inherit | Manager |
     | Group | System group that the users will be entered | Managers |
     | Scheduling | Period when auto-sync will run | [Everyday]* |
