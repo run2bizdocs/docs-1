@@ -57,7 +57,7 @@ Después de configurar con éxito una conexión, debe agregar preferencias para 
     | DN Grupo | Camino al Grupo DN | OU=Users,OU=Company |
     | Filtro | Filtro para búsqueda de objetos. Dejar en blanco para usar lo definido en la conexión | (&(objectCategory=person)(objectClass=user)) |
     | Atributo para nombre | Informar el atributo para la lectura del nombre (ex.: CN, SamAccountName etc.)  | CN |
-    | Actualizar vínculos | La frecuencia que se actualizarán los datos en función del servidor AD/LDAP (Opciones: Siempre, Nunca o Sólo en la creación) | Siempre |
+    | Actualizar vínculos | Con qué frecuencia se actualizarán los campos "Perfil de Acceso" y "Grupo" al realizar una sincronización (Opciones: Siempre, Nunca o Solo en la creación) | Siempre |
     | Perfil de acceso | Perfil del sistema que los usuarios van heredar | Administrador |
     | Grupo | Se ingresarán los usuarios del grupo del sistema | Gerentes |
     | Programador | Período en que se ejecutará la sincronización automática | [Todos los dias]* |
