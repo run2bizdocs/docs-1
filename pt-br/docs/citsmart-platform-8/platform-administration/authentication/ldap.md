@@ -60,7 +60,7 @@ Após ter configurado uma conexão com sucesso, você deverá adicionar preferê
     | DN Grupo | Caminho para o Grupo DN | OU=Users,OU=Company |
     | Filtro | Filtro para a pesquisa do objeto. Deixe em branco para usar o definido na conexão | (&(objectCategory=person)(objectClass=user)) |
     | Atributo para nome | Informar o atributo para leitura do nome (ex.: CN, SamAccountName etc.)  | CN |
-    | Atualizar vínculos | Frequência com que os campos Perfil de Acesso e Grupo serão atualizados ao realizar uma sincronização (Opções: Sempre, Nunca ou Somente na criação) | Sempre |
+    | Atualizar vínculos | Frequência com que os campos "Perfil de Acesso" e "Grupo" serão atualizados ao realizar uma sincronização (Opções: Sempre, Nunca ou Somente na criação) | Sempre |
     | Perfil de acesso | Perfil do sistema que os usuários herdarão | Administrador |
     | Grupo | Grupo do sistema que os usuários serão inseridos | Gerentes |
     | Agendamento | Período em que a sincronização automática será executada | [Todo dia]* |
