@@ -27,7 +27,7 @@ Welcome to Citsmart Version 8.0.4.3. This release has the following fixes:
 |--------|---------|---------|
 | [ITSM 2854] | Registering Quiz | Fix when registering a quiz, where the system was creating quizzes at the time it changed.|
 | [ITSM-2995] | WEBSERVICES |Fix when closing a ticket via webservice. The ticket was leaving the Solution/Response field blank, and with no responsible.
-| [ITSM-2960] | Ticket Management | Foi realizado corretiva onde ao executar um ticket, não estava sendo apresentado qual o serviço e atividade correspondente a ele. O que estava sendo apresentando era a etapa de seleção do portfólio.|
+| [ITSM-2960] | Ticket Management | A corrective fix was implemented  where when executing a ticket, the service and activity corresponding to it was not being presented. What was being presented was the portfolio selection stage.|
 
 ## Version 8.0.4.2 (2019/12/12)
 
