@@ -1,16 +1,11 @@
-Title: Relacionar IC a um serviço
+Title: Cadastrar tipo de relacionamento de IC
 
-# Relacionar IC a um serviço
+# Cadastrar tipo de relacionamento de IC
 
-O cadastro de relacionamento entre Itens de Configuração e Serviços tem por objetivo evidenciar no CMDB as dependências existentes entres cada um desses elementos. O registro é feito para auxiliar os operadores dos IC’s a identificarem serviços ou itens que sofrerão impacto durante o tratamento de uma mudança, seja ela no parque de IC’s, no tratamento de um incidente, no tratamento de uma mudança ou no tratamento de um portfólio de serviço.
-O relacionamento existe da seguinte forma:
-
-- Itens de Configuração com outros Itens de Configuração;
-- Itens de Configuração com Serviços de Negócio/Apoio;
+O cadastro de tipo relacionamento de IC é necessário para a gestão de Itens de Configuração (ativos e serviços) no CMDB. Com este cadastro será possível, a partir de um IC, definir níveis de relacionamento entre ICs. O cadastro.
 
 ## O que fazer antes
-
-O cadastro de relacionamento requer Itens de configuração e Serviços ativos. O usuário deverá possuir acesso à tela de Cadastro de Tipo de Relacionamento (ver [Criar Perfil de Acesso][1])
+O usuário deverá possuir acesso à tela de Cadastro de Tipo de Relacionamento.
 
 ## Procedimento
 
@@ -29,6 +24,6 @@ O cadastro de relacionamento requer Itens de configuração e Serviços ativos. 
 
 ## Relacionado
 
-[Criar Item de Configuração][1]
+[Relacionar Item de Configuração a um serviço][1]
 
-[1]:/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html
+[1]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
