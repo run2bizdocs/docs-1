@@ -3,6 +3,58 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+Versão 8.0.5.0 (2020/01/27)
+---------------------------
+
+Welcome to CITSmart Version 8.0.5.0. This release has the following
+improvements:
+
+| Improvement | Functionality        | Description                                                                                                                                 |
+|-------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 5485        | Change Management    | [ITSM 1504] Sending a change approval email to everyone in the approval group                                                               |
+| 6242        | Knowledge Management | Improvement that allows adding new permissions on the knowledge folders to be used to define the action of the document in 'Knowledge base' |
+| 6243        | Knowledge Management | Improvement to add actions (state) to contemplate the phases of the knowledge process                                                       |
+| 6244        | Knowledge Management | Add knowledge article comments                                                                                                              |
+| 6245        | Knowledge Management | Add history to knowledge document                                                                                                           |
+| 6246        | Knowledge Management | Improvement that allows configuring notifications to be received regarding knowledge                                                        |
+| 6287        | Knowledge Management | The Knowledge Folder is allowing you to link interested parties with the Notification options and / or Notify the Author option             |
+| 6387        | Knowledge Management | Adjusted e-mail sending behavior for all Group users informed to interested parties                                                         |
+| 6075        | Experience Centers   | A global report and dashboard filter widget has been created                                                                                |
+| 6396        | CMDB                 | Improvement to create a Relationship Type screen                                                                                            |
+| 6397        | CMDB                 | Improvement to create a Relationship link screen in CMDB                                                                                    |
+| 6399        | CMDB                 | Creation of the CMDB Map to allow graphical visualization of the entire managed environment.                                                |
+| 6386        | Knowledge Management | Improvement to add new action of 'Delete' in the knowledge folder                                                                           |
+
+Version 8.0.5.0. has the following fixes
+
+| Fix  | Functionality                                                                                   | Description                                                                                                                                               |
+|------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1920 | CMDB                                                                                            | Corrective performed when informing start date greater than end date in the "Financial" tab of the CMDB.                                                  |
+| 6391 | [General](https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/general) registration | Correction of the popup label "Service Level Agreement Registration (General)", when the system language is in English                                    |
+| 6416 | Problem / Release / Change Ticket Management                                                    | Correction of failure when creating a problem / release / change / ticket, when the customer used parameter 104                                           |
+| 6419 | Omnichannel                                                                                     | Fixed message presented with error to the user when the user was registering Omnichannel - Facebook-Messenger interaction                                 |
+| 6433 | Change management                                                                               | Adjustment of the Change type label to the correct term                                                                                                   |
+| 6515 | Omnichannel                                                                                     | Fixed error when registering an Omnichannel Facebook-Messenger Interaction Channel in Oracle DB                                                           |
+| 6517 | Knowledge Management                                                                            | Fixed "Error" showing "Edit" a "Knowledge" when it was created with a situation other than published                                                      |
+| 6536 | Omnichannel                                                                                     | Error that was occurring via chat conversation between requester and attendant of a ticket created via Omnichannel Facebook-Messenger                     |
+| 6221 | System General                                                                                  | [ITSM 2544] A correction was made in the treatment of the logs, where a request was constantly being submitted to the bank where it was shown in the log. |
+| 6247 | Ticket Management                                                                               | A correction was made to the problem that occurred when approving a ticket                                                                                |
+| 6312 | E-mail Models                                                                                   | E-mail templates with PostgreSQL knowledge actions were implemented (these e-mails are only loaded on installation)                                       |
+| 6355 | Knowledge base                                                                                  | Within a Knowledge folder in the "Access Profiles" the Action of Archiving has changed the label to Archive / Unarchive                                   |
+| 6358 | Knowledge Management                                                                            | Correction in the language of the status of situations in the knowledge history.                                                                          |
+| 6381 | Ticket Management                                                                               | A correction was made to block the change of service portfolio at the time of execution of a ticket (It will only be allowed when reclassifying)          |
+| 6392 | Knowledge Management                                                                            | Corrective layout of the page that broke when clicking on new knowledge was performed                                                                     |
+| 6407 | Release Management                                                                              | A correction was made to limit the number of characters in the "description" field of a release portfolio                                                 |
+| 6371 | Knowledge Management                                                                            | Adjustment in the display of Messages from interested parties                                                                                             |
+| 6410 | Change Management                                                                               | Error presented to the user when the user clicked the Next button in a Change Portfolio                                                                   |
+| 6411 | Ticket Management                                                                               | Corrective performed in the mandatory fields when creating a ticket, they were not considering the page settings                                          |
+| 6412 | Ticket Management                                                                               | Fixed ticket screen so that the situation is in accordance with parameters 182 and 192                                                                    |
+| 6417 | Knowledge Management                                                                            | Fixed when the user has permission in the knowledge folder by access profile to perform the action of Publish and Restore a knowledge                     |
+
+!!! info "" Knowledge Base improvements have not been implemented in an Oracle
+database.
+
+
 ## Version 8.0.4.5 (2020/01/14)
 
 Welcome to Citsmart Version 8.0.4.5. This release has the following fixes:
