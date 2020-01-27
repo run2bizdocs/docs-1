@@ -18,7 +18,7 @@ O cadastro de relacionamento requer:
 
 - [X] Ter Itens de configuração inventariados;
 
-- [X] Ter serviços configurados no porfólio (negócio/apoio);
+- [X] Ter serviços configurados no portfólio (negócio/apoio);
 
 ## Procedimento
 
