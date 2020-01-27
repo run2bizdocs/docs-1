@@ -48,7 +48,7 @@ A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
 | 6412      | Ticket                               | Corrigido tela de ticket para que a situação fique conforme os parâmetros 182 e 192                                                                            |
 | 6417      | Base de Conhecimento                 | Corrigido quando o usuário possui permissão na pasta de conhecimento por perfil de acesso para realizar a ação de Publicar e Restaurar um conhecimento         |
 
-!!! info ""
+!!! info "NOTA"
     Melhorias relacionadas a conhecimento não foram implementadas em banco de dados Oracle.
 
 [23]:/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html
