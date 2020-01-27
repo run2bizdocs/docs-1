@@ -9,17 +9,17 @@ Bem-vindos ao Citsmart Versão 8.0.5.0. Esta versão apresenta as seguintes melh
 | Melhoria | Funcionalidade| Descrição|
 |--------|---------|---------|
 | 5485 | Mudança|[ITSM 1504] Envio de e-mail de aprovação de mudança para todos do grupo de aprovação|
-| 6242     | Base de Conhecimento  | Melhoria que permite adicionar novas permissões nas pastas de conhecimento para serem utilizadas para definir a ação do documento em 'Base de conhecimento' |
-| 6243     | Base de Conhecimento  | Melhoria para adicionar ações (estado) para contemplar as fases do processo do conhecimento|
-| 6244     | Base de Conhecimento  | Adicionar comentários em artigos de conhecimento|
-| 6245     | Base de Conhecimento  | Adicionar histórico em documento de conhecimento|
-| 6246     | Base de Conhecimento  | Melhoria que permite configurar notificações a serem recebidas referente ao conhecimento|
-| 6287     | Base de Conhecimento  | Na Pasta de um conhecimento está permitindo vincular partes interessadas com as opções de Notificações e/ou opção de Notificar o Autor|
-| 6387     | Base de Conhecimento  | Ajustado comportamento de envio de e-mail para todos os usuários do Grupo informado nas partes interessadas                                                 |
+| 6242     | Base de Conhecimento  | Melhoria que permite adicionar novas permissões nas pastas de conhecimento para serem utilizadas para definir a ação do documento em 'Base de conhecimento' ([ver documentação][23]) |
+| 6243     | Base de Conhecimento  | Melhoria para adicionar ações (estado) para contemplar as fases do processo do conhecimento (ver documentação)|
+| 6244     | Base de Conhecimento  | Adicionar comentários em artigos de conhecimento ([ver documentação][24])|
+| 6245     | Base de Conhecimento  | Adicionar histórico em documento de conhecimento ([ver documentação][25])|
+| 6246     | Base de Conhecimento  | Melhoria que permite configurar notificações a serem recebidas referente ao conhecimento ([ver documentação][26])|
+| 6287     | Base de Conhecimento  | Na Pasta de um conhecimento está permitindo vincular partes interessadas com as opções de Notificações e/ou opção de Notificar o Autor ([ver documentação][27])|
+| 6387     | Base de Conhecimento  | Ajustado comportamento de envio de e-mail para todos os usuários do Grupo informado nas partes interessadas ([ver documentação][29])                                                 |
 | 6075     | Centro de Experiencia | Foi criado um widget de filtro global de relatórios e dashboards                                                                                            |
-| 6396     | CMDB                  | Melhoria para criar uma tela de Tipo de Relacionamento                                                                                                      |
-| 6397     | CMDB                  | Melhoria para criar uma tela de vínculo de Relacionamentos no CMDB                                                                                          |
-| 6399     | CMDB                  | Realizado criação do Mapa de CMDB para permitir a visualização gráfica de todo o ambiente gerenciado.                                                       |
+| 6396     | CMDB                  | Melhoria para criar uma tela de Tipo de Relacionamento ([ver documentação][30])                                                                                                     |
+| 6397     | CMDB                  | Melhoria para criar uma tela de vínculo de Relacionamentos no CMDB ([ver documentação][31])                                                                                          |
+| 6399     | CMDB                  | Realizado criação do Mapa de CMDB para permitir a visualização gráfica de todo o ambiente gerenciado. ([ver documentação][32])                                                       |
 | 6386     | Base de Conhecimento  | Melhoria para adicionar nova ação de 'Excluir' na pasta de conhecimento                                                                                     |
 
 A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
@@ -50,6 +50,17 @@ A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
 
 !!! info ""
     Melhorias relacionadas a conhecimento não foram implementadas em banco de dados Oracle.
+
+[23]:/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html
+[24]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
+[25]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
+[26]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
+[27]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
+[28]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
+[29]:/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html
+[30]:/pt-br/citsmart-platform-8/processes/configuration/configuration/create-type-relationship-ci.html
+[31]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[32]:/pt-br/citsmart-platform-8/processes/configuration/use/view-ci-relationship-map.html
 
 
 ## Versão 8.0.4.5 (2020/01/14)
