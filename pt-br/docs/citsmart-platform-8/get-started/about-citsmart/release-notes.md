@@ -3,6 +3,60 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.5.0 (2020/01/27)
+Bem-vindos ao Citsmart Versão 8.0.5.0, A versão 8.0.5.0 do Citsmart apresenta as seguintes melhorias:**
+
+| Melhoria | Funcionalidade| Descrição|
+|--------|---------|---------|
+| 5485 | Mudança|[ITSM 1504] Envio de e-mail de aprovação de mudança para todos do grupo de aprovação|
+| 6242     | Base de Conhecimento  | Melhoria que permite adicionar novas permissões nas pastas de conhecimento para serem utilizadas para definir a ação do documento em 'Base de conhecimento' |
+| 6243     | Base de Conhecimento  | Melhoria para adicionar ações (estado) para contemplar as fases do processo do conhecimento|
+| 6244     | Base de Conhecimento  | Adicionar comentários em artigos de conhecimento|
+| 6245     | Base de Conhecimento  | Adicionar histórico em documento de conhecimento|
+| 6246     | Base de Conhecimento  | Melhoria que permite configurar notificações a serem recebidas referente ao conhecimento|
+| 6287     | Base de Conhecimento  | Na Pasta de um conhecimento está permitindo vincular partes interessadas com as opções de Notificações e/ou opção de Notificar o Autor|
+| 6387     | Base de Conhecimento  | Ajustado comportamento de envio de e-mail para todos os usuários do Grupo informado nas partes interessadas                                                 |
+| 6075     | Centro de Experiencia | Foi criado um widget de filtro global de relatórios e dashboards                                                                                            |
+| 6396     | CMDB                  | Melhoria para criar uma tela de Tipo de Relacionamento                                                                                                      |
+| 6397     | CMDB                  | Melhoria para criar uma tela de vínculo de Relacionamentos no CMDB                                                                                          |
+| 6399     | CMDB                  | Realizado criação do Mapa de CMDB para permitir a visualização gráfica de todo o ambiente gerenciado.                                                       |
+| 6386     | Base de Conhecimento  | Melhoria para adicionar nova ação de 'Excluir' na pasta de conhecimento                                                                                     |
+
+**A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:**
+
+| Corretiva | Funcionalidade                       | Descrição|                                                                                                                                     
+|--------|---------|---------|
+| 1920      | CMDB                                 | Corretiva realizada ao informar data início maior que data fim na aba "Financeiro" do CMDB.                                                                    |
+| 6391      | Cadastros Gerais                     | Correção da label da popup "Cadastro Acordo de Nível de Serviço (Geral)", quando idioma do sistema se encontra em Inglês                                       |
+| 6416      | Problema/ Liberação/ Mudança/ Ticket | Correção de falha ao criar um problema/liberação/mudança/ticket, quando o cliente utilizava o parâmetro 104                                                    |
+| 6419      | Omnichannel                          | Corrigido mensagem apresentada com erro ao usuário quando o mesmo realizava o cadastro uma interação Omnichannel - Facebook-Messenger                          |
+| 6433      | Gestão de Mudança                    | Ajuste da label de tipo de Mudança para o termo correto                                                                                                        |
+| 6515      | Omnichannel                          | Corrigido erro ao cadastrar um Canal de Interação Omnichannel Facebook-Messenger em BD Oracle                                                                  |
+| 6517      | Base de Conhecimento                 | Corrigido "Erro" apresentando ao "Editar" um "Conhecimento" quando o mesmo era criado com situação diferente de publicado                                      |
+| 6536      | Omnichannel                          | Erro que estava ocorrendo via conversa no chat entre solicitante e atendente de um ticket criado via Omnichannel Facebook-Messenger                            |
+| 6221      | Sistema                              | [ITSM 2544] Foi realizado uma corretiva no tratamento dos logs onde estava apresentando constantemente uma requisição para o banco onde era demostrado no log. |
+| 6247      | Ticket                               | Foi realizado uma corretiva para o problema que ocorria ao aprovar um ticket                                                                                   |
+| 6312      | Modelos de E-mail                    | Foi implementado os modelos de e-mail com as ações de conhecimento em PostgreSQL (esses e-mails são carregados apenas na instalação)                           |
+| 6355      | Base de Conhecimento                 | Dentro de uma pasta de Conhecimento nos "Perfis de Acesso" a Ação de Arquivar foi alterada a label para Arquivar /Desarquivar                                  |
+| 6358      | Base de Conhecimento                 | Correção no idioma dos status das situações no histórico dos conhecimentos.                                                                                    |
+| 6381      | Ticket                               | Foi realizado uma corretiva para bloquear a troca de portfólio de serviço no momento de execução de um ticket (Será permitido apenas quando reclassificar)     |
+| 6392      | Base de Conhecimento                 | Realizado corretiva de layout da página que quebrava ao clicar em novo conhecimento                                                                            |
+| 6407      | Gestão de Liberação                  | Foi realizado uma corretiva para limitar a quantidade de caracteres do campo "descrição" de um portfólio de liberação                                          |
+| 6371      | Base de Conhecimento                 | Ajuste na exibição de Mensagens de partes interessadas                                                                                                         |
+| 6410      | Gestão de Mudança                    | Erro apresentado ao usuário quando o mesmo clicava no botão de Avançar em um Portfólio de mudança                                                              |
+| 6411      | Ticket                               | Realizado corretiva nos campos obrigatórios ao criar um ticket, os mesmos não estavam considerando as configurações de páginas                                 |
+| 6412      | Ticket                               | Corrigido tela de ticket para que a situação fique conforme os parâmetros 182 e 192                                                                            |
+| 6417      | Base de Conhecimento                 | Corrigido quando o usuário possui permissão na pasta de conhecimento por perfil de acesso para realizar a ação de Publicar e Restaurar um conhecimento         |
+
+Notas:
+
+OBS: Melhorias relacionadas a conhecimento não foram implementadas em banco de
+dados Oracle.
+
+
+
+
+
 ## Versão 8.0.4.5 (2020/01/14)
 
 Bem-vindos ao Citsmart Versão 8.0.4.5. Esta versão apresenta as seguintes correções:
