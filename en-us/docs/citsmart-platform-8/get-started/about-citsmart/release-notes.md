@@ -51,8 +51,8 @@ Version 8.0.5.0. has the following fixes
 | 6412 | Ticket Management                                                                               | Fixed ticket screen so that the situation is in accordance with parameters 182 and 192                                                                    |
 | 6417 | Knowledge Management                                                                            | Fixed when the user has permission in the knowledge folder by access profile to perform the action of Publish and Restore a knowledge                     |
 
-!!! info "" Knowledge Base improvements have not been implemented in an Oracle
-database.
+!!! info "NOTE" 
+    Knowledge Base improvements have not been implemented in an Oracle database.
 
 
 ## Version 8.0.4.5 (2020/01/14)
