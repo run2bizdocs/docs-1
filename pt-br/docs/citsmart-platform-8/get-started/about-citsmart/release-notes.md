@@ -49,8 +49,7 @@ A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
 | 6417      | Base de Conhecimento                 | Corrigido quando o usuário possui permissão na pasta de conhecimento por perfil de acesso para realizar a ação de Publicar e Restaurar um conhecimento         |
 
 !!! info ""
-    Melhorias relacionadas a conhecimento não foram implementadas em banco de
-dados Oracle.
+    Melhorias relacionadas a conhecimento não foram implementadas em banco de dados Oracle.
 
 
 ## Versão 8.0.4.5 (2020/01/14)
