@@ -3,6 +3,57 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+Versión 8.0.5.0 (2020/01/27)
+----------------------------
+
+Bienvenido a CITSmart Versión 8.0.5.0. Esta versión tiene las siguientes mejoras:
+
+| Mejora | Funcionalidad            | Descripción                                                                                                                                                               |
+|--------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5485   | Gestión del cambio       | [ITSM 1504] Enviando un correo electrónico de aprobación de cambio a todos en el grupo de aprobación                                                                      |
+| 6242   | Gestión del conocimiento | Mejora que permite agregar nuevos permisos en carpetas de conocimiento para definir la acción del documento en 'Base de conocimiento' ([ver documentación] [23])          |
+| 6243   | Gestión del conocimiento | Mejora para agregar acciones (estado) para contemplar las fases del proceso de conocimiento (ver documentación)                                                           |
+| 6244   | Gestión del conocimiento | Agregar comentarios sobre artículos de conocimiento ([ver documentación] [24])                                                                                            |
+| 6245   | Gestión del conocimiento | Agregar historial al documento de conocimiento ([ver documentación] [25])                                                                                                 |
+| 6246   | Gestión del conocimiento | Mejora que permite recibir notificaciones de configuración con respecto al conocimiento ([ver documentación] [26])                                                        |
+| 6287   | Gestión del conocimiento | La Carpeta de conocimiento le permite vincular a las partes interesadas con las opciones de Notificación y / o la opción de Notificar al Autor ([ver documentación] [27]) |
+| 6387   | Gestión del conocimiento | Comportamiento ajustado de enviar correos electrónicos a todos los usuarios del Grupo informados en las partes interesadas ([ver documentación] [29])                     |
+| 6075   | Centro de experiencia    | Se ha creado un widget de informe global y filtro de panel                                                                                                                |
+| 6396   | CMDB                     | Mejora para crear una pantalla de tipo de relación ([ver documentación] [30])                                                                                             |
+| 6397   | CMDB                     | Mejora para crear una pantalla de enlace de Relación en CMDB ([ver documentación] [31])                                                                                   |
+| 6399   | CMDB                     | Creación del mapa CMDB para permitir la visualización gráfica de todo el entorno administrado. ([ver documentación] [32])                                                 |
+| 6386   | Gestión del conocimiento | Mejora para agregar una nueva acción de 'Eliminar' en la carpeta de conocimiento                                                                                          |
+
+CITSmart Versión 8.0.1.7. tiene las siguientes correcciones:
+
+| Corrección | Funcionalidad                           | Descripción                                                                                                                                                        |
+|------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1920       | CMDB                                    | El correctivo se realiza al informar la fecha de inicio mayor que la fecha de finalización en la pestaña "Financiero" de la CMDB.                                  |
+| 6391       | Registros generales                     | Corrección de la etiqueta emergente "Registro de acuerdo de nivel de servicio (general)", cuando el idioma del sistema está en inglés                              |
+| 6416       | Problema / Liberación / Cambio / Boleto | Corrección de fallas al crear un problema / liberación / cambio / ticket, cuando el cliente usó el parámetro 104                                                   |
+| 6419       | Omnicanal                               | Mensaje fijo presentado con error al usuario cuando el usuario estaba registrando Omnichannel - Interacción Facebook-Messenger                                     |
+| 6433       | Gestión del cambio                      | Ajuste de la etiqueta Cambiar tipo al término correcto                                                                                                             |
+| 6515       | Omnicanal                               | Se corrigió el error al registrar un canal de interacción omnicanal Facebook-Messenger en Oracle DB                                                                |
+| 6517       | Gestión del conocimiento                | Se corrigió el "Error" que mostraba "Editar" un "Conocimiento" cuando se creó con una situación distinta a la publicada                                            |
+| 6536       | Omnicanal                               | Error que ocurría a través de una conversación de chat entre el solicitante y el asistente de un ticket creado a través de Omnichannel Facebook-Messenger          |
+| 6221       | Sistema                                 | [ITSM 2544] Se realizó una corrección en el tratamiento de los registros, donde una solicitud se enviaba constantemente al banco donde se mostraba en el registro. |
+| 6247       | Gestión de entradas                     | Se corrigió el problema que ocurrió al aprobar un ticket                                                                                                           |
+| 6312       | Gestión de entradas                     | Se implementaron plantillas de correo electrónico con acciones de conocimiento de PostgreSQL (estos correos electrónicos solo se cargan en la instalación)         |
+| 6355       | Gestión del conocimiento                | Dentro de una carpeta de Conocimiento en los "Perfiles de acceso", la Acción de archivado ha cambiado la etiqueta a Archivar / Desarchivar                         |
+| 6358       | Gestión del conocimiento                | Corrección en el lenguaje del estado de situaciones en la historia del conocimiento.                                                                               |
+| 6381       | Gestión de entradas                     | Se tomaron medidas correctivas para bloquear el cambio de cartera de servicios en el momento de la ejecución de un ticket (solo se permite al reclasificar)        |
+| 6392       | Gestión del conocimiento                | Se realizó el diseño correctivo de la página que se rompió al hacer clic en el nuevo conocimiento                                                                  |
+| 6407       | gestión de lanzamientos                 | Se realizó una corrección para limitar el número de caracteres en el campo "descripción" de una cartera de versiones                                               |
+| 6371       | Gestión del conocimiento                | Ajuste en la visualización de mensajes de partes interesadas                                                                                                       |
+| 6410       | Gestión del cambio                      | Error presentado al usuario cuando el usuario hizo clic en el botón Siguiente en una Cartera de cambios                                                            |
+| 6411       | Gestión de entradas                     | Correctiva realizada en los campos obligatorios al crear un ticket, no estaban considerando la configuración de la página                                          |
+| 6412       | Gestión de entradas                     | Se corrigió la pantalla del ticket para que la situación esté de acuerdo con los parámetros 182 y 192                                                              |
+| 6417       | Gestión del conocimiento                | Solucionado cuando el usuario tiene permiso en la carpeta de conocimiento por perfil de acceso para realizar la acción de Publicar y restaurar un conocimiento     |
+
+!!! info "NOTA"
+    Las mejoras relacionadas con el conocimiento no se han implementado en una base Oracle.
+
+
 ## Versión 8.0.4.5 (2020/01/14)
 
 Bienvenido a Citsmart Versión 8.0.4.5. Esta versión tiene las siguientes correcciones:
