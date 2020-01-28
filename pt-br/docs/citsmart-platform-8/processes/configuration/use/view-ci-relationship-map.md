@@ -10,8 +10,6 @@ A visualização do mapa de relacionamento está condicionada ao seguinte cenár
 
 - [X] Ter realizado o inventário e associação de Itens de Configuração;
 
-- [X] Ter no mínimo 100 mil IC’s inventariados;
-
 ## Procedimento
 
 1. Acessar a funcionalidade pelo menu Processos > Gerência de Configuração > CMDB;
