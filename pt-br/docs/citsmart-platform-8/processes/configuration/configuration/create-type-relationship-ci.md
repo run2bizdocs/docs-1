@@ -23,7 +23,7 @@ O usuário deverá possuir acesso à tela de Cadastro de Tipo de Relacionamento.
 3. Clicar em "Gravar" para salvar as informações.
 
 !!! warning "ATENÇÃO"
-    Caso um Tipo de relacionamento esteja sendo utilizado em um desenho de Mapa, então, o sistema não permitirá a edição da posição Mesmo Nível
+    Caso um Tipo de relacionamento esteja sendo utilizado em um desenho de Mapa, então, o sistema não permitirá a edição da posição Mesmo Nível.
 
 ## Relacionado
 

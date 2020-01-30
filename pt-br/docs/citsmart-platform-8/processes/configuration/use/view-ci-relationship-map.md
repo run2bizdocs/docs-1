@@ -8,7 +8,7 @@ O mapa de relacionamento é o local onde você poderá ter, visualmente, um pano
 
 A visualização do mapa de relacionamento está condicionada ao seguinte cenário:
 
-- [X] Ter realizado o inventário e associação de Itens de Configuração;
+- [X] Ter realizado o inventário de ICs e ter construído a árvore de relacionamentos (ver: [Relacionar Item de Configuração a um Serviço][2])
 
 ## Procedimento
 
@@ -18,14 +18,11 @@ A visualização do mapa de relacionamento está condicionada ao seguinte cenár
 
 3. Na tela de Mapa de Desenho de IC, estão disponível os seguintes campos:
 
-    | Campo | Descrição |
-    |-------|-----------|
-    |Filtro|Opções: "**Causa e Efeito**" (Default do sistema: O sistema deverá realizar a demonstração gráfica tanto abaixo quanto acima do IC nó selecionado), "**Análise de Impacto**" (O sistema busca apenas os nós abaixo para realizar a demonstração a partir do nó selecionado), "**Análise de Causa Raiz**" (o sistema busca apenas os nós acima para realizar a demonstração a partir do nó selecionado).|
-    |Nível| Selecione um nível no intervalo de 1 a 4|
-    |Ícones| **Seta** (para que o usuário possa arrastar o mapa) e **Lupa** (para que o usuário possa aumentar ou reduzir o zoom do mapa).
-
-
-4. Selecione os filtros desejados e o mapa de relacionamento que será exibido na tela;
+| Campo | Descrição |
+|-------|-----------|
+|Filtro| a.  **Causa e Efeito**: Visualização Padrão do sistema que consiste em na demonstração gráfica tanto abaixo quanto acima do IC nó selecionado; b. **Análise de Impacto**: Visualização que consiste na demonstração gráfica dos itens desenhados abaixo do nó selecionado;  c. **Análise de Causa Raiz**: visualização que consiste na demonstração gráfica dos itens desenhados acima do nó selecionado.|
+|Nível| de 1 a 4 |
+|Ícones| **Seta**: permite arrastar o mapa; **Lupa**: permite aumentar ou reduzir o zoom do mapa.
 
 
 ## Relacionado
@@ -33,3 +30,5 @@ A visualização do mapa de relacionamento está condicionada ao seguinte cenár
 [Relacionar Item de Configuração a um serviço][1]
 
 [1]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+
+[2]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
