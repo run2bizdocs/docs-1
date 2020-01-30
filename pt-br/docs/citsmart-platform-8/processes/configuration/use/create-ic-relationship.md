@@ -32,10 +32,9 @@ O cadastro de relacionamento requer:
 
     | Campo | Descrição |
     |-------|-----------|
-    |De | Identifica a origem dos relacionamentos a serem desenhados, essa opção sempre parte do Item de Configuração selecionado|
     |Item (não editável) | Informa o Item de Configuração selecionado para o desenho dos relacionamentos|
     |Ícone | Permite selecionar um desenho que represente esse item de configuração |
-    |Tipo de Relacionamento| Identifica o tipo de relacionamento, cadastrado em “Permitir Cadastrar Relacionamentos para Itens de Configuração” |
+    |Tipo de Relacionamento| Identifica o tipo de relacionamento (cadastrar tipo de relacionamento de IC) |
     |Nome|Auto complete que retorna as descrições do Tipo de Relacionamento cadastrado na tela Tipo de Relacionamento|
     |Nível|Retorna os níveis inferior e superior cadastrados na tela Tipo de Relacionamento|
     |Para|Identifica o outro ponto da ligação do relacionamento;|
@@ -43,12 +42,15 @@ O cadastro de relacionamento requer:
     |Item|Auto complete que permite a busca do tipo selecionado|
     |Ícone|Permite selecionar um desenho que represente esse tipo selecionado|
 
-5. Clicar em "Gravar" para salvar as alterações. Ao acionar a ação de “Gravar” o sistema deverá exibir a seguinte mensagem “Gravação realizada com sucesso!”.
+5. Clicar em "Gravar" para salvar as alterações.
 
 ## Relacionado
+
+[Ver mapa de relacionamento de um IC][4]
 
 [Criar Item de Configuração][3]
 
 [1]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
 [2]:/pt-br/citsmart-platform-8/processes/configuration/configuration/create-type-relationship-ci.html
 [3]:/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html
+[4]:/pt-br/citsmart-platform-8/processes/configuration/use/view-ci-relationship-map.html
