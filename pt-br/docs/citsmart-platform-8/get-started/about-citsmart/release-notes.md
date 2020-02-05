@@ -62,6 +62,15 @@ A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
 [31]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
 [32]:/pt-br/citsmart-platform-8/processes/configuration/use/view-ci-relationship-map.html
 
+## Versão 8.0.4.6 (2020/02/05)
+
+Bem-vindos ao Citsmart Versão 8.0.4.6 Esta versão apresenta as seguintes correções:
+
+|Corretiva	| Funcionalidade	| Descrição |
+|--------|---------|---------|
+|3256|Smart Portal|Corrigido Parâmetro 293 para validar permissões de grupo na pesquis do Smart Portal.|
+|3310|SLA|Ajustado comportamento do sistema ao alterar SLA na suspenção e reativação de Tickets.|
+|3347|Gerência de Ticket|Ajuste realizado na tabela fato_solicitacaoservico quando um chamado é encerrado via Webservice.|
 
 ## Versão 8.0.4.5 (2020/01/14)
 
