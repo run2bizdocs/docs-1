@@ -23,14 +23,14 @@ Para visualizar o status de inventário de ICs é necessário ter definido um pr
     |-------|-----------|
     |Endereço IP| Número IP do Item de Configuração|
     |Identificação|Nome do IC|
-    |Status|Todos, Inventariada, Ignorada, Inacessível, Em execução ou Não inventariada|
+    |Status|**Inventariada** (O sistema de inventário conseguiu realizar a coleta dos dados da máquina), **Ignorada** (O usuário informou na tela EVM - Conexão e Configuração CITSmart Inventory que máquinas inventariadas poderiam ser ignoradas de novo inventário), **Inacessível** (O sistema de inventário localizou o IP, porém, não existe nenhuma máquina a inventariar ou a máquina está desligada), **Em execução** (O sistema de inventário não terminou a execução do inventário da máquina) ou **Não inventariada** (O sistema de inventário não conseguiu via SNMP ou agCitsmart.Net (Agente Citsmart) capturar qualquer informação sobre essa máquina, ou seja, essa máquina não possui o Agente Citsmart instalado|
     |Origem|agCITSMART.NET, SNMP ou OCS Inventory|
-    |Conexão CITSmart Inventory|Nome da conexão cadastrada|
+    |Conexão CITSmart Inventory|Nome da conexão cadastrada em Processos > Gerência de Eventos > Conexões|
 
 4. Clicar em "Pesquisar" para realizar a busca.
 
 !!! info "IMPORTANTE"
-    A listagem de resultados é mostrada em páginas com até dez itens. Além disso, você pode utilizar os botões para atualizar a lista de resultados (atualização manual ou automática) sem ter que atualizar toda a página.
+    A listagem de resultados é mostrada em páginas com até dez itens contendo, além dos campos acima, a data e hora do último invetário. Além disso, você pode utilizar os botões para atualizar a lista de resultados (atualização manual ou automática) sem ter que atualizar toda a página.
 
 
 ## Relacionado
