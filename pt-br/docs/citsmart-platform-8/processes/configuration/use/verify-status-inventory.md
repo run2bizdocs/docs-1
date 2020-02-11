@@ -17,7 +17,7 @@ Para visualizar o status de inventário de ICs é necessário ter definido um pr
 2.  Clicar no último ícone localizado no canto superior direito da tela de
     Gerenciamento de Configuração e selecionar "Status do Inventário".
 
-3.  Selecionar o campo desejado:
+3.  Para uma pesquisa específica, informar o IP ou nome do IC. Para uma pequisa por cenário, utilizar os filtros disponíveis:
 
     | Campo | Descrição |
     |-------|-----------|
