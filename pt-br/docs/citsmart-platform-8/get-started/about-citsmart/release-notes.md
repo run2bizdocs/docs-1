@@ -5,6 +5,7 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 ## Versão 8.0.5.1 (2020/02/10)
 Bem-vindos ao Citsmart Versão 8.0.5.1. Esta versão apresenta as seguintes melhorias:
+
 |Corretiva |Funcionalidade |Descrição |
 |--------|---------|---------|
 | 3256| Smart Portal| Corrigido Parâmetro 293 para validar permissões de grupo na pesquisa do Smart Portal.|
@@ -26,12 +27,12 @@ Bem-vindos ao Citsmart Versão 8.0.5.0. Esta versão apresenta as seguintes melh
 | 6245     | Base de Conhecimento  | Adicionar histórico em documento de conhecimento ([ver documentação][25])|
 | 6246     | Base de Conhecimento  | Melhoria que permite configurar notificações a serem recebidas referente ao conhecimento ([ver documentação][26])|
 | 6287     | Base de Conhecimento  | Na Pasta de um conhecimento está permitindo vincular partes interessadas com as opções de Notificações e/ou opção de Notificar o Autor ([ver documentação][27])|
-| 6387     | Base de Conhecimento  | Ajustado comportamento de envio de e-mail para todos os usuários do Grupo informado nas partes interessadas ([ver documentação][29])                                                 |
-| 6075     | Centro de Experiencia | Foi criado um widget de filtro global de relatórios e dashboards                                                                                            |
-| 6396     | CMDB                  | Melhoria para criar uma tela de Tipo de Relacionamento ([ver documentação][30])                                                                                                     |
-| 6397     | CMDB                  | Melhoria para criar uma tela de vínculo de Relacionamentos no CMDB ([ver documentação][31])                                                                                          |
-| 6399     | CMDB                  | Realizado criação do Mapa de CMDB para permitir a visualização gráfica de todo o ambiente gerenciado. ([ver documentação][32])                                                       |
-| 6386     | Base de Conhecimento  | Melhoria para adicionar nova ação de 'Excluir' na pasta de conhecimento                                                                                     |
+| 6387     | Base de Conhecimento  | Ajustado comportamento de envio de e-mail para todos os usuários do Grupo informado nas partes interessadas ([ver documentação][29])|
+| 6075     | Centro de Experiencia | Foi criado um widget de filtro global de relatórios e dashboards|
+| 6396     | CMDB                  | Melhoria para criar uma tela de Tipo de Relacionamento ([ver documentação][30])|
+| 6397     | CMDB                  | Melhoria para criar uma tela de vínculo de Relacionamentos no CMDB ([ver documentação][31])|
+| 6399     | CMDB                  | Realizado criação do Mapa de CMDB para permitir a visualização gráfica de todo o ambiente gerenciado. ([ver documentação][32])|
+| 6386     | Base de Conhecimento  | Melhoria para adicionar nova ação de 'Excluir' na pasta de conhecimento|
 
 A versão 8.0.5.0 do Citsmart apresenta as seguintes corretivas:
 
