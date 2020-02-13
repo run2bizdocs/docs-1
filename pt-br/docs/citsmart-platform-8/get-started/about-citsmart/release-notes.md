@@ -6,13 +6,13 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 ## Versão 8.0.5.1 (2020/02/10)
 Bem-vindos ao Citsmart Versão 8.0.5.1. Esta versão apresenta as seguintes melhorias:
 
-|Corretiva |Funcionalidade |Descrição |
+|Corretiva|Funcionalidade|Descrição|
 |--------|---------|---------|
-| 3256| Smart Portal| Corrigido Parâmetro 293 para validar permissões de grupo na pesquisa do Smart Portal.|
-| 3310| SLA| Ajustado comportamento do sistema ao alterar SLA na suspensão e reativação de Tickets.|
-| 3347| Gerência de Ticket | Ajuste realizado na tabela fato_solicitacaoservico quando um chamado é encerrado via Webservice.|
-| 6739| WorksPlace| Ajustado Widget de Worksplace para exibir corretamente as informações.|
-| 6247| Gerência de Ticket | Ajustes realizados nas aprovações de tickets.|
+|3256|Smart Portal|Corrigido Parâmetro 293 para validar permissões de grupo na pesquisa do Smart Portal.|
+|3310|SLA| Ajustado comportamento do sistema ao alterar SLA na suspensão e reativação de Tickets.|
+|3347|Gerência de Ticket | Ajuste realizado na tabela fato_solicitacaoservico quando um chamado é encerrado via Webservice.|
+|6739|WorksPlace| Ajustado Widget de Worksplace para exibir corretamente as informações.|
+|6247|Gerência de Ticket | Ajustes realizados nas aprovações de tickets.|
 
 
 ## Versão 8.0.5.0 (2020/01/27)
