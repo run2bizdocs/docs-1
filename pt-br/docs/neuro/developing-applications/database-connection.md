@@ -36,8 +36,8 @@ Figura 1 - Aplicação
     
 
 !!! info "SQL SERVER CONNECTION"
-    O Neuro utiliza o driver jtds para realizar a conexão, desse modo, a URL de conexão deve seguir o seguinte padrão: 'jdbc:jtds:sqlserver://{servidor}:{porta};DatabaseName={nome do BD}'
-    Além disso, o nome do driver no conector do fluxo ESI é 'net.sourceforge.jtds.jdbc.Driver'.
+    O Neuro utiliza o driver jtds para realizar a conexão, desse modo, a URL de conexão deve seguir o seguinte padrão: `jdbc:jtds:sqlserver://{servidor}:{porta};DatabaseName={nome do BD}`
+    Além disso, o nome do driver no conector do fluxo ESI é `net.sourceforge.jtds.jdbc.Driver`.
 
 
 !!! tip "About"
