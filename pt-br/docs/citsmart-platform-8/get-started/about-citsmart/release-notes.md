@@ -3,6 +3,19 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.5.2 (2020/02/18)
+Bem-vindos ao Citsmart Versão 8.0.5.2. Esta versão apresenta as seguintes melhorias:
+
+|Corretiva|Funcionalidade|Descrição|
+|--------|---------|---------|
+|Ticket 3505|Corretiva|Tickets|Correção de elementos de fluxo|
+|Ticket 3350|Melhoria|Tickets|Otimização de desempenho das telas de ticket, usuário e grupo de usuários.|
+|Ticket 3505|Corretiva|Neuro|Correção de componentes Neuro|
+
+*Outros produtos liberados:*
+
+Neuro: 1.3.3.3
+
 ## Versão 8.0.5.1 (2020/02/10)
 Bem-vindos ao Citsmart Versão 8.0.5.1. Esta versão apresenta as seguintes melhorias:
 
