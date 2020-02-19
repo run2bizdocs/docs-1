@@ -12,9 +12,9 @@ Bem-vindos ao Citsmart Versão 8.0.5.2. Esta versão apresenta as seguintes melh
 |Ticket 3350|Melhoria|Tickets|Otimização de desempenho das telas de ticket, usuário e grupo de usuários.|
 |Ticket 3505|Corretiva|Neuro|Correção de componentes Neuro|
 
-*Outros produtos liberados:*
+Pacote(s) liberado(s) nesta versão:
 
-Neuro: 1.3.3.3
+- [X] CITSmart Neuro 1.3.3.3
 
 ## Versão 8.0.5.1 (2020/02/10)
 Bem-vindos ao Citsmart Versão 8.0.5.1. Esta versão apresenta as seguintes melhorias:
