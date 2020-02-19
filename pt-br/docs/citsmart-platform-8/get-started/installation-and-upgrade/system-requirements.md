@@ -6,7 +6,7 @@ Para execução da plataforma e aplicações, os requisitos recomendados do sist
 
 ## Aplicação e banco de dados no mesmo servidor
 
-Caso instale todos os programas, e o banco de dados relacional no mesmo servidor, recomendamos que o servidor tenha no mínimo `32GB` de memória para ambientes de produção. Caso deseje apenas realizar algum teste, ou ambientes de homologação e desenvolvimento, um servidor com `16GB` é o suficiente. Quanto ao tamanho do disco, recomendamos ter no mínimo 30 GB de espaço disponível.
+Caso instale todos os programas, e o banco de dados relacional no mesmo servidor, recomendamos que o servidor tenha no mínimo `32GB` de memória para ambientes de produção. Caso deseje apenas realizar algum teste, ou ambientes de homologação e desenvolvimento, um servidor com `16GB` é o suficiente. Quanto ao tamanho do disco, recomendamos ter no mínimo `30GB` de espaço disponível.
 
 ## Aplicação e banco de dados desmembrados
 
