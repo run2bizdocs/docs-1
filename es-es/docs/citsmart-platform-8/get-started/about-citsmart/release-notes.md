@@ -3,6 +3,30 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.5.2 (2020/02/18)
+Bienvenido a Citsmart Versión 8.0.5.2. Esta versión presenta las siguientes mejoras:
+
+|Corrección|Corrección/Mejora/Nueva|Funcionalidad|Descripción|
+|--------|---------|---------|---------|
+|Ticket 3505|Corrección|Tickets|Corrección de elementos de flujo|
+|Ticket 3350|Mejora|Tickets|Optimización del rendimiento en las pantallas de tickets, usuarios y grupos de usuarios.|
+|Ticket 3505|Corrección|Neuro|Corrección de los componentes Neuro|
+
+Paquete(s) lanzado(s) en esta versión:
+
+- [X] CITSmart Neuro 1.3.3.3
+
+## Versión 8.0.5.1 (2020/02/10)
+Bienvenido a Citsmart Versión 8.0.5.1. Esta versión presenta las siguientes mejoras:
+
+|Corrección|Funcionalidad|Descripción|
+|--------|---------|---------|
+|3256|Smart Portal|Se corrigió el parámetro 293 para validar los permisos de grupo en la búsqueda del Smart Portal.|
+|3310|SLA| Se ajustó el comportamiento del sistema al cambiar el SLA en la suspensión y reactivación de Tickets.|
+|3347|Gestión de Ticket | Ajuste realizado en la tabla facto_solicitacaoservico cuando se cierra un ticket a través del servicio web.|
+|6739|WorksPlace| Se ajustó el widget del Workspace para mostrar la información correctamente.|
+|6247|Gestión de Ticket | Ajustes realizados en las aprobaciones de los tickets.|
+
 Versión 8.0.5.0 (2020/01/27)
 ----------------------------
 
