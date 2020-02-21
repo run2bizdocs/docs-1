@@ -17,8 +17,7 @@ novas melhorias e claro, sempre que quiser nos envie feedbacks sobre elas.
 |5228|Importação e Exportação de diálogos cadastrados da Anuva no formato de planilhas.|
 |6944|Permitir o uso de links nas actions. (adicionar http ou https nos links dos sites)|
 |6831|Cadastro e administração de novos usuários.|
-|6943|Atualização para nova versão do ElasticSearch para melhora de
-algoritmo de IA e performance de busca de dados.|
+|6943|Atualização para nova versão do ElasticSearch para melhora de algoritmo de IA e performance de busca de dados.|
 
 Além das melhorias acima esta nova Build leva algumas correções identificadas que
 seguem listadas abaixo.
