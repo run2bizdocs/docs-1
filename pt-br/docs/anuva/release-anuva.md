@@ -12,25 +12,18 @@ novas melhorias e claro, sempre que quiser nos envie feedbacks sobre elas.
 |--------------|------------------|
 |6380|Importação de “intents e frases” do workspace do Watson.|
 |6941|Exportação de conversas do bot em planilhas.|
-|6945|Parametrização de percentual de acurácia de intenções e diálogos
-para o chatBot.|
-|6942|Cadastro de e-mails para envio de notificações de treinamentos e
-implantações.|
-|5228|Importação e Exportação de diálogos cadastrados da Anuva no
-formato de planilhas.|
-|6944|Permitir o uso de links nas actions. (adicionar http ou https nos links dos
-sites)|
+|6945|Parametrização de percentual de acurácia de intenções e diálogos para o chatBot.|
+|6942|Cadastro de e-mails para envio de notificações de treinamentos e implantações.|
+|5228|Importação e Exportação de diálogos cadastrados da Anuva no formato de planilhas.|
+|6944|Permitir o uso de links nas actions. (adicionar http ou https nos links dos sites)|
 |6831|Cadastro e administração de novos usuários.|
-|6943|Atualização para nova versão do ElasticSearch para melhora de
-algoritmo de IA e performance de busca de dados.|
+|6943|Atualização para nova versão do ElasticSearch para melhora de algoritmo de IA e performance de busca de dados.|
 
 Além das melhorias acima esta nova Build leva algumas correções identificadas que
 seguem listadas abaixo.
 
 |Code|Funcionality|
 |--------------|------------------|
-|6864|Erro no componente de agendamento causando erro no ato de
-agendamento de treinamento.|
+|6864|Erro no componente de agendamento causando erro no ato de agendamento de treinamento.|
 |6602|Erro no comportamento dos cadastros de diálogos impedindo que dados incompletos sejam enviados para o treinamento do bot causando muitos fallbacks.|
-|6832|Erro de estouro de memória nos servidores responsáveis pelo
-treinamento do bot causando falha nos treinamentos do bot.|
+|6832|Erro de estouro de memória nos servidores responsáveis pelo treinamento do bot causando falha nos treinamentos do bot.|
