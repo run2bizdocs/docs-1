@@ -11,7 +11,7 @@ Folder permissions are applied from two perspectives: access profile and user gr
 
 - [X] To have access to the folders, it's necessary to use a form of permission (profile or group), so, before anything else, you must configure the access profiles or create the groups (see [Creating access profile] [2], see [Creating a group][3]).
 
-- [X] In addition, if you plan to create notification preferences you will need to define the email ID that will be used when sending messages. Therefore, you must create/configure e-mail templates and than setting the parameters (see [Configure e-mail template] [4], see [Configure parameterization - knowledge][5]).
+- [X] In addition, if you plan to create notification preferences you will need to define the email ID that will be used when sending messages. Therefore, you must create/configure e-mail templates and than setting the parameters (see [Configure e-mail template][4], see [Configure parameterization - knowledge][5]).
 
 ## Procedure
 
