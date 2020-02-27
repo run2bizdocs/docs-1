@@ -8,7 +8,7 @@ uma experiência mais completa para os clientes, além de mais performance e
 flexibilidade para exportar e importar dados, fique a vontade para explorar as
 novas melhorias e claro, sempre que quiser nos envie feedbacks sobre elas.
 
-|Code|Funcionality|
+|Código|Funcionalidade|
 |--------------|------------------|
 |6380|Importação de “intents e frases” do workspace do Watson.|
 |6941|Exportação de conversas do bot em planilhas.|
@@ -22,7 +22,7 @@ novas melhorias e claro, sempre que quiser nos envie feedbacks sobre elas.
 Além das melhorias acima esta nova Build leva algumas correções identificadas que
 seguem listadas abaixo.
 
-|Code|Funcionality|
+|Código|Funcionalidade|
 |--------------|------------------|
 |6864|Erro no componente de agendamento causando erro no ato de agendamento de treinamento.|
 |6602|Erro no comportamento dos cadastros de diálogos impedindo que dados incompletos sejam enviados para o treinamento do bot causando muitos fallbacks.|
