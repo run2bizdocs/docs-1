@@ -3,6 +3,15 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.5.3 (2020/02/27)
+Bem-vindos ao Citsmart Versão 8.0.5.3. Esta versão apresenta as seguintes melhorias:
+
+|Corretiva|Corretiva/Melhoria/Nova|Funcionalidade|Descrição|
+|--------|---------|---------|---------|
+|Ticket 3666|Corretiva|Gerência de Ticket|Correção realizada ao clicar no ícone do Chat por meio do Widget My Tickets, no Centro de Experiência.|
+|Ticket 3581|Melhoria|WebService|Atualizado para criar uma ocorrência via WebService em um Ticket.|
+|Ticket 3604|Corretiva|Gerência de Eventos|Correção realizada no Gerente Genérico Zabixx/Nagios para habilitar a opção correção automática.|
+
 ## Versão 8.0.5.2 (2020/02/18)
 Bem-vindos ao Citsmart Versão 8.0.5.2. Esta versão apresenta as seguintes melhorias:
 
