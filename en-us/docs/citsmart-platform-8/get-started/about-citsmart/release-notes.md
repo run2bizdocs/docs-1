@@ -3,6 +3,15 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.5.3 (2020/02/27)
+Welcome to Citsmart Version 8.0.5.3. This version has the following improvements:
+
+|Fix|Fix/Improvement/New|Functionality|Description|
+|--------|---------|---------|---------|
+|Ticket 3666|Fix|Ticket Management|Fix made when clicking on the Chat icon through the My Tickets widget, in the Experience Center.|
+|Ticket 3581|Improvement|WebService|Updated to create an instance via WebService in a Ticket.|
+|Ticket 3604|Fix|Event Management|Fix performed in the Generic Manager Zabixx/Nagios to enable the automatic correction option.|
+
 ## Version 8.0.5.2 (2020/02/18)
 Welcome to Citsmart Version 8.0.5.2. This release has the following improvements:
 
