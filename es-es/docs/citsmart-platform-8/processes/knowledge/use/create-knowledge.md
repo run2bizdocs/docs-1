@@ -9,7 +9,7 @@ Crear conocimiento es el acto de registrar información en CITSmart usando la fu
 
 - [X] Antes de crear un conocimiento, es necesario crear carpetas y definir permisos de acceso. Con esto, puede organizar el conocimiento y permitir una ubicación fácil al realizar una búsqueda. (ver [Crear perfil de acceso][2])
 
-- [X]Para usar las funciones de notificación, es necesario configurar los parámetros: 82 y 83 (Creación/Cambio de conocimiento), 84 (Exclusión de conocimiento) y 78 y 456 (Expiración del conocimiento). (ver [Configurar plantilla de correo electrónico][3], ver [Configurar parametrización - conocimiento][4]).
+- [X] Para usar las funciones de notificación, es necesario configurar los parámetros: 82 y 83 (Creación/Cambio de conocimiento), 84 (Exclusión de conocimiento) y 78 y 456 (Expiración del conocimiento). (ver [Configurar plantilla de correo electrónico][3], ver [Configurar parametrización - conocimiento][4]).
 
 
 !!! note "NOTA"
