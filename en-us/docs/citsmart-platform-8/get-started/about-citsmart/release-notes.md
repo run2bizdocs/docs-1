@@ -3,6 +3,14 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
+## Version 8.0.5.4 (2020/02/28)
+Welcome to Citsmart Version 8.0.5.4. This version presents the following improvements:
+
+|Fix|Fix/Improvement/New|Functionality|Description|
+|--------|---------|---------|---------|
+|Ticket 3599|Fix|Ticket Management|When reopening a Ticket via Smart Portal you can add a Note on it.|
+|Ticket 3551|Improvement|Ticket Management/Workflow|It was created an email key to send date and time of the last execution in the flow.|
+
 ## Version 8.0.5.3 (2020/02/27)
 Welcome to Citsmart Version 8.0.5.3. This version has the following improvements:
 
