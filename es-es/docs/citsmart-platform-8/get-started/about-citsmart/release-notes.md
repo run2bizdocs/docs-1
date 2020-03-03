@@ -3,6 +3,14 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.5.4 (2020/02/28)
+Bienvenido a Citsmart Versión 8.0.5.4. Esta ver sión presenta las siguientes mejoras:
+
+|Corrección|Corrección/Mejora/Nueva|Funcionalidad|Descripción|
+|--------|---------|---------|---------|
+|Ticket 3599|Corrección|Gestión de Ticket|Al reabrir un Ticket a través del Smart Portal, se puede agregarlo una Nota.|
+|Ticket 3551|Mejora|Gestión de Ticket/Workflow|Se creó la clave de correo electrónico para enviar la fecha y hora de la última ejecución en el flujo.|
+
 ## Versión 8.0.5.3 (2020/02/27)
 Bienvenido a Citsmart Versión 8.0.5.3. Esta versión presenta las siguientes mejoras:
 
