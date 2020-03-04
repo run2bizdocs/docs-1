@@ -53,8 +53,8 @@ Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 * [x] CITSmart Neuro 1.3.4.0
 
 **Orientações para atualização:**
-**1** Será necessário ativar a execução do processamento batch “Process Working Hours Calendar”, após a atualização para usufruir da melhoria “#5594 - Adicionar visão de conflitos de jornada de ICs e Serviços em RDM's”
-**2** É necessário atualizar o Neuro para o 1.3.4 para manter compatibilidade com a versão 8.0.6
+- Será necessário ativar a execução do processamento batch “Process Working Hours Calendar”, após a atualização para usufruir da    melhoria “5594 - Adicionar visão de conflitos de jornada de ICs e Serviços em RDM's”
+- É necessário atualizar o Neuro para o 1.3.4 para manter compatibilidade com a versão 8.0.6
 
 ## Versão 8.0.5.4 (2020/02/28)
 Bem-vindos ao Citsmart Versão 8.0.5.4. Esta versão apresenta as seguintes melhorias:
