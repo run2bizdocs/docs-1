@@ -35,7 +35,7 @@ Esta funcionalidade tem por objetivo o cadastro de usuário que não possui aces
 |Login|Informar o login que servirá para o acesso do usuário ao sistema|
 |Senha|Informar uma senha para acesso ao sistema|
 |Digite novamente a senha|Informar a senha de acesso novamente|
-|Complete a auteração|Autenticar a sua solicitação por meio do Captcha (exemplo:para que o sistema tenha garantias de que não se trata de uma tentativa de invasão via automação de robôs|
+|Complete a alteração|Autenticar a sua solicitação por meio do Captcha (exemplo:para que o sistema tenha garantias de que não se trata de uma tentativa de invasão via automação de robôs|
 
 # Relacionado
 
