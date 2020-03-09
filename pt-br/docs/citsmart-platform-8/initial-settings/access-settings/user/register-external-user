@@ -36,3 +36,10 @@ Esta funcionalidade tem por objetivo o cadastro de usuário que não possui aces
 |Senha|Informar uma senha para acesso ao sistema|
 |Digite novamente a senha|Informar a senha de acesso novamente|
 |Complete a auteração|Autenticar a sua solicitação por meio do Captcha (exemplo:para que o sistema tenha garantias de que não se trata de uma tentativa de invasão via automação de robôs|
+
+# Relacionado
+
+[Cadastrar um colaborador](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)(/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Cadastrar um usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Configurar parametrização - LDAP](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ldap.html)
+[Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
