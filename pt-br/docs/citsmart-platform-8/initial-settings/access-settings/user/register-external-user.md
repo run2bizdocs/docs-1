@@ -1,7 +1,7 @@
 Title: Cadastrar usuário externo
 Description: cadastro de usuário que não possui acesso ao CITSmart
 
-# Criação
+# Cadastrar usuário externo
 
 Esta funcionalidade tem por objetivo o cadastro de usuário que não possui acesso ao CITSmart.
 
