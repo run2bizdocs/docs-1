@@ -39,7 +39,7 @@ Esta funcionalidade tem por objetivo o cadastro de usuário que não possui aces
 
 # Relacionado
 
-[Cadastrar um colaborador](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)(/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Cadastrar um colaborador](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 [Cadastrar um usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
 [Configurar parametrização - LDAP](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ldap.html)
 [Configurar parametrização - sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
