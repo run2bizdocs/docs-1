@@ -3,7 +3,48 @@ Description: Release notes, policies information, bug fixes and improvements in 
 
 # Release Notes
 
-Versão 8.0.5.0 (2020/01/27)
+## Version 8.0.5.4 (2020/02/28)
+Welcome to Citsmart Version 8.0.5.4. This version presents the following improvements:
+
+|Fix|Fix/Improvement/New|Functionality|Description|
+|--------|---------|---------|---------|
+|Ticket 3599|Fix|Ticket Management|When reopening a Ticket via Smart Portal you can add a Note on it.|
+|Ticket 3551|Improvement|Ticket Management/Workflow|It was created an email key to send date and time of the last execution in the flow.|
+
+## Version 8.0.5.3 (2020/02/27)
+Welcome to Citsmart Version 8.0.5.3. This version has the following improvements:
+
+|Fix|Fix/Improvement/New|Functionality|Description|
+|--------|---------|---------|---------|
+|Ticket 3666|Fix|Ticket Management|Fix made when clicking on the Chat icon through the My Tickets widget, in the Experience Center.|
+|Ticket 3581|Improvement|WebService|Updated to create an instance via WebService in a Ticket.|
+|Ticket 3604|Fix|Event Management|Fix performed in the Generic Manager Zabixx/Nagios to enable the automatic correction option.|
+
+## Version 8.0.5.2 (2020/02/18)
+Welcome to Citsmart Version 8.0.5.2. This release has the following improvements:
+
+|Improvement|Fix/Improvement/New|Functionality|Description|
+|--------|---------|---------|---------|
+|Ticket 3505|Fix|Tickets|Correction of flow elements|
+|Ticket 3350|Improvement|Tickets|Performance optimization in the screens of ticket, user and user group.|
+|Ticket 3505|Fix|Neuro|Correction of Neuro components|
+
+*Other released products:*
+
+Neuro: 1.3.3.3
+
+## Version 8.0.5.1 (2020/02/10)
+Welcome to Citsmart Version 8.0.5.1. This release has the following improvements:
+
+|Improvement|Functionality|Description|
+|--------|---------|---------|
+|3256|Smart Portal|Correction of Parameter 293 to validate group permissions on the Smart Portal search.|
+|3310|SLA|Adjustment of system behavior when changing SLA on suspension and reactivation of Tickets.|
+|3347|Ticket Management| Adjustment made in the table facto_solicitacaoservico when a ticket is closed via Webservice.|
+|6739|WorksPlace| Adjust in the Worksplace Widget to display information correctly.|
+|6247|Ticket Management | Adjustments made in the ticket approvals.|
+
+Version 8.0.5.0 (2020/01/27)
 ---------------------------
 
 Welcome to CITSmart Version 8.0.5.0. This release has the following

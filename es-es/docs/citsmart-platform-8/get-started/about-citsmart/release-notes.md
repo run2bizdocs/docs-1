@@ -3,6 +3,47 @@ Description: Notas de release, correcciones de errores y mejoras en la CITSmart.
 
 # Notas de Release
 
+## Versión 8.0.5.4 (2020/02/28)
+Bienvenido a Citsmart Versión 8.0.5.4. Esta ver sión presenta las siguientes mejoras:
+
+|Corrección|Corrección/Mejora/Nueva|Funcionalidad|Descripción|
+|--------|---------|---------|---------|
+|Ticket 3599|Corrección|Gestión de Ticket|Al reabrir un Ticket a través del Smart Portal, se puede agregarlo una Nota.|
+|Ticket 3551|Mejora|Gestión de Ticket/Workflow|Se creó la clave de correo electrónico para enviar la fecha y hora de la última ejecución en el flujo.|
+
+## Versión 8.0.5.3 (2020/02/27)
+Bienvenido a Citsmart Versión 8.0.5.3. Esta versión presenta las siguientes mejoras:
+
+|Corrección|Corrección/Mejora/Nueva|Funcionalidad|Descripción|
+|--------|---------|---------|---------|
+|Ticket 3666|Corrección|Gestión de Ticket|Corrección realizada al hacer clic en el icono de Chat a través del widget Mis tickets, en el Centro de Experiencia.|
+|Ticket 3581|Mejora|WebService|Actualizado para crear una instancia a través de WebService en un Ticket.|
+|Ticket 3604|Corrección|Gestión de Eventos|Corrección realizada en el Gestor Genérico Zabixx/Nagios para habilitar la opción de corrección automática.|
+
+## Versión 8.0.5.2 (2020/02/18)
+Bienvenido a Citsmart Versión 8.0.5.2. Esta versión presenta las siguientes mejoras:
+
+|Corrección|Corrección/Mejora/Nueva|Funcionalidad|Descripción|
+|--------|---------|---------|---------|
+|Ticket 3505|Corrección|Tickets|Corrección de elementos de flujo|
+|Ticket 3350|Mejora|Tickets|Optimización del rendimiento en las pantallas de tickets, usuarios y grupos de usuarios.|
+|Ticket 3505|Corrección|Neuro|Corrección de los componentes Neuro|
+
+Paquete(s) lanzado(s) en esta versión:
+
+- [X] CITSmart Neuro 1.3.3.3
+
+## Versión 8.0.5.1 (2020/02/10)
+Bienvenido a Citsmart Versión 8.0.5.1. Esta versión presenta las siguientes mejoras:
+
+|Corrección|Funcionalidad|Descripción|
+|--------|---------|---------|
+|3256|Smart Portal|Se corrigió el parámetro 293 para validar los permisos de grupo en la búsqueda del Smart Portal.|
+|3310|SLA| Se ajustó el comportamiento del sistema al cambiar el SLA en la suspensión y reactivación de Tickets.|
+|3347|Gestión de Ticket | Ajuste realizado en la tabla facto_solicitacaoservico cuando se cierra un ticket a través del servicio web.|
+|6739|WorksPlace| Se ajustó el widget del Workspace para mostrar la información correctamente.|
+|6247|Gestión de Ticket | Ajustes realizados en las aprobaciones de los tickets.|
+
 Versión 8.0.5.0 (2020/01/27)
 ----------------------------
 

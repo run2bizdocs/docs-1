@@ -1,26 +1,37 @@
 title:  Criar calendário
 Description: Disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho. 
+
 # Criar calendário
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir calendários (escalas) de jornadas de trabalho.
+A página de gerenciamento de calendário tem funcionalidades que permitem realizar diversas ações como: incluir, alterar e excluir calendários/escalas de jornada de trabalho 
 
 Antes de começar
 ----------------
 
-Para cadastrar um calendário é necessário o registro prévio do perfil de acesso
-e da jornada de trabalho.
+Para cadastrar um calendário é necessário o registro prévio de um perfil de acesso e um registro da jornada de trabalho.
 
 Procedimento
 ------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Cadastros
-    Gerais \> Gerência de Pessoal \> Calendário;
+1.  Para acessar essa funcionalidade utilize o menu principal Cadastros Gerais > Gerência de Pessoal > Calendário;
 
-2.  Preencher os campos disponibilizados;
+2.  Ao abrir a funcionalidade como padrão abrirá na aba de cadastro de calendário;
 
-3.  Ao clicar no ícone de exceções “+”, será aberta uma janela onde poderão ser
-    inseridas as exceções para dias de folga ou trabalho;
+3.  Inicie a criação do calendário preenchendo os campos disponibilizados da melhor maneira;
 
-4.  Clicar em "Gravar".
+4.  Na parte das exceções clique no ícone exceções “+”, será aberta uma janela onde poderão ser inseridas as exceções para dias de folga ou trabalho;
+
+5. Clique em gravar para que o calendário seja criado;
+
+6. Na aba Pesquisa de Calendário tem uma barra de pesquisa que é utilizada para pesquisar um calendário específico;
+
+7. Clicando em pesquisar será listado todos os calendários existentes;
+
+8. Para editar um calendário apenas selecione o calendário e será direcionado para a aba de cadastro de calendário com todas as informações já preenchidas;
+
+9. Caso necessite excluir o calendário clique no botão excluir;
+
+10. Caso necessite criar outro calendário clique no botão limpar para que todas as informações sejam apagadas;
+
 
 Relacionado
 -----------
@@ -29,7 +40,3 @@ Relacionado
 
 [Cadastrar jornadas de trabalho](/pt-br/citsmart-platform-8/platform-administration/time/create-working-day.html)
 
-!!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
-    <b>Updated:</b>01/21/2019 - Larissa Lourenço

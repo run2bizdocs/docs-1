@@ -84,7 +84,7 @@ Edite o arquivo /etc/mongod.conf e altere as linhas abaixo:
 para
 
 security:
-  authorization: enabled
+  authorization: disabled
 
 ```
 
