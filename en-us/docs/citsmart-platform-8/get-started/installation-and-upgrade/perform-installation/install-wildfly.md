@@ -39,7 +39,7 @@ Create reports folder:
 Change the wildfly folder permissions for the user created above:
 
 ```sh
-[root@server /tmp]# chown -R wildfly.wildfly wildfly-12.0.0.Final/
+[root@server /tmp]# chown -R wildfly.wildfly /opt/wildfly-12.0.0.Final/
 ```
 ## Testing Wildfly
 
