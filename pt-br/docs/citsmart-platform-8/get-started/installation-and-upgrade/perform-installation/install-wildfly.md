@@ -39,7 +39,7 @@ Crie a pasta dos relatórios:
 Altere as permissões da pasta do wildfly para o usuário criado acima:
 
 ```sh
-[root@server /tmp]# chown -R wildfly.wildfly wildfly-12.0.0.Final/
+[root@server /tmp]# chown -R wildfly.wildfly /opt/wildfly-12.0.0.Final/
 ```
 ## Testando o Wildfly
 
