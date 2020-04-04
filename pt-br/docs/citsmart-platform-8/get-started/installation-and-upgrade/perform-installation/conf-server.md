@@ -22,43 +22,43 @@ Em seguida execute os seguintes comandos substituindo o conteúdo das variáveis
 ``` shell
 [standalone@localhost:9990 /] /system-property=mongodb.host:add(value="citmongo")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=mongodb.port:add(value="27017")
+[standalone@localhost:9990 /] /system-property=mongodb.port:add(value="27017")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=mongodb.user:add(value="admin")
+[standalone@localhost:9990 /] /system-property=mongodb.user:add(value="admin")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=mongodb.password:add(value="admin")
+[standalone@localhost:9990 /] /system-property=mongodb.password:add(value="admin")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.protocol:add(value="http")
+[standalone@localhost:9990 /] /system-property=citsmart.protocol:add(value="http")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.host:add(value="my.citsmart.com")
+[standalone@localhost:9990 /] /system-property=citsmart.host:add(value="my.citsmart.com")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.port:add(value="8080")
+[standalone@localhost:9990 /] /system-property=citsmart.port:add(value="8080")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.context:add(value="citsmart")
+[standalone@localhost:9990 /] /system-property=citsmart.context:add(value="citsmart")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.login:add(value="citsmart.local\\\consultor")
+[standalone@localhost:9990 /] /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.password:add(value="senhaConsultor")
+[standalone@localhost:9990 /] /system-property=citsmart.password:add(value="senhaConsultor")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.id:add(value="citsmartinventory")
+[standalone@localhost:9990 /] /system-property=citsmart.inventory.id:add(value="citsmartinventory")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.evm.id:add(value="citsmartevm")
+[standalone@localhost:9990 /] /system-property=citsmart.evm.id:add(value="citsmartevm")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.evm.enable:add(value=true)
+[standalone@localhost:9990 /] /system-property=citsmart.evm.enable:add(value=true)
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.enable:add(value=true)
+[standalone@localhost:9990 /] /system-property=citsmart.inventory.enable:add(value=true)
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.port.updateparameters:add(value="9000")
+[standalone@localhost:9990 /] /system-property=citsmart.port.updateparameters:add(value="9000")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.pagelength:add(value="100")
+[standalone@localhost:9990 /] /system-property=citsmart.inventory.pagelength:add(value="100")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=rhino.scripts.directory:add(value="")
+[standalone@localhost:9990 /] /system-property=rhino.scripts.directory:add(value="")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=jboss.as.management.blocking.timeout:add(value="600")
+[standalone@localhost:9990 /] /system-property=jboss.as.management.blocking.timeout:add(value="600")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+[standalone@localhost:9990 /] /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
+[standalone@localhost:9990 /] /system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 {"outcome" => "success"}
 ```
 
@@ -116,7 +116,7 @@ E edite o arquivo stantalone-full.xml e inclua a configuração XML do CITSmart 
  Após realizada as configurações, reinicie o serviço para efetivar as mudanças:
 
  ``` shell
- [root@server /tmp]# systemctl status wildfly
+ [root@server /tmp]# systemctl restart wildfly
  ```
 
 ## Próximo passo
