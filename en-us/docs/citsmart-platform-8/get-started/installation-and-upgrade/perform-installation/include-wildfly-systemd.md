@@ -44,7 +44,7 @@ Copy the wildfly unit to the systemd directory:
 [root@server /tmp]# cp /opt/wildfly/docs/contrib/scripts/systemd/wildfly.service /etc/systemd/system/
 ```
 
-Edit the systemd wildfly file present in `/etc/systemd/system/wildfly.service` and add the following content:
+Edit the systemd wildfly file present in `/etc/systemd/system/wildfly.service` and remove origal data and last add the following content:
 
 ``` shell
 [Unit]
