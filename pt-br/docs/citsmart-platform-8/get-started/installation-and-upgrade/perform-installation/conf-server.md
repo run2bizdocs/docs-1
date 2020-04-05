@@ -13,53 +13,70 @@ As configurações do servidor de aplicação podem ser feitas de duas formas: v
 Conecte-se ao jboss-cli (considerando-se que o servidor esteja rodando) executando o comando abaixo:
 
 ``` shell
-[root@server /tmp]# /opt/wildfly/bin/jboss-cli.sh --connect
-[standalone@localhost:9990 /]
+/opt/wildfly/bin/jboss-cli.sh --connect
 ```
 
-Em seguida execute os seguintes comandos substituindo o conteúdo das variáveis pela configuração do seu ambiente.
+Em seguida execute os seguintes comandos substituindo o conteúdo das variáveis pela configuração do seu ambiente. Você deverá ter como resposta `{"outcome" => "success"}`
 
 ``` shell
-[standalone@localhost:9990 /] /system-property=mongodb.host:add(value="citmongo")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=mongodb.port:add(value="27017")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=mongodb.user:add(value="admin")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=mongodb.password:add(value="admin")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.protocol:add(value="http")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.host:add(value="my.citsmart.com")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.port:add(value="8080")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.context:add(value="citsmart")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.password:add(value="senhaConsultor")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.inventory.id:add(value="citsmartinventory")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.evm.id:add(value="citsmartevm")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.evm.enable:add(value=true)
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.inventory.enable:add(value=true)
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.port.updateparameters:add(value="9000")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=citsmart.inventory.pagelength:add(value="100")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=rhino.scripts.directory:add(value="")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=jboss.as.management.blocking.timeout:add(value="600")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
-{"outcome" => "success"}
-[standalone@localhost:9990 /] /system-property=snmp.oid.repository.directory:add(value="/opt/templates")
-{"outcome" => "success"}
+/system-property=mongodb.host:add(value="citmongo")
+```
+``` shell
+/system-property=mongodb.port:add(value="27017")
+```
+``` shell
+/system-property=mongodb.user:add(value="admin")
+```
+``` shell
+/system-property=mongodb.password:add(value="admin")
+```
+``` shell
+/system-property=citsmart.protocol:add(value="http")
+```
+``` shell
+/system-property=citsmart.host:add(value="my.citsmart.com")
+```
+``` shell
+/system-property=citsmart.port:add(value="8080")
+```
+``` shell
+/system-property=citsmart.context:add(value="citsmart")
+```
+``` shell
+/system-property=citsmart.login:add(value="citsmart.local\\\consultor")
+```
+``` shell
+/system-property=citsmart.password:add(value="senhaConsultor")
+```
+``` shell
+/system-property=citsmart.inventory.id:add(value="citsmartinventory")
+```
+``` shell
+/system-property=citsmart.evm.id:add(value="citsmartevm")
+```
+``` shell
+/system-property=citsmart.evm.enable:add(value=true)
+```
+``` shell
+/system-property=citsmart.inventory.enable:add(value=true)
+```
+``` shell
+/system-property=citsmart.port.updateparameters:add(value="9000")
+```
+``` shell
+/system-property=citsmart.inventory.pagelength:add(value="100")
+```
+``` shell
+/system-property=rhino.scripts.directory:add(value="")
+```
+``` shell
+/system-property=jboss.as.management.blocking.timeout:add(value="600")
+```
+``` shell
+/system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
+```
+``` shell
+/system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
 Após as configurações, para sair do CLI digite `quit`
