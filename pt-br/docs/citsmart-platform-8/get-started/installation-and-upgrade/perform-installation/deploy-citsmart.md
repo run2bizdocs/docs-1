@@ -11,13 +11,13 @@ Faça o download do pacote WAR do CITSmart e do Neuro no portal do parceiro. Env
 Descomprima o pacote do CITSmart Workflow caso esrteja no formato .zip:
 
 ``` shell
-[root@server /tmp]# unzip CitsmartITSM-Enterprise-8.0.2.0.war.zip
+unzip CitsmartITSM-Enterprise-8.0.2.0.war.zip
 ```
 
 Copie para o servidor de aplicação na pasta `standalone/deployments`:
 
 ``` shell
-[root@server /tmp]# cp CitsmartITSM-Enterprise-8.0.2.0.war /opt/wildfly/standalone/deployments/
+cp CitsmartITSM-Enterprise-8.0.2.0.war /opt/wildfly/standalone/deployments/
 ```
 Observe o log `/opt/wildfly/standalone/log/server.log` com a opção `tail -f` até que a mensagem abaixo apareça:
 
