@@ -33,6 +33,10 @@ Abaixo o comando para se gerar um certificado SSL para uma entrada de DNS chamad
 
 Quando o comando for executado, será realizada uma série de perguntas, no qual poderá ser respondidas ou não (o preenchimento é opcional). Caso não queira preencher as informações, digite [enter] para todas, com exceção da última que precisará ser respondido `yes.
 
+```sh
+/opt/jdk/bin/keytool -genkey -alias CITSmartV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass password123456
+```
+Saída:
 ``` shell
 
 [root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias CITSmartV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass password123456
@@ -108,6 +112,11 @@ The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS
 
 O próximo passo é a geração do arquivo de certificado `.cer`. Para gerar o arquivo, execute o comando abaixo substituindo os valores (como nome do keystore e tempo) de acordo com keystore gerado nos comandos anteriores. No momento que executar o comando, será solicitada a senha gerada nos passos anteriores.
 
+```sh
+/opt/jdk/bin/keytool -export -alias CITSmartV1 -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -validity 365 -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
+```
+Saída:
+
 ```shell
 
 [root@server /tmp]# /opt/jdk/bin/keytool -export -alias CITSmartV1 -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -validity 365 -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
@@ -120,6 +129,12 @@ The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS
 ```
 
 Agora é necessário importar o arquivo `.cer` para o cacerts do Java. Execute o comando abaixo para realizar a importação. No momento que executar o comando, será solicitada a senha do cacerts (a senha padrão do aplicativo Java caso não tenha alterado é `changeit`). Altere os nome dos arquivos de acordo com o que que fora gerado anteriormente. No final do comando responda `[yes]` para prosseguir.
+
+```sh
+/opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "CITSmartV1" -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
+```
+
+Saída:
 
 ``` shell
 [root@server /tmp]# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "CITSmartV1" -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
@@ -160,8 +175,7 @@ Certificate was added to keystore
 Para finalizar, qualquer que tenha sido a forma escolhida, mude o proprietário do keystore para o wildfly, substituindo o exemplo abaixo pelo nome do seu certificado caso tenha alterado:
 
 ```shell
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/CITSmartV1.keystore
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/CITSmartV1.cer
+chown wildfly.wildfly /opt/wildfly/standalone/configuration/CITSmartV1.*
 ```
 
 ### Gerando o keystore com certificado válido
@@ -174,7 +188,7 @@ Caso você tenha um certificado válido, com uma cadeia de certificação válid
 
 
 ```shell
-[root@server /tmp]# /opt/jdk/bin/keytool -importkeystore -srckeystore CERTIFICADO.p12 -srcstoretype PKCS12 -alias "ALIAS_CERT" -destkeystore CERTIFICADO.jks -deststoretype JKS
+/opt/jdk/bin/keytool -importkeystore -srckeystore CERTIFICADO.p12 -srcstoretype PKCS12 -alias "ALIAS_CERT" -destkeystore CERTIFICADO.jks -deststoretype JKS
 ```
 
 Uma vez gerado o arquivo do keystore, é necessário importá-lo para o cacerts (mesmo procedimento de importação utilizado na geração do certificado auto assinado)
