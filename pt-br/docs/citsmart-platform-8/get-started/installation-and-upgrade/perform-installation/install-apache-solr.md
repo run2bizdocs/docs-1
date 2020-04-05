@@ -19,7 +19,7 @@ tar -xvf solr-6.4.2.tgz solr-6.4.2/bin/install_solr_service.sh --strip-component
 Execute o script de instalação da seguinte forma:
 
 ``` shell
-[root@server /tmp]# ./install_solr_service.sh solr-6.4.2.tgz
+./install_solr_service.sh solr-6.4.2.tgz
 ```
 
 ``` shell
