@@ -9,18 +9,20 @@ A versão homologada do Apache Solr para o CITSmart é a 6.4.2. O download do pa
 Faça o download do pacote para o /tmp do servidor
 
 ``` shell
-[root@server /tmp]# https://archive.apache.org/dist/lucene/solr/6.4.2/solr-6.4.2.tgz
+wget https://archive.apache.org/dist/lucene/solr/6.4.2/solr-6.4.2.tgz
 ```
 Extraia o script de instalação com comando abaixo:
 
 ``` shell
-[root@server /tmp]# tar -xvf solr-6.4.2.tgz solr-6.4.2/bin/install_solr_service.sh --strip-components=2
-solr-6.4.2/bin/install_solr_service.sh
+tar -xvf solr-6.4.2.tgz solr-6.4.2/bin/install_solr_service.sh --strip-components=2
 ```
 Execute o script de instalação da seguinte forma:
 
 ``` shell
 [root@server /tmp]# ./install_solr_service.sh solr-6.4.2.tgz
+```
+
+``` shell
 id: solr: no such user
 Creating new user: solr
 
@@ -56,18 +58,19 @@ Solr process 23010 running on port 8983
 Importe as configurações do CITSmart para o SOLR. Para isso, envie via scp  para o servidor o arquivo base_conhecimento_configs.zip que foi feito download da área de parceiros. Supondo que o arquivo esteja no `/tmp`, e que você tenha o unzip, execute o comando abaixo:
 
 ``` shell
-[root@server /tmp]# unzip base_conhecimento_configs.zip -d /opt/solr-6.4.2/
+unzip base_conhecimento_configs.zip -d /opt/solr-6.4.2/
 ```
 Faça login com usupário do SOLR:
 
 ``` shell
-[root@server /tmp]# su - solr -s /bin/bash
+su - solr -s /bin/bash
 ```
 E execute o comando abaixo:
 
 ``` shell
-[root@server /tmp]# /opt/solr/bin/solr create -c base_conhecimento -d /opt/solr/base_conhecimento_configs -s 2 -rf 2
-
+/opt/solr/bin/solr create -c base_conhecimento -d /opt/solr/base_conhecimento_configs -s 2 -rf 2
+```
+``` shell
 Copying configuration to new core instance directory:
 /var/solr/data/base_conhecimento
 
