@@ -121,6 +121,8 @@ roles:[
 ]
 })
 ```
+
+A seguinte saída deverá aparecer:
 ```shell
 Successfully added user: {
         "user" : "admin",
