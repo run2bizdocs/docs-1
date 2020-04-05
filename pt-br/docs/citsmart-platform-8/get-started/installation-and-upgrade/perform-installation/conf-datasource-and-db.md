@@ -31,6 +31,14 @@ Continue no CLI e execute o comando abaixo para incluir um datasource:
 Independente da arquitetura do banco (se instalado no nesmo servidor ou separado) os passos abaixo servem para se criar um banco de dados e um usuário para o CITSmart. No procedimento partimos do pressuposto que você tenha acesso ao SGBD. Acesse o PostgreSQL com comando abaixo:
 
 ```sh
+su - postgres
+```
+Logo depois,
+```sh
+psql
+```
+Abaixo o retorno dos comandos:
+```sh
 [root@server /tmp]#  su - postgres
 bash-4.2$
 bash-4.2$ psql
@@ -42,19 +50,29 @@ postgres=#
 Crie um usuário e senha para acesso ao banco do CITSmart (substitua a SUA_SENHA com uma senha de preferência):
 
 ```sh
+create user citsmartdbuser with password 'SUA_SENHA';
+```
+Abaixo o retorno do comando:
+```sh
 postgres=# create user citsmartdbuser with password 'SUA_SENHA';
 CREATE ROLE
 postgres=#
 ```
 Crie um banco de dados para o CITSmart:
-
+```sh
+create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
+```
+Abaixo o retorno do comando:
 ```sh
 postgres=# create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
 CREATE DATABASE
 postgres=#
 ```
 Dê permissão para o usuário do CITSmart:
-
+```sh
+alter role citsmartdbuser superuser;
+```
+Abaixo o retorno do comando:
 ```sh
 postgres=# alter role citsmartdbuser superuser;
 ALTER ROLE
@@ -62,7 +80,10 @@ postgres=#
 ```
 
 Saia do PSQL e do shell do usuário postgres:
-
+```sh
+\q
+```
+Conforme abaixo:
 ```sh
 postgres=# \q
 bash-4.2$ exit
