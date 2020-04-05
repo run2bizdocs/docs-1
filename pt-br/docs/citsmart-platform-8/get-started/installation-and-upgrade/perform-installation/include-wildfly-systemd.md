@@ -7,12 +7,12 @@ Para que o wildfly inicie automaticamente, é necessário configurá-lo para o s
 Crie o diretório que irá armazenar as informações do wildfly:
 
 ``` shell
-[root@server /tmp]# mkdir -p /etc/wildfly
+mkdir -p /etc/wildfly
 ```
 Copie o modelo de arquivo de configuração padrão que vem com o pacote do wildfly:
 
 ``` shell
-[root@server /tmp]# cp /opt/wildfly/docs/contrib/scripts/systemd/wildfly.conf /etc/wildfly/
+cp /opt/wildfly/docs/contrib/scripts/systemd/wildfly.conf /etc/wildfly/
 ```
 Edite o arquivo `/etc/wildfly/wildfly.conf` e altere a variável:
 
@@ -31,17 +31,17 @@ WILDFLY_CONFIG=standalone-full.xml
 Em seguida, copie o script de inicialização para o diretório `/bin` do wildfly:
 
 ``` shell
-[root@server /tmp]# cp /opt/wildfly/docs/contrib/scripts/systemd/launch.sh /opt/wildfly/bin/
+cp /opt/wildfly/docs/contrib/scripts/systemd/launch.sh /opt/wildfly/bin/
 ```
 Dê permissão de execução para os scripts deste mesmo caminho:
 
 ``` shell
-[root@server /tmp]# bash -c 'chmod +x /opt/wildfly/bin/*.sh'
+bash -c 'chmod +x /opt/wildfly/bin/*.sh'
 ```
 Copie a unit do wildfly para o diretório do systemd:
 
 ``` shell
-[root@server /tmp]# cp /opt/wildfly/docs/contrib/scripts/systemd/wildfly.service /etc/systemd/system/
+cp /opt/wildfly/docs/contrib/scripts/systemd/wildfly.service /etc/systemd/system/
 ```
 
 Edite o arquivo do wildfly do sistemd presente em `/etc/systemd/system/wildfly.service` remova o conteúdo original e inclua o seguinte conteúdo:
@@ -68,16 +68,16 @@ WantedBy=multi-user.target
 Reinicie o daemon do sytemd e inicie o serviço:
 
 ``` shell
-[root@server /tmp]# sudo systemctl daemon-reload
+sudo systemctl daemon-reload
 ```
 
 ``` shell
-[root@server /tmp]# systemctl enable wildfly
+systemctl enable wildfly
 ```
 Inicie o wildfly para realizar o teste:
 
 ``` shell
-[root@server /tmp]# systemctl start wildfly
+systemctl start wildfly
 ```
 
 Para verificar se o serviço está rodando, execute o comando abaixo:
