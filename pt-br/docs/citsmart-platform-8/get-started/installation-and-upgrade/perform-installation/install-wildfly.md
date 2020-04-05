@@ -3,50 +3,54 @@
 O download do wildfly pode ser realizado diretamente do site da comunidade em sua área de downloads em https://wildfly.org/downloads/. A versão deverá ser a mesma sugerida pela documentação em [Requisitos do sistema][1]. Neste caso, deverá ser feito o download do pacote tgz `Java EE Full & Web Distribution`.
 
 ```sh
-[root@server /tmp]# cd /tmp
-[root@server /tmp]# wget https://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
+cd /tmp
+```
+```sh
+wget https://download.jboss.org/wildfly/12.0.0.Final/wildfly-12.0.0.Final.tar.gz
 ```
 Descomprima o pacote para o `/opt`:
 
 ```sh
-[root@server /tmp]# tar -xvzf wildfly-12.0.0.Final.tar.gz -C /opt/
+tar -xvzf wildfly-12.0.0.Final.tar.gz -C /opt/
 ```
 Crie um link simbólico para o wildfly versão 12. Isso visa facilitar administrações futuras:
 
 ```sh
-[root@server /tmp]# ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
+ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
 ```
 
 Envie via scp e descomprima o arquivo assets disponibilizada pela CITSmart dentro do diretório do wildfly. Essa pasta é necessária para funcionamento da solução, e é disponibilizada para parceiros através de nosso portal de parceria juntamente com os pacotes de instalação:
 
 ```sh
-[root@server /tmp]# tar -xzvf assets.tar.gz -C /opt/wildfly/
+tar -xzvf assets.tar.gz -C /opt/wildfly/
 ```
 
 Crie um usuário e grupo para o wildfly:
 
 ```sh
-[root@server /tmp]# groupadd -r wildfly
-[root@server /tmp]# useradd -r -g wildfly -d /opt/wildfly -s /sbin/nologin wildfly
+groupadd -r wildfly
+```
+```sh
+useradd -r -g wildfly -d /opt/wildfly -s /sbin/nologin wildfly
 ```
 
 Crie a pasta dos relatórios:
 
 ```sh
-[root@server /tmp]# mkdir /opt/wildfly/reports
+mkdir /opt/wildfly/reports
 ```
 
 Altere as permissões da pasta do wildfly para o usuário criado acima:
 
 ```sh
-[root@server /tmp]# chown -R wildfly.wildfly /opt/wildfly-12.0.0.Final/
+chown -R wildfly.wildfly /opt/wildfly-12.0.0.Final/
 ```
 ## Testando o Wildfly
 
 A partir desta etapa, podemos realizar um teste para identificar se o Wildfly está funcionando corretamente. Faça um login com usuário do wildfly com comando abaixo:
 
 ```sh
-[root@server /tmp]# su - wildfly -s /bin/bash
+su - wildfly -s /bin/bash
 ```
 
 E verifique se o PATH do java está funcionando corretamente:
@@ -62,7 +66,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
 Suba o serviço com comando abaixo:
 
 ```sh
--bash-4.2$ ~/bin/standalone.sh
+~/bin/standalone.sh
 ```
 
 Acompanhe as mensagens de inicialização. Caso o servidor tenha iniciado corretamente, será exibida uma mensagem semelhante a essa abaixo:
