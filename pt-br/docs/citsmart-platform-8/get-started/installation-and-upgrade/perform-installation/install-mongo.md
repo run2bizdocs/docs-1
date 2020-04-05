@@ -15,7 +15,9 @@ enabled=1
 Em seguida, instale o mongo:
 
 ``` shell
-[root@server /tmp]# yum install mongodb-org
+yum install mongodb-org
+```
+``` shell
 Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
 210 packages excluded due to repository priority protections
 Resolving Dependencies
@@ -56,10 +58,12 @@ Is this ok [y/d/N]:
 ```
 
 Coloque o mongo no serviço de inicialização e inicie o serviço
+
 ``` shell
-[root@server /tmp]# systemctl enable mongod
 systemctl enable mongod
-[root@server /tmp]# systemctl start mongod
+```
+``` shell
+systemctl start mongod
 ```
 
 ## Alterando os limites do MongoDB
@@ -91,7 +95,7 @@ security:
 Reinicie o serviço do mongo:
 
 ``` shell
-[root@server /tmp]# systemctl restart mongod
+systemctl restart mongod
 ```
 Conecte no mongodb para criar o banco de dados do CITSmart e configurar a senha de admin:
 ``` shell
