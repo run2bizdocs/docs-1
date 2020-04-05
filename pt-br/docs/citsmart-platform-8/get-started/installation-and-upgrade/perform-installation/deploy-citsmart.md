@@ -39,7 +39,13 @@ Observe o log `/opt/wildfly/standalone/log/server.log` com a opção `tail -f` a
 
 ## Acessando o CITSmart pela primeira vez
 
-Após a realização do deploy, acesse o CITSmart através do URL: se foi configurado um domínio, acesse pelo caminho https://DOMINIO/citsmart, caso tenha feito a configuração via IP, acesse https://ENDERECO_IP/citsmart.
+Após a realização do deploy, acesse o CITSmart através do URL: se foi configurado um domínio, acesse pelo caminho https://DOMINIO:PORTA/citsmart, caso tenha feito a configuração via IP, acesse https://ENDERECO_IP:PORTA/citsmart.
+
+Exemplo:
+
+```sh
+https://192.168.0.100:8080/citsmart
+```
 
 !!! info "Navegadores Suportados"
     Para o bom funcionamento do sistema, você deverá utilizar as seguintes versões mínimas dos principais browsers: **Microsoft EDGE** (Edge 42.17134.0 / Microsoft EdgeHTML 17.17134 ou superior); **Google Chrome** (versão versão 76.0.3809.132 ou superior); **Mozila Firefox** (versão 69.0 ou superior).
