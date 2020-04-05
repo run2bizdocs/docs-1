@@ -187,7 +187,7 @@ Conecte no jboss-cli e execute os seguintes comandos:
 Antes de sair do jboss-cli, execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados:
 
 ```sh
-[standalone@localhost:9990 /]: reload
+reload
 ```
 E faça um teste de conexão com o banco usando os comandos abaixo. Lembrando que o resultado precisa ser `"outcome" => "success"`:
 
