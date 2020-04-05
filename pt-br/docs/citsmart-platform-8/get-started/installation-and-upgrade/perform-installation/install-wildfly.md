@@ -58,6 +58,7 @@ E verifique se o PATH do java está funcionando corretamente:
 ```sh
 java -version
 ```
+A saída deverá ser semelhante a esta:
 ```sh
 java version "1.8.0_231"
 Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
