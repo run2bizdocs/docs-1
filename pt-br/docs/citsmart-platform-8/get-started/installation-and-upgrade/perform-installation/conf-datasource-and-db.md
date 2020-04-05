@@ -190,17 +190,13 @@ Antes de sair do jboss-cli, execute o comando reload para aplicar as alteraçõe
 ```sh
 [standalone@localhost:9990 /]: reload
 ```
-E faça um teste de conexão com todos os bancos com os comandos abaixo. Lembrando que o resultado precisa ser `"outcome" => "success"`:
+E faça um teste de conexão com o banco usando os comandos abaixo. Lembrando que o resultado precisa ser `"outcome" => "success"`:
 
 ``` sh
 /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmartFluxo":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmart_reports":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app1":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app2":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app3":test-connection-in-pool
 ```
 
 ## Próximo passo
