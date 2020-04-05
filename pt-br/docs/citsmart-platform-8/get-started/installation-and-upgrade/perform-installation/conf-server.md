@@ -90,7 +90,7 @@ Após as configurações, para sair do CLI digite `quit`
 Para editar o arquivo XML utilizado pelo wildfly na mão, entre no diretório:
 
 ``` shell
-[root@server /tmp]# /opt/wildfly/standalone/configuration
+cd /opt/wildfly/standalone/configuration
 ```
 E edite o arquivo stantalone-full.xml e inclua a configuração XML do CITSmart logo após a clausula abaixo:
 
@@ -132,9 +132,9 @@ E edite o arquivo stantalone-full.xml e inclua a configuração XML do CITSmart 
 
  Após realizada as configurações, reinicie o serviço para efetivar as mudanças:
 
- ``` shell
- [root@server /tmp]# systemctl restart wildfly
- ```
+``` shell
+systemctl restart wildfly
+```
 
 ## Próximo passo
 
