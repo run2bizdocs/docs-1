@@ -15,18 +15,18 @@ Faça o download do jdk para máquina local e envie para o servidor via scp. Par
 Supondo que o arquivo esteja no `/tmp` execute os comandos abaixo para descompactação:
 
 ``` shell
-[root@server /tmp]# tar -xvzf jdk-8u231-linux-x64.tar.gz -C /opt/
+tar -xvzf jdk-8u231-linux-x64.tar.gz -C /opt/
 ```
 Crie um link simbólico para pasta do jdk na respectiva versão que foi feito o download. Isso facilita futuras atualizações e testes com outras versões.
 
 ``` shell
-[root@server /tmp]# ln -s /opt/jdk1.8.0_231 /opt/jdk
+ln -s /opt/jdk1.8.0_231 /opt/jdk
 ```
 
 Crie o arquivo de configuração do java em /etc/profile.d/ chamado java.sh. Embora o servidor web tenha suas próprias configurações de java, esta etapa previne que outras aplicações que funcionem com java dê algum tipo de problema.
 
 ``` shell
-[root@server /tmp]# vi /etc/profile.d/java.sh
+vi /etc/profile.d/java.sh
 ```
 
 e adicione o seguinte conteúdo (o Wildfly será instalado mais adiante):
