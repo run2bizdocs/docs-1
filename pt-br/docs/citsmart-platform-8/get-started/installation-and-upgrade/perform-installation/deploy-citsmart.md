@@ -28,7 +28,7 @@ Observe o log `/opt/wildfly/standalone/log/server.log` com a opção `tail -f` a
 A mensagem acima confirma que o deploy foi realizado. O mesmo se aplica ao pacote do Neuro. Copie o neuro para pasta `standalone/deployments`:
 
 ``` shell
-[root@server /tmp]# cp citsmart-neuro-web-1.3.2.1.war /opt/wildfly/standalone/deployments/
+cp citsmart-neuro-web-1.3.2.1.war /opt/wildfly/standalone/deployments/
 ```
 
 Observe o log `/opt/wildfly/standalone/log/server.log` com a opção `tail -f` até que a mensagem abaixo apareça:
