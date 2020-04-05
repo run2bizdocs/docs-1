@@ -83,6 +83,10 @@ Saia do PSQL e do shell do usuário postgres:
 ```sh
 \q
 ```
+Logo após,
+```sh
+exit
+```
 Conforme abaixo:
 ```sh
 postgres=# \q
