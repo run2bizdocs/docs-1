@@ -20,7 +20,7 @@ INICIAR_PROCESSAMENTOS_BATCH=TRUE
 Dê permissão para o usuário do wildfly para este arquivo:
 
 ``` shell
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/citsmart.cfg
+chown wildfly.wildfly /opt/wildfly/standalone/configuration/citsmart.cfg
 ```
 
 !!! note
@@ -149,10 +149,11 @@ org.quartz.jobStore.clusterCheckinInterval = 20000
 Crie todos os diretórios abaixo necessários para funcionamento da solução. Lembre-se que o dono dos diretórios precisa ser o usuário wildfly.
 
 ``` shell
+mkdir -p /opt/citsmart/{ged,kb,twinwords,attachkb,upload}
+```
 
-[root@server /tmp]# mkdir -p /opt/citsmart/{ged,kb,twinwords,attachkb,upload}
-[root@server /tmp]# chown -R wildfly.wildfly /opt/citsmart/
-
+``` shell
+chown -R wildfly.wildfly /opt/citsmart/
 ```
 
 ## Próximo passo
