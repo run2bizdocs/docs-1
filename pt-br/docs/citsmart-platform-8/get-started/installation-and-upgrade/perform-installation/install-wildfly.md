@@ -56,7 +56,9 @@ su - wildfly -s /bin/bash
 E verifique se o PATH do java está funcionando corretamente:
 
 ```sh
--bash-4.2$ java -version
+java -version
+```
+```sh
 java version "1.8.0_231"
 Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
