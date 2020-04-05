@@ -112,7 +112,7 @@ Execute o comando abaixo para criar o usuário e dar permissão:
 use admin
 db.createUser({
 user: "admin",
-pwd: "yourpassword",
+pwd: "admin",
 roles:[
 { role: "root", db: "admin" },
 { role: "dbOwner", db: "citsmart" }
