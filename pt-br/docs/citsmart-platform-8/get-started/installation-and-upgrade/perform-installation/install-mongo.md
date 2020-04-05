@@ -109,8 +109,7 @@ MongoDB server version: 3.4.23
 Execute o comando abaixo para criar o usuário e dar permissão:
 
 ```shell
-
-> use admin
+use admin
 db.createUser({
 user: "admin",
 pwd: "yourpassword",
@@ -119,6 +118,8 @@ roles:[
 { role: "dbOwner", db: "citsmart" }
 ]
 })
+```
+```shell
 Successfully added user: {
         "user" : "admin",
         "roles" : [
@@ -132,7 +133,6 @@ Successfully added user: {
                 }
         ]
 }
-
 ```
 
 ## Próximo passo
