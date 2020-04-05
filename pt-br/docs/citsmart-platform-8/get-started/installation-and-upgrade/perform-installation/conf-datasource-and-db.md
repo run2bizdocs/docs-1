@@ -9,13 +9,13 @@ No exemplo abaixo usaremos o driver do PostgreSQL. Cada banco de dados possui se
 O download do driver JDBC do PostgreSQL pode ser encontrado no endereço https://jdbc.postgresql.org no link downloads. A versão do driver utilizado pela CITSmart é a 4.1 build 9.3 Build 1104.
 
 ```sh
-[root@server /tmp]# wget https://jdbc.postgresql.org/download/postgresql-9.3-1104.jdbc41.jar
+wget https://jdbc.postgresql.org/download/postgresql-9.3-1104.jdbc41.jar
 ```
 
 Acesse novamente o jboss-cli para adicionar o driver com comando abaixo (considerando que você tenha feito o download para pasta `/tmp`):
 
 ```sh
-[standalone@localhost:9990 /] module add --name=org.postgres --resources=/tmp/postgresql-9.3-1104.jdbc41.jar --dependencies=javax.api,javax.transaction.api
+module add --name=org.postgres --resources=/tmp/postgresql-9.3-1104.jdbc41.jar --dependencies=javax.api,javax.transaction.api
 ```
 
 Com esse comando, o driver será adicionado automaticamente a pasta `/opt/wildfly-12.0.0.Final/modules/org/postgres/main/`
@@ -23,7 +23,7 @@ Com esse comando, o driver será adicionado automaticamente a pasta `/opt/wildfl
 Continue no CLI e execute o comando abaixo para incluir um datasource:
 
 ```sh
-[standalone@localhost:9990 /] /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
+/subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
 ```
 
 ## Criando o banco de dados do CITSmart
@@ -84,7 +84,6 @@ Se o banco de dados estiver rodando em outro servidor é necessário liberar a c
 
 ```sh
 host citsmart_db citsmartdbuser WILDFLY_IP_ADDRESS/32 md5
-
 ```
 
 ## Configurando o datasource para o citsmart
@@ -194,12 +193,26 @@ E faça um teste de conexão com o banco usando os comandos abaixo. Lembrando qu
 
 ``` sh
 /subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/jdbc/citsmartFluxo":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/jdbc/citsmart_reports":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":test-connection-in-pool
+```
+``` sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":test-connection-in-pool
 ```
 
