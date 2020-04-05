@@ -197,6 +197,10 @@ E faça um teste de conexão com o banco usando os comandos abaixo. Lembrando qu
 /subsystem=datasources/data-source="/jdbc/citsmartFluxo":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmart_reports":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":test-connection-in-pool
+/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":test-connection-in-pool
+/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":test-connection-in-pool
+/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":test-connection-in-pool
+/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":test-connection-in-pool
 ```
 
 ## Próximo passo
