@@ -99,7 +99,9 @@ systemctl restart mongod
 ```
 Conecte no mongodb para criar o banco de dados do CITSmart e configurar a senha de admin:
 ``` shell
-[root@server /tmp]# mongo
+mongo
+```
+``` shell
 MongoDB shell version v3.4.23
 connecting to: mongodb://127.0.0.1:27017
 MongoDB server version: 3.4.23
