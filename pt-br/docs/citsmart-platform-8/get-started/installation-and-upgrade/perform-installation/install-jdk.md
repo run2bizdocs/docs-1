@@ -49,7 +49,6 @@ A saída deverá ser semelhante a esta:
 java version "1.8.0_231"
 Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
-[root@server /tmp]#
 ```
 
 ## Próximo passo
