@@ -249,7 +249,7 @@ Conecte no jboss-cli e execute os seguintes comandos:
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
-Se você errar na criação de algum datasource, use o comando `remove` para removê-lo e inicie novamente a criação:
+Caso ocorra algum erro na criação de algum datasource, use o comando `remove` para removê-lo e inicie novamente a criação:
 
 Exemplo, no caso abaixo iremos remover o datasource citsmart
 
