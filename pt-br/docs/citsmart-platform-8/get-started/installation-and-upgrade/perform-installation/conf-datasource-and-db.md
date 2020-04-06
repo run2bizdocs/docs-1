@@ -296,4 +296,4 @@ E faça um teste de conexão com o banco usando os comandos abaixo. Lembrando qu
 [Configurando o Wildfly][1]
 
 [1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html
-[2]:/https://www.postgresql.org/download/linux/redhat/
+[2]:https://www.postgresql.org/download/linux/redhat/
