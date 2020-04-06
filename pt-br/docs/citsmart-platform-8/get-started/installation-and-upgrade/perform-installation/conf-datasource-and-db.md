@@ -28,7 +28,7 @@ Continue no CLI e execute o comando abaixo para incluir um datasource:
 
 ## Criando o banco de dados do CITSmart
 
-Independente da arquitetura do banco (se instalado no nesmo servidor ou separado) os passos abaixo servem para se criar um banco de dados e um usuário para o CITSmart. No procedimento partimos do pressuposto que você tenha acesso ao SGBD. Caso não tenha o SGBD instalado, consulte informações neste sobre o procedimento de instalação clicando [neste link][2].
+Independente da arquitetura do banco (se instalado no nesmo servidor ou separado) os passos abaixo servem para se criar um banco de dados e um usuário para o CITSmart. No procedimento partimos do pressuposto que você tenha acesso ao SGBD. Caso não tenha o SGBD instalado, consulte informações sobre o procedimento de instalação diretamente na página [https://www.postgresql.org/download/linux/redhat/][2].
 
 Acesse o PostgreSQL com comando abaixo:
 
