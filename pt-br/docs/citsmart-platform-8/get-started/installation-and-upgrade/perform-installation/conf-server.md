@@ -20,62 +20,43 @@ Em seguida execute os seguintes comandos substituindo o conteúdo das variáveis
 
 ``` shell
 /system-property=mongodb.host:add(value="citmongo")
-```
-``` shell
+
 /system-property=mongodb.port:add(value="27017")
-```
-``` shell
+
 /system-property=mongodb.user:add(value="admin")
-```
-``` shell
+
 /system-property=mongodb.password:add(value="admin")
-```
-``` shell
+
 /system-property=citsmart.protocol:add(value="http")
-```
-``` shell
+
 /system-property=citsmart.host:add(value="my.citsmart.com")
-```
-``` shell
+
 /system-property=citsmart.port:add(value="8080")
-```
-``` shell
+
 /system-property=citsmart.context:add(value="citsmart")
-```
-``` shell
+
 /system-property=citsmart.login:add(value="citsmart.local\\\consultor")
-```
-``` shell
+
 /system-property=citsmart.password:add(value="senhaConsultor")
-```
-``` shell
+
 /system-property=citsmart.inventory.id:add(value="citsmartinventory")
-```
-``` shell
+
 /system-property=citsmart.evm.id:add(value="citsmartevm")
-```
-``` shell
+
 /system-property=citsmart.evm.enable:add(value=true)
-```
-``` shell
+
 /system-property=citsmart.inventory.enable:add(value=true)
-```
-``` shell
+
 /system-property=citsmart.port.updateparameters:add(value="9000")
-```
-``` shell
+
 /system-property=citsmart.inventory.pagelength:add(value="100")
-```
-``` shell
+
 /system-property=rhino.scripts.directory:add(value="")
-```
-``` shell
+
 /system-property=jboss.as.management.blocking.timeout:add(value="600")
-```
-``` shell
+
 /system-property=org.quartz.properties:add(value="$\{jboss.server.config.dir\}/quartz.properties")
-```
-``` shell
+
 /system-property=snmp.oid.repository.directory:add(value="/opt/templates")
 ```
 
