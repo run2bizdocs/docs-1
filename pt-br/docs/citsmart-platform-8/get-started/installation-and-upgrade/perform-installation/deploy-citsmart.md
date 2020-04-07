@@ -44,12 +44,12 @@ Após a realização do deploy, acesse o CITSmart através do URL: se foi config
 Exemplo:
 
 ```sh
-https://192.168.0.100:8080/citsmart
+http://192.168.0.40:8080/citsmart
 ```
 ou
 
 ```sh
-https://citsmart.exemplo.com/citsmart
+https://192.168.0.40:8443/citsmart
 ```
 
 !!! info "Navegadores Suportados"
