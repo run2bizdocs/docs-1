@@ -195,20 +195,15 @@ Conecte no jboss-cli e execute os seguintes comandos:
 
 ```sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":add(jndi-name="java:/env/jdbc/citsmart-neuro",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
@@ -216,20 +211,15 @@ Conecte no jboss-cli e execute os seguintes comandos:
 
 ```sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":add(jndi-name="java:/env/jdbc/citsmart-neuro-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app1":write-attribute(name=min-pool-size,value=10)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app1":write-attribute(name=max-pool-size,value=300)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app1":write-attribute(name=pool-prefill,value=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app1":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app1":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
@@ -237,20 +227,15 @@ Conecte no jboss-cli e execute os seguintes comandos:
 
 ```sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":add(jndi-name="java:/env/jdbc/citsmart-neuro-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app2":write-attribute(name=min-pool-size,value=10)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app2":write-attribute(name=max-pool-size,value=300)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app2":write-attribute(name=pool-prefill,value=true)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app2":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-```
-```sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app2":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
@@ -258,20 +243,15 @@ Conecte no jboss-cli e execute os seguintes comandos:
 
 ```sh
 /subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":add(jndi-name="java:/env/jdbc/citsmart-neuro-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-```
-``` sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=min-pool-size,value=10)
-```
-``` sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=max-pool-size,value=300)
-```
-``` sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=pool-prefill,value=true)
-```
-``` sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-```
-``` sh
+
 /subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro-app3":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
