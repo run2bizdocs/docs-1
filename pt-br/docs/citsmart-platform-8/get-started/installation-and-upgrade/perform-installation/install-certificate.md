@@ -200,10 +200,15 @@ Acesse o wildfly no modo CLI e dê os comandos abaixo substituindo os valores pe
 
 ```shell
 /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
+
 /subsystem=elytron/key-store=citsmartKeyStore:add(path="CITSmartV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
+
 /subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="password123456"})
+
 /subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
+
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="CITSmartV1.keystore", keystore-password-credential-reference={clear-text="password123456"}, keystore-relative-to="jboss.server.config.dir",alias="CITSmartV1")
 ```
 
