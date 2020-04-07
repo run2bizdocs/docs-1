@@ -117,7 +117,7 @@ host citsmart_db citsmartdbuser WILDFLY_IP_ADDRESS/32 md5
 
 Existem oito entradas de datasource para o citsmart_db, sendo que quatro são para o CITSmart e quatro para o CITSmart Neuro. O usuário e senha é citsmartdbuser e SUA_SENHA criados no passo anterior. Caso tenha criado usuário, senha e banco de nomes diferentes, altere nos comandos abaixo.
 
-Conecte no jboss-cli e execute os seguintes comandos:
+Conecte no jboss-cli e execute os seguintes comandos. Para que não ocorra nenhum erro na execução, execute cada comando separadamente:
 
 ### Datasource citsmart
 
