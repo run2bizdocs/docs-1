@@ -4,7 +4,7 @@
 
 Here you can access the documentation repository of CITSmart's products, which are available in different languages. In addition, you can access the [feedback repository][1] to propose ideas and send feedback.
 
-The documentation can be accessed on the official website [CITsmart Docs][2]. See also the documentation repository for [developers][3].
+The documentation can be accessed on the official website [CITSmart Docs][2]. See also the documentation repository for [developers][3].
 
 
 ## License
