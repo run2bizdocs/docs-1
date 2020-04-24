@@ -38,5 +38,5 @@ Figure 5 - Experience center (continuation)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

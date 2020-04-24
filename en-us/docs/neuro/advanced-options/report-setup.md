@@ -88,7 +88,7 @@ Figure 6 - Register/edit report configuration, Form tab
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

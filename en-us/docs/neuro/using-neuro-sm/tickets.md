@@ -48,6 +48,6 @@ There are two ways of interface Neuro with a Ticket:
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins
 

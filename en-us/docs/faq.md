@@ -11,7 +11,7 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "Is it possible to categorize the Request/Incident (Ticket)?"    
 
-    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).   
+    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-9/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-9/processes/portfolio-and-catalog/configuration/create-service-category.html).   
 
 !!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
@@ -144,7 +144,7 @@ description: Here you have the answers for the most common parameters when talki
 
     FROM THE GROUP'S REGISTRATION
 	
-    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
+    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-platform-9/initial-settings/access-settings/user/register-groups.html));
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
     4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group;
@@ -152,7 +152,7 @@ description: Here you have the answers for the most common parameters when talki
     
 	FROM THE USER'S REGISTRATION
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the "User" option (see [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html));
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the "User" option (see [Register user](/en-us/citsmart-platform-9/initial-settings/access-settings/user/users.html));
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
@@ -165,7 +165,7 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/citsmart-platform-9/initial-settings/access-settings/user/register-groups.html));
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same;
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
@@ -188,7 +188,7 @@ description: Here you have the answers for the most common parameters when talki
    
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
-    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
+    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-platform-9/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;

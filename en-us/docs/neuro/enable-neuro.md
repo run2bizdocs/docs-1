@@ -4,7 +4,7 @@ Title: Enable Neuro
 
 For CITSmart/Neuro integration to work:
 
-- The CITSmart version is 8.0.0.0 or higher
+- The CITSmart version is 9.0.0.0 or higher
 - CITSmart configured for HTTPS access: //
 - The integration parameters are configured in the CITSmart 
 
