@@ -1,8 +1,8 @@
 # Project information
-site_name: 'Documentação CITSmart'
-site_description: 'Documentação dos produtos CITSmart'
+site_name: 'CITSmart Documentation'
+site_description: 'Documentation of CITSmart Procucts'
 site_author: 'CITSmart Corporation'
-site_url: 'https://docs.citsmart.com/pt-br/index.html'
+site_url: 'https://docs.citsmart.com/en-us/index.html'
 
 # Repository
 #repo_name: 'citsmart/docs'
@@ -23,7 +23,7 @@ theme:
   - 'videos.html'
 
   # Default values, taken from mkdocs_theme.yml
-  language: pt
+  language: en
   palette:
     primary: indigo
     accent: orange
@@ -43,7 +43,7 @@ extra_css:
 # Plugins
 plugins:
     - search:
-        lang: pt
+        lang: en
 
 # Customization
 extra:
@@ -101,30 +101,27 @@ use_directory_urls: false
 
 # Nav tree
 nav:
-- Início:
+- Home:
   - 'https://docs.citsmart.com/pt-br/home.html'
 - CITSmart 9:
-  - Iniciar:
-    - Sobre o CITSmart:
+  - Get Started:
+    - About CITSmart:
       - index.md
       - citsmart-platform-9/get-started/about-citsmart/whats-citsmart.md
-      - citsmart-platform-9/get-started/about-citsmart/whats-new-v8.md
+      - citsmart-platform-9/get-started/about-citsmart/whats-new-v9.md
       - citsmart-platform-9/get-started/about-citsmart/introduction-to-platform.md
       - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
       - citsmart-platform-9/get-started/about-citsmart/release-policy.md
-    - Notas de Release:
+    - Release Notes:
       - citsmart-platform-9/get-started/about-citsmart/release-notes.md
-      - O que há de novo:
-        - citsmart-platform-9/get-started/about-citsmart/release-notes/version-8.0.0.0.md
-    - Arquitetura:
+      - What´s New:
+        - citsmart-platform-9/get-started/about-citsmart/release-notes/version-9.0.0.0.md
+    - Architecture:
       - citsmart-platform-9/get-started/architecture/architecture.md
-      #- citsmart-platform-9/get-started/architecture/on-premise.md
-    - Instalação e atualização:
+    - Installation and Upgrade:
       - citsmart-platform-9/get-started/installation-and-upgrade/overview.md
       - citsmart-platform-9/get-started/installation-and-upgrade/system-requirements.md
-#      - citsmart-platform-9/get-started/installation-and-upgrade/download-software.md
-#      - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation.md
-      - Realizar instalação:
+      - Perform installation:
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/start-install.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/install-jdk.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/install-wildfly.md
@@ -139,57 +136,55 @@ nav:
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/install-mongo.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/setup-citsmart.md
-      # - citsmart-platform-9/get-started/installation-and-upgrade/prepare-for-upgrade.md
-      # - citsmart-platform-9/get-started/installation-and-upgrade/run-update.md
-  - Configurações iniciais:
+  - Initial Settings:
     - citsmart-platform-9/initial-settings/navigation-and-user-interface.md
-    - Configuração básica:
+    - Basic Settings:
       - citsmart-platform-9/initial-settings/introduction.md
 #      - citsmart-platform-9/initial-settings/set-language-and-location.md
       - citsmart-platform-9/initial-settings/set-system-url.md
-    - Configuração de acesso:
-      - Perfil:
+    - Access Settings:
+      - Profile:
         - citsmart-platform-9/initial-settings/access-settings/profile/create-profile-access.md
         - citsmart-platform-9/initial-settings/access-settings/profile/smart-decision.md
-      - Usuário:
+      - User:
         - citsmart-platform-9/initial-settings/access-settings/user/register-employee.md
         - citsmart-platform-9/initial-settings/access-settings/user/users.md
         - citsmart-platform-9/initial-settings/access-settings/user/user-data.md
         - citsmart-platform-9/initial-settings/access-settings/user/position.md
         - citsmart-platform-9/initial-settings/access-settings/user/register-groups.md
-    - Painel do usuário:
+    - User Panel:
       - citsmart-platform-9/initial-settings/user-panel/home-panel.md
       - citsmart-platform-9/initial-settings/user-panel/register-menu.md
-  - Administração da Plataforma:
-    - Introdução:
+  - Platform Administration:
+    - Introduction:
       - citsmart-platform-9/platform-administration/introduction.md
-    - Autenticação:
+    - Authentication:
       - citsmart-platform-9/platform-administration/authentication/overview.md
       - citsmart-platform-9/platform-administration/authentication/ldap.md
       - citsmart-platform-9/platform-administration/authentication/sso.md
       - citsmart-platform-9/platform-administration/authentication/okta.md
-    - Segurança:
+    - Security:
       - citsmart-platform-9/platform-administration/security/implement-password-security-rules.md
       - citsmart-platform-9/platform-administration/security/reset-password.md
-    - Tempo:
+    - Time:
       - citsmart-platform-9/platform-administration/time/create-calendar.md
       - citsmart-platform-9/platform-administration/time/create-cycle.md
       - citsmart-platform-9/platform-administration/time/create-working-day.md
-    - Região e idioma:
+    - Region and Language:
       - citsmart-platform-9/platform-administration/region-and-language/load-countries.md
       - citsmart-platform-9/platform-administration/region-and-language/register-locations.md
       - citsmart-platform-9/platform-administration/region-and-language/register-unit.md
       - citsmart-platform-9/platform-administration/region-and-language/standard-language.md
 #     - citsmart-platform-9/platform-administration/region-and-language/timezone.md
       - citsmart-platform-9/platform-administration/region-and-language/type-of-unit.md
-    - Dados e importação:
+    - Data and Import:
       - citsmart-platform-9/platform-administration/data-and-import/employee-import.md
       - citsmart-platform-9/platform-administration/data-and-import/general-import.md
       - citsmart-platform-9/platform-administration/data-and-import/metadata-load.md
       - citsmart-platform-9/platform-administration/data-and-import/portfolio-import-service-portfolio.md
       - citsmart-platform-9/platform-administration/data-and-import/spreadsheet-employee.md
       - citsmart-platform-9/platform-administration/data-and-import/spreedsheet-import-portfolio.md
-    - Banco de dados:
+    - Database:
       - citsmart-platform-9/platform-administration/database/data-management.md
       - citsmart-platform-9/platform-administration/database/import-data-import-management.md
 #      - citsmart-platform-9/platform-administration/database/load-metadata.md
@@ -197,13 +192,13 @@ nav:
       - citsmart-platform-9/platform-administration/database/register-external-connections.md
       - citsmart-platform-9/platform-administration/database/run-script.md
       - citsmart-platform-9/platform-administration/database/script-database-tool.md
-    - Configuração de ambiente:
+    - Environment Configuration:
       - citsmart-platform-9/platform-administration/environment-configuration/banner-logo.md
       - citsmart-platform-9/platform-administration/environment-configuration/knowledge-portal-configure-filtres.md
       - citsmart-platform-9/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.md
       - citsmart-platform-9/platform-administration/environment-configuration/system-configure-enviroment.md
       - citsmart-platform-9/platform-administration/environment-configuration/system-customization.md
-    - Parâmetros:
+    - Parameters:
       - citsmart-platform-9/platform-administration/parameters-list/configuration-parametrization-mobile.md
       - citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-change.md
       - citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-chat.md
@@ -219,32 +214,32 @@ nav:
       - citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-ticket.md
       - citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-voip.md
       - citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-work-order.md
-    - Customizar campos:
+    - Customizable Fields:
       - citsmart-platform-9/platform-administration/customizable-fields/label-customize-system.md
       - citsmart-platform-9/platform-administration/customizable-fields/labels-configure-mandatory-fields.md
       - citsmart-platform-9/platform-administration/customizable-fields/labels-configure-views.md
       - citsmart-platform-9/platform-administration/customizable-fields/register-domain-item.md
       - citsmart-platform-9/platform-administration/customizable-fields/register-domain.md
-    - Indexação de dados:
+    - Data Indexing:
       - citsmart-platform-9/platform-administration/data-indexing/configuration.md
-    - Configuração de e-mail:
+    - Email Configuration:
       - citsmart-platform-9/platform-administration/email-settings/configuration.md
       - citsmart-platform-9/platform-administration/email-settings/email-templates-configure-email-template.md
       - citsmart-platform-9/platform-administration/email-settings/register-mail-box.md
-    - Chaves de E-mail:
+    - Email Keys (placehoders):
       - citsmart-platform-9/platform-administration/email-settings/key-field/key-fields-change-email.md
       - citsmart-platform-9/platform-administration/email-settings/key-field/knowledge-base-email.md
       - citsmart-platform-9/platform-administration/email-settings/key-field/problem-email.md
       - citsmart-platform-9/platform-administration/email-settings/key-field/resquest-email-key.md
-    - Questionários:
+    - Questionnaires:
       - citsmart-platform-9/platform-administration/questionnaires/questionaires-management/questionnaire-category.md
       - citsmart-platform-9/platform-administration/questionnaires/questionaires-management/questionnaires-management.md
       - citsmart-platform-9/platform-administration/questionnaires/questionaires-management/register-questionnaire.md
       - citsmart-platform-9/platform-administration/questionnaires/ticket-template.md
-    - Configurar ações automáticas:
-      - Processamento Batch:
+    - Configuring Automatic Actions:
+      - Batch Processing:
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/batch-batch-processing.md
-      - Cadastrar ação automática:
+      - register automatic actions:
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/overview.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/notification-create.md
@@ -253,7 +248,7 @@ nav:
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/register-automatic-actions-incident-request-procedure.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/register-change-automatic-actions.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/register-escation-automatic-action.md
-    - Logs e auditoria:
+    - Logs and Audit:
       - citsmart-platform-9/platform-administration/logs-and-auditing/audit040-configure.md
       - citsmart-platform-9/platform-administration/logs-and-auditing/system-log.md
       - citsmart-platform-9/platform-administration/logs-and-auditing/system-audit.md
@@ -261,41 +256,40 @@ nav:
       - citsmart-platform-9/platform-administration/mobile/webservice.md
   - Workflow:
     - citsmart-platform-9/workflow/overview.md
-    - Criar um fluxo de trabalho:
+    - Create a Workflow:
       - citsmart-platform-9/workflow/use/create-flow.md
       - citsmart-platform-9/workflow/use/user-task-configure.md
-    - Expressões:
+    - Expressions:
       - citsmart-platform-9/workflow/configuration/expressions.md
       - citsmart-platform-9/workflow/configuration/expressions-creator.md
-    - Modelagem de processo:
+    - Process Modeling:
       - citsmart-platform-9/workflow/use/modeling.md
-  - Processos:
+  - Process:
     - citsmart-platform-9/processes/overview.md
-#    - citsmart-platform-9/processes/configuration-steps.md
-    - Portfólio e catálogo:
+    - Portfolio and Catalog:
       - citsmart-platform-9/processes/portfolio-and-catalog/overview.md
       - citsmart-platform-9/processes/portfolio-and-catalog/use/create-the-portfolio.md
-      - Cadastrar um serviço:
+      - Register a Service:
         - citsmart-platform-9/processes/portfolio-and-catalog/use/register-a-service.md
-        - Configurar requisição:
+        - Configuring Request:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/register-service-activity.md
-        - Configurar contrato:
+        - Configuring Contract:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/service-contract-attributes.md
           - citsmart-platform-9/processes/portfolio-and-catalog/use/link-activity-to-service-contract.md
-        - Cadastrar atributo:
+        - Register Attribute:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/configure-services-attributes.md
           - citsmart-platform-9/processes/portfolio-and-catalog/use/create-service-map.md
-        - Utilizar o Smart Portal:
+        - Using the Smart Portal:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/smart-portal.md
           - citsmart-platform-9/processes/portfolio-and-catalog/use/request-through-Smart-Portal.md
-        - Gerar relatórios:
+        - Generate Reports:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/reports-service-catalog.md
-        - Verificar auditoria:
+        - Audit Service:
           - citsmart-platform-9/processes/portfolio-and-catalog/use/service-audit.md
-        - Ferramentas de Notificação:
+        - Tools of Notification:
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-news.md
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.md
-        - Configuração:
+        - Configuration:
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/access-portfolio-management.md
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-contract.md
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-operating-condition.md
@@ -314,34 +308,32 @@ nav:
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-service-request-priority.md
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/register-skill-resource.md
           - citsmart-platform-9/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.md
-#      - Fluxo:
-#        - citsmart-platform-9/processes/portfolio-and-catalog/flow/flow.md
-    - Nível de Serviço:
+    - Service Level:
       - citsmart-platform-9/processes/service-level/overview.md
       - citsmart-platform-9/processes/service-level/use/create-time-attendance.md
       - citsmart-platform-9/processes/service-level/use/service-level-requirement.md
       - citsmart-platform-9/processes/service-level/use/service-level-agreement.md
       - citsmart-platform-9/processes/service-level/use/improvement-plan.md
-      - Relatórios:
+      - Reports:
         - citsmart-platform-9/processes/service-level/use/contract-evaluation.md
         - citsmart-platform-9/processes/service-level/use/provider-evaluation.md
         - citsmart-platform-9/processes/service-level/use/SLA-evaluation.md
         - citsmart-platform-9/processes/service-level/use/reports-service-level-management.md
     - Tickets:
       - citsmart-platform-9/processes/tickets/overview.md
-      - Área de trabalho:
+      - Desktop:
         - citsmart-platform-9/processes/tickets/use/desktop-of-service-desk.md
         - citsmart-platform-9/processes/tickets/use/locate-a-ticket.md
         - citsmart-platform-9/processes/tickets/use/search-ticket-in-the-advanced-mode.md
-      - Criar um ticket:
+      - Create a Ticket:
         - citsmart-platform-9/processes/tickets/use/create-ticket.md
         - citsmart-platform-9/processes/tickets/use/register-ticket-via-template.md
         - citsmart-platform-9/processes/tickets/configuration/create-then-close-ticket.md
         - citsmart-platform-9/processes/tickets/configuration/create-ticket-receiving-email.md
-      - Aprovar um ticket:
+      - Approval Ticket:
         - citsmart-platform-9/processes/tickets/use/approve-a-ticket.md
-      - Atender um ticket:
-        - Capturar um ticket:
+      - Attending Ticket:
+        - Capture Ticket:
           - citsmart-platform-9/processes/tickets/use/capture-ticket.md
           - citsmart-platform-9/processes/tickets/use/register-ticket-occurrences.md
           - citsmart-platform-9/processes/tickets/use/direct-the-ticket.md
@@ -352,7 +344,7 @@ nav:
           - citsmart-platform-9/processes/tickets/use/register-ticket-execution.md
           - citsmart-platform-9/processes/tickets/use/validate-ticket.md
           - citsmart-platform-9/processes/tickets/use/cancel-ticket.md
-        - Selecionar opções:
+        - Select Options:
           - citsmart-platform-9/processes/tickets/use/change-SLA-of-a-ticket.md
           - citsmart-platform-9/processes/tickets/use/delegate-ticket.md
           - citsmart-platform-9/processes/tickets/use/print-ticket.md
@@ -363,19 +355,19 @@ nav:
           - citsmart-platform-9/processes/tickets/use/suspend-and-reactivate-tickets.md
           - citsmart-platform-9/processes/tickets/use/suspend-ticket.md
           - citsmart-platform-9/processes/tickets/use/verify-my-tickets.md
-      - Reabrir um ticket:
+      - Reopen Ticket:
         - citsmart-platform-9/processes/tickets/use/reopen-ticket.md
-      - Gerenciar equipes:
+      - Team Management:
         - citsmart-platform-9/processes/tickets/use/manage-a-ticket-with-Kanban.md
-      - Relatórios e pesquisas:
+      - Reports and Search:
         - citsmart-platform-9/processes/tickets/use/analyse-service-request-trends.md
         - citsmart-platform-9/processes/tickets/use/analyze-event-trends.md
         - citsmart-platform-9/processes/tickets/use/audit-a-ticket.md
         - citsmart-platform-9/processes/tickets/use/generate-reports-tickets.md
         - citsmart-platform-9/processes/tickets/use/generate-report-through-the-panel-of-charts.md
-      - Regra de escalonamento:
+      - Escation Rules:
         - citsmart-platform-9/processes/tickets/use/create-escalation-rule.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/tickets/configuration/access-ticket-management.md
         - citsmart-platform-9/processes/tickets/use/register-ticket-source.md
         - citsmart-platform-9/processes/tickets/configuration/approve-request-via-email.md
@@ -385,18 +377,19 @@ nav:
         - citsmart-platform-9/processes/tickets/configuration/relate-unit-to-contract.md
 #      - Fluxo:
 #        - citsmart-platform-9/processes/tickets/flow/flow.md
-    - Conhecimento:
+    - Knowledge:
       - citsmart-platform-9/processes/knowledge/overview.md
-      - Portal do conhecimento:
+      - Knowledge Portal:
         - citsmart-platform-9/processes/knowledge/use/knowledge-portal.md
         - citsmart-platform-9/processes/knowledge/use/display-tags-on-knowledge-portal.md
         - citsmart-platform-9/processes/knowledge/configuration/refine-search-knowledge-portal.md
         - citsmart-platform-9/processes/knowledge/use/review-reviews.md
       - citsmart-platform-9/processes/knowledge/use/create-knowledge.md
+      - citsmart-platform-9/processes/knowledge/use/create-experience-center.md
       - citsmart-platform-9/processes/knowledge/use/generate-reports-knowledge-management.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/knowledge/configuration/create-folder.md
-        - Imagens:
+        - Images:
           - citsmart-platform-9/processes/knowledge/configuration/register-image-category.md
           - citsmart-platform-9/processes/knowledge/configuration/store-images-gallery.md
         - citsmart-platform-9/processes/knowledge/configuration/register-subject.md
@@ -406,11 +399,11 @@ nav:
         - citsmart-platform-9/processes/knowledge/configuration/notify-responsible-knowledge-expiration.md
 #      - Fluxo:
 #        - citsmart-platform-9/processes/knowledge/flow/flow.md
-    - Problema:
+    - Problem:
       - citsmart-platform-9/processes/problem/overview.md
       - citsmart-platform-9/processes/problem/use/register-problem.md
       - citsmart-platform-9/processes/problem/use/advanced-search-for-problem.md
-      - Analisar um problema:
+      - Diagnosis:
         - citsmart-platform-9/processes/problem/use/problem-execution.md
         - citsmart-platform-9/processes/problem/use/problem-occurrences.md
         - citsmart-platform-9/processes/problem/use/schedule-problem-activities.md
@@ -418,15 +411,15 @@ nav:
         - citsmart-platform-9/processes/problem/use/cancel-problem.md
         - citsmart-platform-9/processes/problem/use/relate-information-to-problem.md
       - citsmart-platform-9/processes/problem/use/generate-reports-problem-management.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/problem/configuration/problem-portfolio.md
         - citsmart-platform-9/processes/problem/configuration/problem-justification.md
-    - Mudança:
+    - Change:
       - citsmart-platform-9/processes/change/overview.md
-      - Cadastrar uma mudança:
+      - Register a Change:
         - citsmart-platform-9/processes/change/use/register-change.md
         - citsmart-platform-9/processes/change/use/register-change-via-template.md
-      - Tratar mudança:
+      - Execute Change:
         - citsmart-platform-9/processes/change/use/relate-information-to-change.md
         - citsmart-platform-9/processes/change/use/change-planning-activities.md
         - citsmart-platform-9/processes/change/use/change-occurrences.md
@@ -435,22 +428,22 @@ nav:
         - citsmart-platform-9/processes/change/use/cancel-change.md
         - citsmart-platform-9/processes/change/use/suspend-change.md
         - citsmart-platform-9/processes/change/use/execute-change.md
-      - Relatórios e pesquisas:
+      - Reports and Search:
         - citsmart-platform-9/processes/change/use/advanced-search-for-change.md
         - citsmart-platform-9/processes/change/use/generate-reports-change-management.md
         - citsmart-platform-9/processes/change/use/generate-reports-charts-panel-change.md
         - citsmart-platform-9/processes/change/use/change-additional-reports.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/change/configuration/change-portfolio.md
         - citsmart-platform-9/processes/change/configuration/change-justification.md
         - citsmart-platform-9/processes/change/configuration/change-schedule.md
         - citsmart-platform-9/processes/change/configuration/change-template.md
-    - Liberação:
+    - Release:
       - citsmart-platform-9/processes/release/overview.md
-      - Área de trabalho:
+      - Desktop:
         - citsmart-platform-9/processes/release/use/release-desktop.md
         - citsmart-platform-9/processes/release/use/advanced-search-for-release.md
-      - Tratar a liberação:
+      - Execute Release:
         - citsmart-platform-9/processes/release/use/register-release-request.md
         - citsmart-platform-9/processes/release/use/release-planning-activities.md
         - citsmart-platform-9/processes/release/use/execute-release.md
@@ -459,13 +452,13 @@ nav:
         - citsmart-platform-9/processes/release/use/suspend-release.md
         - citsmart-platform-9/processes/release/use/reopen-release.md
         - citsmart-platform-9/processes/release/use/cancel-release.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/release/configuration/release-portfolio.md
         - citsmart-platform-9/processes/release/use/release-justification.md
-    - Configuração e ativos:
+    - Configuration and Assets:
       - citsmart-platform-9/processes/configuration/overview.md
-      - Criar CMDB:
-        - IC:
+      - View CMDB:
+        - Configuration Item:
           - citsmart-platform-9/processes/configuration/use/search-CI.md
           - citsmart-platform-9/processes/configuration/use/register-CI.md
           - citsmart-platform-9/processes/configuration/use/change-IC-item-data.md
@@ -478,130 +471,123 @@ nav:
           - citsmart-platform-9/processes/configuration/use/link-calendar-to-group-of-IC.md
           - citsmart-platform-9/processes/configuration/use/run-script-of-CI.md
           - citsmart-platform-9/processes/configuration/use/cost-per-hour-unavailability.md
-          - citsmart-platform-9/processes/configuration/use/create-ic-relationship.md
-          - citsmart-platform-9/processes/configuration/use/view-ci-relationship-map.md
           - citsmart-platform-9/processes/configuration/use/export-CMDB.md
-        - Grupos:
+        - Group:
           - citsmart-platform-9/processes/configuration/configuration/register-configuration-item-group.md
           - citsmart-platform-9/processes/configuration/use/delete-group-of-IC.md
           - citsmart-platform-9/processes/configuration/use/change-group-configuration-item.md
-        - Alertas:
+        - Alerts:
           - citsmart-platform-9/processes/configuration/use/CI-captured-by-inventory.md
-      - Relatórios:
+      - Reports:
         - citsmart-platform-9/processes/configuration/use/generate-report-configuration-management.md
         - citsmart-platform-9/processes/configuration/use/generate-reports-charts-panel-ic.md
-      - Mídia defitiva:
+      - Media Library:
         - citsmart-platform-9/processes/configuration/configuration/register-definitive-media.md
-      - Configuração:
-        - IC:
+      - Configuration:
+        - Configuration Item:
           - citsmart-platform-9/processes/configuration/configuration/register-characteristics.md
           - citsmart-platform-9/processes/configuration/configuration/register-type-ic.md
           - citsmart-platform-9/processes/configuration/configuration/create-configuration-item-related-ic.md
-        - citsmart-platform-9/processes/configuration/configuration/create-type-relationship-ci.md
         - citsmart-platform-9/processes/configuration/configuration/configure-remote-access.md
         - citsmart-platform-9/processes/configuration/configuration/register-financial-value-ic.md
         - citsmart-platform-9/processes/configuration/configuration/register-software-blacklist.md
         - citsmart-platform-9/processes/configuration/configuration/inventory-mib.md
-    - Eventos:
+    - Event:
       - citsmart-platform-9/processes/event/overview.md
-      - Central de Eventos:
+      - Event Center:
         - citsmart-platform-9/processes/event/use/the-event-center.md
         - citsmart-platform-9/processes/event/use/search-event.md
-      - Tratar um evento:
+      - Verify Event:
         - citsmart-platform-9/processes/event/use/view-event.md
         - citsmart-platform-9/processes/event/use/internal-menu-of-event.md
-        - Selecionar opções:
+        - Select Options:
           - citsmart-platform-9/processes/event/use/close-event-occurrence.md
           - citsmart-platform-9/processes/event/use/close-occurences-and-actions.md
           - citsmart-platform-9/processes/event/use/create-ticket-from-an-event.md
           - citsmart-platform-9/processes/event/use/create-change-from-an-event.md
           - citsmart-platform-9/processes/event/use/create-a-problem-from-an-event.md
-      - Relatórios:
+      - Reports:
         - citsmart-platform-9/processes/event/use/register-event-audit.md
         - citsmart-platform-9/processes/event/use/generate-reports-event-management.md
-      - Configuração:
-        - Gerente:
+      - Configuration:
+        - Manager:
           - citsmart-platform-9/processes/event/configuration/register-nagios-generic-manager.md
           - citsmart-platform-9/processes/event/configuration/register-nagios-manager.md
           - citsmart-platform-9/processes/event/configuration/register-inventory-manager.md
           - citsmart-platform-9/processes/event/configuration/register-zabbix-generic-manager.md
           - citsmart-platform-9/processes/event/configuration/register-zabbix-manager.md
           - citsmart-platform-9/processes/event/configuration/register-global-manager.md
-        - Conexão:
+        - Connection:
           - citsmart-platform-9/processes/event/configuration/set-inventory-connection.md
           - citsmart-platform-9/processes/event/configuration/register-event-monitor-connection.md
           - citsmart-platform-9/processes/event/configuration/register-nagios-zabbix-connection.md
-        - Notificação:
+        - Notify:
           - citsmart-platform-9/processes/event/configuration/register-notification-recipient.md
           - citsmart-platform-9/processes/event/configuration/register-event-notification.md
         - citsmart-platform-9/processes/event/configuration/register-epl-template.md
         - citsmart-platform-9/processes/event/configuration/register-occurence-category.md
         - citsmart-platform-9/processes/event/configuration/register-time.md
-    - Disponibilidade:
+    - Availability:
       - citsmart-platform-9/processes/availability/overview.md
-      - Verificar disponibilidade:
+      - Verify availability:
         - citsmart-platform-9/processes/availability/use/CI-group-availability.md
         - citsmart-platform-9/processes/availability/use/availability-group.md
         - citsmart-platform-9/processes/availability/use/service-availability.md
         - citsmart-platform-9/processes/availability/use/configuration-item-availability.md
-      - Configuração:
+      - Configuring:
         - citsmart-platform-9/processes/availability/configuration/register-availability-group.md
-    - Demanda:
+    - Demand:
       - citsmart-platform-9/processes/demand/overview.md
-      - Cadastrar atributo:
+      - Register Attribute:
         - citsmart-platform-9/processes/demand/use/import-demand-attibute-data.md
         - citsmart-platform-9/processes/demand/use/register-demand-attribute.md
-    - Capacidade:
+    - Capacity:
       - citsmart-platform-9/processes/capacity/overview.md
-      - Cadastrar indidcadores:
+      - Register Indicators:
         - citsmart-platform-9/processes/capacity/use/capacity-indicators-data.md
         - citsmart-platform-9/processes/capacity/use/register-capacity-indicators.md
-    - Continuidade:
+    - Continuity:
       - citsmart-platform-9/processes/continuity/overview.md
       - citsmart-platform-9/processes/continuity/use/register-service-continuity.md
-      - Detalhar continuidade:
-        - Iniciação:
+      - Datails Continuity:
+        - Initiation:
           - citsmart-platform-9/processes/continuity/use/continuity-policy.md
           - citsmart-platform-9/processes/continuity/use/service-continuity-scope.md
           - citsmart-platform-9/processes/continuity/use/service-continuity-project.md
-        - Requisitos e estratégia:
+        - Requirements and Strategy:
           - citsmart-platform-9/processes/continuity/use/continuity-vital-functions.md
           - citsmart-platform-9/processes/continuity/use/impact-analysis-continuity-business.md
           - citsmart-platform-9/processes/continuity/use/continuity-risk-evaluation.md
           - citsmart-platform-9/processes/continuity/use/service-continuity-strategy.md
-        - Implementação:
+        - Implementation:
           - citsmart-platform-9/processes/continuity/use/continuity-plan.md
           - citsmart-platform-9/processes/continuity/use/continuity-organizational-planning.md
           - citsmart-platform-9/processes/continuity/use/continuity-test-registration.md
-        - Operação contínua:
+        - Continuous Operation:
           - citsmart-platform-9/processes/continuity/use/continuity-awareness.md
           - citsmart-platform-9/processes/continuity/use/review-and-audit-continuity.md
           - citsmart-platform-9/processes/continuity/use/continuity-test-calendar.md
           - citsmart-platform-9/processes/continuity/use/invoke-continuity.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/processes/continuity/configuration/access-continuity-management.md
-        - Cadastrar ameaça:
+        - Register Threat:
           - citsmart-platform-9/processes/continuity/configuration/register-threat.md
           - citsmart-platform-9/processes/continuity/configuration/threat-category.md
-        - Cadastrar Risco:
+        - Register Risk:
           - citsmart-platform-9/processes/continuity/configuration/register-continuity-risk.md
           - citsmart-platform-9/processes/continuity/configuration/risk-category.md
         - citsmart-platform-9/processes/continuity/configuration/continuity-template.md
-  - Recursos adicionais:
-    - Introdução:
+  - Additional Features:
+    - Introduction:
       - citsmart-platform-9/additional-features/introduction.md
-    - Simple agile management:
+    - Simple Agile Management:
       - citsmart-platform-9/additional-features/project-management/simple-agile-management/simple-agile-management.md
-    - Portal de Serviço:
-      - Centro de Experiência:
-        - citsmart-platform-9/additional-features/service-portals/experience-center/overview.md
-        - citsmart-platform-9/additional-features/service-portals/experience-center/create-experience-center.md
-    - Gestão de contrato:
-      - Uso:
+    - Contract Management:
+      - User:
         - citsmart-platform-9/additional-features/contract-management/use/manage-contracts.md
         - citsmart-platform-9/additional-features/contract-management/use/register-contract.md
         - citsmart-platform-9/additional-features/contract-management/use/service-work-order.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/additional-features/contract-management/configuration/export-contract-data.md
         - citsmart-platform-9/additional-features/contract-management/configuration/import-contract-data.md
         - citsmart-platform-9/additional-features/contract-management/configuration/register-currency.md
@@ -609,87 +595,88 @@ nav:
         - citsmart-platform-9/additional-features/contract-management/configuration/register-subscription.md
         - citsmart-platform-9/additional-features/contract-management/configuration/subscription-group.md
         - citsmart-platform-9/additional-features/contract-management/configuration/work-order-formula.md
-      - Relatório:
+      - Report:
         - citsmart-platform-9/additional-features/contract-management/report/control-contract.md
-    - Comunicação e notificação:
+    - Communication and Notification:
       - Chat:
         - citsmart-platform-9/additional-features/communication-and-notification/chat/chat.md
-      - E-mail:
+      - Email:
         - citsmart-platform-9/additional-features/communication-and-notification/email/register-email-notification.md
-      - Notificação:
-        - Configuração:
+      - Notification:
+        - Configuration:
           - citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.md
           - citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/template-create.md
           - citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/sound-notification.md
-        - Uso:
+        - Use:
           - citsmart-platform-9/additional-features/communication-and-notification/notification/use/notification.md
-    - Mobile e field service:
+    - Mobile and field Service:
       - Apps:
         - citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-app.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-app-android.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-app-ios.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.md
-      - Configuração:
+      - Configuration:
         - citsmart-platform-9/additional-features/mobile-and-field-service/configuration/configure-mobile-options.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/configuration/configure-field-service-application.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/configuration/reason-denial-of-checkin.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/use/get-signature-in-attendance.md
-      - Gestão:
+      - Management:
         - citsmart-platform-9/additional-features/mobile-and-field-service/use/configure-daily-route.md
         - citsmart-platform-9/additional-features/mobile-and-field-service/use/positioning-of-attendants.md
-      - Relatório:
+      - Reports:
         - citsmart-platform-9/additional-features/mobile-and-field-service/report/attendance-history.md
-    - Gestão de projeto:
-      - Configuração:
+    - Project Management:
+      - Configuration:
         - citsmart-platform-9/additional-features/project-management/project-management/configuration/register-role.md
-      - Uso:
+      - Use:
         - citsmart-platform-9/additional-features/project-management/project-management/use/manage-my-tasks.md
         - citsmart-platform-9/additional-features/project-management/project-management/use/register-project.md
-    - Relatórios:
-      - Apresentação:
+    - Reports:
+      - Presentation:
         - citsmart-platform-9/additional-features/reports/configuration/configuration.md
       - Dashboard:
-        - Uso:
+        - Use:
           - citsmart-platform-9/additional-features/reports/create/dashboard/use/create-template.md
           - citsmart-platform-9/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.md
-        - Configuração:
+        - Configuration:
           - citsmart-platform-9/additional-features/reports/create/dashboard/configuration/define-metrics-kpis.md
-        - Criar:
+        - Creating:
           - citsmart-platform-9/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.md
           - citsmart-platform-9/additional-features/reports/create/smart-reports/configuration/configure-report-view-attendance-data.md
           - citsmart-platform-9/additional-features/reports/create/smart-reports/configuration/create-smart-report.md
-      - Gerais:
+      - General:
         - citsmart-platform-9/additional-features/reports/use/cost-of-unavailability.md
         - citsmart-platform-9/additional-features/reports/use/generate-reports-personnel-management.md
         - citsmart-platform-9/additional-features/reports/use/yield-control-employee.md
-      - Surveys e feedback:
+      - Surveys and Feedback:
         - citsmart-platform-9/additional-features/surveys-and-feedback/register-degree-attendance-satisfaction.md
         - citsmart-platform-9/additional-features/surveys-and-feedback/surveys-and-feedback.md
       - Smart Analytics:
+        - citsmart-platform-9/additional-features/smart-analytics/install-bi-docker.md
         - citsmart-platform-9/additional-features/smart-analytics/use-bi-solution.md
-      - Redes Sociais:
+      - Social Network:
         - citsmart-platform-9/additional-features/social-network/create-ticket-twitter.md
     - Add-ons:
       - citsmart-platform-9/additional-features/add-ons/event-monitor.md
       - citsmart-platform-9/additional-features/add-ons/inventory.md
       - citsmart-platform-9/additional-features/add-ons/remote-access.md
-      - Automação das operações:
-        - Configuração:
+      - Automation of operation:
+        - Configuration:
           - citsmart-platform-9/additional-features/automation-of-operation/configuration/activity-suspension.md
           - citsmart-platform-9/additional-features/automation-of-operation/configuration/periodic-activity-group.md
-        - Uso:
+        - Use:
           - citsmart-platform-9/additional-features/automation-of-operation/use/register-periodic-activity.md
           - citsmart-platform-9/additional-features/automation-of-operation/use/scheduled-periodic-activities.md
 #  - Fast Deployment Methodology:
 #    - citsmart-platform-9/fdm/fdm.md
 - CITSmart 8:
-  - 'https://documentation.citsmart.com/pt-br/index.html'
+  - 'https://documentation.citsmart.com/en-us/index.html'
 - Neuro:
-  - Visão Geral:
+  - Overview:
     - neuro/overview.md
     - neuro/enable-neuro.md
-  - Desenvolvendo Aplicações:
+  - Developing Apps:
     - neuro/developing-applications/introduction.md
     - neuro/developing-applications/business-object.md
     - neuro/developing-applications/database-connection.md
@@ -698,11 +685,11 @@ nav:
     - neuro/developing-applications/internationalization.md
     - neuro/developing-applications/neuro-application.md
     - neuro/developing-applications/neuro-elements.md
-  - Usando no CITSmart:
+  - Using in CITSmart:
     - neuro/using-neuro-sm/sm-menu.md
     - neuro/using-neuro-sm/tickets.md
     - neuro/using-neuro-sm/experience-center.md
-  - Opções Avançadas:
+  - Advanced Options:
     - neuro/advanced-options/component-lookup.md
     - neuro/advanced-options/business-rules.md
     - neuro/advanced-options/css.md
@@ -718,27 +705,26 @@ nav:
     - neuro/advanced-options/variables.md
   - Add-Ons:
     - neuro/addons/addons-list.md
-  - Dicionário de Banco de Dados:
+  - Database Dictionary:
     - neuro/database-dictionary.md
   - Neuro FAQ:
     - neuro/neuro-faq.md
 - Anuva:
   - anuva/overview.md
-  - anuva/release-anuva.md
-  - Configuração:
+  - Configuration:
     - anuva/configuration/anuva-citsmart.md
     - anuva/configuration/context-anuva.md
     - anuva/configuration/interact-anuva.md
     - anuva/configuration/store-dialog-anuva.md
-  - Uso:
+  - Use:
     - anuva/use/teach-anuva.md
     - anuva/use/trainning-anuva.md
     - anuva/use/monitoring-anuva.md
 - CITSmart GRP:
   - citsmart-grp.md
-- Ajuda:
+- Help:
   - faq.md
   - glossary.md
 # - contribute.md
 #- CITSmart 8:
-#  - 'https://documentation.citsmart.com/pt-br/index.html'
+#  - 'https://documentation.citsmart.com/en-us/index.html'
