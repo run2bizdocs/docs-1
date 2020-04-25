@@ -40,5 +40,5 @@ parâmetros 251, 252, 253 e 298.Para o envio do comentário via e-mail é necess
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>09/06/2019 - Larissa Lourenço

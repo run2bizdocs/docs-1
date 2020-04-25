@@ -31,7 +31,7 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
 [1]:/pt-br/citsmart-platform-9/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1

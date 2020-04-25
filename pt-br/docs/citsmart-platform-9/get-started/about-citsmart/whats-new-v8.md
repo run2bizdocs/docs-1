@@ -392,6 +392,6 @@ Saiba mais sobre [Mobile CITSmart Experience][8]
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes
 
