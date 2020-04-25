@@ -150,7 +150,7 @@ cp itsm-audit-0.5.0.war /opt/wildfly/standalone/deployments/
 Após o correto deploy do Audit, acesse o CITSmart, localize o menu Parametrização > Parâmetros CITSmart, localize o parâmetro de número 425 e insira a URL do Audit:
 
 ```html
-http://127.0.0.1:8443/itsm-audit/
+https://127.0.0.1:8443/itsm-audit/
 ```
 
 Após esses passos e configurações, a auditoria já deve estar em execução.
