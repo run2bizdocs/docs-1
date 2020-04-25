@@ -5,7 +5,7 @@ Description: O objetivo deste documento é fornecer o norteamento técnico de in
 
 O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit) no CITSmart.
 
-O Audit é um componente do CITSmart que tem por objetivo possibilitar realizar auditorias no sistema. A auditoria abrange três diferentes perpecticas:
+O Audit é um componente do CITSmart que tem por objetivo possibilitar realizar auditorias no sistema. A auditoria abrange três diferentes perspectivas:
 
 - Auditoria de alteração em tabelas do sistema;
 
@@ -39,16 +39,13 @@ Acesse o Mongo e execute as ações abaixo:
 O primeiro passo é criar uma base no Mongo, aqui iremos nomeá-la de "itsm-audit":
 
 ```sh
-
 use itsm-audit
 db.user.insert({name: "blank", age: 30})
-
 ```
 
 Criar um usuário e definir permissões de acesso à base criada anteriormente (lembre-se que é necessário criar um usuário com o mesmo nome do utilizado para outros componentes do CITSmart, como é o caso do EVM/INV). Em nosso caso, iremos criar o usuário de nome "admin":
 
 ```sh
-
 use itsm-audit
 db.createUser({
 user: "admin",
@@ -57,12 +54,11 @@ roles:[
 { role: "dbOwner", db: "itsm-audit" }
 ]
 })
-
 ```
 
 ### Configurar entradas no subsystem do Wildfly
 
-Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq. Você pode fazer as configurações de duas formas, via CLI do Wilfly ou alterando o arquivo de configuração stantalone-full.xml. Opte por uma das alternativas e realize as configurações:
+Adicionar as seguintes linhas ao standalone do wildfly no subsystem do activemq. Você pode fazer as configurações de duas formas, via CLI do Wildfly ou alterando o arquivo de configuração stantalone-full.xml. Opte por uma das alternativas e realize as configurações:
 
 
 - **CLI**
@@ -111,7 +107,7 @@ Adicione as seguintes entradas abaixo da linha anterior:
 ### Configurar propriedades no Wildfly
 
 
-Adicione as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory). Assim, como na configuração anterior, você pode adionar as propriedades via CLI ou editando o arquivo standalone-full.xml.
+Adicione as seguintes linhas ao standalone do wildfly no system-properties (igual é utilizado no EVM e Inventory). Assim, como na configuração anterior, você pode adicionar as propriedades via CLI ou editando o arquivo standalone-full.xml.
 
 Caso você possua um Mongo configurado é muito provável que as seguintes propriedades já estejam presentes no stantalone-full.xml, elas são necessárias para o correto funcionamento do Audit:
 
@@ -139,7 +135,7 @@ Edite o arquivo standalone-full.xml e adicione a seguinte propriedade:
 ```
 
 !!! Warning "ATENÇÃO"
-    Assim como foi falado anteriormente, é necessário configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.
+    Assim como foi falado anteriormente, é necessário configurar a conexão do banco mongo com host, port, user, pass e database (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.
 
 ### Realizar o deploy do Audit
 
