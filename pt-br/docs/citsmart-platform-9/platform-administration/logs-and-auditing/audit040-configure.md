@@ -107,9 +107,9 @@ Adicione as seguintes entradas abaixo da linha anterior:
 ### Configurar propriedades no Wildfly
 
 
-Adicione as seguintes linhas ao standalone do wildfly no system-properties. Assim, como na configuração anterior, você pode adicionar as propriedades via CLI ou editando o arquivo standalone-full.xml.
+Adicione a seguinte linha ao standalone do wildfly no system-properties. Assim, como na configuração anterior, você pode adicionar as propriedades via CLI ou editando o arquivo standalone-full.xml.
 
-Caso você possua um Mongo configurado é muito provável que as seguintes propriedades já estejam presentes no stantalone-full.xml, elas são necessárias para o correto funcionamento do Audit:
+É muito provável que você possua um Mongo configurado, assim, é muito provável que as seguintes propriedades já estejam presentes no stantalone-full.xml, elas são necessárias para o correto funcionamento do Audit:
 
 ```sh
 /system-property=mongodb.host:add(value="citmongo")
