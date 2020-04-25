@@ -120,7 +120,7 @@ Adicione a seguinte linha ao standalone do wildfly no system-properties. Assim, 
 
 - **CLI**
 
-Acesse o CLI e adicione a seguinte entrada:
+Acesse o CLI e adicione a seguinte entrada abaixo das propriedades citadas anteriormente:
 
 ```sh
 /system-property=mongodb.dabase.audit:add(value="itsm-audit")
@@ -128,7 +128,7 @@ Acesse o CLI e adicione a seguinte entrada:
 
 - **XML**
 
-Edite o arquivo standalone-full.xml e adicione a seguinte propriedade:
+Edite o arquivo standalone-full.xml e adicione a seguinte propriedade abaixo das propriedades citadas anteriormente:
 
 ```sh
 <property name="mongodb.dabase.audit" value="itsm-audit"/>
