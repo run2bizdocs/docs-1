@@ -43,7 +43,7 @@ use itsm-audit
 db.user.insert({name: "blank", age: 30})
 ```
 
-Criar um usuário e definir permissões de acesso à base criada anteriormente (lembre-se que é necessário criar um usuário com o mesmo nome do utilizado para outros componentes do CITSmart, como é o caso do EVM/INV). Em nosso caso, iremos criar o usuário de nome "admin":
+Depois você precisa criar um usuário e definir permissões de acesso à base criada anteriormente (lembre-se que é necessário criar um usuário com o mesmo nome do utilizado para outros componentes do CITSmart, como é o caso do EVM/INV). Em nosso caso, iremos criar o usuário de nome "admin":
 
 ```sh
 use itsm-audit
