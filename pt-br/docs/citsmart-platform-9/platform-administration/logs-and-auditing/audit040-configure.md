@@ -19,7 +19,7 @@ Veja as principais característica do Audit:
 
 - O Audit utiliza o banco de dados não relacional Mongo para o armazenamento de dados. Assim, é necessário criar uma base de dados e um usuário com acesso a esta base (o usuário e senha devem ser iguais aos utilizados para acesso à outras bases do mongo - ex. base do EVM/INV).
 
-- Conforme a utilização do Audit na aplicação são criadas, automaticamente, quatro coleções (collections) de dados no mongo: accessAudit, backupAudit, dataAudit, licenseAudit.
+- Conforme a utilização do Audit na aplicação, são criadas automaticamente, quatro coleções (collections) de dados no mongo: accessAudit, backupAudit, dataAudit, licenseAudit.
 
 ## Antes de começar
 
