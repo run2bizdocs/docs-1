@@ -23,7 +23,7 @@ Veja as principais característica do Audit:
 
 ## Antes de começar
 
-Para utilizar os recursos do Audit é necessário, antes, realizar as seguintes configurações de parâmetros:
+Para utilizar os recursos do Audit é necessário, antes, realizar as seguintes configurações de parâmetros no CITSmart:
 
 - [X] Parâmetro 53 com valor igual à "DB_LOG", isso indica que os logs do sistema serão armazenados no banco de dados;
 
