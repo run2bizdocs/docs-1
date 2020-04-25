@@ -27,22 +27,25 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 *   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
-biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
+biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 16
 processos automatizados, sendo eles:
 
-*   Gerenciamento de Portfólio
-*   Catálogo de Serviços
-*   Gerenciamento de Nível de Serviço
-*   Gerenciamento de Requisição
-*   Gerenciamento de Conhecimento
-*   Gerenciamento de Incidentes
-*   Gerenciamento de Problema
-*   Gerenciamento de Configuração e Ativos
-*   Gerenciamento de Mudança
-*   Gerenciamento de Liberação e Implantação
-*   Gerenciamento de Evento
-*   Gerenciamento de Disponibilidade
-*   Gerenciamento de Continuidade
+*   AM = Asset Management	
+*   AVM = Gerenciamento de Disponibilidade	
+*   CAP = Gerenciamento de Capacidade	
+*   CHG = Gerenciamento de Mudança
+*   EV = Gerenciamento de Eventos
+*   FM = Gerenciamento Financeiro	
+*   IM = Gerenciamento de Incidentes	
+*   ITSCM = Gerenciamento de Continuidade de Serviços de TI	
+*   KM = Gerenciamento do Conhecimento 	
+*   PM = Gerenciamento de Problema
+*   REL = Gerenciamento de Liberação e Implantação	
+*   RF = Cumprimento de Requisição	
+*   SACM = Gerenciamento de Ativos de Serviço & Gerenciamento de Configuração	
+*   SCM = Gerenciamento do Catálogo de Serviço	
+*   SLM = Gerenciamento de Nível de Serviço
+*   SPM = Gerenciamento de Portifólio
 
 Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
 práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma
@@ -96,7 +99,9 @@ empresa em um único ponto.
 
 -   Gerenciamento do ciclo de vida de um Ticket
 
--   Gerenciamento de CMDB
+-   Gerenciamento Financeiro de um serviço
+
+-   Gerenciamento de CMDB e Ativos de Serviço
 
 -   Discovery & Inventory
 
@@ -126,7 +131,7 @@ empresa em um único ponto.
 
 -   Gerenciar planos de continuidade
 
--   Gerenciar a disponibilidade dos seus negócios
+-   Gerenciar a disponibilidade e capacidade dos seus negócios
 
 -   Crie fluxos de trabalho no padrão BPM, sem a necessidade de implantação de
     soluções. Tudo é ágil e dinâmico
@@ -274,5 +279,5 @@ para atender à norma ISO/IEC 20000, incorporando as melhores recomendações co
 PMBOK, COBIT, Six Sigma e ISO 20000.
 
 !!! tip "About"
-    <b>Updated:</b>12/31/2018 - Andre Luiz de Oliveira Fernandes
+    <b>Updated:</b>04/25/2020 - Andre Luiz de Oliveira Fernandes
 
