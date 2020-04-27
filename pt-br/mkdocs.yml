@@ -587,6 +587,13 @@ nav:
           - citsmart-platform-9/processes/continuity/configuration/register-continuity-risk.md
           - citsmart-platform-9/processes/continuity/configuration/risk-category.md
         - citsmart-platform-9/processes/continuity/configuration/continuity-template.md
+    - Financeiro:
+      - citsmart-platform-9/processes/financial/overview.md
+      - citsmart-platform-9/processes/financial/use/register-financial-cycle.md
+      - citsmart-platform-9/processes/financial/use/register-financial-item.md
+      - citsmart-platform-9/processes/financial/use/financial-item-category.md
+      - citsmart-platform-9/processes/financial/use/financial-cost-calculation.md
+      - citsmart-platform-9/processes/financial/use/financial-report.md        
   - Recursos adicionais:
     - Introdução:
       - citsmart-platform-9/additional-features/introduction.md
