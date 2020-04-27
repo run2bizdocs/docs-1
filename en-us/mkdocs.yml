@@ -110,12 +110,10 @@ nav:
       - citsmart-platform-9/get-started/about-citsmart/whats-citsmart.md
       - citsmart-platform-9/get-started/about-citsmart/whats-new-v9.md
       - citsmart-platform-9/get-started/about-citsmart/introduction-to-platform.md
-      - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
-      - citsmart-platform-9/get-started/about-citsmart/release-policy.md
     - Release Notes:
       - citsmart-platform-9/get-started/about-citsmart/release-notes.md
-      - What´s New:
-        - citsmart-platform-9/get-started/about-citsmart/release-notes/version-9.0.0.0.md
+      - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
+      - citsmart-platform-9/get-started/about-citsmart/release-policy.md      
     - Architecture:
       - citsmart-platform-9/get-started/architecture/architecture.md
     - Installation and Upgrade:
