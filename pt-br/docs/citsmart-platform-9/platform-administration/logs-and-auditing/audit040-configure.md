@@ -112,10 +112,10 @@ Adicione a seguinte linha ao standalone do wildfly no system-properties. Assim, 
 É muito provável que você possua um Mongo configurado, assim, é muito provável que as seguintes propriedades já estejam presentes no stantalone-full.xml, elas são necessárias para o correto funcionamento do Audit:
 
 ```sh
-/system-property=mongodb.host:add(value="citmongo")
-/system-property=mongodb.port:add(value="27017")
-/system-property=mongodb.user:add(value="admin")
-/system-property=mongodb.password:add(value="admin")
+<property name="mongodb.host" value="citmongo"/>
+<property name="mongodb.port" value="27017"/>
+<property name="mongodb.user" value="admin"/>
+<property name="mongodb.password" value="admin"/>
 ```
 
 - **CLI**
