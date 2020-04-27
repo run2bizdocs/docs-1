@@ -48,7 +48,7 @@ local e apertar “Gravar”.
 
 [Configurar conta de e-mail][2]
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço

@@ -26,7 +26,7 @@ Procedure
 7.  Click on "Process".
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

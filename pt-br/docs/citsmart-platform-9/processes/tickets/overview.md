@@ -116,7 +116,7 @@ Relatório
 
 - [Gerar relatórios- Gerência de incidentes e requisições](/pt-br/citsmart-platform-9/processes/tickets/use/generate-reports-tickets.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins

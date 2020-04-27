@@ -23,7 +23,7 @@ Procedure
 
 4. To generate the system log report, click the "Generate Report" button.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

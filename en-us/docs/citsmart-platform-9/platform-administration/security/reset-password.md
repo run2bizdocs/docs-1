@@ -44,7 +44,7 @@ To test the service to change the password, access the login page, click on "For
 
 [Configure E-mail Account][2]
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço

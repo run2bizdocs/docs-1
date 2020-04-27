@@ -156,5 +156,5 @@ Los demás componentes presentes en la paleta se asemejan a los componentes de u
 Figura 7 - Pantalla de registro/edición del workflow, pestaña de Diagrama  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

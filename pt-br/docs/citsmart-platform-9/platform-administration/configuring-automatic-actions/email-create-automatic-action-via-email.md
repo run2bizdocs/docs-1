@@ -30,7 +30,7 @@ Relacionado
 
 [Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-platform-9/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

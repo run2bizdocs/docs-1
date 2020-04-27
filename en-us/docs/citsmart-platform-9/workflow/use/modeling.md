@@ -23,7 +23,7 @@ This feature is a good alternative for creating workflows in the standard BPMN (
 [1]:http://www.bpmn.org/
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

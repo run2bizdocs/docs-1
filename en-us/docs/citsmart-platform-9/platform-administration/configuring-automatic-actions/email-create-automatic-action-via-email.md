@@ -27,7 +27,7 @@ Related
 
 [Register automatic actions of incident/request/procedure](/en-us/citsmart-platform-9/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

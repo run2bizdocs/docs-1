@@ -83,7 +83,7 @@ embargo, es necesario tener acceso a un cambio.
     ejecución y no avanzar el flujo de actividades o seleccionar "Guardar y avanzar flujo" para
     cerrar la tarea y direccionar para la siguiente fase del flujo.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

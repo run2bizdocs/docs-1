@@ -12,7 +12,7 @@ Expressões são recursos utilizados nos fluxos do sistema para permitir a const
 [1]:/pt-br/citsmart-platform-9/workflow/configuration/expressions-creator.html
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

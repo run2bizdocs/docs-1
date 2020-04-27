@@ -28,7 +28,7 @@ Related
 [Create calendar](/en-us/citsmart-platform-9/platform-administration/time/create-calendar.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

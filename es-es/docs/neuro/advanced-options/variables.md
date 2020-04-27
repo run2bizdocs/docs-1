@@ -68,5 +68,5 @@ Figura 3- Pantalla de registro/edición del workflow, pestaña de Variables
 5- Para eliminar una variable de flujo, seleccione la variable deseada, haga clic en "Eliminar" y confirme la eliminación.  
 	
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

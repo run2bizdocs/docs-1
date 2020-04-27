@@ -211,7 +211,7 @@ Related
 
 [Creating capacity reports](en-us/4biz-helium/processes/capacity/creating-report.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

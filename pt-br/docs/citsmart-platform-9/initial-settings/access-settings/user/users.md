@@ -46,7 +46,7 @@ Para enviar o Login e a Senha do usuário para o e-mail do Colaborador:
 
 [Criar perfil de acesso](/pt-br/citsmart-platform-9/initial-settings/access-settings/profile/create-profile-access.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

@@ -52,7 +52,7 @@ Relacionado
 [Gestionar mis solicitudes por el Smart Portal](/es-es/citsmart-platform-9/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

@@ -127,7 +127,7 @@ Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, 
 [Configurar acesso externo ao Portal do Conhecimento](/pt-br/citsmart-platform-9/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/26/2019 – Education Team

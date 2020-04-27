@@ -64,7 +64,7 @@ Procedimiento
     diferentes, ver [Registrar usuario][1] y [Editar información de la cuenta][2].
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins

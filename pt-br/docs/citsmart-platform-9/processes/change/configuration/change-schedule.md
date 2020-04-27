@@ -31,7 +31,7 @@ Procedimento
 
 6.  Clicar no botão “Adicionar” para efetuar a operação.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

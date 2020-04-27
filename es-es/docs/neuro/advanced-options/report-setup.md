@@ -85,5 +85,5 @@ Esta pestaña representa el formulario que se muestra cuando el usuario genera e
 Figura 6 - Registro/edición de configuración del informe, pestaña Formulario  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

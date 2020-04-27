@@ -54,5 +54,5 @@ Figura 2 - Tela de listagem de parâmetros
 5. Clique em "Salvar" para salvar suas alterações.    
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

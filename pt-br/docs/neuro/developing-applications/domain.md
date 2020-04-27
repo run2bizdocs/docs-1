@@ -31,7 +31,7 @@ Figura 1 - Pesquisar domínio
 
 Figura 2 - Cadastrar domínio
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

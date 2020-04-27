@@ -81,5 +81,5 @@ serviços e processos.
 Essa é a nova mentalidade para as novas empresas e a CITSmart -
 Enterprise Services Platform ajudará nas mudanças da perspectiva dessas corporações.
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>01/17/2018 - Andre Luiz de Oliveira Fernandes

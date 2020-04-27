@@ -12,7 +12,7 @@ Relacionado
 
 [Carregar metadados](/pt-br/citsmart-platform-9/platform-administration/data-and-import/metadata-load.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>05/15/2019 - Anna Martins

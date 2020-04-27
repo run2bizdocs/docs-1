@@ -152,7 +152,7 @@ Figura 7 - SQL
 2.	Al hacer clic en "Editar" formulario, en el encabezado de la pantalla, generará un formulario para ese objeto de negocio. Si no hay un formulario para este objeto de negocio, aparecerá la barra lateral Campos. Si ya hay un formulario registrado anteriormente vinculado a este formulario, la guía Dibujar Pantalla para este formulario se abrirá.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  

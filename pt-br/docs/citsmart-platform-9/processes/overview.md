@@ -278,6 +278,6 @@ que recomenda as melhores práticas para o gerenciamento de serviços de TI e fo
 para atender à norma ISO/IEC 20000, incorporando as melhores recomendações contidas no CMMI,
 PMBOK, COBIT, Six Sigma e ISO 20000.
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>04/25/2020 - Andre Luiz de Oliveira Fernandes
 

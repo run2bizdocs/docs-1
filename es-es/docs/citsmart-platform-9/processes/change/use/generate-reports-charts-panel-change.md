@@ -129,7 +129,7 @@ gráfico, las solicitudes de cambio creadas por servicio.
 5.  Se mostrará el gráfico de solicitud de cambio por servicio, según los
     filtros definidos.
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

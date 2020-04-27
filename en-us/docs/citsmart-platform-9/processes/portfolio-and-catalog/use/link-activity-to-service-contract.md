@@ -76,7 +76,7 @@ Procedure
         - It's not possible to delete an assessment to which cycles are not closed with the
         configurations registered.  
        
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/08/2019 – Larissa Lourenço

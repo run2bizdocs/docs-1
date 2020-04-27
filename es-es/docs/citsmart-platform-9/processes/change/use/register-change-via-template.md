@@ -34,7 +34,7 @@ Relacionado
 
 [Crear portafolio de cambio](/es-es/citsmart-platform-9/processes/change/configuration/change-portfolio.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

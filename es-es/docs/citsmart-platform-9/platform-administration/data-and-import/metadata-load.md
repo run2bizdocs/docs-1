@@ -12,7 +12,7 @@ Procedimiento
 2.  Informar el nombre de la tabla o para presentar la lista completa de todas,
     hacer clic en "Cargar".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 -Larissa Lourenço

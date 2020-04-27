@@ -85,7 +85,7 @@ you must have access to a Change.
     and not advance the activity flow, or select "Save and advance flow" to close the task
     and send it to the next phase of the flow.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

@@ -53,7 +53,7 @@ Los permisos de carpeta se aplican desde dos perspectivas: perfil de acceso y gr
 [Crear conocimiento][1]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 

@@ -34,7 +34,7 @@ This report aims to present the changes registered.
 4.  Click on “Generate PDF” to create the report in PDF and/or click on
     “Generate XLS” to create the report in Excel.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

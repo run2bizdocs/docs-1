@@ -66,7 +66,7 @@ Relacionado
 
 [Cadastrar tipo de item de configuração](/pt-br/citsmart-platform-9/processes/configuration/configuration/register-type-ic.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Larissa Lourenço

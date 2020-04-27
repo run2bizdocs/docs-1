@@ -37,7 +37,7 @@ Para visualizar o status de inventário de ICs é necessário ter definido um pr
 
 [Implementar o CITSmart Inventory](/pt-br/citsmart-platform-9/additional-features/add-ons/inventory.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

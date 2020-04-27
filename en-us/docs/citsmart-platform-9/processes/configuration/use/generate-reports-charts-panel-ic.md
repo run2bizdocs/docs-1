@@ -30,7 +30,7 @@ Procedure
     -   To generate a report in Excel, click on the “Download document XLS”
         icon.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

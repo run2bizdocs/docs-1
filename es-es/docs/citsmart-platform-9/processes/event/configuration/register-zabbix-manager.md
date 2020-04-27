@@ -56,7 +56,7 @@ Relacionado
 [Configurar conexión Inventory](/es-es/citsmart-platform-9/processes/event/configuration/set-inventory-connection.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

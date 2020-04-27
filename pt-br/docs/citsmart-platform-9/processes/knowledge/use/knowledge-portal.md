@@ -105,7 +105,7 @@ conhecimento na Base de Conhecimento
 
 - **15**:Ícone para contribuir com a gestão de conhecimento da organização, ou seja, a maneira que o usuário tem para criar (propor) um novo conhecimento
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins

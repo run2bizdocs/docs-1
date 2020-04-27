@@ -89,7 +89,7 @@ entanto, é preciso ter acesso a uma Mudança.
     selecionar o botão “Gravar e avançar o fluxo” para finalizar a tarefa e
     dirigir para próxima fase do fluxo.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

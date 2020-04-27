@@ -20,7 +20,7 @@ Lo que hacer después
 Después de guardar el cambio, acceder a la funcionalidad que se realizó el
 cambio de label para la verificación.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

@@ -53,7 +53,7 @@ Folder permissions are applied from two perspectives: access profile and user gr
 [Creating knowledge][1]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Product/Verssion:</b> CITSmart | 9.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 

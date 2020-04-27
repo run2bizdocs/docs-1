@@ -18,7 +18,7 @@ En el siguiente enlace puede acceder al diccionario de datos de la herramienta C
 
 [1]:/en-us/neuro/images/database-dictionary.rtf  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

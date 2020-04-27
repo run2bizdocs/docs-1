@@ -22,7 +22,7 @@ What to do next
 After save the change, access the functionality that was made and label change
 to verification.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

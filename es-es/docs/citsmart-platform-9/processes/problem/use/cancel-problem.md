@@ -30,7 +30,7 @@ Procedimiento 
 7.  Hacer clic en "Guardar y  avanzar flujo" o "Guardar y mantener tarea actual"
     para hacer la operación.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Larissa Lourenço

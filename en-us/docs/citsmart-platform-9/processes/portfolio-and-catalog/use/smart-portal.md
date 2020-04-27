@@ -91,7 +91,7 @@ Procedure
     view the requests created by the user when click on the icon "My Requests", view ticket 
     approvals made by the user, observe news and active campaigns (questionnaires) about the organization.  
     
-!!! tip "About"  
+<!-- !!! tip "About"  
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

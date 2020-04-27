@@ -41,7 +41,7 @@ Procedure
     |199| Requires TLS/SSL | Yes |
 
 	
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

@@ -28,7 +28,7 @@ Related
 [Implement CITSmart Inventory](/en-us/citsmart-platform-9/additional-features/add-ons/inventory.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

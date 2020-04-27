@@ -150,5 +150,5 @@ Os demais componentes presentes na paleta se assemelham aos componentes de um �
 Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

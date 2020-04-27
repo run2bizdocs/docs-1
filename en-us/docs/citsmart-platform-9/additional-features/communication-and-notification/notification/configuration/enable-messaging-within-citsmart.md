@@ -49,7 +49,7 @@ Related
 [Manage my requests through Smart Portal](/en-us/citsmart-platform-9/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

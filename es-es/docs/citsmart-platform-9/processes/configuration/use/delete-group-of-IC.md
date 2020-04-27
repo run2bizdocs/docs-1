@@ -25,7 +25,7 @@ Relacionados
 
 [Registrar grupo de elemento de configuración](/es-es/citsmart-platform-9/processes/configuration/configuration/register-configuration-item-group.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 – Larissa Lourenço

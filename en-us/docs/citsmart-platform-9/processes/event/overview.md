@@ -77,7 +77,7 @@ Reports
 
 - [Generate reports - event management](/en-us/citsmart-platform-9/processes/event/use/generate-reports-event-management.html)  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

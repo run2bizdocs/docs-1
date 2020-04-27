@@ -32,7 +32,7 @@ template are listed below:
 Table 1 - List of key fields
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

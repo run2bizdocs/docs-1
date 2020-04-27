@@ -78,7 +78,7 @@ Procedimiento
         - No puede excluirse un prorrateo cuyo ciclo tenga servicios cerrados con las
         configuraciones registradas.  
        
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/08/2019 – Larissa Lourenço

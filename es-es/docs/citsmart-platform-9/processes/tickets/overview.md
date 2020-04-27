@@ -114,7 +114,7 @@ Informe
 
 - [Generar informes - Gestión de incidentes y solicitudes](/es-es/citsmart-platform-9/processes/tickets/use/generate-reports-tickets.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -31,7 +31,7 @@ Procedimento
     adotados no sistema e os valores informados na planilha, o sistema exibirá
     um alerta.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins

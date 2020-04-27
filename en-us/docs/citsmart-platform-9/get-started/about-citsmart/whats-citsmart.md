@@ -82,7 +82,7 @@ Service Management framework (SLAs, knowledge, portfolio, tickets, service porta
 In addition, we understand that the concepts of Service Management is very powerful and can go beyond
 IT, allowing interesting gains to the business units.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <!-- <b>Updated:</b>01/17/2019 - Anna Martins

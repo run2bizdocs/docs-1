@@ -74,7 +74,7 @@ Procedimento
 
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

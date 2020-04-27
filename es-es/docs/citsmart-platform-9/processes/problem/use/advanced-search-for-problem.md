@@ -30,7 +30,7 @@ Procedimiento
      pantalla). En esta pantalla, también es posible añadir nuevos registros de ocurrencias, 
      al hacer clic en "Añadir ocurrencia" y completar los campos obligatorios.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

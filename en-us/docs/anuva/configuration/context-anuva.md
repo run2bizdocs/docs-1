@@ -20,7 +20,7 @@ Procedure
     so that the information is processed by Anuva
     
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

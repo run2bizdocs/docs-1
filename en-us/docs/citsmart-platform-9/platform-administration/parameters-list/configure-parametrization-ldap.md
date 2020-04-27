@@ -32,7 +32,7 @@ Procedure
 
 Table 1 - Parameters table
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 - Anna Martins

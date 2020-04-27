@@ -51,5 +51,5 @@ Figura 2 - Tela de listagem de arquivos de relatório
 7. Para remover um item criado, selecione o item desejado, clique em "Remover" e confirme a exclusão.  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

@@ -61,7 +61,7 @@ Lo que hacer después
     -   La notificación con el icono simbolizado por un signo de exclamación, indica la confirmación de lectura.    
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

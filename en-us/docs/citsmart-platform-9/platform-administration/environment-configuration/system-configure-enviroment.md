@@ -27,7 +27,7 @@ Procedure
 5.  To download the Jboss Log or, click on "Download".
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Anna Martins

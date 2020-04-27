@@ -17,7 +17,7 @@ The platform has mechanisms to measure the satisfaction of users who use a servi
 [2]:/en-us/citsmart-platform-9/additional-features/communication-and-notification/notification/use/notification.html
 [3]:/en-us/citsmart-platform-9/additional-features/communication-and-notification/email/register-email-notification.html  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

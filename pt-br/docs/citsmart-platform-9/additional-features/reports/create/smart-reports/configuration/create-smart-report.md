@@ -26,7 +26,7 @@ Relacionado
 [Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-platform-9/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

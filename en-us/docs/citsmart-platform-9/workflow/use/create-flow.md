@@ -50,7 +50,7 @@ Related
 
 [Register ticket template](/en-us/citsmart-platform-9/platform-administration/questionnaires/ticket-template.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço

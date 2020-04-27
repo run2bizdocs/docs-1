@@ -46,7 +46,7 @@ It's necessary to have defined the access permission to the functionalities of t
 
 - [Register capacity indicators](/en-us/citsmart-platform-9/processes/capacity/use/register-capacity-indicators.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
     <b>Updated:</b> 20/03/2020 - Andre Fernandes

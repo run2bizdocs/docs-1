@@ -30,7 +30,7 @@ To test the Inventory, [configure][4] the connections in the CITSmart instance.
 [Asset and Configuration Management][6]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019

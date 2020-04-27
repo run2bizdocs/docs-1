@@ -55,7 +55,7 @@ Relacionado
 
 [Realizar auditoría en el sistema](/es-es/citsmart-platform-9/platform-administration/logs-and-auditing/system-audit.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>05/31/2019 – Larissa Lourenço

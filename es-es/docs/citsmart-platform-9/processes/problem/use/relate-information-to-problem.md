@@ -90,6 +90,6 @@ embargo es imprescindible tener acceso a un problema.
 1. Hacer clic en "Opciones" y luego "Guardar y avanzar flujo" o "Guardar y mantener la tarea
     actual", esta última opción permite no avanzar a la siguiente fase el problema.
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

@@ -126,7 +126,7 @@ Procedure
     This tab has the ability to add variables in the JavaScript scope on the screen that opens when you click the "View Screen" button.     More information can be found in the Developing Applications.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  

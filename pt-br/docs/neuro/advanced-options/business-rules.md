@@ -100,5 +100,5 @@ Figura 8 - Tela de cadastro/edição de regra de negócio - Tipo Fluxo (continua
 
   3. Clique em Salvar para executar as alterações.    
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

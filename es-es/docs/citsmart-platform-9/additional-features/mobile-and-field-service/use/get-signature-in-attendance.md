@@ -65,7 +65,7 @@ Relacionado
 [Manual de uso de la aplicación CITSmart GO](/es-es/citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/20/2019 – Anna Martins

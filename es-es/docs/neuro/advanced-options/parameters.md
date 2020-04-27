@@ -51,5 +51,5 @@ Figura 4 - Pantalla de registro de parámetro
 5- Haga clic en "Guardar" para guardar los cambios.    
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

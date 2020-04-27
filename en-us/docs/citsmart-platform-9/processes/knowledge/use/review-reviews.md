@@ -33,7 +33,7 @@ Related
 
 [Register user](/en-us/citsmart-platform-9/initial-settings/access-settings/user/users.html)    
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Larissa Lourenço

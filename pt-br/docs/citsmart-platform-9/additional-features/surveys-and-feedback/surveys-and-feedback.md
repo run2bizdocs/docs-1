@@ -13,7 +13,7 @@ A plataforma possui mecanismos para medir a satisfação dos usuários que usam 
 [Cadastrar notificação via e-mail][3]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - Anna Martins

@@ -25,7 +25,7 @@ Configuração
 
 - [Cadastrar grupo de disponibilidade](/pt-br/citsmart-platform-9/processes/availability/configuration/register-availability-group.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins

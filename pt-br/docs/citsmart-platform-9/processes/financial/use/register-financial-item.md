@@ -107,7 +107,7 @@ The Grid wil inform Date and time of the ocurrence, the user, wich element is in
 
 - [Register financial cycle](/en-us/4biz-helium/processes/financial/use/register-financial-cycle.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
     <b>Updated:</b> 20/03/2020 - Andre Fernandes

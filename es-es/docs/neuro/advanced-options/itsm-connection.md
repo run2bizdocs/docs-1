@@ -50,5 +50,5 @@ Figura 4 - Pantalla de registro
 5- Haga clic en Guardar para crear la conexión ITSM. Haga clic en Buscar para volver a la pantalla anterior.  
 6- La conexión puede estar vinculada a un proceso de negocio registrado.    
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

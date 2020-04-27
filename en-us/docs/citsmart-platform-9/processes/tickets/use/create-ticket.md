@@ -167,7 +167,7 @@ Related
 [3]:images/Description-service-CITSmart.png
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Verssion:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço

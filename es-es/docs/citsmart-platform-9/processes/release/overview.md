@@ -46,7 +46,7 @@ Configuración
 
 - [Crear portafolio de liberación](/es-es/citsmart-platform-9/processes/release/configuration/release-portfolio.html)
   
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Larissa Lourenço

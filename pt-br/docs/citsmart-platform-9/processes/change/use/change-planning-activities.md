@@ -52,7 +52,7 @@ Relacionado
 
 [Cadastrar uma mudança](/pt-br/citsmart-platform-9/processes/change/use/register-change.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

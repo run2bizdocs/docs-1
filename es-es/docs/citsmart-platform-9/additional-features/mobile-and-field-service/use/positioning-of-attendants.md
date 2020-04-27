@@ -35,7 +35,7 @@ Relacionado
 [Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-platform-9/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -12,7 +12,7 @@ expresiones también se pueden utilizar para configurar diferentes estados de un
 [1]:/es-es/citsmart-platform-9/workflow/configuration/expressions-creator.html
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

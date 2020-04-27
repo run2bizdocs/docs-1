@@ -127,7 +127,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do CITSmart em cen
 [Configurar parametrização - chat](/pt-br/citsmart-platform-9/platform-administration/parameters-list/configure-parametrization-chat.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart ESP | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>07/04/2019 – Anna Martins

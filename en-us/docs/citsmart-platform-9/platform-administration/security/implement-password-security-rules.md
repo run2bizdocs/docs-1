@@ -66,7 +66,7 @@ Procedure
     ways, see [Register user][1] and [Edit user account][2].
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins

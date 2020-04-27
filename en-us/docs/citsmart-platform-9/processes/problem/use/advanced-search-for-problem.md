@@ -34,7 +34,7 @@ Procedure
     registration, when click on "Add occurrences" and complete the mandatory
     fields.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

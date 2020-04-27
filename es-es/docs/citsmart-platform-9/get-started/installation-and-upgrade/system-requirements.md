@@ -46,7 +46,7 @@ Para instalar el Apache SOLR, se recomienda seguir la siguiente configuración:
 !!! tip
     Los servicios **SOLR** y **MongoDB** se pueden instalar en el mismo servidor que la aplicación CITSmart. Recomendamos para entornos de producción que separe el servidor de base de datos del servidor de aplicaciones.
    
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins

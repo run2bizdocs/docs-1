@@ -201,7 +201,7 @@ Relacionado
 
 [Configurar as opções de menu no mobile](/pt-br/citsmart-platform-9/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins

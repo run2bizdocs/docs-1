@@ -159,7 +159,7 @@ Após esses passos e configurações, a auditoria já deve estar em execução.
 
 [Realizar auditoria no sistema](/pt-br/citsmart-platform-9/platform-administration/logs-and-auditing/system-audit.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.0 &nbsp;&nbsp;
     <b>Updated:</b>04/25/2020 – Infra Team

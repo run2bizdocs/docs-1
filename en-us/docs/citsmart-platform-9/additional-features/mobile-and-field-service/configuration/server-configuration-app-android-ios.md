@@ -209,7 +209,7 @@ Related
 
 [Configure mobile options](/en-us/citsmart-platform-9/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/11/2019 - Anna Martins

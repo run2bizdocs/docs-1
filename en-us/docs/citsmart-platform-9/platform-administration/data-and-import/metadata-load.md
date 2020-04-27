@@ -13,7 +13,7 @@ Procedure
 2.  Enter the table name or to display the complete list of all, click on
     "Load".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

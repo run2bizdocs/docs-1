@@ -25,7 +25,7 @@ Procedimiento
 
 8.  Informar los datos necesarios y hacer clic en "Ejecutar".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

@@ -18,7 +18,7 @@ No link abaixo você pode ter acesso ao dicionário de dados da ferramenta CITSm
 
 [1]:/en-us/neuro/images/database-dictionary.rtf  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

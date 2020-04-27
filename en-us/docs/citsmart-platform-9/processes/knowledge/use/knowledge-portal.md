@@ -93,7 +93,7 @@ It also enables it to register a new knowledge in order to make the portal dynam
 - **15**: Icon to contribute to the knowledge management of the organization, that is, the way the user has to create (propose) a new knowledge
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins

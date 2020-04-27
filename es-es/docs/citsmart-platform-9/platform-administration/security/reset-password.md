@@ -44,7 +44,7 @@ Para probar el servicio de cambio de contraseña, acceder a la página de login,
 
 [Configurar Cuenta de Correo Electrónico][2]
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço

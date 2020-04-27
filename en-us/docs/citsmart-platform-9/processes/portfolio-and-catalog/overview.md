@@ -90,7 +90,7 @@ Report
 
 - [Verify service audit](/en-us/citsmart-platform-9/processes/portfolio-and-catalog/use/service-audit.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

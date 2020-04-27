@@ -25,7 +25,7 @@ Procedure
     and occurrences, by clicking on the item "History of Change" (located on
     the left side of the screen).
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

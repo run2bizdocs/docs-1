@@ -114,7 +114,7 @@ Procedimiento
     El objetivo principal de esta vinculación de conocimiento es permitir que el asistente de una solicitud/incidente tenga fácil acceso. Una vez que el workflow llegue a la actividad del flujo vinculado a un conocimiento, el botón "Conocimientos" se muestra en la esquina superior derecha de la pantalla de Solicitud/Incidente para dar acceso de lectura al contenido, para ello, tal conocimiento generalmente está escrito en la forma de un paso a paso.
     
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/22/2019 – Anna Martins

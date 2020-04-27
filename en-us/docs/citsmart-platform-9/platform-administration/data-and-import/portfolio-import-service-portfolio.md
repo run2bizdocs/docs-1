@@ -29,7 +29,7 @@ Procedure
     in the system and the values entered in the spreadsheet, the system will
     display an alert.  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - Anna Martins

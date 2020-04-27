@@ -59,7 +59,7 @@ Relacionado
 
 [Registrar moneda](/es-es/citsmart-platform-9/additional-features/contract-management/configuration/register-currency.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

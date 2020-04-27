@@ -30,7 +30,7 @@ Procedure 
 7.  Click on "Save and advance flow" or "Save and keep current task" to perform the
     operation.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Larissa Lourenço

@@ -68,7 +68,7 @@ es responsable en el ambiente de nube:
 
 Para cada una de las áreas anteriores, contamos con procesos y medidas de seguridad técnica que garantizan el cumplimiento de la seguridad en base a las mejores prácticas del mercado.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins

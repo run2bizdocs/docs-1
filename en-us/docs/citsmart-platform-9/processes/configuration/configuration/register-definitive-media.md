@@ -49,7 +49,7 @@ Procedure
 4. For search some definitive media access the "definitive media search" tab and select the media to be able to view, edit or delete.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

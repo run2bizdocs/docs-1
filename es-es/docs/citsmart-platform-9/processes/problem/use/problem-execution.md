@@ -110,7 +110,7 @@ Relacionado
  
 [Registrar problema](/es-es/citsmart-platform-9/processes/problem/use/register-problem.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço  

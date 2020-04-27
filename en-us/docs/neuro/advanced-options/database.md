@@ -53,7 +53,7 @@ By using this screen the user can register the databases used by Neuro.
 5. The database types are pre-registered in the application. To learn more about registering data types, please refer to the relevant documentation.  
 6. Click "Save" to create the database. Click "Search" to return to the previous screen.  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

@@ -52,7 +52,7 @@ Figure 2 - Report file listing screen
 6. To view an item, select the item and click "View".  
 7. To remove a created item, select the item you want, click "Remove", and confirm the deletion.  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

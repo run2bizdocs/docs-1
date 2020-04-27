@@ -107,7 +107,7 @@ Es necesario tener creado la Aplicación Neuro.
 
     Esta guía tiene la capacidad de agregar variables en el ámbito de JavaScript, en la pantalla que se abre al hacer clic en "Ver           Pantalla". Más información se puede encontrar en Desarrollar Aplicaciones.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  

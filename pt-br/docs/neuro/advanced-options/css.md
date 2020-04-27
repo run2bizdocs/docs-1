@@ -58,5 +58,5 @@ Figura 2 - Tela de listagem de CSS
 4. Informe uma descrição, o caminho da pasta do CSS e faça o upload do arquivo. Os campos de nome e versão são auto incrementados pelo sistema.   
 5. Clique em "Salvar" para armazenar o arquivo. Clique em "Pesquisar" para voltar para a tela anterior.    
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

@@ -25,7 +25,7 @@ Related
 [Register a contract](/en-us/citsmart-platform-9/additional-features/contract-management/use/register-contract.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

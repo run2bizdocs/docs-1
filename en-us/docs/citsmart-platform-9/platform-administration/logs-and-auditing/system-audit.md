@@ -98,7 +98,7 @@ Related
 
 [Configure Audit 0.4.0](/en-us/citsmart-platform-9/platform-administration/logs-and-auditing/audit040-configure.html)
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/15/2019 – Larissa Lourenço

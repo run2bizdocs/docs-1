@@ -30,7 +30,7 @@ Para que la Indización del conocimiento funcione correctamente, es necesario:
 indexados, haga clic en "Eliminar la indexación de la base de conocimiento".
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019

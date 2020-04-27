@@ -23,7 +23,7 @@ Use
 
 - [Register capacity indicators Type](/en-us/citsmart-platform-9/processes/capacity/use/register-capacity-indicators-type.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b> 20/03/2020 - Andre Fernandes

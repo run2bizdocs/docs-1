@@ -24,7 +24,7 @@ Procedure
 6.  Next to each change registration, there are icons for viewing the
     request and its attachments.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

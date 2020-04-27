@@ -33,7 +33,7 @@ Para enviar el comentario por correo electrónico es necesario [Configurar el se
 
 [1]:/es-es/citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.html
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>06/26/2019

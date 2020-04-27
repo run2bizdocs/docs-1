@@ -37,7 +37,7 @@ Description: Neuro AddOns for CITSmart.
 
 <hr>
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Produto/Versão:</b> CITSmart | 9.00</font> &nbsp; &nbsp;
     <b>Atualização:</b> 09/05/2019 - André L. Fernandes

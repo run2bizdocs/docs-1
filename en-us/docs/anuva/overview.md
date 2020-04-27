@@ -46,7 +46,7 @@ In this environment, you will be able to add and review knowledge to Anuva, you 
 
 [Monitor interactions of Anuva](/en-us/anuva/use/monitoring-anuva.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

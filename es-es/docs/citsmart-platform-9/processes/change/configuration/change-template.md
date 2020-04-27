@@ -22,7 +22,7 @@ Procedimiento
 
 5.  Hacer clic en "Guardar".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

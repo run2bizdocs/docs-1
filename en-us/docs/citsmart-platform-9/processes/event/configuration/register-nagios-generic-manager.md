@@ -44,7 +44,7 @@ Related
 [Set Inventory connection](/en-us/citsmart-platform-9/processes/event/configuration/set-inventory-connection.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

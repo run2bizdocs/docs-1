@@ -122,7 +122,7 @@ changes by service.
 5.  It’ll be presented the chart of changes by service, according to the
     filters selected.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

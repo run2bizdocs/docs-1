@@ -206,6 +206,6 @@ Figura 9 - Botón para editar las propiedades de un componente
 Figura 10 - Modal con las propiedades del elemento se muestra para editar   	
 	
 	
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior	
 	

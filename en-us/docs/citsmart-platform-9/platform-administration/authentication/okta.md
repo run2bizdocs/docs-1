@@ -142,7 +142,7 @@ Once the Okta integration with CITSmart is complete, some CITSmart parameters ca
  
  - The parameter 445 (Name of the Administrator group in Okta) allows you to choose the administrator group in the Okta solution. If the user belongs to this chosen group, he/she will have the access profile defined as administrator. If this is not the case, your access profile will be the default profile defined by the parameter 39.
  
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>05/30/2019 – Larissa Lourenço

@@ -42,7 +42,7 @@ CITSmart has security compliance based on the following areas in which it is res
 
 For each area above, we have technical security processes and measures that ensure security compliance based on best market practices.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

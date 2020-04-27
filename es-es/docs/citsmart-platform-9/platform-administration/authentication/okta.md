@@ -147,7 +147,7 @@ Concluido la integración del Okta con el CITSmart, algunos parámetros del CITS
  
  - El parámetro 445 (nombre del grupo Administrador en Okta) permite elegir el grupo administrador en la solución Okta. Si el usuario pertenece a este grupo elegido, tendrá el perfil de acceso definido como administrador. Si no es así, su perfil de acceso será el perfil predeterminado definido por el parámetro 39.
  
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>05/30/2019 – Larissa Lourenço

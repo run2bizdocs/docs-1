@@ -42,7 +42,7 @@ Figura 1 - Internacionalização
 Figura 2 - Dados da internacionalização
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 – Anna Martins

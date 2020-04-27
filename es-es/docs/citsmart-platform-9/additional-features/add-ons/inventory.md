@@ -33,7 +33,7 @@ Para probar el Inventory, [configurar][4] las conexiones en la instancia CITSmar
 [Gestión de Configuración y Activos][6]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019

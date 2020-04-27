@@ -20,7 +20,7 @@ A Anuva já se integra nativamente ao CITSmart, então é muito fácil adicioná
     Se os parâmetros mencionados não estiverem disponíveis, atualizar a versão do CITSmart.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

@@ -77,7 +77,7 @@ Relacionado
 
 [Obter assinatura em atendimento de campo](/pt-br/citsmart-platform-9/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

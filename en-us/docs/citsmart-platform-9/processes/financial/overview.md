@@ -17,7 +17,7 @@ Use
 
 - [Register Financial Item](/en-us/citsmart-platform-9/processes/financial/use/register-financial-item.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
     <b>Updated:</b> 24/03/2020 - Andre Fernandes

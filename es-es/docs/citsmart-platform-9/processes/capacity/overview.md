@@ -24,7 +24,7 @@ Uso
 
 - [Importar datos de indicador de capacidad](/es-es/citsmart-platform-9/processes/capacity/use/capacity-indicators-data.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

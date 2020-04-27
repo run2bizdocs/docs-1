@@ -75,7 +75,7 @@ Related
 
 - [Register financial item](/en-us/4biz-helium/processes/financial/use/register-financial-item.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b> 24/03/2020 - Andre Fernandes

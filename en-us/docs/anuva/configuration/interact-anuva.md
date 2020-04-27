@@ -32,7 +32,7 @@ Procedure
     to open a ticket for us to do the homologation of the integration.
     
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

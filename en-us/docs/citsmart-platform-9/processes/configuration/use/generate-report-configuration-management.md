@@ -31,7 +31,7 @@ changes related to the same configuration item.
 
 2.  Set the filters as necessary.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

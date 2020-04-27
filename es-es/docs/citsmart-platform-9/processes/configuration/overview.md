@@ -78,7 +78,7 @@ Informe
 
 - [Generar informes por el panel de gráficos e informes - Elementos de configuración](/es-es/citsmart-platform-9/processes/configuration/use/generate-report-configuration-management.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

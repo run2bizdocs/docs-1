@@ -67,7 +67,7 @@ O CITSmart tem conformidade de segurança com base nas seguintes áreas nas quai
 
 Para cada área acima, temos processos e medidas de segurança técnica que garantem conformidade de segurança com base nas melhores práticas de mercado.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins

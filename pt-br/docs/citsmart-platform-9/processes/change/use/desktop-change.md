@@ -26,7 +26,7 @@ Procedimento
     também é possível detalhar em qual atividade das fases de Planejamento, Plano de reversão e 
     Revisão e fechamento a mudança está simplesmente checando na tab de atividades o Kanban
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

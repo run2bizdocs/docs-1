@@ -42,7 +42,7 @@ Pronto, a partir de agora será possível identificar novos atendimentos pela no
 
 [Criar um fluxo de trabalho][2]
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>07/08/2019 - Larissa Lourenço

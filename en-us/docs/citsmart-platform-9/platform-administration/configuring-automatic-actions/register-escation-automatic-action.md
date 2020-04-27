@@ -26,7 +26,7 @@ Related
 [Create escalation rule](/en-us/citsmart-platform-9/processes/tickets/use/create-escalation-rule.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

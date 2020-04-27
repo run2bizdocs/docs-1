@@ -30,7 +30,7 @@ In order for Knowledge Indexing to work correctly, it is necessary:
 Knowledge Base Indexing".
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019

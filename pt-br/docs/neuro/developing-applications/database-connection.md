@@ -40,7 +40,7 @@ Figura 1 - Aplicação
     Além disso, o nome do driver no conector do fluxo ESI deve ser `net.sourceforge.jtds.jdbc.Driver`.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  

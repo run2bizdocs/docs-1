@@ -386,7 +386,7 @@ Para más información acceder la documentación de [Mobile CITSmart Experience]
 [8]:/es-es/citsmart-platform-9/additional-features/mobile-and-field-service/apps/citsmart-app.html
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes

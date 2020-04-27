@@ -35,7 +35,7 @@ the ticket) and click on the "Add" icon. It is possible to allow this informatio
 
 [1]:/en-us/citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.html
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>06/26/2019

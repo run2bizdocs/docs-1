@@ -56,7 +56,7 @@ What to do next
     
     -   The notification with an icon symbolized by an exclamation mark, indicates the reading confirmation.
     
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

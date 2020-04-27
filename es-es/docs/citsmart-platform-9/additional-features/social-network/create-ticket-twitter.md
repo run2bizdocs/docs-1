@@ -33,7 +33,7 @@ Procedimiento
     específicamente con el propósito de atender este tipo de solicitud. Además, es necesario para ejecutar el flujo, un 
     proceso de negocio programado por expresión Cron.  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

@@ -501,7 +501,7 @@ Relacionado
 [Configurar la opciones del mobile](/es-es/citsmart-platform-9/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

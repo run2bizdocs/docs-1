@@ -48,5 +48,5 @@ Figura 3 - Pantalla de registro del archivo de informe
 7- Para eliminar un elemento creado, seleccione el elemento deseado, haga clic en "Eliminar" y confirme la eliminación.  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

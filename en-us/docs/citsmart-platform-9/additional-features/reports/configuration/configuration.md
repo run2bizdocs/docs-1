@@ -24,7 +24,7 @@ Some configurations can be take to change the standard view of reports.
 3. Save.
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

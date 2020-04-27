@@ -12,7 +12,7 @@ Expressions are resources used in system flows to allow the construction of seve
 [1]:/en-us/citsmart-platform-9/workflow/configuration/expressions-creator.html
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

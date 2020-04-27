@@ -32,7 +32,7 @@ Related
 [Register configuration item group](/en-us/citsmart-platform-9/processes/configuration/configuration/register-configuration-item-group.html)
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço

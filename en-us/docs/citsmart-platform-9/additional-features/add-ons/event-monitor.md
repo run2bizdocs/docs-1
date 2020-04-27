@@ -18,7 +18,7 @@ To enable it in a CITSmart instance it is necessary to download the WAR package 
 To test the EVM, [configure][1] the connections in the CITSmart instance.  
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

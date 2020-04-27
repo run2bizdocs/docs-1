@@ -53,7 +53,7 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 [Criar conhecimento][1]
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 

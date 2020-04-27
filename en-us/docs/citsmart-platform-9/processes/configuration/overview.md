@@ -75,7 +75,7 @@ Report
 
 - [Generate reports through the charts and reports panel - configuration items](/en-us/citsmart-platform-9/processes/configuration/use/generate-reports-charts-panel-ic.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

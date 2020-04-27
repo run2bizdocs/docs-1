@@ -18,7 +18,7 @@ Es posible importar un rango de datos al CITSmart Platform, esto puede ayudar en
 [2]:/es-es/citsmart-platform-9/platform-administration/data-and-import/portfolio-import-service-portfolio.html
 [3]:/es-es/citsmart-platform-9/platform-administration/data-and-import/metadata-load.html
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

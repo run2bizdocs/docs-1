@@ -25,7 +25,7 @@ Procedimiento
     y ocurrencias al hacer clic en el elemento "Historial de Cambio" (al lado izquierdo
     de la pantalla).
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

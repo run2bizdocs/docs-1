@@ -131,7 +131,7 @@ Relacionado
 [4]:images/attendance-ticket-history.png
 [5]:images/assignment-and-situation-ticket.png
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

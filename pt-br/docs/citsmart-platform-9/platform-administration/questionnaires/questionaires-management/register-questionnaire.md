@@ -37,7 +37,7 @@ Relacionado
 
 [Cadastrar categoria de questionário](/pt-br/citsmart-platform-9/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

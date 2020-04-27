@@ -33,7 +33,7 @@ Procedimento
     Neuro criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
     necessitará de um processo de negócio agendado por expressão Cron.  
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

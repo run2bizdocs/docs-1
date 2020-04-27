@@ -33,7 +33,7 @@ Relacionado
 
 [Registrar grupo de actividad periódica](/es-es/citsmart-platform-9/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

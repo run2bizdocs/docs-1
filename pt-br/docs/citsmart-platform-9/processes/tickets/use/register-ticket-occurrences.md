@@ -38,7 +38,7 @@ parâmetros 251, 252, 253 e 298.Para o envio do comentário via e-mail é necess
 
 [1]:/pt-br/citsmart-platform-9/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.html
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>09/06/2019 - Larissa Lourenço

@@ -34,7 +34,7 @@ Description:Financial Item Category
 
 3. Click on "Save".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
     <b>Updated:</b> 20/03/2020 - Brunno Roosevelt    

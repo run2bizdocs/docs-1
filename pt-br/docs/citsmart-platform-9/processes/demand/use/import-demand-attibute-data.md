@@ -23,7 +23,7 @@ Procedimento
 
 6.  Clicar em "Enviar".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço

@@ -48,5 +48,5 @@ Figura 3 - Pantalla de registro/edición de paquetes
 7- Para ver un elemento, seleccionélo y haga clic en "Ver".    
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

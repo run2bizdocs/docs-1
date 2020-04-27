@@ -43,7 +43,7 @@ Relación de los Campos Claves
 
 Tabla 1 - Significado de los campos clave 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

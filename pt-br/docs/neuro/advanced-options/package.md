@@ -51,5 +51,5 @@ Figura 2 - Tela de listagem de pacotes
 7. Para visualizar um item, selecione o mesmo e clique em "Visualizar".    
 
 
-!!! tip "About"
+<!-- !!! tip "About"
     <b>Updated:</b>17/01/2019 - João Pelles Junior

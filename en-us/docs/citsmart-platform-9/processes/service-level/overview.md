@@ -40,7 +40,7 @@ Report
 
 - [Generate reports - service level management](/en-us/citsmart-platform-9/processes/service-level/configuration/reports-service-level-management.html)
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

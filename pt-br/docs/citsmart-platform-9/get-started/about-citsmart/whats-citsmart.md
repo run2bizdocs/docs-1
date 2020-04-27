@@ -83,7 +83,7 @@ outros). Além disso, entendemos que os conceitos de Service Management são mui
 poderosos e podem ir além da TI, permitindo ganhos interessantes para as
 unidades de negócio.
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>04/25/2020 - Andre Fernandes

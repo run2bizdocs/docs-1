@@ -80,7 +80,7 @@ Procedimiento
 
 3.  Al hacer clic en el icono "Menú", se muestran accesos directos a algunas acciones. Se permite visualizar las solicitudes abiertas por el usuario al apretar el icono "Mis solicitudes", ver las aprobaciones del ticket efectuadas por el usuario, observar las noticias y campañas activas (cuestionarios) referentes a la organización como un todo.  
     
-!!! tip "About"  
+<!-- !!! tip "About"  
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

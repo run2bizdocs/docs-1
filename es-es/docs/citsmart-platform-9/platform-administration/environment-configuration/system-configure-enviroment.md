@@ -28,7 +28,7 @@ Procedimiento
 
 5.  Para descargar el Log del Jboss, hacer clic en "Descarga".
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

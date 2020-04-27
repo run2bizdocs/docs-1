@@ -29,7 +29,7 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
 2. Para indexar os conhecimentos disponíveis, clicar em "Indexar base de conhecimento", ou para remover os conhecimentos já indexados, clicar em "Remover indexação base conhecimento".
 
 
-!!! tip "About"
+<!-- !!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
