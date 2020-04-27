@@ -568,6 +568,13 @@ nav:
           - citsmart-platform-9/processes/continuity/use/review-and-audit-continuity.md
           - citsmart-platform-9/processes/continuity/use/continuity-test-calendar.md
           - citsmart-platform-9/processes/continuity/use/invoke-continuity.md
+    - Financial:
+      - citsmart-platform-9/processes/financial/overview.md
+      - citsmart-platform-9/processes/financial/use/register-financial-cycle.md
+      - citsmart-platform-9/processes/financial/use/register-financial-item.md
+      - citsmart-platform-9/processes/financial/use/financial-item-category.md
+      - citsmart-platform-9/processes/financial/use/financial-cost-calculation.md
+      - citsmart-platform-9/processes/financial/use/financial-report.md          
       - Configuration:
         - citsmart-platform-9/processes/continuity/configuration/access-continuity-management.md
         - Register Threat:
@@ -577,6 +584,7 @@ nav:
           - citsmart-platform-9/processes/continuity/configuration/register-continuity-risk.md
           - citsmart-platform-9/processes/continuity/configuration/risk-category.md
         - citsmart-platform-9/processes/continuity/configuration/continuity-template.md
+        
   - Additional Features:
     - Introduction:
       - citsmart-platform-9/additional-features/introduction.md
