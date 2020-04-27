@@ -2,7 +2,7 @@ Title: Comparison of versions
 
 # Comparison of versions
 
-| Support, Management Processes, Features, Integrations & Security    |    CITSmart Platform 7    |    CITSmart Platform 9    |
+| Support, Management Processes, Features, Integrations & Security    |    CITSmart Platform 7    |    CITSmart Platform 8    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Web Application                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
