@@ -8,10 +8,7 @@ Bem-vindos ao Citsmart Versão 8.0.7.1 Esta versão apresenta os seguintes itens
 
 |Número|Tipo|Funcionalidade|Descrição|
 |--------|---------|---------|---------|
-|2967|Corretiva|Auditoria|-	Inclusão de "feedback" de carregamento de dados na paginação;
-- Inclusão de autocomplete nos campos Nome Tabela e Usuário;
-- Otimização da busca quando os campos Usuário e Data (Inicial e Final) forem utilizados como filtro;
-
+|2967|Corretiva|Auditoria|-	Inclusão de "feedback" de carregamento de dados na paginação; - Inclusão de autocomplete nos campos Nome Tabela e Usuário; - Otimização da busca quando os campos Usuário e Data (Inicial e Final) forem utilizados como filtro;
 Obs: 
 1.	Os clientes que atualizarem para esta versão do CITSmart também deverão atualizar o Audit;
 2.	O autocomplete do campo Nome Tabela depende da configuração do parâmetro 32.|
