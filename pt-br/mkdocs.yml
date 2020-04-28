@@ -108,11 +108,8 @@ nav:
     - Sobre o CITSmart:
       - index.md
       - citsmart-platform-9/get-started/about-citsmart/whats-citsmart.md
-      - citsmart-platform-9/get-started/about-citsmart/whats-new-v8.md
-      - citsmart-platform-9/get-started/about-citsmart/introduction-to-platform.md
-    - Notas de Release:
+      - citsmart-platform-9/get-started/about-citsmart/whats-new.md
       - citsmart-platform-9/get-started/about-citsmart/release-notes.md
-      - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
       - citsmart-platform-9/get-started/about-citsmart/release-policy.md      
     - Arquitetura:
       - citsmart-platform-9/get-started/architecture/architecture.md
@@ -257,16 +254,6 @@ nav:
       - citsmart-platform-9/platform-administration/logs-and-auditing/system-audit.md
     - Mobile:
       - citsmart-platform-9/platform-administration/mobile/webservice.md
-  - Workflow:
-    - citsmart-platform-9/workflow/overview.md
-    - Criar um fluxo de trabalho:
-      - citsmart-platform-9/workflow/use/create-flow.md
-      - citsmart-platform-9/workflow/use/user-task-configure.md
-    - Expressões:
-      - citsmart-platform-9/workflow/configuration/expressions.md
-      - citsmart-platform-9/workflow/configuration/expressions-creator.md
-    - Modelagem de processo:
-      - citsmart-platform-9/workflow/use/modeling.md
   - Processos:
     - citsmart-platform-9/processes/overview.md
 #    - citsmart-platform-9/processes/configuration-steps.md
@@ -595,8 +582,6 @@ nav:
   - Recursos adicionais:
     - Introdução:
       - citsmart-platform-9/additional-features/introduction.md
-    - Simple agile management:
-      - citsmart-platform-9/additional-features/project-management/simple-agile-management/simple-agile-management.md
     - Portal de Serviço:
       - Centro de Experiência:
         - citsmart-platform-9/additional-features/service-portals/experience-center/overview.md
@@ -739,6 +724,18 @@ nav:
     - anuva/use/teach-anuva.md
     - anuva/use/trainning-anuva.md
     - anuva/use/monitoring-anuva.md
+- Workflow:
+  - citsmart-platform-9/workflow/overview.md
+  - Criar um fluxo de trabalho:
+    - citsmart-platform-9/workflow/use/create-flow.md
+    - citsmart-platform-9/workflow/use/user-task-configure.md
+  - Expressões:
+    - citsmart-platform-9/workflow/configuration/expressions.md
+    - citsmart-platform-9/workflow/configuration/expressions-creator.md
+  - Modelagem de processo:
+    - citsmart-platform-9/workflow/use/modeling.md
+- Simple:
+  - citsmart-platform-9/additional-features/project-management/simple-agile-management/simple-agile-management.md
 - CITSmart GRP:
   - citsmart-grp.md
 - Ajuda:
