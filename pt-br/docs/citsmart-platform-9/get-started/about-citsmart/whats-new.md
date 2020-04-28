@@ -128,14 +128,14 @@ De maneira variável através da integração com o neuro! Suas receitas variada
 | Gerenciamento de Liberação                                          | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Gerenciamento de Conhecimento                                       | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento de Configuração e Ativos de Serviço                   | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
-| Gerenciamento de Ativos                                             | Não:                    | Novo                                             |
+| Gerenciamento de Ativos                                             | :no_entry_sign:         | :new:                                            |
 | Gerenciamento de Eventos                                            | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento de Ticket - Incidente e Requisição                    | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Gerenciamento de Problema                                           | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Gerenciamento de Continuidade                                       | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Gerenciamento de Disponibilidade                                    | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento de Capacidade                                         | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
-| Gerenciamento Financeiro                                            | Não                     | Novo                                             |
+| Gerenciamento Financeiro                                            | :no_entry_sign:         | :new:                                            |
 | Gerenciamento de Demanda                                            | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | **Recursos**                                                        | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
 | Simple - Agile Project Management                                   | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
