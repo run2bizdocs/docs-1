@@ -239,7 +239,6 @@ nav:
       - Processamento Batch:
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/batch-batch-processing.md
       - Cadastrar ação automática:
-        - citsmart-platform-9/platform-administration/configuring-automatic-actions/overview.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/notification-create.md
         - citsmart-platform-9/platform-administration/configuring-automatic-actions/problem-automatic-action.md
