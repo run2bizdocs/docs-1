@@ -1,4 +1,4 @@
-title: Configurar - mobile
+title: Configurar - mobile  
 Description: Possui a finalidade de configuração, customização para adequação de cenário no que tange a utilização dos aplicativos mobile (como por exemplo, o CITSmart GO)
 
 # Configurar parametrização - mobile

@@ -1,4 +1,4 @@
-title: Configurar parametrização - problema
+title: Configurar - problema
 Description: Permite a execução/uso deste processo, podendo ser possível definir o nome do fluxo padrão para problema, definir se serão notificados o responsável e grupo executor quando o prazo para contornar/solucionar o problema houver expirado, dentre de outras ações viáveis.
 # Configurar parametrização - problema
 

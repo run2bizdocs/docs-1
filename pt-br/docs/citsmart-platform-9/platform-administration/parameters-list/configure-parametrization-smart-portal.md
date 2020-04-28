@@ -1,4 +1,4 @@
-title: Configurar parametrização - Smart Portal
+title: Configurar - Smart Portal
 Description: Permite ativar a troca de mensagens entre o solicitante e o responsável pela solicitação, habilitar a opção de cancelar um ticket pelo portal, dentre outras ações viáveis.
 # Configurar parametrização - Smart Portal
 

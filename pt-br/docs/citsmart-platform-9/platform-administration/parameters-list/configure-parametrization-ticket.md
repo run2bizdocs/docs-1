@@ -1,4 +1,4 @@
-title: Configurar parametrização - ticket
+title: Configurar - ticket
 Description: Permitem ações do gerenciamento de ticket, como por exemplo o fluxo padrão, a fase em que a solicitação de serviço ao ser registrada será encaminhada, entre muitas outras.
 # Configurar parametrização - ticket
 

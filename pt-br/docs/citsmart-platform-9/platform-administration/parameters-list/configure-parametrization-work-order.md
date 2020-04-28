@@ -1,4 +1,4 @@
-title: Configurar parametrização - ordem de serviço
+title: Configurar - ordem de serviço
 Description: Permite definir a fórmula de cálculo da glosa de ordem de serviço, habilitar assinaturas personalizadas no relatório de Ordens de Serviço, dentro de outras ações viáveis.
 # Configurar parametrização - ordem de serviço
 

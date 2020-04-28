@@ -1,4 +1,4 @@
-title: Configurar parametrização - chat
+title: Configurar - chat
 Description: Permite o usuário ter contato direto ao atendente do sistema afim de dirimir dúvidas, realizar solicitações, dentre outros.
 # Configurar parametrização - chat
 

@@ -1,4 +1,4 @@
-title: Configurar parametrização - liberação
+title: Configurar - liberação
 Description: Permitir a execução/uso deste processo, podendo ser possível, definir se será enviado notificações ao solicitante da execução dos fluxos de solicitação de serviços/incidentes, por exemplo.
 # Configurar parametrização - liberação
 

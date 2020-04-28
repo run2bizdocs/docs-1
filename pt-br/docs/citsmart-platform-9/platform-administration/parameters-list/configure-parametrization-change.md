@@ -1,4 +1,4 @@
-title: Configurar parametrização - mudança
+title: Configurar - mudança
 Description: permite ajustar o envio de notificação, informar os modelos de e-mail para escalar a requisição de mudança, informar o nome dos fluxos referentes a aplicação e definir o tipo de votação usado no comitê consultivo de mudança, dentre outras ações.
 # Configurar parametrização - mudança
 

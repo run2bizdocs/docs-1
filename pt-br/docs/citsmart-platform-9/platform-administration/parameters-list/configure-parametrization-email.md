@@ -1,4 +1,4 @@
-title: Configurar parametrização - e-mail
+title: Configurar - e-mail
 Description: Permite configurar o envio de leitura de e-mail, informar o domínio de e-mail padrão da empresa, dentre outras ações.
 # Configurar parametrização - e-mail
 

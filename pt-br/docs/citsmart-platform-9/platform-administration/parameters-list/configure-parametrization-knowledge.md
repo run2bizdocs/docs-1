@@ -1,4 +1,4 @@
-title: Configurar parametrização - conhecimento
+title: Configurar - conhecimento
 Description: permitir a execução/uso deste processo, podendo ser possível, definir a pasta para armazenamento do conhecimento criado a partir de eventos, definir o diretório para armazenar a descrição da resposta da solicitação de serviço/incidente para ser gravada na base de conhecimento, dentre outras ações.
 # Configurar parametrização - conhecimento
 

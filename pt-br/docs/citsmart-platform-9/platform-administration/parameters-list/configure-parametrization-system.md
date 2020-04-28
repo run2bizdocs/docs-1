@@ -1,4 +1,4 @@
-title: Configurar parametrização - sistema
+title: Configurar - sistema
 Description: Alterar características no que tange trocar a forma de autenticação no Sistema.
 # Configurar parametrização - sistema
 
