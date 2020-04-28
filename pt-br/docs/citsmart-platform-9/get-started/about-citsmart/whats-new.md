@@ -3,8 +3,6 @@ Description: Descreve O que há de novo no CITSmart 9.0
 
 # O que há de novo no CITSmart 9.0?
 
-## O que há de novo
-
 ## Processo de Gerenciamento de Capacidade e ITAM
 
 Agora no Citsmart V9 você pode controlar todos os itens de Capacidade dos seus ativos de TI. Controle o investimento em capacidade seja justificado e planejado ao longo do tempo, para que sempre haja capacidade suficiente e sem desperdício, junto com  ITAM Expanda o escopo de controle do gerenciamento de configuração, dos itens de configuração para todos os ativos. 
