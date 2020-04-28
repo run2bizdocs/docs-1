@@ -110,16 +110,15 @@ nav:
       - citsmart-platform-9/get-started/about-citsmart/whats-citsmart.md
       - citsmart-platform-9/get-started/about-citsmart/whats-new.md
       - citsmart-platform-9/get-started/about-citsmart/release-notes.md
-      - citsmart-platform-9/get-started/about-citsmart/release-policy.md      
+      - citsmart-platform-9/get-started/about-citsmart/release-policy.md
     - Arquitetura:
+      - citsmart-platform-9/get-started/installation-and-upgrade/overview.md
       - citsmart-platform-9/get-started/architecture/architecture.md
       #- citsmart-platform-9/get-started/architecture/on-premise.md
-    - Instalação e atualização:
-      - citsmart-platform-9/get-started/installation-and-upgrade/overview.md
       - citsmart-platform-9/get-started/installation-and-upgrade/system-requirements.md
 #      - citsmart-platform-9/get-started/installation-and-upgrade/download-software.md
 #      - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation.md
-      - Realizar instalação:
+      - Instalação On Premisses:
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/start-install.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/install-jdk.md
         - citsmart-platform-9/get-started/installation-and-upgrade/perform-installation/install-wildfly.md
