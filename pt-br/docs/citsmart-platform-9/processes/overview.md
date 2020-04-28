@@ -30,7 +30,7 @@ Além desses, seguindo as melhores práticas de gestão de serviços, com base n
 biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 16
 processos automatizados, sendo eles:
 
-*   AM = Asset Management	
+*   AM = Gerenciamento de Ativos	
 *   AVM = Gerenciamento de Disponibilidade	
 *   CAP = Gerenciamento de Capacidade	
 *   CHG = Gerenciamento de Mudança
