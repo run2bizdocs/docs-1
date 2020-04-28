@@ -42,7 +42,7 @@ Visualize e faça previsões completas da capacidade total do seus ativos e serv
 
 ![I11][11]
 
-## Processo Financeiro.
+## Processo Financeiro
 
 Gerencie e controle todos os custos e preços da sua TI de forma simples e integrada
 
@@ -106,6 +106,29 @@ Você poderá aferir o preço de forma fixa, ou
 De maneira variável através da integração com o neuro! Suas receitas variadas serão contabilizadas automaticamente!
 
 ![I25][25]
+
+## Melhorias 
+
+| Processo                                          | Melhoria                                                                                                                                                        |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gerenciamento de Portfólio                        | Houve uma melhora na forma de visualização e utilização do mapa de serviços.                                                                                    |
+| Gerenciamento de Nível de Serviço                 | Agora é possível inserir preços dos serviços a tempo da atribuição do Nível de serviço para as atividades do Portifólio.                                        |
+| Gerenciamento de Mudança                          | Criada a visualização de possíveis conflitos entre jornadas quando está sendo feito o planejamento de uma mudança.                                              |
+| Gerenciamento de Conhecimento                     | Houveram melhorias nos permissionamentos de conhecimento para visualização e fluxo de aprovação..                                                               |
+| Gerenciamento de Configuração e Ativos de Serviço | Novo Processo certificado pela Pink Verify                                                                                                                      |
+| Gerenciamento de Eventos                          | Foram alteradas algumas nomenclaturas dos status dos eventos para melhor utilização, entendimento e aplicação da Gerencia de Eventos no controle de incidentes. |
+| Gerenciamento de Disponibilidade                  | Foi implantado um relacionamento Com a Gerência de Conhecimentos, agora é feita uma apresentação de artigo de conhecimento dos IC´s relacionados.               |
+| Gerenciamento de Capacidade                       | Novo Processo certificado pela Pink Verify                                                                                                                      |
+| Simple - Agile Project Management                 | Inclusão de um histórico para melhor acompanhamento dos tralalhos/tarefas.                                                                                      |
+| Centro de Experiência                             | Adicionados novos widgets e novos componentes melhorando ainda mais a UX e UI dos centros de experiência.                                                       |
+| Alertas/Escalonamento                             | Incluídos os vínculos com os novos processos (Financeiro, Capacidade e ITAM).                                                                                   |
+| Chat                                              | A interface foi melhorada para otimização de interação com IA.                                                                                                  |
+| Dashboards e Relatórios Personalizados            | Adicionados novos widgets e novos componentes tornando os Dashboards e Smart Reports ainda mais poderosos e com maior aplicabilidade e abrangência de uso..     |
+| Gestão de Fluxo de trabalho                       | Adicionado o fluxo de aprovação financeiro e de componentes de utilização do ESI.                                                                               |
+| Anuva                                             | Feita ampliação dos fluxos de trabalho e dos webservices.                                                                                                       |
+| Smart Analytics                                   | Liberação da view dos 16 processos presentes na plataforma, integração com Data Studio, Power BI e Metabase.                                                    |
+
+
 
 
 ## Comparativo de versões
