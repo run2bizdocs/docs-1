@@ -110,17 +110,17 @@ De maneira variável através da integração com o neuro! Suas receitas variada
 
 ## Comparativo de versões
 
-| **Suporte, Gestão de Processos, Recursos, Integrações e Segurança** | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Suporte, Gestão de Processos, Recursos, Integrações e Segurança** | **CITSmart 8** | **CITSmart 9**                          |
 |---------------------------------------------------------------------|-------------------------|--------------------------------------------------|
 | Aplicação Web                                                       | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | iPhone app                                                          | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Android app                                                         | :ballot_box_with_check: | :ballot_box_with_check:                          |
-| **Suporte**                                                         | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Suporte**                                                         | **CITSmart 8** | **CITSmart 9**                          |
 | Telefone                                                            | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Suporte online                                                      | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Documentação                                                        | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Tutoriais em vídeo                                                  | :ballot_box_with_check: | :ballot_box_with_check:                          |
-| **Gerenciamento de Processos**                                      | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Gerenciamento de Processos**                                      | **CITSmart 8** | **CITSmart 9**                          |
 | Gerenciamento de Portfólio                                          | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento de Catálogo de Serviço                                | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Gerenciamento de Nível de Serviço                                   | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
@@ -137,7 +137,7 @@ De maneira variável através da integração com o neuro! Suas receitas variada
 | Gerenciamento de Capacidade                                         | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento Financeiro                                            | :no_entry_sign:         | :new:                                            |
 | Gerenciamento de Demanda                                            | :ballot_box_with_check: | :ballot_box_with_check:                          |
-| **Recursos**                                                        | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Recursos**          | **CITSmart  8**                             | **CITSmart  9**                     |
 | Simple - Agile Project Management                                   | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Gerenciamento de Tarefas com Kanban                                 | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Centro de Experiência                                               | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
@@ -159,7 +159,7 @@ De maneira variável através da integração com o neuro! Suas receitas variada
 | Widgets                                                             | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Anuva                                                               | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
 | Smart Analytics                                                     | :ballot_box_with_check: | :ballot_box_with_check::arrows_counterclockwise: |
-| **Integrações**                                                     | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Integrações**                                                     | **CITSmart 8** | **CITSmart 9**                          |
 | Nágios                                                              | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Zabbix                                                              | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | IBM Watson                                                          | :ballot_box_with_check: | :ballot_box_with_check:                          |
@@ -167,7 +167,7 @@ De maneira variável através da integração com o neuro! Suas receitas variada
 | LDAP/AD                                                             | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | Saiku                                                               | :ballot_box_with_check: | :ballot_box_with_check:                          |
 | E-mail                                                              | :ballot_box_with_check: | :ballot_box_with_check:                          |
-| **Segurança**                                                       | **CITSmart Platform 8** | **CITSmart Platform 9**                          |
+| **Segurança**                                                       | **CITSmart 8** | **CITSmart 9**                          |
 | HTTPS                                                               | :ballot_box_with_check: | :ballot_box_with_check:                          |
 
 + Legenda
