@@ -1,8 +1,8 @@
 Title: Criar Listas
 
-As listas representam etapas ou status de andamento dentro de uma Sprint.
-
 # Criar listas
+
+As Listas representam etapas ou status de andamento dentro de uma Sprint.
 
 1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “To do, In progress e Finished” / "Para fazer, Em andamento, Concluida";
 
