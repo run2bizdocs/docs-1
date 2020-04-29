@@ -1,14 +1,16 @@
-Title: List
+Title: Criar Listas
+
+As listas representam etapas ou status de andamento dentro de uma Sprint.
 
 # Criar listas
 
-1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “To do, In progress e Finished”;
+1.  Dentro de cada Sprint são disponibilizadas listas default do sistema: “To do, In progress e Finished” / "Para fazer, Em andamento, Concluida";
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
 
     ![tela lista](images/figure-2-simple.png)
     
-    Figura 2 - Tela lista
+    Tela lista
 
 
     -   **1**: pesquisar tarefas com filtros de membros, tags e status da lista

@@ -1,6 +1,9 @@
-Title: Workspace
+Title: Criar um Workspace
 
 # Criar um Workspace
+
+Um Workspace oferece suporte ao trabalho de gerentes de projeto, proprietários de produtos, gerentes de entrega e team leaders dando visibilidade entre várias equipes e mantendo todo o escopo de trabalho (Backlog), visualmenteem um lugar único.
+No Workspace podemos controlar Sprints e Listas de tarefas(cards) facilitando a distribuição e acompanhanhamento do o trabalho nas equipes executoras.
 
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
     Simple – Gestão Ágil;
@@ -9,7 +12,7 @@ Title: Workspace
 
     ![tela workspace](images/figure-01-simple.png) 
    
-     Figura 1 - Tela Workspace
+     Tela Workspace
     
      -   **1**: busca qualquer informação que esteja em qualquer outro Workspace, Sprint,
          Lista ou Tarefa. É possível a busca que seleciona as atividades pela data

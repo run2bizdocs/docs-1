@@ -1,8 +1,10 @@
-Title: Sprint
+Title: Criar uma Sprint
 
 # Criar uma Sprint
 
-1.  Clicar no Workspace criado anteriormente;
+Uma Sprint representa uma porção definida do Trabalho(escopo), pode ser agrupado por prazo ou quantidade de tarefas, grupo executor ou uma macro atividade.
+
+1.  Clicar em um Workspace criado anteriormente;
 
 2.  Clicar no botão “Sprint”, nomear e “Salvar”;
 
@@ -33,11 +35,9 @@ Title: Sprint
 
 !!! info "INFORMAÇÃO"
 
-    O cálculo do progresso depende totalmente das estimativas informadas nas
-    tarefas.
+    O cálculo do progresso depende totalmente das estimativas informadas nas tarefas.
 
 
 !!! warning "ATENÇÃO"
 
-    Para movimentar uma **Sprint** alterando sua ordenação, clicar e arrastar a
-    mesma para a posição de prioridade desejada.
+    Para movimentar uma **Sprint** alterando sua ordenação, clicar e arrastar a mesma para a posição de prioridade desejada.
