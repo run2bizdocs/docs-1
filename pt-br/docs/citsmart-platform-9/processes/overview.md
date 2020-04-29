@@ -2,15 +2,9 @@ title: Visão Geral
 
 # O que é CITSmart ?
 
-O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
-conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
-resultados do negócio**.
+O CITSmart, é uma **plataforma que conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os resultados do negócio**.
 
-Através dos portais de relacionamento otimizamos a experiência de clientes e
-colaboradores. Além disso, por meio do **Workflow Digital Inteligente** e gestão ágil, 
-com uso de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
-gerando assim, melhoria progressiva e interativa, simplicidade na execução,
-praticidade, alinhamento e agilidade.
+Através dos portais de relacionamento otimizamos a experiência de clientes e colaboradores. Além disso, por meio do **Workflow Digital Inteligente** e gestão ágil, com uso de Kanbans, conectamos times para uma maior colaboração centrada no cliente, gerando assim, melhoria progressiva e interativa, simplicidade na execução,praticidade, alinhamento e agilidade.
 
 Quais as possibilidades de uso?
 -------------------------------
@@ -27,8 +21,7 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 *   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
-biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 16
-processos automatizados, sendo eles:
+biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 16 processos automatizados, sendo eles:
 
 *   AM = Gerenciamento de Ativos	
 *   AVM = Gerenciamento de Disponibilidade	
@@ -48,48 +41,28 @@ processos automatizados, sendo eles:
 *   SPM = Gerenciamento de Portifólio
 
 Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
-práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma
-solução integrada, desenhada para gerenciar qualquer Serviço, ticket ou situação de fluxo
-de trabalho.
+práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma solução integrada, desenhada para gerenciar qualquer Serviço, ticket ou situação de fluxo de trabalho.
 
-Com foco no fornecimento de governança por meio da Tecnologia da Informação, foi
-projetada para acelerar e melhorar o gerenciamento do negócio usando as melhores práticas,
-estratégias corporativas e metodologias inovadoras desenvolvidas por profissionais altamente
-treinados.
+Com foco no fornecimento de governança por meio da Tecnologia da Informação, foi projetada para acelerar e melhorar o gerenciamento do negócio usando as melhores práticas, estratégias corporativas e metodologias inovadoras desenvolvidas por profissionais altamente treinados.
 
-Ele foi projetada para atender aos critérios mais rigorosos exigidos pela PinkVERIFY,
-um rótulo que endossa ferramentas de software baseadas nos processos de Gerenciamento de Serviços
+Ele foi projetada para atender aos critérios mais rigorosos exigidos pela PinkVERIFY, um rótulo que endossa ferramentas de software baseadas nos processos de Gerenciamento de Serviços
 propostos pela ITIL.
 
-Sabe-se que trabalhar com informações em tempo real na tomada de decisões torna as
-empresas mais competitivas e qualificadas para atender suas demandas e
-atividades, com o objetivo de reduzir perdas ou danos corporativos, uma vez que se encontram em
-monitoramento constante. Portanto, se bem aplicada, a tecnologia da informação faz com que
-os gerentes compreendam melhor suas atividades de negócios e como empregar os
-fluxos energéticos dos investimentos na direção mais adequada.
+Sabe-se que trabalhar com informações em tempo real na tomada de decisões torna as empresas mais competitivas e qualificadas para atender suas demandas e atividades, com o objetivo de reduzir perdas ou danos corporativos, uma vez que se encontram em monitoramento constante. Portanto, se bem aplicada, a tecnologia da informação faz com que os gerentes compreendam melhor suas atividades de negócios e como empregar os fluxos energéticos dos investimentos na direção mais adequada.
 
-Isso fornece às empresas uma estrutura organizacional e uma implementação de
-serviços que aplicam as melhores práticas ao ambiente organizacional,
-traduzindo objetivos e metas em realidade mensurável.
+Isso fornece às empresas uma estrutura organizacional e uma implementação de serviços que aplicam as melhores práticas ao ambiente organizacional, traduzindo objetivos e metas em realidade mensurável.
 
 Atendendo a essas demandas, a governança do CITSmart Platform fornece os recursos para
-gerenciar o ambiente informacional dentro das melhores práticas para a
-execução, monitoramento e medição, culminando na disponibilidade de
-serviços que atendam às necessidades da organização, alcance de seus escopos corporativos
-e desejos de qualidade.
+gerenciar o ambiente informacional dentro das melhores práticas para a execução, monitoramento e medição, culminando na disponibilidade de serviços que atendam às necessidades da organização, alcance de seus escopos corporativos e desejos de qualidade.
 
 Acelerar a transformação digital
 ---------------------------------
 
 Os serviços vinculados à nossa plataforma dão o suporte necessário ao seu negócio.
-Ao adotar as tecnologias contidas no CITSmart, sua organização pode criar
-as melhores alternativas de aumento, com a garantia do melhor ROI, quando
-comparado às soluções de mercado.
+Ao adotar as tecnologias contidas no CITSmart, sua organização pode criar as melhores alternativas de aumento, com a garantia do melhor ROI, quando comparado às soluções de mercado.
 
 Oferecemos excelência em Gerenciamento de Serviços, baseada em três pilares: Pessoas,
-Processos e Tecnologia. Tudo isso apoiado pela Metodologia Smart, que
-planeja a implantação de processos de Gerenciamento de Serviços para toda a
-organização.
+Processos e Tecnologia. Tudo isso apoiado pela Metodologia Smart, que planeja a implantação de processos de Gerenciamento de Serviços para toda a organização.
 
 Benefícios de adotar a solução 
 ----------------------------------
@@ -119,11 +92,9 @@ empresa em um único ponto.
 
 -   Orquestração e organização
 
--   Plataforma visual para personalização de fluxos de trabalho, permitindo flexibilidade, agilidade
-    e aumento de produtividade com conformidade
+-   Plataforma visual para personalização de fluxos de trabalho, permitindo flexibilidade,     agilidade e aumento de produtividade com conformidade
 
--   Configurar os processos, níveis de serviço e resultados de acordo com a cultura
-    de cada local e o SLA estabelecido com o cliente
+-   Configurar os processos, níveis de serviço e resultados de acordo com a cultura de cada local e o SLA estabelecido com o cliente
 
 -   Fazer gerenciamento de multi-empresa, multi-contrato e catálogos de multi-serviços
 
@@ -133,18 +104,13 @@ empresa em um único ponto.
 
 -   Gerenciar a disponibilidade e capacidade dos seus negócios
 
--   Crie fluxos de trabalho no padrão BPM, sem a necessidade de implantação de
-    soluções. Tudo é ágil e dinâmico
+-   Crie fluxos de trabalho no padrão BPM, sem a necessidade de implantação de soluções. Tudo é ágil e dinâmico
 
--   Reduzir custos melhorando seus processos. O padrão de BPM irá ajudá-lo na
-    criação de COMO-SE, e com a solução, desenhar o PARA-SER se tornará
-    muito simples
+-   Reduzir custos melhorando seus processos. O padrão de BPM irá ajudá-lo na criação de COMO-SE, e com a solução, desenhar o PARA-SER se tornará muito simples
 
--   Controlar a equipe de profissionais através de georreferenciamento e responder às
-    demandas externas mais rapidamente (Gerenciamento de Suporte em Campo)
+-   Controlar a equipe de profissionais através de georreferenciamento e responder às demandas externas mais rapidamente (Gerenciamento de Suporte em Campo)
 
--   Gerar dashboards personalizados para uma visão rápida e fácil do que merece mais
-    atenção
+-   Gerar dashboards personalizados para uma visão rápida e fácil do que merece mais atenção
 
 -   Promover a melhoria contínua
 
@@ -158,23 +124,13 @@ empresa em um único ponto.
 
 -   Definir atividades a serem executadas em dispositivos móveis e desktop
 
--   Pague apenas pelo que você usa e acesse a plataforma de qualquer lugar com a tecnologia
-    de nuvem
+-   Pague apenas pelo que você usa e acesse a plataforma de qualquer lugar com a tecnologia de nuvem
 
-Adequado para todos os ambientes e cenários, desde que desenvolvida com base na
-ITIL, que dita as melhores práticas de gestão de TI e
-segue o conceito integrador de Governança
-Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo
-de acordo com as necessidades e modelo de negócio da sua instituição.
+Adequado para todos os ambientes e cenários, desde que desenvolvida com base na ITIL, que dita as melhores práticas de gestão de TI e segue o conceito integrador de Governança Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo de acordo com as necessidades e modelo de negócio da sua instituição.
 
-O CITSmart foi planejado e escrito com o objetivo de esclarecer o universo de
-gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de
-informações e demandas dos diversos componentes de uma empresa, tornando o seu
-dia-a-dia mais prático, inteligente e dinâmico.
+O CITSmart foi planejado e escrito com o objetivo de esclarecer o universo de gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de informações e demandas dos diversos componentes de uma empresa, tornando o seu dia-a-dia mais prático, inteligente e dinâmico.
 
-A solução CITSmart foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
-Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços
-com base nos principais processos ITIL da sua organização,
+O CITSmart foi desenvolvido com foco no atendimento das necessidades do Gerenciamento de Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços com base nos principais processos ITIL da sua organização,
 apoiados pela certificação internacional Pink Elephant.
 
 A implantação da solução não apenas permite gerenciar serviços de TI, mas também
@@ -182,28 +138,18 @@ outros serviços da sua organização.
 
 ### As principais linhas de ação da plataforma:
 
--   Atendimento e Relacionamento: atendimento a clientes e tickets, gestão de
-    relacionamento e satisfação de clientes, central de atendimento, ouvidoria, integração
-    com telefonia e redes sociais, entre outros.
+-   Atendimento e Relacionamento: atendimento a clientes e tickets, gestão de relacionamento e satisfação de clientes, central de atendimento, ouvidoria, integração com telefonia e redes sociais, entre outros.
 
--   Trabalho Ágil: várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e
-    ágil, controle simples e eficiente.
+-   Trabalho Ágil: várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e ágil, controle simples e eficiente.
 
--   Operações de Negócios: Portal de serviços para clientes e funcionários, gerenciamento de
-    diversas demandas, gestão de desempenho de pessoas, portal de serviços de RH modernos,
-    gerenciamento de campo com mobile, entre outros.
+-   Operações de Negócios: Portal de serviços para clientes e funcionários, gerenciamento de diversas demandas, gestão de desempenho de pessoas, portal de serviços de RH modernos, gerenciamento de campo com mobile, entre outros.
 
--   Operações de TI: Tickets e Service Desk, Gerenciamento de Problemas, Conhecimento,
-    Evento, Continuidade, Ativos de TI, Mudança, Liberação, Disponibilidade, entre outros (13
+-   Operações de TI: Tickets e Service Desk, Gerenciamento de Problemas, Conhecimento,    Evento, Continuidade, Ativos de TI, Mudança, Liberação, Disponibilidade, entre outros (16
     processos baseados nas melhores práticas de ITIL)
 
--   Assistente Virtual e Conhecimento: integração com os principais sistemas de IA do
-    mercado, assistente virtual, portal de conhecimento por perfil e grupos de usuários e
-    construção de ambientes de trabalho digitais (centro de experiência).
+-   Assistente Virtual e Conhecimento: integração com os principais sistemas de IA do     mercado, assistente virtual, portal de conhecimento por perfil e grupos de usuários e    construção de ambientes de trabalho digitais (centro de experiência).
 
--   Automações e integrações: personalização e construção de formulários da Web e móveis,
-    fluxos de trabalho, construtores de APP, construtores de API, integração com 
-    sistemas e bancos de dados legados, além de inúmeros conectores.
+-   Automações e integrações: personalização e construção de formulários da Web e móveis,    fluxos de trabalho, construtores de APP, construtores de API, integração com sistemas e bancos de dados legados, além de inúmeros conectores.
 
 Por que adotá-lo?
 --------------
@@ -212,13 +158,9 @@ Por que adotá-lo?
 
 Ágil é o novo normal. Adaptar-se rapidamente é quase obrigatório.
 
-O CITSmart é desenhado para mover departamentos e pessoas em um conceito ágil,
-sem esquecer o fator humano, para as metas estabelecidas por cada
-organização. Acreditamos que mais do que velocidade, o importante é ter
-consistência no movimento.
+O CITSmart é desenhado para mover departamentos e pessoas em um conceito ágil, sem esquecer o fator humano, para as metas estabelecidas por cada organização. Acreditamos que mais do que velocidade, o importante é ter consistência no movimento.
 
-A visão futura do CITSmart é baseada em 4 pilares: **Pessoas, Processos,
-Experiências e Resultados**.
+A visão futura do CITSmart é baseada em 4 pilares: **Pessoas, Processos, Experiências e Resultados**.
 
 | **Pilar**      | Nossa visão                                                                                                                                                                                                                                                                                                                              |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -269,14 +211,7 @@ CITSmart Platform traz os seguintes diferenciais competitivos:
 Sobre o ITIL
 ----------
 
-O ITIL (Information Technology Infrastructure Library) é o padrão de referência
-para o gerenciamento de projetos de TI mais aceitos mundialmente. A estrutura da ITIL
-foi proposta pela CCTA (Central Computer and Telecommunications Agency) e
-seu objetivo era desenvolver métodos e padrões dentro dos departamentos do
-governo britânico, com o objetivo de melhorar os processos internos. A ITIL é uma estrutura
-que recomenda as melhores práticas para o gerenciamento de serviços de TI e fornece recursos
-para atender à norma ISO/IEC 20000, incorporando as melhores recomendações contidas no CMMI,
-PMBOK, COBIT, Six Sigma e ISO 20000.
+O ITIL (Information Technology Infrastructure Library) é o padrão de referência para o gerenciamento de projetos de TI mais aceitos mundialmente. A estrutura da ITIL foi proposta pela CCTA (Central Computer and Telecommunications Agency) e seu objetivo era desenvolver métodos e padrões dentro dos departamentos do governo britânico, com o objetivo de melhorar os processos internos. A ITIL é uma estrutura que recomenda as melhores práticas para o gerenciamento de serviços de TI e fornece recursos para atender à norma ISO/IEC 20000, incorporando as melhores recomendações contidas no CMMI, PMBOK, COBIT, Six Sigma e ISO 20000.
 
 <!-- !!! tip "About"
     <b>Updated:</b>04/25/2020 - Andre Luiz de Oliveira Fernandes
