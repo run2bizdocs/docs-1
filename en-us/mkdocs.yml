@@ -717,6 +717,7 @@ nav:
     - neuro/neuro-faq.md
 - Anuva:
   - anuva/overview.md
+  - anuva/release-anuva.md
   - Configuration:
     - anuva/configuration/anuva-citsmart.md
     - anuva/configuration/context-anuva.md
