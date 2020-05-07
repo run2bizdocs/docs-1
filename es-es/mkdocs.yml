@@ -104,11 +104,10 @@ nav:
       - citsmart-platform-9/get-started/about-citsmart/whats-citsmart.md
       - citsmart-platform-9/get-started/about-citsmart/whats-new-v8.md
       - citsmart-platform-9/get-started/about-citsmart/introduction-to-platform.md
-      - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
-      - citsmart-platform-9/get-started/about-citsmart/release-policy.md
-      - citsmart-platform-9/get-started/about-citsmart/release-notes.md
-      - Que hay de nuevo:
-        - citsmart-platform-9/get-started/about-citsmart/release-notes/version-8.0.0.0.md
+      - Notas de versíon:
+        - citsmart-platform-9/get-started/about-citsmart/release-notes.md
+        - citsmart-platform-9/get-started/about-citsmart/comparative-versions.md
+        - citsmart-platform-9/get-started/about-citsmart/release-policy.md
     - Arquitectura:
       - citsmart-platform-9/get-started/architecture/architecture.md
     - Instalación y atualización:
@@ -680,6 +679,7 @@ nav:
     - neuro/neuro-faq.md
 - Anuva:
   - anuva/overview.md
+  - anuva/release-anuva.md
   - Configuración:
     - anuva/configuration/anuva-citsmart.md
     - anuva/configuration/context-anuva.md
