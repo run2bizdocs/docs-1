@@ -3,6 +3,28 @@ Description: Notas de release, correções de erros e melhorias no CITSmart.
 
 # Notas de Release
 
+## Versão 8.0.7.5 (2020/21/05)
+Bem-vindos ao Citsmart Versão 8.0.7.5 Esta versão apresenta os seguintes itens:
+
+|Número|Tipo|Funcionalidade|Descrição|
+|--------|---------|---------|---------|
+|4467|Corretiva|Gerencia de Liberação|No registro de Liberação, a lista de "Mudanças" associadas é duplicada a cada vez que a ação se repete.|
+|4503|Corretiva|Sincronização LDAP|Foi adicionado um filtro 'Registros Alterados' com a informação 'Apenas registros não sincronizados', onde será atualizado apenas os registros que sofreram alteração.|
+
+## Versão 8.0.7.4 (2020/21/05)
+Bem-vindos ao Citsmart Versão 8.0.7.4 Esta versão apresenta os seguintes itens:
+
+|Número|Tipo|Funcionalidade|Descrição|
+|--------|---------|---------|---------|
+|4473|Corretiva|Simple|Realizado uma corretiva no Simple, referente a gravação ao alterar uma Data.|
+
+## Versão 8.0.7.3 (2020/21/05)
+Bem-vindos ao Citsmart Versão 8.0.7.3 Esta versão apresenta os seguintes itens:
+
+|Número|Tipo|Funcionalidade|Descrição|
+|--------|---------|---------|---------|
+|4330|Corretiva|Chat|Desativação do botão de chat na listagem de meus tickets no Smart Portal quando a opção de “Disponível via chat” do serviço atual estiver igual a “NÃO”.|        
+
 ## Versão 8.0.6 (2020/03/04)
 Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 
