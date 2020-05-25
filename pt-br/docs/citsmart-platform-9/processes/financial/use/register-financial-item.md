@@ -1,113 +1,107 @@
-title: Register Financial Item 
-Description: Is intended to maintain financial item.
+title: Cadastrar Item Financeiro 
+Description: Tem o objetivo de manter o item financeiro.
 
-# Register financial item
+# Cadastrar Item Financeiro
 
-This functionality is intended to maintain financial item.
+Essa funcionalidade visa manter o item financeiro.
 
-!!! faq "Do you Know ..."
+!!! faq "Você sabia?"
 
-    In the BI reports you could reach synthetic and analytical information about:  
-    Budget, Expenses, Expected Value, Final Value, Cost Value, Main Value, ROI, Cost per Services, CAPEX, OPEX.  
-    Also BI data about Apportionment by Services,  Apportionment by Business Units, Apportionment by Result Centers,  Apportionment by Accouting Accounts,  Apportionment by Projects and  Accounting Activities.  
+    Nos relatórios de BI, você pode acessar informações sintéticas e analíticas sobre:  
+    Orçamento, Despesas, Valor Esperado, Valor Final, Valor de Custo, Valor Principal, ROI, Custo por Serviços, CAPEX, OPEX.  
+    Também dados de BI sobre rateio por serviços, rateio por unidades de negócios, rateio por centros de resultados, rateio por contas contábeis, rateio por projetos e atividades contábeis.  
     
-!!! note "Attention to the financial entries"
+!!! note "Atenção para as entradas financeiras"
 
-    The financial entries should be done respecting the type, classification, dates, category and eventual apportionments or indicators, as those data will be processed for the calculation creation of cost, revenue, final price, variables, profit, and others. To know more, access the document [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html).
+    Os lançamentos financeiros devem ser feitos respeitando o tipo, classificação, datas, categoria e eventuais repartições ou indicadores, pois esses dados serão processados para o cálculo de criação de custo, receita, preço final, variáveis, lucro e outros. Para saber mais, acesse o documento [Cálculo de Custos Financeiros](https://docs.citsmart.com/pt-br/citsmart-platform-9/processes/financial/use/financial-cost-calculation.html).
     
-!!! note "Templates of cost based on SLA or service catalog" 
+!!! note "Templates de custos baseados em SLA ou catálogo de serviço" 
 
-    The values can be directly assigned to service level agreements or service level catalog according to the business rule that will be used. To know more, access the document [Create time of attendance](https://documentation.run2biz.com/en-us/4biz-helium/processes/service-level/use/create-time-attendance.html). 
+    Os valores podem ser atribuídos diretamente a contratos de nível de serviço ou catálogo de nível de serviço de acordo com a regra de negócios que será usada. Para saber mais, acesse o documento [Criar tempo de atendimento](https://docs.citsmart.com/pt-br/citsmart-platform-9/processes/service-level/use/create-time-attendance.html). 
 
-## Before getting started
+## Antes de começar
 
-- [x] It's necessary to have defined the access permission to the functionalities of the Financial Management and have created the classification, contract, cycle, subcycle and approval workflow.
+- [x] É necessário ter definido a permissão de acesso às funcionalidades do Gerenciamento Financeiro e criado o fluxo de trabalho de classificação, contrato, ciclo, subciclo e aprovação.
 
 
-## Procedure
+## Procedimento
     
-1. Access the main menu Processes > Financial Management > Financial item;
+1. Acessar o menu principal Processos > Gerência Financeira > Item Financeiro;
     
-2. Click on "New" and complete the fields available.
+2. Clicar em "Novo" e preencher os campos disponíveis.
     
-## Creating Financial Item.
+## Criar Item Financeiro.
 
 Complete the fields available on the **Information** tab:
 
-|Field|Description|
+|Campo|Descrição|
 |---|---|
-|Type*|Cost/Expense, Budget, Revenue|
-| Classification* |(Capex, Opex, Fixed, Direct, Unit Cost, Indirect, Variable, Assessment)|
-|Due Date*|The date that will expire it|
-|Reference date*|The date of reference for the item|
-|Forecast| it's available Only for Revenue and Costs/Expense Category (Used to simulate financial forecasts)|
-|Status*|It'll be always be created as "Pending". It'll only be available if the Forecast option is not selected|
-|Category*|The category for this item|
-|Contract|Select a contract to be linked to it|
-|Budget Account| Specific Account linked to this item. It'll only be available if the Forecast option is not selected |
-|Forecast financial item| It's possible to search for a title of the forecast financial item. It'll only be available if the Forecast option is not selected|
-|Cycle*|It's the financial Method, for example, Yarly, Monthly or Quarter|
-|Subcycle*|Depends on the Cycle|
-|Code|Freetext to create or insert financial code|
-|Title*|Title of this Financial Item|
-|Description|Description about your financial item|
+|Tipo*|Orçamento, Custo/Despesa, Receita|
+|Classificação* |(Capex, Direto, Fixo, Custo Unitário, Opex, Indireto, Variável, Rateio)|
+|Data de vencimento*|A data que expirará|
+|Data de referência*|A data de referência|
+|Previsão|Está disponível apenas para a categoria Receita e Custos/Despesas (usada para simular previsões financeiras)|
+|Categoria*|A categoria da que está sendo criada|
+|Contrato|Selecionar um contrato para ser vinculado|
+|Conta de orçamento|Uma conta específica para ser vinculada a esse item|
+|Item financeiro de previsão|É possível procurar um título do item financeiro previsto| 
+|Ciclo*|É o método financeiro, por exemplo, Anual, Mensal ou Trimestral|
+|Subcicle*|Depende do ciclo|
+|Código|Texto livre para criar ou inserir código financeiro|
+|Título*|Título desse Item Financeiro|
+|Status*|Sempre será criado como "Pendente"|
 
-(\*) Indicate mandatory fields
+(\*) Indicar campos obrigatórios
     
-### Values and Apportionments
+### Valores e Rateios
 
-In this tab you will register The Value of a financial item and also an apportionment for it´s values detailing Apportionment by Services, Apportionment by Business Units, Apportionment by Result Centers, Apportionment by Accouting Accounts, Apportionment by Projects and Accounting Activities.
+Nesta guia, você registrará O valor de um item financeiro e também uma repartição por seus valores, detalhando o rateio por serviços, rateio por unidades de negócios, rateio por centros de resultados, rateio por contas contábeis, rateio por projetos e atividades contábeis.
 
-|Field|Description|
+|Campo|Descrição|
 |---|---|
-|Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented the list with the activity you selected, as well as its information and description|
-|Expected value*| It's possible to stablish to number for the value expected|
-|Main value*| Set a number for the main value|
-|Additional*| Set the number for the additional|
-|Final value*| Set a number for the value end|
-|Apportionment| Here we have the options to set all the apportionments types: Apportionment by Services (assets and CIs), Apportionment by Business Unit, Apportionment by Result Centers, Apportionment by Accounting Accounts, Apportionment by Projects. Once you select the type, you'll add the service, business unit, result center, accounting account and project. After add it, it'll appear the value and percentage for each one of them|
+|Tipo de lançamento|Existem dois tipos: Valor - se você definir o valor, após o "Selecionar serviços", será apresentada uma lista com o serviço e seus valores; Contabilização de atividades prestadas - para esta opção, após Selecionar as atividades, será apresentada a lista da atividade que você selecionou, bem como suas informações e descrição|
+|Valor previsto*|É possível estabelecer um número para o valor esperado|
+|Valor principal*|Definir um valor para o valor principal|
+|Adicionais*| Definir um número para os adicionais|
+|Valor final*|Definir um número para o valor final|
+|Rateios|Aqui, temos as opções para definir todos os tipos de rateio: rateio por serviços (ativos e ICs), rateio por unidade de negócios, rateio por centros de resultados, rateio por contas contábeis, rateio por projetos. Depois de selecionar o tipo, você adicionará o serviço, a unidade de negócios, o centro de resultados, a conta contábil e o projeto. Depois de adicioná-lo, aparecerá o valor e a porcentagem de cada um deles|
 
-(\*) Indicates mandatory field
+(\*) Indicar campos obrigatórios
 
-### Knowledge 
+### Conhecimento 
 
-Select a financial document already created as a Knowledge to link to the financial item, you can .
+Selecione um documento financeiro já criado como um Conhecimento para vincular ao item financeiro, você pode.
 
-| Objects    | Description                         |
+| Objetos    | Descrição                         |
 |------------|-----------------------------------|
-| Add Knowledge Button | Search / Link           |
-| Grid               | Grid of linked Knowledges |
-| Delete Button      | Unlink Knowledge          |
+| Adicionar conhecimento | Procurar/Vincular     |
+| Grid               | Grid do conhecimento vicnulado
+| Excluir     | Desvinular o conhecimento          |
 
-### Approvals
+### Aprovação
 
-It's possible to create approvals and verify those that have been created, approved or denied. On the list of approvals we have the following fields:
+É possível criar aprovações e verificar as que foram criadas, aprovadas ou negadas. Na lista de aprovações, temos os seguintes campos:
 
-|Field|Description                           |
-|-----|------------------------------------- |
-|Ticket  |The number identifying the approval|
-|Date    |The date of the approval           |
-|Activity|The financial activity             |
-|Status  |The status of the approval         |
+|Campo    |Descrição                         |
+|---------|----------------------------------|
+|Ticket   |O número identifcando a aprovação |
+|Data     |A data da aprovação               |
+|Atividade|A atividade financeira            |
+|Status   |O status da aprovação             |
 
-### History
+### Histórico
 
-It'll be presented all the information in a Grid about the changes/actions takes and made on the financial item.
-The Grid wil inform Date and time of the ocurrence, the user, wich element is involved and the action details.
+Serão apresentadas todas as informações em uma grid sobre as mudanças/ações executadas e realizadas no item financeiro.
+A grid informará Data e hora da ocorrência, o usuário, qual elemento está envolvido e os detalhes da ação.
 
-## Actions
+## Ações
 
-| Action  | Description                                                 |
+| Ação    | Descrição                                                   |
 |---------|-------------------------------------------------------------|
-| Save    | Create / Change the financial item.                         |
-| Clear   | Return the fields to default.                               |
-| Search  | Return to the previous list of financial items.             |
+| Salvar  | Criar/Mudar o item financeiro                               |
+| Limpar  | Retornar os campos ao padrão                                |
+|Pesquisar| Retornar para a lista anterior com os itens financeiros     |
 
-## Related
+## Relacionado
 
-- [Register financial cycle](/en-us/4biz-helium/processes/financial/use/register-financial-cycle.html)
-
-<!-- !!! tip "About"
-
-    <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
-    <b>Updated:</b> 20/03/2020 - Andre Fernandes
+- [Cadastrar ciclo financeiro](/pt-br/citsmart-platform-9/processes/financial/use/register-financial-cycle.html)
