@@ -16,7 +16,33 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Evento \> Evento;
 
-2.  Clicar sobre o evento escolhido e em seguida no botão “Abrir”.
+2. O usuário poderá filtrar os eventos por:
+
+. Ferramenta: Nagios,Zabbix, Inventory, Global, Negócio
+. Classificação: Information, Warning, Exception, Up, Down e Unknown
+. Status : Registrado, Encerrado, Em andamento
+. Host
+. Gerenciado
+. Data inicial
+. Data final
+
+!!! faq "Você sabia?"
+
+    A ferramenta facilita a classificação dos eventos por tipo e ações necessárias.  
+    Por exemplo: filtrando eventos como alertas de information (tarefa em lote concluída no prazo), alertas de warning, alertas de exception
+
+3. O sistema criará uma grid com todos os eventos (Encerrados/Registrados/Em andamento) com as seguintes informações:  
+. ID da ocorrência  
+. Classificação  
+. Ferramenta  
+. Data/Hora  
+. Categoria  
+. Host  
+. Gerenciado  
+. Prioridade  
+. Status  
+       
+4.  Clicar no evento desejado e depois no botão "Abrir”.
 
 Relacionado
 ---------------
