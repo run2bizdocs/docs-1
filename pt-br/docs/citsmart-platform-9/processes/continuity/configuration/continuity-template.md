@@ -15,9 +15,30 @@ Procedimento
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Continuidade \> Template;
 
-2.  Na aba **Cadastro**, preencher os campos necessários;
+2.  Na aba **Cadastro**, preencher os campos:
 
-3.  Clicar no botão "Gravar" para efetuar a operação.
+|Campo|Descrição|
+|-----|-----------|
+|**Nome(\*)**|Informar um nome para o template de continuidade|
+|**Identificação do template de continuidade(\*)**|Informar uma identificação para o template|
+|**Tipo de template(\*)**|Selecionar o tipo de template disponível|
+|**Nome de classe Dto**|Informar o nome da classe dto|
+|**Nome da classe Action**|Informar o nome da classe action|
+|**Nome da classe de serviço**|Informar o nome da classe de serviço|
+|**Url de recuperação**|Informar a url de recuperação|
+|**Altura da div**|Configurar a altura da div|
+|**Questionário**|Selecionar o questionário para o template|
+|**Script após recuperação**|Detalhar o script após a recuperação|
+
+( * ) Indicar campos obrigatórios
+
+3.  Para a parte de gravação, temos as seguintes ações:
+
+|Ação|Descrição|
+|------|-----------|
+|**Gravar**|Para salvar o template sendo criado|
+|**Excluir**|Quando editar um template, é possível sua exclusão|
+|**Limpar**|Para retornar os campos ao padrão|
 
 Relacionado
 ----------------
