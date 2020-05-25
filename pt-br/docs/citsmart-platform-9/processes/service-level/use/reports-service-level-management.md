@@ -5,8 +5,7 @@ Description: Gera relatórios de diversos tipos na gerência de Nível de Servi�
 Gerar relatório de controle de SLA
 ---------------------------------
 
-Este relatório tem o objetivo de apresentar os prazos de atendimento das
-solicitações de serviços.
+A ferramenta fornece relatórios de gerenciamento de nível de serviço com dados históricos, permitindo ações de melhoria no processo.
 
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
