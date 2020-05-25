@@ -1,38 +1,35 @@
-Title: Financial Item Category
-Description:Financial Item Category
+Title: Categoria de Item Financeiro
+Description:Categoria de Item Financeiro
 
-# Financial Item Category
+# Categoria de Item Financeiro
 
-## Before getting started
+## Antes de começar
 
-- [x] It's necessary to have access permission to the Financial Management;
+- [x] É necessário ter permissão de acesso ao Gerenciamento Financeiro;
 
-## Procedure
+## Procedimento
 
-1. Access the functionality Financial Item Category through the main menu Processes \> Financial Management \> Financial Item Category;
+1. Acessa a funcionalidade Categoria de Item Financeiro através do menu principal Processos \> Gerência Financeira \> Categoria de Item Financeiro;
 
-|Function| Description|
+|Função|Descrição|
 |-|-|
-|**Save**|Save the new SLA|
-|**Clear**|Clear all Form Fields|
-|**View**|View the fields without being able to change|
-|**Edit**|Edit the Financial Item Category fields|
-|**Remove**|Remove the Financial item|
-|**Search bar**|Set the keyword to search a Financial Item Caregory|
-|**Advanced Filters**|Search using the "Profile" or "Name" fields|
-|**Erase**|Clean the select Financial Item Category|
-|**Grid**| Financial Item Category searched with the criteria with A selection radio button, Profile between: "C", "R" or "A", Name of Financial Item Category|
+|**Gravar**|Salvar o novo SLA|
+|**Limpar**|Para limpar os campos do formulário|
+|**Visualizar**|Veja os campos sem poder alterar|
+|**Editar**|Editar os campos da categoria de item financeiro|
+|**Excluir**|Remover o item financeiro|
+|**Barra de pesquisa**|Definir a palavra-chave para pesquisar uma categoria de item financeiro|
+|**Filtros avançados**|Pesquisar usando os campos "Perfil" ou "Nome"|
+|**Apagar**|Limpe a categoria de item financeiro selecionada|
+|**Grid**|Categoria de item financeiro pesquisada com os critérios com o botão de seleção, Perfil entre: "C", "R" ou "A", Nome da categoria de item financeiro|
 
-2. Click on "new" and fill the available fields;
+2. Clicar em "novo" e preencher os campos disponíveis;
 
-|Fields|Description|
+|Campo|Descrição|
 |-|-|
-|Name(\*)|Set the name for the FInancial Item Category|
-|Profile(\*)|Select the profile between:"Cost", "Revenue" or "All" |
+|Nome(\*)|Definir o nome para a categoria de item financeiro|
+|Tipo(\*)|Selecionar o tipo entre: Custo, Receita ou Todos|
 
-(\*) Indicate mandatory field
+(\*) Indicar campos obrigatórios
 
-3. Click on "Save".
-
-    <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
-    <b>Updated:</b> 20/03/2020 - Brunno Roosevelt
+3. Clicar em "Gravar".
