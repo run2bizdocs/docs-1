@@ -10,7 +10,7 @@ Gerar relatório de base de conhecimento
 -------------------------------------------
 
 Este relatório tem o objetivo de apresentar as informações referentes aos
-conhecimentos contidos na base de conhecimento.
+conhecimentos contidos na base de conhecimento. Os relatórios apresentam as informações de uso, acesso e todas as tendências possíveis.
 
 1.  Acessar a funcionalidade através da navegação no menu principal Relatórios
     \> Gerências de Conhecimentos \> Base Conhecimento;
