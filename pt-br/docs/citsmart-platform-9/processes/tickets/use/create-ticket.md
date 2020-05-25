@@ -1,7 +1,7 @@
-title: Criar um ticket
+title: Criar um ticket - incidente ou requisição de serviço
 Description: Criar um ticket significa abrir um chamado dentro do sistema.
 
-# Criar um ticket
+# Criar um ticket - incidente ou requisição de serviço
 
 Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade de acompanhar seu histórico de atendimento com visualização de todas as ações remetidas a ele.
 
@@ -19,7 +19,7 @@ Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade 
 
 3.	Informar os dados do solicitante;
 
-![procedure ticket CITSmart][1]
+![procedure ticket citsmart][1]
 
 **1: Nome completo** - do solicitante;
 
@@ -37,7 +37,7 @@ Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade 
 
 ### Selecionar o serviço
 
-![Select service ticket CITSmart][2]
+![Select service ticket citsmart][2]
 
 **1: Portfólio**;
 
@@ -54,7 +54,7 @@ Criar um ticket significa abrir um chamado dentro do sistema, com possibilidade 
 
 ### Descrever o serviço
 
-![Description service CITSmart][3]
+![Description service citsmart][3]
 
 **1: Descrição** – espaço propenso a descrever a necessidade do ticket;
 
