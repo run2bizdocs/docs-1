@@ -47,6 +47,10 @@ Procedimento
         requisições, para o vínculo de um incidente ao contrato de serviço
         exitoso, basta seguir as orientações descritas no item anterior.
 
+    !!! Abstract "NOTA"
+    
+        Nas atividades de Requisição e Incidente, quando você o vincula ou edita, é possível definir o "Custo do Serviço" para cada um deles.
+
     -  **Procedimento**: Esta atividade segue o mesmo princípio de cadastro de
         requisições e incidentes, para o vínculo de um procedimento ao contrato
         de serviço exitoso, basta seguir as orientações descritas no item “Requisições”.
