@@ -4,28 +4,57 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 O Requisito de Nível de Serviço (RNS) ou, em inglês, Service Level Requirement (SLR) é o requisito do cliente para um serviço de TI com base nos objetivos de negócio e é usado para negociar as metas de nível do serviço.
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um requisito de nível de serviço.
 
-Antes de começar
-----------------
+## Antes de começar
 
-O cadastro de um requisito de nível de serviço depende do cadastro do
-colaborador realizado antes do processo.
+- [x] Para cadastrar um requisito de nível de serviço é necessário cadastrar anteriormente um colaborador.
 
-Procedimento
-------------
+## Procedimento
 
 1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
     Gerência de Nível de Serviço \> Requisito de Nível de Serviço;
 
-2.  Clicar em "Novo";
+## Pesquisar RNS
 
-3.  Informar os dados necessários;
+Aparecerão os filtros disponíveis para procurar o RNS, caso você queira encontrar um ANS já criada ou editando um.
 
-4.  Clicar em "Gravar".
+|Filtro|Descrição|
+|------|---------|
+|**Assunto**|Você pode pesquisar pelo assunto do ANS, descrito na fase de criação|
+|**Situação**|Você pode pesquisar pelo status do RNS: ativo, inativo, planejamento ou em revisão|
 
-O que fazer a seguir
-------------------------
+Depois de usar os filtros para procurar a RNS, ela aparecerá na lista abaixo dos filtros, mostrando seu Assunto e Situação. As ações disponíveis para o RNS são:
 
-Clicar no botão "Pesquisar" para checar o requisito criado.
+|Ação|Descrição|
+|----|---------|
+|**Editar**|Se você desejar alterar ou visualizar qualquer informação da RNS. Os campos são os mesmos da criação|
+|**Excluir**|Se você desejar excluir o RNS|
+
+
+## Registrar/Editar RNS
+
+Clique em "Novo" para criar um novo RNS ou em "Editar" para editar as informações de um RNS já criado.
+
+|Campo|Descrição|
+|-----|---------|
+|**Solicitante(\*)**|O solicitante do RNS|
+|**Requisitado em(\*)**|Definir a data de quando a requisição foi criada|
+|**Situação(\*)**|Selecionar o status da requisição. Temos as opções: Ativo, Inativo, Planejamento e Em revisão|
+|**Assunto(\*)**|Informar o assunto do RNS|
+|**Detalhamento(\*)**|Fornecer todos os detalhes sobre o requisito de nível de serviço que você está criando|
+
+(\*) Indicar campos obrigatórios
+
+### Salvar
+
+Depois de concluir todas as informações necessárias para o RNS, você terá as seguintes ações:
+
+|Ação|Descrição|
+|----|---------|
+|**Criar SLA a partir deste requisito**|Este campo aparece quando o RNS já está criado e você deseja editá-lo. É possível criar um SLA já vinculado ao RNS|
+|**Gravar**|Para criar o RNS ou alterá-la quando o estiver editando|
+|**Limpar**|Para retornar os campos para o padrão|
+|**Excluir**|Para excluir o RNS|
+
 
 Relacionado
 ---------------
