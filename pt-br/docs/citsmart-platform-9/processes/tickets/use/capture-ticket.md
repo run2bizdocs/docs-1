@@ -16,113 +16,133 @@ Capturar o ticket significa assumir a responsabilidade pelo atendimento de um ti
 
 2. Localize o ticket desejado, pressionando uma vez para abrir as ações e selecionando o botão “Abrir” ou com um clique duplo para abri-lo diretamente.
 
+## Incident or Service Request Information
 
-### Capturar ticket
+Após a abertura da requisição de serviço ou incidente, o sistema recuperará as informações da requisição ou incidente
 
-Para se torna responsável pelo ticket, é possível encontrar na barra de menu a opção “Capturar ticket” (item 5) para se tornar o responsável pelo mesmo, outra forma de poder capturar é pelas opções do ticket (item 13) – na barra superior.
+### Campos
 
-#### Itens da barra de ferramentas
+|Campo|Descrição|
+|-----|---------|
+|**Solicitante**|Nome do solicitante (pode ser pesquisado com %%)|
+|**E-mail**|Adicionar um e-mail para o solicitante|
+|**Unidade**|Unidade do solicitante|
+|**Origem do contato**|Service Desk, E-mail, Facebook, Twitter, entre outros|
+|**Histórico do solicitante**|O histórico do solicitante com o número de tickets, tickets resolvidos dentro do prazo, tickets atrasados, tickets ainda abertos, tickets em execução e atrasados e o nível de satisfação|
+|**Portfólio**|Os portfólios aos quais o usuário está vinculado| 
+|**Serviço**|Os serviços do portfólio selecionado|
+|**Actividade**|As atividades do serviço selecionado|
+|**Contrato**|Contratos vinculados ao portfólio|
+|**Impacto**|Impacto da atividade|
+|**Urgência**|Urgência da atividade|
+|**Descrição**|Descreverá as necessidades do ticket|
+|**Enviar e-mail**|Selecione quais tipos e e-mail o usuário receberá|
 
-![Menu bar ticket CITSmart][1]
+## Capturar o Incidente ou Requisição de Serviço
 
-**1: Voltar** - Retorna para área de trabalho da Central de Serviços;
+Para se tornar responsável pelo incidente ou requisição de serviço, você pode encontrar na barra de menus superior a opção "Atribuir ticket" para se tornar responsável por ele.
 
-**2: Número** - Identificador do ticket;
+## Itens da Barra de Ferramentas
 
-**3: Tarefa** - solicitada;
+| Item                 | Descrição                                                       |
+|----------------------|-----------------------------------------------------------------|
+| **Voltar**           | Voltar para a área de trabalho do Service Desk                  |
+| **Número**           | Identificador de incidente ou requisição de serviço             |
+| **Tarefa**           | Etapa do fluxo de serviço                                       |
+| **Grupo atual**      | O grupo responsável pela solução                                |
+| **Atribuição**       | A pessoa responsável pelo incidente ou requisição de serviço    |
+| **SLA**              | Tempo total para resolução                                      |
+| **Tempo limite**     | Data e hora limite para atendimento                             |
+| **Anexos**           | Exibir os anexos existentes ou anexar novo objeto               |
+| **Visualizar fluxo** | Mostrar o fluxo de serviço                                      |
+| **Scripts**          | Mostrar scripts para atender o serviço                          |
+| **Conhecimento**     | Aparece quando há conhecimento vinculado à etapa do fluxo       |
+| **Layout**           | Ativa a edição do layout da página (30% - 70%, 50% - 50% e 100%)|
 
-**4: Grupo atual** – responsável para resolução;
+### Opções do Ticket
 
-**5: Responsável atual** – pela resolução do ticket;
+Nas opções, temos:
 
-**6: SLA** – Tempo total para resolução;
+| Opção                        | Descrição                                                                         |
+|------------------------------|-----------------------------------------------------------------------------------|
+| **Atribuir ticket**          | Tornar-se responsável pelo incidente ou requisição de serviço                     |
+| **Delegar**                  | Delegar o incidente ou a requisição de serviço para outro atendente               |
+| **Suspender**                | Suspender o atendimento do incidente ou requisição de serviço                     |
+| **Alterar SLA**              | Alterar o SLA atribuído ao incidente ou requisição de serviço                     |
+| **Reclassificar**            | Reclassificar o portfólio/serviço/atividade do incidente ou requisição de serviço |
+| **Criar sub-ticket**         | Criar um sub-incidente ou requisição de serviço para o atendimento                |
+| **Criar ticket relacionado** | Vincular um incidente ou uma requisição de serviço relacionada ao atendimento     |
+| **Agendar atividade**        | Pode criar uma programação de atividades para o incidente ou requisição de serviço|
+| **Imprimir**                 | Imprimir as informações de incidente ou requisição de serviço                     |
 
-**7: Tempo limite** – Apresenta a data e a hora limite para atendimento;
+## Atender um Incidente ou Requisição de Serviço
 
-**8: Anexar arquivo** – visualizar anexo existente ou anexar novo arquivo;
+O início efetivo do atendimento ocorre desde a captura do incidente ou requisição de serviço até o término ou encaminhamento para outra área.  
+Vários recursos podem ser usados pelo analista: comentários, histórico, envio de notificação por email e registro de horas.
 
-**9: Visualizar fluxo**;
+### Adicionar Comentários/Visualizar Histórico
 
-**10: Scripts**;
+O usuário pode escrever um comentário e executar as seguintes ações:
 
-**11: Conhecimento da tarefa** – Aparece quando existe um conhecimento vinculado ao fluxo;
+| Opção              | Descrição                                                                                           |
+|--------------------|-----------------------------------------------------------------------------------------------------|
+| **Comentários**    | Área de comentários para as pessoas que acessam este ticket, com a opção de ter o formato de edição |
+| **Histórico**      | Veja o histórico de Incidentes ou Requisições de Serviço                                            |
+| **Cancelar**       | Cancelar o comentário                                                                               |
+| **Público**        | Marque se a equipe de atendimento e o usuário final podem visualizar                                |
+| **Horas postadas** | Possibilidade de informar as horas gastas em uma tarefa                                             |
+| **Enviar e-mail**  | Marque para enviar o comentário como um e-mail                                                      |
+| **Adicionar**      | Adicionar o comentário ao incidente ou requisição de serviço                                        |
 
-**12: Layout** – possibilita edição do layout da página (30% - 70%, 50% - 50% e 100%);
+Após adicionar o comentário, também é possível visualizar e interagir com todos os comentários feitos no ticket (Editar - Excluir - Responder o comentário).
 
-**13: Opções**.
+### Atribuição e Ação
 
-### Opção do ticket
+Você pode **Direcionar para o grupo** (identificando o grupo que será direcionado dentro do fluxo) ou  
+Executar ações (as ações são definidas pelo fluxo de Serviço e aparecerão apenas se a etapa do fluxo direcionar para ele)
 
-![tickets option ticket CITSmart][2]
 
-Dentro das opções podemos encontrar:
+### Definir Situação do Incidente ou Requisição de Serviço
 
-**1: Capturar ticket**;
+| Campo             | Descrição                                                                                          |
+|-------------------|----------------------------------------------------------------------------------------------------|
+| **Situação**      | A situação do incidente ou requisição de serviço (registrada/em andamento, resolvida ou cancelada) |
 
-**2: Delegar**;
 
-**3: Suspender**;
+**Status** – Status do Incidente ou Requisição de Serviço:
 
-**4: Alterar o SLA**;
+-   **Registrada/Em Andamento** – o ticket não está pronto para ser fechado;
 
-**5: Reclassificar**;
+-   **Resolvida** – gerar solução de resposta para finalizar o ticket;
 
-**6: Criar Sub-ticket**;
+-   **Canceleda** – justificar porque a atividade está sendo cancelada;
 
-**7: Criar ticket relacionado**;
+### Vincular Itens Adicionais
 
-**8: Agendar atividade**;
+Acesse o pequeno botão de seta preto no canto superior direito da tela, abaixo da barra de menus, para executar as funções desejadas.
 
-**9: Imprimir**;
+| Função                       | Descrição                                                                                           |
+|------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Criar sub-ticket**         | Exibir ou criar um sub-incidente ou requisição de serviço para o atendimento                        |
+| **Criar ticket relacionado** | Vincular um incidente ou uma requisição de serviço relacionada ao atendimento                       |
+| **Soluções de contorno**     | Exibir e manter soluções de contorno relacionadas a este incidente ou requisição de serviço         |
+| **Conhecimento**             | Pode pesquisar e vincular conhecimentos ao incidente ou requisição de serviço                       |
+| **Projeto**                  | Pode pesquisar e vincular um projeto ao incidente ou requisição de serviço                          |
+| **Agenda**                   | Pode criar uma programação de atividades para o incidente ou requisição de serviço                  |
+| **Leitura de e-mails**       | Pode pesquisar e ler e-mails                                                                        |
+| **IC do solicitante**        | Pode pesquisar e selecionar os itens de configuração do solicitante                                 |
+| **IC relacionado**           | Pode pesquisar e selecionar os itens de configuração para o incidente ou requisição de serviço      |
+| **Problema**                 | Pode pesquisar problemas para vincular ao incidente ou requisição de serviço, também pode criar e vincular o problema |
+| **Mudança**                  | Pode pesquisar Mudanças para vincular ao incidente ou requisição de serviço, também pode criar e vincular a Mudança  |
+| **Liberação**                | Pode pesquisar liberações para vincular ao incidente ou requisição de serviço, também pode criar e vincular a liberação|
 
-### Atendimento
 
-O início efetivo do atendimento ocorre a partir da captura do ticket para finalizar ou encaminhar o ticket para outra área. Diversos recursos podem ser utilizados pelo analista: Comentários, Histórico, Envio de notificação  por e-mail e Lançamento de horas.
+### Salvar 
 
-![Attendance ticket CITSmart][3]
+No final da página, você encontrará um botão flutuante com as funções de:
 
-**1: Comentários** – área própria para realizar comentários para as pessoas que passarem por esse ticket, tendo como opção ser;
-
-**Privacidade**:
-
-•	**Privado** – apenas a equipe de atendimento pode visualizar;
-
-•	**Público** – a equipe de atendimento e o usuário final pode visualizar;
-
-**Lançar horas**: Possibilidade informar horas gastas em uma determinada tarefa;
-
-**Enviar e-mail**;
-
-**Cancelar**;
-
-**Adicionar**;
-
-![Attendance ticket CITSmart][4]
-
-**2: Histórico** – local onde é possível ver e interagir com todos os comentários feitos dentro do ticket;
-
-#### Atribuição e Situação
-
-![Assignment and Situation ticket CITSmart][5]
-
-**3: Direcionar para grupo** – identificador do grupo que será direcionado dentro do fluxo;
-
-**4: Situação** – do ticket;
-
-- **Em andamento** – chamado não está pronto para ser finalizado;
-
-- **Resolvida** – gerar solução resposta para finalizar o ticket;
-
-- **Cancelada** – justificar o motivo da atividade estar sendo cancelada;
-
-**5: Voltar** – retorna para área de trabalho da Central de Serviços;
-
-**6: Gravar** - Salva e mantem no estado atual – do fluxo;
-
-**7: Gravar e enviar** - Salva e avança para o próximo estado – do fluxo;
-
-[1]:images/menu-bar-ticket-citsmart.png
-[2]:images/tickets-option-ticket.png
-[3]:images/attendance-ticket-comment.png
-[4]:images/attendance-ticket-history.png
-[5]:images/assignment-and-situation-ticket.png
+|Função|Descrição|
+|------|---------|
+|**Back**|Para voltar à área de trabalho do Service Desk|
+|**Gravar**|Para salvar o incidente ou requisição de serviço e criar o número para rastreamento e monitoramento|
+|**Gravar e enviar**|Para salvar o incidente ou requisição de serviço. Cria o número para rastreamento e monitoramento e segue o fluxo de serviço|
