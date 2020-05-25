@@ -7,7 +7,7 @@ Esta funcionalidade tem por objetivo a localização de um evento dentro da tela
 Antes de começar
 --------------------
 
-Para realizar a localização das informações é necessário ter o registro de um
+- [x] Para realizar a localização das informações é necessário ter o registro de um
 evento coletado pela ferramenta de monitoração.
 
 Procedimento
@@ -19,6 +19,10 @@ Procedimento
 2.  Clicar no campo descrito "Pesquise aqui" e digite a informação (pode ser o
     ID da ocorrência, o nome de um host ou nome da ferramenta de monitoração)
     para uma pesquisa rápida;
+
+!!! tip
+
+    A busca por status facilita a busca de ferramentas para arquivar registros encerrados
 
 3.  Clicar no ícone simbolizado pela seta para baixo dentro do campo de pesquisa
     para uma pesquisa avançada e utilizar os filtros disponíveis;
