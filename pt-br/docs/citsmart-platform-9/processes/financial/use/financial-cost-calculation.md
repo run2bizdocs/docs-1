@@ -1,153 +1,153 @@
-Title: Financial Cost Calculation
+Title: Cálculo de custos financeiros
 Description:
 
-# Financial Cost Calculation
+# Cálculo de Custos Financeiros
 
-## Before getting started
+## Antes de Começar
 
-It's necessary to have defined the access permission to the functionalities of the Financial Management and have permission of usage the functionality.
+É necessário ter definido a permissão de acesso às funcionalidades do Gerenciamento Financeiro e ter permissão de uso da funcionalidade.
 
-It's necessary to have done the financial entries, created the financial cycles and classifications.  
+É necessário ter feito as entradas financeiras, criado os ciclos e classificações financeiras.  
 
-Based on the financial entries [Register financial item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) and the tabs "cost distribution" and "set price" it is possible to monitor all cost details (Hardware purchase, hardware maintenance, software purchase, software licenses, facility including utilities, personnel, etc.) according to the financial entry.  
-This monitoring of cost details can also be done through reports.
+Baseado nas entradas financeiras [Cadastrar item financeiro](https://docs.citsmart.com/pt-br/citsmart-platform-9/processes/financial/use/register-financial-item.html) e nas guias "distribuição de custos" e "definir preço" é possível monitorar todos os detalhes de custo (compra de hardware, manutenção de hardware, compra de software, licenças de software, instalação, incluindo serviços públicos, pessoal etc.) de acordo com a entrada financeira.  
+Esse monitoramento dos detalhes de custo também pode ser feito através de relatórios.
 
-## Procedure
+## Procedimento
 
-1 - Access the main menu Processes > Financial Management > Financial Cost Calculation
+1 - Acessar o menu principal Processos > Gerência Financeira > Cálculo de Custos Financeiros
 
-2 - In the Financial Cost Calculation main screen, we have the following actions available:
+2 - Na tela principal do Cálculo de Custos Financeiros, temos as seguintes ações disponíveis:
 
-|Action|Description|
+|Ação|Descrição|
 |------|-----------|
-|New| To create a new financial cost calculation|
-|Generate CSV report| To generate a report of CSV|
-|Advanced Filters| To set the filters to find a cost calculation already created|
-|Edit| Once selected a cost calculation already created, this option will appear to edit it|
-|Remove| Once selected a cost calculation already created, this option will appear to remove it|
+|Novo|Para criar um novo cálculo de custo financeiro|
+|Gerar relatório CSV|Para gerar um relatório CSV|
+|Filtros avançados|Para definir os filtros para encontrar um cálculo de custo já criado|
+|Editar|Depois de selecionado um cálculo de custo já criado, essa opção aparecerá para editá-lo|
+|Excluir|Depois de selecionado um cálculo de custo já criado, esta opção aparecerá para removê-lo|
 
-## Registering/Editing Financial Cost Calculation
+## Cadastrar/Editar Cálculo de Custo
 
-1 - To create a new cost calculation, click on "New";
+1 - Para criar um cálculo de custo, clique em "Novo";
 
-2 - To edit a cost calculation already created, search for it, click on it and then on "Edit";
+2 - Para editar um cálculo de custo já criado, procure-o, clique nele e depois em "Editar";
 
-3 - Select the period you want, for example, 12 months (January to December);
+3 - Selecione o período que você deseja, por exemplo, 12 meses (janeiro a dezembro);
 
-4 - Select the service you want to make the financial calculation;
+4 - Selecione o serviço que você deseja fazer o cálculo financeiro;
 
-5 - Enter the minimum rate.
+5 - Informe a taxa mínima.
 
 !!! abstract "Info"
 
-    On a simulation, mark on the "Forecast" checkbox.
+    Em uma simulação, marque a caixa de seleção "Previsão".
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|Start date(\*)| The start date for the cost calculation|
-|End date(\*)|The date to finish the cost calculation|
-|Service(\*)|Select the service you want to make the cost planning|
-|Minimum rate(\*)|Set a value for the minimum rate|
-|Forecast(\*)|Select to forecast the cost|
+|Data inicial(\*)|A data de iníco para o cálculo de custos|
+|Data final(\*)|A data de finalização do cálculo de custos|
+|Serviço(\*)|Selecionar o serviço que você deseja fazer o planejamento de custo|
+|Taxa mínima(\*)|Configurar o valor da taxa mínima|
+|Previsão(\*)|Selecionar a previsão de custo|
 
-(\*) Indicate mandatory fields
+(\*) Indicar os campos obrigatórios
 
-!!! abstract "NOTE"
+!!! abstract "NOTA"
 
-    Select the start date and end date to make the 12-month Plan.
+    Selecione a data de início e de término para fazer o plano de 12 meses.
     
-4 - After complete the fields, click on "Generate" to present the values. It'll generate three tabs for values information:
+4 - Após preencher os campos, clique em "Gerar" para apresentar os valores. Gerará três guias para informações de valores:
 
-### Calculation of NPV and IRR
+### Cálculo de NPV e IRR
 
-Based on the information added in the "Financial Item" functionality, the tool will present the values according to the information and calculation presented in the fields:
+Com base nas informações adicionadas na funcionalidade "Item financeiro", a ferramenta apresentará os valores de acordo com as informações e cálculos apresentados nos campos:
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|Month|The month of reference to present the costs|
-|Investment|The value of investment|
-|Revenue|The value of the revenue|
-|Cost/Expense|The value of cost/expense|
-|Result|The value of result|
-|Present Value|The present value|
-|Net present value| The net present value|
-|Internal rate of return|The value for internal rate of return|
+|Mês|O mês de referência para apresentar os custos|
+|Investmento|O valor de investimento|
+|Receita|O valor da receita|
+|Custo/Despesa|O valor de custo/despesa|
+|Resultado|O valor do resultado|
+|Valor presente|O valor presente|
+|Valor atual líquido|O valor atual líquido|
+|Taxa interna de retorno|O valor da taxa interna de retorno|
 
-### Cost by Category
+### Custo por Categoria
 
-This tab presents the appropriation of costs by categories. The categories are: Investments and Cost distribution.
+Essa guia apresenta a apropriação de custos por categorias. As categorias são: Investimentos e Distribuição de custos.
 
-**Investments**
+**Investmentos**
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|Category|The category of the distributed cost|
-|Scenario variation|The percentage for the variation of scenario|
-|Cost|The fixed cost number|
-|%|The percentage reached|
-|Total|The final value of the investment|
+|Categoria|A categoria de investimento|
+|Variaçao de cenário|A porcentagem de variação de cenário|
+|Custo|O valor de custo fixo|
+|%|A porcentagem atingida|
+|Total|O valor final de investimento|
 
 !!! tip
 
-    Scenario variation: this field allows to make financial variations
+    Variação de cenário: esse campo permite realizar as variações financeiras
 
-**Cost distribution**
+**Distribuição de custos**
 
-The calculated costs will be appropriated in the respective services and configuration items according to the apportionment or fixed values defined in the financial entries on the [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) and will be automatically associated with the service and the CI.
+Os custos calculados serão apropriados nos respectivos serviços e itens de configuração de acordo com o rateio ou valores fixos definidos nas entradas financeiras no [Cadastro de Item Financeiro](https://docs.citsmart.com/pt-br/citsmart-platform-9/processes/financial/use/register-financial-item.html) e será automaticamente associado ao serviço e ao IC.
 
-!!! tip "Example"
+!!! tip "Exemplo"
 
-    Roll-up cost of a customer-facing service (e.g. email) with the breakdown of the costs for the systems (e.g. MS Exchange, Lotus Notes) and the associated supporting IT infrastructure (e.g. servers, databases, network, storage) and applications. 
+    Custo de rollup de um serviço voltado para o cliente (por exemplo, email) com a discriminação dos custos dos sistemas (por exemplo, MS Exchange, Lotus Notes) e a infraestrutura de TI de suporte associada (por exemplo, servidores, bancos de dados, rede, armazenamento) e aplicativos. 
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|Category|The category of the distributed cost|
-|Scenario variation|The percentage for the variation of scenario|
-|Cost|The fixed cost number|
-|Cost breakdown|The breakdown cost|
+|Categoria|A categoria do custo de distribuição|
+|Variação de cenário|A porcentagem de variação de cenário|
+|Custo|O valor de custo fixo|
+|Rateio dos custos|O valor de rateio dos custos|
 
 !!! tip
 
-    Scenario variation: this field allows to make financial variations
+    Variação de cenário: esse campo permite realizar as variações financeiras
 
 At the end of the page, we'll have the information about: **Number of months, Investment apportionment per month, Average cost per month and Total cost per month**
 
-### Set Price
+### Definir Preços
 
-Complete the fields available to set the prices. In the "How to price" field, select how to make the price, the options available are: Fixed value, Variable value or Both.
+Preencha os campos disponíveis para definir os preços. No campo "Qual a forma precificar", selecione como fazer o preço, as opções disponíveis são: Valor fixo, Valor variável ou Ambos.
 
-If you select the **Fixed value** option, complete the fields:
+Se selecionar a opção **Valor Fixo**, preencha os campos:
 
-Based on the selected service in the previous tab "Cost by category", the costs for the selected service will be displayed and the final service price (Final price) using will be calculated "cost" and "profit" fields.
+Com base no serviço selecionado na guia anterior "Custo por categoria", os custos do serviço selecionado serão exibidos e o preço final do serviço (Preço final) utilizado será calculado nos campos "custo" e "lucro".
 
-The calculated values may be updated and published in the service catalog and in the service level agreement (gold, silver and bronze).
+Os valores calculados podem ser atualizados e publicados no catálogo de serviços e no contrato de nível de serviço (ouro, prata e bronze).
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|% Profit margin|Set the margin you want to work with|
-|Cost|Set the fixed cost|
-|Final price|The final price for the fixed value|
+|% de margem|Definir a margem de lucro|
+|Custo|Definir o custo fixo|
+|Preço final|O preço final do valor fixo|
 
-If you select the **Variable value** option, complete the fields:
+Se selecionar a opção **Valor variável**, preencha os campos:
 
-Based on the service selected in the previous tab "Cost by category", the costs for the selected service will be displayed and the service price will be calculate using the fields "estimated quantity", "Monthly unit value" and "Profit Margin".  
-The fields "estimated quantity" and "Monthly unit value" are related to the demand metrics and will be calculated through the "Integration flow of quatity capture" to generate the varied price, respecting the business rules and the profit margin.
+Com base no serviço selecionado na guia anterior "Custo por categoria", os custos do serviço selecionado serão exibidos e o preço do serviço será calculado usando os campos "quantidade prevista", "valor unitário mensal" e "margem de lucro".  
+Os campos "quantidade prevista" e "valor unitário mensal" estão relacionados às métricas de demanda e serão calculados através do "fluxo de integração da captura de quantidade" para gerar o preço variado, respeitando as regras de negócios e a margem de lucro.
 
-The calculated values may be updated and published in the service catalog and in the service level agreement (gold, silver and bronze).
+Os valores calculados podem ser atualizados e publicados no catálogo de serviços e no contrato de nível de serviço (ouro, prata e bronze).
 
-|Field|Description|
+|Campo|Descrição|
 |-----|-----------|
-|What is the unit of measurement|Set the unit of measurement|
-|Estimated quantity|Set the amount|
-|Do you accpet less than expected quantity?|Select if you accept it or not|
-|Monthly unit value|Once completed all values in the previous fields, it'll appear the monthly unit value, with the information of: % Profit margin, Cost and Final Unit Price|
-|How to calculate the amount monthly|Select how the calculation will be made: Informed manually or Automatically calculated|
-|Integration flow of quantity capture|Integration with internal and external systems to capture the amount of (access, services, working hours) made|
+|Qual é a unidade de medida|Definir a unidade de medida|
+|Quantidade prevista|Definir a quantidade|
+|Aceita quantidade abaixo do previsto?|Selecionar se aceita ou não|
+|Valor unitário mensal|Uma vez preenchidos todos os valores nos campos anteriores, será exibido o valor unitário mensal, com as informações de:% Margem de lucro, Custo e Preço unitário final|
+|Como calcular a quantidade mensalmente|Selecione como o cálculo será feito: informado manualmente ou calculado automaticamente|
+|Fluxo de integração de captura de quantidade|Integração com sistemas internos e externos para capturar a quantidade de (acesso, serviços, horário de trabalho) realizada|
 
 !!! tip
 
-    In the "How to calculate the amount monthly", if it's selected "manually", the values should be manually informed; if it's selected "automatically", the integration workflow should be selected to the contabilization of services executed.  
-    For the "How to price" field, at the **Both** (fixed and variable costs) option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
+    No "Como calcular a quantidade mensalmente", se for selecionado "manualmente", os valores deverão ser informados manualmente; se selecionado "automaticamente", o fluxo de trabalho de integração deve ser selecionado para a contabilização dos serviços executados.  
+    Para o campo "Qual a forma de precificar", na opção **Ambos** (custos fixos e variáveis), é possível definir um custo fixo para alguns casos e, se o número não for alcançado, é possível usar custos variáveis.
 
     <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
     <b>Updated:</b> 04/02/2020 - William Costa
