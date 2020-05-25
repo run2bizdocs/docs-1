@@ -4,18 +4,16 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 
 O gerenciamento de portfólio e catálogo de serviços considera serviços coativos em termos do valor ao negócio fornecido por eles e isso garante que a composição correta de serviços para atender aos resultados esperados do negócio em um nível adequado de investimento.
 Portfólio é um conjunto completo de serviços que serão entregues, agrupados por critérios como tamanho, disciplina ou valor estratégico. Assim, todos os serviços entregues pela empresa podem e devem compor o Portfólio.
-A gestão do portfólio é estratégica, pois administra os serviços durante todo o seu ciclo de vida, focando no valor que entregam para a área de negócio.
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir um portfólio.
+O gerenciamento de portfólio é estratégico, pois gerencia os serviços ao longo de seu ciclo de vida no [Funil](/pt-br/citsmart-platform-9/processes/portfolio-and-catalog/use/pipeline.html) focando no valor que eles entregam para a área de negócios.  
+Esse recurso fornece uma variedade de ações, como incluir, alterar e excluir um portfólio.
 
 ## Antes de começar
 
-- Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
-Portfólio.
-
-- O portfólio permite vínculo com pesquisas que precisam estar cadastradas
+- [x] Ter definido a permissão de acesso às funcionalidades do Gerenciamento de
+Portfólio. O portfólio permite vínculo com pesquisas que precisam estar cadastradas
 previamente.
 
-- Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
+- [x] Setar o parâmetro 293 como "YES" para ativar a permissão de acesso para grupos de usuários no Portal.
 
 ## Procedimento
 
@@ -24,21 +22,69 @@ previamente.
 
 2.  Clicar em "Novo Portfólio";
 
-3.  Na aba "Principal", definir o nome do portfólio e se ele será do tipo "Negócio" ou "Apoio". Caso selecione Multi-idiomas, surgirá a aba Multi-idiomas para fazer a internacionalização desse portfólio;
+3.  Na aba "Principal", definir o nome do portfólio e se ele será do tipo "Negócio" ou "Apoio"; 
 
-4.  Na aba "Apresentação", informar se será apresentado no portal ou via chat, além das demais informações necessárias;
+4.  Informar os dados do Portfólio;
 
-5.  Caso selecione a opção de "Disponível no Portal", aparecerá a nova aba de "Permissão de Acesso", onde será possível vincular os grupos que poderão acessar esse portfólio;
+5.  Preencher os dados de acordo com o formato que será definido;
 
-6.  Após preencher todos os dados, clicar em "Gravar".
+6.  Gravar o portfólio.
+
+ **Ação para editar ou cadastrar**
+
+| Ação               | Descrição                                  |
+|--------------------|--------------------------------------------|
+| **Novo Portfólio** | Criar novo                                 |
+| **Editar**         | Editar o portfólio                         |
+| **Avançar**        | [Cadastrar/Edit Serviços](/pt-br/citsmart-platform-9/processes/portfolio-and-catalog/use/register-a-service.html) para o Portfólio |
 
 !!! Abstract "REGRA"
 
-    A escolha do tipo Negócio/Apoio deve estar alinhada com o tipo do contrato
-    que se pretende vincular ao Portfólio. Somente contratos do tipo “Contrato”
-    são vinculados ao tipo "Negócio" e somente contratos do tipo “Contrato de
-    Apoio” e “Acordo de Nível Operacional” são vinculados ao tipo "Apoio".
+    A escolha do tipo *Negócio/Apoio* deve estar alinhada com o tipo de contrato a ser vinculado ao portfólio, apenas os contratos do tipo **"Contrato"** estão vinculados ao tipo **"Negócio"** e apenas contratos do tipo **"Contrato apoio"** e **"Contrato de nível operacional"** estão vinculados ao tipo **"Apoio"**.
+ 
+## Cadastrar Portfólio 
 
+!!! Abstract "Informação de cada guia"
+  
+    - **Principal** : Informação básica do portfólio.  
+    - **Apresentação** : Visualização no Smart Portal e Gerência de Ticket.
+    - **Multi-idiomas** : Tradução do portfólio para inglês, espanhol e português.
+
+### Guia Principal 
+-   Informação básica do portfólio.
+
+| Campo                                     | Descrição                                                         |
+|-------------------------------------------|-------------------------------------------------------------------|
+| Nome portfólio(\*)                        | Nome do portfólio                                                 |
+| Tipo(\*)                                  | Serão fornecidos pelo sistema, de acordo com cada tipo de portfólio mostrado (negócio/apoio) |
+| Multi-idioma                              | Definir se o portfólio é multi-idioma (sim/não)                   |
+
+(*) Indicar campos obrigatórios
+
+### Guia de Apresentação 
+-   Configurar a visualização no Smart Portal e na Gerência de Ticket.
+
+| Campo                                        | Descrição                                                               |
+|----------------------------------------------|-------------------------------------------------------------------------|
+| Disponível no portal(\*)                     | Indicar se o Portfólio deve estar presente no Portal de Serviços        |
+| Disponível via chat(\*)                      | Indicar se o portfólio pode ter atendimento em chat                     |
+| Nome(\*)                                     | Nome do portfólio a ser exibido no portal                               |
+| Descrição                                    | Descrição do portfólio a ser exibido no portal                          |
+| Selecione uma imagem                         | Selecione uma imagem para o portfólio (ou faça o upload de uma nova)    |
+
+(*) Indicar campos obrigatórios
+
+!!! Note "Nota"
+
+    Na opção **"Disponível via chat"**, mesmo se marcado como "Sim", para usar o chat, ele ainda precisa ser combinado com a permissão de grupo (para participar do portfólio no chat). 
+
+### Guia de Multi-idiomas
+-   Tradução de serviços para inglês, espanhol e português.  
+-   Essa guia será exibida apenas se **"Multi-idiomas"** estiver definido como Sim na **Guia principal**.
+
+**Para cada idioma, fornecer:**  
+-   Nome do portfólio  
+-   Descrição
 
 !!! Abstract "REGRA"
 
