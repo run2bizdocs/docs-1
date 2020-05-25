@@ -24,6 +24,18 @@ A visualização do mapa de relacionamento está condicionada ao seguinte cenár
 |Nível| de 1 a 4 |
 |Ícones| **Seta**: permite arrastar o mapa; **Lupa**: permite aumentar ou reduzir o zoom do mapa.
 
+## Ver capacidade total do IC
+
+É possível visualizar o total de capacidade e seus indicadores através do mapa de relacionamento do IC.
+Além disso, o usuário poderá prever a capacidade dos ICs relacionados. A plataforma captura e mostra todos os tempos de resposta do IC e, se o total exceder o limite configurado, uma notificação pode ser enviada ao usuário ou publicada no portal. 
+Ao clicar em **Exibir capacidade total**, temos as seguintes informações:
+
+|Campo|Descrição|
+|-------|-------|
+|Característica|O item de configuração relacionado|
+|Indicador|Apresenta os indicadores para a capacidade configurada pelo seu total e médio|
+|Medido|O valor medido pela ferramenta, levando em consideração os indicadores. Apresenta também o total e o meio, no entanto, com a adição de uma representação visual da quantidade utilizada|
+|Previsão|Aqui é possível prever a capacidade total, ou seja, você pode definir uma porcentagem para informá-lo quando um determinado valor for atingido. A ferramenta informará se a capacidade atual está correta ou se está atingindo sua capacidade total.|
 
 ## Relacionado
 
