@@ -1,64 +1,57 @@
-Title: Financial Reports
+Title: Relatório Financeiro
 Description:
 
-# Financial Reports
+# Relatório Financeiro
 
-The tool provides reports on an easy and flexible way. Those reports can be exported anytime on demand. The reports cover the informational fields of the platform.  
+A ferramenta fornece relatórios de uma maneira fácil e flexível. Esses relatórios podem ser exportados a qualquer momento, sob demanda. Os relatórios cobrem os campos informativos da plataforma.  
 
-In the BI dashboard, it's possible to generate Financial Management reports.  
-There's available 9 reports by costs: 
+No painel de BI, é possível gerar relatórios de gerenciamento financeiro.  
+Existem 9 relatórios disponíveis por custos: 
 
-!!! faq "Do you know?"
+!!! faq "Você sabia?"
 
-    For all reports, there are filters of service, type of entry (revenue, cost and budget), contract/customer, classification and status.
+    Para todos os relatórios, existem filtros de serviço, tipo de entrada (receita, custo e orçamento), contrato/cliente, classificação e status.
 
-## Historical Report
+## Relatório por histórico
 
-In this view, it's possible to follow up all financial entries and any change applied.  
-This report presents a historical vision regarding to the expected value, main value, final value and cost value.
+Nesta visão, é possível acompanhar todos os lançamentos financeiros e qualquer alteração aplicada.
+Este relatório apresenta uma visão histórica em relação ao valor esperado, valor principal, valor final e valor de custo.
 
-## By ROI
+## Por ROI
 
-The ROI (return on investiment) report presents the services and its dependencies (components) in relation of expected value and final value. It's also possible to follow the average of costs, type and how much long that'll be the ROI (return on investiment). 
+O relatório ROI (retorno do investimento) apresenta os serviços e suas dependências (componentes) em relação ao valor esperado e ao valor final. Também é possível acompanhar a média de custos, tipo e quanto tempo esse ROI (retorno do investimento). 
 
-## By cost per contract-customer
+## Por custo por contrato-cliente
 
-It's presented the values of revenue, budget, costs, profit and ROI according to the contract-customer.  
-In the graphics, it's showed budget against revenue by contract, expected value and final value.
+São apresentados os valores de receita, orçamento, custos, lucro e ROI de acordo com o cliente-contrato.
+Nos gráficos, ele mostra o orçamento em relação à receita por contrato, valor esperado e valor final.
 
-## By result center
+## Por centro de resultado
 
-The cost for result center financial report it's a view of the apportionment of each service according to its classification. The report contains information related to expected value, final value, main value and additional value.   
-In the classification/cost area of a result center, it's possible to do a drill down of the result center and, with this, verify unitary costs, direct costs, among others, all information according to service components.
+O custo do relatório financeiro do centro de resultados é uma visão do rateio de cada serviço de acordo com sua classificação. O relatório contém informações relacionadas ao valor esperado, valor final, valor principal e valor adicional.   
+Na área de classificação/custo de um centro de resultados, é possível fazer uma pesquisa detalhada do centro de resultados e, com isso, verificar custos unitários, custos diretos, entre outros, todas as informações de acordo com os componentes de serviço.
 
-## By business unit/projects
+## Por unidade/projetos de negócio
 
-The business unit/project financial cost it's a view of the apportionment of each service according to its classification. The report contains information related to expected value, final value, main value and additional value.   
-In the classification/cost area of it, it's possible to do a drill down of the result center and, with this, verify unitary costs, direct costs, among others, all information according to service components.
+O custo financeiro da unidade/projeto de negócios é uma visão do rateio de cada serviço de acordo com sua classificação. O relatório contém informações relacionadas ao valor esperado, valor final, valor principal e valor adicional.   
+Na área de classificação/custo, é possível realizar uma pesquisa detalhada do centro de resultados e, com isso, verificar custos unitários, custos diretos, entre outros, todas as informações de acordo com os componentes de serviço.
 
-## By components
+## Por componentes
 
-This report presents the components usage for each customer/service/contract and in the graphics the cost per activity cost, expected value, main value and additional value.
+Este relatório apresenta o uso de componentes para cada cliente/serviço/contrato e, nos gráficos, o custo por atividade, valor esperado, valor principal e valor adicional.
 
-## Cost per service
+## Custo por serviço
 
-In the cost-per-service report, you will have a view of the distribution of use and cost of each service and the financial consumption of each customer in relation to the use of services.
+No relatório de custo por serviço, você terá uma visão da distribuição de uso e custo de cada serviço e o consumo financeiro de cada cliente em relação ao uso de serviços.
 
-## 12 months rolling view of service costs 
+## 12 meses de exibição contínua dos custos de serviço 
 
-This report presents a projection of costs by service for 12 months. In the services tab, it's possible to do a drill down to verify the financial distribution of each service component and have a global vision of the revenue, cost-per-service, cost of activity, profit percentage, profit value and ROI in months.
+Este relatório apresenta uma projeção de custos por serviço por 12 meses. Na guia serviços, é possível fazer uma pesquisa detalhada para verificar a distribuição financeira de cada componente de serviço e ter uma visão global da receita, custo por serviço, custo da atividade, porcentagem de lucro, valor do lucro e ROI em meses.
 
-## Cost calculation and price
+## Cálculo de custo e preço
 
-In this reports it's possible to follow up the value on investiments and the distribution month by month for each component based on the value of investiment, revenue, costs, result and present value. It's also present the values of net present value and internal rate of returning.
+Nestes relatórios, é possível acompanhar o valor dos investimentos e a distribuição mês a mês para cada componente, com base no valor do investimento, receita, custos, resultado e valor presente. Também estão presentes os valores do valor presente líquido e da taxa interna de retorno.
 
-## Related 
+## Relacionado 
 
-[Using Smart Analytics (BI) to generate reports](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
-
-<b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
-    <b>Updated:</b> 20/03/2020 - William Costa
-
-
-
-
+[Usar Smart Analytics (BI) para criar relatórios](https://docs.citsmart.com/pt-br/citsmart-platform-9/additional-features/smart-analytics/use-bi-solution.html)
