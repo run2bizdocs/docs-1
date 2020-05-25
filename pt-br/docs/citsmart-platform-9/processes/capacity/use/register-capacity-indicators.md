@@ -2,19 +2,44 @@ title: Cadastrar indicadores de capacidade
 Description: Esta funcionalidade disponibiliza ações diversas.
 # Cadastrar indicadores de capacidade
 
-Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e excluir os indicadores de capacidade/performance que serão vinculados aos Serviços e aos Itens de Configuração (IC).
+Essa funcionalidade tem como objetivo manter tipos de indicadores de capacidade.
 
-Procedimento
-----------------
+## Antes de começar
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Capacidade \> Indicadores de Capacidade/Performance;
+É necessário ter definido a permissão de acesso às funcionalidades do Gerenciamento de Capacidade e ter permissão de uso da funcionalidade.
 
-2.  Clicar na aba **Registrar**;
+## Procedimento
 
-3.  Preencher os campos disponibilizados;
+-   Acesse a funcionalidade através do menu principal Processoss \> Gerência de Capacidade \> Tipo de Indicador de Capacidade;
 
-4.  Clicar em "Gravar".  
+-   O sistema apresentará uma tela com os tipos de Indicadores de Capacidade registrados e um filtro com Nome, Categoria e Status;
+
+-   O usuário pode selecionar a opção "**Novo**" para criar um novo tipo de indicador de capacidade ou, para cada tipo listado, o usuário pode selecionar:
+
+    1.  **Editar** - para alterar o Tipo de Capacidade
+
+    2.  **Excluir** – para excluir o tipo de capacidade
+
+-   Informar os dados e ações;
+
+## Campos
+
+
+| Campo         | Descrição                                                                                    |
+|---------------|----------------------------------------------------------------------------------------------|
+| Nome  (*)     | Nome do tipo de indicador de capacidade                                                      |
+| Categoria (*) | Escolha uma das categorias predefinidas                                                      |
+| Status  (*)   | Indica disponibilidade de uso (Ativo/Inativo)                                                |
+
+(*) Indicar campos mandatórios
+
+## Ações
+
+| Ação       | Descrição                                                       |
+|------------|-----------------------------------------------------------------|
+| Salvar     | Criar / Alterar tipo de indicador de capacidade.                |
+| Limpar     | Retorne os campos para o padrão.                                |
+| Pesquisar  | Retornar à lista anterior de tipos de indicadores de capacidade |  
 
 <!-- !!! tip "About"
 
