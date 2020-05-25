@@ -148,6 +148,3 @@ Os valores calculados podem ser atualizados e publicados no catálogo de serviç
 
     No "Como calcular a quantidade mensalmente", se for selecionado "manualmente", os valores deverão ser informados manualmente; se selecionado "automaticamente", o fluxo de trabalho de integração deve ser selecionado para a contabilização dos serviços executados.  
     Para o campo "Qual a forma de precificar", na opção **Ambos** (custos fixos e variáveis), é possível definir um custo fixo para alguns casos e, se o número não for alcançado, é possível usar custos variáveis.
-
-    <b>Product/Version:</b> CITSmart | 9 &nbsp;&nbsp;
-    <b>Updated:</b> 04/02/2020 - William Costa
