@@ -32,6 +32,9 @@ Procedimento
     pessoas envolvidas no processo, as atualizações quanto a mudanças
     relacionadas ao mesmo.
 
+!!! Abstract "ATENÇÃO"
+
+    Ao reclassificar o ticket, a prioridade pode ser alterada alterando o impacto e a urgência.
 
 !!! Abstract "REGRA"
 
