@@ -14,54 +14,140 @@ Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar 
 
 ## Antes de começar
 
-O cadastro do serviço deverá ser precedido do cadastro de um portfólio de
-serviços, da categoria de serviço, de um grupo e ter a permissão de acesso às
-funcionalidades do Gerenciamento de Portfólio.
+O cadastro do serviço deverá ser precedido de: 
+
+- [x] Cadastro de um portfólio de serviços,  
+- [x] Criar categoria de serviço,  
+- [x] Criar grupo(s) que usarão o serviço,  
+- [x] Ter a permissão de acesso às funcionalidades do Gerenciamento de Portfólio.
 
 ## Procedimento
 
-1.  Acessar a funcionalidade através da navegação no menu principal Processos \>
-    Gerência de Portfólio e Catálogo \> Portfólio;
+!!! Abstract "Acesso"
+  
+    - O Cegistro de Serviço é endereçado no ***Botão de Novo Serviço*** no Funil de Serviço (Desenho).
+    - A edição pode ser endereçada também no funil, mas no ***botão Editar*** na guia *** Detalhes*** do registro de atributos do serviço.
 
-2.  Escolher o tipo de portfólio (Negócio ou Apoio);
+1 - O sistema apresentará as guias para definir o serviço a ser editado ou cadastrado;  
+2 - Preencher todos os campos necessários para cada guia de Informação;  
+3 - Salvar o serviço.
 
-3.  Selecionar um portfólio e clicar em "Avançar";
+!!! Abstract "Informação de cada guia"
+  
+    - **Principal** : Informações de serviço, status, fases, importância do negócio e outros.
+    - **Documentos Anexos** : Artefatos, documentos, guias e outros.
+    - **Apresentação** : Visualização no Smart Portal e na Gerência de Ticket.
+    - **Permissão de Acesso** : Grupos que podem ver o serviço.
+    - **Multi-idioma** : Tradução do serviço para inglês, espanhol e português.
+    - **Pesquisas** : Definir as Pesquisas do serviço (disponível apenas para edição).
 
-4.  Clicar em "Novo Serviço";
+## Ação para Ediição ou Cadastro
 
-5.  Serão apresentadas guias para a configuração do serviço a ser cadastrado;
+| Ação               | Descrição                      |
+|--------------------|--------------------------------|
+| **Gravar**         | Salvar o serviço               |
+| **Excluir**        | Excluir o serviço (na edição)  |
+| **Limpar**         | Limpar os campos               |
+| **Clonar dados**   | Clonar outro serviço           |
 
-6.  Preencher os campos disponibilizados em cada guia. Elas  são:;        
-        
-- Principal, onde colocaremos as informações sobre o serviço:
-    
-    - Nome do Serviço;
-    - Processo de Iniciação;
-    - Categoria, que quando clicado abre outra tela para selecionar a categoria de serviço ou criar uma nova;
-    - Data de Implementação;
-    - Fase do Serviço;
-    - Status do Serviço;
-    - Criticidade;
-    - Importância do Serviço ao Negócio;
-    - Tipo de Serviço;
-    - Lugar de Execução dos Serviços;
-    - Detalhamento;
-    - Objetivo;
-    - Valor;
-    - Tempate de Serviço.
-    
-- Documentos Anexos, onde é possível adicionar arquivos, artefatos, documentos, guias, entre outros.
-- Apresentação, é como será a visualização no Smart Portal e Gerência de Ticket. Quando selecionamos para estar "Disponível no Portal",aparece a nova guia de Permissão de Acesso.
-- Permissão de Acesso, para vincular os Grupos que poderão ver o serviço.
+## Guias de Informação
 
-7.  Preencher os demais campos conforme a necessidade;
+### Guia Principal 
 
-8.  Clicar em "Gravar".
+-   Informação de serviço, status, fases, importância do negócio e outros.
 
-## O que fazer a seguir
+#### Campos
 
-Acessar o Smart Portal e verificar as informações do serviço cadastrado no
-portfólio escolhido.
+| Campo                                     | Descrição                                                         |
+|-------------------------------------------|-------------------------------------------------------------------|
+| Nome do Serviço(\*)                       | Nome do serviço                                                   |
+| Processo de iniciação(\*)                 | Selecionar o processo de iniciação                                |
+| Categoria(\*)                             | Informar a categoria de serviço da qual o novo serviço fará parte |
+| Data de implantação(\*)                   | Data do início do uso do serviço                                  |
+| Fase do serviço(\*)                       | Ver caixa abaixo                                                  |
+| Status do serviço(\*)                     | Ver caixa abaixo                                                  |
+| Criticidade                               | A criticidade pode ser selecionada na fase de "Analisar"          |
+| Importância do serviço ao negócio         | Selecionar a Importância                                          |
+| Tipo de serviço                           | Selecionar o tipo de serviço                                      |
+| Lugar de execução do serviço              | Interno, Externo ou Ambos                                         |
+| Detalhamento                              | Detalhes do serviço                                               |
+| Objetivo                                  | Objetivo do serviço                                               |
+| Valor                                     | Descrever o valor do negócio                                      |
+| Template de serviço                       | Selecionar o template do serviço                                  | 
+
+(*) Indicar campos obrigatórios
+
+#### Fase x Status 
+| Fase    | Status                                                                     |
+|---------|----------------------------------------------------------------------------|
+| Definir | Requisições; Definição                                                     |
+| Analisar | Análise                                                                   |
+| Aprovar | Aprovado                                                                   |
+| Termo de abertura | Termo de abertura; Projeto; Desenvolvimento; Criação; Teste; Lançamento; Produção; Aposentado |
+
+!!! Note "Nota"
+
+    Na fase de "Analisar", o campo de "Criticidad" está ativado   
+    O serviço é movido para o Catálogo de Serviços quando **"Termo de abertura" e "Produção"** são combinados  
+    O serviço é movido para os Serviços obsoletos quando **"Termo de abertura" e "Aposentado"** são combinados  
+
+### Guia de Documentos Anexos
+-   Artefatos, documentos, guias e outros.
+
+| Componentes                   | Descrição               |
+|-------------------------------|-------------------------| 
+|  Descrição do anexo           | Descrever o anexo       |
+|  Botão de adicionar arquivo   | Adicionar               |
+|  Grid com anexos              | Visualizar/Excluir      |
+
+### Guia de Apresentação
+
+-  Configurar a visualização no Smart Portal e no Ticket Management.
+
+| Campo                                        | Descrição                                                               |
+|----------------------------------------------|-------------------------------------------------------------------------|
+| Disponível no portal(\*)                     | Indicar se o Serviço deve estar presente no Portal de Serviços          |
+| Disponível via chat(\*)                      | Indica se o Serviço pode ter atendimento no Chat                        |
+| Aprovação automática de avaliação do serviço(\*) | Indica que as Avaliações de Serviço devem ser aprovadas automaticamente |
+| Nome(\*)                                     | Nome do serviço ao aparecer no Portal de Serviços                       |
+| Descrição                                    | Descrição do serviço qao aparecer no Portal                             |
+| Botão selecione uma imagem                   | Selecionar uma imagem para o Serviço (ou subir uma nova)                |
+
+(*) Indicar campos obrigatórios
+
+!!! Note "Nota"
+
+    Na opção **"Disponível via chat"**, mesmo se marcado como "Sim", para usar o Chat, ele ainda precisa ser combinado com a permissão de grupo (para participar do serviço no Chat) 
+
+
+### Guia de Permissão de Acesso
+
+- Definir os Grupos que poderão utilizar o serviço.
+
+| Função                     | Descrição                                |
+|----------------------------|------------------------------------------|
+| Vincular grupos            | Pesquisar e vincular grupos ao Serviço   |
+| Grid com grupos vinculados | Visualizar/Desvincular                   |
+
+### Guia de Multi-idioma
+
+- Tradução do serviço para inglês, espanhol e português.
+
+**Para cada idioma, fornecer:** 
+-   Nome do serviço 
+-   Descrição
+
+### Guia de Pesquisas
+- Definir as Pesquisas para o serviço (disponível apenas na edição) 
+
+| Função                     | Descrição                                 |
+|----------------------------|-------------------------------------------|
+| Vincular pesquisas         | Pesquisar e vincular pesquisas ao serviço |
+| Grid com as pesquisas vinculadas | Visualizar/Desvincular              |
+
+## O que fazer depois
+
+Acessar o Smart Portal e verificar a informação do serviço cadastrado registrado no portfólio.
 
 Relacionado
 ---------------
