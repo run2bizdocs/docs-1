@@ -1,81 +1,72 @@
-title: Register Financial Cycle
-Description: Provides a variety of actions on maintaining financial cycle.
-# Register financial cycle
+title: Cadastrar Ciclo Financeiro
+Description: Fornece uma variedade de ações para manter o ciclo financeiro.
+# Cadastrar Ciclo Financeiro
 
-This feature provides a variety of actions, such as including, changing, and deleting the financial cycle.
+Esse recurso fornece uma variedade de ações, como incluir, alterar e excluir o ciclo financeiro.
 
-Before getting started
+Antes de começar
 ----------------------
 
-It's necessary to have defined the access permission to the functionalities of the Financial Management and have permission of usage the functionality.
+É necessário ter definido a permissão de acesso às funcionalidades do Gerenciamento Financeiro e ter permissão de uso da funcionalidade.
 
-Procedure
+Procedimento
 ---------
 
--   Access the functionality through the main menu Processes \> Financial Management \> Cycle;
+-   Acessar a funcionalidade pelo menu principal Processos \> Gerência Financeira \> Ciclo;
 
--   The system will present a screen with the Financial Cycles registered and a filter with Title, Start Date and Final dates.
+-   O sistema apresentará uma tela com os ciclos financeiros registrados e um filtro com título, data de início e datas finais.
 
--   The user can select the option "**New**" to create a new Financial Cycle or for each Cycle listed the user can select :
+-   O usuário pode selecionar a opção "**Novo**" para criar um novo Ciclo Financeiro ou, para cada Ciclo listado, o usuário pode selecionar:
 
-    1.  **Edit** - to Change the Financial Cycle
+    1.  **Editar** - para alterar um ciclo financeiro
 
-    2.  **Delete** – to Exclude the Financial Cycle
+    2.  **Excluir** – para excluir um ciclo financeiro
 
--   Enter the data and actions;
+-   Informar os dados e ações;
 
-## Registering Cycle
-
-!!! tip
-
-    Example of cycle: fiscal year (12 months)
-
-Enter the Cycle data:
-
-### Basic data 
-
-| Field                | Description                                                       |
-|----------------------|-------------------------------------------------------------------|
-| Title  (\*)          | Title of the cycle                                                |
-| Start Date  (\*)     | cycle start date                                                  |
-| Final Date  (\*)     | cycle final data                                                  |
-
-(\*) Indicate mandatory field
-
-### Subcycles
+## Cadastrar Ciclo
 
 !!! tip
 
-    Example of cycle: quarter (Q1, Q2, Q3, Q4)
+    Exemplo de ciclo: ano fiscal (12 meses)
 
-You can add subcycles
+Informar os dados do Ciclo:
 
-| Field                | Description                                                       |
+### Dados básicos 
+
+| Campo                | Descrição                                                         |
 |----------------------|-------------------------------------------------------------------|
-| Title  (\*)          | Title of the subcycle                                             |
-| Start Date  (\*)     | cycle start subcycle                                              |
-| Final Date  (\*)     | cycle final subcycle                                              |
-| Add Button           | add subcycle to the grid                                          |
-| Subcycle Grid        | Grid with Title, Start Date, Final date	                       |
+| Título  (\*)         | Título do ciclo                                                   |
+| Data inicial  (\*)   | Data de início do ciclo                                           |
+| Data final  (\*)     | Data de fim do ciclo                                              |
 
-(\*) Indicate mandatory field
+(\*) Indicar campos obrigatórios
 
-Actions
+### Subciclos
+
+É possível adicionar subciclos
+
+| Campo                | Descrição                                                         |
+|----------------------|-------------------------------------------------------------------|
+| Título  (\*)         | Título do subciclo                                                |
+| Data inicial  (\*)   | Data de início do subciclo                                        |
+| Data final  (\*)     | Data de fim do subciclo                                           |
+| Adicionar            | Adicionar subciclo a grid                                         |
+| Grid subciclo        | Grid com título, data inicial, data final	                       |
+
+(\*) Indicar campos obrigatórios
+
+Ações
 -------
 
-| Action     | Description                                                 |
+| Ação       | Descrição                                                   |
 |------------|-------------------------------------------------------------|
-| Save       | Create / Change the capacity indicator.                     |
-| Clear      | Return the fields to default.                               |
-! Search     | Return to the previous list of capacity indicators          |
+| Gravar     | Criar/Alterar o indicador de capacidade                     |
+| Limpar     | Retornar os campos ao padrão                                |
+! Pesquisar  | Retornar para a lista anterior de indicadores de capacidade |
 
 
-Related
+Relacionado
 -------
 
-- [Register financial item](/en-us/4biz-helium/processes/financial/use/register-financial-item.html)
-
-<!-- !!! tip "About"
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b> 24/03/2020 - Andre Fernandes
+- [Cadastrar item financeirol item](/pt-br/citsmart-platform-9/processes/financial/use/register-financial-item.html)
