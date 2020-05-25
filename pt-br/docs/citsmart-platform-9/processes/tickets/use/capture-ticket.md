@@ -1,9 +1,9 @@
-Title: Captura de ticket
-Description: Description: Capturar o ticket significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
+Title: Captura de incidente ou requisição de serviço
+Description: Description: Capturar o incidente ou requisição de serviço significa assumir a responsabilidade de produzir uma solução satisfatória para o chamado.
 
-# Captura de ticket
+# Captura de incidente ou requisição de serviço
 
-Capturar o ticket significa assumir a responsabilidade pelo atendimento de um ticket ou contribuir para a solução deste.
+Capturar o incidente ou requisição de serviço significa assumir a responsabilidade pelo atendimento de um ticket ou contribuir para a solução deste.
 
 ## Antes de começar
 
