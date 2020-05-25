@@ -11,6 +11,8 @@ Antes de começar
 Pressupõe a existência de um serviço definido num processo de Gerenciamento de
 Portfólio e Catálogo.
 
+A ferramenta integra-se ao Gerenciamento de Nível de Serviço através do Catálogo de Serviços e Gerenciamento de Portfólio para rastrear a criticidade do processo de negócios/serviço, a criticidade do período (por exemplo, hora do dia/semana/mês/ano em que a interrupção seria mais grave) e as metas de recuperação do nível de serviço. Essas informações podem ser configuradas no CMDB & Gerenciamento de Ativos nos atributos do IC.
+
 É fundamental primeiramente ter o Registro de Continuidade já cadastrado, a
 política e o projeto de continuidade do serviço já definidos, além de ter o
 escopo, as funções vitais, a análise de impacto no negócio, a avaliação de
