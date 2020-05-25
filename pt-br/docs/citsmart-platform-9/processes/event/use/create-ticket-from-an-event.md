@@ -17,7 +17,7 @@ Procedimento
 
 2.  Clicar sobre o evento escolhido e em seguida no botão “Mais Opções”;
 
-3.  Clicar no botão "Criar solicitação de serviço";
+3.  Clicar no botão "Criar incidente";
 
 4.  Preencher os campos disponibilizados;
 
