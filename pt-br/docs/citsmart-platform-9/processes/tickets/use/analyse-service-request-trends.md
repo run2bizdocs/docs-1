@@ -4,41 +4,50 @@ Description: Esta funcionalidade tem por objetivo realizar uma análise das soli
 
 Esta funcionalidade tem por objetivo realizar uma análise das solicitações, baseada na quantidade crítica, para identificar quais itens vão influenciar em um lançamento de uma nova solicitação.
 
-Antes de começar
-----------------
+## Antes de começar
 
-Para realizar a análise de tendências é necessário registrar anteriormente uma
-solicitação de serviço (ticket) e esta estar vinculada ao contrato, além de um
-contrato e o mesmo estar ativo.
+- [x] É necessário cadastrar anteriormente um Incidente ou Requisição de Serviço (ticket) vinculado a um contrato, além de um contrato ativo.
 
 Procedimento
 ------------
 
-1.  Acessar o menu principal Processos \> Gerência de Requisição e Incidente \>
+1.  Acessar o menu principal Processos \> Gerência de Ticket \>
     Análise de Tendências, aba **Solicitações de Serviço**;
 
-2.  Preencher os campos disponibilizados;
+2.  Preencher os campos disponibilizados:
 
-3.  Clicar em "Pesquisar";
+| Campo                                     | Descrição                                                       |
+|-------------------------------------------|-----------------------------------------------------------------|
+| Período **Data início**                   | O sistema sugerirá o primeiro dia do mês/ano atual              |
+| Período **Data final**                    | O sistema sugerirá a data atual                                 |
+| **Contrato**                              | Contratos disponíveis                                           |
+| **Departamento/Centro resultado/Unidade** | Departamentos/Centros de resultado/Unidades disponíveis         |
+| **Tipo**                                  | Incidente ou Requisição de Serviço                              |
 
-4.  Em cada guia serão apresentados os resultados referentes a cada tipo
-    (Serviço, Causa e Item de Configuração) e em cada item serão exibidos dois
-    botões, um para **Gerar Gráfico de Análise de Tendências**, o qual apresenta as datas que compreendem o
-    período informado e o número de ocorrências naquela data, e outro para
-    **Criar Problema**, onde será exibida a tela de cadastro de problema para
-    registro das informações necessárias do problema:
+3.  Clicar em "Gerar Relatório";
 
-    -   Ao optar por registrar um problema a partir do **Serviço**, será exibida a
-    tela de cadastro de problema com o campo "Descrição" alimentado com o nome
-    do serviço correspondente;
+4.  O sistema apresentará, com base nos filtros selecionados, no topo do relatório o **Número de registros:** (recuperado da pesquisa total) e, na parte inferior da grade, **Custo total** (soma de o custo de todos os incidentes ou requisições de serviço listadas), para cada incidente ou requisição de serviço mostrará as informações abaixo: 
 
-    -   Ao optar por registrar um problema a partir da **Causa**, será exibida a
-    tela de cadastro de problema com os campos "Descrição" e "Causa" alimentados
-    com a descrição da causa correspondente;
-
-    -   Ao optar por registrar um problema a partir do **Item de Configuração**,
-    será exibida a tela de cadastro de problema com o campo "Descrição"
-    alimentado com informação do item de configuração correspondente.  
+| Campo relatório  | Descrição                                                                   |
+|------------------|-----------------------------------------------------------------------------|
+| **Ticket**       | Número de identificação do incidente ou requisição de serviço               |
+| **Serviço**      | O Serviço relacionado ao Incidente ou Requisição de Serviço                 |
+| **Tipo**         | (i) Incidente ou (R) Requisição de Serviço                                  |
+| **Custo**        | O custo do incidente ou requisição de serviço, indicado na atividade        |
+| **Data**         | Data/hora do atendimento do incidente ou requisição de serviço              |
+| **Data criação** | Data/hora da criação do incidente ou requisição de serviço                  |
+| **Hora captura** | Hora da captura do incidente ou requisição de serviço                       |
+| **Data final**   | Data/hora em que o incidente ou requisição de serviço terminou              |
+| **SLA**          | SLA atribuído ao incidente ou requisição de serviço                         |
+| **SLA no prazo** | Se o incidente ou a requisição de serviço está "no prazo" (com base no SLA) |
+| **Prioridade**   | Prioridade do incidente ou requisição de serviço                            |
+| **Solicitante**  | Solicitante do incidente ou requisição de serviço                           |
+| **Fechado por**  | Quem resolveu/fechou o incidente ou requisição de serviço                   |
+| **Grupo**        | Grupo de execução atribuído ao incidente ou requisição de serviço           |
+| **Criado por**   | Criador do incidente ou requisição de serviço                               |
+| **Unidade**      | Unidade atribuída ao incidente ou requisição de serviço                     |
+| **Localização**  | Local da execução do incidente ou requisição de serviço                     |
+ 
 
 Relacionado
 -----------
