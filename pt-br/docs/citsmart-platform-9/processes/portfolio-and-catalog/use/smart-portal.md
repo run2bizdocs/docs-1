@@ -74,6 +74,10 @@ Procedimento
     as notícias referente a solicitação em questão ao apertar a aba “Campanhas
     ativas”;
 
+    !!! Abstract "NOTA"
+    
+        O usuário poderá escolher serviços do catálogo de serviços com base em suas permissões.
+
     !!! Abstract "NOTAS"  
 
         Os conhecimentos diponíveis na aba “Conhecimentos” do item “Serviço” podem ser
