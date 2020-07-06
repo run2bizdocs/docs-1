@@ -3,7 +3,7 @@ Title: Usuários
 # Usuários
 
 Neste menu podem ser gerenciadas as pessoas que terão acesso à plataforma de
-administração do Helper.
+administração da Anuva.
 
 1.  Após acessar a plataforma, acesse o menu Usuários;
 
