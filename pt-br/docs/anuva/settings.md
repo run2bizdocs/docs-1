@@ -89,7 +89,7 @@ plataforma.
 -   **Importação/Exportação**
 
 Nesta área é possível importar diálogos por intent e exportar os diálogos
-existentes no seu assistente também.
+existentes na sua assistente também.
 
 Continua sendo necessário agendar um treinamento após a importação dos diálogos
 para que a Anuva aprenda esses diálogos importados também.
@@ -110,7 +110,7 @@ para que a Anuva aprenda esses diálogos importados também.
 |-|-|
 |Intent| Nome da intenção cadastrada no Helper.Exemplo: 1.0 Saudações ao Usuário Logado|
 |User says|O que a pessoa que está sendo atendida pelo assistente pode dizer. Sendo cada hipótese em uma linha diferente.Exemplo: Olá, boa noite|
-|Text Response| O que o assistente deve responder a esta fala.Exemplo: Olá, eu sou o Helper, seu novo assistente virtual. Estou aqui para simplificar o seu processo de atendimento e ajudá-lo em suas necessidades. Basta digitar o que precisa que eu vou te ajudar!|
+|Text Response| O que o assistente deve responder a esta fala.Exemplo: Olá, eu sou a Anuva, sua nova assistente virtual. Estou aqui para simplificar o seu processo de atendimento e ajudá-lo em suas necessidades. Basta digitar o que precisa que eu vou te ajudar!|
 
 **Exemplo**
 
@@ -140,4 +140,4 @@ para que a Anuva aprenda esses diálogos importados também.
     Utilize o procedimento de atendimento (FAQ ou SAC) que sua organização
     já possui (caso possua) em formato de perguntas e respostas para montar essa
     planilha. Aproveite o conhecimento que já existe no seu ambiente para aprimorar
-    seu assistente virtual.
+    sua assistente virtual.
