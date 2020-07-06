@@ -13,7 +13,7 @@ questionamentos, recuperando dados através de APIs.
 
 ## Funcionalidades da Anuva
 
-Ela utiliza 5 conceitos principais em seu funcionamento:
+Ele atende aos 5 conceitos principais das plataformas de construção de assistentes virtuais:
 
 - **Build** : Construção de fluxos de conversação (diálogos) da assistente com
 possíveis interações humanas, para que ela esteja preparada para reagir e
