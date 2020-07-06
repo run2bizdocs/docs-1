@@ -33,7 +33,7 @@ Procedimento
 4. Informar os demais campos necessários de acordo com o tipo e clicar em “Salvar”.
 
 
-<!-- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

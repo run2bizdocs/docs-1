@@ -32,7 +32,7 @@ Procedimento
     esta habilidade é preciso abrir um ticket para que se faça a homologação da integração.
     
     
-<!-- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

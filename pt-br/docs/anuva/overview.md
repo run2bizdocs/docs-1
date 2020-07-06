@@ -48,7 +48,7 @@ Neste ambiente, é possível adicionar e revisar conhecimentos para Anuva, agend
 
 
 
-<!-- !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
