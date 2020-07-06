@@ -36,7 +36,6 @@ Localize e preencha os seguintes parâmetros:
 |441 Helper Assistant - Conversation API|http://[nome-servidor][sigla-idioma].helperassistant.com/webhooks/rest/webhook|
 |442 Helper Assistant - Parameters API|http://[nome-servidor][sigla-idioma].helperassistant.com/conversations/|
 
-*CONFIRMAR NOMES DOS PARÂMETROS PARA ANUVA*
 
 **Importante:** Os valores a serem preenchidos nos parâmetros acima dependerão
 do valor apresentado na ferramenta Anuva. Para isso, acesse a sua assistente
@@ -45,7 +44,7 @@ virtual e selecione “Integrações”. Para integrar com a plataforma, selecio
 própria plataforma CITSmart. Esses parâmetros não podem ser alterados pelo
 cliente.
 
-*Facebook Messenger*
+**Facebook Messenger**
 
 Também é possível de integrar a assistente virtual Anuva ao chat do Facebook
 Messenger. Nesse caso as instruções são fornecidas pelo próprio Facebook e
@@ -59,7 +58,7 @@ fornecemos as informações necessárias para realizar a integração:
 
 -   Page Access Token
 
-*API Rest*
+**API Rest**
 
 Nessa funcionalidade o cliente pode customizar a assistente virtual para outro
 canal. Por exemplo, se o cliente já possuir um site institucional e deseja

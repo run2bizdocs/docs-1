@@ -38,9 +38,9 @@ REST.
 
 1.  Clique o botão “+” para adicionar o cabeçalho com as informações para:
 
--   Chave;
+  - Chave;
 
--   Valor.
+  - Valor.
 
 2.  Clicar em Salvar.
 
@@ -50,15 +50,15 @@ No corpo é possível montar o conteúdo que será enviado no corpo da requisiç
 
 3.  Clicar o botão “+” para adicionar o corpo com as informações de:
 
--   Formato do corpo: JSON;
+  - Formato do corpo: JSON;
 
--   Nome;
+  - Nome;
 
--   Tipo: texto, número, booleano, lista, objeto, contexto, histórico do chat,
+  - Tipo: texto, número, booleano, lista, objeto, contexto, histórico do chat,
     última mensagem do chat, identificação do usuário, valor indefinido e valor
     vazio;
 
--   Valor: o valor irá depender do tipo selecionado.
+  - Valor: o valor irá depender do tipo selecionado.
 
 4.  Clique em Salvar.
 
@@ -68,13 +68,13 @@ Em respostas vamos configurar o que a gente espera dessa API.
 
 5.  Clicar o botão “+” para adicionar as informações com para:
 
--   Formato da resposta: pode ser em JSON ou Text;
+  - Formato da resposta: pode ser em JSON ou Text;
 
--   Nome;
+  - Nome;
 
--   Tipo: texto, número, booleano, lista, objeto ou contexto;
+  - Tipo: texto, número, booleano, lista, objeto ou contexto;
 
--   Identificação.
+  - Identificação.
 
 6.  Clique em Salvar.
 
@@ -85,11 +85,11 @@ entendimento da assistente.
 
 7.  Selecione o código desejado para definir os campos:
 
--   Status htpp de sucess;
+  - Status htpp de sucess;
 
--   Status htpp de não autorizado;
+  - Status htpp de não autorizado;
 
--   Status htpp de não encontrado.
+  - Status htpp de não encontrado.
 
 >   *\* As opções apresentadas para esses campos são pré-definidas pelo
 >   sistema.*
@@ -97,10 +97,10 @@ entendimento da assistente.
 8.  Depois, definir as mensagens que aparecerão na tela do chatbot para os
     seguintes casos:
 
--   Mensagem do chatbot para conteúdo não encontrado;
+  - Mensagem do chatbot para conteúdo não encontrado;
 
--   Mensagem do chatbot para falha na requisição;
+  - Mensagem do chatbot para falha na requisição;
 
 9.  Definir se a API sendo criada é uma API de autenticação.
 
-10.  Clique em Salvar.
+10.   Clique em Salvar.

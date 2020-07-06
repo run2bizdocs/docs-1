@@ -45,17 +45,17 @@ Anuva que vai fazer o que o cliente solicitou com o nome que ele escolher.
 
 4.  Preencha os campos da tela, atentando-se ao tipo da habilidade: 
 
--   **Padrão**: será utilizada para representar habilidades que são respondidas
+  - **Padrão**: será utilizada para representar habilidades que são respondidas
     através de uma resposta de texto pré-definida. Podem ser atribuídas várias
     frases pré-definidas de respostas sempre visando responder a mesma
     pergunta;     
 
--   **Personalizada**: será utilizada quando, para responder a um interesse do
+  - **Personalizada**: será utilizada quando, para responder a um interesse do
     usuário, a Anuva precisar buscar informações em um outro sistema.
 
 Acesse o conhecimento **“Como Anuva pode interagir com outros sistemas”** para entender como utilizar este tipo de habilidade;
 
--   **Botão**: Será utilizada sempre que for necessário limitar as respostas do
+  - **Botão**: Será utilizada sempre que for necessário limitar as respostas do
     usuário a uma determinada interação da Anuva. Ao utilizar essa opção, a
     Anuva responderá a interação do usuário exibindo botões. Um botão é definido
     por seu Nome e Valor.
@@ -66,4 +66,4 @@ No campo nome, é definido o botão que aparecerá para o usuário. No campo val
     texto e imagem. A imagem associada a resposta será exibida na janela do
     chat.
 
-5.  Clique em “Salvar” para finalizar o cadastro.
+1.  Clique em “Salvar” para finalizar o cadastro.

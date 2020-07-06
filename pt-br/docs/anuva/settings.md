@@ -46,9 +46,9 @@ São enviadas três tipos de notificações:
 | Agendamento iniciado  | E-mail enviado para notificar que o treinamento agendado foi iniciado.|
 |Treinamento concluído|Enviado quando o treinamento foi concluído com sucesso e o assistente está disponível com os novos aprendizados.|
 |Falha no processo|Notifica o administrador da plataforma que a atualização não pôde ser realizada, o motivo e a solução.|
-|| Exemplo: Treinamento não realizado. Você precisa cadastrar mais três frases na intente, pois o mínimo de frases para atualização acontecer são quatro frases.                                                                                                       |
 
-*Temos a lista de pendências????\*\*\*\*\*\**
+**Exemplo:** Treinamento não realizado. Você precisa cadastrar mais três frases na intente, pois o mínimo de frases para atualização acontecer são quatro frases.|
+
 
 **Procedimento**
 
@@ -58,8 +58,7 @@ São enviadas três tipos de notificações:
 2.  Clique o botão Adicionar;
 
 3.  Depois de adicionado, é possível excluir o e-mail.
-
--   **Migrações**
+    - **Migrações**
 
 Esta área permite que utilize o case ou cenário construído no IBM Watson no
 Helper, sem a necessidade de reconstrução dos fluxos de conversação nesta

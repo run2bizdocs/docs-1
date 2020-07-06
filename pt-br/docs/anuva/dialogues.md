@@ -29,10 +29,10 @@ treinamento, a sua assistente será atualizada automaticamente. 
 |-|-|
 | Buscar | Para pesquisar um Diálogo já cadastrado |
 
-1.  Para ver ou editar um “Diálogo” já cadastrado, busque por uma específica ou
+3.  Para ver ou editar um “Diálogo” já cadastrado, busque por uma específica ou
     procure na lista apresentada;
 
-2.  Para criar um diálogo, clique em “Novo” e preencha as informações conforme
+4.  Para criar um diálogo, clique em “Novo” e preencha as informações conforme
     necessidade:
 
 |Nome|Para identificar o teor geral do assunto do usuário. Será o nome para o diálogo que o administrador poderá usar para determinado contexto.|
@@ -42,7 +42,7 @@ treinamento, a sua assistente será atualizada automaticamente. 
 |Vincular Intent|A opção de vincular Intent é utilizada para adicionar uma intent ao diálogo, podendo assim especificá-lo e vinculá-lo a um contexto específico.|
 |Vincular diálogo principal|Se já existe um diálogo previamente criado e você deseja reaproveitar o comportamento dele para o diálogo em criação, basta clicar em “Vincular diálogo principal”.|
 
-3.  Para salvar um novo diálogo, clique em “Salvar” ou se quiser voltar para a
+5.  Para salvar um novo diálogo, clique em “Salvar” ou se quiser voltar para a
     tela inicial de diálogos, clique em “Voltar”.
 
 ## Vincular diálogo principal

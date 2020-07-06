@@ -55,6 +55,7 @@ organização.
 |-|-|
 |Vincular contexto|A opção de vincular contexto é utilizada para cadastrar sinônimos a uma determinada frase. Por exemplo, na saudação “Bom dia”, podemos vincular um contexto de saudações, onde para “Bom dia” teremos os sinônimos “Boa tarde” e “Boa noite”. Ou seja, podemos aprimorar ainda mais os acertos da assistente virtual ao vincularmos mais contextos para uma frase.|
 |Remover| Ao clicar em vincular contexto, aparecerão as opções “Contexto” e “para o texto”, onde iremos procurar pelo contexto correspondente já cadastrado na ferramenta e depois colocaremos as frases sinônimas da que será utilizada nessa intent.|
-| Remover|Para remover a frase cadastrada.                                                                                                                                                                      |
+| Remover|Para remover a frase cadastrada.|
+
 7.  Para salvar a nova intent, clique em “Salvar” ou se quiser voltar para a
     tela inicial de Intents, clique em “Voltar”.
