@@ -37,7 +37,7 @@ atuar antes de definir o nível de acurácia. Veja abaixo o motivo:
 **Notificações**
 
 Área para gerenciamento de quais administradores do sistema precisam receber as
-notificações de atualização do assistente.
+notificações de atualização da assistente.
 
 São enviadas três tipos de notificações:
 
@@ -47,7 +47,7 @@ São enviadas três tipos de notificações:
 |Treinamento concluído|Enviado quando o treinamento foi concluído com sucesso e o assistente está disponível com os novos aprendizados.|
 |Falha no processo|Notifica o administrador da plataforma que a atualização não pôde ser realizada, o motivo e a solução.|
 
-**Exemplo:** Treinamento não realizado. Você precisa cadastrar mais três frases na intente, pois o mínimo de frases para atualização acontecer são quatro frases.|
+**Exemplo:** Treinamento não realizado. Você precisa cadastrar mais três frases na intent, pois o mínimo de frases para atualização acontecer são quatro frases.|
 
 
 **Procedimento**
@@ -60,8 +60,7 @@ São enviadas três tipos de notificações:
 3.  Depois de adicionado, é possível excluir o e-mail.
     - **Migrações**
 
-Esta área permite que utilize o case ou cenário construído no IBM Watson no
-Helper, sem a necessidade de reconstrução dos fluxos de conversação nesta
+Esta área permite que utilize o case ou cenário construído no IBM Watson na Anuva, sem a necessidade de reconstrução dos fluxos de conversação nesta
 plataforma.
 
 **Procedimento**
@@ -83,7 +82,7 @@ plataforma.
 
 !!! note "Nota"
 
-    Pode ocorrer do tipo de frase ou opção não ser compatível com o Helper e por
+    Pode ocorrer do tipo de frase ou opção não ser compatível com a Anuva e por
     este motivo a importação, somente deste item, não ocorrerá. Neste caso será
     necessária a conferência e criação manual do trecho não importado.
 
@@ -93,7 +92,7 @@ Nesta área é possível importar diálogos por intent e exportar os diálogos
 existentes no seu assistente também.
 
 Continua sendo necessário agendar um treinamento após a importação dos diálogos
-para que o Helper aprenda esses diálogos importados também.
+para que a Anuva aprenda esses diálogos importados também.
 
 **Procedimento de exportação**
 
@@ -113,19 +112,17 @@ para que o Helper aprenda esses diálogos importados também.
 |User says|O que a pessoa que está sendo atendida pelo assistente pode dizer. Sendo cada hipótese em uma linha diferente.Exemplo: Olá, boa noite|
 |Text Response| O que o assistente deve responder a esta fala.Exemplo: Olá, eu sou o Helper, seu novo assistente virtual. Estou aqui para simplificar o seu processo de atendimento e ajudá-lo em suas necessidades. Basta digitar o que precisa que eu vou te ajudar!|
 
-!!! exemple "Exemplo"
+**Exemplo**
 
-    ![](media/a328388ce8570d6d775a9829ac12bac4.png)
+1.  Salve a planilha;
 
-    1.  Salve a planilha;
+2.  De volta a página de Importação/Exportação clique o botão Importar;
 
-    2.  De volta a página de Importação/Exportação clique o botão Importar;
+3.  Clique o botão Escolher arquivo;
 
-    3.  Clique o botão Escolher arquivo;
+4.  Localize a planilha salva;
 
-    4.  Localize a planilha salva;
-
-    5.  Clique o botão Importar.
+5.  Clique o botão Importar.
 
 !!! note "Nota"
 
