@@ -37,7 +37,7 @@ plataforma CITSmart e com o Facebook, os demais canais mais utilizados, como
 Twitter e Whatsapp podem ser integrados através do CITSmart;
 
 - **Monitor**: Monitoramento que disponibiliza ao responsável pela administração do
-Helper os dados para análise de como o assistente tem se comportado, perguntas
+Anuva os dados para análise de como o assistente tem se comportado, perguntas
 mais frequentes feitas a ele, respostas mais utilizadas entre outras informações
 para que as os fluxos existentes possam ser aprimorados ou sejam percebidas as
 necessidades de construção de novos fluxos e assim, novo treinamento da
@@ -45,7 +45,7 @@ assistente.
 
 ## Acessando a Anuva
 
-Após a liberação do ambiente Helper, acessar a instância de configuração através
+Após a liberação do ambiente Anuva, acessar a instância de configuração através
 do link disponibilizado. (ex: https://example.anuvaassistent.com)
 
 Neste ambiente, é possível adicionar e revisar conhecimentos para a Anuva,

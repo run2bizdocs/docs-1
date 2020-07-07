@@ -32,9 +32,9 @@ Localize e preencha os seguintes parâmetros:
 
 |**Parâmetro**|**Valor**|
 |-|-|
-|402 Helper Assistant - External URL|http://[nome-servidor].helperassistant.com|
-|441 Helper Assistant - Conversation API|http://[nome-servidor][sigla-idioma].helperassistant.com/webhooks/rest/webhook|
-|442 Helper Assistant - Parameters API|http://[nome-servidor][sigla-idioma].helperassistant.com/conversations/|
+|402 Anuva Assistant - External URL|http://[nome-servidor].Anuvaassistant.com|
+|441 Anuva Assistant - Conversation API|http://[nome-servidor][sigla-idioma].Anuvaassistant.com/webhooks/rest/webhook|
+|442 Anuva Assistant - Parameters API|http://[nome-servidor][sigla-idioma].Anuvaassistant.com/conversations/|
 
 
 **Importante:** Os valores a serem preenchidos nos parâmetros acima dependerão

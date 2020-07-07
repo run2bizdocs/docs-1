@@ -61,7 +61,7 @@ São enviadas três tipos de notificações:
     - **Migrações**
 
 Esta área permite que utilize o case ou cenário construído no IBM Watson no
-Helper, sem a necessidade de reconstrução dos fluxos de conversação nesta
+Anuva, sem a necessidade de reconstrução dos fluxos de conversação nesta
 plataforma.
 
 **Procedimento**
@@ -83,7 +83,7 @@ plataforma.
 
 !!! note "Nota"
 
-    Pode ocorrer do tipo de frase ou opção não ser compatível com o Helper e por
+    Pode ocorrer do tipo de frase ou opção não ser compatível com o Anuva e por
     este motivo a importação, somente deste item, não ocorrerá. Neste caso será
     necessária a conferência e criação manual do trecho não importado.
 
@@ -93,7 +93,7 @@ Nesta área é possível importar diálogos por intent e exportar os diálogos
 existentes no seu assistente também.
 
 Continua sendo necessário agendar um treinamento após a importação dos diálogos
-para que o Helper aprenda esses diálogos importados também.
+para que o Anuva aprenda esses diálogos importados também.
 
 **Procedimento de exportação**
 
@@ -109,9 +109,9 @@ para que o Helper aprenda esses diálogos importados também.
 
 |Função|Descrição|
 |-|-|
-|Intent| Nome da intenção cadastrada no Helper.Exemplo: 1.0 Saudações ao Usuário Logado|
+|Intent| Nome da intenção cadastrada no Anuva.Exemplo: 1.0 Saudações ao Usuário Logado|
 |User says|O que a pessoa que está sendo atendida pelo assistente pode dizer. Sendo cada hipótese em uma linha diferente.Exemplo: Olá, boa noite|
-|Text Response| O que o assistente deve responder a esta fala.Exemplo: Olá, eu sou o Helper, seu novo assistente virtual. Estou aqui para simplificar o seu processo de atendimento e ajudá-lo em suas necessidades. Basta digitar o que precisa que eu vou te ajudar!|
+|Text Response| O que o assistente deve responder a esta fala.Exemplo: Olá, eu sou o Anuva, seu novo assistente virtual. Estou aqui para simplificar o seu processo de atendimento e ajudá-lo em suas necessidades. Basta digitar o que precisa que eu vou te ajudar!|
 
 !!! exemple "Exemplo"
 
