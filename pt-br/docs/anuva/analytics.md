@@ -41,7 +41,7 @@ sua escolha.
 
 Teremos as seguintes informações para análise:
 
-|Função|Descrição|
+|**Função**|**Descrição**|
 |-|-|
 |Data e hora|A data e hora que foi realizada a conversa entre um usuário e a assistente.|
 |Versão|A versão vai variar de acordo com a maturidade do chatbot. Isso significa que a versão da assistente muda de acordo com a quantidade de informação que recebe e os treinamentos a qual é submetida.|
@@ -50,80 +50,45 @@ Teremos as seguintes informações para análise:
 
 Além dessas informações, também apresenta duas opções:
 
-|Função|Descrição|
+|**Função**|**Descrição**|
 |-|-|
 |Ver|Nessa opção é possível ver o detalhamento da conversa entre o usuário e a assistente. O balão de cor azul é a mensagem do usuário. Podemos ver que abaixo dele existe uma porcentagem, que significa a acurácia da assistente e, ao lado, a intent que foi entendida pela Anuva. Caso queira incluir essa frase do usuário à intent entendida, basta clicar nela que você será redirecionado para a página de diálogos. Já o balão de cor branca é a mensagem enviada pela assistente. Abaixo dele a habilidade que foi cadastrada para esse tipo de intent. Caso queira incluir algo novo dessa conversa para a habilidade, basta clicar nela e você também será redirecionado para a página de diálogos. Além disso, também são apresentadas as opções “Atualizar”, caso a conversa ainda esteja acontecendo e você queira receber as novas mensagens; “Exportar” para realizar o download dessa conversa; e “Voltar” para voltar a página anterior.|
-|Download|É possível baixar a conversa em formato xls, onde você poderá ver as interações entre usuário e chatbot.         
+|Download|É possível baixar a conversa em formato xls, onde você poderá ver as interações entre usuário e chatbot.|       
 
 
 ## Ranking de intents
 
-Nesta modalidade é permitido verificar em formato de gráfico quais intents estão
-sendo mais utilizadas pelos usuários do sistema, ou seja, o que os usuários
-estão mais perguntando e/ou demandando da assistente.
+Nesta modalidade é permitido verificar em formato de gráfico quais intents estão sendo mais utilizadas pelos usuários do sistema, ou seja, o que os usuários estão mais perguntando e/ou demandando da assistente.
 
-Após clicar em “Ranking de intents”, primeiramente, é obrigatório a definição de
-um período de tempo no campo “Intervalo”. Depois de definir um tempo, clique em
-“Filtrar”.
+Após clicar em “Ranking de intents”, primeiramente, é obrigatório a definição de um período de tempo no campo “Intervalo”. Depois de definir um tempo, clique em “Filtrar”.
 
-Será apresentado um gráfico com as principais intents de acordo com o período
-selecionado. No lado esquerdo está o gráfico em si, em dias, e no lado direito a
-legenda do que representam as cores e suas determinadas intents.
+Será apresentado um gráfico com as principais intents de acordo com o período selecionado. No lado esquerdo está o gráfico em si, em dias, e no lado direito a legenda do que representam as cores e suas determinadas intents.
 
-Ao final de cada intent existe uma lupa. Ao clicar nessa lupa, você será
-direcionado para a página de lista de conversa dessa intent, que mostrará a
-lista dependendo do período informado para o gráfico.
+Ao final de cada intent existe uma lupa. Ao clicar nessa lupa, você será direcionado para a página de lista de conversa dessa intent, que mostrará a lista dependendo do período informado para o gráfico.
 
-Além disso, ao clicar em alguma intent da legenda, você será direcionado para a
-página de diálogo relacionada, onde é possível analisar se as frases estão
-corretas ou fazer alguma alteração.
+Além disso, ao clicar em alguma intent da legenda, você será direcionado para a página de diálogo relacionada, onde é possível analisar se as frases estão corretas ou fazer alguma alteração.
 
 ## Ranking de respostas
 
-Funciona de forma parecida ao ranking de intents. Nesta modalidade é permitido
-verificar quais habilidades estão sendo mais utilizadas pelos usuários do
-sistema, ou seja, o que a assistente mais responde durante a interação com o
-usuário.
+Funciona de forma parecida ao ranking de intents. Nesta modalidade é permitido verificar quais habilidades estão sendo mais utilizadas pelos usuários do sistema, ou seja, o que a assistente mais responde durante a interação com o usuário.
 
-Após clicar em “Ranking de respostas”, primeiramente, é obrigatório a definição
-de um período de tempo no campo “Intervalo\*”. Depois de definir um tempo,
-clique em “Filtrar”.
+Após clicar em “Ranking de respostas”, primeiramente, é obrigatório a definição de um período de tempo no campo “Intervalo”. Depois de definir um tempo, clique em “Filtrar”.
 
-Será apresentado um gráfico com as principais habilidades de acordo com o
-período selecionado. No lado esquerdo está o gráfico em si, em dias, e no lado
-direito a legenda do que representa as cores e suas determinadas habilidades.
+Será apresentado um gráfico com as principais habilidades de acordo com o período selecionado. No lado esquerdo está o gráfico em si, em dias, e no lado direito a legenda do que representa as cores e suas determinadas habilidades.
 
-No final de cada habilidade existe uma lupa. Ao clicar nessa lupa, você será
-direcionado para a página de lista de conversa dessa habilidade, que mostrará a
-lista dependendo do período informado para o gráfico.
+No final de cada habilidade existe uma lupa. Ao clicar nessa lupa, você será direcionado para a página de lista de conversa dessa habilidade, que mostrará a lista dependendo do período informado para o gráfico.
 
-Além disso, ao clicar em alguma habilidade da legenda, você será direcionado
-para a página de diálogo relacionada, onde é possível analisar se as frases
-estão corretas ou fazer alguma alteração.
+Além disso, ao clicar em al guma habilidade da legenda, você será direcionado para a página de diálogo relacionada, onde é possível analisar se as frases estão corretas ou fazer alguma alteração.
 
 ## Ranking fallback
 
-Nesta modalidade podemos verificar quais são as intents que o sistema não
-conseguiu entender, ou seja, quais interações com usuário que foram
-insatisfatórias pois a assistente não conseguiu entender o objetivo da mensagem.
-O fallback, para o sistema, é uma habilidade previamente cadastrada que
-apresenta uma mensagem como resposta ao usuário, criada por um administrador da
-plataforma a fim de informar ao usuário que a assistente não tem conhecimentos,
-cadastrados e treinados, suficientes para atender à solicitação.
+Nesta modalidade podemos verificar quais são as intents que o sistema não conseguiu entender, ou seja, quais interações com usuário que foram insatisfatórias pois a assistente não conseguiu entender o objetivo da mensagem.
 
-Após clicar em “Ranking fallback”, primeiramente, é obrigatório a definição de
-um período de tempo no campo “Intervalo\*”. Depois de definir um tempo, clique
-em “Filtrar”.
+O fallback, para o sistema, é uma habilidade previamente cadastrada que apresenta uma mensagem como resposta ao usuário, criada por um administrador da plataforma a fim de informar ao usuário que a assistente não tem conhecimentos, cadastrados e treinados, suficientes para atender à solicitação.
 
-Será apresentado um gráfico com a habilidades de fallback que não foi entendida
-pela assistente, de acordo com o período selecionado. No lado esquerdo está o
-gráfico em si, em dias, e no lado direito a legenda com a habilidade de
-fallback.
+Após clicar em “Ranking fallback”, primeiramente, é obrigatório a definição de um período de tempo no campo “Intervalo\*”. Depois de definir um tempo, clique em “Filtrar”.
 
-Ao clicar na legenda do fallback, você será direcionado para a página de lista
-de conversa dessa habilidade dependendo dos dias selecionados no filtro de
-intervalo. Ao ver essas conversas, o analista pode verificar se a falta de
-compreensão da assistente é correto, ou seja, se o usuário está demandando algo
-fora do escopo de criação dela ou se é uma carência, e nesse caso o
-administrador pode melhorar sua interação e acurácia, construindo novos fluxos
-de conversação ou refinando os existentes.
+Será apresentado um gráfico com a habilidades de fallback que não foi entendida pela assistente, de acordo com o período selecionado. No lado esquerdo está o gráfico em si, em dias, e no lado direito a legenda com a habilidade de fallback.
+
+Ao clicar na legenda do fallback, você será direcionado para a página de lista  de conversa dessa habilidade dependendo dos dias selecionados no filtro de intervalo. Ao ver essas conversas, o analista pode verificar se a falta de compreensão da assistente é correto, ou seja, se o usuário está demandando algo fora do escopo de criação dela ou se é uma carência, e nesse caso o
+administrador pode melhorar sua interação e acurácia, construindo novos fluxos de conversação ou refinando os existentes.

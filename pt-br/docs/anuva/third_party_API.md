@@ -2,23 +2,17 @@ Title: API de Terceiros
 
 # API de terceiros
 
-A nossa assistente virtual Anuva disponibiliza uma área para integrar API
-externas ao chatbot. Com isso você poderá utilizar API de terceiros com todos os
-recursos da Anuva. Essa integração é realizada através de requisição REST e
-necessita de alguns passos para ser configurada.
+A nossa assistente virtual Anuva disponibiliza uma área para integrar API externas ao chatbot. Com isso você poderá utilizar API de terceiros com todos os recursos da Anuva. Essa integração é realizada através de requisição REST e necessita de alguns passos para ser configurada.
 
 ## Procedimento
 
 1.  Após acessar a plataforma, acesse o menu “APIs de terceiros”;
 
-2.  A tela apresentará as APIs já cadastrados anteriormente, caso haja algum,
-    com as opções de Edição e Exclusão;
+2.  A tela apresentará as APIs já cadastrados anteriormente, caso haja algum, com as opções de Edição e Exclusão;
 
-3.  Caso queira procurar por uma API específica, utilize o campo de busca e
-    clique o botão “Buscar”;
+3.  Caso queira procurar por uma API específica, utilize o campo de busca e clique o botão “Buscar”;
 
-4.  Para registrar uma nova API, clique em “Novo”. Aparecerão os seguintes
-    campos para serem preenchidos:
+4.  Para registrar uma nova API, clique em “Novo”. Aparecerão os seguintes campos para serem preenchidos:
 
 |**Campo**|**Definição**|
 |-|-|
@@ -27,14 +21,11 @@ necessita de alguns passos para ser configurada.
 |Método| Selecionar qual método htpp será utilizado pela API: POST, GET, PUT, DELETE ou PATCH|
 |URL| Definir a URL do novo API. Caso queira incluir na URL um contexto já cadastrado na assistente virtual, colocar o valor entre {}. |
 
-Uma vez preenchidos os campos de identificação, vamos preencher os atributos
-necessários para dar continuidade as requisições REST: cabeçalho, corpo,
-respostas e configurações.
+Uma vez preenchidos os campos de identificação, vamos preencher os atributos necessários para dar continuidade as requisições REST: cabeçalho, corpo, respostas e configurações.
 
 ### **Cabeçalhos**
 
-Essa função permite adicionar valores necessários para o cabeçalho da requisição
-REST.
+Essa função permite adicionar valores necessários para o cabeçalho da requisição REST.
 
 1.  Clique o botão “+” para adicionar o cabeçalho com as informações para:
 
@@ -42,7 +33,7 @@ REST.
 
   - Valor.
 
-2.  Clicar em Salvar.
+2\.  Clicar em Salvar.
 
 ### **Corpo**
 
@@ -54,19 +45,17 @@ No corpo é possível montar o conteúdo que será enviado no corpo da requisiç
 
   - Nome;
 
-  - Tipo: texto, número, booleano, lista, objeto, contexto, histórico do chat,
-    última mensagem do chat, identificação do usuário, valor indefinido e valor
-    vazio;
+  - Tipo: texto, número, booleano, lista, objeto, contexto, histórico do chat, última mensagem do chat, identificação do usuário, valor indefinido e valor vazio;
 
   - Valor: o valor irá depender do tipo selecionado.
 
-4.  Clique em Salvar.
+4\.  Clique em Salvar.
 
 ### **Respostas**
 
 Em respostas vamos configurar o que a gente espera dessa API.
 
-5.  Clicar o botão “+” para adicionar as informações com para:
+1.  Clicar o botão “+” para adicionar as informações com para:
 
   - Formato da resposta: pode ser em JSON ou Text;
 
@@ -76,14 +65,13 @@ Em respostas vamos configurar o que a gente espera dessa API.
 
   - Identificação.
 
-6.  Clique em Salvar.
+2\.  Clique em Salvar.
 
 ### **Configurações**
 
-Aqui iremos definir as configurações da requisição que irão influenciar no
-entendimento da assistente.
+Aqui iremos definir as configurações da requisição que irão influenciar no entendimento da assistente.
 
-7.  Selecione o código desejado para definir os campos:
+1.  Selecione o código desejado para definir os campos:
 
   - Status htpp de sucess;
 
@@ -91,16 +79,14 @@ entendimento da assistente.
 
   - Status htpp de não encontrado.
 
->   *\* As opções apresentadas para esses campos são pré-definidas pelo
->   sistema.*
+>  *As opções apresentadas para esses campos são pré-definidas pelo sistema.*
 
-8.  Depois, definir as mensagens que aparecerão na tela do chatbot para os
-    seguintes casos:
+2\.  Depois, definir as mensagens que aparecerão na tela do chatbot para os seguintes casos:
 
   - Mensagem do chatbot para conteúdo não encontrado;
 
   - Mensagem do chatbot para falha na requisição;
 
-9.  Definir se a API sendo criada é uma API de autenticação.
+3\.  Definir se a API sendo criada é uma API de autenticação.
 
-10.   Clique em Salvar.
+4\.   Clique em Salvar.
