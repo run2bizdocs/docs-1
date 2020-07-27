@@ -6,7 +6,7 @@ Description: Describe the release and update cycles of CITSmart Products, client
 ## Overview
 The purpose of this policy is to describe the release and update cycles for CITSmart Products, client notifications and other relevant information.
 
-The policy guidelines are applicable to all of our products, whether they are using the SaaS or On-Premise model.
+The policy guidelines are applicable to all of our products, whether they are using the SaaS or On-Premises model.
 
 ## Release and Update Cycles
 Our product release and update proposal was designed to provide stability, quick response to problems and a continuous supply of new features and experiences.
@@ -48,7 +48,7 @@ Our current policy is to support the latest version and the previous one.
 CITSmart generally performs a major release per year, so the client will need to update approximately once every two years to stay on a supported version. CITSmart provides updates (for example, fixes and hotfixes) only for the supported versions.
 
 ## Additional Update Information
-The Update Procedures depend on the model of the acquired solution (SaaS or On-Premise), for each one, follow the recommendations below:
+The Update Procedures depend on the model of the acquired solution (SaaS or On-Premises), for each one, follow the recommendations below:
 
 ### SaaS Clients
 Clients can schedule software updates when needed by submitting a new service request through our support website. In this request, the client informs the desired date for updating, the version and type of non-production or production environment). Interruption times are defined to minimize disruption to the client's business. The entire update process is done by the CITSmart support team.
