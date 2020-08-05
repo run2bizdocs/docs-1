@@ -711,17 +711,18 @@ nav:
   - Neuro FAQ:
     - neuro/neuro-faq.md
 - Anuva:
-  - anuva/overview.md
-  - anuva/release-anuva.md
-  - Configuração:
-    - anuva/configuration/anuva-citsmart.md
-    - anuva/configuration/context-anuva.md
-    - anuva/configuration/interact-anuva.md
-    - anuva/configuration/store-dialog-anuva.md
-  - Uso:
-    - anuva/use/teach-anuva.md
-    - anuva/use/trainning-anuva.md
-    - anuva/use/monitoring-anuva.md
+  - anuva/what_is_anuva.md
+  - anuva/dialogues.md
+  - anuva/create_edit_intent.md
+  - anuva/skills.md
+  - anuva/themes.md
+  - anuva/context.md
+  - anuva/analytics.md
+  - anuva/third_party_API.md
+  - anuva/integrations.md
+  - anuva/trainings.md
+  - anuva/users.md
+  - anuva/settings.md
 - Workflow:
   - citsmart-platform-9/workflow/overview.md
   - Criar um fluxo de trabalho:
